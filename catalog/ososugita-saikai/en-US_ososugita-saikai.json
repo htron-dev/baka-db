@@ -1,5 +1,9 @@
 {
     "title": "Ososugita Saikai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/57865.jpg",
+        "alt": "ososugita-saikai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

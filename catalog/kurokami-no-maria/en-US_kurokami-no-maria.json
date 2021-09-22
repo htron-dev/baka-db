@@ -1,5 +1,9 @@
 {
     "title": "Kurokami no Maria",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26338.jpg",
+        "alt": "kurokami-no-maria"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

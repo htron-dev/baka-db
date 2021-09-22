@@ -1,5 +1,9 @@
 {
     "title": "Haru wa Kuru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/37107.jpg",
+        "alt": "haru-wa-kuru"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "春は来る",

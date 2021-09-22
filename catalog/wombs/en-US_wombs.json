@@ -1,5 +1,9 @@
 {
     "title": "Wombs",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172490.jpg",
+        "alt": "wombs"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "43",

@@ -1,5 +1,9 @@
 {
     "title": "Boku ni Hana no Melancholy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175323.jpg",
+        "alt": "boku-ni-hana-no-melancholy"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "90",

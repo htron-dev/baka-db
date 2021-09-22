@@ -1,12 +1,16 @@
 {
     "title": "Sunabouzu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/75536.jpg",
+        "alt": "sunabouzu"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "砂ぼうず",
     "start_date": "2004-10-06",
     "end_date": "2004-10-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Sand Mission\" by ZETKI (eps 1-11)",
+    "ending_song": "#1: \"Sunabouzu Ekaki Uta\" by Hideaki Takatori (eps 1-12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Bishoujo Senshi Sailor Moon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/126449.jpg",
+        "alt": "bishoujo-senshi-sailor-moon"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "61",

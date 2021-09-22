@@ -1,12 +1,16 @@
 {
     "title": "Croket!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/88729.jpg",
+        "alt": "croket"
+    },
     "type": "tv-serie",
     "episodes": "104",
     "original_name": "コロッケ！",
     "start_date": "2003-04-07",
     "end_date": "2003-04-07",
     "opening_song": "\"MIRACLE HIGH TENSION\" by Psycho Le Cému",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Visitor\" By Psycho le cemu",
     "rating": "G - All Ages",
     "tags": [
         "action",

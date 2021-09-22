@@ -1,5 +1,9 @@
 {
     "title": "Yumemi Douji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/71597.jpg",
+        "alt": "yumemi-douji"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "夢見童子",

@@ -1,5 +1,9 @@
 {
     "title": "Tsuki no Kakera",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30633.jpg",
+        "alt": "tsuki-no-kakera"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "月のかけら",

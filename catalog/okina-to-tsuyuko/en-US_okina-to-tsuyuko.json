@@ -1,5 +1,9 @@
 {
     "title": "Okina to Tsuyuko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/123797.jpg",
+        "alt": "okina-to-tsuyuko"
+    },
     "type": "manga",
     "original_name": "おきなとつゆこ",
     "start_date": "2013-03-30",

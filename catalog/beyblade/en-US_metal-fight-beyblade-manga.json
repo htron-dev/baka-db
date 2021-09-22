@@ -1,5 +1,9 @@
 {
     "title": "Metal Fight Beyblade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175423.jpg",
+        "alt": "metal-fight-beyblade"
+    },
     "type": "manga",
     "volumes": "11",
     "original_name": "メタルファイト ベイブレード",

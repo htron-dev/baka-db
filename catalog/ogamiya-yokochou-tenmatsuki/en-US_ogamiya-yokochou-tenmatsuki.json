@@ -1,5 +1,9 @@
 {
     "title": "Ogamiya Yokochou Tenmatsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190234.jpg",
+        "alt": "ogamiya-yokochou-tenmatsuki"
+    },
     "type": "manga",
     "volumes": "27",
     "chapters": "177",

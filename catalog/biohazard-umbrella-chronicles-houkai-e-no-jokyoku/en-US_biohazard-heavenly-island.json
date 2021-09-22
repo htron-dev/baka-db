@@ -1,5 +1,9 @@
 {
     "title": "Biohazard: Heavenly Island",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164464.jpg",
+        "alt": "biohazard-heavenly-island"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "50",

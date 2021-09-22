@@ -1,5 +1,9 @@
 {
     "title": "Koi wo Suru made Kaesanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36726.jpg",
+        "alt": "koi-wo-suru-made-kaesanai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

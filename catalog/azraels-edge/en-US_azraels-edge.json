@@ -1,5 +1,9 @@
 {
     "title": "Azrael's Edge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/21416.jpg",
+        "alt": "azraels-edge"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

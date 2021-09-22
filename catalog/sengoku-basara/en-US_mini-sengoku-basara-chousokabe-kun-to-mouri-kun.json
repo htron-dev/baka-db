@@ -1,5 +1,9 @@
 {
     "title": "Mini Sengoku Basara: Chousokabe-kun to Mouri-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/26668.jpg",
+        "alt": "mini-sengoku-basara-chousokabe-kun-to-mouri-kun"
+    },
     "type": "special",
     "episodes": "7",
     "original_name": "ミニ戦国 BASARA 　長曾我部君と毛利君",
@@ -26,7 +30,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Sengoku_Basara_(anime"
+            "link": "http://en.wikipedia.org/wiki/Sengoku_Basara_%28anime%29"
         }
     ]
 }

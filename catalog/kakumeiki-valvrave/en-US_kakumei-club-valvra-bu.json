@@ -1,5 +1,9 @@
 {
     "title": "Kakumei Club Valvra-bu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152885.jpg",
+        "alt": "kakumei-club-valvra-bu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

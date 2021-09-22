@@ -1,12 +1,16 @@
 {
     "title": "Fortune Arterial: Akai Yakusoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/26876.jpg",
+        "alt": "fortune-arterial-akai-yakusoku"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "FORTUNE ARTERIAL 赤い約束",
     "start_date": "2010-10-09",
     "end_date": "2010-10-09",
     "opening_song": "\"絆-kizunairo-色\" by Lia (eps 1-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"I miss you\" by Veil (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

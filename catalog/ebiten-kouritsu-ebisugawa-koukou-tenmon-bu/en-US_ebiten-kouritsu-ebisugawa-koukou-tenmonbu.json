@@ -1,12 +1,16 @@
 {
     "title": "Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/75842.jpg",
+        "alt": "ebiten-kouritsu-ebisugawa-koukou-tenmonbu"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "えびてん 公立海老栖川高校天悶部",
     "start_date": "2012-07-14",
     "end_date": "2012-07-14",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Mirai-iro no Yakusoku (未来色の約束)\" by Hoshi no Shoujo-tai☆ (星の少女 tai☆) (Iori Nomizu, Asuka Nishi, Risako Murai, Midori Tsukimiya) (eps 1-9)",
+    "ending_song": "#1: \"Mirai-iro no Yakusoku (未来色の約束)\" by Hoshi no Shoujo-tai☆ (星の少女 tai☆) (Iori Nomizu, Asuka Nishi, Risako Murai, Midori Tsukimiya) (eps 1-9)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

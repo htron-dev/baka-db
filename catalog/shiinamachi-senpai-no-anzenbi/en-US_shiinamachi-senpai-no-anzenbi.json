@@ -1,5 +1,9 @@
 {
     "title": "Shiinamachi-senpai no Anzenbi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158711.jpg",
+        "alt": "shiinamachi-senpai-no-anzenbi"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "26",

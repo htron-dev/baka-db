@@ -1,5 +1,9 @@
 {
     "title": "Oishii Kimi no Tsukurikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246405.jpg",
+        "alt": "oishii-kimi-no-tsukurikata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

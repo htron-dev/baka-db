@@ -1,5 +1,9 @@
 {
     "title": "Maybe So Sweet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31672.jpg",
+        "alt": "maybe-so-sweet"
+    },
     "type": "manhwa",
     "volumes": "2",
     "original_name": "아마도 달콤 하겠지",

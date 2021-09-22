@@ -1,5 +1,9 @@
 {
     "title": "Touryou Gakuin no Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/138353.jpg",
+        "alt": "touryou-gakuin-no-hanayome"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "藤陵学院の花嫁",

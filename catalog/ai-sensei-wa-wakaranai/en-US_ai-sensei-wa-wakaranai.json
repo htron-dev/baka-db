@@ -1,5 +1,9 @@
 {
     "title": "Ai-sensei wa Wakaranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175775.jpg",
+        "alt": "ai-sensei-wa-wakaranai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

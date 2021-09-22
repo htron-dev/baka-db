@@ -1,5 +1,9 @@
 {
     "title": "Eko Eko Azarak",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/52733.jpg",
+        "alt": "eko-eko-azarak"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "エコエコアザラク",
@@ -30,7 +34,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Eko_Eko_Azarak_(manga"
+            "link": "http://en.wikipedia.org/wiki/Eko_Eko_Azarak_%28manga%29"
         }
     ]
 }

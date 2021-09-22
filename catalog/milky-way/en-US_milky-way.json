@@ -1,5 +1,9 @@
 {
     "title": "Milky Way",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/73747.jpg",
+        "alt": "milky-way"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,11 +1,15 @@
 {
     "title": "Gall Force: New Era",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/26527.jpg",
+        "alt": "gall-force-new-era"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "ガルフォース新世紀編",
     "start_date": "1991-12-01",
     "end_date": "1991-12-01",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Inori (祈り)\" by Miki Ishioka (ep 1)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

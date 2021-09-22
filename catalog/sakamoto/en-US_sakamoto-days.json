@@ -1,5 +1,9 @@
 {
     "title": "Sakamoto Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/242919.jpg",
+        "alt": "sakamoto-days"
+    },
     "type": "manga",
     "original_name": "SAKAMOTO DAYS",
     "start_date": "2020-11-21",

@@ -1,5 +1,9 @@
 {
     "title": "Ookami wa Nemuranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/220590.jpg",
+        "alt": "ookami-wa-nemuranai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

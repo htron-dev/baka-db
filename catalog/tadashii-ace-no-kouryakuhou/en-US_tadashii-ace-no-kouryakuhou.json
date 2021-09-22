@@ -1,5 +1,9 @@
 {
     "title": "Tadashii Ace no Kouryakuhou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/96217.jpg",
+        "alt": "tadashii-ace-no-kouryakuhou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

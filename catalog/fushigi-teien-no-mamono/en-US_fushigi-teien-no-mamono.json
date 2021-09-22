@@ -1,5 +1,9 @@
 {
     "title": "Fushigi Teien no Mamono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/96865.jpg",
+        "alt": "fushigi-teien-no-mamono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

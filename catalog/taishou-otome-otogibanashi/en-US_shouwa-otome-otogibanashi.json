@@ -1,5 +1,9 @@
 {
     "title": "Shouwa Otome Otogibanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221857.jpg",
+        "alt": "shouwa-otome-otogibanashi"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "48",

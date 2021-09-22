@@ -1,5 +1,9 @@
 {
     "title": "Ao Oni The Animation (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/81440.jpg",
+        "alt": "ao-oni-the-animation-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "青鬼 THE ANIMATION",

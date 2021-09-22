@@ -1,5 +1,9 @@
 {
     "title": "T.R.A.P.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170022.jpg",
+        "alt": "t-r-a-p"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "58",

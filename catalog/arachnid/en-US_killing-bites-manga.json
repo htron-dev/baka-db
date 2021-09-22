@@ -1,5 +1,9 @@
 {
     "title": "Killing Bites",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188971.jpg",
+        "alt": "killing-bites"
+    },
     "type": "manga",
     "original_name": "キリングバイツ",
     "start_date": "2013-11-30",

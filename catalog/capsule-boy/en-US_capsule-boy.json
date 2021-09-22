@@ -1,5 +1,9 @@
 {
     "title": "Capsule Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/83625.jpg",
+        "alt": "capsule-boy"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "캡슐보이",

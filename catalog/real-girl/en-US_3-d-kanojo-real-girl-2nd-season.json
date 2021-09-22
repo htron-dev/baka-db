@@ -1,12 +1,16 @@
 {
     "title": "3D Kanojo: Real Girl 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1237/113435.jpg",
+        "alt": "3-d-kanojo-real-girl-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "3D 彼女 リアルガール第 2 シーズン",
     "start_date": "2019-01-09",
     "end_date": "2019-01-09",
     "opening_song": "\"Futari nara (二人なら)\" by BiSH",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hagan (破顔)\" by Fujifabric (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "romance",

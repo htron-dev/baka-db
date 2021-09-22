@@ -1,5 +1,9 @@
 {
     "title": "Kurokano",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165784.jpg",
+        "alt": "kurokano"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

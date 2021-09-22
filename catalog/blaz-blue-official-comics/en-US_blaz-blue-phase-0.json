@@ -1,5 +1,9 @@
 {
     "title": "BlazBlue: Phase 0",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/45899.jpg",
+        "alt": "blaz-blue-phase-0"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

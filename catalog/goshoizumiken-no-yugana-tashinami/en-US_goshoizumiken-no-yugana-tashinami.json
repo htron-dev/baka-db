@@ -1,5 +1,9 @@
 {
     "title": "Goshoizumiken no Yugana Tashinami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/63513.jpg",
+        "alt": "goshoizumiken-no-yugana-tashinami"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "14",

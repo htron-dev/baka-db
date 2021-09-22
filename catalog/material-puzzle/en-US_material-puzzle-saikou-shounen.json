@@ -1,5 +1,9 @@
 {
     "title": "Material Puzzle: Saikou Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/217045.jpg",
+        "alt": "material-puzzle-saikou-shounen"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

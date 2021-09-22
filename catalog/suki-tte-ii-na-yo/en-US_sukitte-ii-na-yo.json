@@ -1,12 +1,16 @@
 {
     "title": "Sukitte Ii na yo.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/39777.jpg",
+        "alt": "sukitte-ii-na-yo"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "好きっていいなよ。",
     "start_date": "2012-10-07",
     "end_date": "2012-10-07",
     "opening_song": "\"Friendship ~ for Sukitte Ii na yo. (Friendship ～ for 好きっていいなよ。)\" by Ritsuko Okazaki",
-    "ending_song": "#1",
+    "ending_song": "#1: \"slow dance\" by Suneohair (eps 1-11, 13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

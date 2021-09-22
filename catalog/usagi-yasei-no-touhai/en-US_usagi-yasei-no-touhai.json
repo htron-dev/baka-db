@@ -1,5 +1,9 @@
 {
     "title": "Usagi: Yasei no Touhai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196187.jpg",
+        "alt": "usagi-yasei-no-touhai"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "157",

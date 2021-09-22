@@ -1,5 +1,9 @@
 {
     "title": "Hajimete no Hito wa, Kareshi no Otouto.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241755.jpg",
+        "alt": "hajimete-no-hito-wa-kareshi-no-otouto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

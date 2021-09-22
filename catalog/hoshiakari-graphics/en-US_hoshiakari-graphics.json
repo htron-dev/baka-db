@@ -1,5 +1,9 @@
 {
     "title": "Hoshiakari Graphics",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/217160.jpg",
+        "alt": "hoshiakari-graphics"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

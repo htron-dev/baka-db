@@ -1,5 +1,9 @@
 {
     "title": "Tytania",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/10435.jpg",
+        "alt": "tytania"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "タイタニア",

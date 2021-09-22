@@ -1,5 +1,9 @@
 {
     "title": "Nanatsusa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155655.jpg",
+        "alt": "nanatsusa"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ななつさ",

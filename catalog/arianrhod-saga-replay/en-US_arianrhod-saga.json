@@ -1,5 +1,9 @@
 {
     "title": "Arianrhod Saga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162779.jpg",
+        "alt": "arianrhod-saga"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "18",

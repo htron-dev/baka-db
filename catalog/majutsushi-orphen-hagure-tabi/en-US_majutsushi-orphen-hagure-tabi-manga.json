@@ -1,5 +1,9 @@
 {
     "title": "Majutsushi Orphen Hagure Tabi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/144955.jpg",
+        "alt": "majutsushi-orphen-hagure-tabi"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "36",

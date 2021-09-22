@@ -1,5 +1,9 @@
 {
     "title": "Makura no Danshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/75142.jpg",
+        "alt": "makura-no-danshi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "枕男子（まくらのだんし）",

@@ -1,5 +1,9 @@
 {
     "title": "A-Channel: +A-Channel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/29573.jpg",
+        "alt": "a-channel-a-channel"
+    },
     "type": "special",
     "episodes": "11",
     "original_name": "A チャンネル",

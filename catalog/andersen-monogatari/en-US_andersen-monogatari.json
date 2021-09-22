@@ -1,5 +1,9 @@
 {
     "title": "Andersen Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1051/100526.jpg",
+        "alt": "andersen-monogatari"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "アンデルセン物語",

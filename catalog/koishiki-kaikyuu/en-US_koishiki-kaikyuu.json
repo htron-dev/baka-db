@@ -1,5 +1,9 @@
 {
     "title": "Koishiki Kaikyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/20406.jpg",
+        "alt": "koishiki-kaikyuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

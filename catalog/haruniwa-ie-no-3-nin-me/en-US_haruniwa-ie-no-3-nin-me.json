@@ -1,12 +1,16 @@
 {
     "title": "Haruniwa Ie no 3 Nin-me",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/84083.jpg",
+        "alt": "haruniwa-ie-no-3-nin-me"
+    },
     "type": "tv-serie",
     "episodes": "45",
     "original_name": "春庭家の 3 人目",
     "start_date": "1998-01-23",
     "end_date": "1998-01-23",
-    "opening_song": "\"Haru Vacation",
-    "ending_song": "\"Haru Vacation",
+    "opening_song": "\"Haru Vacation: La Le La (春・Vacation~LA LE LA~)\" by WHAT A SWEET!",
+    "ending_song": "\"Haru Vacation: La Le La (春・Vacation~LA LE LA~)\" by WHAT A SWEET!",
     "rating": "G - All Ages",
     "tags": [
         "slice-of-life",

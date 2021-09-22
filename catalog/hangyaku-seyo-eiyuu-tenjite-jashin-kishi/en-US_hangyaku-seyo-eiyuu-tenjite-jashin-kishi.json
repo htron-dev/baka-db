@@ -1,5 +1,9 @@
 {
     "title": "Hangyaku seyo! Eiyuu, Tenjite Jashin Kishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198863.jpg",
+        "alt": "hangyaku-seyo-eiyuu-tenjite-jashin-kishi"
+    },
     "type": "light-novel",
     "original_name": "叛逆せよ！英雄、転じて邪神騎士",
     "start_date": "2017-07-07",

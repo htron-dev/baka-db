@@ -1,5 +1,9 @@
 {
     "title": "Sidonia no Kishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/53257.jpg",
+        "alt": "sidonia-no-kishi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "シドニアの騎士",

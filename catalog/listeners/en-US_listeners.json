@@ -1,12 +1,16 @@
 {
     "title": "Listeners",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1589/106391.jpg",
+        "alt": "listeners"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "LISTENERS リスナーズ",
     "start_date": "2020-04-04",
     "end_date": "2020-04-04",
     "opening_song": "\"Into the blue's\" by ACCAMER",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Muse\" by μ (Rie Takahashi) (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

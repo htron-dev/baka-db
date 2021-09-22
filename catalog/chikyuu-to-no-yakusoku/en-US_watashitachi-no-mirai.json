@@ -1,5 +1,9 @@
 {
     "title": "Watashitachi no Mirai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1194/91112.jpg",
+        "alt": "watashitachi-no-mirai"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "私たちの未来",

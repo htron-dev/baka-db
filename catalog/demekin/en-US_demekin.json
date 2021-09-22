@@ -1,5 +1,9 @@
 {
     "title": "Demekin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/115581.jpg",
+        "alt": "demekin"
+    },
     "type": "manga",
     "original_name": "デメキン",
     "start_date": "2009-10-27",

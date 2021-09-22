@@ -1,5 +1,9 @@
 {
     "title": "Collectors",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200756.jpg",
+        "alt": "collectors"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "44",

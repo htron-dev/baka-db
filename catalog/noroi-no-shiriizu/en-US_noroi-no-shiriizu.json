@@ -1,5 +1,9 @@
 {
     "title": "Noroi no Shiriizu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/19170.jpg",
+        "alt": "noroi-no-shiriizu"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "呪いのシリーズ",

@@ -1,5 +1,9 @@
 {
     "title": "Fuyu no Hi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/5077.jpg",
+        "alt": "fuyu-no-hi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "冬の日",

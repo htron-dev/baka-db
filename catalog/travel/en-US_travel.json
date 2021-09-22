@@ -1,5 +1,9 @@
 {
     "title": "Travel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/178182.jpg",
+        "alt": "travel"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "トラベル",

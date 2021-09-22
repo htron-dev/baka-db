@@ -1,5 +1,9 @@
 {
     "title": "Kimi ni Ayamaritakute Ore wa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199716.jpg",
+        "alt": "kimi-ni-ayamaritakute-ore-wa"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

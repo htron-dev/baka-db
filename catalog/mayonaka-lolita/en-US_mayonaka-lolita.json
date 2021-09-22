@@ -1,5 +1,9 @@
 {
     "title": "Mayonaka Lolita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/65721.jpg",
+        "alt": "mayonaka-lolita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

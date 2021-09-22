@@ -1,12 +1,16 @@
 {
     "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1325/100406.jpg",
+        "alt": "ore-no-imouto-ga-konnani-kawaii-wake-ga-nai"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "俺の妹がこんなに可愛いわけがない。",
     "start_date": "2013-04-07",
     "end_date": "2013-04-07",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: \"reunion\" by ClariS (eps 2-8, 11-13)",
+    "ending_song": "#01: \"Kanjou-sen loop (感情線 loop)\" by Kirino Kousaka (CV: Ayana Taketatsu) (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

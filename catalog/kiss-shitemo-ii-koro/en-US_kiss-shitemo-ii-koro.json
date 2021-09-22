@@ -1,5 +1,9 @@
 {
     "title": "Kiss shitemo Ii Koro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164449.jpg",
+        "alt": "kiss-shitemo-ii-koro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

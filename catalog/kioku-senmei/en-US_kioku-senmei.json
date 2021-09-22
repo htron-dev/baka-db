@@ -1,5 +1,9 @@
 {
     "title": "Kioku Senmei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/175796.jpg",
+        "alt": "kioku-senmei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

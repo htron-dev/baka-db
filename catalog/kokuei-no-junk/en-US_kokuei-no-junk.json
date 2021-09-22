@@ -1,5 +1,9 @@
 {
     "title": "Kokuei no Junk",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204026.jpg",
+        "alt": "kokuei-no-junk"
+    },
     "type": "manga",
     "original_name": "黒影のジャンク",
     "start_date": "2017-05-07",

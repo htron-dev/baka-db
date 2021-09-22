@@ -1,5 +1,9 @@
 {
     "title": "Manga Grimm Douwa: Goumon to Shokei no Sekaishi-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/137327.jpg",
+        "alt": "manga-grimm-douwa-goumon-to-shokei-no-sekaishi-hen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

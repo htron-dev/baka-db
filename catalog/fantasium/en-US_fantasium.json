@@ -1,5 +1,9 @@
 {
     "title": "Fantasium",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162032.jpg",
+        "alt": "fantasium"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "49",

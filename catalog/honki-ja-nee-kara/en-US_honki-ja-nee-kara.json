@@ -1,5 +1,9 @@
 {
     "title": "Honki ja Nee kara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/82304.jpg",
+        "alt": "honki-ja-nee-kara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

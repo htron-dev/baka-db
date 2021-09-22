@@ -1,5 +1,9 @@
 {
     "title": "Love★You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/206225.jpg",
+        "alt": "love★-you"
+    },
     "type": "light-novel",
     "volumes": "6",
     "chapters": "31",

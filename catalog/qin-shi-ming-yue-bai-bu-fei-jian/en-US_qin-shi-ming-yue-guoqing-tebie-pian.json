@@ -1,5 +1,9 @@
 {
     "title": "Qin Shi Ming Yue: Guoqing Tebie Pian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/79956.jpg",
+        "alt": "qin-shi-ming-yue-guoqing-tebie-pian"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "秦時明月国庆特别篇",
@@ -19,7 +23,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/The_Legend_of_Qin_(TV_series"
+            "link": "https://en.wikipedia.org/wiki/The_Legend_of_Qin_%28TV_series%29"
         }
     ]
 }

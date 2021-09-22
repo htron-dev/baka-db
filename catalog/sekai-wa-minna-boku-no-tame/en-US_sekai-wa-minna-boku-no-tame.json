@@ -1,5 +1,9 @@
 {
     "title": "Sekai wa Minna Boku no Tame",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/26287.jpg",
+        "alt": "sekai-wa-minna-boku-no-tame"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "世界はみんなボクの為",

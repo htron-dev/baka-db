@@ -1,5 +1,9 @@
 {
     "title": "Yuta-san wa Mama Naranai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196157.jpg",
+        "alt": "yuta-san-wa-mama-naranai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

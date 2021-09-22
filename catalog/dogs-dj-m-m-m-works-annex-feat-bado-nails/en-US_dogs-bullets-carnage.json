@@ -1,5 +1,9 @@
 {
     "title": "Dogs: Bullets & Carnage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/232296.jpg",
+        "alt": "dogs-bullets-carnage"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "101",

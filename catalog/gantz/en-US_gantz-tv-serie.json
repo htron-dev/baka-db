@@ -1,5 +1,9 @@
 {
     "title": "Gantz",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/5998.jpg",
+        "alt": "gantz"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ガンツ",

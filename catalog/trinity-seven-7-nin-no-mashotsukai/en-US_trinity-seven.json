@@ -1,12 +1,16 @@
 {
     "title": "Trinity Seven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/67795.jpg",
+        "alt": "trinity-seven"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "トリニティセブン",
     "start_date": "2014-10-08",
     "end_date": "2014-10-08",
     "opening_song": "\"Seven Doors\" by ZAQ",
-    "ending_song": "#1",
+    "ending_song": "#1: \"BEAUTIFUL≒SENTENCE\" by Magus Two (メイガス・トゥー) [Lilith Asami (Yumi Hara) & Arin Kannazuki (Aya Uchida)] (eps 1-3)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

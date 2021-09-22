@@ -1,5 +1,9 @@
 {
     "title": "Ikoku Memoir",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/243174.jpg",
+        "alt": "ikoku-memoir"
+    },
     "type": "manga",
     "original_name": "異刻メモワール",
     "start_date": "2021-02-05",

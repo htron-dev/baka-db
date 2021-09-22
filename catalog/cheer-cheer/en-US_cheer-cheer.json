@@ -1,5 +1,9 @@
 {
     "title": "Cheer Cheer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41443.jpg",
+        "alt": "cheer-cheer"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

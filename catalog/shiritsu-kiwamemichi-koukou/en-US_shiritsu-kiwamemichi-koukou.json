@@ -1,5 +1,9 @@
 {
     "title": "Shiritsu Kiwamemichi Koukou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187141.jpg",
+        "alt": "shiritsu-kiwamemichi-koukou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "42",

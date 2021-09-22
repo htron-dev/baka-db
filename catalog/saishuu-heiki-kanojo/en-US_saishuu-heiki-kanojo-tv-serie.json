@@ -1,5 +1,9 @@
 {
     "title": "Saishuu Heiki Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/529.jpg",
+        "alt": "saishuu-heiki-kanojo"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "最終兵器彼女",

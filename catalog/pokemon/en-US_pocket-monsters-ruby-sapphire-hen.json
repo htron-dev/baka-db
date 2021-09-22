@@ -1,5 +1,9 @@
 {
     "title": "Pocket Monsters: Ruby-Sapphire-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36634.jpg",
+        "alt": "pocket-monsters-ruby-sapphire-hen"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "62",

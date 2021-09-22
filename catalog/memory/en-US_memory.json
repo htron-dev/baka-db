@@ -1,5 +1,9 @@
 {
     "title": "Memory",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1325/92613.jpg",
+        "alt": "memory"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "めもりい",

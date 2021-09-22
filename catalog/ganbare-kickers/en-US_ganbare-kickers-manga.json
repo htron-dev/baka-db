@@ -1,5 +1,9 @@
 {
     "title": "Ganbare! Kickers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/234331.jpg",
+        "alt": "ganbare-kickers"
+    },
     "type": "manga",
     "volumes": "20",
     "original_name": "がんばれ! キッカーズ",

@@ -1,5 +1,9 @@
 {
     "title": "Hoosamguk High",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24711.jpg",
+        "alt": "hoosamguk-high"
+    },
     "type": "manhwa",
     "volumes": "10",
     "tags": [

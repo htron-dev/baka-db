@@ -1,5 +1,9 @@
 {
     "title": "Chironup no Kitsune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/47185.jpg",
+        "alt": "chironup-no-kitsune"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "チロヌップのきつね",

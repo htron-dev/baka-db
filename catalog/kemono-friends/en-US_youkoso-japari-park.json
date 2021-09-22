@@ -1,5 +1,9 @@
 {
     "title": "Youkoso Japari Park",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1449/95853.jpg",
+        "alt": "youkoso-japari-park"
+    },
     "type": "ona",
     "episodes": "36",
     "original_name": "ようこそジャパリパーク",

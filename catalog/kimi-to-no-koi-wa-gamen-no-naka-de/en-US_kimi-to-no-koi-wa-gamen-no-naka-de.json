@@ -1,5 +1,9 @@
 {
     "title": "Kimi to no Koi wa, Gamen no Naka de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/201054.jpg",
+        "alt": "kimi-to-no-koi-wa-gamen-no-naka-de"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

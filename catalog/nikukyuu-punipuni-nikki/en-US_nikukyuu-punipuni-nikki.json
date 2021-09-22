@@ -1,5 +1,9 @@
 {
     "title": "Nikukyuu Punipuni Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/30422.jpg",
+        "alt": "nikukyuu-punipuni-nikki"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "100",

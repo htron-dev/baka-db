@@ -1,5 +1,9 @@
 {
     "title": "Red Lion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/125951.jpg",
+        "alt": "red-lion"
+    },
     "type": "manhwa",
     "volumes": "7",
     "chapters": "37",

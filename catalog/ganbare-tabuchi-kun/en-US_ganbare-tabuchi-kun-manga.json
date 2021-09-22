@@ -1,5 +1,9 @@
 {
     "title": "Ganbare!! Tabuchi-kun!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/178014.jpg",
+        "alt": "ganbare-tabuchi-kun"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "がんばれ!! タブチくん!!",

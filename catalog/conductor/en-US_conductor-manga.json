@@ -1,5 +1,9 @@
 {
     "title": "Conductor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37170.jpg",
+        "alt": "conductor"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "12",

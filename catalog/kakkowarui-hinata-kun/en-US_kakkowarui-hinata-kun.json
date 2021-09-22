@@ -1,5 +1,9 @@
 {
     "title": "Kakkowarui Hinata-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/233266.jpg",
+        "alt": "kakkowarui-hinata-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

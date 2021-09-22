@@ -1,5 +1,9 @@
 {
     "title": "Ohana no Ouji-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7190.jpg",
+        "alt": "ohana-no-ouji-sama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

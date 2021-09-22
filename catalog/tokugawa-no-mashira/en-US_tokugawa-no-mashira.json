@@ -1,5 +1,9 @@
 {
     "title": "Tokugawa no Mashira",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230539.jpg",
+        "alt": "tokugawa-no-mashira"
+    },
     "type": "manga",
     "original_name": "徳川の猿〈ましら〉",
     "start_date": "2019-05-25",

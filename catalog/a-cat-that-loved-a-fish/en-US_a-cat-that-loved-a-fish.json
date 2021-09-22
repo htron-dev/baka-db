@@ -1,5 +1,9 @@
 {
     "title": "A Cat That Loved a Fish",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22621.jpg",
+        "alt": "a-cat-that-loved-a-fish"
+    },
     "type": "manhwa",
     "chapters": "1",
     "original_name": "고양이를 사랑한 물고기",

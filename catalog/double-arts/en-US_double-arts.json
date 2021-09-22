@@ -1,5 +1,9 @@
 {
     "title": "Double Arts",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149628.jpg",
+        "alt": "double-arts"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

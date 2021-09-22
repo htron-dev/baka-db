@@ -1,5 +1,9 @@
 {
     "title": "Trip",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2690.jpg",
+        "alt": "trip"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "TRIP トリップ",

@@ -1,5 +1,9 @@
 {
     "title": "Mamotte! Lollipop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11448.jpg",
+        "alt": "mamotte-lollipop"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "32",

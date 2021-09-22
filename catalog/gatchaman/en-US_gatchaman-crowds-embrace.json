@@ -1,11 +1,15 @@
 {
     "title": "Gatchaman Crowds: Embrace",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/61523.jpg",
+        "alt": "gatchaman-crowds-embrace"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ガッチャマン クラウズ『Embrace』",
     "start_date": "2014-01-22",
     "opening_song": "\"Crowds\" by WHITE ASH",
-    "ending_song": "\"INNOCENT NOTE\" by Hajime Ichinose (CV",
+    "ending_song": "\"INNOCENT NOTE\" by Hajime Ichinose (CV: Maaya Uchida)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

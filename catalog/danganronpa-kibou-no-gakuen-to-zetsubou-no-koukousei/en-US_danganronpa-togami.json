@@ -1,5 +1,9 @@
 {
     "title": "Danganronpa Togami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182138.jpg",
+        "alt": "danganronpa-togami"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "ダンガンロンパ十神",

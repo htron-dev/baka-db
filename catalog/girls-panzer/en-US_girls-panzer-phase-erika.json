@@ -1,5 +1,9 @@
 {
     "title": "Girls & Panzer: Phase Erika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191742.jpg",
+        "alt": "girls-panzer-phase-erika"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

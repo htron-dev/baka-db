@@ -1,5 +1,9 @@
 {
     "title": "Otona ni Nuts",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/4643.jpg",
+        "alt": "otona-ni-nuts"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

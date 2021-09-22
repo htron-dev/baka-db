@@ -1,5 +1,9 @@
 {
     "title": "Joy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224907.jpg",
+        "alt": "joy"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

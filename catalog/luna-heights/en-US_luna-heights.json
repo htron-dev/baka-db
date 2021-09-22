@@ -1,5 +1,9 @@
 {
     "title": "Luna Heights",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/63843.jpg",
+        "alt": "luna-heights"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "40",

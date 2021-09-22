@@ -1,5 +1,9 @@
 {
     "title": "Kugutsushi Lin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161078.jpg",
+        "alt": "kugutsushi-lin"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "57",

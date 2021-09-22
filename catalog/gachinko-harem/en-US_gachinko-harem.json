@@ -1,5 +1,9 @@
 {
     "title": "Gachinko Harem",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/96935.jpg",
+        "alt": "gachinko-harem"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

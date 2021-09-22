@@ -1,5 +1,9 @@
 {
     "title": "Kuro Gal-san ga Kuru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245886.jpg",
+        "alt": "kuro-gal-san-ga-kuru"
+    },
     "type": "manga",
     "original_name": "黒ギャルさんが来る！",
     "start_date": "2020-02-07",

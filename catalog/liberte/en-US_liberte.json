@@ -1,5 +1,9 @@
 {
     "title": "Liberté",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/145179.jpg",
+        "alt": "liberte"
+    },
     "type": "manhwa",
     "original_name": "Liberté 리베르떼",
     "start_date": "2014-10-25",

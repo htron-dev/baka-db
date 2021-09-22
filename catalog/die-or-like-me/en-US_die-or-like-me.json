@@ -1,5 +1,9 @@
 {
     "title": "Die or Like Me",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18762.jpg",
+        "alt": "die-or-like-me"
+    },
     "type": "manhwa",
     "volumes": "10",
     "tags": [

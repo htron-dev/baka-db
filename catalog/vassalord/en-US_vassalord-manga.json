@@ -1,5 +1,9 @@
 {
     "title": "Vassalord.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/123687.jpg",
+        "alt": "vassalord"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "36",

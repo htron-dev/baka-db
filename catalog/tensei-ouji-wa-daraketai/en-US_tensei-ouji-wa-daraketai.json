@@ -1,5 +1,9 @@
 {
     "title": "Tensei Ouji wa Daraketai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215282.jpg",
+        "alt": "tensei-ouji-wa-daraketai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

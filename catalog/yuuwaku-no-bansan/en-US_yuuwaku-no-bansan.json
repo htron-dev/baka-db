@@ -1,5 +1,9 @@
 {
     "title": "Yuuwaku no Bansan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230206.jpg",
+        "alt": "yuuwaku-no-bansan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

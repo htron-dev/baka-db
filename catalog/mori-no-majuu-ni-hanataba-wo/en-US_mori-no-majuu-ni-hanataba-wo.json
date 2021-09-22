@@ -1,5 +1,9 @@
 {
     "title": "Mori no Majuu ni Hanataba wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159503.jpg",
+        "alt": "mori-no-majuu-ni-hanataba-wo"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

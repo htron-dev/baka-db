@@ -1,5 +1,9 @@
 {
     "title": "GosickS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/108087.jpg",
+        "alt": "gosick-s"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "29",

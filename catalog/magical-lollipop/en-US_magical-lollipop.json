@@ -1,5 +1,9 @@
 {
     "title": "Magical Lollipop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/135033.jpg",
+        "alt": "magical-lollipop"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

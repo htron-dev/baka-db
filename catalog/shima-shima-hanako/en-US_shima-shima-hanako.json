@@ -1,5 +1,9 @@
 {
     "title": "Shima Shima Hanako",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/144715.jpg",
+        "alt": "shima-shima-hanako"
+    },
     "type": "manga",
     "chapters": "20",
     "original_name": "しましま花狐〈はなこ〉",

@@ -1,12 +1,16 @@
 {
     "title": "Yoroiden Samurai Troopers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1855/92738.jpg",
+        "alt": "yoroiden-samurai-troopers"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "鎧伝サムライトルーパー",
     "start_date": "1988-04-30",
     "end_date": "1988-04-30",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Stardust Ice (スターダストアイズ)\" by Mariko Uranishi (浦西真理子)",
+    "ending_song": "#1: \"Faraway\" by Mariko Uranishi (eps 1-19)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

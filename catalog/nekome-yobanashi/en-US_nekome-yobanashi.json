@@ -1,5 +1,9 @@
 {
     "title": "Nekome Yobanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153385.jpg",
+        "alt": "nekome-yobanashi"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "猫眼夜話",

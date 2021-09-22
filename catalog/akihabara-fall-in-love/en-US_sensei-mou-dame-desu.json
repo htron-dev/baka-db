@@ -1,5 +1,9 @@
 {
     "title": "Sensei, Mou Dame desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234348.jpg",
+        "alt": "sensei-mou-dame-desu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

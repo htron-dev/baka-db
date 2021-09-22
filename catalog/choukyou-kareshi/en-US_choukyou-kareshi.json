@@ -1,5 +1,9 @@
 {
     "title": "Choukyou Kareshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/115451.jpg",
+        "alt": "choukyou-kareshi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

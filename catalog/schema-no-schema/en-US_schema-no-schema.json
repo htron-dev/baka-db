@@ -1,5 +1,9 @@
 {
     "title": "Schema no Schema",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152636.jpg",
+        "alt": "schema-no-schema"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "スキマノスキマ",

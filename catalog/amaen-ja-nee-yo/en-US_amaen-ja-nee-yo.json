@@ -1,5 +1,9 @@
 {
     "title": "Amaen ja Nee yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/29042.jpg",
+        "alt": "amaen-ja-nee-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "甘えんじゃねえよ",

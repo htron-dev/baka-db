@@ -1,5 +1,9 @@
 {
     "title": "Armageddon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/8745.jpg",
+        "alt": "armageddon"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "아마게돈",

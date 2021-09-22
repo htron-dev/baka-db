@@ -1,12 +1,16 @@
 {
     "title": "Beck",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/11636.jpg",
+        "alt": "beck"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ベック",
     "start_date": "2004-10-07",
     "end_date": "2004-10-07",
     "opening_song": "\"Hit in the USA\" by Beat Crusaders",
-    "ending_song": "#1",
+    "ending_song": "#1: \"My World Down\" by Meister (eps 1-20)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "comedy",

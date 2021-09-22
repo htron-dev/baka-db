@@ -1,5 +1,9 @@
 {
     "title": "Saburina",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/38186.jpg",
+        "alt": "saburina"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "サブリナ",

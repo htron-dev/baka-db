@@ -1,5 +1,9 @@
 {
     "title": "Haru no Yuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/58969.jpg",
+        "alt": "haru-no-yuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

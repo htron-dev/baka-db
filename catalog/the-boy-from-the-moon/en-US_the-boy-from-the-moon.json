@@ -1,5 +1,9 @@
 {
     "title": "The Boy From the Moon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6582.jpg",
+        "alt": "the-boy-from-the-moon"
+    },
     "type": "manhwa",
     "original_name": "달에서 온 소년",
     "tags": [

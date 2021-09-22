@@ -1,5 +1,9 @@
 {
     "title": "Mankan Pocha Muki!!n",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/234283.jpg",
+        "alt": "mankan-pocha-muki-n"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

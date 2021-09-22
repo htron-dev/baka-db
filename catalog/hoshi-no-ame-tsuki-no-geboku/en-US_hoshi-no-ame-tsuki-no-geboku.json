@@ -1,5 +1,9 @@
 {
     "title": "Hoshi no Ame Tsuki no Geboku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/146735.jpg",
+        "alt": "hoshi-no-ame-tsuki-no-geboku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

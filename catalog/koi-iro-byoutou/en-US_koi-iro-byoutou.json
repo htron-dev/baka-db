@@ -1,5 +1,9 @@
 {
     "title": "Koi-iro Byoutou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/128857.jpg",
+        "alt": "koi-iro-byoutou"
+    },
     "type": "manga",
     "original_name": "恋色病棟",
     "start_date": "2013-12-25",

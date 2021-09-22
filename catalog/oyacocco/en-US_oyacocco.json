@@ -1,5 +1,9 @@
 {
     "title": "Oyacocco",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/123911.jpg",
+        "alt": "oyacocco"
+    },
     "type": "manga",
     "original_name": "おやこっこ",
     "start_date": "2014-04-22",

@@ -1,5 +1,9 @@
 {
     "title": "Delinquent Cinderella",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39686.jpg",
+        "alt": "delinquent-cinderella"
+    },
     "type": "manhwa",
     "volumes": "10",
     "original_name": "불량 신데렐라",

@@ -1,12 +1,16 @@
 {
     "title": "GJ-bu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/45995.jpg",
+        "alt": "gj-bu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "GJ 部",
     "start_date": "2013-01-10",
     "end_date": "2013-01-10",
     "opening_song": "\"Mousou★Koukan Nikki (もうそう ★ こうかんにっき)\" by Otome Shinto",
-    "ending_song": "#1",
+    "ending_song": "#1: \"I wish: Tokimeki no Mahou (I wish 〜ときめきの魔法〜)\" by Mao Amatsuka (Maaya Uchida) & Megumi Amatsuka (Yume Miyamoto) (eps 1-2)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

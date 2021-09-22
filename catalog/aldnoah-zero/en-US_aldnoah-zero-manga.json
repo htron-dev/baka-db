@@ -1,5 +1,9 @@
 {
     "title": "Aldnoah.Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171877.jpg",
+        "alt": "aldnoah-zero"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "12",

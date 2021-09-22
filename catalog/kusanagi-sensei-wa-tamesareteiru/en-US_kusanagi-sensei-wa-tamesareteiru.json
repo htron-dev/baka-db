@@ -1,5 +1,9 @@
 {
     "title": "Kusanagi-sensei wa Tamesareteiru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224219.jpg",
+        "alt": "kusanagi-sensei-wa-tamesareteiru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "31",

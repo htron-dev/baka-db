@@ -1,5 +1,9 @@
 {
     "title": "Sono Settei wa Yamenasai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163479.jpg",
+        "alt": "sono-settei-wa-yamenasai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "11",

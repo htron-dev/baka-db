@@ -1,5 +1,9 @@
 {
     "title": "Nanairo Reversible",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/129255.jpg",
+        "alt": "nanairo-reversible"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "なないろリバーシブル",

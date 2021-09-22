@@ -1,5 +1,9 @@
 {
     "title": "Yonaka ni Daidokoro de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/63527.jpg",
+        "alt": "yonaka-ni-daidokoro-de"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

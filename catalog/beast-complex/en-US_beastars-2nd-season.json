@@ -1,12 +1,16 @@
 {
     "title": "Beastars 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1097/109646.jpg",
+        "alt": "beastars-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "BEASTARS 2 期",
     "start_date": "2021-01-07",
     "end_date": "2021-01-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kaibutsu (怪物)\" by YOASOBI (eps 2-11)",
+    "ending_song": "#1: \"Kaibutsu (怪物)\" by YOASOBI (ep 1)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "slice-of-life",

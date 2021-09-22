@@ -1,5 +1,9 @@
 {
     "title": "Yuugai Muzai Gangu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226209.jpg",
+        "alt": "yuugai-muzai-gangu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

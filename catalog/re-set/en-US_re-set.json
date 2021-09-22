@@ -1,5 +1,9 @@
 {
     "title": "Re Set",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/79427.jpg",
+        "alt": "re-set"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

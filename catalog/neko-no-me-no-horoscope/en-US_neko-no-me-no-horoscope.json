@@ -1,5 +1,9 @@
 {
     "title": "Neko no Me no Horoscope",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/54215.jpg",
+        "alt": "neko-no-me-no-horoscope"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Winning Ticket",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/81540.jpg",
+        "alt": "winning-ticket"
+    },
     "type": "manga",
     "volumes": "21",
     "chapters": "218",

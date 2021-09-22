@@ -1,5 +1,9 @@
 {
     "title": "Märchen Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238347.jpg",
+        "alt": "marchen-series"
+    },
     "type": "light-novel",
     "volumes": "6",
     "chapters": "43",

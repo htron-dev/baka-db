@@ -1,5 +1,9 @@
 {
     "title": "Jinx Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176699.jpg",
+        "alt": "jinx-game"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "30",

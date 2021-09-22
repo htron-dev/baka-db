@@ -1,5 +1,9 @@
 {
     "title": "Sougetsu no Iris",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163038.jpg",
+        "alt": "sougetsu-no-iris"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "21",

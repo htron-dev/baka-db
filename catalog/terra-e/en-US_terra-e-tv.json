@@ -1,12 +1,16 @@
 {
     "title": "Terra e... (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1013/117558.jpg",
+        "alt": "terra-e-tv"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "地球へ…",
     "start_date": "2007-04-07",
     "end_date": "2007-04-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"endscape\" by UVERworld (eps 1-13)",
+    "ending_song": "#1: \"Love is...\" by Miliyah Katou (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

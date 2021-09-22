@@ -1,5 +1,9 @@
 {
     "title": "Marvel Future Avengers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1742/100477.jpg",
+        "alt": "marvel-future-avengers"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "マーベル フューチャー・アベンジャーズ",

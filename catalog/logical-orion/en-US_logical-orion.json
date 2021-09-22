@@ -1,5 +1,9 @@
 {
     "title": "Logical Orion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227832.jpg",
+        "alt": "logical-orion"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

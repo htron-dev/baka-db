@@ -1,5 +1,9 @@
 {
     "title": "Oh! Men!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245518.jpg",
+        "alt": "oh-men"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "26",

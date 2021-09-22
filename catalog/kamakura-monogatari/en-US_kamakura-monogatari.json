@@ -1,5 +1,9 @@
 {
     "title": "Kamakura Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225895.jpg",
+        "alt": "kamakura-monogatari"
+    },
     "type": "manga",
     "original_name": "鎌倉ものがたり",
     "start_date": "1984-02-09",

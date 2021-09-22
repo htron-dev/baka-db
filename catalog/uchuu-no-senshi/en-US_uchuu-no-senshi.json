@@ -1,12 +1,16 @@
 {
     "title": "Uchuu no Senshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/3090.jpg",
+        "alt": "uchuu-no-senshi"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "宇宙の戦士",
     "start_date": "1988-10-25",
     "end_date": "1988-10-25",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Believe\" by Tsunoda Hiro",
+    "ending_song": "#1: \"Step by Step\" by Misako Honjoh",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "space",

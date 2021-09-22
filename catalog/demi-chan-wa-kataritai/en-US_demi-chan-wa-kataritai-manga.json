@@ -1,5 +1,9 @@
 {
     "title": "Demi-chan wa Kataritai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188778.jpg",
+        "alt": "demi-chan-wa-kataritai"
+    },
     "type": "manga",
     "original_name": "亜人〈デミ〉ちゃんは語りたい",
     "start_date": "2014-09-05",

@@ -1,5 +1,9 @@
 {
     "title": "The Cockpit",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/18697.jpg",
+        "alt": "the-cockpit"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "ザ・コクピット",

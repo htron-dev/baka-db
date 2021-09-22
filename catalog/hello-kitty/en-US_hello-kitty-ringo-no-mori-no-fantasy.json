@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty: Ringo no Mori no Fantasy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/32139.jpg",
+        "alt": "hello-kitty-ringo-no-mori-no-fantasy"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ハローキティ りんごの森のファンタジー",

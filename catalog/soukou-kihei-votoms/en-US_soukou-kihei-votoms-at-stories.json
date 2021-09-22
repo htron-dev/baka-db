@@ -1,5 +1,9 @@
 {
     "title": "Soukou Kihei Votoms: AT Stories",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/155727.jpg",
+        "alt": "soukou-kihei-votoms-at-stories"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

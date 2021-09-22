@@ -1,5 +1,9 @@
 {
     "title": "Zainin Kyoushitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191224.jpg",
+        "alt": "zainin-kyoushitsu"
+    },
     "type": "light-novel",
     "original_name": "罪人教室",
     "start_date": "2016-04-04",

@@ -1,5 +1,9 @@
 {
     "title": "Mabayui Hikari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/136201.jpg",
+        "alt": "mabayui-hikari"
+    },
     "type": "manga",
     "original_name": "まばゆい光",
     "start_date": "2012-11-22",

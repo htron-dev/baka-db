@@ -1,5 +1,9 @@
 {
     "title": "Dokonjou Gaeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/31175.jpg",
+        "alt": "dokonjou-gaeru"
+    },
     "type": "tv-serie",
     "episodes": "103",
     "original_name": "ど根性ガエル",

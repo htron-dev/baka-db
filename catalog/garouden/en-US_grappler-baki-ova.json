@@ -1,5 +1,9 @@
 {
     "title": "Grappler Baki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/83803.jpg",
+        "alt": "grappler-baki"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "グラップラー刃牙",

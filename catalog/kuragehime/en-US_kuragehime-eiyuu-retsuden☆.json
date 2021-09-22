@@ -1,5 +1,9 @@
 {
     "title": "Kuragehime: Eiyuu Retsuden☆",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/27015.jpg",
+        "alt": "kuragehime-eiyuu-retsuden☆"
+    },
     "type": "special",
     "episodes": "4",
     "original_name": "海月姫 英雄列伝 ☆",

@@ -1,5 +1,9 @@
 {
     "title": "Hanayuke! - Hana no Miyako to Yukemuri no Kokyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/134827.jpg",
+        "alt": "hanayuke-hana-no-miyako-to-yukemuri-no-kokyou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

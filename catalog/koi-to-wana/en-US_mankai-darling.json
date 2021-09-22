@@ -1,5 +1,9 @@
 {
     "title": "Mankai Darling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/130153.jpg",
+        "alt": "mankai-darling"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

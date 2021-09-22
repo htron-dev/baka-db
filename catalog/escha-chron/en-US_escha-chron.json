@@ -1,5 +1,9 @@
 {
     "title": "Escha Chron",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/82344.jpg",
+        "alt": "escha-chron"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "エスカクロン",

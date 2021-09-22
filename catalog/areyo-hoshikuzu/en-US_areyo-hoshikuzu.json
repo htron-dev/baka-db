@@ -1,5 +1,9 @@
 {
     "title": "Areyo Hoshikuzu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168723.jpg",
+        "alt": "areyo-hoshikuzu"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "50",

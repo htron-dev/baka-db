@@ -1,5 +1,9 @@
 {
     "title": "Tamayomi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1126/113909.jpg",
+        "alt": "tamayomi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "球詠",

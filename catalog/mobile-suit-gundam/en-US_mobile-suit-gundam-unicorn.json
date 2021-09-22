@@ -1,11 +1,15 @@
 {
     "title": "Mobile Suit Gundam Unicorn",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/50459.jpg",
+        "alt": "mobile-suit-gundam-unicorn"
+    },
     "type": "ova",
     "episodes": "7",
     "original_name": "機動戦士ガンダム UC（ユニコーン）",
     "start_date": "2010-03-12",
     "end_date": "2010-03-12",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ryuusei no Namida (流星のナミダ)\" by CHiAKi KURiYAMA (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

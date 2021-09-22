@@ -1,5 +1,9 @@
 {
     "title": "Hobgoblin: Majo to Futari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/211854.jpg",
+        "alt": "hobgoblin-majo-to-futari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Toraware no Mi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2257.jpg",
+        "alt": "toraware-no-mi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

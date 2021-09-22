@@ -1,5 +1,9 @@
 {
     "title": "Servamp",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151037.jpg",
+        "alt": "servamp"
+    },
     "type": "manga",
     "original_name": "SERVAMP -サーヴァンプ-",
     "start_date": "2011-06-15",

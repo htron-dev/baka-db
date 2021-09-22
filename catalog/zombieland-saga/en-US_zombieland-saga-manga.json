@@ -1,5 +1,9 @@
 {
     "title": "Zombieland Saga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224965.jpg",
+        "alt": "zombieland-saga"
+    },
     "type": "manga",
     "original_name": "ゾンビランドサガ",
     "start_date": "2018-10-08",

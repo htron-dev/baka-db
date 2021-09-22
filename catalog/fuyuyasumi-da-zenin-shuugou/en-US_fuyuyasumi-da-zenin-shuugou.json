@@ -1,5 +1,9 @@
 {
     "title": "Fuyuyasumi da. Zenin Shuugou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/84976.jpg",
+        "alt": "fuyuyasumi-da-zenin-shuugou"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "冬休みだ。全員集合！",

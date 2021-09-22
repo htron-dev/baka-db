@@ -1,5 +1,9 @@
 {
     "title": "Bocchi no Ningyohime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177479.jpg",
+        "alt": "bocchi-no-ningyohime"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

@@ -1,5 +1,9 @@
 {
     "title": "Kobato.: Hajimete no Kobato.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/36685.jpg",
+        "alt": "kobato-hajimete-no-kobato"
+    },
     "type": "special",
     "episodes": "8",
     "original_name": "こばと。 はじめてのこばと。",

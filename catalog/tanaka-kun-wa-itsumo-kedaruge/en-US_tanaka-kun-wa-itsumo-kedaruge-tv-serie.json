@@ -1,12 +1,16 @@
 {
     "title": "Tanaka-kun wa Itsumo Kedaruge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1189/111994.jpg",
+        "alt": "tanaka-kun-wa-itsumo-kedaruge"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "田中くんはいつもけだるげ",
     "start_date": "2016-04-09",
     "end_date": "2016-04-09",
     "opening_song": "\"Utatane Sunshine (うたたねサンシャイン)\" by Unlimited tone (eps 1-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"BON-BON\" by CooRie (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

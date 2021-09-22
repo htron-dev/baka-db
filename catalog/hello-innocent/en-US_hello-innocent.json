@@ -1,5 +1,9 @@
 {
     "title": "Hello, Innocent",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236475.jpg",
+        "alt": "hello-innocent"
+    },
     "type": "manga",
     "original_name": "ハロー、イノセント",
     "start_date": "2020-06-03",

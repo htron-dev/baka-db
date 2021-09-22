@@ -1,5 +1,9 @@
 {
     "title": "Soukyuu no Alto Ciel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199737.jpg",
+        "alt": "soukyuu-no-alto-ciel"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "14",

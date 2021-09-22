@@ -1,5 +1,9 @@
 {
     "title": "Project X: 7-Eleven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/24727.jpg",
+        "alt": "project-x-7-eleven"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

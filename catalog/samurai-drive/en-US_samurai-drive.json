@@ -1,5 +1,9 @@
 {
     "title": "Samurai Drive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36031.jpg",
+        "alt": "samurai-drive"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "35",

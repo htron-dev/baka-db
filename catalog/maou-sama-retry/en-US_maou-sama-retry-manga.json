@@ -1,5 +1,9 @@
 {
     "title": "Maou-sama, Retry!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/219798.jpg",
+        "alt": "maou-sama-retry"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "26",

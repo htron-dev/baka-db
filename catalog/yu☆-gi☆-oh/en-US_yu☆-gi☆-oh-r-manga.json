@@ -1,5 +1,9 @@
 {
     "title": "Yu☆Gi☆Oh! R",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192727.jpg",
+        "alt": "yu☆-gi☆-oh-r"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "45",

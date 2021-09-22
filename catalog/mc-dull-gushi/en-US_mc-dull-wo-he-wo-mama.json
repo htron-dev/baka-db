@@ -1,5 +1,9 @@
 {
     "title": "McDull: Wo He Wo Mama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1569/112736.jpg",
+        "alt": "mc-dull-wo-he-wo-mama"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "麥兜我和我媽媽",

@@ -1,12 +1,16 @@
 {
     "title": "Samurai Giants",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/27421.jpg",
+        "alt": "samurai-giants"
+    },
     "type": "tv-serie",
     "episodes": "46",
     "original_name": "侍ジャイアンツ",
     "start_date": "1973-10-07",
     "end_date": "1973-10-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Samurai Giants (侍ジャイアンツ)\" by Shigeyuki Matsumoto",
+    "ending_song": "#1: \"Samurai Banbaban (サムライ番場蛮)\" by Shigeyuki Matsumoto",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sports"

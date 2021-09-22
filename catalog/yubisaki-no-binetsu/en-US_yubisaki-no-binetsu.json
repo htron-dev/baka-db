@@ -1,5 +1,9 @@
 {
     "title": "Yubisaki no Binetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/144273.jpg",
+        "alt": "yubisaki-no-binetsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Automaton",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236064.jpg",
+        "alt": "automaton"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "24",

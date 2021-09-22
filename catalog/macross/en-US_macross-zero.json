@@ -1,11 +1,15 @@
 {
     "title": "Macross Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/76289.jpg",
+        "alt": "macross-zero"
+    },
     "type": "ova",
     "episodes": "5",
     "original_name": "マクロス ゼロ",
     "start_date": "2002-12-21",
     "end_date": "2002-12-21",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Arkan\" by Holy Raz (Eps 1,5)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "adventure",

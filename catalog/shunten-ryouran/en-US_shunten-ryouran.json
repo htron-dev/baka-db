@@ -1,5 +1,9 @@
 {
     "title": "Shunten Ryouran",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180941.jpg",
+        "alt": "shunten-ryouran"
+    },
     "type": "light-novel",
     "original_name": "春天繚乱",
     "start_date": "2015-09-01",

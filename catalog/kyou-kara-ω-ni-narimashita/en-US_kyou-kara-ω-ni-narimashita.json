@@ -1,5 +1,9 @@
 {
     "title": "Kyou kara Ω ni Narimashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/220670.jpg",
+        "alt": "kyou-kara-ω-ni-narimashita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

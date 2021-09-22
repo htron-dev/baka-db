@@ -1,5 +1,9 @@
 {
     "title": "Oh! My Konbu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/64249.jpg",
+        "alt": "oh-my-konbu"
+    },
     "type": "tv-serie",
     "episodes": "22",
     "original_name": "OH!MY コンブ",

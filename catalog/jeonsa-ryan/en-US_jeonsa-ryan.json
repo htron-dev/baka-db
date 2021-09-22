@@ -1,5 +1,9 @@
 {
     "title": "Jeonsa Ryan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1864/114505.jpg",
+        "alt": "jeonsa-ryan"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "전사 라이안",

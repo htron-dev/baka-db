@@ -1,5 +1,9 @@
 {
     "title": "Canary",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1511/112367.jpg",
+        "alt": "canary"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "カナリア",
@@ -27,7 +31,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Canary_(anime"
+            "link": "http://en.wikipedia.org/wiki/Canary_%28anime%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Girls Bravo: Second Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/20149.jpg",
+        "alt": "girls-bravo-second-season"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "GIRLS ブラボー second season",

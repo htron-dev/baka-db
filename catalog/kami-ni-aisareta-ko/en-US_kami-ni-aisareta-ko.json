@@ -1,5 +1,9 @@
 {
     "title": "Kami ni Aisareta Ko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236621.jpg",
+        "alt": "kami-ni-aisareta-ko"
+    },
     "type": "manga",
     "original_name": "神に愛された子",
     "start_date": "2019-07-26",

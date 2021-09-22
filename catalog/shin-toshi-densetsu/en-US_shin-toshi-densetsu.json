@@ -1,5 +1,9 @@
 {
     "title": "Shin Toshi Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167155.jpg",
+        "alt": "shin-toshi-densetsu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

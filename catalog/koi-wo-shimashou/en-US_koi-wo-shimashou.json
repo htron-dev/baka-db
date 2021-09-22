@@ -1,5 +1,9 @@
 {
     "title": "Koi wo Shimashou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20398.jpg",
+        "alt": "koi-wo-shimashou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

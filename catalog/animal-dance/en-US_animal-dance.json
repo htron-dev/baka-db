@@ -1,5 +1,9 @@
 {
     "title": "Animal Dance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/28668.jpg",
+        "alt": "animal-dance"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "アニマルダンス",

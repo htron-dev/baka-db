@@ -1,5 +1,9 @@
 {
     "title": "Sweet Black",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33845.jpg",
+        "alt": "sweet-black"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Hoshiuta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/34526.jpg",
+        "alt": "hoshiuta"
+    },
     "type": "manga",
     "original_name": "ほしうた",
     "start_date": "2009-03-26",

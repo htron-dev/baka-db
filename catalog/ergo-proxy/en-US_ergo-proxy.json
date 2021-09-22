@@ -1,5 +1,9 @@
 {
     "title": "Ergo Proxy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/6259.jpg",
+        "alt": "ergo-proxy"
+    },
     "type": "tv-serie",
     "episodes": "23",
     "original_name": "エルゴプラクシー",

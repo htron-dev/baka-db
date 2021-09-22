@@ -1,5 +1,9 @@
 {
     "title": "Jikan Shounin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171709.jpg",
+        "alt": "jikan-shounin"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "25",

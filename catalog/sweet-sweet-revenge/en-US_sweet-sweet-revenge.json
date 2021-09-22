@@ -1,5 +1,9 @@
 {
     "title": "Sweet Sweet Revenge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203957.jpg",
+        "alt": "sweet-sweet-revenge"
+    },
     "type": "manga",
     "original_name": "Sweet Sweet リベンジ",
     "start_date": "2017-04-28",

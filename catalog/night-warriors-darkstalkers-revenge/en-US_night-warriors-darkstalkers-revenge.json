@@ -1,5 +1,9 @@
 {
     "title": "Night Warriors: Darkstalkers' Revenge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35076.jpg",
+        "alt": "night-warriors-darkstalkers-revenge"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

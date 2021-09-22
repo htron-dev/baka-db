@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Futari no Taion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150297.jpg",
+        "alt": "koisuru-futari-no-taion"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

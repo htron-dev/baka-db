@@ -1,5 +1,9 @@
 {
     "title": "Satsujin Sales",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/49073.jpg",
+        "alt": "satsujin-sales"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

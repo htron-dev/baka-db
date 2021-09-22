@@ -1,5 +1,9 @@
 {
     "title": "Getsuyoubi no Yakusoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177229.jpg",
+        "alt": "getsuyoubi-no-yakusoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

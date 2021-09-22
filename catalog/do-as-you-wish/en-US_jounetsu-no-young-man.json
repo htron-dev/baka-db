@@ -1,5 +1,9 @@
 {
     "title": "Jounetsu no Young Man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27899.jpg",
+        "alt": "jounetsu-no-young-man"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

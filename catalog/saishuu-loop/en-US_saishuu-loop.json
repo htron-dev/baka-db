@@ -1,5 +1,9 @@
 {
     "title": "Saishuu Loop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153964.jpg",
+        "alt": "saishuu-loop"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

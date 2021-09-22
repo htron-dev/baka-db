@@ -1,5 +1,9 @@
 {
     "title": "Anata no Dorei♥",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/197966.jpg",
+        "alt": "anata-no-dorei♥"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

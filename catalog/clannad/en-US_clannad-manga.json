@@ -1,5 +1,9 @@
 {
     "title": "Clannad",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6142.jpg",
+        "alt": "clannad"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "45",

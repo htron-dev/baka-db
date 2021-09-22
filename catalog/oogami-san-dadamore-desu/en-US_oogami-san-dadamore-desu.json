@@ -1,5 +1,9 @@
 {
     "title": "Oogami-san, Dadamore desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/197567.jpg",
+        "alt": "oogami-san-dadamore-desu"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "38",

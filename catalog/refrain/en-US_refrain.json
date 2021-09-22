@@ -1,5 +1,9 @@
 {
     "title": "Refrain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227068.jpg",
+        "alt": "refrain"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

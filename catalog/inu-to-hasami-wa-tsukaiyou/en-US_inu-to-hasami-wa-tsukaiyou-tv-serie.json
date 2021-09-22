@@ -1,12 +1,16 @@
 {
     "title": "Inu to Hasami wa Tsukaiyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/56313.jpg",
+        "alt": "inu-to-hasami-wa-tsukaiyou"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "犬とハサミは使いよう",
     "start_date": "2013-07-02",
     "end_date": "2013-07-02",
     "opening_song": "\"Wan Wan Wan Wan N_1!! (わんわんわんわん N_1!!)\" by Inu Musume Club (犬っ娘クラブ)",
-    "ending_song": "\"Lemonade Scandal (レモネイドスキャンダル)\" by Maxi Akizuki (CV",
+    "ending_song": "\"Lemonade Scandal (レモネイドスキャンダル)\" by Maxi Akizuki (CV: Yuu Serizawa)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

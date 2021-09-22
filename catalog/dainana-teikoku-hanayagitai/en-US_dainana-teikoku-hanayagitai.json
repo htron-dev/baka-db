@@ -1,5 +1,9 @@
 {
     "title": "Dainana Teikoku Hanayagitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/189750.jpg",
+        "alt": "dainana-teikoku-hanayagitai"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "Micchiri Neko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185345.jpg",
+        "alt": "micchiri-neko"
+    },
     "type": "manga",
     "original_name": "みっちりねこ",
     "start_date": "2011-09-20",

@@ -1,5 +1,9 @@
 {
     "title": "Monster x Monster",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/141973.jpg",
+        "alt": "monster-x-monster"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

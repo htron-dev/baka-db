@@ -1,5 +1,9 @@
 {
     "title": "Analog Drop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/206061.jpg",
+        "alt": "analog-drop"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

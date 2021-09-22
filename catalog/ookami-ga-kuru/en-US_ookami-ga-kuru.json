@@ -1,5 +1,9 @@
 {
     "title": "Ookami ga Kuru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5849.jpg",
+        "alt": "ookami-ga-kuru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

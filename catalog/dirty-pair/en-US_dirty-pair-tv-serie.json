@@ -1,5 +1,9 @@
 {
     "title": "Dirty Pair",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/20673.jpg",
+        "alt": "dirty-pair"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ダーティペア",

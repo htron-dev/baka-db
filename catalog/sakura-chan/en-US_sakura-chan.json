@@ -1,5 +1,9 @@
 {
     "title": "Sakura-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193879.jpg",
+        "alt": "sakura-chan"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "さくらちゃん",

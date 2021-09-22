@@ -1,5 +1,9 @@
 {
     "title": "Gong Hua",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/91391.jpg",
+        "alt": "gong-hua"
+    },
     "type": "light-novel",
     "original_name": "抉擇",
     "tags": [

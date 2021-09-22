@@ -1,5 +1,9 @@
 {
     "title": "Koi-koi★Seitokai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161725.jpg",
+        "alt": "koi-koi★-seitokai"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "40",

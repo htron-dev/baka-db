@@ -1,5 +1,9 @@
 {
     "title": "Le Théâtre de B",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/89669.jpg",
+        "alt": "le-theatre-de-b"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

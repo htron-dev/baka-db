@@ -1,5 +1,9 @@
 {
     "title": "Choujuu Gitan II",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193035.jpg",
+        "alt": "choujuu-gitan-ii"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

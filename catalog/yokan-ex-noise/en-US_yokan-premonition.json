@@ -1,5 +1,9 @@
 {
     "title": "Yokan Premonition",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31403.jpg",
+        "alt": "yokan-premonition"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Nokorimono ni wa Ai ga Aru!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36593.jpg",
+        "alt": "nokorimono-ni-wa-ai-ga-aru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

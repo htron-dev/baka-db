@@ -1,5 +1,9 @@
 {
     "title": "Naisho no Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/38402.jpg",
+        "alt": "naisho-no-princess"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

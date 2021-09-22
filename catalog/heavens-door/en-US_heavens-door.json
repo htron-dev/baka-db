@@ -1,5 +1,9 @@
 {
     "title": "Heaven's Door",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/25169.jpg",
+        "alt": "heavens-door"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

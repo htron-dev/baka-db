@@ -1,5 +1,9 @@
 {
     "title": "Akuma-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186954.jpg",
+        "alt": "akuma-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

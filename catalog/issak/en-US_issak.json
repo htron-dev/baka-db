@@ -1,5 +1,9 @@
 {
     "title": "Issak",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198485.jpg",
+        "alt": "issak"
+    },
     "type": "manga",
     "original_name": "イサック",
     "start_date": "2017-01-25",

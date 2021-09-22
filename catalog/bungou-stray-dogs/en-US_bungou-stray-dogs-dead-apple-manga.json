@@ -1,5 +1,9 @@
 {
     "title": "Bungou Stray Dogs: Dead Apple",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/208101.jpg",
+        "alt": "bungou-stray-dogs-dead-apple"
+    },
     "type": "manga",
     "original_name": "文豪ストレイドッグス DEAD APPLE",
     "start_date": "2018-03-09",

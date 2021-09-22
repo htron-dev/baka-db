@@ -1,5 +1,9 @@
 {
     "title": "Shin Maou Dante",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/43545.jpg",
+        "alt": "shin-maou-dante"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "30",

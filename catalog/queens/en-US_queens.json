@@ -1,5 +1,9 @@
 {
     "title": "Queens",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/3870.jpg",
+        "alt": "queens"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "26",

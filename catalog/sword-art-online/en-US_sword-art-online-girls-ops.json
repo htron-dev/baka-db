@@ -1,5 +1,9 @@
 {
     "title": "Sword Art Online: Girls Ops",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156370.jpg",
+        "alt": "sword-art-online-girls-ops"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "47",

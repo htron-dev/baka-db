@@ -1,5 +1,9 @@
 {
     "title": "Retsujou Kyoumushitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2798.jpg",
+        "alt": "retsujou-kyoumushitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

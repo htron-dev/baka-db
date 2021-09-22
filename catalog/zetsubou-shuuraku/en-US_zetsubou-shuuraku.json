@@ -1,5 +1,9 @@
 {
     "title": "Zetsubou Shuuraku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246374.jpg",
+        "alt": "zetsubou-shuuraku"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "32",

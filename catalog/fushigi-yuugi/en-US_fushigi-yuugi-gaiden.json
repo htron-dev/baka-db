@@ -1,5 +1,9 @@
 {
     "title": "Fushigi Yuugi Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/29069.jpg",
+        "alt": "fushigi-yuugi-gaiden"
+    },
     "type": "light-novel",
     "volumes": "13",
     "chapters": "130",

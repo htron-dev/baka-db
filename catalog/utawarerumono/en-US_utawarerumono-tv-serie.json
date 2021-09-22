@@ -1,12 +1,16 @@
 {
     "title": "Utawarerumono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/24605.jpg",
+        "alt": "utawarerumono"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "うたわれるもの",
     "start_date": "2006-04-04",
     "end_date": "2006-04-04",
     "opening_song": "\"Musouka (夢想歌)\" by Suara",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Madoromi no Rinne (まどろみの輪廻)\" by Eri Kawai (eps 1-25)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

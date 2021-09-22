@@ -1,5 +1,9 @@
 {
     "title": "Handmade no Ouji-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/13974.jpg",
+        "alt": "handmade-no-ouji-sama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

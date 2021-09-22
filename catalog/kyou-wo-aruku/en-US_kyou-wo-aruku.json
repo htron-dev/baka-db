@@ -1,5 +1,9 @@
 {
     "title": "Kyou wo Aruku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152019.jpg",
+        "alt": "kyou-wo-aruku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Hitohira no Koi ga Furu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5718.jpg",
+        "alt": "hitohira-no-koi-ga-furu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

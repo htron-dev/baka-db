@@ -1,11 +1,15 @@
 {
     "title": "Bomberman B-Daman Bakugaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/86375.jpg",
+        "alt": "bomberman-b-daman-bakugaiden"
+    },
     "type": "tv-serie",
     "episodes": "48",
     "original_name": "B[ボンバーマン]ビーダマン爆外伝",
     "start_date": "1998-02-07",
     "end_date": "1998-02-07",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Kitto Ashita wa Hareru Kara\" by Michiko Kawaii (eps 1-34)",
     "rating": "PG - Children",
     "tags": [
         "sci-fi",

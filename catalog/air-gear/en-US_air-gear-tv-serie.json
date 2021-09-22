@@ -1,5 +1,9 @@
 {
     "title": "Air Gear",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/18227.jpg",
+        "alt": "air-gear"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "エア・ギア",

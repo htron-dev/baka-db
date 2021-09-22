@@ -1,5 +1,9 @@
 {
     "title": "Kuro no Kishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157267.jpg",
+        "alt": "kuro-no-kishi"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "黒の騎士",

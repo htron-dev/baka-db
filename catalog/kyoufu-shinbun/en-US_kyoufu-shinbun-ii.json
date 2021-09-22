@@ -1,5 +1,9 @@
 {
     "title": "Kyoufu Shinbun II",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153089.jpg",
+        "alt": "kyoufu-shinbun-ii"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "16",

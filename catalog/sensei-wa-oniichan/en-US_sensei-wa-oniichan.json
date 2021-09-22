@@ -1,5 +1,9 @@
 {
     "title": "Sensei wa Oniichan.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/107581.jpg",
+        "alt": "sensei-wa-oniichan"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "先生はお兄ちゃん。",

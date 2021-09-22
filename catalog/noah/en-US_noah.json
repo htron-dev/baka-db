@@ -1,5 +1,9 @@
 {
     "title": "Noah!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/81900.jpg",
+        "alt": "noah"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

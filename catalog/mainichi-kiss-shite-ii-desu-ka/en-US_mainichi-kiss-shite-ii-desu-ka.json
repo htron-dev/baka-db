@@ -1,5 +1,9 @@
 {
     "title": "Mainichi Kiss shite Ii desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194772.jpg",
+        "alt": "mainichi-kiss-shite-ii-desu-ka"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

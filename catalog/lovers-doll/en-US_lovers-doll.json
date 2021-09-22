@@ -1,5 +1,9 @@
 {
     "title": "Lovers♥Doll",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22531.jpg",
+        "alt": "lovers♥-doll"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Bacchon Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/27473.jpg",
+        "alt": "bacchon-girls"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ばっちょんガールズ",

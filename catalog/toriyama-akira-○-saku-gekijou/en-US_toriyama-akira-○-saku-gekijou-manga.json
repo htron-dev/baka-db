@@ -1,5 +1,9 @@
 {
     "title": "Toriyama Akira ○-saku Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23384.jpg",
+        "alt": "toriyama-akira-○-saku-gekijou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "38",

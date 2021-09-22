@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Intelligence",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164768.jpg",
+        "alt": "koisuru-intelligence"
+    },
     "type": "manga",
     "original_name": "恋するインテリジェンス",
     "start_date": "2014-02-08",

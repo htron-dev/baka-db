@@ -1,5 +1,9 @@
 {
     "title": "Saku Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151186.jpg",
+        "alt": "saku-love"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

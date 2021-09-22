@@ -1,5 +1,9 @@
 {
     "title": "Rekka no Honoo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186157.jpg",
+        "alt": "rekka-no-honoo"
+    },
     "type": "manga",
     "volumes": "33",
     "chapters": "330",

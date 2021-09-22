@@ -1,5 +1,9 @@
 {
     "title": "Comic Showa-shi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33746.jpg",
+        "alt": "comic-showa-shi"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "120",

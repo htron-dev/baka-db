@@ -1,5 +1,9 @@
 {
     "title": "Osanai Fusai wa Itonamitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246910.jpg",
+        "alt": "osanai-fusai-wa-itonamitai"
+    },
     "type": "manga",
     "original_name": "小山内夫妻はいとなみたい",
     "start_date": "2020-07-29",

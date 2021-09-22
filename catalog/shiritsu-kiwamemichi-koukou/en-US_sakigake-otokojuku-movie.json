@@ -1,5 +1,9 @@
 {
     "title": "Sakigake!! Otokojuku Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1672/94168.jpg",
+        "alt": "sakigake-otokojuku-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "魁!!男塾",

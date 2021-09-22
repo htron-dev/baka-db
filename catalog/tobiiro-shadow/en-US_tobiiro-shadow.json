@@ -1,5 +1,9 @@
 {
     "title": "Tobiiro Shadow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/24840.jpg",
+        "alt": "tobiiro-shadow"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "鳶色シャドウ",

@@ -1,5 +1,9 @@
 {
     "title": "Aoi-sensei wa Shishunki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196951.jpg",
+        "alt": "aoi-sensei-wa-shishunki"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Kimi, Kawaii ne.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/124129.jpg",
+        "alt": "kimi-kawaii-ne"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Yama no Susume Comic Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192218.jpg",
+        "alt": "yama-no-susume-comic-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

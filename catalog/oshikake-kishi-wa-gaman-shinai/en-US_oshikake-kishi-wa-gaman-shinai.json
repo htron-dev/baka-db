@@ -1,5 +1,9 @@
 {
     "title": "Oshikake Kishi wa Gaman shinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186193.jpg",
+        "alt": "oshikake-kishi-wa-gaman-shinai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Onimadara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/191481.jpg",
+        "alt": "onimadara"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

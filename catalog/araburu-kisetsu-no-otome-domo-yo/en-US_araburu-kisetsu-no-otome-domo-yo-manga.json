@@ -1,5 +1,9 @@
 {
     "title": "Araburu Kisetsu no Otome-domo yo.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193441.jpg",
+        "alt": "araburu-kisetsu-no-otome-domo-yo"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "34",

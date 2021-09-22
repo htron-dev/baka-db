@@ -1,5 +1,9 @@
 {
     "title": "Mebae no Maachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7764.jpg",
+        "alt": "mebae-no-maachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

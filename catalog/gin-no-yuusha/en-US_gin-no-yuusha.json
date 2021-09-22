@@ -1,5 +1,9 @@
 {
     "title": "Gin no Yuusha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7483.jpg",
+        "alt": "gin-no-yuusha"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "23",

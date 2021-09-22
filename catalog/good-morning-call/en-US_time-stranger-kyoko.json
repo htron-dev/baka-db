@@ -1,5 +1,9 @@
 {
     "title": "Time Stranger Kyoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175908.jpg",
+        "alt": "time-stranger-kyoko"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

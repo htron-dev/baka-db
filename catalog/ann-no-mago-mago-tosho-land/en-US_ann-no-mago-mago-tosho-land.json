@@ -1,5 +1,9 @@
 {
     "title": "Ann no MagoMago Tosho Land",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160093.jpg",
+        "alt": "ann-no-mago-mago-tosho-land"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

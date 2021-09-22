@@ -1,5 +1,9 @@
 {
     "title": "Sounan desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198933.jpg",
+        "alt": "sounan-desu-ka"
+    },
     "type": "manga",
     "original_name": "ソウナンですか？",
     "start_date": "2017-01-07",

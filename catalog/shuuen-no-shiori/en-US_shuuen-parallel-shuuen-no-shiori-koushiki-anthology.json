@@ -1,8 +1,12 @@
 {
     "title": "Shuuen:Parallel - Shuuen no Shiori Koushiki Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/143399.jpg",
+        "alt": "shuuen-parallel-shuuen-no-shiori-koushiki-anthology"
+    },
     "type": "manga",
     "volumes": "1",
-    "original_name": "終焉",
+    "original_name": "終焉:Parallel 終焉ノ栞公式アンソロジー",
     "start_date": "2014-02-27",
     "tags": [
         "comedy"

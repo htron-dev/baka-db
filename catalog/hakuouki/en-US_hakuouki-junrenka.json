@@ -1,5 +1,9 @@
 {
     "title": "Hakuouki Junrenka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30530.jpg",
+        "alt": "hakuouki-junrenka"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "薄桜鬼 巡恋華",

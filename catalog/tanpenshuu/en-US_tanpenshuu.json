@@ -1,5 +1,9 @@
 {
     "title": "Tanpenshuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170244.jpg",
+        "alt": "tanpenshuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "19",

@@ -1,5 +1,9 @@
 {
     "title": "Renai Shousetsu ga Dekiru Made",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/27290.jpg",
+        "alt": "renai-shousetsu-ga-dekiru-made"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

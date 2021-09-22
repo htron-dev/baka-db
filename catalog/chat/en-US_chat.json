@@ -1,5 +1,9 @@
 {
     "title": "Chat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10554.jpg",
+        "alt": "chat"
+    },
     "type": "manhwa",
     "volumes": "10",
     "original_name": "CHAT 챗",

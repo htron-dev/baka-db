@@ -1,5 +1,9 @@
 {
     "title": "47 Taisen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/211770.jpg",
+        "alt": "47-taisen"
+    },
     "type": "manga",
     "original_name": "四十七大戦",
     "start_date": "2016-09-07",

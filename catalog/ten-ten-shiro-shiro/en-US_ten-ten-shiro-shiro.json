@@ -1,5 +1,9 @@
 {
     "title": "Ten Ten Shiro Shiro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172540.jpg",
+        "alt": "ten-ten-shiro-shiro"
+    },
     "type": "manga",
     "original_name": "天点白城",
     "start_date": "2015-08-25",

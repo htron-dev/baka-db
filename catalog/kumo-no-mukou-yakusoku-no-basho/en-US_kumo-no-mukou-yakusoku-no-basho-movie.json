@@ -1,5 +1,9 @@
 {
     "title": "Kumo no Mukou, Yakusoku no Basho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/433.jpg",
+        "alt": "kumo-no-mukou-yakusoku-no-basho"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "雲のむこう、約束の場所",

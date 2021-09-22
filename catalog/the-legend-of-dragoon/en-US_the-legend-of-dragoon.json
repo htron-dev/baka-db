@@ -1,5 +1,9 @@
 {
     "title": "The Legend of Dragoon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/34824.jpg",
+        "alt": "the-legend-of-dragoon"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "レジェンド・オブ・ドラグーン",

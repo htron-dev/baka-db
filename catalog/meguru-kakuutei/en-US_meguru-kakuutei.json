@@ -1,5 +1,9 @@
 {
     "title": "Meguru Kakuutei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22505.jpg",
+        "alt": "meguru-kakuutei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

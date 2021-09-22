@@ -1,12 +1,16 @@
 {
     "title": "Power Stone",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/20400.jpg",
+        "alt": "power-stone"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "パワーストーン",
     "start_date": "1999-04-03",
     "end_date": "1999-04-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Rise in my Heart\" by Aya & Chika",
+    "ending_song": "#1: \"Kawaiin Janai?\" by Mission",
     "rating": "PG - Children",
     "tags": [
         "adventure",

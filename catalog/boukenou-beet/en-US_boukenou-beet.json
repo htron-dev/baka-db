@@ -1,5 +1,9 @@
 {
     "title": "Boukenou Beet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169816.jpg",
+        "alt": "boukenou-beet"
+    },
     "type": "manga",
     "original_name": "冒険王ビィト",
     "start_date": "2002-03-06",

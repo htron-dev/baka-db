@@ -1,12 +1,16 @@
 {
     "title": "Kobato.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/79838.jpg",
+        "alt": "kobato"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "こばと。",
     "start_date": "2009-10-06",
     "end_date": "2009-10-06",
     "opening_song": "\"Magic Number (マジックナンバー)\" by Maaya Sakamoto",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Jellyfish's Confession (ジェリーフィッシュの告白)\" by Megumi Nakajima (eps 1-19)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

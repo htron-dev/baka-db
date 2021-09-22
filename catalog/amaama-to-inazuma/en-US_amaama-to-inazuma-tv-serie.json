@@ -1,5 +1,9 @@
 {
     "title": "Amaama to Inazuma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/80546.jpg",
+        "alt": "amaama-to-inazuma"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "甘々と稲妻",

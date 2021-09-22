@@ -1,5 +1,9 @@
 {
     "title": "Bannou Kanteishi Q no Jikenbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/86079.jpg",
+        "alt": "bannou-kanteishi-q-no-jikenbo"
+    },
     "type": "light-novel",
     "volumes": "12",
     "chapters": "350",

@@ -1,5 +1,9 @@
 {
     "title": "JK to Tomodachi no Okan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/241816.jpg",
+        "alt": "jk-to-tomodachi-no-okan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

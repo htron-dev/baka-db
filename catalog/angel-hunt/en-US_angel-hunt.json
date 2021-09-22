@@ -1,5 +1,9 @@
 {
     "title": "Angel Hunt",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/4563.jpg",
+        "alt": "angel-hunt"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "エンジェル・ハント",

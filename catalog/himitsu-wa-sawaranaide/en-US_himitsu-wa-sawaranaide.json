@@ -1,5 +1,9 @@
 {
     "title": "Himitsu wa Sawaranaide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/88747.jpg",
+        "alt": "himitsu-wa-sawaranaide"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",
@@ -12,7 +16,6 @@
         "Isaki",
         "Rika (Story & Art)"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

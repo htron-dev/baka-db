@@ -1,5 +1,9 @@
 {
     "title": "Kamikakushi no Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/199508.jpg",
+        "alt": "kamikakushi-no-hanayome"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

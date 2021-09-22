@@ -1,12 +1,16 @@
 {
     "title": "Calimero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/3926.jpg",
+        "alt": "calimero"
+    },
     "type": "tv-serie",
     "episodes": "45",
     "original_name": "カリメロ",
     "start_date": "1974-10-15",
     "end_date": "1974-10-15",
     "opening_song": "\"Boku wa Calimero\" by Rina Yamazaki",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Suki nano PURISHIRA\" by Rina Yamazaki",
     "rating": "G - All Ages",
     "tags": [
         "comedy"

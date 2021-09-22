@@ -1,5 +1,9 @@
 {
     "title": "Cherries ni Kanpai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26667.jpg",
+        "alt": "cherries-ni-kanpai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "チェリーズに乾杯！",

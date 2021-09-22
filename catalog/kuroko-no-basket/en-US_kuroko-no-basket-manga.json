@@ -1,5 +1,9 @@
 {
     "title": "Kuroko no Basket",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/92071.jpg",
+        "alt": "kuroko-no-basket"
+    },
     "type": "manga",
     "volumes": "30",
     "chapters": "276",

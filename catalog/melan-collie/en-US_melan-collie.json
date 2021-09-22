@@ -1,5 +1,9 @@
 {
     "title": "Melan Collie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172528.jpg",
+        "alt": "melan-collie"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "メラン・コリー",

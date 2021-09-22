@@ -1,5 +1,9 @@
 {
     "title": "Lunatic Lover's",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11858.jpg",
+        "alt": "lunatic-lovers"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

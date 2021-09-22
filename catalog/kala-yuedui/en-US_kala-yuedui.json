@@ -1,5 +1,9 @@
 {
     "title": "Kala Yuedui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1084/115350.jpg",
+        "alt": "kala-yuedui"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "卡拉乐队",

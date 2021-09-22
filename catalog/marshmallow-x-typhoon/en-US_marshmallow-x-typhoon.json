@@ -1,5 +1,9 @@
 {
     "title": "Marshmallow x Typhoon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194597.jpg",
+        "alt": "marshmallow-x-typhoon"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "29",

@@ -1,5 +1,9 @@
 {
     "title": "Houkago Play R",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/118891.jpg",
+        "alt": "houkago-play-r"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

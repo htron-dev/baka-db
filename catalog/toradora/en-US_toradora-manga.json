@@ -1,5 +1,9 @@
 {
     "title": "Toradora!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174090.jpg",
+        "alt": "toradora"
+    },
     "type": "manga",
     "original_name": "とらドラ!",
     "start_date": "2007-07-27",

@@ -1,5 +1,9 @@
 {
     "title": "Tsumasaki Kara Aisarete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/183396.jpg",
+        "alt": "tsumasaki-kara-aisarete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

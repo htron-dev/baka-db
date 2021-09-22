@@ -1,5 +1,9 @@
 {
     "title": "Yorishiro Trunk",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/242819.jpg",
+        "alt": "yorishiro-trunk"
+    },
     "type": "manga",
     "original_name": "ヨリシロトランク",
     "start_date": "2020-02-27",

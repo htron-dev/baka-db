@@ -1,5 +1,9 @@
 {
     "title": "Hoshiori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11647.jpg",
+        "alt": "hoshiori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Ore ni Koishite Dousunda",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/14531.jpg",
+        "alt": "ore-ni-koishite-dousunda"
+    },
     "type": "manga",
     "chapters": "4",
     "original_name": "俺に恋してどうすんだ",

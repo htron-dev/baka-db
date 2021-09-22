@@ -1,5 +1,9 @@
 {
     "title": "Ore Satsujin Jiken!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198033.jpg",
+        "alt": "ore-satsujin-jiken"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "オレ殺人事件!?",

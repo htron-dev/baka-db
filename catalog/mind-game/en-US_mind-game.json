@@ -1,5 +1,9 @@
 {
     "title": "Mind Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10219.jpg",
+        "alt": "mind-game"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

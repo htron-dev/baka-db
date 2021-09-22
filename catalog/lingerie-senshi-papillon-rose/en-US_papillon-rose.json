@@ -1,5 +1,9 @@
 {
     "title": "Papillon Rose",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/21126.jpg",
+        "alt": "papillon-rose"
+    },
     "type": "tv-serie",
     "episodes": "6",
     "original_name": "パピヨンローゼ",

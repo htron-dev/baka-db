@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Vampire Finance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164395.jpg",
+        "alt": "tokyo-vampire-finance"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "東京ヴァンパイア・ファイナンス",

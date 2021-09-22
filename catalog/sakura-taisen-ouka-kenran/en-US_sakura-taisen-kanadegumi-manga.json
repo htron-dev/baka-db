@@ -1,5 +1,9 @@
 {
     "title": "Sakura Taisen: Kanadegumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/207507.jpg",
+        "alt": "sakura-taisen-kanadegumi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

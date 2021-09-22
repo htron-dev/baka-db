@@ -1,5 +1,9 @@
 {
     "title": "Sailor♥Danshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/47115.jpg",
+        "alt": "sailor♥-danshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

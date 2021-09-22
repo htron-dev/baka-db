@@ -1,5 +1,9 @@
 {
     "title": "Deathtopia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/133277.jpg",
+        "alt": "deathtopia"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "66",

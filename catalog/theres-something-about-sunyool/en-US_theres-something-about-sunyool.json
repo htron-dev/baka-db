@@ -1,5 +1,9 @@
 {
     "title": "There's Something About Sunyool",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/183120.jpg",
+        "alt": "theres-something-about-sunyool"
+    },
     "type": "manhwa",
     "volumes": "6",
     "chapters": "37",

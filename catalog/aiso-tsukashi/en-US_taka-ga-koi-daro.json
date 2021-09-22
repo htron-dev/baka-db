@@ -1,5 +1,9 @@
 {
     "title": "Taka ga Koi Daro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23444.jpg",
+        "alt": "taka-ga-koi-daro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

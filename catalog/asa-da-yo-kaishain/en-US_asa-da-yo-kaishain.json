@@ -1,5 +1,9 @@
 {
     "title": "Asa Da yo! Kaishain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/79277.jpg",
+        "alt": "asa-da-yo-kaishain"
+    },
     "type": "tv-serie",
     "episodes": "744",
     "original_name": "朝だよ！貝社員",

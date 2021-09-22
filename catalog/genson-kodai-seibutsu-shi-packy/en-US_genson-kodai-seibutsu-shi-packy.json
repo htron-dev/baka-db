@@ -1,5 +1,9 @@
 {
     "title": "Genson! Kodai Seibutsu-shi Packy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/84589.jpg",
+        "alt": "genson-kodai-seibutsu-shi-packy"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "23",

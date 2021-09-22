@@ -1,5 +1,9 @@
 {
     "title": "Free Jansou Saikyou Densetsu One",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228053.jpg",
+        "alt": "free-jansou-saikyou-densetsu-one"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "80",

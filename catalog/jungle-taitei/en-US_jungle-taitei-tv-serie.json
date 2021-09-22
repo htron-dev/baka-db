@@ -1,5 +1,9 @@
 {
     "title": "Jungle Taitei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/59623.jpg",
+        "alt": "jungle-taitei"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "ジャングル大帝",

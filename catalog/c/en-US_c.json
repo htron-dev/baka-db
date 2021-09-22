@@ -1,5 +1,9 @@
 {
     "title": "C!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150076.jpg",
+        "alt": "c"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "C!!",

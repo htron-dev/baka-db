@@ -1,12 +1,16 @@
 {
     "title": "Bokutachi wa Benkyou ga Dekinai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1974/102960.jpg",
+        "alt": "bokutachi-wa-benkyou-ga-dekinai"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ぼくたちは勉強ができない！",
     "start_date": "2019-10-06",
     "end_date": "2019-10-06",
     "opening_song": "\"Can now, Can now\" by Study",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Houkago no Liberty (放課後のリバティ)\" by halca (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "harem",

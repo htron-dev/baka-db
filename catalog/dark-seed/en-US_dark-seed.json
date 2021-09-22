@@ -1,5 +1,9 @@
 {
     "title": "Dark Seed",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/34284.jpg",
+        "alt": "dark-seed"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

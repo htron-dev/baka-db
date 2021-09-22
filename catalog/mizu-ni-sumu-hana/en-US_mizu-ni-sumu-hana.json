@@ -1,5 +1,9 @@
 {
     "title": "Mizu ni Sumu Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/34282.jpg",
+        "alt": "mizu-ni-sumu-hana"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "24",

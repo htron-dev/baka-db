@@ -1,5 +1,9 @@
 {
     "title": "Kasugazaka Koukou Manga Kenkyuubu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171927.jpg",
+        "alt": "kasugazaka-koukou-manga-kenkyuubu"
+    },
     "type": "light-novel",
     "original_name": "春日坂高校漫画研究部",
     "start_date": "2013-11-30",

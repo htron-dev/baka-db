@@ -1,5 +1,9 @@
 {
     "title": "Ningen no Ichiban Muboubi na Bubun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/84513.jpg",
+        "alt": "ningen-no-ichiban-muboubi-na-bubun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

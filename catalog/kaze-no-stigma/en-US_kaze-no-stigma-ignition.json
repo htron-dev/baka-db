@@ -1,5 +1,9 @@
 {
     "title": "Kaze no Stigma: Ignition",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174143.jpg",
+        "alt": "kaze-no-stigma-ignition"
+    },
     "type": "light-novel",
     "volumes": "6",
     "chapters": "39",

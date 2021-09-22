@@ -1,5 +1,9 @@
 {
     "title": "Black Jack ni Yoroshiku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176844.jpg",
+        "alt": "black-jack-ni-yoroshiku"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "127",

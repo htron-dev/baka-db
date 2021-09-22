@@ -1,5 +1,9 @@
 {
     "title": "Onryou Okusama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225319.jpg",
+        "alt": "onryou-okusama"
+    },
     "type": "manga",
     "original_name": "怨霊奥様",
     "start_date": "2018-06-01",

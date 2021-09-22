@@ -1,5 +1,9 @@
 {
     "title": "Tegami Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192196.jpg",
+        "alt": "tegami-monogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

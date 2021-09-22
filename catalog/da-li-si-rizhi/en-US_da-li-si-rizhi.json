@@ -1,5 +1,9 @@
 {
     "title": "Da Li Si Rizhi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1659/105254.jpg",
+        "alt": "da-li-si-rizhi"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "大理寺日志",

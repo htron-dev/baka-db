@@ -1,12 +1,16 @@
 {
     "title": "Tensei shitara Slime Datta Ken OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1116/104615.jpg",
+        "alt": "tensei-shitara-slime-datta-ken-ova"
+    },
     "type": "ova",
     "episodes": "5",
     "original_name": "転生したらスライムだった件 OVA",
     "start_date": "2019-07-09",
     "end_date": "2019-07-09",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Nameless story\" by Takuma Terashima (eps 1-2)",
+    "ending_song": "#1: \"Another colony\" by TRUE (eps 1-2)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

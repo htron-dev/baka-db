@@ -1,5 +1,9 @@
 {
     "title": "Choujin X",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244523.jpg",
+        "alt": "choujin-x"
+    },
     "type": "manga",
     "original_name": "超人 X",
     "start_date": "2021-05-10",

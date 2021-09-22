@@ -1,5 +1,9 @@
 {
     "title": "Kuro no Taiyou, Gin no Tsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5112.jpg",
+        "alt": "kuro-no-taiyou-gin-no-tsuki"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "黒の太陽 銀の月",

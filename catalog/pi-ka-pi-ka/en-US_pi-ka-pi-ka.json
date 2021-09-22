@@ -1,5 +1,9 @@
 {
     "title": "PiKA PiKA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/69169.jpg",
+        "alt": "pi-ka-pi-ka"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "PiKA PiKA",

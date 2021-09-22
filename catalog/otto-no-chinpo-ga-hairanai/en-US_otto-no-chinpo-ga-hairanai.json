@@ -1,5 +1,9 @@
 {
     "title": "Otto no Chinpo ga Hairanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/216660.jpg",
+        "alt": "otto-no-chinpo-ga-hairanai"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "27",

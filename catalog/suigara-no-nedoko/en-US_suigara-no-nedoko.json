@@ -1,5 +1,9 @@
 {
     "title": "Suigara no Nedoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6564.jpg",
+        "alt": "suigara-no-nedoko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

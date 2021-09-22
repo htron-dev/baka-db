@@ -1,5 +1,9 @@
 {
     "title": "Bushin Gikyoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/9367.jpg",
+        "alt": "bushin-gikyoku"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

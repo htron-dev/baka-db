@@ -1,5 +1,9 @@
 {
     "title": "Free Soul",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158125.jpg",
+        "alt": "free-soul"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

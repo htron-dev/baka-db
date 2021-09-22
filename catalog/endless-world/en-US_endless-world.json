@@ -1,5 +1,9 @@
 {
     "title": "Endless World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16729.jpg",
+        "alt": "endless-world"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

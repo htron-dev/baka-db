@@ -1,5 +1,9 @@
 {
     "title": "Night Milk Heaven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221888.jpg",
+        "alt": "night-milk-heaven"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

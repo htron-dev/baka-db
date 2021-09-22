@@ -1,5 +1,9 @@
 {
     "title": "Afrika Gundan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/131921.jpg",
+        "alt": "afrika-gundan"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "アフリカ軍団",

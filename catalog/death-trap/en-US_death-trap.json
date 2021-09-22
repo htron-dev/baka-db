@@ -1,5 +1,9 @@
 {
     "title": "Death Trap",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/107241.jpg",
+        "alt": "death-trap"
+    },
     "type": "manhwa",
     "chapters": "1",
     "original_name": "DEATH TRAP",

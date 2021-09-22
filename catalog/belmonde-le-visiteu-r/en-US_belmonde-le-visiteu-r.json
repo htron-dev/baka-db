@@ -1,5 +1,9 @@
 {
     "title": "Belmonde Le VisiteuR",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/154488.jpg",
+        "alt": "belmonde-le-visiteu-r"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

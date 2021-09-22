@@ -1,5 +1,9 @@
 {
     "title": "Honjitsu kara no Rinjinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/110125.jpg",
+        "alt": "honjitsu-kara-no-rinjinai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

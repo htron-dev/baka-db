@@ -1,5 +1,9 @@
 {
     "title": "Neko Mantan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14282.jpg",
+        "alt": "neko-mantan"
+    },
     "type": "manga",
     "original_name": "ねこまんたん",
     "tags": [],

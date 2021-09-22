@@ -1,5 +1,9 @@
 {
     "title": "Mo Dao Zu Shi: Wanjie Pian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1634/116782.jpg",
+        "alt": "mo-dao-zu-shi-wanjie-pian"
+    },
     "type": "ona",
     "original_name": "魔道祖师 完结篇",
     "start_date": "2021-08-07",
@@ -24,7 +28,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://zh.wikipedia.org/wiki/%E9%AD%94%E9%81%93%E7%A5%96%E5%B8%88_(%E5%8A%A8%E7%94%BB"
+            "link": "https://zh.wikipedia.org/wiki/%E9%AD%94%E9%81%93%E7%A5%96%E5%B8%88_%28%E5%8A%A8%E7%94%BB%29"
         }
     ]
 }

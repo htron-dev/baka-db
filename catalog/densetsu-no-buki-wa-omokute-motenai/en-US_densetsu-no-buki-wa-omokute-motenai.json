@@ -1,5 +1,9 @@
 {
     "title": "Densetsu no Buki wa Omokute Motenai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200283.jpg",
+        "alt": "densetsu-no-buki-wa-omokute-motenai"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "伝説の武器は重くて持てない。",

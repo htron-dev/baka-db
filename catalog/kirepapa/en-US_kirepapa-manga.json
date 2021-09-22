@@ -1,5 +1,9 @@
 {
     "title": "Kirepapa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11254.jpg",
+        "alt": "kirepapa"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "キレパパ。",

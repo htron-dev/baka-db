@@ -1,5 +1,9 @@
 {
     "title": "Norasco (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/82048.jpg",
+        "alt": "norasco-movie"
+    },
     "type": "movie",
     "original_name": "野良スコ",
     "start_date": "2016-09-17",

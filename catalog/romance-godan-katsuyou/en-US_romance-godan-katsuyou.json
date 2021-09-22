@@ -1,5 +1,9 @@
 {
     "title": "Romance Godan Katsuyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179030.jpg",
+        "alt": "romance-godan-katsuyou"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ろまんす五段活用",

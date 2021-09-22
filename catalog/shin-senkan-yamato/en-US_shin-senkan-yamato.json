@@ -1,5 +1,9 @@
 {
     "title": "Shin Senkan Yamato",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/61031.jpg",
+        "alt": "shin-senkan-yamato"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "新戦艦大和",

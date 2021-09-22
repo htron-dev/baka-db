@@ -1,5 +1,9 @@
 {
     "title": "Ryuu no Haisha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/83336.jpg",
+        "alt": "ryuu-no-haisha"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "龍の歯医者",

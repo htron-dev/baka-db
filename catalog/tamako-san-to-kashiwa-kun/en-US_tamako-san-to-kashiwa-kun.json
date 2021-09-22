@@ -1,5 +1,9 @@
 {
     "title": "Tamako-san to Kashiwa-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164648.jpg",
+        "alt": "tamako-san-to-kashiwa-kun"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

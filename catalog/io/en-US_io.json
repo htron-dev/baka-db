@@ -1,5 +1,9 @@
 {
     "title": "IO",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/56007.jpg",
+        "alt": "io"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "55",

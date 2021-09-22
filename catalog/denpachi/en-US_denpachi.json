@@ -1,5 +1,9 @@
 {
     "title": "Denpachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158726.jpg",
+        "alt": "denpachi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

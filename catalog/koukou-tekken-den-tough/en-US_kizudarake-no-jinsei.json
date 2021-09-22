@@ -1,5 +1,9 @@
 {
     "title": "Kizudarake no Jinsei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236286.jpg",
+        "alt": "kizudarake-no-jinsei"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "117",

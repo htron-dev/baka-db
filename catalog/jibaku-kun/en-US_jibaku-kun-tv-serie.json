@@ -1,12 +1,16 @@
 {
     "title": "Jibaku-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/15166.jpg",
+        "alt": "jibaku-kun"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ジバクくん",
     "start_date": "1999-10-05",
     "end_date": "1999-10-05",
     "opening_song": "\"Dare mo Shiranai Chizu de (誰も知らない地図で)\" by Yumi Matsuzawa",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Last Tears\" by Two-Mix (episodes 1-14)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

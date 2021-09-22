@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Te wa Boku no Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2861.jpg",
+        "alt": "kimi-no-te-wa-boku-no-mono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

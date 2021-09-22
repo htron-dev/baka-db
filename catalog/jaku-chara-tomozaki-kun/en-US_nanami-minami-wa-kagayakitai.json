@@ -1,5 +1,9 @@
 {
     "title": "Nanami Minami wa Kagayakitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238476.jpg",
+        "alt": "nanami-minami-wa-kagayakitai"
+    },
     "type": "manga",
     "original_name": "七海みなみは輝きたい",
     "start_date": "2020-07-18",

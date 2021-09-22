@@ -1,5 +1,9 @@
 {
     "title": "Marmalade Boy Little",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166223.jpg",
+        "alt": "marmalade-boy-little"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "48",

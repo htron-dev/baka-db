@@ -1,5 +1,9 @@
 {
     "title": "Himitsu na Kimi ni Koi wo Shita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200547.jpg",
+        "alt": "himitsu-na-kimi-ni-koi-wo-shita"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

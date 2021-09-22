@@ -1,5 +1,9 @@
 {
     "title": "Spice wa Ai?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5930.jpg",
+        "alt": "spice-wa-ai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "スパイスは愛?",

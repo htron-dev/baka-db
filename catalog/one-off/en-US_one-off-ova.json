@@ -1,5 +1,9 @@
 {
     "title": "One Off",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/39661.jpg",
+        "alt": "one-off"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "わんおふ -one off-",
@@ -31,7 +35,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/One_Off_(OVA"
+            "link": "https://en.wikipedia.org/wiki/One_Off_%28OVA%29"
         }
     ]
 }

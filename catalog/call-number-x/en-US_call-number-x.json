@@ -1,5 +1,9 @@
 {
     "title": "Call Number X",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40030.jpg",
+        "alt": "call-number-x"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "コールナンバー\"X”",

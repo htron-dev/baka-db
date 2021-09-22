@@ -1,5 +1,9 @@
 {
     "title": "Mugen no Ryvius",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/16734.jpg",
+        "alt": "mugen-no-ryvius"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "無限のリヴァイアス",

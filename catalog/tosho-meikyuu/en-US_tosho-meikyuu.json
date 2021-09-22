@@ -1,5 +1,9 @@
 {
     "title": "Tosho Meikyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/202596.jpg",
+        "alt": "tosho-meikyuu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

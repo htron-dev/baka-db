@@ -1,5 +1,9 @@
 {
     "title": "Teinenpi Shoujo Heidi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/20810.jpg",
+        "alt": "teinenpi-shoujo-heidi"
+    },
     "type": "ona",
     "episodes": "8",
     "original_name": "低燃費少女ハイジ",

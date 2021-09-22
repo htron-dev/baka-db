@@ -1,5 +1,9 @@
 {
     "title": "Torotoro no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190888.jpg",
+        "alt": "torotoro-no-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

@@ -1,5 +1,9 @@
 {
     "title": "Umi no Aria",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/12517.jpg",
+        "alt": "umi-no-aria"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "うみのアリア",

@@ -1,12 +1,16 @@
 {
     "title": "Shoujo☆Kageki Revue Starlight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1165/93552.jpg",
+        "alt": "shoujo☆-kageki-revue-starlight"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "少女 ☆ 歌劇 レヴュースタァライト",
     "start_date": "2018-07-13",
     "end_date": "2018-07-13",
     "opening_song": "\"Hoshi no Dialogue (星のダイアローグ)\" by Starlight Kukugumi (スタァライト九九組) (eps 2-11)",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Hoshi no Dialogue (星のダイアローグ)\" by Starlight Kukugumi (スタァライト九九組) (eps 1, 12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music",

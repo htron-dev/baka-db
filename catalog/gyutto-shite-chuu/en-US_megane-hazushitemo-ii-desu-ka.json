@@ -1,5 +1,9 @@
 {
     "title": "Megane ~ Hazushitemo Ii desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/22731.jpg",
+        "alt": "megane-hazushitemo-ii-desu-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

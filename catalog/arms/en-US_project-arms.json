@@ -1,12 +1,16 @@
 {
     "title": "Project ARMS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1197/92994.jpg",
+        "alt": "project-arms"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "プロジェクトアームズ",
     "start_date": "2001-04-07",
     "end_date": "2001-04-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"FreeBird\" by New Cinema Tokage",
+    "ending_song": "#1: \"Just Wanna Be\" by WAG",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

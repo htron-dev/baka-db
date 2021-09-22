@@ -1,5 +1,9 @@
 {
     "title": "Anata no Ai ni Yararetai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/45083.jpg",
+        "alt": "anata-no-ai-ni-yararetai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

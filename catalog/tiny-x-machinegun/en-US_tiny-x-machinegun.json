@@ -1,5 +1,9 @@
 {
     "title": "Tiny x Machinegun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/131439.jpg",
+        "alt": "tiny-x-machinegun"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "タイニー × マシンガン",

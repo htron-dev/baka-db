@@ -1,5 +1,9 @@
 {
     "title": "Drug & Drop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/84971.jpg",
+        "alt": "drug-drop"
+    },
     "type": "manga",
     "original_name": "ドラッグ＆ドロップ",
     "start_date": "2011-11-04",

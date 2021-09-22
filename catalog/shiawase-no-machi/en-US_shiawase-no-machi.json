@@ -1,5 +1,9 @@
 {
     "title": "Shiawase no Machi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190450.jpg",
+        "alt": "shiawase-no-machi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

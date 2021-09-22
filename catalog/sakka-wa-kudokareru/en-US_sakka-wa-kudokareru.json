@@ -1,5 +1,9 @@
 {
     "title": "Sakka wa Kudokareru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33822.jpg",
+        "alt": "sakka-wa-kudokareru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

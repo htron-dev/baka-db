@@ -1,5 +1,9 @@
 {
     "title": "Mitsurugi Haruka Kiki Ippatsu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/9195.jpg",
+        "alt": "mitsurugi-haruka-kiki-ippatsu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

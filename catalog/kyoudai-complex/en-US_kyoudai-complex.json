@@ -1,5 +1,9 @@
 {
     "title": "Kyoudai Complex",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227195.jpg",
+        "alt": "kyoudai-complex"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

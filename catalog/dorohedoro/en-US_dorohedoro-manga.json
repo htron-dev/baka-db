@@ -1,5 +1,9 @@
 {
     "title": "Dorohedoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/143111.jpg",
+        "alt": "dorohedoro"
+    },
     "type": "manga",
     "volumes": "23",
     "chapters": "190",

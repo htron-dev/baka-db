@@ -1,12 +1,16 @@
 {
     "title": "Tantei Gakuen Q",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/407.jpg",
+        "alt": "tantei-gakuen-q"
+    },
     "type": "tv-serie",
     "episodes": "45",
     "original_name": "探偵学園 Q",
     "start_date": "2003-04-15",
     "end_date": "2003-04-15",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"MeiQ!?\" by Hayami Kishimoto (eps 1-21)",
+    "ending_song": "#1: \"Koigokoro\" by Akane Sugazaki (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

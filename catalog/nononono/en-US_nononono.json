@@ -1,5 +1,9 @@
 {
     "title": "Nononono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/52295.jpg",
+        "alt": "nononono"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "142",

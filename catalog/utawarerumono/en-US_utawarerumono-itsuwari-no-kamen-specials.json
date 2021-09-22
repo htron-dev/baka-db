@@ -1,5 +1,9 @@
 {
     "title": "Utawarerumono: Itsuwari no Kamen Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/79799.jpg",
+        "alt": "utawarerumono-itsuwari-no-kamen-specials"
+    },
     "type": "special",
     "episodes": "8",
     "original_name": "うたわれるもの 偽りの仮面",

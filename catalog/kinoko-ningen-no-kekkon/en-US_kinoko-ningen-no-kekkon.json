@@ -1,5 +1,9 @@
 {
     "title": "Kinoko Ningen no Kekkon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164284.jpg",
+        "alt": "kinoko-ningen-no-kekkon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

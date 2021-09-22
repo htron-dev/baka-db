@@ -1,5 +1,9 @@
 {
     "title": "Hitori de Ikiru mon!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176558.jpg",
+        "alt": "hitori-de-ikiru-mon"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "12",

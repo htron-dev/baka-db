@@ -1,5 +1,9 @@
 {
     "title": "Full Ahead! Coco",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/137661.jpg",
+        "alt": "full-ahead-coco"
+    },
     "type": "manga",
     "volumes": "29",
     "chapters": "258",

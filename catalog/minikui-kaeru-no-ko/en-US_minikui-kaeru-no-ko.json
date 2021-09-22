@@ -1,5 +1,9 @@
 {
     "title": "Minikui Kaeru no Ko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186349.jpg",
+        "alt": "minikui-kaeru-no-ko"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

@@ -1,5 +1,9 @@
 {
     "title": "Dear Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177565.jpg",
+        "alt": "dear-boy"
+    },
     "type": "manhwa",
     "chapters": "75",
     "original_name": "소년이여",

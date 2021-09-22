@@ -1,5 +1,9 @@
 {
     "title": "Tendou-ke Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176935.jpg",
+        "alt": "tendou-ke-monogatari"
+    },
     "type": "manga",
     "original_name": "天堂家物語",
     "start_date": "2014-08-09",

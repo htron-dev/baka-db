@@ -1,5 +1,9 @@
 {
     "title": "Hako no Naka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/91993.jpg",
+        "alt": "hako-no-naka"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "3",

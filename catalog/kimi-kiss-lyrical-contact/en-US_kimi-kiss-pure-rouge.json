@@ -1,12 +1,16 @@
 {
     "title": "KimiKiss Pure Rouge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/19934.jpg",
+        "alt": "kimi-kiss-pure-rouge"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "キミキス pure rouge",
     "start_date": "2007-10-07",
     "end_date": "2007-10-07",
     "opening_song": "\"Aozora loop (青空 loop)\" by marble",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Negaiboshi (願い星)\" by Snow\\* (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

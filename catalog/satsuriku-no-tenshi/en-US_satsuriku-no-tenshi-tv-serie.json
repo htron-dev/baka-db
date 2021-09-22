@@ -1,12 +1,16 @@
 {
     "title": "Satsuriku no Tenshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1862/95624.jpg",
+        "alt": "satsuriku-no-tenshi"
+    },
     "type": "tv-serie",
     "episodes": "16",
     "original_name": "殺戮の天使",
     "start_date": "2018-07-06",
     "end_date": "2018-07-06",
     "opening_song": "\"Vital\" by Masaaki Endoh",
-    "ending_song": "\"Pray\" by Rachel (CV",
+    "ending_song": "\"Pray\" by Rachel (CV:Haruka Chisuga)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "adventure",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Angels_of_Death_(video_game"
+            "link": "http://en.wikipedia.org/wiki/Angels_of_Death_%28video_game%29"
         }
     ]
 }

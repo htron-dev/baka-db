@@ -1,5 +1,9 @@
 {
     "title": "Garyuu Kyousuke Public File",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176087.jpg",
+        "alt": "garyuu-kyousuke-public-file"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

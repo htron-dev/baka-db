@@ -1,5 +1,9 @@
 {
     "title": "Area 88 Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/79843.jpg",
+        "alt": "area-88-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "エリア 88 劇場版",

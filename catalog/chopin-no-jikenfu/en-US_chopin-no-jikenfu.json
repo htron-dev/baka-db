@@ -1,5 +1,9 @@
 {
     "title": "Chopin no Jikenfu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228871.jpg",
+        "alt": "chopin-no-jikenfu"
+    },
     "type": "manga",
     "original_name": "ショパンの事件譜",
     "start_date": "2014-05-17",

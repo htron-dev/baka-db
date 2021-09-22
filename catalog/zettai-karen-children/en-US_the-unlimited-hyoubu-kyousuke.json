@@ -1,5 +1,9 @@
 {
     "title": "The Unlimited: Hyoubu Kyousuke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157876.jpg",
+        "alt": "the-unlimited-hyoubu-kyousuke"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "29",

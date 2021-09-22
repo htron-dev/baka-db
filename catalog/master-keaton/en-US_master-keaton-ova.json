@@ -1,12 +1,16 @@
 {
     "title": "Master Keaton OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/14522.jpg",
+        "alt": "master-keaton-ova"
+    },
     "type": "ova",
     "episodes": "15",
     "original_name": "マスターキートン",
     "start_date": "1999-12-21",
     "end_date": "1999-12-21",
     "opening_song": "\"Opening Theme\" by Kuniaki Haishima",
-    "ending_song": "#1",
+    "ending_song": "#1: \"A Sigh\" by KneuKid Romance (eps 1-2)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "adventure",

@@ -1,5 +1,9 @@
 {
     "title": "Nobunaga no Chef",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/86733.jpg",
+        "alt": "nobunaga-no-chef"
+    },
     "type": "manga",
     "original_name": "信長のシェフ",
     "start_date": "2011-03-04",

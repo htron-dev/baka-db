@@ -1,5 +1,9 @@
 {
     "title": "Cigar Holic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190696.jpg",
+        "alt": "cigar-holic"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

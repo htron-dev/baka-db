@@ -1,5 +1,9 @@
 {
     "title": "Number Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176851.jpg",
+        "alt": "number-girl"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "51",

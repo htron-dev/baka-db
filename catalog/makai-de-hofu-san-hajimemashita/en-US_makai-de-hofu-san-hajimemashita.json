@@ -1,5 +1,9 @@
 {
     "title": "Makai de Hofu-san Hajimemashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168654.jpg",
+        "alt": "makai-de-hofu-san-hajimemashita"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

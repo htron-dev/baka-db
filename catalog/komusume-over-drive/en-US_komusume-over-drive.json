@@ -1,5 +1,9 @@
 {
     "title": "Komusume Over Drive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/155601.jpg",
+        "alt": "komusume-over-drive"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

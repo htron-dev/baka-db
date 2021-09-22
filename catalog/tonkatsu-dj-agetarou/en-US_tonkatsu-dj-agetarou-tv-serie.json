@@ -1,5 +1,9 @@
 {
     "title": "Tonkatsu DJ Agetarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/78559.jpg",
+        "alt": "tonkatsu-dj-agetarou"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "とんかつ DJ アゲ太郎",

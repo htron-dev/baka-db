@@ -1,5 +1,9 @@
 {
     "title": "Peppermint",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/1324.jpg",
+        "alt": "peppermint"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "21",

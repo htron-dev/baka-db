@@ -1,5 +1,9 @@
 {
     "title": "Comic Anthology Seifuku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33484.jpg",
+        "alt": "comic-anthology-seifuku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

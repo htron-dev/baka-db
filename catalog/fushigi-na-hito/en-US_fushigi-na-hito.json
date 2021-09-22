@@ -1,5 +1,9 @@
 {
     "title": "Fushigi na Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/82158.jpg",
+        "alt": "fushigi-na-hito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

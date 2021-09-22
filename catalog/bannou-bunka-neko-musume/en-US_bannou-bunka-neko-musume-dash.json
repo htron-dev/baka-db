@@ -1,5 +1,9 @@
 {
     "title": "Bannou Bunka Neko-Musume DASH!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/2886.jpg",
+        "alt": "bannou-bunka-neko-musume-dash"
+    },
     "type": "ova",
     "episodes": "12",
     "original_name": "万能文化猫娘ＤＡＳＨ！",

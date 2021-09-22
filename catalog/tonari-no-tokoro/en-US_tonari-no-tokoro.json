@@ -1,5 +1,9 @@
 {
     "title": "Tonari no Tokoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/27209.jpg",
+        "alt": "tonari-no-tokoro"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "となりのトコロ",

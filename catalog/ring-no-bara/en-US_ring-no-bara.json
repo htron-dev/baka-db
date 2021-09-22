@@ -1,5 +1,9 @@
 {
     "title": "Ring no Bara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/127085.jpg",
+        "alt": "ring-no-bara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

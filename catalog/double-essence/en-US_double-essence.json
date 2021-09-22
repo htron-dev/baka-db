@@ -1,5 +1,9 @@
 {
     "title": "Double Essence",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/117597.jpg",
+        "alt": "double-essence"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

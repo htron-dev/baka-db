@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Retsujou ni Mi wo Kogasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/45931.jpg",
+        "alt": "boku-wa-retsujou-ni-mi-wo-kogasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

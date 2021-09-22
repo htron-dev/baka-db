@@ -1,5 +1,9 @@
 {
     "title": "Cinderella Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/89194.jpg",
+        "alt": "cinderella-boy"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "シンデレラボーイ",

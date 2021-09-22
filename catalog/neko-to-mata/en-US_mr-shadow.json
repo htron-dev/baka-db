@@ -1,5 +1,9 @@
 {
     "title": "Mr. Shadow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1294/98325.jpg",
+        "alt": "mr-shadow"
+    },
     "type": "tv-serie",
     "episodes": "3",
     "original_name": "ミスター・シャドウ",

@@ -1,5 +1,9 @@
 {
     "title": "Gun Blaze West",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204387.jpg",
+        "alt": "gun-blaze-west"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "28",

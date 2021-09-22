@@ -1,5 +1,9 @@
 {
     "title": "Sailor Kentouki Arashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/129315.jpg",
+        "alt": "sailor-kentouki-arashi"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "セーラー剣闘姫 嵐",

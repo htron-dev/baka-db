@@ -1,5 +1,9 @@
 {
     "title": "Enkyori Kekkon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40527.jpg",
+        "alt": "enkyori-kekkon"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "遠距離結婚",

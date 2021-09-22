@@ -1,5 +1,9 @@
 {
     "title": "Sky Blue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/209463.jpg",
+        "alt": "sky-blue"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "22",

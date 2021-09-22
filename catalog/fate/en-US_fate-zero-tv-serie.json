@@ -1,12 +1,16 @@
 {
     "title": "Fate/Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/73249.jpg",
+        "alt": "fate-zero"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "フェイト/ゼロ",
     "start_date": "2011-10-02",
     "end_date": "2011-10-02",
     "opening_song": "\"oath sign\" by LiSA (eps 2-10, 12-13)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"oath sign\" by LiSA (ep 1)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

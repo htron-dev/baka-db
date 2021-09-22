@@ -1,5 +1,9 @@
 {
     "title": "Neon Genesis Evangelion: Campus Apocalypse",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/30773.jpg",
+        "alt": "neon-genesis-evangelion-campus-apocalypse"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

@@ -1,5 +1,9 @@
 {
     "title": "Wonder Border",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/212150.jpg",
+        "alt": "wonder-border"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

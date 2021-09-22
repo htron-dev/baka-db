@@ -1,5 +1,9 @@
 {
     "title": "Dassou Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181316.jpg",
+        "alt": "dassou-princess"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "脱走プリンセス",

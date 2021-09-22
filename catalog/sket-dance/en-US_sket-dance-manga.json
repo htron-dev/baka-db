@@ -1,5 +1,9 @@
 {
     "title": "SKET Dance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173959.jpg",
+        "alt": "sket-dance"
+    },
     "type": "manga",
     "volumes": "32",
     "chapters": "288",

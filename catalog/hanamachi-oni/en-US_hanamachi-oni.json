@@ -1,5 +1,9 @@
 {
     "title": "Hanamachi Oni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190875.jpg",
+        "alt": "hanamachi-oni"
+    },
     "type": "manga",
     "original_name": "花街鬼",
     "start_date": "2013-08-24",

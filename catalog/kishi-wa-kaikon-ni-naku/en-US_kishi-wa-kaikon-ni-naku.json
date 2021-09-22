@@ -1,5 +1,9 @@
 {
     "title": "Kishi wa Kaikon ni Naku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/229915.jpg",
+        "alt": "kishi-wa-kaikon-ni-naku"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

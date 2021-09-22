@@ -1,5 +1,9 @@
 {
     "title": "Re:Marina",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/113773.jpg",
+        "alt": "re-marina"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "49",

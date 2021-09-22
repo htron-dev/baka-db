@@ -1,5 +1,9 @@
 {
     "title": "Thunder",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/75699.jpg",
+        "alt": "thunder"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "THUNDER",

@@ -1,11 +1,15 @@
 {
     "title": "Power Dolls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1283/94567.jpg",
+        "alt": "power-dolls"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "パワードール",
     "start_date": "1996-03-01",
     "end_date": "1996-03-01",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Heaven\" by Kaori Moriwaka (ep 1)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Demon 72",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170392.jpg",
+        "alt": "demon-72"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

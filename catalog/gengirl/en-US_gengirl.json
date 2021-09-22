@@ -1,5 +1,9 @@
 {
     "title": "Gengirl!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203214.jpg",
+        "alt": "gengirl"
+    },
     "type": "manga",
     "original_name": "げんがーるっ！",
     "start_date": "2017-06-19",

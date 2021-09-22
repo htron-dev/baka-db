@@ -1,12 +1,16 @@
 {
     "title": "Juushinki Pandora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1897/95230.jpg",
+        "alt": "juushinki-pandora"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "重神機パンドーラ",
     "start_date": "2018-03-29",
     "end_date": "2018-03-29",
     "opening_song": "\"Sirius (シリウス)\" by BUMP OF CHICKEN (eps 2-25)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Sirius (シリウス)\" by BUMP OF CHICKEN (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Last_Hope_(anime"
+            "link": "https://en.wikipedia.org/wiki/Last_Hope_%28anime%29"
         }
     ]
 }

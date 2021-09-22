@@ -1,5 +1,9 @@
 {
     "title": "Shigatsu no Majo no Heya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172017.jpg",
+        "alt": "shigatsu-no-majo-no-heya"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "四月の魔女の部屋",

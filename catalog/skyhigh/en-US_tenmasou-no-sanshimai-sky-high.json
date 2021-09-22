@@ -1,5 +1,9 @@
 {
     "title": "Tenmasou no Sanshimai - Sky High",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/101755.jpg",
+        "alt": "tenmasou-no-sanshimai-sky-high"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "26",

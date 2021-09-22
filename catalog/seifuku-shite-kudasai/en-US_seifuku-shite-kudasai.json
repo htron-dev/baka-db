@@ -1,5 +1,9 @@
 {
     "title": "Seifuku Shite Kudasai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36694.jpg",
+        "alt": "seifuku-shite-kudasai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "制服してください",

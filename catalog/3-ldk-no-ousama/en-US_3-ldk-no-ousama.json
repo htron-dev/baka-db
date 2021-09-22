@@ -1,5 +1,9 @@
 {
     "title": "3LDK no Ousama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166739.jpg",
+        "alt": "3-ldk-no-ousama"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

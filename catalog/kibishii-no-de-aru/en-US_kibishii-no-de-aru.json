@@ -1,5 +1,9 @@
 {
     "title": "Kibishii no de Aru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20657.jpg",
+        "alt": "kibishii-no-de-aru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

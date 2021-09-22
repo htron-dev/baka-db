@@ -1,5 +1,9 @@
 {
     "title": "Ghost Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238042.jpg",
+        "alt": "ghost-girl"
+    },
     "type": "manga",
     "original_name": "GHOST GIRL",
     "start_date": "2020-07-14",

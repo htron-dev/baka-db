@@ -1,5 +1,9 @@
 {
     "title": "Seishun Danshi Shugei Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33510.jpg",
+        "alt": "seishun-danshi-shugei-club"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "青春男子手芸クラブ",

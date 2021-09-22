@@ -1,5 +1,9 @@
 {
     "title": "Honeymoon wa Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167141.jpg",
+        "alt": "honeymoon-wa-series"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

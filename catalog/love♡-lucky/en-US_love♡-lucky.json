@@ -1,5 +1,9 @@
 {
     "title": "Love♡Lucky!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/125161.jpg",
+        "alt": "love♡-lucky"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "63",

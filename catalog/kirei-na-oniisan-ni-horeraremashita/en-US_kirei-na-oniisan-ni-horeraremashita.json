@@ -1,5 +1,9 @@
 {
     "title": "Kirei na Oniisan ni Horeraremashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/223597.jpg",
+        "alt": "kirei-na-oniisan-ni-horeraremashita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

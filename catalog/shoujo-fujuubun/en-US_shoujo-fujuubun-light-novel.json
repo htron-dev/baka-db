@@ -1,5 +1,9 @@
 {
     "title": "Shoujo Fujuubun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/233654.jpg",
+        "alt": "shoujo-fujuubun"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "少女不十分",

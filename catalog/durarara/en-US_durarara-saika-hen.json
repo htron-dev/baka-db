@@ -1,5 +1,9 @@
 {
     "title": "Durarara!! Saika-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/154267.jpg",
+        "alt": "durarara-saika-hen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

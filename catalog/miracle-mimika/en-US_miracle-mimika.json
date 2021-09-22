@@ -1,5 +1,9 @@
 {
     "title": "Miracle! Mimika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/10993.jpg",
+        "alt": "miracle-mimika"
+    },
     "type": "tv-serie",
     "episodes": "225",
     "original_name": "味楽る!ミミカ",

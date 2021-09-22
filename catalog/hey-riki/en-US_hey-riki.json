@@ -1,5 +1,9 @@
 {
     "title": "Hey! Riki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/112301.jpg",
+        "alt": "hey-riki"
+    },
     "type": "manga",
     "volumes": "27",
     "chapters": "198",

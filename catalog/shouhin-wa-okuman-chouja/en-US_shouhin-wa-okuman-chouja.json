@@ -1,5 +1,9 @@
 {
     "title": "Shouhin wa Okuman Chouja!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/60565.jpg",
+        "alt": "shouhin-wa-okuman-chouja"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "賞品は億万長者!",

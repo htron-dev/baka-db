@@ -1,5 +1,9 @@
 {
     "title": "Cherry Blossom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/66167.jpg",
+        "alt": "cherry-blossom"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "チェリーブラッサム",

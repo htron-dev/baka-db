@@ -1,11 +1,15 @@
 {
     "title": "Lemon Angel Project",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/36417.jpg",
+        "alt": "lemon-angel-project"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "レモン エンジェル プロジェクト",
     "start_date": "2006-01-06",
     "end_date": "2006-01-06",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Angel Addict\" by Ryou Shihono, Ami Koshimizu, Miki Maruyama (ep 1-5)",
     "ending_song": "\"Girls in Love~Koi suru Kimochi~\" by Nao Nagasawa",
     "rating": "PG - Children",
     "tags": [

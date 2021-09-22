@@ -1,5 +1,9 @@
 {
     "title": "Shikizakura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1175/116578.jpg",
+        "alt": "shikizakura"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "シキザクラ",

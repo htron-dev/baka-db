@@ -1,5 +1,9 @@
 {
     "title": "Yarisugi Companion to Atashi Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36239.jpg",
+        "alt": "yarisugi-companion-to-atashi-monogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

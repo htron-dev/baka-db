@@ -1,12 +1,16 @@
 {
     "title": "Ikebukuro West Gate Park",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1277/108376.jpg",
+        "alt": "ikebukuro-west-gate-park"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "池袋ウエストゲートパーク",
     "start_date": "2020-10-06",
     "end_date": "2020-10-06",
     "opening_song": "\"Needle Knot (ニードルノット)\" by THE PINBALLS",
-    "ending_song": "#1",
+    "ending_song": "#1: \"after song\" by INNOSENT in FORMAL (eps 1-3, 5-6, 9, 11-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "mystery",

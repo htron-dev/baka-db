@@ -1,5 +1,9 @@
 {
     "title": "Solo Leveling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222295.jpg",
+        "alt": "solo-leveling"
+    },
     "type": "manhwa",
     "original_name": "나 혼자만 레벨업",
     "start_date": "2018-03-04",

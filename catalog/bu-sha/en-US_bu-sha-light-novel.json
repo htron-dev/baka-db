@@ -1,5 +1,9 @@
 {
     "title": "Bu Sha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/106527.jpg",
+        "alt": "bu-sha"
+    },
     "type": "light-novel",
     "volumes": "14",
     "chapters": "107",

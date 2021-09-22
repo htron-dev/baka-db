@@ -1,5 +1,9 @@
 {
     "title": "Moribito Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32395.jpg",
+        "alt": "moribito-series"
+    },
     "type": "light-novel",
     "volumes": "10",
     "original_name": "守り人シリーズ",

@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Suizou wo Tabetai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191611.jpg",
+        "alt": "kimi-no-suizou-wo-tabetai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

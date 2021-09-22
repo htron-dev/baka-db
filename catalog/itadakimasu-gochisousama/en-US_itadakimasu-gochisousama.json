@@ -1,5 +1,9 @@
 {
     "title": "Itadakimasu, Gochisousama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171701.jpg",
+        "alt": "itadakimasu-gochisousama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

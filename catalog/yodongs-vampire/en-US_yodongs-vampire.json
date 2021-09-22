@@ -1,5 +1,9 @@
 {
     "title": "Yodong's Vampire",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6908.jpg",
+        "alt": "yodongs-vampire"
+    },
     "type": "manhwa",
     "volumes": "1",
     "chapters": "6",

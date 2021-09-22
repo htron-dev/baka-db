@@ -1,12 +1,16 @@
 {
     "title": "Kami no Tou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1702/106229.jpg",
+        "alt": "kami-no-tou"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "神之塔 -Tower of God-",
     "start_date": "2020-04-02",
     "end_date": "2020-04-02",
     "opening_song": "\"TOP\" by Stray Kids (eps 1-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"SLUMP\" by Stray Kids (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

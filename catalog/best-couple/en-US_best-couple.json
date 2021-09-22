@@ -1,5 +1,9 @@
 {
     "title": "Best Couple",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/73167.jpg",
+        "alt": "best-couple"
+    },
     "type": "manhwa",
     "chapters": "1",
     "tags": [

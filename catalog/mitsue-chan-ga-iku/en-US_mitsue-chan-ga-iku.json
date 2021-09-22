@@ -1,5 +1,9 @@
 {
     "title": "Mitsue-chan ga Iku!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151659.jpg",
+        "alt": "mitsue-chan-ga-iku"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "みつえちゃんが行く!!",

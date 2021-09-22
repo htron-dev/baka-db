@@ -1,5 +1,9 @@
 {
     "title": "Yu☆Gi☆Oh! Duel Monsters: Hikari no Pyramid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/17877.jpg",
+        "alt": "yu☆-gi☆-oh-duel-monsters-hikari-no-pyramid"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

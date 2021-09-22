@@ -1,5 +1,9 @@
 {
     "title": "Nante Suteki ni Japanesque",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193164.jpg",
+        "alt": "nante-suteki-ni-japanesque"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "85",

@@ -1,5 +1,9 @@
 {
     "title": "Bannou Kagaku Hengeibu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/79361.jpg",
+        "alt": "bannou-kagaku-hengeibu"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "万能化学変芸部!",

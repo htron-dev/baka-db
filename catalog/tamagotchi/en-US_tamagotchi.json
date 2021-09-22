@@ -1,12 +1,16 @@
 {
     "title": "Tamagotchi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/17624.jpg",
+        "alt": "tamagotchi"
+    },
     "type": "tv-serie",
     "episodes": "143",
     "original_name": "たまごっち!",
     "start_date": "2009-10-12",
     "end_date": "2009-10-12",
-    "opening_song": "#01",
-    "ending_song": "#1",
+    "opening_song": "#01: \"GO-GO Tamagotchi! (GO-GO たまごっち!)\" by Narayuria (ならゆりあ) w. Young Fresh (ヤング・フレッシュ) (eps 1-48)",
+    "ending_song": "#1: \"Tamatomo Forever (たまともフォーエバー)\" by Haida Shouko (はいだしょうこ) (eps 1- 25)",
     "rating": "G - All Ages",
     "tags": [
         "comedy"

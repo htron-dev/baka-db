@@ -1,5 +1,9 @@
 {
     "title": "Rin to Cheer.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204913.jpg",
+        "alt": "rin-to-cheer"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "38",

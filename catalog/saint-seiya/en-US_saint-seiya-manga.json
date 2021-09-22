@@ -1,5 +1,9 @@
 {
     "title": "Saint Seiya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/155914.jpg",
+        "alt": "saint-seiya"
+    },
     "type": "manga",
     "volumes": "28",
     "chapters": "110",

@@ -1,5 +1,9 @@
 {
     "title": "O to K no Aida",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/96647.jpg",
+        "alt": "o-to-k-no-aida"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

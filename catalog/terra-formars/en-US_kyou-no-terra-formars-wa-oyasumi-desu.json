@@ -1,5 +1,9 @@
 {
     "title": "Kyou no Terra Formars wa Oyasumi desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163575.jpg",
+        "alt": "kyou-no-terra-formars-wa-oyasumi-desu"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "90",

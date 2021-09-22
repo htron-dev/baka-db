@@ -1,12 +1,16 @@
 {
     "title": "Kyoto Teramachi Sanjou no Holmes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1304/92930.jpg",
+        "alt": "kyoto-teramachi-sanjou-no-holmes"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "京都寺町三条のホームズ",
     "start_date": "2018-07-10",
     "end_date": "2018-07-10",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Koi ni Saku Nazo, Hara Hara to (恋に咲く謎、はらはらと)\" by AOP (eps 2-11)",
+    "ending_song": "#1: \"Koi ni Saku Nazo, Hara Hara to (恋に咲く謎、はらはらと)\" by AOP (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

@@ -1,5 +1,9 @@
 {
     "title": "Kanojo Gacha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226730.jpg",
+        "alt": "kanojo-gacha"
+    },
     "type": "manga",
     "original_name": "彼女ガチャ",
     "start_date": "2019-05-17",

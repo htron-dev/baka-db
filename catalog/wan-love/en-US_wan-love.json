@@ -1,5 +1,9 @@
 {
     "title": "Wan Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/88935.jpg",
+        "alt": "wan-love"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

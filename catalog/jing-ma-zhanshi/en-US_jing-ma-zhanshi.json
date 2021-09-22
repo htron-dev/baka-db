@@ -1,5 +1,9 @@
 {
     "title": "Jing Ma Zhanshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1403/113997.jpg",
+        "alt": "jing-ma-zhanshi"
+    },
     "type": "tv-serie",
     "episodes": "130",
     "original_name": "晶码战士",

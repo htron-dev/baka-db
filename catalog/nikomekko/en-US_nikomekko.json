@@ -1,5 +1,9 @@
 {
     "title": "Nikomekko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235213.jpg",
+        "alt": "nikomekko"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "29",

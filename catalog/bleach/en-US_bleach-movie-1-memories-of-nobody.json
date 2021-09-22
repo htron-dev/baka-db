@@ -1,5 +1,9 @@
 {
     "title": "Bleach Movie 1: Memories of Nobody",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/1686.jpg",
+        "alt": "bleach-movie-1-memories-of-nobody"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 BLEACH MEMORIES OF NOBODY",

@@ -1,5 +1,9 @@
 {
     "title": "Petit Eva: Evangelion@School",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41714.jpg",
+        "alt": "petit-eva-evangelion-school"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

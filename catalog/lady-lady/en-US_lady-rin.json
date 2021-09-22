@@ -1,5 +1,9 @@
 {
     "title": "Lady Rin!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/248706.jpg",
+        "alt": "lady-rin"
+    },
     "type": "manga",
     "original_name": "レディリン!",
     "tags": [

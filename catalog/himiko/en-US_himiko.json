@@ -1,5 +1,9 @@
 {
     "title": "Himiko!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/148773.jpg",
+        "alt": "himiko"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "秘巫女ッ!",

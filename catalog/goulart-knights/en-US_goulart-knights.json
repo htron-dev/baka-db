@@ -1,5 +1,9 @@
 {
     "title": "Goulart Knights",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172984.jpg",
+        "alt": "goulart-knights"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "グラール騎士団〈ナイツ〉",

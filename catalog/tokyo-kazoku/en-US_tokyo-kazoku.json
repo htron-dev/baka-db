@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Kazoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181491.jpg",
+        "alt": "tokyo-kazoku"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "50",

@@ -1,5 +1,9 @@
 {
     "title": "Appaga Piryohae",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/72704.jpg",
+        "alt": "appaga-piryohae"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "아빠가 필요해",

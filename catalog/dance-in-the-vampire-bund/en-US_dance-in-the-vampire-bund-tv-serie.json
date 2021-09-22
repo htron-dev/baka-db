@@ -1,12 +1,16 @@
 {
     "title": "Dance in the Vampire Bund",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/23561.jpg",
+        "alt": "dance-in-the-vampire-bund"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ダンスインザヴァンパイアバンド",
     "start_date": "2010-01-07",
     "end_date": "2010-01-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Friends\" by Aiko Nakano (eps 2-6, 8-11)",
+    "ending_song": "#1: \"Tsumeato\" by hibiku (eps 1-3, 6, 8-11)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Kwaegeol Longman Narongi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/51823.jpg",
+        "alt": "kwaegeol-longman-narongi"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "쾌걸롱맨 나롱이",

@@ -1,5 +1,9 @@
 {
     "title": "Docchi ni Suru?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161790.jpg",
+        "alt": "docchi-ni-suru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

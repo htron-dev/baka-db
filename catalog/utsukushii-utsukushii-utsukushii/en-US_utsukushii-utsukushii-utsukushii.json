@@ -1,5 +1,9 @@
 {
     "title": "Utsukushii Utsukushii Utsukushii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/4261.jpg",
+        "alt": "utsukushii-utsukushii-utsukushii"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

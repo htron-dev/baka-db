@@ -1,5 +1,9 @@
 {
     "title": "Koi no Material",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158681.jpg",
+        "alt": "koi-no-material"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

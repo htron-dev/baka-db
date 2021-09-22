@@ -1,12 +1,16 @@
 {
     "title": "Bishounen Tanteidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1693/115133.jpg",
+        "alt": "bishounen-tanteidan"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "美少年探偵団",
     "start_date": "2021-04-11",
     "end_date": "2021-04-11",
     "opening_song": "\"Shake & Shake\" by sumika",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Beautiful Reasoning\" by Bishounen Tanteidan (eps 1-2, 4, 6)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "mystery",

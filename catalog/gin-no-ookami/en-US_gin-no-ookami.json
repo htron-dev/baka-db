@@ -1,5 +1,9 @@
 {
     "title": "Gin no Ookami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/45107.jpg",
+        "alt": "gin-no-ookami"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "銀の狼",

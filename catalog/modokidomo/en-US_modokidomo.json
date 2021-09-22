@@ -1,5 +1,9 @@
 {
     "title": "Modokidomo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193406.jpg",
+        "alt": "modokidomo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

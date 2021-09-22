@@ -1,5 +1,9 @@
 {
     "title": "Mewkledreamy Mix!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1313/112427.jpg",
+        "alt": "mewkledreamy-mix"
+    },
     "type": "tv-serie",
     "original_name": "ミュークルドリーミー みっくす！",
     "start_date": "2021-04-11",

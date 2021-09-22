@@ -1,5 +1,9 @@
 {
     "title": "Thomas no Shinzou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28640.jpg",
+        "alt": "thomas-no-shinzou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Ayakashi Koi Kitan: Kokuryuu to Datenshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/182569.jpg",
+        "alt": "ayakashi-koi-kitan-kokuryuu-to-datenshi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Girl's Ride",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/102893.jpg",
+        "alt": "girls-ride"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

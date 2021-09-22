@@ -1,5 +1,9 @@
 {
     "title": "El Hazard 2: The Magnificent World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/2796.jpg",
+        "alt": "el-hazard-2-the-magnificent-world"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "神秘の世界 エルハザード 第 2 期",

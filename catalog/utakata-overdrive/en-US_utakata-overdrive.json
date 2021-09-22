@@ -1,5 +1,9 @@
 {
     "title": "Utakata Overdrive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/76999.jpg",
+        "alt": "utakata-overdrive"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ウタカタ・オーバードライブ",

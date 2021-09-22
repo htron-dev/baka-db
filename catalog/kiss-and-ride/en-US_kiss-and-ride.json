@@ -1,5 +1,9 @@
 {
     "title": "Kiss and Ride",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158243.jpg",
+        "alt": "kiss-and-ride"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

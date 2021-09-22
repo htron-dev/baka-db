@@ -1,5 +1,9 @@
 {
     "title": "Daisuke!: Crown &amp; Anchor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157212.jpg",
+        "alt": "daisuke-crown-amp-anchor"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

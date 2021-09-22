@@ -1,5 +1,9 @@
 {
     "title": "Tonde Hi ni Iru Tekireiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201615.jpg",
+        "alt": "tonde-hi-ni-iru-tekireiki"
+    },
     "type": "manga",
     "original_name": "飛んで火に入る適齢期",
     "start_date": "2017-05-16",

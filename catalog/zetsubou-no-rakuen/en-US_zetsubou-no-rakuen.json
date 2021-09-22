@@ -1,5 +1,9 @@
 {
     "title": "Zetsubou no Rakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223028.jpg",
+        "alt": "zetsubou-no-rakuen"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "70",

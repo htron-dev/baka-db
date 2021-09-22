@@ -1,5 +1,9 @@
 {
     "title": "Shurabara!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158596.jpg",
+        "alt": "shurabara"
+    },
     "type": "light-novel",
     "volumes": "11",
     "chapters": "96",

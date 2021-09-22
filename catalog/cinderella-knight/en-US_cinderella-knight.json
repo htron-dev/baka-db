@@ -1,5 +1,9 @@
 {
     "title": "Cinderella Knight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/87497.jpg",
+        "alt": "cinderella-knight"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "シンデレラ騎士〈ナイト〉",

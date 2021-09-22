@@ -1,5 +1,9 @@
 {
     "title": "Oyo Neko Bunyan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/67981.jpg",
+        "alt": "oyo-neko-bunyan"
+    },
     "type": "tv-serie",
     "episodes": "31",
     "original_name": "オヨネコ ぶーにゃん",

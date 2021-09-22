@@ -1,5 +1,9 @@
 {
     "title": "Ongakushitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/130281.jpg",
+        "alt": "ongakushitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

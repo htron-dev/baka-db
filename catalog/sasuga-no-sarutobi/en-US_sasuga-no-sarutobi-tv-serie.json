@@ -1,12 +1,16 @@
 {
     "title": "Sasuga no Sarutobi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/6775.jpg",
+        "alt": "sasuga-no-sarutobi"
+    },
     "type": "tv-serie",
     "episodes": "69",
     "original_name": "さすがの猿飛",
     "start_date": "1982-10-17",
     "end_date": "1982-10-17",
     "opening_song": "\"Koi no Jumon wa Suki Tokimeki to Kiss (恋の呪文はスキトキメキトキス)\" by Sayaka Itou",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Koi no B Kyuu Action (恋の B 級アクション)\" by Sayaka Itou (eps 1-27)",
     "rating": "G - All Ages",
     "tags": [
         "action",

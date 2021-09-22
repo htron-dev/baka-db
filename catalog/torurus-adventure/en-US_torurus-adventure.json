@@ -1,5 +1,9 @@
 {
     "title": "Toruru's Adventure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/82423.jpg",
+        "alt": "torurus-adventure"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "Toruru's Adventure",

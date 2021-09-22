@@ -1,5 +1,9 @@
 {
     "title": "Gun x School = Paradise!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/123563.jpg",
+        "alt": "gun-x-school-paradise"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

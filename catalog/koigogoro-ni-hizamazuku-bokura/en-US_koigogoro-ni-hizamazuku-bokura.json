@@ -1,5 +1,9 @@
 {
     "title": "Koigogoro ni Hizamazuku Bokura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/76369.jpg",
+        "alt": "koigogoro-ni-hizamazuku-bokura"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

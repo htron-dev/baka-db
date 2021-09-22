@@ -1,5 +1,9 @@
 {
     "title": "Phi Brain: Saigo no Puzzle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/47879.jpg",
+        "alt": "phi-brain-saigo-no-puzzle"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

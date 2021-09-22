@@ -1,5 +1,9 @@
 {
     "title": "Sarasah",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/30265.jpg",
+        "alt": "sarasah"
+    },
     "type": "manhwa",
     "original_name": "사라사",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Ping Pong",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151416.jpg",
+        "alt": "ping-pong"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "55",

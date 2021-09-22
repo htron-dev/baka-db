@@ -1,12 +1,16 @@
 {
     "title": "Juuni Senshi Bakuretsu Eto Ranger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/21253.jpg",
+        "alt": "juuni-senshi-bakuretsu-eto-ranger"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "十二戦支　爆烈エトレンジャー",
     "start_date": "1995-04-07",
     "end_date": "1995-04-07",
     "opening_song": "\"Mada Mada Mada (まだ まだ まだ)\" by Yumiko Shinmei (神奈弓子)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Aitakute (会いたくて)\" by Kiyomi Kobayashi (小林清美) (eps 1-17)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

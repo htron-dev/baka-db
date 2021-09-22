@@ -1,5 +1,9 @@
 {
     "title": "Ouhi-sama wa Toubouchuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224334.jpg",
+        "alt": "ouhi-sama-wa-toubouchuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

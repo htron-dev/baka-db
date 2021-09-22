@@ -1,5 +1,9 @@
 {
     "title": "Manga Mitai na Koi Shitai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/9924.jpg",
+        "alt": "manga-mitai-na-koi-shitai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

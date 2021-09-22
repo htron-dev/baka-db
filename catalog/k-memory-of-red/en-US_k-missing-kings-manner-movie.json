@@ -1,5 +1,9 @@
 {
     "title": "K: Missing Kings - Manner Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/75386.jpg",
+        "alt": "k-missing-kings-manner-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 K MISSING KINGS 予告映像",
@@ -28,7 +32,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/K_(anime"
+            "link": "https://en.wikipedia.org/wiki/K_%28anime%29"
         }
     ]
 }

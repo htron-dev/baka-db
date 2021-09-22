@@ -1,5 +1,9 @@
 {
     "title": "Blue Phobia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/208992.jpg",
+        "alt": "blue-phobia"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

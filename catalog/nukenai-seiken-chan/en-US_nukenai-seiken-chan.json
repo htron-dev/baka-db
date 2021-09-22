@@ -1,5 +1,9 @@
 {
     "title": "Nukenai Seiken-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/219619.jpg",
+        "alt": "nukenai-seiken-chan"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "70",

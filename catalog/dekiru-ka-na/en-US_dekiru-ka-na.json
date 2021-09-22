@@ -1,5 +1,9 @@
 {
     "title": "Dekiru ka na",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/87133.jpg",
+        "alt": "dekiru-ka-na"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "できるかな",

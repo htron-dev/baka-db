@@ -1,5 +1,9 @@
 {
     "title": "Asu no Yoichi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/51603.jpg",
+        "alt": "asu-no-yoichi"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "65",

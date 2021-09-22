@@ -1,5 +1,9 @@
 {
     "title": "Summer Wars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/208973.jpg",
+        "alt": "summer-wars"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

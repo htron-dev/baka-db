@@ -1,5 +1,9 @@
 {
     "title": "Iyada nante Iwasenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40369.jpg",
+        "alt": "iyada-nante-iwasenai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

@@ -1,5 +1,9 @@
 {
     "title": "Shuukan Shounen Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167491.jpg",
+        "alt": "shuukan-shounen-girl"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "39",

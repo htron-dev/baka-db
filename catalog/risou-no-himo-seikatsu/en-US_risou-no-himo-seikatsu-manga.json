@@ -1,5 +1,9 @@
 {
     "title": "Risou no Himo Seikatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/198481.jpg",
+        "alt": "risou-no-himo-seikatsu"
+    },
     "type": "manga",
     "original_name": "理想のヒモ生活",
     "start_date": "2017-02-03",

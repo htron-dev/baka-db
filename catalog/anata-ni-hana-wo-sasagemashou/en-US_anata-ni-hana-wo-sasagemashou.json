@@ -1,5 +1,9 @@
 {
     "title": "Anata ni Hana wo Sasagemashou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/34457.jpg",
+        "alt": "anata-ni-hana-wo-sasagemashou"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

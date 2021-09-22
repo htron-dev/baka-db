@@ -1,5 +1,9 @@
 {
     "title": "Shinanai Otoko ni Koishita Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163576.jpg",
+        "alt": "shinanai-otoko-ni-koishita-shoujo"
+    },
     "type": "light-novel",
     "volumes": "7",
     "chapters": "41",

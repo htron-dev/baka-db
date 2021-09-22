@@ -1,5 +1,9 @@
 {
     "title": "3 Years",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/248447.jpg",
+        "alt": "3-years"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

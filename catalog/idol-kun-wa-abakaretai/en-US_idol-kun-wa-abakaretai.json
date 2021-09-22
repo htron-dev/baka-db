@@ -1,5 +1,9 @@
 {
     "title": "Idol-kun wa Abakaretai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236078.jpg",
+        "alt": "idol-kun-wa-abakaretai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

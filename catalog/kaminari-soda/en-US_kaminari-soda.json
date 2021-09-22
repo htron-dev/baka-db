@@ -1,5 +1,9 @@
 {
     "title": "Kaminari Soda",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/51427.jpg",
+        "alt": "kaminari-soda"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

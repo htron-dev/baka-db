@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi no Ki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/43879.jpg",
+        "alt": "hatsukoi-no-ki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

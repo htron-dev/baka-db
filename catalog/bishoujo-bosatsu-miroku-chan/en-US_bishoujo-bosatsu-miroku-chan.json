@@ -1,5 +1,9 @@
 {
     "title": "Bishoujo Bosatsu Miroku-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227226.jpg",
+        "alt": "bishoujo-bosatsu-miroku-chan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

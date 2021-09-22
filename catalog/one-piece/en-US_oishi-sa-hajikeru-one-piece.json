@@ -1,5 +1,9 @@
 {
     "title": "Oishi-sa Hajikeru! One Piece",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/82171.jpg",
+        "alt": "oishi-sa-hajikeru-one-piece"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "おいしさハジケる！ワンピースコラボ",

@@ -1,5 +1,9 @@
 {
     "title": "Oretama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/53187.jpg",
+        "alt": "oretama"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "41",

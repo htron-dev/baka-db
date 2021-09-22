@@ -1,5 +1,9 @@
 {
     "title": "Noel no Kimochi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/52183.jpg",
+        "alt": "noel-no-kimochi"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "ノエルの気持ち",

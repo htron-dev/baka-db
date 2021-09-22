@@ -1,5 +1,9 @@
 {
     "title": "Orange Yane no Chiisana Ie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/53051.jpg",
+        "alt": "orange-yane-no-chiisana-ie"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "64",

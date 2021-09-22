@@ -1,5 +1,9 @@
 {
     "title": "Biriketsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/240098.jpg",
+        "alt": "biriketsu"
+    },
     "type": "manga",
     "original_name": "ビリケツ",
     "start_date": "2020-06-04",

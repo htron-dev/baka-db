@@ -1,5 +1,9 @@
 {
     "title": "Tenshi no Okurimono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/8766.jpg",
+        "alt": "tenshi-no-okurimono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

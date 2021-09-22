@@ -1,5 +1,9 @@
 {
     "title": "The Last: Naruto the Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/67631.jpg",
+        "alt": "the-last-naruto-the-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "THE LAST NARUTO THE MOVIE",

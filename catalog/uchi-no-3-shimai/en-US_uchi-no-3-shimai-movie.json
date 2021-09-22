@@ -1,5 +1,9 @@
 {
     "title": "Uchi no 3 Shimai Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1969/99522.jpg",
+        "alt": "uchi-no-3-shimai-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "えいが うちの 3 姉妹",

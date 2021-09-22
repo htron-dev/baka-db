@@ -1,5 +1,9 @@
 {
     "title": "Dracula Yakin!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/240135.jpg",
+        "alt": "dracula-yakin"
+    },
     "type": "light-novel",
     "original_name": "ドラキュラやきん！",
     "start_date": "2020-09-10",

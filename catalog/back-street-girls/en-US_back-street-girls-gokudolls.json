@@ -1,12 +1,16 @@
 {
     "title": "Back Street Girls: Gokudolls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1484/93140.jpg",
+        "alt": "back-street-girls-gokudolls"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "Back Street Girls -ゴクドルズ",
     "start_date": "2018-07-04",
     "end_date": "2018-07-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Gokudoll Music (ゴクドルミュージック)\" by Gokudolls Niji Gumi (ゴクドルズ虹組) [Airi (Yuka Nukui), Mari (Kaori Maeda), Rika (Hika Akao)] (eps 1-6, 8-10)",
+    "ending_song": "#1: \"Hoshi no Katachi (星のかたち)\" by Gokudolls Niji Gumi (ゴクドルズ虹組) [Airi (Yuka Nukui), Mari (Kaori Maeda), Rika (Hika Akao)] (eps 1-6, 8-10)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "comedy",

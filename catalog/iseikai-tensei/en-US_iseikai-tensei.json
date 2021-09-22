@@ -1,5 +1,9 @@
 {
     "title": "Iseikai Tensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246306.jpg",
+        "alt": "iseikai-tensei"
+    },
     "type": "manga",
     "original_name": "異星界転星",
     "start_date": "2020-08-17",

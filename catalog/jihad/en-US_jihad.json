@@ -1,5 +1,9 @@
 {
     "title": "Jihad",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/41556.jpg",
+        "alt": "jihad"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "Jihad (聖戦)",

@@ -1,5 +1,9 @@
 {
     "title": "Koharu-biyori.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222108.jpg",
+        "alt": "koharu-biyori"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "こはる日和。",

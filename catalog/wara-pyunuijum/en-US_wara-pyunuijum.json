@@ -1,5 +1,9 @@
 {
     "title": "Wara! Pyunuijum",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/106193.jpg",
+        "alt": "wara-pyunuijum"
+    },
     "type": "manhwa",
     "original_name": "와라! 편의점",
     "start_date": "2008-07-02",

@@ -1,5 +1,9 @@
 {
     "title": "Hizukuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1908/96032.jpg",
+        "alt": "hizukuri"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "火づくり",

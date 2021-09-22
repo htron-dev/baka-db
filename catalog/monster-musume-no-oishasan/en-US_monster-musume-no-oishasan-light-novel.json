@@ -1,5 +1,9 @@
 {
     "title": "Monster Musume no Oishasan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195035.jpg",
+        "alt": "monster-musume-no-oishasan"
+    },
     "type": "light-novel",
     "original_name": "モンスター娘のお医者さん",
     "start_date": "2016-06-24",

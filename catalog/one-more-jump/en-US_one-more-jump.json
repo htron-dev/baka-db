@@ -1,5 +1,9 @@
 {
     "title": "One More Jump",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/8060.jpg",
+        "alt": "one-more-jump"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "ワン・モア・ジャンプ",

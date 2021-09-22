@@ -1,5 +1,9 @@
 {
     "title": "Itsumo Dokodemo Nin² Ninja",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/140185.jpg",
+        "alt": "itsumo-dokodemo-nin-ninja"
+    },
     "type": "light-novel",
     "volumes": "6",
     "original_name": "いつもどこでも忍 ² ニンジャ",

@@ -1,5 +1,9 @@
 {
     "title": "Albox: Towa wo Kaetara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/84353.jpg",
+        "alt": "albox-towa-wo-kaetara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

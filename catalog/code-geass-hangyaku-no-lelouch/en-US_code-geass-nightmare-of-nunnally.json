@@ -1,5 +1,9 @@
 {
     "title": "Code Geass: Nightmare of Nunnally",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6190.jpg",
+        "alt": "code-geass-nightmare-of-nunnally"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "26",

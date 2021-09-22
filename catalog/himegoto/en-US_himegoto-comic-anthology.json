@@ -1,5 +1,9 @@
 {
     "title": "Himegoto Comic Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164848.jpg",
+        "alt": "himegoto-comic-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

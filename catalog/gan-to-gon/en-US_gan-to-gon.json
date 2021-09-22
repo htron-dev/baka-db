@@ -1,5 +1,9 @@
 {
     "title": "Gan to Gon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/84960.jpg",
+        "alt": "gan-to-gon"
+    },
     "type": "tv-serie",
     "episodes": "260",
     "original_name": "ガンとゴン",

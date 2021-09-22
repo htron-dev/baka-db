@@ -1,5 +1,9 @@
 {
     "title": "Ganbare!! Nattou-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/74469.jpg",
+        "alt": "ganbare-nattou-san"
+    },
     "type": "tv-serie",
     "episodes": "4",
     "original_name": "頑張れ!!納父さん",

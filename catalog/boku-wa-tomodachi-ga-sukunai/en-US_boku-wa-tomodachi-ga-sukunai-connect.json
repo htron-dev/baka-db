@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Tomodachi ga Sukunai: Connect",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151263.jpg",
+        "alt": "boku-wa-tomodachi-ga-sukunai-connect"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "13",

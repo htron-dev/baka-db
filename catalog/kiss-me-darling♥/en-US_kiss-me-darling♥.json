@@ -1,5 +1,9 @@
 {
     "title": "Kiss Me Darling♥",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/135457.jpg",
+        "alt": "kiss-me-darling♥"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

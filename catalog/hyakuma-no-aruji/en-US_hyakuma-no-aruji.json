@@ -1,5 +1,9 @@
 {
     "title": "Hyakuma no Aruji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/199364.jpg",
+        "alt": "hyakuma-no-aruji"
+    },
     "type": "light-novel",
     "volumes": "6",
     "chapters": "63",

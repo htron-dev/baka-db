@@ -1,5 +1,9 @@
 {
     "title": "Konbini S",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21928.jpg",
+        "alt": "konbini-s"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

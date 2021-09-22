@@ -1,5 +1,9 @@
 {
     "title": "Karasu Tengu Kabuto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/148179.jpg",
+        "alt": "karasu-tengu-kabuto"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "鴉天狗カブト",

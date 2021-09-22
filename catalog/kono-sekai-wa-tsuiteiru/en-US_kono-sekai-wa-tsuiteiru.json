@@ -1,5 +1,9 @@
 {
     "title": "Kono Sekai wa Tsuiteiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210478.jpg",
+        "alt": "kono-sekai-wa-tsuiteiru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

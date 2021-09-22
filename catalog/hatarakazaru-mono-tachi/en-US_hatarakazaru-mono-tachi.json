@@ -1,5 +1,9 @@
 {
     "title": "Hatarakazaru Mono-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/211593.jpg",
+        "alt": "hatarakazaru-mono-tachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

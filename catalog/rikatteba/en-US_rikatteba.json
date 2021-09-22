@@ -1,5 +1,9 @@
 {
     "title": "Rikatteba!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/19724.jpg",
+        "alt": "rikatteba"
+    },
     "type": "manga",
     "original_name": "リカってば!",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Cerberus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/117661.jpg",
+        "alt": "cerberus"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "87",

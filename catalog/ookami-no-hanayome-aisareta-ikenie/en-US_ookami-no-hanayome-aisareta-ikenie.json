@@ -1,5 +1,9 @@
 {
     "title": "Ookami no Hanayome: Aisareta Ikenie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192420.jpg",
+        "alt": "ookami-no-hanayome-aisareta-ikenie"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

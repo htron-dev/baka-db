@@ -1,5 +1,9 @@
 {
     "title": "Atsui Karada Koisuru Karada",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40523.jpg",
+        "alt": "atsui-karada-koisuru-karada"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

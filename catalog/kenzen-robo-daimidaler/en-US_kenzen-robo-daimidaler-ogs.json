@@ -1,5 +1,9 @@
 {
     "title": "Kenzen Robo Daimidaler OGS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/124091.jpg",
+        "alt": "kenzen-robo-daimidaler-ogs"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "28",

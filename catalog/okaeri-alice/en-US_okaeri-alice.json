@@ -1,5 +1,9 @@
 {
     "title": "Okaeri Alice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235399.jpg",
+        "alt": "okaeri-alice"
+    },
     "type": "manga",
     "original_name": "おかえりアリス",
     "start_date": "2020-04-09",

@@ -1,5 +1,9 @@
 {
     "title": "Kaitou Tenshi Twin Angel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191819.jpg",
+        "alt": "kaitou-tenshi-twin-angel"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

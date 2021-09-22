@@ -1,5 +1,9 @@
 {
     "title": "Anata wo Otona ni Suru ○-tsu no Koto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215179.jpg",
+        "alt": "anata-wo-otona-ni-suru-○-tsu-no-koto"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

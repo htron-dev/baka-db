@@ -1,5 +1,9 @@
 {
     "title": "Nagasarete Airantou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/51755.jpg",
+        "alt": "nagasarete-airantou"
+    },
     "type": "manga",
     "original_name": "ながされて藍蘭島",
     "start_date": "2001-12-12",

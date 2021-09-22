@@ -1,5 +1,9 @@
 {
     "title": "Yellow Heart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/19676.jpg",
+        "alt": "yellow-heart"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "28",

@@ -1,5 +1,9 @@
 {
     "title": "Cestvs: The Roman Fighter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1291/114014.jpg",
+        "alt": "cestvs-the-roman-fighter"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "セスタス-The Roman Fighter-",

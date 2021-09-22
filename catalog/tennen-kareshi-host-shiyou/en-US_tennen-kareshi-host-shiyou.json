@@ -1,5 +1,9 @@
 {
     "title": "Tennen Kareshi Host Shiyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183125.jpg",
+        "alt": "tennen-kareshi-host-shiyou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

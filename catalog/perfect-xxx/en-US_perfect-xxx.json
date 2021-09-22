@@ -1,5 +1,9 @@
 {
     "title": "Perfect XXX",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/195313.jpg",
+        "alt": "perfect-xxx"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

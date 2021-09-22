@@ -1,5 +1,9 @@
 {
     "title": "Shiawase na Koi no Hanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181730.jpg",
+        "alt": "shiawase-na-koi-no-hanashi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

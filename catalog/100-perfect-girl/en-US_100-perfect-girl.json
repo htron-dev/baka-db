@@ -1,5 +1,9 @@
 {
     "title": "100% Perfect Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/30107.jpg",
+        "alt": "100-perfect-girl"
+    },
     "type": "manhwa",
     "volumes": "11",
     "chapters": "83",

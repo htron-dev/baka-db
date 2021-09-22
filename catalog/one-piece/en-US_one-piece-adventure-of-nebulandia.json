@@ -1,5 +1,9 @@
 {
     "title": "One Piece: Adventure of Nebulandia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/77050.jpg",
+        "alt": "one-piece-adventure-of-nebulandia"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ワンピース～アドベンチャー オブ ネブランディア～",

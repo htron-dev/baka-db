@@ -1,5 +1,9 @@
 {
     "title": "Hajimete no Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225681.jpg",
+        "alt": "hajimete-no-kiss"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

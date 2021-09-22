@@ -1,5 +1,9 @@
 {
     "title": "Kuma Kuma Kuma Bear",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210419.jpg",
+        "alt": "kuma-kuma-kuma-bear"
+    },
     "type": "manga",
     "original_name": "くま クマ 熊 ベアー",
     "start_date": "2018-03-28",

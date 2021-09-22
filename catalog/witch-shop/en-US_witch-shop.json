@@ -1,5 +1,9 @@
 {
     "title": "Witch Shop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/63427.jpg",
+        "alt": "witch-shop"
+    },
     "type": "manhwa",
     "volumes": "9",
     "original_name": "마녀의 가게",

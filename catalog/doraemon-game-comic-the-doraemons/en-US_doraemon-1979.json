@@ -1,12 +1,16 @@
 {
     "title": "Doraemon (1979)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/3953.jpg",
+        "alt": "doraemon-1979"
+    },
     "type": "tv-serie",
     "episodes": "1787",
     "original_name": "ドラえもん",
     "start_date": "1979-04-02",
     "end_date": "1979-04-02",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: \"Doraemon no Uta\" by Kumiko Oosugi (eps 1-156, 618-1199)",
+    "ending_song": "#01: \"Doraemon Ekaki-uta (Extra ED theme song)\" by Nobuyo Oyama",
     "rating": "PG - Children",
     "tags": [
         "adventure",

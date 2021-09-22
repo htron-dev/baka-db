@@ -1,5 +1,9 @@
 {
     "title": "Pokemon Generations",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/83210.jpg",
+        "alt": "pokemon-generations"
+    },
     "type": "ona",
     "episodes": "18",
     "original_name": "ポケモンジェネレーションズ",

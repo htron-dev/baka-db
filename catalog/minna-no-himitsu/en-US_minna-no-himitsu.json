@@ -1,5 +1,9 @@
 {
     "title": "Minna no Himitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/117987.jpg",
+        "alt": "minna-no-himitsu"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "みんなのヒ・ミ・ツ",

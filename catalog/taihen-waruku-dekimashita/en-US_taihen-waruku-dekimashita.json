@@ -1,5 +1,9 @@
 {
     "title": "Taihen Waruku Dekimashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222695.jpg",
+        "alt": "taihen-waruku-dekimashita"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

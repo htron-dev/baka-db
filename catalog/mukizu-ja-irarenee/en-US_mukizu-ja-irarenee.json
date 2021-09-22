@@ -1,5 +1,9 @@
 {
     "title": "Mukizu ja Irarenee",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/19424.jpg",
+        "alt": "mukizu-ja-irarenee"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Myself; Yourself",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/75247.jpg",
+        "alt": "myself-yourself"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "マイセルフ; ユアセルフ",

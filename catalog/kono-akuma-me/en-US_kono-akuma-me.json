@@ -1,5 +1,9 @@
 {
     "title": "Kono Akuma me!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/30104.jpg",
+        "alt": "kono-akuma-me"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

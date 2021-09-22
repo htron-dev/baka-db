@@ -1,5 +1,9 @@
 {
     "title": "Dessert Eagle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167492.jpg",
+        "alt": "dessert-eagle"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "41",

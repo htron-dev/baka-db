@@ -1,5 +1,9 @@
 {
     "title": "Yomei Ikkagetsu no Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/61591.jpg",
+        "alt": "yomei-ikkagetsu-no-hanayome"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

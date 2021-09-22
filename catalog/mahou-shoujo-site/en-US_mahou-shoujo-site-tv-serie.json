@@ -1,12 +1,16 @@
 {
     "title": "Mahou Shoujo Site",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1720/95064.jpg",
+        "alt": "mahou-shoujo-site"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "魔法少女サイト",
     "start_date": "2018-04-07",
     "end_date": "2018-04-07",
     "opening_song": "\"Changing point\" by i☆Ris",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Zenzen Tomodachi\" by Haruka Yamazaki",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "drama",

@@ -1,12 +1,16 @@
 {
     "title": "Macross II: Lovers Again",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/61069.jpg",
+        "alt": "macross-ii-lovers-again"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "超時空要塞マクロス II -Lovers Again-",
     "start_date": "1992-05-21",
     "end_date": "1992-05-21",
     "opening_song": "\"2 Oku nen mae no Youni Shizukadane (The Hush of 200 Million Years)\" by Mika Kaneko",
-    "ending_song": "#1",
+    "ending_song": "#1: \"de.ja.vu: Soba ni Ite (de.ja.vu~そばにいて)\" by Mika Kaneko (eps 1-5)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

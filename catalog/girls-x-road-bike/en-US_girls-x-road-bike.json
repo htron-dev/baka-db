@@ -1,5 +1,9 @@
 {
     "title": "Girl's x Road Bike",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205031.jpg",
+        "alt": "girls-x-road-bike"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

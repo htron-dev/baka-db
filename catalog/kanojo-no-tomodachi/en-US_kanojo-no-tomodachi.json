@@ -1,5 +1,9 @@
 {
     "title": "Kanojo no Tomodachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/244531.jpg",
+        "alt": "kanojo-no-tomodachi"
+    },
     "type": "manga",
     "original_name": "彼女の友達",
     "start_date": "2021-05-06",

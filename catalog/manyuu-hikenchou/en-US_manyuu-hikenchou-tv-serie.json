@@ -1,5 +1,9 @@
 {
     "title": "Manyuu Hikenchou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/75184.jpg",
+        "alt": "manyuu-hikenchou"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "魔乳秘剣帖",

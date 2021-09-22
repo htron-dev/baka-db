@@ -1,12 +1,16 @@
 {
     "title": "Bavi Stock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/27876.jpg",
+        "alt": "bavi-stock"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "バビ・ストック",
     "start_date": "1985-12-10",
     "end_date": "1985-12-10",
     "opening_song": "\"Star Hero\" by Yasuaki Honda (本田恭章)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Take a Little Chance\" by Yasuaki Honda (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "36-do",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234246.jpg",
+        "alt": "36-do"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

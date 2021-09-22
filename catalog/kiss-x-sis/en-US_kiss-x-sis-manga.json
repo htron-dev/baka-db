@@ -1,5 +1,9 @@
 {
     "title": "Kiss x Sis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194014.jpg",
+        "alt": "kiss-x-sis"
+    },
     "type": "manga",
     "original_name": "キス × シス",
     "start_date": "2005-12-11",

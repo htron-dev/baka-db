@@ -1,12 +1,16 @@
 {
     "title": "Servant x Service",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/51579.jpg",
+        "alt": "servant-x-service"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "サーバント × サービス",
     "start_date": "2013-07-05",
     "end_date": "2013-07-05",
     "opening_song": "\"May I Help You? (めいあいへるぷゆー?)\" by Lucy Yamagami (Ai Kayano), Saya Miyoshi (Mai Nakahara), Megumi Chihaya (Aki Toyosaki)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hachimitsu Doki (ハチミツ時間)\" by Lucy Yamagami (CV: Ai Kayano) (eps 1-4, BD 13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

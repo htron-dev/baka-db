@@ -1,5 +1,9 @@
 {
     "title": "A Tang Qi Yu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1810/112664.jpg",
+        "alt": "a-tang-qi-yu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "阿唐奇遇",

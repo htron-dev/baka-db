@@ -1,5 +1,9 @@
 {
     "title": "Harajuku★Takenoko Kouban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/70481.jpg",
+        "alt": "harajuku★-takenoko-kouban"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "40",

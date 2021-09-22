@@ -1,5 +1,9 @@
 {
     "title": "Zan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/143329.jpg",
+        "alt": "zan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Wakaki Taketora-kun no Nayami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/232789.jpg",
+        "alt": "wakaki-taketora-kun-no-nayami"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

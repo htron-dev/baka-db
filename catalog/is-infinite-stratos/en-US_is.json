@@ -1,5 +1,9 @@
 {
     "title": "IS!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/67679.jpg",
+        "alt": "is"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "21",

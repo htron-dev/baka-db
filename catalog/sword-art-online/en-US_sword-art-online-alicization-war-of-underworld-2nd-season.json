@@ -1,12 +1,16 @@
 {
     "title": "Sword Art Online: Alicization - War of Underworld 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1438/105106.jpg",
+        "alt": "sword-art-online-alicization-war-of-underworld-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "ソードアート・オンライン アリシゼーション War of Underworld",
     "start_date": "2020-07-12",
     "end_date": "2020-07-12",
     "opening_song": "\"ANIMA\" by ReoNa (eps 1-10)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"I will...\" by Eir Aoi (eps 1-10)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

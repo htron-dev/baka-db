@@ -1,5 +1,9 @@
 {
     "title": "Arms",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/147805.jpg",
+        "alt": "arms"
+    },
     "type": "manga",
     "volumes": "22",
     "chapters": "241",

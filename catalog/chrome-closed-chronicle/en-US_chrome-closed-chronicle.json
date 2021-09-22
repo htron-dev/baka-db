@@ -1,5 +1,9 @@
 {
     "title": "Chrome Closed Chronicle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/128781.jpg",
+        "alt": "chrome-closed-chronicle"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "12",

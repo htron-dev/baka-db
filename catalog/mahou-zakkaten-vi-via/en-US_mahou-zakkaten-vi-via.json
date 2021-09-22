@@ -1,5 +1,9 @@
 {
     "title": "Mahou Zakkaten Vi Via",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/112089.jpg",
+        "alt": "mahou-zakkaten-vi-via"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

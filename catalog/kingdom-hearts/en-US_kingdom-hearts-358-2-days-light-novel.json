@@ -1,5 +1,9 @@
 {
     "title": "Kingdom Hearts: 358/2 Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/112371.jpg",
+        "alt": "kingdom-hearts-358-2-days"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "24",

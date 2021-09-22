@@ -1,5 +1,9 @@
 {
     "title": "Soushokukei Ism",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/71209.jpg",
+        "alt": "soushokukei-ism"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

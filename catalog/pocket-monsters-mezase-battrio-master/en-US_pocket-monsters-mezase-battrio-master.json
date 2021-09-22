@@ -1,5 +1,9 @@
 {
     "title": "Pocket Monsters: Mezase! Battrio Master",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204426.jpg",
+        "alt": "pocket-monsters-mezase-battrio-master"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

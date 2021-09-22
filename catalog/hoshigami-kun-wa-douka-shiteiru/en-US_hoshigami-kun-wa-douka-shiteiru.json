@@ -1,5 +1,9 @@
 {
     "title": "Hoshigami-kun wa Douka shiteiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/144385.jpg",
+        "alt": "hoshigami-kun-wa-douka-shiteiru"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

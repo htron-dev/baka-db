@@ -1,5 +1,9 @@
 {
     "title": "Neko Ramen Monogatari: Koneko no Thomas",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164421.jpg",
+        "alt": "neko-ramen-monogatari-koneko-no-thomas"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

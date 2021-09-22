@@ -1,5 +1,9 @@
 {
     "title": "Tsuitenai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162976.jpg",
+        "alt": "tsuitenai"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "30",

@@ -1,5 +1,9 @@
 {
     "title": "Boku datte, Kirei ni Shitainda",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/61453.jpg",
+        "alt": "boku-datte-kirei-ni-shitainda"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ぼくだって、きれいにしたいんだ",

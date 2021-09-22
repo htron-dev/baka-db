@@ -1,5 +1,9 @@
 {
     "title": "Shuusen no Lorelei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/138185.jpg",
+        "alt": "shuusen-no-lorelei"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "終戦のローレライ",

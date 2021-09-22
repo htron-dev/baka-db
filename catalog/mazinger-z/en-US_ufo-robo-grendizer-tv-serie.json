@@ -1,5 +1,9 @@
 {
     "title": "UFO Robo Grendizer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/8669.jpg",
+        "alt": "ufo-robo-grendizer"
+    },
     "type": "tv-serie",
     "episodes": "74",
     "original_name": "UFO ロボ グレンダイザー",

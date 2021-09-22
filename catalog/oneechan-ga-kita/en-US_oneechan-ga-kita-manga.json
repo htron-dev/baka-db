@@ -1,5 +1,9 @@
 {
     "title": "Oneechan ga Kita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191287.jpg",
+        "alt": "oneechan-ga-kita"
+    },
     "type": "manga",
     "volumes": "15",
     "original_name": "お姉ちゃんが来た",

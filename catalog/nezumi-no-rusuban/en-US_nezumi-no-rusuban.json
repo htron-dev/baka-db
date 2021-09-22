@@ -1,5 +1,9 @@
 {
     "title": "Nezumi no Rusuban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/82050.jpg",
+        "alt": "nezumi-no-rusuban"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "鼠の留守番",

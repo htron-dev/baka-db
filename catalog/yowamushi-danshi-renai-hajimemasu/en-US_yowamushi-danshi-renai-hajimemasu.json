@@ -1,5 +1,9 @@
 {
     "title": "Yowamushi Danshi, Renai Hajimemasu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225033.jpg",
+        "alt": "yowamushi-danshi-renai-hajimemasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

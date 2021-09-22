@@ -1,5 +1,9 @@
 {
     "title": "Boy Meets \"Crazy\" Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228858.jpg",
+        "alt": "boy-meets-crazy-girl"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

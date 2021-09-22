@@ -1,5 +1,9 @@
 {
     "title": "Judo-bu Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/144591.jpg",
+        "alt": "judo-bu-monogatari"
+    },
     "type": "manga",
     "volumes": "11",
     "original_name": "柔道部物語",

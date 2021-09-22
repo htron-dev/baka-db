@@ -1,5 +1,9 @@
 {
     "title": "Gyutto Shite D",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10003.jpg",
+        "alt": "gyutto-shite-d"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ギュッとして D",

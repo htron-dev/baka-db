@@ -1,5 +1,9 @@
 {
     "title": "Warau Oni ni wa Fuku Kitaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/213780.jpg",
+        "alt": "warau-oni-ni-wa-fuku-kitaru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

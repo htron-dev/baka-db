@@ -1,5 +1,9 @@
 {
     "title": "Suteneko Tora-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1552/105362.jpg",
+        "alt": "suteneko-tora-chan"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "すて猫トラちゃん",

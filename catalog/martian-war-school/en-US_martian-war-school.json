@@ -1,5 +1,9 @@
 {
     "title": "Martian War School",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200070.jpg",
+        "alt": "martian-war-school"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "マーシアン・ウォースクール",

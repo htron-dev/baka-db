@@ -1,5 +1,9 @@
 {
     "title": "Gaikan Chiba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1867/92972.jpg",
+        "alt": "gaikan-chiba"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "GAIKAN CHIBA",

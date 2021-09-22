@@ -1,5 +1,9 @@
 {
     "title": "Asobiai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/144795.jpg",
+        "alt": "asobiai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

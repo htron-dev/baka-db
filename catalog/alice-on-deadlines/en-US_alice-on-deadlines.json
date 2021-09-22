@@ -1,5 +1,9 @@
 {
     "title": "Alice on Deadlines",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/300.jpg",
+        "alt": "alice-on-deadlines"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "19",

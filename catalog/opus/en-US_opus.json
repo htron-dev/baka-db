@@ -1,5 +1,9 @@
 {
     "title": "Opus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/157832.jpg",
+        "alt": "opus"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

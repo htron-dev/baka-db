@@ -1,5 +1,9 @@
 {
     "title": "Vehicle &amp;",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164646.jpg",
+        "alt": "vehicle-amp"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

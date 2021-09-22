@@ -1,5 +1,9 @@
 {
     "title": "Majokko Megu-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/53681.jpg",
+        "alt": "majokko-megu-chan"
+    },
     "type": "tv-serie",
     "episodes": "72",
     "original_name": "魔女っ子メグちゃん",

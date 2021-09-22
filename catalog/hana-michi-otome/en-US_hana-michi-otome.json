@@ -1,5 +1,9 @@
 {
     "title": "Hana Michi Otome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/102753.jpg",
+        "alt": "hana-michi-otome"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

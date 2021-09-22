@@ -1,5 +1,9 @@
 {
     "title": "Koi no Shikata ga Wakaranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245045.jpg",
+        "alt": "koi-no-shikata-ga-wakaranai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

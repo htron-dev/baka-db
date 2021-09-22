@@ -1,5 +1,9 @@
 {
     "title": "Điện Biên Phủ",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176816.jpg",
+        "alt": "diện-bien-phủ"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "73",

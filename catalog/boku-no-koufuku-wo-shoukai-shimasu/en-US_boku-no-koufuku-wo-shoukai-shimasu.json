@@ -1,5 +1,9 @@
 {
     "title": "Boku no Koufuku wo Shoukai shimasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222657.jpg",
+        "alt": "boku-no-koufuku-wo-shoukai-shimasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

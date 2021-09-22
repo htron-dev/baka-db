@@ -1,5 +1,9 @@
 {
     "title": "Ryuu to Majo no Sumu Yashiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162723.jpg",
+        "alt": "ryuu-to-majo-no-sumu-yashiki"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

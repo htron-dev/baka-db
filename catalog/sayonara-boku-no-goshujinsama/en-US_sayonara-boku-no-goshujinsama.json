@@ -1,5 +1,9 @@
 {
     "title": "Sayonara, Boku no Goshujinsama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227859.jpg",
+        "alt": "sayonara-boku-no-goshujinsama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

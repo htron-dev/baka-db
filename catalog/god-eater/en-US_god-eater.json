@@ -1,12 +1,16 @@
 {
     "title": "God Eater",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/73852.jpg",
+        "alt": "god-eater"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "GOD EATER",
     "start_date": "2015-07-12",
     "end_date": "2015-07-12",
     "opening_song": "\"Feed A\" by OLDCODEX (eps 2-8, 11-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Feed A\" by OLDCODEX (ep 1)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/God_Eater_(anime"
+            "link": "https://en.wikipedia.org/wiki/God_Eater_%28anime%29"
         }
     ]
 }

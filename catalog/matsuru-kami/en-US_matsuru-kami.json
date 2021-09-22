@@ -1,5 +1,9 @@
 {
     "title": "Matsuru Kami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174375.jpg",
+        "alt": "matsuru-kami"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "19",

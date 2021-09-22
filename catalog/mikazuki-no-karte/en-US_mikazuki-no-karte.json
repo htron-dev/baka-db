@@ -1,5 +1,9 @@
 {
     "title": "Mikazuki no Karte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210435.jpg",
+        "alt": "mikazuki-no-karte"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

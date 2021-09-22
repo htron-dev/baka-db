@@ -1,5 +1,9 @@
 {
     "title": "Kono Subarashii Sekai ni Nichijou wo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194472.jpg",
+        "alt": "kono-subarashii-sekai-ni-nichijou-wo"
+    },
     "type": "manga",
     "original_name": "この素晴らしい世界に日常を！",
     "start_date": "2016-09-27",

@@ -1,5 +1,9 @@
 {
     "title": "Shiguang Dailiren",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1135/114867.jpg",
+        "alt": "shiguang-dailiren"
+    },
     "type": "ona",
     "episodes": "11",
     "original_name": "时光代理人",

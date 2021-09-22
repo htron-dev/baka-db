@@ -1,5 +1,9 @@
 {
     "title": "Aa! Megami-sama! Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/71211.jpg",
+        "alt": "aa-megami-sama-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版　ああっ女神さまっ",

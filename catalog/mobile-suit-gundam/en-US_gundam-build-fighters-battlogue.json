@@ -1,5 +1,9 @@
 {
     "title": "Gundam Build Fighters: Battlogue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/87160.jpg",
+        "alt": "gundam-build-fighters-battlogue"
+    },
     "type": "ona",
     "episodes": "5",
     "original_name": "ガンダムビルドファイターズ バトローグ",

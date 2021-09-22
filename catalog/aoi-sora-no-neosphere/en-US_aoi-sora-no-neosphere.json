@@ -1,5 +1,9 @@
 {
     "title": "Aoi Sora no Neosphere",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/112519.jpg",
+        "alt": "aoi-sora-no-neosphere"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

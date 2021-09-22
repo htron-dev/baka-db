@@ -1,5 +1,9 @@
 {
     "title": "Happening Star ☆",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/35451.jpg",
+        "alt": "happening-star-☆"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "Happening Star ☆ (ハプニングスター ☆)",

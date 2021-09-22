@@ -1,5 +1,9 @@
 {
     "title": "Chupaca-Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180284.jpg",
+        "alt": "chupaca-love"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "37",

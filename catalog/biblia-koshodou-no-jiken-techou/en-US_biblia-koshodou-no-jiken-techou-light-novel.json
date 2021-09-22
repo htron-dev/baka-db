@@ -1,5 +1,9 @@
 {
     "title": "Biblia Koshodou no Jiken Techou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164402.jpg",
+        "alt": "biblia-koshodou-no-jiken-techou"
+    },
     "type": "light-novel",
     "volumes": "7",
     "chapters": "36",

@@ -1,5 +1,9 @@
 {
     "title": "Hatsujou Junjou☆Douwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/130337.jpg",
+        "alt": "hatsujou-junjou☆-douwa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,12 +1,16 @@
 {
     "title": "Sakurada Reset",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/87743.jpg",
+        "alt": "sakurada-reset"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "サクラダリセット",
     "start_date": "2017-04-05",
     "end_date": "2017-04-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Reset ~Acoustic Version~\" by Yui Makino (eps 1-2)",
+    "ending_song": "#1: \"Tonari Au (トナリアウ)\" by THE ORAL CIGARETTES (eps 3-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "mystery",

@@ -1,5 +1,9 @@
 {
     "title": "Ameiro Banyuu Inryoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/73837.jpg",
+        "alt": "ameiro-banyuu-inryoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

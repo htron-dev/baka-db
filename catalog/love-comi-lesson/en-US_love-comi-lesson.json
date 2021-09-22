@@ -1,5 +1,9 @@
 {
     "title": "LoveComi Lesson",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/23132.jpg",
+        "alt": "love-comi-lesson"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ラブコミ・れっすん",

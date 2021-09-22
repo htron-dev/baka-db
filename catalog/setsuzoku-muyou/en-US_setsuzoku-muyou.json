@@ -1,5 +1,9 @@
 {
     "title": "Setsuzoku Muyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/69699.jpg",
+        "alt": "setsuzoku-muyou"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "接続無用",

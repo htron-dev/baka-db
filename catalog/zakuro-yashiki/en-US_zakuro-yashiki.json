@@ -1,5 +1,9 @@
 {
     "title": "Zakuro Yashiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/14022.jpg",
+        "alt": "zakuro-yashiki"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ざくろ屋敷",

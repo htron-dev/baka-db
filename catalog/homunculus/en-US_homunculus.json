@@ -1,5 +1,9 @@
 {
     "title": "Homunculus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/318.jpg",
+        "alt": "homunculus"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "166",

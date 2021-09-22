@@ -1,5 +1,9 @@
 {
     "title": "Choujou Tantei X",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/216180.jpg",
+        "alt": "choujou-tantei-x"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "41",

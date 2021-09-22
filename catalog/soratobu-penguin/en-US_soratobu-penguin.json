@@ -1,5 +1,9 @@
 {
     "title": "Soratobu Penguin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/168495.jpg",
+        "alt": "soratobu-penguin"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "空飛ぶペンギン",

@@ -1,5 +1,9 @@
 {
     "title": "Dokuhaki Hime to Hoshi no Ishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/120515.jpg",
+        "alt": "dokuhaki-hime-to-hoshi-no-ishi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

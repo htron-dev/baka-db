@@ -1,5 +1,9 @@
 {
     "title": "Self",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/148327.jpg",
+        "alt": "self"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "45",

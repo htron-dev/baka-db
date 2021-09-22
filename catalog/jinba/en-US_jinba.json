@@ -1,5 +1,9 @@
 {
     "title": "Jinba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191387.jpg",
+        "alt": "jinba"
+    },
     "type": "manga",
     "original_name": "人馬",
     "start_date": "2016-08-18",

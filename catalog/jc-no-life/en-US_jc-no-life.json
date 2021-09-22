@@ -1,5 +1,9 @@
 {
     "title": "JC no Life!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/188889.jpg",
+        "alt": "jc-no-life"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "30",

@@ -1,5 +1,9 @@
 {
     "title": "Otome no Jidai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22440.jpg",
+        "alt": "otome-no-jidai"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "おとめの時代",

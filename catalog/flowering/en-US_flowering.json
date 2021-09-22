@@ -1,5 +1,9 @@
 {
     "title": "Flowering",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15360.jpg",
+        "alt": "flowering"
+    },
     "type": "manga",
     "volumes": "3",
     "tags": [

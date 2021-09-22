@@ -1,5 +1,9 @@
 {
     "title": "Aoba Jitensha-ten to Ikou yo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215801.jpg",
+        "alt": "aoba-jitensha-ten-to-ikou-yo"
+    },
     "type": "manga",
     "original_name": "アオバ自転車店といこうよ!",
     "start_date": "2017-05-30",

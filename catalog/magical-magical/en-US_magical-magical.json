@@ -1,5 +1,9 @@
 {
     "title": "Magical Magical",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26680.jpg",
+        "alt": "magical-magical"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "マジョカル ★ マジョカル",

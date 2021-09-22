@@ -1,5 +1,9 @@
 {
     "title": "Senka no Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167461.jpg",
+        "alt": "senka-no-kanojo"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "47",

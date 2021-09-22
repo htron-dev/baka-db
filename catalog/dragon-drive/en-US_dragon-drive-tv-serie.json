@@ -1,5 +1,9 @@
 {
     "title": "Dragon Drive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/2214.jpg",
+        "alt": "dragon-drive"
+    },
     "type": "tv-serie",
     "episodes": "38",
     "original_name": "ドラゴンドライブ",

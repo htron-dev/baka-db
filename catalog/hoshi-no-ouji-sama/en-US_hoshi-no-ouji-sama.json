@@ -1,5 +1,9 @@
 {
     "title": "Hoshi no Ouji-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205001.jpg",
+        "alt": "hoshi-no-ouji-sama"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "50",

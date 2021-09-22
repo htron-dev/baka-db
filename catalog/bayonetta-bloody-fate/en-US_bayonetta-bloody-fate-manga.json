@@ -1,5 +1,9 @@
 {
     "title": "Bayonetta: Bloody Fate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/108831.jpg",
+        "alt": "bayonetta-bloody-fate"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "ベヨネッタ ブラッディフェイト",

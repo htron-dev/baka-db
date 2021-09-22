@@ -1,5 +1,9 @@
 {
     "title": "Oseam",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/26088.jpg",
+        "alt": "oseam"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "오세암",

@@ -1,5 +1,9 @@
 {
     "title": "Kami to Pen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/57535.jpg",
+        "alt": "kami-to-pen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Chain Chronicle Crimson",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160905.jpg",
+        "alt": "chain-chronicle-crimson"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

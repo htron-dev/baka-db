@@ -1,5 +1,9 @@
 {
     "title": "Ignition Blood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/173755.jpg",
+        "alt": "ignition-blood"
+    },
     "type": "light-novel",
     "original_name": "イグニッション・ブラッド",
     "start_date": "2016-02-20",

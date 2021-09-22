@@ -1,5 +1,9 @@
 {
     "title": "Yajuu de Hatsukoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/29989.jpg",
+        "alt": "yajuu-de-hatsukoi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

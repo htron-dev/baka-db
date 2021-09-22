@@ -1,5 +1,9 @@
 {
     "title": "Sekai de Ichiban Itaranu Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241043.jpg",
+        "alt": "sekai-de-ichiban-itaranu-koi"
+    },
     "type": "manga",
     "original_name": "世界で一番いたらぬ恋",
     "start_date": "2020-10-13",

@@ -1,5 +1,9 @@
 {
     "title": "Oresama wa Waruga Kid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/140183.jpg",
+        "alt": "oresama-wa-waruga-kid"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "オレ様はワルガキッド",

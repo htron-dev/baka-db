@@ -1,5 +1,9 @@
 {
     "title": "Himitsukessha Taka no Tsume The Movie 1: Soutou wa Nido Shinu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/22014.jpg",
+        "alt": "himitsukessha-taka-no-tsume-the-movie-1-soutou-wa-nido-shinu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "秘密結社鷹の爪 THE MOVIE 　総統は二度死ぬ",
@@ -30,7 +34,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Eagle_Talon_(anime"
+            "link": "http://en.wikipedia.org/wiki/Eagle_Talon_%28anime%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Ganso Happy Seven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172058.jpg",
+        "alt": "ganso-happy-seven"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "元祖はっぴぃセブン",

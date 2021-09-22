@@ -1,5 +1,9 @@
 {
     "title": "Chouhatsu Denkou Sekka BOYS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5896.jpg",
+        "alt": "chouhatsu-denkou-sekka-boys"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

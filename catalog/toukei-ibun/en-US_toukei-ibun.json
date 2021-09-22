@@ -1,5 +1,9 @@
 {
     "title": "Toukei Ibun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/104539.jpg",
+        "alt": "toukei-ibun"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

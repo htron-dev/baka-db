@@ -1,5 +1,9 @@
 {
     "title": "Yu-Ribbon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150740.jpg",
+        "alt": "yu-ribbon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

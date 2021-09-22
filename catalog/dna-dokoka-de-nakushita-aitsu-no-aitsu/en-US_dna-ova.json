@@ -1,5 +1,9 @@
 {
     "title": "DNA² OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/4537.jpg",
+        "alt": "dna-ova"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "D・N・A2 ～何処かで失くしたあいつのアイツ～ (1995)",

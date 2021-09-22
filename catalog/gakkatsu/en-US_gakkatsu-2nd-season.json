@@ -1,5 +1,9 @@
 {
     "title": "Gakkatsu! 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/46063.jpg",
+        "alt": "gakkatsu-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "ガッ活！ 第 2 シーズン",

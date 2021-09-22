@@ -1,5 +1,9 @@
 {
     "title": "Shin Shiratori Reiko de Gozaimasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/9375.jpg",
+        "alt": "shin-shiratori-reiko-de-gozaimasu"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

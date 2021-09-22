@@ -1,5 +1,9 @@
 {
     "title": "Joushi to no Hitoban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23735.jpg",
+        "alt": "joushi-to-no-hitoban"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

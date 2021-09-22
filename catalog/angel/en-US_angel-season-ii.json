@@ -1,5 +1,9 @@
 {
     "title": "Angel: Season II",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/37801.jpg",
+        "alt": "angel-season-ii"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "ANGEL~SEASON 2",

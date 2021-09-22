@@ -1,5 +1,9 @@
 {
     "title": "Tsurenai Kare no Mune no Uchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/128211.jpg",
+        "alt": "tsurenai-kare-no-mune-no-uchi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

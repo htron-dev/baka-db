@@ -1,5 +1,9 @@
 {
     "title": "Hoshi no Hitomi no Silhouette",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/175904.jpg",
+        "alt": "hoshi-no-hitomi-no-silhouette"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "43",

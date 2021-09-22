@@ -1,12 +1,16 @@
 {
     "title": "Yu☆Gi☆Oh! VRAINS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1789/101971.jpg",
+        "alt": "yu☆-gi☆-oh-vrains"
+    },
     "type": "tv-serie",
     "episodes": "120",
     "original_name": "遊戯王 VRAINS",
     "start_date": "2017-05-10",
     "end_date": "2017-05-10",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"With The Wind\" by Hiroaki TOMMY Tominaga (富永 TOMMY 弘明) (eps 1-46)",
+    "ending_song": "#1: \"Believe In Magic\" by Ryoga (龍雅-Ryoga-) (eps 1-24)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Gudetama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/79996.jpg",
+        "alt": "gudetama"
+    },
     "type": "tv-serie",
     "original_name": "ぐでたま",
     "start_date": "2014-03-31",

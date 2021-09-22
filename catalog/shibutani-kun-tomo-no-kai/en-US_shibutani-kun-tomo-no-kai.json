@@ -1,5 +1,9 @@
 {
     "title": "Shibutani-kun Tomo no Kai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7622.jpg",
+        "alt": "shibutani-kun-tomo-no-kai"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "28",

@@ -1,5 +1,9 @@
 {
     "title": "Unjou Roukaku Kidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/77817.jpg",
+        "alt": "unjou-roukaku-kidan"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "雲上楼閣綺談",

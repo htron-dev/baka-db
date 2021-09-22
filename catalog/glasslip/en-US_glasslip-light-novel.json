@@ -1,5 +1,9 @@
 {
     "title": "Glasslip",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/141815.jpg",
+        "alt": "glasslip"
+    },
     "type": "light-novel",
     "original_name": "小説版 グラスリップ",
     "start_date": "2014-10-03",

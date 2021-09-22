@@ -1,5 +1,9 @@
 {
     "title": "Back to the Hero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151640.jpg",
+        "alt": "back-to-the-hero"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

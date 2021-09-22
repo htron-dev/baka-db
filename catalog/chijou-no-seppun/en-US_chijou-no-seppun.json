@@ -1,5 +1,9 @@
 {
     "title": "Chijou no Seppun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246267.jpg",
+        "alt": "chijou-no-seppun"
+    },
     "type": "manga",
     "original_name": "痴情の接吻",
     "start_date": "2018-12-07",

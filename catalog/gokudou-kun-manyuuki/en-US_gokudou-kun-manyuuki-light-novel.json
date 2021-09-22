@@ -1,5 +1,9 @@
 {
     "title": "Gokudou-kun Manyuuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/168985.jpg",
+        "alt": "gokudou-kun-manyuuki"
+    },
     "type": "light-novel",
     "volumes": "13",
     "original_name": "ゴクドーくん漫遊記",

@@ -1,5 +1,9 @@
 {
     "title": "Maya no Isshou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/64619.jpg",
+        "alt": "maya-no-isshou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "マヤの一生",

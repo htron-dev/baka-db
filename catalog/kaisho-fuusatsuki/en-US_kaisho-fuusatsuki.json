@@ -1,5 +1,9 @@
 {
     "title": "Kaisho Fuusatsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162622.jpg",
+        "alt": "kaisho-fuusatsuki"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "31",

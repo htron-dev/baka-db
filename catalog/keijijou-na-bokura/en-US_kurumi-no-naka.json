@@ -1,5 +1,9 @@
 {
     "title": "Kurumi no Naka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6148.jpg",
+        "alt": "kurumi-no-naka"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "胡桃の中",

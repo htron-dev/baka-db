@@ -1,5 +1,9 @@
 {
     "title": "Manabi Straight! Sakra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163938.jpg",
+        "alt": "manabi-straight-sakra"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

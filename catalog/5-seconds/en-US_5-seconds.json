@@ -1,5 +1,9 @@
 {
     "title": "5 Seconds",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200546.jpg",
+        "alt": "5-seconds"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

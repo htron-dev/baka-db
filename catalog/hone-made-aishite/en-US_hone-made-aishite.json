@@ -1,5 +1,9 @@
 {
     "title": "Hone Made Aishite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40498.jpg",
+        "alt": "hone-made-aishite"
+    },
     "type": "manga",
     "original_name": "骨まで愛して",
     "tags": [

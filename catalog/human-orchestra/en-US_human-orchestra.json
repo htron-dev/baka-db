@@ -1,5 +1,9 @@
 {
     "title": "Human Orchestra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1960/99078.jpg",
+        "alt": "human-orchestra"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "Human Orchestra",

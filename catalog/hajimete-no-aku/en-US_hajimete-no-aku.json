@@ -1,5 +1,9 @@
 {
     "title": "Hajimete no Aku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/50651.jpg",
+        "alt": "hajimete-no-aku"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "160",

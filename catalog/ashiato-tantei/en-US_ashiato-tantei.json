@@ -1,5 +1,9 @@
 {
     "title": "Ashiato Tantei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192066.jpg",
+        "alt": "ashiato-tantei"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

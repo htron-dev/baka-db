@@ -1,5 +1,9 @@
 {
     "title": "Shiro no Fiorentina",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208261.jpg",
+        "alt": "shiro-no-fiorentina"
+    },
     "type": "manga",
     "volumes": "23",
     "chapters": "76",

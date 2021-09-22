@@ -1,9 +1,13 @@
 {
     "title": "K Side:Black & White",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/91293.jpg",
+        "alt": "k-side-black-white"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",
-    "original_name": "K SIDE",
+    "original_name": "K SIDE:BLACK&WHITE",
     "start_date": "2013-05-21",
     "tags": [
         "supernatural"

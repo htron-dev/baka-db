@@ -1,12 +1,16 @@
 {
     "title": "Fairy Tail (2014)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/60551.jpg",
+        "alt": "fairy-tail-2014"
+    },
     "type": "tv-serie",
     "episodes": "102",
     "original_name": "FAIRY TAIL（フェアリーテイル）",
     "start_date": "2014-04-05",
     "end_date": "2014-04-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"MASAYUME CHASING\" by BoA (eps 1-13)",
+    "ending_song": "#1: \"Kimi to Kare to Boku to Kanojo to (君と彼と僕と彼女と)\" by BREATHE (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

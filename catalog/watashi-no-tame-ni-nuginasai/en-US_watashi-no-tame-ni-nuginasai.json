@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Tame ni Nuginasai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215909.jpg",
+        "alt": "watashi-no-tame-ni-nuginasai"
+    },
     "type": "manga",
     "original_name": "わたしのために脱ぎなさいっ!",
     "start_date": "2017-12-27",

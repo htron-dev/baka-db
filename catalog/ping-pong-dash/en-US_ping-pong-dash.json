@@ -1,5 +1,9 @@
 {
     "title": "Ping Pong Dash!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207550.jpg",
+        "alt": "ping-pong-dash"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "63",

@@ -1,5 +1,9 @@
 {
     "title": "Ashita no Joe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/75029.jpg",
+        "alt": "ashita-no-joe"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "171",

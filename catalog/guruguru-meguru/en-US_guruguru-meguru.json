@@ -1,5 +1,9 @@
 {
     "title": "Guruguru Meguru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/34382.jpg",
+        "alt": "guruguru-meguru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

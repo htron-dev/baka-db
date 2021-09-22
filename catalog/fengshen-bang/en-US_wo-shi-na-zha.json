@@ -1,5 +1,9 @@
 {
     "title": "Wo Shi Na Zha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1892/91670.jpg",
+        "alt": "wo-shi-na-zha"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "我是哪吒",

@@ -1,5 +1,9 @@
 {
     "title": "Rasen no Kakera",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5006.jpg",
+        "alt": "rasen-no-kakera"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "螺旋のかけら",

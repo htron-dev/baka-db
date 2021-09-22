@@ -1,5 +1,9 @@
 {
     "title": "Tokyo 7th Sisters Comic Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164656.jpg",
+        "alt": "tokyo-7th-sisters-comic-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "16",

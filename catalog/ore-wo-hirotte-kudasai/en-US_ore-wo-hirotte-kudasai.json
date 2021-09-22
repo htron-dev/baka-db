@@ -1,5 +1,9 @@
 {
     "title": "Ore wo Hirotte Kudasai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/92125.jpg",
+        "alt": "ore-wo-hirotte-kudasai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,8 +1,12 @@
 {
     "title": "Re:Zero kara Hajimeru Break Time",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/81258.jpg",
+        "alt": "re-zero-kara-hajimeru-break-time"
+    },
     "type": "special",
     "episodes": "11",
-    "original_name": "Re",
+    "original_name": "Re:ゼロから始める休憩時間〈ブレイクタイム〉",
     "start_date": "2016-04-08",
     "end_date": "2016-04-08",
     "rating": "PG-13 - Teens 13 or older",

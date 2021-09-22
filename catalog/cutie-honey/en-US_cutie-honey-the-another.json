@@ -1,5 +1,9 @@
 {
     "title": "Cutie Honey THE ANOTHER",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/218094.jpg",
+        "alt": "cutie-honey-the-another"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

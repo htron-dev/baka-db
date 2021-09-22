@@ -1,5 +1,9 @@
 {
     "title": "100-manen no Onna-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176868.jpg",
+        "alt": "100-manen-no-onna-tachi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "39",

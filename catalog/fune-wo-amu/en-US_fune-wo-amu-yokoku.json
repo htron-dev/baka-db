@@ -1,5 +1,9 @@
 {
     "title": "Fune wo Amu: Yokoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1057/101681.jpg",
+        "alt": "fune-wo-amu-yokoku"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "「舟を編む」予告",
@@ -29,7 +33,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/The_Great_Passage_(TV_series"
+            "link": "https://en.wikipedia.org/wiki/The_Great_Passage_%28TV_series%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Otogimoyou Ayanishiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/4887.jpg",
+        "alt": "otogimoyou-ayanishiki"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "21",

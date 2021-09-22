@@ -1,5 +1,9 @@
 {
     "title": "Eyes: Yokubou no Shisen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193093.jpg",
+        "alt": "eyes-yokubou-no-shisen"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "13",

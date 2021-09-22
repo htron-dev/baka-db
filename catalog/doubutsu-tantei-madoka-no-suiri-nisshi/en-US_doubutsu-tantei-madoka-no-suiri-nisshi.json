@@ -1,5 +1,9 @@
 {
     "title": "Doubutsu Tantei Madoka no Suiri Nisshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/107627.jpg",
+        "alt": "doubutsu-tantei-madoka-no-suiri-nisshi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "15",

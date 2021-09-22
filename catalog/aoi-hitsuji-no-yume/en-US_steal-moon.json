@@ -1,5 +1,9 @@
 {
     "title": "Steal Moon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168476.jpg",
+        "alt": "steal-moon"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Accidents",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/89491.jpg",
+        "alt": "accidents"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "アクシデンツ,",

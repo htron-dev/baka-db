@@ -1,5 +1,9 @@
 {
     "title": "Dousei Ai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18158.jpg",
+        "alt": "dousei-ai"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "66",

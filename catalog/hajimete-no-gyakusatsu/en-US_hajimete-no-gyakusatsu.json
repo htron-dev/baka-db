@@ -1,5 +1,9 @@
 {
     "title": "Hajimete no Gyakusatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227749.jpg",
+        "alt": "hajimete-no-gyakusatsu"
+    },
     "type": "manga",
     "original_name": "はじめての虐殺",
     "start_date": "2018-04-21",

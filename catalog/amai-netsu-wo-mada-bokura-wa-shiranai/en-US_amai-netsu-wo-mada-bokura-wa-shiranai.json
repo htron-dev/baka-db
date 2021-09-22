@@ -1,5 +1,9 @@
 {
     "title": "Amai Netsu wo, Mada Bokura wa Shiranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/142237.jpg",
+        "alt": "amai-netsu-wo-mada-bokura-wa-shiranai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

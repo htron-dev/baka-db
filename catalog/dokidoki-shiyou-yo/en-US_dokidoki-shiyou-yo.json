@@ -1,5 +1,9 @@
 {
     "title": "Dokidoki Shiyou yo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5783.jpg",
+        "alt": "dokidoki-shiyou-yo"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ドキドキしようよ!",

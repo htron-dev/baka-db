@@ -1,5 +1,9 @@
 {
     "title": "Rapid Commuter Underground",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193020.jpg",
+        "alt": "rapid-commuter-underground"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "25",

@@ -1,5 +1,9 @@
 {
     "title": "Kuroneko Kareshi no Arukikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224226.jpg",
+        "alt": "kuroneko-kareshi-no-arukikata"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

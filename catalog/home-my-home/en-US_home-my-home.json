@@ -1,5 +1,9 @@
 {
     "title": "Home My Home",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/71183.jpg",
+        "alt": "home-my-home"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ホーム・マイホーム",

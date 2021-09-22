@@ -1,5 +1,9 @@
 {
     "title": "Lens no Mukou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158108.jpg",
+        "alt": "lens-no-mukou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

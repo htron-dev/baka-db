@@ -1,5 +1,9 @@
 {
     "title": "Shoujo Fight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7588.jpg",
+        "alt": "shoujo-fight"
+    },
     "type": "manga",
     "original_name": "少女ファイト",
     "start_date": "2005-12-27",

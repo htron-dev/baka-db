@@ -1,5 +1,9 @@
 {
     "title": "Fake♂",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/183020.jpg",
+        "alt": "fake♂"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Corpse Party: Another Child",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166260.jpg",
+        "alt": "corpse-party-another-child"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

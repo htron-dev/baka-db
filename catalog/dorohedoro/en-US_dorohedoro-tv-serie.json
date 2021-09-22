@@ -1,12 +1,16 @@
 {
     "title": "Dorohedoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1740/104786.jpg",
+        "alt": "dorohedoro"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ドロヘドロ",
     "start_date": "2020-01-13",
     "end_date": "2020-01-13",
     "opening_song": "\"Welcome to Chaos (Welcome トゥ 混沌（カオス）)\" by (K) NoW_NAME",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Who am I ?\" by (K)NoW_NAME (eps 1-2, 7)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

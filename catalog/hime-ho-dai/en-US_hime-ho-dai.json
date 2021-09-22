@@ -1,5 +1,9 @@
 {
     "title": "Hime Ho! Dai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/34737.jpg",
+        "alt": "hime-ho-dai"
+    },
     "type": "manga",
     "original_name": "ひめ Ho!だい",
     "tags": [

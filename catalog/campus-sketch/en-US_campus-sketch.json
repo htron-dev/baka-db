@@ -1,5 +1,9 @@
 {
     "title": "Campus Sketch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/154282.jpg",
+        "alt": "campus-sketch"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

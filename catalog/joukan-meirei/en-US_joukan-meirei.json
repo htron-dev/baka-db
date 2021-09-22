@@ -1,5 +1,9 @@
 {
     "title": "Joukan Meirei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/80459.jpg",
+        "alt": "joukan-meirei"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

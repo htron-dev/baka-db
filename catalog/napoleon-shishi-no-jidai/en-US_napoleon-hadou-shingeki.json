@@ -1,5 +1,9 @@
 {
     "title": "Napoleon: Hadou Shingeki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/92335.jpg",
+        "alt": "napoleon-hadou-shingeki"
+    },
     "type": "manga",
     "original_name": "ナポレオン -覇道進撃-",
     "start_date": "2011-01-29",

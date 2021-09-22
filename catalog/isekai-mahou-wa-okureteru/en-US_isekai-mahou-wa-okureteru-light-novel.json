@@ -1,5 +1,9 @@
 {
     "title": "Isekai Mahou wa Okureteru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208008.jpg",
+        "alt": "isekai-mahou-wa-okureteru"
+    },
     "type": "light-novel",
     "original_name": "異世界魔法は遅れてる！",
     "start_date": "2014-04-25",

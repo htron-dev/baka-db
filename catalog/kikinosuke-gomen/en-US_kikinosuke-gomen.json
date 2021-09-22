@@ -1,5 +1,9 @@
 {
     "title": "Kikinosuke Gomen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/68033.jpg",
+        "alt": "kikinosuke-gomen"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "危機之介御免",

@@ -1,5 +1,9 @@
 {
     "title": "Vision Noa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/81366.jpg",
+        "alt": "vision-noa"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ヴィジョン ノア",

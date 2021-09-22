@@ -1,5 +1,9 @@
 {
     "title": "Nanbaka 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/83263.jpg",
+        "alt": "nanbaka-2"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "ナンバカ 2 期",

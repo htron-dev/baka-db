@@ -1,5 +1,9 @@
 {
     "title": "Valkyrie Profile",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2099.jpg",
+        "alt": "valkyrie-profile"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

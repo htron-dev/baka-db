@@ -1,5 +1,9 @@
 {
     "title": "Shuugaku Ryokou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22637.jpg",
+        "alt": "shuugaku-ryokou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

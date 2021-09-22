@@ -1,5 +1,9 @@
 {
     "title": "Shitsuji-sama no Okiniiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154553.jpg",
+        "alt": "shitsuji-sama-no-okiniiri"
+    },
     "type": "manga",
     "volumes": "21",
     "chapters": "84",

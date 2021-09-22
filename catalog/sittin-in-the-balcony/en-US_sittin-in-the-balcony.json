@@ -1,5 +1,9 @@
 {
     "title": "Sittin' in the Balcony",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164633.jpg",
+        "alt": "sittin-in-the-balcony"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

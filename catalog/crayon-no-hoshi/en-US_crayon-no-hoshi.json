@@ -1,5 +1,9 @@
 {
     "title": "Crayon no Hoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/66165.jpg",
+        "alt": "crayon-no-hoshi"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "クレヨンの星",

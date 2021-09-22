@@ -1,5 +1,9 @@
 {
     "title": "Malicious Code",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/96915.jpg",
+        "alt": "malicious-code"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "17",

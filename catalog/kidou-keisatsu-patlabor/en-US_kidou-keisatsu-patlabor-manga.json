@@ -1,5 +1,9 @@
 {
     "title": "Kidou Keisatsu Patlabor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194559.jpg",
+        "alt": "kidou-keisatsu-patlabor"
+    },
     "type": "manga",
     "volumes": "22",
     "chapters": "91",

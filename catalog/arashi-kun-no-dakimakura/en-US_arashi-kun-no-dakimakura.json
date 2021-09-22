@@ -1,5 +1,9 @@
 {
     "title": "Arashi-kun no Dakimakura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238799.jpg",
+        "alt": "arashi-kun-no-dakimakura"
+    },
     "type": "manga",
     "original_name": "嵐士くんの抱きマクラ",
     "start_date": "2020-03-13",

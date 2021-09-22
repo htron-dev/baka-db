@@ -1,5 +1,9 @@
 {
     "title": "Ore, Twintail ni Narimasu. π",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239329.jpg",
+        "alt": "ore-twintail-ni-narimasu-π"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

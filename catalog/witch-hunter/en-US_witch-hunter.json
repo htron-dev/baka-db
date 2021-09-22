@@ -1,5 +1,9 @@
 {
     "title": "Witch Hunter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/198695.jpg",
+        "alt": "witch-hunter"
+    },
     "type": "manhwa",
     "original_name": "위치헌터",
     "tags": [

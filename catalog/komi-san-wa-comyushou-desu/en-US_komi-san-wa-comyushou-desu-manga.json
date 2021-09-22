@@ -1,5 +1,9 @@
 {
     "title": "Komi-san wa, Comyushou desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/188962.jpg",
+        "alt": "komi-san-wa-comyushou-desu"
+    },
     "type": "manga",
     "original_name": "古見さんは、コミュ症です。",
     "start_date": "2016-05-18",

@@ -1,5 +1,9 @@
 {
     "title": "Nadeshiko Prima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14577.jpg",
+        "alt": "nadeshiko-prima"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

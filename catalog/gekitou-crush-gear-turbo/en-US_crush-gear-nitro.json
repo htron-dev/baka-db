@@ -1,5 +1,9 @@
 {
     "title": "Crush Gear Nitro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1925/94230.jpg",
+        "alt": "crush-gear-nitro"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "クラッシュギア Nitro",

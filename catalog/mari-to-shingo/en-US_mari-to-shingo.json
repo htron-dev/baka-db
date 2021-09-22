@@ -1,5 +1,9 @@
 {
     "title": "Mari to Shingo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23405.jpg",
+        "alt": "mari-to-shingo"
+    },
     "type": "manga",
     "volumes": "13",
     "original_name": "摩利と新語",

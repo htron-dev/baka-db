@@ -1,5 +1,9 @@
 {
     "title": "Okotoba desu ga, Mahoui-sama.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193036.jpg",
+        "alt": "okotoba-desu-ga-mahoui-sama"
+    },
     "type": "light-novel",
     "original_name": "おことばですが、魔法医さま。",
     "start_date": "2017-02-10",

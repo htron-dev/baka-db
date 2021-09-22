@@ -1,5 +1,9 @@
 {
     "title": "BWH",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21136.jpg",
+        "alt": "bwh"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "30",

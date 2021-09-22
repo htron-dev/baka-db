@@ -1,5 +1,9 @@
 {
     "title": "Offside (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/10383.jpg",
+        "alt": "offside-tv"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "オフサイド",

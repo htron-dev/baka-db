@@ -1,5 +1,9 @@
 {
     "title": "Orc Ou Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174783.jpg",
+        "alt": "orc-ou-densetsu"
+    },
     "type": "light-novel",
     "original_name": "オーク王伝説",
     "start_date": "2016-04-13",

@@ -1,5 +1,9 @@
 {
     "title": "Neon The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/47203.jpg",
+        "alt": "neon-the-animation"
+    },
     "type": "ona",
     "episodes": "6",
     "original_name": "Neon The Animation",

@@ -1,5 +1,9 @@
 {
     "title": "Advent of Snow White of the Hell",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21701.jpg",
+        "alt": "advent-of-snow-white-of-the-hell"
+    },
     "type": "manhwa",
     "volumes": "10",
     "original_name": "백설지옥강림",

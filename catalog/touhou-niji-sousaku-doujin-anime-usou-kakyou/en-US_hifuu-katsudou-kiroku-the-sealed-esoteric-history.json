@@ -1,10 +1,14 @@
 {
     "title": "Hifuu Katsudou Kiroku: The Sealed Esoteric History",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/88676.jpg",
+        "alt": "hifuu-katsudou-kiroku-the-sealed-esoteric-history"
+    },
     "type": "ova",
     "original_name": "秘封活動記録 The Sealed Esoteric History",
     "start_date": "2015-12-29",
     "opening_song": "\"Farewell Tour (決別の旅)\" by Yonder Voice",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Bouquet of Starry Skies (星空の花束)\" by Yonder Voice (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "magic",

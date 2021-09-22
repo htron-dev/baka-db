@@ -1,5 +1,9 @@
 {
     "title": "Juujin-san to Ohana-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245638.jpg",
+        "alt": "juujin-san-to-ohana-chan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Ayakashidou no Hourai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/51483.jpg",
+        "alt": "ayakashidou-no-hourai"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "あやかし堂のホウライ",

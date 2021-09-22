@@ -1,5 +1,9 @@
 {
     "title": "Teito no Yuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172918.jpg",
+        "alt": "teito-no-yuri"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "帝都のユリ",

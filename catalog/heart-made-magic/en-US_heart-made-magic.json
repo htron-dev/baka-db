@@ -1,5 +1,9 @@
 {
     "title": "Heart Made Magic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20808.jpg",
+        "alt": "heart-made-magic"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

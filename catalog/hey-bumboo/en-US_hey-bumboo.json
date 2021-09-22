@@ -1,5 +1,9 @@
 {
     "title": "Hey! Bumboo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/5633.jpg",
+        "alt": "hey-bumboo"
+    },
     "type": "tv-serie",
     "episodes": "130",
     "original_name": "へーい！ブンブー",

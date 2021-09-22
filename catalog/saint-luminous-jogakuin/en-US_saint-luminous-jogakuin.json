@@ -1,12 +1,16 @@
 {
     "title": "Saint Luminous Jogakuin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1946/109012.jpg",
+        "alt": "saint-luminous-jogakuin"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "聖ルミナス女学院",
     "start_date": "1998-10-06",
     "end_date": "1998-10-06",
     "opening_song": "\"Luminous \"Shoushitsu to Nazo no Theme\" (Ver. 1) (ルミナス\"消失と謎のテーマ\"Ver.1) by ???",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Labyrinth\" by Ali Project",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "mystery",

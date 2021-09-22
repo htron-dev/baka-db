@@ -1,5 +1,9 @@
 {
     "title": "Juushingura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25735.jpg",
+        "alt": "juushingura"
+    },
     "type": "manga",
     "original_name": "じゅうしんぐら",
     "tags": [

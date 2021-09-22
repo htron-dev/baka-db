@@ -1,5 +1,9 @@
 {
     "title": "THE IDOLM@STER 2: Colorful Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/61385.jpg",
+        "alt": "the-idolm-ster-2-colorful-days"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

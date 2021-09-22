@@ -1,5 +1,9 @@
 {
     "title": "Naruto Shinden Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190847.jpg",
+        "alt": "naruto-shinden-series"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "11",

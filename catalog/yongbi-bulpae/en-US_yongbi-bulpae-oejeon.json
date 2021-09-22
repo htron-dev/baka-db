@@ -1,5 +1,9 @@
 {
     "title": "Yongbi Bulpae Oejeon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/88309.jpg",
+        "alt": "yongbi-bulpae-oejeon"
+    },
     "type": "manhwa",
     "original_name": "용비불패 외전",
     "tags": [

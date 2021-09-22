@@ -1,5 +1,9 @@
 {
     "title": "Zettai†Joousei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/187412.jpg",
+        "alt": "zettai-joousei"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

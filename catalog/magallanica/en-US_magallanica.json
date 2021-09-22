@@ -1,5 +1,9 @@
 {
     "title": "Magallanica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/37835.jpg",
+        "alt": "magallanica"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "めがらにか",

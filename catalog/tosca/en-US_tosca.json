@@ -1,5 +1,9 @@
 {
     "title": "Tosca",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1986/114933.jpg",
+        "alt": "tosca"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "Tosca",

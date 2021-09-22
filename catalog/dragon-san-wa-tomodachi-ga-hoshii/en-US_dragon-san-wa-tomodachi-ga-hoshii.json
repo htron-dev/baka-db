@@ -1,5 +1,9 @@
 {
     "title": "Dragon-san wa Tomodachi ga Hoshii!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210754.jpg",
+        "alt": "dragon-san-wa-tomodachi-ga-hoshii"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "95",

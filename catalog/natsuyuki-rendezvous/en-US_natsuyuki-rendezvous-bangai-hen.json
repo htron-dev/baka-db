@@ -1,5 +1,9 @@
 {
     "title": "Natsuyuki Rendezvous Bangai-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179069.jpg",
+        "alt": "natsuyuki-rendezvous-bangai-hen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

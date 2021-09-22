@@ -1,5 +1,9 @@
 {
     "title": "Slow Loop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1428/117348.jpg",
+        "alt": "slow-loop"
+    },
     "type": "tv-serie",
     "original_name": "スローループ",
     "start_date": "2022-01-20",

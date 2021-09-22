@@ -1,5 +1,9 @@
 {
     "title": "Princess Tutu Recaps",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/26516.jpg",
+        "alt": "princess-tutu-recaps"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "プリンセスチュチュ",

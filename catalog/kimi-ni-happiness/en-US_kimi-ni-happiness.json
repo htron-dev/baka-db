@@ -1,5 +1,9 @@
 {
     "title": "Kimi ni Happiness",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/92303.jpg",
+        "alt": "kimi-ni-happiness"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

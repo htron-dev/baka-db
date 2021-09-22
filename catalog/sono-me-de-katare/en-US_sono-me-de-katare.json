@@ -1,5 +1,9 @@
 {
     "title": "Sono Me de Katare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162427.jpg",
+        "alt": "sono-me-de-katare"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

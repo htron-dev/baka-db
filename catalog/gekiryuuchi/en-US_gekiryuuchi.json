@@ -1,5 +1,9 @@
 {
     "title": "Gekiryuuchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/49033.jpg",
+        "alt": "gekiryuuchi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

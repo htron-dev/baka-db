@@ -1,5 +1,9 @@
 {
     "title": "Kaika no Oni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178601.jpg",
+        "alt": "kaika-no-oni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

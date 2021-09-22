@@ -1,5 +1,9 @@
 {
     "title": "Seishun Shiteru Kai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6616.jpg",
+        "alt": "seishun-shiteru-kai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

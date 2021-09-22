@@ -1,5 +1,9 @@
 {
     "title": "Kamiyadori no Nagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/76461.jpg",
+        "alt": "kamiyadori-no-nagi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

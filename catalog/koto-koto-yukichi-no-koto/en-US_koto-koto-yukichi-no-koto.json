@@ -1,5 +1,9 @@
 {
     "title": "Koto Koto: Yukichi no Koto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203195.jpg",
+        "alt": "koto-koto-yukichi-no-koto"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

@@ -1,5 +1,9 @@
 {
     "title": "Love x Machine Gun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14679.jpg",
+        "alt": "love-x-machine-gun"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ラブ × マシンガン",

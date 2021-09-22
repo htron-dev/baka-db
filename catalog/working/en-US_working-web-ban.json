@@ -1,5 +1,9 @@
 {
     "title": "Working!! Web-ban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/188977.jpg",
+        "alt": "working-web-ban"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "118",

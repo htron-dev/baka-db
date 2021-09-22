@@ -1,5 +1,9 @@
 {
     "title": "Date A Live III",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1055/100468.jpg",
+        "alt": "date-a-live-iii"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "デート・ア・ライブ Ⅲ",

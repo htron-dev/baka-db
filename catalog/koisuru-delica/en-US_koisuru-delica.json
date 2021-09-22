@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Delica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32102.jpg",
+        "alt": "koisuru-delica"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "恋するデリカ",

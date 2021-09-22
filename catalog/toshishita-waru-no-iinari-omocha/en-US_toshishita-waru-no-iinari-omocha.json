@@ -1,5 +1,9 @@
 {
     "title": "Toshishita Waru no Iinari Omocha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193481.jpg",
+        "alt": "toshishita-waru-no-iinari-omocha"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "16",

@@ -1,5 +1,9 @@
 {
     "title": "Yakimochi Holic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239494.jpg",
+        "alt": "yakimochi-holic"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Kyoui no Ikiryou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151492.jpg",
+        "alt": "kyoui-no-ikiryou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "脅威の生霊",

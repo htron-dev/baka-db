@@ -1,5 +1,9 @@
 {
     "title": "Fake Rebellion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224487.jpg",
+        "alt": "fake-rebellion"
+    },
     "type": "manga",
     "original_name": "フェイク・リベリオン",
     "start_date": "2018-11-24",

@@ -1,5 +1,9 @@
 {
     "title": "Ethicae no Jikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/233804.jpg",
+        "alt": "ethicae-no-jikan"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "39",

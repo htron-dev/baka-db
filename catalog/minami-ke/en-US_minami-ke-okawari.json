@@ -1,5 +1,9 @@
 {
     "title": "Minami-ke Okawari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/73556.jpg",
+        "alt": "minami-ke-okawari"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "みなみけ～おかわり～",

@@ -1,11 +1,15 @@
 {
     "title": "Ai Tenchi Muyou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/67801.jpg",
+        "alt": "ai-tenchi-muyou"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "愛・天地無用!",
     "start_date": "2014-10-06",
     "end_date": "2014-10-06",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Aishiterutte Sagebimasho!! (愛してるって呼びましょ!!) by Momo Kawanagare (Nao Touyama) (eps 1-2, 4-6, 8-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

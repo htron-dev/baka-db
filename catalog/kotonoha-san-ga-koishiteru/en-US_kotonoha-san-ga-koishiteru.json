@@ -1,5 +1,9 @@
 {
     "title": "Kotonoha-san ga Koishiteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/217097.jpg",
+        "alt": "kotonoha-san-ga-koishiteru"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "42",

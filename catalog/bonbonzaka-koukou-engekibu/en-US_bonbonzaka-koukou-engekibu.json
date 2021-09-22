@@ -1,5 +1,9 @@
 {
     "title": "Bonbonzaka Koukou Engekibu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/187158.jpg",
+        "alt": "bonbonzaka-koukou-engekibu"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "142",

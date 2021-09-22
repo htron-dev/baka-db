@@ -1,5 +1,9 @@
 {
     "title": "O-bo-re-ta-i",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183117.jpg",
+        "alt": "o-bo-re-ta-i"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "23",

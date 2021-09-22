@@ -1,5 +1,9 @@
 {
     "title": "Doraemon Movie 33: Nobita no Himitsu Dougu Museum",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/72438.jpg",
+        "alt": "doraemon-movie-33-nobita-no-himitsu-dougu-museum"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "映画 ドラえもん のび太のひみつ道具博物館[ミュージアム]",

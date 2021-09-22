@@ -1,5 +1,9 @@
 {
     "title": "Uwaki Sarenai Onna no Jouken.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/137145.jpg",
+        "alt": "uwaki-sarenai-onna-no-jouken"
+    },
     "type": "manga",
     "original_name": "浮気されない女の条件。",
     "start_date": "2014-02-17",

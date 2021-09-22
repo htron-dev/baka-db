@@ -1,5 +1,9 @@
 {
     "title": "Iris no Tamago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/41608.jpg",
+        "alt": "iris-no-tamago"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "5",

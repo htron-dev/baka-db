@@ -1,5 +1,9 @@
 {
     "title": "Mairimashita! Iruma-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/198066.jpg",
+        "alt": "mairimashita-iruma-kun"
+    },
     "type": "manga",
     "original_name": "魔入りました！入間くん",
     "start_date": "2017-03-02",

@@ -1,12 +1,16 @@
 {
     "title": "Hakuouki Sekkaroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/71799.jpg",
+        "alt": "hakuouki-sekkaroku"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "薄桜鬼 雪華録",
     "start_date": "2011-08-05",
     "end_date": "2011-08-05",
     "opening_song": "\"Yume no Ukifune (夢ノ浮舟)\" by Aika Yoshioka",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Mugen - a true love tale- (夢幻 -a true love tale-)\" by Maon Kurosaki (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Akkera Kanjinchou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178083.jpg",
+        "alt": "akkera-kanjinchou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

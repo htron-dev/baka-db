@@ -1,5 +1,9 @@
 {
     "title": "High School Agent",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/248955.jpg",
+        "alt": "high-school-agent"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "21",

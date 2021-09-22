@@ -1,5 +1,9 @@
 {
     "title": "Aozukin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18091.jpg",
+        "alt": "aozukin"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "青頭巾",

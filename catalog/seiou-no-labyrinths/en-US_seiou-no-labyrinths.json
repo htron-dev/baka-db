@@ -1,5 +1,9 @@
 {
     "title": "Seiou no Labyrinths",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/124491.jpg",
+        "alt": "seiou-no-labyrinths"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "征王の迷宮塔(ラビリントス)",

@@ -1,5 +1,9 @@
 {
     "title": "Rensou no Aria",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/21870.jpg",
+        "alt": "rensou-no-aria"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

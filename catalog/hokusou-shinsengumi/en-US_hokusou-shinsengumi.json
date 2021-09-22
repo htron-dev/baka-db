@@ -1,5 +1,9 @@
 {
     "title": "Hokusou Shinsengumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/6304.jpg",
+        "alt": "hokusou-shinsengumi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

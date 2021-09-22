@@ -1,5 +1,9 @@
 {
     "title": "Futari de Asa made",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149840.jpg",
+        "alt": "futari-de-asa-made"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

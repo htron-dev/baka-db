@@ -1,5 +1,9 @@
 {
     "title": "Tende Shouwaru Cupid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/64377.jpg",
+        "alt": "tende-shouwaru-cupid"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "32",

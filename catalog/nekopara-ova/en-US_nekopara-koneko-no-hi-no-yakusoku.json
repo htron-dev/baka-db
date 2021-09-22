@@ -1,5 +1,9 @@
 {
     "title": "Nekopara: Koneko no Hi no Yakusoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1102/103268.jpg",
+        "alt": "nekopara-koneko-no-hi-no-yakusoku"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ネコぱら 仔ネコの日の約束",

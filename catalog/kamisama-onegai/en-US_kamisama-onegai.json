@@ -1,5 +1,9 @@
 {
     "title": "Kamisama, Onegai!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15059.jpg",
+        "alt": "kamisama-onegai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "18",

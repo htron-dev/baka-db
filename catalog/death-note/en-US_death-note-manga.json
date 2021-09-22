@@ -1,5 +1,9 @@
 {
     "title": "Death Note",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/54453.jpg",
+        "alt": "death-note"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "108",

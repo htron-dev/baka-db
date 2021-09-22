@@ -1,5 +1,9 @@
 {
     "title": "12 Demons",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164241.jpg",
+        "alt": "12-demons"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "12DEMONS",

@@ -1,5 +1,9 @@
 {
     "title": "Tactical Judgment",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162850.jpg",
+        "alt": "tactical-judgment"
+    },
     "type": "light-novel",
     "volumes": "9",
     "chapters": "71",

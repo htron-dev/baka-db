@@ -1,5 +1,9 @@
 {
     "title": "Choujuugi-chou no Arukikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205075.jpg",
+        "alt": "choujuugi-chou-no-arukikata"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

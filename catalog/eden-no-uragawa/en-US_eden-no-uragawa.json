@@ -1,5 +1,9 @@
 {
     "title": "Eden no Uragawa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/220473.jpg",
+        "alt": "eden-no-uragawa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

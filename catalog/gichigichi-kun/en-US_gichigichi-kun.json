@@ -1,5 +1,9 @@
 {
     "title": "Gichigichi-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172307.jpg",
+        "alt": "gichigichi-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

@@ -1,5 +1,9 @@
 {
     "title": "Kuro Genji Monogatari: Hana to Miruramu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170779.jpg",
+        "alt": "kuro-genji-monogatari-hana-to-miruramu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

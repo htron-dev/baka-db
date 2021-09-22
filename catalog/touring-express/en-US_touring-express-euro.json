@@ -1,5 +1,9 @@
 {
     "title": "Touring Express Euro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/212695.jpg",
+        "alt": "touring-express-euro"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "ツーリング EXP.Euro",

@@ -1,5 +1,9 @@
 {
     "title": "Tomodachi Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/122805.jpg",
+        "alt": "tomodachi-game"
+    },
     "type": "manga",
     "original_name": "トモダチゲーム",
     "start_date": "2013-12-09",

@@ -1,5 +1,9 @@
 {
     "title": "Uso to Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5471.jpg",
+        "alt": "uso-to-kiss"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Izaron Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/12786.jpg",
+        "alt": "izaron-densetsu"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "イズァロ―ン伝説",

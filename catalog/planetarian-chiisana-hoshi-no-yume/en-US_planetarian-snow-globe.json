@@ -1,5 +1,9 @@
 {
     "title": "Planetarian: Snow Globe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1320/106943.jpg",
+        "alt": "planetarian-snow-globe"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "planetarian ~雪圏球[スノーグローブ]~",

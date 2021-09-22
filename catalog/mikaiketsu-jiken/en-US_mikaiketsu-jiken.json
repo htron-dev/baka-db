@@ -1,5 +1,9 @@
 {
     "title": "Mikaiketsu Jiken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/103047.jpg",
+        "alt": "mikaiketsu-jiken"
+    },
     "type": "manga",
     "original_name": "未解決事件",
     "start_date": "2012-03-21",

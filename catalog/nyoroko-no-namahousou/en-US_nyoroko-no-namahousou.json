@@ -1,5 +1,9 @@
 {
     "title": "Nyoroko no Namahousou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162754.jpg",
+        "alt": "nyoroko-no-namahousou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

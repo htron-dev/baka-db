@@ -1,5 +1,9 @@
 {
     "title": "Sorekara, Kimi wo Kangaeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160518.jpg",
+        "alt": "sorekara-kimi-wo-kangaeru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Senmu Shima Kousaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/129007.jpg",
+        "alt": "senmu-shima-kousaku"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "56",

@@ -1,5 +1,9 @@
 {
     "title": "Youyou no Neko Tsumami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/35857.jpg",
+        "alt": "youyou-no-neko-tsumami"
+    },
     "type": "tv-serie",
     "episodes": "130",
     "original_name": "ヨーヨーの猫つまみ",

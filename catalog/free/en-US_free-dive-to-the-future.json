@@ -1,12 +1,16 @@
 {
     "title": "Free!: Dive to the Future",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1243/95025.jpg",
+        "alt": "free-dive-to-the-future"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "Free!-Dive to the Future-",
     "start_date": "2018-07-12",
     "end_date": "2018-07-12",
     "opening_song": "\"Heading to Over\" by OLDCODEX (eps 1-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Gold Evolution\" by STYLE FIVE (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",
@@ -35,7 +39,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Free!_(anime"
+            "link": "https://en.wikipedia.org/wiki/Free!_%28anime%29"
         }
     ]
 }

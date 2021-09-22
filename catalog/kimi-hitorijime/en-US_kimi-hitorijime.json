@@ -1,5 +1,9 @@
 {
     "title": "Kimi Hitorijime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176569.jpg",
+        "alt": "kimi-hitorijime"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

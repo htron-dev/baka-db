@@ -1,5 +1,9 @@
 {
     "title": "Shachiku to Gal ga Irekawarimashite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234222.jpg",
+        "alt": "shachiku-to-gal-ga-irekawarimashite"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "21",

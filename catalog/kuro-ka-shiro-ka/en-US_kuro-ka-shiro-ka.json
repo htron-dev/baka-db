@@ -1,5 +1,9 @@
 {
     "title": "Kuro ka Shiro ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/223990.jpg",
+        "alt": "kuro-ka-shiro-ka"
+    },
     "type": "manga",
     "original_name": "黒か白か",
     "start_date": "2017-04-27",

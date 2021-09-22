@@ -1,5 +1,9 @@
 {
     "title": "Sword Breaker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152587.jpg",
+        "alt": "sword-breaker"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

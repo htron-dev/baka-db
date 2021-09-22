@@ -1,5 +1,9 @@
 {
     "title": "Baka Baka Baka na Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/71551.jpg",
+        "alt": "baka-baka-baka-na-sekai"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "馬鹿馬鹿馬鹿な世界",

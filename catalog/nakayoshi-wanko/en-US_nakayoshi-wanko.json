@@ -1,5 +1,9 @@
 {
     "title": "Nakayoshi Wanko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26326.jpg",
+        "alt": "nakayoshi-wanko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

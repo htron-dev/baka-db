@@ -1,5 +1,9 @@
 {
     "title": "PiPit!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163092.jpg",
+        "alt": "pi-pit"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "PiPit!! ～ぴぴっと!!～",

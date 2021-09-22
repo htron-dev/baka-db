@@ -1,5 +1,9 @@
 {
     "title": "Souyoku no Gift",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165822.jpg",
+        "alt": "souyoku-no-gift"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "26",

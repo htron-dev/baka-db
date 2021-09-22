@@ -1,5 +1,9 @@
 {
     "title": "The iDOLM@STER 2: The World Is All One!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154231.jpg",
+        "alt": "the-i-dolm-ster-2-the-world-is-all-one"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "39",

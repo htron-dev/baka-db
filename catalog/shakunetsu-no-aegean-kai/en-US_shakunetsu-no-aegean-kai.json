@@ -1,5 +1,9 @@
 {
     "title": "Shakunetsu no Aegean-kai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229428.jpg",
+        "alt": "shakunetsu-no-aegean-kai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "灼熱のエーゲ海",

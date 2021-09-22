@@ -1,5 +1,9 @@
 {
     "title": "Kimi wa Candy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20464.jpg",
+        "alt": "kimi-wa-candy"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "君はキャンディ",

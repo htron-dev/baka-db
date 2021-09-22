@@ -1,5 +1,9 @@
 {
     "title": "Bravely Default: Flying Fairy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167811.jpg",
+        "alt": "bravely-default-flying-fairy"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

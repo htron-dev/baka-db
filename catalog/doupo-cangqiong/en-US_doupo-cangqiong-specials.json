@@ -1,5 +1,9 @@
 {
     "title": "Doupo Cangqiong Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/88360.jpg",
+        "alt": "doupo-cangqiong-specials"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "斗破苍穹 特别篇",

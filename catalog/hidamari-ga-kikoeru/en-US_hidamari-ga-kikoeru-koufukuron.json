@@ -1,5 +1,9 @@
 {
     "title": "Hidamari ga Kikoeru: Koufukuron",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/240672.jpg",
+        "alt": "hidamari-ga-kikoeru-koufukuron"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Tribe 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/50493.jpg",
+        "alt": "tokyo-tribe-2"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "TOKYO TRIBE 2",

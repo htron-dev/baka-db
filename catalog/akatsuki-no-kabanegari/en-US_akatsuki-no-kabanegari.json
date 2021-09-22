@@ -1,5 +1,9 @@
 {
     "title": "Akatsuki no Kabanegari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/241852.jpg",
+        "alt": "akatsuki-no-kabanegari"
+    },
     "type": "manga",
     "original_name": "暁の屍狩",
     "start_date": "2020-10-09",

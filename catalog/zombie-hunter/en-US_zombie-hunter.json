@@ -1,5 +1,9 @@
 {
     "title": "Zombie Hunter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12307.jpg",
+        "alt": "zombie-hunter"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "26",

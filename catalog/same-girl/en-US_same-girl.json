@@ -1,5 +1,9 @@
 {
     "title": "Same Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228790.jpg",
+        "alt": "same-girl"
+    },
     "type": "manga",
     "original_name": "サメガール",
     "start_date": "2019-05-07",

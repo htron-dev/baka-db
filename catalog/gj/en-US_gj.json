@@ -1,5 +1,9 @@
 {
     "title": "GJ",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238455.jpg",
+        "alt": "gj"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "50",

@@ -1,5 +1,9 @@
 {
     "title": "Ragnastrike Angels",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/79268.jpg",
+        "alt": "ragnastrike-angels"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ラグナストライクエンジェルズ",

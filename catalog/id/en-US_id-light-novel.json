@@ -1,5 +1,9 @@
 {
     "title": "ID",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/93359.jpg",
+        "alt": "id"
+    },
     "type": "light-novel",
     "original_name": "이드",
     "tags": [

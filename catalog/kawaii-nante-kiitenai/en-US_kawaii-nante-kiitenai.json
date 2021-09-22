@@ -1,5 +1,9 @@
 {
     "title": "Kawaii nante Kiitenai!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/239576.jpg",
+        "alt": "kawaii-nante-kiitenai"
+    },
     "type": "manga",
     "original_name": "カワイイなんて聞いてない!!",
     "start_date": "2020-06-12",

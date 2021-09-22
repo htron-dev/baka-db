@@ -1,5 +1,9 @@
 {
     "title": "Holiday Advent Calendar 2018",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1459/98879.jpg",
+        "alt": "holiday-advent-calendar-2018"
+    },
     "type": "ona",
     "episodes": "13",
     "original_name": "Holiday Advent Calendar 2018",

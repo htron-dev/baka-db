@@ -1,5 +1,9 @@
 {
     "title": "Kuchibiru Tameiki Sakurairo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/73503.jpg",
+        "alt": "kuchibiru-tameiki-sakurairo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

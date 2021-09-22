@@ -1,12 +1,16 @@
 {
     "title": "Gear Fighter Dendoh",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/49409.jpg",
+        "alt": "gear-fighter-dendoh"
+    },
     "type": "tv-serie",
     "episodes": "38",
     "original_name": "GEAR 戦士 電童",
     "start_date": "2000-10-04",
     "end_date": "2000-10-04",
     "opening_song": "\"W-INFINITY\" by Hironobu Kageyama and Hitomi Mieno",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Countdown\" by Little Voice (eps 1-19,22-38)",
     "rating": "PG - Children",
     "tags": [
         "action",

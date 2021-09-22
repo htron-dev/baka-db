@@ -1,11 +1,15 @@
 {
     "title": "Jewelpet Happiness",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/47697.jpg",
+        "alt": "jewelpet-happiness"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "ジュエルペット ハッピネス",
     "start_date": "2013-04-06",
     "end_date": "2013-04-06",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Hikari no Hate ni (光の果てに)\" by Fairies (eps 1-39)",
     "ending_song": "\"Hikari no Hate ni (光の果てに)\" by Fairies",
     "rating": "PG - Children",
     "tags": [

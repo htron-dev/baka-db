@@ -1,5 +1,9 @@
 {
     "title": "Slayers Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/155327.jpg",
+        "alt": "slayers-special"
+    },
     "type": "light-novel",
     "volumes": "30",
     "original_name": "スレイヤーズすぺしゃる",

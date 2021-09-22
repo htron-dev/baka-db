@@ -1,5 +1,9 @@
 {
     "title": "Photokano: Memorial Pictures",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172275.jpg",
+        "alt": "photokano-memorial-pictures"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

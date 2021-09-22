@@ -1,5 +1,9 @@
 {
     "title": "Hanamatsu Ibara: Meguru Haru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222905.jpg",
+        "alt": "hanamatsu-ibara-meguru-haru"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "37",

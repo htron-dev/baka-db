@@ -1,5 +1,9 @@
 {
     "title": "Last Ranker: Be the Last One",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/68401.jpg",
+        "alt": "last-ranker-be-the-last-one"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "Shoujo Fujuubun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177186.jpg",
+        "alt": "shoujo-fujuubun"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

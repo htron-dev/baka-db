@@ -1,5 +1,9 @@
 {
     "title": "Bloody Roar: The Fang",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155633.jpg",
+        "alt": "bloody-roar-the-fang"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

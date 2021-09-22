@@ -1,5 +1,9 @@
 {
     "title": "Yousuruni Chikuri-bu desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171409.jpg",
+        "alt": "yousuruni-chikuri-bu-desu"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "ようするにチクリ部です",

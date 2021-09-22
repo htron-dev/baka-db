@@ -1,5 +1,9 @@
 {
     "title": "Overdose",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2312.jpg",
+        "alt": "overdose"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "No.5",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178634.jpg",
+        "alt": "no-5"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "37",

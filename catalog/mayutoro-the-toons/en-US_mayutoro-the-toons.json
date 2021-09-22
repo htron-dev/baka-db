@@ -1,5 +1,9 @@
 {
     "title": "Mayutoro The Toons",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/28224.jpg",
+        "alt": "mayutoro-the-toons"
+    },
     "type": "tv-serie",
     "episodes": "33",
     "original_name": "まゆとろ THE TOONS",

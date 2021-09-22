@@ -1,5 +1,9 @@
 {
     "title": "Hell Mother",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/137225.jpg",
+        "alt": "hell-mother"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

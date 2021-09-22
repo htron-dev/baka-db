@@ -1,5 +1,9 @@
 {
     "title": "Oda Nobuna no Gakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/240412.jpg",
+        "alt": "oda-nobuna-no-gakuen"
+    },
     "type": "light-novel",
     "original_name": "織田信奈の学園",
     "start_date": "2021-01-20",

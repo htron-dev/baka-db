@@ -1,5 +1,9 @@
 {
     "title": "Satoremasen Manji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223397.jpg",
+        "alt": "satoremasen-manji"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

@@ -1,5 +1,9 @@
 {
     "title": "G.L.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/124295.jpg",
+        "alt": "g-l"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "18",

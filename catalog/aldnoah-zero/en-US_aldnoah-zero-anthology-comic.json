@@ -1,5 +1,9 @@
 {
     "title": "Aldnoah.Zero Anthology Comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/141221.jpg",
+        "alt": "aldnoah-zero-anthology-comic"
+    },
     "type": "manga",
     "original_name": "ALDNOAH.ZERO アンソロジーコミック",
     "start_date": "2014-10-11",

@@ -1,5 +1,9 @@
 {
     "title": "Kimi ja Nakya Dame Nanda.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/22598.jpg",
+        "alt": "kimi-ja-nakya-dame-nanda"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "65",

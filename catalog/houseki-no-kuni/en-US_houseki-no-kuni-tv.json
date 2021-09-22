@@ -1,12 +1,16 @@
 {
     "title": "Houseki no Kuni (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/88293.jpg",
+        "alt": "houseki-no-kuni-tv"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "宝石の国",
     "start_date": "2017-10-07",
     "end_date": "2017-10-07",
     "opening_song": "\"Kyoumen no Nami (鏡面の波)\" by YURiKA",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kirameku Hamabe (煌めく浜辺)\" by Yuiko Ohara (eps 2-7, 9-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

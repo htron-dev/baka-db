@@ -1,5 +1,9 @@
 {
     "title": "Elite Banana Banao",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/82042.jpg",
+        "alt": "elite-banana-banao"
+    },
     "type": "ona",
     "episodes": "9",
     "original_name": "エリートバナナ バナ夫",

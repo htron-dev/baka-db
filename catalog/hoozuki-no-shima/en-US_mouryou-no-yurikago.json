@@ -1,5 +1,9 @@
 {
     "title": "Mouryou no Yurikago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179505.jpg",
+        "alt": "mouryou-no-yurikago"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "41",

@@ -1,5 +1,9 @@
 {
     "title": "99% Cacao",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10855.jpg",
+        "alt": "99-cacao"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

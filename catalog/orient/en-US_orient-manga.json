@@ -1,5 +1,9 @@
 {
     "title": "Orient",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210790.jpg",
+        "alt": "orient"
+    },
     "type": "manga",
     "original_name": "オリエント",
     "start_date": "2018-05-30",

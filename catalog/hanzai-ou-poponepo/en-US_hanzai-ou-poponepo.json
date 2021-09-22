@@ -1,5 +1,9 @@
 {
     "title": "Hanzai-ou Poponepo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162261.jpg",
+        "alt": "hanzai-ou-poponepo"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "28",

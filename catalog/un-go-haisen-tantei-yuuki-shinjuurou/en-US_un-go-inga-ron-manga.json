@@ -1,5 +1,9 @@
 {
     "title": "Un-Go: Inga-ron",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166204.jpg",
+        "alt": "un-go-inga-ron"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Teke Teke My Heart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16880.jpg",
+        "alt": "teke-teke-my-heart"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "てけてけマイハート",

@@ -1,5 +1,9 @@
 {
     "title": "M3: Sono Kuroki Hagane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/148117.jpg",
+        "alt": "m-3-sono-kuroki-hagane"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

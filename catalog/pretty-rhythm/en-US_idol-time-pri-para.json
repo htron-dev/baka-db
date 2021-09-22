@@ -1,12 +1,16 @@
 {
     "title": "Idol Time PriPara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/86056.jpg",
+        "alt": "idol-time-pri-para"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "アイドルタイムプリパラ",
     "start_date": "2017-04-04",
     "end_date": "2017-04-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Just be yourself\" by Wa-suta (わーすた) (eps 1-26)",
+    "ending_song": "#1: \"Idol:Time!! (アイドル:タイム!!)\" by Yui & Laala (Arisa Date & Himika Akaneya) (eps 1-13)",
     "rating": "PG - Children",
     "tags": [
         "music",

@@ -1,5 +1,9 @@
 {
     "title": "Flags",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/70883.jpg",
+        "alt": "flags"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

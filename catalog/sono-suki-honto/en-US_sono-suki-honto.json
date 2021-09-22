@@ -1,5 +1,9 @@
 {
     "title": "Sono Suki Honto.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226357.jpg",
+        "alt": "sono-suki-honto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

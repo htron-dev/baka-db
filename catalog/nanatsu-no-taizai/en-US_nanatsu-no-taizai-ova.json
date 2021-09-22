@@ -1,12 +1,16 @@
 {
     "title": "Nanatsu no Taizai OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1973/97505.jpg",
+        "alt": "nanatsu-no-taizai-ova"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "七つの大罪",
     "start_date": "2015-06-17",
     "end_date": "2015-06-17",
     "opening_song": "\"Seven Deadly Sins\" by MAN WITH A MISSION (ep 2)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Season\" by Alisa Takigawa (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_(manga"
+            "link": "http://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_%28manga%29"
         }
     ]
 }

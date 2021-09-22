@@ -1,5 +1,9 @@
 {
     "title": "Kyle's Final Fantasy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31245.jpg",
+        "alt": "kyles-final-fantasy"
+    },
     "type": "manhwa",
     "tags": [
         "action",

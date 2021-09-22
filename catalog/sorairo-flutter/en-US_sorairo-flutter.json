@@ -1,5 +1,9 @@
 {
     "title": "Sorairo Flutter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198401.jpg",
+        "alt": "sorairo-flutter"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

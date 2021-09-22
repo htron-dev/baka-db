@@ -1,5 +1,9 @@
 {
     "title": "Yuki ni Tsubasa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151003.jpg",
+        "alt": "yuki-ni-tsubasa"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "68",

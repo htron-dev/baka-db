@@ -1,5 +1,9 @@
 {
     "title": "Venus ni Seppun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/42028.jpg",
+        "alt": "venus-ni-seppun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

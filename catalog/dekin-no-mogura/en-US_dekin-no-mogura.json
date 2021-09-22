@@ -1,5 +1,9 @@
 {
     "title": "Dekin no Mogura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243220.jpg",
+        "alt": "dekin-no-mogura"
+    },
     "type": "manga",
     "original_name": "出禁のモグラ",
     "start_date": "2021-04-08",

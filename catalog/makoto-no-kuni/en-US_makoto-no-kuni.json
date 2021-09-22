@@ -1,5 +1,9 @@
 {
     "title": "Makoto no Kuni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/128493.jpg",
+        "alt": "makoto-no-kuni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

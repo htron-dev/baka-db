@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no Papa Nante Daikirai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/47815.jpg",
+        "alt": "hello-kitty-no-papa-nante-daikirai"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハローキティのパパなんて大きらい",

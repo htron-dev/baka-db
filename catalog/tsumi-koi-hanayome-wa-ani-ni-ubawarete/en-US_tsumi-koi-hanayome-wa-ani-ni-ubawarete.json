@@ -1,5 +1,9 @@
 {
     "title": "Tsumi Koi: Hanayome wa Ani ni Ubawarete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/182779.jpg",
+        "alt": "tsumi-koi-hanayome-wa-ani-ni-ubawarete"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "15",

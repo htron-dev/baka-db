@@ -1,5 +1,9 @@
 {
     "title": "Beauty!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191405.jpg",
+        "alt": "beauty"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "35",

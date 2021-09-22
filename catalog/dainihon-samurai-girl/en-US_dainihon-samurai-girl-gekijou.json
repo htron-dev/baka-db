@@ -1,5 +1,9 @@
 {
     "title": "Dainihon Samurai Girl Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/116495.jpg",
+        "alt": "dainihon-samurai-girl-gekijou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "29",

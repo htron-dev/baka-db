@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Fantasia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1823/104076.jpg",
+        "alt": "tokyo-fantasia"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "東京ファンタジア",

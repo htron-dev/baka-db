@@ -1,5 +1,9 @@
 {
     "title": "Ningyo Danshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/64893.jpg",
+        "alt": "ningyo-danshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

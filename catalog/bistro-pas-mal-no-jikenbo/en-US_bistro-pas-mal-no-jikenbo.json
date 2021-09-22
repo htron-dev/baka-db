@@ -1,5 +1,9 @@
 {
     "title": "Bistro Pas Mal no Jikenbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163808.jpg",
+        "alt": "bistro-pas-mal-no-jikenbo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

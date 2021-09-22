@@ -1,5 +1,9 @@
 {
     "title": "Tatakae! Osper",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/53299.jpg",
+        "alt": "tatakae-osper"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "戦え! オスパー",

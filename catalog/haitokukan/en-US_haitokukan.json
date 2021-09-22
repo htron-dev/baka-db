@@ -1,5 +1,9 @@
 {
     "title": "Haitokukan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/136927.jpg",
+        "alt": "haitokukan"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "背徳姦",

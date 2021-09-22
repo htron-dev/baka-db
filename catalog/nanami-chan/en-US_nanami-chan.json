@@ -1,5 +1,9 @@
 {
     "title": "Nanami-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/64205.jpg",
+        "alt": "nanami-chan"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ななみちゃん",

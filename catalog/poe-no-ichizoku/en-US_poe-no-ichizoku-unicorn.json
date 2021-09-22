@@ -1,5 +1,9 @@
 {
     "title": "Poe no Ichizoku: Unicorn",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226212.jpg",
+        "alt": "poe-no-ichizoku-unicorn"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

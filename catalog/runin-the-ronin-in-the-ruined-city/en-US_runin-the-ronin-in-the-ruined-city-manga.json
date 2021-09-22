@@ -1,5 +1,9 @@
 {
     "title": "Rūnin: The Ronin in the Ruined City",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157720.jpg",
+        "alt": "runin-the-ronin-in-the-ruined-city"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

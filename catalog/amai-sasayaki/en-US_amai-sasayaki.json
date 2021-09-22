@@ -1,5 +1,9 @@
 {
     "title": "Amai Sasayaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230087.jpg",
+        "alt": "amai-sasayaki"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "甘いささやき",

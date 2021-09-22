@@ -1,5 +1,9 @@
 {
     "title": "Teens Company",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/108053.jpg",
+        "alt": "teens-company"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

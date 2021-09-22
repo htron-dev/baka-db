@@ -1,5 +1,9 @@
 {
     "title": "Melody no Jikenbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228019.jpg",
+        "alt": "melody-no-jikenbo"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

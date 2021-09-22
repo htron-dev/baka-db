@@ -1,5 +1,9 @@
 {
     "title": "Cardcaptor Sakura Extras",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/41655.jpg",
+        "alt": "cardcaptor-sakura-extras"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "カードキャプターさくら",

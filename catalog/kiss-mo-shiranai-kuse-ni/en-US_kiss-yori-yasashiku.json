@@ -1,5 +1,9 @@
 {
     "title": "Kiss yori Yasashiku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247251.jpg",
+        "alt": "kiss-yori-yasashiku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

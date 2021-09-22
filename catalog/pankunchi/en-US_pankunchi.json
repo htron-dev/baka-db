@@ -1,5 +1,9 @@
 {
     "title": "Pankunchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/10524.jpg",
+        "alt": "pankunchi"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "ぱんくんち",

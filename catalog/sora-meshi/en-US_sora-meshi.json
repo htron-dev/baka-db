@@ -1,5 +1,9 @@
 {
     "title": "Sora Meshi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239648.jpg",
+        "alt": "sora-meshi"
+    },
     "type": "manga",
     "original_name": "宇宙めし！",
     "start_date": "2018-11-27",

@@ -1,5 +1,9 @@
 {
     "title": "Fuku-chan no Kishuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/69267.jpg",
+        "alt": "fuku-chan-no-kishuu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "フクちゃんの奇襲",

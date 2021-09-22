@@ -1,11 +1,15 @@
 {
     "title": "Arakawa Under the Bridge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/59197.jpg",
+        "alt": "arakawa-under-the-bridge"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "荒川アンダー ザ ブリッジ",
     "start_date": "2010-04-05",
     "end_date": "2010-04-05",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Venus to Jesus (ヴィーナスとジーザス)\" by Etsuko Yakushimaru (eps 2-4, 6-13)",
     "ending_song": "\"Sakasama Bridge (逆様ブリッジ)\" by Suneohair",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

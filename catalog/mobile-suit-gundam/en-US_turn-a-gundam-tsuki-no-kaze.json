@@ -1,9 +1,13 @@
 {
     "title": "Turn A Gundam: Tsuki no Kaze",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/73895.jpg",
+        "alt": "turn-a-gundam-tsuki-no-kaze"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",
-    "original_name": "∀ ガンダム",
+    "original_name": "∀ ガンダム: 月の風",
     "start_date": "2004-03-20",
     "end_date": "2004-03-20",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Naisho no Toguro-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180326.jpg",
+        "alt": "naisho-no-toguro-san"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

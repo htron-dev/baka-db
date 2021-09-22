@@ -1,5 +1,9 @@
 {
     "title": "Sayonara Zetsubou Sensei Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/75518.jpg",
+        "alt": "sayonara-zetsubou-sensei-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "さよなら絶望先生",

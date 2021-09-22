@@ -1,5 +1,9 @@
 {
     "title": "Sekirara Love Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/34369.jpg",
+        "alt": "sekirara-love-life"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

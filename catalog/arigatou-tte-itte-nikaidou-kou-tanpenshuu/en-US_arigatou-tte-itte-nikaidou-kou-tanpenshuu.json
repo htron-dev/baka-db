@@ -1,5 +1,9 @@
 {
     "title": "Arigatou tte Itte: Nikaidou Kou Tanpenshuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239723.jpg",
+        "alt": "arigatou-tte-itte-nikaidou-kou-tanpenshuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

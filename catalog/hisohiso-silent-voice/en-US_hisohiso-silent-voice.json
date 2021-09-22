@@ -1,5 +1,9 @@
 {
     "title": "Hisohiso: Silent Voice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151008.jpg",
+        "alt": "hisohiso-silent-voice"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "35",

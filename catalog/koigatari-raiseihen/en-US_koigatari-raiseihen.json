@@ -1,5 +1,9 @@
 {
     "title": "Koigatari Raiseihen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/27092.jpg",
+        "alt": "koigatari-raiseihen"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

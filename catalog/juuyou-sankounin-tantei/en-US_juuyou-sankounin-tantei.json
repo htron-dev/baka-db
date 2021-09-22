@@ -1,5 +1,9 @@
 {
     "title": "Juuyou Sankounin Tantei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/199611.jpg",
+        "alt": "juuyou-sankounin-tantei"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "41",

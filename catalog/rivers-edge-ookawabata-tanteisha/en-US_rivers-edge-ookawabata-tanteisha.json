@@ -1,5 +1,9 @@
 {
     "title": "River's Edge Ookawabata Tanteisha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171831.jpg",
+        "alt": "rivers-edge-ookawabata-tanteisha"
+    },
     "type": "manga",
     "original_name": "リバースエッジ 大川端探偵社",
     "start_date": "2007-12-21",

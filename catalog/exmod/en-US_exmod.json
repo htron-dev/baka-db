@@ -1,5 +1,9 @@
 {
     "title": "Exmod",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189784.jpg",
+        "alt": "exmod"
+    },
     "type": "light-novel",
     "original_name": "EXMOD",
     "start_date": "2017-01-18",

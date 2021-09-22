@@ -1,5 +1,9 @@
 {
     "title": "Kyou kara Mirai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/234728.jpg",
+        "alt": "kyou-kara-mirai"
+    },
     "type": "manga",
     "original_name": "今日から未来",
     "start_date": "2019-10-18",

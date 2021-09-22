@@ -1,5 +1,9 @@
 {
     "title": "Fuusui Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163251.jpg",
+        "alt": "fuusui-shoujo"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "22",

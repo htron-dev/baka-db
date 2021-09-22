@@ -1,5 +1,9 @@
 {
     "title": "Shin Megami Tensei IV: Prayers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/126217.jpg",
+        "alt": "shin-megami-tensei-iv-prayers"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

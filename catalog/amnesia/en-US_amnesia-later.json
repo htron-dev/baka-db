@@ -1,5 +1,9 @@
 {
     "title": "Amnesia Later",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/95285.jpg",
+        "alt": "amnesia-later"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

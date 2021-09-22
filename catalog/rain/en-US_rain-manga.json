@@ -1,5 +1,9 @@
 {
     "title": "Rain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25899.jpg",
+        "alt": "rain"
+    },
     "type": "manga",
     "original_name": "レイン",
     "start_date": "2008-11-29",

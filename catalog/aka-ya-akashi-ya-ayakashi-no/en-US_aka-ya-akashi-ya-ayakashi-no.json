@@ -1,5 +1,9 @@
 {
     "title": "Aka ya Akashi ya Ayakashi no",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/71163.jpg",
+        "alt": "aka-ya-akashi-ya-ayakashi-no"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "55",

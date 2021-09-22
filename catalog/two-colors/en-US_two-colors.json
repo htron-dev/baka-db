@@ -1,5 +1,9 @@
 {
     "title": "Two Colors",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/64731.jpg",
+        "alt": "two-colors"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "two colors",

@@ -1,5 +1,9 @@
 {
     "title": "Mask: Kamen no Jouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/13976.jpg",
+        "alt": "mask-kamen-no-jouji"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

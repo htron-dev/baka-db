@@ -1,12 +1,16 @@
 {
     "title": "Narue no Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/19048.jpg",
+        "alt": "narue-no-sekai"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "成恵の世界",
     "start_date": "2003-04-05",
     "end_date": "2003-04-05",
     "opening_song": "\"Nagareboshi☆ (流れ星 ☆)\" by CooRie",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Ice Cream\" by Saeko Chiba",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

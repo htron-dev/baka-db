@@ -1,5 +1,9 @@
 {
     "title": "Reporter Blues",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/15337.jpg",
+        "alt": "reporter-blues"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "レポーターブルース",

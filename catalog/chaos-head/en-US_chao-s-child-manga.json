@@ -1,5 +1,9 @@
 {
     "title": "ChäoS;Child",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/208063.jpg",
+        "alt": "chao-s-child"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "26",

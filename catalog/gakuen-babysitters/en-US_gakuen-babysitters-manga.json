@@ -1,5 +1,9 @@
 {
     "title": "Gakuen Babysitters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161858.jpg",
+        "alt": "gakuen-babysitters"
+    },
     "type": "manga",
     "original_name": "学園ベビーシッターズ",
     "start_date": "2009-09-24",

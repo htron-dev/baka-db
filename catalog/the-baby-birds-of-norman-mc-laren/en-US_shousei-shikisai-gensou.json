@@ -1,5 +1,9 @@
 {
     "title": "Shousei Shikisai Gensou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/70655.jpg",
+        "alt": "shousei-shikisai-gensou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "鐘声色彩幻想",

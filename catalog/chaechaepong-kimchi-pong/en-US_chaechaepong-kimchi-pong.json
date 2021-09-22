@@ -1,5 +1,9 @@
 {
     "title": "Chaechaepong Kimchi Pong",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1529/92094.jpg",
+        "alt": "chaechaepong-kimchi-pong"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "채채퐁 김치퐁",
@@ -18,7 +22,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ko.wikipedia.org/wiki/채채퐁_김치퐁#각_화_제목(방영_일자"
+            "link": "https://ko.wikipedia.org/wiki/채채퐁_김치퐁#각_화_제목%28방영_일자%29"
         }
     ]
 }

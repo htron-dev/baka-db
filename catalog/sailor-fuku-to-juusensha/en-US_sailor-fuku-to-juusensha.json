@@ -1,5 +1,9 @@
 {
     "title": "Sailor Fuku to Juusensha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/96517.jpg",
+        "alt": "sailor-fuku-to-juusensha"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "42",

@@ -1,5 +1,9 @@
 {
     "title": "Ao no Honoo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/129113.jpg",
+        "alt": "ao-no-honoo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

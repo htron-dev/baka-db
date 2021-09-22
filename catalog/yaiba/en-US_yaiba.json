@@ -1,5 +1,9 @@
 {
     "title": "Yaiba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/9646.jpg",
+        "alt": "yaiba"
+    },
     "type": "manga",
     "volumes": "24",
     "chapters": "255",

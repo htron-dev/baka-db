@@ -1,5 +1,9 @@
 {
     "title": "Shiguang Guiyu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1836/112310.jpg",
+        "alt": "shiguang-guiyu"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "时光诡域",

@@ -1,5 +1,9 @@
 {
     "title": "Tonde Hi ni Iru Natsu no Neko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192811.jpg",
+        "alt": "tonde-hi-ni-iru-natsu-no-neko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Nakanaide Mister",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/124389.jpg",
+        "alt": "nakanaide-mister"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "泣かないでミスター",

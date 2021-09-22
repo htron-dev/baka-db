@@ -1,5 +1,9 @@
 {
     "title": "Tropical-Rouge! Precure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/242997.jpg",
+        "alt": "tropical-rouge-precure"
+    },
     "type": "manga",
     "original_name": "トロピカル～ジュ！プリキュア",
     "start_date": "2021-02-03",

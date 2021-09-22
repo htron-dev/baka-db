@@ -1,5 +1,9 @@
 {
     "title": "Ginga: The First Wars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226972.jpg",
+        "alt": "ginga-the-first-wars"
+    },
     "type": "manga",
     "original_name": "ぎんが〜THE FIRST WARS〜",
     "start_date": "2017-10-10",

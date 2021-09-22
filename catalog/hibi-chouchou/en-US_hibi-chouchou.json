@@ -1,5 +1,9 @@
 {
     "title": "Hibi Chouchou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156837.jpg",
+        "alt": "hibi-chouchou"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "83",

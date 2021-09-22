@@ -1,5 +1,9 @@
 {
     "title": "Comic Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172062.jpg",
+        "alt": "comic-girls"
+    },
     "type": "manga",
     "original_name": "こみっくがーるず",
     "start_date": "2014-03-19",

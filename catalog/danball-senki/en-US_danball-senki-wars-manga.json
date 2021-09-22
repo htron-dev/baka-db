@@ -1,5 +1,9 @@
 {
     "title": "Danball Senki Wars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/169025.jpg",
+        "alt": "danball-senki-wars"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

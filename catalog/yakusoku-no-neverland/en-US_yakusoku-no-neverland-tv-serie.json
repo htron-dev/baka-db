@@ -1,12 +1,16 @@
 {
     "title": "Yakusoku no Neverland",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1125/96929.jpg",
+        "alt": "yakusoku-no-neverland"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "約束のネバーランド",
     "start_date": "2019-01-10",
     "end_date": "2019-01-10",
     "opening_song": "\"Touch Off\" by UVERworld",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Zettai Zetsumei (絶対絶命)\" by Cö shu Nie (eps 1-8)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "sci-fi",

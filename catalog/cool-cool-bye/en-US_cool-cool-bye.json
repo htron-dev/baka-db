@@ -1,5 +1,9 @@
 {
     "title": "Cool Cool Bye",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/54531.jpg",
+        "alt": "cool-cool-bye"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "クール・クール・バイ",

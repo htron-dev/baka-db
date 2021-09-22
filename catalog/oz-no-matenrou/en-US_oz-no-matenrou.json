@@ -1,5 +1,9 @@
 {
     "title": "Oz no Matenrou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/1556.jpg",
+        "alt": "oz-no-matenrou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

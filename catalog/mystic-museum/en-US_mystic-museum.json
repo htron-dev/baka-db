@@ -1,5 +1,9 @@
 {
     "title": "Mystic Museum",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/132121.jpg",
+        "alt": "mystic-museum"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "ミスティック・ミュージアム",

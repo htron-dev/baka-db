@@ -1,5 +1,9 @@
 {
     "title": "Babel Nisei (OVA)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1467/100245.jpg",
+        "alt": "babel-nisei-ova"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "バビル２世",

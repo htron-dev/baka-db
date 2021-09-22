@@ -1,5 +1,9 @@
 {
     "title": "Juugatsuzakura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175952.jpg",
+        "alt": "juugatsuzakura"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

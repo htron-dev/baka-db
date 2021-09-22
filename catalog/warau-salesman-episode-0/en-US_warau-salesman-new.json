@@ -1,5 +1,9 @@
 {
     "title": "Warau Salesman New",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/85132.jpg",
+        "alt": "warau-salesman-new"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "笑ゥせぇるすまん NEW",

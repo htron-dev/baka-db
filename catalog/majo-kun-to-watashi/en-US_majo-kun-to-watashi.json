@@ -1,5 +1,9 @@
 {
     "title": "Majo-kun to Watashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190030.jpg",
+        "alt": "majo-kun-to-watashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

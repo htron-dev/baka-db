@@ -1,5 +1,9 @@
 {
     "title": "Hwasan Golae",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/83639.jpg",
+        "alt": "hwasan-golae"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "화산고래",

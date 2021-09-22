@@ -1,5 +1,9 @@
 {
     "title": "Kuro no Souzou Shoukanshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187264.jpg",
+        "alt": "kuro-no-souzou-shoukanshi"
+    },
     "type": "light-novel",
     "original_name": "黒の創造召喚師",
     "start_date": "2015-01-23",

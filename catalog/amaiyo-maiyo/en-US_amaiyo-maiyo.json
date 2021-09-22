@@ -1,5 +1,9 @@
 {
     "title": "Amaiyo Maiyo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2448.jpg",
+        "alt": "amaiyo-maiyo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

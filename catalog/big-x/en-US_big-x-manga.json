@@ -1,5 +1,9 @@
 {
     "title": "Big X",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36122.jpg",
+        "alt": "big-x"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

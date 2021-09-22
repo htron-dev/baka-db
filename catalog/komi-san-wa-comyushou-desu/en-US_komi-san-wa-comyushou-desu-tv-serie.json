@@ -1,5 +1,9 @@
 {
     "title": "Komi-san wa, Comyushou desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1899/117237.jpg",
+        "alt": "komi-san-wa-comyushou-desu"
+    },
     "type": "tv-serie",
     "original_name": "古見さんは、コミュ症です。",
     "start_date": "2021-10-20",

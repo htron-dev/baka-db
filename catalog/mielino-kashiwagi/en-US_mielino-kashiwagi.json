@@ -1,5 +1,9 @@
 {
     "title": "Mielino Kashiwagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/95069.jpg",
+        "alt": "mielino-kashiwagi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "22",

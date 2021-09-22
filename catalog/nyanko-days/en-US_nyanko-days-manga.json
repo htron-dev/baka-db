@@ -1,5 +1,9 @@
 {
     "title": "Nyanko Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/184002.jpg",
+        "alt": "nyanko-days"
+    },
     "type": "manga",
     "original_name": "にゃんこデイズ",
     "start_date": "2014-08-27",

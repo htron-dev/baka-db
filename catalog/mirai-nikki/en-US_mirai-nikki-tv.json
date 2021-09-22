@@ -1,12 +1,16 @@
 {
     "title": "Mirai Nikki (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/33465.jpg",
+        "alt": "mirai-nikki-tv"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "未来日記",
     "start_date": "2011-10-09",
     "end_date": "2011-10-09",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kuusou Mesorogiwi (空想メソロギヰ)\" by Yousei Teikoku (eps 2-14)",
+    "ending_song": "#1: \"Blood Teller\" by Faylan (eps 1-14)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

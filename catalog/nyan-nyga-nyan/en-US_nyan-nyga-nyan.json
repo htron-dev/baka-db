@@ -1,5 +1,9 @@
 {
     "title": "Nyan Nyga Nyan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/23307.jpg",
+        "alt": "nyan-nyga-nyan"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "にゃんにゃがにゃん",

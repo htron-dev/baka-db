@@ -1,5 +1,9 @@
 {
     "title": "Otoko no Ko Comic Anthology: Koakuma-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151940.jpg",
+        "alt": "otoko-no-ko-comic-anthology-koakuma-hen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

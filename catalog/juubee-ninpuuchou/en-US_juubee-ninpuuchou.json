@@ -1,5 +1,9 @@
 {
     "title": "Juubee Ninpuuchou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/66727.jpg",
+        "alt": "juubee-ninpuuchou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "獣兵衛忍風帖",

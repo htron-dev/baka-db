@@ -1,5 +1,9 @@
 {
     "title": "LaLaLa, Brothers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1320/114931.jpg",
+        "alt": "la-la-la-brothers"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "LaLaLa, BROTHERS",

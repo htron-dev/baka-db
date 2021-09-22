@@ -1,5 +1,9 @@
 {
     "title": "Munasawagi Karute",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/10357.jpg",
+        "alt": "munasawagi-karute"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

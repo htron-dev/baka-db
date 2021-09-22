@@ -1,5 +1,9 @@
 {
     "title": "Harapeko Usagi to Koisuru Ookami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171572.jpg",
+        "alt": "harapeko-usagi-to-koisuru-ookami"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

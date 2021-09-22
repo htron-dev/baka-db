@@ -1,5 +1,9 @@
 {
     "title": "5-toubun no Hanayome Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1946/114481.jpg",
+        "alt": "5-toubun-no-hanayome-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "映画 五等分の花嫁",

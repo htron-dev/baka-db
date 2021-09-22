@@ -1,12 +1,16 @@
 {
     "title": "Ninja Slayer From Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/72362.jpg",
+        "alt": "ninja-slayer-from-animation"
+    },
     "type": "ona",
     "episodes": "26",
     "original_name": "ニンジャスレイヤー フロムアニメイシヨン",
     "start_date": "2015-04-16",
     "end_date": "2015-04-16",
     "opening_song": "\"BACK IN BLACK\" by BOOM BOOM SATELLITES",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Kilmister (キルミスター)\" by Boris (ep 1, 26)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action"

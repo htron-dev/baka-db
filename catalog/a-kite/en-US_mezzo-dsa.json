@@ -1,5 +1,9 @@
 {
     "title": "Mezzo DSA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/3235.jpg",
+        "alt": "mezzo-dsa"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "メゾ",

@@ -1,5 +1,9 @@
 {
     "title": "Angel Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/27104.jpg",
+        "alt": "angel-densetsu"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "エンジェル伝説",

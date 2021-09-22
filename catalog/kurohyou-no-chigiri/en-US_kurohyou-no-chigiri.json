@@ -1,5 +1,9 @@
 {
     "title": "Kurohyou no Chigiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167559.jpg",
+        "alt": "kurohyou-no-chigiri"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "黒豹の契り",

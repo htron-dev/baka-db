@@ -1,5 +1,9 @@
 {
     "title": "Itou Junji: Collection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/88366.jpg",
+        "alt": "itou-junji-collection"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "伊藤潤二「コレクション」",

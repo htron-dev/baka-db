@@ -1,5 +1,9 @@
 {
     "title": "Matsuko-san Chi no Kiwame-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225662.jpg",
+        "alt": "matsuko-san-chi-no-kiwame-kun"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

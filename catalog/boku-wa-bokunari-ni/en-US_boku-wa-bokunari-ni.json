@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Bokunari ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16753.jpg",
+        "alt": "boku-wa-bokunari-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Bokutachi wa Hanshoku wo Yameta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/241987.jpg",
+        "alt": "bokutachi-wa-hanshoku-wo-yameta"
+    },
     "type": "manga",
     "original_name": "僕たちは繁殖をやめた",
     "start_date": "2020-12-06",

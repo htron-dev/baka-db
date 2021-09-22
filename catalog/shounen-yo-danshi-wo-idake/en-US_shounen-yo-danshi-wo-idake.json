@@ -1,5 +1,9 @@
 {
     "title": "Shounen yo Danshi wo Idake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/23409.jpg",
+        "alt": "shounen-yo-danshi-wo-idake"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

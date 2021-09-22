@@ -1,5 +1,9 @@
 {
     "title": "Ibaramichi no Eijuutan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193294.jpg",
+        "alt": "ibaramichi-no-eijuutan"
+    },
     "type": "light-novel",
     "original_name": "棘道の英獣譚",
     "start_date": "2017-03-24",

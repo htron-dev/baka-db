@@ -1,5 +1,9 @@
 {
     "title": "Hidan no Aria AA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/211087.jpg",
+        "alt": "hidan-no-aria-aa"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "109",

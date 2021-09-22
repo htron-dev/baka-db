@@ -1,5 +1,9 @@
 {
     "title": "Koharu Biyori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/240634.jpg",
+        "alt": "koharu-biyori"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "小春びより",

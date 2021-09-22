@@ -1,5 +1,9 @@
 {
     "title": "Saint October",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/20392.jpg",
+        "alt": "saint-october"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

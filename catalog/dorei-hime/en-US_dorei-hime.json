@@ -1,5 +1,9 @@
 {
     "title": "Dorei Hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/209983.jpg",
+        "alt": "dorei-hime"
+    },
     "type": "manga",
     "original_name": "奴隷姫",
     "start_date": "2017-12-26",

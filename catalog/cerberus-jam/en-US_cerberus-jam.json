@@ -1,5 +1,9 @@
 {
     "title": "Cerberus Jam",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/59585.jpg",
+        "alt": "cerberus-jam"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Doukyuusei H kara Hajimaru Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7761.jpg",
+        "alt": "doukyuusei-h-kara-hajimaru-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

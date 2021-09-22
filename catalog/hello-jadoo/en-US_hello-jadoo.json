@@ -1,5 +1,9 @@
 {
     "title": "Hello Jadoo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/86812.jpg",
+        "alt": "hello-jadoo"
+    },
     "type": "tv-serie",
     "episodes": "122",
     "start_date": "2011-07-18",

@@ -1,5 +1,9 @@
 {
     "title": "H-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/25089.jpg",
+        "alt": "h-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "H くん",

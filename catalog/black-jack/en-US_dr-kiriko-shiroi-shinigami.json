@@ -1,5 +1,9 @@
 {
     "title": "Dr. Kiriko: Shiroi Shinigami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203810.jpg",
+        "alt": "dr-kiriko-shiroi-shinigami"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "31",

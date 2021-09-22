@@ -1,5 +1,9 @@
 {
     "title": "Tenjouhen: Utsunomiko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/12812.jpg",
+        "alt": "tenjouhen-utsunomiko"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "天上編・宇宙皇子",

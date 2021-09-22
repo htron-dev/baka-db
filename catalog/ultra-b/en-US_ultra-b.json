@@ -1,5 +1,9 @@
 {
     "title": "Ultra B",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/28227.jpg",
+        "alt": "ultra-b"
+    },
     "type": "tv-serie",
     "episodes": "119",
     "original_name": "ウルトラ B",

@@ -1,5 +1,9 @@
 {
     "title": "Acchi to Kocchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/64301.jpg",
+        "alt": "acchi-to-kocchi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

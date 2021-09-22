@@ -1,5 +1,9 @@
 {
     "title": "Yukibana no Tora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163505.jpg",
+        "alt": "yukibana-no-tora"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "80",

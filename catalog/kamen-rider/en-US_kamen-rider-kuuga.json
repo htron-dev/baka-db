@@ -1,5 +1,9 @@
 {
     "title": "Kamen Rider Kuuga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160550.jpg",
+        "alt": "kamen-rider-kuuga"
+    },
     "type": "manga",
     "original_name": "仮面ライダークウガ",
     "start_date": "2014-11-01",

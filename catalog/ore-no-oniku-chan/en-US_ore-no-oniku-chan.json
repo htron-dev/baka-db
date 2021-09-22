@@ -1,5 +1,9 @@
 {
     "title": "Ore no Oniku-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223685.jpg",
+        "alt": "ore-no-oniku-chan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

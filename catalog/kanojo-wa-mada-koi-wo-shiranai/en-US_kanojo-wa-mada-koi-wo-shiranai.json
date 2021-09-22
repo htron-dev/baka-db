@@ -1,5 +1,9 @@
 {
     "title": "Kanojo wa Mada Koi wo Shiranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/135041.jpg",
+        "alt": "kanojo-wa-mada-koi-wo-shiranai"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "14",

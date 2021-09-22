@@ -1,5 +1,9 @@
 {
     "title": "Otome x Ranbu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/88283.jpg",
+        "alt": "otome-x-ranbu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

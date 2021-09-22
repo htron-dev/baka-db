@@ -1,5 +1,9 @@
 {
     "title": "Akira to Hiyori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166341.jpg",
+        "alt": "akira-to-hiyori"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

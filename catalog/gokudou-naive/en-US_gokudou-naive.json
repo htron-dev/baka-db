@@ -1,5 +1,9 @@
 {
     "title": "Gokudou Naive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/232322.jpg",
+        "alt": "gokudou-naive"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

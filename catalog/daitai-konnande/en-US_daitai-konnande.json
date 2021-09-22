@@ -1,5 +1,9 @@
 {
     "title": "Daitai Konnande?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160171.jpg",
+        "alt": "daitai-konnande"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "26",

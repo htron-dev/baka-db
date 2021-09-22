@@ -1,5 +1,9 @@
 {
     "title": "Ten no Ketsumyaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166229.jpg",
+        "alt": "ten-no-ketsumyaku"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "50",

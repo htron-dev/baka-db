@@ -1,5 +1,9 @@
 {
     "title": "Utsukushiki Kemono-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/73507.jpg",
+        "alt": "utsukushiki-kemono-tachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

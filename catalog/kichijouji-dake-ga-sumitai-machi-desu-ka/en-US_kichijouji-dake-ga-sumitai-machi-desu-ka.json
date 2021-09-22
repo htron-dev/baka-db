@@ -1,5 +1,9 @@
 {
     "title": "Kichijouji dake ga Sumitai Machi desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189242.jpg",
+        "alt": "kichijouji-dake-ga-sumitai-machi-desu-ka"
+    },
     "type": "manga",
     "original_name": "吉祥寺だけが住みたい街ですか？",
     "start_date": "2015-03-06",

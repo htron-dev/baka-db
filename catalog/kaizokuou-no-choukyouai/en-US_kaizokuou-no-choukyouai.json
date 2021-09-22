@@ -1,5 +1,9 @@
 {
     "title": "Kaizokuou no Choukyouai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/183063.jpg",
+        "alt": "kaizokuou-no-choukyouai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "11",

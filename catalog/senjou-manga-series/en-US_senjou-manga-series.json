@@ -1,5 +1,9 @@
 {
     "title": "Senjou Manga Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/248298.jpg",
+        "alt": "senjou-manga-series"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "53",

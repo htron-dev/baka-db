@@ -1,5 +1,9 @@
 {
     "title": "Kiiroi Isu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/122355.jpg",
+        "alt": "kiiroi-isu"
+    },
     "type": "manga",
     "chapters": "8",
     "original_name": "黄色いイス",

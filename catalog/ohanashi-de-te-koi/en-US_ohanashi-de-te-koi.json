@@ -1,5 +1,9 @@
 {
     "title": "Ohanashi de Te Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/84592.jpg",
+        "alt": "ohanashi-de-te-koi"
+    },
     "type": "ova",
     "episodes": "5",
     "original_name": "お話でてこい",

@@ -1,5 +1,9 @@
 {
     "title": "Sakuran Boy DT",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/12176.jpg",
+        "alt": "sakuran-boy-dt"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "さくらん BOY DT",

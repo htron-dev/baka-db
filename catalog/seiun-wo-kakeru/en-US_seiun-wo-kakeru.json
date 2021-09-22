@@ -1,5 +1,9 @@
 {
     "title": "Seiun wo Kakeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/199710.jpg",
+        "alt": "seiun-wo-kakeru"
+    },
     "type": "light-novel",
     "original_name": "青雲を駆ける",
     "start_date": "2014-11-29",

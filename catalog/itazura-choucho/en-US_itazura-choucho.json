@@ -1,5 +1,9 @@
 {
     "title": "Itazura Choucho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/129025.jpg",
+        "alt": "itazura-choucho"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

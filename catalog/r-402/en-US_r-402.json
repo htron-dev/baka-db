@@ -1,5 +1,9 @@
 {
     "title": "R402",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222901.jpg",
+        "alt": "r-402"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

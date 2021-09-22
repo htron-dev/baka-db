@@ -1,5 +1,9 @@
 {
     "title": "Kurenai Ouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195744.jpg",
+        "alt": "kurenai-ouji"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "98",

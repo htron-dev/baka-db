@@ -1,12 +1,16 @@
 {
     "title": "Itoshi no Muco",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/76473.jpg",
+        "alt": "itoshi-no-muco"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "いとしのムーコ",
     "start_date": "2015-10-03",
     "end_date": "2015-10-03",
     "opening_song": "\"SUKI!SUKI!SUKI!\" by Muco (Hitomi Yoshida)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Basyauma Rock\" by Team Syachihoko",
     "rating": "PG - Children",
     "tags": [
         "slice-of-life",

@@ -1,5 +1,9 @@
 {
     "title": "Messiah no Tettsui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/230654.jpg",
+        "alt": "messiah-no-tettsui"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "メシアの鉄槌",

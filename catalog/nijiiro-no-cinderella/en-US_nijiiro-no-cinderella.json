@@ -1,5 +1,9 @@
 {
     "title": "Nijiiro no Cinderella",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/59279.jpg",
+        "alt": "nijiiro-no-cinderella"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

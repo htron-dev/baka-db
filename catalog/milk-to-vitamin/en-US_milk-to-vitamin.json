@@ -1,5 +1,9 @@
 {
     "title": "Milk to Vitamin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/3843.jpg",
+        "alt": "milk-to-vitamin"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Chibinacs 2.0",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/77793.jpg",
+        "alt": "chibinacs-2-0"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "チビナックス 2.0",

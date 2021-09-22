@@ -1,5 +1,9 @@
 {
     "title": "Milky Magic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11884.jpg",
+        "alt": "milky-magic"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "Milky まじっく",

@@ -1,5 +1,9 @@
 {
     "title": "Nara Shikatanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226506.jpg",
+        "alt": "nara-shikatanashi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "52",

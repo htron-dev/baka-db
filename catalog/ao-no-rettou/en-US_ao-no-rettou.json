@@ -1,5 +1,9 @@
 {
     "title": "Ao no Rettou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181149.jpg",
+        "alt": "ao-no-rettou"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "青の列島",

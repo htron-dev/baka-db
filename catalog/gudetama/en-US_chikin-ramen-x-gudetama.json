@@ -1,5 +1,9 @@
 {
     "title": "Chikin Ramen x Gudetama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1309/100393.jpg",
+        "alt": "chikin-ramen-x-gudetama"
+    },
     "type": "ona",
     "original_name": "チキンラーメン × ぐでたま",
     "start_date": "2019-03-31",

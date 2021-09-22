@@ -1,5 +1,9 @@
 {
     "title": "Tokkou Sayaka Bucchigiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24592.jpg",
+        "alt": "tokkou-sayaka-bucchigiri"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

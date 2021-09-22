@@ -1,5 +1,9 @@
 {
     "title": "Houkago no Alchemist",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221757.jpg",
+        "alt": "houkago-no-alchemist"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

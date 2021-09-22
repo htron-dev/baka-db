@@ -1,5 +1,9 @@
 {
     "title": "News Parade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241442.jpg",
+        "alt": "news-parade"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

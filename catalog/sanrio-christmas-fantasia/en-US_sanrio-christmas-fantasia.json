@@ -1,5 +1,9 @@
 {
     "title": "Sanrio Christmas Fantasia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/70989.jpg",
+        "alt": "sanrio-christmas-fantasia"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "サンリオ・クリスマス・ファンタジア",

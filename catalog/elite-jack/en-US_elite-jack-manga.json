@@ -1,5 +1,9 @@
 {
     "title": "Elite Jack!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159705.jpg",
+        "alt": "elite-jack"
+    },
     "type": "manga",
     "original_name": "エリートジャック!!",
     "start_date": "2012-08-03",

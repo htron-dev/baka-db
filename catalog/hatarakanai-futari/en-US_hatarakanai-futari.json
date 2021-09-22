@@ -1,5 +1,9 @@
 {
     "title": "Hatarakanai Futari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188796.jpg",
+        "alt": "hatarakanai-futari"
+    },
     "type": "manga",
     "original_name": "働かないふたり",
     "start_date": "2013-12-20",

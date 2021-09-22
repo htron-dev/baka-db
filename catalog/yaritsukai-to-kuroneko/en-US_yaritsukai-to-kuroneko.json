@@ -1,5 +1,9 @@
 {
     "title": "Yaritsukai to, Kuroneko.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192390.jpg",
+        "alt": "yaritsukai-to-kuroneko"
+    },
     "type": "light-novel",
     "original_name": "槍使いと、黒猫。",
     "start_date": "2017-02-22",

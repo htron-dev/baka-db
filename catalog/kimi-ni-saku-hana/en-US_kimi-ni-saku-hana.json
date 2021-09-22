@@ -1,5 +1,9 @@
 {
     "title": "Kimi ni Saku Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/63045.jpg",
+        "alt": "kimi-ni-saku-hana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

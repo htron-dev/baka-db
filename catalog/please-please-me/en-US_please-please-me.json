@@ -1,5 +1,9 @@
 {
     "title": "Please, Please Me",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/182658.jpg",
+        "alt": "please-please-me"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "39",

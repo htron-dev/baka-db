@@ -1,5 +1,9 @@
 {
     "title": "Tenshi kamo Shirenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/184157.jpg",
+        "alt": "tenshi-kamo-shirenai"
+    },
     "type": "manga",
     "original_name": "天使かもしれない",
     "start_date": "2016-04-15",

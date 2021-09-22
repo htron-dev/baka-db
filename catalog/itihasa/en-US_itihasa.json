@@ -1,5 +1,9 @@
 {
     "title": "Itihasa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177594.jpg",
+        "alt": "itihasa"
+    },
     "type": "manga",
     "volumes": "15",
     "original_name": "イティハーサ",

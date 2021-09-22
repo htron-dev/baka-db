@@ -1,5 +1,9 @@
 {
     "title": "Lovephobia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36579.jpg",
+        "alt": "lovephobia"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

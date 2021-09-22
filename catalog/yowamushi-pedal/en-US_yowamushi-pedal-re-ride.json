@@ -1,8 +1,12 @@
 {
     "title": "Yowamushi Pedal: Re:RIDE",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/86876.jpg",
+        "alt": "yowamushi-pedal-re-ride"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "弱虫ペダル Re",
+    "original_name": "弱虫ペダル Re:RIDE",
     "start_date": "2014-09-19",
     "opening_song": "\"Reclimb (リクライム)\" by ROOKiEZ is PUNK'D",
     "ending_song": "\"Days\" by LASTGASP",

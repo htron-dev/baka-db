@@ -1,5 +1,9 @@
 {
     "title": "Kaze no Klonoa: 4-koma Manga Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/126935.jpg",
+        "alt": "kaze-no-klonoa-4-koma-manga-gekijou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "17",

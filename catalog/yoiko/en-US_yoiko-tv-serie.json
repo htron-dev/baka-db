@@ -1,5 +1,9 @@
 {
     "title": "Yoiko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/47727.jpg",
+        "alt": "yoiko"
+    },
     "type": "tv-serie",
     "episodes": "20",
     "original_name": "よいこ",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Yoiko_(manga"
+            "link": "http://en.wikipedia.org/wiki/Yoiko_%28manga%29"
         }
     ]
 }

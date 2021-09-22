@@ -1,5 +1,9 @@
 {
     "title": "Ark/Blood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/122377.jpg",
+        "alt": "ark-blood"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "アーク・ブラッド",

@@ -1,5 +1,9 @@
 {
     "title": "Suizoku Company!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/197774.jpg",
+        "alt": "suizoku-company"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

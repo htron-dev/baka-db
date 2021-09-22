@@ -1,5 +1,9 @@
 {
     "title": "MAPS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/4264.jpg",
+        "alt": "maps"
+    },
     "type": "manga",
     "volumes": "17",
     "tags": [

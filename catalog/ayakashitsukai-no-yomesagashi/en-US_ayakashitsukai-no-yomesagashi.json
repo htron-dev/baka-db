@@ -1,5 +1,9 @@
 {
     "title": "Ayakashitsukai no Yomesagashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/221972.jpg",
+        "alt": "ayakashitsukai-no-yomesagashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

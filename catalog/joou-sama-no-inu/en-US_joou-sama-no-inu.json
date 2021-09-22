@@ -1,5 +1,9 @@
 {
     "title": "Joou-sama no Inu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/129849.jpg",
+        "alt": "joou-sama-no-inu"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "46",

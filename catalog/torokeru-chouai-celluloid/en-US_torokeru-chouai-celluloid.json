@@ -1,5 +1,9 @@
 {
     "title": "Torokeru Chouai Celluloid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237929.jpg",
+        "alt": "torokeru-chouai-celluloid"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Kamen no Ninja Akakage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1969/96438.jpg",
+        "alt": "kamen-no-ninja-akakage"
+    },
     "type": "tv-serie",
     "episodes": "23",
     "original_name": "仮面の忍者赤影",

@@ -1,5 +1,9 @@
 {
     "title": "Himekishi ga Classmate! The Comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188903.jpg",
+        "alt": "himekishi-ga-classmate-the-comic"
+    },
     "type": "manga",
     "original_name": "姫騎士がクラスメート！ THE COMIC",
     "start_date": "2015-05-01",

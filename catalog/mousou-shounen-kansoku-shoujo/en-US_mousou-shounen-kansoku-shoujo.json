@@ -1,5 +1,9 @@
 {
     "title": "Mousou Shounen Kansoku Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/134811.jpg",
+        "alt": "mousou-shounen-kansoku-shoujo"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

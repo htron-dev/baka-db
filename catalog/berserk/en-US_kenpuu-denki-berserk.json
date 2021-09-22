@@ -1,5 +1,9 @@
 {
     "title": "Kenpuu Denki Berserk",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/18520.jpg",
+        "alt": "kenpuu-denki-berserk"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "剣風伝奇ベルセルク",

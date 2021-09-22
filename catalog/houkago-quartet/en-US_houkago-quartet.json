@@ -1,5 +1,9 @@
 {
     "title": "Houkago Quartet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163474.jpg",
+        "alt": "houkago-quartet"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "放課後四重奏〈カルテット〉",

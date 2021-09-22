@@ -1,5 +1,9 @@
 {
     "title": "Itoshi no Dorei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5935.jpg",
+        "alt": "itoshi-no-dorei"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "愛しのド・レ・イ",

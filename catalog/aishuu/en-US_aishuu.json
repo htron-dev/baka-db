@@ -1,5 +1,9 @@
 {
     "title": "Aishuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/13340.jpg",
+        "alt": "aishuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

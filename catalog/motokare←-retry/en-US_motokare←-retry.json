@@ -1,5 +1,9 @@
 {
     "title": "Motokare←Retry",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161182.jpg",
+        "alt": "motokare←-retry"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "34",

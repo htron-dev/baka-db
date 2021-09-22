@@ -1,5 +1,9 @@
 {
     "title": "Naitemo Yurushite Agenai yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/77229.jpg",
+        "alt": "naitemo-yurushite-agenai-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

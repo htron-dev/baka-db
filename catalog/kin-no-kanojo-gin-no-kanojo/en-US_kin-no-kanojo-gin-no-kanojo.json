@@ -1,5 +1,9 @@
 {
     "title": "Kin no Kanojo Gin no Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188968.jpg",
+        "alt": "kin-no-kanojo-gin-no-kanojo"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "50",

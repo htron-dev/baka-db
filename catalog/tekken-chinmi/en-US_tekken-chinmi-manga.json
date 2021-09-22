@@ -1,5 +1,9 @@
 {
     "title": "Tekken Chinmi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/155897.jpg",
+        "alt": "tekken-chinmi"
+    },
     "type": "manga",
     "volumes": "35",
     "original_name": "鉄拳チンミ",

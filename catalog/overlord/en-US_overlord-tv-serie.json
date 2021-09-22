@@ -1,5 +1,9 @@
 {
     "title": "Overlord",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/88019.jpg",
+        "alt": "overlord"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "オーバーロード",
@@ -36,7 +40,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Overlord_(novel_series"
+            "link": "https://en.wikipedia.org/wiki/Overlord_%28novel_series%29"
         }
     ]
 }

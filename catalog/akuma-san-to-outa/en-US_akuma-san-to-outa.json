@@ -1,5 +1,9 @@
 {
     "title": "Akuma-san to Outa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235020.jpg",
+        "alt": "akuma-san-to-outa"
+    },
     "type": "manga",
     "original_name": "悪魔さんとお歌",
     "start_date": "2019-09-21",

@@ -1,12 +1,16 @@
 {
     "title": "Kodomo no Jikan OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/5682.jpg",
+        "alt": "kodomo-no-jikan-ova"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "こどものじかん OVA",
     "start_date": "2007-09-11",
     "end_date": "2007-09-11",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Otome Chikku Shoshinsha Desu\" by Kadowaki Mai, Kitamura Eri, Shindou Kei (ep 1)",
+    "ending_song": "#1: \"Aijou Education\" by Little Non (ep 1)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "comedy",

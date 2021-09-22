@@ -1,5 +1,9 @@
 {
     "title": "Classmate wa Ore no Yome!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/116001.jpg",
+        "alt": "classmate-wa-ore-no-yome"
+    },
     "type": "manga",
     "original_name": "同級生〈クラスメート〉は俺の嫁！",
     "start_date": "2009-02-28",

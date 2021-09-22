@@ -1,5 +1,9 @@
 {
     "title": "12-nin no Shinitai Kodomotachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/202899.jpg",
+        "alt": "12-nin-no-shinitai-kodomotachi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

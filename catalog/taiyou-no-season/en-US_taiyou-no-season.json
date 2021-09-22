@@ -1,5 +1,9 @@
 {
     "title": "Taiyou no Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153366.jpg",
+        "alt": "taiyou-no-season"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "太陽のシーズン",

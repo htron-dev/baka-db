@@ -1,5 +1,9 @@
 {
     "title": "Kare no Barairo no Jinsei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/69911.jpg",
+        "alt": "kare-no-barairo-no-jinsei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

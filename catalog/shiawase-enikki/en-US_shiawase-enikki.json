@@ -1,5 +1,9 @@
 {
     "title": "Shiawase Enikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/39367.jpg",
+        "alt": "shiawase-enikki"
+    },
     "type": "manga",
     "chapters": "5",
     "original_name": "しあわせ絵日記",

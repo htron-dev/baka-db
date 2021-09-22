@@ -1,5 +1,9 @@
 {
     "title": "Hakujaden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1136/100516.jpg",
+        "alt": "hakujaden"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "白蛇伝",

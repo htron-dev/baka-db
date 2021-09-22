@@ -1,10 +1,14 @@
 {
     "title": "Hell Target",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/74341.jpg",
+        "alt": "hell-target"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "HELL TARGET [ヘルターゲット]",
     "start_date": "1987-01-21",
-    "ending_song": "\"Saraba Itoshiki Hito yo",
+    "ending_song": "\"Saraba Itoshiki Hito yo: Adios Amor (さらば愛しき人よ~アディオス・アモール~)\" by Rosa Bianca (ロサ・ビアンカ)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "sci-fi",

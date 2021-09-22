@@ -1,12 +1,16 @@
 {
     "title": "Shouwa Genroku Rakugo Shinjuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/77907.jpg",
+        "alt": "shouwa-genroku-rakugo-shinjuu"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "昭和元禄落語心中",
     "start_date": "2016-01-09",
     "end_date": "2016-01-09",
     "opening_song": "\"Usurahi Shinjuu (薄ら氷心中)\" by Megumi Hayashibara (eps 3, 5-8, 10, 13)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Usurahi Shinjuu (薄ら氷心中)\" by Megumi Hayashibara (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

@@ -1,9 +1,13 @@
 {
     "title": "Kenki Renka: Re:Zero kara Hajimeru Isekai Seikatsu†Shinmeitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/219338.jpg",
+        "alt": "kenki-renka-re-zero-kara-hajimeru-isekai-seikatsu-shinmeitan"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "28",
-    "original_name": "剣鬼恋歌 Re",
+    "original_name": "剣鬼恋歌 Re:ゼロから始める異世界生活†真銘譚",
     "start_date": "2018-09-27",
     "end_date": "2018-09-27",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "To Find My Brother Ara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25305.jpg",
+        "alt": "to-find-my-brother-ara"
+    },
     "type": "manhwa",
     "volumes": "10",
     "chapters": "47",

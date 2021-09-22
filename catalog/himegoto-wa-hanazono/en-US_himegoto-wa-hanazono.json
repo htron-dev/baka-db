@@ -1,5 +1,9 @@
 {
     "title": "Himegoto wa Hanazono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/27917.jpg",
+        "alt": "himegoto-wa-hanazono"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "41",

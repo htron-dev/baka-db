@@ -1,5 +1,9 @@
 {
     "title": "Happy Ends",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/126643.jpg",
+        "alt": "happy-ends"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "HAPPY ENDS ハッピーエンズ",

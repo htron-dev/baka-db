@@ -1,5 +1,9 @@
 {
     "title": "Rita to Nantoka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/26412.jpg",
+        "alt": "rita-to-nantoka"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "リタとナントカ",

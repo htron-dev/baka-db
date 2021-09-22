@@ -1,5 +1,9 @@
 {
     "title": "Reverend D",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/37860.jpg",
+        "alt": "reverend-d"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

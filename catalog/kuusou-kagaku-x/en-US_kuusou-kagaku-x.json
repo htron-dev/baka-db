@@ -1,5 +1,9 @@
 {
     "title": "Kuusou Kagaku X",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164776.jpg",
+        "alt": "kuusou-kagaku-x"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "113",

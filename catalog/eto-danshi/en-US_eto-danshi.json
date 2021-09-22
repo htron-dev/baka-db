@@ -1,5 +1,9 @@
 {
     "title": "Eto Danshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/232445.jpg",
+        "alt": "eto-danshi"
+    },
     "type": "manga",
     "chapters": "6",
     "original_name": "干支男子",

@@ -1,5 +1,9 @@
 {
     "title": "Prism",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/65033.jpg",
+        "alt": "prism"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

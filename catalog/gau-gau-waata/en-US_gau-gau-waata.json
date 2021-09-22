@@ -1,5 +1,9 @@
 {
     "title": "Gau Gau Waata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/71695.jpg",
+        "alt": "gau-gau-waata"
+    },
     "type": "manga",
     "volumes": "11",
     "original_name": "ガウガウわー太",

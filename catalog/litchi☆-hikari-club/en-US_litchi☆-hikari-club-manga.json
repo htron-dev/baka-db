@@ -1,5 +1,9 @@
 {
     "title": "Litchi☆Hikari Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/65867.jpg",
+        "alt": "litchi☆-hikari-club"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Crazy for It",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/71832.jpg",
+        "alt": "crazy-for-it"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "crazy for it",

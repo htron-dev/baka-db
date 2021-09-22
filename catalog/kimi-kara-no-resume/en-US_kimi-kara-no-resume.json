@@ -1,5 +1,9 @@
 {
     "title": "Kimi kara no Résumé",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179798.jpg",
+        "alt": "kimi-kara-no-resume"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "41",

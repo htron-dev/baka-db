@@ -1,5 +1,9 @@
 {
     "title": "Husk of Eden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/144253.jpg",
+        "alt": "husk-of-eden"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "28",

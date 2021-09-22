@@ -1,5 +1,9 @@
 {
     "title": "Strike Witches: Andorra no Majo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/131095.jpg",
+        "alt": "strike-witches-andorra-no-majo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

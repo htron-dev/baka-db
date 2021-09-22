@@ -1,5 +1,9 @@
 {
     "title": "Oshigoto Owari ni Gohoubi wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/197046.jpg",
+        "alt": "oshigoto-owari-ni-gohoubi-wo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

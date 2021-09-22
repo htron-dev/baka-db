@@ -1,5 +1,9 @@
 {
     "title": "Revolution No.3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/76107.jpg",
+        "alt": "revolution-no-3"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "31",

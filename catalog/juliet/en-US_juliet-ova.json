@@ -1,5 +1,9 @@
 {
     "title": "Juliet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1322/111777.jpg",
+        "alt": "juliet"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ジュリエット",

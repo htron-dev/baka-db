@@ -1,5 +1,9 @@
 {
     "title": "Deathpedia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205442.jpg",
+        "alt": "deathpedia"
+    },
     "type": "manga",
     "original_name": "DEATH ペディア",
     "start_date": "2017-12-28",

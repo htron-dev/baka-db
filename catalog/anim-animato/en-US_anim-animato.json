@@ -1,5 +1,9 @@
 {
     "title": "Anim. Animato",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/82612.jpg",
+        "alt": "anim-animato"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "anim.アニマート",

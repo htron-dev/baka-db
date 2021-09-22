@@ -1,5 +1,9 @@
 {
     "title": "Ai no Jidai: Ichigoichie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169871.jpg",
+        "alt": "ai-no-jidai-ichigoichie"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

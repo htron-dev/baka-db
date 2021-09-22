@@ -1,5 +1,9 @@
 {
     "title": "Dengeki! Bunko no Hiru Gohan!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224485.jpg",
+        "alt": "dengeki-bunko-no-hiru-gohan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

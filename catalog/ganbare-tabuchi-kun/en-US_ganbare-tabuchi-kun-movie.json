@@ -1,5 +1,9 @@
 {
     "title": "Ganbare!! Tabuchi-kun!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/78726.jpg",
+        "alt": "ganbare-tabuchi-kun"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "がんばれ!! タブチくん!!",

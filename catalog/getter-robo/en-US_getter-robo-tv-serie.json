@@ -1,5 +1,9 @@
 {
     "title": "Getter Robo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/6039.jpg",
+        "alt": "getter-robo"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "ゲッターロボ",

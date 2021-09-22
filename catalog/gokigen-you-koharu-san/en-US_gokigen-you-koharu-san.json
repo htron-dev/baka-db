@@ -1,5 +1,9 @@
 {
     "title": "Gokigen You, Koharu-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234347.jpg",
+        "alt": "gokigen-you-koharu-san"
+    },
     "type": "manga",
     "original_name": "ごきげんよう、小春さん",
     "start_date": "2019-06-24",

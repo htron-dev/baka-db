@@ -1,5 +1,9 @@
 {
     "title": "Bishoujo Senshi Sailor Moon SuperS Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/4619.jpg",
+        "alt": "bishoujo-senshi-sailor-moon-super-s-specials"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "美少女戦士セーラームーン SuperS スペシャル",

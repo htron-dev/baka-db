@@ -1,5 +1,9 @@
 {
     "title": "Koibito wa Dannasama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/206409.jpg",
+        "alt": "koibito-wa-dannasama"
+    },
     "type": "manga",
     "original_name": "恋人は旦那さま",
     "start_date": "2017-06-08",

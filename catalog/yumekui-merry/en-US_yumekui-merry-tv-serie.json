@@ -1,5 +1,9 @@
 {
     "title": "Yumekui Merry",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/30869.jpg",
+        "alt": "yumekui-merry"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "夢喰いメリー",

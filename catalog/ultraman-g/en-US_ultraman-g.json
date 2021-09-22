@@ -1,5 +1,9 @@
 {
     "title": "Ultraman G",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5856.jpg",
+        "alt": "ultraman-g"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ウルトラマン G",

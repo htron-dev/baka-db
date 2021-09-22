@@ -1,12 +1,16 @@
 {
     "title": "Rurouni Kenshin: Meiji Kenkaku Romantan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1768/114209.jpg",
+        "alt": "rurouni-kenshin-meiji-kenkaku-romantan"
+    },
     "type": "tv-serie",
     "episodes": "94",
     "original_name": "るろうに剣心 -明治剣客浪漫譚-",
     "start_date": "1996-01-10",
     "end_date": "1996-01-10",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Sobakasu (そばかす)\" by JUDY AND MARY (eps 1-38)",
+    "ending_song": "#1: \"Tactics\" by THE YELLOW MONKEY (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

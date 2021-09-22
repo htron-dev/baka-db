@@ -1,5 +1,9 @@
 {
     "title": "Shinkonchuu de, Dekiai de.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/232415.jpg",
+        "alt": "shinkonchuu-de-dekiai-de"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "34",

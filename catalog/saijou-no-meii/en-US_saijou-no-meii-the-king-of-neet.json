@@ -1,5 +1,9 @@
 {
     "title": "Saijou no Meii: The King of Neet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40601.jpg",
+        "alt": "saijou-no-meii-the-king-of-neet"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "180",

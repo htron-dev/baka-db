@@ -1,5 +1,9 @@
 {
     "title": "Bae Mote",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226590.jpg",
+        "alt": "bae-mote"
+    },
     "type": "manga",
     "original_name": "バエモテ",
     "start_date": "2019-08-10",

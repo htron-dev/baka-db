@@ -1,5 +1,9 @@
 {
     "title": "Hakushi no Tsukurishi Inu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/27220.jpg",
+        "alt": "hakushi-no-tsukurishi-inu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

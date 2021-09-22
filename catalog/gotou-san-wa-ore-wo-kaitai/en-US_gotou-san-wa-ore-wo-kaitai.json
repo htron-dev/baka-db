@@ -1,5 +1,9 @@
 {
     "title": "Gotou-san wa Ore wo Kaitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/244890.jpg",
+        "alt": "gotou-san-wa-ore-wo-kaitai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

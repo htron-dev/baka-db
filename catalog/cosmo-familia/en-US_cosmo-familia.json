@@ -1,5 +1,9 @@
 {
     "title": "Cosmo Familia\\*",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221919.jpg",
+        "alt": "cosmo-familia"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

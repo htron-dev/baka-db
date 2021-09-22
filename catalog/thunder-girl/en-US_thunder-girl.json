@@ -1,5 +1,9 @@
 {
     "title": "Thunder Girl!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164340.jpg",
+        "alt": "thunder-girl"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "サンダーガール！",

@@ -1,5 +1,9 @@
 {
     "title": "Kusuri no Majoramu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202850.jpg",
+        "alt": "kusuri-no-majoramu"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "くすりのマジョラム",

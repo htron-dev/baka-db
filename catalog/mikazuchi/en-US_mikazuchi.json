@@ -1,5 +1,9 @@
 {
     "title": "Mikazuchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163211.jpg",
+        "alt": "mikazuchi"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "26",

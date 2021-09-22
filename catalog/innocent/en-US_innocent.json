@@ -1,5 +1,9 @@
 {
     "title": "Innocent",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/101467.jpg",
+        "alt": "innocent"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "99",

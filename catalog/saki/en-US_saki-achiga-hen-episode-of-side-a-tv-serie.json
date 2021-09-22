@@ -1,12 +1,16 @@
 {
     "title": "Saki Achiga-hen: Episode of Side-A",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/75513.jpg",
+        "alt": "saki-achiga-hen-episode-of-side-a"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "咲-Saki-阿知賀編 episode of side-A",
     "start_date": "2012-04-09",
     "end_date": "2012-04-09",
     "opening_song": "\"MIRACLE RUSH\" by StylipS (eps 2-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"MIRACLE RUSH\" by StylipS (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "game",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Saki_(manga"
+            "link": "http://en.wikipedia.org/wiki/Saki_%28manga%29#Anime"
         }
     ]
 }

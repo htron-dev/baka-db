@@ -1,5 +1,9 @@
 {
     "title": "Nakimushi Gakuran Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28436.jpg",
+        "alt": "nakimushi-gakuran-musume"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "泣き虫学らん娘",

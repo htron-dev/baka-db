@@ -1,5 +1,9 @@
 {
     "title": "Men's Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24934.jpg",
+        "alt": "mens-love"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Lime-iro Senkitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/75503.jpg",
+        "alt": "lime-iro-senkitan"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "らいむいろ戦奇譚",

@@ -1,5 +1,9 @@
 {
     "title": "Jewel Garden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164840.jpg",
+        "alt": "jewel-garden"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "JEWEL GARDEN",

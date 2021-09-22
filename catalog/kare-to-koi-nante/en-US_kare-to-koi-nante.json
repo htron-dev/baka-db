@@ -1,5 +1,9 @@
 {
     "title": "Kare to Koi nante",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175316.jpg",
+        "alt": "kare-to-koi-nante"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "33",

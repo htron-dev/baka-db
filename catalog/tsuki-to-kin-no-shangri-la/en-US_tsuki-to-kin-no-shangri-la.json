@@ -1,5 +1,9 @@
 {
     "title": "Tsuki to Kin no Shangri-La",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238802.jpg",
+        "alt": "tsuki-to-kin-no-shangri-la"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

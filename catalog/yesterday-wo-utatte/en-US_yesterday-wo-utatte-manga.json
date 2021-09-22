@@ -1,5 +1,9 @@
 {
     "title": "Yesterday wo Utatte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154193.jpg",
+        "alt": "yesterday-wo-utatte"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "113",

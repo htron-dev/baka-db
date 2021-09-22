@@ -1,5 +1,9 @@
 {
     "title": "Imawa no Michi no Alice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173026.jpg",
+        "alt": "imawa-no-michi-no-alice"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "31",

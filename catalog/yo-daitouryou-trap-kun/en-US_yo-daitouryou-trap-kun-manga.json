@@ -1,5 +1,9 @@
 {
     "title": "Yo! Daitouryou Trap-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/243007.jpg",
+        "alt": "yo-daitouryou-trap-kun"
+    },
     "type": "manga",
     "chapters": "9",
     "original_name": "よ！大統領トラップくん",

@@ -1,5 +1,9 @@
 {
     "title": "Lodoss-tou Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1644/92493.jpg",
+        "alt": "lodoss-tou-senki"
+    },
     "type": "ova",
     "episodes": "13",
     "original_name": "ロードス島戦記",

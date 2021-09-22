@@ -1,5 +1,9 @@
 {
     "title": "Rekiai! Rekishi to Ai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215980.jpg",
+        "alt": "rekiai-rekishi-to-ai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "25",

@@ -1,12 +1,16 @@
 {
     "title": "Viewtiful Joe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/278.jpg",
+        "alt": "viewtiful-joe"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "ビューティフル ジョー",
     "start_date": "2004-10-02",
     "end_date": "2004-10-02",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Brighter side\" by SaGa",
+    "ending_song": "#1: \"And you\" by SaGa",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Viewtiful_Joe_(anime"
+            "link": "http://en.wikipedia.org/wiki/Viewtiful_Joe_%28anime%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Kobo-chan Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1909/99319.jpg",
+        "alt": "kobo-chan-special"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "コボちゃんスペシャル",

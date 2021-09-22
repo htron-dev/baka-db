@@ -1,5 +1,9 @@
 {
     "title": "Satonaka Chuugaku Housoubu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/4728.jpg",
+        "alt": "satonaka-chuugaku-housoubu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "里中中学放送部",

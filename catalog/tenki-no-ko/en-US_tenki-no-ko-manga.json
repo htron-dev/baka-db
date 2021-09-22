@@ -1,5 +1,9 @@
 {
     "title": "Tenki no Ko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226128.jpg",
+        "alt": "tenki-no-ko"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "天気の子",

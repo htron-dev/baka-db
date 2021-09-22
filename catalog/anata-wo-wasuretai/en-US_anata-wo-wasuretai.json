@@ -1,5 +1,9 @@
 {
     "title": "Anata wo Wasuretai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41072.jpg",
+        "alt": "anata-wo-wasuretai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "あなたを忘れたい",

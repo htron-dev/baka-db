@@ -1,5 +1,9 @@
 {
     "title": "STONe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/138177.jpg",
+        "alt": "sto-ne"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

@@ -1,12 +1,16 @@
 {
     "title": "Ayashi no Ceres",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/23580.jpg",
+        "alt": "ayashi-no-ceres"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "妖しのセレス",
     "start_date": "2000-04-20",
     "end_date": "2000-04-20",
     "opening_song": "\"Scarlet\" by Junko Iwao",
-    "ending_song": "#1",
+    "ending_song": "#1: \"One ~ Kono Yo ga Hatete mo Hanarenai\" by Day-break (eps 1-15)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "adventure",

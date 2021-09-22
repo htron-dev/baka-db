@@ -1,5 +1,9 @@
 {
     "title": "Sekigahara de Matteru wa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177513.jpg",
+        "alt": "sekigahara-de-matteru-wa"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "関ヶ原で待ってるわ",

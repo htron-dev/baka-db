@@ -1,5 +1,9 @@
 {
     "title": "Hazakura ga Kita Natsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164259.jpg",
+        "alt": "hazakura-ga-kita-natsu"
+    },
     "type": "light-novel",
     "volumes": "5",
     "original_name": "葉桜が来た夏",

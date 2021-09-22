@@ -1,5 +1,9 @@
 {
     "title": "Again!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201817.jpg",
+        "alt": "again"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "136",

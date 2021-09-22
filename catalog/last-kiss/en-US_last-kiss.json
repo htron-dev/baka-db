@@ -1,5 +1,9 @@
 {
     "title": "Last Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237902.jpg",
+        "alt": "last-kiss"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

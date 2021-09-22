@@ -1,5 +1,9 @@
 {
     "title": "Yogoreteru Hima nanka Nai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/37265.jpg",
+        "alt": "yogoreteru-hima-nanka-nai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Seijuuki Cyguard",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/29427.jpg",
+        "alt": "seijuuki-cyguard"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "聖獣機サイガード",

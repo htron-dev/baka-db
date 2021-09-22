@@ -1,11 +1,15 @@
 {
     "title": "Lapis Re:LiGHTs",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1880/107611.jpg",
+        "alt": "lapis-re-li-gh-ts"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ラピスリライツ",
     "start_date": "2020-07-04",
     "end_date": "2020-07-04",
-    "opening_song": "\"Watashitachi no STARTRAIL (私たちの STARTRAIL)\" by Lapis Re",
+    "opening_song": "\"Watashitachi no STARTRAIL (私たちの STARTRAIL)\" by Lapis Re:LiGHTs Stars",
     "ending_song": "\"Planetarium (プラネタリウム)\" by LiGHTs",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

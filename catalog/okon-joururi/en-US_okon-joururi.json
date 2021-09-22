@@ -1,5 +1,9 @@
 {
     "title": "Okon Joururi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/18190.jpg",
+        "alt": "okon-joururi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "おこんじょうるり",

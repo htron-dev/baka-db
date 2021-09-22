@@ -1,5 +1,9 @@
 {
     "title": "Love Drops",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15990.jpg",
+        "alt": "love-drops"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

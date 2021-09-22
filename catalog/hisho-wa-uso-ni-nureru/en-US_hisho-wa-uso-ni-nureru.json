@@ -1,5 +1,9 @@
 {
     "title": "Hisho wa Uso ni Nureru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/91867.jpg",
+        "alt": "hisho-wa-uso-ni-nureru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

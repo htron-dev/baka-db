@@ -1,5 +1,9 @@
 {
     "title": "Usotsuki Tenshi wa Shinimashita!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/98279.jpg",
+        "alt": "usotsuki-tenshi-wa-shinimashita"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "33",

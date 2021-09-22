@@ -1,5 +1,9 @@
 {
     "title": "Kamisama Kazoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162950.jpg",
+        "alt": "kamisama-kazoku"
+    },
     "type": "light-novel",
     "volumes": "8",
     "chapters": "55",

@@ -1,5 +1,9 @@
 {
     "title": "Sekai de Ichiban Yasashii Ongaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162627.jpg",
+        "alt": "sekai-de-ichiban-yasashii-ongaku"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "84",

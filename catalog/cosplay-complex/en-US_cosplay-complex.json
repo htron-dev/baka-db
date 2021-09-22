@@ -1,5 +1,9 @@
 {
     "title": "Cosplay Complex",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/19185.jpg",
+        "alt": "cosplay-complex"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "こすぷれ COMPLEX",

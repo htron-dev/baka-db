@@ -1,5 +1,9 @@
 {
     "title": "Sekai no Owari to Guruguru Bambi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/197602.jpg",
+        "alt": "sekai-no-owari-to-guruguru-bambi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

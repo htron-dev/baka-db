@@ -1,5 +1,9 @@
 {
     "title": "Okosama Box",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168528.jpg",
+        "alt": "okosama-box"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

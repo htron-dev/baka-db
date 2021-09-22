@@ -1,5 +1,9 @@
 {
     "title": "Musunde Hiraite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/49177.jpg",
+        "alt": "musunde-hiraite"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "42",

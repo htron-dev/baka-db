@@ -1,5 +1,9 @@
 {
     "title": "Seifuku Robinson",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175771.jpg",
+        "alt": "seifuku-robinson"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

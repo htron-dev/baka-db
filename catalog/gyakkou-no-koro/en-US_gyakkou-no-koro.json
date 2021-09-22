@@ -1,5 +1,9 @@
 {
     "title": "Gyakkou no Koro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/187080.jpg",
+        "alt": "gyakkou-no-koro"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "逆光の頃",

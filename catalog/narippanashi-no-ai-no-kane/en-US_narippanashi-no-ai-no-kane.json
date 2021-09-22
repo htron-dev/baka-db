@@ -1,5 +1,9 @@
 {
     "title": "Narippanashi no Ai no Kane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/100317.jpg",
+        "alt": "narippanashi-no-ai-no-kane"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

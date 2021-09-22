@@ -1,5 +1,9 @@
 {
     "title": "Katayoku no Labyrinth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166746.jpg",
+        "alt": "katayoku-no-labyrinth"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "58",

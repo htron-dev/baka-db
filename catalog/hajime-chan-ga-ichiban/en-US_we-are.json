@@ -1,5 +1,9 @@
 {
     "title": "We are",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177663.jpg",
+        "alt": "we-are"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

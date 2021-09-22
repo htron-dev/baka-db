@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Kanaderu Fukyouwaon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/81886.jpg",
+        "alt": "kimi-to-kanaderu-fukyouwaon"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Kakutou Komusume Juline",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167712.jpg",
+        "alt": "kakutou-komusume-juline"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "20",

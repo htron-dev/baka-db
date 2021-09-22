@@ -1,5 +1,9 @@
 {
     "title": "Senkou no Night Raid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/24229.jpg",
+        "alt": "senkou-no-night-raid"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "閃光のナイトレイド",

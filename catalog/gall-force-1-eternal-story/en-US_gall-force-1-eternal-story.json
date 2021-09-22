@@ -1,5 +1,9 @@
 {
     "title": "Gall Force 1: Eternal Story",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/26519.jpg",
+        "alt": "gall-force-1-eternal-story"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ガルフォース",

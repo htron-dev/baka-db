@@ -1,5 +1,9 @@
 {
     "title": "Ore wa Inu dewa Arimasen!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215503.jpg",
+        "alt": "ore-wa-inu-dewa-arimasen"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "47",

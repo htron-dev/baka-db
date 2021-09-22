@@ -1,5 +1,9 @@
 {
     "title": "Ichiya dake no Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/39266.jpg",
+        "alt": "ichiya-dake-no-princess"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

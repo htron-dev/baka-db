@@ -1,5 +1,9 @@
 {
     "title": "Ookami no Housei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152697.jpg",
+        "alt": "ookami-no-housei"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "狼の砲声",

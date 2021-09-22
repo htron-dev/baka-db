@@ -1,5 +1,9 @@
 {
     "title": "Quintet Phantasm",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177286.jpg",
+        "alt": "quintet-phantasm"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "14",

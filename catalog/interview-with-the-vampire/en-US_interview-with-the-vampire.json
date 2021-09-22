@@ -1,5 +1,9 @@
 {
     "title": "Interview with the Vampire",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11720.jpg",
+        "alt": "interview-with-the-vampire"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

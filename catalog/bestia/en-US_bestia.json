@@ -1,5 +1,9 @@
 {
     "title": "Bestia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/232608.jpg",
+        "alt": "bestia"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

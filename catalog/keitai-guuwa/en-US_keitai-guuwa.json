@@ -1,5 +1,9 @@
 {
     "title": "Keitai Guuwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170040.jpg",
+        "alt": "keitai-guuwa"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "携帯寓話",

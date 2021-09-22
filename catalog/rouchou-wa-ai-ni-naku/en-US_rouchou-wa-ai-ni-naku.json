@@ -1,5 +1,9 @@
 {
     "title": "Rouchou wa Ai ni Naku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/64627.jpg",
+        "alt": "rouchou-wa-ai-ni-naku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

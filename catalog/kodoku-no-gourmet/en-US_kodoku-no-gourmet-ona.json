@@ -1,5 +1,9 @@
 {
     "title": "Kodoku no Gourmet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/88980.jpg",
+        "alt": "kodoku-no-gourmet"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "孤独のグルメ",

@@ -1,5 +1,9 @@
 {
     "title": "Dai Koushien",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/136959.jpg",
+        "alt": "dai-koushien"
+    },
     "type": "manga",
     "volumes": "26",
     "chapters": "225",

@@ -1,5 +1,9 @@
 {
     "title": "Pikmin Short Movies",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/78421.jpg",
+        "alt": "pikmin-short-movies"
+    },
     "type": "movie",
     "episodes": "3",
     "original_name": "PIKMIN Short Movies (ピクミン　ショートムービー)",

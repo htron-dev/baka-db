@@ -1,5 +1,9 @@
 {
     "title": "Tonari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/4730.jpg",
+        "alt": "tonari"
+    },
     "type": "manga",
     "chapters": "1",
     "original_name": "トナリ。",

@@ -1,5 +1,9 @@
 {
     "title": "Hoshi wo Ou Kodomo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/29684.jpg",
+        "alt": "hoshi-wo-ou-kodomo"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "星を追う子ども",

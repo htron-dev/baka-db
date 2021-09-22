@@ -1,8 +1,12 @@
 {
     "title": "Yuu☆Yuu☆Hakusho: Eizou Hakusho II",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/21614.jpg",
+        "alt": "yuu☆-yuu☆-hakusho-eizou-hakusho-ii"
+    },
     "type": "ova",
     "episodes": "4",
-    "original_name": "幽 ☆ 遊 ☆ 白書 Ⅱ",
+    "original_name": "幽 ☆ 遊 ☆ 白書 Ⅱ: 幽助、蔵魔、飛影、桑原",
     "start_date": "1995-12-16",
     "end_date": "1995-12-16",
     "rating": "PG-13 - Teens 13 or older",

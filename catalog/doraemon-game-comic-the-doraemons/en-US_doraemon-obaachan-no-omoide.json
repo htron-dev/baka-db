@@ -1,5 +1,9 @@
 {
     "title": "Doraemon: Obaachan no Omoide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/27416.jpg",
+        "alt": "doraemon-obaachan-no-omoide"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ドラえもん おばあちゃんの思い出",

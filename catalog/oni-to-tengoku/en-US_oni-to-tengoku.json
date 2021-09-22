@@ -1,5 +1,9 @@
 {
     "title": "Oni to Tengoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222197.jpg",
+        "alt": "oni-to-tengoku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Kain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/178910.jpg",
+        "alt": "kain"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

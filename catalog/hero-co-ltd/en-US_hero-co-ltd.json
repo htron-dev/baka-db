@@ -1,5 +1,9 @@
 {
     "title": "Hero Co., Ltd.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/61893.jpg",
+        "alt": "hero-co-ltd"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "26",

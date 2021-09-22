@@ -1,5 +1,9 @@
 {
     "title": "Maria",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/84357.jpg",
+        "alt": "maria"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Tokenai Koi to Chocolate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185093.jpg",
+        "alt": "tokenai-koi-to-chocolate"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

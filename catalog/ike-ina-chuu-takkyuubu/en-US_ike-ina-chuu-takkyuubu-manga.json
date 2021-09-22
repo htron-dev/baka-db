@@ -1,5 +1,9 @@
 {
     "title": "Ike! Ina-chuu Takkyuubu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/75933.jpg",
+        "alt": "ike-ina-chuu-takkyuubu"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "159",

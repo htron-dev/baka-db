@@ -1,5 +1,9 @@
 {
     "title": "Ten Count",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1464/99977.jpg",
+        "alt": "ten-count"
+    },
     "type": "tv-serie",
     "original_name": "テンカウント",
     "rating": "None",

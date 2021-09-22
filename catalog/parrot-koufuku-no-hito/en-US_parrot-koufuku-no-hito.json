@@ -1,5 +1,9 @@
 {
     "title": "Parrot: Koufuku no Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/85161.jpg",
+        "alt": "parrot-koufuku-no-hito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

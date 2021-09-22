@@ -1,5 +1,9 @@
 {
     "title": "Souta to Ako",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/234130.jpg",
+        "alt": "souta-to-ako"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "22",

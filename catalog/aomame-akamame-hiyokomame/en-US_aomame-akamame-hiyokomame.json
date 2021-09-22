@@ -1,5 +1,9 @@
 {
     "title": "Aomame Akamame Hiyokomame",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159937.jpg",
+        "alt": "aomame-akamame-hiyokomame"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

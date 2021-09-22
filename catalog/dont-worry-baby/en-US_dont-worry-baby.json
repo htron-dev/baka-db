@@ -1,5 +1,9 @@
 {
     "title": "Don't Worry Baby!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10892.jpg",
+        "alt": "dont-worry-baby"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "Don't Worry Baby!",

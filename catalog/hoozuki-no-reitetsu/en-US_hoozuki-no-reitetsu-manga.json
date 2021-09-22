@@ -1,5 +1,9 @@
 {
     "title": "Hoozuki no Reitetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176888.jpg",
+        "alt": "hoozuki-no-reitetsu"
+    },
     "type": "manga",
     "volumes": "31",
     "chapters": "277",

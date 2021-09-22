@@ -1,12 +1,16 @@
 {
     "title": "Canaan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/75789.jpg",
+        "alt": "canaan"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "CANAAN",
     "start_date": "2009-07-04",
     "end_date": "2009-07-04",
     "opening_song": "\"mind as Judgment\" by Faylan",
-    "ending_song": "#1",
+    "ending_song": "#1: \"My heaven\" by Annabel (eps 1-12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",
@@ -35,7 +39,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Canaan_(anime"
+            "link": "https://en.wikipedia.org/wiki/Canaan_%28anime%29"
         }
     ]
 }

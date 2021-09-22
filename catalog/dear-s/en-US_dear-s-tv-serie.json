@@ -1,12 +1,16 @@
 {
     "title": "DearS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/23426.jpg",
+        "alt": "dear-s"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ディアーズ",
     "start_date": "2004-07-11",
     "end_date": "2004-07-11",
     "opening_song": "\"Love Slave\" by UNDER17",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Happy Cosmos\" by PoppinS",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "sci-fi",

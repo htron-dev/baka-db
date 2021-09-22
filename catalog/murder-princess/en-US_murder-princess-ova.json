@@ -1,5 +1,9 @@
 {
     "title": "Murder Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/19558.jpg",
+        "alt": "murder-princess"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "マーダープリンセス",

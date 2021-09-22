@@ -1,5 +1,9 @@
 {
     "title": "Akairo/Romance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164582.jpg",
+        "alt": "akairo-romance"
+    },
     "type": "light-novel",
     "volumes": "6",
     "original_name": "アカイロ/ロマンス",

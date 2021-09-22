@@ -1,5 +1,9 @@
 {
     "title": "Adauchi Gakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/127147.jpg",
+        "alt": "adauchi-gakuen"
+    },
     "type": "manga",
     "original_name": "仇討学園",
     "start_date": "2014-05-30",

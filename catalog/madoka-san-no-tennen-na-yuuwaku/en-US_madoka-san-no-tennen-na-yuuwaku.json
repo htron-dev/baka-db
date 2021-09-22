@@ -1,5 +1,9 @@
 {
     "title": "Madoka-san no Tennen na Yuuwaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226337.jpg",
+        "alt": "madoka-san-no-tennen-na-yuuwaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

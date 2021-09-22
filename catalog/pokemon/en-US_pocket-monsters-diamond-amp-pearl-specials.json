@@ -1,5 +1,9 @@
 {
     "title": "Pocket Monsters: Diamond &amp; Pearl Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/28340.jpg",
+        "alt": "pocket-monsters-diamond-amp-pearl-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "ポケットモンスター ダイヤモンド・パール 特別編",
@@ -26,7 +30,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Pokémon:_Diamond_and_Pearl_(anime"
+            "link": "http://en.wikipedia.org/wiki/Pokémon:_Diamond_and_Pearl_%28anime%29"
         }
     ]
 }

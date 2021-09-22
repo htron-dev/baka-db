@@ -1,12 +1,16 @@
 {
     "title": "Mobile Suit Gundam AGE",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/42535.jpg",
+        "alt": "mobile-suit-gundam-age"
+    },
     "type": "tv-serie",
     "episodes": "49",
     "original_name": "機動戦士ガンダム AGE",
     "start_date": "2011-10-09",
     "end_date": "2011-10-09",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Asu e (明日へ)\" by Galileo Galilei (eps 1-15)",
+    "ending_song": "#1: \"Kimi no Naka no Eiyuu (君の中の英雄)\" by Minami Kuribayashi (eps 1-15)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

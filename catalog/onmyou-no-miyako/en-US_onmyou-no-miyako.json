@@ -1,5 +1,9 @@
 {
     "title": "Onmyou no Miyako",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159517.jpg",
+        "alt": "onmyou-no-miyako"
+    },
     "type": "light-novel",
     "volumes": "5",
     "original_name": "陰陽ノ京",

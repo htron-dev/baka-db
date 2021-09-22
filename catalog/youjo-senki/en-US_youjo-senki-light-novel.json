@@ -1,5 +1,9 @@
 {
     "title": "Youjo Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155214.jpg",
+        "alt": "youjo-senki"
+    },
     "type": "light-novel",
     "original_name": "幼女戦記",
     "start_date": "2013-10-31",

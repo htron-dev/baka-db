@@ -1,5 +1,9 @@
 {
     "title": "Amai Mitsu no Rougoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181503.jpg",
+        "alt": "amai-mitsu-no-rougoku"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

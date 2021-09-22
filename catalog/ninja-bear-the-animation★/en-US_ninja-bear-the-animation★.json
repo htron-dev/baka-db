@@ -1,5 +1,9 @@
 {
     "title": "Ninja Bear the Animation★",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/82439.jpg",
+        "alt": "ninja-bear-the-animation★"
+    },
     "type": "tv-serie",
     "original_name": "忍者ベアー the Animation★",
     "rating": "G - All Ages",

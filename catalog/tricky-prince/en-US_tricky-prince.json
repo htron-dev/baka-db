@@ -1,5 +1,9 @@
 {
     "title": "Tricky Prince",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16116.jpg",
+        "alt": "tricky-prince"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "悪戯王子; トリック・プリンス",

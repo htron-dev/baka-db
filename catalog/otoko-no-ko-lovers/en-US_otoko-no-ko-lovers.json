@@ -1,5 +1,9 @@
 {
     "title": "Otoko no Ko Lovers!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149722.jpg",
+        "alt": "otoko-no-ko-lovers"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

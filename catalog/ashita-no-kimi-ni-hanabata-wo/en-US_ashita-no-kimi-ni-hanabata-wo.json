@@ -1,5 +1,9 @@
 {
     "title": "Ashita no Kimi ni Hanabata wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149790.jpg",
+        "alt": "ashita-no-kimi-ni-hanabata-wo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

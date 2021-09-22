@@ -1,5 +1,9 @@
 {
     "title": "Love x Love Whistle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171784.jpg",
+        "alt": "love-x-love-whistle"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Kowarekake no Orgel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194887.jpg",
+        "alt": "kowarekake-no-orgel"
+    },
     "type": "manga",
     "chapters": "5",
     "original_name": "こわれかけのオルゴール",

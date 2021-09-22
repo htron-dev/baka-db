@@ -1,5 +1,9 @@
 {
     "title": "on-chan, Yume Power Daibouken!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/21296.jpg",
+        "alt": "on-chan-yume-power-daibouken"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "on ちゃん夢パワー大冒険！",

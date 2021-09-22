@@ -1,5 +1,9 @@
 {
     "title": "Cheorin Samchongsa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/49021.jpg",
+        "alt": "cheorin-samchongsa"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "철인 삼총사",

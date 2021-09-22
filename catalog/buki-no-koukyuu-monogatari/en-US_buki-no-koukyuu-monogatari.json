@@ -1,5 +1,9 @@
 {
     "title": "Buki no Koukyuu Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180780.jpg",
+        "alt": "buki-no-koukyuu-monogatari"
+    },
     "type": "light-novel",
     "original_name": "武姫の後宮物語",
     "start_date": "2016-08-10",

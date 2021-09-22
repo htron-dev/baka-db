@@ -1,5 +1,9 @@
 {
     "title": "Dragon Ball: Episode of Bardock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/35005.jpg",
+        "alt": "dragon-ball-episode-of-bardock"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ドラゴンボール エピソード オブ バーダック",

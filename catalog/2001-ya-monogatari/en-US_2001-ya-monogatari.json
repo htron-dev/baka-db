@@ -1,5 +1,9 @@
 {
     "title": "2001-ya Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/131711.jpg",
+        "alt": "2001-ya-monogatari"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

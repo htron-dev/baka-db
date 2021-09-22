@@ -1,5 +1,9 @@
 {
     "title": "Gaps",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/245894.jpg",
+        "alt": "gaps"
+    },
     "type": "manga",
     "original_name": "GAPS",
     "start_date": "2014-01-20",

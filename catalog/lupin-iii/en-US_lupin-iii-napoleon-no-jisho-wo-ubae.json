@@ -1,5 +1,9 @@
 {
     "title": "Lupin III: Napoleon no Jisho wo Ubae",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/61695.jpg",
+        "alt": "lupin-iii-napoleon-no-jisho-wo-ubae"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ルパン三世『ナポレオンの辞書を奪え』",

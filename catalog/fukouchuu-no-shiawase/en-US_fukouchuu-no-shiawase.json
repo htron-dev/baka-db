@@ -1,5 +1,9 @@
 {
     "title": "Fukouchuu no Shiawase",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154651.jpg",
+        "alt": "fukouchuu-no-shiawase"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

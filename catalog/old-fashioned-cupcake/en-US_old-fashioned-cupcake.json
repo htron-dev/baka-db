@@ -1,5 +1,9 @@
 {
     "title": "Old-Fashioned Cupcake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235766.jpg",
+        "alt": "old-fashioned-cupcake"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

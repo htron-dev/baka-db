@@ -1,5 +1,9 @@
 {
     "title": "Piercing I",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1774/96617.jpg",
+        "alt": "piercing-i"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "刺痛我",

@@ -1,5 +1,9 @@
 {
     "title": "Sora wa Akai Kawa no Hotori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/162632.jpg",
+        "alt": "sora-wa-akai-kawa-no-hotori"
+    },
     "type": "manga",
     "volumes": "28",
     "chapters": "96",

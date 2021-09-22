@@ -1,5 +1,9 @@
 {
     "title": "JX's",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7000.jpg",
+        "alt": "j-xs"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

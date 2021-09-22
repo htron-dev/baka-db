@@ -1,5 +1,9 @@
 {
     "title": "Lythtis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12134.jpg",
+        "alt": "lythtis"
+    },
     "type": "manga",
     "start_date": "1995-06-19",
     "tags": [

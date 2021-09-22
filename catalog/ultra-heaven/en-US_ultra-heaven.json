@@ -1,5 +1,9 @@
 {
     "title": "Ultra Heaven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161311.jpg",
+        "alt": "ultra-heaven"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

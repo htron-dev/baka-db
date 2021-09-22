@@ -1,5 +1,9 @@
 {
     "title": "Kekkaku Yobou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/85237.jpg",
+        "alt": "kekkaku-yobou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "結核豫防",

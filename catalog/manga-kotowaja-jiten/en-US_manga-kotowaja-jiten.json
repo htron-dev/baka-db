@@ -1,5 +1,9 @@
 {
     "title": "Manga Kotowaja Jiten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/80033.jpg",
+        "alt": "manga-kotowaja-jiten"
+    },
     "type": "tv-serie",
     "episodes": "88",
     "original_name": "まんがことわざ事典",

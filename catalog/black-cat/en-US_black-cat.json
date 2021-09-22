@@ -1,5 +1,9 @@
 {
     "title": "Black Cat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181972.jpg",
+        "alt": "black-cat"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "ブラック・キャット",

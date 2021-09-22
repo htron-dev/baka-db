@@ -1,5 +1,9 @@
 {
     "title": "Sensei ni, Ageru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/73625.jpg",
+        "alt": "sensei-ni-ageru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

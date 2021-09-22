@@ -1,5 +1,9 @@
 {
     "title": "Yume no Shiro: Mahou Tsukai Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/4660.jpg",
+        "alt": "yume-no-shiro-mahou-tsukai-series"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

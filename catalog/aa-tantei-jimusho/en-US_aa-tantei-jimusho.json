@@ -1,5 +1,9 @@
 {
     "title": "Aa Tantei Jimusho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/232328.jpg",
+        "alt": "aa-tantei-jimusho"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "121",

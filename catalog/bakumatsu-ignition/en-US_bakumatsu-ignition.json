@@ -1,5 +1,9 @@
 {
     "title": "Bakumatsu Ignition",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234425.jpg",
+        "alt": "bakumatsu-ignition"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

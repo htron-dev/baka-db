@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo Lyrical Nanoha InnocentS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174526.jpg",
+        "alt": "mahou-shoujo-lyrical-nanoha-innocent-s"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

@@ -1,11 +1,15 @@
 {
     "title": "Cinderella Girls Gekijou 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/89788.jpg",
+        "alt": "cinderella-girls-gekijou-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "シンデレラガールズ劇場 第 2 期",
     "start_date": "2017-10-03",
     "end_date": "2017-10-03",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Blooming Days\" by THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS!",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

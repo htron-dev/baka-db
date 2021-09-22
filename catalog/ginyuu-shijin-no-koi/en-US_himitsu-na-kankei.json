@@ -1,5 +1,9 @@
 {
     "title": "Himitsu na Kankei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/17470.jpg",
+        "alt": "himitsu-na-kankei"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "秘密な関係 ~Secret Connection~",

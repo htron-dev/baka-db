@@ -1,5 +1,9 @@
 {
     "title": "Scramble Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/7532.jpg",
+        "alt": "scramble-game"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

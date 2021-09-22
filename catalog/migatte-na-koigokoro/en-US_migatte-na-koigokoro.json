@@ -1,5 +1,9 @@
 {
     "title": "Migatte na Koigokoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/101741.jpg",
+        "alt": "migatte-na-koigokoro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

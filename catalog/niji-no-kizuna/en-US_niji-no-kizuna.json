@@ -1,5 +1,9 @@
 {
     "title": "Niji no Kizuna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/66145.jpg",
+        "alt": "niji-no-kizuna"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "虹のきずな",

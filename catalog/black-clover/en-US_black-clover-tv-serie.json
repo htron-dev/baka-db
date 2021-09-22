@@ -1,12 +1,16 @@
 {
     "title": "Black Clover",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/88336.jpg",
+        "alt": "black-clover"
+    },
     "type": "tv-serie",
     "episodes": "170",
     "original_name": "ブラッククローバー",
     "start_date": "2017-10-03",
     "end_date": "2017-10-03",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"Haruka Mirai (ハルカミライ)\" by Kankaku Piero (感覚ピエロ) (eps 1-13)",
+    "ending_song": "#01: \"Aoi Honoo (蒼い炎)\" by Itowokashi (イトヲカシ) (eps 2-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

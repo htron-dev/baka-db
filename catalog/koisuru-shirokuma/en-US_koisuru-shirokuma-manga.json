@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Shirokuma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193632.jpg",
+        "alt": "koisuru-shirokuma"
+    },
     "type": "manga",
     "original_name": "恋するシロクマ",
     "start_date": "2015-06-15",

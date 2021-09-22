@@ -1,5 +1,9 @@
 {
     "title": "Sakurano Kiraho Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162323.jpg",
+        "alt": "sakurano-kiraho-series"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "8",

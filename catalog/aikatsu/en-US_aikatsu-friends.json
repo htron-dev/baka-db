@@ -1,12 +1,16 @@
 {
     "title": "Aikatsu Friends!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1198/90430.jpg",
+        "alt": "aikatsu-friends"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "アイカツフレンズ！",
     "start_date": "2018-04-05",
     "end_date": "2018-04-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Arigato⇄Daijoubu (ありがと ⇄ 大丈夫)\" by Aine Yuuki (Akane Matsunaga), Mio Minato (Ibuki Kido) from BEST FRIENDS (eps 1-25)",
+    "ending_song": "#1: \"Believe it\" by Karen Kamishiro (Azusa Tadokoro), Mirai Asuka (Ayaka Ohashi) from BEST FRIENDS (eps 1-25)",
     "rating": "PG - Children",
     "tags": [
         "music",

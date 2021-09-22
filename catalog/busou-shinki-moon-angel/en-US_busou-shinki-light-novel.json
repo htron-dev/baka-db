@@ -1,5 +1,9 @@
 {
     "title": "Busou Shinki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/126709.jpg",
+        "alt": "busou-shinki"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "武装神姫",

@@ -1,5 +1,9 @@
 {
     "title": "I Love Sky",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/65739.jpg",
+        "alt": "i-love-sky"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "I Love Sky",

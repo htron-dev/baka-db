@@ -1,5 +1,9 @@
 {
     "title": "Miyako Bijin Yawa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/211320.jpg",
+        "alt": "miyako-bijin-yawa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

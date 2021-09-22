@@ -1,5 +1,9 @@
 {
     "title": "Animentary: Ketsudan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/22270.jpg",
+        "alt": "animentary-ketsudan"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "アニメンタリー 決断",

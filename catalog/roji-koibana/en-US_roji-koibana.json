@@ -1,5 +1,9 @@
 {
     "title": "Roji Koibana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196091.jpg",
+        "alt": "roji-koibana"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

@@ -1,5 +1,9 @@
 {
     "title": "Gaming Ojousama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241771.jpg",
+        "alt": "gaming-ojousama"
+    },
     "type": "manga",
     "original_name": "ゲーミングお嬢様",
     "start_date": "2020-07-21",

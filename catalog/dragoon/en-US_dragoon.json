@@ -1,5 +1,9 @@
 {
     "title": "Dragoon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1168/112113.jpg",
+        "alt": "dragoon"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "竜機伝承",

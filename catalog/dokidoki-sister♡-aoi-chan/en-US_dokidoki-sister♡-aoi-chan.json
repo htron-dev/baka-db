@@ -1,5 +1,9 @@
 {
     "title": "Dokidoki Sister♡Aoi-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166831.jpg",
+        "alt": "dokidoki-sister♡-aoi-chan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "32",

@@ -1,5 +1,9 @@
 {
     "title": "Komarasetagari Shoukougun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161552.jpg",
+        "alt": "komarasetagari-shoukougun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

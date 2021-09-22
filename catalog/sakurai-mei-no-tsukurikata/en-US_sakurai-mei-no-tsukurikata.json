@@ -1,5 +1,9 @@
 {
     "title": "Sakurai Mei no Tsukurikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/204337.jpg",
+        "alt": "sakurai-mei-no-tsukurikata"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

@@ -1,12 +1,16 @@
 {
     "title": "Hyouka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/50521.jpg",
+        "alt": "hyouka"
+    },
     "type": "tv-serie",
     "episodes": "22",
     "original_name": "氷菓",
     "start_date": "2012-04-23",
     "end_date": "2012-04-23",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Yasashisa no Riyuu (優しさの理由)\" by ChouCho (eps 1-2, 4, 6-8, 10-11)",
+    "ending_song": "#1: \"Madoromi no Yakusoku (まどろみの約束)\" by Satomi Satou & Ai Kayano (eps 2-4, 6-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "mystery",

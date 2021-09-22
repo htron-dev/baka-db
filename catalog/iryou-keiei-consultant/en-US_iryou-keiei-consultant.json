@@ -1,5 +1,9 @@
 {
     "title": "Iryou Keiei Consultant",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1784/91247.jpg",
+        "alt": "iryou-keiei-consultant"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "医療経営コンサルタント",

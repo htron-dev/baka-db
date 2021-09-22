@@ -1,5 +1,9 @@
 {
     "title": "Jarman Complex",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36072.jpg",
+        "alt": "jarman-complex"
+    },
     "type": "manga",
     "original_name": "ジャーマン・コンプレックス",
     "start_date": "2010-05-22",

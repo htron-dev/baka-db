@@ -1,5 +1,9 @@
 {
     "title": "Houkago Play 3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/38227.jpg",
+        "alt": "houkago-play-3"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

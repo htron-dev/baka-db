@@ -1,5 +1,9 @@
 {
     "title": "Hong Gildong Janggun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1125/109979.jpg",
+        "alt": "hong-gildong-janggun"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "홍길동 장군",

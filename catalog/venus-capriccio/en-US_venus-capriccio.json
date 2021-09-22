@@ -1,5 +1,9 @@
 {
     "title": "Venus Capriccio",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6272.jpg",
+        "alt": "venus-capriccio"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "29",

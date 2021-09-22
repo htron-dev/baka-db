@@ -1,5 +1,9 @@
 {
     "title": "Shoujo Kakumei Utena: After the Revolution",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/209996.jpg",
+        "alt": "shoujo-kakumei-utena-after-the-revolution"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

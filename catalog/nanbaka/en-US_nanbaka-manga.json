@@ -1,5 +1,9 @@
 {
     "title": "Nanbaka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166984.jpg",
+        "alt": "nanbaka"
+    },
     "type": "manga",
     "original_name": "ナンバカ",
     "start_date": "2013-10-13",

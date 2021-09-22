@@ -1,5 +1,9 @@
 {
     "title": "Tsugumomo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187764.jpg",
+        "alt": "tsugumomo"
+    },
     "type": "manga",
     "original_name": "つぐもも",
     "start_date": "2007-11-20",

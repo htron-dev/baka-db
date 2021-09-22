@@ -1,5 +1,9 @@
 {
     "title": "Akuryou Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/28683.jpg",
+        "alt": "akuryou-series"
+    },
     "type": "light-novel",
     "volumes": "8",
     "chapters": "49",

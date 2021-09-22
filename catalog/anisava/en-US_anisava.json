@@ -1,5 +1,9 @@
 {
     "title": "Anisava",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/67189.jpg",
+        "alt": "anisava"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ANISAVA",

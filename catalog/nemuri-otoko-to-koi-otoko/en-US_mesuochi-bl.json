@@ -1,5 +1,9 @@
 {
     "title": "Mesuochi BL",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238083.jpg",
+        "alt": "mesuochi-bl"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

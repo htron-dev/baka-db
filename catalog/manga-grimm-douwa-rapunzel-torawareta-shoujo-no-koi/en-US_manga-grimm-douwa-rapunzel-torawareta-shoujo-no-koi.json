@@ -1,5 +1,9 @@
 {
     "title": "Manga Grimm Douwa: Rapunzel - Torawareta Shoujo no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/137419.jpg",
+        "alt": "manga-grimm-douwa-rapunzel-torawareta-shoujo-no-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

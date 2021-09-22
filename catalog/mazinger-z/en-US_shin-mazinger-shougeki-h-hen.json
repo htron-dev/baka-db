@@ -1,5 +1,9 @@
 {
     "title": "Shin Mazinger: Shougeki! H-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171857.jpg",
+        "alt": "shin-mazinger-shougeki-h-hen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Otogi Manga Calendar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/39147.jpg",
+        "alt": "otogi-manga-calendar"
+    },
     "type": "tv-serie",
     "episodes": "312",
     "original_name": "おとぎマンガカレンダー",

@@ -1,5 +1,9 @@
 {
     "title": "Bright Prison",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153750.jpg",
+        "alt": "bright-prison"
+    },
     "type": "light-novel",
     "original_name": "ブライト・プリズン",
     "start_date": "2013-05-01",

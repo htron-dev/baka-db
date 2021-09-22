@@ -1,12 +1,16 @@
 {
     "title": "Tensura Nikki: Tensei shitara Slime Datta Ken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1458/117607.jpg",
+        "alt": "tensura-nikki-tensei-shitara-slime-datta-ken"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "転スラ日記 転生したらスライムだった件",
     "start_date": "2021-04-06",
     "end_date": "2021-04-06",
     "opening_song": "\"Brand new diary\" by Akane Kumada",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Brand new diary\" by Akane Kumada (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

@@ -1,5 +1,9 @@
 {
     "title": "Ousama no Koiasobi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167465.jpg",
+        "alt": "ousama-no-koiasobi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

@@ -1,11 +1,15 @@
 {
     "title": "Mad★Bull 34",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/67821.jpg",
+        "alt": "mad★-bull-34"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "マッド ★ ブル 34",
     "start_date": "1990-12-21",
     "end_date": "1990-12-21",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Time to Get Busy\" by James Brown (ep 1)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

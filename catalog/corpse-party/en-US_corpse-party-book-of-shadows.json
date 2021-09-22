@@ -1,5 +1,9 @@
 {
     "title": "Corpse Party: Book of Shadows",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/139025.jpg",
+        "alt": "corpse-party-book-of-shadows"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

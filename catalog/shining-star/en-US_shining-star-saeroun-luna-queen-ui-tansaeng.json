@@ -1,8 +1,12 @@
 {
     "title": "Shining Star: Saeroun Luna-Queen-ui Tansaeng!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1115/107261.jpg",
+        "alt": "shining-star-saeroun-luna-queen-ui-tansaeng"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "샤이닝스타",
+    "original_name": "샤이닝스타: 새로운 루나퀸의 탄생!",
     "start_date": "2019-07-18",
     "rating": "PG - Children",
     "tags": [

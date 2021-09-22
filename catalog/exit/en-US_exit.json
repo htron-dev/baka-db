@@ -1,5 +1,9 @@
 {
     "title": "EXIT",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/46941.jpg",
+        "alt": "exit"
+    },
     "type": "manga",
     "original_name": "EXIT ～エグジット～",
     "start_date": "2002-10-24",

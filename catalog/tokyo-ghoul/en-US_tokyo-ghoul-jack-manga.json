@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Ghoul: \"Jack\"",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/134713.jpg",
+        "alt": "tokyo-ghoul-jack"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

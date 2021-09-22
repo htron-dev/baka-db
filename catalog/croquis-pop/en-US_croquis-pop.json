@@ -1,5 +1,9 @@
 {
     "title": "Croquis Pop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14822.jpg",
+        "alt": "croquis-pop"
+    },
     "type": "manhwa",
     "volumes": "6",
     "chapters": "39",

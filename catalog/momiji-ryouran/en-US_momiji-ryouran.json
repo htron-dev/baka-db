@@ -1,5 +1,9 @@
 {
     "title": "Momiji Ryouran",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/79515.jpg",
+        "alt": "momiji-ryouran"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "紅葉繚乱",

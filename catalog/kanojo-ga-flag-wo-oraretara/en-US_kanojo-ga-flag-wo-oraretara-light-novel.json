@@ -1,5 +1,9 @@
 {
     "title": "Kanojo ga Flag wo Oraretara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/81290.jpg",
+        "alt": "kanojo-ga-flag-wo-oraretara"
+    },
     "type": "light-novel",
     "volumes": "16",
     "original_name": "彼女がフラグをおられたら",

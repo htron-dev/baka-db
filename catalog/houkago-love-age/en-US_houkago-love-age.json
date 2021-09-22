@@ -1,5 +1,9 @@
 {
     "title": "Houkago Love Age",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/38296.jpg",
+        "alt": "houkago-love-age"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

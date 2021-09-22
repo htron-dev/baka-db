@@ -1,5 +1,9 @@
 {
     "title": "Omakase Scrappers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/47062.jpg",
+        "alt": "omakase-scrappers"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "おまかせ スクラッパーズ",

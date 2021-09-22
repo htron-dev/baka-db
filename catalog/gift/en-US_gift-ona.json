@@ -1,5 +1,9 @@
 {
     "title": "Gift±",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1688/93905.jpg",
+        "alt": "gift"
+    },
     "type": "ona",
     "episodes": "20",
     "original_name": "ギフト ±",

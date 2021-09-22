@@ -1,5 +1,9 @@
 {
     "title": "Kurokuroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/147695.jpg",
+        "alt": "kurokuroku"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

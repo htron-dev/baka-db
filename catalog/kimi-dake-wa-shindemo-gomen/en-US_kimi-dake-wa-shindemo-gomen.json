@@ -1,5 +1,9 @@
 {
     "title": "Kimi dake wa Shindemo Gomen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224431.jpg",
+        "alt": "kimi-dake-wa-shindemo-gomen"
+    },
     "type": "manga",
     "original_name": "君だけは死んでもごめん",
     "start_date": "2018-05-03",

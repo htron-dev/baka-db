@@ -1,5 +1,9 @@
 {
     "title": "Kodoku na Yoru no, Amai Mitsu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195074.jpg",
+        "alt": "kodoku-na-yoru-no-amai-mitsu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "孤独な夜の、甘い蜜。",

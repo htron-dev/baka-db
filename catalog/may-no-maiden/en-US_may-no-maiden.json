@@ -1,5 +1,9 @@
 {
     "title": "May no Maiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206106.jpg",
+        "alt": "may-no-maiden"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "26",

@@ -1,5 +1,9 @@
 {
     "title": "Dreaming Road",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14488.jpg",
+        "alt": "dreaming-road"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "Dreaming Road (ドリーミングロード)",

@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Wakusei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/82060.jpg",
+        "alt": "koisuru-wakusei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

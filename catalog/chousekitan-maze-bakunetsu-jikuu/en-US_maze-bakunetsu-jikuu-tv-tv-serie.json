@@ -1,12 +1,16 @@
 {
     "title": "Maze☆Bakunetsu Jikuu (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/20383.jpg",
+        "alt": "maze☆-bakunetsu-jikuu-tv"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "MAZE☆ 爆熱時空",
     "start_date": "1997-04-03",
     "end_date": "1997-04-03",
     "opening_song": "\"Kokuu no Meikyuu\" by Seikima II",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Junk Boy\" by Kaori 2 Luv (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

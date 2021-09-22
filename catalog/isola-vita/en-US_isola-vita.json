@@ -1,5 +1,9 @@
 {
     "title": "Isola Vita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26640.jpg",
+        "alt": "isola-vita"
+    },
     "type": "manga",
     "original_name": "イゾラ・ヴィータ",
     "tags": [

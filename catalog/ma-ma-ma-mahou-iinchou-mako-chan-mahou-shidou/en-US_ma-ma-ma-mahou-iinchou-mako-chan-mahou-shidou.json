@@ -1,5 +1,9 @@
 {
     "title": "MaMaMa: Mahou Iinchou Mako-chan Mahou Shidou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/90073.jpg",
+        "alt": "ma-ma-ma-mahou-iinchou-mako-chan-mahou-shidou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "16",

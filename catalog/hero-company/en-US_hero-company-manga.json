@@ -1,5 +1,9 @@
 {
     "title": "Hero Company",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153224.jpg",
+        "alt": "hero-company"
+    },
     "type": "manga",
     "original_name": "ヒーローカンパニー",
     "start_date": "2011-11-01",

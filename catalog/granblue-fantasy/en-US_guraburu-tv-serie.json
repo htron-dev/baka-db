@@ -1,5 +1,9 @@
 {
     "title": "Guraburu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1802/106812.jpg",
+        "alt": "guraburu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ぐらぶるっ！",

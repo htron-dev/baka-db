@@ -1,5 +1,9 @@
 {
     "title": "Langene x Code",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/147387.jpg",
+        "alt": "langene-x-code"
+    },
     "type": "light-novel",
     "original_name": "ランジーン × コード",
     "start_date": "2010-09-10",

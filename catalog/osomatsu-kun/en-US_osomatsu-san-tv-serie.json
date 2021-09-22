@@ -1,12 +1,16 @@
 {
     "title": "Osomatsu-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/76540.jpg",
+        "alt": "osomatsu-san"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "おそ松さん",
     "start_date": "2015-10-06",
     "end_date": "2015-10-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Hanamaru Pippi wa Yoiko dake (はなまるぴっぴはよいこだけ)\" by AOP",
+    "ending_song": "#1: \"SIX SAME FACES ~Konya wa Saikou!!!!!!~ (SIX SAME FACES ～今夜は最高!!!!!!～)\" by VOICE by Iyami feat. Osomatsu x Karamatsu x Choromatsu x Ichimatsu x Juushimatsu x Todomatsu",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "comedy",

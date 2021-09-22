@@ -1,5 +1,9 @@
 {
     "title": "Ada Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39028.jpg",
+        "alt": "ada-senki"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "アダ戦記",

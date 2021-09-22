@@ -1,5 +1,9 @@
 {
     "title": "Ano Tsuki ni Mukatte Ute!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239900.jpg",
+        "alt": "ano-tsuki-ni-mukatte-ute"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "52",

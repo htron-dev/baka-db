@@ -1,5 +1,9 @@
 {
     "title": "Magical Canan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/75560.jpg",
+        "alt": "magical-canan"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "まじかるカナン",

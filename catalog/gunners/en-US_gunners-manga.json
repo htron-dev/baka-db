@@ -1,5 +1,9 @@
 {
     "title": "Gunners",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174902.jpg",
+        "alt": "gunners"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "55",

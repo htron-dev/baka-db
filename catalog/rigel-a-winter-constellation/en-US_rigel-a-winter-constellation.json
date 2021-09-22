@@ -1,5 +1,9 @@
 {
     "title": "Rigel: A Winter Constellation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2945.jpg",
+        "alt": "rigel-a-winter-constellation"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

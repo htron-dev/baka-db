@@ -1,5 +1,9 @@
 {
     "title": "Gokuu no Daibouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/53219.jpg",
+        "alt": "gokuu-no-daibouken"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "悟空の大冒険",

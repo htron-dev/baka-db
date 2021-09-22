@@ -1,5 +1,9 @@
 {
     "title": "Koi to Uso to Puraido to",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5969.jpg",
+        "alt": "koi-to-uso-to-puraido-to"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Anime Alive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164398.jpg",
+        "alt": "anime-alive"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "アニメアライブ",

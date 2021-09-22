@@ -1,5 +1,9 @@
 {
     "title": "Mononoke☆Chinkamo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36788.jpg",
+        "alt": "mononoke☆-chinkamo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

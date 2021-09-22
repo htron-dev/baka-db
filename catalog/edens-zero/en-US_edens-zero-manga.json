@@ -1,5 +1,9 @@
 {
     "title": "Edens Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/212094.jpg",
+        "alt": "edens-zero"
+    },
     "type": "manga",
     "original_name": "EDENS ZERO",
     "start_date": "2018-06-27",

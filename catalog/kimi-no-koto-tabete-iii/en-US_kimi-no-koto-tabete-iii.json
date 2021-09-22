@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Koto Tabete Iii?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/233796.jpg",
+        "alt": "kimi-no-koto-tabete-iii"
+    },
     "type": "manga",
     "original_name": "キミのこと喰べていーい？",
     "start_date": "2020-03-03",

@@ -1,5 +1,9 @@
 {
     "title": "Miyori no Mori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/22725.jpg",
+        "alt": "miyori-no-mori"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ミヨリの森",

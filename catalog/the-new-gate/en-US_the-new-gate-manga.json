@@ -1,5 +1,9 @@
 {
     "title": "The New Gate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/183226.jpg",
+        "alt": "the-new-gate"
+    },
     "type": "manga",
     "original_name": "THE NEW GATE",
     "start_date": "2014-11-11",

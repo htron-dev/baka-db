@@ -1,5 +1,9 @@
 {
     "title": "Amanatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/26578.jpg",
+        "alt": "amanatsu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "アマナツ",

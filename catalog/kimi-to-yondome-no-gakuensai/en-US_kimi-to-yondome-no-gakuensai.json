@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Yondome no Gakuensai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195956.jpg",
+        "alt": "kimi-to-yondome-no-gakuensai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

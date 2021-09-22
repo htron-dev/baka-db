@@ -1,5 +1,9 @@
 {
     "title": "Hotel Africa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5429.jpg",
+        "alt": "hotel-africa"
+    },
     "type": "manhwa",
     "original_name": "非洲大饭店",
     "tags": [

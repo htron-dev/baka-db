@@ -1,5 +1,9 @@
 {
     "title": "Ippitsu Nyuukon!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165585.jpg",
+        "alt": "ippitsu-nyuukon"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "9",

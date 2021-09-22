@@ -1,5 +1,9 @@
 {
     "title": "Lilac Nocturne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23221.jpg",
+        "alt": "lilac-nocturne"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

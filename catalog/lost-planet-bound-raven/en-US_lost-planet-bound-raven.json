@@ -1,5 +1,9 @@
 {
     "title": "Lost Planet: Bound Raven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/104503.jpg",
+        "alt": "lost-planet-bound-raven"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ロストプラネットバウンドレイブン",

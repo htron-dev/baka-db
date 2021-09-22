@@ -1,5 +1,9 @@
 {
     "title": "Nidoto Ie ni wa Kaerimasen!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236786.jpg",
+        "alt": "nidoto-ie-ni-wa-kaerimasen"
+    },
     "type": "manga",
     "original_name": "二度と家には帰りません！",
     "start_date": "2020-03-27",

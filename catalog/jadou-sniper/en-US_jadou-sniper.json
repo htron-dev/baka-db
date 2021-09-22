@@ -1,5 +1,9 @@
 {
     "title": "Jadou Sniper",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/231588.jpg",
+        "alt": "jadou-sniper"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

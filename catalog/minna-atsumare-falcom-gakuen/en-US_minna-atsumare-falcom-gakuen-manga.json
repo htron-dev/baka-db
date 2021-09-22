@@ -1,5 +1,9 @@
 {
     "title": "Minna Atsumare! Falcom Gakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/100873.jpg",
+        "alt": "minna-atsumare-falcom-gakuen"
+    },
     "type": "manga",
     "original_name": "みんな集まれ！ファルコム学園",
     "start_date": "2010-01-27",

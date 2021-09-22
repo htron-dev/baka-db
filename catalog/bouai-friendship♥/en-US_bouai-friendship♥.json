@@ -1,5 +1,9 @@
 {
     "title": "Bouai Friendship♥",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225988.jpg",
+        "alt": "bouai-friendship♥"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Revenge H",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/155068.jpg",
+        "alt": "revenge-h"
+    },
     "type": "manga",
     "original_name": "リベンジ H",
     "start_date": "2014-06-03",

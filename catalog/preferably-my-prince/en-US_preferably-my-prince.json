@@ -1,5 +1,9 @@
 {
     "title": "Preferably My Prince",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151108.jpg",
+        "alt": "preferably-my-prince"
+    },
     "type": "manhwa",
     "original_name": "이왕이면 다홍",
     "tags": [

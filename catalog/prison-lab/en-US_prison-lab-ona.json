@@ -1,5 +1,9 @@
 {
     "title": "Prison Lab",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1192/97875.jpg",
+        "alt": "prison-lab"
+    },
     "type": "ona",
     "episodes": "20",
     "original_name": "監獄実験〈プリズンラボ〉",
@@ -21,7 +25,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/%E7%9B%A3%E7%8D%84%E5%AE%9F%E9%A8%93_%E3%83%97%E3%83%AA%E3%82%BA%E3%83%B3%E3%83%A9%E3%83%9C_(%E6%BC%AB%E7%94%BB"
+            "link": "https://ja.wikipedia.org/wiki/%E7%9B%A3%E7%8D%84%E5%AE%9F%E9%A8%93_%E3%83%97%E3%83%AA%E3%82%BA%E3%83%B3%E3%83%A9%E3%83%9C_%28%E6%BC%AB%E7%94%BB%29#Web%E3%82%A2%E3%83%8B%E3%83%A1"
         }
     ]
 }

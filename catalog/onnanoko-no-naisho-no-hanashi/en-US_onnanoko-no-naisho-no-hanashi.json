@@ -1,5 +1,9 @@
 {
     "title": "Onnanoko no Naisho no Hanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/135187.jpg",
+        "alt": "onnanoko-no-naisho-no-hanashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "25",

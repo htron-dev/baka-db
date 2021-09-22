@@ -1,5 +1,9 @@
 {
     "title": "Kuruneko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/121507.jpg",
+        "alt": "kuruneko"
+    },
     "type": "manga",
     "original_name": "くるねこ",
     "start_date": "2006-10-20",

@@ -1,5 +1,9 @@
 {
     "title": "Street Fighter II V Retsuden: Shouryuu Souha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173373.jpg",
+        "alt": "street-fighter-ii-v-retsuden-shouryuu-souha"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ストリートファイター II V 烈伝 昇龍争覇",

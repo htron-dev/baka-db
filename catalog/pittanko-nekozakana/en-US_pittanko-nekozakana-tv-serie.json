@@ -1,5 +1,9 @@
 {
     "title": "Pittanko!! Nekozakana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1058/102001.jpg",
+        "alt": "pittanko-nekozakana"
+    },
     "type": "tv-serie",
     "episodes": "93",
     "original_name": "ぴったんこ!! ねこざかな",

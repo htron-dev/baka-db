@@ -1,5 +1,9 @@
 {
     "title": "Rock Boukenki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36212.jpg",
+        "alt": "rock-boukenki"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ロック冒険記",

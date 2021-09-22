@@ -1,5 +1,9 @@
 {
     "title": "Emma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/141039.jpg",
+        "alt": "emma"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "32",

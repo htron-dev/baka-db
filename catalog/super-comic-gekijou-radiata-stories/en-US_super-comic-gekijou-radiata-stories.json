@@ -1,5 +1,9 @@
 {
     "title": "Super Comic Gekijou: Radiata Stories",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151607.jpg",
+        "alt": "super-comic-gekijou-radiata-stories"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "スーパーコミック劇場 ラジアータ ストーリーズ",

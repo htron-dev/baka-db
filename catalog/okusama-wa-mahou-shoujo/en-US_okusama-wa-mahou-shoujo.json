@@ -1,5 +1,9 @@
 {
     "title": "Okusama wa Mahou Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/19126.jpg",
+        "alt": "okusama-wa-mahou-shoujo"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "奥さまは魔法少女",

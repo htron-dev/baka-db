@@ -1,5 +1,9 @@
 {
     "title": "Shinyuu to Watashi no Suki na Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/63497.jpg",
+        "alt": "shinyuu-to-watashi-no-suki-na-hito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

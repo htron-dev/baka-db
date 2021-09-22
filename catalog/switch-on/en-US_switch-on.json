@@ -1,5 +1,9 @@
 {
     "title": "Switch On!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/79751.jpg",
+        "alt": "switch-on"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

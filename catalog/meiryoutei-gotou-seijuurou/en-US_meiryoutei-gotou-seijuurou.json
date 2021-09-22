@@ -1,5 +1,9 @@
 {
     "title": "Meiryoutei Gotou Seijuurou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227266.jpg",
+        "alt": "meiryoutei-gotou-seijuurou"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "95",

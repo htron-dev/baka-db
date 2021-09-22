@@ -1,5 +1,9 @@
 {
     "title": "Kuma Miko Koushiki Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192305.jpg",
+        "alt": "kuma-miko-koushiki-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "20",

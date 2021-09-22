@@ -1,5 +1,9 @@
 {
     "title": "Uza Nee!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180797.jpg",
+        "alt": "uza-nee"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "25",

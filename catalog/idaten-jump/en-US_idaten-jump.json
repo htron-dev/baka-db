@@ -1,12 +1,16 @@
 {
     "title": "Idaten Jump",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/21027.jpg",
+        "alt": "idaten-jump"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "韋駄天翔(ジャンプ)",
     "start_date": "2005-10-01",
     "end_date": "2005-10-01",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"RED ZONE!!!\" by Tsubame Sketch (ツバメスケッチ)",
+    "ending_song": "#1: \"Asuka (明日花 (あすか))\" by Hoi Festa",
     "rating": "PG - Children",
     "tags": [
         "game",

@@ -1,5 +1,9 @@
 {
     "title": "Plus Kouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/87491.jpg",
+        "alt": "plus-kouji"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "プラス糀",

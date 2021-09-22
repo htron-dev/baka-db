@@ -1,5 +1,9 @@
 {
     "title": "Wind: A Breath of Heart (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/75506.jpg",
+        "alt": "wind-a-breath-of-heart-tv"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "Wind -a breath of heart-",

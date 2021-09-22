@@ -1,5 +1,9 @@
 {
     "title": "Hisho no Territory",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/88729.jpg",
+        "alt": "hisho-no-territory"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

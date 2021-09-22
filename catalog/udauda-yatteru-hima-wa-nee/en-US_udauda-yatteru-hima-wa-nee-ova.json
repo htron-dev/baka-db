@@ -1,5 +1,9 @@
 {
     "title": "Udauda Yatteru Hima wa Nee!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/47101.jpg",
+        "alt": "udauda-yatteru-hima-wa-nee"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "ウダウダやってるヒマはねェ!",

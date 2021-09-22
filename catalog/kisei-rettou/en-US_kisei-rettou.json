@@ -1,5 +1,9 @@
 {
     "title": "Kisei Rettou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235434.jpg",
+        "alt": "kisei-rettou"
+    },
     "type": "manga",
     "original_name": "寄生列島",
     "start_date": "2020-03-02",

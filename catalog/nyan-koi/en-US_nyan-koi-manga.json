@@ -1,5 +1,9 @@
 {
     "title": "Nyan Koi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/52693.jpg",
+        "alt": "nyan-koi"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "35",

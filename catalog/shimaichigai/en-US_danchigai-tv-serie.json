@@ -1,11 +1,15 @@
 {
     "title": "Danchigai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/74879.jpg",
+        "alt": "danchigai"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "だんちがい",
     "start_date": "2015-07-10",
     "end_date": "2015-07-10",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Early Morning\" by Mutsuki Nakano (Satomi Akesaka)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

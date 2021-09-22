@@ -1,5 +1,9 @@
 {
     "title": "Yukikaze: Sentou Yousei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/34972.jpg",
+        "alt": "yukikaze-sentou-yousei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

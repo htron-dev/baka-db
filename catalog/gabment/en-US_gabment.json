@@ -1,5 +1,9 @@
 {
     "title": "Gabment",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/103741.jpg",
+        "alt": "gabment"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ガブメント",

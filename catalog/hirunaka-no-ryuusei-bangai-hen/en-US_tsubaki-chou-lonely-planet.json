@@ -1,5 +1,9 @@
 {
     "title": "Tsubaki-chou Lonely Planet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164273.jpg",
+        "alt": "tsubaki-chou-lonely-planet"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "85",

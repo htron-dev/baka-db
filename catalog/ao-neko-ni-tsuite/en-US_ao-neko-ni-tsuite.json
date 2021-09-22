@@ -1,5 +1,9 @@
 {
     "title": "Ao Neko ni Tsuite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187073.jpg",
+        "alt": "ao-neko-ni-tsuite"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

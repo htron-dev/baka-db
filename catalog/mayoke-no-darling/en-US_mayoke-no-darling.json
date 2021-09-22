@@ -1,5 +1,9 @@
 {
     "title": "Mayoke no Darling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/117761.jpg",
+        "alt": "mayoke-no-darling"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

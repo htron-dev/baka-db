@@ -1,5 +1,9 @@
 {
     "title": "Eiga! Tamagotchi Uchuu Ichi Happy na Monogatari!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/49049.jpg",
+        "alt": "eiga-tamagotchi-uchuu-ichi-happy-na-monogatari"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "映画！たまごっち うちゅーいちハッピーな物語！？",

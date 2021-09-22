@@ -1,12 +1,16 @@
 {
     "title": "Hamelin no Violin Hiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/20972.jpg",
+        "alt": "hamelin-no-violin-hiki"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "ハーメルンのバイオリン弾き",
     "start_date": "1996-10-02",
     "end_date": "1996-10-02",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"Magical Labyrinth\" by SKIRT",
+    "ending_song": "#01: \"Kizu Darake no Tsubasa (Wounded Wings)\" by Ikebukuro",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

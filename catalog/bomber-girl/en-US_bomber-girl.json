@@ -1,5 +1,9 @@
 {
     "title": "Bomber Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180353.jpg",
+        "alt": "bomber-girl"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

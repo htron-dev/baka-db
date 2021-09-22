@@ -1,5 +1,9 @@
 {
     "title": "Nagai Michi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178668.jpg",
+        "alt": "nagai-michi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "54",

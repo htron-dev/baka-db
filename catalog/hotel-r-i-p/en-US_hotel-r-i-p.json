@@ -1,5 +1,9 @@
 {
     "title": "Hotel R.I.P.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/199473.jpg",
+        "alt": "hotel-r-i-p"
+    },
     "type": "manga",
     "original_name": "HOTEL R.I.P.",
     "start_date": "2016-04-26",

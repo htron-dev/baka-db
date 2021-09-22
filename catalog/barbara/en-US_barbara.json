@@ -1,5 +1,9 @@
 {
     "title": "Barbara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6815.jpg",
+        "alt": "barbara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

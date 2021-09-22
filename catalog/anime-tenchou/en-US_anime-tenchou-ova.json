@@ -1,5 +1,9 @@
 {
     "title": "Anime Tenchou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/4635.jpg",
+        "alt": "anime-tenchou"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "アニメ店長",

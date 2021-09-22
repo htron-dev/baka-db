@@ -1,5 +1,9 @@
 {
     "title": "Hikaru no Go Recaps",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1651/105739.jpg",
+        "alt": "hikaru-no-go-recaps"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "ヒカルの碁 ダイジェスト",

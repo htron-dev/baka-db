@@ -1,5 +1,9 @@
 {
     "title": "Full Charge!! Kaden-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228173.jpg",
+        "alt": "full-charge-kaden-chan"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "68",

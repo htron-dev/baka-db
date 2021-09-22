@@ -1,5 +1,9 @@
 {
     "title": "Yaiteru Futari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238790.jpg",
+        "alt": "yaiteru-futari"
+    },
     "type": "manga",
     "original_name": "焼いてるふたり",
     "start_date": "2020-09-24",

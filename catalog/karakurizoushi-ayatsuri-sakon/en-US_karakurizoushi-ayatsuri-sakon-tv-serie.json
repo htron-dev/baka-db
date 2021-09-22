@@ -1,5 +1,9 @@
 {
     "title": "Karakurizoushi Ayatsuri Sakon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/16022.jpg",
+        "alt": "karakurizoushi-ayatsuri-sakon"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "人形草紙あやつり左近",

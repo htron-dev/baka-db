@@ -1,5 +1,9 @@
 {
     "title": "Kremlin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150179.jpg",
+        "alt": "kremlin"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "クレムリン",

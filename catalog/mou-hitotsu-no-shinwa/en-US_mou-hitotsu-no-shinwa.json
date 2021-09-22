@@ -1,5 +1,9 @@
 {
     "title": "Mou Hitotsu no Shinwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176053.jpg",
+        "alt": "mou-hitotsu-no-shinwa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

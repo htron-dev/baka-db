@@ -1,5 +1,9 @@
 {
     "title": "Daite Miyagare!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/85385.jpg",
+        "alt": "daite-miyagare"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Sakikusa no Saku Koro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/133731.jpg",
+        "alt": "sakikusa-no-saku-koro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

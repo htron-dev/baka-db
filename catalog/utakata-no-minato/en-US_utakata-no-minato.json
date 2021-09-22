@@ -1,5 +1,9 @@
 {
     "title": "Utakata no Minato",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236632.jpg",
+        "alt": "utakata-no-minato"
+    },
     "type": "manga",
     "original_name": "ウタカタノミナト",
     "start_date": "2020-03-12",

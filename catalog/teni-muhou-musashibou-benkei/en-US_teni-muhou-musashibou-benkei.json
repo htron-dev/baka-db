@@ -1,5 +1,9 @@
 {
     "title": "Teni Muhou: Musashibou Benkei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/202109.jpg",
+        "alt": "teni-muhou-musashibou-benkei"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "50",

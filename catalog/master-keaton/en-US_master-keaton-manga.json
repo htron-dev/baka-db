@@ -1,5 +1,9 @@
 {
     "title": "Master Keaton",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200911.jpg",
+        "alt": "master-keaton"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "144",

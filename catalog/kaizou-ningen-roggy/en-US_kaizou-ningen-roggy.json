@@ -1,5 +1,9 @@
 {
     "title": "Kaizou Ningen Roggy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157707.jpg",
+        "alt": "kaizou-ningen-roggy"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

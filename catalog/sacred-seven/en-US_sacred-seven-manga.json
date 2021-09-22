@@ -1,5 +1,9 @@
 {
     "title": "Sacred Seven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/44105.jpg",
+        "alt": "sacred-seven"
+    },
     "type": "manga",
     "original_name": "セイクリットセブン",
     "start_date": "2011-07-26",

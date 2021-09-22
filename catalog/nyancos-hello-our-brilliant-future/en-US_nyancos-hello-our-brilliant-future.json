@@ -1,5 +1,9 @@
 {
     "title": "Nyancos: Hello! Our Brilliant Future",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/79693.jpg",
+        "alt": "nyancos-hello-our-brilliant-future"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ニャンコス Hello! Our Brilliant Future",

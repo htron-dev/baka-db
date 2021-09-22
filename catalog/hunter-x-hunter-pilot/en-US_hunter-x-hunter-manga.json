@@ -1,5 +1,9 @@
 {
     "title": "Hunter x Hunter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192445.jpg",
+        "alt": "hunter-x-hunter"
+    },
     "type": "manga",
     "original_name": "HUNTER×HUNTER",
     "start_date": "1998-03-03",

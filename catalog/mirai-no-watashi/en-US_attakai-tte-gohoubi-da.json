@@ -1,5 +1,9 @@
 {
     "title": "Attakai tte, Gohoubi da.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1538/104586.jpg",
+        "alt": "attakai-tte-gohoubi-da"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "あったかいって、ごほうびだ。",

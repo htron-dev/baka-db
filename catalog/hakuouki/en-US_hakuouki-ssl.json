@@ -1,5 +1,9 @@
 {
     "title": "Hakuouki SSL",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166719.jpg",
+        "alt": "hakuouki-ssl"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

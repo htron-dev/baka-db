@@ -1,5 +1,9 @@
 {
     "title": "Ganota no Onna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/59411.jpg",
+        "alt": "ganota-no-onna"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

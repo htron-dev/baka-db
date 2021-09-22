@@ -1,12 +1,16 @@
 {
     "title": "Seiken Tsukai no World Break",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/71769.jpg",
+        "alt": "seiken-tsukai-no-world-break"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "聖剣使いの禁呪詠唱〈ワールドブレイク〉",
     "start_date": "2015-01-12",
     "end_date": "2015-01-12",
     "opening_song": "\"Hi no Ito Rinne no Gemini (緋ノ糸輪廻ノ GEMINI)\" by petit milady (eps 2-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hi no Ito Rinne no Gemini (緋ノ糸輪廻ノ GEMINI)\" by petit milady (ep 1)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

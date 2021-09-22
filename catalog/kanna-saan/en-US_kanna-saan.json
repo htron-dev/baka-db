@@ -1,5 +1,9 @@
 {
     "title": "Kanna-saan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196003.jpg",
+        "alt": "kanna-saan"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "80",

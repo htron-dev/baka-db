@@ -1,5 +1,9 @@
 {
     "title": "Hanayashiki Sumika no Seichi Junrei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/206692.jpg",
+        "alt": "hanayashiki-sumika-no-seichi-junrei"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "8",

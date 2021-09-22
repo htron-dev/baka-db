@@ -1,12 +1,16 @@
 {
     "title": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/51463.jpg",
+        "alt": "danganronpa-kibou-no-gakuen-to-zetsubou-no-koukousei-the-animation"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ダンガンロンパ 希望の学園と絶望の高校生 THE ANIMATION",
     "start_date": "2013-07-05",
     "end_date": "2013-07-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"DANGANRONPA\" by Masafumi Takada (ep 1)",
+    "ending_song": "#1: \"Zetsubousei: Hero Chiryouyaku (絶望性:ヒーロー治療薬)\" by suzumu feat. soraru (eps 1-12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "mystery",

@@ -1,5 +1,9 @@
 {
     "title": "Colorful",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10838.jpg",
+        "alt": "colorful"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

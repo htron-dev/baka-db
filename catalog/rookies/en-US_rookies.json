@@ -1,5 +1,9 @@
 {
     "title": "Rookies",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153289.jpg",
+        "alt": "rookies"
+    },
     "type": "manga",
     "volumes": "24",
     "chapters": "233",

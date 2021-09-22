@@ -1,12 +1,16 @@
 {
     "title": "Rekka no Honoo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1646/113504.jpg",
+        "alt": "rekka-no-honoo"
+    },
     "type": "tv-serie",
     "episodes": "42",
     "original_name": "烈火の炎",
     "start_date": "1997-07-19",
     "end_date": "1997-07-19",
     "opening_song": "\"Nanka Shiawase\" by the OYSTARS",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Love is Changing\" by Hikaru Nishida (eps 01-32)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

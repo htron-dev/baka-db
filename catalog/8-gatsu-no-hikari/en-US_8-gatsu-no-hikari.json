@@ -1,5 +1,9 @@
 {
     "title": "8-gatsu no Hikari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/66599.jpg",
+        "alt": "8-gatsu-no-hikari"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "8 月の光",

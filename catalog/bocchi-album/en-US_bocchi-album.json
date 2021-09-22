@@ -1,5 +1,9 @@
 {
     "title": "Bocchi Album",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/182525.jpg",
+        "alt": "bocchi-album"
+    },
     "type": "manga",
     "original_name": "ぼっちアルバム",
     "start_date": "2015-06-05",

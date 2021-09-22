@@ -1,5 +1,9 @@
 {
     "title": "Kareshi tte Doko ni Ittara Kaemasu no!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/110871.jpg",
+        "alt": "kareshi-tte-doko-ni-ittara-kaemasu-no"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "彼氏ってどこに行ったら買えますの!?",

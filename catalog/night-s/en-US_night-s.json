@@ -1,5 +1,9 @@
 {
     "title": "NightS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/130125.jpg",
+        "alt": "night-s"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

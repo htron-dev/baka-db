@@ -1,5 +1,9 @@
 {
     "title": "Kawaii kara Kimi ga Warui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244448.jpg",
+        "alt": "kawaii-kara-kimi-ga-warui"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

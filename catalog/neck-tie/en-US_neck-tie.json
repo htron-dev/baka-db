@@ -1,5 +1,9 @@
 {
     "title": "Neck-Tie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/79619.jpg",
+        "alt": "neck-tie"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

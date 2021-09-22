@@ -1,5 +1,9 @@
 {
     "title": "SSG: Meimon Danshikou Keppuroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152731.jpg",
+        "alt": "ssg-meimon-danshikou-keppuroku"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

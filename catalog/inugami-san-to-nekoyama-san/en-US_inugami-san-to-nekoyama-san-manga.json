@@ -1,5 +1,9 @@
 {
     "title": "Inugami-san to Nekoyama-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/90515.jpg",
+        "alt": "inugami-san-to-nekoyama-san"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "76",

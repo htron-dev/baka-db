@@ -1,5 +1,9 @@
 {
     "title": "Girls Saurus DX",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/25516.jpg",
+        "alt": "girls-saurus-dx"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "66",

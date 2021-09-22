@@ -1,5 +1,9 @@
 {
     "title": "Juuhime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/119195.jpg",
+        "alt": "juuhime"
+    },
     "type": "light-novel",
     "volumes": "11",
     "original_name": "銃姫",

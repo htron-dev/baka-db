@@ -1,5 +1,9 @@
 {
     "title": "Koi no Kotoba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188959.jpg",
+        "alt": "koi-no-kotoba"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

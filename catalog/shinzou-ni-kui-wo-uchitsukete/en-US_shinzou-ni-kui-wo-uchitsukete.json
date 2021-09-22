@@ -1,5 +1,9 @@
 {
     "title": "Shinzou ni Kui wo Uchitsukete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201372.jpg",
+        "alt": "shinzou-ni-kui-wo-uchitsukete"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "30",

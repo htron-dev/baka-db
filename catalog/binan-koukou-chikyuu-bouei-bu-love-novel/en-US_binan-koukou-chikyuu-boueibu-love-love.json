@@ -1,12 +1,16 @@
 {
     "title": "Binan Koukou Chikyuu Boueibu LOVE! LOVE!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/79937.jpg",
+        "alt": "binan-koukou-chikyuu-boueibu-love-love"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "美男高校地球防衛部 LOVE！LOVE！",
     "start_date": "2016-07-08",
     "end_date": "2016-07-08",
     "opening_song": "\"Futten Toppa☆LOVE IS POWER☆ (沸点突破 ☆LOVE IS POWER☆)\" by Chikyuu Bouei-bu (Kazutomi Yamamoto, Yuuichirou Umehara, Toshiki Masuda, Koutarou Nishiyama, Yuusuke Shirai) (eps 2-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Futten Toppa☆LOVE IS POWER☆ (沸点突破 ☆LOVE IS POWER☆)\" by Chikyuu Bouei-bu (Kazutomi Yamamoto, Yuuichirou Umehara, Toshiki Masuda, Koutarou Nishiyama, Yuusuke Shirai) (eps 1, 12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

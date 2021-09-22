@@ -1,5 +1,9 @@
 {
     "title": "Ugetsu Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/80881.jpg",
+        "alt": "ugetsu-monogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

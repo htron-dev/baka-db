@@ -1,12 +1,16 @@
 {
     "title": "xxxHOLiC Rou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/25080.jpg",
+        "alt": "xxx-ho-li-c-rou"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "×××HOLiC・籠",
     "start_date": "2010-04-23",
     "end_date": "2010-04-23",
     "opening_song": "\"Adayume\" by Shikao Suga (ep 2)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kaza Nagi\" by Shikao Suga (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "mystery",

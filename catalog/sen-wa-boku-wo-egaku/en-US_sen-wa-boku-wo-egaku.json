@@ -1,5 +1,9 @@
 {
     "title": "Sen wa, Boku wo Egaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222543.jpg",
+        "alt": "sen-wa-boku-wo-egaku"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "32",

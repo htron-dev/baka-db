@@ -1,5 +1,9 @@
 {
     "title": "Byousoku 5 Centimeter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1410/112994.jpg",
+        "alt": "byousoku-5-centimeter"
+    },
     "type": "movie",
     "episodes": "3",
     "original_name": "秒速５センチメートル",

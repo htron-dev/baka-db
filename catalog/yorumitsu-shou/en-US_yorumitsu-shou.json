@@ -1,5 +1,9 @@
 {
     "title": "Yorumitsu Shou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182451.jpg",
+        "alt": "yorumitsu-shou"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Kirameki☆Project",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/2495.jpg",
+        "alt": "kirameki☆-project"
+    },
     "type": "ova",
     "episodes": "5",
     "original_name": "きらめき ☆ プロジェクト",

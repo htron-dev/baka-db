@@ -1,5 +1,9 @@
 {
     "title": "Devil Survivor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172106.jpg",
+        "alt": "devil-survivor"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "42",

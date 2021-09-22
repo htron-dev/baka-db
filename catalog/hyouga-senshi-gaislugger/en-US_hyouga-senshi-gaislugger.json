@@ -1,5 +1,9 @@
 {
     "title": "Hyouga Senshi Gaislugger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/27078.jpg",
+        "alt": "hyouga-senshi-gaislugger"
+    },
     "type": "tv-serie",
     "episodes": "20",
     "original_name": "氷河戦士ガイスラッガー",

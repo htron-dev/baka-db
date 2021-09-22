@@ -1,5 +1,9 @@
 {
     "title": "Usotsuki no Heart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/229761.jpg",
+        "alt": "usotsuki-no-heart"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

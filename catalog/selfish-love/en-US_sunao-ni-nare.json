@@ -1,5 +1,9 @@
 {
     "title": "Sunao ni Nare!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/29900.jpg",
+        "alt": "sunao-ni-nare"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "素直になれ！",

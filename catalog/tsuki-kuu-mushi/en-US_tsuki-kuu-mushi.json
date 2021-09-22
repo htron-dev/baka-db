@@ -1,5 +1,9 @@
 {
     "title": "Tsuki Kuu Mushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/97129.jpg",
+        "alt": "tsuki-kuu-mushi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

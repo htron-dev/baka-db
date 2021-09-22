@@ -1,5 +1,9 @@
 {
     "title": "Himitsu no Kemonotachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2317.jpg",
+        "alt": "himitsu-no-kemonotachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Ichiban Nagai Yoru wo Yoroshiku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/82438.jpg",
+        "alt": "ichiban-nagai-yoru-wo-yoroshiku"
+    },
     "type": "manga",
     "original_name": "いちばん長い夜をよろしく",
     "start_date": "2011-12-20",

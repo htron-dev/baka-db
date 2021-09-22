@@ -1,5 +1,9 @@
 {
     "title": "Peigenz",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14309.jpg",
+        "alt": "peigenz"
+    },
     "type": "manhwa",
     "volumes": "8",
     "original_name": "페이건즈",

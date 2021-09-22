@@ -1,11 +1,15 @@
 {
     "title": "Madonna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/67361.jpg",
+        "alt": "madonna"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "マドンナ",
     "start_date": "1988-03-11",
     "end_date": "1988-03-11",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Namida, Machikado, Illumination (涙・街角・イルミネイション)\" by DA BUBBLEGUM BROTHERS (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sports",

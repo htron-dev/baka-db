@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Ravens: Girls Photograph",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/132217.jpg",
+        "alt": "tokyo-ravens-girls-photograph"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

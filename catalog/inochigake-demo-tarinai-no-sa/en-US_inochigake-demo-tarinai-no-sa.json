@@ -1,5 +1,9 @@
 {
     "title": "Inochigake demo Tarinai no sa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239262.jpg",
+        "alt": "inochigake-demo-tarinai-no-sa"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

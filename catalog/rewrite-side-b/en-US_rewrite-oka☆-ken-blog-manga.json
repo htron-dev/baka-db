@@ -1,5 +1,9 @@
 {
     "title": "Rewrite: Oka☆Ken Blog",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/128623.jpg",
+        "alt": "rewrite-oka☆-ken-blog"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

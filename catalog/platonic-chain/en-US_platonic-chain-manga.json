@@ -1,5 +1,9 @@
 {
     "title": "Platonic Chain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168236.jpg",
+        "alt": "platonic-chain"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "33",

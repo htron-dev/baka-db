@@ -1,5 +1,9 @@
 {
     "title": "Nekutai to Kamakiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/46901.jpg",
+        "alt": "nekutai-to-kamakiri"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ネクタイとカマキリ",

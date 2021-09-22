@@ -1,5 +1,9 @@
 {
     "title": "Twinkle Saber Nova",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170636.jpg",
+        "alt": "twinkle-saber-nova"
+    },
     "type": "manga",
     "original_name": "ティンクルセイバー NOVA",
     "tags": [

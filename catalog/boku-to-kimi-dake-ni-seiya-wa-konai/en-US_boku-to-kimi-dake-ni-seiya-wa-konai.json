@@ -1,5 +1,9 @@
 {
     "title": "Boku to Kimi dake ni Seiya wa Konai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241514.jpg",
+        "alt": "boku-to-kimi-dake-ni-seiya-wa-konai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

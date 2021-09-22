@@ -1,5 +1,9 @@
 {
     "title": "Appare Jipangu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21025.jpg",
+        "alt": "appare-jipangu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "10",

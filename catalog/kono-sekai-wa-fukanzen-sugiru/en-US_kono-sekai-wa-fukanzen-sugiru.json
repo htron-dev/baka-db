@@ -1,5 +1,9 @@
 {
     "title": "Kono Sekai wa Fukanzen Sugiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235528.jpg",
+        "alt": "kono-sekai-wa-fukanzen-sugiru"
+    },
     "type": "manga",
     "original_name": "この世界は不完全すぎる",
     "start_date": "2020-05-30",

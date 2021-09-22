@@ -1,5 +1,9 @@
 {
     "title": "Hikikomori Pandemonium",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163331.jpg",
+        "alt": "hikikomori-pandemonium"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "25",

@@ -1,5 +1,9 @@
 {
     "title": "Watashi ga Neko ni Naru Hi made",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194068.jpg",
+        "alt": "watashi-ga-neko-ni-naru-hi-made"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "私が猫になる日まで",

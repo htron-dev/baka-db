@@ -1,5 +1,9 @@
 {
     "title": "Joukamachi no Dandelion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/133651.jpg",
+        "alt": "joukamachi-no-dandelion"
+    },
     "type": "manga",
     "original_name": "城下町のダンデライオン",
     "start_date": "2012-02-16",

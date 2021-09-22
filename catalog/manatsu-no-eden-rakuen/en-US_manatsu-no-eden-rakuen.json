@@ -1,5 +1,9 @@
 {
     "title": "Manatsu no Eden Rakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31406.jpg",
+        "alt": "manatsu-no-eden-rakuen"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "真夏の EDEN-楽園",

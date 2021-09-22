@@ -1,5 +1,9 @@
 {
     "title": "Tantei Aoneko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/34158.jpg",
+        "alt": "tantei-aoneko"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "33",

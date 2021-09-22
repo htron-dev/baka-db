@@ -1,5 +1,9 @@
 {
     "title": "Yumekui Kenbun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160940.jpg",
+        "alt": "yumekui-kenbun"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "66",

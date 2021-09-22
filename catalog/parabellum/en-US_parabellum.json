@@ -1,5 +1,9 @@
 {
     "title": "Parabellum",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149884.jpg",
+        "alt": "parabellum"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "xxxHOLiC: Rei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243539.jpg",
+        "alt": "xxx-ho-li-c-rei"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "56",

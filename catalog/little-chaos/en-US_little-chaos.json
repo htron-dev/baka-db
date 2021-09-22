@@ -1,5 +1,9 @@
 {
     "title": "Little Chaos",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165114.jpg",
+        "alt": "little-chaos"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "35",

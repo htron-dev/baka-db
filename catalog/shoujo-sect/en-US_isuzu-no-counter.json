@@ -1,5 +1,9 @@
 {
     "title": "Isuzu no Counter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14340.jpg",
+        "alt": "isuzu-no-counter"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "五十鈴のカウンター",

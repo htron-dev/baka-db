@@ -1,5 +1,9 @@
 {
     "title": "Ragna Crown",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/123279.jpg",
+        "alt": "ragna-crown"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "ラグナ・クラウン",

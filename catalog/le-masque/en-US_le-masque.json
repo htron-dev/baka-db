@@ -1,5 +1,9 @@
 {
     "title": "Le Masque",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/48475.jpg",
+        "alt": "le-masque"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "4",

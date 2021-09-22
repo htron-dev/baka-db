@@ -1,5 +1,9 @@
 {
     "title": "Devil King",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/45375.jpg",
+        "alt": "devil-king"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "デビルキング",

@@ -1,5 +1,9 @@
 {
     "title": "Ai ni nante Oborenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/232357.jpg",
+        "alt": "ai-ni-nante-oborenai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

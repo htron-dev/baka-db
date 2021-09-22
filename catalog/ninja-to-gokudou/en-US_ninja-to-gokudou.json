@@ -1,5 +1,9 @@
 {
     "title": "Ninja to Gokudou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235835.jpg",
+        "alt": "ninja-to-gokudou"
+    },
     "type": "manga",
     "original_name": "忍者と極道",
     "start_date": "2020-01-20",

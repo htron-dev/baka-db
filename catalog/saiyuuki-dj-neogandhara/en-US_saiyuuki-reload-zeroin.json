@@ -1,5 +1,9 @@
 {
     "title": "Saiyuuki Reload: Zeroin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1125/111173.jpg",
+        "alt": "saiyuuki-reload-zeroin"
+    },
     "type": "tv-serie",
     "original_name": "最遊記 RELOAD -ZEROIN-",
     "rating": "None",
@@ -24,7 +28,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Saiyuki_(manga"
+            "link": "https://en.wikipedia.org/wiki/Saiyuki_%28manga%29#Anime"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Kantai Collection 4-koma Comic: Fubuki, Ganbarimasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/108365.jpg",
+        "alt": "kantai-collection-4-koma-comic-fubuki-ganbarimasu"
+    },
     "type": "manga",
     "volumes": "17",
     "original_name": "艦隊これくしょん -艦これ- 4 コマコミック 吹雪、がんばります!",

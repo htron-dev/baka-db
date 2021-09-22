@@ -1,5 +1,9 @@
 {
     "title": "WIXOSS: bkub Tama Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/230671.jpg",
+        "alt": "wixoss-bkub-tama-gekijou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

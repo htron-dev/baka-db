@@ -1,5 +1,9 @@
 {
     "title": "The Gentleman and the Lady",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/22834.jpg",
+        "alt": "the-gentleman-and-the-lady"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

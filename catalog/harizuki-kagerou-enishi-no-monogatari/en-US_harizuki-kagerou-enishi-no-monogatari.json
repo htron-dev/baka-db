@@ -1,5 +1,9 @@
 {
     "title": "Harizuki Kagerou Enishi no Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157488.jpg",
+        "alt": "harizuki-kagerou-enishi-no-monogatari"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Shinigamihime no Saikon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/111359.jpg",
+        "alt": "shinigamihime-no-saikon"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

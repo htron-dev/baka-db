@@ -1,5 +1,9 @@
 {
     "title": "Onna Kishi Collection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/199459.jpg",
+        "alt": "onna-kishi-collection"
+    },
     "type": "light-novel",
     "original_name": "女騎士これくしょん",
     "start_date": "2017-09-01",

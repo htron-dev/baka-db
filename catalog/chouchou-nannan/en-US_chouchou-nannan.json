@@ -1,5 +1,9 @@
 {
     "title": "Chouchou Nannan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/150306.jpg",
+        "alt": "chouchou-nannan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

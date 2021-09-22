@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi Asterism",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/96513.jpg",
+        "alt": "hatsukoi-asterism"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

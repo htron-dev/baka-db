@@ -1,5 +1,9 @@
 {
     "title": "Handsome Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/34835.jpg",
+        "alt": "handsome-girl"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハンサムな彼女",

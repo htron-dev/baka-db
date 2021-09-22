@@ -1,5 +1,9 @@
 {
     "title": "Akari wo Kudasai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/72275.jpg",
+        "alt": "akari-wo-kudasai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

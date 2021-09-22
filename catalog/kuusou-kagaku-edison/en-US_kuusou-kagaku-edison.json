@@ -1,5 +1,9 @@
 {
     "title": "Kuusou Kagaku Edison",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/29561.jpg",
+        "alt": "kuusou-kagaku-edison"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

@@ -1,5 +1,9 @@
 {
     "title": "Ore tte, Tenshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/119541.jpg",
+        "alt": "ore-tte-tenshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

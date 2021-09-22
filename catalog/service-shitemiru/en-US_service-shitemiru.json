@@ -1,5 +1,9 @@
 {
     "title": "Service Shitemiru?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155093.jpg",
+        "alt": "service-shitemiru"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "サービスしてみる?",

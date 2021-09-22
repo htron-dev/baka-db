@@ -1,5 +1,9 @@
 {
     "title": "Pandora Channel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/210088.jpg",
+        "alt": "pandora-channel"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

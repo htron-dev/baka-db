@@ -1,5 +1,9 @@
 {
     "title": "Meteor Methuselah",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/198155.jpg",
+        "alt": "meteor-methuselah"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "61",

@@ -1,12 +1,16 @@
 {
     "title": "Nurarihyon no Mago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/75631.jpg",
+        "alt": "nurarihyon-no-mago"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ぬらりひょんの孫",
     "start_date": "2010-07-06",
     "end_date": "2010-07-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Fast Forward\" by Monkey Majik (eps 1-12)",
+    "ending_song": "#1: \"Sparky☆Start\" by Katate☆SIZE (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

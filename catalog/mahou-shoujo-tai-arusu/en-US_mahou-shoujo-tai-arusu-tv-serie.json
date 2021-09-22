@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo-tai Arusu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/57287.jpg",
+        "alt": "mahou-shoujo-tai-arusu"
+    },
     "type": "tv-serie",
     "episodes": "40",
     "original_name": "魔法少女隊アルス",

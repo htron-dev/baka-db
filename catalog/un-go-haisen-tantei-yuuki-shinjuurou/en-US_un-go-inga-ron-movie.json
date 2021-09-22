@@ -1,8 +1,12 @@
 {
     "title": "Un-Go: Inga-ron",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/35071.jpg",
+        "alt": "un-go-inga-ron"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "UN-GO episode",
+    "original_name": "UN-GO episode:0 因果論",
     "start_date": "2011-11-19",
     "ending_song": "\"Fantasy\" by LAMA",
     "rating": "R - 17+ (violence & profanity)",

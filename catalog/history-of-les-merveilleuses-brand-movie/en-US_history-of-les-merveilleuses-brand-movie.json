@@ -1,5 +1,9 @@
 {
     "title": "History of Les Merveilleuses: Brand Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1514/91243.jpg",
+        "alt": "history-of-les-merveilleuses-brand-movie"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "History of LesMerveilleuses ブランドムービー",

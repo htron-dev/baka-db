@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty: Ringo no Mori to Parallel Town",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1030/102887.jpg",
+        "alt": "hello-kitty-ringo-no-mori-to-parallel-town"
+    },
     "type": "tv-serie",
     "episodes": "27",
     "original_name": "ハローキティ りんごの森とパラレルタウン",

@@ -1,5 +1,9 @@
 {
     "title": "Pretty Maniacs",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/168687.jpg",
+        "alt": "pretty-maniacs"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

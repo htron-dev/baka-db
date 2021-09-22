@@ -1,5 +1,9 @@
 {
     "title": "Darling wa 55-sai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181538.jpg",
+        "alt": "darling-wa-55-sai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

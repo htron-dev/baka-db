@@ -1,5 +1,9 @@
 {
     "title": "Gaten na Aitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176819.jpg",
+        "alt": "gaten-na-aitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

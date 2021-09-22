@@ -1,5 +1,9 @@
 {
     "title": "Hariko wa Oneesama ni Aisareru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201193.jpg",
+        "alt": "hariko-wa-oneesama-ni-aisareru"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

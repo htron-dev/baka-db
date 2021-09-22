@@ -1,5 +1,9 @@
 {
     "title": "Miwaku no Makazoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235545.jpg",
+        "alt": "miwaku-no-makazoku"
+    },
     "type": "manga",
     "original_name": "みわくの魔かぞく",
     "start_date": "2018-06-19",

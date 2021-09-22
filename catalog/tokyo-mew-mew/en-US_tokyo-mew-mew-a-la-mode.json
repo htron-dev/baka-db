@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Mew Mew à La Mode",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153746.jpg",
+        "alt": "tokyo-mew-mew-a-la-mode"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

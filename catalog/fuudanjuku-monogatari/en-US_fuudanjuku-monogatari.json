@@ -1,5 +1,9 @@
 {
     "title": "Fuudanjuku Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/62761.jpg",
+        "alt": "fuudanjuku-monogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

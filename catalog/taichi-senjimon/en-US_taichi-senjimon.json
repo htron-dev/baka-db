@@ -1,5 +1,9 @@
 {
     "title": "Taichi Senjimon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/22328.jpg",
+        "alt": "taichi-senjimon"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "太極千字文",

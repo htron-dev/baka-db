@@ -1,5 +1,9 @@
 {
     "title": "Persona: Tsumi to Batsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27921.jpg",
+        "alt": "persona-tsumi-to-batsu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Kyouran Kazoku Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/125383.jpg",
+        "alt": "kyouran-kazoku-nikki"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

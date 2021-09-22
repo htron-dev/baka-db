@@ -1,5 +1,9 @@
 {
     "title": "Self Portrait",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79647.jpg",
+        "alt": "self-portrait"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

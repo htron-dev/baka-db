@@ -1,5 +1,9 @@
 {
     "title": "Give Up!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163569.jpg",
+        "alt": "give-up"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "ギブあっぷ！",

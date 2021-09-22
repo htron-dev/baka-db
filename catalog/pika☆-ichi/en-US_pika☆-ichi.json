@@ -1,5 +1,9 @@
 {
     "title": "Pika☆Ichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41218.jpg",
+        "alt": "pika☆-ichi"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "28",

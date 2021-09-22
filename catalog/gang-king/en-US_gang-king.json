@@ -1,5 +1,9 @@
 {
     "title": "Gang King",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167766.jpg",
+        "alt": "gang-king"
+    },
     "type": "manga",
     "volumes": "37",
     "chapters": "277",

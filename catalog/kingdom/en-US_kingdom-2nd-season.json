@@ -1,12 +1,16 @@
 {
     "title": "Kingdom 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/53589.jpg",
+        "alt": "kingdom-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "キングダム 第 2 シリーズ",
     "start_date": "2013-06-08",
     "end_date": "2013-06-08",
     "opening_song": "\"GLORY DAYS\" by D☆DATE",
-    "ending_song": "#1",
+    "ending_song": "#1: \"21\" by The Sketchbook (eps 1-13)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

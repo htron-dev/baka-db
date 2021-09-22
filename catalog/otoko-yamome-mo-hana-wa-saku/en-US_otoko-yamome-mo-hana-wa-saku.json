@@ -1,5 +1,9 @@
 {
     "title": "Otoko Yamome mo Hana wa Saku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227608.jpg",
+        "alt": "otoko-yamome-mo-hana-wa-saku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

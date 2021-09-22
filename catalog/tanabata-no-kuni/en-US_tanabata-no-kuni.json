@@ -1,5 +1,9 @@
 {
     "title": "Tanabata no Kuni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/35027.jpg",
+        "alt": "tanabata-no-kuni"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "28",

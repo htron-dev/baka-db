@@ -1,5 +1,9 @@
 {
     "title": "Sugao no Kimi wo Aishiteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26509.jpg",
+        "alt": "sugao-no-kimi-wo-aishiteru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

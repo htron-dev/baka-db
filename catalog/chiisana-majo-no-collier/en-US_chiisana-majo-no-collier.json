@@ -1,5 +1,9 @@
 {
     "title": "Chiisana Majo no Collier",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202995.jpg",
+        "alt": "chiisana-majo-no-collier"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

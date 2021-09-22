@@ -1,5 +1,9 @@
 {
     "title": "Koiiro Ryokan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/90577.jpg",
+        "alt": "koiiro-ryokan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

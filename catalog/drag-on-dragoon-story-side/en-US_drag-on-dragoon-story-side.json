@@ -1,5 +1,9 @@
 {
     "title": "Drag-On Dragoon: Story Side",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200915.jpg",
+        "alt": "drag-on-dragoon-story-side"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

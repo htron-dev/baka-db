@@ -1,5 +1,9 @@
 {
     "title": "Sacred Chevalier",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238694.jpg",
+        "alt": "sacred-chevalier"
+    },
     "type": "manga",
     "original_name": "セイクリッド・シュヴァリエ",
     "start_date": "2019-12-24",

@@ -1,5 +1,9 @@
 {
     "title": "Troy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193027.jpg",
+        "alt": "troy"
+    },
     "type": "manhwa",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Hi-Speed Jecy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171585.jpg",
+        "alt": "hi-speed-jecy"
+    },
     "type": "light-novel",
     "volumes": "6",
     "original_name": "ハイスピード・ジェシー",

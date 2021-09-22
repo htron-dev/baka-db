@@ -1,5 +1,9 @@
 {
     "title": "Usotsuki na Kusuriyubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229862.jpg",
+        "alt": "usotsuki-na-kusuriyubi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "嘘つきな薬指",

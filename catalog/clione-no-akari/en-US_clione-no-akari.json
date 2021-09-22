@@ -1,5 +1,9 @@
 {
     "title": "Clione no Akari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/84706.jpg",
+        "alt": "clione-no-akari"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "クリオネの灯り",

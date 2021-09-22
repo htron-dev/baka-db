@@ -1,5 +1,9 @@
 {
     "title": "Eve no Nemuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32824.jpg",
+        "alt": "eve-no-nemuri"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "イヴの眠り",

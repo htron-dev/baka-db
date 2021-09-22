@@ -1,5 +1,9 @@
 {
     "title": "Nobody Cry",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14676.jpg",
+        "alt": "nobody-cry"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Koi ni Hensuru Overwrite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172022.jpg",
+        "alt": "koi-ni-hensuru-overwrite"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

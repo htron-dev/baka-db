@@ -1,5 +1,9 @@
 {
     "title": "Mahou no Chocolate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1055/112163.jpg",
+        "alt": "mahou-no-chocolate"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "魔法のチョコレート",

@@ -1,5 +1,9 @@
 {
     "title": "Good-by Marilyn",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/72107.jpg",
+        "alt": "good-by-marilyn"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "Good-by Marilyn",

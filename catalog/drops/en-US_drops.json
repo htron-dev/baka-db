@@ -1,5 +1,9 @@
 {
     "title": "Drops",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/143449.jpg",
+        "alt": "drops"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

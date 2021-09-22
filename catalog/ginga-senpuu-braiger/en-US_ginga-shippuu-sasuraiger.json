@@ -1,5 +1,9 @@
 {
     "title": "Ginga Shippuu Sasuraiger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/47491.jpg",
+        "alt": "ginga-shippuu-sasuraiger"
+    },
     "type": "tv-serie",
     "episodes": "43",
     "original_name": "銀河疾風サスライガー",

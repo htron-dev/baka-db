@@ -1,5 +1,9 @@
 {
     "title": "Wild da mon♥",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/169536.jpg",
+        "alt": "wild-da-mon♥"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

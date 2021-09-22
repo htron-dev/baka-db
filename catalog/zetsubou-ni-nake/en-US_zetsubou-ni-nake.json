@@ -1,5 +1,9 @@
 {
     "title": "Zetsubou ni Nake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245526.jpg",
+        "alt": "zetsubou-ni-nake"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "Mangirl!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/45314.jpg",
+        "alt": "mangirl"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "まんがーる!",

@@ -1,5 +1,9 @@
 {
     "title": "Popo Can",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11375.jpg",
+        "alt": "popo-can"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ポポ缶",

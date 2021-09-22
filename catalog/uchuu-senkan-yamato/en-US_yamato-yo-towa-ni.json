@@ -1,5 +1,9 @@
 {
     "title": "Yamato yo Towa ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/83042.jpg",
+        "alt": "yamato-yo-towa-ni"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ヤマトよ永遠に",

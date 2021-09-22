@@ -1,5 +1,9 @@
 {
     "title": "Hazukashigariya no Salamanko-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224232.jpg",
+        "alt": "hazukashigariya-no-salamanko-san"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

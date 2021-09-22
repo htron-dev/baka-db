@@ -1,5 +1,9 @@
 {
     "title": "Kamisama mo Shiranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20259.jpg",
+        "alt": "kamisama-mo-shiranai"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "神サマも知らない",

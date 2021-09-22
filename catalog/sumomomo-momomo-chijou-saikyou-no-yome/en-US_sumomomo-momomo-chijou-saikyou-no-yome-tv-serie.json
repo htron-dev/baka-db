@@ -1,12 +1,16 @@
 {
     "title": "Sumomomo Momomo: Chijou Saikyou no Yome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/2357.jpg",
+        "alt": "sumomomo-momomo-chijou-saikyou-no-yome"
+    },
     "type": "tv-serie",
     "episodes": "22",
     "original_name": "すもももももも〜地上最強のヨメ〜",
     "start_date": "2006-10-06",
     "end_date": "2006-10-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Saikyou○×Keikaku\" by MOSAIC.WAV (eps 1-12)",
+    "ending_song": "#1: \"NO ROCK NO LIFE\" by Honey Bee",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

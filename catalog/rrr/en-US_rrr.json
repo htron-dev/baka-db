@@ -1,5 +1,9 @@
 {
     "title": "RRR",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/137911.jpg",
+        "alt": "rrr"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "106",

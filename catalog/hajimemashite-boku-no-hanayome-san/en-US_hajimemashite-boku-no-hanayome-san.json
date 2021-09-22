@@ -1,5 +1,9 @@
 {
     "title": "Hajimemashite, Boku no Hanayome-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201324.jpg",
+        "alt": "hajimemashite-boku-no-hanayome-san"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

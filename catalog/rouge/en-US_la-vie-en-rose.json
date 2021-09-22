@@ -1,5 +1,9 @@
 {
     "title": "La Vie en Rose",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224296.jpg",
+        "alt": "la-vie-en-rose"
+    },
     "type": "manga",
     "original_name": "ラヴィアンローズ",
     "start_date": "2018-06-07",

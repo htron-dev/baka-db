@@ -1,5 +1,9 @@
 {
     "title": "Mata Ai ni Iku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/44893.jpg",
+        "alt": "mata-ai-ni-iku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

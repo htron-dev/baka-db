@@ -1,5 +1,9 @@
 {
     "title": "Mikan-bune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/17997.jpg",
+        "alt": "mikan-bune"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "みかん船",

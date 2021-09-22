@@ -1,5 +1,9 @@
 {
     "title": "Samishigari no Dakimakura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226217.jpg",
+        "alt": "samishigari-no-dakimakura"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

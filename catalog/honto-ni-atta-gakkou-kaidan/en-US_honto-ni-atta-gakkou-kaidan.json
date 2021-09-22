@@ -1,5 +1,9 @@
 {
     "title": "Honto ni Atta Gakkou Kaidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/89844.jpg",
+        "alt": "honto-ni-atta-gakkou-kaidan"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ほんとにあった学校怪談",

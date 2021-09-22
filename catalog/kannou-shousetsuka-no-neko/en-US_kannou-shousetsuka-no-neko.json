@@ -1,5 +1,9 @@
 {
     "title": "Kannou Shousetsuka no Neko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18193.jpg",
+        "alt": "kannou-shousetsuka-no-neko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

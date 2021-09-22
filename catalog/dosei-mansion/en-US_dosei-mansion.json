@@ -1,5 +1,9 @@
 {
     "title": "Dosei Mansion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/29230.jpg",
+        "alt": "dosei-mansion"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "64",

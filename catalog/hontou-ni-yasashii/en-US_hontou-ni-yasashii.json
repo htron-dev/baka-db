@@ -1,5 +1,9 @@
 {
     "title": "Hontou ni, Yasashii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/1474.jpg",
+        "alt": "hontou-ni-yasashii"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Pygmalio",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/189390.jpg",
+        "alt": "pygmalio"
+    },
     "type": "manga",
     "volumes": "27",
     "chapters": "164",

@@ -1,8 +1,12 @@
 {
     "title": "e-ma Nodo Ame CMs",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1599/113344.jpg",
+        "alt": "e-ma-nodo-ame-c-ms"
+    },
     "type": "special",
     "episodes": "3",
-    "original_name": "e-ma のど飴／TVCM",
+    "original_name": "e-ma のど飴／TVCM: Vtuber",
     "start_date": "2021-02-12",
     "rating": "G - All Ages",
     "tags": [

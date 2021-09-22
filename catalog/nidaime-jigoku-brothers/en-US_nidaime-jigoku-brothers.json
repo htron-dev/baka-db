@@ -1,5 +1,9 @@
 {
     "title": "Nidaime!: Jigoku Brothers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/248028.jpg",
+        "alt": "nidaime-jigoku-brothers"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Vampire Knight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/7327.jpg",
+        "alt": "vampire-knight"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ヴァンパイア騎士〈ナイト〉",

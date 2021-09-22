@@ -1,5 +1,9 @@
 {
     "title": "Transformers Superlink Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/26361.jpg",
+        "alt": "transformers-superlink-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "トランスフォーマー スーパーリンク",

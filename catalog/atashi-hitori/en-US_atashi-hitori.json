@@ -1,5 +1,9 @@
 {
     "title": "Atashi, Hitori.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/122367.jpg",
+        "alt": "atashi-hitori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

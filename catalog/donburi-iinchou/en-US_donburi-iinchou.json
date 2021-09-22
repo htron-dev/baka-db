@@ -1,5 +1,9 @@
 {
     "title": "Donburi Iinchou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169331.jpg",
+        "alt": "donburi-iinchou"
+    },
     "type": "manga",
     "original_name": "どんぶり委員長",
     "start_date": "2014-10-24",

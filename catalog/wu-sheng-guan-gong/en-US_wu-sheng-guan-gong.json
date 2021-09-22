@@ -1,5 +1,9 @@
 {
     "title": "Wu Sheng Guan Gong",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1631/108526.jpg",
+        "alt": "wu-sheng-guan-gong"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "武圣关公",

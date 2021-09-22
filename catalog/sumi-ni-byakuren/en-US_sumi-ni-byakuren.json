@@ -1,5 +1,9 @@
 {
     "title": "Sumi ni Byakuren",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193696.jpg",
+        "alt": "sumi-ni-byakuren"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

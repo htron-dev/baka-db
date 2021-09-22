@@ -1,5 +1,9 @@
 {
     "title": "Kakomareta Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/28454.jpg",
+        "alt": "kakomareta-sekai"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "囲まれた世界",

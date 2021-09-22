@@ -1,5 +1,9 @@
 {
     "title": "2 Espressos",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177083.jpg",
+        "alt": "2-espressos"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "トゥー・エスプレッソ",

@@ -1,5 +1,9 @@
 {
     "title": "Dannasama to Mitsugetsuchuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/83761.jpg",
+        "alt": "dannasama-to-mitsugetsuchuu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

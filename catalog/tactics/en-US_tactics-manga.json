@@ -1,5 +1,9 @@
 {
     "title": "Tactics",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158123.jpg",
+        "alt": "tactics"
+    },
     "type": "manga",
     "volumes": "15",
     "original_name": "tactics",

@@ -1,5 +1,9 @@
 {
     "title": "Shiharu Genesis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18387.jpg",
+        "alt": "shiharu-genesis"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "35",

@@ -1,5 +1,9 @@
 {
     "title": "Tensei Akujo no Kuro Rekishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229039.jpg",
+        "alt": "tensei-akujo-no-kuro-rekishi"
+    },
     "type": "manga",
     "original_name": "転生悪女の黒歴史",
     "start_date": "2018-08-24",

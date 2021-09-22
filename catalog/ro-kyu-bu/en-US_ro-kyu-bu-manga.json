@@ -1,5 +1,9 @@
 {
     "title": "Ro-Kyu-Bu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165926.jpg",
+        "alt": "ro-kyu-bu"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "82",

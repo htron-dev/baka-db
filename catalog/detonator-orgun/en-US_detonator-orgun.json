@@ -1,11 +1,15 @@
 {
     "title": "Detonator Orgun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1172/92855.jpg",
+        "alt": "detonator-orgun"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "デトネイター・オーガン",
     "start_date": "1991-08-25",
     "end_date": "1991-08-25",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Bandeira Ryokou Dan\" by Susumu Hirasawa & The Tokyo Philharmoic Choir (ep 1)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Mashiro-iro Symphony: Wind of Silk",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/83875.jpg",
+        "alt": "mashiro-iro-symphony-wind-of-silk"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

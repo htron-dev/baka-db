@@ -1,5 +1,9 @@
 {
     "title": "Kedamonozakari, Koizakari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166607.jpg",
+        "alt": "kedamonozakari-koizakari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

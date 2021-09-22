@@ -1,5 +1,9 @@
 {
     "title": "Battle Spirits: Mirage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1271/114576.jpg",
+        "alt": "battle-spirits-mirage"
+    },
     "type": "ona",
     "original_name": "バトルスピリッツミラージュ",
     "rating": "PG - Children",

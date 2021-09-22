@@ -1,5 +1,9 @@
 {
     "title": "The Moon Whispers the Story",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228569.jpg",
+        "alt": "the-moon-whispers-the-story"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "32",

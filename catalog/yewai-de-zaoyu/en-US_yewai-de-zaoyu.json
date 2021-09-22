@@ -1,5 +1,9 @@
 {
     "title": "Yewai de Zaoyu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1035/115796.jpg",
+        "alt": "yewai-de-zaoyu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "野外的遭遇",

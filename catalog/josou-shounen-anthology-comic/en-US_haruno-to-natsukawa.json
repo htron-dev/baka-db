@@ -1,5 +1,9 @@
 {
     "title": "Haruno to Natsukawa.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/87743.jpg",
+        "alt": "haruno-to-natsukawa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

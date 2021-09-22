@@ -1,5 +1,9 @@
 {
     "title": "Receptacle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150668.jpg",
+        "alt": "receptacle"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "17",

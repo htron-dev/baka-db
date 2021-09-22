@@ -1,5 +1,9 @@
 {
     "title": "Tsugou no Ii Kimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2957.jpg",
+        "alt": "tsugou-no-ii-kimi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

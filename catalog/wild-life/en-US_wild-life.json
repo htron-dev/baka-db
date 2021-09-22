@@ -1,5 +1,9 @@
 {
     "title": "Wild Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/17923.jpg",
+        "alt": "wild-life"
+    },
     "type": "manga",
     "volumes": "27",
     "chapters": "234",

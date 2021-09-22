@@ -1,5 +1,9 @@
 {
     "title": "Umeboshi Denka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/36027.jpg",
+        "alt": "umeboshi-denka"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ウメ星デンカ",

@@ -1,5 +1,9 @@
 {
     "title": "Kudamimi no Neko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/133371.jpg",
+        "alt": "kudamimi-no-neko"
+    },
     "type": "manga",
     "original_name": "くだみみの猫",
     "start_date": "2014-01-27",

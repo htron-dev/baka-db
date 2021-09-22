@@ -1,5 +1,9 @@
 {
     "title": "Kindan no Amai Kajitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30159.jpg",
+        "alt": "kindan-no-amai-kajitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

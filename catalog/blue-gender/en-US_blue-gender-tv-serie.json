@@ -1,5 +1,9 @@
 {
     "title": "Blue Gender",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/2023.jpg",
+        "alt": "blue-gender"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "BLUE GENDER",

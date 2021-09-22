@@ -1,5 +1,9 @@
 {
     "title": "Houtai Shoujo Kikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225067.jpg",
+        "alt": "houtai-shoujo-kikan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

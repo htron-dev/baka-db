@@ -1,5 +1,9 @@
 {
     "title": "Twindle no Hakoniwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/197088.jpg",
+        "alt": "twindle-no-hakoniwa"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

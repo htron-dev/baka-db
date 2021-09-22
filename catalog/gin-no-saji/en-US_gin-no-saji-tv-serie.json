@@ -1,5 +1,9 @@
 {
     "title": "Gin no Saji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/49237.jpg",
+        "alt": "gin-no-saji"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "銀の匙",

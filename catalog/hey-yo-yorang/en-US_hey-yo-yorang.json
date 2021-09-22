@@ -1,5 +1,9 @@
 {
     "title": "Hey Yo Yorang",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/42931.jpg",
+        "alt": "hey-yo-yorang"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "꼬마여우 요랑",

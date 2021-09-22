@@ -1,5 +1,9 @@
 {
     "title": "Land Lock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/219920.jpg",
+        "alt": "land-lock"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "34",

@@ -1,5 +1,9 @@
 {
     "title": "Oreta Ryuukotsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/199282.jpg",
+        "alt": "oreta-ryuukotsu"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "38",

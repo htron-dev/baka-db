@@ -1,5 +1,9 @@
 {
     "title": "Tsugihagi Butterfly",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/120783.jpg",
+        "alt": "tsugihagi-butterfly"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ツギハギ運命翅（バタフライ）",

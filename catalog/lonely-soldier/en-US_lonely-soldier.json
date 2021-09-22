@@ -1,5 +1,9 @@
 {
     "title": "Lonely Soldier",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2834.jpg",
+        "alt": "lonely-soldier"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

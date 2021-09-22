@@ -1,5 +1,9 @@
 {
     "title": "Watashitachi, Luck Logic-bu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/77128.jpg",
+        "alt": "watashitachi-luck-logic-bu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "私たち、らくろじ部！",

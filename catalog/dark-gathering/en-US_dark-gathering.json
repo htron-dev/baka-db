@@ -1,5 +1,9 @@
 {
     "title": "Dark Gathering",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227524.jpg",
+        "alt": "dark-gathering"
+    },
     "type": "manga",
     "original_name": "ダークギャザリング",
     "start_date": "2019-03-04",

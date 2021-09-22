@@ -1,5 +1,9 @@
 {
     "title": "Onna Tomodachi to Kekkon Shitemita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/250277.jpg",
+        "alt": "onna-tomodachi-to-kekkon-shitemita"
+    },
     "type": "manga",
     "original_name": "女ともだちと結婚してみた。",
     "start_date": "2020-11-18",

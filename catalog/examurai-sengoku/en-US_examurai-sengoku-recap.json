@@ -1,5 +1,9 @@
 {
     "title": "Examurai Sengoku Recap",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/66141.jpg",
+        "alt": "examurai-sengoku-recap"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "エグザムライ戦国",

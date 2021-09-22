@@ -1,5 +1,9 @@
 {
     "title": "Torikago no Shoujo-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151401.jpg",
+        "alt": "torikago-no-shoujo-tachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

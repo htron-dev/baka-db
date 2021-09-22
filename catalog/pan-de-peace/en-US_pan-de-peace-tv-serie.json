@@ -1,5 +1,9 @@
 {
     "title": "Pan de Peace!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/79400.jpg",
+        "alt": "pan-de-peace"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "パンで Peace！",

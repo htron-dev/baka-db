@@ -1,5 +1,9 @@
 {
     "title": "AWOL",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1042/94209.jpg",
+        "alt": "awol"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "エイウォール",

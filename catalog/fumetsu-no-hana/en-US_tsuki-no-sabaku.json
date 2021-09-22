@@ -1,5 +1,9 @@
 {
     "title": "Tsuki no Sabaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/66051.jpg",
+        "alt": "tsuki-no-sabaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

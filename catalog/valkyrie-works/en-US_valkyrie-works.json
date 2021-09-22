@@ -1,5 +1,9 @@
 {
     "title": "Valkyrie Works",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163564.jpg",
+        "alt": "valkyrie-works"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "28",

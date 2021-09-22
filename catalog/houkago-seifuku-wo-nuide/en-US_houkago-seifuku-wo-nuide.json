@@ -1,5 +1,9 @@
 {
     "title": "Houkago, Seifuku wo Nuide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/38475.jpg",
+        "alt": "houkago-seifuku-wo-nuide"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

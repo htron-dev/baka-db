@@ -1,5 +1,9 @@
 {
     "title": "Violence Action",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194155.jpg",
+        "alt": "violence-action"
+    },
     "type": "manga",
     "original_name": "バイオレンスアクション",
     "start_date": "2016-04-25",

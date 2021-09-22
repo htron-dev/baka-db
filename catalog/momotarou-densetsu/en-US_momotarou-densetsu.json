@@ -1,11 +1,15 @@
 {
     "title": "Momotarou Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/32171.jpg",
+        "alt": "momotarou-densetsu"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "桃太郎伝説",
     "start_date": "1989-10-02",
     "end_date": "1989-10-02",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Momo Henka de Ikou! (桃変化でいこう!)\" by Beach Boys (ピーチボーイズ)",
     "ending_song": "\"Peach Boy Boogie Woogie (ピーチボーイ・ブギウギ)\" by Beach Boys",
     "rating": "G - All Ages",
     "tags": [
@@ -28,7 +32,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://ja.wikipedia.org/wiki/桃太郎伝説_(アニメ"
+            "link": "http://ja.wikipedia.org/wiki/桃太郎伝説_%28アニメ%29"
         }
     ]
 }

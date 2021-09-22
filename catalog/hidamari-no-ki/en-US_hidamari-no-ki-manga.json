@@ -1,5 +1,9 @@
 {
     "title": "Hidamari no Ki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191488.jpg",
+        "alt": "hidamari-no-ki"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "62",

@@ -1,5 +1,9 @@
 {
     "title": "Minami-ke Betsubara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/25454.jpg",
+        "alt": "minami-ke-betsubara"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "みなみけ べつばら",

@@ -1,5 +1,9 @@
 {
     "title": "Yuu Watase Best Selection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24428.jpg",
+        "alt": "yuu-watase-best-selection"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

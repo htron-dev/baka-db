@@ -1,11 +1,15 @@
 {
     "title": "Night Head Genesis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1208/111006.jpg",
+        "alt": "night-head-genesis"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "NIGHT HEAD GENESIS (ナイト ヘッド ジェネシス)",
     "start_date": "2006-06-17",
     "end_date": "2006-06-17",
-    "ending_song": "#1",
+    "ending_song": "#1: \"言葉 (Kotoba)\" by Under Graph",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "sci-fi",

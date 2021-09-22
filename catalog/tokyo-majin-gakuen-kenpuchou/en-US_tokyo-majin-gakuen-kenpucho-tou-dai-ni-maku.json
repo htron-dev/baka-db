@@ -1,11 +1,15 @@
 {
     "title": "Tokyo Majin Gakuen Kenpucho: Tou Dai Ni Maku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/21754.jpg",
+        "alt": "tokyo-majin-gakuen-kenpucho-tou-dai-ni-maku"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "東京魔人學園剣風帖　龖（トウ） 第弐幕",
     "start_date": "2007-07-27",
     "end_date": "2007-07-27",
-    "opening_song": "#01",
+    "opening_song": "#01: \"0:00 a.m.\" by ACID (eps 1-5)",
     "ending_song": "\"Hanafubuki (花吹雪)\" by ACID",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [

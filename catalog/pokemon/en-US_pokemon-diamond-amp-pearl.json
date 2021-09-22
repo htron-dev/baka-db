@@ -1,12 +1,16 @@
 {
     "title": "Pokemon Diamond &amp; Pearl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/25749.jpg",
+        "alt": "pokemon-diamond-amp-pearl"
+    },
     "type": "tv-serie",
     "episodes": "191",
     "original_name": "ポケットモンスター ダイヤモンド&パール",
     "start_date": "2006-09-28",
     "end_date": "2006-09-28",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Together\" by Fumie Akiyoshi (eps 4-78)",
+    "ending_song": "#1: \"君のそばで 〜ヒカリのテーマ〜 (Kimi no Soba de ~Hikari no Teema~)\" by グリン (eps 3-24)",
     "rating": "PG - Children",
     "tags": [
         "action",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Pok%C3%A9mon:_Diamond_and_Pearl_(anime"
+            "link": "http://en.wikipedia.org/wiki/Pok%C3%A9mon:_Diamond_and_Pearl_%28anime%29"
         }
     ]
 }

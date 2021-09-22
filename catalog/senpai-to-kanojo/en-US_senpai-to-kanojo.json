@@ -1,5 +1,9 @@
 {
     "title": "Senpai to Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/9247.jpg",
+        "alt": "senpai-to-kanojo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

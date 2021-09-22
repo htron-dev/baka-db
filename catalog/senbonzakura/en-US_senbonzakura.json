@@ -1,5 +1,9 @@
 {
     "title": "Senbonzakura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176855.jpg",
+        "alt": "senbonzakura"
+    },
     "type": "manga",
     "original_name": "千本桜",
     "start_date": "2014-09-13",

@@ -1,5 +1,9 @@
 {
     "title": "Ja Ja Uma Grooming UP!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18028.jpg",
+        "alt": "ja-ja-uma-grooming-up"
+    },
     "type": "manga",
     "volumes": "26",
     "chapters": "281",

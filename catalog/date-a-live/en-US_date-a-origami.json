@@ -1,5 +1,9 @@
 {
     "title": "Date A Origami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/118843.jpg",
+        "alt": "date-a-origami"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

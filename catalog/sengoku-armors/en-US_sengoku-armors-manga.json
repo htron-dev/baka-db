@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Armors",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/144979.jpg",
+        "alt": "sengoku-armors"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

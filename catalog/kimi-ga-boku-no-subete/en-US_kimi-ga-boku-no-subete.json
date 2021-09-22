@@ -1,5 +1,9 @@
 {
     "title": "Kimi ga Boku no Subete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167088.jpg",
+        "alt": "kimi-ga-boku-no-subete"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

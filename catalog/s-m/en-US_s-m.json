@@ -1,5 +1,9 @@
 {
     "title": "S+M",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/971.jpg",
+        "alt": "s-m"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

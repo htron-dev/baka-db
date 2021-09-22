@@ -1,5 +1,9 @@
 {
     "title": "Betsuni Inou to Kairan desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149939.jpg",
+        "alt": "betsuni-inou-to-kairan-desu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "べつに異能とかいらんです",

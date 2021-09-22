@@ -1,5 +1,9 @@
 {
     "title": "Umi Monogatari: Anata ga Ite Kureta Koto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/144947.jpg",
+        "alt": "umi-monogatari-anata-ga-ite-kureta-koto"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

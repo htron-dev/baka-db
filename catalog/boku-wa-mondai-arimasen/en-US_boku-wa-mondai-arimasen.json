@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Mondai Arimasen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/130247.jpg",
+        "alt": "boku-wa-mondai-arimasen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

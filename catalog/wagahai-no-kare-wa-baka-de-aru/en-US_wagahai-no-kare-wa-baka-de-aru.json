@@ -1,5 +1,9 @@
 {
     "title": "Wagahai no Kare wa Baka de Aru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/134373.jpg",
+        "alt": "wagahai-no-kare-wa-baka-de-aru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "26",

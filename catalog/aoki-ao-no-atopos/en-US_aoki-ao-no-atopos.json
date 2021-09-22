@@ -1,5 +1,9 @@
 {
     "title": "Aoki Ao no Atopos",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/146739.jpg",
+        "alt": "aoki-ao-no-atopos"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "42",

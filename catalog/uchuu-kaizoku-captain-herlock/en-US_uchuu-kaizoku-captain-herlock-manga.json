@@ -1,5 +1,9 @@
 {
     "title": "Uchuu Kaizoku Captain Herlock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/153707.jpg",
+        "alt": "uchuu-kaizoku-captain-herlock"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

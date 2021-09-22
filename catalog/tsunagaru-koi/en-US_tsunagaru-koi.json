@@ -1,5 +1,9 @@
 {
     "title": "Tsunagaru Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196453.jpg",
+        "alt": "tsunagaru-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "繋がる恋",

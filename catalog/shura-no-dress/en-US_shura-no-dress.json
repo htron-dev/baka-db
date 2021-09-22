@@ -1,5 +1,9 @@
 {
     "title": "Shura no Dress",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166591.jpg",
+        "alt": "shura-no-dress"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Angel Beats!: Heaven's Door",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153985.jpg",
+        "alt": "angel-beats-heavens-door"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "77",

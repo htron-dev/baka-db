@@ -1,5 +1,9 @@
 {
     "title": "Cthulhu no Yobigoe: Lovecraft Kessakushuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/233737.jpg",
+        "alt": "cthulhu-no-yobigoe-lovecraft-kessakushuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

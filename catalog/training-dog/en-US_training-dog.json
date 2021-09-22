@@ -1,5 +1,9 @@
 {
     "title": "Training Dog",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/240361.jpg",
+        "alt": "training-dog"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

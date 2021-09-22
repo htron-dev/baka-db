@@ -1,5 +1,9 @@
 {
     "title": "Risou no Koibito Todokemasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/91385.jpg",
+        "alt": "risou-no-koibito-todokemasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Metsuko ni Yoroshiku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173129.jpg",
+        "alt": "metsuko-ni-yoroshiku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "24",

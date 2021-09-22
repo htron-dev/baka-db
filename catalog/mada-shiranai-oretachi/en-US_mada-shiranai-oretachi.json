@@ -1,5 +1,9 @@
 {
     "title": "Mada Shiranai Oretachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176640.jpg",
+        "alt": "mada-shiranai-oretachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

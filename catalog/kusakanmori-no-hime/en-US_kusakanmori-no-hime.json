@@ -1,5 +1,9 @@
 {
     "title": "Kusakanmori no Hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/62145.jpg",
+        "alt": "kusakanmori-no-hime"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

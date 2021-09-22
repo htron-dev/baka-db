@@ -1,5 +1,9 @@
 {
     "title": "Dr. Kumahige",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226244.jpg",
+        "alt": "dr-kumahige"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "47",

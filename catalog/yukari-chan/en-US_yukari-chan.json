@@ -1,5 +1,9 @@
 {
     "title": "Yukari-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155818.jpg",
+        "alt": "yukari-chan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

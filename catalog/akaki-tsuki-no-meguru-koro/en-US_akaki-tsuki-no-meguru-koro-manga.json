@@ -1,5 +1,9 @@
 {
     "title": "Akaki Tsuki no Meguru Koro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/135009.jpg",
+        "alt": "akaki-tsuki-no-meguru-koro"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

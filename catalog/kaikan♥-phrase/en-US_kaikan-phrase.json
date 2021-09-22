@@ -1,12 +1,16 @@
 {
     "title": "Kaikan Phrase",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/13955.jpg",
+        "alt": "kaikan-phrase"
+    },
     "type": "tv-serie",
     "episodes": "44",
     "original_name": "快感 フレーズ",
     "start_date": "1999-04-20",
     "end_date": "1999-04-20",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"サバイバル (Survival)\" by GLAY (eps 1-11)",
+    "ending_song": "#1: \"Everlasting\" by FEEL (eps 1-10)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

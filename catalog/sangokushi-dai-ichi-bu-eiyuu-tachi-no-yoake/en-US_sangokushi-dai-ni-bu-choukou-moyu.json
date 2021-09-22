@@ -1,5 +1,9 @@
 {
     "title": "Sangokushi: Dai Ni Bu - Choukou Moyu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/72330.jpg",
+        "alt": "sangokushi-dai-ni-bu-choukou-moyu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "三国志 第二部 長江燃ゆ!",

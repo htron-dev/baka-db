@@ -1,5 +1,9 @@
 {
     "title": "Legend of Dou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38847.jpg",
+        "alt": "legend-of-dou"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "70",

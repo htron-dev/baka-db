@@ -1,5 +1,9 @@
 {
     "title": "Shinobi no Kuni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/42818.jpg",
+        "alt": "shinobi-no-kuni"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

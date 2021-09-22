@@ -1,5 +1,9 @@
 {
     "title": "Angel Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164490.jpg",
+        "alt": "angel-densetsu"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "89",

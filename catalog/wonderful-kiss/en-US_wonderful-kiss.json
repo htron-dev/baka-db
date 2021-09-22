@@ -1,5 +1,9 @@
 {
     "title": "Wonderful Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11137.jpg",
+        "alt": "wonderful-kiss"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

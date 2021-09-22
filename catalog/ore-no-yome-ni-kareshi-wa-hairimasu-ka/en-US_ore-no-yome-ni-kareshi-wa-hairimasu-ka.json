@@ -1,5 +1,9 @@
 {
     "title": "Ore no Yome ni Kareshi wa Hairimasu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222465.jpg",
+        "alt": "ore-no-yome-ni-kareshi-wa-hairimasu-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

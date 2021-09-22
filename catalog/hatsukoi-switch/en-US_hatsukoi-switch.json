@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi Switch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/42676.jpg",
+        "alt": "hatsukoi-switch"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

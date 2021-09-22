@@ -1,5 +1,9 @@
 {
     "title": "Kiss Me",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162785.jpg",
+        "alt": "kiss-me"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

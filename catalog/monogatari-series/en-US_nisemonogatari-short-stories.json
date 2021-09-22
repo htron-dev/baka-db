@@ -1,5 +1,9 @@
 {
     "title": "Nisemonogatari Short Stories",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158910.jpg",
+        "alt": "nisemonogatari-short-stories"
+    },
     "type": "light-novel",
     "chapters": "4",
     "original_name": "偽物語アニメコンプリートガイドブック",

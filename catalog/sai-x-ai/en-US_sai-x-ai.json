@@ -1,5 +1,9 @@
 {
     "title": "Sai x Ai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/57935.jpg",
+        "alt": "sai-x-ai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Jigoku Youchien",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/49439.jpg",
+        "alt": "jigoku-youchien"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "地獄ようちえん",

@@ -1,11 +1,15 @@
 {
     "title": "Ore-sama Kingdom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/27510.jpg",
+        "alt": "ore-sama-kingdom"
+    },
     "type": "ova",
     "episodes": "14",
     "original_name": "オレ様キングダム",
     "start_date": "2011-02-20",
     "end_date": "2011-02-20",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Monologue (モノローグ)\" by Yuuki Kanno (カンノユウキ) (eps 3-9)",
     "rating": "G - All Ages",
     "tags": [
         "romance",

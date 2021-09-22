@@ -1,5 +1,9 @@
 {
     "title": "Madoushi wa Heibon wo Nozomu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224399.jpg",
+        "alt": "madoushi-wa-heibon-wo-nozomu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

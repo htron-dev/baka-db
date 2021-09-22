@@ -1,5 +1,9 @@
 {
     "title": "Eiyuu Gaiden Mozaicka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/24540.jpg",
+        "alt": "eiyuu-gaiden-mozaicka"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "英雄凱伝モザイカ",

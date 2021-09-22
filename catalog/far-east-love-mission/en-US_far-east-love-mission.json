@@ -1,5 +1,9 @@
 {
     "title": "Far East Love Mission",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/5999.jpg",
+        "alt": "far-east-love-mission"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "極東ラブ・ミッション",

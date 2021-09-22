@@ -1,10 +1,14 @@
 {
     "title": "Pokemon: Pikachu Tankentai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1488/97386.jpg",
+        "alt": "pokemon-pikachu-tankentai"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ピカチュウたんけんたい",
     "start_date": "1999-07-17",
-    "opening_song": "#01",
+    "opening_song": "#01: \"Let's Make an Exploration Party!\" by Pokémon Kids (Japanese Version)",
     "ending_song": "\"Soaring Pokémon Kids\" by Becky and Pokémon Kids",
     "rating": "PG - Children",
     "tags": [

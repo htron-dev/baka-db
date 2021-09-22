@@ -1,5 +1,9 @@
 {
     "title": "Papa datte, Shitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1273/97100.jpg",
+        "alt": "papa-datte-shitai"
+    },
     "type": "tv-serie",
     "episodes": "8",
     "original_name": "パパだって, したい",

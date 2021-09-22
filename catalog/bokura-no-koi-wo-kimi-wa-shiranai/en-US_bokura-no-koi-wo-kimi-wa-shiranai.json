@@ -1,5 +1,9 @@
 {
     "title": "Bokura no Koi wo Kimi wa Shiranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223388.jpg",
+        "alt": "bokura-no-koi-wo-kimi-wa-shiranai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

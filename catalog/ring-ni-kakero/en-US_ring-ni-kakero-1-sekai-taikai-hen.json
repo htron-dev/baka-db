@@ -1,5 +1,9 @@
 {
     "title": "Ring ni Kakero 1: Sekai Taikai-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/75841.jpg",
+        "alt": "ring-ni-kakero-1-sekai-taikai-hen"
+    },
     "type": "tv-serie",
     "episodes": "6",
     "original_name": "リングにかけろ 1 世界大会編",

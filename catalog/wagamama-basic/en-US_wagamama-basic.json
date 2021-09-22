@@ -1,5 +1,9 @@
 {
     "title": "Wagamama Basic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224407.jpg",
+        "alt": "wagamama-basic"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Aishi no Doll",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193662.jpg",
+        "alt": "aishi-no-doll"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "14",

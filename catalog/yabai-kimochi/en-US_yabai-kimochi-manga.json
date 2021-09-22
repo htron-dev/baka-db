@@ -1,5 +1,9 @@
 {
     "title": "Yabai Kimochi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159373.jpg",
+        "alt": "yabai-kimochi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

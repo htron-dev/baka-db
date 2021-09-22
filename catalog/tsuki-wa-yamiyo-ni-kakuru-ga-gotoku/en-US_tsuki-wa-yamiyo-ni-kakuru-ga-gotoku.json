@@ -1,5 +1,9 @@
 {
     "title": "Tsuki wa Yamiyo ni Kakuru ga Gotoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/4173.jpg",
+        "alt": "tsuki-wa-yamiyo-ni-kakuru-ga-gotoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

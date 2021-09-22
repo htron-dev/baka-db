@@ -1,5 +1,9 @@
 {
     "title": "Shin Crayon Shin-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164291.jpg",
+        "alt": "shin-crayon-shin-chan"
+    },
     "type": "manga",
     "original_name": "新クレヨンしんちゃん",
     "start_date": "2010-08-05",

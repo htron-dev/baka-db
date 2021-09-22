@@ -1,5 +1,9 @@
 {
     "title": "8-banme no Tsumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/67327.jpg",
+        "alt": "8-banme-no-tsumi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

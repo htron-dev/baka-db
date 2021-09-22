@@ -1,5 +1,9 @@
 {
     "title": "Vanilla Star",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23637.jpg",
+        "alt": "vanilla-star"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

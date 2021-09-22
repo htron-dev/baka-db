@@ -1,5 +1,9 @@
 {
     "title": "Boku no Ie ni Oide: Wedding",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203944.jpg",
+        "alt": "boku-no-ie-ni-oide-wedding"
+    },
     "type": "manga",
     "original_name": "僕の家においで Wedding",
     "start_date": "2017-05-26",

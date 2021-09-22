@@ -1,5 +1,9 @@
 {
     "title": "Azure Nihon Data Center",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/77704.jpg",
+        "alt": "azure-nihon-data-center"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "Azure 日本データセンター",

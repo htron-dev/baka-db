@@ -1,5 +1,9 @@
 {
     "title": "Shizuku Hanabira Ringo no Kaori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175986.jpg",
+        "alt": "shizuku-hanabira-ringo-no-kaori"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

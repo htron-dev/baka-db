@@ -1,5 +1,9 @@
 {
     "title": "Rokka no Yuusha Archive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176748.jpg",
+        "alt": "rokka-no-yuusha-archive"
+    },
     "type": "light-novel",
     "original_name": "六花の勇者 archive",
     "start_date": "2016-03-25",

@@ -1,5 +1,9 @@
 {
     "title": "Love Comedy Kengai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161866.jpg",
+        "alt": "love-comedy-kengai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

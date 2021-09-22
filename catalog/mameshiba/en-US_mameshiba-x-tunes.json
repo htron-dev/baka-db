@@ -1,5 +1,9 @@
 {
     "title": "Mameshiba x Tunes!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1423/100491.jpg",
+        "alt": "mameshiba-x-tunes"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "豆しば × ちゅーんず！",

@@ -1,11 +1,15 @@
 {
     "title": "Nisekoi: OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1992/112119.jpg",
+        "alt": "nisekoi-ova"
+    },
     "type": "ova",
     "episodes": "2",
-    "original_name": "ニセコイ",
+    "original_name": "ニセコイ: OAD",
     "start_date": "2016-01-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Rally Go Round\" by LiSA",
+    "ending_song": "#1: \"Aimai Hertz (曖昧ヘルツ)\" by Chitoge Kirisaki (Nao Touyama), Kosaki Onodera (Kana Hanazawa), Seishirou Tsugumi (Mikako Komatsu), Marika Tachibana (Kana Asumi)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "harem",

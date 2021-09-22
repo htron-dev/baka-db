@@ -1,5 +1,9 @@
 {
     "title": "Go Da Gun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/41854.jpg",
+        "alt": "go-da-gun"
+    },
     "type": "manga",
     "volumes": "16",
     "original_name": "GO DA GUN－ゴーダガン－",

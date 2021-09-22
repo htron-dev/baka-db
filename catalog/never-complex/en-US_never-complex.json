@@ -1,5 +1,9 @@
 {
     "title": "Never Complex",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/78849.jpg",
+        "alt": "never-complex"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

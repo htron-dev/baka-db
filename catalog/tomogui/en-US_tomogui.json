@@ -1,5 +1,9 @@
 {
     "title": "Tomogui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203335.jpg",
+        "alt": "tomogui"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

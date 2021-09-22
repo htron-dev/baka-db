@@ -1,5 +1,9 @@
 {
     "title": "Shinayaka ni Kizutsuite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5735.jpg",
+        "alt": "shinayaka-ni-kizutsuite"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "6",

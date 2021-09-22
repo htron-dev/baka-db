@@ -1,5 +1,9 @@
 {
     "title": "Mahoutsukai Reimeiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/244014.jpg",
+        "alt": "mahoutsukai-reimeiki"
+    },
     "type": "manga",
     "original_name": "魔法使い黎明期",
     "start_date": "2019-07-26",

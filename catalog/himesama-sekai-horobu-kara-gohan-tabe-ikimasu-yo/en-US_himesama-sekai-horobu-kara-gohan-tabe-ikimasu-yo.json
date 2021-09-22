@@ -1,5 +1,9 @@
 {
     "title": "Himesama, Sekai Horobu kara Gohan Tabe Ikimasu yo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177070.jpg",
+        "alt": "himesama-sekai-horobu-kara-gohan-tabe-ikimasu-yo"
+    },
     "type": "light-novel",
     "original_name": "姫さま、世界滅ぶからごはん食べ行きますよ！",
     "start_date": "2016-05-25",

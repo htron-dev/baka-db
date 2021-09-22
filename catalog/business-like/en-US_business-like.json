@@ -1,5 +1,9 @@
 {
     "title": "Business Like",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246559.jpg",
+        "alt": "business-like"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

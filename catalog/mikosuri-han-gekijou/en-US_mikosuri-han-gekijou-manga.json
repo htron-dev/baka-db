@@ -1,5 +1,9 @@
 {
     "title": "Mikosuri Han-Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/46907.jpg",
+        "alt": "mikosuri-han-gekijou"
+    },
     "type": "manga",
     "original_name": "みこすり半劇場",
     "tags": [

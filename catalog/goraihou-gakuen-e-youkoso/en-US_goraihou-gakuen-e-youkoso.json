@@ -1,5 +1,9 @@
 {
     "title": "Goraihou Gakuen e Youkoso!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191285.jpg",
+        "alt": "goraihou-gakuen-e-youkoso"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "30",

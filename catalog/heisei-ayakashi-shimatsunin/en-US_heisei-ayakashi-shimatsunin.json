@@ -1,5 +1,9 @@
 {
     "title": "Heisei Ayakashi Shimatsunin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20016.jpg",
+        "alt": "heisei-ayakashi-shimatsunin"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

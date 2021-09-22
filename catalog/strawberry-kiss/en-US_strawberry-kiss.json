@@ -1,5 +1,9 @@
 {
     "title": "Strawberry Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/15530.jpg",
+        "alt": "strawberry-kiss"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Pororo Donghwanala",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1465/114524.jpg",
+        "alt": "pororo-donghwanala"
+    },
     "type": "tv-serie",
     "original_name": "뽀로로 동화나라",
     "start_date": "2020-08-24",

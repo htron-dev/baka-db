@@ -1,5 +1,9 @@
 {
     "title": "Nonono Recycle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14178.jpg",
+        "alt": "nonono-recycle"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "のののリサイクル",

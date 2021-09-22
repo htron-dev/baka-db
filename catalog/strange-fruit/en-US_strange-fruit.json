@@ -1,5 +1,9 @@
 {
     "title": "Strange Fruit",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171116.jpg",
+        "alt": "strange-fruit"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

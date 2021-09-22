@@ -1,5 +1,9 @@
 {
     "title": "Lupin III: Pilot Film (1978)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/50931.jpg",
+        "alt": "lupin-iii-pilot-film-1978"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ルパン三世 シークレットファイル",

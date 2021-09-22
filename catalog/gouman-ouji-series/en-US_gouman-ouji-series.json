@@ -1,5 +1,9 @@
 {
     "title": "Gouman Ouji Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152797.jpg",
+        "alt": "gouman-ouji-series"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "Mou Hitotsu no Umi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/61451.jpg",
+        "alt": "mou-hitotsu-no-umi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

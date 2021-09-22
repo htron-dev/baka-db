@@ -1,5 +1,9 @@
 {
     "title": "Love My Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/63243.jpg",
+        "alt": "love-my-life"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

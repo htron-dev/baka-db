@@ -1,5 +1,9 @@
 {
     "title": "Hareluya II: Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187756.jpg",
+        "alt": "hareluya-ii-boy"
+    },
     "type": "manga",
     "volumes": "33",
     "chapters": "295",

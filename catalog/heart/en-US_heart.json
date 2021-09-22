@@ -1,5 +1,9 @@
 {
     "title": "Heart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27073.jpg",
+        "alt": "heart"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "58",

@@ -1,5 +1,9 @@
 {
     "title": "Dumbbell Nan Kilo Moteru?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187774.jpg",
+        "alt": "dumbbell-nan-kilo-moteru"
+    },
     "type": "manga",
     "original_name": "ダンベル何キロ持てる？",
     "start_date": "2016-08-12",

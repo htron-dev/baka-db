@@ -1,5 +1,9 @@
 {
     "title": "Hellsing: The Dawn",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/30667.jpg",
+        "alt": "hellsing-the-dawn"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "HELLSING THE DAWN",
@@ -29,7 +33,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Hellsing_(OVA"
+            "link": "http://en.wikipedia.org/wiki/Hellsing_%28OVA%29#Hellsing:_The_Dawn"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Hibino Kyoudai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187202.jpg",
+        "alt": "hibino-kyoudai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

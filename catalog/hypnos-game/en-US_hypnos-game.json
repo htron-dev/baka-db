@@ -1,5 +1,9 @@
 {
     "title": "Hypnos Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193731.jpg",
+        "alt": "hypnos-game"
+    },
     "type": "light-novel",
     "original_name": "ヒュプノスゲーム",
     "start_date": "2017-04-10",

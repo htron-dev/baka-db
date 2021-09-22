@@ -1,5 +1,9 @@
 {
     "title": "Fukigen na Prince",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/113477.jpg",
+        "alt": "fukigen-na-prince"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

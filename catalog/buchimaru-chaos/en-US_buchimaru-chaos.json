@@ -1,5 +1,9 @@
 {
     "title": "Buchimaru Chaos",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199412.jpg",
+        "alt": "buchimaru-chaos"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

@@ -1,12 +1,16 @@
 {
     "title": "Kamichama Karin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/76297.jpg",
+        "alt": "kamichama-karin"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "かみちゃまかりん",
     "start_date": "2007-04-06",
     "end_date": "2007-04-06",
     "opening_song": "\"Ankoku Tengoku\" by Ali Project",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Anemone (アネモネ)\" by Mai Nakahara (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

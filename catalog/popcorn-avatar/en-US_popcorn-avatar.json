@@ -1,5 +1,9 @@
 {
     "title": "Popcorn Avatar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/205508.jpg",
+        "alt": "popcorn-avatar"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "29",

@@ -1,5 +1,9 @@
 {
     "title": "Youjo Shenki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/83756.jpg",
+        "alt": "youjo-shenki"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "ようじょしぇんき",

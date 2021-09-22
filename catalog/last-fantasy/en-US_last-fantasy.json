@@ -1,5 +1,9 @@
 {
     "title": "Last Fantasy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180643.jpg",
+        "alt": "last-fantasy"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "8",

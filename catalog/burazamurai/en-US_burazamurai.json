@@ -1,5 +1,9 @@
 {
     "title": "Burazamurai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200439.jpg",
+        "alt": "burazamurai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

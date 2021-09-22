@@ -1,5 +1,9 @@
 {
     "title": "Baby, Star",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/127501.jpg",
+        "alt": "baby-star"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

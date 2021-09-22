@@ -1,5 +1,9 @@
 {
     "title": "Maou: Juvenile Remix",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186620.jpg",
+        "alt": "maou-juvenile-remix"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "97",

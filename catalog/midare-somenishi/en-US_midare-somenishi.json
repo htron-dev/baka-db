@@ -1,5 +1,9 @@
 {
     "title": "Midare Somenishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/25500.jpg",
+        "alt": "midare-somenishi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

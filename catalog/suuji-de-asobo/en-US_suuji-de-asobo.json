@@ -1,5 +1,9 @@
 {
     "title": "Suuji de Asobo.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/240894.jpg",
+        "alt": "suuji-de-asobo"
+    },
     "type": "manga",
     "original_name": "数字であそぼ。",
     "start_date": "2018-06-28",

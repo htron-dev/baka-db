@@ -1,5 +1,9 @@
 {
     "title": "Aitakute Nemurenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227557.jpg",
+        "alt": "aitakute-nemurenai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "会いたくて眠れない",

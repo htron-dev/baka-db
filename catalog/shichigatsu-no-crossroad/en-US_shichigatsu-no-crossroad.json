@@ -1,5 +1,9 @@
 {
     "title": "Shichigatsu no Crossroad",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189818.jpg",
+        "alt": "shichigatsu-no-crossroad"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

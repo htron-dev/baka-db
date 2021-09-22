@@ -1,5 +1,9 @@
 {
     "title": "Ame to Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182338.jpg",
+        "alt": "ame-to-kiss"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

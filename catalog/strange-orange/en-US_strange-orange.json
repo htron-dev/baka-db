@@ -1,5 +1,9 @@
 {
     "title": "Strange Orange",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/112131.jpg",
+        "alt": "strange-orange"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

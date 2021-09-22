@@ -1,5 +1,9 @@
 {
     "title": "Hun Yuan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1400/115443.jpg",
+        "alt": "hun-yuan"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "浑元",

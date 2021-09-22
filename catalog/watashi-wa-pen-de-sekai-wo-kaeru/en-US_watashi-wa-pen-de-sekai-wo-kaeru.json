@@ -1,5 +1,9 @@
 {
     "title": "Watashi wa Pen de Sekai wo Kaeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166181.jpg",
+        "alt": "watashi-wa-pen-de-sekai-wo-kaeru"
+    },
     "type": "manga",
     "original_name": "私はペンで世界を変える",
     "start_date": "2015-04-06",

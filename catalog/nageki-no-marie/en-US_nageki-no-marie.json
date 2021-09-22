@@ -1,5 +1,9 @@
 {
     "title": "Nageki no Marie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/130737.jpg",
+        "alt": "nageki-no-marie"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

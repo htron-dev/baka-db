@@ -1,5 +1,9 @@
 {
     "title": "Onikiri Musume Saisen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1663/91255.jpg",
+        "alt": "onikiri-musume-saisen"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "鬼斬娘 再戦",

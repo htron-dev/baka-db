@@ -1,5 +1,9 @@
 {
     "title": "Kageki no Kuni no Alice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190843.jpg",
+        "alt": "kageki-no-kuni-no-alice"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

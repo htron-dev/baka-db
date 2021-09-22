@@ -1,5 +1,9 @@
 {
     "title": "Transformers: Car Robots",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/15126.jpg",
+        "alt": "transformers-car-robots"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "トランスフォーマー・カーロボット",

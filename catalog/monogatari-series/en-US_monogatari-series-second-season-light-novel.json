@@ -1,5 +1,9 @@
 {
     "title": "Monogatari Series: Second Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181553.jpg",
+        "alt": "monogatari-series-second-season"
+    },
     "type": "light-novel",
     "volumes": "6",
     "chapters": "199",

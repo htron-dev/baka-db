@@ -1,5 +1,9 @@
 {
     "title": "Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192963.jpg",
+        "alt": "watashi-nouryoku-wa-heikinchi-de-tte-itta-yo-ne"
+    },
     "type": "manga",
     "original_name": "私、能力は平均値でって言ったよね！",
     "start_date": "2016-08-05",

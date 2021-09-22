@@ -1,5 +1,9 @@
 {
     "title": "Tail Star",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/128835.jpg",
+        "alt": "tail-star"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "TAIL STAR テイルスター",

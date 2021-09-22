@@ -1,5 +1,9 @@
 {
     "title": "Wangan Jungle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/25167.jpg",
+        "alt": "wangan-jungle"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Shimajirou no Wow!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/50737.jpg",
+        "alt": "shimajirou-no-wow"
+    },
     "type": "tv-serie",
     "original_name": "しまじろうのわお!",
     "start_date": "2012-04-02",

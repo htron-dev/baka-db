@@ -1,5 +1,9 @@
 {
     "title": "Majimoji Rurumo: Kanketsu-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1375/109425.jpg",
+        "alt": "majimoji-rurumo-kanketsu-hen"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "まじもじるるも 完結編",

@@ -1,5 +1,9 @@
 {
     "title": "Proposal no Riyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/83533.jpg",
+        "alt": "proposal-no-riyuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

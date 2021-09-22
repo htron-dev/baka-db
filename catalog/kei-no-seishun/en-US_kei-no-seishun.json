@@ -1,5 +1,9 @@
 {
     "title": "Kei no Seishun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166005.jpg",
+        "alt": "kei-no-seishun"
+    },
     "type": "manga",
     "volumes": "14",
     "original_name": "ケイの凄春",

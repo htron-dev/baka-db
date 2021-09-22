@@ -1,5 +1,9 @@
 {
     "title": "Nameless Flipbook",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1008/91231.jpg",
+        "alt": "nameless-flipbook"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "Nameless Flipbook",

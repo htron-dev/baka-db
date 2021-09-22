@@ -1,5 +1,9 @@
 {
     "title": "Shachiku! Shura Kousaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200198.jpg",
+        "alt": "shachiku-shura-kousaku"
+    },
     "type": "manga",
     "original_name": "社畜！修羅コーサク",
     "start_date": "2016-03-05",

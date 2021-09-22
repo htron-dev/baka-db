@@ -1,5 +1,9 @@
 {
     "title": "Hotaru Kagayaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1344/96170.jpg",
+        "alt": "hotaru-kagayaku"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ホタルかがやく",

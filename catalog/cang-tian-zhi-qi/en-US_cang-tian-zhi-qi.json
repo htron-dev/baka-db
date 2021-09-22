@@ -1,5 +1,9 @@
 {
     "title": "Cang Tian Zhi Qi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15497.jpg",
+        "alt": "cang-tian-zhi-qi"
+    },
     "type": "manga",
     "original_name": "苍天之祈",
     "start_date": "2008-04-30",

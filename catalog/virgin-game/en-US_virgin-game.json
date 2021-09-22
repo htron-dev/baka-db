@@ -1,5 +1,9 @@
 {
     "title": "Virgin Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/126849.jpg",
+        "alt": "virgin-game"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

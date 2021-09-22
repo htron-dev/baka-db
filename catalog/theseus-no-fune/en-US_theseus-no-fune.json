@@ -1,5 +1,9 @@
 {
     "title": "Theseus no Fune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201655.jpg",
+        "alt": "theseus-no-fune"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "89",

@@ -1,5 +1,9 @@
 {
     "title": "Shitarou-Kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/20895.jpg",
+        "alt": "shitarou-kun"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

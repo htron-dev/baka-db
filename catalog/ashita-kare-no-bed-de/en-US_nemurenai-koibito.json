@@ -1,5 +1,9 @@
 {
     "title": "Nemurenai Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/64711.jpg",
+        "alt": "nemurenai-koibito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

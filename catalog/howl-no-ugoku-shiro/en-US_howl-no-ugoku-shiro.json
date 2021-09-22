@@ -1,5 +1,9 @@
 {
     "title": "Howl no Ugoku Shiro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/75810.jpg",
+        "alt": "howl-no-ugoku-shiro"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ハウルの動く城",

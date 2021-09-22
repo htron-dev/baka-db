@@ -1,5 +1,9 @@
 {
     "title": "Yeong Woong Seo Gi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79231.jpg",
+        "alt": "yeong-woong-seo-gi"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "30",

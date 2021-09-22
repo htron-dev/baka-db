@@ -1,5 +1,9 @@
 {
     "title": "Hoiku no Ousama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172159.jpg",
+        "alt": "hoiku-no-ousama"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "58",

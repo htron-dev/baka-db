@@ -1,5 +1,9 @@
 {
     "title": "Honoo no Mirage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/31810.jpg",
+        "alt": "honoo-no-mirage"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

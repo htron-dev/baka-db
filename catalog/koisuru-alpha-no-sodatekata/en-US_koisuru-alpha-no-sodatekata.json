@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Alpha no Sodatekata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239032.jpg",
+        "alt": "koisuru-alpha-no-sodatekata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

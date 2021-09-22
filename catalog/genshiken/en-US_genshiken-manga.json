@@ -1,5 +1,9 @@
 {
     "title": "Genshiken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161681.jpg",
+        "alt": "genshiken"
+    },
     "type": "manga",
     "volumes": "21",
     "chapters": "127",

@@ -1,5 +1,9 @@
 {
     "title": "Omoi, Omoware, Furi, Furare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1418/108748.jpg",
+        "alt": "omoi-omoware-furi-furare"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "思い、思われ、ふり、ふられ",

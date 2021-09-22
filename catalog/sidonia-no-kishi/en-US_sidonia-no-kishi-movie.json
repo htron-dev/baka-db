@@ -1,5 +1,9 @@
 {
     "title": "Sidonia no Kishi Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/69369.jpg",
+        "alt": "sidonia-no-kishi-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版「シドニアの騎士」",

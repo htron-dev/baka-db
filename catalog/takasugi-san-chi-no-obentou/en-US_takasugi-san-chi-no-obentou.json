@@ -1,5 +1,9 @@
 {
     "title": "Takasugi-san Chi no Obentou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155812.jpg",
+        "alt": "takasugi-san-chi-no-obentou"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "80",

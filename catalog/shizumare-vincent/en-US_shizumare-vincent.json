@@ -1,5 +1,9 @@
 {
     "title": "Shizumare! Vincent",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/216610.jpg",
+        "alt": "shizumare-vincent"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

@@ -1,11 +1,15 @@
 {
     "title": "Hakaima Sadamitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1121/92271.jpg",
+        "alt": "hakaima-sadamitsu"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "破壊魔定光",
     "start_date": "2001-01-17",
     "end_date": "2001-01-17",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Hakaima Sadamitsu no Theme\" by Iwasaki Taku",
     "ending_song": "#1 \"Suki Datta Uta no Youni\" by Rie Tanaka\" (eps 1-10)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [

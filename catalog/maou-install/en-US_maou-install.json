@@ -1,5 +1,9 @@
 {
     "title": "Maou Install",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179092.jpg",
+        "alt": "maou-install"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

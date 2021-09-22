@@ -1,5 +1,9 @@
 {
     "title": "Bocchi Kaibutsu to Moumoku Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215864.jpg",
+        "alt": "bocchi-kaibutsu-to-moumoku-shoujo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

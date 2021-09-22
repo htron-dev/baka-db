@@ -1,5 +1,9 @@
 {
     "title": "Bokura wa Minna Abnormal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189793.jpg",
+        "alt": "bokura-wa-minna-abnormal"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ぼくらはみんなアブノーマル",
@@ -13,7 +17,6 @@
         "Sasayama",
         "Plus (Story)"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

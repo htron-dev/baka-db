@@ -1,5 +1,9 @@
 {
     "title": "Sky Crawlers Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14728.jpg",
+        "alt": "sky-crawlers-series"
+    },
     "type": "light-novel",
     "volumes": "6",
     "chapters": "39",

@@ -1,12 +1,16 @@
 {
     "title": "Kekkai Sensen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/73559.jpg",
+        "alt": "kekkai-sensen"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "血界戦線",
     "start_date": "2015-04-05",
     "end_date": "2015-04-05",
     "opening_song": "\"Hello, world!\" by BUMP OF CHICKEN (eps 2-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hello, world!\" by BUMP OF CHICKEN (ep 1)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

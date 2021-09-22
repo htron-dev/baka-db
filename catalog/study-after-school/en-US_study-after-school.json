@@ -1,5 +1,9 @@
 {
     "title": "Study After School",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/49457.jpg",
+        "alt": "study-after-school"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

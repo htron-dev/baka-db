@@ -1,5 +1,9 @@
 {
     "title": "Hairpin Double",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1330/114903.jpg",
+        "alt": "hairpin-double"
+    },
     "type": "tv-serie",
     "original_name": "ヘアピンダブル",
     "rating": "None",

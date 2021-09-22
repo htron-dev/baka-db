@@ -1,5 +1,9 @@
 {
     "title": "Sangoku Yuugi Tao-ten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36073.jpg",
+        "alt": "sangoku-yuugi-tao-ten"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",
@@ -13,7 +17,6 @@
         "Tashiro",
         "Takuya (Story & Art)"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

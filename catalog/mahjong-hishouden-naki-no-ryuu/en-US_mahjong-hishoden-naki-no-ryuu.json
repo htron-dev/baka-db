@@ -1,5 +1,9 @@
 {
     "title": "Mahjong Hishoden: Naki no Ryuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26188.jpg",
+        "alt": "mahjong-hishoden-naki-no-ryuu"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "72",

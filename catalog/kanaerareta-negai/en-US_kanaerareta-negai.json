@@ -1,5 +1,9 @@
 {
     "title": "Kanaerareta Negai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/37513.jpg",
+        "alt": "kanaerareta-negai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

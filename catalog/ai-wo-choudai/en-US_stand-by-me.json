@@ -1,5 +1,9 @@
 {
     "title": "Stand By Me",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/147075.jpg",
+        "alt": "stand-by-me"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

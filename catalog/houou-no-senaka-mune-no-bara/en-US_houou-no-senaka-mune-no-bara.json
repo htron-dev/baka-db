@@ -1,5 +1,9 @@
 {
     "title": "Houou no Senaka, Mune no Bara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192476.jpg",
+        "alt": "houou-no-senaka-mune-no-bara"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

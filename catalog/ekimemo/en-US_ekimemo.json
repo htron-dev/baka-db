@@ -1,5 +1,9 @@
 {
     "title": "Ekimemo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1712/90354.jpg",
+        "alt": "ekimemo"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "駅メモ！",

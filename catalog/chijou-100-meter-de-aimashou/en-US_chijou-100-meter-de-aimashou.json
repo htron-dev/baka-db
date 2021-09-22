@@ -1,5 +1,9 @@
 {
     "title": "Chijou 100 Meter de, Aimashou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227946.jpg",
+        "alt": "chijou-100-meter-de-aimashou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

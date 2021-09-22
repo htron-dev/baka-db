@@ -1,5 +1,9 @@
 {
     "title": "A Good Day to Go Crazy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235912.jpg",
+        "alt": "a-good-day-to-go-crazy"
+    },
     "type": "manhwa",
     "volumes": "7",
     "original_name": "미치기 좋은 날",

@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Mikaeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/27118.jpg",
+        "alt": "tokyo-mikaeru"
+    },
     "type": "manga",
     "volumes": "2",
     "tags": [

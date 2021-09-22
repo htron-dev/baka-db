@@ -1,5 +1,9 @@
 {
     "title": "Chimamire Sukeban Chainsaw",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163825.jpg",
+        "alt": "chimamire-sukeban-chainsaw"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "89",

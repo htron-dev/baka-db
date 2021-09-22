@@ -1,5 +1,9 @@
 {
     "title": "Platinum Sonata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168116.jpg",
+        "alt": "platinum-sonata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

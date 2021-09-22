@@ -1,5 +1,9 @@
 {
     "title": "Larva 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1438/109562.jpg",
+        "alt": "larva-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "34",
     "original_name": "라바",

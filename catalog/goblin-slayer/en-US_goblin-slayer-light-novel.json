@@ -1,5 +1,9 @@
 {
     "title": "Goblin Slayer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200788.jpg",
+        "alt": "goblin-slayer"
+    },
     "type": "light-novel",
     "original_name": "ゴブリンスレイヤー",
     "start_date": "2016-02-15",

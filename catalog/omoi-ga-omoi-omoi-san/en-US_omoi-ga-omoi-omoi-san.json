@@ -1,5 +1,9 @@
 {
     "title": "Omoi ga Omoi Omoi-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/216830.jpg",
+        "alt": "omoi-ga-omoi-omoi-san"
+    },
     "type": "manga",
     "original_name": "おもいがおもいおもいさん",
     "start_date": "2018-08-24",

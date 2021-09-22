@@ -1,5 +1,9 @@
 {
     "title": "Papa Told Me",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23448.jpg",
+        "alt": "papa-told-me"
+    },
     "type": "manga",
     "volumes": "27",
     "chapters": "149",

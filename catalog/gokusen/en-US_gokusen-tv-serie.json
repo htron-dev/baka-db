@@ -1,5 +1,9 @@
 {
     "title": "Gokusen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/25273.jpg",
+        "alt": "gokusen"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ごくせん",

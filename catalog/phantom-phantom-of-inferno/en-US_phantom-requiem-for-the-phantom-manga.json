@@ -1,5 +1,9 @@
 {
     "title": "Phantom: Requiem for the Phantom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/144099.jpg",
+        "alt": "phantom-requiem-for-the-phantom"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

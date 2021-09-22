@@ -1,12 +1,16 @@
 {
     "title": "Cinderella Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/3893.jpg",
+        "alt": "cinderella-monogatari"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "シンデレラ物語",
     "start_date": "1996-04-04",
     "end_date": "1996-04-04",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"Love Plus Love\" by Judy Ongg (eps 1- 26)",
+    "ending_song": "#01: \"Newborn Love\" by Judy Ongg (eps 1-26)",
     "rating": "G - All Ages",
     "tags": [
         "adventure",

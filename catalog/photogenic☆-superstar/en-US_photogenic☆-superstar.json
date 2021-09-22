@@ -1,5 +1,9 @@
 {
     "title": "Photogenic☆Superstar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238233.jpg",
+        "alt": "photogenic☆-superstar"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

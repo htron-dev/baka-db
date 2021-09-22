@@ -1,5 +1,9 @@
 {
     "title": "Pink Napoleon Fish",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/31869.jpg",
+        "alt": "pink-napoleon-fish"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

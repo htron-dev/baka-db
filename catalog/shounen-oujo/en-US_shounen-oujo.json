@@ -1,5 +1,9 @@
 {
     "title": "Shounen Oujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/131793.jpg",
+        "alt": "shounen-oujo"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "34",

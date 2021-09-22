@@ -1,5 +1,9 @@
 {
     "title": "Isshiki-san wa Koi wo Shiritai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245817.jpg",
+        "alt": "isshiki-san-wa-koi-wo-shiritai"
+    },
     "type": "manga",
     "original_name": "一式さんは恋を知りたい。",
     "start_date": "2020-06-26",

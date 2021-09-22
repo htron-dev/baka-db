@@ -1,12 +1,16 @@
 {
     "title": "Shingeki no Bahamut: Virgin Soul",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/85564.jpg",
+        "alt": "shingeki-no-bahamut-virgin-soul"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "神撃のバハムート VIRGIN SOUL",
     "start_date": "2017-04-08",
     "end_date": "2017-04-08",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"LET iT END\" by SiM (eps 2-13)",
+    "ending_song": "#1: \"Haikei Goodbye Sayounara (拝啓グッバイさようなら)\" by DAOKO",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

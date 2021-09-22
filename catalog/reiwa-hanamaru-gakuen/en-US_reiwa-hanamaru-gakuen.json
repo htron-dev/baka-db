@@ -1,5 +1,9 @@
 {
     "title": "Reiwa Hanamaru Gakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239235.jpg",
+        "alt": "reiwa-hanamaru-gakuen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "34",

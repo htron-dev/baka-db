@@ -1,5 +1,9 @@
 {
     "title": "Eden no Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40434.jpg",
+        "alt": "eden-no-hana"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "42",

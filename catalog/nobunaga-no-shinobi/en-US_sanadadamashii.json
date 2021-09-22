@@ -1,5 +1,9 @@
 {
     "title": "Sanadadamashii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237565.jpg",
+        "alt": "sanadadamashii"
+    },
     "type": "manga",
     "original_name": "真田魂",
     "start_date": "2015-01-30",

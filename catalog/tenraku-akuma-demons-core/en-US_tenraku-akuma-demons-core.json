@@ -1,5 +1,9 @@
 {
     "title": "Tenraku Akuma! Demon's Core",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188937.jpg",
+        "alt": "tenraku-akuma-demons-core"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

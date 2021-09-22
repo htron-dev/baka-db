@@ -1,5 +1,9 @@
 {
     "title": "Hustle Punch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/59619.jpg",
+        "alt": "hustle-punch"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ハッスルパンチ",

@@ -1,5 +1,9 @@
 {
     "title": "Arion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1661/112654.jpg",
+        "alt": "arion"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ネオ・ヒロイック・ファンタジア　アリオン",

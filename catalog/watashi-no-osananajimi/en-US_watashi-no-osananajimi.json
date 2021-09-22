@@ -1,5 +1,9 @@
 {
     "title": "Watashi no...... Osananajimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/199509.jpg",
+        "alt": "watashi-no-osananajimi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "3",

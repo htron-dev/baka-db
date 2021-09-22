@@ -1,5 +1,9 @@
 {
     "title": "God Sider",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203559.jpg",
+        "alt": "god-sider"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "78",

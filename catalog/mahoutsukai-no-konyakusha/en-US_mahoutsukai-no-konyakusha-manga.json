@@ -1,5 +1,9 @@
 {
     "title": "Mahoutsukai no Konyakusha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207377.jpg",
+        "alt": "mahoutsukai-no-konyakusha"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

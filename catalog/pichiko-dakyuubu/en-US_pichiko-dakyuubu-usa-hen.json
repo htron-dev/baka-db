@@ -1,5 +1,9 @@
 {
     "title": "Pichiko Dakyuubu USA-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/75831.jpg",
+        "alt": "pichiko-dakyuubu-usa-hen"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "ピチ高野球部“USA 編”",

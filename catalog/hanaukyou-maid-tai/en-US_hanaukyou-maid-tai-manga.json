@@ -1,5 +1,9 @@
 {
     "title": "Hanaukyou Maid-tai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/92517.jpg",
+        "alt": "hanaukyou-maid-tai"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "94",

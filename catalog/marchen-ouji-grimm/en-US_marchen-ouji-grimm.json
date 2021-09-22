@@ -1,5 +1,9 @@
 {
     "title": "Märchen Ouji Grimm",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/184439.jpg",
+        "alt": "marchen-ouji-grimm"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

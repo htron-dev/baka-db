@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Taisetsu na Tomodachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/29168.jpg",
+        "alt": "watashi-no-taisetsu-na-tomodachi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

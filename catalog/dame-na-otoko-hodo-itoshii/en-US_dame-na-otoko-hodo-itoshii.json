@@ -1,5 +1,9 @@
 {
     "title": "Dame na Otoko hodo Itoshii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/29507.jpg",
+        "alt": "dame-na-otoko-hodo-itoshii"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

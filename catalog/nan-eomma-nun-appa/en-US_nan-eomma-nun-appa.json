@@ -1,5 +1,9 @@
 {
     "title": "Nan Eomma Nun Appa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40472.jpg",
+        "alt": "nan-eomma-nun-appa"
+    },
     "type": "manhwa",
     "volumes": "18",
     "original_name": "난 엄마 넌 아빠",

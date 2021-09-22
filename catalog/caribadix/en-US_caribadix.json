@@ -1,5 +1,9 @@
 {
     "title": "Caribadix",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1626/90565.jpg",
+        "alt": "caribadix"
+    },
     "type": "tv-serie",
     "episodes": "46",
     "original_name": "Caribadix",

@@ -1,5 +1,9 @@
 {
     "title": "Shisetsu Tantei Akai Kiba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/131981.jpg",
+        "alt": "shisetsu-tantei-akai-kiba"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "私設探偵赤い牙",

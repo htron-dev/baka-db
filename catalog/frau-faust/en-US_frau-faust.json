@@ -1,5 +1,9 @@
 {
     "title": "Frau Faust",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155066.jpg",
+        "alt": "frau-faust"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "20",

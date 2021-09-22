@@ -1,5 +1,9 @@
 {
     "title": "Arknights",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1216/109447.jpg",
+        "alt": "arknights"
+    },
     "type": "ona",
     "original_name": "アークナイツ",
     "start_date": "2019-11-19",

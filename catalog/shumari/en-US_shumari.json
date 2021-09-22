@@ -1,5 +1,9 @@
 {
     "title": "Shumari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36219.jpg",
+        "alt": "shumari"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "31",

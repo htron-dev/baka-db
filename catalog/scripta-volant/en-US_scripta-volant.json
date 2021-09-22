@@ -1,5 +1,9 @@
 {
     "title": "Scripta Volant",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/82246.jpg",
+        "alt": "scripta-volant"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "Scripta volant",

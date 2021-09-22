@@ -1,5 +1,9 @@
 {
     "title": "Uniminipet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/78218.jpg",
+        "alt": "uniminipet"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "유니미니펫",

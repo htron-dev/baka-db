@@ -1,5 +1,9 @@
 {
     "title": "Joou no Houkago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153508.jpg",
+        "alt": "joou-no-houkago"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "女王の放課後",

@@ -1,5 +1,9 @@
 {
     "title": "Kemonozume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/86766.jpg",
+        "alt": "kemonozume"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ケモノヅメ",

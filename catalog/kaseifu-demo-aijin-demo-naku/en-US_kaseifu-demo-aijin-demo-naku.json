@@ -1,5 +1,9 @@
 {
     "title": "Kaseifu demo Aijin demo Naku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227563.jpg",
+        "alt": "kaseifu-demo-aijin-demo-naku"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "家政婦でも愛人でもなく",

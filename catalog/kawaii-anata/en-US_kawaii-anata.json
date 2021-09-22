@@ -1,5 +1,9 @@
 {
     "title": "Kawaii Anata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15215.jpg",
+        "alt": "kawaii-anata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

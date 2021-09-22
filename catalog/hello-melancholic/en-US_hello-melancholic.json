@@ -1,5 +1,9 @@
 {
     "title": "Hello, Melancholic!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226880.jpg",
+        "alt": "hello-melancholic"
+    },
     "type": "manga",
     "original_name": "ハロー、メランコリック！",
     "start_date": "2019-06-18",

@@ -1,5 +1,9 @@
 {
     "title": "Parasite Dolls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1658/108902.jpg",
+        "alt": "parasite-dolls"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "パラサイトドールズ",

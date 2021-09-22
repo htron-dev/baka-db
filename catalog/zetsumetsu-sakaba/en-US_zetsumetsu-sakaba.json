@@ -1,5 +1,9 @@
 {
     "title": "Zetsumetsu Sakaba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204934.jpg",
+        "alt": "zetsumetsu-sakaba"
+    },
     "type": "manga",
     "original_name": "絶滅酒場",
     "start_date": "2017-04-28",

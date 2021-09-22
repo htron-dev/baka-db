@@ -1,5 +1,9 @@
 {
     "title": "Skyhigh 4",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/65977.jpg",
+        "alt": "skyhigh-4"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

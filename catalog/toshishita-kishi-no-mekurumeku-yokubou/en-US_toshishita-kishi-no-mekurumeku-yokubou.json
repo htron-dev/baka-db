@@ -1,5 +1,9 @@
 {
     "title": "Toshishita Kishi no Mekurumeku Yokubou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192205.jpg",
+        "alt": "toshishita-kishi-no-mekurumeku-yokubou"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

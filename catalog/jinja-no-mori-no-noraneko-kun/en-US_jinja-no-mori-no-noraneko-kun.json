@@ -1,5 +1,9 @@
 {
     "title": "Jinja no Mori no Noraneko-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201077.jpg",
+        "alt": "jinja-no-mori-no-noraneko-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

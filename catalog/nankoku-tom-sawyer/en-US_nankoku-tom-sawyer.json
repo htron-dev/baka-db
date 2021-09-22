@@ -1,5 +1,9 @@
 {
     "title": "Nankoku Tom Sawyer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/130261.jpg",
+        "alt": "nankoku-tom-sawyer"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "32",

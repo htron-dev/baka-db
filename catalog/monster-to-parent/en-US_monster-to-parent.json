@@ -1,5 +1,9 @@
 {
     "title": "Monster to Parent",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/213646.jpg",
+        "alt": "monster-to-parent"
+    },
     "type": "manga",
     "original_name": "モンスターとペアレント",
     "start_date": "2018-03-24",

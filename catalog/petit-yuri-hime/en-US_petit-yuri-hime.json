@@ -1,5 +1,9 @@
 {
     "title": "Petit Yuri Hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156913.jpg",
+        "alt": "petit-yuri-hime"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "18",

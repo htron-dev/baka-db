@@ -1,5 +1,9 @@
 {
     "title": "Shounen Mushuku Shinkurou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/168692.jpg",
+        "alt": "shounen-mushuku-shinkurou"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "少年無宿シンクロウ",

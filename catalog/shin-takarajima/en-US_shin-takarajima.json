@@ -1,5 +1,9 @@
 {
     "title": "Shin Takarajima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36215.jpg",
+        "alt": "shin-takarajima"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "新宝島",

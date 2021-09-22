@@ -1,11 +1,15 @@
 {
     "title": "Shanhe Jian Xin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1917/112024.jpg",
+        "alt": "shanhe-jian-xin"
+    },
     "type": "ona",
     "episodes": "16",
     "original_name": "山河剑心",
     "start_date": "2021-02-08",
     "end_date": "2021-02-08",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Shan He Jian Xin (山河剑心)\" by Zhou Rui (周锐) (eps 1-8)",
     "ending_song": "\"Shan He Zhi Jiao (山河知交)\" by Liulang de Wa Wa (流浪的蛙蛙)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

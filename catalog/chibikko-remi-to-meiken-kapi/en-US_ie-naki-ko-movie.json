@@ -1,5 +1,9 @@
 {
     "title": "Ie Naki Ko (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/29634.jpg",
+        "alt": "ie-naki-ko-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "家なき子",

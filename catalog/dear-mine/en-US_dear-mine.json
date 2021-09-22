@@ -1,5 +1,9 @@
 {
     "title": "Dear Mine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11227.jpg",
+        "alt": "dear-mine"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

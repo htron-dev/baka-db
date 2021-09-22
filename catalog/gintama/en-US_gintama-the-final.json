@@ -1,5 +1,9 @@
 {
     "title": "Gintama: The Final",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1027/109706.jpg",
+        "alt": "gintama-the-final"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "銀魂 THE FINAL",

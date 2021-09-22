@@ -1,5 +1,9 @@
 {
     "title": "Rokuko-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/82938.jpg",
+        "alt": "rokuko-chan"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "6 コちゃん",

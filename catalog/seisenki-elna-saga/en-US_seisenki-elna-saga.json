@@ -1,5 +1,9 @@
 {
     "title": "Seisenki Elna Saga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/75549.jpg",
+        "alt": "seisenki-elna-saga"
+    },
     "type": "manga",
     "volumes": "13",
     "original_name": "聖戦記エルナサーガ",

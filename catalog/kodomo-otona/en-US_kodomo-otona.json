@@ -1,5 +1,9 @@
 {
     "title": "Kodomo Otona",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228897.jpg",
+        "alt": "kodomo-otona"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Boku no Manga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/95815.jpg",
+        "alt": "boku-no-manga"
+    },
     "type": "manga",
     "original_name": "ボクのマンガ",
     "start_date": "2011-12-02",

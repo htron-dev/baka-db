@@ -1,5 +1,9 @@
 {
     "title": "Gensou Suikoden V",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150291.jpg",
+        "alt": "gensou-suikoden-v"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "幻想水滸伝 V",

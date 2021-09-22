@@ -1,5 +1,9 @@
 {
     "title": "Cubism Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149782.jpg",
+        "alt": "cubism-love"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "29",

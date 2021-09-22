@@ -1,5 +1,9 @@
 {
     "title": "Toudoku ni Ita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226077.jpg",
+        "alt": "toudoku-ni-ita"
+    },
     "type": "manga",
     "original_name": "東独にいた",
     "start_date": "2019-05-07",

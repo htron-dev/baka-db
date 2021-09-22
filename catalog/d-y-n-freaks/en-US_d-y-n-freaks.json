@@ -1,5 +1,9 @@
 {
     "title": "D.Y.N. Freaks",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/120805.jpg",
+        "alt": "d-y-n-freaks"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

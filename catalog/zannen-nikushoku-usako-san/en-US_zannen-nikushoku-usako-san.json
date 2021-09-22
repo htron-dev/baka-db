@@ -1,5 +1,9 @@
 {
     "title": "Zannen Nikushoku Usako-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225288.jpg",
+        "alt": "zannen-nikushoku-usako-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

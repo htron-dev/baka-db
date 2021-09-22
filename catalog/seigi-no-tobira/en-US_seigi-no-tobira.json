@@ -1,5 +1,9 @@
 {
     "title": "Seigi no Tobira",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36300.jpg",
+        "alt": "seigi-no-tobira"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "セイギのトビラ",

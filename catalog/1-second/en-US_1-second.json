@@ -1,5 +1,9 @@
 {
     "title": "1 Second",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247705.jpg",
+        "alt": "1-second"
+    },
     "type": "manhwa",
     "original_name": "1초",
     "start_date": "2019-03-14",

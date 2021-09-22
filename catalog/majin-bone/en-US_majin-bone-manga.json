@@ -1,5 +1,9 @@
 {
     "title": "Majin Bone",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/134589.jpg",
+        "alt": "majin-bone"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "マジンボーン",

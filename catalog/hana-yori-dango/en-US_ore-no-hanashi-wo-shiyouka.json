@@ -1,5 +1,9 @@
 {
     "title": "Ore no Hanashi wo Shiyouka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36545.jpg",
+        "alt": "ore-no-hanashi-wo-shiyouka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

@@ -1,5 +1,9 @@
 {
     "title": "Boys of the Dead",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237567.jpg",
+        "alt": "boys-of-the-dead"
+    },
     "type": "manga",
     "chapters": "5",
     "original_name": "BOYS OF THE DEAD",

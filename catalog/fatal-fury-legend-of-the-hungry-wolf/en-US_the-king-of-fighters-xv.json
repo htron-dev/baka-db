@@ -1,5 +1,9 @@
 {
     "title": "The King of Fighters XV",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1621/113777.jpg",
+        "alt": "the-king-of-fighters-xv"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ザ・キング・オブ・ファイターズ XV",

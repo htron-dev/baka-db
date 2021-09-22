@@ -1,5 +1,9 @@
 {
     "title": "Houkan Tantei Sherlock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/244775.jpg",
+        "alt": "houkan-tantei-sherlock"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

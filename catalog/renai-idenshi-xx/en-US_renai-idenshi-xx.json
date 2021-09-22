@@ -1,5 +1,9 @@
 {
     "title": "Renai Idenshi XX",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/63877.jpg",
+        "alt": "renai-idenshi-xx"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

@@ -1,5 +1,9 @@
 {
     "title": "Edo no Kenshikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225090.jpg",
+        "alt": "edo-no-kenshikan"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "56",

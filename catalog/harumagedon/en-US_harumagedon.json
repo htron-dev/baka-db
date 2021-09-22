@@ -1,5 +1,9 @@
 {
     "title": "Harumagedon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/31322.jpg",
+        "alt": "harumagedon"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ハルマゲどん",

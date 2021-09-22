@@ -1,12 +1,16 @@
 {
     "title": "Dragonaut: The Resonance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/28917.jpg",
+        "alt": "dragonaut-the-resonance"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "ドラゴノーツ-ザ・レソナンス-",
     "start_date": "2007-10-04",
     "end_date": "2007-10-04",
     "opening_song": "\"perfect blue\" by Jazzin' park feat. ATSUMI (eps 1-24)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Rain of Love\" by Yukari Fukui (eps 1-12)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Magen Senki: Cyber Momotarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180448.jpg",
+        "alt": "magen-senki-cyber-momotarou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Anata dake wo Matteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2195.jpg",
+        "alt": "anata-dake-wo-matteru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

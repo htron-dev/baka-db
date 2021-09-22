@@ -1,5 +1,9 @@
 {
     "title": "Minus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181899.jpg",
+        "alt": "minus"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "57",

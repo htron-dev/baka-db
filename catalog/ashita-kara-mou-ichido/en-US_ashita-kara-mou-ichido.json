@@ -1,5 +1,9 @@
 {
     "title": "Ashita kara Mou Ichido",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/79357.jpg",
+        "alt": "ashita-kara-mou-ichido"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Clockwork Planet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160737.jpg",
+        "alt": "clockwork-planet"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "51",

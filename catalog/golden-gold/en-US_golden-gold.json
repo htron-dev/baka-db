@@ -1,5 +1,9 @@
 {
     "title": "Golden Gold",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179482.jpg",
+        "alt": "golden-gold"
+    },
     "type": "manga",
     "original_name": "ゴールデンゴールド",
     "start_date": "2015-10-22",

@@ -1,5 +1,9 @@
 {
     "title": "Brain Damage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203906.jpg",
+        "alt": "brain-damage"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

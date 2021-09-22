@@ -1,5 +1,9 @@
 {
     "title": "Sapphire Gakuen Astro Cafe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14576.jpg",
+        "alt": "sapphire-gakuen-astro-cafe"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

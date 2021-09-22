@@ -1,5 +1,9 @@
 {
     "title": "Degen Mädchen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/99121.jpg",
+        "alt": "degen-madchen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

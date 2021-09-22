@@ -1,5 +1,9 @@
 {
     "title": "Kujou Gakuen Seitokai wa Majiwaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247648.jpg",
+        "alt": "kujou-gakuen-seitokai-wa-majiwaru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

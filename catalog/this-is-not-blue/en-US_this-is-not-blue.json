@@ -1,5 +1,9 @@
 {
     "title": "This Is Not Blue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1066/109137.jpg",
+        "alt": "this-is-not-blue"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "This is not BLUE",

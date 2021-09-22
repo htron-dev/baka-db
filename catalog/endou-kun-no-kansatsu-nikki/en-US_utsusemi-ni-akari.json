@@ -1,5 +1,9 @@
 {
     "title": "Utsusemi ni Akari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/168474.jpg",
+        "alt": "utsusemi-ni-akari"
+    },
     "type": "manga",
     "original_name": "空せ視に灯",
     "start_date": "2014-12-26",

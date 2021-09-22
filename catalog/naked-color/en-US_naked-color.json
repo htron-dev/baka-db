@@ -1,5 +1,9 @@
 {
     "title": "Naked Color",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/249652.jpg",
+        "alt": "naked-color"
+    },
     "type": "manga",
     "original_name": "ネイキッドカラー",
     "start_date": "2020-07-31",

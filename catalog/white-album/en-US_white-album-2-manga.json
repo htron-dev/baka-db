@@ -1,5 +1,9 @@
 {
     "title": "White Album 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/125925.jpg",
+        "alt": "white-album-2"
+    },
     "type": "manga",
     "original_name": "WHITE ALBUM2 -ホワイトアルバム 2-",
     "start_date": "2013-07-11",

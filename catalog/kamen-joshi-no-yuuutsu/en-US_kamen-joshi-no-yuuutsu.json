@@ -1,5 +1,9 @@
 {
     "title": "Kamen Joshi no Yuuutsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215860.jpg",
+        "alt": "kamen-joshi-no-yuuutsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

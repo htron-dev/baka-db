@@ -1,5 +1,9 @@
 {
     "title": "Backkom Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/65805.jpg",
+        "alt": "backkom-specials"
+    },
     "type": "ona",
     "episodes": "8",
     "original_name": "빼꼼",

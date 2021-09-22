@@ -1,5 +1,9 @@
 {
     "title": "Crowded Yeonaesa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18756.jpg",
+        "alt": "crowded-yeonaesa"
+    },
     "type": "manhwa",
     "volumes": "12",
     "original_name": "파란만장 연애사",

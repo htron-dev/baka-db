@@ -1,5 +1,9 @@
 {
     "title": "Marriage Battle!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149761.jpg",
+        "alt": "marriage-battle"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

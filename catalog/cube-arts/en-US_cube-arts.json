@@ -1,5 +1,9 @@
 {
     "title": "Cube Arts",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226232.jpg",
+        "alt": "cube-arts"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "28",

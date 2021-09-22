@@ -1,5 +1,9 @@
 {
     "title": "Yowai Robot to 10 no Story Project",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/84318.jpg",
+        "alt": "yowai-robot-to-10-no-story-project"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "弱いロボットと 10 のストーリー Project",

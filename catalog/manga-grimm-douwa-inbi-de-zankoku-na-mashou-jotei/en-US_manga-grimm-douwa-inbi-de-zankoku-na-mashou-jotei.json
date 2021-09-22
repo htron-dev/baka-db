@@ -1,5 +1,9 @@
 {
     "title": "Manga Grimm Douwa: Inbi de Zankoku na Mashou Jotei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/140631.jpg",
+        "alt": "manga-grimm-douwa-inbi-de-zankoku-na-mashou-jotei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

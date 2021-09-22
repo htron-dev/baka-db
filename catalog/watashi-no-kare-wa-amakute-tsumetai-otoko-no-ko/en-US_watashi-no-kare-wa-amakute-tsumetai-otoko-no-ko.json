@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Kare wa Amakute Tsumetai Otoko no Ko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193940.jpg",
+        "alt": "watashi-no-kare-wa-amakute-tsumetai-otoko-no-ko"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

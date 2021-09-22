@@ -1,5 +1,9 @@
 {
     "title": "Joshikousei: Girl's High",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/23224.jpg",
+        "alt": "joshikousei-girls-high"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "女子高生 GIRL'S HIGH",

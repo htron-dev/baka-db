@@ -1,5 +1,9 @@
 {
     "title": "Comic Party",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/75455.jpg",
+        "alt": "comic-party"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "こみっくパーティー",

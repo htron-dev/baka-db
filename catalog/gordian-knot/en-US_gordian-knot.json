@@ -1,5 +1,9 @@
 {
     "title": "Gordian Knot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32369.jpg",
+        "alt": "gordian-knot"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ゴルディオスの結び目",

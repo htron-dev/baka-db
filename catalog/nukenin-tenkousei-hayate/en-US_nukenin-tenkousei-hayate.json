@@ -1,5 +1,9 @@
 {
     "title": "Nukenin Tenkousei Hayate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225894.jpg",
+        "alt": "nukenin-tenkousei-hayate"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "23",

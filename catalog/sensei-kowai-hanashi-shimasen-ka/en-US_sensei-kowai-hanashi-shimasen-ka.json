@@ -1,5 +1,9 @@
 {
     "title": "Sensei, Kowai Hanashi shimasen ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226748.jpg",
+        "alt": "sensei-kowai-hanashi-shimasen-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

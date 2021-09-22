@@ -1,5 +1,9 @@
 {
     "title": "Sabi no Yume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/220451.jpg",
+        "alt": "sabi-no-yume"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

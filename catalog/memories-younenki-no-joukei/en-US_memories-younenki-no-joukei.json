@@ -1,5 +1,9 @@
 {
     "title": "Memories: Younenki no Joukei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/73777.jpg",
+        "alt": "memories-younenki-no-joukei"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "メモリーズ 幼年期の情景",

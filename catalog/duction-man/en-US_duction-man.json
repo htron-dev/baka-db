@@ -1,5 +1,9 @@
 {
     "title": "Duction Man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/113149.jpg",
+        "alt": "duction-man"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "38",

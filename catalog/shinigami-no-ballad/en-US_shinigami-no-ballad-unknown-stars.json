@@ -1,5 +1,9 @@
 {
     "title": "Shinigami no Ballad. Unknown Star's",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152726.jpg",
+        "alt": "shinigami-no-ballad-unknown-stars"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "15",

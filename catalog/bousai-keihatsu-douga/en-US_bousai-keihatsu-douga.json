@@ -1,5 +1,9 @@
 {
     "title": "Bousai Keihatsu Douga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/89145.jpg",
+        "alt": "bousai-keihatsu-douga"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "防災啓発動画",

@@ -1,5 +1,9 @@
 {
     "title": "Heart wo Uchinomese!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226160.jpg",
+        "alt": "heart-wo-uchinomese"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

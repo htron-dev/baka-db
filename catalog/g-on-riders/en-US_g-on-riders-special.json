@@ -1,5 +1,9 @@
 {
     "title": "G-On Riders Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/63413.jpg",
+        "alt": "g-on-riders-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "G-on らいだーす",

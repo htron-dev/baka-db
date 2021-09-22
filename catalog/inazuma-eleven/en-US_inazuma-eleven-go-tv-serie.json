@@ -1,12 +1,16 @@
 {
     "title": "Inazuma Eleven Go",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/48959.jpg",
+        "alt": "inazuma-eleven-go"
+    },
     "type": "tv-serie",
     "episodes": "47",
     "original_name": "イナズマイレブン Go",
     "start_date": "2011-05-04",
     "end_date": "2011-05-04",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: \"Ten Made Todoke! (天までとどけっ!)\" by T-Pistonz+KMC (eps 1-18)",
+    "ending_song": "#01: \"Yappa Seishun (やっぱ青春)\" by Sorano Aoi CV Kitahara Sayaka (eps 1-18)",
     "rating": "G - All Ages",
     "tags": [
         "shounen",

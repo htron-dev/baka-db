@@ -1,5 +1,9 @@
 {
     "title": "Liar Liar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236637.jpg",
+        "alt": "liar-liar"
+    },
     "type": "manga",
     "original_name": "ライアー・ライアー",
     "start_date": "2019-08-27",

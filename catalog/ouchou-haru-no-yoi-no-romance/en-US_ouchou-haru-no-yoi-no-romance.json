@@ -1,5 +1,9 @@
 {
     "title": "Ouchou Haru no Yoi no Romance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/212987.jpg",
+        "alt": "ouchou-haru-no-yoi-no-romance"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

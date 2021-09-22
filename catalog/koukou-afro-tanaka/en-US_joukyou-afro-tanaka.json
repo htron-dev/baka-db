@@ -1,5 +1,9 @@
 {
     "title": "Joukyou Afro Tanaka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168995.jpg",
+        "alt": "joukyou-afro-tanaka"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "110",

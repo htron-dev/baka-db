@@ -1,5 +1,9 @@
 {
     "title": "Ashita, Watashi wa Dareka no Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235865.jpg",
+        "alt": "ashita-watashi-wa-dareka-no-kanojo"
+    },
     "type": "manga",
     "original_name": "明日、私は誰かのカノジョ",
     "start_date": "2019-05-03",

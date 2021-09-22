@@ -1,5 +1,9 @@
 {
     "title": "Macross Frontier",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/78143.jpg",
+        "alt": "macross-frontier"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "23",

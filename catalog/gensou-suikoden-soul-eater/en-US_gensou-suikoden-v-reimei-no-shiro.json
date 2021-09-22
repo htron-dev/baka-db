@@ -1,5 +1,9 @@
 {
     "title": "Gensou Suikoden V: Reimei no Shiro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35074.jpg",
+        "alt": "gensou-suikoden-v-reimei-no-shiro"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "40",

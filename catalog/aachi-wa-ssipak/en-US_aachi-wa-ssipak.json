@@ -1,5 +1,9 @@
 {
     "title": "Aachi wa Ssipak",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/4034.jpg",
+        "alt": "aachi-wa-ssipak"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "아치와 씨팍",

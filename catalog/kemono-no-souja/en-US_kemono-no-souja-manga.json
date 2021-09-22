@@ -1,5 +1,9 @@
 {
     "title": "Kemono no Souja",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169318.jpg",
+        "alt": "kemono-no-souja"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "66",

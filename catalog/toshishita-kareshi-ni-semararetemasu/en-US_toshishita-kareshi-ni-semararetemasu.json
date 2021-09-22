@@ -1,5 +1,9 @@
 {
     "title": "Toshishita Kareshi ni Semararetemasu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158244.jpg",
+        "alt": "toshishita-kareshi-ni-semararetemasu"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "年下彼氏に迫られてます。",

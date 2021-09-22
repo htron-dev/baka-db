@@ -1,5 +1,9 @@
 {
     "title": "Yawaraka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158099.jpg",
+        "alt": "yawaraka"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "やわらか",

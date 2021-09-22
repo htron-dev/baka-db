@@ -1,5 +1,9 @@
 {
     "title": "U.ta.hi.me",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32305.jpg",
+        "alt": "u-ta-hi-me"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "う・た・ひ・め",

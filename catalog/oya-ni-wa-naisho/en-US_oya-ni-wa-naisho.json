@@ -1,5 +1,9 @@
 {
     "title": "Oya ni wa Naisho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175296.jpg",
+        "alt": "oya-ni-wa-naisho"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

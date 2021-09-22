@@ -1,12 +1,16 @@
 {
     "title": "GO-GO Tamagotchi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/60033.jpg",
+        "alt": "go-go-tamagotchi"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "GO-GO たまごっち！",
     "start_date": "2014-04-03",
     "end_date": "2014-04-03",
     "opening_song": "\"GO-GO Tamagotchi! (GO-GO たまごっち！)\" by hitomi",
-    "ending_song": "#1",
+    "ending_song": "#1: \"RAINBOW\" by hitomi",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

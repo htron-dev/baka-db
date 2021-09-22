@@ -1,5 +1,9 @@
 {
     "title": "Vampire wa Gaman Dekinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/232024.jpg",
+        "alt": "vampire-wa-gaman-dekinai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Boku to Ane to Obake-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/144521.jpg",
+        "alt": "boku-to-ane-to-obake-tachi"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ぼくと姉とオバケたち",

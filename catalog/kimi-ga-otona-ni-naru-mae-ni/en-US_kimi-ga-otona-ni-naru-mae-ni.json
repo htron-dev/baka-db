@@ -1,5 +1,9 @@
 {
     "title": "Kimi ga Otona ni Naru Mae ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164466.jpg",
+        "alt": "kimi-ga-otona-ni-naru-mae-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

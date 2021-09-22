@@ -1,5 +1,9 @@
 {
     "title": "Diabolik Lovers Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/85629.jpg",
+        "alt": "diabolik-lovers-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

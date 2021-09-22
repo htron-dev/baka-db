@@ -1,5 +1,9 @@
 {
     "title": "Boku no Shoukibo na Shippai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/64475.jpg",
+        "alt": "boku-no-shoukibo-na-shippai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "僕の小規模な失敗",

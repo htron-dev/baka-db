@@ -1,5 +1,9 @@
 {
     "title": "Super Turtles",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237285.jpg",
+        "alt": "super-turtles"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "スーパータートルズ",

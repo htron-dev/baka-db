@@ -1,5 +1,9 @@
 {
     "title": "Namida mo Tooku -Aonibi no Nemuri-",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/19604.jpg",
+        "alt": "namida-mo-tooku-aonibi-no-nemuri"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

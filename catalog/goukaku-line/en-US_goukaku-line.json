@@ -1,5 +1,9 @@
 {
     "title": "Goukaku Line",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/79667.jpg",
+        "alt": "goukaku-line"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

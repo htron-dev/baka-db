@@ -1,5 +1,9 @@
 {
     "title": "Dragon Drive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/126247.jpg",
+        "alt": "dragon-drive"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "57",

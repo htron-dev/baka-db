@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Basara: Judge End",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/62511.jpg",
+        "alt": "sengoku-basara-judge-end"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "戦国 BASARA Judge End",
@@ -35,7 +39,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Sengoku_Basara_(anime"
+            "link": "http://en.wikipedia.org/wiki/Sengoku_Basara_%28anime%29"
         }
     ]
 }

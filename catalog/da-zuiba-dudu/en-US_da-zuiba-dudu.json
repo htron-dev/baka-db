@@ -1,5 +1,9 @@
 {
     "title": "Da Zuiba Dudu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/27521.jpg",
+        "alt": "da-zuiba-dudu"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "大嘴巴嘟嘟",

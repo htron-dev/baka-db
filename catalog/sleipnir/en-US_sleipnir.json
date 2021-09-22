@@ -1,5 +1,9 @@
 {
     "title": "Sleipnir",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/140023.jpg",
+        "alt": "sleipnir"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

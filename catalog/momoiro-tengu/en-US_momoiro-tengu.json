@@ -1,5 +1,9 @@
 {
     "title": "Momoiro Tengu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27139.jpg",
+        "alt": "momoiro-tengu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

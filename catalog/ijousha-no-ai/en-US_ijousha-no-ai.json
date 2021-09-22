@@ -1,5 +1,9 @@
 {
     "title": "Ijousha no Ai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198003.jpg",
+        "alt": "ijousha-no-ai"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "74",

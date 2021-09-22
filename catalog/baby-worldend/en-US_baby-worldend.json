@@ -1,5 +1,9 @@
 {
     "title": "Baby Worldend",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/108789.jpg",
+        "alt": "baby-worldend"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

@@ -1,5 +1,9 @@
 {
     "title": "Shukujo densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/79213.jpg",
+        "alt": "shukujo-densetsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

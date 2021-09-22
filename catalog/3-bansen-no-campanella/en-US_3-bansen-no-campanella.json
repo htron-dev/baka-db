@@ -1,5 +1,9 @@
 {
     "title": "3-bansen no Campanella",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221878.jpg",
+        "alt": "3-bansen-no-campanella"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

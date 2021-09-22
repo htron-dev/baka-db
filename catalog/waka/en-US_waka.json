@@ -1,5 +1,9 @@
 {
     "title": "Waka!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22251.jpg",
+        "alt": "waka"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "若!!",

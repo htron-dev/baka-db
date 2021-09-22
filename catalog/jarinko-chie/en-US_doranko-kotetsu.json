@@ -1,5 +1,9 @@
 {
     "title": "Doranko Kotetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180877.jpg",
+        "alt": "doranko-kotetsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "25",

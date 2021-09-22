@@ -1,12 +1,16 @@
 {
     "title": "Concrete Revolutio: Choujin Gensou - The Last Song",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/80050.jpg",
+        "alt": "concrete-revolutio-choujin-gensou-the-last-song"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "コンクリート・レボルティオ～超人幻想～ THE LAST SONG",
     "start_date": "2016-04-10",
     "end_date": "2016-04-10",
     "opening_song": "\"Wareru Doukoku (割レル慟哭)\" by ZAQ",
-    "ending_song": "#1",
+    "ending_song": "#1: \"ALL-WAYS\" by Yohske Yamamoto feat. Nami Tamaki ( eps 1-10)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

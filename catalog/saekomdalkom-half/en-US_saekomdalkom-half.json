@@ -1,5 +1,9 @@
 {
     "title": "Saekomdalkom Half",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/25287.jpg",
+        "alt": "saekomdalkom-half"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "새콤달콤반쪽",

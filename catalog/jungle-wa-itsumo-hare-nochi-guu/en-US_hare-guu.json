@@ -1,5 +1,9 @@
 {
     "title": "HareGuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33381.jpg",
+        "alt": "hare-guu"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "81",

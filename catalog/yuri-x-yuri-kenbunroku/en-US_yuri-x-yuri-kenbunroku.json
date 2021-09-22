@@ -1,5 +1,9 @@
 {
     "title": "Yuri x Yuri Kenbunroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/17601.jpg",
+        "alt": "yuri-x-yuri-kenbunroku"
+    },
     "type": "manga",
     "tags": [
         "yuri"

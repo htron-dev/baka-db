@@ -1,5 +1,9 @@
 {
     "title": "Lens to Akuma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162934.jpg",
+        "alt": "lens-to-akuma"
+    },
     "type": "light-novel",
     "volumes": "12",
     "chapters": "61",

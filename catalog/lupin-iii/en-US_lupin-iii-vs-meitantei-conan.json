@@ -1,5 +1,9 @@
 {
     "title": "Lupin III vs. Meitantei Conan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240399.jpg",
+        "alt": "lupin-iii-vs-meitantei-conan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

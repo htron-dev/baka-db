@@ -1,5 +1,9 @@
 {
     "title": "Hime-dol!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222015.jpg",
+        "alt": "hime-dol"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

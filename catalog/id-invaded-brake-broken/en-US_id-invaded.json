@@ -1,12 +1,16 @@
 {
     "title": "Id:Invaded",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1889/105337.jpg",
+        "alt": "id-invaded"
+    },
     "type": "tv-serie",
     "episodes": "13",
-    "original_name": "ID",
+    "original_name": "ID:INVADED イド:インヴェイデッド",
     "start_date": "2020-01-06",
     "end_date": "2020-01-06",
     "opening_song": "\"Mister Fixer (ミスターフィクサー)\" by Sou",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Other Side\" by MIYAVI (eps 2-12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "sci-fi",

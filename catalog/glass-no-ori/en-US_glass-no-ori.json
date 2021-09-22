@@ -1,5 +1,9 @@
 {
     "title": "Glass no Ori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153369.jpg",
+        "alt": "glass-no-ori"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ガラスの檻",

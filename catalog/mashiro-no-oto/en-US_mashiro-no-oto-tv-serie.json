@@ -1,11 +1,15 @@
 {
     "title": "Mashiro no Oto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1841/111554.jpg",
+        "alt": "mashiro-no-oto"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ましろのおと",
     "start_date": "2021-04-03",
     "end_date": "2021-04-03",
-    "opening_song": "#1",
+    "opening_song": "#1: \"BLIZZARD\" by BURNOUT SYNDROMES (eps 1-5, 12)",
     "ending_song": "\"Kono Yume ga Sameru made feat. Yoshida Brothers (この夢が醒めるまで feat.吉田兄弟)\" by Miliyah Katou",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

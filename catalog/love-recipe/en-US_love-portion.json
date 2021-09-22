@@ -1,5 +1,9 @@
 {
     "title": "Love Portion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/30002.jpg",
+        "alt": "love-portion"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ラブポーション",

@@ -1,5 +1,9 @@
 {
     "title": "Kannazuki no Miko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/101311.jpg",
+        "alt": "kannazuki-no-miko"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

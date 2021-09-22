@@ -1,5 +1,9 @@
 {
     "title": "Oooku no Sakura: Gendai Oooku Jogakuin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162923.jpg",
+        "alt": "oooku-no-sakura-gendai-oooku-jogakuin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

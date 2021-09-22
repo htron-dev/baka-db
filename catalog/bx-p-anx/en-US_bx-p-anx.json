@@ -1,5 +1,9 @@
 {
     "title": "BxP Anx",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157236.jpg",
+        "alt": "bx-p-anx"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

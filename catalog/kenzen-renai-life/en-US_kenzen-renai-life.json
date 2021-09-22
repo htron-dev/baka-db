@@ -1,5 +1,9 @@
 {
     "title": "Kenzen Renai Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/93695.jpg",
+        "alt": "kenzen-renai-life"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

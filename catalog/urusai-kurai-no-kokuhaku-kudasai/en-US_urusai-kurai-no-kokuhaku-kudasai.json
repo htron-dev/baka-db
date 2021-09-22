@@ -1,5 +1,9 @@
 {
     "title": "Urusai kurai no Kokuhaku Kudasai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222092.jpg",
+        "alt": "urusai-kurai-no-kokuhaku-kudasai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

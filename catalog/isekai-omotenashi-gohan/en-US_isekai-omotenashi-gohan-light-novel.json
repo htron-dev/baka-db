@@ -1,5 +1,9 @@
 {
     "title": "Isekai Omotenashi Gohan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202887.jpg",
+        "alt": "isekai-omotenashi-gohan"
+    },
     "type": "light-novel",
     "original_name": "異世界おもてなしご飯",
     "start_date": "2017-09-08",

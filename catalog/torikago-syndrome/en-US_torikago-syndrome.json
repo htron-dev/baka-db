@@ -1,5 +1,9 @@
 {
     "title": "Torikago Syndrome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/137943.jpg",
+        "alt": "torikago-syndrome"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

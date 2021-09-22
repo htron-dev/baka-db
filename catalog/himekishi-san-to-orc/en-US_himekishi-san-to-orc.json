@@ -1,5 +1,9 @@
 {
     "title": "Himekishi-san to Orc",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207575.jpg",
+        "alt": "himekishi-san-to-orc"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

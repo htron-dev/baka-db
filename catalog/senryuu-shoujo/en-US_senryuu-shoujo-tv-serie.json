@@ -1,5 +1,9 @@
 {
     "title": "Senryuu Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1751/98216.jpg",
+        "alt": "senryuu-shoujo"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "川柳少女",

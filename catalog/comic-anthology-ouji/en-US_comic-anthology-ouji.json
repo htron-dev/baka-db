@@ -1,5 +1,9 @@
 {
     "title": "Comic Anthology Ouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22056.jpg",
+        "alt": "comic-anthology-ouji"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

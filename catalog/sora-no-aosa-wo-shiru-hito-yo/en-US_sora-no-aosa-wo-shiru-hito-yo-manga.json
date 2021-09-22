@@ -1,5 +1,9 @@
 {
     "title": "Sora no Aosa wo Shiru Hito yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/240559.jpg",
+        "alt": "sora-no-aosa-wo-shiru-hito-yo"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "15",

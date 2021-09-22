@@ -1,5 +1,9 @@
 {
     "title": "Memory Eaters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186619.jpg",
+        "alt": "memory-eaters"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "11",

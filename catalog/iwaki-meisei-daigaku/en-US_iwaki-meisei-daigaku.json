@@ -1,5 +1,9 @@
 {
     "title": "Iwaki Meisei Daigaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/82650.jpg",
+        "alt": "iwaki-meisei-daigaku"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "いわき明星大学",

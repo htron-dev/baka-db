@@ -1,5 +1,9 @@
 {
     "title": "Nananan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/44363.jpg",
+        "alt": "nananan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

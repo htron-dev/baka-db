@@ -1,5 +1,9 @@
 {
     "title": "Jigoku Kurayami Hana mo Naki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234816.jpg",
+        "alt": "jigoku-kurayami-hana-mo-naki"
+    },
     "type": "manga",
     "original_name": "地獄くらやみ花もなき",
     "start_date": "2020-02-04",

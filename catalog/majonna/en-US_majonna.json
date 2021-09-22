@@ -1,5 +1,9 @@
 {
     "title": "Majonna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179381.jpg",
+        "alt": "majonna"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "マジョンナ 三家本礼 Extra Works",

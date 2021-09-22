@@ -1,5 +1,9 @@
 {
     "title": "Fureru Yubi wa Piano",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37767.jpg",
+        "alt": "fureru-yubi-wa-piano"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Akaboshi: Ibun Suikoden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/209671.jpg",
+        "alt": "akaboshi-ibun-suikoden"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

@@ -1,5 +1,9 @@
 {
     "title": "Shougakusei ga Mama demo Ii desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210387.jpg",
+        "alt": "shougakusei-ga-mama-demo-ii-desu-ka"
+    },
     "type": "manga",
     "original_name": "小学生がママでもいいですか？",
     "start_date": "2017-12-26",

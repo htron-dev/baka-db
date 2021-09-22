@@ -1,5 +1,9 @@
 {
     "title": "Funky Yobikou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6361.jpg",
+        "alt": "funky-yobikou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

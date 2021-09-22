@@ -1,5 +1,9 @@
 {
     "title": "Aoi Haru no Subete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/137693.jpg",
+        "alt": "aoi-haru-no-subete"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "36",

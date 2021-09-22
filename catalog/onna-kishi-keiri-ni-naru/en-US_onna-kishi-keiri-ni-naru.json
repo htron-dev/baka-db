@@ -1,5 +1,9 @@
 {
     "title": "Onna Kishi, Keiri ni Naru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173823.jpg",
+        "alt": "onna-kishi-keiri-ni-naru"
+    },
     "type": "manga",
     "original_name": "女騎士、経理になる。",
     "start_date": "2015-10-30",

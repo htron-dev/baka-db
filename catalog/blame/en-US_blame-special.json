@@ -1,8 +1,12 @@
 {
     "title": "Blame! Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/10569.jpg",
+        "alt": "blame-special"
+    },
     "type": "special",
     "episodes": "1",
-    "original_name": "Blame! Extra Log",
+    "original_name": "Blame! Extra Log: Collapsed Data",
     "start_date": "2003-10-24",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

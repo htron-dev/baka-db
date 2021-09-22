@@ -1,5 +1,9 @@
 {
     "title": "R-Chuugakusei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210679.jpg",
+        "alt": "r-chuugakusei"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "28",

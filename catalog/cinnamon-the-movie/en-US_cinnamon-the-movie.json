@@ -1,5 +1,9 @@
 {
     "title": "Cinnamon the Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/35357.jpg",
+        "alt": "cinnamon-the-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "シナモン the Movie",

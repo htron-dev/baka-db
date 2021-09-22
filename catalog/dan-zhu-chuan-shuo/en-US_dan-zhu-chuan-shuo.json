@@ -1,5 +1,9 @@
 {
     "title": "Dan Zhu Chuan Shuo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1407/109686.jpg",
+        "alt": "dan-zhu-chuan-shuo"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "弹珠传说",

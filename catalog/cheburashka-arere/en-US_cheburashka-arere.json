@@ -1,5 +1,9 @@
 {
     "title": "Cheburashka Arere?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/33145.jpg",
+        "alt": "cheburashka-arere"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "チェブラーシカ あれれ？",

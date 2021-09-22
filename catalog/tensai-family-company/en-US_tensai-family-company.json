@@ -1,5 +1,9 @@
 {
     "title": "Tensai Family Company",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7709.jpg",
+        "alt": "tensai-family-company"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "64",

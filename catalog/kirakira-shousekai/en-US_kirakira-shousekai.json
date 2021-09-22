@@ -1,5 +1,9 @@
 {
     "title": "Kirakira Shousekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208157.jpg",
+        "alt": "kirakira-shousekai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Shiryoku Kensa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/114965.jpg",
+        "alt": "shiryoku-kensa"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

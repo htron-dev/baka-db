@@ -1,12 +1,16 @@
 {
     "title": "Aria the Natural",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/77621.jpg",
+        "alt": "aria-the-natural"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ARIA The NATURAL",
     "start_date": "2006-04-03",
     "end_date": "2006-04-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Euphoria (ユーフォリア)\" by Yui Makino (eps 1-15,18-26)",
+    "ending_song": "#1: \"Natsumachi (夏待ち)\" by ROUND TABLE feat. Nino (eps 1-15)",
     "rating": "G - All Ages",
     "tags": [
         "sci-fi",

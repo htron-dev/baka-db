@@ -1,12 +1,16 @@
 {
     "title": "Majin Bone",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1490/90396.jpg",
+        "alt": "majin-bone"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "マジンボーン",
     "start_date": "2014-04-01",
     "end_date": "2014-04-01",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Legend Is Born\" by Kazuki Katou (加藤和樹) (eps 1-30)",
+    "ending_song": "#1: \"OKAN GOMEN\" by Misoshiru's (味噌汁's) (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "game"

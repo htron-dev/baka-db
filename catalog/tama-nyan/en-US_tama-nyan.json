@@ -1,5 +1,9 @@
 {
     "title": "Tama-nyan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158589.jpg",
+        "alt": "tama-nyan"
+    },
     "type": "manga",
     "chapters": "15",
     "original_name": "たまにゃん",

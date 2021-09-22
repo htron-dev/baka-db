@@ -1,5 +1,9 @@
 {
     "title": "Koi wa Horonigaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228788.jpg",
+        "alt": "koi-wa-horonigaku"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "恋はほろにがく",

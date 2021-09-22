@@ -1,5 +1,9 @@
 {
     "title": "Tales of Phantasia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/148299.jpg",
+        "alt": "tales-of-phantasia"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "テイルズ オブ ファンタジア",

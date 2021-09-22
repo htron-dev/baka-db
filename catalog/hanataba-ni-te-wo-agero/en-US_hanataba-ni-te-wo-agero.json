@@ -1,5 +1,9 @@
 {
     "title": "Hanataba ni Te wo Agero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2610.jpg",
+        "alt": "hanataba-ni-te-wo-agero"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

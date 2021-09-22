@@ -1,5 +1,9 @@
 {
     "title": "Kenju Giga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/17203.jpg",
+        "alt": "kenju-giga"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "犬儒戯画",

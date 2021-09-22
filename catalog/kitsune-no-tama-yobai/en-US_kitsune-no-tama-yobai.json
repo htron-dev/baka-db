@@ -1,5 +1,9 @@
 {
     "title": "Kitsune no Tama Yobai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2929.jpg",
+        "alt": "kitsune-no-tama-yobai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

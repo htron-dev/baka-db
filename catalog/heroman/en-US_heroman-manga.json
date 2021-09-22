@@ -1,5 +1,9 @@
 {
     "title": "Heroman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29478.jpg",
+        "alt": "heroman"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "27",

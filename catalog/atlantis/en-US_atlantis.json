@@ -1,5 +1,9 @@
 {
     "title": "Atlantis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13157.jpg",
+        "alt": "atlantis"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "アトランティス",

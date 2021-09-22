@@ -1,5 +1,9 @@
 {
     "title": "Mint de Kiss Me",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2027.jpg",
+        "alt": "mint-de-kiss-me"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

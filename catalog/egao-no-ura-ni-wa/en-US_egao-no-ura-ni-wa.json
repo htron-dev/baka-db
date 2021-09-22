@@ -1,5 +1,9 @@
 {
     "title": "Egao no Ura ni wa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238984.jpg",
+        "alt": "egao-no-ura-ni-wa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

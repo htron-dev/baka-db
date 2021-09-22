@@ -1,5 +1,9 @@
 {
     "title": "Uchuu Taitei Ginga Thunder no Bouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/123925.jpg",
+        "alt": "uchuu-taitei-ginga-thunder-no-bouken"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

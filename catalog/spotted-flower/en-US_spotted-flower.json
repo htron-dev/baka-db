@@ -1,5 +1,9 @@
 {
     "title": "Spotted Flower",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/119485.jpg",
+        "alt": "spotted-flower"
+    },
     "type": "manga",
     "original_name": "Spotted Flower",
     "start_date": "2010-10-30",

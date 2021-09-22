@@ -1,5 +1,9 @@
 {
     "title": "Baccano! 1931 The Grand Punk Railroad",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/84135.jpg",
+        "alt": "baccano-1931-the-grand-punk-railroad"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Noraneko Marie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/184054.jpg",
+        "alt": "noraneko-marie"
+    },
     "type": "light-novel",
     "original_name": "ノラ猫マリィ",
     "start_date": "2016-09-30",

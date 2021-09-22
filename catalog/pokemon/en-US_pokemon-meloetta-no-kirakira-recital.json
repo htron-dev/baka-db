@@ -1,5 +1,9 @@
 {
     "title": "Pokemon: Meloetta no Kirakira Recital",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/49309.jpg",
+        "alt": "pokemon-meloetta-no-kirakira-recital"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "メロエッタのキラキラリサイタル",

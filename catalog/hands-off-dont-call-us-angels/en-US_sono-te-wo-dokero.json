@@ -1,5 +1,9 @@
 {
     "title": "Sono Te Wo Dokero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178498.jpg",
+        "alt": "sono-te-wo-dokero"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "28",

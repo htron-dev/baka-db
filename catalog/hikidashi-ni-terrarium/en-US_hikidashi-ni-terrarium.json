@@ -1,5 +1,9 @@
 {
     "title": "Hikidashi ni Terrarium",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/145037.jpg",
+        "alt": "hikidashi-ni-terrarium"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "33",

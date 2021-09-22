@@ -1,5 +1,9 @@
 {
     "title": "Ii ne! Hikaru Genji-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221293.jpg",
+        "alt": "ii-ne-hikaru-genji-kun"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "41",

@@ -1,5 +1,9 @@
 {
     "title": "Mei no Naisho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/12921.jpg",
+        "alt": "mei-no-naisho"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Urusei Yatsura Movie 5: Kanketsu-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/3001.jpg",
+        "alt": "urusei-yatsura-movie-5-kanketsu-hen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "うる星やつら 完結篇",

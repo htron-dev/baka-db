@@ -1,5 +1,9 @@
 {
     "title": "Tomoichou Busters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159039.jpg",
+        "alt": "tomoichou-busters"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "14",

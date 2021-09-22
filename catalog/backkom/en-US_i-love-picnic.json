@@ -1,5 +1,9 @@
 {
     "title": "I Love Picnic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/65737.jpg",
+        "alt": "i-love-picnic"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "I Love Picnic",

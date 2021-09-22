@@ -1,5 +1,9 @@
 {
     "title": "Ohariko Denka no Kisekae Yuugi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215166.jpg",
+        "alt": "ohariko-denka-no-kisekae-yuugi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

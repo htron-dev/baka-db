@@ -1,5 +1,9 @@
 {
     "title": "Medarot Damashii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/19960.jpg",
+        "alt": "medarot-damashii"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "メダロット魂",

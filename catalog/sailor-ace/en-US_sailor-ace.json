@@ -1,5 +1,9 @@
 {
     "title": "Sailor Ace",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167049.jpg",
+        "alt": "sailor-ace"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "71",

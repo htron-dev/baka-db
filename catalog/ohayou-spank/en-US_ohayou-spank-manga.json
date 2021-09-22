@@ -1,5 +1,9 @@
 {
     "title": "Ohayou! Spank",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11390.jpg",
+        "alt": "ohayou-spank"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "おはよう! スパンク",

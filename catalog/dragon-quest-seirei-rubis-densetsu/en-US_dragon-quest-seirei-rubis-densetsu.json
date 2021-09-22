@@ -1,5 +1,9 @@
 {
     "title": "Dragon Quest: Seirei Rubis Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/66849.jpg",
+        "alt": "dragon-quest-seirei-rubis-densetsu"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "ドラゴンクエスト　精霊ルビス伝説",

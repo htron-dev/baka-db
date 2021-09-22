@@ -1,5 +1,9 @@
 {
     "title": "Onnanoko ga Suki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151484.jpg",
+        "alt": "onnanoko-ga-suki"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "女の子が好き",

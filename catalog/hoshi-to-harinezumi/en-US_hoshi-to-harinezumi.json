@@ -1,5 +1,9 @@
 {
     "title": "Hoshi to Harinezumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224718.jpg",
+        "alt": "hoshi-to-harinezumi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

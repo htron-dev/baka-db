@@ -1,5 +1,9 @@
 {
     "title": "Hokuto no Ken: Legend of Heroes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/17616.jpg",
+        "alt": "hokuto-no-ken-legend-of-heroes"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "北斗の拳 LEGEND of HEROES",

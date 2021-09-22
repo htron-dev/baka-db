@@ -1,5 +1,9 @@
 {
     "title": "Lost: Ikai no Kemonotachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/4829.jpg",
+        "alt": "lost-ikai-no-kemonotachi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

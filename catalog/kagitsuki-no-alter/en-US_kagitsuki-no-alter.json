@@ -1,5 +1,9 @@
 {
     "title": "Kagitsuki no Alter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201608.jpg",
+        "alt": "kagitsuki-no-alter"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

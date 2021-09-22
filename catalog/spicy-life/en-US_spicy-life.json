@@ -1,5 +1,9 @@
 {
     "title": "Spicy Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6040.jpg",
+        "alt": "spicy-life"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "スパイシー・ライフ",

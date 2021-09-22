@@ -1,5 +1,9 @@
 {
     "title": "Ryuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189537.jpg",
+        "alt": "ryuu"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "65",

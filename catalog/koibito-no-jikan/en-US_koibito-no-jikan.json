@@ -1,5 +1,9 @@
 {
     "title": "Koibito no Jikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2204.jpg",
+        "alt": "koibito-no-jikan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

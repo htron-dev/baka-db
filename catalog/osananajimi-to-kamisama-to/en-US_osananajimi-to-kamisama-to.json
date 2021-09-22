@@ -1,5 +1,9 @@
 {
     "title": "Osananajimi to Kamisama to",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/241663.jpg",
+        "alt": "osananajimi-to-kamisama-to"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

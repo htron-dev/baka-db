@@ -1,5 +1,9 @@
 {
     "title": "Mini Dragon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1646/114971.jpg",
+        "alt": "mini-dragon"
+    },
     "type": "ona",
     "episodes": "13",
     "original_name": "ミニドラ",

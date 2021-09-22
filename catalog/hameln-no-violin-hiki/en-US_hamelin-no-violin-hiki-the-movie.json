@@ -1,11 +1,15 @@
 {
     "title": "Hamelin no Violin Hiki: The Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1260/94835.jpg",
+        "alt": "hamelin-no-violin-hiki-the-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ハーメルンのバイオリン弾き",
     "start_date": "1996-04-20",
     "opening_song": "\"Mae wo Muite Arukou (前を向いて歩こう)\" by KUKO",
-    "ending_song": "\"Ame Nochi Hallelujah",
+    "ending_song": "\"Ame Nochi Hallelujah: Taiyou ni Nage Kiss (雨のちハレルヤ～太陽に投げ kiss ～)\" by Yokoyama Hot Sisters",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

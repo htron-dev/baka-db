@@ -1,5 +1,9 @@
 {
     "title": "Star Ocean EX",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1515/94058.jpg",
+        "alt": "star-ocean-ex"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "スターオーシャン EX",

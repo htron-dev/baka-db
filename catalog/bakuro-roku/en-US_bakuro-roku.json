@@ -1,5 +1,9 @@
 {
     "title": "Bakuro Roku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/129027.jpg",
+        "alt": "bakuro-roku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

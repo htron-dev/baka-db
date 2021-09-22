@@ -1,5 +1,9 @@
 {
     "title": "Han Solo/Star Wars Story",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1171/95732.jpg",
+        "alt": "han-solo-star-wars-story"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "ハン・ソロ／スター・ウォーズ・ストーリー",

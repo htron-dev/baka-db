@@ -1,5 +1,9 @@
 {
     "title": "Liv &amp; Bell",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/70717.jpg",
+        "alt": "liv-amp-bell"
+    },
     "type": "tv-serie",
     "original_name": "リヴ＆ベル",
     "start_date": "2013-02-15",

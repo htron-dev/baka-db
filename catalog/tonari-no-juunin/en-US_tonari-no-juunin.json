@@ -1,5 +1,9 @@
 {
     "title": "Tonari no Juunin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/105055.jpg",
+        "alt": "tonari-no-juunin"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "となりの住人",

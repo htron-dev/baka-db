@@ -1,5 +1,9 @@
 {
     "title": "Sayonara Peter Pan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204421.jpg",
+        "alt": "sayonara-peter-pan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

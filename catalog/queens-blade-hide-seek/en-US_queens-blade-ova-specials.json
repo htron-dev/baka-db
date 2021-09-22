@@ -1,5 +1,9 @@
 {
     "title": "Queen's Blade OVA Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/34021.jpg",
+        "alt": "queens-blade-ova-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "クイーンズブレイド",

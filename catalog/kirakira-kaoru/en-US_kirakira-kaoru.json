@@ -1,5 +1,9 @@
 {
     "title": "Kirakira Kaoru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32629.jpg",
+        "alt": "kirakira-kaoru"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "きらきら馨る",

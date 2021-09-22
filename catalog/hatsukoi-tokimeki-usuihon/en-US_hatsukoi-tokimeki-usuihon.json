@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi, Tokimeki Usuihon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/242469.jpg",
+        "alt": "hatsukoi-tokimeki-usuihon"
+    },
     "type": "manga",
     "original_name": "はつ恋、ときめき うすいほん",
     "start_date": "2018-10-30",

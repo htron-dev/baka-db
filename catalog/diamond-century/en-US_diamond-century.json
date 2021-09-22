@@ -1,5 +1,9 @@
 {
     "title": "Diamond Century",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5762.jpg",
+        "alt": "diamond-century"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ダイヤモンド・センチュリー",

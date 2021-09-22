@@ -1,8 +1,12 @@
 {
     "title": "K: Seven Stories Movie 1 - R:B - Blaze",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1446/90544.jpg",
+        "alt": "k-seven-stories-movie-1-r-b-blaze"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "K Seven Stories R",
+    "original_name": "K Seven Stories R:B ~BLAZE~",
     "start_date": "2018-07-07",
     "opening_song": "\"SURVIVE!\" by angela",
     "ending_song": "\"BLAZE\" by angela",

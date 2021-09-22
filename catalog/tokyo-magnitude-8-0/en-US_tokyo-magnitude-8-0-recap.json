@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Magnitude 8.0 Recap",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/18435.jpg",
+        "alt": "tokyo-magnitude-8-0-recap"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "東京マグニチュード 8.0",

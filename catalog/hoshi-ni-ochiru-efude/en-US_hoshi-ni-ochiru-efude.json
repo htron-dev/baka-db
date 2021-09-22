@@ -1,5 +1,9 @@
 {
     "title": "Hoshi ni Ochiru Efude",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221965.jpg",
+        "alt": "hoshi-ni-ochiru-efude"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

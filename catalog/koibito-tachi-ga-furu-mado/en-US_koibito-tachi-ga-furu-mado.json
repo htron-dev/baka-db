@@ -1,5 +1,9 @@
 {
     "title": "Koibito-tachi ga Furu Mado",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/116791.jpg",
+        "alt": "koibito-tachi-ga-furu-mado"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

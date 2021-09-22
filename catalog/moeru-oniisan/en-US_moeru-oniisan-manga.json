@@ -1,5 +1,9 @@
 {
     "title": "Moeru! Oniisan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/184326.jpg",
+        "alt": "moeru-oniisan"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "213",

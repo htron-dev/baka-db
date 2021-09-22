@@ -1,5 +1,9 @@
 {
     "title": "Kecchin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/243947.jpg",
+        "alt": "kecchin"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "150",

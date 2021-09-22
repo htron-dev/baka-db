@@ -1,5 +1,9 @@
 {
     "title": "Death Pie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186074.jpg",
+        "alt": "death-pie"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

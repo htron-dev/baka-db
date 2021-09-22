@@ -1,5 +1,9 @@
 {
     "title": "Kyou kara Ore wa!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1042/110294.jpg",
+        "alt": "kyou-kara-ore-wa"
+    },
     "type": "ova",
     "episodes": "10",
     "original_name": "今日から俺は！！",

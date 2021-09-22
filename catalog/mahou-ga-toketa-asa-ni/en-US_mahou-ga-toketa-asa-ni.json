@@ -1,5 +1,9 @@
 {
     "title": "Mahou ga Toketa Asa ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/80669.jpg",
+        "alt": "mahou-ga-toketa-asa-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

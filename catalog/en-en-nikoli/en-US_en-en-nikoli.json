@@ -1,5 +1,9 @@
 {
     "title": "En En Nikoli",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/70719.jpg",
+        "alt": "en-en-nikoli"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "エんエんニコリ",

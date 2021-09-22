@@ -1,5 +1,9 @@
 {
     "title": "Craft Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149059.jpg",
+        "alt": "craft-girl"
+    },
     "type": "manga",
     "chapters": "10",
     "original_name": "クラフトガール",

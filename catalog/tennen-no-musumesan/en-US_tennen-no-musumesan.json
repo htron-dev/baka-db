@@ -1,5 +1,9 @@
 {
     "title": "Tennen no Musumesan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/38423.jpg",
+        "alt": "tennen-no-musumesan"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "天然の娘さん",

@@ -1,5 +1,9 @@
 {
     "title": "Joker Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/240625.jpg",
+        "alt": "joker-series"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "17",

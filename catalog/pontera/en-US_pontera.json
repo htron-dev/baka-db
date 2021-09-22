@@ -1,5 +1,9 @@
 {
     "title": "Pontera",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18627.jpg",
+        "alt": "pontera"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ぽんてら",

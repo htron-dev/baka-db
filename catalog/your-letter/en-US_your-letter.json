@@ -1,5 +1,9 @@
 {
     "title": "Your Letter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222246.jpg",
+        "alt": "your-letter"
+    },
     "type": "manhwa",
     "volumes": "1",
     "chapters": "11",

@@ -1,5 +1,9 @@
 {
     "title": "Netsujou Innocence",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/113939.jpg",
+        "alt": "netsujou-innocence"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Project X: 240Z",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/24726.jpg",
+        "alt": "project-x-240-z"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

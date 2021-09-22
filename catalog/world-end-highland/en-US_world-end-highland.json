@@ -1,5 +1,9 @@
 {
     "title": "World End Highland",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194280.jpg",
+        "alt": "world-end-highland"
+    },
     "type": "light-novel",
     "original_name": "ワールドエンド・ハイランド",
     "start_date": "2017-04-25",

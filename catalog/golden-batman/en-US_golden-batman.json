@@ -1,5 +1,9 @@
 {
     "title": "Golden Batman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/45142.jpg",
+        "alt": "golden-batman"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "검은별과 황금박쥐",

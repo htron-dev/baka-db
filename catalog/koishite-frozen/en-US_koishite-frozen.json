@@ -1,5 +1,9 @@
 {
     "title": "Koishite Frozen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182478.jpg",
+        "alt": "koishite-frozen"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "恋してフローズン",

@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Oto ga Nariyamanai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/204657.jpg",
+        "alt": "kimi-no-oto-ga-nariyamanai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

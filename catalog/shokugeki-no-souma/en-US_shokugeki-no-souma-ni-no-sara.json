@@ -1,12 +1,16 @@
 {
     "title": "Shokugeki no Souma: Ni no Sara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/79353.jpg",
+        "alt": "shokugeki-no-souma-ni-no-sara"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "食戟のソーマ 弍ノ皿",
     "start_date": "2016-07-02",
     "end_date": "2016-07-02",
     "opening_song": "\"ROUGH DIAMONDS\" by SCREEN mode",
-    "ending_song": "#1",
+    "ending_song": "#1: \"ROUGH DIAMONDS\" by SCREEN mode (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "ecchi",

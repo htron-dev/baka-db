@@ -1,5 +1,9 @@
 {
     "title": "Love Vibes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/171449.jpg",
+        "alt": "love-vibes"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

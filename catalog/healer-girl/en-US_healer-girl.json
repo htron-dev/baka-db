@@ -1,5 +1,9 @@
 {
     "title": "Healer Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1087/114655.jpg",
+        "alt": "healer-girl"
+    },
     "type": "tv-serie",
     "original_name": "ヒーラー・ガール",
     "rating": "None",

@@ -1,5 +1,9 @@
 {
     "title": "Natsumeki!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/205637.jpg",
+        "alt": "natsumeki"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "47",

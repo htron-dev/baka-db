@@ -1,5 +1,9 @@
 {
     "title": "Sanzennenme no Kamitaiou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245788.jpg",
+        "alt": "sanzennenme-no-kamitaiou"
+    },
     "type": "manga",
     "original_name": "三千年目の神対応",
     "start_date": "2020-12-21",

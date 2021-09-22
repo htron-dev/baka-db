@@ -1,5 +1,9 @@
 {
     "title": "France-shiki Kottou Seikatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/135971.jpg",
+        "alt": "france-shiki-kottou-seikatsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

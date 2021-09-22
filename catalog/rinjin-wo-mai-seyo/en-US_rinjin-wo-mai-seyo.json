@@ -1,5 +1,9 @@
 {
     "title": "Rinjin wo Mai seyo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192124.jpg",
+        "alt": "rinjin-wo-mai-seyo"
+    },
     "type": "manga",
     "original_name": "隣人を妹せよ！",
     "start_date": "2012-04-21",

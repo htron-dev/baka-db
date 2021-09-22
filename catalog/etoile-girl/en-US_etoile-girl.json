@@ -1,5 +1,9 @@
 {
     "title": "Étoile Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/72345.jpg",
+        "alt": "etoile-girl"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

@@ -1,5 +1,9 @@
 {
     "title": "Go Ahead",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164837.jpg",
+        "alt": "go-ahead"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

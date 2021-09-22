@@ -1,5 +1,9 @@
 {
     "title": "Lupin III: Kutabare! Nostradamus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/21668.jpg",
+        "alt": "lupin-iii-kutabare-nostradamus"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ルパン三世『くたばれ!ノストラダムス,』",

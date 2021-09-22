@@ -1,5 +1,9 @@
 {
     "title": "Mashuri no Hako",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173979.jpg",
+        "alt": "mashuri-no-hako"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

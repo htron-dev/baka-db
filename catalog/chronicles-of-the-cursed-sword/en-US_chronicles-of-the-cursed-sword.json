@@ -1,5 +1,9 @@
 {
     "title": "Chronicles of the Cursed Sword",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/678.jpg",
+        "alt": "chronicles-of-the-cursed-sword"
+    },
     "type": "manhwa",
     "volumes": "37",
     "chapters": "163",

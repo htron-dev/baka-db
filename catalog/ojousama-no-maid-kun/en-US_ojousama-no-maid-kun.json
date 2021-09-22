@@ -1,5 +1,9 @@
 {
     "title": "Ojousama no Maid-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164119.jpg",
+        "alt": "ojousama-no-maid-kun"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

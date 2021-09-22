@@ -1,5 +1,9 @@
 {
     "title": "Sore wa Iromeku Fukyouwaon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226974.jpg",
+        "alt": "sore-wa-iromeku-fukyouwaon"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

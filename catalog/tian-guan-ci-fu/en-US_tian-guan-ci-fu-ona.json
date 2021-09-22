@@ -1,12 +1,16 @@
 {
     "title": "Tian Guan Ci Fu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1319/109301.jpg",
+        "alt": "tian-guan-ci-fu"
+    },
     "type": "ona",
     "episodes": "11",
     "original_name": "天官赐福",
     "start_date": "2020-10-31",
     "end_date": "2020-10-31",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Wu Bie (无别)\" by Jeff Chang (张信哲)",
+    "ending_song": "#1: \"Yi Hua Yi Jian (一花一剑)\" by Li Xinyi (李鑫一) (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

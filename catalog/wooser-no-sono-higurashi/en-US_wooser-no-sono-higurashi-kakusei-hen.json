@@ -1,11 +1,15 @@
 {
     "title": "Wooser no Sono Higurashi: Kakusei-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1347/102594.jpg",
+        "alt": "wooser-no-sono-higurashi-kakusei-hen"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "うーさーのその日暮らし　覚醒編",
     "start_date": "2014-01-08",
     "end_date": "2014-01-08",
-    "ending_song": "#1",
+    "ending_song": "#1: \"NEW ORDER\" by Mamoru Miyano",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

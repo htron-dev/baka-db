@@ -1,5 +1,9 @@
 {
     "title": "Chiki Chiki Banana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/9889.jpg",
+        "alt": "chiki-chiki-banana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

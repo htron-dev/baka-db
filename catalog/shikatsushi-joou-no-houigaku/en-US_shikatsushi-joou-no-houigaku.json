@@ -1,5 +1,9 @@
 {
     "title": "Shikatsushi: Joou no Houigaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/211384.jpg",
+        "alt": "shikatsushi-joou-no-houigaku"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "83",

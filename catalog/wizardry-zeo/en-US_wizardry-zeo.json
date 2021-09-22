@@ -1,5 +1,9 @@
 {
     "title": "Wizardry Zeo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179005.jpg",
+        "alt": "wizardry-zeo"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "19",

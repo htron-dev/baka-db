@@ -1,5 +1,9 @@
 {
     "title": "Angelic Syndrome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236354.jpg",
+        "alt": "angelic-syndrome"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

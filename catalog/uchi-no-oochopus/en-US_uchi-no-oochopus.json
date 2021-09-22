@@ -1,5 +1,9 @@
 {
     "title": "Uchi no Oochopus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/89674.jpg",
+        "alt": "uchi-no-oochopus"
+    },
     "type": "tv-serie",
     "episodes": "38",
     "original_name": "うちのウッチョパス",

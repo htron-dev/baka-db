@@ -1,5 +1,9 @@
 {
     "title": "Rokujou Hitoma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/232840.jpg",
+        "alt": "rokujou-hitoma"
+    },
     "type": "manga",
     "original_name": "六畳一魔",
     "start_date": "2019-09-07",

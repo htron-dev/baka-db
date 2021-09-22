@@ -1,5 +1,9 @@
 {
     "title": "Kakukaku Shikajika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/154270.jpg",
+        "alt": "kakukaku-shikajika"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "34",

@@ -1,5 +1,9 @@
 {
     "title": "Ciao, My Darling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5042.jpg",
+        "alt": "ciao-my-darling"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

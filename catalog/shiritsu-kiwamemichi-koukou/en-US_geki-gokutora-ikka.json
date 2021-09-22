@@ -1,5 +1,9 @@
 {
     "title": "Geki!! Gokutora Ikka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245003.jpg",
+        "alt": "geki-gokutora-ikka"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "激! ! 極虎一家",

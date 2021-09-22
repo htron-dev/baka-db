@@ -1,5 +1,9 @@
 {
     "title": "Fairy Tail",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/140795.jpg",
+        "alt": "fairy-tail"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "29",

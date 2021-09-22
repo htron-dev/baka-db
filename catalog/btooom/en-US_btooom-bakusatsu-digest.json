@@ -1,5 +1,9 @@
 {
     "title": "Btooom!: Bakusatsu Digest",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1804/102931.jpg",
+        "alt": "btooom-bakusatsu-digest"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "BTOOOM! 爆殺ダイジェスト",

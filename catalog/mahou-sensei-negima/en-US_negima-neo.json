@@ -1,5 +1,9 @@
 {
     "title": "Negima!? Neo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156574.jpg",
+        "alt": "negima-neo"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "35",

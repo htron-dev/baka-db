@@ -1,5 +1,9 @@
 {
     "title": "Twisted Sisters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246987.jpg",
+        "alt": "twisted-sisters"
+    },
     "type": "manga",
     "original_name": "ツイステッド・シスターズ",
     "start_date": "2021-06-17",

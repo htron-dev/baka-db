@@ -1,5 +1,9 @@
 {
     "title": "Gu Ra Me!: Daisaishou no Ryourinin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164784.jpg",
+        "alt": "gu-ra-me-daisaishou-no-ryourinin"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "100",

@@ -1,5 +1,9 @@
 {
     "title": "Quick Start!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/95489.jpg",
+        "alt": "quick-start"
+    },
     "type": "manga",
     "original_name": "くいっくすたーと",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Captain Bal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1474/97420.jpg",
+        "alt": "captain-bal"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "キャプテン・バル",

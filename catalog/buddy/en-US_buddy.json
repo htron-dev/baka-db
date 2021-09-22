@@ -1,5 +1,9 @@
 {
     "title": "Buddy!!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158097.jpg",
+        "alt": "buddy"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

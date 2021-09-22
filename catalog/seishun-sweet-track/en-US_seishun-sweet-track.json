@@ -1,5 +1,9 @@
 {
     "title": "Seishun Sweet Track",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194260.jpg",
+        "alt": "seishun-sweet-track"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "26",

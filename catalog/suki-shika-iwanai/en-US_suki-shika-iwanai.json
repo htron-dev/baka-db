@@ -1,5 +1,9 @@
 {
     "title": "Suki shika Iwanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/208139.jpg",
+        "alt": "suki-shika-iwanai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Arthur Pyuty wa Yoru no Majo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174865.jpg",
+        "alt": "arthur-pyuty-wa-yoru-no-majo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Strike or Gutter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/217433.jpg",
+        "alt": "strike-or-gutter"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "54",

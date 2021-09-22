@@ -1,5 +1,9 @@
 {
     "title": "Chocolate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202693.jpg",
+        "alt": "chocolate"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

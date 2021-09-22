@@ -1,5 +1,9 @@
 {
     "title": "Houkago! Dungeon Koukou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/217800.jpg",
+        "alt": "houkago-dungeon-koukou"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "68",

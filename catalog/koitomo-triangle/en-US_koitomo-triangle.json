@@ -1,5 +1,9 @@
 {
     "title": "Koitomo Triangle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198541.jpg",
+        "alt": "koitomo-triangle"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Oyako ni Narimashita (Kari)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/210693.jpg",
+        "alt": "oyako-ni-narimashita-kari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

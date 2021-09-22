@@ -1,5 +1,9 @@
 {
     "title": "Kojirase Boy Meets Girl!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198352.jpg",
+        "alt": "kojirase-boy-meets-girl"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

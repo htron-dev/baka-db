@@ -1,5 +1,9 @@
 {
     "title": "Yubi no Sukima-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1364/109737.jpg",
+        "alt": "yubi-no-sukima-chan"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "指のすきまちゃん",

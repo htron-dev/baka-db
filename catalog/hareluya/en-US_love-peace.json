@@ -1,5 +1,9 @@
 {
     "title": "Love & Peace",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229567.jpg",
+        "alt": "love-peace"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

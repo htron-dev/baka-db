@@ -1,12 +1,16 @@
 {
     "title": "Daa! Daa! Daa!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/21166.jpg",
+        "alt": "daa-daa-daa"
+    },
     "type": "tv-serie",
     "episodes": "78",
     "original_name": "だぁ! だぁ! だぁ!",
     "start_date": "2000-03-28",
     "end_date": "2000-03-28",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Heart no Tsubasa (ハートのつばさ)\" by Reika Nakajima (eps 1-39)",
+    "ending_song": "#1: \"Boy Meets Girl DA!DA!DA! Remix\" by TRF (eps 1-38)",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

@@ -1,11 +1,15 @@
 {
     "title": "Takanashi Rikka Kai: Chuunibyou demo Koi ga Shitai! Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/56167.jpg",
+        "alt": "takanashi-rikka-kai-chuunibyou-demo-koi-ga-shitai-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "小鳥遊六花・改 ～劇場版 中二病でも恋がしたい！～",
     "start_date": "2013-09-14",
-    "opening_song": "\"-Across the line-\" by Rikka Takanashi (CV",
-    "ending_song": "#1",
+    "opening_song": "\"-Across the line-\" by Rikka Takanashi (CV: Maaya Uchida)",
+    "ending_song": "#1: \"Secret Survivor\" by Black Raison d'être (Maaya Uchida, Chinatsu Akasaki, Azumi Asakura, Sumire Uesaka)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

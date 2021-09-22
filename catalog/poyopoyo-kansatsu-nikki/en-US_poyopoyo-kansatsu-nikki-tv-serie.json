@@ -1,5 +1,9 @@
 {
     "title": "Poyopoyo Kansatsu Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/35455.jpg",
+        "alt": "poyopoyo-kansatsu-nikki"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "ポヨポヨ観察日記",

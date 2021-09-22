@@ -1,12 +1,16 @@
 {
     "title": "Val x Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1577/111404.jpg",
+        "alt": "val-x-love"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "戦 × 恋（ヴァルラヴ）",
     "start_date": "2019-10-05",
     "end_date": "2019-10-05",
     "opening_song": "\"for...\" by Rikako Aida",
-    "ending_song": "#1",
+    "ending_song": "#1: \"UP-DATE x PLEASE!!! ver 1.7.8\" by Ichika Saotome (Yumi Uchiyama), Natsuki Saotome (Kaede Hondo), Yakumo Saotome (Maki Kawase)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "harem",

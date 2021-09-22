@@ -1,5 +1,9 @@
 {
     "title": "Lan Mao",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/27512.jpg",
+        "alt": "lan-mao"
+    },
     "type": "tv-serie",
     "episodes": "3057",
     "original_name": "蓝猫",

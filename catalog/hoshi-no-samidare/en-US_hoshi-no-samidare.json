@@ -1,5 +1,9 @@
 {
     "title": "Hoshi no Samidare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/56421.jpg",
+        "alt": "hoshi-no-samidare"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "65",

@@ -1,5 +1,9 @@
 {
     "title": "Glass-goshi no Kimi e",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235113.jpg",
+        "alt": "glass-goshi-no-kimi-e"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

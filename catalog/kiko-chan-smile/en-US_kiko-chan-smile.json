@@ -1,12 +1,16 @@
 {
     "title": "Kiko-chan Smile",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/69567.jpg",
+        "alt": "kiko-chan-smile"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "きこちゃんすまいる",
     "start_date": "1996-10-05",
     "end_date": "1996-10-05",
     "opening_song": "\"Super Love\" by SO-FI",
-    "ending_song": "#1",
+    "ending_song": "#1: \"...of You\" by Lanlan Suzuki",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

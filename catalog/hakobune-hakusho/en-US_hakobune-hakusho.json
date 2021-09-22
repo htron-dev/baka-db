@@ -1,5 +1,9 @@
 {
     "title": "Hakobune Hakusho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/182029.jpg",
+        "alt": "hakobune-hakusho"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "31",

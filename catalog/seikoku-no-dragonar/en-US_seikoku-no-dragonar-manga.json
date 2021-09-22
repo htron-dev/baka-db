@@ -1,5 +1,9 @@
 {
     "title": "Seikoku no Dragonar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/101425.jpg",
+        "alt": "seikoku-no-dragonar"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "66",

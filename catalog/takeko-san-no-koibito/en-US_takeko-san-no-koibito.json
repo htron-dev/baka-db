@@ -1,5 +1,9 @@
 {
     "title": "Takeko san no Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28218.jpg",
+        "alt": "takeko-san-no-koibito"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "タケコさんの恋人",

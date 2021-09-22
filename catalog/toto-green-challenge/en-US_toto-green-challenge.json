@@ -1,5 +1,9 @@
 {
     "title": "TOTO Green Challenge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/64769.jpg",
+        "alt": "toto-green-challenge"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "TOTO GREEN CHALLENGE",

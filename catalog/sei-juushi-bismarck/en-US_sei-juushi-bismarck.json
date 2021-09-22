@@ -1,5 +1,9 @@
 {
     "title": "Sei Juushi Bismarck",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/24921.jpg",
+        "alt": "sei-juushi-bismarck"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "星銃士 ビスマルク",
@@ -31,7 +35,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Bismark_(anime"
+            "link": "http://en.wikipedia.org/wiki/Bismark_%28anime%29"
         }
     ]
 }

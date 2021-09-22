@@ -1,5 +1,9 @@
 {
     "title": "Unmei Nante Shinjinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18255.jpg",
+        "alt": "unmei-nante-shinjinai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

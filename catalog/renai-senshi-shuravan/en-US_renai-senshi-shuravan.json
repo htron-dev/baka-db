@@ -1,5 +1,9 @@
 {
     "title": "Renai Senshi Shuravan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/220994.jpg",
+        "alt": "renai-senshi-shuravan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

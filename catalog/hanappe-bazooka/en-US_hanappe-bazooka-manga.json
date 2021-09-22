@@ -1,5 +1,9 @@
 {
     "title": "Hanappe Bazooka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14430.jpg",
+        "alt": "hanappe-bazooka"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "41",

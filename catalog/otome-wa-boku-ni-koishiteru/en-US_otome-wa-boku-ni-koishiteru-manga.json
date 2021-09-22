@@ -1,5 +1,9 @@
 {
     "title": "Otome wa Boku ni Koishiteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/3202.jpg",
+        "alt": "otome-wa-boku-ni-koishiteru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "21",

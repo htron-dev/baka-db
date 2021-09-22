@@ -1,5 +1,9 @@
 {
     "title": "Antique Rose",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/57807.jpg",
+        "alt": "antique-rose"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

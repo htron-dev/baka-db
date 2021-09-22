@@ -1,5 +1,9 @@
 {
     "title": "Fukashigi Philia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/118849.jpg",
+        "alt": "fukashigi-philia"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

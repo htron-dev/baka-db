@@ -1,5 +1,9 @@
 {
     "title": "Majinou Gallon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36222.jpg",
+        "alt": "majinou-gallon"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "魔神王ガロン",

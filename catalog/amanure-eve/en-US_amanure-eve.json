@@ -1,5 +1,9 @@
 {
     "title": "Amanure Eve",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/9238.jpg",
+        "alt": "amanure-eve"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "甘濡れ ♥Eve",

@@ -1,5 +1,9 @@
 {
     "title": "RGB Adventure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/30308.jpg",
+        "alt": "rgb-adventure"
+    },
     "type": "tv-serie",
     "episodes": "6",
     "original_name": "RGB アドベンチャ",

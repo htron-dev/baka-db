@@ -1,5 +1,9 @@
 {
     "title": "Yumeyume Kirakiradou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/123091.jpg",
+        "alt": "yumeyume-kirakiradou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

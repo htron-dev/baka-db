@@ -1,5 +1,9 @@
 {
     "title": "Finlandia: Santa Yousei Gakkou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152674.jpg",
+        "alt": "finlandia-santa-yousei-gakkou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

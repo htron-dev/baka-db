@@ -1,5 +1,9 @@
 {
     "title": "Yuuki! Yuujou! Shin Sanjuushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/115129.jpg",
+        "alt": "yuuki-yuujou-shin-sanjuushi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "勇気！友情！新・三銃士",

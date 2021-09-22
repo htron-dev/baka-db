@@ -1,5 +1,9 @@
 {
     "title": "100",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/114417.jpg",
+        "alt": "100"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

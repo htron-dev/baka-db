@@ -1,5 +1,9 @@
 {
     "title": "Tonari no Yarou ga Konomi na Ken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/199837.jpg",
+        "alt": "tonari-no-yarou-ga-konomi-na-ken"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

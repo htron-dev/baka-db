@@ -1,5 +1,9 @@
 {
     "title": "Hajimari wa Naka kara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199825.jpg",
+        "alt": "hajimari-wa-naka-kara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

@@ -1,5 +1,9 @@
 {
     "title": "Shachiku ni Shinigami ga Tsuku Anken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222287.jpg",
+        "alt": "shachiku-ni-shinigami-ga-tsuku-anken"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

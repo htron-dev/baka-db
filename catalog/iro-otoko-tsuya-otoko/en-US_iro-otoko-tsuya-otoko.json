@@ -1,5 +1,9 @@
 {
     "title": "Iro Otoko, Tsuya Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/114861.jpg",
+        "alt": "iro-otoko-tsuya-otoko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

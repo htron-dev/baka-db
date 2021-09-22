@@ -1,5 +1,9 @@
 {
     "title": "Drakuun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/211875.jpg",
+        "alt": "drakuun"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "ドラクゥーン 竜姫兵",

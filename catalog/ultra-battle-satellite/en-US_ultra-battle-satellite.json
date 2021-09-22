@@ -1,5 +1,9 @@
 {
     "title": "Ultra Battle Satellite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166253.jpg",
+        "alt": "ultra-battle-satellite"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

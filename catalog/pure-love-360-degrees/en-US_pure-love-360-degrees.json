@@ -1,5 +1,9 @@
 {
     "title": "Pure Love 360 Degrees",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/7010.jpg",
+        "alt": "pure-love-360-degrees"
+    },
     "type": "manhwa",
     "volumes": "5",
     "tags": [

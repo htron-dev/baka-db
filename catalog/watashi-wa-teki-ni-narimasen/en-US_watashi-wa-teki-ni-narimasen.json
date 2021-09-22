@@ -1,5 +1,9 @@
 {
     "title": "Watashi wa Teki ni Narimasen!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/242482.jpg",
+        "alt": "watashi-wa-teki-ni-narimasen"
+    },
     "type": "light-novel",
     "volumes": "6",
     "chapters": "56",

@@ -1,5 +1,9 @@
 {
     "title": "Rocket Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/37812.jpg",
+        "alt": "rocket-girls"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "ロケットガール",

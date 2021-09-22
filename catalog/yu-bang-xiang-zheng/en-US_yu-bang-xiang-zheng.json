@@ -1,5 +1,9 @@
 {
     "title": "Yu Bang Xiang Zheng",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/55681.jpg",
+        "alt": "yu-bang-xiang-zheng"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "鹬蚌相争",

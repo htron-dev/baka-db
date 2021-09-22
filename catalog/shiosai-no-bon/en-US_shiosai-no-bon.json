@@ -1,5 +1,9 @@
 {
     "title": "Shiosai no Bon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/216608.jpg",
+        "alt": "shiosai-no-bon"
+    },
     "type": "manga",
     "original_name": "潮騒の凡",
     "start_date": "2018-08-03",

@@ -1,5 +1,9 @@
 {
     "title": "Mimoza de Sarada",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/147159.jpg",
+        "alt": "mimoza-de-sarada"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

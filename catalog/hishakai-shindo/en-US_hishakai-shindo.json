@@ -1,5 +1,9 @@
 {
     "title": "Hishakai Shindo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224157.jpg",
+        "alt": "hishakai-shindo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

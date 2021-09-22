@@ -1,5 +1,9 @@
 {
     "title": "Zankou Noise",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/145171.jpg",
+        "alt": "zankou-noise"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

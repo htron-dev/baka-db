@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Shiroi Hane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15332.jpg",
+        "alt": "kimi-no-shiroi-hane"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "君の白い羽根",

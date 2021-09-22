@@ -1,5 +1,9 @@
 {
     "title": "Makai Toshi Hunter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32220.jpg",
+        "alt": "makai-toshi-hunter"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "156",

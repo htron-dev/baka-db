@@ -1,5 +1,9 @@
 {
     "title": "Ojiisan no Lamp",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/76455.jpg",
+        "alt": "ojiisan-no-lamp"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "おぢいさんのランプ",

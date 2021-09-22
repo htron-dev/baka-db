@@ -1,5 +1,9 @@
 {
     "title": "Mikagura Gakuen Kumikyoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/111809.jpg",
+        "alt": "mikagura-gakuen-kumikyoku"
+    },
     "type": "light-novel",
     "volumes": "8",
     "chapters": "44",

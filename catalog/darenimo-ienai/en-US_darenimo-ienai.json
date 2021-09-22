@@ -1,5 +1,9 @@
 {
     "title": "Darenimo Ienai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/115279.jpg",
+        "alt": "darenimo-ienai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

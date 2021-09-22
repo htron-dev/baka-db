@@ -1,5 +1,9 @@
 {
     "title": "Shadow Lady",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166887.jpg",
+        "alt": "shadow-lady"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

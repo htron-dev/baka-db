@@ -1,5 +1,9 @@
 {
     "title": "City Hunter 3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1147/94393.jpg",
+        "alt": "city-hunter-3"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "シティーハンター 3",

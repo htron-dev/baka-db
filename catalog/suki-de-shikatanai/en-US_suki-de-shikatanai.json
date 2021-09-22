@@ -1,5 +1,9 @@
 {
     "title": "Suki de Shikatanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/17648.jpg",
+        "alt": "suki-de-shikatanai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Devilman Tai Yami no Teiou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/131343.jpg",
+        "alt": "devilman-tai-yami-no-teiou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

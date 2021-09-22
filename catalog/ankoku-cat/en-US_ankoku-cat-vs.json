@@ -1,5 +1,9 @@
 {
     "title": "Ankoku Cat VS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/88532.jpg",
+        "alt": "ankoku-cat-vs"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "暗黒キャット VS",

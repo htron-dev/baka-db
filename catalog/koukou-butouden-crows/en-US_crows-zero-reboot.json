@@ -1,5 +1,9 @@
 {
     "title": "Crows Zero Reboot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/233909.jpg",
+        "alt": "crows-zero-reboot"
+    },
     "type": "manga",
     "original_name": "クローズ ZERO リブート",
     "start_date": "2018-08-04",

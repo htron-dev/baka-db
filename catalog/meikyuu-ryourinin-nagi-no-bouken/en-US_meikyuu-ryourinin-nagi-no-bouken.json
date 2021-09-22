@@ -1,5 +1,9 @@
 {
     "title": "Meikyuu Ryourinin Nagi no Bouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189277.jpg",
+        "alt": "meikyuu-ryourinin-nagi-no-bouken"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "19",

@@ -1,5 +1,9 @@
 {
     "title": "Katte ni Hero Yattemasu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210196.jpg",
+        "alt": "katte-ni-hero-yattemasu"
+    },
     "type": "manga",
     "original_name": "勝手にヒーローやってます。",
     "start_date": "2018-01-19",

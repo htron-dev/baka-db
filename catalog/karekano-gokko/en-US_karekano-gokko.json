@@ -1,5 +1,9 @@
 {
     "title": "Karekano Gokko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/150336.jpg",
+        "alt": "karekano-gokko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

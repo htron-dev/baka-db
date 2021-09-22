@@ -1,5 +1,9 @@
 {
     "title": "Designs",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173083.jpg",
+        "alt": "designs"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "24",

@@ -1,5 +1,9 @@
 {
     "title": "Duel Masters Victory",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/71913.jpg",
+        "alt": "duel-masters-victory"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "デュエル・マスターズ ビクトリー",

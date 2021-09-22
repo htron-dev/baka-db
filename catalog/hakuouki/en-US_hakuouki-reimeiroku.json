@@ -1,5 +1,9 @@
 {
     "title": "Hakuouki Reimeiroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/71798.jpg",
+        "alt": "hakuouki-reimeiroku"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "薄桜鬼 黎明録",

@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Senjutsu Senki Lobos",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/80205.jpg",
+        "alt": "sengoku-senjutsu-senki-lobos"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "26",

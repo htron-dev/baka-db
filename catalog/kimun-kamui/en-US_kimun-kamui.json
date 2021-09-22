@@ -1,5 +1,9 @@
 {
     "title": "Kimun Kamui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/199630.jpg",
+        "alt": "kimun-kamui"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "36",

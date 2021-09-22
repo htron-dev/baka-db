@@ -1,5 +1,9 @@
 {
     "title": "Let's Fight Ghost",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/45713.jpg",
+        "alt": "lets-fight-ghost"
+    },
     "type": "manhwa",
     "chapters": "116",
     "original_name": "싸우자귀신아",

@@ -1,5 +1,9 @@
 {
     "title": "Sonic 4-koma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/13928.jpg",
+        "alt": "sonic-4-koma"
+    },
     "type": "manga",
     "original_name": "ソニック 4 コマ",
     "start_date": "2012-05-20",

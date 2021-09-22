@@ -1,5 +1,9 @@
 {
     "title": "Bukatsu Shoujo You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/37043.jpg",
+        "alt": "bukatsu-shoujo-you"
+    },
     "type": "manga",
     "original_name": "部活少女ユウ",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Sekai de Ichiban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21061.jpg",
+        "alt": "sekai-de-ichiban"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

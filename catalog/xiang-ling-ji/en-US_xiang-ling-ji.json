@@ -1,5 +1,9 @@
 {
     "title": "Xiang Ling Ji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1602/93041.jpg",
+        "alt": "xiang-ling-ji"
+    },
     "type": "ona",
     "episodes": "15",
     "original_name": "降灵记",

@@ -1,5 +1,9 @@
 {
     "title": "Boku dake no Sugar Doll",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176300.jpg",
+        "alt": "boku-dake-no-sugar-doll"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

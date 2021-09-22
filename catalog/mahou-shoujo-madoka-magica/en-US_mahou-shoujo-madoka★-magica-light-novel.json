@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo Madoka★Magica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/44827.jpg",
+        "alt": "mahou-shoujo-madoka★-magica"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "13",

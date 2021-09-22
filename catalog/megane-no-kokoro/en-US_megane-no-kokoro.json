@@ -1,5 +1,9 @@
 {
     "title": "Megane no Kokoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164242.jpg",
+        "alt": "megane-no-kokoro"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Guilty Crown: Princess of Deadpool",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/74343.jpg",
+        "alt": "guilty-crown-princess-of-deadpool"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

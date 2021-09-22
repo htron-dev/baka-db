@@ -1,5 +1,9 @@
 {
     "title": "The Beloved Little Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/242275.jpg",
+        "alt": "the-beloved-little-princess"
+    },
     "type": "manhwa",
     "original_name": "막내 황녀님",
     "start_date": "2020-03-26",

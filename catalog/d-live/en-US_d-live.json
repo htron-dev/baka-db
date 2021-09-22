@@ -1,5 +1,9 @@
 {
     "title": "D-live!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23960.jpg",
+        "alt": "d-live"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "163",

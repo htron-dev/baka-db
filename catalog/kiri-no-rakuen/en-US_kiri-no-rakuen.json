@@ -1,5 +1,9 @@
 {
     "title": "Kiri no Rakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153657.jpg",
+        "alt": "kiri-no-rakuen"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "霧の楽園",

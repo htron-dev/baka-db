@@ -1,5 +1,9 @@
 {
     "title": "Bijo to Chinjuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/146999.jpg",
+        "alt": "bijo-to-chinjuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

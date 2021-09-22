@@ -1,5 +1,9 @@
 {
     "title": "Furusato Japan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/22952.jpg",
+        "alt": "furusato-japan"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ふるさと JAPAN",

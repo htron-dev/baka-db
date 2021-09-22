@@ -1,5 +1,9 @@
 {
     "title": "Horror Collector",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/27876.jpg",
+        "alt": "horror-collector"
+    },
     "type": "manhwa",
     "volumes": "5",
     "tags": [

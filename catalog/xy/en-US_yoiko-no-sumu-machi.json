@@ -1,5 +1,9 @@
 {
     "title": "Yoiko no Sumu Machi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/26920.jpg",
+        "alt": "yoiko-no-sumu-machi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

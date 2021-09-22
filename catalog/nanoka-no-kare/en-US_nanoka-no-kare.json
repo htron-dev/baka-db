@@ -1,5 +1,9 @@
 {
     "title": "Nanoka no Kare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162757.jpg",
+        "alt": "nanoka-no-kare"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "86",

@@ -1,5 +1,9 @@
 {
     "title": "Bio Hunter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/74523.jpg",
+        "alt": "bio-hunter"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "バイオ・ハンター",

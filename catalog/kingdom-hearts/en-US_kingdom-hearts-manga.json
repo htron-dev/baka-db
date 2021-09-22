@@ -1,5 +1,9 @@
 {
     "title": "Kingdom Hearts",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/197189.jpg",
+        "alt": "kingdom-hearts"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "43",

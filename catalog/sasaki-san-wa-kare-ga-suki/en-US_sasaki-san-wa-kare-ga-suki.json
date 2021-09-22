@@ -1,5 +1,9 @@
 {
     "title": "Sasaki-san wa Kare ga Suki?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226308.jpg",
+        "alt": "sasaki-san-wa-kare-ga-suki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

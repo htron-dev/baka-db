@@ -1,5 +1,9 @@
 {
     "title": "Boku no Tenohira de Odore",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11169.jpg",
+        "alt": "boku-no-tenohira-de-odore"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "僕の手のひらで踊れ",

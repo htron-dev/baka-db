@@ -1,5 +1,9 @@
 {
     "title": "Ashinaga Ojisan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/54637.jpg",
+        "alt": "ashinaga-ojisan"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "あしながおじさん",

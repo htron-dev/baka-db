@@ -1,5 +1,9 @@
 {
     "title": "Megami no Kago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/51923.jpg",
+        "alt": "megami-no-kago"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "メガミのカゴ",

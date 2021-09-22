@@ -1,5 +1,9 @@
 {
     "title": "Juuni Hizoku no Palette",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/24708.jpg",
+        "alt": "juuni-hizoku-no-palette"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "30",

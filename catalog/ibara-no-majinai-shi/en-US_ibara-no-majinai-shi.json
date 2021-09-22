@@ -1,5 +1,9 @@
 {
     "title": "Ibara no Majinai-shi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/123013.jpg",
+        "alt": "ibara-no-majinai-shi"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "いばらの呪い師",

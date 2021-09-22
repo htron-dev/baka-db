@@ -1,5 +1,9 @@
 {
     "title": "Last Embryo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157180.jpg",
+        "alt": "last-embryo"
+    },
     "type": "light-novel",
     "original_name": "ラストエンブリオ",
     "start_date": "2015-06-01",

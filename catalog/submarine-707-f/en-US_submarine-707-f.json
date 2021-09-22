@@ -1,5 +1,9 @@
 {
     "title": "Submarine 707 F",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228833.jpg",
+        "alt": "submarine-707-f"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "48",

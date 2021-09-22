@@ -1,5 +1,9 @@
 {
     "title": "Harenchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/25882.jpg",
+        "alt": "harenchi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

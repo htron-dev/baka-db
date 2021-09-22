@@ -1,5 +1,9 @@
 {
     "title": "Yarukinashi Eiyuutan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184061.jpg",
+        "alt": "yarukinashi-eiyuutan"
+    },
     "type": "light-novel",
     "original_name": "やる気なし英雄譚",
     "start_date": "2014-06-25",

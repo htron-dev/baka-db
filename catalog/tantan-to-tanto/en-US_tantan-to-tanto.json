@@ -1,5 +1,9 @@
 {
     "title": "Tantan to Tanto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244842.jpg",
+        "alt": "tantan-to-tanto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

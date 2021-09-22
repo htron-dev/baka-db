@@ -1,5 +1,9 @@
 {
     "title": "Sword Art Online: Extra Edition",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/64747.jpg",
+        "alt": "sword-art-online-extra-edition"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ソードアート・オンライン Extra Edition",

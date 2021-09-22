@@ -1,5 +1,9 @@
 {
     "title": "Ayamachi Unmeiron",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181625.jpg",
+        "alt": "ayamachi-unmeiron"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

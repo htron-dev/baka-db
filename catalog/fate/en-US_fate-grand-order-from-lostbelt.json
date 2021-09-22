@@ -1,5 +1,9 @@
 {
     "title": "Fate/Grand Order: From Lostbelt",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238381.jpg",
+        "alt": "fate-grand-order-from-lostbelt"
+    },
     "type": "manga",
     "original_name": "Fate/Grand Order フロム ロストベルト",
     "start_date": "2019-12-20",

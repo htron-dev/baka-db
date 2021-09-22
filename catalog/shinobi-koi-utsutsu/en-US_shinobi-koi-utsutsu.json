@@ -1,5 +1,9 @@
 {
     "title": "Shinobi, Koi Utsutsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158366.jpg",
+        "alt": "shinobi-koi-utsutsu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

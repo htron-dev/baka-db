@@ -1,5 +1,9 @@
 {
     "title": "Honjitsu Tsugou ni yori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/131731.jpg",
+        "alt": "honjitsu-tsugou-ni-yori"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "本日都合により",

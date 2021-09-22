@@ -1,5 +1,9 @@
 {
     "title": "Heya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/16392.jpg",
+        "alt": "heya"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "部屋",

@@ -1,5 +1,9 @@
 {
     "title": "Mephisto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172105.jpg",
+        "alt": "mephisto"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "51",

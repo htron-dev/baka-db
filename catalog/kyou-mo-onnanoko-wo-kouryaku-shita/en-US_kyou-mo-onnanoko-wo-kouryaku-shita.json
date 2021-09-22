@@ -1,5 +1,9 @@
 {
     "title": "Kyou mo Onnanoko wo Kouryaku shita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194110.jpg",
+        "alt": "kyou-mo-onnanoko-wo-kouryaku-shita"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "34",

@@ -1,12 +1,16 @@
 {
     "title": "Koi wa Ameagari no You ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1271/90136.jpg",
+        "alt": "koi-wa-ameagari-no-you-ni"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "恋は雨上がりのように",
     "start_date": "2018-01-12",
     "end_date": "2018-01-12",
     "opening_song": "\"Nostalgic Rainfall (ノスタルジックレインフォール)\" by CHiCO with HoneyWorks",
-    "ending_song": "\"Ref",
+    "ending_song": "\"Ref:rain\" by Aimer",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

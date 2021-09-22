@@ -1,5 +1,9 @@
 {
     "title": "Eccentric Lover",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10863.jpg",
+        "alt": "eccentric-lover"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "エキセントリック LOVER",

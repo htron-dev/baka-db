@@ -1,5 +1,9 @@
 {
     "title": "Tomiko no Kimochi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161385.jpg",
+        "alt": "tomiko-no-kimochi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "19",

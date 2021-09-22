@@ -1,5 +1,9 @@
 {
     "title": "De:vadasy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1378/91079.jpg",
+        "alt": "de-vadasy"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "創世聖紀デヴァダシー",

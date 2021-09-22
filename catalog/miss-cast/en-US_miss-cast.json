@@ -1,5 +1,9 @@
 {
     "title": "Miss Cast!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/241009.jpg",
+        "alt": "miss-cast"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

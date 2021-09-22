@@ -1,5 +1,9 @@
 {
     "title": "△Danshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169447.jpg",
+        "alt": "△-danshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

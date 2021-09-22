@@ -1,12 +1,16 @@
 {
     "title": "Hetalia Axis Powers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/75791.jpg",
+        "alt": "hetalia-axis-powers"
+    },
     "type": "ona",
     "episodes": "52",
     "original_name": "ヘタリア Axis Powers",
     "start_date": "2009-01-24",
     "end_date": "2009-01-24",
     "opening_song": "\"Hetalia no Ooinaru Sekai (ヘタリアの大いなる世界) (Hetalia, World's Greatest) by Conisch (コーニッシュ)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Marukaite Chikyuu (Italy version)\" by Daisuke Namikawa",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

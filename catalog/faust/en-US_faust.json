@@ -1,5 +1,9 @@
 {
     "title": "Faust",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150772.jpg",
+        "alt": "faust"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

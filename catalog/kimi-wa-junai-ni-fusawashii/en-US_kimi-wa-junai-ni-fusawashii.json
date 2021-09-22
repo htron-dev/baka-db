@@ -1,5 +1,9 @@
 {
     "title": "Kimi wa Junai ni Fusawashii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245891.jpg",
+        "alt": "kimi-wa-junai-ni-fusawashii"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

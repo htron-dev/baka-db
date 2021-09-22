@@ -1,5 +1,9 @@
 {
     "title": "Asami-sensei no Himitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156108.jpg",
+        "alt": "asami-sensei-no-himitsu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Kurayami ni Himeta Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186186.jpg",
+        "alt": "kurayami-ni-himeta-koi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "11",

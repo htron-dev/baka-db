@@ -1,5 +1,9 @@
 {
     "title": "DT Matikku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36911.jpg",
+        "alt": "dt-matikku"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "DT マティック",

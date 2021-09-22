@@ -1,5 +1,9 @@
 {
     "title": "Tomodachi toshite Daisuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236634.jpg",
+        "alt": "tomodachi-toshite-daisuki"
+    },
     "type": "manga",
     "original_name": "友達として大好き",
     "start_date": "2020-01-24",

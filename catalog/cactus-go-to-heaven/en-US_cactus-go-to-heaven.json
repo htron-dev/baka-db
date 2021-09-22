@@ -1,5 +1,9 @@
 {
     "title": "Cactus, Go to Heaven!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/41593.jpg",
+        "alt": "cactus-go-to-heaven"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "ＣＧＨ！",

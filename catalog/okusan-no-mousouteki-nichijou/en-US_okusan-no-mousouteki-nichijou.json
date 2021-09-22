@@ -1,5 +1,9 @@
 {
     "title": "Okusan no Mousouteki Nichijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/84653.jpg",
+        "alt": "okusan-no-mousouteki-nichijou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "16",

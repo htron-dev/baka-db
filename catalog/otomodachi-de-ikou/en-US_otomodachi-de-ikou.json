@@ -1,5 +1,9 @@
 {
     "title": "Otomodachi de Ikou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/8064.jpg",
+        "alt": "otomodachi-de-ikou"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "お友達でいこう!",

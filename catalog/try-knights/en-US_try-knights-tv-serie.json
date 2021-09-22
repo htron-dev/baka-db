@@ -1,5 +1,9 @@
 {
     "title": "Try Knights",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1803/102385.jpg",
+        "alt": "try-knights"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "トライナイツ",

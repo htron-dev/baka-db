@@ -1,5 +1,9 @@
 {
     "title": "Senran Kagura: Senshi Bankou no Haruka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235873.jpg",
+        "alt": "senran-kagura-senshi-bankou-no-haruka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

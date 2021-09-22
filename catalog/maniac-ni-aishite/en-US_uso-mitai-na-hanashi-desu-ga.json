@@ -1,5 +1,9 @@
 {
     "title": "Uso Mitai na Hanashi desu ga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/116005.jpg",
+        "alt": "uso-mitai-na-hanashi-desu-ga"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

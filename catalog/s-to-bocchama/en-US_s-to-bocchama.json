@@ -1,5 +1,9 @@
 {
     "title": "S to Bocchama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223536.jpg",
+        "alt": "s-to-bocchama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

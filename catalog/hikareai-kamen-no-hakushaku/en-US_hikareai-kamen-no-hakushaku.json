@@ -1,5 +1,9 @@
 {
     "title": "Hikareai: Kamen no Hakushaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/183378.jpg",
+        "alt": "hikareai-kamen-no-hakushaku"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

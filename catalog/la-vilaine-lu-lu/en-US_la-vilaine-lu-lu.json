@@ -1,5 +1,9 @@
 {
     "title": "La Vilaine LuLu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/14685.jpg",
+        "alt": "la-vilaine-lu-lu"
+    },
     "type": "special",
     "episodes": "13",
     "original_name": "おてんばルル",

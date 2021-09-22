@@ -1,5 +1,9 @@
 {
     "title": "Wake up!! Tamala",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/76309.jpg",
+        "alt": "wake-up-tamala"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "Wake up!! TAMALA",

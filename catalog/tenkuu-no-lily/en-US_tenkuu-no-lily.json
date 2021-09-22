@@ -1,5 +1,9 @@
 {
     "title": "Tenkuu no Lily",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/131283.jpg",
+        "alt": "tenkuu-no-lily"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "天空のリリー",

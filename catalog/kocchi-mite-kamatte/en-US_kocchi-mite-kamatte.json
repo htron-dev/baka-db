@@ -1,5 +1,9 @@
 {
     "title": "Kocchi Mite, Kamatte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/114793.jpg",
+        "alt": "kocchi-mite-kamatte"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

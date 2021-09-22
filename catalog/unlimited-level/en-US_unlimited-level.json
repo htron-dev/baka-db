@@ -1,5 +1,9 @@
 {
     "title": "Unlimited Level",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189079.jpg",
+        "alt": "unlimited-level"
+    },
     "type": "light-novel",
     "original_name": "アンリミテッド・レベル",
     "start_date": "2017-01-18",

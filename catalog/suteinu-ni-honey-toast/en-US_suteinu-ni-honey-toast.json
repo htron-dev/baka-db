@@ -1,5 +1,9 @@
 {
     "title": "Suteinu ni Honey Toast",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/209851.jpg",
+        "alt": "suteinu-ni-honey-toast"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "19",

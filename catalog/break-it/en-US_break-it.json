@@ -1,5 +1,9 @@
 {
     "title": "Break It",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247856.jpg",
+        "alt": "break-it"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

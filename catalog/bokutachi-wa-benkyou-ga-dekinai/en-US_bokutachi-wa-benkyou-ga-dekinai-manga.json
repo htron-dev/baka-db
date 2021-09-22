@@ -1,5 +1,9 @@
 {
     "title": "Bokutachi wa Benkyou ga Dekinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/197080.jpg",
+        "alt": "bokutachi-wa-benkyou-ga-dekinai"
+    },
     "type": "manga",
     "volumes": "21",
     "chapters": "187",

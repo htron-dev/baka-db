@@ -1,5 +1,9 @@
 {
     "title": "Ooeyama Kaden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18093.jpg",
+        "alt": "ooeyama-kaden"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "大江山花伝",

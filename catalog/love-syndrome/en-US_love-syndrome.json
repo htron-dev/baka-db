@@ -1,5 +1,9 @@
 {
     "title": "Love Syndrome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20475.jpg",
+        "alt": "love-syndrome"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

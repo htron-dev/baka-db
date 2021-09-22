@@ -1,5 +1,9 @@
 {
     "title": "Singles",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/29219.jpg",
+        "alt": "singles"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "SINGLES",

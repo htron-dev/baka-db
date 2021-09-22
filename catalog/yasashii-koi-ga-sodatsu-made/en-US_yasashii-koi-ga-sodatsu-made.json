@@ -1,5 +1,9 @@
 {
     "title": "Yasashii Koi ga Sodatsu made",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/187940.jpg",
+        "alt": "yasashii-koi-ga-sodatsu-made"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Shitsuji Tokidoki Kareshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182778.jpg",
+        "alt": "shitsuji-tokidoki-kareshi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Teiuka Koi ja ne?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/83895.jpg",
+        "alt": "teiuka-koi-ja-ne"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "50",

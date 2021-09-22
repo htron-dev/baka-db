@@ -1,5 +1,9 @@
 {
     "title": "Akuta to Nazuna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/245215.jpg",
+        "alt": "akuta-to-nazuna"
+    },
     "type": "manga",
     "original_name": "アクタとなずな",
     "start_date": "2020-09-04",

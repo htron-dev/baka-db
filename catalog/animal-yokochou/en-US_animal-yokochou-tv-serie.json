@@ -1,12 +1,16 @@
 {
     "title": "Animal Yokochou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/53409.jpg",
+        "alt": "animal-yokochou"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "アニマル横町",
     "start_date": "2005-10-04",
     "end_date": "2005-10-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Tondemo Nothing ~Doki☆Doki Animal Yokocho no Uta no Maki~\" by Ami with Iyo, Kenta, Issa",
+    "ending_song": "#1: \"Fantasista Girl\" by the Indigo",
     "rating": "G - All Ages",
     "tags": [
         "adventure",

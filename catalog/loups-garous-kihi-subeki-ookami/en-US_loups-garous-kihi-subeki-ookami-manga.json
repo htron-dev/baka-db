@@ -1,5 +1,9 @@
 {
     "title": "Loups=Garous: Kihi Subeki Ookami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/125421.jpg",
+        "alt": "loups-garous-kihi-subeki-ookami"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "30",

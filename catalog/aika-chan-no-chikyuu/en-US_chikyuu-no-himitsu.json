@@ -1,5 +1,9 @@
 {
     "title": "Chikyuu no Himitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1216/93502.jpg",
+        "alt": "chikyuu-no-himitsu"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "地球の秘密",

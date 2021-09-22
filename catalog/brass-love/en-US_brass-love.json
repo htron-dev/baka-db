@@ -1,5 +1,9 @@
 {
     "title": "Brass Love!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23296.jpg",
+        "alt": "brass-love"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ブラスラブ!!",

@@ -1,5 +1,9 @@
 {
     "title": "Akame ga Kill!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187665.jpg",
+        "alt": "akame-ga-kill"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "80",

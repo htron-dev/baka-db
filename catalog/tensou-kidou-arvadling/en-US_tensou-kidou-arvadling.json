@@ -1,5 +1,9 @@
 {
     "title": "Tensou Kidou Arvadling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194475.jpg",
+        "alt": "tensou-kidou-arvadling"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

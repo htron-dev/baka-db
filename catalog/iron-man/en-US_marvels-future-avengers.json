@@ -1,5 +1,9 @@
 {
     "title": "Marvel's Future Avengers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/191914.jpg",
+        "alt": "marvels-future-avengers"
+    },
     "type": "manga",
     "original_name": "マーベル フューチャー・アベンジャーズ",
     "start_date": "2017-02-28",

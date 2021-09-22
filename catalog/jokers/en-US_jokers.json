@@ -1,5 +1,9 @@
 {
     "title": "Jokers!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158956.jpg",
+        "alt": "jokers"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

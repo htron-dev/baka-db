@@ -1,5 +1,9 @@
 {
     "title": "※Imouto wo Kawaigaru no mo Taisetsu na Oshigoto desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198536.jpg",
+        "alt": "imouto-wo-kawaigaru-no-mo-taisetsu-na-oshigoto-desu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

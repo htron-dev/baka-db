@@ -1,12 +1,16 @@
 {
     "title": "Cyborg Kuro-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/17464.jpg",
+        "alt": "cyborg-kuro-chan"
+    },
     "type": "tv-serie",
     "episodes": "66",
     "original_name": "サイボーグクロちゃん",
     "start_date": "1999-10-02",
     "end_date": "1999-10-02",
     "opening_song": "\"Guru Guru Kuro-chan\" by Lady Q",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Positive Vibration\" by Sister-K (eps 1-61)",
     "rating": "PG - Children",
     "tags": [
         "comedy",

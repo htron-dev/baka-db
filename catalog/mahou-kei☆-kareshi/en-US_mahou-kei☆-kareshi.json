@@ -1,5 +1,9 @@
 {
     "title": "Mahou-kei☆Kareshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165306.jpg",
+        "alt": "mahou-kei☆-kareshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

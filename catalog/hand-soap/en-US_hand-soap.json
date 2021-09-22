@@ -1,5 +1,9 @@
 {
     "title": "Hand Soap",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/69841.jpg",
+        "alt": "hand-soap"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ハンドソープ",

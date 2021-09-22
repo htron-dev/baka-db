@@ -1,5 +1,9 @@
 {
     "title": "Cutlass - The Times of Boys",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18589.jpg",
+        "alt": "cutlass-the-times-of-boys"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

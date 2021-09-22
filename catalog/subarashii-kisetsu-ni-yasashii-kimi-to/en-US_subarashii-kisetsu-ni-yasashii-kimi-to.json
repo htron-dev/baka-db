@@ -1,5 +1,9 @@
 {
     "title": "Subarashii Kisetsu ni Yasashii Kimi to",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/244270.jpg",
+        "alt": "subarashii-kisetsu-ni-yasashii-kimi-to"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

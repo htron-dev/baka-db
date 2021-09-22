@@ -1,5 +1,9 @@
 {
     "title": "Kakai Ouken no Disvairocana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163603.jpg",
+        "alt": "kakai-ouken-no-disvairocana"
+    },
     "type": "light-novel",
     "volumes": "6",
     "chapters": "33",

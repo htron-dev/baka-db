@@ -1,5 +1,9 @@
 {
     "title": "Ai no Aranjuez",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32531.jpg",
+        "alt": "ai-no-aranjuez"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "愛のアランフェス",

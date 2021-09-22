@@ -1,5 +1,9 @@
 {
     "title": "Teisou Gyakuten Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/208256.jpg",
+        "alt": "teisou-gyakuten-sekai"
+    },
     "type": "manga",
     "original_name": "貞操逆転世界",
     "start_date": "2016-04-08",

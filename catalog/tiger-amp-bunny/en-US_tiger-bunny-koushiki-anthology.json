@@ -1,5 +1,9 @@
 {
     "title": "Tiger & Bunny Koushiki Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/108981.jpg",
+        "alt": "tiger-bunny-koushiki-anthology"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "86",

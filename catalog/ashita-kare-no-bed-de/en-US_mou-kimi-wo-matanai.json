@@ -1,5 +1,9 @@
 {
     "title": "Mou Kimi wo Matanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/77291.jpg",
+        "alt": "mou-kimi-wo-matanai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

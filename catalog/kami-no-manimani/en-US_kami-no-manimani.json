@@ -1,5 +1,9 @@
 {
     "title": "Kami no Manimani!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164390.jpg",
+        "alt": "kami-no-manimani"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "神のまにまに！",

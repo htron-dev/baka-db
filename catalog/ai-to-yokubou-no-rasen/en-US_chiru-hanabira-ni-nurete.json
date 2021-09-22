@@ -1,5 +1,9 @@
 {
     "title": "Chiru Hanabira ni Nurete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26820.jpg",
+        "alt": "chiru-hanabira-ni-nurete"
+    },
     "type": "manga",
     "volumes": "1",
     "tags": [

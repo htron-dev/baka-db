@@ -1,5 +1,9 @@
 {
     "title": "Elysion no Tobira",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/8640.jpg",
+        "alt": "elysion-no-tobira"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

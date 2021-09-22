@@ -1,5 +1,9 @@
 {
     "title": "1/6 Jump!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35470.jpg",
+        "alt": "1-6-jump"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

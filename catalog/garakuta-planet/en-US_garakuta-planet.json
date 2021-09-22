@@ -1,5 +1,9 @@
 {
     "title": "Garakuta Planet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/29029.jpg",
+        "alt": "garakuta-planet"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

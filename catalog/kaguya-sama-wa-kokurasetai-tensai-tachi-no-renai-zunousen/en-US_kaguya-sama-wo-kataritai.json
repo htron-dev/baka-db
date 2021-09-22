@@ -1,5 +1,9 @@
 {
     "title": "Kaguya-sama wo Kataritai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/217435.jpg",
+        "alt": "kaguya-sama-wo-kataritai"
+    },
     "type": "manga",
     "original_name": "かぐや様を語りたい",
     "start_date": "2018-07-26",

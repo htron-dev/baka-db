@@ -1,5 +1,9 @@
 {
     "title": "Ganbare! Tenkousei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/96731.jpg",
+        "alt": "ganbare-tenkousei"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "がんばれ！転校生",

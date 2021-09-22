@@ -1,5 +1,9 @@
 {
     "title": "Esper Mami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166466.jpg",
+        "alt": "esper-mami"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "エスパー魔美",

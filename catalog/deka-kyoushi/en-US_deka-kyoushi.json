@@ -1,5 +1,9 @@
 {
     "title": "Deka Kyoushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/22509.jpg",
+        "alt": "deka-kyoushi"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "デカ教師",

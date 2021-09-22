@@ -1,5 +1,9 @@
 {
     "title": "Mofukano Potpourri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227694.jpg",
+        "alt": "mofukano-potpourri"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Mariko Mangaka ni Narimasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/124469.jpg",
+        "alt": "mariko-mangaka-ni-narimasu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "マリコまんが家になります！",

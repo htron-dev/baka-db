@@ -1,5 +1,9 @@
 {
     "title": "Meshinuma.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1299/94348.jpg",
+        "alt": "meshinuma"
+    },
     "type": "ona",
     "episodes": "20",
     "original_name": "めしぬま。",

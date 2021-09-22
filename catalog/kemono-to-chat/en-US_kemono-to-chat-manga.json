@@ -1,5 +1,9 @@
 {
     "title": "Kemono to Chat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/39572.jpg",
+        "alt": "kemono-to-chat"
+    },
     "type": "manga",
     "original_name": "けものとチャット",
     "tags": [

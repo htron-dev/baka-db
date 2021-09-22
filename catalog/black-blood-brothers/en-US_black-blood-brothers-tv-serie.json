@@ -1,5 +1,9 @@
 {
     "title": "Black Blood Brothers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/13804.jpg",
+        "alt": "black-blood-brothers"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ブラック・ブラッド・ブラザーズ",

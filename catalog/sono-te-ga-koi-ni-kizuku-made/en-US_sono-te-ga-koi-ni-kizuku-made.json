@@ -1,5 +1,9 @@
 {
     "title": "Sono Te ga Koi ni Kizuku Made",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/68139.jpg",
+        "alt": "sono-te-ga-koi-ni-kizuku-made"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

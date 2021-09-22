@@ -1,5 +1,9 @@
 {
     "title": "Boku ga Otto ni Deau made",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/243238.jpg",
+        "alt": "boku-ga-otto-ni-deau-made"
+    },
     "type": "manga",
     "original_name": "僕が夫に出会うまで",
     "start_date": "2020-04-29",

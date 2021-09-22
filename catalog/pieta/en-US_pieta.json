@@ -1,5 +1,9 @@
 {
     "title": "Pietà",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/1513.jpg",
+        "alt": "pieta"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "6",

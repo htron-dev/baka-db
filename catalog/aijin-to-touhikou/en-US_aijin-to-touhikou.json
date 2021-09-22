@@ -1,5 +1,9 @@
 {
     "title": "Aijin to Touhikou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229484.jpg",
+        "alt": "aijin-to-touhikou"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "愛人と逃避行",

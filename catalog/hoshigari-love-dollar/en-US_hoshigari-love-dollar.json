@@ -1,5 +1,9 @@
 {
     "title": "Hoshigari Love Dollar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/1958.jpg",
+        "alt": "hoshigari-love-dollar"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Hinadori no Waltz",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/187418.jpg",
+        "alt": "hinadori-no-waltz"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "58",

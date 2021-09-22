@@ -1,5 +1,9 @@
 {
     "title": "Dragon Hunter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/9803.jpg",
+        "alt": "dragon-hunter"
+    },
     "type": "manhwa",
     "volumes": "39",
     "original_name": "용잡이",

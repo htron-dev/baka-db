@@ -1,5 +1,9 @@
 {
     "title": "Asa no Konai Ie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/240283.jpg",
+        "alt": "asa-no-konai-ie"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

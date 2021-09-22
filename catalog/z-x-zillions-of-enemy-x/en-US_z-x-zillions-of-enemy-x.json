@@ -1,5 +1,9 @@
 {
     "title": "Z/X: Zillions of Enemy X",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167434.jpg",
+        "alt": "z-x-zillions-of-enemy-x"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "47",

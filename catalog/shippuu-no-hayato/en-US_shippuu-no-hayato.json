@@ -1,5 +1,9 @@
 {
     "title": "Shippuu no Hayato",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178156.jpg",
+        "alt": "shippuu-no-hayato"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "63",

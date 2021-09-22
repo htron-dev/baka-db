@@ -1,5 +1,9 @@
 {
     "title": "Rean no Tsubasa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/81582.jpg",
+        "alt": "rean-no-tsubasa"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

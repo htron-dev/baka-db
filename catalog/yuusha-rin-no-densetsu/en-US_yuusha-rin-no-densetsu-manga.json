@@ -1,5 +1,9 @@
 {
     "title": "Yuusha Rin no Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/116245.jpg",
+        "alt": "yuusha-rin-no-densetsu"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "勇者リンの伝説",

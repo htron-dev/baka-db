@@ -1,5 +1,9 @@
 {
     "title": "No Problem Kazoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163993.jpg",
+        "alt": "no-problem-kazoku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

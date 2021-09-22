@@ -1,12 +1,16 @@
 {
     "title": "Steins;Gate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/73199.jpg",
+        "alt": "steins-gate"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "STEINS;GATE",
     "start_date": "2011-04-06",
     "end_date": "2011-04-06",
     "opening_song": "\"Hacking to the Gate\" by Kanako Itou",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Toki Tsukasadoru Juuni no Meiyaku (刻司ル十二ノ盟約)\" by Yui Sakakibara (eps 1-21)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

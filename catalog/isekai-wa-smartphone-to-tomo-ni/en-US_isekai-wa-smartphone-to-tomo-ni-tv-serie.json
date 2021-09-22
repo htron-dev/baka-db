@@ -1,12 +1,16 @@
 {
     "title": "Isekai wa Smartphone to Tomo ni.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/86794.jpg",
+        "alt": "isekai-wa-smartphone-to-tomo-ni"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "異世界はスマートフォンとともに。",
     "start_date": "2017-07-11",
     "end_date": "2017-07-11",
     "opening_song": "\"Another World\" by AOP",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Junjou Emotional (純情エモーショナル)\" by Elze Silhoueska (Maaya Uchida) (eps 1, 5)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

@@ -1,5 +1,9 @@
 {
     "title": "Dirty Pair Flash",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32018.jpg",
+        "alt": "dirty-pair-flash"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

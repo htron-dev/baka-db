@@ -1,12 +1,16 @@
 {
     "title": "The iDOLM@STER Cinderella Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/70733.jpg",
+        "alt": "the-i-dolm-ster-cinderella-girls"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "アイドルマスター シンデレラガールズ",
     "start_date": "2015-01-10",
     "end_date": "2015-01-10",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Onegai! Cinderella (お願い！シンデレラ)\" by Kaede Takagaki & Mika Jougasaki & Miho Kohinata & Airi Totoki & Mizuki Kawashima & Akane Hino & Sachiko Koshimizu & Mayu Sakuma & Koume Shirasaka",
+    "ending_song": "#1: \"Message (メッセージ)\" by Uzuki Shimamura & Rin Shibuya & Mio Honda (Ayaka Ohashi & Ayaka Fukuhara & Sayuri Hara) (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

@@ -1,12 +1,16 @@
 {
     "title": "Dirty Pair Flash",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1405/91068.jpg",
+        "alt": "dirty-pair-flash"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "ダーティペア FLASH",
     "start_date": "1994-01-21",
     "end_date": "1994-01-21",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kagirinai Answer (限りない ANSWER)\" by Mana (eps 1-6)",
+    "ending_song": "#1: \"Dai 2 Shou (第 2 章)\" by Mana (eps 1-6)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Blassreiter: Navi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/23361.jpg",
+        "alt": "blassreiter-navi"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ブラスレイター・ナビ",

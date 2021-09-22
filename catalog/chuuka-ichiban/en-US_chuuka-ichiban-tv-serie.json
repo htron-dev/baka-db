@@ -1,12 +1,16 @@
 {
     "title": "Chuuka Ichiban!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/75283.jpg",
+        "alt": "chuuka-ichiban"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "中華一番",
     "start_date": "1997-04-27",
     "end_date": "1997-04-27",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Sora (空)\" by Maki Ooguro (eps 1-18)",
+    "ending_song": "#1: \"Aoi Sora ni Deaeta (青い空に出逢えた)\" by Arisa Tsujio (eps 1-20)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

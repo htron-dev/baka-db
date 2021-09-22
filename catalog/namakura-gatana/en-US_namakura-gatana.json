@@ -1,5 +1,9 @@
 {
     "title": "Namakura Gatana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/15280.jpg",
+        "alt": "namakura-gatana"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "なまくら刀（塙凹内名刀之巻）",

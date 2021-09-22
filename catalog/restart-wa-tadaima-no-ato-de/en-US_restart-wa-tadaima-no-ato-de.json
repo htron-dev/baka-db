@@ -1,5 +1,9 @@
 {
     "title": "Restart wa Tadaima no Ato de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/232579.jpg",
+        "alt": "restart-wa-tadaima-no-ato-de"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

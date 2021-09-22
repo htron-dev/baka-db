@@ -1,5 +1,9 @@
 {
     "title": "Tsuri Chichi Nagisa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/127175.jpg",
+        "alt": "tsuri-chichi-nagisa"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "36",

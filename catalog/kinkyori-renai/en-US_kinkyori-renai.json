@@ -1,5 +1,9 @@
 {
     "title": "Kinkyori Renai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/73077.jpg",
+        "alt": "kinkyori-renai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

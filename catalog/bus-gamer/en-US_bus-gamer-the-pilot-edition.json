@@ -1,5 +1,9 @@
 {
     "title": "Bus Gamer: The Pilot Edition",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160474.jpg",
+        "alt": "bus-gamer-the-pilot-edition"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

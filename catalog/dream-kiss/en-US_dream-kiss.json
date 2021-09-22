@@ -1,5 +1,9 @@
 {
     "title": "Dream Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171467.jpg",
+        "alt": "dream-kiss"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

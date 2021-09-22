@@ -1,5 +1,9 @@
 {
     "title": "Rozen Maiden (2013)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/52079.jpg",
+        "alt": "rozen-maiden-2013"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ローゼンメイデン (2013)",

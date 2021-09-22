@@ -1,5 +1,9 @@
 {
     "title": "PuiPui!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/119515.jpg",
+        "alt": "pui-pui"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Oban Star-Racers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/3702.jpg",
+        "alt": "oban-star-racers"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "オーバン・スターレーサーズ",

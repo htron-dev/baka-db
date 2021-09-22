@@ -1,5 +1,9 @@
 {
     "title": "Me de Shireru Yoru no Junjou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/82978.jpg",
+        "alt": "me-de-shireru-yoru-no-junjou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

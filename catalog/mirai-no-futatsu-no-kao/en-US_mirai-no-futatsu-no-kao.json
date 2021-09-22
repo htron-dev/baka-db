@@ -1,5 +1,9 @@
 {
     "title": "Mirai no Futatsu no Kao",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20670.jpg",
+        "alt": "mirai-no-futatsu-no-kao"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "25",

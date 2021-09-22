@@ -1,5 +1,9 @@
 {
     "title": "Chiro-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/9965.jpg",
+        "alt": "chiro-chan"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "ちろちゃん",

@@ -1,5 +1,9 @@
 {
     "title": "Ohanashi no Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1771/98874.jpg",
+        "alt": "ohanashi-no-hana"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "おはなしの花",

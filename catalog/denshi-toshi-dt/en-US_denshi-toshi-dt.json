@@ -1,5 +1,9 @@
 {
     "title": "Denshi Toshi DT",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162407.jpg",
+        "alt": "denshi-toshi-dt"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "20",

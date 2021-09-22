@@ -1,5 +1,9 @@
 {
     "title": "Otokujuku Gaiden: Kurenai!! Onnajuku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165441.jpg",
+        "alt": "otokujuku-gaiden-kurenai-onnajuku"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "27",

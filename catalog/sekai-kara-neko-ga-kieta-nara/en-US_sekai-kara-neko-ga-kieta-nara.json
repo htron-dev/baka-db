@@ -1,5 +1,9 @@
 {
     "title": "Sekai kara Neko ga Kieta nara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173808.jpg",
+        "alt": "sekai-kara-neko-ga-kieta-nara"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "19",

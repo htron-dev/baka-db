@@ -1,5 +1,9 @@
 {
     "title": "Kikansha Sensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/59801.jpg",
+        "alt": "kikansha-sensei"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "機関車先生",

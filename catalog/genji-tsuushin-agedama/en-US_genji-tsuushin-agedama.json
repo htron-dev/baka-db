@@ -1,5 +1,9 @@
 {
     "title": "Genji Tsuushin Agedama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/21064.jpg",
+        "alt": "genji-tsuushin-agedama"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "ゲンジ通信あげだま",

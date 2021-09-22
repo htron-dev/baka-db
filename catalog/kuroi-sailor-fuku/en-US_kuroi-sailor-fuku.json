@@ -1,5 +1,9 @@
 {
     "title": "Kuroi Sailor Fuku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223329.jpg",
+        "alt": "kuroi-sailor-fuku"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

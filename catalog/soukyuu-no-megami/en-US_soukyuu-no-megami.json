@@ -1,5 +1,9 @@
 {
     "title": "Soukyuu no Megami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162317.jpg",
+        "alt": "soukyuu-no-megami"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "10",

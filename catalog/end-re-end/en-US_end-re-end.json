@@ -1,5 +1,9 @@
 {
     "title": "End Re End",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160138.jpg",
+        "alt": "end-re-end"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "13",

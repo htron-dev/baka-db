@@ -1,5 +1,9 @@
 {
     "title": "Guin Saga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34235.jpg",
+        "alt": "guin-saga"
+    },
     "type": "light-novel",
     "original_name": "グイン・サーガ",
     "start_date": "1979-09-30",

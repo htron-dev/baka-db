@@ -1,5 +1,9 @@
 {
     "title": "Shin Nozokiya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179528.jpg",
+        "alt": "shin-nozokiya"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "110",

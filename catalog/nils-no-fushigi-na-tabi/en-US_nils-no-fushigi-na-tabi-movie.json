@@ -1,5 +1,9 @@
 {
     "title": "Nils no Fushigi na Tabi (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/69741.jpg",
+        "alt": "nils-no-fushigi-na-tabi-movie"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ニルスのふしぎな旅",
@@ -23,7 +27,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/The_Wonderful_Adventures_of_Nils_(anime"
+            "link": "http://en.wikipedia.org/wiki/The_Wonderful_Adventures_of_Nils_%28anime%29"
         }
     ]
 }

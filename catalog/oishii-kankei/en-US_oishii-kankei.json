@@ -1,5 +1,9 @@
 {
     "title": "Oishii Kankei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163728.jpg",
+        "alt": "oishii-kankei"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "71",

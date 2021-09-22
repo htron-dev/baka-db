@@ -1,5 +1,9 @@
 {
     "title": "Wooser no Sono Higurashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/55353.jpg",
+        "alt": "wooser-no-sono-higurashi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "うーさーのその日暮らし",

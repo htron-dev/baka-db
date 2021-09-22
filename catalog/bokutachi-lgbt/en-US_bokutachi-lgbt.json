@@ -1,5 +1,9 @@
 {
     "title": "Bokutachi LGBT",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247268.jpg",
+        "alt": "bokutachi-lgbt"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

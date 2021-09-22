@@ -1,5 +1,9 @@
 {
     "title": "Zephyr",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/68127.jpg",
+        "alt": "zephyr"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ZEPHYR [ゼファー]",

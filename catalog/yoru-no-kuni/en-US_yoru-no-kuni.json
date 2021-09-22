@@ -1,9 +1,13 @@
 {
     "title": "Yoru no Kuni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1674/114425.jpg",
+        "alt": "yoru-no-kuni"
+    },
     "type": "ona",
     "original_name": "夜の国",
     "start_date": "2021-04-16",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Trill (トリル)\" by Aimer",
     "rating": "G - All Ages",
     "tags": [
         "fantasy"

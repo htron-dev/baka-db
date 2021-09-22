@@ -1,5 +1,9 @@
 {
     "title": "Tonari no Banken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/163272.jpg",
+        "alt": "tonari-no-banken"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

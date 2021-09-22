@@ -1,5 +1,9 @@
 {
     "title": "Obaachan to Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201804.jpg",
+        "alt": "obaachan-to-game"
+    },
     "type": "manga",
     "original_name": "おばあちゃんとゲーム",
     "start_date": "2015-12-25",

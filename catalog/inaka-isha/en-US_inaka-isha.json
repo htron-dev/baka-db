@@ -1,5 +1,9 @@
 {
     "title": "Inaka Isha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/5344.jpg",
+        "alt": "inaka-isha"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "カフカ 田舎医者",
@@ -31,7 +35,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/A_Country_Doctor_(film"
+            "link": "http://en.wikipedia.org/wiki/A_Country_Doctor_%28film%29"
         }
     ]
 }

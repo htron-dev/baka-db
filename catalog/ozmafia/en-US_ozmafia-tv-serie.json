@@ -1,11 +1,15 @@
 {
     "title": "Ozmafia!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/80549.jpg",
+        "alt": "ozmafia"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "オズマフィア",
     "start_date": "2016-07-07",
     "end_date": "2016-07-07",
-    "ending_song": "#1",
+    "ending_song": "#1: \"I love you more\" by Article One (eps 1, 4, 7, 8, 10)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "harem",

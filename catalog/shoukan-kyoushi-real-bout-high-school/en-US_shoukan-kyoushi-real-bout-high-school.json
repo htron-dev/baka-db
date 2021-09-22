@@ -1,5 +1,9 @@
 {
     "title": "Shoukan Kyoushi Real Bout High School",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166928.jpg",
+        "alt": "shoukan-kyoushi-real-bout-high-school"
+    },
     "type": "light-novel",
     "volumes": "19",
     "chapters": "90",

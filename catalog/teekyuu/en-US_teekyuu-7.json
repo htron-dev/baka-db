@@ -1,5 +1,9 @@
 {
     "title": "Teekyuu 7",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/77830.jpg",
+        "alt": "teekyuu-7"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "てーきゅう 7 期",

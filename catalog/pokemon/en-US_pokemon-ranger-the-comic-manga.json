@@ -1,5 +1,9 @@
 {
     "title": "Pokémon Ranger: the Comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/4809.jpg",
+        "alt": "pokemon-ranger-the-comic"
+    },
     "type": "manga",
     "chapters": "5",
     "original_name": "W ミッションストーリ ポケモンレンジャー the Comic",

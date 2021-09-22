@@ -1,5 +1,9 @@
 {
     "title": "Commercial War",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/73824.jpg",
+        "alt": "commercial-war"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "Commercial War",

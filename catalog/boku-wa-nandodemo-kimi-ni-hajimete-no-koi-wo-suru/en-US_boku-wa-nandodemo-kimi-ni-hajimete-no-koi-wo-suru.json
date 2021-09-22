@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Nandodemo, Kimi ni Hajimete no Koi wo Suru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200984.jpg",
+        "alt": "boku-wa-nandodemo-kimi-ni-hajimete-no-koi-wo-suru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

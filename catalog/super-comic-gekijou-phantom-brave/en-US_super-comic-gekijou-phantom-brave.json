@@ -1,5 +1,9 @@
 {
     "title": "Super Comic Gekijou: Phantom Brave",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151603.jpg",
+        "alt": "super-comic-gekijou-phantom-brave"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "スーパーコミック劇場 ファントム・ブレイブ",

@@ -1,5 +1,9 @@
 {
     "title": "DT Eightron",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1935/94098.jpg",
+        "alt": "dt-eightron"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ＤＴエイトロン",

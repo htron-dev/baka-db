@@ -1,12 +1,16 @@
 {
     "title": "Chousoku Henkei Gyrozetter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/41937.jpg",
+        "alt": "chousoku-henkei-gyrozetter"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "超速変形ジャイロゼッター",
     "start_date": "2012-10-02",
     "end_date": "2012-10-02",
     "opening_song": "\"Let's Go\" by Masahiko Kondo",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Strobe (ストロボ)\" by TEMPURA KIDZ (eps 1-17)",
     "rating": "G - All Ages",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Poten Hit Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228118.jpg",
+        "alt": "poten-hit-girl"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "23",

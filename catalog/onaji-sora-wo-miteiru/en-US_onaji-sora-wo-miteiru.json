@@ -1,5 +1,9 @@
 {
     "title": "Onaji Sora wo Miteiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159640.jpg",
+        "alt": "onaji-sora-wo-miteiru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

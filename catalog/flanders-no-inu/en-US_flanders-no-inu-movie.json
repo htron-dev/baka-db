@@ -1,5 +1,9 @@
 {
     "title": "Flanders no Inu (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/75599.jpg",
+        "alt": "flanders-no-inu-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "フランダースの犬 (1997)",

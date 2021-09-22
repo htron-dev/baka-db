@@ -1,5 +1,9 @@
 {
     "title": "Mamiana Shijuusoudan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171603.jpg",
+        "alt": "mamiana-shijuusoudan"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "まみあな四重奏団",

@@ -1,5 +1,9 @@
 {
     "title": "Koibito Ijou♡Yome Miman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/231078.jpg",
+        "alt": "koibito-ijou♡-yome-miman"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "36",

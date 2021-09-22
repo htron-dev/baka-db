@@ -1,5 +1,9 @@
 {
     "title": "Double Fake: Under the Gundam",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/229937.jpg",
+        "alt": "double-fake-under-the-gundam"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

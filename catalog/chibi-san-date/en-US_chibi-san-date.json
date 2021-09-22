@@ -1,5 +1,9 @@
 {
     "title": "Chibi-san Date",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26023.jpg",
+        "alt": "chibi-san-date"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

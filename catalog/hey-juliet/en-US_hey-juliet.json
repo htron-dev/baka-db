@@ -1,5 +1,9 @@
 {
     "title": "Hey Juliet!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36097.jpg",
+        "alt": "hey-juliet"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

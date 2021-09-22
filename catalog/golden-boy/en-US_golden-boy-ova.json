@@ -1,5 +1,9 @@
 {
     "title": "Golden Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/62867.jpg",
+        "alt": "golden-boy"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "ゴールデンボーイ",
@@ -29,7 +33,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Golden_Boy_(manga"
+            "link": "http://en.wikipedia.org/wiki/Golden_Boy_%28manga%29#OVA"
         }
     ]
 }

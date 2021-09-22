@@ -1,5 +1,9 @@
 {
     "title": "Rune Factory 4",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235181.jpg",
+        "alt": "rune-factory-4"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

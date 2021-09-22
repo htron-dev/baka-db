@@ -1,5 +1,9 @@
 {
     "title": "Akubana Messiah",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/131473.jpg",
+        "alt": "akubana-messiah"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

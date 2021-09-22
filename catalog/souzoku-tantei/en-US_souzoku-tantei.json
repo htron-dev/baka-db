@@ -1,5 +1,9 @@
 {
     "title": "Souzoku Tantei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247762.jpg",
+        "alt": "souzoku-tantei"
+    },
     "type": "manga",
     "original_name": "相続探偵",
     "start_date": "2020-12-22",

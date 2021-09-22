@@ -1,5 +1,9 @@
 {
     "title": "Arc the Lad II: Honoo no Elk",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/62843.jpg",
+        "alt": "arc-the-lad-ii-honoo-no-elk"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "53",

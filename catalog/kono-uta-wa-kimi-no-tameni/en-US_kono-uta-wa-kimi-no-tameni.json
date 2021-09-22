@@ -1,5 +1,9 @@
 {
     "title": "Kono Uta wa Kimi no Tameni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/34490.jpg",
+        "alt": "kono-uta-wa-kimi-no-tameni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "24-jikan Eigyouchuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/70127.jpg",
+        "alt": "24-jikan-eigyouchuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

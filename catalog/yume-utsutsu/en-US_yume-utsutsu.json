@@ -1,5 +1,9 @@
 {
     "title": "Yume Utsutsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/72283.jpg",
+        "alt": "yume-utsutsu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "夢現",

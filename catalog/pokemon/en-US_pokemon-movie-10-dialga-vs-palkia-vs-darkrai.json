@@ -1,11 +1,15 @@
 {
     "title": "Pokemon Movie 10: Dialga vs. Palkia vs. Darkrai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1119/94419.jpg",
+        "alt": "pokemon-movie-10-dialga-vs-palkia-vs-darkrai"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ポケットモンスター ダイヤモンド＆パール ディアルガ VS パルキア VS ダークライ",
     "start_date": "2007-07-15",
     "opening_song": "\"Together 2007 (Eiga Version)\" by Fumie Akiyoshi",
-    "ending_song": "\"Be with You",
+    "ending_song": "\"Be with You: Itsumo Soba ni (Always by your side)\" by Sarah Brightman",
     "rating": "PG - Children",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Manbou-chan to Lion-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152044.jpg",
+        "alt": "manbou-chan-to-lion-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

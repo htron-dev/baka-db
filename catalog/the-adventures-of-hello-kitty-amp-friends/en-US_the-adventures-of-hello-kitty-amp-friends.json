@@ -1,5 +1,9 @@
 {
     "title": "The Adventures of Hello Kitty &amp; Friends",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/62053.jpg",
+        "alt": "the-adventures-of-hello-kitty-amp-friends"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "Hello Kitty 愛漫遊",

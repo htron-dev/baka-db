@@ -1,5 +1,9 @@
 {
     "title": "Yume wo Miteita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153397.jpg",
+        "alt": "yume-wo-miteita"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "夢をみていた",

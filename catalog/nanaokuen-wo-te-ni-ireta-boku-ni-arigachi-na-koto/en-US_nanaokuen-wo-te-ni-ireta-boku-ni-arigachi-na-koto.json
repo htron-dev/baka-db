@@ -1,5 +1,9 @@
 {
     "title": "Nanaokuen wo Te ni Ireta Boku ni Arigachi na Koto.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/220995.jpg",
+        "alt": "nanaokuen-wo-te-ni-ireta-boku-ni-arigachi-na-koto"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

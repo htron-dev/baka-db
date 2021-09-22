@@ -1,5 +1,9 @@
 {
     "title": "Nibiiro Musica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150568.jpg",
+        "alt": "nibiiro-musica"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

@@ -1,5 +1,9 @@
 {
     "title": "Toribako House",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215097.jpg",
+        "alt": "toribako-house"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

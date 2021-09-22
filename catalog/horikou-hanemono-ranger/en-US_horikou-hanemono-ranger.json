@@ -1,5 +1,9 @@
 {
     "title": "Horikou Hanemono Ranger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/28774.jpg",
+        "alt": "horikou-hanemono-ranger"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

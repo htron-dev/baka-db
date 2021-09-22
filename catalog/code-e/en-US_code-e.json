@@ -1,5 +1,9 @@
 {
     "title": "Code-E",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/57435.jpg",
+        "alt": "code-e"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "CODE-E",

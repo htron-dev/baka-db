@@ -1,5 +1,9 @@
 {
     "title": "Jungle Taitei Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/54139.jpg",
+        "alt": "jungle-taitei-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ジャングル大帝 劇場版",

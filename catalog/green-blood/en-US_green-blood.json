@@ -1,5 +1,9 @@
 {
     "title": "Green Blood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/65303.jpg",
+        "alt": "green-blood"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "49",

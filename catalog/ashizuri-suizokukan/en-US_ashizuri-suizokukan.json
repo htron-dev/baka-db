@@ -1,5 +1,9 @@
 {
     "title": "Ashizuri Suizokukan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/116593.jpg",
+        "alt": "ashizuri-suizokukan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

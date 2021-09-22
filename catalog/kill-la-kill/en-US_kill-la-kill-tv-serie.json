@@ -1,12 +1,16 @@
 {
     "title": "Kill la Kill",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1464/111943.jpg",
+        "alt": "kill-la-kill"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "キルラキル",
     "start_date": "2013-10-04",
     "end_date": "2013-10-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Sirius (シリウス)\" by Eir Aoi (eps 2-14)",
+    "ending_song": "#1: \"Sirius (シリウス)\" by Eir Aoi (eps 1, 15)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

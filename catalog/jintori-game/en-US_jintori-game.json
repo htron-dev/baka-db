@@ -1,5 +1,9 @@
 {
     "title": "Jintori Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/110807.jpg",
+        "alt": "jintori-game"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "43",

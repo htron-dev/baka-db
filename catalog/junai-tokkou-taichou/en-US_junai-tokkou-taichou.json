@@ -1,5 +1,9 @@
 {
     "title": "Junai Tokkou Taichou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204996.jpg",
+        "alt": "junai-tokkou-taichou"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "53",

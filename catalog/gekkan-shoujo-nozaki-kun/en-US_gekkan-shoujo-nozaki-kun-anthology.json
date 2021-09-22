@@ -1,5 +1,9 @@
 {
     "title": "Gekkan Shoujo Nozaki-kun Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/138923.jpg",
+        "alt": "gekkan-shoujo-nozaki-kun-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "16",

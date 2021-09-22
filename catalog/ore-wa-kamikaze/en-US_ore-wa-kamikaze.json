@@ -1,5 +1,9 @@
 {
     "title": "Ore wa Kamikaze",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/187826.jpg",
+        "alt": "ore-wa-kamikaze"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Teens Blues",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/125537.jpg",
+        "alt": "teens-blues"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

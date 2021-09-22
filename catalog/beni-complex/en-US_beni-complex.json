@@ -1,5 +1,9 @@
 {
     "title": "Beni Complex",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/123629.jpg",
+        "alt": "beni-complex"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "ベニ・コンプレックス",

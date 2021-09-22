@@ -1,5 +1,9 @@
 {
     "title": "Konna Otoko ni Dare ga Shita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2514.jpg",
+        "alt": "konna-otoko-ni-dare-ga-shita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

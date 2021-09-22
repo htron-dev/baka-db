@@ -1,5 +1,9 @@
 {
     "title": "Zeus no Tane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/114005.jpg",
+        "alt": "zeus-no-tane"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ゼウスの種",

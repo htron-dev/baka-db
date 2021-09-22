@@ -1,12 +1,16 @@
 {
     "title": "Tamayura: Hitotose",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/45368.jpg",
+        "alt": "tamayura-hitotose"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "たまゆら～ hitotose ～",
     "start_date": "2011-10-03",
     "end_date": "2011-10-03",
     "opening_song": "\"Okaerinasai (おかえりなさい)\" by Maaya Sakamoto",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kamisama no Itazura (神様のいたずら)\" by Megumi Nakajima (eps 1, 3-6, 8-10)",
     "rating": "G - All Ages",
     "tags": [
         "slice-of-life",

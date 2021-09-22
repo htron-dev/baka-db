@@ -1,5 +1,9 @@
 {
     "title": "Unmei no Tori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/109883.jpg",
+        "alt": "unmei-no-tori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

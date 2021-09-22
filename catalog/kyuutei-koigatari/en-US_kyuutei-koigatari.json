@@ -1,5 +1,9 @@
 {
     "title": "Kyuutei Koigatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152791.jpg",
+        "alt": "kyuutei-koigatari"
+    },
     "type": "light-novel",
     "original_name": "宮廷恋語り",
     "start_date": "2014-11-29",

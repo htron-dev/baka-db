@@ -1,5 +1,9 @@
 {
     "title": "Koi ni Naranai Wake ga Nai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196026.jpg",
+        "alt": "koi-ni-naranai-wake-ga-nai"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

@@ -1,5 +1,9 @@
 {
     "title": "Koi wo Owari ni Shitakereba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79703.jpg",
+        "alt": "koi-wo-owari-ni-shitakereba"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

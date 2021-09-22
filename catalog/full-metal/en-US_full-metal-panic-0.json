@@ -1,5 +1,9 @@
 {
     "title": "Full Metal Panic! 0",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/123467.jpg",
+        "alt": "full-metal-panic-0"
+    },
     "type": "manga",
     "original_name": "フルメタル・パニック！ 0 ‐ZERO‐",
     "start_date": "2013-09-19",

@@ -1,5 +1,9 @@
 {
     "title": "Otoko no Ko Tsuma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203527.jpg",
+        "alt": "otoko-no-ko-tsuma"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "44",

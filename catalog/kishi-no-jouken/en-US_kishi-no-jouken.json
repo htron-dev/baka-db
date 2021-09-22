@@ -1,5 +1,9 @@
 {
     "title": "Kishi no Jouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79493.jpg",
+        "alt": "kishi-no-jouken"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

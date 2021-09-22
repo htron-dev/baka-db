@@ -1,5 +1,9 @@
 {
     "title": "Kano Hito ya Tsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/134825.jpg",
+        "alt": "kano-hito-ya-tsuki"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

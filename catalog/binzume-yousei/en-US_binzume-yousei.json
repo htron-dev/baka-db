@@ -1,12 +1,16 @@
 {
     "title": "Binzume Yousei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/16917.jpg",
+        "alt": "binzume-yousei"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "瓶詰妖精",
     "start_date": "2003-10-03",
     "end_date": "2003-10-03",
     "opening_song": "\"Oshiete Sensei-san (教えてせんせいさん )\" by Bottle Fairy",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Haru-uta ~Kururu~\" by Kururu/Nana Mizuki (eps 01-03)",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

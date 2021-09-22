@@ -1,5 +1,9 @@
 {
     "title": "Ai no DNA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2556.jpg",
+        "alt": "ai-no-dna"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,12 +1,16 @@
 {
     "title": "Fushigi Yuugi: Eikouden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/67701.jpg",
+        "alt": "fushigi-yuugi-eikouden"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "ふしぎ遊戯 -永光伝",
     "start_date": "2001-12-21",
     "end_date": "2001-12-21",
     "opening_song": "\"Chijou no Seiza (地上の星座)\" by Youko Ueno",
-    "ending_song": "\"Yes",
+    "ending_song": "\"Yes: Koko ni Eien ga Aru (YES-ここに永遠がある-)\" by Takehito Koyasu",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

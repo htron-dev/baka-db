@@ -1,5 +1,9 @@
 {
     "title": "Hoshi no Koimonogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222723.jpg",
+        "alt": "hoshi-no-koimonogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

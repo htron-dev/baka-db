@@ -1,5 +1,9 @@
 {
     "title": "Omakase! Miracle Cat-dan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/72847.jpg",
+        "alt": "omakase-miracle-cat-dan"
+    },
     "type": "tv-serie",
     "episodes": "32",
     "original_name": "おまかせ! みらくるキャット団",

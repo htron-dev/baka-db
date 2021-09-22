@@ -1,5 +1,9 @@
 {
     "title": "Miniyon Fighter V",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160565.jpg",
+        "alt": "miniyon-fighter-v"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "64",

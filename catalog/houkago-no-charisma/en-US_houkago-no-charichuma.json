@@ -1,5 +1,9 @@
 {
     "title": "Houkago no Charichuma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175522.jpg",
+        "alt": "houkago-no-charichuma"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Violence &amp; Peace",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/198950.jpg",
+        "alt": "violence-amp-peace"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

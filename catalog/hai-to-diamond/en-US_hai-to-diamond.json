@@ -1,5 +1,9 @@
 {
     "title": "Hai to Diamond",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186940.jpg",
+        "alt": "hai-to-diamond"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

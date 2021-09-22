@@ -1,5 +1,9 @@
 {
     "title": "Joshi BL",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183275.jpg",
+        "alt": "joshi-bl"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "L Change the WorLd",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11590.jpg",
+        "alt": "l-change-the-wor-ld"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "38",

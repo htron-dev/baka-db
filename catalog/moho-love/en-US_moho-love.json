@@ -1,5 +1,9 @@
 {
     "title": "Moho Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31360.jpg",
+        "alt": "moho-love"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

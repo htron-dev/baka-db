@@ -1,5 +1,9 @@
 {
     "title": "Osananajimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35654.jpg",
+        "alt": "osananajimi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

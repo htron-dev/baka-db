@@ -1,12 +1,16 @@
 {
     "title": "Cutey Honey F",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/16802.jpg",
+        "alt": "cutey-honey-f"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "キューティーハニーＦ",
     "start_date": "1997-02-15",
     "end_date": "1997-02-15",
     "opening_song": "\"Cutey Honey\" by Salia",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Nakechauhodo Setsunaikedo\" by Mayo Okamoto (eps 1-38)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

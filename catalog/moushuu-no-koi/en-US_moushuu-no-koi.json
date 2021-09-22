@@ -1,5 +1,9 @@
 {
     "title": "Moushuu no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172224.jpg",
+        "alt": "moushuu-no-koi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

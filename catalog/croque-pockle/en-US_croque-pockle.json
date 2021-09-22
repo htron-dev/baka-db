@@ -1,5 +1,9 @@
 {
     "title": "Croque-Pockle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/90961.jpg",
+        "alt": "croque-pockle"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ころんでポックル",

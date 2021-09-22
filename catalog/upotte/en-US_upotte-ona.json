@@ -1,5 +1,9 @@
 {
     "title": "Upotte!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/35121.jpg",
+        "alt": "upotte"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "うぽって!!",

@@ -1,12 +1,16 @@
 {
     "title": "Yozakura Quartet: Hoshi no Umi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/27779.jpg",
+        "alt": "yozakura-quartet-hoshi-no-umi"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "夜桜四重奏 ～ホシノウミ～",
     "start_date": "2010-10-08",
     "end_date": "2010-10-08",
     "opening_song": "\"Kid, I like Quartet\" by UNISON SQUARE GARDEN",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hello Hello\" by SUEMITSU & THE SUEMITH (eps 1-2)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

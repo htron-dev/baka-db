@@ -1,5 +1,9 @@
 {
     "title": "Fate/stay night: Comic Battle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/113145.jpg",
+        "alt": "fate-stay-night-comic-battle"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

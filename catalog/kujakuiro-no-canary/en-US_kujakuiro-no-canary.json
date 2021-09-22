@@ -1,5 +1,9 @@
 {
     "title": "Kujakuiro no Canary",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/74103.jpg",
+        "alt": "kujakuiro-no-canary"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "孔雀色のカナリア",

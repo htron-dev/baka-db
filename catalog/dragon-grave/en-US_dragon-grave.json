@@ -1,5 +1,9 @@
 {
     "title": "Dragon Grave",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175834.jpg",
+        "alt": "dragon-grave"
+    },
     "type": "light-novel",
     "original_name": "ドラゴン・グレイヴ",
     "start_date": "2016-04-28",

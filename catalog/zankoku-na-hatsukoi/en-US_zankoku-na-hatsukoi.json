@@ -1,5 +1,9 @@
 {
     "title": "Zankoku na Hatsukoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227299.jpg",
+        "alt": "zankoku-na-hatsukoi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "残酷な初恋",

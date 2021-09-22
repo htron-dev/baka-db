@@ -1,5 +1,9 @@
 {
     "title": "Acchi Kocchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188838.jpg",
+        "alt": "acchi-kocchi"
+    },
     "type": "manga",
     "original_name": "あっちこっち",
     "start_date": "2006-09-09",

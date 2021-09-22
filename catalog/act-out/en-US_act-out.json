@@ -1,5 +1,9 @@
 {
     "title": "Act Out",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239763.jpg",
+        "alt": "act-out"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

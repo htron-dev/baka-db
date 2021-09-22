@@ -1,5 +1,9 @@
 {
     "title": "Lastpia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234299.jpg",
+        "alt": "lastpia"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ラストピア",

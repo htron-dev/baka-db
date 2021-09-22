@@ -1,5 +1,9 @@
 {
     "title": "Watanuki-san ni wa Boku ga Tarinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151711.jpg",
+        "alt": "watanuki-san-ni-wa-boku-ga-tarinai"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "39",

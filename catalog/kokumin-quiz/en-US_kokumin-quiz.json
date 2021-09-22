@@ -1,5 +1,9 @@
 {
     "title": "Kokumin Quiz",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171260.jpg",
+        "alt": "kokumin-quiz"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "44",

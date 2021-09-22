@@ -1,5 +1,9 @@
 {
     "title": "Genshijin Kareshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202323.jpg",
+        "alt": "genshijin-kareshi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "Ayakashi no Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/197348.jpg",
+        "alt": "ayakashi-no-hana"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

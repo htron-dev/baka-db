@@ -1,5 +1,9 @@
 {
     "title": "Dongguo Xiansheng",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1839/113996.jpg",
+        "alt": "dongguo-xiansheng"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "東郭先生 (1955)",

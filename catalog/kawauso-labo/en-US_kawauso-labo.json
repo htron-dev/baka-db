@@ -1,5 +1,9 @@
 {
     "title": "Kawauso Labo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1458/98252.jpg",
+        "alt": "kawauso-labo"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "カワウソラボ",

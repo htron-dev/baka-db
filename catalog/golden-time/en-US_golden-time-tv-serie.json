@@ -1,12 +1,16 @@
 {
     "title": "Golden Time",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/52091.jpg",
+        "alt": "golden-time"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ゴールデンタイム",
     "start_date": "2013-10-04",
     "end_date": "2013-10-04",
     "opening_song": "#1 \"Golden Time\" by Yui Horie (eps 1-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Sweet & Sweet CHERRY\" by Yui Horie (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Golden_Time_(novel_series"
+            "link": "http://en.wikipedia.org/wiki/Golden_Time_%28novel_series%29"
         }
     ]
 }

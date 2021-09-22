@@ -1,5 +1,9 @@
 {
     "title": "From Osaka with Cheer!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/66287.jpg",
+        "alt": "from-osaka-with-cheer"
+    },
     "type": "ona",
     "episodes": "4",
     "original_name": "FROM OSAKA WITH CHEER!",

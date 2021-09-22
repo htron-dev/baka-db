@@ -1,5 +1,9 @@
 {
     "title": "Ossan ga Bijo.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190104.jpg",
+        "alt": "ossan-ga-bijo"
+    },
     "type": "light-novel",
     "volumes": "5",
     "original_name": "おっさんがびじょ。",

@@ -1,5 +1,9 @@
 {
     "title": "Metropolis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/100725.jpg",
+        "alt": "metropolis"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "メトロポリス",

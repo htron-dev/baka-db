@@ -1,5 +1,9 @@
 {
     "title": "Iwata no Kuse ni Choushi ni Noruna!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226895.jpg",
+        "alt": "iwata-no-kuse-ni-choushi-ni-noruna"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

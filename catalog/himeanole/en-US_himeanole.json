@@ -1,5 +1,9 @@
 {
     "title": "Himeanole",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/98229.jpg",
+        "alt": "himeanole"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "65",

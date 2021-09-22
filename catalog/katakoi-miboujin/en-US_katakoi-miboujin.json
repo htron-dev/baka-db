@@ -1,5 +1,9 @@
 {
     "title": "Katakoi Miboujin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172242.jpg",
+        "alt": "katakoi-miboujin"
+    },
     "type": "manga",
     "original_name": "片恋未亡人",
     "start_date": "2015-07-22",

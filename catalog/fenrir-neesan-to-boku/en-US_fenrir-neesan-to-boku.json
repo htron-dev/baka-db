@@ -1,5 +1,9 @@
 {
     "title": "Fenrir-neesan to Boku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210732.jpg",
+        "alt": "fenrir-neesan-to-boku"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

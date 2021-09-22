@@ -1,5 +1,9 @@
 {
     "title": "Oresama Darling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156839.jpg",
+        "alt": "oresama-darling"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

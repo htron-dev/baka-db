@@ -1,5 +1,9 @@
 {
     "title": "Made in Japan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/89031.jpg",
+        "alt": "made-in-japan"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "MADE IN JAPAN",

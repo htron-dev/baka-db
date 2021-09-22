@@ -1,5 +1,9 @@
 {
     "title": "Iso Asobi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/223165.jpg",
+        "alt": "iso-asobi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

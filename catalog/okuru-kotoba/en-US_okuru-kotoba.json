@@ -1,5 +1,9 @@
 {
     "title": "Okuru Kotoba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202996.jpg",
+        "alt": "okuru-kotoba"
+    },
     "type": "manga",
     "original_name": "おくることば",
     "start_date": "2017-04-26",

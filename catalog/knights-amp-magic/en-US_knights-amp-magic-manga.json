@@ -1,5 +1,9 @@
 {
     "title": "Knight's &amp; Magic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/183735.jpg",
+        "alt": "knights-amp-magic"
+    },
     "type": "manga",
     "original_name": "ナイツ＆マジック",
     "start_date": "2016-04-15",

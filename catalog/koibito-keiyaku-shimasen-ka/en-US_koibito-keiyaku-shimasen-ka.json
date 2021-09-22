@@ -1,5 +1,9 @@
 {
     "title": "Koibito Keiyaku Shimasen ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/191497.jpg",
+        "alt": "koibito-keiyaku-shimasen-ka"
+    },
     "type": "light-novel",
     "original_name": "恋人契約しませんか？",
     "start_date": "2017-02-17",

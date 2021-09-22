@@ -1,5 +1,9 @@
 {
     "title": "A.I Hunter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/154987.jpg",
+        "alt": "a-i-hunter"
+    },
     "type": "manhwa",
     "volumes": "5",
     "original_name": "에이아이헌터",

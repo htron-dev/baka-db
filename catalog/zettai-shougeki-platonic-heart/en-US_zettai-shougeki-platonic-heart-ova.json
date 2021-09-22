@@ -1,12 +1,16 @@
 {
     "title": "Zettai Shougeki: Platonic Heart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/24959.jpg",
+        "alt": "zettai-shougeki-platonic-heart"
+    },
     "type": "ova",
     "episodes": "5",
     "original_name": "絶対衝激～プラトニックハート～",
     "start_date": "2008-10-29",
     "end_date": "2008-10-29",
     "opening_song": "\"Tatsumaki Wave (タツマキ WAVE)\" by Little Non",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Will: Kokoro no Michishirube (Will~ココロの道標~)\" by Nazuka Kaori (eps 1-4)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

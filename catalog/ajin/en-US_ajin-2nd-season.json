@@ -1,11 +1,15 @@
 {
     "title": "Ajin 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/81858.jpg",
+        "alt": "ajin-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "亜人 第 2 クール",
     "start_date": "2016-10-08",
     "end_date": "2016-10-08",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Boku wa Boku de Atte (僕は僕であって)\" by angela x fripSide",
     "ending_song": "\"Koutei no Sumi ni Futari, Kaze ga Fuite Ima Nara Ieru ka na (校庭の隅に二人、風が吹いて今なら言えるかな)\" by CreepHyp",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Manga Science",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/45429.jpg",
+        "alt": "manga-science"
+    },
     "type": "manga",
     "original_name": "まんがサイエンス",
     "tags": [

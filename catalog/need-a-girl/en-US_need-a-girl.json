@@ -1,5 +1,9 @@
 {
     "title": "Need a Girl!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201114.jpg",
+        "alt": "need-a-girl"
+    },
     "type": "manhwa",
     "volumes": "10",
     "chapters": "66",

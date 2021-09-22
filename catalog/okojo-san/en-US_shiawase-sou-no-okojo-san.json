@@ -1,12 +1,16 @@
 {
     "title": "Shiawase Sou no Okojo-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/26602.jpg",
+        "alt": "shiawase-sou-no-okojo-san"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "しあわせソウのオコジョさん",
     "start_date": "2001-10-02",
     "end_date": "2001-10-02",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Ano KO no Happy Face\" by the Shiawase Sisters (eps 1-25)",
+    "ending_song": "#1: \"Nemuku Naru Made\" by Hideaki Takatori (eps 1-25)",
     "rating": "G - All Ages",
     "tags": [
         "comedy"

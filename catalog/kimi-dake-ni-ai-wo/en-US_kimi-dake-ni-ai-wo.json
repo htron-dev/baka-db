@@ -1,5 +1,9 @@
 {
     "title": "Kimi dake ni Ai wo.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/85575.jpg",
+        "alt": "kimi-dake-ni-ai-wo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

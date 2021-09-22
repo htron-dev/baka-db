@@ -1,5 +1,9 @@
 {
     "title": "Crimson-Shell",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16610.jpg",
+        "alt": "crimson-shell"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

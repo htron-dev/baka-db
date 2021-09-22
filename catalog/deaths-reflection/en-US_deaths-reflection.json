@@ -1,5 +1,9 @@
 {
     "title": "Death's Reflection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36087.jpg",
+        "alt": "deaths-reflection"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

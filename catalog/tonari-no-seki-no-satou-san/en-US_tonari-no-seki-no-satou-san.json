@@ -1,5 +1,9 @@
 {
     "title": "Tonari no Seki no Satou-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228143.jpg",
+        "alt": "tonari-no-seki-no-satou-san"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

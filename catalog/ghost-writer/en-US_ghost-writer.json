@@ -1,5 +1,9 @@
 {
     "title": "Ghost Writer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167050.jpg",
+        "alt": "ghost-writer"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

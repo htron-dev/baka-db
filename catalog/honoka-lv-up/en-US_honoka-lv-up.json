@@ -1,5 +1,9 @@
 {
     "title": "Honoka Lv. Up!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/17444.jpg",
+        "alt": "honoka-lv-up"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "28",

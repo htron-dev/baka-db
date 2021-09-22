@@ -1,5 +1,9 @@
 {
     "title": "Muketsuou no Shuuchaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194931.jpg",
+        "alt": "muketsuou-no-shuuchaku"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

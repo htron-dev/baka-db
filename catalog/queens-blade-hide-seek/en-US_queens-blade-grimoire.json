@@ -1,5 +1,9 @@
 {
     "title": "Queen's Blade: Grimoire",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/77994.jpg",
+        "alt": "queens-blade-grimoire"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "クイーンズブレイド グリムワール",

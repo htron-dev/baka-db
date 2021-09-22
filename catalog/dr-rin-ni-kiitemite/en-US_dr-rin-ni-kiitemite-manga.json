@@ -1,5 +1,9 @@
 {
     "title": "Dr. Rin ni Kiitemite!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164574.jpg",
+        "alt": "dr-rin-ni-kiitemite"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "48",

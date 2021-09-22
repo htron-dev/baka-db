@@ -1,5 +1,9 @@
 {
     "title": "K-sensei no Yajuu na Aijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/72583.jpg",
+        "alt": "k-sensei-no-yajuu-na-aijou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Bakemuko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/220208.jpg",
+        "alt": "bakemuko"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ばけむこ",

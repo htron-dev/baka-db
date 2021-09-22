@@ -1,5 +1,9 @@
 {
     "title": "Qiang Shen Ji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1323/98958.jpg",
+        "alt": "qiang-shen-ji"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "枪神记",

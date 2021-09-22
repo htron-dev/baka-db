@@ -1,5 +1,9 @@
 {
     "title": "Shokubutsu Zukan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179096.jpg",
+        "alt": "shokubutsu-zukan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

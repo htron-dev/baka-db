@@ -1,5 +1,9 @@
 {
     "title": "Oshaberi na Jikanwari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175878.jpg",
+        "alt": "oshaberi-na-jikanwari"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

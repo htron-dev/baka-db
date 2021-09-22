@@ -1,5 +1,9 @@
 {
     "title": "Tell Your Story",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180492.jpg",
+        "alt": "tell-your-story"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

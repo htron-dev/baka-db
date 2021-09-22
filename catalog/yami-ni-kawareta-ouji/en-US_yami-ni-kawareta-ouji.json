@@ -1,5 +1,9 @@
 {
     "title": "Yami ni Kawareta Ouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186018.jpg",
+        "alt": "yami-ni-kawareta-ouji"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

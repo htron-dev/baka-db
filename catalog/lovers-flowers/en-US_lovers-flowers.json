@@ -1,5 +1,9 @@
 {
     "title": "Lovers Flowers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169807.jpg",
+        "alt": "lovers-flowers"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Fure Fure Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/101221.jpg",
+        "alt": "fure-fure-shoujo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

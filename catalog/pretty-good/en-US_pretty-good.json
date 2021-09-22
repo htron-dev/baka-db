@@ -1,5 +1,9 @@
 {
     "title": "Pretty Good",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/44855.jpg",
+        "alt": "pretty-good"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "プリティ・グッド",

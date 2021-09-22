@@ -1,5 +1,9 @@
 {
     "title": "Red Raven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/91845.jpg",
+        "alt": "red-raven"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "44",

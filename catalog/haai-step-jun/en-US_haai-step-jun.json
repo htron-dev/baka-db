@@ -1,12 +1,16 @@
 {
     "title": "Haai Step Jun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/73332.jpg",
+        "alt": "haai-step-jun"
+    },
     "type": "tv-serie",
     "episodes": "45",
     "original_name": "はーいステップジュン",
     "start_date": "1985-03-10",
     "end_date": "1985-03-10",
     "opening_song": "\"Binkan! Mechanic (びん感!メカニック)\" by Akiko & Naoko Kobayashi",
-    "ending_song": "\"Rival 360 Do",
+    "ending_song": "\"Rival 360 Do: Ren'ai Hatten Kanou Sei 0 (ライバル 360 度～恋愛発展可能性 0 ～)\" by Akiko & Naoko Kobayashi",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

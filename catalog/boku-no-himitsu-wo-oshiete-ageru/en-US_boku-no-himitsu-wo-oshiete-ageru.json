@@ -1,5 +1,9 @@
 {
     "title": "Boku no Himitsu wo Oshiete Ageru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/9240.jpg",
+        "alt": "boku-no-himitsu-wo-oshiete-ageru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

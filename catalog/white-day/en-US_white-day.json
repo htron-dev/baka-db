@@ -1,5 +1,9 @@
 {
     "title": "White Day",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207600.jpg",
+        "alt": "white-day"
+    },
     "type": "manhwa",
     "chapters": "1",
     "tags": [

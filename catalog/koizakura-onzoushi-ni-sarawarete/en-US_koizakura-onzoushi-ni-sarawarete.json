@@ -1,5 +1,9 @@
 {
     "title": "Koizakura: Onzoushi ni Sarawarete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192954.jpg",
+        "alt": "koizakura-onzoushi-ni-sarawarete"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

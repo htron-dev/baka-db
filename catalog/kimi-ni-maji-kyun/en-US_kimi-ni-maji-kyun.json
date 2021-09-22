@@ -1,5 +1,9 @@
 {
     "title": "Kimi ni Maji Kyun!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/80048.jpg",
+        "alt": "kimi-ni-maji-kyun"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "キミにマジきゅんっ！",

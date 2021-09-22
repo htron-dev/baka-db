@@ -1,5 +1,9 @@
 {
     "title": "Buster-Do!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159994.jpg",
+        "alt": "buster-do"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "バスタード!",

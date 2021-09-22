@@ -1,5 +1,9 @@
 {
     "title": "Shinigami Tsuki no Amamiya-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227822.jpg",
+        "alt": "shinigami-tsuki-no-amamiya-san"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

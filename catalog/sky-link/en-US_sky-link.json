@@ -1,5 +1,9 @@
 {
     "title": "Sky Link",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/37610.jpg",
+        "alt": "sky-link"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Kawareta Hatsukoi wa Mitsugetsu ni Oboreru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184022.jpg",
+        "alt": "kawareta-hatsukoi-wa-mitsugetsu-ni-oboreru"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Pumpkin Scissors",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/55387.jpg",
+        "alt": "pumpkin-scissors"
+    },
     "type": "manga",
     "original_name": "パンプキン シザーズ",
     "tags": [

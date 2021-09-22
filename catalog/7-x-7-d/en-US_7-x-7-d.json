@@ -1,5 +1,9 @@
 {
     "title": "7x7-D",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/19252.jpg",
+        "alt": "7-x-7-d"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Fool For You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/6807.jpg",
+        "alt": "fool-for-you"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

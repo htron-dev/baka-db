@@ -1,5 +1,9 @@
 {
     "title": "Boku no Utako-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32304.jpg",
+        "alt": "boku-no-utako-san"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "僕の歌子さん",

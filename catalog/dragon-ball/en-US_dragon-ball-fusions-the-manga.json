@@ -1,5 +1,9 @@
 {
     "title": "Dragon Ball Fusions the Manga!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241645.jpg",
+        "alt": "dragon-ball-fusions-the-manga"
+    },
     "type": "manga",
     "chapters": "13",
     "original_name": "ドラゴンボールフュージョンズ the MANGA!!",

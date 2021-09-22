@@ -1,5 +1,9 @@
 {
     "title": "Kono Yubi Tomare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238731.jpg",
+        "alt": "kono-yubi-tomare"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "52",

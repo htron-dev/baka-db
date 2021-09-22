@@ -1,5 +1,9 @@
 {
     "title": "Imouto Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/199545.jpg",
+        "alt": "imouto-days"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "26",

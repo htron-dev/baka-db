@@ -1,5 +1,9 @@
 {
     "title": "Yuki no Shita no Qualia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190031.jpg",
+        "alt": "yuki-no-shita-no-qualia"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

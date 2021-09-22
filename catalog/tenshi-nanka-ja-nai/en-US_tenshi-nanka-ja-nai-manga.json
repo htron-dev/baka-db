@@ -1,5 +1,9 @@
 {
     "title": "Tenshi Nanka ja Nai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175781.jpg",
+        "alt": "tenshi-nanka-ja-nai"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "40",

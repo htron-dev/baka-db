@@ -1,5 +1,9 @@
 {
     "title": "Mobile Suit Gundam SEED Destiny",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5264.jpg",
+        "alt": "mobile-suit-gundam-seed-destiny"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "17",

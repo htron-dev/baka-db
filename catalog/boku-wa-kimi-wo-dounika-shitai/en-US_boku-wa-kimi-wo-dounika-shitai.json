@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Kimi wo Dounika Shitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/61743.jpg",
+        "alt": "boku-wa-kimi-wo-dounika-shitai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

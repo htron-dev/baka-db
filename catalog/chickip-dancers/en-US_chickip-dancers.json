@@ -1,5 +1,9 @@
 {
     "title": "Chickip Dancers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1546/117554.jpg",
+        "alt": "chickip-dancers"
+    },
     "type": "tv-serie",
     "original_name": "チキップダンサーズ",
     "start_date": "2021-10-20",

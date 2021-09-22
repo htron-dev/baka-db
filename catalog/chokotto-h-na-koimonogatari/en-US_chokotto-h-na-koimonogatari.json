@@ -1,5 +1,9 @@
 {
     "title": "Chokotto H na Koimonogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20843.jpg",
+        "alt": "chokotto-h-na-koimonogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

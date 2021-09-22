@@ -1,5 +1,9 @@
 {
     "title": "Shinseiki Evangelion: Ikari Shinji Ikusei Keikaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172079.jpg",
+        "alt": "shinseiki-evangelion-ikari-shinji-ikusei-keikaku"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "133",

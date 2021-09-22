@@ -1,5 +1,9 @@
 {
     "title": "Tales of Xillia 2: Soukyoku no Crossroad",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/146763.jpg",
+        "alt": "tales-of-xillia-2-soukyoku-no-crossroad"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "22",

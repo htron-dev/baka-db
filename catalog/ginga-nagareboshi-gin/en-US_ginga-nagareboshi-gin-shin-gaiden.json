@@ -1,5 +1,9 @@
 {
     "title": "Ginga Nagareboshi Gin Shin Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/43621.jpg",
+        "alt": "ginga-nagareboshi-gin-shin-gaiden"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

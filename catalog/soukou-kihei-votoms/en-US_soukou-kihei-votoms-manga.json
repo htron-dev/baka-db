@@ -1,5 +1,9 @@
 {
     "title": "Soukou Kihei Votoms",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152356.jpg",
+        "alt": "soukou-kihei-votoms"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "12",

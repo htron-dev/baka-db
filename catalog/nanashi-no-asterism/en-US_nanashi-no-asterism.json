@@ -1,5 +1,9 @@
 {
     "title": "Nanashi no Asterism",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175568.jpg",
+        "alt": "nanashi-no-asterism"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "23",

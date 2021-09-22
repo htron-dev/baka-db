@@ -1,5 +1,9 @@
 {
     "title": "Kagerou Inazuma Mizu no Tsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/84873.jpg",
+        "alt": "kagerou-inazuma-mizu-no-tsuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

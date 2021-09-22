@@ -1,5 +1,9 @@
 {
     "title": "Sugar Pot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5888.jpg",
+        "alt": "sugar-pot"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

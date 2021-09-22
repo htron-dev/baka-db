@@ -1,5 +1,9 @@
 {
     "title": "Yawaraka Sensha Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1343/115586.jpg",
+        "alt": "yawaraka-sensha-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "やわらか戦車 9.5",

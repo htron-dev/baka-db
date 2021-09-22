@@ -1,5 +1,9 @@
 {
     "title": "Shiroi Mado no Mukougawa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/37717.jpg",
+        "alt": "shiroi-mado-no-mukougawa"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

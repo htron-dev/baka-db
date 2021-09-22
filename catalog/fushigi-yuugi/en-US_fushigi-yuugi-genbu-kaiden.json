@@ -1,5 +1,9 @@
 {
     "title": "Fushigi Yuugi: Genbu Kaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32088.jpg",
+        "alt": "fushigi-yuugi-genbu-kaiden"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "40",

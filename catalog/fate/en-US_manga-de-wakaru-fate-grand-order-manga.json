@@ -1,5 +1,9 @@
 {
     "title": "Manga de Wakaru! Fate/Grand Order",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223914.jpg",
+        "alt": "manga-de-wakaru-fate-grand-order"
+    },
     "type": "manga",
     "original_name": "マンガで分かる! Fate/Grand Order",
     "start_date": "2015-08-13",

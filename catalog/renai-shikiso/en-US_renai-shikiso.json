@@ -1,5 +1,9 @@
 {
     "title": "Renai Shikiso",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/131447.jpg",
+        "alt": "renai-shikiso"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

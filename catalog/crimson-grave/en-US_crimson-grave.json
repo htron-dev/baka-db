@@ -1,5 +1,9 @@
 {
     "title": "Crimson Grave",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/63639.jpg",
+        "alt": "crimson-grave"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "クリムゾングレイヴ",

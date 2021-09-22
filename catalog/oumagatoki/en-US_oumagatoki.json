@@ -1,5 +1,9 @@
 {
     "title": "Oumagatoki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1167/108081.jpg",
+        "alt": "oumagatoki"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "逢魔が時",

@@ -1,5 +1,9 @@
 {
     "title": "Death Ball",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/239228.jpg",
+        "alt": "death-ball"
+    },
     "type": "manga",
     "original_name": "デスボール",
     "start_date": "2018-11-22",

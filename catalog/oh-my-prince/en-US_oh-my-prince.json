@@ -1,5 +1,9 @@
 {
     "title": "Oh! My Prince",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/78893.jpg",
+        "alt": "oh-my-prince"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "Oh! my プリンス",

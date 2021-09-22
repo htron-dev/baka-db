@@ -1,5 +1,9 @@
 {
     "title": "Juu to Usagi to Twintail",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/178462.jpg",
+        "alt": "juu-to-usagi-to-twintail"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

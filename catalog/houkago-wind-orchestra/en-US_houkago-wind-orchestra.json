@@ -1,5 +1,9 @@
 {
     "title": "Houkago Wind Orchestra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22706.jpg",
+        "alt": "houkago-wind-orchestra"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "放課後ウィンド・オーケストラ",

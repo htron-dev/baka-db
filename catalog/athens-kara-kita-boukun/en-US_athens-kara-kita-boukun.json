@@ -1,5 +1,9 @@
 {
     "title": "Athens kara Kita Boukun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227512.jpg",
+        "alt": "athens-kara-kita-boukun"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "アテネから来た暴君",

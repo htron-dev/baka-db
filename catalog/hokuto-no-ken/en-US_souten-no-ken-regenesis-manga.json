@@ -1,5 +1,9 @@
 {
     "title": "Souten no Ken: Regenesis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207887.jpg",
+        "alt": "souten-no-ken-regenesis"
+    },
     "type": "manga",
     "original_name": "蒼天の拳 リジェネシス",
     "start_date": "2017-10-25",

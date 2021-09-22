@@ -1,5 +1,9 @@
 {
     "title": "Bamora!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/86755.jpg",
+        "alt": "bamora"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

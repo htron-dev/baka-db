@@ -1,5 +1,9 @@
 {
     "title": "Romance no Kusuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/42024.jpg",
+        "alt": "romance-no-kusuri"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ロマンスの薬",

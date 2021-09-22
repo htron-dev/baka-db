@@ -1,12 +1,16 @@
 {
     "title": "Tsukiuta. The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/80936.jpg",
+        "alt": "tsukiuta-the-animation"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ツキウタ。 THE ANIMATION",
     "start_date": "2016-07-06",
     "end_date": "2016-07-06",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: \"GRAVITIC-LOVE\" by Six Gravity (eps 3, 5, 7, 9, 11)",
+    "ending_song": "#01: \"stella ~Kinpika Joushou Kibun~ (stella ～きんぴか上昇気分～)\" by Kakeru Shiwasu (Yuki Kaji) (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music"

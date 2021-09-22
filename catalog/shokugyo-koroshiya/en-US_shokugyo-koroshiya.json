@@ -1,5 +1,9 @@
 {
     "title": "Shokugyo Koroshiya.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178226.jpg",
+        "alt": "shokugyo-koroshiya"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "118",

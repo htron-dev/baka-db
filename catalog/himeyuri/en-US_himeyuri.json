@@ -1,5 +1,9 @@
 {
     "title": "Himeyuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/54359.jpg",
+        "alt": "himeyuri"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ひめゆり",

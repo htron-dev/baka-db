@@ -1,5 +1,9 @@
 {
     "title": "Viper's Creed",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/56471.jpg",
+        "alt": "vipers-creed"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ヴァイパーズ・クリード",

@@ -1,5 +1,9 @@
 {
     "title": "Hyper Police",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180631.jpg",
+        "alt": "hyper-police"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "97",

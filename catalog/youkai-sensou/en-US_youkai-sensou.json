@@ -1,5 +1,9 @@
 {
     "title": "Youkai Sensou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237618.jpg",
+        "alt": "youkai-sensou"
+    },
     "type": "manga",
     "original_name": "妖怪戦葬",
     "start_date": "2019-08-19",

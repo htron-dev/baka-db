@@ -1,12 +1,16 @@
 {
     "title": "Akame ga Kill!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1429/95946.jpg",
+        "alt": "akame-ga-kill"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "アカメが斬る！",
     "start_date": "2014-07-07",
     "end_date": "2014-07-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Skyreach\" by Sora Amamiya (eps 1-14)",
+    "ending_song": "#1: \"Konna Sekai, Shiritakunakatta. (こんな世界、知りたくなかった。)\" by Miku Sawai (eps 1-14)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

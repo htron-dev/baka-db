@@ -1,5 +1,9 @@
 {
     "title": "Kotonoha no Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34585.jpg",
+        "alt": "kotonoha-no-hana"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "2",

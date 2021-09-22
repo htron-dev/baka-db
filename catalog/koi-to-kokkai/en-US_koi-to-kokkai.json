@@ -1,5 +1,9 @@
 {
     "title": "Koi to Kokkai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226848.jpg",
+        "alt": "koi-to-kokkai"
+    },
     "type": "manga",
     "original_name": "恋と国会",
     "start_date": "2018-11-05",

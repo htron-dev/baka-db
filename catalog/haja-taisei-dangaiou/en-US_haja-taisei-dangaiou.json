@@ -1,12 +1,16 @@
 {
     "title": "Haja Taisei Dangaiou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1262/92742.jpg",
+        "alt": "haja-taisei-dangaiou"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "破邪大星弾劾凰 [ダンガイオー]",
     "start_date": "1987-09-28",
     "end_date": "1987-09-28",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Cross Fight\" by Mitsuko Horie & Ichiro Mizuki (eps 1-2)",
+    "ending_song": "#1: \"Kokoro no Honesty (Honesty of the Heart)\" by Mitsuko Horie (eps 1-2)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

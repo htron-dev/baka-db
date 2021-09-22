@@ -1,12 +1,16 @@
 {
     "title": "Umi no Triton",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/85304.jpg",
+        "alt": "umi-no-triton"
+    },
     "type": "tv-serie",
     "episodes": "27",
     "original_name": "海のトリトン",
     "start_date": "1972-04-01",
     "end_date": "1972-04-01",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Umi no Triton (海のトリトン)\" by Kazumi Sudou (すどうかづみ), Kaguya-hime (かぐや姫) (eps 1-6)",
+    "ending_song": "#1: \"Go! Go! Triton (GO! GO! トリトン)\" by Yuuki Hide (ヒデ・夕木), Suginami Jidou Gasshoudan (杉並児童合唱団) (eps 1-6)",
     "rating": "G - All Ages",
     "tags": [
         "adventure",

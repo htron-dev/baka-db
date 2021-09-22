@@ -1,5 +1,9 @@
 {
     "title": "Dounika Naru Hibi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/65859.jpg",
+        "alt": "dounika-naru-hibi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

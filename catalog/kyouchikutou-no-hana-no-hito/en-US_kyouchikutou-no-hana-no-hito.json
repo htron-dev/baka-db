@@ -1,5 +1,9 @@
 {
     "title": "Kyouchikutou no Hana no Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/199598.jpg",
+        "alt": "kyouchikutou-no-hana-no-hito"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

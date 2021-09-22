@@ -1,5 +1,9 @@
 {
     "title": "Maou Lover",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227586.jpg",
+        "alt": "maou-lover"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

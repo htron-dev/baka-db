@@ -1,12 +1,16 @@
 {
     "title": "Togainu no Chi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/75187.jpg",
+        "alt": "togainu-no-chi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "咎狗の血",
     "start_date": "2010-10-08",
     "end_date": "2010-10-08",
     "opening_song": "\"Rose-Hip Bullet\" by GRANRODEO (eps 1-11)",
-    "ending_song": "#01",
+    "ending_song": "#01: \"No Moral\" by Itou Kanako (ep 1)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

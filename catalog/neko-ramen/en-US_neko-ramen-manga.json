@@ -1,5 +1,9 @@
 {
     "title": "Neko Ramen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/148567.jpg",
+        "alt": "neko-ramen"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "95",

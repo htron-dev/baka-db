@@ -1,5 +1,9 @@
 {
     "title": "No Game No Life, desu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171257.jpg",
+        "alt": "no-game-no-life-desu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

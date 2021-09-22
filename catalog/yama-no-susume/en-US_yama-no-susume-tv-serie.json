@@ -1,5 +1,9 @@
 {
     "title": "Yama no Susume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/75525.jpg",
+        "alt": "yama-no-susume"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ヤマノススメ",

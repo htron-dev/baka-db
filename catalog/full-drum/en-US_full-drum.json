@@ -1,5 +1,9 @@
 {
     "title": "Full Drum",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195989.jpg",
+        "alt": "full-drum"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "45",

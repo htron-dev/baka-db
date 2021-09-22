@@ -1,5 +1,9 @@
 {
     "title": "Meiji Melancholia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171664.jpg",
+        "alt": "meiji-melancholia"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "58",

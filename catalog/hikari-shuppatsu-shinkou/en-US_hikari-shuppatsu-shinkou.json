@@ -1,5 +1,9 @@
 {
     "title": "Hikari! Shuppatsu Shinkou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/136341.jpg",
+        "alt": "hikari-shuppatsu-shinkou"
+    },
     "type": "manga",
     "original_name": "ひかり! 出発進行",
     "start_date": "2012-09-18",

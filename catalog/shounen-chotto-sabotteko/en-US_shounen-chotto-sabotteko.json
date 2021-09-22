@@ -1,5 +1,9 @@
 {
     "title": "Shounen, Chotto Sabotteko?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/221695.jpg",
+        "alt": "shounen-chotto-sabotteko"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "39",

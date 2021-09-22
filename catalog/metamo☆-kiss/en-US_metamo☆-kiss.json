@@ -1,5 +1,9 @@
 {
     "title": "Metamo☆Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/109471.jpg",
+        "alt": "metamo☆-kiss"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

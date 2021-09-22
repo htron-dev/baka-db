@@ -1,5 +1,9 @@
 {
     "title": "Madou GPX Wizard Formula",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193102.jpg",
+        "alt": "madou-gpx-wizard-formula"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "15",

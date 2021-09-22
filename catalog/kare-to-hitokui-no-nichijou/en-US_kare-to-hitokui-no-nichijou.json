@@ -1,5 +1,9 @@
 {
     "title": "Kare to Hitokui no Nichijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196970.jpg",
+        "alt": "kare-to-hitokui-no-nichijou"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "28",

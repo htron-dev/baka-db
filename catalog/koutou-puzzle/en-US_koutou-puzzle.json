@@ -1,5 +1,9 @@
 {
     "title": "Koutou Puzzle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30437.jpg",
+        "alt": "koutou-puzzle"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "孤島パズル",

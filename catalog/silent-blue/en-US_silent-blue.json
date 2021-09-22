@@ -1,5 +1,9 @@
 {
     "title": "Silent Blue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203191.jpg",
+        "alt": "silent-blue"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

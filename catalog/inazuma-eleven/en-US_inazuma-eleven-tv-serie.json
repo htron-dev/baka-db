@@ -1,12 +1,16 @@
 {
     "title": "Inazuma Eleven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1854/94704.jpg",
+        "alt": "inazuma-eleven"
+    },
     "type": "tv-serie",
     "episodes": "127",
     "original_name": "イナズマイレブン",
     "start_date": "2008-10-05",
     "end_date": "2008-10-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Tachiagariyo\" by T-Pistonz (eps 1-26)",
+    "ending_song": "#1: \"Seishun oden\" by Twe'lv (eps 1-26)",
     "rating": "G - All Ages",
     "tags": [
         "sports",

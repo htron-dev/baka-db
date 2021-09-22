@@ -1,11 +1,15 @@
 {
     "title": "D-1 Devastator",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/55845.jpg",
+        "alt": "d-1-devastator"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "D-1 デバステイター",
     "start_date": "1992-12-11",
     "end_date": "1992-12-11",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Rash Guy\" by Akira Kamino",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "mecha",

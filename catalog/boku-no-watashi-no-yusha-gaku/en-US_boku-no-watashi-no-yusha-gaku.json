@@ -1,5 +1,9 @@
 {
     "title": "Boku no Watashi no Yusha Gaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178864.jpg",
+        "alt": "boku-no-watashi-no-yusha-gaku"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "66",

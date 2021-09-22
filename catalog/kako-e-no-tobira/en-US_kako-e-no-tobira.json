@@ -1,5 +1,9 @@
 {
     "title": "Kako e no Tobira",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/59879.jpg",
+        "alt": "kako-e-no-tobira"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

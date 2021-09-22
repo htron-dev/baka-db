@@ -1,5 +1,9 @@
 {
     "title": "Afro Samurai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/15874.jpg",
+        "alt": "afro-samurai"
+    },
     "type": "tv-serie",
     "episodes": "5",
     "original_name": "アフロサムライ",

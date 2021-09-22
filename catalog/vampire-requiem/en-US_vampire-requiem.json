@@ -1,5 +1,9 @@
 {
     "title": "Vampire Requiem",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6563.jpg",
+        "alt": "vampire-requiem"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Lover's Position",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2396.jpg",
+        "alt": "lovers-position"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

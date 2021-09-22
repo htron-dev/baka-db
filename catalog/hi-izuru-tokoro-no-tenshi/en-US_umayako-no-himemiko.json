@@ -1,5 +1,9 @@
 {
     "title": "Umayako no Himemiko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/72361.jpg",
+        "alt": "umayako-no-himemiko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

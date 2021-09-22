@@ -1,5 +1,9 @@
 {
     "title": "Nanoni, Boku wa Iya to Ienai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/145063.jpg",
+        "alt": "nanoni-boku-wa-iya-to-ienai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

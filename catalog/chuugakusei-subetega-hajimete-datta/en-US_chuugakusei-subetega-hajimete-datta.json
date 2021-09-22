@@ -1,5 +1,9 @@
 {
     "title": "Chuugakusei Subetega. Hajimete Datta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/9890.jpg",
+        "alt": "chuugakusei-subetega-hajimete-datta"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "中学生　すべてが。初めてだった",

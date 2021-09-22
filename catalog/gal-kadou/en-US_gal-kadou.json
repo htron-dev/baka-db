@@ -1,5 +1,9 @@
 {
     "title": "Gal Kadou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/82302.jpg",
+        "alt": "gal-kadou"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ギャル華道",

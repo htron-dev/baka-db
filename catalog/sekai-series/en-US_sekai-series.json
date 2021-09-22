@@ -1,5 +1,9 @@
 {
     "title": "Sekai Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33875.jpg",
+        "alt": "sekai-series"
+    },
     "type": "light-novel",
     "original_name": "世界シリーズ",
     "start_date": "2003-11-05",

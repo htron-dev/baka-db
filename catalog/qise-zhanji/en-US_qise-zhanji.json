@@ -1,5 +1,9 @@
 {
     "title": "Qise Zhanji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1281/110817.jpg",
+        "alt": "qise-zhanji"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "七色戰記",

@@ -1,5 +1,9 @@
 {
     "title": "Onee to Danshi, Tokidoki Gohan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204406.jpg",
+        "alt": "onee-to-danshi-tokidoki-gohan"
+    },
     "type": "manga",
     "original_name": "オネエと男子、時々ごはん",
     "start_date": "2017-06-28",

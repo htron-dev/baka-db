@@ -1,5 +1,9 @@
 {
     "title": "Nar Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/107583.jpg",
+        "alt": "nar-kiss"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

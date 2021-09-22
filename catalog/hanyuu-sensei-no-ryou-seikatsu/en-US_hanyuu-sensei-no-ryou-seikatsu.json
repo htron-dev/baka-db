@@ -1,5 +1,9 @@
 {
     "title": "Hanyuu-sensei no Ryou Seikatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/182290.jpg",
+        "alt": "hanyuu-sensei-no-ryou-seikatsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

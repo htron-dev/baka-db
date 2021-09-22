@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Koibana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/169393.jpg",
+        "alt": "kimi-to-koibana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

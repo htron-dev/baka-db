@@ -1,5 +1,9 @@
 {
     "title": "Baka ni Koi toka Shoujiki Muri ja ne?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221760.jpg",
+        "alt": "baka-ni-koi-toka-shoujiki-muri-ja-ne"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

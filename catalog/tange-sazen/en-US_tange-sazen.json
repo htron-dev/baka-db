@@ -1,5 +1,9 @@
 {
     "title": "Tange Sazen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237789.jpg",
+        "alt": "tange-sazen"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "丹下左膳",

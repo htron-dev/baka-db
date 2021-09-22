@@ -1,5 +1,9 @@
 {
     "title": "Ribbon-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/48753.jpg",
+        "alt": "ribbon-chan"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "リボンちゃん",

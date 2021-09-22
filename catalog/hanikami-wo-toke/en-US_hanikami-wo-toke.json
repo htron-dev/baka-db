@@ -1,5 +1,9 @@
 {
     "title": "Hanikami wo Toke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226003.jpg",
+        "alt": "hanikami-wo-toke"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Moto, Ochikobore Koushaku Reijou desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/248769.jpg",
+        "alt": "moto-ochikobore-koushaku-reijou-desu"
+    },
     "type": "light-novel",
     "original_name": "元、落ちこぼれ公爵令嬢です。",
     "start_date": "2020-12-10",

@@ -1,5 +1,9 @@
 {
     "title": "Swan: Moscow-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175474.jpg",
+        "alt": "swan-moscow-hen"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "SWAN − 白鳥 − [モスクワ編]",

@@ -1,5 +1,9 @@
 {
     "title": "Hyperventilation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1708/107833.jpg",
+        "alt": "hyperventilation"
+    },
     "type": "ona",
     "episodes": "6",
     "original_name": "과호흡 (過呼吸)",

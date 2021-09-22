@@ -1,5 +1,9 @@
 {
     "title": "Towa no Quon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178134.jpg",
+        "alt": "towa-no-quon"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Osu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/12253.jpg",
+        "alt": "osu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "おす",

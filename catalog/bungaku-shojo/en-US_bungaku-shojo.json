@@ -1,5 +1,9 @@
 {
     "title": "Bungaku Shojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228387.jpg",
+        "alt": "bungaku-shojo"
+    },
     "type": "manga",
     "original_name": "文学処女",
     "start_date": "2016-07-27",

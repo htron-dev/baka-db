@@ -1,10 +1,14 @@
 {
     "title": "Outlanders",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1396/94529.jpg",
+        "alt": "outlanders"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "アウトランダーズ",
     "start_date": "1986-12-16",
-    "ending_song": "\"Starry Eyes",
+    "ending_song": "\"Starry Eyes: Hoshi no Hitomi (Starry eyes-星の瞳-)\" by NA'MON",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "sci-fi",

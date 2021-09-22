@@ -1,5 +1,9 @@
 {
     "title": "Ane Oto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/132643.jpg",
+        "alt": "ane-oto"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "34",

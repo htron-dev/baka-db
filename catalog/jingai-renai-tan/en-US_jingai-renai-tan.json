@@ -1,5 +1,9 @@
 {
     "title": "Jingai Renai-tan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243908.jpg",
+        "alt": "jingai-renai-tan"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

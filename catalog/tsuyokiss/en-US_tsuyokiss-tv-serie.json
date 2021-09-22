@@ -1,5 +1,9 @@
 {
     "title": "Tsuyokiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/14108.jpg",
+        "alt": "tsuyokiss"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "つよきす",

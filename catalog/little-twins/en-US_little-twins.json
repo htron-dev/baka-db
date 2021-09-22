@@ -1,5 +1,9 @@
 {
     "title": "Little Twins",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/68009.jpg",
+        "alt": "little-twins"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "リトルツインズ",

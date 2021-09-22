@@ -1,5 +1,9 @@
 {
     "title": "Tarou-kun wa Yuganderu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39765.jpg",
+        "alt": "tarou-kun-wa-yuganderu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

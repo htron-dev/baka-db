@@ -1,5 +1,9 @@
 {
     "title": "Akuma na Otoko no Erabikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33809.jpg",
+        "alt": "akuma-na-otoko-no-erabikata"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "悪魔な男の選び方",

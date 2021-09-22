@@ -1,12 +1,16 @@
 {
     "title": "Otome Youkai Zakuro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/85430.jpg",
+        "alt": "otome-youkai-zakuro"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "おとめ妖怪 ざくろ",
     "start_date": "2010-10-05",
     "end_date": "2010-10-05",
     "opening_song": "\"Moon Signal\" by Sphere",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hatsukoi wa Zakuroiro (初戀は柘榴色)\" by Mai Nakahara with narration by Takahiro Sakurai (eps 1, 3, 7, 10)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "demons",

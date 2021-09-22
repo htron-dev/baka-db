@@ -1,5 +1,9 @@
 {
     "title": "Jitensha no Oneesan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235107.jpg",
+        "alt": "jitensha-no-oneesan"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "自転車のお姉さん",

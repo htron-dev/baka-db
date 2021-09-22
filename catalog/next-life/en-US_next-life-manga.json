@@ -1,5 +1,9 @@
 {
     "title": "Next Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203708.jpg",
+        "alt": "next-life"
+    },
     "type": "manga",
     "original_name": "ネクストライフ",
     "start_date": "2017-05-26",

@@ -1,5 +1,9 @@
 {
     "title": "Kyoto Animation: Hoshi-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/73732.jpg",
+        "alt": "kyoto-animation-hoshi-hen"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "京都アニメーション CM「星編」",

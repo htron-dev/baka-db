@@ -1,5 +1,9 @@
 {
     "title": "Otome no Teniwoha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167334.jpg",
+        "alt": "otome-no-teniwoha"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "40",

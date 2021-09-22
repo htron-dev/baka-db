@@ -1,5 +1,9 @@
 {
     "title": "Fuufu ni Narimasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/135071.jpg",
+        "alt": "fuufu-ni-narimasu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "夫婦になります！",

@@ -1,5 +1,9 @@
 {
     "title": "Love x Love Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247363.jpg",
+        "alt": "love-x-love-game"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

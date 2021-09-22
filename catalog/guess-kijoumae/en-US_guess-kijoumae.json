@@ -1,5 +1,9 @@
 {
     "title": "Guess, Kijoumae",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/212443.jpg",
+        "alt": "guess-kijoumae"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

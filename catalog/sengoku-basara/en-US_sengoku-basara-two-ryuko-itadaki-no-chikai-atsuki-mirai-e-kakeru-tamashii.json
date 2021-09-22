@@ -1,8 +1,12 @@
 {
     "title": "Sengoku Basara Two: Ryuko, Itadaki no Chikai! Atsuki Mirai e Kakeru Tamashii!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/28823.jpg",
+        "alt": "sengoku-basara-two-ryuko-itadaki-no-chikai-atsuki-mirai-e-kakeru-tamashii"
+    },
     "type": "special",
     "episodes": "1",
-    "original_name": "戦国 BASARA 弐",
+    "original_name": "戦国 BASARA 弐: 竜虎、頂の誓い! 熱き未来へ駆ける魂!!",
     "start_date": "2011-04-06",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

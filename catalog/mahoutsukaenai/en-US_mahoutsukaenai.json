@@ -1,5 +1,9 @@
 {
     "title": "Mahoutsukaenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223651.jpg",
+        "alt": "mahoutsukaenai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "38",

@@ -1,5 +1,9 @@
 {
     "title": "Wagaya wa Kiseki de Afureteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/182936.jpg",
+        "alt": "wagaya-wa-kiseki-de-afureteru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

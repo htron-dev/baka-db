@@ -1,12 +1,16 @@
 {
     "title": "A-Channel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1333/110595.jpg",
+        "alt": "a-channel"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "A チャンネル",
     "start_date": "2011-04-08",
     "end_date": "2011-04-08",
     "opening_song": "\"Morning Arch\" by Marina Kawano",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Humming Girl (ハミングガール)\" by Kaori Fukuhara, Aoi Yuuki, Yumi Uchiyama, and Minako Kotobuki (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

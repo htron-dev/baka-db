@@ -1,5 +1,9 @@
 {
     "title": "Ultraman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1774/116478.jpg",
+        "alt": "ultraman"
+    },
     "type": "ona",
     "episodes": "13",
     "original_name": "ULTRAMAN",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Ultraman_(manga"
+            "link": "http://en.wikipedia.org/wiki/Ultraman_%28manga%29"
         }
     ]
 }

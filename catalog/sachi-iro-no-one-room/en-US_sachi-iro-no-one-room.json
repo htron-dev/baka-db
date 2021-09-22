@@ -1,5 +1,9 @@
 {
     "title": "Sachi-iro no One Room",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192115.jpg",
+        "alt": "sachi-iro-no-one-room"
+    },
     "type": "manga",
     "original_name": "幸色のワンルーム",
     "start_date": "2016-09-30",

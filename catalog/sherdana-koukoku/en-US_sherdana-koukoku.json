@@ -1,5 +1,9 @@
 {
     "title": "Sherdana Koukoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227679.jpg",
+        "alt": "sherdana-koukoku"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "シェルダーナ公国",

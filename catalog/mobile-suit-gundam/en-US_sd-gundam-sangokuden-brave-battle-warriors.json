@@ -1,11 +1,15 @@
 {
     "title": "SD Gundam Sangokuden Brave Battle Warriors",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/21471.jpg",
+        "alt": "sd-gundam-sangokuden-brave-battle-warriors"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "SD ガンダム三国伝 Brave Battle Warriors",
     "start_date": "2010-04-03",
     "end_date": "2010-04-03",
-    "ending_song": "#1",
+    "ending_song": "#1:\"Mirisha Densetsu ~The Brave Legend~ (三璃紗伝説 〜The Brave Legend〜)\\\" by Ko-saku (eps 1-26)",
     "rating": "PG - Children",
     "tags": [
         "action",

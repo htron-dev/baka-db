@@ -1,5 +1,9 @@
 {
     "title": "Renai Prism",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186053.jpg",
+        "alt": "renai-prism"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

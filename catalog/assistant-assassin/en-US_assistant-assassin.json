@@ -1,5 +1,9 @@
 {
     "title": "Assistant Assassin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/220463.jpg",
+        "alt": "assistant-assassin"
+    },
     "type": "manga",
     "original_name": "アシスタントアサシン",
     "start_date": "2018-08-05",

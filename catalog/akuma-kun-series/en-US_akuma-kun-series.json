@@ -1,5 +1,9 @@
 {
     "title": "Akuma-kun Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/19263.jpg",
+        "alt": "akuma-kun-series"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "アクマくんシリーズ",

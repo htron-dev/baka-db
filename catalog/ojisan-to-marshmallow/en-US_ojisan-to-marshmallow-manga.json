@@ -1,5 +1,9 @@
 {
     "title": "Ojisan to Marshmallow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158929.jpg",
+        "alt": "ojisan-to-marshmallow"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "おじさんとマシュマロ",

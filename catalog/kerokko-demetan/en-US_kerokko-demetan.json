@@ -1,5 +1,9 @@
 {
     "title": "Kerokko Demetan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1807/108565.jpg",
+        "alt": "kerokko-demetan"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "けろっこデメタン",

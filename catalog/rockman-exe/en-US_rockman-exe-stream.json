@@ -1,5 +1,9 @@
 {
     "title": "Rockman.EXE Stream",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/41575.jpg",
+        "alt": "rockman-exe-stream"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "ロックマンエクゼ Stream",

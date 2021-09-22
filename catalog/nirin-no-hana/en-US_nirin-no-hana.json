@@ -1,5 +1,9 @@
 {
     "title": "Nirin no Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/146189.jpg",
+        "alt": "nirin-no-hana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

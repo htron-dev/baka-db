@@ -1,5 +1,9 @@
 {
     "title": "RaW Hero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215834.jpg",
+        "alt": "ra-w-hero"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "41",

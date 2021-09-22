@@ -1,5 +1,9 @@
 {
     "title": "Takane no Jitensha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/15250.jpg",
+        "alt": "takane-no-jitensha"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "タカネの自転車",

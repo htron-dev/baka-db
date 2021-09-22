@@ -1,5 +1,9 @@
 {
     "title": "Odosareta Aijin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229696.jpg",
+        "alt": "odosareta-aijin"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "脅された愛人",

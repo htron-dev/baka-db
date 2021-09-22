@@ -1,5 +1,9 @@
 {
     "title": "Otouto ni Ushiro kara Omocha ni Sarete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193491.jpg",
+        "alt": "otouto-ni-ushiro-kara-omocha-ni-sarete"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

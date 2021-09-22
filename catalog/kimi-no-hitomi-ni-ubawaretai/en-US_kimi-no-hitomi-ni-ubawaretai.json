@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Hitomi ni Ubawaretai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244891.jpg",
+        "alt": "kimi-no-hitomi-ni-ubawaretai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

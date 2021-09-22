@@ -1,5 +1,9 @@
 {
     "title": "Wanpi De Kexue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1805/115640.jpg",
+        "alt": "wanpi-de-kexue"
+    },
     "type": "tv-serie",
     "episodes": "84",
     "original_name": "顽皮的科学",

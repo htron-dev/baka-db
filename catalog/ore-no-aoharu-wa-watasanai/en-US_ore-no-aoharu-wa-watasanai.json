@@ -1,5 +1,9 @@
 {
     "title": "Ore no Aoharu wa Watasanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237846.jpg",
+        "alt": "ore-no-aoharu-wa-watasanai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

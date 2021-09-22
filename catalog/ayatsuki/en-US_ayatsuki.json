@@ -1,5 +1,9 @@
 {
     "title": "Ayatsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/197341.jpg",
+        "alt": "ayatsuki"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

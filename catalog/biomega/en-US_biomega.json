@@ -1,5 +1,9 @@
 {
     "title": "Biomega",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/211783.jpg",
+        "alt": "biomega"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "43",

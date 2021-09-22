@@ -1,5 +1,9 @@
 {
     "title": "Fireball Charming",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/28791.jpg",
+        "alt": "fireball-charming"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ファイアボール チャーミング",

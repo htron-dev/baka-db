@@ -1,5 +1,9 @@
 {
     "title": "Kizu darake no Otokotachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41124.jpg",
+        "alt": "kizu-darake-no-otokotachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

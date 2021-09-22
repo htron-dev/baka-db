@@ -1,5 +1,9 @@
 {
     "title": "Persona 3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2888.jpg",
+        "alt": "persona-3"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "50",

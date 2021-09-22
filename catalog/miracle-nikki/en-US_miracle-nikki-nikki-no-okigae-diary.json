@@ -1,5 +1,9 @@
 {
     "title": "Miracle Nikki: Nikki no Okigae Diary",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225657.jpg",
+        "alt": "miracle-nikki-nikki-no-okigae-diary"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Fujunai Process",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223540.jpg",
+        "alt": "fujunai-process"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

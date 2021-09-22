@@ -1,5 +1,9 @@
 {
     "title": "Rekkoku Rikugun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/86972.jpg",
+        "alt": "rekkoku-rikugun"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "漫画の列国陸軍",

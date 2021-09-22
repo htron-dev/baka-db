@@ -1,7 +1,11 @@
 {
     "title": "Pino",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247800.jpg",
+        "alt": "pino"
+    },
     "type": "manga",
-    "original_name": "ピノ",
+    "original_name": "ピノ:PINO",
     "start_date": "2020-06-02",
     "end_date": "2020-06-02",
     "tags": [

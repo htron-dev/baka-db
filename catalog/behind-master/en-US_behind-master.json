@@ -1,5 +1,9 @@
 {
     "title": "Behind Master",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31901.jpg",
+        "alt": "behind-master"
+    },
     "type": "manga",
     "volumes": "6",
     "start_date": "2002-09-20",

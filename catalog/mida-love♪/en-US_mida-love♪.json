@@ -1,5 +1,9 @@
 {
     "title": "Mida Love♪",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189425.jpg",
+        "alt": "mida-love♪"
+    },
     "type": "manga",
     "original_name": "みだ LOVE♪",
     "start_date": "2016-05-27",

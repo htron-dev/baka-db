@@ -1,5 +1,9 @@
 {
     "title": "Shadow Skill",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/117535.jpg",
+        "alt": "shadow-skill"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

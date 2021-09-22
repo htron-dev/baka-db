@@ -1,5 +1,9 @@
 {
     "title": "Comfortable and Happy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/128355.jpg",
+        "alt": "comfortable-and-happy"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "15",

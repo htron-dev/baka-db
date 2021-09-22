@@ -1,5 +1,9 @@
 {
     "title": "Yuukoku no Moriarty",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186121.jpg",
+        "alt": "yuukoku-no-moriarty"
+    },
     "type": "manga",
     "original_name": "憂国のモリアーティ",
     "start_date": "2016-08-04",

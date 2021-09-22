@@ -1,5 +1,9 @@
 {
     "title": "Goumaden Shuten Douji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/117673.jpg",
+        "alt": "goumaden-shuten-douji"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "39",

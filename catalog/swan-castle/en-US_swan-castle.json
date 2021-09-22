@@ -1,5 +1,9 @@
 {
     "title": "Swan Castle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/109457.jpg",
+        "alt": "swan-castle"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "5",

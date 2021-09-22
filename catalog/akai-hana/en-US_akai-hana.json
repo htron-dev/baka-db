@@ -1,5 +1,9 @@
 {
     "title": "Akai Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171225.jpg",
+        "alt": "akai-hana"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "6",

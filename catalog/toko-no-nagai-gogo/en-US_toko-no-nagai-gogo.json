@@ -1,5 +1,9 @@
 {
     "title": "Toko no Nagai Gogo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/98289.jpg",
+        "alt": "toko-no-nagai-gogo"
+    },
     "type": "manga",
     "original_name": "トコの長い午後",
     "start_date": "2012-11-16",

@@ -1,5 +1,9 @@
 {
     "title": "Kore ga Watashi no Goshujinsama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/80500.jpg",
+        "alt": "kore-ga-watashi-no-goshujinsama"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "これが私の御主人様",

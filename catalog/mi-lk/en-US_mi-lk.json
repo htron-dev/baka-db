@@ -1,5 +1,9 @@
 {
     "title": "MiLK",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31172.jpg",
+        "alt": "mi-lk"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ミルク",

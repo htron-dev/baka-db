@@ -1,5 +1,9 @@
 {
     "title": "Kamisama no Memochou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159505.jpg",
+        "alt": "kamisama-no-memochou"
+    },
     "type": "light-novel",
     "volumes": "9",
     "chapters": "57",

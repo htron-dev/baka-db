@@ -1,5 +1,9 @@
 {
     "title": "Ojousama wa Nigedashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/121331.jpg",
+        "alt": "ojousama-wa-nigedashita"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

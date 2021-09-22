@@ -1,5 +1,9 @@
 {
     "title": "Rindo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/41023.jpg",
+        "alt": "rindo"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "97",

@@ -1,5 +1,9 @@
 {
     "title": "Hanawa Kazuichi Shoki Sakuhinshu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184926.jpg",
+        "alt": "hanawa-kazuichi-shoki-sakuhinshu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

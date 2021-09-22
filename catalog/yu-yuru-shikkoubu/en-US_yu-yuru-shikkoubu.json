@@ -1,5 +1,9 @@
 {
     "title": "Yu-yuru Shikkoubu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/25145.jpg",
+        "alt": "yu-yuru-shikkoubu"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ゆーゆる執行部",

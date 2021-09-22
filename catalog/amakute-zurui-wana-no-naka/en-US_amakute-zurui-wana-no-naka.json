@@ -1,5 +1,9 @@
 {
     "title": "Amakute Zurui Wana no Naka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169396.jpg",
+        "alt": "amakute-zurui-wana-no-naka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

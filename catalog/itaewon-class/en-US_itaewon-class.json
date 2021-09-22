@@ -1,5 +1,9 @@
 {
     "title": "Itaewon Class",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235911.jpg",
+        "alt": "itaewon-class"
+    },
     "type": "manhwa",
     "volumes": "8",
     "chapters": "80",

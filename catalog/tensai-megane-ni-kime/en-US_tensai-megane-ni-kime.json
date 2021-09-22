@@ -1,5 +1,9 @@
 {
     "title": "Tensai Megane ni Kime!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5798.jpg",
+        "alt": "tensai-megane-ni-kime"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

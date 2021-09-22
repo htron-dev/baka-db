@@ -1,5 +1,9 @@
 {
     "title": "Sakana no Kuni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/84409.jpg",
+        "alt": "sakana-no-kuni"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "魚の國",

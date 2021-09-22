@@ -1,5 +1,9 @@
 {
     "title": "Tokimusubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/96443.jpg",
+        "alt": "tokimusubi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

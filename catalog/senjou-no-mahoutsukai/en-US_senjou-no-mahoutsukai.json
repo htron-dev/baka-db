@@ -1,5 +1,9 @@
 {
     "title": "Senjou no Mahoutsukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161666.jpg",
+        "alt": "senjou-no-mahoutsukai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "26",

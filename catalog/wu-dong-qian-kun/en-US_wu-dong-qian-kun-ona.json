@@ -1,5 +1,9 @@
 {
     "title": "Wu Dong Qian Kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1857/98299.jpg",
+        "alt": "wu-dong-qian-kun"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "武动乾坤",

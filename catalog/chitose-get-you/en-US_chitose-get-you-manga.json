@@ -1,5 +1,9 @@
 {
     "title": "Chitose Get You!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/138939.jpg",
+        "alt": "chitose-get-you"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "202",

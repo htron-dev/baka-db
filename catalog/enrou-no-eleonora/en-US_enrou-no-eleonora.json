@@ -1,5 +1,9 @@
 {
     "title": "Enrou no Eleonora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185272.jpg",
+        "alt": "enrou-no-eleonora"
+    },
     "type": "light-novel",
     "original_name": "焔狼のエレオノラ",
     "start_date": "2016-11-02",

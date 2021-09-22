@@ -1,5 +1,9 @@
 {
     "title": "Himitsu x Himitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245469.jpg",
+        "alt": "himitsu-x-himitsu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "30",

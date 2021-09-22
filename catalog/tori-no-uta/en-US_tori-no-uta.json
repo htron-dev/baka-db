@@ -1,5 +1,9 @@
 {
     "title": "Tori no Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/81195.jpg",
+        "alt": "tori-no-uta"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "鳥の歌",

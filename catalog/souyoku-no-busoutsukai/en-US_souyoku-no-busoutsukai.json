@@ -1,5 +1,9 @@
 {
     "title": "Souyoku no Busoutsukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246051.jpg",
+        "alt": "souyoku-no-busoutsukai"
+    },
     "type": "manga",
     "original_name": "双翼の武装使い",
     "start_date": "2021-02-12",

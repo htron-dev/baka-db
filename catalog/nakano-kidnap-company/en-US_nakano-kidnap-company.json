@@ -1,5 +1,9 @@
 {
     "title": "Nakano Kidnap Company",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163463.jpg",
+        "alt": "nakano-kidnap-company"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

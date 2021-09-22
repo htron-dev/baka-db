@@ -1,5 +1,9 @@
 {
     "title": "Mitsuyoshi: Kanketsuhen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192972.jpg",
+        "alt": "mitsuyoshi-kanketsuhen"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

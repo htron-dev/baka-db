@@ -1,5 +1,9 @@
 {
     "title": "Birth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201290.jpg",
+        "alt": "birth"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "17",

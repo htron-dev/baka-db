@@ -1,5 +1,9 @@
 {
     "title": "Manga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/16397.jpg",
+        "alt": "manga"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "漫画",

@@ -1,5 +1,9 @@
 {
     "title": "Saru Kani Gassen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/72014.jpg",
+        "alt": "saru-kani-gassen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "サルカニ合戦",

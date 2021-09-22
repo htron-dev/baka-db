@@ -1,5 +1,9 @@
 {
     "title": "Osiris no Tenbin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/75432.jpg",
+        "alt": "osiris-no-tenbin"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "オシリスの天秤",

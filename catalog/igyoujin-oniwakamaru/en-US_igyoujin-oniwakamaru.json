@@ -1,5 +1,9 @@
 {
     "title": "Igyoujin Oniwakamaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/85373.jpg",
+        "alt": "igyoujin-oniwakamaru"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "33",

@@ -1,5 +1,9 @@
 {
     "title": "Granblue Fantasy: Souken no Kizuna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190007.jpg",
+        "alt": "granblue-fantasy-souken-no-kizuna"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

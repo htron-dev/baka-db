@@ -1,5 +1,9 @@
 {
     "title": "Umineko no Naku Koro ni Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/18234.jpg",
+        "alt": "umineko-no-naku-koro-ni-specials"
+    },
     "type": "special",
     "episodes": "26",
     "original_name": "うみねこのなく頃に",

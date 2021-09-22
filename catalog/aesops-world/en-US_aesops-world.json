@@ -1,5 +1,9 @@
 {
     "title": "Aesop's World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/72148.jpg",
+        "alt": "aesops-world"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "イソップ・ワールド",

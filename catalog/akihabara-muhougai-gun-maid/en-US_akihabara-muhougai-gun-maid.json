@@ -1,5 +1,9 @@
 {
     "title": "Akihabara Muhougai: Gun Maid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155144.jpg",
+        "alt": "akihabara-muhougai-gun-maid"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

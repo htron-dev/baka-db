@@ -1,5 +1,9 @@
 {
     "title": "4-gatsu 4-kka.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/121265.jpg",
+        "alt": "4-gatsu-4-kka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Kyokou no Ou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/60685.jpg",
+        "alt": "kyokou-no-ou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

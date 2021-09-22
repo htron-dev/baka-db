@@ -1,5 +1,9 @@
 {
     "title": "Satoshi to Pikachu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/156351.jpg",
+        "alt": "satoshi-to-pikachu"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "36",

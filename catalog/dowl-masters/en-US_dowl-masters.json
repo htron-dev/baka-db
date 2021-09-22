@@ -1,5 +1,9 @@
 {
     "title": "DOWL Masters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/206848.jpg",
+        "alt": "dowl-masters"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "27",

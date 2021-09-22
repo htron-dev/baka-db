@@ -1,5 +1,9 @@
 {
     "title": "Shiratama Kyouju no Shironeko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/209506.jpg",
+        "alt": "shiratama-kyouju-no-shironeko"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "33",

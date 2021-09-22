@@ -1,5 +1,9 @@
 {
     "title": "Overflow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1781/104461.jpg",
+        "alt": "overflow"
+    },
     "type": "tv-serie",
     "episodes": "8",
     "original_name": "おーばーふろぉ",

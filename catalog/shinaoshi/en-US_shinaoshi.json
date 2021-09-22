@@ -1,5 +1,9 @@
 {
     "title": "Shinaoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/102725.jpg",
+        "alt": "shinaoshi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "17",

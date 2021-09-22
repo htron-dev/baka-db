@@ -1,5 +1,9 @@
 {
     "title": "Boku Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188806.jpg",
+        "alt": "boku-girl"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "107",

@@ -1,5 +1,9 @@
 {
     "title": "Zzim!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205621.jpg",
+        "alt": "zzim"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "18",

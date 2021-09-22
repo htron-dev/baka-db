@@ -1,5 +1,9 @@
 {
     "title": "Shoujo, Shoujo, Shoujo nano.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172443.jpg",
+        "alt": "shoujo-shoujo-shoujo-nano"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

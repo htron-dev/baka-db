@@ -1,5 +1,9 @@
 {
     "title": "Time on the Planet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1532/90975.jpg",
+        "alt": "time-on-the-planet"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "TIME ON THE PLANET",

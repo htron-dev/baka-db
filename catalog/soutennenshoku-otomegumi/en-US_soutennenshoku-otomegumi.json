@@ -1,5 +1,9 @@
 {
     "title": "Soutennenshoku Otomegumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31723.jpg",
+        "alt": "soutennenshoku-otomegumi"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "総天然色乙女組",

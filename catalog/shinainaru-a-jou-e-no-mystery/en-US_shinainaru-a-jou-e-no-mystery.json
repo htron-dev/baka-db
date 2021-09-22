@@ -1,5 +1,9 @@
 {
     "title": "Shinainaru A-jou e no Mystery",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193588.jpg",
+        "alt": "shinainaru-a-jou-e-no-mystery"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Re:make",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165193.jpg",
+        "alt": "re-make"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "43",

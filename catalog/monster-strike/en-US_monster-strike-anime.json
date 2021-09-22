@@ -1,5 +1,9 @@
 {
     "title": "Monster Strike Anime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/84735.jpg",
+        "alt": "monster-strike-anime"
+    },
     "type": "ona",
     "episodes": "23",
     "original_name": "モンストアニメ",

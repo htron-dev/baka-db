@@ -1,5 +1,9 @@
 {
     "title": "Prayers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/2894.jpg",
+        "alt": "prayers"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "プレイヤーズ",

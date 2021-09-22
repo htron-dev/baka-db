@@ -1,5 +1,9 @@
 {
     "title": "Worku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/18022.jpg",
+        "alt": "worku"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "WORKU (ウォルク)",
@@ -18,7 +22,7 @@
         },
         {
             "text": "Official Site",
-            "link": "http:// http://www.otomeru.com/worku/index.html"
+            "link": "http://www.otomeru.com/worku/index.html"
         }
     ]
 }

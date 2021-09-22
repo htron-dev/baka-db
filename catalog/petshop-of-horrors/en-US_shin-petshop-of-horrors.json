@@ -1,5 +1,9 @@
 {
     "title": "Shin Petshop of Horrors",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/117839.jpg",
+        "alt": "shin-petshop-of-horrors"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "45",

@@ -1,5 +1,9 @@
 {
     "title": "Tsubaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/98323.jpg",
+        "alt": "tsubaki"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

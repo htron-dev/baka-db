@@ -1,5 +1,9 @@
 {
     "title": "Hanayome wa Zettai Zetsumei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229732.jpg",
+        "alt": "hanayome-wa-zettai-zetsumei"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "花嫁は絶体絶命",

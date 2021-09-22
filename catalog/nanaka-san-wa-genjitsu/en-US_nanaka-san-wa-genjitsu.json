@@ -1,5 +1,9 @@
 {
     "title": "Nanaka-san wa Genjitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/114141.jpg",
+        "alt": "nanaka-san-wa-genjitsu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ななかさんは現実",

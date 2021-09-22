@@ -1,5 +1,9 @@
 {
     "title": "Kakyuu: Aiyoku no Kumotsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/182811.jpg",
+        "alt": "kakyuu-aiyoku-no-kumotsu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

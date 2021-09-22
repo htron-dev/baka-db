@@ -1,5 +1,9 @@
 {
     "title": "Shouwa Genroku Rakugo Shinjuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149738.jpg",
+        "alt": "shouwa-genroku-rakugo-shinjuu"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "31",

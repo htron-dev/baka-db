@@ -1,5 +1,9 @@
 {
     "title": "Bakuman.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/208974.jpg",
+        "alt": "bakuman"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "176",

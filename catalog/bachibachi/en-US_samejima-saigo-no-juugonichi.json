@@ -1,5 +1,9 @@
 {
     "title": "Samejima, Saigo no Juugonichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/214601.jpg",
+        "alt": "samejima-saigo-no-juugonichi"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "176",

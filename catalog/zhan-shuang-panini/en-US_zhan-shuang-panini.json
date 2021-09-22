@@ -1,5 +1,9 @@
 {
     "title": "Zhan Shuang Panini",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1045/109449.jpg",
+        "alt": "zhan-shuang-panini"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "战双帕尼尼",

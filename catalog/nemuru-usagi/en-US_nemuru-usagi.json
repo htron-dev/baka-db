@@ -1,5 +1,9 @@
 {
     "title": "Nemuru Usagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/27877.jpg",
+        "alt": "nemuru-usagi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "眠る兎",

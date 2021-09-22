@@ -1,5 +1,9 @@
 {
     "title": "Magical Nyan Nyan Taruto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/952.jpg",
+        "alt": "magical-nyan-nyan-taruto"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "魔法少女猫[まじかる にゃん にゃん]たると",

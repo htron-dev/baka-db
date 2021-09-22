@@ -1,5 +1,9 @@
 {
     "title": "Kishidou Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/62029.jpg",
+        "alt": "kishidou-club"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

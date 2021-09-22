@@ -1,5 +1,9 @@
 {
     "title": "Dear, Crazy Monster",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196162.jpg",
+        "alt": "dear-crazy-monster"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

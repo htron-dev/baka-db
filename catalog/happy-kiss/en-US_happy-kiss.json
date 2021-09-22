@@ -1,5 +1,9 @@
 {
     "title": "Happy Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193595.jpg",
+        "alt": "happy-kiss"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

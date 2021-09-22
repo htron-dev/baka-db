@@ -1,5 +1,9 @@
 {
     "title": "Nemuri no Fuchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152434.jpg",
+        "alt": "nemuri-no-fuchi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

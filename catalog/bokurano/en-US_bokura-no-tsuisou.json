@@ -1,5 +1,9 @@
 {
     "title": "Bokura no: Tsuisou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/36163.jpg",
+        "alt": "bokura-no-tsuisou"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ぼくらの",

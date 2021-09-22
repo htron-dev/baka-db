@@ -1,5 +1,9 @@
 {
     "title": "Shitsuji-tachi no Chinmoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190021.jpg",
+        "alt": "shitsuji-tachi-no-chinmoku"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "60",

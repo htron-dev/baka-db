@@ -1,5 +1,9 @@
 {
     "title": "Hen The Classroom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162462.jpg",
+        "alt": "hen-the-classroom"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

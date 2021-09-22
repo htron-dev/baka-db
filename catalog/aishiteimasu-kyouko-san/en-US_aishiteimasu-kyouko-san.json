@@ -1,5 +1,9 @@
 {
     "title": "Aishiteimasu, Kyouko-san.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229583.jpg",
+        "alt": "aishiteimasu-kyouko-san"
+    },
     "type": "manga",
     "original_name": "愛しています、キョーコさん",
     "start_date": "2019-05-07",

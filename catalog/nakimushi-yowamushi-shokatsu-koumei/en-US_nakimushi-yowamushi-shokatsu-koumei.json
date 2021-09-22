@@ -1,5 +1,9 @@
 {
     "title": "Nakimushi Yowamushi Shokatsu Koumei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/210656.jpg",
+        "alt": "nakimushi-yowamushi-shokatsu-koumei"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

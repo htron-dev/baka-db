@@ -1,5 +1,9 @@
 {
     "title": "Toki wo Kakeru Shoujo: Tokikake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/120297.jpg",
+        "alt": "toki-wo-kakeru-shoujo-tokikake"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

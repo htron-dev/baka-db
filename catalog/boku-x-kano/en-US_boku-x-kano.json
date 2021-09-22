@@ -1,5 +1,9 @@
 {
     "title": "Boku x Kano",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247136.jpg",
+        "alt": "boku-x-kano"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

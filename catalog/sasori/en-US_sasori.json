@@ -1,5 +1,9 @@
 {
     "title": "Sasori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/150275.jpg",
+        "alt": "sasori"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "95",

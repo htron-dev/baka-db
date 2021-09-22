@@ -1,5 +1,9 @@
 {
     "title": "Happy End wo Shinjiteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223711.jpg",
+        "alt": "happy-end-wo-shinjiteru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

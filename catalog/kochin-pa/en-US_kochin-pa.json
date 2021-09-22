@@ -1,5 +1,9 @@
 {
     "title": "KochinPa!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/77754.jpg",
+        "alt": "kochin-pa"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "コチン Pa！",

@@ -1,5 +1,9 @@
 {
     "title": "Inu to Watashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35847.jpg",
+        "alt": "inu-to-watashi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "犬と私",

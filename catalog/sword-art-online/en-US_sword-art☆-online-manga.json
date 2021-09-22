@@ -1,5 +1,9 @@
 {
     "title": "Sword Art☆Online.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185073.jpg",
+        "alt": "sword-art☆-online"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "39",

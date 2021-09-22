@@ -1,5 +1,9 @@
 {
     "title": "Anne Freaks",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/26068.jpg",
+        "alt": "anne-freaks"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

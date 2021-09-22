@@ -1,5 +1,9 @@
 {
     "title": "Youto Chinkonka - Tokyo Requiem",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/17229.jpg",
+        "alt": "youto-chinkonka-tokyo-requiem"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "妖都鎮魂歌　トーキョーレクイエム",

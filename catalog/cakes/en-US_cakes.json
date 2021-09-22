@@ -1,5 +1,9 @@
 {
     "title": "Cakes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/81523.jpg",
+        "alt": "cakes"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "Cakes",

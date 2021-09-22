@@ -1,5 +1,9 @@
 {
     "title": "Phantasy Star Online 2: Episode 0",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198580.jpg",
+        "alt": "phantasy-star-online-2-episode-0"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

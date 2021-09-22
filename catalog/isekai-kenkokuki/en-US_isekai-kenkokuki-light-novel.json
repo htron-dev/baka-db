@@ -1,5 +1,9 @@
 {
     "title": "Isekai Kenkokuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200878.jpg",
+        "alt": "isekai-kenkokuki"
+    },
     "type": "light-novel",
     "original_name": "異世界建国記",
     "start_date": "2017-08-30",

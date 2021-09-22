@@ -1,5 +1,9 @@
 {
     "title": "Kono Yoru no Subete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39163.jpg",
+        "alt": "kono-yoru-no-subete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

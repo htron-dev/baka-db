@@ -1,5 +1,9 @@
 {
     "title": "Busu ni Hanataba wo.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200089.jpg",
+        "alt": "busu-ni-hanataba-wo"
+    },
     "type": "manga",
     "original_name": "ブスに花束を。",
     "start_date": "2016-04-04",

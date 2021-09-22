@@ -1,5 +1,9 @@
 {
     "title": "Mouretsu Pirates: Abyss of Hyperspace",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161607.jpg",
+        "alt": "mouretsu-pirates-abyss-of-hyperspace"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

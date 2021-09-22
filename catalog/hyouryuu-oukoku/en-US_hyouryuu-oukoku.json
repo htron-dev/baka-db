@@ -1,5 +1,9 @@
 {
     "title": "Hyouryuu Oukoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169010.jpg",
+        "alt": "hyouryuu-oukoku"
+    },
     "type": "light-novel",
     "original_name": "漂流王国",
     "start_date": "2016-01-01",

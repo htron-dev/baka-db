@@ -1,5 +1,9 @@
 {
     "title": "Utakata ni Warau",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224884.jpg",
+        "alt": "utakata-ni-warau"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

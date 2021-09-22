@@ -1,5 +1,9 @@
 {
     "title": "Layered Summer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164746.jpg",
+        "alt": "layered-summer"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "レイヤード・サマー",

@@ -1,5 +1,9 @@
 {
     "title": "Chijou de Ichiban Ikenai Chijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169739.jpg",
+        "alt": "chijou-de-ichiban-ikenai-chijou"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

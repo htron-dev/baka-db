@@ -1,5 +1,9 @@
 {
     "title": "Digital Manga Death",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165680.jpg",
+        "alt": "digital-manga-death"
+    },
     "type": "manga",
     "original_name": "デジマンデス",
     "start_date": "2014-07-26",

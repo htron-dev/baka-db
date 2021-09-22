@@ -1,5 +1,9 @@
 {
     "title": "Tenshoku★Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/37138.jpg",
+        "alt": "tenshoku★-shounen"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "天色 ★ 少年",

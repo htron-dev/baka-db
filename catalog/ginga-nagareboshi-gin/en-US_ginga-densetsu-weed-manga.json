@@ -1,5 +1,9 @@
 {
     "title": "Ginga Densetsu Weed",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/180197.jpg",
+        "alt": "ginga-densetsu-weed"
+    },
     "type": "manga",
     "volumes": "60",
     "chapters": "500",

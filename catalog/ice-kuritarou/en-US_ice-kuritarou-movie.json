@@ -1,5 +1,9 @@
 {
     "title": "Ice Kuritarou (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1487/93115.jpg",
+        "alt": "ice-kuritarou-movie"
+    },
     "type": "movie",
     "episodes": "3",
     "original_name": "アイスくりたろう",

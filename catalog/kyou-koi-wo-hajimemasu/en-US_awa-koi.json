@@ -1,5 +1,9 @@
 {
     "title": "Awa Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190274.jpg",
+        "alt": "awa-koi"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "29",

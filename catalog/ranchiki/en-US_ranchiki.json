@@ -1,5 +1,9 @@
 {
     "title": "Ranchiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/87455.jpg",
+        "alt": "ranchiki"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "ランチキ",

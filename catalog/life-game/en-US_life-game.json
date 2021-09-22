@@ -1,5 +1,9 @@
 {
     "title": "Life Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227204.jpg",
+        "alt": "life-game"
+    },
     "type": "manga",
     "chapters": "56",
     "original_name": "LIFE GAME",

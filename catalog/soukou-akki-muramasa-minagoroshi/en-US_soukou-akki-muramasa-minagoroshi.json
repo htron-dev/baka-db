@@ -1,5 +1,9 @@
 {
     "title": "Soukou Akki Muramasa: Minagoroshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/144333.jpg",
+        "alt": "soukou-akki-muramasa-minagoroshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

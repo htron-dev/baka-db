@@ -1,5 +1,9 @@
 {
     "title": "Bocchiman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/133273.jpg",
+        "alt": "bocchiman"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

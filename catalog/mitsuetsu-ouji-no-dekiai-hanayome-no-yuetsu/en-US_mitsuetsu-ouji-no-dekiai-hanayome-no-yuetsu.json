@@ -1,5 +1,9 @@
 {
     "title": "Mitsuetsu: Ouji no Dekiai, Hanayome no Yuetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/182264.jpg",
+        "alt": "mitsuetsu-ouji-no-dekiai-hanayome-no-yuetsu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

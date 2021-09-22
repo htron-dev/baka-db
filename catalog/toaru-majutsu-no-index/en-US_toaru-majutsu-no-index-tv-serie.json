@@ -1,12 +1,16 @@
 {
     "title": "Toaru Majutsu no Index",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/75533.jpg",
+        "alt": "toaru-majutsu-no-index"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "とある魔術の禁書目録",
     "start_date": "2008-10-05",
     "end_date": "2008-10-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"PSI-missing\" by Mami Kawada (eps 1-14)",
+    "ending_song": "#1: \"Rimless ~Fuchinashi no Sekai~ (Rimless ～フチナシノセカイ～)\" by IKU (eps 1-19)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Ryoushi Majutsu no Regalia Collection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196111.jpg",
+        "alt": "ryoushi-majutsu-no-regalia-collection"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "10",

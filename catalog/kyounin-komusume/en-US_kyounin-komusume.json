@@ -1,5 +1,9 @@
 {
     "title": "Kyounin Komusume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26663.jpg",
+        "alt": "kyounin-komusume"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "杏仁小娘",

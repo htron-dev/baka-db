@@ -1,5 +1,9 @@
 {
     "title": "Shoujo Tsubaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/176724.jpg",
+        "alt": "shoujo-tsubaki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

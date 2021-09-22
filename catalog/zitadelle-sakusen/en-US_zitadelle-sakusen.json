@@ -1,5 +1,9 @@
 {
     "title": "Zitadelle Sakusen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/131919.jpg",
+        "alt": "zitadelle-sakusen"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ツィタデル作戦",

@@ -1,5 +1,9 @@
 {
     "title": "Passionate Two-Face",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/21180.jpg",
+        "alt": "passionate-two-face"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "22",

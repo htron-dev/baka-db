@@ -1,5 +1,9 @@
 {
     "title": "Kodomo no Omocha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159410.jpg",
+        "alt": "kodomo-no-omocha"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "54",

@@ -1,5 +1,9 @@
 {
     "title": "Grand Chase",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34830.jpg",
+        "alt": "grand-chase"
+    },
     "type": "manhwa",
     "volumes": "30",
     "chapters": "150",

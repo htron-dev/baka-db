@@ -1,5 +1,9 @@
 {
     "title": "Giant Killing",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/147425.jpg",
+        "alt": "giant-killing"
+    },
     "type": "manga",
     "original_name": "GIANT KILLING",
     "start_date": "2007-01-11",

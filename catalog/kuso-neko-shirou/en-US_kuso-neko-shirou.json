@@ -1,5 +1,9 @@
 {
     "title": "Kuso Neko Shirou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171675.jpg",
+        "alt": "kuso-neko-shirou"
+    },
     "type": "manga",
     "chapters": "16",
     "original_name": "クソ猫シロー",

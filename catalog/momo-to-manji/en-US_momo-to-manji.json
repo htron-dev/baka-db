@@ -1,5 +1,9 @@
 {
     "title": "Momo to Manji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/208469.jpg",
+        "alt": "momo-to-manji"
+    },
     "type": "manga",
     "original_name": "百と卍",
     "start_date": "2015-05-25",

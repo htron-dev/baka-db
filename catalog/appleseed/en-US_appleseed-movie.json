@@ -1,5 +1,9 @@
 {
     "title": "Appleseed (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/57231.jpg",
+        "alt": "appleseed-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "アップルシード",

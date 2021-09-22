@@ -1,5 +1,9 @@
 {
     "title": "O.Shi.Go.To.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/64213.jpg",
+        "alt": "o-shi-go-to"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "O.SHI.GO.TO. オ.シ.ゴ.ト.",

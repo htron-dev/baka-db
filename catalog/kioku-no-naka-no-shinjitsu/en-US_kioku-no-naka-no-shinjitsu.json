@@ -1,5 +1,9 @@
 {
     "title": "Kioku no Naka no Shinjitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/231860.jpg",
+        "alt": "kioku-no-naka-no-shinjitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "記憶のなかの真実",

@@ -1,5 +1,9 @@
 {
     "title": "Kinpatsu no Sougen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18452.jpg",
+        "alt": "kinpatsu-no-sougen"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "金髪の草原",

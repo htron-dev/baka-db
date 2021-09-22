@@ -1,5 +1,9 @@
 {
     "title": "Jashin Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174810.jpg",
+        "alt": "jashin-densetsu"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "13",

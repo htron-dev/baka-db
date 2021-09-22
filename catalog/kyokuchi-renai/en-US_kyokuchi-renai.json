@@ -1,5 +1,9 @@
 {
     "title": "Kyokuchi Renai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151953.jpg",
+        "alt": "kyokuchi-renai"
+    },
     "type": "light-novel",
     "original_name": "極地恋愛",
     "start_date": "2015-03-12",

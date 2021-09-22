@@ -1,5 +1,9 @@
 {
     "title": "I Accept You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156340.jpg",
+        "alt": "i-accept-you"
+    },
     "type": "manhwa",
     "volumes": "6",
     "chapters": "24",

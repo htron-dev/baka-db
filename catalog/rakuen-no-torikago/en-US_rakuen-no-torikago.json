@@ -1,5 +1,9 @@
 {
     "title": "Rakuen no Torikago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/130199.jpg",
+        "alt": "rakuen-no-torikago"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "楽園の鳥篭",

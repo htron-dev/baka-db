@@ -1,5 +1,9 @@
 {
     "title": "Utsu Musume Sayuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/37519.jpg",
+        "alt": "utsu-musume-sayuri"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "打つ娘サユリ",

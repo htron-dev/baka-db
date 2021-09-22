@@ -1,5 +1,9 @@
 {
     "title": "2×2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32464.jpg",
+        "alt": "2-2"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "108",

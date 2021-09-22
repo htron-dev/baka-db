@@ -1,5 +1,9 @@
 {
     "title": "Knife Edge Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/34150.jpg",
+        "alt": "knife-edge-girl"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

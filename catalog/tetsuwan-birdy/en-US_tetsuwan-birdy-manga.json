@@ -1,5 +1,9 @@
 {
     "title": "Tetsuwan Birdy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179604.jpg",
+        "alt": "tetsuwan-birdy"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "218",

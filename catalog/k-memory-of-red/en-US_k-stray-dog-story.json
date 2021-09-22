@@ -1,5 +1,9 @@
 {
     "title": "K: Stray Dog Story",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176955.jpg",
+        "alt": "k-stray-dog-story"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

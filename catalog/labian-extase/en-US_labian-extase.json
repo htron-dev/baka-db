@@ -1,5 +1,9 @@
 {
     "title": "Labian Extase",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/141253.jpg",
+        "alt": "labian-extase"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ラビアンエクスタス",

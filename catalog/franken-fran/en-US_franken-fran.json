@@ -1,5 +1,9 @@
 {
     "title": "Franken Fran",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150351.jpg",
+        "alt": "franken-fran"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "71",

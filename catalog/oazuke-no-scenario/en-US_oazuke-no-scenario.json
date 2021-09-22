@@ -1,5 +1,9 @@
 {
     "title": "Oazuke no Scenario",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/223393.jpg",
+        "alt": "oazuke-no-scenario"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

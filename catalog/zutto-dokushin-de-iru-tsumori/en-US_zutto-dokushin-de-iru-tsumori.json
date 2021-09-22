@@ -1,5 +1,9 @@
 {
     "title": "Zutto Dokushin de Iru Tsumori?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169234.jpg",
+        "alt": "zutto-dokushin-de-iru-tsumori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

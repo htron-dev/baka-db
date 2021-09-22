@@ -1,12 +1,16 @@
 {
     "title": "Miyuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/50245.jpg",
+        "alt": "miyuki"
+    },
     "type": "tv-serie",
     "episodes": "37",
     "original_name": "みゆき",
     "start_date": "1983-03-31",
     "end_date": "1983-03-31",
     "opening_song": "\"10% no Ame Yohou (10%の雨予報)\" by H2O",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Omoide ga Ippai\" by H2O",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "romance",

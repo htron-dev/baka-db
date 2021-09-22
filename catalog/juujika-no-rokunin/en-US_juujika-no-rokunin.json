@@ -1,5 +1,9 @@
 {
     "title": "Juujika no Rokunin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/234431.jpg",
+        "alt": "juujika-no-rokunin"
+    },
     "type": "manga",
     "original_name": "十字架のろくにん",
     "start_date": "2020-03-09",

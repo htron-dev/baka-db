@@ -1,5 +1,9 @@
 {
     "title": "Mitsudomoe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163012.jpg",
+        "alt": "mitsudomoe"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "349",

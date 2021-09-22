@@ -1,5 +1,9 @@
 {
     "title": "Jotei: Yuna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/143685.jpg",
+        "alt": "jotei-yuna"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "女帝 由奈",

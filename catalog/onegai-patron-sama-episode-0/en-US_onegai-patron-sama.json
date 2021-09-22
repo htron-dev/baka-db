@@ -1,5 +1,9 @@
 {
     "title": "Onegai Patron-sama!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1521/109423.jpg",
+        "alt": "onegai-patron-sama"
+    },
     "type": "ona",
     "original_name": "おねがいっパトロンさま！",
     "start_date": "2020-10-18",

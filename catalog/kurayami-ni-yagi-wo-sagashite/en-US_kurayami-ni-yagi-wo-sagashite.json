@@ -1,5 +1,9 @@
 {
     "title": "Kurayami ni Yagi wo Sagashite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163268.jpg",
+        "alt": "kurayami-ni-yagi-wo-sagashite"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "30",

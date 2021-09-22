@@ -1,5 +1,9 @@
 {
     "title": "Akachan to Boku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179184.jpg",
+        "alt": "akachan-to-boku"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "108",

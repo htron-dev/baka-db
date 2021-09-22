@@ -1,5 +1,9 @@
 {
     "title": "Suna wo Kizamu Hari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/119691.jpg",
+        "alt": "suna-wo-kizamu-hari"
+    },
     "type": "manga",
     "original_name": "砂を刻む針",
     "start_date": "2013-12-21",

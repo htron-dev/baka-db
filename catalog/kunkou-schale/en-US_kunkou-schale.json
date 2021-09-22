@@ -1,5 +1,9 @@
 {
     "title": "Kunkou Schale",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/189286.jpg",
+        "alt": "kunkou-schale"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

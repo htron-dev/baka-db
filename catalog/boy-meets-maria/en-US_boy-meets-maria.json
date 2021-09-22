@@ -1,5 +1,9 @@
 {
     "title": "Boy Meets Maria",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225981.jpg",
+        "alt": "boy-meets-maria"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

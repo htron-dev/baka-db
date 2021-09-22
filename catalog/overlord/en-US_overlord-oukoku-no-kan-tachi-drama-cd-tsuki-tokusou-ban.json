@@ -1,5 +1,9 @@
 {
     "title": "Overlord: Oukoku no Kan-tachi - Drama CD-tsuki Tokusou-ban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1441/92708.jpg",
+        "alt": "overlord-oukoku-no-kan-tachi-drama-cd-tsuki-tokusou-ban"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "オーバーロード６ 王国の漢たち[下]【ドラマＣＤ付特装版】",
@@ -24,7 +28,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%89_(%E5%B0%8F%E8%AA%AC"
+            "link": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%89_%28%E5%B0%8F%E8%AA%AC%29"
         }
     ]
 }

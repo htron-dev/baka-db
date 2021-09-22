@@ -1,5 +1,9 @@
 {
     "title": "Wonder Rabbit Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163538.jpg",
+        "alt": "wonder-rabbit-girl"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "27",

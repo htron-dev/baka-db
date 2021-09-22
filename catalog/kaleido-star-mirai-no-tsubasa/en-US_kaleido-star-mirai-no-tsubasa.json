@@ -1,5 +1,9 @@
 {
     "title": "Kaleido Star: Mirai no Tsubasa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/133055.jpg",
+        "alt": "kaleido-star-mirai-no-tsubasa"
+    },
     "type": "manga",
     "chapters": "6",
     "original_name": "カレイドスター 〜未来への翼〜",

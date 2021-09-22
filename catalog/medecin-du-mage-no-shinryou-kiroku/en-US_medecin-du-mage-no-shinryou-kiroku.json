@@ -1,5 +1,9 @@
 {
     "title": "Médecin du Mage no Shinryou Kiroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185977.jpg",
+        "alt": "medecin-du-mage-no-shinryou-kiroku"
+    },
     "type": "light-novel",
     "volumes": "7",
     "chapters": "48",

@@ -1,5 +1,9 @@
 {
     "title": "Terra Formars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/67117.jpg",
+        "alt": "terra-formars"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "TERRA FORMARS [テラフォーマーズ]",

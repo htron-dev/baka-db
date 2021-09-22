@@ -1,5 +1,9 @@
 {
     "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/121555.jpg",
+        "alt": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "89",

@@ -1,5 +1,9 @@
 {
     "title": "Shade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/43801.jpg",
+        "alt": "shade"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Genocyber",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/3751.jpg",
+        "alt": "genocyber"
+    },
     "type": "ova",
     "episodes": "5",
     "original_name": "ジェノサイバー",

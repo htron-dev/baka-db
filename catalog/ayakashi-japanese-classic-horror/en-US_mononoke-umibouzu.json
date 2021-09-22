@@ -1,5 +1,9 @@
 {
     "title": "Mononoke: Umibouzu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/155676.jpg",
+        "alt": "mononoke-umibouzu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

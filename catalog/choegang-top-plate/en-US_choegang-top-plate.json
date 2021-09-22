@@ -1,5 +1,9 @@
 {
     "title": "Choegang Top Plate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/75021.jpg",
+        "alt": "choegang-top-plate"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "최강 탑플레이트",

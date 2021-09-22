@@ -1,5 +1,9 @@
 {
     "title": "Hajimari no Glashma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/3319.jpg",
+        "alt": "hajimari-no-glashma"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

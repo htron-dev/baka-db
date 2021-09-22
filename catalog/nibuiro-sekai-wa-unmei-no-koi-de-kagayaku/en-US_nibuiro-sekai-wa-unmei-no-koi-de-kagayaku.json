@@ -1,5 +1,9 @@
 {
     "title": "Nibuiro Sekai wa Unmei no Koi de Kagayaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194397.jpg",
+        "alt": "nibuiro-sekai-wa-unmei-no-koi-de-kagayaku"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

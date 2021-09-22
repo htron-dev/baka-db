@@ -1,5 +1,9 @@
 {
     "title": "Uchi no Ko ni Narinasai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/86067.jpg",
+        "alt": "uchi-no-ko-ni-narinasai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

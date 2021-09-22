@@ -1,5 +1,9 @@
 {
     "title": "Getsumen To Heiki Mina Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/17761.jpg",
+        "alt": "getsumen-to-heiki-mina-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "月面兎兵器ミーナ",

@@ -1,5 +1,9 @@
 {
     "title": "Zetsubou no Eve",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166839.jpg",
+        "alt": "zetsubou-no-eve"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

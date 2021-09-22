@@ -1,5 +1,9 @@
 {
     "title": "Oto x Maho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158432.jpg",
+        "alt": "oto-x-maho"
+    },
     "type": "light-novel",
     "volumes": "16",
     "chapters": "154",

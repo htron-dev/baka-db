@@ -1,12 +1,16 @@
 {
     "title": "Mai-Otome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/46897.jpg",
+        "alt": "mai-otome"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "舞-乙 HiME",
     "start_date": "2005-10-07",
     "end_date": "2005-10-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Dream Wing\" by Minami Kuribayashi (eps 1-15)",
+    "ending_song": "#1: \"Otome wa DO MY BEST deshou?\" by Mika Kikuchi and Ami Koshimizu",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

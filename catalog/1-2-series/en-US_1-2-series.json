@@ -1,5 +1,9 @@
 {
     "title": "1/2 Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26688.jpg",
+        "alt": "1-2-series"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "1/2 ハネムーン",

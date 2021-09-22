@@ -1,5 +1,9 @@
 {
     "title": "Dawn: Tsumetai Te",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150345.jpg",
+        "alt": "dawn-tsumetai-te"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "37",

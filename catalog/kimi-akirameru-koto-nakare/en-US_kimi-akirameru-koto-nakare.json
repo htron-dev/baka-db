@@ -1,5 +1,9 @@
 {
     "title": "Kimi Akirameru Koto Nakare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247446.jpg",
+        "alt": "kimi-akirameru-koto-nakare"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

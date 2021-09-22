@@ -1,5 +1,9 @@
 {
     "title": "Lord",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/75203.jpg",
+        "alt": "lord"
+    },
     "type": "manga",
     "volumes": "22",
     "chapters": "154",

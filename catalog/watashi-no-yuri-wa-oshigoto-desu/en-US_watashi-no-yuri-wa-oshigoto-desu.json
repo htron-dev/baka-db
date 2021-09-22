@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Yuri wa Oshigoto desu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/197358.jpg",
+        "alt": "watashi-no-yuri-wa-oshigoto-desu"
+    },
     "type": "manga",
     "original_name": "私の百合はお仕事です！",
     "start_date": "2016-11-18",

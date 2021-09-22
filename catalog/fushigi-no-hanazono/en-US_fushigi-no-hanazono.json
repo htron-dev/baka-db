@@ -1,5 +1,9 @@
 {
     "title": "Fushigi no Hanazono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26681.jpg",
+        "alt": "fushigi-no-hanazono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

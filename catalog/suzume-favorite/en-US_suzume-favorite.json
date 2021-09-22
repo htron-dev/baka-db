@@ -1,5 +1,9 @@
 {
     "title": "Suzume Favorite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/205636.jpg",
+        "alt": "suzume-favorite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

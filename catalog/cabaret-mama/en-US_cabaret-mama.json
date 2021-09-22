@@ -1,5 +1,9 @@
 {
     "title": "Cabaret Mama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193695.jpg",
+        "alt": "cabaret-mama"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "65",

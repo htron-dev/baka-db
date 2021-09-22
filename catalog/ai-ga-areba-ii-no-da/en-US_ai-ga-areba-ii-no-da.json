@@ -1,5 +1,9 @@
 {
     "title": "Ai ga Areba Ii no da",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33780.jpg",
+        "alt": "ai-ga-areba-ii-no-da"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

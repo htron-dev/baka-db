@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi Maze",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247220.jpg",
+        "alt": "hatsukoi-maze"
+    },
     "type": "manga",
     "original_name": "ハツコイメイズ",
     "start_date": "2020-12-04",

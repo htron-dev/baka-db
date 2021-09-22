@@ -1,5 +1,9 @@
 {
     "title": "Pokemon: Pikachu to Pokemon Ongakutai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/71600.jpg",
+        "alt": "pokemon-pikachu-to-pokemon-ongakutai"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ポケモン・ザ・ムービー XY『ピカチュウとポケモンおんがくたい』",

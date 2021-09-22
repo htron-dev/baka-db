@@ -1,5 +1,9 @@
 {
     "title": "Shi ni Itaru Yamai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/58519.jpg",
+        "alt": "shi-ni-itaru-yamai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

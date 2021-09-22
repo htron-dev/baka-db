@@ -1,5 +1,9 @@
 {
     "title": "Midnight☆Children",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/12049.jpg",
+        "alt": "midnight☆-children"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

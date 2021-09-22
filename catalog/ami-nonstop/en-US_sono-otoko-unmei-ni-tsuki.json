@@ -1,5 +1,9 @@
 {
     "title": "Sono Otoko, Unmei ni Tsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158664.jpg",
+        "alt": "sono-otoko-unmei-ni-tsuki"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "28",

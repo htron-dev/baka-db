@@ -1,5 +1,9 @@
 {
     "title": "Kyoukaisenjou no Limbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/134669.jpg",
+        "alt": "kyoukaisenjou-no-limbo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "27",

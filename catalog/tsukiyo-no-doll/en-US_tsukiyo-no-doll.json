@@ -1,5 +1,9 @@
 {
     "title": "Tsukiyo no Doll",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169797.jpg",
+        "alt": "tsukiyo-no-doll"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

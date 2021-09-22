@@ -1,5 +1,9 @@
 {
     "title": "Colorful Harvest",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/44191.jpg",
+        "alt": "colorful-harvest"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

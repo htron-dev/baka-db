@@ -1,5 +1,9 @@
 {
     "title": "Kihei Senki Legacies",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/22628.jpg",
+        "alt": "kihei-senki-legacies"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "機兵戦記レガシーズ",

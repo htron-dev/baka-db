@@ -1,5 +1,9 @@
 {
     "title": "Katakoi Paradise",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/45227.jpg",
+        "alt": "katakoi-paradise"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "片恋パラダイス",

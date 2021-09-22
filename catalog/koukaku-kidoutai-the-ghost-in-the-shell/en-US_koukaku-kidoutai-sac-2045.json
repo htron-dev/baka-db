@@ -1,10 +1,14 @@
 {
     "title": "Koukaku Kidoutai: SAC_2045",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1213/106702.jpg",
+        "alt": "koukaku-kidoutai-sac-2045"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "攻殻機動隊 SAC_2045",
     "start_date": "2020-04-23",
-    "opening_song": "\"Fly with me\" by millennium parade × ghost in the shell",
+    "opening_song": "\"Fly with me\" by millennium parade × ghost in the shell: SAC_2045",
     "ending_song": "\"sustain++;\" by Mili",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [

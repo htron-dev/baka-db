@@ -1,12 +1,16 @@
 {
     "title": "Bannou Bunka Neko-Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/10720.jpg",
+        "alt": "bannou-bunka-neko-musume"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "万能文化猫娘",
     "start_date": "1992-10-21",
     "end_date": "1992-10-21",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Watashi ni Happy Birthday\" by Megumi Hayashibara (eps 2-3)",
+    "ending_song": "#1: \"Oshiete Happiness\" by Megumi Hayashibara (eps1-3)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

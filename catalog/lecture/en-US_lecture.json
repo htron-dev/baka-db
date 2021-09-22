@@ -1,5 +1,9 @@
 {
     "title": "Lecture",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20685.jpg",
+        "alt": "lecture"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

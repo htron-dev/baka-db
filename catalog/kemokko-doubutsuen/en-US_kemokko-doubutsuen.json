@@ -1,5 +1,9 @@
 {
     "title": "Kemokko Doubutsuen!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203218.jpg",
+        "alt": "kemokko-doubutsuen"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "27",

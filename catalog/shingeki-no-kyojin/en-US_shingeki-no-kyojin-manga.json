@@ -1,5 +1,9 @@
 {
     "title": "Shingeki no Kyojin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/37846.jpg",
+        "alt": "shingeki-no-kyojin"
+    },
     "type": "manga",
     "volumes": "34",
     "chapters": "141",

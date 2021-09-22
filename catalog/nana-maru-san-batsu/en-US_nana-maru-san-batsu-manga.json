@@ -1,5 +1,9 @@
 {
     "title": "Nana Maru San Batsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/187861.jpg",
+        "alt": "nana-maru-san-batsu"
+    },
     "type": "manga",
     "original_name": "ナナマル サンバツ",
     "start_date": "2010-11-04",

@@ -1,5 +1,9 @@
 {
     "title": "Oden-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/25112.jpg",
+        "alt": "oden-kun"
+    },
     "type": "tv-serie",
     "episodes": "156",
     "original_name": "おでんくん",

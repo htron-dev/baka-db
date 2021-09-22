@@ -1,5 +1,9 @@
 {
     "title": "Tengoku Daimakyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/210308.jpg",
+        "alt": "tengoku-daimakyou"
+    },
     "type": "manga",
     "original_name": "天国大魔境",
     "start_date": "2018-01-25",

@@ -1,12 +1,16 @@
 {
     "title": "Yakushiji Ryouko no Kaiki Jikenbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/75426.jpg",
+        "alt": "yakushiji-ryouko-no-kaiki-jikenbo"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "薬師寺涼子の怪奇事件簿",
     "start_date": "2008-07-06",
     "end_date": "2008-07-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Thème principal\" by KATSU(angela)",
+    "ending_song": "#1: \"À demain sur la lune\" by KATSU(angela) (eps 1,3)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "mystery",

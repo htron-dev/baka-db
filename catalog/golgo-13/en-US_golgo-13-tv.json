@@ -1,12 +1,16 @@
 {
     "title": "Golgo 13 (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/25423.jpg",
+        "alt": "golgo-13-tv"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "ゴルゴ 13",
     "start_date": "2008-04-12",
     "end_date": "2008-04-12",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Take the Wave\" by Naifu (eps 1-25)",
+    "ending_song": "#1: \"Glass Highway (ガラスのハイウェイ)\" by Doa (eps 01-12)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Zenbu Kanojo ni [Mi] Rareteru?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163865.jpg",
+        "alt": "zenbu-kanojo-ni-mi-rareteru"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "21",

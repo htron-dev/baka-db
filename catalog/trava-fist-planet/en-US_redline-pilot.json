@@ -1,5 +1,9 @@
 {
     "title": "Redline Pilot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1644/107265.jpg",
+        "alt": "redline-pilot"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "レッドライン",
@@ -25,7 +29,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Redline_(2009_film"
+            "link": "http://en.wikipedia.org/wiki/Redline_%282009_film%29"
         }
     ]
 }

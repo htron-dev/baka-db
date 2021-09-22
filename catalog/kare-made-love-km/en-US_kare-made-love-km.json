@@ -1,5 +1,9 @@
 {
     "title": "Kare Made Love KM",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6073.jpg",
+        "alt": "kare-made-love-km"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "67",

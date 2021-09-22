@@ -1,12 +1,16 @@
 {
     "title": "White Album 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/53561.jpg",
+        "alt": "white-album-2"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ホワイトアルバム 2",
     "start_date": "2013-10-06",
     "end_date": "2013-10-06",
     "opening_song": "\"Todokanai Koi '13' (届かない 恋 '13')\" by Rena Uehara",
-    "ending_song": "#1",
+    "ending_song": "#1: \"White Album (ホワイトアルバム)\" by Madoka Yonezawa (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

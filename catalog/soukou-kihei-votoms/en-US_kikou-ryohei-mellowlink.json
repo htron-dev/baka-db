@@ -1,5 +1,9 @@
 {
     "title": "Kikou Ryohei Mellowlink",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/23503.jpg",
+        "alt": "kikou-ryohei-mellowlink"
+    },
     "type": "ova",
     "episodes": "12",
     "original_name": "機甲猟兵メロウリンク",

@@ -1,5 +1,9 @@
 {
     "title": "Suiyoubi no Cinema",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/216915.jpg",
+        "alt": "suiyoubi-no-cinema"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "53",

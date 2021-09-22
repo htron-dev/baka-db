@@ -1,5 +1,9 @@
 {
     "title": "Hyper Love Power",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/121563.jpg",
+        "alt": "hyper-love-power"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

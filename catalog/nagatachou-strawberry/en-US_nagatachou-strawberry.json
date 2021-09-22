@@ -1,5 +1,9 @@
 {
     "title": "Nagatachou Strawberry",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/20904.jpg",
+        "alt": "nagatachou-strawberry"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "21",

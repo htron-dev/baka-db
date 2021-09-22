@@ -1,12 +1,16 @@
 {
     "title": "Super Lovers 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/83807.jpg",
+        "alt": "super-lovers-2"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "SUPER LOVERS（スーパーラヴァーズ） 2",
     "start_date": "2017-01-12",
     "end_date": "2017-01-12",
     "opening_song": "\"Hare-iro Melody (晴レ色メロディー)\" by Yuusuke Yata",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Gyun to Love Song (ギュンとラブソング)\" by Ren Kaidou (Junko Minagawa), Haru Kaidou (Tomoaki Maeno) (ep 1, 9)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

@@ -1,5 +1,9 @@
 {
     "title": "Shisho to Hasami to Mijikai Enpitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164578.jpg",
+        "alt": "shisho-to-hasami-to-mijikai-enpitsu"
+    },
     "type": "light-novel",
     "volumes": "7",
     "chapters": "45",

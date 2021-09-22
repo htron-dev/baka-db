@@ -1,5 +1,9 @@
 {
     "title": "Haru no Arashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247021.jpg",
+        "alt": "haru-no-arashi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "春の嵐",

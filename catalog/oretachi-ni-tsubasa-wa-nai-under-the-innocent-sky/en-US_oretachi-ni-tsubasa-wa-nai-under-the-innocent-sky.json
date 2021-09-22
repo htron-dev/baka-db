@@ -1,12 +1,16 @@
 {
     "title": "Oretachi ni Tsubasa wa Nai: Under the Innocent Sky.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/75449.jpg",
+        "alt": "oretachi-ni-tsubasa-wa-nai-under-the-innocent-sky"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "俺たちに翼はない -under the innocent sky.",
     "start_date": "2011-04-04",
     "end_date": "2011-04-04",
     "opening_song": "\"Spread Wings\" by Aki Misato.",
-    "ending_song": "#1",
+    "ending_song": "#1: \"PARANoiA\" by Aki Misato (ep 1)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "comedy",

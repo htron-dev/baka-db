@@ -1,5 +1,9 @@
 {
     "title": "Turning Point",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/19517.jpg",
+        "alt": "turning-point"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

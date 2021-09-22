@@ -1,5 +1,9 @@
 {
     "title": "Princess-biyori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196768.jpg",
+        "alt": "princess-biyori"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "30",

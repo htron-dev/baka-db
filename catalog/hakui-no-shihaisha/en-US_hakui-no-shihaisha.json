@@ -1,5 +1,9 @@
 {
     "title": "Hakui no Shihaisha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11920.jpg",
+        "alt": "hakui-no-shihaisha"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

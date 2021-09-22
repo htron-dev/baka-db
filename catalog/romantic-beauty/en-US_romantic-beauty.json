@@ -1,5 +1,9 @@
 {
     "title": "Romantic Beauty",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/10381.jpg",
+        "alt": "romantic-beauty"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

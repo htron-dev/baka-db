@@ -1,5 +1,9 @@
 {
     "title": "Sakura Kyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18491.jpg",
+        "alt": "sakura-kyou"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "桜京",

@@ -1,5 +1,9 @@
 {
     "title": "Nanairo Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13201.jpg",
+        "alt": "nanairo-sekai"
+    },
     "type": "manga",
     "chapters": "4",
     "original_name": "ナナイロセカイ",

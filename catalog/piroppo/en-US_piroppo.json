@@ -1,5 +1,9 @@
 {
     "title": "Piroppo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/9770.jpg",
+        "alt": "piroppo"
+    },
     "type": "tv-serie",
     "episodes": "23",
     "original_name": "ピロッポ",

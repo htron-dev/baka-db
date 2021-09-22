@@ -1,5 +1,9 @@
 {
     "title": "Cuticle Tantei Inaba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/72809.jpg",
+        "alt": "cuticle-tantei-inaba"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "127",

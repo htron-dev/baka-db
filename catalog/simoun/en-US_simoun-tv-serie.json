@@ -1,5 +1,9 @@
 {
     "title": "Simoun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/29109.jpg",
+        "alt": "simoun"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "シムーン",
@@ -36,7 +40,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Simoun_(anime"
+            "link": "http://en.wikipedia.org/wiki/Simoun_%28anime%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "3x3 Eyes Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/145097.jpg",
+        "alt": "3-x-3-eyes-gaiden"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "3×3 EYES 外伝",

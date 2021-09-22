@@ -1,5 +1,9 @@
 {
     "title": "Metal Fight: Beyblade - Zero G",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/230844.jpg",
+        "alt": "metal-fight-beyblade-zero-g"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

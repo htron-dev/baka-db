@@ -1,5 +1,9 @@
 {
     "title": "Pandora no Himitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26273.jpg",
+        "alt": "pandora-no-himitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "パンドラの秘密",

@@ -1,5 +1,9 @@
 {
     "title": "Manga Kenkanryuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200564.jpg",
+        "alt": "manga-kenkanryuu"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "マンガ 嫌韓流",

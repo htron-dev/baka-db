@@ -1,5 +1,9 @@
 {
     "title": "Daisuki! Hello Kitty",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1439/114479.jpg",
+        "alt": "daisuki-hello-kitty"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "大好き！ハローキティ",

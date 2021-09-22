@@ -1,12 +1,16 @@
 {
     "title": "Hime Chen! Otogi Chikku Idol Lilpri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/71891.jpg",
+        "alt": "hime-chen-otogi-chikku-idol-lilpri"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "ひめチェン! おとぎちっくアイドル リルぷりっ",
     "start_date": "2010-04-04",
     "end_date": "2010-04-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Little Princess (リトル ぷりんせす)\" by Lilpri (eps 1-25)",
+    "ending_song": "#1: \"Otona ni Narutte Muzukashii!!!\" by S/mileage (eps 1-25)",
     "rating": "PG - Children",
     "tags": [
         "magic",

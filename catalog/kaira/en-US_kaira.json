@@ -1,5 +1,9 @@
 {
     "title": "Kaira",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38189.jpg",
+        "alt": "kaira"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

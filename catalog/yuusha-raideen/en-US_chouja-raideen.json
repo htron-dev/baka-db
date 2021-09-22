@@ -1,12 +1,16 @@
 {
     "title": "Chouja Raideen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/81827.jpg",
+        "alt": "chouja-raideen"
+    },
     "type": "tv-serie",
     "episodes": "38",
     "original_name": "超者ライディーン",
     "start_date": "1996-10-02",
     "end_date": "1996-10-02",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"In my Justice: Tsubasa no Densetu (In My Justice -翼の伝説-)\" by Manabu Watanabe (渡辺学) (eps 1-28)",
+    "ending_song": "#1: \"Q\" by Paradise Lost (eps 1-28)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

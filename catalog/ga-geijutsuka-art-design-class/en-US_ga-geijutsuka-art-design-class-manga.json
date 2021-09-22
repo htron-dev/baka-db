@@ -1,5 +1,9 @@
 {
     "title": "GA: Geijutsuka Art Design Class",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161055.jpg",
+        "alt": "ga-geijutsuka-art-design-class"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "98",

@@ -1,5 +1,9 @@
 {
     "title": "Kaettekita Motoyuusha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174203.jpg",
+        "alt": "kaettekita-motoyuusha"
+    },
     "type": "light-novel",
     "original_name": "帰ってきた元勇者",
     "start_date": "2014-02-03",

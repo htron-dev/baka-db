@@ -1,5 +1,9 @@
 {
     "title": "Akatsuki no Battlogica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160563.jpg",
+        "alt": "akatsuki-no-battlogica"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "暁の戦闘論者〈バトロジカ〉",

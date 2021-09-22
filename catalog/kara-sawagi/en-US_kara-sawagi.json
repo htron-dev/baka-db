@@ -1,5 +1,9 @@
 {
     "title": "Kara Sawagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/243823.jpg",
+        "alt": "kara-sawagi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

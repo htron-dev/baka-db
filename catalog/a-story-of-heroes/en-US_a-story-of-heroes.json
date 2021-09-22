@@ -1,5 +1,9 @@
 {
     "title": "A Story of Heroes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205786.jpg",
+        "alt": "a-story-of-heroes"
+    },
     "type": "manhwa",
     "volumes": "37",
     "original_name": "江湖覇道記 [강호패도기]",

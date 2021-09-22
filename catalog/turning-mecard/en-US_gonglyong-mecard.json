@@ -1,5 +1,9 @@
 {
     "title": "Gonglyong Mecard",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1868/98715.jpg",
+        "alt": "gonglyong-mecard"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "공룡메카드",

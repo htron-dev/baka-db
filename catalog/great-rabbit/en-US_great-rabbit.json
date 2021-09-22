@@ -1,5 +1,9 @@
 {
     "title": "Great Rabbit",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1995/112629.jpg",
+        "alt": "great-rabbit"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "グレートラビット",

@@ -1,5 +1,9 @@
 {
     "title": "Doctor Elise: The Royal Lady with the Lamp",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237168.jpg",
+        "alt": "doctor-elise-the-royal-lady-with-the-lamp"
+    },
     "type": "manhwa",
     "chapters": "143",
     "original_name": "외과의사 엘리제",

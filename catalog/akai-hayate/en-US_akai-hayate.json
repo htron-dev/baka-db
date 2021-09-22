@@ -1,11 +1,15 @@
 {
     "title": "Akai Hayate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1926/94933.jpg",
+        "alt": "akai-hayate"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "紅いハヤテ",
     "start_date": "1991-05-21",
     "end_date": "1991-05-21",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Gensou Chitai (幻想地帯)\" by Shinichi Ishihara",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

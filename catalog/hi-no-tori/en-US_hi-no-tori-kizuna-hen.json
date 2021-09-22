@@ -1,5 +1,9 @@
 {
     "title": "Hi no Tori: Kizuna-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/61283.jpg",
+        "alt": "hi-no-tori-kizuna-hen"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "火の鳥 絆編",

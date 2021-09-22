@@ -1,5 +1,9 @@
 {
     "title": "Urashima Tarou (1931)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/12222.jpg",
+        "alt": "urashima-tarou-1931"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "浦島太郎",

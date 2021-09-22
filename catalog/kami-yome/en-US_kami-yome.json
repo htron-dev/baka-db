@@ -1,5 +1,9 @@
 {
     "title": "Kami Yome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150845.jpg",
+        "alt": "kami-yome"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

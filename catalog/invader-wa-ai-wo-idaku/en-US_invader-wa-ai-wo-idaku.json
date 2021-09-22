@@ -1,5 +1,9 @@
 {
     "title": "Invader wa Ai wo Idaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/19941.jpg",
+        "alt": "invader-wa-ai-wo-idaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

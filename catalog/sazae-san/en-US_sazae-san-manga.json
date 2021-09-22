@@ -1,5 +1,9 @@
 {
     "title": "Sazae-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184043.jpg",
+        "alt": "sazae-san"
+    },
     "type": "manga",
     "volumes": "45",
     "chapters": "6477",

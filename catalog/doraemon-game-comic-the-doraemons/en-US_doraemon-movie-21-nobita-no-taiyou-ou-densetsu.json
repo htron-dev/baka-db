@@ -1,5 +1,9 @@
 {
     "title": "Doraemon Movie 21: Nobita no Taiyou Ou Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/72426.jpg",
+        "alt": "doraemon-movie-21-nobita-no-taiyou-ou-densetsu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "映画 ドラえもん のび太の太陽王伝説",

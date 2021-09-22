@@ -1,5 +1,9 @@
 {
     "title": "Saboten no Himitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/123137.jpg",
+        "alt": "saboten-no-himitsu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

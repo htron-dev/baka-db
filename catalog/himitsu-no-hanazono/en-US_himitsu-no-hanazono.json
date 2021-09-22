@@ -1,5 +1,9 @@
 {
     "title": "Himitsu no Hanazono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/144799.jpg",
+        "alt": "himitsu-no-hanazono"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "5",

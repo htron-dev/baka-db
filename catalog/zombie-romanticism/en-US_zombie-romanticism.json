@@ -1,5 +1,9 @@
 {
     "title": "Zombie Romanticism",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29699.jpg",
+        "alt": "zombie-romanticism"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

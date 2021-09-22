@@ -1,5 +1,9 @@
 {
     "title": "Geinoujin na Yatsura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22888.jpg",
+        "alt": "geinoujin-na-yatsura"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

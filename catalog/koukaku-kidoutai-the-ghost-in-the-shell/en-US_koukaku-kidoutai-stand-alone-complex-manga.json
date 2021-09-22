@@ -1,9 +1,13 @@
 {
     "title": "Koukaku Kidoutai: Stand Alone Complex",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/142929.jpg",
+        "alt": "koukaku-kidoutai-stand-alone-complex"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "42",
-    "original_name": "攻殻機動隊STAND ALONE COMPLEX",
+    "original_name": "攻殻機動隊 STAND ALONE COMPLEX",
     "start_date": "2009-12-14",
     "end_date": "2009-12-14",
     "tags": [

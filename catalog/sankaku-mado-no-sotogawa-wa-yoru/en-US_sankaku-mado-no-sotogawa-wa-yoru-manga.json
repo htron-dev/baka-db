@@ -1,5 +1,9 @@
 {
     "title": "Sankaku Mado no Sotogawa wa Yoru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/116395.jpg",
+        "alt": "sankaku-mado-no-sotogawa-wa-yoru"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "57",

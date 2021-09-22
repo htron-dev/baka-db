@@ -1,5 +1,9 @@
 {
     "title": "Doodooma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157472.jpg",
+        "alt": "doodooma"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

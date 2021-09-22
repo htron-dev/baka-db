@@ -1,5 +1,9 @@
 {
     "title": "Joubuna Tire!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/84311.jpg",
+        "alt": "joubuna-tire"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "じょうぶなタイヤ!",

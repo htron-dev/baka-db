@@ -1,5 +1,9 @@
 {
     "title": "Jarujio Animal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/62319.jpg",
+        "alt": "jarujio-animal"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "ジャルジオ・アニマール",

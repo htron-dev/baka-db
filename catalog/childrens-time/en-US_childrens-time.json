@@ -1,5 +1,9 @@
 {
     "title": "Children's Time",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/19097.jpg",
+        "alt": "childrens-time"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

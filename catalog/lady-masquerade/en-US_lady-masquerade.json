@@ -1,5 +1,9 @@
 {
     "title": "Lady Masquerade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/34910.jpg",
+        "alt": "lady-masquerade"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

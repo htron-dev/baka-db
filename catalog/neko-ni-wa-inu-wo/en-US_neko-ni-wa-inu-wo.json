@@ -1,5 +1,9 @@
 {
     "title": "Neko ni wa Inu wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245271.jpg",
+        "alt": "neko-ni-wa-inu-wo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

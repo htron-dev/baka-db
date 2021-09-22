@@ -1,5 +1,9 @@
 {
     "title": "Munou na Nana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1301/110433.jpg",
+        "alt": "munou-na-nana"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "無能なナナ",

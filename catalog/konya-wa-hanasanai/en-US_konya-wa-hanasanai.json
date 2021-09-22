@@ -1,5 +1,9 @@
 {
     "title": "Konya wa Hanasanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227486.jpg",
+        "alt": "konya-wa-hanasanai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "今夜は放さない",

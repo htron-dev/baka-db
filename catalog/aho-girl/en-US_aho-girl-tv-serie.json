@@ -1,5 +1,9 @@
 {
     "title": "Aho Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/86665.jpg",
+        "alt": "aho-girl"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "アホガール",

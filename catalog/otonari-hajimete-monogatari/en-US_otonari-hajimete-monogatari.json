@@ -1,5 +1,9 @@
 {
     "title": "Otonari Hajimete Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222757.jpg",
+        "alt": "otonari-hajimete-monogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

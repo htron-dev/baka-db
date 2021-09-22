@@ -1,5 +1,9 @@
 {
     "title": "Hinaasobi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183988.jpg",
+        "alt": "hinaasobi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

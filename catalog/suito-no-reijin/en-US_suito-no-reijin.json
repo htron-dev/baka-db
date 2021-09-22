@@ -1,5 +1,9 @@
 {
     "title": "Suito no Reijin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/229486.jpg",
+        "alt": "suito-no-reijin"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "水都の麗人",

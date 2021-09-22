@@ -1,5 +1,9 @@
 {
     "title": "Maid Hajimemashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30469.jpg",
+        "alt": "maid-hajimemashita"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "メイド ★ はじめました ～初めてのご奉仕",

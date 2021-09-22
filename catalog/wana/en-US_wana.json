@@ -1,5 +1,9 @@
 {
     "title": "Wana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18244.jpg",
+        "alt": "wana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Katemen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/88611.jpg",
+        "alt": "katemen"
+    },
     "type": "manga",
     "original_name": "カテメン",
     "start_date": "2012-09-05",

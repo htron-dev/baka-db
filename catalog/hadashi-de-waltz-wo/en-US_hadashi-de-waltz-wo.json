@@ -1,5 +1,9 @@
 {
     "title": "Hadashi de Waltz wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/7109.jpg",
+        "alt": "hadashi-de-waltz-wo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

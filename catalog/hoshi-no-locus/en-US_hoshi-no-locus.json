@@ -1,5 +1,9 @@
 {
     "title": "Hoshi no Locus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/232323.jpg",
+        "alt": "hoshi-no-locus"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "38",

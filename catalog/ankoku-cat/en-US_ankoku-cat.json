@@ -1,5 +1,9 @@
 {
     "title": "Ankoku Cat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/86380.jpg",
+        "alt": "ankoku-cat"
+    },
     "type": "ona",
     "episodes": "6",
     "original_name": "暗黒キャット",

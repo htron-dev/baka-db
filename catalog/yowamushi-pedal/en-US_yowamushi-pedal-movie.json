@@ -1,5 +1,9 @@
 {
     "title": "Yowamushi Pedal Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/74402.jpg",
+        "alt": "yowamushi-pedal-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 弱虫ペダル",

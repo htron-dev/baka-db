@@ -1,11 +1,15 @@
 {
     "title": "Subarashiki Kono Sekai The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1016/111566.jpg",
+        "alt": "subarashiki-kono-sekai-the-animation"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "すばらしきこのせかい The Animation",
     "start_date": "2021-04-10",
     "end_date": "2021-04-10",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Calling -Animation OP Ver.-\" by Leah (ep 1)",
     "ending_song": "\"Carpe Diem\" by ASCA",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

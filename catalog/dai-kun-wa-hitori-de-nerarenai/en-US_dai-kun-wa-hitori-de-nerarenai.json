@@ -1,5 +1,9 @@
 {
     "title": "Dai-kun wa Hitori de Nerarenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/242592.jpg",
+        "alt": "dai-kun-wa-hitori-de-nerarenai"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "31",

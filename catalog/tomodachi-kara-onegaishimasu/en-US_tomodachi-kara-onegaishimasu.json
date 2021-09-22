@@ -1,5 +1,9 @@
 {
     "title": "Tomodachi kara Onegaishimasu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163209.jpg",
+        "alt": "tomodachi-kara-onegaishimasu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

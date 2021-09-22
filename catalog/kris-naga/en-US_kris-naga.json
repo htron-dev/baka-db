@@ -1,5 +1,9 @@
 {
     "title": "Kris Naga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164471.jpg",
+        "alt": "kris-naga"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "クリスナーガ",

@@ -1,5 +1,9 @@
 {
     "title": "The Moon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245614.jpg",
+        "alt": "the-moon"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "ザ・ムーン",

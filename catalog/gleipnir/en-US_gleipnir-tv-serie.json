@@ -1,5 +1,9 @@
 {
     "title": "Gleipnir",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1808/111697.jpg",
+        "alt": "gleipnir"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "グレイプニル",
@@ -35,7 +39,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Gleipnir_(manga"
+            "link": "https://en.wikipedia.org/wiki/Gleipnir_%28manga%29#Anime"
         }
     ]
 }

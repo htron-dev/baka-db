@@ -1,5 +1,9 @@
 {
     "title": "Danchigai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189054.jpg",
+        "alt": "danchigai"
+    },
     "type": "manga",
     "original_name": "だんちがい",
     "start_date": "2011-06-22",

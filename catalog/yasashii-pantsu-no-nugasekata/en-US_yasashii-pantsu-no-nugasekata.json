@@ -1,5 +1,9 @@
 {
     "title": "Yasashii Pantsu no Nugasekata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/220777.jpg",
+        "alt": "yasashii-pantsu-no-nugasekata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

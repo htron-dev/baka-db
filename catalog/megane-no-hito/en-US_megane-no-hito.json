@@ -1,5 +1,9 @@
 {
     "title": "Megane no Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/16905.jpg",
+        "alt": "megane-no-hito"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "めがねのひと",

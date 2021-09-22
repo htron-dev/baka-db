@@ -1,5 +1,9 @@
 {
     "title": "Cross x Regalia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160024.jpg",
+        "alt": "cross-x-regalia"
+    },
     "type": "light-novel",
     "volumes": "8",
     "chapters": "48",

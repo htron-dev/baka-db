@@ -1,5 +1,9 @@
 {
     "title": "Amrita no Kyouen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1386/105333.jpg",
+        "alt": "amrita-no-kyouen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "アムリタの饗宴",

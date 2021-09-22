@@ -1,5 +1,9 @@
 {
     "title": "Meikai no Cerberus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203741.jpg",
+        "alt": "meikai-no-cerberus"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "Jooubachi: Vampire Queen Bee",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199622.jpg",
+        "alt": "jooubachi-vampire-queen-bee"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "29",

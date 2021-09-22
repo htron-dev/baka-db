@@ -1,5 +1,9 @@
 {
     "title": "Junjou Renbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/79967.jpg",
+        "alt": "junjou-renbo"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "純情恋慕",

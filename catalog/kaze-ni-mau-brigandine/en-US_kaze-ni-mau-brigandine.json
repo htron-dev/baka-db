@@ -1,5 +1,9 @@
 {
     "title": "Kaze ni Mau Brigandine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163397.jpg",
+        "alt": "kaze-ni-mau-brigandine"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "22",

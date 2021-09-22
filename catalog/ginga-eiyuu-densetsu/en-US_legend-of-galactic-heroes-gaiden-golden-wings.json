@@ -1,5 +1,9 @@
 {
     "title": "Legend of Galactic Heroes Gaiden: Golden Wings",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/19199.jpg",
+        "alt": "legend-of-galactic-heroes-gaiden-golden-wings"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

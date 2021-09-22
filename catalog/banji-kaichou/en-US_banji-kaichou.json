@@ -1,5 +1,9 @@
 {
     "title": "Banji Kaichou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157279.jpg",
+        "alt": "banji-kaichou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

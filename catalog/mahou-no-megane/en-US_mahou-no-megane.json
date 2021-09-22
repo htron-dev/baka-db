@@ -1,5 +1,9 @@
 {
     "title": "Mahou no Megane.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149088.jpg",
+        "alt": "mahou-no-megane"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

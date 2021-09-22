@@ -1,5 +1,9 @@
 {
     "title": "2nd House",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35748.jpg",
+        "alt": "2nd-house"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "2nd ハウス",

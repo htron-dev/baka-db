@@ -1,5 +1,9 @@
 {
     "title": "Share Kiss Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225548.jpg",
+        "alt": "share-kiss-love"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

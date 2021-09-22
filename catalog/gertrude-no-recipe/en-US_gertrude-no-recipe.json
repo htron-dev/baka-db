@@ -1,5 +1,9 @@
 {
     "title": "Gertrude no Recipe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/305.jpg",
+        "alt": "gertrude-no-recipe"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

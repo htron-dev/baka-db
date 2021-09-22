@@ -1,5 +1,9 @@
 {
     "title": "Kekkai Sensen: Back 2 Back",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171019.jpg",
+        "alt": "kekkai-sensen-back-2-back"
+    },
     "type": "manga",
     "original_name": "血界戦線 Back 2 Back",
     "start_date": "2015-07-17",

@@ -1,5 +1,9 @@
 {
     "title": "Otome wa Boku ni Koishiteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/75483.jpg",
+        "alt": "otome-wa-boku-ni-koishiteru"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "乙女は僕に恋してる",

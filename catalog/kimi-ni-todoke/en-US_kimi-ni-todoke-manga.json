@@ -1,5 +1,9 @@
 {
     "title": "Kimi ni Todoke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168283.jpg",
+        "alt": "kimi-ni-todoke"
+    },
     "type": "manga",
     "volumes": "30",
     "chapters": "125",

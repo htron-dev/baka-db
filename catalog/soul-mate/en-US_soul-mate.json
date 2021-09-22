@@ -1,5 +1,9 @@
 {
     "title": "Soul Mate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32178.jpg",
+        "alt": "soul-mate"
+    },
     "type": "manhwa",
     "volumes": "5",
     "original_name": "소울 메이트",

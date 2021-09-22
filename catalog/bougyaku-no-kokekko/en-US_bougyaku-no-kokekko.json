@@ -1,5 +1,9 @@
 {
     "title": "Bougyaku no Kokekko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/216079.jpg",
+        "alt": "bougyaku-no-kokekko"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "56",

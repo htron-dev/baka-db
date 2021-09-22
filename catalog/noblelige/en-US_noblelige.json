@@ -1,5 +1,9 @@
 {
     "title": "Noblelige!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/124781.jpg",
+        "alt": "noblelige"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "ノーブルリージュ!",

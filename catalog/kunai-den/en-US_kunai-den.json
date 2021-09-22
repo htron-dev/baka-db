@@ -1,5 +1,9 @@
 {
     "title": "Kunai Den",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39044.jpg",
+        "alt": "kunai-den"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "36",

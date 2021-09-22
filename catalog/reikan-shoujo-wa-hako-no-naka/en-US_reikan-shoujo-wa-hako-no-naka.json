@@ -1,5 +1,9 @@
 {
     "title": "Reikan Shoujo wa Hako no Naka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/189476.jpg",
+        "alt": "reikan-shoujo-wa-hako-no-naka"
+    },
     "type": "light-novel",
     "original_name": "霊感少女は箱の中",
     "start_date": "2017-01-10",

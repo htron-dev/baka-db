@@ -1,5 +1,9 @@
 {
     "title": "Café Kichijouji de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/750.jpg",
+        "alt": "cafe-kichijouji-de"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

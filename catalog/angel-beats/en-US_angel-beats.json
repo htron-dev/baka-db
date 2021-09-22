@@ -1,12 +1,16 @@
 {
     "title": "Angel Beats!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1244/111115.jpg",
+        "alt": "angel-beats"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "Angel Beats!（エンジェルビーツ）",
     "start_date": "2010-04-03",
     "end_date": "2010-04-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"My Soul, Your Beats!\" by Lia (TV: eps 2-3, 5-9, 11; BD/DVD: eps 1-3, 5-13)",
+    "ending_song": "#1: \"Brave Song\" by Aoi Tada (eps 1-9, 11-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

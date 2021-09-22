@@ -1,5 +1,9 @@
 {
     "title": "Kono Sekai no Katasumi ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/87704.jpg",
+        "alt": "kono-sekai-no-katasumi-ni"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "この世界の片隅に",

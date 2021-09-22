@@ -1,5 +1,9 @@
 {
     "title": "Age '87",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215305.jpg",
+        "alt": "age-87"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

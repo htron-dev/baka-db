@@ -1,5 +1,9 @@
 {
     "title": "Dear Signal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/232364.jpg",
+        "alt": "dear-signal"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

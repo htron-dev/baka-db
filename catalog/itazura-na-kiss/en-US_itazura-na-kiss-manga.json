@@ -1,5 +1,9 @@
 {
     "title": "Itazura na Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/112363.jpg",
+        "alt": "itazura-na-kiss"
+    },
     "type": "manga",
     "volumes": "23",
     "chapters": "100",

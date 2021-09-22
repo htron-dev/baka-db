@@ -1,5 +1,9 @@
 {
     "title": "Kareshi ga Gokudou nante Ariemasen!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200597.jpg",
+        "alt": "kareshi-ga-gokudou-nante-ariemasen"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "彼氏が極道なんてありえません！",

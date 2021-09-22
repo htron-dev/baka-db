@@ -1,5 +1,9 @@
 {
     "title": "Kubera",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/74413.jpg",
+        "alt": "kubera"
+    },
     "type": "manhwa",
     "original_name": "쿠베라",
     "start_date": "2010-02-07",

@@ -1,5 +1,9 @@
 {
     "title": "Code Geass: Soubou no Oz",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/130989.jpg",
+        "alt": "code-geass-soubou-no-oz"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "24",

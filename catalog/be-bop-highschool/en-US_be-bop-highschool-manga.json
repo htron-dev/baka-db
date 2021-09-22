@@ -1,5 +1,9 @@
 {
     "title": "Be-Bop-Highschool",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/75521.jpg",
+        "alt": "be-bop-highschool"
+    },
     "type": "manga",
     "volumes": "48",
     "chapters": "308",

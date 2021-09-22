@@ -1,5 +1,9 @@
 {
     "title": "Solfège ~Sweet Harmony~",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28360.jpg",
+        "alt": "solfege-sweet-harmony"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ソルフェージュ Sweet harmony",

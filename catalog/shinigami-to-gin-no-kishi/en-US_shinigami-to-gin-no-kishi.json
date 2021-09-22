@@ -1,5 +1,9 @@
 {
     "title": "Shinigami to Gin no Kishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186666.jpg",
+        "alt": "shinigami-to-gin-no-kishi"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "36",

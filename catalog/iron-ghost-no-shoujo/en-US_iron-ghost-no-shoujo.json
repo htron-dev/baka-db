@@ -1,5 +1,9 @@
 {
     "title": "Iron Ghost no Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205638.jpg",
+        "alt": "iron-ghost-no-shoujo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

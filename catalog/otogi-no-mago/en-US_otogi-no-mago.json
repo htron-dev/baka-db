@@ -1,5 +1,9 @@
 {
     "title": "Otogi no Mago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224850.jpg",
+        "alt": "otogi-no-mago"
+    },
     "type": "manga",
     "original_name": "おとぎの孫",
     "start_date": "2018-01-20",

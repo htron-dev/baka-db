@@ -1,5 +1,9 @@
 {
     "title": "Anekon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/241199.jpg",
+        "alt": "anekon"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

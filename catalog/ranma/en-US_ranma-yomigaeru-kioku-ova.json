@@ -1,5 +1,9 @@
 {
     "title": "Ranma ½: Yomigaeru Kioku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/63453.jpg",
+        "alt": "ranma-yomigaeru-kioku"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "らんま 1/2 SPECIAL よみがえる記憶",

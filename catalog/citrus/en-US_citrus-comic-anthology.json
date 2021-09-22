@@ -1,5 +1,9 @@
 {
     "title": "Citrus: Comic Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222948.jpg",
+        "alt": "citrus-comic-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "17",

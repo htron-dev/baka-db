@@ -1,5 +1,9 @@
 {
     "title": "Aa-chan wa Sobakasukko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246612.jpg",
+        "alt": "aa-chan-wa-sobakasukko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

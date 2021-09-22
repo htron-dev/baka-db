@@ -1,5 +1,9 @@
 {
     "title": "Futatsu makura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26429.jpg",
+        "alt": "futatsu-makura"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

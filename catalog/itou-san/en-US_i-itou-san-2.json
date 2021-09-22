@@ -1,5 +1,9 @@
 {
     "title": "I: Itou-san 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/220456.jpg",
+        "alt": "i-itou-san-2"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

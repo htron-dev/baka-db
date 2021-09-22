@@ -1,5 +1,9 @@
 {
     "title": "Sekai no Hate de Aimashou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/62125.jpg",
+        "alt": "sekai-no-hate-de-aimashou"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "50",

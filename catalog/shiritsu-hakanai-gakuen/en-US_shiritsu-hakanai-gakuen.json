@@ -1,5 +1,9 @@
 {
     "title": "Shiritsu Hakanai Gakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162130.jpg",
+        "alt": "shiritsu-hakanai-gakuen"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "24",

@@ -1,5 +1,9 @@
 {
     "title": "Chousou no Babel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195745.jpg",
+        "alt": "chousou-no-babel"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "34",

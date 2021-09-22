@@ -1,12 +1,16 @@
 {
     "title": "Gochuumon wa Usagi Desu ka? Bloom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1900/109179.jpg",
+        "alt": "gochuumon-wa-usagi-desu-ka-bloom"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ご注文はうさぎですか? BLOOM",
     "start_date": "2020-10-10",
     "end_date": "2020-10-10",
     "opening_song": "\"Tenkuu Cafeteria (天空カフェテリア)\" by Petit Rabbit's (Ayane Sakura, Inori Minase, Risa Taneda, Satomi Sato, Maaya Uchida)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Nakayoshi! ○! Nakayoshi! (なかよし！○！なかよし！)\" by Chimame-tai (Inori Minase, Sora Tokui, Rie Murakawa) (eps 2-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

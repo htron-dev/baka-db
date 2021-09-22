@@ -1,5 +1,9 @@
 {
     "title": "Seishun Rikon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/80159.jpg",
+        "alt": "seishun-rikon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

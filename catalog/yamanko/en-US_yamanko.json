@@ -1,5 +1,9 @@
 {
     "title": "Yamanko!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/59873.jpg",
+        "alt": "yamanko"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

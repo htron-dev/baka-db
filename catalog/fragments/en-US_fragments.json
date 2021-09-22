@@ -1,5 +1,9 @@
 {
     "title": "Fragments",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36771.jpg",
+        "alt": "fragments"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "フラグメンツ",

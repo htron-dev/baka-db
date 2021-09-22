@@ -1,5 +1,9 @@
 {
     "title": "Saihate no Cyclops",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164504.jpg",
+        "alt": "saihate-no-cyclops"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "23",

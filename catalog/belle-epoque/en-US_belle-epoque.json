@@ -1,5 +1,9 @@
 {
     "title": "Belle Epoque",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/26276.jpg",
+        "alt": "belle-epoque"
+    },
     "type": "manga",
     "volumes": "11",
     "original_name": "ベル・エポック",

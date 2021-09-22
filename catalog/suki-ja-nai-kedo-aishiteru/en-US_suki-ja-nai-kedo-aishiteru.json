@@ -1,5 +1,9 @@
 {
     "title": "Suki ja nai kedo Aishiteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/17278.jpg",
+        "alt": "suki-ja-nai-kedo-aishiteru"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "36",

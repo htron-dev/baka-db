@@ -1,5 +1,9 @@
 {
     "title": "Iroha to Boku to",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194905.jpg",
+        "alt": "iroha-to-boku-to"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

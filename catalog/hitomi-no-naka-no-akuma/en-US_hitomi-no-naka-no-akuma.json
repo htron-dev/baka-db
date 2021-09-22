@@ -1,5 +1,9 @@
 {
     "title": "Hitomi no Naka no Akuma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/49079.jpg",
+        "alt": "hitomi-no-naka-no-akuma"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

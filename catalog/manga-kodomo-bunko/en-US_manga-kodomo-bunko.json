@@ -1,5 +1,9 @@
 {
     "title": "Manga Kodomo Bunko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/53841.jpg",
+        "alt": "manga-kodomo-bunko"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "まんがこども文庫",

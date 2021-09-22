@@ -1,5 +1,9 @@
 {
     "title": "Bakuten!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1827/113510.jpg",
+        "alt": "bakuten"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "バクテン!!",

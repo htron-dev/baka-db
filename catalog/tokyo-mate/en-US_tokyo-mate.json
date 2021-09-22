@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Mate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164809.jpg",
+        "alt": "tokyo-mate"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "62",

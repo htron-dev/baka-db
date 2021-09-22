@@ -1,5 +1,9 @@
 {
     "title": "Choujikuu Kidan Southern Cross",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1564/96451.jpg",
+        "alt": "choujikuu-kidan-southern-cross"
+    },
     "type": "tv-serie",
     "episodes": "23",
     "original_name": "超時空騎団サザンクロス",

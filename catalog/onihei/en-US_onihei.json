@@ -1,5 +1,9 @@
 {
     "title": "Onihei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/83758.jpg",
+        "alt": "onihei"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "鬼平",

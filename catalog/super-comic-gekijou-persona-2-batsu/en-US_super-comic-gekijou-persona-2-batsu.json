@@ -1,5 +1,9 @@
 {
     "title": "Super Comic Gekijou: Persona 2 - Batsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151606.jpg",
+        "alt": "super-comic-gekijou-persona-2-batsu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "スーパーコミック劇場 ペルソナ 2 罰",

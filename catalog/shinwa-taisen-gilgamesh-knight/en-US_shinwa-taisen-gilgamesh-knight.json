@@ -1,5 +1,9 @@
 {
     "title": "Shinwa Taisen Gilgamesh Knight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177676.jpg",
+        "alt": "shinwa-taisen-gilgamesh-knight"
+    },
     "type": "light-novel",
     "original_name": "神話大戦ギルガメッシュナイト",
     "start_date": "2015-02-01",

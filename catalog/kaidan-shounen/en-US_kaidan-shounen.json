@@ -1,5 +1,9 @@
 {
     "title": "Kaidan Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239679.jpg",
+        "alt": "kaidan-shounen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "39",

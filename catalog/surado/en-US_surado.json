@@ -1,5 +1,9 @@
 {
     "title": "Surado",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/85303.jpg",
+        "alt": "surado"
+    },
     "type": "manhwa",
     "volumes": "3",
     "original_name": "수라도",

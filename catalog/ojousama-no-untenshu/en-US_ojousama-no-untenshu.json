@@ -1,5 +1,9 @@
 {
     "title": "Ojousama no Untenshu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/42017.jpg",
+        "alt": "ojousama-no-untenshu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

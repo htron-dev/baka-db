@@ -1,12 +1,16 @@
 {
     "title": "Ushio to Tora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1443/97136.jpg",
+        "alt": "ushio-to-tora"
+    },
     "type": "ova",
     "episodes": "10",
     "original_name": "うしおととら",
     "start_date": "1992-09-11",
     "end_date": "1992-09-11",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Yuuki no Fighter (勇気のファイター)\" by Yasu (eps 1-6)",
+    "ending_song": "#1: \"Dear My Best Friend\" by Nozomu Sasaki (eps 1-6)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

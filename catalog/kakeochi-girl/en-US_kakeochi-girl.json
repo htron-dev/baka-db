@@ -1,5 +1,9 @@
 {
     "title": "Kakeochi Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/229311.jpg",
+        "alt": "kakeochi-girl"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

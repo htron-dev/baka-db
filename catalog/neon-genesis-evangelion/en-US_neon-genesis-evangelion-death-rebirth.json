@@ -1,10 +1,14 @@
 {
     "title": "Neon Genesis Evangelion: Death & Rebirth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/75963.jpg",
+        "alt": "neon-genesis-evangelion-death-rebirth"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": " 新世紀エヴァンゲリオン劇場版 シト新生",
     "start_date": "1997-03-15",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kanon D-dur (Death ending)\" by Shiro Sagisu",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "drama",

@@ -1,5 +1,9 @@
 {
     "title": "Michi to no Souguu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151355.jpg",
+        "alt": "michi-to-no-souguu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

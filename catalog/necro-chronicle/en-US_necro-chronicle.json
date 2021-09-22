@@ -1,5 +1,9 @@
 {
     "title": "Necro;Chronicle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158558.jpg",
+        "alt": "necro-chronicle"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

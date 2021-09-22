@@ -1,5 +1,9 @@
 {
     "title": "Sword Gai Evolve",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179171.jpg",
+        "alt": "sword-gai-evolve"
+    },
     "type": "manga",
     "original_name": "ソードガイ・ヱヴォルヴ 装刀凱 Evolve",
     "start_date": "2015-10-31",

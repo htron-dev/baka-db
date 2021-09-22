@@ -1,5 +1,9 @@
 {
     "title": "Keroro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/58163.jpg",
+        "alt": "keroro"
+    },
     "type": "tv-serie",
     "episodes": "23",
     "original_name": "ケロロ",

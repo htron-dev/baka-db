@@ -1,5 +1,9 @@
 {
     "title": "Nana no Literacy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176234.jpg",
+        "alt": "nana-no-literacy"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

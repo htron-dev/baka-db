@@ -1,5 +1,9 @@
 {
     "title": "Aishite Nanka yara ne yo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33832.jpg",
+        "alt": "aishite-nanka-yara-ne-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "愛してなんかやらねーよ!",

@@ -1,5 +1,9 @@
 {
     "title": "Kagerou no Mori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11660.jpg",
+        "alt": "kagerou-no-mori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

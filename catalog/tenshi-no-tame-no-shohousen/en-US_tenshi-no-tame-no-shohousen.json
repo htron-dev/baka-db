@@ -1,5 +1,9 @@
 {
     "title": "Tenshi no Tame no Shohousen.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/15172.jpg",
+        "alt": "tenshi-no-tame-no-shohousen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

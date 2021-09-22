@@ -1,5 +1,9 @@
 {
     "title": "Wangu Xian Qiong",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/87335.jpg",
+        "alt": "wangu-xian-qiong"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "万古仙穹",

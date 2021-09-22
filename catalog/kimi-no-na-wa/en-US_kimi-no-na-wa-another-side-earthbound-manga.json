@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Na wa. Another Side: Earthbound",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/207022.jpg",
+        "alt": "kimi-no-na-wa-another-side-earthbound"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

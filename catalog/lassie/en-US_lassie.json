@@ -1,5 +1,9 @@
 {
     "title": "Lassie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/12505.jpg",
+        "alt": "lassie"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

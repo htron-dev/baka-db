@@ -1,5 +1,9 @@
 {
     "title": "Jounetsu no Are",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/202971.jpg",
+        "alt": "jounetsu-no-are"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

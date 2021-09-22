@@ -1,5 +1,9 @@
 {
     "title": "Momotarou Mairu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/182477.jpg",
+        "alt": "momotarou-mairu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "桃太郎まいる！",

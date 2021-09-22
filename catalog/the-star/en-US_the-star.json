@@ -1,5 +1,9 @@
 {
     "title": "The Star",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28466.jpg",
+        "alt": "the-star"
+    },
     "type": "manga",
     "volumes": "24",
     "original_name": "ザ・スター",

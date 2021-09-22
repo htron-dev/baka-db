@@ -1,5 +1,9 @@
 {
     "title": "Niko Tama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204028.jpg",
+        "alt": "niko-tama"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "38",

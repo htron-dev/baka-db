@@ -1,12 +1,16 @@
 {
     "title": "Yowamushi Pedal: Grande Road",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/67799.jpg",
+        "alt": "yowamushi-pedal-grande-road"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "弱虫ペダル GRANDE ROAD",
     "start_date": "2014-10-07",
     "end_date": "2014-10-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Determination\" by LASTGASP (eps 1-12)",
+    "ending_song": "#1: \"Realize (リアライズ)\" by ROOKiEZ is PUNK’D (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

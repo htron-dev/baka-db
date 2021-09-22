@@ -1,5 +1,9 @@
 {
     "title": "Sono Toki wa Tada Kokoro ni Furete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/59429.jpg",
+        "alt": "sono-toki-wa-tada-kokoro-ni-furete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

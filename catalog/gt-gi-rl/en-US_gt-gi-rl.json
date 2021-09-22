@@ -1,5 +1,9 @@
 {
     "title": "GT-giRl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/244059.jpg",
+        "alt": "gt-gi-rl"
+    },
     "type": "manga",
     "original_name": "GT-giRl",
     "start_date": "2020-11-27",

@@ -1,5 +1,9 @@
 {
     "title": "Kakuheki no Make Doll",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160684.jpg",
+        "alt": "kakuheki-no-make-doll"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "赫碧のメイクドール",

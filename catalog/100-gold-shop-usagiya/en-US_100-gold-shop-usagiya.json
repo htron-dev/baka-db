@@ -1,5 +1,9 @@
 {
     "title": "100 Gold Shop \"Usagiya\"",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171891.jpg",
+        "alt": "100-gold-shop-usagiya"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "12",

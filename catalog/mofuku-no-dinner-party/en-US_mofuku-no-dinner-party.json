@@ -1,5 +1,9 @@
 {
     "title": "Mofuku no Dinner Party",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/79661.jpg",
+        "alt": "mofuku-no-dinner-party"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "喪服のディナーパーティ",

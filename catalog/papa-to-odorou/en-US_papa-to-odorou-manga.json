@@ -1,5 +1,9 @@
 {
     "title": "Papa to odorou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236435.jpg",
+        "alt": "papa-to-odorou"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "216",

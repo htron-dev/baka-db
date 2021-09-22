@@ -1,5 +1,9 @@
 {
     "title": "Hitsuji ga Ippiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223365.jpg",
+        "alt": "hitsuji-ga-ippiki"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

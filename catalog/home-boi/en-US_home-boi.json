@@ -1,5 +1,9 @@
 {
     "title": "Home Boi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/86107.jpg",
+        "alt": "home-boi"
+    },
     "type": "manhwa",
     "volumes": "4",
     "original_name": "HOME 보이",

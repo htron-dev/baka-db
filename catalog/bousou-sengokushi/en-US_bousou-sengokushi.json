@@ -1,5 +1,9 @@
 {
     "title": "Bousou Sengokushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1895/94220.jpg",
+        "alt": "bousou-sengokushi"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "暴走戦國史",

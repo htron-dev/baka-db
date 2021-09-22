@@ -1,5 +1,9 @@
 {
     "title": "Uchi no Sensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202090.jpg",
+        "alt": "uchi-no-sensei"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

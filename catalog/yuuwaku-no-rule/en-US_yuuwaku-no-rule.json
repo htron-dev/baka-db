@@ -1,5 +1,9 @@
 {
     "title": "Yuuwaku no Rule",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/63245.jpg",
+        "alt": "yuuwaku-no-rule"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

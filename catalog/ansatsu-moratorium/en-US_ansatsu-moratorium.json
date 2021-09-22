@@ -1,5 +1,9 @@
 {
     "title": "Ansatsu Moratorium",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246758.jpg",
+        "alt": "ansatsu-moratorium"
+    },
     "type": "manga",
     "chapters": "4",
     "original_name": "暗殺モラトリアム",

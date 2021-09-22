@@ -1,5 +1,9 @@
 {
     "title": "Grisaia no Kajitsu Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/71683.jpg",
+        "alt": "grisaia-no-kajitsu-specials"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "グリザイアの果実",

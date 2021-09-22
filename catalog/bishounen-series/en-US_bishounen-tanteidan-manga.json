@@ -1,5 +1,9 @@
 {
     "title": "Bishounen Tanteidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191709.jpg",
+        "alt": "bishounen-tanteidan"
+    },
     "type": "manga",
     "original_name": "美少年探偵団",
     "start_date": "2016-04-28",

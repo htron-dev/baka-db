@@ -1,5 +1,9 @@
 {
     "title": "Oniichan to Yobanaide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/213049.jpg",
+        "alt": "oniichan-to-yobanaide"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "おにいちゃんと呼ばないで",

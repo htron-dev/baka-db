@@ -1,5 +1,9 @@
 {
     "title": "Doutei Jigoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/135443.jpg",
+        "alt": "doutei-jigoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

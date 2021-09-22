@@ -1,5 +1,9 @@
 {
     "title": "Dragon, Ie wo Kau.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/198004.jpg",
+        "alt": "dragon-ie-wo-kau"
+    },
     "type": "manga",
     "original_name": "ドラゴン、家を買う。",
     "start_date": "2016-12-05",

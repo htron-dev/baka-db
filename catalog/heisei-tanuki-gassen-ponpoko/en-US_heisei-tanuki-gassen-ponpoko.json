@@ -1,5 +1,9 @@
 {
     "title": "Heisei Tanuki Gassen Ponpoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/75925.jpg",
+        "alt": "heisei-tanuki-gassen-ponpoko"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "平成狸合戦ぽんぽこ",

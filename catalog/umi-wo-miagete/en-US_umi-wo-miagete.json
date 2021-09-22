@@ -1,5 +1,9 @@
 {
     "title": "Umi wo Miagete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164644.jpg",
+        "alt": "umi-wo-miagete"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "海をみあげて",

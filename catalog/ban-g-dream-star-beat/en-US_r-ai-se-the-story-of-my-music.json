@@ -1,5 +1,9 @@
 {
     "title": "RAiSe!: The Story of My Music",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230510.jpg",
+        "alt": "r-ai-se-the-story-of-my-music"
+    },
     "type": "manga",
     "original_name": "RAiSe! The story of my music",
     "start_date": "2019-01-08",

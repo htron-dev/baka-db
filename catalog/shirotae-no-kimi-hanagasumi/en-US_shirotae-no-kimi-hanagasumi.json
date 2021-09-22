@@ -1,5 +1,9 @@
 {
     "title": "Shirotae no Kimi, Hanagasumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22050.jpg",
+        "alt": "shirotae-no-kimi-hanagasumi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

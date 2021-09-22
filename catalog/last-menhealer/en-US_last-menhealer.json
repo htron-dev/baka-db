@@ -1,5 +1,9 @@
 {
     "title": "Last Menhealer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172712.jpg",
+        "alt": "last-menhealer"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

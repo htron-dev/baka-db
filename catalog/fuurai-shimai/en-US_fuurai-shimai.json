@@ -1,5 +1,9 @@
 {
     "title": "Fuurai Shimai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149762.jpg",
+        "alt": "fuurai-shimai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "60",

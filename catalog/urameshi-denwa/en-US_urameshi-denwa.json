@@ -1,5 +1,9 @@
 {
     "title": "Urameshi Denwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/71587.jpg",
+        "alt": "urameshi-denwa"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "うらめしでんわ",

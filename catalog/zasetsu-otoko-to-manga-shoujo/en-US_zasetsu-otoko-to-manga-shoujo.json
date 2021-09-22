@@ -1,5 +1,9 @@
 {
     "title": "Zasetsu Otoko to Manga Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207425.jpg",
+        "alt": "zasetsu-otoko-to-manga-shoujo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Gundam Evolve",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/28142.jpg",
+        "alt": "gundam-evolve"
+    },
     "type": "ova",
     "episodes": "15",
     "original_name": "ガンダム EVOLVE",

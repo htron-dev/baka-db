@@ -1,12 +1,16 @@
 {
     "title": "Kimagure Orange☆Road",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/41339.jpg",
+        "alt": "kimagure-orange☆-road"
+    },
     "type": "tv-serie",
     "episodes": "48",
     "original_name": "きまぐれオレンジ ☆ ロード",
     "start_date": "1987-04-06",
     "end_date": "1987-04-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1:\"Night of summer side\" by Masanori Ikeda (eps 1-19)",
+    "ending_song": "#1:\"Natsu no mirage\" by Kanako Wada (eps 1- 19)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

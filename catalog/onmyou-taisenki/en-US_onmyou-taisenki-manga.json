@@ -1,5 +1,9 @@
 {
     "title": "Onmyou Taisenki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/946.jpg",
+        "alt": "onmyou-taisenki"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

@@ -1,5 +1,9 @@
 {
     "title": "Toshigoro no Otokonoko to Are",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/154268.jpg",
+        "alt": "toshigoro-no-otokonoko-to-are"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

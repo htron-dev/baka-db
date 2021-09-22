@@ -1,5 +1,9 @@
 {
     "title": "Chance!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/42567.jpg",
+        "alt": "chance"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

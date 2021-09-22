@@ -1,5 +1,9 @@
 {
     "title": "Torimania",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203956.jpg",
+        "alt": "torimania"
+    },
     "type": "manga",
     "original_name": "トリマニア",
     "start_date": "2015-11-19",

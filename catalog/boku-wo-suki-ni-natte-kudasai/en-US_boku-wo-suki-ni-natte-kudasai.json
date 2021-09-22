@@ -1,5 +1,9 @@
 {
     "title": "Boku wo Suki ni Natte Kudasai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246025.jpg",
+        "alt": "boku-wo-suki-ni-natte-kudasai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

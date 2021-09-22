@@ -1,12 +1,16 @@
 {
     "title": "Blood+",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/10183.jpg",
+        "alt": "blood"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "ブラッドプラス",
     "start_date": "2005-10-08",
     "end_date": "2005-10-08",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Aozora no Namida (青空のナミダ)\" by Hitomi Takahashi (eps 1-13)",
+    "ending_song": "#1: \"Kataritsugu koto\" by Chitose Hajime (eps 1-13, 50)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

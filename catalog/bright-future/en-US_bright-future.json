@@ -1,5 +1,9 @@
 {
     "title": "Bright Future",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204867.jpg",
+        "alt": "bright-future"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "16",

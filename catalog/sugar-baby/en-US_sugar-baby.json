@@ -1,5 +1,9 @@
 {
     "title": "Sugar Baby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/80587.jpg",
+        "alt": "sugar-baby"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "シュガー・ベイビイ",

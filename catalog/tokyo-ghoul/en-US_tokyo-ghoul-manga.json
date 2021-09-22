@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Ghoul",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/114037.jpg",
+        "alt": "tokyo-ghoul"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "144",

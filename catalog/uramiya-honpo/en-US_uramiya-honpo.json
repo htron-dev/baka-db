@@ -1,5 +1,9 @@
 {
     "title": "Uramiya Honpo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196449.jpg",
+        "alt": "uramiya-honpo"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "143",

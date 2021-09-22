@@ -1,5 +1,9 @@
 {
     "title": "Tanabata Pentagon wa Koi ni Mukanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179149.jpg",
+        "alt": "tanabata-pentagon-wa-koi-ni-mukanai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

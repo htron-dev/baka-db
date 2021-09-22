@@ -1,5 +1,9 @@
 {
     "title": "A3! Spring",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202213.jpg",
+        "alt": "a-3-spring"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

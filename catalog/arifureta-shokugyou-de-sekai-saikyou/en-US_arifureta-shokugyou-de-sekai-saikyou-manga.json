@@ -1,5 +1,9 @@
 {
     "title": "Arifureta Shokugyou de Sekai Saikyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186402.jpg",
+        "alt": "arifureta-shokugyou-de-sekai-saikyou"
+    },
     "type": "manga",
     "original_name": "ありふれた職業で世界最強",
     "start_date": "2016-02-06",

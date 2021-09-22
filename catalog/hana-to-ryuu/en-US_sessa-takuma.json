@@ -1,5 +1,9 @@
 {
     "title": "Sessa Takuma!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/19319.jpg",
+        "alt": "sessa-takuma"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

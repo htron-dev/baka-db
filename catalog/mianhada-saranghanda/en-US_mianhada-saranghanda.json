@@ -1,5 +1,9 @@
 {
     "title": "Mianhada Saranghanda",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/26440.jpg",
+        "alt": "mianhada-saranghanda"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "미안하다 사랑한다",
@@ -20,7 +24,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/I'm_Sorry,_I_Love_You_(TV_series"
+            "link": "http://en.wikipedia.org/wiki/I'm_Sorry,_I_Love_You_%28TV_series%29"
         }
     ]
 }

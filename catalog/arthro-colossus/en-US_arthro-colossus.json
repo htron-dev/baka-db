@@ -1,5 +1,9 @@
 {
     "title": "Arthro Colossus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171679.jpg",
+        "alt": "arthro-colossus"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

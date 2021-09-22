@@ -1,5 +1,9 @@
 {
     "title": "Kowai Hon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/191180.jpg",
+        "alt": "kowai-hon"
+    },
     "type": "manga",
     "volumes": "14",
     "original_name": "こわい本",

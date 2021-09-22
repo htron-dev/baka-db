@@ -1,5 +1,9 @@
 {
     "title": "Sweet Blood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162974.jpg",
+        "alt": "sweet-blood"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "10",

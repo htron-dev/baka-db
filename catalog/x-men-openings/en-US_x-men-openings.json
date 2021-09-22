@@ -1,5 +1,9 @@
 {
     "title": "X-Men Openings",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1198/107853.jpg",
+        "alt": "x-men-openings"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "X-MEN",
@@ -18,7 +22,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/X-Men_(TV_series"
+            "link": "https://en.wikipedia.org/wiki/X-Men_%28TV_series%29#Other_versions"
         }
     ]
 }

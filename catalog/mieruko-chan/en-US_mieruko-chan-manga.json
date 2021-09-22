@@ -1,5 +1,9 @@
 {
     "title": "Mieruko-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/217799.jpg",
+        "alt": "mieruko-chan"
+    },
     "type": "manga",
     "original_name": "見える子ちゃん",
     "start_date": "2018-11-02",

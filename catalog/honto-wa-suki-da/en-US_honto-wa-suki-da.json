@@ -1,5 +1,9 @@
 {
     "title": "Honto wa Suki da",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/129247.jpg",
+        "alt": "honto-wa-suki-da"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ほんとは好きだ",

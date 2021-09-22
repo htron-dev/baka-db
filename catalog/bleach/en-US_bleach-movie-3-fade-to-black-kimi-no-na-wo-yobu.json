@@ -1,5 +1,9 @@
 {
     "title": "Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/64689.jpg",
+        "alt": "bleach-movie-3-fade-to-black-kimi-no-na-wo-yobu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 BLEACH Fade to Black 君の名を呼ぶ",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Bleach_(manga"
+            "link": "http://en.wikipedia.org/wiki/Bleach_%28manga%29#Films"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "A Princess and a Bum",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/17294.jpg",
+        "alt": "a-princess-and-a-bum"
+    },
     "type": "manhwa",
     "volumes": "5",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Koshoku Robot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190330.jpg",
+        "alt": "koshoku-robot"
+    },
     "type": "manga",
     "original_name": "孤食ロボット",
     "start_date": "2013-02-09",

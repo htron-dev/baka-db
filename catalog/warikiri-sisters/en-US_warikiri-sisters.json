@@ -1,5 +1,9 @@
 {
     "title": "Warikiri Sisters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228324.jpg",
+        "alt": "warikiri-sisters"
+    },
     "type": "manga",
     "original_name": "ワリキリ姉妹〈シスターズ〉",
     "start_date": "2019-03-02",

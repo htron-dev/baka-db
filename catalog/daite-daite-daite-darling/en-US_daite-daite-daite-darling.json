@@ -1,5 +1,9 @@
 {
     "title": "Daite Daite Daite Darling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7169.jpg",
+        "alt": "daite-daite-daite-darling"
+    },
     "type": "manga",
     "volumes": "15",
     "original_name": "抱いて抱いて抱いてダーリン",

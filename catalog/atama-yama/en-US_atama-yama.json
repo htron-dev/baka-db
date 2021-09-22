@@ -1,5 +1,9 @@
 {
     "title": "Atama Yama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/18494.jpg",
+        "alt": "atama-yama"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "頭山",

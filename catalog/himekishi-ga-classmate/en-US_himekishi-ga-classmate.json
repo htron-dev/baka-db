@@ -1,5 +1,9 @@
 {
     "title": "Himekishi ga Classmate!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176543.jpg",
+        "alt": "himekishi-ga-classmate"
+    },
     "type": "light-novel",
     "original_name": "姫騎士がクラスメート!",
     "start_date": "2015-02-03",

@@ -1,5 +1,9 @@
 {
     "title": "Buzzer Beater",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/57421.jpg",
+        "alt": "buzzer-beater"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "BUZZER BEATER",

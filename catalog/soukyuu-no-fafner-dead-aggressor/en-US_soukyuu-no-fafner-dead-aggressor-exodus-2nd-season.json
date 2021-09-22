@@ -1,12 +1,16 @@
 {
     "title": "Soukyuu no Fafner: Dead Aggressor - Exodus 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/76538.jpg",
+        "alt": "soukyuu-no-fafner-dead-aggressor-exodus-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "蒼穹のファフナー Dead Aggressor EXODUS",
     "start_date": "2015-10-03",
     "end_date": "2015-10-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Exist (イグジスト)\" by angela (eps 1-4)",
+    "ending_song": "#1: \"Anya Kouro (暗夜航路)\" by angela (eps 1-3)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

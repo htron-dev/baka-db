@@ -1,5 +1,9 @@
 {
     "title": "Say Say Say",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18787.jpg",
+        "alt": "say-say-say"
+    },
     "type": "manhwa",
     "volumes": "7",
     "chapters": "44",

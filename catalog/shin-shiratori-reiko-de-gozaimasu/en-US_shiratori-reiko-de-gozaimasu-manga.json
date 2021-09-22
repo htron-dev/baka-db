@@ -1,5 +1,9 @@
 {
     "title": "Shiratori Reiko de Gozaimasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/9374.jpg",
+        "alt": "shiratori-reiko-de-gozaimasu"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "44",

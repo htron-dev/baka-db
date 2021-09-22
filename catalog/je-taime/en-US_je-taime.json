@@ -1,5 +1,9 @@
 {
     "title": "Je t'aime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227401.jpg",
+        "alt": "je-taime"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ジュ・テーム",

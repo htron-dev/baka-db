@@ -1,5 +1,9 @@
 {
     "title": "Erabaresugishi Mono!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162858.jpg",
+        "alt": "erabaresugishi-mono"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "23",

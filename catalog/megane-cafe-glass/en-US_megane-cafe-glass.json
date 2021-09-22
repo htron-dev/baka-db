@@ -1,5 +1,9 @@
 {
     "title": "Megane Cafe Glass",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/57595.jpg",
+        "alt": "megane-cafe-glass"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

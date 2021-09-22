@@ -1,5 +1,9 @@
 {
     "title": "Stylish Buki-ya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/197303.jpg",
+        "alt": "stylish-buki-ya"
+    },
     "type": "light-novel",
     "original_name": "スタイリッシュ武器屋",
     "start_date": "2017-05-31",

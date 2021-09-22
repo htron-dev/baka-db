@@ -1,5 +1,9 @@
 {
     "title": "Saihate Keisatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/61739.jpg",
+        "alt": "saihate-keisatsu"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "最果警察",

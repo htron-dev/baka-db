@@ -1,5 +1,9 @@
 {
     "title": "Nekuroma.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163093.jpg",
+        "alt": "nekuroma"
+    },
     "type": "light-novel",
     "volumes": "7",
     "chapters": "41",

@@ -1,5 +1,9 @@
 {
     "title": "Inazuma Eleven: Outer Code",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/82195.jpg",
+        "alt": "inazuma-eleven-outer-code"
+    },
     "type": "ona",
     "episodes": "6",
     "original_name": "イナズマイレブン アウターコード",

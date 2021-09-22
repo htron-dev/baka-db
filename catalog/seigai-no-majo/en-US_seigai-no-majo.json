@@ -1,5 +1,9 @@
 {
     "title": "Seigai no Majo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157856.jpg",
+        "alt": "seigai-no-majo"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "41",

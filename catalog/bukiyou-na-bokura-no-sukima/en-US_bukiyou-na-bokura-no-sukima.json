@@ -1,5 +1,9 @@
 {
     "title": "Bukiyou na Bokura no Sukima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190078.jpg",
+        "alt": "bukiyou-na-bokura-no-sukima"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

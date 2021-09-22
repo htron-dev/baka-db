@@ -1,5 +1,9 @@
 {
     "title": "Kimi ni Aisarete Itakatta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/219898.jpg",
+        "alt": "kimi-ni-aisarete-itakatta"
+    },
     "type": "manga",
     "original_name": "君に愛されて痛かった",
     "start_date": "2017-06-06",

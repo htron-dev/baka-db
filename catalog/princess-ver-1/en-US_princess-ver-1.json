@@ -1,5 +1,9 @@
 {
     "title": "Princess Ver.1",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210422.jpg",
+        "alt": "princess-ver-1"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

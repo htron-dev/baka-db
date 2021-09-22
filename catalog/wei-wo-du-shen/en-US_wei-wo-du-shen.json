@@ -1,5 +1,9 @@
 {
     "title": "Wei Wo Du Shen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1631/111299.jpg",
+        "alt": "wei-wo-du-shen"
+    },
     "type": "ona",
     "episodes": "50",
     "original_name": "唯我独神",

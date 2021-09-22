@@ -1,5 +1,9 @@
 {
     "title": "Winged Mermaids",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178180.jpg",
+        "alt": "winged-mermaids"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

@@ -1,5 +1,9 @@
 {
     "title": "Kouya no Shounen Isamu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/54387.jpg",
+        "alt": "kouya-no-shounen-isamu"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "荒野の少年イサム",

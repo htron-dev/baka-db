@@ -1,5 +1,9 @@
 {
     "title": "Ikenie Touhyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190058.jpg",
+        "alt": "ikenie-touhyou"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "70",

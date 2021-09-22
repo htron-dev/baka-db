@@ -1,12 +1,16 @@
 {
     "title": "Bakukyuu Hit! Crash B-Daman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/18312.jpg",
+        "alt": "bakukyuu-hit-crash-b-daman"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "爆球 HIT! クラッシュビーダマン",
     "start_date": "2006-01-09",
     "end_date": "2006-01-09",
     "opening_song": "\"Beda Forever\" by Tsuyoshi Matsubara",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ashita ni Mukatte Get Dream! (明日に向かって Get Dream!)\" by Lia (ep 1-14)",
     "rating": "PG - Children",
     "tags": [
         "game",

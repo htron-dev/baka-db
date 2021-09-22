@@ -1,5 +1,9 @@
 {
     "title": "Sei to Shi no Kyoukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215943.jpg",
+        "alt": "sei-to-shi-no-kyoukai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "28",

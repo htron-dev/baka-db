@@ -1,5 +1,9 @@
 {
     "title": "The Change!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/12120.jpg",
+        "alt": "the-change"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "13",

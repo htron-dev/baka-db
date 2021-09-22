@@ -1,5 +1,9 @@
 {
     "title": "Junk Party",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/125721.jpg",
+        "alt": "junk-party"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ジャンクパーティ",

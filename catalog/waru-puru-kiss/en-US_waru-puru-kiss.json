@@ -1,5 +1,9 @@
 {
     "title": "Waru Puru Kiss!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163248.jpg",
+        "alt": "waru-puru-kiss"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "21",

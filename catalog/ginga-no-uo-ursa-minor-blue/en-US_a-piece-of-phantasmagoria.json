@@ -1,5 +1,9 @@
 {
     "title": "A Piece of Phantasmagoria",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1577/92716.jpg",
+        "alt": "a-piece-of-phantasmagoria"
+    },
     "type": "ova",
     "episodes": "15",
     "original_name": "a piece of PHANTASMAGORIA (ア・ピース・オブ ファンタスマゴリア)",

@@ -1,5 +1,9 @@
 {
     "title": "Layla &amp; Rei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/85761.jpg",
+        "alt": "layla-amp-rei"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

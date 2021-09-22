@@ -1,5 +1,9 @@
 {
     "title": "Fujimura-kun Mates",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/66005.jpg",
+        "alt": "fujimura-kun-mates"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "97",

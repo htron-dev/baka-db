@@ -1,5 +1,9 @@
 {
     "title": "Aquarium",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/58889.jpg",
+        "alt": "aquarium"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "アクアリウム",

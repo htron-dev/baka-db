@@ -1,5 +1,9 @@
 {
     "title": "Spica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/46675.jpg",
+        "alt": "spica"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

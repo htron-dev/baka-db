@@ -1,10 +1,14 @@
 {
     "title": "A-Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/82178.jpg",
+        "alt": "a-girl"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "A-Girl [エー・ガール]",
     "start_date": "1993-09-24",
-    "ending_song": "\"THE MAGIC OF YOUR SIGHT",
+    "ending_song": "\"THE MAGIC OF YOUR SIGHT: Hitomi no Magic (THE MAGIC OF YOUR SIGHT 瞳のマジック)\" by SEIKA",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music",

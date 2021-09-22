@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Shounen Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11226.jpg",
+        "alt": "tokyo-shounen-monogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "東京少年物語",

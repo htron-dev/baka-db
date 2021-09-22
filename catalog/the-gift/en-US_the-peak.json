@@ -1,5 +1,9 @@
 {
     "title": "The Peak",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1909/103551.jpg",
+        "alt": "the-peak"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "THE PEAK",

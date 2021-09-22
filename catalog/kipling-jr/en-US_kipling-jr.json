@@ -1,5 +1,9 @@
 {
     "title": "Kipling Jr.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/17806.jpg",
+        "alt": "kipling-jr"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "キップリング Jr.",

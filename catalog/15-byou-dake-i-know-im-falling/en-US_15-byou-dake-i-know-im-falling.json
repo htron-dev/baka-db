@@ -1,5 +1,9 @@
 {
     "title": "15-byou dake: I Know I'm falling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/135485.jpg",
+        "alt": "15-byou-dake-i-know-im-falling"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

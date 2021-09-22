@@ -1,5 +1,9 @@
 {
     "title": "Saver",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150822.jpg",
+        "alt": "saver"
+    },
     "type": "manhwa",
     "volumes": "17",
     "chapters": "55",

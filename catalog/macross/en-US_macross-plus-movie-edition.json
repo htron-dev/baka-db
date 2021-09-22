@@ -1,5 +1,9 @@
 {
     "title": "Macross Plus Movie Edition",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/75806.jpg",
+        "alt": "macross-plus-movie-edition"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "マクロスプラス　ＭＯＶＩＥ　ＥＤＩＴＩＯＮ",

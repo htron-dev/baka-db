@@ -1,5 +1,9 @@
 {
     "title": "Legend of Regios",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/22585.jpg",
+        "alt": "legend-of-regios"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "レジェンド・オブ・レギオス",

@@ -1,5 +1,9 @@
 {
     "title": "Typhoon Sakusen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167677.jpg",
+        "alt": "typhoon-sakusen"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "タイフーン作戦",

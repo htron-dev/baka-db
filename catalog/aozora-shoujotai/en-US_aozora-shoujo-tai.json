@@ -1,12 +1,16 @@
 {
     "title": "Aozora Shoujo-tai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1306/100405.jpg",
+        "alt": "aozora-shoujo-tai"
+    },
     "type": "ova",
     "episodes": "7",
     "original_name": "青空少女隊",
     "start_date": "1994-10-21",
     "end_date": "1994-10-21",
     "opening_song": "\"Niji ni Naritai (I Wanna Be a Rainbow)\" by Mayaka",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Taiyou ga Atatameta Kimochi (The Sun Warms My Heart)\" by Aya Hisakawa and Ai Orikasa (eps 1-3)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Kanae no Hoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/134207.jpg",
+        "alt": "kanae-no-hoshi"
+    },
     "type": "light-novel",
     "original_name": "カナエの星",
     "start_date": "2014-08-09",

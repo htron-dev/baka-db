@@ -1,5 +1,9 @@
 {
     "title": "Thanatos no Shisha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/116709.jpg",
+        "alt": "thanatos-no-shisha"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "17",

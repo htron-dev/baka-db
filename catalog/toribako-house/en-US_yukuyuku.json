@@ -1,5 +1,9 @@
 {
     "title": "Yukuyuku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215098.jpg",
+        "alt": "yukuyuku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

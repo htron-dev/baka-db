@@ -1,5 +1,9 @@
 {
     "title": "Mitsuaji Darling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152175.jpg",
+        "alt": "mitsuaji-darling"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "蜜味ダーリン",

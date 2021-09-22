@@ -1,5 +1,9 @@
 {
     "title": "Banana no Nana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188913.jpg",
+        "alt": "banana-no-nana"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Fumare, Najirare, Hirefushitai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192881.jpg",
+        "alt": "fumare-najirare-hirefushitai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Komomo Confiserie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/145331.jpg",
+        "alt": "komomo-confiserie"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "29",

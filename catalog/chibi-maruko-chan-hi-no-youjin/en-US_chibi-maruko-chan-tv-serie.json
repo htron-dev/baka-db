@@ -1,12 +1,16 @@
 {
     "title": "Chibi Maruko-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/22476.jpg",
+        "alt": "chibi-maruko-chan"
+    },
     "type": "tv-serie",
     "episodes": "142",
     "original_name": "ちびまる子ちゃん",
     "start_date": "1990-01-07",
     "end_date": "1990-01-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Yume Ippai (ゆめいっぱい)\" by Yumiko Arima",
+    "ending_song": "#1: \"Odoru Pompokolin (おどるポンポコリン)\" by B.B. Queens",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

@@ -1,5 +1,9 @@
 {
     "title": "Kakuu no Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/61643.jpg",
+        "alt": "kakuu-no-koibito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Koushaku-sama no Kawaii Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193850.jpg",
+        "alt": "koushaku-sama-no-kawaii-koibito"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",
@@ -15,7 +19,6 @@
         "Ikegami",
         "Sakyou (Art)"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

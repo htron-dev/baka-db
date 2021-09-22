@@ -1,5 +1,9 @@
 {
     "title": "Issho ni Gohan. -Takitate!-",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/83456.jpg",
+        "alt": "issho-ni-gohan-takitate"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

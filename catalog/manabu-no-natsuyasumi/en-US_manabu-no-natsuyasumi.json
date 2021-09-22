@@ -1,5 +1,9 @@
 {
     "title": "Manabu no Natsuyasumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/62273.jpg",
+        "alt": "manabu-no-natsuyasumi"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "学の夏休み",

@@ -1,5 +1,9 @@
 {
     "title": "Siva no Yoru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150657.jpg",
+        "alt": "siva-no-yoru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Gesu no Police",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194188.jpg",
+        "alt": "gesu-no-police"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

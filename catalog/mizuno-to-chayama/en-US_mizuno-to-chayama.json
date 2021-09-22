@@ -1,5 +1,9 @@
 {
     "title": "Mizuno to Chayama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236205.jpg",
+        "alt": "mizuno-to-chayama"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

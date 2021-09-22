@@ -1,5 +1,9 @@
 {
     "title": "Green Green",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162358.jpg",
+        "alt": "green-green"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "グリーングリーン",

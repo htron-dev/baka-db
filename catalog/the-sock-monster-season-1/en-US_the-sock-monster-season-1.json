@@ -1,5 +1,9 @@
 {
     "title": "The Sock Monster Season 1",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180893.jpg",
+        "alt": "the-sock-monster-season-1"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "30",

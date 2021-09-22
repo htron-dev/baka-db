@@ -1,5 +1,9 @@
 {
     "title": "Shiroi Senshi Yamato",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/184517.jpg",
+        "alt": "shiroi-senshi-yamato"
+    },
     "type": "manga",
     "volumes": "26",
     "chapters": "100",

@@ -1,5 +1,9 @@
 {
     "title": "Annatour Seiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203697.jpg",
+        "alt": "annatour-seiden"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "6",

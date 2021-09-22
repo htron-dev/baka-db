@@ -1,5 +1,9 @@
 {
     "title": "Tonari no Siam-neko Tantei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/211108.jpg",
+        "alt": "tonari-no-siam-neko-tantei"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

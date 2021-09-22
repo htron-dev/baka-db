@@ -1,5 +1,9 @@
 {
     "title": "Dystopia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150105.jpg",
+        "alt": "dystopia"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

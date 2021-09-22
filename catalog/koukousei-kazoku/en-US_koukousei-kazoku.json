@@ -1,5 +1,9 @@
 {
     "title": "Koukousei Kazoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240566.jpg",
+        "alt": "koukousei-kazoku"
+    },
     "type": "manga",
     "original_name": "高校生家族",
     "start_date": "2020-09-07",

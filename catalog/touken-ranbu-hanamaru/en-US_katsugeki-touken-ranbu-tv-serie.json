@@ -1,5 +1,9 @@
 {
     "title": "Katsugeki/Touken Ranbu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/87984.jpg",
+        "alt": "katsugeki-touken-ranbu"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "活撃／刀剣乱舞",

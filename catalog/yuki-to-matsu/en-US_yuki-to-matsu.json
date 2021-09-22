@@ -1,5 +1,9 @@
 {
     "title": "Yuki to Matsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222624.jpg",
+        "alt": "yuki-to-matsu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "First Squad: The Moment of Truth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/15653.jpg",
+        "alt": "first-squad-the-moment-of-truth"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ファーストスクワッド",

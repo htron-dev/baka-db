@@ -1,5 +1,9 @@
 {
     "title": "Koibito Assortment",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/124865.jpg",
+        "alt": "koibito-assortment"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

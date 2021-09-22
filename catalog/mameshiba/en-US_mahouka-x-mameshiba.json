@@ -1,5 +1,9 @@
 {
     "title": "Mahouka x Mameshiba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/85892.jpg",
+        "alt": "mahouka-x-mameshiba"
+    },
     "type": "ona",
     "episodes": "4",
     "original_name": "魔法科 × 豆しば",

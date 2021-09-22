@@ -1,5 +1,9 @@
 {
     "title": "Binbin eyes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32327.jpg",
+        "alt": "binbin-eyes"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "びんびん eyes",

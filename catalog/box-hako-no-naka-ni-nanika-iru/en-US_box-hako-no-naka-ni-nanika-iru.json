@@ -1,5 +1,9 @@
 {
     "title": "Box: Hako no Naka ni Nanika Iru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205430.jpg",
+        "alt": "box-hako-no-naka-ni-nanika-iru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

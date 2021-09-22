@@ -1,5 +1,9 @@
 {
     "title": "Kidou Senshi Gundam: École du Ciel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149934.jpg",
+        "alt": "kidou-senshi-gundam-ecole-du-ciel"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "68",

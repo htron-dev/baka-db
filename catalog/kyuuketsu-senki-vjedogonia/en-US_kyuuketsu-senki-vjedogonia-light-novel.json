@@ -1,5 +1,9 @@
 {
     "title": "Kyuuketsu Senki Vjedogonia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159040.jpg",
+        "alt": "kyuuketsu-senki-vjedogonia"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "19",

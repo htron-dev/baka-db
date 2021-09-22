@@ -1,5 +1,9 @@
 {
     "title": "Ja Ja Ja Jan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180489.jpg",
+        "alt": "ja-ja-ja-jan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "22",

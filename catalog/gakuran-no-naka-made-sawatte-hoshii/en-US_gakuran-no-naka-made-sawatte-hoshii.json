@@ -1,5 +1,9 @@
 {
     "title": "Gakuran no Naka made Sawatte Hoshii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224840.jpg",
+        "alt": "gakuran-no-naka-made-sawatte-hoshii"
+    },
     "type": "manga",
     "original_name": "学ランの中までさわって欲しい",
     "start_date": "2018-01-26",

@@ -1,5 +1,9 @@
 {
     "title": "Zettai Yareru Greece Shinwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/53619.jpg",
+        "alt": "zettai-yareru-greece-shinwa"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "絶対やれるギリシャ神話",

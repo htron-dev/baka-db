@@ -1,5 +1,9 @@
 {
     "title": "Jiyuantai Qihao",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1122/113313.jpg",
+        "alt": "jiyuantai-qihao"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "繼園臺七號",

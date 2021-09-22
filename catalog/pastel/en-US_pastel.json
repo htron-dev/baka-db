@@ -1,5 +1,9 @@
 {
     "title": "Pastel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188952.jpg",
+        "alt": "pastel"
+    },
     "type": "manga",
     "volumes": "44",
     "chapters": "219",

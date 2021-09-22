@@ -1,5 +1,9 @@
 {
     "title": "Yandere Hitotsu Yane no Shita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194564.jpg",
+        "alt": "yandere-hitotsu-yane-no-shita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

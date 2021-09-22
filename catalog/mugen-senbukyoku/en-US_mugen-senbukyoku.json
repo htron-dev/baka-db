@@ -1,5 +1,9 @@
 {
     "title": "Mugen Senbukyoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198940.jpg",
+        "alt": "mugen-senbukyoku"
+    },
     "type": "light-novel",
     "original_name": "夢幻戦舞曲",
     "start_date": "2017-08-25",

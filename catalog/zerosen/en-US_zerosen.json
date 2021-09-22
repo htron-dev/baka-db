@@ -1,5 +1,9 @@
 {
     "title": "Zerosen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/75575.jpg",
+        "alt": "zerosen"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "77",

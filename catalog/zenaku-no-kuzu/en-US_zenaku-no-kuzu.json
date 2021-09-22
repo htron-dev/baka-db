@@ -1,5 +1,9 @@
 {
     "title": "Zenaku no Kuzu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/216887.jpg",
+        "alt": "zenaku-no-kuzu"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "37",

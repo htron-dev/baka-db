@@ -1,5 +1,9 @@
 {
     "title": "Dokusaisha Granada",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/4106.jpg",
+        "alt": "dokusaisha-granada"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

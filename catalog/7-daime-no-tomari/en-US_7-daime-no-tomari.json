@@ -1,5 +1,9 @@
 {
     "title": "7 Daime no Tomari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/38764.jpg",
+        "alt": "7-daime-no-tomari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

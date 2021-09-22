@@ -1,5 +1,9 @@
 {
     "title": "Long &amp; Beautiful Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/102177.jpg",
+        "alt": "long-amp-beautiful-life"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

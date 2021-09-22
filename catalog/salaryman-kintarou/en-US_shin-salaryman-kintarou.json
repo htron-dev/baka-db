@@ -1,5 +1,9 @@
 {
     "title": "Shin Salaryman Kintarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176551.jpg",
+        "alt": "shin-salaryman-kintarou"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "53",

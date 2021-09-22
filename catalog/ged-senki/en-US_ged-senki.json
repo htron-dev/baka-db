@@ -1,5 +1,9 @@
 {
     "title": "Ged Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/73443.jpg",
+        "alt": "ged-senki"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ゲド戦記",

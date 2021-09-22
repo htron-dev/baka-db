@@ -1,5 +1,9 @@
 {
     "title": "Isuca",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/71767.jpg",
+        "alt": "isuca"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "ISUCA [イスカ]",

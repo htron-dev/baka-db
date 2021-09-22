@@ -1,5 +1,9 @@
 {
     "title": "Ragouden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/75583.jpg",
+        "alt": "ragouden"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "羅【ゴウ】伝",

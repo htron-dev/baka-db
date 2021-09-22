@@ -1,5 +1,9 @@
 {
     "title": "Micchiri Neko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/89947.jpg",
+        "alt": "micchiri-neko"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "みっちりねこ",

@@ -1,5 +1,9 @@
 {
     "title": "Offside",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/183359.jpg",
+        "alt": "offside"
+    },
     "type": "manga",
     "volumes": "29",
     "original_name": "オフサイド",

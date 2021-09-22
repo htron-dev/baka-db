@@ -1,5 +1,9 @@
 {
     "title": "Class X no Funtou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160012.jpg",
+        "alt": "class-x-no-funtou"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "12",

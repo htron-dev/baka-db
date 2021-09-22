@@ -1,11 +1,15 @@
 {
     "title": "Wake Up, Girls!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/58971.jpg",
+        "alt": "wake-up-girls"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "Wake Up, Girls！",
     "start_date": "2014-01-11",
     "end_date": "2014-01-11",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Tachiagare! (タチアガレ！)\" by Wake Up, Girls! (TV: eps 1-2)",
     "ending_song": "\"Kotonoha Aoba (言の葉 青葉)\" by Wake Up, Girls!",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Robot Taekwon V: Wooju Jakjeon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/44666.jpg",
+        "alt": "robot-taekwon-v-wooju-jakjeon"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "로보트 태권V 우주작전",

@@ -1,5 +1,9 @@
 {
     "title": "Sick",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/155646.jpg",
+        "alt": "sick"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

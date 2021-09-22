@@ -1,5 +1,9 @@
 {
     "title": "Tao no Green",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29863.jpg",
+        "alt": "tao-no-green"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "タオの緑【グリーン】",

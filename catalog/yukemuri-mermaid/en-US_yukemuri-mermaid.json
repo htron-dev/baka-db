@@ -1,5 +1,9 @@
 {
     "title": "Yukemuri Mermaid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/131747.jpg",
+        "alt": "yukemuri-mermaid"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

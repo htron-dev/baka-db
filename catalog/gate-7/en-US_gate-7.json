@@ -1,5 +1,9 @@
 {
     "title": "Gate 7",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/44915.jpg",
+        "alt": "gate-7"
+    },
     "type": "manga",
     "original_name": "GATE 7",
     "start_date": "2010-11-04",

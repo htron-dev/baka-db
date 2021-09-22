@@ -1,5 +1,9 @@
 {
     "title": "Taki Takanosuke no Sanpo Jikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165921.jpg",
+        "alt": "taki-takanosuke-no-sanpo-jikan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

@@ -1,5 +1,9 @@
 {
     "title": "Ninja Papa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/45657.jpg",
+        "alt": "ninja-papa"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "59",

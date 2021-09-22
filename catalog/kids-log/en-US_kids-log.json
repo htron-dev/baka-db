@@ -1,5 +1,9 @@
 {
     "title": "Kid's Log",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32766.jpg",
+        "alt": "kids-log"
+    },
     "type": "manga",
     "original_name": "キッズログ",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Mienai Kao",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24808.jpg",
+        "alt": "mienai-kao"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "見えない顔",

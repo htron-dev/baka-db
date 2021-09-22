@@ -1,5 +1,9 @@
 {
     "title": "Dear My Mister",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12210.jpg",
+        "alt": "dear-my-mister"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

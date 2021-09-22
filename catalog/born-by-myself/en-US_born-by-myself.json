@@ -1,5 +1,9 @@
 {
     "title": "Born by Myself",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/23961.jpg",
+        "alt": "born-by-myself"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "BORN BY MYSELF",

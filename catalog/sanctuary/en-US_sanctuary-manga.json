@@ -1,5 +1,9 @@
 {
     "title": "Sanctuary",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170458.jpg",
+        "alt": "sanctuary"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "108",

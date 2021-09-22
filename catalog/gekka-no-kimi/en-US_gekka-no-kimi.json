@@ -1,5 +1,9 @@
 {
     "title": "Gekka no Kimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/1548.jpg",
+        "alt": "gekka-no-kimi"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "28",

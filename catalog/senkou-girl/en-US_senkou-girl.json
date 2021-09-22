@@ -1,5 +1,9 @@
 {
     "title": "Senkou Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194370.jpg",
+        "alt": "senkou-girl"
+    },
     "type": "manga",
     "original_name": "センコウガール",
     "start_date": "2015-05-07",

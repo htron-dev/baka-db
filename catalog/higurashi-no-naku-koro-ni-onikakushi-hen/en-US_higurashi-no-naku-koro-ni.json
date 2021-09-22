@@ -1,5 +1,9 @@
 {
     "title": "Higurashi no Naku Koro ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/19634.jpg",
+        "alt": "higurashi-no-naku-koro-ni"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ひぐらしのなく頃に",

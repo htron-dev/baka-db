@@ -1,5 +1,9 @@
 {
     "title": "Maboroshi ni Furete yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/191267.jpg",
+        "alt": "maboroshi-ni-furete-yo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

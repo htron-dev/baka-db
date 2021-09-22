@@ -1,5 +1,9 @@
 {
     "title": "Teenage Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/24946.jpg",
+        "alt": "teenage-days"
+    },
     "type": "manga",
     "volumes": "1",
     "tags": [

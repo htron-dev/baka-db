@@ -1,5 +1,9 @@
 {
     "title": "Nichijousahan Bi - Beautiful Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32130.jpg",
+        "alt": "nichijousahan-bi-beautiful-life"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

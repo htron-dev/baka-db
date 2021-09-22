@@ -1,5 +1,9 @@
 {
     "title": "Shiori wo Sagasu Page-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206831.jpg",
+        "alt": "shiori-wo-sagasu-page-tachi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Mori no Majo-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/25093.jpg",
+        "alt": "mori-no-majo-tachi"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "森の魔女たち",

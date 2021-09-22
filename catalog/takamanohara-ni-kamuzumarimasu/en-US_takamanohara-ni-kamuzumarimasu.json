@@ -1,5 +1,9 @@
 {
     "title": "Takamanohara ni Kamuzumarimasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/81322.jpg",
+        "alt": "takamanohara-ni-kamuzumarimasu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

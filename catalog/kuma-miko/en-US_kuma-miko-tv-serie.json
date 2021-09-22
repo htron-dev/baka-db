@@ -1,5 +1,9 @@
 {
     "title": "Kuma Miko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/78863.jpg",
+        "alt": "kuma-miko"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "くまみこ",

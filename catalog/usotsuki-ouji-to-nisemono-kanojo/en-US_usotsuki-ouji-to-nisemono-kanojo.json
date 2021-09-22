@@ -1,5 +1,9 @@
 {
     "title": "Usotsuki Ouji to Nisemono Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/134417.jpg",
+        "alt": "usotsuki-ouji-to-nisemono-kanojo"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "20",

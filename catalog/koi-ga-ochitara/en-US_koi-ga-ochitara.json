@@ -1,5 +1,9 @@
 {
     "title": "Koi ga Ochitara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/220855.jpg",
+        "alt": "koi-ga-ochitara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

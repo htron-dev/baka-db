@@ -1,5 +1,9 @@
 {
     "title": "Sol Trigger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/80578.jpg",
+        "alt": "sol-trigger"
+    },
     "type": "manga",
     "original_name": "ソールトリガー",
     "start_date": "2012-09-30",

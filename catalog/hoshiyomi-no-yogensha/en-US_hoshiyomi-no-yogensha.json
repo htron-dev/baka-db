@@ -1,5 +1,9 @@
 {
     "title": "Hoshiyomi no Yogensha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14537.jpg",
+        "alt": "hoshiyomi-no-yogensha"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

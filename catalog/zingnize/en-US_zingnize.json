@@ -1,5 +1,9 @@
 {
     "title": "Zingnize",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223886.jpg",
+        "alt": "zingnize"
+    },
     "type": "manga",
     "original_name": "ZINGNIZE",
     "start_date": "2018-03-19",

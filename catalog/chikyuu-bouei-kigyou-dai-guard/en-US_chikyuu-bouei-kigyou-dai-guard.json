@@ -1,12 +1,16 @@
 {
     "title": "Chikyuu Bouei Kigyou Dai-Guard",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1969/94093.jpg",
+        "alt": "chikyuu-bouei-kigyou-dai-guard"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "地球防衛企業ダイ・ガード",
     "start_date": "1999-10-05",
     "end_date": "1999-10-05",
     "opening_song": "\"Roji Ura no Uchuu Shounen (路地裏の宇宙少年)\" by The Cobratwisters",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hashire Hashire (走れ走れ)\" by Kyouko Endou (eps 1-25)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "military",

@@ -1,5 +1,9 @@
 {
     "title": "Tenshi no Marshmallow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/49211.jpg",
+        "alt": "tenshi-no-marshmallow"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "32",

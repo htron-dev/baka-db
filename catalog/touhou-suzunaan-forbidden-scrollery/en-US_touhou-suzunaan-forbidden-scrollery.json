@@ -1,5 +1,9 @@
 {
     "title": "Touhou Suzunaan: Forbidden Scrollery.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198717.jpg",
+        "alt": "touhou-suzunaan-forbidden-scrollery"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "54",

@@ -1,5 +1,9 @@
 {
     "title": "Treasure Hunter Kukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/80223.jpg",
+        "alt": "treasure-hunter-kukai"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "トレジャーハンター KUKAI",

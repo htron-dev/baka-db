@@ -1,5 +1,9 @@
 {
     "title": "Oresama Tengoku! Rojiura no Ningyo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14278.jpg",
+        "alt": "oresama-tengoku-rojiura-no-ningyo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

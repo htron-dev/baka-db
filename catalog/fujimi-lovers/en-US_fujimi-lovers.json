@@ -1,5 +1,9 @@
 {
     "title": "Fujimi Lovers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/188784.jpg",
+        "alt": "fujimi-lovers"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

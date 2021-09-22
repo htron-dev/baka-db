@@ -1,5 +1,9 @@
 {
     "title": "Kami Sen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/35205.jpg",
+        "alt": "kami-sen"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "27",

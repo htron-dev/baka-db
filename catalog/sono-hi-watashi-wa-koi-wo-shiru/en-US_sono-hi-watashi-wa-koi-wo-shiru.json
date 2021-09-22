@@ -1,5 +1,9 @@
 {
     "title": "Sono Hi, Watashi wa Koi wo Shiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/191607.jpg",
+        "alt": "sono-hi-watashi-wa-koi-wo-shiru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

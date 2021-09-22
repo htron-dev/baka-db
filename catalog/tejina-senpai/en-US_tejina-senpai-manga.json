@@ -1,5 +1,9 @@
 {
     "title": "Tejina-senpai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181510.jpg",
+        "alt": "tejina-senpai"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "132",

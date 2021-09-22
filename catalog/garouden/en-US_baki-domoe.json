@@ -1,5 +1,9 @@
 {
     "title": "Baki Domoe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207743.jpg",
+        "alt": "baki-domoe"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "89",

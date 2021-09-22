@@ -1,5 +1,9 @@
 {
     "title": "Karen no Fastener",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/39021.jpg",
+        "alt": "karen-no-fastener"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

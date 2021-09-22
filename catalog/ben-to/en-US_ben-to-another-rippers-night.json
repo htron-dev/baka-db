@@ -1,5 +1,9 @@
 {
     "title": "Ben-To Another: Ripper's Night",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173158.jpg",
+        "alt": "ben-to-another-rippers-night"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

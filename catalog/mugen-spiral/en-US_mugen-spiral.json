@@ -1,5 +1,9 @@
 {
     "title": "Mugen Spiral",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/109475.jpg",
+        "alt": "mugen-spiral"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

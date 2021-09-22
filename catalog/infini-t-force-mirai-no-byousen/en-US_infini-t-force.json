@@ -1,5 +1,9 @@
 {
     "title": "Infini-T Force",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/88430.jpg",
+        "alt": "infini-t-force"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "Infini-T Force",

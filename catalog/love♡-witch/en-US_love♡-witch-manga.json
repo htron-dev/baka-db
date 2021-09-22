@@ -1,5 +1,9 @@
 {
     "title": "Love♡Witch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/12886.jpg",
+        "alt": "love♡-witch"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "ラブ ♡ ウィッチ",

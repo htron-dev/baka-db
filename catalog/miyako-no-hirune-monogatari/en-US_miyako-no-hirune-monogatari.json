@@ -1,5 +1,9 @@
 {
     "title": "Miyako no Hirune Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168482.jpg",
+        "alt": "miyako-no-hirune-monogatari"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

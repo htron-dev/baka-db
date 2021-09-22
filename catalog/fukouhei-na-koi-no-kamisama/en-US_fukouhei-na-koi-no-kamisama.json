@@ -1,5 +1,9 @@
 {
     "title": "Fukouhei na Koi no Kamisama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247259.jpg",
+        "alt": "fukouhei-na-koi-no-kamisama"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "不公平な恋の神様",

@@ -1,5 +1,9 @@
 {
     "title": "Mirai Bouken Channel 5",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167468.jpg",
+        "alt": "mirai-bouken-channel-5"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "未来冒険チャンネル 5",

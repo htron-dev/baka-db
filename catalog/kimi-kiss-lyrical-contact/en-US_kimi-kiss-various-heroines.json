@@ -1,5 +1,9 @@
 {
     "title": "KimiKiss: Various Heroines",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180639.jpg",
+        "alt": "kimi-kiss-various-heroines"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "48",

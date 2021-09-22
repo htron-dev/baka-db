@@ -1,5 +1,9 @@
 {
     "title": "Tokkou Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154475.jpg",
+        "alt": "tokkou-zero"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

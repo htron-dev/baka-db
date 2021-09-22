@@ -1,5 +1,9 @@
 {
     "title": "Animegataris",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/89686.jpg",
+        "alt": "animegataris"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "アニメガタリズ",

@@ -1,5 +1,9 @@
 {
     "title": "Tekken Chinmi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/57443.jpg",
+        "alt": "tekken-chinmi"
+    },
     "type": "tv-serie",
     "episodes": "20",
     "original_name": "鉄拳チンミ",

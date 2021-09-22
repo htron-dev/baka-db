@@ -1,5 +1,9 @@
 {
     "title": "Don: Gokudou Suikoden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/49405.jpg",
+        "alt": "don-gokudou-suikoden"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "ドン 極道水滸伝",

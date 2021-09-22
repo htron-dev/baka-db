@@ -1,5 +1,9 @@
 {
     "title": "Kine-san no Hitori de Kinema",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170253.jpg",
+        "alt": "kine-san-no-hitori-de-kinema"
+    },
     "type": "manga",
     "original_name": "木根さんの 1 人でキネマ",
     "start_date": "2014-12-12",

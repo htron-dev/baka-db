@@ -1,5 +1,9 @@
 {
     "title": "Misaki Number One!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/50135.jpg",
+        "alt": "misaki-number-one"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "美咲ナンバーワン!!",

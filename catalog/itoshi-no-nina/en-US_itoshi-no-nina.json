@@ -1,5 +1,9 @@
 {
     "title": "Itoshi no Nina",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/178417.jpg",
+        "alt": "itoshi-no-nina"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "29",

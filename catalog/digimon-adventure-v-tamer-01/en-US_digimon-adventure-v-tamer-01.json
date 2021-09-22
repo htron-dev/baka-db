@@ -1,5 +1,9 @@
 {
     "title": "Digimon Adventure: V-Tamer 01",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/9132.jpg",
+        "alt": "digimon-adventure-v-tamer-01"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "63",

@@ -1,5 +1,9 @@
 {
     "title": "Wanghu Sim Cheong",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/8714.jpg",
+        "alt": "wanghu-sim-cheong"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "왕후 심청",

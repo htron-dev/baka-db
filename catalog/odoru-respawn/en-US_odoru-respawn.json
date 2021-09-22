@@ -1,5 +1,9 @@
 {
     "title": "Odoru Respawn",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236123.jpg",
+        "alt": "odoru-respawn"
+    },
     "type": "manga",
     "original_name": "踊るリスポーン",
     "start_date": "2018-12-06",

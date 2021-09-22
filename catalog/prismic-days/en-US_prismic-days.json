@@ -1,5 +1,9 @@
 {
     "title": "Prismic Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162451.jpg",
+        "alt": "prismic-days"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

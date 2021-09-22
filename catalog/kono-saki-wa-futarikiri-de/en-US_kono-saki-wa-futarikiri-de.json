@@ -1,5 +1,9 @@
 {
     "title": "Kono Saki wa Futarikiri de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237852.jpg",
+        "alt": "kono-saki-wa-futarikiri-de"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Donald Onsen Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/250213.jpg",
+        "alt": "donald-onsen-monogatari"
+    },
     "type": "manga",
     "original_name": "ドナルド温泉物語",
     "start_date": "2021-04-07",

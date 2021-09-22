@@ -1,5 +1,9 @@
 {
     "title": "Shokugyou Mushoku no Ore ga Boukensha wo Mezasu Wake.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172276.jpg",
+        "alt": "shokugyou-mushoku-no-ore-ga-boukensha-wo-mezasu-wake"
+    },
     "type": "light-novel",
     "original_name": "職業無職の俺が冒険者を目指すワケ。",
     "start_date": "2016-02-10",

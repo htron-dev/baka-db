@@ -1,5 +1,9 @@
 {
     "title": "Tajjii Majjii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22855.jpg",
+        "alt": "tajjii-majjii"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "タッジー・マッジー",

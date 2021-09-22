@@ -1,5 +1,9 @@
 {
     "title": "Let's Do It The Cool Way!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/13424.jpg",
+        "alt": "lets-do-it-the-cool-way"
+    },
     "type": "manga",
     "tags": [
         "comedy",

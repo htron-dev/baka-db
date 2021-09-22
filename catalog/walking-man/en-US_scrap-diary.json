@@ -1,5 +1,9 @@
 {
     "title": "Scrap Diary",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/88365.jpg",
+        "alt": "scrap-diary"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "スクラップ・ダイアリー",

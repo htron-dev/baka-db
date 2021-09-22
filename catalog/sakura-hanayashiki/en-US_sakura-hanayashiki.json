@@ -1,5 +1,9 @@
 {
     "title": "Sakura Hanayashiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36350.jpg",
+        "alt": "sakura-hanayashiki"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "桜・ハナヤシキ",

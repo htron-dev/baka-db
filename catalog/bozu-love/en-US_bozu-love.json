@@ -1,5 +1,9 @@
 {
     "title": "Bozu Love!!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/40973.jpg",
+        "alt": "bozu-love"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

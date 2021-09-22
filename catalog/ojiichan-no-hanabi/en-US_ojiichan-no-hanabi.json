@@ -1,5 +1,9 @@
 {
     "title": "Ojiichan no Hanabi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/74524.jpg",
+        "alt": "ojiichan-no-hanabi"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "おじいちゃんの花火",

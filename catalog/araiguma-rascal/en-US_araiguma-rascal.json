@@ -1,5 +1,9 @@
 {
     "title": "Araiguma Rascal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/3363.jpg",
+        "alt": "araiguma-rascal"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "あらいぐまラスカル",

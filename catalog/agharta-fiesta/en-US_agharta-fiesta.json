@@ -1,5 +1,9 @@
 {
     "title": "Agharta Fiesta!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/97327.jpg",
+        "alt": "agharta-fiesta"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "アガルタ・フィエスタ!",

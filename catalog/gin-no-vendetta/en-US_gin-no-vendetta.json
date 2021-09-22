@@ -1,5 +1,9 @@
 {
     "title": "Gin no Vendetta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196380.jpg",
+        "alt": "gin-no-vendetta"
+    },
     "type": "manga",
     "original_name": "銀のヴェンデッタ",
     "start_date": "2016-11-26",

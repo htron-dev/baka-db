@@ -1,5 +1,9 @@
 {
     "title": "Mazinger Z: Alter Ignition",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222478.jpg",
+        "alt": "mazinger-z-alter-ignition"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

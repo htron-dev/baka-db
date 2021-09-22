@@ -1,5 +1,9 @@
 {
     "title": "Clave no Kagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164406.jpg",
+        "alt": "clave-no-kagi"
+    },
     "type": "manga",
     "original_name": "クラーヴェイの鍵",
     "start_date": "2013-09-17",

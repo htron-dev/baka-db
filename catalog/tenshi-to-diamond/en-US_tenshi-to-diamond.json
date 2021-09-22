@@ -1,5 +1,9 @@
 {
     "title": "Tenshi to Diamond",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208114.jpg",
+        "alt": "tenshi-to-diamond"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

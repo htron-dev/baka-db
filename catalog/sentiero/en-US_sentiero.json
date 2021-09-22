@@ -1,5 +1,9 @@
 {
     "title": "Sentiero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/64101.jpg",
+        "alt": "sentiero"
+    },
     "type": "manga",
     "original_name": "小径",
     "tags": [

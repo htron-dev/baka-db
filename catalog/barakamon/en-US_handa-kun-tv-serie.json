@@ -1,5 +1,9 @@
 {
     "title": "Handa-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/80752.jpg",
+        "alt": "handa-kun"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "はんだくん",

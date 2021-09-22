@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Tonari de Seishunchuu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/148945.jpg",
+        "alt": "kimi-no-tonari-de-seishunchuu"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "39",

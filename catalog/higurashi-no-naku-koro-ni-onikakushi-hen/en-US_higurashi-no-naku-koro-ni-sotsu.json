@@ -1,5 +1,9 @@
 {
     "title": "Higurashi no Naku Koro ni Sotsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1083/115046.jpg",
+        "alt": "higurashi-no-naku-koro-ni-sotsu"
+    },
     "type": "tv-serie",
     "episodes": "15",
     "original_name": "ひぐらしのなく頃に卒",

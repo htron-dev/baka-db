@@ -1,5 +1,9 @@
 {
     "title": "Strange Strange",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176026.jpg",
+        "alt": "strange-strange"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

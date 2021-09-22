@@ -1,5 +1,9 @@
 {
     "title": "Detroit Metal City",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/207424.jpg",
+        "alt": "detroit-metal-city"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "114",

@@ -1,5 +1,9 @@
 {
     "title": "Kaitei no Boukun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/15855.jpg",
+        "alt": "kaitei-no-boukun"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "海底の暴君",

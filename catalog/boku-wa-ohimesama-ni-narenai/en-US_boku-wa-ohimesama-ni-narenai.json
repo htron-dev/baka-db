@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Ohimesama ni Narenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188820.jpg",
+        "alt": "boku-wa-ohimesama-ni-narenai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "32",

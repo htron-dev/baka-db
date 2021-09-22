@@ -1,5 +1,9 @@
 {
     "title": "Rittsu de Yuushoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166759.jpg",
+        "alt": "rittsu-de-yuushoku"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "リッツで夕食",

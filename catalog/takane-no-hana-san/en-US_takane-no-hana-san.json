@@ -1,5 +1,9 @@
 {
     "title": "Takane no Hana-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238730.jpg",
+        "alt": "takane-no-hana-san"
+    },
     "type": "manga",
     "original_name": "高嶺のハナさん",
     "start_date": "2018-08-03",

@@ -1,12 +1,16 @@
 {
     "title": "Tokyo Ravens",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/75094.jpg",
+        "alt": "tokyo-ravens"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "東京レイヴンズ",
     "start_date": "2013-10-09",
     "end_date": "2013-10-09",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"X-encounter\" by Maon Kurosaki (eps 1-13)",
+    "ending_song": "#1: \"Kimi ga Emu Yuugure (君が笑む夕暮れ)\" by Yoshino Nanjo (eps 1-2, 4-13, 24)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

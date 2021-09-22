@@ -1,5 +1,9 @@
 {
     "title": "Bara no Kusari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/35995.jpg",
+        "alt": "bara-no-kusari"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "薔薇の鎖",

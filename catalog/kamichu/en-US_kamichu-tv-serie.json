@@ -1,5 +1,9 @@
 {
     "title": "Kamichu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/24641.jpg",
+        "alt": "kamichu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "かみちゅ!",

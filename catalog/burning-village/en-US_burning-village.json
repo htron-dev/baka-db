@@ -1,5 +1,9 @@
 {
     "title": "Burning Village",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/77083.jpg",
+        "alt": "burning-village"
+    },
     "type": "ova",
     "episodes": "10",
     "original_name": "バーニング・ビレッジ",

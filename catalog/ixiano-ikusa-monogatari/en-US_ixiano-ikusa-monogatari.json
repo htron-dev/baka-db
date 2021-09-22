@@ -1,5 +1,9 @@
 {
     "title": "Ixiano Ikusa Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167098.jpg",
+        "alt": "ixiano-ikusa-monogatari"
+    },
     "type": "light-novel",
     "original_name": "イキシアノ戦物語",
     "start_date": "2015-11-30",

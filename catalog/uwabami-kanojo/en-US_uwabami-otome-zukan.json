@@ -1,5 +1,9 @@
 {
     "title": "Uwabami Otome Zukan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246630.jpg",
+        "alt": "uwabami-otome-zukan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "40",

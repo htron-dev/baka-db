@@ -1,5 +1,9 @@
 {
     "title": "Chou no Sainan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1097/112112.jpg",
+        "alt": "chou-no-sainan"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "蝶のさいなん",

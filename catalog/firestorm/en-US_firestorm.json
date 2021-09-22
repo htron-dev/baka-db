@@ -1,12 +1,16 @@
 {
     "title": "Firestorm",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/6090.jpg",
+        "alt": "firestorm"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "FIRESTORM 　ファイアーストーム",
     "start_date": "2003-04-06",
     "end_date": "2003-04-06",
     "opening_song": "\"Stormy Love\" by the NaB's",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kimi to Ita Chikyuu (君といた地球)\" by The NaB's (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",
@@ -35,7 +39,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Firestorm_(anime"
+            "link": "https://en.wikipedia.org/wiki/Firestorm_%28anime%29"
         }
     ]
 }

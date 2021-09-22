@@ -1,5 +1,9 @@
 {
     "title": "5-ji kara Asa made",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206.jpg",
+        "alt": "5-ji-kara-asa-made"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

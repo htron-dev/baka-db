@@ -1,5 +1,9 @@
 {
     "title": "The Laughing Spider",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1175/97666.jpg",
+        "alt": "the-laughing-spider"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "笑う蜘蛛",

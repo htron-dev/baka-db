@@ -1,5 +1,9 @@
 {
     "title": "Genki!! Ekoda-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/28950.jpg",
+        "alt": "genki-ekoda-chan"
+    },
     "type": "tv-serie",
     "episodes": "22",
     "original_name": "元気!!江古田ちゃん",

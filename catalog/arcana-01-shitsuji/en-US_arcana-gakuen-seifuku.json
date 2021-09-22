@@ -1,5 +1,9 @@
 {
     "title": "Arcana - Gakuen / Seifuku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/79111.jpg",
+        "alt": "arcana-gakuen-seifuku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "16",

@@ -1,5 +1,9 @@
 {
     "title": "Bishoujo Sentai Petalicon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/19160.jpg",
+        "alt": "bishoujo-sentai-petalicon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

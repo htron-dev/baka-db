@@ -1,5 +1,9 @@
 {
     "title": "Kimi wa Boku no Omou Tsubo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/39894.jpg",
+        "alt": "kimi-wa-boku-no-omou-tsubo"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "君は僕の思うツボ",

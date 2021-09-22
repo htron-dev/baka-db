@@ -1,5 +1,9 @@
 {
     "title": "Chou Ningen Yousai: Hiroshi Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181201.jpg",
+        "alt": "chou-ningen-yousai-hiroshi-senki"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "30",

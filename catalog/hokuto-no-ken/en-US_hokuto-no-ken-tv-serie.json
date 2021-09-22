@@ -1,12 +1,16 @@
 {
     "title": "Hokuto no Ken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/18502.jpg",
+        "alt": "hokuto-no-ken"
+    },
     "type": "tv-serie",
     "episodes": "109",
     "original_name": "北斗の拳",
     "start_date": "1984-10-04",
     "end_date": "1984-10-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Ai wo Torimodose!! (愛をとりもどせ!!)\" by Crystal King (eps 1-82)",
+    "ending_song": "#1: \"Yuria... Eien ni (ユリア...永遠に)\" by Crystal King (eps 1-82)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

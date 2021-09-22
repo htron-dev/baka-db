@@ -1,5 +1,9 @@
 {
     "title": "Kaoru-san no Kikyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/89593.jpg",
+        "alt": "kaoru-san-no-kikyou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "Meoto Safari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/133777.jpg",
+        "alt": "meoto-safari"
+    },
     "type": "manga",
     "original_name": "夫婦サファリ",
     "start_date": "2012-07-06",

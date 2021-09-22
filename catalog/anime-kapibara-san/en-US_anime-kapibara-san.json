@@ -1,5 +1,9 @@
 {
     "title": "Anime Kapibara-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1819/109679.jpg",
+        "alt": "anime-kapibara-san"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "アニメ カピバラさん",

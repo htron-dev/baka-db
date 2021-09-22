@@ -1,5 +1,9 @@
 {
     "title": "Taifuu no Hi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166349.jpg",
+        "alt": "taifuu-no-hi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

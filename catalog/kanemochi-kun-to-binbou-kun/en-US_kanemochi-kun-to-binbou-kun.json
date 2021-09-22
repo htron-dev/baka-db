@@ -1,5 +1,9 @@
 {
     "title": "Kanemochi-kun to Binbou-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/66919.jpg",
+        "alt": "kanemochi-kun-to-binbou-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

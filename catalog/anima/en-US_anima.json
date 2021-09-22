@@ -1,5 +1,9 @@
 {
     "title": "Anima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/37999.jpg",
+        "alt": "anima"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "アニマ",

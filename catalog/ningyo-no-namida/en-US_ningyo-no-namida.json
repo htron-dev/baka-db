@@ -1,5 +1,9 @@
 {
     "title": "Ningyo no Namida",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/4662.jpg",
+        "alt": "ningyo-no-namida"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

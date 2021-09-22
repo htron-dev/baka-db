@@ -1,5 +1,9 @@
 {
     "title": "Nouryoku: Shujinkou Hosei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244431.jpg",
+        "alt": "nouryoku-shujinkou-hosei"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

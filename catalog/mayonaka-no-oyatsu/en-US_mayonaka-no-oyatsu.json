@@ -1,5 +1,9 @@
 {
     "title": "Mayonaka no Oyatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/107683.jpg",
+        "alt": "mayonaka-no-oyatsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

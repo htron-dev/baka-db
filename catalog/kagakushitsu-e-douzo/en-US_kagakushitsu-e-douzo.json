@@ -1,5 +1,9 @@
 {
     "title": "Kagakushitsu e Douzo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25586.jpg",
+        "alt": "kagakushitsu-e-douzo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

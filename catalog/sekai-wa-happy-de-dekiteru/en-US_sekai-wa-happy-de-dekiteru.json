@@ -1,5 +1,9 @@
 {
     "title": "Sekai wa Happy de Dekiteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/148701.jpg",
+        "alt": "sekai-wa-happy-de-dekiteru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

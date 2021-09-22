@@ -1,5 +1,9 @@
 {
     "title": "Garasu no Hashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/47769.jpg",
+        "alt": "garasu-no-hashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

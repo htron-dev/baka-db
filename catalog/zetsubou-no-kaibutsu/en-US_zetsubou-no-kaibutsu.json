@@ -1,5 +1,9 @@
 {
     "title": "Zetsubou no Kaibutsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1356/109248.jpg",
+        "alt": "zetsubou-no-kaibutsu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "絶望の怪物",

@@ -1,12 +1,16 @@
 {
     "title": "Seijo no Maryoku wa Bannou Desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1947/114235.jpg",
+        "alt": "seijo-no-maryoku-wa-bannou-desu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "聖女の魔力は万能です",
     "start_date": "2021-04-06",
     "end_date": "2021-04-06",
     "opening_song": "\"Blessing\" by Aira Yuuki (結城アイラ)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Page for Tomorrow\" by NOW ON AIR (eps 2-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

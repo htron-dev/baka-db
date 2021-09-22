@@ -1,5 +1,9 @@
 {
     "title": "Enka: Zetsurin Ou to Yokubou Ouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/60107.jpg",
+        "alt": "enka-zetsurin-ou-to-yokubou-ouji"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

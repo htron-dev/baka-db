@@ -1,5 +1,9 @@
 {
     "title": "Dragon Eye RT Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246000.jpg",
+        "alt": "dragon-eye-rt-zero"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

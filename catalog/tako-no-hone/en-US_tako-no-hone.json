@@ -1,5 +1,9 @@
 {
     "title": "Tako no Hone",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1541/90555.jpg",
+        "alt": "tako-no-hone"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "蛸の骨",

@@ -1,5 +1,9 @@
 {
     "title": "All That Gundam",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/64997.jpg",
+        "alt": "all-that-gundam"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ALL THAT GUNDAM",

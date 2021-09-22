@@ -1,5 +1,9 @@
 {
     "title": "Papaya Gundan★",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/29965.jpg",
+        "alt": "papaya-gundan★"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

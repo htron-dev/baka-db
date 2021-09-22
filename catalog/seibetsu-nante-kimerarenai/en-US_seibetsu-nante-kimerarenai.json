@@ -1,5 +1,9 @@
 {
     "title": "Seibetsu nante Kimerarenai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244247.jpg",
+        "alt": "seibetsu-nante-kimerarenai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "18",

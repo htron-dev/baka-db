@@ -1,5 +1,9 @@
 {
     "title": "Kaitei Shounen Marine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/24677.jpg",
+        "alt": "kaitei-shounen-marine"
+    },
     "type": "tv-serie",
     "episodes": "65",
     "original_name": "海底少年マリン",

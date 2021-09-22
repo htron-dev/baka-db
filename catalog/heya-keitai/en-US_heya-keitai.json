@@ -1,5 +1,9 @@
 {
     "title": "Heya/Keitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/59763.jpg",
+        "alt": "heya-keitai"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "部屋/形態",

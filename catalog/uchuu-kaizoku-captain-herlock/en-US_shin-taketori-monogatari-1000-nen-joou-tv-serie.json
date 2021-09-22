@@ -1,11 +1,15 @@
 {
     "title": "Shin Taketori Monogatari: 1000-nen Joou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/66489.jpg",
+        "alt": "shin-taketori-monogatari-1000-nen-joou"
+    },
     "type": "tv-serie",
     "episodes": "42",
     "original_name": "新竹取物語１０００年女王",
     "start_date": "1981-04-16",
     "end_date": "1981-04-16",
-    "opening_song": "\"Cosmos Dream",
+    "opening_song": "\"Cosmos Dream: Uchuu wo Kakeru Yume (コスモス・ドリーム～宇宙をかける夢～)\" by Masaki Takanashi",
     "ending_song": "\"Mahoroba Densetsu (まほろば伝説)\" by Manami Ishikawa (石川まなみ)",
     "rating": "G - All Ages",
     "tags": [

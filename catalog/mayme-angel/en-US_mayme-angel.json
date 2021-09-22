@@ -1,5 +1,9 @@
 {
     "title": "Mayme Angel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11665.jpg",
+        "alt": "mayme-angel"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Kidou Senshi Gundam Katana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/147347.jpg",
+        "alt": "kidou-senshi-gundam-katana"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "39",

@@ -1,5 +1,9 @@
 {
     "title": "Ano Natsu de Matteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/59405.jpg",
+        "alt": "ano-natsu-de-matteru"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "あの夏で待ってる",

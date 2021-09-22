@@ -1,5 +1,9 @@
 {
     "title": "Tetsusabi Haien",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/90995.jpg",
+        "alt": "tetsusabi-haien"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "鉄錆廃園",

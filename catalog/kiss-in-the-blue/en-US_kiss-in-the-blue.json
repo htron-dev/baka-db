@@ -1,5 +1,9 @@
 {
     "title": "Kiss in the Blue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5848.jpg",
+        "alt": "kiss-in-the-blue"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

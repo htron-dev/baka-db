@@ -1,5 +1,9 @@
 {
     "title": "Mangaka Chou Zankoku Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5726.jpg",
+        "alt": "mangaka-chou-zankoku-monogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "24",

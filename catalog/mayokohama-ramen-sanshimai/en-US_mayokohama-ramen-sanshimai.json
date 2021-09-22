@@ -1,5 +1,9 @@
 {
     "title": "Mayokohama Ramen Sanshimai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/65353.jpg",
+        "alt": "mayokohama-ramen-sanshimai"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "真横浜ラーメン三姉妹",

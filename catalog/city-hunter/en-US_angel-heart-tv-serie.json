@@ -1,12 +1,16 @@
 {
     "title": "Angel Heart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/282.jpg",
+        "alt": "angel-heart"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "エンジェル・ハート",
     "start_date": "2005-10-04",
     "end_date": "2005-10-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Finally\" by Sowelu",
+    "ending_song": "#1: \"Dare ka ga Kimi wo Omotteru (誰かが君を想ってる)\" by Skoop On Somebody",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",
@@ -35,7 +39,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Angel_Heart_(manga"
+            "link": "http://en.wikipedia.org/wiki/Angel_Heart_%28manga%29"
         }
     ]
 }

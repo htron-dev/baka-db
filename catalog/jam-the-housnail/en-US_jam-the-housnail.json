@@ -1,5 +1,9 @@
 {
     "title": "Jam the Housnail",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/70629.jpg",
+        "alt": "jam-the-housnail"
+    },
     "type": "tv-serie",
     "episodes": "15",
     "original_name": "ジャム・ザ・ハウスネイル",

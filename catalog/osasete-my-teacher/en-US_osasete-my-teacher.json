@@ -1,5 +1,9 @@
 {
     "title": "Osasete! My Teacher",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244720.jpg",
+        "alt": "osasete-my-teacher"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

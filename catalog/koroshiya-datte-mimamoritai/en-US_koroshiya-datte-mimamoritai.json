@@ -1,5 +1,9 @@
 {
     "title": "Koroshiya Datte Mimamoritai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234822.jpg",
+        "alt": "koroshiya-datte-mimamoritai"
+    },
     "type": "manga",
     "original_name": "殺し屋だって見守りたい",
     "start_date": "2019-09-21",

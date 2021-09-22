@@ -1,5 +1,9 @@
 {
     "title": "Christie: London Massive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157265.jpg",
+        "alt": "christie-london-massive"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "36",

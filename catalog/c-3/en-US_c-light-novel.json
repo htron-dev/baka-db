@@ -1,5 +1,9 @@
 {
     "title": "C³",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175624.jpg",
+        "alt": "c"
+    },
     "type": "light-novel",
     "volumes": "17",
     "chapters": "106",

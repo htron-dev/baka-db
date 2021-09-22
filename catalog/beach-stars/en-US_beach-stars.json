@@ -1,5 +1,9 @@
 {
     "title": "Beach Stars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/55133.jpg",
+        "alt": "beach-stars"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "68",

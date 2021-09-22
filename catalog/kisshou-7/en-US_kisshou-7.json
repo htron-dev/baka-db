@@ -1,5 +1,9 @@
 {
     "title": "Kisshou 7",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/86919.jpg",
+        "alt": "kisshou-7"
+    },
     "type": "manga",
     "original_name": "吉祥 7-seven-",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Honjitsu no Kamioroshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/223566.jpg",
+        "alt": "honjitsu-no-kamioroshi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Baribari Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169352.jpg",
+        "alt": "baribari-densetsu"
+    },
     "type": "manga",
     "volumes": "38",
     "original_name": "バリバリ伝説",

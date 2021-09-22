@@ -1,5 +1,9 @@
 {
     "title": "Yamikin Ushijima-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/147321.jpg",
+        "alt": "yamikin-ushijima-kun"
+    },
     "type": "manga",
     "volumes": "46",
     "chapters": "493",

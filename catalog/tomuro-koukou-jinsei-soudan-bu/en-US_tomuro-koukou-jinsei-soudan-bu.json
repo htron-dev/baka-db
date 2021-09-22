@@ -1,5 +1,9 @@
 {
     "title": "Tomuro Koukou Jinsei Soudan-bu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150106.jpg",
+        "alt": "tomuro-koukou-jinsei-soudan-bu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

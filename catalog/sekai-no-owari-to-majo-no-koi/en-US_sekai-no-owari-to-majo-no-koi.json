@@ -1,5 +1,9 @@
 {
     "title": "Sekai no Owari to Majo no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226437.jpg",
+        "alt": "sekai-no-owari-to-majo-no-koi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

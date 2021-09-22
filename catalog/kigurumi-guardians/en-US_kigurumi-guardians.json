@@ -1,5 +1,9 @@
 {
     "title": "Kigurumi Guardians",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/108381.jpg",
+        "alt": "kigurumi-guardians"
+    },
     "type": "manga",
     "original_name": "きぐるみ防衛隊〈ガーディアンズ〉",
     "start_date": "2013-03-02",

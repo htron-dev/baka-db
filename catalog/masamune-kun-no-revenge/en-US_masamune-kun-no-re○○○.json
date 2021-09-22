@@ -1,5 +1,9 @@
 {
     "title": "Masamune-kun no Re○○○",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/243437.jpg",
+        "alt": "masamune-kun-no-re○○○"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

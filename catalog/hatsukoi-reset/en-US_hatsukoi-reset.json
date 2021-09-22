@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi Reset",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235841.jpg",
+        "alt": "hatsukoi-reset"
+    },
     "type": "manga",
     "original_name": "ハツコイ・リセット",
     "start_date": "2018-08-10",

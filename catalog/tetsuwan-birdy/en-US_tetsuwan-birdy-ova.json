@@ -1,11 +1,15 @@
 {
     "title": "Tetsuwan Birdy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/27256.jpg",
+        "alt": "tetsuwan-birdy"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "鉄腕バーディー",
     "start_date": "1996-07-25",
     "end_date": "1996-07-25",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Future Shock\" by Cherry (eps 1-3)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

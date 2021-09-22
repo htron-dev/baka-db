@@ -1,5 +1,9 @@
 {
     "title": "Love Stage!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/76599.jpg",
+        "alt": "love-stage"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "LOVE STAGE!!",

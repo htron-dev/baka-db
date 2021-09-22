@@ -1,5 +1,9 @@
 {
     "title": "Nee, Onnanoko ni Shite Ageru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/248314.jpg",
+        "alt": "nee-onnanoko-ni-shite-ageru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

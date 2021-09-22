@@ -1,5 +1,9 @@
 {
     "title": "Mimi wo Sumaseba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176055.jpg",
+        "alt": "mimi-wo-sumaseba"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

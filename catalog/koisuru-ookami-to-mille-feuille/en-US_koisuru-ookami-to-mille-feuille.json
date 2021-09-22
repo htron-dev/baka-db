@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Ookami to Mille-Feuille",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238184.jpg",
+        "alt": "koisuru-ookami-to-mille-feuille"
+    },
     "type": "manga",
     "original_name": "恋する狼とミルフィーユ",
     "start_date": "2020-04-27",

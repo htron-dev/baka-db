@@ -1,5 +1,9 @@
 {
     "title": "Dandy★Maniac",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/103773.jpg",
+        "alt": "dandy★-maniac"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

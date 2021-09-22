@@ -1,5 +1,9 @@
 {
     "title": "Flagman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159863.jpg",
+        "alt": "flagman"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

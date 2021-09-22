@@ -1,5 +1,9 @@
 {
     "title": "Shounen Tantei Rock Holmes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/72769.jpg",
+        "alt": "shounen-tantei-rock-holmes"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "少年探偵ロック・ホ-ム",

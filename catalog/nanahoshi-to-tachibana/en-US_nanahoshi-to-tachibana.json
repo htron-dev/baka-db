@@ -1,5 +1,9 @@
 {
     "title": "Nanahoshi to Tachibana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225909.jpg",
+        "alt": "nanahoshi-to-tachibana"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

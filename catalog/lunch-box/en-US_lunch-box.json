@@ -1,5 +1,9 @@
 {
     "title": "Lunch Box",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20949.jpg",
+        "alt": "lunch-box"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

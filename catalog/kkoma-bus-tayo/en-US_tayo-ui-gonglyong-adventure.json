@@ -1,5 +1,9 @@
 {
     "title": "Tayo-ui Gonglyong Adventure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1895/103411.jpg",
+        "alt": "tayo-ui-gonglyong-adventure"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "타요의 공룡 어드벤처",

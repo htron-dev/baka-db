@@ -1,5 +1,9 @@
 {
     "title": "Mi Diablo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/173192.jpg",
+        "alt": "mi-diablo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

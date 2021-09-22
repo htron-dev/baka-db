@@ -1,5 +1,9 @@
 {
     "title": "Love Round!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30762.jpg",
+        "alt": "love-round"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

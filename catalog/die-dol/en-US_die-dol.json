@@ -1,5 +1,9 @@
 {
     "title": "Die Dol",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193605.jpg",
+        "alt": "die-dol"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Nise no Chigiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170928.jpg",
+        "alt": "nise-no-chigiri"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "19",

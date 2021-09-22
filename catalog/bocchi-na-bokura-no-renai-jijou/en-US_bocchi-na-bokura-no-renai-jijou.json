@@ -1,5 +1,9 @@
 {
     "title": "Bocchi na Bokura no Renai Jijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188880.jpg",
+        "alt": "bocchi-na-bokura-no-renai-jijou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

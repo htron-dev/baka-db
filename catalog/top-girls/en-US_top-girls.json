@@ -1,5 +1,9 @@
 {
     "title": "Top Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/26994.jpg",
+        "alt": "top-girls"
+    },
     "type": "manhwa",
     "original_name": "걸스 온 탑",
     "tags": [

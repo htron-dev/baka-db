@@ -1,5 +1,9 @@
 {
     "title": "Wangan Midnight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/213693.jpg",
+        "alt": "wangan-midnight"
+    },
     "type": "manga",
     "volumes": "42",
     "original_name": "湾岸ミッドナイト",

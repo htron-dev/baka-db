@@ -1,5 +1,9 @@
 {
     "title": "Motto Aishiaimasho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/73019.jpg",
+        "alt": "motto-aishiaimasho"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Yagiza no Yuujin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158047.jpg",
+        "alt": "yagiza-no-yuujin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

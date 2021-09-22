@@ -1,12 +1,16 @@
 {
     "title": "Hajime Ningen Gyatoruz",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/24192.jpg",
+        "alt": "hajime-ningen-gyatoruz"
+    },
     "type": "tv-serie",
     "episodes": "77",
     "original_name": "はじめ人間ギャートルズ",
     "start_date": "1974-10-05",
     "end_date": "1974-10-05",
     "opening_song": "\"Hajime Ningen Gyatoruz (はじめ人間ギャートルズ)\" by The Gyatoruz (ザ・ギャートルズ)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Yatsura no Ashioto no Ballad (やつらの足音のバラード)\" by ちのはじめ",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

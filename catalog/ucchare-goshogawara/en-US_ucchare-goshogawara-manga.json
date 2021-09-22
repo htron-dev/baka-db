@@ -1,5 +1,9 @@
 {
     "title": "Ucchare Goshogawara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/123533.jpg",
+        "alt": "ucchare-goshogawara"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "うっちゃれ五所瓦",

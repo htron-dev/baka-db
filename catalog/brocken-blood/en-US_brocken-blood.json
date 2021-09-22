@@ -1,5 +1,9 @@
 {
     "title": "Brocken Blood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174084.jpg",
+        "alt": "brocken-blood"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "62",

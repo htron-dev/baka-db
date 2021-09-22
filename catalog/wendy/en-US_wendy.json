@@ -1,5 +1,9 @@
 {
     "title": "Wendy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32238.jpg",
+        "alt": "wendy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

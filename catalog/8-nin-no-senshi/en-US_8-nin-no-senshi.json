@@ -1,5 +1,9 @@
 {
     "title": "8-nin no Senshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246154.jpg",
+        "alt": "8-nin-no-senshi"
+    },
     "type": "manga",
     "original_name": "8 人の戦士",
     "start_date": "2017-10-28",

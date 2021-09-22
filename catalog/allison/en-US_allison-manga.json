@@ -1,5 +1,9 @@
 {
     "title": "Allison",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/104857.jpg",
+        "alt": "allison"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

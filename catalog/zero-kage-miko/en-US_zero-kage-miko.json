@@ -1,5 +1,9 @@
 {
     "title": "Zero: Kage Miko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/141405.jpg",
+        "alt": "zero-kage-miko"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "61",

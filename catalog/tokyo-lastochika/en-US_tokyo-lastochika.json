@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Lastochika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/41734.jpg",
+        "alt": "tokyo-lastochika"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

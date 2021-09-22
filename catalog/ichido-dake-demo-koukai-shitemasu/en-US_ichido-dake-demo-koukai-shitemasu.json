@@ -1,5 +1,9 @@
 {
     "title": "Ichido dake demo, Koukai Shitemasu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226062.jpg",
+        "alt": "ichido-dake-demo-koukai-shitemasu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

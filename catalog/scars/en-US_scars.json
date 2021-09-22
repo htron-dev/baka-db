@@ -1,5 +1,9 @@
 {
     "title": "Scars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/243042.jpg",
+        "alt": "scars"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

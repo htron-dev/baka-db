@@ -1,12 +1,16 @@
 {
     "title": "Dr. Stone: Stone Wars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1711/110614.jpg",
+        "alt": "dr-stone-stone-wars"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "ドクターストーン STONE WARS",
     "start_date": "2021-01-14",
     "end_date": "2021-01-14",
     "opening_song": "\"Rakuen (楽園)\" by Fujifabric (eps 2-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Rakuen (楽園)\" by Fujifabric (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

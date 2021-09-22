@@ -1,5 +1,9 @@
 {
     "title": "Zeni Geba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/29036.jpg",
+        "alt": "zeni-geba"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "14",

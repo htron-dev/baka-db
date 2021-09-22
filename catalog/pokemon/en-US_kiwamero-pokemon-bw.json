@@ -1,5 +1,9 @@
 {
     "title": "Kiwamero!! Pokémon BW",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/135973.jpg",
+        "alt": "kiwamero-pokemon-bw"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

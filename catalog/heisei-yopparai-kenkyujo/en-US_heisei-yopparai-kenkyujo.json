@@ -1,5 +1,9 @@
 {
     "title": "Heisei Yopparai Kenkyujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/13099.jpg",
+        "alt": "heisei-yopparai-kenkyujo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "32",

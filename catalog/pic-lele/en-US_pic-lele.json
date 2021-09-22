@@ -1,5 +1,9 @@
 {
     "title": "Pic-lele",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/57695.jpg",
+        "alt": "pic-lele"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ピクレレ",

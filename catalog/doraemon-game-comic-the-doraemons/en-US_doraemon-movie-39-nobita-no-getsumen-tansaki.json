@@ -1,5 +1,9 @@
 {
     "title": "Doraemon Movie 39: Nobita no Getsumen Tansaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1369/102185.jpg",
+        "alt": "doraemon-movie-39-nobita-no-getsumen-tansaki"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "映画 ドラえもん のび太の月面探査記",

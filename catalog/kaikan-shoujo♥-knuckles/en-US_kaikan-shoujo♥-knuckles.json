@@ -1,5 +1,9 @@
 {
     "title": "Kaikan Shoujo♥Knuckles",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/144057.jpg",
+        "alt": "kaikan-shoujo♥-knuckles"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "33",

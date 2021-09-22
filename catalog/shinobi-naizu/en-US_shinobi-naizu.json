@@ -1,5 +1,9 @@
 {
     "title": "Shinobi Naizu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/24818.jpg",
+        "alt": "shinobi-naizu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "忍ナイズ。",

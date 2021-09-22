@@ -1,5 +1,9 @@
 {
     "title": "Hop Step Kururinpa!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11479.jpg",
+        "alt": "hop-step-kururinpa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

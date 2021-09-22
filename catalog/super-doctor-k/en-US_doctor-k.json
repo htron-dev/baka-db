@@ -1,5 +1,9 @@
 {
     "title": "Doctor K",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183439.jpg",
+        "alt": "doctor-k"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "Doctor K",

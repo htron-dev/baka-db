@@ -1,5 +1,9 @@
 {
     "title": "Tower of God",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223694.jpg",
+        "alt": "tower-of-god"
+    },
     "type": "manhwa",
     "original_name": "신의 탑",
     "start_date": "2010-07-05",

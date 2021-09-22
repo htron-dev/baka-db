@@ -1,5 +1,9 @@
 {
     "title": "Nanami-chan 3rd Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/64207.jpg",
+        "alt": "nanami-chan-3rd-series"
+    },
     "type": "tv-serie",
     "episodes": "16",
     "original_name": "ななみちゃん 第三期",

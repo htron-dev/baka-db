@@ -1,5 +1,9 @@
 {
     "title": "Honey Taste Devil",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/16802.jpg",
+        "alt": "honey-taste-devil"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

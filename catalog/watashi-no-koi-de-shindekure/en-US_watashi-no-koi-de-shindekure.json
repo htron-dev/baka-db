@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Koi de Shindekure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/243227.jpg",
+        "alt": "watashi-no-koi-de-shindekure"
+    },
     "type": "manga",
     "original_name": "私の恋で死んでくれ",
     "start_date": "2019-12-24",

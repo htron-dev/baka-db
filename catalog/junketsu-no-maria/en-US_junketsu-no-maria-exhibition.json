@@ -1,5 +1,9 @@
 {
     "title": "Junketsu no Maria: Exhibition",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/147849.jpg",
+        "alt": "junketsu-no-maria-exhibition"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

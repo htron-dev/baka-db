@@ -1,5 +1,9 @@
 {
     "title": "Deathco",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/156694.jpg",
+        "alt": "deathco"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "46",

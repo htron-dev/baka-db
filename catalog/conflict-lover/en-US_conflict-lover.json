@@ -1,5 +1,9 @@
 {
     "title": "Conflict Lover",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/95035.jpg",
+        "alt": "conflict-lover"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

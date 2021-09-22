@@ -1,5 +1,9 @@
 {
     "title": "Darwin kara no Tegami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151729.jpg",
+        "alt": "darwin-kara-no-tegami"
+    },
     "type": "manga",
     "chapters": "23",
     "original_name": "ダーウィンからの手紙",

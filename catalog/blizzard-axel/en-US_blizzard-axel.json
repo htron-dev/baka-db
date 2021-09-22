@@ -1,5 +1,9 @@
 {
     "title": "Blizzard Axel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/130983.jpg",
+        "alt": "blizzard-axel"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "108",

@@ -1,12 +1,16 @@
 {
     "title": "Megami Kouhosei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/75472.jpg",
+        "alt": "megami-kouhosei"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "女神候補生",
     "start_date": "2000-01-20",
     "end_date": "2000-01-20",
     "opening_song": "\"Aim for Zion, the Planet of Hope\" by Tomoyuki Asakawa",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Chance\" by Koizumi Kouhei (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

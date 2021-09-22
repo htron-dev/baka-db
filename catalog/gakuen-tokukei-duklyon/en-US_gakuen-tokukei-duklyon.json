@@ -1,5 +1,9 @@
 {
     "title": "Gakuen Tokukei Duklyon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/1106.jpg",
+        "alt": "gakuen-tokukei-duklyon"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

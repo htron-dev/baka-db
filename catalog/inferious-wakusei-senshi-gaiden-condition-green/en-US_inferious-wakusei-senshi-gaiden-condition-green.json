@@ -1,11 +1,15 @@
 {
     "title": "Inferious Wakusei Senshi Gaiden Condition Green",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/43749.jpg",
+        "alt": "inferious-wakusei-senshi-gaiden-condition-green"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "インフェリウス惑星戦史外伝 CONDITION GREEN",
     "start_date": "1991-11-29",
     "end_date": "1991-11-29",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ai wo subete\" by Bratt Sinclaire",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

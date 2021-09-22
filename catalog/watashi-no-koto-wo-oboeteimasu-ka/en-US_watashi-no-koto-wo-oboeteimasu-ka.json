@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Koto wo Oboeteimasu ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/242422.jpg",
+        "alt": "watashi-no-koto-wo-oboeteimasu-ka"
+    },
     "type": "manga",
     "original_name": "私のことを憶えていますか",
     "start_date": "2020-04-29",

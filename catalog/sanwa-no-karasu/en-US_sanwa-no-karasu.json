@@ -1,5 +1,9 @@
 {
     "title": "Sanwa no Karasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/130057.jpg",
+        "alt": "sanwa-no-karasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

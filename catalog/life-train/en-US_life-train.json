@@ -1,5 +1,9 @@
 {
     "title": "Life Train",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149150.jpg",
+        "alt": "life-train"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "25",

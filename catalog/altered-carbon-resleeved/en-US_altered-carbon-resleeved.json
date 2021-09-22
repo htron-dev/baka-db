@@ -1,8 +1,12 @@
 {
     "title": "Altered Carbon: Resleeved",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1879/106531.jpg",
+        "alt": "altered-carbon-resleeved"
+    },
     "type": "ona",
     "episodes": "1",
-    "original_name": "オルタード・カーボン",
+    "original_name": "オルタード・カーボン: リスリーブド",
     "start_date": "2020-03-19",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
@@ -22,7 +26,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Altered_Carbon_(TV_series"
+            "link": "https://en.wikipedia.org/wiki/Altered_Carbon_%28TV_series%29#Anime"
         }
     ]
 }

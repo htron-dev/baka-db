@@ -1,5 +1,9 @@
 {
     "title": "Hana ni Kuchizuke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193256.jpg",
+        "alt": "hana-ni-kuchizuke"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

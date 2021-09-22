@@ -1,5 +1,9 @@
 {
     "title": "Kaze Kaoru Joshikousei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181969.jpg",
+        "alt": "kaze-kaoru-joshikousei"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "風かおる女子高生",

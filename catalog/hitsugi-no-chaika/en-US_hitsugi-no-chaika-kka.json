@@ -1,5 +1,9 @@
 {
     "title": "Hitsugi no Chaika kka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/119685.jpg",
+        "alt": "hitsugi-no-chaika-kka"
+    },
     "type": "manga",
     "original_name": "棺姫のチャイカっか",
     "start_date": "2011-08-09",

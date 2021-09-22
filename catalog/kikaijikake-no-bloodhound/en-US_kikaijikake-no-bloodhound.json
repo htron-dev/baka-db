@@ -1,5 +1,9 @@
 {
     "title": "Kikaijikake no Bloodhound",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160694.jpg",
+        "alt": "kikaijikake-no-bloodhound"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "22",

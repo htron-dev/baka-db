@@ -1,5 +1,9 @@
 {
     "title": "Tsuki no Pierce",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/124377.jpg",
+        "alt": "tsuki-no-pierce"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "月のピアス",

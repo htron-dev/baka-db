@@ -1,5 +1,9 @@
 {
     "title": "Kyojin-tachi no Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166322.jpg",
+        "alt": "kyojin-tachi-no-densetsu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "巨人たちの伝説",

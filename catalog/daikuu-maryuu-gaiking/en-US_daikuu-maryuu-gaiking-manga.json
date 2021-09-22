@@ -1,5 +1,9 @@
 {
     "title": "Daikuu Maryuu Gaiking",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/40951.jpg",
+        "alt": "daikuu-maryuu-gaiking"
+    },
     "type": "manga",
     "original_name": "大空魔竜ガイキング",
     "tags": [

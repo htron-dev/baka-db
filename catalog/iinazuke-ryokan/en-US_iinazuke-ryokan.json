@@ -1,5 +1,9 @@
 {
     "title": "Iinazuke Ryokan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/4641.jpg",
+        "alt": "iinazuke-ryokan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

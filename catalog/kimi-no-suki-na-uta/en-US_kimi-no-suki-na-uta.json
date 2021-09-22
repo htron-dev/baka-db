@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Suki na Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/24160.jpg",
+        "alt": "kimi-no-suki-na-uta"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "キミの好きなうた",

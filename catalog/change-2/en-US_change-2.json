@@ -1,5 +1,9 @@
 {
     "title": "Change 2!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10986.jpg",
+        "alt": "change-2"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

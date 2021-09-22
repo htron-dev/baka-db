@@ -1,12 +1,16 @@
 {
     "title": "Tesagure! Bukatsumono Spin-off Purupurun Sharumu to Asobou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/72297.jpg",
+        "alt": "tesagure-bukatsumono-spin-off-purupurun-sharumu-to-asobou"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "てさぐれ！部活もの すぴんおふ プルプルんシャルムと遊ぼう",
     "start_date": "2015-04-05",
     "end_date": "2015-04-05",
     "opening_song": "\"Yappari Stand Up!!!!! (やっぱり Stand Up!!!!!)\" by Shiori Mikami, Rumi Ookubo, Mikako Komatsu, Natsumi Takamori, Sumire Uesaka",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Shikisai crossroad (色彩 crossroad)\" by TesaPurun (Asuka Nishi, Satomi Akesaka, Karin Ogino, Ayaka Ohashi, Reina Ueda, Shiori Mikami, Rumi Ookubo, Natsumi Takamori, Reina Ueda, Sumire Uesaka) (eps 1-5)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "parody",

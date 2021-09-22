@@ -1,5 +1,9 @@
 {
     "title": "Kekkonshiki no Tori Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/88656.jpg",
+        "alt": "kekkonshiki-no-tori-movie"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "結婚式の鳥ムービー",

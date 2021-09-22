@@ -1,5 +1,9 @@
 {
     "title": "Binan no Dendou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149041.jpg",
+        "alt": "binan-no-dendou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

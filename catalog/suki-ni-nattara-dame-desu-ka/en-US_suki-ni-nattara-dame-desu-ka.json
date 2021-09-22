@@ -1,5 +1,9 @@
 {
     "title": "Suki ni Nattara Dame desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222980.jpg",
+        "alt": "suki-ni-nattara-dame-desu-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

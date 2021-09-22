@@ -1,5 +1,9 @@
 {
     "title": "Nokemono-tachi no Yoru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238682.jpg",
+        "alt": "nokemono-tachi-no-yoru"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "76",

@@ -1,5 +1,9 @@
 {
     "title": "Kinban Gourmet Bushi Meshi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191463.jpg",
+        "alt": "kinban-gourmet-bushi-meshi"
+    },
     "type": "manga",
     "original_name": "勤番グルメ ブシメシ！",
     "start_date": "2014-11-27",

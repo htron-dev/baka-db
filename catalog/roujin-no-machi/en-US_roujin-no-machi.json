@@ -1,5 +1,9 @@
 {
     "title": "Roujin no Machi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200270.jpg",
+        "alt": "roujin-no-machi"
+    },
     "type": "manga",
     "original_name": "老人の町",
     "start_date": "2017-01-20",

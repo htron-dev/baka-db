@@ -1,5 +1,9 @@
 {
     "title": "Kamunagara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/4818.jpg",
+        "alt": "kamunagara"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "75",

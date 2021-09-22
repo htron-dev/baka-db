@@ -1,12 +1,16 @@
 {
     "title": "Kinnikuman II Sei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/30373.jpg",
+        "alt": "kinnikuman-ii-sei"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "キン肉マン II 世",
     "start_date": "2002-01-09",
     "end_date": "2002-01-09",
     "opening_song": "\"HUSTLE MUSCLE\" by Yougo Kouno",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ai no Muscle (愛のマッスル)\" by The Permanents (eps 1-26)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

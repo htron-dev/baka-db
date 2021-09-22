@@ -1,5 +1,9 @@
 {
     "title": "Te wo Tsunaide, Sora wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192866.jpg",
+        "alt": "te-wo-tsunaide-sora-wo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Saenggakboda Markeun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/79861.jpg",
+        "alt": "saenggakboda-markeun"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "생각보다 맑은",

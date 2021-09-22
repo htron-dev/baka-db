@@ -1,5 +1,9 @@
 {
     "title": "Dramatic ni Ubae!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/88143.jpg",
+        "alt": "dramatic-ni-ubae"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

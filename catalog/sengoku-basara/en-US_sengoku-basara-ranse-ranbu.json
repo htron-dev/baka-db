@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Basara Ranse Ranbu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/9675.jpg",
+        "alt": "sengoku-basara-ranse-ranbu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "9",

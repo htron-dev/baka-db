@@ -1,5 +1,9 @@
 {
     "title": "Ramen Hakkenden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165955.jpg",
+        "alt": "ramen-hakkenden"
+    },
     "type": "manga",
     "volumes": "26",
     "chapters": "237",

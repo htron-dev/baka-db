@@ -1,12 +1,16 @@
 {
     "title": "Be-Bop Highschool",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/26707.jpg",
+        "alt": "be-bop-highschool"
+    },
     "type": "ova",
     "episodes": "7",
     "original_name": "ビー・バップ・ハイスクール",
     "start_date": "1990-01-26",
     "end_date": "1990-01-26",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"BE A GOOD BOY (I AIN'T GONNA BE GOOD)\" by COOLS (eps 1-5)",
+    "ending_song": "#1: \"THAT IS MY DESIRE\" by COOLS (ep 1)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "comedy",

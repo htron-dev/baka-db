@@ -1,5 +1,9 @@
 {
     "title": "Koi ja Nai kedo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/27339.jpg",
+        "alt": "koi-ja-nai-kedo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

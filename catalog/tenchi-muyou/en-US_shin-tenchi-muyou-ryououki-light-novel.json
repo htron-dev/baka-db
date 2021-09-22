@@ -1,5 +1,9 @@
 {
     "title": "Shin Tenchi Muyou! Ryououki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237541.jpg",
+        "alt": "shin-tenchi-muyou-ryououki"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "24",

@@ -1,5 +1,9 @@
 {
     "title": "Yusesoma.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179677.jpg",
+        "alt": "yusesoma"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "21",

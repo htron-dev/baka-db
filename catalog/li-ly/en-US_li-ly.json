@@ -1,5 +1,9 @@
 {
     "title": "LiLy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190139.jpg",
+        "alt": "li-ly"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "22",

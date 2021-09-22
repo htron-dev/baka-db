@@ -1,5 +1,9 @@
 {
     "title": "Summer Salt Turn",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236029.jpg",
+        "alt": "summer-salt-turn"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "19",

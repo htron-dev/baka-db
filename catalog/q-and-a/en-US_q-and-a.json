@@ -1,5 +1,9 @@
 {
     "title": "Q and A",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/77789.jpg",
+        "alt": "q-and-a"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "35",

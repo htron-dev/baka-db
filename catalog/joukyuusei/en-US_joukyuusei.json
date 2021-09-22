@@ -1,5 +1,9 @@
 {
     "title": "Joukyuusei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32567.jpg",
+        "alt": "joukyuusei"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "上級生",

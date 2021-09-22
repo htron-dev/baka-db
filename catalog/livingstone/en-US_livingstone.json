@@ -1,5 +1,9 @@
 {
     "title": "Livingstone",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/139875.jpg",
+        "alt": "livingstone"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

@@ -1,5 +1,9 @@
 {
     "title": "Hi-Speed Jecy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1143/105903.jpg",
+        "alt": "hi-speed-jecy"
+    },
     "type": "ova",
     "episodes": "12",
     "original_name": "ハイスピード・ジェシー",

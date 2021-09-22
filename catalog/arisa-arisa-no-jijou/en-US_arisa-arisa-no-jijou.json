@@ -1,5 +1,9 @@
 {
     "title": "Arisa²: Arisa no Jijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/147303.jpg",
+        "alt": "arisa-arisa-no-jijou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

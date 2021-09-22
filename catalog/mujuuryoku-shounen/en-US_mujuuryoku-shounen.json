@@ -1,5 +1,9 @@
 {
     "title": "Mujuuryoku Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/2106.jpg",
+        "alt": "mujuuryoku-shounen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

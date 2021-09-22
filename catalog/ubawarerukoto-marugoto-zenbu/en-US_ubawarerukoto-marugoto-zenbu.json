@@ -1,5 +1,9 @@
 {
     "title": "Ubawarerukoto Marugoto Zenbu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25914.jpg",
+        "alt": "ubawarerukoto-marugoto-zenbu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

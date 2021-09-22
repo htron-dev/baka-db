@@ -1,5 +1,9 @@
 {
     "title": "Mameshiba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/63601.jpg",
+        "alt": "mameshiba"
+    },
     "type": "special",
     "episodes": "24",
     "original_name": "豆しば",

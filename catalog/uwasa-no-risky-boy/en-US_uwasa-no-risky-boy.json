@@ -1,5 +1,9 @@
 {
     "title": "Uwasa no Risky Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5929.jpg",
+        "alt": "uwasa-no-risky-boy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

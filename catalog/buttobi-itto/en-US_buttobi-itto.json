@@ -1,5 +1,9 @@
 {
     "title": "Buttobi Itto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/77807.jpg",
+        "alt": "buttobi-itto"
+    },
     "type": "manga",
     "volumes": "26",
     "chapters": "103",

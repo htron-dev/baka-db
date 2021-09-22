@@ -1,5 +1,9 @@
 {
     "title": "Gin no Kutsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/197019.jpg",
+        "alt": "gin-no-kutsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

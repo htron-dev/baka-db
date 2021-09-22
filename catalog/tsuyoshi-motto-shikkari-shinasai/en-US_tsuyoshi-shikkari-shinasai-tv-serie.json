@@ -1,12 +1,16 @@
 {
     "title": "Tsuyoshi Shikkari Shinasai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/13055.jpg",
+        "alt": "tsuyoshi-shikkari-shinasai"
+    },
     "type": "tv-serie",
     "episodes": "112",
     "original_name": "ツヨシしっかりしなさい",
     "start_date": "1992-10-04",
     "end_date": "1992-10-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Sayonara Bunmei (さよなら文明)\" by BAKUFU-SLUMP",
+    "ending_song": "#1: \"Namida Sanjou (涙 ³)\" by BAKUFU-SLUMP",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

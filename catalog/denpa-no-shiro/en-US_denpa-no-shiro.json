@@ -1,5 +1,9 @@
 {
     "title": "Denpa no Shiro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/45477.jpg",
+        "alt": "denpa-no-shiro"
+    },
     "type": "manga",
     "volumes": "23",
     "original_name": "電波の城",

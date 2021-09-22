@@ -1,5 +1,9 @@
 {
     "title": "Tadaima Dokushinchuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195395.jpg",
+        "alt": "tadaima-dokushinchuu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "53",

@@ -1,12 +1,16 @@
 {
     "title": "InuYasha: Kanketsu-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/75570.jpg",
+        "alt": "inu-yasha-kanketsu-hen"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "犬夜叉 完結編",
     "start_date": "2009-10-04",
     "end_date": "2009-10-04",
     "opening_song": "''Kimi ga Inai Mirai'' by Do as Infinity (eps 1-25)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"With You\" by AAA (eps 1-9)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

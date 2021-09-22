@@ -1,5 +1,9 @@
 {
     "title": "Love Comedy Kinshi desu no!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179138.jpg",
+        "alt": "love-comedy-kinshi-desu-no"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "14",

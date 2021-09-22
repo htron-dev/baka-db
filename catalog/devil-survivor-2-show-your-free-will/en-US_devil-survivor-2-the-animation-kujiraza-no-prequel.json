@@ -1,8 +1,12 @@
 {
     "title": "Devil Survivor 2: The Animation - Kujiraza no Prequel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/134035.jpg",
+        "alt": "devil-survivor-2-the-animation-kujiraza-no-prequel"
+    },
     "type": "light-novel",
     "volumes": "1",
-    "original_name": "DEVIL SURVIVOR 2 the ANIMATION",
+    "original_name": "DEVIL SURVIVOR 2 the ANIMATION: くじら座のプリクエル",
     "start_date": "2013-06-03",
     "tags": [
         "action",

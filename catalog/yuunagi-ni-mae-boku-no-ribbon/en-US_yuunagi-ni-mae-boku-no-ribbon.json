@@ -1,5 +1,9 @@
 {
     "title": "Yuunagi ni Mae, Boku no Ribbon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/245004.jpg",
+        "alt": "yuunagi-ni-mae-boku-no-ribbon"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

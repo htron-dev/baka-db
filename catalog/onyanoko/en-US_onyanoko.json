@@ -1,5 +1,9 @@
 {
     "title": "Onyanoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/205750.jpg",
+        "alt": "onyanoko"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "34",

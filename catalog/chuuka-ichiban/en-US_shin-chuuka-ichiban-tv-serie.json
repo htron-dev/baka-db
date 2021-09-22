@@ -1,5 +1,9 @@
 {
     "title": "Shin Chuuka Ichiban!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1195/116871.jpg",
+        "alt": "shin-chuuka-ichiban"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "真・中華一番!",

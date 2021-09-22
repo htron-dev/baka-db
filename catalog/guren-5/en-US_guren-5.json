@@ -1,5 +1,9 @@
 {
     "title": "Guren 5",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/145413.jpg",
+        "alt": "guren-5"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

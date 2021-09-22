@@ -1,5 +1,9 @@
 {
     "title": "Hatsuhana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39728.jpg",
+        "alt": "hatsuhana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

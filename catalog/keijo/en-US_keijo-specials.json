@@ -1,5 +1,9 @@
 {
     "title": "Keijo!!!!!!!! Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1146/115571.jpg",
+        "alt": "keijo-specials"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "競女!!!!!!!!",

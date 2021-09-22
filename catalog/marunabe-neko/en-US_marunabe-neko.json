@@ -1,5 +1,9 @@
 {
     "title": "Marunabe Neko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163117.jpg",
+        "alt": "marunabe-neko"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "21",

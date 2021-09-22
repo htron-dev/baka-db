@@ -1,5 +1,9 @@
 {
     "title": "Sengoku!? - Yuukyuu Ransei Renge Tan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/37542.jpg",
+        "alt": "sengoku-yuukyuu-ransei-renge-tan"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "26",

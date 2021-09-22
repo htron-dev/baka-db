@@ -1,12 +1,16 @@
 {
     "title": "Hayate no Gotoku! Cuties",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/48953.jpg",
+        "alt": "hayate-no-gotoku-cuties"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ハヤテのごとく！ Cuties",
     "start_date": "2013-04-09",
     "end_date": "2013-04-09",
     "opening_song": "\"Haru ULALA♥LOVE yo Koi!!! (春 ULALA♥LOVE よ来い!!!)\" by Hinagiku Katsura (Shizuka Itou)",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Heroine wa Koko ni Iru! (ヒロインはここにいる!)\" by Ryoko Shiraishi (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

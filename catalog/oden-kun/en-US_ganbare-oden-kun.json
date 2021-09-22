@@ -1,5 +1,9 @@
 {
     "title": "Ganbare! Oden-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/45332.jpg",
+        "alt": "ganbare-oden-kun"
+    },
     "type": "tv-serie",
     "episodes": "102",
     "original_name": "がんばれ！おでんくん",

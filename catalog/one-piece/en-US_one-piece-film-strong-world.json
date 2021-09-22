@@ -1,5 +1,9 @@
 {
     "title": "One Piece Film: Strong World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/75894.jpg",
+        "alt": "one-piece-film-strong-world"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ワンピース　フィルム　ストロングワールド",

@@ -1,5 +1,9 @@
 {
     "title": "Yonhyakunijuu Renpai Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163873.jpg",
+        "alt": "yonhyakunijuu-renpai-girl"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "32",

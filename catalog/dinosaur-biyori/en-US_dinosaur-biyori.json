@@ -1,5 +1,9 @@
 {
     "title": "Dinosaur Biyori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1382/116139.jpg",
+        "alt": "dinosaur-biyori"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ダイナ荘びより",

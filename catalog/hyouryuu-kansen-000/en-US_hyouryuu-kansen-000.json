@@ -1,5 +1,9 @@
 {
     "title": "Hyouryuu Kansen 000",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/31558.jpg",
+        "alt": "hyouryuu-kansen-000"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "漂流幹線 000",

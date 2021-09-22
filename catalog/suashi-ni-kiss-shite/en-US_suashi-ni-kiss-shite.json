@@ -1,5 +1,9 @@
 {
     "title": "Suashi ni Kiss Shite!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6044.jpg",
+        "alt": "suashi-ni-kiss-shite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

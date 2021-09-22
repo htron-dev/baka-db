@@ -1,5 +1,9 @@
 {
     "title": "Fukushuu no Kyoukasho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/232291.jpg",
+        "alt": "fukushuu-no-kyoukasho"
+    },
     "type": "manga",
     "original_name": "復讐の教科書",
     "start_date": "2020-03-23",

@@ -1,5 +1,9 @@
 {
     "title": "Kocchi Mite yo, Hidaka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/211764.jpg",
+        "alt": "kocchi-mite-yo-hidaka"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Ochanomizu Rock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222516.jpg",
+        "alt": "ochanomizu-rock"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

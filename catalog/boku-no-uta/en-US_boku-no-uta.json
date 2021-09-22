@@ -1,5 +1,9 @@
 {
     "title": "Boku no Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/109631.jpg",
+        "alt": "boku-no-uta"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ぼくのうた",

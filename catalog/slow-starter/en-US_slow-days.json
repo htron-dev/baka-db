@@ -1,5 +1,9 @@
 {
     "title": "Slow Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160519.jpg",
+        "alt": "slow-days"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

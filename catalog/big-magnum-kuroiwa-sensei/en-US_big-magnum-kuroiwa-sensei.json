@@ -1,5 +1,9 @@
 {
     "title": "Big Magnum Kuroiwa Sensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34321.jpg",
+        "alt": "big-magnum-kuroiwa-sensei"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "ビッグマグナム黒岩先生",

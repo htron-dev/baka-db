@@ -1,5 +1,9 @@
 {
     "title": "Honjitsu mo Jougai Rantou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33255.jpg",
+        "alt": "honjitsu-mo-jougai-rantou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "本日も場外乱闘",

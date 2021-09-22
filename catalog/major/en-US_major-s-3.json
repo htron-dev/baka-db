@@ -1,12 +1,16 @@
 {
     "title": "Major S3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/73971.jpg",
+        "alt": "major-s-3"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "メジャー (第 3 シリーズ)",
     "start_date": "2007-01-06",
     "end_date": "2007-01-06",
     "opening_song": "\"Play The Game\" by Road of Major",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Strike Party!!!\" by BeForU (eps 1-15)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Major_(manga"
+            "link": "http://en.wikipedia.org/wiki/Major_%28manga%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "F-Zero: Falcon Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1569/95419.jpg",
+        "alt": "f-zero-falcon-densetsu"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "F-ZERO ファルコン伝説",

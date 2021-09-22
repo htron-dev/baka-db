@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty: Ringo no Mori no Mystery",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/58655.jpg",
+        "alt": "hello-kitty-ringo-no-mori-no-mystery"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ハローキティ りんごの森のミステリー",

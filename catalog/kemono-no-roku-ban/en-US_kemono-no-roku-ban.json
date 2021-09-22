@@ -1,5 +1,9 @@
 {
     "title": "Kemono no Roku-ban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236878.jpg",
+        "alt": "kemono-no-roku-ban"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

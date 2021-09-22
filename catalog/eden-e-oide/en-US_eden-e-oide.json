@@ -1,5 +1,9 @@
 {
     "title": "Eden e Oide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32793.jpg",
+        "alt": "eden-e-oide"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "エデンへおいで",

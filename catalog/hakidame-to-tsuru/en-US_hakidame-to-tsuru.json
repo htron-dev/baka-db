@@ -1,5 +1,9 @@
 {
     "title": "Hakidame to Tsuru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196984.jpg",
+        "alt": "hakidame-to-tsuru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

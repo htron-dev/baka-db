@@ -1,5 +1,9 @@
 {
     "title": "MiniPato",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/23501.jpg",
+        "alt": "mini-pato"
+    },
     "type": "movie",
     "episodes": "3",
     "original_name": "ミニパト",

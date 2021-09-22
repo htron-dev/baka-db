@@ -1,5 +1,9 @@
 {
     "title": "Hoshokusha Kisumi-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238075.jpg",
+        "alt": "hoshokusha-kisumi-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

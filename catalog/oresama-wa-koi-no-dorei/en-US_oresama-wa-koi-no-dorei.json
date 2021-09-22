@@ -1,5 +1,9 @@
 {
     "title": "Oresama wa Koi no Dorei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31353.jpg",
+        "alt": "oresama-wa-koi-no-dorei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

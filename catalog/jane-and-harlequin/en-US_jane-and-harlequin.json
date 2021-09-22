@@ -1,5 +1,9 @@
 {
     "title": "Jane and Harlequin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164078.jpg",
+        "alt": "jane-and-harlequin"
+    },
     "type": "manhwa",
     "chapters": "1",
     "original_name": "제인과 할리퀸",

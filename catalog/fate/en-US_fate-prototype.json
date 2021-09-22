@@ -1,5 +1,9 @@
 {
     "title": "Fate/Prototype",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/51045.jpg",
+        "alt": "fate-prototype"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "Fate/Prototype",

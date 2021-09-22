@@ -1,5 +1,9 @@
 {
     "title": "D-Crackers Short",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/112959.jpg",
+        "alt": "d-crackers-short"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "D クラッカーズ・ショート",

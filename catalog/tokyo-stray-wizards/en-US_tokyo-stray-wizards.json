@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Stray Wizards",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177851.jpg",
+        "alt": "tokyo-stray-wizards"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "28",

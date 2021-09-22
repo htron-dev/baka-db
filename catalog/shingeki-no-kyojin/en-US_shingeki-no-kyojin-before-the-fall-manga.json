@@ -1,5 +1,9 @@
 {
     "title": "Shingeki no Kyojin: Before the Fall",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/128683.jpg",
+        "alt": "shingeki-no-kyojin-before-the-fall"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "73",

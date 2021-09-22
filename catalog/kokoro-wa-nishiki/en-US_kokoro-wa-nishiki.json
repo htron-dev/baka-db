@@ -1,5 +1,9 @@
 {
     "title": "Kokoro wa Nishiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/197794.jpg",
+        "alt": "kokoro-wa-nishiki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "25",

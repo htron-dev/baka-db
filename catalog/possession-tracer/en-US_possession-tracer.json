@@ -1,5 +1,9 @@
 {
     "title": "Possession Tracer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/9640.jpg",
+        "alt": "possession-tracer"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

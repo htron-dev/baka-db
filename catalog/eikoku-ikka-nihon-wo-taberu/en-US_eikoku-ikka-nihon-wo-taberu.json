@@ -1,5 +1,9 @@
 {
     "title": "Eikoku Ikka, Nihon wo Taberu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/73627.jpg",
+        "alt": "eikoku-ikka-nihon-wo-taberu"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "英国一家、日本を食べる",

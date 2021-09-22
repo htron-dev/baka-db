@@ -1,5 +1,9 @@
 {
     "title": "Chou to Hana no Kankeisei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227277.jpg",
+        "alt": "chou-to-hana-no-kankeisei"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

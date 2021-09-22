@@ -1,5 +1,9 @@
 {
     "title": "Stella no Mahou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/81471.jpg",
+        "alt": "stella-no-mahou"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ステラのまほう",

@@ -1,5 +1,9 @@
 {
     "title": "Renkinjutsushi desu. Jichou wa Gomibako ni Sutetekimashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238890.jpg",
+        "alt": "renkinjutsushi-desu-jichou-wa-gomibako-ni-sutetekimashita"
+    },
     "type": "manga",
     "original_name": "錬金術師です。自重はゴミ箱に捨ててきました。",
     "start_date": "2019-07-09",

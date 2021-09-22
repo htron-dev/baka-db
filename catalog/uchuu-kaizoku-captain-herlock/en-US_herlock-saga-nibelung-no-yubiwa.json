@@ -1,11 +1,15 @@
 {
     "title": "Herlock Saga: Nibelung no Yubiwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/21258.jpg",
+        "alt": "herlock-saga-nibelung-no-yubiwa"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "ハーロック・サーガ ニーベルングの指環",
     "start_date": "1999-01-25",
     "end_date": "1999-01-25",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Euforia: Yakusoku no Chi e (アウフェリア~約束の地へ~)\" by Nozomu Otagi (小田木望)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

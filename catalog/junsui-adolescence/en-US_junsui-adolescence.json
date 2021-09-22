@@ -1,5 +1,9 @@
 {
     "title": "Junsui Adolescence",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28993.jpg",
+        "alt": "junsui-adolescence"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

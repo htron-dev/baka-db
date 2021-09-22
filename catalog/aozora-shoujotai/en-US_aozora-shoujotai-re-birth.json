@@ -1,5 +1,9 @@
 {
     "title": "Aozora Shoujotai ReBirth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32925.jpg",
+        "alt": "aozora-shoujotai-re-birth"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "5",

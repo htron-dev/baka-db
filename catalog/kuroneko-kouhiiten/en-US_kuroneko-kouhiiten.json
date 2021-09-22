@@ -1,5 +1,9 @@
 {
     "title": "Kuroneko Kouhiiten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6451.jpg",
+        "alt": "kuroneko-kouhiiten"
+    },
     "type": "manga",
     "original_name": "黒猫珈琲店",
     "tags": [

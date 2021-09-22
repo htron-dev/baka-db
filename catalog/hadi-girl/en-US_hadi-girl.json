@@ -1,5 +1,9 @@
 {
     "title": "Hadi Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/92939.jpg",
+        "alt": "hadi-girl"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "30",

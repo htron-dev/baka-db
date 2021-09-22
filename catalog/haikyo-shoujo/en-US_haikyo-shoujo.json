@@ -1,5 +1,9 @@
 {
     "title": "Haikyo Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/90813.jpg",
+        "alt": "haikyo-shoujo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

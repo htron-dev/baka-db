@@ -1,5 +1,9 @@
 {
     "title": "Tamago no Hi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/12022.jpg",
+        "alt": "tamago-no-hi"
+    },
     "type": "manga",
     "original_name": "卵の日",
     "tags": [

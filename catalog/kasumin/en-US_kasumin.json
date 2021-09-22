@@ -1,5 +1,9 @@
 {
     "title": "Kasumin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/67255.jpg",
+        "alt": "kasumin"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "カスミン (第 1 シリーズ)",

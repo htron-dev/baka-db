@@ -1,5 +1,9 @@
 {
     "title": "Boku no Dorei ni Narinasai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168271.jpg",
+        "alt": "boku-no-dorei-ni-narinasai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

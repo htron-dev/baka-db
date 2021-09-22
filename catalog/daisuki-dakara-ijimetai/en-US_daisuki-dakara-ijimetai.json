@@ -1,5 +1,9 @@
 {
     "title": "Daisuki dakara Ijimetai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/209460.jpg",
+        "alt": "daisuki-dakara-ijimetai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

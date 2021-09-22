@@ -1,5 +1,9 @@
 {
     "title": "Afro Samurai: Resurrection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/77929.jpg",
+        "alt": "afro-samurai-resurrection"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "アフロサムライ Resurrection",

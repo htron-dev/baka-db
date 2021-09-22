@@ -1,5 +1,9 @@
 {
     "title": "Shirokuro-kun to Anzu-chan.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/132689.jpg",
+        "alt": "shirokuro-kun-to-anzu-chan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

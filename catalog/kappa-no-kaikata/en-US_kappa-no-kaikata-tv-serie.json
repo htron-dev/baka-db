@@ -1,5 +1,9 @@
 {
     "title": "Kappa no Kaikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/1883.jpg",
+        "alt": "kappa-no-kaikata"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "カッパの飼い方",

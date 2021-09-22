@@ -1,5 +1,9 @@
 {
     "title": "Jingle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/77491.jpg",
+        "alt": "jingle"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ジングル",

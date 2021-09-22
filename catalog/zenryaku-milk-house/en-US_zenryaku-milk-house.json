@@ -1,5 +1,9 @@
 {
     "title": "Zenryaku Milk House",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192368.jpg",
+        "alt": "zenryaku-milk-house"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "39",

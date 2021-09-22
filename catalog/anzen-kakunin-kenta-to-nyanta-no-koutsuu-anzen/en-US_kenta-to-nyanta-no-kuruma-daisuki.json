@@ -1,5 +1,9 @@
 {
     "title": "Kenta to Nyanta no Kuruma Daisuki!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/84775.jpg",
+        "alt": "kenta-to-nyanta-no-kuruma-daisuki"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ケンタとニャンタのクルマ大好き！",

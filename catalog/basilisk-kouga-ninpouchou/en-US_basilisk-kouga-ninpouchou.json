@@ -1,5 +1,9 @@
 {
     "title": "Basilisk: Kouga Ninpouchou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177216.jpg",
+        "alt": "basilisk-kouga-ninpouchou"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "34",

@@ -1,5 +1,9 @@
 {
     "title": "Kiss wa Ichinichi Sando Made!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2863.jpg",
+        "alt": "kiss-wa-ichinichi-sando-made"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

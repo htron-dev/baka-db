@@ -1,5 +1,9 @@
 {
     "title": "Chidori-san Chi ni Kagitte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/98061.jpg",
+        "alt": "chidori-san-chi-ni-kagitte"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

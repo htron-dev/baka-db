@@ -1,5 +1,9 @@
 {
     "title": "Majutsushi-tachi no Logos Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/144673.jpg",
+        "alt": "majutsushi-tachi-no-logos-game"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "19",

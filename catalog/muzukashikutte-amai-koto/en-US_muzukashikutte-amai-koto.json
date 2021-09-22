@@ -1,5 +1,9 @@
 {
     "title": "Muzukashikutte Amai Koto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/197250.jpg",
+        "alt": "muzukashikutte-amai-koto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

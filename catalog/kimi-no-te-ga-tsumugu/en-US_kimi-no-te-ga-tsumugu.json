@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Te ga Tsumugu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238642.jpg",
+        "alt": "kimi-no-te-ga-tsumugu"
+    },
     "type": "manga",
     "original_name": "君の手が紡ぐ",
     "start_date": "2019-08-05",

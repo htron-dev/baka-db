@@ -1,5 +1,9 @@
 {
     "title": "IC: Imouto Complex!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162578.jpg",
+        "alt": "ic-imouto-complex"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "20",

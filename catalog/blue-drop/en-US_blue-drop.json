@@ -1,5 +1,9 @@
 {
     "title": "Blue Drop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/1119.jpg",
+        "alt": "blue-drop"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

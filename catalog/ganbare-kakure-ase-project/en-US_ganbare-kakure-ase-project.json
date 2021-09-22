@@ -1,5 +1,9 @@
 {
     "title": "Ganbare! Kakure Ase Project",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1472/101070.jpg",
+        "alt": "ganbare-kakure-ase-project"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "がんばれ！隠れ汗 プロジェクト",

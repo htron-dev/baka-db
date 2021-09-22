@@ -1,5 +1,9 @@
 {
     "title": "Oidon to",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/86114.jpg",
+        "alt": "oidon-to"
+    },
     "type": "tv-serie",
     "original_name": "おいどんと",
     "start_date": "2015-12-02",

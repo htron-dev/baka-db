@@ -1,5 +1,9 @@
 {
     "title": "Concierge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186831.jpg",
+        "alt": "concierge"
+    },
     "type": "manga",
     "volumes": "21",
     "chapters": "143",

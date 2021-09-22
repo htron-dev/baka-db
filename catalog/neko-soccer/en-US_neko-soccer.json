@@ -1,5 +1,9 @@
 {
     "title": "Neko Soccer!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228693.jpg",
+        "alt": "neko-soccer"
+    },
     "type": "manga",
     "original_name": "ネコサカ！",
     "start_date": "2019-12-28",

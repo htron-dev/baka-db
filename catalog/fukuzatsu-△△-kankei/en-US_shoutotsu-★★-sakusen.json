@@ -1,5 +1,9 @@
 {
     "title": "Shoutotsu! ★★ Sakusen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237109.jpg",
+        "alt": "shoutotsu-★★-sakusen"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

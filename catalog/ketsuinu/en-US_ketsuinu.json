@@ -1,5 +1,9 @@
 {
     "title": "Ketsuinu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/26416.jpg",
+        "alt": "ketsuinu"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ケツ犬",

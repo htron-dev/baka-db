@@ -1,5 +1,9 @@
 {
     "title": "Dai Mahou Touge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/20582.jpg",
+        "alt": "dai-mahou-touge"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "大魔法峠",

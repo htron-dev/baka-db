@@ -1,5 +1,9 @@
 {
     "title": "Suzume: Kijou no Moupai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161051.jpg",
+        "alt": "suzume-kijou-no-moupai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

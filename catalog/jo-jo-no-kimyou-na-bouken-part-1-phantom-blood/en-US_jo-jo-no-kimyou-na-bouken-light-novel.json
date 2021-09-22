@@ -1,5 +1,9 @@
 {
     "title": "JoJo no Kimyou na Bouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161557.jpg",
+        "alt": "jo-jo-no-kimyou-na-bouken"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "14",

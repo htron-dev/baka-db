@@ -1,5 +1,9 @@
 {
     "title": "Grandia: 4-Koma Manga Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/94375.jpg",
+        "alt": "grandia-4-koma-manga-gekijou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "16",

@@ -1,12 +1,16 @@
 {
     "title": "Fushigi Yuugi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/20140.jpg",
+        "alt": "fushigi-yuugi"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "ふしぎ遊戯",
     "start_date": "1995-04-06",
     "end_date": "1995-04-06",
     "opening_song": "\"Itooshii Hito no Tame ni; For My Darling\" by Akemi Satou",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Tokimeki no Doukasen\" by Yukari Konno (eps 1-32,34-51)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

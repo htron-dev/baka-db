@@ -1,5 +1,9 @@
 {
     "title": "Dekiai no Gosan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192090.jpg",
+        "alt": "dekiai-no-gosan"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

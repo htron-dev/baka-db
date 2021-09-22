@@ -1,12 +1,16 @@
 {
     "title": "Nabari no Ou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/79037.jpg",
+        "alt": "nabari-no-ou"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "隠の王",
     "start_date": "2008-04-07",
     "end_date": "2008-04-07",
     "opening_song": "\"Crawl\" by VELTPUNCH (eps 1-25)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"HIKARI\" by ELISA (eps 1-15)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

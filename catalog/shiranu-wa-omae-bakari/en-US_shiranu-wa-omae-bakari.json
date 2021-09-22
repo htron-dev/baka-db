@@ -1,5 +1,9 @@
 {
     "title": "Shiranu wa Omae Bakari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/64283.jpg",
+        "alt": "shiranu-wa-omae-bakari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

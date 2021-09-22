@@ -1,5 +1,9 @@
 {
     "title": "Kyou kara Mongen 7:00 desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180532.jpg",
+        "alt": "kyou-kara-mongen-7-00-desu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

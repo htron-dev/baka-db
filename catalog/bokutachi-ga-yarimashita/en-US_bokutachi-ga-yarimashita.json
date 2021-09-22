@@ -1,5 +1,9 @@
 {
     "title": "Bokutachi ga Yarimashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168953.jpg",
+        "alt": "bokutachi-ga-yarimashita"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "87",

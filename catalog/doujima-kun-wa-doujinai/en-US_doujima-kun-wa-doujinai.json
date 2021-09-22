@@ -1,5 +1,9 @@
 {
     "title": "Doujima-kun wa Doujinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244320.jpg",
+        "alt": "doujima-kun-wa-doujinai"
+    },
     "type": "manga",
     "original_name": "堂島くんは動じない",
     "start_date": "2020-08-21",

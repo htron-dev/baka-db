@@ -1,5 +1,9 @@
 {
     "title": "Steins;Gate: Hoshikuzu no Duplet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/128917.jpg",
+        "alt": "steins-gate-hoshikuzu-no-duplet"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

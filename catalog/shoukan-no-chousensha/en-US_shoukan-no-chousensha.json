@@ -1,5 +1,9 @@
 {
     "title": "Shoukan no Chousensha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161319.jpg",
+        "alt": "shoukan-no-chousensha"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "75",

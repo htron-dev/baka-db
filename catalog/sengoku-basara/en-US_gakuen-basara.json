@@ -1,5 +1,9 @@
 {
     "title": "Gakuen Basara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1278/93829.jpg",
+        "alt": "gakuen-basara"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "学園 BASARA",

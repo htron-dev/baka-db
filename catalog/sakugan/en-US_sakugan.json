@@ -1,5 +1,9 @@
 {
     "title": "Sakugan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1841/116971.jpg",
+        "alt": "sakugan"
+    },
     "type": "tv-serie",
     "original_name": "サクガン",
     "start_date": "2021-10-20",

@@ -1,5 +1,9 @@
 {
     "title": "Paradise Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/80636.jpg",
+        "alt": "paradise-kiss"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "Paradise kiss",

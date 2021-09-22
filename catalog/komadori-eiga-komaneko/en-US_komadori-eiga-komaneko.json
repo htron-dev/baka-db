@@ -1,5 +1,9 @@
 {
     "title": "Komadori Eiga: Komaneko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1394/112307.jpg",
+        "alt": "komadori-eiga-komaneko"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "こま撮りえいが こまねこ",

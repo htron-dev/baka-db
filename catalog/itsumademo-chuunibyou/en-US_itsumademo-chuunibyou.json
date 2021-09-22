@@ -1,5 +1,9 @@
 {
     "title": "Itsumademo Chuunibyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178441.jpg",
+        "alt": "itsumademo-chuunibyou"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

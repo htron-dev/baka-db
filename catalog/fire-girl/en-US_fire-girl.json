@@ -1,5 +1,9 @@
 {
     "title": "Fire Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152005.jpg",
+        "alt": "fire-girl"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "39",

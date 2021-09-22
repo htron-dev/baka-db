@@ -1,12 +1,16 @@
 {
     "title": "Super Robot Taisen OG: The Inspector",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/44239.jpg",
+        "alt": "super-robot-taisen-og-the-inspector"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "スーパーロボット大戦 OG -ジ・インスペクター-",
     "start_date": "2010-10-02",
     "end_date": "2010-10-02",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"MAXON\" by JAM Project (eps 1-23)",
+    "ending_song": "#1: \"Bokura no Jiyuu\" by Aki Misato (eps 1-16)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

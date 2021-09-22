@@ -1,5 +1,9 @@
 {
     "title": "Kiben Gakuha, Yotsuya-senpai no Kaidan.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/35775.jpg",
+        "alt": "kiben-gakuha-yotsuya-senpai-no-kaidan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

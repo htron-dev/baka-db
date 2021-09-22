@@ -1,5 +1,9 @@
 {
     "title": "Makai no Ossan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/89755.jpg",
+        "alt": "makai-no-ossan"
+    },
     "type": "manga",
     "chapters": "370",
     "original_name": "魔界のオッサン",

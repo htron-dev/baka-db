@@ -1,5 +1,9 @@
 {
     "title": "Yuuraku-chou Obake Dagashiya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222206.jpg",
+        "alt": "yuuraku-chou-obake-dagashiya"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "34",

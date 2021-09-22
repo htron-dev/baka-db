@@ -1,5 +1,9 @@
 {
     "title": "Kuuden no Himegimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/230350.jpg",
+        "alt": "kuuden-no-himegimi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

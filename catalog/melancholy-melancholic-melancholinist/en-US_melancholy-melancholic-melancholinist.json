@@ -1,5 +1,9 @@
 {
     "title": "Melancholy Melancholic Melancholinist",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/84005.jpg",
+        "alt": "melancholy-melancholic-melancholinist"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

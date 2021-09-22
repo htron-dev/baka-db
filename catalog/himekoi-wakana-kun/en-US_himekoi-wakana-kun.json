@@ -1,5 +1,9 @@
 {
     "title": "Himekoi, Wakana-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/104293.jpg",
+        "alt": "himekoi-wakana-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

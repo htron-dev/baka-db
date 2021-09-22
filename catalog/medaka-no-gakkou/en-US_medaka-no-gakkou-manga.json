@@ -1,5 +1,9 @@
 {
     "title": "Medaka no Gakkou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/15315.jpg",
+        "alt": "medaka-no-gakkou"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "めだかの学校",

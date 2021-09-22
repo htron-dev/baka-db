@@ -1,5 +1,9 @@
 {
     "title": "Hosaka-sensei no Ai no Muchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/209834.jpg",
+        "alt": "hosaka-sensei-no-ai-no-muchi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Bokurano: Alternative",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/112097.jpg",
+        "alt": "bokurano-alternative"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "18",

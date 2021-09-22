@@ -1,5 +1,9 @@
 {
     "title": "Kakushigoto Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1115/114953.jpg",
+        "alt": "kakushigoto-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場編集版 かくしごと",

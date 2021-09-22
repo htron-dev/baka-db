@@ -1,5 +1,9 @@
 {
     "title": "Queen's Blade: Unlimited",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1470/90266.jpg",
+        "alt": "queens-blade-unlimited"
+    },
     "type": "ova",
     "original_name": "クイーンズブレイド UNLIMITED",
     "start_date": "2018-07-13",

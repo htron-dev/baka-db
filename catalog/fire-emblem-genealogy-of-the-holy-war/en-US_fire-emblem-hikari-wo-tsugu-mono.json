@@ -1,5 +1,9 @@
 {
     "title": "Fire Emblem: Hikari wo Tsugu Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/104915.jpg",
+        "alt": "fire-emblem-hikari-wo-tsugu-mono"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "21",

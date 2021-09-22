@@ -1,5 +1,9 @@
 {
     "title": "Baton",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/50623.jpg",
+        "alt": "baton"
+    },
     "type": "movie",
     "episodes": "3",
     "original_name": "バトン",

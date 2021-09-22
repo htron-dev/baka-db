@@ -1,5 +1,9 @@
 {
     "title": "Mister X wo Sagase",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/60115.jpg",
+        "alt": "mister-x-wo-sagase"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ミスター X をさがせ",

@@ -1,11 +1,15 @@
 {
     "title": "Ansatsu Kyoushitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/75639.jpg",
+        "alt": "ansatsu-kyoushitsu"
+    },
     "type": "tv-serie",
     "episodes": "22",
     "original_name": "暗殺教室",
     "start_date": "2015-01-10",
     "end_date": "2015-01-10",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Seishun Satsubatsu-ron (青春サツバツ論)\" by 3-nen E-gumi Utatan (3 年 E 組うた担) [Mai Fuchigami, Aya Suzaki, Nobuhiko Okamoto, Ryota Osaka, Shintaro Asanuma] (eps 1-6, 9-11)",
     "ending_song": "\"Hello, shooting-star\" by moumoon",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

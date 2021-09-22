@@ -1,5 +1,9 @@
 {
     "title": "Benkyou Shinasai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16685.jpg",
+        "alt": "benkyou-shinasai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Mondaiteiki Sakuhinshu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11131.jpg",
+        "alt": "mondaiteiki-sakuhinshu"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "23",

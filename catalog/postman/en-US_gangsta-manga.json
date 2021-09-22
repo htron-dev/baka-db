@@ -1,5 +1,9 @@
 {
     "title": "Gangsta.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160089.jpg",
+        "alt": "gangsta"
+    },
     "type": "manga",
     "original_name": "GANGSTA.",
     "start_date": "2011-01-21",

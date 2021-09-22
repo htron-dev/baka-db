@@ -1,12 +1,16 @@
 {
     "title": "The Third: Aoi Hitomi no Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/75545.jpg",
+        "alt": "the-third-aoi-hitomi-no-shoujo"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ザ・サード 蒼い瞳の少女",
     "start_date": "2006-04-14",
     "end_date": "2006-04-14",
     "opening_song": "\"Sajou no Yume\" by Sasaki Yuuko",
-    "ending_song": "#1",
+    "ending_song": "#1: \"ING\" by Chou Hikou Shounen (eps 1-12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

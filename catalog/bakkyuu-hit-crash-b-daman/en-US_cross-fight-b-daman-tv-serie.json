@@ -1,5 +1,9 @@
 {
     "title": "Cross Fight B-Daman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/32803.jpg",
+        "alt": "cross-fight-b-daman"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "クロスファイト ビーダマン",

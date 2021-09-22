@@ -1,5 +1,9 @@
 {
     "title": "One Room Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1033/108985.jpg",
+        "alt": "one-room-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "One Room",

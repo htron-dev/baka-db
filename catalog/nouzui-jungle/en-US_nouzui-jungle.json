@@ -1,5 +1,9 @@
 {
     "title": "Nouzui Jungle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15321.jpg",
+        "alt": "nouzui-jungle"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "脳髄ジャングル",

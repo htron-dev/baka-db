@@ -1,5 +1,9 @@
 {
     "title": "Heisei Ishin: Tatakau Jieitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/131939.jpg",
+        "alt": "heisei-ishin-tatakau-jieitai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "平成維新 －戦う自衛隊－",

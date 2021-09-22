@@ -1,5 +1,9 @@
 {
     "title": "Saikyou no Shuzoku ga Ningen Datta Ken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/217484.jpg",
+        "alt": "saikyou-no-shuzoku-ga-ningen-datta-ken"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "64",

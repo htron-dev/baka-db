@@ -1,5 +1,9 @@
 {
     "title": "13-banme no Boku no Majo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/108327.jpg",
+        "alt": "13-banme-no-boku-no-majo"
+    },
     "type": "light-novel",
     "original_name": "13 番目の僕の魔女",
     "start_date": "2013-12-03",

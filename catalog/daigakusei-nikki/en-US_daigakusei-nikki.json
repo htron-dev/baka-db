@@ -1,5 +1,9 @@
 {
     "title": "Daigakusei Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/77589.jpg",
+        "alt": "daigakusei-nikki"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "だいがくせいにっき",

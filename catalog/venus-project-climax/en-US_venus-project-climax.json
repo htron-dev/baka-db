@@ -1,12 +1,16 @@
 {
     "title": "Venus Project: Climax",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/74980.jpg",
+        "alt": "venus-project-climax"
+    },
     "type": "tv-serie",
     "episodes": "6",
     "original_name": "VENUS PROJECT（ヴィーナス プロジェクト）－CLIMAX－",
     "start_date": "2015-07-12",
     "end_date": "2015-07-12",
     "opening_song": "\"Venus Drive!! ~Kimi wa Moeteiru ka~ (Venus Drive!! ～キミは燃えているか～)\" by Eriko Hara (Sawako Hata) vs. Karen Takano (Ami Himesaki)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Yume no Tsubasa (ユメノツバサ)\" by Ruka Sovagasky (Riho Iida) (eps 1-5)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Venus_Project_(franchise"
+            "link": "http://en.wikipedia.org/wiki/Venus_Project_%28franchise%29"
         }
     ]
 }

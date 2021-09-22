@@ -1,5 +1,9 @@
 {
     "title": "Imouto ga Bunretsu shita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234725.jpg",
+        "alt": "imouto-ga-bunretsu-shita"
+    },
     "type": "manga",
     "original_name": "妹が分裂した。",
     "start_date": "2020-07-10",

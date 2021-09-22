@@ -1,5 +1,9 @@
 {
     "title": "Shangri-La",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/46581.jpg",
+        "alt": "shangri-la"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "16",

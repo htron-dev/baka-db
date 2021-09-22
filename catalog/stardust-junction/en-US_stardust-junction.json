@@ -1,5 +1,9 @@
 {
     "title": "Stardust Junction",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158891.jpg",
+        "alt": "stardust-junction"
+    },
     "type": "manga",
     "chapters": "4",
     "original_name": "スターダストジャンクション",

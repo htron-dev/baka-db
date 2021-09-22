@@ -1,5 +1,9 @@
 {
     "title": "Tonari no Tamageta-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/53845.jpg",
+        "alt": "tonari-no-tamageta-kun"
+    },
     "type": "tv-serie",
     "episodes": "60",
     "original_name": "となりのたまげ太くん",

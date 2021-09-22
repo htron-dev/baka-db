@@ -1,5 +1,9 @@
 {
     "title": "Amigo x Amiga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/9945.jpg",
+        "alt": "amigo-x-amiga"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "あみーご × あみーが",

@@ -1,5 +1,9 @@
 {
     "title": "Junod",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/26355.jpg",
+        "alt": "junod"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ジュノー",
@@ -29,7 +33,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/ジュノー_(アニメ映画"
+            "link": "https://ja.wikipedia.org/wiki/ジュノー_%28アニメ映画%29"
         }
     ]
 }

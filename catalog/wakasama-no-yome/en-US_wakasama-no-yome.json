@@ -1,5 +1,9 @@
 {
     "title": "Wakasama no Yome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167541.jpg",
+        "alt": "wakasama-no-yome"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "若様のヨメ",

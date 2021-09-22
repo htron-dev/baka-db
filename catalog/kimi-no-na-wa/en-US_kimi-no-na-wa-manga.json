@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Na wa.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/182270.jpg",
+        "alt": "kimi-no-na-wa"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "9",

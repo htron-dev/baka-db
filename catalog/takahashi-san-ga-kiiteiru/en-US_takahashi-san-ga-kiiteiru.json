@@ -1,5 +1,9 @@
 {
     "title": "Takahashi-san ga Kiiteiru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188934.jpg",
+        "alt": "takahashi-san-ga-kiiteiru"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "81",

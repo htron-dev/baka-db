@@ -1,5 +1,9 @@
 {
     "title": "Cool Doji Danshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226258.jpg",
+        "alt": "cool-doji-danshi"
+    },
     "type": "manga",
     "original_name": "クールドジ男子",
     "start_date": "2019-06-22",

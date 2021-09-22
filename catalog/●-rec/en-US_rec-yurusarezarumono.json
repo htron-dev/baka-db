@@ -1,5 +1,9 @@
 {
     "title": "Rec: Yurusarezarumono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/34619.jpg",
+        "alt": "rec-yurusarezarumono"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "レック 許されざる者",
@@ -25,7 +29,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Rec_(manga"
+            "link": "http://en.wikipedia.org/wiki/Rec_%28manga%29"
         }
     ]
 }

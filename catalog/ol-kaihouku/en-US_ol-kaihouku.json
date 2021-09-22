@@ -1,5 +1,9 @@
 {
     "title": "OL Kaihouku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175184.jpg",
+        "alt": "ol-kaihouku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

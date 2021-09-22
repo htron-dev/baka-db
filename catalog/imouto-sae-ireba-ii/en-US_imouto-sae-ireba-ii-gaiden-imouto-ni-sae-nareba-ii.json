@@ -1,5 +1,9 @@
 {
     "title": "Imouto sae Ireba Ii. Gaiden: Imouto ni sae Nareba Ii!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196817.jpg",
+        "alt": "imouto-sae-ireba-ii-gaiden-imouto-ni-sae-nareba-ii"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

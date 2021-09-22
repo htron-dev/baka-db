@@ -1,5 +1,9 @@
 {
     "title": "Kuina Passfinder",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/125603.jpg",
+        "alt": "kuina-passfinder"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "くいなパスファインダー",

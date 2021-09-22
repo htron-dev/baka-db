@@ -1,5 +1,9 @@
 {
     "title": "Kagehinata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/142019.jpg",
+        "alt": "kagehinata"
+    },
     "type": "manga",
     "chapters": "6",
     "original_name": "カゲヒナタ",

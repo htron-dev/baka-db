@@ -1,5 +1,9 @@
 {
     "title": "Ozanari Dungeon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35479.jpg",
+        "alt": "ozanari-dungeon"
+    },
     "type": "manga",
     "volumes": "17",
     "original_name": "おざなりダンジョン",

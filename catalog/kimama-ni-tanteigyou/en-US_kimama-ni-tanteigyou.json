@@ -1,5 +1,9 @@
 {
     "title": "Kimama ni Tanteigyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/82742.jpg",
+        "alt": "kimama-ni-tanteigyou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

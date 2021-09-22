@@ -1,5 +1,9 @@
 {
     "title": "Nobara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/118373.jpg",
+        "alt": "nobara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

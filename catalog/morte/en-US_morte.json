@@ -1,5 +1,9 @@
 {
     "title": "Morte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/184056.jpg",
+        "alt": "morte"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "モーテ",

@@ -1,5 +1,9 @@
 {
     "title": "Keri wo Tsukero!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156071.jpg",
+        "alt": "keri-wo-tsukero"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

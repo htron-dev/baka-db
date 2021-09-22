@@ -1,5 +1,9 @@
 {
     "title": "B-Men Kazoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/6829.jpg",
+        "alt": "b-men-kazoku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

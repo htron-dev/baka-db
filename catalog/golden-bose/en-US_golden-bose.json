@@ -1,5 +1,9 @@
 {
     "title": "Golden Bose",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235676.jpg",
+        "alt": "golden-bose"
+    },
     "type": "manga",
     "original_name": "ゴールデンボーズ",
     "start_date": "2019-10-04",

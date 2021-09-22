@@ -1,5 +1,9 @@
 {
     "title": "Glamorous Lip",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21362.jpg",
+        "alt": "glamorous-lip"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

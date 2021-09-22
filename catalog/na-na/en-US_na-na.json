@@ -1,5 +1,9 @@
 {
     "title": "NaNa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/78497.jpg",
+        "alt": "na-na"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "25",

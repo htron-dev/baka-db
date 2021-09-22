@@ -1,5 +1,9 @@
 {
     "title": "Takaramono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2216.jpg",
+        "alt": "takaramono"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "13",

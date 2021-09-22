@@ -1,5 +1,9 @@
 {
     "title": "Daishoya Saei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32901.jpg",
+        "alt": "daishoya-saei"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

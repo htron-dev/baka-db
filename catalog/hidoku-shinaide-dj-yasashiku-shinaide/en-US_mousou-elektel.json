@@ -1,5 +1,9 @@
 {
     "title": "Mousou Elektel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28328.jpg",
+        "alt": "mousou-elektel"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

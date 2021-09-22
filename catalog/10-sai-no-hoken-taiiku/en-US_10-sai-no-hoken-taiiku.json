@@ -1,5 +1,9 @@
 {
     "title": "10-sai no Hoken Taiiku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159876.jpg",
+        "alt": "10-sai-no-hoken-taiiku"
+    },
     "type": "light-novel",
     "volumes": "8",
     "chapters": "61",

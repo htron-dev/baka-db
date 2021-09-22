@@ -1,5 +1,9 @@
 {
     "title": "Kigi no Yukue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11940.jpg",
+        "alt": "kigi-no-yukue"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

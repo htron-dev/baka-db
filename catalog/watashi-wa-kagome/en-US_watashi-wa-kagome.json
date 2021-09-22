@@ -1,5 +1,9 @@
 {
     "title": "Watashi wa Kagome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23840.jpg",
+        "alt": "watashi-wa-kagome"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "私は加護女",

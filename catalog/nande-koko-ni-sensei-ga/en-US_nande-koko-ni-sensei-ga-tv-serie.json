@@ -1,12 +1,16 @@
 {
     "title": "Nande Koko ni Sensei ga!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1752/111394.jpg",
+        "alt": "nande-koko-ni-sensei-ga"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "なんでここに先生が!?",
     "start_date": "2019-04-08",
     "end_date": "2019-04-08",
     "opening_song": "\"Bon♡Kyu♡Bon wa Kare no Mono♡ (ボン ♡ キュッ ♡ ボンは彼のモノ ♡)\" by Sumire Uesaka",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ringo-iro Memories (りんご色メモリーズ)\" by Kana Kojima (Sumire Uesaka) (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

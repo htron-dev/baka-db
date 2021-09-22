@@ -1,5 +1,9 @@
 {
     "title": "Omae wa Watashi no Seiken desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/124243.jpg",
+        "alt": "omae-wa-watashi-no-seiken-desu"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "おまえは私の聖剣です。",

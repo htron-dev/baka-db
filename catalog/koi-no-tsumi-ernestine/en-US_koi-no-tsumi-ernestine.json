@@ -1,5 +1,9 @@
 {
     "title": "Koi no Tsumi: Ernestine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234700.jpg",
+        "alt": "koi-no-tsumi-ernestine"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

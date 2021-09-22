@@ -1,5 +1,9 @@
 {
     "title": "Libero Revolution!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227752.jpg",
+        "alt": "libero-revolution"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "112",

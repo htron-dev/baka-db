@@ -1,5 +1,9 @@
 {
     "title": "Little Slugger Rin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202929.jpg",
+        "alt": "little-slugger-rin"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "67",

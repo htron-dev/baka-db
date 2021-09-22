@@ -1,5 +1,9 @@
 {
     "title": "Taiyou no Yuusha Fighbird",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/31133.jpg",
+        "alt": "taiyou-no-yuusha-fighbird"
+    },
     "type": "tv-serie",
     "episodes": "48",
     "original_name": "太陽の勇者ファイバード",

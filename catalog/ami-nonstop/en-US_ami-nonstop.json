@@ -1,5 +1,9 @@
 {
     "title": "Ami! Nonstop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5755.jpg",
+        "alt": "ami-nonstop"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "亜未！ノンストップ",

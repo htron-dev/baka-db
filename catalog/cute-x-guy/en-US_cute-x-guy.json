@@ -1,5 +1,9 @@
 {
     "title": "CUTE X GUY",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2342.jpg",
+        "alt": "cute-x-guy"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "15",

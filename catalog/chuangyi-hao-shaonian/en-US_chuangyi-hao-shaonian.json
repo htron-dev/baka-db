@@ -1,5 +1,9 @@
 {
     "title": "Chuangyi Hao Shaonian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1415/115358.jpg",
+        "alt": "chuangyi-hao-shaonian"
+    },
     "type": "tv-serie",
     "episodes": "200",
     "original_name": "创意好少年",

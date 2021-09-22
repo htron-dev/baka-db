@@ -1,5 +1,9 @@
 {
     "title": "Eikoku Koi Monogatari Emma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/80117.jpg",
+        "alt": "eikoku-koi-monogatari-emma"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "英國戀物語エマ",
@@ -35,7 +39,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Emma_(manga"
+            "link": "https://en.wikipedia.org/wiki/Emma_%28manga%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Poro no Ryuugakuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/197240.jpg",
+        "alt": "poro-no-ryuugakuki"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

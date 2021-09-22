@@ -1,5 +1,9 @@
 {
     "title": "Lucky Break",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164071.jpg",
+        "alt": "lucky-break"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ラッキー・ブレイク",

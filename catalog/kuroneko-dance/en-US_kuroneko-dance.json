@@ -1,5 +1,9 @@
 {
     "title": "Kuroneko Dance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153503.jpg",
+        "alt": "kuroneko-dance"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

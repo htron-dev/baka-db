@@ -1,5 +1,9 @@
 {
     "title": "Ousama-tachi no Viking",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/123741.jpg",
+        "alt": "ousama-tachi-no-viking"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "207",

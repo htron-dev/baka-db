@@ -1,12 +1,16 @@
 {
     "title": "Phantasy Star Online 2: Episode Oracle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1923/99744.jpg",
+        "alt": "phantasy-star-online-2-episode-oracle"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "ファンタシースターオンライン 2 エピソード・オラクル",
     "start_date": "2019-10-07",
     "end_date": "2019-10-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Destiny\" by Aimee Blackschleger (eps.1-15)",
+    "ending_song": "#1: \"Timeless Fortune\" by Mika Arisaka (有坂美香) (eps 1-9, 11-15, 23, 24)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

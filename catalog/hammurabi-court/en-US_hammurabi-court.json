@@ -1,5 +1,9 @@
 {
     "title": "Hammurabi Court",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193230.jpg",
+        "alt": "hammurabi-court"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "ハムラビコート",

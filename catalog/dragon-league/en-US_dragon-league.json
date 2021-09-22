@@ -1,5 +1,9 @@
 {
     "title": "Dragon League",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/49791.jpg",
+        "alt": "dragon-league"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "ドラゴンリーグ",

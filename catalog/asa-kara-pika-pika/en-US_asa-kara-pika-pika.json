@@ -1,5 +1,9 @@
 {
     "title": "Asa kara Pika Pika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/26269.jpg",
+        "alt": "asa-kara-pika-pika"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "朝からピカ ☆ ピカ",

@@ -1,12 +1,16 @@
 {
     "title": "Fushigi Yuugi OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1171/92443.jpg",
+        "alt": "fushigi-yuugi-ova"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "ふしぎ遊戯",
     "start_date": "1996-10-25",
     "end_date": "1996-10-25",
     "opening_song": "\"Yogaakeru Mae ni (夜が明ける前に)\" by Satou Akemi",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ashita no Watashi wo Shinjitai (明日の私を信じたい)\" by Saori Ishizuka",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

@@ -1,5 +1,9 @@
 {
     "title": "Stand By Youth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/9018.jpg",
+        "alt": "stand-by-youth"
+    },
     "type": "manhwa",
     "volumes": "5",
     "tags": [

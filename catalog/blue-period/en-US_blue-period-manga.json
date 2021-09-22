@@ -1,5 +1,9 @@
 {
     "title": "Blue Period",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204827.jpg",
+        "alt": "blue-period"
+    },
     "type": "manga",
     "original_name": "ブルーピリオド",
     "start_date": "2017-06-24",

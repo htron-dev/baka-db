@@ -1,5 +1,9 @@
 {
     "title": "Next Door Honey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/231596.jpg",
+        "alt": "next-door-honey"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

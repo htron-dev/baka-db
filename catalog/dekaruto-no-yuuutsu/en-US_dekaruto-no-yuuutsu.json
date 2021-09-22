@@ -1,5 +1,9 @@
 {
     "title": "Dekaruto no Yuuutsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33264.jpg",
+        "alt": "dekaruto-no-yuuutsu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "デカルトの憂鬱‐見知らぬ私",

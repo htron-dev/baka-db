@@ -1,5 +1,9 @@
 {
     "title": "Kuro no Shishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/74777.jpg",
+        "alt": "kuro-no-shishi"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "黒の獅士",

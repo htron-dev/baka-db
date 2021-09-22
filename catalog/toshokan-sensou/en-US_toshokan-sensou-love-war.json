@@ -1,5 +1,9 @@
 {
     "title": "Toshokan Sensou: Love & War",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/138477.jpg",
+        "alt": "toshokan-sensou-love-war"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "90",

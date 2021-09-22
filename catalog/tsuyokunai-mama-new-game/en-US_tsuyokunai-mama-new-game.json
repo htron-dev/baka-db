@@ -1,5 +1,9 @@
 {
     "title": "Tsuyokunai Mama New Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164473.jpg",
+        "alt": "tsuyokunai-mama-new-game"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "強くないままニューゲーム",

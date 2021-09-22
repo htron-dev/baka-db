@@ -1,5 +1,9 @@
 {
     "title": "Chi to Chocolate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168309.jpg",
+        "alt": "chi-to-chocolate"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

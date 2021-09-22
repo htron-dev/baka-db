@@ -1,5 +1,9 @@
 {
     "title": "Hanada Shounen-shi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/87319.jpg",
+        "alt": "hanada-shounen-shi"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "花田少年史",

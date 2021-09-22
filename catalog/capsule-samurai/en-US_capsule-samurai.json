@@ -1,5 +1,9 @@
 {
     "title": "Capsule Samurai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/88830.jpg",
+        "alt": "capsule-samurai"
+    },
     "type": "tv-serie",
     "episodes": "40",
     "original_name": "カプセル侍",

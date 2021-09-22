@@ -1,5 +1,9 @@
 {
     "title": "FLCL",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11144.jpg",
+        "alt": "flcl"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "24",

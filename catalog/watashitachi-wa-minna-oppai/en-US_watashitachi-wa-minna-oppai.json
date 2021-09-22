@@ -1,5 +1,9 @@
 {
     "title": "Watashitachi wa Minna Oppai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/126751.jpg",
+        "alt": "watashitachi-wa-minna-oppai"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "わたしたちは皆おっぱい",

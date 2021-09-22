@@ -1,5 +1,9 @@
 {
     "title": "Smoking Savage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/217103.jpg",
+        "alt": "smoking-savage"
+    },
     "type": "manga",
     "original_name": "スモーキング・サベージ",
     "start_date": "2018-02-26",

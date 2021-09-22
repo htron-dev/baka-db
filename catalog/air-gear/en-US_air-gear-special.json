@@ -1,5 +1,9 @@
 {
     "title": "Air Gear Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1902/97393.jpg",
+        "alt": "air-gear-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "エア・ギア",

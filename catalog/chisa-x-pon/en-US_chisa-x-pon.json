@@ -1,5 +1,9 @@
 {
     "title": "Chisa x Pon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/4767.jpg",
+        "alt": "chisa-x-pon"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "50",

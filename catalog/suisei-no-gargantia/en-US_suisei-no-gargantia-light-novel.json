@@ -1,5 +1,9 @@
 {
     "title": "Suisei no Gargantia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161455.jpg",
+        "alt": "suisei-no-gargantia"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "翠星のガルガンティア ‬",

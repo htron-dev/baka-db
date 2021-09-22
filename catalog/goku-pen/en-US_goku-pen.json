@@ -1,5 +1,9 @@
 {
     "title": "Goku Pen!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163266.jpg",
+        "alt": "goku-pen"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "19",

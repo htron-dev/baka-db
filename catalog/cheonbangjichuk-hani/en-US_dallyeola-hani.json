@@ -1,5 +1,9 @@
 {
     "title": "Dallyeola Hani",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/45712.jpg",
+        "alt": "dallyeola-hani"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "달려라 하니",

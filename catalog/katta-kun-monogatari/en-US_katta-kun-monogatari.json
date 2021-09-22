@@ -1,5 +1,9 @@
 {
     "title": "Katta-kun Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/55713.jpg",
+        "alt": "katta-kun-monogatari"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "カッタ君物語",

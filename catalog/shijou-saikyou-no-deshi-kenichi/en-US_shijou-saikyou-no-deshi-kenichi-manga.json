@@ -1,5 +1,9 @@
 {
     "title": "Shijou Saikyou no Deshi Kenichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169883.jpg",
+        "alt": "shijou-saikyou-no-deshi-kenichi"
+    },
     "type": "manga",
     "volumes": "61",
     "chapters": "584",

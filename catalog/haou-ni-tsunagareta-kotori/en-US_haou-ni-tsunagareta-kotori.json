@@ -1,5 +1,9 @@
 {
     "title": "Haou ni Tsunagareta Kotori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192417.jpg",
+        "alt": "haou-ni-tsunagareta-kotori"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

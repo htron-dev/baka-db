@@ -1,5 +1,9 @@
 {
     "title": "Joker no Amai Uso",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161833.jpg",
+        "alt": "joker-no-amai-uso"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

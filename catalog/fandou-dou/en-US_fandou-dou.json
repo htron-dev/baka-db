@@ -1,5 +1,9 @@
 {
     "title": "Fandou Dou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1960/115490.jpg",
+        "alt": "fandou-dou"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "翻斗豆",

@@ -1,5 +1,9 @@
 {
     "title": "Kuuchuu Houyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150461.jpg",
+        "alt": "kuuchuu-houyou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

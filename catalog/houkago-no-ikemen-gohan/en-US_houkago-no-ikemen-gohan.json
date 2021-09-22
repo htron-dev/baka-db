@@ -1,5 +1,9 @@
 {
     "title": "Houkago no Ikemen Gohan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/223822.jpg",
+        "alt": "houkago-no-ikemen-gohan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

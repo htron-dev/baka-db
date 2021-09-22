@@ -1,5 +1,9 @@
 {
     "title": "Dennou Coil",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/12844.jpg",
+        "alt": "dennou-coil"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "電脳コイル",

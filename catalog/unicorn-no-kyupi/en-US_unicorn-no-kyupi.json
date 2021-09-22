@@ -1,5 +1,9 @@
 {
     "title": "Unicorn no Kyupi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1165/91319.jpg",
+        "alt": "unicorn-no-kyupi"
+    },
     "type": "tv-serie",
     "original_name": "ユニコーンのキュピ",
     "start_date": "2017-03-20",

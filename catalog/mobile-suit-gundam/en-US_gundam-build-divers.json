@@ -1,12 +1,16 @@
 {
     "title": "Gundam Build Divers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1701/90388.jpg",
+        "alt": "gundam-build-divers"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "ガンダムビルドダイバーズ",
     "start_date": "2018-04-03",
     "end_date": "2018-04-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Diver's High\" by SKY-HI (eps 1-13)",
+    "ending_song": "#1: \"Ashita e\" by Iris (eps 1-13)",
     "rating": "G - All Ages",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Canaan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/27666.jpg",
+        "alt": "canaan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

@@ -1,5 +1,9 @@
 {
     "title": "Metal★Rock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192795.jpg",
+        "alt": "metal★-rock"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "28",

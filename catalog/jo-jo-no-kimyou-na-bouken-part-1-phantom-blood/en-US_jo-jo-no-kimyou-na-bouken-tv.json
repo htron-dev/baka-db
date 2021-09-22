@@ -1,12 +1,16 @@
 {
     "title": "JoJo no Kimyou na Bouken (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/40409.jpg",
+        "alt": "jo-jo-no-kimyou-na-bouken-tv"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ジョジョの奇妙な冒険",
     "start_date": "2012-10-06",
     "end_date": "2012-10-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"JoJo ~Sono Chi no Sadame~ (ジョジョ～その血の運命～)\" by Hiroaki TOMMY Tominaga (eps 2-9)",
+    "ending_song": "#1: \"Roundabout\" by YES (eps 1-25)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

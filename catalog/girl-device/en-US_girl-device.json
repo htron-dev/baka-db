@@ -1,5 +1,9 @@
 {
     "title": "Girl Device",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166500.jpg",
+        "alt": "girl-device"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

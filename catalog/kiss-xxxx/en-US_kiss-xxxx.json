@@ -1,5 +1,9 @@
 {
     "title": "Kiss XXXX",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207461.jpg",
+        "alt": "kiss-xxxx"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "KISSxxxx",

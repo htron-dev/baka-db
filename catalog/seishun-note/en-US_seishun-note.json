@@ -1,5 +1,9 @@
 {
     "title": "Seishun Note",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158497.jpg",
+        "alt": "seishun-note"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

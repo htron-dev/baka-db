@@ -1,5 +1,9 @@
 {
     "title": "Itsuya-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/129471.jpg",
+        "alt": "itsuya-san"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

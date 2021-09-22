@@ -1,5 +1,9 @@
 {
     "title": "Hiseki Senki Stone Buster!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/65307.jpg",
+        "alt": "hiseki-senki-stone-buster"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "31",

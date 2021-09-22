@@ -1,5 +1,9 @@
 {
     "title": "Cirque Arachne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/86343.jpg",
+        "alt": "cirque-arachne"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

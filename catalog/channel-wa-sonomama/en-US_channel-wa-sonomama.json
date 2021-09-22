@@ -1,5 +1,9 @@
 {
     "title": "Channel wa Sonomama!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/38074.jpg",
+        "alt": "channel-wa-sonomama"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "チャンネルはそのまま！",

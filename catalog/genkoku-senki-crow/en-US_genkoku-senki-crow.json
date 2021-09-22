@@ -1,5 +1,9 @@
 {
     "title": "Genkoku Senki Crow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163484.jpg",
+        "alt": "genkoku-senki-crow"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "幻國戦記 CROW",

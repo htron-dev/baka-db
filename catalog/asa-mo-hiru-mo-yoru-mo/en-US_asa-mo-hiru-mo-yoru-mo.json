@@ -1,5 +1,9 @@
 {
     "title": "Asa mo, Hiru mo, Yoru mo.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/130557.jpg",
+        "alt": "asa-mo-hiru-mo-yoru-mo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

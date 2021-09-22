@@ -1,5 +1,9 @@
 {
     "title": "Id",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/59063.jpg",
+        "alt": "id"
+    },
     "type": "manhwa",
     "volumes": "29",
     "chapters": "178",

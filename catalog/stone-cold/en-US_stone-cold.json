@@ -1,5 +1,9 @@
 {
     "title": "Stone Cold",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/13903.jpg",
+        "alt": "stone-cold"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

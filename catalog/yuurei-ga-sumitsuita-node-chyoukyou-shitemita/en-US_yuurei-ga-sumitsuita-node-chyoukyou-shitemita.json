@@ -1,5 +1,9 @@
 {
     "title": "Yuurei ga Sumitsuita node Chyoukyou shitemita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177900.jpg",
+        "alt": "yuurei-ga-sumitsuita-node-chyoukyou-shitemita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Taiyou no Makibao",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192486.jpg",
+        "alt": "taiyou-no-makibao"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "191",

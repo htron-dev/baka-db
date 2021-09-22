@@ -1,5 +1,9 @@
 {
     "title": "Mahoutsukai no Yakusoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/242788.jpg",
+        "alt": "mahoutsukai-no-yakusoku"
+    },
     "type": "manga",
     "original_name": "魔法使いの約束",
     "start_date": "2020-04-28",

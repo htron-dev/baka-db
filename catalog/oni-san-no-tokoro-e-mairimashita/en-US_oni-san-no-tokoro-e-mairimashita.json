@@ -1,5 +1,9 @@
 {
     "title": "Oni-san no Tokoro e Mairimashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215775.jpg",
+        "alt": "oni-san-no-tokoro-e-mairimashita"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

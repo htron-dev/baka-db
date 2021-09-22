@@ -1,5 +1,9 @@
 {
     "title": "Deep Love: Ayu no Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/1007.jpg",
+        "alt": "deep-love-ayu-no-monogatari"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

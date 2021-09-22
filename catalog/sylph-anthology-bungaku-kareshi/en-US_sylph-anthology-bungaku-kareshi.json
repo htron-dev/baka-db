@@ -1,5 +1,9 @@
 {
     "title": "Sylph Anthology: Bungaku Kareshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/86055.jpg",
+        "alt": "sylph-anthology-bungaku-kareshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

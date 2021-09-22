@@ -1,5 +1,9 @@
 {
     "title": "Dounyatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/126329.jpg",
+        "alt": "dounyatsu"
+    },
     "type": "manga",
     "original_name": "どーにゃつ",
     "start_date": "2011-12-15",

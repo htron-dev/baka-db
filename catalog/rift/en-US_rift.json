@@ -1,5 +1,9 @@
 {
     "title": "Rift",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191242.jpg",
+        "alt": "rift"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

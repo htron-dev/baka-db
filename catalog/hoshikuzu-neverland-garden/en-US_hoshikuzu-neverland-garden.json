@@ -1,5 +1,9 @@
 {
     "title": "Hoshikuzu Neverland Garden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169612.jpg",
+        "alt": "hoshikuzu-neverland-garden"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Kurotsuta Yashiki no Himegoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152023.jpg",
+        "alt": "kurotsuta-yashiki-no-himegoto"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

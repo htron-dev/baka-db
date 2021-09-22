@@ -1,5 +1,9 @@
 {
     "title": "Dot Bit Retro: Boku Dake no Kusoge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1705/108115.jpg",
+        "alt": "dot-bit-retro-boku-dake-no-kusoge"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "Dot Bit Retro - ぼくだけのクソゲー",

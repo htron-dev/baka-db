@@ -1,5 +1,9 @@
 {
     "title": "Neko Mix Genkitan Toraji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16432.jpg",
+        "alt": "neko-mix-genkitan-toraji"
+    },
     "type": "manga",
     "original_name": "猫 mix 幻奇譚とらじ",
     "tags": [

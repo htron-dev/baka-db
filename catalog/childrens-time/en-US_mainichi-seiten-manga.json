@@ -1,5 +1,9 @@
 {
     "title": "Mainichi Seiten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166042.jpg",
+        "alt": "mainichi-seiten"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

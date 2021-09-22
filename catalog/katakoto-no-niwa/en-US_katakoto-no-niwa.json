@@ -1,5 +1,9 @@
 {
     "title": "Katakoto no Niwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/220974.jpg",
+        "alt": "katakoto-no-niwa"
+    },
     "type": "manga",
     "original_name": "カタコトの庭",
     "start_date": "2018-10-19",

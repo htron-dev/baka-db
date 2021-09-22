@@ -1,5 +1,9 @@
 {
     "title": "Kouhai-kun wa Amayakashitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235539.jpg",
+        "alt": "kouhai-kun-wa-amayakashitai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

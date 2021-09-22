@@ -1,5 +1,9 @@
 {
     "title": "Angel Shop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/4835.jpg",
+        "alt": "angel-shop"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "19",

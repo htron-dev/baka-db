@@ -1,12 +1,16 @@
 {
     "title": "Grisaia no Rakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/72855.jpg",
+        "alt": "grisaia-no-rakuen"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "グリザイアの楽園",
     "start_date": "2015-04-19",
     "end_date": "2015-04-19",
     "opening_song": "\"Setsuna no Kajitsu (刹那の果実)\" by Maon Kurosaki (eps 2-3, 5-10)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Tasogare no Starlight (黄昏のスタアライト)\" by Yoshino Nanjo (eps 1-4)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "drama",

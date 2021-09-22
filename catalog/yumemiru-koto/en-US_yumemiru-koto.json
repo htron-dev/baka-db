@@ -1,5 +1,9 @@
 {
     "title": "Yumemiru Koto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18617.jpg",
+        "alt": "yumemiru-koto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

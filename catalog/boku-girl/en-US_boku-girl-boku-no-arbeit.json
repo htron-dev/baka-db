@@ -1,5 +1,9 @@
 {
     "title": "Boku Girl: Boku no Arbeit",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164142.jpg",
+        "alt": "boku-girl-boku-no-arbeit"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

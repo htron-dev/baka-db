@@ -1,5 +1,9 @@
 {
     "title": "Utsukushii Message",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/74444.jpg",
+        "alt": "utsukushii-message"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "美しいメッセージ",

@@ -1,5 +1,9 @@
 {
     "title": "Canis Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/100181.jpg",
+        "alt": "canis-series"
+    },
     "type": "manga",
     "original_name": "CANIS シリーズ",
     "start_date": "2012-06-28",

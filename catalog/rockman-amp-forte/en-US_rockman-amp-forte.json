@@ -1,5 +1,9 @@
 {
     "title": "Rockman &amp; Forte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/35088.jpg",
+        "alt": "rockman-amp-forte"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ロックマン&フォルテ",

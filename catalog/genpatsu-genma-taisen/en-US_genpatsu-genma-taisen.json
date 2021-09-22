@@ -1,5 +1,9 @@
 {
     "title": "Genpatsu Genma Taisen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190709.jpg",
+        "alt": "genpatsu-genma-taisen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

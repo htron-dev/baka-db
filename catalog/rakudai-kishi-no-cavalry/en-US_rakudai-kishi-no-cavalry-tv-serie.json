@@ -1,12 +1,16 @@
 {
     "title": "Rakudai Kishi no Cavalry",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/76493.jpg",
+        "alt": "rakudai-kishi-no-cavalry"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "落第騎士の英雄譚《キャバルリィ》",
     "start_date": "2015-10-03",
     "end_date": "2015-10-03",
     "opening_song": "\"Identity (アイデンティティ)\" by Mikio Sakai (eps 2-3, 5-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Identity (アイデンティティ)\" by Mikio Sakai (ep 1)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

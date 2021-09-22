@@ -1,5 +1,9 @@
 {
     "title": "Neko Borabu no Milk-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239833.jpg",
+        "alt": "neko-borabu-no-milk-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

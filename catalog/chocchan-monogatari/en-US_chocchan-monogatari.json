@@ -1,5 +1,9 @@
 {
     "title": "Chocchan Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1696/112292.jpg",
+        "alt": "chocchan-monogatari"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "チョッちゃん物語",

@@ -1,5 +1,9 @@
 {
     "title": "Suki na Hito no Suki na Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240827.jpg",
+        "alt": "suki-na-hito-no-suki-na-hito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

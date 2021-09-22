@@ -1,5 +1,9 @@
 {
     "title": "Bushido Sixteen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/45897.jpg",
+        "alt": "bushido-sixteen"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "武士道シックスティーン",

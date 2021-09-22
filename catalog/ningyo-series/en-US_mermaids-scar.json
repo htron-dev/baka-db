@@ -1,5 +1,9 @@
 {
     "title": "Mermaid's Scar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/2144.jpg",
+        "alt": "mermaids-scar"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "人魚の傷",

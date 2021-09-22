@@ -1,5 +1,9 @@
 {
     "title": "Hana Sakasemasho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26161.jpg",
+        "alt": "hana-sakasemasho"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "華咲かせましょ",

@@ -1,5 +1,9 @@
 {
     "title": "Shouwa Tennou Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203467.jpg",
+        "alt": "shouwa-tennou-monogatari"
+    },
     "type": "manga",
     "original_name": "昭和天皇物語",
     "start_date": "2017-04-20",

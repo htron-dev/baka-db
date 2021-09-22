@@ -1,5 +1,9 @@
 {
     "title": "Burai na Kaze: Tetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/116285.jpg",
+        "alt": "burai-na-kaze-tetsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

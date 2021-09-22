@@ -1,5 +1,9 @@
 {
     "title": "Imouto wa CIA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235493.jpg",
+        "alt": "imouto-wa-cia"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "21",

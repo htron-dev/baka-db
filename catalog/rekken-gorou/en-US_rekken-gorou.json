@@ -1,5 +1,9 @@
 {
     "title": "Rekken Gorou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228916.jpg",
+        "alt": "rekken-gorou"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "烈剣五郎",

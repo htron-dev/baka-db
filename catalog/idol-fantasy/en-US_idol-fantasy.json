@@ -1,5 +1,9 @@
 {
     "title": "Idol Fantasy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1026/95307.jpg",
+        "alt": "idol-fantasy"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "IDOL FANTASY",

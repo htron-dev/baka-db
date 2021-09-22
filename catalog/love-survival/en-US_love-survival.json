@@ -1,5 +1,9 @@
 {
     "title": "Love Survival",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18476.jpg",
+        "alt": "love-survival"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

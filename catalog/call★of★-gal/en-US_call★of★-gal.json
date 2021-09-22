@@ -1,5 +1,9 @@
 {
     "title": "Call★of★Gal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239177.jpg",
+        "alt": "call★of★-gal"
+    },
     "type": "manga",
     "original_name": "コール ★ オブ ★ ギャル",
     "start_date": "2021-01-01",

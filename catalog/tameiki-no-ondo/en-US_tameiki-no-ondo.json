@@ -1,5 +1,9 @@
 {
     "title": "Tameiki no Ondo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/3010.jpg",
+        "alt": "tameiki-no-ondo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

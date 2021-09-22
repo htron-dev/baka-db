@@ -1,5 +1,9 @@
 {
     "title": "Haa Haa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/3977.jpg",
+        "alt": "haa-haa"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

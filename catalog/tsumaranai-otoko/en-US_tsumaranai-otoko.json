@@ -1,5 +1,9 @@
 {
     "title": "Tsumaranai Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/130163.jpg",
+        "alt": "tsumaranai-otoko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

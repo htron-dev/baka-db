@@ -1,5 +1,9 @@
 {
     "title": "Sensei to Naisho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33883.jpg",
+        "alt": "sensei-to-naisho"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

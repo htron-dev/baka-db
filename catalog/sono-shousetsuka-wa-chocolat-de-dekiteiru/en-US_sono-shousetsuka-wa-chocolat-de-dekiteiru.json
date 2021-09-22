@@ -1,5 +1,9 @@
 {
     "title": "Sono Shousetsuka wa Chocolat de Dekiteiru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167149.jpg",
+        "alt": "sono-shousetsuka-wa-chocolat-de-dekiteiru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

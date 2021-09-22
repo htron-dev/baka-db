@@ -1,5 +1,9 @@
 {
     "title": "Do-Re-Mi-Fa-Sol-La-Si-Do",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/37791.jpg",
+        "alt": "do-re-mi-fa-sol-la-si-do"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "11",

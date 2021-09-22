@@ -1,5 +1,9 @@
 {
     "title": "Pharaoh",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205006.jpg",
+        "alt": "pharaoh"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "79",

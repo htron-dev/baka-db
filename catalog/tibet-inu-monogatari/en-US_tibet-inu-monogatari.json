@@ -1,5 +1,9 @@
 {
     "title": "Tibet Inu Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/29247.jpg",
+        "alt": "tibet-inu-monogatari"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "チベット犬物語",

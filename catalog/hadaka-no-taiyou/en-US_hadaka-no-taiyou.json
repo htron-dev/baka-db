@@ -1,5 +1,9 @@
 {
     "title": "Hadaka no Taiyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/85221.jpg",
+        "alt": "hadaka-no-taiyou"
+    },
     "type": "manga",
     "original_name": "ハダカノタイヨウ",
     "start_date": "2012-06-12",

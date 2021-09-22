@@ -1,5 +1,9 @@
 {
     "title": "Teihanpatsu Libido",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157905.jpg",
+        "alt": "teihanpatsu-libido"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "32",

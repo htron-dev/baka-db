@@ -1,5 +1,9 @@
 {
     "title": "Knight Gunner",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155625.jpg",
+        "alt": "knight-gunner"
+    },
     "type": "manhwa",
     "volumes": "3",
     "original_name": "나이트거너",

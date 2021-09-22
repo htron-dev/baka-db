@@ -1,5 +1,9 @@
 {
     "title": "Nijiiro☆Prism Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/121611.jpg",
+        "alt": "nijiiro☆-prism-girl"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "にじいろ ☆ プリズムガール",

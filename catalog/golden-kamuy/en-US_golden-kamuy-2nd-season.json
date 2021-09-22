@@ -1,12 +1,16 @@
 {
     "title": "Golden Kamuy 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1180/95018.jpg",
+        "alt": "golden-kamuy-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ゴールデンカムイ",
     "start_date": "2018-10-08",
     "end_date": "2018-10-08",
     "opening_song": "\"Reimei (レイメイ)\" by Sayuri x MY FIRST STORY",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Reimei (レイメイ)\" by Sayuri x MY FIRST STORY (eps 1, 12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

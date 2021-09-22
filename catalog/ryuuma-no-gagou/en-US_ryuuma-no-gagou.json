@@ -1,5 +1,9 @@
 {
     "title": "Ryuuma no Gagou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/187972.jpg",
+        "alt": "ryuuma-no-gagou"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "62",

@@ -1,5 +1,9 @@
 {
     "title": "Tsukimigusa: Yoshiwara Yuukaku Gokuraku Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163664.jpg",
+        "alt": "tsukimigusa-yoshiwara-yuukaku-gokuraku-nikki"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

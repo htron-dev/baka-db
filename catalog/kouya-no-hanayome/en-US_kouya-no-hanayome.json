@@ -1,5 +1,9 @@
 {
     "title": "Kouya no Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/206306.jpg",
+        "alt": "kouya-no-hanayome"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "32",

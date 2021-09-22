@@ -1,5 +1,9 @@
 {
     "title": "Tarepanda",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/57547.jpg",
+        "alt": "tarepanda"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "たれぱんだ",

@@ -1,5 +1,9 @@
 {
     "title": "Furimuite, Yukino-chan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237372.jpg",
+        "alt": "furimuite-yukino-chan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

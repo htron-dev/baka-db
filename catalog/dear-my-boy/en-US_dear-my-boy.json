@@ -1,5 +1,9 @@
 {
     "title": "Dear My Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239847.jpg",
+        "alt": "dear-my-boy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

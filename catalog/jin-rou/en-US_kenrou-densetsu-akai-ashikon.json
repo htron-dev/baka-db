@@ -1,5 +1,9 @@
 {
     "title": "Kenrou Densetsu: Akai Ashikon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/73893.jpg",
+        "alt": "kenrou-densetsu-akai-ashikon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Double Hound",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171262.jpg",
+        "alt": "double-hound"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

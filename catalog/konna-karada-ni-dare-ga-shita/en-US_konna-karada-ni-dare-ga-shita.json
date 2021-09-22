@@ -1,5 +1,9 @@
 {
     "title": "Konna Karada ni Dare ga Shita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199841.jpg",
+        "alt": "konna-karada-ni-dare-ga-shita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

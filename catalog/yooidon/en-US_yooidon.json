@@ -1,5 +1,9 @@
 {
     "title": "Yooidon!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/65987.jpg",
+        "alt": "yooidon"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "よーいドン！",

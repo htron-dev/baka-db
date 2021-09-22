@@ -1,5 +1,9 @@
 {
     "title": "Loveless",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/22947.jpg",
+        "alt": "loveless"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "LOVELESS",

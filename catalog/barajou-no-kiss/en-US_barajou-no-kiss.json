@@ -1,5 +1,9 @@
 {
     "title": "Barajou no Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/19679.jpg",
+        "alt": "barajou-no-kiss"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "42",

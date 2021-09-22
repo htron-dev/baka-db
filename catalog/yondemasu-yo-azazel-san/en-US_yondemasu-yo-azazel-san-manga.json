@@ -1,5 +1,9 @@
 {
     "title": "Yondemasu yo, Azazel-san.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193454.jpg",
+        "alt": "yondemasu-yo-azazel-san"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "162",

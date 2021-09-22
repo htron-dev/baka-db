@@ -1,5 +1,9 @@
 {
     "title": "Jinsei Reset Button",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/138373.jpg",
+        "alt": "jinsei-reset-button"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

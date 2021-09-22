@@ -1,5 +1,9 @@
 {
     "title": "Tokugawa 15",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195251.jpg",
+        "alt": "tokugawa-15"
+    },
     "type": "manga",
     "original_name": "TOKUGAWA 15",
     "start_date": "2016-10-26",

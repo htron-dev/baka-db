@@ -1,5 +1,9 @@
 {
     "title": "Tales of Symphonia: Ratatosk no Kishi - Onshuu no Richter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149409.jpg",
+        "alt": "tales-of-symphonia-ratatosk-no-kishi-onshuu-no-richter"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

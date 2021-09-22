@@ -1,5 +1,9 @@
 {
     "title": "Jugai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/37159.jpg",
+        "alt": "jugai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "19",

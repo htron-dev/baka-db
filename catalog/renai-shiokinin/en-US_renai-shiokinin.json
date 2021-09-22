@@ -1,5 +1,9 @@
 {
     "title": "Ren'ai Shiokinin!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11073.jpg",
+        "alt": "renai-shiokinin"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "恋愛・仕置人！",

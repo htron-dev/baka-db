@@ -1,5 +1,9 @@
 {
     "title": "UFO Robo Grendizer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/43589.jpg",
+        "alt": "ufo-robo-grendizer"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "20",
@@ -18,11 +22,6 @@
     ],
     "sinopse": "Although similar in name to the Go Nagai work, this version by Gosaku Ota is vastly different from Nagai's work.",
     "links": [
-        {
-            "text": "My Anime list",
-            "link": "https://myanimelist.net/manga/32899/UFO_Robo_Grendizer"
-        },
-        "## Links",
         {
             "text": "My Anime list",
             "link": "https://myanimelist.net/manga/8558/UFO_Robo_Grendizer"

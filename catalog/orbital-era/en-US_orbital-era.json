@@ -1,5 +1,9 @@
 {
     "title": "Orbital Era",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1675/101877.jpg",
+        "alt": "orbital-era"
+    },
     "type": "movie",
     "episodes": "1",
     "rating": "None",

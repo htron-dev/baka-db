@@ -1,5 +1,9 @@
 {
     "title": "Kekkai no Noah",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225593.jpg",
+        "alt": "kekkai-no-noah"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

@@ -1,5 +1,9 @@
 {
     "title": "Konmei Shakai no Kosodate Mondou: Ikumon!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167134.jpg",
+        "alt": "konmei-shakai-no-kosodate-mondou-ikumon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "54",

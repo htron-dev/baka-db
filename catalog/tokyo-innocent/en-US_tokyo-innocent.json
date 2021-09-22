@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Innocent",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/74237.jpg",
+        "alt": "tokyo-innocent"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "47",

@@ -1,5 +1,9 @@
 {
     "title": "Cherry na Teacher",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/34474.jpg",
+        "alt": "cherry-na-teacher"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Kaseki no Kioku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/85423.jpg",
+        "alt": "kaseki-no-kioku"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "化石の記憶",

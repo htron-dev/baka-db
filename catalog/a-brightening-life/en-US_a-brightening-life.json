@@ -1,5 +1,9 @@
 {
     "title": "A Brightening Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1565/103711.jpg",
+        "alt": "a-brightening-life"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "A brightening life",

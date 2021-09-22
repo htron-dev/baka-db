@@ -1,5 +1,9 @@
 {
     "title": "Tapris Sugar Step",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226405.jpg",
+        "alt": "tapris-sugar-step"
+    },
     "type": "manga",
     "original_name": "タプリスシュガーステップ",
     "start_date": "2018-08-27",

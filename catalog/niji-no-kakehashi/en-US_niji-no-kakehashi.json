@@ -1,5 +1,9 @@
 {
     "title": "Niji no Kakehashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1031/109820.jpg",
+        "alt": "niji-no-kakehashi"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "虹のかけ橋",

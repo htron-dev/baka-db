@@ -1,5 +1,9 @@
 {
     "title": "Suiiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/112869.jpg",
+        "alt": "suiiki"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Oyako Nezumi no Fushigi na Tabi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/7512.jpg",
+        "alt": "oyako-nezumi-no-fushigi-na-tabi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "親子ネズミの不思議な旅",

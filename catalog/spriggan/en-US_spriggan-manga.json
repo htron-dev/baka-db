@@ -1,5 +1,9 @@
 {
     "title": "Spriggan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187413.jpg",
+        "alt": "spriggan"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "59",

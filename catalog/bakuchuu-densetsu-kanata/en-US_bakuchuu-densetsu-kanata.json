@@ -1,5 +1,9 @@
 {
     "title": "Bakuchuu Densetsu Kanata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/76453.jpg",
+        "alt": "bakuchuu-densetsu-kanata"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "爆釣伝説 KANATA",

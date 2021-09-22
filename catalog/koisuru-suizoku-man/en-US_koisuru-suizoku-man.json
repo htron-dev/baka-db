@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Suizoku-man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205455.jpg",
+        "alt": "koisuru-suizoku-man"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "22",

@@ -1,5 +1,9 @@
 {
     "title": "Kessen no Kuon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/202369.jpg",
+        "alt": "kessen-no-kuon"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

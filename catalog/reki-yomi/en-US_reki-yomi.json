@@ -1,5 +1,9 @@
 {
     "title": "Reki Yomi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221010.jpg",
+        "alt": "reki-yomi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "28",

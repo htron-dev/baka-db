@@ -1,5 +1,9 @@
 {
     "title": "Hime Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151949.jpg",
+        "alt": "hime-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,12 +1,16 @@
 {
     "title": "Cardfight!! Vanguard: Asia Circuit-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/41627.jpg",
+        "alt": "cardfight-vanguard-asia-circuit-hen"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "カードファイト!! ヴァンガード アジアサーキット編",
     "start_date": "2012-04-08",
     "end_date": "2012-04-08",
     "opening_song": "\"LIMIT BREAK\" by JAM Project",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Jounetsu-ism (情熱イズム)\" by Rin (凛) (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

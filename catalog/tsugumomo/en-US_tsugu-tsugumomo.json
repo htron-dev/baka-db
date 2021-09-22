@@ -1,5 +1,9 @@
 {
     "title": "Tsugu Tsugumomo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1997/106184.jpg",
+        "alt": "tsugu-tsugumomo"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "続・つぐもも",

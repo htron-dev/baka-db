@@ -1,5 +1,9 @@
 {
     "title": "Aku no Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188918.jpg",
+        "alt": "aku-no-hana"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "58",

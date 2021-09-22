@@ -1,5 +1,9 @@
 {
     "title": "Yuurei Gakkou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/47955.jpg",
+        "alt": "yuurei-gakkou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

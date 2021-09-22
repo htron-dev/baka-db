@@ -1,5 +1,9 @@
 {
     "title": "Ranma ½ Super",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1071/94957.jpg",
+        "alt": "ranma-super"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "らんま１／２　ＳＵＰＥＲ",

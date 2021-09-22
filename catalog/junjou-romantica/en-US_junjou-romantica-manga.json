@@ -1,5 +1,9 @@
 {
     "title": "Junjou Romantica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/206960.jpg",
+        "alt": "junjou-romantica"
+    },
     "type": "manga",
     "original_name": "純情ロマンチカ",
     "start_date": "2002-04-30",

@@ -1,5 +1,9 @@
 {
     "title": "Love, Hate, Love.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/27121.jpg",
+        "alt": "love-hate-love"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Kaze no Stra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/128599.jpg",
+        "alt": "kaze-no-stra"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "43",

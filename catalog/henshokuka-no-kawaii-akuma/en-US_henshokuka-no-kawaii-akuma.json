@@ -1,5 +1,9 @@
 {
     "title": "Henshokuka no Kawaii Akuma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195791.jpg",
+        "alt": "henshokuka-no-kawaii-akuma"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

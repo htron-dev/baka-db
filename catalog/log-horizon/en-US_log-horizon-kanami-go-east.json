@@ -1,5 +1,9 @@
 {
     "title": "Log Horizon: Kanami, Go! East!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179136.jpg",
+        "alt": "log-horizon-kanami-go-east"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

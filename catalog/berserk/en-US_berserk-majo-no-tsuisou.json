@@ -1,5 +1,9 @@
 {
     "title": "Berserk: Majo no Tsuisou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/86045.jpg",
+        "alt": "berserk-majo-no-tsuisou"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ベルセルク 魔女の追想",

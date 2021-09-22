@@ -1,5 +1,9 @@
 {
     "title": "Yellowbacks",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194389.jpg",
+        "alt": "yellowbacks"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

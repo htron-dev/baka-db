@@ -1,5 +1,9 @@
 {
     "title": "Tadashii Inou no Kyouikusha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191419.jpg",
+        "alt": "tadashii-inou-no-kyouikusha"
+    },
     "type": "light-novel",
     "original_name": "正しい異能の教育者",
     "start_date": "2017-03-02",

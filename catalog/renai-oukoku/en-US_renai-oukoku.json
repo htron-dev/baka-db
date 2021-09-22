@@ -1,5 +1,9 @@
 {
     "title": "Renai Oukoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/127599.jpg",
+        "alt": "renai-oukoku"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "霸王硬上弓",

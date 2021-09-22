@@ -1,12 +1,16 @@
 {
     "title": "Ojamajo Doremi Na-i-sho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/24929.jpg",
+        "alt": "ojamajo-doremi-na-i-sho"
+    },
     "type": "ova",
     "episodes": "13",
     "original_name": "おジャ魔女どれみ ナ・イ・ショ",
     "start_date": "2004-06-26",
     "end_date": "2004-06-26",
     "opening_song": "\"Naisho Yo!\" by Maho 堂",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Suteki Mugendai\" by Maho 堂 (eps 1-13)",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

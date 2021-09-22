@@ -1,5 +1,9 @@
 {
     "title": "Nekomimi Pings",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/146249.jpg",
+        "alt": "nekomimi-pings"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ねこみみぴんぐす",

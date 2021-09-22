@@ -1,5 +1,9 @@
 {
     "title": "Neko no Robu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1859/91295.jpg",
+        "alt": "neko-no-robu"
+    },
     "type": "tv-serie",
     "original_name": "猫のロブ",
     "start_date": "2017-05-06",

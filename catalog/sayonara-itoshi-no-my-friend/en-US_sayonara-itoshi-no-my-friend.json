@@ -1,5 +1,9 @@
 {
     "title": "Sayonara, Itoshi no My Friend",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/84489.jpg",
+        "alt": "sayonara-itoshi-no-my-friend"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

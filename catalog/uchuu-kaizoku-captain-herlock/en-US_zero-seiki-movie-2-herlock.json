@@ -1,5 +1,9 @@
 {
     "title": "Zero Seiki Movie 2: Herlock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/86658.jpg",
+        "alt": "zero-seiki-movie-2-herlock"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "零世紀 ハーロック",

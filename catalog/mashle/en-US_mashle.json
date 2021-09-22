@@ -1,5 +1,9 @@
 {
     "title": "Mashle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230705.jpg",
+        "alt": "mashle"
+    },
     "type": "manga",
     "original_name": "マッシュル-MASHLE-",
     "start_date": "2020-01-27",

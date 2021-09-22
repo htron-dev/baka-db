@@ -1,5 +1,9 @@
 {
     "title": "Goshujinsama no Ore?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7912.jpg",
+        "alt": "goshujinsama-no-ore"
+    },
     "type": "manga",
     "original_name": "ご主人様と俺？",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Lady Sherlock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228573.jpg",
+        "alt": "lady-sherlock"
+    },
     "type": "manhwa",
     "chapters": "44",
     "original_name": "레이디 셜록",

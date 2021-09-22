@@ -1,5 +1,9 @@
 {
     "title": "Astro Boy: Tetsuwan Atom - 10-man Kounen no Raihousha - IGZA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1401/99387.jpg",
+        "alt": "astro-boy-tetsuwan-atom-10-man-kounen-no-raihousha-igza"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ASTRO BOY 鉄腕アトム 10 万光年の来訪者・IGZA",

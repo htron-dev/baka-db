@@ -1,5 +1,9 @@
 {
     "title": "Koitsura 100% Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/230828.jpg",
+        "alt": "koitsura-100-densetsu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "41",

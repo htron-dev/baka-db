@@ -1,5 +1,9 @@
 {
     "title": "Danshiryou no Omocha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224966.jpg",
+        "alt": "danshiryou-no-omocha"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "男子寮の玩具",

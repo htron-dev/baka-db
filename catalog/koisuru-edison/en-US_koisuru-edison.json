@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Edison",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/97789.jpg",
+        "alt": "koisuru-edison"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "40",

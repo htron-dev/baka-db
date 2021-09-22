@@ -1,5 +1,9 @@
 {
     "title": "Ouja no Yuugi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157874.jpg",
+        "alt": "ouja-no-yuugi"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "34",

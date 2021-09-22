@@ -1,5 +1,9 @@
 {
     "title": "Para-Dice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/13090.jpg",
+        "alt": "para-dice"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "天堂幸运骰",

@@ -1,5 +1,9 @@
 {
     "title": "Kill la Kill Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/73654.jpg",
+        "alt": "kill-la-kill-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "キルラキル 特別編",

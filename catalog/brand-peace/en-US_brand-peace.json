@@ -1,5 +1,9 @@
 {
     "title": "Brand \"Peace\"",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/19226.jpg",
+        "alt": "brand-peace"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

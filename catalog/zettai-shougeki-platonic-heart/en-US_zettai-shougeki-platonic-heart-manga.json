@@ -1,5 +1,9 @@
 {
     "title": "Zettai Shougeki: Platonic Heart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/106219.jpg",
+        "alt": "zettai-shougeki-platonic-heart"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

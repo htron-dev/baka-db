@@ -1,5 +1,9 @@
 {
     "title": "Meitantei Conan: Tengoku e no Countdown",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/240667.jpg",
+        "alt": "meitantei-conan-tengoku-e-no-countdown"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

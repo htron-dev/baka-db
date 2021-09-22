@@ -1,5 +1,9 @@
 {
     "title": "Neko Ramen: Ore no Shouyu Aji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/72681.jpg",
+        "alt": "neko-ramen-ore-no-shouyu-aji"
+    },
     "type": "ona",
     "episodes": "13",
     "original_name": "猫ラーメン　～俺の醤油味～",

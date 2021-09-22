@@ -1,5 +1,9 @@
 {
     "title": "Otogibanashi Battle Royal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195282.jpg",
+        "alt": "otogibanashi-battle-royal"
+    },
     "type": "manga",
     "original_name": "おとぎ話バトルロワイヤル",
     "start_date": "2016-11-04",

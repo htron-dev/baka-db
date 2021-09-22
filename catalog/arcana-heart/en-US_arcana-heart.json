@@ -1,5 +1,9 @@
 {
     "title": "Arcana Heart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171266.jpg",
+        "alt": "arcana-heart"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ARCANA HEART アルカナハート",

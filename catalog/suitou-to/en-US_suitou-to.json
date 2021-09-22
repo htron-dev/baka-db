@@ -1,5 +1,9 @@
 {
     "title": "Suitou to!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228594.jpg",
+        "alt": "suitou-to"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

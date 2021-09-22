@@ -1,5 +1,9 @@
 {
     "title": "Ore, Twintail ni Narimasu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158062.jpg",
+        "alt": "ore-twintail-ni-narimasu"
+    },
     "type": "light-novel",
     "volumes": "21",
     "original_name": "俺、ツインテールになります。",

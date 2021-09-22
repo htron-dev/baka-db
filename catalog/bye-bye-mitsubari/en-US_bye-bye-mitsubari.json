@@ -1,5 +1,9 @@
 {
     "title": "Bye-bye Mitsubari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/140671.jpg",
+        "alt": "bye-bye-mitsubari"
+    },
     "type": "manga",
     "chapters": "4",
     "original_name": "バイバイ蜜針",

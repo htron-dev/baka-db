@@ -1,5 +1,9 @@
 {
     "title": "Tian You Fan Tong",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1855/115341.jpg",
+        "alt": "tian-you-fan-tong"
+    },
     "type": "tv-serie",
     "episodes": "40",
     "original_name": "天有凡童",

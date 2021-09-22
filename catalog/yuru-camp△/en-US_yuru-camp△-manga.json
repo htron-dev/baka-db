@@ -1,5 +1,9 @@
 {
     "title": "Yuru Camp△",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168083.jpg",
+        "alt": "yuru-camp△"
+    },
     "type": "manga",
     "original_name": "ゆるキャン △",
     "start_date": "2015-05-23",

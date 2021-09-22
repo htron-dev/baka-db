@@ -1,5 +1,9 @@
 {
     "title": "Gensou Jotan Ellcia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/5763.jpg",
+        "alt": "gensou-jotan-ellcia"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "幻想叙譚エルシア",

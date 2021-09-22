@@ -1,5 +1,9 @@
 {
     "title": "Susume! Giga Green",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215947.jpg",
+        "alt": "susume-giga-green"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "38",

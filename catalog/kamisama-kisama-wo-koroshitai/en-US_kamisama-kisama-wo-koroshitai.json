@@ -1,5 +1,9 @@
 {
     "title": "Kamisama, Kisama wo Koroshitai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/132589.jpg",
+        "alt": "kamisama-kisama-wo-koroshitai"
+    },
     "type": "manga",
     "original_name": "神様、キサマを殺したい。",
     "start_date": "2013-09-10",

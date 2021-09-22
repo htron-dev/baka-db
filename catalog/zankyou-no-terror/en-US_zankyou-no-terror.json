@@ -1,12 +1,16 @@
 {
     "title": "Zankyou no Terror",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1417/117422.jpg",
+        "alt": "zankyou-no-terror"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "残響のテロル",
     "start_date": "2014-07-11",
     "end_date": "2014-07-11",
     "opening_song": "\"Trigger\" by Yuuki Ozaki (from Galileo Galilei)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Dare ka, Umi wo. (誰か、海を。)\" by Aimer (eps 1 - 10)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "mystery",

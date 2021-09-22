@@ -1,5 +1,9 @@
 {
     "title": "Tantei wa Mou, Shindeiru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235054.jpg",
+        "alt": "tantei-wa-mou-shindeiru"
+    },
     "type": "light-novel",
     "original_name": "探偵はもう、死んでいる。",
     "start_date": "2019-11-25",

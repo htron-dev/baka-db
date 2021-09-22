@@ -1,5 +1,9 @@
 {
     "title": "Atomic World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1112/103355.jpg",
+        "alt": "atomic-world"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ATOMIC WORLD",

@@ -1,5 +1,9 @@
 {
     "title": "100-banme no Hitsuji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170242.jpg",
+        "alt": "100-banme-no-hitsuji"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "100 番目の羊",

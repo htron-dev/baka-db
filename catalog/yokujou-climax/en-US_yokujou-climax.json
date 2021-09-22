@@ -1,5 +1,9 @@
 {
     "title": "Yokujou Climax",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/17963.jpg",
+        "alt": "yokujou-climax"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "48",

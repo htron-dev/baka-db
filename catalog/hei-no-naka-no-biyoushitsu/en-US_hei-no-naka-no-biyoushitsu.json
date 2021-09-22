@@ -1,5 +1,9 @@
 {
     "title": "Hei no Naka no Biyoushitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237466.jpg",
+        "alt": "hei-no-naka-no-biyoushitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Jaken-san wa Sugu Bureru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/219536.jpg",
+        "alt": "jaken-san-wa-sugu-bureru"
+    },
     "type": "manga",
     "original_name": "邪剣さんはすぐブレる",
     "start_date": "2018-12-30",

@@ -1,5 +1,9 @@
 {
     "title": "Zekkyou Gakkyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/121061.jpg",
+        "alt": "zekkyou-gakkyuu"
+    },
     "type": "light-novel",
     "original_name": "絶叫学級",
     "start_date": "2011-06-03",

@@ -1,5 +1,9 @@
 {
     "title": "Hachi - Yakusoku no Inu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23558.jpg",
+        "alt": "hachi-yakusoku-no-inu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

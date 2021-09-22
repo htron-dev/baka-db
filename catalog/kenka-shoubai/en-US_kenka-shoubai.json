@@ -1,5 +1,9 @@
 {
     "title": "Kenka Shoubai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36614.jpg",
+        "alt": "kenka-shoubai"
+    },
     "type": "manga",
     "volumes": "24",
     "chapters": "183",

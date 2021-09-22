@@ -1,5 +1,9 @@
 {
     "title": "Niizuma-kun to Arao-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/216546.jpg",
+        "alt": "niizuma-kun-to-arao-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

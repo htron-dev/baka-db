@@ -1,5 +1,9 @@
 {
     "title": "Kamisama wa Tabun Hidarikiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228382.jpg",
+        "alt": "kamisama-wa-tabun-hidarikiki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

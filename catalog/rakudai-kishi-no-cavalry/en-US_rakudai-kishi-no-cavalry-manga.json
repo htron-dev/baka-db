@@ -1,5 +1,9 @@
 {
     "title": "Rakudai Kishi no Cavalry",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/145153.jpg",
+        "alt": "rakudai-kishi-no-cavalry"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "47",

@@ -1,5 +1,9 @@
 {
     "title": "Manga Grimm Douwa: Jin Ping Mei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/142901.jpg",
+        "alt": "manga-grimm-douwa-jin-ping-mei"
+    },
     "type": "manga",
     "original_name": "まんがグリム童話 金瓶梅",
     "tags": [

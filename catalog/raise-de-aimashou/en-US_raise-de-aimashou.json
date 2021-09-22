@@ -1,5 +1,9 @@
 {
     "title": "Raise de Aimashou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35974.jpg",
+        "alt": "raise-de-aimashou"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "来世であいましょう",

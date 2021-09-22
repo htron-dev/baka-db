@@ -1,5 +1,9 @@
 {
     "title": "Zero: Taiheiyou Senki - Kaisen-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204719.jpg",
+        "alt": "zero-taiheiyou-senki-kaisen-hen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

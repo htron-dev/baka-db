@@ -1,5 +1,9 @@
 {
     "title": "Monootoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205880.jpg",
+        "alt": "monootoko"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "39",

@@ -1,5 +1,9 @@
 {
     "title": "Shiori no Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/229372.jpg",
+        "alt": "shiori-no-nikki"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

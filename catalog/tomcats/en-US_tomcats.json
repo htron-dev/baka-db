@@ -1,5 +1,9 @@
 {
     "title": "Tomcats",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7249.jpg",
+        "alt": "tomcats"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "天使のじかん",

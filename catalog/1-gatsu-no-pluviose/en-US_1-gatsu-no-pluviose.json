@@ -1,5 +1,9 @@
 {
     "title": "1-gatsu no Pluviôse",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/98269.jpg",
+        "alt": "1-gatsu-no-pluviose"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

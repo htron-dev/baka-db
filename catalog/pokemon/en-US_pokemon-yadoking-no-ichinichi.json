@@ -1,5 +1,9 @@
 {
     "title": "Pokemon: Yadoking no Ichinichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/26239.jpg",
+        "alt": "pokemon-yadoking-no-ichinichi"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ポケットモンスター ヤドキングのいちにち",

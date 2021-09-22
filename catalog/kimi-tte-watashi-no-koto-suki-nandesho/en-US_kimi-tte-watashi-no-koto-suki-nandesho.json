@@ -1,5 +1,9 @@
 {
     "title": "Kimi tte Watashi no Koto Suki Nandesho?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236157.jpg",
+        "alt": "kimi-tte-watashi-no-koto-suki-nandesho"
+    },
     "type": "light-novel",
     "original_name": "きみって私のこと好きなんでしょ？",
     "start_date": "2020-04-14",

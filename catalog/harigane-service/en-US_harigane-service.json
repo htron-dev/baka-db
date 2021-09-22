@@ -1,5 +1,9 @@
 {
     "title": "Harigane Service",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/136647.jpg",
+        "alt": "harigane-service"
+    },
     "type": "manga",
     "volumes": "24",
     "chapters": "212",

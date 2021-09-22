@@ -1,5 +1,9 @@
 {
     "title": "Sweet☆Line",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/126369.jpg",
+        "alt": "sweet☆-line"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "20",

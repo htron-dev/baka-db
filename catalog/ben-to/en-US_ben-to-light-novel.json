@@ -1,5 +1,9 @@
 {
     "title": "Ben-To",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/121803.jpg",
+        "alt": "ben-to"
+    },
     "type": "light-novel",
     "volumes": "15",
     "original_name": "ベン・トー",

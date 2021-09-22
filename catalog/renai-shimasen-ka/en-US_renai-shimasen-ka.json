@@ -1,5 +1,9 @@
 {
     "title": "Renai Shimasen ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/100777.jpg",
+        "alt": "renai-shimasen-ka"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

@@ -1,5 +1,9 @@
 {
     "title": "Hitomi kara Uroko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/83759.jpg",
+        "alt": "hitomi-kara-uroko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

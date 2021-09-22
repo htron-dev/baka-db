@@ -1,5 +1,9 @@
 {
     "title": "Angel Magister",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/124783.jpg",
+        "alt": "angel-magister"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ANGEL MAGISTER エンジェル マギスター",

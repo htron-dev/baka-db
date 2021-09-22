@@ -1,5 +1,9 @@
 {
     "title": "Killer Tune Overture",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160732.jpg",
+        "alt": "killer-tune-overture"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

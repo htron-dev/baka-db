@@ -1,5 +1,9 @@
 {
     "title": "4TEEN",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/98235.jpg",
+        "alt": "4-teen"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

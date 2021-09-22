@@ -1,5 +1,9 @@
 {
     "title": "Michiko to Hatchin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/59535.jpg",
+        "alt": "michiko-to-hatchin"
+    },
     "type": "tv-serie",
     "episodes": "22",
     "original_name": "ミチコとハッチン",

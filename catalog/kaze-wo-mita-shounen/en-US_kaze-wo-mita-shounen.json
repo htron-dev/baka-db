@@ -1,5 +1,9 @@
 {
     "title": "Kaze wo Mita Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/27052.jpg",
+        "alt": "kaze-wo-mita-shounen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "風を見た少年",

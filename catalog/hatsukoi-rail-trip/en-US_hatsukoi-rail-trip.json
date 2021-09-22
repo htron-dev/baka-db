@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi\\*Rail Trip",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224541.jpg",
+        "alt": "hatsukoi-rail-trip"
+    },
     "type": "manga",
     "original_name": "初恋＊れ～るとりっぷ",
     "start_date": "2018-06-19",

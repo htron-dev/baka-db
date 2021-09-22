@@ -1,5 +1,9 @@
 {
     "title": "Ichigo Switch!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/77207.jpg",
+        "alt": "ichigo-switch"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

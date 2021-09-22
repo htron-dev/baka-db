@@ -1,5 +1,9 @@
 {
     "title": "Ryuuhou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205162.jpg",
+        "alt": "ryuuhou"
+    },
     "type": "manga",
     "original_name": "劉邦",
     "start_date": "2017-07-10",

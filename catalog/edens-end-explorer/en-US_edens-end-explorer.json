@@ -1,5 +1,9 @@
 {
     "title": "Eden's End Explorer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164224.jpg",
+        "alt": "edens-end-explorer"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

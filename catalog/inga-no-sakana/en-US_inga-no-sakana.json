@@ -1,5 +1,9 @@
 {
     "title": "Inga no Sakana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227933.jpg",
+        "alt": "inga-no-sakana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

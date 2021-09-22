@@ -1,5 +1,9 @@
 {
     "title": "Nanokakan Kareshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149061.jpg",
+        "alt": "nanokakan-kareshi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "7 日間彼氏",

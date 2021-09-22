@@ -1,5 +1,9 @@
 {
     "title": "Vampire Savior: Tamashii no Mayoigo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15130.jpg",
+        "alt": "vampire-savior-tamashii-no-mayoigo"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "24",

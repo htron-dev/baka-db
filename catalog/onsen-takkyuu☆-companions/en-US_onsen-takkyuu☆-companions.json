@@ -1,5 +1,9 @@
 {
     "title": "Onsen Takkyuu☆Companions!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206596.jpg",
+        "alt": "onsen-takkyuu☆-companions"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

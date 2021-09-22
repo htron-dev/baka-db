@@ -1,5 +1,9 @@
 {
     "title": "Sono Otoko, Amatou ni Tsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/99813.jpg",
+        "alt": "sono-otoko-amatou-ni-tsuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

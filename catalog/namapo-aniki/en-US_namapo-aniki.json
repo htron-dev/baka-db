@@ -1,5 +1,9 @@
 {
     "title": "Namapo Aniki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184222.jpg",
+        "alt": "namapo-aniki"
+    },
     "type": "light-novel",
     "original_name": "生ポアニキ",
     "start_date": "2014-10-25",

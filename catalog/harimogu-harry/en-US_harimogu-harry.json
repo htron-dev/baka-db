@@ -1,5 +1,9 @@
 {
     "title": "Harimogu Harry",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/29632.jpg",
+        "alt": "harimogu-harry"
+    },
     "type": "tv-serie",
     "episodes": "140",
     "original_name": "はりもぐハーリー",

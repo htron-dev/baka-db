@@ -1,5 +1,9 @@
 {
     "title": "Gegege no Kitarou: Daikaijuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/20380.jpg",
+        "alt": "gegege-no-kitarou-daikaijuu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ゲゲゲの鬼太郎 大海獣",

@@ -1,5 +1,9 @@
 {
     "title": "All Out!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/124809.jpg",
+        "alt": "all-out"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "123",

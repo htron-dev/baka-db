@@ -1,5 +1,9 @@
 {
     "title": "Penguin Highway",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222954.jpg",
+        "alt": "penguin-highway"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

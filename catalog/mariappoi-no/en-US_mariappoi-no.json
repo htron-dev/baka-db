@@ -1,5 +1,9 @@
 {
     "title": "Mariappoi no!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2778.jpg",
+        "alt": "mariappoi-no"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "マリアっぽいの！",

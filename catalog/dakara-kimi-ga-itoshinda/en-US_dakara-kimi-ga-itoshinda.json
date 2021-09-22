@@ -1,5 +1,9 @@
 {
     "title": "Dakara Kimi ga Itoshinda.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/73683.jpg",
+        "alt": "dakara-kimi-ga-itoshinda"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

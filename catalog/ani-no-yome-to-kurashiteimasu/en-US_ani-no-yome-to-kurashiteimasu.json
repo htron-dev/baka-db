@@ -1,5 +1,9 @@
 {
     "title": "Ani no Yome to Kurashiteimasu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181118.jpg",
+        "alt": "ani-no-yome-to-kurashiteimasu"
+    },
     "type": "manga",
     "original_name": "兄の嫁と暮らしています。",
     "start_date": "2015-12-04",

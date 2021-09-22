@@ -1,5 +1,9 @@
 {
     "title": "Empire of Midnight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36598.jpg",
+        "alt": "empire-of-midnight"
+    },
     "type": "manga",
     "original_name": "真夜中の帝国",
     "tags": [

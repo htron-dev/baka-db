@@ -1,5 +1,9 @@
 {
     "title": "Hanamuko no Yakusoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/67239.jpg",
+        "alt": "hanamuko-no-yakusoku"
+    },
     "type": "manga",
     "original_name": "花婿の約束",
     "start_date": "2011-06-11",

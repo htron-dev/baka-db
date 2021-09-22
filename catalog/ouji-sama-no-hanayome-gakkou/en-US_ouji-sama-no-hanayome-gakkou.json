@@ -1,5 +1,9 @@
 {
     "title": "Ouji-sama no Hanayome Gakkou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182497.jpg",
+        "alt": "ouji-sama-no-hanayome-gakkou"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

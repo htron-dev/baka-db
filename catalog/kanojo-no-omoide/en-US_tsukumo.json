@@ -1,5 +1,9 @@
 {
     "title": "Tsukumo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/53171.jpg",
+        "alt": "tsukumo"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "九十九",

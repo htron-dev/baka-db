@@ -1,5 +1,9 @@
 {
     "title": "Rensa no Carneades",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152001.jpg",
+        "alt": "rensa-no-carneades"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "連鎖のカルネアデス",

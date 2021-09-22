@@ -1,5 +1,9 @@
 {
     "title": "Kimi kara Uketsugu Brave Chronicle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166842.jpg",
+        "alt": "kimi-kara-uketsugu-brave-chronicle"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

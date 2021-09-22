@@ -1,5 +1,9 @@
 {
     "title": "Nagasaki no Kouma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/66037.jpg",
+        "alt": "nagasaki-no-kouma"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ながさきの子うま",

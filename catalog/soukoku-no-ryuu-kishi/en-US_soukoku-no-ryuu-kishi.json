@@ -1,5 +1,9 @@
 {
     "title": "Soukoku no Ryuu Kishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154191.jpg",
+        "alt": "soukoku-no-ryuu-kishi"
+    },
     "type": "light-novel",
     "original_name": "蒼黒の竜騎士",
     "start_date": "2015-04-09",

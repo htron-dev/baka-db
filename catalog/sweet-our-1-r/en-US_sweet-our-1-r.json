@@ -1,5 +1,9 @@
 {
     "title": "Sweet Our 1R",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238315.jpg",
+        "alt": "sweet-our-1-r"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

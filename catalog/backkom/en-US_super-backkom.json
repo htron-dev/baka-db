@@ -1,5 +1,9 @@
 {
     "title": "Super Backkom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/65799.jpg",
+        "alt": "super-backkom"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "슈퍼빼꼼",

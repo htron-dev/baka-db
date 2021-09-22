@@ -1,5 +1,9 @@
 {
     "title": "Ore no Aisuru Dorei-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/71909.jpg",
+        "alt": "ore-no-aisuru-dorei-chan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

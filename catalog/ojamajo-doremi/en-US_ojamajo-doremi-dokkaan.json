@@ -1,12 +1,16 @@
 {
     "title": "Ojamajo Doremi Dokkaan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/40407.jpg",
+        "alt": "ojamajo-doremi-dokkaan"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "おジャ魔女どれみドッカ〜ン！",
     "start_date": "2002-02-03",
     "end_date": "2002-02-03",
     "opening_song": "\"DANCE! Ojamajo (DANCE！おジャ魔女)\" by MAHO-dou (MAHO 堂)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Watashi no Tsubasa (わたしのつばさ)\" by Masami Nakatsukasa (仲司雅美) (eps 1-13, 31-51)",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

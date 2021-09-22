@@ -1,5 +1,9 @@
 {
     "title": "Kiniro Japanesque",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226852.jpg",
+        "alt": "kiniro-japanesque"
+    },
     "type": "manga",
     "original_name": "金色ジャパネスク",
     "start_date": "2018-10-24",

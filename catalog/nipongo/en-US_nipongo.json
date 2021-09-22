@@ -1,5 +1,9 @@
 {
     "title": "Nipongo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181500.jpg",
+        "alt": "nipongo"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "87",

@@ -1,5 +1,9 @@
 {
     "title": "Gaia Gear",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11134.jpg",
+        "alt": "gaia-gear"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "60",

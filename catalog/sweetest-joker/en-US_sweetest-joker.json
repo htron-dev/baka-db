@@ -1,5 +1,9 @@
 {
     "title": "Sweetest Joker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/20809.jpg",
+        "alt": "sweetest-joker"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

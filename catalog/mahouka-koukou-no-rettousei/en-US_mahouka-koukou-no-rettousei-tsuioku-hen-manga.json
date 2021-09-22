@@ -1,5 +1,9 @@
 {
     "title": "Mahouka Koukou no Rettousei: Tsuioku-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/128657.jpg",
+        "alt": "mahouka-koukou-no-rettousei-tsuioku-hen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

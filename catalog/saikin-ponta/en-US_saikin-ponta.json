@@ -1,5 +1,9 @@
 {
     "title": "Saikin Ponta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/70831.jpg",
+        "alt": "saikin-ponta"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "サイキンポンタ",

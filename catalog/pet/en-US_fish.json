@@ -1,5 +1,9 @@
 {
     "title": "Fish",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239678.jpg",
+        "alt": "fish"
+    },
     "type": "manga",
     "original_name": "fish -フィッシュ-",
     "start_date": "2021-01-12",

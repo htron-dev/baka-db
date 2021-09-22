@@ -1,5 +1,9 @@
 {
     "title": "Tamiko to Visual-kei to.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247087.jpg",
+        "alt": "tamiko-to-visual-kei-to"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "41",

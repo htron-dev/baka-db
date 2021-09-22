@@ -1,5 +1,9 @@
 {
     "title": "Gosick W",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/80107.jpg",
+        "alt": "gosick-w"
+    },
     "type": "manga",
     "chapters": "12",
     "original_name": "GOSICK W－ゴシック・ダブル－",

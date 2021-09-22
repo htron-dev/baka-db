@@ -1,5 +1,9 @@
 {
     "title": "Hand x Red",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/147943.jpg",
+        "alt": "hand-x-red"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

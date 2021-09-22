@@ -1,5 +1,9 @@
 {
     "title": "Ichinensei ni Nacchattara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/52155.jpg",
+        "alt": "ichinensei-ni-nacchattara"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "61",

@@ -1,5 +1,9 @@
 {
     "title": "Topo Gigio",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/44137.jpg",
+        "alt": "topo-gigio"
+    },
     "type": "tv-serie",
     "episodes": "21",
     "original_name": "帰って来た　トッポ・ジージョ",

@@ -1,5 +1,9 @@
 {
     "title": "Erika no Kisetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/12806.jpg",
+        "alt": "erika-no-kisetsu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "エリカの季節",

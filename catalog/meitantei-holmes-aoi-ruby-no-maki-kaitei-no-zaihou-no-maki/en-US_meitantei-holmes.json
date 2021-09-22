@@ -1,5 +1,9 @@
 {
     "title": "Meitantei Holmes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/75723.jpg",
+        "alt": "meitantei-holmes"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "名探偵ホームズ",

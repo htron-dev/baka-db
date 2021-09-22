@@ -1,5 +1,9 @@
 {
     "title": "Appare-Ranman!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1087/111636.jpg",
+        "alt": "appare-ranman"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "天晴爛漫！",

@@ -1,5 +1,9 @@
 {
     "title": "Color Recipe Clear",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/248942.jpg",
+        "alt": "color-recipe-clear"
+    },
     "type": "manga",
     "original_name": "カラーレシピ・クリア",
     "start_date": "2019-05-14",

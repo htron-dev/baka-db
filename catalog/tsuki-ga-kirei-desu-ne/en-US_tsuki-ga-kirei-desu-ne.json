@@ -1,5 +1,9 @@
 {
     "title": "Tsuki ga Kirei desu ne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175958.jpg",
+        "alt": "tsuki-ga-kirei-desu-ne"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "41",

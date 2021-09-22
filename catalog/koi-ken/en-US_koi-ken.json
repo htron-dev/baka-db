@@ -1,5 +1,9 @@
 {
     "title": "Koi-Ken!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/83042.jpg",
+        "alt": "koi-ken"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

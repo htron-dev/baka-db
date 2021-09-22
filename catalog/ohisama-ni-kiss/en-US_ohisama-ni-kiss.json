@@ -1,5 +1,9 @@
 {
     "title": "Ohisama ni Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225191.jpg",
+        "alt": "ohisama-ni-kiss"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

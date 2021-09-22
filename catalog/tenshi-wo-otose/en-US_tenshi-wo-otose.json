@@ -1,5 +1,9 @@
 {
     "title": "Tenshi wo Otose",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11255.jpg",
+        "alt": "tenshi-wo-otose"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

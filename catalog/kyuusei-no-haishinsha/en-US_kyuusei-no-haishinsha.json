@@ -1,5 +1,9 @@
 {
     "title": "Kyuusei no Haishinsha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185688.jpg",
+        "alt": "kyuusei-no-haishinsha"
+    },
     "type": "light-novel",
     "original_name": "救世の背信者",
     "start_date": "2016-12-02",

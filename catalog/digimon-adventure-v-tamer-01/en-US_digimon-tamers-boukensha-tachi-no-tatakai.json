@@ -1,5 +1,9 @@
 {
     "title": "Digimon Tamers: Boukensha-tachi no Tatakai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/7812.jpg",
+        "alt": "digimon-tamers-boukensha-tachi-no-tatakai"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "デジモンテイマーズ 冒険者たちの戦い",

@@ -1,5 +1,9 @@
 {
     "title": "Xiong Chumo: Guonian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/89996.jpg",
+        "alt": "xiong-chumo-guonian"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "熊出没之过年",

@@ -1,5 +1,9 @@
 {
     "title": "Oui Chef!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/107195.jpg",
+        "alt": "oui-chef"
+    },
     "type": "manga",
     "original_name": "ウィ シェフ！",
     "start_date": "2011-11-20",

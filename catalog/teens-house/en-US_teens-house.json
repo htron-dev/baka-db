@@ -1,5 +1,9 @@
 {
     "title": "Teens House",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/128317.jpg",
+        "alt": "teens-house"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

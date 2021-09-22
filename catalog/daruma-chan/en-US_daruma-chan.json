@@ -1,5 +1,9 @@
 {
     "title": "Daruma-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1150/99358.jpg",
+        "alt": "daruma-chan"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "だるまちゃん",

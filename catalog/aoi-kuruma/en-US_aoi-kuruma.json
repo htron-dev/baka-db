@@ -1,5 +1,9 @@
 {
     "title": "Aoi Kuruma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/65793.jpg",
+        "alt": "aoi-kuruma"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

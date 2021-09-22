@@ -1,5 +1,9 @@
 {
     "title": "Aya Yuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/137177.jpg",
+        "alt": "aya-yuri"
+    },
     "type": "manga",
     "volumes": "11",
     "original_name": "彩百合",

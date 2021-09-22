@@ -1,5 +1,9 @@
 {
     "title": "Yukikureinai no Miko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18094.jpg",
+        "alt": "yukikureinai-no-miko"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "雪紅皇子",

@@ -1,5 +1,9 @@
 {
     "title": "Tokyo-hatsu Isekai-yuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/119681.jpg",
+        "alt": "tokyo-hatsu-isekai-yuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

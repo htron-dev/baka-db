@@ -1,12 +1,16 @@
 {
     "title": "Shiba Inuko-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/38283.jpg",
+        "alt": "shiba-inuko-san"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "しばいぬ子さん",
     "start_date": "2012-04-01",
     "end_date": "2012-04-01",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Shiba Inuko-san no Uta (しばいぬ子さんのうた)\" by Shiba Inuko-san (eps 1-13)",
+    "ending_song": "#1: \"Shiba Inuko-san no Uta (しばいぬ子さんのうた)\" by Chako & Naho (ep 26)",
     "rating": "G - All Ages",
     "tags": [
         "comedy"

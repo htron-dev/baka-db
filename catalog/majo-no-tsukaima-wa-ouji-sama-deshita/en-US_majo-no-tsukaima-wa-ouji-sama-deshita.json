@@ -1,5 +1,9 @@
 {
     "title": "Majo no Tsukaima wa Ouji-sama deshita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161843.jpg",
+        "alt": "majo-no-tsukaima-wa-ouji-sama-deshita"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "魔女の使い魔は王子様でした。",

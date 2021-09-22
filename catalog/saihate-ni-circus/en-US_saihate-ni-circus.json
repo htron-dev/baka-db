@@ -1,5 +1,9 @@
 {
     "title": "Saihate ni Circus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167339.jpg",
+        "alt": "saihate-ni-circus"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

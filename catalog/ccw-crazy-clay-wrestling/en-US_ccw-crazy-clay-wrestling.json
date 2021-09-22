@@ -1,5 +1,9 @@
 {
     "title": "CCW: Crazy Clay Wrestling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/33509.jpg",
+        "alt": "ccw-crazy-clay-wrestling"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "クレイジー・クレイ・レスリング",

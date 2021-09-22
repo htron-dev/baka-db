@@ -1,12 +1,16 @@
 {
     "title": "Psycho-Pass",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/43399.jpg",
+        "alt": "psycho-pass"
+    },
     "type": "tv-serie",
     "episodes": "22",
     "original_name": "サイコパス",
     "start_date": "2012-10-12",
     "end_date": "2012-10-12",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"abnormalize\" by Ling Tosite Sigure (凛として時雨) (eps 1-11)",
+    "ending_song": "#1: \"Namae no nai Kaibutsu (名前のない怪物)\" by EGOIST (eps 1-11)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

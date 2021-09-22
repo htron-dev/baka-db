@@ -1,5 +1,9 @@
 {
     "title": "4.Eyes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/73774.jpg",
+        "alt": "4-eyes"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "4・Eyes",

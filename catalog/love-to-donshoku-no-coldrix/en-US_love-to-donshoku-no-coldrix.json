@@ -1,5 +1,9 @@
 {
     "title": "Love to Donshoku no Coldrix",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173762.jpg",
+        "alt": "love-to-donshoku-no-coldrix"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

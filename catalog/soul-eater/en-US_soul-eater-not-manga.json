@@ -1,5 +1,9 @@
 {
     "title": "Soul Eater NOT!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/121393.jpg",
+        "alt": "soul-eater-not"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "41",

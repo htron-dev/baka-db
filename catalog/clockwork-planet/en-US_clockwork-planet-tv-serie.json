@@ -1,5 +1,9 @@
 {
     "title": "Clockwork Planet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/85989.jpg",
+        "alt": "clockwork-planet"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "クロックワーク・プラネット",

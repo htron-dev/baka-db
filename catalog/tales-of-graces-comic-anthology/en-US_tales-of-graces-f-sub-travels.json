@@ -1,5 +1,9 @@
 {
     "title": "Tales of Graces f: Sub Travels",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/92265.jpg",
+        "alt": "tales-of-graces-f-sub-travels"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

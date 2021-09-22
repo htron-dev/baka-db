@@ -1,5 +1,9 @@
 {
     "title": "Suteki na Danna-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/44859.jpg",
+        "alt": "suteki-na-danna-sama"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "素敵なダンナ様",

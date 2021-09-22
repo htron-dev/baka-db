@@ -1,5 +1,9 @@
 {
     "title": "Getsumen To Heiki Mina",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/1865.jpg",
+        "alt": "getsumen-to-heiki-mina"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "月面兎兵器ミーナ",

@@ -1,5 +1,9 @@
 {
     "title": "Kanojo no Curve",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237058.jpg",
+        "alt": "kanojo-no-curve"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

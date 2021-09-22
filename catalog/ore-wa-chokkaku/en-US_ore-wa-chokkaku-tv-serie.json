@@ -1,5 +1,9 @@
 {
     "title": "Ore wa Chokkaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/52911.jpg",
+        "alt": "ore-wa-chokkaku"
+    },
     "type": "tv-serie",
     "episodes": "36",
     "original_name": "おれは直角",

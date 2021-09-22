@@ -1,5 +1,9 @@
 {
     "title": "Megalo Box Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1726/92315.jpg",
+        "alt": "megalo-box-specials"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "メガロボクス",

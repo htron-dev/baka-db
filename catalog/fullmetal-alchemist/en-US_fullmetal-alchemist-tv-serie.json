@@ -1,12 +1,16 @@
 {
     "title": "Fullmetal Alchemist",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/75815.jpg",
+        "alt": "fullmetal-alchemist"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "鋼の錬金術師",
     "start_date": "2003-10-04",
     "end_date": "2003-10-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Melissa (メリッサ)\" by Porno Graffitti (eps 2-13)",
+    "ending_song": "#1: \"Melissa (メリッサ)\" by Porno Graffitti (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

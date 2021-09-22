@@ -1,5 +1,9 @@
 {
     "title": "Fussa-shi PR Anime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/83767.jpg",
+        "alt": "fussa-shi-pr-anime"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "福生市 PR アニメ",

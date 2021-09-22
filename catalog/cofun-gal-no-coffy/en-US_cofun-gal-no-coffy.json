@@ -1,5 +1,9 @@
 {
     "title": "Cofun Gal no Coffy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/37695.jpg",
+        "alt": "cofun-gal-no-coffy"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "古墳ギャルのコフィー",

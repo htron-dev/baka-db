@@ -1,5 +1,9 @@
 {
     "title": "Kimi ni shika Kikoenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36019.jpg",
+        "alt": "kimi-ni-shika-kikoenai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

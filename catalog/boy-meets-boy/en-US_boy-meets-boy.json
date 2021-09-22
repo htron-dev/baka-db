@@ -1,5 +1,9 @@
 {
     "title": "Boy Meets Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158682.jpg",
+        "alt": "boy-meets-boy"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "97",

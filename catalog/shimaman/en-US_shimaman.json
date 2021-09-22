@@ -1,5 +1,9 @@
 {
     "title": "Shimaman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/117447.jpg",
+        "alt": "shimaman"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

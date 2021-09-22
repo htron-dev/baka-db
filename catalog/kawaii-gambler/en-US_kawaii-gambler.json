@@ -1,5 +1,9 @@
 {
     "title": "Kawaii Gambler",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/187898.jpg",
+        "alt": "kawaii-gambler"
+    },
     "type": "manga",
     "chapters": "11",
     "original_name": "かわいいギャンブラー",

@@ -1,5 +1,9 @@
 {
     "title": "Tiji-kun!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31595.jpg",
+        "alt": "tiji-kun"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

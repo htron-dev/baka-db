@@ -1,5 +1,9 @@
 {
     "title": "Umi de Hirotta Kimi ni Sasagu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224955.jpg",
+        "alt": "umi-de-hirotta-kimi-ni-sasagu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

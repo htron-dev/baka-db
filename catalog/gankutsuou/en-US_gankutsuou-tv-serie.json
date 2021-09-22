@@ -1,12 +1,16 @@
 {
     "title": "Gankutsuou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/2235.jpg",
+        "alt": "gankutsuou"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "巌窟王",
     "start_date": "2004-10-06",
     "end_date": "2004-10-06",
     "opening_song": "\"We Were Lovers\" by Jean-Jacques Burnel (eps 1-22, 24)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"You Won't See Me Coming\" by Jean-Jacques Burnel (eps 1-23)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "drama",

@@ -1,5 +1,9 @@
 {
     "title": "Koizora LaLaLa: Sora ga Boku ni Warau kara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180534.jpg",
+        "alt": "koizora-la-la-la-sora-ga-boku-ni-warau-kara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

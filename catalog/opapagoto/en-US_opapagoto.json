@@ -1,5 +1,9 @@
 {
     "title": "Opapagoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/147179.jpg",
+        "alt": "opapagoto"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

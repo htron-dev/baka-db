@@ -1,5 +1,9 @@
 {
     "title": "Kokonotsu no Yoru no Tobira",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/147311.jpg",
+        "alt": "kokonotsu-no-yoru-no-tobira"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

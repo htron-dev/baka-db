@@ -1,12 +1,16 @@
 {
     "title": "Hinamatsuri (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1580/93526.jpg",
+        "alt": "hinamatsuri-tv"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ヒナまつり",
     "start_date": "2018-04-06",
     "end_date": "2018-04-06",
     "opening_song": "\"Distance\" by Rie Murakawa",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Sake to Ikura to 893 to Musume (鮭とイクラと 893 と娘)\" by Yoshifumi Nitta (Yoshiki Nakajima)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",
@@ -35,7 +39,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Hinamatsuri_(manga"
+            "link": "https://en.wikipedia.org/wiki/Hinamatsuri_%28manga%29"
         }
     ]
 }

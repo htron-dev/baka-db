@@ -1,5 +1,9 @@
 {
     "title": "Kareshi no Himitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5923.jpg",
+        "alt": "kareshi-no-himitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "彼氏のひみつ",

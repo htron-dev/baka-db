@@ -1,5 +1,9 @@
 {
     "title": "Sumika Sumire",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/210988.jpg",
+        "alt": "sumika-sumire"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "49",

@@ -1,5 +1,9 @@
 {
     "title": "Kaze no Chinkorou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222095.jpg",
+        "alt": "kaze-no-chinkorou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "16",

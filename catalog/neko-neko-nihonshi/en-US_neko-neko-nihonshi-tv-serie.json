@@ -1,11 +1,15 @@
 {
     "title": "Neko Neko Nihonshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/89585.jpg",
+        "alt": "neko-neko-nihonshi"
+    },
     "type": "tv-serie",
     "episodes": "32",
     "original_name": "ねこねこ日本史",
     "start_date": "2016-04-06",
     "end_date": "2016-04-06",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Chérie!\" by Team Syachihoko (eps 1-20)",
     "rating": "G - All Ages",
     "tags": [
         "historical",

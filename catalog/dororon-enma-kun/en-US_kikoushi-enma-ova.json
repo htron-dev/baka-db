@@ -1,5 +1,9 @@
 {
     "title": "Kikoushi Enma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/50391.jpg",
+        "alt": "kikoushi-enma"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "鬼公子　炎魔",

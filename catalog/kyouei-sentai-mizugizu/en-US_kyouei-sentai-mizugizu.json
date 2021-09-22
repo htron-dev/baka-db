@@ -1,5 +1,9 @@
 {
     "title": "Kyouei Sentai Mizugizu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/96595.jpg",
+        "alt": "kyouei-sentai-mizugizu"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "20",

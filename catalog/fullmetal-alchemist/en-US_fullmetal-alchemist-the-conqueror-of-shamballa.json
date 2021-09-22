@@ -1,5 +1,9 @@
 {
     "title": "Fullmetal Alchemist: The Conqueror of Shamballa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1707/94039.jpg",
+        "alt": "fullmetal-alchemist-the-conqueror-of-shamballa"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 鋼の錬金術師 シャンバラを征く者",

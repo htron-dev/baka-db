@@ -1,5 +1,9 @@
 {
     "title": "Onryou Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/47855.jpg",
+        "alt": "onryou-densetsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

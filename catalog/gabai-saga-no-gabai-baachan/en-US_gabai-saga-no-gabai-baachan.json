@@ -1,5 +1,9 @@
 {
     "title": "Gabai: Saga no Gabai Baachan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196045.jpg",
+        "alt": "gabai-saga-no-gabai-baachan"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "91",

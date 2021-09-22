@@ -1,5 +1,9 @@
 {
     "title": "Amai Shokutaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/55521.jpg",
+        "alt": "amai-shokutaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",
@@ -12,7 +16,6 @@
         "Kitabeppu",
         "Nica (Story & Art)"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

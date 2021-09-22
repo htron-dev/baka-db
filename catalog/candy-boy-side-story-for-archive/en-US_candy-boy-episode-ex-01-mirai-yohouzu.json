@@ -1,8 +1,12 @@
 {
     "title": "Candy Boy Episode: EX01 - Mirai Yohouzu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/35525.jpg",
+        "alt": "candy-boy-episode-ex-01-mirai-yohouzu"
+    },
     "type": "ova",
     "episodes": "1",
-    "original_name": "Candy boy episode",
+    "original_name": "Candy boy episode: EX01 「ミライヨホウズ」",
     "start_date": "2008-08-13",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

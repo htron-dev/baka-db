@@ -1,5 +1,9 @@
 {
     "title": "750 Rider",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/105049.jpg",
+        "alt": "750-rider"
+    },
     "type": "manga",
     "volumes": "50",
     "original_name": "750 ライダー (ナナハンライダー)",

@@ -1,5 +1,9 @@
 {
     "title": "Tiger Mask Pilot Film",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1751/108079.jpg",
+        "alt": "tiger-mask-pilot-film"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "タイガーマスク パイロットフィルム",

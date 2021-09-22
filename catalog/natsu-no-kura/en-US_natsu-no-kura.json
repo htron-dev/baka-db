@@ -1,5 +1,9 @@
 {
     "title": "Natsu no Kura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246110.jpg",
+        "alt": "natsu-no-kura"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "奈津の蔵",

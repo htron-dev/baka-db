@@ -1,5 +1,9 @@
 {
     "title": "Kabuki Drop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165443.jpg",
+        "alt": "kabuki-drop"
+    },
     "type": "manga",
     "original_name": "かぶきドロップ",
     "start_date": "2015-10-02",

@@ -1,5 +1,9 @@
 {
     "title": "Eternal Arcadia - Kuuzoku Rouman!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/184285.jpg",
+        "alt": "eternal-arcadia-kuuzoku-rouman"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

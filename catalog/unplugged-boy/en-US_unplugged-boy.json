@@ -1,5 +1,9 @@
 {
     "title": "Unplugged Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/9992.jpg",
+        "alt": "unplugged-boy"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "17",

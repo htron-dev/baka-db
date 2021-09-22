@@ -1,5 +1,9 @@
 {
     "title": "Tanpopo no Watage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239165.jpg",
+        "alt": "tanpopo-no-watage"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

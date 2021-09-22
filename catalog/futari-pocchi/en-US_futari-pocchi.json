@@ -1,5 +1,9 @@
 {
     "title": "Futari Pocchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18050.jpg",
+        "alt": "futari-pocchi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ふたりっぽち",

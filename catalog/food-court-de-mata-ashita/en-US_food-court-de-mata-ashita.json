@@ -1,5 +1,9 @@
 {
     "title": "Food Court de, Mata Ashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245136.jpg",
+        "alt": "food-court-de-mata-ashita"
+    },
     "type": "manga",
     "original_name": "フードコートで、また明日。",
     "start_date": "2020-03-10",

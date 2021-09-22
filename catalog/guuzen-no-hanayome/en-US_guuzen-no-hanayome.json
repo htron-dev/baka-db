@@ -1,5 +1,9 @@
 {
     "title": "Guuzen no Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227558.jpg",
+        "alt": "guuzen-no-hanayome"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "偶然の花嫁",

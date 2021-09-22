@@ -1,5 +1,9 @@
 {
     "title": "Laolang Qingke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1255/115747.jpg",
+        "alt": "laolang-qingke"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "老狼请客",

@@ -1,5 +1,9 @@
 {
     "title": "Money Rumble",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222717.jpg",
+        "alt": "money-rumble"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Koi ka Mahou ka Wakaranai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/242177.jpg",
+        "alt": "koi-ka-mahou-ka-wakaranai"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "恋か魔法かわからない!",

@@ -1,5 +1,9 @@
 {
     "title": "Code Name wa Baby Face",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228794.jpg",
+        "alt": "code-name-wa-baby-face"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "32",

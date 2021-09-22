@@ -1,5 +1,9 @@
 {
     "title": "Dragon's Heaven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/91935.jpg",
+        "alt": "dragons-heaven"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

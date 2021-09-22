@@ -1,5 +1,9 @@
 {
     "title": "Otasuke Miko Miko-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/118401.jpg",
+        "alt": "otasuke-miko-miko-chan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Koi Made Ato 3po",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38302.jpg",
+        "alt": "koi-made-ato-3-po"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "恋まであと３歩",

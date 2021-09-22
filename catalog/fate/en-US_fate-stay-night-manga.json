@@ -1,5 +1,9 @@
 {
     "title": "Fate/stay night",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/115669.jpg",
+        "alt": "fate-stay-night"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "87",

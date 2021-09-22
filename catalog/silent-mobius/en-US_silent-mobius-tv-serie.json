@@ -1,12 +1,16 @@
 {
     "title": "Silent Möbius",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1522/99204.jpg",
+        "alt": "silent-mobius"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "サイレントメビウス",
     "start_date": "1998-01-29",
     "end_date": "1998-01-29",
     "opening_song": "\"Kindan No Pensée\" (\"Forbidden Thought\") by Saori Ishizuka",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Silently\" by Karen Mok",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

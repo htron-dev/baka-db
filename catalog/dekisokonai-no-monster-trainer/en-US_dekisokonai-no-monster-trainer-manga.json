@@ -1,5 +1,9 @@
 {
     "title": "Dekisokonai no Monster Trainer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/189878.jpg",
+        "alt": "dekisokonai-no-monster-trainer"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

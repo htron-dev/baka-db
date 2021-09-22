@@ -1,5 +1,9 @@
 {
     "title": "Notteke Explet's",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/71508.jpg",
+        "alt": "notteke-explets"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "のってけエクスプレッツ",

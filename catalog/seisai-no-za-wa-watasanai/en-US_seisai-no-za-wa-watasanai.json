@@ -1,5 +1,9 @@
 {
     "title": "Seisai no Za wa Watasanai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164029.jpg",
+        "alt": "seisai-no-za-wa-watasanai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

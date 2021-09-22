@@ -1,5 +1,9 @@
 {
     "title": "Yuuma-kun no Mainichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30443.jpg",
+        "alt": "yuuma-kun-no-mainichi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ゆうまくんのまいにち",

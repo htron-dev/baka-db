@@ -1,5 +1,9 @@
 {
     "title": "Hunky Dory",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178500.jpg",
+        "alt": "hunky-dory"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

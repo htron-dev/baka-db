@@ -1,5 +1,9 @@
 {
     "title": "AIKa Zero Picture Drama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/17813.jpg",
+        "alt": "ai-ka-zero-picture-drama"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "AIKa ZERO",

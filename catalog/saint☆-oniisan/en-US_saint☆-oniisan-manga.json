@@ -1,5 +1,9 @@
 {
     "title": "Saint☆Oniisan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194935.jpg",
+        "alt": "saint☆-oniisan"
+    },
     "type": "manga",
     "original_name": "聖 ☆ おにいさん",
     "start_date": "2006-08-10",

@@ -1,5 +1,9 @@
 {
     "title": "Pharaoh no Haka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/12823.jpg",
+        "alt": "pharaoh-no-haka"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "ファラオの墓",

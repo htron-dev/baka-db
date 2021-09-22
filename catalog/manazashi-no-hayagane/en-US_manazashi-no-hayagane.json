@@ -1,5 +1,9 @@
 {
     "title": "Manazashi no Hayagane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/59919.jpg",
+        "alt": "manazashi-no-hayagane"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

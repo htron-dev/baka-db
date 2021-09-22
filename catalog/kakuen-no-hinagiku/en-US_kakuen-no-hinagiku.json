@@ -1,5 +1,9 @@
 {
     "title": "Kakuen no Hinagiku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158227.jpg",
+        "alt": "kakuen-no-hinagiku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

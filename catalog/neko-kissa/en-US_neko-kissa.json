@@ -1,5 +1,9 @@
 {
     "title": "Neko Kissa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/217924.jpg",
+        "alt": "neko-kissa"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "ねこきっさ",

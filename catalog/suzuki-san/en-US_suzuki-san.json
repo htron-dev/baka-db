@@ -1,5 +1,9 @@
 {
     "title": "Suzuki-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/139205.jpg",
+        "alt": "suzuki-san"
+    },
     "type": "manga",
     "original_name": "鈴木さん",
     "start_date": "2011-02-22",

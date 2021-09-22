@@ -1,5 +1,9 @@
 {
     "title": "Nazca",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/67587.jpg",
+        "alt": "nazca"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

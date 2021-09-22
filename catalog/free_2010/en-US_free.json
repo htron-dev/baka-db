@@ -1,5 +1,9 @@
 {
     "title": "Free!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/115533.jpg",
+        "alt": "free"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "Free! フリー",

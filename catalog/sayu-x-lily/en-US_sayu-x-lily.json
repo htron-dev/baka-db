@@ -1,5 +1,9 @@
 {
     "title": "Sayu x Lily",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154737.jpg",
+        "alt": "sayu-x-lily"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

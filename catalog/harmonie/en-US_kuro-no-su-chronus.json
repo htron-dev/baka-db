@@ -1,5 +1,9 @@
 {
     "title": "Kuro no Su: Chronus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/55167.jpg",
+        "alt": "kuro-no-su-chronus"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "黒の栖 -Chronus-",

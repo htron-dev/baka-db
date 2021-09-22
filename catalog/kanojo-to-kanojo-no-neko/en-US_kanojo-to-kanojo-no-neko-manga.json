@@ -1,5 +1,9 @@
 {
     "title": "Kanojo to Kanojo no Neko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/182560.jpg",
+        "alt": "kanojo-to-kanojo-no-neko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

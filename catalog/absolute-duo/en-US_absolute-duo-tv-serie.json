@@ -1,12 +1,16 @@
 {
     "title": "Absolute Duo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/68839.jpg",
+        "alt": "absolute-duo"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "アブソリュート・デュオ",
     "start_date": "2015-01-04",
     "end_date": "2015-01-04",
     "opening_song": "\"Absolute Soul\" by Konomi Suzuki",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Believe×Believe\" by Julie Sigtuna (Nozomi Yamamoto) (eps 1-3, 12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Ikai no Barista",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/168005.jpg",
+        "alt": "tokyo-ikai-no-barista"
+    },
     "type": "light-novel",
     "original_name": "東京異界のバリスタ",
     "start_date": "2015-12-15",

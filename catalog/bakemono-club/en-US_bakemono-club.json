@@ -1,5 +1,9 @@
 {
     "title": "Bakemono Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149480.jpg",
+        "alt": "bakemono-club"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Calamity Lost",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/220228.jpg",
+        "alt": "calamity-lost"
+    },
     "type": "manga",
     "original_name": "カラミティ・ロスト",
     "start_date": "2017-09-25",

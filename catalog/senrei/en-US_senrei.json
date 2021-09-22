@@ -1,5 +1,9 @@
 {
     "title": "Senrei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205379.jpg",
+        "alt": "senrei"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "洗礼",

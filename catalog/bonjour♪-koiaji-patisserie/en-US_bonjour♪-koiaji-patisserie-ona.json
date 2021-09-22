@@ -1,12 +1,16 @@
 {
     "title": "Bonjour♪Koiaji Pâtisserie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/66059.jpg",
+        "alt": "bonjour♪-koiaji-patisserie"
+    },
     "type": "ona",
     "episodes": "24",
     "original_name": "Bonjour♪ 恋味パティスリー",
     "start_date": "2014-10-10",
     "end_date": "2014-10-10",
     "opening_song": "\"Bonjour♪Magic\" by Les\\*Fleurirs [Ryou Kouzuki (Kaito Ishikawa), Mitsuki Aoi (Tetsuya Kakihara), Gilbert Hanafusa (Ryouhei Kimura), Yoshinosuke Suzumi (Hikaru Midorikawa)] (eps 2-23)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Yasashisa wo Tsutsumikonde (優しさを包み込んで)\" by Ryou Kouzuki (Kaito Ishikawa) and Mitsuki Aoi (Tetsuya Kakihara) (eps 2-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

@@ -1,5 +1,9 @@
 {
     "title": "Tenkuu Shinpan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/128611.jpg",
+        "alt": "tenkuu-shinpan"
+    },
     "type": "manga",
     "volumes": "21",
     "chapters": "258",

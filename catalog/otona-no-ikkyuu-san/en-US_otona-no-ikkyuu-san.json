@@ -1,5 +1,9 @@
 {
     "title": "Otona no Ikkyuu-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/80274.jpg",
+        "alt": "otona-no-ikkyuu-san"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "オトナの一休さん",

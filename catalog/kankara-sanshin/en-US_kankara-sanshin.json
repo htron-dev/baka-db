@@ -1,5 +1,9 @@
 {
     "title": "Kankara Sanshin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/45973.jpg",
+        "alt": "kankara-sanshin"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "かんからさんしん",

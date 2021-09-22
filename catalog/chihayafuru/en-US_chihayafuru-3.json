@@ -1,5 +1,9 @@
 {
     "title": "Chihayafuru 3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1898/110709.jpg",
+        "alt": "chihayafuru-3"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ちはやふる 3",

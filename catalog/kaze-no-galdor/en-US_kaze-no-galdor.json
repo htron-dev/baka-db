@@ -1,5 +1,9 @@
 {
     "title": "Kaze no Galdor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/41681.jpg",
+        "alt": "kaze-no-galdor"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

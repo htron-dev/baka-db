@@ -1,5 +1,9 @@
 {
     "title": "The Impression of First Gundam",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/53333.jpg",
+        "alt": "the-impression-of-first-gundam"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "The Impression of First GUNDAM",

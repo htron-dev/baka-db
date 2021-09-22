@@ -1,5 +1,9 @@
 {
     "title": "Ao no Corsair",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172370.jpg",
+        "alt": "ao-no-corsair"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "青の海賊剣士〈コルセア〉",

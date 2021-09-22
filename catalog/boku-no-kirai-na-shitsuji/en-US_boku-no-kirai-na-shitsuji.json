@@ -1,5 +1,9 @@
 {
     "title": "Boku no Kirai na Shitsuji!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/143809.jpg",
+        "alt": "boku-no-kirai-na-shitsuji"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ぼくのキライな執事ッ!",

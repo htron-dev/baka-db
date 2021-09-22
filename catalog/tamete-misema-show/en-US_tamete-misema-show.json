@@ -1,5 +1,9 @@
 {
     "title": "Tamete Misema Show!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24427.jpg",
+        "alt": "tamete-misema-show"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "貯めてみせまショウ!",

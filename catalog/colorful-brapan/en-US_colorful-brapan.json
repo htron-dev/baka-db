@@ -1,5 +1,9 @@
 {
     "title": "Colorful Brapan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190618.jpg",
+        "alt": "colorful-brapan"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "カラフルぶらぱん",

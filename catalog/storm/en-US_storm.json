@@ -1,5 +1,9 @@
 {
     "title": "Storm",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20913.jpg",
+        "alt": "storm"
+    },
     "type": "manhwa",
     "volumes": "4",
     "tags": [

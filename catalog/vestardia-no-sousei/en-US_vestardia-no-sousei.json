@@ -1,5 +1,9 @@
 {
     "title": "Vestardia no Sousei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/123713.jpg",
+        "alt": "vestardia-no-sousei"
+    },
     "type": "light-novel",
     "volumes": "8",
     "original_name": "ウェスタディアの双星",

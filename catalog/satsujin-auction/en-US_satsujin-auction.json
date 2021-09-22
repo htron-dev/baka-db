@@ -1,5 +1,9 @@
 {
     "title": "Satsujin Auction",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204907.jpg",
+        "alt": "satsujin-auction"
+    },
     "type": "manga",
     "original_name": "殺人オークション",
     "start_date": "2017-12-20",

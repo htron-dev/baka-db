@@ -1,5 +1,9 @@
 {
     "title": "Hero datte... Omae wo Dakitai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235413.jpg",
+        "alt": "hero-datte-omae-wo-dakitai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

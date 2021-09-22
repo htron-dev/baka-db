@@ -1,5 +1,9 @@
 {
     "title": "Lion Maru G",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16125.jpg",
+        "alt": "lion-maru-g"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ライオン丸 G",

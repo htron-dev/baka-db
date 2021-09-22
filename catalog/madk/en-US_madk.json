@@ -1,5 +1,9 @@
 {
     "title": "MADK",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224943.jpg",
+        "alt": "madk"
+    },
     "type": "manga",
     "original_name": "MADK",
     "start_date": "2017-08-28",

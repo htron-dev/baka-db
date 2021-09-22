@@ -1,12 +1,16 @@
 {
     "title": "Mushishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/73862.jpg",
+        "alt": "mushishi"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "蟲師",
     "start_date": "2005-10-23",
     "end_date": "2005-10-23",
     "opening_song": "\"The Sore Feet Song\" by Ally Kerr",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Midori no Za\" (緑の座) by Masuda Toshio (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

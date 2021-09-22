@@ -1,5 +1,9 @@
 {
     "title": "Fuse: Shoujo to Kemono no Rekkatan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/121191.jpg",
+        "alt": "fuse-shoujo-to-kemono-no-rekkatan"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

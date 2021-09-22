@@ -1,5 +1,9 @@
 {
     "title": "Hikitate Yaku no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15016.jpg",
+        "alt": "hikitate-yaku-no-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

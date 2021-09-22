@@ -1,5 +1,9 @@
 {
     "title": "Ayakashi Ko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169990.jpg",
+        "alt": "ayakashi-ko"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "64",

@@ -1,5 +1,9 @@
 {
     "title": "Make Love Maker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11149.jpg",
+        "alt": "make-love-maker"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "メイクラブメーカー",

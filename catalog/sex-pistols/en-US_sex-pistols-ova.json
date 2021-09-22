@@ -1,5 +1,9 @@
 {
     "title": "Sex Pistols",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/23742.jpg",
+        "alt": "sex-pistols"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "セックス・ピストルズ",

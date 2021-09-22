@@ -1,5 +1,9 @@
 {
     "title": "Ai no Jikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/102497.jpg",
+        "alt": "ai-no-jikan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "20",

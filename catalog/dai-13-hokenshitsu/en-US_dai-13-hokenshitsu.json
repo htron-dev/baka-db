@@ -1,5 +1,9 @@
 {
     "title": "Dai-13 Hokenshitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165299.jpg",
+        "alt": "dai-13-hokenshitsu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "29",

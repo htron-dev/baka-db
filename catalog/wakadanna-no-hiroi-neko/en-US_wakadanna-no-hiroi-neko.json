@@ -1,5 +1,9 @@
 {
     "title": "Wakadanna no Hiroi Neko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235141.jpg",
+        "alt": "wakadanna-no-hiroi-neko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

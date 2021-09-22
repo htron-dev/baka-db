@@ -1,5 +1,9 @@
 {
     "title": "Full Contact!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160071.jpg",
+        "alt": "full-contact"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "ふるこんたくと！",

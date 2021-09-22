@@ -1,12 +1,16 @@
 {
     "title": "Shugo Chara!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/5061.jpg",
+        "alt": "shugo-chara"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "しゅごキャラ！",
     "start_date": "2007-10-06",
     "end_date": "2007-10-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kokoro no Tamago (こころのたまご)\" by Buono! (eps 1-26)",
+    "ending_song": "#1: \"Honto no Jibun (ホントのじぶん)\" by Buono! (eps 1-12)",
     "rating": "PG - Children",
     "tags": [
         "comedy",

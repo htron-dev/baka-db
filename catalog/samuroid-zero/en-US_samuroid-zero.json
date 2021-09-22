@@ -1,5 +1,9 @@
 {
     "title": "Samuroid Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1633/90869.jpg",
+        "alt": "samuroid-zero"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "SAMUROID ZERO",

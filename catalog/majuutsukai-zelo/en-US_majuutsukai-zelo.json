@@ -1,5 +1,9 @@
 {
     "title": "Majuutsukai Zelo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162777.jpg",
+        "alt": "majuutsukai-zelo"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

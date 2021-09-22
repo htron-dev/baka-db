@@ -1,5 +1,9 @@
 {
     "title": "Idol Seitokai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155784.jpg",
+        "alt": "idol-seitokai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "アイドル生徒会!",

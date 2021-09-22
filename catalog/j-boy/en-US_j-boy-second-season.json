@@ -1,5 +1,9 @@
 {
     "title": "J. Boy: Second Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228828.jpg",
+        "alt": "j-boy-second-season"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "32",

@@ -1,5 +1,9 @@
 {
     "title": "Kanamemo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/52677.jpg",
+        "alt": "kanamemo"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "かなめも",

@@ -1,12 +1,16 @@
 {
     "title": "Jormungand: Perfect Order",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/73278.jpg",
+        "alt": "jormungand-perfect-order"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ヨルムンガンド PERFECT ORDER",
     "start_date": "2012-10-10",
     "end_date": "2012-10-10",
     "opening_song": "\"UNDER/SHAFT\" by Maon Kurosaki (eps 1-6, 8-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Laterality (ラテラリティ)\" by Nagi Yanagi (ep 1-2, 4-6, 8-11)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Jormungand_(manga"
+            "link": "http://en.wikipedia.org/wiki/Jormungand_%28manga%29"
         }
     ]
 }

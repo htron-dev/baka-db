@@ -1,5 +1,9 @@
 {
     "title": "Weak Hero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/232795.jpg",
+        "alt": "weak-hero"
+    },
     "type": "manhwa",
     "original_name": "약한영웅",
     "start_date": "2018-05-05",

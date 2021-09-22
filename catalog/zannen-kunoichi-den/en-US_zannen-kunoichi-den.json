@@ -1,5 +1,9 @@
 {
     "title": "Zannen Kunoichi Den",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/45505.jpg",
+        "alt": "zannen-kunoichi-den"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "19",

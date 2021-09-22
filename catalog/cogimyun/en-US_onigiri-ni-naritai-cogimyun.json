@@ -1,5 +1,9 @@
 {
     "title": "Onigiri ni Naritai Cogimyun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1755/105960.jpg",
+        "alt": "onigiri-ni-naritai-cogimyun"
+    },
     "type": "tv-serie",
     "original_name": "おにぎりになりたい こぎみゅん",
     "start_date": "2020-01-31",

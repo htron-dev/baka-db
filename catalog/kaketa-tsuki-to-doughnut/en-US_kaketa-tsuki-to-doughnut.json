@@ -1,5 +1,9 @@
 {
     "title": "Kaketa Tsuki to Doughnut",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/243540.jpg",
+        "alt": "kaketa-tsuki-to-doughnut"
+    },
     "type": "manga",
     "original_name": "欠けた月とドーナッツ",
     "start_date": "2019-03-18",

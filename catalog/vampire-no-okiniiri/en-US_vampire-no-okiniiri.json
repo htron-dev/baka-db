@@ -1,5 +1,9 @@
 {
     "title": "Vampire no Okiniiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30750.jpg",
+        "alt": "vampire-no-okiniiri"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "バンパイアのおきにいり",

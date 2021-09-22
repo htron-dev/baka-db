@@ -1,5 +1,9 @@
 {
     "title": "Friends x Knife",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163051.jpg",
+        "alt": "friends-x-knife"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "12",

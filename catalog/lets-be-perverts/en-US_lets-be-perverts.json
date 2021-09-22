@@ -1,5 +1,9 @@
 {
     "title": "Let's Be Perverts",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20659.jpg",
+        "alt": "lets-be-perverts"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "34",

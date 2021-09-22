@@ -1,5 +1,9 @@
 {
     "title": "Virgin★Mama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193281.jpg",
+        "alt": "virgin★-mama"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "202",

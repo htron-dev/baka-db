@@ -1,5 +1,9 @@
 {
     "title": "Hero-san to Moto Onna Kanbu-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222210.jpg",
+        "alt": "hero-san-to-moto-onna-kanbu-san"
+    },
     "type": "manga",
     "original_name": "ヒーローさんと元女幹部さん",
     "start_date": "2018-10-08",

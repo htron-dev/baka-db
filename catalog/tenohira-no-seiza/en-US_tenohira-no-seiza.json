@@ -1,5 +1,9 @@
 {
     "title": "Tenohira no Seiza",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/184703.jpg",
+        "alt": "tenohira-no-seiza"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

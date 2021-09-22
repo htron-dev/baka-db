@@ -1,5 +1,9 @@
 {
     "title": "Otoko Oozora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/233863.jpg",
+        "alt": "otoko-oozora"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "139",

@@ -1,5 +1,9 @@
 {
     "title": "Ryuu Kishi no Glaive Lance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160937.jpg",
+        "alt": "ryuu-kishi-no-glaive-lance"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "11",

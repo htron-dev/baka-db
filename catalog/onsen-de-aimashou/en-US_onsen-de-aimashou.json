@@ -1,5 +1,9 @@
 {
     "title": "Onsen de Aimashou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/83412.jpg",
+        "alt": "onsen-de-aimashou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

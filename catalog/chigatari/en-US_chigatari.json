@@ -1,5 +1,9 @@
 {
     "title": "Chigatari.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162977.jpg",
+        "alt": "chigatari"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "25",

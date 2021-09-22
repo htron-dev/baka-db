@@ -1,5 +1,9 @@
 {
     "title": "Jankenman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/17801.jpg",
+        "alt": "jankenman"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "ジャンケンマン",

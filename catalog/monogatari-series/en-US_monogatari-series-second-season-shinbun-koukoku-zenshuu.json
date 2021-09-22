@@ -1,5 +1,9 @@
 {
     "title": "Monogatari Series: Second Season - Shinbun Koukoku Zenshuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158927.jpg",
+        "alt": "monogatari-series-second-season-shinbun-koukoku-zenshuu"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "8",

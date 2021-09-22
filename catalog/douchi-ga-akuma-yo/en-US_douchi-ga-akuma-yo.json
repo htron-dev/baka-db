@@ -1,5 +1,9 @@
 {
     "title": "Douchi ga Akuma YO?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26692.jpg",
+        "alt": "douchi-ga-akuma-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "どっちが悪魔 YO？",

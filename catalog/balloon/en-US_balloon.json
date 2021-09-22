@@ -1,5 +1,9 @@
 {
     "title": "Balloon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/75303.jpg",
+        "alt": "balloon"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "Balloon",

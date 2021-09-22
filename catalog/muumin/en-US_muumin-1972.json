@@ -1,12 +1,16 @@
 {
     "title": "Muumin (1972)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/47155.jpg",
+        "alt": "muumin-1972"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "ムーミン",
     "start_date": "1972-01-09",
     "end_date": "1972-01-09",
     "opening_song": "\"Muumin no Theme (ムーミンのテーマ)\" by Toshiko Fujita",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Chiisana Mii (ちいさなミィ)\" by Junko Hori",
     "rating": "G - All Ages",
     "tags": [
         "adventure",
@@ -30,7 +34,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Moomin_(1972_TV_series"
+            "link": "http://en.wikipedia.org/wiki/Moomin_%281972_TV_series%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Dragon Zakura 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/208226.jpg",
+        "alt": "dragon-zakura-2"
+    },
     "type": "manga",
     "original_name": "ドラゴン桜 2",
     "start_date": "2018-01-25",

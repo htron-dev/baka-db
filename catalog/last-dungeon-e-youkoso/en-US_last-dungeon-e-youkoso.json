@@ -1,5 +1,9 @@
 {
     "title": "Last Dungeon e Youkoso",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176967.jpg",
+        "alt": "last-dungeon-e-youkoso"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "ラストダンジョンへようこそ",

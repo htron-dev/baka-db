@@ -1,5 +1,9 @@
 {
     "title": "Fruits Basket: The Final",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1085/114792.jpg",
+        "alt": "fruits-basket-the-final"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "フルーツバスケット The Final",
@@ -36,7 +40,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Fruits_Basket#Second_series_(2019"
+            "link": "https://en.wikipedia.org/wiki/Fruits_Basket#Second_series_%282019%29"
         }
     ]
 }

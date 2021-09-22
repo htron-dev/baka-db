@@ -1,5 +1,9 @@
 {
     "title": "Ousama Game: Rinjou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159498.jpg",
+        "alt": "ousama-game-rinjou"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "王様ゲーム 臨場",

@@ -1,5 +1,9 @@
 {
     "title": "Getter Robo Arc",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1805/116661.jpg",
+        "alt": "getter-robo-arc"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ゲッターロボ アーク",

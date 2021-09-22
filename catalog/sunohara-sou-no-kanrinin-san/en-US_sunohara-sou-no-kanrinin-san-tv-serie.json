@@ -1,12 +1,16 @@
 {
     "title": "Sunohara-sou no Kanrinin-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1368/95074.jpg",
+        "alt": "sunohara-sou-no-kanrinin-san"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "すのはら荘の管理人さん",
     "start_date": "2018-07-05",
     "end_date": "2018-07-05",
     "opening_song": "\"Bitter Sweet Harmony\" by Megumi Nakajima (eps 1-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Sonna no Boku ja Nai. (そんなの僕じゃない。)\" by Shino Shimoji (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

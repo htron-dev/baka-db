@@ -1,5 +1,9 @@
 {
     "title": "Bartender à Tokyo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215961.jpg",
+        "alt": "bartender-a-tokyo"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "55",

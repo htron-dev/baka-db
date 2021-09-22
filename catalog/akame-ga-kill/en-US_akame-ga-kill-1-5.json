@@ -1,5 +1,9 @@
 {
     "title": "Akame ga Kill! 1.5",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/207679.jpg",
+        "alt": "akame-ga-kill-1-5"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

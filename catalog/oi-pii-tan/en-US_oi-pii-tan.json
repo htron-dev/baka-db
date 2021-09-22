@@ -1,5 +1,9 @@
 {
     "title": "Oi Pii-tan!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1312/91013.jpg",
+        "alt": "oi-pii-tan"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "おいピータン!!",

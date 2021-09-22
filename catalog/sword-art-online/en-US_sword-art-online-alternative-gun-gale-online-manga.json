@@ -1,5 +1,9 @@
 {
     "title": "Sword Art Online Alternative: Gun Gale Online",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/184352.jpg",
+        "alt": "sword-art-online-alternative-gun-gale-online"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

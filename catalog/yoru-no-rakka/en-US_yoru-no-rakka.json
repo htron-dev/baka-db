@@ -1,5 +1,9 @@
 {
     "title": "Yoru no Rakka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238262.jpg",
+        "alt": "yoru-no-rakka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

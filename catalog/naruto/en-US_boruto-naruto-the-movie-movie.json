@@ -1,5 +1,9 @@
 {
     "title": "Boruto: Naruto the Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/78280.jpg",
+        "alt": "boruto-naruto-the-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "BORUTO -NARUTO THE MOVIE-",

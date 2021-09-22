@@ -1,5 +1,9 @@
 {
     "title": "Yachin Hanbun no Ibasho desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20651.jpg",
+        "alt": "yachin-hanbun-no-ibasho-desu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

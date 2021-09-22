@@ -1,5 +1,9 @@
 {
     "title": "Thank You My God",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167448.jpg",
+        "alt": "thank-you-my-god"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

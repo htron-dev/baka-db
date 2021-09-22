@@ -1,5 +1,9 @@
 {
     "title": "Kudoki - Shinyaku Kabukie Maki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/72191.jpg",
+        "alt": "kudoki-shinyaku-kabukie-maki"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "クドキ 新訳歌舞伎絵巻",

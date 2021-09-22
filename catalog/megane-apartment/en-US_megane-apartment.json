@@ -1,5 +1,9 @@
 {
     "title": "Megane Apartment",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/79861.jpg",
+        "alt": "megane-apartment"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

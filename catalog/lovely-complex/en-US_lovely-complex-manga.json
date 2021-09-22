@@ -1,5 +1,9 @@
 {
     "title": "Lovely★Complex",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/209659.jpg",
+        "alt": "lovely★-complex"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "68",

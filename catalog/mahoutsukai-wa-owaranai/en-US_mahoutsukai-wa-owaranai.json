@@ -1,5 +1,9 @@
 {
     "title": "Mahoutsukai wa Owaranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195131.jpg",
+        "alt": "mahoutsukai-wa-owaranai"
+    },
     "type": "light-novel",
     "original_name": "魔法使いは終わらない",
     "start_date": "2017-04-25",

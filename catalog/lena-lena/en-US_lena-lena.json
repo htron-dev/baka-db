@@ -1,5 +1,9 @@
 {
     "title": "Lena Lena",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/69871.jpg",
+        "alt": "lena-lena"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "レイナレイナ",

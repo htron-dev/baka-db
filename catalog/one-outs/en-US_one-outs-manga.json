@@ -1,5 +1,9 @@
 {
     "title": "One Outs",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169329.jpg",
+        "alt": "one-outs"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "175",

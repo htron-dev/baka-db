@@ -1,10 +1,14 @@
 {
     "title": "Lucky☆Star: Original na Visual to Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/22582.jpg",
+        "alt": "lucky☆-star-original-na-visual-to-animation"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "らき ☆ すた OVA（オリジナルなビジュアルとアニメーション）",
     "start_date": "2008-09-26",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Ai wo Torimodose!!\" by Uchoten (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Lucky_Star_(manga"
+            "link": "http://en.wikipedia.org/wiki/Lucky_Star_%28manga%29"
         }
     ]
 }

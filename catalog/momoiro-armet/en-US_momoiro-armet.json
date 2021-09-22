@@ -1,5 +1,9 @@
 {
     "title": "Momoiro Armet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152606.jpg",
+        "alt": "momoiro-armet"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ももいろアーメット",

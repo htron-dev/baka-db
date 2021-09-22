@@ -1,5 +1,9 @@
 {
     "title": "Shin Kimi no Te ga Sasayaiteiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247837.jpg",
+        "alt": "shin-kimi-no-te-ga-sasayaiteiru"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "77",

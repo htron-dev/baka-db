@@ -1,5 +1,9 @@
 {
     "title": "Cutey Honey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/55427.jpg",
+        "alt": "cutey-honey"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "キューティーハニー",

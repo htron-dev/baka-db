@@ -1,5 +1,9 @@
 {
     "title": "Sweet Bitter Candy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/17618.jpg",
+        "alt": "sweet-bitter-candy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

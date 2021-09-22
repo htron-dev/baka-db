@@ -1,5 +1,9 @@
 {
     "title": "Shinsetsu! Sakamocchan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/216241.jpg",
+        "alt": "shinsetsu-sakamocchan"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "新説!さかもっちゃん",

@@ -1,5 +1,9 @@
 {
     "title": "Nyanfuru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/63835.jpg",
+        "alt": "nyanfuru"
+    },
     "type": "tv-serie",
     "episodes": "124",
     "original_name": "にゃん符",

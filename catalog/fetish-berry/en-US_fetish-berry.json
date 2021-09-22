@@ -1,5 +1,9 @@
 {
     "title": "Fetish Berry",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162743.jpg",
+        "alt": "fetish-berry"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "26",

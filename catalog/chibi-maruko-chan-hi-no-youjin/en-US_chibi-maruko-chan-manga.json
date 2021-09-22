@@ -1,5 +1,9 @@
 {
     "title": "Chibi Maruko-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22607.jpg",
+        "alt": "chibi-maruko-chan"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "120",

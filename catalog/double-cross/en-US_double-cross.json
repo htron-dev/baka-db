@@ -1,5 +1,9 @@
 {
     "title": "Double Cross",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/89156.jpg",
+        "alt": "double-cross"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ダブルクロス～裏切りの十字架～",

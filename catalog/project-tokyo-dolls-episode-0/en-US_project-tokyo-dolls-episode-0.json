@@ -1,5 +1,9 @@
 {
     "title": "Project Tokyo Dolls: Episode 0",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1670/93693.jpg",
+        "alt": "project-tokyo-dolls-episode-0"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "プロジェクト東京ドールズ エピソード 0",

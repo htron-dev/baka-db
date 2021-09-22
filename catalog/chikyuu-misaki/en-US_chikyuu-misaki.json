@@ -1,5 +1,9 @@
 {
     "title": "Chikyuu Misaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5236.jpg",
+        "alt": "chikyuu-misaki"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

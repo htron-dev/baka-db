@@ -1,5 +1,9 @@
 {
     "title": "Hachimitsu Darling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163236.jpg",
+        "alt": "hachimitsu-darling"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

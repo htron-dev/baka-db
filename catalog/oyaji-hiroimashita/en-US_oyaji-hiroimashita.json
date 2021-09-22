@@ -1,5 +1,9 @@
 {
     "title": "Oyaji Hiroimashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/25453.jpg",
+        "alt": "oyaji-hiroimashita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

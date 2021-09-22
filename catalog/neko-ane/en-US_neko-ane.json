@@ -1,5 +1,9 @@
 {
     "title": "Neko Ane.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188954.jpg",
+        "alt": "neko-ane"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "37",

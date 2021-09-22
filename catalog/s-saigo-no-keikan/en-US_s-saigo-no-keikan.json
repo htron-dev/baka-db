@@ -1,5 +1,9 @@
 {
     "title": "S: Saigo no Keikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174547.jpg",
+        "alt": "s-saigo-no-keikan"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "161",

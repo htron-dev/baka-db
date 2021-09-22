@@ -1,5 +1,9 @@
 {
     "title": "Motto, Ippai, Zenbu, Choudai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171328.jpg",
+        "alt": "motto-ippai-zenbu-choudai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

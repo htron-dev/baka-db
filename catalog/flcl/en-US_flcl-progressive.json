@@ -1,5 +1,9 @@
 {
     "title": "FLCL Progressive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1499/93700.jpg",
+        "alt": "flcl-progressive"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "フリクリ プログレ",

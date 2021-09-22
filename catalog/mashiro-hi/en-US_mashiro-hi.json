@@ -1,5 +1,9 @@
 {
     "title": "Mashiro Hi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/219889.jpg",
+        "alt": "mashiro-hi"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "55",

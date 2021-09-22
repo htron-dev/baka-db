@@ -1,5 +1,9 @@
 {
     "title": "Ultra Dino Makera",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/65745.jpg",
+        "alt": "ultra-dino-makera"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "Ultra Dino Makera",

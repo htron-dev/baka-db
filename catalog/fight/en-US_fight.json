@@ -1,5 +1,9 @@
 {
     "title": "Fight!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1623/94539.jpg",
+        "alt": "fight"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "FIGHT!!",

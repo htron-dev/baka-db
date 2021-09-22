@@ -1,5 +1,9 @@
 {
     "title": "Yawaraka na Yuuutsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/59195.jpg",
+        "alt": "yawaraka-na-yuuutsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

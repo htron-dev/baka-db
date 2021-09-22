@@ -1,5 +1,9 @@
 {
     "title": "Boku no Chikyuu wo Mamotte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/176256.jpg",
+        "alt": "boku-no-chikyuu-wo-mamotte"
+    },
     "type": "manga",
     "volumes": "21",
     "chapters": "138",

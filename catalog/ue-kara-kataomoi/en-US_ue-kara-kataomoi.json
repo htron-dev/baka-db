@@ -1,5 +1,9 @@
 {
     "title": "Ue kara Kataomoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185990.jpg",
+        "alt": "ue-kara-kataomoi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

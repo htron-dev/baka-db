@@ -1,5 +1,9 @@
 {
     "title": "Daisougen to Hakuba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1000/112502.jpg",
+        "alt": "daisougen-to-hakuba"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "大草原と白馬",

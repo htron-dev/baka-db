@@ -1,5 +1,9 @@
 {
     "title": "Kawaita Yoru no Machi wo Oyogu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18602.jpg",
+        "alt": "kawaita-yoru-no-machi-wo-oyogu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

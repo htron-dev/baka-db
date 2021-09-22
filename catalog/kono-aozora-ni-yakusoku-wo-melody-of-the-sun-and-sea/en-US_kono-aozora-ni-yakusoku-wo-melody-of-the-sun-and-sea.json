@@ -1,5 +1,9 @@
 {
     "title": "Kono Aozora ni Yakusoku wo ~melody of the sun and sea~",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14573.jpg",
+        "alt": "kono-aozora-ni-yakusoku-wo-melody-of-the-sun-and-sea"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

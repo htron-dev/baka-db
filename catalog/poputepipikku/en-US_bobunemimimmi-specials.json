@@ -1,5 +1,9 @@
 {
     "title": "Bobunemimimmi Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1608/110282.jpg",
+        "alt": "bobunemimimmi-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "ボブネミミッミ",

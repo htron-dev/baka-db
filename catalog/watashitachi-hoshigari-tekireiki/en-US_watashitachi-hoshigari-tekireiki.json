@@ -1,5 +1,9 @@
 {
     "title": "Watashitachi, Hoshigari Tekireiki.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236034.jpg",
+        "alt": "watashitachi-hoshigari-tekireiki"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "私たち、欲しがり適齢期。",

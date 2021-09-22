@@ -1,5 +1,9 @@
 {
     "title": "Seto no Hanayome Picture Drama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/68529.jpg",
+        "alt": "seto-no-hanayome-picture-drama"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "否苦炒亜怒羅魔 極道の妻 KEJIME",
@@ -23,7 +27,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E3%81%AE%E8%8A%B1%E5%AB%81_(%E6%BC%AB%E7%94%BB"
+            "link": "http://ja.wikipedia.org/wiki/%E7%80%AC%E6%88%B8%E3%81%AE%E8%8A%B1%E5%AB%81_%28%E6%BC%AB%E7%94%BB%29#.E3.83.94.E3.82.AF.E3.83.81.E3.83.A3.E3.83.BC.E3.83.89.E3.83.A9.E3.83.9E"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Shounen yo Guitar wo Idake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/169938.jpg",
+        "alt": "shounen-yo-guitar-wo-idake"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "28",

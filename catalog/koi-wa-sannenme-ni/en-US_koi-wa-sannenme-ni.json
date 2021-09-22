@@ -1,5 +1,9 @@
 {
     "title": "Koi wa Sannenme ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229455.jpg",
+        "alt": "koi-wa-sannenme-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "恋は三年目に",

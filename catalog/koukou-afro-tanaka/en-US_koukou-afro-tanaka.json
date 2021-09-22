@@ -1,5 +1,9 @@
 {
     "title": "Koukou Afro Tanaka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/168996.jpg",
+        "alt": "koukou-afro-tanaka"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "101",

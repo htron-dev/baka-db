@@ -1,5 +1,9 @@
 {
     "title": "Dorokei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224794.jpg",
+        "alt": "dorokei"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "69",

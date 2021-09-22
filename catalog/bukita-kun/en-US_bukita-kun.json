@@ -1,5 +1,9 @@
 {
     "title": "Bukita-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165188.jpg",
+        "alt": "bukita-kun"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "不気田くん",

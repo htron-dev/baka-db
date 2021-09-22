@@ -1,5 +1,9 @@
 {
     "title": "Koi no Kaikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7753.jpg",
+        "alt": "koi-no-kaikata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

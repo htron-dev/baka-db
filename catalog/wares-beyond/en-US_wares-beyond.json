@@ -1,5 +1,9 @@
 {
     "title": "Wares: Beyond",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/89241.jpg",
+        "alt": "wares-beyond"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "聖刻 －BEYOND－",

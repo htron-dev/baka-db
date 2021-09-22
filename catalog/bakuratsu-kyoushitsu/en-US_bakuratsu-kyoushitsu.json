@@ -1,5 +1,9 @@
 {
     "title": "Bakuratsu Kyoushitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/25333.jpg",
+        "alt": "bakuratsu-kyoushitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "バクラツ教室",

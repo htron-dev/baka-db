@@ -1,5 +1,9 @@
 {
     "title": "Spiral: Suiri no Kizuna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/15913.jpg",
+        "alt": "spiral-suiri-no-kizuna"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "78",

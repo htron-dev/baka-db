@@ -1,5 +1,9 @@
 {
     "title": "It's All Right",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161814.jpg",
+        "alt": "its-all-right"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

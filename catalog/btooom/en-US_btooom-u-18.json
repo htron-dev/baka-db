@@ -1,5 +1,9 @@
 {
     "title": "Btooom! U-18",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/216028.jpg",
+        "alt": "btooom-u-18"
+    },
     "type": "manga",
     "original_name": "BTOOOM! U-18",
     "start_date": "2018-04-21",

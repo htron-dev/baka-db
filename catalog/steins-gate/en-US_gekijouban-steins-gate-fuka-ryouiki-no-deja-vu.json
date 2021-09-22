@@ -1,5 +1,9 @@
 {
     "title": "Gekijouban Steins;Gate: Fuka Ryouiki no Déjà vu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/108051.jpg",
+        "alt": "gekijouban-steins-gate-fuka-ryouiki-no-deja-vu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

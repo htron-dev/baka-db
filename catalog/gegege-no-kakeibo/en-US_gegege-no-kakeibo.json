@@ -1,5 +1,9 @@
 {
     "title": "Gegege no Kakeibo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/189498.jpg",
+        "alt": "gegege-no-kakeibo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "36",

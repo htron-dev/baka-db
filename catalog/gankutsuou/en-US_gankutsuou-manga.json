@@ -1,5 +1,9 @@
 {
     "title": "Gankutsuou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/138607.jpg",
+        "alt": "gankutsuou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

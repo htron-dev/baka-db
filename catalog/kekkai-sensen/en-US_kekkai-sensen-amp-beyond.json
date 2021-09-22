@@ -1,5 +1,9 @@
 {
     "title": "Kekkai Sensen &amp; Beyond",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/88282.jpg",
+        "alt": "kekkai-sensen-amp-beyond"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "血界戦線 & BEYOND",

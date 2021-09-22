@@ -1,12 +1,16 @@
 {
     "title": "Diamond no Ace",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/54235.jpg",
+        "alt": "diamond-no-ace"
+    },
     "type": "tv-serie",
     "episodes": "75",
     "original_name": "ダイヤの A[エース]",
     "start_date": "2013-10-06",
     "end_date": "2013-10-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Go EXCEED!!\" by Tom-H@ck featuring Masayoshi Oishi (eps 1-25)",
+    "ending_song": "#1: \"Seek Diamonds\" by Yoko Hikasa (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

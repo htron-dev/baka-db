@@ -1,5 +1,9 @@
 {
     "title": "Danshou no Grimm",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185968.jpg",
+        "alt": "danshou-no-grimm"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

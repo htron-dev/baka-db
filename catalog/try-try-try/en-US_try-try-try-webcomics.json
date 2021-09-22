@@ -1,5 +1,9 @@
 {
     "title": "Try! Try! Try! Webcomics",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14385.jpg",
+        "alt": "try-try-try-webcomics"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "Try! Try! Try!",

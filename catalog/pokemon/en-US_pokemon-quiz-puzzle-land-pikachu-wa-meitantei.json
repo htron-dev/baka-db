@@ -1,5 +1,9 @@
 {
     "title": "Pokémon Quiz Puzzle-land: Pikachu wa Meitantei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189101.jpg",
+        "alt": "pokemon-quiz-puzzle-land-pikachu-wa-meitantei"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

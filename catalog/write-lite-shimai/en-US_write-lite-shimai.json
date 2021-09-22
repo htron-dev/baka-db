@@ -1,5 +1,9 @@
 {
     "title": "Write/Lite Shimai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196173.jpg",
+        "alt": "write-lite-shimai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "28",

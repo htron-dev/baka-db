@@ -1,5 +1,9 @@
 {
     "title": "Real Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167484.jpg",
+        "alt": "real-girl"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "48",

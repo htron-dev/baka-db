@@ -1,5 +1,9 @@
 {
     "title": "Bokura no Jikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/41030.jpg",
+        "alt": "bokura-no-jikan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

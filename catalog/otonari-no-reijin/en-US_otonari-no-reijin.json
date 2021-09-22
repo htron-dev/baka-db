@@ -1,5 +1,9 @@
 {
     "title": "Otonari no Reijin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/35964.jpg",
+        "alt": "otonari-no-reijin"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "おとなりの麗人",

@@ -1,5 +1,9 @@
 {
     "title": "Izure Shinwa no Ragnarok",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187243.jpg",
+        "alt": "izure-shinwa-no-ragnarok"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

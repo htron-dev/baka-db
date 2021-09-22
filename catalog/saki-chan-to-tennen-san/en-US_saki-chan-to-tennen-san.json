@@ -1,5 +1,9 @@
 {
     "title": "Saki-chan to Tennen-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175943.jpg",
+        "alt": "saki-chan-to-tennen-san"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "16",

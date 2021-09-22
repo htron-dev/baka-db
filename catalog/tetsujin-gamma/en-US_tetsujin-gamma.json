@@ -1,5 +1,9 @@
 {
     "title": "Tetsujin Gamma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151829.jpg",
+        "alt": "tetsujin-gamma"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "117",

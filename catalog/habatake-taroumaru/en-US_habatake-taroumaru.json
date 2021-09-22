@@ -1,5 +1,9 @@
 {
     "title": "Habatake! Taroumaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/224961.jpg",
+        "alt": "habatake-taroumaru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

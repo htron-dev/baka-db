@@ -1,5 +1,9 @@
 {
     "title": "Rojiura Bunch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204366.jpg",
+        "alt": "rojiura-bunch"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

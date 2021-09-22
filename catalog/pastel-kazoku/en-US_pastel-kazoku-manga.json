@@ -1,5 +1,9 @@
 {
     "title": "Pastel Kazoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165439.jpg",
+        "alt": "pastel-kazoku"
+    },
     "type": "manga",
     "original_name": "パステル家族",
     "start_date": "2013-10-11",

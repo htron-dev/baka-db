@@ -1,5 +1,9 @@
 {
     "title": "Kenshin no Succeed",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158132.jpg",
+        "alt": "kenshin-no-succeed"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

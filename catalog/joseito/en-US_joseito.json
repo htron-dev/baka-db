@@ -1,5 +1,9 @@
 {
     "title": "Joseito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/81193.jpg",
+        "alt": "joseito"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "女生徒",

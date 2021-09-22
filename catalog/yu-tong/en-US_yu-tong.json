@@ -1,5 +1,9 @@
 {
     "title": "Yu Tong",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1964/110993.jpg",
+        "alt": "yu-tong"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "漁童",

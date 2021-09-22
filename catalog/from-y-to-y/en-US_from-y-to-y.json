@@ -1,5 +1,9 @@
 {
     "title": "from Y to Y",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/128831.jpg",
+        "alt": "from-y-to-y"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "from Y to Y フロム ワイ ト ワイ",

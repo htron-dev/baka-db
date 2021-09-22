@@ -1,5 +1,9 @@
 {
     "title": "Bungou Stray Dogs 3rd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1037/100463.jpg",
+        "alt": "bungou-stray-dogs-3rd-season"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "文豪ストレイドッグス 第 3 期",

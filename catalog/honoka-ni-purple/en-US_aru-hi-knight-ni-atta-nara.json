@@ -1,5 +1,9 @@
 {
     "title": "Aru Hi, Knight ni Atta nara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/4988.jpg",
+        "alt": "aru-hi-knight-ni-atta-nara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

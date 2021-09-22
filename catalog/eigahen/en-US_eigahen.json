@@ -1,5 +1,9 @@
 {
     "title": "Eigahen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/76111.jpg",
+        "alt": "eigahen"
+    },
     "type": "manga",
     "original_name": "映画篇",
     "start_date": "2010-04-20",

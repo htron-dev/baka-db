@@ -1,5 +1,9 @@
 {
     "title": "Kangaeru Jikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1846/107235.jpg",
+        "alt": "kangaeru-jikan"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "考える時間",

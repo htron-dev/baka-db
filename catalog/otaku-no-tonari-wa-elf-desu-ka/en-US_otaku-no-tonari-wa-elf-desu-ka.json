@@ -1,5 +1,9 @@
 {
     "title": "Otaku no Tonari wa Elf desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226121.jpg",
+        "alt": "otaku-no-tonari-wa-elf-desu-ka"
+    },
     "type": "manga",
     "original_name": "おたくの隣りはエルフですか?",
     "start_date": "2019-07-13",

@@ -1,5 +1,9 @@
 {
     "title": "Iimon Warumon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190460.jpg",
+        "alt": "iimon-warumon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

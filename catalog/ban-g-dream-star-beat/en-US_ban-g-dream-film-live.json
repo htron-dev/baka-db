@@ -1,5 +1,9 @@
 {
     "title": "BanG Dream! Film Live",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1163/117736.jpg",
+        "alt": "ban-g-dream-film-live"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "BanG Dream! FILM LIVE",

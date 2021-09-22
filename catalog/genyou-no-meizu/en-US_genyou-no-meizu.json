@@ -1,5 +1,9 @@
 {
     "title": "Genyou no Meizu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160466.jpg",
+        "alt": "genyou-no-meizu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

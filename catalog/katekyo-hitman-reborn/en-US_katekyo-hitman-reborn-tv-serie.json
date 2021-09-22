@@ -1,12 +1,16 @@
 {
     "title": "Katekyo Hitman Reborn!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/80000.jpg",
+        "alt": "katekyo-hitman-reborn"
+    },
     "type": "tv-serie",
     "episodes": "203",
     "original_name": "家庭教師ヒットマン REBORN!",
     "start_date": "2006-10-07",
     "end_date": "2006-10-07",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"Drawing Days\" by SPLAY (eps 1-26)",
+    "ending_song": "#01: \"Michishirube\" by Keita Tachibana (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

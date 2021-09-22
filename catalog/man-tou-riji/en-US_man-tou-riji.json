@@ -1,5 +1,9 @@
 {
     "title": "Man Tou Riji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/84844.jpg",
+        "alt": "man-tou-riji"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "馒头日记",

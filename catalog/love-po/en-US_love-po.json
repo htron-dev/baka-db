@@ -1,5 +1,9 @@
 {
     "title": "Love Po!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/38168.jpg",
+        "alt": "love-po"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ラブ・ぽっ！",

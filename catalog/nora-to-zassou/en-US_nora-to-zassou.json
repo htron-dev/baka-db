@@ -1,5 +1,9 @@
 {
     "title": "Nora to Zassou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/213119.jpg",
+        "alt": "nora-to-zassou"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "26",

@@ -1,5 +1,9 @@
 {
     "title": "Love Stage!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/41861.jpg",
+        "alt": "love-stage"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "40",

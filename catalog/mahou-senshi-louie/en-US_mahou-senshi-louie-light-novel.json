@@ -1,5 +1,9 @@
 {
     "title": "Mahou Senshi Louie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/122859.jpg",
+        "alt": "mahou-senshi-louie"
+    },
     "type": "light-novel",
     "volumes": "9",
     "original_name": "魔法戦士リウイ",

@@ -1,8 +1,12 @@
 {
     "title": "Kiddy Grade: Ignition",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/23600.jpg",
+        "alt": "kiddy-grade-ignition"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "キディ・グレイド　劇場版　第一部",
+    "original_name": "キディ・グレイド　劇場版　第一部: 覚醒篇",
     "start_date": "2007-04-07",
     "opening_song": "\"Mirai no Kioku (未來の記憶; Future's Memory)\" by Yuka",
     "ending_song": "\"Future\" by Little Viking",

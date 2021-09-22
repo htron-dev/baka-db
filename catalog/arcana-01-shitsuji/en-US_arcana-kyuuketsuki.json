@@ -1,5 +1,9 @@
 {
     "title": "Arcana - Kyuuketsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/37765.jpg",
+        "alt": "arcana-kyuuketsuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

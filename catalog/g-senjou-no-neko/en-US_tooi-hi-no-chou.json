@@ -1,5 +1,9 @@
 {
     "title": "Tooi Hi no Chou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33952.jpg",
+        "alt": "tooi-hi-no-chou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

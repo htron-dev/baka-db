@@ -1,5 +1,9 @@
 {
     "title": "Watashitachi wa Koi wo Shiranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210499.jpg",
+        "alt": "watashitachi-wa-koi-wo-shiranai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "30",

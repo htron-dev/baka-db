@@ -1,5 +1,9 @@
 {
     "title": "Koutarou Makaritooru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/75193.jpg",
+        "alt": "koutarou-makaritooru"
+    },
     "type": "manga",
     "volumes": "59",
     "chapters": "600",

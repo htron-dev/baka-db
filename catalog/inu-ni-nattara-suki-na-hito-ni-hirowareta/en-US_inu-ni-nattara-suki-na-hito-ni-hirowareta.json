@@ -1,5 +1,9 @@
 {
     "title": "Inu ni Nattara Suki na Hito ni Hirowareta.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237526.jpg",
+        "alt": "inu-ni-nattara-suki-na-hito-ni-hirowareta"
+    },
     "type": "manga",
     "original_name": "犬になったら好きな人に拾われた。",
     "start_date": "2020-08-02",

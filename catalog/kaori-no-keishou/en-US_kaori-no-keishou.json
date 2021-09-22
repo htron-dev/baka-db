@@ -1,5 +1,9 @@
 {
     "title": "Kaori no Keishou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159886.jpg",
+        "alt": "kaori-no-keishou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

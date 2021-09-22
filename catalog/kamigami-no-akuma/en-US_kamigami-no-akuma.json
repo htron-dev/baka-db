@@ -1,5 +1,9 @@
 {
     "title": "Kamigami no Akuma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/233750.jpg",
+        "alt": "kamigami-no-akuma"
+    },
     "type": "manga",
     "original_name": "神々の悪魔",
     "start_date": "2018-07-20",

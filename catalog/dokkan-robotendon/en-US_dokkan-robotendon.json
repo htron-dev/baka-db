@@ -1,5 +1,9 @@
 {
     "title": "Dokkan! Robotendon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/56687.jpg",
+        "alt": "dokkan-robotendon"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ドッカン! ロボ天どん",

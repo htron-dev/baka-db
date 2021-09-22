@@ -1,5 +1,9 @@
 {
     "title": "Citrus Encount",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/131213.jpg",
+        "alt": "citrus-encount"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "112",

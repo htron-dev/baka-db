@@ -1,5 +1,9 @@
 {
     "title": "Jekyll de Hyde na Kare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/203964.jpg",
+        "alt": "jekyll-de-hyde-na-kare"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

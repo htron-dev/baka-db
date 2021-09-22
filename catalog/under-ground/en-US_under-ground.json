@@ -1,5 +1,9 @@
 {
     "title": "Under Ground",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/59385.jpg",
+        "alt": "under-ground"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

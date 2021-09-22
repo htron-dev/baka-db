@@ -1,12 +1,16 @@
 {
     "title": "Guilty Crown",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/33713.jpg",
+        "alt": "guilty-crown"
+    },
     "type": "tv-serie",
     "episodes": "22",
     "original_name": "ギルティクラウン",
     "start_date": "2011-10-14",
     "end_date": "2011-10-14",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Euterpe\" by EGOIST; produced by supercell; performed by Chelly (ep 1)",
+    "ending_song": "#1: \"Departures ~Anata ni Okuru Ai no Uta~ (Departures ~あなたにおくるアイの歌~)\" by EGOIST; produced by supercell; performed by Chelly (eps 1-12, 22)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

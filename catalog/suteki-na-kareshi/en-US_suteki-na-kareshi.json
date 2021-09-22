@@ -1,5 +1,9 @@
 {
     "title": "Suteki na Kareshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179111.jpg",
+        "alt": "suteki-na-kareshi"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "59",

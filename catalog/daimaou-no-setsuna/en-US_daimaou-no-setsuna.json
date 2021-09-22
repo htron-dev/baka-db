@@ -1,5 +1,9 @@
 {
     "title": "Daimaou no Setsuna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164281.jpg",
+        "alt": "daimaou-no-setsuna"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

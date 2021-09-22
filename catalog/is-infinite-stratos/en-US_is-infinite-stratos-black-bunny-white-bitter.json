@@ -1,5 +1,9 @@
 {
     "title": "IS: Infinite Stratos - Black Bunny / White Bitter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180848.jpg",
+        "alt": "is-infinite-stratos-black-bunny-white-bitter"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

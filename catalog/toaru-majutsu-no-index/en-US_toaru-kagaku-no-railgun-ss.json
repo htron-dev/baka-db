@@ -1,5 +1,9 @@
 {
     "title": "Toaru Kagaku no Railgun SS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186943.jpg",
+        "alt": "toaru-kagaku-no-railgun-ss"
+    },
     "type": "light-novel",
     "volumes": "8",
     "original_name": "とある科学の超電磁砲 SS",

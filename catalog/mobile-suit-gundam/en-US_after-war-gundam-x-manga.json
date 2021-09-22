@@ -1,5 +1,9 @@
 {
     "title": "After War Gundam X",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31804.jpg",
+        "alt": "after-war-gundam-x"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

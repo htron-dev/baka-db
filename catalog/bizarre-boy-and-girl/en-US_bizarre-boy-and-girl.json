@@ -1,5 +1,9 @@
 {
     "title": "Bizarre Boy and Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14861.jpg",
+        "alt": "bizarre-boy-and-girl"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "22",

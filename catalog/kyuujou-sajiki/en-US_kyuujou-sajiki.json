@@ -1,5 +1,9 @@
 {
     "title": "Kyuujou Sajiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225710.jpg",
+        "alt": "kyuujou-sajiki"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

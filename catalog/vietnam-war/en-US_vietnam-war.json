@@ -1,5 +1,9 @@
 {
     "title": "Vietnam War",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/131925.jpg",
+        "alt": "vietnam-war"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ヴェトナム・ウォー",

@@ -1,5 +1,9 @@
 {
     "title": "Massugu ni Ikou.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/76159.jpg",
+        "alt": "massugu-ni-ikou"
+    },
     "type": "tv-serie",
     "episodes": "4",
     "original_name": "まっすぐにいこう。",

@@ -1,5 +1,9 @@
 {
     "title": "Suki ni Naru to Kowareru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/40081.jpg",
+        "alt": "suki-ni-naru-to-kowareru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

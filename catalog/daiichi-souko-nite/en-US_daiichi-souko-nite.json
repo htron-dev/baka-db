@@ -1,5 +1,9 @@
 {
     "title": "Daiichi Souko nite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/231649.jpg",
+        "alt": "daiichi-souko-nite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Sekai de Ichiban Kawaii!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/242736.jpg",
+        "alt": "sekai-de-ichiban-kawaii"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

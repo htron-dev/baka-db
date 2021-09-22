@@ -1,5 +1,9 @@
 {
     "title": "Ray The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/33315.jpg",
+        "alt": "ray-the-animation"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "RAY THE ANIMATION",

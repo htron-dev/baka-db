@@ -1,5 +1,9 @@
 {
     "title": "Full Dozer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161977.jpg",
+        "alt": "full-dozer"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

@@ -1,5 +1,9 @@
 {
     "title": "Gemini wa Otoshigoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228210.jpg",
+        "alt": "gemini-wa-otoshigoro"
+    },
     "type": "manga",
     "original_name": "ジェミニはお年頃",
     "start_date": "2017-10-31",

@@ -1,5 +1,9 @@
 {
     "title": "Genei wo Kakeru Taiyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/51071.jpg",
+        "alt": "genei-wo-kakeru-taiyou"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "幻影ヲ駆ケル太陽",

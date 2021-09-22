@@ -1,5 +1,9 @@
 {
     "title": "LayereD Eve",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221979.jpg",
+        "alt": "layere-d-eve"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

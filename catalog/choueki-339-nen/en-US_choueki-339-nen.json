@@ -1,5 +1,9 @@
 {
     "title": "Choueki 339-nen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163829.jpg",
+        "alt": "choueki-339-nen"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "43",

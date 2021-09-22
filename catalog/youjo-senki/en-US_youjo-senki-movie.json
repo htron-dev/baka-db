@@ -1,5 +1,9 @@
 {
     "title": "Youjo Senki Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1310/95450.jpg",
+        "alt": "youjo-senki-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 幼女戦記",

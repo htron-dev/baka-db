@@ -1,5 +1,9 @@
 {
     "title": "Rashanu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/42740.jpg",
+        "alt": "rashanu"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "40",

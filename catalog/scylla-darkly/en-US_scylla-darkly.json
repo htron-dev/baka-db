@@ -1,5 +1,9 @@
 {
     "title": "Scylla Darkly",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/125775.jpg",
+        "alt": "scylla-darkly"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "スキュラ・ダークリー",

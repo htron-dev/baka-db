@@ -1,5 +1,9 @@
 {
     "title": "Susume! Dokan-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1576/95811.jpg",
+        "alt": "susume-dokan-kun"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "進め!土管くん",

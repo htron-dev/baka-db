@@ -1,5 +1,9 @@
 {
     "title": "Eiyuu Densetsu: Sora no Kiseki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170736.jpg",
+        "alt": "eiyuu-densetsu-sora-no-kiseki"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "46",

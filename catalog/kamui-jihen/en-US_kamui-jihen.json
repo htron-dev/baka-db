@@ -1,5 +1,9 @@
 {
     "title": "Kamui Jihen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226098.jpg",
+        "alt": "kamui-jihen"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

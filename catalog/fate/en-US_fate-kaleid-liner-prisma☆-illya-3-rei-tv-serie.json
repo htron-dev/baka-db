@@ -1,12 +1,16 @@
 {
     "title": "Fate/kaleid liner Prisma☆Illya 3rei!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/80834.jpg",
+        "alt": "fate-kaleid-liner-prisma☆-illya-3-rei"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "Fate/kaleid liner プリズマ ☆ イリヤ 3rei!!",
     "start_date": "2016-07-06",
     "end_date": "2016-07-06",
     "opening_song": "\"Asterism\" by ChouCho",
-    "ending_song": "#1",
+    "ending_song": "#1: \"WHIMSICAL WAYWARD WISH\" by TECHNOBOYS PULCRAFT GREEN-FUND feat. Yumeha Kouda (eps 1-8, 10-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

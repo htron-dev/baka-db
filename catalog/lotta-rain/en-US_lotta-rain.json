@@ -1,5 +1,9 @@
 {
     "title": "Lotta Rain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/199355.jpg",
+        "alt": "lotta-rain"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "30",

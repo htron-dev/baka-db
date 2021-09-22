@@ -1,5 +1,9 @@
 {
     "title": "Ai wo Tomenaide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152418.jpg",
+        "alt": "ai-wo-tomenaide"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

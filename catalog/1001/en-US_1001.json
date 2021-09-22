@@ -1,5 +1,9 @@
 {
     "title": "1001",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174901.jpg",
+        "alt": "1001"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "55",

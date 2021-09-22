@@ -1,5 +1,9 @@
 {
     "title": "Marshmellow Tsuushin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27746.jpg",
+        "alt": "marshmellow-tsuushin"
+    },
     "type": "manga",
     "original_name": "マシュマロ通信",
     "tags": [

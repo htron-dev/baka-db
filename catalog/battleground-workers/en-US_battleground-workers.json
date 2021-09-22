@@ -1,5 +1,9 @@
 {
     "title": "Battleground Workers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/232395.jpg",
+        "alt": "battleground-workers"
+    },
     "type": "manga",
     "original_name": "バトルグラウンドワーカーズ",
     "start_date": "2019-04-22",

@@ -1,5 +1,9 @@
 {
     "title": "Natsu no Zangai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/27573.jpg",
+        "alt": "natsu-no-zangai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

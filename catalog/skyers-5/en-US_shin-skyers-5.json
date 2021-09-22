@@ -1,5 +1,9 @@
 {
     "title": "Shin Skyers 5",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/59649.jpg",
+        "alt": "shin-skyers-5"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "新スカイヤーズ 5",

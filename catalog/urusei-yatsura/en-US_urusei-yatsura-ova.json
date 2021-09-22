@@ -1,12 +1,16 @@
 {
     "title": "Urusei Yatsura OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1424/92240.jpg",
+        "alt": "urusei-yatsura-ova"
+    },
     "type": "ova",
     "episodes": "11",
     "original_name": "うる星やつら",
     "start_date": "1985-09-24",
     "end_date": "1985-09-24",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Tonogata Gomen Asobase (殿方ごめん遊ばせ)\" by Shoko Minami (eps 1, 11)",
+    "ending_song": "#1: \"Good Luck ~Towa Yori Ai wo Komete (Good Luck 〜永遠より愛をこめて)\" by Shoko Minami (eps 1, 9, 11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

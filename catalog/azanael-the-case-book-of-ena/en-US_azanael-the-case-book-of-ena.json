@@ -1,5 +1,9 @@
 {
     "title": "Azanael: The Case-Book of ENA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/113217.jpg",
+        "alt": "azanael-the-case-book-of-ena"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

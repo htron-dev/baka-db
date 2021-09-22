@@ -1,5 +1,9 @@
 {
     "title": "Sonicomi - Communication with Sonico",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/109333.jpg",
+        "alt": "sonicomi-communication-with-sonico"
+    },
     "type": "manga",
     "original_name": "ソニコミ Communication with Sonico",
     "start_date": "2012-03-30",

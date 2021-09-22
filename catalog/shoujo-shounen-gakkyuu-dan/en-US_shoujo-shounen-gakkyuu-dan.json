@@ -1,5 +1,9 @@
 {
     "title": "Shoujo Shounen Gakkyuu-dan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/208096.jpg",
+        "alt": "shoujo-shounen-gakkyuu-dan"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "少女少年学級団",

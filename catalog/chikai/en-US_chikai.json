@@ -1,5 +1,9 @@
 {
     "title": "Chikai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1857/102987.jpg",
+        "alt": "chikai"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "誓い",
@@ -16,11 +20,11 @@
         },
         {
             "text": "Official Site",
-            "link": "<https://ja.wikipedia.org/wiki/%E9%89%84%E6%8B%B3_(%E3%81%8A%E7%AC%91%E3%81%84%E8%8A%B8%E4%BA%BA"
+            "link": "https://ja.wikipedia.org/wiki/%E9%89%84%E6%8B%B3_%28%E3%81%8A%E7%AC%91%E3%81%84%E8%8A%B8%E4%BA%BA%29"
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/%E9%89%84%E6%8B%B3_(%E3%81%8A%E7%AC%91%E3%81%84%E8%8A%B8%E4%BA%BA"
+            "link": "https://ja.wikipedia.org/wiki/%E9%89%84%E6%8B%B3_%28%E3%81%8A%E7%AC%91%E3%81%84%E8%8A%B8%E4%BA%BA%29"
         }
     ]
 }

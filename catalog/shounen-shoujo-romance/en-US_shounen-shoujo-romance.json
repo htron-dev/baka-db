@@ -1,5 +1,9 @@
 {
     "title": "Shounen Shoujo Romance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/200574.jpg",
+        "alt": "shounen-shoujo-romance"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

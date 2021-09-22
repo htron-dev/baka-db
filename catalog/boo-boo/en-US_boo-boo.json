@@ -1,5 +1,9 @@
 {
     "title": "Boo Boo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192981.jpg",
+        "alt": "boo-boo"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "Boo Boo",

@@ -1,5 +1,9 @@
 {
     "title": "Battery",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/129677.jpg",
+        "alt": "battery"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "34",

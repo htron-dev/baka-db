@@ -1,5 +1,9 @@
 {
     "title": "Dibetagurashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/174576.jpg",
+        "alt": "dibetagurashi"
+    },
     "type": "manga",
     "original_name": "ぢべたぐらし",
     "tags": [

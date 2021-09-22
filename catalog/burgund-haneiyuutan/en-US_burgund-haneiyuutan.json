@@ -1,5 +1,9 @@
 {
     "title": "Burgund Haneiyuutan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158588.jpg",
+        "alt": "burgund-haneiyuutan"
+    },
     "type": "light-novel",
     "volumes": "9",
     "chapters": "54",

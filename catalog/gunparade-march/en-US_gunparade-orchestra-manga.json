@@ -1,5 +1,9 @@
 {
     "title": "Gunparade Orchestra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/52025.jpg",
+        "alt": "gunparade-orchestra"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ガンパレード・オーケストラ",

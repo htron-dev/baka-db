@@ -1,5 +1,9 @@
 {
     "title": "Air Master",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/21019.jpg",
+        "alt": "air-master"
+    },
     "type": "tv-serie",
     "episodes": "27",
     "original_name": "エアマスター",

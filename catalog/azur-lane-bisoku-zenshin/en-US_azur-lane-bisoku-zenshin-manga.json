@@ -1,5 +1,9 @@
 {
     "title": "Azur Lane: Bisoku Zenshin!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/220962.jpg",
+        "alt": "azur-lane-bisoku-zenshin"
+    },
     "type": "manga",
     "original_name": "アズールレーン びそくぜんしんっ!",
     "start_date": "2018-04-23",

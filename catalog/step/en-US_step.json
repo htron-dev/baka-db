@@ -1,5 +1,9 @@
 {
     "title": "Step!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24132.jpg",
+        "alt": "step"
+    },
     "type": "manga",
     "volumes": "1",
     "start_date": "2007-06-30",

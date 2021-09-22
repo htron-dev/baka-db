@@ -1,5 +1,9 @@
 {
     "title": "Ossu! Haruka-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235344.jpg",
+        "alt": "ossu-haruka-chan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

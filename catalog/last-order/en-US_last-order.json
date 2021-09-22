@@ -1,5 +1,9 @@
 {
     "title": "Last Order",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241418.jpg",
+        "alt": "last-order"
+    },
     "type": "manga",
     "original_name": "ラストオーダー",
     "start_date": "2020-05-04",

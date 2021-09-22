@@ -1,5 +1,9 @@
 {
     "title": "Hanna of the Z",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/79743.jpg",
+        "alt": "hanna-of-the-z"
+    },
     "type": "manga",
     "volumes": "2",
     "tags": [

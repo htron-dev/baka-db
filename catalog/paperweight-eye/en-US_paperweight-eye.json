@@ -1,5 +1,9 @@
 {
     "title": "Paperweight Eye",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/125315.jpg",
+        "alt": "paperweight-eye"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

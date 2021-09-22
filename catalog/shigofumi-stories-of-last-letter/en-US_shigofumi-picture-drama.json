@@ -1,5 +1,9 @@
 {
     "title": "Shigofumi Picture Drama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/14417.jpg",
+        "alt": "shigofumi-picture-drama"
+    },
     "type": "special",
     "episodes": "7",
     "original_name": "シゴフミ",

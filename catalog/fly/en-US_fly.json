@@ -1,5 +1,9 @@
 {
     "title": "Fly",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/80668.jpg",
+        "alt": "fly"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "「FLY」フライ",

@@ -1,5 +1,9 @@
 {
     "title": "Suit wo Kita Akuma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159400.jpg",
+        "alt": "suit-wo-kita-akuma"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Hebi Onna Hajimemashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198757.jpg",
+        "alt": "hebi-onna-hajimemashita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "19",

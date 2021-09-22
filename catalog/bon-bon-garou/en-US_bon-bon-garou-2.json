@@ -1,5 +1,9 @@
 {
     "title": "Bon Bon Garou 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38928.jpg",
+        "alt": "bon-bon-garou-2"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ボンボン餓狼 2",

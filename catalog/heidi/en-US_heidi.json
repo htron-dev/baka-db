@@ -1,5 +1,9 @@
 {
     "title": "Heidi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/97193.jpg",
+        "alt": "heidi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ハイジ",

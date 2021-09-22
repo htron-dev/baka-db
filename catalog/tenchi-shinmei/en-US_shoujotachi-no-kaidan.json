@@ -1,5 +1,9 @@
 {
     "title": "Shoujotachi no Kaidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/73527.jpg",
+        "alt": "shoujotachi-no-kaidan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

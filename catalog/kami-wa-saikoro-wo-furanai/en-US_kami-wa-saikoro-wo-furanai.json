@@ -1,5 +1,9 @@
 {
     "title": "Kami wa Saikoro wo Furanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170596.jpg",
+        "alt": "kami-wa-saikoro-wo-furanai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

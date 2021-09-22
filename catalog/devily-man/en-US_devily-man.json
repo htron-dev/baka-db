@@ -1,5 +1,9 @@
 {
     "title": "Devily-man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163930.jpg",
+        "alt": "devily-man"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

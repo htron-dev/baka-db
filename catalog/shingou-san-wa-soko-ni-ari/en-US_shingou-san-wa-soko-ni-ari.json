@@ -1,5 +1,9 @@
 {
     "title": "Shingou-san wa Soko ni Ari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235251.jpg",
+        "alt": "shingou-san-wa-soko-ni-ari"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

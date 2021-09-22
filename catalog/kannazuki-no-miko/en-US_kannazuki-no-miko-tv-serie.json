@@ -1,5 +1,9 @@
 {
     "title": "Kannazuki no Miko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/73955.jpg",
+        "alt": "kannazuki-no-miko"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "神無月の巫女",

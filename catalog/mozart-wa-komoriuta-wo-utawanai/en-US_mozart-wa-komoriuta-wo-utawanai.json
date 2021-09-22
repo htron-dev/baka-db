@@ -1,5 +1,9 @@
 {
     "title": "Mozart wa Komoriuta wo Utawanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/6634.jpg",
+        "alt": "mozart-wa-komoriuta-wo-utawanai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Ookamikakushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/21784.jpg",
+        "alt": "ookamikakushi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "おおかみかくし",

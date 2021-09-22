@@ -1,5 +1,9 @@
 {
     "title": "Hitoribocchi no Chikyuu Shinryaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/211539.jpg",
+        "alt": "hitoribocchi-no-chikyuu-shinryaku"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "78",

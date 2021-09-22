@@ -1,5 +1,9 @@
 {
     "title": "Kodoku no Gourmet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207579.jpg",
+        "alt": "kodoku-no-gourmet"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "31",

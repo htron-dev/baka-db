@@ -1,12 +1,16 @@
 {
     "title": "Babylon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1942/102707.jpg",
+        "alt": "babylon"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "バビロン",
     "start_date": "2019-10-07",
     "end_date": "2019-10-07",
     "opening_song": "\"Echoing ft. Sysha\" by Yamada Yutaka",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Live and let die\" by Q-MHz feat. uloco (eps 1-3)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "mystery",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Babylon_(novel_series"
+            "link": "https://en.wikipedia.org/wiki/Babylon_%28novel_series%29#Anime"
         }
     ]
 }

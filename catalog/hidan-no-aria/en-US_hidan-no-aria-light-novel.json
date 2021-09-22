@@ -1,5 +1,9 @@
 {
     "title": "Hidan no Aria",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157987.jpg",
+        "alt": "hidan-no-aria"
+    },
     "type": "light-novel",
     "original_name": "緋弾のアリア",
     "start_date": "2008-08-25",

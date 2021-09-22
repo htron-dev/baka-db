@@ -1,5 +1,9 @@
 {
     "title": "Kimi to wa Korekara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237316.jpg",
+        "alt": "kimi-to-wa-korekara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

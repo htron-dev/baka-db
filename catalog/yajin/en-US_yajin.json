@@ -1,5 +1,9 @@
 {
     "title": "Yajin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215284.jpg",
+        "alt": "yajin"
+    },
     "type": "manga",
     "original_name": "夜人",
     "start_date": "2018-05-26",

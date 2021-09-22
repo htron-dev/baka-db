@@ -1,5 +1,9 @@
 {
     "title": "Zankou no Vernerura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162000.jpg",
+        "alt": "zankou-no-vernerura"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "18",

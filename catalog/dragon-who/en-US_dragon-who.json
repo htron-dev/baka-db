@@ -1,5 +1,9 @@
 {
     "title": "Dragon Who",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/26286.jpg",
+        "alt": "dragon-who"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "34",

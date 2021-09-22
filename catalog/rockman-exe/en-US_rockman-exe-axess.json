@@ -1,12 +1,16 @@
 {
     "title": "Rockman.EXE Axess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/2200.jpg",
+        "alt": "rockman-exe-axess"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "ロックマンエグゼ Axess",
     "start_date": "2003-10-04",
     "end_date": "2003-10-04",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"Futatsu no Mirai\" by Michihiro Kuroda",
+    "ending_song": "#01: \"Hikari Todoku Basho\" by Kumiko Higa and Akiko Kimura",
     "rating": "PG - Children",
     "tags": [
         "action",

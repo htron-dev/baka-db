@@ -1,5 +1,9 @@
 {
     "title": "Gisho Getter Robo Darkness: Shidou-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190675.jpg",
+        "alt": "gisho-getter-robo-darkness-shidou-hen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Kamisama no Ude no Naka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/210114.jpg",
+        "alt": "kamisama-no-ude-no-naka"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

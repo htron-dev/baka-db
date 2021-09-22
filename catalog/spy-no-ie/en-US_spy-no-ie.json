@@ -1,5 +1,9 @@
 {
     "title": "Spy no Ie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167062.jpg",
+        "alt": "spy-no-ie"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "24",

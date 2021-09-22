@@ -1,5 +1,9 @@
 {
     "title": "Ganso Derorinman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/187828.jpg",
+        "alt": "ganso-derorinman"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "元祖デロリンマン",

@@ -1,5 +1,9 @@
 {
     "title": "Shinobimasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203215.jpg",
+        "alt": "shinobimasu"
+    },
     "type": "manga",
     "original_name": "しのびます！",
     "start_date": "2017-09-19",

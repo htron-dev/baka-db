@@ -1,5 +1,9 @@
 {
     "title": "Boleumdal Gongjang",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1048/114528.jpg",
+        "alt": "boleumdal-gongjang"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "보름달 공장",

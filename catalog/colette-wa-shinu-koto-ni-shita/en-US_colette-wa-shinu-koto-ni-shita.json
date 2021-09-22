@@ -1,5 +1,9 @@
 {
     "title": "Colette wa Shinu Koto ni Shita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/131201.jpg",
+        "alt": "colette-wa-shinu-koto-ni-shita"
+    },
     "type": "manga",
     "original_name": "コレットは死ぬことにした",
     "start_date": "2013-11-05",

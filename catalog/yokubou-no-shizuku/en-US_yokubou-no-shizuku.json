@@ -1,5 +1,9 @@
 {
     "title": "Yokubou no Shizuku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/84633.jpg",
+        "alt": "yokubou-no-shizuku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

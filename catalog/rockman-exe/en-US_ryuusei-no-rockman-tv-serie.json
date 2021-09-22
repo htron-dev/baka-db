@@ -1,11 +1,15 @@
 {
     "title": "Ryuusei no Rockman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/26600.jpg",
+        "alt": "ryuusei-no-rockman"
+    },
     "type": "tv-serie",
     "episodes": "55",
     "original_name": "流星のロックマン",
     "start_date": "2006-10-07",
     "end_date": "2006-10-07",
-    "opening_song": "#01",
+    "opening_song": "#01: \"Heart Wave\" by Misato Fukuen",
     "rating": "PG - Children",
     "tags": [
         "action",

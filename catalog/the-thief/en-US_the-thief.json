@@ -1,5 +1,9 @@
 {
     "title": "The Thief",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18226.jpg",
+        "alt": "the-thief"
+    },
     "type": "manhwa",
     "volumes": "14",
     "tags": [

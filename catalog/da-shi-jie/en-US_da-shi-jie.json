@@ -1,5 +1,9 @@
 {
     "title": "Da Shi Jie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1320/90231.jpg",
+        "alt": "da-shi-jie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "大世界",
@@ -21,7 +25,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Have_a_Nice_Day_(film"
+            "link": "https://en.wikipedia.org/wiki/Have_a_Nice_Day_%28film%29"
         }
     ]
 }

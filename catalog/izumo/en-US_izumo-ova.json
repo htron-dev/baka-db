@@ -1,11 +1,15 @@
 {
     "title": "Izumo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1035/96202.jpg",
+        "alt": "izumo"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "IZUMO [イズモ]",
     "start_date": "1991-09-21",
     "end_date": "1991-09-21",
-    "ending_song": "\"Izumo no Theme",
+    "ending_song": "\"Izumo no Theme: Kanashimanaide (イズモのテーマ 悲しまないで)\" by Ami Itabashi",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "adventure",

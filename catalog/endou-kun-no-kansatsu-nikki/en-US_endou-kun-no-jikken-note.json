@@ -1,5 +1,9 @@
 {
     "title": "Endou-kun no Jikken Note",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/197879.jpg",
+        "alt": "endou-kun-no-jikken-note"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

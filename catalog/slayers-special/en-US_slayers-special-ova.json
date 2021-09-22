@@ -1,5 +1,9 @@
 {
     "title": "Slayers Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1372/92532.jpg",
+        "alt": "slayers-special"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "スレイヤーズすぺしゃる",

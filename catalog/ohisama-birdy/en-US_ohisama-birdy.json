@@ -1,5 +1,9 @@
 {
     "title": "Ohisama Birdy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235062.jpg",
+        "alt": "ohisama-birdy"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

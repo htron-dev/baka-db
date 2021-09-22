@@ -1,5 +1,9 @@
 {
     "title": "Mint Chocolate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/233482.jpg",
+        "alt": "mint-chocolate"
+    },
     "type": "manga",
     "original_name": "ミントチョコレート",
     "start_date": "2016-04-09",

@@ -1,5 +1,9 @@
 {
     "title": "Hiragana Danshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1613/90733.jpg",
+        "alt": "hiragana-danshi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ひらがな男子",

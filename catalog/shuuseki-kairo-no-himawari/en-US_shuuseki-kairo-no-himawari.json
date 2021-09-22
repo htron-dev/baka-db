@@ -1,5 +1,9 @@
 {
     "title": "Shuuseki Kairo no Himawari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/145977.jpg",
+        "alt": "shuuseki-kairo-no-himawari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

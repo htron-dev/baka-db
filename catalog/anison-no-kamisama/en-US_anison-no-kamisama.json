@@ -1,5 +1,9 @@
 {
     "title": "Anison no Kamisama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/122417.jpg",
+        "alt": "anison-no-kamisama"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "アニソンの神様",

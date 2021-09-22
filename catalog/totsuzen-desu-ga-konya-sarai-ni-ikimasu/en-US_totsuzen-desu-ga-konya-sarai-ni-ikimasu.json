@@ -1,5 +1,9 @@
 {
     "title": "Totsuzen desu ga, Konya Sarai ni Ikimasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185832.jpg",
+        "alt": "totsuzen-desu-ga-konya-sarai-ni-ikimasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

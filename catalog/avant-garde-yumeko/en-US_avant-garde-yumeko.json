@@ -1,5 +1,9 @@
 {
     "title": "Avant-garde Yumeko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/90269.jpg",
+        "alt": "avant-garde-yumeko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

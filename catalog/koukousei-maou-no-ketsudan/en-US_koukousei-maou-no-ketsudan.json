@@ -1,5 +1,9 @@
 {
     "title": "Koukousei Maou no Ketsudan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171365.jpg",
+        "alt": "koukousei-maou-no-ketsudan"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "21",

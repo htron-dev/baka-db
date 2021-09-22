@@ -1,5 +1,9 @@
 {
     "title": "Azuki-chan the Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/45236.jpg",
+        "alt": "azuki-chan-the-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "あずきちゃん",

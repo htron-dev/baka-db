@@ -1,12 +1,16 @@
 {
     "title": "Bug tte Honey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/28163.jpg",
+        "alt": "bug-tte-honey"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "Bug ってハニー",
     "start_date": "1986-10-03",
     "end_date": "1986-10-03",
     "opening_song": "\"Bug tte Honey (Bug ってハニー)\" by Toshiyuki Takahashi (高橋利幸)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ai wa Merry go Round (愛はメリーゴーランド)\" by Yuka Haruna, Toshiyuki Takahashi (はるな友香, 高橋利幸)",
     "rating": "G - All Ages",
     "tags": [
         "adventure",

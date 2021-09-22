@@ -1,5 +1,9 @@
 {
     "title": "Shimazu Kyouko Jisenshuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/229565.jpg",
+        "alt": "shimazu-kyouko-jisenshuu"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "62",

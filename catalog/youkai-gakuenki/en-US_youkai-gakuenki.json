@@ -1,5 +1,9 @@
 {
     "title": "Youkai Gakuenki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14794.jpg",
+        "alt": "youkai-gakuenki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

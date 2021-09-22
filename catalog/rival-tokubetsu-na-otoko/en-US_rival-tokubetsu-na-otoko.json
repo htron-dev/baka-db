@@ -1,5 +1,9 @@
 {
     "title": "Rival: Tokubetsu na Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/223933.jpg",
+        "alt": "rival-tokubetsu-na-otoko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Oyako Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/34817.jpg",
+        "alt": "oyako-club"
+    },
     "type": "tv-serie",
     "episodes": "1818",
     "original_name": "親子クラブ",

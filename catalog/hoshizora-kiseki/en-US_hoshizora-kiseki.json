@@ -1,5 +1,9 @@
 {
     "title": "Hoshizora Kiseki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/22726.jpg",
+        "alt": "hoshizora-kiseki"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "星空キセキ",

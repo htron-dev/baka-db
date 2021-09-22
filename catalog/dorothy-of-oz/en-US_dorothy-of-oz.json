@@ -1,5 +1,9 @@
 {
     "title": "Dorothy of Oz",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5881.jpg",
+        "alt": "dorothy-of-oz"
+    },
     "type": "manhwa",
     "volumes": "5",
     "original_name": "도로시",

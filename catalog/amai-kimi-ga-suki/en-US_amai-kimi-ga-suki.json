@@ -1,5 +1,9 @@
 {
     "title": "Amai Kimi ga Suki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/19553.jpg",
+        "alt": "amai-kimi-ga-suki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Primo Piatto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184736.jpg",
+        "alt": "primo-piatto"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "プリモ・ピアット",

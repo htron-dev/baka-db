@@ -1,5 +1,9 @@
 {
     "title": "Otometal!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/88495.jpg",
+        "alt": "otometal"
+    },
     "type": "manga",
     "original_name": "乙女たる!",
     "start_date": "2011-08-17",

@@ -1,5 +1,9 @@
 {
     "title": "Asu no Esa Kimi dakara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215446.jpg",
+        "alt": "asu-no-esa-kimi-dakara"
+    },
     "type": "manga",
     "original_name": "明日のエサ　キミだから",
     "start_date": "2018-04-20",

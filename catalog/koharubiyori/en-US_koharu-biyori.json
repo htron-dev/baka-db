@@ -1,12 +1,16 @@
 {
     "title": "Koharu Biyori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/5074.jpg",
+        "alt": "koharu-biyori"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "こはるびより",
     "start_date": "2007-10-15",
     "end_date": "2007-10-15",
     "opening_song": "\"Apron dake wa Toranaide!\" by Eri Kitamura",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Love Song kamo shirenai (ラブソングかもしれない)\" by Eri Kitamura & Satomi Akesaka (eps 1-2)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "sci-fi",

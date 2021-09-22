@@ -1,5 +1,9 @@
 {
     "title": "Inazuma Eleven: Ares no Tenbin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1460/96891.jpg",
+        "alt": "inazuma-eleven-ares-no-tenbin"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "イナズマイレブン アレスの天秤",
@@ -31,7 +35,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Inazuma_Eleven:_Ares_no_Tenbin_(2018_series"
+            "link": "http://en.wikipedia.org/wiki/Inazuma_Eleven:_Ares_no_Tenbin_%282018_series%29"
         }
     ]
 }

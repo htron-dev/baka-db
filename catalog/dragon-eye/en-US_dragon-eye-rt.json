@@ -1,5 +1,9 @@
 {
     "title": "Dragon Eye RT",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230900.jpg",
+        "alt": "dragon-eye-rt"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Senpen no Gran",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162017.jpg",
+        "alt": "senpen-no-gran"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

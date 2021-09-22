@@ -1,5 +1,9 @@
 {
     "title": "Imagine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163726.jpg",
+        "alt": "imagine"
+    },
     "type": "manga",
     "volumes": "11",
     "original_name": "イマジン",

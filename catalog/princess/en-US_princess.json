@@ -1,5 +1,9 @@
 {
     "title": "Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247742.jpg",
+        "alt": "princess"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

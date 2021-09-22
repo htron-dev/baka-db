@@ -1,5 +1,9 @@
 {
     "title": "Hinagikubiyori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179274.jpg",
+        "alt": "hinagikubiyori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Bucchigiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/62251.jpg",
+        "alt": "bucchigiri"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "ぶっちぎり",

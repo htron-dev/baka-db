@@ -1,5 +1,9 @@
 {
     "title": "Shinya! Tensai Bakabon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226822.jpg",
+        "alt": "shinya-tensai-bakabon"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

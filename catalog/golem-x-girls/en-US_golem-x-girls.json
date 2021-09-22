@@ -1,5 +1,9 @@
 {
     "title": "Golem x Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163223.jpg",
+        "alt": "golem-x-girls"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "ゴーレム × ガールズ",

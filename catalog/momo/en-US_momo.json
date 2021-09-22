@@ -1,5 +1,9 @@
 {
     "title": "Momo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/22008.jpg",
+        "alt": "momo"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "35",

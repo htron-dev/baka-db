@@ -1,5 +1,9 @@
 {
     "title": "Kyouryuu no Kaitakata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191613.jpg",
+        "alt": "kyouryuu-no-kaitakata"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

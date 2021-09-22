@@ -1,5 +1,9 @@
 {
     "title": "Inu mo Kuwanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170547.jpg",
+        "alt": "inu-mo-kuwanai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

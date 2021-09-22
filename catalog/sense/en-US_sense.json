@@ -1,5 +1,9 @@
 {
     "title": "Sense.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/54825.jpg",
+        "alt": "sense"
+    },
     "type": "manga",
     "original_name": "センセ。",
     "start_date": "2008-01-08",

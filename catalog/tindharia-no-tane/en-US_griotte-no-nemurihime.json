@@ -1,5 +1,9 @@
 {
     "title": "Griotte no Nemurihime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/233463.jpg",
+        "alt": "griotte-no-nemurihime"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

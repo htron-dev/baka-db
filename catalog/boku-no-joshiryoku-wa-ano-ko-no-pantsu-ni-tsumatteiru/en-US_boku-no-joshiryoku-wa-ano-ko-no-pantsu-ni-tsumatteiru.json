@@ -1,5 +1,9 @@
 {
     "title": "Boku no Joshiryoku wa Ano Ko no Pantsu ni Tsumatteiru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160698.jpg",
+        "alt": "boku-no-joshiryoku-wa-ano-ko-no-pantsu-ni-tsumatteiru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

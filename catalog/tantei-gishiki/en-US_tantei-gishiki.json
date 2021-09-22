@@ -1,5 +1,9 @@
 {
     "title": "Tantei Gishiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16517.jpg",
+        "alt": "tantei-gishiki"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "45",

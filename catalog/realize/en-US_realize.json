@@ -1,5 +1,9 @@
 {
     "title": "Realize",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173082.jpg",
+        "alt": "realize"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

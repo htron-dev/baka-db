@@ -1,5 +1,9 @@
 {
     "title": "Osananajimi ga Mama sugite Tsurai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/230297.jpg",
+        "alt": "osananajimi-ga-mama-sugite-tsurai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

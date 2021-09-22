@@ -1,5 +1,9 @@
 {
     "title": "Social Survival Rabbits",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226226.jpg",
+        "alt": "social-survival-rabbits"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "61",

@@ -1,5 +1,9 @@
 {
     "title": "JK Splash!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203038.jpg",
+        "alt": "jk-splash"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "28",

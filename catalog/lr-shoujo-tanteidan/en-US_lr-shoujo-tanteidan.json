@@ -1,5 +1,9 @@
 {
     "title": "LR Shoujo Tanteidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/47987.jpg",
+        "alt": "lr-shoujo-tanteidan"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "LR 少女探偵団",

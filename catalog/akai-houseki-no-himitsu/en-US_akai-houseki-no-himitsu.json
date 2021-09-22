@@ -1,5 +1,9 @@
 {
     "title": "Akai Houseki no Himitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/65219.jpg",
+        "alt": "akai-houseki-no-himitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "赤い宝石の秘密",

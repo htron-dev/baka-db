@@ -1,5 +1,9 @@
 {
     "title": "25-ji no Vacances",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192284.jpg",
+        "alt": "25-ji-no-vacances"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

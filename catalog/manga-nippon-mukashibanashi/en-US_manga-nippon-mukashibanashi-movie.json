@@ -1,5 +1,9 @@
 {
     "title": "Manga Nippon Mukashibanashi (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/28284.jpg",
+        "alt": "manga-nippon-mukashibanashi-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "まんが日本昔ばなし",

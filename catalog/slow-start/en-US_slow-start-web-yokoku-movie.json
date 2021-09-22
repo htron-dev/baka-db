@@ -1,5 +1,9 @@
 {
     "title": "Slow Start: Web Yokoku Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/90006.jpg",
+        "alt": "slow-start-web-yokoku-movie"
+    },
     "type": "ona",
     "episodes": "11",
     "original_name": "『スロウスタート』Web 予告ムービー",
@@ -29,7 +33,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Slow_Start_(manga"
+            "link": "https://en.wikipedia.org/wiki/Slow_Start_%28manga%29"
         }
     ]
 }

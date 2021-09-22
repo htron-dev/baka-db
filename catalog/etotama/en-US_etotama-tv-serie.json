@@ -1,12 +1,16 @@
 {
     "title": "Etotama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/73586.jpg",
+        "alt": "etotama"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "えとたま（干支魂）",
     "start_date": "2015-04-09",
     "end_date": "2015-04-09",
     "opening_song": "\"Retry☆Rendezvous (リトライ ☆ ランデヴー)\" by Nyaa-tan (Rie Murakawa)",
-    "ending_song": "#01",
+    "ending_song": "#01: \"blue moment\" by Sol=Lull BOB (Nyaa-tan) (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

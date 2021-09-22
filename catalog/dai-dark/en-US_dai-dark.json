@@ -1,5 +1,9 @@
 {
     "title": "Dai Dark",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226814.jpg",
+        "alt": "dai-dark"
+    },
     "type": "manga",
     "original_name": "大ダーク",
     "start_date": "2019-03-12",

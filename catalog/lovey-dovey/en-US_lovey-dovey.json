@@ -1,5 +1,9 @@
 {
     "title": "Lovey Dovey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176093.jpg",
+        "alt": "lovey-dovey"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "30",

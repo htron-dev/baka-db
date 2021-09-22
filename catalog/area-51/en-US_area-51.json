@@ -1,5 +1,9 @@
 {
     "title": "Area 51",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/141573.jpg",
+        "alt": "area-51"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "72",

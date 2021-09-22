@@ -1,5 +1,9 @@
 {
     "title": "Horyuusou no Yatsura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207750.jpg",
+        "alt": "horyuusou-no-yatsura"
+    },
     "type": "manga",
     "original_name": "保留荘の奴ら",
     "start_date": "2013-10-13",

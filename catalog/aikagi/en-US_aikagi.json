@@ -1,5 +1,9 @@
 {
     "title": "Aikagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/178655.jpg",
+        "alt": "aikagi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

@@ -1,5 +1,9 @@
 {
     "title": "Nekojiru Shokudou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180254.jpg",
+        "alt": "nekojiru-shokudou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ねこぢる食堂",

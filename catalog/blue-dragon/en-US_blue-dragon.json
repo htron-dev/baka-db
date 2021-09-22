@@ -1,12 +1,16 @@
 {
     "title": "Blue Dragon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/20597.jpg",
+        "alt": "blue-dragon"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "ブルー・ドラゴン",
     "start_date": "2007-04-07",
     "end_date": "2007-04-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"FRIEND\" by Keita Tachibana (eps 1-26)",
+    "ending_song": "#1: \"Fly So High\" by Yu Yamada (eps 1-16)",
     "rating": "PG - Children",
     "tags": [
         "adventure",

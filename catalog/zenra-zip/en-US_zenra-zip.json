@@ -1,5 +1,9 @@
 {
     "title": "Zenra.zip",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228106.jpg",
+        "alt": "zenra-zip"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "36",

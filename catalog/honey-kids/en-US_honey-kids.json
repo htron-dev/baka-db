@@ -1,5 +1,9 @@
 {
     "title": "Honey kids",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11008.jpg",
+        "alt": "honey-kids"
+    },
     "type": "manga",
     "volumes": "2",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Uchouten Kazoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157964.jpg",
+        "alt": "uchouten-kazoku"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

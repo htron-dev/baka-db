@@ -1,5 +1,9 @@
 {
     "title": "Soradan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204847.jpg",
+        "alt": "soradan"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "38",

@@ -1,5 +1,9 @@
 {
     "title": "Angel Trumpet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/116381.jpg",
+        "alt": "angel-trumpet"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "65",

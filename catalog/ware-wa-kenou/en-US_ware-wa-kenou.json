@@ -1,5 +1,9 @@
 {
     "title": "Ware wa Kenou!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34816.jpg",
+        "alt": "ware-wa-kenou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

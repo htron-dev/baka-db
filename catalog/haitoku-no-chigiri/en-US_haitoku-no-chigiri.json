@@ -1,5 +1,9 @@
 {
     "title": "Haitoku no Chigiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239582.jpg",
+        "alt": "haitoku-no-chigiri"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "背徳の契り",

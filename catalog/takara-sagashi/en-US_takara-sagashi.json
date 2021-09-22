@@ -1,5 +1,9 @@
 {
     "title": "Takara-sagashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/34539.jpg",
+        "alt": "takara-sagashi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "たからさがし",

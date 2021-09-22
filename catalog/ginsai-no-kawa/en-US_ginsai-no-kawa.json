@@ -1,5 +1,9 @@
 {
     "title": "Ginsai no Kawa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174386.jpg",
+        "alt": "ginsai-no-kawa"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

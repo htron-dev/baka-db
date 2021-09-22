@@ -1,5 +1,9 @@
 {
     "title": "Micchiri Wanko! Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1793/106522.jpg",
+        "alt": "micchiri-wanko-animation"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "みっちりわんこ！あにめ～しょん",

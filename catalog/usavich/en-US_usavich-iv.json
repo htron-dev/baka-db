@@ -1,5 +1,9 @@
 {
     "title": "Usavich IV",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/54015.jpg",
+        "alt": "usavich-iv"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ウサビッチ IV",

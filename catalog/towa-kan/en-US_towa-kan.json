@@ -1,5 +1,9 @@
 {
     "title": "Towa-kan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/150100.jpg",
+        "alt": "towa-kan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

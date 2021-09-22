@@ -1,5 +1,9 @@
 {
     "title": "Sanpakugan-chan wa Tsutaetai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/213015.jpg",
+        "alt": "sanpakugan-chan-wa-tsutaetai"
+    },
     "type": "manga",
     "original_name": "三白眼ちゃんは伝えたい。",
     "start_date": "2018-10-22",

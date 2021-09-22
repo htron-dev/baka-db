@@ -1,5 +1,9 @@
 {
     "title": "Anata ga Furikaeru Toki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/53127.jpg",
+        "alt": "anata-ga-furikaeru-toki"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "あなたが振り返るとき",

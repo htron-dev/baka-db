@@ -1,5 +1,9 @@
 {
     "title": "Dash! Yonkurou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/50417.jpg",
+        "alt": "dash-yonkurou"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "ダッシュ！四駆郎",

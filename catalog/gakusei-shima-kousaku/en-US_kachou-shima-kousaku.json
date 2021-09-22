@@ -1,5 +1,9 @@
 {
     "title": "Kachou Shima Kousaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/128999.jpg",
+        "alt": "kachou-shima-kousaku"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "176",

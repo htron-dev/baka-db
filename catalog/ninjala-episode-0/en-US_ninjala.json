@@ -1,5 +1,9 @@
 {
     "title": "Ninjala",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1161/108830.jpg",
+        "alt": "ninjala"
+    },
     "type": "ona",
     "original_name": "ニンジャラ",
     "start_date": "2020-06-23",

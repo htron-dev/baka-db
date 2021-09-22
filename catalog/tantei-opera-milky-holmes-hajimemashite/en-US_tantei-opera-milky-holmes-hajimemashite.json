@@ -1,5 +1,9 @@
 {
     "title": "Tantei Opera Milky Holmes: Hajimemashite.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152088.jpg",
+        "alt": "tantei-opera-milky-holmes-hajimemashite"
+    },
     "type": "manga",
     "original_name": "探偵オペラ ミルキィホームズ はじめまして。",
     "start_date": "2014-11-08",

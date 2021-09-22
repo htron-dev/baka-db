@@ -1,5 +1,9 @@
 {
     "title": "Ice Ice Baby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16260.jpg",
+        "alt": "ice-ice-baby"
+    },
     "type": "manhwa",
     "volumes": "1",
     "chapters": "3",

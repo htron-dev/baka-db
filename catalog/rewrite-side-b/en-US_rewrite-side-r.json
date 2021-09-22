@@ -1,9 +1,13 @@
 {
     "title": "Rewrite: Side-R",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/121335.jpg",
+        "alt": "rewrite-side-r"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "27",
-    "original_name": "Rewrite",
+    "original_name": "Rewrite:SIDE-R",
     "start_date": "2011-02-26",
     "end_date": "2011-02-26",
     "tags": [

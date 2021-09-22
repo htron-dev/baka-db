@@ -1,5 +1,9 @@
 {
     "title": "Kuusou Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153921.jpg",
+        "alt": "kuusou-shoujo"
+    },
     "type": "manga",
     "original_name": "空想少女",
     "start_date": "2013-09-17",

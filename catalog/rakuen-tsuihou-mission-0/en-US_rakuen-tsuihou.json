@@ -1,5 +1,9 @@
 {
     "title": "Rakuen Tsuihou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/87919.jpg",
+        "alt": "rakuen-tsuihou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "楽園追放 -Expelled from Paradise-",

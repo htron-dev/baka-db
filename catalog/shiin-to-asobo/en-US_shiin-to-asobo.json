@@ -1,5 +1,9 @@
 {
     "title": "Shiin to Asobo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203174.jpg",
+        "alt": "shiin-to-asobo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "26",

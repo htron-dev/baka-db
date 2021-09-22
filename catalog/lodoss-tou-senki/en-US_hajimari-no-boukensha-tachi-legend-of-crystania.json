@@ -1,11 +1,15 @@
 {
     "title": "Hajimari no Boukensha-tachi: Legend of Crystania",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1520/94671.jpg",
+        "alt": "hajimari-no-boukensha-tachi-legend-of-crystania"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "はじまりの冒険者たち レジェンド・オブ・クリスタニア",
     "start_date": "1995-07-29",
     "opening_song": "\"Haruka na Inori (遥かな祈り)\" by Hitomi Mieno",
-    "ending_song": "\"Hajimari no Boukensha-tachi",
+    "ending_song": "\"Hajimari no Boukensha-tachi: Kou no Chizu (はじまりの冒険者たち~光の地図~)\" by Hitomi Mieno",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

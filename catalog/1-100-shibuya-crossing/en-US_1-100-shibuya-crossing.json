@@ -1,5 +1,9 @@
 {
     "title": "1/100 Shibuya Crossing",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/88867.jpg",
+        "alt": "1-100-shibuya-crossing"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "1/100 SHIBUYA Crossing",

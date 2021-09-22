@@ -1,5 +1,9 @@
 {
     "title": "Kurayami no Venus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228883.jpg",
+        "alt": "kurayami-no-venus"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "暗闇のヴィーナス",

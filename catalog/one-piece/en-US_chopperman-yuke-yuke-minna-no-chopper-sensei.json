@@ -1,5 +1,9 @@
 {
     "title": "Chopperman: Yuke Yuke! Minna no Chopper-sensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/65203.jpg",
+        "alt": "chopperman-yuke-yuke-minna-no-chopper-sensei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

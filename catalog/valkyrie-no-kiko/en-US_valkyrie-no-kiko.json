@@ -1,5 +1,9 @@
 {
     "title": "Valkyrie no Kiko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202041.jpg",
+        "alt": "valkyrie-no-kiko"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

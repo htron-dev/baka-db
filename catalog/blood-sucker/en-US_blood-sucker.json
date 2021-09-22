@@ -1,5 +1,9 @@
 {
     "title": "Blood Sucker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/4488.jpg",
+        "alt": "blood-sucker"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "72",

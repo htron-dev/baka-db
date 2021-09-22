@@ -1,5 +1,9 @@
 {
     "title": "Kamotori Gonbee",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/79722.jpg",
+        "alt": "kamotori-gonbee"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "かもとりごんべえ",

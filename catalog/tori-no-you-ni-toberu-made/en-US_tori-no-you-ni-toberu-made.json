@@ -1,5 +1,9 @@
 {
     "title": "Tori no You ni Toberu Made",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/233058.jpg",
+        "alt": "tori-no-you-ni-toberu-made"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

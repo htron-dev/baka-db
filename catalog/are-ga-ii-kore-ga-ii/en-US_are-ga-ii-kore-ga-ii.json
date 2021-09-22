@@ -1,5 +1,9 @@
 {
     "title": "Are ga Ii Kore ga Ii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202104.jpg",
+        "alt": "are-ga-ii-kore-ga-ii"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

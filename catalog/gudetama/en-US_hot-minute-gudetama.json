@@ -1,5 +1,9 @@
 {
     "title": "Hot Minute: Gudetama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/77725.jpg",
+        "alt": "hot-minute-gudetama"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ぐでたま",

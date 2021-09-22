@@ -1,5 +1,9 @@
 {
     "title": "Sultan ni Ubawarete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/182499.jpg",
+        "alt": "sultan-ni-ubawarete"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Sasameki Koto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/217658.jpg",
+        "alt": "sasameki-koto"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "55",

@@ -1,5 +1,9 @@
 {
     "title": "Fairy Tail Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171669.jpg",
+        "alt": "fairy-tail-gaiden"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "52",

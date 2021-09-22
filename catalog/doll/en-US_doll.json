@@ -1,5 +1,9 @@
 {
     "title": "Doll",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152341.jpg",
+        "alt": "doll"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

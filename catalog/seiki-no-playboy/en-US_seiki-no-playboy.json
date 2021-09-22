@@ -1,5 +1,9 @@
 {
     "title": "Seiki no Playboy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170097.jpg",
+        "alt": "seiki-no-playboy"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "世紀のプレイボーイ",

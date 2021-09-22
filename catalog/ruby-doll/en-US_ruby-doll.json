@@ -1,5 +1,9 @@
 {
     "title": "Ruby Doll",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16974.jpg",
+        "alt": "ruby-doll"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "16",

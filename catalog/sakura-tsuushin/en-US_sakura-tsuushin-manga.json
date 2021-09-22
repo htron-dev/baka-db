@@ -1,5 +1,9 @@
 {
     "title": "Sakura Tsuushin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/53521.jpg",
+        "alt": "sakura-tsuushin"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "223",

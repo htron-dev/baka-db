@@ -1,5 +1,9 @@
 {
     "title": "Pineapple Army",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35200.jpg",
+        "alt": "pineapple-army"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "パイナップル ARMY",

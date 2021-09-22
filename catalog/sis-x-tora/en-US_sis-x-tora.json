@@ -1,5 +1,9 @@
 {
     "title": "Sis x Tora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153690.jpg",
+        "alt": "sis-x-tora"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "25",

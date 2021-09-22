@@ -1,5 +1,9 @@
 {
     "title": "Higurashi no Naku Koro ni Rei: Saikoroshi-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/135109.jpg",
+        "alt": "higurashi-no-naku-koro-ni-rei-saikoroshi-hen"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ひぐらしのなく頃に礼 ～賽殺し編～",

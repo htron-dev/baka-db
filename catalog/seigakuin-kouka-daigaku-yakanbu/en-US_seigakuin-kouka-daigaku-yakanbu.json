@@ -1,5 +1,9 @@
 {
     "title": "Seigakuin Kouka Daigaku Yakanbu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151667.jpg",
+        "alt": "seigakuin-kouka-daigaku-yakanbu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "星学院工科大学 夜間部",

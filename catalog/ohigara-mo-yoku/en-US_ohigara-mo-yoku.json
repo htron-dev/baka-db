@@ -1,5 +1,9 @@
 {
     "title": "Ohigara mo Yoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226893.jpg",
+        "alt": "ohigara-mo-yoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

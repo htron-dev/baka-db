@@ -1,5 +1,9 @@
 {
     "title": "Xiao Wan Pi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1996/115506.jpg",
+        "alt": "xiao-wan-pi"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "小玩皮",

@@ -1,5 +1,9 @@
 {
     "title": "Shaman King Kanzenban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/143909.jpg",
+        "alt": "shaman-king-kanzenban"
+    },
     "type": "manga",
     "chapters": "33",
     "original_name": "Shaman King シャーマンキング 完全版",

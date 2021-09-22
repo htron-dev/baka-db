@@ -1,5 +1,9 @@
 {
     "title": "Itsumo Utsukushii Anata to",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246744.jpg",
+        "alt": "itsumo-utsukushii-anata-to"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

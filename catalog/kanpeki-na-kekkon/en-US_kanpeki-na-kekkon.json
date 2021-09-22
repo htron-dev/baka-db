@@ -1,5 +1,9 @@
 {
     "title": "Kanpeki na Kekkon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247024.jpg",
+        "alt": "kanpeki-na-kekkon"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "完璧な結婚",

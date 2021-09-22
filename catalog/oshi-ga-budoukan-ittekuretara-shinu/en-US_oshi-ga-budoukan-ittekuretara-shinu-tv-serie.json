@@ -1,12 +1,16 @@
 {
     "title": "Oshi ga Budoukan Ittekuretara Shinu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1139/104708.jpg",
+        "alt": "oshi-ga-budoukan-ittekuretara-shinu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "推しが武道館いってくれたら死ぬ",
     "start_date": "2020-01-10",
     "end_date": "2020-01-10",
     "opening_song": "\"Clover wish\" by ChamJam",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Momoiro Kataomoi (♡ 桃色片想い ♡)\" by Eripiyo (Ai Fairouz) (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

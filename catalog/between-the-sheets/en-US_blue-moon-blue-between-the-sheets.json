@@ -1,5 +1,9 @@
 {
     "title": "Blue Moon, Blue: Between the Sheets",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223609.jpg",
+        "alt": "blue-moon-blue-between-the-sheets"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

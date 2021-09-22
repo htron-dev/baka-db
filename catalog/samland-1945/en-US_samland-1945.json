@@ -1,5 +1,9 @@
 {
     "title": "Samland 1945",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/131923.jpg",
+        "alt": "samland-1945"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ザームラント 1945",

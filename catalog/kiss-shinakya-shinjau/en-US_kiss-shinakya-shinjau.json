@@ -1,5 +1,9 @@
 {
     "title": "Kiss Shinakya Shinjau!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/98123.jpg",
+        "alt": "kiss-shinakya-shinjau"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

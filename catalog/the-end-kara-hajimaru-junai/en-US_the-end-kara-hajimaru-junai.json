@@ -1,5 +1,9 @@
 {
     "title": "The End kara Hajimaru Junai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/242741.jpg",
+        "alt": "the-end-kara-hajimaru-junai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Minasama no Omocha desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/201454.jpg",
+        "alt": "minasama-no-omocha-desu"
+    },
     "type": "manga",
     "original_name": "皆様の玩具です",
     "start_date": "2017-06-05",

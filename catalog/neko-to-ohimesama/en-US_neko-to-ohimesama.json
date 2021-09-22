@@ -1,5 +1,9 @@
 {
     "title": "Neko to Ohimesama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/129289.jpg",
+        "alt": "neko-to-ohimesama"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ねことお姫さま",

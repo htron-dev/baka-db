@@ -1,5 +1,9 @@
 {
     "title": "Chameko no Ichinichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/14604.jpg",
+        "alt": "chameko-no-ichinichi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "茶目子の一日",

@@ -1,5 +1,9 @@
 {
     "title": "MF Ghost",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/205248.jpg",
+        "alt": "mf-ghost"
+    },
     "type": "manga",
     "original_name": "MF ゴースト",
     "start_date": "2017-09-04",

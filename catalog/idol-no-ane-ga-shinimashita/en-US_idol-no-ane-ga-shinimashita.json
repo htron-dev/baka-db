@@ -1,5 +1,9 @@
 {
     "title": "Idol no Ane ga Shinimashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224449.jpg",
+        "alt": "idol-no-ane-ga-shinimashita"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

@@ -1,5 +1,9 @@
 {
     "title": "Asoko no Project",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151406.jpg",
+        "alt": "asoko-no-project"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "アソコのプロジェクト",

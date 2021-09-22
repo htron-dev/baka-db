@@ -1,5 +1,9 @@
 {
     "title": "Dangerous Share",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20856.jpg",
+        "alt": "dangerous-share"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "DANGEROUS シェア",

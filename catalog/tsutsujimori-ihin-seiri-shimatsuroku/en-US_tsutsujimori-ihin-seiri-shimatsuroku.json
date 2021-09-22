@@ -1,5 +1,9 @@
 {
     "title": "Tsutsujimori: Ihin Seiri Shimatsuroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201406.jpg",
+        "alt": "tsutsujimori-ihin-seiri-shimatsuroku"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

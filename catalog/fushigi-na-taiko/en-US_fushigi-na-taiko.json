@@ -1,5 +1,9 @@
 {
     "title": "Fushigi na Taiko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/71998.jpg",
+        "alt": "fushigi-na-taiko"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ふしぎな太鼓",

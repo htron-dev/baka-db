@@ -1,5 +1,9 @@
 {
     "title": "Hyakko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/21685.jpg",
+        "alt": "hyakko"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ヒャッコ",

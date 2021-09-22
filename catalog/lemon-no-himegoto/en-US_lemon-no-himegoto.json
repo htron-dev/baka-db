@@ -1,5 +1,9 @@
 {
     "title": "Lemon no Himegoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152395.jpg",
+        "alt": "lemon-no-himegoto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

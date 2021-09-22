@@ -1,5 +1,9 @@
 {
     "title": "Harukaze no Étranger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173314.jpg",
+        "alt": "harukaze-no-etranger"
+    },
     "type": "manga",
     "original_name": "春風のエトランゼ",
     "start_date": "2014-07-25",

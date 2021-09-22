@@ -1,5 +1,9 @@
 {
     "title": "Fantasy da yo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/12195.jpg",
+        "alt": "fantasy-da-yo"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ファンタジーだよ!",

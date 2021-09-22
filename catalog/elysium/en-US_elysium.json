@@ -1,5 +1,9 @@
 {
     "title": "Elysium",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1670/112247.jpg",
+        "alt": "elysium"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "엘리시움",

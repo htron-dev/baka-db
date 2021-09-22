@@ -1,5 +1,9 @@
 {
     "title": "Daisuki! Nendomama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/70829.jpg",
+        "alt": "daisuki-nendomama"
+    },
     "type": "tv-serie",
     "episodes": "9",
     "original_name": "大好き！ねんどママ",

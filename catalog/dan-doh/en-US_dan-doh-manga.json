@@ -1,5 +1,9 @@
 {
     "title": "Dan Doh!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/9681.jpg",
+        "alt": "dan-doh"
+    },
     "type": "manga",
     "volumes": "29",
     "original_name": "ダンドー",

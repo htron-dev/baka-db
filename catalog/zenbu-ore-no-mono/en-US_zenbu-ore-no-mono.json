@@ -1,5 +1,9 @@
 {
     "title": "Zenbu Ore no Mono!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/135839.jpg",
+        "alt": "zenbu-ore-no-mono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

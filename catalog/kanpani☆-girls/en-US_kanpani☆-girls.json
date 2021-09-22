@@ -1,5 +1,9 @@
 {
     "title": "Kanpani☆Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/154676.jpg",
+        "alt": "kanpani☆-girls"
+    },
     "type": "light-novel",
     "original_name": "かんぱに ☆ ガールズ",
     "start_date": "2015-04-30",

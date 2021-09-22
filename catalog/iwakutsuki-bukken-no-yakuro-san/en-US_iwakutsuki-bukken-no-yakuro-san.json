@@ -1,5 +1,9 @@
 {
     "title": "Iwakutsuki Bukken no Yakuro-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/229314.jpg",
+        "alt": "iwakutsuki-bukken-no-yakuro-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "19",

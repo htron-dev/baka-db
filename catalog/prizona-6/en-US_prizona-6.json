@@ -1,5 +1,9 @@
 {
     "title": "Prizona6",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/100221.jpg",
+        "alt": "prizona-6"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

@@ -1,5 +1,9 @@
 {
     "title": "Washizu: Tenka Sousei Touhairoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/169039.jpg",
+        "alt": "washizu-tenka-sousei-touhairoku"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

@@ -1,5 +1,9 @@
 {
     "title": "Finger Stinger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18006.jpg",
+        "alt": "finger-stinger"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

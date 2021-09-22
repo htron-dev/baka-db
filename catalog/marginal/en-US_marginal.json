@@ -1,5 +1,9 @@
 {
     "title": "Marginal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171376.jpg",
+        "alt": "marginal"
+    },
     "type": "light-novel",
     "volumes": "6",
     "chapters": "26",

@@ -1,5 +1,9 @@
 {
     "title": "Gunsmith Cats",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/2769.jpg",
+        "alt": "gunsmith-cats"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "ガンスミス キャッツ",

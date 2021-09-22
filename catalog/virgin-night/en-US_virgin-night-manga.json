@@ -1,5 +1,9 @@
 {
     "title": "Virgin Night",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/3808.jpg",
+        "alt": "virgin-night"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

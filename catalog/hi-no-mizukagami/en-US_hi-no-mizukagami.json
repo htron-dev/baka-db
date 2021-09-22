@@ -1,5 +1,9 @@
 {
     "title": "Hi no Mizukagami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/178558.jpg",
+        "alt": "hi-no-mizukagami"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "9",

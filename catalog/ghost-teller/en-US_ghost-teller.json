@@ -1,5 +1,9 @@
 {
     "title": "Ghost Teller",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237076.jpg",
+        "alt": "ghost-teller"
+    },
     "type": "manhwa",
     "original_name": "귀전구담",
     "start_date": "2017-04-02",

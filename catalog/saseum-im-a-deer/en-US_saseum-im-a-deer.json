@@ -1,5 +1,9 @@
 {
     "title": "Saseum, I'm a Deer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/7740.jpg",
+        "alt": "saseum-im-a-deer"
+    },
     "type": "manhwa",
     "volumes": "6",
     "original_name": "나는 사슴이다",

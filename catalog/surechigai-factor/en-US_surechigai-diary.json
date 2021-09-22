@@ -1,5 +1,9 @@
 {
     "title": "Surechigai Diary",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/234920.jpg",
+        "alt": "surechigai-diary"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "すれ違いダイアリー",

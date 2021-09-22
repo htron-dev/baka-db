@@ -1,5 +1,9 @@
 {
     "title": "Yume no Naka de Kimi wo Sagashite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210502.jpg",
+        "alt": "yume-no-naka-de-kimi-wo-sagashite"
+    },
     "type": "manga",
     "original_name": "夢の中で君を探して",
     "start_date": "2018-01-18",

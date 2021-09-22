@@ -1,5 +1,9 @@
 {
     "title": "Dragon's Dogma Progress",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159548.jpg",
+        "alt": "dragons-dogma-progress"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

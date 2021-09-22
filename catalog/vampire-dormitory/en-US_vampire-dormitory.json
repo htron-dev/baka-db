@@ -1,5 +1,9 @@
 {
     "title": "Vampire Dormitory",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/220675.jpg",
+        "alt": "vampire-dormitory"
+    },
     "type": "manga",
     "original_name": "ヴァンパイア男子寮〈ドミトリー〉",
     "start_date": "2018-10-02",

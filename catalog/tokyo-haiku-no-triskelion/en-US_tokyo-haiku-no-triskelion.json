@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Haiku no Triskelion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/184361.jpg",
+        "alt": "tokyo-haiku-no-triskelion"
+    },
     "type": "light-novel",
     "original_name": "東京廃区の戦女三師団〈 トリスケリオン〉",
     "start_date": "2016-10-20",

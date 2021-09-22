@@ -1,5 +1,9 @@
 {
     "title": "Amon Saga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1240/114477.jpg",
+        "alt": "amon-saga"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "アモン・サーガ",

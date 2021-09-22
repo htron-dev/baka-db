@@ -1,5 +1,9 @@
 {
     "title": "Tasogare no Kaseifu-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/91377.jpg",
+        "alt": "tasogare-no-kaseifu-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

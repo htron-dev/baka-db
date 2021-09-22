@@ -1,5 +1,9 @@
 {
     "title": "Donketsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234190.jpg",
+        "alt": "donketsu"
+    },
     "type": "manga",
     "volumes": "28",
     "chapters": "182",

@@ -1,5 +1,9 @@
 {
     "title": "GJ-bu Chuutoubu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/206036.jpg",
+        "alt": "gj-bu-chuutoubu"
+    },
     "type": "light-novel",
     "volumes": "8",
     "chapters": "288",

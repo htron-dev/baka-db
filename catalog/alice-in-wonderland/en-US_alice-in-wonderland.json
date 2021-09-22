@@ -1,5 +1,9 @@
 {
     "title": "Alice in Wonderland",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159267.jpg",
+        "alt": "alice-in-wonderland"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

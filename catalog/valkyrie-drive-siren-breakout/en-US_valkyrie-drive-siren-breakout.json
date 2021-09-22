@@ -1,5 +1,9 @@
 {
     "title": "Valkyrie Drive: Siren - Breakout",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186051.jpg",
+        "alt": "valkyrie-drive-siren-breakout"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

@@ -1,11 +1,15 @@
 {
     "title": "Ginga Eiyuu Densetsu: Waga Yuku wa Hoshi no Taikai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/51345.jpg",
+        "alt": "ginga-eiyuu-densetsu-waga-yuku-wa-hoshi-no-taikai"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "銀河英雄伝説",
+    "original_name": "銀河英雄伝説: わが征くは星の大海",
     "start_date": "1988-02-06",
-    "opening_song": "\"Symphony No. 3",
-    "ending_song": "\"Symphony No. 3",
+    "opening_song": "\"Symphony No. 3: I. Kräftig entschieden\" by Gustav Mahler",
+    "ending_song": "\"Symphony No. 3: VI. Langsam. Ruhevoll. Empfunden.\" by Gustav Mahler",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

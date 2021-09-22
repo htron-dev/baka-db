@@ -1,5 +1,9 @@
 {
     "title": "Di[e]ce",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172705.jpg",
+        "alt": "di-e-ce"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "43",

@@ -1,5 +1,9 @@
 {
     "title": "Kuroi Hitsuji wa Mayowanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35557.jpg",
+        "alt": "kuroi-hitsuji-wa-mayowanai"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "黒い羊は迷わない",

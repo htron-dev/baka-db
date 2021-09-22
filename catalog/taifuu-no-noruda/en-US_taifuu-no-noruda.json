@@ -1,5 +1,9 @@
 {
     "title": "Taifuu no Noruda",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/73450.jpg",
+        "alt": "taifuu-no-noruda"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "台風のノルダ",

@@ -1,5 +1,9 @@
 {
     "title": "B Rappers Street",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/233599.jpg",
+        "alt": "b-rappers-street"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "Bubblegum Crisis Tokyo 2040",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1699/92414.jpg",
+        "alt": "bubblegum-crisis-tokyo-2040"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "バブルガムクライシス TOKYO2040",

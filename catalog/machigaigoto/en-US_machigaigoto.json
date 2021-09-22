@@ -1,5 +1,9 @@
 {
     "title": "Machigaigoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/206069.jpg",
+        "alt": "machigaigoto"
+    },
     "type": "manga",
     "original_name": "まちがいごと",
     "start_date": "2017-01-25",

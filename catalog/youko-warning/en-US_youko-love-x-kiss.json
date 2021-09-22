@@ -1,5 +1,9 @@
 {
     "title": "Youko + Love x Kiss!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227073.jpg",
+        "alt": "youko-love-x-kiss"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "12",

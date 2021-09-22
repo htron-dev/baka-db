@@ -1,5 +1,9 @@
 {
     "title": "Back Street Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188817.jpg",
+        "alt": "back-street-girls"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "144",

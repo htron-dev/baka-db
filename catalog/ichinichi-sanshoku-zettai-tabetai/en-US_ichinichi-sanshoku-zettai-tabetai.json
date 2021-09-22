@@ -1,5 +1,9 @@
 {
     "title": "Ichinichi Sanshoku Zettai Tabetai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228162.jpg",
+        "alt": "ichinichi-sanshoku-zettai-tabetai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

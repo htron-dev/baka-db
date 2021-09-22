@@ -1,5 +1,9 @@
 {
     "title": "Honnouteki ni Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2795.jpg",
+        "alt": "honnouteki-ni-otoko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

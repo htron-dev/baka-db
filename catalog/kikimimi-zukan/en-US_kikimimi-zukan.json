@@ -1,5 +1,9 @@
 {
     "title": "Kikimimi Zukan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/113881.jpg",
+        "alt": "kikimimi-zukan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

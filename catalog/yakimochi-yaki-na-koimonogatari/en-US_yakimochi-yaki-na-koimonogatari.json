@@ -1,5 +1,9 @@
 {
     "title": "Yakimochi Yaki na Koimonogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/84227.jpg",
+        "alt": "yakimochi-yaki-na-koimonogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

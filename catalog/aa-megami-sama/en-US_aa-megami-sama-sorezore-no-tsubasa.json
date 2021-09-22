@@ -1,12 +1,16 @@
 {
     "title": "Aa! Megami-sama!: Sorezore no Tsubasa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/78931.jpg",
+        "alt": "aa-megami-sama-sorezore-no-tsubasa"
+    },
     "type": "tv-serie",
     "episodes": "22",
     "original_name": "ああっ女神さまっ　それぞれの翼",
     "start_date": "2006-04-07",
     "end_date": "2006-04-07",
     "opening_song": "\"Shiawase no Iro (幸せのいろ; Color of Happiness)\" by Yoko Ishida",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Bokura no Kiseki (僕らのキセキ; Our Miracle)\" by Yoko Ishida (eps 01-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

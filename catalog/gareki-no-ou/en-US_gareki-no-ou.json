@@ -1,5 +1,9 @@
 {
     "title": "Gareki no Ou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/15991.jpg",
+        "alt": "gareki-no-ou"
+    },
     "type": "manga",
     "original_name": "ガレキの王",
     "start_date": "2006-01-20",

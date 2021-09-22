@@ -1,5 +1,9 @@
 {
     "title": "Yatte Yaru Konya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2600.jpg",
+        "alt": "yatte-yaru-konya"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

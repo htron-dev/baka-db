@@ -1,5 +1,9 @@
 {
     "title": "China no Tori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/38081.jpg",
+        "alt": "china-no-tori"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "中国の鳥",

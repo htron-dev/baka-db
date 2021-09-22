@@ -1,5 +1,9 @@
 {
     "title": "Kokoro ni Devil",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/189503.jpg",
+        "alt": "kokoro-ni-devil"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

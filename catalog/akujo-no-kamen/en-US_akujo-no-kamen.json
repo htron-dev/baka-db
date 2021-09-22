@@ -1,5 +1,9 @@
 {
     "title": "Akujo no Kamen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/232068.jpg",
+        "alt": "akujo-no-kamen"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "悪女の仮面",

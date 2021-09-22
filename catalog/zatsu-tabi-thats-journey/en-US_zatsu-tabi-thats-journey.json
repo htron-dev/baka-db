@@ -1,5 +1,9 @@
 {
     "title": "Zatsu Tabi: That's Journey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226320.jpg",
+        "alt": "zatsu-tabi-thats-journey"
+    },
     "type": "manga",
     "original_name": "ざつ旅-That's Journey-",
     "start_date": "2019-03-27",

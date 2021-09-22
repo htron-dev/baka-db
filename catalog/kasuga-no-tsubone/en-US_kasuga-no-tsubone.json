@@ -1,5 +1,9 @@
 {
     "title": "Kasuga no Tsubone",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18052.jpg",
+        "alt": "kasuga-no-tsubone"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "春日局",

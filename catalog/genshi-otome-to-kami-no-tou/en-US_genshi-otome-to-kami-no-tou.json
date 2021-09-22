@@ -1,5 +1,9 @@
 {
     "title": "Genshi Otome to Kami no Tou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165720.jpg",
+        "alt": "genshi-otome-to-kami-no-tou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

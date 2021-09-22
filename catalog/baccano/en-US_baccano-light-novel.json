@@ -1,5 +1,9 @@
 {
     "title": "Baccano!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172736.jpg",
+        "alt": "baccano"
+    },
     "type": "light-novel",
     "original_name": "バッカーノ!",
     "start_date": "2003-02-10",

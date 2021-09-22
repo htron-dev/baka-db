@@ -1,5 +1,9 @@
 {
     "title": "Kamio Yui wa Kami wo Yui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/219773.jpg",
+        "alt": "kamio-yui-wa-kami-wo-yui"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "36",

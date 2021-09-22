@@ -1,5 +1,9 @@
 {
     "title": "Kimi ni Gyokusai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163340.jpg",
+        "alt": "kimi-ni-gyokusai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

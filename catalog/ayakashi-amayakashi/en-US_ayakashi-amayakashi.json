@@ -1,5 +1,9 @@
 {
     "title": "Ayakashi, Amayakashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247657.jpg",
+        "alt": "ayakashi-amayakashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

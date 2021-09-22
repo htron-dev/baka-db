@@ -1,12 +1,16 @@
 {
     "title": "Yamada-kun to 7-nin no Majo (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/73700.jpg",
+        "alt": "yamada-kun-to-7-nin-no-majo-tv"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "山田くんと 7 人の魔女",
     "start_date": "2015-04-12",
     "end_date": "2015-04-12",
     "opening_song": "\"Kuchizuke Diamond (くちづけ Diamond)\" by WEAVER (eps 1-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"CANDY MAGIC\" by MimimemeMIMI (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "harem",

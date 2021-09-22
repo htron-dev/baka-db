@@ -1,5 +1,9 @@
 {
     "title": "Me to Te de Kanjitai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173684.jpg",
+        "alt": "me-to-te-de-kanjitai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

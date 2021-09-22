@@ -1,5 +1,9 @@
 {
     "title": "Tsubame no Hasami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222910.jpg",
+        "alt": "tsubame-no-hasami"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

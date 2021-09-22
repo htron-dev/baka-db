@@ -1,5 +1,9 @@
 {
     "title": "Vampire Doll: Guilt-na-Zan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156528.jpg",
+        "alt": "vampire-doll-guilt-na-zan"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "49",

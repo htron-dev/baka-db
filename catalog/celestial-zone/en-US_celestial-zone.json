@@ -1,5 +1,9 @@
 {
     "title": "Celestial Zone",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16075.jpg",
+        "alt": "celestial-zone"
+    },
     "type": "manga",
     "volumes": "25",
     "original_name": "天界無限",

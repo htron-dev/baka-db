@@ -1,5 +1,9 @@
 {
     "title": "Nanashi wa Ittai Dare deshou?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/107513.jpg",
+        "alt": "nanashi-wa-ittai-dare-deshou"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "24",

@@ -1,5 +1,9 @@
 {
     "title": "IS: Infinite Stratos",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/57473.jpg",
+        "alt": "is-infinite-stratos"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "26",

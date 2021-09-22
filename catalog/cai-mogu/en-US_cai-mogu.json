@@ -1,5 +1,9 @@
 {
     "title": "Cai Mogu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1964/115467.jpg",
+        "alt": "cai-mogu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "采蘑菇",

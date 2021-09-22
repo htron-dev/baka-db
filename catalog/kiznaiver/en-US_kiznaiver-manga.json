@@ -1,5 +1,9 @@
 {
     "title": "Kiznaiver",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192335.jpg",
+        "alt": "kiznaiver"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Monster Collection: Majuu Tsukai no Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151862.jpg",
+        "alt": "monster-collection-majuu-tsukai-no-shoujo"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "33",

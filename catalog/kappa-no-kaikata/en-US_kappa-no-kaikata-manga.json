@@ -1,5 +1,9 @@
 {
     "title": "Kappa no Kaikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195632.jpg",
+        "alt": "kappa-no-kaikata"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "371",

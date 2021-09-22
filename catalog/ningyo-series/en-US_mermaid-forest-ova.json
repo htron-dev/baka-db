@@ -1,11 +1,15 @@
 {
     "title": "Mermaid Forest OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/55075.jpg",
+        "alt": "mermaid-forest-ova"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "人魚の森",
     "start_date": "1991-08-16",
     "opening_song": "\"Drift Of Time\" by Junko Hirotani",
-    "ending_song": "\"Mori o Nukete",
+    "ending_song": "\"Mori o Nukete: Born to Love You (森をぬけて-Born to love you)\" by Eri Fukatsu",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "mystery",

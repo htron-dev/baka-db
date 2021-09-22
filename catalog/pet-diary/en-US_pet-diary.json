@@ -1,5 +1,9 @@
 {
     "title": "Pet Diary",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/73541.jpg",
+        "alt": "pet-diary"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "44",

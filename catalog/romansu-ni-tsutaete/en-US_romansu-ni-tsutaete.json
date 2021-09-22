@@ -1,5 +1,9 @@
 {
     "title": "Romansu ni Tsutaete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13528.jpg",
+        "alt": "romansu-ni-tsutaete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

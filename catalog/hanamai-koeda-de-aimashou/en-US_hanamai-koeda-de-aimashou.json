@@ -1,5 +1,9 @@
 {
     "title": "Hanamai Koeda de Aimashou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/117411.jpg",
+        "alt": "hanamai-koeda-de-aimashou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

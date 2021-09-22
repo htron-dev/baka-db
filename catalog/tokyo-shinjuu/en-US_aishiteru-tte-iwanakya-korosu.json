@@ -1,5 +1,9 @@
 {
     "title": "Aishiteru tte Iwanakya Korosu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/89601.jpg",
+        "alt": "aishiteru-tte-iwanakya-korosu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

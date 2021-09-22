@@ -1,5 +1,9 @@
 {
     "title": "Bakutsuri Bar Hunter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1043/94347.jpg",
+        "alt": "bakutsuri-bar-hunter"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "爆釣バーハンター",

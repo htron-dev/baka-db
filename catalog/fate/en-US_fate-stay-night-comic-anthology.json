@@ -1,5 +1,9 @@
 {
     "title": "Fate/stay night: Comic Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/113151.jpg",
+        "alt": "fate-stay-night-comic-anthology"
+    },
     "type": "manga",
     "volumes": "21",
     "original_name": "Fate/stay night コミックアンソロジー",

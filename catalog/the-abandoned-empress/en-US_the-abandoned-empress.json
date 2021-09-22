@@ -1,5 +1,9 @@
 {
     "title": "The Abandoned Empress",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222278.jpg",
+        "alt": "the-abandoned-empress"
+    },
     "type": "manhwa",
     "original_name": "버림 받은 황비",
     "start_date": "2017-06-11",

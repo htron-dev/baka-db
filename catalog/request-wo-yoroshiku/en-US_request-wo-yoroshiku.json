@@ -1,5 +1,9 @@
 {
     "title": "Request wo Yoroshiku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170247.jpg",
+        "alt": "request-wo-yoroshiku"
+    },
     "type": "manga",
     "original_name": "リクエストをよろしく",
     "start_date": "2014-09-08",

@@ -1,5 +1,9 @@
 {
     "title": "Gemini",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235660.jpg",
+        "alt": "gemini"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "GEMINI",

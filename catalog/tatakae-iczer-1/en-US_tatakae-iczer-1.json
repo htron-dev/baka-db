@@ -1,11 +1,15 @@
 {
     "title": "Tatakae!! Iczer-1",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/52121.jpg",
+        "alt": "tatakae-iczer-1"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "戦え!! イクサー 1",
     "start_date": "1985-10-19",
     "end_date": "1985-10-19",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Fight!! Iczer-1\" by Miki Kakizawa (ep 1)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

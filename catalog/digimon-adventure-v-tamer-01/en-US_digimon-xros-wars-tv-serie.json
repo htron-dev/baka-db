@@ -1,5 +1,9 @@
 {
     "title": "Digimon Xros Wars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/24495.jpg",
+        "alt": "digimon-xros-wars"
+    },
     "type": "tv-serie",
     "episodes": "30",
     "original_name": "デジモンクロスウォーズ",

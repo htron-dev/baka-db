@@ -1,5 +1,9 @@
 {
     "title": "Kurogane Pukapuka-tai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/78925.jpg",
+        "alt": "kurogane-pukapuka-tai"
+    },
     "type": "manga",
     "original_name": "黒鉄ぷかぷか隊",
     "start_date": "2006-06-20",

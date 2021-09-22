@@ -1,5 +1,9 @@
 {
     "title": "Honey 2 Skip",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/4994.jpg",
+        "alt": "honey-2-skip"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

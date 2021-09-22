@@ -1,5 +1,9 @@
 {
     "title": "Kojirase Hyakki Do Minor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215333.jpg",
+        "alt": "kojirase-hyakki-do-minor"
+    },
     "type": "manga",
     "original_name": "こじらせ百鬼ドマイナー",
     "start_date": "2018-05-02",

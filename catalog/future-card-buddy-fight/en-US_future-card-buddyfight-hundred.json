@@ -1,12 +1,16 @@
 {
     "title": "Future Card Buddyfight Hundred",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/74881.jpg",
+        "alt": "future-card-buddyfight-hundred"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "フューチャーカード バディファイト 100",
     "start_date": "2015-04-11",
     "end_date": "2015-04-11",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Luminize\" by fripSide (eps 1-21)",
+    "ending_song": "#1: \"Buddy Lights\" by Tasuku Ryuuenji (Soma Saito)",
     "rating": "PG - Children",
     "tags": [
         "game"

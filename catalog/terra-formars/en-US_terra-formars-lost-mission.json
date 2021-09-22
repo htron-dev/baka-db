@@ -1,5 +1,9 @@
 {
     "title": "Terra Formars: Lost Mission",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/136733.jpg",
+        "alt": "terra-formars-lost-mission"
+    },
     "type": "light-novel",
     "original_name": "テラフォーマーズ LOST MISSION",
     "start_date": "2014-08-20",

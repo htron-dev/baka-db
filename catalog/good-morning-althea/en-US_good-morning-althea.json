@@ -1,5 +1,9 @@
 {
     "title": "Good Morning Althea",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/54605.jpg",
+        "alt": "good-morning-althea"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "グッドモーニング・アルテア",

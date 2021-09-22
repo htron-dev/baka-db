@@ -1,5 +1,9 @@
 {
     "title": "Ane Kare wa Oresama Otoko: Mitsukoi Rhapsody",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195481.jpg",
+        "alt": "ane-kare-wa-oresama-otoko-mitsukoi-rhapsody"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

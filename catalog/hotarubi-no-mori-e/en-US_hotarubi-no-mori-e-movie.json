@@ -1,5 +1,9 @@
 {
     "title": "Hotarubi no Mori e",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1599/112267.jpg",
+        "alt": "hotarubi-no-mori-e"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "蛍火の杜へ",

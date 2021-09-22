@@ -1,5 +1,9 @@
 {
     "title": "Kinoko Inu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/136725.jpg",
+        "alt": "kinoko-inu"
+    },
     "type": "manga",
     "original_name": "きのこいぬ",
     "start_date": "2010-07-17",

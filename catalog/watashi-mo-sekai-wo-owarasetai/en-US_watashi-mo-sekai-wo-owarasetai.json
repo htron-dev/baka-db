@@ -1,5 +1,9 @@
 {
     "title": "Watashi mo Sekai wo Owarasetai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/141069.jpg",
+        "alt": "watashi-mo-sekai-wo-owarasetai"
+    },
     "type": "manga",
     "original_name": "私も世界を終わらせたい",
     "start_date": "2014-02-07",

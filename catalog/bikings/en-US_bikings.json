@@ -1,5 +1,9 @@
 {
     "title": "Bikings",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35326.jpg",
+        "alt": "bikings"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "31",

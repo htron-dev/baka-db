@@ -1,5 +1,9 @@
 {
     "title": "Ohayou Hakushon Daimaou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1849/94636.jpg",
+        "alt": "ohayou-hakushon-daimaou"
+    },
     "type": "tv-serie",
     "episodes": "237",
     "original_name": "おはようハクション大魔王",

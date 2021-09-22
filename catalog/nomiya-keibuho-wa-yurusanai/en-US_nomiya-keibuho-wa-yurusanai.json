@@ -1,5 +1,9 @@
 {
     "title": "Nomiya Keibuho wa Yurusanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223312.jpg",
+        "alt": "nomiya-keibuho-wa-yurusanai"
+    },
     "type": "manga",
     "original_name": "野宮警部補は許さない",
     "start_date": "2018-10-08",

@@ -1,5 +1,9 @@
 {
     "title": "Chuchun ga Chun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/130129.jpg",
+        "alt": "chuchun-ga-chun"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

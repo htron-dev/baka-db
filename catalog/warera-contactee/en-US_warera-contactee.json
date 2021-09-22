@@ -1,5 +1,9 @@
 {
     "title": "Warera Contactee",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203662.jpg",
+        "alt": "warera-contactee"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

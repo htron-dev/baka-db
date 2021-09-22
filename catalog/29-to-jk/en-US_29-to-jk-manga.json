@@ -1,5 +1,9 @@
 {
     "title": "29 to JK",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206829.jpg",
+        "alt": "29-to-jk"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "29",

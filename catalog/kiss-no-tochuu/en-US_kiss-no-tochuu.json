@@ -1,5 +1,9 @@
 {
     "title": "Kiss no Tochuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31458.jpg",
+        "alt": "kiss-no-tochuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

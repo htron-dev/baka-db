@@ -1,5 +1,9 @@
 {
     "title": "Osekisho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/85241.jpg",
+        "alt": "osekisho"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "お関所",

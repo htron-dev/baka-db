@@ -1,5 +1,9 @@
 {
     "title": "Ometeotl Hero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1129/106226.jpg",
+        "alt": "ometeotl-hero"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "オメテオトル ≠HERO",

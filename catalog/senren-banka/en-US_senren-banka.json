@@ -1,5 +1,9 @@
 {
     "title": "Senren\\*Banka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196558.jpg",
+        "alt": "senren-banka"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

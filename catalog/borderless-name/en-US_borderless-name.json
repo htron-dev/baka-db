@@ -1,5 +1,9 @@
 {
     "title": "Borderless Name",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/248751.jpg",
+        "alt": "borderless-name"
+    },
     "type": "manga",
     "original_name": "ボーダレスネーム",
     "start_date": "2021-04-23",

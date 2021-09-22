@@ -1,5 +1,9 @@
 {
     "title": "Sayounara, Utsukushii Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/51543.jpg",
+        "alt": "sayounara-utsukushii-hito"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "さようなら、美しい人",

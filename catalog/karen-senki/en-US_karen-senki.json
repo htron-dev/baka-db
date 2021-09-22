@@ -1,11 +1,15 @@
 {
     "title": "Karen Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/66677.jpg",
+        "alt": "karen-senki"
+    },
     "type": "ona",
     "episodes": "11",
     "original_name": "夏恋戦機",
     "start_date": "2014-09-27",
     "end_date": "2014-09-27",
-    "ending_song": "\"Ai wo Sagashite",
+    "ending_song": "\"Ai wo Sagashite: In Search of Lost Love (愛を探して -In Search of Lost Love-)\" by Onibara",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Watashi wa S ni Sakaraenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226085.jpg",
+        "alt": "watashi-wa-s-ni-sakaraenai"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "32",

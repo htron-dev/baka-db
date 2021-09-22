@@ -1,5 +1,9 @@
 {
     "title": "Fushigi no Maria-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/22611.jpg",
+        "alt": "fushigi-no-maria-kun"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

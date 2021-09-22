@@ -1,5 +1,9 @@
 {
     "title": "Kono Hiroi Sekai ni Futari Bocchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163222.jpg",
+        "alt": "kono-hiroi-sekai-ni-futari-bocchi"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "17",

@@ -1,5 +1,9 @@
 {
     "title": "Shining @ Your Fingertip",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/34362.jpg",
+        "alt": "shining-your-fingertip"
+    },
     "type": "manhwa",
     "original_name": "손끝에서 빛나다",
     "tags": [

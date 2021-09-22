@@ -1,5 +1,9 @@
 {
     "title": "Himitsukessha Taka no Tsume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/82755.jpg",
+        "alt": "himitsukessha-taka-no-tsume"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "秘密結社 鷹の爪",
@@ -27,7 +31,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Eagle_Talon_(anime"
+            "link": "http://en.wikipedia.org/wiki/Eagle_Talon_%28anime%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Sasayaka na Fukushuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/69869.jpg",
+        "alt": "sasayaka-na-fukushuu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ささやかな復讐",

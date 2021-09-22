@@ -1,5 +1,9 @@
 {
     "title": "Koko wa Green Wood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175789.jpg",
+        "alt": "koko-wa-green-wood"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "71",

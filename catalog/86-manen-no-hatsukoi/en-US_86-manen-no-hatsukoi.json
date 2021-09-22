@@ -1,5 +1,9 @@
 {
     "title": "86-manen no Hatsukoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246712.jpg",
+        "alt": "86-manen-no-hatsukoi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

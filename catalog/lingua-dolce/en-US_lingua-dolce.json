@@ -1,5 +1,9 @@
 {
     "title": "Lingua Dolce!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236224.jpg",
+        "alt": "lingua-dolce"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

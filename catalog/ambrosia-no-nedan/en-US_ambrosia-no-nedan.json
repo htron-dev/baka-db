@@ -1,5 +1,9 @@
 {
     "title": "Ambrosia no Nedan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/187134.jpg",
+        "alt": "ambrosia-no-nedan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

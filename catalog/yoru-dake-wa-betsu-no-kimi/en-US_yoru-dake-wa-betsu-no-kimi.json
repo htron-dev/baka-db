@@ -1,5 +1,9 @@
 {
     "title": "Yoru dake wa Betsu no Kimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6145.jpg",
+        "alt": "yoru-dake-wa-betsu-no-kimi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "夜だけは別の君",

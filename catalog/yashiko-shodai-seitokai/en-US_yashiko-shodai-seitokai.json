@@ -1,5 +1,9 @@
 {
     "title": "Yashiko Shodai Seitokai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/51849.jpg",
+        "alt": "yashiko-shodai-seitokai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

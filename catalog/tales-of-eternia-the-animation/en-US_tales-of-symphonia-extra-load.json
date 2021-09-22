@@ -1,5 +1,9 @@
 {
     "title": "Tales of Symphonia: Extra Load",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10971.jpg",
+        "alt": "tales-of-symphonia-extra-load"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

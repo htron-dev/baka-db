@@ -1,5 +1,9 @@
 {
     "title": "Dokuyaku to Otome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161815.jpg",
+        "alt": "dokuyaku-to-otome"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

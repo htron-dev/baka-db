@@ -1,5 +1,9 @@
 {
     "title": "Toy Joy Pop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161748.jpg",
+        "alt": "toy-joy-pop"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "11",

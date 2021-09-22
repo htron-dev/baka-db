@@ -1,5 +1,9 @@
 {
     "title": "Mobile Suit Gundam AGE: Second Evolution",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/77065.jpg",
+        "alt": "mobile-suit-gundam-age-second-evolution"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

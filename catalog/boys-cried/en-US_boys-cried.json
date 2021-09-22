@@ -1,5 +1,9 @@
 {
     "title": "Boys Cried",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22773.jpg",
+        "alt": "boys-cried"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

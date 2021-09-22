@@ -1,5 +1,9 @@
 {
     "title": "Puku Puku Tennen Kairanban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/183880.jpg",
+        "alt": "puku-puku-tennen-kairanban"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "ぷくぷく天然かいらんばん",

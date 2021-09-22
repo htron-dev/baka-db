@@ -1,5 +1,9 @@
 {
     "title": "Trouble-H",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/35649.jpg",
+        "alt": "trouble-h"
+    },
     "type": "manga",
     "chapters": "1",
     "original_name": "とらぶるえっち",
@@ -11,7 +15,6 @@
         "Mikokuno",
         "Homare (Story & Art)"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

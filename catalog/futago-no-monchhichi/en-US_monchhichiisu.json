@@ -1,5 +1,9 @@
 {
     "title": "Monchhichiisu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/77037.jpg",
+        "alt": "monchhichiisu"
+    },
     "type": "tv-serie",
     "episodes": "20",
     "original_name": "もんちっちーず",

@@ -1,5 +1,9 @@
 {
     "title": "Ookami wa Mahou wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/91239.jpg",
+        "alt": "ookami-wa-mahou-wo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

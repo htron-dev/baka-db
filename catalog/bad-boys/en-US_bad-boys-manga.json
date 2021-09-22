@@ -1,5 +1,9 @@
 {
     "title": "Bad Boys",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196275.jpg",
+        "alt": "bad-boys"
+    },
     "type": "manga",
     "volumes": "22",
     "chapters": "169",

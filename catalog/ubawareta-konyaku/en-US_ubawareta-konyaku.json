@@ -1,5 +1,9 @@
 {
     "title": "Ubawareta Konyaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181168.jpg",
+        "alt": "ubawareta-konyaku"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "12",

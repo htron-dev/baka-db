@@ -1,12 +1,16 @@
 {
     "title": "Fate/stay night: Unlimited Blade Works 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/72863.jpg",
+        "alt": "fate-stay-night-unlimited-blade-works-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "Fate/stay night [Unlimited Blade Works] 2nd シーズン",
     "start_date": "2015-04-05",
     "end_date": "2015-04-05",
     "opening_song": "\"Brave Shine\" by Aimer (eps 1-7, 9-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"ring your bell\" by Kalafina (eps 1-2, 4-12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

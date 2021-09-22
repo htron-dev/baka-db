@@ -1,5 +1,9 @@
 {
     "title": "Otogi no Sekai Ryokou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/47157.jpg",
+        "alt": "otogi-no-sekai-ryokou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "おとぎの世界旅行",

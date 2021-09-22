@@ -1,5 +1,9 @@
 {
     "title": "Suki desu, Zenbu Kudasai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194184.jpg",
+        "alt": "suki-desu-zenbu-kudasai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

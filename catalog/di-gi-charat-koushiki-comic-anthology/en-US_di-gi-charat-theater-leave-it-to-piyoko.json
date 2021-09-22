@@ -1,5 +1,9 @@
 {
     "title": "Di Gi Charat Theater: Leave it To Piyoko!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15073.jpg",
+        "alt": "di-gi-charat-theater-leave-it-to-piyoko"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "30",

@@ -1,9 +1,13 @@
 {
     "title": "23:45",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/169395.jpg",
+        "alt": "23-45"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",
-    "original_name": "23",
+    "original_name": "23:45",
     "start_date": "2014-06-30",
     "end_date": "2014-06-30",
     "tags": [

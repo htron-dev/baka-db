@@ -1,5 +1,9 @@
 {
     "title": "Landmark",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/71874.jpg",
+        "alt": "landmark"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "landmark",

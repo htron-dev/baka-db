@@ -1,5 +1,9 @@
 {
     "title": "Zense wa Ryuu no Tsugai Datta you desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173893.jpg",
+        "alt": "zense-wa-ryuu-no-tsugai-datta-you-desu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "前世は龍のツガイだったようです。",

@@ -1,5 +1,9 @@
 {
     "title": "Escaflowne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/67095.jpg",
+        "alt": "escaflowne"
+    },
     "type": "light-novel",
     "volumes": "6",
     "original_name": "天空のエスカフローネ",

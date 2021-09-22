@@ -1,5 +1,9 @@
 {
     "title": "Barista",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210402.jpg",
+        "alt": "barista"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "89",

@@ -1,5 +1,9 @@
 {
     "title": "Shippuu Karen Jinrai Komusume!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10200.jpg",
+        "alt": "shippuu-karen-jinrai-komusume"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "しっぷうかれんじんらいこむすめ!",

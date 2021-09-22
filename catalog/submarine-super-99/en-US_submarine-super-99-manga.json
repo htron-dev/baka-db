@@ -1,5 +1,9 @@
 {
     "title": "Submarine Super 99",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36915.jpg",
+        "alt": "submarine-super-99"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "潜水艦スーパー 99",

@@ -1,5 +1,9 @@
 {
     "title": "Onnanoko ga H na Manga Egaicha Dame desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/89615.jpg",
+        "alt": "onnanoko-ga-h-na-manga-egaicha-dame-desu-ka"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

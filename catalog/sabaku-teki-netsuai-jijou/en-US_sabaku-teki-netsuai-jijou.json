@@ -1,5 +1,9 @@
 {
     "title": "Sabaku-teki Netsuai Jijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/19865.jpg",
+        "alt": "sabaku-teki-netsuai-jijou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

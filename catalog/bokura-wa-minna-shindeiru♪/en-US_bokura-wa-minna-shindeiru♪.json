@@ -1,5 +1,9 @@
 {
     "title": "Bokura wa Minna Shindeiru♪",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185994.jpg",
+        "alt": "bokura-wa-minna-shindeiru♪"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "55",

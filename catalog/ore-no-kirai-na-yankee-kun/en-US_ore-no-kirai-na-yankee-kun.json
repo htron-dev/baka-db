@@ -1,5 +1,9 @@
 {
     "title": "Ore no Kirai na Yankee-kun.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/220825.jpg",
+        "alt": "ore-no-kirai-na-yankee-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

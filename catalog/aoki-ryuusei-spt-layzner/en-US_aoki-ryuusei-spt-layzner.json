@@ -1,12 +1,16 @@
 {
     "title": "Aoki Ryuusei SPT Layzner",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1106/91083.jpg",
+        "alt": "aoki-ryuusei-spt-layzner"
+    },
     "type": "tv-serie",
     "episodes": "38",
     "original_name": "蒼き流星 SPT レイズナー",
     "start_date": "1985-10-03",
     "end_date": "1985-10-03",
     "opening_song": "\"Melos no You ni —Lonely Way— (メロスのように —LONELY WAY—)\" by Airmail from Nagasaki",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Go-Fun Dake no Wagamama (5 分だけのわがまま, Just 5 Minutes of Selfishness)\" by Seiko Tomizawa (eps 1-25)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "space",

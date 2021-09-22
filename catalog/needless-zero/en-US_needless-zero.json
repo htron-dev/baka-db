@@ -1,5 +1,9 @@
 {
     "title": "Needless Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/91805.jpg",
+        "alt": "needless-zero"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

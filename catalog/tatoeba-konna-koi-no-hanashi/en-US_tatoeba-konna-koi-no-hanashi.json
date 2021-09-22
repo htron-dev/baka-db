@@ -1,5 +1,9 @@
 {
     "title": "Tatoeba Konna Koi no Hanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/201803.jpg",
+        "alt": "tatoeba-konna-koi-no-hanashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

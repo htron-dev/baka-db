@@ -1,5 +1,9 @@
 {
     "title": "007 Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190570.jpg",
+        "alt": "007-series"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "007 シリーズ",

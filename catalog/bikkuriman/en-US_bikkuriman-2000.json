@@ -1,11 +1,15 @@
 {
     "title": "Bikkuriman 2000",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1477/96439.jpg",
+        "alt": "bikkuriman-2000"
+    },
     "type": "tv-serie",
     "episodes": "68",
     "original_name": "ビックリマン 2000",
     "start_date": "1999-11-01",
     "end_date": "1999-11-01",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Saa Ikou! (さあ行こう!)\" by Shigeru Matsuzaki (eps 1-53)",
     "rating": "G - All Ages",
     "tags": [
         "adventure",

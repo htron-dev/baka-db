@@ -1,5 +1,9 @@
 {
     "title": "Fuusen Inu Tinny",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/66013.jpg",
+        "alt": "fuusen-inu-tinny"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ふうせんいぬティニー",

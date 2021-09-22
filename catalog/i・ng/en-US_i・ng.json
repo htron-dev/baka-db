@@ -1,5 +1,9 @@
 {
     "title": "I・NG",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25883.jpg",
+        "alt": "i・ng"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

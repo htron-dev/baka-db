@@ -1,5 +1,9 @@
 {
     "title": "Renai Paradox",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207276.jpg",
+        "alt": "renai-paradox"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Run=Dim",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/5469.jpg",
+        "alt": "run-dim"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "RUN=DIM (ランディム)",

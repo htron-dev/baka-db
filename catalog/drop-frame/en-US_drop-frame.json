@@ -1,5 +1,9 @@
 {
     "title": "Drop Frame",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161648.jpg",
+        "alt": "drop-frame"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

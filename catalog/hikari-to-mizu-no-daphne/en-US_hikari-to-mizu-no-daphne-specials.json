@@ -1,12 +1,16 @@
 {
     "title": "Hikari to Mizu no Daphne Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/44073.jpg",
+        "alt": "hikari-to-mizu-no-daphne-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "光と水のダフネ",
     "start_date": "2004-04-23",
     "end_date": "2004-04-23",
     "opening_song": "\"Asu no Blue Wing\" (明日の Blue wing) by Sae",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Anata to Iu Toki\" (あなたと言う時間) by CooRie (eps 1-16, 25)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Photokano: Penta Prism Memories",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/123985.jpg",
+        "alt": "photokano-penta-prism-memories"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "11",

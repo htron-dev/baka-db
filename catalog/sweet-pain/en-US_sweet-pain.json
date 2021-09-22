@@ -1,5 +1,9 @@
 {
     "title": "Sweet Pain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/232456.jpg",
+        "alt": "sweet-pain"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

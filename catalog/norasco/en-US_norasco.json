@@ -1,5 +1,9 @@
 {
     "title": "Norasco",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/74573.jpg",
+        "alt": "norasco"
+    },
     "type": "ona",
     "original_name": "野良スコ",
     "start_date": "2013-10-11",

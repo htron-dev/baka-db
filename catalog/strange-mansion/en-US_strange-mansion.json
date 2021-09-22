@@ -1,5 +1,9 @@
 {
     "title": "Strange Mansion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/16842.jpg",
+        "alt": "strange-mansion"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

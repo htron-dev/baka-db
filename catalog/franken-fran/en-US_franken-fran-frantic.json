@@ -1,5 +1,9 @@
 {
     "title": "Franken Fran Frantic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221106.jpg",
+        "alt": "franken-fran-frantic"
+    },
     "type": "manga",
     "original_name": "フランケン・ふらん Frantic",
     "start_date": "2019-02-19",

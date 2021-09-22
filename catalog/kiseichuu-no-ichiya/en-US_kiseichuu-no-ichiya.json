@@ -1,5 +1,9 @@
 {
     "title": "Kiseichuu no Ichiya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/64693.jpg",
+        "alt": "kiseichuu-no-ichiya"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "寄生虫の一夜",

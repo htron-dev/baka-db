@@ -1,5 +1,9 @@
 {
     "title": "Shin Mazinger Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152912.jpg",
+        "alt": "shin-mazinger-zero"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "43",

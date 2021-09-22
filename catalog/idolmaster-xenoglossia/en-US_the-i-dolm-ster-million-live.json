@@ -1,5 +1,9 @@
 {
     "title": "The iDOLM@STER Million Live!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/183369.jpg",
+        "alt": "the-i-dolm-ster-million-live"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "26",

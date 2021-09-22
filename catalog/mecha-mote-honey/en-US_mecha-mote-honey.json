@@ -1,5 +1,9 @@
 {
     "title": "Mecha Mote Honey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10005.jpg",
+        "alt": "mecha-mote-honey"
+    },
     "type": "manga",
     "volumes": "3",
     "tags": [

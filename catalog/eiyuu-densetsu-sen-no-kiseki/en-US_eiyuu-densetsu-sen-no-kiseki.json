@@ -1,5 +1,9 @@
 {
     "title": "Eiyuu Densetsu: Sen no Kiseki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170645.jpg",
+        "alt": "eiyuu-densetsu-sen-no-kiseki"
+    },
     "type": "manga",
     "original_name": "英雄伝説 閃の軌跡",
     "start_date": "2014-09-30",

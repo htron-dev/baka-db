@@ -1,5 +1,9 @@
 {
     "title": "Blossom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/37105.jpg",
+        "alt": "blossom"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "BLOSSOM",

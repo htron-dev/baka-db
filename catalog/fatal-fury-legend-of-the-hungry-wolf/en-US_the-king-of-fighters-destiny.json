@@ -1,5 +1,9 @@
 {
     "title": "The King of Fighters: Destiny",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1238/110960.jpg",
+        "alt": "the-king-of-fighters-destiny"
+    },
     "type": "ona",
     "episodes": "24",
     "original_name": "拳皇命运",

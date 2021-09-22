@@ -1,5 +1,9 @@
 {
     "title": "K: Countdown",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163579.jpg",
+        "alt": "k-countdown"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

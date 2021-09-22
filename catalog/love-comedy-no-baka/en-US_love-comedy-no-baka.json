@@ -1,5 +1,9 @@
 {
     "title": "Love Comedy no Baka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167023.jpg",
+        "alt": "love-comedy-no-baka"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

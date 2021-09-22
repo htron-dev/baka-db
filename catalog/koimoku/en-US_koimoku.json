@@ -1,5 +1,9 @@
 {
     "title": "Koimoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/48997.jpg",
+        "alt": "koimoku"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "20",

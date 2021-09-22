@@ -1,5 +1,9 @@
 {
     "title": "Shinmai Maou no Testament",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/105683.jpg",
+        "alt": "shinmai-maou-no-testament"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "46",

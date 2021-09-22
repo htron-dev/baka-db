@@ -1,5 +1,9 @@
 {
     "title": "Fuusen no Doratarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/77385.jpg",
+        "alt": "fuusen-no-doratarou"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "フーセンのドラ太郎",

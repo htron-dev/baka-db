@@ -1,5 +1,9 @@
 {
     "title": "Gin no Jeek",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32250.jpg",
+        "alt": "gin-no-jeek"
+    },
     "type": "manga",
     "volumes": "20",
     "original_name": "銀のジーク",

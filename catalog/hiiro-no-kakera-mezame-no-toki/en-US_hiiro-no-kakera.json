@@ -1,5 +1,9 @@
 {
     "title": "Hiiro no Kakera",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/36925.jpg",
+        "alt": "hiiro-no-kakera"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "緋色の欠片",

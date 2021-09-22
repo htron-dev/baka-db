@@ -1,11 +1,15 @@
 {
     "title": "Genshiken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1890/94707.jpg",
+        "alt": "genshiken"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "げんしけん",
     "start_date": "2004-10-10",
     "end_date": "2004-10-10",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Kujibiki Unbalance (くじびきアンバランス)\" by UNDER17 (ep 1)",
     "ending_song": "\"Biidama (びいだま)\" by Saori Atsumi",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

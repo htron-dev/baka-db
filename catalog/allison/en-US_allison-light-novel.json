@@ -1,5 +1,9 @@
 {
     "title": "Allison",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/64119.jpg",
+        "alt": "allison"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "30",

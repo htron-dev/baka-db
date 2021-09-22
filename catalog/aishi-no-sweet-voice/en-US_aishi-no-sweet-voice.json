@@ -1,5 +1,9 @@
 {
     "title": "Aishi no Sweet Voice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/17952.jpg",
+        "alt": "aishi-no-sweet-voice"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

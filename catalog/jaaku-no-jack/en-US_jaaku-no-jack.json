@@ -1,5 +1,9 @@
 {
     "title": "Jaaku no Jack",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37938.jpg",
+        "alt": "jaaku-no-jack"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

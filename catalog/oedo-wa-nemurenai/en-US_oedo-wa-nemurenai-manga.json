@@ -1,5 +1,9 @@
 {
     "title": "Oedo wa Nemurenai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/88191.jpg",
+        "alt": "oedo-wa-nemurenai"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "32",

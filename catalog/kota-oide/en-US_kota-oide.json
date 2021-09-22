@@ -1,5 +1,9 @@
 {
     "title": "Kota Oide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224825.jpg",
+        "alt": "kota-oide"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "38",

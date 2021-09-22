@@ -1,5 +1,9 @@
 {
     "title": "Kemono Friends: Bus-teki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/86031.jpg",
+        "alt": "kemono-friends-bus-teki"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "けものフレンズ　 12.1 話「ばすてき」",

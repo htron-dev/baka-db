@@ -1,5 +1,9 @@
 {
     "title": "Kusattemo Ani.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236433.jpg",
+        "alt": "kusattemo-ani"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

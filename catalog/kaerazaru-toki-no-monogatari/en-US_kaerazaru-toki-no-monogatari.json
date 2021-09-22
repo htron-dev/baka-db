@@ -1,5 +1,9 @@
 {
     "title": "Kaerazaru Toki no Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/133385.jpg",
+        "alt": "kaerazaru-toki-no-monogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "24",

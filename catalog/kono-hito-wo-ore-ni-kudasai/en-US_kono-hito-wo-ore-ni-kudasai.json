@@ -1,5 +1,9 @@
 {
     "title": "Kono Hito wo Ore ni Kudasai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/90567.jpg",
+        "alt": "kono-hito-wo-ore-ni-kudasai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

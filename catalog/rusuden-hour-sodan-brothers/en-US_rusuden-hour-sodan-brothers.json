@@ -1,5 +1,9 @@
 {
     "title": "Rusuden Hour: Sodan Brothers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/72155.jpg",
+        "alt": "rusuden-hour-sodan-brothers"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "留守電アワー SODAN ブラザーズ",

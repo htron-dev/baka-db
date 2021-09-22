@@ -1,5 +1,9 @@
 {
     "title": "Samenai Machi no Kissaten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/220103.jpg",
+        "alt": "samenai-machi-no-kissaten"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "40",

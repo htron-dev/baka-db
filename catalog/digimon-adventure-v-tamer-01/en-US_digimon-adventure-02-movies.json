@@ -1,5 +1,9 @@
 {
     "title": "Digimon Adventure 02 Movies",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/82960.jpg",
+        "alt": "digimon-adventure-02-movies"
+    },
     "type": "movie",
     "episodes": "2",
     "original_name": "映画 デジモンアドベンチャー０２",

@@ -1,5 +1,9 @@
 {
     "title": "MapleStory Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/68281.jpg",
+        "alt": "maple-story-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "メイプルストーリー",

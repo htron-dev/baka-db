@@ -1,5 +1,9 @@
 {
     "title": "Akai Kizuna Blood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32790.jpg",
+        "alt": "akai-kizuna-blood"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "赤い絆 Blood",

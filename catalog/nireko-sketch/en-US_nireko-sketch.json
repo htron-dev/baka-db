@@ -1,5 +1,9 @@
 {
     "title": "Nireko Sketch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204232.jpg",
+        "alt": "nireko-sketch"
+    },
     "type": "manga",
     "original_name": "にれこスケッチ",
     "start_date": "2015-09-08",

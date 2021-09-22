@@ -1,5 +1,9 @@
 {
     "title": "Maoyuu Maou Yuusha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/45197.jpg",
+        "alt": "maoyuu-maou-yuusha"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "63",

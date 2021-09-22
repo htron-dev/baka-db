@@ -1,5 +1,9 @@
 {
     "title": "Robot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/3128.jpg",
+        "alt": "robot"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "村田蓮爾責任編集 「robot」",

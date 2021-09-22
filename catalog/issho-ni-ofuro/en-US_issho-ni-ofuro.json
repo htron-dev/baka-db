@@ -1,5 +1,9 @@
 {
     "title": "Issho ni Ofuro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171801.jpg",
+        "alt": "issho-ni-ofuro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Yarashii Hirusagari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33036.jpg",
+        "alt": "yarashii-hirusagari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

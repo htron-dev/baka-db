@@ -1,5 +1,9 @@
 {
     "title": "Hakoniwa Oukoku no Craft Master",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202965.jpg",
+        "alt": "hakoniwa-oukoku-no-craft-master"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "36",

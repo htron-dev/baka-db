@@ -1,5 +1,9 @@
 {
     "title": "Inuwashi Momo wa Yuruganai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196390.jpg",
+        "alt": "inuwashi-momo-wa-yuruganai"
+    },
     "type": "manga",
     "original_name": "犬鷲百桃はゆるがない",
     "start_date": "2016-10-28",

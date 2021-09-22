@@ -1,5 +1,9 @@
 {
     "title": "Boku no Shoukibo na Seikatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/63097.jpg",
+        "alt": "boku-no-shoukibo-na-seikatsu"
+    },
     "type": "manga",
     "original_name": "僕の小規模な生活",
     "tags": [

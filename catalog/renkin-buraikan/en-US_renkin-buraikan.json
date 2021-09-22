@@ -1,5 +1,9 @@
 {
     "title": "Renkin Buraikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236458.jpg",
+        "alt": "renkin-buraikan"
+    },
     "type": "manga",
     "original_name": "錬金ブライカン",
     "start_date": "2020-06-01",

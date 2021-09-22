@@ -1,5 +1,9 @@
 {
     "title": "Seinen to Yajuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/240014.jpg",
+        "alt": "seinen-to-yajuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

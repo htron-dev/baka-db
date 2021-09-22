@@ -1,5 +1,9 @@
 {
     "title": "Haneru! Rental Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/213233.jpg",
+        "alt": "haneru-rental-shoujo"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "はねる!レンタル少女",

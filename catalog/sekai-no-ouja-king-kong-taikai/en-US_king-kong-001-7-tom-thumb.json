@@ -1,5 +1,9 @@
 {
     "title": "King Kong: 001/7 Tom Thumb",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/53395.jpg",
+        "alt": "king-kong-001-7-tom-thumb"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "キングコング・001/7 親指トム",

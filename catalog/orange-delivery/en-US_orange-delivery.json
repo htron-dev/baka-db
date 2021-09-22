@@ -1,5 +1,9 @@
 {
     "title": "Orange Delivery",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201167.jpg",
+        "alt": "orange-delivery"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

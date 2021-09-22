@@ -1,5 +1,9 @@
 {
     "title": "Prison Bear",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/63759.jpg",
+        "alt": "prison-bear"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "くまのけいむしょ",

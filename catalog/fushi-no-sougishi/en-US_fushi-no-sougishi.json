@@ -1,5 +1,9 @@
 {
     "title": "Fushi no Sougishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226167.jpg",
+        "alt": "fushi-no-sougishi"
+    },
     "type": "manga",
     "original_name": "不死の葬儀師",
     "start_date": "2017-12-30",

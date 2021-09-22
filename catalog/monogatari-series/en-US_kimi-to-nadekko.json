@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Nadekko!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/114245.jpg",
+        "alt": "kimi-to-nadekko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

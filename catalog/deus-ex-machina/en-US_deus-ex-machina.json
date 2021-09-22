@@ -1,5 +1,9 @@
 {
     "title": "Deus Ex machina",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/120389.jpg",
+        "alt": "deus-ex-machina"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "27",

@@ -1,5 +1,9 @@
 {
     "title": "Pretty in Blue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/4555.jpg",
+        "alt": "pretty-in-blue"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

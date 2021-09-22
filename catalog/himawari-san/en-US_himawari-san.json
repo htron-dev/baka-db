@@ -1,5 +1,9 @@
 {
     "title": "Himawari-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167463.jpg",
+        "alt": "himawari-san"
+    },
     "type": "manga",
     "original_name": "ひまわりさん",
     "start_date": "2009-08-27",

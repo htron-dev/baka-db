@@ -1,5 +1,9 @@
 {
     "title": "Duel Masters Zero: Tokubetsu-hen - Tamashii Shoukan Special!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1533/105295.jpg",
+        "alt": "duel-masters-zero-tokubetsu-hen-tamashii-shoukan-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "デュエル・マスターズ ゼロ 特別篇 魂召喚スペシャル！",
@@ -28,7 +32,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%A5%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA_(%E6%BC%AB%E7%94%BB"
+            "link": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%A5%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA_%28%E6%BC%AB%E7%94%BB%29#.E3.83.87.E3.83.A5.E3.82.A8.E3.83.AB.E3.83.BB.E3.83.9E.E3.82.B9.E3.82.BF.E3.83.BC.E3.82.BA_.E3.82.BC.E3.83.AD"
         }
     ]
 }

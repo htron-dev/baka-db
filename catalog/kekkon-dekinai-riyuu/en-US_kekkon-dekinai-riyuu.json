@@ -1,5 +1,9 @@
 {
     "title": "Kekkon Dekinai Riyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247148.jpg",
+        "alt": "kekkon-dekinai-riyuu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "結婚できない理由",

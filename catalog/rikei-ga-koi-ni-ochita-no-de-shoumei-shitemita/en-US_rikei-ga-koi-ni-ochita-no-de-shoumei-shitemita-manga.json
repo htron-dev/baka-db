@@ -1,5 +1,9 @@
 {
     "title": "Rikei ga Koi ni Ochita no de Shoumei shitemita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185347.jpg",
+        "alt": "rikei-ga-koi-ni-ochita-no-de-shoumei-shitemita"
+    },
     "type": "manga",
     "original_name": "理系が恋に落ちたので証明してみた。",
     "start_date": "2016-03-16",

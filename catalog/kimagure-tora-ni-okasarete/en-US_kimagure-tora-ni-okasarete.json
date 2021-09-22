@@ -1,5 +1,9 @@
 {
     "title": "Kimagure Tora ni Okasarete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/63923.jpg",
+        "alt": "kimagure-tora-ni-okasarete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

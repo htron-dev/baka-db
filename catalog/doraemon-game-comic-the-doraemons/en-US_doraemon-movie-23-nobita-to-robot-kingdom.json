@@ -1,5 +1,9 @@
 {
     "title": "Doraemon Movie 23: Nobita to Robot Kingdom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/72428.jpg",
+        "alt": "doraemon-movie-23-nobita-to-robot-kingdom"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "映画 ドラえもん のび太とロボット王国[キングダム]",

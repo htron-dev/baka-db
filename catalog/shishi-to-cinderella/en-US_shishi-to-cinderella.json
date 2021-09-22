@@ -1,5 +1,9 @@
 {
     "title": "Shishi to Cinderella",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/66899.jpg",
+        "alt": "shishi-to-cinderella"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "獅子とシンデレラ",

@@ -1,5 +1,9 @@
 {
     "title": "Toaru Majutsu no Index-tan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/26651.jpg",
+        "alt": "toaru-majutsu-no-index-tan"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "とある魔術のいんでっくすたん",

@@ -1,5 +1,9 @@
 {
     "title": "Doushiyoumo Nai Keredo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6252.jpg",
+        "alt": "doushiyoumo-nai-keredo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

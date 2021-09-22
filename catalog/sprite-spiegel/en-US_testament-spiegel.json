@@ -1,5 +1,9 @@
 {
     "title": "Testament Spiegel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156958.jpg",
+        "alt": "testament-spiegel"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "17",

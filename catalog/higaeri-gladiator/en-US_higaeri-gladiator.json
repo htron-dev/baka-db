@@ -1,5 +1,9 @@
 {
     "title": "Higaeri Gladiator",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190193.jpg",
+        "alt": "higaeri-gladiator"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ひがえりグラディエーター",

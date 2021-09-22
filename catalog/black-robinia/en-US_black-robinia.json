@@ -1,5 +1,9 @@
 {
     "title": "Black Robinia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/87001.jpg",
+        "alt": "black-robinia"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

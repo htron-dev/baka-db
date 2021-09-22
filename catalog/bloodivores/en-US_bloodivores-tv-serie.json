@@ -1,5 +1,9 @@
 {
     "title": "Bloodivores",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/82233.jpg",
+        "alt": "bloodivores"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "BLOODIVORES",

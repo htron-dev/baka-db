@@ -1,5 +1,9 @@
 {
     "title": "Hoshi wa Utau",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168887.jpg",
+        "alt": "hoshi-wa-utau"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "66",

@@ -1,5 +1,9 @@
 {
     "title": "Atsui ze Pen-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186075.jpg",
+        "alt": "atsui-ze-pen-chan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "21",

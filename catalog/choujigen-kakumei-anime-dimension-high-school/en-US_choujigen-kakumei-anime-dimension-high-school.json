@@ -1,11 +1,15 @@
 {
     "title": "Choujigen Kakumei Anime: Dimension High School",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1620/113392.jpg",
+        "alt": "choujigen-kakumei-anime-dimension-high-school"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "超次元革命アニメ Dimension ハイスクール",
     "start_date": "2019-01-10",
     "end_date": "2019-01-10",
-    "opening_song": "\"Here we go!\" by 4 Dimensions [Junpei Shiroyama (ACT",
+    "opening_song": "\"Here we go!\" by 4 Dimensions [Junpei Shiroyama (ACT: Takahide Ishii), Ryuusei Midorigaoka (ACT: Takeo Ootsuka), Yurio Minakami (ACT: Shouhei Hashimoto), Tsuyoshi Kikawada (ACT: Takuma Zaiki)]",
     "ending_song": "\"My Home\" by SAMURAI TUNES",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

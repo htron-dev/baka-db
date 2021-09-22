@@ -1,12 +1,16 @@
 {
     "title": "Fushigiboshi no☆Futagohime Gyu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/49919.jpg",
+        "alt": "fushigiboshi-no☆-futagohime-gyu"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "ふしぎ星の ☆ ふたご姫",
     "start_date": "2006-04-01",
     "end_date": "2006-04-01",
     "opening_song": "\"Kimi no Ashita\" by FLIP-FLAP",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Gakuen Heaven (学園天国)\" by Wonder ☆ 5 (eps 1-26)",
     "rating": "G - All Ages",
     "tags": [
         "magic",

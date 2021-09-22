@@ -1,5 +1,9 @@
 {
     "title": "Venus no Kamiyui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11317.jpg",
+        "alt": "venus-no-kamiyui"
+    },
     "type": "manga",
     "volumes": "2",
     "tags": [

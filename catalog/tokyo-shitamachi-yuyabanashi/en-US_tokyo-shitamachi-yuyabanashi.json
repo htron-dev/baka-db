@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Shitamachi Yuyabanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/217300.jpg",
+        "alt": "tokyo-shitamachi-yuyabanashi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "東京下町湯屋話",

@@ -1,12 +1,16 @@
 {
     "title": "Rinne no Lagrange",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/50439.jpg",
+        "alt": "rinne-no-lagrange"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "輪廻のラグランジェ",
     "start_date": "2012-01-08",
     "end_date": "2012-01-08",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"TRY Unite!\" by Megumi Nakajima (eps 1-11)",
+    "ending_song": "#1: \"Hello!\" by Megumi Nakajima (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

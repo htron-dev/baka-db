@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Dungeon Master",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200908.jpg",
+        "alt": "tokyo-dungeon-master"
+    },
     "type": "light-novel",
     "original_name": "東京ダンジョンマスター",
     "start_date": "2017-09-30",

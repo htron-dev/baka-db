@@ -1,5 +1,9 @@
 {
     "title": "Isekai Ryouri Battle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169646.jpg",
+        "alt": "isekai-ryouri-battle"
+    },
     "type": "light-novel",
     "original_name": "異世界料理バトル",
     "start_date": "2015-12-25",

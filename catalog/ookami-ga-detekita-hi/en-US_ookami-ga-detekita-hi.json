@@ -1,5 +1,9 @@
 {
     "title": "Ookami ga Detekita Hi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/138935.jpg",
+        "alt": "ookami-ga-detekita-hi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "オオカミが出てきた日",

@@ -1,5 +1,9 @@
 {
     "title": "Cheburashka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/25871.jpg",
+        "alt": "cheburashka"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "チェブラーシカ",

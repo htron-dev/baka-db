@@ -1,12 +1,16 @@
 {
     "title": "Ai Shoujo Pollyanna Story",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/71674.jpg",
+        "alt": "ai-shoujo-pollyanna-story"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "愛少女ポリアンナ物語",
     "start_date": "1986-01-05",
     "end_date": "1986-01-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Shiawase Carnival (し・あ・わ・せ カーニバル)\" by Yuuki Kudou (eps 01-27)",
+    "ending_song": "#1: \"Ai ni Naritai (愛になりたい)\" by Yuuki Kudou (eps 1-27)",
     "rating": "G - All Ages",
     "tags": [
         "drama",

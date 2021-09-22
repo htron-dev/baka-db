@@ -1,5 +1,9 @@
 {
     "title": "Kimagure Orange☆Road",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156252.jpg",
+        "alt": "kimagure-orange☆-road"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "156",

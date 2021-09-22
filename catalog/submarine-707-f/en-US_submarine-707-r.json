@@ -1,12 +1,16 @@
 {
     "title": "Submarine 707R",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/24891.jpg",
+        "alt": "submarine-707-r"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "サブマリン 707R",
     "start_date": "2003-09-26",
     "end_date": "2003-09-26",
     "opening_song": "\"Kioku no Umi (記憶の海)\" by Yutaka Minobe",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ichiban Boshi (いちばんぼし)\" by Yumi Sudou",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

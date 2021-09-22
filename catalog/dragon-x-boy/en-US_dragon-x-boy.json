@@ -1,5 +1,9 @@
 {
     "title": "Dragon x Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32054.jpg",
+        "alt": "dragon-x-boy"
+    },
     "type": "manga",
     "chapters": "1",
     "tags": [

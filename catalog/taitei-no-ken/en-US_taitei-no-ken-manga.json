@@ -1,5 +1,9 @@
 {
     "title": "Taitei no Ken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154797.jpg",
+        "alt": "taitei-no-ken"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "大帝の剣",

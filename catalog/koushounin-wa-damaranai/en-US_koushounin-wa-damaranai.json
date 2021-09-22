@@ -1,5 +1,9 @@
 {
     "title": "Koushounin wa Damaranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/38458.jpg",
+        "alt": "koushounin-wa-damaranai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "交渉人は黙らない",

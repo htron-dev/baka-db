@@ -1,5 +1,9 @@
 {
     "title": "Dohyou no Oni-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/47145.jpg",
+        "alt": "dohyou-no-oni-tachi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "土俵の鬼たち",

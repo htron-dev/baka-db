@@ -1,5 +1,9 @@
 {
     "title": "Symmetrys",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164740.jpg",
+        "alt": "symmetrys"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

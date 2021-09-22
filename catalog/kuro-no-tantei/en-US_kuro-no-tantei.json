@@ -1,5 +1,9 @@
 {
     "title": "Kuro no Tantei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158493.jpg",
+        "alt": "kuro-no-tantei"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "30",

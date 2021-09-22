@@ -1,5 +1,9 @@
 {
     "title": "Gachagacha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/143255.jpg",
+        "alt": "gachagacha"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "97",

@@ -1,5 +1,9 @@
 {
     "title": "Saiunkoku Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181389.jpg",
+        "alt": "saiunkoku-monogatari"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "44",

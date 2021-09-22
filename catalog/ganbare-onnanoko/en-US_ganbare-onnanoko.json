@@ -1,5 +1,9 @@
 {
     "title": "Ganbare!! Onnanoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33270.jpg",
+        "alt": "ganbare-onnanoko"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "がんばれ!!女の子",

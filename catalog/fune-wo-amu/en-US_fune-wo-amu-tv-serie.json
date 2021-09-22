@@ -1,5 +1,9 @@
 {
     "title": "Fune wo Amu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/81624.jpg",
+        "alt": "fune-wo-amu"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "舟を編む",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/The_Great_Passage_(anime"
+            "link": "https://en.wikipedia.org/wiki/The_Great_Passage_%28anime%29"
         }
     ]
 }

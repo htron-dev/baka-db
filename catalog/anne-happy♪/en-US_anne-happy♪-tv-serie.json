@@ -1,5 +1,9 @@
 {
     "title": "Anne Happy♪",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/78701.jpg",
+        "alt": "anne-happy♪"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "あんハピ ♪",

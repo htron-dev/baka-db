@@ -1,5 +1,9 @@
 {
     "title": "H+P -HimePara-",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/52217.jpg",
+        "alt": "h-p-hime-para"
+    },
     "type": "light-novel",
     "volumes": "13",
     "chapters": "110",

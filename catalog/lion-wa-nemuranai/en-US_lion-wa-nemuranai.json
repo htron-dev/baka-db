@@ -1,5 +1,9 @@
 {
     "title": "Lion wa Nemuranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/230664.jpg",
+        "alt": "lion-wa-nemuranai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

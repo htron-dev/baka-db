@@ -1,5 +1,9 @@
 {
     "title": "Kaze no Sei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1892/99815.jpg",
+        "alt": "kaze-no-sei"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "風の精",

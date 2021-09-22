@@ -1,5 +1,9 @@
 {
     "title": "Ryuuguu no Tsukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195218.jpg",
+        "alt": "ryuuguu-no-tsukai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

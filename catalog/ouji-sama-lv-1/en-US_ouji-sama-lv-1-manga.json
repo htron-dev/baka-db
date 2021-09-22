@@ -1,5 +1,9 @@
 {
     "title": "Ouji-sama Lv1",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/3533.jpg",
+        "alt": "ouji-sama-lv-1"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "5",

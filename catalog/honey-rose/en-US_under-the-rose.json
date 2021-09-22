@@ -1,5 +1,9 @@
 {
     "title": "Under the Rose",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180786.jpg",
+        "alt": "under-the-rose"
+    },
     "type": "manga",
     "original_name": "Under the Rose",
     "tags": [

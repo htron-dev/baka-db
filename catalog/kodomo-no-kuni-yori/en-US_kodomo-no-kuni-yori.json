@@ -1,5 +1,9 @@
 {
     "title": "Kodomo no Kuni yori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/233790.jpg",
+        "alt": "kodomo-no-kuni-yori"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

@@ -1,12 +1,16 @@
 {
     "title": "Pumpkin Scissors",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/75181.jpg",
+        "alt": "pumpkin-scissors"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "パンプキン・シザーズ",
     "start_date": "2006-10-03",
     "end_date": "2006-10-03",
     "opening_song": "\"Aoki Flamme\" by Takahashi, Yoko",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Mercury Go\" by Kana Ueda & Yukai na Nakama-tachi (eps 1-17,19-24)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

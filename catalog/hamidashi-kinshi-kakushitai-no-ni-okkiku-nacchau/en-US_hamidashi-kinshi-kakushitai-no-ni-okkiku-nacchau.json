@@ -1,5 +1,9 @@
 {
     "title": "Hamidashi Kinshi! Kakushitai no ni Okkiku Nacchau",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/182303.jpg",
+        "alt": "hamidashi-kinshi-kakushitai-no-ni-okkiku-nacchau"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

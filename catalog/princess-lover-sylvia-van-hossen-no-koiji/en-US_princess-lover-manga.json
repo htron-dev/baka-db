@@ -1,5 +1,9 @@
 {
     "title": "Princess Lover!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/72237.jpg",
+        "alt": "princess-lover"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

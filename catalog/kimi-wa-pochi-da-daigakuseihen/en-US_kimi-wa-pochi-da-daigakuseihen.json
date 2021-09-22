@@ -1,5 +1,9 @@
 {
     "title": "Kimi wa Pochi Da! ~Daigakuseihen~",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18940.jpg",
+        "alt": "kimi-wa-pochi-da-daigakuseihen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

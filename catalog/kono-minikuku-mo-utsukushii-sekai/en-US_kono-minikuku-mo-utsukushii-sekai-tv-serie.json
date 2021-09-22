@@ -1,5 +1,9 @@
 {
     "title": "Kono Minikuku mo Utsukushii Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/21035.jpg",
+        "alt": "kono-minikuku-mo-utsukushii-sekai"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "この醜くも美しい世界",

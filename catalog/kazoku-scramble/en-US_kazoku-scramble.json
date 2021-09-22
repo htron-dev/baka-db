@@ -1,5 +1,9 @@
 {
     "title": "Kazoku Scramble",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191665.jpg",
+        "alt": "kazoku-scramble"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

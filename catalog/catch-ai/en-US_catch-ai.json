@@ -1,5 +1,9 @@
 {
     "title": "Catch! Ai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/7502.jpg",
+        "alt": "catch-ai"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "キャッチ!愛",

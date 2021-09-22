@@ -1,5 +1,9 @@
 {
     "title": "Cinderella no Aneue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194540.jpg",
+        "alt": "cinderella-no-aneue"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "シンデレラの姉上",

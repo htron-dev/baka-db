@@ -1,5 +1,9 @@
 {
     "title": "A Cat and a Bird",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/28858.jpg",
+        "alt": "a-cat-and-a-bird"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "10",

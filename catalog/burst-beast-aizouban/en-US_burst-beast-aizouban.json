@@ -1,5 +1,9 @@
 {
     "title": "Burst Beast Aizouban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/57259.jpg",
+        "alt": "burst-beast-aizouban"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

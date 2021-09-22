@@ -1,11 +1,15 @@
 {
     "title": "Road to You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1559/102177.jpg",
+        "alt": "road-to-you"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "ROAD TO YOU",
     "start_date": "2017-10-11",
     "end_date": "2017-10-11",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Amadooru (Anime ver.) (アマドール (アニメ ver.))\" by Keina Suda (ep 1)",
     "rating": "G - All Ages",
     "tags": [
         "drama",

@@ -1,5 +1,9 @@
 {
     "title": "Koishita Kokoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241586.jpg",
+        "alt": "koishita-kokoro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

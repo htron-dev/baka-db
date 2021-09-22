@@ -1,5 +1,9 @@
 {
     "title": "Guuwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/72893.jpg",
+        "alt": "guuwa"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "寓話 アレゴリア",

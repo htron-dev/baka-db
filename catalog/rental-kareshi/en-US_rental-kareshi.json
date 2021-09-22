@@ -1,5 +1,9 @@
 {
     "title": "Rental Kareshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156501.jpg",
+        "alt": "rental-kareshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

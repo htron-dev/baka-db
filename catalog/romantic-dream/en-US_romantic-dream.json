@@ -1,5 +1,9 @@
 {
     "title": "Romantic Dream",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/61645.jpg",
+        "alt": "romantic-dream"
+    },
     "type": "manhwa",
     "original_name": "낭만 로맨스1945",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Renai Kaidan Sayoko-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152741.jpg",
+        "alt": "renai-kaidan-sayoko-san"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "54",

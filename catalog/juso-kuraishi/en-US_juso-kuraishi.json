@@ -1,5 +1,9 @@
 {
     "title": "Juso Kuraishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/168622.jpg",
+        "alt": "juso-kuraishi"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "19",

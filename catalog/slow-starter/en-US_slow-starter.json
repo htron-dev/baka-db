@@ -1,5 +1,9 @@
 {
     "title": "Slow Starter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/182068.jpg",
+        "alt": "slow-starter"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

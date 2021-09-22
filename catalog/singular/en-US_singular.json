@@ -1,5 +1,9 @@
 {
     "title": "Singular",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151718.jpg",
+        "alt": "singular"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

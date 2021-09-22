@@ -1,5 +1,9 @@
 {
     "title": "Regatta: Kimi to Ita Eien",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166202.jpg",
+        "alt": "regatta-kimi-to-ita-eien"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "63",

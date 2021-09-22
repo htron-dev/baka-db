@@ -1,5 +1,9 @@
 {
     "title": "Yurikan Miel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/137773.jpg",
+        "alt": "yurikan-miel"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

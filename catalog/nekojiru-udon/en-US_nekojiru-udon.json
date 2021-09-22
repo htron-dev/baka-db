@@ -1,5 +1,9 @@
 {
     "title": "Nekojiru Udon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/157941.jpg",
+        "alt": "nekojiru-udon"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "57",

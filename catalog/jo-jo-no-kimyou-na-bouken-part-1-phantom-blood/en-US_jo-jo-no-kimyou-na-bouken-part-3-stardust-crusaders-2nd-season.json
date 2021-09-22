@@ -1,12 +1,16 @@
 {
     "title": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/75045.jpg",
+        "alt": "jo-jo-no-kimyou-na-bouken-part-3-stardust-crusaders-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ジョジョの奇妙な冒険 スターダストクルセイダース",
     "start_date": "2015-01-10",
     "end_date": "2015-01-10",
-    "opening_song": "\"JoJo - Sono Chi no Kioku",
-    "ending_song": "#1",
+    "opening_song": "\"JoJo - Sono Chi no Kioku: end of THE WORLD (ジョジョ その血の記憶〜end of THE WORLD〜)\" by JO☆STARS ～ TOMMY, Coda, JIN ～ (eps 1-2, 4-10, 12-15, 17-24)",
+    "ending_song": "#1: \"Last Train Home (ラスト・トレイン・ホーム)\" by Pat Metheny Group (eps 1-2, 4-11, 14-16, 18-22)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

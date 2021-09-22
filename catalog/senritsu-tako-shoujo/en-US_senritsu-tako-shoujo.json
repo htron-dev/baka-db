@@ -1,5 +1,9 @@
 {
     "title": "Senritsu!! Tako Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199213.jpg",
+        "alt": "senritsu-tako-shoujo"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "41",

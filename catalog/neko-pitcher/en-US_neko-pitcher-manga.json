@@ -1,5 +1,9 @@
 {
     "title": "Neko Pitcher",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/116383.jpg",
+        "alt": "neko-pitcher"
+    },
     "type": "manga",
     "original_name": "猫ピッチャー",
     "start_date": "2013-04-07",

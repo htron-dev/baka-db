@@ -1,5 +1,9 @@
 {
     "title": "Risu no Matoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1242/98673.jpg",
+        "alt": "risu-no-matoi"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "リスのまとい",

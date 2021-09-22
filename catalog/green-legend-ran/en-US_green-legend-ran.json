@@ -1,5 +1,9 @@
 {
     "title": "Green Legend Ran",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1882/96360.jpg",
+        "alt": "green-legend-ran"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "グリーンレジェンド乱",

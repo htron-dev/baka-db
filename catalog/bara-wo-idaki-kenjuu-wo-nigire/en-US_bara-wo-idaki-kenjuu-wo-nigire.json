@@ -1,5 +1,9 @@
 {
     "title": "Bara wo Idaki Kenjuu wo Nigire",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198895.jpg",
+        "alt": "bara-wo-idaki-kenjuu-wo-nigire"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "12",

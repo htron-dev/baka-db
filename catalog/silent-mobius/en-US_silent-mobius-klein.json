@@ -1,5 +1,9 @@
 {
     "title": "Silent Möbius Klein",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/84239.jpg",
+        "alt": "silent-mobius-klein"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

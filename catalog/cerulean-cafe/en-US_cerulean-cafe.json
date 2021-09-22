@@ -1,5 +1,9 @@
 {
     "title": "Cerulean Café",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/52235.jpg",
+        "alt": "cerulean-cafe"
+    },
     "type": "manga",
     "original_name": "セルリアン・カフェ",
     "start_date": "2011-06-22",

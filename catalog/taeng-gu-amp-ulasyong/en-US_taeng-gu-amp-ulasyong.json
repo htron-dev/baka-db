@@ -1,5 +1,9 @@
 {
     "title": "Taeng-gu &amp; Ulasyong",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/78247.jpg",
+        "alt": "taeng-gu-amp-ulasyong"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "탱구와 울라숑",

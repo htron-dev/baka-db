@@ -1,5 +1,9 @@
 {
     "title": "The ComiQ",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/219406.jpg",
+        "alt": "the-comi-q"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

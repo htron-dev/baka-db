@@ -1,5 +1,9 @@
 {
     "title": "Higurashi no Naku Koro ni Kai: Minagoroshi-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/23993.jpg",
+        "alt": "higurashi-no-naku-koro-ni-kai-minagoroshi-hen"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "25",

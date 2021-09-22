@@ -1,5 +1,9 @@
 {
     "title": "Da Yu Hai Tang (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/83826.jpg",
+        "alt": "da-yu-hai-tang-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "大鱼海棠",

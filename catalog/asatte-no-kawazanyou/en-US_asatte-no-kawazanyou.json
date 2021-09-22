@@ -1,5 +1,9 @@
 {
     "title": "Asatte no Kawazanyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/219921.jpg",
+        "alt": "asatte-no-kawazanyou"
+    },
     "type": "manga",
     "original_name": "あさっての皮算用",
     "start_date": "2019-07-08",

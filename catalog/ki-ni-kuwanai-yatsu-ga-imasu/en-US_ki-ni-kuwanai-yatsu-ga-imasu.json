@@ -1,5 +1,9 @@
 {
     "title": "Ki ni Kuwanai Yatsu ga Imasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161832.jpg",
+        "alt": "ki-ni-kuwanai-yatsu-ga-imasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

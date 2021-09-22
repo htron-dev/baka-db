@@ -1,5 +1,9 @@
 {
     "title": "Tales of Graces Comic Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/39004.jpg",
+        "alt": "tales-of-graces-comic-anthology"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "テイルズオブグレイセス コミックアンソロジー",

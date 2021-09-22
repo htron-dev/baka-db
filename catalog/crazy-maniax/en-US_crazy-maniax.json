@@ -1,5 +1,9 @@
 {
     "title": "Crazy Maniax",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/7724.jpg",
+        "alt": "crazy-maniax"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

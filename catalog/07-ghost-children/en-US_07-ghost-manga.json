@@ -1,5 +1,9 @@
 {
     "title": "07-Ghost",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21417.jpg",
+        "alt": "07-ghost"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "100",

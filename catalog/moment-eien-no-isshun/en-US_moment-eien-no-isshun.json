@@ -1,5 +1,9 @@
 {
     "title": "Moment: Eien no Isshun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163727.jpg",
+        "alt": "moment-eien-no-isshun"
+    },
     "type": "manga",
     "original_name": "モーメント 永遠の一瞬",
     "start_date": "2014-01-28",

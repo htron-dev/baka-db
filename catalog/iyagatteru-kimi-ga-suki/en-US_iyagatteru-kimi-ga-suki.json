@@ -1,5 +1,9 @@
 {
     "title": "Iyagatteru Kimi ga Suki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/209897.jpg",
+        "alt": "iyagatteru-kimi-ga-suki"
+    },
     "type": "manga",
     "original_name": "嫌がってるキミが好き",
     "start_date": "2016-04-15",

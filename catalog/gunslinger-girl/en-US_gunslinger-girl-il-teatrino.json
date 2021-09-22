@@ -1,12 +1,16 @@
 {
     "title": "Gunslinger Girl: Il Teatrino",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/16697.jpg",
+        "alt": "gunslinger-girl-il-teatrino"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ガンスリンガー ガール -IL TEATRINO-",
     "start_date": "2008-01-07",
     "end_date": "2008-01-07",
     "opening_song": "\"Tatta Hitotsu no Omoi (たった 1 つの想い)\" by KOKIA",
-    "ending_song": "#1",
+    "ending_song": "#1: \"doll\" by Tada Aoi (eps 1-5, 10, 12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

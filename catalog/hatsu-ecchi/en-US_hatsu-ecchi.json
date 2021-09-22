@@ -1,5 +1,9 @@
 {
     "title": "Hatsu Ecchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/9357.jpg",
+        "alt": "hatsu-ecchi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "はつえっち",

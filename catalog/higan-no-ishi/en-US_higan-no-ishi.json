@@ -1,5 +1,9 @@
 {
     "title": "Higan no Ishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206030.jpg",
+        "alt": "higan-no-ishi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

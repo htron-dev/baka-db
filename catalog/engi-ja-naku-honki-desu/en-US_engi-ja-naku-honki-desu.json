@@ -1,5 +1,9 @@
 {
     "title": "Engi ja Naku... Honki... desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193557.jpg",
+        "alt": "engi-ja-naku-honki-desu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

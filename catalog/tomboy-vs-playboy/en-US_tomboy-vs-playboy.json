@@ -1,5 +1,9 @@
 {
     "title": "Tomboy vs Playboy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18228.jpg",
+        "alt": "tomboy-vs-playboy"
+    },
     "type": "manhwa",
     "volumes": "7",
     "tags": [

@@ -1,12 +1,16 @@
 {
     "title": "Battle Spirits: Shounen Gekiha Dan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/21263.jpg",
+        "alt": "battle-spirits-shounen-gekiha-dan"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "バトルスピリッツ 少年激覇ダン",
     "start_date": "2009-09-13",
     "end_date": "2009-09-13",
     "opening_song": "\"Battle No Limit!\" by JAM Project",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kimi ga Matteru (君がまってる)\" by Mitsuhiro Oikawa (eps 1-33)",
     "rating": "PG - Children",
     "tags": [
         "game",

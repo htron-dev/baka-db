@@ -1,5 +1,9 @@
 {
     "title": "Audition",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6348.jpg",
+        "alt": "audition"
+    },
     "type": "manhwa",
     "volumes": "10",
     "original_name": "오디션",

@@ -1,5 +1,9 @@
 {
     "title": "Zenmai Zamurai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/88766.jpg",
+        "alt": "zenmai-zamurai"
+    },
     "type": "tv-serie",
     "episodes": "215",
     "original_name": "ぜんまいざむらい",

@@ -1,5 +1,9 @@
 {
     "title": "Gohoubi Gohan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/216844.jpg",
+        "alt": "gohoubi-gohan"
+    },
     "type": "manga",
     "original_name": "ごほうびごはん",
     "start_date": "2014-03-14",

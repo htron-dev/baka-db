@@ -1,5 +1,9 @@
 {
     "title": "Hoshihimemura no Naishobanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190899.jpg",
+        "alt": "hoshihimemura-no-naishobanashi"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "38",

@@ -1,5 +1,9 @@
 {
     "title": "Momiji no Kisetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222059.jpg",
+        "alt": "momiji-no-kisetsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

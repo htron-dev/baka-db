@@ -1,5 +1,9 @@
 {
     "title": "Sayonara Rocking Horse",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/16222.jpg",
+        "alt": "sayonara-rocking-horse"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

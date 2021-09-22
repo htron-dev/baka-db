@@ -1,5 +1,9 @@
 {
     "title": "Uchuu Kaizoku Gakuen Black Cat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168638.jpg",
+        "alt": "uchuu-kaizoku-gakuen-black-cat"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

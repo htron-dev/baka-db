@@ -1,5 +1,9 @@
 {
     "title": "Glass no Megami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27872.jpg",
+        "alt": "glass-no-megami"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

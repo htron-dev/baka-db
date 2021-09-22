@@ -1,5 +1,9 @@
 {
     "title": "Ojikoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174766.jpg",
+        "alt": "ojikoi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

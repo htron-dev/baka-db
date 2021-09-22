@@ -1,5 +1,9 @@
 {
     "title": "Anthology Minna de Sarazanmai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245512.jpg",
+        "alt": "anthology-minna-de-sarazanmai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "16",

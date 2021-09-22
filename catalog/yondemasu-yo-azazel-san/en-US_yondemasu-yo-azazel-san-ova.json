@@ -1,12 +1,16 @@
 {
     "title": "Yondemasu yo, Azazel-san.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/24619.jpg",
+        "alt": "yondemasu-yo-azazel-san"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "よんでますよ、アザゼルさん。",
     "start_date": "2010-02-23",
     "end_date": "2010-02-23",
     "opening_song": "\"Miracle Trouble New Face! (ミラクル とらぶる New Face！)\" by Team Nekokan feat. Chihiro Yonekura (eps 3-4)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"OVER THE WAVES\" (eps 1-2)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "comedy",

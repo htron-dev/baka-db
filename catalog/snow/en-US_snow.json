@@ -1,5 +1,9 @@
 {
     "title": "Snow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/135493.jpg",
+        "alt": "snow"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "スノウ",

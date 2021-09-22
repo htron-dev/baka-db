@@ -1,5 +1,9 @@
 {
     "title": "Yankee Reppuu-tai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/62421.jpg",
+        "alt": "yankee-reppuu-tai"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "ヤンキー烈風隊",

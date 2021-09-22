@@ -1,5 +1,9 @@
 {
     "title": "Monster Musume no Oishasan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215559.jpg",
+        "alt": "monster-musume-no-oishasan"
+    },
     "type": "manga",
     "original_name": "モンスター娘のお医者さん",
     "start_date": "2018-02-26",

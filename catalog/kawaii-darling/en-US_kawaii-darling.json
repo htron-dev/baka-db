@@ -1,5 +1,9 @@
 {
     "title": "Kawaii Darling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/17705.jpg",
+        "alt": "kawaii-darling"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

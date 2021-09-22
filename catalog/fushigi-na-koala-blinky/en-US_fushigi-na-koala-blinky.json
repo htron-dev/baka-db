@@ -1,5 +1,9 @@
 {
     "title": "Fushigi na Koala Blinky",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/4322.jpg",
+        "alt": "fushigi-na-koala-blinky"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ふしぎなコアラ ブリンキー",

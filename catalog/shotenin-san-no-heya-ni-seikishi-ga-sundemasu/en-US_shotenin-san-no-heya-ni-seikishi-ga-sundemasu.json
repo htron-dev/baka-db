@@ -1,5 +1,9 @@
 {
     "title": "Shotenin-san no Heya ni Seikishi ga Sundemasu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206847.jpg",
+        "alt": "shotenin-san-no-heya-ni-seikishi-ga-sundemasu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

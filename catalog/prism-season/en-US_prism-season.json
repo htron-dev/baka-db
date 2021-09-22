@@ -1,5 +1,9 @@
 {
     "title": "Prism Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1507/94498.jpg",
+        "alt": "prism-season"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "プリズムシーズン",

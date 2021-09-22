@@ -1,5 +1,9 @@
 {
     "title": "Gallery and Abacus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/126707.jpg",
+        "alt": "gallery-and-abacus"
+    },
     "type": "manhwa",
     "original_name": "화랑과 주판",
     "tags": [

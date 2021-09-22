@@ -1,5 +1,9 @@
 {
     "title": "Hwang-geum-ui Pal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/45164.jpg",
+        "alt": "hwang-geum-ui-pal"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "황금의 팔",

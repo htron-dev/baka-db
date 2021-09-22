@@ -1,5 +1,9 @@
 {
     "title": "Gajuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237838.jpg",
+        "alt": "gajuu"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "51",

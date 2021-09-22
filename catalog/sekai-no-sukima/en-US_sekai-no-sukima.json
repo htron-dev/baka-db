@@ -1,5 +1,9 @@
 {
     "title": "Sekai no Sukima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/102713.jpg",
+        "alt": "sekai-no-sukima"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "セカイのスキマ",

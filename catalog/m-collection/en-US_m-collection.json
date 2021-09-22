@@ -1,5 +1,9 @@
 {
     "title": "M Collection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16713.jpg",
+        "alt": "m-collection"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

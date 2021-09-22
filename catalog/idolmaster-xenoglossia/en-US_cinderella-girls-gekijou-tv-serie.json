@@ -1,11 +1,15 @@
 {
     "title": "Cinderella Girls Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/89786.jpg",
+        "alt": "cinderella-girls-gekijou"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "シンデレラガールズ劇場",
     "start_date": "2017-04-04",
     "end_date": "2017-04-04",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kira! Mankai Smile (キラッ！満開スマイル)\" by THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS! (eps 1-4)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

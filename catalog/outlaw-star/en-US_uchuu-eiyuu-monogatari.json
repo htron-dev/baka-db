@@ -1,5 +1,9 @@
 {
     "title": "Uchuu Eiyuu Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/91951.jpg",
+        "alt": "uchuu-eiyuu-monogatari"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "宇宙英雄物語",

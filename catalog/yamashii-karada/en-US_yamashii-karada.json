@@ -1,5 +1,9 @@
 {
     "title": "Yamashii Karada",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/79565.jpg",
+        "alt": "yamashii-karada"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "やましいからだ",

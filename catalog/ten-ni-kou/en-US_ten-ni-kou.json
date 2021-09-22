@@ -1,5 +1,9 @@
 {
     "title": "Ten ni Kou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166419.jpg",
+        "alt": "ten-ni-kou"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "51",

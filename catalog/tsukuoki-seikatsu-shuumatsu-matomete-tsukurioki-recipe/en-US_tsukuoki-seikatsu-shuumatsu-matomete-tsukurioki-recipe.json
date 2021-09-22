@@ -1,5 +1,9 @@
 {
     "title": "Tsukuoki Seikatsu: Shuumatsu Matomete Tsukurioki Recipe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234735.jpg",
+        "alt": "tsukuoki-seikatsu-shuumatsu-matomete-tsukurioki-recipe"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "28",

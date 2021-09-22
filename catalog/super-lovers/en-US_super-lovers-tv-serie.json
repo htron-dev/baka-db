@@ -1,12 +1,16 @@
 {
     "title": "Super Lovers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/78450.jpg",
+        "alt": "super-lovers"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "SUPER LOVERS（スーパーラヴァーズ）",
     "start_date": "2016-04-06",
     "end_date": "2016-04-06",
     "opening_song": "\"Okaeri. (おかえり。)\" by Yuusuke Yata",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Happiness YOU & ME (ハピネス YOU＆ME)\" by Ren Kaidou (Junko Minagawa), Haru Kaidou (Tomoaki Maeno) (ep 1, 9)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

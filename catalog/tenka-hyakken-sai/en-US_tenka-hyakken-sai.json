@@ -1,5 +1,9 @@
 {
     "title": "Tenka Hyakken: Sai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/216243.jpg",
+        "alt": "tenka-hyakken-sai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

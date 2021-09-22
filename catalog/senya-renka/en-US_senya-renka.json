@@ -1,5 +1,9 @@
 {
     "title": "Senya Renka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31484.jpg",
+        "alt": "senya-renka"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "千夜恋歌",

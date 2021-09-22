@@ -1,5 +1,9 @@
 {
     "title": "Gijin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235818.jpg",
+        "alt": "gijin"
+    },
     "type": "manga",
     "original_name": "ギジン",
     "start_date": "2019-10-18",

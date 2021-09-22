@@ -1,5 +1,9 @@
 {
     "title": "Nui ja Dame!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23272.jpg",
+        "alt": "nui-ja-dame"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

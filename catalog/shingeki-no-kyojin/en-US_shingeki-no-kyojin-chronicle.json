@@ -1,5 +1,9 @@
 {
     "title": "Shingeki no Kyojin: Chronicle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1786/110717.jpg",
+        "alt": "shingeki-no-kyojin-chronicle"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "進撃の巨人 〜クロニクル〜",
@@ -30,7 +34,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Attack_on_Titan_(TV_series"
+            "link": "https://en.wikipedia.org/wiki/Attack_on_Titan_%28TV_series%29#2020_season_and_compilation_film"
         }
     ]
 }

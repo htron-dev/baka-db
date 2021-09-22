@@ -1,5 +1,9 @@
 {
     "title": "Musunde Hiraite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1185/108114.jpg",
+        "alt": "musunde-hiraite"
+    },
     "type": "ona",
     "episodes": "30",
     "original_name": "むすんでひらいて",

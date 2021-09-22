@@ -1,7 +1,11 @@
 {
     "title": "Re:Kore ga Isekai no Oyakusoku desu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196947.jpg",
+        "alt": "re-kore-ga-isekai-no-oyakusoku-desu"
+    },
     "type": "light-novel",
-    "original_name": "RE",
+    "original_name": "RE:これが異世界のお約束です!",
     "start_date": "2017-07-17",
     "tags": [
         "adventure",

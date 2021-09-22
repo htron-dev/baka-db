@@ -1,5 +1,9 @@
 {
     "title": "Tom Sawyer no Bouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246658.jpg",
+        "alt": "tom-sawyer-no-bouken"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Cutie Honey Seed",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229552.jpg",
+        "alt": "cutie-honey-seed"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "39",

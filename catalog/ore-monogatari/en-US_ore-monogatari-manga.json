@@ -1,5 +1,9 @@
 {
     "title": "Ore Monogatari!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180382.jpg",
+        "alt": "ore-monogatari"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "52",

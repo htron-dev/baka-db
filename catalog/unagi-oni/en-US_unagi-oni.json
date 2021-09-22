@@ -1,5 +1,9 @@
 {
     "title": "Unagi Oni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172686.jpg",
+        "alt": "unagi-oni"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

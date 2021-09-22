@@ -1,5 +1,9 @@
 {
     "title": "Itsuka Moteru ka na",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202252.jpg",
+        "alt": "itsuka-moteru-ka-na"
+    },
     "type": "manga",
     "original_name": "いつかモテるかな",
     "start_date": "2016-01-20",

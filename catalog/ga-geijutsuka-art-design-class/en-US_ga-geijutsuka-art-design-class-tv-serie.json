@@ -1,12 +1,16 @@
 {
     "title": "GA: Geijutsuka Art Design Class",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/56975.jpg",
+        "alt": "ga-geijutsuka-art-design-class"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "GA 芸術科アートデザインクラス",
     "start_date": "2009-07-07",
     "end_date": "2009-07-07",
     "opening_song": "\"Osaki ni s'il vous plaît (お先にシルブプレ)\" by Saiwai Koukou GA girls",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Coloring palettes Tomokane-iro (トモカネいろ)\" by Sawashiro Miyuki (eps 1, 6)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

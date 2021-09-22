@@ -1,5 +1,9 @@
 {
     "title": "Dokusho no Jikan yo, Shibamura-kun!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/145495.jpg",
+        "alt": "dokusho-no-jikan-yo-shibamura-kun"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "読書の時間よ、芝村くん!",

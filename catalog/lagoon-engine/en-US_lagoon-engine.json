@@ -1,5 +1,9 @@
 {
     "title": "Lagoon Engine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179821.jpg",
+        "alt": "lagoon-engine"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "31",

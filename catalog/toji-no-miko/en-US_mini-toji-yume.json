@@ -1,5 +1,9 @@
 {
     "title": "Mini Toji: Yume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1014/102312.jpg",
+        "alt": "mini-toji-yume"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "みにとじ ゆめ",

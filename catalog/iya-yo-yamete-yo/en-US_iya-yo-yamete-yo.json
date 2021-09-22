@@ -1,5 +1,9 @@
 {
     "title": "Iya yo Yamete yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/80931.jpg",
+        "alt": "iya-yo-yamete-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

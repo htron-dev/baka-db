@@ -1,5 +1,9 @@
 {
     "title": "Bradherley no Basha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/56597.jpg",
+        "alt": "bradherley-no-basha"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

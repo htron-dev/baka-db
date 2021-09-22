@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Komachi Kuroutan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170249.jpg",
+        "alt": "sengoku-komachi-kuroutan"
+    },
     "type": "light-novel",
     "original_name": "戦国小町苦労譚",
     "start_date": "2016-01-15",

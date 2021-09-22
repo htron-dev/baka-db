@@ -1,5 +1,9 @@
 {
     "title": "Tenchi Muyou! in Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1543/92823.jpg",
+        "alt": "tenchi-muyou-in-love"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "天地無用! in Love",

@@ -1,5 +1,9 @@
 {
     "title": "Heavy Object: Dengeki Comic Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240047.jpg",
+        "alt": "heavy-object-dengeki-comic-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

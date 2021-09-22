@@ -1,5 +1,9 @@
 {
     "title": "Hakoniwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158342.jpg",
+        "alt": "hakoniwa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

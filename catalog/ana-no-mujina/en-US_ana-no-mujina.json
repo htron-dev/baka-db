@@ -1,5 +1,9 @@
 {
     "title": "Ana no Mujina",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154545.jpg",
+        "alt": "ana-no-mujina"
+    },
     "type": "manga",
     "original_name": "アナノムジナ",
     "start_date": "2013-08-12",

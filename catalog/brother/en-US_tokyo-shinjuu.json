@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Shinjuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/88701.jpg",
+        "alt": "tokyo-shinjuu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

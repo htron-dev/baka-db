@@ -1,5 +1,9 @@
 {
     "title": "Meika-san wa Oshikorosenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236635.jpg",
+        "alt": "meika-san-wa-oshikorosenai"
+    },
     "type": "manga",
     "original_name": "メイカさんは押しころせない",
     "start_date": "2020-01-23",

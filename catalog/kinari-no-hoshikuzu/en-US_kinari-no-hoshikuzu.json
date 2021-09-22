@@ -1,5 +1,9 @@
 {
     "title": "Kinari no Hoshikuzu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/205917.jpg",
+        "alt": "kinari-no-hoshikuzu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

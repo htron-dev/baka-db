@@ -1,5 +1,9 @@
 {
     "title": "Uchuu Shounen Soran",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/36189.jpg",
+        "alt": "uchuu-shounen-soran"
+    },
     "type": "tv-serie",
     "episodes": "96",
     "original_name": "宇宙少年ソラン",

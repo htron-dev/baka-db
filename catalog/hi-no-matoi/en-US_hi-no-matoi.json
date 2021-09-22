@@ -1,5 +1,9 @@
 {
     "title": "Hi no Matoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157902.jpg",
+        "alt": "hi-no-matoi"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "緋の纏",

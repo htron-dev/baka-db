@@ -1,5 +1,9 @@
 {
     "title": "Omoi Tattara Chichijitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/48337.jpg",
+        "alt": "omoi-tattara-chichijitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

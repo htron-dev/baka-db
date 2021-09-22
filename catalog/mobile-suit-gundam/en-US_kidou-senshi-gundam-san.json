@@ -1,5 +1,9 @@
 {
     "title": "Kidou Senshi Gundam-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40572.jpg",
+        "alt": "kidou-senshi-gundam-san"
+    },
     "type": "manga",
     "original_name": "機動戦士ガンダムさん",
     "start_date": "2005-08-20",

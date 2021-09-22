@@ -1,5 +1,9 @@
 {
     "title": "Kemono no Joou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192936.jpg",
+        "alt": "kemono-no-joou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

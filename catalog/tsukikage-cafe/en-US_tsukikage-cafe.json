@@ -1,5 +1,9 @@
 {
     "title": "Tsukikage Café",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/72949.jpg",
+        "alt": "tsukikage-cafe"
+    },
     "type": "manga",
     "original_name": "TUKIKAGE カフェ",
     "start_date": "2012-03-16",

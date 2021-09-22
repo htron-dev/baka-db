@@ -1,5 +1,9 @@
 {
     "title": "Koi Caramel no Recipe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164706.jpg",
+        "alt": "koi-caramel-no-recipe"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

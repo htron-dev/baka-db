@@ -1,12 +1,16 @@
 {
     "title": "Cardfight!! Vanguard G: Next",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/82028.jpg",
+        "alt": "cardfight-vanguard-g-next"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "CARDFIGHT!! ヴァンガード G NEXT",
     "start_date": "2016-10-02",
     "end_date": "2016-10-02",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Hello, Mr. Wonder land\" by Ayako Nakanomori (eps 1-25)",
+    "ending_song": "#1: \"Wing of Image\" by Rummy Labyrinth (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

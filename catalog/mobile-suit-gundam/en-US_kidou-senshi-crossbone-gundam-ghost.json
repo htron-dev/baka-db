@@ -1,5 +1,9 @@
 {
     "title": "Kidou Senshi Crossbone Gundam: Ghost",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173478.jpg",
+        "alt": "kidou-senshi-crossbone-gundam-ghost"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "53",

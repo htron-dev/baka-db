@@ -1,5 +1,9 @@
 {
     "title": "Ouji to Houkago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/68213.jpg",
+        "alt": "ouji-to-houkago"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

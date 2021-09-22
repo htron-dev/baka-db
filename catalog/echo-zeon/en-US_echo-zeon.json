@@ -1,5 +1,9 @@
 {
     "title": "Echo/Zeon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/197921.jpg",
+        "alt": "echo-zeon"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Gakuen Police",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/232150.jpg",
+        "alt": "gakuen-police"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

@@ -1,5 +1,9 @@
 {
     "title": "Aisarete mo Iinda yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238780.jpg",
+        "alt": "aisarete-mo-iinda-yo"
+    },
     "type": "manga",
     "original_name": "愛されてもいいんだよ",
     "start_date": "2020-07-04",

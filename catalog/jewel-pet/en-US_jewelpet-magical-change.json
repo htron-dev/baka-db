@@ -1,12 +1,16 @@
 {
     "title": "Jewelpet Magical Change",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/73970.jpg",
+        "alt": "jewelpet-magical-change"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "ジュエルペット マジカルチェンジ",
     "start_date": "2015-04-04",
     "end_date": "2015-04-04",
     "opening_song": "\"Magical☆Change (マジカル ☆ チェンジ)\" by Magical☆Dreaming (マジカル ☆ どりーみん)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Tell Me! Tell Me!\" by Dorothy Little Happy (eps 1-13)",
     "rating": "PG - Children",
     "tags": [
         "comedy",

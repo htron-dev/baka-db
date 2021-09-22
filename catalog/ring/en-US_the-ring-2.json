@@ -1,5 +1,9 @@
 {
     "title": "The Ring 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/3420.jpg",
+        "alt": "the-ring-2"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

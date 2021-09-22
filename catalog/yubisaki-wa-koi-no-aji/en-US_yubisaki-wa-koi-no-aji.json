@@ -1,5 +1,9 @@
 {
     "title": "Yubisaki wa Koi no Aji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31661.jpg",
+        "alt": "yubisaki-wa-koi-no-aji"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

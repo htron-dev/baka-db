@@ -1,5 +1,9 @@
 {
     "title": "Jun na Kimochi de Icchimae!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/38394.jpg",
+        "alt": "jun-na-kimochi-de-icchimae"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

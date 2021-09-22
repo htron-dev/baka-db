@@ -1,5 +1,9 @@
 {
     "title": "Conveni-kun.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/60601.jpg",
+        "alt": "conveni-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

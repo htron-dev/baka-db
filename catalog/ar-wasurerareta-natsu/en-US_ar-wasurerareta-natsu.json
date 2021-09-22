@@ -1,5 +1,9 @@
 {
     "title": "AR: Wasurerareta Natsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10191.jpg",
+        "alt": "ar-wasurerareta-natsu"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "AR ～忘れられた夏～",

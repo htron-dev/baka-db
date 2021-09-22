@@ -1,5 +1,9 @@
 {
     "title": "Happy &amp; Murphy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11395.jpg",
+        "alt": "happy-amp-murphy"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "19",

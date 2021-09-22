@@ -1,5 +1,9 @@
 {
     "title": "Kore ga Koi na Wake ga Nai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226575.jpg",
+        "alt": "kore-ga-koi-na-wake-ga-nai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

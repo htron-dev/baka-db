@@ -1,5 +1,9 @@
 {
     "title": "Aozora Under Girls!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/85986.jpg",
+        "alt": "aozora-under-girls"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "青空アンダーガールズ！",

@@ -1,5 +1,9 @@
 {
     "title": "Last Dive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18363.jpg",
+        "alt": "last-dive"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

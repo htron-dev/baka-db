@@ -1,5 +1,9 @@
 {
     "title": "Polaris no Rakuin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221348.jpg",
+        "alt": "polaris-no-rakuin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

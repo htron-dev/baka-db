@@ -1,5 +1,9 @@
 {
     "title": "Boku to Sono Tsuzuki wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238107.jpg",
+        "alt": "boku-to-sono-tsuzuki-wo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

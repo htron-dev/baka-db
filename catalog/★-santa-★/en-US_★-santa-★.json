@@ -1,5 +1,9 @@
 {
     "title": "★Santa!★",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/89895.jpg",
+        "alt": "★-santa-★"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

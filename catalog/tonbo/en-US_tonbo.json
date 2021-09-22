@@ -1,5 +1,9 @@
 {
     "title": "Tonbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1115/108098.jpg",
+        "alt": "tonbo"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "とんぼ",

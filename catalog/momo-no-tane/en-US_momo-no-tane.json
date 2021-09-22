@@ -1,5 +1,9 @@
 {
     "title": "Momo no Tane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26625.jpg",
+        "alt": "momo-no-tane"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "PEACH-PIT 初期作品集 もものたね",

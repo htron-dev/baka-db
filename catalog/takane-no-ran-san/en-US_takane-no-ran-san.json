@@ -1,5 +1,9 @@
 {
     "title": "Takane no Ran-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203164.jpg",
+        "alt": "takane-no-ran-san"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "42",

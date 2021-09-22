@@ -1,5 +1,9 @@
 {
     "title": "Toaru Majutsu no Index: Endymion no Kiseki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/100847.jpg",
+        "alt": "toaru-majutsu-no-index-endymion-no-kiseki"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

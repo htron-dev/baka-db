@@ -1,5 +1,9 @@
 {
     "title": "Soukuu no Maou Rudel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/198602.jpg",
+        "alt": "soukuu-no-maou-rudel"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "30",

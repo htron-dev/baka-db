@@ -1,5 +1,9 @@
 {
     "title": "Zettai Toudo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168028.jpg",
+        "alt": "zettai-toudo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

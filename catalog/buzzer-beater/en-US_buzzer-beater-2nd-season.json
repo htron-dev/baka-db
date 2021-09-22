@@ -1,5 +1,9 @@
 {
     "title": "Buzzer Beater 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/57419.jpg",
+        "alt": "buzzer-beater-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "BUZZER BEATER 第 2 期",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Buzzer_Beater_(manga"
+            "link": "https://en.wikipedia.org/wiki/Buzzer_Beater_%28manga%29"
         }
     ]
 }

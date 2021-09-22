@@ -1,5 +1,9 @@
 {
     "title": "Kore ga Koi ja Nai nante!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153393.jpg",
+        "alt": "kore-ga-koi-ja-nai-nante"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "これが恋じゃないなんて!",

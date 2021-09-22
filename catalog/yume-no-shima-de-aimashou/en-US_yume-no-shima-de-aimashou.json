@@ -1,5 +1,9 @@
 {
     "title": "Yume no Shima de Aimashou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194525.jpg",
+        "alt": "yume-no-shima-de-aimashou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

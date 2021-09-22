@@ -1,5 +1,9 @@
 {
     "title": "Yamato no Hane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177165.jpg",
+        "alt": "yamato-no-hane"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "31",

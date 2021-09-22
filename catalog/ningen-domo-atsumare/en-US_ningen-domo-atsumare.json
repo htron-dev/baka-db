@@ -1,5 +1,9 @@
 {
     "title": "Ningen-domo Atsumare!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154243.jpg",
+        "alt": "ningen-domo-atsumare"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

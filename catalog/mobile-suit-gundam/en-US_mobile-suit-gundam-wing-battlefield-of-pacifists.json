@@ -1,5 +1,9 @@
 {
     "title": "Mobile Suit Gundam Wing: Battlefield of Pacifists",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/3529.jpg",
+        "alt": "mobile-suit-gundam-wing-battlefield-of-pacifists"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

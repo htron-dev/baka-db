@@ -1,5 +1,9 @@
 {
     "title": "Hitsuji ni Narasete Itadakimasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241826.jpg",
+        "alt": "hitsuji-ni-narasete-itadakimasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

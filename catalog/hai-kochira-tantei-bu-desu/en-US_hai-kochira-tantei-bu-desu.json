@@ -1,5 +1,9 @@
 {
     "title": "Hai, Kochira Tantei-bu desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/144247.jpg",
+        "alt": "hai-kochira-tantei-bu-desu"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "はい、こちら探偵部です",

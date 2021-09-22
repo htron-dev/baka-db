@@ -1,5 +1,9 @@
 {
     "title": "HiraHira Hyuun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30392.jpg",
+        "alt": "hira-hira-hyuun"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "11",

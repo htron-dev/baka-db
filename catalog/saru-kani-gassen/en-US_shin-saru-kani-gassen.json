@@ -1,5 +1,9 @@
 {
     "title": "Shin Saru Kani Gassen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/71961.jpg",
+        "alt": "shin-saru-kani-gassen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "新猿蟹合戦",

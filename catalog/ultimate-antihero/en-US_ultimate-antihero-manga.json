@@ -1,5 +1,9 @@
 {
     "title": "Ultimate Antihero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178146.jpg",
+        "alt": "ultimate-antihero"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

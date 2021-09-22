@@ -1,5 +1,9 @@
 {
     "title": "Zantei Kanojo: Binkan Fighter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171214.jpg",
+        "alt": "zantei-kanojo-binkan-fighter"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

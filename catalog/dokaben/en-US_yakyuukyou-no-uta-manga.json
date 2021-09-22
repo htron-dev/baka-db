@@ -1,5 +1,9 @@
 {
     "title": "Yakyuukyou no Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/142677.jpg",
+        "alt": "yakyuukyou-no-uta"
+    },
     "type": "manga",
     "volumes": "17",
     "original_name": "野球狂の詩",

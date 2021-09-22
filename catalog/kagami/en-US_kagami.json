@@ -1,5 +1,9 @@
 {
     "title": "Kagami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/71725.jpg",
+        "alt": "kagami"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "かがみ",

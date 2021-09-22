@@ -1,5 +1,9 @@
 {
     "title": "Seton Doubutsuki: Risu no Banner",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/78448.jpg",
+        "alt": "seton-doubutsuki-risu-no-banner"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "シートン動物記　りすのバナ",
@@ -31,7 +35,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Bannertail:_The_Story_of_Gray_Squirrel_(anime"
+            "link": "http://en.wikipedia.org/wiki/Bannertail:_The_Story_of_Gray_Squirrel_%28anime%29"
         }
     ]
 }

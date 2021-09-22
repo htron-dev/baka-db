@@ -1,5 +1,9 @@
 {
     "title": "Wedding Peach",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38818.jpg",
+        "alt": "wedding-peach"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "30",

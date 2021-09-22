@@ -1,5 +1,9 @@
 {
     "title": "Kijou no Kowloon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172639.jpg",
+        "alt": "kijou-no-kowloon"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "机上の九龍",

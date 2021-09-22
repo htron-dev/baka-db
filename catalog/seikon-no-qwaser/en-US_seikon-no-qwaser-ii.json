@@ -1,5 +1,9 @@
 {
     "title": "Seikon no Qwaser II",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/75450.jpg",
+        "alt": "seikon-no-qwaser-ii"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "聖痕のクェイサー II",

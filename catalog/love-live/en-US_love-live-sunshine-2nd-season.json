@@ -1,12 +1,16 @@
 {
     "title": "Love Live! Sunshine!! 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/88322.jpg",
+        "alt": "love-live-sunshine-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ラブライブ！サンシャイン!! 第 2 期",
     "start_date": "2017-10-07",
     "end_date": "2017-10-07",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: \"Mirai no Bokura wa Shitteru yo (未来の僕らは知ってるよ)\" by Aqours (eps 1-12)",
+    "ending_song": "#01: \"Yuuki wa Doko ni? Kimi no Mune ni! (勇気はどこに？君の胸に！)\" by Chika Takami (Anju Inami), Riko Sakurauchi (Rikako Aida) & You Watanabe (Shuka Saitou) (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music",

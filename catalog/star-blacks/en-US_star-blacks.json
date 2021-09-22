@@ -1,5 +1,9 @@
 {
     "title": "Star Blacks",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10111.jpg",
+        "alt": "star-blacks"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

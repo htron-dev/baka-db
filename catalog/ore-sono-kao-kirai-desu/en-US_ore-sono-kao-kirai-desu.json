@@ -1,5 +1,9 @@
 {
     "title": "Ore, Sono Kao Kirai desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238135.jpg",
+        "alt": "ore-sono-kao-kirai-desu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

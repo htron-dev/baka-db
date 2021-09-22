@@ -1,5 +1,9 @@
 {
     "title": "She Scares Me",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/145667.jpg",
+        "alt": "she-scares-me"
+    },
     "type": "manhwa",
     "volumes": "14",
     "original_name": "그녀는 무서워",

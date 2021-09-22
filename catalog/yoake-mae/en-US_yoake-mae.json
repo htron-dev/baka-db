@@ -1,5 +1,9 @@
 {
     "title": "Yoake Mae",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/102979.jpg",
+        "alt": "yoake-mae"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

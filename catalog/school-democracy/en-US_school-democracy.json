@@ -1,5 +1,9 @@
 {
     "title": "School Democracy!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/121951.jpg",
+        "alt": "school-democracy"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "スクール・デモクラシー！",

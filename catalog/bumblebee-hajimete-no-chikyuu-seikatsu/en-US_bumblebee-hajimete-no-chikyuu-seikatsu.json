@@ -1,5 +1,9 @@
 {
     "title": "Bumblebee Hajimete no Chikyuu Seikatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1426/100569.jpg",
+        "alt": "bumblebee-hajimete-no-chikyuu-seikatsu"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "バンブルビー初めての地球生活",
@@ -24,7 +28,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%83%96%E3%83%AB%E3%83%93%E3%83%BC_(%E6%98%A0%E7%94%BB"
+            "link": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%83%96%E3%83%AB%E3%83%93%E3%83%BC_%28%E6%98%A0%E7%94%BB%29#Web%E3%82%A2%E3%83%8B%E3%83%A1"
         }
     ]
 }

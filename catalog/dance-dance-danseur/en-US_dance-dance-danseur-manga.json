@@ -1,5 +1,9 @@
 {
     "title": "Dance Dance Danseur",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190277.jpg",
+        "alt": "dance-dance-danseur"
+    },
     "type": "manga",
     "original_name": "ダンス・ダンス・ダンスール",
     "start_date": "2015-09-14",

@@ -1,5 +1,9 @@
 {
     "title": "Uragiri no Butoukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152360.jpg",
+        "alt": "uragiri-no-butoukai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

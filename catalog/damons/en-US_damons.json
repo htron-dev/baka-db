@@ -1,5 +1,9 @@
 {
     "title": "Dämons",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/208631.jpg",
+        "alt": "damons"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "116",

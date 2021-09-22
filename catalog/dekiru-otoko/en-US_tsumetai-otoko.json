@@ -1,5 +1,9 @@
 {
     "title": "Tsumetai Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2603.jpg",
+        "alt": "tsumetai-otoko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

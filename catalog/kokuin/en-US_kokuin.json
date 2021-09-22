@@ -1,5 +1,9 @@
 {
     "title": "Kokuin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33852.jpg",
+        "alt": "kokuin"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "刻印",

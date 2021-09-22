@@ -1,5 +1,9 @@
 {
     "title": "Yakouun no Sarissa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228868.jpg",
+        "alt": "yakouun-no-sarissa"
+    },
     "type": "manga",
     "original_name": "夜光雲のサリッサ",
     "start_date": "2017-11-13",

@@ -1,5 +1,9 @@
 {
     "title": "Houkago, Sensei to Koi ni Ochiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/148059.jpg",
+        "alt": "houkago-sensei-to-koi-ni-ochiru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

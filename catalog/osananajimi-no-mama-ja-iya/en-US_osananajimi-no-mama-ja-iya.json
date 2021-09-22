@@ -1,5 +1,9 @@
 {
     "title": "Osananajimi no Mama ja Iya?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236798.jpg",
+        "alt": "osananajimi-no-mama-ja-iya"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "25",

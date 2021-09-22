@@ -1,5 +1,9 @@
 {
     "title": "Hajishirazu na Yoru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/23007.jpg",
+        "alt": "hajishirazu-na-yoru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

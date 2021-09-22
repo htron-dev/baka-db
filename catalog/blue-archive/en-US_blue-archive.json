@@ -1,5 +1,9 @@
 {
     "title": "Blue Archive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1521/114598.jpg",
+        "alt": "blue-archive"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ブルーアーカイブ",

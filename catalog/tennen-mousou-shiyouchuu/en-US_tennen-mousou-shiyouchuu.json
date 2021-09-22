@@ -1,5 +1,9 @@
 {
     "title": "Tennen Mousou Shiyouchuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/143885.jpg",
+        "alt": "tennen-mousou-shiyouchuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Densha Otoko: Demo, Ore Tabidatsu yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5240.jpg",
+        "alt": "densha-otoko-demo-ore-tabidatsu-yo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

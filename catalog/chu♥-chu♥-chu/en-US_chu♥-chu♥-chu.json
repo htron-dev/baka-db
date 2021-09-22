@@ -1,5 +1,9 @@
 {
     "title": "Chu♥Chu♥Chu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/207265.jpg",
+        "alt": "chu♥-chu♥-chu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

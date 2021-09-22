@@ -1,5 +1,9 @@
 {
     "title": "Juuou Mujin no Fafnir",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/139885.jpg",
+        "alt": "juuou-mujin-no-fafnir"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

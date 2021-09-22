@@ -1,5 +1,9 @@
 {
     "title": "Tonde Mon Pe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/15468.jpg",
+        "alt": "tonde-mon-pe"
+    },
     "type": "tv-serie",
     "episodes": "42",
     "original_name": "とんでモン・ぺ",

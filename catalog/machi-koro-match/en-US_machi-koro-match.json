@@ -1,5 +1,9 @@
 {
     "title": "Machi Koro Match! +",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/205021.jpg",
+        "alt": "machi-koro-match"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "23",

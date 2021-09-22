@@ -1,5 +1,9 @@
 {
     "title": "Teishu Genki de Maso ga Ii!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/202012.jpg",
+        "alt": "teishu-genki-de-maso-ga-ii"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "32",

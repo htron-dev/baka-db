@@ -1,5 +1,9 @@
 {
     "title": "Sargasso: The Unknown Space",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33975.jpg",
+        "alt": "sargasso-the-unknown-space"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "宇宙賃貸サルガッ荘",

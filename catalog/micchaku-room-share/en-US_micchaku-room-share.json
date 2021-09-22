@@ -1,5 +1,9 @@
 {
     "title": "Micchaku Room Share",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/245892.jpg",
+        "alt": "micchaku-room-share"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

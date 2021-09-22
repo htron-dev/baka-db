@@ -1,5 +1,9 @@
 {
     "title": "The Green Eyes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203563.jpg",
+        "alt": "the-green-eyes"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

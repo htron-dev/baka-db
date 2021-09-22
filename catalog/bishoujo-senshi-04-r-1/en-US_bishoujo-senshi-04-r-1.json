@@ -1,5 +1,9 @@
 {
     "title": "Bishoujo Senshi 04R1",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225958.jpg",
+        "alt": "bishoujo-senshi-04-r-1"
+    },
     "type": "manga",
     "original_name": "美少女戦士 04R1",
     "start_date": "2017-10-16",

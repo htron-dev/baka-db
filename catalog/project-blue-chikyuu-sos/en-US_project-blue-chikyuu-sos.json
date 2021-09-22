@@ -1,5 +1,9 @@
 {
     "title": "Project BLUE Chikyuu SOS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/34565.jpg",
+        "alt": "project-blue-chikyuu-sos"
+    },
     "type": "tv-serie",
     "episodes": "6",
     "original_name": "Project BLUE 地球 SOS",

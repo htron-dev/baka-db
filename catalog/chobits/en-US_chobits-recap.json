@@ -1,5 +1,9 @@
 {
     "title": "Chobits Recap",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/22857.jpg",
+        "alt": "chobits-recap"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ちょびっツ",

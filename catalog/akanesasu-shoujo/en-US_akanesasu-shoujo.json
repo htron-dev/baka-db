@@ -1,5 +1,9 @@
 {
     "title": "Akanesasu Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1210/95781.jpg",
+        "alt": "akanesasu-shoujo"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "あかねさす少女",

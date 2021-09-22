@@ -1,5 +1,9 @@
 {
     "title": "Marmalade Boy Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/4286.jpg",
+        "alt": "marmalade-boy-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ママレード・ボーイ (1995)",

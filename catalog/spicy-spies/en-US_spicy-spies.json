@@ -1,5 +1,9 @@
 {
     "title": "Spicy Spies",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/27297.jpg",
+        "alt": "spicy-spies"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

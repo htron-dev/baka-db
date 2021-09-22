@@ -1,5 +1,9 @@
 {
     "title": "Gin no Guardian II",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1187/98912.jpg",
+        "alt": "gin-no-guardian-ii"
+    },
     "type": "tv-serie",
     "episodes": "6",
     "original_name": "銀の墓守り II",

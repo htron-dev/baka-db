@@ -1,5 +1,9 @@
 {
     "title": "Baka to Test to Shoukanjuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179734.jpg",
+        "alt": "baka-to-test-to-shoukanjuu"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "84",

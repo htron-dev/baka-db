@@ -1,5 +1,9 @@
 {
     "title": "Soul Gadget Radiant",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164986.jpg",
+        "alt": "soul-gadget-radiant"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "85",

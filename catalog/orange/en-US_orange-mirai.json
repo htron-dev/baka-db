@@ -1,5 +1,9 @@
 {
     "title": "Orange: Mirai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/82129.jpg",
+        "alt": "orange-mirai"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "orange －未来－",

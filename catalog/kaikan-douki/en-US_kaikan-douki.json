@@ -1,5 +1,9 @@
 {
     "title": "Kaikan Douki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227701.jpg",
+        "alt": "kaikan-douki"
+    },
     "type": "manga",
     "original_name": "カイカンドウキ",
     "start_date": "2019-09-23",

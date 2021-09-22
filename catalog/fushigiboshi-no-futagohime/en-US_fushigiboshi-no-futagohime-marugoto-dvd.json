@@ -1,5 +1,9 @@
 {
     "title": "Fushigiboshi no☆Futagohime: Marugoto DVD",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1312/99254.jpg",
+        "alt": "fushigiboshi-no☆-futagohime-marugoto-dvd"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ふしぎ星の ☆ ふたご姫姫 まるごと DVD",
@@ -28,7 +32,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/%E5%B9%BC%E7%A8%9A%E5%9C%92_(%E9%9B%91%E8%AA%8C"
+            "link": "https://ja.wikipedia.org/wiki/%E5%B9%BC%E7%A8%9A%E5%9C%92_%28%E9%9B%91%E8%AA%8C%29"
         }
     ]
 }

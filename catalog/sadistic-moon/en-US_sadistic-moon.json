@@ -1,5 +1,9 @@
 {
     "title": "Sadistic Moon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177406.jpg",
+        "alt": "sadistic-moon"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "サディスティックムーン",

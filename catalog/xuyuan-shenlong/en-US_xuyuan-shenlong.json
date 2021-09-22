@@ -1,5 +1,9 @@
 {
     "title": "Xuyuan Shenlong",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1852/115246.jpg",
+        "alt": "xuyuan-shenlong"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "许愿神龙",

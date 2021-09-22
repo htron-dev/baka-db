@@ -1,5 +1,9 @@
 {
     "title": "Hi no Yama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198418.jpg",
+        "alt": "hi-no-yama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

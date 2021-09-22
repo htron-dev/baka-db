@@ -1,5 +1,9 @@
 {
     "title": "Hendo Garden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/88652.jpg",
+        "alt": "hendo-garden"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "辺土ガーデン",

@@ -1,5 +1,9 @@
 {
     "title": "Barbarossa Sakusen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/132033.jpg",
+        "alt": "barbarossa-sakusen"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "バルバロッサ作戦",

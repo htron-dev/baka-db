@@ -1,5 +1,9 @@
 {
     "title": "Chibi Maruko-chan: Kimi wo Wasurenai yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230459.jpg",
+        "alt": "chibi-maruko-chan-kimi-wo-wasurenai-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

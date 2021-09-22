@@ -1,5 +1,9 @@
 {
     "title": "Seisen Kyoushitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/169610.jpg",
+        "alt": "seisen-kyoushitsu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

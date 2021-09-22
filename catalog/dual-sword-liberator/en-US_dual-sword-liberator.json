@@ -1,5 +1,9 @@
 {
     "title": "Dual Sword Liberator",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176350.jpg",
+        "alt": "dual-sword-liberator"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "11",

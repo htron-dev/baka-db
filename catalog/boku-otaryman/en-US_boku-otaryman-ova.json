@@ -1,5 +1,9 @@
 {
     "title": "Boku, Otaryman.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/19796.jpg",
+        "alt": "boku-otaryman"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ぼく、オタリーマン。",

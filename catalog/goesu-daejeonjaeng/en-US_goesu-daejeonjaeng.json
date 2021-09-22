@@ -1,5 +1,9 @@
 {
     "title": "Goesu Daejeonjaeng",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/45056.jpg",
+        "alt": "goesu-daejeonjaeng"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "괴수대전쟁",

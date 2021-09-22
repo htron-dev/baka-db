@@ -1,5 +1,9 @@
 {
     "title": "Shake-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1311/103101.jpg",
+        "alt": "shake-chan"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "シャケちゃん",

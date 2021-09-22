@@ -1,5 +1,9 @@
 {
     "title": "Kimi ga Nokoshita Kimochi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26784.jpg",
+        "alt": "kimi-ga-nokoshita-kimochi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

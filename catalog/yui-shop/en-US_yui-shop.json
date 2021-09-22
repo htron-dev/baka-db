@@ -1,5 +1,9 @@
 {
     "title": "Yui Shop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/135935.jpg",
+        "alt": "yui-shop"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "YUI SHOP",

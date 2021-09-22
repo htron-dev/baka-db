@@ -1,5 +1,9 @@
 {
     "title": "Goku☆Raku Rockin' Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/109903.jpg",
+        "alt": "goku☆-raku-rockin-girl"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

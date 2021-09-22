@@ -1,5 +1,9 @@
 {
     "title": "Papa Mama Bye Bye",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/67947.jpg",
+        "alt": "papa-mama-bye-bye"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "パパ ママ バイバイ",

@@ -1,5 +1,9 @@
 {
     "title": "Kaguu no Perelman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32780.jpg",
+        "alt": "kaguu-no-perelman"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

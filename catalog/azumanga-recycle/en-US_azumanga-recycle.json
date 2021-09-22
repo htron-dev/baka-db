@@ -1,5 +1,9 @@
 {
     "title": "Azumanga - Recycle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32611.jpg",
+        "alt": "azumanga-recycle"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "あずまんがリサイクル",

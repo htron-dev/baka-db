@@ -1,5 +1,9 @@
 {
     "title": "Mayonaka no Ariadne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/89855.jpg",
+        "alt": "mayonaka-no-ariadne"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "15",

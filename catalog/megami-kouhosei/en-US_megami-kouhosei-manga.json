@@ -1,5 +1,9 @@
 {
     "title": "Megami Kouhosei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180628.jpg",
+        "alt": "megami-kouhosei"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "27",

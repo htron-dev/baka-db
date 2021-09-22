@@ -1,5 +1,9 @@
 {
     "title": "Maboroshi no Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/106467.jpg",
+        "alt": "maboroshi-no-hanayome"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "まぼろしの花嫁",

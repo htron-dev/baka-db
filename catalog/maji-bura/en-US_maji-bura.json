@@ -1,5 +1,9 @@
 {
     "title": "Maji Bura!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207066.jpg",
+        "alt": "maji-bura"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

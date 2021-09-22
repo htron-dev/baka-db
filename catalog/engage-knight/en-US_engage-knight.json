@@ -1,5 +1,9 @@
 {
     "title": "Engage Knight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/66211.jpg",
+        "alt": "engage-knight"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

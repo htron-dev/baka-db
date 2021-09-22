@@ -1,5 +1,9 @@
 {
     "title": "Tsuki no De wo Matte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/38079.jpg",
+        "alt": "tsuki-no-de-wo-matte"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

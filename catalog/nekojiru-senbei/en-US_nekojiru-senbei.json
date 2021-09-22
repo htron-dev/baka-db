@@ -1,5 +1,9 @@
 {
     "title": "Nekojiru Senbei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180253.jpg",
+        "alt": "nekojiru-senbei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "45",

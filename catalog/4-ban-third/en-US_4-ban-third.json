@@ -1,5 +1,9 @@
 {
     "title": "4 ban third",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7161.jpg",
+        "alt": "4-ban-third"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

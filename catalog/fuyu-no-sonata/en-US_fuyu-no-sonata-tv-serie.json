@@ -1,12 +1,16 @@
 {
     "title": "Fuyu no Sonata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/26302.jpg",
+        "alt": "fuyu-no-sonata"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "冬のソナタ",
     "start_date": "2009-10-17",
     "end_date": "2009-10-17",
     "opening_song": "\"From the Beginning to End\" by Ryu",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Believe You\" by Yoon Ji",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

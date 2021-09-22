@@ -1,5 +1,9 @@
 {
     "title": "Dororonpa!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/63501.jpg",
+        "alt": "dororonpa"
+    },
     "type": "tv-serie",
     "episodes": "115",
     "original_name": "どろろんぱっ！",

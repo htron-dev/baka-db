@@ -1,5 +1,9 @@
 {
     "title": "Dokonjougaeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192067.jpg",
+        "alt": "dokonjougaeru"
+    },
     "type": "manga",
     "volumes": "27",
     "original_name": "ど根性ガエル",

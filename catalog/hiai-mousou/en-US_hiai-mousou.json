@@ -1,5 +1,9 @@
 {
     "title": "Hiai Mousou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169448.jpg",
+        "alt": "hiai-mousou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

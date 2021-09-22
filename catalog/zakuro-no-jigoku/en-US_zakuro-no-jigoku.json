@@ -1,5 +1,9 @@
 {
     "title": "Zakuro no Jigoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205648.jpg",
+        "alt": "zakuro-no-jigoku"
+    },
     "type": "manga",
     "original_name": "柘榴ノ地獄",
     "start_date": "2017-08-11",

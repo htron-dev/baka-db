@@ -1,5 +1,9 @@
 {
     "title": "Bikemono Joushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26632.jpg",
+        "alt": "bikemono-joushi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "美獣上司",

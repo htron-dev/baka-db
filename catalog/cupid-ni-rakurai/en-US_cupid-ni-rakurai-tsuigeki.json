@@ -1,5 +1,9 @@
 {
     "title": "Cupid ni Rakurai: Tsuigeki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245896.jpg",
+        "alt": "cupid-ni-rakurai-tsuigeki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

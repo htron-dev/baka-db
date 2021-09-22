@@ -1,5 +1,9 @@
 {
     "title": "Alice to Taiyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/213171.jpg",
+        "alt": "alice-to-taiyou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

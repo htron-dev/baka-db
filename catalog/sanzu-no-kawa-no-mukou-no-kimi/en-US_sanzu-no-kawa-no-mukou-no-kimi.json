@@ -1,5 +1,9 @@
 {
     "title": "Sanzu no Kawa no Mukou no Kimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170601.jpg",
+        "alt": "sanzu-no-kawa-no-mukou-no-kimi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

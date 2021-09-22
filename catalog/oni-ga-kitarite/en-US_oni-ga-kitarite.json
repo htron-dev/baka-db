@@ -1,5 +1,9 @@
 {
     "title": "Oni Ga Kitarite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177666.jpg",
+        "alt": "oni-ga-kitarite"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

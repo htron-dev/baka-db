@@ -1,5 +1,9 @@
 {
     "title": "Maruman Loose Leaf",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1192/96919.jpg",
+        "alt": "maruman-loose-leaf"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "Maruman Loose Leaf",

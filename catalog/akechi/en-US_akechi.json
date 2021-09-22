@@ -1,5 +1,9 @@
 {
     "title": "Akechi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222898.jpg",
+        "alt": "akechi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "30",

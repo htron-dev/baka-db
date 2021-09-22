@@ -1,5 +1,9 @@
 {
     "title": "Gatapishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246420.jpg",
+        "alt": "gatapishi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Mizutama Panic.: This Is Mizutamashiro!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164523.jpg",
+        "alt": "mizutama-panic-this-is-mizutamashiro"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "21",

@@ -1,5 +1,9 @@
 {
     "title": "Ikai Hanazoushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/25907.jpg",
+        "alt": "ikai-hanazoushi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "異界・花草紙",

@@ -1,5 +1,9 @@
 {
     "title": "Hetalia: The World Twinkle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/71753.jpg",
+        "alt": "hetalia-the-world-twinkle"
+    },
     "type": "ona",
     "episodes": "15",
     "original_name": "ヘタリア The World Twinkle",

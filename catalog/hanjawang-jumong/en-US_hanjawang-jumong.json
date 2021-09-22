@@ -1,5 +1,9 @@
 {
     "title": "Hanjawang Jumong",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1270/114503.jpg",
+        "alt": "hanjawang-jumong"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "한자왕 주몽",

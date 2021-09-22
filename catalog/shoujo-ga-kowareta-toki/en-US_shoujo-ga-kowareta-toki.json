@@ -1,5 +1,9 @@
 {
     "title": "Shoujo ga Kowareta Toki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167184.jpg",
+        "alt": "shoujo-ga-kowareta-toki"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "少女が壊れたとき",

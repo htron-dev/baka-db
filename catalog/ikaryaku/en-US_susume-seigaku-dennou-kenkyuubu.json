@@ -1,5 +1,9 @@
 {
     "title": "Susume!! Seigaku Dennou Kenkyuubu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34510.jpg",
+        "alt": "susume-seigaku-dennou-kenkyuubu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "進め!!聖学電脳研究部",

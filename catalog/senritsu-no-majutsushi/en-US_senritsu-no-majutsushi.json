@@ -1,5 +1,9 @@
 {
     "title": "Senritsu no Majutsushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161816.jpg",
+        "alt": "senritsu-no-majutsushi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

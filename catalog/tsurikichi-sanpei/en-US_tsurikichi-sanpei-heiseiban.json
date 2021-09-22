@@ -1,5 +1,9 @@
 {
     "title": "Tsurikichi Sanpei Heiseiban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/74467.jpg",
+        "alt": "tsurikichi-sanpei-heiseiban"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "釣りキチ三平 平成版",

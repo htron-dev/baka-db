@@ -1,5 +1,9 @@
 {
     "title": "Kinjirareta Ai no Kajitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/40588.jpg",
+        "alt": "kinjirareta-ai-no-kajitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Pied Piper",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21668.jpg",
+        "alt": "pied-piper"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "32",

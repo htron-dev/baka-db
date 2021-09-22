@@ -1,5 +1,9 @@
 {
     "title": "Lemon Home Animation Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/72684.jpg",
+        "alt": "lemon-home-animation-gekijou"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "レモンホームアニメ劇場",

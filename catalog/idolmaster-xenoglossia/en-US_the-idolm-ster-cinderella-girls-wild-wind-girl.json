@@ -1,5 +1,9 @@
 {
     "title": "The Idolm@ster Cinderella Girls: Wild Wind Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202847.jpg",
+        "alt": "the-idolm-ster-cinderella-girls-wild-wind-girl"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "24",

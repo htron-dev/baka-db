@@ -1,5 +1,9 @@
 {
     "title": "Muteki no Love Power",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22632.jpg",
+        "alt": "muteki-no-love-power"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

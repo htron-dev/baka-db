@@ -1,5 +1,9 @@
 {
     "title": "Majime ni Otsukiai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/243766.jpg",
+        "alt": "majime-ni-otsukiai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Red Data Dragon Lord",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177291.jpg",
+        "alt": "red-data-dragon-lord"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "16",

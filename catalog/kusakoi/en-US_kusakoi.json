@@ -1,5 +1,9 @@
 {
     "title": "Kusakoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/109683.jpg",
+        "alt": "kusakoi"
+    },
     "type": "manga",
     "original_name": "草恋 －kusakoi－",
     "start_date": "2012-11-01",

@@ -1,5 +1,9 @@
 {
     "title": "Tsurugi no Kanata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234589.jpg",
+        "alt": "tsurugi-no-kanata"
+    },
     "type": "light-novel",
     "original_name": "つるぎのかなた",
     "start_date": "2019-02-09",

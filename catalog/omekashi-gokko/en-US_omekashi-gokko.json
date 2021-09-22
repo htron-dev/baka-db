@@ -1,5 +1,9 @@
 {
     "title": "Omekashi-gokko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186539.jpg",
+        "alt": "omekashi-gokko"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "おめかしごっこ",

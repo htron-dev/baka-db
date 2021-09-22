@@ -1,5 +1,9 @@
 {
     "title": "Taiban!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1019/114003.jpg",
+        "alt": "taiban"
+    },
     "type": "ona",
     "original_name": "タイバン!",
     "start_date": "2020-12-31",

@@ -1,5 +1,9 @@
 {
     "title": "Watashi wa Anata no Inu ni Naru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192561.jpg",
+        "alt": "watashi-wa-anata-no-inu-ni-naru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

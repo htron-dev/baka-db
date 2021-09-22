@@ -1,5 +1,9 @@
 {
     "title": "Shingakkou: Noli me Tangere",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/90195.jpg",
+        "alt": "shingakkou-noli-me-tangere"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

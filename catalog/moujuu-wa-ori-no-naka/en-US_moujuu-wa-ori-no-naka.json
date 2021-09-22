@@ -1,5 +1,9 @@
 {
     "title": "Moujuu wa Ori no Naka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23832.jpg",
+        "alt": "moujuu-wa-ori-no-naka"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "猛獣は檻の中",

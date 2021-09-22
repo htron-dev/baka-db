@@ -1,5 +1,9 @@
 {
     "title": "Itoshii, Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165880.jpg",
+        "alt": "itoshii-hito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

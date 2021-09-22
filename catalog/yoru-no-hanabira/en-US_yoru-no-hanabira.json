@@ -1,5 +1,9 @@
 {
     "title": "Yoru no Hanabira",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2455.jpg",
+        "alt": "yoru-no-hanabira"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

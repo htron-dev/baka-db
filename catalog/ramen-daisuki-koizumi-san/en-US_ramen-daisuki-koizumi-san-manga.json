@@ -1,5 +1,9 @@
 {
     "title": "Ramen Daisuki Koizumi-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193985.jpg",
+        "alt": "ramen-daisuki-koizumi-san"
+    },
     "type": "manga",
     "original_name": "ラーメン大好き小泉さん",
     "start_date": "2013-09-30",

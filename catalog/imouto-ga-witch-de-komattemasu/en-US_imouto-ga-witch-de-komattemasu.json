@@ -1,5 +1,9 @@
 {
     "title": "Imouto ga Witch de Komattemasu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163289.jpg",
+        "alt": "imouto-ga-witch-de-komattemasu"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "18",

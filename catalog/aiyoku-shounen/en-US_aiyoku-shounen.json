@@ -1,5 +1,9 @@
 {
     "title": "Aiyoku Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170082.jpg",
+        "alt": "aiyoku-shounen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

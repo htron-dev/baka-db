@@ -1,5 +1,9 @@
 {
     "title": "Cyborg 009: Kaijuu Sensou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/76036.jpg",
+        "alt": "cyborg-009-kaijuu-sensou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "サイボーグ００９ 怪獣戦争",

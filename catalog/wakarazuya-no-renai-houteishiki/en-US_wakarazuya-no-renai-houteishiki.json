@@ -1,5 +1,9 @@
 {
     "title": "Wakarazuya no Renai Houteishiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229794.jpg",
+        "alt": "wakarazuya-no-renai-houteishiki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

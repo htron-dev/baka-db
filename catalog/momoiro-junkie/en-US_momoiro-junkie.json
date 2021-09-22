@@ -1,5 +1,9 @@
 {
     "title": "Momoiro Junkie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203216.jpg",
+        "alt": "momoiro-junkie"
+    },
     "type": "manga",
     "original_name": "ももいろジャンキー",
     "start_date": "2017-09-19",

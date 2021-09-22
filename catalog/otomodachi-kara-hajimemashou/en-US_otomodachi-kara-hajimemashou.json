@@ -1,5 +1,9 @@
 {
     "title": "Otomodachi kara Hajimemashou.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/187025.jpg",
+        "alt": "otomodachi-kara-hajimemashou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

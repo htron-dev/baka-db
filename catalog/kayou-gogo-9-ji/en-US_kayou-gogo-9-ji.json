@@ -1,5 +1,9 @@
 {
     "title": "Kayou Gogo 9-ji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/14800.jpg",
+        "alt": "kayou-gogo-9-ji"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "火曜午後９時",

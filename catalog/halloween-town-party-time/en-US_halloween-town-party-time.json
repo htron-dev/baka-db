@@ -1,5 +1,9 @@
 {
     "title": "Halloween†Town: Party Time!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/42275.jpg",
+        "alt": "halloween-town-party-time"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

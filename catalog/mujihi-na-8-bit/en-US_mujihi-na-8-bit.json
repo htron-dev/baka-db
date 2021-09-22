@@ -1,5 +1,9 @@
 {
     "title": "Mujihi na 8bit",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174328.jpg",
+        "alt": "mujihi-na-8-bit"
+    },
     "type": "manga",
     "original_name": "無慈悲な 8bit",
     "start_date": "2015-01-08",

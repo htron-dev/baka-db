@@ -1,5 +1,9 @@
 {
     "title": "Senki Senki Momotama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/1503.jpg",
+        "alt": "senki-senki-momotama"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "64",

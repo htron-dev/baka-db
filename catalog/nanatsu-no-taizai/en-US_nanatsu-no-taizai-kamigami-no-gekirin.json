@@ -1,12 +1,16 @@
 {
     "title": "Nanatsu no Taizai: Kamigami no Gekirin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1546/103418.jpg",
+        "alt": "nanatsu-no-taizai-kamigami-no-gekirin"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "七つの大罪 神々の逆鱗",
     "start_date": "2019-10-09",
     "end_date": "2019-10-09",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"ROB THE FRONTIER\" by UVERworld (eps 1-12)",
+    "ending_song": "#1: \"Regeneration\" by Sora Amamiya (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

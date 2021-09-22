@@ -1,5 +1,9 @@
 {
     "title": "Tokage Ouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/4685.jpg",
+        "alt": "tokage-ouji"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

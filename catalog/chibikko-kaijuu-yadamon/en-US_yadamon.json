@@ -1,5 +1,9 @@
 {
     "title": "Yadamon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/82764.jpg",
+        "alt": "yadamon"
+    },
     "type": "tv-serie",
     "episodes": "170",
     "original_name": "ヤダモン",

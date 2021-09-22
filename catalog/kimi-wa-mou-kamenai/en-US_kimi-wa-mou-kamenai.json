@@ -1,5 +1,9 @@
 {
     "title": "Kimi wa Mou Kamenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/231526.jpg",
+        "alt": "kimi-wa-mou-kamenai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

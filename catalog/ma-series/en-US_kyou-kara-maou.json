@@ -1,12 +1,16 @@
 {
     "title": "Kyou kara Maou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/75544.jpg",
+        "alt": "kyou-kara-maou"
+    },
     "type": "tv-serie",
     "episodes": "78",
     "original_name": "今日からマ王！",
     "start_date": "2004-04-03",
     "end_date": "2004-04-03",
     "opening_song": "\"Hateshinaku Tooi Sora ni\" by The Stand Up",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Suteki na Shiawase\" by The Stand Up (eps 1-39)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

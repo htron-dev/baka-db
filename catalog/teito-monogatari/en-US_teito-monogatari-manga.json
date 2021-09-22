@@ -1,5 +1,9 @@
 {
     "title": "Teito Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/212602.jpg",
+        "alt": "teito-monogatari"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "帝都物語",

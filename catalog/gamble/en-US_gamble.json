@@ -1,5 +1,9 @@
 {
     "title": "Gamble!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16407.jpg",
+        "alt": "gamble"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "105",

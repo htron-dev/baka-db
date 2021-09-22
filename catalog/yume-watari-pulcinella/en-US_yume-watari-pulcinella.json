@@ -1,5 +1,9 @@
 {
     "title": "Yume Watari Pulcinella",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/64815.jpg",
+        "alt": "yume-watari-pulcinella"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "夢渡りのプルチネッラ",

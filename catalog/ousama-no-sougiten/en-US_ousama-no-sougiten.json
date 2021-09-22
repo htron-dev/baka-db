@@ -1,5 +1,9 @@
 {
     "title": "Ousama no Sougiten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172898.jpg",
+        "alt": "ousama-no-sougiten"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

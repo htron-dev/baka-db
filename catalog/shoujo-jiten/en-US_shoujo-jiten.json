@@ -1,5 +1,9 @@
 {
     "title": "Shoujo Jiten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215077.jpg",
+        "alt": "shoujo-jiten"
+    },
     "type": "manga",
     "original_name": "少女辞典",
     "start_date": "2017-05-29",

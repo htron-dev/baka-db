@@ -1,5 +1,9 @@
 {
     "title": "Atashi ni Ai wo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171965.jpg",
+        "alt": "atashi-ni-ai-wo"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "アタシに愛を!",

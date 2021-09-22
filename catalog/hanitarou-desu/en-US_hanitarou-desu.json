@@ -1,5 +1,9 @@
 {
     "title": "Hanitarou Desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/84056.jpg",
+        "alt": "hanitarou-desu"
+    },
     "type": "tv-serie",
     "episodes": "70",
     "original_name": "ハニ太郎です.",

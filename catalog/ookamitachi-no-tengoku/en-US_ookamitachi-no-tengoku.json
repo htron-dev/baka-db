@@ -1,5 +1,9 @@
 {
     "title": "Ookamitachi no Tengoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/29769.jpg",
+        "alt": "ookamitachi-no-tengoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Boku no Kichiku Megane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18103.jpg",
+        "alt": "boku-no-kichiku-megane"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Hakoniwa Hinatabokko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181598.jpg",
+        "alt": "hakoniwa-hinatabokko"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

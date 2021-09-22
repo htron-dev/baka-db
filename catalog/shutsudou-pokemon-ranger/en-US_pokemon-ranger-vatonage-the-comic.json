@@ -1,5 +1,9 @@
 {
     "title": "Pokémon Ranger Vatonage the Comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16991.jpg",
+        "alt": "pokemon-ranger-vatonage-the-comic"
+    },
     "type": "manga",
     "chapters": "4",
     "original_name": "ポケモンレンジャーバトナージ the Comic",

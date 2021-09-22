@@ -1,5 +1,9 @@
 {
     "title": "Suna no Sono ni Utatte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157250.jpg",
+        "alt": "suna-no-sono-ni-utatte"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

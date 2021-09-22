@@ -1,5 +1,9 @@
 {
     "title": "Royal Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30343.jpg",
+        "alt": "royal-love"
+    },
     "type": "manhwa",
     "original_name": "로열 러브",
     "tags": [

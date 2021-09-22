@@ -1,5 +1,9 @@
 {
     "title": "Suki ni Naranai yo, Senpai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160767.jpg",
+        "alt": "suki-ni-naranai-yo-senpai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "17",

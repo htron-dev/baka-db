@@ -1,5 +1,9 @@
 {
     "title": "Shingeki no Kyojin in the Dome: Heishi-tachi no Hoshizora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1893/99639.jpg",
+        "alt": "shingeki-no-kyojin-in-the-dome-heishi-tachi-no-hoshizora"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "進撃の巨人 IN THE DOME -兵士たちの星空-",
@@ -30,7 +34,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA_(%E3%82%A2%E3%83%8B%E3%83%A1"
+            "link": "https://ja.wikipedia.org/wiki/%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA_%28%E3%82%A2%E3%83%8B%E3%83%A1%29#%E3%83%97%E3%83%A9%E3%83%8D%E3%82%BF%E3%83%AA%E3%82%A6%E3%83%A0"
         }
     ]
 }

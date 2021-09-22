@@ -1,5 +1,9 @@
 {
     "title": "Killing Stalking",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/220586.jpg",
+        "alt": "killing-stalking"
+    },
     "type": "manhwa",
     "volumes": "8",
     "chapters": "67",

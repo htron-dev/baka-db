@@ -1,5 +1,9 @@
 {
     "title": "Ohenro.: Yorimichi Comic!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200713.jpg",
+        "alt": "ohenro-yorimichi-comic"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "35",

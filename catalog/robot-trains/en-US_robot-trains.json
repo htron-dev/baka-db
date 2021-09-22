@@ -1,5 +1,9 @@
 {
     "title": "Robot Trains",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1146/100482.jpg",
+        "alt": "robot-trains"
+    },
     "type": "tv-serie",
     "episodes": "32",
     "start_date": "2015-01-20",

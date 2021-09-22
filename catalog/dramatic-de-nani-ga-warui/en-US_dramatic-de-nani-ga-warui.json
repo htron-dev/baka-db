@@ -1,5 +1,9 @@
 {
     "title": "Dramatic de Nani ga Warui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239169.jpg",
+        "alt": "dramatic-de-nani-ga-warui"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

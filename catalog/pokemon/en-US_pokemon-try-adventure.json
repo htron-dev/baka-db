@@ -1,5 +1,9 @@
 {
     "title": "Pokémon Try Adventure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/68343.jpg",
+        "alt": "pokemon-try-adventure"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "49",

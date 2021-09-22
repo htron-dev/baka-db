@@ -1,5 +1,9 @@
 {
     "title": "Red Hood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/220673.jpg",
+        "alt": "red-hood"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

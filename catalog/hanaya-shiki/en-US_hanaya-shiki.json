@@ -1,5 +1,9 @@
 {
     "title": "Hanaya Shiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36808.jpg",
+        "alt": "hanaya-shiki"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "花屋＝式",

@@ -1,5 +1,9 @@
 {
     "title": "Sora no Otoshimono Pico",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/115493.jpg",
+        "alt": "sora-no-otoshimono-pico"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

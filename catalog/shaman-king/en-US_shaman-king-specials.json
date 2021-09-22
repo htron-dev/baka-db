@@ -1,5 +1,9 @@
 {
     "title": "Shaman King Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/21688.jpg",
+        "alt": "shaman-king-specials"
+    },
     "type": "special",
     "episodes": "5",
     "original_name": "シャーマンキング",

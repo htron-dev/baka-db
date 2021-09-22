@@ -1,5 +1,9 @@
 {
     "title": "Lonely Wolf, Lonely Sheep",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/60225.jpg",
+        "alt": "lonely-wolf-lonely-sheep"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

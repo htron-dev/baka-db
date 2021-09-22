@@ -1,5 +1,9 @@
 {
     "title": "Agape",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28916.jpg",
+        "alt": "agape"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

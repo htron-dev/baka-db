@@ -1,5 +1,9 @@
 {
     "title": "Hold Up Kids",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/28171.jpg",
+        "alt": "hold-up-kids"
+    },
     "type": "manga",
     "volumes": "7",
     "tags": [

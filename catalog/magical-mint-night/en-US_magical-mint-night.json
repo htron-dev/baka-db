@@ -1,5 +1,9 @@
 {
     "title": "Magical Mint Night",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/78783.jpg",
+        "alt": "magical-mint-night"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "マジカルミントナイト",

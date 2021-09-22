@@ -1,5 +1,9 @@
 {
     "title": "Kamitsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175919.jpg",
+        "alt": "kamitsuki"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "37",

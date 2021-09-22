@@ -1,5 +1,9 @@
 {
     "title": "Wagaya no Dungeon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177921.jpg",
+        "alt": "wagaya-no-dungeon"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "我が家のダンジョン",

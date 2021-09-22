@@ -1,5 +1,9 @@
 {
     "title": "Ganbare Genki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/25530.jpg",
+        "alt": "ganbare-genki"
+    },
     "type": "tv-serie",
     "episodes": "35",
     "original_name": "がんばれ元気",

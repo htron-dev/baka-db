@@ -1,5 +1,9 @@
 {
     "title": "Junkie Junk Guns",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/189947.jpg",
+        "alt": "junkie-junk-guns"
+    },
     "type": "light-novel",
     "original_name": "ジャンキージャンクガンズ",
     "start_date": "2017-02-10",

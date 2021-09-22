@@ -1,5 +1,9 @@
 {
     "title": "Koi to Utatane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/201246.jpg",
+        "alt": "koi-to-utatane"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "28",

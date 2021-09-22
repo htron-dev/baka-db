@@ -1,5 +1,9 @@
 {
     "title": "Boku no Lucky Star",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236720.jpg",
+        "alt": "boku-no-lucky-star"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

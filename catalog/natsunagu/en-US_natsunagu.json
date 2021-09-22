@@ -1,11 +1,15 @@
 {
     "title": "Natsunagu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1891/111484.jpg",
+        "alt": "natsunagu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "なつなぐ!",
     "start_date": "2020-01-07",
     "end_date": "2020-01-07",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Camellia\" by Rio (eps 1-2, 4-8, 10-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

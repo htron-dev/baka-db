@@ -1,5 +1,9 @@
 {
     "title": "Kyokou Suiri Mini Anime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1597/108435.jpg",
+        "alt": "kyokou-suiri-mini-anime"
+    },
     "type": "ona",
     "episodes": "38",
     "original_name": "虚構推理 ミニアニメ",

@@ -1,5 +1,9 @@
 {
     "title": "Mamotte Shugogetten! Retrouvailles",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/208711.jpg",
+        "alt": "mamotte-shugogetten-retrouvailles"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "38",

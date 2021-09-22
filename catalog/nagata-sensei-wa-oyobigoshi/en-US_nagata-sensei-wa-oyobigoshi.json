@@ -1,5 +1,9 @@
 {
     "title": "Nagata-sensei wa Oyobigoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/142089.jpg",
+        "alt": "nagata-sensei-wa-oyobigoshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

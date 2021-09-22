@@ -1,5 +1,9 @@
 {
     "title": "Itasha Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36884.jpg",
+        "alt": "itasha-musume"
+    },
     "type": "manga",
     "original_name": "痛車娘。",
     "start_date": "2010-05-01",

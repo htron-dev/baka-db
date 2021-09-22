@@ -1,5 +1,9 @@
 {
     "title": "High Score",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161967.jpg",
+        "alt": "high-score"
+    },
     "type": "manga",
     "original_name": "HIGH SCORE",
     "start_date": "1995-03-03",

@@ -1,5 +1,9 @@
 {
     "title": "Niku wo Hagu: Tooda Oto Tanpenshuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/244750.jpg",
+        "alt": "niku-wo-hagu-tooda-oto-tanpenshuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

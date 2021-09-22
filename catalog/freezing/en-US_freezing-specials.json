@@ -1,5 +1,9 @@
 {
     "title": "Freezing Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/28079.jpg",
+        "alt": "freezing-specials"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "はじけちゃう! ドキドキトラブルフリージング",
@@ -31,7 +35,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Freezing_(manhwa"
+            "link": "http://en.wikipedia.org/wiki/Freezing_%28manhwa%29"
         }
     ]
 }

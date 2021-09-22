@@ -1,5 +1,9 @@
 {
     "title": "Planet Ladder",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/155810.jpg",
+        "alt": "planet-ladder"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "プラネット・ラダー",

@@ -1,5 +1,9 @@
 {
     "title": "Mottomo Utsukushii Uso no Koto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39161.jpg",
+        "alt": "mottomo-utsukushii-uso-no-koto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Shooting Star Bebop: Cowboy Bebop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176770.jpg",
+        "alt": "shooting-star-bebop-cowboy-bebop"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

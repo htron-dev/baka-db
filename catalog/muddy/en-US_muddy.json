@@ -1,5 +1,9 @@
 {
     "title": "Muddy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190912.jpg",
+        "alt": "muddy"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "Tonari no Nanige-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/142305.jpg",
+        "alt": "tonari-no-nanige-san"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "75",

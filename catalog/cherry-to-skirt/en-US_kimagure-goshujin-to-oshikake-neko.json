@@ -1,5 +1,9 @@
 {
     "title": "Kimagure Goshujin to Oshikake Neko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224574.jpg",
+        "alt": "kimagure-goshujin-to-oshikake-neko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

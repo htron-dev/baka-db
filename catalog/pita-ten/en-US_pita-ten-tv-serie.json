@@ -1,5 +1,9 @@
 {
     "title": "Pita Ten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/25205.jpg",
+        "alt": "pita-ten"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ぴたテン",

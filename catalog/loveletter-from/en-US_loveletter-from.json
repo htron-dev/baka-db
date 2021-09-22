@@ -1,5 +1,9 @@
 {
     "title": "Loveletter from...",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/45543.jpg",
+        "alt": "loveletter-from"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Hana-chan to, Sekai no Katachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235828.jpg",
+        "alt": "hana-chan-to-sekai-no-katachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

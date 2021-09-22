@@ -1,5 +1,9 @@
 {
     "title": "Daidai wa, Hantoumei ni Nidone suru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167004.jpg",
+        "alt": "daidai-wa-hantoumei-ni-nidone-suru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Tobira no Soto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185584.jpg",
+        "alt": "tobira-no-soto"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "扉の外",

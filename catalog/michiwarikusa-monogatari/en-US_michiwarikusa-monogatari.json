@@ -1,5 +1,9 @@
 {
     "title": "Michiwarikusa Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170696.jpg",
+        "alt": "michiwarikusa-monogatari"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

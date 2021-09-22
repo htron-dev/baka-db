@@ -1,5 +1,9 @@
 {
     "title": "Idolls!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1962/111079.jpg",
+        "alt": "idolls"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "アイドールズ!",

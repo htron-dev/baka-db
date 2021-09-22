@@ -1,5 +1,9 @@
 {
     "title": "Rewrite: Side-B",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157788.jpg",
+        "alt": "rewrite-side-b"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "52",

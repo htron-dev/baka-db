@@ -1,5 +1,9 @@
 {
     "title": "Bar Lemon Heart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176112.jpg",
+        "alt": "bar-lemon-heart"
+    },
     "type": "manga",
     "original_name": "BAR レモン・ハート",
     "tags": [

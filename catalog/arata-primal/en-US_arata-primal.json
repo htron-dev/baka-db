@@ -1,5 +1,9 @@
 {
     "title": "Arata Primal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/220252.jpg",
+        "alt": "arata-primal"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "35",

@@ -1,5 +1,9 @@
 {
     "title": "Namida Usagi: Seifuku no Kataomoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/81328.jpg",
+        "alt": "namida-usagi-seifuku-no-kataomoi"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "58",

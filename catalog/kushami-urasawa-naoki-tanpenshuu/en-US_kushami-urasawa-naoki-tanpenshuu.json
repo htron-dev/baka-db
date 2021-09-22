@@ -1,5 +1,9 @@
 {
     "title": "Kushami: Urasawa Naoki Tanpenshuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/232632.jpg",
+        "alt": "kushami-urasawa-naoki-tanpenshuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

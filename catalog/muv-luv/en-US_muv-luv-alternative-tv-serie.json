@@ -1,5 +1,9 @@
 {
     "title": "Muv-Luv Alternative",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1188/117359.jpg",
+        "alt": "muv-luv-alternative"
+    },
     "type": "tv-serie",
     "original_name": "マブラヴ オルタネイティヴ",
     "start_date": "2021-10-20",

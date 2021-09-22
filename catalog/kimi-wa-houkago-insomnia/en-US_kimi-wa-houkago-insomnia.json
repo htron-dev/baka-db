@@ -1,5 +1,9 @@
 {
     "title": "Kimi wa Houkago Insomnia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221335.jpg",
+        "alt": "kimi-wa-houkago-insomnia"
+    },
     "type": "manga",
     "original_name": "君は放課後インソムニア",
     "start_date": "2019-05-20",

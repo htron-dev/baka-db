@@ -1,5 +1,9 @@
 {
     "title": "Dead Flag",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238695.jpg",
+        "alt": "dead-flag"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "31",

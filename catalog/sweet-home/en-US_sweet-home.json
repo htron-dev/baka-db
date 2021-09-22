@@ -1,5 +1,9 @@
 {
     "title": "Sweet Home",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227600.jpg",
+        "alt": "sweet-home"
+    },
     "type": "manhwa",
     "volumes": "12",
     "chapters": "141",

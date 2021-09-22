@@ -1,5 +1,9 @@
 {
     "title": "RPG Densetsu Hepoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/25075.jpg",
+        "alt": "rpg-densetsu-hepoi"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "RPG 伝説ヘポイ",

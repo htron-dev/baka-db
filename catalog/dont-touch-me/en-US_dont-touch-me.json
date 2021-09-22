@@ -1,5 +1,9 @@
 {
     "title": "Don't Touch Me!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7682.jpg",
+        "alt": "dont-touch-me"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "25",

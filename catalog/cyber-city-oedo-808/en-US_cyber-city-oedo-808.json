@@ -1,11 +1,15 @@
 {
     "title": "Cyber City Oedo 808",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/58763.jpg",
+        "alt": "cyber-city-oedo-808"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "CYBER CITY OEDO 808 (サイバーシティ オーエド ハチマルハチ)",
     "start_date": "1990-06-21",
     "end_date": "1990-06-21",
-    "opening_song": "\"Burning World",
+    "opening_song": "\"Burning World: Tsuioku no Commando (Burning World~追憶のコマンド~)\" by Hidemi Miura",
     "ending_song": "\"I May Be In Love With You\" by Hidemi Miura",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [

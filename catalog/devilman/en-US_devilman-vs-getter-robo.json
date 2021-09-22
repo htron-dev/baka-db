@@ -1,5 +1,9 @@
 {
     "title": "Devilman vs Getter Robo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/183220.jpg",
+        "alt": "devilman-vs-getter-robo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

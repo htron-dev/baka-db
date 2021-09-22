@@ -1,5 +1,9 @@
 {
     "title": "Mozaik Role",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/114967.jpg",
+        "alt": "mozaik-role"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

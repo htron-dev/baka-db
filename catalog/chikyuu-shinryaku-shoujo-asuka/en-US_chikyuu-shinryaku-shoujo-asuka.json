@@ -1,5 +1,9 @@
 {
     "title": "Chikyuu Shinryaku Shoujo Asuka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221780.jpg",
+        "alt": "chikyuu-shinryaku-shoujo-asuka"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

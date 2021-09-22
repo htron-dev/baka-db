@@ -1,12 +1,16 @@
 {
     "title": "Uchuu Senkan Yamato III",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/83046.jpg",
+        "alt": "uchuu-senkan-yamato-iii"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "宇宙戦艦ヤマト Ⅲ",
     "start_date": "1980-10-11",
     "end_date": "1980-10-11",
     "opening_song": "\"Uchuu Senkan Yamato (宇宙戦艦ヤマト)\" by Isao Sasaki & the Royal Knights",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ginga Densetsu (銀河伝説)\" by Hiromi Iwasaki (eps 1-2)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

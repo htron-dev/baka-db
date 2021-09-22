@@ -1,12 +1,16 @@
 {
     "title": "Aldnoah.Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/60263.jpg",
+        "alt": "aldnoah-zero"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "アルドノア・ゼロ",
     "start_date": "2014-07-06",
     "end_date": "2014-07-06",
     "opening_song": "\"heavenly blue\" by Kalafina (eps 2-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"heavenly blue\" by Kalafina (ep 1)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

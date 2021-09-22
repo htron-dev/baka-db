@@ -1,5 +1,9 @@
 {
     "title": "Hitotsu no Shigusa mo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/88951.jpg",
+        "alt": "hitotsu-no-shigusa-mo"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ひとつのしぐさも",

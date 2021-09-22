@@ -1,5 +1,9 @@
 {
     "title": "Mobile Suit Gundam SEED Frame Astrays",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16378.jpg",
+        "alt": "mobile-suit-gundam-seed-frame-astrays"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

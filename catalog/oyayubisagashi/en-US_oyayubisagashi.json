@@ -1,5 +1,9 @@
 {
     "title": "Oyayubisagashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/173687.jpg",
+        "alt": "oyayubisagashi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "親指さがし",

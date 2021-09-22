@@ -1,5 +1,9 @@
 {
     "title": "Casshern: Robot Hunter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/25790.jpg",
+        "alt": "casshern-robot-hunter"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "新造人間キャシャーン",

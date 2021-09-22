@@ -1,5 +1,9 @@
 {
     "title": "The End of the World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33905.jpg",
+        "alt": "the-end-of-the-world"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Chuugoku no Tsubo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176320.jpg",
+        "alt": "chuugoku-no-tsubo"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "中国の壺",

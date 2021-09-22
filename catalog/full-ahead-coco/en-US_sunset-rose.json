@@ -1,5 +1,9 @@
 {
     "title": "Sunset Rose",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/137659.jpg",
+        "alt": "sunset-rose"
+    },
     "type": "manga",
     "volumes": "21",
     "chapters": "64",

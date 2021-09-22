@@ -1,5 +1,9 @@
 {
     "title": "Rinjuu no Yousai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/216611.jpg",
+        "alt": "rinjuu-no-yousai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

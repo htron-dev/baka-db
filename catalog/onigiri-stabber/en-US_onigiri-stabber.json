@@ -1,5 +1,9 @@
 {
     "title": "Onigiri Stabber",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202992.jpg",
+        "alt": "onigiri-stabber"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

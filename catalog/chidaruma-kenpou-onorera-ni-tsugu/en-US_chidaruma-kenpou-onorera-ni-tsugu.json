@@ -1,5 +1,9 @@
 {
     "title": "Chidaruma Kenpou - Onorera ni Tsugu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26616.jpg",
+        "alt": "chidaruma-kenpou-onorera-ni-tsugu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

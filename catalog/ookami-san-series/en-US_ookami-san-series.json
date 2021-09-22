@@ -1,5 +1,9 @@
 {
     "title": "Ookami-san Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163083.jpg",
+        "alt": "ookami-san-series"
+    },
     "type": "light-novel",
     "volumes": "13",
     "original_name": "オオカミさんシリーズ",

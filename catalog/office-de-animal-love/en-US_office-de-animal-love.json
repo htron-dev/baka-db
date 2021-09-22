@@ -1,5 +1,9 @@
 {
     "title": "Office de Animal Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/109875.jpg",
+        "alt": "office-de-animal-love"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Saijaku no Shihaisha, toka.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171825.jpg",
+        "alt": "saijaku-no-shihaisha-toka"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

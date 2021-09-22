@@ -1,8 +1,12 @@
 {
     "title": "Yowamushi Pedal: Re:ROAD",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/86877.jpg",
+        "alt": "yowamushi-pedal-re-road"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "弱虫ペダル Re",
+    "original_name": "弱虫ペダル Re:ROAD",
     "start_date": "2015-06-12",
     "opening_song": "\"Remind (リマインド)\" by ROOKiEZ is PUNK'D",
     "ending_song": "\"Believer\" by LASTGASP",

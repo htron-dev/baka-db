@@ -1,5 +1,9 @@
 {
     "title": "Furatsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175576.jpg",
+        "alt": "furatsuki"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

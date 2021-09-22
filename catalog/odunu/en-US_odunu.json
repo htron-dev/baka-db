@@ -1,5 +1,9 @@
 {
     "title": "Odunu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/129889.jpg",
+        "alt": "odunu"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "オヅヌ",

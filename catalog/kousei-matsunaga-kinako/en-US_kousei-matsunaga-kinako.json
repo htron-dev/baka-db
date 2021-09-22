@@ -1,5 +1,9 @@
 {
     "title": "Kousei/Matsunaga Kinako",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247560.jpg",
+        "alt": "kousei-matsunaga-kinako"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

@@ -1,5 +1,9 @@
 {
     "title": "Infinite Blade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/9162.jpg",
+        "alt": "infinite-blade"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

@@ -1,5 +1,9 @@
 {
     "title": "Omega Shunki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227894.jpg",
+        "alt": "omega-shunki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

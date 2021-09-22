@@ -1,5 +1,9 @@
 {
     "title": "Vampire Hunter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/7358.jpg",
+        "alt": "vampire-hunter"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "ヴァンパイアハンター",

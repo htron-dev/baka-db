@@ -1,5 +1,9 @@
 {
     "title": "Babe-G",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/42657.jpg",
+        "alt": "babe-g"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ベイビーＧ",

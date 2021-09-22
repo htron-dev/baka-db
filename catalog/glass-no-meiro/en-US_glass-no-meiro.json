@@ -1,5 +1,9 @@
 {
     "title": "Glass no Meiro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12788.jpg",
+        "alt": "glass-no-meiro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

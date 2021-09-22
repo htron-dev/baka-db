@@ -1,5 +1,9 @@
 {
     "title": "Placebo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/18926.jpg",
+        "alt": "placebo"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "プラッシーボ",

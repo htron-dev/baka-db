@@ -1,5 +1,9 @@
 {
     "title": "KOOLS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18830.jpg",
+        "alt": "kools"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "KOOLS 愛し方を知らないあなたへ",

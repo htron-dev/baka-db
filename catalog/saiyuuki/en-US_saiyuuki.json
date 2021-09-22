@@ -1,5 +1,9 @@
 {
     "title": "Saiyuuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1741/100518.jpg",
+        "alt": "saiyuuki"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "西遊記",

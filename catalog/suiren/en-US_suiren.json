@@ -1,5 +1,9 @@
 {
     "title": "Suiren",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/41109.jpg",
+        "alt": "suiren"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

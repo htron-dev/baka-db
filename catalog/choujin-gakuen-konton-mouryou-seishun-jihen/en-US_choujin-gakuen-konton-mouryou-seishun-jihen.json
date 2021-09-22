@@ -1,5 +1,9 @@
 {
     "title": "Choujin Gakuen: Konton Mouryou Seishun Jihen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/57725.jpg",
+        "alt": "choujin-gakuen-konton-mouryou-seishun-jihen"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "41",

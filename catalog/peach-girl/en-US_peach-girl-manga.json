@@ -1,5 +1,9 @@
 {
     "title": "Peach Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181872.jpg",
+        "alt": "peach-girl"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "72",

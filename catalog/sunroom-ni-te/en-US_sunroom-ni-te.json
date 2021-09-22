@@ -1,5 +1,9 @@
 {
     "title": "Sunroom ni te",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/29270.jpg",
+        "alt": "sunroom-ni-te"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

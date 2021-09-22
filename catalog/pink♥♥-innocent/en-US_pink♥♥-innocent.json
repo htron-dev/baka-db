@@ -1,5 +1,9 @@
 {
     "title": "Pink♥♥Innocent",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/10364.jpg",
+        "alt": "pink♥♥-innocent"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "10",

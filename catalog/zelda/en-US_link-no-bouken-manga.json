@@ -1,5 +1,9 @@
 {
     "title": "Link no Bouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/230264.jpg",
+        "alt": "link-no-bouken"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

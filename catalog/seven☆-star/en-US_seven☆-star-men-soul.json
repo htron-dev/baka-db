@@ -1,5 +1,9 @@
 {
     "title": "Seven☆Star: Men Soul",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223405.jpg",
+        "alt": "seven☆-star-men-soul"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "70",

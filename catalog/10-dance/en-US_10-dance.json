@@ -1,5 +1,9 @@
 {
     "title": "10 Dance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/84969.jpg",
+        "alt": "10-dance"
+    },
     "type": "manga",
     "original_name": "10DANCE",
     "start_date": "2011-12-20",

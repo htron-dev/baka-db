@@ -1,5 +1,9 @@
 {
     "title": "Yumekui Merry",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/20001.jpg",
+        "alt": "yumekui-merry"
+    },
     "type": "manga",
     "volumes": "24",
     "chapters": "142",

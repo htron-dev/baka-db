@@ -1,5 +1,9 @@
 {
     "title": "Ninjaman Ippei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/56697.jpg",
+        "alt": "ninjaman-ippei"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "忍者マン 一平",

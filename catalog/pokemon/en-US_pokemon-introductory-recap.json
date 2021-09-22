@@ -1,8 +1,12 @@
 {
     "title": "Pokemon Introductory Recap",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/30675.jpg",
+        "alt": "pokemon-introductory-recap"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "Pokemon",
+    "original_name": "Pokemon: Ash's Journey",
     "start_date": "1998-07-18",
     "rating": "PG - Children",
     "tags": [

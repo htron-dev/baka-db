@@ -1,5 +1,9 @@
 {
     "title": "Alchemist no Nirvana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175991.jpg",
+        "alt": "alchemist-no-nirvana"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "40",

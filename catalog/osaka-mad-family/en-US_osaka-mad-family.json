@@ -1,5 +1,9 @@
 {
     "title": "Osaka Mad Family",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/217104.jpg",
+        "alt": "osaka-mad-family"
+    },
     "type": "manga",
     "original_name": "大阪 MAD ファミリー",
     "start_date": "2018-10-02",

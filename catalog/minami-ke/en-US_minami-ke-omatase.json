@@ -1,5 +1,9 @@
 {
     "title": "Minami-ke Omatase",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/53131.jpg",
+        "alt": "minami-ke-omatase"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "みなみけ おまたせ",

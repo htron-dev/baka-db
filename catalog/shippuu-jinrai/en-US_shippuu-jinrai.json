@@ -1,5 +1,9 @@
 {
     "title": "Shippuu Jinrai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227907.jpg",
+        "alt": "shippuu-jinrai"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "50",

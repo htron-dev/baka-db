@@ -1,5 +1,9 @@
 {
     "title": "Hashi no Mukou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/62825.jpg",
+        "alt": "hashi-no-mukou"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "端ノ向フ",

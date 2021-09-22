@@ -1,5 +1,9 @@
 {
     "title": "Mizukagekusa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226551.jpg",
+        "alt": "mizukagekusa"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "水影草",

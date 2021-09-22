@@ -1,5 +1,9 @@
 {
     "title": "Makunouchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22774.jpg",
+        "alt": "makunouchi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

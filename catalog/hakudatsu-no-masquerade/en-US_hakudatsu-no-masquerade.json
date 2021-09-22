@@ -1,5 +1,9 @@
 {
     "title": "Hakudatsu no Masquerade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/92791.jpg",
+        "alt": "hakudatsu-no-masquerade"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "白奪のマスカレイド",

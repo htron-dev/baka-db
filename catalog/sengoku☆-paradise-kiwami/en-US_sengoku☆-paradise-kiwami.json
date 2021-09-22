@@ -1,11 +1,15 @@
 {
     "title": "Sengoku☆Paradise Kiwami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/39031.jpg",
+        "alt": "sengoku☆-paradise-kiwami"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "戦国 ☆ パラダイス-極-（きわみ）",
     "start_date": "2011-10-04",
     "end_date": "2011-10-04",
-    "opening_song": "#01",
+    "opening_song": "#01: \"Return Ranse Dokugan Ryuu (リターン乱世独眼竜)\" by Tetsuya Kakihara (eps 1, 4-5, 8, 10, 12, 14, 16, 18, 20-21, 24)",
     "ending_song": "\"Return Ranse Dokugan Ryuu (リターン乱世独眼竜)\" by Tetsuya Kakihara (ep 26)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

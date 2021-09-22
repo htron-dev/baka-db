@@ -1,5 +1,9 @@
 {
     "title": "Ikki-kun no Heroine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167991.jpg",
+        "alt": "ikki-kun-no-heroine"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

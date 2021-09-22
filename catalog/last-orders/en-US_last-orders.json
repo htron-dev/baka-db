@@ -1,5 +1,9 @@
 {
     "title": "Last Orders",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/60623.jpg",
+        "alt": "last-orders"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "Last Orders",

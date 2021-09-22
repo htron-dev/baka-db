@@ -1,5 +1,9 @@
 {
     "title": "Motto Hanashi wo Shitai no dakedo.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/221368.jpg",
+        "alt": "motto-hanashi-wo-shitai-no-dakedo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

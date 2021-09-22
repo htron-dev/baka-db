@@ -1,5 +1,9 @@
 {
     "title": "Brave Star☆Romantics",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179653.jpg",
+        "alt": "brave-star☆-romantics"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "33",

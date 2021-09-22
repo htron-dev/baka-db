@@ -1,5 +1,9 @@
 {
     "title": "Maji de Watashi ni Koi Shinasai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/32541.jpg",
+        "alt": "maji-de-watashi-ni-koi-shinasai"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "真剣で私に恋しなさい！",

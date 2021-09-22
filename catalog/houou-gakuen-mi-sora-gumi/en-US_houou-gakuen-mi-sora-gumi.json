@@ -1,5 +1,9 @@
 {
     "title": "Houou Gakuen MiSORA-gumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155037.jpg",
+        "alt": "houou-gakuen-mi-sora-gumi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

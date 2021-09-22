@@ -1,5 +1,9 @@
 {
     "title": "Kiringaoka no Kokoroya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229388.jpg",
+        "alt": "kiringaoka-no-kokoroya"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "きりんが丘のココロ屋",

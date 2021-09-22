@@ -1,5 +1,9 @@
 {
     "title": "Night Fish",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/136243.jpg",
+        "alt": "night-fish"
+    },
     "type": "manhwa",
     "volumes": "9",
     "original_name": "물고기의 밤",

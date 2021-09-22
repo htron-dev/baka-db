@@ -1,5 +1,9 @@
 {
     "title": "Onnoji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/108711.jpg",
+        "alt": "onnoji"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "オンノジ",

@@ -1,5 +1,9 @@
 {
     "title": "Oden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/184493.jpg",
+        "alt": "oden"
+    },
     "type": "manga",
     "chapters": "10",
     "original_name": "おでん",

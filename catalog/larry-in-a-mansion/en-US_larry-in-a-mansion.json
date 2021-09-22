@@ -1,5 +1,9 @@
 {
     "title": "Larry in a Mansion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155105.jpg",
+        "alt": "larry-in-a-mansion"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "LARRY IN A MANSION",

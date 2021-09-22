@@ -1,5 +1,9 @@
 {
     "title": "Yuusha Ikkou Buraritabi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168127.jpg",
+        "alt": "yuusha-ikkou-buraritabi"
+    },
     "type": "light-novel",
     "original_name": "勇者一行ぶらり旅",
     "start_date": "2015-12-01",

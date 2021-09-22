@@ -1,5 +1,9 @@
 {
     "title": "Baki: Dai Raitaisai-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1924/109353.jpg",
+        "alt": "baki-dai-raitaisai-hen"
+    },
     "type": "ona",
     "episodes": "13",
     "original_name": "バキ 大擂台賽編",

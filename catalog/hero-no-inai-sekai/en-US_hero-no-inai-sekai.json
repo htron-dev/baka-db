@@ -1,5 +1,9 @@
 {
     "title": "Hero no Inai Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/231084.jpg",
+        "alt": "hero-no-inai-sekai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

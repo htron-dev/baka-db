@@ -1,12 +1,16 @@
 {
     "title": "Battery",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/79158.jpg",
+        "alt": "battery"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "バッテリー",
     "start_date": "2016-07-15",
     "end_date": "2016-07-15",
     "opening_song": "\"Itsuka no Jibun (いつかの自分)\" by anderlust",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ashita, Haru ga Kitara (明日、春が来たら)\" by anderlust (eps 1-5, 11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Battery_(novel_series"
+            "link": "http://en.wikipedia.org/wiki/Battery_%28novel_series%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Manga Grimm Douwa: Chuugoku Zangyaku Hiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/137371.jpg",
+        "alt": "manga-grimm-douwa-chuugoku-zangyaku-hiden"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

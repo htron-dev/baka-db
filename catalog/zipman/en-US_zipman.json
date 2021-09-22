@@ -1,5 +1,9 @@
 {
     "title": "Zipman!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228640.jpg",
+        "alt": "zipman"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

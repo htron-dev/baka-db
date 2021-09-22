@@ -1,5 +1,9 @@
 {
     "title": "Gogo Monster",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152364.jpg",
+        "alt": "gogo-monster"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

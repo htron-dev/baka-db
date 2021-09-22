@@ -1,5 +1,9 @@
 {
     "title": "Avian Wander: React",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/135831.jpg",
+        "alt": "avian-wander-react"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

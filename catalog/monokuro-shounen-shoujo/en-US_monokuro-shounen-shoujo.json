@@ -1,5 +1,9 @@
 {
     "title": "Monokuro Shounen Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/87753.jpg",
+        "alt": "monokuro-shounen-shoujo"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "71",

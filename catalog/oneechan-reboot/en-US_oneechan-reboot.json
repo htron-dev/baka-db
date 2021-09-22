@@ -1,5 +1,9 @@
 {
     "title": "Oneechan Reboot!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164120.jpg",
+        "alt": "oneechan-reboot"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

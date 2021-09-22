@@ -1,12 +1,16 @@
 {
     "title": "Uchuu Senkan Yamato",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1908/94946.jpg",
+        "alt": "uchuu-senkan-yamato"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "宇宙戦艦ヤマト",
     "start_date": "1974-10-06",
     "end_date": "1974-10-06",
     "opening_song": "\"Uchuu Senkan Yamato (宇宙戦艦ヤマト)\" by Isao Sasaki (eps 1-21, 23-25)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Makka na Scarf\" by Isao Sasaki (eps 1-21, 23-25)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

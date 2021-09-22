@@ -1,5 +1,9 @@
 {
     "title": "Psychic Academy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/25604.jpg",
+        "alt": "psychic-academy"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "サイキックアカデミー煌羅万象",

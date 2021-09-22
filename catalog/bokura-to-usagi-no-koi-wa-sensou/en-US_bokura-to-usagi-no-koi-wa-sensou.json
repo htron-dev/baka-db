@@ -1,5 +1,9 @@
 {
     "title": "Bokura to Usagi no Koi wa Sensou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190884.jpg",
+        "alt": "bokura-to-usagi-no-koi-wa-sensou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

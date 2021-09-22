@@ -1,5 +1,9 @@
 {
     "title": "Shin Cosmetics no Mahou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195000.jpg",
+        "alt": "shin-cosmetics-no-mahou"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "15",

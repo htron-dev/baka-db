@@ -1,5 +1,9 @@
 {
     "title": "Suzumin wa Nikushokukei Karyu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163872.jpg",
+        "alt": "suzumin-wa-nikushokukei-karyu"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "22",

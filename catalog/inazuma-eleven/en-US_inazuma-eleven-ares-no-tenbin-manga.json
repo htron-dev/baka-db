@@ -1,5 +1,9 @@
 {
     "title": "Inazuma Eleven: Ares no Tenbin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/231226.jpg",
+        "alt": "inazuma-eleven-ares-no-tenbin"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

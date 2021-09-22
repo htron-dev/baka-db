@@ -1,12 +1,16 @@
 {
     "title": "Shijou Saikyou no Deshi Kenichi OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1125/102421.jpg",
+        "alt": "shijou-saikyou-no-deshi-kenichi-ova"
+    },
     "type": "ova",
     "episodes": "11",
     "original_name": "史上最強の弟子 ケンイチ OVA",
     "start_date": "2012-03-14",
     "end_date": "2012-03-14",
     "opening_song": "\"Higher Ground\" by Tomokazu Seki (TV)",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Glory Days\" by Iori Nomizu (eps 1-2)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Kenja no Ishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198883.jpg",
+        "alt": "kenja-no-ishi"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "43",

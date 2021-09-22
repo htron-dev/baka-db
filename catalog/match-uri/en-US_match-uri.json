@@ -1,5 +1,9 @@
 {
     "title": "Match-uri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179020.jpg",
+        "alt": "match-uri"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Isekai demo Fuuzokujou Yattemita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238457.jpg",
+        "alt": "isekai-demo-fuuzokujou-yattemita"
+    },
     "type": "manga",
     "original_name": "異世界でも風俗嬢やってみた",
     "start_date": "2019-03-01",

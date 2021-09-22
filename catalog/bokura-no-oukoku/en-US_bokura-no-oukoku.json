@@ -1,5 +1,9 @@
 {
     "title": "Bokura no Oukoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170877.jpg",
+        "alt": "bokura-no-oukoku"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "27",

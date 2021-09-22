@@ -1,5 +1,9 @@
 {
     "title": "Durarara!! 18 Shiryaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167393.jpg",
+        "alt": "durarara-18-shiryaku"
+    },
     "type": "light-novel",
     "volumes": "18",
     "original_name": "デュラララ!! 十八史略",

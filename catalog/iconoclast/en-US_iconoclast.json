@@ -1,5 +1,9 @@
 {
     "title": "Iconoclast!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/128041.jpg",
+        "alt": "iconoclast"
+    },
     "type": "light-novel",
     "volumes": "10",
     "chapters": "34",

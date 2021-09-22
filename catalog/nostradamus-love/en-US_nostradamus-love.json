@@ -1,5 +1,9 @@
 {
     "title": "Nostradamus Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/168526.jpg",
+        "alt": "nostradamus-love"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

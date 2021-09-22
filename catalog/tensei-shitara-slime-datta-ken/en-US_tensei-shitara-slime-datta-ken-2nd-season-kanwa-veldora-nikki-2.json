@@ -1,8 +1,12 @@
 {
     "title": "Tensei Shitara Slime Datta Ken 2nd Season: Kanwa - Veldora Nikki 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1466/116175.jpg",
+        "alt": "tensei-shitara-slime-datta-ken-2nd-season-kanwa-veldora-nikki-2"
+    },
     "type": "special",
     "episodes": "1",
-    "original_name": "転生したらスライムだった件 閑話",
+    "original_name": "転生したらスライムだった件 閑話: ヴェルドラ日記 2",
     "start_date": "2021-06-29",
     "opening_song": "\"Storyteller\" by TRUE",
     "ending_song": "\"STORYSEEKER\" by STEREO DIVE FOUNDATION",
@@ -31,7 +35,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/List_of_That_Time_I_Got_Reincarnated_as_a_Slime_episodes#Season_2_(2021"
+            "link": "https://en.wikipedia.org/wiki/List_of_That_Time_I_Got_Reincarnated_as_a_Slime_episodes#Season_2_%282021%29"
         }
     ]
 }

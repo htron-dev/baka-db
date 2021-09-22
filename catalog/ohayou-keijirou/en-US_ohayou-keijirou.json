@@ -1,5 +1,9 @@
 {
     "title": "Ohayou Keijirou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176536.jpg",
+        "alt": "ohayou-keijirou"
+    },
     "type": "manga",
     "volumes": "29",
     "chapters": "290",

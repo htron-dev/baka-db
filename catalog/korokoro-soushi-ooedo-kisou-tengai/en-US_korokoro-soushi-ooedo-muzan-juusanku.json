@@ -1,5 +1,9 @@
 {
     "title": "Korokoro Soushi: Ooedo Muzan Juusanku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151338.jpg",
+        "alt": "korokoro-soushi-ooedo-muzan-juusanku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

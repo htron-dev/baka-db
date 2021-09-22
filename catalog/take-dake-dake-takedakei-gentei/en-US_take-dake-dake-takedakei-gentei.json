@@ -1,5 +1,9 @@
 {
     "title": "Take Dake Dake!: Takedakei Gentei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193754.jpg",
+        "alt": "take-dake-dake-takedakei-gentei"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

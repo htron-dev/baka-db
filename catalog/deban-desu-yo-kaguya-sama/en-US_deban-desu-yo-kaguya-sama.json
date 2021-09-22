@@ -1,5 +1,9 @@
 {
     "title": "Deban desu yo! Kaguya-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175722.jpg",
+        "alt": "deban-desu-yo-kaguya-sama"
+    },
     "type": "light-novel",
     "original_name": "出番ですよ! カグヤさま",
     "start_date": "2015-10-15",

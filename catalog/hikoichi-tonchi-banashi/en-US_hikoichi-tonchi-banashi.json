@@ -1,5 +1,9 @@
 {
     "title": "Hikoichi Tonchi Banashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/82696.jpg",
+        "alt": "hikoichi-tonchi-banashi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "彦一とんちばなし",

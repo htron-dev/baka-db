@@ -1,5 +1,9 @@
 {
     "title": "Enoshima Waikiki Shokudou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/66893.jpg",
+        "alt": "enoshima-waikiki-shokudou"
+    },
     "type": "manga",
     "original_name": "江の島ワイキキ食堂",
     "start_date": "2009-10-13",

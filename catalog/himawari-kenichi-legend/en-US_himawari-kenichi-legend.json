@@ -1,5 +1,9 @@
 {
     "title": "Himawari: Kenichi Legend",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163925.jpg",
+        "alt": "himawari-kenichi-legend"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "150",

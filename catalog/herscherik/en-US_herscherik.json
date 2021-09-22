@@ -1,5 +1,9 @@
 {
     "title": "Herscherik",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238392.jpg",
+        "alt": "herscherik"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "66",

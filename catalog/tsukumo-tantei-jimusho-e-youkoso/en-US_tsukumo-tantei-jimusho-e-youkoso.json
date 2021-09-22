@@ -1,5 +1,9 @@
 {
     "title": "Tsukumo Tantei Jimusho e Youkoso",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/9576.jpg",
+        "alt": "tsukumo-tantei-jimusho-e-youkoso"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

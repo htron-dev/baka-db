@@ -1,5 +1,9 @@
 {
     "title": "Chokotto Hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/211719.jpg",
+        "alt": "chokotto-hime"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "98",

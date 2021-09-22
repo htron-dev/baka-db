@@ -1,5 +1,9 @@
 {
     "title": "Koi no Kekkai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33052.jpg",
+        "alt": "koi-no-kekkai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "恋の結界",

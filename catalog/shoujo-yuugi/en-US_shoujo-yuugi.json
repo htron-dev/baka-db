@@ -1,5 +1,9 @@
 {
     "title": "Shoujo Yuugi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/31875.jpg",
+        "alt": "shoujo-yuugi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "少女遊戯",

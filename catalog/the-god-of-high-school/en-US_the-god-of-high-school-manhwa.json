@@ -1,5 +1,9 @@
 {
     "title": "The God of High School",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205814.jpg",
+        "alt": "the-god-of-high-school"
+    },
     "type": "manhwa",
     "original_name": "갓 오브 하이스쿨",
     "start_date": "2011-04-08",

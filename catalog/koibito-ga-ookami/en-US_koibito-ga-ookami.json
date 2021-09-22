@@ -1,5 +1,9 @@
 {
     "title": "Koibito ga Ookami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/43643.jpg",
+        "alt": "koibito-ga-ookami"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "恋人がオオカミ",

@@ -1,5 +1,9 @@
 {
     "title": "Cluster",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/58533.jpg",
+        "alt": "cluster"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "クラスター",

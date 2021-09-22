@@ -1,5 +1,9 @@
 {
     "title": "Limiter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/67055.jpg",
+        "alt": "limiter"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

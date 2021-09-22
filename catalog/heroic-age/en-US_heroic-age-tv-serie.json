@@ -1,12 +1,16 @@
 {
     "title": "Heroic Age",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/50435.jpg",
+        "alt": "heroic-age"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ヒロイック・エイジ",
     "start_date": "2007-04-02",
     "end_date": "2007-04-02",
     "opening_song": "\"gravitation\" by angela",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Azurite\" by Tae Urakabe",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

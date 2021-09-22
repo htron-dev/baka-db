@@ -1,5 +1,9 @@
 {
     "title": "Gate! Yonkoma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149801.jpg",
+        "alt": "gate-yonkoma"
+    },
     "type": "manga",
     "original_name": "げーと! よんコマ",
     "start_date": "2015-01-15",

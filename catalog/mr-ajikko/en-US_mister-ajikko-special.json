@@ -1,5 +1,9 @@
 {
     "title": "Mister Ajikko Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/64113.jpg",
+        "alt": "mister-ajikko-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "味将軍七包丁人だよ! 全員集合",

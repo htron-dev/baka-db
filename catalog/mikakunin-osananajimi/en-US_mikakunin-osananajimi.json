@@ -1,5 +1,9 @@
 {
     "title": "Mikakunin Osananajimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186636.jpg",
+        "alt": "mikakunin-osananajimi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

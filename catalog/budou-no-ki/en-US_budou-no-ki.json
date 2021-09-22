@@ -1,5 +1,9 @@
 {
     "title": "Budou no Ki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/94389.jpg",
+        "alt": "budou-no-ki"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ぶどうの木",

@@ -1,5 +1,9 @@
 {
     "title": "Ame Nochi Shy na Rainbow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/81816.jpg",
+        "alt": "ame-nochi-shy-na-rainbow"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

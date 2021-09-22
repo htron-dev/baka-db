@@ -1,8 +1,12 @@
 {
     "title": "Byulbyul Iyagi 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/26149.jpg",
+        "alt": "byulbyul-iyagi-2"
+    },
     "type": "movie",
     "episodes": "6",
-    "original_name": "별별이야기 2",
+    "original_name": "별별이야기 2: 여섯 빛깔 무지개",
     "start_date": "2008-04-17",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

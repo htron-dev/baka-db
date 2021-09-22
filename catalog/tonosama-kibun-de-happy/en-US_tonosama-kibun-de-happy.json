@@ -1,5 +1,9 @@
 {
     "title": "Tonosama Kibun de Happy!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164565.jpg",
+        "alt": "tonosama-kibun-de-happy"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "33",

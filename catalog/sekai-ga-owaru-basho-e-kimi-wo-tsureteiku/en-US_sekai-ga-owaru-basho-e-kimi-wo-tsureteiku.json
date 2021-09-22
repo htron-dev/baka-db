@@ -1,5 +1,9 @@
 {
     "title": "Sekai ga Owaru Basho e Kimi wo Tsureteiku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171100.jpg",
+        "alt": "sekai-ga-owaru-basho-e-kimi-wo-tsureteiku"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

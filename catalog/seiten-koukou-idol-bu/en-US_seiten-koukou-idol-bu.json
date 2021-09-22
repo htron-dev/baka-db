@@ -1,5 +1,9 @@
 {
     "title": "Seiten Koukou Idol-bu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155023.jpg",
+        "alt": "seiten-koukou-idol-bu"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "星天高校アイドル部!",

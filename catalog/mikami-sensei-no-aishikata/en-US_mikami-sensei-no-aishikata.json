@@ -1,5 +1,9 @@
 {
     "title": "Mikami-sensei no Aishikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160721.jpg",
+        "alt": "mikami-sensei-no-aishikata"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "34",

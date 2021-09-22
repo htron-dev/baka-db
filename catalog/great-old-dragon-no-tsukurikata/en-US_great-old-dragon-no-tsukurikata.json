@@ -1,5 +1,9 @@
 {
     "title": "Great Old: Dragon no Tsukurikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/206661.jpg",
+        "alt": "great-old-dragon-no-tsukurikata"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

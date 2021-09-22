@@ -1,5 +1,9 @@
 {
     "title": "Strawberry Fields wo Mou Ichido",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202510.jpg",
+        "alt": "strawberry-fields-wo-mou-ichido"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

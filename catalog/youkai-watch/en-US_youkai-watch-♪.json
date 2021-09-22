@@ -1,5 +1,9 @@
 {
     "title": "Youkai Watch ♪",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1281/113405.jpg",
+        "alt": "youkai-watch-♪"
+    },
     "type": "tv-serie",
     "original_name": "妖怪ウォッチ ♪",
     "start_date": "2021-04-09",

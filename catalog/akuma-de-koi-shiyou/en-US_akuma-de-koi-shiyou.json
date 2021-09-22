@@ -1,5 +1,9 @@
 {
     "title": "Akuma de Koi Shiyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/90797.jpg",
+        "alt": "akuma-de-koi-shiyou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

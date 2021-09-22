@@ -1,12 +1,16 @@
 {
     "title": "Dame x Prince Anime Caravan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/87462.jpg",
+        "alt": "dame-x-prince-anime-caravan"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ダメプリ ANIME CARAVAN",
     "start_date": "2018-01-10",
     "end_date": "2018-01-10",
     "opening_song": "\"DxDxD\" by BREAKERZ",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Light＆Shade\" by Ruze (Soma Saito) & Mare (Ryouhei Kimura) (eps 1-4)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

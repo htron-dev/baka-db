@@ -1,5 +1,9 @@
 {
     "title": "Neko no Shima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/130663.jpg",
+        "alt": "neko-no-shima"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

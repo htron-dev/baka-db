@@ -1,5 +1,9 @@
 {
     "title": "Uso, Uso, Uso",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/212887.jpg",
+        "alt": "uso-uso-uso"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

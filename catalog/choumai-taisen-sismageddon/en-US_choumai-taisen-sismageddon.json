@@ -1,5 +1,9 @@
 {
     "title": "Choumai Taisen Sismageddon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/123825.jpg",
+        "alt": "choumai-taisen-sismageddon"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "12",

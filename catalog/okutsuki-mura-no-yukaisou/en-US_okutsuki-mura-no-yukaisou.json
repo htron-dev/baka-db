@@ -1,5 +1,9 @@
 {
     "title": "Okutsuki Mura no Yukaisou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156840.jpg",
+        "alt": "okutsuki-mura-no-yukaisou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

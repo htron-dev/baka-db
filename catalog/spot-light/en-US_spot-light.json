@@ -1,5 +1,9 @@
 {
     "title": "Spot Light",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/137751.jpg",
+        "alt": "spot-light"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "スポットライト 公式コミック",

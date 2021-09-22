@@ -1,5 +1,9 @@
 {
     "title": "Beastars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/189832.jpg",
+        "alt": "beastars"
+    },
     "type": "manga",
     "volumes": "22",
     "chapters": "196",

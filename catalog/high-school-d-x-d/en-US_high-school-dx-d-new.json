@@ -1,12 +1,16 @@
 {
     "title": "High School DxD New",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/47729.jpg",
+        "alt": "high-school-dx-d-new"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ハイスクール D×D NEW",
     "start_date": "2013-07-07",
     "end_date": "2013-07-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Sympathy\" by Larval Stage Planning (eps 1-6)",
+    "ending_song": "#1: \"Houteishiki wa Kotaenai (方程式は答えない)\" by Occult Kenkyuubu Girls (Yoko Hikasa, Shizuka Itou, Azumi Asakura, Ayana Taketatsu) (eps 1-6)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

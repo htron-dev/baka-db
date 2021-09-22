@@ -1,5 +1,9 @@
 {
     "title": "Shibuya Guardian girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34306.jpg",
+        "alt": "shibuya-guardian-girls"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

@@ -1,5 +1,9 @@
 {
     "title": "Shin☆Daa! Daa! Daa!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41440.jpg",
+        "alt": "shin☆-daa-daa-daa"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

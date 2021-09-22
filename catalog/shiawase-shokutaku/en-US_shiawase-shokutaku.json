@@ -1,5 +1,9 @@
 {
     "title": "Shiawase Shokutaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/123651.jpg",
+        "alt": "shiawase-shokutaku"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "シアワセ食卓",

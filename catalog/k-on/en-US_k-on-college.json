@@ -1,5 +1,9 @@
 {
     "title": "K-On! College",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/91409.jpg",
+        "alt": "k-on-college"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

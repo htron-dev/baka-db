@@ -1,5 +1,9 @@
 {
     "title": "Cafe-Tic Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7632.jpg",
+        "alt": "cafe-tic-love"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "CAFE ちっく LOVE",

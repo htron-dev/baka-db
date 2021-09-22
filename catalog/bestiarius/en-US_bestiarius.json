@@ -1,5 +1,9 @@
 {
     "title": "Bestiarius",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/141557.jpg",
+        "alt": "bestiarius"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "54",

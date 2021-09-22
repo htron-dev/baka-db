@@ -1,5 +1,9 @@
 {
     "title": "One Room Wanko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207862.jpg",
+        "alt": "one-room-wanko"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

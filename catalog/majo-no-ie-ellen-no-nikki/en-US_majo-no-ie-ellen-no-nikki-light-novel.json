@@ -1,5 +1,9 @@
 {
     "title": "Majo no Ie: Ellen no Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/150605.jpg",
+        "alt": "majo-no-ie-ellen-no-nikki"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

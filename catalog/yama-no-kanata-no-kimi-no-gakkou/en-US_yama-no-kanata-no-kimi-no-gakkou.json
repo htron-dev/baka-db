@@ -1,5 +1,9 @@
 {
     "title": "Yama no Kanata no Kimi no Gakkou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/197988.jpg",
+        "alt": "yama-no-kanata-no-kimi-no-gakkou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

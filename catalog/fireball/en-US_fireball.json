@@ -1,5 +1,9 @@
 {
     "title": "Fireball",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/27729.jpg",
+        "alt": "fireball"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ファイアボール",
@@ -30,7 +34,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Fireball_(anime"
+            "link": "http://en.wikipedia.org/wiki/Fireball_%28anime%29"
         }
     ]
 }

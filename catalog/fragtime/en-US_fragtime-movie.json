@@ -1,5 +1,9 @@
 {
     "title": "Fragtime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1752/101373.jpg",
+        "alt": "fragtime"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "フラグタイム",

@@ -1,5 +1,9 @@
 {
     "title": "Hyakushou Kizoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34459.jpg",
+        "alt": "hyakushou-kizoku"
+    },
     "type": "manga",
     "original_name": "百姓貴族",
     "start_date": "2006-12-28",

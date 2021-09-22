@@ -1,5 +1,9 @@
 {
     "title": "Bouningen Weekend",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/79962.jpg",
+        "alt": "bouningen-weekend"
+    },
     "type": "ona",
     "episodes": "20",
     "original_name": "ボーニンゲン weekend",

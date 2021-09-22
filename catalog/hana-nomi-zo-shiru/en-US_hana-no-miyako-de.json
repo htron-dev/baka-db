@@ -1,5 +1,9 @@
 {
     "title": "Hana no Miyako de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/85993.jpg",
+        "alt": "hana-no-miyako-de"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

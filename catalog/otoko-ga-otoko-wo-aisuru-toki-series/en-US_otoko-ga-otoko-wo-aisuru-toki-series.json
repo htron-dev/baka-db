@@ -1,5 +1,9 @@
 {
     "title": "Otoko ga Otoko wo Aisuru Toki Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/25656.jpg",
+        "alt": "otoko-ga-otoko-wo-aisuru-toki-series"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "52",

@@ -1,5 +1,9 @@
 {
     "title": "Jounetsu no Hate ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40112.jpg",
+        "alt": "jounetsu-no-hate-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "情熱の果てに",

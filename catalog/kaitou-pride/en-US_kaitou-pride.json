@@ -1,5 +1,9 @@
 {
     "title": "Kaitou Pride",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/53297.jpg",
+        "alt": "kaitou-pride"
+    },
     "type": "tv-serie",
     "episodes": "105",
     "original_name": "怪盗プライド",

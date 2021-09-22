@@ -1,5 +1,9 @@
 {
     "title": "Material Night",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162674.jpg",
+        "alt": "material-night"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "41",

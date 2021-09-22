@@ -1,5 +1,9 @@
 {
     "title": "Seiso na Furi wo Shitemasu ga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227249.jpg",
+        "alt": "seiso-na-furi-wo-shitemasu-ga"
+    },
     "type": "manga",
     "original_name": "清楚なフリをしてますが",
     "start_date": "2019-06-25",

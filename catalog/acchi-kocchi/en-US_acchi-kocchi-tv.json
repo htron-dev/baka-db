@@ -1,5 +1,9 @@
 {
     "title": "Acchi Kocchi (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/46489.jpg",
+        "alt": "acchi-kocchi-tv"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "あっちこっち",

@@ -1,5 +1,9 @@
 {
     "title": "Boku no Geboku ni Nare!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171956.jpg",
+        "alt": "boku-no-geboku-ni-nare"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

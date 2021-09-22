@@ -1,5 +1,9 @@
 {
     "title": "Aoi Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/182493.jpg",
+        "alt": "aoi-hana"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "55",

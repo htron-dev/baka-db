@@ -1,5 +1,9 @@
 {
     "title": "Shinsotsu Nanafushigi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178357.jpg",
+        "alt": "shinsotsu-nanafushigi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "56",

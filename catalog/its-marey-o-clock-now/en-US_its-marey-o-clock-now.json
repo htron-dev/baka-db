@@ -1,5 +1,9 @@
 {
     "title": "It's Marey O'Clock Now!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1338/106579.jpg",
+        "alt": "its-marey-o-clock-now"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "it’s MAREY o’clock now!",

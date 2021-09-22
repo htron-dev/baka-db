@@ -1,5 +1,9 @@
 {
     "title": "Medarot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171501.jpg",
+        "alt": "medarot"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "メダロット",

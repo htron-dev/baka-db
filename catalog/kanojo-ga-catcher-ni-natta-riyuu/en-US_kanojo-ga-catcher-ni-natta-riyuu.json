@@ -1,5 +1,9 @@
 {
     "title": "Kanojo ga Catcher ni Natta Riyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169641.jpg",
+        "alt": "kanojo-ga-catcher-ni-natta-riyuu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

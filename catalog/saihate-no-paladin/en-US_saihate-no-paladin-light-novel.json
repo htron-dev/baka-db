@@ -1,5 +1,9 @@
 {
     "title": "Saihate no Paladin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180330.jpg",
+        "alt": "saihate-no-paladin"
+    },
     "type": "light-novel",
     "original_name": "最果てのパラディン",
     "start_date": "2016-03-25",

@@ -1,5 +1,9 @@
 {
     "title": "Front Mission - The Drive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/84011.jpg",
+        "alt": "front-mission-the-drive"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

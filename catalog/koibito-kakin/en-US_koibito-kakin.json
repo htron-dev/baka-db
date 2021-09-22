@@ -1,5 +1,9 @@
 {
     "title": "Koibito Kakin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224785.jpg",
+        "alt": "koibito-kakin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

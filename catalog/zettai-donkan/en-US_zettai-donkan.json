@@ -1,5 +1,9 @@
 {
     "title": "Zettai Donkan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150669.jpg",
+        "alt": "zettai-donkan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Tatakae! Tarantella",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/83204.jpg",
+        "alt": "tatakae-tarantella"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

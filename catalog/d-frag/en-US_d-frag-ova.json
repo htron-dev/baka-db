@@ -1,11 +1,15 @@
 {
     "title": "D-Frag!\\*",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/67077.jpg",
+        "alt": "d-frag"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ディーふらぐ! ウォーター!!",
     "start_date": "2014-09-22",
     "opening_song": "\"Stalemate! (すているめいと!)\" by IOSYS jk Girls",
-    "ending_song": "\"Minna no Namae wo Irete Kudasai (ミンナノナマエヲイレテクダサイ)\" by Roka Shibasaki (CV",
+    "ending_song": "\"Minna no Namae wo Irete Kudasai (ミンナノナマエヲイレテクダサイ)\" by Roka Shibasaki (CV: Kana Hanazawa), Takao (CV: Shizuka Itou) & Funabori (CV: Aki Toyosaki)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

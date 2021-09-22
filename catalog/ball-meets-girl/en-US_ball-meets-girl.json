@@ -1,5 +1,9 @@
 {
     "title": "Ball Meets Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171734.jpg",
+        "alt": "ball-meets-girl"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

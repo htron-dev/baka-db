@@ -1,5 +1,9 @@
 {
     "title": "Dynamite Deka: Burning 2020",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178454.jpg",
+        "alt": "dynamite-deka-burning-2020"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

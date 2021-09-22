@@ -1,5 +1,9 @@
 {
     "title": "Tsumari, Are.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/241610.jpg",
+        "alt": "tsumari-are"
+    },
     "type": "manga",
     "original_name": "つまり、アレ。",
     "start_date": "2017-01-07",

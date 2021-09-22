@@ -1,5 +1,9 @@
 {
     "title": "Love Hotel no Ueno-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180800.jpg",
+        "alt": "love-hotel-no-ueno-san"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "59",

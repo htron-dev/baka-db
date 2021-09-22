@@ -1,5 +1,9 @@
 {
     "title": "Yukemuri Sanctuary",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30631.jpg",
+        "alt": "yukemuri-sanctuary"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

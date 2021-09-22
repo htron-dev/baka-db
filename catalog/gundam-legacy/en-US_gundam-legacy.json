@@ -1,5 +1,9 @@
 {
     "title": "Gundam Legacy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/128373.jpg",
+        "alt": "gundam-legacy"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

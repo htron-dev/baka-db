@@ -1,5 +1,9 @@
 {
     "title": "Momoiro Tenshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/89597.jpg",
+        "alt": "momoiro-tenshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

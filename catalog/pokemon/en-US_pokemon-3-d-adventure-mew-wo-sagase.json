@@ -1,5 +1,9 @@
 {
     "title": "Pokemon 3D Adventure: Mew wo Sagase!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/30561.jpg",
+        "alt": "pokemon-3-d-adventure-mew-wo-sagase"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ポケモン３Ｄアドベンチャー　ミュウを探せ！",

@@ -1,5 +1,9 @@
 {
     "title": "Setsuyaku Rock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208526.jpg",
+        "alt": "setsuyaku-rock"
+    },
     "type": "manga",
     "original_name": "節約ロック",
     "start_date": "2016-12-22",

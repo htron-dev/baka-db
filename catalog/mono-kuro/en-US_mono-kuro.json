@@ -1,5 +1,9 @@
 {
     "title": "Mono Kuro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/64271.jpg",
+        "alt": "mono-kuro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

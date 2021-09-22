@@ -1,5 +1,9 @@
 {
     "title": "1-en no Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/34156.jpg",
+        "alt": "1-en-no-otoko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

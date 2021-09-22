@@ -1,5 +1,9 @@
 {
     "title": "Angelic Layer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179060.jpg",
+        "alt": "angelic-layer"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "28",

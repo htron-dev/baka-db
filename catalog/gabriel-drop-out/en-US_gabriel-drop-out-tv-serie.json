@@ -1,12 +1,16 @@
 {
     "title": "Gabriel DropOut",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/82590.jpg",
+        "alt": "gabriel-drop-out"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ガヴリールドロップアウト",
     "start_date": "2017-01-09",
     "end_date": "2017-01-09",
     "opening_song": "\"Gabriel Drop Kick (ガヴリールドロップキック)\" by Gabriel Tenma White (Miyu Tomita), Vignette Tsukinose April (Saori Oonishi), Satanichia Kurumizawa McDowell (Naomi Oozora), Raphiel Shiraha Ainsworth (Kana Hanazawa)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Gabriel Drop Kick (ガヴリールドロップキック)\" by Gabriel Tenma White (Miyu Tomita), Vignette Tsukinose April (Saori Oonishi), Satanichia Kurumizawa McDowell (Naomi Oozora), Raphiel Shiraha Ainsworth (Kana Hanazawa) (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

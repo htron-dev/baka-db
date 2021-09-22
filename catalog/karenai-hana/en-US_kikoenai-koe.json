@@ -1,5 +1,9 @@
 {
     "title": "Kikoenai Koe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23453.jpg",
+        "alt": "kikoenai-koe"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

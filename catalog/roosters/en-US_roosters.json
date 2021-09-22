@@ -1,5 +1,9 @@
 {
     "title": "Roosters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162494.jpg",
+        "alt": "roosters"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "13",

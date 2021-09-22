@@ -1,5 +1,9 @@
 {
     "title": "Ima wa Tooi Natsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23611.jpg",
+        "alt": "ima-wa-tooi-natsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Lodoss-tou Senki: Deedlit Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/135805.jpg",
+        "alt": "lodoss-tou-senki-deedlit-monogatari"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

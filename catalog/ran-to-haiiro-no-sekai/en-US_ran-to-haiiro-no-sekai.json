@@ -1,5 +1,9 @@
 {
     "title": "Ran to Haiiro no Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152107.jpg",
+        "alt": "ran-to-haiiro-no-sekai"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "51",

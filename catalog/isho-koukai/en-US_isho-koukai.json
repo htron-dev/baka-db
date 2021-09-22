@@ -1,5 +1,9 @@
 {
     "title": "Isho, Koukai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222550.jpg",
+        "alt": "isho-koukai"
+    },
     "type": "manga",
     "original_name": "遺書、公開。",
     "start_date": "2017-09-22",

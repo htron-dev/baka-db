@@ -1,5 +1,9 @@
 {
     "title": "Girls &amp; Panzer Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/42857.jpg",
+        "alt": "girls-amp-panzer-specials"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "ガールズ&パンツァー",

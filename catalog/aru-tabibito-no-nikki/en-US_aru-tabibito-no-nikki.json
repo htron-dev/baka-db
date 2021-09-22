@@ -1,5 +1,9 @@
 {
     "title": "Aru Tabibito no Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/2291.jpg",
+        "alt": "aru-tabibito-no-nikki"
+    },
     "type": "ona",
     "episodes": "6",
     "original_name": "或る旅人の日記",

@@ -1,5 +1,9 @@
 {
     "title": "Mayonaka no Untouchable",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16091.jpg",
+        "alt": "mayonaka-no-untouchable"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

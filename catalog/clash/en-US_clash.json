@@ -1,5 +1,9 @@
 {
     "title": "Clash",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/67863.jpg",
+        "alt": "clash"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

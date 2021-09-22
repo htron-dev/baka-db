@@ -1,5 +1,9 @@
 {
     "title": "Koi ga Bokura wo Yurusu Hani",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/30176.jpg",
+        "alt": "koi-ga-bokura-wo-yurusu-hani"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

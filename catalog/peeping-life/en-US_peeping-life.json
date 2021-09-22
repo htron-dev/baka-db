@@ -1,5 +1,9 @@
 {
     "title": "Peeping Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/23512.jpg",
+        "alt": "peeping-life"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "ピーピング・ライフ",

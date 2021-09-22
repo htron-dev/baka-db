@@ -1,5 +1,9 @@
 {
     "title": "Bakemono no Ko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186224.jpg",
+        "alt": "bakemono-no-ko"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Kappa no Sanpei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/26558.jpg",
+        "alt": "kappa-no-sanpei"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "カッパの三平",

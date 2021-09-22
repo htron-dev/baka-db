@@ -1,5 +1,9 @@
 {
     "title": "Bound Beauty",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/31428.jpg",
+        "alt": "bound-beauty"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "31",

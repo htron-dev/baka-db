@@ -1,5 +1,9 @@
 {
     "title": "Kajitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235498.jpg",
+        "alt": "kajitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

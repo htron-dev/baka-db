@@ -1,5 +1,9 @@
 {
     "title": "Sono Rokudenashi ni You ga Aru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/99127.jpg",
+        "alt": "sono-rokudenashi-ni-you-ga-aru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

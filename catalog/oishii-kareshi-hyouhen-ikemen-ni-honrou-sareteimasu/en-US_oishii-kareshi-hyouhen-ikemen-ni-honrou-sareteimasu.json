@@ -1,5 +1,9 @@
 {
     "title": "Oishii Kareshi: Hyouhen Ikemen ni Honrou Sareteimasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195277.jpg",
+        "alt": "oishii-kareshi-hyouhen-ikemen-ni-honrou-sareteimasu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Bird Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/4325.jpg",
+        "alt": "bird-kiss"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "30",

@@ -1,5 +1,9 @@
 {
     "title": "Paris no Koibitotachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15330.jpg",
+        "alt": "paris-no-koibitotachi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "パリの恋人たち",

@@ -1,5 +1,9 @@
 {
     "title": "W.I.T.C.H.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/212098.jpg",
+        "alt": "w-i-t-c-h"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Daigaku Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24037.jpg",
+        "alt": "tokyo-daigaku-monogatari"
+    },
     "type": "manga",
     "volumes": "34",
     "chapters": "375",

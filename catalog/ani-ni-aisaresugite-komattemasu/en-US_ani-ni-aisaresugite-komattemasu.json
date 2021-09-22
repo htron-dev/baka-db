@@ -1,5 +1,9 @@
 {
     "title": "Ani ni Aisaresugite Komattemasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167642.jpg",
+        "alt": "ani-ni-aisaresugite-komattemasu"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "72",

@@ -1,5 +1,9 @@
 {
     "title": "Oda Nobuna no Yabou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/80957.jpg",
+        "alt": "oda-nobuna-no-yabou"
+    },
     "type": "light-novel",
     "original_name": "織田信奈の野望",
     "start_date": "2009-08-31",

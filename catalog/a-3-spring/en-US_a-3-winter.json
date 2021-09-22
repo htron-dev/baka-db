@@ -1,5 +1,9 @@
 {
     "title": "A3! Winter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247519.jpg",
+        "alt": "a-3-winter"
+    },
     "type": "manga",
     "original_name": "A3! WINTER",
     "start_date": "2020-08-20",

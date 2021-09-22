@@ -1,5 +1,9 @@
 {
     "title": "Amai Oshioki wo Kimi ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/184799.jpg",
+        "alt": "amai-oshioki-wo-kimi-ni"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "1",

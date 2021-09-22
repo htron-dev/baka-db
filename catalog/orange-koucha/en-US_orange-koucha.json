@@ -1,5 +1,9 @@
 {
     "title": "Orange Koucha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200577.jpg",
+        "alt": "orange-koucha"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "オレンジ紅茶",

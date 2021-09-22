@@ -1,5 +1,9 @@
 {
     "title": "Haitoku no Konin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172287.jpg",
+        "alt": "haitoku-no-konin"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

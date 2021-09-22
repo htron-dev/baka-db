@@ -1,5 +1,9 @@
 {
     "title": "Fushigi Naido",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/83433.jpg",
+        "alt": "fushigi-naido"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ふしぎないど",

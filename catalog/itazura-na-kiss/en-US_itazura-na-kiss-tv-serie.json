@@ -1,12 +1,16 @@
 {
     "title": "Itazura na Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/19933.jpg",
+        "alt": "itazura-na-kiss"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "イタズラな Kiss",
     "start_date": "2008-04-05",
     "end_date": "2008-04-05",
     "opening_song": "\"Kimi, Meguru, Boku (キミ、メグル、ボク)\" by Motohiro Hata",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kataomoi Fighter (片思いファイター)\" by GO!GO!7188 (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

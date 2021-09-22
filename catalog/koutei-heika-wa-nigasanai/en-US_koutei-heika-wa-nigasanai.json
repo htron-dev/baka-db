@@ -1,5 +1,9 @@
 {
     "title": "Koutei Heika wa Nigasanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185923.jpg",
+        "alt": "koutei-heika-wa-nigasanai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "11",

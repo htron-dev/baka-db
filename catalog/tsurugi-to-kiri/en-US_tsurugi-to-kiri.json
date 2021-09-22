@@ -1,5 +1,9 @@
 {
     "title": "Tsurugi to Kiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166203.jpg",
+        "alt": "tsurugi-to-kiri"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

@@ -1,5 +1,9 @@
 {
     "title": "Anata no Omokage wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229900.jpg",
+        "alt": "anata-no-omokage-wo"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "あなたの面影を",

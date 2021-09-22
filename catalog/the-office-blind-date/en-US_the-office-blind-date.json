@@ -1,5 +1,9 @@
 {
     "title": "The Office Blind Date",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/242318.jpg",
+        "alt": "the-office-blind-date"
+    },
     "type": "manhwa",
     "volumes": "8",
     "chapters": "102",

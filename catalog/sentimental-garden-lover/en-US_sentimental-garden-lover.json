@@ -1,5 +1,9 @@
 {
     "title": "Sentimental Garden Lover",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24944.jpg",
+        "alt": "sentimental-garden-lover"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

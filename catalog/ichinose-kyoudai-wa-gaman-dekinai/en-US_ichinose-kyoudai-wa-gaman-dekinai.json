@@ -1,5 +1,9 @@
 {
     "title": "Ichinose Kyoudai wa Gaman Dekinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194990.jpg",
+        "alt": "ichinose-kyoudai-wa-gaman-dekinai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

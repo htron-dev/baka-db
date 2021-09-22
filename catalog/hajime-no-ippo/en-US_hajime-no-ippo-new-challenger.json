@@ -1,5 +1,9 @@
 {
     "title": "Hajime no Ippo: New Challenger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/56617.jpg",
+        "alt": "hajime-no-ippo-new-challenger"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "はじめの一歩 新シリーズ",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Fighting_Spirit_(manga"
+            "link": "http://en.wikipedia.org/wiki/Fighting_Spirit_%28manga%29#The_Second_Series"
         }
     ]
 }

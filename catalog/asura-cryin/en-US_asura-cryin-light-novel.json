@@ -1,5 +1,9 @@
 {
     "title": "Asura Cryin'",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/148515.jpg",
+        "alt": "asura-cryin"
+    },
     "type": "light-novel",
     "volumes": "14",
     "original_name": "アスラクライン",

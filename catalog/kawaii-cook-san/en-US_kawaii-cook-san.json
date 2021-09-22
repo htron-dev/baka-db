@@ -1,5 +1,9 @@
 {
     "title": "Kawaii Cook-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/63755.jpg",
+        "alt": "kawaii-cook-san"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "KAWAII COOK SAN",

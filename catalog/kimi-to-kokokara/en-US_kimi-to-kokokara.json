@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Kokokara!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32547.jpg",
+        "alt": "kimi-to-kokokara"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "キミとここから!",

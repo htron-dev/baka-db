@@ -1,5 +1,9 @@
 {
     "title": "Ai de Asobu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/62721.jpg",
+        "alt": "ai-de-asobu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

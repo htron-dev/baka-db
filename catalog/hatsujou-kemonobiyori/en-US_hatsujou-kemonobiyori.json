@@ -1,5 +1,9 @@
 {
     "title": "Hatsujou Kemonobiyori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238303.jpg",
+        "alt": "hatsujou-kemonobiyori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

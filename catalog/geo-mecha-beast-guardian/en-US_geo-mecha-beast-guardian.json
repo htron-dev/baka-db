@@ -1,5 +1,9 @@
 {
     "title": "Geo Mecha: Beast Guardian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1905/115251.jpg",
+        "alt": "geo-mecha-beast-guardian"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "지오메카 비스트가디언",

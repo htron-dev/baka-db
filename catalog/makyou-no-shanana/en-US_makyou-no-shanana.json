@@ -1,5 +1,9 @@
 {
     "title": "Makyou no Shanana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32560.jpg",
+        "alt": "makyou-no-shanana"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "38",

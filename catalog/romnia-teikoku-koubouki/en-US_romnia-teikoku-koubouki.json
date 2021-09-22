@@ -1,5 +1,9 @@
 {
     "title": "Romnia Teikoku Koubouki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177316.jpg",
+        "alt": "romnia-teikoku-koubouki"
+    },
     "type": "light-novel",
     "original_name": "ロムニア帝国興亡記",
     "start_date": "2013-09-20",

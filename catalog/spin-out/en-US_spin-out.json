@@ -1,5 +1,9 @@
 {
     "title": "Spin Out",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221773.jpg",
+        "alt": "spin-out"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

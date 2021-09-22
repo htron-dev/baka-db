@@ -1,5 +1,9 @@
 {
     "title": "Ichatsuki Taino",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/119883.jpg",
+        "alt": "ichatsuki-taino"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "いちゃつきたいの",

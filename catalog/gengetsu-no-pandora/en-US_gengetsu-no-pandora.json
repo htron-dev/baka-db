@@ -1,5 +1,9 @@
 {
     "title": "Gengetsu no Pandora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167534.jpg",
+        "alt": "gengetsu-no-pandora"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "幻月のパンドオラ",

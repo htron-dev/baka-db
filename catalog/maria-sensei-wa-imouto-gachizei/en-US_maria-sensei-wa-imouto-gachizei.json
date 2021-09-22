@@ -1,5 +1,9 @@
 {
     "title": "Maria-sensei wa Imouto Gachizei!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/213291.jpg",
+        "alt": "maria-sensei-wa-imouto-gachizei"
+    },
     "type": "manga",
     "original_name": "マリア先生は妹ガチ勢！",
     "start_date": "2018-04-06",

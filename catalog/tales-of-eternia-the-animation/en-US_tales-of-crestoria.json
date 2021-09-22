@@ -1,5 +1,9 @@
 {
     "title": "Tales of Crestoria",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1192/107274.jpg",
+        "alt": "tales-of-crestoria"
+    },
     "type": "ona",
     "episodes": "4",
     "original_name": "テイルズ オブ クレストリア",

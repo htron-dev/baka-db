@@ -1,5 +1,9 @@
 {
     "title": "Sakura Trick: Anthology Comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/121477.jpg",
+        "alt": "sakura-trick-anthology-comic"
+    },
     "type": "manga",
     "original_name": "桜 Trick アンソロジーコミック",
     "start_date": "2014-01-27",

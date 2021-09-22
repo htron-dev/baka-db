@@ -1,5 +1,9 @@
 {
     "title": "Ginga Densetsu Weed: Orion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30629.jpg",
+        "alt": "ginga-densetsu-weed-orion"
+    },
     "type": "manga",
     "volumes": "30",
     "chapters": "239",

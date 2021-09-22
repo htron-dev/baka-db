@@ -1,5 +1,9 @@
 {
     "title": "Suimitsutou no Yoru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153455.jpg",
+        "alt": "suimitsutou-no-yoru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

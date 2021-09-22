@@ -1,5 +1,9 @@
 {
     "title": "Monster Collection: Rakuin Seminar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162538.jpg",
+        "alt": "monster-collection-rakuin-seminar"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "15",

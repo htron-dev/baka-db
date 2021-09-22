@@ -1,5 +1,9 @@
 {
     "title": "Kami no Ko Nonoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/218112.jpg",
+        "alt": "kami-no-ko-nonoko"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

@@ -1,5 +1,9 @@
 {
     "title": "ənígmə",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/39803.jpg",
+        "alt": "ənigmə"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "56",

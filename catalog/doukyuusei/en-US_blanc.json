@@ -1,5 +1,9 @@
 {
     "title": "blanc",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/239600.jpg",
+        "alt": "blanc"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

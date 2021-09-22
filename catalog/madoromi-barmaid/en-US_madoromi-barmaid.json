@@ -1,5 +1,9 @@
 {
     "title": "Madoromi Barmaid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205193.jpg",
+        "alt": "madoromi-barmaid"
+    },
     "type": "manga",
     "original_name": "まどろみバーメイド",
     "start_date": "2017-03-10",

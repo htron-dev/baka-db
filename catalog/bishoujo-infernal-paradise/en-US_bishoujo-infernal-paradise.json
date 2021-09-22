@@ -1,5 +1,9 @@
 {
     "title": "Bishoujo Infernal Paradise!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194172.jpg",
+        "alt": "bishoujo-infernal-paradise"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "131",

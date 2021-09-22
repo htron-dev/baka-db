@@ -1,5 +1,9 @@
 {
     "title": "Yume Musubi, Koi Musubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24303.jpg",
+        "alt": "yume-musubi-koi-musubi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

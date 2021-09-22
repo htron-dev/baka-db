@@ -1,5 +1,9 @@
 {
     "title": "Iriya no Sora, Ufo no Natsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/43497.jpg",
+        "alt": "iriya-no-sora-ufo-no-natsu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no Match Uri Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/58705.jpg",
+        "alt": "hello-kitty-no-match-uri-shoujo"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハローキティのマッチ売りの少女",

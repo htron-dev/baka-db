@@ -1,5 +1,9 @@
 {
     "title": "Tide-Line Blue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170709.jpg",
+        "alt": "tide-line-blue"
+    },
     "type": "manga",
     "chapters": "10",
     "original_name": "タイドライン・ブルー",

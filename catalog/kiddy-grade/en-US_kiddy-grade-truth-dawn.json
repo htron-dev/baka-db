@@ -1,8 +1,12 @@
 {
     "title": "Kiddy Grade: Truth Dawn",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/56967.jpg",
+        "alt": "kiddy-grade-truth-dawn"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "キディ・グレイド　劇場版　第三部",
+    "original_name": "キディ・グレイド　劇場版　第三部: 黎明篇",
     "start_date": "2007-09-01",
     "ending_song": "\"Anata no You desu\" by Savage Genius",
     "rating": "PG-13 - Teens 13 or older",

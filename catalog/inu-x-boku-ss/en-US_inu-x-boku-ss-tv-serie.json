@@ -1,12 +1,16 @@
 {
     "title": "Inu x Boku SS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/35893.jpg",
+        "alt": "inu-x-boku-ss"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "妖狐 × 僕 SS",
     "start_date": "2012-01-13",
     "end_date": "2012-01-13",
     "opening_song": "\"Nirvana\" by MUCC (eps 2-10)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Nirvana\" by MUCC (eps 1, 11-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

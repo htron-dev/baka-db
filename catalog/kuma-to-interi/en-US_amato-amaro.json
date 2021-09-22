@@ -1,5 +1,9 @@
 {
     "title": "Amato Amaro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/19338.jpg",
+        "alt": "amato-amaro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

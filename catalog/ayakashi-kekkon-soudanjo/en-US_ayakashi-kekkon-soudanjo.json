@@ -1,5 +1,9 @@
 {
     "title": "Ayakashi Kekkon Soudanjo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/240289.jpg",
+        "alt": "ayakashi-kekkon-soudanjo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

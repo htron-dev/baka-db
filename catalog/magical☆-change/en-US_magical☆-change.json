@@ -1,5 +1,9 @@
 {
     "title": "Magical☆Change",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222013.jpg",
+        "alt": "magical☆-change"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Yami no Moribito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160113.jpg",
+        "alt": "yami-no-moribito"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

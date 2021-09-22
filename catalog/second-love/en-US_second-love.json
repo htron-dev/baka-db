@@ -1,5 +1,9 @@
 {
     "title": "Second Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/40677.jpg",
+        "alt": "second-love"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "セカンド・ラブ",

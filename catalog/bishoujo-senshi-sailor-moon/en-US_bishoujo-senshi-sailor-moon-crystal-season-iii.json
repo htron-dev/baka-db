@@ -1,12 +1,16 @@
 {
     "title": "Bishoujo Senshi Sailor Moon Crystal Season III",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/78859.jpg",
+        "alt": "bishoujo-senshi-sailor-moon-crystal-season-iii"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "美少女戦士セーラームーン Crystal 　第３期＜デス・バスターズ編＞",
     "start_date": "2016-04-04",
     "end_date": "2016-04-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"New Moon ni Koishite (ニュームーンに恋して)\" by Etsuko Yakushimaru (eps 1-4, 13)",
+    "ending_song": "#1: \"eternal eternity\" by Sailor Uranus (Junko Minagawa) × Sailor Neptune (Sayaka Ohara) (eps 1-4, 13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "demons",

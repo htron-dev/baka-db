@@ -1,5 +1,9 @@
 {
     "title": "Batman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153405.jpg",
+        "alt": "batman"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "53",

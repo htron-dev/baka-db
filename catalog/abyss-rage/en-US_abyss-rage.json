@@ -1,5 +1,9 @@
 {
     "title": "Abyss Rage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/212245.jpg",
+        "alt": "abyss-rage"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "100",

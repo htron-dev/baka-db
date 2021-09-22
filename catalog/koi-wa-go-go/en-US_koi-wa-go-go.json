@@ -1,5 +1,9 @@
 {
     "title": "Koi wa Go Go!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/130145.jpg",
+        "alt": "koi-wa-go-go"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

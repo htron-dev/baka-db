@@ -1,5 +1,9 @@
 {
     "title": "Saiyuuki Reload Blast",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180291.jpg",
+        "alt": "saiyuuki-reload-blast"
+    },
     "type": "manga",
     "original_name": "最遊記 RELOAD BLAST",
     "start_date": "2009-12-28",

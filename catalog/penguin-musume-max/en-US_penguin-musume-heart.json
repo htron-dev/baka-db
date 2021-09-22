@@ -1,12 +1,16 @@
 {
     "title": "Penguin Musume♥Heart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/8270.jpg",
+        "alt": "penguin-musume♥-heart"
+    },
     "type": "ona",
     "episodes": "22",
     "original_name": "ペンギン娘 ♥ はぁと",
     "start_date": "2008-04-19",
     "end_date": "2008-04-19",
-    "opening_song": "\"Renai Jiyuu Shoujo♀ (恋愛自由少女 ♀)\" by PNGN 6",
-    "ending_song": "#1",
+    "opening_song": "\"Renai Jiyuu Shoujo♀ (恋愛自由少女 ♀)\" by PNGN 6: Azusa Katoka, Mariya Ise, Yoshino Nanjou, Sakura Nogawa, Mai Kadowaki, Rina Hidaka",
+    "ending_song": "#1: \"Yurete Hajikete Afurechau☆Miwaku no Penguin Musume (揺れてはじけてあふれちゃう ☆ 魅惑のペンギン娘)\" by PNGN 4: Azusa Katoka, Mariya Ise, Yoshino Nanjou, Rina Hidaka",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "comedy",

@@ -1,5 +1,9 @@
 {
     "title": "Fairy Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157526.jpg",
+        "alt": "fairy-girls"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

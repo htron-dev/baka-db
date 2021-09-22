@@ -1,5 +1,9 @@
 {
     "title": "Evyione",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35409.jpg",
+        "alt": "evyione"
+    },
     "type": "manhwa",
     "volumes": "12",
     "original_name": "에뷔오네 (Evyione)",

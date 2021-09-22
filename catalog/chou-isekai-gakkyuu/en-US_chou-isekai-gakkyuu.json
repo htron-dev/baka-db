@@ -1,5 +1,9 @@
 {
     "title": "Chou! Isekai Gakkyuu!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/207718.jpg",
+        "alt": "chou-isekai-gakkyuu"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "28",

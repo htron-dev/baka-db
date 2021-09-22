@@ -1,5 +1,9 @@
 {
     "title": "Platinum Pasta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/232125.jpg",
+        "alt": "platinum-pasta"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Animal Touch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/78067.jpg",
+        "alt": "animal-touch"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "アニマル Touch",

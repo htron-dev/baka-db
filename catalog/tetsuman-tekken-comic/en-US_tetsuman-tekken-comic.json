@@ -1,5 +1,9 @@
 {
     "title": "Tetsuman: Tekken Comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/35128.jpg",
+        "alt": "tetsuman-tekken-comic"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

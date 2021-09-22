@@ -1,5 +1,9 @@
 {
     "title": "Usagi no Yome wo Moraimashite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152801.jpg",
+        "alt": "usagi-no-yome-wo-moraimashite"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "うさぎの嫁をもらいまして",

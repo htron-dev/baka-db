@@ -1,11 +1,15 @@
 {
     "title": "Dokyuu Hentai HxEros",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1342/108321.jpg",
+        "alt": "dokyuu-hentai-hx-eros"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ド級編隊エグゼロス",
     "start_date": "2020-07-04",
     "end_date": "2020-07-04",
-    "opening_song": "\"Wake Up Hx ERO! feat. Retto Enjou (CV",
+    "opening_song": "\"Wake Up Hx ERO! feat. Retto Enjou (CV: Yoshitsugu Matsuoka) (Wake Up Hx ERO! feat. 炎城烈人（CV.松岡禎丞）)\" by HXEROS SYNDROMES",
     "ending_song": "\"lost emotion\" by Kirara Hoshino (Ai Kakuma)",
     "rating": "R+ - Mild Nudity",
     "tags": [

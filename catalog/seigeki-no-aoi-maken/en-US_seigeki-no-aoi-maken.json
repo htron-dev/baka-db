@@ -1,5 +1,9 @@
 {
     "title": "Seigeki no Aoi Maken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160957.jpg",
+        "alt": "seigeki-no-aoi-maken"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Emerald ni Taberaretai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245202.jpg",
+        "alt": "emerald-ni-taberaretai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "23",

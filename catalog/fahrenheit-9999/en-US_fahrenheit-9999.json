@@ -1,5 +1,9 @@
 {
     "title": "Fahrenheit 9999",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181322.jpg",
+        "alt": "fahrenheit-9999"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "14",

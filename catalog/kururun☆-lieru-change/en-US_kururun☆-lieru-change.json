@@ -1,5 +1,9 @@
 {
     "title": "Kururun☆Lieru Change!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/147185.jpg",
+        "alt": "kururun☆-lieru-change"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

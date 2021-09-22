@@ -1,5 +1,9 @@
 {
     "title": "Bara Seiyoukan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/93581.jpg",
+        "alt": "bara-seiyoukan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

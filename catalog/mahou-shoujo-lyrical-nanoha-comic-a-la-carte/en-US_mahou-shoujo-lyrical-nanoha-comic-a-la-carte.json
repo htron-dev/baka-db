@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo Lyrical Nanoha: Comic à la carte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40603.jpg",
+        "alt": "mahou-shoujo-lyrical-nanoha-comic-a-la-carte"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "魔法少女リリカルなのは コミックアラカルト",

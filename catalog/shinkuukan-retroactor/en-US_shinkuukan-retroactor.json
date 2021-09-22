@@ -1,5 +1,9 @@
 {
     "title": "Shinkuukan Retroactor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158729.jpg",
+        "alt": "shinkuukan-retroactor"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "12",

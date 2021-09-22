@@ -1,5 +1,9 @@
 {
     "title": "Himono, Tokidoki, Shanairenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/223043.jpg",
+        "alt": "himono-tokidoki-shanairenai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

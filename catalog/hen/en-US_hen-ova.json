@@ -1,5 +1,9 @@
 {
     "title": "Hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/4818.jpg",
+        "alt": "hen"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "変",
@@ -28,7 +32,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Hen_(manga"
+            "link": "http://en.wikipedia.org/wiki/Hen_%28manga%29"
         }
     ]
 }

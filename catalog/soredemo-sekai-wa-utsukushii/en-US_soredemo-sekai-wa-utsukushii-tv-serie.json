@@ -1,5 +1,9 @@
 {
     "title": "Soredemo Sekai wa Utsukushii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/59259.jpg",
+        "alt": "soredemo-sekai-wa-utsukushii"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "それでも世界は美しい",

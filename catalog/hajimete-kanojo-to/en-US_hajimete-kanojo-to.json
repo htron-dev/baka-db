@@ -1,5 +1,9 @@
 {
     "title": "Hajimete, Kanojo to.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/105079.jpg",
+        "alt": "hajimete-kanojo-to"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

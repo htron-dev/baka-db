@@ -1,12 +1,16 @@
 {
     "title": "Rokushin Gattai GodMars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/21725.jpg",
+        "alt": "rokushin-gattai-god-mars"
+    },
     "type": "tv-serie",
     "episodes": "64",
     "original_name": "六神合体ゴッドマーズ",
     "start_date": "1981-10-02",
     "end_date": "1981-10-02",
     "opening_song": "\"Uchuu no Ouja! GodMars (宇宙の王者!ゴッドマーズ)\" by Ippo Hiura",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ai no Kinjitou (愛の金字塔)\" by Ippo Hiura",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

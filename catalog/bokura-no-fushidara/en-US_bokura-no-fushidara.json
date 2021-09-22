@@ -1,5 +1,9 @@
 {
     "title": "Bokura no Fushidara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169703.jpg",
+        "alt": "bokura-no-fushidara"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

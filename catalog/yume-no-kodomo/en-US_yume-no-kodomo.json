@@ -1,5 +1,9 @@
 {
     "title": "Yume no Kodomo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32060.jpg",
+        "alt": "yume-no-kodomo"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "30",

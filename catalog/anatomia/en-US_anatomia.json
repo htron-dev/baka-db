@@ -1,5 +1,9 @@
 {
     "title": "Anatomia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/79363.jpg",
+        "alt": "anatomia"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "アナトミア",

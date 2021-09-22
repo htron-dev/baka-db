@@ -1,5 +1,9 @@
 {
     "title": "Wagashi no Anne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177792.jpg",
+        "alt": "wagashi-no-anne"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

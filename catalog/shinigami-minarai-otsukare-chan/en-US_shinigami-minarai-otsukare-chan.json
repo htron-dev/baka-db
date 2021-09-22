@@ -1,5 +1,9 @@
 {
     "title": "Shinigami Minarai! Otsukare-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215546.jpg",
+        "alt": "shinigami-minarai-otsukare-chan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "32",

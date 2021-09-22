@@ -1,5 +1,9 @@
 {
     "title": "Asoviva",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/42639.jpg",
+        "alt": "asoviva"
+    },
     "type": "manga",
     "original_name": "アソビバ",
     "tags": [

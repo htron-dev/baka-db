@@ -1,12 +1,16 @@
 {
     "title": "Idol Tenshi Youkoso Youko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/9469.jpg",
+        "alt": "idol-tenshi-youkoso-youko"
+    },
     "type": "tv-serie",
     "episodes": "43",
     "original_name": "アイドル天使ようこそようこ",
     "start_date": "1990-04-02",
     "end_date": "1990-04-02",
     "opening_song": "\"Youshun no Passage (陽春のパッセージ)\" by Mika Kanai",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hitori ni Sasenai (一人にさせない)\" by Mika Kanai",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

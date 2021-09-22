@@ -1,5 +1,9 @@
 {
     "title": "Prison Hearts",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179150.jpg",
+        "alt": "prison-hearts"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

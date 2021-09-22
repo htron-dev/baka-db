@@ -1,5 +1,9 @@
 {
     "title": "S no Yuiitsu! M no Zettai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16856.jpg",
+        "alt": "s-no-yuiitsu-m-no-zettai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

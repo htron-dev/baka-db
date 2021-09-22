@@ -1,5 +1,9 @@
 {
     "title": "Asatte no Houkou.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/33018.jpg",
+        "alt": "asatte-no-houkou"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "29",

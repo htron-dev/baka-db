@@ -1,5 +1,9 @@
 {
     "title": "Scarlet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/219498.jpg",
+        "alt": "scarlet"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

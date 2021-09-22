@@ -1,5 +1,9 @@
 {
     "title": "Wata no Kuni Hoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/13204.jpg",
+        "alt": "wata-no-kuni-hoshi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "綿の国星",

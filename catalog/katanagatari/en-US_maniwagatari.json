@@ -1,5 +1,9 @@
 {
     "title": "Maniwagatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167365.jpg",
+        "alt": "maniwagatari"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

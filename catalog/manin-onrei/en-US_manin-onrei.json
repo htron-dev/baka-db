@@ -1,5 +1,9 @@
 {
     "title": "Manin Onrei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/37799.jpg",
+        "alt": "manin-onrei"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "満員御礼",

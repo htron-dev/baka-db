@@ -1,5 +1,9 @@
 {
     "title": "Akuma to Koi nanka Shimasen!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165533.jpg",
+        "alt": "akuma-to-koi-nanka-shimasen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

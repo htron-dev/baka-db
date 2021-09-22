@@ -1,5 +1,9 @@
 {
     "title": "Hakujin to Kurobotan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224771.jpg",
+        "alt": "hakujin-to-kurobotan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

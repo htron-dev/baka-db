@@ -1,5 +1,9 @@
 {
     "title": "I''s",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/1084.jpg",
+        "alt": "is"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "フロムアイズ ～もうひとつの夏の物語～",

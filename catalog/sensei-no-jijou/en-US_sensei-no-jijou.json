@@ -1,5 +1,9 @@
 {
     "title": "Sensei no Jijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/137433.jpg",
+        "alt": "sensei-no-jijou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

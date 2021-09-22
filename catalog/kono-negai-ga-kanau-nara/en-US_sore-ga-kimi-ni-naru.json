@@ -1,5 +1,9 @@
 {
     "title": "Sore ga Kimi ni Naru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174397.jpg",
+        "alt": "sore-ga-kimi-ni-naru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Ginga Densetsu Noah",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226313.jpg",
+        "alt": "ginga-densetsu-noah"
+    },
     "type": "manga",
     "original_name": "銀牙伝説ノア",
     "start_date": "2019-05-24",

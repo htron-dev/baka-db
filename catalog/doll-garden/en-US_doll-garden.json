@@ -1,5 +1,9 @@
 {
     "title": "Doll Garden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/82086.jpg",
+        "alt": "doll-garden"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

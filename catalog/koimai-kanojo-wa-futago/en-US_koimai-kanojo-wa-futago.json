@@ -1,5 +1,9 @@
 {
     "title": "Koimai: Kanojo wa Futago!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166632.jpg",
+        "alt": "koimai-kanojo-wa-futago"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

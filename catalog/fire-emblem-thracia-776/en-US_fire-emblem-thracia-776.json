@@ -1,5 +1,9 @@
 {
     "title": "Fire Emblem: Thracia 776",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/7186.jpg",
+        "alt": "fire-emblem-thracia-776"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ファイアーエムブレムトラキア 776",

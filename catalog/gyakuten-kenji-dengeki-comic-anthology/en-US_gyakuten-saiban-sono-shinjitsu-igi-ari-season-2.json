@@ -1,12 +1,16 @@
 {
     "title": "Gyakuten Saiban: Sono \"Shinjitsu\", Igi Ari! Season 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1861/91089.jpg",
+        "alt": "gyakuten-saiban-sono-shinjitsu-igi-ari-season-2"
+    },
     "type": "tv-serie",
     "episodes": "23",
     "original_name": "逆転裁判 ～その「真実」、異議あり！～ Season 2",
     "start_date": "2018-10-06",
     "end_date": "2018-10-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Never Lose\" by Tomohisa Yamashita",
+    "ending_song": "#1: \"Starting Blue (スターティングブルー)\" by halca",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Ace_Attorney_(anime"
+            "link": "http://en.wikipedia.org/wiki/Ace_Attorney_%28anime%29"
         }
     ]
 }

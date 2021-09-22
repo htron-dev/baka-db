@@ -1,5 +1,9 @@
 {
     "title": "Hipira: The Little Vampire",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10576.jpg",
+        "alt": "hipira-the-little-vampire"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

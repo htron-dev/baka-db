@@ -1,5 +1,9 @@
 {
     "title": "Kuro Gal wa Zatsu ni Manabitai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234790.jpg",
+        "alt": "kuro-gal-wa-zatsu-ni-manabitai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

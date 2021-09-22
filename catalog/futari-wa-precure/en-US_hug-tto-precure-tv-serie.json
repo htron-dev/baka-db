@@ -1,11 +1,15 @@
 {
     "title": "Hug tto! Precure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1220/92883.jpg",
+        "alt": "hug-tto-precure"
+    },
     "type": "tv-serie",
     "episodes": "49",
     "original_name": "HuG っと！プリキュア",
     "start_date": "2018-02-04",
     "end_date": "2018-02-04",
-    "opening_song": "#1",
+    "opening_song": "#1: \"We can!! HUG tto! Precure (We can!! HUG っと！プリキュア)\" by Kanako Miyamoto",
     "ending_song": "#1 \"HUG tto! Mirai☆Dreamer (HUG っと！未来 ☆ ドリーマー)\" by Cure Yell (Rie Hikisaka), Cure Ange (Rina Honnizumi), Cure Étoile (Yui Ogura) (eps 1-17, 19-21)",
     "rating": "G - All Ages",
     "tags": [

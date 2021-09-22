@@ -1,5 +1,9 @@
 {
     "title": "Yoru made Matenai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/15522.jpg",
+        "alt": "yoru-made-matenai"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "36",

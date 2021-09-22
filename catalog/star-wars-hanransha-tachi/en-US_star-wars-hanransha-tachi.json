@@ -1,5 +1,9 @@
 {
     "title": "Star Wars: Hanransha-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236499.jpg",
+        "alt": "star-wars-hanransha-tachi"
+    },
     "type": "manga",
     "original_name": "STAR WARS／反乱者たち",
     "start_date": "2019-12-06",

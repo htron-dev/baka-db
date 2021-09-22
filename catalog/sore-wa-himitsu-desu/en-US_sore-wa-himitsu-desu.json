@@ -1,5 +1,9 @@
 {
     "title": "Sore wa Himitsu desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161183.jpg",
+        "alt": "sore-wa-himitsu-desu"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "それは秘密です",

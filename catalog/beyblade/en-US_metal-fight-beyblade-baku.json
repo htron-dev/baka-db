@@ -1,11 +1,15 @@
 {
     "title": "Metal Fight Beyblade: Baku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/26363.jpg",
+        "alt": "metal-fight-beyblade-baku"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "メタルファイト ベイブレード～爆～",
     "start_date": "2010-04-04",
     "end_date": "2010-04-04",
-    "opening_song": "#01",
+    "opening_song": "#01: \"Galaxy Heart\" by YU+KI (eps 2-11, 26-51)",
     "ending_song": "\"Oozora wo Koeteyuke\" by Odoriba Soul (踊り場ソウル)",
     "rating": "PG - Children",
     "tags": [

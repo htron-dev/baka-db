@@ -1,5 +1,9 @@
 {
     "title": "Shounen Sarutobi Sasuke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1266/100537.jpg",
+        "alt": "shounen-sarutobi-sasuke"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "少年猿飛佐助",

@@ -1,5 +1,9 @@
 {
     "title": "Iro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/62247.jpg",
+        "alt": "iro"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "情人",

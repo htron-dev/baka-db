@@ -1,5 +1,9 @@
 {
     "title": "Jingi Soukoku no Aion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167729.jpg",
+        "alt": "jingi-soukoku-no-aion"
+    },
     "type": "light-novel",
     "original_name": "神器繰刻のアイオーン",
     "start_date": "2015-11-25",

@@ -1,5 +1,9 @@
 {
     "title": "Capeta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185484.jpg",
+        "alt": "capeta"
+    },
     "type": "manga",
     "volumes": "32",
     "chapters": "119",

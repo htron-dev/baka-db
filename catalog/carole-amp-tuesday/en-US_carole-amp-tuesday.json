@@ -1,12 +1,16 @@
 {
     "title": "Carole &amp; Tuesday",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1611/96157.jpg",
+        "alt": "carole-amp-tuesday"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "キャロル&チューズデイ",
     "start_date": "2019-04-11",
     "end_date": "2019-04-11",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kiss Me\" by Carole & Tuesday (Nai Br.XX & Celeina Ann) (eps 2-12)",
+    "ending_song": "#1: \"Hold Me Now\" by Carole & Tuesday (Nai Br.XX & Celeina Ann) (eps 2-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

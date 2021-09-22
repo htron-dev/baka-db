@@ -1,5 +1,9 @@
 {
     "title": "Epatai Yukara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/169894.jpg",
+        "alt": "epatai-yukara"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "エパタイ・ユカラ",

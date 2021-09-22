@@ -1,5 +1,9 @@
 {
     "title": "Eun-sil-i",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/72250.jpg",
+        "alt": "eun-sil-i"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "은실이",

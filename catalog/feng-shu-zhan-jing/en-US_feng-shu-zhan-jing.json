@@ -1,5 +1,9 @@
 {
     "title": "Feng Shu Zhan Jing",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/80958.jpg",
+        "alt": "feng-shu-zhan-jing"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "start_date": "2010-12-22",

@@ -1,5 +1,9 @@
 {
     "title": "Futari no Zero Jiba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200412.jpg",
+        "alt": "futari-no-zero-jiba"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "33",

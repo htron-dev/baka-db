@@ -1,12 +1,16 @@
 {
     "title": "Mix",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1353/104238.jpg",
+        "alt": "mix"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "MIX（ミックス）",
     "start_date": "2019-04-06",
     "end_date": "2019-04-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Equal (イコール)\" by sumika",
+    "ending_song": "#1: \"Kimi ni Todoku made (君に届くまで)\" by Little Glee Monster",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",
@@ -35,7 +39,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Mix_(manga"
+            "link": "https://en.wikipedia.org/wiki/Mix_%28manga%29"
         }
     ]
 }

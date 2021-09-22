@@ -1,5 +1,9 @@
 {
     "title": "Natsuki Crisis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/68115.jpg",
+        "alt": "natsuki-crisis"
+    },
     "type": "manga",
     "volumes": "18",
     "original_name": "なつきクライシス",

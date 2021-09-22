@@ -1,5 +1,9 @@
 {
     "title": "Sono Yubi no Tadoru Kizu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/8780.jpg",
+        "alt": "sono-yubi-no-tadoru-kizu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

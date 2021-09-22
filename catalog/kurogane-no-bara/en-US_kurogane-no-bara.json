@@ -1,5 +1,9 @@
 {
     "title": "Kurogane no Bara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/248483.jpg",
+        "alt": "kurogane-no-bara"
+    },
     "type": "manga",
     "original_name": "鋼鐵〈くろがね〉の薔薇",
     "start_date": "2021-06-18",

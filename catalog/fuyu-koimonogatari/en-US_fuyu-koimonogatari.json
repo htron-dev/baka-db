@@ -1,5 +1,9 @@
 {
     "title": "Fuyu Koimonogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/132671.jpg",
+        "alt": "fuyu-koimonogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "冬恋物語",

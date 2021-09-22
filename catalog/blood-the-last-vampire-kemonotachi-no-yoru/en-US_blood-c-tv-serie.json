@@ -1,5 +1,9 @@
 {
     "title": "Blood-C",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/31649.jpg",
+        "alt": "blood-c"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ブラッドシー",

@@ -1,5 +1,9 @@
 {
     "title": "Kaze yo, Banri wo Kake yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235825.jpg",
+        "alt": "kaze-yo-banri-wo-kake-yo"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Teekyuu 5",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/75010.jpg",
+        "alt": "teekyuu-5"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "てーきゅう 5 期",

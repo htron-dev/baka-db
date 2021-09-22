@@ -1,5 +1,9 @@
 {
     "title": "Strike Witches: Africa no Majo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/117385.jpg",
+        "alt": "strike-witches-africa-no-majo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

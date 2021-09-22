@@ -1,5 +1,9 @@
 {
     "title": "Falcon no Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/232874.jpg",
+        "alt": "falcon-no-koibito"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ファルコンの恋人",

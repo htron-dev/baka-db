@@ -1,5 +1,9 @@
 {
     "title": "Sanjuuichiya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18595.jpg",
+        "alt": "sanjuuichiya"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

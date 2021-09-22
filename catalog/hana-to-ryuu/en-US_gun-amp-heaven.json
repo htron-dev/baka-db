@@ -1,5 +1,9 @@
 {
     "title": "Gun &amp; Heaven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200474.jpg",
+        "alt": "gun-amp-heaven"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

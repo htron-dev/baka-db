@@ -1,5 +1,9 @@
 {
     "title": "Ray",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/3127.jpg",
+        "alt": "ray"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "34",

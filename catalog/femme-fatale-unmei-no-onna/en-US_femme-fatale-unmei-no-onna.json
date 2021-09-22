@@ -1,5 +1,9 @@
 {
     "title": "Femme Fatale: Unmei no Onna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/100371.jpg",
+        "alt": "femme-fatale-unmei-no-onna"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

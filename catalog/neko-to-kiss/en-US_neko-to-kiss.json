@@ -1,5 +1,9 @@
 {
     "title": "Neko to Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/249828.jpg",
+        "alt": "neko-to-kiss"
+    },
     "type": "manga",
     "original_name": "猫とキス",
     "start_date": "2020-08-11",

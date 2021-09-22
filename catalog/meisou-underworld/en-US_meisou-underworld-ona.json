@@ -1,5 +1,9 @@
 {
     "title": "Meisou! Underworld",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/61637.jpg",
+        "alt": "meisou-underworld"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "迷走！アンダーワールド",

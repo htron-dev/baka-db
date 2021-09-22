@@ -1,5 +1,9 @@
 {
     "title": "Oyaji no, Imo no Kamisama.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/70511.jpg",
+        "alt": "oyaji-no-imo-no-kamisama"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "オヤジの、芋神様。",

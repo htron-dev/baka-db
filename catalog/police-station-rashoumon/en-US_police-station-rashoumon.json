@@ -1,5 +1,9 @@
 {
     "title": "Police Station: Rashoumon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159861.jpg",
+        "alt": "police-station-rashoumon"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "80",

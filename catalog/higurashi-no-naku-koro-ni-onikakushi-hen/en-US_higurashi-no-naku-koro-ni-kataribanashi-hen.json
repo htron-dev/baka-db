@@ -1,5 +1,9 @@
 {
     "title": "Higurashi no Naku Koro ni: Kataribanashi-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/135121.jpg",
+        "alt": "higurashi-no-naku-koro-ni-kataribanashi-hen"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "33",

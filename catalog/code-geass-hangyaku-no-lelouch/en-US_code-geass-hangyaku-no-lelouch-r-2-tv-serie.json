@@ -1,12 +1,16 @@
 {
     "title": "Code Geass: Hangyaku no Lelouch R2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/9391.jpg",
+        "alt": "code-geass-hangyaku-no-lelouch-r-2"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "コードギアス 反逆のルルーシュ 続編",
     "start_date": "2008-04-06",
     "end_date": "2008-04-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"02~O-Two~ (02~ｵｰ･ﾂｰ~)\" by Orange Range (eps 1-12)",
+    "ending_song": "#1: \"Shiawase Neiro (ｼｱﾜｾﾈｲﾛ)\" by Orange Range (eps 1-12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

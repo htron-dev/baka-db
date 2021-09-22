@@ -1,5 +1,9 @@
 {
     "title": "Sabaku no Tami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/27974.jpg",
+        "alt": "sabaku-no-tami"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "26",

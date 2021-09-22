@@ -1,5 +1,9 @@
 {
     "title": "XBlade Cross",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/42716.jpg",
+        "alt": "x-blade-cross"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "32",

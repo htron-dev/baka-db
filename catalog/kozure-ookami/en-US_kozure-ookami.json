@@ -1,5 +1,9 @@
 {
     "title": "Kozure Ookami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/19337.jpg",
+        "alt": "kozure-ookami"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

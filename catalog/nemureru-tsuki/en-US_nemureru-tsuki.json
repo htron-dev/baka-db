@@ -1,5 +1,9 @@
 {
     "title": "Nemureru Tsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/121303.jpg",
+        "alt": "nemureru-tsuki"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

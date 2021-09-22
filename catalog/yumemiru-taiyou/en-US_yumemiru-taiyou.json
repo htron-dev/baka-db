@@ -1,5 +1,9 @@
 {
     "title": "Yumemiru Taiyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170585.jpg",
+        "alt": "yumemiru-taiyou"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "53",

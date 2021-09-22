@@ -1,5 +1,9 @@
 {
     "title": "Rental Hearts",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/135081.jpg",
+        "alt": "rental-hearts"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

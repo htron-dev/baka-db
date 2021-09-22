@@ -1,5 +1,9 @@
 {
     "title": "Momotama Mix",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/27712.jpg",
+        "alt": "momotama-mix"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ももたま・ミックス",

@@ -1,5 +1,9 @@
 {
     "title": "Kaitou Saint Tail Girls!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234099.jpg",
+        "alt": "kaitou-saint-tail-girls"
+    },
     "type": "manga",
     "original_name": "怪盗セイント・テール girls!",
     "start_date": "2018-09-13",

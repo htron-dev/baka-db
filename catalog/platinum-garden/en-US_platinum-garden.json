@@ -1,5 +1,9 @@
 {
     "title": "Platinum Garden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/1539.jpg",
+        "alt": "platinum-garden"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "68",

@@ -1,5 +1,9 @@
 {
     "title": "Paripi Koumei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245507.jpg",
+        "alt": "paripi-koumei"
+    },
     "type": "manga",
     "original_name": "パリピ孔明",
     "start_date": "2019-12-31",

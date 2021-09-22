@@ -1,5 +1,9 @@
 {
     "title": "Duel Masters King!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1159/111981.jpg",
+        "alt": "duel-masters-king"
+    },
     "type": "tv-serie",
     "original_name": "DUEL MASTERS キング!",
     "start_date": "2021-04-04",

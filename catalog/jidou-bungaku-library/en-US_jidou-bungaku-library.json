@@ -1,5 +1,9 @@
 {
     "title": "Jidou Bungaku Library",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/74512.jpg",
+        "alt": "jidou-bungaku-library"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "児童文学ライブラリー",

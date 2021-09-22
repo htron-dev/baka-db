@@ -1,5 +1,9 @@
 {
     "title": "Not Simple",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/31180.jpg",
+        "alt": "not-simple"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

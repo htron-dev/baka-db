@@ -1,5 +1,9 @@
 {
     "title": "Abashiri Ikka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1492/94195.jpg",
+        "alt": "abashiri-ikka"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "あばしり一家",

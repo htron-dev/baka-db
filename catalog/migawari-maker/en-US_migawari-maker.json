@@ -1,5 +1,9 @@
 {
     "title": "Migawari Maker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164086.jpg",
+        "alt": "migawari-maker"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

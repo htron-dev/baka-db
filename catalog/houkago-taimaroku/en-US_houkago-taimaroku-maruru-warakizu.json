@@ -1,5 +1,9 @@
 {
     "title": "Houkago Taimaroku Maruru: Warakizu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161591.jpg",
+        "alt": "houkago-taimaroku-maruru-warakizu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

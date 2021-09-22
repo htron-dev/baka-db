@@ -1,5 +1,9 @@
 {
     "title": "Koushaku wa Ai wo Egaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186185.jpg",
+        "alt": "koushaku-wa-ai-wo-egaku"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "2",

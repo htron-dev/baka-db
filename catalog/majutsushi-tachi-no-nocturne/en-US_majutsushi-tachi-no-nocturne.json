@@ -1,5 +1,9 @@
 {
     "title": "Majutsushi-tachi no Nocturne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224580.jpg",
+        "alt": "majutsushi-tachi-no-nocturne"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

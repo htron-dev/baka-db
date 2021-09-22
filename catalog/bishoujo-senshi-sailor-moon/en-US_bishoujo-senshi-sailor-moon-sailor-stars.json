@@ -1,12 +1,16 @@
 {
     "title": "Bishoujo Senshi Sailor Moon: Sailor Stars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/996.jpg",
+        "alt": "bishoujo-senshi-sailor-moon-sailor-stars"
+    },
     "type": "tv-serie",
     "episodes": "34",
     "original_name": "美少女戦士セーラームーン セーラースターズ",
     "start_date": "1996-03-09",
     "end_date": "1996-03-09",
     "opening_song": "\"Sailor Star Song\" by Kae Hanazawa",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kaze mo Sora mo Kitto...\" by Arisa Mizuki (eps 1-33)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

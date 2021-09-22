@@ -1,5 +1,9 @@
 {
     "title": "Nemureru Hoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/74341.jpg",
+        "alt": "nemureru-hoshi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "37",

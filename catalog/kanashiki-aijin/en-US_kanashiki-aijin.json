@@ -1,5 +1,9 @@
 {
     "title": "Kanashiki Aijin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247255.jpg",
+        "alt": "kanashiki-aijin"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "悲しき愛人",

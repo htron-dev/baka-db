@@ -1,5 +1,9 @@
 {
     "title": "Izumosou wa Itsumo Juugatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/120501.jpg",
+        "alt": "izumosou-wa-itsumo-juugatsu"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "いずも荘はいつも十月",

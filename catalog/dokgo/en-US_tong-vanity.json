@@ -1,8 +1,12 @@
 {
     "title": "Tong: Vanity",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222165.jpg",
+        "alt": "tong-vanity"
+    },
     "type": "manhwa",
     "volumes": "6",
-    "original_name": "통",
+    "original_name": "통 : 유아독존",
     "start_date": "2015-05-09",
     "end_date": "2015-05-09",
     "tags": [

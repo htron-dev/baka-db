@@ -1,5 +1,9 @@
 {
     "title": "BNA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235649.jpg",
+        "alt": "bna"
+    },
     "type": "manga",
     "original_name": "BNA ビー・エヌ・エー",
     "start_date": "2020-05-29",

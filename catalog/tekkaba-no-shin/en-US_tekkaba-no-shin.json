@@ -1,5 +1,9 @@
 {
     "title": "Tekkaba no Shin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203681.jpg",
+        "alt": "tekkaba-no-shin"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "96",

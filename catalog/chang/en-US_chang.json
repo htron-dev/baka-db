@@ -1,5 +1,9 @@
 {
     "title": "Chang",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1892/112685.jpg",
+        "alt": "chang"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "창",

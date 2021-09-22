@@ -1,5 +1,9 @@
 {
     "title": "Handy 99",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/74133.jpg",
+        "alt": "handy-99"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ハンディ 99",

@@ -1,5 +1,9 @@
 {
     "title": "Binkan Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/184713.jpg",
+        "alt": "binkan-kanojo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

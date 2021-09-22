@@ -1,5 +1,9 @@
 {
     "title": "Babyshiba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/80693.jpg",
+        "alt": "babyshiba"
+    },
     "type": "special",
     "episodes": "7",
     "original_name": "ベビしば",

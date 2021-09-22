@@ -1,5 +1,9 @@
 {
     "title": "Takayukashiki Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167048.jpg",
+        "alt": "takayukashiki-shoujo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "34",

@@ -1,5 +1,9 @@
 {
     "title": "Kyuuketsuki no Himegoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164322.jpg",
+        "alt": "kyuuketsuki-no-himegoto"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "吸血鬼のひめごと",

@@ -1,5 +1,9 @@
 {
     "title": "Panikuri-gurashi☆",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195308.jpg",
+        "alt": "panikuri-gurashi☆"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "72",

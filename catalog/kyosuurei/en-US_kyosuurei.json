@@ -1,5 +1,9 @@
 {
     "title": "Kyosuurei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163795.jpg",
+        "alt": "kyosuurei"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

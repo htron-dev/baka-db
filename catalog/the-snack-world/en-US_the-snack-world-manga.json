@@ -1,5 +1,9 @@
 {
     "title": "The Snack World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201675.jpg",
+        "alt": "the-snack-world"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "32",

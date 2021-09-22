@@ -1,5 +1,9 @@
 {
     "title": "Ichinose-kun wa Itsumo Iinari.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238190.jpg",
+        "alt": "ichinose-kun-wa-itsumo-iinari"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

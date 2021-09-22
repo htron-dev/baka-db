@@ -1,5 +1,9 @@
 {
     "title": "Hells",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/50303.jpg",
+        "alt": "hells"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ヘルズ, (ヘルズエンジェルス)",

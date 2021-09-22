@@ -1,5 +1,9 @@
 {
     "title": "Ara Waga Tono!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18031.jpg",
+        "alt": "ara-waga-tono"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "あーらわが殿！",

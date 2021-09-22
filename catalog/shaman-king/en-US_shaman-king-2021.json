@@ -1,11 +1,15 @@
 {
     "title": "Shaman King (2021)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1416/113270.jpg",
+        "alt": "shaman-king-2021"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "SHAMAN KING",
     "start_date": "2021-04-01",
     "opening_song": "\"Soul salvation\" by Megumi Hayashibara",
-    "ending_song": "#1",
+    "ending_song": "#1: \"#Boku no Yubisaki (#僕の指先)\" by Megumi Hayashibara (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

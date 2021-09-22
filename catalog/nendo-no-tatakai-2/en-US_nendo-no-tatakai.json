@@ -1,5 +1,9 @@
 {
     "title": "Nendo no Tatakai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/33273.jpg",
+        "alt": "nendo-no-tatakai"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ねんどのたたかい",

@@ -1,5 +1,9 @@
 {
     "title": "Unbelievable Space Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1342/115168.jpg",
+        "alt": "unbelievable-space-love"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "언빌리버블 스페이스 러브",

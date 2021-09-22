@@ -1,5 +1,9 @@
 {
     "title": "Fushigi na Kusuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/36691.jpg",
+        "alt": "fushigi-na-kusuri"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ふしぎなくすり",

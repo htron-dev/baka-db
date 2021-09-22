@@ -1,5 +1,9 @@
 {
     "title": "Kairaku Hani",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16648.jpg",
+        "alt": "kairaku-hani"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

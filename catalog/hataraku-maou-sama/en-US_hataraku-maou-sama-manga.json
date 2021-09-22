@@ -1,5 +1,9 @@
 {
     "title": "Hataraku Maou-sama!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160910.jpg",
+        "alt": "hataraku-maou-sama"
+    },
     "type": "manga",
     "original_name": "はたらく魔王さま!",
     "start_date": "2011-12-27",

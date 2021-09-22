@@ -1,5 +1,9 @@
 {
     "title": "Boku no Idol",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36276.jpg",
+        "alt": "boku-no-idol"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ぼくのアイドル",

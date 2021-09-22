@@ -1,5 +1,9 @@
 {
     "title": "Kimitsunagi Hotaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237570.jpg",
+        "alt": "kimitsunagi-hotaru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

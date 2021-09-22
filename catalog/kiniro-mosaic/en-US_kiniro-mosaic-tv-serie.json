@@ -1,5 +1,9 @@
 {
     "title": "Kiniro Mosaic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1793/117610.jpg",
+        "alt": "kiniro-mosaic"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "きんいろモザイク",

@@ -1,5 +1,9 @@
 {
     "title": "Ikkitousen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/23091.jpg",
+        "alt": "ikkitousen"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "一騎当千",

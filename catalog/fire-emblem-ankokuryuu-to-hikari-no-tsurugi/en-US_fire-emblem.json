@@ -1,5 +1,9 @@
 {
     "title": "Fire Emblem",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1586/96256.jpg",
+        "alt": "fire-emblem"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "ファイアーエムブレム",

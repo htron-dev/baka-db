@@ -1,5 +1,9 @@
 {
     "title": "Joshikousei wa Ohayou tte Iu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246369.jpg",
+        "alt": "joshikousei-wa-ohayou-tte-iu"
+    },
     "type": "manga",
     "original_name": "女子高生はおはようって言う",
     "start_date": "2020-12-11",

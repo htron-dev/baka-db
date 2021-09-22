@@ -1,5 +1,9 @@
 {
     "title": "School Park!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201080.jpg",
+        "alt": "school-park"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "スクぱ！",

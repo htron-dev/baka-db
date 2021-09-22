@@ -1,5 +1,9 @@
 {
     "title": "Fukufuku Banpukuchou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/242559.jpg",
+        "alt": "fukufuku-banpukuchou"
+    },
     "type": "manga",
     "original_name": "ふくふく万福帳",
     "start_date": "2021-03-15",

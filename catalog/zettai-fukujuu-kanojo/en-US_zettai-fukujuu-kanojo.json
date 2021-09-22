@@ -1,5 +1,9 @@
 {
     "title": "Zettai Fukujuu Kanojo.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162589.jpg",
+        "alt": "zettai-fukujuu-kanojo"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "38",

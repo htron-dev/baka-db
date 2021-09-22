@@ -1,5 +1,9 @@
 {
     "title": "Akaiito no Shikkou Yuuyo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194052.jpg",
+        "alt": "akaiito-no-shikkou-yuuyo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

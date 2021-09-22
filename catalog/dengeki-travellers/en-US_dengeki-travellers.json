@@ -1,5 +1,9 @@
 {
     "title": "Dengeki Travellers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215505.jpg",
+        "alt": "dengeki-travellers"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

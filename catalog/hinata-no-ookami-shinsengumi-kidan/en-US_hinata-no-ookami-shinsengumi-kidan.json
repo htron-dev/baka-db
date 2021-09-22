@@ -1,5 +1,9 @@
 {
     "title": "Hinata no Ookami: Shinsengumi Kidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/147193.jpg",
+        "alt": "hinata-no-ookami-shinsengumi-kidan"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "30",

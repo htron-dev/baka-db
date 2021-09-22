@@ -1,5 +1,9 @@
 {
     "title": "Koi no Mannaka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/63077.jpg",
+        "alt": "koi-no-mannaka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

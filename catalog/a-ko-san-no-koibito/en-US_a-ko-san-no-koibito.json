@@ -1,5 +1,9 @@
 {
     "title": "A-ko-san no Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202828.jpg",
+        "alt": "a-ko-san-no-koibito"
+    },
     "type": "manga",
     "original_name": "A 子さんの恋人",
     "start_date": "2014-04-14",

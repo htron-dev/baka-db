@@ -1,5 +1,9 @@
 {
     "title": "Garo Movie: Divine Flame",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/83157.jpg",
+        "alt": "garo-movie-divine-flame"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 牙狼〈GARO〉‐DIVINE FLAME‐",

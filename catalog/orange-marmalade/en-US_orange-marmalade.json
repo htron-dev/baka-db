@@ -1,5 +1,9 @@
 {
     "title": "Orange Marmalade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/95567.jpg",
+        "alt": "orange-marmalade"
+    },
     "type": "manhwa",
     "volumes": "8",
     "chapters": "66",

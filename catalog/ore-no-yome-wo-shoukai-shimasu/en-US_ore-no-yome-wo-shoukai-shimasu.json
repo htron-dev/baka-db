@@ -1,5 +1,9 @@
 {
     "title": "Ore no Yome wo Shoukai shimasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174625.jpg",
+        "alt": "ore-no-yome-wo-shoukai-shimasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

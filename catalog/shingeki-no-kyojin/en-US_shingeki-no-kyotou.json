@@ -1,5 +1,9 @@
 {
     "title": "Shingeki no Kyotou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/84716.jpg",
+        "alt": "shingeki-no-kyotou"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "進撃の巨塔",

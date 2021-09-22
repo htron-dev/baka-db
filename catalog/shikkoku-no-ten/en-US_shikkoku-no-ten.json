@@ -1,5 +1,9 @@
 {
     "title": "Shikkoku no Ten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176125.jpg",
+        "alt": "shikkoku-no-ten"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "10",

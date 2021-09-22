@@ -1,5 +1,9 @@
 {
     "title": "Mokuyoubi no Furutto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/37477.jpg",
+        "alt": "mokuyoubi-no-furutto"
+    },
     "type": "manga",
     "original_name": "木曜日のフルット",
     "tags": [

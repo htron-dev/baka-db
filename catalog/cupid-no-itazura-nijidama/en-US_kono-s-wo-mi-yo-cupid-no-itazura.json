@@ -1,5 +1,9 @@
 {
     "title": "Kono S wo, Mi yo! - Cupid no Itazura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/51567.jpg",
+        "alt": "kono-s-wo-mi-yo-cupid-no-itazura"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "155",

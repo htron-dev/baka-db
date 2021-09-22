@@ -1,5 +1,9 @@
 {
     "title": "Strike Witches OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/82422.jpg",
+        "alt": "strike-witches-ova"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ストライクウィッチーズ",

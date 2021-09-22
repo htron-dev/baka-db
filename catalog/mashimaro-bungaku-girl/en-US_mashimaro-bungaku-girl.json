@@ -1,5 +1,9 @@
 {
     "title": "Mashimaro Bungaku Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/147379.jpg",
+        "alt": "mashimaro-bungaku-girl"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

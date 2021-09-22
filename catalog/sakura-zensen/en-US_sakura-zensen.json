@@ -1,5 +1,9 @@
 {
     "title": "Sakura Zensen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/41278.jpg",
+        "alt": "sakura-zensen"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "さくら前線",

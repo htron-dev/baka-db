@@ -1,10 +1,14 @@
 {
     "title": "One Piece",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/73245.jpg",
+        "alt": "one-piece"
+    },
     "type": "tv-serie",
     "original_name": "ONE PIECE",
     "start_date": "1999-10-20",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"We Are! (ウィーアー!)\" by Hiroshi Kitadani (eps 1-47)",
+    "ending_song": "#01: \"memories\" by Maki Otsuki (eps 1-30, 808, 968)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

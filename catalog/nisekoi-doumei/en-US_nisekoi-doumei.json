@@ -1,5 +1,9 @@
 {
     "title": "Nisekoi Doumei.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/144991.jpg",
+        "alt": "nisekoi-doumei"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "34",

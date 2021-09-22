@@ -1,5 +1,9 @@
 {
     "title": "Lunatic Circus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/244192.jpg",
+        "alt": "lunatic-circus"
+    },
     "type": "manga",
     "original_name": "ルナティックサーカス",
     "start_date": "2020-08-21",

@@ -1,5 +1,9 @@
 {
     "title": "Buriki no Kanzume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10841.jpg",
+        "alt": "buriki-no-kanzume"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Daitoshokan no Hitsujikai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/136521.jpg",
+        "alt": "daitoshokan-no-hitsujikai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "33",

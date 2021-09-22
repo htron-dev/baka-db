@@ -1,5 +1,9 @@
 {
     "title": "Poeyan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/127157.jpg",
+        "alt": "poeyan"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ポエやん",

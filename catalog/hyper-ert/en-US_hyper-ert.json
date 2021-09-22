@@ -1,5 +1,9 @@
 {
     "title": "Hyper ERT",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/27389.jpg",
+        "alt": "hyper-ert"
+    },
     "type": "tv-serie",
     "episodes": "20",
     "original_name": "小海白 ERT",

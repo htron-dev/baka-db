@@ -1,5 +1,9 @@
 {
     "title": "Kono Te de Yokereba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33546.jpg",
+        "alt": "kono-te-de-yokereba"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

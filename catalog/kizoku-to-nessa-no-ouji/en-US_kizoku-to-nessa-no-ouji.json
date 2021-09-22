@@ -1,5 +1,9 @@
 {
     "title": "Kizoku to Nessa no Ouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/146123.jpg",
+        "alt": "kizoku-to-nessa-no-ouji"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "12",

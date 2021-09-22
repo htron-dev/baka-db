@@ -1,5 +1,9 @@
 {
     "title": "Karasu Tengu Uju Nago-mix",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202355.jpg",
+        "alt": "karasu-tengu-uju-nago-mix"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

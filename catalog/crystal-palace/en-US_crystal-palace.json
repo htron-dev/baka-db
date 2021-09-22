@@ -1,5 +1,9 @@
 {
     "title": "Crystal Palace",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/96643.jpg",
+        "alt": "crystal-palace"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

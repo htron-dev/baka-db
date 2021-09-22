@@ -1,5 +1,9 @@
 {
     "title": "Himegimi wa Ore no Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2149.jpg",
+        "alt": "himegimi-wa-ore-no-mono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Ikebukuro West Gate Park",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235433.jpg",
+        "alt": "ikebukuro-west-gate-park"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "36",

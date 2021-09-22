@@ -1,5 +1,9 @@
 {
     "title": "Ghost Face",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180590.jpg",
+        "alt": "ghost-face"
+    },
     "type": "manhwa",
     "volumes": "3",
     "original_name": "고스트페이스",

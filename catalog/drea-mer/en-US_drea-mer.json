@@ -1,5 +1,9 @@
 {
     "title": "Drea-mer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163514.jpg",
+        "alt": "drea-mer"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "33",

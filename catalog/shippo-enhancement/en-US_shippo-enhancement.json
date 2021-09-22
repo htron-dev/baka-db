@@ -1,5 +1,9 @@
 {
     "title": "Shippo! Enhancement",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151964.jpg",
+        "alt": "shippo-enhancement"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

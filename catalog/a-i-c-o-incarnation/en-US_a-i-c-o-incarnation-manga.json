@@ -1,5 +1,9 @@
 {
     "title": "A.I.C.O.: Incarnation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207632.jpg",
+        "alt": "a-i-c-o-incarnation"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

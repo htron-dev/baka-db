@@ -1,5 +1,9 @@
 {
     "title": "Monitoring Black Site",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174146.jpg",
+        "alt": "monitoring-black-site"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

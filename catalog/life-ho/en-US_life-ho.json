@@ -1,5 +1,9 @@
 {
     "title": "Life Ho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/103079.jpg",
+        "alt": "life-ho"
+    },
     "type": "manhwa",
     "original_name": "인생은 강호",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Soul Link Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/5231.jpg",
+        "alt": "soul-link-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "Soul Link 第 10.5 話 「特別回想編 -CELLARIA／NANAMI-",

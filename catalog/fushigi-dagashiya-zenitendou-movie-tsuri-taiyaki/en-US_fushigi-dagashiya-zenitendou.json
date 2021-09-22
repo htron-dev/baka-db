@@ -1,5 +1,9 @@
 {
     "title": "Fushigi Dagashiya: Zenitendou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1994/108212.jpg",
+        "alt": "fushigi-dagashiya-zenitendou"
+    },
     "type": "tv-serie",
     "original_name": "ふしぎ駄菓子屋 銭天堂",
     "start_date": "2020-09-08",

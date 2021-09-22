@@ -1,5 +1,9 @@
 {
     "title": "Momoiro Ningyo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165438.jpg",
+        "alt": "momoiro-ningyo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "49",

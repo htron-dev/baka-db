@@ -1,5 +1,9 @@
 {
     "title": "Shirokuma Café",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/64713.jpg",
+        "alt": "shirokuma-cafe"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "100",

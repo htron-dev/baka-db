@@ -1,5 +1,9 @@
 {
     "title": "Ghost Hunters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/60473.jpg",
+        "alt": "ghost-hunters"
+    },
     "type": "manhwa",
     "original_name": "총바치",
     "tags": [

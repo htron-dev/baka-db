@@ -1,12 +1,16 @@
 {
     "title": "Yowamushi Pedal: Glory Line",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/88489.jpg",
+        "alt": "yowamushi-pedal-glory-line"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "弱虫ペダル GLORY LINE",
     "start_date": "2018-01-09",
     "end_date": "2018-01-09",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Boku no Koe (僕の声)\" by Rhythmic Toy World",
+    "ending_song": "#1: \"Carry the Hope\" by THE HIGH CADENCE [Sakamichi Onoda (Daiki Yamashita), Shunsuke Imaizumi (Kousuke Toriumi), Shoukichi Naruko (Jun Fukushima), Junta Teshima (Daisuke Kishio), Hajime Ayagi (Yoshitsugu Matsuoka), Issa Kaburagi (Hiro Shimono)]",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

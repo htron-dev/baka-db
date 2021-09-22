@@ -1,5 +1,9 @@
 {
     "title": "KB-bu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226696.jpg",
+        "alt": "kb-bu"
+    },
     "type": "light-novel",
     "original_name": "KB 部",
     "start_date": "2018-06-25",

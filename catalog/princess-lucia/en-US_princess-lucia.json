@@ -1,5 +1,9 @@
 {
     "title": "Princess Lucia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153423.jpg",
+        "alt": "princess-lucia"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "39",

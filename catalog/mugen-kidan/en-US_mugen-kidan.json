@@ -1,5 +1,9 @@
 {
     "title": "Mugen Kidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/52749.jpg",
+        "alt": "mugen-kidan"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "夢幻奇談",

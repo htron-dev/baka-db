@@ -1,12 +1,16 @@
 {
     "title": "Dragon Quest: Yuusha Abel Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1270/114210.jpg",
+        "alt": "dragon-quest-yuusha-abel-densetsu"
+    },
     "type": "tv-serie",
     "episodes": "43",
     "original_name": "ドラゴンクエスト～勇者アベル伝説～",
     "start_date": "1989-12-02",
     "end_date": "1989-12-02",
     "opening_song": "\"Mirai wo Mezashite\" by Tohru Furuya",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Yume wo Shinjite\" by Hideaki Tokunaga (eps 1-26)",
     "rating": "G - All Ages",
     "tags": [
         "action",

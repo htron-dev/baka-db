@@ -1,5 +1,9 @@
 {
     "title": "Earthian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/44155.jpg",
+        "alt": "earthian"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "30",

@@ -1,5 +1,9 @@
 {
     "title": "Un-Go: Haisen Tantei Yuuki Shinjuurou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166207.jpg",
+        "alt": "un-go-haisen-tantei-yuuki-shinjuurou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

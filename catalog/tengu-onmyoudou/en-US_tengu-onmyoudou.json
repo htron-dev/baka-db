@@ -1,5 +1,9 @@
 {
     "title": "Tengu Onmyoudou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20519.jpg",
+        "alt": "tengu-onmyoudou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

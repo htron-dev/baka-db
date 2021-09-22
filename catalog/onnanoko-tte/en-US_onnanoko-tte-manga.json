@@ -1,5 +1,9 @@
 {
     "title": "Onnanoko tte.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149382.jpg",
+        "alt": "onnanoko-tte"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "76",

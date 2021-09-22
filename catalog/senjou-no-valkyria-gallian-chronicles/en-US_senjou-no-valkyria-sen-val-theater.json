@@ -1,5 +1,9 @@
 {
     "title": "Senjou no Valkyria: SenVal Theater",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/19773.jpg",
+        "alt": "senjou-no-valkyria-sen-val-theater"
+    },
     "type": "special",
     "episodes": "9",
     "original_name": "戦場のヴァルキュリアヴァル劇場",

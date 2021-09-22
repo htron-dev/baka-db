@@ -1,5 +1,9 @@
 {
     "title": "Alabaster",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36119.jpg",
+        "alt": "alabaster"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "10",

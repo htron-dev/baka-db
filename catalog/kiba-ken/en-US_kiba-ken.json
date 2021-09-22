@@ -1,5 +1,9 @@
 {
     "title": "Kiba-Ken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/132757.jpg",
+        "alt": "kiba-ken"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "牙挙",

@@ -1,5 +1,9 @@
 {
     "title": "Pocket Ace!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235131.jpg",
+        "alt": "pocket-ace"
+    },
     "type": "light-novel",
     "original_name": "ぽけっと・えーす！",
     "start_date": "2019-11-09",

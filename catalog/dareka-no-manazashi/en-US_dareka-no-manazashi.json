@@ -1,5 +1,9 @@
 {
     "title": "Dareka no Manazashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/46741.jpg",
+        "alt": "dareka-no-manazashi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "だれかのまなざし",

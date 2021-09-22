@@ -1,5 +1,9 @@
 {
     "title": "Boku no Son Gokuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/66811.jpg",
+        "alt": "boku-no-son-gokuu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ぼくの孫悟空",

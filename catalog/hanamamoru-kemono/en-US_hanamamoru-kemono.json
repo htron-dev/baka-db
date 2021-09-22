@@ -1,5 +1,9 @@
 {
     "title": "Hanamamoru Kemono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/137721.jpg",
+        "alt": "hanamamoru-kemono"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

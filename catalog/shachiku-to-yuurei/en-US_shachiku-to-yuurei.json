@@ -1,5 +1,9 @@
 {
     "title": "Shachiku to Yuurei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189159.jpg",
+        "alt": "shachiku-to-yuurei"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "73",

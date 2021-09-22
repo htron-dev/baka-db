@@ -1,5 +1,9 @@
 {
     "title": "Akuma wa Sekai no Kyuuseishu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165555.jpg",
+        "alt": "akuma-wa-sekai-no-kyuuseishu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

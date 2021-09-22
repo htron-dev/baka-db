@@ -1,12 +1,16 @@
 {
     "title": "Isekai Quartet 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1030/103383.jpg",
+        "alt": "isekai-quartet-2"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "異世界かるてっと 2",
     "start_date": "2020-01-15",
     "end_date": "2020-01-15",
     "opening_song": "\"Isekai Showtime (異世界ショータイム)\" by Ainz (Hino Satoshi), Kazuma (Jun Fukushima), Subaru (Yuusuke Kobayashi), Tanya (Aoi Yuuki)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Isekai Showtime (異世界ショータイム)\"by Ainz (Satoshi Hino), Kazuma (Jun Fukushima), Subaru (Yuusuke Kobayashi), Tanya (Aoi Yuuki) (eps 1, 12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

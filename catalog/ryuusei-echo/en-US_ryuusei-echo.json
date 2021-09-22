@@ -1,5 +1,9 @@
 {
     "title": "Ryuusei Echo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79491.jpg",
+        "alt": "ryuusei-echo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

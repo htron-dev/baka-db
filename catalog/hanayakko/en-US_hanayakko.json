@@ -1,5 +1,9 @@
 {
     "title": "Hanayakko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/229305.jpg",
+        "alt": "hanayakko"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "29",

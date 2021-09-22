@@ -1,5 +1,9 @@
 {
     "title": "Shin Karate Jigoku-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161170.jpg",
+        "alt": "shin-karate-jigoku-hen"
+    },
     "type": "manga",
     "volumes": "15",
     "original_name": "新・カラテ地獄変",

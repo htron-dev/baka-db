@@ -1,5 +1,9 @@
 {
     "title": "Kamisama x Oresama x Oyome-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200518.jpg",
+        "alt": "kamisama-x-oresama-x-oyome-sama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Pops.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/9908.jpg",
+        "alt": "pops"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "pops.",

@@ -1,5 +1,9 @@
 {
     "title": "Manga Jinbutsushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/59663.jpg",
+        "alt": "manga-jinbutsushi"
+    },
     "type": "tv-serie",
     "episodes": "365",
     "original_name": "マンガ人物史",

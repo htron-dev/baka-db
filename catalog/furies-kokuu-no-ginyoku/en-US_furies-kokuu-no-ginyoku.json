@@ -1,5 +1,9 @@
 {
     "title": "Furies: Kokuu no Ginyoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228202.jpg",
+        "alt": "furies-kokuu-no-ginyoku"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

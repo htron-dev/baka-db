@@ -1,5 +1,9 @@
 {
     "title": "K-On!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/20937.jpg",
+        "alt": "k-on"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "57",

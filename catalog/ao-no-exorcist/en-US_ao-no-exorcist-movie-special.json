@@ -1,5 +1,9 @@
 {
     "title": "Ao no Exorcist Movie Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/61139.jpg",
+        "alt": "ao-no-exorcist-movie-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "劇場版「青の祓魔師」特別映像",

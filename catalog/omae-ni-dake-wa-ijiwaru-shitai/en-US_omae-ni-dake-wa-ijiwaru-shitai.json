@@ -1,5 +1,9 @@
 {
     "title": "Omae ni dake wa Ijiwaru shitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237676.jpg",
+        "alt": "omae-ni-dake-wa-ijiwaru-shitai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

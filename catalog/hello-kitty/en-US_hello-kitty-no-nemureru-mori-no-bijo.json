@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no Nemureru Mori no Bijo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/47813.jpg",
+        "alt": "hello-kitty-no-nemureru-mori-no-bijo"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハローキティのねむれる森の美女",

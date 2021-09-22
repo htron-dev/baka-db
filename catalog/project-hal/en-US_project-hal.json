@@ -1,5 +1,9 @@
 {
     "title": "Project HAL",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/77726.jpg",
+        "alt": "project-hal"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "Project HAL",

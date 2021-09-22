@@ -1,5 +1,9 @@
 {
     "title": "Tenki no Ko CMs",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1959/101750.jpg",
+        "alt": "tenki-no-ko-c-ms"
+    },
     "type": "special",
     "original_name": "天気の子 CMs",
     "start_date": "2019-06-30",

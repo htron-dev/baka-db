@@ -1,5 +1,9 @@
 {
     "title": "UG☆Ultimate Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/2455.jpg",
+        "alt": "ug☆-ultimate-girls"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "UG☆ アルティメットガール",

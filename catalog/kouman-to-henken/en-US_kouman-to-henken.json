@@ -1,5 +1,9 @@
 {
     "title": "Kouman to Henken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/87821.jpg",
+        "alt": "kouman-to-henken"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "4",

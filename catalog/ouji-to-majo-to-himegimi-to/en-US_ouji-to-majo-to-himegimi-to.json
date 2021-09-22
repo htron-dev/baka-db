@@ -1,5 +1,9 @@
 {
     "title": "Ouji to Majo to Himegimi to",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/34772.jpg",
+        "alt": "ouji-to-majo-to-himegimi-to"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "72",

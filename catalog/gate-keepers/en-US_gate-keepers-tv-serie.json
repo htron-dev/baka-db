@@ -1,12 +1,16 @@
 {
     "title": "Gate Keepers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/15226.jpg",
+        "alt": "gate-keepers"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ゲートキーパーズ",
     "start_date": "2000-04-03",
     "end_date": "2000-04-03",
     "opening_song": "\"Asu no Egao no Tameni (For the Smiles of Tomorrow)\" by Yumi Matsuzawa",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Asu no Egao no Tame ni (Special Version)\" by Yumi Matsuzawa (eps 1-6,24)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

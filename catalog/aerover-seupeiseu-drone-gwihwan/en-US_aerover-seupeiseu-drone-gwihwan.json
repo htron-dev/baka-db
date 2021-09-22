@@ -1,8 +1,12 @@
 {
     "title": "Aerover: Seupeiseu Drone Gwihwan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1985/113580.jpg",
+        "alt": "aerover-seupeiseu-drone-gwihwan"
+    },
     "type": "tv-serie",
     "episodes": "13",
-    "original_name": "에어로버",
+    "original_name": "에어로버: 스페이스 드론의 귀환",
     "start_date": "2018-01-18",
     "end_date": "2018-01-18",
     "rating": "G - All Ages",

@@ -1,5 +1,9 @@
 {
     "title": "Itsuwari Ou no Gladius",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222204.jpg",
+        "alt": "itsuwari-ou-no-gladius"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

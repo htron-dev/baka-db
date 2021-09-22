@@ -1,5 +1,9 @@
 {
     "title": "Aikatsu Friends!: Kagayaki no Jewel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1391/100465.jpg",
+        "alt": "aikatsu-friends-kagayaki-no-jewel"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "アイカツフレンズ！～かがやきのジュエル～",

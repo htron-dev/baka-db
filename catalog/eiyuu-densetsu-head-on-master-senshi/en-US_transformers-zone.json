@@ -1,5 +1,9 @@
 {
     "title": "Transformers Zone",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/13153.jpg",
+        "alt": "transformers-zone"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "トランスフォーマーＺ[ゾーン]",

@@ -1,5 +1,9 @@
 {
     "title": "Sanada to Hamako",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/202096.jpg",
+        "alt": "sanada-to-hamako"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

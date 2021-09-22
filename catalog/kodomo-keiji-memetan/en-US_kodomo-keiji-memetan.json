@@ -1,5 +1,9 @@
 {
     "title": "Kodomo Keiji Memetan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/143189.jpg",
+        "alt": "kodomo-keiji-memetan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

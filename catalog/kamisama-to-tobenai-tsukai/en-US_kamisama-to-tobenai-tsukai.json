@@ -1,5 +1,9 @@
 {
     "title": "Kamisama to Tobenai Tsukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223014.jpg",
+        "alt": "kamisama-to-tobenai-tsukai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

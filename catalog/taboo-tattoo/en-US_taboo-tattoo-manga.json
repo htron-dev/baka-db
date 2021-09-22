@@ -1,5 +1,9 @@
 {
     "title": "Taboo Tattoo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158586.jpg",
+        "alt": "taboo-tattoo"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "80",

@@ -1,5 +1,9 @@
 {
     "title": "Seiken Gakuin no Makentsukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/232128.jpg",
+        "alt": "seiken-gakuin-no-makentsukai"
+    },
     "type": "manga",
     "original_name": "聖剣学院の魔剣使い",
     "start_date": "2019-11-26",

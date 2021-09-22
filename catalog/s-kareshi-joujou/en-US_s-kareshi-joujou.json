@@ -1,5 +1,9 @@
 {
     "title": "S Kareshi Joujou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/45431.jpg",
+        "alt": "s-kareshi-joujou"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "27",

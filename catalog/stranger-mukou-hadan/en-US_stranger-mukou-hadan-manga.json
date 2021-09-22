@@ -1,5 +1,9 @@
 {
     "title": "Stranger: Mukou Hadan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/136099.jpg",
+        "alt": "stranger-mukou-hadan"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ストレンヂア 無皇刃譚",

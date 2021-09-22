@@ -1,5 +1,9 @@
 {
     "title": "Saitama Chainsaw Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/28837.jpg",
+        "alt": "saitama-chainsaw-shoujo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

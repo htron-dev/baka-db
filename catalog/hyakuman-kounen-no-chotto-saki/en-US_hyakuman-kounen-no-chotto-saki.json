@@ -1,5 +1,9 @@
 {
     "title": "Hyakuman Kounen no Chotto Saki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240773.jpg",
+        "alt": "hyakuman-kounen-no-chotto-saki"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "50",

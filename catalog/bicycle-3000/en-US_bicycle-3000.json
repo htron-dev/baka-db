@@ -1,5 +1,9 @@
 {
     "title": "Bicycle 3000",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229833.jpg",
+        "alt": "bicycle-3000"
+    },
     "type": "manhwa",
     "volumes": "1",
     "chapters": "9",

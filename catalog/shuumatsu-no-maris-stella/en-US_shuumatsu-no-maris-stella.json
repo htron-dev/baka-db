@@ -1,5 +1,9 @@
 {
     "title": "Shuumatsu no Maris Stella",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/120329.jpg",
+        "alt": "shuumatsu-no-maris-stella"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

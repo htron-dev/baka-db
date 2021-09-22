@@ -1,5 +1,9 @@
 {
     "title": "Baby Steps",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/63361.jpg",
+        "alt": "baby-steps"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "ベイビーステップ",

@@ -1,5 +1,9 @@
 {
     "title": "Sabikui Bisco",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221470.jpg",
+        "alt": "sabikui-bisco"
+    },
     "type": "light-novel",
     "original_name": "錆喰いビスコ",
     "start_date": "2018-03-10",

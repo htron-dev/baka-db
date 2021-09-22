@@ -1,5 +1,9 @@
 {
     "title": "Dotanba no Manners",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/53515.jpg",
+        "alt": "dotanba-no-manners"
+    },
     "type": "tv-serie",
     "episodes": "283",
     "original_name": "ドタンバのマナー",

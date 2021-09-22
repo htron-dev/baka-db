@@ -1,5 +1,9 @@
 {
     "title": "Millionaire no Tsugunai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/232887.jpg",
+        "alt": "millionaire-no-tsugunai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ミリオネアの償い",

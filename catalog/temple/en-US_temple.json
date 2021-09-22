@@ -1,5 +1,9 @@
 {
     "title": "Temple",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221611.jpg",
+        "alt": "temple"
+    },
     "type": "manga",
     "original_name": "てんぷる",
     "start_date": "2018-09-01",

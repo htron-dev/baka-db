@@ -1,5 +1,9 @@
 {
     "title": "Masa ga Yuku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176319.jpg",
+        "alt": "masa-ga-yuku"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "政がゆく",

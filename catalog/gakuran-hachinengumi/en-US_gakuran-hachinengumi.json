@@ -1,5 +1,9 @@
 {
     "title": "Gakuran Hachinengumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235829.jpg",
+        "alt": "gakuran-hachinengumi"
+    },
     "type": "manga",
     "volumes": "11",
     "original_name": "ガクラン八年組",

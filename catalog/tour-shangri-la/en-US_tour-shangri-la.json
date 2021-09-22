@@ -1,5 +1,9 @@
 {
     "title": "Tour Shangri-La",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/133773.jpg",
+        "alt": "tour-shangri-la"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

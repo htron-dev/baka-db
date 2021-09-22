@@ -1,5 +1,9 @@
 {
     "title": "Ikenai Koto, Shiyo?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223223.jpg",
+        "alt": "ikenai-koto-shiyo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

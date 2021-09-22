@@ -1,5 +1,9 @@
 {
     "title": "Kodoku Miman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149169.jpg",
+        "alt": "kodoku-miman"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Miyuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/48687.jpg",
+        "alt": "miyuki"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "95",

@@ -1,5 +1,9 @@
 {
     "title": "Ikasete!! Bambina♥",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/126843.jpg",
+        "alt": "ikasete-bambina♥"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "29",

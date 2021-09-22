@@ -1,5 +1,9 @@
 {
     "title": "Sorenari ni Romantic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/218091.jpg",
+        "alt": "sorenari-ni-romantic"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

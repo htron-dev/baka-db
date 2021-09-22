@@ -1,5 +1,9 @@
 {
     "title": "Mangaranai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/42539.jpg",
+        "alt": "mangaranai"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "まんがらない。",

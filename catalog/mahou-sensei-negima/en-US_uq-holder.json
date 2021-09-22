@@ -1,5 +1,9 @@
 {
     "title": "UQ Holder!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/112577.jpg",
+        "alt": "uq-holder"
+    },
     "type": "manga",
     "original_name": "UQ HOLDER!",
     "start_date": "2013-08-28",

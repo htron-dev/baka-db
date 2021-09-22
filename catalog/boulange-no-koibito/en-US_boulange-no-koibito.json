@@ -1,5 +1,9 @@
 {
     "title": "Boulange no Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/82072.jpg",
+        "alt": "boulange-no-koibito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

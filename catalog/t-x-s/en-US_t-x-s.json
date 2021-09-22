@@ -1,5 +1,9 @@
 {
     "title": "T x S",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193451.jpg",
+        "alt": "t-x-s"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

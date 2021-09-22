@@ -1,5 +1,9 @@
 {
     "title": "Tomo-chan wa Onnanoko!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169710.jpg",
+        "alt": "tomo-chan-wa-onnanoko"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "56",

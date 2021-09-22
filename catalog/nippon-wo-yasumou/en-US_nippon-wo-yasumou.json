@@ -1,5 +1,9 @@
 {
     "title": "Nippon wo Yasumou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20768.jpg",
+        "alt": "nippon-wo-yasumou"
+    },
     "type": "manga",
     "volumes": "18",
     "original_name": "日本を休もう もう一つの極運星物語",

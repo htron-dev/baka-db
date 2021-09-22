@@ -1,5 +1,9 @@
 {
     "title": "Ashita no Nadja",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/67987.jpg",
+        "alt": "ashita-no-nadja"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

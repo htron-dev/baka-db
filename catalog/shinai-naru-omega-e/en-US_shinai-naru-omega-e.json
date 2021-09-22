@@ -1,5 +1,9 @@
 {
     "title": "Shinai Naru Omega e",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238104.jpg",
+        "alt": "shinai-naru-omega-e"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

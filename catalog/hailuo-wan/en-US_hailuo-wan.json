@@ -1,5 +1,9 @@
 {
     "title": "Hailuo Wan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1230/115349.jpg",
+        "alt": "hailuo-wan"
+    },
     "type": "tv-serie",
     "episodes": "130",
     "original_name": "海螺湾",

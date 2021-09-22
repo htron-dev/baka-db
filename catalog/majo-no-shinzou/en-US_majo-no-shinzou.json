@@ -1,5 +1,9 @@
 {
     "title": "Majo no Shinzou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/104305.jpg",
+        "alt": "majo-no-shinzou"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "46",

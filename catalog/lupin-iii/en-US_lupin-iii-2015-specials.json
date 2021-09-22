@@ -1,5 +1,9 @@
 {
     "title": "Lupin III (2015) Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/79629.jpg",
+        "alt": "lupin-iii-2015-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "ルパン三世",

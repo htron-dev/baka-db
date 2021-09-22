@@ -1,5 +1,9 @@
 {
     "title": "Yancharu Moncha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/72124.jpg",
+        "alt": "yancharu-moncha"
+    },
     "type": "tv-serie",
     "episodes": "80",
     "original_name": "やんちゃるモンちゃ",

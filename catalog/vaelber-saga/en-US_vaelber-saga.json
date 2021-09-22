@@ -1,5 +1,9 @@
 {
     "title": "Vaelber Saga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/39784.jpg",
+        "alt": "vaelber-saga"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "33",

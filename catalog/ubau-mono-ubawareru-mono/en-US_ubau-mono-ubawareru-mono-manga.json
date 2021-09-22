@@ -1,5 +1,9 @@
 {
     "title": "Ubau Mono Ubawareru Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179328.jpg",
+        "alt": "ubau-mono-ubawareru-mono"
+    },
     "type": "manga",
     "chapters": "8",
     "original_name": "奪う者 奪われる者",

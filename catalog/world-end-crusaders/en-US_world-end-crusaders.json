@@ -1,5 +1,9 @@
 {
     "title": "World End Crusaders",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200704.jpg",
+        "alt": "world-end-crusaders"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

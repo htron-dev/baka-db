@@ -1,5 +1,9 @@
 {
     "title": "Banjou no Polaris",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/173469.jpg",
+        "alt": "banjou-no-polaris"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Battery",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179346.jpg",
+        "alt": "battery"
+    },
     "type": "manga",
     "original_name": "バッテリー",
     "start_date": "2016-06-11",

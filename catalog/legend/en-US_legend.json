@@ -1,5 +1,9 @@
 {
     "title": "Legend",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/1628.jpg",
+        "alt": "legend"
+    },
     "type": "manhwa",
     "volumes": "10",
     "original_name": "리젠드",

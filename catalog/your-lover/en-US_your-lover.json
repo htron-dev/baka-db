@@ -1,5 +1,9 @@
 {
     "title": "Your Lover",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6907.jpg",
+        "alt": "your-lover"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "16",

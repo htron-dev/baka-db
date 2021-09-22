@@ -1,5 +1,9 @@
 {
     "title": "Hakuchuu no Boukun, Mayonaka no Shihaisha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/127943.jpg",
+        "alt": "hakuchuu-no-boukun-mayonaka-no-shihaisha"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Bara no Josephine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/71067.jpg",
+        "alt": "bara-no-josephine"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "薔薇のジョゼフィーヌ",

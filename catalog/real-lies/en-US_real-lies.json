@@ -1,5 +1,9 @@
 {
     "title": "Real Lies",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7734.jpg",
+        "alt": "real-lies"
+    },
     "type": "manhwa",
     "volumes": "1",
     "chapters": "3",

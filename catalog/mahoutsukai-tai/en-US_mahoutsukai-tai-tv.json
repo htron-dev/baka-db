@@ -1,5 +1,9 @@
 {
     "title": "Mahoutsukai Tai! (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/44063.jpg",
+        "alt": "mahoutsukai-tai-tv"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "魔法使い Tai!",

@@ -1,5 +1,9 @@
 {
     "title": "Chou Supercar Gattiger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/27329.jpg",
+        "alt": "chou-supercar-gattiger"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "超スーパーカー ガッタイガー",

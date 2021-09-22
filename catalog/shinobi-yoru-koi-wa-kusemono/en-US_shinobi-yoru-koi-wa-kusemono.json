@@ -1,5 +1,9 @@
 {
     "title": "Shinobi Yoru Koi wa Kusemono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/29905.jpg",
+        "alt": "shinobi-yoru-koi-wa-kusemono"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "26",

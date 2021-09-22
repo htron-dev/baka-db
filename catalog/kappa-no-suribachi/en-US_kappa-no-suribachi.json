@@ -1,5 +1,9 @@
 {
     "title": "Kappa no Suribachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/70851.jpg",
+        "alt": "kappa-no-suribachi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "かっぱのすりばち",

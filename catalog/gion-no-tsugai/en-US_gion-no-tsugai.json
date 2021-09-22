@@ -1,5 +1,9 @@
 {
     "title": "Gion no Tsugai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167985.jpg",
+        "alt": "gion-no-tsugai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

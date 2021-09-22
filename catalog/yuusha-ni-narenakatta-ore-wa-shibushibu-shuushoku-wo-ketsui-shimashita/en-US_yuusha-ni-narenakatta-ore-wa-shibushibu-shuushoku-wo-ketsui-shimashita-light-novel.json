@@ -1,5 +1,9 @@
 {
     "title": "Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158592.jpg",
+        "alt": "yuusha-ni-narenakatta-ore-wa-shibushibu-shuushoku-wo-ketsui-shimashita"
+    },
     "type": "light-novel",
     "volumes": "10",
     "chapters": "77",

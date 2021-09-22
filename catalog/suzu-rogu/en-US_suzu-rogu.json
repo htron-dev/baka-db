@@ -1,5 +1,9 @@
 {
     "title": "Suzu Rogu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/28874.jpg",
+        "alt": "suzu-rogu"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "スズログ",

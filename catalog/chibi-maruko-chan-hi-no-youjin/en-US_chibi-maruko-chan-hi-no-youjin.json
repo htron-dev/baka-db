@@ -1,5 +1,9 @@
 {
     "title": "Chibi Maruko-chan: Hi no Youjin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/84721.jpg",
+        "alt": "chibi-maruko-chan-hi-no-youjin"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ちびまる子ちゃん　火の用心",

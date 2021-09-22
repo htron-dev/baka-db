@@ -1,5 +1,9 @@
 {
     "title": "Kyuuketsuki no Yuigon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24820.jpg",
+        "alt": "kyuuketsuki-no-yuigon"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "吸血鬼の遺言",

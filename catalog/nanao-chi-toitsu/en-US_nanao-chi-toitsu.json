@@ -1,5 +1,9 @@
 {
     "title": "Nanao Chi-toitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157126.jpg",
+        "alt": "nanao-chi-toitsu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

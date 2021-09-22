@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no Minna no Mori wo Mamore!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/49665.jpg",
+        "alt": "hello-kitty-no-minna-no-mori-wo-mamore"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハローキティのみんなの森をまもれ!",

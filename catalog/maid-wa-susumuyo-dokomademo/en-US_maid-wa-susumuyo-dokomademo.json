@@ -1,5 +1,9 @@
 {
     "title": "Maid wa Susumuyo Dokomademo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195899.jpg",
+        "alt": "maid-wa-susumuyo-dokomademo"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "14",

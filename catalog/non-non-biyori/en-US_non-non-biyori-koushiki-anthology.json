@@ -1,5 +1,9 @@
 {
     "title": "Non Non Biyori Koushiki Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/119241.jpg",
+        "alt": "non-non-biyori-koushiki-anthology"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "72",

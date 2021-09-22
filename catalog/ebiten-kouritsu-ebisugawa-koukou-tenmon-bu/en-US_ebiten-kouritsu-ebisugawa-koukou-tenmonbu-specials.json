@@ -1,5 +1,9 @@
 {
     "title": "Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/44588.jpg",
+        "alt": "ebiten-kouritsu-ebisugawa-koukou-tenmonbu-specials"
+    },
     "type": "special",
     "episodes": "5",
     "original_name": "えびてん 公立海老栖川高校天悶部",

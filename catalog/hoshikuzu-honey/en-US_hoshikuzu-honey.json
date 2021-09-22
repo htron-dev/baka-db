@@ -1,5 +1,9 @@
 {
     "title": "Hoshikuzu Honey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/143403.jpg",
+        "alt": "hoshikuzu-honey"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "20",

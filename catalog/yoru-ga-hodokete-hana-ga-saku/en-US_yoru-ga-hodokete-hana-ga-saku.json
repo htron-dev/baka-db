@@ -1,5 +1,9 @@
 {
     "title": "Yoru ga Hodokete Hana ga Saku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235271.jpg",
+        "alt": "yoru-ga-hodokete-hana-ga-saku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

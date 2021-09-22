@@ -1,5 +1,9 @@
 {
     "title": "ABC Tenkiyohou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1757/113786.jpg",
+        "alt": "abc-tenkiyohou"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ABC 天気予報",

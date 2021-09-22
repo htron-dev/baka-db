@@ -1,5 +1,9 @@
 {
     "title": "Taishou Yakyuu Musume.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35885.jpg",
+        "alt": "taishou-yakyuu-musume"
+    },
     "type": "light-novel",
     "original_name": "大正野球娘。",
     "start_date": "2007-04-17",

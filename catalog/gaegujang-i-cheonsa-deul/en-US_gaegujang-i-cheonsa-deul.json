@@ -1,5 +1,9 @@
 {
     "title": "Gaegujang-i Cheonsa-deul",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/45174.jpg",
+        "alt": "gaegujang-i-cheonsa-deul"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "개구장이 천사들",

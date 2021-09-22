@@ -1,5 +1,9 @@
 {
     "title": "Étoile: Sanjuushi Seira",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15465.jpg",
+        "alt": "etoile-sanjuushi-seira"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "5",

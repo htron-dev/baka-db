@@ -1,5 +1,9 @@
 {
     "title": "Anata no Machi no Toshi Denki!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164310.jpg",
+        "alt": "anata-no-machi-no-toshi-denki"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "15",

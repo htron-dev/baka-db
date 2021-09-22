@@ -1,5 +1,9 @@
 {
     "title": "Chef to Dorobou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170100.jpg",
+        "alt": "chef-to-dorobou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "シェフと泥棒",

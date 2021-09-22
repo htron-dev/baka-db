@@ -1,5 +1,9 @@
 {
     "title": "Eien no Labyrinth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/7172.jpg",
+        "alt": "eien-no-labyrinth"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "永遠のラビリンス",

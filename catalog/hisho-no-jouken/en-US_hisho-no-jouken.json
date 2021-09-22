@@ -1,5 +1,9 @@
 {
     "title": "Hisho no Jouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/77723.jpg",
+        "alt": "hisho-no-jouken"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

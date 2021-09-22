@@ -1,5 +1,9 @@
 {
     "title": "Tokubou Asakura Souhei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240188.jpg",
+        "alt": "tokubou-asakura-souhei"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "70",

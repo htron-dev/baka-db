@@ -1,11 +1,15 @@
 {
     "title": "Kyou no 5 no 2 (TV): Takarabako",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/14378.jpg",
+        "alt": "kyou-no-5-no-2-tv-takarabako"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "今日の５の２宝箱",
     "start_date": "2009-10-06",
-    "opening_song": "\"Kitakaze (キタカゼ)\" by Friends",
-    "ending_song": "#1",
+    "opening_song": "\"Kitakaze (キタカゼ)\" by Friends: Yuu Kobayashi, Asami Shimoda, MAKO, Satomi Akesaka, Youko Honda, Kana Asumi",
+    "ending_song": "#1: \"Daibakuhatsu NO.1 「大爆発 NO.1」\" by Friends: Yuu Kobayashi, Asami Shimoda, MAKO, Satomi Akesaka, Youko Honda, Kana Asumi (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

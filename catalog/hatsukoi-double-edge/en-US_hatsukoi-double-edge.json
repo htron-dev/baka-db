@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi Double Edge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203194.jpg",
+        "alt": "hatsukoi-double-edge"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "42",

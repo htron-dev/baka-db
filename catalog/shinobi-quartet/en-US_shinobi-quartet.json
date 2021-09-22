@@ -1,5 +1,9 @@
 {
     "title": "Shinobi Quartet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180352.jpg",
+        "alt": "shinobi-quartet"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "32",

@@ -1,5 +1,9 @@
 {
     "title": "Babel Word no Kotodama Tsukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158339.jpg",
+        "alt": "babel-word-no-kotodama-tsukai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

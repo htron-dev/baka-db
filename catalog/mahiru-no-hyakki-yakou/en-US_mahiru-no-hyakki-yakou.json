@@ -1,5 +1,9 @@
 {
     "title": "Mahiru no Hyakki Yakou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/209066.jpg",
+        "alt": "mahiru-no-hyakki-yakou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

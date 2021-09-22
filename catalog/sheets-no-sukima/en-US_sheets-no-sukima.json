@@ -1,5 +1,9 @@
 {
     "title": "Sheets no Sukima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11336.jpg",
+        "alt": "sheets-no-sukima"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

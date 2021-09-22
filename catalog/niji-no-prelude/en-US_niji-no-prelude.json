@@ -1,5 +1,9 @@
 {
     "title": "Niji no Prelude",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36207.jpg",
+        "alt": "niji-no-prelude"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

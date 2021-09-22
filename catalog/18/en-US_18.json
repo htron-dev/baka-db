@@ -1,5 +1,9 @@
 {
     "title": "18",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/242072.jpg",
+        "alt": "18"
+    },
     "type": "manga",
     "original_name": "18 エイティーン",
     "start_date": "2020-08-12",

@@ -1,5 +1,9 @@
 {
     "title": "Kappa-Kou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241243.jpg",
+        "alt": "kappa-kou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

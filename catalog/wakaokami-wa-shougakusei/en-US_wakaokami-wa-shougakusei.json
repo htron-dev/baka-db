@@ -1,11 +1,15 @@
 {
     "title": "Wakaokami wa Shougakusei!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1825/94402.jpg",
+        "alt": "wakaokami-wa-shougakusei"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "若おかみは小学生！",
     "start_date": "2018-04-08",
     "end_date": "2018-04-08",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kimi no Stage e (君のステージヘ)\" by Mizutani Kaho",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

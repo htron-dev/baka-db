@@ -1,5 +1,9 @@
 {
     "title": "Kitto Aishiteshimaunda.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194948.jpg",
+        "alt": "kitto-aishiteshimaunda"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "41",

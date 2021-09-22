@@ -1,5 +1,9 @@
 {
     "title": "Chibi☆Devi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/35927.jpg",
+        "alt": "chibi☆-devi"
+    },
     "type": "tv-serie",
     "episodes": "75",
     "original_name": "ちび ☆ デビ！",

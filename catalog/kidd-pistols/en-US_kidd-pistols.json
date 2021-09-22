@@ -1,5 +1,9 @@
 {
     "title": "Kidd Pistols",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15482.jpg",
+        "alt": "kidd-pistols"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "キッド・ピストルズ",

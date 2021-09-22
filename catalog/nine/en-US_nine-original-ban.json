@@ -1,5 +1,9 @@
 {
     "title": "Nine: Original-ban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/49881.jpg",
+        "alt": "nine-original-ban"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ナイン オリジナル版",
@@ -27,7 +31,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Nine_(manga"
+            "link": "http://en.wikipedia.org/wiki/Nine_%28manga%29"
         }
     ]
 }

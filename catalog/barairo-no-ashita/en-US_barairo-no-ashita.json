@@ -1,5 +1,9 @@
 {
     "title": "Barairo no Ashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194338.jpg",
+        "alt": "barairo-no-ashita"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "21",

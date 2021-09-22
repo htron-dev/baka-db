@@ -1,5 +1,9 @@
 {
     "title": "Soul Flower Train",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/126421.jpg",
+        "alt": "soul-flower-train"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ソウル・フラワー・トレイン",

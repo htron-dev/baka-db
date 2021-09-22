@@ -1,5 +1,9 @@
 {
     "title": "Kodomo no Taion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/6988.jpg",
+        "alt": "kodomo-no-taion"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "こどもの体温",

@@ -1,5 +1,9 @@
 {
     "title": "Hakuryuu Legend",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185079.jpg",
+        "alt": "hakuryuu-legend"
+    },
     "type": "manga",
     "volumes": "46",
     "chapters": "414",

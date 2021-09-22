@@ -1,5 +1,9 @@
 {
     "title": "Zutto Kitto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247603.jpg",
+        "alt": "zutto-kitto"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "34",

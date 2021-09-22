@@ -1,5 +1,9 @@
 {
     "title": "Soredemo Ayumu wa Yosetekuru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1566/116398.jpg",
+        "alt": "soredemo-ayumu-wa-yosetekuru"
+    },
     "type": "tv-serie",
     "original_name": "それでも歩は寄せてくる",
     "start_date": "2022-07-20",

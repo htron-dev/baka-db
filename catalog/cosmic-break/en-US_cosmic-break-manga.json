@@ -1,5 +1,9 @@
 {
     "title": "Cosmic Break",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/38067.jpg",
+        "alt": "cosmic-break"
+    },
     "type": "manga",
     "original_name": "コズミックブレイク",
     "tags": [

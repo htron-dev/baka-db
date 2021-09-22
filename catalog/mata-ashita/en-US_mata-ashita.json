@@ -1,5 +1,9 @@
 {
     "title": "Mata Ashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158518.jpg",
+        "alt": "mata-ashita"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

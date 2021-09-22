@@ -1,5 +1,9 @@
 {
     "title": "Akuma de Sourou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5241.jpg",
+        "alt": "akuma-de-sourou"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "42",

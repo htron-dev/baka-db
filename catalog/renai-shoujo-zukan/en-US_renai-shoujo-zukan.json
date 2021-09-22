@@ -1,5 +1,9 @@
 {
     "title": "Renai Shoujo Zukan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/83937.jpg",
+        "alt": "renai-shoujo-zukan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Asobi Asobase OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1539/98126.jpg",
+        "alt": "asobi-asobase-ova"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "あそびあそばせ (OAD)",

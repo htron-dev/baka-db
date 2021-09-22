@@ -1,5 +1,9 @@
 {
     "title": "Pecola",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/34759.jpg",
+        "alt": "pecola"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ペコラ",

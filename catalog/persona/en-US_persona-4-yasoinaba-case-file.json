@@ -1,5 +1,9 @@
 {
     "title": "Persona 4: Yasoinaba Case File",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/117921.jpg",
+        "alt": "persona-4-yasoinaba-case-file"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ペルソナ 4 YASOINABA CASE FILE [八十稲羽ケースファイル]",

@@ -1,5 +1,9 @@
 {
     "title": "Bubaga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/70827.jpg",
+        "alt": "bubaga"
+    },
     "type": "tv-serie",
     "episodes": "8",
     "original_name": "ぶーばーがー",

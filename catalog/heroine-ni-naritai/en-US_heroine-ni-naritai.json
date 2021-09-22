@@ -1,5 +1,9 @@
 {
     "title": "Heroine ni Naritai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226175.jpg",
+        "alt": "heroine-ni-naritai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

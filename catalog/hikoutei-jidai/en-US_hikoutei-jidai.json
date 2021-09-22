@@ -1,5 +1,9 @@
 {
     "title": "Hikoutei Jidai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40249.jpg",
+        "alt": "hikoutei-jidai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Yuru Camp△",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/89877.jpg",
+        "alt": "yuru-camp△"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ゆるキャン △",

@@ -1,5 +1,9 @@
 {
     "title": "18 Rin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188982.jpg",
+        "alt": "18-rin"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "49",

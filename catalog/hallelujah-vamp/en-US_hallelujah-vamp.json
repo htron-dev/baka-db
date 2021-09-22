@@ -1,5 +1,9 @@
 {
     "title": "Hallelujah Vamp",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164584.jpg",
+        "alt": "hallelujah-vamp"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "ハレルヤ・ヴァンプ",

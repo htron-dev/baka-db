@@ -1,5 +1,9 @@
 {
     "title": "Black Dust Potion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156618.jpg",
+        "alt": "black-dust-potion"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

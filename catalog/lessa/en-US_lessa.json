@@ -1,5 +1,9 @@
 {
     "title": "Lessa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221652.jpg",
+        "alt": "lessa"
+    },
     "type": "manhwa",
     "volumes": "18",
     "chapters": "292",

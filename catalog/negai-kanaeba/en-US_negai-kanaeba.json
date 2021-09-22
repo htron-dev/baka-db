@@ -1,5 +1,9 @@
 {
     "title": "Negai Kanaeba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11138.jpg",
+        "alt": "negai-kanaeba"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

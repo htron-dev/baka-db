@@ -1,5 +1,9 @@
 {
     "title": "Hannari to",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/120067.jpg",
+        "alt": "hannari-to"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "33",

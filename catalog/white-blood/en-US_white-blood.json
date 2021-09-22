@@ -1,5 +1,9 @@
 {
     "title": "White Blood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238421.jpg",
+        "alt": "white-blood"
+    },
     "type": "manhwa",
     "original_name": "화이트 블러드",
     "start_date": "2020-01-15",

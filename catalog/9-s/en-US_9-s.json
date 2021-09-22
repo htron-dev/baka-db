@@ -1,5 +1,9 @@
 {
     "title": "9S",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/128231.jpg",
+        "alt": "9-s"
+    },
     "type": "light-novel",
     "original_name": "9S ＜ナインエス＞",
     "start_date": "2003-09-10",

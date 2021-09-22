@@ -1,5 +1,9 @@
 {
     "title": "Yuuyake Dandan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/72570.jpg",
+        "alt": "yuuyake-dandan"
+    },
     "type": "movie",
     "episodes": "23",
     "original_name": "夕やけだん団",

@@ -1,5 +1,9 @@
 {
     "title": "Usagi-kun no Shitsukekata.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164580.jpg",
+        "alt": "usagi-kun-no-shitsukekata"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "うさぎくんのしつけ方。",

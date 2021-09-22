@@ -1,5 +1,9 @@
 {
     "title": "Yamiabaki Kurau Miko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174571.jpg",
+        "alt": "yamiabaki-kurau-miko"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

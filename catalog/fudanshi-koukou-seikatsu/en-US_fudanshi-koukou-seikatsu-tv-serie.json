@@ -1,5 +1,9 @@
 {
     "title": "Fudanshi Koukou Seikatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/80966.jpg",
+        "alt": "fudanshi-koukou-seikatsu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "腐男子高校生活",

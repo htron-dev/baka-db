@@ -1,5 +1,9 @@
 {
     "title": "Kataomoi no Mukougawa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21917.jpg",
+        "alt": "kataomoi-no-mukougawa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

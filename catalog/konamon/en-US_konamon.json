@@ -1,5 +1,9 @@
 {
     "title": "Konamon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153522.jpg",
+        "alt": "konamon"
+    },
     "type": "manga",
     "chapters": "11",
     "original_name": "こなもんっ",

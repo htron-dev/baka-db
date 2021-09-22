@@ -1,5 +1,9 @@
 {
     "title": "Master Grape",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192856.jpg",
+        "alt": "master-grape"
+    },
     "type": "manga",
     "original_name": "MASTER グレープ",
     "start_date": "2016-10-12",

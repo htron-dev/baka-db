@@ -1,5 +1,9 @@
 {
     "title": "Super Family Complete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/110817.jpg",
+        "alt": "super-family-complete"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "SUPER ファミリーコンプリート",

@@ -1,5 +1,9 @@
 {
     "title": "Lega no 13",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36510.jpg",
+        "alt": "lega-no-13"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "36",

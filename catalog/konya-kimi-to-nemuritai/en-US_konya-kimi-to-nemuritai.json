@@ -1,5 +1,9 @@
 {
     "title": "Konya, Kimi to Nemuritai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238235.jpg",
+        "alt": "konya-kimi-to-nemuritai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

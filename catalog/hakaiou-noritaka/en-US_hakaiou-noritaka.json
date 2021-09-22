@@ -1,5 +1,9 @@
 {
     "title": "Hakaiou Noritaka!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/183363.jpg",
+        "alt": "hakaiou-noritaka"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "155",

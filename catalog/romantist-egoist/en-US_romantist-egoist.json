@@ -1,5 +1,9 @@
 {
     "title": "Romantist Egoist",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5916.jpg",
+        "alt": "romantist-egoist"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ロマンチスト　エゴイスト",

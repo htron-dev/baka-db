@@ -1,5 +1,9 @@
 {
     "title": "Yumekui Ouji no Yuuutsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/143621.jpg",
+        "alt": "yumekui-ouji-no-yuuutsu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

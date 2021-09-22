@@ -1,5 +1,9 @@
 {
     "title": "God Eater: The 2nd Break",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160487.jpg",
+        "alt": "god-eater-the-2nd-break"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

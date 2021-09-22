@@ -1,11 +1,15 @@
 {
     "title": "Obake no Q-tarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1835/95971.jpg",
+        "alt": "obake-no-q-tarou"
+    },
     "type": "tv-serie",
     "episodes": "96",
     "original_name": "オバケのＱ太郎",
     "start_date": "1965-08-29",
     "end_date": "1965-08-29",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Obake no Q-tarou (オバケの Q 太郎)\" by Susumu Ishikawa",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

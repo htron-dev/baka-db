@@ -1,5 +1,9 @@
 {
     "title": "Hal &amp; Bons",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/5878.jpg",
+        "alt": "hal-amp-bons"
+    },
     "type": "ova",
     "episodes": "5",
     "original_name": "ハル&ボンス",

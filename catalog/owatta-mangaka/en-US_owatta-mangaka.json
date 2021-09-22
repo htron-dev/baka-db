@@ -1,5 +1,9 @@
 {
     "title": "Owatta Mangaka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223303.jpg",
+        "alt": "owatta-mangaka"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "90",

@@ -1,5 +1,9 @@
 {
     "title": "Rikujou Bouei-tai Mao-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163355.jpg",
+        "alt": "rikujou-bouei-tai-mao-chan"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "32",

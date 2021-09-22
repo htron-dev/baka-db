@@ -1,5 +1,9 @@
 {
     "title": "Senpai! Ore no Koe de Iyasarenaide Kudasai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238635.jpg",
+        "alt": "senpai-ore-no-koe-de-iyasarenaide-kudasai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

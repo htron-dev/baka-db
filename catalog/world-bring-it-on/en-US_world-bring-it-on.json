@@ -1,5 +1,9 @@
 {
     "title": "World Bring It On!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/145555.jpg",
+        "alt": "world-bring-it-on"
+    },
     "type": "manhwa",
     "volumes": "16",
     "original_name": "세상아 덤벼라!",

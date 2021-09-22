@@ -1,12 +1,16 @@
 {
     "title": "Virtua Fighter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1234/110241.jpg",
+        "alt": "virtua-fighter"
+    },
     "type": "tv-serie",
     "episodes": "35",
     "original_name": "バーチャファイター",
     "start_date": "1995-10-09",
     "end_date": "1995-10-09",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Wild Vision\" by Ishikawa Masatoshi (eps 1-24)",
+    "ending_song": "#1: \"Kuchibiru no Shinwa (くちびるの神話)\" by Vivian Hsu",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

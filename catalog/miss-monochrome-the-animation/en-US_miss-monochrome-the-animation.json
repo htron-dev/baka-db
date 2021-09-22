@@ -1,11 +1,15 @@
 {
     "title": "Miss Monochrome The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/56165.jpg",
+        "alt": "miss-monochrome-the-animation"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ミス・モノクローム -The Animation-",
     "start_date": "2013-10-02",
     "end_date": "2013-10-02",
-    "ending_song": "\"Poker Face (ポーカーフェイス)\" by Miss Monochrome (CV",
+    "ending_song": "\"Poker Face (ポーカーフェイス)\" by Miss Monochrome (CV: Yui Horie)",
     "rating": "G - All Ages",
     "tags": [
         "music",

@@ -1,12 +1,16 @@
 {
     "title": "Seraphim Call",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/49619.jpg",
+        "alt": "seraphim-call"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "セラフィムコール",
     "start_date": "1999-10-06",
     "end_date": "1999-10-06",
     "opening_song": "\"Pray\" by Yuko Sasaki",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Yume mite moo ii ja nai\" by Hiroko Kasahara (ep 01)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "romance",

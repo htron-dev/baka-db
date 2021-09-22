@@ -1,5 +1,9 @@
 {
     "title": "Shinanaide! Asukawa-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221871.jpg",
+        "alt": "shinanaide-asukawa-san"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

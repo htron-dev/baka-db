@@ -1,5 +1,9 @@
 {
     "title": "Ohitorisama Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18949.jpg",
+        "alt": "ohitorisama-monogatari"
+    },
     "type": "manga",
     "original_name": "おひとり様物語",
     "start_date": "2006-11-08",

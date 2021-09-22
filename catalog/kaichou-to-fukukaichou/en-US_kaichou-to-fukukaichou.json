@@ -1,5 +1,9 @@
 {
     "title": "Kaichou to Fukukaichou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/65373.jpg",
+        "alt": "kaichou-to-fukukaichou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

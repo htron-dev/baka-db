@@ -1,5 +1,9 @@
 {
     "title": "Kagaku Kyuujo-tai TechnoVoyager",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/7158.jpg",
+        "alt": "kagaku-kyuujo-tai-techno-voyager"
+    },
     "type": "tv-serie",
     "episodes": "18",
     "original_name": "科学救助隊テクノボイジャー",

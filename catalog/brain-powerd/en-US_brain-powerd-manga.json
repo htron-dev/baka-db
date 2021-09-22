@@ -1,5 +1,9 @@
 {
     "title": "Brain Powerd",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/76769.jpg",
+        "alt": "brain-powerd"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "26",

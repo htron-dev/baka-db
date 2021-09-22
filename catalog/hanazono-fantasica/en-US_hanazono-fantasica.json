@@ -1,5 +1,9 @@
 {
     "title": "Hanazono Fantasica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/72579.jpg",
+        "alt": "hanazono-fantasica"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

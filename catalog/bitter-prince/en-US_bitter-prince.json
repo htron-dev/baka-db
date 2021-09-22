@@ -1,5 +1,9 @@
 {
     "title": "Bitter Prince",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201063.jpg",
+        "alt": "bitter-prince"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

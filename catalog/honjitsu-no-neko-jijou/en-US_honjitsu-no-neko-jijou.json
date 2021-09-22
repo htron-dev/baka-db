@@ -1,5 +1,9 @@
 {
     "title": "Honjitsu no Neko jijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/22346.jpg",
+        "alt": "honjitsu-no-neko-jijou"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "本日の猫事情",

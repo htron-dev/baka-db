@@ -1,5 +1,9 @@
 {
     "title": "Shouryou Tsukai Elementalors",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/21925.jpg",
+        "alt": "shouryou-tsukai-elementalors"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "精霊使いエレメンタラー",

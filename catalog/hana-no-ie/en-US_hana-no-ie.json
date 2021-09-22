@@ -1,5 +1,9 @@
 {
     "title": "Hana no Ie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229367.jpg",
+        "alt": "hana-no-ie"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

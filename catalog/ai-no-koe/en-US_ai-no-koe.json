@@ -1,5 +1,9 @@
 {
     "title": "Ai no Koe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/3958.jpg",
+        "alt": "ai-no-koe"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

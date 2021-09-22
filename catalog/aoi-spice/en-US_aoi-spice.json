@@ -1,5 +1,9 @@
 {
     "title": "Aoi Spice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/1758.jpg",
+        "alt": "aoi-spice"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

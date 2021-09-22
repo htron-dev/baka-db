@@ -1,5 +1,9 @@
 {
     "title": "Bit the Cupid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/27208.jpg",
+        "alt": "bit-the-cupid"
+    },
     "type": "tv-serie",
     "episodes": "48",
     "original_name": "ビット・ザ・キューピッド",

@@ -1,5 +1,9 @@
 {
     "title": "JoJo no Kimyou na Bouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1171/106036.jpg",
+        "alt": "jo-jo-no-kimyou-na-bouken"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "ジョジョの奇妙な冒険",

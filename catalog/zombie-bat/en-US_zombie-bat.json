@@ -1,5 +1,9 @@
 {
     "title": "Zombie Bat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/211722.jpg",
+        "alt": "zombie-bat"
+    },
     "type": "manga",
     "original_name": "ゾンビバット",
     "start_date": "2018-02-07",

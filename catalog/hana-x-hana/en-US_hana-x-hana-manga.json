@@ -1,5 +1,9 @@
 {
     "title": "Hana x Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168024.jpg",
+        "alt": "hana-x-hana"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "25",

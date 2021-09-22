@@ -1,5 +1,9 @@
 {
     "title": "Mahoutsukai ni Taisetsu na Koto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175873.jpg",
+        "alt": "mahoutsukai-ni-taisetsu-na-koto"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

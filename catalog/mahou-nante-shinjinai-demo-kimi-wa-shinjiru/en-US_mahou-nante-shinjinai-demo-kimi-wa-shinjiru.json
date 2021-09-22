@@ -1,5 +1,9 @@
 {
     "title": "Mahou nante Shinjinai. Demo Kimi wa Shinjiru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177523.jpg",
+        "alt": "mahou-nante-shinjinai-demo-kimi-wa-shinjiru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

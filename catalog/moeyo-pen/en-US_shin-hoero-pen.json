@@ -1,5 +1,9 @@
 {
     "title": "Shin Hoero Pen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/82168.jpg",
+        "alt": "shin-hoero-pen"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "47",

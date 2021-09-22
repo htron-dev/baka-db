@@ -1,5 +1,9 @@
 {
     "title": "Ai to Mogumogu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/211853.jpg",
+        "alt": "ai-to-mogumogu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

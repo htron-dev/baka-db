@@ -1,12 +1,16 @@
 {
     "title": "Captain Tsubasa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/26248.jpg",
+        "alt": "captain-tsubasa"
+    },
     "type": "tv-serie",
     "episodes": "128",
     "original_name": "キャプテン翼",
     "start_date": "1983-10-13",
     "end_date": "1983-10-13",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Moete Hero (燃えてヒーロー)\" by Hiroyuki Okita (eps 1-87)",
+    "ending_song": "#1: \"Fuyu no Lion (冬のライオン; Lion of Winter)\" by Hiroyuki Okita (eps 1-49)",
     "rating": "G - All Ages",
     "tags": [
         "action",

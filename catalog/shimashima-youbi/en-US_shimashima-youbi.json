@@ -1,5 +1,9 @@
 {
     "title": "Shimashima Youbi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/150484.jpg",
+        "alt": "shimashima-youbi"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "しましま曜日",

@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Te ga Sasayaiteiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247836.jpg",
+        "alt": "kimi-no-te-ga-sasayaiteiru"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "44",

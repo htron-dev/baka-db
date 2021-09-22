@@ -1,5 +1,9 @@
 {
     "title": "Zhuangzi Shuo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1714/115480.jpg",
+        "alt": "zhuangzi-shuo"
+    },
     "type": "tv-serie",
     "episodes": "70",
     "original_name": "庄子说",

@@ -1,5 +1,9 @@
 {
     "title": "Ore wa Otoko da! Kunio-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/4191.jpg",
+        "alt": "ore-wa-otoko-da-kunio-kun"
+    },
     "type": "manga",
     "volumes": "11",
     "original_name": "おれは男だ! くにおくん",

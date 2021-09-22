@@ -1,5 +1,9 @@
 {
     "title": "Tobaku Haouden Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24288.jpg",
+        "alt": "tobaku-haouden-zero"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "70",

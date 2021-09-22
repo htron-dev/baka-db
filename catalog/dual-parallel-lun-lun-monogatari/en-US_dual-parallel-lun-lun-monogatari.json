@@ -1,12 +1,16 @@
 {
     "title": "Dual! Parallel Lun-Lun Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/31223.jpg",
+        "alt": "dual-parallel-lun-lun-monogatari"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "デュアル！ぱられルンルン物語",
     "start_date": "1999-04-08",
     "end_date": "1999-04-08",
     "opening_song": "\"DUAL!\" by Haru & Sayaka from UNIVERSE★LD",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Real\" by Shifo from UNIVERSE★LD",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

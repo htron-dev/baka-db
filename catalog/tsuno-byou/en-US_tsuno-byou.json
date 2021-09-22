@@ -1,5 +1,9 @@
 {
     "title": "Tsuno-byou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/233440.jpg",
+        "alt": "tsuno-byou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

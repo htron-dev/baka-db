@@ -1,5 +1,9 @@
 {
     "title": "Kamiari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195836.jpg",
+        "alt": "kamiari"
+    },
     "type": "manga",
     "original_name": "かみあり",
     "start_date": "2007-02-09",

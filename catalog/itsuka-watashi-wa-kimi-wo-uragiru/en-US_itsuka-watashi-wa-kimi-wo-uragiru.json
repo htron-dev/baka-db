@@ -1,5 +1,9 @@
 {
     "title": "Itsuka Watashi wa, Kimi wo Uragiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203755.jpg",
+        "alt": "itsuka-watashi-wa-kimi-wo-uragiru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

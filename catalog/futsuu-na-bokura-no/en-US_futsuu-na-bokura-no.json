@@ -1,5 +1,9 @@
 {
     "title": "Futsuu na Bokura no",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226250.jpg",
+        "alt": "futsuu-na-bokura-no"
+    },
     "type": "manga",
     "original_name": "ふつうな僕らの",
     "start_date": "2019-04-12",

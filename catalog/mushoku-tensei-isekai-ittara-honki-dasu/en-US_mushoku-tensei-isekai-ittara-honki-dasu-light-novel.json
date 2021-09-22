@@ -1,5 +1,9 @@
 {
     "title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/120337.jpg",
+        "alt": "mushoku-tensei-isekai-ittara-honki-dasu"
+    },
     "type": "light-novel",
     "original_name": "無職転生 ～異世界行ったら本気だす～",
     "start_date": "2014-01-23",

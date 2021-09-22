@@ -1,5 +1,9 @@
 {
     "title": "Skyride!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164201.jpg",
+        "alt": "skyride"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

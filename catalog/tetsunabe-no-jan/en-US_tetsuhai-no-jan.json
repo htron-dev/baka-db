@@ -1,5 +1,9 @@
 {
     "title": "Tetsuhai no Jan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205175.jpg",
+        "alt": "tetsuhai-no-jan"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "60",

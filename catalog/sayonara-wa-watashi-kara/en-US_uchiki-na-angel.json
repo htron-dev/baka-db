@@ -1,5 +1,9 @@
 {
     "title": "Uchiki na Angel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227515.jpg",
+        "alt": "uchiki-na-angel"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "内気なエンジェル",

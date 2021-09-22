@@ -1,5 +1,9 @@
 {
     "title": "Tetsu no Senritsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/40608.jpg",
+        "alt": "tetsu-no-senritsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

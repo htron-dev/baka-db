@@ -1,12 +1,16 @@
 {
     "title": "Kami nomi zo Shiru Sekai: Megami-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/51949.jpg",
+        "alt": "kami-nomi-zo-shiru-sekai-megami-hen"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "神のみぞ知るセカイ 女神篇",
     "start_date": "2013-07-09",
     "end_date": "2013-07-09",
     "opening_song": "\"God only knows -Secrets of the Goddess-\" by Oratorio The World God Only Knows",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Kizuna no Yukue feat. Kanon Nakagawa (キズナノユクエ feat. 中川かのん)\" by Kanon Nakagawa starring Nao Touyama (ep 2)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "harem",

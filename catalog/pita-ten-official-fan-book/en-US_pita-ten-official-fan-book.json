@@ -1,5 +1,9 @@
 {
     "title": "Pita-ten Official Fan Book",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23655.jpg",
+        "alt": "pita-ten-official-fan-book"
+    },
     "type": "manga",
     "volumes": "3",
     "tags": [

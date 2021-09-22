@@ -1,12 +1,16 @@
 {
     "title": "Tomica Kizuna Gattai: Earth Granner",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1274/114349.jpg",
+        "alt": "tomica-kizuna-gattai-earth-granner"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "トミカ絆合体 アースグランナー",
     "start_date": "2020-04-05",
     "end_date": "2020-04-05",
     "opening_song": "\"Sekai ga Kimi wo Hitsuyou to Suru Toki ga Kitanda (世界が君を必要とする時が来たんだ)\" by Masayoshi Ooishi",
-    "ending_song": "\"Bokura ga Hero (僕らがヒーロー)\" by Da Vinci",
+    "ending_song": "\"Bokura ga Hero (僕らがヒーロー)\" by Da Vinci: Poirot",
     "rating": "PG - Children",
     "tags": [
         "action",

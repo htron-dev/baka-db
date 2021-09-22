@@ -1,5 +1,9 @@
 {
     "title": "Ka.re.shi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14992.jpg",
+        "alt": "ka-re-shi"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "KA・RE・SHI",

@@ -1,5 +1,9 @@
 {
     "title": "Maji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/54431.jpg",
+        "alt": "maji"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "本気(マジ)!",

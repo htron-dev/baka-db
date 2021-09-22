@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no Sanbiki no Kobuta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/58701.jpg",
+        "alt": "hello-kitty-no-sanbiki-no-kobuta"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハローキティの 3 匹の子ぶた",

@@ -1,5 +1,9 @@
 {
     "title": "Genghis Khan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/92401.jpg",
+        "alt": "genghis-khan"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "42",

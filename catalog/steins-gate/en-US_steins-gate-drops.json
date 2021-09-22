@@ -1,5 +1,9 @@
 {
     "title": "Steins;Gate: Drops",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/128919.jpg",
+        "alt": "steins-gate-drops"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

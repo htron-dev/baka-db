@@ -1,5 +1,9 @@
 {
     "title": "Rikudou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191159.jpg",
+        "alt": "rikudou"
+    },
     "type": "manga",
     "volumes": "23",
     "chapters": "241",

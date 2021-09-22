@@ -1,5 +1,9 @@
 {
     "title": "Omoide no Marnie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/64293.jpg",
+        "alt": "omoide-no-marnie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "思い出のマーニー",

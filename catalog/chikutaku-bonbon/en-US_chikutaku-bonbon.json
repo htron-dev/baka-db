@@ -1,5 +1,9 @@
 {
     "title": "Chikutaku Bonbon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/60369.jpg",
+        "alt": "chikutaku-bonbon"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

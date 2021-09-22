@@ -1,12 +1,16 @@
 {
     "title": "Shin Tennis no Ouji-sama OVA vs. Genius 10",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/65403.jpg",
+        "alt": "shin-tennis-no-ouji-sama-ova-vs-genius-10"
+    },
     "type": "ova",
     "episodes": "10",
     "original_name": "新テニスの王子様 OVA vs Genius10",
     "start_date": "2014-10-29",
     "end_date": "2014-10-29",
     "opening_song": "\"Kakumei e no Prelude (革命への前奏曲（プレリュード）)\" by Keigo Atobe (Junichi Suwabe)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Party Time\" by Tsuda Kenjirou, Onosaka Masaya, Cap to Bin, Kawamoto Naru, Takahashi Hiroki, Kiyasu Kouhei (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

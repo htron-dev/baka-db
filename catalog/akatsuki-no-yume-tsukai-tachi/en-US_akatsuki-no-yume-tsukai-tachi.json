@@ -1,5 +1,9 @@
 {
     "title": "Akatsuki no Yume Tsukai-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164028.jpg",
+        "alt": "akatsuki-no-yume-tsukai-tachi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

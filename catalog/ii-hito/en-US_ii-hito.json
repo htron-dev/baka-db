@@ -1,5 +1,9 @@
 {
     "title": "Ii Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/95723.jpg",
+        "alt": "ii-hito"
+    },
     "type": "manga",
     "volumes": "26",
     "chapters": "255",

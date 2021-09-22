@@ -1,5 +1,9 @@
 {
     "title": "Kimi wa Kowareta Ouji-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207040.jpg",
+        "alt": "kimi-wa-kowareta-ouji-kun"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

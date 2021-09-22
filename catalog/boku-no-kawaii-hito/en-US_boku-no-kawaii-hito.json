@@ -1,5 +1,9 @@
 {
     "title": "Boku no Kawaii Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14892.jpg",
+        "alt": "boku-no-kawaii-hito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

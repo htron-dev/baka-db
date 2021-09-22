@@ -1,5 +1,9 @@
 {
     "title": "Keiyaku Fiancée Ikusei Keikaku: Oresama Shachou ni Dekiai Sarete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194674.jpg",
+        "alt": "keiyaku-fiancee-ikusei-keikaku-oresama-shachou-ni-dekiai-sarete"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "契約フィアンセ育成計画～俺様社長に溺愛されて～",
@@ -13,7 +17,6 @@
         "Konohana",
         "Sakura (Story)"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

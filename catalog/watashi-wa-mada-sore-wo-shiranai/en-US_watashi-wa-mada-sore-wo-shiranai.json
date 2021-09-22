@@ -1,5 +1,9 @@
 {
     "title": "Watashi wa Mada Sore wo Shiranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/100869.jpg",
+        "alt": "watashi-wa-mada-sore-wo-shiranai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

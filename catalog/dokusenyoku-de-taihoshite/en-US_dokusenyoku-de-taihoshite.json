@@ -1,5 +1,9 @@
 {
     "title": "Dokusenyoku de Taihoshite!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195005.jpg",
+        "alt": "dokusenyoku-de-taihoshite"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "独占欲で逮捕して！",

@@ -1,5 +1,9 @@
 {
     "title": "Isuca: Gokuraku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/77080.jpg",
+        "alt": "isuca-gokuraku"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ISUCA 第拾壱話「極楽」",

@@ -1,5 +1,9 @@
 {
     "title": "Kaguya-hime no Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1935/93606.jpg",
+        "alt": "kaguya-hime-no-monogatari"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "かぐや姫の物語",

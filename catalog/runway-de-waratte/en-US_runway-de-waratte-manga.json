@@ -1,5 +1,9 @@
 {
     "title": "Runway de Waratte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200705.jpg",
+        "alt": "runway-de-waratte"
+    },
     "type": "manga",
     "volumes": "22",
     "chapters": "194",

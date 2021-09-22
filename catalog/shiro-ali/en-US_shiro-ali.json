@@ -1,5 +1,9 @@
 {
     "title": "Shiro Ali",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170578.jpg",
+        "alt": "shiro-ali"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "65",

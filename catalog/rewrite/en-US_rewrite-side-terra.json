@@ -1,9 +1,13 @@
 {
     "title": "Rewrite:Side-Terra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/184004.jpg",
+        "alt": "rewrite-side-terra"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "27",
-    "original_name": "Rewrite",
+    "original_name": "Rewrite:SIDE-TERRA",
     "start_date": "2016-09-27",
     "end_date": "2016-09-27",
     "tags": [

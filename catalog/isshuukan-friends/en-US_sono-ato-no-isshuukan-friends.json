@@ -1,5 +1,9 @@
 {
     "title": "Sono Ato no Isshuukan Friends",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243911.jpg",
+        "alt": "sono-ato-no-isshuukan-friends"
+    },
     "type": "manga",
     "original_name": "その後の一週間フレンズ。",
     "start_date": "2021-04-22",

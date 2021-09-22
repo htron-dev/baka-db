@@ -1,5 +1,9 @@
 {
     "title": "HG ni Koisuru Futari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228076.jpg",
+        "alt": "hg-ni-koisuru-futari"
+    },
     "type": "manga",
     "original_name": "HG に恋するふたり",
     "start_date": "2019-11-26",

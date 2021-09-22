@@ -1,5 +1,9 @@
 {
     "title": "Seigi no Satsujinki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184468.jpg",
+        "alt": "seigi-no-satsujinki"
+    },
     "type": "manga",
     "original_name": "正義の殺人鬼",
     "start_date": "2016-01-28",

@@ -1,5 +1,9 @@
 {
     "title": "Uma no Friends",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/87272.jpg",
+        "alt": "uma-no-friends"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ウマのフレンズ",

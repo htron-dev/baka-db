@@ -1,5 +1,9 @@
 {
     "title": "Onnanoko tte.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/74190.jpg",
+        "alt": "onnanoko-tte"
+    },
     "type": "special",
     "episodes": "4",
     "original_name": "女の子って。",

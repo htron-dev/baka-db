@@ -1,5 +1,9 @@
 {
     "title": "Meow Man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236758.jpg",
+        "alt": "meow-man"
+    },
     "type": "manhwa",
     "original_name": "냐한남자",
     "start_date": "2018-03-16",

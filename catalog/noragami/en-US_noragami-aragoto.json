@@ -1,5 +1,9 @@
 {
     "title": "Noragami Aragoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1689/94850.jpg",
+        "alt": "noragami-aragoto"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ノラガミ ARAGOTO",

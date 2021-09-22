@@ -1,5 +1,9 @@
 {
     "title": "Waruiko no Susume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/46881.jpg",
+        "alt": "waruiko-no-susume"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "悪い子のススメ",

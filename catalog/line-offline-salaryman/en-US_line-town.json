@@ -1,5 +1,9 @@
 {
     "title": "Line Town",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/50679.jpg",
+        "alt": "line-town"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "ラインタウン",

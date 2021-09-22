@@ -1,5 +1,9 @@
 {
     "title": "Ura Peach Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/182529.jpg",
+        "alt": "ura-peach-girl"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

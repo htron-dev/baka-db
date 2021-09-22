@@ -1,5 +1,9 @@
 {
     "title": "Chuuka Ichiban! Kiwami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222575.jpg",
+        "alt": "chuuka-ichiban-kiwami"
+    },
     "type": "manga",
     "original_name": "中華一番！極",
     "start_date": "2017-11-17",

@@ -1,5 +1,9 @@
 {
     "title": "Mariko Parade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22014.jpg",
+        "alt": "mariko-parade"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "まり子パラード",

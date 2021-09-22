@@ -1,5 +1,9 @@
 {
     "title": "Gokigen Steady",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/96267.jpg",
+        "alt": "gokigen-steady"
+    },
     "type": "manga",
     "original_name": "ごきげんステディ",
     "start_date": "2012-02-02",

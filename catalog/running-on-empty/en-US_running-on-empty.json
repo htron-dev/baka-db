@@ -1,5 +1,9 @@
 {
     "title": "Running on Empty",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/26899.jpg",
+        "alt": "running-on-empty"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "12",

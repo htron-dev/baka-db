@@ -1,5 +1,9 @@
 {
     "title": "Shakariki!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14419.jpg",
+        "alt": "shakariki"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "155",

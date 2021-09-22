@@ -1,5 +1,9 @@
 {
     "title": "Hanasake! Otome Juku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177446.jpg",
+        "alt": "hanasake-otome-juku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "Pygmalio",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/6675.jpg",
+        "alt": "pygmalio"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "ピグマリオ",

@@ -1,5 +1,9 @@
 {
     "title": "Boku no Shiru Anata no Hanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/82068.jpg",
+        "alt": "boku-no-shiru-anata-no-hanashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

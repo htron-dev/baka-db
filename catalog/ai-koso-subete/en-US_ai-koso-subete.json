@@ -1,5 +1,9 @@
 {
     "title": "Ai Koso Subete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/67171.jpg",
+        "alt": "ai-koso-subete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

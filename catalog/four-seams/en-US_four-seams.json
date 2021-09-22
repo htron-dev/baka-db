@@ -1,5 +1,9 @@
 {
     "title": "Four Seams",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194263.jpg",
+        "alt": "four-seams"
+    },
     "type": "manga",
     "original_name": "フォーシーム",
     "start_date": "2013-03-09",

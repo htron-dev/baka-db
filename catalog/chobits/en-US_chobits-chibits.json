@@ -1,5 +1,9 @@
 {
     "title": "Chobits: Chibits",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/34375.jpg",
+        "alt": "chobits-chibits"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ちょびっツ ちびっツ すもも・琴子　届ける",

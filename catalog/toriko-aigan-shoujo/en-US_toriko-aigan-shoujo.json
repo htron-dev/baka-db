@@ -1,5 +1,9 @@
 {
     "title": "Toriko: Aigan Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36498.jpg",
+        "alt": "toriko-aigan-shoujo"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "24",

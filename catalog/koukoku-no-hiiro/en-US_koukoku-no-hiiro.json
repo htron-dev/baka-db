@@ -1,5 +1,9 @@
 {
     "title": "Koukoku no Hiiro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/127395.jpg",
+        "alt": "koukoku-no-hiiro"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "26",

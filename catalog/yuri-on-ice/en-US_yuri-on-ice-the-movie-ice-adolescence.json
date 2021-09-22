@@ -1,8 +1,12 @@
 {
     "title": "Yuri!!! on Ice The Movie: Ice Adolescence",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1225/93390.jpg",
+        "alt": "yuri-on-ice-the-movie-ice-adolescence"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "ユーリ!!! on ICE 劇場版",
+    "original_name": "ユーリ!!! on ICE 劇場版 : ICE ADOLESCENCE（アイス アドレセンス）",
     "rating": "None",
     "tags": [
         "comedy",

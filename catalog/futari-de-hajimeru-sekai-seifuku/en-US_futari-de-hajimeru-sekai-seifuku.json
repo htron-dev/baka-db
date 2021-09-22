@@ -1,5 +1,9 @@
 {
     "title": "Futari de Hajimeru Sekai Seifuku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163010.jpg",
+        "alt": "futari-de-hajimeru-sekai-seifuku"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "40",

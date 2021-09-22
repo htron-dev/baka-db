@@ -1,5 +1,9 @@
 {
     "title": "Gakkatsu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/62295.jpg",
+        "alt": "gakkatsu"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "ガッ活!",

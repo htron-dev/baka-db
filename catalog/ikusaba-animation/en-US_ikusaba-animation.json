@@ -1,5 +1,9 @@
 {
     "title": "Ikusaba Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/92337.jpg",
+        "alt": "ikusaba-animation"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

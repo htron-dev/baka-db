@@ -1,5 +1,9 @@
 {
     "title": "Kemono na Watashi to Yoimasen ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/232344.jpg",
+        "alt": "kemono-na-watashi-to-yoimasen-ka"
+    },
     "type": "manga",
     "original_name": "ケモノな私と酔いませんか？",
     "start_date": "2020-01-08",

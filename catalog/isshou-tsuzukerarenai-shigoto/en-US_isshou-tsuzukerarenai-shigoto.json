@@ -1,5 +1,9 @@
 {
     "title": "Isshou Tsuzukerarenai Shigoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/36755.jpg",
+        "alt": "isshou-tsuzukerarenai-shigoto"
+    },
     "type": "manga",
     "original_name": "一生続けられない仕事",
     "start_date": "2007-05-07",

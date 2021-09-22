@@ -1,5 +1,9 @@
 {
     "title": "Omae Umasou da na",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/27167.jpg",
+        "alt": "omae-umasou-da-na"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "おまえうまそうだな",

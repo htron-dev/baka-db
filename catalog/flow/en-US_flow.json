@@ -1,5 +1,9 @@
 {
     "title": "Flow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/216590.jpg",
+        "alt": "flow"
+    },
     "type": "manhwa",
     "volumes": "6",
     "chapters": "103",

@@ -1,5 +1,9 @@
 {
     "title": "Ryuu to Ichigo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/232490.jpg",
+        "alt": "ryuu-to-ichigo"
+    },
     "type": "manga",
     "original_name": "龍と苺",
     "start_date": "2020-05-20",

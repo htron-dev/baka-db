@@ -1,5 +1,9 @@
 {
     "title": "Kuroko no Basket NG-shuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/42751.jpg",
+        "alt": "kuroko-no-basket-ng-shuu"
+    },
     "type": "special",
     "episodes": "9",
     "original_name": "黒子のバスケ NG 集",

@@ -1,5 +1,9 @@
 {
     "title": "Kimochi no Yukue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27415.jpg",
+        "alt": "kimochi-no-yukue"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

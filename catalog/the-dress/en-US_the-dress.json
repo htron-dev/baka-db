@@ -1,5 +1,9 @@
 {
     "title": "The Dress",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/4799.jpg",
+        "alt": "the-dress"
+    },
     "type": "manhwa",
     "chapters": "1",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Yasashii Ryuu no Koroshikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21123.jpg",
+        "alt": "yasashii-ryuu-no-koroshikata"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "19",

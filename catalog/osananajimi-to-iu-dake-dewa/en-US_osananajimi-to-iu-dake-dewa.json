@@ -1,5 +1,9 @@
 {
     "title": "Osananajimi to Iu dake dewa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238414.jpg",
+        "alt": "osananajimi-to-iu-dake-dewa"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

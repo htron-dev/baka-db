@@ -1,5 +1,9 @@
 {
     "title": "Kawareta Niizuma wa Dekiaisareru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181626.jpg",
+        "alt": "kawareta-niizuma-wa-dekiaisareru"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

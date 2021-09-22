@@ -1,5 +1,9 @@
 {
     "title": "Godzilla: Kaijuu Wakusei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/221575.jpg",
+        "alt": "godzilla-kaijuu-wakusei"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

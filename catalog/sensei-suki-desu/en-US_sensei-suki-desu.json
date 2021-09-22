@@ -1,5 +1,9 @@
 {
     "title": "Sensei, Suki desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207772.jpg",
+        "alt": "sensei-suki-desu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "33",

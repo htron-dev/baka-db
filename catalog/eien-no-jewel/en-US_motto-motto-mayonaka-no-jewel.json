@@ -1,5 +1,9 @@
 {
     "title": "Motto Motto Mayonaka no Jewel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/90873.jpg",
+        "alt": "motto-motto-mayonaka-no-jewel"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

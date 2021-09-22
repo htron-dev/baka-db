@@ -1,5 +1,9 @@
 {
     "title": "1000-man Doutei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244570.jpg",
+        "alt": "1000-man-doutei"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

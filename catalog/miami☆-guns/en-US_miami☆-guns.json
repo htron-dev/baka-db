@@ -1,5 +1,9 @@
 {
     "title": "Miami☆Guns",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/199643.jpg",
+        "alt": "miami☆-guns"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "19",

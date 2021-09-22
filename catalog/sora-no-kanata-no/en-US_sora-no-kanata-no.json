@@ -1,5 +1,9 @@
 {
     "title": "Sora no Kanata no!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28210.jpg",
+        "alt": "sora-no-kanata-no"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "26",

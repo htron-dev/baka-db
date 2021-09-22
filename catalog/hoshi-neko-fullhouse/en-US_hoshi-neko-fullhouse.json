@@ -1,5 +1,9 @@
 {
     "title": "Hoshi Neko Fullhouse",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/89299.jpg",
+        "alt": "hoshi-neko-fullhouse"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "星猫フルハウス",

@@ -1,5 +1,9 @@
 {
     "title": "Imasugu Click!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205145.jpg",
+        "alt": "imasugu-click"
+    },
     "type": "manga",
     "chapters": "73",
     "original_name": "いますぐクリック!",

@@ -1,12 +1,16 @@
 {
     "title": "Fuuka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/83735.jpg",
+        "alt": "fuuka"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "風夏",
     "start_date": "2017-01-06",
     "end_date": "2017-01-06",
     "opening_song": "\"Climber's High!\" by Manami Numakura",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Watashi no Sekai (ワタシノセカイ)\" by Megumi Nakajima (eps 1-5, 7-11)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "drama",
@@ -36,7 +40,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/F%C5%ABka_(manga"
+            "link": "https://en.wikipedia.org/wiki/F%C5%ABka_%28manga%29"
         }
     ]
 }

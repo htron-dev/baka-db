@@ -1,5 +1,9 @@
 {
     "title": "Ryoute ni Imouto. Docchi wo Erande Kuremasu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/241813.jpg",
+        "alt": "ryoute-ni-imouto-docchi-wo-erande-kuremasu-ka"
+    },
     "type": "light-novel",
     "original_name": "両手に妹。どっちを選んでくれますか？",
     "start_date": "2020-03-19",

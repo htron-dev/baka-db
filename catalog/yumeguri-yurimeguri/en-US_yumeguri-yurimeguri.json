@@ -1,5 +1,9 @@
 {
     "title": "Yumeguri Yurimeguri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222215.jpg",
+        "alt": "yumeguri-yurimeguri"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "50",

@@ -1,5 +1,9 @@
 {
     "title": "Hanoka Recap",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/16847.jpg",
+        "alt": "hanoka-recap"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "HANOKA ～葉ノ香～",

@@ -1,5 +1,9 @@
 {
     "title": "Red Baron",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1596/103314.jpg",
+        "alt": "red-baron"
+    },
     "type": "tv-serie",
     "episodes": "49",
     "original_name": "レッドバロン",

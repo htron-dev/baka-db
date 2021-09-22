@@ -1,5 +1,9 @@
 {
     "title": "Ochitara Owari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226691.jpg",
+        "alt": "ochitara-owari"
+    },
     "type": "manga",
     "original_name": "おちたらおわり",
     "start_date": "2019-06-01",

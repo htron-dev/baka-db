@@ -1,5 +1,9 @@
 {
     "title": "Mobile Suit Gundam SEED Destiny: The Edge Desire",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6192.jpg",
+        "alt": "mobile-suit-gundam-seed-destiny-the-edge-desire"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

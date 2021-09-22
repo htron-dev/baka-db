@@ -1,5 +1,9 @@
 {
     "title": "Meikyuu Black Company",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195931.jpg",
+        "alt": "meikyuu-black-company"
+    },
     "type": "manga",
     "original_name": "迷宮ブラックカンパニー",
     "start_date": "2016-12-05",

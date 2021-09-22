@@ -1,5 +1,9 @@
 {
     "title": "Uttare Daikichi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159783.jpg",
+        "alt": "uttare-daikichi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "35",

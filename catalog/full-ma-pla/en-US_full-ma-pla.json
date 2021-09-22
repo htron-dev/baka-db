@@ -1,5 +1,9 @@
 {
     "title": "FullMaPla",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174044.jpg",
+        "alt": "full-ma-pla"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "22",

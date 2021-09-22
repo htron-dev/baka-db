@@ -1,5 +1,9 @@
 {
     "title": "Suki ni Naccha Ikenai Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35999.jpg",
+        "alt": "suki-ni-naccha-ikenai-hito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

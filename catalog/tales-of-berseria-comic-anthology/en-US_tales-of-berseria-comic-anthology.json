@@ -1,5 +1,9 @@
 {
     "title": "Tales of Berseria Comic Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190699.jpg",
+        "alt": "tales-of-berseria-comic-anthology"
+    },
     "type": "manga",
     "original_name": "テイルズ オブ ベルセリア コミックアンソロジー",
     "start_date": "2016-11-25",

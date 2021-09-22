@@ -1,5 +1,9 @@
 {
     "title": "Ouji-sama 100%",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/37367.jpg",
+        "alt": "ouji-sama-100"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

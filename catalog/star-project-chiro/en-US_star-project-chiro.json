@@ -1,5 +1,9 @@
 {
     "title": "Star Project Chiro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/4455.jpg",
+        "alt": "star-project-chiro"
+    },
     "type": "manhwa",
     "volumes": "12",
     "original_name": "치로",

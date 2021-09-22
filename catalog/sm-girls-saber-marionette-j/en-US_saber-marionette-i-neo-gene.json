@@ -1,5 +1,9 @@
 {
     "title": "Saber Marionette i: Neo Gene",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/132969.jpg",
+        "alt": "saber-marionette-i-neo-gene"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

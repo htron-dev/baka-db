@@ -1,5 +1,9 @@
 {
     "title": "Only You: Tobenai Tsubasa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167965.jpg",
+        "alt": "only-you-tobenai-tsubasa"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "32",

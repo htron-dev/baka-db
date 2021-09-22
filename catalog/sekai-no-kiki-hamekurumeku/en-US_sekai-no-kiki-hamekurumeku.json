@@ -1,5 +1,9 @@
 {
     "title": "Sekai no Kiki Hamekurumeku!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27175.jpg",
+        "alt": "sekai-no-kiki-hamekurumeku"
+    },
     "type": "light-novel",
     "original_name": "世界の危機はめくるめく!",
     "start_date": "2008-06-30",

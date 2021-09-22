@@ -1,5 +1,9 @@
 {
     "title": "Wild Fish",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2640.jpg",
+        "alt": "wild-fish"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

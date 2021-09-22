@@ -1,5 +1,9 @@
 {
     "title": "To Heart 2 Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/24110.jpg",
+        "alt": "to-heart-2-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ToHeart2 特別編",

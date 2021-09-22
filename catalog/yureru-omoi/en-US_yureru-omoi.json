@@ -1,5 +1,9 @@
 {
     "title": "Yureru Omoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/67287.jpg",
+        "alt": "yureru-omoi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

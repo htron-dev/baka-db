@@ -1,5 +1,9 @@
 {
     "title": "Seishun Punch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15273.jpg",
+        "alt": "seishun-punch"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "青春パンチ",

@@ -1,5 +1,9 @@
 {
     "title": "Minna! Esper da yo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162810.jpg",
+        "alt": "minna-esper-da-yo"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "73",

@@ -1,5 +1,9 @@
 {
     "title": "Ougon no Ringo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181207.jpg",
+        "alt": "ougon-no-ringo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Koko kara Detakereba Koi Shiae!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/119075.jpg",
+        "alt": "koko-kara-detakereba-koi-shiae"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "ここから脱出たければ恋しあえっ!",

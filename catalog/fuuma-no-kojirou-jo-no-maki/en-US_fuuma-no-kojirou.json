@@ -1,5 +1,9 @@
 {
     "title": "Fuuma no Kojirou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198355.jpg",
+        "alt": "fuuma-no-kojirou"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "42",

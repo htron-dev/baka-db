@@ -1,5 +1,9 @@
 {
     "title": "Maku Musubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225679.jpg",
+        "alt": "maku-musubi"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "44",

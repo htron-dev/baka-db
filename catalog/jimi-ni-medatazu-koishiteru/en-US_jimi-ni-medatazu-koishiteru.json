@@ -1,5 +1,9 @@
 {
     "title": "Jimi ni, Medatazu, Koishiteru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192975.jpg",
+        "alt": "jimi-ni-medatazu-koishiteru"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "11",

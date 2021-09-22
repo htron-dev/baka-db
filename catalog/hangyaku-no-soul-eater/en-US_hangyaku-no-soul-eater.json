@@ -1,5 +1,9 @@
 {
     "title": "Hangyaku no Soul Eater",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235101.jpg",
+        "alt": "hangyaku-no-soul-eater"
+    },
     "type": "manga",
     "original_name": "反逆のソウルイーター",
     "start_date": "2020-03-26",

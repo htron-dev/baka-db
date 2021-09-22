@@ -1,5 +1,9 @@
 {
     "title": "Akogaretai Yume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28429.jpg",
+        "alt": "akogaretai-yume"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "あこがれたい夢",

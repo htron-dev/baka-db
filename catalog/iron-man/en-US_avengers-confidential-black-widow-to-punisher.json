@@ -1,8 +1,12 @@
 {
     "title": "Avengers Confidential: Black Widow to Punisher",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/66947.jpg",
+        "alt": "avengers-confidential-black-widow-to-punisher"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "アベンジャーズ コンフィデンシャル",
+    "original_name": "アベンジャーズ コンフィデンシャル: ブラックウィドウとパニッシャー",
     "start_date": "2014-03-11",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Battle Over Hokkaido",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/131929.jpg",
+        "alt": "battle-over-hokkaido"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "バトルオーバー北海道",

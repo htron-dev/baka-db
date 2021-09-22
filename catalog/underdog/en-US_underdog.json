@@ -1,5 +1,9 @@
 {
     "title": "Underdog",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/78929.jpg",
+        "alt": "underdog"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

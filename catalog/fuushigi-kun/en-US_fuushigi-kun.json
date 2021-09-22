@@ -1,5 +1,9 @@
 {
     "title": "Fuushigi-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198838.jpg",
+        "alt": "fuushigi-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

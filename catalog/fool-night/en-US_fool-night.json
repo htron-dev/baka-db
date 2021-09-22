@@ -1,5 +1,9 @@
 {
     "title": "Fool Night",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/242975.jpg",
+        "alt": "fool-night"
+    },
     "type": "manga",
     "original_name": "フールナイト",
     "start_date": "2020-11-13",

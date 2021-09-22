@@ -1,5 +1,9 @@
 {
     "title": "Akudama Drive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1468/109172.jpg",
+        "alt": "akudama-drive"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "アクダマドライブ",

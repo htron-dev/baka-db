@@ -1,5 +1,9 @@
 {
     "title": "Durarara!! Minna wa Nakayoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167394.jpg",
+        "alt": "durarara-minna-wa-nakayoshi"
+    },
     "type": "light-novel",
     "volumes": "13",
     "original_name": "デュラララ!! みんなはなかよし",

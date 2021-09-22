@@ -1,5 +1,9 @@
 {
     "title": "Manga Sekuhara Senmon Gakkou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165203.jpg",
+        "alt": "manga-sekuhara-senmon-gakkou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Sweet Peach!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/36070.jpg",
+        "alt": "sweet-peach"
+    },
     "type": "manga",
     "original_name": "～スイートピー!～",
     "tags": [

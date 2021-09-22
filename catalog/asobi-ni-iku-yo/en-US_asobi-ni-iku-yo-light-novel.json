@@ -1,5 +1,9 @@
 {
     "title": "Asobi ni Iku yo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159870.jpg",
+        "alt": "asobi-ni-iku-yo"
+    },
     "type": "light-novel",
     "volumes": "20",
     "original_name": "あそびにいくヨ！",

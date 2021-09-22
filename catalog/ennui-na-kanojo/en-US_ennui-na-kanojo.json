@@ -1,5 +1,9 @@
 {
     "title": "Ennui na Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/9849.jpg",
+        "alt": "ennui-na-kanojo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

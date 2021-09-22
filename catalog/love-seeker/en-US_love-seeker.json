@@ -1,5 +1,9 @@
 {
     "title": "Love Seeker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5915.jpg",
+        "alt": "love-seeker"
+    },
     "type": "manga",
     "original_name": "LOVE SEEKER ラブシーカー",
     "tags": [

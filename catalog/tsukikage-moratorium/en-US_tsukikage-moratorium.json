@@ -1,5 +1,9 @@
 {
     "title": "Tsukikage Moratorium",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222422.jpg",
+        "alt": "tsukikage-moratorium"
+    },
     "type": "manga",
     "original_name": "月影モラトリアム",
     "start_date": "2017-05-02",

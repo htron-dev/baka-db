@@ -1,5 +1,9 @@
 {
     "title": "Japan World Cup",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1583/90603.jpg",
+        "alt": "japan-world-cup"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "Japan World Cup",

@@ -1,5 +1,9 @@
 {
     "title": "Danjo Gyakuten shita Kekka, Sekai wa Choroin de Afureteimasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175496.jpg",
+        "alt": "danjo-gyakuten-shita-kekka-sekai-wa-choroin-de-afureteimasu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

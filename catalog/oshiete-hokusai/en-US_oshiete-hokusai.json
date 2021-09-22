@@ -1,5 +1,9 @@
 {
     "title": "Oshiete Hokusai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226666.jpg",
+        "alt": "oshiete-hokusai"
+    },
     "type": "manga",
     "original_name": "おしえて北斎!",
     "start_date": "2016-08-20",

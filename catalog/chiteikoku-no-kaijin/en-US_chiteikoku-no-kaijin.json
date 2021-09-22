@@ -1,5 +1,9 @@
 {
     "title": "Chiteikoku no Kaijin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36261.jpg",
+        "alt": "chiteikoku-no-kaijin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Kidou Shinsengumi Moeyo Ken TV",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/3461.jpg",
+        "alt": "kidou-shinsengumi-moeyo-ken-tv"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "機動新撰組 萌えよ剣 TV",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Moeyo_Ken_(anime"
+            "link": "http://en.wikipedia.org/wiki/Moeyo_Ken_%28anime%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Guuzen ka Unmei ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181407.jpg",
+        "alt": "guuzen-ka-unmei-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

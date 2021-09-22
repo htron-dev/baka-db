@@ -1,5 +1,9 @@
 {
     "title": "Chiisai Hitsuji wa Yume wo Miru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/39787.jpg",
+        "alt": "chiisai-hitsuji-wa-yume-wo-miru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

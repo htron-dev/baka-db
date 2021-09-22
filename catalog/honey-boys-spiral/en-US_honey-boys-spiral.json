@@ -1,5 +1,9 @@
 {
     "title": "Honey Boys Spiral",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161253.jpg",
+        "alt": "honey-boys-spiral"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

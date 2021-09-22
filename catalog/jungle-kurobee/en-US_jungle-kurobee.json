@@ -1,5 +1,9 @@
 {
     "title": "Jungle Kurobee",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1181/117028.jpg",
+        "alt": "jungle-kurobee"
+    },
     "type": "tv-serie",
     "episodes": "31",
     "original_name": "ジャングル黒べえ",

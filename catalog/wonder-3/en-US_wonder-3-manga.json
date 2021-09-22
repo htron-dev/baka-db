@@ -1,5 +1,9 @@
 {
     "title": "Wonder 3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175764.jpg",
+        "alt": "wonder-3"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "W3 (ワンダースリー)",

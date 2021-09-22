@@ -1,5 +1,9 @@
 {
     "title": "Sekkachi Hakushaku to Jikan Dorobou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/117455.jpg",
+        "alt": "sekkachi-hakushaku-to-jikan-dorobou"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "51",

@@ -1,5 +1,9 @@
 {
     "title": "Devil-chi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194258.jpg",
+        "alt": "devil-chi"
+    },
     "type": "manga",
     "original_name": "でびるち",
     "start_date": "2016-01-03",

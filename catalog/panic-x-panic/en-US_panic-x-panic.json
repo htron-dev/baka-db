@@ -1,5 +1,9 @@
 {
     "title": "Panic x Panic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/111783.jpg",
+        "alt": "panic-x-panic"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

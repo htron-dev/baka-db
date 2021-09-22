@@ -1,5 +1,9 @@
 {
     "title": "Choumukiryoku Sentai Japafive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/127647.jpg",
+        "alt": "choumukiryoku-sentai-japafive"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "超無気力戦隊ジャパファイブ",

@@ -1,5 +1,9 @@
 {
     "title": "Umi ni Ochiru Tsubame",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10445.jpg",
+        "alt": "umi-ni-ochiru-tsubame"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

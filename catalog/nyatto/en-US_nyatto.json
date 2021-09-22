@@ -1,5 +1,9 @@
 {
     "title": "Nyatto!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/55699.jpg",
+        "alt": "nyatto"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

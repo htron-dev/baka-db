@@ -1,5 +1,9 @@
 {
     "title": "Danball Senki Wars: All Star Battle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/85520.jpg",
+        "alt": "danball-senki-wars-all-star-battle"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ダンボール戦機ウォーズ スペシャルアニメ",

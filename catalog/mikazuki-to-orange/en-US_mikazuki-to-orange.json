@@ -1,5 +1,9 @@
 {
     "title": "Mikazuki to Orange",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174817.jpg",
+        "alt": "mikazuki-to-orange"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

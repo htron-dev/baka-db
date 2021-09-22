@@ -1,5 +1,9 @@
 {
     "title": "Kimi to, Hajimete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34845.jpg",
+        "alt": "kimi-to-hajimete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

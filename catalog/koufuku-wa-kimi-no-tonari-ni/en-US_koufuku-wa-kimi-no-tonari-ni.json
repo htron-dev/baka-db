@@ -1,5 +1,9 @@
 {
     "title": "Koufuku wa Kimi no Tonari ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239402.jpg",
+        "alt": "koufuku-wa-kimi-no-tonari-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

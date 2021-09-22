@@ -1,5 +1,9 @@
 {
     "title": "Sex=Love²",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/73733.jpg",
+        "alt": "sex-love"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

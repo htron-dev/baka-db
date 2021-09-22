@@ -1,5 +1,9 @@
 {
     "title": "Bip to Bap",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/70635.jpg",
+        "alt": "bip-to-bap"
+    },
     "type": "tv-serie",
     "episodes": "4",
     "original_name": "ビップとバップ",

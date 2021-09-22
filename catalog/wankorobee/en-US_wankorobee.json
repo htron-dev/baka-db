@@ -1,5 +1,9 @@
 {
     "title": "Wankorobee",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/3647.jpg",
+        "alt": "wankorobee"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "わんころべえ",

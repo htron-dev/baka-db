@@ -1,5 +1,9 @@
 {
     "title": "Sword Art Online: Sword Art Offline",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/43461.jpg",
+        "alt": "sword-art-online-sword-art-offline"
+    },
     "type": "special",
     "episodes": "9",
     "original_name": "そーどあーと・おふらいん",

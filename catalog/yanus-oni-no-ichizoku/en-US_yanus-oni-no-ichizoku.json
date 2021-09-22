@@ -1,5 +1,9 @@
 {
     "title": "Yanus Oni no Ichizoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/243267.jpg",
+        "alt": "yanus-oni-no-ichizoku"
+    },
     "type": "manga",
     "original_name": "ヤヌス 鬼の一族",
     "start_date": "2021-04-09",

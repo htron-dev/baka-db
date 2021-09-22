@@ -1,5 +1,9 @@
 {
     "title": "Kenki, Saku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193613.jpg",
+        "alt": "kenki-saku"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

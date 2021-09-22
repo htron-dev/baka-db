@@ -1,5 +1,9 @@
 {
     "title": "Kabu no Isaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/52905.jpg",
+        "alt": "kabu-no-isaki"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "48",

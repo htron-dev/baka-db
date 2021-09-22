@@ -1,5 +1,9 @@
 {
     "title": "Yasamura Yasashi no Yasashii Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/81641.jpg",
+        "alt": "yasamura-yasashi-no-yasashii-sekai"
+    },
     "type": "tv-serie",
     "episodes": "33",
     "original_name": "やさ村やさしのやさしい世界",

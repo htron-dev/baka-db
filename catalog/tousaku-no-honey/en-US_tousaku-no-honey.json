@@ -1,5 +1,9 @@
 {
     "title": "Tousaku no Honey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/146685.jpg",
+        "alt": "tousaku-no-honey"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "倒錯のハニー",

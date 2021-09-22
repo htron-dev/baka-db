@@ -1,5 +1,9 @@
 {
     "title": "Yobidashi Hajime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/34932.jpg",
+        "alt": "yobidashi-hajime"
+    },
     "type": "manga",
     "original_name": "呼出し一",
     "start_date": "2010-01-20",

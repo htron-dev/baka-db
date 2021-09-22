@@ -1,5 +1,9 @@
 {
     "title": "Ginga: The Last Wars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163819.jpg",
+        "alt": "ginga-the-last-wars"
+    },
     "type": "manga",
     "volumes": "22",
     "chapters": "176",

@@ -1,5 +1,9 @@
 {
     "title": "Deka Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174303.jpg",
+        "alt": "deka-girl"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "24",

@@ -1,5 +1,9 @@
 {
     "title": "Otaku Onna to Danshikousei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/240983.jpg",
+        "alt": "otaku-onna-to-danshikousei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "33",

@@ -1,5 +1,9 @@
 {
     "title": "Junkers Come Here",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/13129.jpg",
+        "alt": "junkers-come-here"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ユンカース・カム・ヒア",

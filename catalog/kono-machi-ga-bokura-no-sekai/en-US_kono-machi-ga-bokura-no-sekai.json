@@ -1,5 +1,9 @@
 {
     "title": "Kono Machi ga Bokura no Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179452.jpg",
+        "alt": "kono-machi-ga-bokura-no-sekai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

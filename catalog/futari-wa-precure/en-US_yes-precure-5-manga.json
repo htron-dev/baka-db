@@ -1,5 +1,9 @@
 {
     "title": "Yes! Precure 5",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/42640.jpg",
+        "alt": "yes-precure-5"
+    },
     "type": "manga",
     "chapters": "13",
     "original_name": "Yes! プリキュア 5",

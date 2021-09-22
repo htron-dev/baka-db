@@ -1,5 +1,9 @@
 {
     "title": "Hana ni Arashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/212605.jpg",
+        "alt": "hana-ni-arashi"
+    },
     "type": "manga",
     "original_name": "はなにあらし",
     "start_date": "2017-11-24",

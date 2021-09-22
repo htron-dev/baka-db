@@ -1,5 +1,9 @@
 {
     "title": "Ningen Bokujou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235148.jpg",
+        "alt": "ningen-bokujou"
+    },
     "type": "manga",
     "original_name": "人間牧場",
     "start_date": "2018-09-15",

@@ -1,5 +1,9 @@
 {
     "title": "Kokoro Connect: Michi Random",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/45526.jpg",
+        "alt": "kokoro-connect-michi-random"
+    },
     "type": "special",
     "episodes": "4",
     "original_name": "ココロコネクト ミチランダム",

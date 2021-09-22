@@ -1,5 +1,9 @@
 {
     "title": "Tekusuke Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/71950.jpg",
+        "alt": "tekusuke-monogatari"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "テク助物語",

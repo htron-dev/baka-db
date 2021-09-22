@@ -1,12 +1,16 @@
 {
     "title": "Wotaku ni Koi wa Muzukashii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1864/93518.jpg",
+        "alt": "wotaku-ni-koi-wa-muzukashii"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "ヲタクに恋は難しい",
     "start_date": "2018-04-13",
     "end_date": "2018-04-13",
     "opening_song": "\"Fiction (フィクション)\" by Sumika",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kimi no Tonari (キミの隣)\" by halca (eps 1-8, 10-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

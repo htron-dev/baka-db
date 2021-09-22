@@ -1,5 +1,9 @@
 {
     "title": "Silent Manga Audition: Sekai kara Todoita Japanese Manga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/128221.jpg",
+        "alt": "silent-manga-audition-sekai-kara-todoita-japanese-manga"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "26",

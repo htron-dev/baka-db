@@ -1,5 +1,9 @@
 {
     "title": "Lipton #watashitolipton",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1932/93214.jpg",
+        "alt": "lipton-watashitolipton"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "Lipton(リプトン) #わたしとリプトン",

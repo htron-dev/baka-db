@@ -1,12 +1,16 @@
 {
     "title": "Kabuki-bu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/85291.jpg",
+        "alt": "kabuki-bu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "カブキブ！",
     "start_date": "2017-04-07",
     "end_date": "2017-04-07",
     "opening_song": "\"Running High\" by Hiro Shimono (eps 1-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Oedo (お江戸-O・EDO-)\" by Kabukibu Rocks (カブキブロックス) (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "school"

@@ -1,5 +1,9 @@
 {
     "title": "Akaneiro Show Time",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159482.jpg",
+        "alt": "akaneiro-show-time"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

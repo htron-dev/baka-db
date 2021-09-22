@@ -1,5 +1,9 @@
 {
     "title": "9to5 Love×Mission",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/24075.jpg",
+        "alt": "9-to-5-love-mission"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "13",

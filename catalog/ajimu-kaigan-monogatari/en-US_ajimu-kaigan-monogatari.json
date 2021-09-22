@@ -1,5 +1,9 @@
 {
     "title": "Ajimu: Kaigan Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/10174.jpg",
+        "alt": "ajimu-kaigan-monogatari"
+    },
     "type": "ona",
     "episodes": "4",
     "original_name": "あじむ ～海岸物語～",

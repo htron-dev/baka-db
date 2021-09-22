@@ -1,5 +1,9 @@
 {
     "title": "Orental! Rental Danshi Hajimemashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164079.jpg",
+        "alt": "orental-rental-danshi-hajimemashita"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

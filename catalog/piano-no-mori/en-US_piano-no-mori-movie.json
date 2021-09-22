@@ -1,5 +1,9 @@
 {
     "title": "Piano no Mori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/45012.jpg",
+        "alt": "piano-no-mori"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ピアノの森 The Perfect World of Kai",

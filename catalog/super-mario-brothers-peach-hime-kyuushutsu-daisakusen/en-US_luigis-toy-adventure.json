@@ -1,5 +1,9 @@
 {
     "title": "Luigi's Toy Adventure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/69333.jpg",
+        "alt": "luigis-toy-adventure"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "S.H.Figuarts スーパーマリオシリーズ(SUPER MARIO SERIES) プロモ映像",

@@ -1,5 +1,9 @@
 {
     "title": "Oniichan dakedo Ai sae Areba Kankeinai yo ne!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215857.jpg",
+        "alt": "oniichan-dakedo-ai-sae-areba-kankeinai-yo-ne"
+    },
     "type": "light-novel",
     "volumes": "12",
     "chapters": "94",

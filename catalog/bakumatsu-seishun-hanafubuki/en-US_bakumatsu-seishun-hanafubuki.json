@@ -1,5 +1,9 @@
 {
     "title": "Bakumatsu Seishun Hanafubuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/784.jpg",
+        "alt": "bakumatsu-seishun-hanafubuki"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

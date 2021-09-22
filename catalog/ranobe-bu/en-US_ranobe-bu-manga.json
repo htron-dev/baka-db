@@ -1,5 +1,9 @@
 {
     "title": "Ranobe-bu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/90209.jpg",
+        "alt": "ranobe-bu"
+    },
     "type": "manga",
     "original_name": "ラノベ部",
     "start_date": "2010-10-26",

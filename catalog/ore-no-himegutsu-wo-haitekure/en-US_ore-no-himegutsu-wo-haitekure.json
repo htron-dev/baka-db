@@ -1,5 +1,9 @@
 {
     "title": "Ore no Himegutsu wo Haitekure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177358.jpg",
+        "alt": "ore-no-himegutsu-wo-haitekure"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

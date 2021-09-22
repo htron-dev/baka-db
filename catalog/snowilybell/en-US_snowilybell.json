@@ -1,5 +1,9 @@
 {
     "title": "Snowilybell",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/148975.jpg",
+        "alt": "snowilybell"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

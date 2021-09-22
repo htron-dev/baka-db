@@ -1,5 +1,9 @@
 {
     "title": "Choseikenki Mikazuchiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/78865.jpg",
+        "alt": "choseikenki-mikazuchiden"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "超聖剣記ミカズチ伝",

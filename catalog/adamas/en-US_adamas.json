@@ -1,5 +1,9 @@
 {
     "title": "Adamas",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/137583.jpg",
+        "alt": "adamas"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "111",

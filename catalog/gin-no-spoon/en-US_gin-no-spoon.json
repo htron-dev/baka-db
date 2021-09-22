@@ -1,5 +1,9 @@
 {
     "title": "Gin no Spoon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201333.jpg",
+        "alt": "gin-no-spoon"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "92",

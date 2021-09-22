@@ -1,12 +1,16 @@
 {
     "title": "Dynamic Chord",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1750/95683.jpg",
+        "alt": "dynamic-chord"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "DYNAMIC CHORD",
     "start_date": "2017-10-06",
     "end_date": "2017-10-06",
     "opening_song": "\"p.s.i hate you♡xxx\" by [rêve parfait]",
-    "ending_song": "#1",
+    "ending_song": "#1: \"because the sky...\" by KYOHSO",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music"

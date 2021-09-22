@@ -1,5 +1,9 @@
 {
     "title": "Koko e, Okaeri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186192.jpg",
+        "alt": "koko-e-okaeri"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

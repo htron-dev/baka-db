@@ -1,5 +1,9 @@
 {
     "title": "Naipes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/66173.jpg",
+        "alt": "naipes"
+    },
     "type": "manhwa",
     "original_name": "나이페스",
     "start_date": "2012-03-22",

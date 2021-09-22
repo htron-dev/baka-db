@@ -1,5 +1,9 @@
 {
     "title": "Misemono Ingi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186016.jpg",
+        "alt": "misemono-ingi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "12",

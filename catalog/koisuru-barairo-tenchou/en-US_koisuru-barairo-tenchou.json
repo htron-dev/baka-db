@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Barairo Tenchou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/41657.jpg",
+        "alt": "koisuru-barairo-tenchou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

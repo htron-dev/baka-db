@@ -1,5 +1,9 @@
 {
     "title": "Antique Heart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/56121.jpg",
+        "alt": "antique-heart"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "アンティーク ハート",

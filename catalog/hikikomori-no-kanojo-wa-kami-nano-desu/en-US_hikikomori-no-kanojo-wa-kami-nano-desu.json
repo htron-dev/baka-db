@@ -1,5 +1,9 @@
 {
     "title": "Hikikomori no Kanojo wa Kami nano desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163715.jpg",
+        "alt": "hikikomori-no-kanojo-wa-kami-nano-desu"
+    },
     "type": "light-novel",
     "volumes": "8",
     "chapters": "57",

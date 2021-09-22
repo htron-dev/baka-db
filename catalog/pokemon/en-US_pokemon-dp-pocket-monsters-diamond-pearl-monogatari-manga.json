@@ -1,5 +1,9 @@
 {
     "title": "Pokémon DP: Pocket Monsters Diamond Pearl Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/118031.jpg",
+        "alt": "pokemon-dp-pocket-monsters-diamond-pearl-monogatari"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "37",

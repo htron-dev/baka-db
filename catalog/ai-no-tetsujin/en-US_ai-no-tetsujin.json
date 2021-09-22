@@ -1,5 +1,9 @@
 {
     "title": "Ai no Tetsujin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/19644.jpg",
+        "alt": "ai-no-tetsujin"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Taboo ja Nai mon!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/128381.jpg",
+        "alt": "taboo-ja-nai-mon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

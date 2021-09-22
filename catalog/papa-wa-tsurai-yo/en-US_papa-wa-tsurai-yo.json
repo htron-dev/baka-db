@@ -1,5 +1,9 @@
 {
     "title": "Papa wa Tsurai yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/62229.jpg",
+        "alt": "papa-wa-tsurai-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

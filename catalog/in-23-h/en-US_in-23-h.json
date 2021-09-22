@@ -1,5 +1,9 @@
 {
     "title": "IN23H",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199833.jpg",
+        "alt": "in-23-h"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

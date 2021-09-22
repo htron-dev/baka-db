@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Ittouki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165057.jpg",
+        "alt": "sengoku-ittouki"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "134",

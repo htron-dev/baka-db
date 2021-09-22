@@ -1,5 +1,9 @@
 {
     "title": "Overlord IV",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1584/114810.jpg",
+        "alt": "overlord-iv"
+    },
     "type": "tv-serie",
     "original_name": "オーバーロード IV",
     "rating": "R - 17+ (violence & profanity)",
@@ -26,7 +30,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Over_Lord_(novel_series"
+            "link": "https://en.wikipedia.org/wiki/Over_Lord_%28novel_series%29"
         }
     ]
 }

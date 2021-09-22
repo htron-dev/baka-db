@@ -1,5 +1,9 @@
 {
     "title": "Love♥Monster",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/112555.jpg",
+        "alt": "love♥-monster"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "82",

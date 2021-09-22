@@ -1,5 +1,9 @@
 {
     "title": "Ai wo Komete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1394/110101.jpg",
+        "alt": "ai-wo-komete"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "愛をこめて",

@@ -1,5 +1,9 @@
 {
     "title": "What's Michael?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/57369.jpg",
+        "alt": "whats-michael"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ホワッツ　マイケル？",

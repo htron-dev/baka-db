@@ -1,5 +1,9 @@
 {
     "title": "Houkago wa Itsumo Futari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179984.jpg",
+        "alt": "houkago-wa-itsumo-futari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

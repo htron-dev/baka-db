@@ -1,5 +1,9 @@
 {
     "title": "Okaasan no Yasashii te",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/74522.jpg",
+        "alt": "okaasan-no-yasashii-te"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "おかあさんのやさしい手",

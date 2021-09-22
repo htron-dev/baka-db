@@ -1,5 +1,9 @@
 {
     "title": "Kidou Senshi Gundam 0079",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/6308.jpg",
+        "alt": "kidou-senshi-gundam-0079"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "72",

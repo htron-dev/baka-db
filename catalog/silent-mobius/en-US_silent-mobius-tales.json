@@ -1,5 +1,9 @@
 {
     "title": "Silent Möbius Tales",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/40525.jpg",
+        "alt": "silent-mobius-tales"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

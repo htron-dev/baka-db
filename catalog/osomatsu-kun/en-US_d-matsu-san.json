@@ -1,5 +1,9 @@
 {
     "title": "dMatsu-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/89951.jpg",
+        "alt": "d-matsu-san"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "d 松さん",

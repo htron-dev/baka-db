@@ -1,5 +1,9 @@
 {
     "title": "Sensei wa Ore no Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174480.jpg",
+        "alt": "sensei-wa-ore-no-mono"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

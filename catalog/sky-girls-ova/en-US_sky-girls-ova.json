@@ -1,5 +1,9 @@
 {
     "title": "Sky Girls OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/78405.jpg",
+        "alt": "sky-girls-ova"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "スカイガールズ",

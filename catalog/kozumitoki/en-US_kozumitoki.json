@@ -1,5 +1,9 @@
 {
     "title": "Kozumitoki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/23690.jpg",
+        "alt": "kozumitoki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

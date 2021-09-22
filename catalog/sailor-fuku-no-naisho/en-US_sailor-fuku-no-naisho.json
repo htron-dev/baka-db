@@ -1,5 +1,9 @@
 {
     "title": "Sailor-fuku no Naisho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/96181.jpg",
+        "alt": "sailor-fuku-no-naisho"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

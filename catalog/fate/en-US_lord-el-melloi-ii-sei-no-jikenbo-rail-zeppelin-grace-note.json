@@ -1,11 +1,15 @@
 {
     "title": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1107/111530.jpg",
+        "alt": "lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ロード・エルメロイ Ⅱ 世の事件簿 -魔眼蒐集列車 Grace note-",
     "start_date": "2019-07-07",
     "end_date": "2019-07-07",
-    "opening_song": "\"starting the case",
+    "opening_song": "\"starting the case: Rail Zeppelin\" by Yuki Kajiura",
     "ending_song": "\"Hibari (雲雀)\" by ASCA",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [

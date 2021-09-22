@@ -1,5 +1,9 @@
 {
     "title": "Toaru Hi no Kuru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151284.jpg",
+        "alt": "toaru-hi-no-kuru"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "とある日のクル",

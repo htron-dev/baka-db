@@ -1,5 +1,9 @@
 {
     "title": "Wonder Bebil-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/83804.jpg",
+        "alt": "wonder-bebil-kun"
+    },
     "type": "tv-serie",
     "episodes": "30",
     "original_name": "ワンダーベビルくん",

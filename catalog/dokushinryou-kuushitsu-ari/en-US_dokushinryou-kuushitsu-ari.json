@@ -1,5 +1,9 @@
 {
     "title": "Dokushinryou Kuushitsu Ari!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/45567.jpg",
+        "alt": "dokushinryou-kuushitsu-ari"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "独身寮空室あり!",

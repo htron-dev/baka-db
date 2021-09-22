@@ -1,5 +1,9 @@
 {
     "title": "I''s",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/54589.jpg",
+        "alt": "is"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "143",

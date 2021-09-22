@@ -1,5 +1,9 @@
 {
     "title": "Yume no Soko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/89045.jpg",
+        "alt": "yume-no-soko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

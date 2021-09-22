@@ -1,5 +1,9 @@
 {
     "title": "Volley no Tamago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/199907.jpg",
+        "alt": "volley-no-tamago"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

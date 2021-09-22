@@ -1,5 +1,9 @@
 {
     "title": "Abunai Doctor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/31014.jpg",
+        "alt": "abunai-doctor"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "あぶないドクター",

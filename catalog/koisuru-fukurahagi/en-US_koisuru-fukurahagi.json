@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Fukurahagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226819.jpg",
+        "alt": "koisuru-fukurahagi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "38",

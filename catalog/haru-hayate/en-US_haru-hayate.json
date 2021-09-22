@@ -1,5 +1,9 @@
 {
     "title": "Haru Hayate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177114.jpg",
+        "alt": "haru-hayate"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Kimi wa Aozora no Shita ni Iru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175903.jpg",
+        "alt": "kimi-wa-aozora-no-shita-ni-iru"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "君は青空の下にいる",

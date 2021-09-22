@@ -1,8 +1,12 @@
 {
     "title": "K: Seven Stories Movie 3 - Side:Green - Uwagaki Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1267/91000.jpg",
+        "alt": "k-seven-stories-movie-3-side-green-uwagaki-sekai"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "K Seven Stories SIDE",
+    "original_name": "K Seven Stories SIDE:GREEN ~上書き世界~",
     "start_date": "2018-09-01",
     "opening_song": "\"SURVIVE!\" by angela",
     "ending_song": "\"Uwagaki Sekai (上書き世界)\" by angela",
@@ -28,7 +32,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/K_(anime"
+            "link": "https://en.wikipedia.org/wiki/K_%28anime%29"
         }
     ]
 }

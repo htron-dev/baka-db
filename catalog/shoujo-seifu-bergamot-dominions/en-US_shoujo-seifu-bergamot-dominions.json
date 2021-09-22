@@ -1,5 +1,9 @@
 {
     "title": "Shoujo Seifu Bergamot Dominions",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/147871.jpg",
+        "alt": "shoujo-seifu-bergamot-dominions"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

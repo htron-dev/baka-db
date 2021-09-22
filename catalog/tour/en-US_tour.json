@@ -1,5 +1,9 @@
 {
     "title": "Tour!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/45487.jpg",
+        "alt": "tour"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "70",

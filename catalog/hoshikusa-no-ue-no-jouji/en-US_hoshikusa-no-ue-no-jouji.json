@@ -1,5 +1,9 @@
 {
     "title": "Hoshikusa no Ue no Jouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245630.jpg",
+        "alt": "hoshikusa-no-ue-no-jouji"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

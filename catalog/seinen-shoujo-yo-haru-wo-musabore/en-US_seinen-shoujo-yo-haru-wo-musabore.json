@@ -1,5 +1,9 @@
 {
     "title": "Seinen Shoujo yo, Haru wo Musabore.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/243820.jpg",
+        "alt": "seinen-shoujo-yo-haru-wo-musabore"
+    },
     "type": "manga",
     "original_name": "青年少女よ、春を貪れ。",
     "start_date": "2020-12-17",

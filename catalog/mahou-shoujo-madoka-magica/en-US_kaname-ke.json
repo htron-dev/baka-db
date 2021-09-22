@@ -1,5 +1,9 @@
 {
     "title": "Kaname-ke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157043.jpg",
+        "alt": "kaname-ke"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "かなめけ",

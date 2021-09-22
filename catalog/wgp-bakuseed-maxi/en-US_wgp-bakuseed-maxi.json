@@ -1,5 +1,9 @@
 {
     "title": "WGP Bakuseed Maxi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/74083.jpg",
+        "alt": "wgp-bakuseed-maxi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ウェブグランプリ バクシードマキシ",

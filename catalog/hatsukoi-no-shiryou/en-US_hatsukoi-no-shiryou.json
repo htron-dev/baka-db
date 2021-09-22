@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi no Shiryou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/27119.jpg",
+        "alt": "hatsukoi-no-shiryou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

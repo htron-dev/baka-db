@@ -1,5 +1,9 @@
 {
     "title": "Ryousangata wa Date ja Nai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162492.jpg",
+        "alt": "ryousangata-wa-date-ja-nai"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "40",

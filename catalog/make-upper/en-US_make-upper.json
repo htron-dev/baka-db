@@ -1,5 +1,9 @@
 {
     "title": "Make-Upper",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237210.jpg",
+        "alt": "make-upper"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

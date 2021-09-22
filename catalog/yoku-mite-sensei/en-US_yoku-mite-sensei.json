@@ -1,5 +1,9 @@
 {
     "title": "Yoku Mite, Sensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180980.jpg",
+        "alt": "yoku-mite-sensei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

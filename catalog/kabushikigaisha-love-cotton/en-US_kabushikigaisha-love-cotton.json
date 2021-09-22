@@ -1,5 +1,9 @@
 {
     "title": "Kabushikigaisha Love Cotton",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22691.jpg",
+        "alt": "kabushikigaisha-love-cotton"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "24",

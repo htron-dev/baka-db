@@ -1,5 +1,9 @@
 {
     "title": "Tada Ichinodake no Eien",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/19979.jpg",
+        "alt": "tada-ichinodake-no-eien"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

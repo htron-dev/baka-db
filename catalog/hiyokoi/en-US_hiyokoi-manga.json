@@ -1,5 +1,9 @@
 {
     "title": "Hiyokoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/139879.jpg",
+        "alt": "hiyokoi"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "67",

@@ -1,12 +1,16 @@
 {
     "title": "Tennis no Ouji-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/21624.jpg",
+        "alt": "tennis-no-ouji-sama"
+    },
     "type": "tv-serie",
     "episodes": "178",
     "original_name": "テニスの王子様",
     "start_date": "2001-10-10",
     "end_date": "2001-10-10",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Future\" by Hiro-X (eps 1-26)",
+    "ending_song": "#1: \"You Got Game\" by Kimeru (eps 1-26)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

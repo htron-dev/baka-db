@@ -1,9 +1,13 @@
 {
     "title": "News 6:30",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/32366.jpg",
+        "alt": "news-6-30"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",
-    "original_name": "News 6",
+    "original_name": "News 6:30",
     "start_date": "1996-01-19",
     "tags": [
         "drama",

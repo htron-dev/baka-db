@@ -1,5 +1,9 @@
 {
     "title": "Scar / Edge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/97331.jpg",
+        "alt": "scar-edge"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "37",

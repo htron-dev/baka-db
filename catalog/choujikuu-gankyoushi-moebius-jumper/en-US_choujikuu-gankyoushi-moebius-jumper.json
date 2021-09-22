@@ -1,5 +1,9 @@
 {
     "title": "Choujikuu Gankyoushi Moebius Jumper",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/37626.jpg",
+        "alt": "choujikuu-gankyoushi-moebius-jumper"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Pupa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/54395.jpg",
+        "alt": "pupa"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "Pupa (ピューパ)",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://ja.wikipedia.org/wiki/Pupa_(%E6%BC%AB%E7%94%BB"
+            "link": "http://ja.wikipedia.org/wiki/Pupa_%28%E6%BC%AB%E7%94%BB%29"
         }
     ]
 }

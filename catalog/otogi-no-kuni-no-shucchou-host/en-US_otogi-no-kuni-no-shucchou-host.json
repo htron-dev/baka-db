@@ -1,5 +1,9 @@
 {
     "title": "Otogi-no-Kuni no Shucchou Host",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173358.jpg",
+        "alt": "otogi-no-kuni-no-shucchou-host"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

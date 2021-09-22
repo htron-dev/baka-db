@@ -1,5 +1,9 @@
 {
     "title": "Shite Shite.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/90925.jpg",
+        "alt": "shite-shite"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "?????",

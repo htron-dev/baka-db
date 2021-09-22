@@ -1,5 +1,9 @@
 {
     "title": "Mitsu x Mitsu Drops",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/1032.jpg",
+        "alt": "mitsu-x-mitsu-drops"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "47",

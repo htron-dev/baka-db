@@ -1,5 +1,9 @@
 {
     "title": "Kanbi na Doku ni Tsunagarete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172146.jpg",
+        "alt": "kanbi-na-doku-ni-tsunagarete"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "甘美な毒に繋がれて",

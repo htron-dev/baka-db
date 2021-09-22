@@ -1,5 +1,9 @@
 {
     "title": "Momoiro Five",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27778.jpg",
+        "alt": "momoiro-five"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ももいろふぁいぶ",

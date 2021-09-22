@@ -1,5 +1,9 @@
 {
     "title": "Hourou Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205881.jpg",
+        "alt": "hourou-sekai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

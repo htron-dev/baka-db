@@ -1,5 +1,9 @@
 {
     "title": "Strike Witches Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1133/96040.jpg",
+        "alt": "strike-witches-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ストライクウィッチーズ 劇場版",

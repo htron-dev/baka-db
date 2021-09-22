@@ -1,5 +1,9 @@
 {
     "title": "Poisson: Chouki Pompadour no Shougai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/184748.jpg",
+        "alt": "poisson-chouki-pompadour-no-shougai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

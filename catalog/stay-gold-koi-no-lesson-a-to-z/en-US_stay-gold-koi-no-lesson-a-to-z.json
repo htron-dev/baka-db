@@ -1,5 +1,9 @@
 {
     "title": "Stay Gold: Koi no Lesson A to Z",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30450.jpg",
+        "alt": "stay-gold-koi-no-lesson-a-to-z"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

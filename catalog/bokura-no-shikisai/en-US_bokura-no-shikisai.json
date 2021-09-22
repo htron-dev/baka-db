@@ -1,5 +1,9 @@
 {
     "title": "Bokura no Shikisai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236709.jpg",
+        "alt": "bokura-no-shikisai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

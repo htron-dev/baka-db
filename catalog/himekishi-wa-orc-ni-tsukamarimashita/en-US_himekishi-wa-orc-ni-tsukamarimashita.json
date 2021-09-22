@@ -1,5 +1,9 @@
 {
     "title": "Himekishi wa Orc ni Tsukamarimashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172845.jpg",
+        "alt": "himekishi-wa-orc-ni-tsukamarimashita"
+    },
     "type": "light-novel",
     "original_name": "姫騎士はオークにつかまりました。",
     "start_date": "2016-02-20",

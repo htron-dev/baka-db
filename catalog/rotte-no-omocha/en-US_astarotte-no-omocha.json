@@ -1,5 +1,9 @@
 {
     "title": "Astarotte no Omocha!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/75562.jpg",
+        "alt": "astarotte-no-omocha"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "アスタロッテのおもちゃ！",

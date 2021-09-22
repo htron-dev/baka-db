@@ -1,5 +1,9 @@
 {
     "title": "Kemurigusa Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1926/107619.jpg",
+        "alt": "kemurigusa-monogatari"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "煙り草物語",

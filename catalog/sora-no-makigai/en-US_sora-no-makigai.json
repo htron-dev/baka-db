@@ -1,5 +1,9 @@
 {
     "title": "Sora no Makigai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194951.jpg",
+        "alt": "sora-no-makigai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

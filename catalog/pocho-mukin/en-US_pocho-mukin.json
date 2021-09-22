@@ -1,5 +1,9 @@
 {
     "title": "Pocho Mukin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/51313.jpg",
+        "alt": "pocho-mukin"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "28",

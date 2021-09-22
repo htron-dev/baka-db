@@ -1,5 +1,9 @@
 {
     "title": "Shin Shokugyo Koroshiya. Zan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/178227.jpg",
+        "alt": "shin-shokugyo-koroshiya-zan"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "41",

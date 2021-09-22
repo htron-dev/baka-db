@@ -1,5 +1,9 @@
 {
     "title": "Minori no Te",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166040.jpg",
+        "alt": "minori-no-te"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

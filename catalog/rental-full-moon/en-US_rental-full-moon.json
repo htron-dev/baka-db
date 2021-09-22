@@ -1,5 +1,9 @@
 {
     "title": "Rental Full Moon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164314.jpg",
+        "alt": "rental-full-moon"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "レンタル・フルムーン",

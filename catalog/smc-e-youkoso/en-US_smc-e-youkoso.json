@@ -1,5 +1,9 @@
 {
     "title": "SMC e Youkoso",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79553.jpg",
+        "alt": "smc-e-youkoso"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

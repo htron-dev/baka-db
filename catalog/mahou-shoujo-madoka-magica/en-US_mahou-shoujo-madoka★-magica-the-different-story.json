@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo Madoka★Magica: The Different Story",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/78173.jpg",
+        "alt": "mahou-shoujo-madoka★-magica-the-different-story"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

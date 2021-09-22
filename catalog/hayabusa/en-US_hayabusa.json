@@ -1,5 +1,9 @@
 {
     "title": "Hayabusa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/4993.jpg",
+        "alt": "hayabusa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

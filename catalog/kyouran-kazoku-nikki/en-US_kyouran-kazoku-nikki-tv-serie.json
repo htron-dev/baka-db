@@ -1,12 +1,16 @@
 {
     "title": "Kyouran Kazoku Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/7601.jpg",
+        "alt": "kyouran-kazoku-nikki"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "狂乱家族日記",
     "start_date": "2008-04-12",
     "end_date": "2008-04-12",
     "opening_song": "\"Chousai Kenbo Sengen (超妻賢母宣言)\" by MOSAIC.WAV",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kyouran Senki: Nichijou no Kamisama (狂乱戦記 ～日常ノ神サマ～)\" by Ayumi Fujimura",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

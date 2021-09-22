@@ -1,12 +1,16 @@
 {
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1444/108005.jpg",
+        "alt": "re-zero-kara-hajimeru-isekai-seikatsu-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "Re：ゼロから始める異世界生活",
     "start_date": "2020-07-08",
     "end_date": "2020-07-08",
     "opening_song": "\"Realize\" by Konomi Suzuki (eps 2, 5, 8)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Realize\" by Konomi Suzuki (ep 2)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "psychological",

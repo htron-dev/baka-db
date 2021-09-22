@@ -1,5 +1,9 @@
 {
     "title": "Idomo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1059/102541.jpg",
+        "alt": "idomo"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "イドも",

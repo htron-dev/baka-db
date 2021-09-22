@@ -1,5 +1,9 @@
 {
     "title": "MiniGARO Manner Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/83548.jpg",
+        "alt": "mini-garo-manner-movie"
+    },
     "type": "movie",
     "episodes": "2",
     "original_name": "miniGARO マナームービー",

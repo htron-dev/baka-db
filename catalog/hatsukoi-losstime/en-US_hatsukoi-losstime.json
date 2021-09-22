@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi Losstime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223075.jpg",
+        "alt": "hatsukoi-losstime"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

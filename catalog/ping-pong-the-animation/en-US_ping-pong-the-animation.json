@@ -1,12 +1,16 @@
 {
     "title": "Ping Pong the Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/58041.jpg",
+        "alt": "ping-pong-the-animation"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "ピンポン THE ANIMATION",
     "start_date": "2014-04-11",
     "end_date": "2014-04-11",
     "opening_song": "\"Tada Hitori (唯一人)\" by Bakudan Johnny (爆弾ジョニー)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"'Ano Hero to' Bokura ni Tsuite (\"あのヒーローと\" 僕らについて)\" by Merengue (メレンゲ) (eps 1-4, 8, 10-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Ping_Pong_(manga"
+            "link": "http://en.wikipedia.org/wiki/Ping_Pong_%28manga%29"
         }
     ]
 }

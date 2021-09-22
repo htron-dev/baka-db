@@ -1,12 +1,16 @@
 {
     "title": "Saber Marionette J Again",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/61135.jpg",
+        "alt": "saber-marionette-j-again"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "またまたセイバーマリオネットＪ",
     "start_date": "1997-11-25",
     "end_date": "1997-11-25",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Sakaseruze! Dokyou-Bana (咲かせるぜ!度胸花)\" by Yuka Imai (ep 1)",
+    "ending_song": "#1: \"Hesitation\" by Megumi Hayashibara (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

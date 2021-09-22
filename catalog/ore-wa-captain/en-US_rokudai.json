@@ -1,5 +1,9 @@
 {
     "title": "Rokudai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/207785.jpg",
+        "alt": "rokudai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Puppy Lovers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188953.jpg",
+        "alt": "puppy-lovers"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "49",

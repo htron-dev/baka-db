@@ -1,5 +1,9 @@
 {
     "title": "Oni ni Itaru Doro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/24702.jpg",
+        "alt": "oni-ni-itaru-doro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

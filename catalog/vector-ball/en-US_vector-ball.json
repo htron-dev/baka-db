@@ -1,5 +1,9 @@
 {
     "title": "Vector Ball",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180496.jpg",
+        "alt": "vector-ball"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "44",

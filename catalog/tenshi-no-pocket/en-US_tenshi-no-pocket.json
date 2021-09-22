@@ -1,5 +1,9 @@
 {
     "title": "Tenshi no Pocket",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/103749.jpg",
+        "alt": "tenshi-no-pocket"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

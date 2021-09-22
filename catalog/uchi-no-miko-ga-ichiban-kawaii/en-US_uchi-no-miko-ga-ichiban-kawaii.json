@@ -1,5 +1,9 @@
 {
     "title": "Uchi no Miko ga Ichiban Kawaii!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156098.jpg",
+        "alt": "uchi-no-miko-ga-ichiban-kawaii"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "うちの巫女が一番かわいい！",

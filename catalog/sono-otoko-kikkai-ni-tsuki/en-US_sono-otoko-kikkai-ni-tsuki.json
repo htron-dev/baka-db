@@ -1,5 +1,9 @@
 {
     "title": "Sono Otoko, Kikkai ni Tsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149080.jpg",
+        "alt": "sono-otoko-kikkai-ni-tsuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Gelateria Supernova: Royal Vanilla",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246852.jpg",
+        "alt": "gelateria-supernova-royal-vanilla"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

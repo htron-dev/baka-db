@@ -1,5 +1,9 @@
 {
     "title": "Kikaijikake no Jakitsukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164670.jpg",
+        "alt": "kikaijikake-no-jakitsukai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

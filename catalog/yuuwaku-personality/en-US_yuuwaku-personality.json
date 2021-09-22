@@ -1,5 +1,9 @@
 {
     "title": "Yuuwaku Personality",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/199747.jpg",
+        "alt": "yuuwaku-personality"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

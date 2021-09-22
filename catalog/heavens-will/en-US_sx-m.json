@@ -1,5 +1,9 @@
 {
     "title": "SxM",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159866.jpg",
+        "alt": "sx-m"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

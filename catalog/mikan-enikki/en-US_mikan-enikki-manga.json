@@ -1,5 +1,9 @@
 {
     "title": "Mikan Enikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159933.jpg",
+        "alt": "mikan-enikki"
+    },
     "type": "manga",
     "volumes": "14",
     "original_name": "みかん絵日記",

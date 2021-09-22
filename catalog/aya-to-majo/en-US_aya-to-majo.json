@@ -1,5 +1,9 @@
 {
     "title": "Aya to Majo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1242/110170.jpg",
+        "alt": "aya-to-majo"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "アーヤと魔女",

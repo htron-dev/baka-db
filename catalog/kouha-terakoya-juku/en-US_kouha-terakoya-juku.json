@@ -1,5 +1,9 @@
 {
     "title": "Kouha! Terakoya Juku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23181.jpg",
+        "alt": "kouha-terakoya-juku"
+    },
     "type": "manga",
     "original_name": "硬派!寺子屋塾",
     "tags": [

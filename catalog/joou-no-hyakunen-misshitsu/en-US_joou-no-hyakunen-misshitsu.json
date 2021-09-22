@@ -1,5 +1,9 @@
 {
     "title": "Joou no Hyakunen Misshitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41194.jpg",
+        "alt": "joou-no-hyakunen-misshitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "女王の百年密室",

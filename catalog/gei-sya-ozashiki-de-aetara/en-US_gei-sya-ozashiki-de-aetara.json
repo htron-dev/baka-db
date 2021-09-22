@@ -1,5 +1,9 @@
 {
     "title": "Gei-Sya: Ozashiki de Aetara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151348.jpg",
+        "alt": "gei-sya-ozashiki-de-aetara"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "19",

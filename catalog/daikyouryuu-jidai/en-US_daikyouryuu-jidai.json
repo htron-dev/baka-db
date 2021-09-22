@@ -1,5 +1,9 @@
 {
     "title": "Daikyouryuu Jidai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/23186.jpg",
+        "alt": "daikyouryuu-jidai"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "大恐竜時代",

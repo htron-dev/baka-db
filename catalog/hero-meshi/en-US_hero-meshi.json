@@ -1,5 +1,9 @@
 {
     "title": "Hero Meshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/216669.jpg",
+        "alt": "hero-meshi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

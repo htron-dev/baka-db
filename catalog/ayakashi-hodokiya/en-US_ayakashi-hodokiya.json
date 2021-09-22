@@ -1,5 +1,9 @@
 {
     "title": "Ayakashi Hodokiya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246196.jpg",
+        "alt": "ayakashi-hodokiya"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

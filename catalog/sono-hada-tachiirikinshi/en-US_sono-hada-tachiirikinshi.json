@@ -1,5 +1,9 @@
 {
     "title": "Sono Hada, Tachiirikinshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30103.jpg",
+        "alt": "sono-hada-tachiirikinshi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "その肌、立入禁止",

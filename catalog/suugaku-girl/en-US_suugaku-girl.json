@@ -1,5 +1,9 @@
 {
     "title": "Suugaku Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/49715.jpg",
+        "alt": "suugaku-girl"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

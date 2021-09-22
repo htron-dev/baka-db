@@ -1,5 +1,9 @@
 {
     "title": "Fist of Legend",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200203.jpg",
+        "alt": "fist-of-legend"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "40",

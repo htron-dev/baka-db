@@ -1,5 +1,9 @@
 {
     "title": "Watanuki-san Chi no",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1287/100414.jpg",
+        "alt": "watanuki-san-chi-no"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "四月一日さん家の",

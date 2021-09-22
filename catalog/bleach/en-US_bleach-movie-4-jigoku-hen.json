@@ -1,5 +1,9 @@
 {
     "title": "Bleach Movie 4: Jigoku-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/26792.jpg",
+        "alt": "bleach-movie-4-jigoku-hen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 BLEACH 地獄篇",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Bleach_(manga"
+            "link": "http://en.wikipedia.org/wiki/Bleach_%28manga%29#Films"
         }
     ]
 }

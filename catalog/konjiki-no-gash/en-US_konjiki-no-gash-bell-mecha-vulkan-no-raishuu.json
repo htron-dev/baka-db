@@ -1,10 +1,14 @@
 {
     "title": "Konjiki no Gash Bell!!: Mecha Vulkan no Raishuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1459/95423.jpg",
+        "alt": "konjiki-no-gash-bell-mecha-vulkan-no-raishuu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版　金色のガッシュベル!!　メカバルカンの来襲",
     "start_date": "2005-08-06",
-    "opening_song": "#01",
+    "opening_song": "#01: \"Mienai Tsubasa\" by Takayoshi Tanimoto",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

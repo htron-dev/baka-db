@@ -1,5 +1,9 @@
 {
     "title": "Fuichin-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/62189.jpg",
+        "alt": "fuichin-san"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "フイチンさん",

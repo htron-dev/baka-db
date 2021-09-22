@@ -1,5 +1,9 @@
 {
     "title": "Akogare Rensa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41163.jpg",
+        "alt": "akogare-rensa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

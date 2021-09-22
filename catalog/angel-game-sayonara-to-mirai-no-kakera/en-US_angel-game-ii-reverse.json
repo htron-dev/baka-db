@@ -1,5 +1,9 @@
 {
     "title": "Angel Game II: Reverse",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154531.jpg",
+        "alt": "angel-game-ii-reverse"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

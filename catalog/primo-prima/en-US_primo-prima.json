@@ -1,5 +1,9 @@
 {
     "title": "Primo Prima!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/146377.jpg",
+        "alt": "primo-prima"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

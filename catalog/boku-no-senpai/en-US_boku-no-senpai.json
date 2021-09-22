@@ -1,5 +1,9 @@
 {
     "title": "Boku no Senpai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160726.jpg",
+        "alt": "boku-no-senpai"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "僕の先輩",

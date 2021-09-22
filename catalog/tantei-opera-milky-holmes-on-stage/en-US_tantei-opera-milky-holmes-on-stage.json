@@ -1,5 +1,9 @@
 {
     "title": "Tantei Opera Milky Holmes: On Stage!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180718.jpg",
+        "alt": "tantei-opera-milky-holmes-on-stage"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

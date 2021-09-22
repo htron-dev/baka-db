@@ -1,5 +1,9 @@
 {
     "title": "Seishun Sanka!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/204140.jpg",
+        "alt": "seishun-sanka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

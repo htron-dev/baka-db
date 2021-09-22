@@ -1,5 +1,9 @@
 {
     "title": "Ojisan to Marshmallow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/78113.jpg",
+        "alt": "ojisan-to-marshmallow"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "おじさんとマシュマロ",

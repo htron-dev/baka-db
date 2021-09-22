@@ -1,5 +1,9 @@
 {
     "title": "Hi ga Kuretemo Aruiteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/19406.jpg",
+        "alt": "hi-ga-kuretemo-aruiteru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

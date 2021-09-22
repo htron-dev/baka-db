@@ -1,5 +1,9 @@
 {
     "title": "Mazica Party",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1740/113501.jpg",
+        "alt": "mazica-party"
+    },
     "type": "tv-serie",
     "original_name": "マジカパーティ",
     "start_date": "2021-04-04",

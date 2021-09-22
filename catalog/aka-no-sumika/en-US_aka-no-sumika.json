@@ -1,5 +1,9 @@
 {
     "title": "Aka no Sumika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/24642.jpg",
+        "alt": "aka-no-sumika"
+    },
     "type": "manga",
     "original_name": "朱の栖",
     "tags": [

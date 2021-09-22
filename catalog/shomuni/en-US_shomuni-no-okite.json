@@ -1,5 +1,9 @@
 {
     "title": "Shomuni no Okite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/127091.jpg",
+        "alt": "shomuni-no-okite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

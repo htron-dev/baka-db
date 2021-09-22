@@ -1,5 +1,9 @@
 {
     "title": "Chingou Muchabee",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/46641.jpg",
+        "alt": "chingou-muchabee"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "珍豪ムチャ兵衛",

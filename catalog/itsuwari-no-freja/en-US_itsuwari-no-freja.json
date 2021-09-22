@@ -1,5 +1,9 @@
 {
     "title": "Itsuwari no Freja",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/208596.jpg",
+        "alt": "itsuwari-no-freja"
+    },
     "type": "manga",
     "original_name": "偽りのフレイヤ",
     "start_date": "2017-08-10",

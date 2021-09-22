@@ -1,5 +1,9 @@
 {
     "title": "Avalon - Eien no Ai no Shima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22401.jpg",
+        "alt": "avalon-eien-no-ai-no-shima"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "AVALON 永遠の愛の島",

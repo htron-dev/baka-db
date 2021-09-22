@@ -1,5 +1,9 @@
 {
     "title": "Stance Reverse",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/229762.jpg",
+        "alt": "stance-reverse"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

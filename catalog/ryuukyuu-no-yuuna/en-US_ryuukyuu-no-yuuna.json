@@ -1,5 +1,9 @@
 {
     "title": "Ryuukyuu no Yuuna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222698.jpg",
+        "alt": "ryuukyuu-no-yuuna"
+    },
     "type": "manga",
     "original_name": "琉球のユウナ",
     "start_date": "2016-10-08",

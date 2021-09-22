@@ -1,5 +1,9 @@
 {
     "title": "Dezi-con",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165391.jpg",
+        "alt": "dezi-con"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

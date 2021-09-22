@@ -1,5 +1,9 @@
 {
     "title": "Destinies Cross",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161110.jpg",
+        "alt": "destinies-cross"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

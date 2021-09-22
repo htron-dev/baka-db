@@ -1,5 +1,9 @@
 {
     "title": "Chichi to Ko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/132857.jpg",
+        "alt": "chichi-to-ko"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "123",

@@ -1,5 +1,9 @@
 {
     "title": "Karei naru Hibi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228886.jpg",
+        "alt": "karei-naru-hibi"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "華麗なる日々",

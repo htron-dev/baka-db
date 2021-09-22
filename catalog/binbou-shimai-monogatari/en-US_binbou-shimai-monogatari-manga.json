@@ -1,5 +1,9 @@
 {
     "title": "Binbou Shimai Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179810.jpg",
+        "alt": "binbou-shimai-monogatari"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "51",

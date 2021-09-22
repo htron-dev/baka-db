@@ -1,5 +1,9 @@
 {
     "title": "Nanairo Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26690.jpg",
+        "alt": "nanairo-girl"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "なな色 GIRL",

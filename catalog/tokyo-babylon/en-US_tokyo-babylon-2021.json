@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Babylon 2021",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1301/113833.jpg",
+        "alt": "tokyo-babylon-2021"
+    },
     "type": "tv-serie",
     "original_name": "東京 BABYLON 2021",
     "rating": "None",

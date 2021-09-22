@@ -1,5 +1,9 @@
 {
     "title": "Heart Cocktail",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/67163.jpg",
+        "alt": "heart-cocktail"
+    },
     "type": "tv-serie",
     "episodes": "77",
     "original_name": "ハートカクテル",

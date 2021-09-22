@@ -1,5 +1,9 @@
 {
     "title": "37°C Spirits",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205396.jpg",
+        "alt": "37-c-spirits"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

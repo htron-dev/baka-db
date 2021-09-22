@@ -1,5 +1,9 @@
 {
     "title": "Ohimesama Navigation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36603.jpg",
+        "alt": "ohimesama-navigation"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

@@ -1,5 +1,9 @@
 {
     "title": "Yoru Café",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/116695.jpg",
+        "alt": "yoru-cafe"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

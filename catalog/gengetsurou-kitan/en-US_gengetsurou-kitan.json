@@ -1,5 +1,9 @@
 {
     "title": "Gengetsurou Kitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/15186.jpg",
+        "alt": "gengetsurou-kitan"
+    },
     "type": "manga",
     "original_name": "幻月楼奇譚",
     "tags": [

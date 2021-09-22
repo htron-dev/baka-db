@@ -1,5 +1,9 @@
 {
     "title": "Amai Amai Koi wo Seyo.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/105173.jpg",
+        "alt": "amai-amai-koi-wo-seyo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

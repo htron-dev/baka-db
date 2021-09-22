@@ -1,5 +1,9 @@
 {
     "title": "G・DEFEND",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/17813.jpg",
+        "alt": "g・defend"
+    },
     "type": "manga",
     "original_name": "ジー・ディフェンド",
     "tags": [

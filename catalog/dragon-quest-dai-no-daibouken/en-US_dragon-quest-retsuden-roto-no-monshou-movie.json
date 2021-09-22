@@ -1,5 +1,9 @@
 {
     "title": "Dragon Quest Retsuden: Roto no Monshou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/17980.jpg",
+        "alt": "dragon-quest-retsuden-roto-no-monshou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ドラゴンクエスト列伝 ロトの紋章",

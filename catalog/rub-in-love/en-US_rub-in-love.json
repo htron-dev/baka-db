@@ -1,5 +1,9 @@
 {
     "title": "Rub in Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2941.jpg",
+        "alt": "rub-in-love"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

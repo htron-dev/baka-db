@@ -1,5 +1,9 @@
 {
     "title": "Grangerie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215327.jpg",
+        "alt": "grangerie"
+    },
     "type": "manga",
     "original_name": "グランジェリー",
     "start_date": "2018-09-04",

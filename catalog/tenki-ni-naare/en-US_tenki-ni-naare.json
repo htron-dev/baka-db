@@ -1,5 +1,9 @@
 {
     "title": "Tenki ni Naare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/66169.jpg",
+        "alt": "tenki-ni-naare"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "天気になあれ",

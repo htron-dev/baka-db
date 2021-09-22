@@ -1,5 +1,9 @@
 {
     "title": "Timing",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229328.jpg",
+        "alt": "timing"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "30",

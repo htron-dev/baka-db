@@ -1,5 +1,9 @@
 {
     "title": "Dies Irae",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/89682.jpg",
+        "alt": "dies-irae"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "Dies irae",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Dies_irae_(visual_novel"
+            "link": "https://en.wikipedia.org/wiki/Dies_irae_%28visual_novel%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Kikou Toshi Berlin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/98999.jpg",
+        "alt": "kikou-toshi-berlin"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "51",

@@ -1,5 +1,9 @@
 {
     "title": "Yumekuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161441.jpg",
+        "alt": "yumekuri"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "41",

@@ -1,5 +1,9 @@
 {
     "title": "Tamashii no Futago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/30073.jpg",
+        "alt": "tamashii-no-futago"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

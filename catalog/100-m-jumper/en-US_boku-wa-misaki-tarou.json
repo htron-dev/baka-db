@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Misaki Tarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230388.jpg",
+        "alt": "boku-wa-misaki-tarou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

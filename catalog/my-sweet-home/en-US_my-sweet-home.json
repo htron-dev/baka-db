@@ -1,5 +1,9 @@
 {
     "title": "My Sweet Home",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238246.jpg",
+        "alt": "my-sweet-home"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Kamisama Hajimemashita: Kurama-yama Yawa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154677.jpg",
+        "alt": "kamisama-hajimemashita-kurama-yama-yawa"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

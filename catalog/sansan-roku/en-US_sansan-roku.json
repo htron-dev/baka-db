@@ -1,5 +1,9 @@
 {
     "title": "Sansan Roku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31181.jpg",
+        "alt": "sansan-roku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "34",

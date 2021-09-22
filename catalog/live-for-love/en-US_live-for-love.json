@@ -1,5 +1,9 @@
 {
     "title": "Live for Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/12174.jpg",
+        "alt": "live-for-love"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Undercurrent",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/17475.jpg",
+        "alt": "undercurrent"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

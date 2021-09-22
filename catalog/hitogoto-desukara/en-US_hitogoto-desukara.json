@@ -1,5 +1,9 @@
 {
     "title": "Hitogoto desukara!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238546.jpg",
+        "alt": "hitogoto-desukara"
+    },
     "type": "manga",
     "original_name": "ヒトゴトですから!",
     "start_date": "2019-11-04",

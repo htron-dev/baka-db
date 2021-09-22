@@ -1,5 +1,9 @@
 {
     "title": "Heisei Project: Imitation Hero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159314.jpg",
+        "alt": "heisei-project-imitation-hero"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

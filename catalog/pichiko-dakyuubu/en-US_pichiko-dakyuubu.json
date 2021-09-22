@@ -1,5 +1,9 @@
 {
     "title": "Pichiko Dakyuubu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/75830.jpg",
+        "alt": "pichiko-dakyuubu"
+    },
     "type": "tv-serie",
     "episodes": "29",
     "original_name": "ピチ高野球部",

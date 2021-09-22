@@ -1,5 +1,9 @@
 {
     "title": "Ginshi no Mahoushiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/127541.jpg",
+        "alt": "ginshi-no-mahoushiki"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "銀糸の魔法式",

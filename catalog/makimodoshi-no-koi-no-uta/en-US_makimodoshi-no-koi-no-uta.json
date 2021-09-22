@@ -1,5 +1,9 @@
 {
     "title": "Makimodoshi no Koi no Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36710.jpg",
+        "alt": "makimodoshi-no-koi-no-uta"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

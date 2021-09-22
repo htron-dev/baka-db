@@ -1,5 +1,9 @@
 {
     "title": "Mahou no Pen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/18053.jpg",
+        "alt": "mahou-no-pen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "魔法のペン",

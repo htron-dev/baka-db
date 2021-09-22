@@ -1,5 +1,9 @@
 {
     "title": "Yuu &amp; Mii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/136509.jpg",
+        "alt": "yuu-amp-mii"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "49",

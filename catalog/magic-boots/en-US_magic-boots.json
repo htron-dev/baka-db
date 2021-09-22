@@ -1,5 +1,9 @@
 {
     "title": "Magic Boots",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12367.jpg",
+        "alt": "magic-boots"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

@@ -1,5 +1,9 @@
 {
     "title": "Tettsui to Pieta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226401.jpg",
+        "alt": "tettsui-to-pieta"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

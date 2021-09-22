@@ -1,5 +1,9 @@
 {
     "title": "Hakuryuu Hadou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228346.jpg",
+        "alt": "hakuryuu-hadou"
+    },
     "type": "manga",
     "original_name": "白竜 HADOU",
     "start_date": "2016-10-21",

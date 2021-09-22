@@ -1,5 +1,9 @@
 {
     "title": "Touch!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36530.jpg",
+        "alt": "touch"
+    },
     "type": "manga",
     "volumes": "1",
     "start_date": "2008-08-20",

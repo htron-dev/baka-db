@@ -1,5 +1,9 @@
 {
     "title": "Kurayami ni Strobe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/113549.jpg",
+        "alt": "kurayami-ni-strobe"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Getter Robo Go",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/95799.jpg",
+        "alt": "getter-robo-go"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "28",

@@ -1,5 +1,9 @@
 {
     "title": "50 Million Km",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/144543.jpg",
+        "alt": "50-million-km"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "23",

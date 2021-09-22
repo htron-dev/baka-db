@@ -1,5 +1,9 @@
 {
     "title": "Mujuuryoku Communication",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192234.jpg",
+        "alt": "mujuuryoku-communication"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Hanasaku Swallow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210152.jpg",
+        "alt": "hanasaku-swallow"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

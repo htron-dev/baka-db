@@ -1,5 +1,9 @@
 {
     "title": "Boku to Ane no Kekkon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177808.jpg",
+        "alt": "boku-to-ane-no-kekkon"
+    },
     "type": "manga",
     "chapters": "6",
     "original_name": "ぼくと姉の結婚",

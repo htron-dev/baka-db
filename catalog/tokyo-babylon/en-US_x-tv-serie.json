@@ -1,5 +1,9 @@
 {
     "title": "X",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/17167.jpg",
+        "alt": "x"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "X− エックス −",
@@ -37,7 +41,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/X_(manga"
+            "link": "https://en.wikipedia.org/wiki/X_%28manga%29"
         }
     ]
 }

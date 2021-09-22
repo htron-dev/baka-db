@@ -1,5 +1,9 @@
 {
     "title": "Kinaco Typhoon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/29962.jpg",
+        "alt": "kinaco-typhoon"
+    },
     "type": "manga",
     "original_name": "キナコタイフーン",
     "tags": [],

@@ -1,5 +1,9 @@
 {
     "title": "Oedo tote Shan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151665.jpg",
+        "alt": "oedo-tote-shan"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "お江戸とてシャン",

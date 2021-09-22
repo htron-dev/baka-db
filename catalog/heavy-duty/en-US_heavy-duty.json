@@ -1,5 +1,9 @@
 {
     "title": "Heavy Duty",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199194.jpg",
+        "alt": "heavy-duty"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

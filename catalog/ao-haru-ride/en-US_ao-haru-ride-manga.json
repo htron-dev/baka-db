@@ -1,5 +1,9 @@
 {
     "title": "Ao Haru Ride",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/62369.jpg",
+        "alt": "ao-haru-ride"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "53",

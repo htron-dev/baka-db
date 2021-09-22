@@ -1,5 +1,9 @@
 {
     "title": "Watashi ga Itemo Inakutemo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/208375.jpg",
+        "alt": "watashi-ga-itemo-inakutemo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

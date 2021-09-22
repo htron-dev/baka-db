@@ -1,5 +1,9 @@
 {
     "title": "Plus Again",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154494.jpg",
+        "alt": "plus-again"
+    },
     "type": "manhwa",
     "volumes": "10",
     "original_name": "PLUS AGAIN",

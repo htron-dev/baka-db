@@ -1,5 +1,9 @@
 {
     "title": "Datte Kimi wa, Osananajimi.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/213036.jpg",
+        "alt": "datte-kimi-wa-osananajimi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,9 +1,13 @@
 {
     "title": "Kyuujitsu Junction: Shinzou Keigo Tanpenshuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/223168.jpg",
+        "alt": "kyuujitsu-junction-shinzou-keigo-tanpenshuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",
-    "original_name": "休日ジャンクション",
+    "original_name": "休日ジャンクション: 真造圭伍短編集",
     "start_date": "2014-03-24",
     "end_date": "2014-03-24",
     "tags": [

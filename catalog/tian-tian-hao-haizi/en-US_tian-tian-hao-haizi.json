@@ -1,5 +1,9 @@
 {
     "title": "Tian Tian Hao Haizi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1405/115488.jpg",
+        "alt": "tian-tian-hao-haizi"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "天天好孩子",

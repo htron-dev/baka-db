@@ -1,5 +1,9 @@
 {
     "title": "Ohoshisama ni Onegai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5954.jpg",
+        "alt": "ohoshisama-ni-onegai"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "お星様にお願いっ！",

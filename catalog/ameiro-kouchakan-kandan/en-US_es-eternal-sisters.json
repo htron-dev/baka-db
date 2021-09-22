@@ -1,5 +1,9 @@
 {
     "title": "[es] - Eternal Sisters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13459.jpg",
+        "alt": "es-eternal-sisters"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "26",

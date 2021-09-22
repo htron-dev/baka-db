@@ -1,5 +1,9 @@
 {
     "title": "Weaving",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/88393.jpg",
+        "alt": "weaving"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "weaving",

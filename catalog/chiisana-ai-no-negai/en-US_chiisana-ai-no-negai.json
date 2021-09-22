@@ -1,5 +1,9 @@
 {
     "title": "Chiisana Ai no Negai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/65915.jpg",
+        "alt": "chiisana-ai-no-negai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

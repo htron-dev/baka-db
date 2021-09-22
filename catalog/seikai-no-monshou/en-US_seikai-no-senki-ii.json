@@ -1,5 +1,9 @@
 {
     "title": "Seikai no Senki II",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/61109.jpg",
+        "alt": "seikai-no-senki-ii"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "星界の戦旗 II",

@@ -1,5 +1,9 @@
 {
     "title": "Amemiya-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1017/115549.jpg",
+        "alt": "amemiya-san"
+    },
     "type": "ona",
     "original_name": "雨宮さん",
     "start_date": "2021-03-09",

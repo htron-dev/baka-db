@@ -1,5 +1,9 @@
 {
     "title": "Sora to Kimi to.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/142751.jpg",
+        "alt": "sora-to-kimi-to"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

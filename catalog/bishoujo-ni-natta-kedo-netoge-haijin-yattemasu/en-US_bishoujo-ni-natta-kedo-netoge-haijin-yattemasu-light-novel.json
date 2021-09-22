@@ -1,5 +1,9 @@
 {
     "title": "Bishoujo ni Natta kedo, Netoge Haijin Yattemasu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237139.jpg",
+        "alt": "bishoujo-ni-natta-kedo-netoge-haijin-yattemasu"
+    },
     "type": "light-novel",
     "original_name": "美少女になったけど、ネトゲ廃人やってます。",
     "start_date": "2019-05-02",

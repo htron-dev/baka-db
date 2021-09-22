@@ -1,5 +1,9 @@
 {
     "title": "Ayakashi Parade Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/209062.jpg",
+        "alt": "ayakashi-parade-game"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

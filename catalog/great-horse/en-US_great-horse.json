@@ -1,5 +1,9 @@
 {
     "title": "Great Horse",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200435.jpg",
+        "alt": "great-horse"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "50",

@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Gambo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1758/110280.jpg",
+        "alt": "tokyo-gambo"
+    },
     "type": "tv-serie",
     "original_name": "東京ガンボ",
     "start_date": "2020-11-21",

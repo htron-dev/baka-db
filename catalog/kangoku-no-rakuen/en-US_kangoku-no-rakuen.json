@@ -1,5 +1,9 @@
 {
     "title": "Kangoku no Rakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/130757.jpg",
+        "alt": "kangoku-no-rakuen"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

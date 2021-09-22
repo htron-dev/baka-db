@@ -1,5 +1,9 @@
 {
     "title": "Round About Midnight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32792.jpg",
+        "alt": "round-about-midnight"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ラウンドアバウトミッドナイト",

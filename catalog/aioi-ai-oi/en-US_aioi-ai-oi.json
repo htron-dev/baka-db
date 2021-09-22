@@ -1,5 +1,9 @@
 {
     "title": "Aioi Ai oi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1284/92752.jpg",
+        "alt": "aioi-ai-oi"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "あいおい会い追い",

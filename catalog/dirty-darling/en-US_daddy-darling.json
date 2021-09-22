@@ -1,5 +1,9 @@
 {
     "title": "Daddy Darling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245661.jpg",
+        "alt": "daddy-darling"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

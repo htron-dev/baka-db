@@ -1,5 +1,9 @@
 {
     "title": "Dolphin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227815.jpg",
+        "alt": "dolphin"
+    },
     "type": "manga",
     "original_name": "ドルフィン",
     "start_date": "2014-10-28",

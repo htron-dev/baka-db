@@ -1,5 +1,9 @@
 {
     "title": "Introspection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/71457.jpg",
+        "alt": "introspection"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "introspection",

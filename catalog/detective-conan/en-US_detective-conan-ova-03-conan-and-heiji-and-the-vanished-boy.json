@@ -1,8 +1,12 @@
 {
     "title": "Detective Conan OVA 03: Conan and Heiji and the Vanished Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/72319.jpg",
+        "alt": "detective-conan-ova-03-conan-and-heiji-and-the-vanished-boy"
+    },
     "type": "ova",
     "episodes": "1",
-    "original_name": "名探偵コナン",
+    "original_name": "名探偵コナン: コナンと平次と消えた少年",
     "start_date": "2003-01-20",
     "ending_song": "\"Ashita wo Yumemite\" by ZARD",
     "rating": "PG-13 - Teens 13 or older",

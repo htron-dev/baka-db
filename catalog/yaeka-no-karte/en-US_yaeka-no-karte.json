@@ -1,5 +1,9 @@
 {
     "title": "Yaeka no Karte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/245248.jpg",
+        "alt": "yaeka-no-karte"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "やえかのカルテ",

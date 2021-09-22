@@ -1,5 +1,9 @@
 {
     "title": "Tokeijikake no Ane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194332.jpg",
+        "alt": "tokeijikake-no-ane"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

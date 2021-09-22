@@ -1,5 +1,9 @@
 {
     "title": "Qin Xia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1076/109488.jpg",
+        "alt": "qin-xia"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "秦侠",

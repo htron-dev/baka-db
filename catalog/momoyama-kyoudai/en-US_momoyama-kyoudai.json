@@ -1,5 +1,9 @@
 {
     "title": "Momoyama Kyoudai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/83406.jpg",
+        "alt": "momoyama-kyoudai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

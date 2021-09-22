@@ -1,5 +1,9 @@
 {
     "title": "Fringe-man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/134425.jpg",
+        "alt": "fringe-man"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "38",

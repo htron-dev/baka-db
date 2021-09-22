@@ -1,5 +1,9 @@
 {
     "title": "Kamisama wa Usotsuki.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196476.jpg",
+        "alt": "kamisama-wa-usotsuki"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Yuria 100 Shiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/51335.jpg",
+        "alt": "yuria-100-shiki"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "105",

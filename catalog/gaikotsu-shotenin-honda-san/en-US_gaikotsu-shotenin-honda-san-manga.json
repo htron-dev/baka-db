@@ -1,5 +1,9 @@
 {
     "title": "Gaikotsu Shotenin Honda-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191311.jpg",
+        "alt": "gaikotsu-shotenin-honda-san"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "34",

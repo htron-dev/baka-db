@@ -1,5 +1,9 @@
 {
     "title": "Hissing",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11518.jpg",
+        "alt": "hissing"
+    },
     "type": "manhwa",
     "volumes": "6",
     "original_name": "히싱",

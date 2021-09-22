@@ -1,5 +1,9 @@
 {
     "title": "Neko de Gomen!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36595.jpg",
+        "alt": "neko-de-gomen"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "51",

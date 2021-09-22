@@ -1,5 +1,9 @@
 {
     "title": "Ojisan to Neko to Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222327.jpg",
+        "alt": "ojisan-to-neko-to-shoujo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "38",

@@ -1,12 +1,16 @@
 {
     "title": "Kiniro no Corda: Blue♪Sky",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/59779.jpg",
+        "alt": "kiniro-no-corda-blue♪-sky"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "金色のコルダ Blue♪Sky",
     "start_date": "2014-04-06",
     "end_date": "2014-04-06",
     "opening_song": "\"WINGS TO FLY\" by Maestro Fields [Kyouya Kisaragi (Jun Fukuyama), Ritsu Kisaragi (Konishi Katsuyuki), Yukihiro Yagisawa (Kentaro Ito), Chiaki Tougane (Kishou Taniyama), Reiji Myouga (Satoshi Hino)]",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Andante\" by Seiso Gakuen Orchestra Club (eps 1-3)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "harem",

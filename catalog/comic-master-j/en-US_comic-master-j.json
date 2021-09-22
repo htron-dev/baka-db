@@ -1,5 +1,9 @@
 {
     "title": "Comic Master J",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/75607.jpg",
+        "alt": "comic-master-j"
+    },
     "type": "manga",
     "volumes": "13",
     "original_name": "コミックマスター J",

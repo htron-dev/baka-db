@@ -1,5 +1,9 @@
 {
     "title": "Ginga Rocket ni Ohagaki Kudasai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166043.jpg",
+        "alt": "ginga-rocket-ni-ohagaki-kudasai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

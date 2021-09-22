@@ -1,5 +1,9 @@
 {
     "title": "Moon Box",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228574.jpg",
+        "alt": "moon-box"
+    },
     "type": "manhwa",
     "original_name": "달의 상자",
     "start_date": "2017-03-08",

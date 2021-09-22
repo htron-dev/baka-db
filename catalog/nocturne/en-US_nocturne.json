@@ -1,5 +1,9 @@
 {
     "title": "Nocturne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30350.jpg",
+        "alt": "nocturne"
+    },
     "type": "manhwa",
     "original_name": "녹턴",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Touring Express",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38942.jpg",
+        "alt": "touring-express"
+    },
     "type": "manga",
     "volumes": "28",
     "original_name": "ツーリング・エクスプレス",

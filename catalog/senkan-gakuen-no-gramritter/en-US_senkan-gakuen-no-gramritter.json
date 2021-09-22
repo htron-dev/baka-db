@@ -1,5 +1,9 @@
 {
     "title": "Senkan Gakuen no Gramritter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177575.jpg",
+        "alt": "senkan-gakuen-no-gramritter"
+    },
     "type": "light-novel",
     "original_name": "戦艦学園のグラムリッター",
     "start_date": "2015-09-19",

@@ -1,5 +1,9 @@
 {
     "title": "Zero no Shiniki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/133285.jpg",
+        "alt": "zero-no-shiniki"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Driver's Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23533.jpg",
+        "alt": "drivers-love"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Chuck Shimezou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1171/97419.jpg",
+        "alt": "chuck-shimezou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "チャックシメゾウ",

@@ -1,5 +1,9 @@
 {
     "title": "Fermat no Ryouri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226170.jpg",
+        "alt": "fermat-no-ryouri"
+    },
     "type": "manga",
     "original_name": "フェルマーの料理",
     "start_date": "2018-09-06",

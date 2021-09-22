@@ -1,5 +1,9 @@
 {
     "title": "Mikan Enikki Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/65225.jpg",
+        "alt": "mikan-enikki-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "みかん絵日記",

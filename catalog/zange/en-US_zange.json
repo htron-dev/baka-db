@@ -1,5 +1,9 @@
 {
     "title": "Zange",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/242245.jpg",
+        "alt": "zange"
+    },
     "type": "manga",
     "original_name": "惨家〈ざんげ〉",
     "start_date": "2021-03-09",

@@ -1,5 +1,9 @@
 {
     "title": "Roujin Z",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1584/93628.jpg",
+        "alt": "roujin-z"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "老人Ｚ",

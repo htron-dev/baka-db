@@ -1,5 +1,9 @@
 {
     "title": "Don Chuck Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/60421.jpg",
+        "alt": "don-chuck-monogatari"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ドンチャック物語",

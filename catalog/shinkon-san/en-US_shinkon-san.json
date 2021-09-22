@@ -1,5 +1,9 @@
 {
     "title": "Shinkon-san!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/230410.jpg",
+        "alt": "shinkon-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

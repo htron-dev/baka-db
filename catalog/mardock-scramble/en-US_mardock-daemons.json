@@ -1,5 +1,9 @@
 {
     "title": "Mardock Daemons",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/216996.jpg",
+        "alt": "mardock-daemons"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

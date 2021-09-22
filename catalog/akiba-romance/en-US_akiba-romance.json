@@ -1,5 +1,9 @@
 {
     "title": "Akiba Romance!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155398.jpg",
+        "alt": "akiba-romance"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "あきば浪漫ス!",

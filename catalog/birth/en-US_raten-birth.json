@@ -1,5 +1,9 @@
 {
     "title": "Raten - Birth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/113505.jpg",
+        "alt": "raten-birth"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "螺天 -BIRTH-",

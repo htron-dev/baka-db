@@ -1,5 +1,9 @@
 {
     "title": "Tsutsuuraura☆Diaries",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161639.jpg",
+        "alt": "tsutsuuraura☆-diaries"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

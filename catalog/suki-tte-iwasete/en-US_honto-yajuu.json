@@ -1,5 +1,9 @@
 {
     "title": "Honto Yajuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21139.jpg",
+        "alt": "honto-yajuu"
+    },
     "type": "manga",
     "original_name": "ほんと野獣",
     "start_date": "2008-07-10",

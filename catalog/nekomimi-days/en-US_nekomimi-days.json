@@ -1,5 +1,9 @@
 {
     "title": "Nekomimi Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34724.jpg",
+        "alt": "nekomimi-days"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ネコミミデイズ",

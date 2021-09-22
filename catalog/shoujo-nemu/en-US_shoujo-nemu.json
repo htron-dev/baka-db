@@ -1,5 +1,9 @@
 {
     "title": "Shoujo Nemu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22623.jpg",
+        "alt": "shoujo-nemu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

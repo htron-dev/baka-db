@@ -1,5 +1,9 @@
 {
     "title": "Fractal Child",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/139129.jpg",
+        "alt": "fractal-child"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "フラクタル・チャイルド",

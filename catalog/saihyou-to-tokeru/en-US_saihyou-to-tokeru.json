@@ -1,5 +1,9 @@
 {
     "title": "Saihyou to Tokeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236252.jpg",
+        "alt": "saihyou-to-tokeru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Kanteitsukai no Boukensha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200146.jpg",
+        "alt": "kanteitsukai-no-boukensha"
+    },
     "type": "light-novel",
     "original_name": "鑑定使いの冒険者",
     "start_date": "2017-09-30",

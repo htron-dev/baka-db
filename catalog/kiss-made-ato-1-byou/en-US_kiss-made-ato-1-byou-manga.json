@@ -1,5 +1,9 @@
 {
     "title": "Kiss made, Ato 1-byou.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/223898.jpg",
+        "alt": "kiss-made-ato-1-byou"
+    },
     "type": "manga",
     "original_name": "キスまで、あと 1 秒。",
     "start_date": "2016-02-22",

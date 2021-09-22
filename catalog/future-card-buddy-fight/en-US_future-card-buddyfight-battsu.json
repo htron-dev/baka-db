@@ -1,12 +1,16 @@
 {
     "title": "Future Card Buddyfight Battsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/84792.jpg",
+        "alt": "future-card-buddyfight-battsu"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "フューチャーカード バディファイト X",
     "start_date": "2017-04-01",
     "end_date": "2017-04-01",
     "opening_song": "\"Brave Soul Fight!\" by Paruko Nanana (Sora Tokui) & Baku Oomori (Shuuta Morishima)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Mukaikaze ni Fight! (向い風にファイト！)\" by Ayana Kinoshita (木下綾菜) (eps 1-29)",
     "rating": "PG - Children",
     "tags": [
         "game"

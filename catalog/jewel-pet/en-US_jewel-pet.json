@@ -1,5 +1,9 @@
 {
     "title": "Jewel Pet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177456.jpg",
+        "alt": "jewel-pet"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ジュエルペット",

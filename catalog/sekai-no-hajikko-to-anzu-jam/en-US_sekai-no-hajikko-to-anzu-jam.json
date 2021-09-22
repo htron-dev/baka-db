@@ -1,5 +1,9 @@
 {
     "title": "Sekai no Hajikko to Anzu Jam",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174538.jpg",
+        "alt": "sekai-no-hajikko-to-anzu-jam"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "31",

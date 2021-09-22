@@ -1,5 +1,9 @@
 {
     "title": "Odyssey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/3592.jpg",
+        "alt": "odyssey"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

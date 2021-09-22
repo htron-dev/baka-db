@@ -1,8 +1,12 @@
 {
     "title": "PES: Peace Eco Smile - Drive your Heart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/50253.jpg",
+        "alt": "pes-peace-eco-smile-drive-your-heart"
+    },
     "type": "ona",
     "episodes": "1",
-    "original_name": "PES",
+    "original_name": "PES: Peace Eco Smile - Drive your Heart",
     "start_date": "2012-05-23",
     "rating": "G - All Ages",
     "tags": [

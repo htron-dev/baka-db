@@ -1,5 +1,9 @@
 {
     "title": "Non Non Biyori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/51581.jpg",
+        "alt": "non-non-biyori"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "のんのんびより",

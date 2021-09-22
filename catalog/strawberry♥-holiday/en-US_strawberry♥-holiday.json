@@ -1,5 +1,9 @@
 {
     "title": "Strawberry♥Holiday",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/116141.jpg",
+        "alt": "strawberry♥-holiday"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

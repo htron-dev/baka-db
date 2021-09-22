@@ -1,12 +1,16 @@
 {
     "title": "Tanken Driland: 1000-nen no Mahou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/48825.jpg",
+        "alt": "tanken-driland-1000-nen-no-mahou"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "探検ドリランド-1000 年の真宝（まほう）-",
     "start_date": "2013-04-06",
     "end_date": "2013-04-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Go ahead!\" by Hideyuki Takahashi",
+    "ending_song": "#1: \"STEP&GO\" by PASSPO☆ (eps 1-13)",
     "rating": "PG - Children",
     "tags": [
         "adventure",

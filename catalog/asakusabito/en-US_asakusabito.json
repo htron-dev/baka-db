@@ -1,5 +1,9 @@
 {
     "title": "Asakusabito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/123739.jpg",
+        "alt": "asakusabito"
+    },
     "type": "manga",
     "original_name": "浅草人",
     "tags": [

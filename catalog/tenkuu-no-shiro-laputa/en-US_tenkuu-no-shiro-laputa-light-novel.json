@@ -1,5 +1,9 @@
 {
     "title": "Tenkuu no Shiro Laputa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/132763.jpg",
+        "alt": "tenkuu-no-shiro-laputa"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "小説 天空の城ラピュタ",

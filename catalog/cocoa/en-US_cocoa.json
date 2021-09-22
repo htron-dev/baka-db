@@ -1,5 +1,9 @@
 {
     "title": "Cocoa!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23346.jpg",
+        "alt": "cocoa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

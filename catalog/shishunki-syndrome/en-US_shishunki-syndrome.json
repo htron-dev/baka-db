@@ -1,5 +1,9 @@
 {
     "title": "Shishunki Syndrome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/138173.jpg",
+        "alt": "shishunki-syndrome"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

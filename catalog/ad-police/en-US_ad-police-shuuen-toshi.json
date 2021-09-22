@@ -1,5 +1,9 @@
 {
     "title": "AD. Police: Shuuen Toshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/3791.jpg",
+        "alt": "ad-police-shuuen-toshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

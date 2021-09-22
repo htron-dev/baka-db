@@ -1,5 +1,9 @@
 {
     "title": "Neo Faust",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/72289.jpg",
+        "alt": "neo-faust"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ネオ・ファウスト",

@@ -1,5 +1,9 @@
 {
     "title": "Otenki Boys",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/71934.jpg",
+        "alt": "otenki-boys"
+    },
     "type": "tv-serie",
     "episodes": "30",
     "original_name": "おてんきボーイズ",

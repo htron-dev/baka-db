@@ -1,5 +1,9 @@
 {
     "title": "Boy x Meet x Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/112797.jpg",
+        "alt": "boy-x-meet-x-girl"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

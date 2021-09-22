@@ -1,5 +1,9 @@
 {
     "title": "Tunnels",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/34598.jpg",
+        "alt": "tunnels"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "トンネル",

@@ -1,5 +1,9 @@
 {
     "title": "Kono Koi wa Himitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26798.jpg",
+        "alt": "kono-koi-wa-himitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

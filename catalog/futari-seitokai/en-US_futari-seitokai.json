@@ -1,5 +1,9 @@
 {
     "title": "Futari Seitokai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/205457.jpg",
+        "alt": "futari-seitokai"
+    },
     "type": "manga",
     "original_name": "ふたり生徒会",
     "start_date": "2016-07-14",

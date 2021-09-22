@@ -1,5 +1,9 @@
 {
     "title": "Anata ni Ai no Kakuteru wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193054.jpg",
+        "alt": "anata-ni-ai-no-kakuteru-wo"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

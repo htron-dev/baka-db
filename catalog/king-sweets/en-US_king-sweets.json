@@ -1,5 +1,9 @@
 {
     "title": "King Sweets",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159825.jpg",
+        "alt": "king-sweets"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "キングスウヰーツ",

@@ -1,5 +1,9 @@
 {
     "title": "Hoero! Bun Bun (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/28907.jpg",
+        "alt": "hoero-bun-bun-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ほえろブンブン",

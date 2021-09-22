@@ -1,5 +1,9 @@
 {
     "title": "Tsumaranai Ninomiya-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164053.jpg",
+        "alt": "tsumaranai-ninomiya-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

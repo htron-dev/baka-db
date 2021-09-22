@@ -1,5 +1,9 @@
 {
     "title": "Kyoukenn・Kareshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/46899.jpg",
+        "alt": "kyoukenn・-kareshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Fantastic Cell",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1243/107968.jpg",
+        "alt": "fantastic-cell"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "FANTASTIC CELL",

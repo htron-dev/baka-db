@@ -1,5 +1,9 @@
 {
     "title": "Bluesteel Blasphemer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176152.jpg",
+        "alt": "bluesteel-blasphemer"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "20",

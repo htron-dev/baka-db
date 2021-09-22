@@ -1,5 +1,9 @@
 {
     "title": "Nightmare Express",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/144827.jpg",
+        "alt": "nightmare-express"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

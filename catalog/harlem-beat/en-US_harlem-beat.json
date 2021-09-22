@@ -1,5 +1,9 @@
 {
     "title": "Harlem Beat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/183416.jpg",
+        "alt": "harlem-beat"
+    },
     "type": "manga",
     "volumes": "29",
     "chapters": "247",

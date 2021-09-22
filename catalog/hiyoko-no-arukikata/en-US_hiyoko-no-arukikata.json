@@ -1,5 +1,9 @@
 {
     "title": "Hiyoko no Arukikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/81926.jpg",
+        "alt": "hiyoko-no-arukikata"
+    },
     "type": "manga",
     "original_name": "ヒヨコノアルキカタ",
     "start_date": "2012-06-06",

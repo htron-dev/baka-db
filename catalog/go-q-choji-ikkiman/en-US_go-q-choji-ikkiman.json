@@ -1,5 +1,9 @@
 {
     "title": "Go-Q-Choji Ikkiman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/63019.jpg",
+        "alt": "go-q-choji-ikkiman"
+    },
     "type": "tv-serie",
     "episodes": "32",
     "original_name": "剛 Q 超児イッキマン",

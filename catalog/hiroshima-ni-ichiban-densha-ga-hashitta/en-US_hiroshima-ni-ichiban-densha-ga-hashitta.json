@@ -1,5 +1,9 @@
 {
     "title": "Hiroshima ni Ichiban Densha ga Hashitta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/19457.jpg",
+        "alt": "hiroshima-ni-ichiban-densha-ga-hashitta"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ヒロシマに一番電車が走った",

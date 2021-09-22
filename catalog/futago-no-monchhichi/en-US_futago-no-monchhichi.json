@@ -1,5 +1,9 @@
 {
     "title": "Futago no Monchhichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/47049.jpg",
+        "alt": "futago-no-monchhichi"
+    },
     "type": "tv-serie",
     "episodes": "130",
     "original_name": "ふたごのモンチッチ",

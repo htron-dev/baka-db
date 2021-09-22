@@ -1,5 +1,9 @@
 {
     "title": "Ren Ai Cupid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/4054.jpg",
+        "alt": "ren-ai-cupid"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

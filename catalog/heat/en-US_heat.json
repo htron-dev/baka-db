@@ -1,5 +1,9 @@
 {
     "title": "Heat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30315.jpg",
+        "alt": "heat"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

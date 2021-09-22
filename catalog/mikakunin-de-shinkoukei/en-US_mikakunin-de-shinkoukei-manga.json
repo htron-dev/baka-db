@@ -1,5 +1,9 @@
 {
     "title": "Mikakunin de Shinkoukei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/35808.jpg",
+        "alt": "mikakunin-de-shinkoukei"
+    },
     "type": "manga",
     "original_name": "未確認で進行形",
     "start_date": "2009-04-22",

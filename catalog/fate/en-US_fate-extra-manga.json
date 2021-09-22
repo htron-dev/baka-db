@@ -1,5 +1,9 @@
 {
     "title": "Fate/Extra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/139337.jpg",
+        "alt": "fate-extra"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "41",

@@ -1,5 +1,9 @@
 {
     "title": "Rising!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/12996.jpg",
+        "alt": "rising"
+    },
     "type": "manga",
     "volumes": "15",
     "original_name": "ライジング!",

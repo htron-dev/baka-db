@@ -1,5 +1,9 @@
 {
     "title": "Uchuu de Ichiban Kimi ga Suki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/221610.jpg",
+        "alt": "uchuu-de-ichiban-kimi-ga-suki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

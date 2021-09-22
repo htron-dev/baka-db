@@ -1,5 +1,9 @@
 {
     "title": "Mukashi no Hanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/230314.jpg",
+        "alt": "mukashi-no-hanashi"
+    },
     "type": "manga",
     "original_name": "むかしのはなし",
     "start_date": "2020-05-08",

@@ -1,5 +1,9 @@
 {
     "title": "Chikyuu Hyoukai Jiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192244.jpg",
+        "alt": "chikyuu-hyoukai-jiki"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

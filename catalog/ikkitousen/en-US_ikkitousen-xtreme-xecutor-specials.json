@@ -1,8 +1,12 @@
 {
     "title": "Ikkitousen: Xtreme Xecutor Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/22814.jpg",
+        "alt": "ikkitousen-xtreme-xecutor-specials"
+    },
     "type": "special",
     "episodes": "6",
-    "original_name": "一騎当千",
+    "original_name": "一騎当千: Xtreme Xecutor",
     "start_date": "2010-06-25",
     "end_date": "2010-06-25",
     "rating": "R+ - Mild Nudity",

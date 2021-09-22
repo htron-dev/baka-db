@@ -1,5 +1,9 @@
 {
     "title": "Rokumon Tengai Mon Colle Knight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/3221.jpg",
+        "alt": "rokumon-tengai-mon-colle-knight"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

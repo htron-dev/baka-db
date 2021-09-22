@@ -1,5 +1,9 @@
 {
     "title": "Digimon X-Evolution",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/30284.jpg",
+        "alt": "digimon-x-evolution"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "デジタルモンスター ゼヴォリューション",

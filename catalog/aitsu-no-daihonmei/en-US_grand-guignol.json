@@ -1,5 +1,9 @@
 {
     "title": "Grand Guignol",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182951.jpg",
+        "alt": "grand-guignol"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

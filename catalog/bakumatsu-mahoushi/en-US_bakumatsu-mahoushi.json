@@ -1,5 +1,9 @@
 {
     "title": "Bakumatsu Mahoushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164410.jpg",
+        "alt": "bakumatsu-mahoushi"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "幕末魔法士",

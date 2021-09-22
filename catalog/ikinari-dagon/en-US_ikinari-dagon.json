@@ -1,12 +1,16 @@
 {
     "title": "Ikinari Dagon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/53245.jpg",
+        "alt": "ikinari-dagon"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "いきなりダゴン",
     "start_date": "1988-04-09",
     "end_date": "1988-04-09",
     "opening_song": "\"Ai Koso Hero (愛こそヒーロー)\" by Horie Mitsuko",
-    "ending_song": "\"Hello Goodbye",
+    "ending_song": "\"Hello Goodbye: Owaranai Parade (ハロー グッバイ~終わらないパレード~) by Horie Mitsuko",
     "rating": "PG - Children",
     "tags": [
         "adventure",

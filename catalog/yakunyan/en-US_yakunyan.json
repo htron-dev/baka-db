@@ -1,5 +1,9 @@
 {
     "title": "Yakunyan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171048.jpg",
+        "alt": "yakunyan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

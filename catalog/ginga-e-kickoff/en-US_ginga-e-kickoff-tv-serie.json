@@ -1,12 +1,16 @@
 {
     "title": "Ginga e Kickoff!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/61119.jpg",
+        "alt": "ginga-e-kickoff"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "銀河へキックオフ!!",
     "start_date": "2012-03-26",
     "end_date": "2012-03-26",
     "opening_song": "\"Across My World\" by Knotlamp",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ame Tokidoki Hare Nochi Niji (雨ときどき晴れのち虹)\" by Fudanjuku (eps 1-24, 39)",
     "rating": "PG - Children",
     "tags": [
         "sports",

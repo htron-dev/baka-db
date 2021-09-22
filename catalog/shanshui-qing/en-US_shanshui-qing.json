@@ -1,5 +1,9 @@
 {
     "title": "Shanshui Qing",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1647/92614.jpg",
+        "alt": "shanshui-qing"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "山水情",

@@ -1,12 +1,16 @@
 {
     "title": "Akaneiro ni Somaru Saka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/21525.jpg",
+        "alt": "akaneiro-ni-somaru-saka"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "あかね色に染まる坂",
     "start_date": "2008-10-03",
     "end_date": "2008-10-03",
     "opening_song": "\"Hatsukoi Parachute (初恋パラシュート)\" by Miyuki Hashimoto",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Sweet Gift\" by Kugimiya Rie (eps 1-2)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "harem",

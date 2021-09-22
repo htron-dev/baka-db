@@ -1,5 +1,9 @@
 {
     "title": "Higurashi no Naku Koro ni Gou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237112.jpg",
+        "alt": "higurashi-no-naku-koro-ni-gou"
+    },
     "type": "manga",
     "original_name": "ひぐらしのなく頃に 業",
     "start_date": "2020-10-02",

@@ -1,5 +1,9 @@
 {
     "title": "Nijiiro Ramen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/42796.jpg",
+        "alt": "nijiiro-ramen"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "160",

@@ -1,5 +1,9 @@
 {
     "title": "Deeps",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189422.jpg",
+        "alt": "deeps"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

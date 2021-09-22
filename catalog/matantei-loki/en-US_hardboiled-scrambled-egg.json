@@ -1,5 +1,9 @@
 {
     "title": "Hardboiled Scrambled Egg",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/23608.jpg",
+        "alt": "hardboiled-scrambled-egg"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "K: Days of Blue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/129641.jpg",
+        "alt": "k-days-of-blue"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

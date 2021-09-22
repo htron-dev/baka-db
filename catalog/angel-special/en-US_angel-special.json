@@ -1,5 +1,9 @@
 {
     "title": "Angel (Special)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/65735.jpg",
+        "alt": "angel-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "Angel",

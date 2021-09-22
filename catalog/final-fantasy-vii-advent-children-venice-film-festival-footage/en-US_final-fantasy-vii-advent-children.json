@@ -1,5 +1,9 @@
 {
     "title": "Final Fantasy VII: Advent Children",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/317.jpg",
+        "alt": "final-fantasy-vii-advent-children"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ファイナルファンタジー VII アドベントチルドレン",

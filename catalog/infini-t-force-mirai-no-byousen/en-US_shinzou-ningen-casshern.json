@@ -1,5 +1,9 @@
 {
     "title": "Shinzou Ningen Casshern",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/60395.jpg",
+        "alt": "shinzou-ningen-casshern"
+    },
     "type": "tv-serie",
     "episodes": "35",
     "original_name": "新造人間キャシャーン",

@@ -1,5 +1,9 @@
 {
     "title": "Nuresobotsu Kurokami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237395.jpg",
+        "alt": "nuresobotsu-kurokami"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

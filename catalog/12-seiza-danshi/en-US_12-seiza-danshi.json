@@ -1,5 +1,9 @@
 {
     "title": "12 Seiza Danshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208297.jpg",
+        "alt": "12-seiza-danshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

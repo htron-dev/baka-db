@@ -1,5 +1,9 @@
 {
     "title": "Ukkari Pénélope (2013)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/82030.jpg",
+        "alt": "ukkari-penelope-2013"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "うっかりペネロペ",
@@ -21,7 +25,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/ペネロペ_(絵本"
+            "link": "https://ja.wikipedia.org/wiki/ペネロペ_%28絵本%29"
         }
     ]
 }

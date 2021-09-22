@@ -1,5 +1,9 @@
 {
     "title": "Sasurai-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/67005.jpg",
+        "alt": "sasurai-kun"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "さすらいくん",

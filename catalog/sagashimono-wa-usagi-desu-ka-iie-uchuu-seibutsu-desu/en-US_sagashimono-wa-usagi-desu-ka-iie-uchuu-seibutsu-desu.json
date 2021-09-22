@@ -1,5 +1,9 @@
 {
     "title": "Sagashimono wa Usagi desu ka? Iie, Uchuu Seibutsu desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/140373.jpg",
+        "alt": "sagashimono-wa-usagi-desu-ka-iie-uchuu-seibutsu-desu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "探し物はウサギですか? いいえ、宇宙生物です",

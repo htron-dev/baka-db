@@ -1,5 +1,9 @@
 {
     "title": "Yasashii Ori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/7693.jpg",
+        "alt": "yasashii-ori"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "15",

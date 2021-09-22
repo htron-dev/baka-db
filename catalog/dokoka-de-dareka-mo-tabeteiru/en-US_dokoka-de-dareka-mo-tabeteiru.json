@@ -1,5 +1,9 @@
 {
     "title": "Dokoka de Dareka mo Tabeteiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227061.jpg",
+        "alt": "dokoka-de-dareka-mo-tabeteiru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "21",

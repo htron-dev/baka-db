@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Basara 3: Roar of Dragon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193160.jpg",
+        "alt": "sengoku-basara-3-roar-of-dragon"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

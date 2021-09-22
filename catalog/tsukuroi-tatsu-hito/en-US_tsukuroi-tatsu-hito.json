@@ -1,5 +1,9 @@
 {
     "title": "Tsukuroi Tatsu Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169509.jpg",
+        "alt": "tsukuroi-tatsu-hito"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "37",

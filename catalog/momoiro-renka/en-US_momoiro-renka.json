@@ -1,5 +1,9 @@
 {
     "title": "Momoiro Renka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/27623.jpg",
+        "alt": "momoiro-renka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

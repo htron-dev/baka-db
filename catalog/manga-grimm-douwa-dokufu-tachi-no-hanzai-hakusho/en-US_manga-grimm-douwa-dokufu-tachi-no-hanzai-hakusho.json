@@ -1,5 +1,9 @@
 {
     "title": "Manga Grimm Douwa: Dokufu-tachi no Hanzai Hakusho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/137413.jpg",
+        "alt": "manga-grimm-douwa-dokufu-tachi-no-hanzai-hakusho"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

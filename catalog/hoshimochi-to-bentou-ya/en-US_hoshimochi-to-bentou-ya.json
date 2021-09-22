@@ -1,5 +1,9 @@
 {
     "title": "Hoshimochi to Bentou-ya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152789.jpg",
+        "alt": "hoshimochi-to-bentou-ya"
+    },
     "type": "light-novel",
     "original_name": "星持ちと弁当屋",
     "start_date": "2014-11-20",

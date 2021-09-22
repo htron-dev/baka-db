@@ -1,5 +1,9 @@
 {
     "title": "Konoha ga Chiru Koro ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228959.jpg",
+        "alt": "konoha-ga-chiru-koro-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "木の葉が散るころに",

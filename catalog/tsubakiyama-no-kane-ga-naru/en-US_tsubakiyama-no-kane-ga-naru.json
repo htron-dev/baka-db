@@ -1,5 +1,9 @@
 {
     "title": "Tsubakiyama no Kane ga Naru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166016.jpg",
+        "alt": "tsubakiyama-no-kane-ga-naru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

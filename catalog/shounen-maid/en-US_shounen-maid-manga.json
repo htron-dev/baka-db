@@ -1,5 +1,9 @@
 {
     "title": "Shounen Maid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168245.jpg",
+        "alt": "shounen-maid"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "62",

@@ -1,5 +1,9 @@
 {
     "title": "AV na Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182638.jpg",
+        "alt": "av-na-kanojo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

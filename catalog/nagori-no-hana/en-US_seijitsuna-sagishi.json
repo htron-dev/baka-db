@@ -1,5 +1,9 @@
 {
     "title": "Seijitsuna Sagishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18730.jpg",
+        "alt": "seijitsuna-sagishi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Manga de Wakaru! Fate/Grand Order",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1830/98102.jpg",
+        "alt": "manga-de-wakaru-fate-grand-order"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "マンガで分かる！Fate/Grand Order",

@@ -1,5 +1,9 @@
 {
     "title": "Nobunaga-sensei no Osanazuma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203234.jpg",
+        "alt": "nobunaga-sensei-no-osanazuma"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "29",

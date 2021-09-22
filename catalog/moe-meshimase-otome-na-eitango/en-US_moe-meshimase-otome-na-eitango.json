@@ -1,5 +1,9 @@
 {
     "title": "MOE: Meshimase Otome na Eitango",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172369.jpg",
+        "alt": "moe-meshimase-otome-na-eitango"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "MOE―召喚しませ!おとめなえいたんご―",

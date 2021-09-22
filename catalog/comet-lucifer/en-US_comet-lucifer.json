@@ -1,12 +1,16 @@
 {
     "title": "Comet Lucifer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/76111.jpg",
+        "alt": "comet-lucifer"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "コメット・ルシファー",
     "start_date": "2015-10-04",
     "end_date": "2015-10-04",
-    "opening_song": "\"Comet Lucifer",
-    "ending_song": "#1",
+    "opening_song": "\"Comet Lucifer: The Seed and the Sower (コメットルシファー ～ The Seed and the Sower ～)\" by fhána",
+    "ending_song": "#1: \"Oshiete Blue Sky (おしえてブルースカイ)\" by Ayaka Ohashi (eps 1-4)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

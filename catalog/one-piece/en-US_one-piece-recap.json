@@ -1,5 +1,9 @@
 {
     "title": "One Piece Recap",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/20706.jpg",
+        "alt": "one-piece-recap"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ワンピース",

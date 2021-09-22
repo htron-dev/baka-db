@@ -1,5 +1,9 @@
 {
     "title": "Shitsuji wa Shujin ni Hizamazuku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/79673.jpg",
+        "alt": "shitsuji-wa-shujin-ni-hizamazuku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

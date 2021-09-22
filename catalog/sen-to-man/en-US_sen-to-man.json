@@ -1,5 +1,9 @@
 {
     "title": "Sen to Man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/188938.jpg",
+        "alt": "sen-to-man"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "33",

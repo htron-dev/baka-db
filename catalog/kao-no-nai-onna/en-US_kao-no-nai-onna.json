@@ -1,5 +1,9 @@
 {
     "title": "Kao no Nai Onna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234400.jpg",
+        "alt": "kao-no-nai-onna"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

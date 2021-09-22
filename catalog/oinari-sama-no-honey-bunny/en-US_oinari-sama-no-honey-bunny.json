@@ -1,5 +1,9 @@
 {
     "title": "Oinari-sama no Honey Bunny",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/95353.jpg",
+        "alt": "oinari-sama-no-honey-bunny"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

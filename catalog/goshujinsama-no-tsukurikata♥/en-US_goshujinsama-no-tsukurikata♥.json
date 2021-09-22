@@ -1,5 +1,9 @@
 {
     "title": "Goshujinsama no Tsukurikata♥",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/92227.jpg",
+        "alt": "goshujinsama-no-tsukurikata♥"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

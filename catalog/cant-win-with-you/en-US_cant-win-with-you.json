@@ -1,5 +1,9 @@
 {
     "title": "Can't Win With You!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/21392.jpg",
+        "alt": "cant-win-with-you"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

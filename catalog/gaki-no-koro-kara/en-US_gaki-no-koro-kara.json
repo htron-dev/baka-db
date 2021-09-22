@@ -1,5 +1,9 @@
 {
     "title": "Gaki no Koro kara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/82706.jpg",
+        "alt": "gaki-no-koro-kara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Acute",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166481.jpg",
+        "alt": "acute"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

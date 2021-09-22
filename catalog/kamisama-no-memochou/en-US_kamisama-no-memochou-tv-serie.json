@@ -1,12 +1,16 @@
 {
     "title": "Kamisama no Memochou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/75202.jpg",
+        "alt": "kamisama-no-memochou"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "神様のメモ帳",
     "start_date": "2011-07-02",
     "end_date": "2011-07-02",
     "opening_song": "\"Kawaru Mirai (カワルミライ)\" by Choucho",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Colorado Bulldog\" by Mr. Big (ep 1)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "mystery"

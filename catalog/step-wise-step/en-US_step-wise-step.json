@@ -1,5 +1,9 @@
 {
     "title": "Step Wise Step",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/241876.jpg",
+        "alt": "step-wise-step"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

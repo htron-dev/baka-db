@@ -1,5 +1,9 @@
 {
     "title": "Eiyuu! Caesar-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200255.jpg",
+        "alt": "eiyuu-caesar-san"
+    },
     "type": "manga",
     "original_name": "英雄！シーザーさん",
     "start_date": "2016-10-12",

@@ -1,5 +1,9 @@
 {
     "title": "Houkago Theater",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157272.jpg",
+        "alt": "houkago-theater"
+    },
     "type": "manga",
     "chapters": "7",
     "original_name": "放課後シアター",

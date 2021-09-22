@@ -1,5 +1,9 @@
 {
     "title": "Ai wo Utau yori Ore ni Oborero!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/7275.jpg",
+        "alt": "ai-wo-utau-yori-ore-ni-oborero"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "29",

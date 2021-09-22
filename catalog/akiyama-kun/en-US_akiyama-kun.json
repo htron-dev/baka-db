@@ -1,5 +1,9 @@
 {
     "title": "Akiyama-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/63705.jpg",
+        "alt": "akiyama-kun"
+    },
     "type": "manga",
     "original_name": "秋山くん",
     "start_date": "2009-09-24",

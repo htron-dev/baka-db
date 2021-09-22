@@ -1,5 +1,9 @@
 {
     "title": "Zero no Tsukaima Chevalier",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173857.jpg",
+        "alt": "zero-no-tsukaima-chevalier"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "27",

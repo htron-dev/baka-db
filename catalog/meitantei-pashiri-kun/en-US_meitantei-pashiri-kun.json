@@ -1,5 +1,9 @@
 {
     "title": "Meitantei Pashiri-kun!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170307.jpg",
+        "alt": "meitantei-pashiri-kun"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

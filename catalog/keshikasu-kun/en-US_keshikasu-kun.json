@@ -1,5 +1,9 @@
 {
     "title": "Keshikasu-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/21327.jpg",
+        "alt": "keshikasu-kun"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "ケシカスくん",

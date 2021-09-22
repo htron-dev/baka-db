@@ -1,12 +1,16 @@
 {
     "title": "Idol Project",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/2736.jpg",
+        "alt": "idol-project"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "アイドルプロジェクト",
     "start_date": "1995-09-22",
     "end_date": "1995-09-22",
     "opening_song": "\"Don't Stop! - Su-Te-Ki ni Meguri Aitai\" by Idol Project",
-    "ending_song": "#02",
+    "ending_song": "#02: \"Again\" by Ai Orikasa (ep 2)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

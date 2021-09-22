@@ -1,5 +1,9 @@
 {
     "title": "Shakotan★Boogie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173335.jpg",
+        "alt": "shakotan★-boogie"
+    },
     "type": "manga",
     "volumes": "32",
     "chapters": "144",

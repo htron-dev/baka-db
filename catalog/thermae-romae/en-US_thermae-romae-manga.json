@@ -1,5 +1,9 @@
 {
     "title": "Thermae Romae",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33016.jpg",
+        "alt": "thermae-romae"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "38",

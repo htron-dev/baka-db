@@ -1,5 +1,9 @@
 {
     "title": "Phantom Dead or Alive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185864.jpg",
+        "alt": "phantom-dead-or-alive"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "ファントム デッド オア アライブ",

@@ -1,12 +1,16 @@
 {
     "title": "Astro Boy: Tetsuwan Atom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1611/94026.jpg",
+        "alt": "astro-boy-tetsuwan-atom"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "アストロボーイ・鉄腕アトム",
     "start_date": "2003-04-06",
     "end_date": "2003-04-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"True Blue\" by Zone",
+    "ending_song": "#1: \"Boy's Heart\" by Fujii Fumiya",
     "rating": "G - All Ages",
     "tags": [
         "action",

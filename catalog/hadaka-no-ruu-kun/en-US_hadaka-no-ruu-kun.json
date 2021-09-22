@@ -1,5 +1,9 @@
 {
     "title": "Hadaka no Ruu-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234584.jpg",
+        "alt": "hadaka-no-ruu-kun"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "21",

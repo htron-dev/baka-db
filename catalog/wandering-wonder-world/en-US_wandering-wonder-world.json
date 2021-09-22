@@ -1,5 +1,9 @@
 {
     "title": "Wandering Wonder World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157407.jpg",
+        "alt": "wandering-wonder-world"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

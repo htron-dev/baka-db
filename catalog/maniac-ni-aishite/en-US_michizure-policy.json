@@ -1,5 +1,9 @@
 {
     "title": "Michizure Policy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30811.jpg",
+        "alt": "michizure-policy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Sono Koi, Jihanki de Kaemasu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244639.jpg",
+        "alt": "sono-koi-jihanki-de-kaemasu-ka"
+    },
     "type": "manga",
     "original_name": "その恋、自販機で買えますか？",
     "start_date": "2018-01-25",

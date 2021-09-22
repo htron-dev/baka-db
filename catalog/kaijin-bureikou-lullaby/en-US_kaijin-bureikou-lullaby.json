@@ -1,5 +1,9 @@
 {
     "title": "Kaijin Bureikou Lullaby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172098.jpg",
+        "alt": "kaijin-bureikou-lullaby"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "M no Retsujou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/169122.jpg",
+        "alt": "m-no-retsujou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

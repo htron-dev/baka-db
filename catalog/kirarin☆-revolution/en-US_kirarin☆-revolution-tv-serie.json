@@ -1,12 +1,16 @@
 {
     "title": "Kirarin☆Revolution",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1796/94726.jpg",
+        "alt": "kirarin☆-revolution"
+    },
     "type": "tv-serie",
     "episodes": "153",
     "original_name": "きらりん ☆ レボリューション",
     "start_date": "2006-04-07",
     "end_date": "2006-04-07",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: \"Koi☆Kana (恋 ☆ カナ)\" by Kirari Tsukishima starring Koharu Kusumi (eps 01-26)",
+    "ending_song": "#01: \"SUGAO-flavor (Genuine Flavor)\" by Kirari Tsukishima starring Koharu Kusumi (eps 01-17)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

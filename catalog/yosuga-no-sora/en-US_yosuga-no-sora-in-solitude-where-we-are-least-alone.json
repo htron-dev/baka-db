@@ -1,12 +1,16 @@
 {
     "title": "Yosuga no Sora: In Solitude, Where We Are Least Alone.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/76216.jpg",
+        "alt": "yosuga-no-sora-in-solitude-where-we-are-least-alone"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ヨスガノソラ In solitude, where we are least alone.",
     "start_date": "2010-10-04",
     "end_date": "2010-10-04",
     "opening_song": "\"Hiyoku no Hane\" (比翼の羽根) by eufonius",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Tsunagu Kizuna (ツナグキズナ)\" by Team.Nekokan [Neko] feat. Junca Amaoto (main ending)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "drama",

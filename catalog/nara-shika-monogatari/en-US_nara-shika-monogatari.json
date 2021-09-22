@@ -1,5 +1,9 @@
 {
     "title": "Nara Shika Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/40037.jpg",
+        "alt": "nara-shika-monogatari"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "奈良鹿物語",

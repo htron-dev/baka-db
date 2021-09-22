@@ -1,12 +1,16 @@
 {
     "title": "Digimon Savers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/20365.jpg",
+        "alt": "digimon-savers"
+    },
     "type": "tv-serie",
     "episodes": "48",
     "original_name": "デジモンセイバーズ",
     "start_date": "2006-04-02",
     "end_date": "2006-04-02",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"Gou'ing!Going!My Soul!!\" by DynamiteSHU (eps 1-29)",
+    "ending_song": "#01: \"One Star\" by Itou Yousuke (eps 1-24)",
     "rating": "PG - Children",
     "tags": [
         "adventure",

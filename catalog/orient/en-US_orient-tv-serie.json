@@ -1,5 +1,9 @@
 {
     "title": "Orient",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1011/116924.jpg",
+        "alt": "orient"
+    },
     "type": "tv-serie",
     "original_name": "オリエント",
     "rating": "None",
@@ -20,7 +24,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Orient_(manga"
+            "link": "https://en.wikipedia.org/wiki/Orient_%28manga%29#Anime"
         }
     ]
 }

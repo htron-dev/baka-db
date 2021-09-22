@@ -1,5 +1,9 @@
 {
     "title": "Ryuu no Gakkou wa Yama no Ue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/98813.jpg",
+        "alt": "ryuu-no-gakkou-wa-yama-no-ue"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

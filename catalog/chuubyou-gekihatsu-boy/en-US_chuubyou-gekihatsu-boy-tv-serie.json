@@ -1,5 +1,9 @@
 {
     "title": "Chuubyou Gekihatsu Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1715/111407.jpg",
+        "alt": "chuubyou-gekihatsu-boy"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "厨病激発ボーイ",

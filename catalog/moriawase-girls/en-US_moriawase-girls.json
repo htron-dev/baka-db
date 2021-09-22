@@ -1,5 +1,9 @@
 {
     "title": "Moriawase Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167638.jpg",
+        "alt": "moriawase-girls"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

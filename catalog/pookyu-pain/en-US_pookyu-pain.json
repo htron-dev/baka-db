@@ -1,5 +1,9 @@
 {
     "title": "Pookyu Pain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/46233.jpg",
+        "alt": "pookyu-pain"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ぽーきゅぱいん",

@@ -1,5 +1,9 @@
 {
     "title": "Yotsukoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/220696.jpg",
+        "alt": "yotsukoto"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "26",

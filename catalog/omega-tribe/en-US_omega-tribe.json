@@ -1,5 +1,9 @@
 {
     "title": "Omega Tribe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/75939.jpg",
+        "alt": "omega-tribe"
+    },
     "type": "manga",
     "volumes": "14",
     "original_name": "オメガトライブ",

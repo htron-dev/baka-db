@@ -1,5 +1,9 @@
 {
     "title": "Gunnm: Kasei Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/157417.jpg",
+        "alt": "gunnm-kasei-senki"
+    },
     "type": "manga",
     "original_name": "銃夢火星戦記",
     "start_date": "2014-10-28",

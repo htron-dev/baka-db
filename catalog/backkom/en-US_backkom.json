@@ -1,5 +1,9 @@
 {
     "title": "Backkom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/65879.jpg",
+        "alt": "backkom"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "빼꼼",
@@ -20,7 +24,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Bernard_(TV_shorts"
+            "link": "http://en.wikipedia.org/wiki/Bernard_%28TV_shorts%29"
         }
     ]
 }

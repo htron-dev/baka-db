@@ -1,5 +1,9 @@
 {
     "title": "Sabikui Bisco",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1833/113296.jpg",
+        "alt": "sabikui-bisco"
+    },
     "type": "tv-serie",
     "original_name": "錆喰いビスコ",
     "rating": "None",

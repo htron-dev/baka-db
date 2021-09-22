@@ -1,5 +1,9 @@
 {
     "title": "Love Rush!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/187111.jpg",
+        "alt": "love-rush"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

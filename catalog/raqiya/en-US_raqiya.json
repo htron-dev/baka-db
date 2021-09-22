@@ -1,5 +1,9 @@
 {
     "title": "Raqiya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22980.jpg",
+        "alt": "raqiya"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "50",

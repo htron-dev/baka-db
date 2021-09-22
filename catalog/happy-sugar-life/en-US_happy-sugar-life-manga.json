@@ -1,5 +1,9 @@
 {
     "title": "Happy Sugar Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165713.jpg",
+        "alt": "happy-sugar-life"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "53",

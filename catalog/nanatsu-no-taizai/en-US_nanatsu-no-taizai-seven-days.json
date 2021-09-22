@@ -1,5 +1,9 @@
 {
     "title": "Nanatsu no Taizai: Seven Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/189153.jpg",
+        "alt": "nanatsu-no-taizai-seven-days"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

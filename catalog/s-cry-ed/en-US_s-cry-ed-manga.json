@@ -1,5 +1,9 @@
 {
     "title": "s.CRY.ed",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/56325.jpg",
+        "alt": "s-cry-ed"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "45",

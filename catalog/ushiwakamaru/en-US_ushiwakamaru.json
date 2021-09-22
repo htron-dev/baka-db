@@ -1,5 +1,9 @@
 {
     "title": "Ushiwakamaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1355/98644.jpg",
+        "alt": "ushiwakamaru"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "うしわかまる",

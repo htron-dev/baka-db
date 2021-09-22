@@ -1,5 +1,9 @@
 {
     "title": "Haritoge Clemmie to Ou no Ie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222002.jpg",
+        "alt": "haritoge-clemmie-to-ou-no-ie"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "30",

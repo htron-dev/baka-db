@@ -1,5 +1,9 @@
 {
     "title": "GT-R",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/82436.jpg",
+        "alt": "gt-r"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

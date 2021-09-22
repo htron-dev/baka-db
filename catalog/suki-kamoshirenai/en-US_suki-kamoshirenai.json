@@ -1,5 +1,9 @@
 {
     "title": "Suki Kamoshirenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2214.jpg",
+        "alt": "suki-kamoshirenai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

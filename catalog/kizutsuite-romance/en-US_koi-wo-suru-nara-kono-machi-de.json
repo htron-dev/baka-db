@@ -1,5 +1,9 @@
 {
     "title": "Koi wo Suru nara Kono Machi de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/87545.jpg",
+        "alt": "koi-wo-suru-nara-kono-machi-de"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

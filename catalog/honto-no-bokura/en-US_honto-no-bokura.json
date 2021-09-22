@@ -1,5 +1,9 @@
 {
     "title": "Honto no Bokura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221102.jpg",
+        "alt": "honto-no-bokura"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

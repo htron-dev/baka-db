@@ -1,5 +1,9 @@
 {
     "title": "Inugami Mokkosu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194507.jpg",
+        "alt": "inugami-mokkosu"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "43",

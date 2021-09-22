@@ -1,5 +1,9 @@
 {
     "title": "Kaijuu 8-gou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237941.jpg",
+        "alt": "kaijuu-8-gou"
+    },
     "type": "manga",
     "original_name": "怪獣 8 号",
     "start_date": "2020-07-03",

@@ -1,5 +1,9 @@
 {
     "title": "Pure Trance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/1171.jpg",
+        "alt": "pure-trance"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

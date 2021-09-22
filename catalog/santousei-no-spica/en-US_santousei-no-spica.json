@@ -1,5 +1,9 @@
 {
     "title": "Santousei no Spica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205858.jpg",
+        "alt": "santousei-no-spica"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "31",

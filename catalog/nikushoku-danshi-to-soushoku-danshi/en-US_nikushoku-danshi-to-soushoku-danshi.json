@@ -1,5 +1,9 @@
 {
     "title": "Nikushoku Danshi to Soushoku Danshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179174.jpg",
+        "alt": "nikushoku-danshi-to-soushoku-danshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

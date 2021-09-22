@@ -1,5 +1,9 @@
 {
     "title": "Masochistic Ecstasy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160795.jpg",
+        "alt": "masochistic-ecstasy"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "22",

@@ -1,5 +1,9 @@
 {
     "title": "Lunar 2: Eternal Blue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178536.jpg",
+        "alt": "lunar-2-eternal-blue"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

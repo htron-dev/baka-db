@@ -1,5 +1,9 @@
 {
     "title": "Shishunki Cherry Bullet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/245419.jpg",
+        "alt": "shishunki-cherry-bullet"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

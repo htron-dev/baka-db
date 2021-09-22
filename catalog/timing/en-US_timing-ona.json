@@ -1,5 +1,9 @@
 {
     "title": "Timing",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/26766.jpg",
+        "alt": "timing"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "TIMING",

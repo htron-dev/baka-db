@@ -1,5 +1,9 @@
 {
     "title": "Sakiccho dake demo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40529.jpg",
+        "alt": "sakiccho-dake-demo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

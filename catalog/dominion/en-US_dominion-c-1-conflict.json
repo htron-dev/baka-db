@@ -1,9 +1,13 @@
 {
     "title": "Dominion C1 Conflict",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167653.jpg",
+        "alt": "dominion-c-1-conflict"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",
-    "original_name": "ドミニオンC1コンフリクト",
+    "original_name": "ドミニオン C1 コンフリクト",
     "start_date": "1992-01-19",
     "tags": [
         "action",

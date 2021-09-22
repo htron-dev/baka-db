@@ -1,5 +1,9 @@
 {
     "title": "Glass Goshi no Kioku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/64849.jpg",
+        "alt": "glass-goshi-no-kioku"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ガラス越しの記憶",

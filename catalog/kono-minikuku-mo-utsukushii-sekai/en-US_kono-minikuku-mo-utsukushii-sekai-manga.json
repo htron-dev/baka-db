@@ -1,5 +1,9 @@
 {
     "title": "Kono Minikuku mo Utsukushii Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179035.jpg",
+        "alt": "kono-minikuku-mo-utsukushii-sekai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

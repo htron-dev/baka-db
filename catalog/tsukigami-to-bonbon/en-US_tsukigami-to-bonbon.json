@@ -1,5 +1,9 @@
 {
     "title": "Tsukigami to Bonbon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223938.jpg",
+        "alt": "tsukigami-to-bonbon"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

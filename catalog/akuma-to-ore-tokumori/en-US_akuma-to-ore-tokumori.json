@@ -1,5 +1,9 @@
 {
     "title": "Akuma to Ore: Tokumori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178219.jpg",
+        "alt": "akuma-to-ore-tokumori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

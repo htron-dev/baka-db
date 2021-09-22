@@ -1,5 +1,9 @@
 {
     "title": "Glass no Kamen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/1425.jpg",
+        "alt": "glass-no-kamen"
+    },
     "type": "manga",
     "original_name": "ガラスの仮面",
     "start_date": "1976-01-19",

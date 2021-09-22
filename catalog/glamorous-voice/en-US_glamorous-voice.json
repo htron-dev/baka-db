@@ -1,5 +1,9 @@
 {
     "title": "Glamorous Voice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168079.jpg",
+        "alt": "glamorous-voice"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "共鳴―グラマラス・ヴォイス―",

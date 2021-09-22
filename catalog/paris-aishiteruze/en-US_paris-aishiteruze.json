@@ -1,5 +1,9 @@
 {
     "title": "Paris Aishiteruze~",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/183850.jpg",
+        "alt": "paris-aishiteruze"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "パリ愛してるぜ～",

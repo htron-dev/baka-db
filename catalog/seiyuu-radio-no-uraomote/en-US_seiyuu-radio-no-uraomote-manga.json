@@ -1,5 +1,9 @@
 {
     "title": "Seiyuu Radio no Uraomote",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237108.jpg",
+        "alt": "seiyuu-radio-no-uraomote"
+    },
     "type": "manga",
     "original_name": "声優ラジオのウラオモテ",
     "start_date": "2020-03-27",

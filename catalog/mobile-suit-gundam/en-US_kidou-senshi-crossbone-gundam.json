@@ -1,5 +1,9 @@
 {
     "title": "Kidou Senshi Crossbone Gundam",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157503.jpg",
+        "alt": "kidou-senshi-crossbone-gundam"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "27",

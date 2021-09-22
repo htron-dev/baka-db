@@ -1,5 +1,9 @@
 {
     "title": "Shikabana: Hana, Shitai, Koto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227298.jpg",
+        "alt": "shikabana-hana-shitai-koto"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "30",

@@ -1,5 +1,9 @@
 {
     "title": "Switch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/26316.jpg",
+        "alt": "switch"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "スイッチ",

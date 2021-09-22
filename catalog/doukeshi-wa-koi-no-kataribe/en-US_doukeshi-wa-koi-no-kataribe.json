@@ -1,5 +1,9 @@
 {
     "title": "Doukeshi wa Koi no Kataribe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/126287.jpg",
+        "alt": "doukeshi-wa-koi-no-kataribe"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "道化師は恋の語りべ",

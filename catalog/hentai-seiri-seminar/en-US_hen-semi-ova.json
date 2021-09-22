@@ -1,5 +1,9 @@
 {
     "title": "HenSemi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/24971.jpg",
+        "alt": "hen-semi"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "変ゼミ",

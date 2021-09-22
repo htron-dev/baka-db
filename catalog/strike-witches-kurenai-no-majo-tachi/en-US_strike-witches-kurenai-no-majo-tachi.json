@@ -1,5 +1,9 @@
 {
     "title": "Strike Witches: Kurenai no Majo-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/139511.jpg",
+        "alt": "strike-witches-kurenai-no-majo-tachi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

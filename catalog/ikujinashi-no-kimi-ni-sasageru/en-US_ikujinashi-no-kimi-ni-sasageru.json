@@ -1,5 +1,9 @@
 {
     "title": "Ikujinashi no Kimi ni Sasageru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162564.jpg",
+        "alt": "ikujinashi-no-kimi-ni-sasageru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

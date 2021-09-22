@@ -1,12 +1,16 @@
 {
     "title": "Tsukipro The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/88060.jpg",
+        "alt": "tsukipro-the-animation"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "TSUKIPRO THE ANIMATION",
     "start_date": "2017-10-04",
     "end_date": "2017-10-04",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: \"Burny!!!\" by SolidS (eps 1, 5, 9)",
+    "ending_song": "#01: \"Ouka Ranman (桜花爛漫)\" by SolidS",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music"

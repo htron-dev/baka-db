@@ -1,5 +1,9 @@
 {
     "title": "Life x 01",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222024.jpg",
+        "alt": "life-x-01"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

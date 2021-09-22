@@ -1,5 +1,9 @@
 {
     "title": "R.O.D: Read or Dream",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178270.jpg",
+        "alt": "r-o-d-read-or-dream"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "32",

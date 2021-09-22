@@ -1,5 +1,9 @@
 {
     "title": "Akane no Hane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194900.jpg",
+        "alt": "akane-no-hane"
+    },
     "type": "manga",
     "original_name": "あかねのハネ",
     "start_date": "2016-06-07",

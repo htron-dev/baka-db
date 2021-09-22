@@ -1,5 +1,9 @@
 {
     "title": "Guru Guru Pon-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5416.jpg",
+        "alt": "guru-guru-pon-chan"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "37",

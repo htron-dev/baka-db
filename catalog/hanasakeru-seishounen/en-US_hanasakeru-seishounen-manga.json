@@ -1,5 +1,9 @@
 {
     "title": "Hanasakeru Seishounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7497.jpg",
+        "alt": "hanasakeru-seishounen"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "花咲ける青少年",

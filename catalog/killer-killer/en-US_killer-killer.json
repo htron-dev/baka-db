@@ -1,5 +1,9 @@
 {
     "title": "Killer Killer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224516.jpg",
+        "alt": "killer-killer"
+    },
     "type": "manga",
     "original_name": "キラーキラー",
     "start_date": "2016-12-24",

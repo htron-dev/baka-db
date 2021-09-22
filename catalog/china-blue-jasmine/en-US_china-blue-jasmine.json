@@ -1,5 +1,9 @@
 {
     "title": "China Blue Jasmine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/156342.jpg",
+        "alt": "china-blue-jasmine"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

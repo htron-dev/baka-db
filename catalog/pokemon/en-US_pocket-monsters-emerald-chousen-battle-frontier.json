@@ -1,5 +1,9 @@
 {
     "title": "Pocket Monsters Emerald: Chousen!! Battle Frontier",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36376.jpg",
+        "alt": "pocket-monsters-emerald-chousen-battle-frontier"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

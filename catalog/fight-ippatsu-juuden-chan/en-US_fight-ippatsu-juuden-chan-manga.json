@@ -1,5 +1,9 @@
 {
     "title": "Fight Ippatsu! Juuden-chan!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/122303.jpg",
+        "alt": "fight-ippatsu-juuden-chan"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "74",

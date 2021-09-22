@@ -1,5 +1,9 @@
 {
     "title": "Schoolmate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190137.jpg",
+        "alt": "schoolmate"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "37",

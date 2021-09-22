@@ -1,5 +1,9 @@
 {
     "title": "Kachou Reijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/35980.jpg",
+        "alt": "kachou-reijou"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "課長令嬢",

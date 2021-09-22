@@ -1,5 +1,9 @@
 {
     "title": "Ookami Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235505.jpg",
+        "alt": "ookami-game"
+    },
     "type": "manga",
     "original_name": "狼ゲーム",
     "start_date": "2020-02-15",

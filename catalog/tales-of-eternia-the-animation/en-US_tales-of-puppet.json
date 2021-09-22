@@ -1,5 +1,9 @@
 {
     "title": "Tales of Puppet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1534/93342.jpg",
+        "alt": "tales-of-puppet"
+    },
     "type": "ona",
     "episodes": "16",
     "original_name": "TALES OF パペット",

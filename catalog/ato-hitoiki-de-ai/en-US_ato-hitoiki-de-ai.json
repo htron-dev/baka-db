@@ -1,5 +1,9 @@
 {
     "title": "Ato Hitoiki de Ai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/100623.jpg",
+        "alt": "ato-hitoiki-de-ai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Santa Company",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/44195.jpg",
+        "alt": "santa-company"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "サンタ・カンパニー",

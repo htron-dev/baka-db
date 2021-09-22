@@ -1,5 +1,9 @@
 {
     "title": "Koibito wa Sweet Rabbit",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/130197.jpg",
+        "alt": "koibito-wa-sweet-rabbit"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

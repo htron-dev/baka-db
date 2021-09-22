@@ -1,5 +1,9 @@
 {
     "title": "Uchuu Kaizoku Captain Herlock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1362/90305.jpg",
+        "alt": "uchuu-kaizoku-captain-herlock"
+    },
     "type": "tv-serie",
     "episodes": "42",
     "original_name": "宇宙海賊・キャプテンハーロック",

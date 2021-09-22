@@ -1,5 +1,9 @@
 {
     "title": "Le Chevalier D'Eon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/74930.jpg",
+        "alt": "le-chevalier-d-eon"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "シュヴァリエ Le Chevalier D'Eon",

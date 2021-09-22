@@ -1,5 +1,9 @@
 {
     "title": "Koi no Hanashi ga Shitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/25708.jpg",
+        "alt": "koi-no-hanashi-ga-shitai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

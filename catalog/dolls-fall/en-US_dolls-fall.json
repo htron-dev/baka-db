@@ -1,5 +1,9 @@
 {
     "title": "Dolls Fall",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/115553.jpg",
+        "alt": "dolls-fall"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

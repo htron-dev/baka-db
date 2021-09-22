@@ -1,5 +1,9 @@
 {
     "title": "Neo Angelique Abyss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/20960.jpg",
+        "alt": "neo-angelique-abyss"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ネオアンジェリーク Abyss",

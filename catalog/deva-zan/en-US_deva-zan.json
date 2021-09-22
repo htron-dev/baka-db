@@ -1,5 +1,9 @@
 {
     "title": "Deva Zan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/29286.jpg",
+        "alt": "deva-zan"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "DEVA ZAN",

@@ -1,5 +1,9 @@
 {
     "title": "Hakuginhi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/134911.jpg",
+        "alt": "hakuginhi"
+    },
     "type": "manga",
     "original_name": "白銀妃",
     "start_date": "2013-10-15",

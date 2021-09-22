@@ -1,5 +1,9 @@
 {
     "title": "Build King",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/242920.jpg",
+        "alt": "build-king"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "BUILD KING",

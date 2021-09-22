@@ -1,5 +1,9 @@
 {
     "title": "Yu☆Gi☆Oh! Arc-V",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176014.jpg",
+        "alt": "yu☆-gi☆-oh-arc-v"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "45",

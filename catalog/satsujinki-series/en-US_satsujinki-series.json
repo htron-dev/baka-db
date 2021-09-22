@@ -1,5 +1,9 @@
 {
     "title": "Satsujinki Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161313.jpg",
+        "alt": "satsujinki-series"
+    },
     "type": "light-novel",
     "chapters": "2",
     "original_name": "殺人鬼シリーズ",

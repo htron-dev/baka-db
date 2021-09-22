@@ -1,5 +1,9 @@
 {
     "title": "Yami wa Tsudou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/183127.jpg",
+        "alt": "yami-wa-tsudou"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "闇は集う",

@@ -1,5 +1,9 @@
 {
     "title": "Battle Royale: Tenshi-tachi no Kokkyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/106899.jpg",
+        "alt": "battle-royale-tenshi-tachi-no-kokkyou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

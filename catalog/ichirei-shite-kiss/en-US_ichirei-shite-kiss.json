@@ -1,5 +1,9 @@
 {
     "title": "Ichirei shite, Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/92489.jpg",
+        "alt": "ichirei-shite-kiss"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "34",

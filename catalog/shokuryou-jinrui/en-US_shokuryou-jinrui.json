@@ -1,5 +1,9 @@
 {
     "title": "Shokuryou Jinrui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193329.jpg",
+        "alt": "shokuryou-jinrui"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "64",

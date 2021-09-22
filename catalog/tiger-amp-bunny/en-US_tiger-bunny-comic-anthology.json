@@ -1,5 +1,9 @@
 {
     "title": "Tiger & Bunny Comic Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176448.jpg",
+        "alt": "tiger-bunny-comic-anthology"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "TIGER & BUNNY コミックアンソロジー",

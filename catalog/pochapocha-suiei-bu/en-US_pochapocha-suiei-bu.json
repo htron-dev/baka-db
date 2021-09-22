@@ -1,5 +1,9 @@
 {
     "title": "Pochapocha Suiei-bu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/150555.jpg",
+        "alt": "pochapocha-suiei-bu"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "ぽちゃぽちゃ水泳部",

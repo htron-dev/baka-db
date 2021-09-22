@@ -1,5 +1,9 @@
 {
     "title": "Zettai☆Idol",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/169656.jpg",
+        "alt": "zettai☆-idol"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Ezaki-ke e Youkoso",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180075.jpg",
+        "alt": "ezaki-ke-e-youkoso"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

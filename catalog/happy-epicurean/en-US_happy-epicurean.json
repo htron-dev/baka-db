@@ -1,5 +1,9 @@
 {
     "title": "Happy Epicurean",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/31722.jpg",
+        "alt": "happy-epicurean"
+    },
     "type": "manhwa",
     "volumes": "1",
     "original_name": "행복한 미식가",

@@ -1,5 +1,9 @@
 {
     "title": "Karera wa Yoru ka Ame no Naka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/81912.jpg",
+        "alt": "karera-wa-yoru-ka-ame-no-naka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

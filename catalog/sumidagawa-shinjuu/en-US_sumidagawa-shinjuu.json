@@ -1,5 +1,9 @@
 {
     "title": "Sumidagawa Shinjuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/52237.jpg",
+        "alt": "sumidagawa-shinjuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

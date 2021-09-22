@@ -1,5 +1,9 @@
 {
     "title": "Nijihama Love Story",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174572.jpg",
+        "alt": "nijihama-love-story"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "36",

@@ -1,5 +1,9 @@
 {
     "title": "Ashita no 3600-byou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164937.jpg",
+        "alt": "ashita-no-3600-byou"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "19",

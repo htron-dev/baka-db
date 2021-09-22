@@ -1,5 +1,9 @@
 {
     "title": "Shushou!! Chiinke Wakami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200409.jpg",
+        "alt": "shushou-chiinke-wakami"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "88",

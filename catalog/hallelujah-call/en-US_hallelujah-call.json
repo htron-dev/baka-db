@@ -1,5 +1,9 @@
 {
     "title": "Hallelujah Call",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18401.jpg",
+        "alt": "hallelujah-call"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

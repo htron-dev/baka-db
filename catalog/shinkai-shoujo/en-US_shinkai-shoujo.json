@@ -1,5 +1,9 @@
 {
     "title": "Shinkai Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/233525.jpg",
+        "alt": "shinkai-shoujo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

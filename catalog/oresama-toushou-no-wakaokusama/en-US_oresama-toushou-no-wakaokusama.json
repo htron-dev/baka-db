@@ -1,5 +1,9 @@
 {
     "title": "Oresama Toushou no Wakaokusama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192226.jpg",
+        "alt": "oresama-toushou-no-wakaokusama"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

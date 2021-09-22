@@ -1,5 +1,9 @@
 {
     "title": "Oneesan no Shokutaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149162.jpg",
+        "alt": "oneesan-no-shokutaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

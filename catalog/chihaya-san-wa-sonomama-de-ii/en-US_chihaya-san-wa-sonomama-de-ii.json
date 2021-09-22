@@ -1,5 +1,9 @@
 {
     "title": "Chihaya-san wa Sonomama de Ii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171211.jpg",
+        "alt": "chihaya-san-wa-sonomama-de-ii"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "71",

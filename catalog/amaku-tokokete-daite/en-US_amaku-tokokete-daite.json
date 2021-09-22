@@ -1,5 +1,9 @@
 {
     "title": "Amaku Tokokete Daite.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10939.jpg",
+        "alt": "amaku-tokokete-daite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

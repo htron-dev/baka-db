@@ -1,5 +1,9 @@
 {
     "title": "Seifuku no Binetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/96381.jpg",
+        "alt": "seifuku-no-binetsu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

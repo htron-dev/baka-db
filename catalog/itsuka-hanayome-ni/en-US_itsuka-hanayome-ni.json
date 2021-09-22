@@ -1,5 +1,9 @@
 {
     "title": "Itsuka Hanayome ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30215.jpg",
+        "alt": "itsuka-hanayome-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "いつか花嫁に",

@@ -1,5 +1,9 @@
 {
     "title": "Bucchigiri Cabin Attendant",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/35943.jpg",
+        "alt": "bucchigiri-cabin-attendant"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "42",

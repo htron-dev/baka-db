@@ -1,5 +1,9 @@
 {
     "title": "Mind Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1861/112656.jpg",
+        "alt": "mind-game"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "マインド・ゲーム",

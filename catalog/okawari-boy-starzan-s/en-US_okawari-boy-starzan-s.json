@@ -1,12 +1,16 @@
 {
     "title": "Okawari-Boy Starzan-S",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/86055.jpg",
+        "alt": "okawari-boy-starzan-s"
+    },
     "type": "tv-serie",
     "episodes": "34",
     "original_name": "OKAWARI-BOY スターザン S",
     "start_date": "1984-01-07",
     "end_date": "1984-01-07",
     "opening_song": "\"Show Me Your Space ~ Kimi no Uchuu wo Misete ~\" by Poplar",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Koisuru Kimochi wa Doughnuts no Naka (恋する気持ちはドーナツの中)\" by Takano Ai (eps 1-33)",
     "rating": "G - All Ages",
     "tags": [
         "action",

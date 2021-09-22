@@ -1,5 +1,9 @@
 {
     "title": "Planet Blood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/676.jpg",
+        "alt": "planet-blood"
+    },
     "type": "manhwa",
     "volumes": "10",
     "tags": [

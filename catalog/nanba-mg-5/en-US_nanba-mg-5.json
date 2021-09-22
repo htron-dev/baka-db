@@ -1,5 +1,9 @@
 {
     "title": "Nanba MG5",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/143649.jpg",
+        "alt": "nanba-mg-5"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "160",

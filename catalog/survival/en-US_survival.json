@@ -1,5 +1,9 @@
 {
     "title": "Survival",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193081.jpg",
+        "alt": "survival"
+    },
     "type": "manga",
     "volumes": "22",
     "chapters": "119",

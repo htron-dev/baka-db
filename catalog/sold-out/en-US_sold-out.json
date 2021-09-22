@@ -1,5 +1,9 @@
 {
     "title": "SOLD OUT!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/4800.jpg",
+        "alt": "sold-out"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

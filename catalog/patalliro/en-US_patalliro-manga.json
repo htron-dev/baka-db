@@ -1,5 +1,9 @@
 {
     "title": "Patalliro!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11481.jpg",
+        "alt": "patalliro"
+    },
     "type": "manga",
     "original_name": "パタリロ!",
     "start_date": "1979-11-19",

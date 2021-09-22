@@ -1,5 +1,9 @@
 {
     "title": "Junk Force",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/3825.jpg",
+        "alt": "junk-force"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

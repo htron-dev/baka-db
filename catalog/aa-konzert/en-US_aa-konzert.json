@@ -1,5 +1,9 @@
 {
     "title": "AA Konzert",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/131355.jpg",
+        "alt": "aa-konzert"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "AA コンツェルト",

@@ -1,5 +1,9 @@
 {
     "title": "Honnou Honey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/57391.jpg",
+        "alt": "honnou-honey"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

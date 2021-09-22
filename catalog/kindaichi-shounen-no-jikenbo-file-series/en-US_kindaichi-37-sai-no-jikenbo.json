@@ -1,7 +1,11 @@
 {
     "title": "Kindaichi 37-sai no Jikenbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210476.jpg",
+        "alt": "kindaichi-37-sai-no-jikenbo"
+    },
     "type": "manga",
-    "original_name": "金田一37歳の事件簿",
+    "original_name": "金田一 37 歳の事件簿",
     "start_date": "2018-01-23",
     "tags": [
         "mystery",

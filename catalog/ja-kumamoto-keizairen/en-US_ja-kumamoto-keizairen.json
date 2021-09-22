@@ -1,5 +1,9 @@
 {
     "title": "JA Kumamoto Keizairen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/81646.jpg",
+        "alt": "ja-kumamoto-keizairen"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "JA 熊本経済連",

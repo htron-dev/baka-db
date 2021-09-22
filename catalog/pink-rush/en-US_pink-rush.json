@@ -1,5 +1,9 @@
 {
     "title": "Pink Rush",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156114.jpg",
+        "alt": "pink-rush"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Cobra: Blue Rose",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204419.jpg",
+        "alt": "cobra-blue-rose"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

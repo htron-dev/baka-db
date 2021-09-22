@@ -1,5 +1,9 @@
 {
     "title": "Chibi Revenger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1975/114442.jpg",
+        "alt": "chibi-revenger"
+    },
     "type": "ona",
     "original_name": "ちびりべ",
     "start_date": "2021-04-12",

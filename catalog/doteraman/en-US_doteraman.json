@@ -1,5 +1,9 @@
 {
     "title": "Doteraman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/53523.jpg",
+        "alt": "doteraman"
+    },
     "type": "tv-serie",
     "episodes": "20",
     "original_name": "ドテラマン",

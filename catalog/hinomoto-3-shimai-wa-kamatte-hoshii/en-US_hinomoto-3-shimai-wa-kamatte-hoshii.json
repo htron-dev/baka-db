@@ -1,5 +1,9 @@
 {
     "title": "Hinomoto 3-shimai wa Kamatte Hoshii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223941.jpg",
+        "alt": "hinomoto-3-shimai-wa-kamatte-hoshii"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "30",

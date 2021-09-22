@@ -1,5 +1,9 @@
 {
     "title": "Kyoui Touma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215449.jpg",
+        "alt": "kyoui-touma"
+    },
     "type": "manga",
     "original_name": "侠医冬馬",
     "start_date": "2018-07-04",

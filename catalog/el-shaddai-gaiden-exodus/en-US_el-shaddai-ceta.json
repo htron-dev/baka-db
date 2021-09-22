@@ -1,5 +1,9 @@
 {
     "title": "El Shaddai Ceta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190881.jpg",
+        "alt": "el-shaddai-ceta"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

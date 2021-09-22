@@ -1,5 +1,9 @@
 {
     "title": "Chirori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222072.jpg",
+        "alt": "chirori"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "56",

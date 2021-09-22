@@ -1,5 +1,9 @@
 {
     "title": "Higurashi no Naku Koro ni: Hirukowashi-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/38618.jpg",
+        "alt": "higurashi-no-naku-koro-ni-hirukowashi-hen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

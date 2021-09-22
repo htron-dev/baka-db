@@ -1,5 +1,9 @@
 {
     "title": "Whip Note",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/99789.jpg",
+        "alt": "whip-note"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ホイップノート",

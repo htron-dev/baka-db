@@ -1,5 +1,9 @@
 {
     "title": "Boku no Futatsu no Tsubasa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/826.jpg",
+        "alt": "boku-no-futatsu-no-tsubasa"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "37",

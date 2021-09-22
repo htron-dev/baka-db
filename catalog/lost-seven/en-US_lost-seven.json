@@ -1,5 +1,9 @@
 {
     "title": "Lost Seven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18629.jpg",
+        "alt": "lost-seven"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

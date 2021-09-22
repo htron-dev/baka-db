@@ -1,5 +1,9 @@
 {
     "title": "Shiawase no Kanzume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22633.jpg",
+        "alt": "shiawase-no-kanzume"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

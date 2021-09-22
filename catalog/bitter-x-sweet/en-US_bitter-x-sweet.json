@@ -1,5 +1,9 @@
 {
     "title": "Bitter x Sweet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/155794.jpg",
+        "alt": "bitter-x-sweet"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

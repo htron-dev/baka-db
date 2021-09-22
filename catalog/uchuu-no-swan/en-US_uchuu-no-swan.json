@@ -1,5 +1,9 @@
 {
     "title": "Uchuu no Swan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/34360.jpg",
+        "alt": "uchuu-no-swan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

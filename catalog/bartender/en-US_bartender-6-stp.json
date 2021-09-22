@@ -1,5 +1,9 @@
 {
     "title": "Bartender 6stp",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215962.jpg",
+        "alt": "bartender-6-stp"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

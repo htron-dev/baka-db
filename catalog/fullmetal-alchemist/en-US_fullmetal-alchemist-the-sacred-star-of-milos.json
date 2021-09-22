@@ -1,5 +1,9 @@
 {
     "title": "Fullmetal Alchemist: The Sacred Star of Milos",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/29550.jpg",
+        "alt": "fullmetal-alchemist-the-sacred-star-of-milos"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 鋼の錬金術師 嘆きの丘(ミロス)の聖なる星",

@@ -1,5 +1,9 @@
 {
     "title": "Koutetsu no Quadriga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162002.jpg",
+        "alt": "koutetsu-no-quadriga"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

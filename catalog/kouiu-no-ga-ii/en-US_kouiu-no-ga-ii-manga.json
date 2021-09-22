@@ -1,5 +1,9 @@
 {
     "title": "Kouiu no ga Ii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244983.jpg",
+        "alt": "kouiu-no-ga-ii"
+    },
     "type": "manga",
     "original_name": "こういうのがいい",
     "start_date": "2020-10-16",

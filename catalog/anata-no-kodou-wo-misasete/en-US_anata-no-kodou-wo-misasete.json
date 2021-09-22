@@ -1,5 +1,9 @@
 {
     "title": "Anata no Kodou wo Misasete.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215683.jpg",
+        "alt": "anata-no-kodou-wo-misasete"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "38",

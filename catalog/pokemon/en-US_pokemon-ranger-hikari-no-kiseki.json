@@ -1,5 +1,9 @@
 {
     "title": "Pokemon Ranger: Hikari no Kiseki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/22271.jpg",
+        "alt": "pokemon-ranger-hikari-no-kiseki"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "ポケモンレンジャー 光の軌跡",

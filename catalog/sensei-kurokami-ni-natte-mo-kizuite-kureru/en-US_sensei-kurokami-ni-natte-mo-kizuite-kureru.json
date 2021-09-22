@@ -1,5 +1,9 @@
 {
     "title": "Sensei, Kurokami ni Natte mo Kizuite Kureru?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235789.jpg",
+        "alt": "sensei-kurokami-ni-natte-mo-kizuite-kureru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

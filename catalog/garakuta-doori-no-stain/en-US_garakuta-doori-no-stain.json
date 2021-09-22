@@ -1,5 +1,9 @@
 {
     "title": "Garakuta-doori no Stain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/67227.jpg",
+        "alt": "garakuta-doori-no-stain"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ガラクタ通りのステイン",

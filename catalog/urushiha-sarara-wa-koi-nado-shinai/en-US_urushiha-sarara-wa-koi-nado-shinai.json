@@ -1,5 +1,9 @@
 {
     "title": "Urushiha Sarara wa Koi nado Shinai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/211422.jpg",
+        "alt": "urushiha-sarara-wa-koi-nado-shinai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "33",

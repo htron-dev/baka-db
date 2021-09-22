@@ -1,5 +1,9 @@
 {
     "title": "Gunparade March: Last Dance Gunparade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/23570.jpg",
+        "alt": "gunparade-march-last-dance-gunparade"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "22",

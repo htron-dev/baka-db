@@ -1,5 +1,9 @@
 {
     "title": "Noramimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/77371.jpg",
+        "alt": "noramimi"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "68",

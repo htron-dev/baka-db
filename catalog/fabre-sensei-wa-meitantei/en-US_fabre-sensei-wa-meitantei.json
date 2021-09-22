@@ -1,5 +1,9 @@
 {
     "title": "Fabre-sensei wa Meitantei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/25534.jpg",
+        "alt": "fabre-sensei-wa-meitantei"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ファーブル先生は名探偵",

@@ -1,5 +1,9 @@
 {
     "title": "Shakunetsu no Takkyuu Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174705.jpg",
+        "alt": "shakunetsu-no-takkyuu-musume"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "32",

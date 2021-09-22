@@ -1,12 +1,16 @@
 {
     "title": "Ookami to Koushinryou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/59401.jpg",
+        "alt": "ookami-to-koushinryou"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "狼と香辛料",
     "start_date": "2008-01-09",
     "end_date": "2008-01-09",
     "opening_song": "\"Tabi no Tochuu (旅の途中)\" by Kiyoura Natsumi",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ringo Biyori (リンゴ日和 ～ The Wolf Whistling Song)\" by ROCKY CHACK",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

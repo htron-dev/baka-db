@@ -1,5 +1,9 @@
 {
     "title": "Seitokaichou desu ga Josou Hajimemashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/207466.jpg",
+        "alt": "seitokaichou-desu-ga-josou-hajimemashita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "19",

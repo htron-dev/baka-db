@@ -1,5 +1,9 @@
 {
     "title": "R-16",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21092.jpg",
+        "alt": "r-16"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "[R-16]",

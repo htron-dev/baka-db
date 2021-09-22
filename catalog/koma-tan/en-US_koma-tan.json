@@ -1,5 +1,9 @@
 {
     "title": "Koma-tan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35354.jpg",
+        "alt": "koma-tan"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "こまタン",

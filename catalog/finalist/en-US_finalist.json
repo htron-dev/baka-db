@@ -1,5 +1,9 @@
 {
     "title": "Finalist",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33634.jpg",
+        "alt": "finalist"
+    },
     "type": "manga",
     "chapters": "4",
     "original_name": "ふぁいなりすと",

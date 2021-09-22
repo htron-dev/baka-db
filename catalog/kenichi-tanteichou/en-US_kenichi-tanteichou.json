@@ -1,5 +1,9 @@
 {
     "title": "Kenichi Tanteichou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/175750.jpg",
+        "alt": "kenichi-tanteichou"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ケン 1 探偵長",

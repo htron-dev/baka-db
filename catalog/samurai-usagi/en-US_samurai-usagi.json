@@ -1,5 +1,9 @@
 {
     "title": "Samurai Usagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/117635.jpg",
+        "alt": "samurai-usagi"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "69",

@@ -1,5 +1,9 @@
 {
     "title": "Neko Pitcher",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/61473.jpg",
+        "alt": "neko-pitcher"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "猫ピッチャー",

@@ -1,5 +1,9 @@
 {
     "title": "Kyou no News",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/57419.jpg",
+        "alt": "kyou-no-news"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

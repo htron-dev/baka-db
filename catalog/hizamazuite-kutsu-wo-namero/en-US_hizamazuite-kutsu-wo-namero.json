@@ -1,5 +1,9 @@
 {
     "title": "Hizamazuite Kutsu wo Namero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/139559.jpg",
+        "alt": "hizamazuite-kutsu-wo-namero"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "跪いて靴を舐めろ",

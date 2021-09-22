@@ -1,5 +1,9 @@
 {
     "title": "DoLL",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/58489.jpg",
+        "alt": "do-ll"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

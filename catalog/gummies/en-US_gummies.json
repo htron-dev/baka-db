@@ -1,5 +1,9 @@
 {
     "title": "Gummies",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1331/109078.jpg",
+        "alt": "gummies"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "Gummies",

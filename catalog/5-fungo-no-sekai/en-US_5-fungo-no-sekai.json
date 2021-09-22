@@ -1,5 +1,9 @@
 {
     "title": "5-fungo no Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215624.jpg",
+        "alt": "5-fungo-no-sekai"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "66",

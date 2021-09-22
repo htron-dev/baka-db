@@ -1,5 +1,9 @@
 {
     "title": "Minami-kun no Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/60641.jpg",
+        "alt": "minami-kun-no-koibito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

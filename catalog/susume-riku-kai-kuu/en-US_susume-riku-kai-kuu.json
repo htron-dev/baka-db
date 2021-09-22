@@ -1,5 +1,9 @@
 {
     "title": "Susume! Riku, Kai, Kuu!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26147.jpg",
+        "alt": "susume-riku-kai-kuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Elf-san wa Yaserarenai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/197604.jpg",
+        "alt": "elf-san-wa-yaserarenai"
+    },
     "type": "manga",
     "original_name": "エルフさんは痩せられない。",
     "start_date": "2016-12-21",

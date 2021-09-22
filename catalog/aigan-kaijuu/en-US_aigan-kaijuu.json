@@ -1,5 +1,9 @@
 {
     "title": "Aigan Kaijuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1557/95194.jpg",
+        "alt": "aigan-kaijuu"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "愛玩怪獣",

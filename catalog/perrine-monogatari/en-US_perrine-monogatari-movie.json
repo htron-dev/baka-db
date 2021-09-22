@@ -1,5 +1,9 @@
 {
     "title": "Perrine Monogatari Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/44400.jpg",
+        "alt": "perrine-monogatari-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 ペリーヌ物語",

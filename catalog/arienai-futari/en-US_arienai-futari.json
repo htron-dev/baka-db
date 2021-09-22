@@ -1,5 +1,9 @@
 {
     "title": "Arienai Futari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33039.jpg",
+        "alt": "arienai-futari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

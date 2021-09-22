@@ -1,11 +1,15 @@
 {
     "title": "Kakugo no Susume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/16230.jpg",
+        "alt": "kakugo-no-susume"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "覚悟のススメ",
     "start_date": "1996-10-23",
     "end_date": "1996-10-23",
-    "opening_song": "\"Kakugo",
+    "opening_song": "\"Kakugo: Complete!\" by Hironobu Kageyama",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

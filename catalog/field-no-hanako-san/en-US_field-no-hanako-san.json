@@ -1,5 +1,9 @@
 {
     "title": "Field no Hanako-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192801.jpg",
+        "alt": "field-no-hanako-san"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "19",

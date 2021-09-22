@@ -1,5 +1,9 @@
 {
     "title": "Aiseki Mogol Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/87194.jpg",
+        "alt": "aiseki-mogol-girl"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "aiseki MOGOL GIRL",

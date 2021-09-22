@@ -1,5 +1,9 @@
 {
     "title": "Youkai Hyakkitan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/153636.jpg",
+        "alt": "youkai-hyakkitan"
+    },
     "type": "light-novel",
     "original_name": "妖怪百姫たん!",
     "start_date": "2015-03-30",

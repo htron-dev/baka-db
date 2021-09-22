@@ -1,5 +1,9 @@
 {
     "title": "Houchou Mushuku Shoubu Tabi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/229436.jpg",
+        "alt": "houchou-mushuku-shoubu-tabi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "33",

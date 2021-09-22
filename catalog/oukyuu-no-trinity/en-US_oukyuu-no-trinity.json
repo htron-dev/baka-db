@@ -1,5 +1,9 @@
 {
     "title": "Oukyuu no Trinity",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/209890.jpg",
+        "alt": "oukyuu-no-trinity"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "39",

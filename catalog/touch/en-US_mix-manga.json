@@ -1,5 +1,9 @@
 {
     "title": "Mix",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/77591.jpg",
+        "alt": "mix"
+    },
     "type": "manga",
     "original_name": "MIX ミックス",
     "start_date": "2012-05-12",

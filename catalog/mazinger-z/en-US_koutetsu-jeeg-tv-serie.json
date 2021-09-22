@@ -1,5 +1,9 @@
 {
     "title": "Koutetsu Jeeg",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1467/92724.jpg",
+        "alt": "koutetsu-jeeg"
+    },
     "type": "tv-serie",
     "episodes": "46",
     "original_name": "鋼鉄ジーグ",

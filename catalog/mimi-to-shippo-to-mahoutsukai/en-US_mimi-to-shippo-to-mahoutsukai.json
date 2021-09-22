@@ -1,5 +1,9 @@
 {
     "title": "Mimi to Shippo to Mahoutsukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/1519.jpg",
+        "alt": "mimi-to-shippo-to-mahoutsukai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

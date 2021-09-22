@@ -1,5 +1,9 @@
 {
     "title": "6-bansen ni Haru wa Kuru. Soshite Kyou, Kimi wa Inakunaru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/202991.jpg",
+        "alt": "6-bansen-ni-haru-wa-kuru-soshite-kyou-kimi-wa-inakunaru"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

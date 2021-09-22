@@ -1,5 +1,9 @@
 {
     "title": "Hi no Tori (1967)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159419.jpg",
+        "alt": "hi-no-tori-1967"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "19",

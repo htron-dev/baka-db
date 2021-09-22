@@ -1,5 +1,9 @@
 {
     "title": "Yakusoku no Hakobune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10870.jpg",
+        "alt": "yakusoku-no-hakobune"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "約束の方舟",

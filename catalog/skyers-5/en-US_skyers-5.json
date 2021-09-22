@@ -1,5 +1,9 @@
 {
     "title": "Skyers 5",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/31789.jpg",
+        "alt": "skyers-5"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "スカイヤーズ 5",

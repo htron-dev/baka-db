@@ -1,5 +1,9 @@
 {
     "title": "Choujuu Giga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/81247.jpg",
+        "alt": "choujuu-giga"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "鳥獣戯画",

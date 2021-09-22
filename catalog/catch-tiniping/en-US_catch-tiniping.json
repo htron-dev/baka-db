@@ -1,5 +1,9 @@
 {
     "title": "Catch! Tiniping",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1414/114460.jpg",
+        "alt": "catch-tiniping"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "캐치! 티니핑",

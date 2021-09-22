@@ -1,5 +1,9 @@
 {
     "title": "Ohayou, Oyasumi, Aishiteru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/223927.jpg",
+        "alt": "ohayou-oyasumi-aishiteru"
+    },
     "type": "manga",
     "original_name": "おはよう、おやすみ、あいしてる。",
     "start_date": "2016-10-24",

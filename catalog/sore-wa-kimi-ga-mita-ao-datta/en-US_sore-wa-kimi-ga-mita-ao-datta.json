@@ -1,5 +1,9 @@
 {
     "title": "Sore wa, Kimi ga Mita Ao Datta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237012.jpg",
+        "alt": "sore-wa-kimi-ga-mita-ao-datta"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "40",

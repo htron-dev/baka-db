@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Bushou Mousou Emaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/155603.jpg",
+        "alt": "sengoku-bushou-mousou-emaki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Martian Dice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/209529.jpg",
+        "alt": "martian-dice"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

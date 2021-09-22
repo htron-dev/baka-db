@@ -1,5 +1,9 @@
 {
     "title": "Furiko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/68985.jpg",
+        "alt": "furiko"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "振り子",

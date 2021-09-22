@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Ko Zou no Shouboutai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/84756.jpg",
+        "alt": "boku-wa-ko-zou-no-shouboutai"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ぼくは子象の消防隊",

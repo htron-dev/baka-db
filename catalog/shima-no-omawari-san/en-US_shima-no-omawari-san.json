@@ -1,5 +1,9 @@
 {
     "title": "Shima no Omawari-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/70105.jpg",
+        "alt": "shima-no-omawari-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

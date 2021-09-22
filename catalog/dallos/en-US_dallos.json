@@ -1,5 +1,9 @@
 {
     "title": "Dallos",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/55419.jpg",
+        "alt": "dallos"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "ダロス",

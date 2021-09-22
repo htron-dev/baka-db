@@ -1,5 +1,9 @@
 {
     "title": "Iketeru Futari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/19958.jpg",
+        "alt": "iketeru-futari"
+    },
     "type": "tv-serie",
     "episodes": "16",
     "original_name": "イケてる２人",

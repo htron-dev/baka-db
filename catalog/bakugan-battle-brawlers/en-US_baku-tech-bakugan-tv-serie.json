@@ -1,5 +1,9 @@
 {
     "title": "Baku Tech! Bakugan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/36805.jpg",
+        "alt": "baku-tech-bakugan"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "爆 TECH！爆丸",

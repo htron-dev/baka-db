@@ -1,5 +1,9 @@
 {
     "title": "Oshiete Nanoka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/9982.jpg",
+        "alt": "oshiete-nanoka"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "おしえて菜花",

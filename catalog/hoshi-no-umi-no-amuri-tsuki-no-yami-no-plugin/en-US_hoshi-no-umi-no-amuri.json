@@ -1,12 +1,16 @@
 {
     "title": "Hoshi no Umi no Amuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/8124.jpg",
+        "alt": "hoshi-no-umi-no-amuri"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "星の海のアムリ",
     "start_date": "2008-04-01",
     "end_date": "2008-04-01",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Umi Tori Ka - Amuri Ver.- (海鳥花 -アムリ Ver.-)\" by Yui Makino (ep 1)",
+    "ending_song": "#1: \"Yacchaou yo! (やっちゃおうよ!)\" by Yui Makino & Uchuu Shojo Van-aren Team (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

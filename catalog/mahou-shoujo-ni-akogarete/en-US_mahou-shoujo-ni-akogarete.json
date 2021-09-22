@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo ni Akogarete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230579.jpg",
+        "alt": "mahou-shoujo-ni-akogarete"
+    },
     "type": "manga",
     "original_name": "魔法少女にあこがれて",
     "start_date": "2019-01-30",

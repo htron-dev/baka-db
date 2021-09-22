@@ -1,5 +1,9 @@
 {
     "title": "Neko ni Matatabi Koibanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/239881.jpg",
+        "alt": "neko-ni-matatabi-koibanashi"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ねこにまたたび恋ばなし",

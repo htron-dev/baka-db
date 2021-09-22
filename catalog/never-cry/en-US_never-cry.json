@@ -1,5 +1,9 @@
 {
     "title": "Never Cry",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/28212.jpg",
+        "alt": "never-cry"
+    },
     "type": "manhwa",
     "volumes": "13",
     "original_name": "절대 울지마; 네버 크라이",

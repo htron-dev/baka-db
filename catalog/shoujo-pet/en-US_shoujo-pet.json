@@ -1,5 +1,9 @@
 {
     "title": "Shoujo Pet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/197013.jpg",
+        "alt": "shoujo-pet"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "27",

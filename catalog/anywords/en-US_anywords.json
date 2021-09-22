@@ -1,5 +1,9 @@
 {
     "title": "Anywords",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245389.jpg",
+        "alt": "anywords"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

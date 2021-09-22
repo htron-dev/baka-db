@@ -1,5 +1,9 @@
 {
     "title": "Rainman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185361.jpg",
+        "alt": "rainman"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "64",

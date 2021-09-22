@@ -1,5 +1,9 @@
 {
     "title": "Otokonoko no Koto wa Nanimo Shiranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182995.jpg",
+        "alt": "otokonoko-no-koto-wa-nanimo-shiranai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

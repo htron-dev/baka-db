@@ -1,5 +1,9 @@
 {
     "title": "Futari Daka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/59891.jpg",
+        "alt": "futari-daka"
+    },
     "type": "tv-serie",
     "episodes": "36",
     "original_name": "ふたり鷹",

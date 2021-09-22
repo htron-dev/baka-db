@@ -1,5 +1,9 @@
 {
     "title": "Bookstore Ikemen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/25941.jpg",
+        "alt": "bookstore-ikemen"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ブックストアーイケメン",

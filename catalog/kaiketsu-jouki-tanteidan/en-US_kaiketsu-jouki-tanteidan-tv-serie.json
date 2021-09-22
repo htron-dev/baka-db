@@ -1,12 +1,16 @@
 {
     "title": "Kaiketsu Jouki Tanteidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/20557.jpg",
+        "alt": "kaiketsu-jouki-tanteidan"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "快傑蒸気探偵団",
     "start_date": "1998-10-07",
     "end_date": "1998-10-07",
     "opening_song": "\"Kimi, Hohoenda Yoru (君, 微笑んだ夜)\" by Elika",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Okubyou Emotion\" by Elika",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

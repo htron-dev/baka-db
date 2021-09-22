@@ -1,5 +1,9 @@
 {
     "title": "Kimi ga Me wo Samasu made",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12975.jpg",
+        "alt": "kimi-ga-me-wo-samasu-made"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "君が目を覚ますまで",

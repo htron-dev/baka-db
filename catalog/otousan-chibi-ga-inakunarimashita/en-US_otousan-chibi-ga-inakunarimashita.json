@@ -1,5 +1,9 @@
 {
     "title": "Otousan, Chibi ga Inakunarimashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166543.jpg",
+        "alt": "otousan-chibi-ga-inakunarimashita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

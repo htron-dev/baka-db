@@ -1,5 +1,9 @@
 {
     "title": "Okusama Guten Tag!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/104239.jpg",
+        "alt": "okusama-guten-tag"
+    },
     "type": "manga",
     "original_name": "奥さま Guten Tag!",
     "start_date": "2012-06-28",

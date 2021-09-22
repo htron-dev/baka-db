@@ -1,5 +1,9 @@
 {
     "title": "Ezuke wa Yahan, Ano Heya de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223670.jpg",
+        "alt": "ezuke-wa-yahan-ano-heya-de"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

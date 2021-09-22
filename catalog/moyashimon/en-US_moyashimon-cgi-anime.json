@@ -1,5 +1,9 @@
 {
     "title": "Moyashimon CGI Anime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/25764.jpg",
+        "alt": "moyashimon-cgi-anime"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "もやしもん",

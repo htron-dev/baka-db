@@ -1,5 +1,9 @@
 {
     "title": "Dendrobates",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/46071.jpg",
+        "alt": "dendrobates"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "58",

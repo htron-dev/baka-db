@@ -1,5 +1,9 @@
 {
     "title": "E's",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/27683.jpg",
+        "alt": "es"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "83",

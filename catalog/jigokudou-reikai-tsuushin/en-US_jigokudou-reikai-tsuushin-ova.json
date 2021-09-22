@@ -1,5 +1,9 @@
 {
     "title": "Jigokudou Reikai Tsuushin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1217/112682.jpg",
+        "alt": "jigokudou-reikai-tsuushin"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "地獄堂霊界通信",

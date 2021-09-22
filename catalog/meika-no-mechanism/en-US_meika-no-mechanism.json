@@ -1,5 +1,9 @@
 {
     "title": "Meika no Mechanism",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224369.jpg",
+        "alt": "meika-no-mechanism"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "26",

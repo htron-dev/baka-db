@@ -1,5 +1,9 @@
 {
     "title": "Teddy Bear",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/19140.jpg",
+        "alt": "teddy-bear"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Bouken Gabotenjima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/20811.jpg",
+        "alt": "bouken-gabotenjima"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "冒険ガボテン島",

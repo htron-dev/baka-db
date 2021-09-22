@@ -1,5 +1,9 @@
 {
     "title": "Gekitotsu no Hexennacht",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168191.jpg",
+        "alt": "gekitotsu-no-hexennacht"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

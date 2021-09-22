@@ -1,5 +1,9 @@
 {
     "title": "Boushiya Ellipsis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/25763.jpg",
+        "alt": "boushiya-ellipsis"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "帽子屋エリプシス",

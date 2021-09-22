@@ -1,5 +1,9 @@
 {
     "title": "Yoake Ato no Shizu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210474.jpg",
+        "alt": "yoake-ato-no-shizu"
+    },
     "type": "manga",
     "original_name": "夜明け後の静",
     "start_date": "2018-02-01",

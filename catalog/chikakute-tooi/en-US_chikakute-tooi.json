@@ -1,5 +1,9 @@
 {
     "title": "Chikakute Tooi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33401.jpg",
+        "alt": "chikakute-tooi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Hai to Gensou no Grimgar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174954.jpg",
+        "alt": "hai-to-gensou-no-grimgar"
+    },
     "type": "light-novel",
     "original_name": "灰と幻想のグリムガル",
     "start_date": "2013-06-25",

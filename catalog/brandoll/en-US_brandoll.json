@@ -1,5 +1,9 @@
 {
     "title": "Brandoll",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31439.jpg",
+        "alt": "brandoll"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

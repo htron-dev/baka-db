@@ -1,5 +1,9 @@
 {
     "title": "Do Whatever You Want",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/3897.jpg",
+        "alt": "do-whatever-you-want"
+    },
     "type": "manhwa",
     "volumes": "7",
     "chapters": "29",

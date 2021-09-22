@@ -1,5 +1,9 @@
 {
     "title": "Choubu no Shinobi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/206083.jpg",
+        "alt": "choubu-no-shinobi"
+    },
     "type": "manga",
     "original_name": "蝶撫の忍",
     "start_date": "2017-04-22",

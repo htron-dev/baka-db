@@ -1,5 +1,9 @@
 {
     "title": "Lance N' Masques",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/123117.jpg",
+        "alt": "lance-n-masques"
+    },
     "type": "light-novel",
     "original_name": "Lance N' Masques （ランス・アンド・マスクス）",
     "start_date": "2013-12-03",

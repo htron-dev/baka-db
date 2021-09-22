@@ -1,5 +1,9 @@
 {
     "title": "Magazine Mystery Reportage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/43095.jpg",
+        "alt": "magazine-mystery-reportage"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "65",

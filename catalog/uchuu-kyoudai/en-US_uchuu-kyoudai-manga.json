@@ -1,5 +1,9 @@
 {
     "title": "Uchuu Kyoudai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166256.jpg",
+        "alt": "uchuu-kyoudai"
+    },
     "type": "manga",
     "original_name": "宇宙兄弟",
     "start_date": "2007-12-06",

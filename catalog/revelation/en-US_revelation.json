@@ -1,5 +1,9 @@
 {
     "title": "Revelation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/244888.jpg",
+        "alt": "revelation"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "レベレーション（啓示）",

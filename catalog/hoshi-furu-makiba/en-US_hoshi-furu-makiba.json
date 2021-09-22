@@ -1,5 +1,9 @@
 {
     "title": "Hoshi Furu Makiba!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/154851.jpg",
+        "alt": "hoshi-furu-makiba"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

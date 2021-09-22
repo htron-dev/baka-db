@@ -1,5 +1,9 @@
 {
     "title": "Witchblade: Lost Generation - Midori no Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/125121.jpg",
+        "alt": "witchblade-lost-generation-midori-no-shoujo"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "15",

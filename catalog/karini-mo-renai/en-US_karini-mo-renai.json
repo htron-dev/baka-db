@@ -1,5 +1,9 @@
 {
     "title": "Karini mo Renai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223772.jpg",
+        "alt": "karini-mo-renai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

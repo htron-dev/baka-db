@@ -1,5 +1,9 @@
 {
     "title": "Barnacle Lou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/63887.jpg",
+        "alt": "barnacle-lou"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "따개비 루",

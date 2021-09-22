@@ -1,5 +1,9 @@
 {
     "title": "Soul Reviver",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/50479.jpg",
+        "alt": "soul-reviver"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ソウルリヴァイヴァー",

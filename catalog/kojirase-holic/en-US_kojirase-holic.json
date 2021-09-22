@@ -1,5 +1,9 @@
 {
     "title": "Kojirase Holic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/126861.jpg",
+        "alt": "kojirase-holic"
+    },
     "type": "manga",
     "chapters": "14",
     "original_name": "こじらせホリック",

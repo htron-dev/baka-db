@@ -1,5 +1,9 @@
 {
     "title": "Dear Green: Hitomi no Ounowa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/30840.jpg",
+        "alt": "dear-green-hitomi-no-ounowa"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

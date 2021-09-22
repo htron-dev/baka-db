@@ -1,5 +1,9 @@
 {
     "title": "Kaze no Matasaburou (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/76581.jpg",
+        "alt": "kaze-no-matasaburou-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "風の又三郎",

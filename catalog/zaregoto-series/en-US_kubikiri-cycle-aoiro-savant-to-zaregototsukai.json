@@ -1,12 +1,16 @@
 {
     "title": "Kubikiri Cycle: Aoiro Savant to Zaregototsukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/81588.jpg",
+        "alt": "kubikiri-cycle-aoiro-savant-to-zaregototsukai"
+    },
     "type": "ova",
     "episodes": "8",
     "original_name": "クビキリサイクル 青色サヴァンと戯言遣い",
     "start_date": "2016-10-26",
     "end_date": "2016-10-26",
     "opening_song": "\"Cobalt World (群青世界(コバルトワールド))\" by Sangatsu no Phantasia (ep 2-6)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Märchen (メルヒェン)\" by Kalafina (eps 1-8)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

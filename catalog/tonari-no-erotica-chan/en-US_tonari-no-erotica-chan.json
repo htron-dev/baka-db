@@ -1,5 +1,9 @@
 {
     "title": "Tonari no Erotica-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187187.jpg",
+        "alt": "tonari-no-erotica-chan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "50",

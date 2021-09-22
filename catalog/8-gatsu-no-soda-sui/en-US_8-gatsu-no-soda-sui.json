@@ -1,5 +1,9 @@
 {
     "title": "8-gatsu no Soda-sui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/223776.jpg",
+        "alt": "8-gatsu-no-soda-sui"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

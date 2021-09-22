@@ -1,5 +1,9 @@
 {
     "title": "Tetori Ashitori Oshiete Yaru yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241611.jpg",
+        "alt": "tetori-ashitori-oshiete-yaru-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

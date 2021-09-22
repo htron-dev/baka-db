@@ -1,5 +1,9 @@
 {
     "title": "Majin Tantei Nougami Neuro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186638.jpg",
+        "alt": "majin-tantei-nougami-neuro"
+    },
     "type": "manga",
     "volumes": "23",
     "chapters": "203",

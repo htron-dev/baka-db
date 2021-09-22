@@ -1,5 +1,9 @@
 {
     "title": "Durarara!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202669.jpg",
+        "alt": "durarara"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

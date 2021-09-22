@@ -1,5 +1,9 @@
 {
     "title": "Torokeru Tsumugi-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229622.jpg",
+        "alt": "torokeru-tsumugi-chan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

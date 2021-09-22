@@ -1,5 +1,9 @@
 {
     "title": "Kagee Grimm Douwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/28221.jpg",
+        "alt": "kagee-grimm-douwa"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "影絵グリム童話",

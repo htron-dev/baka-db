@@ -1,5 +1,9 @@
 {
     "title": "Hybrid Gakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163264.jpg",
+        "alt": "hybrid-gakuen"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "28",

@@ -1,5 +1,9 @@
 {
     "title": "Himitsu no Kaidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172205.jpg",
+        "alt": "himitsu-no-kaidan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

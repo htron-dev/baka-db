@@ -1,5 +1,9 @@
 {
     "title": "Isoganaide.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/30831.jpg",
+        "alt": "isoganaide"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

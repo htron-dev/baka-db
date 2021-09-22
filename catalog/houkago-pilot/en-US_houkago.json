@@ -1,5 +1,9 @@
 {
     "title": "Houkago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1802/114006.jpg",
+        "alt": "houkago"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "放課後",

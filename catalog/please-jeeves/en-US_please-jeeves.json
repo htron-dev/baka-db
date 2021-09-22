@@ -1,5 +1,9 @@
 {
     "title": "Please, Jeeves",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36717.jpg",
+        "alt": "please-jeeves"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "プリーズ、ジーヴス",

@@ -1,5 +1,9 @@
 {
     "title": "Sakende Yaruze!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5253.jpg",
+        "alt": "sakende-yaruze"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "17",

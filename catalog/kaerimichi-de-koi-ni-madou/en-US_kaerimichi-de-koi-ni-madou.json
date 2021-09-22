@@ -1,5 +1,9 @@
 {
     "title": "Kaerimichi de Koi ni Madou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/82444.jpg",
+        "alt": "kaerimichi-de-koi-ni-madou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Boukensha A no Himatsubushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/201067.jpg",
+        "alt": "boukensha-a-no-himatsubushi"
+    },
     "type": "light-novel",
     "original_name": "冒険者 A の暇つぶし",
     "start_date": "2017-08-12",

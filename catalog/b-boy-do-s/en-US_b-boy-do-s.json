@@ -1,5 +1,9 @@
 {
     "title": "b-BOY Do S",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174220.jpg",
+        "alt": "b-boy-do-s"
+    },
     "type": "manga",
     "original_name": "b-BOY ド S",
     "start_date": "2014-09-30",

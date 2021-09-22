@@ -1,5 +1,9 @@
 {
     "title": "Waltz wa Shiroi Dress de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/59541.jpg",
+        "alt": "waltz-wa-shiroi-dress-de"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "19",

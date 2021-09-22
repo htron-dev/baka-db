@@ -1,5 +1,9 @@
 {
     "title": "Murder License Kiba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227179.jpg",
+        "alt": "murder-license-kiba"
+    },
     "type": "manga",
     "volumes": "22",
     "chapters": "101",

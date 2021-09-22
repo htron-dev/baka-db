@@ -1,5 +1,9 @@
 {
     "title": "Dragon Nest: Shungeki no Sedo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/71807.jpg",
+        "alt": "dragon-nest-shungeki-no-sedo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

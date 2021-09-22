@@ -1,5 +1,9 @@
 {
     "title": "Holy Holy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171536.jpg",
+        "alt": "holy-holy"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

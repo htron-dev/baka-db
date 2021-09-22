@@ -1,5 +1,9 @@
 {
     "title": "Gohoubi Chikubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208272.jpg",
+        "alt": "gohoubi-chikubi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

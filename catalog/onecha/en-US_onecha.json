@@ -1,5 +1,9 @@
 {
     "title": "Onecha.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224491.jpg",
+        "alt": "onecha"
+    },
     "type": "manga",
     "original_name": "おねチャ。",
     "start_date": "2019-02-09",

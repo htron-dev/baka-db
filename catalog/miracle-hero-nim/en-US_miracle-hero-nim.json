@@ -1,5 +1,9 @@
 {
     "title": "Miracle! Hero-nim",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228446.jpg",
+        "alt": "miracle-hero-nim"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "28",

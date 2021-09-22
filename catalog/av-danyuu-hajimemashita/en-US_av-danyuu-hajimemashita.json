@@ -1,5 +1,9 @@
 {
     "title": "AV Danyuu Hajimemashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238505.jpg",
+        "alt": "av-danyuu-hajimemashita"
+    },
     "type": "manga",
     "original_name": "AV 男優はじめました",
     "start_date": "2020-01-24",

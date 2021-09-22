@@ -1,5 +1,9 @@
 {
     "title": "Majo no Tabitabi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/212049.jpg",
+        "alt": "majo-no-tabitabi"
+    },
     "type": "light-novel",
     "original_name": "魔女の旅々",
     "start_date": "2016-04-15",

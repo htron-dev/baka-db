@@ -1,5 +1,9 @@
 {
     "title": "Kakera",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1632/99805.jpg",
+        "alt": "kakera"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "カケラ",

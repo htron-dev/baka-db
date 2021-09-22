@@ -1,5 +1,9 @@
 {
     "title": "Neko Irimasen ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/57651.jpg",
+        "alt": "neko-irimasen-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Wagamama na Butler",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32182.jpg",
+        "alt": "wagamama-na-butler"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

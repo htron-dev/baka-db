@@ -1,5 +1,9 @@
 {
     "title": "ROCK",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185693.jpg",
+        "alt": "rock"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "16",

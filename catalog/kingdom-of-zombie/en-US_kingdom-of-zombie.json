@@ -1,5 +1,9 @@
 {
     "title": "Kingdom of Zombie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/86581.jpg",
+        "alt": "kingdom-of-zombie"
+    },
     "type": "manhwa",
     "volumes": "1",
     "chapters": "11",

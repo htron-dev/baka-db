@@ -1,5 +1,9 @@
 {
     "title": "One Piece Film: Gold",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/81081.jpg",
+        "alt": "one-piece-film-gold"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ONE PIECE FILM GOLD",

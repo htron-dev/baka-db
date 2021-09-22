@@ -1,5 +1,9 @@
 {
     "title": "Odoriba Hotel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/57389.jpg",
+        "alt": "odoriba-hotel"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "踊り場ホテル",

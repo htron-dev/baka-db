@@ -1,5 +1,9 @@
 {
     "title": "Sabishigariya wa Yume wo Miru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151252.jpg",
+        "alt": "sabishigariya-wa-yume-wo-miru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

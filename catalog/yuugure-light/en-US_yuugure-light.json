@@ -1,5 +1,9 @@
 {
     "title": "Yuugure Light",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166606.jpg",
+        "alt": "yuugure-light"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "23",

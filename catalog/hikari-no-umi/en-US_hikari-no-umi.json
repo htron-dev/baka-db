@@ -1,5 +1,9 @@
 {
     "title": "Hikari no Umi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/66803.jpg",
+        "alt": "hikari-no-umi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

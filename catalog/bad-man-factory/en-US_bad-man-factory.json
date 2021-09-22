@@ -1,5 +1,9 @@
 {
     "title": "Bad Man Factory",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/38288.jpg",
+        "alt": "bad-man-factory"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

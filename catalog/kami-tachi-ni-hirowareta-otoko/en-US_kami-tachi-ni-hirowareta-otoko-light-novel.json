@@ -1,5 +1,9 @@
 {
     "title": "Kami-tachi ni Hirowareta Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200469.jpg",
+        "alt": "kami-tachi-ni-hirowareta-otoko"
+    },
     "type": "light-novel",
     "original_name": "神達に拾われた男",
     "start_date": "2017-09-22",

@@ -1,5 +1,9 @@
 {
     "title": "Koushaku Reijou no Tashinami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183410.jpg",
+        "alt": "koushaku-reijou-no-tashinami"
+    },
     "type": "manga",
     "original_name": "公爵令嬢の嗜み",
     "start_date": "2015-12-22",

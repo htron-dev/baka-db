@@ -1,5 +1,9 @@
 {
     "title": "Junketsu Lovers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/109031.jpg",
+        "alt": "junketsu-lovers"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

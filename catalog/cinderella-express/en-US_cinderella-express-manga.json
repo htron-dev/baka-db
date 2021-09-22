@@ -1,5 +1,9 @@
 {
     "title": "Cinderella Express",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/48495.jpg",
+        "alt": "cinderella-express"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "シンデレラ・エクスプレス",

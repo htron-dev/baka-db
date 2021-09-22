@@ -1,5 +1,9 @@
 {
     "title": "Comic Anthology Kiwami: Horror, Suspense, Mystery",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/83945.jpg",
+        "alt": "comic-anthology-kiwami-horror-suspense-mystery"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

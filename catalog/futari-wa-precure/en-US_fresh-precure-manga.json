@@ -1,5 +1,9 @@
 {
     "title": "Fresh Precure!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181256.jpg",
+        "alt": "fresh-precure"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

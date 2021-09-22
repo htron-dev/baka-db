@@ -1,5 +1,9 @@
 {
     "title": "Doraemon Movie 07: Nobita to Tetsujin Heidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/72412.jpg",
+        "alt": "doraemon-movie-07-nobita-to-tetsujin-heidan"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "映画 ドラえもん のび太と鉄人兵団",

@@ -1,5 +1,9 @@
 {
     "title": "Air Gear",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167489.jpg",
+        "alt": "air-gear"
+    },
     "type": "manga",
     "volumes": "37",
     "chapters": "358",

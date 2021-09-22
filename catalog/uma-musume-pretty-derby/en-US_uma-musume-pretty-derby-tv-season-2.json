@@ -1,12 +1,16 @@
 {
     "title": "Uma Musume: Pretty Derby (TV) Season 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1447/114282.jpg",
+        "alt": "uma-musume-pretty-derby-tv-season-2"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ウマ娘 プリティーダービー Season 2",
     "start_date": "2021-01-05",
     "end_date": "2021-01-05",
     "opening_song": "\"Yume wo Kakeru! (ユメヲカケル ! )\" by Special Week (Azumi Waki), Silence Suzuka (Marika Kouno), Toukai Teiou (Machico), Vodka (Ayaka Ohashi), Daiwa Scarlet (Chise Kimura), Gold Ship (Hitomi Ueda), Mejiro McQueen (Saori Oonishi)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"winning the soul\" by Toukai Teiou (Machico) (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

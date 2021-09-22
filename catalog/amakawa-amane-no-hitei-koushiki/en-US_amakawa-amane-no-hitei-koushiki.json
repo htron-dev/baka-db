@@ -1,5 +1,9 @@
 {
     "title": "Amakawa Amane no Hitei Koushiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163285.jpg",
+        "alt": "amakawa-amane-no-hitei-koushiki"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "24",

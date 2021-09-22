@@ -1,5 +1,9 @@
 {
     "title": "Nakedyouth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/55301.jpg",
+        "alt": "nakedyouth"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "Nakedyouth",

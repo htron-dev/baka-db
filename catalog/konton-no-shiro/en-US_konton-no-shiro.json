@@ -1,5 +1,9 @@
 {
     "title": "Konton no Shiro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10989.jpg",
+        "alt": "konton-no-shiro"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

@@ -1,5 +1,9 @@
 {
     "title": "Gokutei Higuma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/217675.jpg",
+        "alt": "gokutei-higuma"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

@@ -1,5 +1,9 @@
 {
     "title": "Denkou Sekka BOYS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/20851.jpg",
+        "alt": "denkou-sekka-boys"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

@@ -1,12 +1,16 @@
 {
     "title": "Pokemon Advanced Generation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/85774.jpg",
+        "alt": "pokemon-advanced-generation"
+    },
     "type": "tv-serie",
     "episodes": "192",
     "original_name": "ポケットモンスター　アドバンスジェネレーション",
     "start_date": "2002-11-21",
     "end_date": "2002-11-21",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"Advance Adventure\" (アドバンス・アドベンチャー) by GARDEN (eps 1-69)",
+    "ending_song": "#01: \"Sokoni Soraga Arukara\" by Toshiko Ezaki (eps 1-18,45-51)",
     "rating": "PG - Children",
     "tags": [
         "action",
@@ -30,7 +34,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Pok%C3%A9mon_(anime"
+            "link": "http://en.wikipedia.org/wiki/Pok%C3%A9mon_%28anime%29"
         }
     ]
 }

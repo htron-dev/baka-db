@@ -1,5 +1,9 @@
 {
     "title": "Stay Gold: Sorekara.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247315.jpg",
+        "alt": "stay-gold-sorekara"
+    },
     "type": "manga",
     "original_name": "STAYGOLD それから。",
     "start_date": "2021-06-25",

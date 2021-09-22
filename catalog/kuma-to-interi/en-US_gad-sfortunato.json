@@ -1,5 +1,9 @@
 {
     "title": "Gad Sfortunato",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165628.jpg",
+        "alt": "gad-sfortunato"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

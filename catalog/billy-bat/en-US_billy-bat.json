@@ -1,5 +1,9 @@
 {
     "title": "Billy Bat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181197.jpg",
+        "alt": "billy-bat"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "165",

@@ -1,5 +1,9 @@
 {
     "title": "Koibumi Toiro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170154.jpg",
+        "alt": "koibumi-toiro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

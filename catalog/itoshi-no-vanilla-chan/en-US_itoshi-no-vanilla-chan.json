@@ -1,5 +1,9 @@
 {
     "title": "Itoshi no Vanilla-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246647.jpg",
+        "alt": "itoshi-no-vanilla-chan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

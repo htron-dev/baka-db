@@ -1,9 +1,13 @@
 {
     "title": "Re:Load",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/221998.jpg",
+        "alt": "re-load"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "32",
-    "original_name": "Re",
+    "original_name": "Re:ロード",
     "start_date": "2016-05-20",
     "end_date": "2016-05-20",
     "tags": [

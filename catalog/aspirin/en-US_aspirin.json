@@ -1,5 +1,9 @@
 {
     "title": "Aspirin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/4746.jpg",
+        "alt": "aspirin"
+    },
     "type": "manhwa",
     "volumes": "10",
     "original_name": "아스피린",

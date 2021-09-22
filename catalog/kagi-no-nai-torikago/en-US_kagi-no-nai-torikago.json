@@ -1,5 +1,9 @@
 {
     "title": "Kagi no Nai Torikago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/157368.jpg",
+        "alt": "kagi-no-nai-torikago"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "鍵のない鳥籠",

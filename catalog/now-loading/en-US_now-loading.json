@@ -1,5 +1,9 @@
 {
     "title": "Now Loading...!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195164.jpg",
+        "alt": "now-loading"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

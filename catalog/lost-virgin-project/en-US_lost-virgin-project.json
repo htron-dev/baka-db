@@ -1,5 +1,9 @@
 {
     "title": "Lost Virgin Project",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13677.jpg",
+        "alt": "lost-virgin-project"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "ロスト・ヴァージン・プロジェクト",

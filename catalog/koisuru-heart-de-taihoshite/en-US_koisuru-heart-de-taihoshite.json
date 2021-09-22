@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Heart de Taihoshite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/67709.jpg",
+        "alt": "koisuru-heart-de-taihoshite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

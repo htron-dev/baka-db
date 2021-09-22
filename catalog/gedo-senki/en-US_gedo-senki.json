@@ -1,5 +1,9 @@
 {
     "title": "Gedo Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/16290.jpg",
+        "alt": "gedo-senki"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ゲド戦記",

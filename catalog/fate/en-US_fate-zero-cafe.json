@@ -1,5 +1,9 @@
 {
     "title": "Fate/Zero Cafe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/51943.jpg",
+        "alt": "fate-zero-cafe"
+    },
     "type": "movie",
     "episodes": "2",
     "original_name": "Fate/ゼロカフェ",

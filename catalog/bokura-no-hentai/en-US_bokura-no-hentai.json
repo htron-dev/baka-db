@@ -1,5 +1,9 @@
 {
     "title": "Bokura no Hentai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167758.jpg",
+        "alt": "bokura-no-hentai"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "41",

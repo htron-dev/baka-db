@@ -1,5 +1,9 @@
 {
     "title": "Taiyou no Kiba Dagram",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/54511.jpg",
+        "alt": "taiyou-no-kiba-dagram"
+    },
     "type": "tv-serie",
     "episodes": "75",
     "original_name": "太陽の牙ダグラム",

@@ -1,5 +1,9 @@
 {
     "title": "Ichi Kyuu Kyuu Peke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/155751.jpg",
+        "alt": "ichi-kyuu-kyuu-peke"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

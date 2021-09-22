@@ -1,5 +1,9 @@
 {
     "title": "Hoshi no Usagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238205.jpg",
+        "alt": "hoshi-no-usagi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

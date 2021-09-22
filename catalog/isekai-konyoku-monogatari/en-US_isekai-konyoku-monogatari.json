@@ -1,5 +1,9 @@
 {
     "title": "Isekai Konyoku Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176624.jpg",
+        "alt": "isekai-konyoku-monogatari"
+    },
     "type": "light-novel",
     "original_name": "異世界混浴物語",
     "start_date": "2015-03-25",

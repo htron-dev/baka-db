@@ -1,5 +1,9 @@
 {
     "title": "Pandemonium: Majutsushi no Mura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/114895.jpg",
+        "alt": "pandemonium-majutsushi-no-mura"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

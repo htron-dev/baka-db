@@ -1,5 +1,9 @@
 {
     "title": "Vampire Beast",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16807.jpg",
+        "alt": "vampire-beast"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

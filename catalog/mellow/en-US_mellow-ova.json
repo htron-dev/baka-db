@@ -1,5 +1,9 @@
 {
     "title": "Mellow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/66773.jpg",
+        "alt": "mellow"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "女郎 [めろう]",

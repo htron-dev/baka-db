@@ -1,5 +1,9 @@
 {
     "title": "Fushigi no Kuni de Koishiyou♥",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/72567.jpg",
+        "alt": "fushigi-no-kuni-de-koishiyou♥"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

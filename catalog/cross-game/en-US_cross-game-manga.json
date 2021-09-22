@@ -1,5 +1,9 @@
 {
     "title": "Cross Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/54197.jpg",
+        "alt": "cross-game"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "170",

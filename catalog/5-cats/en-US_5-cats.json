@@ -1,5 +1,9 @@
 {
     "title": "5 Cats",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/86237.jpg",
+        "alt": "5-cats"
+    },
     "type": "manga",
     "original_name": "5CATS",
     "start_date": "2012-02-28",

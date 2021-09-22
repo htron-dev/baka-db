@@ -1,5 +1,9 @@
 {
     "title": "Shirokuro Nekuro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164307.jpg",
+        "alt": "shirokuro-nekuro"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "シロクロネクロ",

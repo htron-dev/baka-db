@@ -1,5 +1,9 @@
 {
     "title": "Moonlight Party",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/124391.jpg",
+        "alt": "moonlight-party"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ムーンライト・パーティー",

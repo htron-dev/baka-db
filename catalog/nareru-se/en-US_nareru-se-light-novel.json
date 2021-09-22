@@ -1,5 +1,9 @@
 {
     "title": "Nareru! SE",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164692.jpg",
+        "alt": "nareru-se"
+    },
     "type": "light-novel",
     "volumes": "16",
     "original_name": "なれる！SE",

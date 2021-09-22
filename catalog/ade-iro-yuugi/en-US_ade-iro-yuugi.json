@@ -1,5 +1,9 @@
 {
     "title": "Ade-iro Yuugi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40738.jpg",
+        "alt": "ade-iro-yuugi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

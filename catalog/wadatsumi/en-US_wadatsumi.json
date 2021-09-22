@@ -1,5 +1,9 @@
 {
     "title": "Wadatsumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/112755.jpg",
+        "alt": "wadatsumi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

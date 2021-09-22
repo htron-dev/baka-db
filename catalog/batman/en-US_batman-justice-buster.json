@@ -1,5 +1,9 @@
 {
     "title": "Batman: Justice Buster",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239171.jpg",
+        "alt": "batman-justice-buster"
+    },
     "type": "manga",
     "original_name": "BATMAN JUSTICE BUSTER",
     "start_date": "2020-12-24",

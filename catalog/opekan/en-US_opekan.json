@@ -1,5 +1,9 @@
 {
     "title": "Opekan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241848.jpg",
+        "alt": "opekan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

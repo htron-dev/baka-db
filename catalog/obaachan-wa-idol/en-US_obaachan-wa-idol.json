@@ -1,5 +1,9 @@
 {
     "title": "Obaachan wa Idol",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186464.jpg",
+        "alt": "obaachan-wa-idol"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

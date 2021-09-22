@@ -1,5 +1,9 @@
 {
     "title": "Jekyll Hakase to Hyde-shi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/64915.jpg",
+        "alt": "jekyll-hakase-to-hyde-shi"
+    },
     "type": "manga",
     "original_name": "ジーキル博士とハイド氏",
     "start_date": "2009-01-20",

@@ -1,5 +1,9 @@
 {
     "title": "Kurokouchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210946.jpg",
+        "alt": "kurokouchi"
+    },
     "type": "manga",
     "volumes": "23",
     "chapters": "224",

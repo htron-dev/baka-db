@@ -1,5 +1,9 @@
 {
     "title": "Monaco no Sora e",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183612.jpg",
+        "alt": "monaco-no-sora-e"
+    },
     "type": "manga",
     "volumes": "22",
     "original_name": "Monaco の空へ",

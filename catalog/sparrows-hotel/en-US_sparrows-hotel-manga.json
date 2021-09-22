@@ -1,5 +1,9 @@
 {
     "title": "Sparrow's Hotel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168398.jpg",
+        "alt": "sparrows-hotel"
+    },
     "type": "manga",
     "original_name": "スパロウズホテル",
     "start_date": "2005-08-19",

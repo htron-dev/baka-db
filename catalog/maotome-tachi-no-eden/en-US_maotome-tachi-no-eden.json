@@ -1,5 +1,9 @@
 {
     "title": "Maotome-tachi no Eden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151864.jpg",
+        "alt": "maotome-tachi-no-eden"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

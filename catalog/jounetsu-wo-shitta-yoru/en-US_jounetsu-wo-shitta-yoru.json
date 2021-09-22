@@ -1,5 +1,9 @@
 {
     "title": "Jounetsu wo Shitta Yoru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229692.jpg",
+        "alt": "jounetsu-wo-shitta-yoru"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "情熱を知った夜",

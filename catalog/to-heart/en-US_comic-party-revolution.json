@@ -1,11 +1,15 @@
 {
     "title": "Comic Party Revolution",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/42713.jpg",
+        "alt": "comic-party-revolution"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "こみっくパーティー Revolution",
     "start_date": "2005-04-04",
     "end_date": "2005-04-04",
-    "opening_song": "\"Fly\"",
+    "opening_song": "\"Fly\": by Arisa Nakayama",
     "ending_song": "\"Issho ni Kurasou\" by Emi Motoda",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

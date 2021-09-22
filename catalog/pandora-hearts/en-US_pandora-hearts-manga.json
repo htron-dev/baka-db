@@ -1,5 +1,9 @@
 {
     "title": "Pandora Hearts",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/185498.jpg",
+        "alt": "pandora-hearts"
+    },
     "type": "manga",
     "volumes": "24",
     "chapters": "107",

@@ -1,8 +1,12 @@
 {
     "title": "Kuroshitsuji II Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/26664.jpg",
+        "alt": "kuroshitsuji-ii-specials"
+    },
     "type": "special",
     "episodes": "6",
-    "original_name": "黒執事 II",
+    "original_name": "黒執事 II: シエル・イン・ワンダーランド",
     "start_date": "2010-10-27",
     "end_date": "2010-10-27",
     "opening_song": "\"SHIVER\" by the GazettE (The Making of Kuroshitsuji II)",

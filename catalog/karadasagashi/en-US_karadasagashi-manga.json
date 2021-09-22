@@ -1,5 +1,9 @@
 {
     "title": "Karadasagashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153753.jpg",
+        "alt": "karadasagashi"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "153",

@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Shoumetsu Sensou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170737.jpg",
+        "alt": "tokyo-shoumetsu-sensou"
+    },
     "type": "manga",
     "original_name": "東京消滅戦争",
     "start_date": "2014-11-05",

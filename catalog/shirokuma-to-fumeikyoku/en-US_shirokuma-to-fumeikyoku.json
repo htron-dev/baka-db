@@ -1,5 +1,9 @@
 {
     "title": "Shirokuma to Fumeikyoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167337.jpg",
+        "alt": "shirokuma-to-fumeikyoku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "24",

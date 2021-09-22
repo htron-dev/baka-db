@@ -1,5 +1,9 @@
 {
     "title": "Wonder 3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/33155.jpg",
+        "alt": "wonder-3"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "ワンダー３",

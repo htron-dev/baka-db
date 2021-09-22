@@ -1,5 +1,9 @@
 {
     "title": "Ome ni kakarete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31375.jpg",
+        "alt": "ome-ni-kakarete"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "お目にかかれて",

@@ -1,5 +1,9 @@
 {
     "title": "Kaze no Tairiku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13145.jpg",
+        "alt": "kaze-no-tairiku"
+    },
     "type": "light-novel",
     "volumes": "28",
     "original_name": "風の大陸",

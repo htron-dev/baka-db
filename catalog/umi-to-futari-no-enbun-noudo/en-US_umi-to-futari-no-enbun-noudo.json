@@ -1,5 +1,9 @@
 {
     "title": "Umi to Futari no Enbun Noudo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/231333.jpg",
+        "alt": "umi-to-futari-no-enbun-noudo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

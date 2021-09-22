@@ -1,5 +1,9 @@
 {
     "title": "Zensoukyoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12295.jpg",
+        "alt": "zensoukyoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

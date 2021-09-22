@@ -1,5 +1,9 @@
 {
     "title": "Manga no Kamisama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177047.jpg",
+        "alt": "manga-no-kamisama"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "マンガの神様",

@@ -1,5 +1,9 @@
 {
     "title": "Nemuru Baka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170727.jpg",
+        "alt": "nemuru-baka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

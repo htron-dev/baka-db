@@ -1,5 +1,9 @@
 {
     "title": "Kujakuou Denki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/248106.jpg",
+        "alt": "kujakuou-denki"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "10",

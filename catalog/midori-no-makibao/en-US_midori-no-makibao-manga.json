@@ -1,5 +1,9 @@
 {
     "title": "Midori no Makibao",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172672.jpg",
+        "alt": "midori-no-makibao"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "150",

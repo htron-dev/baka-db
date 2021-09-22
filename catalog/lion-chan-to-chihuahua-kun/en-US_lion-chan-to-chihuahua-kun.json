@@ -1,5 +1,9 @@
 {
     "title": "Lion-chan to Chihuahua-kun.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238305.jpg",
+        "alt": "lion-chan-to-chihuahua-kun"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "11",

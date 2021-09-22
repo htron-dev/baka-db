@@ -1,5 +1,9 @@
 {
     "title": "Zaito BxB",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185845.jpg",
+        "alt": "zaito-bx-b"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

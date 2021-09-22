@@ -1,5 +1,9 @@
 {
     "title": "Kaga 100-mangoku ni Tsukaeru Koto ni Natta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169898.jpg",
+        "alt": "kaga-100-mangoku-ni-tsukaeru-koto-ni-natta"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

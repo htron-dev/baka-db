@@ -1,5 +1,9 @@
 {
     "title": "Kyousou Giga (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/85431.jpg",
+        "alt": "kyousou-giga-tv"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "京騒戯画",

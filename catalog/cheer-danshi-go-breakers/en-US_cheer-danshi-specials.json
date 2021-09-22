@@ -1,5 +1,9 @@
 {
     "title": "Cheer Danshi!! Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/83335.jpg",
+        "alt": "cheer-danshi-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "チア男子!!",

@@ -1,5 +1,9 @@
 {
     "title": "Nyanbo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/82325.jpg",
+        "alt": "nyanbo"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "にゃんぼー!",

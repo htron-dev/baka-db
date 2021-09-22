@@ -1,5 +1,9 @@
 {
     "title": "Kotobatarazu na Koi no Hanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/114507.jpg",
+        "alt": "kotobatarazu-na-koi-no-hanashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

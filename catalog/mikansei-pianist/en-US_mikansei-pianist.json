@@ -1,5 +1,9 @@
 {
     "title": "Mikansei Pianist",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/208945.jpg",
+        "alt": "mikansei-pianist"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

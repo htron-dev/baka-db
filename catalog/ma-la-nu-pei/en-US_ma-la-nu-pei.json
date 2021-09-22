@@ -1,5 +1,9 @@
 {
     "title": "Ma La Nu Pei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1984/106704.jpg",
+        "alt": "ma-la-nu-pei"
+    },
     "type": "ona",
     "episodes": "32",
     "original_name": "麻辣女配",

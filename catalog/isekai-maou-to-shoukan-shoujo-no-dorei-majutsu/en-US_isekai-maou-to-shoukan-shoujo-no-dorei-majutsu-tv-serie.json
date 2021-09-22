@@ -1,12 +1,16 @@
 {
     "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1649/93412.jpg",
+        "alt": "isekai-maou-to-shoukan-shoujo-no-dorei-majutsu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "異世界魔王と召喚少女の奴隷魔術",
     "start_date": "2018-07-05",
     "end_date": "2018-07-05",
     "opening_song": "\"DeCIDE\" by SUMMONERS 2+ (Yuu Serizawa, Azumi Waki, Yumi Hara, Rumi Ookubo, Emiri Katou)",
-    "ending_song": "#1",
+    "ending_song": "#1:\"Saiaku na hi demo Anata ga Suki\" by Yuu Serizawa (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

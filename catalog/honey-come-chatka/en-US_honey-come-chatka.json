@@ -1,5 +1,9 @@
 {
     "title": "Honey Come Chatka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205718.jpg",
+        "alt": "honey-come-chatka"
+    },
     "type": "manga",
     "original_name": "ハニカムチャッカ",
     "start_date": "2016-09-01",

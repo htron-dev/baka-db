@@ -1,5 +1,9 @@
 {
     "title": "Kaida-san no Kaidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/233406.jpg",
+        "alt": "kaida-san-no-kaidan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

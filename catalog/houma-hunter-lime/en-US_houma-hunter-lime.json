@@ -1,5 +1,9 @@
 {
     "title": "Houma Hunter Lime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1936/93963.jpg",
+        "alt": "houma-hunter-lime"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "宝魔ハンターライム",

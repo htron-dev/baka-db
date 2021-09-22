@@ -1,5 +1,9 @@
 {
     "title": "Zettai Joou Nyaa-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171818.jpg",
+        "alt": "zettai-joou-nyaa-sama"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "12",

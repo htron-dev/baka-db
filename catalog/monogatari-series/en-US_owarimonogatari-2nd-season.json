@@ -1,11 +1,15 @@
 {
     "title": "Owarimonogatari 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/87322.jpg",
+        "alt": "owarimonogatari-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "7",
     "original_name": "終物語",
     "start_date": "2017-08-12",
     "end_date": "2017-08-12",
-    "opening_song": "#1",
+    "opening_song": "#1: \"terminal terminal\" by Mayoi Hachikuji (Emiri Katou) (TV: ep 1, BD/DVD: eps 1-2)",
     "ending_song": "\"SHIORI\" by ClariS",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Monogatari_(series"
+            "link": "https://en.wikipedia.org/wiki/Monogatari_%28series%29"
         }
     ]
 }

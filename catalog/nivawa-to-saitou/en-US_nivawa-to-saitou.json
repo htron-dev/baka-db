@@ -1,5 +1,9 @@
 {
     "title": "Nivawa to Saitou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205023.jpg",
+        "alt": "nivawa-to-saitou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

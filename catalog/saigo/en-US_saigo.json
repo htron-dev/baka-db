@@ -1,5 +1,9 @@
 {
     "title": "SAIGO",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/82922.jpg",
+        "alt": "saigo"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "SAIGO",

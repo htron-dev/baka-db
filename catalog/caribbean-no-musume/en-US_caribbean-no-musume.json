@@ -1,5 +1,9 @@
 {
     "title": "Caribbean no Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229694.jpg",
+        "alt": "caribbean-no-musume"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "カリブの娘",

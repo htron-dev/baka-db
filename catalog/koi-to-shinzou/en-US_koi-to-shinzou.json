@@ -1,5 +1,9 @@
 {
     "title": "Koi to Shinzou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226803.jpg",
+        "alt": "koi-to-shinzou"
+    },
     "type": "manga",
     "original_name": "恋と心臓",
     "start_date": "2017-09-27",

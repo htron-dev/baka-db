@@ -1,5 +1,9 @@
 {
     "title": "Urara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152909.jpg",
+        "alt": "urara"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

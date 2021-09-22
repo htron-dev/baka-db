@@ -1,5 +1,9 @@
 {
     "title": "4Rang",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/105815.jpg",
+        "alt": "4-rang"
+    },
     "type": "manhwa",
     "original_name": "4랑",
     "start_date": "2013-07-01",

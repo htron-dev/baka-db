@@ -1,5 +1,9 @@
 {
     "title": "Ringing City",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1361/103354.jpg",
+        "alt": "ringing-city"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "RINGING CITY",

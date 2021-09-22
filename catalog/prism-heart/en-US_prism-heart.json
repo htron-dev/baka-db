@@ -1,5 +1,9 @@
 {
     "title": "Prism Heart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10138.jpg",
+        "alt": "prism-heart"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Oegyedwaeji Pipi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1212/115550.jpg",
+        "alt": "oegyedwaeji-pipi"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "외계돼지 피피",

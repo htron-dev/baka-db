@@ -1,5 +1,9 @@
 {
     "title": "Shoujo Shuumatsu Ryokou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185918.jpg",
+        "alt": "shoujo-shuumatsu-ryokou"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "47",

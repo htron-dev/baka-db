@@ -1,5 +1,9 @@
 {
     "title": "Getsuei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207872.jpg",
+        "alt": "getsuei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

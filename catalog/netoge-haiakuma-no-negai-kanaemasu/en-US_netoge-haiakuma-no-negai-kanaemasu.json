@@ -1,5 +1,9 @@
 {
     "title": "Netoge Haiakuma no Negai Kanaemasu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161868.jpg",
+        "alt": "netoge-haiakuma-no-negai-kanaemasu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

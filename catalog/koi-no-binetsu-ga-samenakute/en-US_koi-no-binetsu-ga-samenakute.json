@@ -1,5 +1,9 @@
 {
     "title": "Koi no Binetsu ga Samenakute",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/67647.jpg",
+        "alt": "koi-no-binetsu-ga-samenakute"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

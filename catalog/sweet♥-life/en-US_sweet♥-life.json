@@ -1,5 +1,9 @@
 {
     "title": "Sweet♥Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/57957.jpg",
+        "alt": "sweet♥-life"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

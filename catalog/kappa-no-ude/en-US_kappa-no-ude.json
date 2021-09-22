@@ -1,5 +1,9 @@
 {
     "title": "Kappa no Ude",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/76321.jpg",
+        "alt": "kappa-no-ude"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "河童の腕",

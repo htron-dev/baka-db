@@ -1,5 +1,9 @@
 {
     "title": "Wata no Kuni Hoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/95605.jpg",
+        "alt": "wata-no-kuni-hoshi"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "24",

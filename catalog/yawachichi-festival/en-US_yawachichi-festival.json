@@ -1,5 +1,9 @@
 {
     "title": "Yawachichi Festival",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206589.jpg",
+        "alt": "yawachichi-festival"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

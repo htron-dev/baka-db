@@ -1,11 +1,15 @@
 {
     "title": "Choujin Gakuen Gowcaizer: The Voltage Fighters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/24751.jpg",
+        "alt": "choujin-gakuen-gowcaizer-the-voltage-fighters"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "超人学園ゴウカイザー　ＴＨＥ　ＶＯＬＴＡＧＥ　ＦＩＧＨＴＥＲＳ",
     "start_date": "1996-09-27",
     "end_date": "1996-09-27",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Taiyou no Akai Namida: New Generation Heroes (太陽の赤い涙~New Generation Heroes~)\" by Masaaki Endou",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "My Little Pony: Tomodachi wa Mahou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/100561.jpg",
+        "alt": "my-little-pony-tomodachi-wa-mahou"
+    },
     "type": "manga",
     "original_name": "マイリトルポニー～トモダチは魔法～",
     "start_date": "2013-08-12",

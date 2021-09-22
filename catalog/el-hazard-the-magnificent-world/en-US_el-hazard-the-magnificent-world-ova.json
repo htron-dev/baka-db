@@ -1,11 +1,15 @@
 {
     "title": "El Hazard: The Magnificent World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/23429.jpg",
+        "alt": "el-hazard-the-magnificent-world"
+    },
     "type": "ova",
     "episodes": "7",
     "original_name": "神秘の世界エルハザード",
     "start_date": "1995-05-26",
     "end_date": "1995-05-26",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Boys be Free!\" by Etsuko Kozakura (eps 1-6)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

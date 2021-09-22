@@ -1,5 +1,9 @@
 {
     "title": "Kaminaki Sekai no Eiyuuden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243688.jpg",
+        "alt": "kaminaki-sekai-no-eiyuuden"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "15",

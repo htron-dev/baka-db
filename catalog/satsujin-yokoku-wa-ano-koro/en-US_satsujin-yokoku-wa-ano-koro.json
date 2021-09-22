@@ -1,5 +1,9 @@
 {
     "title": "Satsujin Yokoku wa Ano Koro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/208716.jpg",
+        "alt": "satsujin-yokoku-wa-ano-koro"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "38",

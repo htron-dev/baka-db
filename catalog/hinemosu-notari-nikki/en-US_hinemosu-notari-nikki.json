@@ -1,5 +1,9 @@
 {
     "title": "Hinemosu Notari Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225322.jpg",
+        "alt": "hinemosu-notari-nikki"
+    },
     "type": "manga",
     "original_name": "ひねもすのたり日記",
     "start_date": "2015-12-25",

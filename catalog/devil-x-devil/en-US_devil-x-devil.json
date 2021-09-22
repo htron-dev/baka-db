@@ -1,5 +1,9 @@
 {
     "title": "Devil x Devil",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33240.jpg",
+        "alt": "devil-x-devil"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

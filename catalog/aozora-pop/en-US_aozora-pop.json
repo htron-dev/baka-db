@@ -1,5 +1,9 @@
 {
     "title": "Aozora Pop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172887.jpg",
+        "alt": "aozora-pop"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "27",

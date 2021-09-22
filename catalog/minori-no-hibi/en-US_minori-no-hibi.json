@@ -1,5 +1,9 @@
 {
     "title": "Minori no Hibi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/21791.jpg",
+        "alt": "minori-no-hibi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "43",

@@ -1,5 +1,9 @@
 {
     "title": "Mayohiga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/105675.jpg",
+        "alt": "mayohiga"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

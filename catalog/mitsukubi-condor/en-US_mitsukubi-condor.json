@@ -1,5 +1,9 @@
 {
     "title": "Mitsukubi Condor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/145347.jpg",
+        "alt": "mitsukubi-condor"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

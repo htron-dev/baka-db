@@ -1,5 +1,9 @@
 {
     "title": "Jashin At Random",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/191050.jpg",
+        "alt": "jashin-at-random"
+    },
     "type": "light-novel",
     "original_name": "邪神アトランダム",
     "start_date": "2016-10-24",

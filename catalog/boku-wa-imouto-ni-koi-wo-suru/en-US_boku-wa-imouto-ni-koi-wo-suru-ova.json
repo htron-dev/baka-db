@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Imouto ni Koi wo Suru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/819.jpg",
+        "alt": "boku-wa-imouto-ni-koi-wo-suru"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "僕は妹に恋をする",

@@ -1,5 +1,9 @@
 {
     "title": "Dengeki Neko-mimi Zamurai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/123867.jpg",
+        "alt": "dengeki-neko-mimi-zamurai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "16",

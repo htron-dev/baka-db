@@ -1,5 +1,9 @@
 {
     "title": "Sanchoume no Yuuhi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36185.jpg",
+        "alt": "sanchoume-no-yuuhi"
+    },
     "type": "manga",
     "original_name": "三丁目の夕日",
     "tags": [

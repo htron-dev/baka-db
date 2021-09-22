@@ -1,5 +1,9 @@
 {
     "title": "Bokura ga Ai wo Sakebu Toki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224538.jpg",
+        "alt": "bokura-ga-ai-wo-sakebu-toki"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

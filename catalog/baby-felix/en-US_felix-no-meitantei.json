@@ -1,5 +1,9 @@
 {
     "title": "Felix no Meitantei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/85266.jpg",
+        "alt": "felix-no-meitantei"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "FELIX ノ迷探偵",

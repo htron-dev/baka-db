@@ -1,5 +1,9 @@
 {
     "title": "Kiss Players",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28460.jpg",
+        "alt": "kiss-players"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

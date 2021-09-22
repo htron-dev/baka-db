@@ -1,5 +1,9 @@
 {
     "title": "Voice Rush!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222696.jpg",
+        "alt": "voice-rush"
+    },
     "type": "manga",
     "original_name": "ボイスラ!!",
     "start_date": "2018-12-06",

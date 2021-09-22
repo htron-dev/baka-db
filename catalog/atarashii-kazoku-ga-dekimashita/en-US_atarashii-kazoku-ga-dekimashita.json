@@ -1,5 +1,9 @@
 {
     "title": "Atarashii Kazoku ga Dekimashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/220013.jpg",
+        "alt": "atarashii-kazoku-ga-dekimashita"
+    },
     "type": "manga",
     "original_name": "あたらしい家族ができました。",
     "start_date": "2018-04-06",

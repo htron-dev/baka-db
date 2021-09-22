@@ -1,5 +1,9 @@
 {
     "title": "Iron Snow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215489.jpg",
+        "alt": "iron-snow"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

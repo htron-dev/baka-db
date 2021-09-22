@@ -1,5 +1,9 @@
 {
     "title": "Otona no Kuseni!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/202944.jpg",
+        "alt": "otona-no-kuseni"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

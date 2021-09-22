@@ -1,12 +1,16 @@
 {
     "title": "Haikyuu!!: To the Top 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1453/106768.jpg",
+        "alt": "haikyuu-to-the-top-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ハイキュー!! TO THE TOP",
     "start_date": "2020-10-03",
     "end_date": "2020-10-03",
     "opening_song": "\"Toppakou (突破口)\" by SUPER BEAVER",
-    "ending_song": "#1",
+    "ending_song": "#1: \"One Day\" by SPYAIR (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

@@ -1,5 +1,9 @@
 {
     "title": "Muka Muka Paradise",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/13143.jpg",
+        "alt": "muka-muka-paradise"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ムカムカパラダイス",

@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Osanpo Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170256.jpg",
+        "alt": "tokyo-osanpo-girls"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

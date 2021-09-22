@@ -1,5 +1,9 @@
 {
     "title": "Boku no Maken, ga Urusai Ken ni Tsuite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162845.jpg",
+        "alt": "boku-no-maken-ga-urusai-ken-ni-tsuite"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "31",

@@ -1,5 +1,9 @@
 {
     "title": "Apocalypse no Toride",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162053.jpg",
+        "alt": "apocalypse-no-toride"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "49",

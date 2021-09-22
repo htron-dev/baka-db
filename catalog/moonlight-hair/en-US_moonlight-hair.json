@@ -1,5 +1,9 @@
 {
     "title": "Moonlight Hair",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204869.jpg",
+        "alt": "moonlight-hair"
+    },
     "type": "manhwa",
     "chapters": "125",
     "original_name": "달빛머리",

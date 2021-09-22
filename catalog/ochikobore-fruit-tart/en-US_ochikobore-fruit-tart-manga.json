@@ -1,5 +1,9 @@
 {
     "title": "Ochikobore Fruit Tart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195381.jpg",
+        "alt": "ochikobore-fruit-tart"
+    },
     "type": "manga",
     "original_name": "おちこぼれフルーツタルト",
     "start_date": "2014-11-28",

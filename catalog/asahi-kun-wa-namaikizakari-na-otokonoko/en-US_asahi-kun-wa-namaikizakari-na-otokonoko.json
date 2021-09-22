@@ -1,5 +1,9 @@
 {
     "title": "Asahi-kun wa, Namaikizakari na Otokonoko.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/241480.jpg",
+        "alt": "asahi-kun-wa-namaikizakari-na-otokonoko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

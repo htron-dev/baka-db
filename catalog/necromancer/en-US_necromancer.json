@@ -1,5 +1,9 @@
 {
     "title": "Necromancer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/44571.jpg",
+        "alt": "necromancer"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

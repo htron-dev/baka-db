@@ -1,5 +1,9 @@
 {
     "title": "Toaru Hikuushi e no Koiuta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/56939.jpg",
+        "alt": "toaru-hikuushi-e-no-koiuta"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "とある飛空士への恋歌",

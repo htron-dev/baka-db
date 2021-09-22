@@ -1,5 +1,9 @@
 {
     "title": "Glory Age",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/6580.jpg",
+        "alt": "glory-age"
+    },
     "type": "manhwa",
     "volumes": "3",
     "tags": [

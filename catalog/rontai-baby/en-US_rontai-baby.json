@@ -1,5 +1,9 @@
 {
     "title": "Rontai Baby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/78179.jpg",
+        "alt": "rontai-baby"
+    },
     "type": "manga",
     "volumes": "15",
     "original_name": "ロンタイ BABY",

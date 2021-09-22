@@ -1,5 +1,9 @@
 {
     "title": "Dark Air",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/62491.jpg",
+        "alt": "dark-air"
+    },
     "type": "manhwa",
     "volumes": "12",
     "chapters": "91",

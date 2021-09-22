@@ -1,5 +1,9 @@
 {
     "title": "Hiyo-chan Koi wo Suru?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236895.jpg",
+        "alt": "hiyo-chan-koi-wo-suru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

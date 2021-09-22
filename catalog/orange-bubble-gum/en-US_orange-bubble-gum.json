@@ -1,5 +1,9 @@
 {
     "title": "Orange Bubble Gum",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149210.jpg",
+        "alt": "orange-bubble-gum"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "23",

@@ -1,5 +1,9 @@
 {
     "title": "Aniki wa Tsunayoshi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13542.jpg",
+        "alt": "aniki-wa-tsunayoshi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

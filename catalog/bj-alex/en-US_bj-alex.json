@@ -1,5 +1,9 @@
 {
     "title": "BJ Alex",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/242314.jpg",
+        "alt": "bj-alex"
+    },
     "type": "manhwa",
     "original_name": "BJ 알렉스",
     "start_date": "2017-11-25",

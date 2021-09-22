@@ -1,12 +1,16 @@
 {
     "title": "One: Kagayaku Kisetsu e",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/25086.jpg",
+        "alt": "one-kagayaku-kisetsu-e"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "ONE ～輝く季節へ～",
     "start_date": "2001-08-10",
     "end_date": "2001-08-10",
     "opening_song": "\"Eternity\" by millio",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Rose\" by Sayuri Yoshida (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "supernatural",

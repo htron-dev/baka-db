@@ -1,5 +1,9 @@
 {
     "title": "Great Mazinger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/75875.jpg",
+        "alt": "great-mazinger"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "26",

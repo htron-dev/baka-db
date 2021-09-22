@@ -1,5 +1,9 @@
 {
     "title": "Kimera: Final Chronicle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/41414.jpg",
+        "alt": "kimera-final-chronicle"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "キメラ ファイナルクロニクル",

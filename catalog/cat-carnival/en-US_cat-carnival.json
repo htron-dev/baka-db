@@ -1,5 +1,9 @@
 {
     "title": "Cat Carnival",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/130299.jpg",
+        "alt": "cat-carnival"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "キャット・カーニバル",

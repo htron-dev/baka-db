@@ -1,5 +1,9 @@
 {
     "title": "Hanahaki Otome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/231013.jpg",
+        "alt": "hanahaki-otome"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

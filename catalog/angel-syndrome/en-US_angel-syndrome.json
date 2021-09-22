@@ -1,5 +1,9 @@
 {
     "title": "Angel Syndrome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/38724.jpg",
+        "alt": "angel-syndrome"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "エンジェル・シンドローム",

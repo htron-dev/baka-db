@@ -1,5 +1,9 @@
 {
     "title": "J-Dream: Kanzen Nenshouhen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183412.jpg",
+        "alt": "j-dream-kanzen-nenshouhen"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "J ドリーム 完全燃焼編",

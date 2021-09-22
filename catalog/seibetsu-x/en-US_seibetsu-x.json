@@ -1,5 +1,9 @@
 {
     "title": "Seibetsu X",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/240788.jpg",
+        "alt": "seibetsu-x"
+    },
     "type": "manga",
     "original_name": "性別 X",
     "start_date": "2020-06-05",

@@ -1,5 +1,9 @@
 {
     "title": "Ruleman no Koutsuu Anzen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/84785.jpg",
+        "alt": "ruleman-no-koutsuu-anzen"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ルールマンの交通安全",

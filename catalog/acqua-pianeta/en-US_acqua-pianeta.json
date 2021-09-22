@@ -1,5 +1,9 @@
 {
     "title": "Acqua-Pianeta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/125089.jpg",
+        "alt": "acqua-pianeta"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

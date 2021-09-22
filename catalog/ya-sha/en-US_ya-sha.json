@@ -1,5 +1,9 @@
 {
     "title": "Ya-Sha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/39035.jpg",
+        "alt": "ya-sha"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

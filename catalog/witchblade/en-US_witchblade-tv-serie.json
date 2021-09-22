@@ -1,12 +1,16 @@
 {
     "title": "Witchblade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/935.jpg",
+        "alt": "witchblade"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ウィッチブレイド",
     "start_date": "2006-04-06",
     "end_date": "2006-04-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"XTC\" by Psychic Lover (eps 1-13, 24)",
+    "ending_song": "#1: \"Ashita no Te (あしたの手)\" by Mamiko Noto (eps 01-13)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Witchblade_(anime"
+            "link": "https://en.wikipedia.org/wiki/Witchblade_%28anime%29"
         }
     ]
 }

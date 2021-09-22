@@ -1,5 +1,9 @@
 {
     "title": "Kimi wo Hitomi ni Utsusanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/245320.jpg",
+        "alt": "kimi-wo-hitomi-ni-utsusanai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

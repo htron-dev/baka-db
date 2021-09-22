@@ -1,5 +1,9 @@
 {
     "title": "Wake Ari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/75753.jpg",
+        "alt": "wake-ari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

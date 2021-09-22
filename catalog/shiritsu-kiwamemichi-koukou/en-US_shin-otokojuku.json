@@ -1,5 +1,9 @@
 {
     "title": "Shin!! Otokojuku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226092.jpg",
+        "alt": "shin-otokojuku"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "53",

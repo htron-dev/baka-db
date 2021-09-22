@@ -1,5 +1,9 @@
 {
     "title": "Dog Soldier",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/2581.jpg",
+        "alt": "dog-soldier"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ドッグソルジャー",

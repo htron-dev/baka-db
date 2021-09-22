@@ -1,5 +1,9 @@
 {
     "title": "12/24. Suki no Hito.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/65951.jpg",
+        "alt": "12-24-suki-no-hito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

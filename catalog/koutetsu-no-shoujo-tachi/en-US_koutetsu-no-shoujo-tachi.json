@@ -1,5 +1,9 @@
 {
     "title": "Koutetsu no Shoujo-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193973.jpg",
+        "alt": "koutetsu-no-shoujo-tachi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

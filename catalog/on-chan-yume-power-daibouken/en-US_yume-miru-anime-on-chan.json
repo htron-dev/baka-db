@@ -1,5 +1,9 @@
 {
     "title": "Yume Miru, Anime: on-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/29989.jpg",
+        "alt": "yume-miru-anime-on-chan"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ユメミル、アニメ「on ちゃん」",

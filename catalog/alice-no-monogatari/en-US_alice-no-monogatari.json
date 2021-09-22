@@ -1,5 +1,9 @@
 {
     "title": "Alice no Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/219213.jpg",
+        "alt": "alice-no-monogatari"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "11",

@@ -1,8 +1,12 @@
 {
     "title": "Tensei shitara Slime Datta Ken: Kanwa - Hinata Sakaguchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1670/111154.jpg",
+        "alt": "tensei-shitara-slime-datta-ken-kanwa-hinata-sakaguchi"
+    },
     "type": "special",
     "episodes": "1",
-    "original_name": "転生したらスライムだった件 閑話",
+    "original_name": "転生したらスライムだった件 閑話: ヒナタ・サカグチ",
     "start_date": "2021-01-05",
     "opening_song": "\"Meguru Mono (メグルモノ)\" by Takuma Terashima",
     "ending_song": "\"Little Soldier (リトルソルジャー)\" by Azusa Tadokoro",

@@ -1,5 +1,9 @@
 {
     "title": "Fairy Tail: City Hero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/219511.jpg",
+        "alt": "fairy-tail-city-hero"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "46",

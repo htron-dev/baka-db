@@ -1,5 +1,9 @@
 {
     "title": "Tobidase!! Buddy-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/85458.jpg",
+        "alt": "tobidase-buddy-kun"
+    },
     "type": "ona",
     "episodes": "4",
     "original_name": "とびだせ!!バディくん",

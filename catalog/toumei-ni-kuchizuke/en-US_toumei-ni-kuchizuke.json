@@ -1,5 +1,9 @@
 {
     "title": "Toumei ni Kuchizuke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224916.jpg",
+        "alt": "toumei-ni-kuchizuke"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

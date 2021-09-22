@@ -1,5 +1,9 @@
 {
     "title": "Mebius Gear",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31527.jpg",
+        "alt": "mebius-gear"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

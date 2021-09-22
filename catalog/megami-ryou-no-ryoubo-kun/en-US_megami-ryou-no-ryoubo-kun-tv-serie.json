@@ -1,5 +1,9 @@
 {
     "title": "Megami-ryou no Ryoubo-kun.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1436/116410.jpg",
+        "alt": "megami-ryou-no-ryoubo-kun"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "女神寮の寮母くん。",

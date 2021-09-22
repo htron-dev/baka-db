@@ -1,5 +1,9 @@
 {
     "title": "Sousei no Hexenritter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161044.jpg",
+        "alt": "sousei-no-hexenritter"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "10",

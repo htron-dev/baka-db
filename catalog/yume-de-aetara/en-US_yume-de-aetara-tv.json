@@ -1,5 +1,9 @@
 {
     "title": "Yume de Aetara (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/25224.jpg",
+        "alt": "yume-de-aetara-tv"
+    },
     "type": "tv-serie",
     "episodes": "16",
     "original_name": "夢で逢えたら",

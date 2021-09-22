@@ -1,5 +1,9 @@
 {
     "title": "Kin no Prism",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14677.jpg",
+        "alt": "kin-no-prism"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "金のプリズム",

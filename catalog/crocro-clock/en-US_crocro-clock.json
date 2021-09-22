@@ -1,5 +1,9 @@
 {
     "title": "Crocro Clock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160019.jpg",
+        "alt": "crocro-clock"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "クロクロクロック",

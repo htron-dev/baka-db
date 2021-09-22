@@ -1,5 +1,9 @@
 {
     "title": "Koori no Mamono no Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169567.jpg",
+        "alt": "koori-no-mamono-no-monogatari"
+    },
     "type": "manga",
     "volumes": "24",
     "chapters": "75",

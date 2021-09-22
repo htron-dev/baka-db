@@ -1,5 +1,9 @@
 {
     "title": "Akuma to Himegimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/61547.jpg",
+        "alt": "akuma-to-himegimi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "悪魔と姫君",

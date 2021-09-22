@@ -1,5 +1,9 @@
 {
     "title": "Fushiawase nara Te wo Tsunagou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165039.jpg",
+        "alt": "fushiawase-nara-te-wo-tsunagou"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ふしあわせなら手をつなごう!",

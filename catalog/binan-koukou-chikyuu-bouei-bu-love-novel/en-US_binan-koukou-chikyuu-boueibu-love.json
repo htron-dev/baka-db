@@ -1,12 +1,16 @@
 {
     "title": "Binan Koukou Chikyuu Boueibu LOVE!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/68451.jpg",
+        "alt": "binan-koukou-chikyuu-boueibu-love"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "美男高校地球防衛部 LOVE!",
     "start_date": "2015-01-07",
     "end_date": "2015-01-07",
     "opening_song": "\"Zettai Muteki☆Fallin' LOVE☆ (絶対無敵 ☆Fallin' LOVE☆)\" by Chikyuu Bouei-bu (Kazutomi Yamamoto, Yuuichirou Umehara, Toshiki Masuda, Koutarou Nishiyama, Yuusuke Shirai) (eps 2-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Zettai Muteki☆Fallin' LOVE☆ (絶対無敵 ☆Fallin' LOVE☆)\" by Chikyuu Bouei-bu (Kazutomi Yamamoto, Yuuichirou Umehara, Toshiki Masuda, Koutarou Nishiyama, Yuusuke Shirai) (eps 1, 12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

@@ -1,5 +1,9 @@
 {
     "title": "New York Trip",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/72722.jpg",
+        "alt": "new-york-trip"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ニューヨーク・トリップ",

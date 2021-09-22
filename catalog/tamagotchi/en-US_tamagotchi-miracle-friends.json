@@ -1,12 +1,16 @@
 {
     "title": "Tamagotchi! Miracle Friends",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/52925.jpg",
+        "alt": "tamagotchi-miracle-friends"
+    },
     "type": "tv-serie",
     "episodes": "29",
     "original_name": "たまごっち！～みらくるフレンズ～",
     "start_date": "2013-09-05",
     "end_date": "2013-09-05",
-    "opening_song": "\"Miracle☆Travel (みらくる ☆ トラベル)\" by Miraitchi (CV",
-    "ending_song": "\"Itsuka Itsuka (いつかいつか)\" by Tamagotchi (CV",
+    "opening_song": "\"Miracle☆Travel (みらくる ☆ トラベル)\" by Miraitchi (CV: Emiri Kato) and Kururutchi (CV: Chiwa Saito)",
+    "ending_song": "\"Itsuka Itsuka (いつかいつか)\" by Tamagotchi (CV: Rie Kugimiya)",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

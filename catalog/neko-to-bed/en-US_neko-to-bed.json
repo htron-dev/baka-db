@@ -1,5 +1,9 @@
 {
     "title": "Neko to Bed",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245407.jpg",
+        "alt": "neko-to-bed"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Zip-Up Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152301.jpg",
+        "alt": "zip-up-boy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

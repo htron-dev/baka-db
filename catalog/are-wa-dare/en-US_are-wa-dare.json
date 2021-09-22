@@ -1,5 +1,9 @@
 {
     "title": "Are wa Dare?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/71578.jpg",
+        "alt": "are-wa-dare"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "あれはだれ?",

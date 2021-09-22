@@ -1,5 +1,9 @@
 {
     "title": "Himitsu no Akuma-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/137687.jpg",
+        "alt": "himitsu-no-akuma-chan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

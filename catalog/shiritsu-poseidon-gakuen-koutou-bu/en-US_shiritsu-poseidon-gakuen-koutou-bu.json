@@ -1,5 +1,9 @@
 {
     "title": "Shiritsu Poseidon Gakuen Koutou-bu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/184436.jpg",
+        "alt": "shiritsu-poseidon-gakuen-koutou-bu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "22",

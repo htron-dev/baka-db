@@ -1,5 +1,9 @@
 {
     "title": "Utau Shoujo no Full Score",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163292.jpg",
+        "alt": "utau-shoujo-no-full-score"
+    },
     "type": "light-novel",
     "volumes": "7",
     "chapters": "35",

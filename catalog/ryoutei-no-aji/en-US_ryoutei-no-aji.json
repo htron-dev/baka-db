@@ -1,5 +1,9 @@
 {
     "title": "Ryoutei no Aji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/72084.jpg",
+        "alt": "ryoutei-no-aji"
+    },
     "type": "special",
     "original_name": "料亭の味",
     "start_date": "2014-03-28",

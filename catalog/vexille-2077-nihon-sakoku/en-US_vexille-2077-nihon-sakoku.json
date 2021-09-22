@@ -1,5 +1,9 @@
 {
     "title": "Vexille: 2077 Nihon Sakoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/79923.jpg",
+        "alt": "vexille-2077-nihon-sakoku"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ベクシル 2077 日本鎖国",

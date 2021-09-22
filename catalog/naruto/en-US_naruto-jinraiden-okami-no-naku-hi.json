@@ -1,5 +1,9 @@
 {
     "title": "Naruto Jinraiden: Okami no Naku Hi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152723.jpg",
+        "alt": "naruto-jinraiden-okami-no-naku-hi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

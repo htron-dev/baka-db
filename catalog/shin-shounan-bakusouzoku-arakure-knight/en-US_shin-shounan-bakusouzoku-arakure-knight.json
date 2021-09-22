@@ -1,11 +1,15 @@
 {
     "title": "Shin Shounan Bakusouzoku Arakure Knight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/44652.jpg",
+        "alt": "shin-shounan-bakusouzoku-arakure-knight"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "新・湘南爆走族 荒くれ KNIGHT",
     "start_date": "1997-09-12",
     "end_date": "1997-09-12",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Stand by U!!\" by Rumi Kasahara",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "adventure"

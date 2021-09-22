@@ -1,5 +1,9 @@
 {
     "title": "Homemade Home",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/13393.jpg",
+        "alt": "homemade-home"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Toraware Gokko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245408.jpg",
+        "alt": "toraware-gokko"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "26",

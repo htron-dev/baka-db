@@ -1,11 +1,15 @@
 {
     "title": "Teekyuu 8",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/81424.jpg",
+        "alt": "teekyuu-8"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "てーきゅう 8 期",
     "start_date": "2016-10-05",
     "end_date": "2016-10-05",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Gluten Elegy (グルテン哀歌)\" by Udonko Kondou (Kaori Ishihara)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

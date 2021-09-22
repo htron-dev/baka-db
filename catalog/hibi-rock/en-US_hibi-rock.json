@@ -1,5 +1,9 @@
 {
     "title": "Hibi Rock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150560.jpg",
+        "alt": "hibi-rock"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "63",

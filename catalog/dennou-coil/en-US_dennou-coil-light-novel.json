@@ -1,5 +1,9 @@
 {
     "title": "Dennou Coil",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41066.jpg",
+        "alt": "dennou-coil"
+    },
     "type": "light-novel",
     "volumes": "13",
     "original_name": "電脳コイル",

@@ -1,5 +1,9 @@
 {
     "title": "Kumo wo Koroshita Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/119031.jpg",
+        "alt": "kumo-wo-koroshita-otoko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Akumetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/183734.jpg",
+        "alt": "akumetsu"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "162",

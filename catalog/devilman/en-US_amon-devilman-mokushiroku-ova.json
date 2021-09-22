@@ -1,10 +1,14 @@
 {
     "title": "Amon: Devilman Mokushiroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1311/91101.jpg",
+        "alt": "amon-devilman-mokushiroku"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "AMON デビルマン黙示録",
     "start_date": "2000-05-24",
-    "ending_song": "\"Amon-Devilman",
+    "ending_song": "\"Amon-Devilman: Revelation\" by Mangahead",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "demons",

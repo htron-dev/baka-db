@@ -1,5 +1,9 @@
 {
     "title": "Koi nante Shinai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/146537.jpg",
+        "alt": "koi-nante-shinai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

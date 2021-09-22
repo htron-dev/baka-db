@@ -1,5 +1,9 @@
 {
     "title": "Cheonbangjichuk Hani",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/48715.jpg",
+        "alt": "cheonbangjichuk-hani"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "천방지축 하니",

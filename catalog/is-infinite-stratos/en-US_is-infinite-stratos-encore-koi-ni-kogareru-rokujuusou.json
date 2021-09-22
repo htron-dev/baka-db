@@ -1,5 +1,9 @@
 {
     "title": "IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/56161.jpg",
+        "alt": "is-infinite-stratos-encore-koi-ni-kogareru-rokujuusou"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "IS 〈インフィニット・ストラトス〉 アンコール『恋に焦がれる六重奏』",
@@ -31,7 +35,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/IS_(Infinite_Stratos"
+            "link": "http://en.wikipedia.org/wiki/IS_%28Infinite_Stratos%29"
         }
     ]
 }

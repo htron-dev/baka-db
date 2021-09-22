@@ -1,5 +1,9 @@
 {
     "title": "Rival ni Ki wo Tsukero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2198.jpg",
+        "alt": "rival-ni-ki-wo-tsukero"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

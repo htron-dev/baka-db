@@ -1,5 +1,9 @@
 {
     "title": "Mukuwarenai Koi no Uranaikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245702.jpg",
+        "alt": "mukuwarenai-koi-no-uranaikata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

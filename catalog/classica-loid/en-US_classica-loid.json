@@ -1,12 +1,16 @@
 {
     "title": "ClassicaLoid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/82320.jpg",
+        "alt": "classica-loid"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "クラシカロイド",
     "start_date": "2016-10-08",
     "end_date": "2016-10-08",
-    "opening_song": "\"ClassicaLoid",
-    "ending_song": "#01",
+    "opening_song": "\"ClassicaLoid: ClassicaLoid no Theme (ClassicaLoid ～クラシカロイドのテーマ～)\"",
+    "ending_song": "#01: \"Jounetsu ni Tsuite Kataru Beki 2, 3, no Shinjitsu ~Denen yori~ (情熱について語るべき 2、3 の真実 ～田園より～) by Daisuke Hasegawa (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

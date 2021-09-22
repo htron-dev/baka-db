@@ -1,5 +1,9 @@
 {
     "title": "Kuu Onna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202879.jpg",
+        "alt": "kuu-onna"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "35",

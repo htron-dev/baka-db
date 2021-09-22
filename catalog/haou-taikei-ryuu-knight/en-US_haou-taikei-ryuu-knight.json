@@ -1,12 +1,16 @@
 {
     "title": "Haou Taikei Ryuu Knight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1626/92213.jpg",
+        "alt": "haou-taikei-ryuu-knight"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "覇王大系リューナイト",
     "start_date": "1994-04-05",
     "end_date": "1994-04-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Good-bye Tears\" by Yumiko Takahashi (eps 1-28)",
+    "ending_song": "#1: \"Hitomi ni Diamond (瞳に Diamond)\" by Hitomi Mieno (eps 1-28)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

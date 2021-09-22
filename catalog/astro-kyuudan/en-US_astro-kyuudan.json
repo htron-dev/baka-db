@@ -1,5 +1,9 @@
 {
     "title": "Astro Kyuudan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/187138.jpg",
+        "alt": "astro-kyuudan"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "183",

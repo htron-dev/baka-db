@@ -1,12 +1,16 @@
 {
     "title": "Kodomo no Omocha (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/7016.jpg",
+        "alt": "kodomo-no-omocha-tv"
+    },
     "type": "tv-serie",
     "episodes": "102",
     "original_name": "こどものおもちゃ",
     "start_date": "1996-04-05",
     "end_date": "1996-04-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"19 Ji no nyusu (19 時のニュース)\" by Tokio (eps 1-44)",
+    "ending_song": "#1: \"Panic\" by Still Small Voice (eps 1-39)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

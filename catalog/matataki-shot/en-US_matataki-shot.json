@@ -1,5 +1,9 @@
 {
     "title": "Matataki Shot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/136049.jpg",
+        "alt": "matataki-shot"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "またたきショット",

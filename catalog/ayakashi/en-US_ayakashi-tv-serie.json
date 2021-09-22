@@ -1,5 +1,9 @@
 {
     "title": "Ayakashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/20942.jpg",
+        "alt": "ayakashi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "アヤカシ",

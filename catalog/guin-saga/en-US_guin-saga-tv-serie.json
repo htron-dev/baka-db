@@ -1,5 +1,9 @@
 {
     "title": "Guin Saga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/75553.jpg",
+        "alt": "guin-saga"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "グイン・サーガ",

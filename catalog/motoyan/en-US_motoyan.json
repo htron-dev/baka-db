@@ -1,5 +1,9 @@
 {
     "title": "Motoyan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/202386.jpg",
+        "alt": "motoyan"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "149",

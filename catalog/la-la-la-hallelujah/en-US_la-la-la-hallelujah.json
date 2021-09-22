@@ -1,5 +1,9 @@
 {
     "title": "La La La Hallelujah!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152896.jpg",
+        "alt": "la-la-la-hallelujah"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

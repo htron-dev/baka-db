@@ -1,5 +1,9 @@
 {
     "title": "Honey Tokyo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/23117.jpg",
+        "alt": "honey-tokyo"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ハニー東京",

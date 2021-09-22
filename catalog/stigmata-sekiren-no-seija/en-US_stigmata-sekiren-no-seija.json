@@ -1,5 +1,9 @@
 {
     "title": "Stigmata: Sekiren no Seija",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/127145.jpg",
+        "alt": "stigmata-sekiren-no-seija"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

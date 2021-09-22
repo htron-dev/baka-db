@@ -1,5 +1,9 @@
 {
     "title": "Living Dead Kitchen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/217092.jpg",
+        "alt": "living-dead-kitchen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "62",

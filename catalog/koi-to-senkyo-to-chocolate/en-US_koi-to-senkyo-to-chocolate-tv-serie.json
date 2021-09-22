@@ -1,5 +1,9 @@
 {
     "title": "Koi to Senkyo to Chocolate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/42015.jpg",
+        "alt": "koi-to-senkyo-to-chocolate"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "恋と選挙とチョコレート",

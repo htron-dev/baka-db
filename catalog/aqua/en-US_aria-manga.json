@@ -1,5 +1,9 @@
 {
     "title": "Aria",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202644.jpg",
+        "alt": "aria"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "67",

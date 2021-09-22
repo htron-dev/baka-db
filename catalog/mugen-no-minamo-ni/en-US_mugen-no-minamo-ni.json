@@ -1,5 +1,9 @@
 {
     "title": "Mugen no Minamo ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/54333.jpg",
+        "alt": "mugen-no-minamo-ni"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

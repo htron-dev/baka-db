@@ -1,11 +1,15 @@
 {
     "title": "FLCL",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/77356.jpg",
+        "alt": "flcl"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "フリクリ",
     "start_date": "2000-04-26",
     "end_date": "2000-04-26",
-    "opening_song": "#1",
+    "opening_song": "#1: \"One Life\" by The Pillows (ep 1)",
     "ending_song": "\"Ride On Shooting Star\" by The Pillows",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

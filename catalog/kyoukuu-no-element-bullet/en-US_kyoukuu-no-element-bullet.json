@@ -1,5 +1,9 @@
 {
     "title": "Kyoukuu no Element Bullet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162595.jpg",
+        "alt": "kyoukuu-no-element-bullet"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "15",

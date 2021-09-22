@@ -1,5 +1,9 @@
 {
     "title": "Double Call",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190027.jpg",
+        "alt": "double-call"
+    },
     "type": "manga",
     "volumes": "11",
     "original_name": "DOUBLE CALL",

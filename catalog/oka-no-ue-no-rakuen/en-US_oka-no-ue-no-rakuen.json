@@ -1,5 +1,9 @@
 {
     "title": "Oka no Ue no Rakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/86141.jpg",
+        "alt": "oka-no-ue-no-rakuen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

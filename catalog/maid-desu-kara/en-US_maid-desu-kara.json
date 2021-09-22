@@ -1,5 +1,9 @@
 {
     "title": "Maid desu kara!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175763.jpg",
+        "alt": "maid-desu-kara"
+    },
     "type": "manga",
     "original_name": "メイドですから!",
     "start_date": "2011-03-20",

@@ -1,5 +1,9 @@
 {
     "title": "Sakura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155104.jpg",
+        "alt": "sakura"
+    },
     "type": "manga",
     "original_name": "SAKURA",
     "start_date": "2014-01-27",

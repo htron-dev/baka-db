@@ -1,5 +1,9 @@
 {
     "title": "Exception",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1481/115670.jpg",
+        "alt": "exception"
+    },
     "type": "ona",
     "original_name": "exception",
     "rating": "None",

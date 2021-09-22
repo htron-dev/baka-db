@@ -1,5 +1,9 @@
 {
     "title": "Family Affair",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190886.jpg",
+        "alt": "family-affair"
+    },
     "type": "manga",
     "original_name": "Family Affair",
     "start_date": "2015-12-25",

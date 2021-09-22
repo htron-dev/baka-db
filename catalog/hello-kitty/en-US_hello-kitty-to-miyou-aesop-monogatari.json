@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty to Miyou: Aesop Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/72034.jpg",
+        "alt": "hello-kitty-to-miyou-aesop-monogatari"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "ハローキティと見よう イソップ物語",

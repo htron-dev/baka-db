@@ -1,5 +1,9 @@
 {
     "title": "Minna de Tonda",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/74009.jpg",
+        "alt": "minna-de-tonda"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "みんなで跳んだ",
@@ -20,7 +24,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://ja.wikipedia.org/wiki/%E6%B2%B3%E9%87%8E%E8%A3%95_(%E5%A3%B0%E5%84%AA"
+            "link": "http://ja.wikipedia.org/wiki/%E6%B2%B3%E9%87%8E%E8%A3%95_%28%E5%A3%B0%E5%84%AA%29"
         }
     ]
 }

@@ -1,12 +1,16 @@
 {
     "title": "Kiteretsu Daihyakka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1918/99645.jpg",
+        "alt": "kiteretsu-daihyakka"
+    },
     "type": "tv-serie",
     "episodes": "331",
     "original_name": "キテレツ大百科",
     "start_date": "1988-03-27",
     "end_date": "1988-03-27",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Oyome-san ni Natte Agenaizo (お嫁さんになってあげないゾ)\" by Kaori Moritani (eps 1-24)",
+    "ending_song": "#1: \"Magical Boy Magical Heart (マジカル Boy マジカル Heart)\" by Kaori Moritani (eps 1-16)",
     "rating": "PG - Children",
     "tags": [
         "comedy",

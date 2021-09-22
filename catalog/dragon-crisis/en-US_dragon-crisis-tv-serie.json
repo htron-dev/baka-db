@@ -1,5 +1,9 @@
 {
     "title": "Dragon Crisis!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/50311.jpg",
+        "alt": "dragon-crisis"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ドラゴンクライシス!",

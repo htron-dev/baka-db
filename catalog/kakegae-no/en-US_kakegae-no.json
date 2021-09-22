@@ -1,5 +1,9 @@
 {
     "title": "Kakegae no",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/77492.jpg",
+        "alt": "kakegae-no"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "かけがえの",

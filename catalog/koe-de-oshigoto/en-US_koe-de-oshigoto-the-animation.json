@@ -1,5 +1,9 @@
 {
     "title": "Koe de Oshigoto! The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/25524.jpg",
+        "alt": "koe-de-oshigoto-the-animation"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "こえでおしごと! The ANIMATION",

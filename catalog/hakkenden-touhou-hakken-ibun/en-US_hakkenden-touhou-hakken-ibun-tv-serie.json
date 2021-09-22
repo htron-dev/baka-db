@@ -1,5 +1,9 @@
 {
     "title": "Hakkenden: Touhou Hakken Ibun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/43007.jpg",
+        "alt": "hakkenden-touhou-hakken-ibun"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "八犬伝 -東方八犬異聞-",

@@ -1,12 +1,16 @@
 {
     "title": "Karakuri Kengou Den Musashi Lord",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1739/110637.jpg",
+        "alt": "karakuri-kengou-den-musashi-lord"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "からくり剣豪伝ムサシロード",
     "start_date": "1990-10-03",
     "end_date": "1990-10-03",
     "opening_song": "\"Musashi! Bugei Den!! (ムサシ! BUGEI 伝!!)\" by Masato Shimon",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Tenamonda Jinsei (てなもんだ人生)\" by Aya Nozawa (野澤恵)",
     "rating": "PG - Children",
     "tags": [
         "action",

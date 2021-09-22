@@ -1,5 +1,9 @@
 {
     "title": "Suashi no Meteorite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158585.jpg",
+        "alt": "suashi-no-meteorite"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "21",

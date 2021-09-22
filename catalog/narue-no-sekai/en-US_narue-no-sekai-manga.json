@@ -1,5 +1,9 @@
 {
     "title": "Narue no Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/50305.jpg",
+        "alt": "narue-no-sekai"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "98",

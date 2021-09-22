@@ -1,5 +1,9 @@
 {
     "title": "God Seeker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/64323.jpg",
+        "alt": "god-seeker"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Seupideuwang Beongae",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/26097.jpg",
+        "alt": "seupideuwang-beongae"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "스피드왕 번개",

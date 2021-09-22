@@ -1,5 +1,9 @@
 {
     "title": "Light Novel no Tanoshii Kakikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/103413.jpg",
+        "alt": "light-novel-no-tanoshii-kakikata"
+    },
     "type": "light-novel",
     "volumes": "10",
     "original_name": "ライトノベルの楽しい書き方",

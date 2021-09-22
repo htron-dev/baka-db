@@ -1,5 +1,9 @@
 {
     "title": "Jouou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/75889.jpg",
+        "alt": "jouou"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "嬢王-じょうおう-",

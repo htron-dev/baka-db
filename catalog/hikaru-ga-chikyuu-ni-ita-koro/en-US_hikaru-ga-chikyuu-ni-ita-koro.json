@@ -1,5 +1,9 @@
 {
     "title": "Hikaru ga Chikyuu ni Ita Koro......",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/145411.jpg",
+        "alt": "hikaru-ga-chikyuu-ni-ita-koro"
+    },
     "type": "light-novel",
     "volumes": "10",
     "chapters": "93",

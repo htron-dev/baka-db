@@ -1,5 +1,9 @@
 {
     "title": "Toraware no Kotori wa Amaku Naku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/184091.jpg",
+        "alt": "toraware-no-kotori-wa-amaku-naku"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

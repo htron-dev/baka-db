@@ -1,5 +1,9 @@
 {
     "title": "Tantei no Tantei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194530.jpg",
+        "alt": "tantei-no-tantei"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "22",

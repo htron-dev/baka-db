@@ -1,5 +1,9 @@
 {
     "title": "Shounen Shoujo Hyouryuuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/23431.jpg",
+        "alt": "shounen-shoujo-hyouryuuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

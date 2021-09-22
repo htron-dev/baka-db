@@ -1,5 +1,9 @@
 {
     "title": "Sukusuku Otokonoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20011.jpg",
+        "alt": "sukusuku-otokonoko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

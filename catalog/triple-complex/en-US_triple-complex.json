@@ -1,5 +1,9 @@
 {
     "title": "Triple Complex!!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151943.jpg",
+        "alt": "triple-complex"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

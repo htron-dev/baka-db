@@ -1,5 +1,9 @@
 {
     "title": "Dai Yamato Zero-gou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/16691.jpg",
+        "alt": "dai-yamato-zero-gou"
+    },
     "type": "ova",
     "episodes": "5",
     "original_name": "大ヤマト零号",

@@ -1,5 +1,9 @@
 {
     "title": "Bokura wa Jibun no Koto bakari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185975.jpg",
+        "alt": "bokura-wa-jibun-no-koto-bakari"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

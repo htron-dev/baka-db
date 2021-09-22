@@ -1,5 +1,9 @@
 {
     "title": "Inuyashiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156353.jpg",
+        "alt": "inuyashiki"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "85",

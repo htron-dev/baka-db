@@ -1,5 +1,9 @@
 {
     "title": "Hikaru! Chachacha!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234233.jpg",
+        "alt": "hikaru-chachacha"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "62",

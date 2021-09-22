@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo no Kareinaru Yosei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215883.jpg",
+        "alt": "mahou-shoujo-no-kareinaru-yosei"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "39",

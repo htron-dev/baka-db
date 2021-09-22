@@ -1,5 +1,9 @@
 {
     "title": "Futsutsukamono desu ga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166733.jpg",
+        "alt": "futsutsukamono-desu-ga"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

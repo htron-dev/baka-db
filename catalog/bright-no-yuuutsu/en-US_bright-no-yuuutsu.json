@@ -1,5 +1,9 @@
 {
     "title": "Bright no Yuuutsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23146.jpg",
+        "alt": "bright-no-yuuutsu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

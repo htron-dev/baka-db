@@ -1,11 +1,15 @@
 {
     "title": "Bokura wa Minna Kawai-sou: Hajimete no",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/71613.jpg",
+        "alt": "bokura-wa-minna-kawai-sou-hajimete-no"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "僕らはみんな河合荘 初めての",
     "start_date": "2015-01-30",
     "opening_song": "\"Itsuka no, Ikutsuka no Kimi to no Sekai (いつかの、いくつかのきみとのせかい)\" by fhána",
-    "ending_song": "\"My Sweet Shelter\" by Ritsu Kawai (CV",
+    "ending_song": "\"My Sweet Shelter\" by Ritsu Kawai (CV: Kana Hanazawa), Mayumi Nishikino (CV: Rina Satou), Sayaka Watanabe (CV: Hisako Kanemoto)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

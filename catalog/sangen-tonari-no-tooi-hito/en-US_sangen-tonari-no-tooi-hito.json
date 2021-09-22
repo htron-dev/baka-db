@@ -1,5 +1,9 @@
 {
     "title": "Sangen Tonari no Tooi Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/6384.jpg",
+        "alt": "sangen-tonari-no-tooi-hito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

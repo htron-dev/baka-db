@@ -1,5 +1,9 @@
 {
     "title": "Mahoutsukai no Oshigoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198860.jpg",
+        "alt": "mahoutsukai-no-oshigoto"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

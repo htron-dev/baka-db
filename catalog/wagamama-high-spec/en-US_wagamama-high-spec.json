@@ -1,5 +1,9 @@
 {
     "title": "Wagamama High Spec",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/79135.jpg",
+        "alt": "wagamama-high-spec"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ワガママハイスペック",

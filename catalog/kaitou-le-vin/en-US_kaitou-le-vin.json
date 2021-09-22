@@ -1,5 +1,9 @@
 {
     "title": "Kaitou le Vin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157914.jpg",
+        "alt": "kaitou-le-vin"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

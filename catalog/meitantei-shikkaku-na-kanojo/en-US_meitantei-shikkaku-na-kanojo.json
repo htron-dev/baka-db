@@ -1,5 +1,9 @@
 {
     "title": "Meitantei Shikkaku na Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/143079.jpg",
+        "alt": "meitantei-shikkaku-na-kanojo"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "名探偵失格な彼女",

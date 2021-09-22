@@ -1,5 +1,9 @@
 {
     "title": "Gakkou no Kaidan: Kubinashi Rider!! Shi no Noroi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/74184.jpg",
+        "alt": "gakkou-no-kaidan-kubinashi-rider-shi-no-noroi"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "学校の怪談 首なしライダー!! 死の呪い",
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Ghost_Stories_(anime"
+            "link": "http://en.wikipedia.org/wiki/Ghost_Stories_%28anime%29"
         }
     ]
 }

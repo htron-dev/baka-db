@@ -1,5 +1,9 @@
 {
     "title": "Furachi na Bokura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29433.jpg",
+        "alt": "furachi-na-bokura"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

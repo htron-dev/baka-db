@@ -1,5 +1,9 @@
 {
     "title": "Tera Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/112789.jpg",
+        "alt": "tera-girl"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

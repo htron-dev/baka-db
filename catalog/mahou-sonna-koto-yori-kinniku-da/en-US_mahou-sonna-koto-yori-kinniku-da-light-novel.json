@@ -1,5 +1,9 @@
 {
     "title": "Mahou? Sonna Koto yori Kinniku da!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196937.jpg",
+        "alt": "mahou-sonna-koto-yori-kinniku-da"
+    },
     "type": "light-novel",
     "original_name": "魔法？そんなことより筋肉だ！",
     "start_date": "2017-06-24",

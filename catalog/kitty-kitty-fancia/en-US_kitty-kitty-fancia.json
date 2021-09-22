@@ -1,5 +1,9 @@
 {
     "title": "Kitty Kitty Fancia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14781.jpg",
+        "alt": "kitty-kitty-fancia"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "18",

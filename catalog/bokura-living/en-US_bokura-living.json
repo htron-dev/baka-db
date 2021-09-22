@@ -1,5 +1,9 @@
 {
     "title": "Bokura Living",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158210.jpg",
+        "alt": "bokura-living"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "僕等 Living",

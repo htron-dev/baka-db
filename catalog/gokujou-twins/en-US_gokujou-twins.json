@@ -1,5 +1,9 @@
 {
     "title": "Gokujou Twins",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/113313.jpg",
+        "alt": "gokujou-twins"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

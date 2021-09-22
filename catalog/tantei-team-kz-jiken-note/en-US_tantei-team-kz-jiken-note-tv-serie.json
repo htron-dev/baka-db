@@ -1,5 +1,9 @@
 {
     "title": "Tantei Team KZ Jiken Note",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/76574.jpg",
+        "alt": "tantei-team-kz-jiken-note"
+    },
     "type": "tv-serie",
     "episodes": "16",
     "original_name": "探偵チームＫＺ（カッズ）事件ノート",

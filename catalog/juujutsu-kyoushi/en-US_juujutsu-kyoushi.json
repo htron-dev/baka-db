@@ -1,5 +1,9 @@
 {
     "title": "Juujutsu Kyoushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/231449.jpg",
+        "alt": "juujutsu-kyoushi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

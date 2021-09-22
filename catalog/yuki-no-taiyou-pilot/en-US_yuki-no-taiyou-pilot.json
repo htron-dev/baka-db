@@ -1,5 +1,9 @@
 {
     "title": "Yuki no Taiyou Pilot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/76446.jpg",
+        "alt": "yuki-no-taiyou-pilot"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ユキの太陽",

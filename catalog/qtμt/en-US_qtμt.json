@@ -1,5 +1,9 @@
 {
     "title": "Qtμt",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193440.jpg",
+        "alt": "qtμt"
+    },
     "type": "manga",
     "original_name": "qtμt キューティーミューティー",
     "start_date": "2016-07-25",

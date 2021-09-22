@@ -1,5 +1,9 @@
 {
     "title": "Pulsar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/70639.jpg",
+        "alt": "pulsar"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "パルサー(PULSAR)",

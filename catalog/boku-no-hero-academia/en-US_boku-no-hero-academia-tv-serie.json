@@ -1,5 +1,9 @@
 {
     "title": "Boku no Hero Academia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+        "alt": "boku-no-hero-academia"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "僕のヒーローアカデミア",

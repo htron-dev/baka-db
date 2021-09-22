@@ -1,5 +1,9 @@
 {
     "title": "The Hinanomori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/22072.jpg",
+        "alt": "the-hinanomori"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

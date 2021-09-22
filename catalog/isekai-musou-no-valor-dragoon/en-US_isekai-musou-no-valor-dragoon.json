@@ -1,5 +1,9 @@
 {
     "title": "Isekai Musou no Valor Dragoon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176650.jpg",
+        "alt": "isekai-musou-no-valor-dragoon"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "26",

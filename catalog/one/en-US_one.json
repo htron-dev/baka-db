@@ -1,5 +1,9 @@
 {
     "title": "One",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152416.jpg",
+        "alt": "one"
+    },
     "type": "manhwa",
     "volumes": "11",
     "chapters": "71",

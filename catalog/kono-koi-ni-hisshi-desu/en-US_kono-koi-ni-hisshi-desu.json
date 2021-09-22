@@ -1,5 +1,9 @@
 {
     "title": "Kono Koi ni Hisshi desu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32313.jpg",
+        "alt": "kono-koi-ni-hisshi-desu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

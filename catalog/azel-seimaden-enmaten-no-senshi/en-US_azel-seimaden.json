@@ -1,5 +1,9 @@
 {
     "title": "Azel Seimaden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/34315.jpg",
+        "alt": "azel-seimaden"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "アゼル聖魔伝",

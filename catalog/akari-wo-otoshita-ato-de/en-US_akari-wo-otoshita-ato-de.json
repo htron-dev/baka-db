@@ -1,5 +1,9 @@
 {
     "title": "Akari wo Otoshita Ato de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/62703.jpg",
+        "alt": "akari-wo-otoshita-ato-de"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

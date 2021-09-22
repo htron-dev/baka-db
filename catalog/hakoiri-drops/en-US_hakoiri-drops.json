@@ -1,5 +1,9 @@
 {
     "title": "Hakoiri Drops",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188792.jpg",
+        "alt": "hakoiri-drops"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "85",

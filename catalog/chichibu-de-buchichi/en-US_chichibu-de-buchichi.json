@@ -1,5 +1,9 @@
 {
     "title": "Chichibu de Buchichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1881/90220.jpg",
+        "alt": "chichibu-de-buchichi"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ちちぶでぶちち",

@@ -1,5 +1,9 @@
 {
     "title": "Tonari no Baka to Tsuzuku Uso",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199696.jpg",
+        "alt": "tonari-no-baka-to-tsuzuku-uso"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

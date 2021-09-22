@@ -1,5 +1,9 @@
 {
     "title": "Nagisa nite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/199267.jpg",
+        "alt": "nagisa-nite"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "31",

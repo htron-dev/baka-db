@@ -1,5 +1,9 @@
 {
     "title": "Yokujou Suru Hirusagari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35518.jpg",
+        "alt": "yokujou-suru-hirusagari"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "欲情する昼下がり",

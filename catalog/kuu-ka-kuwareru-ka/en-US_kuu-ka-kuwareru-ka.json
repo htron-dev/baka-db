@@ -1,5 +1,9 @@
 {
     "title": "Kuu ka Kuwareru ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/146121.jpg",
+        "alt": "kuu-ka-kuwareru-ka"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

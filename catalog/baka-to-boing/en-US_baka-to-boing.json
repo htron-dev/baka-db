@@ -1,5 +1,9 @@
 {
     "title": "Baka to Boing",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/53723.jpg",
+        "alt": "baka-to-boing"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "54",

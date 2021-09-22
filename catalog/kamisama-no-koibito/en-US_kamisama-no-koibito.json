@@ -1,5 +1,9 @@
 {
     "title": "Kamisama no Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228748.jpg",
+        "alt": "kamisama-no-koibito"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "41",

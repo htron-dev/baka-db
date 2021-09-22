@@ -1,12 +1,16 @@
 {
     "title": "Medaka Box",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/37947.jpg",
+        "alt": "medaka-box"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "めだかボックス",
     "start_date": "2012-04-05",
     "end_date": "2012-04-05",
     "opening_song": "\"HAPPY CRAZY BOX\" by Minami Kuribayashi",
-    "ending_song": "\"Ohanabatake ni Tsuretette (お花畑に連れてって)\" by Medaka Kurokami (CV",
+    "ending_song": "\"Ohanabatake ni Tsuretette (お花畑に連れてって)\" by Medaka Kurokami (CV: Aki Toyosaki)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

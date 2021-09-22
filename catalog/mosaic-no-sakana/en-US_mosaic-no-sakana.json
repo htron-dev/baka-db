@@ -1,5 +1,9 @@
 {
     "title": "Mosaic no Sakana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10816.jpg",
+        "alt": "mosaic-no-sakana"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "モザイクの魚",

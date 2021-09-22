@@ -1,5 +1,9 @@
 {
     "title": "Isekai Quest wa Houkago ni!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221962.jpg",
+        "alt": "isekai-quest-wa-houkago-ni"
+    },
     "type": "light-novel",
     "original_name": "異世界クエストは放課後に!",
     "start_date": "2017-12-01",

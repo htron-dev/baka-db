@@ -1,5 +1,9 @@
 {
     "title": "Rough Diamond: Manga Gakkou ni Youkoso",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/142533.jpg",
+        "alt": "rough-diamond-manga-gakkou-ni-youkoso"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

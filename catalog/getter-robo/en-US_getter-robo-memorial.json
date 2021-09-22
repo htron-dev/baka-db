@@ -1,5 +1,9 @@
 {
     "title": "Getter Robo Memorial",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1856/107890.jpg",
+        "alt": "getter-robo-memorial"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ゲッターロボ メモリアル",

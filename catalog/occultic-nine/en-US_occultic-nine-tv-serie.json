@@ -1,5 +1,9 @@
 {
     "title": "Occultic;Nine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/81186.jpg",
+        "alt": "occultic-nine"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "Occultic;Nine －オカルティック・ナイン－",

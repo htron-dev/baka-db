@@ -1,5 +1,9 @@
 {
     "title": "Designer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12497.jpg",
+        "alt": "designer"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "デザイナー",

@@ -1,5 +1,9 @@
 {
     "title": "KOBAN",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/122779.jpg",
+        "alt": "koban"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

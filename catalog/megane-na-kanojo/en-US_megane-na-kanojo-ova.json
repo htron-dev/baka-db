@@ -1,10 +1,14 @@
 {
     "title": "Megane na Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1358/112335.jpg",
+        "alt": "megane-na-kanojo"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "眼鏡なカノジョ",
     "start_date": "2010-11-25",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Frame Koshi no Koi (フレーム越しの恋) by Asami Imai",
     "ending_song": "\"Megane na Riyuu (眼鏡な理由) by Ayane",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

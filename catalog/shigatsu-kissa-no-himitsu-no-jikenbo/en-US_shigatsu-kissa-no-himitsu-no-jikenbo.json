@@ -1,5 +1,9 @@
 {
     "title": "Shigatsu Kissa no Himitsu no Jikenbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/245753.jpg",
+        "alt": "shigatsu-kissa-no-himitsu-no-jikenbo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

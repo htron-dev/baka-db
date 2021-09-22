@@ -1,5 +1,9 @@
 {
     "title": "Prince of Wangja",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149529.jpg",
+        "alt": "prince-of-wangja"
+    },
     "type": "manhwa",
     "original_name": "프린스의 왕자",
     "start_date": "2014-05-04",

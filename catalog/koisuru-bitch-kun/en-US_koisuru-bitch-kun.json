@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Bitch-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/72803.jpg",
+        "alt": "koisuru-bitch-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Chibikko Kamu no Bouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/63947.jpg",
+        "alt": "chibikko-kamu-no-bouken"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ちびっこカムのぼうけん",

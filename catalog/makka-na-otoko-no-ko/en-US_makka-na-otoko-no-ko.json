@@ -1,5 +1,9 @@
 {
     "title": "Makka na Otoko no Ko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/130191.jpg",
+        "alt": "makka-na-otoko-no-ko"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "まっかなおとこのこ。",

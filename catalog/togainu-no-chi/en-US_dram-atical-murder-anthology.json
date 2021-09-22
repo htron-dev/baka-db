@@ -1,5 +1,9 @@
 {
     "title": "DRAMAtical Murder Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/97673.jpg",
+        "alt": "dram-atical-murder-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

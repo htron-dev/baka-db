@@ -1,5 +1,9 @@
 {
     "title": "Fly, Daddy, Fly",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169236.jpg",
+        "alt": "fly-daddy-fly"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

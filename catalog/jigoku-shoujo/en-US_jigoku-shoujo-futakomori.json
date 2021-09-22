@@ -1,5 +1,9 @@
 {
     "title": "Jigoku Shoujo Futakomori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/86975.jpg",
+        "alt": "jigoku-shoujo-futakomori"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "地獄少女 二籠",

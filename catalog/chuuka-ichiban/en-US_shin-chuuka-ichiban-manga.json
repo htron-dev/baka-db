@@ -1,5 +1,9 @@
 {
     "title": "Shin Chuuka Ichiban!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202376.jpg",
+        "alt": "shin-chuuka-ichiban"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "108",

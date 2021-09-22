@@ -1,5 +1,9 @@
 {
     "title": "Working Boys",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1100/90646.jpg",
+        "alt": "working-boys"
+    },
     "type": "special",
     "original_name": "ワーキング・ボーシーズ",
     "start_date": "2018-02-15",

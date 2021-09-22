@@ -1,5 +1,9 @@
 {
     "title": "Orgel Garden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14613.jpg",
+        "alt": "orgel-garden"
+    },
     "type": "manhwa",
     "volumes": "6",
     "tags": [

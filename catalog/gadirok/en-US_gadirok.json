@@ -1,5 +1,9 @@
 {
     "title": "Gadirok",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/16911.jpg",
+        "alt": "gadirok"
+    },
     "type": "manhwa",
     "volumes": "8",
     "original_name": "가디록",

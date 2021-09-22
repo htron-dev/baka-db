@@ -1,5 +1,9 @@
 {
     "title": "Tsuki Fushuku Shiyashiya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39027.jpg",
+        "alt": "tsuki-fushuku-shiyashiya"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "月巫祝のシャシャ",

@@ -1,5 +1,9 @@
 {
     "title": "Hataraku Maou-Sama no Meshi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243763.jpg",
+        "alt": "hataraku-maou-sama-no-meshi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

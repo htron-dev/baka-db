@@ -1,5 +1,9 @@
 {
     "title": "Ero Yume Aquarium",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/242062.jpg",
+        "alt": "ero-yume-aquarium"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Träumerei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/248090.jpg",
+        "alt": "traumerei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Supernatural Investigation Department",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/64025.jpg",
+        "alt": "supernatural-investigation-department"
+    },
     "type": "manhwa",
     "original_name": "특영반",
     "start_date": "2010-05-06",

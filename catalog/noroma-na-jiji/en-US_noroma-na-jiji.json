@@ -1,5 +1,9 @@
 {
     "title": "Noroma na Jiji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/69259.jpg",
+        "alt": "noroma-na-jiji"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "のろまな爺",

@@ -1,5 +1,9 @@
 {
     "title": "Umi ni Ochita Tsuki no Hanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/74256.jpg",
+        "alt": "umi-ni-ochita-tsuki-no-hanashi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "海に落ちた月の話",

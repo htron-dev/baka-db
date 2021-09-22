@@ -1,5 +1,9 @@
 {
     "title": "Otona no Tokken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/80421.jpg",
+        "alt": "otona-no-tokken"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

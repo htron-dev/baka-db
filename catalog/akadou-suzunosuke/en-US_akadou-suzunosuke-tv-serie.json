@@ -1,5 +1,9 @@
 {
     "title": "Akadou Suzunosuke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/56397.jpg",
+        "alt": "akadou-suzunosuke"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "赤胴鈴之助",

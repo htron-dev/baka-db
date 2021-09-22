@@ -1,5 +1,9 @@
 {
     "title": "Happy World!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1028/96491.jpg",
+        "alt": "happy-world"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "Happy World!",

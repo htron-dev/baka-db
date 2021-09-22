@@ -1,5 +1,9 @@
 {
     "title": "Hakozoko no Elpis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176525.jpg",
+        "alt": "hakozoko-no-elpis"
+    },
     "type": "light-novel",
     "original_name": "筺底のエルピス",
     "start_date": "2014-12-18",

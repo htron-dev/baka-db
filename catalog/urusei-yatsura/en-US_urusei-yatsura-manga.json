@@ -1,5 +1,9 @@
 {
     "title": "Urusei Yatsura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156529.jpg",
+        "alt": "urusei-yatsura"
+    },
     "type": "manga",
     "volumes": "34",
     "chapters": "366",

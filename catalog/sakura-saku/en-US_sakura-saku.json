@@ -1,5 +1,9 @@
 {
     "title": "Sakura, Saku.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244987.jpg",
+        "alt": "sakura-saku"
+    },
     "type": "manga",
     "original_name": "サクラ、サク。",
     "start_date": "2021-02-13",

@@ -1,5 +1,9 @@
 {
     "title": "Aishiteru to Iinasai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237566.jpg",
+        "alt": "aishiteru-to-iinasai"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "15",

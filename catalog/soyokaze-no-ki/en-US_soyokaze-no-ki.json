@@ -1,5 +1,9 @@
 {
     "title": "Soyokaze no Ki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/66897.jpg",
+        "alt": "soyokaze-no-ki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Lucky Racoon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204521.jpg",
+        "alt": "lucky-racoon"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

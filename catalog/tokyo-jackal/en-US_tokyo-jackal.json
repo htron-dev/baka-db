@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Jackal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/136053.jpg",
+        "alt": "tokyo-jackal"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "トーキョージャッカル",

@@ -1,5 +1,9 @@
 {
     "title": "Tsurumoku Dokushin Ryou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7435.jpg",
+        "alt": "tsurumoku-dokushin-ryou"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "135",

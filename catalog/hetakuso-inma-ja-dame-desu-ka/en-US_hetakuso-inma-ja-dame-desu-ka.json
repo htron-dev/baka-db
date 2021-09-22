@@ -1,5 +1,9 @@
 {
     "title": "Hetakuso Inma ja Dame desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246280.jpg",
+        "alt": "hetakuso-inma-ja-dame-desu-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

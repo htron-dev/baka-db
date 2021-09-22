@@ -1,5 +1,9 @@
 {
     "title": "Zounds",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1947/99267.jpg",
+        "alt": "zounds"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ZOUNDS",

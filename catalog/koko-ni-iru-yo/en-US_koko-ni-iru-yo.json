@@ -1,5 +1,9 @@
 {
     "title": "Koko ni Iru yo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/147283.jpg",
+        "alt": "koko-ni-iru-yo"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "21",

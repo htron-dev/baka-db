@@ -1,12 +1,16 @@
 {
     "title": "Hachimitsu to Clover Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1657/106011.jpg",
+        "alt": "hachimitsu-to-clover-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "ハチミツとクローバー",
     "start_date": "2005-12-23",
     "end_date": "2005-12-23",
     "opening_song": "\"Dramatic\" by Yuki",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Waltz\" by Suneohair (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

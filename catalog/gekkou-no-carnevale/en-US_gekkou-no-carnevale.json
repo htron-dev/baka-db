@@ -1,5 +1,9 @@
 {
     "title": "Gekkou no Carnevale",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15939.jpg",
+        "alt": "gekkou-no-carnevale"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

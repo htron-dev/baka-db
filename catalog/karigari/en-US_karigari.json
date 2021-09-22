@@ -1,5 +1,9 @@
 {
     "title": "Karigari!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200289.jpg",
+        "alt": "karigari"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

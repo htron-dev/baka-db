@@ -1,5 +1,9 @@
 {
     "title": "Naruto: Shippuuden Movie 1",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/79705.jpg",
+        "alt": "naruto-shippuuden-movie-1"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 NARUTO -ナルト- 疾風伝",

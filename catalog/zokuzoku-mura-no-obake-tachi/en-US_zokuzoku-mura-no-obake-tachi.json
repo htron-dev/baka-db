@@ -1,5 +1,9 @@
 {
     "title": "Zokuzoku Mura no Obake-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/35845.jpg",
+        "alt": "zokuzoku-mura-no-obake-tachi"
+    },
     "type": "ova",
     "episodes": "12",
     "original_name": "ぞくぞく村のオバケたち",

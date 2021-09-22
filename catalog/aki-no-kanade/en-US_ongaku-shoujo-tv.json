@@ -1,5 +1,9 @@
 {
     "title": "Ongaku Shoujo (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1811/91043.jpg",
+        "alt": "ongaku-shoujo-tv"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "音楽少女",

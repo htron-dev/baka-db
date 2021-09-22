@@ -1,5 +1,9 @@
 {
     "title": "Ristorante Paradiso",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/17488.jpg",
+        "alt": "ristorante-paradiso"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "リストランテパラディーゾ",

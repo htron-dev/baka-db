@@ -1,5 +1,9 @@
 {
     "title": "Game Nou na Shoukanshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186993.jpg",
+        "alt": "game-nou-na-shoukanshi"
+    },
     "type": "light-novel",
     "original_name": "ゲーム脳な召喚師",
     "start_date": "2017-01-15",

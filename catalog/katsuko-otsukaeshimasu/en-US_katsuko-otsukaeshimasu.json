@@ -1,5 +1,9 @@
 {
     "title": "Katsuko Otsukaeshimasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/40908.jpg",
+        "alt": "katsuko-otsukaeshimasu"
+    },
     "type": "manga",
     "original_name": "かつ子お仕えします!",
     "tags": [

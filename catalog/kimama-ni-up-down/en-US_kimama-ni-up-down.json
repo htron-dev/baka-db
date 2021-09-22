@@ -1,5 +1,9 @@
 {
     "title": "Kimama ni UpDown",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/91761.jpg",
+        "alt": "kimama-ni-up-down"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

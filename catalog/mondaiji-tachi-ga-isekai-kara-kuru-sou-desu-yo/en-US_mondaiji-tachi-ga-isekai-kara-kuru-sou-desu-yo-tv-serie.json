@@ -1,12 +1,16 @@
 {
     "title": "Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/43369.jpg",
+        "alt": "mondaiji-tachi-ga-isekai-kara-kuru-sou-desu-yo"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "問題児たちが異世界から来るそうですよ?",
     "start_date": "2013-01-12",
     "end_date": "2013-01-12",
     "opening_song": "\"Black † White\" by Iori Nomizu (eps 2-10)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Black † White\" by Iori Nomizu (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

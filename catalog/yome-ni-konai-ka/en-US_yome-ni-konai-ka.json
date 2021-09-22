@@ -1,5 +1,9 @@
 {
     "title": "Yome ni Konai ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14060.jpg",
+        "alt": "yome-ni-konai-ka"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "嫁に来ないか",

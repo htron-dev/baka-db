@@ -1,5 +1,9 @@
 {
     "title": "Ore wa Teppei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/147051.jpg",
+        "alt": "ore-wa-teppei"
+    },
     "type": "manga",
     "volumes": "39",
     "original_name": "おれは鉄兵",

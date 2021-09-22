@@ -1,5 +1,9 @@
 {
     "title": "Tensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22653.jpg",
+        "alt": "tensei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

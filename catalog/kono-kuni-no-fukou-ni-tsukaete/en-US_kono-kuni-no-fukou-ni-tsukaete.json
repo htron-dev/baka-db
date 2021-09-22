@@ -1,5 +1,9 @@
 {
     "title": "Kono Kuni no Fukou ni Tsukaete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237302.jpg",
+        "alt": "kono-kuni-no-fukou-ni-tsukaete"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

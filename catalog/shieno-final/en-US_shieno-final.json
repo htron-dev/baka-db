@@ -1,5 +1,9 @@
 {
     "title": "Shieno Final",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/57449.jpg",
+        "alt": "shieno-final"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

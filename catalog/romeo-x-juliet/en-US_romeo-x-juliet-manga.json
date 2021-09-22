@@ -1,5 +1,9 @@
 {
     "title": "Romeo x Juliet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/21748.jpg",
+        "alt": "romeo-x-juliet"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

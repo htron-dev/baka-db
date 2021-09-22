@@ -1,5 +1,9 @@
 {
     "title": "Hataraku Maou-sama! High School!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156923.jpg",
+        "alt": "hataraku-maou-sama-high-school"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "36",

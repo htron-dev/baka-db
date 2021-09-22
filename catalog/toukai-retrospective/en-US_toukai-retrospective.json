@@ -1,5 +1,9 @@
 {
     "title": "Toukai Retrospective",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/208052.jpg",
+        "alt": "toukai-retrospective"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

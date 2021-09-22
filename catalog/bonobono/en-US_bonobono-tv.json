@@ -1,11 +1,15 @@
 {
     "title": "Bonobono (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/22163.jpg",
+        "alt": "bonobono-tv"
+    },
     "type": "tv-serie",
     "episodes": "48",
     "original_name": "ぼのぼの",
     "start_date": "1995-04-20",
     "end_date": "1995-04-20",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Chikamichi Shitai (近道したい)\" by Kyouko Suga (eps 1-23, 48)",
     "rating": "G - All Ages",
     "tags": [
         "comedy"

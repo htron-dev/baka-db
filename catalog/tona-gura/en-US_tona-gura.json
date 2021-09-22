@@ -1,5 +1,9 @@
 {
     "title": "Tona-Gura!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/56907.jpg",
+        "alt": "tona-gura"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "87",

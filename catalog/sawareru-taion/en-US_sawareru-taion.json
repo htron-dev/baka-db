@@ -1,5 +1,9 @@
 {
     "title": "Sawareru Taion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37091.jpg",
+        "alt": "sawareru-taion"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "触れる体温",

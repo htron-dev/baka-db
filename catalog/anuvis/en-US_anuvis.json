@@ -1,5 +1,9 @@
 {
     "title": "Anuvis!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/126143.jpg",
+        "alt": "anuvis"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "アヌヴィス！",

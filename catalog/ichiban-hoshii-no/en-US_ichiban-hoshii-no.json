@@ -1,5 +1,9 @@
 {
     "title": "Ichiban Hoshii no",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/212639.jpg",
+        "alt": "ichiban-hoshii-no"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

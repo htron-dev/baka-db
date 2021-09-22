@@ -1,10 +1,14 @@
 {
     "title": "Violet Evergarden Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1825/110716.jpg",
+        "alt": "violet-evergarden-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 ヴァイオレット・エヴァーガーデン",
     "start_date": "2020-09-18",
-    "ending_song": "#1",
+    "ending_song": "#1 : \"WILL\" by TRUE",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

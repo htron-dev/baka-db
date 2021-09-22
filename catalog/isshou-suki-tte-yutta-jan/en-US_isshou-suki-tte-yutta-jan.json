@@ -1,5 +1,9 @@
 {
     "title": "Isshou Suki tte Yutta jan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239489.jpg",
+        "alt": "isshou-suki-tte-yutta-jan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

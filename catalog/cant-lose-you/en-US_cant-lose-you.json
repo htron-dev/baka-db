@@ -1,5 +1,9 @@
 {
     "title": "Can't Lose You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/1298.jpg",
+        "alt": "cant-lose-you"
+    },
     "type": "manhwa",
     "volumes": "6",
     "chapters": "35",

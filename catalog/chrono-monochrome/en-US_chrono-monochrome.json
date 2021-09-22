@@ -1,5 +1,9 @@
 {
     "title": "Chrono Monochrome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/123581.jpg",
+        "alt": "chrono-monochrome"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "47",

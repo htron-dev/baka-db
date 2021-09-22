@@ -1,5 +1,9 @@
 {
     "title": "Sakura Internet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/84025.jpg",
+        "alt": "sakura-internet"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "SAKURA internet",

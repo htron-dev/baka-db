@@ -1,5 +1,9 @@
 {
     "title": "Uranof",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1894/114934.jpg",
+        "alt": "uranof"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "uranof",

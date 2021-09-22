@@ -1,5 +1,9 @@
 {
     "title": "Dragons Will",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162474.jpg",
+        "alt": "dragons-will"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

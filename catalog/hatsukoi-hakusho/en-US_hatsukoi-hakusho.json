@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi Hakusho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38789.jpg",
+        "alt": "hatsukoi-hakusho"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

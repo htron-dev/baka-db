@@ -1,12 +1,16 @@
 {
     "title": "Gokujou Seitokai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/18714.jpg",
+        "alt": "gokujou-seitokai"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "極上生徒会",
     "start_date": "2005-04-07",
     "end_date": "2005-04-07",
     "opening_song": "\"恋せよ女の子 (Koi se yo Onnanoko)\" by Yukari Tamura",
-    "ending_song": "#1",
+    "ending_song": "#1: \"偶然天使 (Guuzen Tenshi)\" by Gokujou Seitokai Shikkoubu (eps 01-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

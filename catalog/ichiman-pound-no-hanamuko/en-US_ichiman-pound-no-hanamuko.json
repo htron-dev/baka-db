@@ -1,5 +1,9 @@
 {
     "title": "Ichiman Pound no Hanamuko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/42246.jpg",
+        "alt": "ichiman-pound-no-hanamuko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

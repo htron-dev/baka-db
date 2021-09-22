@@ -1,5 +1,9 @@
 {
     "title": "Hoshi no Shima no Nyanko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1147/96582.jpg",
+        "alt": "hoshi-no-shima-no-nyanko"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ほしの島のにゃんこ",

@@ -1,5 +1,9 @@
 {
     "title": "Andromeda Stories",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/12774.jpg",
+        "alt": "andromeda-stories"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "アンドロメダ・ストーリーズ",

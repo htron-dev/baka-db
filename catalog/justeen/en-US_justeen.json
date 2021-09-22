@@ -1,5 +1,9 @@
 {
     "title": "Justeen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/39023.jpg",
+        "alt": "justeen"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ジャスティーン",

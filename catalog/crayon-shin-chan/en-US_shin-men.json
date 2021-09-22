@@ -1,5 +1,9 @@
 {
     "title": "Shin-Men",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/27158.jpg",
+        "alt": "shin-men"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "SHIN-MEN",

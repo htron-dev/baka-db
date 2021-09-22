@@ -1,5 +1,9 @@
 {
     "title": "Pokémon Colosseum: Snatcher Leo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36641.jpg",
+        "alt": "pokemon-colosseum-snatcher-leo"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "ポケモンコロシアム スナッチャーズレオ",

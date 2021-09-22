@@ -1,5 +1,9 @@
 {
     "title": "Smile de Ikou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26593.jpg",
+        "alt": "smile-de-ikou"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "スマイルでいこう",

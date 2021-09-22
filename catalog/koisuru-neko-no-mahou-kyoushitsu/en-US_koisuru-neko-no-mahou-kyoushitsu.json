@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Neko no Mahou Kyoushitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/42034.jpg",
+        "alt": "koisuru-neko-no-mahou-kyoushitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

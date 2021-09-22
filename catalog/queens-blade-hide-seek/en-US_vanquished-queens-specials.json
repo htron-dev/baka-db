@@ -1,5 +1,9 @@
 {
     "title": "Vanquished Queens Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/48913.jpg",
+        "alt": "vanquished-queens-specials"
+    },
     "type": "special",
     "episodes": "4",
     "original_name": "ヴァンキッシュド・クイーンズ",

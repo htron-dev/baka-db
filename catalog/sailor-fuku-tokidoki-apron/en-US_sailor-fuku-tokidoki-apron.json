@@ -1,5 +1,9 @@
 {
     "title": "Sailor Fuku, Tokidoki Apron",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/128613.jpg",
+        "alt": "sailor-fuku-tokidoki-apron"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "44",

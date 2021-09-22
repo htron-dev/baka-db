@@ -1,5 +1,9 @@
 {
     "title": "Suki x Suki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193277.jpg",
+        "alt": "suki-x-suki"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "23",

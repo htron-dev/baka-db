@@ -1,5 +1,9 @@
 {
     "title": "Neko Neko Nihonshi 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/89586.jpg",
+        "alt": "neko-neko-nihonshi-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "32",
     "original_name": "ねこねこ日本史",

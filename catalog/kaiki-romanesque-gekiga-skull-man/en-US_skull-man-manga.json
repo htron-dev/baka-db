@@ -1,5 +1,9 @@
 {
     "title": "Skull Man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171446.jpg",
+        "alt": "skull-man"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "50",

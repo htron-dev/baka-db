@@ -1,5 +1,9 @@
 {
     "title": "Hitohira",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/23639.jpg",
+        "alt": "hitohira"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ひとひら",

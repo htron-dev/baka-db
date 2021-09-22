@@ -1,5 +1,9 @@
 {
     "title": "Boku dake ga Inai Machi Recaps",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/86477.jpg",
+        "alt": "boku-dake-ga-inai-machi-recaps"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "僕だけがいない街",

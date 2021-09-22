@@ -1,5 +1,9 @@
 {
     "title": "Peach Command Shin Momotarou Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/80051.jpg",
+        "alt": "peach-command-shin-momotarou-densetsu"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "PEACH COMMAND 新桃太郎伝説",

@@ -1,5 +1,9 @@
 {
     "title": "Tetsu no Don Quixote",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187154.jpg",
+        "alt": "tetsu-no-don-quixote"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

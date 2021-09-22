@@ -1,5 +1,9 @@
 {
     "title": "Top wo Nerae 2!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36789.jpg",
+        "alt": "top-wo-nerae-2"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

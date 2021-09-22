@@ -1,5 +1,9 @@
 {
     "title": "Absolute Duo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175374.jpg",
+        "alt": "absolute-duo"
+    },
     "type": "light-novel",
     "original_name": "アブソリュート・デュオ",
     "start_date": "2012-08-23",

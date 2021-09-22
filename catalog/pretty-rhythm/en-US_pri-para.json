@@ -1,12 +1,16 @@
 {
     "title": "PriPara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/75258.jpg",
+        "alt": "pri-para"
+    },
     "type": "tv-serie",
     "episodes": "140",
     "original_name": "プリパラ",
     "start_date": "2014-07-05",
     "end_date": "2014-07-05",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"Make it!\" by i☆Ris (eps 1-13)",
+    "ending_song": "#01: \"Jumpin' Dancin'\" by Prizmmy☆ (eps 1-13)",
     "rating": "PG - Children",
     "tags": [
         "music",

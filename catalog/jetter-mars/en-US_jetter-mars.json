@@ -1,12 +1,16 @@
 {
     "title": "Jetter Mars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/75840.jpg",
+        "alt": "jetter-mars"
+    },
     "type": "tv-serie",
     "episodes": "27",
     "original_name": "ジェッターマルス",
     "start_date": "1977-02-03",
     "end_date": "1977-02-03",
     "opening_song": "\"Mars 2015 Nen (マルス 2015 年)\" by Koorogi '73, Steven Toth",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Shounen Mars (少年マルス)\" by Steven Toth, Kumiko Oosugi",
     "rating": "G - All Ages",
     "tags": [
         "action",

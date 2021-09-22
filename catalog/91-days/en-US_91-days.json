@@ -1,5 +1,9 @@
 {
     "title": "91 Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/80515.jpg",
+        "alt": "91-days"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "91Days",

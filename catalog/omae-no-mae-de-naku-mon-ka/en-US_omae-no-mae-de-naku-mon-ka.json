@@ -1,5 +1,9 @@
 {
     "title": "Omae no Mae de Naku Mon ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225417.jpg",
+        "alt": "omae-no-mae-de-naku-mon-ka"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

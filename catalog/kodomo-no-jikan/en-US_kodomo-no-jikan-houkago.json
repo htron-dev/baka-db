@@ -1,5 +1,9 @@
 {
     "title": "Kodomo no Jikan: Houkago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/96461.jpg",
+        "alt": "kodomo-no-jikan-houkago"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "22",

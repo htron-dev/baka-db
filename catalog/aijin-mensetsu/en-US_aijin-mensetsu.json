@@ -1,5 +1,9 @@
 {
     "title": "Aijin Mensetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/145431.jpg",
+        "alt": "aijin-mensetsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

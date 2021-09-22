@@ -1,5 +1,9 @@
 {
     "title": "Sumire Syrup",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/63683.jpg",
+        "alt": "sumire-syrup"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

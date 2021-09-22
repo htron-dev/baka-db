@@ -1,5 +1,9 @@
 {
     "title": "Shinwa Seniki no Graphics",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201052.jpg",
+        "alt": "shinwa-seniki-no-graphics"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Yoshiwara Hana Oboro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/78183.jpg",
+        "alt": "yoshiwara-hana-oboro"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

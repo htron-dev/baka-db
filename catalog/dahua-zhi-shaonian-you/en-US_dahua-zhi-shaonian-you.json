@@ -1,5 +1,9 @@
 {
     "title": "Dahua Zhi Shaonian You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1530/107440.jpg",
+        "alt": "dahua-zhi-shaonian-you"
+    },
     "type": "ona",
     "episodes": "16",
     "original_name": "大话之少年游",

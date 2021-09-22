@@ -1,12 +1,16 @@
 {
     "title": "Idoly Pride",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1025/111962.jpg",
+        "alt": "idoly-pride"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "IDOLY PRIDE",
     "start_date": "2021-01-10",
     "end_date": "2021-01-10",
     "opening_song": "\"IDOLY PRIDE\" by Hoshimi Production (星見プロダクション)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"The Sun, Moon and Stars\" by Hoshimi Production (星見プロダクション) (eps 1-2, 5-6)",
     "rating": "None",
     "tags": [
         "music"

@@ -1,5 +1,9 @@
 {
     "title": "Boku no Yasashii Oniisan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/15152.jpg",
+        "alt": "boku-no-yasashii-oniisan"
+    },
     "type": "manga",
     "original_name": "僕のやさしいお兄さん",
     "start_date": "2007-09-20",

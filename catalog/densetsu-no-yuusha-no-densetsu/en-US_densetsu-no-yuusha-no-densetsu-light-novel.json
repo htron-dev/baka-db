@@ -1,5 +1,9 @@
 {
     "title": "Densetsu no Yuusha no Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35043.jpg",
+        "alt": "densetsu-no-yuusha-no-densetsu"
+    },
     "type": "light-novel",
     "volumes": "11",
     "chapters": "56",

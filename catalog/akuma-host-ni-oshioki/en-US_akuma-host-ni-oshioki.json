@@ -1,5 +1,9 @@
 {
     "title": "Akuma Host ni Oshioki!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/60651.jpg",
+        "alt": "akuma-host-ni-oshioki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

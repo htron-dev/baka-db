@@ -1,5 +1,9 @@
 {
     "title": "Ciao Ciao Bambino",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2519.jpg",
+        "alt": "ciao-ciao-bambino"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

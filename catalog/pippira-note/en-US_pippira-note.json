@@ -1,5 +1,9 @@
 {
     "title": "Pippira Note",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186103.jpg",
+        "alt": "pippira-note"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "84",

@@ -1,5 +1,9 @@
 {
     "title": "Gensou Suikoden II",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/150294.jpg",
+        "alt": "gensou-suikoden-ii"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "幻想水滸伝 II",

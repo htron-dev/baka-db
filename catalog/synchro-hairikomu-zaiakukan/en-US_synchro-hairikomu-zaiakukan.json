@@ -1,5 +1,9 @@
 {
     "title": "Synchro: Hairikomu Zaiakukan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229361.jpg",
+        "alt": "synchro-hairikomu-zaiakukan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

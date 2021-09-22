@@ -1,5 +1,9 @@
 {
     "title": "Mamono World wa Kimi ga Tsukutta no da!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160789.jpg",
+        "alt": "mamono-world-wa-kimi-ga-tsukutta-no-da"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

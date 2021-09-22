@@ -1,5 +1,9 @@
 {
     "title": "Kokoro Kimi-iro Sakurairo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/78117.jpg",
+        "alt": "kokoro-kimi-iro-sakurairo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "38",

@@ -1,5 +1,9 @@
 {
     "title": "Oira no Hijouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/85248.jpg",
+        "alt": "oira-no-hijouji"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "おいらの非常時",

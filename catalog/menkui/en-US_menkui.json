@@ -1,5 +1,9 @@
 {
     "title": "Menkui!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5252.jpg",
+        "alt": "menkui"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

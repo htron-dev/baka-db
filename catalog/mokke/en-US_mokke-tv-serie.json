@@ -1,5 +1,9 @@
 {
     "title": "Mokke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/19674.jpg",
+        "alt": "mokke"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "もっけ",

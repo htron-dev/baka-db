@@ -1,5 +1,9 @@
 {
     "title": "Räikkönen no Nettaigyo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/115047.jpg",
+        "alt": "raikkonen-no-nettaigyo"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ライコネンの熱帯魚",

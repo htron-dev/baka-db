@@ -1,5 +1,9 @@
 {
     "title": "Gravitation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/21856.jpg",
+        "alt": "gravitation"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "グラビテーション",

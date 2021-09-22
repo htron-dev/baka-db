@@ -1,5 +1,9 @@
 {
     "title": "Musuko ga Osewa ni Nattemasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23251.jpg",
+        "alt": "musuko-ga-osewa-ni-nattemasu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "息子がお世話になってます！",

@@ -1,5 +1,9 @@
 {
     "title": "Cracking Wizard",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/120455.jpg",
+        "alt": "cracking-wizard"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "クラッキング・ウィザード",

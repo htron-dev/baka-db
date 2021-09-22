@@ -1,5 +1,9 @@
 {
     "title": "Sanchoume no Gokuakunin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164225.jpg",
+        "alt": "sanchoume-no-gokuakunin"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

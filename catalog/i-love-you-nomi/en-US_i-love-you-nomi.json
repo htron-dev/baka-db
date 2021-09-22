@@ -1,5 +1,9 @@
 {
     "title": "I LOVE YOU Nomi!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/20816.jpg",
+        "alt": "i-love-you-nomi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

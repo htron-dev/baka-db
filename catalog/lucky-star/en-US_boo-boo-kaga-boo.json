@@ -1,5 +1,9 @@
 {
     "title": "BooBoo KagaBoo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79069.jpg",
+        "alt": "boo-boo-kaga-boo"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ぶーぶーかがぶー",

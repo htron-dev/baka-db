@@ -1,5 +1,9 @@
 {
     "title": "Bocchi Tenseiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243008.jpg",
+        "alt": "bocchi-tenseiki"
+    },
     "type": "manga",
     "original_name": "ぼっち転生記",
     "start_date": "2019-10-25",

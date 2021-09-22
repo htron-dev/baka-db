@@ -1,5 +1,9 @@
 {
     "title": "Tsuno no Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223221.jpg",
+        "alt": "tsuno-no-otoko"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

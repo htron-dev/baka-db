@@ -1,5 +1,9 @@
 {
     "title": "Musou Orochi Battle Royal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185623.jpg",
+        "alt": "musou-orochi-battle-royal"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "無双 Orochi バトルロイヤル",

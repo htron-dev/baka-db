@@ -1,5 +1,9 @@
 {
     "title": "Chuuka Ichiban!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/201802.jpg",
+        "alt": "chuuka-ichiban"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "36",

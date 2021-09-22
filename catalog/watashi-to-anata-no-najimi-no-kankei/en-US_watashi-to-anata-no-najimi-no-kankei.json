@@ -1,5 +1,9 @@
 {
     "title": "Watashi to Anata no Najimi no Kankei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/156210.jpg",
+        "alt": "watashi-to-anata-no-najimi-no-kankei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

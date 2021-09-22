@@ -1,5 +1,9 @@
 {
     "title": "Sin: Nanatsu no Taizai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194328.jpg",
+        "alt": "sin-nanatsu-no-taizai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Shade: The Other Side of Light",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14121.jpg",
+        "alt": "shade-the-other-side-of-light"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "26",

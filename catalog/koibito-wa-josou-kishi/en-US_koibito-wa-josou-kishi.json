@@ -1,5 +1,9 @@
 {
     "title": "Koibito wa Josou Kishi!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/242038.jpg",
+        "alt": "koibito-wa-josou-kishi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

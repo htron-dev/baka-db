@@ -1,5 +1,9 @@
 {
     "title": "Oya no Kao ga Mitemitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170684.jpg",
+        "alt": "oya-no-kao-ga-mitemitai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

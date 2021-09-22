@@ -1,5 +1,9 @@
 {
     "title": "Venus Versus Virus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/26738.jpg",
+        "alt": "venus-versus-virus"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "37",

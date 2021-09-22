@@ -1,5 +1,9 @@
 {
     "title": "Oni Keibu Anpan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/70673.jpg",
+        "alt": "oni-keibu-anpan"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "鬼警部アンパン",

@@ -1,5 +1,9 @@
 {
     "title": "Master wa Stray Cat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160796.jpg",
+        "alt": "master-wa-stray-cat"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "34",

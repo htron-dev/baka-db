@@ -1,5 +1,9 @@
 {
     "title": "Zutto Zutto.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/79359.jpg",
+        "alt": "zutto-zutto"
+    },
     "type": "manga",
     "original_name": "ずっとずっと",
     "tags": [

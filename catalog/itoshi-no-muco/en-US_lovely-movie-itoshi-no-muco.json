@@ -1,5 +1,9 @@
 {
     "title": "Lovely Movie: Itoshi no Muco",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/61923.jpg",
+        "alt": "lovely-movie-itoshi-no-muco"
+    },
     "type": "tv-serie",
     "episodes": "20",
     "original_name": "ラブリームービー いとしのムーコ",

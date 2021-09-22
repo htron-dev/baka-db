@@ -1,5 +1,9 @@
 {
     "title": "1-bun 16-byou 08",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179521.jpg",
+        "alt": "1-bun-16-byou-08"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "32",

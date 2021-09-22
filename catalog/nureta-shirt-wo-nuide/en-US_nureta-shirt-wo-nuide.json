@@ -1,5 +1,9 @@
 {
     "title": "Nureta Shirt wo Nuide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/71959.jpg",
+        "alt": "nureta-shirt-wo-nuide"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

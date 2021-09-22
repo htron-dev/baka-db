@@ -1,12 +1,16 @@
 {
     "title": "Bakuon!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/78914.jpg",
+        "alt": "bakuon"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ばくおん!!",
     "start_date": "2016-04-05",
     "end_date": "2016-04-05",
     "opening_song": "\"FEEL×ALIVE\" by Sayaka Sasaki",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Voon! Voon! Ride On! (ぶぉん！ぶぉん！らいど・おん！)\" by Hane Sakura (Reina Ueda), Rin Suzunoki (Nao Touyama), Onsa Amano (Yumi Uchiyama), Hijiri Minowa (Rikako Yamaguchi) (eps 1-8)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

@@ -1,5 +1,9 @@
 {
     "title": "Aya no Kisetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/120837.jpg",
+        "alt": "aya-no-kisetsu"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "49",

@@ -1,5 +1,9 @@
 {
     "title": "Series Itsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25361.jpg",
+        "alt": "series-itsuki"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "Hoozuki-san Chi no Aneki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/119937.jpg",
+        "alt": "hoozuki-san-chi-no-aneki"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "32",

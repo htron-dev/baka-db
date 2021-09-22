@@ -1,5 +1,9 @@
 {
     "title": "Chinchin Kemokemo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/221718.jpg",
+        "alt": "chinchin-kemokemo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

@@ -1,5 +1,9 @@
 {
     "title": "Shingetsu no Chigiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186100.jpg",
+        "alt": "shingetsu-no-chigiri"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

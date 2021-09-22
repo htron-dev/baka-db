@@ -1,5 +1,9 @@
 {
     "title": "Ao no Hako",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/248748.jpg",
+        "alt": "ao-no-hako"
+    },
     "type": "manga",
     "original_name": "アオのハコ",
     "start_date": "2021-04-12",

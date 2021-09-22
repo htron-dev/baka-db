@@ -1,5 +1,9 @@
 {
     "title": "Oishii Reikon no Tabekata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/17617.jpg",
+        "alt": "oishii-reikon-no-tabekata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Mellow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155089.jpg",
+        "alt": "mellow"
+    },
     "type": "manga",
     "volumes": "14",
     "original_name": "女郎 MELLOW",

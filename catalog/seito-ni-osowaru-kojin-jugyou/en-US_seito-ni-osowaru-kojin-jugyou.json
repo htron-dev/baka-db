@@ -1,5 +1,9 @@
 {
     "title": "Seito ni Osowaru Kojin Jugyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/39845.jpg",
+        "alt": "seito-ni-osowaru-kojin-jugyou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

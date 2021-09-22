@@ -1,5 +1,9 @@
 {
     "title": "Apple Candy Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1216/115321.jpg",
+        "alt": "apple-candy-girl"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "애플캔디걸",

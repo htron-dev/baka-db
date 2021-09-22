@@ -1,5 +1,9 @@
 {
     "title": "Ningyokan Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/25527.jpg",
+        "alt": "ningyokan-monogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

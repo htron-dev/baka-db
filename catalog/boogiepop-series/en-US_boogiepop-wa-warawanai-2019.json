@@ -1,12 +1,16 @@
 {
     "title": "Boogiepop wa Warawanai (2019)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1135/95454.jpg",
+        "alt": "boogiepop-wa-warawanai-2019"
+    },
     "type": "tv-serie",
     "episodes": "18",
     "original_name": "ブギーポップは笑わない",
     "start_date": "2019-01-04",
     "end_date": "2019-01-04",
     "opening_song": "\"shadowgraph\" by MYTH＆ROID",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Whiteout\" by Riko Azuna (eps 1-8, 10-17)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "mystery",

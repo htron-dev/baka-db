@@ -1,5 +1,9 @@
 {
     "title": "Three and a Half",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2189.jpg",
+        "alt": "three-and-a-half"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

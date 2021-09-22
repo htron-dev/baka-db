@@ -1,5 +1,9 @@
 {
     "title": "Ai no Seigi de Yoru ga Akeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15235.jpg",
+        "alt": "ai-no-seigi-de-yoru-ga-akeru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

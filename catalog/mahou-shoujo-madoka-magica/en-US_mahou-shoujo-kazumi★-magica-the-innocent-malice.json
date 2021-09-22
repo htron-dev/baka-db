@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo Kazumi★Magica: The Innocent Malice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/41783.jpg",
+        "alt": "mahou-shoujo-kazumi★-magica-the-innocent-malice"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "23",

@@ -1,5 +1,9 @@
 {
     "title": "Inning!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/208222.jpg",
+        "alt": "inning"
+    },
     "type": "manga",
     "original_name": "いにんぐ！",
     "start_date": "2016-10-26",

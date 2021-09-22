@@ -1,5 +1,9 @@
 {
     "title": "One Night Lesson",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/17594.jpg",
+        "alt": "one-night-lesson"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

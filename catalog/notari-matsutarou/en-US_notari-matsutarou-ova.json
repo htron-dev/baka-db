@@ -1,5 +1,9 @@
 {
     "title": "Notari Matsutarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/19012.jpg",
+        "alt": "notari-matsutarou"
+    },
     "type": "ova",
     "episodes": "10",
     "original_name": "のたり松太郎",

@@ -1,5 +1,9 @@
 {
     "title": "Kanojo wa Idenshi Kumikae-kei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159519.jpg",
+        "alt": "kanojo-wa-idenshi-kumikae-kei"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "彼女は遺伝子組み換え系",

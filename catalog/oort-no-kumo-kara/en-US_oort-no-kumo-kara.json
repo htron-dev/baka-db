@@ -1,5 +1,9 @@
 {
     "title": "Oort no Kumo kara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227069.jpg",
+        "alt": "oort-no-kumo-kara"
+    },
     "type": "manga",
     "chapters": "6",
     "original_name": "オールトの雲から",

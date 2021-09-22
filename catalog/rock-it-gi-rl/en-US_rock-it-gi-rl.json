@@ -1,5 +1,9 @@
 {
     "title": "Rock it, GiRL!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/125675.jpg",
+        "alt": "rock-it-gi-rl"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

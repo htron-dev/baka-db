@@ -1,5 +1,9 @@
 {
     "title": "Obake no Dokurou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/72599.jpg",
+        "alt": "obake-no-dokurou"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "オバケのどくろう",

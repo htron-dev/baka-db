@@ -1,5 +1,9 @@
 {
     "title": "La Vie en Bouzu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165076.jpg",
+        "alt": "la-vie-en-bouzu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Cutie Lips",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/57215.jpg",
+        "alt": "cutie-lips"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

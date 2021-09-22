@@ -1,5 +1,9 @@
 {
     "title": "Kyoudai Yamemasu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/71003.jpg",
+        "alt": "kyoudai-yamemasu-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

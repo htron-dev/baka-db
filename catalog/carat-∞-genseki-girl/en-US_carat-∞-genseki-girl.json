@@ -1,5 +1,9 @@
 {
     "title": "Carat ∞ Genseki Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38167.jpg",
+        "alt": "carat-∞-genseki-girl"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

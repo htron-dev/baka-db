@@ -1,5 +1,9 @@
 {
     "title": "Kingdom of the Z",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222026.jpg",
+        "alt": "kingdom-of-the-z"
+    },
     "type": "manga",
     "original_name": "キングダムオブザ Z",
     "start_date": "2018-11-27",

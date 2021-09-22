@@ -1,5 +1,9 @@
 {
     "title": "Aoba-kun ni Kikitai Koto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177744.jpg",
+        "alt": "aoba-kun-ni-kikitai-koto"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "32",

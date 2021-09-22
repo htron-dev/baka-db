@@ -1,5 +1,9 @@
 {
     "title": "Tsubaki Knight Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156149.jpg",
+        "alt": "tsubaki-knight-club"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "63",

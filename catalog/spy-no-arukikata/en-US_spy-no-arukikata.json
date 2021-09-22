@@ -1,5 +1,9 @@
 {
     "title": "Spy no Arukikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167223.jpg",
+        "alt": "spy-no-arukikata"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "スパイの歩き方",

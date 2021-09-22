@@ -1,5 +1,9 @@
 {
     "title": "Kingyo no Ubugoe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236128.jpg",
+        "alt": "kingyo-no-ubugoe"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

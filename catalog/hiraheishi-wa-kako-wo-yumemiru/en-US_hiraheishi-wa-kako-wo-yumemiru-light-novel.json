@@ -1,5 +1,9 @@
 {
     "title": "Hiraheishi wa Kako wo Yumemiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190897.jpg",
+        "alt": "hiraheishi-wa-kako-wo-yumemiru"
+    },
     "type": "light-novel",
     "volumes": "9",
     "original_name": "平兵士は過去を夢見る",

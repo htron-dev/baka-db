@@ -1,5 +1,9 @@
 {
     "title": "Kotarou wa Hitorigurashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215292.jpg",
+        "alt": "kotarou-wa-hitorigurashi"
+    },
     "type": "manga",
     "original_name": "コタローは１人暮らし",
     "start_date": "2015-03-13",

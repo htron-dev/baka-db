@@ -1,5 +1,9 @@
 {
     "title": "Super Natural",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/209916.jpg",
+        "alt": "super-natural"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Die Ragnarok",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20590.jpg",
+        "alt": "die-ragnarok"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

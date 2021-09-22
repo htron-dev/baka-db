@@ -1,5 +1,9 @@
 {
     "title": "Doll-Kara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206014.jpg",
+        "alt": "doll-kara"
+    },
     "type": "manga",
     "original_name": "どるから",
     "start_date": "2017-04-28",

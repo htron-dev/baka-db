@@ -1,5 +1,9 @@
 {
     "title": "Sokuhi Shigan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210962.jpg",
+        "alt": "sokuhi-shigan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

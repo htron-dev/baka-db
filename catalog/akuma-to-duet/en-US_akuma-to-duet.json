@@ -1,5 +1,9 @@
 {
     "title": "Akuma to Duet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/45831.jpg",
+        "alt": "akuma-to-duet"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Gal to Tsukiacchatta Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215806.jpg",
+        "alt": "gal-to-tsukiacchatta-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

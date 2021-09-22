@@ -1,5 +1,9 @@
 {
     "title": "Phantom: Phantom of Inferno",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158922.jpg",
+        "alt": "phantom-phantom-of-inferno"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "20",

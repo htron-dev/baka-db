@@ -1,5 +1,9 @@
 {
     "title": "Haisha nante Kirai da!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/131081.jpg",
+        "alt": "haisha-nante-kirai-da"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

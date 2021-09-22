@@ -1,5 +1,9 @@
 {
     "title": "Märchen Mädchen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/198573.jpg",
+        "alt": "marchen-madchen"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "32",

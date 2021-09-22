@@ -1,5 +1,9 @@
 {
     "title": "Iiki no Ki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174434.jpg",
+        "alt": "iiki-no-ki"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "24",

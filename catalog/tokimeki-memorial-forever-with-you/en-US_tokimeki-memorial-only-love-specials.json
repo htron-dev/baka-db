@@ -1,11 +1,15 @@
 {
     "title": "Tokimeki Memorial: Only Love Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/8530.jpg",
+        "alt": "tokimeki-memorial-only-love-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "ときめきメモリアル Only Love",
     "start_date": "2007-09-21",
     "opening_song": "\"Yokan\" by Yuki Makishima",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kiseki no Kakera\" by Yuki Makishima, Yukako Yoshikawa & Saki Fujita (eps 1-16)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

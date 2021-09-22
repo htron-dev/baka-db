@@ -1,5 +1,9 @@
 {
     "title": "Dramatic Fair",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33262.jpg",
+        "alt": "dramatic-fair"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ドラマティック・フェア",

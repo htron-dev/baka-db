@@ -1,5 +1,9 @@
 {
     "title": "Yamainu no Zangyou ni Warau",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/240055.jpg",
+        "alt": "yamainu-no-zangyou-ni-warau"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

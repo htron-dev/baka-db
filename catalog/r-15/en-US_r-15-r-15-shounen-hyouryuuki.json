@@ -1,5 +1,9 @@
 {
     "title": "R-15: R15 Shounen Hyouryuuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/30175.jpg",
+        "alt": "r-15-r-15-shounen-hyouryuuki"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "あーるじゅうご R15 少年漂流記",
@@ -31,7 +35,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://ja.wikipedia.org/wiki/R-15_(小説"
+            "link": "http://ja.wikipedia.org/wiki/R-15_%28小説%29"
         }
     ]
 }

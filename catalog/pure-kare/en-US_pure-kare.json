@@ -1,5 +1,9 @@
 {
     "title": "Pure Kare.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246387.jpg",
+        "alt": "pure-kare"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Hyakujuu-Ou GoLion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/51647.jpg",
+        "alt": "hyakujuu-ou-go-lion"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "百獣王ゴライオン",

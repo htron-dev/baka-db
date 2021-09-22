@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi ni, Tejou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180890.jpg",
+        "alt": "hatsukoi-ni-tejou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

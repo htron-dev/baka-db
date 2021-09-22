@@ -1,5 +1,9 @@
 {
     "title": "Budouiro no Tsuioku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/124371.jpg",
+        "alt": "budouiro-no-tsuioku"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "葡萄色の追憶",

@@ -1,5 +1,9 @@
 {
     "title": "Uchuu Enban Dai-Sensou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/11614.jpg",
+        "alt": "uchuu-enban-dai-sensou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "宇宙円盤大戦争",

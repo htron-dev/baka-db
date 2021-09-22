@@ -1,5 +1,9 @@
 {
     "title": "Sono Kuchibiru wo Hirake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/43513.jpg",
+        "alt": "sono-kuchibiru-wo-hirake"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

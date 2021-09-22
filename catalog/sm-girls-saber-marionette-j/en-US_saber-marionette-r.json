@@ -1,11 +1,15 @@
 {
     "title": "Saber Marionette R",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/61075.jpg",
+        "alt": "saber-marionette-r"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "SM ガールズ セイバーマリオネット R",
     "start_date": "1995-05-24",
     "end_date": "1995-05-24",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Dakishimete Lovin' You\" by Megumi Hayashibara, Yuri Shiratori, & Akiko Hiramatsu (eps 1-2)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

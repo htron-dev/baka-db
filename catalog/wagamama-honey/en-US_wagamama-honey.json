@@ -1,5 +1,9 @@
 {
     "title": "Wagamama Honey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151643.jpg",
+        "alt": "wagamama-honey"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

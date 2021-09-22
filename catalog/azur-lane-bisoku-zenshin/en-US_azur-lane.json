@@ -1,5 +1,9 @@
 {
     "title": "Azur Lane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1106/111620.jpg",
+        "alt": "azur-lane"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "アズールレーン",

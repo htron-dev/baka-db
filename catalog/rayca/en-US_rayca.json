@@ -1,5 +1,9 @@
 {
     "title": "Rayca",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1564/107067.jpg",
+        "alt": "rayca"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "零花～ rayca",

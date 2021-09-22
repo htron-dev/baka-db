@@ -1,5 +1,9 @@
 {
     "title": "2LJK",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222942.jpg",
+        "alt": "2-ljk"
+    },
     "type": "manga",
     "original_name": "2LJK",
     "start_date": "2019-02-09",

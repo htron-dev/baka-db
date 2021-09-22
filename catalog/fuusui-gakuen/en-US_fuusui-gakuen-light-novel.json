@@ -1,5 +1,9 @@
 {
     "title": "Fuusui Gakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163385.jpg",
+        "alt": "fuusui-gakuen"
+    },
     "type": "light-novel",
     "volumes": "8",
     "chapters": "41",

@@ -1,5 +1,9 @@
 {
     "title": "Funi Funi Marshmallow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/84312.jpg",
+        "alt": "funi-funi-marshmallow"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "フニフニマシュマロ",

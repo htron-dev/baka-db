@@ -1,5 +1,9 @@
 {
     "title": "Kono Sekai de Watashi dake ga Utatteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194314.jpg",
+        "alt": "kono-sekai-de-watashi-dake-ga-utatteru"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "このセカイで私だけが歌ってる",

@@ -1,5 +1,9 @@
 {
     "title": "Ginga Densetsu: Anju to Jiroumaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175055.jpg",
+        "alt": "ginga-densetsu-anju-to-jiroumaru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

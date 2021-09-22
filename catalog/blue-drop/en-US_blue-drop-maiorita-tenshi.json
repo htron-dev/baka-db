@@ -1,5 +1,9 @@
 {
     "title": "Blue Drop: Maiorita Tenshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/9325.jpg",
+        "alt": "blue-drop-maiorita-tenshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

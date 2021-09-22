@@ -1,5 +1,9 @@
 {
     "title": "Kao ga Suki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168043.jpg",
+        "alt": "kao-ga-suki"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "顔が好き",

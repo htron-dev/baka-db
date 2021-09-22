@@ -1,5 +1,9 @@
 {
     "title": "Katsura Hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/68569.jpg",
+        "alt": "katsura-hime"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "かつら姫",

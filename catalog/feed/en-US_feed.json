@@ -1,5 +1,9 @@
 {
     "title": "Feed",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1134/103423.jpg",
+        "alt": "feed"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "FEED",

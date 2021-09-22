@@ -1,5 +1,9 @@
 {
     "title": "Wonder Honey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202085.jpg",
+        "alt": "wonder-honey"
+    },
     "type": "manga",
     "original_name": "ワンダーハニー",
     "start_date": "2017-02-25",

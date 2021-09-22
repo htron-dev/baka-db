@@ -1,5 +1,9 @@
 {
     "title": "Sobakkasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/34742.jpg",
+        "alt": "sobakkasu"
+    },
     "type": "manga",
     "volumes": "11",
     "original_name": "そばっかす!",

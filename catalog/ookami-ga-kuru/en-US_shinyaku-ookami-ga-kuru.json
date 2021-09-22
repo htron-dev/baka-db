@@ -1,5 +1,9 @@
 {
     "title": "Shinyaku Ookami ga Kuru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/22101.jpg",
+        "alt": "shinyaku-ookami-ga-kuru"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "32",

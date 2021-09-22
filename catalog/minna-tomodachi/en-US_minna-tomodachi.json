@@ -1,5 +1,9 @@
 {
     "title": "Minna Tomodachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/61451.jpg",
+        "alt": "minna-tomodachi"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "みんな友だち",

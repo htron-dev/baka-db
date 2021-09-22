@@ -1,5 +1,9 @@
 {
     "title": "Bishoujo Senshi Sailor Moon Eternal Movie 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1710/111094.jpg",
+        "alt": "bishoujo-senshi-sailor-moon-eternal-movie-2"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 美少女戦士セーラームーン Eternal",

@@ -1,12 +1,16 @@
 {
     "title": "Kaiketsu Zorori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/30991.jpg",
+        "alt": "kaiketsu-zorori"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "かいけつゾロリ",
     "start_date": "2004-02-01",
     "end_date": "2004-02-01",
     "opening_song": "\"Hustle (ハッスル)\" by Kouichi Yamadera",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Sora wa Aoi (空は青)\" by Satou-san and Suzuki-kun (eps 1-13)",
     "rating": "PG - Children",
     "tags": [
         "adventure",

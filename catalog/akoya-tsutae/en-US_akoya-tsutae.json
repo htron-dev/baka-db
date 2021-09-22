@@ -1,5 +1,9 @@
 {
     "title": "Akoya Tsutae",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/142745.jpg",
+        "alt": "akoya-tsutae"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "42",

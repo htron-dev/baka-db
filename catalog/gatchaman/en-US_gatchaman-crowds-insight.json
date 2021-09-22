@@ -1,5 +1,9 @@
 {
     "title": "Gatchaman Crowds Insight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/74978.jpg",
+        "alt": "gatchaman-crowds-insight"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "GATCHAMAN CROWDS insight（インサイト）",

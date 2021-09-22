@@ -1,5 +1,9 @@
 {
     "title": "Hanazono no Kioku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/106227.jpg",
+        "alt": "hanazono-no-kioku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

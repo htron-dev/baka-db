@@ -1,5 +1,9 @@
 {
     "title": "Chi-Sui Maru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/87751.jpg",
+        "alt": "chi-sui-maru"
+    },
     "type": "tv-serie",
     "episodes": "41",
     "original_name": "ちーすい丸",

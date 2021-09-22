@@ -1,5 +1,9 @@
 {
     "title": "Kurokami no Medusa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/91649.jpg",
+        "alt": "kurokami-no-medusa"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "黒髪のメデューサ",

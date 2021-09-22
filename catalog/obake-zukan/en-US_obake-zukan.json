@@ -1,5 +1,9 @@
 {
     "title": "Obake Zukan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1885/106287.jpg",
+        "alt": "obake-zukan"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "おばけずかん",

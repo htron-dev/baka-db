@@ -1,5 +1,9 @@
 {
     "title": "Jikobukken no Yuurei-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240208.jpg",
+        "alt": "jikobukken-no-yuurei-chan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "42",

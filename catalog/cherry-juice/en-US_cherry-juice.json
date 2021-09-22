@@ -1,5 +1,9 @@
 {
     "title": "Cherry Juice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164439.jpg",
+        "alt": "cherry-juice"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

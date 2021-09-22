@@ -1,5 +1,9 @@
 {
     "title": "Supipara: Girl's Diary",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202142.jpg",
+        "alt": "supipara-girls-diary"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "17",

@@ -1,5 +1,9 @@
 {
     "title": "BB Deformer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225709.jpg",
+        "alt": "bb-deformer"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "67",

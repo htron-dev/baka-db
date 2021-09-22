@@ -1,5 +1,9 @@
 {
     "title": "Katsubou Anima Gemella",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235418.jpg",
+        "alt": "katsubou-anima-gemella"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

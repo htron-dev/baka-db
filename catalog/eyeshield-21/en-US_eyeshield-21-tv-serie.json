@@ -1,12 +1,16 @@
 {
     "title": "Eyeshield 21",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/66961.jpg",
+        "alt": "eyeshield-21"
+    },
     "type": "tv-serie",
     "episodes": "145",
     "original_name": "アイシールド 21",
     "start_date": "2005-04-06",
     "end_date": "2005-04-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Breakthrough\" by Coming Century (eps 1-35)",
+    "ending_song": "#1: \"Be Free\" by Rikken'z (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

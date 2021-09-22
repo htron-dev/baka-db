@@ -1,5 +1,9 @@
 {
     "title": "Eighth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149136.jpg",
+        "alt": "eighth"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "74",

@@ -1,5 +1,9 @@
 {
     "title": "Shinobi Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/19833.jpg",
+        "alt": "shinobi-life"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "64",

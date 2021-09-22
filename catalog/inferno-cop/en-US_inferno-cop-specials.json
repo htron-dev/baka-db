@@ -1,5 +1,9 @@
 {
     "title": "Inferno Cop Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/74603.jpg",
+        "alt": "inferno-cop-specials"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "インフェルノコップ",

@@ -1,5 +1,9 @@
 {
     "title": "Gunshi x Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202973.jpg",
+        "alt": "gunshi-x-kanojo"
+    },
     "type": "manga",
     "chapters": "25",
     "original_name": "軍師 × 彼女",

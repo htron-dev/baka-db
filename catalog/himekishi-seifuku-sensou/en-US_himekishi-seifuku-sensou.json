@@ -1,5 +1,9 @@
 {
     "title": "Himekishi Seifuku Sensou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159290.jpg",
+        "alt": "himekishi-seifuku-sensou"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "11",

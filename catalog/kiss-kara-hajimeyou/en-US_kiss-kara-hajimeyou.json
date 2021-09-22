@@ -1,5 +1,9 @@
 {
     "title": "Kiss kara Hajimeyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7503.jpg",
+        "alt": "kiss-kara-hajimeyou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

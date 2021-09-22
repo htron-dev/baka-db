@@ -1,5 +1,9 @@
 {
     "title": "Sento no Hishin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7642.jpg",
+        "alt": "sento-no-hishin"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "千都の緋神",

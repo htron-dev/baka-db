@@ -1,11 +1,15 @@
 {
     "title": "Battle Spirits: Heroes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/32193.jpg",
+        "alt": "battle-spirits-heroes"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "バトルスピリッツ 覇王（ヒーローズ）",
     "start_date": "2011-09-18",
     "end_date": "2011-09-18",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Freedom\" by Masayoshi Minoshima(Alstroemeria Records)+REDALiCE(ALiCE'S EMOTiON) feat.ayami (eps 1-31)",
     "ending_song": "\"My Hero My No.1\" by Wataru Hatano",
     "rating": "PG - Children",
     "tags": [

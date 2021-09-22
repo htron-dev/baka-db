@@ -1,5 +1,9 @@
 {
     "title": "Vandread",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/75446.jpg",
+        "alt": "vandread"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ヴァンドレッド",

@@ -1,5 +1,9 @@
 {
     "title": "7 Bridge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171811.jpg",
+        "alt": "7-bridge"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "50",

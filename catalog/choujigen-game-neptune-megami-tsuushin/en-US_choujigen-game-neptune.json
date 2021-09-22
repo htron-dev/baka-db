@@ -1,5 +1,9 @@
 {
     "title": "Choujigen Game Neptune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/117445.jpg",
+        "alt": "choujigen-game-neptune"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

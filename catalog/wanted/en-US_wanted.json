@@ -1,5 +1,9 @@
 {
     "title": "Wanted",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2354.jpg",
+        "alt": "wanted"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

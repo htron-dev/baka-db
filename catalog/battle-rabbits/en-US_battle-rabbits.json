@@ -1,5 +1,9 @@
 {
     "title": "Battle Rabbits",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163659.jpg",
+        "alt": "battle-rabbits"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

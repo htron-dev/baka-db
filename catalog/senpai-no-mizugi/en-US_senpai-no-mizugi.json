@@ -1,5 +1,9 @@
 {
     "title": "Senpai no Mizugi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/51693.jpg",
+        "alt": "senpai-no-mizugi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

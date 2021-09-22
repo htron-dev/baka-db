@@ -1,5 +1,9 @@
 {
     "title": "Tounan Kadobeya Kare no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221589.jpg",
+        "alt": "tounan-kadobeya-kare-no-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Birdmen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/105747.jpg",
+        "alt": "birdmen"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "80",

@@ -1,5 +1,9 @@
 {
     "title": "Psycho-Pass 3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1406/104344.jpg",
+        "alt": "psycho-pass-3"
+    },
     "type": "tv-serie",
     "episodes": "8",
     "original_name": "PSYCHO-PASS サイコパス 3",

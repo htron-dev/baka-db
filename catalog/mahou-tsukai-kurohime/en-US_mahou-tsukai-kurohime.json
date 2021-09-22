@@ -1,5 +1,9 @@
 {
     "title": "Mahou Tsukai Kurohime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/143957.jpg",
+        "alt": "mahou-tsukai-kurohime"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "87",

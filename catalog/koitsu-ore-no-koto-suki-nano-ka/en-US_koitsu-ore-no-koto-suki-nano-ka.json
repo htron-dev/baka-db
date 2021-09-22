@@ -1,5 +1,9 @@
 {
     "title": "Koitsu, Ore no Koto Suki nano ka?!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/219071.jpg",
+        "alt": "koitsu-ore-no-koto-suki-nano-ka"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "25",

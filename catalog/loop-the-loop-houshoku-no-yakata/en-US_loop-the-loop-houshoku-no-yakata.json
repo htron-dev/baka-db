@@ -1,5 +1,9 @@
 {
     "title": "Loop the Loop: Houshoku no Yakata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205822.jpg",
+        "alt": "loop-the-loop-houshoku-no-yakata"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

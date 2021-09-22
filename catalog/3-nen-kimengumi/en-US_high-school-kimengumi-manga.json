@@ -1,5 +1,9 @@
 {
     "title": "High School! Kimengumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187153.jpg",
+        "alt": "high-school-kimengumi"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "261",

@@ -1,12 +1,16 @@
 {
     "title": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/55267.jpg",
+        "alt": "jo-jo-no-kimyou-na-bouken-part-3-stardust-crusaders"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ジョジョの奇妙な冒険 スターダストクルセイダース",
     "start_date": "2014-04-05",
     "end_date": "2014-04-05",
     "opening_song": "\"STAND PROUD\" by Jin Hashimoto (橋本仁) (eps 2-10, 12-24)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Stardust Crusaders\" by Yugo Kanno (ep 2)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

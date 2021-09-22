@@ -1,5 +1,9 @@
 {
     "title": "Ikoku no Bara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/124363.jpg",
+        "alt": "ikoku-no-bara"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "異国の薔薇",

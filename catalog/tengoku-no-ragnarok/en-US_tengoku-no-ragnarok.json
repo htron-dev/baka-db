@@ -1,5 +1,9 @@
 {
     "title": "Tengoku no Ragnarok",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200621.jpg",
+        "alt": "tengoku-no-ragnarok"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "33",

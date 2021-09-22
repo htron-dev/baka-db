@@ -1,5 +1,9 @@
 {
     "title": "Pretty Babies",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/78775.jpg",
+        "alt": "pretty-babies"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

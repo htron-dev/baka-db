@@ -1,5 +1,9 @@
 {
     "title": "Zenryaku, Yuri no Sono yori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/88221.jpg",
+        "alt": "zenryaku-yuri-no-sono-yori"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

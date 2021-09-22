@@ -1,5 +1,9 @@
 {
     "title": "μ&amp;i",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162054.jpg",
+        "alt": "μ-amp-i"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "23",

@@ -1,5 +1,9 @@
 {
     "title": "Tengoku wa Iranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/79503.jpg",
+        "alt": "tengoku-wa-iranai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Sakurazaka Nostalgia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/154287.jpg",
+        "alt": "sakurazaka-nostalgia"
+    },
     "type": "manga",
     "original_name": "桜坂ノスタルジア",
     "start_date": "2014-07-01",

@@ -1,5 +1,9 @@
 {
     "title": "Beluga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1643/93895.jpg",
+        "alt": "beluga"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ベールガ",

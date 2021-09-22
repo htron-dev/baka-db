@@ -1,5 +1,9 @@
 {
     "title": "Okitsune-sama de Chu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/56309.jpg",
+        "alt": "okitsune-sama-de-chu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "30",

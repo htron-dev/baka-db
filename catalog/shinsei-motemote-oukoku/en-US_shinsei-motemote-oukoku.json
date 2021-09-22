@@ -1,5 +1,9 @@
 {
     "title": "Shinsei Motemote Oukoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36104.jpg",
+        "alt": "shinsei-motemote-oukoku"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "157",

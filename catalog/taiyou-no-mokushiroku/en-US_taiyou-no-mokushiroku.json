@@ -1,5 +1,9 @@
 {
     "title": "Taiyou no Mokushiroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/132455.jpg",
+        "alt": "taiyou-no-mokushiroku"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "124",

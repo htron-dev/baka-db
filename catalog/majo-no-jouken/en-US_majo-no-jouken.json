@@ -1,5 +1,9 @@
 {
     "title": "Majo no Jouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/83410.jpg",
+        "alt": "majo-no-jouken"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

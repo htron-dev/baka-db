@@ -1,5 +1,9 @@
 {
     "title": "Din Dong",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/27299.jpg",
+        "alt": "din-dong"
+    },
     "type": "ona",
     "episodes": "5",
     "original_name": "癲噹",

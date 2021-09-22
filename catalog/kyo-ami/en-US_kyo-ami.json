@@ -1,5 +1,9 @@
 {
     "title": "Kyo-Ami!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/147413.jpg",
+        "alt": "kyo-ami"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

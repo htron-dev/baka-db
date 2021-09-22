@@ -1,5 +1,9 @@
 {
     "title": "Harakiri Gomen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228082.jpg",
+        "alt": "harakiri-gomen"
+    },
     "type": "manga",
     "chapters": "4",
     "original_name": "ハラキリゴメン",

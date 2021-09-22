@@ -1,5 +1,9 @@
 {
     "title": "Life is Dead",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/27269.jpg",
+        "alt": "life-is-dead"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ライフ・イズ・デッド",

@@ -1,5 +1,9 @@
 {
     "title": "Aisare Jouzu Keikaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31317.jpg",
+        "alt": "aisare-jouzu-keikaku"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "愛され上手計画",

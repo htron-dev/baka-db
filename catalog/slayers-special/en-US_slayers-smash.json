@@ -1,5 +1,9 @@
 {
     "title": "Slayers Smash",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/217860.jpg",
+        "alt": "slayers-smash"
+    },
     "type": "light-novel",
     "original_name": "スレイヤーズ　すまっしゅ",
     "start_date": "2008-07-20",

@@ -1,5 +1,9 @@
 {
     "title": "Ma no Kakera",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/138905.jpg",
+        "alt": "ma-no-kakera"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

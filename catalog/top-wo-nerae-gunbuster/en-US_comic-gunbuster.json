@@ -1,5 +1,9 @@
 {
     "title": "Comic Gunbuster",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/34019.jpg",
+        "alt": "comic-gunbuster"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "コミックガンバスター",

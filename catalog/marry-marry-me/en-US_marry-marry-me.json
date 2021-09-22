@@ -1,5 +1,9 @@
 {
     "title": "Marry Marry Me!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205516.jpg",
+        "alt": "marry-marry-me"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

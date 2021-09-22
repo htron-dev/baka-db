@@ -1,5 +1,9 @@
 {
     "title": "Toaru Hikuushi e no Seiyaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/117331.jpg",
+        "alt": "toaru-hikuushi-e-no-seiyaku"
+    },
     "type": "light-novel",
     "volumes": "9",
     "chapters": "85",

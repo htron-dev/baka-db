@@ -1,5 +1,9 @@
 {
     "title": "Believe in It",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/71458.jpg",
+        "alt": "believe-in-it"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "believe in it",

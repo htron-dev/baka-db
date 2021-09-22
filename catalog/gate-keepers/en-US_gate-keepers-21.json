@@ -1,12 +1,16 @@
 {
     "title": "Gate Keepers 21",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/75569.jpg",
+        "alt": "gate-keepers-21"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "ゲートキーパーズ 21",
     "start_date": "2002-04-24",
     "end_date": "2002-04-24",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Haoto (羽音)\" by Junko Watanabe (eps 1-3)",
+    "ending_song": "#1: \"Kyou, Egao ga Areba (今日、笑顔があれば)\" by Sakura Nogawa (eps 1-3, 6)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

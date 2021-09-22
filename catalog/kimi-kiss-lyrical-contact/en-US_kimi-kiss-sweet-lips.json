@@ -1,5 +1,9 @@
 {
     "title": "KimiKiss: Sweet Lips",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24159.jpg",
+        "alt": "kimi-kiss-sweet-lips"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

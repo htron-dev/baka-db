@@ -1,5 +1,9 @@
 {
     "title": "Double Mints",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/99453.jpg",
+        "alt": "double-mints"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

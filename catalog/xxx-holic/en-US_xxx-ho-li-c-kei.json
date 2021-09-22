@@ -1,5 +1,9 @@
 {
     "title": "xxxHOLiC Kei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/8626.jpg",
+        "alt": "xxx-ho-li-c-kei"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "×××HOLiC・継",

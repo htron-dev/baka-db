@@ -1,5 +1,9 @@
 {
     "title": "Peace Maker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176064.jpg",
+        "alt": "peace-maker"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "109",

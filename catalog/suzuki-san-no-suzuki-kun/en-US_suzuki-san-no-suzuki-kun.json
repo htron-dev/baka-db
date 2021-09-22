@@ -1,5 +1,9 @@
 {
     "title": "Suzuki-san no Suzuki-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174105.jpg",
+        "alt": "suzuki-san-no-suzuki-kun"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "23",

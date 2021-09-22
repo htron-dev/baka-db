@@ -1,5 +1,9 @@
 {
     "title": "Ingi no Hate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/169399.jpg",
+        "alt": "ingi-no-hate"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

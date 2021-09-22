@@ -1,5 +1,9 @@
 {
     "title": "KoKkuRi-san ga Tooru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179688.jpg",
+        "alt": "ko-kku-ri-san-ga-tooru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

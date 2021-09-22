@@ -1,5 +1,9 @@
 {
     "title": "Okaasan wa Keiji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181460.jpg",
+        "alt": "okaasan-wa-keiji"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "おかあさんは刑事",

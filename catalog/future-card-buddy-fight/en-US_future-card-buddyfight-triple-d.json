@@ -1,12 +1,16 @@
 {
     "title": "Future Card Buddyfight Triple D",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/78622.jpg",
+        "alt": "future-card-buddyfight-triple-d"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "フューチャーカード バディファイト DDD",
     "start_date": "2016-04-02",
     "end_date": "2016-04-02",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Chronograph (クロノグラフ)\" by Takaaki Natsushiro (夏代孝明) (eps 1-)",
+    "ending_song": "#1: \"Waku Doki SHOOTER (ワク ☆ ドキ SHOOTER)\" by Sora Tokui (eps 1-27)",
     "rating": "PG - Children",
     "tags": [
         "game"

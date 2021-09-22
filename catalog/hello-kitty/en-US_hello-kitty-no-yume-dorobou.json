@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no Yume Dorobou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/58679.jpg",
+        "alt": "hello-kitty-no-yume-dorobou"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハローキティの夢どろぼう",

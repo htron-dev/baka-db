@@ -1,5 +1,9 @@
 {
     "title": "Little Busters!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164823.jpg",
+        "alt": "little-busters"
+    },
     "type": "light-novel",
     "original_name": "リトルバスターズ!",
     "start_date": "2013-10-30",

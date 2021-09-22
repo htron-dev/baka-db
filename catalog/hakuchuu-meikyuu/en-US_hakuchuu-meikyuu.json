@@ -1,5 +1,9 @@
 {
     "title": "Hakuchuu Meikyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/71875.jpg",
+        "alt": "hakuchuu-meikyuu"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "白昼迷宮",

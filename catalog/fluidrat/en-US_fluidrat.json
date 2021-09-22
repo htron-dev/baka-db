@@ -1,5 +1,9 @@
 {
     "title": "Fluidrat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203804.jpg",
+        "alt": "fluidrat"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

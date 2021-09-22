@@ -1,5 +1,9 @@
 {
     "title": "Gunjou - Ai ga Shizunda Umi no Iro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40466.jpg",
+        "alt": "gunjou-ai-ga-shizunda-umi-no-iro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Boku to Kanojo no Koisuru Music Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/178274.jpg",
+        "alt": "boku-to-kanojo-no-koisuru-music-days"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

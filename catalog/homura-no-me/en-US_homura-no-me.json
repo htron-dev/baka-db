@@ -1,5 +1,9 @@
 {
     "title": "Homura no Me",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/138779.jpg",
+        "alt": "homura-no-me"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "55",

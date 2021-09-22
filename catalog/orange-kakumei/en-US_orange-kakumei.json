@@ -1,5 +1,9 @@
 {
     "title": "Orange Kakumei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/12394.jpg",
+        "alt": "orange-kakumei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

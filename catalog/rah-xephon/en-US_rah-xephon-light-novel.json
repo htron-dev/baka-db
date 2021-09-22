@@ -1,5 +1,9 @@
 {
     "title": "RahXephon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/76539.jpg",
+        "alt": "rah-xephon"
+    },
     "type": "light-novel",
     "volumes": "5",
     "original_name": "ラーゼフォン",

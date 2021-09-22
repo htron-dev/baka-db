@@ -1,5 +1,9 @@
 {
     "title": "Arahabaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13959.jpg",
+        "alt": "arahabaki"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

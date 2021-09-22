@@ -1,5 +1,9 @@
 {
     "title": "Ani ga Rival!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/137787.jpg",
+        "alt": "ani-ga-rival"
+    },
     "type": "manga",
     "original_name": "兄がライバル!",
     "tags": [

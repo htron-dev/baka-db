@@ -1,5 +1,9 @@
 {
     "title": "Ai no Tane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181451.jpg",
+        "alt": "ai-no-tane"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "12",

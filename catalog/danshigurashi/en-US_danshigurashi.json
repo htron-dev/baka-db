@@ -1,5 +1,9 @@
 {
     "title": "Danshigurashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/144093.jpg",
+        "alt": "danshigurashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

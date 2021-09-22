@@ -1,5 +1,9 @@
 {
     "title": "Ore wo Mite.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247318.jpg",
+        "alt": "ore-wo-mite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

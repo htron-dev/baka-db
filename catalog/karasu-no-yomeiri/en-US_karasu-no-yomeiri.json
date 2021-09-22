@@ -1,5 +1,9 @@
 {
     "title": "Karasu no Yomeiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223773.jpg",
+        "alt": "karasu-no-yomeiri"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

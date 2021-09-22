@@ -1,5 +1,9 @@
 {
     "title": "Red Night Eve",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188946.jpg",
+        "alt": "red-night-eve"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "51",

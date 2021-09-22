@@ -1,5 +1,9 @@
 {
     "title": "Kono Kajitsu wa Dare no Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/74281.jpg",
+        "alt": "kono-kajitsu-wa-dare-no-mono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

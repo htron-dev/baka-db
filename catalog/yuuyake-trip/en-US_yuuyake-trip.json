@@ -1,5 +1,9 @@
 {
     "title": "Yuuyake Trip",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243692.jpg",
+        "alt": "yuuyake-trip"
+    },
     "type": "manga",
     "original_name": "ゆうやけトリップ",
     "start_date": "2019-12-27",

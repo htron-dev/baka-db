@@ -1,5 +1,9 @@
 {
     "title": "Densetsu Kyojin Ideon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/77068.jpg",
+        "alt": "densetsu-kyojin-ideon"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "伝説巨神イデオン",

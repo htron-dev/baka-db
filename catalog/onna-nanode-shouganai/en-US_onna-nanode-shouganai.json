@@ -1,5 +1,9 @@
 {
     "title": "Onna nanode Shouganai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179160.jpg",
+        "alt": "onna-nanode-shouganai"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "68",

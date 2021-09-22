@@ -1,5 +1,9 @@
 {
     "title": "Hiyoko Strike! Houmatsu no Yume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/178451.jpg",
+        "alt": "hiyoko-strike-houmatsu-no-yume"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

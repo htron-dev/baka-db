@@ -1,5 +1,9 @@
 {
     "title": "Maple Town Monogatari (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/84048.jpg",
+        "alt": "maple-town-monogatari-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "メイプルタウン物語",

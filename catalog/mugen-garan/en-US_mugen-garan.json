@@ -1,5 +1,9 @@
 {
     "title": "Mugen Garan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/29421.jpg",
+        "alt": "mugen-garan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

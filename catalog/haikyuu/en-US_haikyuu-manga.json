@@ -1,5 +1,9 @@
 {
     "title": "Haikyuu!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/89519.jpg",
+        "alt": "haikyuu"
+    },
     "type": "manga",
     "volumes": "45",
     "chapters": "407",

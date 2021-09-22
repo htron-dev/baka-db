@@ -1,5 +1,9 @@
 {
     "title": "Hundred",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/212621.jpg",
+        "alt": "hundred"
+    },
     "type": "light-novel",
     "volumes": "16",
     "chapters": "116",

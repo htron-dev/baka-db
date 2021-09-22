@@ -1,5 +1,9 @@
 {
     "title": "Shin Kobo-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/58737.jpg",
+        "alt": "shin-kobo-chan"
+    },
     "type": "manga",
     "original_name": "新コボちゃん",
     "start_date": "2004-05-06",

@@ -1,5 +1,9 @@
 {
     "title": "Karin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181516.jpg",
+        "alt": "karin"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "63",

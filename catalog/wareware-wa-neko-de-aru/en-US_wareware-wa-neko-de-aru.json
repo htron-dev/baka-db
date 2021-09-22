@@ -1,5 +1,9 @@
 {
     "title": "Wareware wa Neko de Aru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239751.jpg",
+        "alt": "wareware-wa-neko-de-aru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

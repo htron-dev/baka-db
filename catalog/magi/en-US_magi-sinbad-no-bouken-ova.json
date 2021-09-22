@@ -1,5 +1,9 @@
 {
     "title": "Magi: Sinbad no Bouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/60471.jpg",
+        "alt": "magi-sinbad-no-bouken"
+    },
     "type": "ova",
     "episodes": "5",
     "original_name": "マギ シンドバッドの冒険",

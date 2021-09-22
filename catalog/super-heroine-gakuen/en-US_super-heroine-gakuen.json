@@ -1,5 +1,9 @@
 {
     "title": "Super Heroine Gakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158779.jpg",
+        "alt": "super-heroine-gakuen"
+    },
     "type": "light-novel",
     "original_name": "スーパーヒロイン学園",
     "start_date": "2014-12-03",

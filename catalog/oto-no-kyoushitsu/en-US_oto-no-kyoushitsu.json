@@ -1,5 +1,9 @@
 {
     "title": "Oto no Kyoushitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175551.jpg",
+        "alt": "oto-no-kyoushitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

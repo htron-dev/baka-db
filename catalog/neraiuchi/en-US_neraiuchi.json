@@ -1,5 +1,9 @@
 {
     "title": "Neraiuchi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/148415.jpg",
+        "alt": "neraiuchi"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "29",

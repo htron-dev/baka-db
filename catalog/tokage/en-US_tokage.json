@@ -1,5 +1,9 @@
 {
     "title": "Tokage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172741.jpg",
+        "alt": "tokage"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

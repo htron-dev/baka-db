@@ -1,5 +1,9 @@
 {
     "title": "Jouzetsu na Shichakushitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26802.jpg",
+        "alt": "jouzetsu-na-shichakushitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

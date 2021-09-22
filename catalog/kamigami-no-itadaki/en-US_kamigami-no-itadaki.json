@@ -1,5 +1,9 @@
 {
     "title": "Kamigami no Itadaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166336.jpg",
+        "alt": "kamigami-no-itadaki"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "47",

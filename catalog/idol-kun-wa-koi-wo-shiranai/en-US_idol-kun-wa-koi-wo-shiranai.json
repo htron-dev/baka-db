@@ -1,5 +1,9 @@
 {
     "title": "Idol-kun wa Koi wo Shiranai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205612.jpg",
+        "alt": "idol-kun-wa-koi-wo-shiranai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

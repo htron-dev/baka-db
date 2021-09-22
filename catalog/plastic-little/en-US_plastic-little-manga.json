@@ -1,5 +1,9 @@
 {
     "title": "Plastic Little",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/3126.jpg",
+        "alt": "plastic-little"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

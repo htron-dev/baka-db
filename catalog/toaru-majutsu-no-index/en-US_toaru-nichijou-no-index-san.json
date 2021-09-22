@@ -1,5 +1,9 @@
 {
     "title": "Toaru Nichijou no Index-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/125225.jpg",
+        "alt": "toaru-nichijou-no-index-san"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "59",

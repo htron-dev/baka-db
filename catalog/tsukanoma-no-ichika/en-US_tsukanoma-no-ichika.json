@@ -1,5 +1,9 @@
 {
     "title": "Tsukanoma no Ichika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244860.jpg",
+        "alt": "tsukanoma-no-ichika"
+    },
     "type": "manga",
     "original_name": "束の間の一花〈いちか〉",
     "start_date": "2019-07-26",

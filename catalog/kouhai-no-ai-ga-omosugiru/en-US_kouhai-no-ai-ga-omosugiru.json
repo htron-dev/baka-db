@@ -1,5 +1,9 @@
 {
     "title": "Kouhai no Ai ga Omosugiru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236574.jpg",
+        "alt": "kouhai-no-ai-ga-omosugiru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

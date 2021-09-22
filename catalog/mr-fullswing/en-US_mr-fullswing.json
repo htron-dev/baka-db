@@ -1,5 +1,9 @@
 {
     "title": "Mr. Fullswing",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186705.jpg",
+        "alt": "mr-fullswing"
+    },
     "type": "manga",
     "volumes": "24",
     "chapters": "227",

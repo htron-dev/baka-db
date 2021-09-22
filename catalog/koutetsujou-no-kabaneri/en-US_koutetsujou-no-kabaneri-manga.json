@@ -1,5 +1,9 @@
 {
     "title": "Koutetsujou no Kabaneri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186860.jpg",
+        "alt": "koutetsujou-no-kabaneri"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "28",

@@ -1,5 +1,9 @@
 {
     "title": "Iketeru Police",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33242.jpg",
+        "alt": "iketeru-police"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "イケてる刑事",

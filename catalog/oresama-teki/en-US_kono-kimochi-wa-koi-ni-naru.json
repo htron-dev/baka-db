@@ -1,5 +1,9 @@
 {
     "title": "Kono Kimochi wa Koi ni Naru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/9092.jpg",
+        "alt": "kono-kimochi-wa-koi-ni-naru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

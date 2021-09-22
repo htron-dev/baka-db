@@ -1,5 +1,9 @@
 {
     "title": "Tabemonogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/219894.jpg",
+        "alt": "tabemonogatari"
+    },
     "type": "manga",
     "original_name": "タベモノガタリ",
     "start_date": "2017-07-19",

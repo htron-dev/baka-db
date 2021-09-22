@@ -1,5 +1,9 @@
 {
     "title": "Tsuri Baka Nisshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/11276.jpg",
+        "alt": "tsuri-baka-nisshi"
+    },
     "type": "tv-serie",
     "episodes": "36",
     "original_name": "釣りバカ日誌",

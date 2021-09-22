@@ -1,5 +1,9 @@
 {
     "title": "Junai wo Sagase!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/133807.jpg",
+        "alt": "junai-wo-sagase"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "純愛を探せ！",

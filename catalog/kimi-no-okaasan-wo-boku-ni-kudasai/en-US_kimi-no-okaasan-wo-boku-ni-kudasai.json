@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Okaasan wo Boku ni Kudasai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226254.jpg",
+        "alt": "kimi-no-okaasan-wo-boku-ni-kudasai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "33",

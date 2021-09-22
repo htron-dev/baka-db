@@ -1,5 +1,9 @@
 {
     "title": "Baron Gong Battle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161782.jpg",
+        "alt": "baron-gong-battle"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "78",

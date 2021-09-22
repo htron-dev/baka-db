@@ -1,5 +1,9 @@
 {
     "title": "Ore no Shitsuketa Doutei-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224352.jpg",
+        "alt": "ore-no-shitsuketa-doutei-chan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

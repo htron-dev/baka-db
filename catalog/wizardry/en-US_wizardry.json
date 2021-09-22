@@ -1,5 +1,9 @@
 {
     "title": "Wizardry",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1982/112296.jpg",
+        "alt": "wizardry"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ウィザードリィ",

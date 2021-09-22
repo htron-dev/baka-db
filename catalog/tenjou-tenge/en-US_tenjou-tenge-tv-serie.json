@@ -1,5 +1,9 @@
 {
     "title": "Tenjou Tenge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/8380.jpg",
+        "alt": "tenjou-tenge"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "天上天下",

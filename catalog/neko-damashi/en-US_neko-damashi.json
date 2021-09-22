@@ -1,5 +1,9 @@
 {
     "title": "Neko Damashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/62317.jpg",
+        "alt": "neko-damashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

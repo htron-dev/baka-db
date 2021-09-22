@@ -1,5 +1,9 @@
 {
     "title": "Godzilla vs. Space Godzilla",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/86297.jpg",
+        "alt": "godzilla-vs-space-godzilla"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ゴジラ vs スペースゴジラ",

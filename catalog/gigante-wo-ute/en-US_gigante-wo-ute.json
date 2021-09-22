@@ -1,5 +1,9 @@
 {
     "title": "Gigante wo Ute",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/216919.jpg",
+        "alt": "gigante-wo-ute"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "28",

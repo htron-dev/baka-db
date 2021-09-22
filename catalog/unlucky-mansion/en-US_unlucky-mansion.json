@@ -1,5 +1,9 @@
 {
     "title": "Unlucky Mansion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204764.jpg",
+        "alt": "unlucky-mansion"
+    },
     "type": "manhwa",
     "chapters": "73",
     "original_name": "언럭키맨션",

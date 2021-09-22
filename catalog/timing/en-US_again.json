@@ -1,5 +1,9 @@
 {
     "title": "Again",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229329.jpg",
+        "alt": "again"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "30",

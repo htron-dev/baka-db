@@ -1,5 +1,9 @@
 {
     "title": "Mother Ghoul",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191372.jpg",
+        "alt": "mother-ghoul"
+    },
     "type": "manga",
     "original_name": "マザーグール",
     "start_date": "2016-08-19",

@@ -1,5 +1,9 @@
 {
     "title": "Kamidarake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169446.jpg",
+        "alt": "kamidarake"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

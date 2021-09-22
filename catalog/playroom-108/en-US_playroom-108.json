@@ -1,5 +1,9 @@
 {
     "title": "Playroom 108",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245145.jpg",
+        "alt": "playroom-108"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

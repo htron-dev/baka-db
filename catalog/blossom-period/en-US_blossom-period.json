@@ -1,5 +1,9 @@
 {
     "title": "Blossom Period",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/69813.jpg",
+        "alt": "blossom-period"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

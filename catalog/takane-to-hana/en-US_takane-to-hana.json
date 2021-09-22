@@ -1,5 +1,9 @@
 {
     "title": "Takane to Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152773.jpg",
+        "alt": "takane-to-hana"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "115",

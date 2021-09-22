@@ -1,5 +1,9 @@
 {
     "title": "Kimi wa Sakamichi no Tochuu de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/22693.jpg",
+        "alt": "kimi-wa-sakamichi-no-tochuu-de"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "君は坂道の途中で",

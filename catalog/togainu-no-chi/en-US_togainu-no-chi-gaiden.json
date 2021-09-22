@@ -1,5 +1,9 @@
 {
     "title": "Togainu no Chi Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/63559.jpg",
+        "alt": "togainu-no-chi-gaiden"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

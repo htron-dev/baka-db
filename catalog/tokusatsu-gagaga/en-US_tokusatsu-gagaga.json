@@ -1,5 +1,9 @@
 {
     "title": "Tokusatsu Gagaga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171689.jpg",
+        "alt": "tokusatsu-gagaga"
+    },
     "type": "manga",
     "original_name": "トクサツガガガ",
     "start_date": "2014-08-11",

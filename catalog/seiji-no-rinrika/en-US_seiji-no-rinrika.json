@@ -1,5 +1,9 @@
 {
     "title": "Seiji no Rinrika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/85158.jpg",
+        "alt": "seiji-no-rinrika"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "政治の倫理化",

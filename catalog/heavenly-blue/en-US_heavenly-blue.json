@@ -1,5 +1,9 @@
 {
     "title": "Heavenly Blue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24410.jpg",
+        "alt": "heavenly-blue"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

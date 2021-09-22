@@ -1,5 +1,9 @@
 {
     "title": "Toubou Kinshi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/56401.jpg",
+        "alt": "toubou-kinshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

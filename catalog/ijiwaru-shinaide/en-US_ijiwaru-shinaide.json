@@ -1,5 +1,9 @@
 {
     "title": "Ijiwaru Shinaide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38400.jpg",
+        "alt": "ijiwaru-shinaide"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

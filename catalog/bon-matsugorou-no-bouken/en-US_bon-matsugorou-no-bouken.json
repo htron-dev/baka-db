@@ -1,5 +1,9 @@
 {
     "title": "Bon Matsugorou no Bouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30503.jpg",
+        "alt": "bon-matsugorou-no-bouken"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ボン松五郎の冒険",

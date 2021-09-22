@@ -1,5 +1,9 @@
 {
     "title": "Sword Art Online: Hollow Realization",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193355.jpg",
+        "alt": "sword-art-online-hollow-realization"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "38",

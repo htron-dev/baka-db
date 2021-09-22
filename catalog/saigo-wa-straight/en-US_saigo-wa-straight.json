@@ -1,5 +1,9 @@
 {
     "title": "Saigo wa? Straight!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203711.jpg",
+        "alt": "saigo-wa-straight"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "197",

@@ -1,5 +1,9 @@
 {
     "title": "Zenryaku Yome Atarimashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164030.jpg",
+        "alt": "zenryaku-yome-atarimashita"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "22",

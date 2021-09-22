@@ -1,5 +1,9 @@
 {
     "title": "Twin Hearts",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/25291.jpg",
+        "alt": "twin-hearts"
+    },
     "type": "manhwa",
     "volumes": "13",
     "tags": [

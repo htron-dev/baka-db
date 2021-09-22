@@ -1,5 +1,9 @@
 {
     "title": "Buddha Saitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/16302.jpg",
+        "alt": "buddha-saitan"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "仏陀再誕",

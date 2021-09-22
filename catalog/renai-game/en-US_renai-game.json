@@ -1,5 +1,9 @@
 {
     "title": "Renai Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171569.jpg",
+        "alt": "renai-game"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

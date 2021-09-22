@@ -1,5 +1,9 @@
 {
     "title": "Mangaka Zankoku Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/197598.jpg",
+        "alt": "mangaka-zankoku-monogatari"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "28",

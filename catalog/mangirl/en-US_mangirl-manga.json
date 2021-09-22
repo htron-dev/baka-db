@@ -1,5 +1,9 @@
 {
     "title": "Mangirl!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/67009.jpg",
+        "alt": "mangirl"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "37",

@@ -1,5 +1,9 @@
 {
     "title": "Oval x Over",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/29979.jpg",
+        "alt": "oval-x-over"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "OVALxOVER",

@@ -1,5 +1,9 @@
 {
     "title": "Doyoubi ni wa Kitto Iku kara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32733.jpg",
+        "alt": "doyoubi-ni-wa-kitto-iku-kara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

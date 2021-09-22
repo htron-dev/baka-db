@@ -1,5 +1,9 @@
 {
     "title": "Monkey Peak",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1654/95851.jpg",
+        "alt": "monkey-peak"
+    },
     "type": "ona",
     "episodes": "20",
     "original_name": "モンキーピーク",

@@ -1,5 +1,9 @@
 {
     "title": "Seishun Buta Yarou Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177502.jpg",
+        "alt": "seishun-buta-yarou-series"
+    },
     "type": "light-novel",
     "original_name": "青春ブタ野郎シリーズ",
     "start_date": "2014-04-10",

@@ -1,5 +1,9 @@
 {
     "title": "Hataraku Saibou!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1726/114552.jpg",
+        "alt": "hataraku-saibou"
+    },
     "type": "tv-serie",
     "episodes": "8",
     "original_name": "はたらく細胞!!",

@@ -1,5 +1,9 @@
 {
     "title": "Okane ga Nai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/145339.jpg",
+        "alt": "okane-ga-nai"
+    },
     "type": "manga",
     "original_name": "お金がないっ",
     "start_date": "2002-03-26",

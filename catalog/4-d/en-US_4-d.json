@@ -1,5 +1,9 @@
 {
     "title": "4D",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170161.jpg",
+        "alt": "4-d"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "34",

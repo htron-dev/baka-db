@@ -1,5 +1,9 @@
 {
     "title": "Intense Rain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2676.jpg",
+        "alt": "intense-rain"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

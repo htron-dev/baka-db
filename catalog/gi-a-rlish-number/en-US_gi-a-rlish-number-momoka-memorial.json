@@ -1,5 +1,9 @@
 {
     "title": "Gi(a)rlish Number: Momoka Memorial",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186221.jpg",
+        "alt": "gi-a-rlish-number-momoka-memorial"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

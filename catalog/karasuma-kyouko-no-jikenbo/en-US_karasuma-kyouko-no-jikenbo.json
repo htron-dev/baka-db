@@ -1,5 +1,9 @@
 {
     "title": "Karasuma Kyouko no Jikenbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168516.jpg",
+        "alt": "karasuma-kyouko-no-jikenbo"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "86",

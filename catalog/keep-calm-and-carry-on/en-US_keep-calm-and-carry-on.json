@@ -1,5 +1,9 @@
 {
     "title": "Keep Calm and Carry On",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1401/100897.jpg",
+        "alt": "keep-calm-and-carry-on"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "KEEP CALM AND CARRY ON",

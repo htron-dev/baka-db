@@ -1,5 +1,9 @@
 {
     "title": "Fallen Angels",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28451.jpg",
+        "alt": "fallen-angels"
+    },
     "type": "manhwa",
     "volumes": "15",
     "original_name": "타락천사",

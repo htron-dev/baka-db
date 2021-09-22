@@ -1,5 +1,9 @@
 {
     "title": "Pokémon Get da ze!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/185592.jpg",
+        "alt": "pokemon-get-da-ze"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "79",

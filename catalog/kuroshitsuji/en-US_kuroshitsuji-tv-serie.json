@@ -1,12 +1,16 @@
 {
     "title": "Kuroshitsuji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/27013.jpg",
+        "alt": "kuroshitsuji"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "黒執事",
     "start_date": "2008-10-03",
     "end_date": "2008-10-03",
     "opening_song": "\"Monochrome no Kiss (モノクロのキス)\" by SID",
-    "ending_song": "#01",
+    "ending_song": "#01: \"I'm ALIVE!\" by BECCA (eps 1-13)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

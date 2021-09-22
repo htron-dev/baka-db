@@ -1,12 +1,16 @@
 {
     "title": "Highschool of the Dead",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/78311.jpg",
+        "alt": "highschool-of-the-dead"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "学園黙示録 HIGHSCHOOL OF THE DEAD",
     "start_date": "2010-07-05",
     "end_date": "2010-07-05",
     "opening_song": "\"HIGHSCHOOL OF THE DEAD\" by Kishida Kyoudan & The Akeboshi Rockets",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Kimi to Taiyou ga Shinda hi\" by Maon Kurosaki (ep 1)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

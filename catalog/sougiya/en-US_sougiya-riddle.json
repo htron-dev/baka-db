@@ -1,5 +1,9 @@
 {
     "title": "Sougiya Riddle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25083.jpg",
+        "alt": "sougiya-riddle"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "46",

@@ -1,5 +1,9 @@
 {
     "title": "Ukkari Pénélope (2017)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1746/91765.jpg",
+        "alt": "ukkari-penelope-2017"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "うっかりペネロペ",
@@ -21,7 +25,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%8D%E3%83%AD%E3%83%9A_(%E7%B5%B5%E6%9C%AC"
+            "link": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%8D%E3%83%AD%E3%83%9A_%28%E7%B5%B5%E6%9C%AC%29"
         }
     ]
 }

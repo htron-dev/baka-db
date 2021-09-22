@@ -1,5 +1,9 @@
 {
     "title": "Mini Van",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/76472.jpg",
+        "alt": "mini-van"
+    },
     "type": "tv-serie",
     "episodes": "37",
     "original_name": "みにヴぁん",

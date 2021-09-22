@@ -1,5 +1,9 @@
 {
     "title": "Kanojo ni Awaseru Kao ga Nai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/199352.jpg",
+        "alt": "kanojo-ni-awaseru-kao-ga-nai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "34",

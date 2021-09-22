@@ -1,5 +1,9 @@
 {
     "title": "Odoru Hoshifuru Renesickle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/105601.jpg",
+        "alt": "odoru-hoshifuru-renesickle"
+    },
     "type": "light-novel",
     "volumes": "7",
     "chapters": "74",

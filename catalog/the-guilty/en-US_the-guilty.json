@@ -1,5 +1,9 @@
 {
     "title": "The Guilty",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20348.jpg",
+        "alt": "the-guilty"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "40",

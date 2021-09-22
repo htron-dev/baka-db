@@ -1,5 +1,9 @@
 {
     "title": "Usotsuki Ouji no Karekano Gokko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236647.jpg",
+        "alt": "usotsuki-ouji-no-karekano-gokko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

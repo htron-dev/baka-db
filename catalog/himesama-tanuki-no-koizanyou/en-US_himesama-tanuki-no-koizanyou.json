@@ -1,5 +1,9 @@
 {
     "title": "Himesama Tanuki no Koizanyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/126799.jpg",
+        "alt": "himesama-tanuki-no-koizanyou"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "75",

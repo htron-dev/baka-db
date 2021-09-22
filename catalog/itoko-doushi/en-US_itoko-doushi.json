@@ -1,5 +1,9 @@
 {
     "title": "Itoko Doushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/119029.jpg",
+        "alt": "itoko-doushi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

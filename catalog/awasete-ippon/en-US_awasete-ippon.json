@@ -1,5 +1,9 @@
 {
     "title": "Awasete Ippon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/25686.jpg",
+        "alt": "awasete-ippon"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

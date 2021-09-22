@@ -1,5 +1,9 @@
 {
     "title": "Renai Kidou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/139203.jpg",
+        "alt": "renai-kidou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

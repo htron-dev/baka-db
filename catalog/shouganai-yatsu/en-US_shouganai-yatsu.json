@@ -1,5 +1,9 @@
 {
     "title": "Shouganai Yatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/12197.jpg",
+        "alt": "shouganai-yatsu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "しょーがないヤツ。",

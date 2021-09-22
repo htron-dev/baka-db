@@ -1,9 +1,13 @@
 {
     "title": "Ani x Para: Anata no Hero wa Dare desu ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1336/102231.jpg",
+        "alt": "ani-x-para-anata-no-hero-wa-dare-desu-ka"
+    },
     "type": "special",
     "original_name": "アニ × パラ〜あなたのヒーローは誰ですか〜",
     "start_date": "2017-11-10",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Turn Up\" by OKAMOTO'S",
     "rating": "G - All Ages",
     "tags": [
         "sports"

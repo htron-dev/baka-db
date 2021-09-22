@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo Misa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166188.jpg",
+        "alt": "mahou-shoujo-misa"
+    },
     "type": "manga",
     "original_name": "魔法少女ミサ",
     "start_date": "2014-01-23",

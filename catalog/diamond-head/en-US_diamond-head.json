@@ -1,5 +1,9 @@
 {
     "title": "Diamond Head",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/1802.jpg",
+        "alt": "diamond-head"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "16",

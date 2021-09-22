@@ -1,5 +1,9 @@
 {
     "title": "City Hunter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/75879.jpg",
+        "alt": "city-hunter"
+    },
     "type": "manga",
     "volumes": "35",
     "chapters": "193",

@@ -1,5 +1,9 @@
 {
     "title": "Loveholic Guys",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203728.jpg",
+        "alt": "loveholic-guys"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

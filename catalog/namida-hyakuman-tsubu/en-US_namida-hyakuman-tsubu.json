@@ -1,5 +1,9 @@
 {
     "title": "Namida Hyakuman Tsubu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6461.jpg",
+        "alt": "namida-hyakuman-tsubu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

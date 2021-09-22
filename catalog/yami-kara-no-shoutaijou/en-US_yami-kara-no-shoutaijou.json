@@ -1,5 +1,9 @@
 {
     "title": "Yami kara no Shoutaijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/48899.jpg",
+        "alt": "yami-kara-no-shoutaijou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

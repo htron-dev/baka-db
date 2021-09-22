@@ -1,5 +1,9 @@
 {
     "title": "A Love Guard",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25274.jpg",
+        "alt": "a-love-guard"
+    },
     "type": "manhwa",
     "volumes": "9",
     "original_name": "사랑지기",

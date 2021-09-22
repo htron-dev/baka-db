@@ -1,5 +1,9 @@
 {
     "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193539.jpg",
+        "alt": "sayounara-ryuusei-konnichiwa-jinsei"
+    },
     "type": "manga",
     "original_name": "さようなら竜生, こんにちは人生",
     "start_date": "2015-12-22",

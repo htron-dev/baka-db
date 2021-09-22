@@ -1,5 +1,9 @@
 {
     "title": "Hinamizawa Teiryuujo: Higurashi no Naku Koro ni Genten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176843.jpg",
+        "alt": "hinamizawa-teiryuujo-higurashi-no-naku-koro-ni-genten"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Full Moon ni Sasayaite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/117567.jpg",
+        "alt": "full-moon-ni-sasayaite"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

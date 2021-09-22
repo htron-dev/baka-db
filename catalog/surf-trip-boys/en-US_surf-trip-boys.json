@@ -1,5 +1,9 @@
 {
     "title": "Surf Trip Boys?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/47809.jpg",
+        "alt": "surf-trip-boys"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

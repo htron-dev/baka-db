@@ -1,5 +1,9 @@
 {
     "title": "Ixion Saga ED",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/99167.jpg",
+        "alt": "ixion-saga-ed"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

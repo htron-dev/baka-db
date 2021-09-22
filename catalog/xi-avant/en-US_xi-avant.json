@@ -1,5 +1,9 @@
 {
     "title": "Xi Avant",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/33549.jpg",
+        "alt": "xi-avant"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "クロッシイ・アバン",

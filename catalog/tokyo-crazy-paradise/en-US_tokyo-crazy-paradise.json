@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Crazy Paradise",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/124097.jpg",
+        "alt": "tokyo-crazy-paradise"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "111",

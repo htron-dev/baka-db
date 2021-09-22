@@ -1,5 +1,9 @@
 {
     "title": "Cinderella Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30553.jpg",
+        "alt": "cinderella-boy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

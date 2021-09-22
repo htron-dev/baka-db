@@ -1,5 +1,9 @@
 {
     "title": "Peter Panda",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/30227.jpg",
+        "alt": "peter-panda"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "24",

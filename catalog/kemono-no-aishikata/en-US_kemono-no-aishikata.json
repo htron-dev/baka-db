@@ -1,5 +1,9 @@
 {
     "title": "Kemono no Aishikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/84299.jpg",
+        "alt": "kemono-no-aishikata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

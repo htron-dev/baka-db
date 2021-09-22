@@ -1,5 +1,9 @@
 {
     "title": "Rockman X4",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/35096.jpg",
+        "alt": "rockman-x-4"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

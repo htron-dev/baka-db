@@ -1,5 +1,9 @@
 {
     "title": "Wakusei Drops",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33667.jpg",
+        "alt": "wakusei-drops"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

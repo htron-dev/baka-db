@@ -1,12 +1,16 @@
 {
     "title": "Aikatsu on Parade!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1712/102652.jpg",
+        "alt": "aikatsu-on-parade"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "アイカツオンパレード!",
     "start_date": "2019-10-05",
     "end_date": "2019-10-05",
     "opening_song": "\"Kimi no Entrance (君の Entrance)\" by Raki Kiseki (Rin Aira), Aine Yuuki (Akane Matsunaga), Mio Minato (Ibuki Kido) from BEST FRIENDS!",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Idol Katsudou! on Parade ver. (アイドル活動！オンパレード！ver.)\" by Raki Kiseki (Rin Aira), Aine Yuuki (Akane Matsunaga), Mio Minato (Ibuki Kido) from BEST FRIENDS & Waka, Ruka, Sena (eps 1, 3, 6, 10, 13, 16, 18, 21-22, 25)",
     "rating": "PG - Children",
     "tags": [
         "music",

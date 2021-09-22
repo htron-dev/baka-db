@@ -1,5 +1,9 @@
 {
     "title": "Juggle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/109481.jpg",
+        "alt": "juggle"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "22",

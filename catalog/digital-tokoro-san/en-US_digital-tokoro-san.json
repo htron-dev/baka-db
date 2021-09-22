@@ -1,5 +1,9 @@
 {
     "title": "Digital Tokoro-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1777/114798.jpg",
+        "alt": "digital-tokoro-san"
+    },
     "type": "tv-serie",
     "episodes": "245",
     "original_name": "デジタル所さん",

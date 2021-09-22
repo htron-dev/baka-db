@@ -1,5 +1,9 @@
 {
     "title": "Tomodachi Login",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167376.jpg",
+        "alt": "tomodachi-login"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "Moon Edge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/63619.jpg",
+        "alt": "moon-edge"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Paprika: The Dream-Child",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149515.jpg",
+        "alt": "paprika-the-dream-child"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

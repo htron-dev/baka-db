@@ -1,5 +1,9 @@
 {
     "title": "Toradora!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/148447.jpg",
+        "alt": "toradora"
+    },
     "type": "light-novel",
     "volumes": "10",
     "chapters": "62",

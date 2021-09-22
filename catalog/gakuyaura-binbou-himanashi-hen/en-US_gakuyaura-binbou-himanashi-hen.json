@@ -1,5 +1,9 @@
 {
     "title": "Gakuyaura: Binbou Himanashi-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170043.jpg",
+        "alt": "gakuyaura-binbou-himanashi-hen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "68",

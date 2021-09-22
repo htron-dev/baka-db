@@ -1,5 +1,9 @@
 {
     "title": "Binetsu Danshi no Oose no mama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225701.jpg",
+        "alt": "binetsu-danshi-no-oose-no-mama"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

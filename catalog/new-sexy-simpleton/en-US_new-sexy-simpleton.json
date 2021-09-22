@@ -1,5 +1,9 @@
 {
     "title": "New Sexy Simpleton",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/9343.jpg",
+        "alt": "new-sexy-simpleton"
+    },
     "type": "manhwa",
     "volumes": "9",
     "chapters": "45",

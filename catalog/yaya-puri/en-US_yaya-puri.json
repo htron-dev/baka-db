@@ -1,5 +1,9 @@
 {
     "title": "Yaya Puri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29517.jpg",
+        "alt": "yaya-puri"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ややプリ",

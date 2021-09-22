@@ -1,12 +1,16 @@
 {
     "title": "Wonder Beat Scramble",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/7436.jpg",
+        "alt": "wonder-beat-scramble"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ワンダービート S(スクランブル)",
     "start_date": "1986-04-16",
     "end_date": "1986-04-16",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Hitomi wa Cosmos (瞳はコスモス)\" by Mayumi Tsubame, Naomi Tsubame",
+    "ending_song": "#1: \"Wonder Beat (ワンダービート)\" by Mayumi Tsubame, Naomi Tsubame",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Cu-Cu-Cute! SS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162327.jpg",
+        "alt": "cu-cu-cute-ss"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "11",

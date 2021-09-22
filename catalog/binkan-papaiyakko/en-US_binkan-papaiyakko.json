@@ -1,5 +1,9 @@
 {
     "title": "Binkan Papaiyakko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/78033.jpg",
+        "alt": "binkan-papaiyakko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

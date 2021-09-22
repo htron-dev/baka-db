@@ -1,5 +1,9 @@
 {
     "title": "Higurashi no Naku Koro ni Gou: Comic Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247652.jpg",
+        "alt": "higurashi-no-naku-koro-ni-gou-comic-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

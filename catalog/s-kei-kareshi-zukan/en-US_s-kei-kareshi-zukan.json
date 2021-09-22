@@ -1,5 +1,9 @@
 {
     "title": "S-kei Kareshi Zukan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31295.jpg",
+        "alt": "s-kei-kareshi-zukan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

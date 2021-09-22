@@ -1,5 +1,9 @@
 {
     "title": "Boku no Mura no Hanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/213269.jpg",
+        "alt": "boku-no-mura-no-hanashi"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "76",

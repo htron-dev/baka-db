@@ -1,5 +1,9 @@
 {
     "title": "Oishinbo: Nichibei Kome Sensou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/24465.jpg",
+        "alt": "oishinbo-nichibei-kome-sensou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "美味しんぼ　日米コメ戦争",

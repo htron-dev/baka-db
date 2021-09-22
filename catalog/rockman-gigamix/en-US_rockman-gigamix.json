@@ -1,5 +1,9 @@
 {
     "title": "Rockman Gigamix",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204031.jpg",
+        "alt": "rockman-gigamix"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "5",

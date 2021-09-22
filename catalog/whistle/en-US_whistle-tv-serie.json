@@ -1,5 +1,9 @@
 {
     "title": "Whistle!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/17885.jpg",
+        "alt": "whistle"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "ホイッスル！",

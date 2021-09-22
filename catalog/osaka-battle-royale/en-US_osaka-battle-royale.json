@@ -1,5 +1,9 @@
 {
     "title": "Osaka Battle Royale",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235224.jpg",
+        "alt": "osaka-battle-royale"
+    },
     "type": "manga",
     "original_name": "大阪バトルロイヤル",
     "start_date": "2019-06-30",

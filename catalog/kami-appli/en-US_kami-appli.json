@@ -1,5 +1,9 @@
 {
     "title": "Kami Appli",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/119083.jpg",
+        "alt": "kami-appli"
+    },
     "type": "manga",
     "original_name": "神アプリ GOD TOOLS",
     "start_date": "2012-04-10",

@@ -1,5 +1,9 @@
 {
     "title": "Kennel Tokorozawa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/38063.jpg",
+        "alt": "kennel-tokorozawa"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ケンネル所沢",

@@ -1,12 +1,16 @@
 {
     "title": "Bleach",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/40451.jpg",
+        "alt": "bleach"
+    },
     "type": "tv-serie",
     "episodes": "366",
     "original_name": "BLEACH - ブリーチ -",
     "start_date": "2004-10-05",
     "end_date": "2004-10-05",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"\"*Asterisk (*～アスタリスク～)\" by Orange Range (eps 1-25)",
+    "ending_song": "#01: \"Life is Like a Boat\" by Rie Fu (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",
@@ -36,7 +40,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Bleach_(manga"
+            "link": "http://en.wikipedia.org/wiki/Bleach_%28manga%29"
         }
     ]
 }

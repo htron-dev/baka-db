@@ -1,5 +1,9 @@
 {
     "title": "Asamiya-san no Imouto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/110971.jpg",
+        "alt": "asamiya-san-no-imouto"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

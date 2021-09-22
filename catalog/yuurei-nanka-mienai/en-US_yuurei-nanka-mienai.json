@@ -1,5 +1,9 @@
 {
     "title": "Yuurei nanka Mienai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163477.jpg",
+        "alt": "yuurei-nanka-mienai"
+    },
     "type": "light-novel",
     "volumes": "7",
     "chapters": "52",

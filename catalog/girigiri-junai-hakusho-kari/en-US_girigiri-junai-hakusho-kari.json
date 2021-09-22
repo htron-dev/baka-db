@@ -1,5 +1,9 @@
 {
     "title": "Girigiri Junai Hakusho (Kari)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201999.jpg",
+        "alt": "girigiri-junai-hakusho-kari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

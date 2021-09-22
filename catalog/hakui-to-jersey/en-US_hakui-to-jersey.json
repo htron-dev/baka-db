@@ -1,5 +1,9 @@
 {
     "title": "Hakui to Jersey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14718.jpg",
+        "alt": "hakui-to-jersey"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

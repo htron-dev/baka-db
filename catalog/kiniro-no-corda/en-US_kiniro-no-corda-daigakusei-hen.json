@@ -1,5 +1,9 @@
 {
     "title": "Kiniro no Corda: Daigakusei-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/211709.jpg",
+        "alt": "kiniro-no-corda-daigakusei-hen"
+    },
     "type": "manga",
     "original_name": "金色のコルダ 大学生編",
     "start_date": "2017-12-09",

@@ -1,8 +1,12 @@
 {
     "title": "009 Re:Cyborg",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/40189.jpg",
+        "alt": "009-re-cyborg"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "009 RE",
+    "original_name": "009 RE:CYBORG",
     "start_date": "2012-10-27",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

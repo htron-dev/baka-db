@@ -1,5 +1,9 @@
 {
     "title": "Mobile Suit Gundam 00 Second Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/28246.jpg",
+        "alt": "mobile-suit-gundam-00-second-season"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

@@ -1,12 +1,16 @@
 {
     "title": "To LOVE-Ru OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/17923.jpg",
+        "alt": "to-love-ru-ova"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "To LOVE る -とらぶる-",
     "start_date": "2009-04-03",
     "end_date": "2009-04-03",
     "opening_song": "\"Yattekoi! Daisuki\" by Haruka Tomatsu and Sayuri Yahagi",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Apple Panic!? (あっぷる・ぱにっく!?)\" by Haruka Tomatsu and Sayuri Yahagi (eps. 1,2, 4, 5 & 6)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "comedy",

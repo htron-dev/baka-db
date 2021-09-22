@@ -1,5 +1,9 @@
 {
     "title": "Dear Diary",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32177.jpg",
+        "alt": "dear-diary"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Ginga Tetsudou no Yoru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/72323.jpg",
+        "alt": "ginga-tetsudou-no-yoru"
+    },
     "type": "manga",
     "original_name": "銀河鉄道の夜",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Grimm Douwa: Iwamoto Reiko Sakuhinshuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/137473.jpg",
+        "alt": "grimm-douwa-iwamoto-reiko-sakuhinshuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

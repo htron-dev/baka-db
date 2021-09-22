@@ -1,5 +1,9 @@
 {
     "title": "Choujin Sensen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165504.jpg",
+        "alt": "choujin-sensen"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "29",

@@ -1,8 +1,12 @@
 {
     "title": "Kai: Geoul Hosu-ui Jeonseol",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/82430.jpg",
+        "alt": "kai-geoul-hosu-ui-jeonseol"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "카이",
+    "original_name": "카이: 거울 호수의 전설",
     "start_date": "2016-08-18",
     "rating": "G - All Ages",
     "tags": [

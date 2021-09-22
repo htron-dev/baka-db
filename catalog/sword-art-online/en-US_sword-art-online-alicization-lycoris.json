@@ -1,5 +1,9 @@
 {
     "title": "Sword Art Online: Alicization Lycoris",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237559.jpg",
+        "alt": "sword-art-online-alicization-lycoris"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

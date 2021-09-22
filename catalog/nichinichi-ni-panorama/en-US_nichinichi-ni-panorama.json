@@ -1,5 +1,9 @@
 {
     "title": "Nichinichi ni Panorama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150480.jpg",
+        "alt": "nichinichi-ni-panorama"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

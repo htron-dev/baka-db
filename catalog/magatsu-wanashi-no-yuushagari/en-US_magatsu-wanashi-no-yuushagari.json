@@ -1,5 +1,9 @@
 {
     "title": "Magatsu Wanashi no Yuushagari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/231000.jpg",
+        "alt": "magatsu-wanashi-no-yuushagari"
+    },
     "type": "manga",
     "original_name": "禍つ罠師の勇者狩り",
     "start_date": "2019-11-19",

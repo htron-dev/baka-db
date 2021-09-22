@@ -1,5 +1,9 @@
 {
     "title": "Retro BL",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227154.jpg",
+        "alt": "retro-bl"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

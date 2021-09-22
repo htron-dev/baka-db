@@ -1,5 +1,9 @@
 {
     "title": "Reisen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177293.jpg",
+        "alt": "reisen"
+    },
     "type": "light-novel",
     "volumes": "8",
     "chapters": "42",

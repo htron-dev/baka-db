@@ -1,5 +1,9 @@
 {
     "title": "Mobile Suit Gundam NT",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227250.jpg",
+        "alt": "mobile-suit-gundam-nt"
+    },
     "type": "manga",
     "original_name": "機動戦士ガンダム NT〈ナラティブ〉",
     "start_date": "2018-11-26",

@@ -1,5 +1,9 @@
 {
     "title": "Shin Obake no Q-tarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171551.jpg",
+        "alt": "shin-obake-no-q-tarou"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "66",

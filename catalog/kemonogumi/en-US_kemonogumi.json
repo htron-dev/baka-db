@@ -1,5 +1,9 @@
 {
     "title": "Kemonogumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/81302.jpg",
+        "alt": "kemonogumi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

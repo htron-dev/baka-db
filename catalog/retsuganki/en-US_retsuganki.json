@@ -1,5 +1,9 @@
 {
     "title": "Retsuganki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/59027.jpg",
+        "alt": "retsuganki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Seifuku wo Matoeba, Umaku Uso ga Tsuketa no ni.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200074.jpg",
+        "alt": "seifuku-wo-matoeba-umaku-uso-ga-tsuketa-no-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Ladyspo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1345/94706.jpg",
+        "alt": "ladyspo"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "レディスポ",

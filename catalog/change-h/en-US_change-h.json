@@ -1,5 +1,9 @@
 {
     "title": "Change H",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/139705.jpg",
+        "alt": "change-h"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "チェンジ H",

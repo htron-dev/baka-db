@@ -1,5 +1,9 @@
 {
     "title": "Ani Tomo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176165.jpg",
+        "alt": "ani-tomo"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "62",

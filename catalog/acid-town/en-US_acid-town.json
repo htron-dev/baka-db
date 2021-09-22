@@ -1,5 +1,9 @@
 {
     "title": "Acid Town",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26516.jpg",
+        "alt": "acid-town"
+    },
     "type": "manga",
     "original_name": "ACID TOWN",
     "start_date": "2008-03-22",

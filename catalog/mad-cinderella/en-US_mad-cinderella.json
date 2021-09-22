@@ -1,5 +1,9 @@
 {
     "title": "Mad Cinderella",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174368.jpg",
+        "alt": "mad-cinderella"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "32",

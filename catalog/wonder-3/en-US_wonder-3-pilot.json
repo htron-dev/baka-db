@@ -1,5 +1,9 @@
 {
     "title": "Wonder 3 Pilot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/74032.jpg",
+        "alt": "wonder-3-pilot"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ワンダースリー",

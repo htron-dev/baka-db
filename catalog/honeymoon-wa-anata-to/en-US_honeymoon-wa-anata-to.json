@@ -1,5 +1,9 @@
 {
     "title": "Honeymoon wa Anata to",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/63251.jpg",
+        "alt": "honeymoon-wa-anata-to"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

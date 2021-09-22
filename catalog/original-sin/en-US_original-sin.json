@@ -1,5 +1,9 @@
 {
     "title": "Original Sin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/83414.jpg",
+        "alt": "original-sin"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

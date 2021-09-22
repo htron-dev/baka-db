@@ -1,5 +1,9 @@
 {
     "title": "Sugar Sugar Rune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160179.jpg",
+        "alt": "sugar-sugar-rune"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "46",

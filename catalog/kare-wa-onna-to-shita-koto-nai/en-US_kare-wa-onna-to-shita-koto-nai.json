@@ -1,5 +1,9 @@
 {
     "title": "Kare wa Onna to Shita Koto Nai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167200.jpg",
+        "alt": "kare-wa-onna-to-shita-koto-nai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

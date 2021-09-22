@@ -1,12 +1,16 @@
 {
     "title": "Devil Survivor 2 The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/47191.jpg",
+        "alt": "devil-survivor-2-the-animation"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "デビルサバイバー２ THE ANIMATION",
     "start_date": "2013-04-05",
     "end_date": "2013-04-05",
     "opening_song": "\"Take Your Way\" by livetune adding Fukase (from SEKAI NO OWARI) (eps 1-8, 11-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Be\" by Song Riders (eps 1-9, 11-13)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

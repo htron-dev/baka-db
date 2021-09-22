@@ -1,5 +1,9 @@
 {
     "title": "Koutetsu Jeeg",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/53969.jpg",
+        "alt": "koutetsu-jeeg"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

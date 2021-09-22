@@ -1,5 +1,9 @@
 {
     "title": "Brother Trap",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235499.jpg",
+        "alt": "brother-trap"
+    },
     "type": "manga",
     "original_name": "ブラザー・トラップ",
     "start_date": "2018-06-21",

@@ -1,5 +1,9 @@
 {
     "title": "Odd Taxi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244007.jpg",
+        "alt": "odd-taxi"
+    },
     "type": "manga",
     "original_name": "オッドタクシー",
     "start_date": "2021-01-15",

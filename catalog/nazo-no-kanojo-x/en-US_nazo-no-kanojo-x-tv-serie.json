@@ -1,5 +1,9 @@
 {
     "title": "Nazo no Kanojo X",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/75205.jpg",
+        "alt": "nazo-no-kanojo-x"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "謎の彼女 X",

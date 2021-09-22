@@ -1,5 +1,9 @@
 {
     "title": "Huaichun Zaijian!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176874.jpg",
+        "alt": "huaichun-zaijian"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "90",

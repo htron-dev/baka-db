@@ -1,5 +1,9 @@
 {
     "title": "Naruto Ninden Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/70963.jpg",
+        "alt": "naruto-ninden-series"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "14",

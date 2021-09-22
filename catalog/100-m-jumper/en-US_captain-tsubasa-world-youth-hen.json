@@ -1,5 +1,9 @@
 {
     "title": "Captain Tsubasa: World Youth-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/29151.jpg",
+        "alt": "captain-tsubasa-world-youth-hen"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "64",

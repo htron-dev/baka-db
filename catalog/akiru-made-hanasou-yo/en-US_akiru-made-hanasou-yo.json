@@ -1,5 +1,9 @@
 {
     "title": "Akiru made Hanasou yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/86193.jpg",
+        "alt": "akiru-made-hanasou-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "あきるまで話そうよ",

@@ -1,5 +1,9 @@
 {
     "title": "Hajime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6578.jpg",
+        "alt": "hajime"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "はじめ",

@@ -1,5 +1,9 @@
 {
     "title": "Heppoko Yuusha ni Senryaku wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207633.jpg",
+        "alt": "heppoko-yuusha-ni-senryaku-wo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "36",

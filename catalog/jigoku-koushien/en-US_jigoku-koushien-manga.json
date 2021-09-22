@@ -1,5 +1,9 @@
 {
     "title": "Jigoku Koushien",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150343.jpg",
+        "alt": "jigoku-koushien"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "地獄甲子園",

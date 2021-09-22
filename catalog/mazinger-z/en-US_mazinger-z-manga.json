@@ -1,5 +1,9 @@
 {
     "title": "Mazinger Z",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187139.jpg",
+        "alt": "mazinger-z"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "33",

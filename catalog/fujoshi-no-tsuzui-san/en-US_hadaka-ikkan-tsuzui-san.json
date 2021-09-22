@@ -1,5 +1,9 @@
 {
     "title": "Hadaka Ikkan! Tsuzui-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226332.jpg",
+        "alt": "hadaka-ikkan-tsuzui-san"
+    },
     "type": "manga",
     "original_name": "裸一貫！つづ井さん",
     "start_date": "2019-05-23",

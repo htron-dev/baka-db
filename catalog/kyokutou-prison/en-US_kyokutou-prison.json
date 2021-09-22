@@ -1,5 +1,9 @@
 {
     "title": "Kyokutou Prison",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/76557.jpg",
+        "alt": "kyokutou-prison"
+    },
     "type": "manga",
     "original_name": "極東プリズン",
     "start_date": "2012-02-24",

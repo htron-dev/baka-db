@@ -1,5 +1,9 @@
 {
     "title": "Shinobi no Onna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36328.jpg",
+        "alt": "shinobi-no-onna"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

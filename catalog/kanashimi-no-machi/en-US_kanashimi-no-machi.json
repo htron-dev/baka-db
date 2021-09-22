@@ -1,5 +1,9 @@
 {
     "title": "Kanashimi no Machi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/248407.jpg",
+        "alt": "kanashimi-no-machi"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "かなしみのまち",

@@ -1,5 +1,9 @@
 {
     "title": "Ekubo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/58653.jpg",
+        "alt": "ekubo"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "え・く・ぼ・！",

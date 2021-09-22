@@ -1,5 +1,9 @@
 {
     "title": "Ashita Tenki ni Naare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196956.jpg",
+        "alt": "ashita-tenki-ni-naare"
+    },
     "type": "manga",
     "volumes": "58",
     "original_name": "あした天気になあれ",

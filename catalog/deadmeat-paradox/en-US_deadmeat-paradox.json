@@ -1,5 +1,9 @@
 {
     "title": "Deadmeat Paradox",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238860.jpg",
+        "alt": "deadmeat-paradox"
+    },
     "type": "manga",
     "original_name": "Deadmeat Paradox",
     "start_date": "2020-10-08",

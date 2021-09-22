@@ -1,5 +1,9 @@
 {
     "title": "Himitsu de, Hanazono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16698.jpg",
+        "alt": "himitsu-de-hanazono"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "秘密で、花園。",

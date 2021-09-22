@@ -1,5 +1,9 @@
 {
     "title": "Birthday Wonderland",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1802/98195.jpg",
+        "alt": "birthday-wonderland"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "バースデー・ワンダーランド",

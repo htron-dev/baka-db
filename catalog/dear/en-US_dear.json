@@ -1,5 +1,9 @@
 {
     "title": "Dear!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32996.jpg",
+        "alt": "dear"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

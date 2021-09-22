@@ -1,5 +1,9 @@
 {
     "title": "Youjo Life!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/240142.jpg",
+        "alt": "youjo-life"
+    },
     "type": "manga",
     "original_name": "よーじょらいふ！",
     "start_date": "2019-05-10",

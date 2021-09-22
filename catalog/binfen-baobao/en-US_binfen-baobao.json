@@ -1,5 +1,9 @@
 {
     "title": "Binfen Baobao",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1034/115196.jpg",
+        "alt": "binfen-baobao"
+    },
     "type": "tv-serie",
     "episodes": "200",
     "original_name": "缤纷宝宝",

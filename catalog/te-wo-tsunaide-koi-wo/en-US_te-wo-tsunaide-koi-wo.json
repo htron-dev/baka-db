@@ -1,5 +1,9 @@
 {
     "title": "Te wo Tsunaide Koi wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170922.jpg",
+        "alt": "te-wo-tsunaide-koi-wo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

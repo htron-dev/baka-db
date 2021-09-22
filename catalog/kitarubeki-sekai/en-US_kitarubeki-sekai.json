@@ -1,5 +1,9 @@
 {
     "title": "Kitarubeki Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/155858.jpg",
+        "alt": "kitarubeki-sekai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "50",

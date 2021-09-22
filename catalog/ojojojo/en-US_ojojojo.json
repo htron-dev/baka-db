@@ -1,5 +1,9 @@
 {
     "title": "Ojojojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/131785.jpg",
+        "alt": "ojojojo"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "64",

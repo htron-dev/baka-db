@@ -1,5 +1,9 @@
 {
     "title": "Bootsleg",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235004.jpg",
+        "alt": "bootsleg"
+    },
     "type": "manga",
     "original_name": "ブーツレグ",
     "start_date": "2019-03-26",

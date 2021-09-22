@@ -1,5 +1,9 @@
 {
     "title": "Yakitate!! Japan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/28467.jpg",
+        "alt": "yakitate-japan"
+    },
     "type": "manga",
     "volumes": "26",
     "chapters": "242",

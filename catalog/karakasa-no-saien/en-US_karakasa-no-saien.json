@@ -1,5 +1,9 @@
 {
     "title": "Karakasa no Saien",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195800.jpg",
+        "alt": "karakasa-no-saien"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

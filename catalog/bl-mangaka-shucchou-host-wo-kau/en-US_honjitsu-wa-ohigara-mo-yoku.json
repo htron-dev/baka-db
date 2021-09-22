@@ -1,5 +1,9 @@
 {
     "title": "Honjitsu wa Ohigara mo Yoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/213502.jpg",
+        "alt": "honjitsu-wa-ohigara-mo-yoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

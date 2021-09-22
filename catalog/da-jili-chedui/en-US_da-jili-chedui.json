@@ -1,5 +1,9 @@
 {
     "title": "Da Jili Chedui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1473/115479.jpg",
+        "alt": "da-jili-chedui"
+    },
     "type": "tv-serie",
     "episodes": "89",
     "original_name": "大吉利车队",

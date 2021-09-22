@@ -1,5 +1,9 @@
 {
     "title": "Planetarian: Hoshi no Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/79771.jpg",
+        "alt": "planetarian-hoshi-no-hito"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "planetarian ～星の人～",

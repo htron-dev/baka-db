@@ -1,5 +1,9 @@
 {
     "title": "I Love You Baby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152474.jpg",
+        "alt": "i-love-you-baby"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "28",

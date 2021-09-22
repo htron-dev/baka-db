@@ -1,5 +1,9 @@
 {
     "title": "Dakara Koi to Yobanaide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36631.jpg",
+        "alt": "dakara-koi-to-yobanaide"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "24",

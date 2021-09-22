@@ -1,5 +1,9 @@
 {
     "title": "Dare ga Omae wo Suki dato Itta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/12433.jpg",
+        "alt": "dare-ga-omae-wo-suki-dato-itta"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

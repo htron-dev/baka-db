@@ -1,5 +1,9 @@
 {
     "title": "Tensai-tachi no Kyouen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173398.jpg",
+        "alt": "tensai-tachi-no-kyouen"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

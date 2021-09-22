@@ -1,5 +1,9 @@
 {
     "title": "Ninja Batman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1351/95947.jpg",
+        "alt": "ninja-batman"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ニンジャバットマン",

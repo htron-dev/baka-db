@@ -1,5 +1,9 @@
 {
     "title": "Ashita no Kyouko-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174912.jpg",
+        "alt": "ashita-no-kyouko-san"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "106",

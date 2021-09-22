@@ -1,5 +1,9 @@
 {
     "title": "K: Return of Kings",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180444.jpg",
+        "alt": "k-return-of-kings"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

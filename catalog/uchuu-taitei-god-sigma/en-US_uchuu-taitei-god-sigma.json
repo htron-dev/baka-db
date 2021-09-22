@@ -1,5 +1,9 @@
 {
     "title": "Uchuu Taitei God Sigma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/52303.jpg",
+        "alt": "uchuu-taitei-god-sigma"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "宇宙大帝ゴッドシグマ",

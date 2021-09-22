@@ -1,5 +1,9 @@
 {
     "title": "Poyopoyo Kansatsu Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/173316.jpg",
+        "alt": "poyopoyo-kansatsu-nikki"
+    },
     "type": "manga",
     "volumes": "15",
     "original_name": "ポヨポヨ観察日記",

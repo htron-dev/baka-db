@@ -1,5 +1,9 @@
 {
     "title": "Smoky God Express",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154185.jpg",
+        "alt": "smoky-god-express"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

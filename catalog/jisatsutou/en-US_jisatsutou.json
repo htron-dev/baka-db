@@ -1,5 +1,9 @@
 {
     "title": "Jisatsutou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182071.jpg",
+        "alt": "jisatsutou"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "168",

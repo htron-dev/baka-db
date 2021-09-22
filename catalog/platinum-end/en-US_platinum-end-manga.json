@@ -1,5 +1,9 @@
 {
     "title": "Platinum End",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172090.jpg",
+        "alt": "platinum-end"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "58",

@@ -1,5 +1,9 @@
 {
     "title": "Ozmafia!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172550.jpg",
+        "alt": "ozmafia"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "OZMAFIA!!",

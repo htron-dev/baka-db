@@ -1,5 +1,9 @@
 {
     "title": "Tashou Naritomo Higenjitsutekina Seikatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/17228.jpg",
+        "alt": "tashou-naritomo-higenjitsutekina-seikatsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

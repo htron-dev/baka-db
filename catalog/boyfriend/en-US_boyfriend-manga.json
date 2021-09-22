@@ -1,5 +1,9 @@
 {
     "title": "Boyfriend",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/7482.jpg",
+        "alt": "boyfriend"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "ボーイフレンド",

@@ -1,5 +1,9 @@
 {
     "title": "Fuyou Kareshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/220417.jpg",
+        "alt": "fuyou-kareshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

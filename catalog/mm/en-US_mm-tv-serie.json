@@ -1,12 +1,16 @@
 {
     "title": "MM!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/85871.jpg",
+        "alt": "mm"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "えむえむっ!",
     "start_date": "2010-10-02",
     "end_date": "2010-10-02",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Help!! -Hell side-\" by Ayana Taketatsu (eps 1-4)",
+    "ending_song": "#1: \"More-more LOVERS!!\" by Natsuko Asou (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "harem",

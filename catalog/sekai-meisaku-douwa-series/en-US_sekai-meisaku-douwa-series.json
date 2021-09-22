@@ -1,5 +1,9 @@
 {
     "title": "Sekai Meisaku Douwa Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/71937.jpg",
+        "alt": "sekai-meisaku-douwa-series"
+    },
     "type": "tv-serie",
     "episodes": "4",
     "original_name": "世界名作童話シリーズ",

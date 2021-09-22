@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo Kinshihou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177011.jpg",
+        "alt": "mahou-shoujo-kinshihou"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "27",

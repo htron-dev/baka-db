@@ -1,5 +1,9 @@
 {
     "title": "Sakura Rhythm",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/1922.jpg",
+        "alt": "sakura-rhythm"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

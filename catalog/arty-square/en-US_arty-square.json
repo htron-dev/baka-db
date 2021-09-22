@@ -1,5 +1,9 @@
 {
     "title": "Arty Square",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/19932.jpg",
+        "alt": "arty-square"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Private Actress",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150860.jpg",
+        "alt": "private-actress"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "32",

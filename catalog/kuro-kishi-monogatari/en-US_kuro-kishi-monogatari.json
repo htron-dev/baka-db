@@ -1,5 +1,9 @@
 {
     "title": "Kuro Kishi Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/108041.jpg",
+        "alt": "kuro-kishi-monogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "16",

@@ -1,12 +1,16 @@
 {
     "title": "Microid S",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/87095.jpg",
+        "alt": "microid-s"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ミクロイドＳ",
     "start_date": "1973-04-07",
     "end_date": "1973-04-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Microid S (ミクロイド S)\" by Youngstars",
+    "ending_song": "#1: \"Yanma Da, Ageha Da, Mamezou Da (Shudaika Betsu Version)\" by Youngstars",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

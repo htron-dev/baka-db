@@ -1,12 +1,16 @@
 {
     "title": "Dragon Ball GT",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1262/93119.jpg",
+        "alt": "dragon-ball-gt"
+    },
     "type": "tv-serie",
     "episodes": "64",
     "original_name": "ドラゴンボール GT",
     "start_date": "1996-02-07",
     "end_date": "1996-02-07",
     "opening_song": "\"DAN DAN Kokoro Hikarete ku\" by Field of View",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hitori Ja Nai\" by Deen (eps 1-26)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Joryuu Sakka to Yuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215872.jpg",
+        "alt": "joryuu-sakka-to-yuki"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

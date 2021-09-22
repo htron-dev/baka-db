@@ -1,5 +1,9 @@
 {
     "title": "Eiki Eiki no Bucchaketai!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22530.jpg",
+        "alt": "eiki-eiki-no-bucchaketai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

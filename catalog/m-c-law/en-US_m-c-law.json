@@ -1,5 +1,9 @@
 {
     "title": "M.C. Law",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/4291.jpg",
+        "alt": "m-c-law"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "28",

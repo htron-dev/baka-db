@@ -1,5 +1,9 @@
 {
     "title": "Magicalize",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177617.jpg",
+        "alt": "magicalize"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

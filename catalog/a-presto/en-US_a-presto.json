@@ -1,5 +1,9 @@
 {
     "title": "A-presto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/128431.jpg",
+        "alt": "a-presto"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

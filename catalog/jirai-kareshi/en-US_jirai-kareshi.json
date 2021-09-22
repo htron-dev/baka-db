@@ -1,5 +1,9 @@
 {
     "title": "Jirai Kareshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235083.jpg",
+        "alt": "jirai-kareshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

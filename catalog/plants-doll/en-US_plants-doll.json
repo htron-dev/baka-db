@@ -1,5 +1,9 @@
 {
     "title": "Plants Doll",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160956.jpg",
+        "alt": "plants-doll"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

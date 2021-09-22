@@ -1,5 +1,9 @@
 {
     "title": "Ignite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/144455.jpg",
+        "alt": "ignite"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "イグナイト",

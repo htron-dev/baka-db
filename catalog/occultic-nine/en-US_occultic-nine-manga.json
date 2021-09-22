@@ -1,5 +1,9 @@
 {
     "title": "Occultic;Nine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175557.jpg",
+        "alt": "occultic-nine"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

@@ -1,12 +1,16 @@
 {
     "title": "Time Bokan: Gyakushuu no San Akunin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/88224.jpg",
+        "alt": "time-bokan-gyakushuu-no-san-akunin"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "タイムボカン 逆襲の三悪人",
     "start_date": "2017-10-07",
     "end_date": "2017-10-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"DESTINY\" by Kouichi Doumoto (Kinki Kids) (October)",
+    "ending_song": "#1: \"20xx\" by Yumemiru Adolescence (夢みるアドレセンス)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

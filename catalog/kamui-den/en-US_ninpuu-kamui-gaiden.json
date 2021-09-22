@@ -1,5 +1,9 @@
 {
     "title": "Ninpuu Kamui Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/22957.jpg",
+        "alt": "ninpuu-kamui-gaiden"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "忍風カムイ外伝",

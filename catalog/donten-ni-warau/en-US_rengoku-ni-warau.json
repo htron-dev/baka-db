@@ -1,5 +1,9 @@
 {
     "title": "Rengoku ni Warau",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/124315.jpg",
+        "alt": "rengoku-ni-warau"
+    },
     "type": "manga",
     "original_name": "煉獄に笑う",
     "start_date": "2013-12-24",

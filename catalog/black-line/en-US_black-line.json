@@ -1,5 +1,9 @@
 {
     "title": "Black Line",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/154637.jpg",
+        "alt": "black-line"
+    },
     "type": "manga",
     "original_name": "Black Line",
     "start_date": "2014-05-06",

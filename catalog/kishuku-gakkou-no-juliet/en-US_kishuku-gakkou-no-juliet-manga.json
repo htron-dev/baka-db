@@ -1,5 +1,9 @@
 {
     "title": "Kishuku Gakkou no Juliet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/188967.jpg",
+        "alt": "kishuku-gakkou-no-juliet"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "121",

@@ -1,5 +1,9 @@
 {
     "title": "Sasakure Journal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/231223.jpg",
+        "alt": "sasakure-journal"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ささくれジャーナル",

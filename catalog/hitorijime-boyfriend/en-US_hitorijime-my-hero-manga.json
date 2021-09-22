@@ -1,5 +1,9 @@
 {
     "title": "Hitorijime My Hero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/248370.jpg",
+        "alt": "hitorijime-my-hero"
+    },
     "type": "manga",
     "original_name": "ひとりじめマイヒーロー",
     "start_date": "2011-05-28",

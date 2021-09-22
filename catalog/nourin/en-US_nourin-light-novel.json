@@ -1,5 +1,9 @@
 {
     "title": "Nourin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/86997.jpg",
+        "alt": "nourin"
+    },
     "type": "light-novel",
     "original_name": "のうりん",
     "start_date": "2011-08-15",

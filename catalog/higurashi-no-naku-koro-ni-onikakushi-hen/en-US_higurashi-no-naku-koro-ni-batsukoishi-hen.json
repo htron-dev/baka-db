@@ -1,5 +1,9 @@
 {
     "title": "Higurashi no Naku Koro ni: Batsukoishi-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40585.jpg",
+        "alt": "higurashi-no-naku-koro-ni-batsukoishi-hen"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ひぐらしのなく頃に 罰恋し編",

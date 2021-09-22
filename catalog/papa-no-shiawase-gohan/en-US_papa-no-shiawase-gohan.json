@@ -1,5 +1,9 @@
 {
     "title": "Papa no Shiawase Gohan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/241709.jpg",
+        "alt": "papa-no-shiawase-gohan"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "パパのしあわせごはん",

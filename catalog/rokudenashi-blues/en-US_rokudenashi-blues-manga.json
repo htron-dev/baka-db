@@ -1,5 +1,9 @@
 {
     "title": "Rokudenashi Blues",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/184928.jpg",
+        "alt": "rokudenashi-blues"
+    },
     "type": "manga",
     "volumes": "42",
     "chapters": "422",

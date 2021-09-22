@@ -1,5 +1,9 @@
 {
     "title": "Maria-sama ga Miteru Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/14338.jpg",
+        "alt": "maria-sama-ga-miteru-specials"
+    },
     "type": "special",
     "episodes": "7",
     "original_name": "マリア様がみてる",

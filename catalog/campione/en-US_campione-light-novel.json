@@ -1,5 +1,9 @@
 {
     "title": "Campione!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152740.jpg",
+        "alt": "campione"
+    },
     "type": "light-novel",
     "volumes": "21",
     "chapters": "168",

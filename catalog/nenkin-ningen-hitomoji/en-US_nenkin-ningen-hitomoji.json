@@ -1,5 +1,9 @@
 {
     "title": "Nenkin Ningen Hitomoji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/245714.jpg",
+        "alt": "nenkin-ningen-hitomoji"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "33",

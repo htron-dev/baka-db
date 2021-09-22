@@ -1,5 +1,9 @@
 {
     "title": "Punch Line Max",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194340.jpg",
+        "alt": "punch-line-max"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

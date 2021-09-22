@@ -1,5 +1,9 @@
 {
     "title": "Hadaka no Banri-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221484.jpg",
+        "alt": "hadaka-no-banri-kun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

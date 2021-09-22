@@ -1,5 +1,9 @@
 {
     "title": "Until You Fall Asleep",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/82252.jpg",
+        "alt": "until-you-fall-asleep"
+    },
     "type": "manhwa",
     "chapters": "1",
     "original_name": "잠들 때까지",

@@ -1,5 +1,9 @@
 {
     "title": "Oira Houkago Wakadaishou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/184491.jpg",
+        "alt": "oira-houkago-wakadaishou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

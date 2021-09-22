@@ -1,5 +1,9 @@
 {
     "title": "Oshiete♡Namie-sensei!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1340/93239.jpg",
+        "alt": "oshiete♡-namie-sensei"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "おしえて ♡ なみえ先生！",

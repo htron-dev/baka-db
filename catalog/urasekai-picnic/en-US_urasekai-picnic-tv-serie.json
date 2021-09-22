@@ -1,12 +1,16 @@
 {
     "title": "Urasekai Picnic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1494/111515.jpg",
+        "alt": "urasekai-picnic"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "裏世界ピクニック",
     "start_date": "2021-01-04",
     "end_date": "2021-01-04",
     "opening_song": "\"Minikui Ikimono (醜い生き物)\" by CHiCO with HoneyWorks",
-    "ending_song": "#1",
+    "ending_song": "#1: \"You & Me\" by Miki Satou (佐藤ミキ) (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

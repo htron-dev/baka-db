@@ -1,12 +1,16 @@
 {
     "title": "Kumo Desu ga, Nani ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1593/113724.jpg",
+        "alt": "kumo-desu-ga-nani-ka"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "蜘蛛ですが、なにか？",
     "start_date": "2021-01-08",
     "end_date": "2021-01-08",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Keep weaving your spider way\" by Riko Azuna",
+    "ending_song": "#1: \"Ganbare! Kumoko-san's Theme (がんばれ！蜘蛛子さんのテーマ)\" by Watashi / Kumoko (Aoi Yuuki)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

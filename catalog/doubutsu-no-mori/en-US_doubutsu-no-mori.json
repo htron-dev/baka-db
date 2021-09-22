@@ -1,5 +1,9 @@
 {
     "title": "Doubutsu no Mori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/13151.jpg",
+        "alt": "doubutsu-no-mori"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "どうぶつの森",

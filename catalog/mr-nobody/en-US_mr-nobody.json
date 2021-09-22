@@ -1,5 +1,9 @@
 {
     "title": "Mr.Nobody",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/82480.jpg",
+        "alt": "mr-nobody"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

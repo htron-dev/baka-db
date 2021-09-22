@@ -1,5 +1,9 @@
 {
     "title": "Kamen Teacher Black",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/144905.jpg",
+        "alt": "kamen-teacher-black"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "47",

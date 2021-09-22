@@ -1,5 +1,9 @@
 {
     "title": "Clay Lord",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/136805.jpg",
+        "alt": "clay-lord"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

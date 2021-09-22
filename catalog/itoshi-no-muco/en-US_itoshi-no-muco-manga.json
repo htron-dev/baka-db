@@ -1,5 +1,9 @@
 {
     "title": "Itoshi no Muco",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/100431.jpg",
+        "alt": "itoshi-no-muco"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "221",

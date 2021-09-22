@@ -1,5 +1,9 @@
 {
     "title": "Sekai de Ichiban Dai Kirai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5257.jpg",
+        "alt": "sekai-de-ichiban-dai-kirai"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "78",

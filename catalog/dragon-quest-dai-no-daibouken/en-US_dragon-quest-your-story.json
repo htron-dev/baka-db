@@ -1,5 +1,9 @@
 {
     "title": "Dragon Quest: Your Story",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1870/101614.jpg",
+        "alt": "dragon-quest-your-story"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ドラゴンクエスト　ユア・ストーリー",

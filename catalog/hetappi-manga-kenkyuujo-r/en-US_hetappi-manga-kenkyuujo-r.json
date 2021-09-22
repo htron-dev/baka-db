@@ -1,5 +1,9 @@
 {
     "title": "Hetappi Manga Kenkyuujo R",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172484.jpg",
+        "alt": "hetappi-manga-kenkyuujo-r"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "18",

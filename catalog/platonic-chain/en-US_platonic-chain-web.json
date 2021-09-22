@@ -1,5 +1,9 @@
 {
     "title": "Platonic Chain: Web",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/11291.jpg",
+        "alt": "platonic-chain-web"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "プラトニック・チェーン",

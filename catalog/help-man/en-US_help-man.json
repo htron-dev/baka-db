@@ -1,5 +1,9 @@
 {
     "title": "Help Man!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149573.jpg",
+        "alt": "help-man"
+    },
     "type": "manga",
     "volumes": "27",
     "chapters": "256",

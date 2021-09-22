@@ -1,5 +1,9 @@
 {
     "title": "Ima, n-kaime no Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/187339.jpg",
+        "alt": "ima-n-kaime-no-kanojo"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

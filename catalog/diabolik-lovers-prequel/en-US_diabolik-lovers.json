@@ -1,12 +1,16 @@
 {
     "title": "Diabolik Lovers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/51989.jpg",
+        "alt": "diabolik-lovers"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "DIABOLIK LOVERS",
     "start_date": "2013-09-16",
     "end_date": "2013-09-16",
     "opening_song": "\"Mr.SADISTIC NIGHT\" by Ayato Sakamaki (Hikaru Midorikawa) & Shuu Sakamaki (Kousuke Toriumi) (eps 2-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"nightmare\" by Yuuki Hayashi (eps 1-12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "harem",

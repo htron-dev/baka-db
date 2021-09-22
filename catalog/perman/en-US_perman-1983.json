@@ -1,12 +1,16 @@
 {
     "title": "Perman (1983)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/32333.jpg",
+        "alt": "perman-1983"
+    },
     "type": "tv-serie",
     "episodes": "526",
     "original_name": "パーマン (1983)",
     "start_date": "1983-04-04",
     "end_date": "1983-04-04",
     "opening_song": "\"Kite yo Perman (きてよパーマン)\" by Katsue Miwa (三輪勝恵) & Columbia Yurikago-kai (ロムビアゆりかご会)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Perman no Ekaki Uta (パーマンのえかきうた)\" by Katsue Miwa (三輪勝恵)",
     "rating": "PG - Children",
     "tags": [
         "comedy",

@@ -1,8 +1,12 @@
 {
     "title": "Cop Craft: Utsukushiki Onna Kishi! Toraware no Yousei wo Oe!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1815/103061.jpg",
+        "alt": "cop-craft-utsukushiki-onna-kishi-toraware-no-yousei-wo-oe"
+    },
     "type": "special",
     "episodes": "1",
-    "original_name": "コップクラフト 特別編",
+    "original_name": "コップクラフト 特別編: 美しき女騎士! とらわれの妖精を追え!",
     "start_date": "2019-09-10",
     "opening_song": "\"Rakuen Toshi (楽園都市)\" by Masayoshi Ooishi",
     "ending_song": "\"Nonfiction\" by Tilarna Exedilika (Mayu Yoshioka)",

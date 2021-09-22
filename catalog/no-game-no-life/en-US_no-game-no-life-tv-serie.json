@@ -1,12 +1,16 @@
 {
     "title": "No Game No Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1074/111944.jpg",
+        "alt": "no-game-no-life"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ノーゲーム・ノーライフ",
     "start_date": "2014-04-09",
     "end_date": "2014-04-09",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"This game\" by Konomi Suzuki (eps 2-8, 10)",
+    "ending_song": "#1: \"This game\" by Konomi Suzuki (eps 1, 12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "game",

@@ -1,5 +1,9 @@
 {
     "title": "Ane Naru Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1544/105268.jpg",
+        "alt": "ane-naru-mono"
+    },
     "type": "ova",
     "original_name": "姉なるもの",
     "rating": "None",

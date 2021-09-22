@@ -1,5 +1,9 @@
 {
     "title": "Calendar Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/24844.jpg",
+        "alt": "calendar-boy"
+    },
     "type": "manga",
     "original_name": "カレンダー ボーイ",
     "start_date": "2009-10-20",

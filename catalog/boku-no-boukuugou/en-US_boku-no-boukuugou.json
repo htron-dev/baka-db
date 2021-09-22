@@ -1,5 +1,9 @@
 {
     "title": "Boku no Boukuugou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/53783.jpg",
+        "alt": "boku-no-boukuugou"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ぼくの防空壕",

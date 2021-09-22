@@ -1,5 +1,9 @@
 {
     "title": "Bokura no Chronostasis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/211202.jpg",
+        "alt": "bokura-no-chronostasis"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

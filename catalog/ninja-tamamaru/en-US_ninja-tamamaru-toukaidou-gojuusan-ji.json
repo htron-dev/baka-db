@@ -1,5 +1,9 @@
 {
     "title": "Ninja Tamamaru: Toukaidou Gojuusan-ji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/84701.jpg",
+        "alt": "ninja-tamamaru-toukaidou-gojuusan-ji"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "忍者玉丸 東海道五十三次",

@@ -1,5 +1,9 @@
 {
     "title": "Tenkuu no Arcamiles",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/121141.jpg",
+        "alt": "tenkuu-no-arcamiles"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "26",

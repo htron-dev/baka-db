@@ -1,5 +1,9 @@
 {
     "title": "Onnanoko x Onnanoko Collection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/109259.jpg",
+        "alt": "onnanoko-x-onnanoko-collection"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

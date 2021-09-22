@@ -1,5 +1,9 @@
 {
     "title": "Kanojochuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/197507.jpg",
+        "alt": "kanojochuu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "彼女中",

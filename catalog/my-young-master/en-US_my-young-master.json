@@ -1,5 +1,9 @@
 {
     "title": "My Young Master",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/29505.jpg",
+        "alt": "my-young-master"
+    },
     "type": "manhwa",
     "chapters": "1",
     "start_date": "2010-01-20",

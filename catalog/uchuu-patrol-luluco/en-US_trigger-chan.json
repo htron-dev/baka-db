@@ -1,5 +1,9 @@
 {
     "title": "Trigger-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/81644.jpg",
+        "alt": "trigger-chan"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "トリガーちゃん",
@@ -20,7 +24,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Trigger_(company"
+            "link": "https://en.wikipedia.org/wiki/Trigger_%28company%29"
         }
     ]
 }

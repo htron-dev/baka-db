@@ -1,5 +1,9 @@
 {
     "title": "Shussan no Shikata ga Wakaranai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234131.jpg",
+        "alt": "shussan-no-shikata-ga-wakaranai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

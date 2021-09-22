@@ -1,5 +1,9 @@
 {
     "title": "Renai Boukun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/187769.jpg",
+        "alt": "renai-boukun"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "61",

@@ -1,5 +1,9 @@
 {
     "title": "Ugly Duckling to Swan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/18774.jpg",
+        "alt": "ugly-duckling-to-swan"
+    },
     "type": "manhwa",
     "volumes": "13",
     "original_name": "미운오리 백조되기",

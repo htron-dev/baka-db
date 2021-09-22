@@ -1,5 +1,9 @@
 {
     "title": "Persona 4: Kiri no Amnesia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/127033.jpg",
+        "alt": "persona-4-kiri-no-amnesia"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "ペルソナ 4 キリノアムネジア",

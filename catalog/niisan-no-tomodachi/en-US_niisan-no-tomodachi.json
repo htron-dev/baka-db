@@ -1,5 +1,9 @@
 {
     "title": "Niisan no Tomodachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223992.jpg",
+        "alt": "niisan-no-tomodachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

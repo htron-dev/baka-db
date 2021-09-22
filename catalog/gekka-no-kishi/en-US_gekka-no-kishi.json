@@ -1,5 +1,9 @@
 {
     "title": "Gekka no Kishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/94445.jpg",
+        "alt": "gekka-no-kishi"
+    },
     "type": "manga",
     "volumes": "32",
     "chapters": "351",

@@ -1,5 +1,9 @@
 {
     "title": "Close Up",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/57525.jpg",
+        "alt": "close-up"
+    },
     "type": "manhwa",
     "original_name": "촤르륵 클로즈업",
     "tags": [

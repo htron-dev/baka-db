@@ -1,5 +1,9 @@
 {
     "title": "Fukigen na Mononokean",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/130743.jpg",
+        "alt": "fukigen-na-mononokean"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "93",

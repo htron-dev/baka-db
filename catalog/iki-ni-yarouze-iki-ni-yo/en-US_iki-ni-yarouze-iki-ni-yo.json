@@ -1,5 +1,9 @@
 {
     "title": "Iki ni Yarouze Iki ni yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201214.jpg",
+        "alt": "iki-ni-yarouze-iki-ni-yo"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "30",

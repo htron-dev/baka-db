@@ -1,5 +1,9 @@
 {
     "title": "Tonosama no Nanahon Yari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239584.jpg",
+        "alt": "tonosama-no-nanahon-yari"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

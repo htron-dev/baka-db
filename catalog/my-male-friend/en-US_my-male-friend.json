@@ -1,5 +1,9 @@
 {
     "title": "My Male Friend",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228199.jpg",
+        "alt": "my-male-friend"
+    },
     "type": "manhwa",
     "chapters": "89",
     "original_name": "나의 남자사람친구",

@@ -1,5 +1,9 @@
 {
     "title": "Choujin Taikei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15430.jpg",
+        "alt": "choujin-taikei"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

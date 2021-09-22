@@ -1,5 +1,9 @@
 {
     "title": "The Sexy Simpleton",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/9344.jpg",
+        "alt": "the-sexy-simpleton"
+    },
     "type": "manhwa",
     "volumes": "8",
     "tags": [

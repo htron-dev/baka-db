@@ -1,5 +1,9 @@
 {
     "title": "Sanzoku no Musume Ronja",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/68125.jpg",
+        "alt": "sanzoku-no-musume-ronja"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "山賊の娘ローニャ",

@@ -1,5 +1,9 @@
 {
     "title": "Seigi Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36672.jpg",
+        "alt": "seigi-club"
+    },
     "type": "manga",
     "original_name": "セイギクラブ",
     "start_date": "2009-03-02",

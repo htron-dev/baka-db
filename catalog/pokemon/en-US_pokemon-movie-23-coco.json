@@ -1,5 +1,9 @@
 {
     "title": "Pokemon Movie 23: Coco",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1029/106237.jpg",
+        "alt": "pokemon-movie-23-coco"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版ポケットモンスター ココ",

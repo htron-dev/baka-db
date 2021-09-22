@@ -1,5 +1,9 @@
 {
     "title": "Midoriyama Koukou Koushien-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/75589.jpg",
+        "alt": "midoriyama-koukou-koushien-hen"
+    },
     "type": "ova",
     "episodes": "10",
     "original_name": "緑山高校 甲子園編",

@@ -1,5 +1,9 @@
 {
     "title": "Ima, Ai ni Yukimasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/117309.jpg",
+        "alt": "ima-ai-ni-yukimasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

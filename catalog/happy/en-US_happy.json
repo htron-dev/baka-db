@@ -1,5 +1,9 @@
 {
     "title": "Happy!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/148293.jpg",
+        "alt": "happy"
+    },
     "type": "manga",
     "volumes": "23",
     "chapters": "254",

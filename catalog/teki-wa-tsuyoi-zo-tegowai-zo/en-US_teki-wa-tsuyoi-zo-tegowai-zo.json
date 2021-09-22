@@ -1,5 +1,9 @@
 {
     "title": "Teki wa Tsuyoi Zo Tegowai Zo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36857.jpg",
+        "alt": "teki-wa-tsuyoi-zo-tegowai-zo"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "テキは強いぞ手ごわいぞ",

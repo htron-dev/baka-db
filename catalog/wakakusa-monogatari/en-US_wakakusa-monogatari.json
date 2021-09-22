@@ -1,5 +1,9 @@
 {
     "title": "Wakakusa Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/248274.jpg",
+        "alt": "wakakusa-monogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

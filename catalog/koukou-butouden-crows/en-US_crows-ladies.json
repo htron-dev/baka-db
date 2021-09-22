@@ -1,5 +1,9 @@
 {
     "title": "Crows Ladies",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/128975.jpg",
+        "alt": "crows-ladies"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

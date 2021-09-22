@@ -1,5 +1,9 @@
 {
     "title": "Drachma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156093.jpg",
+        "alt": "drachma"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "27",

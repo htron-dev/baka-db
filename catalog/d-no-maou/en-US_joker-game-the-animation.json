@@ -1,5 +1,9 @@
 {
     "title": "Joker Game: The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/178122.jpg",
+        "alt": "joker-game-the-animation"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "23",

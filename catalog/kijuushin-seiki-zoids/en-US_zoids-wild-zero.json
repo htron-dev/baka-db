@@ -1,12 +1,16 @@
 {
     "title": "Zoids Wild Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1131/104980.jpg",
+        "alt": "zoids-wild-zero"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "ゾイドワイルド ZERO",
     "start_date": "2019-10-04",
     "end_date": "2019-10-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"blue blue blue\" by Ivy to Fraudulent Game (eps 1-24)",
+    "ending_song": "#1: \"Hikari (ヒカリ)\" by Hazuki Senda (千田葉月)",
     "rating": "PG - Children",
     "tags": [
         "action",

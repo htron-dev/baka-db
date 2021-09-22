@@ -1,5 +1,9 @@
 {
     "title": "Kanashi Kanashi ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205020.jpg",
+        "alt": "kanashi-kanashi-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

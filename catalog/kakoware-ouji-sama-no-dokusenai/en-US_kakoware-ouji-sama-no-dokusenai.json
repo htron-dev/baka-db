@@ -1,5 +1,9 @@
 {
     "title": "Kakoware: Ouji-sama no Dokusenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182869.jpg",
+        "alt": "kakoware-ouji-sama-no-dokusenai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "11",

@@ -1,5 +1,9 @@
 {
     "title": "Natsu wo Yarinaosu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1873/93246.jpg",
+        "alt": "natsu-wo-yarinaosu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "夏をやりなおす",

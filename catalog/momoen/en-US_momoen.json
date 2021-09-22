@@ -1,5 +1,9 @@
 {
     "title": "Momoen.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155661.jpg",
+        "alt": "momoen"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ももえん。",

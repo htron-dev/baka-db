@@ -1,5 +1,9 @@
 {
     "title": "Mimiko Coming!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168445.jpg",
+        "alt": "mimiko-coming"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

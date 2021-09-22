@@ -1,5 +1,9 @@
 {
     "title": "Byousoku 5 Centimeter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/138585.jpg",
+        "alt": "byousoku-5-centimeter"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

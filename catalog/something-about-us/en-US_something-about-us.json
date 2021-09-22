@@ -1,5 +1,9 @@
 {
     "title": "Something About Us",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189603.jpg",
+        "alt": "something-about-us"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "101",

@@ -1,5 +1,9 @@
 {
     "title": "Speed Grapher",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6877.jpg",
+        "alt": "speed-grapher"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

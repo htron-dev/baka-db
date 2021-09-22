@@ -1,5 +1,9 @@
 {
     "title": "Sexy Android Butler",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13507.jpg",
+        "alt": "sexy-android-butler"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "セクシーアンドロイドバトラー",

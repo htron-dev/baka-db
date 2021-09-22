@@ -1,5 +1,9 @@
 {
     "title": "Akane Shoten no Kaji Tenchou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/208020.jpg",
+        "alt": "akane-shoten-no-kaji-tenchou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

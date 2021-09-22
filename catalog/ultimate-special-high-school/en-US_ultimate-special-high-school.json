@@ -1,5 +1,9 @@
 {
     "title": "Ultimate Special High School",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/104127.jpg",
+        "alt": "ultimate-special-high-school"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "17",

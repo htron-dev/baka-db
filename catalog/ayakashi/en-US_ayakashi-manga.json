@@ -1,5 +1,9 @@
 {
     "title": "Ayakashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/9955.jpg",
+        "alt": "ayakashi"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "アヤカシ",

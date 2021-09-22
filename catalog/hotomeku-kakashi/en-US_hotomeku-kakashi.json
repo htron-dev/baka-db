@@ -1,5 +1,9 @@
 {
     "title": "Hotomeku Kakashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244252.jpg",
+        "alt": "hotomeku-kakashi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

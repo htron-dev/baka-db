@@ -1,5 +1,9 @@
 {
     "title": "Shuumatsu no Kohinata-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/241677.jpg",
+        "alt": "shuumatsu-no-kohinata-san"
+    },
     "type": "manga",
     "original_name": "しゅうまつの小日向さん",
     "start_date": "2020-12-25",

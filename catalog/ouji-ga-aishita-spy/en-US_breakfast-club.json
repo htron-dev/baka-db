@@ -1,5 +1,9 @@
 {
     "title": "Breakfast Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/86089.jpg",
+        "alt": "breakfast-club"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "30",

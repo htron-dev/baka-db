@@ -1,12 +1,16 @@
 {
     "title": "Tegamibachi Reverse",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/26472.jpg",
+        "alt": "tegamibachi-reverse"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "テガミバチ REVERSE",
     "start_date": "2010-10-03",
     "end_date": "2010-10-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Chiisana Mahou (小さな魔法)\" by Stereo Pony (ステレオポニー) (eps 1-13)",
+    "ending_song": "#1: \"Wasurenagusa (勿忘草)\" by Piko (ピコ) (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

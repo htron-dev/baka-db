@@ -1,5 +1,9 @@
 {
     "title": "Koi x Kagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165575.jpg",
+        "alt": "koi-x-kagi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

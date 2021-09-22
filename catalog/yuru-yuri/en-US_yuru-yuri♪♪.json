@@ -1,12 +1,16 @@
 {
     "title": "Yuru Yuri♪♪",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/75174.jpg",
+        "alt": "yuru-yuri♪♪"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ゆるゆり ♪♪",
     "start_date": "2012-07-03",
     "end_date": "2012-07-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Yes! Yuyuyu☆Yuru Yuri♪♪ (いぇす! ゆゆゆ ☆ ゆるゆり ♪♪)\" by Nanamori Chu☆Goraku Bu (七森中 ☆ ごらく部) (eps 1-5, 7-10, 12)",
+    "ending_song": "#1: \"100% Chu~Gakusei (100％ちゅ～学生)\" by Nanamori Chu☆Goraku Bu (七森中 ☆ ごらく部) (ep 1-7, 9-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

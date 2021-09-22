@@ -1,5 +1,9 @@
 {
     "title": "Le Chevalier d'Eon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38523.jpg",
+        "alt": "le-chevalier-d-eon"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "14",

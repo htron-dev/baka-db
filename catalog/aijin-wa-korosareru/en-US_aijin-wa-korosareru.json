@@ -1,5 +1,9 @@
 {
     "title": "Aijin wa Korosareru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2542.jpg",
+        "alt": "aijin-wa-korosareru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Love Plus: Manaka Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156366.jpg",
+        "alt": "love-plus-manaka-days"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "D Sword of Legend",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/134867.jpg",
+        "alt": "d-sword-of-legend"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "D ソード・オブ・レジェンド",

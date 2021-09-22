@@ -1,5 +1,9 @@
 {
     "title": "Uchuu Ace Pilots",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1116/108281.jpg",
+        "alt": "uchuu-ace-pilots"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "宇宙エース",

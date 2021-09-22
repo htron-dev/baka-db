@@ -1,5 +1,9 @@
 {
     "title": "Rare Jewel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158784.jpg",
+        "alt": "rare-jewel"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "42",

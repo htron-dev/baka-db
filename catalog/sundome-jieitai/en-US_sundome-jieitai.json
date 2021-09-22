@@ -1,5 +1,9 @@
 {
     "title": "Sundome Jieitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/214579.jpg",
+        "alt": "sundome-jieitai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

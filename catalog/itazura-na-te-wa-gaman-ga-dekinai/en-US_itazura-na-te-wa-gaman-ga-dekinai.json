@@ -1,5 +1,9 @@
 {
     "title": "Itazura na Te wa Gaman ga Dekinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/244920.jpg",
+        "alt": "itazura-na-te-wa-gaman-ga-dekinai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

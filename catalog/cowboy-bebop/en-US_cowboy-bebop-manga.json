@@ -1,5 +1,9 @@
 {
     "title": "Cowboy Bebop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/166652.jpg",
+        "alt": "cowboy-bebop"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

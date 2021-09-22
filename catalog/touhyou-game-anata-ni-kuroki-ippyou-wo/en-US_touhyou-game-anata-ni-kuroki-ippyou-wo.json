@@ -1,5 +1,9 @@
 {
     "title": "Touhyou Game: Anata ni Kuroki Ippyou wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/143807.jpg",
+        "alt": "touhyou-game-anata-ni-kuroki-ippyou-wo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

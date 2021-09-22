@@ -1,5 +1,9 @@
 {
     "title": "Seishun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1749/103824.jpg",
+        "alt": "seishun"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "青春",

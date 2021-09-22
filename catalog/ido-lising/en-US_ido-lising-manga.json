@@ -1,5 +1,9 @@
 {
     "title": "Ido-Lising!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/131567.jpg",
+        "alt": "ido-lising"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

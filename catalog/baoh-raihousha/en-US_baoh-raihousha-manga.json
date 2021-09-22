@@ -1,5 +1,9 @@
 {
     "title": "Baoh Raihousha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/207963.jpg",
+        "alt": "baoh-raihousha"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

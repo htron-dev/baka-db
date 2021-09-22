@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Mew Mew",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/89298.jpg",
+        "alt": "tokyo-mew-mew"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "東京ミュウミュウ",

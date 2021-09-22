@@ -1,5 +1,9 @@
 {
     "title": "Kyou ga Saigo no Hito da toshitemo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185996.jpg",
+        "alt": "kyou-ga-saigo-no-hito-da-toshitemo"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "15",

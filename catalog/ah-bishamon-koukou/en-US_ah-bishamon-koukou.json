@@ -1,5 +1,9 @@
 {
     "title": "Ah!! Bishamon Koukou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/125227.jpg",
+        "alt": "ah-bishamon-koukou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

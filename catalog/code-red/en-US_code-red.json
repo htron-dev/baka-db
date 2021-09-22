@@ -1,5 +1,9 @@
 {
     "title": "CODE:RED",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/101383.jpg",
+        "alt": "code-red"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

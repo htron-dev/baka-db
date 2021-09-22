@@ -1,5 +1,9 @@
 {
     "title": "Niizuma wa Midara ni Nureru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181363.jpg",
+        "alt": "niizuma-wa-midara-ni-nureru"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

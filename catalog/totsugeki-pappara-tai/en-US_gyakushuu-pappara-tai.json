@@ -1,5 +1,9 @@
 {
     "title": "Gyakushuu! Pappara-tai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/211265.jpg",
+        "alt": "gyakushuu-pappara-tai"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "56",

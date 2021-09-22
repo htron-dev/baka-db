@@ -1,5 +1,9 @@
 {
     "title": "Inakano",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34992.jpg",
+        "alt": "inakano"
+    },
     "type": "manga",
     "original_name": "いなかの",
     "start_date": "2009-06-12",

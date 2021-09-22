@@ -1,5 +1,9 @@
 {
     "title": "Birthday",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1780/98524.jpg",
+        "alt": "birthday"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "Birthday",

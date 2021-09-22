@@ -1,9 +1,13 @@
 {
     "title": "Re:Alive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179151.jpg",
+        "alt": "re-alive"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "13",
-    "original_name": "Re",
+    "original_name": "Re:ALIVE",
     "start_date": "2007-06-19",
     "end_date": "2007-06-19",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Ushinawareta Toki wo Motomete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163427.jpg",
+        "alt": "ushinawareta-toki-wo-motomete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

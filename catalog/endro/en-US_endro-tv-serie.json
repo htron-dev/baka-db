@@ -1,5 +1,9 @@
 {
     "title": "Endro~!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1300/111361.jpg",
+        "alt": "endro"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "えんどろ～！",

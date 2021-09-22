@@ -1,5 +1,9 @@
 {
     "title": "RD Sennou Chousashitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/18929.jpg",
+        "alt": "rd-sennou-chousashitsu"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "RD 潜脳調査室",

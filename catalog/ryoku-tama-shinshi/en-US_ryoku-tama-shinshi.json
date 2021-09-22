@@ -1,5 +1,9 @@
 {
     "title": "Ryoku Tama Shinshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/79386.jpg",
+        "alt": "ryoku-tama-shinshi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "緑玉紳士",

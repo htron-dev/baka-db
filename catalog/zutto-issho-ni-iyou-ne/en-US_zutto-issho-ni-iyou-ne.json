@@ -1,5 +1,9 @@
 {
     "title": "Zutto Issho ni Iyou ne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24549.jpg",
+        "alt": "zutto-issho-ni-iyou-ne"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

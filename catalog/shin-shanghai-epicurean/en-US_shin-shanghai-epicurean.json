@@ -1,5 +1,9 @@
 {
     "title": "Shin Shanghai Epicurean",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200246.jpg",
+        "alt": "shin-shanghai-epicurean"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

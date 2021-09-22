@@ -1,5 +1,9 @@
 {
     "title": "Burapa: The Black Parade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/67593.jpg",
+        "alt": "burapa-the-black-parade"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

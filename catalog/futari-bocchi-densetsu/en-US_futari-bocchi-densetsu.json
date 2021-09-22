@@ -1,5 +1,9 @@
 {
     "title": "Futari Bocchi Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24540.jpg",
+        "alt": "futari-bocchi-densetsu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ふたりぼっち伝説",

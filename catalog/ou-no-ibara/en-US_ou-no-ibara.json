@@ -1,5 +1,9 @@
 {
     "title": "Ou no Ibara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202235.jpg",
+        "alt": "ou-no-ibara"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "48",

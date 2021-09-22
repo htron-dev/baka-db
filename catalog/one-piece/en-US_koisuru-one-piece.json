@@ -1,5 +1,9 @@
 {
     "title": "Koisuru One Piece",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222841.jpg",
+        "alt": "koisuru-one-piece"
+    },
     "type": "manga",
     "original_name": "恋するワンピース",
     "start_date": "2018-06-18",

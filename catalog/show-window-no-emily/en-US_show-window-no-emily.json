@@ -1,5 +1,9 @@
 {
     "title": "Show Window no Emily",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14907.jpg",
+        "alt": "show-window-no-emily"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ショーウィンドウのエミリー",

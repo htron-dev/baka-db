@@ -1,5 +1,9 @@
 {
     "title": "20th Century Boys",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/54437.jpg",
+        "alt": "20th-century-boys"
+    },
     "type": "manga",
     "volumes": "22",
     "chapters": "249",

@@ -1,5 +1,9 @@
 {
     "title": "Katsugeki Shoujo Tanteidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/41457.jpg",
+        "alt": "katsugeki-shoujo-tanteidan"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "活劇少女探偵団",

@@ -1,5 +1,9 @@
 {
     "title": "Kaguya Maou Shiki!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162980.jpg",
+        "alt": "kaguya-maou-shiki"
+    },
     "type": "light-novel",
     "volumes": "10",
     "chapters": "63",

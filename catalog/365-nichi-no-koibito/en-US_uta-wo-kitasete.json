@@ -1,5 +1,9 @@
 {
     "title": "Uta wo Kitasete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32803.jpg",
+        "alt": "uta-wo-kitasete"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "詩を聴かせて",

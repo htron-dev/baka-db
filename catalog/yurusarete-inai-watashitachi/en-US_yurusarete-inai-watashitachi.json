@@ -1,5 +1,9 @@
 {
     "title": "Yurusarete Inai Watashitachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/196194.jpg",
+        "alt": "yurusarete-inai-watashitachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

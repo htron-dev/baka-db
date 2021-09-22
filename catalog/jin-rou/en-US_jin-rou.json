@@ -1,5 +1,9 @@
 {
     "title": "Jin-Rou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1323/103343.jpg",
+        "alt": "jin-rou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "人狼 JIN-ROH",

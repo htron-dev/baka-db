@@ -1,5 +1,9 @@
 {
     "title": "Ojisama no Warudakumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181167.jpg",
+        "alt": "ojisama-no-warudakumi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "1",

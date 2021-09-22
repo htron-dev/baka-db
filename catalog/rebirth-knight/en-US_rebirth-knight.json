@@ -1,5 +1,9 @@
 {
     "title": "Rebirth Knight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/124355.jpg",
+        "alt": "rebirth-knight"
+    },
     "type": "manhwa",
     "original_name": "리버스 나이트",
     "start_date": "2013-07-12",

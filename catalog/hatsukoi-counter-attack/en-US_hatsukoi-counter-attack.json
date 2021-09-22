@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi Counter Attack",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204648.jpg",
+        "alt": "hatsukoi-counter-attack"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

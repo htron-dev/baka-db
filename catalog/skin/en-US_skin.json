@@ -1,5 +1,9 @@
 {
     "title": "Skin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181587.jpg",
+        "alt": "skin"
+    },
     "type": "manga",
     "chapters": "4",
     "original_name": "SKIN",

@@ -1,5 +1,9 @@
 {
     "title": "Sairuiu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/85165.jpg",
+        "alt": "sairuiu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

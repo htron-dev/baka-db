@@ -1,5 +1,9 @@
 {
     "title": "Poor Poor Lips",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33944.jpg",
+        "alt": "poor-poor-lips"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "75",

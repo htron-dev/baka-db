@@ -1,5 +1,9 @@
 {
     "title": "Witch and Peter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/27924.jpg",
+        "alt": "witch-and-peter"
+    },
     "type": "manhwa",
     "original_name": "마녀와 피터",
     "tags": [

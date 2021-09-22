@@ -1,5 +1,9 @@
 {
     "title": "Ousama Game: Kigen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/116339.jpg",
+        "alt": "ousama-game-kigen"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "30",

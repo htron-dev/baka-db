@@ -1,12 +1,16 @@
 {
     "title": "Garo: Guren no Tsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/76029.jpg",
+        "alt": "garo-guren-no-tsuki"
+    },
     "type": "tv-serie",
     "episodes": "23",
     "original_name": "GARO 紅蓮ノ月",
     "start_date": "2015-10-10",
     "end_date": "2015-10-10",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Guren no Tsuki ~Kakusareshi Yami Monogatari~ (紅蓮ノ月～隠されし闇物語～)\" by JAM Project (eps 1-13)",
+    "ending_song": "#1: \"Kamon (花紋)\" by Sayaka Sasaki with Inaribayashi (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

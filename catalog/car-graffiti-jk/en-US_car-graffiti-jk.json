@@ -1,5 +1,9 @@
 {
     "title": "Car Graffiti JK",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164605.jpg",
+        "alt": "car-graffiti-jk"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "28",

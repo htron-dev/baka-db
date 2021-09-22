@@ -1,5 +1,9 @@
 {
     "title": "Obey Me!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1416/113986.jpg",
+        "alt": "obey-me"
+    },
     "type": "ona",
     "original_name": "Obey Me!",
     "start_date": "2021-07-16",

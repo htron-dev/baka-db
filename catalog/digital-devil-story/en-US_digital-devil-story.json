@@ -1,5 +1,9 @@
 {
     "title": "Digital Devil Story",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179775.jpg",
+        "alt": "digital-devil-story"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "デジタル・デビル物語〈ストーリ〉",

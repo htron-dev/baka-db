@@ -1,5 +1,9 @@
 {
     "title": "GP Gakuen Jouhou Shoribu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/1478.jpg",
+        "alt": "gp-gakuen-jouhou-shoribu"
+    },
     "type": "manga",
     "original_name": "ＧＰ学園情報処理部",
     "start_date": "2005-04-30",

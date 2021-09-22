@@ -1,5 +1,9 @@
 {
     "title": "Kyojin no Hoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/59519.jpg",
+        "alt": "kyojin-no-hoshi"
+    },
     "type": "tv-serie",
     "episodes": "182",
     "original_name": "巨人の星",

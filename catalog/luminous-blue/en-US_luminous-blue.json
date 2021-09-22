@@ -1,5 +1,9 @@
 {
     "title": "Luminous=Blue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/219726.jpg",
+        "alt": "luminous-blue"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

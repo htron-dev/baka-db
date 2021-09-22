@@ -1,5 +1,9 @@
 {
     "title": "Fuuto Tantei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1252/117556.jpg",
+        "alt": "fuuto-tantei"
+    },
     "type": "tv-serie",
     "original_name": "風都探偵",
     "start_date": "2022-07-20",

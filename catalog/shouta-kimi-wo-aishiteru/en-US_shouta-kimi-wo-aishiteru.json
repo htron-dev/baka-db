@@ -1,5 +1,9 @@
 {
     "title": "Shouta, Kimi wo Aishiteru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/244665.jpg",
+        "alt": "shouta-kimi-wo-aishiteru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

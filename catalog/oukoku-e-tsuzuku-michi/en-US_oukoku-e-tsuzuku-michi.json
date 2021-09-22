@@ -1,5 +1,9 @@
 {
     "title": "Oukoku e Tsuzuku Michi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177272.jpg",
+        "alt": "oukoku-e-tsuzuku-michi"
+    },
     "type": "light-novel",
     "original_name": "王国へ続く道",
     "start_date": "2015-07-23",

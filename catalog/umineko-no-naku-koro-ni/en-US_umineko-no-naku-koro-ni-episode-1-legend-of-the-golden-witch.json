@@ -1,9 +1,13 @@
 {
     "title": "Umineko no Naku Koro ni - Episode 1: Legend of the Golden Witch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/248922.jpg",
+        "alt": "umineko-no-naku-koro-ni-episode-1-legend-of-the-golden-witch"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",
-    "original_name": "うみねこのなく頃に - Episode 1",
+    "original_name": "うみねこのなく頃に - Episode 1: Legend of the Golden Witch",
     "start_date": "2007-12-22",
     "end_date": "2007-12-22",
     "tags": [

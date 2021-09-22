@@ -1,5 +1,9 @@
 {
     "title": "Yowamushi Pedal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/143695.jpg",
+        "alt": "yowamushi-pedal"
+    },
     "type": "manga",
     "original_name": "弱虫ペダル",
     "start_date": "2008-02-07",

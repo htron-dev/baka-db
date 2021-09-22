@@ -1,5 +1,9 @@
 {
     "title": "Cosplay no Kami!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/101299.jpg",
+        "alt": "cosplay-no-kami"
+    },
     "type": "manga",
     "original_name": "コスプレの神!",
     "start_date": "2011-09-17",

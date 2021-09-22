@@ -1,11 +1,15 @@
 {
     "title": "Shinmai Maou no Testament Burst",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1151/94750.jpg",
+        "alt": "shinmai-maou-no-testament-burst"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "新妹魔王の契約者 BURST",
     "start_date": "2015-10-10",
     "end_date": "2015-10-10",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Over The Testament ver.1\" by Metamorphose featuring Yoko Ishida (eps 1-3)",
     "ending_song": "\"Temperature\" by Dual Flare",
     "rating": "R+ - Mild Nudity",
     "tags": [

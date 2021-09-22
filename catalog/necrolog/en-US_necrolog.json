@@ -1,5 +1,9 @@
 {
     "title": "Necrolog",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/121497.jpg",
+        "alt": "necrolog"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "26",

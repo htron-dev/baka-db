@@ -1,5 +1,9 @@
 {
     "title": "Reibaishi Izuna: Ascension",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167506.jpg",
+        "alt": "reibaishi-izuna-ascension"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "75",

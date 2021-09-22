@@ -1,5 +1,9 @@
 {
     "title": "Otoko no Ichimai: Red Card",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235482.jpg",
+        "alt": "otoko-no-ichimai-red-card"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

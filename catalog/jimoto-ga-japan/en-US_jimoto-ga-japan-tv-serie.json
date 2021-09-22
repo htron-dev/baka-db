@@ -1,5 +1,9 @@
 {
     "title": "Jimoto ga Japan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1113/99082.jpg",
+        "alt": "jimoto-ga-japan"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "ジモトがジャパン",

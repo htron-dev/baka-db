@@ -1,5 +1,9 @@
 {
     "title": "Pink de Ikou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/7455.jpg",
+        "alt": "pink-de-ikou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

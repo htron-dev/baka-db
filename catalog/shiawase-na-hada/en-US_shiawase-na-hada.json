@@ -1,5 +1,9 @@
 {
     "title": "Shiawase na Hada",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10274.jpg",
+        "alt": "shiawase-na-hada"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "しあわせな肌",

@@ -1,5 +1,9 @@
 {
     "title": "Tenshi no Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21221.jpg",
+        "alt": "tenshi-no-uta"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

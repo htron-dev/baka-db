@@ -1,5 +1,9 @@
 {
     "title": "Hoero Pen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208999.jpg",
+        "alt": "hoero-pen"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "57",

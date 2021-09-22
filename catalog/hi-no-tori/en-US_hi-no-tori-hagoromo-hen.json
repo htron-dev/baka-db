@@ -1,5 +1,9 @@
 {
     "title": "Hi no Tori: Hagoromo-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/61249.jpg",
+        "alt": "hi-no-tori-hagoromo-hen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "火の鳥 ~羽衣編~",

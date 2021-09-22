@@ -1,5 +1,9 @@
 {
     "title": "Neko Kawaigari wa Kinshi desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226289.jpg",
+        "alt": "neko-kawaigari-wa-kinshi-desu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

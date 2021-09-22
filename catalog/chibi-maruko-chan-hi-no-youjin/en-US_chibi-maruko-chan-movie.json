@@ -1,5 +1,9 @@
 {
     "title": "Chibi Maruko-chan Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/54919.jpg",
+        "alt": "chibi-maruko-chan-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ちびまる子ちゃん (1990)",

@@ -1,5 +1,9 @@
 {
     "title": "Kagami no Miko Ayaka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/68255.jpg",
+        "alt": "kagami-no-miko-ayaka"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "鏡の巫女アヤカ",

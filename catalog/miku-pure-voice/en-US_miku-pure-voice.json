@@ -1,5 +1,9 @@
 {
     "title": "Miku Pure Voice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31086.jpg",
+        "alt": "miku-pure-voice"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "6",

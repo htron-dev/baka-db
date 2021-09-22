@@ -1,5 +1,9 @@
 {
     "title": "Shin Tennis no Ouji-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/33591.jpg",
+        "alt": "shin-tennis-no-ouji-sama"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "新テニスの王子様",

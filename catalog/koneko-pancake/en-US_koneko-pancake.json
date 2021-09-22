@@ -1,5 +1,9 @@
 {
     "title": "Koneko Pancake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161852.jpg",
+        "alt": "koneko-pancake"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

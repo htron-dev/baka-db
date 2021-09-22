@@ -1,5 +1,9 @@
 {
     "title": "Bouken Shite mo Ii Koro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/73717.jpg",
+        "alt": "bouken-shite-mo-ii-koro"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "冒険してもいい頃",

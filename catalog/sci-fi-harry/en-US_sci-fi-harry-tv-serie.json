@@ -1,5 +1,9 @@
 {
     "title": "Sci-fi Harry",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/57605.jpg",
+        "alt": "sci-fi-harry"
+    },
     "type": "tv-serie",
     "episodes": "20",
     "original_name": "サイファイハリー",

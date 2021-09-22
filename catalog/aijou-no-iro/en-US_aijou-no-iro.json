@@ -1,5 +1,9 @@
 {
     "title": "Aijou no Iro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2549.jpg",
+        "alt": "aijou-no-iro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

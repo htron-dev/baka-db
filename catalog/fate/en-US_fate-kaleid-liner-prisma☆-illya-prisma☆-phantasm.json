@@ -1,5 +1,9 @@
 {
     "title": "Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1304/99488.jpg",
+        "alt": "fate-kaleid-liner-prisma☆-illya-prisma☆-phantasm"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "プリズマ ☆ ファンタズム",

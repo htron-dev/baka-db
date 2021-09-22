@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Karada wo Dakishimete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195066.jpg",
+        "alt": "koisuru-karada-wo-dakishimete"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "恋するカラダを抱きしめて",

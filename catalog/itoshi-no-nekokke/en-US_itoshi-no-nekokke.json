@@ -1,5 +1,9 @@
 {
     "title": "Itoshi no Nekokke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/41243.jpg",
+        "alt": "itoshi-no-nekokke"
+    },
     "type": "manga",
     "original_name": "いとしの猫っ毛",
     "start_date": "2010-03-10",

@@ -1,5 +1,9 @@
 {
     "title": "Mahou no Zairyou Gozaimasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163418.jpg",
+        "alt": "mahou-no-zairyou-gozaimasu"
+    },
     "type": "light-novel",
     "volumes": "11",
     "original_name": "魔法の材料ございます",

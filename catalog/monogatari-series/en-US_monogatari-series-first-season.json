@@ -1,5 +1,9 @@
 {
     "title": "Monogatari Series: First Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/173535.jpg",
+        "alt": "monogatari-series-first-season"
+    },
     "type": "light-novel",
     "volumes": "6",
     "chapters": "107",

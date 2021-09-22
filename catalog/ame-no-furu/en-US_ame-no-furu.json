@@ -1,5 +1,9 @@
 {
     "title": "Ame no Furu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/248750.jpg",
+        "alt": "ame-no-furu"
+    },
     "type": "manga",
     "original_name": "アメノフル",
     "start_date": "2021-04-19",

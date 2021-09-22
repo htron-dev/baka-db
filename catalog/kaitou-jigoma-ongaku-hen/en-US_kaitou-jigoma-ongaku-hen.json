@@ -1,5 +1,9 @@
 {
     "title": "Kaitou Jigoma Ongaku-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/51101.jpg",
+        "alt": "kaitou-jigoma-ongaku-hen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "怪盗ジゴマ 音楽篇",

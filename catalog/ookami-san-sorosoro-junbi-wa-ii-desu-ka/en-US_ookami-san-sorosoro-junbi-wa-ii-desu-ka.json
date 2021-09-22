@@ -1,5 +1,9 @@
 {
     "title": "Ookami-san, Sorosoro Junbi wa Ii desu ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170052.jpg",
+        "alt": "ookami-san-sorosoro-junbi-wa-ii-desu-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

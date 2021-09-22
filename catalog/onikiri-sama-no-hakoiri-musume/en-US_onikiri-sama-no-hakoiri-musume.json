@@ -1,5 +1,9 @@
 {
     "title": "Onikiri-sama no Hakoiri Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/51385.jpg",
+        "alt": "onikiri-sama-no-hakoiri-musume"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

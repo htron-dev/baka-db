@@ -1,5 +1,9 @@
 {
     "title": "Sensei no Kuse ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/71879.jpg",
+        "alt": "sensei-no-kuse-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

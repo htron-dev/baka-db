@@ -1,5 +1,9 @@
 {
     "title": "Mushrambo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/197599.jpg",
+        "alt": "mushrambo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Joshikousei no Mudazukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181542.jpg",
+        "alt": "joshikousei-no-mudazukai"
+    },
     "type": "manga",
     "original_name": "女子高生の無駄づかい",
     "start_date": "2014-11-24",

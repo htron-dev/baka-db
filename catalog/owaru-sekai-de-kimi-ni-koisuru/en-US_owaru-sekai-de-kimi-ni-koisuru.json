@@ -1,5 +1,9 @@
 {
     "title": "Owaru Sekai de Kimi ni Koisuru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/217630.jpg",
+        "alt": "owaru-sekai-de-kimi-ni-koisuru"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "44",

@@ -1,5 +1,9 @@
 {
     "title": "Keshikko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1234/105532.jpg",
+        "alt": "keshikko"
+    },
     "type": "ona",
     "original_name": "ケシっこ",
     "start_date": "2019-01-07",

@@ -1,5 +1,9 @@
 {
     "title": "Blood: The Last Vampire",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/18913.jpg",
+        "alt": "blood-the-last-vampire"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "BLOOD THE LAST VAMPIRE (ブラッド ザ ラスト ヴァンパイア)",

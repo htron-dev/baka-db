@@ -1,5 +1,9 @@
 {
     "title": "Yuru Yuri,",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1138/99547.jpg",
+        "alt": "yuru-yuri"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ゆるゆり、",

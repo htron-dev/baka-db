@@ -1,5 +1,9 @@
 {
     "title": "Kabuki no Fudou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/230914.jpg",
+        "alt": "kabuki-no-fudou"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "カブキの不動",

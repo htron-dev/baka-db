@@ -1,5 +1,9 @@
 {
     "title": "Masurao: Hihon Gikeiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234242.jpg",
+        "alt": "masurao-hihon-gikeiki"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "84",

@@ -1,5 +1,9 @@
 {
     "title": "Hikagemushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/197895.jpg",
+        "alt": "hikagemushi"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "飛火夏虫 -HIKAGEMUSHI-",

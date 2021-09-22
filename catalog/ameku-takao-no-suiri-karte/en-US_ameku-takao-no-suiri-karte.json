@@ -1,5 +1,9 @@
 {
     "title": "Ameku Takao no Suiri Karte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193602.jpg",
+        "alt": "ameku-takao-no-suiri-karte"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

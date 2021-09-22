@@ -1,5 +1,9 @@
 {
     "title": "ZOIDS: Wakusei Zi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/91511.jpg",
+        "alt": "zoids-wakusei-zi"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ZOIDS 惑星 Zi",

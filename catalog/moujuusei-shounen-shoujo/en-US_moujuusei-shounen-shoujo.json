@@ -1,5 +1,9 @@
 {
     "title": "Moujuusei Shounen Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195111.jpg",
+        "alt": "moujuusei-shounen-shoujo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

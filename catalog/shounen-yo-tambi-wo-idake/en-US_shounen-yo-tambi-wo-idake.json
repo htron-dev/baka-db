@@ -1,5 +1,9 @@
 {
     "title": "Shounen yo Tambi wo Idake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22542.jpg",
+        "alt": "shounen-yo-tambi-wo-idake"
+    },
     "type": "manga",
     "original_name": "少年よ耽美を描け",
     "tags": [

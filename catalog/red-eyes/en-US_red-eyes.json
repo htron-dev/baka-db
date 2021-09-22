@@ -1,5 +1,9 @@
 {
     "title": "Red Eyes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168119.jpg",
+        "alt": "red-eyes"
+    },
     "type": "manga",
     "original_name": "redEyes",
     "start_date": "1999-12-19",

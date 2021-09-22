@@ -1,5 +1,9 @@
 {
     "title": "Love or Pride",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22600.jpg",
+        "alt": "love-or-pride"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

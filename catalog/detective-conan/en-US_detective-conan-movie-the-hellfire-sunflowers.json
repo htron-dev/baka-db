@@ -1,5 +1,9 @@
 {
     "title": "Detective Conan Movie: The Hellfire Sunflowers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/241174.jpg",
+        "alt": "detective-conan-movie-the-hellfire-sunflowers"
+    },
     "type": "manga",
     "volumes": "2",
     "tags": [

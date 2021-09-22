@@ -1,5 +1,9 @@
 {
     "title": "Tsuki to Taiyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224903.jpg",
+        "alt": "tsuki-to-taiyou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Bokutachi no Ikita Riyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172482.jpg",
+        "alt": "bokutachi-no-ikita-riyuu"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "69",

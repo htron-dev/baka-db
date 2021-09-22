@@ -1,5 +1,9 @@
 {
     "title": "Popotan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165764.jpg",
+        "alt": "popotan"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ぽぽたん",

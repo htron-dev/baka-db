@@ -1,5 +1,9 @@
 {
     "title": "Wild Adapter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/38463.jpg",
+        "alt": "wild-adapter"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "ワイルドアダプター",

@@ -1,5 +1,9 @@
 {
     "title": "Sugar Code",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36528.jpg",
+        "alt": "sugar-code"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

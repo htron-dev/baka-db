@@ -1,5 +1,9 @@
 {
     "title": "Porong Porong Pororo 3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/66621.jpg",
+        "alt": "porong-porong-pororo-3"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "뽀롱뽀롱 뽀로로 3",

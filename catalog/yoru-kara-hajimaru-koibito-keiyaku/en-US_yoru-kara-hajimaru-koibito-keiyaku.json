@@ -1,5 +1,9 @@
 {
     "title": "Yoru kara Hajimaru Koibito Keiyaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173320.jpg",
+        "alt": "yoru-kara-hajimaru-koibito-keiyaku"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "12",

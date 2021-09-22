@@ -1,5 +1,9 @@
 {
     "title": "Rusuban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/23346.jpg",
+        "alt": "rusuban"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "るすばん",

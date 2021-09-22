@@ -1,5 +1,9 @@
 {
     "title": "Onnanoko ga Daicha Dame desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234328.jpg",
+        "alt": "onnanoko-ga-daicha-dame-desu-ka"
+    },
     "type": "manga",
     "original_name": "女の子が抱いちゃダメですか？",
     "start_date": "2020-05-21",

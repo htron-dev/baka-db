@@ -1,5 +1,9 @@
 {
     "title": "Tokkou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/4898.jpg",
+        "alt": "tokkou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

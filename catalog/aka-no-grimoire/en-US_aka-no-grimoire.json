@@ -1,5 +1,9 @@
 {
     "title": "Aka no Grimoire",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/220861.jpg",
+        "alt": "aka-no-grimoire"
+    },
     "type": "manga",
     "original_name": "赫のグリモア",
     "start_date": "2018-09-07",

@@ -1,5 +1,9 @@
 {
     "title": "Angelique",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/202730.jpg",
+        "alt": "angelique"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "59",

@@ -1,5 +1,9 @@
 {
     "title": "Kidou Senshi Gundam Bandiera",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235488.jpg",
+        "alt": "kidou-senshi-gundam-bandiera"
+    },
     "type": "manga",
     "original_name": "機動戦士ガンダム バンディエラ",
     "start_date": "2020-01-20",

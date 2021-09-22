@@ -1,5 +1,9 @@
 {
     "title": "Pinky Street",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/4739.jpg",
+        "alt": "pinky-street"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "ピンキーストリート",

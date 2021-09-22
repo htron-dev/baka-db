@@ -1,5 +1,9 @@
 {
     "title": "Youkoso! Ecolo Shima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/84975.jpg",
+        "alt": "youkoso-ecolo-shima"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ようこそ！エコロ島",

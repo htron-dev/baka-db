@@ -1,5 +1,9 @@
 {
     "title": "Jukkakukan no Satsujin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/230214.jpg",
+        "alt": "jukkakukan-no-satsujin"
+    },
     "type": "manga",
     "original_name": "十角館の殺人",
     "start_date": "2019-08-24",

@@ -1,5 +1,9 @@
 {
     "title": "Eureka Seven AO",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/66783.jpg",
+        "alt": "eureka-seven-ao"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "20",

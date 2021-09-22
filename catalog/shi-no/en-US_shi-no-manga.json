@@ -1,5 +1,9 @@
 {
     "title": "SHI-NO",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/136849.jpg",
+        "alt": "shi-no"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

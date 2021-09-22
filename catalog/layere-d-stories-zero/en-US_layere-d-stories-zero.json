@@ -1,5 +1,9 @@
 {
     "title": "LayereD Stories Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/89193.jpg",
+        "alt": "layere-d-stories-zero"
+    },
     "type": "ona",
     "episodes": "9",
     "original_name": "レイヤードストーリーズ ゼロ",

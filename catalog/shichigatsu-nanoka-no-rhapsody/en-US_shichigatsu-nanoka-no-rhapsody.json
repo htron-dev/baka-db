@@ -1,5 +1,9 @@
 {
     "title": "Shichigatsu Nanoka no Rhapsody",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23295.jpg",
+        "alt": "shichigatsu-nanoka-no-rhapsody"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "7 月 7 日のラプソディー",

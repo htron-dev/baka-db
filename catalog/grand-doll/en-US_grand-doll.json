@@ -1,5 +1,9 @@
 {
     "title": "Grand Doll",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36139.jpg",
+        "alt": "grand-doll"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

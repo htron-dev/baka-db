@@ -1,5 +1,9 @@
 {
     "title": "Bokunchi no Kaseifu-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/219535.jpg",
+        "alt": "bokunchi-no-kaseifu-san"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

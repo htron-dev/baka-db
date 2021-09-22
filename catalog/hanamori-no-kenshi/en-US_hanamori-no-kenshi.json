@@ -1,5 +1,9 @@
 {
     "title": "Hanamori no Kenshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/217870.jpg",
+        "alt": "hanamori-no-kenshi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "花護りの剣士",

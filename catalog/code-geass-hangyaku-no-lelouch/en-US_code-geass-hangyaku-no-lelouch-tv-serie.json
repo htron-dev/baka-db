@@ -1,12 +1,16 @@
 {
     "title": "Code Geass: Hangyaku no Lelouch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/50331.jpg",
+        "alt": "code-geass-hangyaku-no-lelouch"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "コードギアス 反逆のルルーシュ",
     "start_date": "2006-10-06",
     "end_date": "2006-10-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"COLORS\" by FLOW (eps 1-12)",
+    "ending_song": "#1: \"Yuukyou Seishunka (勇侠青春謳)\" by Ali Project (eps 1-12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

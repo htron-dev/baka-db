@@ -1,5 +1,9 @@
 {
     "title": "Rojiura Koshoten Inrandou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196544.jpg",
+        "alt": "rojiura-koshoten-inrandou"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "14",

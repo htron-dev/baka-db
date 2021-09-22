@@ -1,5 +1,9 @@
 {
     "title": "Touhou Chireikiden: Hansoku Tantei Satori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235466.jpg",
+        "alt": "touhou-chireikiden-hansoku-tantei-satori"
+    },
     "type": "manga",
     "original_name": "東方智霊奇伝 反則探偵さとり",
     "start_date": "2019-10-28",

@@ -1,5 +1,9 @@
 {
     "title": "Ouji to Hero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195997.jpg",
+        "alt": "ouji-to-hero"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

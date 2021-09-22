@@ -1,5 +1,9 @@
 {
     "title": "Imouto sae Ireba Ii.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174940.jpg",
+        "alt": "imouto-sae-ireba-ii"
+    },
     "type": "light-novel",
     "volumes": "14",
     "chapters": "206",

@@ -1,5 +1,9 @@
 {
     "title": "Kazemakase Tsukikage Ran",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/16745.jpg",
+        "alt": "kazemakase-tsukikage-ran"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "風まかせ月影蘭",

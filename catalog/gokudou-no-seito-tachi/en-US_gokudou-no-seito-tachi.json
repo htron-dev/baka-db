@@ -1,5 +1,9 @@
 {
     "title": "Gokudou no Seito-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/136921.jpg",
+        "alt": "gokudou-no-seito-tachi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "極道の生徒たち",

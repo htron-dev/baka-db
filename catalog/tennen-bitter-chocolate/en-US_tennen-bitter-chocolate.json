@@ -1,5 +1,9 @@
 {
     "title": "Tennen Bitter Chocolate",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/24893.jpg",
+        "alt": "tennen-bitter-chocolate"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

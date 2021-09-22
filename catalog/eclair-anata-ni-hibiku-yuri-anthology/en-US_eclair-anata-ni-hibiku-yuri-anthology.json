@@ -1,5 +1,9 @@
 {
     "title": "Éclair: Anata ni Hibiku Yuri Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189131.jpg",
+        "alt": "eclair-anata-ni-hibiku-yuri-anthology"
+    },
     "type": "manga",
     "original_name": "エクレア あなたに響く百合アンソロジー",
     "start_date": "2016-11-26",

@@ -1,5 +1,9 @@
 {
     "title": "West Heaven Garden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/15772.jpg",
+        "alt": "west-heaven-garden"
+    },
     "type": "manhwa",
     "volumes": "2",
     "original_name": "서천화원",

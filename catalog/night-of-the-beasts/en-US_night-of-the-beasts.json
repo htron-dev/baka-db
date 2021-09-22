@@ -1,5 +1,9 @@
 {
     "title": "Night of the Beasts",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5124.jpg",
+        "alt": "night-of-the-beasts"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "26",

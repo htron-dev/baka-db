@@ -1,5 +1,9 @@
 {
     "title": "Satomi☆Hakkenden Reboot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166100.jpg",
+        "alt": "satomi☆-hakkenden-reboot"
+    },
     "type": "manga",
     "original_name": "里見 ☆ 八犬伝 REBOOT",
     "start_date": "2015-04-17",

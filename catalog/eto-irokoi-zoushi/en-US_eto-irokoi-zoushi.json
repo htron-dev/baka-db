@@ -1,5 +1,9 @@
 {
     "title": "Eto Irokoi-zoushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/220671.jpg",
+        "alt": "eto-irokoi-zoushi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

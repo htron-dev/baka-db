@@ -1,5 +1,9 @@
 {
     "title": "Nee, Dare ni mo Himitsu da yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/107821.jpg",
+        "alt": "nee-dare-ni-mo-himitsu-da-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

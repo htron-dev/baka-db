@@ -1,5 +1,9 @@
 {
     "title": "Kichikujima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/133709.jpg",
+        "alt": "kichikujima"
+    },
     "type": "manga",
     "original_name": "鬼畜島",
     "start_date": "2013-12-26",

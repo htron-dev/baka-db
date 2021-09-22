@@ -1,5 +1,9 @@
 {
     "title": "Taro Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15169.jpg",
+        "alt": "taro-densetsu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "TARO 伝説",

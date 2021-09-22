@@ -1,5 +1,9 @@
 {
     "title": "Momonoki-ke no Yonshimai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225620.jpg",
+        "alt": "momonoki-ke-no-yonshimai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

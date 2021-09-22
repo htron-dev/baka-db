@@ -1,5 +1,9 @@
 {
     "title": "Ookami Koushaku no Kyuukon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247599.jpg",
+        "alt": "ookami-koushaku-no-kyuukon"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

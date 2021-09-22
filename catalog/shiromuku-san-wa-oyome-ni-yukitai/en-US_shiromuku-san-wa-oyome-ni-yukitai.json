@@ -1,5 +1,9 @@
 {
     "title": "Shiromuku-san wa Oyome ni Yukitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/216964.jpg",
+        "alt": "shiromuku-san-wa-oyome-ni-yukitai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

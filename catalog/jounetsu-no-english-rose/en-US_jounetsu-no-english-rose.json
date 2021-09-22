@@ -1,5 +1,9 @@
 {
     "title": "Jounetsu no English Rose",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40307.jpg",
+        "alt": "jounetsu-no-english-rose"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

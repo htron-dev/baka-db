@@ -1,5 +1,9 @@
 {
     "title": "Yuusei Kamen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/56383.jpg",
+        "alt": "yuusei-kamen"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "遊星仮面",

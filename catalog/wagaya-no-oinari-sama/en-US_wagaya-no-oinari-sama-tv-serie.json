@@ -1,12 +1,16 @@
 {
     "title": "Wagaya no Oinari-sama.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/21249.jpg",
+        "alt": "wagaya-no-oinari-sama"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "我が家のお稲荷さま。",
     "start_date": "2008-04-07",
     "end_date": "2008-04-07",
     "opening_song": "\"KI-ZU-NA ~Haruka Naru Mono e (KI-ZU-NA 〜遥かなる者へ)\" by Hitomisora (Hitomi Yoshida & Sora Izumikawa)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kaze ga Nanika wo Iou to Shiteiru (風がなにかを言おうとしている)\" by Kou (Saori Hayami) (eps 1-18)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

@@ -1,12 +1,16 @@
 {
     "title": "Hatsukoi Limited.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/15520.jpg",
+        "alt": "hatsukoi-limited"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "初恋限定。",
     "start_date": "2009-04-12",
     "end_date": "2009-04-12",
     "opening_song": "\"Future Stream\" by Sphere (スフィア)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hatsukoi limited (初恋 limited)\" by marble (eps 1-5, 7-8, 10-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

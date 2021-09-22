@@ -1,5 +1,9 @@
 {
     "title": "Eve no Jikan (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/27711.jpg",
+        "alt": "eve-no-jikan-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "イヴの時間",

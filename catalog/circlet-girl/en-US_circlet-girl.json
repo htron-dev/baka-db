@@ -1,5 +1,9 @@
 {
     "title": "Circlet Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/198119.jpg",
+        "alt": "circlet-girl"
+    },
     "type": "light-novel",
     "volumes": "13",
     "chapters": "74",

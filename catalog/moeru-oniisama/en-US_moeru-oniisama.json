@@ -1,5 +1,9 @@
 {
     "title": "Moeru Oniisama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150064.jpg",
+        "alt": "moeru-oniisama"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "もえるお兄様",

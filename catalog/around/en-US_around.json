@@ -1,5 +1,9 @@
 {
     "title": "Around",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/68975.jpg",
+        "alt": "around"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "around",

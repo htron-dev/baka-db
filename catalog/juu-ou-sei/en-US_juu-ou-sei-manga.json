@@ -1,5 +1,9 @@
 {
     "title": "Juu Ou Sei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/72293.jpg",
+        "alt": "juu-ou-sei"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "16",

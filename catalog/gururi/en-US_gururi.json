@@ -1,5 +1,9 @@
 {
     "title": "Gururi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/38114.jpg",
+        "alt": "gururi"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ぐるり 四神退魔",

@@ -1,5 +1,9 @@
 {
     "title": "Kamiki Kyoudai Okotowari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165922.jpg",
+        "alt": "kamiki-kyoudai-okotowari"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "25",

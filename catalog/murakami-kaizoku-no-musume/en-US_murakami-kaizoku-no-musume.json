@@ -1,5 +1,9 @@
 {
     "title": "Murakami Kaizoku no Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/208831.jpg",
+        "alt": "murakami-kaizoku-no-musume"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "131",

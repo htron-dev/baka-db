@@ -1,5 +1,9 @@
 {
     "title": "Gakuten no Arashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170066.jpg",
+        "alt": "gakuten-no-arashi"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "学天の嵐",

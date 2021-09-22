@@ -1,5 +1,9 @@
 {
     "title": "Between the Sheets",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/124923.jpg",
+        "alt": "between-the-sheets"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

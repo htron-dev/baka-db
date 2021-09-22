@@ -1,5 +1,9 @@
 {
     "title": "Tatoeba Love to Kamisama Days.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159520.jpg",
+        "alt": "tatoeba-love-to-kamisama-days"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "たとえばラブとカミサマーデイズ。",

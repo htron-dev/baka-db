@@ -1,5 +1,9 @@
 {
     "title": "Nakasete! Doctor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18256.jpg",
+        "alt": "nakasete-doctor"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

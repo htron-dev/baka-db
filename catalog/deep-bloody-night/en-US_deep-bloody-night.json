@@ -1,5 +1,9 @@
 {
     "title": "Deep Bloody Night",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24845.jpg",
+        "alt": "deep-bloody-night"
+    },
     "type": "manhwa",
     "chapters": "1",
     "start_date": "2008-01-20",

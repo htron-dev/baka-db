@@ -1,5 +1,9 @@
 {
     "title": "Arcana - Ouji &amp; Hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37764.jpg",
+        "alt": "arcana-ouji-amp-hime"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

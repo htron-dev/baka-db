@@ -1,5 +1,9 @@
 {
     "title": "NieA Under 7",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5082.jpg",
+        "alt": "nie-a-under-7"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

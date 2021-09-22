@@ -1,5 +1,9 @@
 {
     "title": "Tomodachi wo Tsukurou.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202121.jpg",
+        "alt": "tomodachi-wo-tsukurou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

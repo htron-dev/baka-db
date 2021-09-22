@@ -1,5 +1,9 @@
 {
     "title": "Amane†Gymnasium",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195067.jpg",
+        "alt": "amane-gymnasium"
+    },
     "type": "manga",
     "original_name": "アマネ†ギムナジウム",
     "start_date": "2017-01-21",

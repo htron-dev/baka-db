@@ -1,5 +1,9 @@
 {
     "title": "Juupiki no Kaeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/67461.jpg",
+        "alt": "juupiki-no-kaeru"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "10 ぴきのかえる",

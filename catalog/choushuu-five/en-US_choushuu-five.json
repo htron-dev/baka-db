@@ -1,5 +1,9 @@
 {
     "title": "Choushuu Five",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/29903.jpg",
+        "alt": "choushuu-five"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "長州ファイブ",

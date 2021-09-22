@@ -1,12 +1,16 @@
 {
     "title": "Bakumatsu Rock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/62557.jpg",
+        "alt": "bakumatsu-rock"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "幕末 Rock",
     "start_date": "2014-07-02",
     "end_date": "2014-07-02",
     "opening_song": "\"Jack\" by vistlip",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Zecchou DAYBREAK (絶頂 DAYBREAK)\" by ULTRA-SOULS (超魂團) [Ryouma Sakamoto (Kishou Taniyama), Shinsaku Takasugi (Tatsuhisa Suzuki), Kogorou Katsura (Showtaro Morikubo), Toshizou Hijikata (Toshiyuki Morikawa), Souji Okita (Kensho Ono)] (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

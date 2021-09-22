@@ -1,5 +1,9 @@
 {
     "title": "Bokura no Henbyoushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/117533.jpg",
+        "alt": "bokura-no-henbyoushi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Dragon Quest: Dai no Daibouken (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1963/108416.jpg",
+        "alt": "dragon-quest-dai-no-daibouken-tv"
+    },
     "type": "tv-serie",
     "episodes": "46",
     "original_name": "ドラゴンクエスト・ダイの大冒険",

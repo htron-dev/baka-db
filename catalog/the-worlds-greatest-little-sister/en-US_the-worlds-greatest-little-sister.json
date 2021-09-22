@@ -1,5 +1,9 @@
 {
     "title": "The World's Greatest Little Sister",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150613.jpg",
+        "alt": "the-worlds-greatest-little-sister"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "36",

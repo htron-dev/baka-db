@@ -1,5 +1,9 @@
 {
     "title": "Arcana - Douwa / Otogibanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/39458.jpg",
+        "alt": "arcana-douwa-otogibanashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "16",

@@ -1,12 +1,16 @@
 {
     "title": "Jungle no Ouja Taa-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1948/106089.jpg",
+        "alt": "jungle-no-ouja-taa-chan"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "ジャングルの王者ターちゃん",
     "start_date": "1993-10-14",
     "end_date": "1993-10-14",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Heart no Keijou (HEART の形状)\" by BAG (eps 1-30)",
+    "ending_song": "#1: \"Virgin Land\" by Ann Lewis (eps 1-26)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

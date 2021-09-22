@@ -1,5 +1,9 @@
 {
     "title": "Omae no Subete wo Ubau Made",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226290.jpg",
+        "alt": "omae-no-subete-wo-ubau-made"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

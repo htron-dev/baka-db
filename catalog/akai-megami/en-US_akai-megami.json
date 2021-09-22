@@ -1,5 +1,9 @@
 {
     "title": "Akai Megami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26271.jpg",
+        "alt": "akai-megami"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "赤い女神",

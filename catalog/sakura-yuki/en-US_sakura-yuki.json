@@ -1,5 +1,9 @@
 {
     "title": "Sakura Yuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/19459.jpg",
+        "alt": "sakura-yuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

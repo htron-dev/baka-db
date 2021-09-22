@@ -1,5 +1,9 @@
 {
     "title": "Chikasugite Doushiyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/96763.jpg",
+        "alt": "chikasugite-doushiyou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

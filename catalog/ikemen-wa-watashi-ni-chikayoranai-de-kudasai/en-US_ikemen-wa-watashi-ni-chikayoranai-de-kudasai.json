@@ -1,5 +1,9 @@
 {
     "title": "Ikemen wa Watashi ni Chikayoranai de Kudasai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/197400.jpg",
+        "alt": "ikemen-wa-watashi-ni-chikayoranai-de-kudasai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "イケメンは私に近寄らないでください！",

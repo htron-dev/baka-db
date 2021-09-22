@@ -1,5 +1,9 @@
 {
     "title": "Tengoku mo Jigoku mo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/74313.jpg",
+        "alt": "tengoku-mo-jigoku-mo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

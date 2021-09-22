@@ -1,5 +1,9 @@
 {
     "title": "Majin no Sono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/64647.jpg",
+        "alt": "majin-no-sono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

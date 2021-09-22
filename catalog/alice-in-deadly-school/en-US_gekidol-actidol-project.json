@@ -1,12 +1,16 @@
 {
     "title": "Gekidol: Actidol Project",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1195/111544.jpg",
+        "alt": "gekidol-actidol-project"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ゲキドル",
     "start_date": "2021-01-05",
     "end_date": "2021-01-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Gekidol! (ゲキドル！)\" by Seria Morino (Hikaru Akao), Airi Kagami (Chihara Mochida), Mayuri Nakamura (Amina Satou), Akira Asagi (Nozomi Yamamoto), Aimi Fujita (Asami Takano), Kazuhara Yamamoto (Aya Akiyoshi) (eps 1-6)",
+    "ending_song": "#1: \"Kizuna (キズナ)\" by Uno Blaqlo (eps 1-3)",
     "rating": "None",
     "tags": [
         "sci-fi",

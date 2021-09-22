@@ -1,5 +1,9 @@
 {
     "title": "ST&amp;RS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/57779.jpg",
+        "alt": "st-amp-rs"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "39",

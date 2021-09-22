@@ -1,5 +1,9 @@
 {
     "title": "Sentimental Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/233999.jpg",
+        "alt": "sentimental-kiss"
+    },
     "type": "manga",
     "original_name": "センチメンタル キス",
     "start_date": "2020-04-20",

@@ -1,5 +1,9 @@
 {
     "title": "Hakkou Snowflake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149786.jpg",
+        "alt": "hakkou-snowflake"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

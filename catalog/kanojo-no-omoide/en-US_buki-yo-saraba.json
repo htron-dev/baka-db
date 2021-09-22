@@ -1,5 +1,9 @@
 {
     "title": "Buki yo Saraba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/53169.jpg",
+        "alt": "buki-yo-saraba"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "武器よさらば",

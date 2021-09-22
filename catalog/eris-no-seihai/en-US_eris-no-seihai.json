@@ -1,5 +1,9 @@
 {
     "title": "Eris no Seihai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/226738.jpg",
+        "alt": "eris-no-seihai"
+    },
     "type": "manga",
     "original_name": "エリスの聖杯",
     "start_date": "2019-11-03",

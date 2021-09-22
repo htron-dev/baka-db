@@ -1,5 +1,9 @@
 {
     "title": "A.LI.CE",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1401/112244.jpg",
+        "alt": "a-li-ce"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "Ａ・ＬＩ・ＣＥ",

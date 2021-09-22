@@ -1,5 +1,9 @@
 {
     "title": "Warui Ko demo Ii no",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/216640.jpg",
+        "alt": "warui-ko-demo-ii-no"
+    },
     "type": "manga",
     "original_name": "悪い子でもいいの",
     "start_date": "2018-10-20",

@@ -1,5 +1,9 @@
 {
     "title": "Houkago Hokenshitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30555.jpg",
+        "alt": "houkago-hokenshitsu"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "39",

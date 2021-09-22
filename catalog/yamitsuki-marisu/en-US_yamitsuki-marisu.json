@@ -1,5 +1,9 @@
 {
     "title": "Yamitsuki Marisu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18543.jpg",
+        "alt": "yamitsuki-marisu"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "やみ憑きマリス",

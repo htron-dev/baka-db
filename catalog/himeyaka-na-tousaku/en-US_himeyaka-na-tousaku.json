@@ -1,5 +1,9 @@
 {
     "title": "Himeyaka na Tousaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/63369.jpg",
+        "alt": "himeyaka-na-tousaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

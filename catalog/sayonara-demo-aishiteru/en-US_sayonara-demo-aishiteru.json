@@ -1,5 +1,9 @@
 {
     "title": "Sayonara demo Aishiteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/125501.jpg",
+        "alt": "sayonara-demo-aishiteru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

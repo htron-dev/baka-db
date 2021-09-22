@@ -1,5 +1,9 @@
 {
     "title": "Anata ga Amaku Nedaru made",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234731.jpg",
+        "alt": "anata-ga-amaku-nedaru-made"
+    },
     "type": "manga",
     "original_name": "あなたが甘くねだるまで",
     "start_date": "2019-12-29",

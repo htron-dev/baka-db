@@ -1,5 +1,9 @@
 {
     "title": "Magi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201605.jpg",
+        "alt": "magi"
+    },
     "type": "manga",
     "volumes": "37",
     "chapters": "369",

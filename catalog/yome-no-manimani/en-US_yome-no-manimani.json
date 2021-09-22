@@ -1,5 +1,9 @@
 {
     "title": "Yome no Manimani",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227615.jpg",
+        "alt": "yome-no-manimani"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "34",

@@ -1,5 +1,9 @@
 {
     "title": "Kiss Wood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/65275.jpg",
+        "alt": "kiss-wood"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "34",

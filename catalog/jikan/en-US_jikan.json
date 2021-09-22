@@ -1,5 +1,9 @@
 {
     "title": "Jikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/71299.jpg",
+        "alt": "jikan"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "時間",

@@ -1,5 +1,9 @@
 {
     "title": "Kanojo mo Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1713/117119.jpg",
+        "alt": "kanojo-mo-kanojo"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "カノジョも彼女",

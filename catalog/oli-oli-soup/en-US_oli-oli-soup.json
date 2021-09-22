@@ -1,5 +1,9 @@
 {
     "title": "Oli-Oli Soup",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205423.jpg",
+        "alt": "oli-oli-soup"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "72",

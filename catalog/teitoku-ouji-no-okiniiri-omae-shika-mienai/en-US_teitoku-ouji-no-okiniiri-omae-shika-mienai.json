@@ -1,5 +1,9 @@
 {
     "title": "Teitoku Ouji no Okiniiri Omae shika Mienai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171920.jpg",
+        "alt": "teitoku-ouji-no-okiniiri-omae-shika-mienai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

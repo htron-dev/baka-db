@@ -1,5 +1,9 @@
 {
     "title": "Suki to Ienai...",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/28241.jpg",
+        "alt": "suki-to-ienai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "好きと言えない・・・",

@@ -1,5 +1,9 @@
 {
     "title": "Dragon Head",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196300.jpg",
+        "alt": "dragon-head"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "89",

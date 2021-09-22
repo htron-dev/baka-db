@@ -1,5 +1,9 @@
 {
     "title": "Taishou Rouman: Oni-san Yameteee!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149964.jpg",
+        "alt": "taishou-rouman-oni-san-yameteee"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

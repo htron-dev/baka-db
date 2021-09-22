@@ -1,5 +1,9 @@
 {
     "title": "Nobunaga Concerto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/64519.jpg",
+        "alt": "nobunaga-concerto"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "信長協奏曲〈コンツェルト〉",

@@ -1,5 +1,9 @@
 {
     "title": "Gyokou no Nikuko-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/240503.jpg",
+        "alt": "gyokou-no-nikuko-chan"
+    },
     "type": "manga",
     "original_name": "漁港の肉子ちゃん",
     "start_date": "2021-01-29",

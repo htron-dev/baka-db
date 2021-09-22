@@ -1,5 +1,9 @@
 {
     "title": "Konchuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244107.jpg",
+        "alt": "konchuki"
+    },
     "type": "manga",
     "original_name": "こんちゅき",
     "start_date": "2020-06-25",

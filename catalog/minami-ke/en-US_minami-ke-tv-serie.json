@@ -1,5 +1,9 @@
 {
     "title": "Minami-ke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/75279.jpg",
+        "alt": "minami-ke"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "みなみけ",

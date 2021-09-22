@@ -1,5 +1,9 @@
 {
     "title": "Maria-san wa Toumei Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/155589.jpg",
+        "alt": "maria-san-wa-toumei-shoujo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

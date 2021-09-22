@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi Wazurai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/119581.jpg",
+        "alt": "hatsukoi-wazurai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

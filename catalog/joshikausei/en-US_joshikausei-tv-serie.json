@@ -1,5 +1,9 @@
 {
     "title": "Joshikausei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1660/98376.jpg",
+        "alt": "joshikausei"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "女子かう生",

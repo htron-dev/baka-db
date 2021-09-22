@@ -1,5 +1,9 @@
 {
     "title": "Xtra Syndrome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40575.jpg",
+        "alt": "xtra-syndrome"
+    },
     "type": "manhwa",
     "volumes": "3",
     "tags": [

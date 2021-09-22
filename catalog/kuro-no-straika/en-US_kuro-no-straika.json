@@ -1,5 +1,9 @@
 {
     "title": "Kuro no Straika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163000.jpg",
+        "alt": "kuro-no-straika"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "22",

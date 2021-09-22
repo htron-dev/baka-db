@@ -1,5 +1,9 @@
 {
     "title": "OZN",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/44329.jpg",
+        "alt": "ozn"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "オズヌ",

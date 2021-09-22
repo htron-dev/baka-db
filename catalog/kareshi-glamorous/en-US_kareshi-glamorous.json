@@ -1,5 +1,9 @@
 {
     "title": "Kareshi Glamorous",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37089.jpg",
+        "alt": "kareshi-glamorous"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Manga Grimm Douwa: Aohige wo Aishita Onna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/140675.jpg",
+        "alt": "manga-grimm-douwa-aohige-wo-aishita-onna"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

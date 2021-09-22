@@ -1,5 +1,9 @@
 {
     "title": "Naozari Dungeon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/147215.jpg",
+        "alt": "naozari-dungeon"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "なおざりダンジョン",

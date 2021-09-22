@@ -1,5 +1,9 @@
 {
     "title": "Doll's Folklore",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/78629.jpg",
+        "alt": "dolls-folklore"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "Koi Tamayura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/87187.jpg",
+        "alt": "koi-tamayura"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

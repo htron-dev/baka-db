@@ -1,5 +1,9 @@
 {
     "title": "Namakemono to Haru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/95455.jpg",
+        "alt": "namakemono-to-haru"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ナマケモノと春",

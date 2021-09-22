@@ -1,5 +1,9 @@
 {
     "title": "Ai ni Kuwarero!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/80679.jpg",
+        "alt": "ai-ni-kuwarero"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

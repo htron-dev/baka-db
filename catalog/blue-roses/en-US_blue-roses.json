@@ -1,5 +1,9 @@
 {
     "title": "Blue Roses",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18095.jpg",
+        "alt": "blue-roses"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

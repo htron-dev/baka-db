@@ -1,5 +1,9 @@
 {
     "title": "Sundere!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/57539.jpg",
+        "alt": "sundere"
+    },
     "type": "manga",
     "original_name": "スンデレ!",
     "start_date": "2009-04-10",

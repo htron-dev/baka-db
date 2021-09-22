@@ -1,5 +1,9 @@
 {
     "title": "Hyakka Ryouran: Samurai Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/74191.jpg",
+        "alt": "hyakka-ryouran-samurai-girls"
+    },
     "type": "light-novel",
     "original_name": "百花繚乱サムライガールズ",
     "start_date": "2009-02-28",

@@ -1,5 +1,9 @@
 {
     "title": "Kuneru Marta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207221.jpg",
+        "alt": "kuneru-marta"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "211",

@@ -1,5 +1,9 @@
 {
     "title": "Ai no Shintairiku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/184819.jpg",
+        "alt": "ai-no-shintairiku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Eleanor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29526.jpg",
+        "alt": "eleanor"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

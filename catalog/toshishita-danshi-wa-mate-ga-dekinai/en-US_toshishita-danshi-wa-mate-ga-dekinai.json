@@ -1,5 +1,9 @@
 {
     "title": "Toshishita Danshi wa Mate ga Dekinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/201527.jpg",
+        "alt": "toshishita-danshi-wa-mate-ga-dekinai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Cinema no Teikoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24611.jpg",
+        "alt": "cinema-no-teikoku"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "17",

@@ -1,5 +1,9 @@
 {
     "title": "Haru Ranman!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24668.jpg",
+        "alt": "haru-ranman"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

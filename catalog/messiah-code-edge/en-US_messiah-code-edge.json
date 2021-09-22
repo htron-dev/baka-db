@@ -1,5 +1,9 @@
 {
     "title": "Messiah: Code Edge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/208523.jpg",
+        "alt": "messiah-code-edge"
+    },
     "type": "manga",
     "original_name": "メサイア －CODE EDGE－",
     "start_date": "2017-12-16",

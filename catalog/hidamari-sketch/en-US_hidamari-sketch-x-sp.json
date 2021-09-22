@@ -1,5 +1,9 @@
 {
     "title": "Hidamari Sketch x SP",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/34085.jpg",
+        "alt": "hidamari-sketch-x-sp"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "ひだまりスケッチ ×SP",

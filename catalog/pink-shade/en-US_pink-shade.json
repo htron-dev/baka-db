@@ -1,5 +1,9 @@
 {
     "title": "Pink Shade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/26004.jpg",
+        "alt": "pink-shade"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

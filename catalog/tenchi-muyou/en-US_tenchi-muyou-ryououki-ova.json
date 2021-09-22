@@ -1,5 +1,9 @@
 {
     "title": "Tenchi Muyou! Ryououki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1224/95301.jpg",
+        "alt": "tenchi-muyou-ryououki"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "天地無用！魎皇鬼",

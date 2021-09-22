@@ -1,5 +1,9 @@
 {
     "title": "Koishite☆Twinkle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/96637.jpg",
+        "alt": "koishite☆-twinkle"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "恋して ☆ トゥインクル",

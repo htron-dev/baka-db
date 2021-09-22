@@ -1,5 +1,9 @@
 {
     "title": "Ginga Sengoku Gunyuuden Rai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/75587.jpg",
+        "alt": "ginga-sengoku-gunyuuden-rai"
+    },
     "type": "manga",
     "volumes": "27",
     "original_name": "銀河戦國群雄伝ライ",

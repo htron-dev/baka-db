@@ -1,5 +1,9 @@
 {
     "title": "Konyakusha ga Akuyaku de Komattemasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/229308.jpg",
+        "alt": "konyakusha-ga-akuyaku-de-komattemasu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "28",

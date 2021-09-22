@@ -1,5 +1,9 @@
 {
     "title": "Sabu to Ichi Torimono Hikae",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/84054.jpg",
+        "alt": "sabu-to-ichi-torimono-hikae"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "佐武と市捕物控",

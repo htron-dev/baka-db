@@ -1,5 +1,9 @@
 {
     "title": "Oiran Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164531.jpg",
+        "alt": "oiran-girl"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "27",

@@ -1,5 +1,9 @@
 {
     "title": "GS Mikami Gokuraku Daisakusen!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/144081.jpg",
+        "alt": "gs-mikami-gokuraku-daisakusen"
+    },
     "type": "manga",
     "volumes": "39",
     "chapters": "390",

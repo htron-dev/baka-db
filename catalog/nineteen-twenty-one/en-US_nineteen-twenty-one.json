@@ -1,5 +1,9 @@
 {
     "title": "Nineteen, Twenty-One",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40772.jpg",
+        "alt": "nineteen-twenty-one"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "21",

@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241074.jpg",
+        "alt": "tokyo-game"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

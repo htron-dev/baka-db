@@ -1,12 +1,16 @@
 {
     "title": "Ginga Eiyuu Densetsu Gaiden (1999)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/9580.jpg",
+        "alt": "ginga-eiyuu-densetsu-gaiden-1999"
+    },
     "type": "ova",
     "episodes": "28",
     "original_name": "銀河英雄伝説外伝 螺旋迷宮",
     "start_date": "1999-12-24",
     "end_date": "1999-12-24",
     "opening_song": "\"A Story of Time\" by AKEMI",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Our Trail\" by Kei Ogura (eps 1-14)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

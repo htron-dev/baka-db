@@ -1,5 +1,9 @@
 {
     "title": "Beelzebub: Hirotta Akachan wa Daimaou!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/26349.jpg",
+        "alt": "beelzebub-hirotta-akachan-wa-daimaou"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "べるぜバブ 拾った赤ちゃんは大魔王!?",
@@ -31,7 +35,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Beelzebub_(manga"
+            "link": "http://en.wikipedia.org/wiki/Beelzebub_%28manga%29"
         }
     ]
 }

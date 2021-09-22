@@ -1,5 +1,9 @@
 {
     "title": "Gokujou no Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27150.jpg",
+        "alt": "gokujou-no-koibito"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

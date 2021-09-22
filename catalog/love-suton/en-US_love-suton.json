@@ -1,5 +1,9 @@
 {
     "title": "Love Suton",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/220990.jpg",
+        "alt": "love-suton"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

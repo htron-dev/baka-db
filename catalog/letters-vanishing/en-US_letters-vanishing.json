@@ -1,5 +1,9 @@
 {
     "title": "Letters/Vanishing",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151957.jpg",
+        "alt": "letters-vanishing"
+    },
     "type": "light-novel",
     "original_name": "レターズ/ヴァニシング",
     "start_date": "2014-09-10",

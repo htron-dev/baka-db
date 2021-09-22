@@ -1,5 +1,9 @@
 {
     "title": "Mou Tamago wa Korosanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/71621.jpg",
+        "alt": "mou-tamago-wa-korosanai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

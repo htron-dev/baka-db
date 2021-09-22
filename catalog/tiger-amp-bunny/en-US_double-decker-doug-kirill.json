@@ -1,5 +1,9 @@
 {
     "title": "Double Decker! Doug & Kirill",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224468.jpg",
+        "alt": "double-decker-doug-kirill"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

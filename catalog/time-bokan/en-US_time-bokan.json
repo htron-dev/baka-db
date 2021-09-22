@@ -1,5 +1,9 @@
 {
     "title": "Time Bokan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/46877.jpg",
+        "alt": "time-bokan"
+    },
     "type": "tv-serie",
     "episodes": "61",
     "original_name": "タイムボカン",

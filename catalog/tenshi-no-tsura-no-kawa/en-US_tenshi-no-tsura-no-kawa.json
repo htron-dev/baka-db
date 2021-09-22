@@ -1,5 +1,9 @@
 {
     "title": "Tenshi no Tsura no Kawa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205856.jpg",
+        "alt": "tenshi-no-tsura-no-kawa"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "28",

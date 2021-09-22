@@ -1,5 +1,9 @@
 {
     "title": "Meru Meru Mail",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11941.jpg",
+        "alt": "meru-meru-mail"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

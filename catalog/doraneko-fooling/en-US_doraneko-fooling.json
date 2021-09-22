@@ -1,5 +1,9 @@
 {
     "title": "Doraneko Fooling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40031.jpg",
+        "alt": "doraneko-fooling"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ドラねこ ★ フーリング",

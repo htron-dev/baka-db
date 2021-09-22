@@ -1,12 +1,16 @@
 {
     "title": "Asobi ni Iku yo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/75583.jpg",
+        "alt": "asobi-ni-iku-yo"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "あそびにいくヨ!",
     "start_date": "2010-07-11",
     "end_date": "2010-07-11",
     "opening_song": "\"Now loading... SKY!!\" by Sphere (eps 3-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kokoro no Madobe Nite (心の窓辺にて)\" by Kana Hanazawa (eps 1, 5, 8)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "comedy",

@@ -1,5 +1,9 @@
 {
     "title": "Senbon Matsubara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/51493.jpg",
+        "alt": "senbon-matsubara"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "せんぼんまつばら",

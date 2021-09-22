@@ -1,5 +1,9 @@
 {
     "title": "Mirai Shounen Conan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/17529.jpg",
+        "alt": "mirai-shounen-conan"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "未来少年コナン",

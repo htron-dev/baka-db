@@ -1,5 +1,9 @@
 {
     "title": "Otouto Ijou, Danshi Miman.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/208972.jpg",
+        "alt": "otouto-ijou-danshi-miman"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Aruaru! Mukyou Gakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/98697.jpg",
+        "alt": "aruaru-mukyou-gakuen"
+    },
     "type": "light-novel",
     "volumes": "7",
     "chapters": "41",

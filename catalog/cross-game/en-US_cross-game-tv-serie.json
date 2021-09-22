@@ -1,12 +1,16 @@
 {
     "title": "Cross Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/22103.jpg",
+        "alt": "cross-game"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "クロスゲーム",
     "start_date": "2009-04-05",
     "end_date": "2009-04-05",
     "opening_song": "\"Summer Rain\" by Kobukuro",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Koikogarete Mita Yume (恋焦がれて見た夢)\" by Ayaka (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

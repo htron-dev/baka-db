@@ -1,5 +1,9 @@
 {
     "title": "Novalis: Kimi wa Boku no Chimera",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247133.jpg",
+        "alt": "novalis-kimi-wa-boku-no-chimera"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

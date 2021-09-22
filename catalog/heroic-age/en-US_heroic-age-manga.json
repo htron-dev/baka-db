@@ -1,5 +1,9 @@
 {
     "title": "Heroic Age",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/58753.jpg",
+        "alt": "heroic-age"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "15",

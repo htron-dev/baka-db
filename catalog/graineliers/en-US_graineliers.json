@@ -1,5 +1,9 @@
 {
     "title": "Graineliers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164093.jpg",
+        "alt": "graineliers"
+    },
     "type": "manga",
     "original_name": "グランネリエ",
     "start_date": "2013-09-18",

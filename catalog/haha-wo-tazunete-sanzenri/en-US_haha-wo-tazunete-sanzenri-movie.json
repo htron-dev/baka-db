@@ -1,5 +1,9 @@
 {
     "title": "Haha wo Tazunete Sanzenri (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/80489.jpg",
+        "alt": "haha-wo-tazunete-sanzenri-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "母をたずねて三千里",

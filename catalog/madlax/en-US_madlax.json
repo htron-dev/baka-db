@@ -1,5 +1,9 @@
 {
     "title": "Madlax",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/57237.jpg",
+        "alt": "madlax"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "マドラックス",

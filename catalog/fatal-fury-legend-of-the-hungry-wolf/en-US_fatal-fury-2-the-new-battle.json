@@ -1,10 +1,14 @@
 {
     "title": "Fatal Fury 2: The New Battle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1691/106030.jpg",
+        "alt": "fatal-fury-2-the-new-battle"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "バトルファイターズ餓狼伝説 2",
     "start_date": "1993-07-31",
-    "ending_song": "\"CALLING (Tony's Theme)\" by ZI",
+    "ending_song": "\"CALLING (Tony's Theme)\" by ZI:KILL",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

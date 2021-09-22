@@ -1,5 +1,9 @@
 {
     "title": "Pet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1399/94794.jpg",
+        "alt": "pet"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ペット",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Pet_(manga"
+            "link": "http://en.wikipedia.org/wiki/Pet_%28manga%29"
         }
     ]
 }

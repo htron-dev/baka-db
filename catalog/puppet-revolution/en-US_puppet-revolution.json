@@ -1,5 +1,9 @@
 {
     "title": "Puppet Revolution",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/129453.jpg",
+        "alt": "puppet-revolution"
+    },
     "type": "manga",
     "original_name": "ぱペットレボリューション",
     "start_date": "2002-01-21",

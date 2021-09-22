@@ -1,5 +1,9 @@
 {
     "title": "Nemurimehime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176812.jpg",
+        "alt": "nemurimehime"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

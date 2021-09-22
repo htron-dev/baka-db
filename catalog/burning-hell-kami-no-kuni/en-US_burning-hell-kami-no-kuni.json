@@ -1,5 +1,9 @@
 {
     "title": "Burning Hell: Kami no Kuni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176678.jpg",
+        "alt": "burning-hell-kami-no-kuni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

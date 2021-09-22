@@ -1,5 +1,9 @@
 {
     "title": "Shounen Sanpakugan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/95797.jpg",
+        "alt": "shounen-sanpakugan"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "少年三白眼",

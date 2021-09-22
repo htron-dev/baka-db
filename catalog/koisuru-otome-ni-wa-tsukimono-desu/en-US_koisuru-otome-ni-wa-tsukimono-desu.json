@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Otome ni wa Tsukimono desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200579.jpg",
+        "alt": "koisuru-otome-ni-wa-tsukimono-desu"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "恋するオトメには憑きものです。",

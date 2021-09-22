@@ -1,5 +1,9 @@
 {
     "title": "Kago no Shoujo wa Koi wo Suru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206126.jpg",
+        "alt": "kago-no-shoujo-wa-koi-wo-suru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

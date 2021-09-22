@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi Monster",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/80182.jpg",
+        "alt": "hatsukoi-monster"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "初恋モンスター",

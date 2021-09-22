@@ -1,5 +1,9 @@
 {
     "title": "Granblue Fantasy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/83025.jpg",
+        "alt": "granblue-fantasy"
+    },
     "type": "ona",
     "original_name": "グランブルーファンタジー",
     "start_date": "2013-11-08",

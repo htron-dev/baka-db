@@ -1,5 +1,9 @@
 {
     "title": "Hito ni Ienai Aidagara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36588.jpg",
+        "alt": "hito-ni-ienai-aidagara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Watashi wa Otonashiku Kiesaru Koto ni Shimasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229274.jpg",
+        "alt": "watashi-wa-otonashiku-kiesaru-koto-ni-shimasu"
+    },
     "type": "manga",
     "original_name": "私はおとなしく消え去ることにします",
     "start_date": "2019-07-10",

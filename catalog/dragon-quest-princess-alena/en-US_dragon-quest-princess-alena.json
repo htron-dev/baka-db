@@ -1,5 +1,9 @@
 {
     "title": "Dragon Quest: Princess Alena",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186119.jpg",
+        "alt": "dragon-quest-princess-alena"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "ドラゴンクエスト プリンセスアリーナ",

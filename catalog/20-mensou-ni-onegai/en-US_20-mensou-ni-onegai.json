@@ -1,5 +1,9 @@
 {
     "title": "20 Mensou ni Onegai!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/3758.jpg",
+        "alt": "20-mensou-ni-onegai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

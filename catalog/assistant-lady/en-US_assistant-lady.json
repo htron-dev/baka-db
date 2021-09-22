@@ -1,5 +1,9 @@
 {
     "title": "Assistant Lady",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10316.jpg",
+        "alt": "assistant-lady"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "アシスタントレイディ",

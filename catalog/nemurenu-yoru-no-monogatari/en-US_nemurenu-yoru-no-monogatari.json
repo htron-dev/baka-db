@@ -1,5 +1,9 @@
 {
     "title": "Nemurenu Yoru no Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/34825.jpg",
+        "alt": "nemurenu-yoru-no-monogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

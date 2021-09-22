@@ -1,5 +1,9 @@
 {
     "title": "Sekitou Elegy: Tokyo Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/248627.jpg",
+        "alt": "sekitou-elegy-tokyo-monogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

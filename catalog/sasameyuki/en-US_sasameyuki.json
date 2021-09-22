@@ -1,5 +1,9 @@
 {
     "title": "Sasameyuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/240804.jpg",
+        "alt": "sasameyuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

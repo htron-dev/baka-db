@@ -1,5 +1,9 @@
 {
     "title": "Tribe-X",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180728.jpg",
+        "alt": "tribe-x"
+    },
     "type": "manhwa",
     "original_name": "TribeX [트라이브 엑스]",
     "start_date": "2014-10-09",

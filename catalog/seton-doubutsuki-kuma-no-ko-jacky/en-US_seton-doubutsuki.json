@@ -1,5 +1,9 @@
 {
     "title": "Seton Doubutsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/19086.jpg",
+        "alt": "seton-doubutsuki"
+    },
     "type": "tv-serie",
     "episodes": "45",
     "original_name": "シートン動物記",

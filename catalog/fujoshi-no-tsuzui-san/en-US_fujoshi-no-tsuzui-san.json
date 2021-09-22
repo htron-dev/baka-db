@@ -1,5 +1,9 @@
 {
     "title": "Fujoshi no Tsuzui-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226329.jpg",
+        "alt": "fujoshi-no-tsuzui-san"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

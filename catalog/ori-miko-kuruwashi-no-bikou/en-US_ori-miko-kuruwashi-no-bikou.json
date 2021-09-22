@@ -1,5 +1,9 @@
 {
     "title": "Ori Miko: Kuruwashi no Bikou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/182868.jpg",
+        "alt": "ori-miko-kuruwashi-no-bikou"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

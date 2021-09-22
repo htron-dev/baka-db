@@ -1,5 +1,9 @@
 {
     "title": "Tsuki wo Dakishimeru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/212479.jpg",
+        "alt": "tsuki-wo-dakishimeru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

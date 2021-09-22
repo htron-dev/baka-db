@@ -1,5 +1,9 @@
 {
     "title": "TimeLine★Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159973.jpg",
+        "alt": "time-line★-girl"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Feng Yu Jiu Tian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/99331.jpg",
+        "alt": "feng-yu-jiu-tian"
+    },
     "type": "light-novel",
     "original_name": "凤于九天",
     "tags": [

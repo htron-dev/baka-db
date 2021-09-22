@@ -1,5 +1,9 @@
 {
     "title": "Karakurizoushi Ayatsuri Sakon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201577.jpg",
+        "alt": "karakurizoushi-ayatsuri-sakon"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "32",

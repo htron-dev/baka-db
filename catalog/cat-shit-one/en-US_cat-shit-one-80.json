@@ -1,5 +1,9 @@
 {
     "title": "Cat Shit One 80",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167673.jpg",
+        "alt": "cat-shit-one-80"
+    },
     "type": "manga",
     "tags": [
         "historical",

@@ -1,5 +1,9 @@
 {
     "title": "Tokimeki Tonight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159409.jpg",
+        "alt": "tokimeki-tonight"
+    },
     "type": "manga",
     "volumes": "30",
     "original_name": "ときめきトゥナイト",

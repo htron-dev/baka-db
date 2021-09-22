@@ -1,5 +1,9 @@
 {
     "title": "Ryuurouden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2016.jpg",
+        "alt": "ryuurouden"
+    },
     "type": "manga",
     "volumes": "37",
     "chapters": "158",

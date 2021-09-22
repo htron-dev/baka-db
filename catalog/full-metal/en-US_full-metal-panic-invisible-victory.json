@@ -1,12 +1,16 @@
 {
     "title": "Full Metal Panic! Invisible Victory",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1033/92011.jpg",
+        "alt": "full-metal-panic-invisible-victory"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "フルメタル・パニック！Invisible Victory",
     "start_date": "2018-04-13",
     "end_date": "2018-04-13",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Even...if\" by Tamaru Yamada (eps 2-3)",
+    "ending_song": "#1: \"yes\" by Tamaru Yamada (eps 2-4)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Biaku no Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203680.jpg",
+        "alt": "biaku-no-hana"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "179",

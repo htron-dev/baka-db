@@ -1,12 +1,16 @@
 {
     "title": "Mitsubachi Maya no Bouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/3358.jpg",
+        "alt": "mitsubachi-maya-no-bouken"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "みつばちマーヤの冒険",
     "start_date": "1975-04-01",
     "end_date": "1975-04-01",
     "opening_song": "\"Mitsubachi Maya no Bouken (みつばちマーヤの冒険)\" by Cheetah and the Honey Bee Choir",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Oyasumi Maya (おやすみマーヤ)\" by Cheetah and the Honey Bee Choir",
     "rating": "G - All Ages",
     "tags": [
         "adventure",

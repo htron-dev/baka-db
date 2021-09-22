@@ -1,5 +1,9 @@
 {
     "title": "Nayuta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163237.jpg",
+        "alt": "nayuta"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "那由他",

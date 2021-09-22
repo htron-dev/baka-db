@@ -1,12 +1,16 @@
 {
     "title": "Uta no☆Prince-sama♪: Maji Love 1000%",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/30248.jpg",
+        "alt": "uta-no☆-prince-sama♪-maji-love-1000"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "うたの ☆ プリンスさまっ ♪ マジ LOVE1000%",
     "start_date": "2011-07-03",
     "end_date": "2011-07-03",
-    "opening_song": "1",
-    "ending_song": "1",
+    "opening_song": "1: \"Maji LOVE 1000% (マジ LOVE1000％)\" by ST☆RISH (Takuma Terashima, Kenichi Suzumura, Kishou Taniyama, Mamoru Miyano, Junichi Suwabe, Hiro Shimono) (ep 1)",
+    "ending_song": "1: \"Orpheus (オルフェ)\" by Mamoru Miyano (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "harem",

@@ -1,5 +1,9 @@
 {
     "title": "Fu Ta Ri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189077.jpg",
+        "alt": "fu-ta-ri"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "71",

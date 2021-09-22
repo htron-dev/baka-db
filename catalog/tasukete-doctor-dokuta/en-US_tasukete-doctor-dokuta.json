@@ -1,5 +1,9 @@
 {
     "title": "Tasukete! Doctor Dokuta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194094.jpg",
+        "alt": "tasukete-doctor-dokuta"
+    },
     "type": "manga",
     "original_name": "たすけて！ドクター・ドク太",
     "start_date": "2016-04-30",

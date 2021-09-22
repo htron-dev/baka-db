@@ -1,5 +1,9 @@
 {
     "title": "Hakugin no Bergfried",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162289.jpg",
+        "alt": "hakugin-no-bergfried"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "25",

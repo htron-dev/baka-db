@@ -1,5 +1,9 @@
 {
     "title": "Salty Road",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161630.jpg",
+        "alt": "salty-road"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

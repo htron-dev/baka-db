@@ -1,5 +1,9 @@
 {
     "title": "Mangaka Yashoku Kenkyuujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186592.jpg",
+        "alt": "mangaka-yashoku-kenkyuujo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "33",

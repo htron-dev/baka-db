@@ -1,5 +1,9 @@
 {
     "title": "River's Edge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25190.jpg",
+        "alt": "rivers-edge"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

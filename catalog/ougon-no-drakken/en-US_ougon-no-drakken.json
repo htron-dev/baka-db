@@ -1,5 +1,9 @@
 {
     "title": "Ougon no Drakken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/90355.jpg",
+        "alt": "ougon-no-drakken"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "29",

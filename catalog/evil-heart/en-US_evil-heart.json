@@ -1,5 +1,9 @@
 {
     "title": "Evil Heart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154929.jpg",
+        "alt": "evil-heart"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "34",

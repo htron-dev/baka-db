@@ -1,5 +1,9 @@
 {
     "title": "Derby Queen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24894.jpg",
+        "alt": "derby-queen"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ダービークイーン",

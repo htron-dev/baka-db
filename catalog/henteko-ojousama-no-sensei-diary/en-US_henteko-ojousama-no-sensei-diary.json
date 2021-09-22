@@ -1,5 +1,9 @@
 {
     "title": "Henteko Ojousama no Sensei Diary",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/197970.jpg",
+        "alt": "henteko-ojousama-no-sensei-diary"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

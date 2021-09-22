@@ -1,5 +1,9 @@
 {
     "title": "Angel Beats!: The Last Operation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/206104.jpg",
+        "alt": "angel-beats-the-last-operation"
+    },
     "type": "manga",
     "original_name": "Angel Beats! -The Last Operation-",
     "start_date": "2017-08-30",

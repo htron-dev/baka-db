@@ -1,5 +1,9 @@
 {
     "title": "Sodom no Ichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238481.jpg",
+        "alt": "sodom-no-ichi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

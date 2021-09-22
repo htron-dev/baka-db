@@ -1,5 +1,9 @@
 {
     "title": "Utsuno-sensei wa Melancholic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/209841.jpg",
+        "alt": "utsuno-sensei-wa-melancholic"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "25",

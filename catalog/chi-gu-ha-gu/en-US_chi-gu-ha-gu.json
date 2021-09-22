@@ -1,5 +1,9 @@
 {
     "title": "Chi Gu Ha Gu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/45493.jpg",
+        "alt": "chi-gu-ha-gu"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ちぐはぐ",

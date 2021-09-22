@@ -1,5 +1,9 @@
 {
     "title": "Bura-Pan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163411.jpg",
+        "alt": "bura-pan"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "ブラパン！",

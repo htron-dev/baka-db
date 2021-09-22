@@ -1,5 +1,9 @@
 {
     "title": "Majin Senki: Ha-Gun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/115729.jpg",
+        "alt": "majin-senki-ha-gun"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "32",

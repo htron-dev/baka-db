@@ -1,5 +1,9 @@
 {
     "title": "Kaibou Kitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192569.jpg",
+        "alt": "kaibou-kitan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "30",

@@ -1,5 +1,9 @@
 {
     "title": "Mirai Nikki (TV): Ura Mirai Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/38423.jpg",
+        "alt": "mirai-nikki-tv-ura-mirai-nikki"
+    },
     "type": "special",
     "episodes": "10",
     "original_name": "未来日記 裏未来日記",

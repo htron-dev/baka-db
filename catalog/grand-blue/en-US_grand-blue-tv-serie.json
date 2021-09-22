@@ -1,12 +1,16 @@
 {
     "title": "Grand Blue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1302/94882.jpg",
+        "alt": "grand-blue"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ぐらんぶる",
     "start_date": "2018-07-14",
     "end_date": "2018-07-14",
     "opening_song": "\"Grand Blue\" by Shounan no Kaze (eps 1-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Konpeki no Alfine ~Nikenme ni Karaoke ni Haitta Oretachi no Tension Super MAX ver.~ (紺碧のアル・フィーネ ～二軒目にカラオケに入った俺たちのテンションスーパー MAXver.～)\" by Izu no Kaze (伊豆乃風) [Iori Kitahar",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

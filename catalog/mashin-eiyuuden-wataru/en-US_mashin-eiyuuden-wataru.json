@@ -1,5 +1,9 @@
 {
     "title": "Mashin Eiyuuden Wataru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/65417.jpg",
+        "alt": "mashin-eiyuuden-wataru"
+    },
     "type": "tv-serie",
     "episodes": "45",
     "original_name": "魔神英雄伝ワタル",

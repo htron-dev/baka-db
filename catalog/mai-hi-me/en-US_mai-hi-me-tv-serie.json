@@ -1,12 +1,16 @@
 {
     "title": "Mai-HiME",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/7226.jpg",
+        "alt": "mai-hi-me"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "舞-HiME",
     "start_date": "2004-09-30",
     "end_date": "2004-09-30",
     "opening_song": "\"Shining Days\" by Minami Kuribayashi",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kimi ga Sora datta\" by Aki Misato",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

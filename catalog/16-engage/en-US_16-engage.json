@@ -1,5 +1,9 @@
 {
     "title": "16 Engage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/110657.jpg",
+        "alt": "16-engage"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "シックスティーン・エンゲージ",

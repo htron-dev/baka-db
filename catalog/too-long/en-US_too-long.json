@@ -1,5 +1,9 @@
 {
     "title": "Too Long",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/7621.jpg",
+        "alt": "too-long"
+    },
     "type": "manhwa",
     "volumes": "1",
     "chapters": "10",

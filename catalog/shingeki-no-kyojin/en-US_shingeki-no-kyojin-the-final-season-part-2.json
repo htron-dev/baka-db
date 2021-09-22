@@ -1,5 +1,9 @@
 {
     "title": "Shingeki no Kyojin: The Final Season Part 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1989/116577.jpg",
+        "alt": "shingeki-no-kyojin-the-final-season-part-2"
+    },
     "type": "tv-serie",
     "original_name": "進撃の巨人 The Final Season Part 2",
     "start_date": "2022-01-20",
@@ -29,7 +33,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Attack_on_Titan_(season_4"
+            "link": "https://en.wikipedia.org/wiki/Attack_on_Titan_%28season_4%29"
         }
     ]
 }

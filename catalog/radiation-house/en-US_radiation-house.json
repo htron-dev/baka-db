@@ -1,5 +1,9 @@
 {
     "title": "Radiation House",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180240.jpg",
+        "alt": "radiation-house"
+    },
     "type": "manga",
     "original_name": "ラジエーションハウス",
     "start_date": "2015-10-21",

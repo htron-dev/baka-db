@@ -1,5 +1,9 @@
 {
     "title": "Pumpkin Night",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/204405.jpg",
+        "alt": "pumpkin-night"
+    },
     "type": "manga",
     "original_name": "パンプキンナイト",
     "start_date": "2016-10-20",

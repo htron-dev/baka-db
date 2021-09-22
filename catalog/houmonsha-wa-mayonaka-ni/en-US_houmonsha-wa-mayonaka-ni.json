@@ -1,5 +1,9 @@
 {
     "title": "Houmonsha wa Mayonaka ni...",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186741.jpg",
+        "alt": "houmonsha-wa-mayonaka-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

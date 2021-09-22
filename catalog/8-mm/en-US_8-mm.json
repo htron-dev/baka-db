@@ -1,5 +1,9 @@
 {
     "title": "8mm",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/30243.jpg",
+        "alt": "8-mm"
+    },
     "type": "manhwa",
     "volumes": "5",
     "original_name": "8mm",

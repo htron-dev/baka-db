@@ -1,5 +1,9 @@
 {
     "title": "Amakunai Karera no Nichijou wa.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221103.jpg",
+        "alt": "amakunai-karera-no-nichijou-wa"
+    },
     "type": "manga",
     "original_name": "甘くない彼らの日常は。",
     "start_date": "2019-01-24",

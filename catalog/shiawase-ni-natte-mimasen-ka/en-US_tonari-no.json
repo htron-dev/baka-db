@@ -1,5 +1,9 @@
 {
     "title": "Tonari no",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/64315.jpg",
+        "alt": "tonari-no"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Kuro Ihon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165400.jpg",
+        "alt": "kuro-ihon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

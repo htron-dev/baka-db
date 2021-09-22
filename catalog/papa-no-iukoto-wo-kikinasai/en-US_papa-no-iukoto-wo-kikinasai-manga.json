@@ -1,5 +1,9 @@
 {
     "title": "Papa no Iukoto wo Kikinasai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171415.jpg",
+        "alt": "papa-no-iukoto-wo-kikinasai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

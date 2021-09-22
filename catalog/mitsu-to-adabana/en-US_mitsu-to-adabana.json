@@ -1,5 +1,9 @@
 {
     "title": "Mitsu to Adabana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247209.jpg",
+        "alt": "mitsu-to-adabana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

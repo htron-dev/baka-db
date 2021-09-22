@@ -1,5 +1,9 @@
 {
     "title": "Chikan Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/155148.jpg",
+        "alt": "chikan-otoko"
+    },
     "type": "manga",
     "chapters": "21",
     "original_name": "痴漢男",

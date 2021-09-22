@@ -1,5 +1,9 @@
 {
     "title": "Color Noise",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/80057.jpg",
+        "alt": "color-noise"
+    },
     "type": "ona",
     "episodes": "1",
     "start_date": "2010-06-04",

@@ -1,5 +1,9 @@
 {
     "title": "JA - Joshi ni Yoru Agriculture",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158604.jpg",
+        "alt": "ja-joshi-ni-yoru-agriculture"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "39",

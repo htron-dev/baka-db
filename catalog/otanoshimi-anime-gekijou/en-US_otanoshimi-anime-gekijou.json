@@ -1,5 +1,9 @@
 {
     "title": "Otanoshimi Anime Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/53389.jpg",
+        "alt": "otanoshimi-anime-gekijou"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "おたのしみアニメ劇場",

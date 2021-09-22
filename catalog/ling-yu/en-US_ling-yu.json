@@ -1,5 +1,9 @@
 {
     "title": "Ling Yu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/87671.jpg",
+        "alt": "ling-yu"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "灵域",

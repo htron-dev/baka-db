@@ -1,5 +1,9 @@
 {
     "title": "Shounen wa Ashita wo Korosu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/79387.jpg",
+        "alt": "shounen-wa-ashita-wo-korosu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

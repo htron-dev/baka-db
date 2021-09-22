@@ -1,5 +1,9 @@
 {
     "title": "Absolute Duo: Tea Party",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152728.jpg",
+        "alt": "absolute-duo-tea-party"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

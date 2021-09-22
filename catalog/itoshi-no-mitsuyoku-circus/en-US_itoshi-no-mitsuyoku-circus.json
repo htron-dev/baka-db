@@ -1,5 +1,9 @@
 {
     "title": "Itoshi no Mitsuyoku Circus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/233270.jpg",
+        "alt": "itoshi-no-mitsuyoku-circus"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

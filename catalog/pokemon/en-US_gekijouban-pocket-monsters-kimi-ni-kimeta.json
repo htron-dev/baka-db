@@ -1,5 +1,9 @@
 {
     "title": "Gekijouban Pocket Monsters: Kimi ni Kimeta!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224950.jpg",
+        "alt": "gekijouban-pocket-monsters-kimi-ni-kimeta"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

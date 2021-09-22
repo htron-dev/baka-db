@@ -1,5 +1,9 @@
 {
     "title": "Izakaya Bottakuri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192542.jpg",
+        "alt": "izakaya-bottakuri"
+    },
     "type": "manga",
     "original_name": "居酒屋ぼったくり",
     "start_date": "2016-03-24",

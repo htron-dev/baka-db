@@ -1,5 +1,9 @@
 {
     "title": "Kakushin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/88880.jpg",
+        "alt": "kakushin"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "確信",

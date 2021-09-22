@@ -1,5 +1,9 @@
 {
     "title": "Wol-A-Jin-Hee",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/23398.jpg",
+        "alt": "wol-a-jin-hee"
+    },
     "type": "manhwa",
     "volumes": "5",
     "start_date": "2004-01-20",

@@ -1,5 +1,9 @@
 {
     "title": "Gulliver Funtouki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/15851.jpg",
+        "alt": "gulliver-funtouki"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ガリヴァー奮闘記",

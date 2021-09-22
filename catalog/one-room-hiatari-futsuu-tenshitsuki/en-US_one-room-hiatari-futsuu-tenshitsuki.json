@@ -1,5 +1,9 @@
 {
     "title": "One Room, Hiatari Futsuu, Tenshitsuki.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/243534.jpg",
+        "alt": "one-room-hiatari-futsuu-tenshitsuki"
+    },
     "type": "manga",
     "original_name": "ワンルーム、日当たり普通、天使つき。",
     "start_date": "2020-09-12",

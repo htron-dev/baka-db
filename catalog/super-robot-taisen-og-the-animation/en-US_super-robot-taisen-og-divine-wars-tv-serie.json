@@ -1,12 +1,16 @@
 {
     "title": "Super Robot Taisen OG: Divine Wars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/31063.jpg",
+        "alt": "super-robot-taisen-og-divine-wars"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "スーパーロボット大戦 OG -ディバイン・ウォーズ-",
     "start_date": "2006-10-05",
     "end_date": "2006-10-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Break Out\" by JAM Project (eps 1-17, 24-25)",
+    "ending_song": "#1: \"Yell!\" by Minami Kuribayashi (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

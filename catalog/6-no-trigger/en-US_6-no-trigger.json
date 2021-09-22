@@ -1,5 +1,9 @@
 {
     "title": "6 no Trigger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/146631.jpg",
+        "alt": "6-no-trigger"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

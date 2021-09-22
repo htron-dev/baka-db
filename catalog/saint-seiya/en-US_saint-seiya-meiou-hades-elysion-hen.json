@@ -1,5 +1,9 @@
 {
     "title": "Saint Seiya: Meiou Hades Elysion-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/55659.jpg",
+        "alt": "saint-seiya-meiou-hades-elysion-hen"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "聖闘士星矢 冥王ハーデス エリシオン編",

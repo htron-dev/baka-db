@@ -1,5 +1,9 @@
 {
     "title": "Mumei no Hitobito: Ishoku Retsuden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179386.jpg",
+        "alt": "mumei-no-hitobito-ishoku-retsuden"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

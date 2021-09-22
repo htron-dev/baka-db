@@ -1,5 +1,9 @@
 {
     "title": "Eromanga-sensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/184183.jpg",
+        "alt": "eromanga-sensei"
+    },
     "type": "light-novel",
     "original_name": "エロマンガ先生",
     "start_date": "2013-12-10",

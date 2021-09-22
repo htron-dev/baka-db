@@ -1,5 +1,9 @@
 {
     "title": "Madame Joker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/45371.jpg",
+        "alt": "madame-joker"
+    },
     "type": "manga",
     "original_name": "マダム・ジョーカー",
     "tags": [

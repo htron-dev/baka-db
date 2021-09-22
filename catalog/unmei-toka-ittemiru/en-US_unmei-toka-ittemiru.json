@@ -1,5 +1,9 @@
 {
     "title": "Unmei toka Ittemiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/242375.jpg",
+        "alt": "unmei-toka-ittemiru"
+    },
     "type": "manga",
     "original_name": "運命とか言ってみる",
     "start_date": "2021-03-13",

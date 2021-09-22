@@ -1,5 +1,9 @@
 {
     "title": "Azumanga Daioh",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/56373.jpg",
+        "alt": "azumanga-daioh"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "69",

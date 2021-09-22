@@ -1,5 +1,9 @@
 {
     "title": "Jinrou Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/136935.jpg",
+        "alt": "jinrou-game"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

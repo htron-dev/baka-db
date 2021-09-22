@@ -1,5 +1,9 @@
 {
     "title": "Legend Hustle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/57921.jpg",
+        "alt": "legend-hustle"
+    },
     "type": "manhwa",
     "volumes": "6",
     "original_name": "레전드 허슬",

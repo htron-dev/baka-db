@@ -1,5 +1,9 @@
 {
     "title": "Tonari no Usotsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/217718.jpg",
+        "alt": "tonari-no-usotsuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

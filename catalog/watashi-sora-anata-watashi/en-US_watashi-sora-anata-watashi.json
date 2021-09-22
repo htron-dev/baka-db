@@ -1,5 +1,9 @@
 {
     "title": "Watashi Sora Anata Watashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207980.jpg",
+        "alt": "watashi-sora-anata-watashi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "30",

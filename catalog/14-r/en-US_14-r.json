@@ -1,5 +1,9 @@
 {
     "title": "14R",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/110813.jpg",
+        "alt": "14-r"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

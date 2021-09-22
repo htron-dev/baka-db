@@ -1,12 +1,16 @@
 {
     "title": "Super Lovers OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/87516.jpg",
+        "alt": "super-lovers-ova"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "SUPER LOVERS（スーパーラヴァーズ）",
     "start_date": "2017-01-01",
     "end_date": "2017-01-01",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Okaeri. (おかえり。)\" by Yuusuke Yata (ep 1)",
+    "ending_song": "#1: \"Happiness YOU & ME (ハピネス YOU＆ME)\" by Kaidou Brothers [Ren Kaidou (Junko Minagawa), Haru Kaidou (Tomoaki Maeno), Aki Kaidou (Yoshitsugu Matsuoka), Shima Kaidou (Takuma Terashima)] (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

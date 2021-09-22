@@ -1,5 +1,9 @@
 {
     "title": "Sekai no Yami Zukan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/84611.jpg",
+        "alt": "sekai-no-yami-zukan"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "世界の闇図鑑",

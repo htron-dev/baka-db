@@ -1,5 +1,9 @@
 {
     "title": "Danganronpa/Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/88403.jpg",
+        "alt": "danganronpa-zero"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "33",

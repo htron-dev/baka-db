@@ -1,5 +1,9 @@
 {
     "title": "Chuldong! Robot V",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1542/114499.jpg",
+        "alt": "chuldong-robot-v"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "출동! 로봇 V",

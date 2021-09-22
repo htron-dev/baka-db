@@ -1,5 +1,9 @@
 {
     "title": "Ryoute ni Darling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/131595.jpg",
+        "alt": "ryoute-ni-darling"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

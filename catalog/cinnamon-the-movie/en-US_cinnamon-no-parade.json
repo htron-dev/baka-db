@@ -1,5 +1,9 @@
 {
     "title": "Cinnamon no Parade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/39633.jpg",
+        "alt": "cinnamon-no-parade"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "シナモンのパレード",

@@ -1,5 +1,9 @@
 {
     "title": "Gakkou no Kaidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/117603.jpg",
+        "alt": "gakkou-no-kaidan"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

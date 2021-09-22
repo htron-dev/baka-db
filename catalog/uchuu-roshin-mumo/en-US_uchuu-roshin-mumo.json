@@ -1,5 +1,9 @@
 {
     "title": "Uchuu Roshin Mumo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/116479.jpg",
+        "alt": "uchuu-roshin-mumo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "29",

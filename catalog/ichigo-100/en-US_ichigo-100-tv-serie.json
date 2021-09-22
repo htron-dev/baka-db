@@ -1,5 +1,9 @@
 {
     "title": "Ichigo 100%",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/20036.jpg",
+        "alt": "ichigo-100"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "いちご 100%",

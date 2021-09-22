@@ -1,5 +1,9 @@
 {
     "title": "Gakkougurashi! Anthology Comic: Kai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164003.jpg",
+        "alt": "gakkougurashi-anthology-comic-kai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

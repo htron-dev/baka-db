@@ -1,5 +1,9 @@
 {
     "title": "Madouou no Seifukuai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183332.jpg",
+        "alt": "madouou-no-seifukuai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Nanoka no Kuigami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164329.jpg",
+        "alt": "nanoka-no-kuigami"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "14",

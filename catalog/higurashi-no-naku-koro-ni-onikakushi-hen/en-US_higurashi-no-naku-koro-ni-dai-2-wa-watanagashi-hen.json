@@ -1,5 +1,9 @@
 {
     "title": "Higurashi no Naku Koro ni - Dai 2-wa: Watanagashi-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/134167.jpg",
+        "alt": "higurashi-no-naku-koro-ni-dai-2-wa-watanagashi-hen"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "12",

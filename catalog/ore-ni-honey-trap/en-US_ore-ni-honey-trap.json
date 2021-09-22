@@ -1,5 +1,9 @@
 {
     "title": "Ore ni Honey Trap",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36701.jpg",
+        "alt": "ore-ni-honey-trap"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

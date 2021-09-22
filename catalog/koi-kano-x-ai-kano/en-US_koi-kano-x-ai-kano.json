@@ -1,5 +1,9 @@
 {
     "title": "Koi Kano x Ai Kano",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/112883.jpg",
+        "alt": "koi-kano-x-ai-kano"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

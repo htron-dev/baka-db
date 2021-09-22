@@ -1,5 +1,9 @@
 {
     "title": "Osananajimi wa Ichiransei no Kedamono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241052.jpg",
+        "alt": "osananajimi-wa-ichiransei-no-kedamono"
+    },
     "type": "manga",
     "original_name": "幼馴染は一卵性の獣",
     "start_date": "2020-05-15",

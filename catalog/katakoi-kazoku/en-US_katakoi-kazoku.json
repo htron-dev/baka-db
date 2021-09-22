@@ -1,5 +1,9 @@
 {
     "title": "Katakoi Kazoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190485.jpg",
+        "alt": "katakoi-kazoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

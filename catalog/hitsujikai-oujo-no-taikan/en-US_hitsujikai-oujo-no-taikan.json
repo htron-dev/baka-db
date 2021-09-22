@@ -1,5 +1,9 @@
 {
     "title": "Hitsujikai Oujo no Taikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173757.jpg",
+        "alt": "hitsujikai-oujo-no-taikan"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

@@ -1,8 +1,12 @@
 {
     "title": "BanG Dream! Movie: Episode of Roselia - II: Song I Am.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1246/115689.jpg",
+        "alt": "ban-g-dream-movie-episode-of-roselia-ii-song-i-am"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "劇場版 BanG Dream! Episode of Roselia II",
+    "original_name": "劇場版 BanG Dream! Episode of Roselia II:Song I am.",
     "start_date": "2021-06-25",
     "opening_song": "\"Sing Alive\" by Roselia",
     "ending_song": "\"Singing \"OURS\"\" by Roselia",

@@ -1,5 +1,9 @@
 {
     "title": "Sora wo Kakeru Yodaka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167241.jpg",
+        "alt": "sora-wo-kakeru-yodaka"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

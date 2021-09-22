@@ -1,12 +1,16 @@
 {
     "title": "Last Exile: Ginyoku no Fam",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/33541.jpg",
+        "alt": "last-exile-ginyoku-no-fam"
+    },
     "type": "tv-serie",
     "episodes": "21",
     "original_name": "ラストエグザイル-銀翼のファム-",
     "start_date": "2011-10-15",
     "end_date": "2011-10-15",
     "opening_song": "\"Buddy\" by Maaya Sakamoto (eps 1, 3-20)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Starboard\" by Hitomi (eps 1, 3-7, 9-16)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

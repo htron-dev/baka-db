@@ -1,5 +1,9 @@
 {
     "title": "Kaumori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/11634.jpg",
+        "alt": "kaumori"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "かうもり",

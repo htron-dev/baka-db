@@ -1,5 +1,9 @@
 {
     "title": "Onbu Obake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/28415.jpg",
+        "alt": "onbu-obake"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "おんぶおばけ",

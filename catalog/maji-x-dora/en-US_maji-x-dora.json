@@ -1,5 +1,9 @@
 {
     "title": "Maji x Dora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/129297.jpg",
+        "alt": "maji-x-dora"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "まじ × どら",

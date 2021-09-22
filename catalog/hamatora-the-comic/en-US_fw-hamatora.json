@@ -1,5 +1,9 @@
 {
     "title": "Fw:Hamatora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/76832.jpg",
+        "alt": "fw-hamatora"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "Fw：ハマトラ",

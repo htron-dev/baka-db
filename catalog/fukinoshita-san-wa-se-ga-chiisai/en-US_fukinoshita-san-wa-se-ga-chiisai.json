@@ -1,5 +1,9 @@
 {
     "title": "Fukinoshita-san wa Se ga Chiisai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238778.jpg",
+        "alt": "fukinoshita-san-wa-se-ga-chiisai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

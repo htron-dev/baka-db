@@ -1,5 +1,9 @@
 {
     "title": "Shin Kurosawa: Saikyou Densetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/115007.jpg",
+        "alt": "shin-kurosawa-saikyou-densetsu"
+    },
     "type": "manga",
     "volumes": "21",
     "chapters": "164",

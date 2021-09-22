@@ -1,5 +1,9 @@
 {
     "title": "Ani ni Tsukeru Kusuri wa Nai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/85295.jpg",
+        "alt": "ani-ni-tsukeru-kusuri-wa-nai"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "兄に付ける薬はない!",

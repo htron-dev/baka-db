@@ -1,5 +1,9 @@
 {
     "title": "Fat You Want",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238182.jpg",
+        "alt": "fat-you-want"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

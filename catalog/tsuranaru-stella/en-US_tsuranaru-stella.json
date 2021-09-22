@@ -1,5 +1,9 @@
 {
     "title": "Tsuranaru Stella",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/209199.jpg",
+        "alt": "tsuranaru-stella"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

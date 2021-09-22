@@ -1,5 +1,9 @@
 {
     "title": "Kidou Senshi Gundam",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/128353.jpg",
+        "alt": "kidou-senshi-gundam"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

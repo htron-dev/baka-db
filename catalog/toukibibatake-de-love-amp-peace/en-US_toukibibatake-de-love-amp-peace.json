@@ -1,5 +1,9 @@
 {
     "title": "Toukibibatake de Love &amp; Peace",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7329.jpg",
+        "alt": "toukibibatake-de-love-amp-peace"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

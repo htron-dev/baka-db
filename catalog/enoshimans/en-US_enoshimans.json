@@ -1,5 +1,9 @@
 {
     "title": "Enoshimans",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/86761.jpg",
+        "alt": "enoshimans"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "えのしまんず",

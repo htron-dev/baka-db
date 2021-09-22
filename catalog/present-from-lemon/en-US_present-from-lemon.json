@@ -1,5 +1,9 @@
 {
     "title": "Present from Lemon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184664.jpg",
+        "alt": "present-from-lemon"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

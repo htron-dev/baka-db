@@ -1,5 +1,9 @@
 {
     "title": "Nagareboshi Paradise",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/106229.jpg",
+        "alt": "nagareboshi-paradise"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

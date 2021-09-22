@@ -1,5 +1,9 @@
 {
     "title": "Saji-chan no Yami Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/212030.jpg",
+        "alt": "saji-chan-no-yami-nikki"
+    },
     "type": "manga",
     "original_name": "サジちゃんの病み日記",
     "start_date": "2017-05-19",

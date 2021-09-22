@@ -1,5 +1,9 @@
 {
     "title": "Mimi-tsuki no Kuro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/209863.jpg",
+        "alt": "mimi-tsuki-no-kuro"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

@@ -1,5 +1,9 @@
 {
     "title": "Heian Blades",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/41415.jpg",
+        "alt": "heian-blades"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "平安ブレイズ",

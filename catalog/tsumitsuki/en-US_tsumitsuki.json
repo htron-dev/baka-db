@@ -1,5 +1,9 @@
 {
     "title": "Tsumitsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36035.jpg",
+        "alt": "tsumitsuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

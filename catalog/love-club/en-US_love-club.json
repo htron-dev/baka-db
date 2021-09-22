@@ -1,5 +1,9 @@
 {
     "title": "Love Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20836.jpg",
+        "alt": "love-club"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "13",

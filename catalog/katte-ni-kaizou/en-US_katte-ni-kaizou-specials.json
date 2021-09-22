@@ -1,5 +1,9 @@
 {
     "title": "Katte ni Kaizou Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/36477.jpg",
+        "alt": "katte-ni-kaizou-specials"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "かってに改蔵",

@@ -1,5 +1,9 @@
 {
     "title": "Photokano: Your Eyes Only",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/78229.jpg",
+        "alt": "photokano-your-eyes-only"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "28",

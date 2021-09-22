@@ -1,5 +1,9 @@
 {
     "title": "Oira Sukeban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11931.jpg",
+        "alt": "oira-sukeban"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "おいら女蛮",

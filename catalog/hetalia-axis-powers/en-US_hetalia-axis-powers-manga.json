@@ -1,5 +1,9 @@
 {
     "title": "Hetalia Axis Powers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15100.jpg",
+        "alt": "hetalia-axis-powers"
+    },
     "type": "manga",
     "original_name": "ヘタリア Axis Powers",
     "start_date": "2008-03-28",

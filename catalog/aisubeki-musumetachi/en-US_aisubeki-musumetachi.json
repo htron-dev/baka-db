@@ -1,5 +1,9 @@
 {
     "title": "Aisubeki Musumetachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210673.jpg",
+        "alt": "aisubeki-musumetachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

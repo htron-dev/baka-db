@@ -1,5 +1,9 @@
 {
     "title": "Ayahatori Shoukanchou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/110699.jpg",
+        "alt": "ayahatori-shoukanchou"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

@@ -1,5 +1,9 @@
 {
     "title": "Hana ni te Sourou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/30034.jpg",
+        "alt": "hana-ni-te-sourou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "花にて候",

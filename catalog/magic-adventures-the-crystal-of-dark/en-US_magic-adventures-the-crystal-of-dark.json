@@ -1,5 +1,9 @@
 {
     "title": "Magic Adventures: The Crystal of Dark",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1898/115326.jpg",
+        "alt": "magic-adventures-the-crystal-of-dark"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "매직 어드벤처-더 크리스탈 오브 다크",

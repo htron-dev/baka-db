@@ -1,5 +1,9 @@
 {
     "title": "Death Parade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/71553.jpg",
+        "alt": "death-parade"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "デス・パレード",

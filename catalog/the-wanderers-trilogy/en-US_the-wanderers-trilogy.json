@@ -1,5 +1,9 @@
 {
     "title": "The Wanderers Trilogy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27152.jpg",
+        "alt": "the-wanderers-trilogy"
+    },
     "type": "manga",
     "chapters": "3",
     "tags": [

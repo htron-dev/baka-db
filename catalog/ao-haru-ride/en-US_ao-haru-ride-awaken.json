@@ -1,5 +1,9 @@
 {
     "title": "Ao Haru Ride: Awaken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166889.jpg",
+        "alt": "ao-haru-ride-awaken"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "アオハライド awaken",

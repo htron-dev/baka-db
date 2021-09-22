@@ -1,5 +1,9 @@
 {
     "title": "Ijiwaru Syrup",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166313.jpg",
+        "alt": "ijiwaru-syrup"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

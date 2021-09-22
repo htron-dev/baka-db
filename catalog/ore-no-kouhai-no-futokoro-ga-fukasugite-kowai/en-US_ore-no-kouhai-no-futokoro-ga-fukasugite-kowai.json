@@ -1,5 +1,9 @@
 {
     "title": "Ore no Kouhai no Futokoro ga Fukasugite Kowai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/204888.jpg",
+        "alt": "ore-no-kouhai-no-futokoro-ga-fukasugite-kowai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

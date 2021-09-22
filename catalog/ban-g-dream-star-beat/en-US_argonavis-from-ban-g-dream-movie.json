@@ -1,5 +1,9 @@
 {
     "title": "Argonavis from BanG Dream! Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1696/111117.jpg",
+        "alt": "argonavis-from-ban-g-dream-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 ARGONAVIS from BanG Dream!",
@@ -9,7 +13,6 @@
         "music",
         "drama"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

@@ -1,8 +1,12 @@
 {
     "title": "Yowamushi Pedal: Re:Generation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1926/90708.jpg",
+        "alt": "yowamushi-pedal-re-generation"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "弱虫ペダル Re",
+    "original_name": "弱虫ペダル Re:GENERATION",
     "start_date": "2017-10-13",
     "ending_song": "\"Tsuyosa Yowasa (ツヨサヨワサ)\" by YouthK Saeki",
     "rating": "PG-13 - Teens 13 or older",

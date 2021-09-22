@@ -1,12 +1,16 @@
 {
     "title": "Pandora Hearts",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/75535.jpg",
+        "alt": "pandora-hearts"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "パンドラハーツ",
     "start_date": "2009-04-03",
     "end_date": "2009-04-03",
     "opening_song": "\"Parallel Hearts\" by FictionJunction (Wakana Ootaki, Keiko Kubota, Kaori Oda, Yuriko Kaida)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Maze\" by savage genius feat. Tomoe Ohmi (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

@@ -1,5 +1,9 @@
 {
     "title": "MAFF x Chobitto Zukan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/85605.jpg",
+        "alt": "maff-x-chobitto-zukan"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "MAFF × CHOBITTO DUKAN",

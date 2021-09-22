@@ -1,5 +1,9 @@
 {
     "title": "Melody",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/24789.jpg",
+        "alt": "melody"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "メロディ",

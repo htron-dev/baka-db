@@ -1,12 +1,16 @@
 {
     "title": "Shiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/21343.jpg",
+        "alt": "shiki"
+    },
     "type": "tv-serie",
     "episodes": "22",
     "original_name": "屍鬼",
     "start_date": "2010-07-09",
     "end_date": "2010-07-09",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kuchizuke\" (くちづけ) by Buck-Tick (eps 1-11)",
+    "ending_song": "#1: \"Walk no Yakusoku (walk の約束)\" by nangi (eps 1-11)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "mystery",
@@ -36,7 +40,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Shiki_(manga"
+            "link": "http://en.wikipedia.org/wiki/Shiki_%28manga%29"
         }
     ]
 }

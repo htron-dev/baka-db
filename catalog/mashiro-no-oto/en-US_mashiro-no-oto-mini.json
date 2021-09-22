@@ -1,5 +1,9 @@
 {
     "title": "Mashiro no Oto Mini",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1740/111206.jpg",
+        "alt": "mashiro-no-oto-mini"
+    },
     "type": "ona",
     "episodes": "33",
     "original_name": "ましろのおと ミニ",

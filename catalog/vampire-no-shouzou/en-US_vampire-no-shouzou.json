@@ -1,5 +1,9 @@
 {
     "title": "Vampire no Shouzou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/98733.jpg",
+        "alt": "vampire-no-shouzou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "5",

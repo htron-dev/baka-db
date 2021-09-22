@@ -1,5 +1,9 @@
 {
     "title": "Rerere no Tensai Bakabon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/60847.jpg",
+        "alt": "rerere-no-tensai-bakabon"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "レレレの天才バカボン",

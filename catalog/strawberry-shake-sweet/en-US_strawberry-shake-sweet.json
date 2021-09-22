@@ -1,5 +1,9 @@
 {
     "title": "Strawberry Shake Sweet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10151.jpg",
+        "alt": "strawberry-shake-sweet"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

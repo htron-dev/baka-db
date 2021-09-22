@@ -1,5 +1,9 @@
 {
     "title": "Comic MapleStory: Offline RPG",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204979.jpg",
+        "alt": "comic-maple-story-offline-rpg"
+    },
     "type": "manhwa",
     "original_name": "코믹 메이플 스토리 오프라인 RPG",
     "start_date": "2004-04-25",

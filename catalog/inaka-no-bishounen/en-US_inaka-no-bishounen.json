@@ -1,5 +1,9 @@
 {
     "title": "Inaka no Bishounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247687.jpg",
+        "alt": "inaka-no-bishounen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Kyou, Koi wo Hajimemasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/37974.jpg",
+        "alt": "kyou-koi-wo-hajimemasu"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "100",

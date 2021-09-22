@@ -1,5 +1,9 @@
 {
     "title": "Finder Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/25447.jpg",
+        "alt": "finder-series"
+    },
     "type": "manga",
     "original_name": "ファインダーシリーズ",
     "tags": [

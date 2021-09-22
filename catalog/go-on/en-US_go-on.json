@@ -1,5 +1,9 @@
 {
     "title": "Go-On!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179884.jpg",
+        "alt": "go-on"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "30",

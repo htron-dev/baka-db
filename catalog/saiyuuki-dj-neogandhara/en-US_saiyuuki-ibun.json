@@ -1,5 +1,9 @@
 {
     "title": "Saiyuuki Ibun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170158.jpg",
+        "alt": "saiyuuki-ibun"
+    },
     "type": "manga",
     "original_name": "最遊記異聞",
     "start_date": "2009-09-16",

@@ -1,5 +1,9 @@
 {
     "title": "Aitata Bocchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/83551.jpg",
+        "alt": "aitata-bocchi"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "あいたたぼっち",

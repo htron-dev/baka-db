@@ -1,5 +1,9 @@
 {
     "title": "Giant Robo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/83534.jpg",
+        "alt": "giant-robo"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ジャイアントロボ",

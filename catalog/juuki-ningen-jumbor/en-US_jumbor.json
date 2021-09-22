@@ -1,5 +1,9 @@
 {
     "title": "Jumbor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/143041.jpg",
+        "alt": "jumbor"
+    },
     "type": "manga",
     "original_name": "ユンボル -ＪＵＭＢＯＲ-",
     "start_date": "2010-07-17",

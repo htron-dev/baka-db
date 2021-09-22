@@ -1,5 +1,9 @@
 {
     "title": "Shuumatsu no Walküre",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/209957.jpg",
+        "alt": "shuumatsu-no-walkure"
+    },
     "type": "manga",
     "original_name": "終末のワルキューレ",
     "start_date": "2017-11-25",

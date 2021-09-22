@@ -1,5 +1,9 @@
 {
     "title": "Migawari no Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193499.jpg",
+        "alt": "migawari-no-koibito"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "12",

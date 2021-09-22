@@ -1,5 +1,9 @@
 {
     "title": "Shouri no Akuma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203161.jpg",
+        "alt": "shouri-no-akuma"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

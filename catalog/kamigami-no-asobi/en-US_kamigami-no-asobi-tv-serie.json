@@ -1,5 +1,9 @@
 {
     "title": "Kamigami no Asobi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/60703.jpg",
+        "alt": "kamigami-no-asobi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "神々の悪戯",

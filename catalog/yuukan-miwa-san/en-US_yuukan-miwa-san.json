@@ -1,5 +1,9 @@
 {
     "title": "Yuukan Miwa-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222940.jpg",
+        "alt": "yuukan-miwa-san"
+    },
     "type": "manga",
     "original_name": "有閑みわさん",
     "start_date": "2003-02-04",

@@ -1,5 +1,9 @@
 {
     "title": "Ultra Maniac",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/53571.jpg",
+        "alt": "ultra-maniac"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ウルトラマニアック",

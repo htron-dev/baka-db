@@ -1,5 +1,9 @@
 {
     "title": "Sky Girls Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/5809.jpg",
+        "alt": "sky-girls-specials"
+    },
     "type": "special",
     "episodes": "9",
     "original_name": "スカイガールズ",

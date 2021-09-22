@@ -1,5 +1,9 @@
 {
     "title": "Historie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/167504.jpg",
+        "alt": "historie"
+    },
     "type": "manga",
     "original_name": "ヒストリエ HISTORIĒ",
     "start_date": "2003-01-25",

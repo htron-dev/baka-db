@@ -1,12 +1,16 @@
 {
     "title": "Kuroko no Basket",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/50453.jpg",
+        "alt": "kuroko-no-basket"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "黒子のバスケ",
     "start_date": "2012-04-08",
     "end_date": "2012-04-08",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Can Do\" by GRANRODEO (eps 1-13)",
+    "ending_song": "#1: \"Start it right away\" by Hyadain (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

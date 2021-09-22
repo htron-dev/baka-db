@@ -1,5 +1,9 @@
 {
     "title": "Kore de Saigo no Koi ni Shitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236702.jpg",
+        "alt": "kore-de-saigo-no-koi-ni-shitai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

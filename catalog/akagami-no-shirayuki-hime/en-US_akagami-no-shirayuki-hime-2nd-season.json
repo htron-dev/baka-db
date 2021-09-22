@@ -1,12 +1,16 @@
 {
     "title": "Akagami no Shirayuki-hime 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/77834.jpg",
+        "alt": "akagami-no-shirayuki-hime-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "赤髪の白雪姫",
     "start_date": "2016-01-12",
     "end_date": "2016-01-12",
     "opening_song": "\"Sono Koe ga Chizu ni Naru (その声が地図になる)\" by Saori Hayami",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Page ~Kimi to Tsuzuru Monogatari~ (ページ～君と綴る物語～)\" by eyelis (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

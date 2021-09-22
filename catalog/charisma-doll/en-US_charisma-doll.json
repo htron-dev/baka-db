@@ -1,5 +1,9 @@
 {
     "title": "Charisma Doll",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10333.jpg",
+        "alt": "charisma-doll"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

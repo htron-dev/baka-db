@@ -1,5 +1,9 @@
 {
     "title": "Kuzu no Honkai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/83937.jpg",
+        "alt": "kuzu-no-honkai"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "クズの本懐",

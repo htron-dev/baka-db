@@ -1,5 +1,9 @@
 {
     "title": "Kuchibiru ni Uta wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/137465.jpg",
+        "alt": "kuchibiru-ni-uta-wo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

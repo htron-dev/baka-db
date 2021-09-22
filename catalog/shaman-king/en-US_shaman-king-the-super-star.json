@@ -1,5 +1,9 @@
 {
     "title": "Shaman King: The Super Star",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215123.jpg",
+        "alt": "shaman-king-the-super-star"
+    },
     "type": "manga",
     "original_name": "SHAMAN KING THE SUPER STAR",
     "start_date": "2018-05-17",

@@ -1,5 +1,9 @@
 {
     "title": "Plastic Romantic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/232495.jpg",
+        "alt": "plastic-romantic"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

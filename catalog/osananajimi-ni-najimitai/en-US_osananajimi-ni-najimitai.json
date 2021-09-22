@@ -1,5 +1,9 @@
 {
     "title": "Osananajimi ni Najimitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210835.jpg",
+        "alt": "osananajimi-ni-najimitai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

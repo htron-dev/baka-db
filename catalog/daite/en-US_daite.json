@@ -1,5 +1,9 @@
 {
     "title": "Daite...",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10001.jpg",
+        "alt": "daite"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "抱いて…",

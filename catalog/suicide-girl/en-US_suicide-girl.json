@@ -1,5 +1,9 @@
 {
     "title": "Suicide Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/232528.jpg",
+        "alt": "suicide-girl"
+    },
     "type": "manga",
     "original_name": "スーサイドガール",
     "start_date": "2020-04-17",

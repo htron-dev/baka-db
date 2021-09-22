@@ -1,5 +1,9 @@
 {
     "title": "Sasuga desu Yuusha-sama!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165425.jpg",
+        "alt": "sasuga-desu-yuusha-sama"
+    },
     "type": "light-novel",
     "original_name": "さすがです勇者さま!",
     "start_date": "2015-10-30",

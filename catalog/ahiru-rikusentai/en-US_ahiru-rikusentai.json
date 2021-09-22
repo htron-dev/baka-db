@@ -1,5 +1,9 @@
 {
     "title": "Ahiru Rikusentai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/68301.jpg",
+        "alt": "ahiru-rikusentai"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "あひる陸戰隊",

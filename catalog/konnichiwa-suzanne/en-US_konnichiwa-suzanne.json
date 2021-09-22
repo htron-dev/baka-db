@@ -1,5 +1,9 @@
 {
     "title": "Konnichiwa Suzanne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/125731.jpg",
+        "alt": "konnichiwa-suzanne"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "こんにちはスザンヌ",

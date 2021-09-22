@@ -1,5 +1,9 @@
 {
     "title": "Angetsuyakou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20601.jpg",
+        "alt": "angetsuyakou"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "闇月夜行",

@@ -1,5 +1,9 @@
 {
     "title": "Soko wo Nantoka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191798.jpg",
+        "alt": "soko-wo-nantoka"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "64",

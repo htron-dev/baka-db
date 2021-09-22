@@ -1,5 +1,9 @@
 {
     "title": "Kocchi ni Oide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/72309.jpg",
+        "alt": "kocchi-ni-oide"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

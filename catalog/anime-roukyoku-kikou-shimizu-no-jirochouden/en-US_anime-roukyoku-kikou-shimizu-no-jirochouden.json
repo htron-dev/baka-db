@@ -1,5 +1,9 @@
 {
     "title": "Anime Roukyoku Kikou Shimizu no Jirochouden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/64125.jpg",
+        "alt": "anime-roukyoku-kikou-shimizu-no-jirochouden"
+    },
     "type": "tv-serie",
     "episodes": "30",
     "original_name": "アニメ浪曲紀行 清水次郎長伝",

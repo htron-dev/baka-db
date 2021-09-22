@@ -1,5 +1,9 @@
 {
     "title": "I Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/106307.jpg",
+        "alt": "i-girl"
+    },
     "type": "manga",
     "original_name": "あいがある-I girl-",
     "start_date": "2012-03-26",

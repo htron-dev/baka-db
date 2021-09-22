@@ -1,5 +1,9 @@
 {
     "title": "Sekaiju no Meikyuu II: Rikka no Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/26311.jpg",
+        "alt": "sekaiju-no-meikyuu-ii-rikka-no-shoujo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

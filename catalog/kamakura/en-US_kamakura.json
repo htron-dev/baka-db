@@ -1,5 +1,9 @@
 {
     "title": "Kamakura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/70693.jpg",
+        "alt": "kamakura"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "かまくら",

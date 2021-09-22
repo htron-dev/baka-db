@@ -1,5 +1,9 @@
 {
     "title": "Tetsujin 28-gou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/84541.jpg",
+        "alt": "tetsujin-28-gou"
+    },
     "type": "manga",
     "volumes": "24",
     "chapters": "307",

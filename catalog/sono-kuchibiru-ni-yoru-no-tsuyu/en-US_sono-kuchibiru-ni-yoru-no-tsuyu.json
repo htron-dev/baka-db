@@ -1,5 +1,9 @@
 {
     "title": "Sono Kuchibiru ni Yoru no Tsuyu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29810.jpg",
+        "alt": "sono-kuchibiru-ni-yoru-no-tsuyu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

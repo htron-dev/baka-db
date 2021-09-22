@@ -1,12 +1,16 @@
 {
     "title": "Mobile Suit Gundam SEED Destiny",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1700/91080.jpg",
+        "alt": "mobile-suit-gundam-seed-destiny"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "機動戦士ガンダム SEED DESTINY",
     "start_date": "2004-10-09",
     "end_date": "2004-10-09",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Ignited\" by T.M.Revolution (eps 1-13)",
+    "ending_song": "#1: \"Reason\" by Nami Tamaki (eps 1-13)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

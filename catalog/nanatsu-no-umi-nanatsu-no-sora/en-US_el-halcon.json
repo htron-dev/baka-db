@@ -1,5 +1,9 @@
 {
     "title": "El Halcon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33533.jpg",
+        "alt": "el-halcon"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "エル･アルコン－鷹－",

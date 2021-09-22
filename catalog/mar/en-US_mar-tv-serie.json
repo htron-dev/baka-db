@@ -1,12 +1,16 @@
 {
     "title": "MÄR",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/38383.jpg",
+        "alt": "mar"
+    },
     "type": "tv-serie",
     "episodes": "102",
     "original_name": "メル",
     "start_date": "2005-04-03",
     "end_date": "2005-04-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kimi no Omoi Egaita Yume Atsumeru HEAVEN\" by Garnet Crow (eps 1-26)",
+    "ending_song": "#1: \"I Just Wanna Hold You Tight\" by Miho Komatsu (eps 001-013)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

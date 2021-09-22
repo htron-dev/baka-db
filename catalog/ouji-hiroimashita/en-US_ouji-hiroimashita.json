@@ -1,5 +1,9 @@
 {
     "title": "Ouji Hiroimashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201070.jpg",
+        "alt": "ouji-hiroimashita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Aru Apartment no Isshitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1091/96049.jpg",
+        "alt": "aru-apartment-no-isshitsu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "あるアパートの一室",

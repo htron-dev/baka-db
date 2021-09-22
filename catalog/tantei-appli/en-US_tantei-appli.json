@@ -1,5 +1,9 @@
 {
     "title": "Tantei Appli",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/129975.jpg",
+        "alt": "tantei-appli"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

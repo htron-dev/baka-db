@@ -1,5 +1,9 @@
 {
     "title": "Zako Kamisama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/134865.jpg",
+        "alt": "zako-kamisama"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "雑魚神様",

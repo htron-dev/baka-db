@@ -1,9 +1,13 @@
 {
     "title": "L'idiota",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/24453.jpg",
+        "alt": "lidiota"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "40",
-    "original_name": "순정만화2",
+    "original_name": "순정만화2:바보",
     "tags": [
         "dementia",
         "romance",

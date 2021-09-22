@@ -1,5 +1,9 @@
 {
     "title": "Noobow: Kieta Medal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/49787.jpg",
+        "alt": "noobow-kieta-medal"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ぬ～ぼ～ きえたメダル",

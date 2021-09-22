@@ -1,5 +1,9 @@
 {
     "title": "Berry Dynamite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168045.jpg",
+        "alt": "berry-dynamite"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

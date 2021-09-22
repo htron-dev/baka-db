@@ -1,5 +1,9 @@
 {
     "title": "Elite Sama Koi Shiyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7648.jpg",
+        "alt": "elite-sama-koi-shiyou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

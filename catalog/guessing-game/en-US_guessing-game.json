@@ -1,5 +1,9 @@
 {
     "title": "Guessing Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/90761.jpg",
+        "alt": "guessing-game"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ゲッシング・ゲーム",

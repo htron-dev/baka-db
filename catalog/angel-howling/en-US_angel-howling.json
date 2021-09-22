@@ -1,5 +1,9 @@
 {
     "title": "Angel Howling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162677.jpg",
+        "alt": "angel-howling"
+    },
     "type": "light-novel",
     "volumes": "10",
     "chapters": "91",

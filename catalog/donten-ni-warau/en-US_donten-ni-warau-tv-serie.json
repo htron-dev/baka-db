@@ -1,11 +1,15 @@
 {
     "title": "Donten ni Warau",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1661/114954.jpg",
+        "alt": "donten-ni-warau"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "曇天に笑う",
     "start_date": "2014-10-04",
     "end_date": "2014-10-04",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Biran no Kaze (毘藍ノ風)\" by Ryuuji Aoki (eps 2-6)",
     "ending_song": "\"ATTITUDE TO LIFE\" by Galneryus",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

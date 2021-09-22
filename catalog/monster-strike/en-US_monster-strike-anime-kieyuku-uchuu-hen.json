@@ -1,11 +1,15 @@
 {
     "title": "Monster Strike Anime: Kieyuku Uchuu-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/88000.jpg",
+        "alt": "monster-strike-anime-kieyuku-uchuu-hen"
+    },
     "type": "ona",
     "episodes": "13",
     "original_name": "モンストアニメ 後編「消えゆく宇宙編」",
     "start_date": "2017-10-07",
     "end_date": "2017-10-07",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Timer\" by Xman Eileen (eps 1-11)",
     "rating": "PG - Children",
     "tags": [
         "action",
@@ -28,7 +32,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Monster_Strike_(anime"
+            "link": "https://en.wikipedia.org/wiki/Monster_Strike_%28anime%29"
         }
     ]
 }

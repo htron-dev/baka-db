@@ -1,5 +1,9 @@
 {
     "title": "Ningyo Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/183364.jpg",
+        "alt": "ningyo-series"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

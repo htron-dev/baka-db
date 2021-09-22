@@ -1,5 +1,9 @@
 {
     "title": "Shounen Shinkaron",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/155712.jpg",
+        "alt": "shounen-shinkaron"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

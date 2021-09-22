@@ -1,5 +1,9 @@
 {
     "title": "Archimedes no Taisen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177755.jpg",
+        "alt": "archimedes-no-taisen"
+    },
     "type": "manga",
     "original_name": "アルキメデス大戦",
     "start_date": "2015-11-21",

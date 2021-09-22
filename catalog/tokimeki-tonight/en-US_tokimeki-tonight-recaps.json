@@ -1,5 +1,9 @@
 {
     "title": "Tokimeki Tonight Recaps",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/29257.jpg",
+        "alt": "tokimeki-tonight-recaps"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "ときめきトゥナイト・スペシャル",

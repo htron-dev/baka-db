@@ -1,5 +1,9 @@
 {
     "title": "Ookamikakushi: Keshimurasaki no Shou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166433.jpg",
+        "alt": "ookamikakushi-keshimurasaki-no-shou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

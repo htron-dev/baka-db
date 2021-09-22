@@ -1,5 +1,9 @@
 {
     "title": "Uchuu Senkan Yamato: Kanketsu-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/61231.jpg",
+        "alt": "uchuu-senkan-yamato-kanketsu-hen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "宇宙戦艦ヤマト・完結編",

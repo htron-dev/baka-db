@@ -1,5 +1,9 @@
 {
     "title": "Kori no Hanatori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205479.jpg",
+        "alt": "kori-no-hanatori"
+    },
     "type": "manga",
     "original_name": "狐狸の花盗り",
     "start_date": "2017-07-24",

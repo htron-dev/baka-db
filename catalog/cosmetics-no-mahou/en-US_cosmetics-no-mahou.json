@@ -1,5 +1,9 @@
 {
     "title": "Cosmetics no Mahou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194696.jpg",
+        "alt": "cosmetics-no-mahou"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "92",

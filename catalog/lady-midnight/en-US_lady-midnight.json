@@ -1,5 +1,9 @@
 {
     "title": "Lady Midnight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/12839.jpg",
+        "alt": "lady-midnight"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

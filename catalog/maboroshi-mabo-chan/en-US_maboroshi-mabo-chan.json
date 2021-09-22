@@ -1,5 +1,9 @@
 {
     "title": "Maboroshi Mabo-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/67775.jpg",
+        "alt": "maboroshi-mabo-chan"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "まぼろしまぼちゃん",

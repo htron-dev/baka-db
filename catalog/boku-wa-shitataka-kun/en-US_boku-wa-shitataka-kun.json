@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Shitataka-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235842.jpg",
+        "alt": "boku-wa-shitataka-kun"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "70",

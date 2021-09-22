@@ -1,5 +1,9 @@
 {
     "title": "Aisasete Kudasai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170960.jpg",
+        "alt": "aisasete-kudasai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

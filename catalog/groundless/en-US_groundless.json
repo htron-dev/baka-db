@@ -1,5 +1,9 @@
 {
     "title": "Groundless",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/139775.jpg",
+        "alt": "groundless"
+    },
     "type": "manga",
     "original_name": "GROUNDLESS",
     "start_date": "2010-06-06",

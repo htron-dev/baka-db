@@ -1,5 +1,9 @@
 {
     "title": "Strange and Beautiful",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/211254.jpg",
+        "alt": "strange-and-beautiful"
+    },
     "type": "manhwa",
     "volumes": "9",
     "chapters": "155",

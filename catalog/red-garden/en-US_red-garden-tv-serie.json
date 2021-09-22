@@ -1,12 +1,16 @@
 {
     "title": "Red Garden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/25411.jpg",
+        "alt": "red-garden"
+    },
     "type": "tv-serie",
     "episodes": "22",
     "original_name": "レッド ガーデン",
     "start_date": "2006-10-04",
     "end_date": "2006-10-04",
     "opening_song": "\"Jolly Jolly\" by JiLL-Decoy association",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Rock The LM.C\" by LM.C (eps 1-11)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "drama",

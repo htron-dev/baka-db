@@ -1,5 +1,9 @@
 {
     "title": "Happy Kuso Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224844.jpg",
+        "alt": "happy-kuso-life"
+    },
     "type": "manga",
     "original_name": "ハッピークソライフ",
     "start_date": "2018-09-29",

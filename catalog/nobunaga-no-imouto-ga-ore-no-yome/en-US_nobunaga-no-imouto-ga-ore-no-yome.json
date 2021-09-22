@@ -1,5 +1,9 @@
 {
     "title": "Nobunaga no Imouto ga Ore no Yome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179690.jpg",
+        "alt": "nobunaga-no-imouto-ga-ore-no-yome"
+    },
     "type": "light-novel",
     "original_name": "信長の妹が俺の嫁",
     "start_date": "2016-07-12",

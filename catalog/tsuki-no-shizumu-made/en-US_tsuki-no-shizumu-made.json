@@ -1,5 +1,9 @@
 {
     "title": "Tsuki no Shizumu made",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150695.jpg",
+        "alt": "tsuki-no-shizumu-made"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

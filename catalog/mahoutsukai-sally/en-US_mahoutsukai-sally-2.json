@@ -1,11 +1,15 @@
 {
     "title": "Mahoutsukai Sally 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/6929.jpg",
+        "alt": "mahoutsukai-sally-2"
+    },
     "type": "tv-serie",
     "episodes": "88",
     "original_name": "魔法使いサリー２",
     "start_date": "1989-10-09",
     "end_date": "1989-10-09",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Fushigi na Sally (不思議なサリー)\" by Hiroko Asakawa (eps 01-45)",
     "rating": "G - All Ages",
     "tags": [
         "comedy",

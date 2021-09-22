@@ -1,5 +1,9 @@
 {
     "title": "Priceless",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/9695.jpg",
+        "alt": "priceless"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "22",

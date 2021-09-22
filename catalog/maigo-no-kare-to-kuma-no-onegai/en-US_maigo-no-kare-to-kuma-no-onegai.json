@@ -1,5 +1,9 @@
 {
     "title": "Maigo no Kare to Kuma no Onegai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/136445.jpg",
+        "alt": "maigo-no-kare-to-kuma-no-onegai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

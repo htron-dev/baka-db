@@ -1,5 +1,9 @@
 {
     "title": "Mashounen B.T.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/131177.jpg",
+        "alt": "mashounen-b-t"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

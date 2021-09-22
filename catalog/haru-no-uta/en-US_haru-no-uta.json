@@ -1,5 +1,9 @@
 {
     "title": "Haru no Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/12503.jpg",
+        "alt": "haru-no-uta"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "春の唄",

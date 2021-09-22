@@ -1,5 +1,9 @@
 {
     "title": "Saint Seiya Episode G",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163118.jpg",
+        "alt": "saint-seiya-episode-g"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "87",

@@ -1,5 +1,9 @@
 {
     "title": "That Summer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228279.jpg",
+        "alt": "that-summer"
+    },
     "type": "manhwa",
     "chapters": "156",
     "original_name": "그 해 여름",

@@ -1,5 +1,9 @@
 {
     "title": "Canaria-tachi no Fune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180666.jpg",
+        "alt": "canaria-tachi-no-fune"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

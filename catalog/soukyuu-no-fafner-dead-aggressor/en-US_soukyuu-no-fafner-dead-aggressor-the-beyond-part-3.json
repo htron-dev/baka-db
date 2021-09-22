@@ -1,11 +1,15 @@
 {
     "title": "Soukyuu no Fafner: Dead Aggressor - The Beyond Part 3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1023/107083.jpg",
+        "alt": "soukyuu-no-fafner-dead-aggressor-the-beyond-part-3"
+    },
     "type": "movie",
     "episodes": "3",
     "original_name": "蒼穹のファフナー Dead Aggressor THE BEYOND",
     "start_date": "2020-11-13",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"THE BEYOND\" by angela (ep 7)",
+    "ending_song": "#1: \"Kimi wo Yurusu You ni (君を許すように)\" by angela (ep 7)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

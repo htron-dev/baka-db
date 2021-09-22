@@ -1,5 +1,9 @@
 {
     "title": "Baton no Hoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227572.jpg",
+        "alt": "baton-no-hoshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

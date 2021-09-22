@@ -1,5 +1,9 @@
 {
     "title": "Deban desu yo? Kondou-san!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165684.jpg",
+        "alt": "deban-desu-yo-kondou-san"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

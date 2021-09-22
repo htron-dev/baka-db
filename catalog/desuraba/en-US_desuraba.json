@@ -1,5 +1,9 @@
 {
     "title": "Desuraba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/215918.jpg",
+        "alt": "desuraba"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "112",

@@ -1,5 +1,9 @@
 {
     "title": "Mayonaka ni Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/207205.jpg",
+        "alt": "mayonaka-ni-kiss"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

@@ -1,5 +1,9 @@
 {
     "title": "Yumemi no E",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1133/102524.jpg",
+        "alt": "yumemi-no-e"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ゆめみのえ",

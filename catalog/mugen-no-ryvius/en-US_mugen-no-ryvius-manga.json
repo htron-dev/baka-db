@@ -1,5 +1,9 @@
 {
     "title": "Mugen no Ryvius",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162310.jpg",
+        "alt": "mugen-no-ryvius"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

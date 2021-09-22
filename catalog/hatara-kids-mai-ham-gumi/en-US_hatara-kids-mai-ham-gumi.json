@@ -1,5 +1,9 @@
 {
     "title": "Hatara Kids Mai Ham Gumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/21232.jpg",
+        "alt": "hatara-kids-mai-ham-gumi"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "はたらキッズマイハム組",

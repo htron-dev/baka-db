@@ -1,5 +1,9 @@
 {
     "title": "Jue Ding",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1947/111276.jpg",
+        "alt": "jue-ding"
+    },
     "type": "ona",
     "episodes": "26",
     "original_name": "绝顶",

@@ -1,5 +1,9 @@
 {
     "title": "Hajimari no Kankei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6011.jpg",
+        "alt": "hajimari-no-kankei"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "はじまりの関係",

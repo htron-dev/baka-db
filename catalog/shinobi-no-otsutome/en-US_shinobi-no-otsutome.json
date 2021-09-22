@@ -1,5 +1,9 @@
 {
     "title": "Shinobi no Otsutome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/90609.jpg",
+        "alt": "shinobi-no-otsutome"
+    },
     "type": "manga",
     "original_name": "忍びのオツトメ",
     "start_date": "2012-08-20",

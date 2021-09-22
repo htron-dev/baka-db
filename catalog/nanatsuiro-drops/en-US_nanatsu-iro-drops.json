@@ -1,5 +1,9 @@
 {
     "title": "Nanatsu-iro★Drops",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/18007.jpg",
+        "alt": "nanatsu-iro★-drops"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ななついろ ★ ドロップス",

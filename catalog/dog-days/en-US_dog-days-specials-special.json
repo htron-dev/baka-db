@@ -1,5 +1,9 @@
 {
     "title": "Dog Days'' Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1834/93371.jpg",
+        "alt": "dog-days-specials"
+    },
     "type": "special",
     "episodes": "12",
     "original_name": "ドッグデイズ'' 今週のあらすじ",

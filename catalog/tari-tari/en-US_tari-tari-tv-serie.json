@@ -1,12 +1,16 @@
 {
     "title": "Tari Tari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/83575.jpg",
+        "alt": "tari-tari"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "TARI TARI",
     "start_date": "2012-07-01",
     "end_date": "2012-07-01",
     "opening_song": "\"Dreamer\" by AiRI",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Shiokaze no Harmony (潮風のハーモニー)\" by Shirahamazaka Koukou Gasshou-bu (白浜坂高校合唱部) (eps 1, 3-5, 7-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music",

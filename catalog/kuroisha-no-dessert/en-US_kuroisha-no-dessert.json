@@ -1,5 +1,9 @@
 {
     "title": "Kuroisha no Dessert",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226901.jpg",
+        "alt": "kuroisha-no-dessert"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

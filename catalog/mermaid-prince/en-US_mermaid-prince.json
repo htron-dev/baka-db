@@ -1,5 +1,9 @@
 {
     "title": "Mermaid Prince",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/131079.jpg",
+        "alt": "mermaid-prince"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

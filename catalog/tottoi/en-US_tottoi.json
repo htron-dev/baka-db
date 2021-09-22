@@ -1,5 +1,9 @@
 {
     "title": "Tottoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/31319.jpg",
+        "alt": "tottoi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "トトイ",

@@ -1,5 +1,9 @@
 {
     "title": "Dekiru Otoko no Sodatekata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2425.jpg",
+        "alt": "dekiru-otoko-no-sodatekata"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

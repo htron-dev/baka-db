@@ -1,5 +1,9 @@
 {
     "title": "Holy Knight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/58011.jpg",
+        "alt": "holy-knight"
+    },
     "type": "manga",
     "original_name": "ホーリーナイト",
     "tags": [

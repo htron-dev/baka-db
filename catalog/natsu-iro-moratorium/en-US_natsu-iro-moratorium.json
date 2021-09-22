@@ -1,5 +1,9 @@
 {
     "title": "Natsu-iro Moratorium",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223234.jpg",
+        "alt": "natsu-iro-moratorium"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

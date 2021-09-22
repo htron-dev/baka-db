@@ -1,5 +1,9 @@
 {
     "title": "Shin Obake no Q-tarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/19488.jpg",
+        "alt": "shin-obake-no-q-tarou"
+    },
     "type": "tv-serie",
     "episodes": "70",
     "original_name": "新オバケのＱ太郎",

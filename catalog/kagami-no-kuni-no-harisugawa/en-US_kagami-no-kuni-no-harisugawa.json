@@ -1,5 +1,9 @@
 {
     "title": "Kagami no Kuni no Harisugawa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/62475.jpg",
+        "alt": "kagami-no-kuni-no-harisugawa"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "29",

@@ -1,5 +1,9 @@
 {
     "title": "Kare no Aijou no Hakari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/67505.jpg",
+        "alt": "kare-no-aijou-no-hakari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

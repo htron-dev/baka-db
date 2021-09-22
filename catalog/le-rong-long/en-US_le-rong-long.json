@@ -1,5 +1,9 @@
 {
     "title": "Le Rong Long",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1700/115248.jpg",
+        "alt": "le-rong-long"
+    },
     "type": "tv-serie",
     "episodes": "30",
     "original_name": "乐融龙",

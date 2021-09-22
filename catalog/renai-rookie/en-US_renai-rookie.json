@@ -1,5 +1,9 @@
 {
     "title": "Renai Rookie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/20533.jpg",
+        "alt": "renai-rookie"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

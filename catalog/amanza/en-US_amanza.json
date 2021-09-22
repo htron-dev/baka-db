@@ -1,5 +1,9 @@
 {
     "title": "Amanza",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/204784.jpg",
+        "alt": "amanza"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "110",

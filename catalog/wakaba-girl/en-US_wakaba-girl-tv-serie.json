@@ -1,11 +1,15 @@
 {
     "title": "Wakaba\\*Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/74878.jpg",
+        "alt": "wakaba-girl"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "わかば＊ガール",
     "start_date": "2015-07-03",
     "end_date": "2015-07-03",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Hajimete Girls! (初めてガールズ！)\" by Ray (eps 1-8, 10-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

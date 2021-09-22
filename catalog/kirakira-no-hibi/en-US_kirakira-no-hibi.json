@@ -1,5 +1,9 @@
 {
     "title": "Kirakira no Hibi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/94925.jpg",
+        "alt": "kirakira-no-hibi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

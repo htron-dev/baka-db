@@ -1,5 +1,9 @@
 {
     "title": "Ultraman Graffiti",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/32641.jpg",
+        "alt": "ultraman-graffiti"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "ウルトラマングラフィティ",

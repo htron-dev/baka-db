@@ -1,5 +1,9 @@
 {
     "title": "Dora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/39172.jpg",
+        "alt": "dora"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ドーラ",

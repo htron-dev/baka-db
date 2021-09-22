@@ -1,5 +1,9 @@
 {
     "title": "Gurazeni: Pa League-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210747.jpg",
+        "alt": "gurazeni-pa-league-hen"
+    },
     "type": "manga",
     "original_name": "グラゼニ ～パ・リーグ編～",
     "start_date": "2018-03-29",

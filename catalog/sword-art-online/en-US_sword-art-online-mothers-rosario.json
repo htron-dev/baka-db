@@ -1,5 +1,9 @@
 {
     "title": "Sword Art Online: Mother's Rosario",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/145353.jpg",
+        "alt": "sword-art-online-mothers-rosario"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

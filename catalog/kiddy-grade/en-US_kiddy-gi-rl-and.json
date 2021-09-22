@@ -1,12 +1,16 @@
 {
     "title": "Kiddy GiRL-AND",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/74159.jpg",
+        "alt": "kiddy-gi-rl-and"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "キディ・ガーランド",
     "start_date": "2009-10-16",
     "end_date": "2009-10-16",
     "opening_song": "\"Baby Universe Day\" by Aya Uchida and Aya Gouda",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Sun and Moon\" by Aya Uchida",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

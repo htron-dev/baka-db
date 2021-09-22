@@ -1,5 +1,9 @@
 {
     "title": "Gakkou no Kaidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/74217.jpg",
+        "alt": "gakkou-no-kaidan"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "学校の怪談",

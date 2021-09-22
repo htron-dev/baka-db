@@ -1,5 +1,9 @@
 {
     "title": "It Vorspiel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/64613.jpg",
+        "alt": "it-vorspiel"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "イット Vorspiel ～フォアシュピール～",

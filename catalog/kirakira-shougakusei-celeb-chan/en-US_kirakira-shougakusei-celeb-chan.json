@@ -1,5 +1,9 @@
 {
     "title": "Kirakira Shougakusei Celeb-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1620/105673.jpg",
+        "alt": "kirakira-shougakusei-celeb-chan"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "キラキラ小学生 セレブちゃん",

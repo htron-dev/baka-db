@@ -1,5 +1,9 @@
 {
     "title": "Yuukai Anna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1028/112649.jpg",
+        "alt": "yuukai-anna"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "誘拐アンナ",

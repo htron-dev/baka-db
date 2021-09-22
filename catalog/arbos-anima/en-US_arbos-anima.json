@@ -1,5 +1,9 @@
 {
     "title": "Arbos Anima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161400.jpg",
+        "alt": "arbos-anima"
+    },
     "type": "manga",
     "original_name": "アルボスアニマ",
     "start_date": "2015-01-19",

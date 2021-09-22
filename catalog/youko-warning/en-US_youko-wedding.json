@@ -1,5 +1,9 @@
 {
     "title": "Youko Wedding!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/214898.jpg",
+        "alt": "youko-wedding"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "5",

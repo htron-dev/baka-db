@@ -1,5 +1,9 @@
 {
     "title": "Oyama! Kikunosuke-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200523.jpg",
+        "alt": "oyama-kikunosuke-san"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

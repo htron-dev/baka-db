@@ -1,5 +1,9 @@
 {
     "title": "Hibike! Wadaiko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/65985.jpg",
+        "alt": "hibike-wadaiko"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ひびけ! 和だいこ",

@@ -1,5 +1,9 @@
 {
     "title": "Akiyama-san no Tori Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236973.jpg",
+        "alt": "akiyama-san-no-tori-life"
+    },
     "type": "manga",
     "original_name": "秋山さんのとりライフ",
     "start_date": "2018-04-03",

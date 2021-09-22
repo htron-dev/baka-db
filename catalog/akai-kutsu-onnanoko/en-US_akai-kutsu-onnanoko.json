@@ -1,5 +1,9 @@
 {
     "title": "Akai Kutsu! Onnanoko!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/72929.jpg",
+        "alt": "akai-kutsu-onnanoko"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "赤い靴！女の子！",

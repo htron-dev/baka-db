@@ -1,5 +1,9 @@
 {
     "title": "Sodatte Darling!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206063.jpg",
+        "alt": "sodatte-darling"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "21",

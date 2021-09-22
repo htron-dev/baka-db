@@ -1,5 +1,9 @@
 {
     "title": "Einstein no Kaibutsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186770.jpg",
+        "alt": "einstein-no-kaibutsu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

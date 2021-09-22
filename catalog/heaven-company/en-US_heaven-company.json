@@ -1,5 +1,9 @@
 {
     "title": "Heaven Company",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23381.jpg",
+        "alt": "heaven-company"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

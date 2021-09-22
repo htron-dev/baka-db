@@ -1,5 +1,9 @@
 {
     "title": "Boku no Imouto-san!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40672.jpg",
+        "alt": "boku-no-imouto-san"
+    },
     "type": "manga",
     "original_name": "ぼくの妹さん！",
     "tags": [

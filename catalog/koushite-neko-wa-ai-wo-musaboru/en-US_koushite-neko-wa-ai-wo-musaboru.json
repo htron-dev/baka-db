@@ -1,5 +1,9 @@
 {
     "title": "Koushite Neko wa Ai wo Musaboru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/23408.jpg",
+        "alt": "koushite-neko-wa-ai-wo-musaboru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

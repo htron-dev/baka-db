@@ -1,5 +1,9 @@
 {
     "title": "Okore!! Nonkuro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/72190.jpg",
+        "alt": "okore-nonkuro"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "おこれ!!ノンクロ",

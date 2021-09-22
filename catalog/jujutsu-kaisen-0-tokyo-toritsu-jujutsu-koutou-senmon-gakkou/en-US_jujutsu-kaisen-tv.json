@@ -1,12 +1,16 @@
 {
     "title": "Jujutsu Kaisen (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
+        "alt": "jujutsu-kaisen-tv"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "呪術廻戦",
     "start_date": "2020-10-03",
     "end_date": "2020-10-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"KAIKAIKITAN (廻廻奇譚)\" by Eve (eps 1-13)",
+    "ending_song": "#1: \"LOST IN PARADISE\" by ALI ft. AKLO (eps 2-13)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

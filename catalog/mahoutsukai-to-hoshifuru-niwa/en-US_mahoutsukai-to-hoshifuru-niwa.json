@@ -1,5 +1,9 @@
 {
     "title": "Mahoutsukai to Hoshifuru Niwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174593.jpg",
+        "alt": "mahoutsukai-to-hoshifuru-niwa"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

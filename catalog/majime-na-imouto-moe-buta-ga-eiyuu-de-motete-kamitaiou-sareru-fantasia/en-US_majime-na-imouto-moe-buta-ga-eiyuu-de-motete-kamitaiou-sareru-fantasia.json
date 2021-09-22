@@ -1,5 +1,9 @@
 {
     "title": "Majime na Imouto Moe Buta ga Eiyuu de Motete Kamitaiou sareru Fantasia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/201625.jpg",
+        "alt": "majime-na-imouto-moe-buta-ga-eiyuu-de-motete-kamitaiou-sareru-fantasia"
+    },
     "type": "light-novel",
     "original_name": "マジメな妹萌えブタが英雄でモテて神対応されるファンタジア",
     "start_date": "2017-11-01",
@@ -15,7 +19,6 @@
         "Mikami",
         "Teren (Story)"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

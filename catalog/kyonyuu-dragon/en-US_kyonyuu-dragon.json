@@ -1,5 +1,9 @@
 {
     "title": "Kyonyuu Dragon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/207574.jpg",
+        "alt": "kyonyuu-dragon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

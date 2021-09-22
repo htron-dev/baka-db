@@ -1,5 +1,9 @@
 {
     "title": "Sekai Saidai no Kobito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159755.jpg",
+        "alt": "sekai-saidai-no-kobito"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "11",

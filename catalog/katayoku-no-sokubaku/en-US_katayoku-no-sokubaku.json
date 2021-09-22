@@ -1,5 +1,9 @@
 {
     "title": "Katayoku no Sokubaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171255.jpg",
+        "alt": "katayoku-no-sokubaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

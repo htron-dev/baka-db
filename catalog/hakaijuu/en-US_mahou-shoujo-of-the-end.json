@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo of the End",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/156267.jpg",
+        "alt": "mahou-shoujo-of-the-end"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "64",

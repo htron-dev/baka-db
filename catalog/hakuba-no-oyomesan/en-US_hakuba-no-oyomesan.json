@@ -1,5 +1,9 @@
 {
     "title": "Hakuba no Oyomesan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165085.jpg",
+        "alt": "hakuba-no-oyomesan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

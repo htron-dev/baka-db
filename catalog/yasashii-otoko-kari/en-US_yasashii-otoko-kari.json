@@ -1,5 +1,9 @@
 {
     "title": "Yasashii Otoko (Kari)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/248096.jpg",
+        "alt": "yasashii-otoko-kari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

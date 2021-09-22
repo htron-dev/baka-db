@@ -1,5 +1,9 @@
 {
     "title": "Tiger Mask (Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/74485.jpg",
+        "alt": "tiger-mask-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "タイガーマスク",

@@ -1,5 +1,9 @@
 {
     "title": "Ginga no Curtain Call",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/249238.jpg",
+        "alt": "ginga-no-curtain-call"
+    },
     "type": "manga",
     "original_name": "銀河のカーテンコール",
     "start_date": "2021-02-22",

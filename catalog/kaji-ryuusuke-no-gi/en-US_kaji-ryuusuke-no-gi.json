@@ -1,5 +1,9 @@
 {
     "title": "Kaji Ryuusuke no Gi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/18532.jpg",
+        "alt": "kaji-ryuusuke-no-gi"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "175",

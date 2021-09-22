@@ -1,5 +1,9 @@
 {
     "title": "Kirara Note",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/12204.jpg",
+        "alt": "kirara-note"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

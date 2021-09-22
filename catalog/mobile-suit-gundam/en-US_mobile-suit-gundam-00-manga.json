@@ -1,5 +1,9 @@
 {
     "title": "Mobile Suit Gundam 00",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15636.jpg",
+        "alt": "mobile-suit-gundam-00"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "17",

@@ -1,5 +1,9 @@
 {
     "title": "Kami ka Akuma ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40682.jpg",
+        "alt": "kami-ka-akuma-ka"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Boku no Shotaiken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16151.jpg",
+        "alt": "boku-no-shotaiken"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ボクの初体験",

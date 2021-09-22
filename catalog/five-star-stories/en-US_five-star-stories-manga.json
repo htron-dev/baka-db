@@ -1,5 +1,9 @@
 {
     "title": "Five Star Stories",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159793.jpg",
+        "alt": "five-star-stories"
+    },
     "type": "manga",
     "original_name": "ファイブスター物語",
     "start_date": "1986-04-10",

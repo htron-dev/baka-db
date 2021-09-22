@@ -1,5 +1,9 @@
 {
     "title": "Metro Survive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/147025.jpg",
+        "alt": "metro-survive"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

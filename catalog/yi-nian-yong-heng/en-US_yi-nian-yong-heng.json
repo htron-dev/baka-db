@@ -1,5 +1,9 @@
 {
     "title": "Yi Nian Yong Heng",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1712/108161.jpg",
+        "alt": "yi-nian-yong-heng"
+    },
     "type": "ona",
     "episodes": "52",
     "original_name": "一念永恒",

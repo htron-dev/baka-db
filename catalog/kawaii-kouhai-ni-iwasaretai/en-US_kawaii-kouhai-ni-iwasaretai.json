@@ -1,5 +1,9 @@
 {
     "title": "Kawaii Kouhai ni Iwasaretai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/228075.jpg",
+        "alt": "kawaii-kouhai-ni-iwasaretai"
+    },
     "type": "manga",
     "original_name": "かわいい後輩に言わされたい",
     "start_date": "2019-07-04",

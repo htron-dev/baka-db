@@ -1,5 +1,9 @@
 {
     "title": "Kuroneko Ace",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/239207.jpg",
+        "alt": "kuroneko-ace"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "黒猫エース",

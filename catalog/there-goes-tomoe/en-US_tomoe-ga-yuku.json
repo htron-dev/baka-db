@@ -1,11 +1,15 @@
 {
     "title": "Tomoe ga Yuku!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/87501.jpg",
+        "alt": "tomoe-ga-yuku"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "巴がゆく!",
     "start_date": "1991-10-21",
     "end_date": "1991-10-21",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Missing Lover\" by Mink",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

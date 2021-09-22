@@ -1,5 +1,9 @@
 {
     "title": "Shiro no Koukoku Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186494.jpg",
+        "alt": "shiro-no-koukoku-monogatari"
+    },
     "type": "light-novel",
     "original_name": "白の皇国物語",
     "start_date": "2011-06-29",

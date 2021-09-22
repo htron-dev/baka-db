@@ -1,5 +1,9 @@
 {
     "title": "Kimono Nadeshiko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150276.jpg",
+        "alt": "kimono-nadeshiko"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "45",

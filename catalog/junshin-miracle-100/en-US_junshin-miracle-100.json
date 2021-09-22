@@ -1,5 +1,9 @@
 {
     "title": "Junshin Miracle 100%",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/178480.jpg",
+        "alt": "junshin-miracle-100"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "29",

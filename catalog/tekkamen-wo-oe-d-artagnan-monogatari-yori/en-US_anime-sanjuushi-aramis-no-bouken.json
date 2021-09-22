@@ -1,5 +1,9 @@
 {
     "title": "Anime Sanjuushi: Aramis no Bouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/2601.jpg",
+        "alt": "anime-sanjuushi-aramis-no-bouken"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "アニメ三銃士　アラミスの冒険",

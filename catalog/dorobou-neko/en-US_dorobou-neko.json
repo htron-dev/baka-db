@@ -1,5 +1,9 @@
 {
     "title": "Dorobou Neko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/182125.jpg",
+        "alt": "dorobou-neko"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "51",

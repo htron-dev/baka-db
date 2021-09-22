@@ -1,5 +1,9 @@
 {
     "title": "Hatenkou Yuugi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172703.jpg",
+        "alt": "hatenkou-yuugi"
+    },
     "type": "manga",
     "original_name": "破天荒遊戯",
     "start_date": "1999-11-18",

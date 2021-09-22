@@ -1,5 +1,9 @@
 {
     "title": "Seishun Walker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36807.jpg",
+        "alt": "seishun-walker"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

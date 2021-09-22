@@ -1,5 +1,9 @@
 {
     "title": "Yuretsuzukeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/25320.jpg",
+        "alt": "yuretsuzukeru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

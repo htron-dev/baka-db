@@ -1,5 +1,9 @@
 {
     "title": "Seishun Location",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/109347.jpg",
+        "alt": "seishun-location"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

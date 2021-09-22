@@ -1,5 +1,9 @@
 {
     "title": "Choujin Sentai Baratack",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/69967.jpg",
+        "alt": "choujin-sentai-baratack"
+    },
     "type": "tv-serie",
     "episodes": "31",
     "original_name": "超人戦隊バラタック",

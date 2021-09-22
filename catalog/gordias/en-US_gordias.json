@@ -1,5 +1,9 @@
 {
     "title": "Gordias",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/19525.jpg",
+        "alt": "gordias"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ゴルディアス",

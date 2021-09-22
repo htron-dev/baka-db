@@ -1,5 +1,9 @@
 {
     "title": "Tokimeki Midnight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14487.jpg",
+        "alt": "tokimeki-midnight"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "ときめきミッドナイト",

@@ -1,5 +1,9 @@
 {
     "title": "Kyoufu Shinbun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153087.jpg",
+        "alt": "kyoufu-shinbun"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "29",

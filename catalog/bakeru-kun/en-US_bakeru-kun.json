@@ -1,5 +1,9 @@
 {
     "title": "Bakeru-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/72227.jpg",
+        "alt": "bakeru-kun"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

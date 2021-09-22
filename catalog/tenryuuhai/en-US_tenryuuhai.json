@@ -1,5 +1,9 @@
 {
     "title": "Tenryuuhai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191560.jpg",
+        "alt": "tenryuuhai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "7",

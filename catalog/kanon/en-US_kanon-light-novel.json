@@ -1,5 +1,9 @@
 {
     "title": "Kanon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/118001.jpg",
+        "alt": "kanon"
+    },
     "type": "light-novel",
     "volumes": "6",
     "original_name": "カノン",

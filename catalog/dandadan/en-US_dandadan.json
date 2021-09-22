@@ -1,5 +1,9 @@
 {
     "title": "Dandadan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/248746.jpg",
+        "alt": "dandadan"
+    },
     "type": "manga",
     "original_name": "ダンダダン",
     "start_date": "2021-04-06",

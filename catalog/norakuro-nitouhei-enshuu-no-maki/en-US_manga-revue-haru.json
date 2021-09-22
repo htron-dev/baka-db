@@ -1,5 +1,9 @@
 {
     "title": "Manga Revue Haru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/85265.jpg",
+        "alt": "manga-revue-haru"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "漫画レビュー 春",

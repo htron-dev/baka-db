@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Kareshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/15228.jpg",
+        "alt": "watashi-no-kareshi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "わたしのカレシ。",

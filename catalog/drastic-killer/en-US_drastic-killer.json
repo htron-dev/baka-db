@@ -1,5 +1,9 @@
 {
     "title": "Drastic Killer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/21446.jpg",
+        "alt": "drastic-killer"
+    },
     "type": "manga",
     "volumes": "2",
     "start_date": "2008-01-12",

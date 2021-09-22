@@ -1,5 +1,9 @@
 {
     "title": "Tanteiken Sherdock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/136257.jpg",
+        "alt": "tanteiken-sherdock"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "59",

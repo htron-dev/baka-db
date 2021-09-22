@@ -1,5 +1,9 @@
 {
     "title": "Ohayou Ninja-tai Gatchaman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/75967.jpg",
+        "alt": "ohayou-ninja-tai-gatchaman"
+    },
     "type": "tv-serie",
     "episodes": "475",
     "original_name": "おはよう忍者隊ガッチャマン",

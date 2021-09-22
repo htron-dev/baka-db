@@ -1,5 +1,9 @@
 {
     "title": "Kakkun Cafe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/61157.jpg",
+        "alt": "kakkun-cafe"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "カッくんカフェ",

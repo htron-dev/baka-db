@@ -1,5 +1,9 @@
 {
     "title": "Romeo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190687.jpg",
+        "alt": "romeo"
+    },
     "type": "manga",
     "original_name": "ROMEO",
     "start_date": "2014-12-28",

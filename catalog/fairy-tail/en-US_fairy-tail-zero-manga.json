@@ -1,5 +1,9 @@
 {
     "title": "Fairy Tail Zerø",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167384.jpg",
+        "alt": "fairy-tail-zero"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

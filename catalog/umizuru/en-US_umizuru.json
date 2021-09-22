@@ -1,5 +1,9 @@
 {
     "title": "Umizuru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6816.jpg",
+        "alt": "umizuru"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "海鶴",

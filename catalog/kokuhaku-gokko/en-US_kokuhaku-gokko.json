@@ -1,5 +1,9 @@
 {
     "title": "Kokuhaku Gokko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12383.jpg",
+        "alt": "kokuhaku-gokko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

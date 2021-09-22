@@ -1,5 +1,9 @@
 {
     "title": "Motto Kimi no Aji wo Shiritai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/43377.jpg",
+        "alt": "motto-kimi-no-aji-wo-shiritai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

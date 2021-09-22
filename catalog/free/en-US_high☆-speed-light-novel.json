@@ -1,5 +1,9 @@
 {
     "title": "High☆Speed!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/97365.jpg",
+        "alt": "high☆-speed"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "21",

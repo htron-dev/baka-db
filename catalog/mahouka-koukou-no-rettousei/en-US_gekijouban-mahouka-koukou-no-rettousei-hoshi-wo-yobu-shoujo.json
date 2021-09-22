@@ -1,5 +1,9 @@
 {
     "title": "Gekijouban Mahouka Koukou no Rettousei: Hoshi wo Yobu Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206655.jpg",
+        "alt": "gekijouban-mahouka-koukou-no-rettousei-hoshi-wo-yobu-shoujo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

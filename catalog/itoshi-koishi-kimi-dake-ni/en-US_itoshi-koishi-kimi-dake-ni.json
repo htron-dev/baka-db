@@ -1,5 +1,9 @@
 {
     "title": "Itoshi Koishi Kimi dake ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/130843.jpg",
+        "alt": "itoshi-koishi-kimi-dake-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

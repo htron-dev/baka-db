@@ -1,5 +1,9 @@
 {
     "title": "Bamboo Blade B",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/54885.jpg",
+        "alt": "bamboo-blade-b"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "61",

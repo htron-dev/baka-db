@@ -1,5 +1,9 @@
 {
     "title": "Dahlia no Obi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23476.jpg",
+        "alt": "dahlia-no-obi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

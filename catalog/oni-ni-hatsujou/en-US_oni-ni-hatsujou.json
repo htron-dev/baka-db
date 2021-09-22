@@ -1,5 +1,9 @@
 {
     "title": "Oni ni Hatsujou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33396.jpg",
+        "alt": "oni-ni-hatsujou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

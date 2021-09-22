@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Kimi no Eien ni Naru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36322.jpg",
+        "alt": "boku-wa-kimi-no-eien-ni-naru"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "僕は君の永遠になる",

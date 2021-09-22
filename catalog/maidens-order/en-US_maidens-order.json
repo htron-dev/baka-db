@@ -1,5 +1,9 @@
 {
     "title": "Maidens Order",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181943.jpg",
+        "alt": "maidens-order"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

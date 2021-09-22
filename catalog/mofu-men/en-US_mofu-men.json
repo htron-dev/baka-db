@@ -1,5 +1,9 @@
 {
     "title": "Mofu Men",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/91265.jpg",
+        "alt": "mofu-men"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Nanairo Magic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/207643.jpg",
+        "alt": "nanairo-magic"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "なな色マジック",

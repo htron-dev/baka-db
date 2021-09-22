@@ -1,5 +1,9 @@
 {
     "title": "Celebrity Yuukoujouyaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11992.jpg",
+        "alt": "celebrity-yuukoujouyaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

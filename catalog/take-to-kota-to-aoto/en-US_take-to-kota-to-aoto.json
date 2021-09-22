@@ -1,5 +1,9 @@
 {
     "title": "Take to Kota to Aoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246133.jpg",
+        "alt": "take-to-kota-to-aoto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Kaidan Is Dead",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188976.jpg",
+        "alt": "kaidan-is-dead"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "70",

@@ -1,5 +1,9 @@
 {
     "title": "Shounen Typhoon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238652.jpg",
+        "alt": "shounen-typhoon"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "少年台風〈タイフーン〉",

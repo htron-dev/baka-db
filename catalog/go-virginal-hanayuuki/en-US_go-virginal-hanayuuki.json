@@ -1,5 +1,9 @@
 {
     "title": "Go! Virginal Hanayuuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/1913.jpg",
+        "alt": "go-virginal-hanayuuki"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

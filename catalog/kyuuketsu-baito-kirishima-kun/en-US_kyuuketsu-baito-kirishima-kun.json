@@ -1,5 +1,9 @@
 {
     "title": "Kyuuketsu Baito Kirishima-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191119.jpg",
+        "alt": "kyuuketsu-baito-kirishima-kun"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "32",

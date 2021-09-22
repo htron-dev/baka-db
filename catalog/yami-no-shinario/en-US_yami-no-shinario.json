@@ -1,5 +1,9 @@
 {
     "title": "Yami no shinario",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/49075.jpg",
+        "alt": "yami-no-shinario"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

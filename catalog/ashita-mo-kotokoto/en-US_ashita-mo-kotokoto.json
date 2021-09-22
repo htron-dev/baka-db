@@ -1,5 +1,9 @@
 {
     "title": "Ashita mo Kotokoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/178753.jpg",
+        "alt": "ashita-mo-kotokoto"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "30",

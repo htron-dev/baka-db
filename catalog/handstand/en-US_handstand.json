@@ -1,5 +1,9 @@
 {
     "title": "Handstand!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203034.jpg",
+        "alt": "handstand"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "40",

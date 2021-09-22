@@ -1,5 +1,9 @@
 {
     "title": "Crusher Joe Rebirth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/211952.jpg",
+        "alt": "crusher-joe-rebirth"
+    },
     "type": "manga",
     "original_name": "クラッシャージョウ REBIRTH",
     "start_date": "2017-09-12",

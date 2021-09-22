@@ -1,5 +1,9 @@
 {
     "title": "Nanoni, Chigira-kun ga Amasugiru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/210149.jpg",
+        "alt": "nanoni-chigira-kun-ga-amasugiru"
+    },
     "type": "manga",
     "original_name": "なのに、千輝くんが甘すぎる。",
     "start_date": "2017-05-24",

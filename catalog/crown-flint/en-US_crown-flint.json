@@ -1,5 +1,9 @@
 {
     "title": "Crown Flint",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175934.jpg",
+        "alt": "crown-flint"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "23",

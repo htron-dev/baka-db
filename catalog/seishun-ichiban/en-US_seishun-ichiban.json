@@ -1,5 +1,9 @@
 {
     "title": "Seishun Ichiban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11926.jpg",
+        "alt": "seishun-ichiban"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "はる 青春一番",

@@ -1,5 +1,9 @@
 {
     "title": "Isekai Guild Meshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200840.jpg",
+        "alt": "isekai-guild-meshi"
+    },
     "type": "light-novel",
     "original_name": "異世界ギルド飯",
     "start_date": "2017-09-15",

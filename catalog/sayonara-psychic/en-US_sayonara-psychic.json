@@ -1,5 +1,9 @@
 {
     "title": "Sayonara, Psychic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181992.jpg",
+        "alt": "sayonara-psychic"
+    },
     "type": "light-novel",
     "original_name": "さよなら、サイキック",
     "start_date": "2016-09-01",

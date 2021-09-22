@@ -1,5 +1,9 @@
 {
     "title": "Ro-Kyu-Bu! SS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/50697.jpg",
+        "alt": "ro-kyu-bu-ss"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ロウきゅーぶ! SS",

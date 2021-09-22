@@ -1,5 +1,9 @@
 {
     "title": "Hop Step Jump!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33662.jpg",
+        "alt": "hop-step-jump"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "ほっぷすてっぷじゃんぷッ!",

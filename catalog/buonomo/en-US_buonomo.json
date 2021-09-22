@@ -1,5 +1,9 @@
 {
     "title": "Buonomo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/71521.jpg",
+        "alt": "buonomo"
+    },
     "type": "ona",
     "episodes": "13",
     "original_name": "ボーノーモ",

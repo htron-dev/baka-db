@@ -1,5 +1,9 @@
 {
     "title": "Nagaruru Rururuko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/70233.jpg",
+        "alt": "nagaruru-rururuko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "20",

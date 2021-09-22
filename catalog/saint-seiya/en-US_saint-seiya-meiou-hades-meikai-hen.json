@@ -1,5 +1,9 @@
 {
     "title": "Saint Seiya: Meiou Hades Meikai-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/75732.jpg",
+        "alt": "saint-seiya-meiou-hades-meikai-hen"
+    },
     "type": "ova",
     "episodes": "12",
     "original_name": "聖闘士星矢 冥王ハーデス冥界編",

@@ -1,5 +1,9 @@
 {
     "title": "Hyakko to Konin.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167591.jpg",
+        "alt": "hyakko-to-konin"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "白狐と狐姻。",

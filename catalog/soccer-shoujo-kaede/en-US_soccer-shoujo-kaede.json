@@ -1,5 +1,9 @@
 {
     "title": "Soccer Shoujo Kaede",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/57261.jpg",
+        "alt": "soccer-shoujo-kaede"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "サッカー少女 楓",

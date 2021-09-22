@@ -1,5 +1,9 @@
 {
     "title": "Mahou Yuugi 3D",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/2513.jpg",
+        "alt": "mahou-yuugi-3-d"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "魔法遊戯 3D",

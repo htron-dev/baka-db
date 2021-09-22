@@ -1,5 +1,9 @@
 {
     "title": "Reideen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/7363.jpg",
+        "alt": "reideen"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ライディーン",

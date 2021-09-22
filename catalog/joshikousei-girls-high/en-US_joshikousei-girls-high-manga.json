@@ -1,5 +1,9 @@
 {
     "title": "Joshikousei: Girls-High",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152461.jpg",
+        "alt": "joshikousei-girls-high"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "106",

@@ -1,5 +1,9 @@
 {
     "title": "Binetsu no Kajitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/54085.jpg",
+        "alt": "binetsu-no-kajitsu"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "微热的果实",

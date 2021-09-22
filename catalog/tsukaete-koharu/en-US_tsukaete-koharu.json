@@ -1,5 +1,9 @@
 {
     "title": "Tsukaete! Koharu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151720.jpg",
+        "alt": "tsukaete-koharu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "つかえて! コハル",

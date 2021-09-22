@@ -1,5 +1,9 @@
 {
     "title": "Ibara no Sokubaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186017.jpg",
+        "alt": "ibara-no-sokubaku"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

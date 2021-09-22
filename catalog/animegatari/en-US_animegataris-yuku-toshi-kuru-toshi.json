@@ -1,8 +1,12 @@
 {
     "title": "Animegataris: Yuku Toshi, Kuru Toshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1098/99544.jpg",
+        "alt": "animegataris-yuku-toshi-kuru-toshi"
+    },
     "type": "ona",
     "episodes": "1",
-    "original_name": "アニメガタリズ",
+    "original_name": "アニメガタリズ: ユクトシ、クルトシ",
     "start_date": "2017-12-31",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Barairo Guardian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/51957.jpg",
+        "alt": "barairo-guardian"
+    },
     "type": "manga",
     "original_name": "薔薇色ガーディアン",
     "start_date": "2010-09-25",

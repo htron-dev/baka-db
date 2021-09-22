@@ -1,5 +1,9 @@
 {
     "title": "Aozora Shotte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228037.jpg",
+        "alt": "aozora-shotte"
+    },
     "type": "manga",
     "volumes": "24",
     "chapters": "225",

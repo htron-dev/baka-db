@@ -1,5 +1,9 @@
 {
     "title": "Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/197880.jpg",
+        "alt": "jumyou-wo-kaitotte-moratta-ichinen-ni-tsuki-ichimanen-de"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

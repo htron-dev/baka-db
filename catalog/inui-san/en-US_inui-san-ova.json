@@ -1,5 +1,9 @@
 {
     "title": "Inui-san!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/82392.jpg",
+        "alt": "inui-san"
+    },
     "type": "ova",
     "episodes": "5",
     "original_name": "イヌイさんッ！",

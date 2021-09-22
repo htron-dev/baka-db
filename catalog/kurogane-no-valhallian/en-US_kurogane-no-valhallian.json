@@ -1,5 +1,9 @@
 {
     "title": "Kurogane no Valhallian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247598.jpg",
+        "alt": "kurogane-no-valhallian"
+    },
     "type": "manga",
     "original_name": "黒鉄のヴァルハリアン",
     "start_date": "2021-07-01",

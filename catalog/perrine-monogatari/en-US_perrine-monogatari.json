@@ -1,5 +1,9 @@
 {
     "title": "Perrine Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/17531.jpg",
+        "alt": "perrine-monogatari"
+    },
     "type": "tv-serie",
     "episodes": "53",
     "original_name": "ペリーヌ物語",

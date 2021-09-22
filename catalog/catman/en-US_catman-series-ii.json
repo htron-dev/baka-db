@@ -1,5 +1,9 @@
 {
     "title": "Catman Series II",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/9524.jpg",
+        "alt": "catman-series-ii"
+    },
     "type": "ona",
     "episodes": "8",
     "original_name": "キャットマン",

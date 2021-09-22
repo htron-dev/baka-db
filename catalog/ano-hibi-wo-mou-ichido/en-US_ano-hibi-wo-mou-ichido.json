@@ -1,5 +1,9 @@
 {
     "title": "Ano Hibi wo Mou Ichido",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161678.jpg",
+        "alt": "ano-hibi-wo-mou-ichido"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

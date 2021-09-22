@@ -1,5 +1,9 @@
 {
     "title": "Jean Valjean Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/30211.jpg",
+        "alt": "jean-valjean-monogatari"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ジャン・バルジャン物語",

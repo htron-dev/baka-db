@@ -1,5 +1,9 @@
 {
     "title": "Ao no Doumon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/66223.jpg",
+        "alt": "ao-no-doumon"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "青の洞門",

@@ -1,5 +1,9 @@
 {
     "title": "Kimi mo Jinseibou ni Futte Minai ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/89605.jpg",
+        "alt": "kimi-mo-jinseibou-ni-futte-minai-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Omoibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/213046.jpg",
+        "alt": "omoibito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

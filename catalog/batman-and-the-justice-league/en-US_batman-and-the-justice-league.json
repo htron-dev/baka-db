@@ -1,5 +1,9 @@
 {
     "title": "Batman and the Justice League",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247806.jpg",
+        "alt": "batman-and-the-justice-league"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

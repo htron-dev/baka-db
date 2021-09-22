@@ -1,5 +1,9 @@
 {
     "title": "Gekka Kourin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/79497.jpg",
+        "alt": "gekka-kourin"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

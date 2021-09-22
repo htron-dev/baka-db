@@ -1,5 +1,9 @@
 {
     "title": "Taka wo Kukurouka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/15148.jpg",
+        "alt": "taka-wo-kukurouka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

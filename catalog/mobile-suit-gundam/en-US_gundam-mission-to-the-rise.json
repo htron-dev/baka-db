@@ -1,5 +1,9 @@
 {
     "title": "Gundam: Mission to the Rise",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/8685.jpg",
+        "alt": "gundam-mission-to-the-rise"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "GUNDAM Mission to the Rise",

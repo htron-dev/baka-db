@@ -1,5 +1,9 @@
 {
     "title": "Sensei Anone.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/81556.jpg",
+        "alt": "sensei-anone"
+    },
     "type": "manga",
     "original_name": "先生あのね。",
     "tags": [

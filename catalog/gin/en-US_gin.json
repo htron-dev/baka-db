@@ -1,5 +1,9 @@
 {
     "title": "Gin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/23490.jpg",
+        "alt": "gin"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "13",

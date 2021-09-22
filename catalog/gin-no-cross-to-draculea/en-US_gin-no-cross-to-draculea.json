@@ -1,5 +1,9 @@
 {
     "title": "Gin no Cross to Draculea",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175677.jpg",
+        "alt": "gin-no-cross-to-draculea"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "40",

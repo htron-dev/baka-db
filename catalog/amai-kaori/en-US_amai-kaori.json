@@ -1,5 +1,9 @@
 {
     "title": "Amai Kaori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36904.jpg",
+        "alt": "amai-kaori"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "あまい香り",

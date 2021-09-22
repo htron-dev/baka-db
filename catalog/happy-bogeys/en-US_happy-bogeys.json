@@ -1,5 +1,9 @@
 {
     "title": "Happy Bogeys",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/74643.jpg",
+        "alt": "happy-bogeys"
+    },
     "type": "movie",
     "episodes": "12",
     "rating": "G - All Ages",

@@ -1,5 +1,9 @@
 {
     "title": "Dr. Rurru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/54135.jpg",
+        "alt": "dr-rurru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

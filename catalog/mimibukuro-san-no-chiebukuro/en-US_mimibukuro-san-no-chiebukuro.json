@@ -1,5 +1,9 @@
 {
     "title": "Mimibukuro-san no Chiebukuro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203262.jpg",
+        "alt": "mimibukuro-san-no-chiebukuro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

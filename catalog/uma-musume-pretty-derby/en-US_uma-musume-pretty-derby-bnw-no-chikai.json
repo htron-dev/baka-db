@@ -1,11 +1,15 @@
 {
     "title": "Uma Musume: Pretty Derby - BNW no Chikai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1733/93479.jpg",
+        "alt": "uma-musume-pretty-derby-bnw-no-chikai"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "ウマ娘 プリティーダービー BNW の誓い",
     "start_date": "2018-12-19",
     "opening_song": "\"Make Debut!\" by Special Week (Azumi Waki), Silence Suzuka (Marika Kouno), Toukai Teio (Machico), Vodka (Ayaka Ohashi), Daiwa Scarlet (Chise Kimura), Gold Ship (Hitomi Ueda), Mejiro McQueen (Saori Oonishi)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Glow Up Shine! (グロウアップ・シャイン！)\" by Special Week (Azumi Waki), Silence Suzuka (Kouno Marika), Toukai Teio (Machico), Vodka (Ohashi Ayaka), Daiwa Scarlet (Kimura Chise), Gold Ship (Ueda Hitomi), Mejiro McQueen (Oonishi Saori) (ep",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

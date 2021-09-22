@@ -1,5 +1,9 @@
 {
     "title": "Ichiban!!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10202.jpg",
+        "alt": "ichiban"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "Dairyuukoku Kaden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240114.jpg",
+        "alt": "dairyuukoku-kaden"
+    },
     "type": "light-novel",
     "volumes": "6",
     "chapters": "42",

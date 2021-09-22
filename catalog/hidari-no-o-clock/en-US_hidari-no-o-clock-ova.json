@@ -1,5 +1,9 @@
 {
     "title": "Hidari no O'Clock!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/24830.jpg",
+        "alt": "hidari-no-o-clock"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "左のオクロック!!",

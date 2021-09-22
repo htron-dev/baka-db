@@ -1,5 +1,9 @@
 {
     "title": "Recipe no Ouji-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/95491.jpg",
+        "alt": "recipe-no-ouji-sama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

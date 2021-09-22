@@ -1,11 +1,15 @@
 {
     "title": "Tayutayu: Pure My Heart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/15398.jpg",
+        "alt": "tayutayu-pure-my-heart"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "タユタマ -Pure my heart-",
     "start_date": "2009-06-25",
     "end_date": "2009-06-25",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kizuna no Uta (キズナノ唄)\" by Miyazaki Ui",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy"

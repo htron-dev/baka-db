@@ -1,5 +1,9 @@
 {
     "title": "Mitsume-san wa Kyou mo Kanshoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205474.jpg",
+        "alt": "mitsume-san-wa-kyou-mo-kanshoku"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

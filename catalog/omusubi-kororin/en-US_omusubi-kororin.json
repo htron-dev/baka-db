@@ -1,5 +1,9 @@
 {
     "title": "Omusubi Kororin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/80259.jpg",
+        "alt": "omusubi-kororin"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "おむすびころりん",

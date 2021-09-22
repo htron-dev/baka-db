@@ -1,5 +1,9 @@
 {
     "title": "Onakura no Yuurei-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222106.jpg",
+        "alt": "onakura-no-yuurei-san"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

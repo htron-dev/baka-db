@@ -1,11 +1,15 @@
 {
     "title": "Earthian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/62449.jpg",
+        "alt": "earthian"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "アーシアン",
     "start_date": "1989-07-26",
     "end_date": "1989-07-26",
-    "ending_song": "#2",
+    "ending_song": "#2: \"Because\" by Kingo Hamada (ep 02)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

@@ -1,12 +1,16 @@
 {
     "title": "Re: Cutey Honey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/52103.jpg",
+        "alt": "re-cutey-honey"
+    },
     "type": "ova",
     "episodes": "3",
-    "original_name": "Re",
+    "original_name": "Re:キューティーハニー",
     "start_date": "2004-07-24",
     "end_date": "2004-07-24",
     "opening_song": "\"Cutie Honey\" by Kumi Kouda (eps 1-2)",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Into your heart\" by Kumi Kouda (eps 1-2)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

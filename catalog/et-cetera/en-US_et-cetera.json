@@ -1,5 +1,9 @@
 {
     "title": "Et Cetera",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2382.jpg",
+        "alt": "et-cetera"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "40",

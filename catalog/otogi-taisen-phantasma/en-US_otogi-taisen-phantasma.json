@@ -1,5 +1,9 @@
 {
     "title": "Otogi Taisen Phantasma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/188956.jpg",
+        "alt": "otogi-taisen-phantasma"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

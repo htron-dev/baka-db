@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Deka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/15455.jpg",
+        "alt": "tokyo-deka"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "東京刑事",

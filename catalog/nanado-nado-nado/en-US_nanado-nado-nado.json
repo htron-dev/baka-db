@@ -1,5 +1,9 @@
 {
     "title": "Nanado Nado Nado",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235209.jpg",
+        "alt": "nanado-nado-nado"
+    },
     "type": "manga",
     "original_name": "ななどなどなど",
     "start_date": "2019-04-19",

@@ -1,5 +1,9 @@
 {
     "title": "Blue Sky Complex",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/141127.jpg",
+        "alt": "blue-sky-complex"
+    },
     "type": "manga",
     "original_name": "ブルースカイコンプレックス",
     "start_date": "2013-09-25",

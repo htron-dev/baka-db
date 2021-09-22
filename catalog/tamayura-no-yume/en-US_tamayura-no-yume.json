@@ -1,5 +1,9 @@
 {
     "title": "Tamayura no Yume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1155/99550.jpg",
+        "alt": "tamayura-no-yume"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "玉響の夢",

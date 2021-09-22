@@ -1,5 +1,9 @@
 {
     "title": "Yuuwaku Flash",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166011.jpg",
+        "alt": "yuuwaku-flash"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

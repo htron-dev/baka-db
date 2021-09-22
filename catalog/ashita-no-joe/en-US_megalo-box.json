@@ -1,5 +1,9 @@
 {
     "title": "Megalo Box",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1958/93533.jpg",
+        "alt": "megalo-box"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "メガロボクス",

@@ -1,5 +1,9 @@
 {
     "title": "Taa-chan no Kaitei Ryokou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/15837.jpg",
+        "alt": "taa-chan-no-kaitei-ryokou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ターチャンの海底旅行",

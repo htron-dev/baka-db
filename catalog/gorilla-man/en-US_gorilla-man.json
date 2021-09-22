@@ -1,5 +1,9 @@
 {
     "title": "Gorilla-Man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/114091.jpg",
+        "alt": "gorilla-man"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "218",

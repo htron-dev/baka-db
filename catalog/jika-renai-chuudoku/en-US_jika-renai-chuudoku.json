@@ -1,5 +1,9 @@
 {
     "title": "Jika Renai Chuudoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/142247.jpg",
+        "alt": "jika-renai-chuudoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

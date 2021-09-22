@@ -1,5 +1,9 @@
 {
     "title": "Hokenshitsu no Otaku Oneesan wa Suki desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/219073.jpg",
+        "alt": "hokenshitsu-no-otaku-oneesan-wa-suki-desu-ka"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "22",

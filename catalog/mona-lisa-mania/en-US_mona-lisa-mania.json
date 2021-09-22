@@ -1,5 +1,9 @@
 {
     "title": "Mona Lisa Mania",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221286.jpg",
+        "alt": "mona-lisa-mania"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

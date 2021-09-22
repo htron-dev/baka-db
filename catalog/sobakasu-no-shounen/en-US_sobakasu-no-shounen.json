@@ -1,5 +1,9 @@
 {
     "title": "Sobakasu no Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23143.jpg",
+        "alt": "sobakasu-no-shounen"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "そばかすの少年",

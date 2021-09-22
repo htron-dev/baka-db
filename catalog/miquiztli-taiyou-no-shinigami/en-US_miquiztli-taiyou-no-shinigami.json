@@ -1,5 +1,9 @@
 {
     "title": "Miquiztli: Taiyou no Shinigami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203564.jpg",
+        "alt": "miquiztli-taiyou-no-shinigami"
+    },
     "type": "manga",
     "volumes": "13",
     "original_name": "ミキストリ -太陽の死神-",

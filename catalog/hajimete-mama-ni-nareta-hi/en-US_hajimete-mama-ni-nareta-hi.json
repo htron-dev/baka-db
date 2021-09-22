@@ -1,5 +1,9 @@
 {
     "title": "Hajimete Mama ni Nareta Hi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/229877.jpg",
+        "alt": "hajimete-mama-ni-nareta-hi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

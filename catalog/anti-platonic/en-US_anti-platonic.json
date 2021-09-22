@@ -1,5 +1,9 @@
 {
     "title": "Anti Platonic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236781.jpg",
+        "alt": "anti-platonic"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Ashita, Boku wa Shinu. Kimi wa Ikikaeru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195032.jpg",
+        "alt": "ashita-boku-wa-shinu-kimi-wa-ikikaeru"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "26",

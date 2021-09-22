@@ -1,5 +1,9 @@
 {
     "title": "Zettai Himitsu no Kikai Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215550.jpg",
+        "alt": "zettai-himitsu-no-kikai-shoujo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "34",

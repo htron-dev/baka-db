@@ -1,5 +1,9 @@
 {
     "title": "Yattekitayo, Druid-san!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163077.jpg",
+        "alt": "yattekitayo-druid-san"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "15",

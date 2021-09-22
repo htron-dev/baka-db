@@ -1,5 +1,9 @@
 {
     "title": "Kimi ga Inakya Dame tte Itte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/143919.jpg",
+        "alt": "kimi-ga-inakya-dame-tte-itte"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

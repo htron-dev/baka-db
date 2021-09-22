@@ -1,5 +1,9 @@
 {
     "title": "Senga Tsubo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/84440.jpg",
+        "alt": "senga-tsubo"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "線畫 つぼ",

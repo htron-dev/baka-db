@@ -1,5 +1,9 @@
 {
     "title": "Thermae Romae Novae",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1879/109958.jpg",
+        "alt": "thermae-romae-novae"
+    },
     "type": "ona",
     "original_name": "テルマエ・ロマエ ノヴァエ",
     "start_date": "2021-01-20",

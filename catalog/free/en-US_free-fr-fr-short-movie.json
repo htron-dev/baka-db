@@ -1,5 +1,9 @@
 {
     "title": "Free!: FrFr - Short Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/55083.jpg",
+        "alt": "free-fr-fr-short-movie"
+    },
     "type": "special",
     "episodes": "7",
     "original_name": "FrFr!～ Free! short movie ～",

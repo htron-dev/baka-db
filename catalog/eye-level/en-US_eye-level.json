@@ -1,5 +1,9 @@
 {
     "title": "Eye Level",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6265.jpg",
+        "alt": "eye-level"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

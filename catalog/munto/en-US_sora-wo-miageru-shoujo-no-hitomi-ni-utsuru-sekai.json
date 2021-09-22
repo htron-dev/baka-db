@@ -1,12 +1,16 @@
 {
     "title": "Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/14012.jpg",
+        "alt": "sora-wo-miageru-shoujo-no-hitomi-ni-utsuru-sekai"
+    },
     "type": "tv-serie",
     "episodes": "9",
     "original_name": "空を見上げる少女の瞳に映る世界",
     "start_date": "2009-01-14",
     "end_date": "2009-01-14",
     "opening_song": "\"Anemoi (アネモイ)\" by eufonius",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hikari to Yami to Toki no Hate (光と闇と時の果て)\" by Ceui (eps 1-8)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

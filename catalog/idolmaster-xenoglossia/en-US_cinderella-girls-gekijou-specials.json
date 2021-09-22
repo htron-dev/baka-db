@@ -1,11 +1,15 @@
 {
     "title": "Cinderella Girls Gekijou Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/86432.jpg",
+        "alt": "cinderella-girls-gekijou-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "シンデレラガールズ劇場",
     "start_date": "2017-06-28",
     "end_date": "2017-06-28",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Etude wa Ikkyoku dake (エチュードは 1 曲だけ)\" by THE IDOLM@STER CINDERELLA GIRLS LITTLE STARS! (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

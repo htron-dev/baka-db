@@ -1,5 +1,9 @@
 {
     "title": "Aijintou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227173.jpg",
+        "alt": "aijintou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "愛人島",

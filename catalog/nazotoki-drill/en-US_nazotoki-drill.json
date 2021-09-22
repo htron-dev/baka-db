@@ -1,5 +1,9 @@
 {
     "title": "Nazotoki Drill",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161382.jpg",
+        "alt": "nazotoki-drill"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

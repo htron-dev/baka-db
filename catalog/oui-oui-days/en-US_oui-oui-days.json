@@ -1,5 +1,9 @@
 {
     "title": "Oui Oui Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29952.jpg",
+        "alt": "oui-oui-days"
+    },
     "type": "manga",
     "original_name": "ういうい・days; ういうい days",
     "tags": [

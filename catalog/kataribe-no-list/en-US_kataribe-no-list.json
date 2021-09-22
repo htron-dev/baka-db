@@ -1,5 +1,9 @@
 {
     "title": "Kataribe no List",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/156847.jpg",
+        "alt": "kataribe-no-list"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "32",

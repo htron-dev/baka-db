@@ -1,5 +1,9 @@
 {
     "title": "Random Walk",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/173656.jpg",
+        "alt": "random-walk"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

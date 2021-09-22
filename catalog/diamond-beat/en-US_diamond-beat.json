@@ -1,5 +1,9 @@
 {
     "title": "Diamond Beat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/110605.jpg",
+        "alt": "diamond-beat"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

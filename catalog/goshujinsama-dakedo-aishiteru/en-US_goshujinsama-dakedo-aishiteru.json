@@ -1,5 +1,9 @@
 {
     "title": "Goshujinsama, dakedo Aishiteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193511.jpg",
+        "alt": "goshujinsama-dakedo-aishiteru"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Hell Blade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/49481.jpg",
+        "alt": "hell-blade"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "36",

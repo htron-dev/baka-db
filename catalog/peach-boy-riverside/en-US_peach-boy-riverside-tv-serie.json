@@ -1,5 +1,9 @@
 {
     "title": "Peach Boy Riverside",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1535/115023.jpg",
+        "alt": "peach-boy-riverside"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ピーチボーイリバーサイド",

@@ -1,5 +1,9 @@
 {
     "title": "Perfect Human",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195249.jpg",
+        "alt": "perfect-human"
+    },
     "type": "manga",
     "original_name": "パーフェクト ヒューマン",
     "start_date": "2016-11-11",

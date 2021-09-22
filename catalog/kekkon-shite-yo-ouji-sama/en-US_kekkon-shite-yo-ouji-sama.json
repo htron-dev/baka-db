@@ -1,5 +1,9 @@
 {
     "title": "Kekkon shite yo... Ouji-sama!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/197034.jpg",
+        "alt": "kekkon-shite-yo-ouji-sama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

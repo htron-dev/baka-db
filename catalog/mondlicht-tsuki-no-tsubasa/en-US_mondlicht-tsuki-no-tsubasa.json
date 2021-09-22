@@ -1,5 +1,9 @@
 {
     "title": "Mondlicht: Tsuki no Tsubasa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32689.jpg",
+        "alt": "mondlicht-tsuki-no-tsubasa"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "34",

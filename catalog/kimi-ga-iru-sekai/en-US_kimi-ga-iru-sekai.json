@@ -1,5 +1,9 @@
 {
     "title": "Kimi ga Iru Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175836.jpg",
+        "alt": "kimi-ga-iru-sekai"
+    },
     "type": "light-novel",
     "original_name": "キミガイルセカイ",
     "start_date": "2016-04-30",

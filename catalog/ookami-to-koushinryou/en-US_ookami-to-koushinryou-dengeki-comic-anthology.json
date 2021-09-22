@@ -1,5 +1,9 @@
 {
     "title": "Ookami to Koushinryou: Dengeki Comic Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247829.jpg",
+        "alt": "ookami-to-koushinryou-dengeki-comic-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "17",

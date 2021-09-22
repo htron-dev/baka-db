@@ -1,5 +1,9 @@
 {
     "title": "Hakushaku-ke no Zousho Mokuroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151120.jpg",
+        "alt": "hakushaku-ke-no-zousho-mokuroku"
+    },
     "type": "light-novel",
     "original_name": "伯爵家の蔵書目録",
     "start_date": "2015-03-04",

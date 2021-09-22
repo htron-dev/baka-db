@@ -1,5 +1,9 @@
 {
     "title": "DT Eightron",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164718.jpg",
+        "alt": "dt-eightron"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "DT エイトロン",

@@ -1,5 +1,9 @@
 {
     "title": "Bakemono no Ko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/73540.jpg",
+        "alt": "bakemono-no-ko"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "バケモノの子",

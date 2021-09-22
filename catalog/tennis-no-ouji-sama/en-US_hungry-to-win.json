@@ -1,5 +1,9 @@
 {
     "title": "Hungry to Win",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/78713.jpg",
+        "alt": "hungry-to-win"
+    },
     "type": "ona",
     "original_name": "HUNGRY TO WIN",
     "start_date": "2014-11-08",

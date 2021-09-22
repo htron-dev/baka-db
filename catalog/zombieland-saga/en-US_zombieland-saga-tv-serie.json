@@ -1,5 +1,9 @@
 {
     "title": "Zombieland Saga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1094/95453.jpg",
+        "alt": "zombieland-saga"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ゾンビランドサガ",

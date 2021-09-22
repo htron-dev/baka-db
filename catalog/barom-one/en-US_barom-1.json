@@ -1,5 +1,9 @@
 {
     "title": "Barom 1",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/64911.jpg",
+        "alt": "barom-1"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

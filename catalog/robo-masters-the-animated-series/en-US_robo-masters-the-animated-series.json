@@ -1,11 +1,15 @@
 {
     "title": "RoboMasters the Animated Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/86297.jpg",
+        "alt": "robo-masters-the-animated-series"
+    },
     "type": "tv-serie",
     "episodes": "6",
     "original_name": "ROBOMASTERS THE ANIMATED SERIES",
     "start_date": "2017-10-13",
     "end_date": "2017-10-13",
-    "opening_song": "\"super nova\" by un",
+    "opening_song": "\"super nova\" by un:c",
     "ending_song": "\"Higher Maker\" by Saori Fukuyama",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Koushaku no Himeta Kuchizuke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162424.jpg",
+        "alt": "koushaku-no-himeta-kuchizuke"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

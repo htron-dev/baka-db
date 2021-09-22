@@ -1,5 +1,9 @@
 {
     "title": "Hataraku Saibou Lady",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/240296.jpg",
+        "alt": "hataraku-saibou-lady"
+    },
     "type": "manga",
     "original_name": "はたらく細胞 LADY",
     "start_date": "2020-01-22",

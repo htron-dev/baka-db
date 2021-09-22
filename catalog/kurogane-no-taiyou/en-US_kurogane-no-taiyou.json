@@ -1,5 +1,9 @@
 {
     "title": "Kurogane no Taiyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/173963.jpg",
+        "alt": "kurogane-no-taiyou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

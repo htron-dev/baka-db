@@ -1,5 +1,9 @@
 {
     "title": "Ginza no Banneko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229371.jpg",
+        "alt": "ginza-no-banneko"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "32",

@@ -1,5 +1,9 @@
 {
     "title": "World End Lights",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163712.jpg",
+        "alt": "world-end-lights"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "43",

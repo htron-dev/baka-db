@@ -1,5 +1,9 @@
 {
     "title": "Asgard Buou Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162432.jpg",
+        "alt": "asgard-buou-senki"
+    },
     "type": "light-novel",
     "original_name": "アスガルド武皇戦記",
     "start_date": "2015-08-20",

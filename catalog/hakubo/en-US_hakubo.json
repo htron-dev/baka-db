@@ -1,5 +1,9 @@
 {
     "title": "Hakubo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1233/117186.jpg",
+        "alt": "hakubo"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "薄暮",

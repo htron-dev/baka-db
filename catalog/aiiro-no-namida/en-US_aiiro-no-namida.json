@@ -1,5 +1,9 @@
 {
     "title": "Aiiro no Namida",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/89821.jpg",
+        "alt": "aiiro-no-namida"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

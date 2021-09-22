@@ -1,5 +1,9 @@
 {
     "title": "Lilly, the Frogs, and the Cool Lil' Brother",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12351.jpg",
+        "alt": "lilly-the-frogs-and-the-cool-lil-brother"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Great Hunt",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/73514.jpg",
+        "alt": "great-hunt"
+    },
     "type": "tv-serie",
     "episodes": "19",
     "original_name": "Great Hunt (グレートハント)",

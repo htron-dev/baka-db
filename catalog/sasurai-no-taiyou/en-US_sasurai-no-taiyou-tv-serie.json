@@ -1,12 +1,16 @@
 {
     "title": "Sasurai no Taiyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1068/101174.jpg",
+        "alt": "sasurai-no-taiyou"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "さすらいの太陽",
     "start_date": "1971-04-08",
     "end_date": "1971-04-08",
     "opening_song": "\"Sasurai no Taiyou (さすらいの太陽)\" by Vocal Shop, Three Graces",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kokoro no Uta (心のうた)\" by Mitsuko Horie",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music",

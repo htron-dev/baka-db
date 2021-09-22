@@ -1,5 +1,9 @@
 {
     "title": "Vandread: The Extra Stage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184339.jpg",
+        "alt": "vandread-the-extra-stage"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

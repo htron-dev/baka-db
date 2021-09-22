@@ -1,5 +1,9 @@
 {
     "title": "Kaitouranma The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/61785.jpg",
+        "alt": "kaitouranma-the-animation"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "快刀乱麻 THE ANIMATION",

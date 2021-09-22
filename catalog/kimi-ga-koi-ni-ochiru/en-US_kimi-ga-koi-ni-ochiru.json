@@ -1,5 +1,9 @@
 {
     "title": "Kimi ga Koi ni Ochiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/209.jpg",
+        "alt": "kimi-ga-koi-ni-ochiru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

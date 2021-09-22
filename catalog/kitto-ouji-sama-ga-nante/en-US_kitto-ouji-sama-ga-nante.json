@@ -1,5 +1,9 @@
 {
     "title": "Kitto Ouji-sama ga nante",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215910.jpg",
+        "alt": "kitto-ouji-sama-ga-nante"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

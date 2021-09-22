@@ -1,5 +1,9 @@
 {
     "title": "Hankai no Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227888.jpg",
+        "alt": "hankai-no-hana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

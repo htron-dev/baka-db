@@ -1,5 +1,9 @@
 {
     "title": "Hajimemashite no Silvandol",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180784.jpg",
+        "alt": "hajimemashite-no-silvandol"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "22",

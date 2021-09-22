@@ -1,5 +1,9 @@
 {
     "title": "Itoshi no Boukun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/31909.jpg",
+        "alt": "itoshi-no-boukun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

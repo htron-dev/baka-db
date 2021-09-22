@@ -1,5 +1,9 @@
 {
     "title": "Kare ja Nai kedo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/86337.jpg",
+        "alt": "kare-ja-nai-kedo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "City Hunter: Bay City Wars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/61669.jpg",
+        "alt": "city-hunter-bay-city-wars"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "シティーハンター ベイシティウォーズ",

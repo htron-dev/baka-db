@@ -1,5 +1,9 @@
 {
     "title": "Moe Kare!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/168281.jpg",
+        "alt": "moe-kare"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "35",

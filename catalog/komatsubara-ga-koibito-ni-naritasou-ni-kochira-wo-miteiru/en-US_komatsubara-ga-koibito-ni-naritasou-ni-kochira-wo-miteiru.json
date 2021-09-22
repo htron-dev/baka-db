@@ -1,5 +1,9 @@
 {
     "title": "Komatsubara ga Koibito ni Naritasou ni Kochira wo Miteiru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196490.jpg",
+        "alt": "komatsubara-ga-koibito-ni-naritasou-ni-kochira-wo-miteiru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

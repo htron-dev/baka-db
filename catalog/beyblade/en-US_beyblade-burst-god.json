@@ -1,12 +1,16 @@
 {
     "title": "Beyblade Burst God",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/84704.jpg",
+        "alt": "beyblade-burst-god"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "ベイブレードバースト 神〈ゴッド〉",
     "start_date": "2017-04-03",
     "end_date": "2017-04-03",
     "opening_song": "\"Evolution Burst!\" by Kenichi Kitagawa (北川けんいち)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Bey-ercise (ベイササイズ)\" by Senor Anami (セニョール・アナミー)",
     "rating": "PG - Children",
     "tags": [
         "action",

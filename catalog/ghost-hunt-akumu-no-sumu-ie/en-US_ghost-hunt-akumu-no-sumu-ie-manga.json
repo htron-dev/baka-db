@@ -1,5 +1,9 @@
 {
     "title": "Ghost Hunt: Akumu no Sumu Ie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181307.jpg",
+        "alt": "ghost-hunt-akumu-no-sumu-ie"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

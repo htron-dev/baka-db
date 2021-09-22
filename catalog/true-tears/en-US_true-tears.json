@@ -1,5 +1,9 @@
 {
     "title": "True Tears",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32902.jpg",
+        "alt": "true-tears"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

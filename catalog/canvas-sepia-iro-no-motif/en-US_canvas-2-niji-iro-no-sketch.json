@@ -1,5 +1,9 @@
 {
     "title": "Canvas 2: Niji-iro no Sketch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/74076.jpg",
+        "alt": "canvas-2-niji-iro-no-sketch"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "Canvas2 ～虹色のスケッチ～",

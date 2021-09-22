@@ -1,5 +1,9 @@
 {
     "title": "Otome Atlas",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/150481.jpg",
+        "alt": "otome-atlas"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "乙女アトラス",

@@ -1,5 +1,9 @@
 {
     "title": "Megami to Ichinen Kurashitemita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182318.jpg",
+        "alt": "megami-to-ichinen-kurashitemita"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "28",

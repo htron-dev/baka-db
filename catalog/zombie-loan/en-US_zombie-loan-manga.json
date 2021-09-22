@@ -1,5 +1,9 @@
 {
     "title": "Zombie-Loan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/183676.jpg",
+        "alt": "zombie-loan"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "83",

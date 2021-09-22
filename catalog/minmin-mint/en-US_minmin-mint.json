@@ -1,5 +1,9 @@
 {
     "title": "Minmin Mint",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149208.jpg",
+        "alt": "minmin-mint"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

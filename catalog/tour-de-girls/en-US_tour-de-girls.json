@@ -1,5 +1,9 @@
 {
     "title": "Tour de Girls!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/184616.jpg",
+        "alt": "tour-de-girls"
+    },
     "type": "light-novel",
     "original_name": "ツール・ド・ガールズ!!",
     "start_date": "2016-11-02",

@@ -1,12 +1,16 @@
 {
     "title": "AKB0048",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/74157.jpg",
+        "alt": "akb-0048"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "AKB0048",
     "start_date": "2012-04-29",
     "end_date": "2012-04-29",
     "opening_song": "\"Kibou ni Tsuite (希望について)\" by NO NAME (eps 2-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kibou ni Tsuite (希望について)\" by NO NAME (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music",

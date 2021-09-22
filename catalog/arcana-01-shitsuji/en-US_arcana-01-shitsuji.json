@@ -1,5 +1,9 @@
 {
     "title": "Arcana 01: Shitsuji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37652.jpg",
+        "alt": "arcana-01-shitsuji"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

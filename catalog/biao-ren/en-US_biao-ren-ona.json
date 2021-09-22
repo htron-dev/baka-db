@@ -1,5 +1,9 @@
 {
     "title": "Biao Ren",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1968/110585.jpg",
+        "alt": "biao-ren"
+    },
     "type": "ona",
     "original_name": "镖人",
     "rating": "None",

@@ -1,5 +1,9 @@
 {
     "title": "Muchakucha Daisuki.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/113941.jpg",
+        "alt": "muchakucha-daisuki"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

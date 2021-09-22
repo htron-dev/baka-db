@@ -1,12 +1,16 @@
 {
     "title": "Major S6",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/75216.jpg",
+        "alt": "major-s-6"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "メジャー 第 6 シリーズ",
     "start_date": "2010-04-03",
     "end_date": "2010-04-03",
     "opening_song": "\"Kokoro e\" by TRIPLANE",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Twilight Star\" by Megamasso (eps 01-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Major_(manga"
+            "link": "http://en.wikipedia.org/wiki/Major_%28manga%29"
         }
     ]
 }

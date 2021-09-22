@@ -1,5 +1,9 @@
 {
     "title": "Anemone no Shishuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222934.jpg",
+        "alt": "anemone-no-shishuu"
+    },
     "type": "manga",
     "original_name": "アネモネの刺繍",
     "start_date": "2017-06-30",

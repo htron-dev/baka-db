@@ -1,5 +1,9 @@
 {
     "title": "Koutei Heika no Kajou na Chouai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194048.jpg",
+        "alt": "koutei-heika-no-kajou-na-chouai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "12",

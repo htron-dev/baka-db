@@ -1,5 +1,9 @@
 {
     "title": "Osomatsu-san: Hajimaru Hajimari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1964/93279.jpg",
+        "alt": "osomatsu-san-hajimaru-hajimari"
+    },
     "type": "special",
     "original_name": "おそ松さん～はじまりはじまり～",
     "start_date": "2018-08-02",

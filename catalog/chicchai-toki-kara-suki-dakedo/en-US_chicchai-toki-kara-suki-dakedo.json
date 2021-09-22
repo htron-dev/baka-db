@@ -1,5 +1,9 @@
 {
     "title": "Chicchai Toki kara Suki dakedo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195181.jpg",
+        "alt": "chicchai-toki-kara-suki-dakedo"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "48",

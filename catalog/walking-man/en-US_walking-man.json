@@ -1,5 +1,9 @@
 {
     "title": "Walking Man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/73782.jpg",
+        "alt": "walking-man"
+    },
     "type": "movie",
     "episodes": "1",
     "start_date": "2002-01-20",

@@ -1,5 +1,9 @@
 {
     "title": "Boku no Kareshi no Suki na Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226986.jpg",
+        "alt": "boku-no-kareshi-no-suki-na-hito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

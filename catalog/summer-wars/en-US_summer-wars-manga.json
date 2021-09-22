@@ -1,5 +1,9 @@
 {
     "title": "Summer Wars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/26238.jpg",
+        "alt": "summer-wars"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

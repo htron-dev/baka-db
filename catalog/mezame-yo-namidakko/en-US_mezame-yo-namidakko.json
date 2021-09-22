@@ -1,5 +1,9 @@
 {
     "title": "Mezame yo Namidakko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177605.jpg",
+        "alt": "mezame-yo-namidakko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

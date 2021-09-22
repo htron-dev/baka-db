@@ -1,5 +1,9 @@
 {
     "title": "Ikenai Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/51053.jpg",
+        "alt": "ikenai-otoko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

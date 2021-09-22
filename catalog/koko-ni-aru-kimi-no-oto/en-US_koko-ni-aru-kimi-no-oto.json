@@ -1,5 +1,9 @@
 {
     "title": "Koko ni Aru, Kimi no Oto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/83735.jpg",
+        "alt": "koko-ni-aru-kimi-no-oto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

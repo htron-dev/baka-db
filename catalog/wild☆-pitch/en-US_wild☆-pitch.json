@@ -1,5 +1,9 @@
 {
     "title": "Wild☆Pitch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13335.jpg",
+        "alt": "wild☆-pitch"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

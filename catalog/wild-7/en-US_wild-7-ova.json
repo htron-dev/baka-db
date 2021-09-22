@@ -1,5 +1,9 @@
 {
     "title": "Wild 7",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1886/96607.jpg",
+        "alt": "wild-7"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "ワイルド７",

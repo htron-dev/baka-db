@@ -1,5 +1,9 @@
 {
     "title": "Anima Cal Livs",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/53717.jpg",
+        "alt": "anima-cal-livs"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "アニマ・カル・リブス",

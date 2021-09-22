@@ -1,5 +1,9 @@
 {
     "title": "Sukkuto Kitsune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20703.jpg",
+        "alt": "sukkuto-kitsune"
+    },
     "type": "manga",
     "volumes": "14",
     "original_name": "すっくと狐",

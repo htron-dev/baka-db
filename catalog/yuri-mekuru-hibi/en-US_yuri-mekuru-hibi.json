@@ -1,5 +1,9 @@
 {
     "title": "Yuri Mekuru Hibi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/132975.jpg",
+        "alt": "yuri-mekuru-hibi"
+    },
     "type": "manga",
     "chapters": "77",
     "original_name": "ゆりめくる日々",

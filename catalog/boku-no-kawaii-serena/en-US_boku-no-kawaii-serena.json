@@ -1,5 +1,9 @@
 {
     "title": "Boku no Kawaii Serena",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185002.jpg",
+        "alt": "boku-no-kawaii-serena"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

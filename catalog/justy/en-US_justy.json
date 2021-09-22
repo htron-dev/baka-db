@@ -1,5 +1,9 @@
 {
     "title": "Justy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/82700.jpg",
+        "alt": "justy"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "ジャスティ",

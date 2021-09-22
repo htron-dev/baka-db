@@ -1,5 +1,9 @@
 {
     "title": "Tetsuwan Birdy Evolution",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/37969.jpg",
+        "alt": "tetsuwan-birdy-evolution"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "140",

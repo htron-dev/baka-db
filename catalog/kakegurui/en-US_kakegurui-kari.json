@@ -1,5 +1,9 @@
 {
     "title": "Kakegurui (Kari)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/197426.jpg",
+        "alt": "kakegurui-kari"
+    },
     "type": "manga",
     "original_name": "賭ケグルイ（仮）",
     "start_date": "2016-12-22",

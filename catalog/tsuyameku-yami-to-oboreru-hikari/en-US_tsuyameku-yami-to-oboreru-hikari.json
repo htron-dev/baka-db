@@ -1,5 +1,9 @@
 {
     "title": "Tsuyameku Yami to Oboreru Hikari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/232427.jpg",
+        "alt": "tsuyameku-yami-to-oboreru-hikari"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

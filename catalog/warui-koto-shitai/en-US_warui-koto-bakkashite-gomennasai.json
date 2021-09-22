@@ -1,5 +1,9 @@
 {
     "title": "Warui Koto Bakkashite Gomennasai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30736.jpg",
+        "alt": "warui-koto-bakkashite-gomennasai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Hitorijime: Choukyou Ganbou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/182667.jpg",
+        "alt": "hitorijime-choukyou-ganbou"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "78",

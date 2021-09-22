@@ -1,5 +1,9 @@
 {
     "title": "I Will Be Cinderella",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/29656.jpg",
+        "alt": "i-will-be-cinderella"
+    },
     "type": "manhwa",
     "volumes": "20",
     "tags": [

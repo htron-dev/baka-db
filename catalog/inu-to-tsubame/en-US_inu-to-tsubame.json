@@ -1,5 +1,9 @@
 {
     "title": "Inu to Tsubame",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/73017.jpg",
+        "alt": "inu-to-tsubame"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

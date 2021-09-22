@@ -1,5 +1,9 @@
 {
     "title": "Ame no Naka kara Yattekita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238605.jpg",
+        "alt": "ame-no-naka-kara-yattekita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

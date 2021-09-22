@@ -1,5 +1,9 @@
 {
     "title": "Grandeek",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/2617.jpg",
+        "alt": "grandeek"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "GRANDEEK",

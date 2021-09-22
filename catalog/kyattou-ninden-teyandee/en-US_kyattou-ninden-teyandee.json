@@ -1,5 +1,9 @@
 {
     "title": "Kyattou Ninden Teyandee",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/29379.jpg",
+        "alt": "kyattou-ninden-teyandee"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "7",

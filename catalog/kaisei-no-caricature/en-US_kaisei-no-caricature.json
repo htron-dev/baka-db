@@ -1,5 +1,9 @@
 {
     "title": "Kaisei no Caricature",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173941.jpg",
+        "alt": "kaisei-no-caricature"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

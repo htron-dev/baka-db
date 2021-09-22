@@ -1,5 +1,9 @@
 {
     "title": "Anata to Otonagoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/211644.jpg",
+        "alt": "anata-to-otonagoto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Ikumi No Himitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/25231.jpg",
+        "alt": "ikumi-no-himitsu"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "47",

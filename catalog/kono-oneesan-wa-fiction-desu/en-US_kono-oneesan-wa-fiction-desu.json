@@ -1,5 +1,9 @@
 {
     "title": "Kono Oneesan wa Fiction desu!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149001.jpg",
+        "alt": "kono-oneesan-wa-fiction-desu"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "49",

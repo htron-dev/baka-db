@@ -1,5 +1,9 @@
 {
     "title": "Pâtisserie no Monster",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1464/91691.jpg",
+        "alt": "patisserie-no-monster"
+    },
     "type": "ona",
     "episodes": "4",
     "original_name": "パティシエのモンスター",

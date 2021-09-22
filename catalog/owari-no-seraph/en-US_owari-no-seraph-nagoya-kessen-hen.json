@@ -1,5 +1,9 @@
 {
     "title": "Owari no Seraph: Nagoya Kessen-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/76632.jpg",
+        "alt": "owari-no-seraph-nagoya-kessen-hen"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "終わりのセラフ　名古屋決戦編",

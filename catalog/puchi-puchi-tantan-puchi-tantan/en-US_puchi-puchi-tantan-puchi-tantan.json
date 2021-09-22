@@ -1,5 +1,9 @@
 {
     "title": "Puchi Puchi Tantan Puchi Tantan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181010.jpg",
+        "alt": "puchi-puchi-tantan-puchi-tantan"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "52",

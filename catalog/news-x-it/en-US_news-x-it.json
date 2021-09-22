@@ -1,5 +1,9 @@
 {
     "title": "News x It",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165909.jpg",
+        "alt": "news-x-it"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "28",

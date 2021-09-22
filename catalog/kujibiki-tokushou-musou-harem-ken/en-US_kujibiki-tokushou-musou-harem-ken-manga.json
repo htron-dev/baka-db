@@ -1,7 +1,11 @@
 {
     "title": "Kujibiki Tokushou: Musou Harem-ken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221247.jpg",
+        "alt": "kujibiki-tokushou-musou-harem-ken"
+    },
     "type": "manga",
-    "original_name": "くじ引き特賞",
+    "original_name": "くじ引き特賞:無双ハーレム権",
     "start_date": "2018-11-23",
     "tags": [
         "action",

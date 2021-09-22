@@ -1,5 +1,9 @@
 {
     "title": "Ai wo Ano Yo ni Oitekita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/140019.jpg",
+        "alt": "ai-wo-ano-yo-ni-oitekita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

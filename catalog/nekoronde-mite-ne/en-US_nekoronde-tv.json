@@ -1,5 +1,9 @@
 {
     "title": "Nekoronde TV.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/71656.jpg",
+        "alt": "nekoronde-tv"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ねころんでテレビ。",

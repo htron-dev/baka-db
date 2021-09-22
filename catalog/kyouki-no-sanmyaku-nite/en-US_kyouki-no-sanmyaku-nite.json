@@ -1,5 +1,9 @@
 {
     "title": "Kyouki no Sanmyaku nite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189233.jpg",
+        "alt": "kyouki-no-sanmyaku-nite"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

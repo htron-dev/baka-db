@@ -1,5 +1,9 @@
 {
     "title": "Castella Recipe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181953.jpg",
+        "alt": "castella-recipe"
+    },
     "type": "manhwa",
     "original_name": "카스텔라 레시피",
     "start_date": "2009-10-30",

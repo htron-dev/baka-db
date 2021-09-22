@@ -1,5 +1,9 @@
 {
     "title": "Ryuuzaki-san to Torao-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160802.jpg",
+        "alt": "ryuuzaki-san-to-torao-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

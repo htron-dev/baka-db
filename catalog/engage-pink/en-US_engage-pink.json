@@ -1,5 +1,9 @@
 {
     "title": "Engage Pink",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/211746.jpg",
+        "alt": "engage-pink"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

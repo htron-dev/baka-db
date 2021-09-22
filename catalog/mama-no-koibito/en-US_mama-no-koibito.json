@@ -1,5 +1,9 @@
 {
     "title": "Mama no Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/9615.jpg",
+        "alt": "mama-no-koibito"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ママの恋人",

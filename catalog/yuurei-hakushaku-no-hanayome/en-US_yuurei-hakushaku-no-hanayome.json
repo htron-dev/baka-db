@@ -1,5 +1,9 @@
 {
     "title": "Yuurei Hakushaku no Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/156954.jpg",
+        "alt": "yuurei-hakushaku-no-hanayome"
+    },
     "type": "light-novel",
     "volumes": "7",
     "chapters": "61",

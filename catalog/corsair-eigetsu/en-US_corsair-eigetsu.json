@@ -1,5 +1,9 @@
 {
     "title": "Corsair - Eigetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/42001.jpg",
+        "alt": "corsair-eigetsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

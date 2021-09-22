@@ -1,5 +1,9 @@
 {
     "title": "Coffee no Mazui Gokudou Kissaten",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215574.jpg",
+        "alt": "coffee-no-mazui-gokudou-kissaten"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

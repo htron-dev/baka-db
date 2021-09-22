@@ -1,5 +1,9 @@
 {
     "title": "Game Center no Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/242495.jpg",
+        "alt": "game-center-no-kanojo"
+    },
     "type": "manga",
     "original_name": "ゲーセンの彼女",
     "start_date": "2019-07-26",

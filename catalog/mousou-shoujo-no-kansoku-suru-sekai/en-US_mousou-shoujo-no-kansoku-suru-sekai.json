@@ -1,5 +1,9 @@
 {
     "title": "Mousou Shoujo no Kansoku suru Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180042.jpg",
+        "alt": "mousou-shoujo-no-kansoku-suru-sekai"
+    },
     "type": "light-novel",
     "original_name": "妄想少女の観測する世壊",
     "start_date": "2016-07-25",

@@ -1,5 +1,9 @@
 {
     "title": "Rica tte Kanji!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155228.jpg",
+        "alt": "rica-tte-kanji"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "20",

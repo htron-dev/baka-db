@@ -1,5 +1,9 @@
 {
     "title": "Kyou no Cerberus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/115893.jpg",
+        "alt": "kyou-no-cerberus"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "58",

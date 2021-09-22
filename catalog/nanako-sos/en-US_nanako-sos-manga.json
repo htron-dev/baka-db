@@ -1,5 +1,9 @@
 {
     "title": "Nanako SOS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161280.jpg",
+        "alt": "nanako-sos"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "58",

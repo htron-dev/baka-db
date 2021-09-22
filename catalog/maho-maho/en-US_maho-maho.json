@@ -1,5 +1,9 @@
 {
     "title": "Maho Maho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/144343.jpg",
+        "alt": "maho-maho"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

@@ -1,5 +1,9 @@
 {
     "title": "The Adventures of Young Det",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/77909.jpg",
+        "alt": "the-adventures-of-young-det"
+    },
     "type": "manhwa",
     "volumes": "5",
     "original_name": "청년 데트의 모험",

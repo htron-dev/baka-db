@@ -1,5 +1,9 @@
 {
     "title": "A Ben Mao",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1013/115340.jpg",
+        "alt": "a-ben-mao"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "阿笨猫",

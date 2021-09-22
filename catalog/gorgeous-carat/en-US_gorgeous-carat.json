@@ -1,5 +1,9 @@
 {
     "title": "Gorgeous Carat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5205.jpg",
+        "alt": "gorgeous-carat"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

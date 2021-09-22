@@ -1,5 +1,9 @@
 {
     "title": "World End Valkyrie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/124035.jpg",
+        "alt": "world-end-valkyrie"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "ワールドエンド・ヴァルキリー",

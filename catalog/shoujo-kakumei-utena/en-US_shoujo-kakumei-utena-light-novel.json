@@ -1,5 +1,9 @@
 {
     "title": "Shoujo Kakumei Utena",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/41964.jpg",
+        "alt": "shoujo-kakumei-utena"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "12",

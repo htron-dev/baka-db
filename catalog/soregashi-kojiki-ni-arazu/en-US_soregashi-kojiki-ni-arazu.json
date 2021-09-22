@@ -1,5 +1,9 @@
 {
     "title": "Soregashi Kojiki ni Arazu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/29024.jpg",
+        "alt": "soregashi-kojiki-ni-arazu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

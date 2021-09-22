@@ -1,5 +1,9 @@
 {
     "title": "Attacker You!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/1724.jpg",
+        "alt": "attacker-you"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

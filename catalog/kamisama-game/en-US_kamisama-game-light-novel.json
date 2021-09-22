@@ -1,5 +1,9 @@
 {
     "title": "Kamisama Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162906.jpg",
+        "alt": "kamisama-game"
+    },
     "type": "light-novel",
     "volumes": "8",
     "chapters": "76",

@@ -1,5 +1,9 @@
 {
     "title": "Cake Cake Cake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18113.jpg",
+        "alt": "cake-cake-cake"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ケーキ•ケーキ•ケーキ",

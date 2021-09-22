@@ -1,8 +1,12 @@
 {
     "title": "Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku kara Picture Drama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/77400.jpg",
+        "alt": "code-geass-boukoku-no-akito-4-nikushimi-no-kioku-kara-picture-drama"
+    },
     "type": "special",
     "episodes": "1",
-    "original_name": "コードギアス　亡国のアキト 第 4 章",
+    "original_name": "コードギアス　亡国のアキト 第 4 章: 憎しみの記憶から",
     "start_date": "2015-10-28",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

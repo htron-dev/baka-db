@@ -1,5 +1,9 @@
 {
     "title": "Mini! Kiznaiver Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180723.jpg",
+        "alt": "mini-kiznaiver-gekijou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "みにっ! きずないーばー劇場",

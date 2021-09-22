@@ -1,5 +1,9 @@
 {
     "title": "Ginban Kishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/116397.jpg",
+        "alt": "ginban-kishi"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "56",

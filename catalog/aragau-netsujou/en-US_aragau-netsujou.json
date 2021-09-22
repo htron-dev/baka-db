@@ -1,5 +1,9 @@
 {
     "title": "Aragau Netsujou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15680.jpg",
+        "alt": "aragau-netsujou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

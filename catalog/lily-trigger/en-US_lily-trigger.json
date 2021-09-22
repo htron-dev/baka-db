@@ -1,5 +1,9 @@
 {
     "title": "Lily Trigger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/132247.jpg",
+        "alt": "lily-trigger"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

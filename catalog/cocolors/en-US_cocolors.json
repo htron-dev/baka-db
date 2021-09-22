@@ -1,5 +1,9 @@
 {
     "title": "Cocolors",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/86473.jpg",
+        "alt": "cocolors"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "COCOLORS（コカラス）",

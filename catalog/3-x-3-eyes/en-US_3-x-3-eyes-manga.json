@@ -1,5 +1,9 @@
 {
     "title": "3x3 Eyes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/148693.jpg",
+        "alt": "3-x-3-eyes"
+    },
     "type": "manga",
     "volumes": "40",
     "chapters": "577",

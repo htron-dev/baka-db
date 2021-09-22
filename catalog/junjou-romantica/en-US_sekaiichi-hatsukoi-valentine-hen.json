@@ -1,5 +1,9 @@
 {
     "title": "Sekaiichi Hatsukoi: Valentine-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/55723.jpg",
+        "alt": "sekaiichi-hatsukoi-valentine-hen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "世界一初恋～バレンタイン編～",

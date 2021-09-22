@@ -1,5 +1,9 @@
 {
     "title": "Boku no Chopin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/124925.jpg",
+        "alt": "boku-no-chopin"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "30",

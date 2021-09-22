@@ -1,5 +1,9 @@
 {
     "title": "Senichiya Drop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/130739.jpg",
+        "alt": "senichiya-drop"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

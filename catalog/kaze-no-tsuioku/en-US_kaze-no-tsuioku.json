@@ -1,5 +1,9 @@
 {
     "title": "Kaze no Tsuioku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/128407.jpg",
+        "alt": "kaze-no-tsuioku"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "風の追憶",

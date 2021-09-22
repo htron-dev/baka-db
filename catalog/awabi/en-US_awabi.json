@@ -1,5 +1,9 @@
 {
     "title": "Awabi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161384.jpg",
+        "alt": "awabi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Toaru Hikuushi e no Tsuioku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/36903.jpg",
+        "alt": "toaru-hikuushi-e-no-tsuioku"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "とある飛空士への追憶",

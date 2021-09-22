@@ -1,5 +1,9 @@
 {
     "title": "Ore, Twintail ni Narimasu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/75057.jpg",
+        "alt": "ore-twintail-ni-narimasu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "俺、ツインテールになります。",

@@ -1,5 +1,9 @@
 {
     "title": "Ennead",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238420.jpg",
+        "alt": "ennead"
+    },
     "type": "manhwa",
     "original_name": "엔네아드",
     "start_date": "2018-09-20",

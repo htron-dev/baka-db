@@ -1,5 +1,9 @@
 {
     "title": "Boku no Ω yo Samenaide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238316.jpg",
+        "alt": "boku-no-ω-yo-samenaide"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

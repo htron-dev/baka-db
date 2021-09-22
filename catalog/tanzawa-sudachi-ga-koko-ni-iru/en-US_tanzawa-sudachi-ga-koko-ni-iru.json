@@ -1,5 +1,9 @@
 {
     "title": "Tanzawa Sudachi ga Koko ni Iru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/223220.jpg",
+        "alt": "tanzawa-sudachi-ga-koko-ni-iru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "26",

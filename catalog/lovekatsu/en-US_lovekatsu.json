@@ -1,5 +1,9 @@
 {
     "title": "Lovekatsu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/144269.jpg",
+        "alt": "lovekatsu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

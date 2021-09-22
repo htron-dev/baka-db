@@ -1,5 +1,9 @@
 {
     "title": "Youjo to Scoop to Maganou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239824.jpg",
+        "alt": "youjo-to-scoop-to-maganou"
+    },
     "type": "manga",
     "original_name": "幼女とスコップと魔眼王",
     "start_date": "2020-04-09",

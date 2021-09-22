@@ -1,5 +1,9 @@
 {
     "title": "Dakedo Ai ga Aru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/33263.jpg",
+        "alt": "dakedo-ai-ga-aru"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "だけど愛がある",

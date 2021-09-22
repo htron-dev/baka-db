@@ -1,5 +1,9 @@
 {
     "title": "Kujaku no Kyoushitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/77545.jpg",
+        "alt": "kujaku-no-kyoushitsu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

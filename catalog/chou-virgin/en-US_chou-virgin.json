@@ -1,5 +1,9 @@
 {
     "title": "Chou Virgin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/28133.jpg",
+        "alt": "chou-virgin"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "超バージン",

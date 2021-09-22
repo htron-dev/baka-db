@@ -1,5 +1,9 @@
 {
     "title": "34-sai Mushoku-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/91031.jpg",
+        "alt": "34-sai-mushoku-san"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "101",

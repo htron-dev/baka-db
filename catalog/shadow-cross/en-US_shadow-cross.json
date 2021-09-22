@@ -1,5 +1,9 @@
 {
     "title": "Shadow Cross",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/241363.jpg",
+        "alt": "shadow-cross"
+    },
     "type": "manga",
     "original_name": "シャドークロス",
     "start_date": "2020-11-12",

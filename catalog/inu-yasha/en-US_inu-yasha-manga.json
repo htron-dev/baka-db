@@ -1,5 +1,9 @@
 {
     "title": "InuYasha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32468.jpg",
+        "alt": "inu-yasha"
+    },
     "type": "manga",
     "volumes": "56",
     "chapters": "558",

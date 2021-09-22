@@ -1,5 +1,9 @@
 {
     "title": "Oretachi wa Koko de Koi wo Suru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/31112.jpg",
+        "alt": "oretachi-wa-koko-de-koi-wo-suru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

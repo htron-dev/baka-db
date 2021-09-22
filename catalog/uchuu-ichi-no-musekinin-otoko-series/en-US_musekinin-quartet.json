@@ -1,5 +1,9 @@
 {
     "title": "Musekinin Quartet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238068.jpg",
+        "alt": "musekinin-quartet"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "40",

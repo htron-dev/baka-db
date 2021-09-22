@@ -1,5 +1,9 @@
 {
     "title": "Miterannee yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176450.jpg",
+        "alt": "miterannee-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

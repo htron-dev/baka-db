@@ -1,12 +1,16 @@
 {
     "title": "Esper Mami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/61395.jpg",
+        "alt": "esper-mami"
+    },
     "type": "tv-serie",
     "episodes": "119",
     "original_name": "エスパー魔美",
     "start_date": "1987-04-07",
     "end_date": "1987-04-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Teleportation: Koi no Mikakunin (テレポーテーション-恋の未確認-)\" by Ushio Hashimoto",
+    "ending_song": "#1: \"Fushigi Angel (不思議 Angel)\" by Ushio Hashimoto",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

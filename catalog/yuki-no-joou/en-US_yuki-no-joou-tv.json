@@ -1,5 +1,9 @@
 {
     "title": "Yuki no Joou (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/26180.jpg",
+        "alt": "yuki-no-joou-tv"
+    },
     "type": "tv-serie",
     "episodes": "36",
     "original_name": "雪の女王",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/The_Snow_Queen_(anime"
+            "link": "http://en.wikipedia.org/wiki/The_Snow_Queen_%28anime%29"
         }
     ]
 }

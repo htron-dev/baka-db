@@ -1,5 +1,9 @@
 {
     "title": "Yamete kudasai, Mabushii desu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160702.jpg",
+        "alt": "yamete-kudasai-mabushii-desu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

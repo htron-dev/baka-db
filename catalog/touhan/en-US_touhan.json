@@ -1,5 +1,9 @@
 {
     "title": "Touhan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/124591.jpg",
+        "alt": "touhan"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "闘飯",

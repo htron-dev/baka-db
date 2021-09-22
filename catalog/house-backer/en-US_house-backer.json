@@ -1,5 +1,9 @@
 {
     "title": "House Backer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247298.jpg",
+        "alt": "house-backer"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

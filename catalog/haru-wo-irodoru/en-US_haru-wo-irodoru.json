@@ -1,5 +1,9 @@
 {
     "title": "Haru wo Irodoru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1715/115406.jpg",
+        "alt": "haru-wo-irodoru"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "春を彩る",

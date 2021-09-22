@@ -1,5 +1,9 @@
 {
     "title": "World Customize Creator",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193979.jpg",
+        "alt": "world-customize-creator"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "81",

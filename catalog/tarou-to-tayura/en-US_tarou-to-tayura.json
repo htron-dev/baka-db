@@ -1,5 +1,9 @@
 {
     "title": "Tarou to Tayura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/173732.jpg",
+        "alt": "tarou-to-tayura"
+    },
     "type": "manga",
     "chapters": "9",
     "original_name": "多朗と多由良",

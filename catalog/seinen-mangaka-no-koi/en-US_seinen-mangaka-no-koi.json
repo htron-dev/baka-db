@@ -1,5 +1,9 @@
 {
     "title": "Seinen Mangaka no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158255.jpg",
+        "alt": "seinen-mangaka-no-koi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "青年漫画家の恋",

@@ -1,5 +1,9 @@
 {
     "title": "Lupin VIII",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/89537.jpg",
+        "alt": "lupin-viii"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ルパン 8 世",

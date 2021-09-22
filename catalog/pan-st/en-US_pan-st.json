@@ -1,5 +1,9 @@
 {
     "title": "PanSt.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194963.jpg",
+        "alt": "pan-st"
+    },
     "type": "manga",
     "original_name": "ぱンすと。",
     "start_date": "2016-10-11",

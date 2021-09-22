@@ -1,5 +1,9 @@
 {
     "title": "Koi no Tsumeato",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2882.jpg",
+        "alt": "koi-no-tsumeato"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

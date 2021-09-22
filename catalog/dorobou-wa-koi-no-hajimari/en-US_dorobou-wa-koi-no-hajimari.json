@@ -1,5 +1,9 @@
 {
     "title": "Dorobou wa Koi no Hajimari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/42816.jpg",
+        "alt": "dorobou-wa-koi-no-hajimari"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

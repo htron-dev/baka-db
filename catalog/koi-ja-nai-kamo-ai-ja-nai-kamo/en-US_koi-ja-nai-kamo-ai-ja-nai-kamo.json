@@ -1,5 +1,9 @@
 {
     "title": "Koi ja Nai Kamo Ai ja Nai Kamo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79489.jpg",
+        "alt": "koi-ja-nai-kamo-ai-ja-nai-kamo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

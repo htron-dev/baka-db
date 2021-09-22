@@ -1,5 +1,9 @@
 {
     "title": "Saikin, Imouto no Yousu ga Chotto Okashiinda ga.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/63283.jpg",
+        "alt": "saikin-imouto-no-yousu-ga-chotto-okashiinda-ga"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "58",

@@ -1,5 +1,9 @@
 {
     "title": "Himena Kamena",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/9963.jpg",
+        "alt": "himena-kamena"
+    },
     "type": "manga",
     "original_name": "ひめなカメナ",
     "tags": [],

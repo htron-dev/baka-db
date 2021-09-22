@@ -1,5 +1,9 @@
 {
     "title": "Samenai Yume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/106721.jpg",
+        "alt": "samenai-yume"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

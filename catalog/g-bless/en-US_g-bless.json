@@ -1,5 +1,9 @@
 {
     "title": "GBless",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/153050.jpg",
+        "alt": "g-bless"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "93",

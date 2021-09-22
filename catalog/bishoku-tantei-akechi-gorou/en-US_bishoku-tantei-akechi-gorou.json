@@ -1,5 +1,9 @@
 {
     "title": "Bishoku Tantei Akechi Gorou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196757.jpg",
+        "alt": "bishoku-tantei-akechi-gorou"
+    },
     "type": "manga",
     "original_name": "美食探偵 明智五郎",
     "start_date": "2015-06-27",

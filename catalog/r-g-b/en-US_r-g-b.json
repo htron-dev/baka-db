@@ -1,5 +1,9 @@
 {
     "title": "R.G.B!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/67729.jpg",
+        "alt": "r-g-b"
+    },
     "type": "manga",
     "original_name": "R・G・B！",
     "tags": [

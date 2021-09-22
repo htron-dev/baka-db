@@ -1,5 +1,9 @@
 {
     "title": "Mahoutsukai no Shinyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/79767.jpg",
+        "alt": "mahoutsukai-no-shinyuu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

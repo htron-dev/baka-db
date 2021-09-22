@@ -1,5 +1,9 @@
 {
     "title": "AKB0048: Episode 0",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/135049.jpg",
+        "alt": "akb-0048-episode-0"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "29",

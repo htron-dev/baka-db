@@ -1,5 +1,9 @@
 {
     "title": "Twinkle Crusaders Go Go!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/29077.jpg",
+        "alt": "twinkle-crusaders-go-go"
+    },
     "type": "manga",
     "original_name": "ティンクル ☆ くるせいだーす Gogo!",
     "start_date": "2009-07-20",

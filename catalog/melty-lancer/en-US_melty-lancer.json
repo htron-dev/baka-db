@@ -1,5 +1,9 @@
 {
     "title": "Melty Lancer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/20564.jpg",
+        "alt": "melty-lancer"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "メルティランサー",

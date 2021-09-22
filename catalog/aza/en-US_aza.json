@@ -1,5 +1,9 @@
 {
     "title": "Aza",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15385.jpg",
+        "alt": "aza"
+    },
     "type": "manga",
     "volumes": "2",
     "tags": [

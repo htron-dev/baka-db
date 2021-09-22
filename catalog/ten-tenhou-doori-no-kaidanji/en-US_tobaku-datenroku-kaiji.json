@@ -1,5 +1,9 @@
 {
     "title": "Tobaku Datenroku Kaiji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/72221.jpg",
+        "alt": "tobaku-datenroku-kaiji"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "131",

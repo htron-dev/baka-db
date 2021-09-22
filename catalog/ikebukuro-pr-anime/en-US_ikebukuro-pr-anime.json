@@ -1,5 +1,9 @@
 {
     "title": "Ikebukuro PR Anime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1280/97009.jpg",
+        "alt": "ikebukuro-pr-anime"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "池袋 PR アニメ",
@@ -20,7 +24,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%95%E3%83%88_(%E3%82%A2%E3%83%8B%E3%83%A1%E5%88%B6%E4%BD%9C%E4%BC%9A%E7%A4%BE"
+            "link": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%95%E3%83%88_%28%E3%82%A2%E3%83%8B%E3%83%A1%E5%88%B6%E4%BD%9C%E4%BC%9A%E7%A4%BE%29"
         }
     ]
 }

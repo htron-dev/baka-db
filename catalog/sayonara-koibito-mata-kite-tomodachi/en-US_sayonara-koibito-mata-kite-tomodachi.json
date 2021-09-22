@@ -1,5 +1,9 @@
 {
     "title": "Sayonara Koibito Mata Kite Tomodachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201078.jpg",
+        "alt": "sayonara-koibito-mata-kite-tomodachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

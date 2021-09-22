@@ -1,5 +1,9 @@
 {
     "title": "Koneko Mata Hiroimashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/197708.jpg",
+        "alt": "koneko-mata-hiroimashita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

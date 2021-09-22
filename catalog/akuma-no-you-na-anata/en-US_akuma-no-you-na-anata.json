@@ -1,5 +1,9 @@
 {
     "title": "Akuma no You na Anata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/41245.jpg",
+        "alt": "akuma-no-you-na-anata"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "悪魔のようなあなた",

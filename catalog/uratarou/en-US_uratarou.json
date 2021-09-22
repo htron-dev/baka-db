@@ -1,5 +1,9 @@
 {
     "title": "Uratarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/187968.jpg",
+        "alt": "uratarou"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "51",

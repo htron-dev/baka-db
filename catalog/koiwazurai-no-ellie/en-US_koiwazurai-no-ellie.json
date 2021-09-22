@@ -1,5 +1,9 @@
 {
     "title": "Koiwazurai no Ellie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168117.jpg",
+        "alt": "koiwazurai-no-ellie"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "48",

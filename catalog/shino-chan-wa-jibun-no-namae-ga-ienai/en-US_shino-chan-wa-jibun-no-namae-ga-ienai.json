@@ -1,5 +1,9 @@
 {
     "title": "Shino-chan wa Jibun no Namae ga Ienai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181384.jpg",
+        "alt": "shino-chan-wa-jibun-no-namae-ga-ienai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

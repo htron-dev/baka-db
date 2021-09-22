@@ -1,5 +1,9 @@
 {
     "title": "Soyokaze-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36242.jpg",
+        "alt": "soyokaze-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

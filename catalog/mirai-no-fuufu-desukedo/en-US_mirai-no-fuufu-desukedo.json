@@ -1,5 +1,9 @@
 {
     "title": "Mirai no Fuufu desukedo?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210501.jpg",
+        "alt": "mirai-no-fuufu-desukedo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "21",

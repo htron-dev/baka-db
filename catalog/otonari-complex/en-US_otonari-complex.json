@@ -1,5 +1,9 @@
 {
     "title": "Otonari Complex",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181140.jpg",
+        "alt": "otonari-complex"
+    },
     "type": "manga",
     "original_name": "おとなりコンプレックス",
     "start_date": "2014-11-13",

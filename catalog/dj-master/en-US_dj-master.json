@@ -1,5 +1,9 @@
 {
     "title": "DJ Master",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14991.jpg",
+        "alt": "dj-master"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "DJ マスター",

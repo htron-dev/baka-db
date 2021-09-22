@@ -1,12 +1,16 @@
 {
     "title": "Wolf's Rain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/59403.jpg",
+        "alt": "wolfs-rain"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ウルフズレイン",
     "start_date": "2003-01-07",
     "end_date": "2003-01-07",
     "opening_song": "\"Stray\" by Steve Conte",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Gravity\" by Maaya Sakamoto",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

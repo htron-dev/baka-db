@@ -1,5 +1,9 @@
 {
     "title": "Genkaku Picasso",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164883.jpg",
+        "alt": "genkaku-picasso"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

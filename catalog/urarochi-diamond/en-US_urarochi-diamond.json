@@ -1,5 +1,9 @@
 {
     "title": "Urarochi Diamond",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/7482.jpg",
+        "alt": "urarochi-diamond"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "裏路地ダイヤモンド",

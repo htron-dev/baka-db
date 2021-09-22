@@ -1,5 +1,9 @@
 {
     "title": "Twin Cross",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28762.jpg",
+        "alt": "twin-cross"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "13",

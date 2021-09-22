@@ -1,5 +1,9 @@
 {
     "title": "Amai, Nigai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246303.jpg",
+        "alt": "amai-nigai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "あまい、にがい",

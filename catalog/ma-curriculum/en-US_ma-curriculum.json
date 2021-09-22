@@ -1,5 +1,9 @@
 {
     "title": "Ma Curriculum!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239778.jpg",
+        "alt": "ma-curriculum"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "魔カリキュラム!",

@@ -1,5 +1,9 @@
 {
     "title": "Anata no Juni Oshiete Kudasai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210951.jpg",
+        "alt": "anata-no-juni-oshiete-kudasai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

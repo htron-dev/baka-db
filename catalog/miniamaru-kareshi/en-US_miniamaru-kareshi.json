@@ -1,5 +1,9 @@
 {
     "title": "Miniamaru Kareshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/219926.jpg",
+        "alt": "miniamaru-kareshi"
+    },
     "type": "manga",
     "original_name": "みにあまる彼氏",
     "start_date": "2018-04-20",

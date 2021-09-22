@@ -1,5 +1,9 @@
 {
     "title": "Sweet Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/80219.jpg",
+        "alt": "sweet-girl"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

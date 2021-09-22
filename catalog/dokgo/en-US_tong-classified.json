@@ -1,8 +1,12 @@
 {
     "title": "Tong: Classified",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222164.jpg",
+        "alt": "tong-classified"
+    },
     "type": "manhwa",
     "volumes": "4",
-    "original_name": "통",
+    "original_name": "통 : 비밀",
     "start_date": "2014-01-19",
     "end_date": "2014-01-19",
     "tags": [

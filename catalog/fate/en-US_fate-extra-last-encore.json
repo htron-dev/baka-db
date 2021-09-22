@@ -1,5 +1,9 @@
 {
     "title": "Fate/Extra: Last Encore",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1122/90836.jpg",
+        "alt": "fate-extra-last-encore"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "Fate/EXTRA Last Encore",

@@ -1,5 +1,9 @@
 {
     "title": "Shin Violence Jack",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203317.jpg",
+        "alt": "shin-violence-jack"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Haru no Kamikaze",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202408.jpg",
+        "alt": "haru-no-kamikaze"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ハルノカミカゼ",

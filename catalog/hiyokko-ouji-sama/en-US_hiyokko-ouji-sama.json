@@ -1,5 +1,9 @@
 {
     "title": "Hiyokko Ouji-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164767.jpg",
+        "alt": "hiyokko-ouji-sama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

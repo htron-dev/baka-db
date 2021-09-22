@@ -1,5 +1,9 @@
 {
     "title": "Nekomi no Kurashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230484.jpg",
+        "alt": "nekomi-no-kurashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "20",

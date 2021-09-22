@@ -1,5 +1,9 @@
 {
     "title": "WXIII Kidou Keisatsu Patlabor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/1290.jpg",
+        "alt": "wxiii-kidou-keisatsu-patlabor"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "WXIII 機動警察パトレイバー",

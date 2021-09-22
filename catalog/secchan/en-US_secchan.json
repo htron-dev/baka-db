@@ -1,5 +1,9 @@
 {
     "title": "Secchan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221867.jpg",
+        "alt": "secchan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

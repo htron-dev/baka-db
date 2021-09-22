@@ -1,5 +1,9 @@
 {
     "title": "Akutou II",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39584.jpg",
+        "alt": "akutou-ii"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

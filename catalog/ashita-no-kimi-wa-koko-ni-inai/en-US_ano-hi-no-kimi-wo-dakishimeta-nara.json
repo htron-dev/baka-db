@@ -1,5 +1,9 @@
 {
     "title": "Ano Hi no Kimi wo Dakishimeta nara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/130107.jpg",
+        "alt": "ano-hi-no-kimi-wo-dakishimeta-nara"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

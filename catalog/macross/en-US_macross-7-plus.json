@@ -1,5 +1,9 @@
 {
     "title": "Macross 7 Plus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/13816.jpg",
+        "alt": "macross-7-plus"
+    },
     "type": "special",
     "episodes": "11",
     "original_name": "マクロス 7 ぷらす",

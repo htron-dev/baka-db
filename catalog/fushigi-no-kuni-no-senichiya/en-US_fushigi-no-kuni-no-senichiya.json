@@ -1,5 +1,9 @@
 {
     "title": "Fushigi no Kuni no Senichiya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32877.jpg",
+        "alt": "fushigi-no-kuni-no-senichiya"
+    },
     "type": "manga",
     "volumes": "11",
     "original_name": "不思議の国の千一夜",

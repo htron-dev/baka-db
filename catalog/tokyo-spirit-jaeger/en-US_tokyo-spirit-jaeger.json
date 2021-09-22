@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Spirit Jaeger",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/125029.jpg",
+        "alt": "tokyo-spirit-jaeger"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "東京スピリット・イエーガー",

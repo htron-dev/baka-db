@@ -1,12 +1,16 @@
 {
     "title": "Monster Musume no Iru Nichijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/75104.jpg",
+        "alt": "monster-musume-no-iru-nichijou"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "モンスター娘のいる日常",
     "start_date": "2015-07-08",
     "end_date": "2015-07-08",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Saikousoku Fall in Love (最高速 Fall in Love)\" by Miia (Sora Amamiya), Papi (Ari Ozawa), Centorea (Natsuki Aikawa), Suu (Mayuka Nomura), Mero (Haruka Yamazaki), Rachnera (Sakura Nakamura) (eps 1-6, 8-11)",
+    "ending_song": "#1: \"Hey! Smith!! (Hey! スミス!!)\" by Sumisu (Yuu Kobayashi) and MON [Zombina (Rei Mochizuki), Manako (Momo Asakura), Tionishia (Yurika Kubo), Doppel (Saori Oonishi)] (eps 1-6, 8-11)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "harem",

@@ -1,5 +1,9 @@
 {
     "title": "Kikoeru?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185067.jpg",
+        "alt": "kikoeru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

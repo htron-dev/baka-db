@@ -1,11 +1,15 @@
 {
     "title": "Seisenshi Dunbine OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1889/93996.jpg",
+        "alt": "seisenshi-dunbine-ova"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "聖戦士ダンバイン",
     "start_date": "1988-02-25",
     "end_date": "1988-02-25",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Last No\" by Midori Karashima",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

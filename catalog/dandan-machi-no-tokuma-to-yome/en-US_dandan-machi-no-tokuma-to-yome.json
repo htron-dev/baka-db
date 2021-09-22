@@ -1,5 +1,9 @@
 {
     "title": "Dandan Machi no Tokuma to Yome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202011.jpg",
+        "alt": "dandan-machi-no-tokuma-to-yome"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

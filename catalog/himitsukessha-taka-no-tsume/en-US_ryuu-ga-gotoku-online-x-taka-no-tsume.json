@@ -1,5 +1,9 @@
 {
     "title": "Ryuu ga Gotoku Online x Taka no Tsume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1821/96234.jpg",
+        "alt": "ryuu-ga-gotoku-online-x-taka-no-tsume"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "『龍が如く ONLINE』×「鷹の爪」",
@@ -22,7 +26,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Yakuza_(series"
+            "link": "https://en.wikipedia.org/wiki/Yakuza_%28series%29#Ryu_ga_Gotoku_Online"
         }
     ]
 }

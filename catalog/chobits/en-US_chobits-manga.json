@@ -1,5 +1,9 @@
 {
     "title": "Chobits",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164969.jpg",
+        "alt": "chobits"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "88",

@@ -1,5 +1,9 @@
 {
     "title": "Worlds",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207555.jpg",
+        "alt": "worlds"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

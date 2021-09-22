@@ -1,5 +1,9 @@
 {
     "title": "Kakushigoto One Room",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223804.jpg",
+        "alt": "kakushigoto-one-room"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

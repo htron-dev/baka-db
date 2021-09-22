@@ -1,5 +1,9 @@
 {
     "title": "Neko Danshi: Nyankee High School",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225411.jpg",
+        "alt": "neko-danshi-nyankee-high-school"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "21",

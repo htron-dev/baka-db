@@ -1,5 +1,9 @@
 {
     "title": "Amanin Shoujo Azuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/18389.jpg",
+        "alt": "amanin-shoujo-azuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

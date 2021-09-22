@@ -1,5 +1,9 @@
 {
     "title": "Samurai Noodles: The Originator",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/81123.jpg",
+        "alt": "samurai-noodles-the-originator"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "SAMURAI NOODLES \"THE ORIGINATOR\"",

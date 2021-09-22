@@ -1,5 +1,9 @@
 {
     "title": "Penguin no Mondai Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/61285.jpg",
+        "alt": "penguin-no-mondai-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版ペンギンの問題 幸せの青い鳥でごペンなさい",

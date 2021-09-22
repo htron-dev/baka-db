@@ -1,5 +1,9 @@
 {
     "title": "Koishirazu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157191.jpg",
+        "alt": "koishirazu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Fukushuu no You ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149839.jpg",
+        "alt": "fukushuu-no-you-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

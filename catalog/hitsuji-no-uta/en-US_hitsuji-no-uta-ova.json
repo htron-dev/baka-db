@@ -1,5 +1,9 @@
 {
     "title": "Hitsuji no Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/18066.jpg",
+        "alt": "hitsuji-no-uta"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "羊のうた",

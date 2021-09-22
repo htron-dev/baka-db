@@ -1,5 +1,9 @@
 {
     "title": "Boku Mushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168915.jpg",
+        "alt": "boku-mushi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "16",

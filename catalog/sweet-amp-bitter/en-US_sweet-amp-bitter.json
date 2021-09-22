@@ -1,5 +1,9 @@
 {
     "title": "Sweet &amp; Bitter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/150101.jpg",
+        "alt": "sweet-amp-bitter"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "Sweet&Bitter",

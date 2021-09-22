@@ -1,5 +1,9 @@
 {
     "title": "Amai Kao wa Misenai de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16768.jpg",
+        "alt": "amai-kao-wa-misenai-de"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

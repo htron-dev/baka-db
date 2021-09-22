@@ -1,5 +1,9 @@
 {
     "title": "Koyamasou no Kiraware Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28230.jpg",
+        "alt": "koyamasou-no-kiraware-mono"
+    },
     "type": "manga",
     "volumes": "7",
     "tags": [

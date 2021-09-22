@@ -1,5 +1,9 @@
 {
     "title": "Hajimete no Gal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/86826.jpg",
+        "alt": "hajimete-no-gal"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "はじめてのギャル",

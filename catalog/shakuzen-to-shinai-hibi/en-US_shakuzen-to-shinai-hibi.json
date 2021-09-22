@@ -1,5 +1,9 @@
 {
     "title": "Shakuzen to Shinai Hibi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175155.jpg",
+        "alt": "shakuzen-to-shinai-hibi"
+    },
     "type": "manga",
     "original_name": "釈然としない日々",
     "start_date": "2014-09-05",

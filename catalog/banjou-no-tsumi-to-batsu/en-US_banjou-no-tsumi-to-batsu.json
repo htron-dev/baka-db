@@ -1,5 +1,9 @@
 {
     "title": "Banjou no Tsumi to Batsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/144469.jpg",
+        "alt": "banjou-no-tsumi-to-batsu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

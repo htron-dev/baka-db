@@ -1,5 +1,9 @@
 {
     "title": "Shouten!: Sennyuu Agent - Okasareta Yawahada",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199328.jpg",
+        "alt": "shouten-sennyuu-agent-okasareta-yawahada"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "昇天！　潜入エージェント　犯された柔肌",

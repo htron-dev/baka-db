@@ -1,12 +1,16 @@
 {
     "title": "Shichisei no Subaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1956/94914.jpg",
+        "alt": "shichisei-no-subaru"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "七星のスバル",
     "start_date": "2018-07-06",
     "end_date": "2018-07-06",
     "opening_song": "\"360° Hoshi no Orchestra (360° 星のオーケストラ)\" by petit milady (eps 2-7, 9-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"360° Hoshi no Orchestra (360° 星のオーケストラ)\" by petit milady (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

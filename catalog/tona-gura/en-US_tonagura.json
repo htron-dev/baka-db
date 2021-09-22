@@ -1,5 +1,9 @@
 {
     "title": "Tonagura!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/1218.jpg",
+        "alt": "tonagura"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "となグラ！",

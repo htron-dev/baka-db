@@ -1,12 +1,16 @@
 {
     "title": "Cardfight!! Vanguard G: Stride Gate-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/80198.jpg",
+        "alt": "cardfight-vanguard-g-stride-gate-hen"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "カードファイト!! ヴァンガード G ストライドゲート編",
     "start_date": "2016-04-17",
     "end_date": "2016-04-17",
     "opening_song": "\"SHOUT!\" by Mamoru Miyano",
-    "ending_song": "#1",
+    "ending_song": "#1: \"High Touch☆Memory (ハイタッチ ☆ メモリー)\" by Yui Ogura (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

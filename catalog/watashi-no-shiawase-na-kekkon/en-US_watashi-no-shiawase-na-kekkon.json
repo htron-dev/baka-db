@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Shiawase na Kekkon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223940.jpg",
+        "alt": "watashi-no-shiawase-na-kekkon"
+    },
     "type": "manga",
     "original_name": "わたしの幸せな結婚",
     "start_date": "2018-12-20",

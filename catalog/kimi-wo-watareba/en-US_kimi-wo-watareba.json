@@ -1,5 +1,9 @@
 {
     "title": "Kimi wo Watareba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/19443.jpg",
+        "alt": "kimi-wo-watareba"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Inochi Mijikashi, Koiseyo Furyou Shounen!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151979.jpg",
+        "alt": "inochi-mijikashi-koiseyo-furyou-shounen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Satsubatsu Share Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181339.jpg",
+        "alt": "satsubatsu-share-life"
+    },
     "type": "manga",
     "original_name": "殺伐シェアライフ",
     "start_date": "2015-11-27",

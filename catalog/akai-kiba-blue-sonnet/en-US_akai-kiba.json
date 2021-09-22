@@ -1,5 +1,9 @@
 {
     "title": "Akai Kiba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/17903.jpg",
+        "alt": "akai-kiba"
+    },
     "type": "manga",
     "volumes": "19",
     "original_name": "紅い牙 ブルーソネット",

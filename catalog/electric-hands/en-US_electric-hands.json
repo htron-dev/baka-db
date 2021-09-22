@@ -1,5 +1,9 @@
 {
     "title": "Electric Hands",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30584.jpg",
+        "alt": "electric-hands"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

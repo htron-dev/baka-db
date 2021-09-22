@@ -1,5 +1,9 @@
 {
     "title": "Henko-chan ni Naritakute",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167209.jpg",
+        "alt": "henko-chan-ni-naritakute"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

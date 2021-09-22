@@ -1,5 +1,9 @@
 {
     "title": "Cao Jingling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1323/115574.jpg",
+        "alt": "cao-jingling"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "草精灵",

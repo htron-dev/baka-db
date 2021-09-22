@@ -1,5 +1,9 @@
 {
     "title": "Torineko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151727.jpg",
+        "alt": "torineko"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "とりねこ",

@@ -1,5 +1,9 @@
 {
     "title": "Vampiyan Kids",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/22088.jpg",
+        "alt": "vampiyan-kids"
+    },
     "type": "tv-serie",
     "episodes": "23",
     "original_name": "バンパイヤン・キッズ",

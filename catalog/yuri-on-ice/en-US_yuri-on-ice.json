@@ -1,5 +1,9 @@
 {
     "title": "Yuri!!! on Ice",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/81149.jpg",
+        "alt": "yuri-on-ice"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ユーリ!!! on ICE",

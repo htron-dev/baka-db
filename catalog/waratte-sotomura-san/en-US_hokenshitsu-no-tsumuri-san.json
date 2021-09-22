@@ -1,5 +1,9 @@
 {
     "title": "Hokenshitsu no Tsumuri-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/220717.jpg",
+        "alt": "hokenshitsu-no-tsumuri-san"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "36",

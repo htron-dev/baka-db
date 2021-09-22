@@ -1,5 +1,9 @@
 {
     "title": "Madan no Shashu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/7628.jpg",
+        "alt": "madan-no-shashu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "魔弾の射手",

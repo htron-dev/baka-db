@@ -1,5 +1,9 @@
 {
     "title": "Tian Yi Que",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1029/110314.jpg",
+        "alt": "tian-yi-que"
+    },
     "type": "ona",
     "original_name": "天一阙",
     "rating": "None",

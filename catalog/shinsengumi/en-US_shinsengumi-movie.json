@@ -1,5 +1,9 @@
 {
     "title": "Shinsengumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1331/99380.jpg",
+        "alt": "shinsengumi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "新撰組",

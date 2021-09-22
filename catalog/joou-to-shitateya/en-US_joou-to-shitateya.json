@@ -1,5 +1,9 @@
 {
     "title": "Joou to Shitateya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186508.jpg",
+        "alt": "joou-to-shitateya"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

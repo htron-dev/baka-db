@@ -1,5 +1,9 @@
 {
     "title": "Fantastic Children",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/77062.jpg",
+        "alt": "fantastic-children"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ファンタジックチルドレン",

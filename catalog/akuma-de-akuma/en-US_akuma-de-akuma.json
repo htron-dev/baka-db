@@ -1,5 +1,9 @@
 {
     "title": "Akuma de Akuma!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152332.jpg",
+        "alt": "akuma-de-akuma"
+    },
     "type": "light-novel",
     "original_name": "あくまで悪魔!",
     "start_date": "2014-08-30",

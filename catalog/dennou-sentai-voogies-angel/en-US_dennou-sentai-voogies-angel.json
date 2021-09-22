@@ -1,12 +1,16 @@
 {
     "title": "Dennou Sentai Voogie's★Angel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/75160.jpg",
+        "alt": "dennou-sentai-voogies★-angel"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "電脳戦隊ヴギィ'ズ ★ エンジェル",
     "start_date": "1997-07-24",
     "end_date": "1997-07-24",
     "opening_song": "\"Motto Motto Radical Fight! (もっともっと Radical Fight!)\" by Kikuko Inoue, Sakura Tange, Angels, Kotono Mitsuishi, Shiho Kikuchi, Hisakawa Aya, Hisakawa Aya",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ganbare! Otoko no Ko (がんばれ!男の子)\" by Cherish ♥ Monkey (ちぇりっしゅ ♥ もんきー) (Sakura Tange and Shiho Kikuchi) (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

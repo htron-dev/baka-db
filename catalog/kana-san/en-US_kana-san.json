@@ -1,5 +1,9 @@
 {
     "title": "Kana-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/100911.jpg",
+        "alt": "kana-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

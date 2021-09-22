@@ -1,5 +1,9 @@
 {
     "title": "Cherry Boy, That Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/127473.jpg",
+        "alt": "cherry-boy-that-girl"
+    },
     "type": "manhwa",
     "chapters": "110",
     "original_name": "체리보이, 그녀",

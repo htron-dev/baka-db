@@ -1,5 +1,9 @@
 {
     "title": "Rororro!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207455.jpg",
+        "alt": "rororro"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "131",

@@ -1,5 +1,9 @@
 {
     "title": "Minami no Niji no Lucy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1769/102083.jpg",
+        "alt": "minami-no-niji-no-lucy"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "南の虹のルーシー",

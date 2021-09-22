@@ -1,5 +1,9 @@
 {
     "title": "Ace Maid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/95333.jpg",
+        "alt": "ace-maid"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "14",

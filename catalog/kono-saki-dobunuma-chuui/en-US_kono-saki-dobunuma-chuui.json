@@ -1,5 +1,9 @@
 {
     "title": "Kono Saki, Dobunuma Chuui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/216401.jpg",
+        "alt": "kono-saki-dobunuma-chuui"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

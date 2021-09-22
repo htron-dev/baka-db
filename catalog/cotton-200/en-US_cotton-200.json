@@ -1,5 +1,9 @@
 {
     "title": "Cotton 200%",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11463.jpg",
+        "alt": "cotton-200"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "コットン 200％",

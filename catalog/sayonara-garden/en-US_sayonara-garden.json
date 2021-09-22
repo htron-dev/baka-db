@@ -1,5 +1,9 @@
 {
     "title": "Sayonara Garden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/143347.jpg",
+        "alt": "sayonara-garden"
+    },
     "type": "manga",
     "original_name": "さよならガーデン",
     "start_date": "2014-09-05",

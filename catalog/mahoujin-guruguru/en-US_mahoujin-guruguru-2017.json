@@ -1,12 +1,16 @@
 {
     "title": "Mahoujin Guruguru (2017)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1880/103168.jpg",
+        "alt": "mahoujin-guruguru-2017"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "魔法陣グルグル",
     "start_date": "2017-07-11",
     "end_date": "2017-07-11",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Trip Trip Trip\" by ORESAMA (eps 1-7, 9-11, 13-16)",
+    "ending_song": "#1: \"Round&Round&Round\" by TECHNOBOYS PULCRAFT GREEN-FUND feat. Bonjour Suzuki (eps 1, 3-16)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

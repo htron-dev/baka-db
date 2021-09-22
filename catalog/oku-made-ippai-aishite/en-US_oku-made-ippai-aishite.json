@@ -1,5 +1,9 @@
 {
     "title": "Oku made Ippai Aishite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193817.jpg",
+        "alt": "oku-made-ippai-aishite"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

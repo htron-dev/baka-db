@@ -1,5 +1,9 @@
 {
     "title": "Sekilala Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/70011.jpg",
+        "alt": "sekilala-kanojo"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "セキララ彼女",

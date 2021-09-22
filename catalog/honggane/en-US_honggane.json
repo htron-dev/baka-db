@@ -1,5 +1,9 @@
 {
     "title": "Honggane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/4576.jpg",
+        "alt": "honggane"
+    },
     "type": "manhwa",
     "volumes": "11",
     "chapters": "56",

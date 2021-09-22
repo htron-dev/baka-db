@@ -1,5 +1,9 @@
 {
     "title": "Doko ga Ikenai!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35916.jpg",
+        "alt": "doko-ga-ikenai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

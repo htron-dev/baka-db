@@ -1,12 +1,16 @@
 {
     "title": "Kamisama ni Natta Hi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1396/109465.jpg",
+        "alt": "kamisama-ni-natta-hi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "神様になった日",
     "start_date": "2020-10-11",
     "end_date": "2020-10-11",
     "opening_song": "\"Kimi to Iu Shinwa (君という神話)\" by Jun Maeda x Nagi Yanagi (eps 1-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Goodbye Seven Seas\" by Jun Maeda x Nagi Yanagi (eps 1-4, 6-8, 10-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

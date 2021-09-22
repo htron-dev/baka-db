@@ -1,5 +1,9 @@
 {
     "title": "Suki ni Natte wa Ikenai Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164104.jpg",
+        "alt": "suki-ni-natte-wa-ikenai-hito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

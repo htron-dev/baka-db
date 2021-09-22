@@ -1,5 +1,9 @@
 {
     "title": "Tenkousei Jinno Murasaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/77683.jpg",
+        "alt": "tenkousei-jinno-murasaki"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "30",

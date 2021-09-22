@@ -1,5 +1,9 @@
 {
     "title": "Love Buzz",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/101639.jpg",
+        "alt": "love-buzz"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "28",

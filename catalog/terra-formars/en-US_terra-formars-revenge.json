@@ -1,12 +1,16 @@
 {
     "title": "Terra Formars: Revenge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/78566.jpg",
+        "alt": "terra-formars-revenge"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "テラフォーマーズ リベンジ",
     "start_date": "2016-04-02",
     "end_date": "2016-04-02",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kouryoutaru Shinsekai (荒涼たる新世界)\" by Seikima-II (eps 1-4, 7, 10, 12)",
+    "ending_song": "#1: \"Red Zone\" by Zwei (eps 1-3, 9)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

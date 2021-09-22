@@ -1,5 +1,9 @@
 {
     "title": "Himitsu no Shinsengumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177226.jpg",
+        "alt": "himitsu-no-shinsengumi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

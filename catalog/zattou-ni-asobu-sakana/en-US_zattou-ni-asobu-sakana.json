@@ -1,5 +1,9 @@
 {
     "title": "Zattou ni Asobu Sakana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182332.jpg",
+        "alt": "zattou-ni-asobu-sakana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

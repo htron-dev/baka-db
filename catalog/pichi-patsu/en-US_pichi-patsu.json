@@ -1,5 +1,9 @@
 {
     "title": "Pichi Patsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239908.jpg",
+        "alt": "pichi-patsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

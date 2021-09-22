@@ -1,5 +1,9 @@
 {
     "title": "Itoshi no Kana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/1087.jpg",
+        "alt": "itoshi-no-kana"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

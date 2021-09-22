@@ -1,5 +1,9 @@
 {
     "title": "Little Busters! Noumi Kudryavka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/90947.jpg",
+        "alt": "little-busters-noumi-kudryavka"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

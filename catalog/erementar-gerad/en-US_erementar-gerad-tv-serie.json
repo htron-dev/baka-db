@@ -1,12 +1,16 @@
 {
     "title": "Erementar Gerad",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/79163.jpg",
+        "alt": "erementar-gerad"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "エレメンタルジェレイド",
     "start_date": "2005-04-05",
     "end_date": "2005-04-05",
     "opening_song": "\"Forever...\" by Savage Genius",
-    "ending_song": "#1",
+    "ending_song": "#1: \"約束 (Yakusoku)\" by Kuroda Michihiro",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

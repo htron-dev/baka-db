@@ -1,5 +1,9 @@
 {
     "title": "Otona Joshi no Anime Time",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/28531.jpg",
+        "alt": "otona-joshi-no-anime-time"
+    },
     "type": "special",
     "episodes": "4",
     "original_name": "大人女子のアニメタイム",

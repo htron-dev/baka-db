@@ -1,5 +1,9 @@
 {
     "title": "Urami-san wa Kyou mo Ayaui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/221795.jpg",
+        "alt": "urami-san-wa-kyou-mo-ayaui"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

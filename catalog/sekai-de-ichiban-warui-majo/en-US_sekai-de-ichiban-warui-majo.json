@@ -1,5 +1,9 @@
 {
     "title": "Sekai de Ichiban Warui Majo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186991.jpg",
+        "alt": "sekai-de-ichiban-warui-majo"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "28",

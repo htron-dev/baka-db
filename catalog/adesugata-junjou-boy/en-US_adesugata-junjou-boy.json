@@ -1,5 +1,9 @@
 {
     "title": "Adesugata Junjou Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/121347.jpg",
+        "alt": "adesugata-junjou-boy"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "35",

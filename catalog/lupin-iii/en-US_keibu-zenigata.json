@@ -1,5 +1,9 @@
 {
     "title": "Keibu Zenigata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172507.jpg",
+        "alt": "keibu-zenigata"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "21",

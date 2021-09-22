@@ -1,12 +1,16 @@
 {
     "title": "Maken-Ki!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/75234.jpg",
+        "alt": "maken-ki"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "マケン姫っ！",
     "start_date": "2011-10-05",
     "end_date": "2011-10-05",
     "opening_song": "\"Fly Away\" by Misuzu Togashi",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Baby! Baby!\" by Noriko Shitaya & Iori Nomizu (ep 1)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

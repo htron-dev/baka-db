@@ -1,5 +1,9 @@
 {
     "title": "Renai Mangaka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181537.jpg",
+        "alt": "renai-mangaka"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "50",

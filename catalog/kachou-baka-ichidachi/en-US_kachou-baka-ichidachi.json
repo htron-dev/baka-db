@@ -1,5 +1,9 @@
 {
     "title": "Kachou Baka Ichidachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/28698.jpg",
+        "alt": "kachou-baka-ichidachi"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "課長バカ一代",

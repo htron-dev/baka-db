@@ -1,5 +1,9 @@
 {
     "title": "Futaribocchi Sensou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/200322.jpg",
+        "alt": "futaribocchi-sensou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

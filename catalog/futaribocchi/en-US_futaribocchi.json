@@ -1,5 +1,9 @@
 {
     "title": "Futaribocchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/95461.jpg",
+        "alt": "futaribocchi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ふたりぼっち",

@@ -1,5 +1,9 @@
 {
     "title": "Usakame",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/79223.jpg",
+        "alt": "usakame"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "うさかめ",

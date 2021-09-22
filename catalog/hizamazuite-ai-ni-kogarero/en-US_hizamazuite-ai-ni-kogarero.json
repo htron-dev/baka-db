@@ -1,5 +1,9 @@
 {
     "title": "Hizamazuite Ai ni Kogarero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/90383.jpg",
+        "alt": "hizamazuite-ai-ni-kogarero"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

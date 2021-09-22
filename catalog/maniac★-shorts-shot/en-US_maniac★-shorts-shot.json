@@ -1,5 +1,9 @@
 {
     "title": "Maniac★Shorts-Shot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29786.jpg",
+        "alt": "maniac★-shorts-shot"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

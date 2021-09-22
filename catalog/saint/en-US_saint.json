@@ -1,5 +1,9 @@
 {
     "title": "Saint",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24857.jpg",
+        "alt": "saint"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "12",

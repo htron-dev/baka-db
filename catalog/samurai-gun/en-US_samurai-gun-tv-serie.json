@@ -1,12 +1,16 @@
 {
     "title": "Samurai Gun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/3796.jpg",
+        "alt": "samurai-gun"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "サムライガン",
     "start_date": "2004-10-04",
     "end_date": "2004-10-04",
     "opening_song": "\"SAMURAI CREW\" by ZZ",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Ienai Kotoba (いえないコトバ)\" by Aiko Kayo (eps 1-11)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

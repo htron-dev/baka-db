@@ -1,5 +1,9 @@
 {
     "title": "Ilegenes: Kokuyou no Kiseki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14440.jpg",
+        "alt": "ilegenes-kokuyou-no-kiseki"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "30",

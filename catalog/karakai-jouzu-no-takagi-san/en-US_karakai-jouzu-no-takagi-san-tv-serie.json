@@ -1,12 +1,16 @@
 {
     "title": "Karakai Jouzu no Takagi-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1591/95091.jpg",
+        "alt": "karakai-jouzu-no-takagi-san"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "からかい上手の高木さん",
     "start_date": "2018-01-08",
     "end_date": "2018-01-08",
     "opening_song": "\"Iwanai kedo ne. (言わないけどね.)\" by Yuiko Oohara",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kimagure Romantic (気まぐれロマンティック)\" by Takagi-san (Rie Takahashi) (eps 1-2)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

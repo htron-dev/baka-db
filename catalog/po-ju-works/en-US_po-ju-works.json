@@ -1,5 +1,9 @@
 {
     "title": "Po-ju Works",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31091.jpg",
+        "alt": "po-ju-works"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

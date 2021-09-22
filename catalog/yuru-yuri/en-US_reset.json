@@ -1,5 +1,9 @@
 {
     "title": "Reset!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/45937.jpg",
+        "alt": "reset"
+    },
     "type": "manga",
     "original_name": "りせっと！",
     "start_date": "2010-07-24",

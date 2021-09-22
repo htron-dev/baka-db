@@ -1,5 +1,9 @@
 {
     "title": "Kaikan♥Phrase",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/81.jpg",
+        "alt": "kaikan♥-phrase"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "83",

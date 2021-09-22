@@ -1,5 +1,9 @@
 {
     "title": "On the Table",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1842/98176.jpg",
+        "alt": "on-the-table"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "on the table",

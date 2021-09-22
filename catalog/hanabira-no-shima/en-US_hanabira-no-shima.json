@@ -1,5 +1,9 @@
 {
     "title": "Hanabira no Shima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176181.jpg",
+        "alt": "hanabira-no-shima"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "25",

@@ -1,5 +1,9 @@
 {
     "title": "Mitsuwano",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/118391.jpg",
+        "alt": "mitsuwano"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

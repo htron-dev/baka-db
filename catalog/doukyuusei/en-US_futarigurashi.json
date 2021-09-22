@@ -1,5 +1,9 @@
 {
     "title": "Futarigurashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239603.jpg",
+        "alt": "futarigurashi"
+    },
     "type": "manga",
     "original_name": "ふたりぐらし",
     "start_date": "2020-12-28",

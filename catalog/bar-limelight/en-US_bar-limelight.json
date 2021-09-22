@@ -1,5 +1,9 @@
 {
     "title": "Bar Limelight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24528.jpg",
+        "alt": "bar-limelight"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "76",

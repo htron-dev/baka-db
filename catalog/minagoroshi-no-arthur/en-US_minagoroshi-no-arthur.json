@@ -1,5 +1,9 @@
 {
     "title": "Minagoroshi no Arthur",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228102.jpg",
+        "alt": "minagoroshi-no-arthur"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "34",

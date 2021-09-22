@@ -1,5 +1,9 @@
 {
     "title": "Lupin III: Kiri no Elusive",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/34793.jpg",
+        "alt": "lupin-iii-kiri-no-elusive"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ルパン三世 霧のエリューシヴ",

@@ -1,5 +1,9 @@
 {
     "title": "Wanitokagegisu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/213017.jpg",
+        "alt": "wanitokagegisu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "44",

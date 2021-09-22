@@ -1,5 +1,9 @@
 {
     "title": "Fate/Grand Order: Moonlight/Lostroom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/89976.jpg",
+        "alt": "fate-grand-order-moonlight-lostroom"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "Fate/Grand Order -MOONLIGHT/LOSTROOM-",

@@ -1,5 +1,9 @@
 {
     "title": "Okubyoumono ni Ai no Te wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/66939.jpg",
+        "alt": "okubyoumono-ni-ai-no-te-wo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

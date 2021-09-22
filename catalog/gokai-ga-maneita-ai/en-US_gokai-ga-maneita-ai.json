@@ -1,5 +1,9 @@
 {
     "title": "Gokai ga Maneita Ai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39381.jpg",
+        "alt": "gokai-ga-maneita-ai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

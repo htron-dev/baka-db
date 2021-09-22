@@ -1,5 +1,9 @@
 {
     "title": "Hula Kappa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/80771.jpg",
+        "alt": "hula-kappa"
+    },
     "type": "tv-serie",
     "episodes": "78",
     "original_name": "フラカッパー",

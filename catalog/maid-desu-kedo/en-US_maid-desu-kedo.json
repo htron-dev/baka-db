@@ -1,5 +1,9 @@
 {
     "title": "Maid desu kedo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200630.jpg",
+        "alt": "maid-desu-kedo"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

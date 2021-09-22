@@ -1,5 +1,9 @@
 {
     "title": "Junjou Karen na Oretachi da!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23825.jpg",
+        "alt": "junjou-karen-na-oretachi-da"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

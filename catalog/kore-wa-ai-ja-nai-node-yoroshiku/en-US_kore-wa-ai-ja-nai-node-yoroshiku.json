@@ -1,5 +1,9 @@
 {
     "title": "Kore wa Ai ja Nai node, Yoroshiku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192632.jpg",
+        "alt": "kore-wa-ai-ja-nai-node-yoroshiku"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "22",

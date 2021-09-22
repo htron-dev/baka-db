@@ -1,5 +1,9 @@
 {
     "title": "Dragon Ball Super: Broly",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1575/93498.jpg",
+        "alt": "dragon-ball-super-broly"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ドラゴンボール超（スーパー） ブロリー",

@@ -1,5 +1,9 @@
 {
     "title": "Kisei Juui Suzune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/92651.jpg",
+        "alt": "kisei-juui-suzune"
+    },
     "type": "manga",
     "original_name": "寄性獣医・鈴音",
     "start_date": "2004-12-14",

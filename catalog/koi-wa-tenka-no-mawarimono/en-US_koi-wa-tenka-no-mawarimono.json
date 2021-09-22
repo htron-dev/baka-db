@@ -1,5 +1,9 @@
 {
     "title": "Koi wa Tenka no Mawarimono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/21513.jpg",
+        "alt": "koi-wa-tenka-no-mawarimono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

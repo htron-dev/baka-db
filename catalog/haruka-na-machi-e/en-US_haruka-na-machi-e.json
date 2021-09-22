@@ -1,5 +1,9 @@
 {
     "title": "Haruka na Machi e",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/68119.jpg",
+        "alt": "haruka-na-machi-e"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

@@ -1,5 +1,9 @@
 {
     "title": "D.I.C.E.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/2523.jpg",
+        "alt": "d-i-c-e"
+    },
     "type": "tv-serie",
     "episodes": "40",
     "original_name": "ディノブレイカー",

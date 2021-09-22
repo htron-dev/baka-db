@@ -1,5 +1,9 @@
 {
     "title": "Love Trivia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2661.jpg",
+        "alt": "love-trivia"
+    },
     "type": "manga",
     "volumes": "1",
     "tags": [

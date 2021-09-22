@@ -1,5 +1,9 @@
 {
     "title": "Usoyoi Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196271.jpg",
+        "alt": "usoyoi-shoujo"
+    },
     "type": "manga",
     "original_name": "嘘酔い少女",
     "start_date": "2016-11-06",

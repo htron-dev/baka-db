@@ -1,5 +1,9 @@
 {
     "title": "Eiyuu Kyoushitsu: Girl's Mission",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238496.jpg",
+        "alt": "eiyuu-kyoushitsu-girls-mission"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Fake Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163634.jpg",
+        "alt": "fake-game"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "フェイクゲーム",

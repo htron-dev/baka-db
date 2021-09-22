@@ -1,5 +1,9 @@
 {
     "title": "LuCu LuCu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/26174.jpg",
+        "alt": "lu-cu-lu-cu"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "90",

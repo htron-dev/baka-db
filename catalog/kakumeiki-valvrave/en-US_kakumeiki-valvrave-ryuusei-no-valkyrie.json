@@ -1,5 +1,9 @@
 {
     "title": "Kakumeiki Valvrave: Ryuusei no Valkyrie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/114015.jpg",
+        "alt": "kakumeiki-valvrave-ryuusei-no-valkyrie"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

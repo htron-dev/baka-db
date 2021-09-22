@@ -1,5 +1,9 @@
 {
     "title": "I Wanna Be Your Friend",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1419/110747.jpg",
+        "alt": "i-wanna-be-your-friend"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "I Wanna Be Your Friend",

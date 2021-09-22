@@ -1,5 +1,9 @@
 {
     "title": "Makaido",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/25024.jpg",
+        "alt": "makaido"
+    },
     "type": "manga",
     "original_name": "マカイど～",
     "tags": [

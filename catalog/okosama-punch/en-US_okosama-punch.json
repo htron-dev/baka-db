@@ -1,5 +1,9 @@
 {
     "title": "Okosama Punch!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247868.jpg",
+        "alt": "okosama-punch"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

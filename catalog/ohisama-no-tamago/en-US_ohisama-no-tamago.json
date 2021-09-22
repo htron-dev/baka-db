@@ -1,5 +1,9 @@
 {
     "title": "Ohisama no Tamago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/130279.jpg",
+        "alt": "ohisama-no-tamago"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

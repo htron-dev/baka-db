@@ -1,5 +1,9 @@
 {
     "title": "Futoukou no Nichijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192101.jpg",
+        "alt": "futoukou-no-nichijou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "37",

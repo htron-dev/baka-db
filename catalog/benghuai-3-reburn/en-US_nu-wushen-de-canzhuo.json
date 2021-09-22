@@ -1,12 +1,16 @@
 {
     "title": "Nu Wushen de Canzhuo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1441/102035.jpg",
+        "alt": "nu-wushen-de-canzhuo"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "女武神的餐桌",
     "start_date": "2019-06-28",
     "end_date": "2019-06-28",
     "opening_song": "\"Taste of home\" by Kiana Kaslana (Rie Kugimiya), Mei Raiden (Miyuki Sawashiro), Bronya Zaychik (Kana Asumi), Himeko Murata (Rie Tanaka) (Japanese broadcast)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Lil' Dash of Love\" by Luna Safari (eps 1-7, 9)",
     "rating": "PG - Children",
     "tags": [
         "slice-of-life",

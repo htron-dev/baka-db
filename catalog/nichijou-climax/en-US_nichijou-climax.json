@@ -1,5 +1,9 @@
 {
     "title": "Nichijou Climax",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/220824.jpg",
+        "alt": "nichijou-climax"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

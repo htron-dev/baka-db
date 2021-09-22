@@ -1,5 +1,9 @@
 {
     "title": "Outen no Mon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/123551.jpg",
+        "alt": "outen-no-mon"
+    },
     "type": "manga",
     "original_name": "応天の門",
     "start_date": "2013-10-21",

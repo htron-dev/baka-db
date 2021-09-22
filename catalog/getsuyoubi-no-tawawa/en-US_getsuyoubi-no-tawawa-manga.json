@@ -1,5 +1,9 @@
 {
     "title": "Getsuyoubi no Tawawa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243101.jpg",
+        "alt": "getsuyoubi-no-tawawa"
+    },
     "type": "manga",
     "original_name": "月曜日のたわわ",
     "start_date": "2020-11-16",

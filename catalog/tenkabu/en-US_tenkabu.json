@@ -1,5 +1,9 @@
 {
     "title": "Tenkabu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225454.jpg",
+        "alt": "tenkabu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

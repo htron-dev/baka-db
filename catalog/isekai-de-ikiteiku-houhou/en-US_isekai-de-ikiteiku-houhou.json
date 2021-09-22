@@ -1,5 +1,9 @@
 {
     "title": "Isekai de Ikiteiku Houhou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215995.jpg",
+        "alt": "isekai-de-ikiteiku-houhou"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "異世界で生きていく方法",

@@ -1,5 +1,9 @@
 {
     "title": "Clear Qualia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/47965.jpg",
+        "alt": "clear-qualia"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

@@ -1,12 +1,16 @@
 {
     "title": "\"Bungaku Shoujo\" Memoire",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/26770.jpg",
+        "alt": "bungaku-shoujo-memoire"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "“文学少女”メモワール",
     "start_date": "2010-06-25",
     "end_date": "2010-06-25",
     "opening_song": "\"Musou Garden (夢想庭園)\" by CooRie",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kotonoha (言の葉)\" by KOKIA (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

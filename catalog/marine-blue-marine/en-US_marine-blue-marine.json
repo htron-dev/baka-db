@@ -1,5 +1,9 @@
 {
     "title": "Marine Blue Marine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/38987.jpg",
+        "alt": "marine-blue-marine"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "マリン・ブルー・マリン",

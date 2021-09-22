@@ -1,5 +1,9 @@
 {
     "title": "Vividred Operation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/117147.jpg",
+        "alt": "vividred-operation"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

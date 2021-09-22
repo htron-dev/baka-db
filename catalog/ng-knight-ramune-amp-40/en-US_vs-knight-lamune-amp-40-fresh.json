@@ -1,12 +1,16 @@
 {
     "title": "VS Knight Lamune &amp; 40 Fresh",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1628/94357.jpg",
+        "alt": "vs-knight-lamune-amp-40-fresh"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "VS 騎士ラムネ＆40FRESH",
     "start_date": "1997-05-21",
     "end_date": "1997-05-21",
     "opening_song": "\"Miracle Body ni Goyoujin! (ミラクル・ボディに御用心!)\" by Hikami Kyoko & Miyamura Yuko",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Sendo ga Kimete (鮮度が決め手!)\" by Chisa Yokoyama, Sakiko Tamagawa, and Naoko Matsui (eps 1-3)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "adventure",

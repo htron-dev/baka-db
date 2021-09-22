@@ -1,5 +1,9 @@
 {
     "title": "Ao no Orchestra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199906.jpg",
+        "alt": "ao-no-orchestra"
+    },
     "type": "manga",
     "original_name": "青のオーケストラ",
     "start_date": "2017-04-25",

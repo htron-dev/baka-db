@@ -1,5 +1,9 @@
 {
     "title": "Utsunomiko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/12811.jpg",
+        "alt": "utsunomiko"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "宇宙皇子",

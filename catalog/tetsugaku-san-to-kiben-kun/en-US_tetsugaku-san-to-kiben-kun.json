@@ -1,5 +1,9 @@
 {
     "title": "Tetsugaku-san to Kiben-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192095.jpg",
+        "alt": "tetsugaku-san-to-kiben-kun"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "23",

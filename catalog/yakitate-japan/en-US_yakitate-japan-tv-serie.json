@@ -1,12 +1,16 @@
 {
     "title": "Yakitate!! Japan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/76432.jpg",
+        "alt": "yakitate-japan"
+    },
     "type": "tv-serie",
     "episodes": "69",
     "original_name": "焼きたて!! ジャぱん",
     "start_date": "2004-10-12",
     "end_date": "2004-10-12",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Houkigumo\" by RYTHEM (eps 1-29)",
+    "ending_song": "#1: \"Sunday\" by The Babystars (eps 01-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

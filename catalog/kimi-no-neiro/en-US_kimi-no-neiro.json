@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Neiro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39119.jpg",
+        "alt": "kimi-no-neiro"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

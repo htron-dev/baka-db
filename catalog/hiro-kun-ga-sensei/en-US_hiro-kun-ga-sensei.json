@@ -1,5 +1,9 @@
 {
     "title": "Hiro-kun ga Sensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/233387.jpg",
+        "alt": "hiro-kun-ga-sensei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

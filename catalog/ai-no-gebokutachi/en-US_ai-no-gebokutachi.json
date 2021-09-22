@@ -1,5 +1,9 @@
 {
     "title": "Ai no Gebokutachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/81888.jpg",
+        "alt": "ai-no-gebokutachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

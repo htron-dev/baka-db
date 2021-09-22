@@ -1,5 +1,9 @@
 {
     "title": "Daigishi no Ichizoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154731.jpg",
+        "alt": "daigishi-no-ichizoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

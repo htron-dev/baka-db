@@ -1,5 +1,9 @@
 {
     "title": "Tensai? Dr. Hamax",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/74919.jpg",
+        "alt": "tensai-dr-hamax"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "天才？Dr.ハマックス",

@@ -1,5 +1,9 @@
 {
     "title": "Yuusei Koukou Tenmon-bu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1333/113884.jpg",
+        "alt": "yuusei-koukou-tenmon-bu"
+    },
     "type": "ona",
     "episodes": "20",
     "original_name": "遊星高校 天文部",

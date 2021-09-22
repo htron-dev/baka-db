@@ -1,5 +1,9 @@
 {
     "title": "Heat Guy J",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164806.jpg",
+        "alt": "heat-guy-j"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

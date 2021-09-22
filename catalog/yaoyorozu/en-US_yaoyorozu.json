@@ -1,5 +1,9 @@
 {
     "title": "Yaoyorozu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/96653.jpg",
+        "alt": "yaoyorozu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "八百万",

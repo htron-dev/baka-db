@@ -1,5 +1,9 @@
 {
     "title": "Ikinari! Full Metal Panic!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/126271.jpg",
+        "alt": "ikinari-full-metal-panic"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "29",

@@ -1,5 +1,9 @@
 {
     "title": "Ice no Oto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/89171.jpg",
+        "alt": "ice-no-oto"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "アイスノオト",

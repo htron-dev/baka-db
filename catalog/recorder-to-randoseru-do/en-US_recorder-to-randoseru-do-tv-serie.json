@@ -1,5 +1,9 @@
 {
     "title": "Recorder to Randoseru Do♪",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/33003.jpg",
+        "alt": "recorder-to-randoseru-do♪"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "リコーダーとランドセル　ド ♪",

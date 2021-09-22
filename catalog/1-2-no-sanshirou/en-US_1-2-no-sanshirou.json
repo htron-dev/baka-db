@@ -1,5 +1,9 @@
 {
     "title": "1 2 no Sanshirou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/241369.jpg",
+        "alt": "1-2-no-sanshirou"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "180",

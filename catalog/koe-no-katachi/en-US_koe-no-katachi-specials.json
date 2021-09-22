@@ -1,5 +1,9 @@
 {
     "title": "Koe no Katachi Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1231/98784.jpg",
+        "alt": "koe-no-katachi-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "聲の形",

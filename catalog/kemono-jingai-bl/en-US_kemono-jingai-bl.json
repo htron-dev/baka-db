@@ -1,5 +1,9 @@
 {
     "title": "Kemono-Jingai BL",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/169793.jpg",
+        "alt": "kemono-jingai-bl"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Kobayashi ga Kawai sugite Tsurai!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160154.jpg",
+        "alt": "kobayashi-ga-kawai-sugite-tsurai"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "76",

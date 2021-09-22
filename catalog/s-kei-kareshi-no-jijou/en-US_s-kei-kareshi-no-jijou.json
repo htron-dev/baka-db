@@ -1,5 +1,9 @@
 {
     "title": "S-kei Kareshi no Jijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194379.jpg",
+        "alt": "s-kei-kareshi-no-jijou"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

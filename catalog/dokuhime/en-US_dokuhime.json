@@ -1,5 +1,9 @@
 {
     "title": "Dokuhime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/101201.jpg",
+        "alt": "dokuhime"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "36",

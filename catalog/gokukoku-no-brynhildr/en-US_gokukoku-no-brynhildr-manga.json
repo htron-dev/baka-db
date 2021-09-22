@@ -1,5 +1,9 @@
 {
     "title": "Gokukoku no Brynhildr",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188789.jpg",
+        "alt": "gokukoku-no-brynhildr"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "181",

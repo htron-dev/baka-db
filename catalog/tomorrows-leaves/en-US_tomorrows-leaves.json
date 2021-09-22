@@ -1,5 +1,9 @@
 {
     "title": "Tomorrow's Leaves",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1880/116886.jpg",
+        "alt": "tomorrows-leaves"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "Tomorrow's Leaves",

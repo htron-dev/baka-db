@@ -1,5 +1,9 @@
 {
     "title": "Omujo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/198402.jpg",
+        "alt": "omujo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "28",

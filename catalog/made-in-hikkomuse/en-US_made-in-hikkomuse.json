@@ -1,5 +1,9 @@
 {
     "title": "Made in Hikkomuse",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/219931.jpg",
+        "alt": "made-in-hikkomuse"
+    },
     "type": "manga",
     "original_name": "メイド・イン・ひっこみゅ〜ず",
     "start_date": "2018-11-08",

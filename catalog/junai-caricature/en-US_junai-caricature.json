@@ -1,5 +1,9 @@
 {
     "title": "Junai Caricature",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/206588.jpg",
+        "alt": "junai-caricature"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Ni no Maeshii no Tsukaikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/71735.jpg",
+        "alt": "ni-no-maeshii-no-tsukaikata"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "30",

@@ -1,5 +1,9 @@
 {
     "title": "Utsu Gohan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/211007.jpg",
+        "alt": "utsu-gohan"
+    },
     "type": "manga",
     "original_name": "鬱ごはん",
     "start_date": "2010-02-16",

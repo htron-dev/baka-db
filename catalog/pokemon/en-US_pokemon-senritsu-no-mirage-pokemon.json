@@ -1,5 +1,9 @@
 {
     "title": "Pokemon: Senritsu no Mirage Pokemon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1471/108232.jpg",
+        "alt": "pokemon-senritsu-no-mirage-pokemon"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "ポケットモンスター 戦慄のミラージュポケモン",

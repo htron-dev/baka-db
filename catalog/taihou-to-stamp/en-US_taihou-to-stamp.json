@@ -1,5 +1,9 @@
 {
     "title": "Taihou to Stamp",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/84709.jpg",
+        "alt": "taihou-to-stamp"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "83",

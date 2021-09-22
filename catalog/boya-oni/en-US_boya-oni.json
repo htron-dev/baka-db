@@ -1,5 +1,9 @@
 {
     "title": "Boya Oni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170354.jpg",
+        "alt": "boya-oni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

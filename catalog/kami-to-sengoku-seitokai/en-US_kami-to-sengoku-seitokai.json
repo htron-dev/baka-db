@@ -1,5 +1,9 @@
 {
     "title": "Kami to Sengoku Seitokai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/55221.jpg",
+        "alt": "kami-to-sengoku-seitokai"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "80",

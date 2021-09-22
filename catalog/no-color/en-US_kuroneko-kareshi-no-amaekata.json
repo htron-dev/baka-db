@@ -1,5 +1,9 @@
 {
     "title": "Kuroneko Kareshi no Amaekata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/100763.jpg",
+        "alt": "kuroneko-kareshi-no-amaekata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

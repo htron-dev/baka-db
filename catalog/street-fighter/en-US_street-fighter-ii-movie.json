@@ -1,5 +1,9 @@
 {
     "title": "Street Fighter II Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/76411.jpg",
+        "alt": "street-fighter-ii-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ストリートファイター II MOVIE",

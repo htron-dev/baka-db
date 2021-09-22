@@ -1,5 +1,9 @@
 {
     "title": "Sorairo Girlfriend",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179770.jpg",
+        "alt": "sorairo-girlfriend"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

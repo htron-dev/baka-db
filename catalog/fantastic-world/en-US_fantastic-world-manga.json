@@ -1,5 +1,9 @@
 {
     "title": "Fantastic World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224847.jpg",
+        "alt": "fantastic-world"
+    },
     "type": "manga",
     "original_name": "FANTASTIC WORLD",
     "start_date": "2014-08-01",

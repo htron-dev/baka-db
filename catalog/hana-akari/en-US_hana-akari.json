@@ -1,5 +1,9 @@
 {
     "title": "Hana Akari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/245672.jpg",
+        "alt": "hana-akari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

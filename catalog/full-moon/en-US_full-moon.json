@@ -1,5 +1,9 @@
 {
     "title": "Full Moon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/17704.jpg",
+        "alt": "full-moon"
+    },
     "type": "manhwa",
     "chapters": "1",
     "original_name": "満月 - 만월",

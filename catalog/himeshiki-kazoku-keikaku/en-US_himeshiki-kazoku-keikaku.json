@@ -1,5 +1,9 @@
 {
     "title": "Himeshiki Kazoku Keikaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/95949.jpg",
+        "alt": "himeshiki-kazoku-keikaku"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "姫式家族計画",

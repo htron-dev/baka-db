@@ -1,5 +1,9 @@
 {
     "title": "Sennen Meikyuu no Nana Ouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157507.jpg",
+        "alt": "sennen-meikyuu-no-nana-ouji"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

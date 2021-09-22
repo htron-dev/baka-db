@@ -1,5 +1,9 @@
 {
     "title": "Deep Clear",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/58043.jpg",
+        "alt": "deep-clear"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

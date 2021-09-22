@@ -1,5 +1,9 @@
 {
     "title": "Kimi Shi ni Tamau Koto Nakare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166041.jpg",
+        "alt": "kimi-shi-ni-tamau-koto-nakare"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "61",

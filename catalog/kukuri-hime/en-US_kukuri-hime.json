@@ -1,5 +1,9 @@
 {
     "title": "Kukuri-hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157962.jpg",
+        "alt": "kukuri-hime"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

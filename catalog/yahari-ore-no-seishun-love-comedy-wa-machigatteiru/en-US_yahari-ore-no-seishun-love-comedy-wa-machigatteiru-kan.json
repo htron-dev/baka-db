@@ -1,12 +1,16 @@
 {
     "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1958/107912.jpg",
+        "alt": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "やはり俺の青春ラブコメはまちがっている。完",
     "start_date": "2020-07-10",
     "end_date": "2020-07-10",
     "opening_song": "\"Megumi no Ame (芽ぐみの雨)\" by Nagi Yanagi (eps 1-10)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Diamond no Jundo (ダイヤモンドの純度)\" by Yukino Yukinoshita (Saori Hayami) & Yui Yuigahama (Nao Touyama) (eps 1-3, 5-9)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

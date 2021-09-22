@@ -1,5 +1,9 @@
 {
     "title": "Lovesick",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/21592.jpg",
+        "alt": "lovesick"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

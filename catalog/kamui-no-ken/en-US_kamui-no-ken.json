@@ -1,5 +1,9 @@
 {
     "title": "Kamui no Ken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1073/94233.jpg",
+        "alt": "kamui-no-ken"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "カムイの剣",

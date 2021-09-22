@@ -1,5 +1,9 @@
 {
     "title": "Wiseman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/61289.jpg",
+        "alt": "wiseman"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ワイズマン",

@@ -1,5 +1,9 @@
 {
     "title": "Panda Tanteisha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224920.jpg",
+        "alt": "panda-tanteisha"
+    },
     "type": "manga",
     "original_name": "パンダ探偵社",
     "start_date": "2018-01-10",

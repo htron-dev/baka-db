@@ -1,5 +1,9 @@
 {
     "title": "Tonikaku Kimi ga.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164450.jpg",
+        "alt": "tonikaku-kimi-ga"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

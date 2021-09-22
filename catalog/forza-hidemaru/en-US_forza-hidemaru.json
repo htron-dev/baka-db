@@ -1,5 +1,9 @@
 {
     "title": "Forza! Hidemaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/47889.jpg",
+        "alt": "forza-hidemaru"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "フォルツァ！ひでまる",

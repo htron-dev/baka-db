@@ -1,5 +1,9 @@
 {
     "title": "Watashitachi no Tamura-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11609.jpg",
+        "alt": "watashitachi-no-tamura-kun"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

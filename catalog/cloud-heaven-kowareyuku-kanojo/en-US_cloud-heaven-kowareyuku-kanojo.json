@@ -1,5 +1,9 @@
 {
     "title": "Cloud Heaven: Kowareyuku Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190053.jpg",
+        "alt": "cloud-heaven-kowareyuku-kanojo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

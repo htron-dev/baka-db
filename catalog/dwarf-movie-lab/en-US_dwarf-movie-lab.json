@@ -1,5 +1,9 @@
 {
     "title": "dwarf Movie Lab",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/88392.jpg",
+        "alt": "dwarf-movie-lab"
+    },
     "type": "ona",
     "episodes": "13",
     "original_name": "dwarf movie lab",

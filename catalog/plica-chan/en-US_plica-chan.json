@@ -1,5 +1,9 @@
 {
     "title": "Plica-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36571.jpg",
+        "alt": "plica-chan"
+    },
     "type": "manga",
     "original_name": "プリカちゃん",
     "tags": [

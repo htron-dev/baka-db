@@ -1,5 +1,9 @@
 {
     "title": "Izumo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/209650.jpg",
+        "alt": "izumo"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "27",

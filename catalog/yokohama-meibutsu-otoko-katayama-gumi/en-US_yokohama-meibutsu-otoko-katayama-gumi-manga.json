@@ -1,5 +1,9 @@
 {
     "title": "Yokohama Meibutsu: Otoko Katayama-gumi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236418.jpg",
+        "alt": "yokohama-meibutsu-otoko-katayama-gumi"
+    },
     "type": "manga",
     "volumes": "15",
     "original_name": "横浜名物 男片山組!",

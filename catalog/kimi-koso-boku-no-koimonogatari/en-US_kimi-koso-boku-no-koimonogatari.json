@@ -1,5 +1,9 @@
 {
     "title": "Kimi koso Boku no Koimonogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/87487.jpg",
+        "alt": "kimi-koso-boku-no-koimonogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

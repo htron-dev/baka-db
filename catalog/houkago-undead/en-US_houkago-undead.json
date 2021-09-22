@@ -1,5 +1,9 @@
 {
     "title": "Houkago Undead",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237378.jpg",
+        "alt": "houkago-undead"
+    },
     "type": "manga",
     "chapters": "6",
     "original_name": "放課後アンデッド",

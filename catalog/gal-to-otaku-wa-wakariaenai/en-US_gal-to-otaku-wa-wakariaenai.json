@@ -1,5 +1,9 @@
 {
     "title": "Gal to Otaku wa Wakariaenai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194964.jpg",
+        "alt": "gal-to-otaku-wa-wakariaenai"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "50",

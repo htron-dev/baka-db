@@ -1,5 +1,9 @@
 {
     "title": "Koko wo Isekai to Suru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/220593.jpg",
+        "alt": "koko-wo-isekai-to-suru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

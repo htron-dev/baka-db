@@ -1,5 +1,9 @@
 {
     "title": "Isekai Izakaya \"Nobu\"",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170880.jpg",
+        "alt": "isekai-izakaya-nobu"
+    },
     "type": "manga",
     "original_name": "異世界居酒屋「のぶ」",
     "start_date": "2015-07-04",

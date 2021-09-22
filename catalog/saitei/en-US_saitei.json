@@ -1,5 +1,9 @@
 {
     "title": "Saitei!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149836.jpg",
+        "alt": "saitei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

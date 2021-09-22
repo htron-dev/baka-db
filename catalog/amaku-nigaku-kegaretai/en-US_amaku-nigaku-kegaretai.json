@@ -1,5 +1,9 @@
 {
     "title": "Amaku Nigaku Kegaretai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/19190.jpg",
+        "alt": "amaku-nigaku-kegaretai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "甘く苦く穢れたい",

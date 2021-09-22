@@ -1,5 +1,9 @@
 {
     "title": "Rem le Rose no Majo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174724.jpg",
+        "alt": "rem-le-rose-no-majo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

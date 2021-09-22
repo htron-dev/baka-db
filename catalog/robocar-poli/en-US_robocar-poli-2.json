@@ -1,5 +1,9 @@
 {
     "title": "Robocar Poli 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/78248.jpg",
+        "alt": "robocar-poli-2"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "로보카 폴리",

@@ -1,5 +1,9 @@
 {
     "title": "88",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/54587.jpg",
+        "alt": "88"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

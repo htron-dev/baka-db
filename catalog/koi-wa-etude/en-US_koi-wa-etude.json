@@ -1,5 +1,9 @@
 {
     "title": "Koi wa Etude!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221741.jpg",
+        "alt": "koi-wa-etude"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

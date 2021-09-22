@@ -1,5 +1,9 @@
 {
     "title": "Momo e no Tegami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1149/107242.jpg",
+        "alt": "momo-e-no-tegami"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ももへの手紙",

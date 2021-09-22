@@ -1,5 +1,9 @@
 {
     "title": "Turn A Gundam",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27584.jpg",
+        "alt": "turn-a-gundam"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "30",

@@ -1,5 +1,9 @@
 {
     "title": "Kenjutsu Komachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/142535.jpg",
+        "alt": "kenjutsu-komachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

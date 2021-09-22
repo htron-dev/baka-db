@@ -1,5 +1,9 @@
 {
     "title": "Midnight Crazy Trail",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/89201.jpg",
+        "alt": "midnight-crazy-trail"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "Midnight Crazy Trail",

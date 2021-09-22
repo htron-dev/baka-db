@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Ziggurat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161071.jpg",
+        "alt": "tokyo-ziggurat"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "19",

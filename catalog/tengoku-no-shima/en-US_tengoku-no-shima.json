@@ -1,5 +1,9 @@
 {
     "title": "Tengoku no Shima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/37156.jpg",
+        "alt": "tengoku-no-shima"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

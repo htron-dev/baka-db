@@ -1,5 +1,9 @@
 {
     "title": "Yurara no Tsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160616.jpg",
+        "alt": "yurara-no-tsuki"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "20",

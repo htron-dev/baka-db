@@ -1,5 +1,9 @@
 {
     "title": "Ikenai Seitokaichou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31281.jpg",
+        "alt": "ikenai-seitokaichou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "イケない生徒会長",

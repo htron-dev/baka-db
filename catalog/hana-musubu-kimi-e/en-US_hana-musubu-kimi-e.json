@@ -1,5 +1,9 @@
 {
     "title": "Hana, Musubu Kimi e",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/203521.jpg",
+        "alt": "hana-musubu-kimi-e"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

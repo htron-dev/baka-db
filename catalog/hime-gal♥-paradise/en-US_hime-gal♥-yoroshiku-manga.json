@@ -1,5 +1,9 @@
 {
     "title": "Hime Gal♥Yoroshiku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151942.jpg",
+        "alt": "hime-gal♥-yoroshiku"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "姫ギャル ♥ 夜露死苦",

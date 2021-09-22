@@ -1,5 +1,9 @@
 {
     "title": "Engoku no Alssiarna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160141.jpg",
+        "alt": "engoku-no-alssiarna"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

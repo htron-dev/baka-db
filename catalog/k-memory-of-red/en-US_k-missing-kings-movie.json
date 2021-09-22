@@ -1,5 +1,9 @@
 {
     "title": "K: Missing Kings",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/71795.jpg",
+        "alt": "k-missing-kings"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "K MISSING KINGS",
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/K_(anime"
+            "link": "http://en.wikipedia.org/wiki/K_%28anime%29"
         }
     ]
 }

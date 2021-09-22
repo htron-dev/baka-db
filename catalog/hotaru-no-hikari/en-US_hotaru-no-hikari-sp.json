@@ -1,5 +1,9 @@
 {
     "title": "Hotaru no Hikari SP",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202006.jpg",
+        "alt": "hotaru-no-hikari-sp"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "30",

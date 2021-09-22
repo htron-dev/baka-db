@@ -1,5 +1,9 @@
 {
     "title": "Omoikkiri Kagaku Adventure Sou Nanda!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/3692.jpg",
+        "alt": "omoikkiri-kagaku-adventure-sou-nanda"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "おもいっきり科学アドベンチャー そーなんだ!",

@@ -1,5 +1,9 @@
 {
     "title": "Paradise Cats",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22371.jpg",
+        "alt": "paradise-cats"
+    },
     "type": "manhwa",
     "volumes": "1",
     "tags": [

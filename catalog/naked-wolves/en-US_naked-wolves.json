@@ -1,5 +1,9 @@
 {
     "title": "Naked Wolves",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/17171.jpg",
+        "alt": "naked-wolves"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "ネイキッドウルブズ",

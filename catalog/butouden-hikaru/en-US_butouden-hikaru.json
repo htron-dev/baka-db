@@ -1,5 +1,9 @@
 {
     "title": "Butouden Hikaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/131443.jpg",
+        "alt": "butouden-hikaru"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "舞闘伝火華流〈ヒカル〉",

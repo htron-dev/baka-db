@@ -1,5 +1,9 @@
 {
     "title": "Honjitsu no Kishi Miroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162661.jpg",
+        "alt": "honjitsu-no-kishi-miroku"
+    },
     "type": "light-novel",
     "volumes": "10",
     "chapters": "58",

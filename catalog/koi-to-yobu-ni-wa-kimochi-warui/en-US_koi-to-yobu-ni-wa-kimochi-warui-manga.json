@@ -1,5 +1,9 @@
 {
     "title": "Koi to Yobu ni wa Kimochi Warui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172533.jpg",
+        "alt": "koi-to-yobu-ni-wa-kimochi-warui"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "63",

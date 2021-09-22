@@ -1,5 +1,9 @@
 {
     "title": "Ark Angels",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5440.jpg",
+        "alt": "ark-angels"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "12",

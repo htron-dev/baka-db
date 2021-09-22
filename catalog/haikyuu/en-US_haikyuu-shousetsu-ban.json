@@ -1,5 +1,9 @@
 {
     "title": "Haikyuu!! Shousetsu-ban!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/127767.jpg",
+        "alt": "haikyuu-shousetsu-ban"
+    },
     "type": "light-novel",
     "original_name": "ハイキュー!! ショーセツバン!!",
     "start_date": "2013-06-04",

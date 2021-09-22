@@ -1,5 +1,9 @@
 {
     "title": "Infinity Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175136.jpg",
+        "alt": "infinity-zero"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "37",

@@ -1,5 +1,9 @@
 {
     "title": "Nakanaori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/77497.jpg",
+        "alt": "nakanaori"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "なカなおり",

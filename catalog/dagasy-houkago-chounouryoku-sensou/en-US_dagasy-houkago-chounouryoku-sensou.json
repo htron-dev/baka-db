@@ -1,5 +1,9 @@
 {
     "title": "Dagasy: Houkago Chounouryoku Sensou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/188885.jpg",
+        "alt": "dagasy-houkago-chounouryoku-sensou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Chuugoku Yome Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/116387.jpg",
+        "alt": "chuugoku-yome-nikki"
+    },
     "type": "manga",
     "original_name": "中国嫁日記",
     "tags": [

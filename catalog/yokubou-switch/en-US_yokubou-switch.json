@@ -1,5 +1,9 @@
 {
     "title": "Yokubou Switch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/71975.jpg",
+        "alt": "yokubou-switch"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

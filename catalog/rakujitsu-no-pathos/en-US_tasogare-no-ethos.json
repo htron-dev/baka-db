@@ -1,5 +1,9 @@
 {
     "title": "Tasogare no Ethos",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235648.jpg",
+        "alt": "tasogare-no-ethos"
+    },
     "type": "manga",
     "original_name": "黄昏のエトス",
     "start_date": "2017-12-26",

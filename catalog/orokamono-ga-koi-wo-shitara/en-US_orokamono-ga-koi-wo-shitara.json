@@ -1,5 +1,9 @@
 {
     "title": "Orokamono ga Koi wo Shitara.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226944.jpg",
+        "alt": "orokamono-ga-koi-wo-shitara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

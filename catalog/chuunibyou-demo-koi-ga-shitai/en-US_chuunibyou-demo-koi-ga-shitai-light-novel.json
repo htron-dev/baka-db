@@ -1,5 +1,9 @@
 {
     "title": "Chuunibyou demo Koi ga Shitai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/72265.jpg",
+        "alt": "chuunibyou-demo-koi-ga-shitai"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "中二病でも恋がしたい！",

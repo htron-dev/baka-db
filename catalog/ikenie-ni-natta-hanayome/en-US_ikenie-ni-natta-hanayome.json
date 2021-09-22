@@ -1,5 +1,9 @@
 {
     "title": "Ikenie ni Natta Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152800.jpg",
+        "alt": "ikenie-ni-natta-hanayome"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "生贄になった花嫁",

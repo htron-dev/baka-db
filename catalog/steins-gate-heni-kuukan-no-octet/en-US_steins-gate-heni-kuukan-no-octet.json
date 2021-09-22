@@ -1,5 +1,9 @@
 {
     "title": "Steins;Gate: Heni Kuukan no Octet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/91575.jpg",
+        "alt": "steins-gate-heni-kuukan-no-octet"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

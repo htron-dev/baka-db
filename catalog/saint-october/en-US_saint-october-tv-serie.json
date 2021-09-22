@@ -1,12 +1,16 @@
 {
     "title": "Saint October",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/16246.jpg",
+        "alt": "saint-october"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "セイントオクトーバー",
     "start_date": "2007-01-05",
     "end_date": "2007-01-05",
     "opening_song": "\"Wheel of fortune\" by Azusa Kataoka, Yukari Fukui and Yuu Kobayashi",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Michi naru Basho e\" by Yukari Fukui (Eps 1-10, 12-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

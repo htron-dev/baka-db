@@ -1,5 +1,9 @@
 {
     "title": "Yami-ma no Mamiya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224618.jpg",
+        "alt": "yami-ma-no-mamiya"
+    },
     "type": "manga",
     "original_name": "闇麻のマミヤ",
     "start_date": "2019-05-01",

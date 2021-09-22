@@ -1,5 +1,9 @@
 {
     "title": "Bara no Subete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/91809.jpg",
+        "alt": "bara-no-subete"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ばらのすべて",

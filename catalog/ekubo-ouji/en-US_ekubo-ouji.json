@@ -1,5 +1,9 @@
 {
     "title": "Ekubo Ouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/71935.jpg",
+        "alt": "ekubo-ouji"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "えくぼおうじ",

@@ -1,5 +1,9 @@
 {
     "title": "Ote wo Haishaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176632.jpg",
+        "alt": "ote-wo-haishaku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

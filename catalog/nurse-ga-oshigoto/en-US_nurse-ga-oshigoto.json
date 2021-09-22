@@ -1,5 +1,9 @@
 {
     "title": "Nurse ga Oshigoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186392.jpg",
+        "alt": "nurse-ga-oshigoto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

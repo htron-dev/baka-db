@@ -1,5 +1,9 @@
 {
     "title": "Club Naked",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235999.jpg",
+        "alt": "club-naked"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

@@ -1,5 +1,9 @@
 {
     "title": "Kage kara Mamoru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163384.jpg",
+        "alt": "kage-kara-mamoru"
+    },
     "type": "light-novel",
     "volumes": "12",
     "chapters": "50",

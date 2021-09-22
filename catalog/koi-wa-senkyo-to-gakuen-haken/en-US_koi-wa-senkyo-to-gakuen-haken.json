@@ -1,5 +1,9 @@
 {
     "title": "Koi wa Senkyo to Gakuen Haken!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160742.jpg",
+        "alt": "koi-wa-senkyo-to-gakuen-haken"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "恋は選挙と学園覇権!",

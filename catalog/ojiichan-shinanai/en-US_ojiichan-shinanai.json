@@ -1,5 +1,9 @@
 {
     "title": "Ojiichan Shinanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/217375.jpg",
+        "alt": "ojiichan-shinanai"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "おじいちゃんしなない",

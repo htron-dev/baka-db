@@ -1,5 +1,9 @@
 {
     "title": "Umi no Kishidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192565.jpg",
+        "alt": "umi-no-kishidan"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "55",

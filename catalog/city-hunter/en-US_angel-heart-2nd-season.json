@@ -1,5 +1,9 @@
 {
     "title": "Angel Heart 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/155412.jpg",
+        "alt": "angel-heart-2nd-season"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "80",

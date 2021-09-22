@@ -1,5 +1,9 @@
 {
     "title": "Zutto, Futari de, Koishiteru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193051.jpg",
+        "alt": "zutto-futari-de-koishiteru"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

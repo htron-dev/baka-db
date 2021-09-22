@@ -1,5 +1,9 @@
 {
     "title": "Mobile Suit Victory Gundam",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/213435.jpg",
+        "alt": "mobile-suit-victory-gundam"
+    },
     "type": "light-novel",
     "volumes": "5",
     "original_name": "機動戦士 V ガンダム",

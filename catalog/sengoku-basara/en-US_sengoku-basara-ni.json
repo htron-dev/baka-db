@@ -1,12 +1,16 @@
 {
     "title": "Sengoku Basara Ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/80999.jpg",
+        "alt": "sengoku-basara-ni"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "戦国 BASARA 弐",
     "start_date": "2010-07-11",
     "end_date": "2010-07-11",
     "opening_song": "\"SWORD SUMMIT\" by T.M.Revolution",
-    "ending_song": "#01",
+    "ending_song": "#01: \"El Dorado\" by Angelo (eps 1-6)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

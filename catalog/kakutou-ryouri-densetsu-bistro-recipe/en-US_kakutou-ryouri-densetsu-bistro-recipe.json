@@ -1,12 +1,16 @@
 {
     "title": "Kakutou Ryouri Densetsu Bistro Recipe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1715/105092.jpg",
+        "alt": "kakutou-ryouri-densetsu-bistro-recipe"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "格闘料理伝説ビストロレシピ",
     "start_date": "2001-12-11",
     "end_date": "2001-12-11",
     "opening_song": "\"Pride+Honoo (プライド＋炎)\" by Yuta Yamazaki",
-    "ending_song": "#1",
+    "ending_song": "#1: \"White Pearl\" by DAISY CHAIN (eps 1-25)",
     "rating": "G - All Ages",
     "tags": [
         "game",

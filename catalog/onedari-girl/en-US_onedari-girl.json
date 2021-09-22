@@ -1,5 +1,9 @@
 {
     "title": "Onedari Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/106313.jpg",
+        "alt": "onedari-girl"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

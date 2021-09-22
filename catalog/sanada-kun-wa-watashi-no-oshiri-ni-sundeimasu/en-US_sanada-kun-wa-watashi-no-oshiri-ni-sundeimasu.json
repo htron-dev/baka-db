@@ -1,5 +1,9 @@
 {
     "title": "Sanada-kun wa Watashi no Oshiri ni Sundeimasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245308.jpg",
+        "alt": "sanada-kun-wa-watashi-no-oshiri-ni-sundeimasu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

@@ -1,12 +1,16 @@
 {
     "title": "Gamers!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/86828.jpg",
+        "alt": "gamers"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ゲーマーズ！",
     "start_date": "2017-07-13",
     "end_date": "2017-07-13",
     "opening_song": "\"GAMERS!\" by Karen Tendou (Hisako Kanemoto), Chiaki Hoshinomori (Manaka Iwami), Aguri (Rumi Ookubo)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Fight on!\" by Luce Twinkle Wink☆ (eps 2-8, ep 11-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "game",

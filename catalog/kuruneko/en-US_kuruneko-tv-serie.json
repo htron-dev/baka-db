@@ -1,5 +1,9 @@
 {
     "title": "Kuruneko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/20591.jpg",
+        "alt": "kuruneko"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "くるねこ",

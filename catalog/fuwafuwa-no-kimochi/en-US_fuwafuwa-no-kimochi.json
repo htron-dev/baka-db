@@ -1,5 +1,9 @@
 {
     "title": "Fuwafuwa no Kimochi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/141511.jpg",
+        "alt": "fuwafuwa-no-kimochi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

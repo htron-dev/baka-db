@@ -1,5 +1,9 @@
 {
     "title": "Baja no Studio",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/87069.jpg",
+        "alt": "baja-no-studio"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "バジャのスタジオ",

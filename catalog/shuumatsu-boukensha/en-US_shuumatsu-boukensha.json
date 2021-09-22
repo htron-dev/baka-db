@@ -1,5 +1,9 @@
 {
     "title": "Shuumatsu Boukensha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200356.jpg",
+        "alt": "shuumatsu-boukensha"
+    },
     "type": "light-novel",
     "original_name": "週末冒険者",
     "start_date": "2017-08-10",

@@ -1,5 +1,9 @@
 {
     "title": "Kimi Sae Ireba...",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2510.jpg",
+        "alt": "kimi-sae-ireba"
+    },
     "type": "manga",
     "volumes": "1",
     "tags": [

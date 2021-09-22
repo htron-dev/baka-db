@@ -1,5 +1,9 @@
 {
     "title": "Nanpuu: Jitensha no Tabikoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236358.jpg",
+        "alt": "nanpuu-jitensha-no-tabikoi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

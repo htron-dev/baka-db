@@ -1,5 +1,9 @@
 {
     "title": "Chibi demo Ii yo.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/213574.jpg",
+        "alt": "chibi-demo-ii-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

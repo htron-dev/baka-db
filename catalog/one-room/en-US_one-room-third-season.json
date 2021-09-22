@@ -1,11 +1,15 @@
 {
     "title": "One Room Third Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1553/109101.jpg",
+        "alt": "one-room-third-season"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "One Room サードシーズン",
     "start_date": "2020-10-06",
     "end_date": "2020-10-06",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Taiyou to Rainbow (太陽とレインボー)\" by Akira Kotokawa (Miyu Tomita) (eps 1-4)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life"
@@ -30,7 +34,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/One_Room_(anime"
+            "link": "https://en.wikipedia.org/wiki/One_Room_%28anime%29"
         }
     ]
 }

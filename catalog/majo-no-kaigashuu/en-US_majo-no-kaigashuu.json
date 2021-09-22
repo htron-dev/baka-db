@@ -1,5 +1,9 @@
 {
     "title": "Majo no Kaigashuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/206840.jpg",
+        "alt": "majo-no-kaigashuu"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "32",

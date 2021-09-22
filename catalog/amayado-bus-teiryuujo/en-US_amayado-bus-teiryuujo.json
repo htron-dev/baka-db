@@ -1,5 +1,9 @@
 {
     "title": "Amayado Bus Teiryuujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169959.jpg",
+        "alt": "amayado-bus-teiryuujo"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "雨宿バス停留所",

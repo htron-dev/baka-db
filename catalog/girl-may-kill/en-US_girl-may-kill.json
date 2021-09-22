@@ -1,5 +1,9 @@
 {
     "title": "Girl May Kill",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/112059.jpg",
+        "alt": "girl-may-kill"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

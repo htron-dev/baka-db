@@ -1,5 +1,9 @@
 {
     "title": "Last Partner",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/81880.jpg",
+        "alt": "last-partner"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

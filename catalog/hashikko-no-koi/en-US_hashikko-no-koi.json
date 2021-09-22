@@ -1,5 +1,9 @@
 {
     "title": "Hashikko no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/63757.jpg",
+        "alt": "hashikko-no-koi"
+    },
     "type": "manga",
     "original_name": "はしっこの恋",
     "start_date": "2010-11-08",

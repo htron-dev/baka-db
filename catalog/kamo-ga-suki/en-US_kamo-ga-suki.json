@@ -1,5 +1,9 @@
 {
     "title": "Kamo ga Suki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1171/102389.jpg",
+        "alt": "kamo-ga-suki"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "鴨が好き",

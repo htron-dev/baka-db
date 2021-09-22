@@ -1,5 +1,9 @@
 {
     "title": "Ikkyuu-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/60917.jpg",
+        "alt": "ikkyuu-san"
+    },
     "type": "tv-serie",
     "episodes": "296",
     "original_name": "一休さん",

@@ -1,5 +1,9 @@
 {
     "title": "Magic Lamp",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18219.jpg",
+        "alt": "magic-lamp"
+    },
     "type": "manhwa",
     "volumes": "9",
     "original_name": "요술램프의 남자",

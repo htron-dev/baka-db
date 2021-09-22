@@ -1,5 +1,9 @@
 {
     "title": "Berserk",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/79352.jpg",
+        "alt": "berserk"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ベルセルク",

@@ -1,5 +1,9 @@
 {
     "title": "Anata ni Sasageru Akai Bara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/217234.jpg",
+        "alt": "anata-ni-sasageru-akai-bara"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "あなたに捧げる赤い薔薇",

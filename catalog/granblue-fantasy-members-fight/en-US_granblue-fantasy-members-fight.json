@@ -1,5 +1,9 @@
 {
     "title": "Granblue Fantasy: Members Fight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/218219.jpg",
+        "alt": "granblue-fantasy-members-fight"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "7",

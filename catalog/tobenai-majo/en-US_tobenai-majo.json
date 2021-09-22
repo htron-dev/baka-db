@@ -1,5 +1,9 @@
 {
     "title": "Tobenai Majo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10063.jpg",
+        "alt": "tobenai-majo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

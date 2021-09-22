@@ -1,12 +1,16 @@
 {
     "title": "Kita e.: Diamond Dust Drops",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/148.jpg",
+        "alt": "kita-e-diamond-dust-drops"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "北へ。 ～ Diamond Dust Drops ～",
     "start_date": "2004-01-20",
     "end_date": "2004-01-20",
     "opening_song": "\"Hop Step Jump\" by Five Spirits",
-    "ending_song": "\"Aitai ~Love Theme from Kita e.~\" by ALLEY",
+    "ending_song": "\"Aitai ~Love Theme from Kita e.~\" by ALLEY:A",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

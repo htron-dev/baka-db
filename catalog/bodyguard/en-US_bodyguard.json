@@ -1,5 +1,9 @@
 {
     "title": "Bodyguard",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/9281.jpg",
+        "alt": "bodyguard"
+    },
     "type": "manhwa",
     "volumes": "10",
     "original_name": "보디가드",

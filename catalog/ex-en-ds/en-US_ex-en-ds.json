@@ -1,5 +1,9 @@
 {
     "title": "exENDs",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/210568.jpg",
+        "alt": "ex-en-ds"
+    },
     "type": "manga",
     "original_name": "exENDs -エクスエンズ-",
     "start_date": "2017-12-15",

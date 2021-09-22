@@ -1,5 +1,9 @@
 {
     "title": "Animal X: Daichi no Okite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27859.jpg",
+        "alt": "animal-x-daichi-no-okite"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "4",

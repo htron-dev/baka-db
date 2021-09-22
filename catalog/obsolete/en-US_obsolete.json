@@ -1,5 +1,9 @@
 {
     "title": "Obsolete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1711/103227.jpg",
+        "alt": "obsolete"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "OBSOLETE",

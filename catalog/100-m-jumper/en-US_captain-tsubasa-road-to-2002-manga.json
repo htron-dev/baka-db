@@ -1,5 +1,9 @@
 {
     "title": "Captain Tsubasa: Road to 2002",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175810.jpg",
+        "alt": "captain-tsubasa-road-to-2002"
+    },
     "type": "manga",
     "volumes": "15",
     "chapters": "145",

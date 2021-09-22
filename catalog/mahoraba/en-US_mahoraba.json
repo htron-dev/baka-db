@@ -1,5 +1,9 @@
 {
     "title": "Mahoraba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11382.jpg",
+        "alt": "mahoraba"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "62",

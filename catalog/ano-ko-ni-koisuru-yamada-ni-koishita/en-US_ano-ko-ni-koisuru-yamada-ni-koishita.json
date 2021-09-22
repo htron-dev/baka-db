@@ -1,5 +1,9 @@
 {
     "title": "Ano Ko ni Koisuru Yamada ni Koishita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193542.jpg",
+        "alt": "ano-ko-ni-koisuru-yamada-ni-koishita"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

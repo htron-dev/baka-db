@@ -1,5 +1,9 @@
 {
     "title": "Godzilla vs. Biollante",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/131944.jpg",
+        "alt": "godzilla-vs-biollante"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ゴジラ vs ビオランテ",

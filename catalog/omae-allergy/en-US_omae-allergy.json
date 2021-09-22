@@ -1,5 +1,9 @@
 {
     "title": "Omae Allergy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205332.jpg",
+        "alt": "omae-allergy"
+    },
     "type": "manga",
     "chapters": "8",
     "original_name": "オマエアレルギー",

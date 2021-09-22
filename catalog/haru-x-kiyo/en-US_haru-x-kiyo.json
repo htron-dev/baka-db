@@ -1,5 +1,9 @@
 {
     "title": "Haru x Kiyo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165636.jpg",
+        "alt": "haru-x-kiyo"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "38",

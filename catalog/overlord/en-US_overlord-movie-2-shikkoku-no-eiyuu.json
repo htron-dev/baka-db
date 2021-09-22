@@ -1,5 +1,9 @@
 {
     "title": "Overlord Movie 2: Shikkoku no Eiyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/87758.jpg",
+        "alt": "overlord-movie-2-shikkoku-no-eiyuu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "【後編】劇場版総集編 オーバーロード 漆黒の英雄",
@@ -29,7 +33,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%89_(%E5%B0%8F%E8%AA%AC"
+            "link": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%89_%28%E5%B0%8F%E8%AA%AC%29"
         }
     ]
 }

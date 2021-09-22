@@ -1,5 +1,9 @@
 {
     "title": "La Satanica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5459.jpg",
+        "alt": "la-satanica"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

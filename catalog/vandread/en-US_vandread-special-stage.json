@@ -1,5 +1,9 @@
 {
     "title": "Vandread Special Stage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/105479.jpg",
+        "alt": "vandread-special-stage"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

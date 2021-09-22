@@ -1,5 +1,9 @@
 {
     "title": "Pato-ko Ikkimasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171884.jpg",
+        "alt": "pato-ko-ikkimasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

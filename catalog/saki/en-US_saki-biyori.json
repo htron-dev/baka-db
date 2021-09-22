@@ -1,5 +1,9 @@
 {
     "title": "Saki-biyori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/138759.jpg",
+        "alt": "saki-biyori"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "106",

@@ -1,5 +1,9 @@
 {
     "title": "Penguin no Mondai Max",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/29983.jpg",
+        "alt": "penguin-no-mondai-max"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "ペンギンの問題 Max",

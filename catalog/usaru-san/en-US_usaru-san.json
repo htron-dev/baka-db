@@ -1,5 +1,9 @@
 {
     "title": "Usaru-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/16866.jpg",
+        "alt": "usaru-san"
+    },
     "type": "special",
     "episodes": "4",
     "original_name": "うさるさん",

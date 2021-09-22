@@ -1,5 +1,9 @@
 {
     "title": "Boku no Tsar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234980.jpg",
+        "alt": "boku-no-tsar"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

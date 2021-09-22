@@ -1,5 +1,9 @@
 {
     "title": "Kakumei Senshi Inudou Sadao",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167472.jpg",
+        "alt": "kakumei-senshi-inudou-sadao"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

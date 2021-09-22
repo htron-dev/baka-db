@@ -1,5 +1,9 @@
 {
     "title": "Sekaikei Sekai Ron",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/34245.jpg",
+        "alt": "sekaikei-sekai-ron"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "セカイ系セカイ論",

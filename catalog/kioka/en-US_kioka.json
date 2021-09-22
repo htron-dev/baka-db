@@ -1,5 +1,9 @@
 {
     "title": "Kioka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1846/114462.jpg",
+        "alt": "kioka"
+    },
     "type": "tv-serie",
     "episodes": "78",
     "original_name": "키오카",

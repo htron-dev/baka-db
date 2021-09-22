@@ -1,5 +1,9 @@
 {
     "title": "Jitaku Keibiin wa Shakai no Dorei ni Narimashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180397.jpg",
+        "alt": "jitaku-keibiin-wa-shakai-no-dorei-ni-narimashita"
+    },
     "type": "light-novel",
     "original_name": "自宅警備員は社会の奴隷になりました。",
     "start_date": "2016-08-01",

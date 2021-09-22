@@ -1,5 +1,9 @@
 {
     "title": "Dekoboko wa Bokutachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/84283.jpg",
+        "alt": "dekoboko-wa-bokutachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Gun x Clover",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203272.jpg",
+        "alt": "gun-x-clover"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "60",

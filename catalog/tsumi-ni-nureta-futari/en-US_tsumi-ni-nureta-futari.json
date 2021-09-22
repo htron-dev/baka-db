@@ -1,5 +1,9 @@
 {
     "title": "Tsumi ni Nureta Futari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/26650.jpg",
+        "alt": "tsumi-ni-nureta-futari"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "73",

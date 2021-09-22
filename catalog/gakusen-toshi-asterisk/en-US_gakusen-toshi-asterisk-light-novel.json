@@ -1,5 +1,9 @@
 {
     "title": "Gakusen Toshi Asterisk",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174945.jpg",
+        "alt": "gakusen-toshi-asterisk"
+    },
     "type": "light-novel",
     "original_name": "学戦都市アスタリスク",
     "start_date": "2012-09-25",

@@ -1,5 +1,9 @@
 {
     "title": "PhD: Phantasy Degree",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171568.jpg",
+        "alt": "ph-d-phantasy-degree"
+    },
     "type": "manhwa",
     "volumes": "10",
     "chapters": "106",

@@ -1,5 +1,9 @@
 {
     "title": "Tsuki no Hikari Hoshi no Michi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/8632.jpg",
+        "alt": "tsuki-no-hikari-hoshi-no-michi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

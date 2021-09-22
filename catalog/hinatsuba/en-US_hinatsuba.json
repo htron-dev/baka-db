@@ -1,5 +1,9 @@
 {
     "title": "Hinatsuba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/233720.jpg",
+        "alt": "hinatsuba"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

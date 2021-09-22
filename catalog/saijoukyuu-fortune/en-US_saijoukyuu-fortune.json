@@ -1,5 +1,9 @@
 {
     "title": "Saijoukyuu Fortune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12336.jpg",
+        "alt": "saijoukyuu-fortune"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

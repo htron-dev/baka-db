@@ -1,5 +1,9 @@
 {
     "title": "Rojica to Rakkasei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222836.jpg",
+        "alt": "rojica-to-rakkasei"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

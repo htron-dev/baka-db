@@ -1,5 +1,9 @@
 {
     "title": "Boku to Oresama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23411.jpg",
+        "alt": "boku-to-oresama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

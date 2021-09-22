@@ -1,5 +1,9 @@
 {
     "title": "Real Rode",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/43793.jpg",
+        "alt": "real-rode"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "リアルロデ",

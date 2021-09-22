@@ -1,5 +1,9 @@
 {
     "title": "Sensuikan: Matome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175932.jpg",
+        "alt": "sensuikan-matome"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

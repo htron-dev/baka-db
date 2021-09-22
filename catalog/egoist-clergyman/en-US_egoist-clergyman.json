@@ -1,5 +1,9 @@
 {
     "title": "Egoist Clergyman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30149.jpg",
+        "alt": "egoist-clergyman"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

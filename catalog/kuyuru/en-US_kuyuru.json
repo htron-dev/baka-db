@@ -1,5 +1,9 @@
 {
     "title": "Kuyuru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226235.jpg",
+        "alt": "kuyuru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

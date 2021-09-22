@@ -1,5 +1,9 @@
 {
     "title": "Märchen Mädchen Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1690/93175.jpg",
+        "alt": "marchen-madchen-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "メルヘン・メドヘン",

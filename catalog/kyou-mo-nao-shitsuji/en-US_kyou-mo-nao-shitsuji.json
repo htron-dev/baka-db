@@ -1,5 +1,9 @@
 {
     "title": "Kyou mo Nao Shitsuji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/24649.jpg",
+        "alt": "kyou-mo-nao-shitsuji"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "今日もなお執事",

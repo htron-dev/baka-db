@@ -1,5 +1,9 @@
 {
     "title": "Good Job!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/67157.jpg",
+        "alt": "good-job"
+    },
     "type": "manga",
     "original_name": "ぐっじょぶ!",
     "start_date": "2011-06-28",

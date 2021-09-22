@@ -1,5 +1,9 @@
 {
     "title": "Back Stage!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/139773.jpg",
+        "alt": "back-stage"
+    },
     "type": "light-novel",
     "original_name": "BACK STAGE!! -バック・ステイジ-",
     "start_date": "2011-05-31",

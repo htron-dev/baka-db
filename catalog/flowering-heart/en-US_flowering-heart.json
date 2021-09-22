@@ -1,5 +1,9 @@
 {
     "title": "Flowering Heart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/88482.jpg",
+        "alt": "flowering-heart"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "플라워링하트",

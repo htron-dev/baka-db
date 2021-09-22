@@ -1,5 +1,9 @@
 {
     "title": "Oniichan to Issho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166809.jpg",
+        "alt": "oniichan-to-issho"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "67",

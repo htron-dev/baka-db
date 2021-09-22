@@ -1,5 +1,9 @@
 {
     "title": "Shinyuu tte Soko made Shinakucha Ikenai no?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/213982.jpg",
+        "alt": "shinyuu-tte-soko-made-shinakucha-ikenai-no"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

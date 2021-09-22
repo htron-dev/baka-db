@@ -1,5 +1,9 @@
 {
     "title": "Ryuugoroshi no Sugosu Hibi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/115103.jpg",
+        "alt": "ryuugoroshi-no-sugosu-hibi"
+    },
     "type": "light-novel",
     "volumes": "11",
     "original_name": "竜殺しの過ごす日々",

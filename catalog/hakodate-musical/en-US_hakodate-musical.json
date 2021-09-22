@@ -1,5 +1,9 @@
 {
     "title": "Hakodate Musical",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1925/90628.jpg",
+        "alt": "hakodate-musical"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ハコダテミュージカル",

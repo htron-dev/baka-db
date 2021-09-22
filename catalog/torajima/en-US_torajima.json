@@ -1,5 +1,9 @@
 {
     "title": "Torajima!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/140179.jpg",
+        "alt": "torajima"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "トラジマ!",

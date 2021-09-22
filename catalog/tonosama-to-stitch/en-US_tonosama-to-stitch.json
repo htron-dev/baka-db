@@ -1,5 +1,9 @@
 {
     "title": "Tonosama to Stitch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235214.jpg",
+        "alt": "tonosama-to-stitch"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

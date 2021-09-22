@@ -1,5 +1,9 @@
 {
     "title": "Gumi from Vocaloid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166194.jpg",
+        "alt": "gumi-from-vocaloid"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

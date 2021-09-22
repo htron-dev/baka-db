@@ -1,5 +1,9 @@
 {
     "title": "Orange",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/80110.jpg",
+        "alt": "orange"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "orange（オレンジ）",

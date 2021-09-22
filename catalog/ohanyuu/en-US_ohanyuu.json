@@ -1,5 +1,9 @@
 {
     "title": "Ohanyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/34989.jpg",
+        "alt": "ohanyuu"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "31",

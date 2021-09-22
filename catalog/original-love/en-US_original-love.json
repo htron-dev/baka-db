@@ -1,5 +1,9 @@
 {
     "title": "Original Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/161822.jpg",
+        "alt": "original-love"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

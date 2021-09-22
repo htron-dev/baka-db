@@ -1,12 +1,16 @@
 {
     "title": "Gundam Build Fighters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/51815.jpg",
+        "alt": "gundam-build-fighters"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "ガンダムビルドファイターズ",
     "start_date": "2013-10-07",
     "end_date": "2013-10-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Nibun no Ichi (ニブンノイチ)\" by BACK-ON (eps 2-13)",
+    "ending_song": "#1: \"Nibun no Ichi (ニブンノイチ)\" by BACK-ON (ep 1)",
     "rating": "G - All Ages",
     "tags": [
         "action",

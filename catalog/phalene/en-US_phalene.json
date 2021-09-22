@@ -1,5 +1,9 @@
 {
     "title": "Phalene",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10379.jpg",
+        "alt": "phalene"
+    },
     "type": "manhwa",
     "chapters": "1",
     "tags": [

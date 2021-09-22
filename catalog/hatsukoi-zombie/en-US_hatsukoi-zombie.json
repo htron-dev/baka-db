@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi Zombie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188797.jpg",
+        "alt": "hatsukoi-zombie"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "167",

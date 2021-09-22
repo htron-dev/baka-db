@@ -1,5 +1,9 @@
 {
     "title": "Subarashii Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/147085.jpg",
+        "alt": "subarashii-sekai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

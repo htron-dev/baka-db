@@ -1,5 +1,9 @@
 {
     "title": "Azumi Mamma★Mia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/58375.jpg",
+        "alt": "azumi-mamma★-mia"
+    },
     "type": "tv-serie",
     "episodes": "60",
     "original_name": "あずみ マンマ ★ ミーア",

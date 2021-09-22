@@ -1,5 +1,9 @@
 {
     "title": "Ookami-san wa Taberaretai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1020/108606.jpg",
+        "alt": "ookami-san-wa-taberaretai"
+    },
     "type": "tv-serie",
     "episodes": "3",
     "original_name": "オオカミさんは食べられたい",

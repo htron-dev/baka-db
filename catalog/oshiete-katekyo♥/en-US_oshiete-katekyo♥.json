@@ -1,5 +1,9 @@
 {
     "title": "Oshiete Katekyo♥",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192629.jpg",
+        "alt": "oshiete-katekyo♥"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

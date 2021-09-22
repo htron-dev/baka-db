@@ -1,5 +1,9 @@
 {
     "title": "Outlaw Wonderland Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176863.jpg",
+        "alt": "outlaw-wonderland-zero"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

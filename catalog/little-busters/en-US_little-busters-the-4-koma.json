@@ -1,5 +1,9 @@
 {
     "title": "Little Busters! The 4-koma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/142719.jpg",
+        "alt": "little-busters-the-4-koma"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "52",

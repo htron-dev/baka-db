@@ -1,5 +1,9 @@
 {
     "title": "Mahoutsukai no Insatsujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245251.jpg",
+        "alt": "mahoutsukai-no-insatsujo"
+    },
     "type": "manga",
     "original_name": "魔法使いの印刷所",
     "start_date": "2017-09-30",

@@ -1,5 +1,9 @@
 {
     "title": "Amagi Brilliant Park: Maple Summoner",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/141173.jpg",
+        "alt": "amagi-brilliant-park-maple-summoner"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "31",

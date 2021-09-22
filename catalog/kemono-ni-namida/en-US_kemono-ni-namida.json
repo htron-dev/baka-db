@@ -1,5 +1,9 @@
 {
     "title": "Kemono ni Namida",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/87667.jpg",
+        "alt": "kemono-ni-namida"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

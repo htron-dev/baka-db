@@ -1,5 +1,9 @@
 {
     "title": "Virgin Rope",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/103509.jpg",
+        "alt": "virgin-rope"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

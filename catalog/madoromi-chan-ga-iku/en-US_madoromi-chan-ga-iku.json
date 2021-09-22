@@ -1,5 +1,9 @@
 {
     "title": "Madoromi-chan ga Iku.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179934.jpg",
+        "alt": "madoromi-chan-ga-iku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "24",

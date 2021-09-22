@@ -1,5 +1,9 @@
 {
     "title": "Holyland",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/71665.jpg",
+        "alt": "holyland"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "182",

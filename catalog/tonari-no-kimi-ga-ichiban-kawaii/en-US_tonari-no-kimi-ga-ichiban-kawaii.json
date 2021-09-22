@@ -1,5 +1,9 @@
 {
     "title": "Tonari no Kimi ga Ichiban Kawaii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246184.jpg",
+        "alt": "tonari-no-kimi-ga-ichiban-kawaii"
+    },
     "type": "manga",
     "original_name": "隣の君が一番かわいい",
     "start_date": "2021-06-09",

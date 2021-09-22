@@ -1,5 +1,9 @@
 {
     "title": "Kuma Magoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34584.jpg",
+        "alt": "kuma-magoto"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "52",

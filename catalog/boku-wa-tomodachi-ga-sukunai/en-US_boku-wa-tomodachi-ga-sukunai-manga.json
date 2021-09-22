@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Tomodachi ga Sukunai+",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/64267.jpg",
+        "alt": "boku-wa-tomodachi-ga-sukunai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

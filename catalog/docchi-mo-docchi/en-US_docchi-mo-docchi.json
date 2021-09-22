@@ -1,5 +1,9 @@
 {
     "title": "Docchi mo Docchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150715.jpg",
+        "alt": "docchi-mo-docchi"
+    },
     "type": "manga",
     "original_name": "どっちもどっち",
     "start_date": "2009-09-07",

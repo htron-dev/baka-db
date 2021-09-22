@@ -1,5 +1,9 @@
 {
     "title": "Dead World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/82024.jpg",
+        "alt": "dead-world"
+    },
     "type": "ona",
     "episodes": "1",
     "start_date": "2016-09-16",

@@ -1,5 +1,9 @@
 {
     "title": "Taimadou Gakuen 35 Shiken Shoutai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/76211.jpg",
+        "alt": "taimadou-gakuen-35-shiken-shoutai"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "対魔導学園 35 試験小隊",

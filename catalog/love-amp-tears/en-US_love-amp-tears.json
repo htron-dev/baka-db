@@ -1,5 +1,9 @@
 {
     "title": "Love &amp; Tears",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/17202.jpg",
+        "alt": "love-amp-tears"
+    },
     "type": "manga",
     "volumes": "1",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Ou to Neko no Hihou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244782.jpg",
+        "alt": "ou-to-neko-no-hihou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Private Magician",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194917.jpg",
+        "alt": "private-magician"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "プライベート マジシャン",

@@ -1,5 +1,9 @@
 {
     "title": "B.B. Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/94413.jpg",
+        "alt": "b-b-girls"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "B.B.GIRLS",

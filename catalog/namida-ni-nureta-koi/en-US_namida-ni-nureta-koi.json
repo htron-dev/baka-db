@@ -1,5 +1,9 @@
 {
     "title": "Namida ni Nureta Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/45027.jpg",
+        "alt": "namida-ni-nureta-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "...Seishunchuu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/73053.jpg",
+        "alt": "seishunchuu"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "…青春中!",

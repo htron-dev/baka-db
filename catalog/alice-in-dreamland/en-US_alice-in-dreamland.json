@@ -1,5 +1,9 @@
 {
     "title": "Alice in Dreamland",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/77671.jpg",
+        "alt": "alice-in-dreamland"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "アリス・イン・ドリームランド",

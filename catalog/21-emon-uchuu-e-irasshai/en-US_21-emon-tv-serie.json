@@ -1,12 +1,16 @@
 {
     "title": "21 Emon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/69883.jpg",
+        "alt": "21-emon"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "21 エモン",
     "start_date": "1991-05-02",
     "end_date": "1991-05-02",
     "opening_song": "\"Ooi! Kurumaya-san (おーい!車屋さん)\" by Ninja",
-    "ending_song": "#1",
+    "ending_song": "#1: \"21 Seiki No Koibito (21 世紀の恋人; Lovers of the 21st Century)\" by Yumi Tanimura (eps 1-12)",
     "rating": "G - All Ages",
     "tags": [
         "space",

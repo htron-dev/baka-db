@@ -1,5 +1,9 @@
 {
     "title": "Guilty Gear Xtra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/14017.jpg",
+        "alt": "guilty-gear-xtra"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

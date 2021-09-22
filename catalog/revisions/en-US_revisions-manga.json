@@ -1,5 +1,9 @@
 {
     "title": "Revisions",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227776.jpg",
+        "alt": "revisions"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

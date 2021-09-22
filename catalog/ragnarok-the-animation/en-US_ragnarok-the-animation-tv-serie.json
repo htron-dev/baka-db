@@ -1,5 +1,9 @@
 {
     "title": "Ragnarök The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/2589.jpg",
+        "alt": "ragnarok-the-animation"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "RAGNARÖK THE ANIMATION",

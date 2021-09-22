@@ -1,5 +1,9 @@
 {
     "title": "Harem Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12004.jpg",
+        "alt": "harem-days"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

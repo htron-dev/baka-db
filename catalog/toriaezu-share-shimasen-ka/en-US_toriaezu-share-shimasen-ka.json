@@ -1,5 +1,9 @@
 {
     "title": "Toriaezu Share shimasen ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236100.jpg",
+        "alt": "toriaezu-share-shimasen-ka"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

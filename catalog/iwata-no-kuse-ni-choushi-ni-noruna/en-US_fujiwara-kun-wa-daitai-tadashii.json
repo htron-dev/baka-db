@@ -1,5 +1,9 @@
 {
     "title": "Fujiwara-kun wa Daitai Tadashii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/183387.jpg",
+        "alt": "fujiwara-kun-wa-daitai-tadashii"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "45",

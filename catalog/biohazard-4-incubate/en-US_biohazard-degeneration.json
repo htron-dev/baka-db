@@ -1,5 +1,9 @@
 {
     "title": "Biohazard: Degeneration",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/11769.jpg",
+        "alt": "biohazard-degeneration"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "バイオハザード ディジェネレーション",

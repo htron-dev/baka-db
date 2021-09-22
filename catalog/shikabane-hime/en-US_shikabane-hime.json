@@ -1,5 +1,9 @@
 {
     "title": "Shikabane Hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/56503.jpg",
+        "alt": "shikabane-hime"
+    },
     "type": "manga",
     "volumes": "23",
     "chapters": "114",

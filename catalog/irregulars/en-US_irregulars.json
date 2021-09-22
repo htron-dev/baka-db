@@ -1,5 +1,9 @@
 {
     "title": "Irregulars",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/249281.jpg",
+        "alt": "irregulars"
+    },
     "type": "manga",
     "original_name": "イレギュラーズ",
     "start_date": "2021-04-28",

@@ -1,5 +1,9 @@
 {
     "title": "Nine: Kanketsu-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/25617.jpg",
+        "alt": "nine-kanketsu-hen"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ナイン 完結編",
@@ -27,7 +31,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Nine_(manga"
+            "link": "http://en.wikipedia.org/wiki/Nine_%28manga%29"
         }
     ]
 }

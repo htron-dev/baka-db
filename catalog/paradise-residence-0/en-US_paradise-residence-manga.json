@@ -1,5 +1,9 @@
 {
     "title": "Paradise Residence",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151006.jpg",
+        "alt": "paradise-residence"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

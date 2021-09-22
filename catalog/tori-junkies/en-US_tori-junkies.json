@@ -1,5 +1,9 @@
 {
     "title": "Tori Junkies",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222566.jpg",
+        "alt": "tori-junkies"
+    },
     "type": "manga",
     "original_name": "鳥ジャンキーズ",
     "start_date": "2019-09-15",

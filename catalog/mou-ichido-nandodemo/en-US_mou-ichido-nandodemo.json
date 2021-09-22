@@ -1,5 +1,9 @@
 {
     "title": "Mou Ichido, Nandodemo.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179361.jpg",
+        "alt": "mou-ichido-nandodemo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Body Check",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/7970.jpg",
+        "alt": "body-check"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ボディチェック",

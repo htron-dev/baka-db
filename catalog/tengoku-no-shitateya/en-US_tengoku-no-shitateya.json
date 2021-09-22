@@ -1,5 +1,9 @@
 {
     "title": "Tengoku no Shitateya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32103.jpg",
+        "alt": "tengoku-no-shitateya"
+    },
     "type": "manga",
     "original_name": "天国の仕立て屋",
     "tags": [

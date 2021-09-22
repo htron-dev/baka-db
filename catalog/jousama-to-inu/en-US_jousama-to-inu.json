@@ -1,5 +1,9 @@
 {
     "title": "Jousama to Inu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11067.jpg",
+        "alt": "jousama-to-inu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "女王様と犬",

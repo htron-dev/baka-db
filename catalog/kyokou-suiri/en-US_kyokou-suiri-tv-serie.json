@@ -1,5 +1,9 @@
 {
     "title": "Kyokou Suiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1310/117188.jpg",
+        "alt": "kyokou-suiri"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "虚構推理",

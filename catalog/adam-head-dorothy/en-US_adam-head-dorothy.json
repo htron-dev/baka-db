@@ -1,5 +1,9 @@
 {
     "title": "Adam Head Dorothy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162848.jpg",
+        "alt": "adam-head-dorothy"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "13",

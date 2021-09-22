@@ -1,5 +1,9 @@
 {
     "title": "Blade Sangokushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30039.jpg",
+        "alt": "blade-sangokushi"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "ブレイド三国志",

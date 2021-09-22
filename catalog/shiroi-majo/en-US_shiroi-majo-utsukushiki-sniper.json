@@ -1,5 +1,9 @@
 {
     "title": "Shiroi Majo: Utsukushiki Sniper",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/160166.jpg",
+        "alt": "shiroi-majo-utsukushiki-sniper"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

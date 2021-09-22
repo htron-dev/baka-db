@@ -1,5 +1,9 @@
 {
     "title": "Knight's & Magic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1472/93813.jpg",
+        "alt": "knights-magic"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ナイツ&マジック",

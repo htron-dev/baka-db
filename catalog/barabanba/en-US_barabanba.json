@@ -1,5 +1,9 @@
 {
     "title": "Barabanba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/25217.jpg",
+        "alt": "barabanba"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "バラバンバ",

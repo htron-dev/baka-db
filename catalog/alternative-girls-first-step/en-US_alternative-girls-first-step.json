@@ -1,5 +1,9 @@
 {
     "title": "Alternative Girls: First Step!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224440.jpg",
+        "alt": "alternative-girls-first-step"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

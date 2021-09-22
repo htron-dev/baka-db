@@ -1,12 +1,16 @@
 {
     "title": "Gyakuten Saiban: Sono \"Shinjitsu\", Igi Ari!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/79448.jpg",
+        "alt": "gyakuten-saiban-sono-shinjitsu-igi-ari"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "逆転裁判 ～その「真実」、異議あり！～",
     "start_date": "2016-04-02",
     "end_date": "2016-04-02",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Gyakuten Winner (逆転 Winner)\" by Johnny's West (eps 1-13)",
+    "ending_song": "#1: \"Message\" by Rei Yasuda (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Ace_Attorney_(anime"
+            "link": "http://en.wikipedia.org/wiki/Ace_Attorney_%28anime%29"
         }
     ]
 }

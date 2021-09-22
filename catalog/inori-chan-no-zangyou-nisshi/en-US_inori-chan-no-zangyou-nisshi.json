@@ -1,5 +1,9 @@
 {
     "title": "Inori-chan no Zangyou Nisshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192563.jpg",
+        "alt": "inori-chan-no-zangyou-nisshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

@@ -1,5 +1,9 @@
 {
     "title": "Yuri x Bara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186437.jpg",
+        "alt": "yuri-x-bara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

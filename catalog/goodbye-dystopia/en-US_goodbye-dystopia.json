@@ -1,5 +1,9 @@
 {
     "title": "Goodbye Dystopia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/211230.jpg",
+        "alt": "goodbye-dystopia"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

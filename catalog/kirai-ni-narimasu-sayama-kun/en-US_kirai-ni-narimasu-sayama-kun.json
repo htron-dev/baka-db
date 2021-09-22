@@ -1,5 +1,9 @@
 {
     "title": "Kirai ni Narimasu, Sayama-kun!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/216381.jpg",
+        "alt": "kirai-ni-narimasu-sayama-kun"
+    },
     "type": "manga",
     "original_name": "嫌いになります、佐山くん！",
     "start_date": "2018-04-29",

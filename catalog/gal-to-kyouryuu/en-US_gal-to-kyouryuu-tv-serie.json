@@ -1,5 +1,9 @@
 {
     "title": "Gal to Kyouryuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1603/111352.jpg",
+        "alt": "gal-to-kyouryuu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ギャルと恐竜",

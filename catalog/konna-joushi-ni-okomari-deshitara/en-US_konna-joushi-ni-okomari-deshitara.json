@@ -1,5 +1,9 @@
 {
     "title": "Konna Joushi ni Okomari deshitara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222998.jpg",
+        "alt": "konna-joushi-ni-okomari-deshitara"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Caramel Cinnamon Popcorn",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235755.jpg",
+        "alt": "caramel-cinnamon-popcorn"
+    },
     "type": "manga",
     "original_name": "キャラメル シナモン ポップコーン",
     "start_date": "2019-10-28",

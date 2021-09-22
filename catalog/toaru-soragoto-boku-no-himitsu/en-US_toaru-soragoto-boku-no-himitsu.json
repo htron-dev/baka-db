@@ -1,5 +1,9 @@
 {
     "title": "Toaru Soragoto, Boku no Himitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/16715.jpg",
+        "alt": "toaru-soragoto-boku-no-himitsu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

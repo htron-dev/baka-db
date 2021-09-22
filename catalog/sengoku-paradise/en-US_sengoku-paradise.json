@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Paradise",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/21529.jpg",
+        "alt": "sengoku-paradise"
+    },
     "type": "manga",
     "original_name": "戦国パラダイス",
     "start_date": "2009-04-09",

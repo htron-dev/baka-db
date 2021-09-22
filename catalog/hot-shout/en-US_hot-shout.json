@@ -1,5 +1,9 @@
 {
     "title": "Hot Shout!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/49521.jpg",
+        "alt": "hot-shout"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "HOT SHOUT！！",

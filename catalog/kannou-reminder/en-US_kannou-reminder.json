@@ -1,5 +1,9 @@
 {
     "title": "Kannou Reminder",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205603.jpg",
+        "alt": "kannou-reminder"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

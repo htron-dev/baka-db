@@ -1,12 +1,16 @@
 {
     "title": "Pokemon XY",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/54549.jpg",
+        "alt": "pokemon-xy"
+    },
     "type": "tv-serie",
     "episodes": "93",
     "original_name": "ポケットモンスター XY",
     "start_date": "2013-10-17",
     "end_date": "2013-10-17",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"V (Volt) (Ｖ（ボルト）)\" by Yusuke (eps 1-28)",
+    "ending_song": "#1: \"The X Strait and the Y Scenery (Ｘ海峡Ｙ景色)\" by J☆Dee'Z (eps 1-28)",
     "rating": "PG - Children",
     "tags": [
         "action",

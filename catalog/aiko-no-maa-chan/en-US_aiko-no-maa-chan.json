@@ -1,5 +1,9 @@
 {
     "title": "Aiko no Maa-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165761.jpg",
+        "alt": "aiko-no-maa-chan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

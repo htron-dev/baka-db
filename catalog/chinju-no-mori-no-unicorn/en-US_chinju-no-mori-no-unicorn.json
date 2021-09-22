@@ -1,5 +1,9 @@
 {
     "title": "Chinju no Mori no Unicorn",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/105447.jpg",
+        "alt": "chinju-no-mori-no-unicorn"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

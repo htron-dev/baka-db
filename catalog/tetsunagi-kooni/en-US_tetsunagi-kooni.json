@@ -1,5 +1,9 @@
 {
     "title": "Tetsunagi Kooni.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193982.jpg",
+        "alt": "tetsunagi-kooni"
+    },
     "type": "manga",
     "chapters": "35",
     "original_name": "てつなぎこおに。",

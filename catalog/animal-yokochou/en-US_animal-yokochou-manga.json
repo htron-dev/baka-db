@@ -1,5 +1,9 @@
 {
     "title": "Animal Yokochou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/176195.jpg",
+        "alt": "animal-yokochou"
+    },
     "type": "manga",
     "original_name": "アニマル横町",
     "tags": [

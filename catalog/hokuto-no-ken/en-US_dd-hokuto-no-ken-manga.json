@@ -1,5 +1,9 @@
 {
     "title": "DD Hokuto no Ken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168517.jpg",
+        "alt": "dd-hokuto-no-ken"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "71",

@@ -1,5 +1,9 @@
 {
     "title": "Asagiro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164555.jpg",
+        "alt": "asagiro"
+    },
     "type": "manga",
     "original_name": "アサギロ ～浅葱狼～",
     "start_date": "2009-05-12",

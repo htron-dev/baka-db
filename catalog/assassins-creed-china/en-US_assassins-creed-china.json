@@ -1,5 +1,9 @@
 {
     "title": "Assassin's Creed: China",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244137.jpg",
+        "alt": "assassins-creed-china"
+    },
     "type": "manga",
     "original_name": "アサシン クリード チャイナ",
     "start_date": "2019-10-19",

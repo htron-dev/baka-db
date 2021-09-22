@@ -1,5 +1,9 @@
 {
     "title": "Happy☆Lucky Bikkuriman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/43261.jpg",
+        "alt": "happy☆-lucky-bikkuriman"
+    },
     "type": "tv-serie",
     "episodes": "46",
     "original_name": "祝! (ハピ ☆ ラキ)ビックリマン",

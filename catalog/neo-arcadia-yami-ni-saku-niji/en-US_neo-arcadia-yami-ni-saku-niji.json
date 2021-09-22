@@ -1,5 +1,9 @@
 {
     "title": "Neo Arcadia: Yami ni Saku Niji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/37165.jpg",
+        "alt": "neo-arcadia-yami-ni-saku-niji"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

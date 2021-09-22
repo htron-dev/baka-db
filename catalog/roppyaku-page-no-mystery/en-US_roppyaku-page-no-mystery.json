@@ -1,5 +1,9 @@
 {
     "title": "Roppyaku Page no Mystery",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/48001.jpg",
+        "alt": "roppyaku-page-no-mystery"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

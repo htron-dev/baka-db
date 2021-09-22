@@ -1,5 +1,9 @@
 {
     "title": "Kanbisugiru Fukushuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244248.jpg",
+        "alt": "kanbisugiru-fukushuu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "甘美すぎる復讐",

@@ -1,5 +1,9 @@
 {
     "title": "30 Shinkon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/96651.jpg",
+        "alt": "30-shinkon"
+    },
     "type": "manga",
     "original_name": "30 新婚 miso-shin-com",
     "start_date": "2012-02-08",

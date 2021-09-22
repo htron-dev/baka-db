@@ -1,5 +1,9 @@
 {
     "title": "Asshou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192134.jpg",
+        "alt": "asshou"
+    },
     "type": "manga",
     "original_name": "圧勝",
     "start_date": "2016-08-13",

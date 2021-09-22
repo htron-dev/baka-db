@@ -1,5 +1,9 @@
 {
     "title": "Soshite Haru no Tsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/3170.jpg",
+        "alt": "soshite-haru-no-tsuki"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "そして春の月",

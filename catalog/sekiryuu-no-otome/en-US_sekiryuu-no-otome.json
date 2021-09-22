@@ -1,5 +1,9 @@
 {
     "title": "Sekiryuu no Otome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/42099.jpg",
+        "alt": "sekiryuu-no-otome"
+    },
     "type": "manga",
     "original_name": "赤竜の乙女",
     "tags": [

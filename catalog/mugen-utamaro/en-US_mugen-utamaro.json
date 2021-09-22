@@ -1,5 +1,9 @@
 {
     "title": "Mugen Utamaro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/70359.jpg",
+        "alt": "mugen-utamaro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

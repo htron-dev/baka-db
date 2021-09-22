@@ -1,5 +1,9 @@
 {
     "title": "Digimon Tamers 1984",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/72919.jpg",
+        "alt": "digimon-tamers-1984"
+    },
     "type": "light-novel",
     "chapters": "1",
     "original_name": "デジモンテイマーズ 1984",

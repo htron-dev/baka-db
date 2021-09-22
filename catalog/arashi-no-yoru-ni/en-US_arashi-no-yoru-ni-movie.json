@@ -1,5 +1,9 @@
 {
     "title": "Arashi no Yoru ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/5064.jpg",
+        "alt": "arashi-no-yoru-ni"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "あらしのよるに",

@@ -1,5 +1,9 @@
 {
     "title": "Adashi Mono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/128463.jpg",
+        "alt": "adashi-mono"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "15",

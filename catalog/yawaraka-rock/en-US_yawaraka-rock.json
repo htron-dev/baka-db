@@ -1,5 +1,9 @@
 {
     "title": "Yawaraka Rock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/151642.jpg",
+        "alt": "yawaraka-rock"
+    },
     "type": "manga",
     "chapters": "66",
     "original_name": "やわらかロック",

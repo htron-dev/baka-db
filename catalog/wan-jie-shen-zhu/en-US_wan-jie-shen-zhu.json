@@ -1,5 +1,9 @@
 {
     "title": "Wan Jie Shen Zhu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1049/98778.jpg",
+        "alt": "wan-jie-shen-zhu"
+    },
     "type": "ona",
     "episodes": "60",
     "original_name": "万界神主",

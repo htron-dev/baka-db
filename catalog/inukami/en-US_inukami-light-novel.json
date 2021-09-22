@@ -1,5 +1,9 @@
 {
     "title": "Inukami!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159385.jpg",
+        "alt": "inukami"
+    },
     "type": "light-novel",
     "volumes": "14",
     "original_name": "いぬかみっ!",

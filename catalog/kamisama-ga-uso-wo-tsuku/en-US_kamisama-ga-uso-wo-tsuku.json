@@ -1,5 +1,9 @@
 {
     "title": "Kamisama ga Uso wo Tsuku.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/143365.jpg",
+        "alt": "kamisama-ga-uso-wo-tsuku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

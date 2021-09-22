@@ -1,5 +1,9 @@
 {
     "title": "OneImo: Onee to Imouto Touhoku Shimai Slow Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158002.jpg",
+        "alt": "one-imo-onee-to-imouto-touhoku-shimai-slow-life"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "26",

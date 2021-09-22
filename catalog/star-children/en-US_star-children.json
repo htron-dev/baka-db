@@ -1,5 +1,9 @@
 {
     "title": "Star Children",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/66367.jpg",
+        "alt": "star-children"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

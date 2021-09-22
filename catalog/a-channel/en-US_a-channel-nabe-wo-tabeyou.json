@@ -1,5 +1,9 @@
 {
     "title": "A-Channel: Nabe wo Tabeyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/84989.jpg",
+        "alt": "a-channel-nabe-wo-tabeyou"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "A チャンネル 鍋を食べよう",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/A_Channel_(manga"
+            "link": "https://en.wikipedia.org/wiki/A_Channel_%28manga%29"
         }
     ]
 }

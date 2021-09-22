@@ -1,5 +1,9 @@
 {
     "title": "Seiza no Onna Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151351.jpg",
+        "alt": "seiza-no-onna-series"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "10",

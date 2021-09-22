@@ -1,12 +1,16 @@
 {
     "title": "Boku no Kanojo ga Majimesugiru Sho-bitch na Ken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/87623.jpg",
+        "alt": "boku-no-kanojo-ga-majimesugiru-sho-bitch-na-ken"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "僕の彼女がマジメ過ぎるしょびっちな件",
     "start_date": "2017-10-12",
     "end_date": "2017-10-12",
     "opening_song": "\"Eien Labyrinth (永遠ラビリンス)\" by Aoi Yuuki",
-    "ending_song": "\"Koi no Himitsu (恋のヒミツ)\" by pua",
+    "ending_song": "\"Koi no Himitsu (恋のヒミツ)\" by pua:re",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "harem",

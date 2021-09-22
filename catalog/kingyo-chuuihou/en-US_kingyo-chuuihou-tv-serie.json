@@ -1,12 +1,16 @@
 {
     "title": "Kingyo Chuuihou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/26657.jpg",
+        "alt": "kingyo-chuuihou"
+    },
     "type": "tv-serie",
     "episodes": "54",
     "original_name": "きんぎょ注意報！",
     "start_date": "1991-01-12",
     "end_date": "1991-01-12",
     "opening_song": "\"Wapiko Genki Yohou\" by Junko Uchida",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Super Kingyo\" by Junko Uchida",
     "rating": "PG - Children",
     "tags": [
         "comedy",

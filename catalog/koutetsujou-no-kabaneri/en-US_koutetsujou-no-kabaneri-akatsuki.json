@@ -1,5 +1,9 @@
 {
     "title": "Koutetsujou no Kabaneri: Akatsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179228.jpg",
+        "alt": "koutetsujou-no-kabaneri-akatsuki"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

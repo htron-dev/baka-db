@@ -1,5 +1,9 @@
 {
     "title": "RPG Fudousan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1209/116786.jpg",
+        "alt": "rpg-fudousan"
+    },
     "type": "tv-serie",
     "original_name": "RPG 不動産",
     "rating": "None",

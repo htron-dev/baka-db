@@ -1,12 +1,16 @@
 {
     "title": "Vividred Operation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/45935.jpg",
+        "alt": "vividred-operation"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ビビッドレッド・オペレーション",
     "start_date": "2013-01-11",
     "end_date": "2013-01-11",
     "opening_song": "\"ENERGY\" by earthmind (eps 2-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"ENERGY\" by earthmind (ep 1)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

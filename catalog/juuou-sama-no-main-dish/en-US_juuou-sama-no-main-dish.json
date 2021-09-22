@@ -1,5 +1,9 @@
 {
     "title": "Juuou-sama no Main Dish",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/186099.jpg",
+        "alt": "juuou-sama-no-main-dish"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

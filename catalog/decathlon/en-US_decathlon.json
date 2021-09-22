@@ -1,5 +1,9 @@
 {
     "title": "Decathlon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154227.jpg",
+        "alt": "decathlon"
+    },
     "type": "manga",
     "volumes": "23",
     "chapters": "241",

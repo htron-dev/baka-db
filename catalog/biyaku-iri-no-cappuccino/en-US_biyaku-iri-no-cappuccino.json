@@ -1,5 +1,9 @@
 {
     "title": "Biyaku Iri no Cappuccino",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/109561.jpg",
+        "alt": "biyaku-iri-no-cappuccino"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

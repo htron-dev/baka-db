@@ -1,5 +1,9 @@
 {
     "title": "Super Darling!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/74055.jpg",
+        "alt": "super-darling"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

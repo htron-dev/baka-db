@@ -1,5 +1,9 @@
 {
     "title": "Cross Light",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26261.jpg",
+        "alt": "cross-light"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "クロスライト",

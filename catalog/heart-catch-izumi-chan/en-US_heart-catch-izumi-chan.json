@@ -1,5 +1,9 @@
 {
     "title": "Heart Catch Izumi-Chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/35271.jpg",
+        "alt": "heart-catch-izumi-chan"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "55",

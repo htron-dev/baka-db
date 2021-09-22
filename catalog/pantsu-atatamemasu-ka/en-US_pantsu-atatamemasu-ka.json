@@ -1,5 +1,9 @@
 {
     "title": "Pantsu Atatamemasu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199700.jpg",
+        "alt": "pantsu-atatamemasu-ka"
+    },
     "type": "light-novel",
     "original_name": "パンツあたためますか？",
     "start_date": "2017-08-01",

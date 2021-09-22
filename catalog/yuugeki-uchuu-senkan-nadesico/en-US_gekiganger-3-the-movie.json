@@ -1,5 +1,9 @@
 {
     "title": "Gekiganger 3: The Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1343/94110.jpg",
+        "alt": "gekiganger-3-the-movie"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ゲキ・ガンガー３　熱血大決戦",

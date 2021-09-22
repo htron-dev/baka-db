@@ -1,5 +1,9 @@
 {
     "title": "Mazinger Z tai Devilman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/6985.jpg",
+        "alt": "mazinger-z-tai-devilman"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "マジンガーＺ対デビルマン",

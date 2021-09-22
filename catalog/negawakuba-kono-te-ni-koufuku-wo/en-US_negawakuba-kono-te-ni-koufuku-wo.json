@@ -1,5 +1,9 @@
 {
     "title": "Negawakuba Kono Te ni Koufuku wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236276.jpg",
+        "alt": "negawakuba-kono-te-ni-koufuku-wo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

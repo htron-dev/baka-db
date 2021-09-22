@@ -1,5 +1,9 @@
 {
     "title": "Dynamic Chord",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224346.jpg",
+        "alt": "dynamic-chord"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

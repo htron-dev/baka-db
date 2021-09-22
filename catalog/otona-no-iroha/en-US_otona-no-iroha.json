@@ -1,5 +1,9 @@
 {
     "title": "Otona no Iroha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192970.jpg",
+        "alt": "otona-no-iroha"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "27",

@@ -1,5 +1,9 @@
 {
     "title": "Voice Radio: Boku no Suki na Personality",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/206111.jpg",
+        "alt": "voice-radio-boku-no-suki-na-personality"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

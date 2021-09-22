@@ -1,5 +1,9 @@
 {
     "title": "Fukumen Kakarichou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227642.jpg",
+        "alt": "fukumen-kakarichou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

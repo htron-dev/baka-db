@@ -1,5 +1,9 @@
 {
     "title": "Tengu no Shiwaza",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246761.jpg",
+        "alt": "tengu-no-shiwaza"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

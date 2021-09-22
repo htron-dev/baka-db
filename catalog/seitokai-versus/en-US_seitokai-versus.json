@@ -1,5 +1,9 @@
 {
     "title": "Seitokai Versus!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/134873.jpg",
+        "alt": "seitokai-versus"
+    },
     "type": "light-novel",
     "volumes": "5",
     "original_name": "生徒会ばーさす！",

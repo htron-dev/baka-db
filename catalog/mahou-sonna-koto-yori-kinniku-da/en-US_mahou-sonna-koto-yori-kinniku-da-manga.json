@@ -1,5 +1,9 @@
 {
     "title": "Mahou? Sonna Koto yori Kinniku da!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215076.jpg",
+        "alt": "mahou-sonna-koto-yori-kinniku-da"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

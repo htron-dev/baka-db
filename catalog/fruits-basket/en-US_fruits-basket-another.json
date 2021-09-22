@@ -1,5 +1,9 @@
 {
     "title": "Fruits Basket: Another",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181877.jpg",
+        "alt": "fruits-basket-another"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

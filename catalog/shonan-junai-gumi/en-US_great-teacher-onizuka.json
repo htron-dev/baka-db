@@ -1,12 +1,16 @@
 {
     "title": "Great Teacher Onizuka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/11460.jpg",
+        "alt": "great-teacher-onizuka"
+    },
     "type": "tv-serie",
     "episodes": "43",
     "original_name": "グレート・ティーチャー・オニヅカ",
     "start_date": "1999-06-30",
     "end_date": "1999-06-30",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Driver's High\" by L'Arc~en~Ciel (eps 01-17)",
+    "ending_song": "#1: \"Last Piece\" by Kirari (eps 1-17)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "slice-of-life",

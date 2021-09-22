@@ -1,12 +1,16 @@
 {
     "title": "Fuku-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/62171.jpg",
+        "alt": "fuku-chan"
+    },
     "type": "tv-serie",
     "episodes": "71",
     "original_name": "フクちゃん",
     "start_date": "1982-02-11",
     "end_date": "1982-02-11",
     "opening_song": "\"Boku, Fuku-chan Dai! (ぼく, フクちゃんだい!)\" by Chika Sakamoto",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Fuku-chan Ekaki Uta (フクちゃんえかきうた)\" by Chika Sakamoto",
     "rating": "PG - Children",
     "tags": [
         "slice-of-life"

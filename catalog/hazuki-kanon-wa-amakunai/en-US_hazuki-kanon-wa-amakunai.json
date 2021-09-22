@@ -1,5 +1,9 @@
 {
     "title": "Hazuki Kanon wa Amakunai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162931.jpg",
+        "alt": "hazuki-kanon-wa-amakunai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "38",

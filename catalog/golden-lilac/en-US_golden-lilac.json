@@ -1,5 +1,9 @@
 {
     "title": "Golden Lilac",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12762.jpg",
+        "alt": "golden-lilac"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Junkissa Neko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/87303.jpg",
+        "alt": "junkissa-neko"
+    },
     "type": "manga",
     "original_name": "純喫茶ねこ",
     "start_date": "2012-08-30",

@@ -1,5 +1,9 @@
 {
     "title": "Hamaneko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/88494.jpg",
+        "alt": "hamaneko"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ハマネコ",

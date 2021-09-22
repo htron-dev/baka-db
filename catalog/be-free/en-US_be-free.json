@@ -1,5 +1,9 @@
 {
     "title": "Be Free!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/76293.jpg",
+        "alt": "be-free"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "128",

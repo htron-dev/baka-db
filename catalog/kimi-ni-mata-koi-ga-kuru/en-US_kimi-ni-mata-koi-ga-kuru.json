@@ -1,5 +1,9 @@
 {
     "title": "Kimi ni Mata Koi ga Kuru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/42677.jpg",
+        "alt": "kimi-ni-mata-koi-ga-kuru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

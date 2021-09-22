@@ -1,5 +1,9 @@
 {
     "title": "Gokuraku Seishun Hockey Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241814.jpg",
+        "alt": "gokuraku-seishun-hockey-club"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "54",

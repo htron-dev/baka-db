@@ -1,5 +1,9 @@
 {
     "title": "Sumika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/189160.jpg",
+        "alt": "sumika"
+    },
     "type": "manga",
     "chapters": "16",
     "original_name": "棲家",

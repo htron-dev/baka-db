@@ -1,5 +1,9 @@
 {
     "title": "Tamako Market Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/47771.jpg",
+        "alt": "tamako-market-specials"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "たまこまーけっと ぺったんこアニメ",

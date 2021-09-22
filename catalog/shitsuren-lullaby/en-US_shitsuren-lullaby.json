@@ -1,5 +1,9 @@
 {
     "title": "Shitsuren Lullaby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158850.jpg",
+        "alt": "shitsuren-lullaby"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

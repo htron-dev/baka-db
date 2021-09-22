@@ -1,5 +1,9 @@
 {
     "title": "8-gatsu 10-nichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182704.jpg",
+        "alt": "8-gatsu-10-nichi"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "11",

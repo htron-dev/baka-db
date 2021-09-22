@@ -1,5 +1,9 @@
 {
     "title": "I My Me! Strawberry Eggs",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1414/93964.jpg",
+        "alt": "i-my-me-strawberry-eggs"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "あぃまぃみぃ！ストロベリー・エッグ",

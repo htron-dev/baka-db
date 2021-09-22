@@ -1,5 +1,9 @@
 {
     "title": "Shinigami Tantei to Yuurei Gakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/80685.jpg",
+        "alt": "shinigami-tantei-to-yuurei-gakuen"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

@@ -1,5 +1,9 @@
 {
     "title": "Virus☆Busters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/152068.jpg",
+        "alt": "virus☆-busters"
+    },
     "type": "manga",
     "original_name": "ウイルス ☆ バスターズ",
     "start_date": "2014-05-28",

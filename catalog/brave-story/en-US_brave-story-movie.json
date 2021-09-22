@@ -1,5 +1,9 @@
 {
     "title": "Brave Story",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1333/97262.jpg",
+        "alt": "brave-story"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ブレイブ・ストーリー",

@@ -1,5 +1,9 @@
 {
     "title": "Otodokeshimasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/35446.jpg",
+        "alt": "otodokeshimasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

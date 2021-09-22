@@ -1,5 +1,9 @@
 {
     "title": "Risky Crime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/88575.jpg",
+        "alt": "risky-crime"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

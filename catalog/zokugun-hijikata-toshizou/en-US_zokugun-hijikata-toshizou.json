@@ -1,5 +1,9 @@
 {
     "title": "Zokugun Hijikata Toshizou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235007.jpg",
+        "alt": "zokugun-hijikata-toshizou"
+    },
     "type": "manga",
     "original_name": "賊軍 土方歳三",
     "start_date": "2019-12-10",

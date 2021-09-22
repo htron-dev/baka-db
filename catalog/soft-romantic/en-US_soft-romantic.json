@@ -1,5 +1,9 @@
 {
     "title": "Soft Romantic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/12230.jpg",
+        "alt": "soft-romantic"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

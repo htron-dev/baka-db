@@ -1,5 +1,9 @@
 {
     "title": "A Will",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186585.jpg",
+        "alt": "a-will"
+    },
     "type": "manga",
     "original_name": "A Will",
     "start_date": "2016-04-30",

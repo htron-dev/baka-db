@@ -1,5 +1,9 @@
 {
     "title": "Nakanohito Genome [Jikkyouchuu]",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1725/102251.jpg",
+        "alt": "nakanohito-genome-jikkyouchuu"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ナカノヒトゲノム【実況中】",

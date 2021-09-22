@@ -1,5 +1,9 @@
 {
     "title": "AKB48 Stage Fighter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/71667.jpg",
+        "alt": "akb-48-stage-fighter"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "AKB48 ステージファイター",

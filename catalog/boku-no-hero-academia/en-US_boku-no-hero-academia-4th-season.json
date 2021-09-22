@@ -1,12 +1,16 @@
 {
     "title": "Boku no Hero Academia 4th Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1412/107914.jpg",
+        "alt": "boku-no-hero-academia-4th-season"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "僕のヒーローアカデミア",
     "start_date": "2019-10-12",
     "end_date": "2019-10-12",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Polaris\" by BLUE ENCOUNT (eps 1-14)",
+    "ending_song": "#1: \"Koukai no Uta (航海の唄)\" by Sayuri (eps 1-14)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

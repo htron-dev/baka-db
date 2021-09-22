@@ -1,5 +1,9 @@
 {
     "title": "Fumoon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/63339.jpg",
+        "alt": "fumoon"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "フウムーン",

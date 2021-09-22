@@ -1,5 +1,9 @@
 {
     "title": "Onna no Sono no Hoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237629.jpg",
+        "alt": "onna-no-sono-no-hoshi"
+    },
     "type": "manga",
     "original_name": "女の園の星",
     "start_date": "2020-01-08",

@@ -1,5 +1,9 @@
 {
     "title": "Gakuen Heaven: Revolution",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/43877.jpg",
+        "alt": "gakuen-heaven-revolution"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

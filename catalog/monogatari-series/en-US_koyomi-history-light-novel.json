@@ -1,5 +1,9 @@
 {
     "title": "Koyomi History",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205801.jpg",
+        "alt": "koyomi-history"
+    },
     "type": "light-novel",
     "chapters": "1",
     "original_name": "こよみヒストリー",

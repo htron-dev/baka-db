@@ -1,5 +1,9 @@
 {
     "title": "Hamster no Kenkyuu Report",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178619.jpg",
+        "alt": "hamster-no-kenkyuu-report"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "ハムスターの研究レポート",

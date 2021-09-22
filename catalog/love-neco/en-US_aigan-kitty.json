@@ -1,5 +1,9 @@
 {
     "title": "Aigan Kitty",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/91555.jpg",
+        "alt": "aigan-kitty"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

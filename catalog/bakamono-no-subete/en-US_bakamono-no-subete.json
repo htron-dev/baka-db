@@ -1,5 +1,9 @@
 {
     "title": "Bakamono no Subete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/178758.jpg",
+        "alt": "bakamono-no-subete"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "42",

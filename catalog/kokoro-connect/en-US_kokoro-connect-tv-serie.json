@@ -1,12 +1,16 @@
 {
     "title": "Kokoro Connect",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/39665.jpg",
+        "alt": "kokoro-connect"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ココロコネクト",
     "start_date": "2012-07-08",
     "end_date": "2012-07-08",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Paradigm (パラダイム)\" by eufonius (eps 1-10)",
+    "ending_song": "#1: \"Kokoro no Kara (ココロノカラ)\" by Team.Nekokan [Neko] featuring. Junca Amaoto (eps 1-5)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

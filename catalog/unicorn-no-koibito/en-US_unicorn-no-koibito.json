@@ -1,5 +1,9 @@
 {
     "title": "Unicorn no Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/127601.jpg",
+        "alt": "unicorn-no-koibito"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "ユニコーンの恋人",

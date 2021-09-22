@@ -1,5 +1,9 @@
 {
     "title": "Project A-Ko 3: Cinderella Rhapsody",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1087/92669.jpg",
+        "alt": "project-a-ko-3-cinderella-rhapsody"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "プロジェクト A 子 3 シンデレララプソディ",

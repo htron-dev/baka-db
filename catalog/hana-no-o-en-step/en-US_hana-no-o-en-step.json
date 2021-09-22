@@ -1,5 +1,9 @@
 {
     "title": "Hana no O-en Step",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/168510.jpg",
+        "alt": "hana-no-o-en-step"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "花の O-EN ステップ",

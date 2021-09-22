@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Santa Claus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23129.jpg",
+        "alt": "koisuru-santa-claus"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "恋するサンタクロース",

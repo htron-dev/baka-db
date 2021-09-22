@@ -1,5 +1,9 @@
 {
     "title": "Akkanbee Ikkyu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/189096.jpg",
+        "alt": "akkanbee-ikkyu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "27",

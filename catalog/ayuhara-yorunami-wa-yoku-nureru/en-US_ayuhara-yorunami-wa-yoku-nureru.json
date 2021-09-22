@@ -1,5 +1,9 @@
 {
     "title": "Ayuhara Yorunami wa Yoku Nureru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179786.jpg",
+        "alt": "ayuhara-yorunami-wa-yoku-nureru"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "13",

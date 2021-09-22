@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty to Issho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/66721.jpg",
+        "alt": "hello-kitty-to-issho"
+    },
     "type": "ova",
     "episodes": "16",
     "original_name": "ハローキティといっしょ",

@@ -1,5 +1,9 @@
 {
     "title": "Boku to Furusato Restaurant",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164991.jpg",
+        "alt": "boku-to-furusato-restaurant"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

@@ -1,5 +1,9 @@
 {
     "title": "Gedokubou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225511.jpg",
+        "alt": "gedokubou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

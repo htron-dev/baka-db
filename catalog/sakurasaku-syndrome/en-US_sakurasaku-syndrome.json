@@ -1,5 +1,9 @@
 {
     "title": "Sakurasaku Syndrome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/98955.jpg",
+        "alt": "sakurasaku-syndrome"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "19",

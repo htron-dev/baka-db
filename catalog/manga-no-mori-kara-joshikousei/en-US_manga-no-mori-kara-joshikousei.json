@@ -1,5 +1,9 @@
 {
     "title": "Manga no Mori kara Joshikousei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227129.jpg",
+        "alt": "manga-no-mori-kara-joshikousei"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

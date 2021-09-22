@@ -1,5 +1,9 @@
 {
     "title": "Korosazaru Mono, Ikubekarazu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198997.jpg",
+        "alt": "korosazaru-mono-ikubekarazu"
+    },
     "type": "manga",
     "original_name": "殺さざる者、生くべからず",
     "start_date": "2017-04-10",

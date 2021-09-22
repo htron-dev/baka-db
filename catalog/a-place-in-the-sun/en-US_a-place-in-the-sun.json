@@ -1,5 +1,9 @@
 {
     "title": "A Place in the Sun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/60329.jpg",
+        "alt": "a-place-in-the-sun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

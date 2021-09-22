@@ -1,5 +1,9 @@
 {
     "title": "Kino to Yano",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236694.jpg",
+        "alt": "kino-to-yano"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

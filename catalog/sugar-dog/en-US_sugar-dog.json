@@ -1,5 +1,9 @@
 {
     "title": "Sugar Dog",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/197381.jpg",
+        "alt": "sugar-dog"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

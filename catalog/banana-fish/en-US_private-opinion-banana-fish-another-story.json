@@ -1,5 +1,9 @@
 {
     "title": "Private Opinion: Banana Fish Another Story",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202641.jpg",
+        "alt": "private-opinion-banana-fish-another-story"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

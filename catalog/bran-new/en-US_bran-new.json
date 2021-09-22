@@ -1,5 +1,9 @@
 {
     "title": "Bran-New",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25759.jpg",
+        "alt": "bran-new"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ブラン・ニュー",

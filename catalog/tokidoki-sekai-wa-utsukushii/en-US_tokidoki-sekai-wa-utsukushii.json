@@ -1,5 +1,9 @@
 {
     "title": "Tokidoki, Sekai wa Utsukushii",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/3939.jpg",
+        "alt": "tokidoki-sekai-wa-utsukushii"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

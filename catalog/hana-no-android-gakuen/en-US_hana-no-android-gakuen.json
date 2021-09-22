@@ -1,5 +1,9 @@
 {
     "title": "Hana no Android Gakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/104221.jpg",
+        "alt": "hana-no-android-gakuen"
+    },
     "type": "manga",
     "original_name": "花のアンドロイド学園",
     "tags": [

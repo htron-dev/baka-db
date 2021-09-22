@@ -1,5 +1,9 @@
 {
     "title": "Reideen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/46143.jpg",
+        "alt": "reideen"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ライディーン",

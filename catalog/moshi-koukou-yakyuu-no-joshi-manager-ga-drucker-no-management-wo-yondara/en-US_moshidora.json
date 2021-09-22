@@ -1,5 +1,9 @@
 {
     "title": "Moshidora",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/29166.jpg",
+        "alt": "moshidora"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "もしドラ",

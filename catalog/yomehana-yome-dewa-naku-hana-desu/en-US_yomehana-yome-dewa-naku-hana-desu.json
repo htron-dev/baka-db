@@ -1,5 +1,9 @@
 {
     "title": "Yomehana: Yome dewa Naku Hana desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246193.jpg",
+        "alt": "yomehana-yome-dewa-naku-hana-desu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

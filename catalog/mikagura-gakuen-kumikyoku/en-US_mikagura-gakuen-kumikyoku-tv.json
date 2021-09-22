@@ -1,12 +1,16 @@
 {
     "title": "Mikagura Gakuen Kumikyoku (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/73590.jpg",
+        "alt": "mikagura-gakuen-kumikyoku-tv"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ミカグラ学園組曲",
     "start_date": "2015-04-07",
     "end_date": "2015-04-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Houkago Kakumei (放課後革命)\" by Houkago Gakuenbu [Eruna Ichimiya (Juri Kimura), Seisa Mikagura (Saori Oonishi), Otone Fujishiro (Ari Ozawa)] (eps 2-11)",
+    "ending_song": "#1: \"Houkago Stride (放課後ストライド)\" by Eruna Ichimiya (Juri Kimura) (ep 1, 9)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

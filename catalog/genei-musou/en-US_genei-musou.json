@@ -1,5 +1,9 @@
 {
     "title": "Genei Musou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36829.jpg",
+        "alt": "genei-musou"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "18",

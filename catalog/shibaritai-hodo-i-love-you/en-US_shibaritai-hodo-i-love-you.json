@@ -1,5 +1,9 @@
 {
     "title": "Shibaritai hodo I Love You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/82258.jpg",
+        "alt": "shibaritai-hodo-i-love-you"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

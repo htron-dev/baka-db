@@ -1,5 +1,9 @@
 {
     "title": "Karakuri Ojousama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40033.jpg",
+        "alt": "karakuri-ojousama"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "からくりお嬢様",

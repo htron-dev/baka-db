@@ -1,5 +1,9 @@
 {
     "title": "Seiju no Kuni no Kinjutsukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/233516.jpg",
+        "alt": "seiju-no-kuni-no-kinjutsukai"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "聖樹の国の禁呪使い",

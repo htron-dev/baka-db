@@ -1,12 +1,16 @@
 {
     "title": "All Out!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/78649.jpg",
+        "alt": "all-out"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "オールアウト!!",
     "start_date": "2016-10-07",
     "end_date": "2016-10-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Flower\" by Lenny code fiction",
+    "ending_song": "#1: \"Zenryoku Shounen produced by Tamio Okuda (全力少年 produced by 奥田民生)\" by Sukima Switch",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "school",

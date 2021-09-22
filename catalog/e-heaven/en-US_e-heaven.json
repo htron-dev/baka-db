@@ -1,5 +1,9 @@
 {
     "title": "e-Heaven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238646.jpg",
+        "alt": "e-heaven"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "16",

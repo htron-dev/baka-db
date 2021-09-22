@@ -1,5 +1,9 @@
 {
     "title": "Tokkyuu!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/184452.jpg",
+        "alt": "tokkyuu"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "196",

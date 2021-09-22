@@ -1,5 +1,9 @@
 {
     "title": "Bokuman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39561.jpg",
+        "alt": "bokuman"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "ボクマン",

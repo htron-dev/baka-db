@@ -1,5 +1,9 @@
 {
     "title": "Suteki na Kegawa ga Nakute mo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10777.jpg",
+        "alt": "suteki-na-kegawa-ga-nakute-mo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

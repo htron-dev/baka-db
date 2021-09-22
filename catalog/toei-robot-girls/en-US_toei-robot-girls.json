@@ -1,5 +1,9 @@
 {
     "title": "Toei Robot Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/56489.jpg",
+        "alt": "toei-robot-girls"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "東映ロボットガールズ",

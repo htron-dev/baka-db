@@ -1,5 +1,9 @@
 {
     "title": "Robot Carnival",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1834/92929.jpg",
+        "alt": "robot-carnival"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ロボット・カーニバル",

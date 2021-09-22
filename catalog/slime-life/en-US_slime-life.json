@@ -1,5 +1,9 @@
 {
     "title": "Slime Life",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205004.jpg",
+        "alt": "slime-life"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "312",

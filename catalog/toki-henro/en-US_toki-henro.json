@@ -1,5 +1,9 @@
 {
     "title": "Toki Henro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/62743.jpg",
+        "alt": "toki-henro"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "5",

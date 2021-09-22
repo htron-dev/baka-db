@@ -1,5 +1,9 @@
 {
     "title": "Chengyu Donghua Lang",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/27298.jpg",
+        "alt": "chengyu-donghua-lang"
+    },
     "type": "tv-serie",
     "episodes": "180",
     "original_name": "成語動畫廊",

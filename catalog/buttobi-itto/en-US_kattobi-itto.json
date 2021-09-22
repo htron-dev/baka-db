@@ -1,5 +1,9 @@
 {
     "title": "Kattobi Itto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/77805.jpg",
+        "alt": "kattobi-itto"
+    },
     "type": "manga",
     "volumes": "46",
     "chapters": "165",

@@ -1,5 +1,9 @@
 {
     "title": "Aishite Knight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/30629.jpg",
+        "alt": "aishite-knight"
+    },
     "type": "tv-serie",
     "episodes": "42",
     "original_name": "愛してナイト",

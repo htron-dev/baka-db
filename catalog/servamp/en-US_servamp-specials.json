@@ -1,5 +1,9 @@
 {
     "title": "Servamp Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/83960.jpg",
+        "alt": "servamp-specials"
+    },
     "type": "special",
     "episodes": "4",
     "original_name": "SERVAMP-サーヴァンプ- オリジナルビデオアニメーション「Sleepy Life of SERVAMP」",

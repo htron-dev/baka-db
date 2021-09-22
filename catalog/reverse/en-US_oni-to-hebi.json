@@ -1,5 +1,9 @@
 {
     "title": "Oni to Hebi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/248494.jpg",
+        "alt": "oni-to-hebi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

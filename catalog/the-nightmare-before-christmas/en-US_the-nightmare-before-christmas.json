@@ -1,5 +1,9 @@
 {
     "title": "The Nightmare Before Christmas",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180346.jpg",
+        "alt": "the-nightmare-before-christmas"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ナイトメアー・ビフォア・クリスマス",

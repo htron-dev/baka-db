@@ -1,5 +1,9 @@
 {
     "title": "Sansukumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/150978.jpg",
+        "alt": "sansukumi"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "62",

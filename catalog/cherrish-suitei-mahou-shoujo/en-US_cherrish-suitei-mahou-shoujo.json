@@ -1,5 +1,9 @@
 {
     "title": "Cherrish: Suitei Mahou Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162865.jpg",
+        "alt": "cherrish-suitei-mahou-shoujo"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "4",

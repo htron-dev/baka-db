@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Tomodachi ga Sukunai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/32873.jpg",
+        "alt": "boku-wa-tomodachi-ga-sukunai"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "僕は友達が少ない",

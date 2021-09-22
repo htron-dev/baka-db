@@ -1,12 +1,16 @@
 {
     "title": "Kidou Tenshi Angelic Layer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1192/113699.jpg",
+        "alt": "kidou-tenshi-angelic-layer"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "機動天使エンジェリックレイヤー",
     "start_date": "2001-04-01",
     "end_date": "2001-04-01",
     "opening_song": "\"Be My Angel\" by Enomoto Atsuko",
-    "ending_song": "#1",
+    "ending_song": "#1: \"The Starry Sky\" by HAL",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

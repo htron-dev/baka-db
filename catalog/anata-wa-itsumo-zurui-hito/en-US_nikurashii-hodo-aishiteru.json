@@ -1,5 +1,9 @@
 {
     "title": "Nikurashii hodo Aishiteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224057.jpg",
+        "alt": "nikurashii-hodo-aishiteru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Lu Ling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/64303.jpg",
+        "alt": "lu-ling"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "鹿铃",

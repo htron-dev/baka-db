@@ -1,5 +1,9 @@
 {
     "title": "Video Senshi Lezarion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/57367.jpg",
+        "alt": "video-senshi-lezarion"
+    },
     "type": "tv-serie",
     "episodes": "45",
     "original_name": "ビデオ戦士レザリオン",

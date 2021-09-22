@@ -1,5 +1,9 @@
 {
     "title": "Kobayashi Shounen to Futei no Kaijin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203488.jpg",
+        "alt": "kobayashi-shounen-to-futei-no-kaijin"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "37",

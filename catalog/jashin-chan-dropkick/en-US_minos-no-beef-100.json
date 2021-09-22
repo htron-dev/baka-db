@@ -1,5 +1,9 @@
 {
     "title": "Minos no Beef 100%",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/232365.jpg",
+        "alt": "minos-no-beef-100"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

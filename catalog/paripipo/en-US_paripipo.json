@@ -1,5 +1,9 @@
 {
     "title": "Paripipo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/209892.jpg",
+        "alt": "paripipo"
+    },
     "type": "manga",
     "original_name": "ぱりぴぽ！",
     "start_date": "2017-04-27",

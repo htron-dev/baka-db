@@ -1,5 +1,9 @@
 {
     "title": "Funouhan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/130237.jpg",
+        "alt": "funouhan"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "83",

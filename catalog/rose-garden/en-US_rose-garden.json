@@ -1,5 +1,9 @@
 {
     "title": "Rose Garden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21599.jpg",
+        "alt": "rose-garden"
+    },
     "type": "manhwa",
     "chapters": "2",
     "tags": [

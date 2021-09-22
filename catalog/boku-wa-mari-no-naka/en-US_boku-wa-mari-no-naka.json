@@ -1,5 +1,9 @@
 {
     "title": "Boku wa Mari no Naka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/88263.jpg",
+        "alt": "boku-wa-mari-no-naka"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "80",

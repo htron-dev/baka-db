@@ -1,5 +1,9 @@
 {
     "title": "Hatsukiai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38427.jpg",
+        "alt": "hatsukiai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

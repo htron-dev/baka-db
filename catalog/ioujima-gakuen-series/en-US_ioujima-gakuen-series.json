@@ -1,5 +1,9 @@
 {
     "title": "Ioujima Gakuen Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/124987.jpg",
+        "alt": "ioujima-gakuen-series"
+    },
     "type": "light-novel",
     "volumes": "6",
     "chapters": "63",

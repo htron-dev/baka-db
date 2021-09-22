@@ -1,5 +1,9 @@
 {
     "title": "Onaka Hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/74638.jpg",
+        "alt": "onaka-hime"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "おなか姫",

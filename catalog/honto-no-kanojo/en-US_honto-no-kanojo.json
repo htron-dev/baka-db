@@ -1,5 +1,9 @@
 {
     "title": "Honto no Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159269.jpg",
+        "alt": "honto-no-kanojo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

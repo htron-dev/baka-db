@@ -1,5 +1,9 @@
 {
     "title": "Kindan no Koi de Ikou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/5717.jpg",
+        "alt": "kindan-no-koi-de-ikou"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "50",

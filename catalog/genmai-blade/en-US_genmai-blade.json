@@ -1,5 +1,9 @@
 {
     "title": "Genmai Blade",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/121723.jpg",
+        "alt": "genmai-blade"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Sweet☆Mission",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180922.jpg",
+        "alt": "sweet☆-mission"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "37",

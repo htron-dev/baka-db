@@ -1,5 +1,9 @@
 {
     "title": "The Queen's Knight",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/1543.jpg",
+        "alt": "the-queens-knight"
+    },
     "type": "manhwa",
     "volumes": "17",
     "chapters": "79",

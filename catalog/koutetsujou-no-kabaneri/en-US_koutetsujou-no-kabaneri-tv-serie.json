@@ -1,12 +1,16 @@
 {
     "title": "Koutetsujou no Kabaneri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/79164.jpg",
+        "alt": "koutetsujou-no-kabaneri"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "甲鉄城のカバネリ",
     "start_date": "2016-04-08",
     "end_date": "2016-04-08",
     "opening_song": "\"KABANERI OF THE IRON FORTRESS\" by EGOIST (eps 2-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"KABANERI OF THE IRON FORTRESS\" by EGOIST (ep 1)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

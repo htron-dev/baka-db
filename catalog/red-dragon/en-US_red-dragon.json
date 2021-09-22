@@ -1,5 +1,9 @@
 {
     "title": "Red Dragon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182776.jpg",
+        "alt": "red-dragon"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "26",

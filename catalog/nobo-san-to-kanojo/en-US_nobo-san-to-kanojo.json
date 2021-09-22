@@ -1,5 +1,9 @@
 {
     "title": "Nobo-san to Kanojo?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199866.jpg",
+        "alt": "nobo-san-to-kanojo"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "64",

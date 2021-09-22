@@ -1,11 +1,15 @@
 {
     "title": "No Guns Life 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1477/106613.jpg",
+        "alt": "no-guns-life-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ノー・ガンズ・ライフ",
     "start_date": "2020-07-10",
     "end_date": "2020-07-10",
-    "opening_song": "\"Chaos Drifters\" by SawanoHiroyuki[nZk]",
+    "opening_song": "\"Chaos Drifters\" by SawanoHiroyuki[nZk]:Jean-Ken Johnny",
     "ending_song": "\"new world\" by THIS IS JAPAN",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

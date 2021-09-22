@@ -1,5 +1,9 @@
 {
     "title": "Kareo ni Mizu wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40631.jpg",
+        "alt": "kareo-ni-mizu-wo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

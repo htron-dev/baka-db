@@ -1,5 +1,9 @@
 {
     "title": "Canvas ni Kuchizuke wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/24871.jpg",
+        "alt": "canvas-ni-kuchizuke-wo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Stellar☆Theater",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33637.jpg",
+        "alt": "stellar☆-theater"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

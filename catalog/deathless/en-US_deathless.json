@@ -1,5 +1,9 @@
 {
     "title": "Deathless",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149201.jpg",
+        "alt": "deathless"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "76",

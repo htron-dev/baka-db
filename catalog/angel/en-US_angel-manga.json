@@ -1,5 +1,9 @@
 {
     "title": "Angel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/48289.jpg",
+        "alt": "angel"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "60",

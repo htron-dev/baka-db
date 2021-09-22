@@ -1,11 +1,15 @@
 {
     "title": "Mushikago no Cagaster",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1842/105458.jpg",
+        "alt": "mushikago-no-cagaster"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "虫籠のカガステル",
     "start_date": "2020-02-06",
     "opening_song": "\"Be ZERO\" by Hilcrhyme",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Okubyou na Ookami 2019 (臆病な狼 2019)\" by Hilchryme (eps 1-3, 5-11)",
     "rating": "None",
     "tags": [
         "action",

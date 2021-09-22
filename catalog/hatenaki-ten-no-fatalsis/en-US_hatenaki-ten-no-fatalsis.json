@@ -1,5 +1,9 @@
 {
     "title": "Hatenaki Ten no Fatalsis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/109441.jpg",
+        "alt": "hatenaki-ten-no-fatalsis"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "果てなき天のファタルシス",

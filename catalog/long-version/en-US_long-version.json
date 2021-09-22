@@ -1,5 +1,9 @@
 {
     "title": "Long Version",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/97767.jpg",
+        "alt": "long-version"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

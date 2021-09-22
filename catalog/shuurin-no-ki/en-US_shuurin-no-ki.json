@@ -1,5 +1,9 @@
 {
     "title": "Shuurin no Ki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/23432.jpg",
+        "alt": "shuurin-no-ki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

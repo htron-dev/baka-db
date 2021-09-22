@@ -1,5 +1,9 @@
 {
     "title": "Japan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/34397.jpg",
+        "alt": "japan"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ジャパン",

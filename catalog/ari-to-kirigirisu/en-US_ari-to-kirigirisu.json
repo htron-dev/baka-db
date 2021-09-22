@@ -1,5 +1,9 @@
 {
     "title": "Ari to Kirigirisu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/80260.jpg",
+        "alt": "ari-to-kirigirisu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ありときりぎりす",

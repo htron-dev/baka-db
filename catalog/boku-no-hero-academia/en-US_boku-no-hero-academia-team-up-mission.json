@@ -1,5 +1,9 @@
 {
     "title": "Boku no Hero Academia: Team Up Mission",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227743.jpg",
+        "alt": "boku-no-hero-academia-team-up-mission"
+    },
     "type": "manga",
     "original_name": "僕のヒーローアカデミア チームアップミッション",
     "start_date": "2019-08-02",

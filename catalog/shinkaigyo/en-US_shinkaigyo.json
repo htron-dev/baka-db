@@ -1,5 +1,9 @@
 {
     "title": "Shinkaigyo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236241.jpg",
+        "alt": "shinkaigyo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

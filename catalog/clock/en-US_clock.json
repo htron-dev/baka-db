@@ -1,5 +1,9 @@
 {
     "title": "Clock",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/65733.jpg",
+        "alt": "clock"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "CLOCK",

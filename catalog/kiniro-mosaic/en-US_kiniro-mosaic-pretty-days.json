@@ -1,5 +1,9 @@
 {
     "title": "Kiniro Mosaic: Pretty Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/81607.jpg",
+        "alt": "kiniro-mosaic-pretty-days"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "きんいろモザイク Pretty Days",

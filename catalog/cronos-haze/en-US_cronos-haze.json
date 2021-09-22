@@ -1,5 +1,9 @@
 {
     "title": "Cronos Haze",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172248.jpg",
+        "alt": "cronos-haze"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

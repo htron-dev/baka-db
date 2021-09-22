@@ -1,5 +1,9 @@
 {
     "title": "Prince of Destruction",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/8166.jpg",
+        "alt": "prince-of-destruction"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "12",

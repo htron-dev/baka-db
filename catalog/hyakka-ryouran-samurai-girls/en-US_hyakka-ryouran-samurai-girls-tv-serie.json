@@ -1,5 +1,9 @@
 {
     "title": "Hyakka Ryouran: Samurai Girls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/27705.jpg",
+        "alt": "hyakka-ryouran-samurai-girls"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "百花繚乱 サムライガールズ",

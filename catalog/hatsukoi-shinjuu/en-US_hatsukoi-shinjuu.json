@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi Shinjuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/128601.jpg",
+        "alt": "hatsukoi-shinjuu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "38",

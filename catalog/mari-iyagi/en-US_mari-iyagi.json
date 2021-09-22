@@ -1,5 +1,9 @@
 {
     "title": "Mari Iyagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/2276.jpg",
+        "alt": "mari-iyagi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "마리 이야기 (korean)",

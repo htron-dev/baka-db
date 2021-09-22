@@ -1,5 +1,9 @@
 {
     "title": "Inai Boku wa Hotarumachi ni Iru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189630.jpg",
+        "alt": "inai-boku-wa-hotarumachi-ni-iru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

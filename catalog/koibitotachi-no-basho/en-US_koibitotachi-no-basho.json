@@ -1,5 +1,9 @@
 {
     "title": "Koibitotachi no Basho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31703.jpg",
+        "alt": "koibitotachi-no-basho"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "恋人たちの場所",

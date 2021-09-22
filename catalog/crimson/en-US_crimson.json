@@ -1,5 +1,9 @@
 {
     "title": "Crimson",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2845.jpg",
+        "alt": "crimson"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

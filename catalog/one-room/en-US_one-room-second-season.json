@@ -1,11 +1,15 @@
 {
     "title": "One Room Second Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1098/93257.jpg",
+        "alt": "one-room-second-season"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "One Room セカンドシーズン",
     "start_date": "2018-07-10",
     "end_date": "2018-07-10",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Aozora Morning Glory (青空モーニンググローリー)\" by Yui Hanasaka (M·A·O) (eps 1-4)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life"
@@ -30,7 +34,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/One_Room_(anime"
+            "link": "https://en.wikipedia.org/wiki/One_Room_%28anime%29"
         }
     ]
 }

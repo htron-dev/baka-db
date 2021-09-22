@@ -1,5 +1,9 @@
 {
     "title": "Gegege no Kitarou: Kitarou Tanjou-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/63529.jpg",
+        "alt": "gegege-no-kitarou-kitarou-tanjou-hen"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "鬼太郎的誕生",

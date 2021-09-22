@@ -1,5 +1,9 @@
 {
     "title": "Otoko Ippiki Gaki Daishou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158344.jpg",
+        "alt": "otoko-ippiki-gaki-daishou"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "152",

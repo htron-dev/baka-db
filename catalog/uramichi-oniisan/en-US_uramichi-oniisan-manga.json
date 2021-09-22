@@ -1,5 +1,9 @@
 {
     "title": "Uramichi Oniisan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/201611.jpg",
+        "alt": "uramichi-oniisan"
+    },
     "type": "manga",
     "original_name": "うらみちお兄さん",
     "start_date": "2017-05-12",

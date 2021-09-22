@@ -1,5 +1,9 @@
 {
     "title": "Heaven's Diary",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162646.jpg",
+        "alt": "heavens-diary"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "15",

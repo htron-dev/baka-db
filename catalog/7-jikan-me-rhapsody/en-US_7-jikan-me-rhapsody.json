@@ -1,5 +1,9 @@
 {
     "title": "7 Jikan-me Rhapsody",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14830.jpg",
+        "alt": "7-jikan-me-rhapsody"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

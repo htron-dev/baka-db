@@ -1,5 +1,9 @@
 {
     "title": "Conveni Ojousama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202117.jpg",
+        "alt": "conveni-ojousama"
+    },
     "type": "manga",
     "original_name": "コンビニお嬢さま",
     "start_date": "2015-11-06",

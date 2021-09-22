@@ -1,5 +1,9 @@
 {
     "title": "Tantei Jimusho H.G",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11714.jpg",
+        "alt": "tantei-jimusho-h-g"
+    },
     "type": "manga",
     "original_name": "探偵事務所 H・G",
     "tags": [

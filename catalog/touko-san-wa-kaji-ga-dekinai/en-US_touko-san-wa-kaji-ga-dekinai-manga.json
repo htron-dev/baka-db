@@ -1,5 +1,9 @@
 {
     "title": "Touko-san wa Kaji ga Dekinai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/243488.jpg",
+        "alt": "touko-san-wa-kaji-ga-dekinai"
+    },
     "type": "manga",
     "original_name": "塔子さんは家事ができない。",
     "start_date": "2019-06-18",

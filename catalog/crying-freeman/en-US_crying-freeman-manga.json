@@ -1,5 +1,9 @@
 {
     "title": "Crying Freeman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/1390.jpg",
+        "alt": "crying-freeman"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "103",

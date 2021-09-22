@@ -1,12 +1,16 @@
 {
     "title": "Toradora!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/22128.jpg",
+        "alt": "toradora"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "とらドラ！",
     "start_date": "2008-10-02",
     "end_date": "2008-10-02",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Pre-Parade (プレパレード)\" by Rie Kugimiya, Yui Horie, and Eri Kitamura (eps 1-16)",
+    "ending_song": "#1: \"Vanilla Salt (バニラソルト)\" by Yui Horie (eps 1-16)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

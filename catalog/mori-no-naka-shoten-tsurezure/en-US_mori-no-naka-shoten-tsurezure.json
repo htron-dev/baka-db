@@ -1,5 +1,9 @@
 {
     "title": "Mori no Naka Shoten Tsurezure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193296.jpg",
+        "alt": "mori-no-naka-shoten-tsurezure"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

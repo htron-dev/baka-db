@@ -1,5 +1,9 @@
 {
     "title": "Holmes Meets Lupin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164019.jpg",
+        "alt": "holmes-meets-lupin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Sacred Chronicle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177403.jpg",
+        "alt": "sacred-chronicle"
+    },
     "type": "light-novel",
     "original_name": "セイクリッド・クロニクル",
     "start_date": "2015-07-15",

@@ -1,5 +1,9 @@
 {
     "title": "Koigakubo Princess Honey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165516.jpg",
+        "alt": "koigakubo-princess-honey"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "28",

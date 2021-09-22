@@ -1,5 +1,9 @@
 {
     "title": "Rotte no Omocha!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158386.jpg",
+        "alt": "rotte-no-omocha"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "70",

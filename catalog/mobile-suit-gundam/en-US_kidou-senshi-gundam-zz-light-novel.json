@@ -1,5 +1,9 @@
 {
     "title": "Kidou Senshi Gundam ZZ",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/148101.jpg",
+        "alt": "kidou-senshi-gundam-zz"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "機動戦士ガンダム ZZ",

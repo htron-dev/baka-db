@@ -1,5 +1,9 @@
 {
     "title": "Galaxy Angel 3rd",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165052.jpg",
+        "alt": "galaxy-angel-3rd"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "ギャラクシーエンジェル 3rd",

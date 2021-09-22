@@ -1,5 +1,9 @@
 {
     "title": "Shadowverse: Arisa Duelverse",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/199953.jpg",
+        "alt": "shadowverse-arisa-duelverse"
+    },
     "type": "manga",
     "original_name": "SHADOWVERSE ありさデュエルバース",
     "start_date": "2016-06-02",

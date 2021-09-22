@@ -1,5 +1,9 @@
 {
     "title": "P no Higeki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/146129.jpg",
+        "alt": "p-no-higeki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

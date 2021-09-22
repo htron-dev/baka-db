@@ -1,5 +1,9 @@
 {
     "title": "Wonder Balls",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1674/115257.jpg",
+        "alt": "wonder-balls"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "원더볼즈",

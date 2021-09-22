@@ -1,5 +1,9 @@
 {
     "title": "Tsuyokute New Saga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186492.jpg",
+        "alt": "tsuyokute-new-saga"
+    },
     "type": "light-novel",
     "volumes": "10",
     "original_name": "強くてニューサーガ",

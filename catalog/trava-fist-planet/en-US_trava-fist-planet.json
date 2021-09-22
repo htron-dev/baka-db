@@ -1,5 +1,9 @@
 {
     "title": "Trava: Fist Planet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/25859.jpg",
+        "alt": "trava-fist-planet"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "TRAVA FIST PLANET",

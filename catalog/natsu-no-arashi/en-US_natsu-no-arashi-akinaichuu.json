@@ -1,12 +1,16 @@
 {
     "title": "Natsu no Arashi! Akinaichuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/16864.jpg",
+        "alt": "natsu-no-arashi-akinaichuu"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "夏のあらし!春夏冬中",
     "start_date": "2009-10-05",
     "end_date": "2009-10-05",
     "opening_song": "\"Oyasumi Paradox (おやすみパラドックス)\" by Etsuko Yakushimaru",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Otome no Junjo (乙女の順序)\" by Ryoko Shiraishi, Kaori Nazuka, Ai Nonaka & Yui Horie (eps 1-9, 11-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

@@ -1,5 +1,9 @@
 {
     "title": "Mayonaka no Orphée",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224689.jpg",
+        "alt": "mayonaka-no-orphee"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

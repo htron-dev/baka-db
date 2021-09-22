@@ -1,5 +1,9 @@
 {
     "title": "Play Ball 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/199693.jpg",
+        "alt": "play-ball-2"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "96",

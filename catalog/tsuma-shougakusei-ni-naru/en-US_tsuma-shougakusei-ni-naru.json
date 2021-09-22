@@ -1,5 +1,9 @@
 {
     "title": "Tsuma, Shougakusei ni Naru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221433.jpg",
+        "alt": "tsuma-shougakusei-ni-naru"
+    },
     "type": "manga",
     "original_name": "妻、小学生になる。",
     "start_date": "2018-07-27",

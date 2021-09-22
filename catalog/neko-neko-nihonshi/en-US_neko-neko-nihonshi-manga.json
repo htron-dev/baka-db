@@ -1,5 +1,9 @@
 {
     "title": "Neko Neko Nihonshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171488.jpg",
+        "alt": "neko-neko-nihonshi"
+    },
     "type": "manga",
     "original_name": "ねこねこ日本史",
     "start_date": "2015-02-13",

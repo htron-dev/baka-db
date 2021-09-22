@@ -1,12 +1,16 @@
 {
     "title": "Onegai My Melody Sukkiri♪",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/23593.jpg",
+        "alt": "onegai-my-melody-sukkiri♪"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "おねがい マイメロディ すっきり ♪",
     "start_date": "2007-04-01",
     "end_date": "2007-04-01",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"KiriKiriSu (キリキリスー)\" by Marina Kuroki (eps 1-27)",
+    "ending_song": "#1: \"Hoppeni Chu♡ Chu♡ (ほっぺに Chu♡Chu♡)\" by NanaKana (eps 1-51)",
     "rating": "PG - Children",
     "tags": [
         "fantasy",

@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Danshi Hana no Ran",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79411.jpg",
+        "alt": "sengoku-danshi-hana-no-ran"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

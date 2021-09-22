@@ -1,5 +1,9 @@
 {
     "title": "Body Guard",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/20409.jpg",
+        "alt": "body-guard"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

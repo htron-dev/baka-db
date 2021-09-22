@@ -1,5 +1,9 @@
 {
     "title": "Star Wars: Phantom Menace",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22872.jpg",
+        "alt": "star-wars-phantom-menace"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "STAR WARS ﻿﻿ ファントム・メナス",

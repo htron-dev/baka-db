@@ -1,5 +1,9 @@
 {
     "title": "Fujimaru!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/241758.jpg",
+        "alt": "fujimaru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

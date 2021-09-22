@@ -1,5 +1,9 @@
 {
     "title": "Zakkyo Jidai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/31078.jpg",
+        "alt": "zakkyo-jidai"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "雑居時代",

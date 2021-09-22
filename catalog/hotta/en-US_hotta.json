@@ -1,5 +1,9 @@
 {
     "title": "HOTTA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/29958.jpg",
+        "alt": "hotta"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "HOTTA 堀田",

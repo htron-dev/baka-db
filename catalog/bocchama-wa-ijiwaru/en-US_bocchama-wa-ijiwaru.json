@@ -1,5 +1,9 @@
 {
     "title": "Bocchama wa Ijiwaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/111987.jpg",
+        "alt": "bocchama-wa-ijiwaru"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "22",

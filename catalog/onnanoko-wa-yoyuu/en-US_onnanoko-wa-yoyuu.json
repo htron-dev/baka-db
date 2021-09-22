@@ -1,5 +1,9 @@
 {
     "title": "Onnanoko wa Yoyuu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40982.jpg",
+        "alt": "onnanoko-wa-yoyuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

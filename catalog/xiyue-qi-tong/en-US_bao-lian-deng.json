@@ -1,5 +1,9 @@
 {
     "title": "Bao Lian Deng",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/18786.jpg",
+        "alt": "bao-lian-deng"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "宝莲灯",

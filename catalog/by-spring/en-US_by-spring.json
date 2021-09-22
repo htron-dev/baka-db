@@ -1,5 +1,9 @@
 {
     "title": "By Spring",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234164.jpg",
+        "alt": "by-spring"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

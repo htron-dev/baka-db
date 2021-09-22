@@ -1,5 +1,9 @@
 {
     "title": "TO",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/18027.jpg",
+        "alt": "to"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "トゥー",

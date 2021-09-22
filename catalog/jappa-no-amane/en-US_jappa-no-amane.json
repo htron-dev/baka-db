@@ -1,5 +1,9 @@
 {
     "title": "Jappa no Amane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/64881.jpg",
+        "alt": "jappa-no-amane"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

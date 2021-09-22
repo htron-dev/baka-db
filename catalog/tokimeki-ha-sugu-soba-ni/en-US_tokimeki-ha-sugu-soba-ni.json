@@ -1,5 +1,9 @@
 {
     "title": "Tokimeki ha, Sugu Soba ni.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1707/113737.jpg",
+        "alt": "tokimeki-ha-sugu-soba-ni"
+    },
     "type": "ona",
     "original_name": "ときめきは、すぐそばに。",
     "start_date": "2021-01-24",

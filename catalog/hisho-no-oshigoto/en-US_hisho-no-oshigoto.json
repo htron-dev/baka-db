@@ -1,5 +1,9 @@
 {
     "title": "Hisho no Oshigoto?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/73151.jpg",
+        "alt": "hisho-no-oshigoto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

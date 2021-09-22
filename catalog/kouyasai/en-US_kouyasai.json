@@ -1,5 +1,9 @@
 {
     "title": "Kouyasai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/127953.jpg",
+        "alt": "kouyasai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

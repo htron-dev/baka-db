@@ -1,5 +1,9 @@
 {
     "title": "Koi wa Hito no Hoka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175347.jpg",
+        "alt": "koi-wa-hito-no-hoka"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

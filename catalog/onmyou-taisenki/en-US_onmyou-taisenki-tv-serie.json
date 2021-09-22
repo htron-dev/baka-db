@@ -1,12 +1,16 @@
 {
     "title": "Onmyou Taisenki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/73994.jpg",
+        "alt": "onmyou-taisenki"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "陰陽大戦記",
     "start_date": "2004-11-30",
     "end_date": "2004-11-30",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kimi to Nara (君となら)\" by Suther Rand (ep 1-26)",
+    "ending_song": "#1: \"Sora Kake Agaru (空カケアガル)\" by Raiko (eps 1-13)",
     "rating": "G - All Ages",
     "tags": [
         "adventure",

@@ -1,5 +1,9 @@
 {
     "title": "Junketsu no S-ko-chan.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/204733.jpg",
+        "alt": "junketsu-no-s-ko-chan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

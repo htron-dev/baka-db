@@ -1,5 +1,9 @@
 {
     "title": "Baby Birth",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/618.jpg",
+        "alt": "baby-birth"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "21",

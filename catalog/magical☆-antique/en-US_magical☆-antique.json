@@ -1,5 +1,9 @@
 {
     "title": "Magical☆Antique",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/94527.jpg",
+        "alt": "magical☆-antique"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

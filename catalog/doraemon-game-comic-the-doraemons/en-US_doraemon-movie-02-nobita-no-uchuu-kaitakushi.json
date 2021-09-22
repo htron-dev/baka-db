@@ -1,5 +1,9 @@
 {
     "title": "Doraemon Movie 02: Nobita no Uchuu Kaitakushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/72406.jpg",
+        "alt": "doraemon-movie-02-nobita-no-uchuu-kaitakushi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "映画 ドラえもん のび太の宇宙開拓史",

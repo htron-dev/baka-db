@@ -1,5 +1,9 @@
 {
     "title": "Doutei Kayaker Kakeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/216304.jpg",
+        "alt": "doutei-kayaker-kakeru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "37",

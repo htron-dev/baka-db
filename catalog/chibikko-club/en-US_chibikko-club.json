@@ -1,5 +1,9 @@
 {
     "title": "Chibikko Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31062.jpg",
+        "alt": "chibikko-club"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

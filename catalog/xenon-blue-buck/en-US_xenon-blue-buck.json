@@ -1,5 +1,9 @@
 {
     "title": "Xenon: Blue Buck",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/126725.jpg",
+        "alt": "xenon-blue-buck"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

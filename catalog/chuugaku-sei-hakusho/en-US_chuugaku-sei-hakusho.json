@@ -1,5 +1,9 @@
 {
     "title": "Chuugaku Sei Hakusho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215557.jpg",
+        "alt": "chuugaku-sei-hakusho"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

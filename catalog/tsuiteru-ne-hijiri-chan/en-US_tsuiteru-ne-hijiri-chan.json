@@ -1,5 +1,9 @@
 {
     "title": "Tsuiteru ne Hijiri-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10403.jpg",
+        "alt": "tsuiteru-ne-hijiri-chan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

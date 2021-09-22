@@ -1,5 +1,9 @@
 {
     "title": "Shen Bi Ma Liang",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1525/115612.jpg",
+        "alt": "shen-bi-ma-liang"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "神笔马良",

@@ -1,5 +1,9 @@
 {
     "title": "Yongou x Keibi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149090.jpg",
+        "alt": "yongou-x-keibi"
+    },
     "type": "manga",
     "volumes": "10",
     "original_name": "四号 × 警備",

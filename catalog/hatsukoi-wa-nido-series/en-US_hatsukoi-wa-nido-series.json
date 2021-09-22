@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi wa Nido Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167309.jpg",
+        "alt": "hatsukoi-wa-nido-series"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

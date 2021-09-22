@@ -1,5 +1,9 @@
 {
     "title": "Mashou no Kare wa Ai wo Shiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192225.jpg",
+        "alt": "mashou-no-kare-wa-ai-wo-shiru"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "12",

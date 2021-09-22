@@ -1,5 +1,9 @@
 {
     "title": "Mahotsukai no Tamagotachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/61309.jpg",
+        "alt": "mahotsukai-no-tamagotachi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

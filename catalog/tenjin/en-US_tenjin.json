@@ -1,5 +1,9 @@
 {
     "title": "Tenjin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168686.jpg",
+        "alt": "tenjin"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "124",

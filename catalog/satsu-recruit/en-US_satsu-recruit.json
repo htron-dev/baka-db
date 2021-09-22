@@ -1,5 +1,9 @@
 {
     "title": "Satsu Recruit",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/204435.jpg",
+        "alt": "satsu-recruit"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "67",

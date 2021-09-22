@@ -1,5 +1,9 @@
 {
     "title": "Blade of the Immortal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/157919.jpg",
+        "alt": "blade-of-the-immortal"
+    },
     "type": "manga",
     "volumes": "30",
     "chapters": "207",

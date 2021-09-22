@@ -1,5 +1,9 @@
 {
     "title": "Seishun Pop!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/65831.jpg",
+        "alt": "seishun-pop"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "47",

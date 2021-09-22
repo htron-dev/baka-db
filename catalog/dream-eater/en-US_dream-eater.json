@@ -1,5 +1,9 @@
 {
     "title": "Dream Eater",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/44511.jpg",
+        "alt": "dream-eater"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ドリームイーター",

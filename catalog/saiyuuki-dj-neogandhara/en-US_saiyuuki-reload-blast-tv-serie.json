@@ -1,5 +1,9 @@
 {
     "title": "Saiyuuki Reload Blast",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/86675.jpg",
+        "alt": "saiyuuki-reload-blast"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "最遊記 RELOAD BLAST",
@@ -37,7 +41,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Saiyuki_(manga"
+            "link": "https://en.wikipedia.org/wiki/Saiyuki_%28manga%29"
         }
     ]
 }

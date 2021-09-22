@@ -1,5 +1,9 @@
 {
     "title": "Zenchuu Maite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/72281.jpg",
+        "alt": "zenchuu-maite"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "蠕虫舞手",

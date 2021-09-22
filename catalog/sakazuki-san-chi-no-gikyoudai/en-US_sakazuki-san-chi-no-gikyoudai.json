@@ -1,5 +1,9 @@
 {
     "title": "Sakazuki-san Chi no Gikyoudai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/202407.jpg",
+        "alt": "sakazuki-san-chi-no-gikyoudai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "41",

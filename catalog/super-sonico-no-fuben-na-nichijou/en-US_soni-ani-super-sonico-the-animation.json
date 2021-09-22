@@ -1,12 +1,16 @@
 {
     "title": "SoniAni: Super Sonico The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/56987.jpg",
+        "alt": "soni-ani-super-sonico-the-animation"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "そにアニ -SUPER SONICO THE ANIMATION-",
     "start_date": "2014-01-06",
     "end_date": "2014-01-06",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: \"Beat goes on!\" by Super Sonico (ep 1)",
+    "ending_song": "#01: \"LOVE THE WORLD\" by First Astronomical Velocity (第一宇宙速度) (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music",

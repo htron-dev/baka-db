@@ -1,5 +1,9 @@
 {
     "title": "Meirenyu: Haidao Laixi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1160/115613.jpg",
+        "alt": "meirenyu-haidao-laixi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "美人鱼之海盗来袭",

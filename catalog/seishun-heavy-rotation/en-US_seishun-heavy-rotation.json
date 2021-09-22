@@ -1,5 +1,9 @@
 {
     "title": "Seishun Heavy Rotation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244871.jpg",
+        "alt": "seishun-heavy-rotation"
+    },
     "type": "manga",
     "original_name": "青春ヘビーローテーション",
     "start_date": "2020-02-05",

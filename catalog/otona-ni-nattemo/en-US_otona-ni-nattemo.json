@@ -1,5 +1,9 @@
 {
     "title": "Otona ni Nattemo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/245064.jpg",
+        "alt": "otona-ni-nattemo"
+    },
     "type": "manga",
     "original_name": "おとなになっても",
     "start_date": "2019-03-25",

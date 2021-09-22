@@ -1,12 +1,16 @@
 {
     "title": "Grenadier: Hohoemi no Senshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/11968.jpg",
+        "alt": "grenadier-hohoemi-no-senshi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "グレネーダー 〜ほほえみの閃士〜",
     "start_date": "2004-10-14",
     "end_date": "2004-10-14",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"KOHAKU\" by Mikuni Shimokawa",
+    "ending_song": "#1: \"Kanashimi ni Makenaide\" by Mikuni Shimokawa",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",
@@ -35,7 +39,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Grenadier_(manga"
+            "link": "http://en.wikipedia.org/wiki/Grenadier_%28manga%29"
         }
     ]
 }

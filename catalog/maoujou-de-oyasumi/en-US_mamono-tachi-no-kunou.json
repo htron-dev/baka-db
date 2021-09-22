@@ -1,5 +1,9 @@
 {
     "title": "Mamono-tachi no Kunou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1674/112039.jpg",
+        "alt": "mamono-tachi-no-kunou"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "魔物たちの苦悩",

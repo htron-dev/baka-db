@@ -1,9 +1,13 @@
 {
     "title": "Code:Breaker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15122.jpg",
+        "alt": "code-breaker"
+    },
     "type": "manga",
     "volumes": "26",
     "chapters": "230",
-    "original_name": "CØDE",
+    "original_name": "CØDE:BREAKER コード:ブレイカー",
     "start_date": "2008-06-09",
     "end_date": "2008-06-09",
     "tags": [

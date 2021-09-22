@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo Pretty☆Bell",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149852.jpg",
+        "alt": "mahou-shoujo-pretty☆-bell"
+    },
     "type": "manga",
     "volumes": "28",
     "chapters": "112",

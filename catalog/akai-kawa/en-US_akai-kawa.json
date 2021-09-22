@@ -1,5 +1,9 @@
 {
     "title": "Akai Kawa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/30406.jpg",
+        "alt": "akai-kawa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

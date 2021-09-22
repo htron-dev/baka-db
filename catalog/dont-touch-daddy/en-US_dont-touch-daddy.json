@@ -1,5 +1,9 @@
 {
     "title": "Don't Touch! Daddy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/128091.jpg",
+        "alt": "dont-touch-daddy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Samurai Spirits",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/38859.jpg",
+        "alt": "samurai-spirits"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "サムライスピリッツ",

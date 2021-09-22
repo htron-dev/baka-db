@@ -1,12 +1,16 @@
 {
     "title": "Argento Soma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/9440.jpg",
+        "alt": "argento-soma"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "アルジェント ソーマ",
     "start_date": "2000-10-06",
     "end_date": "2000-10-06",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"Silent Wind\" by Eri Sugai (eps 1-24)",
+    "ending_song": "#01: \"Horizon\" by Sphere (eps 1-24)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

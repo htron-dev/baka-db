@@ -1,5 +1,9 @@
 {
     "title": "Madousho Sakka ni Narou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164015.jpg",
+        "alt": "madousho-sakka-ni-narou"
+    },
     "type": "light-novel",
     "original_name": "魔導書作家になろう!",
     "start_date": "2015-09-10",

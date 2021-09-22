@@ -1,5 +1,9 @@
 {
     "title": "Renai Shinjuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/63593.jpg",
+        "alt": "renai-shinjuu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "8",

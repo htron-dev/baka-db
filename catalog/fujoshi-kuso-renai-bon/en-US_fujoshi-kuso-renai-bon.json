@@ -1,5 +1,9 @@
 {
     "title": "Fujoshi Kuso Renai-bon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225387.jpg",
+        "alt": "fujoshi-kuso-renai-bon"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Twin Angel Break",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/86505.jpg",
+        "alt": "twin-angel-break"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ツインエンジェル BREAK",

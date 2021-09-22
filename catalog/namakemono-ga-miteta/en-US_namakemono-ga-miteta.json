@@ -1,5 +1,9 @@
 {
     "title": "Namakemono ga Miteta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/52845.jpg",
+        "alt": "namakemono-ga-miteta"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "ナマケモノが見てた",

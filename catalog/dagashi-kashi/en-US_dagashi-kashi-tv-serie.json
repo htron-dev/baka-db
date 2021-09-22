@@ -1,5 +1,9 @@
 {
     "title": "Dagashi Kashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1538/95686.jpg",
+        "alt": "dagashi-kashi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "だがしかし",

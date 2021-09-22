@@ -1,5 +1,9 @@
 {
     "title": "Ieraishan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/29474.jpg",
+        "alt": "ieraishan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Pugyuru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/4405.jpg",
+        "alt": "pugyuru"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ぷぎゅる",

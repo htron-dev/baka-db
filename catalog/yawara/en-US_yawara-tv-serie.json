@@ -1,12 +1,16 @@
 {
     "title": "Yawara!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/44864.jpg",
+        "alt": "yawara"
+    },
     "type": "tv-serie",
     "episodes": "124",
     "original_name": "YAWARA!",
     "start_date": "1989-10-16",
     "end_date": "1989-10-16",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Miracle Girl\" by Mariko Nagai (eps 1-43)",
+    "ending_song": "#1: \"Stand by Me\" by Rika Himenogi (eps 1-43)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

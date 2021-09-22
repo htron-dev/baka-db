@@ -1,5 +1,9 @@
 {
     "title": "Tsukikage Baby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166775.jpg",
+        "alt": "tsukikage-baby"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "45",

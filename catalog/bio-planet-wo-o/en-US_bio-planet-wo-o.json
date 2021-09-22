@@ -1,5 +1,9 @@
 {
     "title": "BioPlanet WoO",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/9703.jpg",
+        "alt": "bio-planet-wo-o"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

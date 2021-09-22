@@ -1,5 +1,9 @@
 {
     "title": "Kasei Tanken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/229147.jpg",
+        "alt": "kasei-tanken"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

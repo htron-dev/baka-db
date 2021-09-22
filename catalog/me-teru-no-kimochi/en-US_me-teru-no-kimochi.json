@@ -1,5 +1,9 @@
 {
     "title": "Me~teru no Kimochi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204761.jpg",
+        "alt": "me-teru-no-kimochi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "28",

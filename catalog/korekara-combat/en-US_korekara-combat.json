@@ -1,5 +1,9 @@
 {
     "title": "Korekara Combat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164138.jpg",
+        "alt": "korekara-combat"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "63",

@@ -1,5 +1,9 @@
 {
     "title": "Oni Futatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/202276.jpg",
+        "alt": "oni-futatsu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Watashi ga Oneechan Nan Dakara ne!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/134175.jpg",
+        "alt": "watashi-ga-oneechan-nan-dakara-ne"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

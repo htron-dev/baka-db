@@ -1,5 +1,9 @@
 {
     "title": "Scrapped Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1238/94717.jpg",
+        "alt": "scrapped-princess"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "スクラップド・プリンセス",

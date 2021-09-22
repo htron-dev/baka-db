@@ -1,5 +1,9 @@
 {
     "title": "Weiß Kreuz OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/15408.jpg",
+        "alt": "weiss-kreuz-ova"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "Weiß Kreuz ヴァイスクロイツ",

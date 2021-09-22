@@ -1,5 +1,9 @@
 {
     "title": "Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/75546.jpg",
+        "alt": "saint-seiya-the-lost-canvas-meiou-shinwa"
+    },
     "type": "ova",
     "episodes": "13",
     "original_name": "聖闘士星矢 THE LOST CANVAS 冥王神話",

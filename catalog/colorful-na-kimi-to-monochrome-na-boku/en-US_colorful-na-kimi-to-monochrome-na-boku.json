@@ -1,5 +1,9 @@
 {
     "title": "Colorful na Kimi to Monochrome na Boku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174154.jpg",
+        "alt": "colorful-na-kimi-to-monochrome-na-boku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

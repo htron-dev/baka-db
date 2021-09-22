@@ -1,5 +1,9 @@
 {
     "title": "Isekai desu ga Mamono Saibai shiteimasu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202643.jpg",
+        "alt": "isekai-desu-ga-mamono-saibai-shiteimasu"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "35",

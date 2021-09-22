@@ -1,5 +1,9 @@
 {
     "title": "OL Kaizou Kouza",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/58369.jpg",
+        "alt": "ol-kaizou-kouza"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "OL 改造講座",

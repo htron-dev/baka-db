@@ -1,5 +1,9 @@
 {
     "title": "Cinderella no Kako",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/230187.jpg",
+        "alt": "cinderella-no-kako"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "シンデレラの過去",

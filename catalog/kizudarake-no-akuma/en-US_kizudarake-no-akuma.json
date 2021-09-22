@@ -1,5 +1,9 @@
 {
     "title": "Kizudarake no Akuma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165399.jpg",
+        "alt": "kizudarake-no-akuma"
+    },
     "type": "manga",
     "original_name": "傷だらけの悪魔",
     "start_date": "2014-05-30",

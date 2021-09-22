@@ -1,5 +1,9 @@
 {
     "title": "Ai-Ren",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/54109.jpg",
+        "alt": "ai-ren"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "43",

@@ -1,12 +1,16 @@
 {
     "title": "Seitokai no Ichizon Lv.2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/75645.jpg",
+        "alt": "seitokai-no-ichizon-lv-2"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "生徒会の一存 Lv.2",
     "start_date": "2012-10-13",
     "end_date": "2012-10-13",
     "opening_song": "\"Precious\" by Hekiyou Gakuen Seitokai Lv.2 (Mariko Honda, Mina, Misuzu Togashi, Iori Nomizu)",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Precious\" by Hekiyou Gakuen Seitokai Lv.2 (Mariko Honda, Mina, Misuzu Togashi, Iori Nomizu) (ep 0)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "harem",

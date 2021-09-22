@@ -1,12 +1,16 @@
 {
     "title": "Marmalade Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/6092.jpg",
+        "alt": "marmalade-boy"
+    },
     "type": "tv-serie",
     "episodes": "76",
     "original_name": "ママレード・ボーイ",
     "start_date": "1994-03-13",
     "end_date": "1994-03-13",
     "opening_song": "\"Egao ni Aitai\" by Rie Hamada",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Suteki na Serenade\" by Miho Fujiwara (eps 1-31)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

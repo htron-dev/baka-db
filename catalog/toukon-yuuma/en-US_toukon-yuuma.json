@@ -1,5 +1,9 @@
 {
     "title": "Toukon Yuuma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227612.jpg",
+        "alt": "toukon-yuuma"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

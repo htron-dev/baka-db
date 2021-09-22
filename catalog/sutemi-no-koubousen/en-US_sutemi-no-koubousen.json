@@ -1,5 +1,9 @@
 {
     "title": "Sutemi no Koubousen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238310.jpg",
+        "alt": "sutemi-no-koubousen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

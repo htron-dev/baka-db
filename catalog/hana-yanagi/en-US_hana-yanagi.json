@@ -1,5 +1,9 @@
 {
     "title": "Hana Yanagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192615.jpg",
+        "alt": "hana-yanagi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

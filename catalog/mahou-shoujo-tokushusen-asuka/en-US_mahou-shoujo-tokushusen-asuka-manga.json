@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo Tokushusen Asuka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167025.jpg",
+        "alt": "mahou-shoujo-tokushusen-asuka"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "69",

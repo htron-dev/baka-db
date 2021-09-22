@@ -1,12 +1,16 @@
 {
     "title": "Endride",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/78289.jpg",
+        "alt": "endride"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "エンドライド",
     "start_date": "2016-04-03",
     "end_date": "2016-04-03",
     "opening_song": "\"Limit\" by LUNA SEA",
-    "ending_song": "#1",
+    "ending_song": "#1: \"go my way\" by Ryouta Fujimaki",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

@@ -1,5 +1,9 @@
 {
     "title": "Hi no Tori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159420.jpg",
+        "alt": "hi-no-tori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "19",

@@ -1,5 +1,9 @@
 {
     "title": "Nono Senlin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1097/115351.jpg",
+        "alt": "nono-senlin"
+    },
     "type": "tv-serie",
     "episodes": "104",
     "original_name": "诺诺森林",

@@ -1,5 +1,9 @@
 {
     "title": "Bakumatsu Gijinden Roman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/43673.jpg",
+        "alt": "bakumatsu-gijinden-roman"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "幕末義人伝 浪漫",

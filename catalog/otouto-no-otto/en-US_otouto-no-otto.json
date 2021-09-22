@@ -1,5 +1,9 @@
 {
     "title": "Otouto no Otto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158104.jpg",
+        "alt": "otouto-no-otto"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "28",

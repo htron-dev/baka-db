@@ -1,5 +1,9 @@
 {
     "title": "Kiss Ariki.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/75443.jpg",
+        "alt": "kiss-ariki"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

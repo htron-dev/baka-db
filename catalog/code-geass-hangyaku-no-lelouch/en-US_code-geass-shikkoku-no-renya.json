@@ -1,5 +1,9 @@
 {
     "title": "Code Geass: Shikkoku no Renya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/118883.jpg",
+        "alt": "code-geass-shikkoku-no-renya"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "40",

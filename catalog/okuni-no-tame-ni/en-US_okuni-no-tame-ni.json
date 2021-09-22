@@ -1,5 +1,9 @@
 {
     "title": "Okuni no Tame ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/71029.jpg",
+        "alt": "okuni-no-tame-ni"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "御国の為に",

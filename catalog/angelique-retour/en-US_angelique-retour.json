@@ -1,5 +1,9 @@
 {
     "title": "Angelique Retour",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168981.jpg",
+        "alt": "angelique-retour"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

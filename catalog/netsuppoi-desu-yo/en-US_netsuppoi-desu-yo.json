@@ -1,5 +1,9 @@
 {
     "title": "Netsuppoi desu yo?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/88767.jpg",
+        "alt": "netsuppoi-desu-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

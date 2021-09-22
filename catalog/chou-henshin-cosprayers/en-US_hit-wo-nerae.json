@@ -1,5 +1,9 @@
 {
     "title": "Hit wo Nerae!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/75237.jpg",
+        "alt": "hit-wo-nerae"
+    },
     "type": "tv-serie",
     "episodes": "8",
     "original_name": "ヒットをねらえ!",

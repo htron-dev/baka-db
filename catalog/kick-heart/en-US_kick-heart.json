@@ -1,5 +1,9 @@
 {
     "title": "Kick-Heart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/46509.jpg",
+        "alt": "kick-heart"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "KICK-HEART",

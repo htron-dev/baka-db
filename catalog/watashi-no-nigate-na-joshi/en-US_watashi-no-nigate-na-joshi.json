@@ -1,5 +1,9 @@
 {
     "title": "Watashi no...... Nigate na Joshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/199507.jpg",
+        "alt": "watashi-no-nigate-na-joshi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "3",

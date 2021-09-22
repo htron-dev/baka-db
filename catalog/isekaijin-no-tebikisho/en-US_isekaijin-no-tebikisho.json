@@ -1,5 +1,9 @@
 {
     "title": "Isekaijin no Tebikisho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/182603.jpg",
+        "alt": "isekaijin-no-tebikisho"
+    },
     "type": "light-novel",
     "original_name": "異世界人の手引き書",
     "start_date": "2016-09-10",

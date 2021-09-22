@@ -1,5 +1,9 @@
 {
     "title": "Tsubura na Wakusei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/146907.jpg",
+        "alt": "tsubura-na-wakusei"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

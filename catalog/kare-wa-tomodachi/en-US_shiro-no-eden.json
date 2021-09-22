@@ -1,5 +1,9 @@
 {
     "title": "Shiro no Eden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36542.jpg",
+        "alt": "shiro-no-eden"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "16",

@@ -1,5 +1,9 @@
 {
     "title": "Patalliro! Stardust Keikaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/35537.jpg",
+        "alt": "patalliro-stardust-keikaku"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "パタリロ！スターダスト計画",

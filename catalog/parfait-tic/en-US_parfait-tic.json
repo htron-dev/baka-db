@@ -1,5 +1,9 @@
 {
     "title": "Parfait Tic!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191816.jpg",
+        "alt": "parfait-tic"
+    },
     "type": "manga",
     "volumes": "22",
     "chapters": "153",

@@ -1,5 +1,9 @@
 {
     "title": "Yoru no Shinwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/182263.jpg",
+        "alt": "yoru-no-shinwa"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

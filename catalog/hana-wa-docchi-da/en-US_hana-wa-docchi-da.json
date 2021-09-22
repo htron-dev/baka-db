@@ -1,5 +1,9 @@
 {
     "title": "Hana wa Docchi da?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225896.jpg",
+        "alt": "hana-wa-docchi-da"
+    },
     "type": "manga",
     "original_name": "花はどっちだ?",
     "tags": [

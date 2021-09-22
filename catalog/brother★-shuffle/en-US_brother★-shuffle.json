@@ -1,5 +1,9 @@
 {
     "title": "Brother★Shuffle!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172231.jpg",
+        "alt": "brother★-shuffle"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

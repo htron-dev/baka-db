@@ -1,11 +1,15 @@
 {
     "title": "Itsudatte My Santa!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/2902.jpg",
+        "alt": "itsudatte-my-santa"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "いつだって My サンタ！",
     "start_date": "2005-12-07",
     "opening_song": "\"My Love\" by Nanaka",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kimi Kara Onegai (キミからお願い)\" by Hirano Aya",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "ecchi",

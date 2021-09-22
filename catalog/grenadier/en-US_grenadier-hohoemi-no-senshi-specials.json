@@ -1,5 +1,9 @@
 {
     "title": "Grenadier: Hohoemi no Senshi Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/8274.jpg",
+        "alt": "grenadier-hohoemi-no-senshi-specials"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "グレネーダー 〜ほほえみの閃士〜",
@@ -27,7 +31,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Grenadier_(manga"
+            "link": "http://en.wikipedia.org/wiki/Grenadier_%28manga%29#Anime"
         }
     ]
 }

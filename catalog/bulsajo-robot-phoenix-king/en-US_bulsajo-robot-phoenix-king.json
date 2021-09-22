@@ -1,5 +1,9 @@
 {
     "title": "Bulsajo Robot Phoenix King",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/45126.jpg",
+        "alt": "bulsajo-robot-phoenix-king"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "불사조 로보트 피닉스 킹",

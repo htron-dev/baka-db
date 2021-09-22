@@ -1,5 +1,9 @@
 {
     "title": "Norn9: Norn+Nonet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/141065.jpg",
+        "alt": "norn-9-norn-nonet"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

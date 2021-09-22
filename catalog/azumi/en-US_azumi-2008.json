@@ -1,5 +1,9 @@
 {
     "title": "Azumi (2008)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/116249.jpg",
+        "alt": "azumi-2008"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "125",

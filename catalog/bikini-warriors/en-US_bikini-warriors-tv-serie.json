@@ -1,5 +1,9 @@
 {
     "title": "Bikini Warriors",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1670/112160.jpg",
+        "alt": "bikini-warriors"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ビキニ・ウォリアーズ",

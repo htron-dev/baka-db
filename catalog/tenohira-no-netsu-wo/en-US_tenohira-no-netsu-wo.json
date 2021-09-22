@@ -1,5 +1,9 @@
 {
     "title": "Tenohira no Netsu wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175859.jpg",
+        "alt": "tenohira-no-netsu-wo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

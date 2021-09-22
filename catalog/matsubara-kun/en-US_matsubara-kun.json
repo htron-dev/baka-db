@@ -1,5 +1,9 @@
 {
     "title": "Matsubara-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/74114.jpg",
+        "alt": "matsubara-kun"
+    },
     "type": "ona",
     "episodes": "5",
     "original_name": "まつばらくん",

@@ -1,5 +1,9 @@
 {
     "title": "Psychic Force Comic Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/43887.jpg",
+        "alt": "psychic-force-comic-anthology"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "サイキックフォースコミックアンソロジー",

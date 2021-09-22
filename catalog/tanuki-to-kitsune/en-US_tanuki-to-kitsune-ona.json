@@ -1,5 +1,9 @@
 {
     "title": "Tanuki to Kitsune",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/89595.jpg",
+        "alt": "tanuki-to-kitsune"
+    },
     "type": "ona",
     "episodes": "18",
     "original_name": "タヌキとキツネ",

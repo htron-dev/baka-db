@@ -1,5 +1,9 @@
 {
     "title": "Vermillion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149784.jpg",
+        "alt": "vermillion"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Norakuro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/43975.jpg",
+        "alt": "norakuro"
+    },
     "type": "manga",
     "original_name": "のらくろ",
     "tags": [

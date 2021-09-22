@@ -1,5 +1,9 @@
 {
     "title": "Jue Ming Xiang Ying",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1912/105447.jpg",
+        "alt": "jue-ming-xiang-ying"
+    },
     "type": "ona",
     "episodes": "30",
     "original_name": "绝命响应",

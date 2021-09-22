@@ -1,5 +1,9 @@
 {
     "title": "Sensei Kunshu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199923.jpg",
+        "alt": "sensei-kunshu"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "57",

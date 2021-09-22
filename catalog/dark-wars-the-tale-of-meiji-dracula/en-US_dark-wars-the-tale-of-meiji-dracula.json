@@ -1,5 +1,9 @@
 {
     "title": "Dark Wars: The Tale of Meiji Dracula",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6930.jpg",
+        "alt": "dark-wars-the-tale-of-meiji-dracula"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "1",

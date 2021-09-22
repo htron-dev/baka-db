@@ -1,5 +1,9 @@
 {
     "title": "Majestic Prince",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/76207.jpg",
+        "alt": "majestic-prince"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "87",

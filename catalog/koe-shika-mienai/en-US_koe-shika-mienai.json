@@ -1,5 +1,9 @@
 {
     "title": "Koe shika Mienai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247503.jpg",
+        "alt": "koe-shika-mienai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

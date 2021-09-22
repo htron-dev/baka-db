@@ -1,5 +1,9 @@
 {
     "title": "Manaria Friends",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1590/111673.jpg",
+        "alt": "manaria-friends"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "マナリアフレンズ",

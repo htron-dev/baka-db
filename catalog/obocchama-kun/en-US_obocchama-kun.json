@@ -1,11 +1,15 @@
 {
     "title": "Obocchama-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/53513.jpg",
+        "alt": "obocchama-kun"
+    },
     "type": "tv-serie",
     "episodes": "164",
     "original_name": "おぼっちゃまくん",
     "start_date": "1989-01-14",
     "end_date": "1989-01-14",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Bai YaiYai: Obocchama-kun no Theme (ぶぁい YaiYai~おぼっちゃまくんのテーマ~)\" by Ingry Mongry (いんぐりもんぐり)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

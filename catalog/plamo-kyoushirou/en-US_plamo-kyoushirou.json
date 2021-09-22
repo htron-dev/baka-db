@@ -1,5 +1,9 @@
 {
     "title": "Plamo Kyoushirou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194141.jpg",
+        "alt": "plamo-kyoushirou"
+    },
     "type": "manga",
     "volumes": "15",
     "original_name": "プラモ狂四郎",

@@ -1,5 +1,9 @@
 {
     "title": "Dirty Christ Superstar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163924.jpg",
+        "alt": "dirty-christ-superstar"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

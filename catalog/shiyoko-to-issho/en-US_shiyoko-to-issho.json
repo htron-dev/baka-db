@@ -1,5 +1,9 @@
 {
     "title": "Shiyoko to Issho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150625.jpg",
+        "alt": "shiyoko-to-issho"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "しよ子といっしょ",

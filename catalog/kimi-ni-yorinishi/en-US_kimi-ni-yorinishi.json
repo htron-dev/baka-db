@@ -1,5 +1,9 @@
 {
     "title": "Kimi ni Yorinishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20212.jpg",
+        "alt": "kimi-ni-yorinishi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

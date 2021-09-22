@@ -1,12 +1,16 @@
 {
     "title": "Mobile Suit Gundam: Iron-Blooded Orphans 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/80899.jpg",
+        "alt": "mobile-suit-gundam-iron-blooded-orphans-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "機動戦士ガンダム 鉄血のオルフェンズ 第 2 期",
     "start_date": "2016-10-02",
     "end_date": "2016-10-02",
-    "opening_song": "#01",
-    "ending_song": "#1",
+    "opening_song": "#01: \"RAGE OF DUST\" by SPYAIR (eps 1-13)",
+    "ending_song": "#1: \"RAGE OF DUST\" by SPYAIR (ep 1)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Chibi☆Devi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175587.jpg",
+        "alt": "chibi☆-devi"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "80",

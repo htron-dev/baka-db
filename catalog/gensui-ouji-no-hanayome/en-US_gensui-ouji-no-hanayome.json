@@ -1,5 +1,9 @@
 {
     "title": "Gensui Ouji no Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/183469.jpg",
+        "alt": "gensui-ouji-no-hanayome"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

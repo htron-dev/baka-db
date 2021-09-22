@@ -1,5 +1,9 @@
 {
     "title": "Mabudachi Jingi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/71099.jpg",
+        "alt": "mabudachi-jingi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

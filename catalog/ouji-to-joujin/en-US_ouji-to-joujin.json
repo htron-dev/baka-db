@@ -1,5 +1,9 @@
 {
     "title": "Ouji to Joujin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/29945.jpg",
+        "alt": "ouji-to-joujin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

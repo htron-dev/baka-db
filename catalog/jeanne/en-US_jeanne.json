@@ -1,5 +1,9 @@
 {
     "title": "Jeanne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181390.jpg",
+        "alt": "jeanne"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

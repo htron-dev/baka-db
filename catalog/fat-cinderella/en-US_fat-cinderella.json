@@ -1,5 +1,9 @@
 {
     "title": "Fat Cinderella!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/144561.jpg",
+        "alt": "fat-cinderella"
+    },
     "type": "manga",
     "chapters": "9",
     "original_name": "ふぁっとシンデレラ!!",

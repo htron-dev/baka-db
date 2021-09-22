@@ -1,5 +1,9 @@
 {
     "title": "Log Horizon: Nishikaze no Ryodan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/118159.jpg",
+        "alt": "log-horizon-nishikaze-no-ryodan"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "67",

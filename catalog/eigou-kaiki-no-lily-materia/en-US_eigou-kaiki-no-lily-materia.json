@@ -1,5 +1,9 @@
 {
     "title": "Eigou Kaiki no Lily Materia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163329.jpg",
+        "alt": "eigou-kaiki-no-lily-materia"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "16",

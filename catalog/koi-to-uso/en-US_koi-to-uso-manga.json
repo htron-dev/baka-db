@@ -1,5 +1,9 @@
 {
     "title": "Koi to Uso",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/148055.jpg",
+        "alt": "koi-to-uso"
+    },
     "type": "manga",
     "original_name": "恋と嘘",
     "start_date": "2014-08-10",

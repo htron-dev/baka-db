@@ -1,5 +1,9 @@
 {
     "title": "Inferno Cop: Fact Files",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/47569.jpg",
+        "alt": "inferno-cop-fact-files"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "インフェルノコップ ファクトファイル",

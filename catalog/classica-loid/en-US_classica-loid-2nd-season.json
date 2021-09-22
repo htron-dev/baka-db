@@ -1,12 +1,16 @@
 {
     "title": "ClassicaLoid 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/88678.jpg",
+        "alt": "classica-loid-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "クラシカロイド 第 2 シリーズ",
     "start_date": "2017-10-07",
     "end_date": "2017-10-07",
-    "opening_song": "\"ClassicaLoid",
-    "ending_song": "#01",
+    "opening_song": "\"ClassicaLoid: ClassicaLoid no Theme (ClassicaLoid ～クラシカロイドのテーマ～)\" (eps 2-)",
+    "ending_song": "#01: \"Shuppatsu Shinkou!! Densetsu e ~From the New World Chapter 4~ (出発進行!!伝説へ ～新世界から第 4 楽章より～)\" by Chisato feat. Miku (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music",

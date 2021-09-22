@@ -1,5 +1,9 @@
 {
     "title": "Love Marmot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10877.jpg",
+        "alt": "love-marmot"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ラブ・モルモット",

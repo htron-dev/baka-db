@@ -1,5 +1,9 @@
 {
     "title": "Boku, Otaryman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40980.jpg",
+        "alt": "boku-otaryman"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "ぼく、オタリーマン。",

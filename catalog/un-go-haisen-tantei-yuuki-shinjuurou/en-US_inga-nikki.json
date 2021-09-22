@@ -1,5 +1,9 @@
 {
     "title": "Inga Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/34935.jpg",
+        "alt": "inga-nikki"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "因果日記",

@@ -1,5 +1,9 @@
 {
     "title": "Atashin'chi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/37413.jpg",
+        "alt": "atashinchi"
+    },
     "type": "manga",
     "volumes": "21",
     "chapters": "760",

@@ -1,5 +1,9 @@
 {
     "title": "Guin Saga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22010.jpg",
+        "alt": "guin-saga"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "グイン・サーガ",

@@ -1,5 +1,9 @@
 {
     "title": "Mononoke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/21247.jpg",
+        "alt": "mononoke"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

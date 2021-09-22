@@ -1,5 +1,9 @@
 {
     "title": "Samayou Shinki no Duelist",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162715.jpg",
+        "alt": "samayou-shinki-no-duelist"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "12",

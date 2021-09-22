@@ -1,5 +1,9 @@
 {
     "title": "Gusha no Junction",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162921.jpg",
+        "alt": "gusha-no-junction"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "13",

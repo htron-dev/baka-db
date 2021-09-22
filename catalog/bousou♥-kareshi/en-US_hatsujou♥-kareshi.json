@@ -1,5 +1,9 @@
 {
     "title": "Hatsujou♥Kareshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/65899.jpg",
+        "alt": "hatsujou♥-kareshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

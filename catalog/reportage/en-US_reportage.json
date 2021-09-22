@@ -1,5 +1,9 @@
 {
     "title": "Reportage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/205437.jpg",
+        "alt": "reportage"
+    },
     "type": "manga",
     "original_name": "ルポルタージュ",
     "start_date": "2017-02-28",

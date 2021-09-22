@@ -1,5 +1,9 @@
 {
     "title": "Otouto wa, Ookami.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/143735.jpg",
+        "alt": "otouto-wa-ookami"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

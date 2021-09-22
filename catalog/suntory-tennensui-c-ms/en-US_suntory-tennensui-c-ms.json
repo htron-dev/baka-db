@@ -1,5 +1,9 @@
 {
     "title": "Suntory Tennensui CMs",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/81598.jpg",
+        "alt": "suntory-tennensui-c-ms"
+    },
     "type": "special",
     "original_name": "サントリー天然水 CMs",
     "start_date": "2014-03-28",

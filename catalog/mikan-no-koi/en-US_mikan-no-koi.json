@@ -1,5 +1,9 @@
 {
     "title": "Mikan no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/140639.jpg",
+        "alt": "mikan-no-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

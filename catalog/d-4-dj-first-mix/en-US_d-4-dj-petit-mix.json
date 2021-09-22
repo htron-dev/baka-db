@@ -1,5 +1,9 @@
 {
     "title": "D4DJ Petit Mix",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1089/113814.jpg",
+        "alt": "d-4-dj-petit-mix"
+    },
     "type": "tv-serie",
     "original_name": "ぷっちみく ♪",
     "start_date": "2021-02-05",
@@ -26,10 +30,6 @@
         {
             "text": "AnimeNewsNetwork",
             "link": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23993"
-        },
-        {
-            "text": "Wikipedia",
-            "link": "http://"
         }
     ]
 }

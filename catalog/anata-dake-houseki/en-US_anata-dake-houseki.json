@@ -1,5 +1,9 @@
 {
     "title": "Anata dake Houseki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246107.jpg",
+        "alt": "anata-dake-houseki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

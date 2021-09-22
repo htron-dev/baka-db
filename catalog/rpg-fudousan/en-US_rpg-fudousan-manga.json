@@ -1,5 +1,9 @@
 {
     "title": "RPG Fudousan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/241668.jpg",
+        "alt": "rpg-fudousan"
+    },
     "type": "manga",
     "original_name": "RPG 不動産",
     "start_date": "2018-04-28",

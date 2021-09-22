@@ -1,5 +1,9 @@
 {
     "title": "Renri no Eda",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5632.jpg",
+        "alt": "renri-no-eda"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

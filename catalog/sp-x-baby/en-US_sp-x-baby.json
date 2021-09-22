@@ -1,5 +1,9 @@
 {
     "title": "SP x Baby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166968.jpg",
+        "alt": "sp-x-baby"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

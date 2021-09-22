@@ -1,11 +1,15 @@
 {
     "title": "MD Geist II: Death Force",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1351/96371.jpg",
+        "alt": "md-geist-ii-death-force"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "装鬼兵 MD ガイスト 2",
     "start_date": "1996-03-01",
     "opening_song": "\"Tsuki ga Naiteru (月が泣いている; The Moon is Crying)\" by Yoshiaki Oouchi",
-    "ending_song": "\"Yokubou no Hate",
+    "ending_song": "\"Yokubou no Hate: Answer Again (欲望の果て~Answer again~)\" by Yoshiaki Oouchi",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

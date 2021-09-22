@@ -1,5 +1,9 @@
 {
     "title": "Akihabara Dennou-gumi Patapi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/44015.jpg",
+        "alt": "akihabara-dennou-gumi-patapi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

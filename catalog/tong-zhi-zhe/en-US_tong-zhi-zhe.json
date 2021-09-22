@@ -1,5 +1,9 @@
 {
     "title": "Tong Zhi Zhe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/81483.jpg",
+        "alt": "tong-zhi-zhe"
+    },
     "type": "ona",
     "episodes": "10",
     "original_name": "通职者",

@@ -1,5 +1,9 @@
 {
     "title": "Hajimari no Niina",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/142817.jpg",
+        "alt": "hajimari-no-niina"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

@@ -1,5 +1,9 @@
 {
     "title": "Gesu to Abazure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190892.jpg",
+        "alt": "gesu-to-abazure"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

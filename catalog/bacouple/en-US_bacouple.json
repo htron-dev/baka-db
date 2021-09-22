@@ -1,5 +1,9 @@
 {
     "title": "Bacouple",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/240211.jpg",
+        "alt": "bacouple"
+    },
     "type": "manga",
     "chapters": "12",
     "original_name": "バカップル",

@@ -1,5 +1,9 @@
 {
     "title": "Fumetsu No Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/83559.jpg",
+        "alt": "fumetsu-no-hana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Long Wa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1180/115352.jpg",
+        "alt": "long-wa"
+    },
     "type": "tv-serie",
     "episodes": "59",
     "original_name": "龙娃",

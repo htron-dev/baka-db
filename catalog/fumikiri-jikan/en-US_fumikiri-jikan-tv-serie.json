@@ -1,5 +1,9 @@
 {
     "title": "Fumikiri Jikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1598/91857.jpg",
+        "alt": "fumikiri-jikan"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "踏切時間",

@@ -1,5 +1,9 @@
 {
     "title": "Akirameru no wa Mada Hayai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/240656.jpg",
+        "alt": "akirameru-no-wa-mada-hayai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

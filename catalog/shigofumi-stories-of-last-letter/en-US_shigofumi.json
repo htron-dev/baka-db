@@ -1,5 +1,9 @@
 {
     "title": "Shigofumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/50787.jpg",
+        "alt": "shigofumi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "シゴフミ",

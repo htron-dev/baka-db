@@ -1,5 +1,9 @@
 {
     "title": "Zutto Saki no Hanashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/27982.jpg",
+        "alt": "zutto-saki-no-hanashi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ずっと先の話",

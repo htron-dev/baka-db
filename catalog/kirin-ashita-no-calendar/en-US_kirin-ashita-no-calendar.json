@@ -1,5 +1,9 @@
 {
     "title": "Kirin Ashita no Calendar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/77873.jpg",
+        "alt": "kirin-ashita-no-calendar"
+    },
     "type": "tv-serie",
     "episodes": "1306",
     "original_name": "キリンあしたのカレンダー",

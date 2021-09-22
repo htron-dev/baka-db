@@ -1,5 +1,9 @@
 {
     "title": "Vampire Wing",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/130315.jpg",
+        "alt": "vampire-wing"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "VAMPIRE WING",

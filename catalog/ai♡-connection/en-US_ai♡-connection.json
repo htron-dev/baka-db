@@ -1,5 +1,9 @@
 {
     "title": "Ai♡Connection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168978.jpg",
+        "alt": "ai♡-connection"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Heavy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235331.jpg",
+        "alt": "heavy"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "77",

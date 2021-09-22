@@ -1,5 +1,9 @@
 {
     "title": "Blood-C: Special Edition",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/39001.jpg",
+        "alt": "blood-c-special-edition"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "『BLOOD-C』特別編集 ver",

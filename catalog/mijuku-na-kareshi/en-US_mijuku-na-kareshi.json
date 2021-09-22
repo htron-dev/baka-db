@@ -1,5 +1,9 @@
 {
     "title": "Mijuku na Kareshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16108.jpg",
+        "alt": "mijuku-na-kareshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

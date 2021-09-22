@@ -1,5 +1,9 @@
 {
     "title": "Gozen 3-ji no Fukyouwaon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/143557.jpg",
+        "alt": "gozen-3-ji-no-fukyouwaon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

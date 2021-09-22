@@ -1,5 +1,9 @@
 {
     "title": "Kare to Kare no Ijiwaru na Kyori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166262.jpg",
+        "alt": "kare-to-kare-no-ijiwaru-na-kyori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

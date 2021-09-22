@@ -1,5 +1,9 @@
 {
     "title": "Rescue Academia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/89810.jpg",
+        "alt": "rescue-academia"
+    },
     "type": "tv-serie",
     "original_name": "レスキューアカデミア",
     "rating": "G - All Ages",

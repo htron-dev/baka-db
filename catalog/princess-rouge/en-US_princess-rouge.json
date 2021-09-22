@@ -1,5 +1,9 @@
 {
     "title": "Princess Rouge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1405/112400.jpg",
+        "alt": "princess-rouge"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "プリンセス・ルージュ",

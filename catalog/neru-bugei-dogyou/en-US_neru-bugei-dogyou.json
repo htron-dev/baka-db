@@ -1,5 +1,9 @@
 {
     "title": "Neru: Bugei Dogyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247682.jpg",
+        "alt": "neru-bugei-dogyou"
+    },
     "type": "manga",
     "original_name": "NERU-武芸道行〈どぎょう〉-",
     "start_date": "2021-07-05",

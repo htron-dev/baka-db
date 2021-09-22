@@ -1,5 +1,9 @@
 {
     "title": "Hon Ran",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/13297.jpg",
+        "alt": "hon-ran"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "紅狼[ホンラン]",

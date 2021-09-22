@@ -1,5 +1,9 @@
 {
     "title": "Moee-chan wa Kinishinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200925.jpg",
+        "alt": "moee-chan-wa-kinishinai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

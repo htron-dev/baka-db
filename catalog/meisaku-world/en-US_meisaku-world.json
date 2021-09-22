@@ -1,5 +1,9 @@
 {
     "title": "Meisaku World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/71936.jpg",
+        "alt": "meisaku-world"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "めいさくわーるど/むかしばなし(アニメ)",

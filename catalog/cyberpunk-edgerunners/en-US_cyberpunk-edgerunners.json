@@ -1,8 +1,12 @@
 {
     "title": "Cyberpunk: Edgerunners",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1562/108236.jpg",
+        "alt": "cyberpunk-edgerunners"
+    },
     "type": "ona",
     "episodes": "10",
-    "original_name": "CYBERPUNK",
+    "original_name": "CYBERPUNK: EDGERUNNERS",
     "rating": "None",
     "tags": [
         "sci-fi"

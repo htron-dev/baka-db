@@ -1,5 +1,9 @@
 {
     "title": "Love Virus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/12584.jpg",
+        "alt": "love-virus"
+    },
     "type": "manhwa",
     "volumes": "7",
     "chapters": "33",

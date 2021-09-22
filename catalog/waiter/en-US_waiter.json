@@ -1,5 +1,9 @@
 {
     "title": "Waiter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1015/114935.jpg",
+        "alt": "waiter"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "Waiter",

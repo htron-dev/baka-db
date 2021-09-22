@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Majutsu Consultant",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194312.jpg",
+        "alt": "watashi-no-majutsu-consultant"
+    },
     "type": "light-novel",
     "original_name": "わたしの魔術コンサルタント",
     "start_date": "2016-12-10",

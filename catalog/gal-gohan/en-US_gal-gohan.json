@@ -1,5 +1,9 @@
 {
     "title": "Gal Gohan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/197704.jpg",
+        "alt": "gal-gohan"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "69",

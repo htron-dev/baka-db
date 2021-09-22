@@ -1,5 +1,9 @@
 {
     "title": "Whistle! W",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196134.jpg",
+        "alt": "whistle-w"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "49",

@@ -1,5 +1,9 @@
 {
     "title": "Saint Seiya: Saishuu Seisen no Senshi-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/16347.jpg",
+        "alt": "saint-seiya-saishuu-seisen-no-senshi-tachi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "聖闘士星矢 最終聖戦の戦士たち",

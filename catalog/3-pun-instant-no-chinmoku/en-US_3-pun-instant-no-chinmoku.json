@@ -1,5 +1,9 @@
 {
     "title": "3-pun Instant no Chinmoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203977.jpg",
+        "alt": "3-pun-instant-no-chinmoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

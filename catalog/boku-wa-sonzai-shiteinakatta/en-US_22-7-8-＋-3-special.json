@@ -1,11 +1,15 @@
 {
     "title": "22/7: 8 ＋ 3=?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1259/109909.jpg",
+        "alt": "22-7-8-＋-3"
+    },
     "type": "special",
     "episodes": "1",
-    "original_name": "22/7",
+    "original_name": "22/7: 8 ＋ 3=?",
     "start_date": "2020-09-16",
     "opening_song": "\"Muzui (ムズイ)\" by 22/7",
-    "ending_song": "\"Kamisama ni Yubi wo Sasareta Bokutachi (神様に指を差された僕たち)\" by Mikami Kamiki (CV",
+    "ending_song": "\"Kamisama ni Yubi wo Sasareta Bokutachi (神様に指を差された僕たち)\" by Mikami Kamiki (CV: Moe Suzuhana), Yuuki Toujou (CV: Urara Takatsuji), Tsubomi Hiiragi (CV: Aina Takeda)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "music"
@@ -26,7 +30,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/22/7_(TV_series"
+            "link": "https://en.wikipedia.org/wiki/22/7_%28TV_series%29"
         }
     ]
 }

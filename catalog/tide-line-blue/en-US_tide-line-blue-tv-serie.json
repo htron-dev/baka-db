@@ -1,5 +1,9 @@
 {
     "title": "Tide-Line Blue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/75832.jpg",
+        "alt": "tide-line-blue"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "タイドライン・ブルー",

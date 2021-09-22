@@ -1,5 +1,9 @@
 {
     "title": "Shikkoku no Einherjar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158334.jpg",
+        "alt": "shikkoku-no-einherjar"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "漆黒のエインヘリアル",

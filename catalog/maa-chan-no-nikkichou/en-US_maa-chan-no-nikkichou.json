@@ -1,5 +1,9 @@
 {
     "title": "Maa-chan no Nikkichou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/173496.jpg",
+        "alt": "maa-chan-no-nikkichou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "マアチャンの日記帳",

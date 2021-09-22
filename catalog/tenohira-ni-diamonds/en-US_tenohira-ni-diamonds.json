@@ -1,5 +1,9 @@
 {
     "title": "Tenohira ni Diamonds",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14925.jpg",
+        "alt": "tenohira-ni-diamonds"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

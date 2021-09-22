@@ -1,5 +1,9 @@
 {
     "title": "Furetaku Nattara, Kaette Oide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246724.jpg",
+        "alt": "furetaku-nattara-kaette-oide"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Caramel Kitsch Yuugekitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/82868.jpg",
+        "alt": "caramel-kitsch-yuugekitai"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "カラメルキッチュ遊撃隊",

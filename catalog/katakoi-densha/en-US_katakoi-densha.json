@@ -1,5 +1,9 @@
 {
     "title": "Katakoi Densha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/126101.jpg",
+        "alt": "katakoi-densha"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

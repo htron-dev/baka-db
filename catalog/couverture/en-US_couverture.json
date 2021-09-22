@@ -1,5 +1,9 @@
 {
     "title": "Couverture",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/42003.jpg",
+        "alt": "couverture"
+    },
     "type": "manga",
     "original_name": "クーベルチュール",
     "tags": [

@@ -1,9 +1,13 @@
 {
     "title": "JOKE:ЯR'S",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172753.jpg",
+        "alt": "joke-яrs"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",
-    "original_name": "JOKE",
+    "original_name": "JOKE:ЯR'S",
     "start_date": "2012-07-28",
     "end_date": "2012-07-28",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Nogiku no Haka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/66203.jpg",
+        "alt": "nogiku-no-haka"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "野菊の墓",

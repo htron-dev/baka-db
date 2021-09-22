@@ -1,5 +1,9 @@
 {
     "title": "Corpse Party: Blood Covered",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166222.jpg",
+        "alt": "corpse-party-blood-covered"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "47",

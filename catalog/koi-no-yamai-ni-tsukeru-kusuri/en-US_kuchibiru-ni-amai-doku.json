@@ -1,5 +1,9 @@
 {
     "title": "Kuchibiru ni Amai Doku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6426.jpg",
+        "alt": "kuchibiru-ni-amai-doku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Kinnikuman Lady",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/43451.jpg",
+        "alt": "kinnikuman-lady"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "31",

@@ -1,5 +1,9 @@
 {
     "title": "Saki Biyori Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/69895.jpg",
+        "alt": "saki-biyori-animation"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "咲日和 Animation",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Saki_(manga"
+            "link": "http://en.wikipedia.org/wiki/Saki_%28manga%29"
         }
     ]
 }

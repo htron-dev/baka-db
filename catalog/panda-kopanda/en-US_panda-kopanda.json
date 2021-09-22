@@ -1,5 +1,9 @@
 {
     "title": "Panda Kopanda",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1209/90479.jpg",
+        "alt": "panda-kopanda"
+    },
     "type": "movie",
     "episodes": "2",
     "original_name": "パンダ・コパンダ",

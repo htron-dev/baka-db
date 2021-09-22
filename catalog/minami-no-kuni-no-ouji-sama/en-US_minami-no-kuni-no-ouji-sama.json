@@ -1,5 +1,9 @@
 {
     "title": "Minami no Kuni no Ouji-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/143545.jpg",
+        "alt": "minami-no-kuni-no-ouji-sama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

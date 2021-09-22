@@ -1,5 +1,9 @@
 {
     "title": "Mata Kimi ni Koi wo Suru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/222656.jpg",
+        "alt": "mata-kimi-ni-koi-wo-suru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

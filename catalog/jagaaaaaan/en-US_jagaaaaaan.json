@@ -1,5 +1,9 @@
 {
     "title": "Jagaaaaaan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/197327.jpg",
+        "alt": "jagaaaaaan"
+    },
     "type": "manga",
     "original_name": "ジャガーン",
     "start_date": "2017-02-06",

@@ -1,12 +1,16 @@
 {
     "title": "Tennis no Ouji-sama: Zenkoku Taikai-hen - Final",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/7525.jpg",
+        "alt": "tennis-no-ouji-sama-zenkoku-taikai-hen-final"
+    },
     "type": "ova",
     "episodes": "7",
     "original_name": "テニスの王子様 Original Video Animation 全国大会編 Final",
     "start_date": "2008-04-25",
     "end_date": "2008-04-25",
     "opening_song": "\"Across My Line\" by Junko Minagawa",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Dear Prince: Tennis no Ouji-sama-tachi e (Dear Prince~テニスの王子様達へ~)\" byi Tarusuke Shingak, Ryoutarou Okiayu, Ikemen Samurai, Junichi Suwabe, Junko Minagawa, Taiten Kusunoki, Sachiko Nagai, Yoshimasa Hosoya",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

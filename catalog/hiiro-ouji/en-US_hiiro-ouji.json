@@ -1,5 +1,9 @@
 {
     "title": "Hiiro Ouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32769.jpg",
+        "alt": "hiiro-ouji"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

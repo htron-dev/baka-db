@@ -1,5 +1,9 @@
 {
     "title": "Okojo to Yamane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1458/95072.jpg",
+        "alt": "okojo-to-yamane"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "オコジョとヤマネ",

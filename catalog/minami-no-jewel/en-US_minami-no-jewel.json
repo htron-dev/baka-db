@@ -1,5 +1,9 @@
 {
     "title": "Minami no Jewel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/4482.jpg",
+        "alt": "minami-no-jewel"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

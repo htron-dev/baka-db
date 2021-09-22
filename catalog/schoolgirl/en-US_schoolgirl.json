@@ -1,5 +1,9 @@
 {
     "title": "Schoolgirl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/18545.jpg",
+        "alt": "schoolgirl"
+    },
     "type": "manhwa",
     "volumes": "5",
     "tags": [

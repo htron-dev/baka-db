@@ -1,5 +1,9 @@
 {
     "title": "Ichigo Ichie: Kimi no Kotoba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/26390.jpg",
+        "alt": "ichigo-ichie-kimi-no-kotoba"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "一期一会～キミノコトバ～",

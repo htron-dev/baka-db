@@ -1,5 +1,9 @@
 {
     "title": "Chirin no Suzu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/80079.jpg",
+        "alt": "chirin-no-suzu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "チリンの鈴",

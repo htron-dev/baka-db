@@ -1,5 +1,9 @@
 {
     "title": "Ame-iro Cocoa: Side G",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1394/111379.jpg",
+        "alt": "ame-iro-cocoa-side-g"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "雨色ココア side G",

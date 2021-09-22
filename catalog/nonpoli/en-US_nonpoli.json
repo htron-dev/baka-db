@@ -1,5 +1,9 @@
 {
     "title": "Nonpoli",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239013.jpg",
+        "alt": "nonpoli"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "29",

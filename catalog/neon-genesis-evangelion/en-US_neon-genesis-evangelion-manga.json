@@ -1,5 +1,9 @@
 {
     "title": "Neon Genesis Evangelion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/145061.jpg",
+        "alt": "neon-genesis-evangelion"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "97",

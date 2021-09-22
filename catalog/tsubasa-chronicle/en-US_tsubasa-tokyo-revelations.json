@@ -1,5 +1,9 @@
 {
     "title": "Tsubasa: Tokyo Revelations",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/49129.jpg",
+        "alt": "tsubasa-tokyo-revelations"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "ツバサ TOKYO REVELATIONS",

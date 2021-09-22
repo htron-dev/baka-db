@@ -1,12 +1,16 @@
 {
     "title": "Sakura Taisen: Gouka Kenran",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/25433.jpg",
+        "alt": "sakura-taisen-gouka-kenran"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "サクラ大戦 轟華絢爛",
     "start_date": "1999-12-18",
     "end_date": "1999-12-18",
     "opening_song": "\"Geki Teikoku Kagekidan\" by The Teikoku Kagekidan",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Old Piano\" by Urara Takano",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

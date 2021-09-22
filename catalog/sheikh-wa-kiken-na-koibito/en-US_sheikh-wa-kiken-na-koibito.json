@@ -1,5 +1,9 @@
 {
     "title": "Sheikh wa Kiken na Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/73889.jpg",
+        "alt": "sheikh-wa-kiken-na-koibito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

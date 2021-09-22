@@ -1,5 +1,9 @@
 {
     "title": "Shoujo Shuumatsu Ryokou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/88321.jpg",
+        "alt": "shoujo-shuumatsu-ryokou"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "少女終末旅行",

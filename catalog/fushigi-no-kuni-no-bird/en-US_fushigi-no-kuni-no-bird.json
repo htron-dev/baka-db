@@ -1,5 +1,9 @@
 {
     "title": "Fushigi no Kuni no Bird",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157913.jpg",
+        "alt": "fushigi-no-kuni-no-bird"
+    },
     "type": "manga",
     "original_name": "ふしぎの国のバード",
     "start_date": "2013-03-15",

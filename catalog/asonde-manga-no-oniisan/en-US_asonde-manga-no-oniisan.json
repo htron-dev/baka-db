@@ -1,5 +1,9 @@
 {
     "title": "Asonde! Manga no Oniisan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239725.jpg",
+        "alt": "asonde-manga-no-oniisan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "21",

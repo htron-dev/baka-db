@@ -1,5 +1,9 @@
 {
     "title": "Alice Tantei Kyoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/50211.jpg",
+        "alt": "alice-tantei-kyoku"
+    },
     "type": "tv-serie",
     "episodes": "56",
     "original_name": "アリス 探偵局",

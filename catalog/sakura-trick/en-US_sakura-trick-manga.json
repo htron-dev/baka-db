@@ -1,5 +1,9 @@
 {
     "title": "Sakura Trick",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172310.jpg",
+        "alt": "sakura-trick"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "84",

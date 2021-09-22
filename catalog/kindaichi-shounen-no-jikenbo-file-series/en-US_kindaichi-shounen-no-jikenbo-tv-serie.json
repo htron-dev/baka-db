@@ -1,12 +1,16 @@
 {
     "title": "Kindaichi Shounen no Jikenbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/3741.jpg",
+        "alt": "kindaichi-shounen-no-jikenbo"
+    },
     "type": "tv-serie",
     "episodes": "148",
     "original_name": "金田一少年の事件簿",
     "start_date": "1997-04-07",
     "end_date": "1997-04-07",
-    "opening_song": "#1",
-    "ending_song": "#01",
+    "opening_song": "#1: \"Confused Memories\" by Yuko Tsuburaya (eps 1-23)",
+    "ending_song": "#01: \"2 人 (Futari)\" by Rie Tomosaka (eps 1-17)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "mystery",

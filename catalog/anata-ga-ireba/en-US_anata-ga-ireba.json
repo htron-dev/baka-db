@@ -1,5 +1,9 @@
 {
     "title": "Anata ga Ireba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177680.jpg",
+        "alt": "anata-ga-ireba"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "33",

@@ -1,12 +1,16 @@
 {
     "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/86830.jpg",
+        "alt": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ようこそ実力至上主義の教室へ",
     "start_date": "2017-07-12",
     "end_date": "2017-07-12",
     "opening_song": "\"Caste Room (カーストルーム)\" by ZAQ (eps 2-8, 10-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Caste Room (カーストルーム)\" by ZAQ (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "psychological",

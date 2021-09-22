@@ -1,5 +1,9 @@
 {
     "title": "Zenikko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/143829.jpg",
+        "alt": "zenikko"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "23",

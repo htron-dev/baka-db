@@ -1,5 +1,9 @@
 {
     "title": "Dakimakura to wa Kekkon Dekinai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/219772.jpg",
+        "alt": "dakimakura-to-wa-kekkon-dekinai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

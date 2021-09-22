@@ -1,5 +1,9 @@
 {
     "title": "Batuque",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/217503.jpg",
+        "alt": "batuque"
+    },
     "type": "manga",
     "original_name": "バトゥーキ",
     "start_date": "2018-07-05",

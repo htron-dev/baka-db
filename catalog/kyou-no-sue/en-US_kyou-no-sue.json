@@ -1,5 +1,9 @@
 {
     "title": "Kyou no Sue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174529.jpg",
+        "alt": "kyou-no-sue"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "90",

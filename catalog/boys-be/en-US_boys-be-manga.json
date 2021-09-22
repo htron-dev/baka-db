@@ -1,5 +1,9 @@
 {
     "title": "Boys Be...",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/183366.jpg",
+        "alt": "boys-be"
+    },
     "type": "manga",
     "volumes": "32",
     "chapters": "255",

@@ -1,5 +1,9 @@
 {
     "title": "Who Killed Cock Robin?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32024.jpg",
+        "alt": "who-killed-cock-robin"
+    },
     "type": "manhwa",
     "volumes": "1",
     "original_name": "누가 울새를 죽였나?",

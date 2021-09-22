@@ -1,5 +1,9 @@
 {
     "title": "Kitto Kawaii Onnanoko Dakara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152913.jpg",
+        "alt": "kitto-kawaii-onnanoko-dakara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

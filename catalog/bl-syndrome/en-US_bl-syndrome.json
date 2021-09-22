@@ -1,5 +1,9 @@
 {
     "title": "BL Syndrome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/141975.jpg",
+        "alt": "bl-syndrome"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

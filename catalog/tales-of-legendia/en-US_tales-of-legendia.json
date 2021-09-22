@@ -1,5 +1,9 @@
 {
     "title": "Tales of Legendia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/148295.jpg",
+        "alt": "tales-of-legendia"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "33",

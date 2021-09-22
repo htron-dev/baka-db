@@ -1,5 +1,9 @@
 {
     "title": "Chrome Breaker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/7298.jpg",
+        "alt": "chrome-breaker"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Jitsuroku: Naku made Bokorarete Hajimete Koi ni Ochimashita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/211747.jpg",
+        "alt": "jitsuroku-naku-made-bokorarete-hajimete-koi-ni-ochimashita"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "21",

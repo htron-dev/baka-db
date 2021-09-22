@@ -1,12 +1,16 @@
 {
     "title": "Miss Monochrome The Animation 3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/76089.jpg",
+        "alt": "miss-monochrome-the-animation-3"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ミス・モノクローム -The Animation- 3",
     "start_date": "2015-10-02",
     "end_date": "2015-10-02",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Black or White?\" by Miss Monochrome (CV: Yui Horie) (eps 1-9)",
+    "ending_song": "#1: \"Step by Step!\" by Miss Monochrome (CV: Yui Horie) (eps 1-8)",
     "rating": "G - All Ages",
     "tags": [
         "music",

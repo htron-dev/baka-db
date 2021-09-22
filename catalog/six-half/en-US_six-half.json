@@ -1,5 +1,9 @@
 {
     "title": "Six Half",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162860.jpg",
+        "alt": "six-half"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "48",

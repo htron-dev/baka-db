@@ -1,5 +1,9 @@
 {
     "title": "Hadaka no Ringo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179969.jpg",
+        "alt": "hadaka-no-ringo"
+    },
     "type": "manga",
     "original_name": "はだかの林檎",
     "start_date": "2015-08-20",

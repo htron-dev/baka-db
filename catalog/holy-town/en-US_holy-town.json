@@ -1,5 +1,9 @@
 {
     "title": "Holy Town",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247976.jpg",
+        "alt": "holy-town"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

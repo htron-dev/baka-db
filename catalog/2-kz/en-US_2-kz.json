@@ -1,5 +1,9 @@
 {
     "title": "2KZ",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/154647.jpg",
+        "alt": "2-kz"
+    },
     "type": "manga",
     "original_name": "2KZ",
     "tags": [

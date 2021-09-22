@@ -1,5 +1,9 @@
 {
     "title": "Kubi wo Kiraneba Wakarumai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244895.jpg",
+        "alt": "kubi-wo-kiraneba-wakarumai"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "47",

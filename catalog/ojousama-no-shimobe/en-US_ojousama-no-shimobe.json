@@ -1,5 +1,9 @@
 {
     "title": "Ojousama no Shimobe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/210483.jpg",
+        "alt": "ojousama-no-shimobe"
+    },
     "type": "manga",
     "original_name": "お嬢様の僕",
     "start_date": "2017-12-27",

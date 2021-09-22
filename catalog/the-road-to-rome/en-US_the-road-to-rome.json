@@ -1,5 +1,9 @@
 {
     "title": "The Road to Rome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/45599.jpg",
+        "alt": "the-road-to-rome"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ローマへの道",

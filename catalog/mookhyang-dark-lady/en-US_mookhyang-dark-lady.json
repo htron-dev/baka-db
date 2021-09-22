@@ -1,5 +1,9 @@
 {
     "title": "Mookhyang: Dark Lady",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236954.jpg",
+        "alt": "mookhyang-dark-lady"
+    },
     "type": "manhwa",
     "original_name": "묵향 다크레이디",
     "start_date": "2019-07-04",

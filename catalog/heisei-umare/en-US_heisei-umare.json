@@ -1,5 +1,9 @@
 {
     "title": "Heisei Umare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/130259.jpg",
+        "alt": "heisei-umare"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "平成生まれ",

@@ -1,5 +1,9 @@
 {
     "title": "Hikari Sasu Sora e",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/82206.jpg",
+        "alt": "hikari-sasu-sora-e"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "光射す空へ",

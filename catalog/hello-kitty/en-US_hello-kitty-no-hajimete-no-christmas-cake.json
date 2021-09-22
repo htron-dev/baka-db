@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no Hajimete no Christmas Cake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/70977.jpg",
+        "alt": "hello-kitty-no-hajimete-no-christmas-cake"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハローキティのはじめてのクリスマスケーキ",

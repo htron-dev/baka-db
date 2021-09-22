@@ -1,5 +1,9 @@
 {
     "title": "Gake no Ue no Ponyo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/8970.jpg",
+        "alt": "gake-no-ue-no-ponyo"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "崖の上のポニョ",

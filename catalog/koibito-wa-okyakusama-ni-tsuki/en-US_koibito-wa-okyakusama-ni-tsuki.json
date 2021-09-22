@@ -1,5 +1,9 @@
 {
     "title": "Koibito wa Okyakusama ni Tsuki!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/42659.jpg",
+        "alt": "koibito-wa-okyakusama-ni-tsuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

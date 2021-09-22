@@ -1,5 +1,9 @@
 {
     "title": "Sora yori Takaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/237084.jpg",
+        "alt": "sora-yori-takaku"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

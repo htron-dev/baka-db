@@ -1,5 +1,9 @@
 {
     "title": "Kamui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/154482.jpg",
+        "alt": "kamui"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "51",

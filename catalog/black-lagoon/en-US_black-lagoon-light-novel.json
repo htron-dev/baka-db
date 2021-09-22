@@ -1,5 +1,9 @@
 {
     "title": "Black Lagoon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/53365.jpg",
+        "alt": "black-lagoon"
+    },
     "type": "light-novel",
     "original_name": "ブラック・ラグーン",
     "start_date": "2008-07-19",

@@ -1,5 +1,9 @@
 {
     "title": "Kaichuu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/53927.jpg",
+        "alt": "kaichuu"
+    },
     "type": "manga",
     "volumes": "12",
     "original_name": "カイチュー!",

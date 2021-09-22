@@ -1,5 +1,9 @@
 {
     "title": "Oku no Oku no Mori no Oku ni, Iru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171740.jpg",
+        "alt": "oku-no-oku-no-mori-no-oku-ni-iru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

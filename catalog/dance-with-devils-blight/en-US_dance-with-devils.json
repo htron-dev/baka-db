@@ -1,12 +1,16 @@
 {
     "title": "Dance with Devils",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/75640.jpg",
+        "alt": "dance-with-devils"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ダンス・ウィズ・デビルス",
     "start_date": "2015-10-07",
     "end_date": "2015-10-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Yami no Hanayome (闇の花嫁)\" by Grimoire ensemble (ep 1)",
+    "ending_song": "#1: \"Kakusei no Air (覚醒の Air)\" by Wataru Hatano (ep 1)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "harem",

@@ -1,5 +1,9 @@
 {
     "title": "Mimia Hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/198381.jpg",
+        "alt": "mimia-hime"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

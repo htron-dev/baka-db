@@ -1,5 +1,9 @@
 {
     "title": "Kare no Shouzou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27044.jpg",
+        "alt": "kare-no-shouzou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Gakusei Papa to Oishii Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225683.jpg",
+        "alt": "gakusei-papa-to-oishii-otoko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

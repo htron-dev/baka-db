@@ -1,5 +1,9 @@
 {
     "title": "Anoko ni Moratta Ongaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38828.jpg",
+        "alt": "anoko-ni-moratta-ongaku"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "あのこにもらった音楽",

@@ -1,5 +1,9 @@
 {
     "title": "Under My Skin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238114.jpg",
+        "alt": "under-my-skin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

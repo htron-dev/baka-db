@@ -1,5 +1,9 @@
 {
     "title": "Hawk Jack",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20013.jpg",
+        "alt": "hawk-jack"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

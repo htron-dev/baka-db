@@ -1,5 +1,9 @@
 {
     "title": "Hiiro no Isu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/6326.jpg",
+        "alt": "hiiro-no-isu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "10",

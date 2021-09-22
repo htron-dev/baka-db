@@ -1,5 +1,9 @@
 {
     "title": "Digimon Adventure: Last Evolution Kizuna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1654/104884.jpg",
+        "alt": "digimon-adventure-last-evolution-kizuna"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "デジモンアドベンチャー LAST EVOLUTION 絆",

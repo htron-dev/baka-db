@@ -1,5 +1,9 @@
 {
     "title": "Tsumi yori Amai Ai ni Oborete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/147429.jpg",
+        "alt": "tsumi-yori-amai-ai-ni-oborete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

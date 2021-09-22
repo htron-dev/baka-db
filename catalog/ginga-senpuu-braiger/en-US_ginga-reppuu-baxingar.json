@@ -1,5 +1,9 @@
 {
     "title": "Ginga Reppuu Baxingar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/56417.jpg",
+        "alt": "ginga-reppuu-baxingar"
+    },
     "type": "tv-serie",
     "episodes": "39",
     "original_name": "銀河烈風バクシンガー",

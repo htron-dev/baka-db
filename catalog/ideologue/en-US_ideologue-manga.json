@@ -1,5 +1,9 @@
 {
     "title": "Ideologue!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190896.jpg",
+        "alt": "ideologue"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "いでおろーぐ！",

@@ -1,5 +1,9 @@
 {
     "title": "Sakamichi no Apollon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/62627.jpg",
+        "alt": "sakamichi-no-apollon"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "45",

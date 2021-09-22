@@ -1,5 +1,9 @@
 {
     "title": "Bakeneko System",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/192188.jpg",
+        "alt": "bakeneko-system"
+    },
     "type": "manga",
     "original_name": "化け猫システム",
     "start_date": "2013-03-26",

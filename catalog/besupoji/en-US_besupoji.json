@@ -1,5 +1,9 @@
 {
     "title": "Besupoji!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/17767.jpg",
+        "alt": "besupoji"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "12",

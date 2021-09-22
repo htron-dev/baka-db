@@ -1,5 +1,9 @@
 {
     "title": "Zettai ni Tokimeite wa Ikenai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/207878.jpg",
+        "alt": "zettai-ni-tokimeite-wa-ikenai"
+    },
     "type": "manga",
     "original_name": "絶対にときめいてはいけない！",
     "start_date": "2017-09-23",

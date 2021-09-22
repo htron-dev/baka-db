@@ -1,5 +1,9 @@
 {
     "title": "Renji de Chin!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/62653.jpg",
+        "alt": "renji-de-chin"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "レンジでチン!",

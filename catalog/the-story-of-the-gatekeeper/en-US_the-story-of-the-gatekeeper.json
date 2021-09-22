@@ -1,5 +1,9 @@
 {
     "title": "The Story of the Gatekeeper",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/4462.jpg",
+        "alt": "the-story-of-the-gatekeeper"
+    },
     "type": "manhwa",
     "chapters": "1",
     "tags": [

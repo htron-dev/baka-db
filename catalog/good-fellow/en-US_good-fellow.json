@@ -1,5 +1,9 @@
 {
     "title": "Good Fellow",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23039.jpg",
+        "alt": "good-fellow"
+    },
     "type": "manhwa",
     "volumes": "1",
     "chapters": "3",

@@ -1,5 +1,9 @@
 {
     "title": "Star Ocean: Anamnesis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1752/108240.jpg",
+        "alt": "star-ocean-anamnesis"
+    },
     "type": "ona",
     "original_name": "スターオーシャン：アナムネシス",
     "start_date": "2016-11-28",

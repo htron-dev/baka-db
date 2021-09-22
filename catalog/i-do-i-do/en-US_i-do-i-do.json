@@ -1,5 +1,9 @@
 {
     "title": "I do I do",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32725.jpg",
+        "alt": "i-do-i-do"
+    },
     "type": "manhwa",
     "volumes": "15",
     "chapters": "31",

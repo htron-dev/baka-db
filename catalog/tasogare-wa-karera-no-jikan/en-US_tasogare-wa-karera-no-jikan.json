@@ -1,5 +1,9 @@
 {
     "title": "Tasogare wa Karera no Jikan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/87149.jpg",
+        "alt": "tasogare-wa-karera-no-jikan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

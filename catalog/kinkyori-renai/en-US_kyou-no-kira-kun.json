@@ -1,5 +1,9 @@
 {
     "title": "Kyou no Kira-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/134993.jpg",
+        "alt": "kyou-no-kira-kun"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "36",

@@ -1,5 +1,9 @@
 {
     "title": "Sora kara Furumono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31381.jpg",
+        "alt": "sora-kara-furumono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

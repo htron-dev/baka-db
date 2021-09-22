@@ -1,5 +1,9 @@
 {
     "title": "Perman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/217383.jpg",
+        "alt": "perman"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "パーマン",

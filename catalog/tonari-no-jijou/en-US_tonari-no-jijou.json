@@ -1,5 +1,9 @@
 {
     "title": "Tonari no Jijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/133453.jpg",
+        "alt": "tonari-no-jijou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Imitation Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/6439.jpg",
+        "alt": "imitation-love"
+    },
     "type": "manhwa",
     "volumes": "13",
     "tags": [

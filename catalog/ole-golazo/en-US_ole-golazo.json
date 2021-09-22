@@ -1,5 +1,9 @@
 {
     "title": "Ole Golazo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195687.jpg",
+        "alt": "ole-golazo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

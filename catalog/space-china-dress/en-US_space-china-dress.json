@@ -1,5 +1,9 @@
 {
     "title": "Space China Dress",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/42737.jpg",
+        "alt": "space-china-dress"
+    },
     "type": "manhwa",
     "original_name": "스페이스 차이나드레스",
     "tags": [

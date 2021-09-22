@@ -1,5 +1,9 @@
 {
     "title": "Aka Tougarashi Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31655.jpg",
+        "alt": "aka-tougarashi-monogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "赤とうがらし物語",

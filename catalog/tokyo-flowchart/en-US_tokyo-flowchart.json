@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Flowchart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/21787.jpg",
+        "alt": "tokyo-flowchart"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "東京フローチャート",

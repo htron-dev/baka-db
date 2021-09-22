@@ -1,5 +1,9 @@
 {
     "title": "Pyon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194274.jpg",
+        "alt": "pyon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

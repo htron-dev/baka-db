@@ -1,5 +1,9 @@
 {
     "title": "Jitsuroku: Adachi Mitsuru Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/148985.jpg",
+        "alt": "jitsuroku-adachi-mitsuru-monogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

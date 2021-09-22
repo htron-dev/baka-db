@@ -1,5 +1,9 @@
 {
     "title": "Love Scar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/25885.jpg",
+        "alt": "love-scar"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

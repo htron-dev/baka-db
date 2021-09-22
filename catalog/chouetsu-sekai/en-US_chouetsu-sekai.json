@@ -1,5 +1,9 @@
 {
     "title": "Chouetsu Sekai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1392/93503.jpg",
+        "alt": "chouetsu-sekai"
+    },
     "type": "ova",
     "episodes": "10",
     "original_name": "超越世界",

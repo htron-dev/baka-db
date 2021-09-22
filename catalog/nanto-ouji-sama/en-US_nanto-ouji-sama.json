@@ -1,5 +1,9 @@
 {
     "title": "Nanto Ouji-sama!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/28242.jpg",
+        "alt": "nanto-ouji-sama"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "なんと王子さま!?",

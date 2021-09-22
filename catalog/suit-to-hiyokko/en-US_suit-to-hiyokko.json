@@ -1,5 +1,9 @@
 {
     "title": "Suit to Hiyokko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/232667.jpg",
+        "alt": "suit-to-hiyokko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

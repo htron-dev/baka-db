@@ -1,5 +1,9 @@
 {
     "title": "Uwabami Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166215.jpg",
+        "alt": "uwabami-kanojo"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "78",

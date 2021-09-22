@@ -1,5 +1,9 @@
 {
     "title": "Surebrec: Nora the 2nd",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/112081.jpg",
+        "alt": "surebrec-nora-the-2nd"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Shoki no Urasawa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/41052.jpg",
+        "alt": "shoki-no-urasawa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "27",

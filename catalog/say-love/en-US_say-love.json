@@ -1,5 +1,9 @@
 {
     "title": "Say Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5560.jpg",
+        "alt": "say-love"
+    },
     "type": "manhwa",
     "volumes": "11",
     "tags": [

@@ -1,5 +1,9 @@
 {
     "title": "Xiong Chumo: Xiongxiong Leyuan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/90002.jpg",
+        "alt": "xiong-chumo-xiongxiong-leyuan"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "熊出没之熊熊乐园",

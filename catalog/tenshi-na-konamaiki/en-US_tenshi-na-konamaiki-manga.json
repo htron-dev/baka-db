@@ -1,5 +1,9 @@
 {
     "title": "Tenshi na Konamaiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172156.jpg",
+        "alt": "tenshi-na-konamaiki"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "199",

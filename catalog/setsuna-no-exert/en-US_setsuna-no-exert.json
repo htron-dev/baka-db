@@ -1,5 +1,9 @@
 {
     "title": "Setsuna no Exert",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158860.jpg",
+        "alt": "setsuna-no-exert"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "23",

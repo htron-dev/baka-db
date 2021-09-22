@@ -1,5 +1,9 @@
 {
     "title": "Kamisama no Puzzle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/132301.jpg",
+        "alt": "kamisama-no-puzzle"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "30",

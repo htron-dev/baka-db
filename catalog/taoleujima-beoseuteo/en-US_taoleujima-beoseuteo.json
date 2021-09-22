@@ -1,5 +1,9 @@
 {
     "title": "Taoleujima Beoseuteo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1570/114457.jpg",
+        "alt": "taoleujima-beoseuteo"
+    },
     "type": "tv-serie",
     "episodes": "44",
     "original_name": "타오르지마 버스터",

@@ -1,5 +1,9 @@
 {
     "title": "Naisho no Tsubomi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/147607.jpg",
+        "alt": "naisho-no-tsubomi"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "98",

@@ -1,5 +1,9 @@
 {
     "title": "Hito Hitori Futari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/70487.jpg",
+        "alt": "hito-hitori-futari"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "84",

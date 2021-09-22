@@ -1,5 +1,9 @@
 {
     "title": "Black★Rock Shooter (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/53909.jpg",
+        "alt": "black★-rock-shooter-tv"
+    },
     "type": "tv-serie",
     "episodes": "8",
     "original_name": "ブラック ★ ロックシューター",

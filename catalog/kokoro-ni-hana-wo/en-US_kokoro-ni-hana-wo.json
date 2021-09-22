@@ -1,5 +1,9 @@
 {
     "title": "Kokoro ni Hana wo!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/5863.jpg",
+        "alt": "kokoro-ni-hana-wo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

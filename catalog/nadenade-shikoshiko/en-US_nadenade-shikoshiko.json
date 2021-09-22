@@ -1,5 +1,9 @@
 {
     "title": "Nadenade Shikoshiko.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170927.jpg",
+        "alt": "nadenade-shikoshiko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "33",

@@ -1,5 +1,9 @@
 {
     "title": "Monster",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/54525.jpg",
+        "alt": "monster"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "162",

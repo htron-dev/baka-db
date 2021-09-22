@@ -1,12 +1,16 @@
 {
     "title": "Soukyuu no Fafner: Dead Aggressor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/50365.jpg",
+        "alt": "soukyuu-no-fafner-dead-aggressor"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "蒼穹のファフナー Dead Aggressor",
     "start_date": "2004-07-05",
     "end_date": "2004-07-05",
     "opening_song": "\"Shangri-La\" by angela",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Separation\" by angela (eps 01-14,16-24)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Kidou Ryodan Hachifukujin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178873.jpg",
+        "alt": "kidou-ryodan-hachifukujin"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "61",

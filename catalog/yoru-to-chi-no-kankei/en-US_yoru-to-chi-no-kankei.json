@@ -1,5 +1,9 @@
 {
     "title": "Yoru to Chi no Kankei.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/155306.jpg",
+        "alt": "yoru-to-chi-no-kankei"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "夜と血のカンケイ。",

@@ -1,5 +1,9 @@
 {
     "title": "Sour &amp; Sweet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191553.jpg",
+        "alt": "sour-amp-sweet"
+    },
     "type": "manhwa",
     "volumes": "5",
     "original_name": "새콤달콤",

@@ -1,5 +1,9 @@
 {
     "title": "Corseltel no Ryuujitsushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/21420.jpg",
+        "alt": "corseltel-no-ryuujitsushi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "26",

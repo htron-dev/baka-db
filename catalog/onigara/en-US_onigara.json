@@ -1,5 +1,9 @@
 {
     "title": "Onigara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/68029.jpg",
+        "alt": "onigara"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "鬼がら",

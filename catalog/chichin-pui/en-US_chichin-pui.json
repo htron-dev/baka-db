@@ -1,5 +1,9 @@
 {
     "title": "Chichin Pui!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190420.jpg",
+        "alt": "chichin-pui"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

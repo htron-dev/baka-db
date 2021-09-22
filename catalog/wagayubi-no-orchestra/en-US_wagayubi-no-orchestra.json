@@ -1,5 +1,9 @@
 {
     "title": "Wagayubi no Orchestra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161312.jpg",
+        "alt": "wagayubi-no-orchestra"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "38",

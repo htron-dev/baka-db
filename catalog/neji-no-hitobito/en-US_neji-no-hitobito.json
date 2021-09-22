@@ -1,5 +1,9 @@
 {
     "title": "Neji no Hitobito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166180.jpg",
+        "alt": "neji-no-hitobito"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "25",

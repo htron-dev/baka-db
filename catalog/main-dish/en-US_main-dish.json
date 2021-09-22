@@ -1,5 +1,9 @@
 {
     "title": "Main Dish",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/78845.jpg",
+        "alt": "main-dish"
+    },
     "type": "manga",
     "tags": [
         "romance",

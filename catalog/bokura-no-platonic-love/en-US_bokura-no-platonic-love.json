@@ -1,5 +1,9 @@
 {
     "title": "Bokura no Platonic Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/98219.jpg",
+        "alt": "bokura-no-platonic-love"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

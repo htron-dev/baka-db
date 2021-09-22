@@ -1,5 +1,9 @@
 {
     "title": "Kanaete! Masayume Koubou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/85835.jpg",
+        "alt": "kanaete-masayume-koubou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Texhnolyze: Revisit",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1302/105429.jpg",
+        "alt": "texhnolyze-revisit"
+    },
     "type": "special",
     "episodes": "1",
     "start_date": "2004-01-20",

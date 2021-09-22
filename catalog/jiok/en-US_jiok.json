@@ -1,5 +1,9 @@
 {
     "title": "Jiok",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1206/112326.jpg",
+        "alt": "jiok"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "지옥 두개 의 삶",

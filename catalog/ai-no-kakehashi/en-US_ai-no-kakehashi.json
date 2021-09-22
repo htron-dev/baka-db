@@ -1,5 +1,9 @@
 {
     "title": "Ai no Kakehashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/46877.jpg",
+        "alt": "ai-no-kakehashi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "愛のかけ橋",

@@ -1,5 +1,9 @@
 {
     "title": "Bleach: Memories in the Rain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/21947.jpg",
+        "alt": "bleach-memories-in-the-rain"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "BLEACH Memories in the Rain",
@@ -29,7 +33,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Bleach_(anime"
+            "link": "http://en.wikipedia.org/wiki/Bleach_%28anime%29"
         }
     ]
 }

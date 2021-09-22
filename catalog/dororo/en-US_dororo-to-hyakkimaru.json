@@ -1,5 +1,9 @@
 {
     "title": "Dororo to Hyakkimaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/12061.jpg",
+        "alt": "dororo-to-hyakkimaru"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "どろろと百鬼丸",

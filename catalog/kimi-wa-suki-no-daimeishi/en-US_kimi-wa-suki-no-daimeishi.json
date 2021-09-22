@@ -1,5 +1,9 @@
 {
     "title": "Kimi wa \"Suki\" no Daimeishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/34795.jpg",
+        "alt": "kimi-wa-suki-no-daimeishi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

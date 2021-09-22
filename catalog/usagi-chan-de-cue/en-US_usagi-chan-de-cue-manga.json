@@ -1,5 +1,9 @@
 {
     "title": "Usagi-chan de Cue!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246472.jpg",
+        "alt": "usagi-chan-de-cue"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

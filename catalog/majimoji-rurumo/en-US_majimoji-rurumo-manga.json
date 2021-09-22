@@ -1,5 +1,9 @@
 {
     "title": "Majimoji Rurumo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/122543.jpg",
+        "alt": "majimoji-rurumo"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "42",

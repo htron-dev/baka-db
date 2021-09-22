@@ -1,5 +1,9 @@
 {
     "title": "Ikura Nandemo Sukisugiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26487.jpg",
+        "alt": "ikura-nandemo-sukisugiru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

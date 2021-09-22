@@ -1,5 +1,9 @@
 {
     "title": "Hakuba no Ouji-sama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/76347.jpg",
+        "alt": "hakuba-no-ouji-sama"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "112",

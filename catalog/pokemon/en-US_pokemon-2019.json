@@ -1,10 +1,14 @@
 {
     "title": "Pokemon (2019)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1689/105554.jpg",
+        "alt": "pokemon-2019"
+    },
     "type": "tv-serie",
     "original_name": "ポケットモンスター",
     "start_date": "2019-11-17",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"1・2・3\" by After the Rain",
+    "ending_song": "#1: \"1・2・3\" by After the Rain (ep 1)",
     "rating": "PG - Children",
     "tags": [
         "action",

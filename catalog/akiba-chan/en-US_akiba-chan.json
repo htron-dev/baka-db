@@ -1,5 +1,9 @@
 {
     "title": "Akiba-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/10634.jpg",
+        "alt": "akiba-chan"
+    },
     "type": "tv-serie",
     "episodes": "10",
     "original_name": "アキバちゃん",

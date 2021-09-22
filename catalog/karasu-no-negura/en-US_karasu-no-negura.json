@@ -1,5 +1,9 @@
 {
     "title": "Karasu no Negura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/241875.jpg",
+        "alt": "karasu-no-negura"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

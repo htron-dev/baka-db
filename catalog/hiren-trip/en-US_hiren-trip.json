@@ -1,5 +1,9 @@
 {
     "title": "Hiren Trip",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/99411.jpg",
+        "alt": "hiren-trip"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

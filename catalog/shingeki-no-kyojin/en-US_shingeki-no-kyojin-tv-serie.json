@@ -1,12 +1,16 @@
 {
     "title": "Shingeki no Kyojin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+        "alt": "shingeki-no-kyojin"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "進撃の巨人",
     "start_date": "2013-04-07",
     "end_date": "2013-04-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Guren no Yumiya (紅蓮の弓矢)\" by Linked Horizon (eps 1-13)",
+    "ending_song": "#1: \"Utsukushiki Zankoku na Sekai (美しき残酷な世界)\" by Yoko Hikasa (eps 1-13)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

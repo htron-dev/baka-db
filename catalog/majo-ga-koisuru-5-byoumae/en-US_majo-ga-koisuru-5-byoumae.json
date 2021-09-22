@@ -1,5 +1,9 @@
 {
     "title": "Majo ga Koisuru 5-byoumae",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235090.jpg",
+        "alt": "majo-ga-koisuru-5-byoumae"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

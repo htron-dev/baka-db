@@ -1,5 +1,9 @@
 {
     "title": "Buddy Complex",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/57303.jpg",
+        "alt": "buddy-complex"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "バディ・コンプレックス",

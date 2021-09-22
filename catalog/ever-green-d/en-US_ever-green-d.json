@@ -1,8 +1,12 @@
 {
     "title": "EVER GREEN:D",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39301.jpg",
+        "alt": "ever-green-d"
+    },
     "type": "manga",
     "volumes": "3",
-    "original_name": "エバーグリード EVER GREEN",
+    "original_name": "エバーグリード EVER GREEN:D",
     "tags": [
         "action",
         "ecchi",

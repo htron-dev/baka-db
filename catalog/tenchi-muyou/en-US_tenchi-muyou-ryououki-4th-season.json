@@ -1,11 +1,15 @@
 {
     "title": "Tenchi Muyou! Ryououki 4th Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/81932.jpg",
+        "alt": "tenchi-muyou-ryououki-4th-season"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "天地無用！魎皇鬼 第四期",
     "start_date": "2016-11-30",
     "end_date": "2016-11-30",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Tenchi Muyou! (天地無用!)\" by Serena Kouzuki (上月せれな) (ep 1)",
     "ending_song": "\"Tenchi Muyou! (天地無用！)\" by Serea Kouzuki",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

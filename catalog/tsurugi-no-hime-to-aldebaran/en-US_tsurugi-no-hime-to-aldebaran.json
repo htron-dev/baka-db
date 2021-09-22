@@ -1,5 +1,9 @@
 {
     "title": "Tsurugi no Hime to Aldebaran",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177854.jpg",
+        "alt": "tsurugi-no-hime-to-aldebaran"
+    },
     "type": "light-novel",
     "volumes": "6",
     "chapters": "43",

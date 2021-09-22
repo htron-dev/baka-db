@@ -1,5 +1,9 @@
 {
     "title": "Conveni Robot Populi-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/147211.jpg",
+        "alt": "conveni-robot-populi-chan"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "64",

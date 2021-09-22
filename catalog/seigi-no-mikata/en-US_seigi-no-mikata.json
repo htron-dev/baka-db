@@ -1,5 +1,9 @@
 {
     "title": "Seigi no Mikata!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172881.jpg",
+        "alt": "seigi-no-mikata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

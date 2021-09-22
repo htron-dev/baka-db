@@ -1,12 +1,16 @@
 {
     "title": "Tokyo Ghoul",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/64449.jpg",
+        "alt": "tokyo-ghoul"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "東京喰種-トーキョーグール-",
     "start_date": "2014-07-04",
     "end_date": "2014-07-04",
     "opening_song": "\"unravel\" by TK from Ling Tosite Sigure (eps 2-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"unravel\" by TK from Ling Tosite Sigure (eps 1, 12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

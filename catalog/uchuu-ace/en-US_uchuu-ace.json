@@ -1,5 +1,9 @@
 {
     "title": "Uchuu Ace",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/83908.jpg",
+        "alt": "uchuu-ace"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "宇宙エース",
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Space_Ace_(anime"
+            "link": "http://en.wikipedia.org/wiki/Space_Ace_%28anime%29"
         }
     ]
 }

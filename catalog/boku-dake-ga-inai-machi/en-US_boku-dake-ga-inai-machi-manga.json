@@ -1,5 +1,9 @@
 {
     "title": "Boku dake ga Inai Machi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/172082.jpg",
+        "alt": "boku-dake-ga-inai-machi"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "49",

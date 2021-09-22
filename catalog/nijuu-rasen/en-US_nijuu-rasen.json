@@ -1,5 +1,9 @@
 {
     "title": "Nijuu Rasen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235253.jpg",
+        "alt": "nijuu-rasen"
+    },
     "type": "manga",
     "original_name": "二重螺旋",
     "start_date": "2016-12-22",

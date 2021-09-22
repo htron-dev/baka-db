@@ -1,5 +1,9 @@
 {
     "title": "Big-4",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162651.jpg",
+        "alt": "big-4"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "33",

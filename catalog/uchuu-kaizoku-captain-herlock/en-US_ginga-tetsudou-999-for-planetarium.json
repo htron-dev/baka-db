@@ -1,5 +1,9 @@
 {
     "title": "Ginga Tetsudou 999 for Planetarium",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/72905.jpg",
+        "alt": "ginga-tetsudou-999-for-planetarium"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "銀河鉄道 999 for PLANETARIUM",

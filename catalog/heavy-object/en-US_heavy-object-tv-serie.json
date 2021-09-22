@@ -1,12 +1,16 @@
 {
     "title": "Heavy Object",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/75940.jpg",
+        "alt": "heavy-object"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "ヘヴィーオブジェクト",
     "start_date": "2015-10-03",
     "end_date": "2015-10-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"One More Chance!!\" by ALL OFF (eps 2-7, 9-11)",
+    "ending_song": "#1: \"One More Chance!!\" by ALL OFF (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

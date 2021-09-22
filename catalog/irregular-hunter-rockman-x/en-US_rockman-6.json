@@ -1,5 +1,9 @@
 {
     "title": "Rockman 6",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/230831.jpg",
+        "alt": "rockman-6"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

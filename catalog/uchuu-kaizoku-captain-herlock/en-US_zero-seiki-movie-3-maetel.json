@@ -1,5 +1,9 @@
 {
     "title": "Zero Seiki Movie 3: Maetel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/86659.jpg",
+        "alt": "zero-seiki-movie-3-maetel"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "零世紀 メーテル",

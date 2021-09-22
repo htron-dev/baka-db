@@ -1,5 +1,9 @@
 {
     "title": "Boku no Kioku wa Kimi no Naka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/206560.jpg",
+        "alt": "boku-no-kioku-wa-kimi-no-naka"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

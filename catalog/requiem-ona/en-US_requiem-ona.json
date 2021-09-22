@@ -1,5 +1,9 @@
 {
     "title": "Requiem (ONA)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/76374.jpg",
+        "alt": "requiem-ona"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "レクイエム",

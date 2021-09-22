@@ -1,5 +1,9 @@
 {
     "title": "Kakatte Kinasai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/205510.jpg",
+        "alt": "kakatte-kinasai"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "かかってきなさい!",

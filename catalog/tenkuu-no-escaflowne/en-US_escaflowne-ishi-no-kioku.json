@@ -1,5 +1,9 @@
 {
     "title": "Escaflowne: Ishi no Kioku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13135.jpg",
+        "alt": "escaflowne-ishi-no-kioku"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "天空のエスカフローネ",

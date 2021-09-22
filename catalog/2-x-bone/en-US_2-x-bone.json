@@ -1,5 +1,9 @@
 {
     "title": "2 x Bone",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/127007.jpg",
+        "alt": "2-x-bone"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

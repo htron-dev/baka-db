@@ -1,12 +1,16 @@
 {
     "title": "Coyote Ragtime Show",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/21158.jpg",
+        "alt": "coyote-ragtime-show"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "コヨーテ ラグタイムショー",
     "start_date": "2006-07-04",
     "end_date": "2006-07-04",
     "opening_song": "\"COYOTE\" by Naoki with Power Sound",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Usuragu Kioku\" by Sana (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

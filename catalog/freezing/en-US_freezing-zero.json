@@ -1,5 +1,9 @@
 {
     "title": "Freezing Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/73723.jpg",
+        "alt": "freezing-zero"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "38",

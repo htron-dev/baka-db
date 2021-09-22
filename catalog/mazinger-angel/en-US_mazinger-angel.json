@@ -1,5 +1,9 @@
 {
     "title": "Mazinger Angel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152695.jpg",
+        "alt": "mazinger-angel"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "28",

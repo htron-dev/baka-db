@@ -1,5 +1,9 @@
 {
     "title": "Princess Connect!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/83026.jpg",
+        "alt": "princess-connect"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "プリンセスコネクト！",

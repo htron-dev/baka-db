@@ -1,5 +1,9 @@
 {
     "title": "Fun Fun Factory",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40602.jpg",
+        "alt": "fun-fun-factory"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

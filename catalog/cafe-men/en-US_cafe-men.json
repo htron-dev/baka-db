@@ -1,5 +1,9 @@
 {
     "title": "Café Men!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190474.jpg",
+        "alt": "cafe-men"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

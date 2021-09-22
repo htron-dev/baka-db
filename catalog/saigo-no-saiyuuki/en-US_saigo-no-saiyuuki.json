@@ -1,5 +1,9 @@
 {
     "title": "Saigo no Saiyuuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/219785.jpg",
+        "alt": "saigo-no-saiyuuki"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

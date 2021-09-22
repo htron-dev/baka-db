@@ -1,5 +1,9 @@
 {
     "title": "Boukyaku Tantei Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170721.jpg",
+        "alt": "boukyaku-tantei-series"
+    },
     "type": "light-novel",
     "original_name": "忘却探偵シリーズ",
     "start_date": "2014-10-15",

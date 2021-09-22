@@ -1,5 +1,9 @@
 {
     "title": "X/1999",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/23579.jpg",
+        "alt": "x-1999"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "エックス, X/1999",

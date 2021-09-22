@@ -1,5 +1,9 @@
 {
     "title": "Hijou na Koibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/124171.jpg",
+        "alt": "hijou-na-koibito"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "非情な恋人",

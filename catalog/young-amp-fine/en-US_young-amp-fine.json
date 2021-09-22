@@ -1,5 +1,9 @@
 {
     "title": "Young &amp; Fine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/36770.jpg",
+        "alt": "young-amp-fine"
+    },
     "type": "manga",
     "volumes": "1",
     "start_date": "1991-10-19",

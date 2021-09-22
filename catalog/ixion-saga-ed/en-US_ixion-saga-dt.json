@@ -1,12 +1,16 @@
 {
     "title": "Ixion Saga DT",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/42863.jpg",
+        "alt": "ixion-saga-dt"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "イクシオン サーガ DT",
     "start_date": "2012-10-08",
     "end_date": "2012-10-08",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"DT Suteru (DT 捨テル)\" by Golden Ixion Bomber DT (eps 1-12)",
+    "ending_song": "#1: \"Let's Go ED (レッツゴー ED)\" by Golden Ixion Bomber DT (eps 2-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

@@ -1,5 +1,9 @@
 {
     "title": "Kyou no Sanponta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235733.jpg",
+        "alt": "kyou-no-sanponta"
+    },
     "type": "manga",
     "original_name": "今日のさんぽんた",
     "start_date": "2020-04-12",

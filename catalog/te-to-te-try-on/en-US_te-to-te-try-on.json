@@ -1,5 +1,9 @@
 {
     "title": "Te to Te Try On!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/55685.jpg",
+        "alt": "te-to-te-try-on"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "てとてトライオン！",

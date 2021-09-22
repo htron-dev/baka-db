@@ -1,5 +1,9 @@
 {
     "title": "Aoi Bungaku Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/17471.jpg",
+        "alt": "aoi-bungaku-series"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "青い文学シリーズ",

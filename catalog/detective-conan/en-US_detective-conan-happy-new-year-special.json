@@ -1,5 +1,9 @@
 {
     "title": "Detective Conan: Happy New Year Special",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/82692.jpg",
+        "alt": "detective-conan-happy-new-year-special"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "名探偵コナン 特別編 「謹賀新年 毛利小五郎」",

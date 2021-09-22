@@ -1,5 +1,9 @@
 {
     "title": "Sesame Street",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13562.jpg",
+        "alt": "sesame-street"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "26",

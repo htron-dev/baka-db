@@ -1,5 +1,9 @@
 {
     "title": "Wagamamana Hitomi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/60663.jpg",
+        "alt": "wagamamana-hitomi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

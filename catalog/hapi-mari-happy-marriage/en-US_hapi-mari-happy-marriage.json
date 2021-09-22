@@ -1,5 +1,9 @@
 {
     "title": "Hapi Mari: Happy Marriage!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/142459.jpg",
+        "alt": "hapi-mari-happy-marriage"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "40",

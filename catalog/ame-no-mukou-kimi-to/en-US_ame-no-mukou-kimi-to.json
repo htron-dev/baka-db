@@ -1,5 +1,9 @@
 {
     "title": "Ame no Mukou, Kimi to",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/96171.jpg",
+        "alt": "ame-no-mukou-kimi-to"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

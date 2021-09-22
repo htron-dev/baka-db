@@ -1,5 +1,9 @@
 {
     "title": "Zion no Koeda",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25142.jpg",
+        "alt": "zion-no-koeda"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Hachuurui-chan wa Natsukanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223626.jpg",
+        "alt": "hachuurui-chan-wa-natsukanai"
+    },
     "type": "manga",
     "original_name": "爬虫類ちゃんは懐かない",
     "start_date": "2019-06-18",

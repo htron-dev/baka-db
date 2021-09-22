@@ -1,5 +1,9 @@
 {
     "title": "Gakumon!: Ookami Shoujo wa Kujikenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/162037.jpg",
+        "alt": "gakumon-ookami-shoujo-wa-kujikenai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "54",

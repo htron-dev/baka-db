@@ -1,5 +1,9 @@
 {
     "title": "UFO Gakuen no Himitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/74241.jpg",
+        "alt": "ufo-gakuen-no-himitsu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "UFO 学園の秘密",

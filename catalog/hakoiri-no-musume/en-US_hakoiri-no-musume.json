@@ -1,5 +1,9 @@
 {
     "title": "Hakoiri no Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165069.jpg",
+        "alt": "hakoiri-no-musume"
+    },
     "type": "manga",
     "original_name": "ハコイリのムスメ",
     "start_date": "2015-03-26",

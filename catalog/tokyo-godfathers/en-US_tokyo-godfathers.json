@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Godfathers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1144/93627.jpg",
+        "alt": "tokyo-godfathers"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "東京ゴッドファーザーズ",

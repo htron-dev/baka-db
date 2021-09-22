@@ -1,5 +1,9 @@
 {
     "title": "Detective Conan Tokubetsu-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/78721.jpg",
+        "alt": "detective-conan-tokubetsu-hen"
+    },
     "type": "manga",
     "original_name": "名探偵コナン特別編",
     "tags": [

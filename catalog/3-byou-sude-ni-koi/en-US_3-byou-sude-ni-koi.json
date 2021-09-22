@@ -1,5 +1,9 @@
 {
     "title": "3-byou, Sude ni Koi.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170058.jpg",
+        "alt": "3-byou-sude-ni-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

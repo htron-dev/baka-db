@@ -1,5 +1,9 @@
 {
     "title": "Jinmu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166512.jpg",
+        "alt": "jinmu"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "神武",

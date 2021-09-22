@@ -1,5 +1,9 @@
 {
     "title": "U12 Kodomo Fellows",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/219382.jpg",
+        "alt": "u-12-kodomo-fellows"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "44",

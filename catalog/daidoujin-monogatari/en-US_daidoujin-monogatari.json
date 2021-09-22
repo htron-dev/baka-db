@@ -1,5 +1,9 @@
 {
     "title": "Daidoujin Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165483.jpg",
+        "alt": "daidoujin-monogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

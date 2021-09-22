@@ -1,5 +1,9 @@
 {
     "title": "Shinrabanshou.mp3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1601/102217.jpg",
+        "alt": "shinrabanshou-mp-3"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "森羅万象.mp3",

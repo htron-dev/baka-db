@@ -1,5 +1,9 @@
 {
     "title": "Kawaijuku Manavis CM",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/83684.jpg",
+        "alt": "kawaijuku-manavis-cm"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "河合塾マナビス CM",

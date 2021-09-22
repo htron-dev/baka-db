@@ -1,5 +1,9 @@
 {
     "title": "Futon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/69469.jpg",
+        "alt": "futon"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "布団",

@@ -1,5 +1,9 @@
 {
     "title": "Cupid no Itazura: Madoi no Reiko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228285.jpg",
+        "alt": "cupid-no-itazura-madoi-no-reiko"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

@@ -1,5 +1,9 @@
 {
     "title": "Kanokon Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/22939.jpg",
+        "alt": "kanokon-specials"
+    },
     "type": "special",
     "episodes": "12",
     "original_name": "かのこん",

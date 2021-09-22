@@ -1,5 +1,9 @@
 {
     "title": "Kishibe no Uta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/76173.jpg",
+        "alt": "kishibe-no-uta"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

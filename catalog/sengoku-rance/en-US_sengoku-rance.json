@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Rance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/186070.jpg",
+        "alt": "sengoku-rance"
+    },
     "type": "manga",
     "original_name": "戦国ランス",
     "start_date": "2007-11-26",

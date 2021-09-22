@@ -1,5 +1,9 @@
 {
     "title": "Shin Shunkaden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/117571.jpg",
+        "alt": "shin-shunkaden"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

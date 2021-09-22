@@ -1,5 +1,9 @@
 {
     "title": "Aigan Mazo Kyoushitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/118579.jpg",
+        "alt": "aigan-mazo-kyoushitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

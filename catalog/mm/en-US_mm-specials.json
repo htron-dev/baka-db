@@ -1,5 +1,9 @@
 {
     "title": "MM! Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/26547.jpg",
+        "alt": "mm-specials"
+    },
     "type": "special",
     "episodes": "9",
     "original_name": "えむえむっ! えすえすっ！",

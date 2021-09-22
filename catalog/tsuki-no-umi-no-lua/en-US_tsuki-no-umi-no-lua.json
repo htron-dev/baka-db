@@ -1,5 +1,9 @@
 {
     "title": "Tsuki no Umi no Lua",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/129233.jpg",
+        "alt": "tsuki-no-umi-no-lua"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

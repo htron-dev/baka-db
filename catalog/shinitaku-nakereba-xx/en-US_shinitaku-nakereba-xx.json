@@ -1,5 +1,9 @@
 {
     "title": "Shinitaku Nakereba XX!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/125621.jpg",
+        "alt": "shinitaku-nakereba-xx"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "死にたくなければ ××！",

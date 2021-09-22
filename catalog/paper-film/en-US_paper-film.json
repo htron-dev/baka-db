@@ -1,5 +1,9 @@
 {
     "title": "Paper Film",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/72786.jpg",
+        "alt": "paper-film"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ペーパーフィルム",

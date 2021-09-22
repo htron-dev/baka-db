@@ -1,5 +1,9 @@
 {
     "title": "Flying Darwin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/239587.jpg",
+        "alt": "flying-darwin"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "フライング・ダーウィン",

@@ -1,5 +1,9 @@
 {
     "title": "Dragon Ball Movie 4: Saikyou e no Michi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1497/93677.jpg",
+        "alt": "dragon-ball-movie-4-saikyou-e-no-michi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ドラゴンボール 最強への道",

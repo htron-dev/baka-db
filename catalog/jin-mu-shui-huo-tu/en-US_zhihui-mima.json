@@ -1,5 +1,9 @@
 {
     "title": "Zhihui Mima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1087/115337.jpg",
+        "alt": "zhihui-mima"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "智慧密码",

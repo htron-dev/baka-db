@@ -1,5 +1,9 @@
 {
     "title": "Yami Shibai 3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/78074.jpg",
+        "alt": "yami-shibai-3"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "闇芝居 3 期",

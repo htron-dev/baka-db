@@ -1,5 +1,9 @@
 {
     "title": "Kenta Yarimasu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/154848.jpg",
+        "alt": "kenta-yarimasu"
+    },
     "type": "manga",
     "volumes": "26",
     "chapters": "245",

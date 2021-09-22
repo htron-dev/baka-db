@@ -1,5 +1,9 @@
 {
     "title": "Hoshikuzu Drop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/173309.jpg",
+        "alt": "hoshikuzu-drop"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "21",

@@ -1,5 +1,9 @@
 {
     "title": "Bocchi the Rock!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224954.jpg",
+        "alt": "bocchi-the-rock"
+    },
     "type": "manga",
     "original_name": "ぼっち・ざ・ろっく！",
     "start_date": "2017-12-19",

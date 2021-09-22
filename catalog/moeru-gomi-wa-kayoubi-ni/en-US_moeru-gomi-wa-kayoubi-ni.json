@@ -1,5 +1,9 @@
 {
     "title": "Moeru Gomi wa Kayoubi ni.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164031.jpg",
+        "alt": "moeru-gomi-wa-kayoubi-ni"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "14",

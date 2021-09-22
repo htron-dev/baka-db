@@ -1,5 +1,9 @@
 {
     "title": "Fever",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152318.jpg",
+        "alt": "fever"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "19",

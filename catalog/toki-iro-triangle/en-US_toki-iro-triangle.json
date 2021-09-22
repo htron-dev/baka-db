@@ -1,5 +1,9 @@
 {
     "title": "Toki-iro Triangle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165011.jpg",
+        "alt": "toki-iro-triangle"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "20",

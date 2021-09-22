@@ -1,12 +1,16 @@
 {
     "title": "Kamisama Minarai: Himitsu no Cocotama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/84883.jpg",
+        "alt": "kamisama-minarai-himitsu-no-cocotama"
+    },
     "type": "tv-serie",
     "episodes": "139",
     "original_name": "かみさまみならい ヒミツのここたま",
     "start_date": "2015-10-01",
     "end_date": "2015-10-01",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Korokoro Cocotama! (ころころここたま！)\" by ERIKA",
+    "ending_song": "#1: \"Kokonpoipoi Cocottama! (ここんぽいぽいここったま！)\" by Melori to Cocotama Five [Melori (Aki Toyosaki), Rakitama (Megumi Han), Oshaki (Yumi Kakazu), Geracho (Rikako Aizawa), Kirarisu (Ryouka Yuzuki), Mogutan (Michiyo Murase)]",
     "rating": "PG - Children",
     "tags": [
         "fantasy",

@@ -1,5 +1,9 @@
 {
     "title": "Quanzhi Gaoshou 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1573/109220.jpg",
+        "alt": "quanzhi-gaoshou-2"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "全职高手 2",

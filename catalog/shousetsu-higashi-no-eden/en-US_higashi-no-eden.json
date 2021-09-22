@@ -1,11 +1,15 @@
 {
     "title": "Higashi no Eden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/15033.jpg",
+        "alt": "higashi-no-eden"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "東のエデン",
     "start_date": "2009-04-10",
     "end_date": "2009-04-10",
-    "opening_song": "#1",
+    "opening_song": "#1: \"FALLING DOWN\" by Oasis",
     "ending_song": "\"futuristic imagination\" by school food punishment",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [

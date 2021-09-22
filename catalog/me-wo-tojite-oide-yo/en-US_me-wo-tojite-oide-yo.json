@@ -1,5 +1,9 @@
 {
     "title": "Me wo Tojite Oide yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/25704.jpg",
+        "alt": "me-wo-tojite-oide-yo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Kataomoism",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/160724.jpg",
+        "alt": "kataomoism"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "片想イズム",

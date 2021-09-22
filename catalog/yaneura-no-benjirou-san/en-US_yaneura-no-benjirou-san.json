@@ -1,5 +1,9 @@
 {
     "title": "Yaneura no Benjirou-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227641.jpg",
+        "alt": "yaneura-no-benjirou-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

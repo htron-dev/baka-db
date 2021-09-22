@@ -1,5 +1,9 @@
 {
     "title": "Seikyouiku 120%",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245323.jpg",
+        "alt": "seikyouiku-120"
+    },
     "type": "manga",
     "original_name": "性教育 120％",
     "start_date": "2020-01-14",

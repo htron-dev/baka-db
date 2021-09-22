@@ -1,5 +1,9 @@
 {
     "title": "Linden Hall no Aria",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/73829.jpg",
+        "alt": "linden-hall-no-aria"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

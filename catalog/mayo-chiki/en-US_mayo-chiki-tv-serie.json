@@ -1,5 +1,9 @@
 {
     "title": "Mayo Chiki!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/29971.jpg",
+        "alt": "mayo-chiki"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "まよチキ!",

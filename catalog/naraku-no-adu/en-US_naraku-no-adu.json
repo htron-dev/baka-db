@@ -1,5 +1,9 @@
 {
     "title": "Naraku no Adu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177769.jpg",
+        "alt": "naraku-no-adu"
+    },
     "type": "manga",
     "original_name": "ナラクノアドゥ",
     "start_date": "2015-11-13",

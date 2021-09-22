@@ -1,5 +1,9 @@
 {
     "title": "Alpaca Kaasan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149636.jpg",
+        "alt": "alpaca-kaasan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "44",

@@ -1,5 +1,9 @@
 {
     "title": "Houseki no Kuni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/115443.jpg",
+        "alt": "houseki-no-kuni"
+    },
     "type": "manga",
     "original_name": "宝石の国",
     "start_date": "2012-10-25",

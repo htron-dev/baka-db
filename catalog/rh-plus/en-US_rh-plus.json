@@ -1,5 +1,9 @@
 {
     "title": "RH Plus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/169708.jpg",
+        "alt": "rh-plus"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

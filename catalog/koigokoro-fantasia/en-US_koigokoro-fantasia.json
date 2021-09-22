@@ -1,5 +1,9 @@
 {
     "title": "Koigokoro Fantasia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/6694.jpg",
+        "alt": "koigokoro-fantasia"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Oshioki!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/155076.jpg",
+        "alt": "oshioki"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "おしおきっ!",

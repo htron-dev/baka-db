@@ -1,5 +1,9 @@
 {
     "title": "Code: Leviathan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/64103.jpg",
+        "alt": "code-leviathan"
+    },
     "type": "manga",
     "original_name": "コード・リヴァイアサン",
     "tags": [

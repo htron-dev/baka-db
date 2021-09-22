@@ -1,5 +1,9 @@
 {
     "title": "Ogre ni Zoom Up!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163057.jpg",
+        "alt": "ogre-ni-zoom-up"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "19",

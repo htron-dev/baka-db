@@ -1,5 +1,9 @@
 {
     "title": "Shiawase desu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/131645.jpg",
+        "alt": "shiawase-desu-ka"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

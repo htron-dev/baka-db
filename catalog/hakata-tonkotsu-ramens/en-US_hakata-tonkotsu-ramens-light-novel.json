@@ -1,5 +1,9 @@
 {
     "title": "Hakata Tonkotsu Ramens",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/231557.jpg",
+        "alt": "hakata-tonkotsu-ramens"
+    },
     "type": "light-novel",
     "original_name": "博多豚骨ラーメンズ",
     "start_date": "2014-02-25",

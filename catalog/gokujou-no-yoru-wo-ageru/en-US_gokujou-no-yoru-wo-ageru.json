@@ -1,5 +1,9 @@
 {
     "title": "Gokujou no Yoru wo Ageru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14503.jpg",
+        "alt": "gokujou-no-yoru-wo-ageru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

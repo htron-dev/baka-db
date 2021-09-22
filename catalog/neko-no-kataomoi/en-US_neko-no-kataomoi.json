@@ -1,5 +1,9 @@
 {
     "title": "Neko no Kataomoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/241558.jpg",
+        "alt": "neko-no-kataomoi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

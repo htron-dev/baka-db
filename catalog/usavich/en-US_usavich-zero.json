@@ -1,5 +1,9 @@
 {
     "title": "Usavich Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/73969.jpg",
+        "alt": "usavich-zero"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ウサビッチ ZERO",

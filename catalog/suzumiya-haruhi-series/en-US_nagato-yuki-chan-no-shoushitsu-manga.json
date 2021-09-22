@@ -1,5 +1,9 @@
 {
     "title": "Nagato Yuki-chan no Shoushitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153402.jpg",
+        "alt": "nagato-yuki-chan-no-shoushitsu"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "79",

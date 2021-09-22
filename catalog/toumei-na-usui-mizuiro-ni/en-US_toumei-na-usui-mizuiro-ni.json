@@ -1,5 +1,9 @@
 {
     "title": "Toumei na Usui Mizuiro ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/212942.jpg",
+        "alt": "toumei-na-usui-mizuiro-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

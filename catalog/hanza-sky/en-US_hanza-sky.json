@@ -1,5 +1,9 @@
 {
     "title": "Hanza Sky",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/148803.jpg",
+        "alt": "hanza-sky"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "115",

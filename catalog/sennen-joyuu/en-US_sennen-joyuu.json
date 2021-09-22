@@ -1,5 +1,9 @@
 {
     "title": "Sennen Joyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1648/93626.jpg",
+        "alt": "sennen-joyuu"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "千年女優",

@@ -1,5 +1,9 @@
 {
     "title": "Jinxed",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28462.jpg",
+        "alt": "jinxed"
+    },
     "type": "manga",
     "chapters": "1",
     "tags": [

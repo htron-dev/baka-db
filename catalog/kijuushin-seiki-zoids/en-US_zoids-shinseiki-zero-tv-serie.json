@@ -1,5 +1,9 @@
 {
     "title": "Zoids Shinseiki/Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/24972.jpg",
+        "alt": "zoids-shinseiki-zero"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ゾイド新世紀／ゼロ",

@@ -1,5 +1,9 @@
 {
     "title": "Hen na Neesan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149310.jpg",
+        "alt": "hen-na-neesan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

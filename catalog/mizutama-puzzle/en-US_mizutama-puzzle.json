@@ -1,5 +1,9 @@
 {
     "title": "Mizutama Puzzle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/89663.jpg",
+        "alt": "mizutama-puzzle"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "水玉パズル",

@@ -1,5 +1,9 @@
 {
     "title": "Mother Cosmos",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/166509.jpg",
+        "alt": "mother-cosmos"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "マザー・コスモス",

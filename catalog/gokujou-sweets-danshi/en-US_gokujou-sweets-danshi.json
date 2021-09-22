@@ -1,5 +1,9 @@
 {
     "title": "Gokujou Sweets Danshi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/144039.jpg",
+        "alt": "gokujou-sweets-danshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

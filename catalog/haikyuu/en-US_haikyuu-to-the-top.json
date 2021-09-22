@@ -1,5 +1,9 @@
 {
     "title": "Haikyuu!!: To the Top",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1813/105367.jpg",
+        "alt": "haikyuu-to-the-top"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ハイキュー!! TO THE TOP",

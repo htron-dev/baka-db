@@ -1,5 +1,9 @@
 {
     "title": "Rules Booklet - Another Day on the Planet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6712.jpg",
+        "alt": "rules-booklet-another-day-on-the-planet"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

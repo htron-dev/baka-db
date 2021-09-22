@@ -1,5 +1,9 @@
 {
     "title": "Kaitou Joker 4th Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/80551.jpg",
+        "alt": "kaitou-joker-4th-season"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "怪盗ジョーカー シーズン",

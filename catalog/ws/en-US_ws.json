@@ -1,5 +1,9 @@
 {
     "title": "W's",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185483.jpg",
+        "alt": "ws"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Inu Himesama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149837.jpg",
+        "alt": "inu-himesama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

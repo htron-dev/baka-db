@@ -1,5 +1,9 @@
 {
     "title": "Anju to Zushioumaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1066/100513.jpg",
+        "alt": "anju-to-zushioumaru"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "安寿と厨子王丸",
@@ -29,7 +33,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/%E5%AE%89%E5%AF%BF%E3%81%A8%E5%8E%A8%E5%AD%90%E7%8E%8B%E4%B8%B8_(%E6%98%A0%E7%94%BB"
+            "link": "https://ja.wikipedia.org/wiki/%E5%AE%89%E5%AF%BF%E3%81%A8%E5%8E%A8%E5%AD%90%E7%8E%8B%E4%B8%B8_%28%E6%98%A0%E7%94%BB%29"
         }
     ]
 }

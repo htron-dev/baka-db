@@ -1,12 +1,16 @@
 {
     "title": "Sengoku Night Blood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/88329.jpg",
+        "alt": "sengoku-night-blood"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "戦刻ナイトブラッド",
     "start_date": "2017-10-03",
     "end_date": "2017-10-03",
     "opening_song": "\"Tenka Zekkei (天下絶景)\" by Nobunaga Oda (Toshiyuki Morikawa), Hideyoshi Toyotomi (Natsuki Hanae), Kenshin Uesugi (Kousuke Toriumi), Shingen Takeda (Katsuyuki Konishi), Yukimura Sanada (Daiki Yamashita), Masamune Date (Yuuichirou Umehara)",
-    "ending_song": "#01",
+    "ending_song": "#01: \"HEI-GEN-JI-ZAI\" by Hideyoshi Toyotomi (Natsuki Hanae) (eps 1-2, 5, 11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "historical",

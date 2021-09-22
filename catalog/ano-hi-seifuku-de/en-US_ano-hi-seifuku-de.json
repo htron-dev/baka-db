@@ -1,5 +1,9 @@
 {
     "title": "Ano Hi, Seifuku de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176115.jpg",
+        "alt": "ano-hi-seifuku-de"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

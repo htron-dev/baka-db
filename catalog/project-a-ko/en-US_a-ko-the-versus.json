@@ -1,11 +1,15 @@
 {
     "title": "A-Ko The Versus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/41427.jpg",
+        "alt": "a-ko-the-versus"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "A-Ko The VS [ヴァーサス]",
     "start_date": "1990-07-21",
     "end_date": "1990-07-21",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Gray Side: Suna no Ame (GRAY SIDE ~砂の雨~)\" by EMMIE",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

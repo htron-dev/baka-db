@@ -1,5 +1,9 @@
 {
     "title": "Hana ni Kedamono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/39706.jpg",
+        "alt": "hana-ni-kedamono"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "53",

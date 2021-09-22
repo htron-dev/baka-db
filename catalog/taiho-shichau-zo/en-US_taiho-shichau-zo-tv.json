@@ -1,12 +1,16 @@
 {
     "title": "Taiho Shichau zo (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/16767.jpg",
+        "alt": "taiho-shichau-zo-tv"
+    },
     "type": "tv-serie",
     "episodes": "47",
     "original_name": "逮捕しちゃうぞ (1996)",
     "start_date": "1996-10-05",
     "end_date": "1996-10-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Boku de Aru Tame ni\" by FLYING KIDS (eps 1-21)",
+    "ending_song": "#1: \"Thank you, love\" by Keiko Terada (eps 1-21)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

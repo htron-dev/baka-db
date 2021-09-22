@@ -1,5 +1,9 @@
 {
     "title": "Kemeko no Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/64691.jpg",
+        "alt": "kemeko-no-love"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ケメ子の LOVE",

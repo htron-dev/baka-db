@@ -1,12 +1,16 @@
 {
     "title": "G-On Riders",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/23389.jpg",
+        "alt": "g-on-riders"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "G-on らいだーす",
     "start_date": "2002-07-02",
     "end_date": "2002-07-02",
     "opening_song": "\"Tokimeite, G-on G! (トキメイテ, G-on G!)\" by Shima Ryouka, Omi Minami & Kurata Masayo",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Miracle☆Pajama (ミラクル ☆ パジャマ)\" by Lolivaders Z, Machii Miki, Mizuhashi Kaori, Tamura Yukari, Uemura Takako",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

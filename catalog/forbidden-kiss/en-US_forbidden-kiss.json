@@ -1,5 +1,9 @@
 {
     "title": "Forbidden Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28616.jpg",
+        "alt": "forbidden-kiss"
+    },
     "type": "manhwa",
     "volumes": "10",
     "original_name": "금지된 키스",

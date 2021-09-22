@@ -1,5 +1,9 @@
 {
     "title": "Kids Joker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/16076.jpg",
+        "alt": "kids-joker"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "キッズ・ジョーカー",

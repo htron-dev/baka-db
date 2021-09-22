@@ -1,12 +1,16 @@
 {
     "title": "Norn9: Norn+Nonet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/77974.jpg",
+        "alt": "norn-9-norn-nonet"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "NORN9 ノルン+ノネット",
     "start_date": "2016-01-07",
     "end_date": "2016-01-07",
     "opening_song": "\"Kazakiri (カザキリ)\" by Nagi Yanagi (eps 1-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Vid en Horisont\" by Maria Andersson (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "sci-fi",

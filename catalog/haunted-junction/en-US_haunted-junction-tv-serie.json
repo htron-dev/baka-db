@@ -1,5 +1,9 @@
 {
     "title": "Haunted Junction",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1163/94507.jpg",
+        "alt": "haunted-junction"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "HAUNTED じゃんくしょん",

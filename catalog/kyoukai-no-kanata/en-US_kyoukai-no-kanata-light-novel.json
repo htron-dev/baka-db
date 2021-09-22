@@ -1,5 +1,9 @@
 {
     "title": "Kyoukai no Kanata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/88513.jpg",
+        "alt": "kyoukai-no-kanata"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "境界の彼方",

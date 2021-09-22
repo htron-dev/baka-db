@@ -1,5 +1,9 @@
 {
     "title": "Corentin-gou no Koukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/174473.jpg",
+        "alt": "corentin-gou-no-koukai"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "コランタン号の航海",

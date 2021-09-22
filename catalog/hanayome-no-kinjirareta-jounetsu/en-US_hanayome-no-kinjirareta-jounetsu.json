@@ -1,5 +1,9 @@
 {
     "title": "Hanayome no Kinjirareta Jounetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/127289.jpg",
+        "alt": "hanayome-no-kinjirareta-jounetsu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "花嫁の禁じられた情熱",

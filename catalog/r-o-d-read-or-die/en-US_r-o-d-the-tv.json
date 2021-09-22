@@ -1,12 +1,16 @@
 {
     "title": "R.O.D: The TV",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/73350.jpg",
+        "alt": "r-o-d-the-tv"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "アール・オー・ディー ザ・ティーヴィー",
     "start_date": "2003-09-01",
     "end_date": "2003-09-01",
     "opening_song": "\"R.O.D.\" by Y K Z, arranged and composed by Hideki Tanaka",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Moments in the Sun\" by kazami with Home Grown (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

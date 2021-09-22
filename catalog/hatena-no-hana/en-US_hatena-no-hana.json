@@ -1,5 +1,9 @@
 {
     "title": "Hatena no Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/31212.jpg",
+        "alt": "hatena-no-hana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

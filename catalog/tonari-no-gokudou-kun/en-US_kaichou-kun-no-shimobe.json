@@ -1,5 +1,9 @@
 {
     "title": "Kaichou-kun no Shimobe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/185352.jpg",
+        "alt": "kaichou-kun-no-shimobe"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "24",

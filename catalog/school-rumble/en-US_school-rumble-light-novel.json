@@ -1,5 +1,9 @@
 {
     "title": "School Rumble",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/139119.jpg",
+        "alt": "school-rumble"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "スクールランブル",

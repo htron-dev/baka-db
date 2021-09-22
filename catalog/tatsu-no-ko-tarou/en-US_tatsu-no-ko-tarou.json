@@ -1,5 +1,9 @@
 {
     "title": "Tatsu no Ko Tarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1696/93897.jpg",
+        "alt": "tatsu-no-ko-tarou"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "龍の子太郎",

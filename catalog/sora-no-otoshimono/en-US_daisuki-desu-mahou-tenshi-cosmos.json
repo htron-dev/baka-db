@@ -1,5 +1,9 @@
 {
     "title": "Daisuki desu!! Mahou Tenshi Cosmos",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/59829.jpg",
+        "alt": "daisuki-desu-mahou-tenshi-cosmos"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "29",

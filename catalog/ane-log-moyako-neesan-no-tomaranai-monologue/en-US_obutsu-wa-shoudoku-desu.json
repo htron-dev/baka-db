@@ -1,5 +1,9 @@
 {
     "title": "Obutsu wa Shoudoku desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/197719.jpg",
+        "alt": "obutsu-wa-shoudoku-desu"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "83",

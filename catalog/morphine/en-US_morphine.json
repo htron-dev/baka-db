@@ -1,5 +1,9 @@
 {
     "title": "Morphine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/27879.jpg",
+        "alt": "morphine"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

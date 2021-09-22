@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Wonderland",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201002.jpg",
+        "alt": "kimi-to-wonderland"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Akapoli",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235901.jpg",
+        "alt": "akapoli"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

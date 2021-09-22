@@ -1,5 +1,9 @@
 {
     "title": "Haru Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32829.jpg",
+        "alt": "haru-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

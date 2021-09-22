@@ -1,5 +1,9 @@
 {
     "title": "Seishun Otome Banchou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/123885.jpg",
+        "alt": "seishun-otome-banchou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

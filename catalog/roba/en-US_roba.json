@@ -1,5 +1,9 @@
 {
     "title": "Roba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/84482.jpg",
+        "alt": "roba"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "驢馬",

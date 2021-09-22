@@ -1,5 +1,9 @@
 {
     "title": "Junai Host Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/64229.jpg",
+        "alt": "junai-host-club"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

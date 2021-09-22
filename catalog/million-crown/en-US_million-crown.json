@@ -1,5 +1,9 @@
 {
     "title": "Million Crown",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/201286.jpg",
+        "alt": "million-crown"
+    },
     "type": "light-novel",
     "original_name": "ミリオン・クラウン",
     "start_date": "2017-10-01",

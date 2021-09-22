@@ -1,5 +1,9 @@
 {
     "title": "Are←Nochi Kareshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/83863.jpg",
+        "alt": "are←-nochi-kareshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

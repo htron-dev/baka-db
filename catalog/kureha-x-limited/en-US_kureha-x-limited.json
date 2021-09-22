@@ -1,5 +1,9 @@
 {
     "title": "Kureha x Limited!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/126155.jpg",
+        "alt": "kureha-x-limited"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "くれは × リミテッド！",

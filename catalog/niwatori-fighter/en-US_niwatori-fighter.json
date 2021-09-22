@@ -1,5 +1,9 @@
 {
     "title": "Niwatori Fighter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244077.jpg",
+        "alt": "niwatori-fighter"
+    },
     "type": "manga",
     "original_name": "ニワトリ・ファイター",
     "start_date": "2020-12-18",

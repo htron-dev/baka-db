@@ -1,5 +1,9 @@
 {
     "title": "Ekidona",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/59271.jpg",
+        "alt": "ekidona"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "20",

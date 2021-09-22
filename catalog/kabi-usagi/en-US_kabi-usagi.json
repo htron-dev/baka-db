@@ -1,5 +1,9 @@
 {
     "title": "Kabi Usagi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/81539.jpg",
+        "alt": "kabi-usagi"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "カビうさぎ",

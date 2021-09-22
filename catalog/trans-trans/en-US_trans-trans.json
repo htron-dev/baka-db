@@ -1,5 +1,9 @@
 {
     "title": "Trans Trans",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/106033.jpg",
+        "alt": "trans-trans"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

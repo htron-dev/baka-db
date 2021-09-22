@@ -1,5 +1,9 @@
 {
     "title": "Shiny Star",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/101597.jpg",
+        "alt": "shiny-star"
+    },
     "type": "manga",
     "original_name": "シャイニースター",
     "start_date": "2011-08-22",

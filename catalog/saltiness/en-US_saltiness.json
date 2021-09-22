@@ -1,5 +1,9 @@
 {
     "title": "Saltiness",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/98303.jpg",
+        "alt": "saltiness"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "44",

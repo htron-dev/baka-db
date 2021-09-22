@@ -1,5 +1,9 @@
 {
     "title": "Magicraft Meister",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/175202.jpg",
+        "alt": "magicraft-meister"
+    },
     "type": "light-novel",
     "original_name": "マギクラフト・マイスター",
     "start_date": "2013-11-22",

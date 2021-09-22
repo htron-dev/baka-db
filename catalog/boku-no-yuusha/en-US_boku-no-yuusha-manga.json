@@ -1,5 +1,9 @@
 {
     "title": "Boku no Yuusha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/137161.jpg",
+        "alt": "boku-no-yuusha"
+    },
     "type": "manga",
     "original_name": "ぼくのゆうしゃ",
     "tags": [

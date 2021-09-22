@@ -1,5 +1,9 @@
 {
     "title": "Suki to Iu no wa Uso no Uso desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/141947.jpg",
+        "alt": "suki-to-iu-no-wa-uso-no-uso-desu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

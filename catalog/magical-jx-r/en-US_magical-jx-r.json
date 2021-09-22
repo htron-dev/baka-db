@@ -1,5 +1,9 @@
 {
     "title": "Magical JxR",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/30358.jpg",
+        "alt": "magical-jx-r"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "24",

@@ -1,5 +1,9 @@
 {
     "title": "Senpai wa Kigae ga Dekinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215484.jpg",
+        "alt": "senpai-wa-kigae-ga-dekinai"
+    },
     "type": "manga",
     "original_name": "先輩は着替えができない",
     "start_date": "2019-01-26",

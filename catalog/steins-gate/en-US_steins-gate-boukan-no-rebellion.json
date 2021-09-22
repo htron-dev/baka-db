@@ -1,5 +1,9 @@
 {
     "title": "Steins;Gate: Boukan no Rebellion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/41878.jpg",
+        "alt": "steins-gate-boukan-no-rebellion"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

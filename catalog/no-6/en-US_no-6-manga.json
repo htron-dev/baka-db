@@ -1,5 +1,9 @@
 {
     "title": "No.6",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/184479.jpg",
+        "alt": "no-6"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "35",

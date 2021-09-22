@@ -1,5 +1,9 @@
 {
     "title": "Girls Lesson",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/32099.jpg",
+        "alt": "girls-lesson"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "女子恋爱讲义",

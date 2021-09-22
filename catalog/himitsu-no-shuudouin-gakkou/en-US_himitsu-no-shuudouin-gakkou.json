@@ -1,5 +1,9 @@
 {
     "title": "Himitsu no Shuudouin Gakkou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/182500.jpg",
+        "alt": "himitsu-no-shuudouin-gakkou"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Airyouran Gakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/15503.jpg",
+        "alt": "airyouran-gakuen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Kaijin Reijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236450.jpg",
+        "alt": "kaijin-reijou"
+    },
     "type": "manga",
     "original_name": "怪人麗嬢",
     "start_date": "2018-04-21",

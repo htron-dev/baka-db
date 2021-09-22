@@ -1,5 +1,9 @@
 {
     "title": "Setsuna No Rakuen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/27912.jpg",
+        "alt": "setsuna-no-rakuen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

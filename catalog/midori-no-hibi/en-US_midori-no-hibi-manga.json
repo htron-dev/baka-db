@@ -1,5 +1,9 @@
 {
     "title": "Midori no Hibi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/56681.jpg",
+        "alt": "midori-no-hibi"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "86",

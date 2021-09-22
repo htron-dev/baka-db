@@ -1,5 +1,9 @@
 {
     "title": "Shimauma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165573.jpg",
+        "alt": "shimauma"
+    },
     "type": "manga",
     "original_name": "シマウマ",
     "start_date": "2010-07-26",

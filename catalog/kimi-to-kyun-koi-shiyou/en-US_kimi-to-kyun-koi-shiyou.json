@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Kyun Koi, Shiyou.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/96053.jpg",
+        "alt": "kimi-to-kyun-koi-shiyou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

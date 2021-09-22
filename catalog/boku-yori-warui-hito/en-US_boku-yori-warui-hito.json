@@ -1,5 +1,9 @@
 {
     "title": "Boku yori Warui Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/247561.jpg",
+        "alt": "boku-yori-warui-hito"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

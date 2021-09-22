@@ -1,5 +1,9 @@
 {
     "title": "Usotsuki na Kimi no Toriko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201074.jpg",
+        "alt": "usotsuki-na-kimi-no-toriko"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo Neko X",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/19409.jpg",
+        "alt": "mahou-shoujo-neko-x"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

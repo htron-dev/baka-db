@@ -1,5 +1,9 @@
 {
     "title": "Kamisu Reina Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/117705.jpg",
+        "alt": "kamisu-reina-series"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "11",

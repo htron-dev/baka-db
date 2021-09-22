@@ -1,5 +1,9 @@
 {
     "title": "Kaiki to Fuushi Sakuhinshuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247905.jpg",
+        "alt": "kaiki-to-fuushi-sakuhinshuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "22",

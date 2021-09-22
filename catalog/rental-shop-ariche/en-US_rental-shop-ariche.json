@@ -1,5 +1,9 @@
 {
     "title": "Rental Shop Ariche",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163495.jpg",
+        "alt": "rental-shop-ariche"
+    },
     "type": "light-novel",
     "original_name": "レンタル武器屋〈ショップ〉アリーチェ",
     "start_date": "2015-10-01",

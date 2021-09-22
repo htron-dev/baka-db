@@ -1,5 +1,9 @@
 {
     "title": "Pokémon HGSS",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79143.jpg",
+        "alt": "pokemon-hgss"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "23",

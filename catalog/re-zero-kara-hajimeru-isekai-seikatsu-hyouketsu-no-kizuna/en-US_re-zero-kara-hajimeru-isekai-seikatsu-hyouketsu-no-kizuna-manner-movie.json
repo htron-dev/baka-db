@@ -1,8 +1,12 @@
 {
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna - Manner Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1599/106827.jpg",
+        "alt": "re-zero-kara-hajimeru-isekai-seikatsu-hyouketsu-no-kizuna-manner-movie"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "Re",
+    "original_name": "Re:ゼロから始める異世界生活 氷結の絆 マナームービー",
     "start_date": "2019-11-08",
     "rating": "G - All Ages",
     "tags": [

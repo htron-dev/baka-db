@@ -1,5 +1,9 @@
 {
     "title": "Ari-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/68303.jpg",
+        "alt": "ari-chan"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "アリチャン",

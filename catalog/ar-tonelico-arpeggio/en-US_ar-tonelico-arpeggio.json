@@ -1,5 +1,9 @@
 {
     "title": "Ar Tonelico: Arpeggio",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/17287.jpg",
+        "alt": "ar-tonelico-arpeggio"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

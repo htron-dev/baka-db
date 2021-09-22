@@ -1,5 +1,9 @@
 {
     "title": "Ingress-teki Nichijou: Chloe-san no Baai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192219.jpg",
+        "alt": "ingress-teki-nichijou-chloe-san-no-baai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

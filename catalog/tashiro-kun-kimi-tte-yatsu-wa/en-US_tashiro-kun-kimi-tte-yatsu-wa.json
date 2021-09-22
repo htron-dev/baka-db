@@ -1,5 +1,9 @@
 {
     "title": "Tashiro-kun, Kimi tte Yatsu wa.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/233911.jpg",
+        "alt": "tashiro-kun-kimi-tte-yatsu-wa"
+    },
     "type": "manga",
     "original_name": "鯛代くん、君ってやつは。",
     "start_date": "2016-10-18",

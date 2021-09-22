@@ -1,5 +1,9 @@
 {
     "title": "Hungry Joker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/88095.jpg",
+        "alt": "hungry-joker"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

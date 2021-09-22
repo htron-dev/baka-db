@@ -1,5 +1,9 @@
 {
     "title": "Junk: Record of the Last Hero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5654.jpg",
+        "alt": "junk-record-of-the-last-hero"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "35",

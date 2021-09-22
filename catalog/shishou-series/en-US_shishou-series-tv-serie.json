@@ -1,5 +1,9 @@
 {
     "title": "Shishou Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/72325.jpg",
+        "alt": "shishou-series"
+    },
     "type": "tv-serie",
     "original_name": "師匠シリーズ",
     "rating": "None",

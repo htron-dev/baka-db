@@ -1,12 +1,16 @@
 {
     "title": "Domestic na Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1021/95670.jpg",
+        "alt": "domestic-na-kanojo"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ドメスティックな彼女",
     "start_date": "2019-01-12",
     "end_date": "2019-01-12",
     "opening_song": "\"Kawaki wo Ameku (カワキヲアメク)\" by Minami",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Wagamama (わがまま)\" by Alisa Takigawa (eps 1-7, 9-12)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "drama",

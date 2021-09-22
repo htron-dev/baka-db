@@ -1,5 +1,9 @@
 {
     "title": "Fue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/71811.jpg",
+        "alt": "fue"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "笛",

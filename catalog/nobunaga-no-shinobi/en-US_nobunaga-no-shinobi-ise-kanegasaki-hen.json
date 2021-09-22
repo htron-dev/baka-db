@@ -1,11 +1,15 @@
 {
     "title": "Nobunaga no Shinobi: Ise Kanegasaki-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/84890.jpg",
+        "alt": "nobunaga-no-shinobi-ise-kanegasaki-hen"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "信長の忍び~伊勢・金ヶ崎篇~",
     "start_date": "2017-04-08",
     "end_date": "2017-04-08",
-    "opening_song": "#1",
+    "opening_song": "#1: \"Shirayuki (白雪)\" by Renka",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

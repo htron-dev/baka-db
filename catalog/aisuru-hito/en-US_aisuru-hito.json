@@ -1,5 +1,9 @@
 {
     "title": "Aisuru Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166309.jpg",
+        "alt": "aisuru-hito"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

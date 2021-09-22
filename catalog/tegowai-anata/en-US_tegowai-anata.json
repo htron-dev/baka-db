@@ -1,5 +1,9 @@
 {
     "title": "Tegowai Anata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/82676.jpg",
+        "alt": "tegowai-anata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

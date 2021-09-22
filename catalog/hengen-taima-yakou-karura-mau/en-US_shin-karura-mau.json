@@ -1,5 +1,9 @@
 {
     "title": "Shin Karura Mau!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/226060.jpg",
+        "alt": "shin-karura-mau"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "30",

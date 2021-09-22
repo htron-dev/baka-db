@@ -1,5 +1,9 @@
 {
     "title": "Haruhi Comic Anthology: Kyon to Koizumi no Sainan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/105811.jpg",
+        "alt": "haruhi-comic-anthology-kyon-to-koizumi-no-sainan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "19",

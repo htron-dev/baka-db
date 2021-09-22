@@ -1,5 +1,9 @@
 {
     "title": "Fullmetal Alchemist",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/243675.jpg",
+        "alt": "fullmetal-alchemist"
+    },
     "type": "manga",
     "volumes": "27",
     "chapters": "116",

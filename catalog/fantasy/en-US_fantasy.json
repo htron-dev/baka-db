@@ -1,5 +1,9 @@
 {
     "title": "Fantasy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/78193.jpg",
+        "alt": "fantasy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

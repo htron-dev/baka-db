@@ -1,5 +1,9 @@
 {
     "title": "Natsuko no Sake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/6642.jpg",
+        "alt": "natsuko-no-sake"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "131",

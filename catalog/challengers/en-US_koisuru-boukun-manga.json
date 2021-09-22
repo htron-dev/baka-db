@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Boukun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/118407.jpg",
+        "alt": "koisuru-boukun"
+    },
     "type": "manga",
     "original_name": "恋する暴君",
     "start_date": "2004-04-07",

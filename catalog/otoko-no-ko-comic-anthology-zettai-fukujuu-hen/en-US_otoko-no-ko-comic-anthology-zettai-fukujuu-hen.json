@@ -1,5 +1,9 @@
 {
     "title": "Otoko no Ko Comic Anthology: Zettai Fukujuu-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/108437.jpg",
+        "alt": "otoko-no-ko-comic-anthology-zettai-fukujuu-hen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

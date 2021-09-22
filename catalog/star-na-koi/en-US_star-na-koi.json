@@ -1,5 +1,9 @@
 {
     "title": "Star na Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161770.jpg",
+        "alt": "star-na-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

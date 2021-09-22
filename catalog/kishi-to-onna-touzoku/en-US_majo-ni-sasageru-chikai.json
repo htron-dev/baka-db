@@ -1,5 +1,9 @@
 {
     "title": "Majo ni Sasageru Chikai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229607.jpg",
+        "alt": "majo-ni-sasageru-chikai"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "魔女に捧げる誓い",

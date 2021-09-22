@@ -1,5 +1,9 @@
 {
     "title": "Karaoke Senshi Mike-tarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/69565.jpg",
+        "alt": "karaoke-senshi-mike-tarou"
+    },
     "type": "tv-serie",
     "episodes": "20",
     "original_name": "カラオケ戦士 マイク次郎",

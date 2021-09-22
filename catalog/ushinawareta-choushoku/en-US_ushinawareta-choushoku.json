@@ -1,5 +1,9 @@
 {
     "title": "Ushinawareta Choushoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1902/102382.jpg",
+        "alt": "ushinawareta-choushoku"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "失われた朝食",

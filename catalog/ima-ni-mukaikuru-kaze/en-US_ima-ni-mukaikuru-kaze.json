@@ -1,5 +1,9 @@
 {
     "title": "Ima ni Mukaikuru Kaze",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/177760.jpg",
+        "alt": "ima-ni-mukaikuru-kaze"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

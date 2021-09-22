@@ -1,5 +1,9 @@
 {
     "title": "Happiness Charge Precure!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235681.jpg",
+        "alt": "happiness-charge-precure"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

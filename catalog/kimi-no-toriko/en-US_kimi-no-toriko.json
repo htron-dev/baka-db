@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Toriko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/105147.jpg",
+        "alt": "kimi-no-toriko"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "キミのとりこ",

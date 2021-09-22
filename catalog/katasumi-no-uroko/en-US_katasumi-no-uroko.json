@@ -1,5 +1,9 @@
 {
     "title": "Katasumi no Uroko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/87792.jpg",
+        "alt": "katasumi-no-uroko"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "かたすみの鱗",

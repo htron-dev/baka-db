@@ -1,5 +1,9 @@
 {
     "title": "Oishinbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/75849.jpg",
+        "alt": "oishinbo"
+    },
     "type": "manga",
     "original_name": "美味しんぼ",
     "start_date": "1983-09-30",

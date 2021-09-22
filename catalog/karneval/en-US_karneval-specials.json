@@ -1,5 +1,9 @@
 {
     "title": "Karneval Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/64555.jpg",
+        "alt": "karneval-specials"
+    },
     "type": "special",
     "episodes": "11",
     "original_name": "コミックスカバー裏コメント",

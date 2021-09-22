@@ -1,5 +1,9 @@
 {
     "title": "Semelparous",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229395.jpg",
+        "alt": "semelparous"
+    },
     "type": "manga",
     "original_name": "セメルパルス",
     "start_date": "2019-11-18",

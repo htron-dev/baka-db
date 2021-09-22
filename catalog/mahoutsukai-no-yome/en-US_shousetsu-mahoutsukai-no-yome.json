@@ -1,5 +1,9 @@
 {
     "title": "Shousetsu Mahoutsukai no Yome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228049.jpg",
+        "alt": "shousetsu-mahoutsukai-no-yome"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "16",

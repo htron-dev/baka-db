@@ -1,5 +1,9 @@
 {
     "title": "Wanko to Nyanko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5919.jpg",
+        "alt": "wanko-to-nyanko"
+    },
     "type": "manga",
     "original_name": "わんことにゃんこ",
     "tags": [

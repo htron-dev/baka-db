@@ -1,5 +1,9 @@
 {
     "title": "Peter and a Wolf",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/19291.jpg",
+        "alt": "peter-and-a-wolf"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "ペーターと狼",

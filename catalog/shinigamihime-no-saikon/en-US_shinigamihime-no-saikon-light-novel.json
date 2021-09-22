@@ -1,5 +1,9 @@
 {
     "title": "Shinigamihime no Saikon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/111357.jpg",
+        "alt": "shinigamihime-no-saikon"
+    },
     "type": "light-novel",
     "volumes": "22",
     "original_name": "死神姫の再婚",

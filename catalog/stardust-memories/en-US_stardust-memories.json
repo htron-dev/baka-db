@@ -1,5 +1,9 @@
 {
     "title": "Stardust Memories",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/32551.jpg",
+        "alt": "stardust-memories"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "13",

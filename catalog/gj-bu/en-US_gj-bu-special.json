@@ -1,5 +1,9 @@
 {
     "title": "GJ-bu@",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/60319.jpg",
+        "alt": "gj-bu"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "GJ 部@",

@@ -1,5 +1,9 @@
 {
     "title": "Ikoku Shoujo to Sumire no Hanataba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/43807.jpg",
+        "alt": "ikoku-shoujo-to-sumire-no-hanataba"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

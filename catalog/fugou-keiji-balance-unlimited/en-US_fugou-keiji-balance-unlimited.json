@@ -1,8 +1,12 @@
 {
     "title": "Fugou Keiji: Balance:Unlimited",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1066/106556.jpg",
+        "alt": "fugou-keiji-balance-unlimited"
+    },
     "type": "tv-serie",
     "episodes": "11",
-    "original_name": "富豪刑事 Balance",
+    "original_name": "富豪刑事 Balance:UNLIMITED",
     "start_date": "2020-04-10",
     "end_date": "2020-04-10",
     "opening_song": "\"NAVIGATOR\" by SixTONES",

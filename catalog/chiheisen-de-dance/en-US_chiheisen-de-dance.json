@@ -1,5 +1,9 @@
 {
     "title": "Chiheisen de Dance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/145075.jpg",
+        "alt": "chiheisen-de-dance"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "58",

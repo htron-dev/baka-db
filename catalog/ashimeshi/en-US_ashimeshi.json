@@ -1,5 +1,9 @@
 {
     "title": "Ashimeshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/82528.jpg",
+        "alt": "ashimeshi"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "あしめし",

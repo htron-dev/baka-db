@@ -1,5 +1,9 @@
 {
     "title": "Piri Fuwa Tsuun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/248310.jpg",
+        "alt": "piri-fuwa-tsuun"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "30",

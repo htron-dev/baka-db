@@ -1,12 +1,16 @@
 {
     "title": "B-gata H-kei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/75227.jpg",
+        "alt": "b-gata-h-kei"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "B 型 H 系",
     "start_date": "2010-04-02",
     "end_date": "2010-04-02",
     "opening_song": "\"Oshiete A to Z (おしえて A to Z)\" by Yukari Tamura",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Hadashi no Princess (裸足のプリンセス)\" by Yukari Tamura (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

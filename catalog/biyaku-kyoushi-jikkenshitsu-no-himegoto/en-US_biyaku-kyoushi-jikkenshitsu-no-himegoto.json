@@ -1,5 +1,9 @@
 {
     "title": "Biyaku Kyoushi ~ Jikkenshitsu no Himegoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14501.jpg",
+        "alt": "biyaku-kyoushi-jikkenshitsu-no-himegoto"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

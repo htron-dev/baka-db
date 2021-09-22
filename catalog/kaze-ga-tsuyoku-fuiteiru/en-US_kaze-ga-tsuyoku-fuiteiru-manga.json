@@ -1,5 +1,9 @@
 {
     "title": "Kaze ga Tsuyoku Fuiteiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/115975.jpg",
+        "alt": "kaze-ga-tsuyoku-fuiteiru"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "50",

@@ -1,5 +1,9 @@
 {
     "title": "The Samurai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1142/94471.jpg",
+        "alt": "the-samurai"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ザ・サムライ",

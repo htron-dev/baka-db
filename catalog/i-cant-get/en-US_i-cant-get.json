@@ -1,5 +1,9 @@
 {
     "title": "I Can't Get!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/23275.jpg",
+        "alt": "i-cant-get"
+    },
     "type": "manhwa",
     "chapters": "1",
     "original_name": "안생겨요!!",

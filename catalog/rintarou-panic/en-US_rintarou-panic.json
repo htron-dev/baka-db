@@ -1,5 +1,9 @@
 {
     "title": "Rintarou Panic!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170019.jpg",
+        "alt": "rintarou-panic"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "35",

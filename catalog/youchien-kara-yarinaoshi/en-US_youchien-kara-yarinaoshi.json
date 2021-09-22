@@ -1,5 +1,9 @@
 {
     "title": "Youchien kara Yarinaoshi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/73659.jpg",
+        "alt": "youchien-kara-yarinaoshi"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "幼稚園からやりなおしっ!",

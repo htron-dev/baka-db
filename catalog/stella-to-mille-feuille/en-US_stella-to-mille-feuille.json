@@ -1,5 +1,9 @@
 {
     "title": "Stella to Mille Feuille",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/127423.jpg",
+        "alt": "stella-to-mille-feuille"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

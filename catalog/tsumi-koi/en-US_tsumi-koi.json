@@ -1,5 +1,9 @@
 {
     "title": "Tsumi Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20193.jpg",
+        "alt": "tsumi-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

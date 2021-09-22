@@ -1,5 +1,9 @@
 {
     "title": "Hitohira Encore",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/115271.jpg",
+        "alt": "hitohira-encore"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

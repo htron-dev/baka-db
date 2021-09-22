@@ -1,5 +1,9 @@
 {
     "title": "Ookamikakushi: Kokihi no Shou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/177702.jpg",
+        "alt": "ookamikakushi-kokihi-no-shou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Chao Wa Zhanshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1720/93704.jpg",
+        "alt": "chao-wa-zhanshi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "超蛙战士",

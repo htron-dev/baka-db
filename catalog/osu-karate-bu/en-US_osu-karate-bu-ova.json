@@ -1,5 +1,9 @@
 {
     "title": "Osu!! Karate-bu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/26856.jpg",
+        "alt": "osu-karate-bu"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "押忍!!空手部",

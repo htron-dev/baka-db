@@ -1,5 +1,9 @@
 {
     "title": "Hanamaru Koutsuu Anzen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/66281.jpg",
+        "alt": "hanamaru-koutsuu-anzen"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "はなまる交通安全",

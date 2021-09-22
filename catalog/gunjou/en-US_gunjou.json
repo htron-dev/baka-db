@@ -1,5 +1,9 @@
 {
     "title": "Gunjou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/142775.jpg",
+        "alt": "gunjou"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "30",

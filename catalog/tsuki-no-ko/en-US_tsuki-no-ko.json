@@ -1,5 +1,9 @@
 {
     "title": "Tsuki no Ko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/20321.jpg",
+        "alt": "tsuki-no-ko"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "52",

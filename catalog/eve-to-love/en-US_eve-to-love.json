@@ -1,5 +1,9 @@
 {
     "title": "Eve to Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/68877.jpg",
+        "alt": "eve-to-love"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "23",

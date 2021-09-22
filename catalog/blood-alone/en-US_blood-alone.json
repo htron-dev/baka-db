@@ -1,5 +1,9 @@
 {
     "title": "Blood Alone",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172476.jpg",
+        "alt": "blood-alone"
+    },
     "type": "manga",
     "original_name": "BLOOD ALONE",
     "start_date": "2004-04-21",

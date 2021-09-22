@@ -1,5 +1,9 @@
 {
     "title": "Kieli",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/121717.jpg",
+        "alt": "kieli"
+    },
     "type": "light-novel",
     "volumes": "9",
     "chapters": "41",

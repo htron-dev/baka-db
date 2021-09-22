@@ -1,5 +1,9 @@
 {
     "title": "Kimi ga Suki datta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164089.jpg",
+        "alt": "kimi-ga-suki-datta"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "きみが好きだった",

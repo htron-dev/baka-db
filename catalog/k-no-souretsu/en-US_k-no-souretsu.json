@@ -1,5 +1,9 @@
 {
     "title": "K no Souretsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11856.jpg",
+        "alt": "k-no-souretsu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "22",

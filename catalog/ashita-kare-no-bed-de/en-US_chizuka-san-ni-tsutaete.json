@@ -1,5 +1,9 @@
 {
     "title": "Chizuka-san ni Tsutaete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226091.jpg",
+        "alt": "chizuka-san-ni-tsutaete"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

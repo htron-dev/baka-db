@@ -1,5 +1,9 @@
 {
     "title": "Katappashi kara Zenbu Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/172097.jpg",
+        "alt": "katappashi-kara-zenbu-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

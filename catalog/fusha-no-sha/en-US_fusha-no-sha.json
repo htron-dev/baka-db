@@ -1,5 +1,9 @@
 {
     "title": "Fusha no Sha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/17915.jpg",
+        "alt": "fusha-no-sha"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "不射之射",

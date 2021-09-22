@@ -1,12 +1,16 @@
 {
     "title": "Ashita no Joe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/64671.jpg",
+        "alt": "ashita-no-joe"
+    },
     "type": "tv-serie",
     "episodes": "79",
     "original_name": "あしたのジョー",
     "start_date": "1970-04-01",
     "end_date": "1970-04-01",
     "opening_song": "\"Ashita no Joe\" by Isao Bitou",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Joe no Komoriuta\" by Asao Koike (eps 1-40)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

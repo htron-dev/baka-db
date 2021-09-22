@@ -1,5 +1,9 @@
 {
     "title": "G-senjou no Higeki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/64697.jpg",
+        "alt": "g-senjou-no-higeki"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "G 線上の悲劇",

@@ -1,5 +1,9 @@
 {
     "title": "Dragon Quest: Monsters+",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25112.jpg",
+        "alt": "dragon-quest-monsters"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "ドラゴンクエストモンスターズ+",

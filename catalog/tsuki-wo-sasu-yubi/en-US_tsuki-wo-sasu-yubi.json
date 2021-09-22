@@ -1,5 +1,9 @@
 {
     "title": "Tsuki wo Sasu Yubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166318.jpg",
+        "alt": "tsuki-wo-sasu-yubi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "43",

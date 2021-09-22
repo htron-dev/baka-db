@@ -1,5 +1,9 @@
 {
     "title": "Coyote",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189508.jpg",
+        "alt": "coyote"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

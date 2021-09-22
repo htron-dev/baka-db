@@ -1,5 +1,9 @@
 {
     "title": "Genius Party",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/20882.jpg",
+        "alt": "genius-party"
+    },
     "type": "movie",
     "episodes": "7",
     "original_name": "ジーニアスパーティー",

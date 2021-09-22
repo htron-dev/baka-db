@@ -1,5 +1,9 @@
 {
     "title": "Muteki Kanban Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/26444.jpg",
+        "alt": "muteki-kanban-musume"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "無敵看板娘",

@@ -1,5 +1,9 @@
 {
     "title": "Refrain Blue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/75869.jpg",
+        "alt": "refrain-blue"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "Refrain Blue",

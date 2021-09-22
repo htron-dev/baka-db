@@ -1,11 +1,15 @@
 {
     "title": "Gintama: Shiroyasha Koutan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/16161.jpg",
+        "alt": "gintama-shiroyasha-koutan"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "ジャンプアニメツアー 2008 白夜叉降誕",
     "start_date": "2008-09-21",
     "opening_song": "\"DONTEN\" by DOES",
-    "ending_song": "#1",
+    "ending_song": "#1: \"We Are! (ウィーアー!)\" by Hiroshi Kitadani",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

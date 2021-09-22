@@ -1,5 +1,9 @@
 {
     "title": "Wakako-zake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/76018.jpg",
+        "alt": "wakako-zake"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ワカコ酒",

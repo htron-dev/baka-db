@@ -1,5 +1,9 @@
 {
     "title": "Gui Mo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/11967.jpg",
+        "alt": "gui-mo"
+    },
     "type": "manhwa",
     "volumes": "2",
     "original_name": "鬼幕",

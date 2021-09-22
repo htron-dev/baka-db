@@ -1,5 +1,9 @@
 {
     "title": "Full House Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/10625.jpg",
+        "alt": "full-house-kiss"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "28",

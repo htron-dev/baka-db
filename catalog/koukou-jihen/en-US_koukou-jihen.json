@@ -1,5 +1,9 @@
 {
     "title": "Koukou Jihen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236760.jpg",
+        "alt": "koukou-jihen"
+    },
     "type": "manga",
     "original_name": "高校事変",
     "start_date": "2020-01-04",

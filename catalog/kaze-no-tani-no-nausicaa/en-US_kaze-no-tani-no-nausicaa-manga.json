@@ -1,5 +1,9 @@
 {
     "title": "Kaze no Tani no Nausicaä",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156624.jpg",
+        "alt": "kaze-no-tani-no-nausicaa"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "59",

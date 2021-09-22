@@ -1,5 +1,9 @@
 {
     "title": "Torokeru Kuchibiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/232152.jpg",
+        "alt": "torokeru-kuchibiru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Hajimete no Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179112.jpg",
+        "alt": "hajimete-no-hito"
+    },
     "type": "manga",
     "original_name": "はじめてのひと",
     "start_date": "2015-07-28",

@@ -1,5 +1,9 @@
 {
     "title": "Kimi no Pantsu wo Mamoritai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/87727.jpg",
+        "alt": "kimi-no-pantsu-wo-mamoritai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "きみのぱんつを守りたい!",

@@ -1,5 +1,9 @@
 {
     "title": "Boku no Higeyome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/26344.jpg",
+        "alt": "boku-no-higeyome"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

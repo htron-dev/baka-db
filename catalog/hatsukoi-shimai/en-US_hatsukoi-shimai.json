@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi Shimai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/3772.jpg",
+        "alt": "hatsukoi-shimai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

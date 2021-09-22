@@ -1,5 +1,9 @@
 {
     "title": "Karan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/137555.jpg",
+        "alt": "karan"
+    },
     "type": "manga",
     "volumes": "7",
     "original_name": "からん",

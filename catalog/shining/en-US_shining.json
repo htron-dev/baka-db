@@ -1,5 +1,9 @@
 {
     "title": "Shining...",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31055.jpg",
+        "alt": "shining"
+    },
     "type": "manhwa",
     "original_name": "눈부시도록...",
     "start_date": "2010-06-20",

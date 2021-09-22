@@ -1,5 +1,9 @@
 {
     "title": "Hana wa Koukyuu ni Ari!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169893.jpg",
+        "alt": "hana-wa-koukyuu-ni-ari"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "31",

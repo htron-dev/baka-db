@@ -1,5 +1,9 @@
 {
     "title": "ReCollection",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169613.jpg",
+        "alt": "re-collection"
+    },
     "type": "manga",
     "original_name": "ReCollection",
     "start_date": "2013-10-25",

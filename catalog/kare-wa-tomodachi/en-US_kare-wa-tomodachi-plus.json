@@ -1,5 +1,9 @@
 {
     "title": "Kare wa Tomodachi Plus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/195725.jpg",
+        "alt": "kare-wa-tomodachi-plus"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

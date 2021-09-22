@@ -1,5 +1,9 @@
 {
     "title": "Koi wa Ninkyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165470.jpg",
+        "alt": "koi-wa-ninkyou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Meikyuu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186204.jpg",
+        "alt": "meikyuu"
+    },
     "type": "light-novel",
     "original_name": "メイキュー！",
     "start_date": "2015-11-01",

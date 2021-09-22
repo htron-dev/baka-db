@@ -1,5 +1,9 @@
 {
     "title": "MoMo: The Blood Taker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/217764.jpg",
+        "alt": "mo-mo-the-blood-taker"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "96",

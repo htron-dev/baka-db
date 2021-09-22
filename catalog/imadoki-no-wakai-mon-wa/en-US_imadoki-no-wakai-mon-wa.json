@@ -1,5 +1,9 @@
 {
     "title": "Imadoki no Wakai Mon wa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/221013.jpg",
+        "alt": "imadoki-no-wakai-mon-wa"
+    },
     "type": "manga",
     "original_name": "今どきの若いモンは",
     "start_date": "2018-04-07",

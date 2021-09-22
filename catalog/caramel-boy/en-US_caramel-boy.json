@@ -1,5 +1,9 @@
 {
     "title": "Caramel Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/139397.jpg",
+        "alt": "caramel-boy"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

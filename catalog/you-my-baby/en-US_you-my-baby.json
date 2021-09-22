@@ -1,5 +1,9 @@
 {
     "title": "You My Baby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215047.jpg",
+        "alt": "you-my-baby"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

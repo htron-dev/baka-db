@@ -1,5 +1,9 @@
 {
     "title": "Hardboiled Daddy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/108715.jpg",
+        "alt": "hardboiled-daddy"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ハードボイルド・ダディ",

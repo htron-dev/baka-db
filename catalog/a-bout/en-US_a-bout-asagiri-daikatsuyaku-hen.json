@@ -1,5 +1,9 @@
 {
     "title": "A-bout!!: Asagiri Daikatsuyaku-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/117505.jpg",
+        "alt": "a-bout-asagiri-daikatsuyaku-hen"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "43",

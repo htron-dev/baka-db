@@ -1,5 +1,9 @@
 {
     "title": "Princess Ring: Tattou no Ouse",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182206.jpg",
+        "alt": "princess-ring-tattou-no-ouse"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "8",

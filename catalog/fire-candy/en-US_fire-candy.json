@@ -1,5 +1,9 @@
 {
     "title": "Fire Candy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/3292.jpg",
+        "alt": "fire-candy"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

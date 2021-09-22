@@ -1,5 +1,9 @@
 {
     "title": "Aquadom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/129987.jpg",
+        "alt": "aquadom"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "15",

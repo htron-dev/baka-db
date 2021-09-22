@@ -1,12 +1,16 @@
 {
     "title": "Moetan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/21540.jpg",
+        "alt": "moetan"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "もえたん",
     "start_date": "2007-07-09",
     "end_date": "2007-07-09",
     "opening_song": "\"Mahou Shoujo Magical-tan! (魔法少女マジカルたん！)\" by Yukari Tamura, Kaori Nazuka & Haruka Tomatsu",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Mahou Shoujo Magical-tan! (魔法少女マジカルたん！)\" by Yukari Tamura, Kaori Nazuka & Haruka Tomatsu (ep 1)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "comedy",

@@ -1,5 +1,9 @@
 {
     "title": "Nemureru Majo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40035.jpg",
+        "alt": "nemureru-majo"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "眠れる魔女",

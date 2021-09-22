@@ -1,5 +1,9 @@
 {
     "title": "Tachibanaya Hanjouki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/229641.jpg",
+        "alt": "tachibanaya-hanjouki"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

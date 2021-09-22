@@ -1,5 +1,9 @@
 {
     "title": "Blood Eyes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172467.jpg",
+        "alt": "blood-eyes"
+    },
     "type": "light-novel",
     "original_name": "ブラッドアイズ",
     "start_date": "2016-02-10",

@@ -1,5 +1,9 @@
 {
     "title": "GS Mikami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1630/94116.jpg",
+        "alt": "gs-mikami"
+    },
     "type": "tv-serie",
     "episodes": "45",
     "original_name": "GS（ゴーストスイーパー）美神",

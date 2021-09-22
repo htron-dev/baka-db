@@ -1,5 +1,9 @@
 {
     "title": "Platonic Form",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/69499.jpg",
+        "alt": "platonic-form"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

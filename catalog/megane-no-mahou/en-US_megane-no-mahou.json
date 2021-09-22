@@ -1,5 +1,9 @@
 {
     "title": "Megane no Mahou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/92025.jpg",
+        "alt": "megane-no-mahou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Takurami Train",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79405.jpg",
+        "alt": "takurami-train"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

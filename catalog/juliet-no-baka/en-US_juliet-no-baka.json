@@ -1,5 +1,9 @@
 {
     "title": "Juliet no Baka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/208588.jpg",
+        "alt": "juliet-no-baka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

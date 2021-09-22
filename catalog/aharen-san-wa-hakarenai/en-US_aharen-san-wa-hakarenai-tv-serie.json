@@ -1,5 +1,9 @@
 {
     "title": "Aharen-san wa Hakarenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1783/116837.jpg",
+        "alt": "aharen-san-wa-hakarenai"
+    },
     "type": "tv-serie",
     "original_name": "阿波連さんははかれない",
     "start_date": "2022-04-20",

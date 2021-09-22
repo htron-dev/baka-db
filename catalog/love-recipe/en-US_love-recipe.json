@@ -1,5 +1,9 @@
 {
     "title": "Love Recipe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5529.jpg",
+        "alt": "love-recipe"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Dai Jigoku-jou Chidaruma Rikishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36447.jpg",
+        "alt": "dai-jigoku-jou-chidaruma-rikishi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Toushou Daimos",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/52301.jpg",
+        "alt": "toushou-daimos"
+    },
     "type": "tv-serie",
     "episodes": "44",
     "original_name": "闘将ダイモス",

@@ -1,5 +1,9 @@
 {
     "title": "Kichiku Heta Riiman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/83501.jpg",
+        "alt": "kichiku-heta-riiman"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Kilala☆Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190870.jpg",
+        "alt": "kilala☆-princess"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "23",

@@ -1,5 +1,9 @@
 {
     "title": "Durarara!!x2 Shou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/67743.jpg",
+        "alt": "durarara-x-2-shou"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "デュラララ!!× ２ 承",

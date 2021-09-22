@@ -1,5 +1,9 @@
 {
     "title": "Cardcaptor Sakura: Clear Card-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193021.jpg",
+        "alt": "cardcaptor-sakura-clear-card-hen"
+    },
     "type": "manga",
     "original_name": "カードキャプターさくら クリアカード編",
     "start_date": "2016-06-03",

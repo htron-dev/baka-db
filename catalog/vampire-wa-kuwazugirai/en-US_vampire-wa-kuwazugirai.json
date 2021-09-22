@@ -1,5 +1,9 @@
 {
     "title": "Vampire wa Kuwazugirai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/232021.jpg",
+        "alt": "vampire-wa-kuwazugirai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Stravaganza: Isai no Hime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/122463.jpg",
+        "alt": "stravaganza-isai-no-hime"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "44",

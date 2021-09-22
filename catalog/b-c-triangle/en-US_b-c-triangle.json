@@ -1,5 +1,9 @@
 {
     "title": "B.C. Triangle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32162.jpg",
+        "alt": "b-c-triangle"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "B.C.トライアングル",

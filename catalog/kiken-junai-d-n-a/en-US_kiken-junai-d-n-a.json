@@ -1,5 +1,9 @@
 {
     "title": "Kiken Junai D.N.A.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/119493.jpg",
+        "alt": "kiken-junai-d-n-a"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

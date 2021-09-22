@@ -1,5 +1,9 @@
 {
     "title": "Umibe no Onnanoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/87179.jpg",
+        "alt": "umibe-no-onnanoko"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

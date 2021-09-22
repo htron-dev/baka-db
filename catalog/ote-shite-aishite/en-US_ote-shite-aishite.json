@@ -1,5 +1,9 @@
 {
     "title": "Ote shite Aishite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/246157.jpg",
+        "alt": "ote-shite-aishite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

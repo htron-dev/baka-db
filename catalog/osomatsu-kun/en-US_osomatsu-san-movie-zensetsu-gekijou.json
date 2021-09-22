@@ -1,5 +1,9 @@
 {
     "title": "Osomatsu-san Movie: Zensetsu Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1221/105385.jpg",
+        "alt": "osomatsu-san-movie-zensetsu-gekijou"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "えいがのおそ松さん　前説劇場",

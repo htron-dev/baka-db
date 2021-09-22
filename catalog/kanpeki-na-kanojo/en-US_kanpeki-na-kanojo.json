@@ -1,5 +1,9 @@
 {
     "title": "Kanpeki na Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35000.jpg",
+        "alt": "kanpeki-na-kanojo"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "36",

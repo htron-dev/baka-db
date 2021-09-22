@@ -1,5 +1,9 @@
 {
     "title": "Doraemon: Nobita no Shin Kyouryuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/221983.jpg",
+        "alt": "doraemon-nobita-no-shin-kyouryuu"
+    },
     "type": "manga",
     "original_name": "映画ドラえもん のび太の新恐竜",
     "start_date": "2019-09-14",

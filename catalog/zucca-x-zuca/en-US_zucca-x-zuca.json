@@ -1,5 +1,9 @@
 {
     "title": "Zucca x Zuca",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/163834.jpg",
+        "alt": "zucca-x-zuca"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "118",

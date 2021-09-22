@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no Ou-sama no Mimi wa Roba no Mimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/58709.jpg",
+        "alt": "hello-kitty-no-ou-sama-no-mimi-wa-roba-no-mimi"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハローキティの王様の耳はロバの耳",

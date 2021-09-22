@@ -1,5 +1,9 @@
 {
     "title": "Yuri Kuma Arashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/69203.jpg",
+        "alt": "yuri-kuma-arashi"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ユリ熊嵐",

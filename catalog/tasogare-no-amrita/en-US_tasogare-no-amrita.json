@@ -1,5 +1,9 @@
 {
     "title": "Tasogare no Amrita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/245838.jpg",
+        "alt": "tasogare-no-amrita"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

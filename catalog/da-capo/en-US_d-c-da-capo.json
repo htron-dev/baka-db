@@ -1,12 +1,16 @@
 {
     "title": "D.C.: Da Capo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/73936.jpg",
+        "alt": "d-c-da-capo"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "D.C.～ダ・カーポ～",
     "start_date": "2003-07-05",
     "end_date": "2003-07-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Sakura saku mirai koiyume\" by Yozuca (eps 1-25)",
+    "ending_song": "#1: \"Mirai he no Melody\" by CooRie (eps 1-7,9-14,16-20)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "drama",

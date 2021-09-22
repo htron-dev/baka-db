@@ -1,5 +1,9 @@
 {
     "title": "Ano Natsu de Matteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/122595.jpg",
+        "alt": "ano-natsu-de-matteru"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "30",

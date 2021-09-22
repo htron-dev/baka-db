@@ -1,5 +1,9 @@
 {
     "title": "Stand Up Baby",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159599.jpg",
+        "alt": "stand-up-baby"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "Stand Up Baby",

@@ -1,5 +1,9 @@
 {
     "title": "Ouji-sama no Tsukurikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/19239.jpg",
+        "alt": "ouji-sama-no-tsukurikata"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

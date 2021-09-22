@@ -1,5 +1,9 @@
 {
     "title": "S dake ja Tarinai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/150431.jpg",
+        "alt": "s-dake-ja-tarinai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

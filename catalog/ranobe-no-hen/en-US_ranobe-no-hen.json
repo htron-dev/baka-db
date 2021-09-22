@@ -1,5 +1,9 @@
 {
     "title": "Ranobe no Hen!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40843.jpg",
+        "alt": "ranobe-no-hen"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

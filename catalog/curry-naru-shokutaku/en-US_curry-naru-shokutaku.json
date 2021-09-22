@@ -1,5 +1,9 @@
 {
     "title": "Curry naru Shokutaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/3374.jpg",
+        "alt": "curry-naru-shokutaku"
+    },
     "type": "manga",
     "volumes": "49",
     "chapters": "534",

@@ -1,5 +1,9 @@
 {
     "title": "Talent Funsouki Koppy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/92327.jpg",
+        "alt": "talent-funsouki-koppy"
+    },
     "type": "manga",
     "original_name": "タレント奮走記 koppy",
     "start_date": "2012-08-02",

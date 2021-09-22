@@ -1,5 +1,9 @@
 {
     "title": "Megalomania",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/9214.jpg",
+        "alt": "megalomania"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "MEGALOMANIA メガロマニア",

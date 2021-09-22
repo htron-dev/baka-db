@@ -1,5 +1,9 @@
 {
     "title": "Present wa Shinju",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/38077.jpg",
+        "alt": "present-wa-shinju"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

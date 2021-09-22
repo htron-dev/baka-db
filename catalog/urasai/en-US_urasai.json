@@ -1,5 +1,9 @@
 {
     "title": "Urasai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/63093.jpg",
+        "alt": "urasai"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "うらさい",

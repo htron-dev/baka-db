@@ -1,5 +1,9 @@
 {
     "title": "Bed no Shita no Himitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35914.jpg",
+        "alt": "bed-no-shita-no-himitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

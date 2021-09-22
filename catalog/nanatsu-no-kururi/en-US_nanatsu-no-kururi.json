@@ -1,5 +1,9 @@
 {
     "title": "Nanatsu no Kururi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/207067.jpg",
+        "alt": "nanatsu-no-kururi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

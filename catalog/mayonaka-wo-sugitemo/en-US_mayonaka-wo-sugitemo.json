@@ -1,5 +1,9 @@
 {
     "title": "Mayonaka wo Sugitemo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/159940.jpg",
+        "alt": "mayonaka-wo-sugitemo"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "真夜中をすぎても",

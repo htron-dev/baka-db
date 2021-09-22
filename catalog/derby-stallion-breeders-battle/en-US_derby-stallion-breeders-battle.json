@@ -1,5 +1,9 @@
 {
     "title": "Derby Stallion Breeders' Battle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/16296.jpg",
+        "alt": "derby-stallion-breeders-battle"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

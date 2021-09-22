@@ -1,5 +1,9 @@
 {
     "title": "Kujira no Chouyaku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/49983.jpg",
+        "alt": "kujira-no-chouyaku"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "クジラの跳躍",

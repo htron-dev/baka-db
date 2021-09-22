@@ -1,5 +1,9 @@
 {
     "title": "Keroro Gunsou Movie 1",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/2699.jpg",
+        "alt": "keroro-gunsou-movie-1"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "超劇場版 ケロロ軍曹",

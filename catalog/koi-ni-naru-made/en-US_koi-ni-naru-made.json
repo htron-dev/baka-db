@@ -1,5 +1,9 @@
 {
     "title": "Koi ni Naru made",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/82736.jpg",
+        "alt": "koi-ni-naru-made"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

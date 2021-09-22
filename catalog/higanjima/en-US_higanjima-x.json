@@ -1,5 +1,9 @@
 {
     "title": "Higanjima X",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/82352.jpg",
+        "alt": "higanjima-x"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "彼岸島 X",

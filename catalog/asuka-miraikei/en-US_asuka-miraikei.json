@@ -1,5 +1,9 @@
 {
     "title": "Asuka@Miraikei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174365.jpg",
+        "alt": "asuka-miraikei"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

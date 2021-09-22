@@ -1,5 +1,9 @@
 {
     "title": "Shuumatsu Nani Shi ni Ikou?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/199568.jpg",
+        "alt": "shuumatsu-nani-shi-ni-ikou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

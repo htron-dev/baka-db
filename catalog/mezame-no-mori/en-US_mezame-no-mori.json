@@ -1,5 +1,9 @@
 {
     "title": "Mezame no Mori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31105.jpg",
+        "alt": "mezame-no-mori"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

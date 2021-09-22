@@ -1,5 +1,9 @@
 {
     "title": "Samurai Blood",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/123683.jpg",
+        "alt": "samurai-blood"
+    },
     "type": "light-novel",
     "original_name": "サムライブラッド",
     "start_date": "2012-07-30",

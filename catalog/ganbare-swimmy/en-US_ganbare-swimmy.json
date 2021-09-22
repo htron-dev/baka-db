@@ -1,5 +1,9 @@
 {
     "title": "Ganbare Swimmy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/61741.jpg",
+        "alt": "ganbare-swimmy"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "がんばれスイミー",

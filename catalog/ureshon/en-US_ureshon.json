@@ -1,5 +1,9 @@
 {
     "title": "Ureshon!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/187267.jpg",
+        "alt": "ureshon"
+    },
     "type": "manga",
     "original_name": "うれしょん！",
     "start_date": "2016-04-25",

@@ -1,5 +1,9 @@
 {
     "title": "GRANDEEK ReeL",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/16732.jpg",
+        "alt": "grandeek-ree-l"
+    },
     "type": "manga",
     "original_name": "グランディーク・リール",
     "start_date": "2005-10-19",

@@ -1,5 +1,9 @@
 {
     "title": "Yogosasete yo, Megane-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/246862.jpg",
+        "alt": "yogosasete-yo-megane-san"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

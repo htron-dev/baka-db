@@ -1,5 +1,9 @@
 {
     "title": "Popotan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/34457.jpg",
+        "alt": "popotan"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ぽぽたん",

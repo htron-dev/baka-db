@@ -1,5 +1,9 @@
 {
     "title": "Razensia Teikoku Haneiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193737.jpg",
+        "alt": "razensia-teikoku-haneiki"
+    },
     "type": "light-novel",
     "original_name": "レーゼンシア帝国繁栄紀",
     "start_date": "2017-04-15",

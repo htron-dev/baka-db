@@ -1,5 +1,9 @@
 {
     "title": "Fukai Nemuri no Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/111785.jpg",
+        "alt": "fukai-nemuri-no-hana"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Bokura no BL Jissen Jihen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237313.jpg",
+        "alt": "bokura-no-bl-jissen-jihen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

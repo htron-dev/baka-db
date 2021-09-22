@@ -1,5 +1,9 @@
 {
     "title": "Kimoshiba",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/82366.jpg",
+        "alt": "kimoshiba"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "きもしば",

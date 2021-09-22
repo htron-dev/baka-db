@@ -1,5 +1,9 @@
 {
     "title": "Nyanpuku Nyaruma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/62981.jpg",
+        "alt": "nyanpuku-nyaruma"
+    },
     "type": "tv-serie",
     "episodes": "3",
     "original_name": "にゃんぷくにゃるま",

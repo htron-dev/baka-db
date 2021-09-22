@@ -1,5 +1,9 @@
 {
     "title": "Ano ne,",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170599.jpg",
+        "alt": "ano-ne"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "24",

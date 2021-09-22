@@ -1,5 +1,9 @@
 {
     "title": "Kenrantaru Grande Scène",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/119683.jpg",
+        "alt": "kenrantaru-grande-scene"
+    },
     "type": "manga",
     "original_name": "絢爛たるグランドセーヌ",
     "start_date": "2013-07-19",

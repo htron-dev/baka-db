@@ -1,5 +1,9 @@
 {
     "title": "Bara no Tame ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40300.jpg",
+        "alt": "bara-no-tame-ni"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "64",

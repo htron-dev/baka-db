@@ -1,12 +1,16 @@
 {
     "title": "Yondemasu yo, Azazel-san. (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/75284.jpg",
+        "alt": "yondemasu-yo-azazel-san-tv"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "よんでますよ、アザゼルさん。",
     "start_date": "2011-04-08",
     "end_date": "2011-04-08",
     "opening_song": "\"Pandemic!!\" by Team Nekokan feat. Chihiro Yonekura",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Like a Party\" by Team Nekokan feat. Chihiro Yonekura (eps 1-9, 11-13)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "comedy",

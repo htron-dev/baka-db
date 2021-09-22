@@ -1,5 +1,9 @@
 {
     "title": "Baki Gaiden: Kenjin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/126057.jpg",
+        "alt": "baki-gaiden-kenjin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

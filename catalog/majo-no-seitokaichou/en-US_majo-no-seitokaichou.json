@@ -1,5 +1,9 @@
 {
     "title": "Majo no Seitokaichou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163250.jpg",
+        "alt": "majo-no-seitokaichou"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "53",

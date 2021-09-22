@@ -1,5 +1,9 @@
 {
     "title": "Corpse Party",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166018.jpg",
+        "alt": "corpse-party"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "9",

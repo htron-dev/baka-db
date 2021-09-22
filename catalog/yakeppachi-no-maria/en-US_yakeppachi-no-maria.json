@@ -1,5 +1,9 @@
 {
     "title": "Yakeppachi no Maria",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/94453.jpg",
+        "alt": "yakeppachi-no-maria"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

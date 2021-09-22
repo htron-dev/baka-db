@@ -1,5 +1,9 @@
 {
     "title": "Potecco Babies",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/24824.jpg",
+        "alt": "potecco-babies"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "ポテッコベイビーズ",

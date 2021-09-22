@@ -1,5 +1,9 @@
 {
     "title": "Amagami SS+ Plus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/33359.jpg",
+        "alt": "amagami-ss-plus"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "アマガミ SS+ plus",

@@ -1,5 +1,9 @@
 {
     "title": "Akai Ito Kudasai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192206.jpg",
+        "alt": "akai-ito-kudasai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Uchuu Kaizoku Mito no Daibouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/60979.jpg",
+        "alt": "uchuu-kaizoku-mito-no-daibouken"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "宇宙海賊ミトの大冒険",

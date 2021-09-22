@@ -1,5 +1,9 @@
 {
     "title": "Mirai Nikki: Mosaic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/28302.jpg",
+        "alt": "mirai-nikki-mosaic"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

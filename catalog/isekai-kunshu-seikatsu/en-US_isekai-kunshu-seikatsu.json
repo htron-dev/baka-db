@@ -1,5 +1,9 @@
 {
     "title": "Isekai Kunshu Seikatsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/182312.jpg",
+        "alt": "isekai-kunshu-seikatsu"
+    },
     "type": "light-novel",
     "original_name": "異世界君主生活",
     "start_date": "2016-07-22",

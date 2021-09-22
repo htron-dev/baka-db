@@ -1,5 +1,9 @@
 {
     "title": "Slow Step",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/2341.jpg",
+        "alt": "slow-step"
+    },
     "type": "ova",
     "episodes": "5",
     "original_name": "スローステップ",

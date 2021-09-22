@@ -1,5 +1,9 @@
 {
     "title": "Akuma no Puzzle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/167475.jpg",
+        "alt": "akuma-no-puzzle"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

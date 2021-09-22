@@ -1,5 +1,9 @@
 {
     "title": "Laya, the Witch of Red Pooh",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/7193.jpg",
+        "alt": "laya-the-witch-of-red-pooh"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "57",

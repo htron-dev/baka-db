@@ -1,5 +1,9 @@
 {
     "title": "Koakuma to Meromero Tengoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/45929.jpg",
+        "alt": "koakuma-to-meromero-tengoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

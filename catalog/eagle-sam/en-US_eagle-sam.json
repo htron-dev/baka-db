@@ -1,5 +1,9 @@
 {
     "title": "Eagle Sam",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/20805.jpg",
+        "alt": "eagle-sam"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "イーグルサム",

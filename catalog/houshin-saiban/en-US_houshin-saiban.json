@@ -1,5 +1,9 @@
 {
     "title": "Houshin Saiban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160628.jpg",
+        "alt": "houshin-saiban"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "封神裁判",

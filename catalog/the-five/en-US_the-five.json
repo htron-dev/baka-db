@@ -1,5 +1,9 @@
 {
     "title": "The Five",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/204782.jpg",
+        "alt": "the-five"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "52",

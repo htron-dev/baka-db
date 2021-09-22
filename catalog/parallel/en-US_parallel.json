@@ -1,5 +1,9 @@
 {
     "title": "Parallel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196760.jpg",
+        "alt": "parallel"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "20",

@@ -1,5 +1,9 @@
 {
     "title": "Yume no Mahiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174764.jpg",
+        "alt": "yume-no-mahiru"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "28",

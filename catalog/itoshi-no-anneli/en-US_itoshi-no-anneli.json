@@ -1,5 +1,9 @@
 {
     "title": "Itoshi no Anneli",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190689.jpg",
+        "alt": "itoshi-no-anneli"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

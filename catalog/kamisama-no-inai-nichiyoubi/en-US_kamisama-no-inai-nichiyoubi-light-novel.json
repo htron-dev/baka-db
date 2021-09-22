@@ -1,5 +1,9 @@
 {
     "title": "Kamisama no Inai Nichiyoubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/103531.jpg",
+        "alt": "kamisama-no-inai-nichiyoubi"
+    },
     "type": "light-novel",
     "volumes": "9",
     "chapters": "45",

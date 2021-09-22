@@ -1,5 +1,9 @@
 {
     "title": "Feel So Good",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/6799.jpg",
+        "alt": "feel-so-good"
+    },
     "type": "manhwa",
     "volumes": "10",
     "original_name": "필소굿",

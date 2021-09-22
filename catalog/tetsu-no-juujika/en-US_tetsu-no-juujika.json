@@ -1,5 +1,9 @@
 {
     "title": "Tetsu no Juujika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/64619.jpg",
+        "alt": "tetsu-no-juujika"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

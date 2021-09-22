@@ -1,5 +1,9 @@
 {
     "title": "Alice no 100°CC",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/211655.jpg",
+        "alt": "alice-no-100-cc"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

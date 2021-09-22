@@ -1,5 +1,9 @@
 {
     "title": "Toshishita no Senpai-chan ni wa, Maketakunai.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/228907.jpg",
+        "alt": "toshishita-no-senpai-chan-ni-wa-maketakunai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

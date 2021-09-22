@@ -1,5 +1,9 @@
 {
     "title": "Engage Barrel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/202867.jpg",
+        "alt": "engage-barrel"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

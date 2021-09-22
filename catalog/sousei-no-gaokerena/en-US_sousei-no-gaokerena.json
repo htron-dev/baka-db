@@ -1,5 +1,9 @@
 {
     "title": "Sousei no Gaokerena",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165405.jpg",
+        "alt": "sousei-no-gaokerena"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

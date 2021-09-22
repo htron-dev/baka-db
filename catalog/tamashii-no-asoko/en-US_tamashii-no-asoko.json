@@ -1,5 +1,9 @@
 {
     "title": "Tamashii no Asoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/90523.jpg",
+        "alt": "tamashii-no-asoko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

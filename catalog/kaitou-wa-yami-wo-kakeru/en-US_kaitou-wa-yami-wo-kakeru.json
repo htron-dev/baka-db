@@ -1,5 +1,9 @@
 {
     "title": "Kaitou wa Yami wo Kakeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/156304.jpg",
+        "alt": "kaitou-wa-yami-wo-kakeru"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "怪盗は闇を駆ける",

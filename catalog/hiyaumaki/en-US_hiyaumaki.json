@@ -1,5 +1,9 @@
 {
     "title": "Hiyaumaki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202106.jpg",
+        "alt": "hiyaumaki"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "30",

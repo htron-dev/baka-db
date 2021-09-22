@@ -1,5 +1,9 @@
 {
     "title": "Lettuce 2-kobun no Suteki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/158984.jpg",
+        "alt": "lettuce-2-kobun-no-suteki"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "43",

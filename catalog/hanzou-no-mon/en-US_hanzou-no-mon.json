@@ -1,5 +1,9 @@
 {
     "title": "Hanzou no Mon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180599.jpg",
+        "alt": "hanzou-no-mon"
+    },
     "type": "manga",
     "volumes": "19",
     "chapters": "62",

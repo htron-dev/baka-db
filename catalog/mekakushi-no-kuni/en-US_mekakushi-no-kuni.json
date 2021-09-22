@@ -1,5 +1,9 @@
 {
     "title": "Mekakushi no Kuni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162279.jpg",
+        "alt": "mekakushi-no-kuni"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "48",

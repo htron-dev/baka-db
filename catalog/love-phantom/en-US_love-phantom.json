@@ -1,5 +1,9 @@
 {
     "title": "Love Phantom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/161180.jpg",
+        "alt": "love-phantom"
+    },
     "type": "manga",
     "original_name": "ラブファントム",
     "start_date": "2014-12-08",

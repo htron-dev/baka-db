@@ -1,5 +1,9 @@
 {
     "title": "Henshin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/138463.jpg",
+        "alt": "henshin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

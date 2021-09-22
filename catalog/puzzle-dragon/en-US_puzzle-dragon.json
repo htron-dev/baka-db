@@ -1,10 +1,14 @@
 {
     "title": "Puzzle & Dragon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1535/95070.jpg",
+        "alt": "puzzle-dragon"
+    },
     "type": "tv-serie",
     "original_name": "パズドラ",
     "start_date": "2018-04-02",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Everybody GO!\" by Taiga Akashi (Asuna Tomari) (eps 1-59)",
+    "ending_song": "#1: \"▶START\" by Mahou Shoujo ni Nari-tai (魔法少女になり隊) (eps 1-26)",
     "rating": "PG - Children",
     "tags": [
         "game"
@@ -29,7 +33,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://ja.wikipedia.org/wiki/%E3%83%91%E3%82%BA%E3%83%89%E3%83%A9_(%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1"
+            "link": "http://ja.wikipedia.org/wiki/%E3%83%91%E3%82%BA%E3%83%89%E3%83%A9_%28%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1%29"
         }
     ]
 }

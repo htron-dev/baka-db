@@ -1,5 +1,9 @@
 {
     "title": "Rival",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25297.jpg",
+        "alt": "rival"
+    },
     "type": "manga",
     "volumes": "14",
     "tags": [

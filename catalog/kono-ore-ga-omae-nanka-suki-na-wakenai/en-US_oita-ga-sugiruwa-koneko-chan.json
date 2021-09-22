@@ -1,5 +1,9 @@
 {
     "title": "Oita ga Sugiruwa Koneko-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185096.jpg",
+        "alt": "oita-ga-sugiruwa-koneko-chan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

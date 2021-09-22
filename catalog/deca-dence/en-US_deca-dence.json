@@ -1,5 +1,9 @@
 {
     "title": "Deca-Dence",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1627/107552.jpg",
+        "alt": "deca-dence"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "デカダンス",

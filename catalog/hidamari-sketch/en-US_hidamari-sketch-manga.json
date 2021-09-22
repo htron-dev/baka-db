@@ -1,5 +1,9 @@
 {
     "title": "Hidamari Sketch",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/211392.jpg",
+        "alt": "hidamari-sketch"
+    },
     "type": "manga",
     "original_name": "ひだまりスケッチ",
     "start_date": "2004-02-28",

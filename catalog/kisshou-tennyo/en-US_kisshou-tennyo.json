@@ -1,5 +1,9 @@
 {
     "title": "Kisshou Tennyo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/15695.jpg",
+        "alt": "kisshou-tennyo"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "18",

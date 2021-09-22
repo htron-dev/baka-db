@@ -1,5 +1,9 @@
 {
     "title": "Yoninsei Shimai Yurimonochou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155526.jpg",
+        "alt": "yoninsei-shimai-yurimonochou"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

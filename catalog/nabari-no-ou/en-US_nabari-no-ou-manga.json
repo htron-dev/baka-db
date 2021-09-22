@@ -1,5 +1,9 @@
 {
     "title": "Nabari no Ou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30490.jpg",
+        "alt": "nabari-no-ou"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "72",

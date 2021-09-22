@@ -1,5 +1,9 @@
 {
     "title": "Houkago wa Koi no Yokan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190407.jpg",
+        "alt": "houkago-wa-koi-no-yokan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

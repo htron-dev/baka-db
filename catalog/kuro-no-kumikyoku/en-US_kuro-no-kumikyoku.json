@@ -1,5 +1,9 @@
 {
     "title": "Kuro no Kumikyoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/52389.jpg",
+        "alt": "kuro-no-kumikyoku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Mada Minu Haru no Mukaekata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/217158.jpg",
+        "alt": "mada-minu-haru-no-mukaekata"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

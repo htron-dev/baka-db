@@ -1,5 +1,9 @@
 {
     "title": "Zenbu Shiritai♡",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/111049.jpg",
+        "alt": "zenbu-shiritai♡"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

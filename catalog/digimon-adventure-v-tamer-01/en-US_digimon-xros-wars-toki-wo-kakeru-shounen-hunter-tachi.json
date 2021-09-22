@@ -1,5 +1,9 @@
 {
     "title": "Digimon Xros Wars: Toki wo Kakeru Shounen Hunter-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1928/97426.jpg",
+        "alt": "digimon-xros-wars-toki-wo-kakeru-shounen-hunter-tachi"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "デジモンクロスウォーズ 時を駆ける少年ハンターたち",

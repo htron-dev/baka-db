@@ -1,5 +1,9 @@
 {
     "title": "Asebi to Sora Sekai no Boukensha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/138489.jpg",
+        "alt": "asebi-to-sora-sekai-no-boukensha"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "60",

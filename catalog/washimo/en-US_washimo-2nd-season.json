@@ -1,5 +1,9 @@
 {
     "title": "Washimo 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/70011.jpg",
+        "alt": "washimo-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "わしも 第 2 シリーズ",

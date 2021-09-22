@@ -1,5 +1,9 @@
 {
     "title": "Hana wa Nisemono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162732.jpg",
+        "alt": "hana-wa-nisemono"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

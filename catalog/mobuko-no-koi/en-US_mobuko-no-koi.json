@@ -1,5 +1,9 @@
 {
     "title": "Mobuko no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202083.jpg",
+        "alt": "mobuko-no-koi"
+    },
     "type": "manga",
     "original_name": "モブ子の恋",
     "start_date": "2017-03-25",

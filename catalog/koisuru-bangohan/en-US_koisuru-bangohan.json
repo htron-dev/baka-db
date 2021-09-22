@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Bangohan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/169636.jpg",
+        "alt": "koisuru-bangohan"
+    },
     "type": "manga",
     "chapters": "5",
     "original_name": "恋する晩ごはん",

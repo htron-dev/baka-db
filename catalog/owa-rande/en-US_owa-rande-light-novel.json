@@ -1,5 +1,9 @@
 {
     "title": "Owa Rande!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160218.jpg",
+        "alt": "owa-rande"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "27",

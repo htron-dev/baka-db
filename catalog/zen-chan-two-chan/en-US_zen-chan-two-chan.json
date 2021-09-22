@@ -1,5 +1,9 @@
 {
     "title": "Zen-chan Two-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1442/99551.jpg",
+        "alt": "zen-chan-two-chan"
+    },
     "type": "tv-serie",
     "episodes": "78",
     "original_name": "ゼンちゃんツーちゃん",

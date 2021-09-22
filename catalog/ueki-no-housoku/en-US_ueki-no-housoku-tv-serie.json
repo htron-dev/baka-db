@@ -1,12 +1,16 @@
 {
     "title": "Ueki no Housoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/20596.jpg",
+        "alt": "ueki-no-housoku"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "うえきの法則",
     "start_date": "2005-04-04",
     "end_date": "2005-04-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Falco\" by Hitomi Shimatani (eps 1-32)",
+    "ending_song": "#1: \"Kokoro no Wakusei ~Little planets~\" by Aiko Kayo (eps 1-15)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

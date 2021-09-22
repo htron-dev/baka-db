@@ -1,12 +1,16 @@
 {
     "title": "Zoku Touken Ranbu: Hanamaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/89579.jpg",
+        "alt": "zoku-touken-ranbu-hanamaru"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "続 刀剣乱舞-花丸-",
     "start_date": "2018-01-08",
     "end_date": "2018-01-08",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01: \"Hanamaru Shirushi no Hi no Moto de (花丸印の日のもとで)\" by Yamatonokami Yasusada (Mitsuhiro Ichiki) & Kashuu Kiyomitsu (Toshiki Masuda)",
+    "ending_song": "#01: \"Ten to Koyomi (天と暦)\" by Higekiri (Natsuki Hanae), Hizamaru (Nobuhiko Okamoto)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

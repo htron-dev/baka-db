@@ -1,5 +1,9 @@
 {
     "title": "Osu!! Karate-bu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/17388.jpg",
+        "alt": "osu-karate-bu"
+    },
     "type": "manga",
     "volumes": "43",
     "chapters": "483",

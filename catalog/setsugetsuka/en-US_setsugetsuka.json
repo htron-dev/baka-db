@@ -1,5 +1,9 @@
 {
     "title": "Setsugetsuka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/95701.jpg",
+        "alt": "setsugetsuka"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "せつげつか",

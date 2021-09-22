@@ -1,5 +1,9 @@
 {
     "title": "Seireitsukai no Blade Dance",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/63031.jpg",
+        "alt": "seireitsukai-no-blade-dance"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "精霊使いの剣舞〈ブレイドダンス〉",

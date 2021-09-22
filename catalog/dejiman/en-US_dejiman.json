@@ -1,5 +1,9 @@
 {
     "title": "Dejiman!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/88699.jpg",
+        "alt": "dejiman"
+    },
     "type": "manga",
     "original_name": "でじまんっ！",
     "tags": [

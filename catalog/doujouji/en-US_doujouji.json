@@ -1,5 +1,9 @@
 {
     "title": "Doujouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/81209.jpg",
+        "alt": "doujouji"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "道成寺",

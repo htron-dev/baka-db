@@ -1,5 +1,9 @@
 {
     "title": "Shouhin ni Te wo Dasu na",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/124381.jpg",
+        "alt": "shouhin-ni-te-wo-dasu-na"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "商品に手をだすな",

@@ -1,5 +1,9 @@
 {
     "title": "D no Fuuin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181427.jpg",
+        "alt": "d-no-fuuin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Dead Heat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/51885.jpg",
+        "alt": "dead-heat"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "デッドヒート",
@@ -31,7 +35,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://ja.wikipedia.org/wiki/デッドヒート_(OVA"
+            "link": "http://ja.wikipedia.org/wiki/デッドヒート_%28OVA%29"
         }
     ]
 }

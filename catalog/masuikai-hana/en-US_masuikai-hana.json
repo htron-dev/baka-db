@@ -1,5 +1,9 @@
 {
     "title": "Masuikai Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/45417.jpg",
+        "alt": "masuikai-hana"
+    },
     "type": "manga",
     "original_name": "麻酔科医ハナ",
     "tags": [

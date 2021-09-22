@@ -1,5 +1,9 @@
 {
     "title": "Watashi to Sensei no Genjuu Shinryouroku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/195829.jpg",
+        "alt": "watashi-to-sensei-no-genjuu-shinryouroku"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "30",

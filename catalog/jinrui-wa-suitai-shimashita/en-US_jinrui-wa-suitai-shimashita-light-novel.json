@@ -1,5 +1,9 @@
 {
     "title": "Jinrui wa Suitai Shimashita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/123725.jpg",
+        "alt": "jinrui-wa-suitai-shimashita"
+    },
     "type": "light-novel",
     "volumes": "9",
     "chapters": "22",

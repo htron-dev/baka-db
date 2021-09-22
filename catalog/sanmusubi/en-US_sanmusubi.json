@@ -1,5 +1,9 @@
 {
     "title": "Sanmusubi!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235626.jpg",
+        "alt": "sanmusubi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "21",

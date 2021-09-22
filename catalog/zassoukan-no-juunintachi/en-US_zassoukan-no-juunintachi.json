@@ -1,5 +1,9 @@
 {
     "title": "Zassoukan no Juunintachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14022.jpg",
+        "alt": "zassoukan-no-juunintachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "22",

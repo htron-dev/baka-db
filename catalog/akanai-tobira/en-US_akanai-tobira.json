@@ -1,5 +1,9 @@
 {
     "title": "Akanai Tobira",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/81906.jpg",
+        "alt": "akanai-tobira"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

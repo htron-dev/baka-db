@@ -1,5 +1,9 @@
 {
     "title": "Looop",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/222564.jpg",
+        "alt": "looop"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "LOOOP",

@@ -1,5 +1,9 @@
 {
     "title": "The Yakiniku People Bulgogi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/86415.jpg",
+        "alt": "the-yakiniku-people-bulgogi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

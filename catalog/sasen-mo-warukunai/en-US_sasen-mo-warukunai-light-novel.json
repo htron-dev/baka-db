@@ -1,5 +1,9 @@
 {
     "title": "Sasen mo Warukunai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179350.jpg",
+        "alt": "sasen-mo-warukunai"
+    },
     "type": "light-novel",
     "volumes": "5",
     "original_name": "左遷も悪くない",

@@ -1,5 +1,9 @@
 {
     "title": "Hanayamata Anthology Comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/140021.jpg",
+        "alt": "hanayamata-anthology-comic"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "20",

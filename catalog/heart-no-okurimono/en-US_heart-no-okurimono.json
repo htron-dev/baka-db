@@ -1,5 +1,9 @@
 {
     "title": "Heart no Okurimono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/189504.jpg",
+        "alt": "heart-no-okurimono"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "ハートのおくりもの",

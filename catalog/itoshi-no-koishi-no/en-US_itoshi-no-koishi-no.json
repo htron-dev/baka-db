@@ -1,5 +1,9 @@
 {
     "title": "Itoshi no Koishi no",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/118385.jpg",
+        "alt": "itoshi-no-koishi-no"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

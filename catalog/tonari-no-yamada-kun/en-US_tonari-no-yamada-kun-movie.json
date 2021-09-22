@@ -1,5 +1,9 @@
 {
     "title": "Tonari no Yamada-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/64545.jpg",
+        "alt": "tonari-no-yamada-kun"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ホーホケキョ となりの山田くん",

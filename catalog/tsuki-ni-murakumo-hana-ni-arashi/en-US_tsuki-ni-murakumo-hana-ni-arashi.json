@@ -1,5 +1,9 @@
 {
     "title": "Tsuki ni Murakumo, Hana ni Arashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/235334.jpg",
+        "alt": "tsuki-ni-murakumo-hana-ni-arashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Hikari no Machi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/12373.jpg",
+        "alt": "hikari-no-machi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

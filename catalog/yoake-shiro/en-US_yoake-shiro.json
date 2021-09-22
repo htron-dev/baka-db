@@ -1,5 +1,9 @@
 {
     "title": "Yoake Shiro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/13180.jpg",
+        "alt": "yoake-shiro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

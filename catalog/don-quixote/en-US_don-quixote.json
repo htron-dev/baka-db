@@ -1,5 +1,9 @@
 {
     "title": "Don Quixote",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/121197.jpg",
+        "alt": "don-quixote"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

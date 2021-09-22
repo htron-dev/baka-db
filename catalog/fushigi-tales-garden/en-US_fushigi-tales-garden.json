@@ -1,5 +1,9 @@
 {
     "title": "Fushigi Tales Garden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152138.jpg",
+        "alt": "fushigi-tales-garden"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

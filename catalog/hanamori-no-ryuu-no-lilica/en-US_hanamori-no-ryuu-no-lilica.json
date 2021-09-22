@@ -1,5 +1,9 @@
 {
     "title": "Hanamori no Ryuu no Lilica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162518.jpg",
+        "alt": "hanamori-no-ryuu-no-lilica"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "31",

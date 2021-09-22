@@ -1,5 +1,9 @@
 {
     "title": "Pochi to Hina",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/215978.jpg",
+        "alt": "pochi-to-hina"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "17",

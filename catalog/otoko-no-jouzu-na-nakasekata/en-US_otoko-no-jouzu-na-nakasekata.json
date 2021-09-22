@@ -1,5 +1,9 @@
 {
     "title": "Otoko no Jouzu na Nakasekata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/62393.jpg",
+        "alt": "otoko-no-jouzu-na-nakasekata"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

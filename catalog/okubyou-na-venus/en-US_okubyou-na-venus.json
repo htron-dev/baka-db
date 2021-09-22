@@ -1,5 +1,9 @@
 {
     "title": "Okubyou na Venus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1733/112137.jpg",
+        "alt": "okubyou-na-venus"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "臆病なヴィーナス",

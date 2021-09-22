@@ -1,5 +1,9 @@
 {
     "title": "Trafficker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225885.jpg",
+        "alt": "trafficker"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Kimama ni Idol",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/57299.jpg",
+        "alt": "kimama-ni-idol"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "気ままにアイドル",

@@ -1,5 +1,9 @@
 {
     "title": "Tsuzuki wa Mata Yoru ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/146863.jpg",
+        "alt": "tsuzuki-wa-mata-yoru-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

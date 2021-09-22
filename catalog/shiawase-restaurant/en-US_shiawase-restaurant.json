@@ -1,5 +1,9 @@
 {
     "title": "Shiawase Restaurant",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/64215.jpg",
+        "alt": "shiawase-restaurant"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "幸せレストラン",

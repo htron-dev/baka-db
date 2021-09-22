@@ -1,5 +1,9 @@
 {
     "title": "Line Novel",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1805/100625.jpg",
+        "alt": "line-novel"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "LINE ノベ",

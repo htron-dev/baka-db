@@ -1,5 +1,9 @@
 {
     "title": "True Tears: Mini Chara 4-koma Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/13889.jpg",
+        "alt": "true-tears-mini-chara-4-koma-gekijou"
+    },
     "type": "special",
     "episodes": "7",
     "original_name": "true tears ミニキャラ 4 コマ劇場",
@@ -27,7 +31,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/True_Tears_(anime"
+            "link": "http://en.wikipedia.org/wiki/True_Tears_%28anime%29"
         }
     ]
 }

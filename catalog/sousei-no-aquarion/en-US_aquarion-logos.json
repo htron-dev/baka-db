@@ -1,12 +1,16 @@
 {
     "title": "Aquarion Logos",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/74989.jpg",
+        "alt": "aquarion-logos"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "アクエリオンロゴス",
     "start_date": "2015-07-03",
     "end_date": "2015-07-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Yamaidare darlin' (ヤマイダレ darlin')\" by May'n (eps 1-16)",
+    "ending_song": "#1: \"Je Je t'aime Communication (ジュ・ジュテーム・コミュニケーション)\" by Haruka Chisuga (eps 1-16)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

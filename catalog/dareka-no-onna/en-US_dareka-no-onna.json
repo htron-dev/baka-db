@@ -1,5 +1,9 @@
 {
     "title": "Dareka no Onna",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/36689.jpg",
+        "alt": "dareka-no-onna"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "誰かの愛人",

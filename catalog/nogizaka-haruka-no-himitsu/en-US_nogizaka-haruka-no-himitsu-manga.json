@@ -1,5 +1,9 @@
 {
     "title": "Nogizaka Haruka no Himitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/184039.jpg",
+        "alt": "nogizaka-haruka-no-himitsu"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "29",

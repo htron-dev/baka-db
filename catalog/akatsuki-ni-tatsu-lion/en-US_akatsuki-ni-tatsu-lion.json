@@ -1,5 +1,9 @@
 {
     "title": "Akatsuki ni Tatsu Lion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/90489.jpg",
+        "alt": "akatsuki-ni-tatsu-lion"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

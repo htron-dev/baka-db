@@ -1,5 +1,9 @@
 {
     "title": "Jigoro!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/32835.jpg",
+        "alt": "jigoro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

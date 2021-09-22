@@ -1,5 +1,9 @@
 {
     "title": "Konnichiwa Onara Gorou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/79964.jpg",
+        "alt": "konnichiwa-onara-gorou"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "こんにちは おなら吾郎",

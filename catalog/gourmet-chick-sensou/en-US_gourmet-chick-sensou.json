@@ -1,5 +1,9 @@
 {
     "title": "Gourmet Chick Sensou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/133633.jpg",
+        "alt": "gourmet-chick-sensou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "グルメちっく戦争",

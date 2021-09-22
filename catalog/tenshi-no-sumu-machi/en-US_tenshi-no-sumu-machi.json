@@ -1,5 +1,9 @@
 {
     "title": "Tenshi no Sumu Machi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/117725.jpg",
+        "alt": "tenshi-no-sumu-machi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

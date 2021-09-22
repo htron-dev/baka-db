@@ -1,5 +1,9 @@
 {
     "title": "Bobobo-bo Bo-bobo?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/126269.jpg",
+        "alt": "bobobo-bo-bo-bobo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",
@@ -16,12 +20,6 @@
     ],
     "sinopse": "1. Sanchuushuu Katsugeki (Smelly Action in the Mountains)\n2. Bobobo-bo Bo-bobo (Akamaru Jump Version)\n   3-6. Bobobo-bo Bo-bobo\n3. Mutekin\n4. Gekisen!! Jankenjima (Fierce!! Rock, Paper, Scissors Island)",
     "links": [
-        {
-            "text": "My Anime list",
-            "link": "https://myanimelist.net/manga/33617/Bobobo-bo_Bo-bobo"
-        },
-        "Maruhage Empire's bald henchmen. His name: Bobobo-bo Bo-bobo.",
-        "## Links",
         {
             "text": "My Anime list",
             "link": "https://myanimelist.net/manga/1505/Bobobo-bo_Bo-bobo"

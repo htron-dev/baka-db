@@ -1,5 +1,9 @@
 {
     "title": "Mysterious Jiji Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11462.jpg",
+        "alt": "mysterious-jiji-girl"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ふしぎなジジガール",

@@ -1,5 +1,9 @@
 {
     "title": "Love Connector!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166099.jpg",
+        "alt": "love-connector"
+    },
     "type": "manga",
     "original_name": "らぶコネクタ! -Love Connector-",
     "start_date": "2015-01-11",

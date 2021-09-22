@@ -1,12 +1,16 @@
 {
     "title": "PopoloCrois",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/27541.jpg",
+        "alt": "popolo-crois"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ポポロクロイス",
     "start_date": "2003-10-05",
     "end_date": "2003-10-05",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Traumelai\" by Rurutia",
+    "ending_song": "#1: \"Tsuki Senichi-ya\" by Rurutia",
     "rating": "PG - Children",
     "tags": [
         "adventure",
@@ -32,7 +36,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/PoPoLoCrois_(anime"
+            "link": "http://en.wikipedia.org/wiki/PoPoLoCrois_%28anime%29"
         }
     ]
 }

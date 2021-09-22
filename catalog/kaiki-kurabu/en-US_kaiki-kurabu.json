@@ -1,5 +1,9 @@
 {
     "title": "Kaiki Kurabu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/57439.jpg",
+        "alt": "kaiki-kurabu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

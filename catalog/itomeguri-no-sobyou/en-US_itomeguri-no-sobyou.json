@@ -1,5 +1,9 @@
 {
     "title": "Itomeguri no Sobyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179692.jpg",
+        "alt": "itomeguri-no-sobyou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

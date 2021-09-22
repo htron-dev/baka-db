@@ -1,5 +1,9 @@
 {
     "title": "Date A Live: Tooka Dead End",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/121829.jpg",
+        "alt": "date-a-live-tooka-dead-end"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "11",

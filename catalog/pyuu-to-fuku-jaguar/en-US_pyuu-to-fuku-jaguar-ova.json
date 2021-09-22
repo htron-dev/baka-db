@@ -1,5 +1,9 @@
 {
     "title": "Pyuu to Fuku! Jaguar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/47763.jpg",
+        "alt": "pyuu-to-fuku-jaguar"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "ピューと吹く！ジャガー",

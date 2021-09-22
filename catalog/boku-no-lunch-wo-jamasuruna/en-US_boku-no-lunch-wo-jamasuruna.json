@@ -1,5 +1,9 @@
 {
     "title": "Boku no Lunch wo Jamasuruna!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182435.jpg",
+        "alt": "boku-no-lunch-wo-jamasuruna"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

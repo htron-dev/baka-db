@@ -1,12 +1,16 @@
 {
     "title": "Gakusen Toshi Asterisk",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/76034.jpg",
+        "alt": "gakusen-toshi-asterisk"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "学戦都市アスタリスク",
     "start_date": "2015-10-03",
     "end_date": "2015-10-03",
     "opening_song": "\"Brand-new World\" by Shiena Nishizawa (eps 2-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Brand-new World\" by Shiena Nishizawa (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

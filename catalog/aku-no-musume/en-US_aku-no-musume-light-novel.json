@@ -1,5 +1,9 @@
 {
     "title": "Aku no Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/104349.jpg",
+        "alt": "aku-no-musume"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "36",

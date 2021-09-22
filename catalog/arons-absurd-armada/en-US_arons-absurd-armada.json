@@ -1,5 +1,9 @@
 {
     "title": "Aron's Absurd Armada",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33793.jpg",
+        "alt": "arons-absurd-armada"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "261",

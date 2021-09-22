@@ -1,5 +1,9 @@
 {
     "title": "Ano Hi ni Aitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10225.jpg",
+        "alt": "ano-hi-ni-aitai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "あの日に逢いたい",

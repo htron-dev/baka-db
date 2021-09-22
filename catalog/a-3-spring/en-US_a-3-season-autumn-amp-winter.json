@@ -1,12 +1,16 @@
 {
     "title": "A3! Season Autumn &amp; Winter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1049/108197.jpg",
+        "alt": "a-3-season-autumn-amp-winter"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "A3! SEASON AUTUMN & WINTER",
     "start_date": "2020-10-13",
     "end_date": "2020-10-13",
     "opening_song": "\"Circle of Seasons\" by A3ders!",
-    "ending_song": "#1",
+    "ending_song": "#1: \"ZERO LIMIT\" by Autumn",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

@@ -1,5 +1,9 @@
 {
     "title": "Bokutachi wa Genki desu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227449.jpg",
+        "alt": "bokutachi-wa-genki-desu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "34",

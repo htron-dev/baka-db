@@ -1,5 +1,9 @@
 {
     "title": "Maguro Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246176.jpg",
+        "alt": "maguro-shoujo"
+    },
     "type": "manga",
     "original_name": "マグロ少女",
     "start_date": "2020-10-21",

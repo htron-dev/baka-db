@@ -1,5 +1,9 @@
 {
     "title": "Hana to Akuma",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/32636.jpg",
+        "alt": "hana-to-akuma"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "58",

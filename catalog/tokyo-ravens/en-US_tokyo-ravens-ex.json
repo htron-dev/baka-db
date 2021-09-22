@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Ravens EX",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149078.jpg",
+        "alt": "tokyo-ravens-ex"
+    },
     "type": "light-novel",
     "original_name": "東京レイヴンズ EX",
     "start_date": "2013-07-20",

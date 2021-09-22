@@ -1,5 +1,9 @@
 {
     "title": "Sore ga Sekai no Futsuu ni Naru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/165433.jpg",
+        "alt": "sore-ga-sekai-no-futsuu-ni-naru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

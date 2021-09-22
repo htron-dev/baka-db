@@ -1,5 +1,9 @@
 {
     "title": "BlazBlue: Bloodedge Experience",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168792.jpg",
+        "alt": "blaz-blue-bloodedge-experience"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "14",

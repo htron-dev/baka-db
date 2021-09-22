@@ -1,5 +1,9 @@
 {
     "title": "Pokémon Platinum: Aim to Be Battle King!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36380.jpg",
+        "alt": "pokemon-platinum-aim-to-be-battle-king"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

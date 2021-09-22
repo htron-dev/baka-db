@@ -1,5 +1,9 @@
 {
     "title": "Seikesshou Albatross",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/76361.jpg",
+        "alt": "seikesshou-albatross"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "47",

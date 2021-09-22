@@ -1,5 +1,9 @@
 {
     "title": "Yumemiru Danshi wa Genjitsushugisa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/243655.jpg",
+        "alt": "yumemiru-danshi-wa-genjitsushugisa"
+    },
     "type": "light-novel",
     "original_name": "夢見る男子は現実主義者",
     "start_date": "2020-06-01",

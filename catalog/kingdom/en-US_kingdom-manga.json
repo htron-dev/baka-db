@@ -1,5 +1,9 @@
 {
     "title": "Kingdom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171872.jpg",
+        "alt": "kingdom"
+    },
     "type": "manga",
     "original_name": "キングダム",
     "start_date": "2006-01-26",

@@ -1,5 +1,9 @@
 {
     "title": "Harigane Service Ace",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/234218.jpg",
+        "alt": "harigane-service-ace"
+    },
     "type": "manga",
     "original_name": "ハリガネサービス ACE",
     "start_date": "2018-11-08",

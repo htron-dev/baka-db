@@ -1,5 +1,9 @@
 {
     "title": "Jigoku no Enra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162750.jpg",
+        "alt": "jigoku-no-enra"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "17",

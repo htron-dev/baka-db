@@ -1,5 +1,9 @@
 {
     "title": "Ad Astra: Scipio to Hannibal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/132419.jpg",
+        "alt": "ad-astra-scipio-to-hannibal"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "81",

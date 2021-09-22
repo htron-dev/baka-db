@@ -1,5 +1,9 @@
 {
     "title": "Apple Pine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34354.jpg",
+        "alt": "apple-pine"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Beautiful Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/72109.jpg",
+        "alt": "beautiful-days"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

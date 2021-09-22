@@ -1,5 +1,9 @@
 {
     "title": "Noro Girl!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/118781.jpg",
+        "alt": "noro-girl"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Maison Ikkoku: Kanketsu-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/27059.jpg",
+        "alt": "maison-ikkoku-kanketsu-hen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "めぞん一刻 完結篇",

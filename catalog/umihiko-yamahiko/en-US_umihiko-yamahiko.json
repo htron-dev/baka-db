@@ -1,5 +1,9 @@
 {
     "title": "Umihiko Yamahiko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/81957.jpg",
+        "alt": "umihiko-yamahiko"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "海ひこ山ひこ",

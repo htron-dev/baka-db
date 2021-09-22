@@ -1,5 +1,9 @@
 {
     "title": "Chihayafuru: Chuugakusei-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/109713.jpg",
+        "alt": "chihayafuru-chuugakusei-hen"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "小説 ちはやふる 中学生編",

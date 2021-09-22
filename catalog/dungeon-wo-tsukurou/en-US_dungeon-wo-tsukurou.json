@@ -1,5 +1,9 @@
 {
     "title": "Dungeon wo Tsukurou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/180399.jpg",
+        "alt": "dungeon-wo-tsukurou"
+    },
     "type": "light-novel",
     "original_name": "ダンジョンを造ろう",
     "start_date": "2015-04-24",

@@ -1,5 +1,9 @@
 {
     "title": "Ake no Emblem",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28169.jpg",
+        "alt": "ake-no-emblem"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "緋のエンブレム",

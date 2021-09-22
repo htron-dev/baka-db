@@ -1,5 +1,9 @@
 {
     "title": "Zetsuai 1989",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/209217.jpg",
+        "alt": "zetsuai-1989"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "30",

@@ -1,5 +1,9 @@
 {
     "title": "Ganso Ylva-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/36648.jpg",
+        "alt": "ganso-ylva-chan"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "元祖ユルヴァちゃん",

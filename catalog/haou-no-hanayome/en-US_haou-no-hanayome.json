@@ -1,5 +1,9 @@
 {
     "title": "Haou no Hanayome",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/181504.jpg",
+        "alt": "haou-no-hanayome"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

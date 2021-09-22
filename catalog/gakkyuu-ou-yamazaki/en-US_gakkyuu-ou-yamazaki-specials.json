@@ -1,5 +1,9 @@
 {
     "title": "Gakkyuu Ou Yamazaki Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/70751.jpg",
+        "alt": "gakkyuu-ou-yamazaki-specials"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "学級王ヤマザキ",

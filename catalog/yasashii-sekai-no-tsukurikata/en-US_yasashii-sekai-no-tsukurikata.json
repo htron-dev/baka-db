@@ -1,5 +1,9 @@
 {
     "title": "Yasashii Sekai no Tsukurikata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/144221.jpg",
+        "alt": "yasashii-sekai-no-tsukurikata"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "37",

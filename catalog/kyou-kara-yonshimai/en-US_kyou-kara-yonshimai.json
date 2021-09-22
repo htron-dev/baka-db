@@ -1,5 +1,9 @@
 {
     "title": "Kyou kara Yonshimai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/133523.jpg",
+        "alt": "kyou-kara-yonshimai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

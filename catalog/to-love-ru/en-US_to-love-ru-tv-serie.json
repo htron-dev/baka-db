@@ -1,12 +1,16 @@
 {
     "title": "To LOVE-Ru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/22544.jpg",
+        "alt": "to-love-ru"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "To LOVE る -とらぶる-",
     "start_date": "2008-04-04",
     "end_date": "2008-04-04",
     "opening_song": "\"forever we can make it!\" by THYME",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Lucky Tune (ラッキーチューン)\" by Anna (BON-BON BLANCO) (eps 1-13, 26)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "sci-fi",

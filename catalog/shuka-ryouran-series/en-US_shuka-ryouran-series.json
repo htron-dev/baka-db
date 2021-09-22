@@ -1,5 +1,9 @@
 {
     "title": "Shuka Ryouran Series",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/167013.jpg",
+        "alt": "shuka-ryouran-series"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "41",

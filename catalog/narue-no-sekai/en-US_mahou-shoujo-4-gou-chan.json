@@ -1,5 +1,9 @@
 {
     "title": "Mahou Shoujo 4-gou-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150374.jpg",
+        "alt": "mahou-shoujo-4-gou-chan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "17",

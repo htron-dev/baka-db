@@ -1,5 +1,9 @@
 {
     "title": "Hachigatsu Kokonoka: Boku wa Kimi ni Kuwareru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/233396.jpg",
+        "alt": "hachigatsu-kokonoka-boku-wa-kimi-ni-kuwareru"
+    },
     "type": "manga",
     "original_name": "八月九日 僕は君に喰われる。",
     "start_date": "2020-02-25",

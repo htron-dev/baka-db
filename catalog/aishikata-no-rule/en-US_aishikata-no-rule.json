@@ -1,5 +1,9 @@
 {
     "title": "Aishikata no Rule",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/113597.jpg",
+        "alt": "aishikata-no-rule"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

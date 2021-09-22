@@ -1,5 +1,9 @@
 {
     "title": "Onna ni Natta Hi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/90997.jpg",
+        "alt": "onna-ni-natta-hi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

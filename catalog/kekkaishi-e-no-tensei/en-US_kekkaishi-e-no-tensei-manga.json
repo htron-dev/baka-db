@@ -1,5 +1,9 @@
 {
     "title": "Kekkaishi e no Tensei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230330.jpg",
+        "alt": "kekkaishi-e-no-tensei"
+    },
     "type": "manga",
     "original_name": "結界師への転生",
     "start_date": "2018-10-12",

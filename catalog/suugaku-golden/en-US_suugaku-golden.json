@@ -1,5 +1,9 @@
 {
     "title": "Suugaku Golden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235680.jpg",
+        "alt": "suugaku-golden"
+    },
     "type": "manga",
     "original_name": "数学ゴールデン",
     "start_date": "2019-09-09",

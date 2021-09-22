@@ -1,5 +1,9 @@
 {
     "title": "Amaimono ni wa Goyoujin!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/59109.jpg",
+        "alt": "amaimono-ni-wa-goyoujin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

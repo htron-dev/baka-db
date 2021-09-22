@@ -1,5 +1,9 @@
 {
     "title": "Ginga Rengou Nippon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/186319.jpg",
+        "alt": "ginga-rengou-nippon"
+    },
     "type": "light-novel",
     "original_name": "銀河連合日本",
     "start_date": "2016-02-15",

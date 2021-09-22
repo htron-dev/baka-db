@@ -1,5 +1,9 @@
 {
     "title": "Detroit Metal City",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/9853.jpg",
+        "alt": "detroit-metal-city"
+    },
     "type": "ova",
     "episodes": "12",
     "original_name": "デトロイト・メタル・シティ",

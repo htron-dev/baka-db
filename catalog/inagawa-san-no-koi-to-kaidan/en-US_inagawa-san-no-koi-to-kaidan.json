@@ -1,5 +1,9 @@
 {
     "title": "Inagawa-san no Koi to Kaidan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/235217.jpg",
+        "alt": "inagawa-san-no-koi-to-kaidan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Tenjou no Kajitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/168449.jpg",
+        "alt": "tenjou-no-kajitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

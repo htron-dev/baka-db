@@ -1,5 +1,9 @@
 {
     "title": "Kareshi ga Iru noni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/241029.jpg",
+        "alt": "kareshi-ga-iru-noni"
+    },
     "type": "manga",
     "original_name": "カレシがいるのに",
     "start_date": "2019-07-23",

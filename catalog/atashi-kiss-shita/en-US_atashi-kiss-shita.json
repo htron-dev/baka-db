@@ -1,5 +1,9 @@
 {
     "title": "Atashi, Kiss shita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171402.jpg",
+        "alt": "atashi-kiss-shita"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

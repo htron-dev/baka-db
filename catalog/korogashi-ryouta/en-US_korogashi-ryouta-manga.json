@@ -1,5 +1,9 @@
 {
     "title": "Korogashi Ryouta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/47975.jpg",
+        "alt": "korogashi-ryouta"
+    },
     "type": "manga",
     "volumes": "29",
     "original_name": "ころがし涼太",

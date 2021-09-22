@@ -1,5 +1,9 @@
 {
     "title": "Yukei Seikyo Kukla",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/17077.jpg",
+        "alt": "yukei-seikyo-kukla"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "幽形聖境クークラ",

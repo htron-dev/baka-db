@@ -1,5 +1,9 @@
 {
     "title": "Football Alchemist",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/230760.jpg",
+        "alt": "football-alchemist"
+    },
     "type": "manga",
     "original_name": "フットボールアルケミスト",
     "start_date": "2019-11-22",

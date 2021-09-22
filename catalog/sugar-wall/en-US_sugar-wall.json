@@ -1,5 +1,9 @@
 {
     "title": "Sugar Wall",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/117489.jpg",
+        "alt": "sugar-wall"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "38",

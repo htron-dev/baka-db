@@ -1,9 +1,13 @@
 {
     "title": "Sanity:Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225091.jpg",
+        "alt": "sanity-zero"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",
-    "original_name": "SANITY",
+    "original_name": "SANITY:ZERO",
     "start_date": "2017-08-10",
     "end_date": "2017-08-10",
     "tags": [

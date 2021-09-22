@@ -1,5 +1,9 @@
 {
     "title": "Li Shi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1477/108710.jpg",
+        "alt": "li-shi"
+    },
     "type": "ona",
     "episodes": "16",
     "original_name": "历师",

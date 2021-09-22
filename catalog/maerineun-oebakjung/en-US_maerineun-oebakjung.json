@@ -1,5 +1,9 @@
 {
     "title": "Maerineun Oebakjung",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/38670.jpg",
+        "alt": "maerineun-oebakjung"
+    },
     "type": "manhwa",
     "volumes": "10",
     "chapters": "38",

@@ -1,5 +1,9 @@
 {
     "title": "Telemonster",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/78233.jpg",
+        "alt": "telemonster"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "텔레몬스터",

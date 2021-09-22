@@ -1,5 +1,9 @@
 {
     "title": "Ne0;lation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/217671.jpg",
+        "alt": "ne-0-lation"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

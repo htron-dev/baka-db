@@ -1,5 +1,9 @@
 {
     "title": "Ningyo Himeden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/1170.jpg",
+        "alt": "ningyo-himeden"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "人魚姫殿",

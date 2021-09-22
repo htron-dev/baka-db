@@ -1,5 +1,9 @@
 {
     "title": "Doctor's Rule",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/99177.jpg",
+        "alt": "doctors-rule"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

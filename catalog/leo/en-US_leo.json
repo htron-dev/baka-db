@@ -1,5 +1,9 @@
 {
     "title": "Leo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/179529.jpg",
+        "alt": "leo"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "烈王（レオ）",

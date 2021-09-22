@@ -1,5 +1,9 @@
 {
     "title": "Kazoku Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/146689.jpg",
+        "alt": "kazoku-game"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "114",

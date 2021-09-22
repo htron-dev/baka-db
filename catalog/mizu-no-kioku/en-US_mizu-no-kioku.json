@@ -1,5 +1,9 @@
 {
     "title": "Mizu no Kioku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/2175.jpg",
+        "alt": "mizu-no-kioku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

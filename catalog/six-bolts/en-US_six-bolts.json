@@ -1,5 +1,9 @@
 {
     "title": "Six Bolts",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/114183.jpg",
+        "alt": "six-bolts"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "シックス・ボルト",

@@ -1,5 +1,9 @@
 {
     "title": "Wild Beat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11778.jpg",
+        "alt": "wild-beat"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ワイルド BEAT",

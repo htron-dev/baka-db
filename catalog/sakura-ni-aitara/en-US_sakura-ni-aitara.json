@@ -1,5 +1,9 @@
 {
     "title": "Sakura ni Aitara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/79563.jpg",
+        "alt": "sakura-ni-aitara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

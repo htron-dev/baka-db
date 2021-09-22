@@ -1,5 +1,9 @@
 {
     "title": "Namu Amida Butsu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226500.jpg",
+        "alt": "namu-amida-butsu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

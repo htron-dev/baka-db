@@ -1,5 +1,9 @@
 {
     "title": "Oda Cinnamon Nobunaga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1004/106819.jpg",
+        "alt": "oda-cinnamon-nobunaga"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "織田シナモン信長",

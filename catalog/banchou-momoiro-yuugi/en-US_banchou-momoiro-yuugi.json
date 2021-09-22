@@ -1,5 +1,9 @@
 {
     "title": "Banchou Momoiro Yuugi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/189824.jpg",
+        "alt": "banchou-momoiro-yuugi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

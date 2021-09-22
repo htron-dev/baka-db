@@ -1,5 +1,9 @@
 {
     "title": "Suenagaku Yoroshiku Onegaishimasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/237018.jpg",
+        "alt": "suenagaku-yoroshiku-onegaishimasu"
+    },
     "type": "manga",
     "original_name": "末永くよろしくお願いします",
     "start_date": "2019-11-22",

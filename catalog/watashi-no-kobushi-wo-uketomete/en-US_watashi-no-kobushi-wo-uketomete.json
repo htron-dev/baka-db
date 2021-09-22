@@ -1,5 +1,9 @@
 {
     "title": "Watashi no Kobushi wo Uketomete!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/220966.jpg",
+        "alt": "watashi-no-kobushi-wo-uketomete"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

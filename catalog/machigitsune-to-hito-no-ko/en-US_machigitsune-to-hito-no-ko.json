@@ -1,5 +1,9 @@
 {
     "title": "Machigitsune to Hito no Ko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236847.jpg",
+        "alt": "machigitsune-to-hito-no-ko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

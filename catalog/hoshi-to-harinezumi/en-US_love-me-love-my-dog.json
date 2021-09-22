@@ -1,5 +1,9 @@
 {
     "title": "Love Me Love My Dog",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/242851.jpg",
+        "alt": "love-me-love-my-dog"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

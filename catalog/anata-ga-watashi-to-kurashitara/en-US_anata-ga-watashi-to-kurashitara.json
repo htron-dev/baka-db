@@ -1,5 +1,9 @@
 {
     "title": "Anata ga Watashi to Kurashitara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196305.jpg",
+        "alt": "anata-ga-watashi-to-kurashitara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Kurohyou to 16-sai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194824.jpg",
+        "alt": "kurohyou-to-16-sai"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "44",

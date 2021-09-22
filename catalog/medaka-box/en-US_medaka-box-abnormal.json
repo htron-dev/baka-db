@@ -1,11 +1,15 @@
 {
     "title": "Medaka Box Abnormal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/62919.jpg",
+        "alt": "medaka-box-abnormal"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "めだかボックス アブノーマル",
     "start_date": "2012-10-11",
     "end_date": "2012-10-11",
-    "opening_song": "#1",
+    "opening_song": "#1: \"BELIEVE\" by Minami Kuribayashi (eps 1-11)",
     "ending_song": "\"Shugoshin PARADOX (守護心 PARADOX)\" by Aki Misato",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

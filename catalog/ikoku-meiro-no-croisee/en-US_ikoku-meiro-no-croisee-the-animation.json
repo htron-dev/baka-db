@@ -1,12 +1,16 @@
 {
     "title": "Ikoku Meiro no Croisée The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/74051.jpg",
+        "alt": "ikoku-meiro-no-croisee-the-animation"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "異国迷路のクロワーゼ The Animation",
     "start_date": "2011-07-04",
     "end_date": "2011-07-04",
     "opening_song": "\"Sekai wa Odoru yo, Kimi to. (世界は踊るよ、君と。)\" by Youmou to Ohana (羊毛とおはな)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Koko kara Hajimaru Monogatari (ここからはじまる物語)\" by Nao Touyama",
     "rating": "G - All Ages",
     "tags": [
         "slice-of-life",

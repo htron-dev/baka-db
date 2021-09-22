@@ -1,5 +1,9 @@
 {
     "title": "Kuro Hakushaku wa Hoshi wo Mederu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/209956.jpg",
+        "alt": "kuro-hakushaku-wa-hoshi-wo-mederu"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "75",

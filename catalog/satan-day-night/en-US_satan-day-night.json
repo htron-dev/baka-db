@@ -1,5 +1,9 @@
 {
     "title": "SatanDay Night",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/126177.jpg",
+        "alt": "satan-day-night"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "SatanDay Night",

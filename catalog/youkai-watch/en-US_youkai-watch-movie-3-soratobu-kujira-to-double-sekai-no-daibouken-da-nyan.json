@@ -1,5 +1,9 @@
 {
     "title": "Youkai Watch Movie 3: Soratobu Kujira to Double Sekai no Daibouken da Nyan!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/86783.jpg",
+        "alt": "youkai-watch-movie-3-soratobu-kujira-to-double-sekai-no-daibouken-da-nyan"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "映画 妖怪ウォッチ 空飛ぶクジラとダブル世界の大冒険だニャン！",
@@ -25,7 +29,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/%E5%A6%96%E6%80%AA%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81_(%E3%82%A2%E3%83%8B%E3%83%A1"
+            "link": "https://ja.wikipedia.org/wiki/%E5%A6%96%E6%80%AA%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81_%28%E3%82%A2%E3%83%8B%E3%83%A1%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "090: Eko to Issho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/54095.jpg",
+        "alt": "090-eko-to-issho"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "60",

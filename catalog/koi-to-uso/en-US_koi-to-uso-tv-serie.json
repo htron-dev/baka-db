@@ -1,5 +1,9 @@
 {
     "title": "Koi to Uso",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/86663.jpg",
+        "alt": "koi-to-uso"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "恋と嘘",

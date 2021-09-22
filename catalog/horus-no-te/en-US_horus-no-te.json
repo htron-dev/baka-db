@@ -1,5 +1,9 @@
 {
     "title": "Horus no Te",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196443.jpg",
+        "alt": "horus-no-te"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

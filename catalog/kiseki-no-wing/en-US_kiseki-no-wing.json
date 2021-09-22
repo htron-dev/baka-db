@@ -1,5 +1,9 @@
 {
     "title": "Kiseki no Wing!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15209.jpg",
+        "alt": "kiseki-no-wing"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "奇跡のＷＩＮＧ",

@@ -1,5 +1,9 @@
 {
     "title": "Nana Moon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/81459.jpg",
+        "alt": "nana-moon"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "梦月精灵",

@@ -1,5 +1,9 @@
 {
     "title": "Bridal Bouquet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227395.jpg",
+        "alt": "bridal-bouquet"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ブライダルブーケ",

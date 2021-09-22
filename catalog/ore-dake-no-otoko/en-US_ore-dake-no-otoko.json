@@ -1,5 +1,9 @@
 {
     "title": "Ore dake no Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/80565.jpg",
+        "alt": "ore-dake-no-otoko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

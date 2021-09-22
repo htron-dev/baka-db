@@ -1,5 +1,9 @@
 {
     "title": "Hakoiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/6766.jpg",
+        "alt": "hakoiri"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

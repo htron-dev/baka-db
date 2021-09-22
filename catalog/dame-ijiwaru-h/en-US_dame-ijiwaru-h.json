@@ -1,5 +1,9 @@
 {
     "title": "Dame Ijiwaru H",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153512.jpg",
+        "alt": "dame-ijiwaru-h"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Uragirimono ni Bara wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/231967.jpg",
+        "alt": "uragirimono-ni-bara-wo"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "裏切り者に薔薇を",

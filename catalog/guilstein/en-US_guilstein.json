@@ -1,5 +1,9 @@
 {
     "title": "Guilstein",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/33889.jpg",
+        "alt": "guilstein"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ギルスティン",

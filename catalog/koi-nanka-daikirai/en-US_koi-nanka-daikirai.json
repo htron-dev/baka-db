@@ -1,5 +1,9 @@
 {
     "title": "Koi nanka Daikirai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153399.jpg",
+        "alt": "koi-nanka-daikirai"
+    },
     "type": "light-novel",
     "volumes": "1",
     "original_name": "愛なんか大キライ!",

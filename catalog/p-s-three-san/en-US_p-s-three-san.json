@@ -1,5 +1,9 @@
 {
     "title": "P.S. Three-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/14651.jpg",
+        "alt": "p-s-three-san"
+    },
     "type": "manga",
     "tags": [
         "comedy"

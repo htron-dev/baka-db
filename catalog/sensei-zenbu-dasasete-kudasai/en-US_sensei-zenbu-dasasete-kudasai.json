@@ -1,5 +1,9 @@
 {
     "title": "Sensei, Zenbu Dasasete Kudasai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/247944.jpg",
+        "alt": "sensei-zenbu-dasasete-kudasai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

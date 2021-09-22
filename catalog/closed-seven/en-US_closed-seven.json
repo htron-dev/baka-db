@@ -1,5 +1,9 @@
 {
     "title": "Closed Seven",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175868.jpg",
+        "alt": "closed-seven"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "クローズドセブン",

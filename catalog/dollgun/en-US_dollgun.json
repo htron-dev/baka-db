@@ -1,5 +1,9 @@
 {
     "title": "Dollgun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/148175.jpg",
+        "alt": "dollgun"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "ドールガン",

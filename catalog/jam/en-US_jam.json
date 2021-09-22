@@ -1,5 +1,9 @@
 {
     "title": "Jam!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/90561.jpg",
+        "alt": "jam"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ジャム!!",

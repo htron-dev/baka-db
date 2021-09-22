@@ -1,5 +1,9 @@
 {
     "title": "7th Garden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/154271.jpg",
+        "alt": "7th-garden"
+    },
     "type": "manga",
     "original_name": "7thGARDEN",
     "start_date": "2014-08-04",

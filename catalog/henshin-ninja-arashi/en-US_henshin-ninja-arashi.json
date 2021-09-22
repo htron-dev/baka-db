@@ -1,5 +1,9 @@
 {
     "title": "Henshin Ninja Arashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/78241.jpg",
+        "alt": "henshin-ninja-arashi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

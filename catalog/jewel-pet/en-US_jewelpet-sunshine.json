@@ -1,5 +1,9 @@
 {
     "title": "Jewelpet Sunshine",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/28699.jpg",
+        "alt": "jewelpet-sunshine"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "ジュエルペット サンシャイン",

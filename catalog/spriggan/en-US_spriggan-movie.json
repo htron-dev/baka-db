@@ -1,5 +1,9 @@
 {
     "title": "Spriggan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1398/95001.jpg",
+        "alt": "spriggan"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "スプリガン",

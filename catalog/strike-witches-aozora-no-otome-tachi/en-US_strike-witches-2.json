@@ -1,12 +1,16 @@
 {
     "title": "Strike Witches 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/25477.jpg",
+        "alt": "strike-witches-2"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ストライクウィッチーズ 2",
     "start_date": "2010-07-08",
     "end_date": "2010-07-08",
     "opening_song": "\"STRIKE WITCHES 2 ~Egao no Mahou~ (STRIKE WITCHES 2 ～笑顔の魔法～)\" by Yoko Ishida",
-    "ending_song": "#01",
+    "ending_song": "#01: \"Over Sky\" by Fukuen Misato & Seto Saori (ep 1, 2)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

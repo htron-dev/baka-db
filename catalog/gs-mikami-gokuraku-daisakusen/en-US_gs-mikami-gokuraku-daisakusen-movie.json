@@ -1,5 +1,9 @@
 {
     "title": "GS Mikami: Gokuraku Daisakusen!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/49257.jpg",
+        "alt": "gs-mikami-gokuraku-daisakusen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "GS 美神 極楽大作戦!!",

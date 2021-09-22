@@ -1,5 +1,9 @@
 {
     "title": "Agmaui Sinbu Mandeulgi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/126419.jpg",
+        "alt": "agmaui-sinbu-mandeulgi"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "34",

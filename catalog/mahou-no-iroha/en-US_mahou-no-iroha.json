@@ -1,5 +1,9 @@
 {
     "title": "Mahou no Iroha!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/68159.jpg",
+        "alt": "mahou-no-iroha"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

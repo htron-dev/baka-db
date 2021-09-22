@@ -1,12 +1,16 @@
 {
     "title": "Sakura-sou no Pet na Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/43643.jpg",
+        "alt": "sakura-sou-no-pet-na-kanojo"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "さくら荘のペットな彼女",
     "start_date": "2012-10-09",
     "end_date": "2012-10-09",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Kimi ga Yume wo Tsuretekita (君が夢を連れてきた)\" by Pet na Kanojo-tachi (Ai Kayano, Mariko Nakatsu, Natsumi Takamori) (eps 2-10)",
+    "ending_song": "#1: \"DAYS of DASH\" by Konomi Suzuki (eps 1-12, 24)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

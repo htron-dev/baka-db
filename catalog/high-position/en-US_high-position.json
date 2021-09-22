@@ -1,5 +1,9 @@
 {
     "title": "High Position",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/197888.jpg",
+        "alt": "high-position"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "39",

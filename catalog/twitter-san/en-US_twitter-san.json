@@ -1,5 +1,9 @@
 {
     "title": "Twitter-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/192160.jpg",
+        "alt": "twitter-san"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "31",

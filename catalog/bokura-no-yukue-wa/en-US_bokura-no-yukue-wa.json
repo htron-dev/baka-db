@@ -1,5 +1,9 @@
 {
     "title": "Bokura no Yukue wa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/107659.jpg",
+        "alt": "bokura-no-yukue-wa"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

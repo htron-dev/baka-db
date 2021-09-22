@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Koi wo Shitta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/42486.jpg",
+        "alt": "kimi-to-koi-wo-shitta"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

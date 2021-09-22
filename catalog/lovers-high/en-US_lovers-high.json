@@ -1,5 +1,9 @@
 {
     "title": "Lover's High",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152517.jpg",
+        "alt": "lovers-high"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "24",

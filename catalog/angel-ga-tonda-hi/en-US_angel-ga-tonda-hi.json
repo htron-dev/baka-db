@@ -1,5 +1,9 @@
 {
     "title": "Angel ga Tonda Hi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/59567.jpg",
+        "alt": "angel-ga-tonda-hi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "エンジェルがとんだ日",

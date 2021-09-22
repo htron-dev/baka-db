@@ -1,5 +1,9 @@
 {
     "title": "Ice Kiss",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/2728.jpg",
+        "alt": "ice-kiss"
+    },
     "type": "manhwa",
     "volumes": "6",
     "original_name": "冰砂之吻",

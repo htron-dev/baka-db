@@ -1,5 +1,9 @@
 {
     "title": "Akatsuki-iro no Senpuku Majo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165151.jpg",
+        "alt": "akatsuki-iro-no-senpuku-majo"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

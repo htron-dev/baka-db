@@ -1,5 +1,9 @@
 {
     "title": "Renai Shijou Shugi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/143905.jpg",
+        "alt": "renai-shijou-shugi"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "48",

@@ -1,5 +1,9 @@
 {
     "title": "I'm Looking for the Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/31114.jpg",
+        "alt": "im-looking-for-the-princess"
+    },
     "type": "manhwa",
     "volumes": "10",
     "original_name": "공주님을 찾습니다",

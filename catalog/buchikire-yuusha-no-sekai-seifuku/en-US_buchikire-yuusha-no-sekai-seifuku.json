@@ -1,5 +1,9 @@
 {
     "title": "Buchikire Yuusha no Sekai Seifuku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/210102.jpg",
+        "alt": "buchikire-yuusha-no-sekai-seifuku"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Hakoniwa to Papillon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166036.jpg",
+        "alt": "hakoniwa-to-papillon"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

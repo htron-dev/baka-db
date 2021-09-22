@@ -1,12 +1,16 @@
 {
     "title": "Captain Tsubasa: Road to 2002",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/75526.jpg",
+        "alt": "captain-tsubasa-road-to-2002"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "キャプテン翼 (2001)",
     "start_date": "2001-10-07",
     "end_date": "2001-10-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Dragon Screamer\" by Da Pump (eps 1-37)",
+    "ending_song": "#1: \"Feel So Right\" by MAX (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

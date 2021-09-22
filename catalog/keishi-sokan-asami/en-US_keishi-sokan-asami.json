@@ -1,5 +1,9 @@
 {
     "title": "Keishi Sokan Asami",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/248446.jpg",
+        "alt": "keishi-sokan-asami"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "165",

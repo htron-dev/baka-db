@@ -1,5 +1,9 @@
 {
     "title": "Haru no Houtai Shoujo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162233.jpg",
+        "alt": "haru-no-houtai-shoujo"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "17",

@@ -1,5 +1,9 @@
 {
     "title": "Nikushokujuu no Amai Yubi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183258.jpg",
+        "alt": "nikushokujuu-no-amai-yubi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

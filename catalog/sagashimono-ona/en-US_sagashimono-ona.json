@@ -1,5 +1,9 @@
 {
     "title": "Sagashimono (ONA)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1696/104730.jpg",
+        "alt": "sagashimono-ona"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "さがしもの",

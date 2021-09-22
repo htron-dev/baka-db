@@ -1,5 +1,9 @@
 {
     "title": "Kodomo no Niwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/34684.jpg",
+        "alt": "kodomo-no-niwa"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

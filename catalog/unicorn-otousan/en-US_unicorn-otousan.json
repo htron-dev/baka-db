@@ -1,5 +1,9 @@
 {
     "title": "Unicorn Otousan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229376.jpg",
+        "alt": "unicorn-otousan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

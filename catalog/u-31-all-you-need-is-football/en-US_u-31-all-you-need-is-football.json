@@ -1,5 +1,9 @@
 {
     "title": "U-31: All You Need Is Football!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/171735.jpg",
+        "alt": "u-31-all-you-need-is-football"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Song of the Cloud",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38198.jpg",
+        "alt": "song-of-the-cloud"
+    },
     "type": "manhwa",
     "volumes": "2",
     "chapters": "63",

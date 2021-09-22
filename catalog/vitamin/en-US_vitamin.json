@@ -1,5 +1,9 @@
 {
     "title": "Vitamin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/4903.jpg",
+        "alt": "vitamin"
+    },
     "type": "manhwa",
     "volumes": "16",
     "tags": [

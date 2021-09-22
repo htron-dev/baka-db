@@ -1,5 +1,9 @@
 {
     "title": "Lodoss-tou Senki: Eiyuu Kishi Den",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/135803.jpg",
+        "alt": "lodoss-tou-senki-eiyuu-kishi-den"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "38",

@@ -1,5 +1,9 @@
 {
     "title": "Hibi Kore Koujitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5787.jpg",
+        "alt": "hibi-kore-koujitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "日々是好日",

@@ -1,5 +1,9 @@
 {
     "title": "Ao no Flag",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/194070.jpg",
+        "alt": "ao-no-flag"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "54",

@@ -1,5 +1,9 @@
 {
     "title": "She's My Cutie Boss!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16900.jpg",
+        "alt": "shes-my-cutie-boss"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "僕のかわいい上司さま",

@@ -1,5 +1,9 @@
 {
     "title": "Macross Frontier",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166830.jpg",
+        "alt": "macross-frontier"
+    },
     "type": "light-novel",
     "volumes": "4",
     "original_name": "マクロスフロンティア",

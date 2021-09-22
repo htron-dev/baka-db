@@ -1,5 +1,9 @@
 {
     "title": "Hidoku Shinaide",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40680.jpg",
+        "alt": "hidoku-shinaide"
+    },
     "type": "manga",
     "original_name": "酷くしないで",
     "start_date": "2007-01-07",

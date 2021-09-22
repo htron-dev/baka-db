@@ -1,5 +1,9 @@
 {
     "title": "Get You",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/8164.jpg",
+        "alt": "get-you"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "44",

@@ -1,5 +1,9 @@
 {
     "title": "Do Race?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/191960.jpg",
+        "alt": "do-race"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

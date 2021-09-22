@@ -1,5 +1,9 @@
 {
     "title": "Sequence",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/952.jpg",
+        "alt": "sequence"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

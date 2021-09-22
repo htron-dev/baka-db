@@ -1,5 +1,9 @@
 {
     "title": "Asadora!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/219398.jpg",
+        "alt": "asadora"
+    },
     "type": "manga",
     "original_name": "あさドラ!",
     "start_date": "2018-10-06",

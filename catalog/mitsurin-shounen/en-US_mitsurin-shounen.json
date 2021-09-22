@@ -1,5 +1,9 @@
 {
     "title": "Mitsurin Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/40679.jpg",
+        "alt": "mitsurin-shounen"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "密林少年 Jungle Boy",

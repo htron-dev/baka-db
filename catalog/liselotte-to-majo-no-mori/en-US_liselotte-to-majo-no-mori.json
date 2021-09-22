@@ -1,5 +1,9 @@
 {
     "title": "Liselotte to Majo no Mori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/65885.jpg",
+        "alt": "liselotte-to-majo-no-mori"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "31",

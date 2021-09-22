@@ -1,12 +1,16 @@
 {
     "title": "Mo Dao Zu Shi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1253/93893.jpg",
+        "alt": "mo-dao-zu-shi"
+    },
     "type": "ona",
     "episodes": "15",
     "original_name": "魔道祖师",
     "start_date": "2018-07-09",
     "end_date": "2018-07-09",
     "opening_song": "\"Senya Souka (千夜想歌)\" by CIIVILIAN (Japanese broadcast ver.)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kiro (季路)\" by Aimer (Japanese broadcast ver.)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

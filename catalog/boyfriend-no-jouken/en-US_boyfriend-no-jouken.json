@@ -1,5 +1,9 @@
 {
     "title": "Boyfriend no Jouken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171559.jpg",
+        "alt": "boyfriend-no-jouken"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

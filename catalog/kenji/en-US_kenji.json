@@ -1,5 +1,9 @@
 {
     "title": "Kenji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/193668.jpg",
+        "alt": "kenji"
+    },
     "type": "manga",
     "volumes": "21",
     "chapters": "202",

@@ -1,5 +1,9 @@
 {
     "title": "Maou no Kizahashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/225189.jpg",
+        "alt": "maou-no-kizahashi"
+    },
     "type": "manga",
     "chapters": "35",
     "original_name": "魔王の階",

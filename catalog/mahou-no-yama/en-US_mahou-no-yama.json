@@ -1,5 +1,9 @@
 {
     "title": "Mahou no Yama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/34964.jpg",
+        "alt": "mahou-no-yama"
+    },
     "type": "manga",
     "chapters": "2",
     "original_name": "魔法の山",

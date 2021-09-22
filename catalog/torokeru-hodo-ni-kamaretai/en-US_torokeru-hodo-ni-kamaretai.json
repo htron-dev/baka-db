@@ -1,5 +1,9 @@
 {
     "title": "Torokeru hodo ni Kamaretai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237290.jpg",
+        "alt": "torokeru-hodo-ni-kamaretai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

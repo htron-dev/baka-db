@@ -1,11 +1,15 @@
 {
     "title": "Piace: Watashi no Italian",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/83098.jpg",
+        "alt": "piace-watashi-no-italian"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ピアシェ～私のイタリアン～",
     "start_date": "2017-01-11",
     "end_date": "2017-01-11",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Honjitsu no Tobikiri Buono! (本日のとびきり Buono(ボーノ)！)\" by Morina Nanase (Sayaka Senbongi)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

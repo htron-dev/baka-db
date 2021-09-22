@@ -1,5 +1,9 @@
 {
     "title": "Kanata Kakeru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180209.jpg",
+        "alt": "kanata-kakeru"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "102",

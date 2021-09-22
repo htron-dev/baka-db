@@ -1,5 +1,9 @@
 {
     "title": "Aniken",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202400.jpg",
+        "alt": "aniken"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "52",

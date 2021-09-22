@@ -1,5 +1,9 @@
 {
     "title": "Gokyoudai Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/61397.jpg",
+        "alt": "gokyoudai-monogatari"
+    },
     "type": "tv-serie",
     "episodes": "32",
     "original_name": "ご姉弟物語",

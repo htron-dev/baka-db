@@ -1,5 +1,9 @@
 {
     "title": "J no Subete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/72231.jpg",
+        "alt": "j-no-subete"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

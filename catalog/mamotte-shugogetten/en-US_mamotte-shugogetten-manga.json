@@ -1,5 +1,9 @@
 {
     "title": "Mamotte Shugogetten!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/208710.jpg",
+        "alt": "mamotte-shugogetten"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "71",

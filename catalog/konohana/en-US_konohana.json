@@ -1,5 +1,9 @@
 {
     "title": "Konohana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/25841.jpg",
+        "alt": "konohana"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,11 +1,15 @@
 {
     "title": "Starry☆Sky",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/27459.jpg",
+        "alt": "starry☆-sky"
+    },
     "type": "ona",
     "episodes": "26",
     "original_name": "スタ ☆ スカ",
     "start_date": "2010-12-23",
     "end_date": "2010-12-23",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Starry☆Days ～ inst ver.～\" by eba (eps 1-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "harem",

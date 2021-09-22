@@ -1,5 +1,9 @@
 {
     "title": "Mobile Suit Gakuen: G-Reco Koushien",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/83237.jpg",
+        "alt": "mobile-suit-gakuen-g-reco-koushien"
+    },
     "type": "special",
     "episodes": "9",
     "original_name": "モビルスーツ学園「Ｇ-レコ甲子園」",

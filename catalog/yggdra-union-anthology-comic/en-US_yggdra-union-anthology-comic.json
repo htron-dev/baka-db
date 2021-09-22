@@ -1,5 +1,9 @@
 {
     "title": "Yggdra Union Anthology Comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155704.jpg",
+        "alt": "yggdra-union-anthology-comic"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

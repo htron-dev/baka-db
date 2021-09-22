@@ -1,5 +1,9 @@
 {
     "title": "Ningen Kakumei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/58465.jpg",
+        "alt": "ningen-kakumei"
+    },
     "type": "ova",
     "episodes": "20",
     "original_name": "人間革命",

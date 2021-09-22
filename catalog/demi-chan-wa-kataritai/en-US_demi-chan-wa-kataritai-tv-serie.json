@@ -1,5 +1,9 @@
 {
     "title": "Demi-chan wa Kataritai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/83417.jpg",
+        "alt": "demi-chan-wa-kataritai"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "亜人ちゃんは語りたい",

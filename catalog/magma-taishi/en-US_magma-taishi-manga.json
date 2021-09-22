@@ -1,5 +1,9 @@
 {
     "title": "Magma Taishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/174134.jpg",
+        "alt": "magma-taishi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "21",

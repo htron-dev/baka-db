@@ -1,5 +1,9 @@
 {
     "title": "Duel Masters Zero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/28926.jpg",
+        "alt": "duel-masters-zero"
+    },
     "type": "tv-serie",
     "episodes": "24",
     "original_name": "デュエル・マスターズ ゼロ",

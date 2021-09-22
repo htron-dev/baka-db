@@ -1,5 +1,9 @@
 {
     "title": "Renai Joshi File",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/88633.jpg",
+        "alt": "renai-joshi-file"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

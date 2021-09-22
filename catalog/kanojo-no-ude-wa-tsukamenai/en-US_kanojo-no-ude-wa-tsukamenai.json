@@ -1,5 +1,9 @@
 {
     "title": "Kanojo no Ude wa Tsukamenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/205469.jpg",
+        "alt": "kanojo-no-ude-wa-tsukamenai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "29",

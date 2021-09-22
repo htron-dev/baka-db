@@ -1,5 +1,9 @@
 {
     "title": "I''s Pure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/7081.jpg",
+        "alt": "is-pure"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "アイズピュア",

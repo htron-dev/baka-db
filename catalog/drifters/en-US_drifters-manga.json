@@ -1,5 +1,9 @@
 {
     "title": "Drifters",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/33949.jpg",
+        "alt": "drifters"
+    },
     "type": "manga",
     "original_name": "ドリフターズ",
     "start_date": "2009-04-30",

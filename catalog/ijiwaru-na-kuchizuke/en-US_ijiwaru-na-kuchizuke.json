@@ -1,5 +1,9 @@
 {
     "title": "Ijiwaru na Kuchizuke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/154418.jpg",
+        "alt": "ijiwaru-na-kuchizuke"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

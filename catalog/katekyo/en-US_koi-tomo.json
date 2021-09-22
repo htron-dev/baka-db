@@ -1,5 +1,9 @@
 {
     "title": "Koi Tomo!?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/98251.jpg",
+        "alt": "koi-tomo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

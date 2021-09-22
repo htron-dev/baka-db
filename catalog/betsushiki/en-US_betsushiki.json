@@ -1,5 +1,9 @@
 {
     "title": "Betsushiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/187218.jpg",
+        "alt": "betsushiki"
+    },
     "type": "manga",
     "original_name": "別式",
     "start_date": "2016-07-22",

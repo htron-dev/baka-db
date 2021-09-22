@@ -1,5 +1,9 @@
 {
     "title": "Amagami: Various Artists",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/61435.jpg",
+        "alt": "amagami-various-artists"
+    },
     "type": "manga",
     "original_name": "アマガミ - Various Artists -",
     "start_date": "2009-08-26",

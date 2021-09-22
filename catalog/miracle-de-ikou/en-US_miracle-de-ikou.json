@@ -1,5 +1,9 @@
 {
     "title": "Miracle de Ikou!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170035.jpg",
+        "alt": "miracle-de-ikou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

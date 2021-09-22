@@ -1,5 +1,9 @@
 {
     "title": "Ryuuseiki Gakusaver",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1625/97695.jpg",
+        "alt": "ryuuseiki-gakusaver"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "流星機ガクセイバー",

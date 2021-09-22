@@ -1,5 +1,9 @@
 {
     "title": "Ruriiro Princess",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/33523.jpg",
+        "alt": "ruriiro-princess"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "るり色プリンセス",

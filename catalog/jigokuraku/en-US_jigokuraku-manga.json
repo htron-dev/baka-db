@@ -1,5 +1,9 @@
 {
     "title": "Jigokuraku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/208522.jpg",
+        "alt": "jigokuraku"
+    },
     "type": "manga",
     "volumes": "13",
     "chapters": "128",

@@ -1,5 +1,9 @@
 {
     "title": "Iwatoishi Tarou no Reiseki Kitan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/34404.jpg",
+        "alt": "iwatoishi-tarou-no-reiseki-kitan"
+    },
     "type": "manga",
     "original_name": "岩戸石太郎の霊石奇譚",
     "start_date": "2009-03-20",

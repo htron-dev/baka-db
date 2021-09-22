@@ -1,5 +1,9 @@
 {
     "title": "Cinderella no Kake",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/39437.jpg",
+        "alt": "cinderella-no-kake"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

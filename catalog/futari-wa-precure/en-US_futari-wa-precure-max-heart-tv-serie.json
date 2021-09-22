@@ -1,12 +1,16 @@
 {
     "title": "Futari wa Precure: Max Heart",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/7536.jpg",
+        "alt": "futari-wa-precure-max-heart"
+    },
     "type": "tv-serie",
     "episodes": "47",
     "original_name": "ふたりはプリキュア ー マックスハート",
     "start_date": "2005-02-06",
     "end_date": "2005-02-06",
     "opening_song": "DANZEN! Futari wa Precure (MaxHeart Ver) by Mayumi Gojou",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Murimuri?! Ariari!! IN Jaa~nai?! (ムリムリ！？ありあり！！ＩＮじゃあな～い？！)\" by Mayumi Gojo with Young Flesh (eps 1-36)",
     "rating": "G - All Ages",
     "tags": [
         "action",

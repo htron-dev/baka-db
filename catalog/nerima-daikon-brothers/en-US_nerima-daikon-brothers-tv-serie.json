@@ -1,5 +1,9 @@
 {
     "title": "Nerima Daikon Brothers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/24303.jpg",
+        "alt": "nerima-daikon-brothers"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "練馬大根ブラザーズ",

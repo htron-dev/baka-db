@@ -1,5 +1,9 @@
 {
     "title": "Kakute Horobita Dystopia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/162673.jpg",
+        "alt": "kakute-horobita-dystopia"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "14",

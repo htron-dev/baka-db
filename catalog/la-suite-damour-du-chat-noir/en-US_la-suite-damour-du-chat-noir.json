@@ -1,5 +1,9 @@
 {
     "title": "La Suite D'amour Du Chat Noir",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5460.jpg",
+        "alt": "la-suite-damour-du-chat-noir"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

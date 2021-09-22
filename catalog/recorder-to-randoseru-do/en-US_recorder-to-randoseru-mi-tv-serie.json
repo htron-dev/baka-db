@@ -1,11 +1,15 @@
 {
     "title": "Recorder to Randoseru Mi☆",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/50651.jpg",
+        "alt": "recorder-to-randoseru-mi☆"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "リコーダーとランドセル ミ ☆",
     "start_date": "2013-07-08",
     "end_date": "2013-07-08",
-    "ending_song": "#1",
+    "ending_song": "#1: \"One Two Hello (ワンツーハロー)\" by Nanami Kashiyama (柏山奈々美) (eps 1, 4, 8, 10)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

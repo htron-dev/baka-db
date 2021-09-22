@@ -1,12 +1,16 @@
 {
     "title": "Netsuzou TRap",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/86667.jpg",
+        "alt": "netsuzou-t-rap"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "捏造トラップ―NTR―",
     "start_date": "2017-07-05",
     "end_date": "2017-07-05",
     "opening_song": "\"Blue Bud Blue\" by Haruka Toujou (eps 1-11)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Virginal lily\" by Akira Ouse (eps 1-3, 10)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "drama",

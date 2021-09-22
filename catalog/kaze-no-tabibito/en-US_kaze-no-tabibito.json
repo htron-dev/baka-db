@@ -1,5 +1,9 @@
 {
     "title": "Kaze no Tabibito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/66159.jpg",
+        "alt": "kaze-no-tabibito"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "風の旅人",

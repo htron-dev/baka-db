@@ -1,5 +1,9 @@
 {
     "title": "Osanazuma: Marple no Jikenbo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/173356.jpg",
+        "alt": "osanazuma-marple-no-jikenbo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

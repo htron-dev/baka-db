@@ -1,8 +1,12 @@
 {
     "title": "Himitsukessha Taka no Tsume The Movie 3: http://takanotsume.jp wa Eien ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/22016.jpg",
+        "alt": "himitsukessha-taka-no-tsume-the-movie-3-http-takanotsume-jp-wa-eien-ni"
+    },
     "type": "movie",
     "episodes": "1",
-    "original_name": "秘密結社鷹の爪 THE MOVIE3 http",
+    "original_name": "秘密結社鷹の爪 THE MOVIE3 http://鷹の爪.jp は永遠に",
     "start_date": "2010-01-16",
     "ending_song": "\"I Dreamed a Dream\" by Susan Boyle",
     "rating": "G - All Ages",
@@ -31,7 +35,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Eagle_Talon_(anime"
+            "link": "http://en.wikipedia.org/wiki/Eagle_Talon_%28anime%29"
         }
     ]
 }

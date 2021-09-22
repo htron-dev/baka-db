@@ -1,5 +1,9 @@
 {
     "title": "Kaibutsu ga, Umareta Hi.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1773/97553.jpg",
+        "alt": "kaibutsu-ga-umareta-hi"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "かいぶつが、うまれた日。",

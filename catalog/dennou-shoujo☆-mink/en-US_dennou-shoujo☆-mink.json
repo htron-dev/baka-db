@@ -1,5 +1,9 @@
 {
     "title": "Dennou Shoujo☆Mink",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171558.jpg",
+        "alt": "dennou-shoujo☆-mink"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "28",

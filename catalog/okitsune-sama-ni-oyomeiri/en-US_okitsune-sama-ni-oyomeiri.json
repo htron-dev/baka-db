@@ -1,5 +1,9 @@
 {
     "title": "Okitsune-sama ni Oyomeiri",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/114505.jpg",
+        "alt": "okitsune-sama-ni-oyomeiri"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

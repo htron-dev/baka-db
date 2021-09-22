@@ -1,5 +1,9 @@
 {
     "title": "Naita Aka Oni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/80520.jpg",
+        "alt": "naita-aka-oni"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "泣いた赤おに",

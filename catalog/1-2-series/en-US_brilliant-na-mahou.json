@@ -1,5 +1,9 @@
 {
     "title": "Brilliant na Mahou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/164442.jpg",
+        "alt": "brilliant-na-mahou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

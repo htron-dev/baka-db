@@ -1,5 +1,9 @@
 {
     "title": "Youryuukai no Kemono Jijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227696.jpg",
+        "alt": "youryuukai-no-kemono-jijou"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "22",

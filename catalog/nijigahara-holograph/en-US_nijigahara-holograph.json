@@ -1,5 +1,9 @@
 {
     "title": "Nijigahara Holograph",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/67543.jpg",
+        "alt": "nijigahara-holograph"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "15",

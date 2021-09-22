@@ -1,5 +1,9 @@
 {
     "title": "Selector Destructed WIXOSS Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/83118.jpg",
+        "alt": "selector-destructed-wixoss-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 selector destructed WIXOSS",

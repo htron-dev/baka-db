@@ -1,5 +1,9 @@
 {
     "title": "Ah! Warera ga Myao Shougun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/219118.jpg",
+        "alt": "ah-warera-ga-myao-shougun"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "48",

@@ -1,5 +1,9 @@
 {
     "title": "Shikabane wa Bishoujo no Kaori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178436.jpg",
+        "alt": "shikabane-wa-bishoujo-no-kaori"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "12",

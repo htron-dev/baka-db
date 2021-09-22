@@ -1,5 +1,9 @@
 {
     "title": "Gyutto Shite Chuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11655.jpg",
+        "alt": "gyutto-shite-chuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Yawaraka Sensha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/56209.jpg",
+        "alt": "yawaraka-sensha"
+    },
     "type": "ona",
     "episodes": "53",
     "original_name": "やわらか戦車",

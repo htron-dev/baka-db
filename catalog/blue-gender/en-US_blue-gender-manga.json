@@ -1,5 +1,9 @@
 {
     "title": "Blue Gender",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/112117.jpg",
+        "alt": "blue-gender"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ブルージェンダー",

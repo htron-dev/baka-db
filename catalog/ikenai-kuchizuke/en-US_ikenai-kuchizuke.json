@@ -1,5 +1,9 @@
 {
     "title": "Ikenai Kuchizuke",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230188.jpg",
+        "alt": "ikenai-kuchizuke"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "いけない口づけ",

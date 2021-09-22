@@ -1,5 +1,9 @@
 {
     "title": "Kokou no Hito",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/96223.jpg",
+        "alt": "kokou-no-hito"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "170",

@@ -1,5 +1,9 @@
 {
     "title": "Kogane Crafter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/224323.jpg",
+        "alt": "kogane-crafter"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

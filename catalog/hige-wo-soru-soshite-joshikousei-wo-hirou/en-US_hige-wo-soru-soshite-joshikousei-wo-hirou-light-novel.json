@@ -1,5 +1,9 @@
 {
     "title": "Hige wo Soru. Soshite Joshikousei wo Hirou.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/213577.jpg",
+        "alt": "hige-wo-soru-soshite-joshikousei-wo-hirou"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "82",

@@ -1,5 +1,9 @@
 {
     "title": "Kedakaki Yakusoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/39299.jpg",
+        "alt": "kedakaki-yakusoku"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "6",

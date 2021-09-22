@@ -1,5 +1,9 @@
 {
     "title": "Hyokkori Hyoutan Shima",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/59453.jpg",
+        "alt": "hyokkori-hyoutan-shima"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ひょっこりひょうたん島",

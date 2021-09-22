@@ -1,5 +1,9 @@
 {
     "title": "Kounodori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/130493.jpg",
+        "alt": "kounodori"
+    },
     "type": "manga",
     "original_name": "コウノドリ",
     "start_date": "2012-02-21",

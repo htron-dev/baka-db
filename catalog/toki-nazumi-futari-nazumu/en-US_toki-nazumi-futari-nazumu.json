@@ -1,5 +1,9 @@
 {
     "title": "Toki Nazumi, Futari Nazumu.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/29750.jpg",
+        "alt": "toki-nazumi-futari-nazumu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

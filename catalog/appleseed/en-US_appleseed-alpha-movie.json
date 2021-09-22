@@ -1,5 +1,9 @@
 {
     "title": "Appleseed Alpha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/64775.jpg",
+        "alt": "appleseed-alpha"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "Appleseed Alpha",

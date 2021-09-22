@@ -1,5 +1,9 @@
 {
     "title": "Figure Maker",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/173313.jpg",
+        "alt": "figure-maker"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

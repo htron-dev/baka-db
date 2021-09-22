@@ -1,5 +1,9 @@
 {
     "title": "Sushi-bu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162532.jpg",
+        "alt": "sushi-bu"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "25",

@@ -1,5 +1,9 @@
 {
     "title": "Ayamachi, Hajimemashite.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/125309.jpg",
+        "alt": "ayamachi-hajimemashite"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "19",

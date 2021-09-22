@@ -1,5 +1,9 @@
 {
     "title": "Shoujo Kairo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/196626.jpg",
+        "alt": "shoujo-kairo"
+    },
     "type": "manga",
     "original_name": "少女回路",
     "start_date": "2015-09-25",

@@ -1,5 +1,9 @@
 {
     "title": "Kiss mo Shiranai Kuse ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/231096.jpg",
+        "alt": "kiss-mo-shiranai-kuse-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

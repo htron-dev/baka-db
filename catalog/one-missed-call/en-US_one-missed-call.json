@@ -1,5 +1,9 @@
 {
     "title": "One Missed Call",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155659.jpg",
+        "alt": "one-missed-call"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

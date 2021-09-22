@@ -1,5 +1,9 @@
 {
     "title": "Moon Spell!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162620.jpg",
+        "alt": "moon-spell"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "34",

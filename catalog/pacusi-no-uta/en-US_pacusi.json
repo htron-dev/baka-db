@@ -1,5 +1,9 @@
 {
     "title": "Pacusi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/17804.jpg",
+        "alt": "pacusi"
+    },
     "type": "tv-serie",
     "episodes": "18",
     "original_name": "パ ク シ",

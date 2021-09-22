@@ -1,12 +1,16 @@
 {
     "title": "Inou-Battle wa Nichijou-kei no Naka de",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/67047.jpg",
+        "alt": "inou-battle-wa-nichijou-kei-no-naka-de"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "異能バトルは日常系のなかで",
     "start_date": "2014-10-07",
     "end_date": "2014-10-07",
-    "opening_song": "\"OVERLAPPERS\" by Qverktett",
-    "ending_song": "#1",
+    "opening_song": "\"OVERLAPPERS\" by Qverktett:|| (Haruka Yamazaki, Saori Hayami, Risa Taneda, Nanami Yamashita) (eps 1-11)",
+    "ending_song": "#1: \"You Gotta Love Me!\" by Kato\\*Fuku (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "harem",

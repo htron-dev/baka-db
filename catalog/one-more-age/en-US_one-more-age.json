@@ -1,5 +1,9 @@
 {
     "title": "One More Age",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190454.jpg",
+        "alt": "one-more-age"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

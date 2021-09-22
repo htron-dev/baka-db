@@ -1,5 +1,9 @@
 {
     "title": "Hime-chan no Ribbon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/145585.jpg",
+        "alt": "hime-chan-no-ribbon"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "45",

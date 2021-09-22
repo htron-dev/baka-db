@@ -1,5 +1,9 @@
 {
     "title": "Anoko no Ude wa Niji no Tsuzuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/133639.jpg",
+        "alt": "anoko-no-ude-wa-niji-no-tsuzuki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

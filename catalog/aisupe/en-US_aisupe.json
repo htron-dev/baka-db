@@ -1,5 +1,9 @@
 {
     "title": "Aisupe@",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/153983.jpg",
+        "alt": "aisupe"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "あいすぺ@",

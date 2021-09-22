@@ -1,5 +1,9 @@
 {
     "title": "Kiri no Miyako no K.K",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/239133.jpg",
+        "alt": "kiri-no-miyako-no-k-k"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "霧の都の K・K",

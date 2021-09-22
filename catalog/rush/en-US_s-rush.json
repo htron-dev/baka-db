@@ -1,5 +1,9 @@
 {
     "title": "S+Rush!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224531.jpg",
+        "alt": "s-rush"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Minimini TV CM",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1573/96416.jpg",
+        "alt": "minimini-tv-cm"
+    },
     "type": "special",
     "episodes": "7",
     "original_name": "ミニミニ TVCM",

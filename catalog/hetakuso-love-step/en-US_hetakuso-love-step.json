@@ -1,5 +1,9 @@
 {
     "title": "Hetakuso Love Step",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/238475.jpg",
+        "alt": "hetakuso-love-step"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

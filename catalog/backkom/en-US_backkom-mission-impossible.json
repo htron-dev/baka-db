@@ -1,5 +1,9 @@
 {
     "title": "Backkom Mission Impossible",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/65801.jpg",
+        "alt": "backkom-mission-impossible"
+    },
     "type": "ona",
     "episodes": "2",
     "original_name": "빼꼼의미션임파서블",

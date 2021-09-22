@@ -1,5 +1,9 @@
 {
     "title": "Natsume-kun wa Nandemo Shitteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190083.jpg",
+        "alt": "natsume-kun-wa-nandemo-shitteru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

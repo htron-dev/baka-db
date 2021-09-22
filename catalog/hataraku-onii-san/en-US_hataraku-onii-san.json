@@ -1,5 +1,9 @@
 {
     "title": "Hataraku Onii-san!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/88930.jpg",
+        "alt": "hataraku-onii-san"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "働くお兄さん!",

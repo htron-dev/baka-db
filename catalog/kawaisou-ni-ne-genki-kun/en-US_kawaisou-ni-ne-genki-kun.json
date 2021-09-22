@@ -1,5 +1,9 @@
 {
     "title": "Kawaisou ni ne, Genki-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226159.jpg",
+        "alt": "kawaisou-ni-ne-genki-kun"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "69",

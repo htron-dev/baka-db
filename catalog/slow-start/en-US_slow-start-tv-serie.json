@@ -1,12 +1,16 @@
 {
     "title": "Slow Start",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/89982.jpg",
+        "alt": "slow-start"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "スロウスタート",
     "start_date": "2018-01-07",
     "end_date": "2018-01-07",
     "opening_song": "\"ne! ne! ne!\" by STARTails☆ (Reina Kondou, Ayasa Itou, Tomomi Mineuchi, Maria Naganawa)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Kaze no Koe wo Kikinagara (風の声を聴きながら)\" by Sangatsu no Phantasia (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/Slow_Start_(manga"
+            "link": "https://en.wikipedia.org/wiki/Slow_Start_%28manga%29"
         }
     ]
 }

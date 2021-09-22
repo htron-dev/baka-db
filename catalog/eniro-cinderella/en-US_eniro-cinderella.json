@@ -1,5 +1,9 @@
 {
     "title": "Eniro\\*Cinderella",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26456.jpg",
+        "alt": "eniro-cinderella"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "艶色\\*シンデレラ",

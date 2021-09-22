@@ -1,5 +1,9 @@
 {
     "title": "One-Way Ticket of Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2688.jpg",
+        "alt": "one-way-ticket-of-love"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Seishun Anime Zenshuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/9105.jpg",
+        "alt": "seishun-anime-zenshuu"
+    },
     "type": "tv-serie",
     "episodes": "32",
     "original_name": "青春アニメ全集",

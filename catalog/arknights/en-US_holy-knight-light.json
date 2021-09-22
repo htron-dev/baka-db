@@ -1,5 +1,9 @@
 {
     "title": "Holy Knight Light",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1829/110959.jpg",
+        "alt": "holy-knight-light"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "Holy Knight Light",

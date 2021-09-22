@@ -1,5 +1,9 @@
 {
     "title": "Ranma ½ OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/63459.jpg",
+        "alt": "ranma-ova"
+    },
     "type": "ova",
     "episodes": "6",
     "original_name": "らんま 1/2 OVA",

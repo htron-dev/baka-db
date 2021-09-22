@@ -1,11 +1,15 @@
 {
     "title": "Nana Recaps",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1095/112104.jpg",
+        "alt": "nana-recaps"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "ナナ Specials",
     "start_date": "2006-06-21",
     "end_date": "2006-06-21",
-    "ending_song": "#1",
+    "ending_song": "#1: \"A Little Pain\" by Olivia inspi' Reira ~Trapnest~ (ep 11.5 (for TV broadcast))",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "comedy",

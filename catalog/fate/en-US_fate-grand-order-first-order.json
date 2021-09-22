@@ -1,5 +1,9 @@
 {
     "title": "Fate/Grand Order: First Order",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/82651.jpg",
+        "alt": "fate-grand-order-first-order"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "Fate/Grand Order -First Order-",

@@ -1,5 +1,9 @@
 {
     "title": "Kuwadou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/78921.jpg",
+        "alt": "kuwadou"
+    },
     "type": "manga",
     "original_name": "鍬道",
     "start_date": "2001-12-27",

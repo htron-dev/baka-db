@@ -1,5 +1,9 @@
 {
     "title": "Nanatsu no Taizai Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/146237.jpg",
+        "alt": "nanatsu-no-taizai-gaiden"
+    },
     "type": "light-novel",
     "original_name": "小説 七つの大罪 ―外伝―",
     "start_date": "2014-12-17",

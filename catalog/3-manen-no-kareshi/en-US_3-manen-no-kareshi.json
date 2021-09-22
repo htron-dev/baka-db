@@ -1,5 +1,9 @@
 {
     "title": "3-manen no Kareshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/125239.jpg",
+        "alt": "3-manen-no-kareshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Cross",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/19815.jpg",
+        "alt": "cross"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "18",

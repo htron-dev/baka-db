@@ -1,5 +1,9 @@
 {
     "title": "Tsutaete Ii no",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165572.jpg",
+        "alt": "tsutaete-ii-no"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

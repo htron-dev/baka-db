@@ -1,5 +1,9 @@
 {
     "title": "Kaeru no Pickles: Kimochi no Iro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1850/108933.jpg",
+        "alt": "kaeru-no-pickles-kimochi-no-iro"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "かえるのピクルス -きもちのいろ-",
@@ -9,7 +13,6 @@
     "tags": [
         "slice-of-life"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

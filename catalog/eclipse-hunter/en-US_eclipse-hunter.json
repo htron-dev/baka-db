@@ -1,5 +1,9 @@
 {
     "title": "Eclipse Hunter",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41560.jpg",
+        "alt": "eclipse-hunter"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "50",

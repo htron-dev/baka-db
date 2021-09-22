@@ -1,5 +1,9 @@
 {
     "title": "Senbouai to Nanatsu no Kase",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/194400.jpg",
+        "alt": "senbouai-to-nanatsu-no-kase"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "Zangetsuden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/171924.jpg",
+        "alt": "zangetsuden"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "斬月伝",

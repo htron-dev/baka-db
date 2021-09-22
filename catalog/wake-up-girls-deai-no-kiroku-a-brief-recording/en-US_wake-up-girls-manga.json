@@ -1,5 +1,9 @@
 {
     "title": "Wake Up, Girls!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/170580.jpg",
+        "alt": "wake-up-girls"
+    },
     "type": "manga",
     "original_name": "Wake Up, Girls!",
     "start_date": "2015-05-26",

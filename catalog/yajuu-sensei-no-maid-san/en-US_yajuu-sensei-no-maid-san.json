@@ -1,5 +1,9 @@
 {
     "title": "Yajuu-sensei no Maid-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180080.jpg",
+        "alt": "yajuu-sensei-no-maid-san"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "24",

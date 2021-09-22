@@ -1,5 +1,9 @@
 {
     "title": "Dracu-Riot! Honey!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/86523.jpg",
+        "alt": "dracu-riot-honey"
+    },
     "type": "manga",
     "original_name": "DRACU-RIOT! エリナ・ストーリー（仮）",
     "start_date": "2012-04-12",

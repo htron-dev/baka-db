@@ -1,11 +1,15 @@
 {
     "title": "Sekaiichi Hatsukoi OVA",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/35863.jpg",
+        "alt": "sekaiichi-hatsukoi-ova"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "世界一初恋 OVA",
     "start_date": "2011-03-22",
     "end_date": "2011-03-22",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Prologue\" by Hijiri Anze (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

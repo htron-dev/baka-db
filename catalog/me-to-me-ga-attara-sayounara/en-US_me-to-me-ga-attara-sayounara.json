@@ -1,5 +1,9 @@
 {
     "title": "Me to Me ga Attara Sayounara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165190.jpg",
+        "alt": "me-to-me-ga-attara-sayounara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

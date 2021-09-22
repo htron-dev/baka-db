@@ -1,5 +1,9 @@
 {
     "title": "Usagi no Tsuno",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/134513.jpg",
+        "alt": "usagi-no-tsuno"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

@@ -1,5 +1,9 @@
 {
     "title": "Moonlight Mile 1st Season: Lift Off",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/77412.jpg",
+        "alt": "moonlight-mile-1st-season-lift-off"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ムーンライトマイル 1st シーズン -Lift off-",
@@ -33,7 +37,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Moonlight_Mile_(manga"
+            "link": "http://en.wikipedia.org/wiki/Moonlight_Mile_%28manga%29#Anime"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "ib: Instant Bullet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164693.jpg",
+        "alt": "ib-instant-bullet"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "27",

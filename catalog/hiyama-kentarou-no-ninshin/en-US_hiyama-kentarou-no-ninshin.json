@@ -1,5 +1,9 @@
 {
     "title": "Hiyama Kentarou no Ninshin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246273.jpg",
+        "alt": "hiyama-kentarou-no-ninshin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

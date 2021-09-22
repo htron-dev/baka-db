@@ -1,5 +1,9 @@
 {
     "title": "Touch, Shiyo! Love Application: Boku to Unmei no Kanojo-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/178442.jpg",
+        "alt": "touch-shiyo-love-application-boku-to-unmei-no-kanojo-tachi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

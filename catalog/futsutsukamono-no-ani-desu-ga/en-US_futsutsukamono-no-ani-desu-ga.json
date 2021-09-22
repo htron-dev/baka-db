@@ -1,5 +1,9 @@
 {
     "title": "Futsutsukamono no Ani desu ga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165068.jpg",
+        "alt": "futsutsukamono-no-ani-desu-ga"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "28",

@@ -1,5 +1,9 @@
 {
     "title": "Amai Wana de Torokasete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/137935.jpg",
+        "alt": "amai-wana-de-torokasete"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "4",

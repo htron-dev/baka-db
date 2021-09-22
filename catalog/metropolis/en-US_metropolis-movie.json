@@ -1,5 +1,9 @@
 {
     "title": "Metropolis",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/75601.jpg",
+        "alt": "metropolis"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "メトロポリス",
@@ -35,7 +39,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Metropolis_(anime"
+            "link": "http://en.wikipedia.org/wiki/Metropolis_%28anime%29"
         }
     ]
 }

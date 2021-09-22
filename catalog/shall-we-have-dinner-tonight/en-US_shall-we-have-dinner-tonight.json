@@ -1,5 +1,9 @@
 {
     "title": "Shall we Have Dinner Tonight?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180894.jpg",
+        "alt": "shall-we-have-dinner-tonight"
+    },
     "type": "manhwa",
     "volumes": "3",
     "chapters": "46",

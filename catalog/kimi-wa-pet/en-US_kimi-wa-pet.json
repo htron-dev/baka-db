@@ -1,5 +1,9 @@
 {
     "title": "Kimi wa Pet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165611.jpg",
+        "alt": "kimi-wa-pet"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "82",

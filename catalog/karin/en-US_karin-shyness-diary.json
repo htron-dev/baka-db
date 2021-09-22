@@ -1,5 +1,9 @@
 {
     "title": "Karin Shyness Diary",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/39826.jpg",
+        "alt": "karin-shyness-diary"
+    },
     "type": "light-novel",
     "volumes": "2",
     "tags": [

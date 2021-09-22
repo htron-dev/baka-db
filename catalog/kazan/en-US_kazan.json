@@ -1,5 +1,9 @@
 {
     "title": "Kazan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/129023.jpg",
+        "alt": "kazan"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "52",

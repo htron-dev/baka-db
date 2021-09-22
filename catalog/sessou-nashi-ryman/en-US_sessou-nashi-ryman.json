@@ -1,5 +1,9 @@
 {
     "title": "Sessou Nashi Ryman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/96057.jpg",
+        "alt": "sessou-nashi-ryman"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

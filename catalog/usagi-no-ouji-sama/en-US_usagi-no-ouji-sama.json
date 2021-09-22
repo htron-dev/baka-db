@@ -1,5 +1,9 @@
 {
     "title": "Usagi no Ouji-sama.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/143541.jpg",
+        "alt": "usagi-no-ouji-sama"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

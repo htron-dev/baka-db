@@ -1,5 +1,9 @@
 {
     "title": "Nobunaga!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/150491.jpg",
+        "alt": "nobunaga"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "のぶながっ!",

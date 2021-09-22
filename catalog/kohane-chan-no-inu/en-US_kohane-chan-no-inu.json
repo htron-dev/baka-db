@@ -1,5 +1,9 @@
 {
     "title": "Kohane-chan no Inu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191670.jpg",
+        "alt": "kohane-chan-no-inu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

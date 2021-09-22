@@ -1,5 +1,9 @@
 {
     "title": "Mangaka-san to Assistant-san to",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/51369.jpg",
+        "alt": "mangaka-san-to-assistant-san-to"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "160",

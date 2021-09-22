@@ -1,5 +1,9 @@
 {
     "title": "Sumeba Miyako no Cosmos-sou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/143191.jpg",
+        "alt": "sumeba-miyako-no-cosmos-sou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

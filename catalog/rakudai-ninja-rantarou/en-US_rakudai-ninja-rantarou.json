@@ -1,5 +1,9 @@
 {
     "title": "Rakudai Ninja Rantarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/46903.jpg",
+        "alt": "rakudai-ninja-rantarou"
+    },
     "type": "manga",
     "volumes": "65",
     "chapters": "366",

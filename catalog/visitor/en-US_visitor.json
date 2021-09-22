@@ -1,5 +1,9 @@
 {
     "title": "Visitor",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/149279.jpg",
+        "alt": "visitor"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "30",

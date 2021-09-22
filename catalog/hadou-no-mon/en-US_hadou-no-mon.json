@@ -1,5 +1,9 @@
 {
     "title": "Hadou no Mon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/44709.jpg",
+        "alt": "hadou-no-mon"
+    },
     "type": "manga",
     "original_name": "破道の門",
     "start_date": "2008-09-22",

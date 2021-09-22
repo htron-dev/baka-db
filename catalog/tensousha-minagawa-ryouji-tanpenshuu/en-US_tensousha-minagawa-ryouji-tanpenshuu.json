@@ -1,5 +1,9 @@
 {
     "title": "Tensousha: Minagawa Ryouji Tanpenshuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247801.jpg",
+        "alt": "tensousha-minagawa-ryouji-tanpenshuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

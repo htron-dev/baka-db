@@ -1,5 +1,9 @@
 {
     "title": "Steins;Gate: Mugen Enten no Arc Light",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/146871.jpg",
+        "alt": "steins-gate-mugen-enten-no-arc-light"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

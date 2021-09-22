@@ -1,5 +1,9 @@
 {
     "title": "Rakuraku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40446.jpg",
+        "alt": "rakuraku"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

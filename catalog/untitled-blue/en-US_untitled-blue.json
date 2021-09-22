@@ -1,5 +1,9 @@
 {
     "title": "Untitled Blue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/247207.jpg",
+        "alt": "untitled-blue"
+    },
     "type": "manga",
     "original_name": "アンタイトル・ブルー",
     "start_date": "2020-04-25",

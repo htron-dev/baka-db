@@ -1,5 +1,9 @@
 {
     "title": "Viva la Vida!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/229018.jpg",
+        "alt": "viva-la-vida"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

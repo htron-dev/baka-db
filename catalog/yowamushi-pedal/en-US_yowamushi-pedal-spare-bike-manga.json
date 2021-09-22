@@ -1,5 +1,9 @@
 {
     "title": "Yowamushi Pedal: Spare Bike",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/145351.jpg",
+        "alt": "yowamushi-pedal-spare-bike"
+    },
     "type": "manga",
     "original_name": "弱虫ペダル SPARE BIKE",
     "start_date": "2012-08-16",

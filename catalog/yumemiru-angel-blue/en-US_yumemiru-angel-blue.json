@@ -1,5 +1,9 @@
 {
     "title": "Yumemiru Angel Blue",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35403.jpg",
+        "alt": "yumemiru-angel-blue"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "夢みるエンジェルブルー",

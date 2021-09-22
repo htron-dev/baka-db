@@ -1,5 +1,9 @@
 {
     "title": "Akurei Tsukai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/46787.jpg",
+        "alt": "akurei-tsukai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

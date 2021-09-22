@@ -1,5 +1,9 @@
 {
     "title": "Dainihon Samurai Girl: Shintou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/154547.jpg",
+        "alt": "dainihon-samurai-girl-shintou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "53",

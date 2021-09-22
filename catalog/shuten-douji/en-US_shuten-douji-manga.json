@@ -1,5 +1,9 @@
 {
     "title": "Shuten Douji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183640.jpg",
+        "alt": "shuten-douji"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "30",

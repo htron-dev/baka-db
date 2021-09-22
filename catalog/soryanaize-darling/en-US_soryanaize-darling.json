@@ -1,5 +1,9 @@
 {
     "title": "Soryanaize Darling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/11322.jpg",
+        "alt": "soryanaize-darling"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

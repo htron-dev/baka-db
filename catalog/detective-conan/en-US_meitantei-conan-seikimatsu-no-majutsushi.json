@@ -1,5 +1,9 @@
 {
     "title": "Meitantei Conan: Seikimatsu no Majutsushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/240058.jpg",
+        "alt": "meitantei-conan-seikimatsu-no-majutsushi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

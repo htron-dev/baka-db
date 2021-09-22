@@ -1,5 +1,9 @@
 {
     "title": "Rough",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/84859.jpg",
+        "alt": "rough"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "119",

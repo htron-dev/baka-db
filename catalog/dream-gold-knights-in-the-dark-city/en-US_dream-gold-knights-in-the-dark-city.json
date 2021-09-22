@@ -1,5 +1,9 @@
 {
     "title": "Dream Gold: Knights in the Dark City",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/121189.jpg",
+        "alt": "dream-gold-knights-in-the-dark-city"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "30",

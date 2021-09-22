@@ -1,5 +1,9 @@
 {
     "title": "Bishoujo Exorcist no Seisui? Mushiro Gohoubi desu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/168628.jpg",
+        "alt": "bishoujo-exorcist-no-seisui-mushiro-gohoubi-desu"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "5",

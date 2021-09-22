@@ -1,5 +1,9 @@
 {
     "title": "Shin Megami Tensei Gaiten: Hato no Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/126655.jpg",
+        "alt": "shin-megami-tensei-gaiten-hato-no-senki"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "真・女神転生外典 鳩の戦記",

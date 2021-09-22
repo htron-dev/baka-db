@@ -1,5 +1,9 @@
 {
     "title": "Sannin Gurashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/69909.jpg",
+        "alt": "sannin-gurashi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

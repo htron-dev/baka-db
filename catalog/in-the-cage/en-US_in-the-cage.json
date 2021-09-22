@@ -1,5 +1,9 @@
 {
     "title": "In the Cage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/223596.jpg",
+        "alt": "in-the-cage"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

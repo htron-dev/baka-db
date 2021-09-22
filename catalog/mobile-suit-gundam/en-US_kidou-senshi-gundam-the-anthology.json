@@ -1,5 +1,9 @@
 {
     "title": "Kidou Senshi Gundam: The Anthology",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/147401.jpg",
+        "alt": "kidou-senshi-gundam-the-anthology"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "33",

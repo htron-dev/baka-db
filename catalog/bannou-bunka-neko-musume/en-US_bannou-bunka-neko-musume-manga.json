@@ -1,5 +1,9 @@
 {
     "title": "Bannou Bunka Neko-Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/118589.jpg",
+        "alt": "bannou-bunka-neko-musume"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

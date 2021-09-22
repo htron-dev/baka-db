@@ -1,12 +1,16 @@
 {
     "title": "Saiki Kusuo no Ψ-nan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/80167.jpg",
+        "alt": "saiki-kusuo-no-ψ-nan"
+    },
     "type": "tv-serie",
     "episodes": "120",
     "original_name": "斉木楠雄の Ψ 難",
     "start_date": "2016-07-04",
     "end_date": "2016-07-04",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Seishun wa Zankoku ja nai (青春は残酷じゃない)\" by Natsuki Hanae (eps 1-60)",
+    "ending_song": "#1: \"Ψ desu I LIKE YOU\" by Dempagumi.inc",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",

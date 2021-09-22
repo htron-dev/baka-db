@@ -1,5 +1,9 @@
 {
     "title": "Ouhi Margot",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/196704.jpg",
+        "alt": "ouhi-margot"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "39",

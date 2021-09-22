@@ -1,5 +1,9 @@
 {
     "title": "Avare Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/151377.jpg",
+        "alt": "avare-senki"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "アヴァール戦記",

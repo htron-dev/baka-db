@@ -1,5 +1,9 @@
 {
     "title": "Seikai no Monshou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/125263.jpg",
+        "alt": "seikai-no-monshou"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "39",

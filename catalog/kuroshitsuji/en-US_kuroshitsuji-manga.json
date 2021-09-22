@@ -1,5 +1,9 @@
 {
     "title": "Kuroshitsuji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28128.jpg",
+        "alt": "kuroshitsuji"
+    },
     "type": "manga",
     "original_name": "黒執事",
     "start_date": "2006-09-16",

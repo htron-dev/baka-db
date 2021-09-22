@@ -1,5 +1,9 @@
 {
     "title": "Broots",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/68425.jpg",
+        "alt": "broots"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "BROOTS",

@@ -1,5 +1,9 @@
 {
     "title": "Mizu wa Umi ni Mukatte Nagareru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226118.jpg",
+        "alt": "mizu-wa-umi-ni-mukatte-nagareru"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "24",

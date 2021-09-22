@@ -1,5 +1,9 @@
 {
     "title": "Hotel Hishinumarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/181639.jpg",
+        "alt": "hotel-hishinumarou"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

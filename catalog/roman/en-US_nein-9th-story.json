@@ -1,5 +1,9 @@
 {
     "title": "Nein: 9th Story",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/190236.jpg",
+        "alt": "nein-9th-story"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

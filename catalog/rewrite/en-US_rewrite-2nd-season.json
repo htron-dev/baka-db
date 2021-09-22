@@ -1,12 +1,16 @@
 {
     "title": "Rewrite 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/83930.jpg",
+        "alt": "rewrite-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "Rewrite 2nd シーズン",
     "start_date": "2017-01-14",
     "end_date": "2017-01-14",
     "opening_song": "\"Last Desire\" by Maon Kurosaki (eps 4-10)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Watari no Uta (渡りの詩)\" by Aoi Tada (ep 3)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

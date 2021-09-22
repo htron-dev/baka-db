@@ -1,5 +1,9 @@
 {
     "title": "Bungou Stray Dogs Beast",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/234643.jpg",
+        "alt": "bungou-stray-dogs-beast"
+    },
     "type": "manga",
     "original_name": "文豪ストレイドッグス BEAST",
     "start_date": "2019-12-26",

@@ -1,5 +1,9 @@
 {
     "title": "Boku no Noroi no Kyuuketsukihime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/248038.jpg",
+        "alt": "boku-no-noroi-no-kyuuketsukihime"
+    },
     "type": "manga",
     "original_name": "僕の呪いの吸血姫",
     "start_date": "2021-07-12",

@@ -1,5 +1,9 @@
 {
     "title": "Denpa-teki na Kanojo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/239931.jpg",
+        "alt": "denpa-teki-na-kanojo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "7",

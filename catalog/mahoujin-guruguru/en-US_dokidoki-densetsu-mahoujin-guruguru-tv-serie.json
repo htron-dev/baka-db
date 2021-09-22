@@ -1,12 +1,16 @@
 {
     "title": "Dokidoki♡Densetsu: Mahoujin Guruguru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/7581.jpg",
+        "alt": "dokidoki♡-densetsu-mahoujin-guruguru"
+    },
     "type": "tv-serie",
     "episodes": "38",
     "original_name": "ドキドキ ♡ 伝説 魔法陣グルグル",
     "start_date": "2000-04-04",
     "end_date": "2000-04-04",
     "opening_song": "\"Dynamite Heaven (ダイナマイトヘブン)\" by 2Shy4U",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Nishi no Sora e (西の空へ)\" by Spoon (eps 1-25)",
     "rating": "G - All Ages",
     "tags": [
         "adventure",

@@ -1,5 +1,9 @@
 {
     "title": "Raimei no Zaji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/44527.jpg",
+        "alt": "raimei-no-zaji"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

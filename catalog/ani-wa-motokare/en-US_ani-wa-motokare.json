@@ -1,5 +1,9 @@
 {
     "title": "Ani wa Motokare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/207292.jpg",
+        "alt": "ani-wa-motokare"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

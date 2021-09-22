@@ -1,5 +1,9 @@
 {
     "title": "Maken-Ki! Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/80502.jpg",
+        "alt": "maken-ki-specials"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "マケン姫っ！ ドキドキッ！マケン姫っ！秘密の訓練",

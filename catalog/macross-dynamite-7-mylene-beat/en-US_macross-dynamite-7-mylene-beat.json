@@ -1,5 +1,9 @@
 {
     "title": "Macross Dynamite: 7 Mylene Beat",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/1798.jpg",
+        "alt": "macross-dynamite-7-mylene-beat"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

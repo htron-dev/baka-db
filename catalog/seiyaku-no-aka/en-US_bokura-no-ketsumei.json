@@ -1,5 +1,9 @@
 {
     "title": "Bokura no Ketsumei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238856.jpg",
+        "alt": "bokura-no-ketsumei"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

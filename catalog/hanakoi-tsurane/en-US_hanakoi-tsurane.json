@@ -1,5 +1,9 @@
 {
     "title": "Hanakoi Tsurane",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179134.jpg",
+        "alt": "hanakoi-tsurane"
+    },
     "type": "manga",
     "original_name": "花恋つらね",
     "start_date": "2015-11-14",

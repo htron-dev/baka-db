@@ -1,5 +1,9 @@
 {
     "title": "Lion Coeur Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234812.jpg",
+        "alt": "lion-coeur-senki"
+    },
     "type": "manga",
     "original_name": "リオンクール戦記",
     "start_date": "2019-09-06",

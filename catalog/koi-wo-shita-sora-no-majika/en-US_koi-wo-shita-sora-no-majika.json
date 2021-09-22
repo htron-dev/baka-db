@@ -1,5 +1,9 @@
 {
     "title": "Koi wo Shita Sora no Majika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/148199.jpg",
+        "alt": "koi-wo-shita-sora-no-majika"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Mutekitekki Spin-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238828.jpg",
+        "alt": "mutekitekki-spin-chan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

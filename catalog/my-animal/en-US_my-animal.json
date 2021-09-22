@@ -1,5 +1,9 @@
 {
     "title": "My Animal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/149627.jpg",
+        "alt": "my-animal"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "36",

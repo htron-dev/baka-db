@@ -1,5 +1,9 @@
 {
     "title": "Itoshi no Ko Charlotte",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/234916.jpg",
+        "alt": "itoshi-no-ko-charlotte"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "27",

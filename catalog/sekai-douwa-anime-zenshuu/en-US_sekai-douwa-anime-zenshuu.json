@@ -1,5 +1,9 @@
 {
     "title": "Sekai Douwa Anime Zenshuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/17005.jpg",
+        "alt": "sekai-douwa-anime-zenshuu"
+    },
     "type": "ova",
     "episodes": "10",
     "original_name": "世界童話アニメ全集",

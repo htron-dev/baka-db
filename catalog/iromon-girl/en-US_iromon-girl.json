@@ -1,5 +1,9 @@
 {
     "title": "Iromon Girl",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/173372.jpg",
+        "alt": "iromon-girl"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

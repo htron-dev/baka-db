@@ -1,5 +1,9 @@
 {
     "title": "Bakuten!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246370.jpg",
+        "alt": "bakuten"
+    },
     "type": "manga",
     "original_name": "バクテン!!",
     "start_date": "2021-01-22",

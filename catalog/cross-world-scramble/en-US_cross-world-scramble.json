@@ -1,5 +1,9 @@
 {
     "title": "Cross World Scramble",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176237.jpg",
+        "alt": "cross-world-scramble"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "23",

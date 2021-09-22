@@ -1,5 +1,9 @@
 {
     "title": "W-Juliet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162125.jpg",
+        "alt": "w-juliet"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "79",

@@ -1,5 +1,9 @@
 {
     "title": "Minikui Ahiru no Ko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/82166.jpg",
+        "alt": "minikui-ahiru-no-ko"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "みにくいあひるの子",

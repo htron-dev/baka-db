@@ -1,5 +1,9 @@
 {
     "title": "Owari no Chronicle",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/37931.jpg",
+        "alt": "owari-no-chronicle"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "終わりのクロニクル",

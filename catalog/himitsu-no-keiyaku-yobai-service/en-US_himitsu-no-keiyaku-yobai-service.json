@@ -1,5 +1,9 @@
 {
     "title": "Himitsu no Keiyaku: Yobai Service",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/193651.jpg",
+        "alt": "himitsu-no-keiyaku-yobai-service"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

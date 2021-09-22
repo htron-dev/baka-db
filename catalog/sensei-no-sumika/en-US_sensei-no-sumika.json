@@ -1,5 +1,9 @@
 {
     "title": "Sensei no Sumika",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/148845.jpg",
+        "alt": "sensei-no-sumika"
+    },
     "type": "manga",
     "original_name": "先生のすみか",
     "start_date": "2012-12-22",

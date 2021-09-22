@@ -1,5 +1,9 @@
 {
     "title": "Radio de Go!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/43577.jpg",
+        "alt": "radio-de-go"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "39",

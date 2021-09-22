@@ -1,5 +1,9 @@
 {
     "title": "Aries",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/59267.jpg",
+        "alt": "aries"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "136",

@@ -1,5 +1,9 @@
 {
     "title": "Wave!!: Surfing Yappe!! (TV)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1807/113870.jpg",
+        "alt": "wave-surfing-yappe-tv"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "WAVE!!〜サーフィンやっぺ!!〜",

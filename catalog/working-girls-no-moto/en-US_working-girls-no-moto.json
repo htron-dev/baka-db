@@ -1,5 +1,9 @@
 {
     "title": "Working Girls no Moto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/28251.jpg",
+        "alt": "working-girls-no-moto"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ワーキングガールの素",

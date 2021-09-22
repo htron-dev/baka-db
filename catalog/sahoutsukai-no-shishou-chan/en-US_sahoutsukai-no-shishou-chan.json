@@ -1,5 +1,9 @@
 {
     "title": "Sahoutsukai no Shishou-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/197770.jpg",
+        "alt": "sahoutsukai-no-shishou-chan"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "13",

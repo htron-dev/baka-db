@@ -1,5 +1,9 @@
 {
     "title": "Skip Beat!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26110.jpg",
+        "alt": "skip-beat"
+    },
     "type": "manga",
     "original_name": "スキップ・ビート！",
     "start_date": "2002-02-15",

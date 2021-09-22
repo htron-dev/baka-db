@@ -1,5 +1,9 @@
 {
     "title": "Shinjou Kokyuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/236698.jpg",
+        "alt": "shinjou-kokyuu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Suki ni Nante, Naru Wakenai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171698.jpg",
+        "alt": "suki-ni-nante-naru-wakenai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

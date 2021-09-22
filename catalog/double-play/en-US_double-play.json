@@ -1,5 +1,9 @@
 {
     "title": "Double Play",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/241397.jpg",
+        "alt": "double-play"
+    },
     "type": "manga",
     "original_name": "だぶるぷれい",
     "start_date": "2020-02-10",

@@ -1,5 +1,9 @@
 {
     "title": "Heibai Wushang",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/88093.jpg",
+        "alt": "heibai-wushang"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "黑白无双",

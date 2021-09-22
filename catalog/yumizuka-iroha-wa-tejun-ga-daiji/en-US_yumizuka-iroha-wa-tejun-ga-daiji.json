@@ -1,5 +1,9 @@
 {
     "title": "Yumizuka Iroha wa Tejun ga Daiji!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/202584.jpg",
+        "alt": "yumizuka-iroha-wa-tejun-ga-daiji"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "60",

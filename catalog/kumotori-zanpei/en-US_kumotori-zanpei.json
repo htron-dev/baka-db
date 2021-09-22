@@ -1,5 +1,9 @@
 {
     "title": "Kumotori Zanpei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/45385.jpg",
+        "alt": "kumotori-zanpei"
+    },
     "type": "manga",
     "volumes": "34",
     "original_name": "雲盗り暫平",

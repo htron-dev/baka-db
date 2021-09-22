@@ -1,5 +1,9 @@
 {
     "title": "Ore no Kanojo wa Maria-sama, Imouto wa Goshujinsama",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/162580.jpg",
+        "alt": "ore-no-kanojo-wa-maria-sama-imouto-wa-goshujinsama"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "12",

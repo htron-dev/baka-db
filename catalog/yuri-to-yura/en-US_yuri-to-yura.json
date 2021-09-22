@@ -1,5 +1,9 @@
 {
     "title": "Yuri to Yura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/116279.jpg",
+        "alt": "yuri-to-yura"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

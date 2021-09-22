@@ -1,5 +1,9 @@
 {
     "title": "Hello Kitty no Okaze wo Hiita Santa-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/70979.jpg",
+        "alt": "hello-kitty-no-okaze-wo-hiita-santa-san"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ハローキティのおかぜをひいたサンタさん",

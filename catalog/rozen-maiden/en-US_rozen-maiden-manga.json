@@ -1,5 +1,9 @@
 {
     "title": "Rozen Maiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/169707.jpg",
+        "alt": "rozen-maiden"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "46",

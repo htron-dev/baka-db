@@ -1,5 +1,9 @@
 {
     "title": "Anata ga Naku made Fumu no wo Yamenai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164341.jpg",
+        "alt": "anata-ga-naku-made-fumu-no-wo-yamenai"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "9",

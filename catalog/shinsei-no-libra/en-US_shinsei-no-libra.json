@@ -1,5 +1,9 @@
 {
     "title": "Shinsei no Libra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/216148.jpg",
+        "alt": "shinsei-no-libra"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "29",

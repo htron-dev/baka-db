@@ -1,5 +1,9 @@
 {
     "title": "Kimi wa Kanata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1724/109743.jpg",
+        "alt": "kimi-wa-kanata"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "君は彼方",

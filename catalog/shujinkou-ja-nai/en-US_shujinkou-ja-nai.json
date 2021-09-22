@@ -1,5 +1,9 @@
 {
     "title": "Shujinkou ja Nai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244988.jpg",
+        "alt": "shujinkou-ja-nai"
+    },
     "type": "manga",
     "original_name": "主人公じゃない!",
     "start_date": "2020-12-26",

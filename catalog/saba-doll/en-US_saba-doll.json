@@ -1,5 +1,9 @@
 {
     "title": "Saba Doll",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/68311.jpg",
+        "alt": "saba-doll"
+    },
     "type": "manga",
     "original_name": "さばドル",
     "start_date": "2012-01-16",

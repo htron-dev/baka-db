@@ -1,5 +1,9 @@
 {
     "title": "Wagahai wa Neko de Aru, Shokugyou wa Barista.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/243872.jpg",
+        "alt": "wagahai-wa-neko-de-aru-shokugyou-wa-barista"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "16",

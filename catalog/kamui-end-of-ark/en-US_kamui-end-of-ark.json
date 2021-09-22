@@ -1,5 +1,9 @@
 {
     "title": "Kamui: End of Ark",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/97989.jpg",
+        "alt": "kamui-end-of-ark"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "神威 End of Ark",

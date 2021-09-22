@@ -1,5 +1,9 @@
 {
     "title": "Suzu ga Ne no Sayasaya",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168478.jpg",
+        "alt": "suzu-ga-ne-no-sayasaya"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Star Driver the Movie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/57249.jpg",
+        "alt": "star-driver-the-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "スタードライバー THE MOVIE",

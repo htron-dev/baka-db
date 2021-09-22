@@ -1,5 +1,9 @@
 {
     "title": "Thermae Romae",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/35635.jpg",
+        "alt": "thermae-romae"
+    },
     "type": "tv-serie",
     "episodes": "3",
     "original_name": "テルマエ・ロマエ",

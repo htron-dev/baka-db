@@ -1,5 +1,9 @@
 {
     "title": "Gegege no Kitarou (1985 Movie)",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/21017.jpg",
+        "alt": "gegege-no-kitarou-1985-movie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ゲゲゲの鬼太郎",

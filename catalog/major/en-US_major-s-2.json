@@ -1,5 +1,9 @@
 {
     "title": "Major S2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/73972.jpg",
+        "alt": "major-s-2"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "メジャー (第 2 シリーズ)",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Major_(manga"
+            "link": "http://en.wikipedia.org/wiki/Major_%28manga%29"
         }
     ]
 }

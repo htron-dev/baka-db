@@ -1,5 +1,9 @@
 {
     "title": "Jigokuren: Love in the Hell",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188893.jpg",
+        "alt": "jigokuren-love-in-the-hell"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

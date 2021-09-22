@@ -1,5 +1,9 @@
 {
     "title": "B'T X",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1771/100394.jpg",
+        "alt": "bt-x"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "B`T X 　ビート・エックス",

@@ -1,5 +1,9 @@
 {
     "title": "Knockin' on Your Door",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/116505.jpg",
+        "alt": "knockin-on-your-door"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "knockin' on your door",

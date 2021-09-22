@@ -1,5 +1,9 @@
 {
     "title": "Ani to wa Koinaka nan desu ga.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/170742.jpg",
+        "alt": "ani-to-wa-koinaka-nan-desu-ga"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

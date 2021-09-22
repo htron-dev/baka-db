@@ -1,5 +1,9 @@
 {
     "title": "Odette",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161529.jpg",
+        "alt": "odette"
+    },
     "type": "manga",
     "original_name": "オデット ODETTE",
     "start_date": "2014-07-17",

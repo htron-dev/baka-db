@@ -1,5 +1,9 @@
 {
     "title": "Hlöcclinie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/147873.jpg",
+        "alt": "hlocclinie"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

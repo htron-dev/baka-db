@@ -1,5 +1,9 @@
 {
     "title": "Brave Story: Shinsetsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5715.jpg",
+        "alt": "brave-story-shinsetsu"
+    },
     "type": "manga",
     "volumes": "20",
     "chapters": "199",

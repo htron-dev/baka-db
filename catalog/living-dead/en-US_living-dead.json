@@ -1,5 +1,9 @@
 {
     "title": "Living Dead!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/144459.jpg",
+        "alt": "living-dead"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "59",

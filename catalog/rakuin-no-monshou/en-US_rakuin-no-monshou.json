@@ -1,5 +1,9 @@
 {
     "title": "Rakuin no Monshou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158574.jpg",
+        "alt": "rakuin-no-monshou"
+    },
     "type": "light-novel",
     "volumes": "12",
     "chapters": "106",

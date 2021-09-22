@@ -1,5 +1,9 @@
 {
     "title": "Tsukumo-kun no Ai wa Machigatteiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176989.jpg",
+        "alt": "tsukumo-kun-no-ai-wa-machigatteiru"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

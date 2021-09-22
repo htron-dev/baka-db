@@ -1,5 +1,9 @@
 {
     "title": "BIGOTRE Capture Mission",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1326/107916.jpg",
+        "alt": "bigotre-capture-mission"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "BIGOTRE Capture Mission",

@@ -1,5 +1,9 @@
 {
     "title": "Fushigi Fushigi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/55483.jpg",
+        "alt": "fushigi-fushigi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

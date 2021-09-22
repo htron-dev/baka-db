@@ -1,5 +1,9 @@
 {
     "title": "U・BU U・BU",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5938.jpg",
+        "alt": "u・bu-u・bu"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "U・BU U・BU",

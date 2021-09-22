@@ -1,5 +1,9 @@
 {
     "title": "Chaos Dragon: Sekiryuu Seneki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/159843.jpg",
+        "alt": "chaos-dragon-sekiryuu-seneki"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "ケイオスドラゴン 赤竜戦役",

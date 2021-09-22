@@ -1,5 +1,9 @@
 {
     "title": "Guruguru Tekuteku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228136.jpg",
+        "alt": "guruguru-tekuteku"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "ぐるぐるてくてく",

@@ -1,5 +1,9 @@
 {
     "title": "Malasong Wangzi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1856/115500.jpg",
+        "alt": "malasong-wangzi"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "马拉松王子",

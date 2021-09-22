@@ -1,5 +1,9 @@
 {
     "title": "Botsuichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244984.jpg",
+        "alt": "botsuichi"
+    },
     "type": "manga",
     "original_name": "没イチ",
     "start_date": "2020-12-08",

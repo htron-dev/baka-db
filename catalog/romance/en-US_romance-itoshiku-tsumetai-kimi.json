@@ -1,5 +1,9 @@
 {
     "title": "Romance - Itoshiku Tsumetai Kimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/17230.jpg",
+        "alt": "romance-itoshiku-tsumetai-kimi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "17",

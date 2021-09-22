@@ -1,5 +1,9 @@
 {
     "title": "Meine Liebe: Eien Naru Traumerei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/159023.jpg",
+        "alt": "meine-liebe-eien-naru-traumerei"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "11",

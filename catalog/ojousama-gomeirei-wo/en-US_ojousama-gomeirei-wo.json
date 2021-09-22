@@ -1,5 +1,9 @@
 {
     "title": "Ojousama Gomeirei wo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/189880.jpg",
+        "alt": "ojousama-gomeirei-wo"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Houkago Sword Club",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/115247.jpg",
+        "alt": "houkago-sword-club"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

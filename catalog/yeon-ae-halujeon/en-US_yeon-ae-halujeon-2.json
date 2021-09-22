@@ -1,5 +1,9 @@
 {
     "title": "Yeon-ae Halujeon 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1726/109013.jpg",
+        "alt": "yeon-ae-halujeon-2"
+    },
     "type": "ona",
     "episodes": "15",
     "original_name": "연애하루전2",

@@ -1,5 +1,9 @@
 {
     "title": "Hikkatsu!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/5118.jpg",
+        "alt": "hikkatsu"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

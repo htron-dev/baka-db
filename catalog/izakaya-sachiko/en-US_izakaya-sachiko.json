@@ -1,5 +1,9 @@
 {
     "title": "Izakaya Sachiko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180960.jpg",
+        "alt": "izakaya-sachiko"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "居酒屋さちこ",

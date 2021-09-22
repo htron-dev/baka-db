@@ -1,5 +1,9 @@
 {
     "title": "Himitsu Sentai Momoider",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/171997.jpg",
+        "alt": "himitsu-sentai-momoider"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

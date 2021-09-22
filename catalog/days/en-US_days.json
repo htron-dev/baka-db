@@ -1,5 +1,9 @@
 {
     "title": "Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/164463.jpg",
+        "alt": "days"
+    },
     "type": "manga",
     "volumes": "42",
     "chapters": "376",

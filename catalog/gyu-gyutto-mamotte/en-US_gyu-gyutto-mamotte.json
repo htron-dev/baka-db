@@ -1,5 +1,9 @@
 {
     "title": "Gyu Gyutto Mamotte!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/17636.jpg",
+        "alt": "gyu-gyutto-mamotte"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ぎゅぎゅっと守って!",

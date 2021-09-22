@@ -1,5 +1,9 @@
 {
     "title": "Kokuchou no Psychedelica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180791.jpg",
+        "alt": "kokuchou-no-psychedelica"
+    },
     "type": "light-novel",
     "original_name": "黒蝶のサイケデリカ",
     "start_date": "2015-11-20",

@@ -1,5 +1,9 @@
 {
     "title": "Bocchan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/22951.jpg",
+        "alt": "bocchan"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "坊っちゃん",

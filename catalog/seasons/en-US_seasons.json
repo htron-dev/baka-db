@@ -1,5 +1,9 @@
 {
     "title": "Seasons",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/73769.jpg",
+        "alt": "seasons"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

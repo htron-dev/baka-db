@@ -1,5 +1,9 @@
 {
     "title": "Sankaku Opera",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194474.jpg",
+        "alt": "sankaku-opera"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

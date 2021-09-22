@@ -1,5 +1,9 @@
 {
     "title": "Hokuto no Ken: Raoh Gaiden Ten no Haoh",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/18181.jpg",
+        "alt": "hokuto-no-ken-raoh-gaiden-ten-no-haoh"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "北斗の拳 ラオウ外伝 天の覇王",

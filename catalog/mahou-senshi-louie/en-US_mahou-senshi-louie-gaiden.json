@@ -1,5 +1,9 @@
 {
     "title": "Mahou Senshi Louie Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/123669.jpg",
+        "alt": "mahou-senshi-louie-gaiden"
+    },
     "type": "light-novel",
     "volumes": "3",
     "original_name": "魔法戦士リウイ 外伝",

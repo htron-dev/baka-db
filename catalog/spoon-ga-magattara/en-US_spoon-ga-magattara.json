@@ -1,5 +1,9 @@
 {
     "title": "Spoon ga Magattara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245210.jpg",
+        "alt": "spoon-ga-magattara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

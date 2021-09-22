@@ -1,5 +1,9 @@
 {
     "title": "Manga Grimm Douwa: Jinshin Baibai no Yami-hen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/137337.jpg",
+        "alt": "manga-grimm-douwa-jinshin-baibai-no-yami-hen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

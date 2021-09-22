@@ -1,5 +1,9 @@
 {
     "title": "Mayoiga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/79413.jpg",
+        "alt": "mayoiga"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "迷家-マヨイガ-",
@@ -35,7 +39,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://en.wikipedia.org/wiki/The_Lost_Village_(anime"
+            "link": "https://en.wikipedia.org/wiki/The_Lost_Village_%28anime%29"
         }
     ]
 }

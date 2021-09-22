@@ -1,5 +1,9 @@
 {
     "title": "Shiranai Kao",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14579.jpg",
+        "alt": "shiranai-kao"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Musou Ryuugeki no Slayer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/184993.jpg",
+        "alt": "musou-ryuugeki-no-slayer"
+    },
     "type": "light-novel",
     "original_name": "無双竜撃の継承者〈スレイヤー〉",
     "start_date": "2016-10-25",

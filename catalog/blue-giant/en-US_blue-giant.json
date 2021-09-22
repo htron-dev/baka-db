@@ -1,5 +1,9 @@
 {
     "title": "Blue Giant",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/148869.jpg",
+        "alt": "blue-giant"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "80",

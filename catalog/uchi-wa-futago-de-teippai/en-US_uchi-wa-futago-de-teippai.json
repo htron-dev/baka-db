@@ -1,5 +1,9 @@
 {
     "title": "Uchi wa Futago de Teippai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161088.jpg",
+        "alt": "uchi-wa-futago-de-teippai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

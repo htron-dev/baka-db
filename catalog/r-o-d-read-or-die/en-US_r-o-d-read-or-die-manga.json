@@ -1,5 +1,9 @@
 {
     "title": "R.O.D: Read or Die",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178269.jpg",
+        "alt": "r-o-d-read-or-die"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "30",

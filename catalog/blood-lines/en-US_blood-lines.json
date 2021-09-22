@@ -1,5 +1,9 @@
 {
     "title": "Blood Lines",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/41293.jpg",
+        "alt": "blood-lines"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "ブラッドラインズ",

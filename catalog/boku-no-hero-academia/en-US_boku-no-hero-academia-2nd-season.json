@@ -1,12 +1,16 @@
 {
     "title": "Boku no Hero Academia 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/85221.jpg",
+        "alt": "boku-no-hero-academia-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "僕のヒーローアカデミア",
     "start_date": "2017-04-01",
     "end_date": "2017-04-01",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Peace Sign (ピースサイン)\" by Kenshi Yonezu (eps 1-13)",
+    "ending_song": "#1: \"Dakara, Hitori ja nai (だから, ひとりじゃない)\" by Little Glee Monster (eps 1-13)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

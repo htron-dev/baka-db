@@ -1,12 +1,16 @@
 {
     "title": "Major S5",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/75218.jpg",
+        "alt": "major-s-5"
+    },
     "type": "tv-serie",
     "episodes": "25",
     "original_name": "メジャー",
     "start_date": "2009-01-10",
     "end_date": "2009-01-10",
     "opening_song": "\"Hey! Hey! Alright\" by SCHA DARA PARR feat. Kaela Kimura",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Stay With Me\" by Hitomi Shimatani (eps 1-16)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "comedy",
@@ -35,7 +39,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Major_(manga"
+            "link": "http://en.wikipedia.org/wiki/Major_%28manga%29"
         }
     ]
 }

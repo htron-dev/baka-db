@@ -1,5 +1,9 @@
 {
     "title": "GeGeGe no Kitarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/208994.jpg",
+        "alt": "ge-ge-ge-no-kitarou"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "117",

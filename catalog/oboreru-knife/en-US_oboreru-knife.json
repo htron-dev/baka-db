@@ -1,5 +1,9 @@
 {
     "title": "Oboreru Knife",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/196138.jpg",
+        "alt": "oboreru-knife"
+    },
     "type": "manga",
     "volumes": "17",
     "chapters": "64",

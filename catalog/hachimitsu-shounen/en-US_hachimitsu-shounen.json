@@ -1,5 +1,9 @@
 {
     "title": "Hachimitsu Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/15230.jpg",
+        "alt": "hachimitsu-shounen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

@@ -1,5 +1,9 @@
 {
     "title": "Kon Kon KoKon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/5212.jpg",
+        "alt": "kon-kon-ko-kon"
+    },
     "type": "manga",
     "original_name": "こんこんここん",
     "start_date": "2007-06-13",

@@ -1,5 +1,9 @@
 {
     "title": "Ikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/191834.jpg",
+        "alt": "ikki"
+    },
     "type": "manhwa",
     "volumes": "5",
     "chapters": "80",

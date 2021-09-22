@@ -1,5 +1,9 @@
 {
     "title": "Kabuki - Tsuki no Shou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/14608.jpg",
+        "alt": "kabuki-tsuki-no-shou"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "カブキ～月の章～",

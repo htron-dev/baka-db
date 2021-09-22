@@ -1,5 +1,9 @@
 {
     "title": "Hanoka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1710/101586.jpg",
+        "alt": "hanoka"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "HANOKA ～葉ノ香～",

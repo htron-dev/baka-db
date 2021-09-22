@@ -1,5 +1,9 @@
 {
     "title": "Panorama of Hell",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/38441.jpg",
+        "alt": "panorama-of-hell"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

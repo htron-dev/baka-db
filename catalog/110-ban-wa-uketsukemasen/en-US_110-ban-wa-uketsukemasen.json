@@ -1,5 +1,9 @@
 {
     "title": "110-Ban wa Uketsukemasen!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/78455.jpg",
+        "alt": "110-ban-wa-uketsukemasen"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

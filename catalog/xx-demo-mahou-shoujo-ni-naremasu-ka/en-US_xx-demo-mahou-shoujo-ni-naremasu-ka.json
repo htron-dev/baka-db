@@ -1,5 +1,9 @@
 {
     "title": "xx demo Mahou Shoujo ni Naremasu ka?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/220653.jpg",
+        "alt": "xx-demo-mahou-shoujo-ni-naremasu-ka"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "23",

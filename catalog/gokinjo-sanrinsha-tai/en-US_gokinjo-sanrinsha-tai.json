@@ -1,5 +1,9 @@
 {
     "title": "Gokinjo Sanrinsha-tai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/227566.jpg",
+        "alt": "gokinjo-sanrinsha-tai"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

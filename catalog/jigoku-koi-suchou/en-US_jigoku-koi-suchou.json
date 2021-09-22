@@ -1,5 +1,9 @@
 {
     "title": "Jigoku Koi Suchou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/120069.jpg",
+        "alt": "jigoku-koi-suchou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

@@ -1,5 +1,9 @@
 {
     "title": "Tenshi no Mure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5185.jpg",
+        "alt": "tenshi-no-mure"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

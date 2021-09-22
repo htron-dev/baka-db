@@ -1,5 +1,9 @@
 {
     "title": "Nakute Nanakusa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/113301.jpg",
+        "alt": "nakute-nanakusa"
+    },
     "type": "manga",
     "chapters": "6",
     "original_name": "なくてななくさ",

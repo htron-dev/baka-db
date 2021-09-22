@@ -1,5 +1,9 @@
 {
     "title": "Momo-Pan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/35713.jpg",
+        "alt": "momo-pan"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ももパン",
@@ -12,7 +16,6 @@
         "Ryoumoto",
         "Hatsumi (Story & Art)"
     ],
-    "sinopse": "",
     "links": [
         {
             "text": "My Anime list",

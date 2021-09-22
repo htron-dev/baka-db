@@ -1,5 +1,9 @@
 {
     "title": "Ever 17",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/117895.jpg",
+        "alt": "ever-17"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

@@ -1,5 +1,9 @@
 {
     "title": "87 Clockers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/140759.jpg",
+        "alt": "87-clockers"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "53",

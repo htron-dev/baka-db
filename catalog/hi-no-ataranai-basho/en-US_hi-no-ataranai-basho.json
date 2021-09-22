@@ -1,5 +1,9 @@
 {
     "title": "Hi no Ataranai Basho",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/231738.jpg",
+        "alt": "hi-no-ataranai-basho"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "14",

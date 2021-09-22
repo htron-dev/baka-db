@@ -1,5 +1,9 @@
 {
     "title": "Ai City",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/9864.jpg",
+        "alt": "ai-city"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "アイ・シティ",

@@ -1,5 +1,9 @@
 {
     "title": "D-Crackers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/112963.jpg",
+        "alt": "d-crackers"
+    },
     "type": "light-novel",
     "volumes": "8",
     "original_name": "D クラッカーズ",

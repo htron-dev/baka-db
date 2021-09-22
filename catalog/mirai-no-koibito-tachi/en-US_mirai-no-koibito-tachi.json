@@ -1,5 +1,9 @@
 {
     "title": "Mirai no Koibito-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/175531.jpg",
+        "alt": "mirai-no-koibito-tachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "12",

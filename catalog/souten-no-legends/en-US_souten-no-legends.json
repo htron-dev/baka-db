@@ -1,5 +1,9 @@
 {
     "title": "Souten no Legends",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/161045.jpg",
+        "alt": "souten-no-legends"
+    },
     "type": "light-novel",
     "volumes": "2",
     "original_name": "蒼天のレジェンズ",

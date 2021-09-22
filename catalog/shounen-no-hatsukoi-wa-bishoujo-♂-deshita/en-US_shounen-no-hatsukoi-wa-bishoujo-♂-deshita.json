@@ -1,5 +1,9 @@
 {
     "title": "Shounen no Hatsukoi wa Bishoujo ♂ deshita.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/221492.jpg",
+        "alt": "shounen-no-hatsukoi-wa-bishoujo-♂-deshita"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

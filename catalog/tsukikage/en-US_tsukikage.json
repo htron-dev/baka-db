@@ -1,5 +1,9 @@
 {
     "title": "Tsukikage",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172544.jpg",
+        "alt": "tsukikage"
+    },
     "type": "manga",
     "original_name": "ツキカゲ",
     "start_date": "2014-01-27",

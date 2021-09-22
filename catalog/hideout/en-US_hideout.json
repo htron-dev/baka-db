@@ -1,5 +1,9 @@
 {
     "title": "Hideout",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/65719.jpg",
+        "alt": "hideout"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

@@ -1,5 +1,9 @@
 {
     "title": "Yamato no Hi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/229539.jpg",
+        "alt": "yamato-no-hi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

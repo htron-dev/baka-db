@@ -1,11 +1,15 @@
 {
     "title": "Honoo no Alpenrose: Judy &amp; Randy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/6776.jpg",
+        "alt": "honoo-no-alpenrose-judy-amp-randy"
+    },
     "type": "tv-serie",
     "episodes": "20",
     "original_name": "炎のアルペンローゼ・ジュディ＆ランディ",
     "start_date": "1985-04-08",
     "end_date": "1985-04-08",
-    "opening_song": "\"Yume no Tsubasa",
+    "opening_song": "\"Yume no Tsubasa: Alpen Rose (夢の翼~アルペンローゼ~)\" by Konii",
     "ending_song": "\"Yancha na Angel (やんちゃなエンジェル)\" by Konii",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [

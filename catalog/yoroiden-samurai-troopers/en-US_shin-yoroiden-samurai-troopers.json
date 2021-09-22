@@ -1,5 +1,9 @@
 {
     "title": "Shin Yoroiden Samurai Troopers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/85551.jpg",
+        "alt": "shin-yoroiden-samurai-troopers"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "新鎧伝サムライトルーパー",

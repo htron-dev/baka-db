@@ -1,5 +1,9 @@
 {
     "title": "Hakushaku to Yousei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/21898.jpg",
+        "alt": "hakushaku-to-yousei"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "伯爵と妖精",

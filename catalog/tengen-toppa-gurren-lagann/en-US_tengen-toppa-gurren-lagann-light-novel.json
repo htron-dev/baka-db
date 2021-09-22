@@ -1,5 +1,9 @@
 {
     "title": "Tengen Toppa Gurren Lagann",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172016.jpg",
+        "alt": "tengen-toppa-gurren-lagann"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "21",

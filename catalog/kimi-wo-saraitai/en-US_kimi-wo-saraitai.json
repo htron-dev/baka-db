@@ -1,5 +1,9 @@
 {
     "title": "Kimi wo Saraitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/132477.jpg",
+        "alt": "kimi-wo-saraitai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "君を攫いたい",

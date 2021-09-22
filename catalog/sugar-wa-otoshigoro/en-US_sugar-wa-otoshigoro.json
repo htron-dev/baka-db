@@ -1,5 +1,9 @@
 {
     "title": "Sugar wa Otoshigoro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/64197.jpg",
+        "alt": "sugar-wa-otoshigoro"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

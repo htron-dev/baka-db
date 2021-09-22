@@ -1,5 +1,9 @@
 {
     "title": "Juushinki Pandora 0",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/233721.jpg",
+        "alt": "juushinki-pandora-0"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Rave: Plue no Inu Nikki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/23215.jpg",
+        "alt": "rave-plue-no-inu-nikki"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "RAVE プルの犬日記",

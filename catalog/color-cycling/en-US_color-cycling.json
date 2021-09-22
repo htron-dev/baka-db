@@ -1,5 +1,9 @@
 {
     "title": "Color Cycling",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1929/98223.jpg",
+        "alt": "color-cycling"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "カラーサイクリング",

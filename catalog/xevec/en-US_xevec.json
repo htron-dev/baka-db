@@ -1,5 +1,9 @@
 {
     "title": "Xevec",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/233754.jpg",
+        "alt": "xevec"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

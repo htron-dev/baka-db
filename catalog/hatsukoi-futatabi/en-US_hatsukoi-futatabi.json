@@ -1,5 +1,9 @@
 {
     "title": "Hatsukoi, Futatabi.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/191672.jpg",
+        "alt": "hatsukoi-futatabi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

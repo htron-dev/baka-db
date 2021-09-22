@@ -1,5 +1,9 @@
 {
     "title": "Uchuu Icchokusen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/55543.jpg",
+        "alt": "uchuu-icchokusen"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "宇宙一直線",

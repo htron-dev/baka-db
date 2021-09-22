@@ -1,5 +1,9 @@
 {
     "title": "Yugami-kun ni wa Tomodachi ga Inai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/107515.jpg",
+        "alt": "yugami-kun-ni-wa-tomodachi-ga-inai"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "81",

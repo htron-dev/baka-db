@@ -1,5 +1,9 @@
 {
     "title": "Tennen Kokekko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/105083.jpg",
+        "alt": "tennen-kokekko"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "70",

@@ -1,5 +1,9 @@
 {
     "title": "Kenen.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195376.jpg",
+        "alt": "kenen"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "46",

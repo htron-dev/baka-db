@@ -1,5 +1,9 @@
 {
     "title": "Youkoso! BL Kenkyuu Club e",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/233661.jpg",
+        "alt": "youkoso-bl-kenkyuu-club-e"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

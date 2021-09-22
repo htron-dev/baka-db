@@ -1,5 +1,9 @@
 {
     "title": "Koisuru Hypnotic Therapy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/237951.jpg",
+        "alt": "koisuru-hypnotic-therapy"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

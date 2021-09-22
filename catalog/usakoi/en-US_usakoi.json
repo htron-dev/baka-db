@@ -1,5 +1,9 @@
 {
     "title": "Usakoi.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/95613.jpg",
+        "alt": "usakoi"
+    },
     "type": "light-novel",
     "volumes": "5",
     "chapters": "41",

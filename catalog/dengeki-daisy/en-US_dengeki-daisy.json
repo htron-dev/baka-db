@@ -1,5 +1,9 @@
 {
     "title": "Dengeki Daisy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152369.jpg",
+        "alt": "dengeki-daisy"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "80",

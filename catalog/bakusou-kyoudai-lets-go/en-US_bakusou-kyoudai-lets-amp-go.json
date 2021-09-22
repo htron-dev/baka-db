@@ -1,12 +1,16 @@
 {
     "title": "Bakusou Kyoudai Let's &amp; Go",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/26251.jpg",
+        "alt": "bakusou-kyoudai-lets-amp-go"
+    },
     "type": "tv-serie",
     "episodes": "51",
     "original_name": "爆走兄弟レッツ＆ゴー!!",
     "start_date": "1996-01-08",
     "end_date": "1996-01-08",
     "opening_song": "\"LET'S & GO - SULLE ALI DI UN TURBO\" by Giorgio Vanni",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Yo!BROTHER\" by BOOGIEMAN",
     "rating": "G - All Ages",
     "tags": [
         "adventure",

@@ -1,5 +1,9 @@
 {
     "title": "Gekiga Hyouryuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/136545.jpg",
+        "alt": "gekiga-hyouryuu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "48",

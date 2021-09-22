@@ -1,5 +1,9 @@
 {
     "title": "Mahou Onna ga Kuru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/39925.jpg",
+        "alt": "mahou-onna-ga-kuru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

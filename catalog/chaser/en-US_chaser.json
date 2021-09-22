@@ -1,5 +1,9 @@
 {
     "title": "Chaser",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/118201.jpg",
+        "alt": "chaser"
+    },
     "type": "manga",
     "original_name": "チェイサー",
     "start_date": "2012-08-10",

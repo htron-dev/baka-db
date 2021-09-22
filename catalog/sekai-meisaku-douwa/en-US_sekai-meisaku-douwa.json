@@ -1,5 +1,9 @@
 {
     "title": "Sekai Meisaku Douwa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/17689.jpg",
+        "alt": "sekai-meisaku-douwa"
+    },
     "type": "ova",
     "episodes": "20",
     "original_name": "世界名作童話",

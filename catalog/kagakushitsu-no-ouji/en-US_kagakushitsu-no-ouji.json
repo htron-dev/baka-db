@@ -1,5 +1,9 @@
 {
     "title": "Kagakushitsu no Ouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/147005.jpg",
+        "alt": "kagakushitsu-no-ouji"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

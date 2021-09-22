@@ -1,5 +1,9 @@
 {
     "title": "Omae Mitai na Heroine ga Ite Tamaru ka!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/234817.jpg",
+        "alt": "omae-mitai-na-heroine-ga-ite-tamaru-ka"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "Katsumi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/230248.jpg",
+        "alt": "katsumi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "22",

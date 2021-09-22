@@ -1,5 +1,9 @@
 {
     "title": "Sokuochi Mayuri-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244013.jpg",
+        "alt": "sokuochi-mayuri-chan"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "27",

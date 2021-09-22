@@ -1,5 +1,9 @@
 {
     "title": "Mother's Spirit",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/178407.jpg",
+        "alt": "mothers-spirit"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

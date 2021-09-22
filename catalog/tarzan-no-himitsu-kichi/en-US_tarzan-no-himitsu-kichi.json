@@ -1,5 +1,9 @@
 {
     "title": "Tarzan no Himitsu Kichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228181.jpg",
+        "alt": "tarzan-no-himitsu-kichi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "ターザンの秘密基地",

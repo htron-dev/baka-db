@@ -1,12 +1,16 @@
 {
     "title": "Kurokami The Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/78669.jpg",
+        "alt": "kurokami-the-animation"
+    },
     "type": "tv-serie",
     "episodes": "23",
     "original_name": "黒神 The Animation",
     "start_date": "2009-01-09",
     "end_date": "2009-01-09",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Sympathizer\" by Minami Kuribayashi (eps 1-12, 23)",
+    "ending_song": "#1: \"Irodori no Nai Sekai (彩の無い世界)\" by Yousei Teikoku (eps 1-16, 22-23)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

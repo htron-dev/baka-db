@@ -1,5 +1,9 @@
 {
     "title": "Shoujo Wakusei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/151722.jpg",
+        "alt": "shoujo-wakusei"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

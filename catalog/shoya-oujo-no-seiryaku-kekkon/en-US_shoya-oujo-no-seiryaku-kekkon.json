@@ -1,5 +1,9 @@
 {
     "title": "Shoya: Oujo no Seiryaku Kekkon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193312.jpg",
+        "alt": "shoya-oujo-no-seiryaku-kekkon"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

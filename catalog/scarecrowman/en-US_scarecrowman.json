@@ -1,5 +1,9 @@
 {
     "title": "Scarecrowman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/8968.jpg",
+        "alt": "scarecrowman"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "スケアクロウマン",

@@ -1,5 +1,9 @@
 {
     "title": "Made in Honey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227030.jpg",
+        "alt": "made-in-honey"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "25",

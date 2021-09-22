@@ -1,5 +1,9 @@
 {
     "title": "Red Sprite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/189739.jpg",
+        "alt": "red-sprite"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

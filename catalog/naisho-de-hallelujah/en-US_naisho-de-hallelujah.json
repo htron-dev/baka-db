@@ -1,5 +1,9 @@
 {
     "title": "Naisho de Hallelujah",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7119.jpg",
+        "alt": "naisho-de-hallelujah"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

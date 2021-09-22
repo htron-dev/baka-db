@@ -1,5 +1,9 @@
 {
     "title": "Versailles of the Dead",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/189602.jpg",
+        "alt": "versailles-of-the-dead"
+    },
     "type": "manga",
     "original_name": "ベルサイユオブザデッド",
     "start_date": "2016-01-07",

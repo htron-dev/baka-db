@@ -1,5 +1,9 @@
 {
     "title": "Yagi-kun to Mei-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/179780.jpg",
+        "alt": "yagi-kun-to-mei-san"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "23",

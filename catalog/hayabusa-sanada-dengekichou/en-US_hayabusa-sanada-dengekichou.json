@@ -1,5 +1,9 @@
 {
     "title": "Hayabusa: Sanada Dengekichou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/42193.jpg",
+        "alt": "hayabusa-sanada-dengekichou"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "19",

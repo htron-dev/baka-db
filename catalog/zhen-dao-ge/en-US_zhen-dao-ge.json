@@ -1,5 +1,9 @@
 {
     "title": "Zhen Dao Ge",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1920/114433.jpg",
+        "alt": "zhen-dao-ge"
+    },
     "type": "ona",
     "episodes": "12",
     "original_name": "枕刀歌",

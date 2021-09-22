@@ -1,5 +1,9 @@
 {
     "title": "Tasogare no Kaigui-bu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/250350.jpg",
+        "alt": "tasogare-no-kaigui-bu"
+    },
     "type": "manga",
     "original_name": "黄昏の買い食い部",
     "start_date": "2016-07-01",

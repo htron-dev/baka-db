@@ -1,5 +1,9 @@
 {
     "title": "Cinderella Bridal",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/182873.jpg",
+        "alt": "cinderella-bridal"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "9",

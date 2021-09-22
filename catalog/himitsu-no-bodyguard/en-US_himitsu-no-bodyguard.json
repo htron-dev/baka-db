@@ -1,5 +1,9 @@
 {
     "title": "Himitsu no Bodyguard",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/194932.jpg",
+        "alt": "himitsu-no-bodyguard"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "11",

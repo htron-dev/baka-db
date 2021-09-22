@@ -1,5 +1,9 @@
 {
     "title": "Gekka no Ori",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/136919.jpg",
+        "alt": "gekka-no-ori"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "月下の檻",

@@ -1,5 +1,9 @@
 {
     "title": "Nekozuka-san Chi no Gokyoudai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/193339.jpg",
+        "alt": "nekozuka-san-chi-no-gokyoudai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

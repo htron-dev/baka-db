@@ -1,12 +1,16 @@
 {
     "title": "Goblin Slayer",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1719/95621.jpg",
+        "alt": "goblin-slayer"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ゴブリンスレイヤー",
     "start_date": "2018-10-07",
     "end_date": "2018-10-07",
     "opening_song": "\"Rightfully\" by Mili (eps 2-12)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Gin no Kisei (銀の祈誓)\" by Soraru (eps 2-6, 8-11)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

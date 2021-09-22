@@ -1,5 +1,9 @@
 {
     "title": "Ningyou Shibai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/183094.jpg",
+        "alt": "ningyou-shibai"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

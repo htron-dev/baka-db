@@ -1,12 +1,16 @@
 {
     "title": "Midnight Horror School",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/18777.jpg",
+        "alt": "midnight-horror-school"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "ミッドナイトホラースクール",
     "start_date": "2003-10-01",
     "end_date": "2003-10-01",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Midnight Horror School\" by Aiko Kayou (嘉陽愛子)",
+    "ending_song": "#1: \"ABC no Kodomo-tachi (ABC の子供たち)\" by Aiko Kayou (嘉陽愛子)",
     "rating": "None",
     "tags": [
         "comedy"

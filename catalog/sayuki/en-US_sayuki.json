@@ -1,5 +1,9 @@
 {
     "title": "Sayuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35581.jpg",
+        "alt": "sayuki"
+    },
     "type": "manga",
     "volumes": "8",
     "original_name": "さゆき",

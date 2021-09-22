@@ -1,5 +1,9 @@
 {
     "title": "Tenchi Muyou! GXP",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/20295.jpg",
+        "alt": "tenchi-muyou-gxp"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "天地無用! GXP",

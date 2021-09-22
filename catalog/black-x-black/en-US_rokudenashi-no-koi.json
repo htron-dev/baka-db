@@ -1,5 +1,9 @@
 {
     "title": "Rokudenashi no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152362.jpg",
+        "alt": "rokudenashi-no-koi"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ろくでなしの恋",

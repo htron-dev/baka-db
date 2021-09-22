@@ -1,5 +1,9 @@
 {
     "title": "Love Me Thru the Night",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/4260.jpg",
+        "alt": "love-me-thru-the-night"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

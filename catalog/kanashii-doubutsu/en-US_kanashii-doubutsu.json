@@ -1,5 +1,9 @@
 {
     "title": "Kanashii Doubutsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/147827.jpg",
+        "alt": "kanashii-doubutsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Rinne no Lagrange: Akatsuki no Memoria",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/166594.jpg",
+        "alt": "rinne-no-lagrange-akatsuki-no-memoria"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "27",

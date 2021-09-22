@@ -1,5 +1,9 @@
 {
     "title": "Shinkon♥Gokko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/201243.jpg",
+        "alt": "shinkon♥-gokko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

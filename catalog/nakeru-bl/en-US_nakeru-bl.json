@@ -1,5 +1,9 @@
 {
     "title": "Nakeru BL",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/134051.jpg",
+        "alt": "nakeru-bl"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

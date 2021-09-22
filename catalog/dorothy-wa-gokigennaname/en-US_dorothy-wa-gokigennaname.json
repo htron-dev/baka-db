@@ -1,5 +1,9 @@
 {
     "title": "Dorothy wa Gokigennaname?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168565.jpg",
+        "alt": "dorothy-wa-gokigennaname"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "13",

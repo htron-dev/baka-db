@@ -1,5 +1,9 @@
 {
     "title": "Haguregumo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1827/94766.jpg",
+        "alt": "haguregumo"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "浮浪雲",

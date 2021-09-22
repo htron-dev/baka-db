@@ -1,5 +1,9 @@
 {
     "title": "Sumedo Jigoku no Inferno",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/168918.jpg",
+        "alt": "sumedo-jigoku-no-inferno"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "ES: Eternal Sabbath",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/174740.jpg",
+        "alt": "es-eternal-sabbath"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "83",

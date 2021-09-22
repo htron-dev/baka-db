@@ -1,5 +1,9 @@
 {
     "title": "Wonderful Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/33342.jpg",
+        "alt": "wonderful-days"
+    },
     "type": "manga",
     "volumes": "6",
     "original_name": "ワンダフルデイズ",

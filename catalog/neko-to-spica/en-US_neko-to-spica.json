@@ -1,5 +1,9 @@
 {
     "title": "Neko to Spica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222061.jpg",
+        "alt": "neko-to-spica"
+    },
     "type": "manga",
     "original_name": "猫とスピカ",
     "start_date": "2017-03-31",

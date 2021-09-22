@@ -1,5 +1,9 @@
 {
     "title": "Pin to Kona",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/164607.jpg",
+        "alt": "pin-to-kona"
+    },
     "type": "manga",
     "volumes": "16",
     "chapters": "68",

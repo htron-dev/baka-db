@@ -1,5 +1,9 @@
 {
     "title": "Itsudatte Honki no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/192259.jpg",
+        "alt": "itsudatte-honki-no-koi"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "12",

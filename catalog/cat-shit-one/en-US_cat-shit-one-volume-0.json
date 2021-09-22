@@ -1,5 +1,9 @@
 {
     "title": "Cat Shit One Volume 0",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/142163.jpg",
+        "alt": "cat-shit-one-volume-0"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

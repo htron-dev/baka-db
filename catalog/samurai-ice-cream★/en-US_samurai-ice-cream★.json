@@ -1,5 +1,9 @@
 {
     "title": "Samurai Ice Cream★",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/224384.jpg",
+        "alt": "samurai-ice-cream★"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

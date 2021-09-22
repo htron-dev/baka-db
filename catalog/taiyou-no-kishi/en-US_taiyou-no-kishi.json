@@ -1,5 +1,9 @@
 {
     "title": "Taiyou no Kishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/26853.jpg",
+        "alt": "taiyou-no-kishi"
+    },
     "type": "manga",
     "volumes": "2",
     "original_name": "太陽の騎士",

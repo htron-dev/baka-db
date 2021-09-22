@@ -1,5 +1,9 @@
 {
     "title": "Vampire Knight: Noir no Wana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/14547.jpg",
+        "alt": "vampire-knight-noir-no-wana"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "3",

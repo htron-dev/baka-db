@@ -1,5 +1,9 @@
 {
     "title": "Devour Dinner",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/51511.jpg",
+        "alt": "devour-dinner"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "DEVOUR DINNER",

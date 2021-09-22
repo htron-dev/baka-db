@@ -1,5 +1,9 @@
 {
     "title": "Shounen Onmyouji",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/17595.jpg",
+        "alt": "shounen-onmyouji"
+    },
     "type": "manga",
     "chapters": "6",
     "original_name": "少年陰陽師",

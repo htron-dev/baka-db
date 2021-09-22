@@ -1,5 +1,9 @@
 {
     "title": "Haru no Mushoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/210105.jpg",
+        "alt": "haru-no-mushoku"
+    },
     "type": "manga",
     "original_name": "春のムショク",
     "start_date": "2017-10-12",

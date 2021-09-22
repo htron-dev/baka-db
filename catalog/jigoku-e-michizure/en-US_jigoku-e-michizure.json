@@ -1,5 +1,9 @@
 {
     "title": "Jigoku e Michizure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/7035.jpg",
+        "alt": "jigoku-e-michizure"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

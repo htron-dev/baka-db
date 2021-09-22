@@ -1,5 +1,9 @@
 {
     "title": "Himegoto Asobi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/70209.jpg",
+        "alt": "himegoto-asobi"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "15",

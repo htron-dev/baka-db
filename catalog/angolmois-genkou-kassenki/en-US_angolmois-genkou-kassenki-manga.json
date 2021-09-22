@@ -1,5 +1,9 @@
 {
     "title": "Angolmois: Genkou Kassenki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172186.jpg",
+        "alt": "angolmois-genkou-kassenki"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "40",

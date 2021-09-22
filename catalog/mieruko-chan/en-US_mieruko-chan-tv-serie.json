@@ -1,5 +1,9 @@
 {
     "title": "Mieruko-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1277/117155.jpg",
+        "alt": "mieruko-chan"
+    },
     "type": "tv-serie",
     "original_name": "見える子ちゃん",
     "start_date": "2021-10-20",

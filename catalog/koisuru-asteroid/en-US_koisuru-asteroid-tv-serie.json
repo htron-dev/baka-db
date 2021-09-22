@@ -1,12 +1,16 @@
 {
     "title": "Koisuru Asteroid",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1142/111693.jpg",
+        "alt": "koisuru-asteroid"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "恋する小惑星〈アストロイド〉",
     "start_date": "2020-01-03",
     "end_date": "2020-01-03",
     "opening_song": "\"Aruite Ikou! (歩いていこう！)\" by Nao Touyama",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Yozora (夜空)\" by Minori Suzuki (eps. 1-3, 5-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

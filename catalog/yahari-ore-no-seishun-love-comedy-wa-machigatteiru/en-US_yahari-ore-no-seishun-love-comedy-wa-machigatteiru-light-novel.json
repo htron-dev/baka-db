@@ -1,5 +1,9 @@
 {
     "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/122461.jpg",
+        "alt": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru"
+    },
     "type": "light-novel",
     "volumes": "18",
     "chapters": "168",

@@ -1,5 +1,9 @@
 {
     "title": "Koufuku Graffiti",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/128113.jpg",
+        "alt": "koufuku-graffiti"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "75",

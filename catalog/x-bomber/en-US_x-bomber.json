@@ -1,5 +1,9 @@
 {
     "title": "X-Bomber",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/230522.jpg",
+        "alt": "x-bomber"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "X ボンバー",

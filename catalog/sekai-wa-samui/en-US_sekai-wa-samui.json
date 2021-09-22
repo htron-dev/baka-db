@@ -1,5 +1,9 @@
 {
     "title": "Sekai wa Samui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/227540.jpg",
+        "alt": "sekai-wa-samui"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",

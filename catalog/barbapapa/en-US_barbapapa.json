@@ -1,5 +1,9 @@
 {
     "title": "Barbapapa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/3921.jpg",
+        "alt": "barbapapa"
+    },
     "type": "tv-serie",
     "episodes": "45",
     "original_name": "バーバパパ",

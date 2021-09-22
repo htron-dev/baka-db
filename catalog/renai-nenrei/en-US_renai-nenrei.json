@@ -1,5 +1,9 @@
 {
     "title": "Renai Nenrei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/30907.jpg",
+        "alt": "renai-nenrei"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

@@ -1,5 +1,9 @@
 {
     "title": "PenPal.net",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/38003.jpg",
+        "alt": "pen-pal-net"
+    },
     "type": "manhwa",
     "volumes": "6",
     "original_name": "펜벗.net",

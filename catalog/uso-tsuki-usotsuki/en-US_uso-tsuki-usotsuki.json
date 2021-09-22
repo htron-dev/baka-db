@@ -1,5 +1,9 @@
 {
     "title": "Uso Tsuki: Usotsuki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/236902.jpg",
+        "alt": "uso-tsuki-usotsuki"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "34",

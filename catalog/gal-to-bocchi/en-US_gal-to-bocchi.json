@@ -1,5 +1,9 @@
 {
     "title": "Gal to Bocchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/240002.jpg",
+        "alt": "gal-to-bocchi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "40",

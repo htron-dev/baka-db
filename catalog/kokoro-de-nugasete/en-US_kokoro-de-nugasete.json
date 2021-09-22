@@ -1,5 +1,9 @@
 {
     "title": "Kokoro de Nugasete",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11069.jpg",
+        "alt": "kokoro-de-nugasete"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "心で脱がせて",

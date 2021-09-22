@@ -1,5 +1,9 @@
 {
     "title": "Zannen datta na, Unmei da!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/241827.jpg",
+        "alt": "zannen-datta-na-unmei-da"
+    },
     "type": "manga",
     "original_name": "残念だったな、運命だ！",
     "start_date": "2017-04-10",

@@ -1,5 +1,9 @@
 {
     "title": "My Little Robinson",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/141241.jpg",
+        "alt": "my-little-robinson"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "my little robinson",

@@ -1,5 +1,9 @@
 {
     "title": "Ponta to Ensoku",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/36769.jpg",
+        "alt": "ponta-to-ensoku"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "ポンタと遠足",

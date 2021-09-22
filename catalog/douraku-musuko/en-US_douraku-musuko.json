@@ -1,5 +1,9 @@
 {
     "title": "Douraku Musuko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235751.jpg",
+        "alt": "douraku-musuko"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "163",

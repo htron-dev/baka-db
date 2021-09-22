@@ -1,5 +1,9 @@
 {
     "title": "Gokushufudou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/210716.jpg",
+        "alt": "gokushufudou"
+    },
     "type": "manga",
     "original_name": "極主夫道",
     "start_date": "2018-02-23",

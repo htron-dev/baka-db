@@ -1,5 +1,9 @@
 {
     "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/52521.jpg",
+        "alt": "ore-no-imouto-ga-konnani-kawaii-wake-ga-nai"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "26",

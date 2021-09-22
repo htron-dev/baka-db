@@ -1,5 +1,9 @@
 {
     "title": "Hoshifurizaka Icchoume Sanbanchi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/150036.jpg",
+        "alt": "hoshifurizaka-icchoume-sanbanchi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

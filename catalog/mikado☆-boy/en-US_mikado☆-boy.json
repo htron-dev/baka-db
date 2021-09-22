@@ -1,5 +1,9 @@
 {
     "title": "Mikado☆Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/98055.jpg",
+        "alt": "mikado☆-boy"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "25",

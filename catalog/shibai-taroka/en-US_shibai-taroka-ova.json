@@ -1,5 +1,9 @@
 {
     "title": "Shibai Taroka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/49927.jpg",
+        "alt": "shibai-taroka"
+    },
     "type": "ova",
     "episodes": "2",
     "original_name": "しばいたろか",

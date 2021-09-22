@@ -1,5 +1,9 @@
 {
     "title": "Zig",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/203461.jpg",
+        "alt": "zig"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Harmonie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/55197.jpg",
+        "alt": "harmonie"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "アルモニ",

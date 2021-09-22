@@ -1,5 +1,9 @@
 {
     "title": "Ranpou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/44612.jpg",
+        "alt": "ranpou"
+    },
     "type": "tv-serie",
     "episodes": "21",
     "original_name": "らんぽう",

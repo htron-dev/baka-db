@@ -1,5 +1,9 @@
 {
     "title": "Fight Da!! Pyuta",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/53307.jpg",
+        "alt": "fight-da-pyuta"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "ファイトだ!! ピュー太",

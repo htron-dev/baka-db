@@ -1,5 +1,9 @@
 {
     "title": "Onna ni Horesasu Meigenshuu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/122119.jpg",
+        "alt": "onna-ni-horesasu-meigenshuu"
+    },
     "type": "manga",
     "original_name": "女に惚れさす名言集",
     "start_date": "2013-12-04",

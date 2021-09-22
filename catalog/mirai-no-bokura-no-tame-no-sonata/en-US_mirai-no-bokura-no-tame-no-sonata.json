@@ -1,5 +1,9 @@
 {
     "title": "Mirai no Bokura no Tame no Sonata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/183409.jpg",
+        "alt": "mirai-no-bokura-no-tame-no-sonata"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

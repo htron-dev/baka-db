@@ -1,5 +1,9 @@
 {
     "title": "Rose x Marie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/126633.jpg",
+        "alt": "rose-x-marie"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "ローズ × マリー",

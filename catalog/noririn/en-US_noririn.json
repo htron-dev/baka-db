@@ -1,5 +1,9 @@
 {
     "title": "Noririn",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/151983.jpg",
+        "alt": "noririn"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "90",

@@ -1,12 +1,16 @@
 {
     "title": "Neo Ranga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1473/92555.jpg",
+        "alt": "neo-ranga"
+    },
     "type": "tv-serie",
     "episodes": "48",
     "original_name": "南海奇皇ネオランガ",
     "start_date": "1998-04-06",
     "end_date": "1998-04-06",
-    "opening_song": "#01",
-    "ending_song": "#01",
+    "opening_song": "#01:\"Kaze no Nemuru Shima\" by Miyamura Yuko, Sumitomo Yuko, and Sendai Eri (eps 1-24)",
+    "ending_song": "#01: \"Prologue ~A City In The Sky\" by Ito Masaki (eps 1-24)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "adventure",

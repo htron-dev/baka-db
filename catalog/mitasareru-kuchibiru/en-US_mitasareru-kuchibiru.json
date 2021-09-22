@@ -1,5 +1,9 @@
 {
     "title": "Mitasareru Kuchibiru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/152541.jpg",
+        "alt": "mitasareru-kuchibiru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

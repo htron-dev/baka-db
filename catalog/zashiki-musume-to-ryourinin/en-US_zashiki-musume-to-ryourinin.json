@@ -1,5 +1,9 @@
 {
     "title": "Zashiki Musume to Ryourinin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/222578.jpg",
+        "alt": "zashiki-musume-to-ryourinin"
+    },
     "type": "manga",
     "original_name": "座敷娘と料理人",
     "start_date": "2017-11-22",

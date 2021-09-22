@@ -1,5 +1,9 @@
 {
     "title": "Nichiyoubi wa Issho ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/69091.jpg",
+        "alt": "nichiyoubi-wa-issho-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "日曜日は一緒に",

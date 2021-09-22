@@ -1,5 +1,9 @@
 {
     "title": "Shio ga Mai Ko ga Mai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/244443.jpg",
+        "alt": "shio-ga-mai-ko-ga-mai"
+    },
     "type": "manga",
     "original_name": "潮が舞い子が舞い",
     "start_date": "2019-03-12",

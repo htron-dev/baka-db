@@ -1,5 +1,9 @@
 {
     "title": "Gamble Witch Kingdom",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185116.jpg",
+        "alt": "gamble-witch-kingdom"
+    },
     "type": "light-novel",
     "original_name": "ギャンブル・ウィッチ・キングダム",
     "start_date": "2016-11-15",

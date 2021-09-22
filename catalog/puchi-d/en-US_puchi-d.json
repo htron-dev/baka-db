@@ -1,5 +1,9 @@
 {
     "title": "Puchi-D",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/21336.jpg",
+        "alt": "puchi-d"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

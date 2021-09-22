@@ -1,5 +1,9 @@
 {
     "title": "Soredemo Kimi ga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/202128.jpg",
+        "alt": "soredemo-kimi-ga"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "12",

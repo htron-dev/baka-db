@@ -1,5 +1,9 @@
 {
     "title": "Girlish Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/178435.jpg",
+        "alt": "girlish-season"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

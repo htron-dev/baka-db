@@ -1,5 +1,9 @@
 {
     "title": "Joushikousei de, Hanayome de.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/86411.jpg",
+        "alt": "joushikousei-de-hanayome-de"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

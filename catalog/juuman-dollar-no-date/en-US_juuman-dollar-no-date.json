@@ -1,5 +1,9 @@
 {
     "title": "Juuman Dollar no Date",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/180876.jpg",
+        "alt": "juuman-dollar-no-date"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "十万ドルのデート",

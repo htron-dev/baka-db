@@ -1,5 +1,9 @@
 {
     "title": "Hai ni Mabataki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238431.jpg",
+        "alt": "hai-ni-mabataki"
+    },
     "type": "manga",
     "original_name": "灰に瞬き",
     "start_date": "2017-09-30",

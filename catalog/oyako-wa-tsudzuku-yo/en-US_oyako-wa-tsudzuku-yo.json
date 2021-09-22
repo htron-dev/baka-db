@@ -1,5 +1,9 @@
 {
     "title": "Oyako wa Tsudzuku yo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1718/97986.jpg",
+        "alt": "oyako-wa-tsudzuku-yo"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "親子は続くよ",

@@ -1,5 +1,9 @@
 {
     "title": "Sherlock Holmes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/46201.jpg",
+        "alt": "sherlock-holmes"
+    },
     "type": "manga",
     "original_name": "シャーロック・ホームズは影にささやく",
     "tags": [

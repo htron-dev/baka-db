@@ -1,5 +1,9 @@
 {
     "title": "Tobacco-ya no Musume",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/44421.jpg",
+        "alt": "tobacco-ya-no-musume"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "11",

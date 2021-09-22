@@ -1,5 +1,9 @@
 {
     "title": "Hikari-Man",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/152021.jpg",
+        "alt": "hikari-man"
+    },
     "type": "manga",
     "original_name": "HIKARI-MAN",
     "start_date": "2014-12-08",

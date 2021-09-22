@@ -1,5 +1,9 @@
 {
     "title": "Ohayou toka Oyasumi toka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195411.jpg",
+        "alt": "ohayou-toka-oyasumi-toka"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "30",

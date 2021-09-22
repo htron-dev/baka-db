@@ -1,5 +1,9 @@
 {
     "title": "Arakure",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/175907.jpg",
+        "alt": "arakure"
+    },
     "type": "manga",
     "volumes": "10",
     "chapters": "57",

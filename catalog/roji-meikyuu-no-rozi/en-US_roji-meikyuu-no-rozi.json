@@ -1,5 +1,9 @@
 {
     "title": "Roji Meikyuu no Rozi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/243329.jpg",
+        "alt": "roji-meikyuu-no-rozi"
+    },
     "type": "manga",
     "volumes": "3",
     "original_name": "路地迷宮のロージー",

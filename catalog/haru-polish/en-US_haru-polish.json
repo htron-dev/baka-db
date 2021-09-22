@@ -1,5 +1,9 @@
 {
     "title": "Haru Polish",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/188795.jpg",
+        "alt": "haru-polish"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "19",

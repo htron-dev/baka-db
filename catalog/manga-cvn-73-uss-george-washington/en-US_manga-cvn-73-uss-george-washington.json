@@ -1,5 +1,9 @@
 {
     "title": "Manga CVN73 USS George Washington",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/11048.jpg",
+        "alt": "manga-cvn-73-uss-george-washington"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "1",

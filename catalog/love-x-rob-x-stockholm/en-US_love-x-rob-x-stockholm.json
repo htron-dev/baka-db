@@ -1,5 +1,9 @@
 {
     "title": "Love x Rob x Stockholm",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/219746.jpg",
+        "alt": "love-x-rob-x-stockholm"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

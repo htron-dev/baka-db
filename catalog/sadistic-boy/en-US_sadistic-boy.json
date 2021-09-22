@@ -1,5 +1,9 @@
 {
     "title": "Sadistic Boy",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/62291.jpg",
+        "alt": "sadistic-boy"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "17",

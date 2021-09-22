@@ -1,5 +1,9 @@
 {
     "title": "Countdown!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/5758.jpg",
+        "alt": "countdown"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

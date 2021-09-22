@@ -1,5 +1,9 @@
 {
     "title": "Ganbarist! Shun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/61711.jpg",
+        "alt": "ganbarist-shun"
+    },
     "type": "tv-serie",
     "episodes": "30",
     "original_name": "ガンバリスト! 駿",

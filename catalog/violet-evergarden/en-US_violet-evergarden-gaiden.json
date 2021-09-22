@@ -1,5 +1,9 @@
 {
     "title": "Violet Evergarden Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224184.jpg",
+        "alt": "violet-evergarden-gaiden"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "6",

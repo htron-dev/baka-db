@@ -1,5 +1,9 @@
 {
     "title": "Dororo to Hyakkimaru Den",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/217711.jpg",
+        "alt": "dororo-to-hyakkimaru-den"
+    },
     "type": "manga",
     "original_name": "どろろと百鬼丸伝",
     "start_date": "2018-10-19",

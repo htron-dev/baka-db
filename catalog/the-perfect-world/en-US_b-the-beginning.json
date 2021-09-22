@@ -1,8 +1,12 @@
 {
     "title": "B: The Beginning",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1564/90469.jpg",
+        "alt": "b-the-beginning"
+    },
     "type": "ona",
     "episodes": "12",
-    "original_name": "B",
+    "original_name": "B: The Beginning",
     "start_date": "2018-03-02",
     "ending_song": "\"The Perfect World\" by Marty Friedman feat. Jean-Ken Johnny, KenKen",
     "rating": "R - 17+ (violence & profanity)",

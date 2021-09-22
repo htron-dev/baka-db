@@ -1,12 +1,16 @@
 {
     "title": "Machine-Doll wa Kizutsukanai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/56141.jpg",
+        "alt": "machine-doll-wa-kizutsukanai"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "機巧少女〈マシンドール〉は傷つかない",
     "start_date": "2013-10-07",
     "end_date": "2013-10-07",
     "opening_song": "\"Anicca\" by Hitomi Harada",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Anicca\" by Hitomi Harada (eps 1, 7)",
     "rating": "R+ - Mild Nudity",
     "tags": [
         "action",

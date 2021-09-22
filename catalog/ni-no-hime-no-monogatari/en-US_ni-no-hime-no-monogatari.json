@@ -1,5 +1,9 @@
 {
     "title": "Ni no Hime no Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/19697.jpg",
+        "alt": "ni-no-hime-no-monogatari"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

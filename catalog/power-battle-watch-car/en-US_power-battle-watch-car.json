@@ -1,5 +1,9 @@
 {
     "title": "Power Battle Watch Car",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1013/95954.jpg",
+        "alt": "power-battle-watch-car"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "파워배틀 와치카",

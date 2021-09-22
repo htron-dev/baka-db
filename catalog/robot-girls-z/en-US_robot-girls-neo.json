@@ -1,5 +1,9 @@
 {
     "title": "Robot Girls Neo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1806/93449.jpg",
+        "alt": "robot-girls-neo"
+    },
     "type": "ona",
     "episodes": "3",
     "original_name": "ロボットガールズ NEO",

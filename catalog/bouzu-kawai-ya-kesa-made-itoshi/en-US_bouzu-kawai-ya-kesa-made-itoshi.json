@@ -1,5 +1,9 @@
 {
     "title": "Bouzu Kawai ya Kesa made Itoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/109569.jpg",
+        "alt": "bouzu-kawai-ya-kesa-made-itoshi"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "31",

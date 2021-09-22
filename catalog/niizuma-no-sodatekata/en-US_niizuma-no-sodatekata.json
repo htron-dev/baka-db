@@ -1,5 +1,9 @@
 {
     "title": "Niizuma no Sodatekata",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/160699.jpg",
+        "alt": "niizuma-no-sodatekata"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "18",

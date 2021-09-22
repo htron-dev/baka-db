@@ -1,5 +1,9 @@
 {
     "title": "Shin Sakura Taisen the Comic",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/235127.jpg",
+        "alt": "shin-sakura-taisen-the-comic"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "31",

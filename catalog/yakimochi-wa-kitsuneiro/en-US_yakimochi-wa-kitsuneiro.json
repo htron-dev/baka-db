@@ -1,5 +1,9 @@
 {
     "title": "Yakimochi wa Kitsuneiro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/236347.jpg",
+        "alt": "yakimochi-wa-kitsuneiro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

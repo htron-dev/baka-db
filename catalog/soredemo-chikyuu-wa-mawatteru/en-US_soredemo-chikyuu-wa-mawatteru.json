@@ -1,5 +1,9 @@
 {
     "title": "Soredemo Chikyuu wa Mawatteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/49561.jpg",
+        "alt": "soredemo-chikyuu-wa-mawatteru"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "それでも地球は回ってる",

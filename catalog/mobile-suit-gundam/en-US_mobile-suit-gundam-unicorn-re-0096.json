@@ -1,12 +1,16 @@
 {
     "title": "Mobile Suit Gundam Unicorn RE:0096",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/12/78633.jpg",
+        "alt": "mobile-suit-gundam-unicorn-re-0096"
+    },
     "type": "tv-serie",
     "episodes": "22",
-    "original_name": "機動戦士ガンダム UC（ユニコーン）RE",
+    "original_name": "機動戦士ガンダム UC（ユニコーン）RE:0096",
     "start_date": "2016-04-03",
     "end_date": "2016-04-03",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Into the Sky\" by SawanoHiroyuki[nZk]:Tielle (eps 1-17, 19-22)",
+    "ending_song": "#1: \"Next 2 U -eUC-\" by SawanoHiroyuki[nZk]:naNami (eps 1-8, 10-12)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

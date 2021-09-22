@@ -1,5 +1,9 @@
 {
     "title": "Dance in the Vampire Bund",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10431.jpg",
+        "alt": "dance-in-the-vampire-bund"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "82",

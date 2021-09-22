@@ -1,5 +1,9 @@
 {
     "title": "Ginga Nagareboshi Gin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/47461.jpg",
+        "alt": "ginga-nagareboshi-gin"
+    },
     "type": "tv-serie",
     "episodes": "21",
     "original_name": "銀牙　流れ星銀",

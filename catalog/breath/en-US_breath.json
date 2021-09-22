@@ -1,5 +1,9 @@
 {
     "title": "Breath",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/38697.jpg",
+        "alt": "breath"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "25",

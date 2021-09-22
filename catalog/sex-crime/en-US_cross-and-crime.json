@@ -1,5 +1,9 @@
 {
     "title": "Cross and Crime",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/188831.jpg",
+        "alt": "cross-and-crime"
+    },
     "type": "manga",
     "volumes": "12",
     "chapters": "115",

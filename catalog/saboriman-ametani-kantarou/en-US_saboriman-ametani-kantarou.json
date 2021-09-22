@@ -1,5 +1,9 @@
 {
     "title": "Saboriman Ametani Kantarou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/209218.jpg",
+        "alt": "saboriman-ametani-kantarou"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "20",

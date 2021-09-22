@@ -1,5 +1,9 @@
 {
     "title": "Love Bites",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/78881.jpg",
+        "alt": "love-bites"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "LOVE BITES",

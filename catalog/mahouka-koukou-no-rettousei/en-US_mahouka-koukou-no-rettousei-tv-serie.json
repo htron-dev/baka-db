@@ -1,12 +1,16 @@
 {
     "title": "Mahouka Koukou no Rettousei",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/61039.jpg",
+        "alt": "mahouka-koukou-no-rettousei"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "魔法科高校の劣等生",
     "start_date": "2014-04-06",
     "end_date": "2014-04-06",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Rising Hope\" by LiSA (eps 2-3, 5-13)",
+    "ending_song": "#1: \"Rising Hope\" by LiSA (ep 1)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "action",

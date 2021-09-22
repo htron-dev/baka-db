@@ -1,5 +1,9 @@
 {
     "title": "Vampire Yui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/156938.jpg",
+        "alt": "vampire-yui"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "12",

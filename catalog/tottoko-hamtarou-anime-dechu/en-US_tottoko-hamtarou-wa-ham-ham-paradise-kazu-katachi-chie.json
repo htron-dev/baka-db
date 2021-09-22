@@ -1,5 +1,9 @@
 {
     "title": "Tottoko Hamtarou wa Ham Ham Paradise! Kazu Katachi Chie",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1471/98572.jpg",
+        "alt": "tottoko-hamtarou-wa-ham-ham-paradise-kazu-katachi-chie"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "とっとこハム太郎 はむはむぱらだいちゅ! かず・かたち・ちえ",
@@ -18,7 +22,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/%E3%81%A8%E3%81%A3%E3%81%A8%E3%81%93%E3%83%8F%E3%83%A0%E5%A4%AA%E9%83%8E_(%E3%82%A2%E3%83%8B%E3%83%A1"
+            "link": "https://ja.wikipedia.org/wiki/%E3%81%A8%E3%81%A3%E3%81%A8%E3%81%93%E3%83%8F%E3%83%A0%E5%A4%AA%E9%83%8E_%28%E3%82%A2%E3%83%8B%E3%83%A1%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Zo Zo Zo Zombie-kun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/190480.jpg",
+        "alt": "zo-zo-zo-zombie-kun"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "98",

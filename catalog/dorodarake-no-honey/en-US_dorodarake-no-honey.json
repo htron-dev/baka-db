@@ -1,5 +1,9 @@
 {
     "title": "Dorodarake no Honey",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/215283.jpg",
+        "alt": "dorodarake-no-honey"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

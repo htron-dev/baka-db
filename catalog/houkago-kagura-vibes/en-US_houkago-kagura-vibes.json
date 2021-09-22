@@ -1,5 +1,9 @@
 {
     "title": "Houkago Kagura Vibes",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/210318.jpg",
+        "alt": "houkago-kagura-vibes"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

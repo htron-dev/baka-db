@@ -1,5 +1,9 @@
 {
     "title": "Tsuki no Hebi: Suikoden Ibun",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/125399.jpg",
+        "alt": "tsuki-no-hebi-suikoden-ibun"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "33",

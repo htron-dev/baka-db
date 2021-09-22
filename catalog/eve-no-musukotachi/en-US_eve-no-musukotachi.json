@@ -1,5 +1,9 @@
 {
     "title": "Eve no Musukotachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/33560.jpg",
+        "alt": "eve-no-musukotachi"
+    },
     "type": "manga",
     "volumes": "7",
     "start_date": "1976-01-19",

@@ -1,5 +1,9 @@
 {
     "title": "Koi no Arashi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/17592.jpg",
+        "alt": "koi-no-arashi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "恋の嵐",

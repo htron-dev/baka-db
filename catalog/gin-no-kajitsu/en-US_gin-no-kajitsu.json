@@ -1,5 +1,9 @@
 {
     "title": "Gin no Kajitsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/91231.jpg",
+        "alt": "gin-no-kajitsu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

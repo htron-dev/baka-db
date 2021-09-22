@@ -1,5 +1,9 @@
 {
     "title": "Nabi: The Prototype",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/8674.jpg",
+        "alt": "nabi-the-prototype"
+    },
     "type": "manhwa",
     "volumes": "1",
     "chapters": "6",

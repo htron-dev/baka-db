@@ -1,5 +1,9 @@
 {
     "title": "Love Bullet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/78923.jpg",
+        "alt": "love-bullet"
+    },
     "type": "manhwa",
     "volumes": "12",
     "original_name": "사랑의 총알",

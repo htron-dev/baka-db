@@ -1,5 +1,9 @@
 {
     "title": "Manga Grimm Douwa: Ogou to Sengoku no Onna-tachi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/137329.jpg",
+        "alt": "manga-grimm-douwa-ogou-to-sengoku-no-onna-tachi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

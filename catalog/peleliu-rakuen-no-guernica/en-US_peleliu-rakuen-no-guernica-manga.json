@@ -1,5 +1,9 @@
 {
     "title": "Peleliu: Rakuen no Guernica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/181791.jpg",
+        "alt": "peleliu-rakuen-no-guernica"
+    },
     "type": "manga",
     "volumes": "11",
     "chapters": "87",

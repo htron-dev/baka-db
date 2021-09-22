@@ -1,5 +1,9 @@
 {
     "title": "Overlord: Ple Ple Pleiades 2",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/90101.jpg",
+        "alt": "overlord-ple-ple-pleiades-2"
+    },
     "type": "ona",
     "episodes": "13",
     "original_name": "オーバーロード　ぷれぷれぷれあです 2",
@@ -28,7 +32,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Overlord_(novel_series"
+            "link": "http://en.wikipedia.org/wiki/Overlord_%28novel_series%29"
         }
     ]
 }

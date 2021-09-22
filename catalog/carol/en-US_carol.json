@@ -1,10 +1,14 @@
 {
     "title": "Carol",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1306/103782.jpg",
+        "alt": "carol"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "CAROL",
     "start_date": "1990-03-21",
-    "ending_song": "\"Just One Victory",
+    "ending_song": "\"Just One Victory: Tatta Hitori no Shouri (Just One Victory~たったひとつの勝利)\" by TM Network",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "fantasy",

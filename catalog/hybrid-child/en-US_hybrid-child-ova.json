@@ -1,5 +1,9 @@
 {
     "title": "Hybrid Child",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/65605.jpg",
+        "alt": "hybrid-child"
+    },
     "type": "ova",
     "episodes": "4",
     "original_name": "ハイブリッド チャイルド",

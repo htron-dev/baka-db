@@ -1,5 +1,9 @@
 {
     "title": "Tokyo Ravens: Red And White",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/166261.jpg",
+        "alt": "tokyo-ravens-red-and-white"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

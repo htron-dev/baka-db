@@ -1,5 +1,9 @@
 {
     "title": "0 no Soukoushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/2008.jpg",
+        "alt": "0-no-soukoushi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "3",

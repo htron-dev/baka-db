@@ -1,5 +1,9 @@
 {
     "title": "S: Kimi to, Kanojo to, Unmei to",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/233924.jpg",
+        "alt": "s-kimi-to-kanojo-to-unmei-to"
+    },
     "type": "manga",
     "original_name": "S 君と、彼女と、運命と",
     "start_date": "2016-07-25",

@@ -1,5 +1,9 @@
 {
     "title": "Haru to Bonkura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/200499.jpg",
+        "alt": "haru-to-bonkura"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

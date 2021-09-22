@@ -1,5 +1,9 @@
 {
     "title": "Akuma no Moka-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/244723.jpg",
+        "alt": "akuma-no-moka-chan"
+    },
     "type": "manga",
     "original_name": "悪魔のモカちゃん",
     "start_date": "2018-09-10",

@@ -1,5 +1,9 @@
 {
     "title": "Baketero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/158654.jpg",
+        "alt": "baketero"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "14",

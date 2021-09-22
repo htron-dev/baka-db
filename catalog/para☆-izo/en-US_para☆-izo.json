@@ -1,5 +1,9 @@
 {
     "title": "Para☆Izo",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/39915.jpg",
+        "alt": "para☆-izo"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "55",

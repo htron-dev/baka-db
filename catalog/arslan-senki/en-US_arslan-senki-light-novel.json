@@ -1,5 +1,9 @@
 {
     "title": "Arslan Senki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/59967.jpg",
+        "alt": "arslan-senki"
+    },
     "type": "light-novel",
     "volumes": "16",
     "original_name": "アルスラーン戦記",

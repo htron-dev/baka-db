@@ -1,5 +1,9 @@
 {
     "title": "Fujilog",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/81514.jpg",
+        "alt": "fujilog"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "フジログ",

@@ -1,5 +1,9 @@
 {
     "title": "Tensei shitara Ken deshita",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/203310.jpg",
+        "alt": "tensei-shitara-ken-deshita"
+    },
     "type": "light-novel",
     "original_name": "転生したら剣でした",
     "start_date": "2016-07-30",

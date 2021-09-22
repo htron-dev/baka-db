@@ -1,5 +1,9 @@
 {
     "title": "Kanojo no Koi ga Hanashite Kurenai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163467.jpg",
+        "alt": "kanojo-no-koi-ga-hanashite-kurenai"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "29",

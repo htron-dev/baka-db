@@ -1,5 +1,9 @@
 {
     "title": "Ohayou! Kokekkou-san",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/82367.jpg",
+        "alt": "ohayou-kokekkou-san"
+    },
     "type": "tv-serie",
     "episodes": "50",
     "original_name": "おはよう! コケッコーさん",

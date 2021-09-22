@@ -1,5 +1,9 @@
 {
     "title": "Cobra",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/103495.jpg",
+        "alt": "cobra"
+    },
     "type": "manga",
     "volumes": "18",
     "chapters": "30",

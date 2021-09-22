@@ -1,5 +1,9 @@
 {
     "title": "Sanzoku Diary",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/72716.jpg",
+        "alt": "sanzoku-diary"
+    },
     "type": "ova",
     "episodes": "1",
     "original_name": "山賊ダイアリー",

@@ -1,5 +1,9 @@
 {
     "title": "Yumearu Ugoku Ehon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/88705.jpg",
+        "alt": "yumearu-ugoku-ehon"
+    },
     "type": "ona",
     "original_name": "ゆめある動く絵本",
     "start_date": "2015-03-19",

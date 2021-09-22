@@ -1,5 +1,9 @@
 {
     "title": "Kanojo no Umitate Namatamago",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204553.jpg",
+        "alt": "kanojo-no-umitate-namatamago"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "彼女の産みたて生卵",

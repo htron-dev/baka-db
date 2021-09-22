@@ -1,5 +1,9 @@
 {
     "title": "Haunted Campus",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/121209.jpg",
+        "alt": "haunted-campus"
+    },
     "type": "light-novel",
     "original_name": "ホーンテッド・キャンパス",
     "start_date": "2012-10-25",

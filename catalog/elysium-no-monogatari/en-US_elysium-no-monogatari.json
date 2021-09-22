@@ -1,5 +1,9 @@
 {
     "title": "Elysium no Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/22908.jpg",
+        "alt": "elysium-no-monogatari"
+    },
     "type": "manga",
     "original_name": "エリジウムの物語",
     "start_date": "2007-05-12",

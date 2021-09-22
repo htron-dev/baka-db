@@ -1,5 +1,9 @@
 {
     "title": "Forestry",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/24167.jpg",
+        "alt": "forestry"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "フォレストリー",

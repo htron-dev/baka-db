@@ -1,5 +1,9 @@
 {
     "title": "Samero",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/4/25824.jpg",
+        "alt": "samero"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "覚めろ",

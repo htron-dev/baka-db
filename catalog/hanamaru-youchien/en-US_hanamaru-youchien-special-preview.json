@@ -1,5 +1,9 @@
 {
     "title": "Hanamaru Youchien Special Preview",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/45024.jpg",
+        "alt": "hanamaru-youchien-special-preview"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "はなまる幼稚園",

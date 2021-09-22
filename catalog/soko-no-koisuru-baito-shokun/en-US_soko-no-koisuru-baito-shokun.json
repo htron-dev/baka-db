@@ -1,5 +1,9 @@
 {
     "title": "Soko no Koisuru Baito Shokun!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/244927.jpg",
+        "alt": "soko-no-koisuru-baito-shokun"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

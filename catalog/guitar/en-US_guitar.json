@@ -1,5 +1,9 @@
 {
     "title": "Guitar",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/76325.jpg",
+        "alt": "guitar"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "ギター",

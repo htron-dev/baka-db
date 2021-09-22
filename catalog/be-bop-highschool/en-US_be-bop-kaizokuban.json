@@ -1,5 +1,9 @@
 {
     "title": "Be-Bop Kaizokuban",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/62799.jpg",
+        "alt": "be-bop-kaizokuban"
+    },
     "type": "ova",
     "episodes": "3",
     "original_name": "Be-Bop 海賊版",

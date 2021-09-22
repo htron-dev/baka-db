@@ -1,5 +1,9 @@
 {
     "title": "End Start Line",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/220856.jpg",
+        "alt": "end-start-line"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,5 +1,9 @@
 {
     "title": "Cream Caramel Ichigo Milk",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/22128.jpg",
+        "alt": "cream-caramel-ichigo-milk"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

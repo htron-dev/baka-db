@@ -1,5 +1,9 @@
 {
     "title": "Ghost wa Kiss wo Kirau",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/29941.jpg",
+        "alt": "ghost-wa-kiss-wo-kirau"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

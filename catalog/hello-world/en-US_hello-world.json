@@ -1,5 +1,9 @@
 {
     "title": "Hello, World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/157047.jpg",
+        "alt": "hello-world"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "15",

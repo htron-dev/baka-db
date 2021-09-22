@@ -1,5 +1,9 @@
 {
     "title": "Miyama-san Chi no Berutein",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/163566.jpg",
+        "alt": "miyama-san-chi-no-berutein"
+    },
     "type": "light-novel",
     "volumes": "2",
     "chapters": "45",

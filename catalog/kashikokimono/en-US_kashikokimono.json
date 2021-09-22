@@ -1,5 +1,9 @@
 {
     "title": "Kashikokimono",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/77038.jpg",
+        "alt": "kashikokimono"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "KASHIKOKIMONO (かしこきもの)",

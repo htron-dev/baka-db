@@ -1,12 +1,16 @@
 {
     "title": "Rilu Rilu Fairilu: Yousei no Door",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/7/83790.jpg",
+        "alt": "rilu-rilu-fairilu-yousei-no-door"
+    },
     "type": "tv-serie",
     "episodes": "59",
     "original_name": "リルリルフェアリル～妖精のドア～",
     "start_date": "2016-02-06",
     "end_date": "2016-02-06",
     "opening_song": "\"Brand New Days\" by Apink",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Key of Life\" by Shiggy Jr. (eps 1-15)",
     "rating": "G - All Ages",
     "tags": [
         "slice-of-life",

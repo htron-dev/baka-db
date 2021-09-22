@@ -1,5 +1,9 @@
 {
     "title": "Geo Mecha: Captain Dino",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1684/115252.jpg",
+        "alt": "geo-mecha-captain-dino"
+    },
     "type": "tv-serie",
     "episodes": "26",
     "original_name": "지오메카 캡틴다이노",

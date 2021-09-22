@@ -1,5 +1,9 @@
 {
     "title": "Neko no Koi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/29314.jpg",
+        "alt": "neko-no-koi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

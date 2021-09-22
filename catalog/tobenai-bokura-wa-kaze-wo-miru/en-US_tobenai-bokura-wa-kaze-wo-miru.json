@@ -1,5 +1,9 @@
 {
     "title": "Tobenai Bokura wa Kaze wo Miru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/15812.jpg",
+        "alt": "tobenai-bokura-wa-kaze-wo-miru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

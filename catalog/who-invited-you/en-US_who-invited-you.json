@@ -1,5 +1,9 @@
 {
     "title": "Who Invited You?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/220731.jpg",
+        "alt": "who-invited-you"
+    },
     "type": "manhwa",
     "volumes": "5",
     "original_name": "우리 집에 왜 왔니",

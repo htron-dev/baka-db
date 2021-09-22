@@ -1,5 +1,9 @@
 {
     "title": "Senjutsu Choukoukaku Orion",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/24812.jpg",
+        "alt": "senjutsu-choukoukaku-orion"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "仙術超攻殻オリオン",
@@ -20,7 +24,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Orion_(manga"
+            "link": "http://en.wikipedia.org/wiki/Orion_%28manga%29"
         }
     ]
 }

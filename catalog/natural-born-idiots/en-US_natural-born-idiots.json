@@ -1,5 +1,9 @@
 {
     "title": "Natural Born Idiots",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/183841.jpg",
+        "alt": "natural-born-idiots"
+    },
     "type": "manhwa",
     "volumes": "4",
     "chapters": "74",

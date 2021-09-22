@@ -1,5 +1,9 @@
 {
     "title": "Motokare ga Fudanshi ni Natteorimashite.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/225385.jpg",
+        "alt": "motokare-ga-fudanshi-ni-natteorimashite"
+    },
     "type": "manga",
     "original_name": "元カレが腐男子になっておりまして。",
     "start_date": "2018-01-20",

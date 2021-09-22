@@ -1,5 +1,9 @@
 {
     "title": "Otoko no Hanamichi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/30682.jpg",
+        "alt": "otoko-no-hanamichi"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "オトコの花道",

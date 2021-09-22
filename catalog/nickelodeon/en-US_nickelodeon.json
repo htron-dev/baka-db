@@ -1,5 +1,9 @@
 {
     "title": "Nickelodeon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/64959.jpg",
+        "alt": "nickelodeon"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "39",

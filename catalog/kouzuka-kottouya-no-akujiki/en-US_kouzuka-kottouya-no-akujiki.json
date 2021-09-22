@@ -1,5 +1,9 @@
 {
     "title": "Kouzuka Kottouya no Akujiki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/225119.jpg",
+        "alt": "kouzuka-kottouya-no-akujiki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

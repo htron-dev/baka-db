@@ -1,5 +1,9 @@
 {
     "title": "Anata ja Nai to",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/4549.jpg",
+        "alt": "anata-ja-nai-to"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

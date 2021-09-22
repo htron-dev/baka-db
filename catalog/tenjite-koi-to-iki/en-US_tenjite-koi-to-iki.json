@@ -1,5 +1,9 @@
 {
     "title": "Tenjite Koi to Iki",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/232316.jpg",
+        "alt": "tenjite-koi-to-iki"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

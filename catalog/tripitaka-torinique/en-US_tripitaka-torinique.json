@@ -1,5 +1,9 @@
 {
     "title": "Tripitaka Torinique",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/195543.jpg",
+        "alt": "tripitaka-torinique"
+    },
     "type": "manga",
     "volumes": "4",
     "chapters": "23",

@@ -1,5 +1,9 @@
 {
     "title": "Kingdom Hearts: Chain of Memories",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/158373.jpg",
+        "alt": "kingdom-hearts-chain-of-memories"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "23",

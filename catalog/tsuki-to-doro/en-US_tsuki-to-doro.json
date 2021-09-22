@@ -1,5 +1,9 @@
 {
     "title": "Tsuki to Doro",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/149764.jpg",
+        "alt": "tsuki-to-doro"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Kamiato kara, Hatsukoi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/246609.jpg",
+        "alt": "kamiato-kara-hatsukoi"
+    },
     "type": "manga",
     "original_name": "噛み痕から、初恋",
     "start_date": "2018-10-12",

@@ -1,5 +1,9 @@
 {
     "title": "Kamisama Shinkaron",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/21548.jpg",
+        "alt": "kamisama-shinkaron"
+    },
     "type": "manga",
     "original_name": "カミサマ進化論",
     "tags": [

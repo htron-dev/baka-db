@@ -1,5 +1,9 @@
 {
     "title": "Ingress the Animation",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1944/93421.jpg",
+        "alt": "ingress-the-animation"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "INGRESS THE ANIMATION",

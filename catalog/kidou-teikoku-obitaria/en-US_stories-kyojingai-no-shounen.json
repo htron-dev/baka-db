@@ -1,5 +1,9 @@
 {
     "title": "Stories: Kyojingai no Shounen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/174112.jpg",
+        "alt": "stories-kyojingai-no-shounen"
+    },
     "type": "manga",
     "chapters": "11",
     "original_name": "ストーリーズ～巨人街の少年～",

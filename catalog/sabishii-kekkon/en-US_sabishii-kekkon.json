@@ -1,5 +1,9 @@
 {
     "title": "Sabishii Kekkon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/227178.jpg",
+        "alt": "sabishii-kekkon"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "さびしい結婚",

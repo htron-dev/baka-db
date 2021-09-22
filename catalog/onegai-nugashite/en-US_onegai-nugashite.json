@@ -1,5 +1,9 @@
 {
     "title": "Onegai, Nugashite.",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/226569.jpg",
+        "alt": "onegai-nugashite"
+    },
     "type": "manga",
     "original_name": "お願い、脱がシて。",
     "start_date": "2019-08-25",

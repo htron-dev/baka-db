@@ -1,5 +1,9 @@
 {
     "title": "Strain",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/31701.jpg",
+        "alt": "strain"
+    },
     "type": "manga",
     "volumes": "5",
     "chapters": "40",

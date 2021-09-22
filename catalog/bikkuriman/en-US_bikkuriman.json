@@ -1,5 +1,9 @@
 {
     "title": "Bikkuriman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/6/7021.jpg",
+        "alt": "bikkuriman"
+    },
     "type": "tv-serie",
     "episodes": "75",
     "original_name": "ビックリマン",
@@ -30,7 +34,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://ja.wikipedia.org/wiki/ビックリマン_(アニメ"
+            "link": "http://ja.wikipedia.org/wiki/ビックリマン_%28アニメ%29"
         }
     ]
 }

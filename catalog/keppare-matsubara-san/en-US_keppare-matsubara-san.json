@@ -1,5 +1,9 @@
 {
     "title": "Keppare Matsubara-san!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/155819.jpg",
+        "alt": "keppare-matsubara-san"
+    },
     "type": "manga",
     "original_name": "ケッパレ 松原さん!",
     "start_date": "2014-09-22",

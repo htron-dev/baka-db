@@ -1,5 +1,9 @@
 {
     "title": "Mage Oblige",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163301.jpg",
+        "alt": "mage-oblige"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "7",

@@ -1,5 +1,9 @@
 {
     "title": "Duel Masters: Lunatic God Saga",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/113863.jpg",
+        "alt": "duel-masters-lunatic-god-saga"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "10",

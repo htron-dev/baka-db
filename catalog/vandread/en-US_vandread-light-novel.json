@@ -1,5 +1,9 @@
 {
     "title": "Vandread",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/152092.jpg",
+        "alt": "vandread"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "18",

@@ -1,5 +1,9 @@
 {
     "title": "Gyo: Ugomeku Bukimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/88711.jpg",
+        "alt": "gyo-ugomeku-bukimi"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "21",

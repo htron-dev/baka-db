@@ -1,5 +1,9 @@
 {
     "title": "Aoiro Toshokan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/10913.jpg",
+        "alt": "aoiro-toshokan"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "青色図書館",

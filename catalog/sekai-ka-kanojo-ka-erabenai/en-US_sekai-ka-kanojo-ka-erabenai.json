@@ -1,5 +1,9 @@
 {
     "title": "Sekai ka Kanojo ka Erabenai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/198943.jpg",
+        "alt": "sekai-ka-kanojo-ka-erabenai"
+    },
     "type": "manga",
     "volumes": "9",
     "chapters": "45",

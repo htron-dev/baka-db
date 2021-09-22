@@ -1,5 +1,9 @@
 {
     "title": "Dog Days'",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/9/42105.jpg",
+        "alt": "dog-days"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "ドッグデイズ'",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Dog_Days_(anime"
+            "link": "http://en.wikipedia.org/wiki/Dog_Days_%28anime%29"
         },
         {
             "text": "Official Site",
@@ -50,7 +54,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Dog_Days_(anime"
+            "link": "http://en.wikipedia.org/wiki/Dog_Days_%28anime%29"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Otoko no Ko Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/92645.jpg",
+        "alt": "otoko-no-ko-days"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

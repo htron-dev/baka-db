@@ -1,5 +1,9 @@
 {
     "title": "Sora no Subaru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/185735.jpg",
+        "alt": "sora-no-subaru"
+    },
     "type": "manga",
     "volumes": "21",
     "chapters": "174",

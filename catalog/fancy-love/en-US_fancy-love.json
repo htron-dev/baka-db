@@ -1,5 +1,9 @@
 {
     "title": "Fancy Love",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/20046.jpg",
+        "alt": "fancy-love"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

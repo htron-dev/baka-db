@@ -1,5 +1,9 @@
 {
     "title": "Hetalia World Series Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/28864.jpg",
+        "alt": "hetalia-world-series-specials"
+    },
     "type": "special",
     "episodes": "4",
     "original_name": "ヘタリア World Series エクストラエピソード",

@@ -1,5 +1,9 @@
 {
     "title": "Otonari-san Game",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/162170.jpg",
+        "alt": "otonari-san-game"
+    },
     "type": "manga",
     "original_name": "お隣さんゲーム",
     "start_date": "2013-06-12",

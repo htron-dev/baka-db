@@ -1,5 +1,9 @@
 {
     "title": "K: Memory of Red",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/80003.jpg",
+        "alt": "k-memory-of-red"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "16",

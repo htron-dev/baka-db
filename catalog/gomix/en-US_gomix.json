@@ -1,5 +1,9 @@
 {
     "title": "Gomix",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/190079.jpg",
+        "alt": "gomix"
+    },
     "type": "manga",
     "chapters": "9",
     "original_name": "GOMIX",

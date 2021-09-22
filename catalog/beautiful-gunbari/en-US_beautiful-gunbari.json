@@ -1,5 +1,9 @@
 {
     "title": "Beautiful Gunbari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/228271.jpg",
+        "alt": "beautiful-gunbari"
+    },
     "type": "manhwa",
     "original_name": "뷰티풀 군바리",
     "start_date": "2015-02-23",

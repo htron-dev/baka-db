@@ -1,5 +1,9 @@
 {
     "title": "Kimi to Itadakimasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/240056.jpg",
+        "alt": "kimi-to-itadakimasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

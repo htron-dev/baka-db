@@ -1,5 +1,9 @@
 {
     "title": "Kyuuai Kareshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/64725.jpg",
+        "alt": "kyuuai-kareshi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

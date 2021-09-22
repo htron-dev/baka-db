@@ -1,5 +1,9 @@
 {
     "title": "Konpeki no Prisoner",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/207969.jpg",
+        "alt": "konpeki-no-prisoner"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "18",

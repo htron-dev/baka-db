@@ -1,5 +1,9 @@
 {
     "title": "My Sweet Honey?",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/165506.jpg",
+        "alt": "my-sweet-honey"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

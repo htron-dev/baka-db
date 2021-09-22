@@ -1,5 +1,9 @@
 {
     "title": "Kagemusha Tokugawa Ieyasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/134399.jpg",
+        "alt": "kagemusha-tokugawa-ieyasu"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "51",

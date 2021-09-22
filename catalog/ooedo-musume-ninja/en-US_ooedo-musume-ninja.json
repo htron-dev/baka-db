@@ -1,5 +1,9 @@
 {
     "title": "Ooedo Musume Ninja",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/95789.jpg",
+        "alt": "ooedo-musume-ninja"
+    },
     "type": "manga",
     "volumes": "3",
     "chapters": "20",

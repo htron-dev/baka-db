@@ -1,5 +1,9 @@
 {
     "title": "Sayonara, Mata ne",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/77253.jpg",
+        "alt": "sayonara-mata-ne"
+    },
     "type": "manga",
     "chapters": "3",
     "original_name": "さよなら、またね",

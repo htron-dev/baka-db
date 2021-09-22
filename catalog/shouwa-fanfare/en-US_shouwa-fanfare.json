@@ -1,5 +1,9 @@
 {
     "title": "Shouwa Fanfare",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205489.jpg",
+        "alt": "shouwa-fanfare"
+    },
     "type": "manga",
     "volumes": "7",
     "chapters": "36",

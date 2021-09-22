@@ -1,5 +1,9 @@
 {
     "title": "Bleach: The Honey Dish Rhapsody",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/78797.jpg",
+        "alt": "bleach-the-honey-dish-rhapsody"
+    },
     "type": "light-novel",
     "volumes": "1",
     "chapters": "3",

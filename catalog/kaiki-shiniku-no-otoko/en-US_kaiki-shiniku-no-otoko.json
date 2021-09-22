@@ -1,5 +1,9 @@
 {
     "title": "Kaiki! Shiniku no Otoko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/94529.jpg",
+        "alt": "kaiki-shiniku-no-otoko"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "10",

@@ -1,5 +1,9 @@
 {
     "title": "Tsukushite Agemasu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/29771.jpg",
+        "alt": "tsukushite-agemasu"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

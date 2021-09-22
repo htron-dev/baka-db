@@ -1,5 +1,9 @@
 {
     "title": "Angel Bank: Dragon Zakura Gaiden",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/76367.jpg",
+        "alt": "angel-bank-dragon-zakura-gaiden"
+    },
     "type": "manga",
     "volumes": "14",
     "chapters": "125",

@@ -1,5 +1,9 @@
 {
     "title": "Date A Live",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/165177.jpg",
+        "alt": "date-a-live"
+    },
     "type": "light-novel",
     "volumes": "22",
     "chapters": "146",

@@ -1,5 +1,9 @@
 {
     "title": "Teekyuu 3",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/73503.jpg",
+        "alt": "teekyuu-3"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "てーきゅう ３期",

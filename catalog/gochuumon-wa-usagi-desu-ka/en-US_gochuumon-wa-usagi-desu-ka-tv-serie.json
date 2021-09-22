@@ -1,12 +1,16 @@
 {
     "title": "Gochuumon wa Usagi Desu ka??",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/76702.jpg",
+        "alt": "gochuumon-wa-usagi-desu-ka"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ご注文はうさぎですか??",
     "start_date": "2015-10-10",
     "end_date": "2015-10-10",
     "opening_song": "\"no poi! (ノーポイッ！)\" by Petit Rabbit's (Ayane Sakura, Inori Minase, Risa Taneda, Satomi Sato, Maaya Uchida)",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Tokimeki Poporon♪ (ときめきポポロン ♪)\" by Chimame-tai (Inori Minase, Sora Tokui, Rie Murakawa) (eps 1-11)",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "slice-of-life",

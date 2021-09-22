@@ -1,5 +1,9 @@
 {
     "title": "Shikong Long Qishi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1268/115363.jpg",
+        "alt": "shikong-long-qishi"
+    },
     "type": "tv-serie",
     "episodes": "52",
     "original_name": "时空龙骑士",

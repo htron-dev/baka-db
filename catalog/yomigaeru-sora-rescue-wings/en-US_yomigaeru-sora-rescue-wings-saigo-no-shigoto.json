@@ -1,10 +1,14 @@
 {
     "title": "Yomigaeru Sora: Rescue Wings - Saigo no Shigoto",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1/1843.jpg",
+        "alt": "yomigaeru-sora-rescue-wings-saigo-no-shigoto"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "よみがえる空 -RESCUE WINGS- 最後の仕事",
     "start_date": "2006-06-17",
-    "ending_song": "\"EMBLEM",
+    "ending_song": "\"EMBLEM: Na mo naki Eiyuu-tachi\" by JAM Project",
     "rating": "PG-13 - Teens 13 or older",
     "tags": [
         "military",

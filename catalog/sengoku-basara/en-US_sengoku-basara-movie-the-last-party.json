@@ -1,5 +1,9 @@
 {
     "title": "Sengoku Basara Movie: The Last Party",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/50871.jpg",
+        "alt": "sengoku-basara-movie-the-last-party"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "劇場版 戦国 BASARA -The Last Party-",
@@ -34,7 +38,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/Sengoku_Basara_(anime"
+            "link": "http://en.wikipedia.org/wiki/Sengoku_Basara_%28anime%29"
         }
     ]
 }

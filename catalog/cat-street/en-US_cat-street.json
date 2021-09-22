@@ -1,5 +1,9 @@
 {
     "title": "Cat Street",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/176481.jpg",
+        "alt": "cat-street"
+    },
     "type": "manga",
     "volumes": "8",
     "chapters": "36",

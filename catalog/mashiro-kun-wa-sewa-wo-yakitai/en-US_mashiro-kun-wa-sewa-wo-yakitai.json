@@ -1,5 +1,9 @@
 {
     "title": "Mashiro-kun wa Sewa wo Yakitai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/204394.jpg",
+        "alt": "mashiro-kun-wa-sewa-wo-yakitai"
+    },
     "type": "manga",
     "original_name": "ましろくんは世話をやきたいっ！",
     "start_date": "2016-09-17",

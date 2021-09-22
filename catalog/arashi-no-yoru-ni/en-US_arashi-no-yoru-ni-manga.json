@@ -1,5 +1,9 @@
 {
     "title": "Arashi no Yoru ni",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/182064.jpg",
+        "alt": "arashi-no-yoru-ni"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

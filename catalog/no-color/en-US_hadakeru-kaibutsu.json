@@ -1,5 +1,9 @@
 {
     "title": "Hadakeru Kaibutsu",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/204365.jpg",
+        "alt": "hadakeru-kaibutsu"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "14",

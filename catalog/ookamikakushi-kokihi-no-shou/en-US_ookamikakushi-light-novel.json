@@ -1,5 +1,9 @@
 {
     "title": "Ookamikakushi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/177752.jpg",
+        "alt": "ookamikakushi"
+    },
     "type": "light-novel",
     "volumes": "3",
     "chapters": "15",

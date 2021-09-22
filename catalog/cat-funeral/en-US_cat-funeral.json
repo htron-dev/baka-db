@@ -1,5 +1,9 @@
 {
     "title": "Cat Funeral",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/78199.jpg",
+        "alt": "cat-funeral"
+    },
     "type": "manhwa",
     "volumes": "1",
     "chapters": "8",

@@ -1,5 +1,9 @@
 {
     "title": "Amagami dake dewa Sumasanai!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/245480.jpg",
+        "alt": "amagami-dake-dewa-sumasanai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

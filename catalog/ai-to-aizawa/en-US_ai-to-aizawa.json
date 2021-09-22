@@ -1,5 +1,9 @@
 {
     "title": "Ai to Aizawa",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/231866.jpg",
+        "alt": "ai-to-aizawa"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "12",

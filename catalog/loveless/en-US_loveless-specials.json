@@ -1,5 +1,9 @@
 {
     "title": "Loveless Specials",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/10/22681.jpg",
+        "alt": "loveless-specials"
+    },
     "type": "special",
     "episodes": "6",
     "original_name": "LOVELESS おはよう ラブレスくーん",

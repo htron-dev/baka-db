@@ -1,5 +1,9 @@
 {
     "title": "Tian Huang Zhan Shen",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1946/110439.jpg",
+        "alt": "tian-huang-zhan-shen"
+    },
     "type": "ona",
     "episodes": "80",
     "original_name": "天荒战神",

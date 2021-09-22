@@ -1,5 +1,9 @@
 {
     "title": "Battle Mode",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1028/111033.jpg",
+        "alt": "battle-mode"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "アニメショップパロディ／BATTLE MODE",

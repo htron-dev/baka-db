@@ -1,5 +1,9 @@
 {
     "title": "Mikansei No.1",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/176570.jpg",
+        "alt": "mikansei-no-1"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "13",

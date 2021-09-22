@@ -1,5 +1,9 @@
 {
     "title": "Akage no Anne: Green Gables e no Michi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1624/114184.jpg",
+        "alt": "akage-no-anne-green-gables-e-no-michi"
+    },
     "type": "movie",
     "episodes": "1",
     "original_name": "赤毛のアン グリーンゲーブルズへの道",
@@ -27,7 +31,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<https://ja.wikipedia.org/wiki/%E8%B5%A4%E6%AF%9B%E3%81%AE%E3%82%A2%E3%83%B3_(%E3%82%A2%E3%83%8B%E3%83%A1"
+            "link": "https://ja.wikipedia.org/wiki/%E8%B5%A4%E6%AF%9B%E3%81%AE%E3%82%A2%E3%83%B3_%28%E3%82%A2%E3%83%8B%E3%83%A1%29#%E5%8A%87%E5%A0%B4%E7%89%88"
         }
     ]
 }

@@ -1,5 +1,9 @@
 {
     "title": "Utau! Heiankyou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/143523.jpg",
+        "alt": "utau-heiankyou"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "34",

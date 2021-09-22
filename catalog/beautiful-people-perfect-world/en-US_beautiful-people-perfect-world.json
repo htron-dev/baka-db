@@ -1,5 +1,9 @@
 {
     "title": "Beautiful People Perfect World",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/146317.jpg",
+        "alt": "beautiful-people-perfect-world"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "8",

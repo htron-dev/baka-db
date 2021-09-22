@@ -1,5 +1,9 @@
 {
     "title": "Hidamari Sketch x Honeycomb",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/2/50501.jpg",
+        "alt": "hidamari-sketch-x-honeycomb"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ひだまりスケッチ × ハニカム",

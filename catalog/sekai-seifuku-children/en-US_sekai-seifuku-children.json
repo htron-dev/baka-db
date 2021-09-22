@@ -1,5 +1,9 @@
 {
     "title": "Sekai Seifuku Children",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/24345.jpg",
+        "alt": "sekai-seifuku-children"
+    },
     "type": "manga",
     "original_name": "世界征服チルドレン",
     "tags": [

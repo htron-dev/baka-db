@@ -1,5 +1,9 @@
 {
     "title": "Kore wa Koi ni Fukumaremasu ka",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/180732.jpg",
+        "alt": "kore-wa-koi-ni-fukumaremasu-ka"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

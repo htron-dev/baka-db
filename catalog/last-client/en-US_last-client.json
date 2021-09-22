@@ -1,5 +1,9 @@
 {
     "title": "Last Client",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/4/13047.jpg",
+        "alt": "last-client"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

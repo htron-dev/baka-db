@@ -1,5 +1,9 @@
 {
     "title": "Toorisugari ni Koroshitai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/23142.jpg",
+        "alt": "toorisugari-ni-koroshitai"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "通りすがりに殺したい",

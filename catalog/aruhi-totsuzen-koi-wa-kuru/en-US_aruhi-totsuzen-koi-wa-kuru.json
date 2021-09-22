@@ -1,5 +1,9 @@
 {
     "title": "Aruhi Totsuzen Koi wa Kuru?!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/40491.jpg",
+        "alt": "aruhi-totsuzen-koi-wa-kuru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

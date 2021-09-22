@@ -1,5 +1,9 @@
 {
     "title": "Yasashisa Endless",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/124373.jpg",
+        "alt": "yasashisa-endless"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "やさしさエンドレス",

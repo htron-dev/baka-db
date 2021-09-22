@@ -1,5 +1,9 @@
 {
     "title": "Love Drug",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/21812.jpg",
+        "alt": "love-drug"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

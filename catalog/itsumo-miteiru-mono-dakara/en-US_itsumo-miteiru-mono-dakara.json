@@ -1,5 +1,9 @@
 {
     "title": "Itsumo Miteiru Mono Dakara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/20217.jpg",
+        "alt": "itsumo-miteiru-mono-dakara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

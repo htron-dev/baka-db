@@ -1,5 +1,9 @@
 {
     "title": "Gakuen Heaven: Love & Sweet",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/22125.jpg",
+        "alt": "gakuen-heaven-love-sweet"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "9",

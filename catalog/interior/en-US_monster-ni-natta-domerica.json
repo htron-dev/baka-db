@@ -1,5 +1,9 @@
 {
     "title": "Monster ni Natta Domerica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/5/62323.jpg",
+        "alt": "monster-ni-natta-domerica"
+    },
     "type": "ona",
     "episodes": "1",
     "original_name": "モンスターになったドメリカ",

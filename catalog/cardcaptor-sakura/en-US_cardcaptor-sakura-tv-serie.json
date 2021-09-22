@@ -1,12 +1,16 @@
 {
     "title": "Cardcaptor Sakura",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/8/60781.jpg",
+        "alt": "cardcaptor-sakura"
+    },
     "type": "tv-serie",
     "episodes": "70",
     "original_name": "カードキャプターさくら",
     "start_date": "1998-04-07",
     "end_date": "1998-04-07",
-    "opening_song": "#1",
-    "ending_song": "#1",
+    "opening_song": "#1: \"Catch You Catch Me\" by Gumi (eps 1-35)",
+    "ending_song": "#1: \"Groovy!\" by Koumi Hirose (eps 1-35)",
     "rating": "PG - Children",
     "tags": [
         "adventure",

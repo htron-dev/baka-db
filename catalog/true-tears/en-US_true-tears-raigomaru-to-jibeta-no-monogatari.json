@@ -1,5 +1,9 @@
 {
     "title": "True Tears: Raigomaru to Jibeta no Monogatari",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/24906.jpg",
+        "alt": "true-tears-raigomaru-to-jibeta-no-monogatari"
+    },
     "type": "special",
     "episodes": "1",
     "original_name": "雷轟丸とじべたの物語",
@@ -22,7 +26,7 @@
         },
         {
             "text": "Wikipedia",
-            "link": "<http://en.wikipedia.org/wiki/True_Tears_(anime"
+            "link": "http://en.wikipedia.org/wiki/True_Tears_%28anime%29"
         }
     ]
 }

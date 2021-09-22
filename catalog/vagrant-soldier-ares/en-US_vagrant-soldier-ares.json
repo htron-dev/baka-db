@@ -1,5 +1,9 @@
 {
     "title": "Vagrant Soldier Ares",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/129069.jpg",
+        "alt": "vagrant-soldier-ares"
+    },
     "type": "manhwa",
     "volumes": "26",
     "chapters": "207",

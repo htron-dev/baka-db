@@ -1,5 +1,9 @@
 {
     "title": "Koucha Ouji no Himegimi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/16776.jpg",
+        "alt": "koucha-ouji-no-himegimi"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

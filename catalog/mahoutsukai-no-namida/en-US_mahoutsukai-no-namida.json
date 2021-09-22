@@ -1,5 +1,9 @@
 {
     "title": "Mahoutsukai no Namida",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/98991.jpg",
+        "alt": "mahoutsukai-no-namida"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

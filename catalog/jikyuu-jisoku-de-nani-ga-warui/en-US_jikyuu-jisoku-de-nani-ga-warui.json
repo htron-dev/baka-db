@@ -1,5 +1,9 @@
 {
     "title": "Jikyuu Jisoku de Nani ga Warui!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/238452.jpg",
+        "alt": "jikyuu-jisoku-de-nani-ga-warui"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "8",

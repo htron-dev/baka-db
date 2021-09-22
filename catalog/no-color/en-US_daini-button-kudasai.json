@@ -1,5 +1,9 @@
 {
     "title": "Daini Button Kudasai",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/32732.jpg",
+        "alt": "daini-button-kudasai"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "14",

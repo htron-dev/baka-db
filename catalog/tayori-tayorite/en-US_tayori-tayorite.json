@@ -1,5 +1,9 @@
 {
     "title": "Tayori Tayorite",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/238304.jpg",
+        "alt": "tayori-tayorite"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

@@ -1,5 +1,9 @@
 {
     "title": "Break☆Cafe",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/26334.jpg",
+        "alt": "break☆-cafe"
+    },
     "type": "manga",
     "original_name": "ブレイク・カフェ; ブレイク ☆ カフェ",
     "tags": [

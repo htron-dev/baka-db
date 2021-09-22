@@ -1,5 +1,9 @@
 {
     "title": "Gekijouban Pocket Monsters Diamond & Pearl: Giratina to Sora no Hanataba Shaymin",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/126431.jpg",
+        "alt": "gekijouban-pocket-monsters-diamond-pearl-giratina-to-sora-no-hanataba-shaymin"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "4",

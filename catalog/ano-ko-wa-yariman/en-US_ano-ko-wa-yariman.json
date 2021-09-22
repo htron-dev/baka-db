@@ -1,5 +1,9 @@
 {
     "title": "Ano Ko wa Yariman",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/170778.jpg",
+        "alt": "ano-ko-wa-yariman"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "23",

@@ -1,5 +1,9 @@
 {
     "title": "Fairy Idol Kanon",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/205386.jpg",
+        "alt": "fairy-idol-kanon"
+    },
     "type": "manga",
     "volumes": "4",
     "original_name": "フェアリーアイドルかのん",

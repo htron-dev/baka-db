@@ -1,5 +1,9 @@
 {
     "title": "Kousoku Program",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/172273.jpg",
+        "alt": "kousoku-program"
+    },
     "type": "manga",
     "volumes": "1",
     "original_name": "拘束プログラム",

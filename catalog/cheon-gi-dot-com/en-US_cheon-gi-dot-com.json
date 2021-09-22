@@ -1,5 +1,9 @@
 {
     "title": "Cheon Gi dot com",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/10555.jpg",
+        "alt": "cheon-gi-dot-com"
+    },
     "type": "manhwa",
     "volumes": "8",
     "tags": [

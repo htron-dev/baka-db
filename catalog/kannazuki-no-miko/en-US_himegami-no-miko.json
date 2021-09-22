@@ -1,5 +1,9 @@
 {
     "title": "Himegami no Miko",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/239394.jpg",
+        "alt": "himegami-no-miko"
+    },
     "type": "manga",
     "original_name": "姫神の巫女",
     "start_date": "2020-05-27",

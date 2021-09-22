@@ -1,5 +1,9 @@
 {
     "title": "Afureru Namida wo Nomikonda nara",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/224986.jpg",
+        "alt": "afureru-namida-wo-nomikonda-nara"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "5",

@@ -1,12 +1,16 @@
 {
     "title": "One Punch Man 2nd Season",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1805/99571.jpg",
+        "alt": "one-punch-man-2nd-season"
+    },
     "type": "tv-serie",
     "episodes": "12",
     "original_name": "ワンパンマン",
     "start_date": "2019-04-10",
     "end_date": "2019-04-10",
     "opening_song": "\"Seijaku no Apostle (静寂のアポストル)\" by JAM Project",
-    "ending_song": "#1",
+    "ending_song": "#1: \"Seijaku no Apostle (静寂のアポストル)\" by JAM Project (eps 1, 12)",
     "rating": "R - 17+ (violence & profanity)",
     "tags": [
         "action",

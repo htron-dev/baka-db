@@ -1,5 +1,9 @@
 {
     "title": "Long Riders!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/154536.jpg",
+        "alt": "long-riders"
+    },
     "type": "manga",
     "original_name": "ろんぐらいだぁす!",
     "start_date": "2012-09-27",

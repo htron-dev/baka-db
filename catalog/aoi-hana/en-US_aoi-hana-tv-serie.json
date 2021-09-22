@@ -1,5 +1,9 @@
 {
     "title": "Aoi Hana",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/3/80255.jpg",
+        "alt": "aoi-hana"
+    },
     "type": "tv-serie",
     "episodes": "11",
     "original_name": "青い花",

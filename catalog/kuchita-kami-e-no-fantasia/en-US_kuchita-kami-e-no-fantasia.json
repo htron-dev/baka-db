@@ -1,5 +1,9 @@
 {
     "title": "Kuchita Kami e no Fantasia",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/163371.jpg",
+        "alt": "kuchita-kami-e-no-fantasia"
+    },
     "type": "light-novel",
     "volumes": "4",
     "chapters": "20",

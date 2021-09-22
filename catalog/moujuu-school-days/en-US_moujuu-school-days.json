@@ -1,5 +1,9 @@
 {
     "title": "Moujuu School Days",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/1/156497.jpg",
+        "alt": "moujuu-school-days"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "6",

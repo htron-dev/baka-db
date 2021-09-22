@@ -1,5 +1,9 @@
 {
     "title": "Maria-sama ga Miteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/1994/114208.jpg",
+        "alt": "maria-sama-ga-miteru"
+    },
     "type": "tv-serie",
     "episodes": "13",
     "original_name": "マリア様がみてる",

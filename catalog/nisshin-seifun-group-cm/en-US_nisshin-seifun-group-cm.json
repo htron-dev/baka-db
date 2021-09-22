@@ -1,5 +1,9 @@
 {
     "title": "Nisshin Seifun Group CM",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/11/81240.jpg",
+        "alt": "nisshin-seifun-group-cm"
+    },
     "type": "special",
     "episodes": "3",
     "original_name": "日清製粉グループ CM",

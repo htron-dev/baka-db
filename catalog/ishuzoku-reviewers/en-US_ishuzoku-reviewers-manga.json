@@ -1,5 +1,9 @@
 {
     "title": "Ishuzoku Reviewers",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/200492.jpg",
+        "alt": "ishuzoku-reviewers"
+    },
     "type": "manga",
     "original_name": "異種族レビュアーズ",
     "start_date": "2016-07-09",

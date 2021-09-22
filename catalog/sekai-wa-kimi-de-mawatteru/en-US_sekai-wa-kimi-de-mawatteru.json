@@ -1,5 +1,9 @@
 {
     "title": "Sekai wa Kimi de Mawatteru",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/96293.jpg",
+        "alt": "sekai-wa-kimi-de-mawatteru"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "7",

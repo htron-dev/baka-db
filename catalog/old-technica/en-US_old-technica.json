@@ -1,5 +1,9 @@
 {
     "title": "Old Technica",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/205761.jpg",
+        "alt": "old-technica"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "11",

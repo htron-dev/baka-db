@@ -1,5 +1,9 @@
 {
     "title": "Tabako-chan",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/216317.jpg",
+        "alt": "tabako-chan"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "28",

@@ -1,5 +1,9 @@
 {
     "title": "Tartaros Gekijou",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/3/117923.jpg",
+        "alt": "tartaros-gekijou"
+    },
     "type": "manga",
     "original_name": "タルタロス劇場",
     "tags": [

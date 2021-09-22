@@ -1,5 +1,9 @@
 {
     "title": "Ryuu no Nemuru Hoshi",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/5/40318.jpg",
+        "alt": "ryuu-no-nemuru-hoshi"
+    },
     "type": "manga",
     "volumes": "5",
     "original_name": "竜の眠る星",

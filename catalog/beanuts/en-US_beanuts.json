@@ -1,5 +1,9 @@
 {
     "title": "Beanuts",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/anime/13/70571.jpg",
+        "alt": "beanuts"
+    },
     "type": "special",
     "episodes": "2",
     "original_name": "ビーナッツ",

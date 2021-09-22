@@ -1,5 +1,9 @@
 {
     "title": "Choujikuu Yousai Macross: The First",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/179051.jpg",
+        "alt": "choujikuu-yousai-macross-the-first"
+    },
     "type": "manga",
     "volumes": "6",
     "chapters": "28",

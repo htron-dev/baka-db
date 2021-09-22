@@ -1,5 +1,9 @@
 {
     "title": "Step x Step!!",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/35984.jpg",
+        "alt": "step-x-step"
+    },
     "type": "manga",
     "volumes": "1",
     "chapters": "2",

@@ -1,5 +1,9 @@
 {
     "title": "Rakka Ryuusui",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/117453.jpg",
+        "alt": "rakka-ryuusui"
+    },
     "type": "manga",
     "volumes": "9",
     "original_name": "落花流水",

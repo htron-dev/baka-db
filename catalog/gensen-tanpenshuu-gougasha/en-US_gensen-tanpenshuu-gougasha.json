@@ -1,5 +1,9 @@
 {
     "title": "Gensen Tanpenshuu: Gougasha",
+    "thumbnail": {
+        "src": "https://cdn.myanimelist.net/images/manga/2/213391.jpg",
+        "alt": "gensen-tanpenshuu-gougasha"
+    },
     "type": "manga",
     "volumes": "2",
     "chapters": "15",
