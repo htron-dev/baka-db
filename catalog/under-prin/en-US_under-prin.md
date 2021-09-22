@@ -1,5 +1,7 @@
 # Under Prin
 
+![under-prin](https://cdn.myanimelist.net/images/manga/3/167947.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 325
 -   **original-name**: 언더프린

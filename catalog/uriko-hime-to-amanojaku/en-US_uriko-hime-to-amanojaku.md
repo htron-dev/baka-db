@@ -1,5 +1,7 @@
 # Uriko-hime to Amanojaku
 
+![uriko-hime-to-amanojaku](https://cdn.myanimelist.net/images/anime/13/71806.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 瓜子姫とあまのじゃく

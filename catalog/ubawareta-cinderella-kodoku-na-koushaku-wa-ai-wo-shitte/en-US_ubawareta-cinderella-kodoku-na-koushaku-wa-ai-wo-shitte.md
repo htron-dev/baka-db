@@ -1,5 +1,7 @@
 # Ubawareta Cinderella: Kodoku na Koushaku wa Ai wo Shitte
 
+![ubawareta-cinderella-kodoku-na-koushaku-wa-ai-wo-shitte](https://cdn.myanimelist.net/images/manga/3/182571.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

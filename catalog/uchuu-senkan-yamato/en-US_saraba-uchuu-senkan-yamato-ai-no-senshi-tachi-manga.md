@@ -1,5 +1,7 @@
 # Saraba Uchuu Senkan Yamato: Ai no Senshi-tachi
 
+![saraba-uchuu-senkan-yamato-ai-no-senshi-tachi](https://cdn.myanimelist.net/images/manga/2/61017.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: さらば宇宙戦艦ヤマト―愛の戦士たち

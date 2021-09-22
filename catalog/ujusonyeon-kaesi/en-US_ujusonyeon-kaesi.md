@@ -1,5 +1,7 @@
 # Ujusonyeon Kaesi
 
+![ujusonyeon-kaesi](https://cdn.myanimelist.net/images/anime/7/49019.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 우주소년 캐시

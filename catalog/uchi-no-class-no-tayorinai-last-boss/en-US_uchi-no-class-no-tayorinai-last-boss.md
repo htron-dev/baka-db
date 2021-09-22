@@ -1,5 +1,7 @@
 # Uchi no Class no Tayorinai Last Boss
 
+![uchi-no-class-no-tayorinai-last-boss](https://cdn.myanimelist.net/images/manga/1/163706.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 24

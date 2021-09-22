@@ -1,5 +1,7 @@
 # Usotsuki Ouji to Nisemono Kanojo
 
+![usotsuki-ouji-to-nisemono-kanojo](https://cdn.myanimelist.net/images/manga/1/134417.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 20

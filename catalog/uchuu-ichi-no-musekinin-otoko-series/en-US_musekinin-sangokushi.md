@@ -1,5 +1,7 @@
 # Musekinin Sangokushi
 
+![musekinin-sangokushi](https://cdn.myanimelist.net/images/manga/2/238069.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 81

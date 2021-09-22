@@ -1,5 +1,7 @@
 # Utopia's Avenger
 
+![utopias-avenger](https://cdn.myanimelist.net/images/manga/3/171498.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **original-name**: 홍길동 무림전사록

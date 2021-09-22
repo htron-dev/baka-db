@@ -1,5 +1,7 @@
 # Umeboshi Denka
 
+![umeboshi-denka](https://cdn.myanimelist.net/images/anime/6/36027.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ウメ星デンカ

@@ -1,5 +1,7 @@
 # Uta no☆Prince-sama♪: Maji Love 2000%
 
+![uta-no☆-prince-sama♪-maji-love-2000](https://cdn.myanimelist.net/images/anime/12/44019.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: うたの ☆ プリンスさまっ ♪ マジ LOVE2000%

@@ -1,5 +1,7 @@
 # Harukaze no Étranger
 
+![harukaze-no-etranger](https://cdn.myanimelist.net/images/manga/2/173314.jpg)
+
 -   **type**: manga
 -   **original-name**: 春風のエトランゼ
 -   **start-date**: 2014-07-25

@@ -1,5 +1,7 @@
 # Usahana: Yumemiru Ballerina
 
+![usahana-yumemiru-ballerina](https://cdn.myanimelist.net/images/anime/9/14879.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: ウサハナ 夢見るバレリーナ

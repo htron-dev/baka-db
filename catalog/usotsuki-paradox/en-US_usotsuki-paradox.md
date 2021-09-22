@@ -1,5 +1,7 @@
 # Usotsuki Paradox
 
+![usotsuki-paradox](https://cdn.myanimelist.net/images/manga/1/52965.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 75

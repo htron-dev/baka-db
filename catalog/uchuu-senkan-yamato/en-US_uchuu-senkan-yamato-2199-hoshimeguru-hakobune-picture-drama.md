@@ -1,5 +1,7 @@
 # Uchuu Senkan Yamato 2199: Hoshimeguru Hakobune Picture Drama
 
+![uchuu-senkan-yamato-2199-hoshimeguru-hakobune-picture-drama](https://cdn.myanimelist.net/images/anime/1441/116136.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 宇宙戦艦ヤマト 2199 星巡る方舟

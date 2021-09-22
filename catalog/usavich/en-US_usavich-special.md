@@ -1,5 +1,7 @@
 # Usavich Special
 
+![usavich-special](https://cdn.myanimelist.net/images/anime/12/15965.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ウサビッチ: 労働の時間（裏）

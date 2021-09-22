@@ -1,5 +1,7 @@
 # Uchuu Senshi Baldios
 
+![uchuu-senshi-baldios](https://cdn.myanimelist.net/images/anime/1732/102927.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 34
 -   **original-name**: 宇宙戦士 バルディオス

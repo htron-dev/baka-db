@@ -1,5 +1,7 @@
 # Uemura-kun wa Majime na Ii Ko.
 
+![uemura-kun-wa-majime-na-ii-ko](https://cdn.myanimelist.net/images/manga/3/227948.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

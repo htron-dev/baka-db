@@ -1,5 +1,7 @@
 # Umi to Dolittle
 
+![umi-to-dolittle](https://cdn.myanimelist.net/images/manga/2/158828.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

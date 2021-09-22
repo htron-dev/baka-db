@@ -1,5 +1,7 @@
 # Uso Tsurezure
 
+![uso-tsurezure](https://cdn.myanimelist.net/images/manga/3/148403.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

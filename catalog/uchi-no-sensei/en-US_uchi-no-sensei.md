@@ -1,5 +1,7 @@
 # Uchi no Sensei
 
+![uchi-no-sensei](https://cdn.myanimelist.net/images/manga/2/202090.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

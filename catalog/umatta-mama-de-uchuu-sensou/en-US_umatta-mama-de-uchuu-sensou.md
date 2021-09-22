@@ -1,5 +1,7 @@
 # Umatta Mama DE Uchuu Sensou!
 
+![umatta-mama-de-uchuu-sensou](https://cdn.myanimelist.net/images/manga/2/124875.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

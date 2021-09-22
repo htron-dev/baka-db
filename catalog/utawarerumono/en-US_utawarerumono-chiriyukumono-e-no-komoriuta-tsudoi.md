@@ -1,5 +1,7 @@
 # Utawarerumono: Chiriyukumono e no Komoriuta - Tsudoi
 
+![utawarerumono-chiriyukumono-e-no-komoriuta-tsudoi](https://cdn.myanimelist.net/images/manga/2/216041.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

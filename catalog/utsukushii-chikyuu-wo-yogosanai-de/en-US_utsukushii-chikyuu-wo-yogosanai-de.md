@@ -1,5 +1,7 @@
 # Utsukushii Chikyuu wo Yogosanai de
 
+![utsukushii-chikyuu-wo-yogosanai-de](https://cdn.myanimelist.net/images/anime/7/81581.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 美しい地球をよごさないで

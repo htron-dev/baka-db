@@ -1,5 +1,7 @@
 # unCassandra
 
+![un-cassandra](https://cdn.myanimelist.net/images/manga/1/170356.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

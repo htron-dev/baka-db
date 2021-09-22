@@ -1,5 +1,7 @@
 # Uchi no Kanojo ga Chuuni de Komattemasu.
 
+![uchi-no-kanojo-ga-chuuni-de-komattemasu](https://cdn.myanimelist.net/images/manga/3/162662.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

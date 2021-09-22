@@ -1,5 +1,7 @@
 # Utsukushii Inu
 
+![utsukushii-inu](https://cdn.myanimelist.net/images/manga/2/197083.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

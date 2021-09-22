@@ -1,5 +1,7 @@
 # Captain Herlock: Jigen Koukai
 
+![captain-herlock-jigen-koukai](https://cdn.myanimelist.net/images/manga/1/168234.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 52

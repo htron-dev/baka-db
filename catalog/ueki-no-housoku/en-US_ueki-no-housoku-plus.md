@@ -1,5 +1,7 @@
 # Ueki no Housoku Plus
 
+![ueki-no-housoku-plus](https://cdn.myanimelist.net/images/manga/2/5593.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 46

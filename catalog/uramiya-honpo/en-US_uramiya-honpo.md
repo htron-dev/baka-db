@@ -1,5 +1,7 @@
 # Uramiya Honpo
 
+![uramiya-honpo](https://cdn.myanimelist.net/images/manga/1/196449.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 143

@@ -1,5 +1,7 @@
 # Uchuu de Ichiban Kimi ga Suki
 
+![uchuu-de-ichiban-kimi-ga-suki](https://cdn.myanimelist.net/images/manga/3/221610.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Unmei to Yuuutsu
 
+![unmei-to-yuuutsu](https://cdn.myanimelist.net/images/manga/1/151467.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

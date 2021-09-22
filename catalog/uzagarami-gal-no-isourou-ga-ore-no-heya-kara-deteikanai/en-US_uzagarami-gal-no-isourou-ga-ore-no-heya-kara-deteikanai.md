@@ -1,5 +1,7 @@
 # Uzagarami Gal no Isourou ga Ore no Heya kara Deteikanai.
 
+![uzagarami-gal-no-isourou-ga-ore-no-heya-kara-deteikanai](https://cdn.myanimelist.net/images/manga/2/247462.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ウザ絡みギャルの居候が俺の部屋から出ていかない。
 -   **start-date**: 2021-02-10

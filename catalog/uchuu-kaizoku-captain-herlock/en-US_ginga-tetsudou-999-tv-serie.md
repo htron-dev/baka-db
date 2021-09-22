@@ -1,5 +1,7 @@
 # Ginga Tetsudou 999
 
+![ginga-tetsudou-999](https://cdn.myanimelist.net/images/anime/1685/104554.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 113
 -   **original-name**: 銀河鉄道９９９

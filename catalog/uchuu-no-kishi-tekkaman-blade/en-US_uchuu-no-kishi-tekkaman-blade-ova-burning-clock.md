@@ -1,5 +1,7 @@
 # Uchuu no Kishi Tekkaman Blade OVA: Burning Clock
 
+![uchuu-no-kishi-tekkaman-blade-ova-burning-clock](https://cdn.myanimelist.net/images/anime/2/17858.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 宇宙の騎士テッカマンブレード

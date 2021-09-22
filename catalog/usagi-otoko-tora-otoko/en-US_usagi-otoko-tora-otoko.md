@@ -1,5 +1,7 @@
 # Usagi Otoko Tora Otoko
 
+![usagi-otoko-tora-otoko](https://cdn.myanimelist.net/images/manga/2/109573.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

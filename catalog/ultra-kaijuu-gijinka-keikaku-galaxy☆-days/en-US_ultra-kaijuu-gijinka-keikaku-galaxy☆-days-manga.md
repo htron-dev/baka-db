@@ -1,5 +1,7 @@
 # Ultra Kaijuu Gijinka Keikaku: Galaxy☆Days
 
+![ultra-kaijuu-gijinka-keikaku-galaxy☆-days](https://cdn.myanimelist.net/images/manga/2/221904.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 59

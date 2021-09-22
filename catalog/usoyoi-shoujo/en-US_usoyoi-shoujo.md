@@ -1,5 +1,7 @@
 # Usoyoi Shoujo
 
+![usoyoi-shoujo](https://cdn.myanimelist.net/images/manga/3/196271.jpg)
+
 -   **type**: manga
 -   **original-name**: 嘘酔い少女
 -   **start-date**: 2016-11-06

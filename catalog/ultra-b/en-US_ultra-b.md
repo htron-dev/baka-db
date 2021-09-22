@@ -1,5 +1,7 @@
 # Ultra B
 
+![ultra-b](https://cdn.myanimelist.net/images/anime/2/28227.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 119
 -   **original-name**: ウルトラ B

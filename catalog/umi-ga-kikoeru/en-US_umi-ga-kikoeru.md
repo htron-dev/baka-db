@@ -1,5 +1,7 @@
 # Umi ga Kikoeru
 
+![umi-ga-kikoeru](https://cdn.myanimelist.net/images/anime/5/52359.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 海がきこえる

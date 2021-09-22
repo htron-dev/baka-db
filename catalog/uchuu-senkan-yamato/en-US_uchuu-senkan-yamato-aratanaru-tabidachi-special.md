@@ -1,5 +1,7 @@
 # Uchuu Senkan Yamato: Aratanaru Tabidachi
 
+![uchuu-senkan-yamato-aratanaru-tabidachi](https://cdn.myanimelist.net/images/anime/3/83050.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 宇宙戦艦ヤマト 新たなる旅立ち

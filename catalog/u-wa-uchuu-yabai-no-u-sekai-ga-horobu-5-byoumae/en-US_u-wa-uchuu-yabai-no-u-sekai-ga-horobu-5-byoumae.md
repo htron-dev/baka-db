@@ -1,5 +1,7 @@
 # U wa Uchuu Yabai no U! Sekai ga Horobu 5-byoumae
 
+![u-wa-uchuu-yabai-no-u-sekai-ga-horobu-5-byoumae](https://cdn.myanimelist.net/images/manga/3/164133.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ウは宇宙ヤバイのウ！ ~セカイが滅ぶ５秒前~

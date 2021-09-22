@@ -1,5 +1,7 @@
 # Urasekai Picnic
 
+![urasekai-picnic](https://cdn.myanimelist.net/images/manga/2/211279.jpg)
+
 -   **type**: manga
 -   **original-name**: 裏世界ピクニック
 -   **start-date**: 2018-02-10

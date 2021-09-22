@@ -1,5 +1,7 @@
 # Unmei no Hito ni Deau Hanashi
 
+![unmei-no-hito-ni-deau-hanashi](https://cdn.myanimelist.net/images/manga/3/245290.jpg)
+
 -   **type**: manga
 -   **original-name**: 運命の人に出会う話
 -   **start-date**: 2021-04-24

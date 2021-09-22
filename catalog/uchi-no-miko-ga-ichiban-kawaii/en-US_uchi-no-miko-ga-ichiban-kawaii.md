@@ -1,5 +1,7 @@
 # Uchi no Miko ga Ichiban Kawaii!
 
+![uchi-no-miko-ga-ichiban-kawaii](https://cdn.myanimelist.net/images/manga/3/156098.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: うちの巫女が一番かわいい！

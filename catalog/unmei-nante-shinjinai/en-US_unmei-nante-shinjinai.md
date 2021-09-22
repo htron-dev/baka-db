@@ -1,5 +1,7 @@
 # Unmei Nante Shinjinai
 
+![unmei-nante-shinjinai](https://cdn.myanimelist.net/images/manga/1/18255.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

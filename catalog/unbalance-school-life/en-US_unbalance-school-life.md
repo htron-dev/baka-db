@@ -1,5 +1,7 @@
 # Unbalance School Life
 
+![unbalance-school-life](https://cdn.myanimelist.net/images/manga/2/185833.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

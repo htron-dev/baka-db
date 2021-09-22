@@ -1,5 +1,7 @@
 # Umehara: To Live Is to Game
 
+![umehara-to-live-is-to-game](https://cdn.myanimelist.net/images/manga/1/104139.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ウメハラ To live is to game

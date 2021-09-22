@@ -1,5 +1,7 @@
 # Uranbana
 
+![uranbana](https://cdn.myanimelist.net/images/manga/3/38829.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ウランバナ

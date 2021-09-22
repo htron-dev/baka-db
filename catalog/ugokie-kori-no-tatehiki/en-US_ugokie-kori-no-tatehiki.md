@@ -1,5 +1,7 @@
 # Ugokie Kori no Tatehiki
 
+![ugokie-kori-no-tatehiki](https://cdn.myanimelist.net/images/anime/4/7077.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 動絵狐狸達引

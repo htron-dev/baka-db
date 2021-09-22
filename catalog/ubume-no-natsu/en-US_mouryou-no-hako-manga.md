@@ -1,5 +1,7 @@
 # Mouryou no Hako
 
+![mouryou-no-hako](https://cdn.myanimelist.net/images/manga/1/120949.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 10

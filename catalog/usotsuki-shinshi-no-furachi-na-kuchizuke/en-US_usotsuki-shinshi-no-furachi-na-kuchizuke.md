@@ -1,5 +1,7 @@
 # Usotsuki Shinshi no Furachi na Kuchizuke
 
+![usotsuki-shinshi-no-furachi-na-kuchizuke](https://cdn.myanimelist.net/images/manga/2/187184.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

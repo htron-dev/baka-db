@@ -1,5 +1,7 @@
 # Utsuno-sensei wa Melancholic
 
+![utsuno-sensei-wa-melancholic](https://cdn.myanimelist.net/images/manga/2/209841.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 25

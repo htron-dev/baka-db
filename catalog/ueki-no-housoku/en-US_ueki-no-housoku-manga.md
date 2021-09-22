@@ -1,5 +1,7 @@
 # Ueki no Housoku
 
+![ueki-no-housoku](https://cdn.myanimelist.net/images/manga/3/160943.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 154

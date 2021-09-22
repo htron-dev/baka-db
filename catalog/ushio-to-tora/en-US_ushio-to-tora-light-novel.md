@@ -1,5 +1,7 @@
 # Ushio to Tora
 
+![ushio-to-tora](https://cdn.myanimelist.net/images/manga/1/171897.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 30

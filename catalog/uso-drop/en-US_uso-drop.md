@@ -1,5 +1,7 @@
 # Uso Drop
 
+![uso-drop](https://cdn.myanimelist.net/images/manga/3/157118.jpg)
+
 -   **type**: manga
 -   **chapters**: 5
 -   **original-name**: 嘘ドロップ

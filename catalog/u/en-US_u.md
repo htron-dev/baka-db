@@ -1,5 +1,7 @@
 # U
 
+![u](https://cdn.myanimelist.net/images/manga/3/178166.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # U wa Uchuusen no U
 
+![u-wa-uchuusen-no-u](https://cdn.myanimelist.net/images/manga/5/37718.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

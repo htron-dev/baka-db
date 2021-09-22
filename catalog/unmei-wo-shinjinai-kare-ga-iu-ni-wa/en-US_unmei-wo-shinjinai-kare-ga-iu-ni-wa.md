@@ -1,5 +1,7 @@
 # Unmei wo Shinjinai Kare ga Iu ni wa
 
+![unmei-wo-shinjinai-kare-ga-iu-ni-wa](https://cdn.myanimelist.net/images/manga/2/241440.jpg)
+
 -   **type**: manga
 -   **original-name**: 運命を信じない彼が言うには
 -   **start-date**: 2020-04-30

@@ -1,5 +1,7 @@
 # Uso to Coffee to Amai Kiss
 
+![uso-to-coffee-to-amai-kiss](https://cdn.myanimelist.net/images/manga/1/21892.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Urukyuu
 
+![urukyuu](https://cdn.myanimelist.net/images/manga/1/161115.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 30

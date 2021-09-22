@@ -1,5 +1,7 @@
 # Uchuu no Stellvia
 
+![uchuu-no-stellvia](https://cdn.myanimelist.net/images/manga/1/17466.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

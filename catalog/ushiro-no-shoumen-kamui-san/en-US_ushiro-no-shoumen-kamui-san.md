@@ -1,5 +1,7 @@
 # Ushiro no Shoumen Kamui-san
 
+![ushiro-no-shoumen-kamui-san](https://cdn.myanimelist.net/images/manga/2/235883.jpg)
+
 -   **type**: manga
 -   **original-name**: うしろの正面カムイさん
 -   **start-date**: 2020-03-27

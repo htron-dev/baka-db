@@ -1,5 +1,7 @@
 # Zero Seiki Movie 3: Maetel
 
+![zero-seiki-movie-3-maetel](https://cdn.myanimelist.net/images/anime/2/86659.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 零世紀 メーテル

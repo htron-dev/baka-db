@@ -1,5 +1,7 @@
 # Ginga Tetsudou 999: Jikuu wo Koeta Energy no Tabi
 
+![ginga-tetsudou-999-jikuu-wo-koeta-energy-no-tabi](https://cdn.myanimelist.net/images/anime/11/27897.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: 銀河鉄道９９９　時空を越えたエネルギーの旅

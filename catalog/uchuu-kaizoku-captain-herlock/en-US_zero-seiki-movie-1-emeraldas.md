@@ -1,5 +1,7 @@
 # Zero Seiki Movie 1: Emeraldas
 
+![zero-seiki-movie-1-emeraldas](https://cdn.myanimelist.net/images/anime/11/86764.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 零世紀 エメラルダス

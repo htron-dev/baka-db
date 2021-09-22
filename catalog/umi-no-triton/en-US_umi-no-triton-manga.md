@@ -1,5 +1,7 @@
 # Umi no Triton
 
+![umi-no-triton](https://cdn.myanimelist.net/images/manga/3/175738.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 33

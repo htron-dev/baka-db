@@ -1,5 +1,7 @@
 # Tesso no Ori
 
+![tesso-no-ori](https://cdn.myanimelist.net/images/manga/2/199532.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # U-so-tsu-ki★Knight
 
+![u-so-tsu-ki★-knight](https://cdn.myanimelist.net/images/manga/3/131623.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: う・そ・つ・き ★ ナイト

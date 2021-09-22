@@ -1,5 +1,7 @@
 # Uchuu no Profile
 
+![uchuu-no-profile](https://cdn.myanimelist.net/images/manga/1/181733.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

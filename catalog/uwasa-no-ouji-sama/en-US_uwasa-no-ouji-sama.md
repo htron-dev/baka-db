@@ -1,5 +1,7 @@
 # Uwasa no Ouji-sama
 
+![uwasa-no-ouji-sama](https://cdn.myanimelist.net/images/manga/2/26089.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

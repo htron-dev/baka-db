@@ -1,5 +1,7 @@
 # Uchuujin Tanaka Tarou
 
+![uchuujin-tanaka-tarou](https://cdn.myanimelist.net/images/manga/1/68389.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **original-name**: うちゅう人田中太郎

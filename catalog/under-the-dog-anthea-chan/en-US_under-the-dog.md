@@ -1,5 +1,7 @@
 # Under the Dog
 
+![under-the-dog](https://cdn.myanimelist.net/images/anime/1793/112240.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: UNDER THE DOG

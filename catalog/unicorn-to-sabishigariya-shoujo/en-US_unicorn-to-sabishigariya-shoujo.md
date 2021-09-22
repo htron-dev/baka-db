@@ -1,5 +1,7 @@
 # Unicorn to Sabishigariya Shoujo
 
+![unicorn-to-sabishigariya-shoujo](https://cdn.myanimelist.net/images/manga/3/225850.jpg)
+
 -   **type**: manga
 -   **chapters**: 11
 -   **original-name**: ユニコーンと寂しがりや少女

@@ -1,5 +1,7 @@
 # Umi Sora Kaze ni Hana
 
+![umi-sora-kaze-ni-hana](https://cdn.myanimelist.net/images/manga/3/247763.jpg)
+
 -   **type**: manga
 -   **original-name**: うみそらかぜに花
 -   **start-date**: 2020-04-30

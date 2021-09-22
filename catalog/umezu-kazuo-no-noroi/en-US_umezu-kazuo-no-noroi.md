@@ -1,5 +1,7 @@
 # Umezu Kazuo no Noroi
 
+![umezu-kazuo-no-noroi](https://cdn.myanimelist.net/images/anime/11/36315.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 楳図かずおの呪い

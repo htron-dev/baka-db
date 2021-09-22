@@ -1,5 +1,7 @@
 # Urusei Yatsura Movie 4: Lum The Forever
 
+![urusei-yatsura-movie-4-lum-the-forever](https://cdn.myanimelist.net/images/anime/4/79775.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: うる星やつら ラム・ザ・フォーエバー

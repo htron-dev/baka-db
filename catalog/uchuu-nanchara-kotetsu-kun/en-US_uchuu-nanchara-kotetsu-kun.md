@@ -1,5 +1,7 @@
 # Uchuu Nanchara Kotetsu-kun
 
+![uchuu-nanchara-kotetsu-kun](https://cdn.myanimelist.net/images/anime/1226/112286.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 宇宙なんちゃらこてつくん
 -   **start-date**: 2021-04-07

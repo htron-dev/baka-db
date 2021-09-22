@@ -1,5 +1,7 @@
 # Ugetsu Monogatari
 
+![ugetsu-monogatari](https://cdn.myanimelist.net/images/manga/1/80881.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

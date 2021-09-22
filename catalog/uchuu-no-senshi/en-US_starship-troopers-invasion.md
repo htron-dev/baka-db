@@ -1,5 +1,7 @@
 # Starship Troopers: Invasion
 
+![starship-troopers-invasion](https://cdn.myanimelist.net/images/anime/1698/95973.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: スターシップ・トゥルーパーズ インベイジョン

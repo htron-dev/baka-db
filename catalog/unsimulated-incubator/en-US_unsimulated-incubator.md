@@ -1,5 +1,7 @@
 # Unsimulated Incubator
 
+![unsimulated-incubator](https://cdn.myanimelist.net/images/manga/2/177904.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 20

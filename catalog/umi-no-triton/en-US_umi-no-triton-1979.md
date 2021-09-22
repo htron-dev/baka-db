@@ -1,5 +1,7 @@
 # Umi no Triton (1979)
 
+![umi-no-triton-1979](https://cdn.myanimelist.net/images/anime/13/59675.jpg)
+
 -   **type**: movie
 -   **episodes**: 2
 -   **original-name**: 海のトリトン (1979)

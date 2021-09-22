@@ -1,5 +1,7 @@
 # Ginga Tetsudou 999: Hoshizora wa Time Machine
 
+![ginga-tetsudou-999-hoshizora-wa-time-machine](https://cdn.myanimelist.net/images/anime/8/34337.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 銀河鉄道 999 星空はタイムマシーン

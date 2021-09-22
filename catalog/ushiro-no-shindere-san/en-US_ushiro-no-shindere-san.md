@@ -1,5 +1,7 @@
 # Ushiro no Shindere-san
 
+![ushiro-no-shindere-san](https://cdn.myanimelist.net/images/manga/3/154540.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

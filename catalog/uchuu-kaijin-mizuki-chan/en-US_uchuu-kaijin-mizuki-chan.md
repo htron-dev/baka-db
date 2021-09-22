@@ -1,5 +1,7 @@
 # Uchuu Kaijin Mizuki-chan
 
+![uchuu-kaijin-mizuki-chan](https://cdn.myanimelist.net/images/manga/3/149634.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

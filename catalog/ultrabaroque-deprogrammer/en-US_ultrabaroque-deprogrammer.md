@@ -1,5 +1,7 @@
 # Ultrabaroque Deprogrammer
 
+![ultrabaroque-deprogrammer](https://cdn.myanimelist.net/images/manga/2/184202.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 45

@@ -1,5 +1,7 @@
 # Sayonara Ginga Tetsudou 999: Andromeda Shuuchakueki
 
+![sayonara-ginga-tetsudou-999-andromeda-shuuchakueki](https://cdn.myanimelist.net/images/anime/1774/93957.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: さよなら銀河鉄道 999 -アンドロメダ終着駅-

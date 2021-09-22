@@ -1,5 +1,7 @@
 # Unmei no Kiss wa Oazuke
 
+![unmei-no-kiss-wa-oazuke](https://cdn.myanimelist.net/images/manga/1/222619.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

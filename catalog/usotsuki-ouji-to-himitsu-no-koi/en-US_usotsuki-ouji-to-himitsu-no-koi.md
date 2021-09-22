@@ -1,5 +1,7 @@
 # Usotsuki Ouji to Himitsu no Koi
 
+![usotsuki-ouji-to-himitsu-no-koi](https://cdn.myanimelist.net/images/manga/2/180320.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: うそつき王子と秘密の恋

@@ -1,5 +1,7 @@
 # Uchi no Darling Gaikokujin
 
+![uchi-no-darling-gaikokujin](https://cdn.myanimelist.net/images/manga/2/39551.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

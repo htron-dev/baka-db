@@ -1,5 +1,7 @@
 # Torajima no Miime
 
+![torajima-no-miime](https://cdn.myanimelist.net/images/anime/8/25879.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: トラジマのミーめ

@@ -1,5 +1,7 @@
 # Uruwashi no Yoi no Tsuki
 
+![uruwashi-no-yoi-no-tsuki](https://cdn.myanimelist.net/images/manga/2/238267.jpg)
+
 -   **type**: manga
 -   **original-name**: うるわしの宵の月
 -   **start-date**: 2020-07-21

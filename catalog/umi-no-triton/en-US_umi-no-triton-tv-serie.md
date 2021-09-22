@@ -1,5 +1,7 @@
 # Umi no Triton
 
+![umi-no-triton](https://cdn.myanimelist.net/images/anime/12/85304.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 27
 -   **original-name**: 海のトリトン

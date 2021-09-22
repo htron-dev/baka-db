@@ -1,5 +1,7 @@
 # Sou: Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?-hen
 
+![sou-uchiage-hanabi-shita-kara-miru-ka-yoko-kara-miru-ka-hen](https://cdn.myanimelist.net/images/anime/11/87372.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 爽「打ち上げ花火、下から見るか？横から見るか？篇」

@@ -1,5 +1,7 @@
 # Uramiya Honpo: Reboot
 
+![uramiya-honpo-reboot](https://cdn.myanimelist.net/images/manga/2/205520.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 73

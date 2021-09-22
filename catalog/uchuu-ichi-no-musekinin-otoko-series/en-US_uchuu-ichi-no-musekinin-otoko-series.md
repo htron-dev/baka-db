@@ -1,5 +1,7 @@
 # Uchuu Ichi no Musekinin Otoko Series
 
+![uchuu-ichi-no-musekinin-otoko-series](https://cdn.myanimelist.net/images/manga/2/196213.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **original-name**: 宇宙一の無責任男シリーズ

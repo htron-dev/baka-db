@@ -1,5 +1,7 @@
 # Udauda Yatteru Hima wa Nee!
 
+![udauda-yatteru-hima-wa-nee](https://cdn.myanimelist.net/images/manga/4/87103.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **chapters**: 188

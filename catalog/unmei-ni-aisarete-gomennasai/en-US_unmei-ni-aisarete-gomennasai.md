@@ -1,5 +1,7 @@
 # Unmei ni Aisarete Gomennasai.
 
+![unmei-ni-aisarete-gomennasai](https://cdn.myanimelist.net/images/manga/1/177878.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 運命に愛されてごめんなさい。

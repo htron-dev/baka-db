@@ -1,5 +1,7 @@
 # Uirabu.: Uiuishii Koi no Ohanashi
 
+![uirabu-uiuishii-koi-no-ohanashi](https://cdn.myanimelist.net/images/manga/2/165819.jpg)
+
 -   **type**: manga
 -   **original-name**: ういらぶ。 －初々しい恋のおはなし－
 -   **start-date**: 2015-04-04

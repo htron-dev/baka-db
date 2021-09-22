@@ -1,5 +1,7 @@
 # Udauda Yatteru Hima wa Nee!
 
+![udauda-yatteru-hima-wa-nee](https://cdn.myanimelist.net/images/anime/11/47101.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ウダウダやってるヒマはねェ!

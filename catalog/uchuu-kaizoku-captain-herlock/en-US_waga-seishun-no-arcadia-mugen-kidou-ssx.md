@@ -1,5 +1,7 @@
 # Waga Seishun no Arcadia: Mugen Kidou SSX
 
+![waga-seishun-no-arcadia-mugen-kidou-ssx](https://cdn.myanimelist.net/images/anime/1541/92869.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: わが青春のアルカディア・無限軌道ＳＳＸ

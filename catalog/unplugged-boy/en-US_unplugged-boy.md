@@ -1,5 +1,7 @@
 # Unplugged Boy
 
+![unplugged-boy](https://cdn.myanimelist.net/images/manga/1/9992.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 17

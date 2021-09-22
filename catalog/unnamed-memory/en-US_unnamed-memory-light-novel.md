@@ -1,5 +1,7 @@
 # Unnamed Memory
 
+![unnamed-memory](https://cdn.myanimelist.net/images/manga/3/245253.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 60

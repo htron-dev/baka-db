@@ -1,5 +1,7 @@
 # Usavich II
 
+![usavich-ii](https://cdn.myanimelist.net/images/anime/5/15661.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ウサビッチ

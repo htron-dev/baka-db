@@ -1,5 +1,7 @@
 # Under One Roof
 
+![under-one-roof](https://cdn.myanimelist.net/images/manga/2/132767.jpg)
+
 -   **type**: manga
 -   **chapters**: 11
 -   **original-name**: under one roof

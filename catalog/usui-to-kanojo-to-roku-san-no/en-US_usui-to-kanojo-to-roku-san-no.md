@@ -1,5 +1,7 @@
 # Usui to Kanojo to Roku-san no.
 
+![usui-to-kanojo-to-roku-san-no](https://cdn.myanimelist.net/images/manga/2/162832.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

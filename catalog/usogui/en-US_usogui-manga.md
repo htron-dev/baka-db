@@ -1,5 +1,7 @@
 # Usogui
 
+![usogui](https://cdn.myanimelist.net/images/manga/1/147323.jpg)
+
 -   **type**: manga
 -   **volumes**: 49
 -   **chapters**: 541

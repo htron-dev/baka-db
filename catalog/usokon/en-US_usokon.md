@@ -1,5 +1,7 @@
 # Usokon
 
+![usokon](https://cdn.myanimelist.net/images/manga/2/223449.jpg)
+
 -   **type**: manga
 -   **original-name**: ウソ婚
 -   **start-date**: 2017-09-01

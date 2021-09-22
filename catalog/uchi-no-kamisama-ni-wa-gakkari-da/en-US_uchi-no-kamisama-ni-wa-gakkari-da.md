@@ -1,5 +1,7 @@
 # Uchi no Kamisama ni wa Gakkari da!
 
+![uchi-no-kamisama-ni-wa-gakkari-da](https://cdn.myanimelist.net/images/manga/3/224818.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

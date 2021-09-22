@@ -1,5 +1,7 @@
 # Utsukushii Tamashii
 
+![utsukushii-tamashii](https://cdn.myanimelist.net/images/manga/2/238430.jpg)
+
 -   **type**: manga
 -   **original-name**: うつくしいたましい
 -   **start-date**: 2016-06-22

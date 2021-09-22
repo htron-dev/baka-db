@@ -1,5 +1,7 @@
 # Ginga Tetsudou 999 (Movie)
 
+![ginga-tetsudou-999-movie](https://cdn.myanimelist.net/images/anime/3/50505.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 銀河鉄道９９９

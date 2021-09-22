@@ -1,5 +1,7 @@
 # Uchuujin Pipi
 
+![uchuujin-pipi](https://cdn.myanimelist.net/images/anime/9/72211.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 宇宙人ピピ

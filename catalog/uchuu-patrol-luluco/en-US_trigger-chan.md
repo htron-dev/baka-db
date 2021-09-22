@@ -1,5 +1,7 @@
 # Trigger-chan
 
+![trigger-chan](https://cdn.myanimelist.net/images/anime/7/81644.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: トリガーちゃん

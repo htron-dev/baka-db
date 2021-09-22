@@ -1,5 +1,7 @@
 # Uchi no Isourou ga Sekai wo Shouaku Shiteiru!
 
+![uchi-no-isourou-ga-sekai-wo-shouaku-shiteiru](https://cdn.myanimelist.net/images/manga/1/177864.jpg)
+
 -   **type**: light-novel
 -   **original-name**: うちの居候が世界を掌握している！
 -   **start-date**: 2012-04-15

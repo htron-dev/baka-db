@@ -1,5 +1,7 @@
 # Uchuu Senkan Yamato III
 
+![uchuu-senkan-yamato-iii](https://cdn.myanimelist.net/images/anime/11/83046.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 宇宙戦艦ヤマト Ⅲ

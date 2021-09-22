@@ -1,5 +1,7 @@
 # Urusei Yatsura: Haru da, Tobidase!
 
+![urusei-yatsura-haru-da-tobidase](https://cdn.myanimelist.net/images/anime/10/88001.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: うる星やつら 春だ、とびだせ!

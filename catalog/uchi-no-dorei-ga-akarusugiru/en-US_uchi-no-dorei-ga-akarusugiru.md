@@ -1,5 +1,7 @@
 # Uchi no Dorei ga Akarusugiru
 
+![uchi-no-dorei-ga-akarusugiru](https://cdn.myanimelist.net/images/manga/1/233971.jpg)
+
 -   **type**: manga
 -   **original-name**: うちの奴隷が明るすぎる
 -   **start-date**: 2020-01-28

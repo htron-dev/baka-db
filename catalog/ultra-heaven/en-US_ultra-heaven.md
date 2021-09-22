@@ -1,5 +1,7 @@
 # Ultra Heaven
 
+![ultra-heaven](https://cdn.myanimelist.net/images/manga/3/161311.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

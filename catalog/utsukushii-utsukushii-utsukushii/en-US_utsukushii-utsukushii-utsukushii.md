@@ -1,5 +1,7 @@
 # Utsukushii Utsukushii Utsukushii
 
+![utsukushii-utsukushii-utsukushii](https://cdn.myanimelist.net/images/manga/3/4261.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

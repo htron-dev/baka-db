@@ -1,5 +1,7 @@
 # Ufu Ufu Fuufu
 
+![ufu-ufu-fuufu](https://cdn.myanimelist.net/images/manga/2/136875.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

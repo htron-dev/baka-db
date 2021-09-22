@@ -1,5 +1,7 @@
 # Uchi no Pochi no Iu Koto ni wa
 
+![uchi-no-pochi-no-iu-koto-ni-wa](https://cdn.myanimelist.net/images/manga/2/120975.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 32

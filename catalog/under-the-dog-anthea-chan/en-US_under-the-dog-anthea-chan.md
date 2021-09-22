@@ -1,5 +1,7 @@
 # Under the Dog: Anthea-chan
 
+![under-the-dog-anthea-chan](https://cdn.myanimelist.net/images/anime/6/77902.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: UNDER THE DOG アンシアちゃん

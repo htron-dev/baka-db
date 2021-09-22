@@ -1,5 +1,7 @@
 # Uchuu no Stellvia
 
+![uchuu-no-stellvia](https://cdn.myanimelist.net/images/anime/10/15225.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 宇宙のステルヴィア

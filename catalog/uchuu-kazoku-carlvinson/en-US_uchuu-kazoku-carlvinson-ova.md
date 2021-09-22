@@ -1,5 +1,7 @@
 # Uchuu Kazoku Carlvinson
 
+![uchuu-kazoku-carlvinson](https://cdn.myanimelist.net/images/anime/1084/104620.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 宇宙家族カールビンソン

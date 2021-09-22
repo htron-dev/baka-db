@@ -1,5 +1,7 @@
 # Ginga Tetsudou 999: Eternal Fantasy
 
+![ginga-tetsudou-999-eternal-fantasy](https://cdn.myanimelist.net/images/anime/11/6083.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 銀河鉄道９９９ エターナルファンタジー

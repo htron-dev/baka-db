@@ -1,5 +1,7 @@
 # Umi Monogatari: Anata ga Ite Kureta Koto
 
+![umi-monogatari-anata-ga-ite-kureta-koto](https://cdn.myanimelist.net/images/anime/7/15586.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: うみものがたり　～あなたがいてくれたコト～

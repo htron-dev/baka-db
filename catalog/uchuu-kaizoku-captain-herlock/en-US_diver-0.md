@@ -1,5 +1,7 @@
 # Diver 0
 
+![diver-0](https://cdn.myanimelist.net/images/manga/1/241519.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

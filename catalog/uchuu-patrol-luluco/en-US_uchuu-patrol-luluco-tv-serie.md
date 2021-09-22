@@ -1,5 +1,7 @@
 # Uchuu Patrol Luluco
 
+![uchuu-patrol-luluco](https://cdn.myanimelist.net/images/anime/4/79073.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 宇宙パトロールルル子

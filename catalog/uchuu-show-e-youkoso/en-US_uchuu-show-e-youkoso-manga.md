@@ -1,5 +1,7 @@
 # Uchuu Show e Youkoso
 
+![uchuu-show-e-youkoso](https://cdn.myanimelist.net/images/manga/3/41256.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 宇宙ショーへようこそ

@@ -1,5 +1,7 @@
 # Usakoi.
 
+![usakoi](https://cdn.myanimelist.net/images/manga/2/95613.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 41

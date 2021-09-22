@@ -1,5 +1,7 @@
 # Under Hero
 
+![under-hero](https://cdn.myanimelist.net/images/manga/1/180833.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

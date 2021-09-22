@@ -1,5 +1,7 @@
 # Utawarerumono: Itsuwari no Kamen
 
+![utawarerumono-itsuwari-no-kamen](https://cdn.myanimelist.net/images/manga/1/180983.jpg)
+
 -   **type**: manga
 -   **original-name**: うたわれるもの 偽りの仮面
 -   **start-date**: 2016-01-30

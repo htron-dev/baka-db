@@ -1,5 +1,7 @@
 # U-31: All You Need Is Football!
 
+![u-31-all-you-need-is-football](https://cdn.myanimelist.net/images/manga/2/171735.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

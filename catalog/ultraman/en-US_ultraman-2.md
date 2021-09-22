@@ -1,5 +1,7 @@
 # Ultraman 2
 
+![ultraman-2](https://cdn.myanimelist.net/images/anime/1680/101395.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: ULTRAMAN 2

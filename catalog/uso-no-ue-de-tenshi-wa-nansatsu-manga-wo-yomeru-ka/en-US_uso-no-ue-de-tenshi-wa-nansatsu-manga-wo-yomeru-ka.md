@@ -1,5 +1,7 @@
 # Uso no Ue de Tenshi wa Nansatsu Manga wo Yomeru ka?
 
+![uso-no-ue-de-tenshi-wa-nansatsu-manga-wo-yomeru-ka](https://cdn.myanimelist.net/images/manga/3/162639.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 18

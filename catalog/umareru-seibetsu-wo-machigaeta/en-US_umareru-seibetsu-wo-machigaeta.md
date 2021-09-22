@@ -1,5 +1,7 @@
 # Umareru Seibetsu wo Machigaeta!
 
+![umareru-seibetsu-wo-machigaeta](https://cdn.myanimelist.net/images/manga/2/212854.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

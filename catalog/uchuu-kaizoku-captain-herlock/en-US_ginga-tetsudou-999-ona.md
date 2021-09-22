@@ -1,5 +1,7 @@
 # Ginga Tetsudou 999 (ONA)
 
+![ginga-tetsudou-999-ona](https://cdn.myanimelist.net/images/anime/12/69363.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: 銀河鉄道９９９

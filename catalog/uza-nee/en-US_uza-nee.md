@@ -1,5 +1,7 @@
 # Uza Nee!!
 
+![uza-nee](https://cdn.myanimelist.net/images/manga/2/180797.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 25

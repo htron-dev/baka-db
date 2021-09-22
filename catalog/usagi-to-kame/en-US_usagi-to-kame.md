@@ -1,5 +1,7 @@
 # Usagi to Kame
 
+![usagi-to-kame](https://cdn.myanimelist.net/images/anime/4/85240.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 兎と亀

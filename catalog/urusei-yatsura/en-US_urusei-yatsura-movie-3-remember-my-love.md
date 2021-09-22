@@ -1,5 +1,7 @@
 # Urusei Yatsura Movie 3: Remember My Love
 
+![urusei-yatsura-movie-3-remember-my-love](https://cdn.myanimelist.net/images/anime/7/79773.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: うる星やつら リメンバー・マイ・ラヴ

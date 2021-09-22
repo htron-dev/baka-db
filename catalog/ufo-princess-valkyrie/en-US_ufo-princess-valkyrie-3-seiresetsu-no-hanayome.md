@@ -1,5 +1,7 @@
 # UFO Princess Valkyrie 3: Seiresetsu no Hanayome
 
+![ufo-princess-valkyrie-3-seiresetsu-no-hanayome](https://cdn.myanimelist.net/images/anime/1/2452.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 円盤皇女ワるきゅーレ 星霊節の花嫁

@@ -1,5 +1,7 @@
 # Utatama♪
 
+![utatama♪](https://cdn.myanimelist.net/images/manga/3/165153.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

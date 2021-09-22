@@ -1,5 +1,7 @@
 # Usavich V
 
+![usavich-v](https://cdn.myanimelist.net/images/anime/10/54017.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ウサビッチ V

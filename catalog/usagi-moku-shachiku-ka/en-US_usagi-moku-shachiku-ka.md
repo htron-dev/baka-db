@@ -1,5 +1,7 @@
 # Usagi-moku Shachiku-ka
 
+![usagi-moku-shachiku-ka](https://cdn.myanimelist.net/images/manga/2/217022.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 70

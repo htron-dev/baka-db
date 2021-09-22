@@ -1,5 +1,7 @@
 # Urami Koi, Koi, Urami Koi.
 
+![urami-koi-koi-urami-koi](https://cdn.myanimelist.net/images/manga/1/188933.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 64

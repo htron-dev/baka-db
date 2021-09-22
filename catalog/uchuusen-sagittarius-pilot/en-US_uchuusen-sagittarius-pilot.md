@@ -1,5 +1,7 @@
 # Uchuusen Sagittarius Pilot
 
+![uchuusen-sagittarius-pilot](https://cdn.myanimelist.net/images/anime/4/66367.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 宇宙船サジタリウス

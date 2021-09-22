@@ -1,5 +1,7 @@
 # Ubawareta Himegimi to Shinku no Monshou
 
+![ubawareta-himegimi-to-shinku-no-monshou](https://cdn.myanimelist.net/images/manga/1/182452.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Uragiri no Kishi wa Ai wo Kou
 
+![uragiri-no-kishi-wa-ai-wo-kou](https://cdn.myanimelist.net/images/manga/3/238300.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

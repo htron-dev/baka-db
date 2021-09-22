@@ -1,5 +1,7 @@
 # Utau! Heiankyou
 
+![utau-heiankyou](https://cdn.myanimelist.net/images/manga/2/143523.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 34

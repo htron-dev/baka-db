@@ -1,5 +1,7 @@
 # Ginga Tetsudou 999: Shounen no Tabidachi to Wakare
 
+![ginga-tetsudou-999-shounen-no-tabidachi-to-wakare](https://cdn.myanimelist.net/images/anime/12/71468.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 銀河鉄道 999 少年の旅立ちと別れ（総集編）

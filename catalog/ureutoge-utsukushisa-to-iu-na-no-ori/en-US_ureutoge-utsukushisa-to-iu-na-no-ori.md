@@ -1,5 +1,7 @@
 # Ureutoge: Utsukushisa to Iu Na no Ori
 
+![ureutoge-utsukushisa-to-iu-na-no-ori](https://cdn.myanimelist.net/images/manga/2/199141.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 憂う棘～美しさと言う名の檻～

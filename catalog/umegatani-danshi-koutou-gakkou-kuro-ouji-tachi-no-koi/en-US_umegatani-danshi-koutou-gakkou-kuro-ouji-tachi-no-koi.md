@@ -1,5 +1,7 @@
 # Umegatani Danshi Koutou Gakkou: Kuro Ouji-tachi no Koi
 
+![umegatani-danshi-koutou-gakkou-kuro-ouji-tachi-no-koi](https://cdn.myanimelist.net/images/manga/1/231036.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

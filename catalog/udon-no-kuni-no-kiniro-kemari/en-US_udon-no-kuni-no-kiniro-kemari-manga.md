@@ -1,5 +1,7 @@
 # Udon no Kuni no Kiniro Kemari
 
+![udon-no-kuni-no-kiniro-kemari](https://cdn.myanimelist.net/images/manga/2/153514.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 72

@@ -1,5 +1,7 @@
 # Umi ni Ochita Tsuki no Hanashi
 
+![umi-ni-ochita-tsuki-no-hanashi](https://cdn.myanimelist.net/images/anime/12/74256.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 海に落ちた月の話

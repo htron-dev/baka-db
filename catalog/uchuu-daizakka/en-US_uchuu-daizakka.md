@@ -1,5 +1,7 @@
 # Uchuu Daizakka
 
+![uchuu-daizakka](https://cdn.myanimelist.net/images/manga/3/180951.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 18

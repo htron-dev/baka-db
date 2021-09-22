@@ -1,5 +1,7 @@
 # Under the Ceiling
 
+![under-the-ceiling](https://cdn.myanimelist.net/images/manga/2/19257.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 天井の下

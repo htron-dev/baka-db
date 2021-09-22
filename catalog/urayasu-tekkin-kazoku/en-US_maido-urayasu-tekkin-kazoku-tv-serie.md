@@ -1,5 +1,7 @@
 # Maido! Urayasu Tekkin Kazoku
 
+![maido-urayasu-tekkin-kazoku](https://cdn.myanimelist.net/images/anime/3/65115.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 毎度！浦安鉄筋家族

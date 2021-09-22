@@ -1,5 +1,7 @@
 # Mouryou no Hako
 
+![mouryou-no-hako](https://cdn.myanimelist.net/images/anime/10/75492.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 魍魎の匣

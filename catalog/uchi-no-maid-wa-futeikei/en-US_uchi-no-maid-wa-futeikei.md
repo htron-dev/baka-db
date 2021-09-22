@@ -1,5 +1,7 @@
 # Uchi no Maid wa Futeikei
 
+![uchi-no-maid-wa-futeikei](https://cdn.myanimelist.net/images/manga/2/199734.jpg)
+
 -   **type**: light-novel
 -   **original-name**: うちのメイドは不定形
 -   **start-date**: 2010-06-10

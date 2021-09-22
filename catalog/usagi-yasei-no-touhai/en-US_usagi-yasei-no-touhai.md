@@ -1,5 +1,7 @@
 # Usagi: Yasei no Touhai
 
+![usagi-yasei-no-touhai](https://cdn.myanimelist.net/images/manga/2/196187.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 157

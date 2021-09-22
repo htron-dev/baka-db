@@ -1,5 +1,7 @@
 # Uchuujin Puruka
 
+![uchuujin-puruka](https://cdn.myanimelist.net/images/manga/1/215956.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

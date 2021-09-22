@@ -1,5 +1,7 @@
 # Ubawareta Konyaku
 
+![ubawareta-konyaku](https://cdn.myanimelist.net/images/manga/1/181168.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

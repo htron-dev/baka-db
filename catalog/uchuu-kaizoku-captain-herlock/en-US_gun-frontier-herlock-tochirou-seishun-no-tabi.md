@@ -1,5 +1,7 @@
 # Gun Frontier: Herlock & Tochirou Seishun no Tabi
 
+![gun-frontier-herlock-tochirou-seishun-no-tabi](https://cdn.myanimelist.net/images/manga/3/196354.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

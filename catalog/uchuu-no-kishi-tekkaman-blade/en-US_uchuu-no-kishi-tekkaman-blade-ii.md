@@ -1,5 +1,7 @@
 # Uchuu no Kishi Tekkaman Blade II
 
+![uchuu-no-kishi-tekkaman-blade-ii](https://cdn.myanimelist.net/images/anime/1521/96191.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 宇宙の騎士テッカマンブレード II

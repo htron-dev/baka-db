@@ -1,5 +1,7 @@
 # Usamaru
 
+![usamaru](https://cdn.myanimelist.net/images/anime/2/81365.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: うさまる

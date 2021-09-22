@@ -1,5 +1,7 @@
 # Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?
 
+![uchiage-hanabi-shita-kara-miru-ka-yoko-kara-miru-ka](https://cdn.myanimelist.net/images/manga/1/198936.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

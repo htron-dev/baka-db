@@ -1,5 +1,7 @@
 # Ukkari Cherry
 
+![ukkari-cherry](https://cdn.myanimelist.net/images/manga/1/112865.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

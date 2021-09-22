@@ -1,5 +1,7 @@
 # Utawarerumono: Itsuwari no Kamen Specials
 
+![utawarerumono-itsuwari-no-kamen-specials](https://cdn.myanimelist.net/images/anime/5/79799.jpg)
+
 -   **type**: special
 -   **episodes**: 8
 -   **original-name**: うたわれるもの 偽りの仮面

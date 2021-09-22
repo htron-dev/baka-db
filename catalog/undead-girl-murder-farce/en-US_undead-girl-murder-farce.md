@@ -1,5 +1,7 @@
 # Undead Girl Murder Farce
 
+![undead-girl-murder-farce](https://cdn.myanimelist.net/images/manga/1/189774.jpg)
+
 -   **type**: manga
 -   **original-name**: アンデッドガール・マーダーファルス
 -   **start-date**: 2016-05-26

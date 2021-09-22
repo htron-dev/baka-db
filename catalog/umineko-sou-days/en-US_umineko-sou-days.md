@@ -1,5 +1,7 @@
 # Umineko-sou Days
 
+![umineko-sou-days](https://cdn.myanimelist.net/images/manga/3/222119.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

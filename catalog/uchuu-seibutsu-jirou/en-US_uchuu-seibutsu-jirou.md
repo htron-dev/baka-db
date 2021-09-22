@@ -1,5 +1,7 @@
 # Uchuu Seibutsu Jirou
 
+![uchuu-seibutsu-jirou](https://cdn.myanimelist.net/images/anime/1860/103195.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 宇宙生物ジロー

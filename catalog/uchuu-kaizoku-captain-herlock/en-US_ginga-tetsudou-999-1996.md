@@ -1,5 +1,7 @@
 # Ginga Tetsudou 999 (1996)
 
+![ginga-tetsudou-999-1996](https://cdn.myanimelist.net/images/manga/1/191346.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 46

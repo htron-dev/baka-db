@@ -1,5 +1,7 @@
 # Uchuu Senkan Yamato: Kanketsu-hen
 
+![uchuu-senkan-yamato-kanketsu-hen](https://cdn.myanimelist.net/images/anime/8/61231.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 宇宙戦艦ヤマト・完結編

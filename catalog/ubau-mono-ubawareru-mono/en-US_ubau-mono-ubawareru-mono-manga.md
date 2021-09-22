@@ -1,5 +1,7 @@
 # Ubau Mono Ubawareru Mono
 
+![ubau-mono-ubawareru-mono](https://cdn.myanimelist.net/images/manga/2/179328.jpg)
+
 -   **type**: manga
 -   **chapters**: 8
 -   **original-name**: 奪う者 奪われる者

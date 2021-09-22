@@ -1,5 +1,7 @@
 # Usagi Drop
 
+![usagi-drop](https://cdn.myanimelist.net/images/manga/2/203854.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 62

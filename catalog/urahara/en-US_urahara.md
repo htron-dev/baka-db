@@ -1,5 +1,7 @@
 # Urahara
 
+![urahara](https://cdn.myanimelist.net/images/manga/1/72161.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

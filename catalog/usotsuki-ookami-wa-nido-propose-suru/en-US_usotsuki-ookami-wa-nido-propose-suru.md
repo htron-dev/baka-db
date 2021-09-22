@@ -1,5 +1,7 @@
 # Usotsuki Ookami wa Nido Propose suru
 
+![usotsuki-ookami-wa-nido-propose-suru](https://cdn.myanimelist.net/images/manga/3/146443.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

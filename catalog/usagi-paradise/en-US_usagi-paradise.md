@@ -1,5 +1,7 @@
 # Usagi Paradise
 
+![usagi-paradise](https://cdn.myanimelist.net/images/manga/2/150425.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

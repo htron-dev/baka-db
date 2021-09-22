@@ -1,5 +1,7 @@
 # Utau Shoujo no Full Score
 
+![utau-shoujo-no-full-score](https://cdn.myanimelist.net/images/manga/3/163292.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 35

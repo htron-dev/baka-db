@@ -1,5 +1,7 @@
 # Uza Kawaii Kouhai to Ichaicha suru dake no Anthology Comic
 
+![uza-kawaii-kouhai-to-ichaicha-suru-dake-no-anthology-comic](https://cdn.myanimelist.net/images/manga/2/238060.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

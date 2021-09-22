@@ -1,5 +1,7 @@
 # Uzaki-chan wa Asobitai! 2nd Season
 
+![uzaki-chan-wa-asobitai-2nd-season](https://cdn.myanimelist.net/images/anime/1009/116986.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 宇崎ちゃんは遊びたい！
 -   **rating**: PG-13 - Teens 13 or older

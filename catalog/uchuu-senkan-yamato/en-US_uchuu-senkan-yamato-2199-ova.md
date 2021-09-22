@@ -1,5 +1,7 @@
 # Uchuu Senkan Yamato 2199
 
+![uchuu-senkan-yamato-2199](https://cdn.myanimelist.net/images/anime/2/36607.jpg)
+
 -   **type**: ova
 -   **episodes**: 26
 -   **original-name**: 宇宙戦艦ヤマト 2199

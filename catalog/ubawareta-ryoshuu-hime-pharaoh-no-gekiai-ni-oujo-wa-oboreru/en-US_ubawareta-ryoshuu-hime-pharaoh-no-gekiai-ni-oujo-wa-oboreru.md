@@ -1,5 +1,7 @@
 # Ubawareta Ryoshuu-hime: Pharaoh no Gekiai ni Oujo wa Oboreru
 
+![ubawareta-ryoshuu-hime-pharaoh-no-gekiai-ni-oujo-wa-oboreru](https://cdn.myanimelist.net/images/manga/3/184500.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

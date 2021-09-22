@@ -1,5 +1,7 @@
 # Usaband
 
+![usaband](https://cdn.myanimelist.net/images/anime/11/78348.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: USABAND

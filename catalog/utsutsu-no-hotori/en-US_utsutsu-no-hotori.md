@@ -1,5 +1,7 @@
 # Utsutsu no Hotori
 
+![utsutsu-no-hotori](https://cdn.myanimelist.net/images/manga/2/113449.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

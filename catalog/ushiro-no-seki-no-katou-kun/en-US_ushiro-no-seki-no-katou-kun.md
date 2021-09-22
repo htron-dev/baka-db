@@ -1,5 +1,7 @@
 # Ushiro no Seki no Katou-kun
 
+![ushiro-no-seki-no-katou-kun](https://cdn.myanimelist.net/images/manga/2/236196.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

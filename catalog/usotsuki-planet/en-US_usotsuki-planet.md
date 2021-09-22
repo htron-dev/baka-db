@@ -1,5 +1,7 @@
 # Usotsuki Planet
 
+![usotsuki-planet](https://cdn.myanimelist.net/images/manga/1/104841.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

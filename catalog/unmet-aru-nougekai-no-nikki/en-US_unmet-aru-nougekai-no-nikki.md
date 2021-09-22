@@ -1,5 +1,7 @@
 # Unmet: Aru Nougekai no Nikki
 
+![unmet-aru-nougekai-no-nikki](https://cdn.myanimelist.net/images/manga/3/246990.jpg)
+
 -   **type**: manga
 -   **original-name**: アンメット ーある脳外科医の日記ー
 -   **start-date**: 2020-12-10

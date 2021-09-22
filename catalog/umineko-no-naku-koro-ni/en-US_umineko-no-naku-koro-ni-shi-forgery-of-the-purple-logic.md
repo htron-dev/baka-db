@@ -1,5 +1,7 @@
 # Umineko no Naku Koro ni Shi: Forgery of the Purple Logic
 
+![umineko-no-naku-koro-ni-shi-forgery-of-the-purple-logic](https://cdn.myanimelist.net/images/manga/2/126331.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

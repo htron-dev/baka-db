@@ -1,5 +1,7 @@
 # Umibe no Q
 
+![umibe-no-q](https://cdn.myanimelist.net/images/manga/2/231213.jpg)
+
 -   **type**: manga
 -   **original-name**: 海辺のキュー
 -   **start-date**: 2019-08-01

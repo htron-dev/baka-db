@@ -1,5 +1,7 @@
 # Dai Yamato Zero-gou
 
+![dai-yamato-zero-gou](https://cdn.myanimelist.net/images/anime/3/16691.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: 大ヤマト零号

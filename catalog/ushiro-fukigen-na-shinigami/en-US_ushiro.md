@@ -1,5 +1,7 @@
 # Ushiro
 
+![ushiro](https://cdn.myanimelist.net/images/manga/1/169928.jpg)
+
 -   **type**: manga
 -   **original-name**: うしろ
 -   **start-date**: 2015-12-01

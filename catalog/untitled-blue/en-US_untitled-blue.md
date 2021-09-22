@@ -1,5 +1,7 @@
 # Untitled Blue
 
+![untitled-blue](https://cdn.myanimelist.net/images/manga/2/247207.jpg)
+
 -   **type**: manga
 -   **original-name**: アンタイトル・ブルー
 -   **start-date**: 2020-04-25

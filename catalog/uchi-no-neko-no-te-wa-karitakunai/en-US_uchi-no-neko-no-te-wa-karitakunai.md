@@ -1,5 +1,7 @@
 # Uchi no Neko no Te wa Karitakunai
 
+![uchi-no-neko-no-te-wa-karitakunai](https://cdn.myanimelist.net/images/manga/1/129019.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: うちの猫の手は借りたくない

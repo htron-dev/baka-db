@@ -1,5 +1,7 @@
 # Butter Neko no Paradox
 
+![butter-neko-no-paradox](https://cdn.myanimelist.net/images/manga/2/174587.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 36

@@ -1,5 +1,7 @@
 # Un na Kanojo
 
+![un-na-kanojo](https://cdn.myanimelist.net/images/manga/3/150977.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

@@ -1,5 +1,7 @@
 # Ultraman: The First
 
+![ultraman-the-first](https://cdn.myanimelist.net/images/manga/3/79987.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

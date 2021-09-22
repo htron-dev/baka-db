@@ -1,5 +1,7 @@
 # Utsurou Kimi to
 
+![utsurou-kimi-to](https://cdn.myanimelist.net/images/manga/2/198093.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

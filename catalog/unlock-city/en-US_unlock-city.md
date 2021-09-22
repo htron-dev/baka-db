@@ -1,5 +1,7 @@
 # Unlock City
 
+![unlock-city](https://cdn.myanimelist.net/images/manga/1/166248.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

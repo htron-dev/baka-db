@@ -1,5 +1,7 @@
 # Utsukushii Karada
 
+![utsukushii-karada](https://cdn.myanimelist.net/images/manga/2/235822.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

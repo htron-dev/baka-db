@@ -1,5 +1,7 @@
 # Uragiri wa Boku no Namae wo Shitteiru
 
+![uragiri-wa-boku-no-namae-wo-shitteiru](https://cdn.myanimelist.net/images/manga/3/195145.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 68

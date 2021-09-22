@@ -1,5 +1,7 @@
 # Uchi no Shitsuji ga Iukoto ni wa
 
+![uchi-no-shitsuji-ga-iukoto-ni-wa](https://cdn.myanimelist.net/images/manga/3/190060.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 47

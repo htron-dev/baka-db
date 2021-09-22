@@ -1,5 +1,7 @@
 # Utawarerumono OVA
 
+![utawarerumono-ova](https://cdn.myanimelist.net/images/anime/2/46847.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: OVA うたわれるもの

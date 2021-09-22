@@ -1,5 +1,7 @@
 # Ulysses: Jehanne Darc to Renkin no Kishi
 
+![ulysses-jehanne-darc-to-renkin-no-kishi](https://cdn.myanimelist.net/images/manga/2/202379.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ユリシーズ ジャンヌ・ダルクと錬金の騎士
 -   **start-date**: 2015-08-25

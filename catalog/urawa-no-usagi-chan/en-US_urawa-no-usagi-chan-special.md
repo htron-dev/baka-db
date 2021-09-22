@@ -1,5 +1,7 @@
 # Urawa no Usagi-chan Special
 
+![urawa-no-usagi-chan-special](https://cdn.myanimelist.net/images/anime/9/75928.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 浦和の調ちゃん

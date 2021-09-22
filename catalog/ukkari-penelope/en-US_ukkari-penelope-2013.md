@@ -1,5 +1,7 @@
 # Ukkari Pénélope (2013)
 
+![ukkari-penelope-2013](https://cdn.myanimelist.net/images/anime/11/82030.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: うっかりペネロペ

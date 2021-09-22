@@ -1,5 +1,7 @@
 # Uchuu Patrol Luluco
 
+![uchuu-patrol-luluco](https://cdn.myanimelist.net/images/manga/1/176066.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 宇宙パトロールルル子

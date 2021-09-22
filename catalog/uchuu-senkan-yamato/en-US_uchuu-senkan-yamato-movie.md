@@ -1,5 +1,7 @@
 # Uchuu Senkan Yamato (Movie)
 
+![uchuu-senkan-yamato-movie](https://cdn.myanimelist.net/images/anime/11/83048.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 宇宙戦艦ヤマト

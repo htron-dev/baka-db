@@ -1,5 +1,7 @@
 # Ukkari Heika no Ko wo Ninshin shiteshimaimashita: Ouhi Berta no Shouzou
 
+![ukkari-heika-no-ko-wo-ninshin-shiteshimaimashita-ouhi-berta-no-shouzou](https://cdn.myanimelist.net/images/manga/2/237167.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

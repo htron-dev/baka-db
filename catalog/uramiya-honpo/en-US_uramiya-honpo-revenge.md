@@ -1,5 +1,7 @@
 # Uramiya Honpo: Revenge
 
+![uramiya-honpo-revenge](https://cdn.myanimelist.net/images/manga/3/205519.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 66

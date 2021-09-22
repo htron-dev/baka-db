@@ -1,5 +1,7 @@
 # Under
 
+![under](https://cdn.myanimelist.net/images/manga/3/164315.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: under

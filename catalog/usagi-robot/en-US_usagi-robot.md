@@ -1,5 +1,7 @@
 # Usagi Robot
 
+![usagi-robot](https://cdn.myanimelist.net/images/manga/3/163858.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 23

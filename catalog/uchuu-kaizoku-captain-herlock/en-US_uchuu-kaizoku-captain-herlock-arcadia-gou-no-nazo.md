@@ -1,5 +1,7 @@
 # Uchuu Kaizoku Captain Herlock: Arcadia-gou no Nazo
 
+![uchuu-kaizoku-captain-herlock-arcadia-gou-no-nazo](https://cdn.myanimelist.net/images/anime/5/56071.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 宇宙海賊キャプテン・ハーロック　アルカディア号の謎

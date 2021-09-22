@@ -1,5 +1,7 @@
 # Uchi no Darling Eikoku Shinshi
 
+![uchi-no-darling-eikoku-shinshi](https://cdn.myanimelist.net/images/manga/2/39954.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

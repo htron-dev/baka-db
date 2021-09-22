@@ -1,5 +1,7 @@
 # Urban Square: Kohaku no Tsuigeki
 
+![urban-square-kohaku-no-tsuigeki](https://cdn.myanimelist.net/images/anime/1256/94477.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アーバンスクウェア　琥珀の追撃

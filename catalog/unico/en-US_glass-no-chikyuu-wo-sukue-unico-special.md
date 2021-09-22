@@ -1,5 +1,7 @@
 # Glass no Chikyuu wo Sukue Unico Special
 
+![glass-no-chikyuu-wo-sukue-unico-special](https://cdn.myanimelist.net/images/anime/3/61259.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ガラスの地球を救え ユニコ特別編

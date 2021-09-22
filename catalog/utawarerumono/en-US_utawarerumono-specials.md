@@ -1,5 +1,7 @@
 # Utawarerumono Specials
 
+![utawarerumono-specials](https://cdn.myanimelist.net/images/anime/1319/99303.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: うたわれるもの

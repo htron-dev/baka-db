@@ -1,5 +1,7 @@
 # Ultra Maniac
 
+![ultra-maniac](https://cdn.myanimelist.net/images/manga/2/123917.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

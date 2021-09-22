@@ -1,5 +1,7 @@
 # Un-Go: Inga-ron
 
+![un-go-inga-ron](https://cdn.myanimelist.net/images/anime/5/35071.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: UN-GO episode:0 因果論

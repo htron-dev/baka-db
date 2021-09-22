@@ -1,5 +1,7 @@
 # Uta no☆Prince-sama♪ Movie: Maji Love ST☆RISH Tours
 
+![uta-no☆-prince-sama♪-movie-maji-love-st☆rish-tours](https://cdn.myanimelist.net/images/anime/1285/113734.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 うたの ☆ プリンスさまっ ♪ マジ LOVE スターリッシュツアーズ

@@ -1,5 +1,7 @@
 # Uranof
 
+![uranof](https://cdn.myanimelist.net/images/anime/1894/114934.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: uranof

@@ -1,5 +1,7 @@
 # Usotsuki no Heart
 
+![usotsuki-no-heart](https://cdn.myanimelist.net/images/manga/2/229761.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

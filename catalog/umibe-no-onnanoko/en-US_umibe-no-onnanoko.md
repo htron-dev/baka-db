@@ -1,5 +1,7 @@
 # Umibe no Onnanoko
 
+![umibe-no-onnanoko](https://cdn.myanimelist.net/images/manga/3/87179.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

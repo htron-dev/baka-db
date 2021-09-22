@@ -1,5 +1,7 @@
 # Uchuu Roshin Mumo
 
+![uchuu-roshin-mumo](https://cdn.myanimelist.net/images/manga/3/116479.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

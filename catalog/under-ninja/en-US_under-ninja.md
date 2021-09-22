@@ -1,5 +1,7 @@
 # Under Ninja
 
+![under-ninja](https://cdn.myanimelist.net/images/manga/3/220916.jpg)
+
 -   **type**: manga
 -   **original-name**: アンダーニンジャ
 -   **start-date**: 2018-07-23

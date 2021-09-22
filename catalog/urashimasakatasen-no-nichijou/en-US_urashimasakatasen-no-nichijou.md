@@ -1,5 +1,7 @@
 # Urashimasakatasen no Nichijou
 
+![urashimasakatasen-no-nichijou](https://cdn.myanimelist.net/images/anime/1294/102367.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 浦島坂田船の日常

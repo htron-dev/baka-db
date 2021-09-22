@@ -1,5 +1,7 @@
 # Ubasuteyama
 
+![ubasuteyama](https://cdn.myanimelist.net/images/anime/9/84490.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 姥捨山

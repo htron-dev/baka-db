@@ -1,5 +1,7 @@
 # Uta no☆Prince-sama♪: Maji Love Legend Star
 
+![uta-no☆-prince-sama♪-maji-love-legend-star](https://cdn.myanimelist.net/images/anime/4/79194.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: うたの ☆ プリンスさまっ ♪ マジ LOVE レジェンドスター

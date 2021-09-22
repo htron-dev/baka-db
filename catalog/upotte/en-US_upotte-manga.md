@@ -1,5 +1,7 @@
 # Upotte!!
 
+![upotte](https://cdn.myanimelist.net/images/manga/1/163490.jpg)
+
 -   **type**: manga
 -   **original-name**: うぽって!!
 -   **start-date**: 2009-07-04

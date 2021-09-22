@@ -1,5 +1,7 @@
 # Usagi-chan de Cue!!
 
+![usagi-chan-de-cue](https://cdn.myanimelist.net/images/anime/12/2999.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: うさぎちゃんで ＣＵＥ!!

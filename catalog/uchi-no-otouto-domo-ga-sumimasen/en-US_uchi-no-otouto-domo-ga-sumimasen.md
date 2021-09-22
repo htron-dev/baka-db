@@ -1,5 +1,7 @@
 # Uchi no Otouto-domo ga Sumimasen
 
+![uchi-no-otouto-domo-ga-sumimasen](https://cdn.myanimelist.net/images/manga/1/230356.jpg)
+
 -   **type**: manga
 -   **original-name**: うちの弟どもがすみません
 -   **start-date**: 2020-01-11

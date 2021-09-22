@@ -1,5 +1,7 @@
 # Utawarerumono Recaps
 
+![utawarerumono-recaps](https://cdn.myanimelist.net/images/anime/5/14138.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: うたわれるもの

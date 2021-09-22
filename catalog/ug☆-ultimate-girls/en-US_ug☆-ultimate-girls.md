@@ -1,5 +1,7 @@
 # UG☆Ultimate Girls
 
+![ug☆-ultimate-girls](https://cdn.myanimelist.net/images/anime/1/2455.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: UG☆ アルティメットガール

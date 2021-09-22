@@ -1,5 +1,7 @@
 # Umi Monogatari: Anata ga Ite Kureta Koto
 
+![umi-monogatari-anata-ga-ite-kureta-koto](https://cdn.myanimelist.net/images/manga/1/144947.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

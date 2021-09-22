@@ -1,5 +1,7 @@
 # Usagi Souzoku
 
+![usagi-souzoku](https://cdn.myanimelist.net/images/manga/3/78159.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # 1000-nen Joou: Queen Millennia
 
+![1000-nen-joou-queen-millennia](https://cdn.myanimelist.net/images/anime/1/2398.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 1000 年女王 Queen Millennia

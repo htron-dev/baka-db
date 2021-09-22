@@ -1,5 +1,7 @@
 # Uchuu Kaizoku Mito no Daibouken: Futari no Joou-sama
 
+![uchuu-kaizoku-mito-no-daibouken-futari-no-joou-sama](https://cdn.myanimelist.net/images/anime/3/60981.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 宇宙海賊ミトの大冒険 2 人の女王様

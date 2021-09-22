@@ -1,5 +1,7 @@
 # Umigame to Shounen
 
+![umigame-to-shounen](https://cdn.myanimelist.net/images/anime/2/53835.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ウミガメと少年

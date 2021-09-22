@@ -1,5 +1,7 @@
 # Uta no☆Prince-sama♪ Maji Love 2000%: Shining Star Xmas
 
+![uta-no☆-prince-sama♪-maji-love-2000-shining-star-xmas](https://cdn.myanimelist.net/images/anime/9/56553.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: うたの ☆ プリンスさまっ ♪ マジ LOVE2000% Op.14 Shining Star Xmas

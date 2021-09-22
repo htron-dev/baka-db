@@ -1,5 +1,7 @@
 # Uobbuchou
 
+![uobbuchou](https://cdn.myanimelist.net/images/anime/2/82105.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: うおっ部長

@@ -1,5 +1,7 @@
 # Unknown
 
+![unknown](https://cdn.myanimelist.net/images/manga/2/147855.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

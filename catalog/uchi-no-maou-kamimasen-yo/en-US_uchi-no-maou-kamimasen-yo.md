@@ -1,5 +1,7 @@
 # Uchi no Maou Kamimasen yo
 
+![uchi-no-maou-kamimasen-yo](https://cdn.myanimelist.net/images/manga/3/143665.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 39

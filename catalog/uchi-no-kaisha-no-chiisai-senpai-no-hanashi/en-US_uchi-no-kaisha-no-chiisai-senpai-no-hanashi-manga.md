@@ -1,5 +1,7 @@
 # Uchi no Kaisha no Chiisai Senpai no Hanashi
 
+![uchi-no-kaisha-no-chiisai-senpai-no-hanashi](https://cdn.myanimelist.net/images/manga/3/240531.jpg)
+
 -   **type**: manga
 -   **original-name**: うちの会社の小さい先輩の話
 -   **start-date**: 2020-04-03

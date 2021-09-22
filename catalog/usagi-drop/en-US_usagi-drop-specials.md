@@ -1,5 +1,7 @@
 # Usagi Drop Specials
 
+![usagi-drop-specials](https://cdn.myanimelist.net/images/anime/7/30759.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: うさぎドロップ

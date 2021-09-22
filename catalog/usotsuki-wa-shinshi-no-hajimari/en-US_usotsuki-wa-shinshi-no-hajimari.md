@@ -1,5 +1,7 @@
 # Usotsuki wa Shinshi no Hajimari
 
+![usotsuki-wa-shinshi-no-hajimari](https://cdn.myanimelist.net/images/manga/2/33392.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

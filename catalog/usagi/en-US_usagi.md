@@ -1,5 +1,7 @@
 # Usagi
 
+![usagi](https://cdn.myanimelist.net/images/manga/3/31966.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: うさぎ

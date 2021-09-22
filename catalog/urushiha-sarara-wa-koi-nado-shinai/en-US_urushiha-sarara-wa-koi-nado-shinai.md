@@ -1,5 +1,7 @@
 # Urushiha Sarara wa Koi nado Shinai!
 
+![urushiha-sarara-wa-koi-nado-shinai](https://cdn.myanimelist.net/images/manga/3/211422.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 33

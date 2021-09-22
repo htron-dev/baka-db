@@ -1,5 +1,7 @@
 # Uchuu Kaizoku Captain Herlock
 
+![uchuu-kaizoku-captain-herlock](https://cdn.myanimelist.net/images/anime/1362/90305.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 42
 -   **original-name**: 宇宙海賊・キャプテンハーロック

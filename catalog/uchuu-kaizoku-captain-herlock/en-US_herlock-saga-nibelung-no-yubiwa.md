@@ -1,5 +1,7 @@
 # Herlock Saga: Nibelung no Yubiwa
 
+![herlock-saga-nibelung-no-yubiwa](https://cdn.myanimelist.net/images/anime/9/21258.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: ハーロック・サーガ ニーベルングの指環

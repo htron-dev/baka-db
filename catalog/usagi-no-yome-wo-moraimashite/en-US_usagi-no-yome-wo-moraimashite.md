@@ -1,5 +1,7 @@
 # Usagi no Yome wo Moraimashite
 
+![usagi-no-yome-wo-moraimashite](https://cdn.myanimelist.net/images/manga/1/152801.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: うさぎの嫁をもらいまして

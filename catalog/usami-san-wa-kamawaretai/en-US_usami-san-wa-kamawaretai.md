@@ -1,5 +1,7 @@
 # Usami-san wa Kamawaretai!
 
+![usami-san-wa-kamawaretai](https://cdn.myanimelist.net/images/manga/3/229573.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 65

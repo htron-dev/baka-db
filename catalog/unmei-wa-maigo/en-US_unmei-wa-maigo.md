@@ -1,5 +1,7 @@
 # Unmei wa Maigo
 
+![unmei-wa-maigo](https://cdn.myanimelist.net/images/manga/3/226033.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

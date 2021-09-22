@@ -1,5 +1,7 @@
 # Urayasu Tekkin Kazoku
 
+![urayasu-tekkin-kazoku](https://cdn.myanimelist.net/images/manga/3/46209.jpg)
+
 -   **type**: manga
 -   **volumes**: 31
 -   **original-name**: 浦安鉄筋家族

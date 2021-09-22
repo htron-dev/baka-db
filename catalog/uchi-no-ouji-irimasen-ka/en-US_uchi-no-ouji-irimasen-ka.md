@@ -1,5 +1,7 @@
 # Uchi no Ouji Irimasen ka
 
+![uchi-no-ouji-irimasen-ka](https://cdn.myanimelist.net/images/manga/2/42247.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Uramiya Honpo: Sukuruma Fuusuke
 
+![uramiya-honpo-sukuruma-fuusuke](https://cdn.myanimelist.net/images/manga/2/205521.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 37

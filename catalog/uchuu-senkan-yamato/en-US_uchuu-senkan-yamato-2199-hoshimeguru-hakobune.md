@@ -1,5 +1,7 @@
 # Uchuu Senkan Yamato 2199: Hoshimeguru Hakobune
 
+![uchuu-senkan-yamato-2199-hoshimeguru-hakobune](https://cdn.myanimelist.net/images/anime/2/67623.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 宇宙戦艦ヤマト 2199 星巡る方舟

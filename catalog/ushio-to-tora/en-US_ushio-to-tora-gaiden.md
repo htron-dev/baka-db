@@ -1,5 +1,7 @@
 # Ushio to Tora Gaiden
 
+![ushio-to-tora-gaiden](https://cdn.myanimelist.net/images/manga/4/164810.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

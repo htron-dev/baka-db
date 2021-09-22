@@ -1,5 +1,7 @@
 # Usotsuki Kusuriyubi
 
+![usotsuki-kusuriyubi](https://cdn.myanimelist.net/images/manga/1/172313.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

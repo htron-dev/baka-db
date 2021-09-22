@@ -1,5 +1,7 @@
 # Appare! Urayasu Tekkin Kazoku
 
+![appare-urayasu-tekkin-kazoku](https://cdn.myanimelist.net/images/manga/3/214597.jpg)
+
 -   **type**: manga
 -   **original-name**: あっぱれ! 浦安鉄筋家族
 -   **start-date**: 2018-03-15

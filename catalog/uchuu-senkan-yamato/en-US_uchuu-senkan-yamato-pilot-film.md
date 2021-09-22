@@ -1,5 +1,7 @@
 # Uchuu Senkan Yamato Pilot Film
 
+![uchuu-senkan-yamato-pilot-film](https://cdn.myanimelist.net/images/anime/6/89950.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 宇宙戦艦ヤマト パイロットフィルム

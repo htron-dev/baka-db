@@ -1,5 +1,7 @@
 # Uzaki-chan wa Asobitai!
 
+![uzaki-chan-wa-asobitai](https://cdn.myanimelist.net/images/anime/1540/108292.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 宇崎ちゃんは遊びたい！

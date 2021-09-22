@@ -1,5 +1,7 @@
 # Uchiko no Mama to Okaasan
 
+![uchiko-no-mama-to-okaasan](https://cdn.myanimelist.net/images/anime/1252/91253.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 裡児のママとお母さん

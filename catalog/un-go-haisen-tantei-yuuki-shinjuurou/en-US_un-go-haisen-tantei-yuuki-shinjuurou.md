@@ -1,5 +1,7 @@
 # Un-Go: Haisen Tantei Yuuki Shinjuurou
 
+![un-go-haisen-tantei-yuuki-shinjuurou](https://cdn.myanimelist.net/images/manga/3/166207.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

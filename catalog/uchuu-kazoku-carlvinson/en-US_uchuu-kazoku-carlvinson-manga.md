@@ -1,5 +1,7 @@
 # Uchuu Kazoku Carlvinson
 
+![uchuu-kazoku-carlvinson](https://cdn.myanimelist.net/images/manga/3/172509.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **original-name**: 宇宙家族カールビンソン

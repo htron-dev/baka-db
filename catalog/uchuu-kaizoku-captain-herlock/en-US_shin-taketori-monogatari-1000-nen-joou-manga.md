@@ -1,5 +1,7 @@
 # Shin Taketori Monogatari: 1000-nen Joou
 
+![shin-taketori-monogatari-1000-nen-joou](https://cdn.myanimelist.net/images/manga/2/149280.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 新竹取物語 1000 年女王

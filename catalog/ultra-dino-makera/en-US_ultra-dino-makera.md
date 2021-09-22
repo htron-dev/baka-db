@@ -1,5 +1,7 @@
 # Ultra Dino Makera
 
+![ultra-dino-makera](https://cdn.myanimelist.net/images/anime/9/65745.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Ultra Dino Makera

@@ -1,5 +1,7 @@
 # Usotsuki Android
 
+![usotsuki-android](https://cdn.myanimelist.net/images/manga/3/240823.jpg)
+
 -   **type**: manga
 -   **original-name**: うそつきアンドロイド
 -   **start-date**: 2020-09-24

@@ -1,5 +1,7 @@
 # Utsurohiya
 
+![utsurohiya](https://cdn.myanimelist.net/images/manga/1/240102.jpg)
+
 -   **type**: manga
 -   **original-name**: 空日屋
 -   **start-date**: 2019-11-19

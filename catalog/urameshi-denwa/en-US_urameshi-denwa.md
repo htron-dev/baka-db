@@ -1,5 +1,7 @@
 # Urameshi Denwa
 
+![urameshi-denwa](https://cdn.myanimelist.net/images/anime/10/71587.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: うらめしでんわ

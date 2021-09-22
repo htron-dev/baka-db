@@ -1,5 +1,7 @@
 # Urami-san wa Kyou mo Ayaui
 
+![urami-san-wa-kyou-mo-ayaui](https://cdn.myanimelist.net/images/manga/3/221795.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

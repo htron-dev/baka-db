@@ -1,5 +1,7 @@
 # Ginga Tetsudou 999: Akai Hoshi Betelgeuze - Inochi no Kagayaki
 
+![ginga-tetsudou-999-akai-hoshi-betelgeuze-inochi-no-kagayaki](https://cdn.myanimelist.net/images/anime/5/72906.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 銀河鉄道 999 赤い星ベテルギウス ～いのちの輝き～

@@ -1,5 +1,7 @@
 # Uchuu no Hou: Erohim-hen
 
+![uchuu-no-hou-erohim-hen](https://cdn.myanimelist.net/images/anime/1335/114900.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 宇宙の法―エローヒム編―

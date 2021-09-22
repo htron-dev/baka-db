@@ -1,5 +1,7 @@
 # Union!
 
+![union](https://cdn.myanimelist.net/images/manga/2/136933.jpg)
+
 -   **type**: manga
 -   **original-name**: ゆにおん！
 -   **start-date**: 2014-08-27

@@ -1,5 +1,7 @@
 # Umi ni Nemuru Hana
 
+![umi-ni-nemuru-hana](https://cdn.myanimelist.net/images/manga/2/8584.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 海ニ眠ル花

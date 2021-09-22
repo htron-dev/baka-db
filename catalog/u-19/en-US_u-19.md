@@ -1,5 +1,7 @@
 # U19
 
+![u-19](https://cdn.myanimelist.net/images/manga/2/197241.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

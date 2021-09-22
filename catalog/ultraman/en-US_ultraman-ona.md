@@ -1,5 +1,7 @@
 # Ultraman
 
+![ultraman](https://cdn.myanimelist.net/images/anime/1774/116478.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: ULTRAMAN

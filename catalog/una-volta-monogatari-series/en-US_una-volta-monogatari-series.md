@@ -1,5 +1,7 @@
 # Una Volta Monogatari Series
 
+![una-volta-monogatari-series](https://cdn.myanimelist.net/images/manga/2/157376.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: ウナ・ヴォルタ物語シリーズ

@@ -1,5 +1,7 @@
 # Urashima Ryuuguu Emaki
 
+![urashima-ryuuguu-emaki](https://cdn.myanimelist.net/images/manga/1/33522.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 浦島龍宮絵巻

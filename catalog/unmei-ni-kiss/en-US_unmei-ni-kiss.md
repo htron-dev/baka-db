@@ -1,5 +1,7 @@
 # Unmei ni KISS
 
+![unmei-ni-kiss](https://cdn.myanimelist.net/images/manga/5/146827.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

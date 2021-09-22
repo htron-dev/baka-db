@@ -1,5 +1,7 @@
 # Umineko no Naku Koro ni
 
+![umineko-no-naku-koro-ni](https://cdn.myanimelist.net/images/manga/1/185819.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **original-name**: うみねこのなく頃に

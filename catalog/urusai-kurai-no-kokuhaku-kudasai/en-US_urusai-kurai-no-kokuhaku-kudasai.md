@@ -1,5 +1,7 @@
 # Urusai kurai no Kokuhaku Kudasai
 
+![urusai-kurai-no-kokuhaku-kudasai](https://cdn.myanimelist.net/images/manga/1/222092.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

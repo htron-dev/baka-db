@@ -1,5 +1,7 @@
 # UFO Princess Valkyrie 4: Toki to Yume to Ginga no Utage
 
+![ufo-princess-valkyrie-4-toki-to-yume-to-ginga-no-utage](https://cdn.myanimelist.net/images/anime/1/2453.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 円盤皇女ワるきゅーレ 時と夢と銀河の宴

@@ -1,5 +1,7 @@
 # Uta∽Kata: Shotou no Futanatsu
 
+![uta∽-kata-shotou-no-futanatsu](https://cdn.myanimelist.net/images/anime/7/24068.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: うた ∽ かた - 初冬の双夏

@@ -1,5 +1,7 @@
 # Ushio to Tora
 
+![ushio-to-tora](https://cdn.myanimelist.net/images/manga/3/166841.jpg)
+
 -   **type**: manga
 -   **volumes**: 33
 -   **chapters**: 313

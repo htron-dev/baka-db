@@ -1,5 +1,7 @@
 # Urasai
 
+![urasai](https://cdn.myanimelist.net/images/manga/2/63093.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: うらさい

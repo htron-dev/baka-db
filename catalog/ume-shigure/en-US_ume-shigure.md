@@ -1,5 +1,7 @@
 # Ume Shigure
 
+![ume-shigure](https://cdn.myanimelist.net/images/manga/2/43211.jpg)
+
 -   **type**: manga
 -   **chapters**: 10
 -   **original-name**: 梅しぐれ

@@ -1,5 +1,7 @@
 # Starting Gate!: Uma Musume Pretty Derby
 
+![starting-gate-uma-musume-pretty-derby](https://cdn.myanimelist.net/images/manga/3/198435.jpg)
+
 -   **type**: manga
 -   **original-name**: STARTING GATE！ －ウマ娘プリティーダービー－
 -   **start-date**: 2017-03-25

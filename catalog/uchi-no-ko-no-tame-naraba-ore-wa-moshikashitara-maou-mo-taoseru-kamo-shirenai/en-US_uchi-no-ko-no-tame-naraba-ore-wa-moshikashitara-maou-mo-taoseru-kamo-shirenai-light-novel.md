@@ -1,5 +1,7 @@
 # Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.
 
+![uchi-no-ko-no-tame-naraba-ore-wa-moshikashitara-maou-mo-taoseru-kamo-shirenai](https://cdn.myanimelist.net/images/manga/2/179864.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **chapters**: 60

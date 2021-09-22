@@ -1,5 +1,7 @@
 # Ukkari Pénélope (2017)
 
+![ukkari-penelope-2017](https://cdn.myanimelist.net/images/anime/1746/91765.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: うっかりペネロペ

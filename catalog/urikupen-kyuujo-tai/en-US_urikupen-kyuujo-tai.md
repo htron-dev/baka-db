@@ -1,5 +1,7 @@
 # Urikupen Kyuujo-tai
 
+![urikupen-kyuujo-tai](https://cdn.myanimelist.net/images/anime/8/8798.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 156
 -   **original-name**: ウリクペン救助隊

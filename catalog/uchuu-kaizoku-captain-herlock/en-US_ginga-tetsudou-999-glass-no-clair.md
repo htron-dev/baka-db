@@ -1,5 +1,7 @@
 # Ginga Tetsudou 999: Glass no Clair
 
+![ginga-tetsudou-999-glass-no-clair](https://cdn.myanimelist.net/images/anime/6/15279.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 銀河鉄道９９９ ガラスのクレア

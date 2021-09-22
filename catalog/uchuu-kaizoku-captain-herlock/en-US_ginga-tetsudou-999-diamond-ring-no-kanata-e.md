@@ -1,5 +1,7 @@
 # Ginga Tetsudou 999: Diamond Ring no Kanata e
 
+![ginga-tetsudou-999-diamond-ring-no-kanata-e](https://cdn.myanimelist.net/images/anime/4/17336.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 銀河鉄道 999 ダイヤモンドリングの彼方へ

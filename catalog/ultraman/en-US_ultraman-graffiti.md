@@ -1,5 +1,7 @@
 # Ultraman Graffiti
 
+![ultraman-graffiti](https://cdn.myanimelist.net/images/anime/12/32641.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: ウルトラマングラフィティ

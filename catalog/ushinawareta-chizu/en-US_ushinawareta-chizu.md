@@ -1,5 +1,7 @@
 # Ushinawareta Chizu
 
+![ushinawareta-chizu](https://cdn.myanimelist.net/images/manga/2/227374.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 失われた地図

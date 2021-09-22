@@ -1,5 +1,7 @@
 # U.ta.hi.me
 
+![u-ta-hi-me](https://cdn.myanimelist.net/images/manga/3/32305.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: う・た・ひ・め

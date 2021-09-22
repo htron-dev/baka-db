@@ -1,5 +1,7 @@
 # Umi no Juunin to wa Koi wa Shinai
 
+![umi-no-juunin-to-wa-koi-wa-shinai](https://cdn.myanimelist.net/images/manga/3/98555.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 海の住人とは恋はしない

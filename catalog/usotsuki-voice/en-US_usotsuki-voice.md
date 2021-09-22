@@ -1,5 +1,7 @@
 # Usotsuki Voice
 
+![usotsuki-voice](https://cdn.myanimelist.net/images/manga/3/7742.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: うそつきヴォイス

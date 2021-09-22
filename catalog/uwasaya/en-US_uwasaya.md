@@ -1,5 +1,7 @@
 # Uwasaya
 
+![uwasaya](https://cdn.myanimelist.net/images/manga/2/171302.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 56

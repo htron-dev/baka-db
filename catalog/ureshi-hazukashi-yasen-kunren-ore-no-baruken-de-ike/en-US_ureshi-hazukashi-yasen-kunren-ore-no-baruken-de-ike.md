@@ -1,5 +1,7 @@
 # Ureshi Hazukashi Yasen Kunren - Ore no Baruken de Ike!
 
+![ureshi-hazukashi-yasen-kunren-ore-no-baruken-de-ike](https://cdn.myanimelist.net/images/manga/3/72605.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 嬉し恥ずかし・野戦訓練 ☆~オレのバルカンで逝け!

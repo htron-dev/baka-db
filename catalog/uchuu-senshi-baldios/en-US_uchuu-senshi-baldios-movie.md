@@ -1,5 +1,7 @@
 # Uchuu Senshi Baldios (Movie)
 
+![uchuu-senshi-baldios-movie](https://cdn.myanimelist.net/images/anime/10/61937.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 宇宙戦士バルディオス

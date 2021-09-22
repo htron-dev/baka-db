@@ -1,5 +1,7 @@
 # Uriko-hime no Yoru Cinderella no Asa
 
+![uriko-hime-no-yoru-cinderella-no-asa](https://cdn.myanimelist.net/images/manga/1/236855.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

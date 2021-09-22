@@ -1,5 +1,7 @@
 # Underskin
 
+![underskin](https://cdn.myanimelist.net/images/manga/3/239166.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

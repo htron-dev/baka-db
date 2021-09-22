@@ -1,5 +1,7 @@
 # Uchinukareta Senjou wa, Soko de Kieteiro
 
+![uchinukareta-senjou-wa-soko-de-kieteiro](https://cdn.myanimelist.net/images/manga/1/230472.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 撃ち抜かれた戦場は、そこで消えていろ
 -   **start-date**: 2019-01-19

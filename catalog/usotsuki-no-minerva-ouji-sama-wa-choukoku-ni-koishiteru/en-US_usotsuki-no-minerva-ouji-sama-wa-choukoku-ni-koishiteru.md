@@ -1,5 +1,7 @@
 # Usotsuki no Minerva: Ouji-sama wa Choukoku ni Koishiteru
 
+![usotsuki-no-minerva-ouji-sama-wa-choukoku-ni-koishiteru](https://cdn.myanimelist.net/images/manga/3/178995.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

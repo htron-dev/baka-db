@@ -1,5 +1,7 @@
 # Ukiwa, to Fuurin.: Tomodachi Ijou, Furin Miman
 
+![ukiwa-to-fuurin-tomodachi-ijou-furin-miman](https://cdn.myanimelist.net/images/manga/2/248575.jpg)
+
 -   **type**: manga
 -   **original-name**: うきわ、と風鈴。ー友達以上、不倫未満ー
 -   **start-date**: 2021-05-17

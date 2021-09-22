@@ -1,5 +1,7 @@
 # Usotsuki Ouji no Karekano Gokko
 
+![usotsuki-ouji-no-karekano-gokko](https://cdn.myanimelist.net/images/manga/1/236647.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

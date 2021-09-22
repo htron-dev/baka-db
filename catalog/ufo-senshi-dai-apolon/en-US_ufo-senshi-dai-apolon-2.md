@@ -1,5 +1,7 @@
 # UFO Senshi Dai Apolon 2
 
+![ufo-senshi-dai-apolon-2](https://cdn.myanimelist.net/images/anime/11/29869.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 21
 -   **original-name**: UFO 戦士ダイアポロン II

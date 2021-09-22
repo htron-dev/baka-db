@@ -1,5 +1,7 @@
 # Uso wa Midara na Koi no Wana
 
+![uso-wa-midara-na-koi-no-wana](https://cdn.myanimelist.net/images/manga/1/194063.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

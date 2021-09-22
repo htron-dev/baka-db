@@ -1,5 +1,7 @@
 # Unicorn no Koibito
 
+![unicorn-no-koibito](https://cdn.myanimelist.net/images/manga/2/127601.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: ユニコーンの恋人

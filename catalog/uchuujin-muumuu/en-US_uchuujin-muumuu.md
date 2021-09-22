@@ -1,5 +1,7 @@
 # Uchuujin Muumuu
 
+![uchuujin-muumuu](https://cdn.myanimelist.net/images/manga/1/243269.jpg)
+
 -   **type**: manga
 -   **original-name**: 宇宙人ムームー
 -   **start-date**: 2019-06-28

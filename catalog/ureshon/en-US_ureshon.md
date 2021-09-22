@@ -1,5 +1,7 @@
 # Ureshon!
 
+![ureshon](https://cdn.myanimelist.net/images/manga/2/187267.jpg)
+
 -   **type**: manga
 -   **original-name**: うれしょん！
 -   **start-date**: 2016-04-25

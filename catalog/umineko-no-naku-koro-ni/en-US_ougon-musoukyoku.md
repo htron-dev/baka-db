@@ -1,5 +1,7 @@
 # Ougon Musoukyoku
 
+![ougon-musoukyoku](https://cdn.myanimelist.net/images/manga/2/236640.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

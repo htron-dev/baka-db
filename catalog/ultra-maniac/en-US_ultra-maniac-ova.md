@@ -1,5 +1,7 @@
 # Ultra Maniac OVA
 
+![ultra-maniac-ova](https://cdn.myanimelist.net/images/anime/2/3132.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ウルトラマニアック

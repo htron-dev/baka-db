@@ -1,5 +1,7 @@
 # Under (xGround) Grand Hotel
 
+![under-x-ground-grand-hotel](https://cdn.myanimelist.net/images/manga/4/25728.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

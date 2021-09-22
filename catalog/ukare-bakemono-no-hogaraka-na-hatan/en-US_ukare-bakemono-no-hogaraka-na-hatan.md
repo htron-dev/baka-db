@@ -1,5 +1,7 @@
 # Ukare Bakemono no Hogaraka na Hatan
 
+![ukare-bakemono-no-hogaraka-na-hatan](https://cdn.myanimelist.net/images/manga/1/168112.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 35

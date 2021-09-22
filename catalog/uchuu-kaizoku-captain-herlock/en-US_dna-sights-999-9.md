@@ -1,5 +1,7 @@
 # DNA Sights 999.9
 
+![dna-sights-999-9](https://cdn.myanimelist.net/images/anime/1374/99920.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 火聖旅団[ファイアーフォース]ダナサイト９９９．９[フォーナイン]

@@ -1,5 +1,7 @@
 # Umi no Misaki
 
+![umi-no-misaki](https://cdn.myanimelist.net/images/manga/1/56947.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 135

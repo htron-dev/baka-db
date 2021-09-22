@@ -1,5 +1,7 @@
 # Urara Meirochou
 
+![urara-meirochou](https://cdn.myanimelist.net/images/anime/6/84119.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: うらら迷路帖

@@ -1,5 +1,7 @@
 # Usotsuki wa Hatsukoi no Hajimaru
 
+![usotsuki-wa-hatsukoi-no-hajimaru](https://cdn.myanimelist.net/images/manga/1/200301.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Ukiyo Tsuya Soushi
 
+![ukiyo-tsuya-soushi](https://cdn.myanimelist.net/images/manga/1/23177.jpg)
+
 -   **type**: manga
 -   **original-name**: 浮世艶草子
 

@@ -1,5 +1,7 @@
 # Uchikudakareta Ai
 
+![uchikudakareta-ai](https://cdn.myanimelist.net/images/manga/3/131059.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 打ち砕かれた愛

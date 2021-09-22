@@ -1,5 +1,7 @@
 # Utakata Overdrive
 
+![utakata-overdrive](https://cdn.myanimelist.net/images/anime/10/76999.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ウタカタ・オーバードライブ

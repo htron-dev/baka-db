@@ -1,5 +1,7 @@
 # Uchi no Ojousama ga Hametsu End shika Nai Akuyaku Reijou no You nanode Ore ga Kyuusai Shitai to Omoimasu.
 
+![uchi-no-ojousama-ga-hametsu-end-shika-nai-akuyaku-reijou-no-you-nanode-ore-ga-kyuusai-shitai-to-omoimasu](https://cdn.myanimelist.net/images/manga/3/241751.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

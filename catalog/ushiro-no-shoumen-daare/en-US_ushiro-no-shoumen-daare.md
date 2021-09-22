@@ -1,5 +1,7 @@
 # Ushiro no Shoumen Daare
 
+![ushiro-no-shoumen-daare](https://cdn.myanimelist.net/images/anime/11/3715.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: うしろの正面だあれ

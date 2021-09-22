@@ -1,5 +1,7 @@
 # Urashima Tarou (1931)
 
+![urashima-tarou-1931](https://cdn.myanimelist.net/images/anime/11/12222.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 浦島太郎

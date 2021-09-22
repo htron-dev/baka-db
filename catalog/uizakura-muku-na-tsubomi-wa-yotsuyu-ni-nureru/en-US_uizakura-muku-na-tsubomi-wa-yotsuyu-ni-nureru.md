@@ -1,5 +1,7 @@
 # Uizakura: Muku na Tsubomi wa Yotsuyu ni Nureru
 
+![uizakura-muku-na-tsubomi-wa-yotsuyu-ni-nureru](https://cdn.myanimelist.net/images/manga/1/182918.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

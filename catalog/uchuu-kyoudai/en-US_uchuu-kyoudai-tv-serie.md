@@ -1,5 +1,7 @@
 # Uchuu Kyoudai
 
+![uchuu-kyoudai](https://cdn.myanimelist.net/images/anime/7/37573.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 99
 -   **original-name**: 宇宙兄弟

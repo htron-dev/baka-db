@@ -1,5 +1,7 @@
 # Ultimate Special High School
 
+![ultimate-special-high-school](https://cdn.myanimelist.net/images/manga/2/104127.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 17

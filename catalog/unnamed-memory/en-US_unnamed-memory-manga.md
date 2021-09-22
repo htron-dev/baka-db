@@ -1,5 +1,7 @@
 # Unnamed Memory
 
+![unnamed-memory](https://cdn.myanimelist.net/images/manga/1/243107.jpg)
+
 -   **type**: manga
 -   **original-name**: Unnamed Memory
 -   **start-date**: 2020-09-26

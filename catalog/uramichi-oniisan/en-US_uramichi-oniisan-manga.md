@@ -1,5 +1,7 @@
 # Uramichi Oniisan
 
+![uramichi-oniisan](https://cdn.myanimelist.net/images/manga/1/201611.jpg)
+
 -   **type**: manga
 -   **original-name**: うらみちお兄さん
 -   **start-date**: 2017-05-12

@@ -1,5 +1,7 @@
 # Uchi no 3 Shimai
 
+![uchi-no-3-shimai](https://cdn.myanimelist.net/images/anime/1631/104991.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 102
 -   **original-name**: うちの 3 姉妹

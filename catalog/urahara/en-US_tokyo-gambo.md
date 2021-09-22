@@ -1,5 +1,7 @@
 # Tokyo Gambo
 
+![tokyo-gambo](https://cdn.myanimelist.net/images/anime/1758/110280.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 東京ガンボ
 -   **start-date**: 2020-11-21

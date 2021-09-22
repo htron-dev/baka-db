@@ -1,5 +1,7 @@
 # Ginga Tetsudou Monogatari: Eien e no Bunkiten
 
+![ginga-tetsudou-monogatari-eien-e-no-bunkiten](https://cdn.myanimelist.net/images/anime/3/77281.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 銀河鉄道物語 ～永遠への分岐点～

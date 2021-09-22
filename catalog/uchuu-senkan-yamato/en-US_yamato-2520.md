@@ -1,5 +1,7 @@
 # Yamato 2520
 
+![yamato-2520](https://cdn.myanimelist.net/images/anime/12/61289.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: YAMATO2520 [ヤマトニーゴーニーゼロ]

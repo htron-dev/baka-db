@@ -1,5 +1,7 @@
 # Uchi no Ko ni Narinasai
 
+![uchi-no-ko-ni-narinasai](https://cdn.myanimelist.net/images/manga/1/86067.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

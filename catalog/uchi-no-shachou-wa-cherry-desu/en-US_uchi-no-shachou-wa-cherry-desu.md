@@ -1,5 +1,7 @@
 # Uchi no Shachou wa Cherry desu.
 
+![uchi-no-shachou-wa-cherry-desu](https://cdn.myanimelist.net/images/manga/3/147317.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

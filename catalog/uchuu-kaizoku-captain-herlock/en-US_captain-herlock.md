@@ -1,5 +1,7 @@
 # Captain Herlock
 
+![captain-herlock](https://cdn.myanimelist.net/images/anime/5/62619.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キャプテンハーロック

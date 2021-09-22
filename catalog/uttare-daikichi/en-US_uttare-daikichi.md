@@ -1,5 +1,7 @@
 # Uttare Daikichi!
 
+![uttare-daikichi](https://cdn.myanimelist.net/images/manga/1/159783.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 35

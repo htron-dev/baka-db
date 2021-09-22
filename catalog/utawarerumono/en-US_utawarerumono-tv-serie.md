@@ -1,5 +1,7 @@
 # Utawarerumono
 
+![utawarerumono](https://cdn.myanimelist.net/images/anime/9/24605.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: うたわれるもの

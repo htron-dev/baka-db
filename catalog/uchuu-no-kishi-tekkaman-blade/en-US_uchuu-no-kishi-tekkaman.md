@@ -1,5 +1,7 @@
 # Uchuu no Kishi Tekkaman
 
+![uchuu-no-kishi-tekkaman](https://cdn.myanimelist.net/images/anime/1/2447.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 宇宙の騎士テッカマン

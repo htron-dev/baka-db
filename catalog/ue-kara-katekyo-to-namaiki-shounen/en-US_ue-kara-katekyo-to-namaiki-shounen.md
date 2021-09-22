@@ -1,5 +1,7 @@
 # Ue kara Katekyo to Namaiki Shounen
 
+![ue-kara-katekyo-to-namaiki-shounen](https://cdn.myanimelist.net/images/manga/3/222829.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Unmei no Otome wo Metotta Outaishi wa Niizuma ni Goshuushin
 
+![unmei-no-otome-wo-metotta-outaishi-wa-niizuma-ni-goshuushin](https://cdn.myanimelist.net/images/manga/2/220271.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

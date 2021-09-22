@@ -1,5 +1,7 @@
 # Uso Tsuki: Usotsuki
 
+![uso-tsuki-usotsuki](https://cdn.myanimelist.net/images/manga/1/236902.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 34

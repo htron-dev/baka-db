@@ -1,5 +1,7 @@
 # Uchi no Deshi ga Itsunomanika Jinrui Saikyou ni Natteite, Nan no Sainou mo Nai Shishou no Ore ga Sore wo Koeru Uchuu Saikyou ni Gonintei sareteiru Ken ni Tsuite
 
+![uchi-no-deshi-ga-itsunomanika-jinrui-saikyou-ni-natteite-nan-no-sainou-mo-nai-shishou-no-ore-ga-sore-wo-koeru-uchuu-saikyou-ni-gonintei-sareteiru-ken-ni-tsuite](https://cdn.myanimelist.net/images/manga/3/236025.jpg)
+
 -   **type**: light-novel
 -   **original-name**: うちの弟子がいつのまにか人類最強になっていて、なんの才能もない師匠の俺が、それを超える宇宙最強に誤認定されている件について
 -   **start-date**: 2019-08-21

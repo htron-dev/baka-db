@@ -1,5 +1,7 @@
 # Utawarerumono: Itsuwari no Kamen
 
+![utawarerumono-itsuwari-no-kamen](https://cdn.myanimelist.net/images/anime/8/75968.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: うたわれるもの 偽りの仮面

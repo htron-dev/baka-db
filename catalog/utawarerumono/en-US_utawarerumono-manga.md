@@ -1,5 +1,7 @@
 # Utawarerumono
 
+![utawarerumono](https://cdn.myanimelist.net/images/manga/2/157854.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

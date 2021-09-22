@@ -1,5 +1,7 @@
 # Uchuu Kuubo Blue Noah
 
+![uchuu-kuubo-blue-noah](https://cdn.myanimelist.net/images/anime/2/27147.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 宇宙空母ブルーノア

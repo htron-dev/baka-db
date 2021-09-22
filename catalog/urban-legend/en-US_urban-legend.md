@@ -1,5 +1,7 @@
 # Urban Legend
 
+![urban-legend](https://cdn.myanimelist.net/images/manga/2/229596.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

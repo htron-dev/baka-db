@@ -1,5 +1,7 @@
 # Uchuu Senkan Tiramisù II Specials
 
+![uchuu-senkan-tiramisu-ii-specials](https://cdn.myanimelist.net/images/anime/1915/98681.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: 宇宙戦艦ティラミス Ⅱ（ツヴァイ）

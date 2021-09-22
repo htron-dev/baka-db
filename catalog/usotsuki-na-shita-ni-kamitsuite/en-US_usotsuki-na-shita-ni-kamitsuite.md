@@ -1,5 +1,7 @@
 # Usotsuki na Shita ni Kamitsuite.
 
+![usotsuki-na-shita-ni-kamitsuite](https://cdn.myanimelist.net/images/manga/2/193654.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Umi Monogatari: Anata ga Ite Kureta Koto - Shinjiau Kokoro
 
+![umi-monogatari-anata-ga-ite-kureta-koto-shinjiau-kokoro](https://cdn.myanimelist.net/images/anime/8/15993.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: うみものがたり　～あなたがいてくれたコト～ 「信じあう心」

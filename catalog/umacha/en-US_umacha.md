@@ -1,5 +1,7 @@
 # Umacha
 
+![umacha](https://cdn.myanimelist.net/images/anime/5/27075.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 旨茶

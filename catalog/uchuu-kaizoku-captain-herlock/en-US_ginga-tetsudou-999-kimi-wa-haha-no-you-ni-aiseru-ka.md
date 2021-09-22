@@ -1,5 +1,7 @@
 # Ginga Tetsudou 999: Kimi wa Haha no You ni Aiseru ka!!
 
+![ginga-tetsudou-999-kimi-wa-haha-no-you-ni-aiseru-ka](https://cdn.myanimelist.net/images/anime/3/15484.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 銀河鉄道９９９　君は母のように愛せるか！！

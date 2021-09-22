@@ -1,5 +1,7 @@
 # Kyoukotsu no Yume
 
+![kyoukotsu-no-yume](https://cdn.myanimelist.net/images/manga/1/120953.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 10

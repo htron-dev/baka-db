@@ -1,5 +1,7 @@
 # Ultraman Kids: Haha wo Tazunete 3000-man Kounen
 
+![ultraman-kids-haha-wo-tazunete-3000-man-kounen](https://cdn.myanimelist.net/images/anime/12/24191.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ウルトラマンキッズ 母をたずねて 3000 万光年

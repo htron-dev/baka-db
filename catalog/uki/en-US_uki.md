@@ -1,5 +1,7 @@
 # Uki
 
+![uki](https://cdn.myanimelist.net/images/manga/1/134767.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

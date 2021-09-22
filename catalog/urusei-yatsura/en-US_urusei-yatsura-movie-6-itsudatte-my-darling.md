@@ -1,5 +1,7 @@
 # Urusei Yatsura Movie 6: Itsudatte My Darling
 
+![urusei-yatsura-movie-6-itsudatte-my-darling](https://cdn.myanimelist.net/images/anime/5/88665.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: うる星やつら いつだって・マイ・ダーリン

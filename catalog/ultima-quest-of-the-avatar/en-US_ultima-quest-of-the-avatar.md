@@ -1,5 +1,7 @@
 # Ultima - Quest of the Avatar
 
+![ultima-quest-of-the-avatar](https://cdn.myanimelist.net/images/manga/2/73591.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

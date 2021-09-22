@@ -1,5 +1,7 @@
 # Ukkari Mariko-san
 
+![ukkari-mariko-san](https://cdn.myanimelist.net/images/manga/3/35423.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: うっかりマリ子さん

@@ -1,5 +1,7 @@
 # Urara-chan no Naka no Hito
 
+![urara-chan-no-naka-no-hito](https://cdn.myanimelist.net/images/manga/2/55845.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

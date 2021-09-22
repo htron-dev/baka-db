@@ -1,5 +1,7 @@
 # UFO Princess Valkyrie
 
+![ufo-princess-valkyrie](https://cdn.myanimelist.net/images/manga/1/171718.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 72

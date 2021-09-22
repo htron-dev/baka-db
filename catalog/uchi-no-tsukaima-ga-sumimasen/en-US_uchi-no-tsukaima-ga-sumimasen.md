@@ -1,5 +1,7 @@
 # Uchi no Tsukaima ga Sumimasen
 
+![uchi-no-tsukaima-ga-sumimasen](https://cdn.myanimelist.net/images/manga/1/191710.jpg)
+
 -   **type**: manga
 -   **original-name**: ウチの使い魔がすみません
 -   **start-date**: 2016-01-07

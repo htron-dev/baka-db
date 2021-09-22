@@ -1,5 +1,7 @@
 # Uchi no Hentai Maid ni Osowareteru
 
+![uchi-no-hentai-maid-ni-osowareteru](https://cdn.myanimelist.net/images/manga/3/219788.jpg)
+
 -   **type**: manga
 -   **original-name**: うちの変態メイドに襲われてる
 -   **start-date**: 2017-07-21

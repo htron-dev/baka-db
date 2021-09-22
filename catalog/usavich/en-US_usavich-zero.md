@@ -1,5 +1,7 @@
 # Usavich Zero
 
+![usavich-zero](https://cdn.myanimelist.net/images/anime/11/73969.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ウサビッチ ZERO

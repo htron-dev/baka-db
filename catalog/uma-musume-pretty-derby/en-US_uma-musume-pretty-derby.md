@@ -1,5 +1,7 @@
 # Uma Musume: Pretty Derby
 
+![uma-musume-pretty-derby](https://cdn.myanimelist.net/images/anime/10/83024.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ウマ娘 プリティーダービー

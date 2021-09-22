@@ -1,5 +1,7 @@
 # Utopia of Homosexuality
 
+![utopia-of-homosexuality](https://cdn.myanimelist.net/images/manga/2/164418.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 22

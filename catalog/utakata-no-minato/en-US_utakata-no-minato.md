@@ -1,5 +1,7 @@
 # Utakata no Minato
 
+![utakata-no-minato](https://cdn.myanimelist.net/images/manga/1/236632.jpg)
+
 -   **type**: manga
 -   **original-name**: ウタカタノミナト
 -   **start-date**: 2020-03-12

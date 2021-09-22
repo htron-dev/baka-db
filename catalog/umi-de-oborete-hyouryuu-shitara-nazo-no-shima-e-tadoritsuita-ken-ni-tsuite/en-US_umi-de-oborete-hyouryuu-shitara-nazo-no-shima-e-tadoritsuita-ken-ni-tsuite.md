@@ -1,5 +1,7 @@
 # Umi de Oborete Hyouryuu shitara Nazo no Shima e Tadoritsuita Ken ni Tsuite
 
+![umi-de-oborete-hyouryuu-shitara-nazo-no-shima-e-tadoritsuita-ken-ni-tsuite](https://cdn.myanimelist.net/images/manga/1/158423.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 海でおぼれて漂流したら謎の島へたどり着いた件について

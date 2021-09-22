@@ -1,5 +1,7 @@
 # Unko-san: Tsuiteru Hito ni Shika Mienai Yousei
 
+![unko-san-tsuiteru-hito-ni-shika-mienai-yousei](https://cdn.myanimelist.net/images/anime/5/79398.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: うんこさん ツイてる人にしか見えない妖精

@@ -1,5 +1,7 @@
 # Under the Sun
 
+![under-the-sun](https://cdn.myanimelist.net/images/anime/1037/115089.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アンダー・ザ・サン

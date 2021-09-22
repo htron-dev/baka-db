@@ -1,5 +1,7 @@
 # Ugly Duckling to Swan
 
+![ugly-duckling-to-swan](https://cdn.myanimelist.net/images/manga/5/18774.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 13
 -   **original-name**: 미운오리 백조되기

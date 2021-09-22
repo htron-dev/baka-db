@@ -1,5 +1,7 @@
 # Musekinin Galaxy☆Tylor
 
+![musekinin-galaxy☆-tylor](https://cdn.myanimelist.net/images/anime/13/86832.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 無責任ギャラクシー ☆ タイラー

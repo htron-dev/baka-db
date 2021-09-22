@@ -1,5 +1,7 @@
 # Ultraman USA
 
+![ultraman-usa](https://cdn.myanimelist.net/images/anime/11/36055.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ウルトラマン USA

@@ -1,5 +1,7 @@
 # Uchuu Ace
 
+![uchuu-ace](https://cdn.myanimelist.net/images/anime/2/83908.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 宇宙エース

@@ -1,5 +1,7 @@
 # Usotsuki Engage
 
+![usotsuki-engage](https://cdn.myanimelist.net/images/manga/2/134203.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

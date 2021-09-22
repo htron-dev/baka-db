@@ -1,5 +1,7 @@
 # Umi no Kishidan
 
+![umi-no-kishidan](https://cdn.myanimelist.net/images/manga/2/192565.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 55

@@ -1,5 +1,7 @@
 # Unjou Roukaku Kidan
 
+![unjou-roukaku-kidan](https://cdn.myanimelist.net/images/manga/3/77817.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 雲上楼閣綺談

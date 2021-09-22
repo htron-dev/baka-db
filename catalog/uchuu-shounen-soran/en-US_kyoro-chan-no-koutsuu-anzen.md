@@ -1,5 +1,7 @@
 # Kyoro-chan no Koutsuu Anzen
 
+![kyoro-chan-no-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/12/84789.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: キョロちゃんの交通安全

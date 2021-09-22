@@ -1,5 +1,7 @@
 # Usagi no Omocha wo Dakishimero!
 
+![usagi-no-omocha-wo-dakishimero](https://cdn.myanimelist.net/images/manga/3/114287.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

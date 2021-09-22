@@ -1,5 +1,7 @@
 # Yamato yo Eien ni
 
+![yamato-yo-eien-ni](https://cdn.myanimelist.net/images/manga/2/61021.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ヤマトよ永遠に

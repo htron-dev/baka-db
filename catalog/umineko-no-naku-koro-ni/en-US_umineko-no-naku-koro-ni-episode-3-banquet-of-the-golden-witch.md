@@ -1,5 +1,7 @@
 # Umineko no Naku Koro ni - Episode 3: Banquet of the Golden Witch
 
+![umineko-no-naku-koro-ni-episode-3-banquet-of-the-golden-witch](https://cdn.myanimelist.net/images/manga/1/34749.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 22

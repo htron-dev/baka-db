@@ -1,5 +1,7 @@
 # Ushiro no Shoumen Darling
 
+![ushiro-no-shoumen-darling](https://cdn.myanimelist.net/images/manga/3/6031.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

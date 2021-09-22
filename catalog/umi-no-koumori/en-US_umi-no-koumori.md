@@ -1,5 +1,7 @@
 # Umi no Koumori
 
+![umi-no-koumori](https://cdn.myanimelist.net/images/anime/9/74521.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 海のコウモリ

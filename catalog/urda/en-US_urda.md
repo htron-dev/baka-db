@@ -1,5 +1,7 @@
 # Urda
 
+![urda](https://cdn.myanimelist.net/images/anime/4/33543.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: ウルダ

@@ -1,5 +1,7 @@
 # Under (xGround) Grand Hotel Kiss &amp; Kill
 
+![under-x-ground-grand-hotel-kiss-amp-kill](https://cdn.myanimelist.net/images/manga/1/88213.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

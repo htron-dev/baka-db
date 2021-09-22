@@ -1,5 +1,7 @@
 # Urusei Yatsura OVA
 
+![urusei-yatsura-ova](https://cdn.myanimelist.net/images/anime/1424/92240.jpg)
+
 -   **type**: ova
 -   **episodes**: 11
 -   **original-name**: うる星やつら

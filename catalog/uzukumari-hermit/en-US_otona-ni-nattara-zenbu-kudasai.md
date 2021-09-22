@@ -1,5 +1,7 @@
 # Otona ni Nattara Zenbu Kudasai
 
+![otona-ni-nattara-zenbu-kudasai](https://cdn.myanimelist.net/images/manga/2/225749.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

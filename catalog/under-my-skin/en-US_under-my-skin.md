@@ -1,5 +1,7 @@
 # Under My Skin
 
+![under-my-skin](https://cdn.myanimelist.net/images/manga/1/238114.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

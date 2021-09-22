@@ -1,5 +1,7 @@
 # U-chan no Kobako
 
+![u-chan-no-kobako](https://cdn.myanimelist.net/images/manga/1/170939.jpg)
+
 -   **type**: light-novel
 -   **original-name**: うーちゃんの小箱
 -   **start-date**: 2016-02-01

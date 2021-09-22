@@ -1,5 +1,7 @@
 # Usawaltz
 
+![usawaltz](https://cdn.myanimelist.net/images/anime/8/78346.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: USAWALTZ

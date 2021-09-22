@@ -1,5 +1,7 @@
 # Ushiwakamaru
 
+![ushiwakamaru](https://cdn.myanimelist.net/images/anime/1355/98644.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: うしわかまる

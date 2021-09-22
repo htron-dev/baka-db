@@ -1,5 +1,7 @@
 # Usagi no Ouji-sama.
 
+![usagi-no-ouji-sama](https://cdn.myanimelist.net/images/manga/1/143541.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

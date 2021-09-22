@@ -1,5 +1,7 @@
 # Utawarerumono: Tusukuru-koujo no Karei Naru Hibi
 
+![utawarerumono-tusukuru-koujo-no-karei-naru-hibi](https://cdn.myanimelist.net/images/anime/7/88928.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: うたわれるもの トゥスクル皇女の華麗なる日々

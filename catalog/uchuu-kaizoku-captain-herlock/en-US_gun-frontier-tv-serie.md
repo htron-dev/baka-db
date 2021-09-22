@@ -1,5 +1,7 @@
 # Gun Frontier
 
+![gun-frontier](https://cdn.myanimelist.net/images/anime/5/15442.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ガンフロンティア
