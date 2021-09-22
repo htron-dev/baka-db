@@ -1,5 +1,7 @@
 # Pingu in the City (2018)
 
+![pingu-in-the-city-2018](https://cdn.myanimelist.net/images/anime/1315/95173.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ピングー in ザ・シティ

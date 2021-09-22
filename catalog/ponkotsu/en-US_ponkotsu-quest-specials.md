@@ -1,5 +1,7 @@
 # Ponkotsu Quest Specials
 
+![ponkotsu-quest-specials](https://cdn.myanimelist.net/images/anime/7/84087.jpg)
+
 -   **type**: ona
 -   **original-name**: ポンコツクエスト 特別編
 -   **start-date**: 2014-03-13

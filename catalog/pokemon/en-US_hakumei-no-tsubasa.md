@@ -1,5 +1,7 @@
 # Hakumei no Tsubasa
 
+![hakumei-no-tsubasa](https://cdn.myanimelist.net/images/anime/1399/104762.jpg)
+
 -   **type**: ona
 -   **episodes**: 7
 -   **original-name**: 薄明の翼

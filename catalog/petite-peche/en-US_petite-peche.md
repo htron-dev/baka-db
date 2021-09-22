@@ -1,5 +1,7 @@
 # Petite Pêche!
 
+![petite-peche](https://cdn.myanimelist.net/images/manga/2/167313.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

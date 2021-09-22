@@ -1,5 +1,7 @@
 # Tatsunoko Pro x Peeping Life
 
+![tatsunoko-pro-x-peeping-life](https://cdn.myanimelist.net/images/anime/6/77238.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: タツノコプロ ×Peeping Life

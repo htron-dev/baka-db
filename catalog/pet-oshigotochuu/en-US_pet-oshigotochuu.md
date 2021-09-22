@@ -1,5 +1,7 @@
 # Pet Oshigotochuu
 
+![pet-oshigotochuu](https://cdn.myanimelist.net/images/manga/2/84717.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

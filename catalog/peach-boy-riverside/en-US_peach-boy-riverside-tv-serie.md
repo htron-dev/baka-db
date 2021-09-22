@@ -1,5 +1,7 @@
 # Peach Boy Riverside
 
+![peach-boy-riverside](https://cdn.myanimelist.net/images/anime/1535/115023.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ピーチボーイリバーサイド

@@ -1,5 +1,7 @@
 # Perfect World
 
+![perfect-world](https://cdn.myanimelist.net/images/manga/1/175525.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 59

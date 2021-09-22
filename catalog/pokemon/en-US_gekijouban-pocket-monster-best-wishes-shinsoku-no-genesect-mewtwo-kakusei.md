@@ -1,5 +1,7 @@
 # Gekijouban Pocket Monster Best Wishes: Shinsoku no Genesect - Mewtwo Kakusei
 
+![gekijouban-pocket-monster-best-wishes-shinsoku-no-genesect-mewtwo-kakusei](https://cdn.myanimelist.net/images/manga/3/115137.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 劇場版ポケットモンスターベストウイッシュ 神速のゲノセクト ミュウツー覚醒

@@ -1,5 +1,7 @@
 # Paprika
 
+![paprika](https://cdn.myanimelist.net/images/manga/2/149513.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: パプリカ

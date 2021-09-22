@@ -1,5 +1,7 @@
 # Paris no Isabelle
 
+![paris-no-isabelle](https://cdn.myanimelist.net/images/anime/7/64331.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 巴里のイザベル

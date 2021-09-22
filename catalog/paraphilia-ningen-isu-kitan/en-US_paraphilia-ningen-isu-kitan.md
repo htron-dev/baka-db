@@ -1,5 +1,7 @@
 # Paraphilia: Ningen Isu Kitan
 
+![paraphilia-ningen-isu-kitan](https://cdn.myanimelist.net/images/manga/2/190279.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

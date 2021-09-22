@@ -1,5 +1,7 @@
 # Pokemon the Movie XY&Z: Volcanion to Karakuri no Magiana
 
+![pokemon-the-movie-xy-z-volcanion-to-karakuri-no-magiana](https://cdn.myanimelist.net/images/manga/2/192451.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

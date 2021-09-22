@@ -1,5 +1,7 @@
 # Puraore! Pride of Orange
 
+![puraore-pride-of-orange](https://cdn.myanimelist.net/images/anime/1247/110693.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: プラオレ！～ PRIDE OF ORANGE ～
 -   **start-date**: 2021-10-20

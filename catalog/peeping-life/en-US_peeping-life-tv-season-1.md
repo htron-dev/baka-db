@@ -1,5 +1,7 @@
 # Peeping Life TV: Season 1??
 
+![peeping-life-tv-season-1](https://cdn.myanimelist.net/images/anime/9/76469.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: Peeping Life（ピーピングライフ）TV シーズン 1 ??

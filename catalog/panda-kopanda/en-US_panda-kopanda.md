@@ -1,5 +1,7 @@
 # Panda Kopanda
 
+![panda-kopanda](https://cdn.myanimelist.net/images/anime/1209/90479.jpg)
+
 -   **type**: movie
 -   **episodes**: 2
 -   **original-name**: パンダ・コパンダ

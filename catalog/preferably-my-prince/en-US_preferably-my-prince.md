@@ -1,5 +1,7 @@
 # Preferably My Prince
 
+![preferably-my-prince](https://cdn.myanimelist.net/images/manga/1/151108.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 이왕이면 다홍
 

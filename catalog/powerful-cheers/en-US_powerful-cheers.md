@@ -1,5 +1,7 @@
 # Powerful Cheers!!
 
+![powerful-cheers](https://cdn.myanimelist.net/images/manga/2/11646.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ぱわふるチアーズ！！

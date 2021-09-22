@@ -1,5 +1,7 @@
 # Psycome: Unplagued Omnibus
 
+![psycome-unplagued-omnibus](https://cdn.myanimelist.net/images/manga/2/158573.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

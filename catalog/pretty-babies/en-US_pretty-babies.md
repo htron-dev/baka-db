@@ -1,5 +1,7 @@
 # Pretty Babies
 
+![pretty-babies](https://cdn.myanimelist.net/images/manga/2/78775.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

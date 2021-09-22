@@ -1,5 +1,7 @@
 # Pops
 
+![pops](https://cdn.myanimelist.net/images/anime/13/12814.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: POPS

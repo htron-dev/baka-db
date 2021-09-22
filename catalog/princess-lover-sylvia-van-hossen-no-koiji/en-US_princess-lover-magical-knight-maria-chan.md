@@ -1,5 +1,7 @@
 # Princess Lover!: Magical Knight Maria-chan
 
+![princess-lover-magical-knight-maria-chan](https://cdn.myanimelist.net/images/anime/11/21291.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: プリンセスラバー! マジカル騎士マリアちゃん特別予告

@@ -1,5 +1,7 @@
 # Player wa Nemurenai
 
+![player-wa-nemurenai](https://cdn.myanimelist.net/images/manga/3/40837.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

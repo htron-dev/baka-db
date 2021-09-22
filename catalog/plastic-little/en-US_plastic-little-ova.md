@@ -1,5 +1,7 @@
 # Plastic Little
 
+![plastic-little](https://cdn.myanimelist.net/images/anime/10/2599.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: プラスチックリトル

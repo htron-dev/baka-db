@@ -1,5 +1,7 @@
 # Princess Hanaka
 
+![princess-hanaka](https://cdn.myanimelist.net/images/manga/2/36089.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

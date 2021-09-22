@@ -1,5 +1,7 @@
 # Platinum Garden
 
+![platinum-garden](https://cdn.myanimelist.net/images/manga/3/1539.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 68

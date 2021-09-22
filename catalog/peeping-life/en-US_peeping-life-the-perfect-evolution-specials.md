@@ -1,5 +1,7 @@
 # Peeping Life: The Perfect Evolution Specials
 
+![peeping-life-the-perfect-evolution-specials](https://cdn.myanimelist.net/images/anime/9/45823.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: Peeping Life（ピーピング・ライフ） -The Perfect Evolution-

@@ -1,5 +1,7 @@
 # Gekijouban Pocket Monsters: Kesshoutou no Teiou Entei
 
+![gekijouban-pocket-monsters-kesshoutou-no-teiou-entei](https://cdn.myanimelist.net/images/manga/2/112437.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 劇場版 ポケットモンスター 結晶塔の帝王 ENTEI

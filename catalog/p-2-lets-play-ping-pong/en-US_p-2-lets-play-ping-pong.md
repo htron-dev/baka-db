@@ -1,5 +1,7 @@
 # P2 - Let's Play Ping Pong!
 
+![p-2-lets-play-ping-pong](https://cdn.myanimelist.net/images/manga/3/178827.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 59

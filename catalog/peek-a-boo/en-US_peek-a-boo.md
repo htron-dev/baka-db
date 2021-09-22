@@ -1,5 +1,7 @@
 # Peek A Boo!!
 
+![peek-a-boo](https://cdn.myanimelist.net/images/manga/1/95805.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Prime Rose
 
+![prime-rose](https://cdn.myanimelist.net/images/manga/1/36211.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: プライム・ローズ

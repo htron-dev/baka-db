@@ -1,5 +1,7 @@
 # PriPri Chii-chan!!
 
+![pri-pri-chii-chan](https://cdn.myanimelist.net/images/anime/10/83963.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 36
 -   **original-name**: プリプリちぃちゃん!!

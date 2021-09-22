@@ -1,5 +1,7 @@
 # Pipin to Pinto★
 
+![pipin-to-pinto★](https://cdn.myanimelist.net/images/manga/3/181660.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

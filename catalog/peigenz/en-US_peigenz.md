@@ -1,5 +1,7 @@
 # Peigenz
 
+![peigenz](https://cdn.myanimelist.net/images/manga/2/14309.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 -   **original-name**: 페이건즈

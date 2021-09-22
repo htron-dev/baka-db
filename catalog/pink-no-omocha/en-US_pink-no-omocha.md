@@ -1,5 +1,7 @@
 # Pink no Omocha
 
+![pink-no-omocha](https://cdn.myanimelist.net/images/manga/2/119547.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Psycho-Pass: Kanshikan Kougami Shinya
 
+![psycho-pass-kanshikan-kougami-shinya](https://cdn.myanimelist.net/images/manga/1/140757.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 35

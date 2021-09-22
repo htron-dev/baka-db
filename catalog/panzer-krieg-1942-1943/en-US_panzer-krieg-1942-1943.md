@@ -1,5 +1,7 @@
 # Panzer Krieg: 1942-1943
 
+![panzer-krieg-1942-1943](https://cdn.myanimelist.net/images/manga/3/131879.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: パンツァークリーク―1942-1943

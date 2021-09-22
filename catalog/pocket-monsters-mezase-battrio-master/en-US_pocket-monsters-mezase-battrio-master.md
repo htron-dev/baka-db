@@ -1,5 +1,7 @@
 # Pocket Monsters: Mezase! Battrio Master
 
+![pocket-monsters-mezase-battrio-master](https://cdn.myanimelist.net/images/manga/2/204426.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

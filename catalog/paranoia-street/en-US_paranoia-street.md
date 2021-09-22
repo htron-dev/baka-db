@@ -1,5 +1,7 @@
 # Paranoia Street
 
+![paranoia-street](https://cdn.myanimelist.net/images/manga/1/32706.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

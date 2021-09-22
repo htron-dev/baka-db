@@ -1,5 +1,7 @@
 # Pokemon: Pikachu no Fuyuyasumi
 
+![pokemon-pikachu-no-fuyuyasumi](https://cdn.myanimelist.net/images/anime/1689/108233.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ポケットモンスター ピカチュウのふゆやすみ

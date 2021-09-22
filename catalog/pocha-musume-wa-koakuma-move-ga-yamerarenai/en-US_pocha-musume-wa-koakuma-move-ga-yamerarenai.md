@@ -1,5 +1,7 @@
 # Pocha Musume wa Koakuma Move ga Yamerarenai
 
+![pocha-musume-wa-koakuma-move-ga-yamerarenai](https://cdn.myanimelist.net/images/manga/1/239885.jpg)
+
 -   **type**: manga
 -   **original-name**: ぽちゃ娘は小悪魔ムーブがやめられない
 -   **start-date**: 2020-03-13

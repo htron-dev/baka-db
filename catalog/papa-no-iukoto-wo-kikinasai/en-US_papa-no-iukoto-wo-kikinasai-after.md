@@ -1,5 +1,7 @@
 # Papa no Iukoto wo Kikinasai! After
 
+![papa-no-iukoto-wo-kikinasai-after](https://cdn.myanimelist.net/images/manga/3/180696.jpg)
+
 -   **type**: light-novel
 -   **original-name**: パパのいうことを聞きなさい！after
 -   **start-date**: 2016-07-22

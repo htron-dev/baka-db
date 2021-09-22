@@ -1,5 +1,7 @@
 # Popo Can
 
+![popo-can](https://cdn.myanimelist.net/images/manga/3/11375.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ポポ缶

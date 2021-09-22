@@ -1,5 +1,7 @@
 # Petting a Dog
 
+![petting-a-dog](https://cdn.myanimelist.net/images/anime/4/71883.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: Petting a Dog

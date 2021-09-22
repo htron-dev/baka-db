@@ -1,5 +1,7 @@
 # Philia to Eros no Aida
 
+![philia-to-eros-no-aida](https://cdn.myanimelist.net/images/manga/3/240492.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

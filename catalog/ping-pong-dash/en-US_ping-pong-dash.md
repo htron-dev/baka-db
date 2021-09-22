@@ -1,5 +1,7 @@
 # Ping Pong Dash!!
 
+![ping-pong-dash](https://cdn.myanimelist.net/images/manga/3/207550.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 63

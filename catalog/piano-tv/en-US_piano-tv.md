@@ -1,5 +1,7 @@
 # Piano (TV)
 
+![piano-tv](https://cdn.myanimelist.net/images/anime/2/12834.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: PIANO

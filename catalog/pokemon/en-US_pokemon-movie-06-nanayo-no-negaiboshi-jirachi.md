@@ -1,5 +1,7 @@
 # Pokemon Movie 06: Nanayo no Negaiboshi Jirachi
 
+![pokemon-movie-06-nanayo-no-negaiboshi-jirachi](https://cdn.myanimelist.net/images/anime/13/75733.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ポケットモンスター・アドバンスジェネレーション 七夜の願い星 ジラーチ

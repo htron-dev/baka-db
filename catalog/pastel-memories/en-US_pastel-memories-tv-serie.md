@@ -1,5 +1,7 @@
 # Pastel Memories
 
+![pastel-memories](https://cdn.myanimelist.net/images/anime/1563/95294.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ぱすてるメモリーズ

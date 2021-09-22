@@ -1,5 +1,7 @@
 # Prism Ark
 
+![prism-ark](https://cdn.myanimelist.net/images/manga/2/3767.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: プリズムアーク

@@ -1,5 +1,7 @@
 # Papa no Iukoto wo Kikinasai! OVA
 
+![papa-no-iukoto-wo-kikinasai-ova](https://cdn.myanimelist.net/images/anime/6/47627.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: パパのいうことを聞きなさい！OVA

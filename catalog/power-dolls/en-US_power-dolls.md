@@ -1,5 +1,7 @@
 # Power Dolls
 
+![power-dolls](https://cdn.myanimelist.net/images/anime/1283/94567.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: パワードール

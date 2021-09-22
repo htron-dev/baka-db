@@ -1,5 +1,7 @@
 # Pokemon Movie 05: Mizu no Miyako no Mamorigami Latias to Latios
 
+![pokemon-movie-05-mizu-no-miyako-no-mamorigami-latias-to-latios](https://cdn.myanimelist.net/images/anime/2/21317.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ポケットモンスター 水の都の護神 ラティアスとラティオス

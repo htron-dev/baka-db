@@ -1,5 +1,7 @@
 # Pyuu to Fuku! Jaguar
 
+![pyuu-to-fuku-jaguar](https://cdn.myanimelist.net/images/anime/13/47763.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ピューと吹く！ジャガー

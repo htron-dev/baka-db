@@ -1,5 +1,7 @@
 # Pocari Sweat x Fuji Rock Festival ’17
 
+![pocari-sweat-x-fuji-rock-festival-17](https://cdn.myanimelist.net/images/anime/1540/100486.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ポカリスエット × FUJI ROCK FESTIVAL’17

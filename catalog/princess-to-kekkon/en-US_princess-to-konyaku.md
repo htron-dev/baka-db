@@ -1,5 +1,7 @@
 # Princess to Konyaku
 
+![princess-to-konyaku](https://cdn.myanimelist.net/images/manga/4/46973.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

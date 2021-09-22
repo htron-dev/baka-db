@@ -1,5 +1,7 @@
 # Planet:Valkyrie
 
+![planet-valkyrie](https://cdn.myanimelist.net/images/anime/13/57001.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ［プラネットワルキューレ］

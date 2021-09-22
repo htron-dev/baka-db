@@ -1,5 +1,7 @@
 # Perman (1983)
 
+![perman-1983](https://cdn.myanimelist.net/images/anime/2/32333.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 526
 -   **original-name**: パーマン (1983)

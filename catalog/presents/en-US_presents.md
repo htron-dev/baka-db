@@ -1,5 +1,7 @@
 # Presents
 
+![presents](https://cdn.myanimelist.net/images/manga/2/199114.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 30

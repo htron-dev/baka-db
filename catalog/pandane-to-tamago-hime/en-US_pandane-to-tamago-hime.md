@@ -1,5 +1,7 @@
 # Pandane to Tamago-hime
 
+![pandane-to-tamago-hime](https://cdn.myanimelist.net/images/anime/12/27157.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: パン種とタマゴ姫

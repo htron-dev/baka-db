@@ -1,5 +1,7 @@
 # Shin Petshop of Horrors
 
+![shin-petshop-of-horrors](https://cdn.myanimelist.net/images/manga/2/117839.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 45

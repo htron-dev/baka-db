@@ -1,5 +1,7 @@
 # Peach Girl
 
+![peach-girl](https://cdn.myanimelist.net/images/manga/1/181872.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 72

@@ -1,5 +1,7 @@
 # Psychic Hero
 
+![psychic-hero](https://cdn.myanimelist.net/images/anime/1806/115551.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 싸이킥 히어로

@@ -1,5 +1,7 @@
 # Porong Porong Pororo 3
 
+![porong-porong-pororo-3](https://cdn.myanimelist.net/images/anime/8/66621.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 뽀롱뽀롱 뽀로로 3

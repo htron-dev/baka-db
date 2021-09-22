@@ -1,5 +1,7 @@
 # Pat-ken
 
+![pat-ken](https://cdn.myanimelist.net/images/manga/1/10352.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Pink Gold
 
+![pink-gold](https://cdn.myanimelist.net/images/manga/1/107843.jpg)
+
 -   **type**: manga
 -   **original-name**: PINK GOLD ピンクゴールド
 -   **start-date**: 2012-08-28

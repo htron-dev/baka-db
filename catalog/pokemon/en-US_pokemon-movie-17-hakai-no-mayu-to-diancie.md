@@ -1,5 +1,7 @@
 # Pokemon Movie 17: Hakai no Mayu to Diancie
 
+![pokemon-movie-17-hakai-no-mayu-to-diancie](https://cdn.myanimelist.net/images/anime/13/59743.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ポケモン・ザ・ムービー XY『破壊の繭とディアンシー』

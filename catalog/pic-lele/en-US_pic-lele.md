@@ -1,5 +1,7 @@
 # Pic-lele
 
+![pic-lele](https://cdn.myanimelist.net/images/anime/10/57695.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ピクレレ

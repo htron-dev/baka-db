@@ -1,5 +1,7 @@
 # Photokano: Happy Album
 
+![photokano-happy-album](https://cdn.myanimelist.net/images/manga/2/117607.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

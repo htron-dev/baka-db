@@ -1,5 +1,7 @@
 # Penguin no Mondai DX?
 
+![penguin-no-mondai-dx](https://cdn.myanimelist.net/images/anime/13/29984.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: ペンギンの問題 DX?

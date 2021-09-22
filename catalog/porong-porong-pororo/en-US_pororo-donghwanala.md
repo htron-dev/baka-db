@@ -1,5 +1,7 @@
 # Pororo Donghwanala
 
+![pororo-donghwanala](https://cdn.myanimelist.net/images/anime/1465/114524.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 뽀로로 동화나라
 -   **start-date**: 2020-08-24

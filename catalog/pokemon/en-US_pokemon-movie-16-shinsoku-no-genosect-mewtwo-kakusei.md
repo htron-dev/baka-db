@@ -1,5 +1,7 @@
 # Pokemon Movie 16: Shinsoku no Genosect - Mewtwo Kakusei
 
+![pokemon-movie-16-shinsoku-no-genosect-mewtwo-kakusei](https://cdn.myanimelist.net/images/anime/9/47615.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 ポケットモンスター ベストウイッシュ 神速のゲノセクト ミュウツー覚醒

@@ -1,5 +1,7 @@
 # Kanshikan Tsunemori Akane
 
+![kanshikan-tsunemori-akane](https://cdn.myanimelist.net/images/manga/1/144917.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 27

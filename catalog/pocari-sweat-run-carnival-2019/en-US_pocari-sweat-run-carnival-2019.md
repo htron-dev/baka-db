@@ -1,5 +1,7 @@
 # Pocari Sweat Run Carnival 2019
 
+![pocari-sweat-run-carnival-2019](https://cdn.myanimelist.net/images/anime/1765/109734.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Pocari Sweat Run Carnival 2019

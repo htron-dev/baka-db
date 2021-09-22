@@ -1,5 +1,7 @@
 # Penguin no Mondai POW
 
+![penguin-no-mondai-pow](https://cdn.myanimelist.net/images/anime/1575/101999.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: ペンギンの問題 POW

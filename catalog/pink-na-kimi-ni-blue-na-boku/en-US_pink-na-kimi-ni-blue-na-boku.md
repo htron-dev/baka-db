@@ -1,5 +1,7 @@
 # Pink na Kimi ni Blue na Boku
 
+![pink-na-kimi-ni-blue-na-boku](https://cdn.myanimelist.net/images/manga/3/38424.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: ピンクなきみにブルーなぼく

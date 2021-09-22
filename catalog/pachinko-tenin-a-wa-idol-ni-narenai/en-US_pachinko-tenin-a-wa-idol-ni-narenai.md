@@ -1,5 +1,7 @@
 # Pachinko Tenin A wa Idol ni Narenai
 
+![pachinko-tenin-a-wa-idol-ni-narenai](https://cdn.myanimelist.net/images/manga/2/223805.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

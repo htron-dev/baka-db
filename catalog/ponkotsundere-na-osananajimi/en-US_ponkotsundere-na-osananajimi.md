@@ -1,5 +1,7 @@
 # Ponkotsundere na Osananajimi
 
+![ponkotsundere-na-osananajimi](https://cdn.myanimelist.net/images/manga/2/222004.jpg)
+
 -   **type**: manga
 -   **original-name**: ポンコツンデレな幼馴染
 -   **start-date**: 2016-03-05

@@ -1,5 +1,7 @@
 # Princess ni Propose
 
+![princess-ni-propose](https://cdn.myanimelist.net/images/manga/3/46519.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

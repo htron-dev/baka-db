@@ -1,5 +1,7 @@
 # Pretty in Blue
 
+![pretty-in-blue](https://cdn.myanimelist.net/images/manga/1/4555.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

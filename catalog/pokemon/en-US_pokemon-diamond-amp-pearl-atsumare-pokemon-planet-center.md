@@ -1,5 +1,7 @@
 # Pokemon Diamond &amp; Pearl Atsumare! Pokemon Planet Center
 
+![pokemon-diamond-amp-pearl-atsumare-pokemon-planet-center](https://cdn.myanimelist.net/images/anime/1492/108084.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ポケットモンスターダイヤモンドパール・あつまれ！ポケモンプラネットセンター

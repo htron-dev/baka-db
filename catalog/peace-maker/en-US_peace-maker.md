@@ -1,5 +1,7 @@
 # Peace Maker
 
+![peace-maker](https://cdn.myanimelist.net/images/manga/2/176064.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 109

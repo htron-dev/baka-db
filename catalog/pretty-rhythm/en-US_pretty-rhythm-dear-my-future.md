@@ -1,5 +1,7 @@
 # Pretty Rhythm: Dear My Future
 
+![pretty-rhythm-dear-my-future](https://cdn.myanimelist.net/images/anime/8/36633.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: プリティーリズム ディアマイフューチャー

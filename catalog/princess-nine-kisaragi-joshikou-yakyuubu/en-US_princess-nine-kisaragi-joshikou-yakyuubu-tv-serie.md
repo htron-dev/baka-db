@@ -1,5 +1,7 @@
 # Princess Nine: Kisaragi Joshikou Yakyuubu
 
+![princess-nine-kisaragi-joshikou-yakyuubu](https://cdn.myanimelist.net/images/anime/5/64743.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: プリンセスナイン 如月女子高野球部

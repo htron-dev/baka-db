@@ -1,5 +1,7 @@
 # Poyopoyo Kansatsu Nikki
 
+![poyopoyo-kansatsu-nikki](https://cdn.myanimelist.net/images/anime/11/35455.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: ポヨポヨ観察日記

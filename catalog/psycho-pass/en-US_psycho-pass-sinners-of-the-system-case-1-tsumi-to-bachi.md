@@ -1,5 +1,7 @@
 # Psycho-Pass: Sinners of the System Case.1 - Tsumi to Bachi
 
+![psycho-pass-sinners-of-the-system-case-1-tsumi-to-bachi](https://cdn.myanimelist.net/images/manga/3/229153.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

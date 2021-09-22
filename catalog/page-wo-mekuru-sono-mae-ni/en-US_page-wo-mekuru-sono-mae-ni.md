@@ -1,5 +1,7 @@
 # Page wo Mekuru Sono Mae ni
 
+![page-wo-mekuru-sono-mae-ni](https://cdn.myanimelist.net/images/manga/1/248193.jpg)
+
 -   **type**: manga
 -   **original-name**: ページをめくるその前に
 -   **start-date**: 2019-12-21

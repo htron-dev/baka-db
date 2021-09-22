@@ -1,5 +1,7 @@
 # Pendulum: Juujin Omegaverse
 
+![pendulum-juujin-omegaverse](https://cdn.myanimelist.net/images/manga/2/196398.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

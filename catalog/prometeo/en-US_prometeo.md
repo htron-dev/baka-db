@@ -1,5 +1,7 @@
 # Prometeo
 
+![prometeo](https://cdn.myanimelist.net/images/manga/2/171980.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

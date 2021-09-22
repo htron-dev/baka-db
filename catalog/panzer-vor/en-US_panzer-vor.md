@@ -1,5 +1,7 @@
 # Panzer vor!
 
+![panzer-vor](https://cdn.myanimelist.net/images/manga/2/132737.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: パンツァーフォー！

@@ -1,5 +1,7 @@
 # Pink Lady Monogatari: Eikou no Tenshi-tachi
 
+![pink-lady-monogatari-eikou-no-tenshi-tachi](https://cdn.myanimelist.net/images/anime/6/46585.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 33
 -   **original-name**: ピンク・レディー物語 栄光の天使たち

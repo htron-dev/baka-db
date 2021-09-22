@@ -1,5 +1,7 @@
 # Plastic Neesan
 
+![plastic-neesan](https://cdn.myanimelist.net/images/anime/13/76583.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: ＋チック姉さん

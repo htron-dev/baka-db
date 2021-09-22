@@ -1,5 +1,7 @@
 # Plus-Minus Gohan
 
+![plus-minus-gohan](https://cdn.myanimelist.net/images/manga/3/202373.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

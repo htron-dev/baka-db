@@ -1,5 +1,7 @@
 # Pumpkin Scissors
 
+![pumpkin-scissors](https://cdn.myanimelist.net/images/manga/3/55387.jpg)
+
 -   **type**: manga
 -   **original-name**: パンプキン シザーズ
 

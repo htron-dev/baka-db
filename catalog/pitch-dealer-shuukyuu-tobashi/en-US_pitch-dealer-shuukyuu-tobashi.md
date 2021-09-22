@@ -1,5 +1,7 @@
 # Pitch Dealer: Shuukyuu Tobashi
 
+![pitch-dealer-shuukyuu-tobashi](https://cdn.myanimelist.net/images/manga/1/202680.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

@@ -1,5 +1,7 @@
 # Ani ni Tsukeru Kusuri wa Nai! 3
 
+![ani-ni-tsukeru-kusuri-wa-nai-3](https://cdn.myanimelist.net/images/anime/1756/103441.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 兄に付ける薬はない！3

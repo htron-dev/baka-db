@@ -1,5 +1,7 @@
 # Project BLUE Chikyuu SOS
 
+![project-blue-chikyuu-sos](https://cdn.myanimelist.net/images/anime/2/34565.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 6
 -   **original-name**: Project BLUE 地球 SOS

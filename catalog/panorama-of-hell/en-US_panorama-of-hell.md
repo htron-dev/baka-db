@@ -1,5 +1,7 @@
 # Panorama of Hell
 
+![panorama-of-hell](https://cdn.myanimelist.net/images/manga/3/38441.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

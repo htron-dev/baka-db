@@ -1,5 +1,7 @@
 # Pilgrim Maiden
 
+![pilgrim-maiden](https://cdn.myanimelist.net/images/manga/3/135157.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 20

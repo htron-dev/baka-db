@@ -1,5 +1,7 @@
 # Kunimitsu no Matsuri
 
+![kunimitsu-no-matsuri](https://cdn.myanimelist.net/images/manga/2/191867.jpg)
+
 -   **type**: manga
 -   **volumes**: 27
 -   **chapters**: 221

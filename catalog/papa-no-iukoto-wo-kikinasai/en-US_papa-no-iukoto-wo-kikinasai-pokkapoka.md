@@ -1,5 +1,7 @@
 # Papa no Iukoto wo Kikinasai!: Pokkapoka
 
+![papa-no-iukoto-wo-kikinasai-pokkapoka](https://cdn.myanimelist.net/images/anime/12/78213.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: パパのいうことを聞きなさい！ぽっかぽか

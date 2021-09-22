@@ -1,5 +1,7 @@
 # Psycho-Pass: Sinners of the System Case.1 - Tsumi to Batsu
 
+![psycho-pass-sinners-of-the-system-case-1-tsumi-to-batsu](https://cdn.myanimelist.net/images/anime/1623/96878.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: PSYCHO-PASS サイコパス|SS(Sinners of the System) Case.1「罪と罰」

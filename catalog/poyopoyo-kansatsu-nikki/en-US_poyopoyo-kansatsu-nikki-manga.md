@@ -1,5 +1,7 @@
 # Poyopoyo Kansatsu Nikki
 
+![poyopoyo-kansatsu-nikki](https://cdn.myanimelist.net/images/manga/3/173316.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **original-name**: ポヨポヨ観察日記

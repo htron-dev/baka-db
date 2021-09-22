@@ -1,5 +1,7 @@
 # Papa Told Me
 
+![papa-told-me](https://cdn.myanimelist.net/images/manga/3/23448.jpg)
+
 -   **type**: manga
 -   **volumes**: 27
 -   **chapters**: 149

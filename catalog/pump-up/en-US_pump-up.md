@@ -1,5 +1,7 @@
 # Pump Up
 
+![pump-up](https://cdn.myanimelist.net/images/manga/2/3525.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

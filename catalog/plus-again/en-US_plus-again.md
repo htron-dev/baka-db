@@ -1,5 +1,7 @@
 # Plus Again
 
+![plus-again](https://cdn.myanimelist.net/images/manga/2/154494.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 -   **original-name**: PLUS AGAIN

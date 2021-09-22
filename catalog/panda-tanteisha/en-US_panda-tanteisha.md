@@ -1,5 +1,7 @@
 # Panda Tanteisha
 
+![panda-tanteisha](https://cdn.myanimelist.net/images/manga/3/224920.jpg)
+
 -   **type**: manga
 -   **original-name**: パンダ探偵社
 -   **start-date**: 2018-01-10

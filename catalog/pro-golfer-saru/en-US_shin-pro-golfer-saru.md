@@ -1,5 +1,7 @@
 # Shin Pro Golfer Saru
 
+![shin-pro-golfer-saru](https://cdn.myanimelist.net/images/anime/5/46521.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: 新プロゴルファー猿

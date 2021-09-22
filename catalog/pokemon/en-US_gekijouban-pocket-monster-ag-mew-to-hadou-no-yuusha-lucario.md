@@ -1,5 +1,7 @@
 # Gekijouban Pocket Monster AG: Mew to Hadou no Yuusha Lucario
 
+![gekijouban-pocket-monster-ag-mew-to-hadou-no-yuusha-lucario](https://cdn.myanimelist.net/images/manga/2/17192.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

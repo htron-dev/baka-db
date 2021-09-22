@@ -1,5 +1,7 @@
 # Ani ni Tsukeru Kusuri wa Nai! 4
 
+![ani-ni-tsukeru-kusuri-wa-nai-4](https://cdn.myanimelist.net/images/anime/1016/109604.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 兄に付ける薬はない！4

@@ -1,5 +1,7 @@
 # Pink to Gray
 
+![pink-to-gray](https://cdn.myanimelist.net/images/manga/2/90001.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

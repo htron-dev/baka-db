@@ -1,5 +1,7 @@
 # Pucca 3
 
+![pucca-3](https://cdn.myanimelist.net/images/anime/1289/114526.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 뿌까(2018년)

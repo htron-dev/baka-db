@@ -1,5 +1,7 @@
 # Pakkororin
 
+![pakkororin](https://cdn.myanimelist.net/images/anime/1134/93318.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: パッコロリン
 -   **start-date**: 2011-03-28

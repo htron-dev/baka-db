@@ -1,5 +1,7 @@
 # Paprika: The Dream-Child
 
+![paprika-the-dream-child](https://cdn.myanimelist.net/images/manga/1/149515.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

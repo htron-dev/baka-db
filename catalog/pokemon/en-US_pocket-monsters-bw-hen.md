@@ -1,5 +1,7 @@
 # Pocket Monsters BW-hen
 
+![pocket-monsters-bw-hen](https://cdn.myanimelist.net/images/manga/1/142905.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 47

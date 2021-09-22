@@ -1,5 +1,7 @@
 # Personalized Princess
 
+![personalized-princess](https://cdn.myanimelist.net/images/manga/1/25285.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 -   **original-name**: 나만의 공주님

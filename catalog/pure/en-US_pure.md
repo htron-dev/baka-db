@@ -1,5 +1,7 @@
 # Pure
 
+![pure](https://cdn.myanimelist.net/images/manga/5/107319.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 18

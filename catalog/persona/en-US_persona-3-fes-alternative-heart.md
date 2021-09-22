@@ -1,5 +1,7 @@
 # Persona 3 FES: Alternative Heart
 
+![persona-3-fes-alternative-heart](https://cdn.myanimelist.net/images/manga/3/127029.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ペルソナ 3 フェス〜Alternative Heart〜

@@ -1,5 +1,7 @@
 # Pocket Monsters BW: Good Partners
 
+![pocket-monsters-bw-good-partners](https://cdn.myanimelist.net/images/manga/2/231741.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

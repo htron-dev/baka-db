@@ -1,5 +1,7 @@
 # Ponkotsu Musume no Nichijou
 
+![ponkotsu-musume-no-nichijou](https://cdn.myanimelist.net/images/manga/1/217067.jpg)
+
 -   **type**: manga
 -   **original-name**: ぽんこつ娘の日常
 -   **start-date**: 2018-02-22

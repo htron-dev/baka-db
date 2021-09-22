@@ -1,5 +1,7 @@
 # Prayers
 
+![prayers](https://cdn.myanimelist.net/images/anime/6/2894.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: プレイヤーズ

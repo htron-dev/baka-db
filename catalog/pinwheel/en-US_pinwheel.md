@@ -1,5 +1,7 @@
 # Pinwheel
 
+![pinwheel](https://cdn.myanimelist.net/images/manga/1/18222.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 9
 -   **original-name**: 바람개비

@@ -1,5 +1,7 @@
 # Panicuru!?: Panic Shougai, "Aseranai!" ga Kiku Kusuri.
 
+![panicuru-panic-shougai-aseranai-ga-kiku-kusuri](https://cdn.myanimelist.net/images/manga/3/247444.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Pasta no Oukoku
 
+![pasta-no-oukoku](https://cdn.myanimelist.net/images/manga/3/166929.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

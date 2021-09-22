@@ -1,5 +1,7 @@
 # Pokemon Movie 13: Genei no Hasha Zoroark
 
+![pokemon-movie-13-genei-no-hasha-zoroark](https://cdn.myanimelist.net/images/anime/5/26915.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ポケットモンスター ダイヤモンド&パール 幻影の覇者 ゾロアーク

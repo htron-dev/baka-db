@@ -1,5 +1,7 @@
 # Picaro
 
+![picaro](https://cdn.myanimelist.net/images/manga/2/184583.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 34

@@ -1,5 +1,7 @@
 # Pokemon: Pikachu no Natsuyasumi
 
+![pokemon-pikachu-no-natsuyasumi](https://cdn.myanimelist.net/images/anime/10/26367.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ピカチュウのなつやすみ

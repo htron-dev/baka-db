@@ -1,5 +1,7 @@
 # Bobunemimimmi Specials
 
+![bobunemimimmi-specials](https://cdn.myanimelist.net/images/anime/1608/110282.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ボブネミミッミ

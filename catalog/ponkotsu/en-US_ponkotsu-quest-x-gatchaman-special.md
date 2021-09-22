@@ -1,5 +1,7 @@
 # Ponkotsu Quest x Gatchaman Special
 
+![ponkotsu-quest-x-gatchaman-special](https://cdn.myanimelist.net/images/anime/7/84086.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ポンコツクエスト × ガッチャマン 特別編

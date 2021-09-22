@@ -1,5 +1,7 @@
 # Penguin Musume♥Heart Special
 
+![penguin-musume♥-heart-special](https://cdn.myanimelist.net/images/anime/13/30423.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ペンギン娘 ♥ はぁと

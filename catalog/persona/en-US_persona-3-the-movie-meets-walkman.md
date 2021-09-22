@@ -1,5 +1,7 @@
 # Persona 3 the Movie Meets “Walkman”
 
+![persona-3-the-movie-meets-walkman](https://cdn.myanimelist.net/images/anime/8/78544.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: PERSONA3 THE MOVIE meets “Walkman”

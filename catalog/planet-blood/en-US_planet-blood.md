@@ -1,5 +1,7 @@
 # Planet Blood
 
+![planet-blood](https://cdn.myanimelist.net/images/manga/2/676.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 

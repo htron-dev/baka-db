@@ -1,5 +1,7 @@
 # Punky!
 
+![punky](https://cdn.myanimelist.net/images/manga/2/13509.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ＰＵＮＫＹ！

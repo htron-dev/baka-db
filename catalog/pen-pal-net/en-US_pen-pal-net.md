@@ -1,5 +1,7 @@
 # PenPal.net
 
+![pen-pal-net](https://cdn.myanimelist.net/images/manga/2/38003.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **original-name**: 펜벗.net

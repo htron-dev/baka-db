@@ -1,5 +1,7 @@
 # Puchi Puchi Tantan Puchi Tantan
 
+![puchi-puchi-tantan-puchi-tantan](https://cdn.myanimelist.net/images/manga/3/181010.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 52

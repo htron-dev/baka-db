@@ -1,5 +1,7 @@
 # Peeping Life × Jidousha Tenken Seibi Suishin Undou
 
+![peeping-life-jidousha-tenken-seibi-suishin-undou](https://cdn.myanimelist.net/images/anime/1362/115584.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: Peeping Life× 自動車点検整備推進運動

@@ -1,5 +1,7 @@
 # Persona 4: Kiri no Amnesia
 
+![persona-4-kiri-no-amnesia](https://cdn.myanimelist.net/images/manga/1/127033.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ペルソナ 4 キリノアムネジア

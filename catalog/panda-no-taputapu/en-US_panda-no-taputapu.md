@@ -1,5 +1,7 @@
 # Panda no Taputapu
 
+![panda-no-taputapu](https://cdn.myanimelist.net/images/anime/1747/90564.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 431
 -   **original-name**: パンダのたぷたぷ

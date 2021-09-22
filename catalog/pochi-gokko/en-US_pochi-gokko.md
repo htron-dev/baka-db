@@ -1,5 +1,7 @@
 # Pochi-Gokko.
 
+![pochi-gokko](https://cdn.myanimelist.net/images/manga/3/226888.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

@@ -1,5 +1,7 @@
 # Popee the Performer: Countdown Special
 
+![popee-the-performer-countdown-special](https://cdn.myanimelist.net/images/anime/1721/110244.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: POPEE the ぱフォーマー カウントダウンスペシャル

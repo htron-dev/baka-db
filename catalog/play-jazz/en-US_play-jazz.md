@@ -1,5 +1,7 @@
 # Play Jazz
 
+![play-jazz](https://cdn.myanimelist.net/images/anime/11/72724.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: プレイ･ジャズ

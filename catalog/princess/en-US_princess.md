@@ -1,5 +1,7 @@
 # Princess
 
+![princess](https://cdn.myanimelist.net/images/manga/3/247742.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

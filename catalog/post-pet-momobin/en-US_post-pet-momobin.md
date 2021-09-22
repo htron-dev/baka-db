@@ -1,5 +1,7 @@
 # PostPet Momobin
 
+![post-pet-momobin](https://cdn.myanimelist.net/images/anime/1003/112173.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ポストペットモモ便

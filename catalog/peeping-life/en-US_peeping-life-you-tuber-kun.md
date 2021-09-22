@@ -1,5 +1,7 @@
 # Peeping Life: YouTuber-kun
 
+![peeping-life-you-tuber-kun](https://cdn.myanimelist.net/images/anime/2/55315.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: Peeping Life ユーチューバ―くん

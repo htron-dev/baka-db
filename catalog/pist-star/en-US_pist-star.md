@@ -1,5 +1,7 @@
 # PistStar
 
+![pist-star](https://cdn.myanimelist.net/images/anime/8/37547.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ぴすとっ ☆

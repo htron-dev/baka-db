@@ -1,5 +1,7 @@
 # Punch!
 
+![punch](https://cdn.myanimelist.net/images/manga/3/154484.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

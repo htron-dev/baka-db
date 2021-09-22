@@ -1,5 +1,7 @@
 # Meiou Project Zeorymer
 
+![meiou-project-zeorymer](https://cdn.myanimelist.net/images/anime/1068/112547.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 冥王計画ゼオライマー

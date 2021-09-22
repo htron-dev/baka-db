@@ -1,5 +1,7 @@
 # Phantom of Kill: Danzai no Kuro
 
+![phantom-of-kill-danzai-no-kuro](https://cdn.myanimelist.net/images/manga/3/180931.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

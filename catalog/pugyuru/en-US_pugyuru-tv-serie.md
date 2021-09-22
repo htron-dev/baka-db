@@ -1,5 +1,7 @@
 # Pugyuru
 
+![pugyuru](https://cdn.myanimelist.net/images/anime/10/4405.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ぷぎゅる

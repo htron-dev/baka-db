@@ -1,5 +1,7 @@
 # Poe no Ichizoku
 
+![poe-no-ichizoku](https://cdn.myanimelist.net/images/manga/1/175782.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Police Station: Rashoumon
 
+![police-station-rashoumon](https://cdn.myanimelist.net/images/manga/1/159861.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 80

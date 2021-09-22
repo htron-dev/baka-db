@@ -1,5 +1,7 @@
 # Prince no Shukumei
 
+![prince-no-shukumei](https://cdn.myanimelist.net/images/manga/2/84405.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

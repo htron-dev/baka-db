@@ -1,5 +1,7 @@
 # Pokemon Movie 10: Dialga vs. Palkia vs. Darkrai
 
+![pokemon-movie-10-dialga-vs-palkia-vs-darkrai](https://cdn.myanimelist.net/images/anime/1119/94419.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ポケットモンスター ダイヤモンド＆パール ディアルガ VS パルキア VS ダークライ

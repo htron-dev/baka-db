@@ -1,5 +1,7 @@
 # Pittarazu Gekijou Manner CM
 
+![pittarazu-gekijou-manner-cm](https://cdn.myanimelist.net/images/anime/1368/108657.jpg)
+
 -   **type**: special
 -   **episodes**: 9
 -   **original-name**: 【ぴったらず】 劇場マナー CM

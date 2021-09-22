@@ -1,5 +1,7 @@
 # Patalliro! Stardust Keikaku
 
+![patalliro-stardust-keikaku](https://cdn.myanimelist.net/images/anime/11/35537.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: パタリロ！スターダスト計画

@@ -1,5 +1,7 @@
 # Form of Stress
 
+![form-of-stress](https://cdn.myanimelist.net/images/anime/9/70641.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: フォーム・オブ・ストレス

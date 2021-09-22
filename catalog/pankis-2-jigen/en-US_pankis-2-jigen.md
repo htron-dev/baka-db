@@ -1,5 +1,7 @@
 # Pankis! 2-jigen
 
+![pankis-2-jigen](https://cdn.myanimelist.net/images/anime/11/74251.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ぱんきす! 2 次元

@@ -1,5 +1,7 @@
 # Pentacle
 
+![pentacle](https://cdn.myanimelist.net/images/manga/1/102033.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 -   **original-name**: 펜타클

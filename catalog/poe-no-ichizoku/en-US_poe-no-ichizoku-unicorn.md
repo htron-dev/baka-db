@@ -1,5 +1,7 @@
 # Poe no Ichizoku: Unicorn
 
+![poe-no-ichizoku-unicorn](https://cdn.myanimelist.net/images/manga/2/226212.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Paradise Pirates
 
+![paradise-pirates](https://cdn.myanimelist.net/images/manga/2/71207.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 22

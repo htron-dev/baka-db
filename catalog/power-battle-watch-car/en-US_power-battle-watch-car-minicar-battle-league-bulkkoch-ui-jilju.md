@@ -1,5 +1,7 @@
 # Power Battle Watch Car: Minicar Battle League - Bulkkoch-ui Jilju
 
+![power-battle-watch-car-minicar-battle-league-bulkkoch-ui-jilju](https://cdn.myanimelist.net/images/anime/1095/95957.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 파워배틀 와치카 미니카 배틀리그: 불꽃의 질주

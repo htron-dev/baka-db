@@ -1,5 +1,7 @@
 # Psycho-Pass
 
+![psycho-pass](https://cdn.myanimelist.net/images/manga/3/118865.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: PSYCHO-PASS サイコパス

@@ -1,5 +1,7 @@
 # TV-ban Pokemon Special Masara Town-hen Recaps
 
+![tv-ban-pokemon-special-masara-town-hen-recaps](https://cdn.myanimelist.net/images/anime/12/76468.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: TV 版 ポケットモンスター スペシャル マサラタウン編 総集編

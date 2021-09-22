@@ -1,5 +1,7 @@
 # Pokemon: Pikachu no Fuyuyasumi (2000)
 
+![pokemon-pikachu-no-fuyuyasumi-2000](https://cdn.myanimelist.net/images/anime/1910/108234.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ピカチュウのふゆやすみ 2000

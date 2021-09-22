@@ -1,5 +1,7 @@
 # Pinup Boy
 
+![pinup-boy](https://cdn.myanimelist.net/images/manga/1/181706.jpg)
+
 -   **type**: manga
 -   **original-name**: ピンナップボーイ
 -   **start-date**: 2016-06-24

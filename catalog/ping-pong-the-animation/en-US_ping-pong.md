@@ -1,5 +1,7 @@
 # Ping Pong
 
+![ping-pong](https://cdn.myanimelist.net/images/manga/2/151416.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 55

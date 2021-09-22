@@ -1,5 +1,7 @@
 # Pretty Scoop
 
+![pretty-scoop](https://cdn.myanimelist.net/images/manga/2/2439.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

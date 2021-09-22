@@ -1,5 +1,7 @@
 # Pororo Geugjangpan Super Sseolmae Daemoheom
 
+![pororo-geugjangpan-super-sseolmae-daemoheom](https://cdn.myanimelist.net/images/anime/8/66629.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 뽀로로 극장판 슈퍼썰매 대모험

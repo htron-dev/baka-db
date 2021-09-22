@@ -1,5 +1,7 @@
 # Parasite Eve Diva - N.Y. Shi no Utahime
 
+![parasite-eve-diva-n-y-shi-no-utahime](https://cdn.myanimelist.net/images/manga/2/65641.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: parasite eve ディーヴァ N.Y.死の歌姫

@@ -1,5 +1,7 @@
 # Promise Cinderella
 
+![promise-cinderella](https://cdn.myanimelist.net/images/manga/2/225490.jpg)
+
 -   **type**: manga
 -   **original-name**: プロミス・シンデレラ
 -   **start-date**: 2018-01-01

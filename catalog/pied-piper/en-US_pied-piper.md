@@ -1,5 +1,7 @@
 # Pied Piper
 
+![pied-piper](https://cdn.myanimelist.net/images/manga/2/21668.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 32

@@ -1,5 +1,7 @@
 # Pandora Hearts: Caucus Race
 
+![pandora-hearts-caucus-race](https://cdn.myanimelist.net/images/manga/2/169649.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 14

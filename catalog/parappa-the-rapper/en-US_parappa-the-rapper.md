@@ -1,5 +1,7 @@
 # Parappa the Rapper
 
+![parappa-the-rapper](https://cdn.myanimelist.net/images/anime/11/6602.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 30
 -   **original-name**: パラッパラッパー

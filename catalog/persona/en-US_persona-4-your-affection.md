@@ -1,5 +1,7 @@
 # Persona 4: Your Affection
 
+![persona-4-your-affection](https://cdn.myanimelist.net/images/manga/2/127035.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ペルソナ 4 Your Affection

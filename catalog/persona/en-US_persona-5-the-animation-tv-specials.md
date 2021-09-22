@@ -1,5 +1,7 @@
 # Persona 5 the Animation TV Specials
 
+![persona-5-the-animation-tv-specials](https://cdn.myanimelist.net/images/anime/1115/96897.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: PERSONA5 the Animation (2018)

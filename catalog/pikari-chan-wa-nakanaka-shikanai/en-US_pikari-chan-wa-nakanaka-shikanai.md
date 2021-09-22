@@ -1,5 +1,7 @@
 # Pikari-chan wa Nakanaka Shikanai!
 
+![pikari-chan-wa-nakanaka-shikanai](https://cdn.myanimelist.net/images/manga/2/236256.jpg)
+
 -   **type**: manga
 -   **chapters**: 15
 -   **original-name**: ピカリちゃんはなかなかしなないっ!

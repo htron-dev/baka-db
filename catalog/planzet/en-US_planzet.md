@@ -1,5 +1,7 @@
 # Planzet
 
+![planzet](https://cdn.myanimelist.net/images/anime/1592/112151.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: プランゼット

@@ -1,5 +1,7 @@
 # Princess Connect! Re:Dive
 
+![princess-connect-re-dive](https://cdn.myanimelist.net/images/anime/1810/106070.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: プリンセスコネクト！Re:Dive

@@ -1,5 +1,7 @@
 # Hana no Zundamaru
 
+![hana-no-zundamaru](https://cdn.myanimelist.net/images/anime/8/55141.jpg)
+
 -   **type**: ona
 -   **episodes**: 8
 -   **original-name**: 花のずんだ丸

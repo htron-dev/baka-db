@@ -1,5 +1,7 @@
 # Peach Milk Crown
 
+![peach-milk-crown](https://cdn.myanimelist.net/images/manga/1/223968.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 37

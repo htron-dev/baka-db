@@ -1,5 +1,7 @@
 # Power Battle Watch Car
 
+![power-battle-watch-car](https://cdn.myanimelist.net/images/anime/1013/95954.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 파워배틀 와치카

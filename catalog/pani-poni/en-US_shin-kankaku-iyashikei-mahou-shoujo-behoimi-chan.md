@@ -1,5 +1,7 @@
 # Shin Kankaku Iyashikei Mahou Shoujo Behoimi-chan
 
+![shin-kankaku-iyashikei-mahou-shoujo-behoimi-chan](https://cdn.myanimelist.net/images/manga/1/179078.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 25

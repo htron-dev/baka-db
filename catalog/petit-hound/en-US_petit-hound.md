@@ -1,5 +1,7 @@
 # Petit Hound
 
+![petit-hound](https://cdn.myanimelist.net/images/manga/2/185778.jpg)
+
 -   **type**: manga
 -   **original-name**: ぷちはうんど
 -   **start-date**: 2004-06-15

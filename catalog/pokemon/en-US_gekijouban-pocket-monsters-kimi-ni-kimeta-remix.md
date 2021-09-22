@@ -1,5 +1,7 @@
 # Gekijouban Pocket Monsters: Kimi ni Kimeta! Remix
 
+![gekijouban-pocket-monsters-kimi-ni-kimeta-remix](https://cdn.myanimelist.net/images/manga/2/224951.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

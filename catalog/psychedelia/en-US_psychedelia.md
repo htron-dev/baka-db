@@ -1,5 +1,7 @@
 # Psychedelia
 
+![psychedelia](https://cdn.myanimelist.net/images/manga/3/25373.jpg)
+
 -   **type**: manhwa
 
 ## Tags

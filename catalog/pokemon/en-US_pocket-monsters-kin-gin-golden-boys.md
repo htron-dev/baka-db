@@ -1,5 +1,7 @@
 # Pocket Monsters Kin Gin: Golden Boys
 
+![pocket-monsters-kin-gin-golden-boys](https://cdn.myanimelist.net/images/manga/2/25836.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

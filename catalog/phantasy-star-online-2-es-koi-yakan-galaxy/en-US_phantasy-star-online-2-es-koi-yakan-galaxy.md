@@ -1,5 +1,7 @@
 # Phantasy Star Online 2 es: Koi Yakan Galaxy
 
+![phantasy-star-online-2-es-koi-yakan-galaxy](https://cdn.myanimelist.net/images/manga/3/238969.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

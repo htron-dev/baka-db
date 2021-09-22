@@ -1,5 +1,7 @@
 # Purikyuu
 
+![purikyuu](https://cdn.myanimelist.net/images/manga/2/20710.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

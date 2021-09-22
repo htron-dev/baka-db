@@ -1,5 +1,7 @@
 # Project Tokyo Dolls: Episode 0
 
+![project-tokyo-dolls-episode-0](https://cdn.myanimelist.net/images/anime/1670/93693.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: プロジェクト東京ドールズ エピソード 0

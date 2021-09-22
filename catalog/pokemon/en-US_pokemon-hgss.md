@@ -1,5 +1,7 @@
 # Pokémon HGSS
 
+![pokemon-hgss](https://cdn.myanimelist.net/images/manga/1/79143.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 23

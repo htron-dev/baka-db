@@ -1,5 +1,7 @@
 # Pocket Park
 
+![pocket-park](https://cdn.myanimelist.net/images/manga/3/59333.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ポケット パーク

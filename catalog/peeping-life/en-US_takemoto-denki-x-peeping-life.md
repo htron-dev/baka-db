@@ -1,5 +1,7 @@
 # Takemoto Denki x Peeping Life
 
+![takemoto-denki-x-peeping-life](https://cdn.myanimelist.net/images/anime/6/77230.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: タケモトデンキ x Peeping Life

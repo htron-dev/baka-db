@@ -1,5 +1,7 @@
 # Psycho-Pass 3
 
+![psycho-pass-3](https://cdn.myanimelist.net/images/anime/1406/104344.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 8
 -   **original-name**: PSYCHO-PASS サイコパス 3

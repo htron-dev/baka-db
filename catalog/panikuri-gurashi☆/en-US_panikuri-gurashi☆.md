@@ -1,5 +1,7 @@
 # Panikuri-gurashi☆
 
+![panikuri-gurashi☆](https://cdn.myanimelist.net/images/manga/2/195308.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 72

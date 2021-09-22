@@ -1,5 +1,7 @@
 # Prison Lab
 
+![prison-lab](https://cdn.myanimelist.net/images/manga/1/173984.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: 監獄実験〈プリズンラボ〉

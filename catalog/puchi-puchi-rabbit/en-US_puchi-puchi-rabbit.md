@@ -1,5 +1,7 @@
 # Puchi Puchi Rabbit
 
+![puchi-puchi-rabbit](https://cdn.myanimelist.net/images/manga/3/126991.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 23

@@ -1,5 +1,7 @@
 # Beppu x Peeping Life
 
+![beppu-x-peeping-life](https://cdn.myanimelist.net/images/anime/9/71491.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 別府市 × Peeping Life

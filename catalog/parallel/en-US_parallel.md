@@ -1,5 +1,7 @@
 # Parallel
 
+![parallel](https://cdn.myanimelist.net/images/manga/1/196760.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Persona 3 the Movie 1: Spring of Birth
 
+![persona-3-the-movie-1-spring-of-birth](https://cdn.myanimelist.net/images/anime/6/55287.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: PERSONA3 THE MOVIE —#1 Spring of Birth—

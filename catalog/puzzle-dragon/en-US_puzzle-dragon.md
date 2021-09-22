@@ -1,5 +1,7 @@
 # Puzzle & Dragon
 
+![puzzle-dragon](https://cdn.myanimelist.net/images/anime/1535/95070.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: パズドラ
 -   **start-date**: 2018-04-02

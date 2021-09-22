@@ -1,5 +1,7 @@
 # Pocket Monsters XY: Pokemon Ryuuouden
 
+![pocket-monsters-xy-pokemon-ryuuouden](https://cdn.myanimelist.net/images/manga/1/222640.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

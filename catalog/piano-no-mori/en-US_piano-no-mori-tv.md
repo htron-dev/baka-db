@@ -1,5 +1,7 @@
 # Piano no Mori (TV)
 
+![piano-no-mori-tv](https://cdn.myanimelist.net/images/anime/1501/91916.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ピアノの森

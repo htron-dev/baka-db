@@ -1,5 +1,7 @@
 # Peleliu: Rakuen no Guernica
 
+![peleliu-rakuen-no-guernica](https://cdn.myanimelist.net/images/manga/3/181791.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 87

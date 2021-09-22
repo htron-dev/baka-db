@@ -1,5 +1,7 @@
 # Petit Petit Muse
 
+![petit-petit-muse](https://cdn.myanimelist.net/images/anime/12/78380.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 쁘띠쁘띠 뮤즈

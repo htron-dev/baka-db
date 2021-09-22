@@ -1,5 +1,7 @@
 # PuiPui!
 
+![pui-pui](https://cdn.myanimelist.net/images/manga/1/119515.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

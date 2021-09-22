@@ -1,5 +1,7 @@
 # Paulette no Isu
 
+![paulette-no-isu](https://cdn.myanimelist.net/images/anime/13/60739.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ポレットのイス

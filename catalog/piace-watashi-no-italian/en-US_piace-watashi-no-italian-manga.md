@@ -1,5 +1,7 @@
 # Piace: Watashi no Italian
 
+![piace-watashi-no-italian](https://cdn.myanimelist.net/images/manga/2/178657.jpg)
+
 -   **type**: manga
 -   **original-name**: ピアシェ～私のイタリアン～
 -   **start-date**: 2013-10-11

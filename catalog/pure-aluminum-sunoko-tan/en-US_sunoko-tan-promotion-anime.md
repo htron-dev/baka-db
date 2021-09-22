@@ -1,5 +1,7 @@
 # Sunoko-tan. Promotion Anime
 
+![sunoko-tan-promotion-anime](https://cdn.myanimelist.net/images/anime/1532/115401.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: すのこタン。プロモーションアニメ

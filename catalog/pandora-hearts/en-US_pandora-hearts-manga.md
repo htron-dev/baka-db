@@ -1,5 +1,7 @@
 # Pandora Hearts
 
+![pandora-hearts](https://cdn.myanimelist.net/images/manga/5/185498.jpg)
+
 -   **type**: manga
 -   **volumes**: 24
 -   **chapters**: 107

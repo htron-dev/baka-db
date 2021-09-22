@@ -1,5 +1,7 @@
 # Puri Puri: The Premature Priest
 
+![puri-puri-the-premature-priest](https://cdn.myanimelist.net/images/manga/1/6605.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 55

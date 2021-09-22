@@ -1,5 +1,7 @@
 # Penguin no Mondai Max
 
+![penguin-no-mondai-max](https://cdn.myanimelist.net/images/anime/3/29983.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: ペンギンの問題 Max

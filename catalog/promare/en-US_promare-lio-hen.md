@@ -1,5 +1,7 @@
 # Promare: Lio-hen
 
+![promare-lio-hen](https://cdn.myanimelist.net/images/anime/1289/108896.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: PROMARE（プロメア）リオ編

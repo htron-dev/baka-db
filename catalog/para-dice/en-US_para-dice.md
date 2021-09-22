@@ -1,5 +1,7 @@
 # Para-Dice
 
+![para-dice](https://cdn.myanimelist.net/images/manga/3/13090.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 天堂幸运骰

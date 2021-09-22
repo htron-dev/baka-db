@@ -1,5 +1,7 @@
 # Pico-Pico Shounen Turbo
 
+![pico-pico-shounen-turbo](https://cdn.myanimelist.net/images/manga/1/149902.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Promare
 
+![promare](https://cdn.myanimelist.net/images/anime/1008/101845.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: PROMARE（プロメア）

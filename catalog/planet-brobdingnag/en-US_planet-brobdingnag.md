@@ -1,5 +1,7 @@
 # Planet Brobdingnag
 
+![planet-brobdingnag](https://cdn.myanimelist.net/images/manga/1/181638.jpg)
+
 -   **type**: manga
 -   **chapters**: 8
 -   **original-name**: プラネット・ブロブディンナグ

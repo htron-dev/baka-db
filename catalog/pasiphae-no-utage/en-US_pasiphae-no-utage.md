@@ -1,5 +1,7 @@
 # Pasiphae no Utage
 
+![pasiphae-no-utage](https://cdn.myanimelist.net/images/manga/1/202578.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

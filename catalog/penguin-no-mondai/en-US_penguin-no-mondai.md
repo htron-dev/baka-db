@@ -1,5 +1,7 @@
 # Penguin no Mondai
 
+![penguin-no-mondai](https://cdn.myanimelist.net/images/anime/3/9560.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 100
 -   **original-name**: ペンギンの問題

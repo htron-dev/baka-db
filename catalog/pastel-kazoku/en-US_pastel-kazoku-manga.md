@@ -1,5 +1,7 @@
 # Pastel Kazoku
 
+![pastel-kazoku](https://cdn.myanimelist.net/images/manga/3/165439.jpg)
+
 -   **type**: manga
 -   **original-name**: パステル家族
 -   **start-date**: 2013-10-11

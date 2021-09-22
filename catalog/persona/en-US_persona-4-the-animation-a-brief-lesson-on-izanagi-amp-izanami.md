@@ -1,5 +1,7 @@
 # Persona 4 the Animation: A Brief Lesson on Izanagi &amp; Izanami
 
+![persona-4-the-animation-a-brief-lesson-on-izanagi-amp-izanami](https://cdn.myanimelist.net/images/anime/12/64949.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ペルソナ 4 the Animation -A Brief Lesson on Izanagi & Izanami-

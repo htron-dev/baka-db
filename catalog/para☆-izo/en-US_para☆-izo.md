@@ -1,5 +1,7 @@
 # Para☆Izo
 
+![para☆-izo](https://cdn.myanimelist.net/images/manga/3/39915.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 55

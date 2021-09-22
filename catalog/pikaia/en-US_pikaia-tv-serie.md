@@ -1,5 +1,7 @@
 # Pikaia!!
 
+![pikaia](https://cdn.myanimelist.net/images/anime/6/84105.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ピカイア!!

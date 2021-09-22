@@ -1,5 +1,7 @@
 # P.I.P.
 
+![p-i-p](https://cdn.myanimelist.net/images/manga/1/160482.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: P.I.P. プリズナー・イン・プノンペン

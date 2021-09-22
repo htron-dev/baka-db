@@ -1,5 +1,7 @@
 # Papa's Assasin
 
+![papas-assasin](https://cdn.myanimelist.net/images/manga/2/86205.jpg)
+
 -   **type**: manga
 -   **original-name**: パパ’s アサシン
 

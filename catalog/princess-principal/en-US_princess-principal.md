@@ -1,5 +1,7 @@
 # Princess Principal
 
+![princess-principal](https://cdn.myanimelist.net/images/anime/7/86768.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: プリンセス・プリンシパル

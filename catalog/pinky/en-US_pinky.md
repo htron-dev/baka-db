@@ -1,5 +1,7 @@
 # Pinky
 
+![pinky](https://cdn.myanimelist.net/images/anime/11/44752.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: PINKY（ピンキー）

@@ -1,5 +1,7 @@
 # Fafa Movie
 
+![fafa-movie](https://cdn.myanimelist.net/images/anime/10/70665.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: ファーファムービー

@@ -1,5 +1,7 @@
 # P.S. Three-san
 
+![p-s-three-san](https://cdn.myanimelist.net/images/manga/2/14651.jpg)
+
 -   **type**: manga
 
 ## Tags

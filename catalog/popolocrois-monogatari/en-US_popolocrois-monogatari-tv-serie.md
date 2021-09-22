@@ -1,5 +1,7 @@
 # Popolocrois Monogatari
 
+![popolocrois-monogatari](https://cdn.myanimelist.net/images/anime/2/17877.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ポポロクロイス物語

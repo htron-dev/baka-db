@@ -1,5 +1,7 @@
 # Pokemon: Bokutachi Pichu Brothers - Party wa Oosawagi! no Maki
 
+![pokemon-bokutachi-pichu-brothers-party-wa-oosawagi-no-maki](https://cdn.myanimelist.net/images/anime/6/42981.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ぼくたちピチューブラザーズ　～パーティはおおさわぎ！のまき～

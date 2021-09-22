@@ -1,5 +1,7 @@
 # Poten Hit Girl
 
+![poten-hit-girl](https://cdn.myanimelist.net/images/manga/2/228118.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 23

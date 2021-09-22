@@ -1,5 +1,7 @@
 # Parallel Paradise
 
+![parallel-paradise](https://cdn.myanimelist.net/images/manga/3/198780.jpg)
+
 -   **type**: manga
 -   **original-name**: パラレルパラダイス
 -   **start-date**: 2017-03-18

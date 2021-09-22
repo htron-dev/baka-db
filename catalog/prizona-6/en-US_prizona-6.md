@@ -1,5 +1,7 @@
 # Prizona6
 
+![prizona-6](https://cdn.myanimelist.net/images/manga/1/100221.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

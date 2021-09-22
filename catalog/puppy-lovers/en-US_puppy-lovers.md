@@ -1,5 +1,7 @@
 # Puppy Lovers
 
+![puppy-lovers](https://cdn.myanimelist.net/images/manga/2/188953.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 49

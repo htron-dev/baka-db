@@ -1,5 +1,7 @@
 # Project Scard: Praeter no Kizu
 
+![project-scard-praeter-no-kizu](https://cdn.myanimelist.net/images/anime/1239/111647.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: PROJECT SCARD プレイタの傷

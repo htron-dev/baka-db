@@ -1,5 +1,7 @@
 # Prismic Days
 
+![prismic-days](https://cdn.myanimelist.net/images/manga/3/162451.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

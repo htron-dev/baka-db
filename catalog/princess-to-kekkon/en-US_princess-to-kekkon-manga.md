@@ -1,5 +1,7 @@
 # Princess to Kekkon
 
+![princess-to-kekkon](https://cdn.myanimelist.net/images/manga/1/46965.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

@@ -1,5 +1,7 @@
 # Playground
 
+![playground](https://cdn.myanimelist.net/images/anime/7/71618.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: PLAYGROUND

@@ -1,5 +1,7 @@
 # Korotto Ochita?
 
+![korotto-ochita](https://cdn.myanimelist.net/images/manga/3/159474.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

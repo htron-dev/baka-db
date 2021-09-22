@@ -1,5 +1,7 @@
 # Planetes
 
+![planetes](https://cdn.myanimelist.net/images/manga/3/170572.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

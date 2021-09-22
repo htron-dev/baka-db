@@ -1,5 +1,7 @@
 # Pygmalio
 
+![pygmalio](https://cdn.myanimelist.net/images/manga/2/189390.jpg)
+
 -   **type**: manga
 -   **volumes**: 27
 -   **chapters**: 164

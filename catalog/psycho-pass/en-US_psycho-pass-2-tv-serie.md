@@ -1,5 +1,7 @@
 # Psycho-Pass 2
 
+![psycho-pass-2](https://cdn.myanimelist.net/images/anime/1197/100616.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: PSYCHO-PASS サイコパス 2

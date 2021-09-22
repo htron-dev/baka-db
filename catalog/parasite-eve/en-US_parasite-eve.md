@@ -1,5 +1,7 @@
 # Parasite Eve
 
+![parasite-eve](https://cdn.myanimelist.net/images/manga/2/65639.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **start-date**: 1998-01-19

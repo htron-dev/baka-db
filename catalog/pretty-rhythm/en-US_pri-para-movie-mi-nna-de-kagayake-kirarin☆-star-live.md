@@ -1,5 +1,7 @@
 # PriPara Movie: Mi~nna de Kagayake! Kirarin☆Star Live!
 
+![pri-para-movie-mi-nna-de-kagayake-kirarin☆-star-live](https://cdn.myanimelist.net/images/anime/4/84541.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版プリパラ み~んなでかがやけ! キラリン ☆ スターライブ!

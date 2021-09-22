@@ -1,5 +1,7 @@
 # Papa! Papa! Suki! Suki! Chou Chou Aishiteru
 
+![papa-papa-suki-suki-chou-chou-aishiteru](https://cdn.myanimelist.net/images/manga/3/229954.jpg)
+
 -   **type**: light-novel
 -   **original-name**: パパ！パパ！好き！好き！超超愛してる
 -   **start-date**: 2018-07-20

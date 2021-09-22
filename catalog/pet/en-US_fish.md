@@ -1,5 +1,7 @@
 # Fish
 
+![fish](https://cdn.myanimelist.net/images/manga/3/239678.jpg)
+
 -   **type**: manga
 -   **original-name**: fish -フィッシュ-
 -   **start-date**: 2021-01-12

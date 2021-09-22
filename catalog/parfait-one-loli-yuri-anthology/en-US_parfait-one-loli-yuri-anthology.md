@@ -1,5 +1,7 @@
 # Parfait: One-Loli Yuri Anthology
 
+![parfait-one-loli-yuri-anthology](https://cdn.myanimelist.net/images/manga/2/224995.jpg)
+
 -   **type**: manga
 -   **original-name**: パルフェ おねロリ百合アンソロジー
 -   **start-date**: 2017-09-15

@@ -1,5 +1,7 @@
 # Pinpon Rush!
 
+![pinpon-rush](https://cdn.myanimelist.net/images/manga/2/201028.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

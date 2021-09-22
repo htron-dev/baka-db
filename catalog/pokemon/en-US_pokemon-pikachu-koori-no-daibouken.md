@@ -1,5 +1,7 @@
 # Pokemon: Pikachu Koori no Daibouken
 
+![pokemon-pikachu-koori-no-daibouken](https://cdn.myanimelist.net/images/anime/10/24008.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ピカチュウ 氷の大冒険

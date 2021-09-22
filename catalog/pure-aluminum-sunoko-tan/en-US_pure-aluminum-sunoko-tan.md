@@ -1,5 +1,7 @@
 # Pure Aluminum: Sunoko-tan.
 
+![pure-aluminum-sunoko-tan](https://cdn.myanimelist.net/images/anime/6/85559.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: Pure Aluminum すのこタン。

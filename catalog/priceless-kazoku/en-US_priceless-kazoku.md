@@ -1,5 +1,7 @@
 # Priceless Kazoku
 
+![priceless-kazoku](https://cdn.myanimelist.net/images/manga/3/154649.jpg)
+
 -   **type**: manga
 -   **original-name**: プライスレス家族
 

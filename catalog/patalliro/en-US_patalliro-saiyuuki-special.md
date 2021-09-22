@@ -1,5 +1,7 @@
 # Patalliro Saiyuuki! Special
 
+![patalliro-saiyuuki-special](https://cdn.myanimelist.net/images/anime/4/58917.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: パタリロ西遊記！第 27 話

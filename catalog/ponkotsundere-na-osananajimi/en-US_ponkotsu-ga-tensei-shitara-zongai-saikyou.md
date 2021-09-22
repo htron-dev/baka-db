@@ -1,5 +1,7 @@
 # Ponkotsu ga Tensei shitara Zongai Saikyou
 
+![ponkotsu-ga-tensei-shitara-zongai-saikyou](https://cdn.myanimelist.net/images/manga/1/222003.jpg)
+
 -   **type**: manga
 -   **original-name**: ポンコツが転生したら存外最強
 -   **start-date**: 2018-08-15

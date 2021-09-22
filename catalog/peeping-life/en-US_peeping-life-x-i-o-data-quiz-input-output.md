@@ -1,5 +1,7 @@
 # Peeping Life x I-O Data: Quiz!! Input Output
 
+![peeping-life-x-i-o-data-quiz-input-output](https://cdn.myanimelist.net/images/anime/8/71492.jpg)
+
 -   **type**: ona
 -   **episodes**: 8
 -   **original-name**: Peeping Life×IODATA「クイズ!!インプットアウトプット」

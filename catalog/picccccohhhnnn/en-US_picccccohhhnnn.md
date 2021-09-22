@@ -1,5 +1,7 @@
 # PICCCCCOHHHNNN!
 
+![picccccohhhnnn](https://cdn.myanimelist.net/images/manga/1/86673.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ピコーン！

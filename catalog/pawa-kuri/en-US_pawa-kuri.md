@@ -1,5 +1,7 @@
 # Pawa Kuri
 
+![pawa-kuri](https://cdn.myanimelist.net/images/manga/2/36662.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: パワくり

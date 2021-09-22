@@ -1,5 +1,7 @@
 # Private Eye Dol
 
+![private-eye-dol](https://cdn.myanimelist.net/images/anime/2/66087.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: Private eye dol [プライベート・アイ・ドル]

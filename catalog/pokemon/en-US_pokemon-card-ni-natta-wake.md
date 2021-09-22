@@ -1,5 +1,7 @@
 # Pokemon Card ni Natta Wake
 
+![pokemon-card-ni-natta-wake](https://cdn.myanimelist.net/images/manga/5/112345.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 38

@@ -1,5 +1,7 @@
 # Pittarazu
 
+![pittarazu](https://cdn.myanimelist.net/images/anime/1243/108652.jpg)
+
 -   **type**: ova
 -   **episodes**: 10
 -   **original-name**: ぴったらず

@@ -1,5 +1,7 @@
 # Potecco Babies
 
+![potecco-babies](https://cdn.myanimelist.net/images/anime/13/24824.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: ポテッコベイビーズ

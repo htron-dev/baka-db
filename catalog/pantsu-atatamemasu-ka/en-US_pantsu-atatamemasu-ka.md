@@ -1,5 +1,7 @@
 # Pantsu Atatamemasu ka?
 
+![pantsu-atatamemasu-ka](https://cdn.myanimelist.net/images/manga/2/199700.jpg)
+
 -   **type**: light-novel
 -   **original-name**: パンツあたためますか？
 -   **start-date**: 2017-08-01

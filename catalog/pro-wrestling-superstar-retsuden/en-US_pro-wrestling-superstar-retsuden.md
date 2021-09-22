@@ -1,5 +1,7 @@
 # Pro Wrestling Superstar Retsuden
 
+![pro-wrestling-superstar-retsuden](https://cdn.myanimelist.net/images/manga/1/153059.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **original-name**: プロレススーパースター列伝

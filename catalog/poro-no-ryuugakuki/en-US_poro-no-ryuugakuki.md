@@ -1,5 +1,7 @@
 # Poro no Ryuugakuki
 
+![poro-no-ryuugakuki](https://cdn.myanimelist.net/images/manga/1/197240.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

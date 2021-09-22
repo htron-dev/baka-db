@@ -1,5 +1,7 @@
 # Pokemon: Aki no Special
 
+![pokemon-aki-no-special](https://cdn.myanimelist.net/images/anime/1116/98399.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ポケットモンスター・秋のスペシャル

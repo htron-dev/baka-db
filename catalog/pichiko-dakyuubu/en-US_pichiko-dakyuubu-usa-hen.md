@@ -1,5 +1,7 @@
 # Pichiko Dakyuubu USA-hen
 
+![pichiko-dakyuubu-usa-hen](https://cdn.myanimelist.net/images/anime/8/75831.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: ピチ高野球部“USA 編”

@@ -1,5 +1,7 @@
 # Pokemon XY: Koukoku no Princess Diancie
 
+![pokemon-xy-koukoku-no-princess-diancie](https://cdn.myanimelist.net/images/anime/4/64727.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 鉱国のプリンセス ディアンシー

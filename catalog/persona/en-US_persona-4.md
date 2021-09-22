@@ -1,5 +1,7 @@
 # Persona 4
 
+![persona-4](https://cdn.myanimelist.net/images/manga/1/217941.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 68

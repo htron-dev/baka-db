@@ -1,5 +1,7 @@
 # Princess Maison
 
+![princess-maison](https://cdn.myanimelist.net/images/manga/3/169516.jpg)
+
 -   **type**: manga
 -   **original-name**: プリンセスメゾン
 -   **start-date**: 2014-08-07

@@ -1,5 +1,7 @@
 # Psycho-Pass: Sinners of the System Case.2 - First Guardian
 
+![psycho-pass-sinners-of-the-system-case-2-first-guardian](https://cdn.myanimelist.net/images/manga/2/242940.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

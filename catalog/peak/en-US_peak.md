@@ -1,5 +1,7 @@
 # Peak
 
+![peak](https://cdn.myanimelist.net/images/manga/2/78763.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **chapters**: 45

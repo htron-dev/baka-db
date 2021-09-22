@@ -1,5 +1,7 @@
 # Princess Princess
 
+![princess-princess](https://cdn.myanimelist.net/images/manga/1/34774.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

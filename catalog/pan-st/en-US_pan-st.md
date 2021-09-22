@@ -1,5 +1,7 @@
 # PanSt.
 
+![pan-st](https://cdn.myanimelist.net/images/manga/3/194963.jpg)
+
 -   **type**: manga
 -   **original-name**: ぱンすと。
 -   **start-date**: 2016-10-11

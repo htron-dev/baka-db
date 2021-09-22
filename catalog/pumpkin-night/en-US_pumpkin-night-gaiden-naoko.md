@@ -1,5 +1,7 @@
 # Pumpkin Night Gaiden - Naoko
 
+![pumpkin-night-gaiden-naoko](https://cdn.myanimelist.net/images/manga/1/231868.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: パンプキンナイト外伝-直子

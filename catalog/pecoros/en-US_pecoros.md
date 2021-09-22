@@ -1,5 +1,7 @@
 # Pecoros
 
+![pecoros](https://cdn.myanimelist.net/images/manga/3/79407.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 40

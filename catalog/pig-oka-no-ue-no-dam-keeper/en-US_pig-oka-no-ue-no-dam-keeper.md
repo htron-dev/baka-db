@@ -1,5 +1,7 @@
 # Pig: Oka no Ue no Dam Keeper
 
+![pig-oka-no-ue-no-dam-keeper](https://cdn.myanimelist.net/images/anime/10/82723.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: ピッグ - 丘の上のダム・キーパー

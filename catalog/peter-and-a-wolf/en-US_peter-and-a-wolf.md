@@ -1,5 +1,7 @@
 # Peter and a Wolf
 
+![peter-and-a-wolf](https://cdn.myanimelist.net/images/manga/1/19291.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ペーターと狼

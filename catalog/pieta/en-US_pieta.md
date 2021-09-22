@@ -1,5 +1,7 @@
 # Pietà
 
+![pieta](https://cdn.myanimelist.net/images/manga/1/1513.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 6

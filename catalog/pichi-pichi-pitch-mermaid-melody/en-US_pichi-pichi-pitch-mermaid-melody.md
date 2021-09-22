@@ -1,5 +1,7 @@
 # Pichi Pichi Pitch: Mermaid Melody
 
+![pichi-pichi-pitch-mermaid-melody](https://cdn.myanimelist.net/images/manga/3/7128.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 35

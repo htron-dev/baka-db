@@ -1,5 +1,7 @@
 # Penguin Musume♥Heart
 
+![penguin-musume♥-heart](https://cdn.myanimelist.net/images/anime/2/8270.jpg)
+
 -   **type**: ona
 -   **episodes**: 22
 -   **original-name**: ペンギン娘 ♥ はぁと

@@ -1,5 +1,7 @@
 # Pokemon Movie 21: Minna no Monogatari
 
+![pokemon-movie-21-minna-no-monogatari](https://cdn.myanimelist.net/images/anime/1580/90795.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版ポケットモンスター みんなの物語

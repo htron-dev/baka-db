@@ -1,5 +1,7 @@
 # Papa ni wa Himitsu nano desu ga
 
+![papa-ni-wa-himitsu-nano-desu-ga](https://cdn.myanimelist.net/images/manga/2/159835.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: パパには秘密なのですが

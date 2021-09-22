@@ -1,5 +1,7 @@
 # Phantom Bullet
 
+![phantom-bullet](https://cdn.myanimelist.net/images/manga/3/152957.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: Phantom BULLET

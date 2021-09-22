@@ -1,5 +1,7 @@
 # Pocket Monsters: Diamond &amp; Pearl Specials
 
+![pocket-monsters-diamond-amp-pearl-specials](https://cdn.myanimelist.net/images/anime/11/28340.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ポケットモンスター ダイヤモンド・パール 特別編

@@ -1,5 +1,7 @@
 # Pochacco no Wakuwaku Birthday
 
+![pochacco-no-wakuwaku-birthday](https://cdn.myanimelist.net/images/anime/9/58957.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ポチャッコのわくわくバースデイ

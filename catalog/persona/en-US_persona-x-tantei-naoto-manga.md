@@ -1,5 +1,7 @@
 # Persona x Tantei Naoto
 
+![persona-x-tantei-naoto](https://cdn.myanimelist.net/images/manga/1/117915.jpg)
+
 -   **type**: manga
 -   **chapters**: 20
 -   **original-name**: ペルソナ × 探偵 NAOTO

@@ -1,5 +1,7 @@
 # Perman
 
+![perman](https://cdn.myanimelist.net/images/anime/7/53743.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 54
 -   **original-name**: パーマン

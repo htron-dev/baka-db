@@ -1,5 +1,7 @@
 # Panikuru Iko-san!
 
+![panikuru-iko-san](https://cdn.myanimelist.net/images/manga/2/31769.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: ぱにくるイ子さん！

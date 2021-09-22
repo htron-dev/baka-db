@@ -1,5 +1,7 @@
 # Phantom Brave: Ivoire Monogatari
 
+![phantom-brave-ivoire-monogatari](https://cdn.myanimelist.net/images/manga/3/120657.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

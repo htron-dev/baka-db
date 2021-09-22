@@ -1,5 +1,7 @@
 # Pocket Monsters Omega Ruby Alpha Sapphire: Akaki Jounetsu to Aoki Eichi
 
+![pocket-monsters-omega-ruby-alpha-sapphire-akaki-jounetsu-to-aoki-eichi](https://cdn.myanimelist.net/images/manga/2/222007.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

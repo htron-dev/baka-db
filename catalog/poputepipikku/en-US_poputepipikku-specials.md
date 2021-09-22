@@ -1,5 +1,7 @@
 # Poputepipikku Specials
 
+![poputepipikku-specials](https://cdn.myanimelist.net/images/anime/1444/92651.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: ポプテピピック 【映像特典】

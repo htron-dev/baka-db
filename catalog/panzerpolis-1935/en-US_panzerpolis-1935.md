@@ -1,5 +1,7 @@
 # Panzerpolis 1935
 
+![panzerpolis-1935](https://cdn.myanimelist.net/images/manga/2/145611.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

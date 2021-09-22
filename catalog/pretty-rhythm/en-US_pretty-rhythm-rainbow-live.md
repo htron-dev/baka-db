@@ -1,5 +1,7 @@
 # Pretty Rhythm: Rainbow Live
 
+![pretty-rhythm-rainbow-live](https://cdn.myanimelist.net/images/anime/8/73957.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: プリティーリズム・レインボーライブ

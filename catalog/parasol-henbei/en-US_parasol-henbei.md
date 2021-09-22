@@ -1,5 +1,7 @@
 # Parasol Henbei
 
+![parasol-henbei](https://cdn.myanimelist.net/images/anime/6/44704.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 200
 -   **original-name**: パラソルヘンべえ

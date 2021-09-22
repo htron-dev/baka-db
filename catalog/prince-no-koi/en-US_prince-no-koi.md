@@ -1,5 +1,7 @@
 # Prince no Koi
 
+![prince-no-koi](https://cdn.myanimelist.net/images/manga/2/40550.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: プリンスの恋

@@ -1,5 +1,7 @@
 # Passion Forbidden Lovers
 
+![passion-forbidden-lovers](https://cdn.myanimelist.net/images/manga/1/24832.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

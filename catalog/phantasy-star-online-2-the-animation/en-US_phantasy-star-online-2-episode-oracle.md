@@ -1,5 +1,7 @@
 # Phantasy Star Online 2: Episode Oracle
 
+![phantasy-star-online-2-episode-oracle](https://cdn.myanimelist.net/images/anime/1923/99744.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ファンタシースターオンライン 2 エピソード・オラクル

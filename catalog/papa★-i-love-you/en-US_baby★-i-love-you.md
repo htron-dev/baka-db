@@ -1,5 +1,7 @@
 # Baby★I Love You
 
+![baby★-i-love-you](https://cdn.myanimelist.net/images/manga/2/22533.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

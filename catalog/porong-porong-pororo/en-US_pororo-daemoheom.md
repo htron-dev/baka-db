@@ -1,5 +1,7 @@
 # Pororo Daemoheom
 
+![pororo-daemoheom](https://cdn.myanimelist.net/images/anime/7/66613.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 뽀로로의 대모험

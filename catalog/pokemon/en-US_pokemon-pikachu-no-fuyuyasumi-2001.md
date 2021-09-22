@@ -1,5 +1,7 @@
 # Pokemon: Pikachu no Fuyuyasumi (2001)
 
+![pokemon-pikachu-no-fuyuyasumi-2001](https://cdn.myanimelist.net/images/anime/1248/108235.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ピカチュウのふゆやすみ 2001

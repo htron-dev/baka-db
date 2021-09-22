@@ -1,5 +1,7 @@
 # Pokemon Movie 08: Mew to Hadou no Yuusha Lucario
 
+![pokemon-movie-08-mew-to-hadou-no-yuusha-lucario](https://cdn.myanimelist.net/images/anime/6/79257.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ポケットモンスターアドバンスジェネレーション ミュウと波導の勇者　ルカリオ

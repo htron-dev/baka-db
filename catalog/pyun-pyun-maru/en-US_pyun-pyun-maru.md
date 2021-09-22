@@ -1,5 +1,7 @@
 # Pyun Pyun Maru
 
+![pyun-pyun-maru](https://cdn.myanimelist.net/images/anime/2/42965.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ピュンピュン丸

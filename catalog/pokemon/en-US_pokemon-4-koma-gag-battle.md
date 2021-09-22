@@ -1,5 +1,7 @@
 # Pokémon 4Koma Gag Battle
 
+![pokemon-4-koma-gag-battle](https://cdn.myanimelist.net/images/manga/2/39120.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ポケットモンスター　４コマギャグバトル

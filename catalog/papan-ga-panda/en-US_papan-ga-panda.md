@@ -1,5 +1,7 @@
 # Papan Ga Panda!
 
+![papan-ga-panda](https://cdn.myanimelist.net/images/anime/6/86918.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: パパンがパンダ！
 -   **rating**: G - All Ages

@@ -1,5 +1,7 @@
 # Papa Mama Bye Bye
 
+![papa-mama-bye-bye](https://cdn.myanimelist.net/images/anime/11/67947.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: パパ ママ バイバイ

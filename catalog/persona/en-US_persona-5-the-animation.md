@@ -1,5 +1,7 @@
 # Persona 5 the Animation
 
+![persona-5-the-animation](https://cdn.myanimelist.net/images/anime/1829/92056.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: TV アニメ「ペルソナ５」

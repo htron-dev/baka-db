@@ -1,5 +1,7 @@
 # Papillon
 
+![papillon](https://cdn.myanimelist.net/images/manga/4/20318.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

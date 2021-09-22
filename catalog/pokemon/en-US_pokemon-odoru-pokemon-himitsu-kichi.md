@@ -1,5 +1,7 @@
 # Pokemon: Odoru Pokemon Himitsu Kichi
 
+![pokemon-odoru-pokemon-himitsu-kichi](https://cdn.myanimelist.net/images/anime/3/64891.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: おどるポケモンひみつ基地

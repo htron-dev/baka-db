@@ -1,5 +1,7 @@
 # Pokemon Crystal: Raikou Ikazuchi no Densetsu
 
+![pokemon-crystal-raikou-ikazuchi-no-densetsu](https://cdn.myanimelist.net/images/anime/5/21488.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ポケットモンスター クリスタル ～ライコウ 雷の伝説～

@@ -1,5 +1,7 @@
 # Panty & Stocking with Garterbelt
 
+![panty-stocking-with-garterbelt](https://cdn.myanimelist.net/images/manga/3/208641.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: Panty ＆ Stocking with Garterbelt

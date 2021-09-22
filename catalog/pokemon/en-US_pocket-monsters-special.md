@@ -1,5 +1,7 @@
 # Pocket Monsters Special
 
+![pocket-monsters-special](https://cdn.myanimelist.net/images/manga/1/16458.jpg)
+
 -   **type**: manga
 -   **original-name**: ポケットモンスター SPECIAL
 -   **start-date**: 1997-04-19

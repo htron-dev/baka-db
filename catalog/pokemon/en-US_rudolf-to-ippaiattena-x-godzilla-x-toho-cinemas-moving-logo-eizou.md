@@ -1,5 +1,7 @@
 # Rudolf to Ippaiattena x Godzilla x Toho Cinemas Moving Logo Eizou
 
+![rudolf-to-ippaiattena-x-godzilla-x-toho-cinemas-moving-logo-eizou](https://cdn.myanimelist.net/images/anime/6/89068.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 『ルドルフとイッパイアッテナ』× ゴジラ ×TOHO シネマズムービングロゴ映像

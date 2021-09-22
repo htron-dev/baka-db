@@ -1,5 +1,7 @@
 # Pink no Kobushi
 
+![pink-no-kobushi](https://cdn.myanimelist.net/images/manga/1/95793.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

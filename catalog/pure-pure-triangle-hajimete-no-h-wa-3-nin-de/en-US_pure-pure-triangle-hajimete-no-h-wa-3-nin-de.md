@@ -1,5 +1,7 @@
 # Pure Pure Triangle: Hajimete no H wa 3-nin de!?
 
+![pure-pure-triangle-hajimete-no-h-wa-3-nin-de](https://cdn.myanimelist.net/images/manga/1/196113.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

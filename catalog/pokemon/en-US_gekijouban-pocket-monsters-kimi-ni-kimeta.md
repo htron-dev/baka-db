@@ -1,5 +1,7 @@
 # Gekijouban Pocket Monsters: Kimi ni Kimeta!
 
+![gekijouban-pocket-monsters-kimi-ni-kimeta](https://cdn.myanimelist.net/images/manga/2/224950.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

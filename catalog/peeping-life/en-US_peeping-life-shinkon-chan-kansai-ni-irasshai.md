@@ -1,5 +1,7 @@
 # Peeping Life: Shinkon-chan Kansai ni Irasshai
 
+![peeping-life-shinkon-chan-kansai-ni-irasshai](https://cdn.myanimelist.net/images/anime/3/63077.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: Peeping Life 『新婚ちゃん関西にいらっしゃい』

@@ -1,5 +1,7 @@
 # Pokémon 4Koma: Diamond and Pearl
 
+![pokemon-4-koma-diamond-and-pearl](https://cdn.myanimelist.net/images/manga/1/39366.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ポケモン 4 コマ大百科 ダイヤモンド・パール

@@ -1,5 +1,7 @@
 # Petit Yuri Hime
 
+![petit-yuri-hime](https://cdn.myanimelist.net/images/manga/2/156913.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 18

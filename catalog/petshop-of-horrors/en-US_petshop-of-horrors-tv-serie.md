@@ -1,5 +1,7 @@
 # Petshop of Horrors
 
+![petshop-of-horrors](https://cdn.myanimelist.net/images/anime/10/64543.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 4
 -   **original-name**: Pet Shop of Horrors (ペットショップ・オブ・ホラーズ)

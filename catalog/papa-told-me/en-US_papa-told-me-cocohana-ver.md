@@ -1,5 +1,7 @@
 # Papa Told Me: Cocohana ver.
 
+![papa-told-me-cocohana-ver](https://cdn.myanimelist.net/images/manga/2/128189.jpg)
+
 -   **type**: manga
 -   **original-name**: Papa told me Cocohana ver
 

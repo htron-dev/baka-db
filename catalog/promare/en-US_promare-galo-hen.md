@@ -1,5 +1,7 @@
 # Promare: Galo-hen
 
+![promare-galo-hen](https://cdn.myanimelist.net/images/anime/1369/108826.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: PROMARE（プロメア）ガロ編

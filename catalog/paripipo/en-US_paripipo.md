@@ -1,5 +1,7 @@
 # Paripipo!
 
+![paripipo](https://cdn.myanimelist.net/images/manga/3/209892.jpg)
+
 -   **type**: manga
 -   **original-name**: ぱりぴぽ！
 -   **start-date**: 2017-04-27

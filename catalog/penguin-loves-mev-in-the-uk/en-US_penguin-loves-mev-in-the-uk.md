@@ -1,5 +1,7 @@
 # Penguin Loves Mev in the UK
 
+![penguin-loves-mev-in-the-uk](https://cdn.myanimelist.net/images/manga/1/167686.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 펭귄 러브스 메브 in the UK
 -   **start-date**: 2013-12-20

@@ -1,5 +1,7 @@
 # PetoPeto-san
 
+![peto-peto-san](https://cdn.myanimelist.net/images/anime/13/19516.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ぺとぺとさん

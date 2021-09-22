@@ -1,5 +1,7 @@
 # Penguin Summer
 
+![penguin-summer](https://cdn.myanimelist.net/images/manga/3/96747.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

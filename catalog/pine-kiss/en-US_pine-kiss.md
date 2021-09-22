@@ -1,5 +1,7 @@
 # Pine Kiss
 
+![pine-kiss](https://cdn.myanimelist.net/images/manga/1/91815.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 

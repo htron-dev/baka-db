@@ -1,5 +1,7 @@
 # Pokemon XY: Hoopa no Odemashi Daisakusen!!
 
+![pokemon-xy-hoopa-no-odemashi-daisakusen](https://cdn.myanimelist.net/images/anime/10/73716.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: フーパのおでまし大作戦！！

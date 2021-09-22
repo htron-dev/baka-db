@@ -1,5 +1,7 @@
 # King of Prism by Pretty Rhythm
 
+![king-of-prism-by-pretty-rhythm](https://cdn.myanimelist.net/images/anime/13/76498.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: KING OF PRISM by PrettyRhythm

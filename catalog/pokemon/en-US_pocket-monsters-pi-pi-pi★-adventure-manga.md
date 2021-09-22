@@ -1,5 +1,7 @@
 # Pocket Monsters: PiPiPi★Adventure
 
+![pocket-monsters-pi-pi-pi★-adventure](https://cdn.myanimelist.net/images/manga/5/200375.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 89

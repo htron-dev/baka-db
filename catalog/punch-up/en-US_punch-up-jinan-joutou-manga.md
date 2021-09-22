@@ -1,5 +1,7 @@
 # Punch↑+Jinan Joutou
 
+![punch↑-jinan-joutou](https://cdn.myanimelist.net/images/manga/3/139151.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

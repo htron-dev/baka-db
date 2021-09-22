@@ -1,5 +1,7 @@
 # Pavlov no Inu
 
+![pavlov-no-inu](https://cdn.myanimelist.net/images/manga/3/151472.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 59

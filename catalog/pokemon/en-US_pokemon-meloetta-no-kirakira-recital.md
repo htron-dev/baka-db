@@ -1,5 +1,7 @@
 # Pokemon: Meloetta no Kirakira Recital
 
+![pokemon-meloetta-no-kirakira-recital](https://cdn.myanimelist.net/images/anime/3/49309.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: メロエッタのキラキラリサイタル

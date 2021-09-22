@@ -1,5 +1,7 @@
 # Panorama Toukitan
 
+![panorama-toukitan](https://cdn.myanimelist.net/images/manga/1/14356.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

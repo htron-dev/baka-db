@@ -1,5 +1,7 @@
 # Penguin no Mondai Movie
 
+![penguin-no-mondai-movie](https://cdn.myanimelist.net/images/anime/13/61285.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版ペンギンの問題 幸せの青い鳥でごペンなさい

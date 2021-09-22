@@ -1,5 +1,7 @@
 # Pinocchio
 
+![pinocchio](https://cdn.myanimelist.net/images/manga/2/100745.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **chapters**: 81

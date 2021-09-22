@@ -1,5 +1,7 @@
 # Psycho Doctor Kai Kyosuke
 
+![psycho-doctor-kai-kyosuke](https://cdn.myanimelist.net/images/manga/2/32168.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 9

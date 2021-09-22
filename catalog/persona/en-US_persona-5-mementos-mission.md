@@ -1,5 +1,7 @@
 # Persona 5: Mementos Mission
 
+![persona-5-mementos-mission](https://cdn.myanimelist.net/images/manga/3/221876.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ペルソナ 5 メメントスミッション

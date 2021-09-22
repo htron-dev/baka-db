@@ -1,5 +1,7 @@
 # Punch Drunk Babies
 
+![punch-drunk-babies](https://cdn.myanimelist.net/images/manga/2/153451.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Pa-ri Nezumi-kun
 
+![pa-ri-nezumi-kun](https://cdn.myanimelist.net/images/anime/9/85460.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: パ・リネズミくん！

@@ -1,5 +1,7 @@
 # Pokopon no Yukai na Saiyuuki
 
+![pokopon-no-yukai-na-saiyuuki](https://cdn.myanimelist.net/images/anime/11/78315.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ぽこぽんのゆかいな西遊記

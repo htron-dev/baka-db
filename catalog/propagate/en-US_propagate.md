@@ -1,5 +1,7 @@
 # Propagate
 
+![propagate](https://cdn.myanimelist.net/images/anime/5/85268.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: PROPAGATE(開花)

@@ -1,5 +1,7 @@
 # PS3® no Tsukai Kata: feat.Peeping Life
 
+![ps-3-no-tsukai-kata-feat-peeping-life](https://cdn.myanimelist.net/images/anime/7/77237.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: PS3® のつかいかた -feat.Peeping Life-

@@ -1,5 +1,7 @@
 # Pokémon Pocket Monsters
 
+![pokemon-pocket-monsters](https://cdn.myanimelist.net/images/manga/3/23349.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 180

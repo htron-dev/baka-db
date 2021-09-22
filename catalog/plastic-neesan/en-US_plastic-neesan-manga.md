@@ -1,5 +1,7 @@
 # Plastic Neesan
 
+![plastic-neesan](https://cdn.myanimelist.net/images/manga/3/158571.jpg)
+
 -   **type**: manga
 -   **original-name**: ＋チック姉さん
 -   **start-date**: 2009-09-04

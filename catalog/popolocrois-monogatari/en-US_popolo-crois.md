@@ -1,5 +1,7 @@
 # PopoloCrois
 
+![popolo-crois](https://cdn.myanimelist.net/images/anime/8/27541.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ポポロクロイス

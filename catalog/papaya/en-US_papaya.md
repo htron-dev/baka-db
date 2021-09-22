@@ -1,5 +1,7 @@
 # Papaya
 
+![papaya](https://cdn.myanimelist.net/images/manga/2/155644.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **original-name**: 파파야

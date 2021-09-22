@@ -1,5 +1,7 @@
 # Pink Mizu Dorobou Ame Dorobou
 
+![pink-mizu-dorobou-ame-dorobou](https://cdn.myanimelist.net/images/anime/1605/107687.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ピンク みずドロボウあめドロボウ

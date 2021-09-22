@@ -1,5 +1,7 @@
 # Heavy x Beauty: Pretty Babies
 
+![heavy-x-beauty-pretty-babies](https://cdn.myanimelist.net/images/manga/3/156586.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ヘビー × ビューティ ～プリティ・ベイビィズ～

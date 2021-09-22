@@ -1,5 +1,7 @@
 # Papa to Watashi no Versus Nichijou
 
+![papa-to-watashi-no-versus-nichijou](https://cdn.myanimelist.net/images/manga/1/22848.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

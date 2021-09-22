@@ -1,5 +1,7 @@
 # Pink Butterfly
 
+![pink-butterfly](https://cdn.myanimelist.net/images/manga/2/3452.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Peechik Awabi
 
+![peechik-awabi](https://cdn.myanimelist.net/images/manga/3/242668.jpg)
+
 -   **type**: manga
 -   **original-name**: ピーチクアワビ
 -   **start-date**: 2020-08-04

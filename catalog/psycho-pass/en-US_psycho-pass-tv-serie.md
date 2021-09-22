@@ -1,5 +1,7 @@
 # Psycho-Pass
 
+![psycho-pass](https://cdn.myanimelist.net/images/anime/5/43399.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: サイコパス

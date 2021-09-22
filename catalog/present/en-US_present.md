@@ -1,5 +1,7 @@
 # Present
 
+![present](https://cdn.myanimelist.net/images/manga/1/26095.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

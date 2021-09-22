@@ -1,5 +1,7 @@
 # Pikmin Short Movies
 
+![pikmin-short-movies](https://cdn.myanimelist.net/images/anime/2/78421.jpg)
+
 -   **type**: movie
 -   **episodes**: 3
 -   **original-name**: PIKMIN Short Movies (ピクミン　ショートムービー)

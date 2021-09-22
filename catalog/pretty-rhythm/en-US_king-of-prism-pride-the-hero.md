@@ -1,5 +1,7 @@
 # King of Prism: Pride the Hero
 
+![king-of-prism-pride-the-hero](https://cdn.myanimelist.net/images/anime/10/83813.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: KING OF PRISM -PRIDE the HERO-

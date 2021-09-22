@@ -1,5 +1,7 @@
 # Pyuu to Fuku! Jaguar
 
+![pyuu-to-fuku-jaguar](https://cdn.myanimelist.net/images/manga/3/169091.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 438

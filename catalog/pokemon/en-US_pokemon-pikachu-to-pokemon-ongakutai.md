@@ -1,5 +1,7 @@
 # Pokemon: Pikachu to Pokemon Ongakutai
 
+![pokemon-pikachu-to-pokemon-ongakutai](https://cdn.myanimelist.net/images/anime/6/71600.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ポケモン・ザ・ムービー XY『ピカチュウとポケモンおんがくたい』

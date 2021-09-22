@@ -1,5 +1,7 @@
 # Pretty Max
 
+![pretty-max](https://cdn.myanimelist.net/images/manga/3/167503.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 97

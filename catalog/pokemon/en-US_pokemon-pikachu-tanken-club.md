@@ -1,5 +1,7 @@
 # Pokemon: Pikachu Tanken Club
 
+![pokemon-pikachu-tanken-club](https://cdn.myanimelist.net/images/anime/11/18114.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ピカチュウたんけんクラブ

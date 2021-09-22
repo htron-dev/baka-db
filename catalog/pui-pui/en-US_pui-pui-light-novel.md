@@ -1,5 +1,7 @@
 # PuiPui!
 
+![pui-pui](https://cdn.myanimelist.net/images/manga/3/119511.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 11
 -   **original-name**: ぷいぷい!

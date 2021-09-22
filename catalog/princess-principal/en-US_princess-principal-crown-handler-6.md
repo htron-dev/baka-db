@@ -1,5 +1,7 @@
 # Princess Principal: Crown Handler 6
 
+![princess-principal-crown-handler-6](https://cdn.myanimelist.net/images/anime/1056/105626.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: プリンセス・プリンシパル Crown Handler 第 6 話

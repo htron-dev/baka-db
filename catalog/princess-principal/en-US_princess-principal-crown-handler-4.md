@@ -1,5 +1,7 @@
 # Princess Principal: Crown Handler 4
 
+![princess-principal-crown-handler-4](https://cdn.myanimelist.net/images/anime/1656/105624.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: プリンセス・プリンシパル Crown Handler 第 4 話

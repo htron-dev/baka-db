@@ -1,5 +1,7 @@
 # Parno Graffiti
 
+![parno-graffiti](https://cdn.myanimelist.net/images/manga/2/227961.jpg)
+
 -   **type**: manga
 -   **original-name**: パルノグラフィティ
 -   **start-date**: 2019-09-25

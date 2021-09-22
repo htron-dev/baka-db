@@ -1,5 +1,7 @@
 # Pokemon Sun &amp; Moon
 
+![pokemon-sun-amp-moon](https://cdn.myanimelist.net/images/anime/11/84673.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 146
 -   **original-name**: ポケットモンスター サン＆ムーン

@@ -1,5 +1,7 @@
 # Plastic Memories: Say to Good-bye
 
+![plastic-memories-say-to-good-bye](https://cdn.myanimelist.net/images/manga/1/157957.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Yaku Yaku Sports Land
 
+![yaku-yaku-sports-land](https://cdn.myanimelist.net/images/manga/1/156786.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 33

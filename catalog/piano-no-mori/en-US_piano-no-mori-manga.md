@@ -1,5 +1,7 @@
 # Piano no Mori
 
+![piano-no-mori](https://cdn.myanimelist.net/images/manga/2/28336.jpg)
+
 -   **type**: manga
 -   **volumes**: 26
 -   **chapters**: 242

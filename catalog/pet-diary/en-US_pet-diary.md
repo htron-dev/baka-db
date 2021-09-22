@@ -1,5 +1,7 @@
 # Pet Diary
 
+![pet-diary](https://cdn.myanimelist.net/images/manga/2/73541.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 44

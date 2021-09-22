@@ -1,5 +1,7 @@
 # Plastic Little
 
+![plastic-little](https://cdn.myanimelist.net/images/manga/2/3126.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

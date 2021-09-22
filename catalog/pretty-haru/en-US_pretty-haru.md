@@ -1,5 +1,7 @@
 # Pretty Haru
 
+![pretty-haru](https://cdn.myanimelist.net/images/manga/2/52273.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 12

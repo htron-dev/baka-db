@@ -1,5 +1,7 @@
 # PiKA PiKA
 
+![pi-ka-pi-ka](https://cdn.myanimelist.net/images/anime/7/69169.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: PiKA PiKA

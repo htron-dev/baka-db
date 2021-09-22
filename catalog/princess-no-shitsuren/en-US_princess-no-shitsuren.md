@@ -1,5 +1,7 @@
 # Princess no Shitsuren
 
+![princess-no-shitsuren](https://cdn.myanimelist.net/images/manga/2/42473.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

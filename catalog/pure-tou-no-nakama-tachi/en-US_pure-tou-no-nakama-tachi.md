@@ -1,5 +1,7 @@
 # Pure-tou no Nakama-tachi
 
+![pure-tou-no-nakama-tachi](https://cdn.myanimelist.net/images/anime/12/47013.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: セレンディピティ物語 ピュア島の仲間たち

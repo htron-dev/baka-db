@@ -1,5 +1,7 @@
 # Gekijouban Pocket Monster AG: Rekkuu no Houmonsha Deoxys
 
+![gekijouban-pocket-monster-ag-rekkuu-no-houmonsha-deoxys](https://cdn.myanimelist.net/images/manga/1/39114.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

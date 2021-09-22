@@ -1,5 +1,7 @@
 # Pure Love Seasons II: Sakura - Haru / Deai
 
+![pure-love-seasons-ii-sakura-haru-deai](https://cdn.myanimelist.net/images/manga/2/122247.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

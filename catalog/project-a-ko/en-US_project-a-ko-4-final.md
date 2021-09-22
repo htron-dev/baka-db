@@ -1,5 +1,7 @@
 # Project A-Ko 4: Final
 
+![project-a-ko-4-final](https://cdn.myanimelist.net/images/anime/13/29212.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: プロジェクト A 子 -FINAL-

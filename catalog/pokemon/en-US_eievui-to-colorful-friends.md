@@ -1,5 +1,7 @@
 # Eievui to Colorful Friends
 
+![eievui-to-colorful-friends](https://cdn.myanimelist.net/images/anime/3/85684.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: イーブイとカラフルフレンズ

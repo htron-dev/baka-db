@@ -1,5 +1,7 @@
 # Hello Morning Star
 
+![hello-morning-star](https://cdn.myanimelist.net/images/manga/3/224792.jpg)
+
 -   **type**: manga
 -   **original-name**: ハローモーニングスター
 -   **start-date**: 2017-08-28

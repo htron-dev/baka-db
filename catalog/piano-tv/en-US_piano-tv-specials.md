@@ -1,5 +1,7 @@
 # Piano (TV) Specials
 
+![piano-tv-specials](https://cdn.myanimelist.net/images/anime/4/60007.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: PIANO

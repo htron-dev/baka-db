@@ -1,5 +1,7 @@
 # Remnant: Juujin Omegaverse
 
+![remnant-juujin-omegaverse](https://cdn.myanimelist.net/images/manga/1/224197.jpg)
+
 -   **type**: manga
 -   **original-name**: レムナント―獣人オメガバース―
 -   **start-date**: 2016-12-27

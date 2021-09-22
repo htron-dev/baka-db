@@ -1,5 +1,7 @@
 # Megami Ibunroku: Persona
 
+![megami-ibunroku-persona](https://cdn.myanimelist.net/images/manga/3/4889.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 45

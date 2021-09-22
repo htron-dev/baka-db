@@ -1,5 +1,7 @@
 # Popotan
 
+![popotan](https://cdn.myanimelist.net/images/manga/2/165764.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ぽぽたん

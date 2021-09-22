@@ -1,5 +1,7 @@
 # Princess Sword!
 
+![princess-sword](https://cdn.myanimelist.net/images/manga/3/122615.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 43

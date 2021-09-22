@@ -1,5 +1,7 @@
 # Porong Porong Pororo 4
 
+![porong-porong-pororo-4](https://cdn.myanimelist.net/images/anime/11/66623.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 뽀롱뽀롱 뽀로로 4

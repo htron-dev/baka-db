@@ -1,5 +1,7 @@
 # Papa no Iukoto wo Kikinasai!: Rojou Kansatsu Kenkyuu Nisshi
 
+![papa-no-iukoto-wo-kikinasai-rojou-kansatsu-kenkyuu-nisshi](https://cdn.myanimelist.net/images/manga/1/171414.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 32

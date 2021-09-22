@@ -1,5 +1,7 @@
 # Phantasm
 
+![phantasm](https://cdn.myanimelist.net/images/anime/8/71872.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Phantasm

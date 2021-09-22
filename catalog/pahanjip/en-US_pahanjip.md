@@ -1,5 +1,7 @@
 # Pahanjip
 
+![pahanjip](https://cdn.myanimelist.net/images/manga/2/44941.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **chapters**: 21

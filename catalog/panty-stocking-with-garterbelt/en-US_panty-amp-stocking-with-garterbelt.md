@@ -1,5 +1,7 @@
 # Panty &amp; Stocking with Garterbelt
 
+![panty-amp-stocking-with-garterbelt](https://cdn.myanimelist.net/images/anime/12/73643.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: パンティ＆ストッキング with ガーターベルト

@@ -1,5 +1,7 @@
 # Present from Lemon
 
+![present-from-lemon](https://cdn.myanimelist.net/images/manga/3/184664.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

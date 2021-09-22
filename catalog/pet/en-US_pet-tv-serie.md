@@ -1,5 +1,7 @@
 # Pet
 
+![pet](https://cdn.myanimelist.net/images/anime/1399/94794.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ペット

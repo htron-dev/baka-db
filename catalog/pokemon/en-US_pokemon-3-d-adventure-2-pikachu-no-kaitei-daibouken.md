@@ -1,5 +1,7 @@
 # Pokemon 3D Adventure 2: Pikachu no Kaitei Daibouken
 
+![pokemon-3-d-adventure-2-pikachu-no-kaitei-daibouken](https://cdn.myanimelist.net/images/anime/4/30543.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ポケモン 3D アドベンチャー 2 ピカチュウの海底大冒険

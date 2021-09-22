@@ -1,5 +1,7 @@
 # Peeping Life: Tezuka Pro - Tatsunoko Pro Wonderland
 
+![peeping-life-tezuka-pro-tatsunoko-pro-wonderland](https://cdn.myanimelist.net/images/anime/1541/90982.jpg)
+
 -   **type**: ova
 -   **episodes**: 10
 -   **original-name**: Peeping Life 手塚プロ・タツノコプロ ワンダーランド

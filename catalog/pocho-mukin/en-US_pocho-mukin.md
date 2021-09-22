@@ -1,5 +1,7 @@
 # Pocho Mukin
 
+![pocho-mukin](https://cdn.myanimelist.net/images/manga/3/51313.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

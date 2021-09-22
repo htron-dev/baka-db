@@ -1,5 +1,7 @@
 # Pita-Ten
 
+![pita-ten](https://cdn.myanimelist.net/images/manga/3/5743.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: ぴたテン

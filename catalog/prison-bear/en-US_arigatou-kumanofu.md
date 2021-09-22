@@ -1,5 +1,7 @@
 # Arigatou Kumanofu
 
+![arigatou-kumanofu](https://cdn.myanimelist.net/images/anime/8/63757.jpg)
+
 -   **type**: ona
 -   **episodes**: 11
 -   **original-name**: ありがとうくまのふ

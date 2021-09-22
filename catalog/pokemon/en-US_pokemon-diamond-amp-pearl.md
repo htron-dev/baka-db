@@ -1,5 +1,7 @@
 # Pokemon Diamond &amp; Pearl
 
+![pokemon-diamond-amp-pearl](https://cdn.myanimelist.net/images/anime/13/25749.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 191
 -   **original-name**: ポケットモンスター ダイヤモンド&パール

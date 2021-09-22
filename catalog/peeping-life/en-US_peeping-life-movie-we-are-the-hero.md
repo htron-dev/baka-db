@@ -1,5 +1,7 @@
 # Peeping Life Movie: We Are The Hero
 
+![peeping-life-movie-we-are-the-hero](https://cdn.myanimelist.net/images/anime/7/66609.jpg)
+
 -   **type**: ova
 -   **episodes**: 9
 -   **original-name**: Peeping Life -WE ARE THE HERO-

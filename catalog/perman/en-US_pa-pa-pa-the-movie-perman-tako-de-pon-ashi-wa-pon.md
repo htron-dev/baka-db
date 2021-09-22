@@ -1,5 +1,7 @@
 # Pa-Pa-Pa the ★ Movie: Perman - Tako de Pon! Ashi wa Pon!
 
+![pa-pa-pa-the-★-movie-perman-tako-de-pon-ashi-wa-pon](https://cdn.myanimelist.net/images/anime/9/71227.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Pa-Pa-Pa ザ ★ ムービー パーマン タコ DE ポン! アシ HA ポン!

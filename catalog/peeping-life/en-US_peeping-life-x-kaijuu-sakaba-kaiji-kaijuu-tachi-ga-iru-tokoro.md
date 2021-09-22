@@ -1,5 +1,7 @@
 # Peeping Life x Kaijuu Sakaba Kaiji: Kaijuu-tachi ga Iru Tokoro
 
+![peeping-life-x-kaijuu-sakaba-kaiji-kaijuu-tachi-ga-iru-tokoro](https://cdn.myanimelist.net/images/anime/7/77231.jpg)
+
 -   **type**: ova
 -   **episodes**: 10
 -   **original-name**: Peeping Lifex 怪獣酒場 かいじゅうたちがいるところ

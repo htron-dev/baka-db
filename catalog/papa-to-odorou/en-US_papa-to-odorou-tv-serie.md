@@ -1,5 +1,7 @@
 # Papa to Odorou
 
+![papa-to-odorou](https://cdn.myanimelist.net/images/anime/13/72800.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 16
 -   **original-name**: パパと踊ろう

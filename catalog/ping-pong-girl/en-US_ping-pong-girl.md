@@ -1,5 +1,7 @@
 # Ping Pong Girl
 
+![ping-pong-girl](https://cdn.myanimelist.net/images/manga/2/158084.jpg)
+
 -   **type**: manga
 -   **original-name**: ぴんぽんがーる
 -   **start-date**: 2011-05-20

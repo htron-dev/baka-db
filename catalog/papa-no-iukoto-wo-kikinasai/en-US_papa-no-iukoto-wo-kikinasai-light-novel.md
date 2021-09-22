@@ -1,5 +1,7 @@
 # Papa no Iukoto wo Kikinasai!
 
+![papa-no-iukoto-wo-kikinasai](https://cdn.myanimelist.net/images/manga/1/158133.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 18
 -   **chapters**: 144

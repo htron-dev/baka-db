@@ -1,5 +1,7 @@
 # Prison Lab
 
+![prison-lab](https://cdn.myanimelist.net/images/anime/1192/97875.jpg)
+
 -   **type**: ona
 -   **episodes**: 20
 -   **original-name**: 監獄実験〈プリズンラボ〉

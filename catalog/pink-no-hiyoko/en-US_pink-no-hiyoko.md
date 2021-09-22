@@ -1,5 +1,7 @@
 # Pink no Hiyoko
 
+![pink-no-hiyoko](https://cdn.myanimelist.net/images/manga/1/177437.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

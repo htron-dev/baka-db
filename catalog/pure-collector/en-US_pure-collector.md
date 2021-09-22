@@ -1,5 +1,7 @@
 # Pure Collector
 
+![pure-collector](https://cdn.myanimelist.net/images/manga/2/195250.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

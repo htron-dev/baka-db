@@ -1,5 +1,7 @@
 # Pikotarou no Lullaby Lullaby (TV)
 
+![pikotarou-no-lullaby-lullaby-tv](https://cdn.myanimelist.net/images/anime/13/86266.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 9
 -   **original-name**: ピコ太郎のララバイラーラバイ

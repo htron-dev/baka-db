@@ -1,5 +1,7 @@
 # Phantom The Animation
 
+![phantom-the-animation](https://cdn.myanimelist.net/images/anime/12/75176.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ファントム THE ANIMATION

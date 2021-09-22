@@ -1,5 +1,7 @@
 # Persona 4 the Golden Animation: Thank you Mr. Accomplice
 
+![persona-4-the-golden-animation-thank-you-mr-accomplice](https://cdn.myanimelist.net/images/anime/11/68381.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ペルソナ 4 ザ・ゴールデンアニメーション Thank you Mr. Accomplice

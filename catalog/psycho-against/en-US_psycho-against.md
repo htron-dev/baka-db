@@ -1,5 +1,7 @@
 # Psycho Against
 
+![psycho-against](https://cdn.myanimelist.net/images/manga/3/216398.jpg)
+
 -   **type**: manga
 -   **original-name**: サイコアゲンスト
 -   **start-date**: 2018-06-30

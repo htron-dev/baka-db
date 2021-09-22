@@ -1,5 +1,7 @@
 # Perfect Wedding: Hakushaku ni Aisareta Hanayome
 
+![perfect-wedding-hakushaku-ni-aisareta-hanayome](https://cdn.myanimelist.net/images/manga/2/182498.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

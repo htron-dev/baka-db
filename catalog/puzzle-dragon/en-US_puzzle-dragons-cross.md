@@ -1,5 +1,7 @@
 # Puzzle & Dragons Cross
 
+![puzzle-dragons-cross](https://cdn.myanimelist.net/images/anime/5/80793.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 89
 -   **original-name**: パズドラクロス

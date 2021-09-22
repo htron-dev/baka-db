@@ -1,5 +1,7 @@
 # Plunderer
 
+![plunderer](https://cdn.myanimelist.net/images/anime/1534/104784.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: プランダラ

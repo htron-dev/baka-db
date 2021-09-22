@@ -1,5 +1,7 @@
 # Penguin no Ousama
 
+![penguin-no-ousama](https://cdn.myanimelist.net/images/manga/1/28543.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ペンギンの王様

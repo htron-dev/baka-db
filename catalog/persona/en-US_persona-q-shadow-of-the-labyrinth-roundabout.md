@@ -1,5 +1,7 @@
 # Persona Q: Shadow of the Labyrinth - Roundabout
 
+![persona-q-shadow-of-the-labyrinth-roundabout](https://cdn.myanimelist.net/images/manga/1/185392.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 22

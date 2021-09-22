@@ -1,5 +1,7 @@
 # Satoshi to Pikachu
 
+![satoshi-to-pikachu](https://cdn.myanimelist.net/images/manga/4/156351.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 36

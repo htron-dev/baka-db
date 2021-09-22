@@ -1,5 +1,7 @@
 # Prince to Kinjirareta Koi
 
+![prince-to-kinjirareta-koi](https://cdn.myanimelist.net/images/manga/1/73891.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

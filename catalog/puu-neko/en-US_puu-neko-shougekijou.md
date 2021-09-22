@@ -1,5 +1,7 @@
 # Puu-Neko Shougekijou
 
+![puu-neko-shougekijou](https://cdn.myanimelist.net/images/anime/13/32327.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: プ〜ねこ小劇場

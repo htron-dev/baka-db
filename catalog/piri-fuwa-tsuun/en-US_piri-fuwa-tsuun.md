@@ -1,5 +1,7 @@
 # Piri Fuwa Tsuun
 
+![piri-fuwa-tsuun](https://cdn.myanimelist.net/images/manga/1/248310.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 30

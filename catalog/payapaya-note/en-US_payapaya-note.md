@@ -1,5 +1,7 @@
 # Payapaya Note
 
+![payapaya-note](https://cdn.myanimelist.net/images/manga/1/151470.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: パヤパヤ NOTE

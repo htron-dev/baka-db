@@ -1,5 +1,7 @@
 # Pure Love 360 Degrees
 
+![pure-love-360-degrees](https://cdn.myanimelist.net/images/manga/1/7010.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 

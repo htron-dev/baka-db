@@ -1,5 +1,7 @@
 # Psycho Diver: Mashou Bosatsu
 
+![psycho-diver-mashou-bosatsu](https://cdn.myanimelist.net/images/anime/1/1767.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: サイコダイバー 魔性菩薩

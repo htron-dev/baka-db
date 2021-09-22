@@ -1,5 +1,7 @@
 # Psyren
 
+![psyren](https://cdn.myanimelist.net/images/manga/2/160868.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 145

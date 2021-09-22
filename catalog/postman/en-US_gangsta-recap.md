@@ -1,5 +1,7 @@
 # Gangsta. Recap
 
+![gangsta-recap](https://cdn.myanimelist.net/images/anime/5/76109.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: GANGSTA. ギャングスタ

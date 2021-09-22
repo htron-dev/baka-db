@@ -1,5 +1,7 @@
 # Pokemon: Mewtwo! Ware wa Koko ni Ari
 
+![pokemon-mewtwo-ware-wa-koko-ni-ari](https://cdn.myanimelist.net/images/anime/7/87922.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ポケットモンスター ミュウツー! 我ハココニ在リ

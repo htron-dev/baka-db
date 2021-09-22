@@ -1,5 +1,7 @@
 # Pokemon Black and White 2: Introduction Movie
 
+![pokemon-black-and-white-2-introduction-movie](https://cdn.myanimelist.net/images/anime/3/56333.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ポケットモンスターブラック２・ホワイト２

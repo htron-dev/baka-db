@@ -1,5 +1,7 @@
 # P to JK
 
+![p-to-jk](https://cdn.myanimelist.net/images/manga/3/139239.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 65

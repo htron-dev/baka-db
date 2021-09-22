@@ -1,5 +1,7 @@
 # Planetarian: Snow Globe
 
+![planetarian-snow-globe](https://cdn.myanimelist.net/images/anime/1320/106943.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: planetarian ~雪圏球[スノーグローブ]~

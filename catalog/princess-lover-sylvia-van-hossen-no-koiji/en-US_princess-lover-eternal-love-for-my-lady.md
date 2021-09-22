@@ -1,5 +1,7 @@
 # Princess Lover! - Eternal Love for My Lady
 
+![princess-lover-eternal-love-for-my-lady](https://cdn.myanimelist.net/images/manga/2/116783.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

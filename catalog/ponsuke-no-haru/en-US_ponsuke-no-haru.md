@@ -1,5 +1,7 @@
 # Ponsuke no Haru
 
+![ponsuke-no-haru](https://cdn.myanimelist.net/images/anime/4/86272.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ポン助の春

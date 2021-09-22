@@ -1,5 +1,7 @@
 # Pâtissier Sweets a Love
 
+![patissier-sweets-a-love](https://cdn.myanimelist.net/images/manga/1/192241.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

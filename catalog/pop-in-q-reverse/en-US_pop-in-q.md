@@ -1,5 +1,7 @@
 # Pop in Q
 
+![pop-in-q](https://cdn.myanimelist.net/images/anime/1720/107397.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ポッピン Q

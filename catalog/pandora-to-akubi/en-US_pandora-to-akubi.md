@@ -1,5 +1,7 @@
 # Pandora to Akubi
 
+![pandora-to-akubi](https://cdn.myanimelist.net/images/anime/1847/99576.jpg)
+
 -   **type**: movie
 -   **episodes**: 2
 -   **original-name**: パンドラとアクビ

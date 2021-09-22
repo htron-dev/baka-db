@@ -1,5 +1,7 @@
 # Pheromomania Syndrome
 
+![pheromomania-syndrome](https://cdn.myanimelist.net/images/manga/3/58611.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: 女子妄想症候群〈フェロモマニアシンドローム〉

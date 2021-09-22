@@ -1,5 +1,7 @@
 # Pocket Monsters HG SS: Jou no Daibouken
 
+![pocket-monsters-hg-ss-jou-no-daibouken](https://cdn.myanimelist.net/images/manga/2/80007.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

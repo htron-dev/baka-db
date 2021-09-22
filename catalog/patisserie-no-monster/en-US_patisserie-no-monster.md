@@ -1,5 +1,7 @@
 # Pâtisserie no Monster
 
+![patisserie-no-monster](https://cdn.myanimelist.net/images/anime/1464/91691.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: パティシエのモンスター

@@ -1,5 +1,7 @@
 # Pride to Ai to
 
+![pride-to-ai-to](https://cdn.myanimelist.net/images/manga/3/40959.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: プライドと愛と

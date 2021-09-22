@@ -1,5 +1,7 @@
 # Persona 3
 
+![persona-3](https://cdn.myanimelist.net/images/manga/1/2888.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 50

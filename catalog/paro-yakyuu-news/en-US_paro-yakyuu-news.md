@@ -1,5 +1,7 @@
 # Paro Yakyuu News
 
+![paro-yakyuu-news](https://cdn.myanimelist.net/images/manga/1/156788.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **original-name**: パロ野球ニュース

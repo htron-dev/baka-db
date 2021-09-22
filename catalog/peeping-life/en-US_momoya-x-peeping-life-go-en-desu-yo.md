@@ -1,5 +1,7 @@
 # Momoya x Peeping Life: Go en Desu yo!
 
+![momoya-x-peeping-life-go-en-desu-yo](https://cdn.myanimelist.net/images/anime/6/52087.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: 桃屋 ×Peeping Life ご縁ですよ！

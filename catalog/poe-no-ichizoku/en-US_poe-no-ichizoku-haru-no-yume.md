@@ -1,5 +1,7 @@
 # Poe no Ichizoku: Haru no Yume
 
+![poe-no-ichizoku-haru-no-yume](https://cdn.myanimelist.net/images/manga/1/226211.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

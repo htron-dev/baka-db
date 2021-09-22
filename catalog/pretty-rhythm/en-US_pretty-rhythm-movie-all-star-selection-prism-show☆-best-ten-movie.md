@@ -1,5 +1,7 @@
 # Pretty Rhythm Movie: All Star Selection - Prism Show☆Best Ten
 
+![pretty-rhythm-movie-all-star-selection-prism-show☆-best-ten](https://cdn.myanimelist.net/images/anime/8/58503.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 プリティーリズム・オールスターセレクション プリズムショー ☆ ベストテン

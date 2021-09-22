@@ -1,5 +1,7 @@
 # Peach Girl Fan Book
 
+![peach-girl-fan-book](https://cdn.myanimelist.net/images/manga/2/13125.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ピーチガール ファン BOOK

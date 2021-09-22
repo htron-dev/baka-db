@@ -1,5 +1,7 @@
 # Robot Pulta
 
+![robot-pulta](https://cdn.myanimelist.net/images/anime/9/70637.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ロボット・パルタ
 -   **start-date**: 1995-04-04

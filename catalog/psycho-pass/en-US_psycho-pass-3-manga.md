@@ -1,5 +1,7 @@
 # Psycho-Pass 3
 
+![psycho-pass-3](https://cdn.myanimelist.net/images/manga/3/229152.jpg)
+
 -   **type**: manga
 -   **original-name**: PSYCHO-PASS 3
 -   **start-date**: 2019-10-26

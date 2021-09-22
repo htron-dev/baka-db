@@ -1,5 +1,7 @@
 # Ponkotsu Quest x Monsterz
 
+![ponkotsu-quest-x-monsterz](https://cdn.myanimelist.net/images/anime/12/84085.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: ポンコツクエスト ×MONSTERZ モンスターズ特別篇

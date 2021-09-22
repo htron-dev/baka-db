@@ -1,5 +1,7 @@
 # Peeping Life x Sanyo
 
+![peeping-life-x-sanyo](https://cdn.myanimelist.net/images/anime/12/81375.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: Peeping Life×SANYO

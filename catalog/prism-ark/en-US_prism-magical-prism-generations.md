@@ -1,5 +1,7 @@
 # Prism Magical: Prism Generations!
 
+![prism-magical-prism-generations](https://cdn.myanimelist.net/images/anime/2/26282.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: プリズム ☆ ま～じカル PRISM Generations!

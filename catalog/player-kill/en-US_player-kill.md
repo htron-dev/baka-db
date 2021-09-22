@@ -1,5 +1,7 @@
 # Player Kill
 
+![player-kill](https://cdn.myanimelist.net/images/manga/3/13107.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 33
 -   **original-name**: 피케이

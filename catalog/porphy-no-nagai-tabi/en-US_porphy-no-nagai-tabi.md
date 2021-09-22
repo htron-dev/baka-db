@@ -1,5 +1,7 @@
 # Porphy no Nagai Tabi
 
+![porphy-no-nagai-tabi](https://cdn.myanimelist.net/images/anime/11/5585.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: ポルフィの長い旅

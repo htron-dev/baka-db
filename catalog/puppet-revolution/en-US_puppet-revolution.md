@@ -1,5 +1,7 @@
 # Puppet Revolution
 
+![puppet-revolution](https://cdn.myanimelist.net/images/manga/1/129453.jpg)
+
 -   **type**: manga
 -   **original-name**: ぱペットレボリューション
 -   **start-date**: 2002-01-21

@@ -1,5 +1,7 @@
 # Numa, Kurayami, Yoru no Mori
 
+![numa-kurayami-yoru-no-mori](https://cdn.myanimelist.net/images/manga/3/151404.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

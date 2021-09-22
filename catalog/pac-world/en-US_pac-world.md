@@ -1,5 +1,7 @@
 # Pac-World
 
+![pac-world](https://cdn.myanimelist.net/images/anime/7/75298.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: パックワールド

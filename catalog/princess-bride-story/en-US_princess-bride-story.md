@@ -1,5 +1,7 @@
 # Princess Bride Story
 
+![princess-bride-story](https://cdn.myanimelist.net/images/manga/1/41040.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

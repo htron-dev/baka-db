@@ -1,5 +1,7 @@
 # Papillon: Hana to Chou
 
+![papillon-hana-to-chou](https://cdn.myanimelist.net/images/manga/3/129871.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 40

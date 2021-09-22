@@ -1,5 +1,7 @@
 # Promise
 
+![promise](https://cdn.myanimelist.net/images/manga/1/20417.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

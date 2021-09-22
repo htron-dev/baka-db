@@ -1,5 +1,7 @@
 # Psycho-Pass: Sinners of the System Case.3 - Onshuu no Kanata ni＿＿
 
+![psycho-pass-sinners-of-the-system-case-3-onshuu-no-kanata-ni＿＿](https://cdn.myanimelist.net/images/anime/1819/97220.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: PSYCHO-PASS サイコパス Sinners of the System Case.3「恩讐の彼方に＿＿」

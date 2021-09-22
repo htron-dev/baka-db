@@ -1,5 +1,7 @@
 # Paradise Residence
 
+![paradise-residence](https://cdn.myanimelist.net/images/manga/3/125691.jpg)
+
 -   **type**: light-novel
 -   **original-name**: パラダイスレジデンス
 -   **start-date**: 2011-12-02

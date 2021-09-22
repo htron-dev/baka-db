@@ -1,5 +1,7 @@
 # Pants no Ana: Mambo de Ganbo!
 
+![pants-no-ana-mambo-de-ganbo](https://cdn.myanimelist.net/images/anime/10/29981.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: パンツの穴 まんぼで GANBO!

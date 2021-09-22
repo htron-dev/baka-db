@@ -1,5 +1,7 @@
 # Project A-Ko 3: Cinderella Rhapsody
 
+![project-a-ko-3-cinderella-rhapsody](https://cdn.myanimelist.net/images/anime/1087/92669.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: プロジェクト A 子 3 シンデレララプソディ

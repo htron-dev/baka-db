@@ -1,5 +1,7 @@
 # Poketoon
 
+![poketoon](https://cdn.myanimelist.net/images/anime/1941/117693.jpg)
+
 -   **type**: ona
 -   **original-name**: ズルッグとミミッキュ
 -   **start-date**: 2020-06-04

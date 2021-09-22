@@ -1,5 +1,7 @@
 # Princess Principal: Crown Handler Movie 1 - Busy Easy Money
 
+![princess-principal-crown-handler-movie-1-busy-easy-money](https://cdn.myanimelist.net/images/anime/1566/115608.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: プリンセス・プリンシパル Crown Handler BUSY EASY MONEY

@@ -1,5 +1,7 @@
 # Piano no Mori (TV) 2nd Season
 
+![piano-no-mori-tv-2nd-season](https://cdn.myanimelist.net/images/anime/1186/100864.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ピアノの森 第 2 シリーズ

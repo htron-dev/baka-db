@@ -1,5 +1,7 @@
 # Pure-Mari
 
+![pure-mari](https://cdn.myanimelist.net/images/manga/2/79775.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

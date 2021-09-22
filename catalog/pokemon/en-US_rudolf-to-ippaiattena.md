@@ -1,5 +1,7 @@
 # Rudolf to Ippaiattena
 
+![rudolf-to-ippaiattena](https://cdn.myanimelist.net/images/anime/2/87389.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ルドルフとイッパイアッテナ

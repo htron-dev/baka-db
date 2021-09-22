@@ -1,5 +1,7 @@
 # Pokemon Movie 22: Mewtwo no Gyakushuu Evolution
 
+![pokemon-movie-22-mewtwo-no-gyakushuu-evolution](https://cdn.myanimelist.net/images/anime/1207/99489.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 ポケットモンスター ミュウツーの逆襲 evolution

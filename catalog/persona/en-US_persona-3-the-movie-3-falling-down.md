@@ -1,5 +1,7 @@
 # Persona 3 the Movie 3: Falling Down
 
+![persona-3-the-movie-3-falling-down](https://cdn.myanimelist.net/images/anime/8/72443.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: PERSONA3 THE MOVIE —#3 Falling Down—

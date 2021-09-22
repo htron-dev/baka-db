@@ -1,5 +1,7 @@
 # Princess Lover!
 
+![princess-lover](https://cdn.myanimelist.net/images/manga/1/72237.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

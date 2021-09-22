@@ -1,5 +1,7 @@
 # Padak Padak
 
+![padak-padak](https://cdn.myanimelist.net/images/anime/8/79860.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 파닥파닥

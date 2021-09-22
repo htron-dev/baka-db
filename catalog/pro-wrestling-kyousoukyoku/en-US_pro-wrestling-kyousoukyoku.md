@@ -1,5 +1,7 @@
 # Pro Wrestling Kyousoukyoku
 
+![pro-wrestling-kyousoukyoku](https://cdn.myanimelist.net/images/manga/1/165209.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: プロレス狂想曲

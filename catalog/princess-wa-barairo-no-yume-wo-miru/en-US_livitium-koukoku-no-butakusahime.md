@@ -1,5 +1,7 @@
 # Livitium Koukoku no Butakusahime
 
+![livitium-koukoku-no-butakusahime](https://cdn.myanimelist.net/images/manga/2/172826.jpg)
+
 -   **type**: light-novel
 -   **original-name**: リビティウム皇国のブタクサ姫
 -   **start-date**: 2015-08-10

@@ -1,5 +1,7 @@
 # Princess Lover! - Pure My Heart
 
+![princess-lover-pure-my-heart](https://cdn.myanimelist.net/images/manga/2/23082.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Pokemon Movie 14 Black: Victini to Shiroki Eiyuu Reshiram
 
+![pokemon-movie-14-black-victini-to-shiroki-eiyuu-reshiram](https://cdn.myanimelist.net/images/anime/9/29621.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 ポケットモンスター ベストウイッシュ ビクティニと白き英雄 レシラム

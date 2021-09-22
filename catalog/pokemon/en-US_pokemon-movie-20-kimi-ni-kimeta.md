@@ -1,5 +1,7 @@
 # Pokemon Movie 20: Kimi ni Kimeta!
 
+![pokemon-movie-20-kimi-ni-kimeta](https://cdn.myanimelist.net/images/anime/6/85787.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版ポケットモンスター キミにきめた！

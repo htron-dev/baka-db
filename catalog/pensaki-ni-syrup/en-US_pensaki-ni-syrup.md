@@ -1,5 +1,7 @@
 # Pensaki ni Syrup
 
+![pensaki-ni-syrup](https://cdn.myanimelist.net/images/manga/2/148307.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 24

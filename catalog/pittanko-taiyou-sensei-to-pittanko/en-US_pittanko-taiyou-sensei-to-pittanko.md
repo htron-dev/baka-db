@@ -1,5 +1,7 @@
 # Pittanko! Taiyou-sensei to Pittanko
 
+![pittanko-taiyou-sensei-to-pittanko](https://cdn.myanimelist.net/images/anime/12/76254.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ぴったんこ！-太陽先生とぴったんこ-

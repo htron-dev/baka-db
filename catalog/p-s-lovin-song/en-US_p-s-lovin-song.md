@@ -1,5 +1,7 @@
 # P.S. Lovin' Song
 
+![p-s-lovin-song](https://cdn.myanimelist.net/images/manga/1/13508.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: タペストリー

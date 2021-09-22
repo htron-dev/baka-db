@@ -1,5 +1,7 @@
 # Punisher
 
+![punisher](https://cdn.myanimelist.net/images/manga/2/116177.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 60

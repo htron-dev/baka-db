@@ -1,5 +1,7 @@
 # Anime Prison School wo Tsukutta Otoko-tachi
 
+![anime-prison-school-wo-tsukutta-otoko-tachi](https://cdn.myanimelist.net/images/manga/2/173981.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

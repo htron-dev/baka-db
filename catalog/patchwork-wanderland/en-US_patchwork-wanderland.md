@@ -1,5 +1,7 @@
 # Patchwork! Wanderland
 
+![patchwork-wanderland](https://cdn.myanimelist.net/images/manga/2/163958.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 19

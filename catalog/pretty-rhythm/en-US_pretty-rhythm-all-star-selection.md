@@ -1,5 +1,7 @@
 # Pretty Rhythm: All Star Selection
 
+![pretty-rhythm-all-star-selection](https://cdn.myanimelist.net/images/anime/12/60581.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: プリティーリズム・オールスターセレクション

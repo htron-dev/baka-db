@@ -1,5 +1,7 @@
 # Pucca (ONA)
 
+![pucca-ona](https://cdn.myanimelist.net/images/anime/2/7414.jpg)
+
 -   **type**: ona
 -   **episodes**: 46
 -   **original-name**: プッカ

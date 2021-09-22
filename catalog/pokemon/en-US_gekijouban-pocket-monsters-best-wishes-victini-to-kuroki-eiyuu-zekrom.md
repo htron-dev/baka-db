@@ -1,5 +1,7 @@
 # Gekijouban Pocket Monsters Best Wishes: Victini to Kuroki Eiyuu Zekrom
 
+![gekijouban-pocket-monsters-best-wishes-victini-to-kuroki-eiyuu-zekrom](https://cdn.myanimelist.net/images/manga/3/92627.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

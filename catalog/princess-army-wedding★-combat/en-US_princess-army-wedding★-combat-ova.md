@@ -1,5 +1,7 @@
 # Princess Army: Wedding★Combat
 
+![princess-army-wedding★-combat](https://cdn.myanimelist.net/images/anime/4/6093.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ぷりんせす ARMY - ウェディング ★COMBAT -

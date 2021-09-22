@@ -1,5 +1,7 @@
 # Paperweight Eye
 
+![paperweight-eye](https://cdn.myanimelist.net/images/manga/1/125315.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

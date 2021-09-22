@@ -1,5 +1,7 @@
 # Pokemon Movie 11: Giratina to Sora no Hanataba Sheimi
 
+![pokemon-movie-11-giratina-to-sora-no-hanataba-sheimi](https://cdn.myanimelist.net/images/anime/3/21316.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ポケットモンスター ダイヤモンド&パール ギラティナと氷空の花束 シェイミ

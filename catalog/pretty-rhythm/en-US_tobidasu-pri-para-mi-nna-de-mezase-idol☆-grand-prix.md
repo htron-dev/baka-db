@@ -1,5 +1,7 @@
 # Tobidasu PriPara: Mi~nna de Mezase! Idol☆Grand Prix
 
+![tobidasu-pri-para-mi-nna-de-mezase-idol☆-grand-prix](https://cdn.myanimelist.net/images/anime/5/75800.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: とびだすプリパラ　み～んなでめざせ！アイドル ☆ グランプリ

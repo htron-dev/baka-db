@@ -1,5 +1,7 @@
 # Puppy, My Love
 
+![puppy-my-love](https://cdn.myanimelist.net/images/manga/3/63871.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

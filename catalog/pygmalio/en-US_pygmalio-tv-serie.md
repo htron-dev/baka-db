@@ -1,5 +1,7 @@
 # Pygmalio
 
+![pygmalio](https://cdn.myanimelist.net/images/anime/13/6675.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: ピグマリオ

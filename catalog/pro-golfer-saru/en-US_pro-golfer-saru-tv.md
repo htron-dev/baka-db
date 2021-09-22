@@ -1,5 +1,7 @@
 # Pro Golfer Saru (TV)
 
+![pro-golfer-saru-tv](https://cdn.myanimelist.net/images/anime/11/45042.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 143
 -   **original-name**: プロゴルファー猿

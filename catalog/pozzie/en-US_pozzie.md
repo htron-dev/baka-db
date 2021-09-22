@@ -1,5 +1,7 @@
 # Pozzie
 
+![pozzie](https://cdn.myanimelist.net/images/anime/11/23871.jpg)
+
 -   **type**: special
 -   **episodes**: 17
 -   **original-name**: ポッツィー

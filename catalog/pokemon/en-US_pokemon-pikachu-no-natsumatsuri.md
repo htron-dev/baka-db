@@ -1,5 +1,7 @@
 # Pokemon: Pikachu no Natsumatsuri
 
+![pokemon-pikachu-no-natsumatsuri](https://cdn.myanimelist.net/images/anime/11/12259.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ピカチュウのなつまつり

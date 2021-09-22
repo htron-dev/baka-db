@@ -1,5 +1,7 @@
 # Papa wa Warumono!?
 
+![papa-wa-warumono](https://cdn.myanimelist.net/images/manga/1/13804.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: パパは悪者!?

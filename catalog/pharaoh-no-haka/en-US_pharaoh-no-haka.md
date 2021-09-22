@@ -1,5 +1,7 @@
 # Pharaoh no Haka
 
+![pharaoh-no-haka](https://cdn.myanimelist.net/images/manga/3/12823.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: ファラオの墓

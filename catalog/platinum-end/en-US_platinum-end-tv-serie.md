@@ -1,5 +1,7 @@
 # Platinum End
 
+![platinum-end](https://cdn.myanimelist.net/images/anime/1992/116576.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: プラチナエンド

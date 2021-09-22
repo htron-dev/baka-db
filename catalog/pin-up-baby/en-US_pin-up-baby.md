@@ -1,5 +1,7 @@
 # Pin-up Baby
 
+![pin-up-baby](https://cdn.myanimelist.net/images/manga/3/229437.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

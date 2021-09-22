@@ -1,5 +1,7 @@
 # Persona: Tsumi to Batsu
 
+![persona-tsumi-to-batsu](https://cdn.myanimelist.net/images/manga/3/27921.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

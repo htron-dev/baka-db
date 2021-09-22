@@ -1,5 +1,7 @@
 # Plus 50000-nen
 
+![plus-50000-nen](https://cdn.myanimelist.net/images/anime/6/71781.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: プラス 50000 年

@@ -1,5 +1,7 @@
 # Persona 4 The Magician
 
+![persona-4-the-magician](https://cdn.myanimelist.net/images/manga/5/87417.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

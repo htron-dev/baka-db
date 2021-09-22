@@ -1,5 +1,7 @@
 # Platonic Chain: Web
 
+![platonic-chain-web](https://cdn.myanimelist.net/images/anime/13/11291.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: プラトニック・チェーン

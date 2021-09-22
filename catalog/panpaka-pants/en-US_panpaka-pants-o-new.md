@@ -1,5 +1,7 @@
 # Panpaka Pants O-New!
 
+![panpaka-pants-o-new](https://cdn.myanimelist.net/images/anime/8/79174.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: パンパカパンツ お NEW！

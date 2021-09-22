@@ -1,5 +1,7 @@
 # PikkaPika Summer
 
+![pikka-pika-summer](https://cdn.myanimelist.net/images/anime/9/74913.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 31
 -   **original-name**: ぴっかぴかサマー

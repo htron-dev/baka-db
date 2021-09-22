@@ -1,5 +1,7 @@
 # Prison School
 
+![prison-school](https://cdn.myanimelist.net/images/anime/1286/112161.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 監獄学園〈プリズンスクール〉

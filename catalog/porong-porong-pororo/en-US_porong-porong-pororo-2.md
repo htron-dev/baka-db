@@ -1,5 +1,7 @@
 # Porong Porong Pororo 2
 
+![porong-porong-pororo-2](https://cdn.myanimelist.net/images/anime/12/66615.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 뽀롱뽀롱 뽀로로 2

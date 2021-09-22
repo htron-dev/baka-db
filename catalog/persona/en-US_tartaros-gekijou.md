@@ -1,5 +1,7 @@
 # Tartaros Gekijou
 
+![tartaros-gekijou](https://cdn.myanimelist.net/images/manga/3/117923.jpg)
+
 -   **type**: manga
 -   **original-name**: タルタロス劇場
 

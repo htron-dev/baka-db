@@ -1,5 +1,7 @@
 # Gekijouban Pocket Monster Advanced Generation: Nanayo no Negaiboshi Jirachi
 
+![gekijouban-pocket-monster-advanced-generation-nanayo-no-negaiboshi-jirachi](https://cdn.myanimelist.net/images/manga/3/34957.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

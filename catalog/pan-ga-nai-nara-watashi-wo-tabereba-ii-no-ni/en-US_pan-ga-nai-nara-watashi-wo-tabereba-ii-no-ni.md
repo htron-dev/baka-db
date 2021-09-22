@@ -1,5 +1,7 @@
 # Pan ga Nai nara Watashi wo Tabereba Ii no ni
 
+![pan-ga-nai-nara-watashi-wo-tabereba-ii-no-ni](https://cdn.myanimelist.net/images/manga/3/139851.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

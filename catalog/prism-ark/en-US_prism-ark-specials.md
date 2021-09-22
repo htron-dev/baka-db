@@ -1,5 +1,7 @@
 # Prism Ark Specials
 
+![prism-ark-specials](https://cdn.myanimelist.net/images/anime/13/8747.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: プリズム・アーク ぷりあーく

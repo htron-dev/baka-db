@@ -1,5 +1,7 @@
 # Pilgrim Jager
 
+![pilgrim-jager](https://cdn.myanimelist.net/images/manga/3/9102.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: ピルグリム・イェーガー

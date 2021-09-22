@@ -1,5 +1,7 @@
 # Princess Lover!
 
+![princess-lover](https://cdn.myanimelist.net/images/anime/7/75519.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: プリンセスラバー!

@@ -1,5 +1,7 @@
 # Pretty Rhythm: Aurora Dream - Prism Shougekijou
 
+![pretty-rhythm-aurora-dream-prism-shougekijou](https://cdn.myanimelist.net/images/anime/4/33291.jpg)
+
 -   **type**: special
 -   **episodes**: 51
 -   **original-name**: プリティーリズム・オーロラドリーム　プリズム笑劇場

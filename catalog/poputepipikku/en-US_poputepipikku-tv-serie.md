@@ -1,5 +1,7 @@
 # Poputepipikku
 
+![poputepipikku](https://cdn.myanimelist.net/images/anime/3/88816.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ポプテピピック

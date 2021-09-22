@@ -1,5 +1,7 @@
 # Prism Palette
 
+![prism-palette](https://cdn.myanimelist.net/images/manga/4/951.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

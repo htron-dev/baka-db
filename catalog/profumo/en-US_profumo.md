@@ -1,5 +1,7 @@
 # Profumo!
 
+![profumo](https://cdn.myanimelist.net/images/manga/3/204924.jpg)
+
 -   **type**: manga
 -   **original-name**: プロフーモ！
 -   **start-date**: 2017-12-11

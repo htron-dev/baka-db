@@ -1,5 +1,7 @@
 # Practiced Liar
 
+![practiced-liar](https://cdn.myanimelist.net/images/manga/3/246637.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

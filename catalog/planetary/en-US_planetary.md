@@ -1,5 +1,7 @@
 # Planetary\*
 
+![planetary](https://cdn.myanimelist.net/images/manga/1/36801.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

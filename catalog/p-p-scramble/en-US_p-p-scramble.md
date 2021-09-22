@@ -1,5 +1,7 @@
 # P. P. Scramble
 
+![p-p-scramble](https://cdn.myanimelist.net/images/manga/1/8066.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: Ｐ．Ｐ． すくらんぶる

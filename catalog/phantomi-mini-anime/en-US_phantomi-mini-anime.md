@@ -1,5 +1,7 @@
 # Phantomi: Mini Anime
 
+![phantomi-mini-anime](https://cdn.myanimelist.net/images/anime/1034/102820.jpg)
+
 -   **type**: ona
 -   **original-name**: ファントミ ミニアニメ
 -   **start-date**: 2019-08-05

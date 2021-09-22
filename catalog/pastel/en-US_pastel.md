@@ -1,5 +1,7 @@
 # Pastel
 
+![pastel](https://cdn.myanimelist.net/images/manga/1/188952.jpg)
+
 -   **type**: manga
 -   **volumes**: 44
 -   **chapters**: 219

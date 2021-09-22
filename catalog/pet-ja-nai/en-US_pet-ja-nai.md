@@ -1,5 +1,7 @@
 # Pet ja Nai!
 
+![pet-ja-nai](https://cdn.myanimelist.net/images/manga/2/36433.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # PriPara &amp; Kiratto Pri☆chan Movie: Kirakira Memorial Live
 
+![pri-para-amp-kiratto-pri☆chan-movie-kirakira-memorial-live](https://cdn.myanimelist.net/images/anime/1789/91453.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 プリパラ＆キラッとプリ ☆ チャン ～きらきらメモリアルライブ～

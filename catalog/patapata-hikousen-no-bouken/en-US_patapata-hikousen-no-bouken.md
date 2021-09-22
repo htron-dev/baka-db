@@ -1,5 +1,7 @@
 # Patapata Hikousen no Bouken
 
+![patapata-hikousen-no-bouken](https://cdn.myanimelist.net/images/anime/1340/110804.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: パタパタ飛行船の冒険

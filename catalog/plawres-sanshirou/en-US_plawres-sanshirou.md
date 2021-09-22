@@ -1,5 +1,7 @@
 # Plawres Sanshirou
 
+![plawres-sanshirou](https://cdn.myanimelist.net/images/anime/1/1873.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 37
 -   **original-name**: プラレス３四郎

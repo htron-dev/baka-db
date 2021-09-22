@@ -1,5 +1,7 @@
 # Pinky Monkey x FaFa Collaboration Animation: At Afternoon of Sunny Day
 
+![pinky-monkey-x-fa-fa-collaboration-animation-at-afternoon-of-sunny-day](https://cdn.myanimelist.net/images/anime/4/70667.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ピンキーモンキー x ファーファ コラボ動画 - at afternoon of sunny day -

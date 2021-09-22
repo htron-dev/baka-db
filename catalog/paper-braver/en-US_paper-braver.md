@@ -1,5 +1,7 @@
 # Paper Braver
 
+![paper-braver](https://cdn.myanimelist.net/images/manga/2/185302.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 64

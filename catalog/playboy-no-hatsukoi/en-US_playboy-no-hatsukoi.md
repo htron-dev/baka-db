@@ -1,5 +1,7 @@
 # Playboy no Hatsukoi
 
+![playboy-no-hatsukoi](https://cdn.myanimelist.net/images/manga/5/111757.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

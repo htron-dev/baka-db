@@ -1,5 +1,7 @@
 # Playboy no Yuuutsu
 
+![playboy-no-yuuutsu](https://cdn.myanimelist.net/images/manga/1/247258.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: プレイボーイの憂鬱

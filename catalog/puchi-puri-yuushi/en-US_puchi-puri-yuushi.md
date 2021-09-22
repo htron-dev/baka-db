@@ -1,5 +1,7 @@
 # Puchi Puri Yuushi
 
+![puchi-puri-yuushi](https://cdn.myanimelist.net/images/manga/1/4108.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

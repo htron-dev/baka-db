@@ -1,5 +1,7 @@
 # Pochapocha Suiei-bu
 
+![pochapocha-suiei-bu](https://cdn.myanimelist.net/images/manga/2/150555.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: ぽちゃぽちゃ水泳部

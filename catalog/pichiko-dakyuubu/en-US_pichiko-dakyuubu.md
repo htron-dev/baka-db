@@ -1,5 +1,7 @@
 # Pichiko Dakyuubu
 
+![pichiko-dakyuubu](https://cdn.myanimelist.net/images/anime/2/75830.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 29
 -   **original-name**: ピチ高野球部

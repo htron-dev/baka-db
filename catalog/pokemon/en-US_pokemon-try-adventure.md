@@ -1,5 +1,7 @@
 # Pokémon Try Adventure
 
+![pokemon-try-adventure](https://cdn.myanimelist.net/images/manga/3/68343.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 49

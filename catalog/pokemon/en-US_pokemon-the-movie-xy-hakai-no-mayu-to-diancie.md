@@ -1,5 +1,7 @@
 # Pokémon the Movie XY: Hakai no Mayu to Diancie
 
+![pokemon-the-movie-xy-hakai-no-mayu-to-diancie](https://cdn.myanimelist.net/images/manga/3/155108.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

@@ -1,5 +1,7 @@
 # Papa no Iukoto wo Kikinasai!: Usagi no Mark
 
+![papa-no-iukoto-wo-kikinasai-usagi-no-mark](https://cdn.myanimelist.net/images/manga/2/96911.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

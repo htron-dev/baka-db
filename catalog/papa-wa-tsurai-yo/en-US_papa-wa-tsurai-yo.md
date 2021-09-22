@@ -1,5 +1,7 @@
 # Papa wa Tsurai yo
 
+![papa-wa-tsurai-yo](https://cdn.myanimelist.net/images/manga/3/62229.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

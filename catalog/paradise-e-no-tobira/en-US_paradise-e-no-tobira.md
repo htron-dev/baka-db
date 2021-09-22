@@ -1,5 +1,7 @@
 # Paradise e No Tobira
 
+![paradise-e-no-tobira](https://cdn.myanimelist.net/images/manga/1/23674.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

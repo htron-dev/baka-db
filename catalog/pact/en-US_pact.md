@@ -1,5 +1,7 @@
 # Pact
 
+![pact](https://cdn.myanimelist.net/images/manga/1/135563.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 45

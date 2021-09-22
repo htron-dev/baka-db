@@ -1,5 +1,7 @@
 # Pathos
 
+![pathos](https://cdn.myanimelist.net/images/manga/1/58153.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

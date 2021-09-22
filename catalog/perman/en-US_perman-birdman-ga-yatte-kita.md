@@ -1,5 +1,7 @@
 # Perman: Birdman ga Yatte Kita!!
 
+![perman-birdman-ga-yatte-kita](https://cdn.myanimelist.net/images/anime/5/71231.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: パーマン バードマンがやって来た!!

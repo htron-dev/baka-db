@@ -1,5 +1,7 @@
 # Ponytail Hakusho
 
+![ponytail-hakusho](https://cdn.myanimelist.net/images/manga/1/159826.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 21

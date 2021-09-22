@@ -1,5 +1,7 @@
 # Gekijouban Pocket Monsters Diamond & Pearl: Arceus Choukoku no Jikuu e
 
+![gekijouban-pocket-monsters-diamond-pearl-arceus-choukoku-no-jikuu-e](https://cdn.myanimelist.net/images/manga/3/127495.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

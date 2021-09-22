@@ -1,5 +1,7 @@
 # Pokemon XY&amp;Z
 
+![pokemon-xy-amp-z](https://cdn.myanimelist.net/images/anime/1599/94412.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 47
 -   **original-name**: ポケットモンスター XY&Z

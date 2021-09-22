@@ -1,5 +1,7 @@
 # Piano no Mushi
 
+![piano-no-mushi](https://cdn.myanimelist.net/images/manga/3/163828.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 117

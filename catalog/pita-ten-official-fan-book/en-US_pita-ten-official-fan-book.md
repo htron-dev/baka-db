@@ -1,5 +1,7 @@
 # Pita-ten Official Fan Book
 
+![pita-ten-official-fan-book](https://cdn.myanimelist.net/images/manga/1/23655.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 

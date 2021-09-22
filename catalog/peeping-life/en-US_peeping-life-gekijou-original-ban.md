@@ -1,5 +1,7 @@
 # Peeping Life: Gekijou Original-ban
 
+![peeping-life-gekijou-original-ban](https://cdn.myanimelist.net/images/anime/10/59037.jpg)
+
 -   **type**: movie
 -   **episodes**: 5
 -   **original-name**: Peeping Life 劇場オリジナル版

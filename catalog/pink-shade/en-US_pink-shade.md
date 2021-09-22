@@ -1,5 +1,7 @@
 # Pink Shade
 
+![pink-shade](https://cdn.myanimelist.net/images/manga/3/26004.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

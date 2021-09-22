@@ -1,5 +1,7 @@
 # Pikapika Kachiku
 
+![pikapika-kachiku](https://cdn.myanimelist.net/images/manga/1/18007.jpg)
+
 -   **type**: manga
 -   **original-name**: ピカピカ家畜
 

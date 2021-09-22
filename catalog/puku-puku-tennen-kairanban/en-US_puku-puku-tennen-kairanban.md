@@ -1,5 +1,7 @@
 # Puku Puku Tennen Kairanban
 
+![puku-puku-tennen-kairanban](https://cdn.myanimelist.net/images/manga/3/183880.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: ぷくぷく天然かいらんばん

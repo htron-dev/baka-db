@@ -1,5 +1,7 @@
 # Pennant Race: Yamada Taichi no Kiseki
 
+![pennant-race-yamada-taichi-no-kiseki](https://cdn.myanimelist.net/images/manga/1/211259.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 127

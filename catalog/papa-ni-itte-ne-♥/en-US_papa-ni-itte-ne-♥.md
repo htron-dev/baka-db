@@ -1,5 +1,7 @@
 # Papa ni Itte ne ♥
 
+![papa-ni-itte-ne-♥](https://cdn.myanimelist.net/images/manga/3/97363.jpg)
+
 -   **type**: manga
 -   **original-name**: パパにいってね ♥
 -   **start-date**: 2011-03-01

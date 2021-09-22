@@ -1,5 +1,7 @@
 # Private Magician
 
+![private-magician](https://cdn.myanimelist.net/images/manga/3/194917.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: プライベート マジシャン

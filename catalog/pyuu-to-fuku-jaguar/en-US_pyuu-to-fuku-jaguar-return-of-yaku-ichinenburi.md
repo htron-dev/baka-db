@@ -1,5 +1,7 @@
 # Pyuu to Fuku! Jaguar: Return of Yaku Ichinenburi
 
+![pyuu-to-fuku-jaguar-return-of-yaku-ichinenburi](https://cdn.myanimelist.net/images/anime/9/61817.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ピューと吹く! ジャガー リターン・オブ・約 1 年ぶり

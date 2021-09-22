@@ -1,5 +1,7 @@
 # Planet With
 
+![planet-with](https://cdn.myanimelist.net/images/anime/1985/95103.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: プラネット・ウィズ

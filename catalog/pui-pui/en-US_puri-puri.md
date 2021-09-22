@@ -1,5 +1,7 @@
 # PuriPuri!!
 
+![puri-puri](https://cdn.myanimelist.net/images/manga/1/119523.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: ぷりぷり!!

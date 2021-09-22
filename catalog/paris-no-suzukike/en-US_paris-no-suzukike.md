@@ -1,5 +1,7 @@
 # Paris no Suzukike
 
+![paris-no-suzukike](https://cdn.myanimelist.net/images/manga/3/85579.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: パリの鈴木家

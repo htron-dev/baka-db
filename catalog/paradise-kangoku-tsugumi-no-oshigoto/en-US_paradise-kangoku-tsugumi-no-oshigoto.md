@@ -1,5 +1,7 @@
 # Paradise Kangoku: Tsugumi no Oshigoto
 
+![paradise-kangoku-tsugumi-no-oshigoto](https://cdn.myanimelist.net/images/manga/3/196373.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

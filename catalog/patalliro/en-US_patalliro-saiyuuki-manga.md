@@ -1,5 +1,7 @@
 # Patalliro Saiyuuki!
 
+![patalliro-saiyuuki](https://cdn.myanimelist.net/images/manga/3/184346.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 48

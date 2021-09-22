@@ -1,5 +1,7 @@
 # Penguin Prince
 
+![penguin-prince](https://cdn.myanimelist.net/images/manga/2/171758.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

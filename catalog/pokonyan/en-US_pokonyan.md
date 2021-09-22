@@ -1,5 +1,7 @@
 # Pokonyan!
 
+![pokonyan](https://cdn.myanimelist.net/images/anime/13/15707.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 170
 -   **original-name**: ポコニャン！

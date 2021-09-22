@@ -1,5 +1,7 @@
 # Persona 4 the Golden Animation
 
+![persona-4-the-golden-animation](https://cdn.myanimelist.net/images/anime/3/63251.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ペルソナ 4 ザ・ゴールデンアニメーション

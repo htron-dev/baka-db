@@ -1,5 +1,7 @@
 # Pokemon Advanced Generation
 
+![pokemon-advanced-generation](https://cdn.myanimelist.net/images/anime/3/85774.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 192
 -   **original-name**: ポケットモンスター　アドバンスジェネレーション

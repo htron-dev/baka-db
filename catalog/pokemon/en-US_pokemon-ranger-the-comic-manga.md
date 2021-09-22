@@ -1,5 +1,7 @@
 # Pokémon Ranger: the Comic
 
+![pokemon-ranger-the-comic](https://cdn.myanimelist.net/images/manga/3/4809.jpg)
+
 -   **type**: manga
 -   **chapters**: 5
 -   **original-name**: W ミッションストーリ ポケモンレンジャー the Comic

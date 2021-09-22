@@ -1,5 +1,7 @@
 # Pie wo Agemasho, Anata ni Pie wo ne
 
+![pie-wo-agemasho-anata-ni-pie-wo-ne](https://cdn.myanimelist.net/images/manga/3/165454.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

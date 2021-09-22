@@ -1,5 +1,7 @@
 # Peeban
 
+![peeban](https://cdn.myanimelist.net/images/anime/5/81609.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: ピーバン

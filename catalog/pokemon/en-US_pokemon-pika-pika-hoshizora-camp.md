@@ -1,5 +1,7 @@
 # Pokemon: Pika Pika Hoshizora Camp
 
+![pokemon-pika-pika-hoshizora-camp](https://cdn.myanimelist.net/images/anime/1258/97387.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ピカピカ星空キャンプ

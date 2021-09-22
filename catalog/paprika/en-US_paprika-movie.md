@@ -1,5 +1,7 @@
 # Paprika
 
+![paprika](https://cdn.myanimelist.net/images/anime/1929/93629.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: パプリカ

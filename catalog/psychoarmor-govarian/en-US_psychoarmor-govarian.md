@@ -1,5 +1,7 @@
 # Psychoarmor Govarian
 
+![psychoarmor-govarian](https://cdn.myanimelist.net/images/anime/6/65997.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: サイコアーマー ゴーバリアン

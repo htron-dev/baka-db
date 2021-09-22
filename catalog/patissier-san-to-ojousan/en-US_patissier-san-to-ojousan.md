@@ -1,5 +1,7 @@
 # Pâtissier-san to Ojousan
 
+![patissier-san-to-ojousan](https://cdn.myanimelist.net/images/manga/1/225979.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 25

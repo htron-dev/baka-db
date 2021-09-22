@@ -1,5 +1,7 @@
 # Paradise Residence 0
 
+![paradise-residence-0](https://cdn.myanimelist.net/images/manga/2/151007.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

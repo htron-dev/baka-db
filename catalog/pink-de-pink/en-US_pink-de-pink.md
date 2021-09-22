@@ -1,5 +1,7 @@
 # Pink de Pink
 
+![pink-de-pink](https://cdn.myanimelist.net/images/manga/2/96891.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

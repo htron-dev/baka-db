@@ -1,5 +1,7 @@
 # Pet Keiyaku
 
+![pet-keiyaku](https://cdn.myanimelist.net/images/manga/2/162575.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

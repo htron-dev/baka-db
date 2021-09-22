@@ -1,5 +1,7 @@
 # Pokemon Movie 15: Kyurem vs. Seikenshi
 
+![pokemon-movie-15-kyurem-vs-seikenshi](https://cdn.myanimelist.net/images/anime/11/38311.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 ポケットモンスター ベストウイッシュ キュレム VS 聖剣士

@@ -1,5 +1,7 @@
 # Paper Cranes Story: Kenta to Maiko
 
+![paper-cranes-story-kenta-to-maiko](https://cdn.myanimelist.net/images/anime/8/66023.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: Paper Cranes Story ～ケンタとマイコ～

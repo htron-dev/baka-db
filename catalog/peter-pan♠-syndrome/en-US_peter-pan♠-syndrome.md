@@ -1,5 +1,7 @@
 # Peter Pan♠Syndrome
 
+![peter-pan♠-syndrome](https://cdn.myanimelist.net/images/manga/3/175964.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

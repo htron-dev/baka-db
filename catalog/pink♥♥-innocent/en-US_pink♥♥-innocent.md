@@ -1,5 +1,7 @@
 # Pink♥♥Innocent
 
+![pink♥♥-innocent](https://cdn.myanimelist.net/images/manga/4/10364.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 10

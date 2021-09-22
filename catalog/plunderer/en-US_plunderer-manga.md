@@ -1,5 +1,7 @@
 # Plunderer
 
+![plunderer](https://cdn.myanimelist.net/images/manga/3/161356.jpg)
+
 -   **type**: manga
 -   **original-name**: プランダラ
 -   **start-date**: 2014-12-26

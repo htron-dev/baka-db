@@ -1,5 +1,7 @@
 # Princess Order: Zettai Junshu no Himegimi
 
+![princess-order-zettai-junshu-no-himegimi](https://cdn.myanimelist.net/images/manga/1/164034.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

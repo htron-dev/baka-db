@@ -1,5 +1,7 @@
 # Peppermint: Koi no Wasuremono
 
+![peppermint-koi-no-wasuremono](https://cdn.myanimelist.net/images/manga/2/19445.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

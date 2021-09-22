@@ -1,5 +1,7 @@
 # Princess wa Otoshigoro!
 
+![princess-wa-otoshigoro](https://cdn.myanimelist.net/images/manga/2/163680.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Pinky Street
 
+![pinky-street](https://cdn.myanimelist.net/images/anime/11/4739.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ピンキーストリート

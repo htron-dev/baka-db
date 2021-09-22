@@ -1,5 +1,7 @@
 # Pokemen!
 
+![pokemen](https://cdn.myanimelist.net/images/manga/3/172306.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ポケメン！

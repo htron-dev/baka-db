@@ -1,5 +1,7 @@
 # Pokemon no Heisei-shi: Kayou Kara Mokuyou, Soshite Nichiyou e
 
+![pokemon-no-heisei-shi-kayou-kara-mokuyou-soshite-nichiyou-e](https://cdn.myanimelist.net/images/anime/1413/107932.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ポケットモンスターの平成史 ～火曜から木曜、そして日曜へ～

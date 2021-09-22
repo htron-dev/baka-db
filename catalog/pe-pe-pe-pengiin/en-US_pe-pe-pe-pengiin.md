@@ -1,5 +1,7 @@
 # PePePePengiin
 
+![pe-pe-pe-pengiin](https://cdn.myanimelist.net/images/anime/4/82157.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ペペペペン議員

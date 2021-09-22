@@ -1,5 +1,7 @@
 # Princess Recipe
 
+![princess-recipe](https://cdn.myanimelist.net/images/manga/4/10069.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

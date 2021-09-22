@@ -1,5 +1,7 @@
 # Polaris no Rakuin
 
+![polaris-no-rakuin](https://cdn.myanimelist.net/images/manga/1/221348.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

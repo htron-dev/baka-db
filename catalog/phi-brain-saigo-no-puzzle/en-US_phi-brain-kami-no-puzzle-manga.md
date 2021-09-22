@@ -1,5 +1,7 @@
 # Phi Brain: Kami no Puzzle
 
+![phi-brain-kami-no-puzzle](https://cdn.myanimelist.net/images/manga/3/74737.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Hakumei no Tsubasa: Expansion - Hoshi no Matsuri
 
+![hakumei-no-tsubasa-expansion-hoshi-no-matsuri](https://cdn.myanimelist.net/images/anime/1648/110089.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 薄明の翼 EXPANSION ~星の祭~

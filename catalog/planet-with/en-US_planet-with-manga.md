@@ -1,5 +1,7 @@
 # Planet With
 
+![planet-with](https://cdn.myanimelist.net/images/manga/1/210430.jpg)
+
 -   **type**: manga
 -   **original-name**: プラネット・ウィズ
 -   **start-date**: 2018-04-28

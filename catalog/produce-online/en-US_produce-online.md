@@ -1,5 +1,7 @@
 # Produce Online
 
+![produce-online](https://cdn.myanimelist.net/images/manga/1/191498.jpg)
+
 -   **type**: light-novel
 -   **original-name**: プロデュース・オンライン
 -   **start-date**: 2017-02-18

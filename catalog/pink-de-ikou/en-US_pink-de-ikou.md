@@ -1,5 +1,7 @@
 # Pink de Ikou!
 
+![pink-de-ikou](https://cdn.myanimelist.net/images/manga/1/7455.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

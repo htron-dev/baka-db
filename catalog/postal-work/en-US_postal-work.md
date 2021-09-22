@@ -1,5 +1,7 @@
 # Postal Work
 
+![postal-work](https://cdn.myanimelist.net/images/manga/2/85337.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Puso Ni Comi
 
+![puso-ni-comi](https://cdn.myanimelist.net/images/anime/1087/97502.jpg)
+
 -   **type**: ona
 -   **episodes**: 20
 -   **original-name**: ぷそ煮コミ

@@ -1,5 +1,7 @@
 # Pochi no Shiawase
 
+![pochi-no-shiawase](https://cdn.myanimelist.net/images/manga/1/5066.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

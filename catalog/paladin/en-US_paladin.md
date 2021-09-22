@@ -1,5 +1,7 @@
 # Paladin
 
+![paladin](https://cdn.myanimelist.net/images/manga/3/106327.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 50
 -   **original-name**: 팔라딘

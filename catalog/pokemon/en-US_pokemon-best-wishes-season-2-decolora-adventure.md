@@ -1,5 +1,7 @@
 # Pokemon Best Wishes! Season 2: Decolora Adventure
 
+![pokemon-best-wishes-season-2-decolora-adventure](https://cdn.myanimelist.net/images/anime/5/49285.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 20
 -   **original-name**: ポケットモンスター ベストウイッシュ シーズン２ デコロラアドベンチャー

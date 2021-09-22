@@ -1,5 +1,7 @@
 # Peeping Life: World History
 
+![peeping-life-world-history](https://cdn.myanimelist.net/images/anime/8/46043.jpg)
+
 -   **type**: ona
 -   **episodes**: 40
 -   **original-name**: Peeping Life -World History-

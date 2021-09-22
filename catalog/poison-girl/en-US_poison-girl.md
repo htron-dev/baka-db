@@ -1,5 +1,7 @@
 # Poison Girl
 
+![poison-girl](https://cdn.myanimelist.net/images/manga/1/157555.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 43

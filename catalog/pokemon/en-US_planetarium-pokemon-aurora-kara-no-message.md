@@ -1,5 +1,7 @@
 # Planetarium Pokemon: Aurora kara no Message
 
+![planetarium-pokemon-aurora-kara-no-message](https://cdn.myanimelist.net/images/anime/1141/109296.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: プラネタリウム ポケットモンスター オーロラからのメッセージ

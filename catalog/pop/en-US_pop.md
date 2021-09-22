@@ -1,5 +1,7 @@
 # Pop
 
+![pop](https://cdn.myanimelist.net/images/anime/10/16398.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ポップ

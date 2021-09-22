@@ -1,5 +1,7 @@
 # Ping Pong the Animation
 
+![ping-pong-the-animation](https://cdn.myanimelist.net/images/anime/10/58041.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: ピンポン THE ANIMATION

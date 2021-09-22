@@ -1,5 +1,7 @@
 # Princess Pirates: Hakushaku Reijou wa Mitsuai ni Oboreru
 
+![princess-pirates-hakushaku-reijou-wa-mitsuai-ni-oboreru](https://cdn.myanimelist.net/images/manga/2/187183.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

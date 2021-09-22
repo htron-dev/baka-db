@@ -1,5 +1,7 @@
 # Yoligongju Loopy
 
+![yoligongju-loopy](https://cdn.myanimelist.net/images/anime/3/66635.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 6
 -   **original-name**: 요리공주 루피

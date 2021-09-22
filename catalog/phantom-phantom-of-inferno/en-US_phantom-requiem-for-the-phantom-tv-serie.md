@@ -1,5 +1,7 @@
 # Phantom: Requiem for the Phantom
 
+![phantom-requiem-for-the-phantom](https://cdn.myanimelist.net/images/anime/8/22470.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: Phantom 〜Requiem for the Phantom〜

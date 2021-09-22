@@ -1,5 +1,7 @@
 # Megami Ibunroku Persona: Shadow Maze
 
+![megami-ibunroku-persona-shadow-maze](https://cdn.myanimelist.net/images/manga/2/127039.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 女神異聞録ペルソナ シャドウメイズ

@@ -1,5 +1,7 @@
 # Papa wa Dandy
 
+![papa-wa-dandy](https://cdn.myanimelist.net/images/manga/1/95785.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: パパはダンディー

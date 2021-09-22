@@ -1,5 +1,7 @@
 # Peter Panda
 
+![peter-panda](https://cdn.myanimelist.net/images/manga/4/30227.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 24

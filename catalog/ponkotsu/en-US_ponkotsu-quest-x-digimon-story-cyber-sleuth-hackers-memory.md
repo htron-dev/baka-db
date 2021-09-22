@@ -1,5 +1,7 @@
 # Ponkotsu Quest x Digimon Story: Cyber Sleuth - Hacker's Memory
 
+![ponkotsu-quest-x-digimon-story-cyber-sleuth-hackers-memory](https://cdn.myanimelist.net/images/anime/11/88775.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 「ポンコツクエスト」×「デジモンストーリー サイバースルゥース ハッカーズメモリー」

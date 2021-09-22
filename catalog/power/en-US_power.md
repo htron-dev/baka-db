@@ -1,5 +1,7 @@
 # Power!!
 
+![power](https://cdn.myanimelist.net/images/manga/2/144007.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 44

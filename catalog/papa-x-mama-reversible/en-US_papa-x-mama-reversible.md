@@ -1,5 +1,7 @@
 # Papa x Mama Reversible
 
+![papa-x-mama-reversible](https://cdn.myanimelist.net/images/manga/3/151675.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: パパ × ママりばーしぶる

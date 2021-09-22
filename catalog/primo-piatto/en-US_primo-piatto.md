@@ -1,5 +1,7 @@
 # Primo Piatto
 
+![primo-piatto](https://cdn.myanimelist.net/images/manga/3/184736.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: プリモ・ピアット

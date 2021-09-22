@@ -1,5 +1,7 @@
 # Pokemon Movie 14 White: Victini to Kuroki Eiyuu Zekrom
 
+![pokemon-movie-14-white-victini-to-kuroki-eiyuu-zekrom](https://cdn.myanimelist.net/images/anime/13/29620.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ポケットモンスター ベストウィッシュ 「ビクティニと黒き英雄」

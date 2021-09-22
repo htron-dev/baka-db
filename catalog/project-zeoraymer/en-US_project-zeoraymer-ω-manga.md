@@ -1,5 +1,7 @@
 # Project Zeoraymer Ω
 
+![project-zeoraymer-ω](https://cdn.myanimelist.net/images/manga/3/168425.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 80

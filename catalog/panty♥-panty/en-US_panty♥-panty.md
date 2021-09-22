@@ -1,5 +1,7 @@
 # Panty♥Panty
 
+![panty♥-panty](https://cdn.myanimelist.net/images/manga/3/154828.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: パンティ ♥ パンティ

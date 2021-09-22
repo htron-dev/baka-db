@@ -1,5 +1,7 @@
 # Dengeki! Pikachu
 
+![dengeki-pikachu](https://cdn.myanimelist.net/images/manga/4/155945.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

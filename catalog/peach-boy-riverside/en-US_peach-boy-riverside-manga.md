@@ -1,5 +1,7 @@
 # Peach Boy Riverside
 
+![peach-boy-riverside](https://cdn.myanimelist.net/images/manga/2/173055.jpg)
+
 -   **type**: manga
 -   **original-name**: ピーチボーイリバーサイド
 -   **start-date**: 2015-08-20

@@ -1,5 +1,7 @@
 # Powerful Pro Yakyuu: Powerful Koukou-hen
 
+![powerful-pro-yakyuu-powerful-koukou-hen](https://cdn.myanimelist.net/images/anime/1670/113483.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: パワフルプロ野球 パワフル高校編

@@ -1,5 +1,7 @@
 # Psychometrer
 
+![psychometrer](https://cdn.myanimelist.net/images/manga/1/145069.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 133

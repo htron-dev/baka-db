@@ -1,5 +1,7 @@
 # Peeping Life
 
+![peeping-life](https://cdn.myanimelist.net/images/anime/10/23512.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: ピーピング・ライフ

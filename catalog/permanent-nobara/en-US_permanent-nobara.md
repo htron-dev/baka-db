@@ -1,5 +1,7 @@
 # Permanent Nobara
 
+![permanent-nobara](https://cdn.myanimelist.net/images/manga/1/151961.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: パーマネント野ばら

@@ -1,5 +1,7 @@
 # Ponkotsu Ponko
 
+![ponkotsu-ponko](https://cdn.myanimelist.net/images/manga/1/220644.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 79

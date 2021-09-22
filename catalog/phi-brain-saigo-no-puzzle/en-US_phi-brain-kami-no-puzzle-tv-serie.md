@@ -1,5 +1,7 @@
 # Phi Brain: Kami no Puzzle
 
+![phi-brain-kami-no-puzzle](https://cdn.myanimelist.net/images/anime/12/34045.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ファイ・ブレイン 神のパズル

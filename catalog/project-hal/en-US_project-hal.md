@@ -1,5 +1,7 @@
 # Project HAL
 
+![project-hal](https://cdn.myanimelist.net/images/anime/10/77726.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: Project HAL

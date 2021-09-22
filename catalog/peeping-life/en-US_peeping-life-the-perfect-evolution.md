@@ -1,5 +1,7 @@
 # Peeping Life: The Perfect Evolution
 
+![peeping-life-the-perfect-evolution](https://cdn.myanimelist.net/images/anime/12/44189.jpg)
+
 -   **type**: ova
 -   **episodes**: 10
 -   **original-name**: Peeping Life（ピーピング・ライフ） -The Perfect Evolution-

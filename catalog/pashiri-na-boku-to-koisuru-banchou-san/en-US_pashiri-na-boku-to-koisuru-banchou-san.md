@@ -1,5 +1,7 @@
 # Pashiri na Boku to Koisuru Banchou-san
 
+![pashiri-na-boku-to-koisuru-banchou-san](https://cdn.myanimelist.net/images/manga/2/210692.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 78

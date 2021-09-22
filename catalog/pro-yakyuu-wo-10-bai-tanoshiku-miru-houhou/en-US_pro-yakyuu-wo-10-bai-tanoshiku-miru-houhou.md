@@ -1,5 +1,7 @@
 # Pro Yakyuu wo 10-bai Tanoshiku Miru Houhou
 
+![pro-yakyuu-wo-10-bai-tanoshiku-miru-houhou](https://cdn.myanimelist.net/images/anime/2/49119.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: プロ野球を 10 倍楽しく見る方法

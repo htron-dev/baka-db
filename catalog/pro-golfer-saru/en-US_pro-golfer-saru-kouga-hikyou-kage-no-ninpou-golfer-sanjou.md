@@ -1,5 +1,7 @@
 # Pro Golfer Saru: Kouga Hikyou! Kage no Ninpou Golfer Sanjou!
 
+![pro-golfer-saru-kouga-hikyou-kage-no-ninpou-golfer-sanjou](https://cdn.myanimelist.net/images/anime/8/46227.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: プロゴルファー猿 甲賀秘境! 影の忍法ゴルファー参上!

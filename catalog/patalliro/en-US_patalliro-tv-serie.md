@@ -1,5 +1,7 @@
 # Patalliro!
 
+![patalliro](https://cdn.myanimelist.net/images/anime/2/56443.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: パタリロ！

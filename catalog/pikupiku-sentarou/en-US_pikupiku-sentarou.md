@@ -1,5 +1,7 @@
 # Pikupiku Sentarou
 
+![pikupiku-sentarou](https://cdn.myanimelist.net/images/manga/1/202650.jpg)
+
 -   **type**: manga
 -   **volumes**: 37
 -   **original-name**: ぴくぴく仙太郎

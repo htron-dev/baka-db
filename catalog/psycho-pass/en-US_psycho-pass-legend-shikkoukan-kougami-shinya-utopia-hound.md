@@ -1,5 +1,7 @@
 # Psycho-Pass Legend: Shikkoukan Kougami Shinya - Utopia Hound
 
+![psycho-pass-legend-shikkoukan-kougami-shinya-utopia-hound](https://cdn.myanimelist.net/images/manga/4/155107.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: PSYCHO-PASS LEGEND 執行官 狡噛慎也 理想郷の猟犬〈ユートピア・ハウンド〉

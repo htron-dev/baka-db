@@ -1,5 +1,7 @@
 # Prison Hearts
 
+![prison-hearts](https://cdn.myanimelist.net/images/manga/2/179150.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

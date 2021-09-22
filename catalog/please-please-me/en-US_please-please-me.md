@@ -1,5 +1,7 @@
 # Please, Please Me
 
+![please-please-me](https://cdn.myanimelist.net/images/manga/2/182658.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 39

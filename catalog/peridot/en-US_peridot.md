@@ -1,5 +1,7 @@
 # Peridot
 
+![peridot](https://cdn.myanimelist.net/images/manga/3/56453.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 50

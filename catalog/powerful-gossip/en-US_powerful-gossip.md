@@ -1,5 +1,7 @@
 # Powerful Gossip
 
+![powerful-gossip](https://cdn.myanimelist.net/images/manga/2/153084.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Satto Anshin, SAT x Peeping Life
 
+![satto-anshin-sat-x-peeping-life](https://cdn.myanimelist.net/images/anime/10/78538.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: サッと安心、SAT x Peeping Life

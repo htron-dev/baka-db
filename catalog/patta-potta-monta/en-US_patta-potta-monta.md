@@ -1,5 +1,7 @@
 # Patta Potta Monta
 
+![patta-potta-monta](https://cdn.myanimelist.net/images/anime/10/62463.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: パッタ ポッタ モン太

@@ -1,5 +1,7 @@
 # PriPara Movie: Mi~nna Atsumare! Prism☆Tours
 
+![pri-para-movie-mi-nna-atsumare-prism☆-tours](https://cdn.myanimelist.net/images/anime/11/69615.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版プリパラ　み～んなあつまれ！プリズム ☆ ツアーズ

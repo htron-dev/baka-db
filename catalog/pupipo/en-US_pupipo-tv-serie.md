@@ -1,5 +1,7 @@
 # Pupipo!
 
+![pupipo](https://cdn.myanimelist.net/images/anime/11/58853.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 15
 -   **original-name**: プピポー！

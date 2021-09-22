@@ -1,5 +1,7 @@
 # Panorama Delusion
 
+![panorama-delusion](https://cdn.myanimelist.net/images/manga/2/165677.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

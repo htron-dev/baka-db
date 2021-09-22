@@ -1,5 +1,7 @@
 # Gangsta.
 
+![gangsta](https://cdn.myanimelist.net/images/manga/2/160089.jpg)
+
 -   **type**: manga
 -   **original-name**: GANGSTA.
 -   **start-date**: 2011-01-21

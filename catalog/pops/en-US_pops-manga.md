@@ -1,5 +1,7 @@
 # Pops
 
+![pops](https://cdn.myanimelist.net/images/manga/2/152907.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

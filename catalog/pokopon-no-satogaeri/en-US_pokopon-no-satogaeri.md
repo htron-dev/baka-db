@@ -1,5 +1,7 @@
 # Pokopon no Satogaeri
 
+![pokopon-no-satogaeri](https://cdn.myanimelist.net/images/anime/8/84569.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ぽこぽんの里帰り

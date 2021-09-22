@@ -1,5 +1,7 @@
 # Project X: 240Z
 
+![project-x-240-z](https://cdn.myanimelist.net/images/manga/1/24726.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

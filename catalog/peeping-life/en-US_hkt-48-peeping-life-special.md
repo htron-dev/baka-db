@@ -1,5 +1,7 @@
 # HKT48 × Peeping Life
 
+![hkt-48-peeping-life](https://cdn.myanimelist.net/images/anime/1686/115583.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: HKT48 × PeepingLife

@@ -1,5 +1,7 @@
 # Psyche Princess
 
+![psyche-princess](https://cdn.myanimelist.net/images/manga/1/163091.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 22

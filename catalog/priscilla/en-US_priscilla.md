@@ -1,5 +1,7 @@
 # Priscilla
 
+![priscilla](https://cdn.myanimelist.net/images/manga/3/180507.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

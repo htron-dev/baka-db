@@ -1,5 +1,7 @@
 # Progress Eve: Ange Chronicle Side:Black
 
+![progress-eve-ange-chronicle-side-black](https://cdn.myanimelist.net/images/manga/1/162707.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

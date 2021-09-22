@@ -1,5 +1,7 @@
 # Psycho+
 
+![psycho](https://cdn.myanimelist.net/images/manga/1/40803.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

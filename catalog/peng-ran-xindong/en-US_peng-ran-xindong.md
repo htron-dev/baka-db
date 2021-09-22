@@ -1,5 +1,7 @@
 # Peng Ran Xindong
 
+![peng-ran-xindong](https://cdn.myanimelist.net/images/anime/1606/103822.jpg)
+
 -   **type**: ona
 -   **original-name**: 怦然心动
 -   **rating**: None

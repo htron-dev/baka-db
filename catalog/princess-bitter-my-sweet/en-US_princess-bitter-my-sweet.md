@@ -1,5 +1,7 @@
 # Princess Bitter My Sweet
 
+![princess-bitter-my-sweet](https://cdn.myanimelist.net/images/manga/3/162300.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

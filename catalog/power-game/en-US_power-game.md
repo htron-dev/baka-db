@@ -1,5 +1,7 @@
 # Power Game
 
+![power-game](https://cdn.myanimelist.net/images/manga/1/2956.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 

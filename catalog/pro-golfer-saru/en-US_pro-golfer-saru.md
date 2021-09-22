@@ -1,5 +1,7 @@
 # Pro Golfer Saru
 
+![pro-golfer-saru](https://cdn.myanimelist.net/images/anime/2/46215.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: プロゴルファー猿

@@ -1,5 +1,7 @@
 # Persona 3 Portable: Velvet Blue
 
+![persona-3-portable-velvet-blue](https://cdn.myanimelist.net/images/manga/1/127031.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ペルソナ 3 ポータブル ベルベットブルー

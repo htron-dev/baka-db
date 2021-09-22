@@ -1,5 +1,7 @@
 # Pineapple Mitai
 
+![pineapple-mitai](https://cdn.myanimelist.net/images/manga/3/150471.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6
