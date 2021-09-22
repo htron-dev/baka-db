@@ -1,5 +1,7 @@
 # Seiyaku no Hanayome to Kirameki no Ou
 
+![seiyaku-no-hanayome-to-kirameki-no-ou](https://cdn.myanimelist.net/images/manga/1/167609.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 誓約の花嫁と煌きの王

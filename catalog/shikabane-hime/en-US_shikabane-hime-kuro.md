@@ -1,5 +1,7 @@
 # Shikabane Hime: Kuro
 
+![shikabane-hime-kuro](https://cdn.myanimelist.net/images/anime/1125/105989.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 屍姫 玄

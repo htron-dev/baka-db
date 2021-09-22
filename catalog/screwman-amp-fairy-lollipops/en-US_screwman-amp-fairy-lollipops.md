@@ -1,5 +1,7 @@
 # Screwman &amp; Fairy Lollipops
 
+![screwman-amp-fairy-lollipops](https://cdn.myanimelist.net/images/manga/2/164306.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 13

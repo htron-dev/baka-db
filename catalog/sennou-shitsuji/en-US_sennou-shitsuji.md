@@ -1,5 +1,7 @@
 # Sennou Shitsuji
 
+![sennou-shitsuji](https://cdn.myanimelist.net/images/manga/2/236822.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

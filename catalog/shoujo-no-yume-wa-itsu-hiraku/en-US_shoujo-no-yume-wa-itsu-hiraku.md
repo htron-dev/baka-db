@@ -1,5 +1,7 @@
 # Shoujo no Yume wa Itsu Hiraku?
 
+![shoujo-no-yume-wa-itsu-hiraku](https://cdn.myanimelist.net/images/manga/1/186635.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Sotsugyou: Graduation
 
+![sotsugyou-graduation](https://cdn.myanimelist.net/images/anime/1855/96094.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 卒業~Graduation~

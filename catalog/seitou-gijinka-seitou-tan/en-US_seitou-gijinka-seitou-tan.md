@@ -1,5 +1,7 @@
 # Seitou Gijinka Seitou-tan
 
+![seitou-gijinka-seitou-tan](https://cdn.myanimelist.net/images/manga/2/96617.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 政党擬人化政党たん

@@ -1,5 +1,7 @@
 # Sengoku Youko
 
+![sengoku-youko](https://cdn.myanimelist.net/images/manga/3/54313.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 100

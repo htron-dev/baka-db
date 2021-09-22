@@ -1,5 +1,7 @@
 # Senya Ichiya Happy Ever After
 
+![senya-ichiya-happy-ever-after](https://cdn.myanimelist.net/images/manga/1/225228.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Sakurada Reset
 
+![sakurada-reset](https://cdn.myanimelist.net/images/manga/2/183766.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 37

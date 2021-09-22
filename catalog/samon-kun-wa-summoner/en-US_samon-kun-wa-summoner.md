@@ -1,5 +1,7 @@
 # Samon-kun wa Summoner
 
+![samon-kun-wa-summoner](https://cdn.myanimelist.net/images/manga/2/171382.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 89

@@ -1,5 +1,7 @@
 # Slow Loop
 
+![slow-loop](https://cdn.myanimelist.net/images/anime/1428/117348.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: スローループ
 -   **start-date**: 2022-01-20

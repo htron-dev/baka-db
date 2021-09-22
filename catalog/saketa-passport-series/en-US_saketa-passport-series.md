@@ -1,5 +1,7 @@
 # Saketa Passport Series
 
+![saketa-passport-series](https://cdn.myanimelist.net/images/manga/1/154137.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 55

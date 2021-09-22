@@ -1,5 +1,7 @@
 # Space China Dress
 
+![space-china-dress](https://cdn.myanimelist.net/images/manga/2/42737.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 스페이스 차이나드레스
 

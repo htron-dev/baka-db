@@ -1,5 +1,7 @@
 # Sakura no Kiwa
 
+![sakura-no-kiwa](https://cdn.myanimelist.net/images/manga/3/14957.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 46

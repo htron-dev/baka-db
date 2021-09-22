@@ -1,5 +1,7 @@
 # Seisho Gensou Fu: Adam to Eve
 
+![seisho-gensou-fu-adam-to-eve](https://cdn.myanimelist.net/images/anime/9/69263.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 聖書幻想譜 アダムとイブ

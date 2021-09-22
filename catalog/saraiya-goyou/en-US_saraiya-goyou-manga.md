@@ -1,5 +1,7 @@
 # Saraiya Goyou
 
+![saraiya-goyou](https://cdn.myanimelist.net/images/manga/2/181711.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 59

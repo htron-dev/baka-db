@@ -1,5 +1,7 @@
 # Seoul-yeok
 
+![seoul-yeok](https://cdn.myanimelist.net/images/anime/10/81971.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 서울역

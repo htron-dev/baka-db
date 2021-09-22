@@ -1,5 +1,7 @@
 # Shihaisha no Tasogare
 
+![shihaisha-no-tasogare](https://cdn.myanimelist.net/images/anime/5/4277.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 支配者の黄昏

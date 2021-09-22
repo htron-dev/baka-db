@@ -1,5 +1,7 @@
 # Sacchi sarenai Rule Breaker
 
+![sacchi-sarenai-rule-breaker](https://cdn.myanimelist.net/images/manga/3/235485.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 察知されない最強職〈ルール・ブレイカー〉
 -   **start-date**: 2018-04-28

@@ -1,5 +1,7 @@
 # Seven☆Star
 
+![seven☆-star](https://cdn.myanimelist.net/images/manga/2/172823.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 96

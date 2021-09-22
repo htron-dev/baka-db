@@ -1,5 +1,7 @@
 # Sporting Salt: Shioya no Kaibougaku
 
+![sporting-salt-shioya-no-kaibougaku](https://cdn.myanimelist.net/images/manga/2/149613.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

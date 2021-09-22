@@ -1,5 +1,7 @@
 # Shitsuren no Susume
 
+![shitsuren-no-susume](https://cdn.myanimelist.net/images/manga/3/46169.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

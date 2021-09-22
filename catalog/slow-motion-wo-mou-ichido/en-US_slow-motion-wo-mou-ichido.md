@@ -1,5 +1,7 @@
 # Slow Motion wo Mou Ichido
 
+![slow-motion-wo-mou-ichido](https://cdn.myanimelist.net/images/manga/3/189405.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 64

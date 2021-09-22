@@ -1,5 +1,7 @@
 # Seishun Elegy's
 
+![seishun-elegys](https://cdn.myanimelist.net/images/manga/2/199536.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

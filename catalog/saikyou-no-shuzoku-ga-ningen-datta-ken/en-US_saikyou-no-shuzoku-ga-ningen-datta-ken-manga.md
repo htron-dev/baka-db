@@ -1,5 +1,7 @@
 # Saikyou no Shuzoku ga Ningen Datta Ken
 
+![saikyou-no-shuzoku-ga-ningen-datta-ken](https://cdn.myanimelist.net/images/manga/3/217484.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 64

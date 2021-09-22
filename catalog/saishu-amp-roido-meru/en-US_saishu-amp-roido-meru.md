@@ -1,5 +1,7 @@
 # Saishu &amp; Roido Meru!!
 
+![saishu-amp-roido-meru](https://cdn.myanimelist.net/images/manga/1/125189.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

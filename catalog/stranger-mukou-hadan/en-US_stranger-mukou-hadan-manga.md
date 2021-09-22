@@ -1,5 +1,7 @@
 # Stranger: Mukou Hadan
 
+![stranger-mukou-hadan](https://cdn.myanimelist.net/images/manga/3/136099.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ストレンヂア 無皇刃譚

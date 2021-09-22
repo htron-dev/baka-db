@@ -1,5 +1,7 @@
 # Shounen-tachi no Iru Tokoro
 
+![shounen-tachi-no-iru-tokoro](https://cdn.myanimelist.net/images/manga/1/198005.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

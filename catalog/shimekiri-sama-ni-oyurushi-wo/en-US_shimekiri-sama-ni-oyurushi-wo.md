@@ -1,5 +1,7 @@
 # Shimekiri-sama ni Oyurushi wo
 
+![shimekiri-sama-ni-oyurushi-wo](https://cdn.myanimelist.net/images/manga/3/164387.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

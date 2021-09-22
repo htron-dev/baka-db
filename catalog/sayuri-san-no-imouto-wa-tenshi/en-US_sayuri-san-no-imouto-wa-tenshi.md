@@ -1,5 +1,7 @@
 # Sayuri-san no Imouto wa Tenshi
 
+![sayuri-san-no-imouto-wa-tenshi](https://cdn.myanimelist.net/images/manga/2/148583.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

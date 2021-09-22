@@ -1,5 +1,7 @@
 # Senki Zesshou Symphogear G
 
+![senki-zesshou-symphogear-g](https://cdn.myanimelist.net/images/anime/2/86630.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 戦姫絶唱シンフォギア G

@@ -1,5 +1,7 @@
 # Sarai
 
+![sarai](https://cdn.myanimelist.net/images/manga/4/75533.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **original-name**: サライ

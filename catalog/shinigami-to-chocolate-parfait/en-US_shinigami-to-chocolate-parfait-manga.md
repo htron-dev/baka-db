@@ -1,5 +1,7 @@
 # Shinigami to Chocolate Parfait
 
+![shinigami-to-chocolate-parfait](https://cdn.myanimelist.net/images/manga/2/17468.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Shihou Sekai no Ou
 
+![shihou-sekai-no-ou](https://cdn.myanimelist.net/images/manga/1/170902.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 29

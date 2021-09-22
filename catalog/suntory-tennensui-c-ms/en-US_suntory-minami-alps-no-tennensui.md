@@ -1,5 +1,7 @@
 # Suntory Minami Alps no Tennensui
 
+![suntory-minami-alps-no-tennensui](https://cdn.myanimelist.net/images/anime/13/81596.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: サントリー 南アルプスの天然水

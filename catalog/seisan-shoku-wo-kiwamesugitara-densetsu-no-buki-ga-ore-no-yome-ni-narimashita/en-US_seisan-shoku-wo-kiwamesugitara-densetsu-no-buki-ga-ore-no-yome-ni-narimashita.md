@@ -1,5 +1,7 @@
 # Seisan-shoku wo Kiwamesugitara Densetsu no Buki ga Ore no Yome ni Narimashita
 
+![seisan-shoku-wo-kiwamesugitara-densetsu-no-buki-ga-ore-no-yome-ni-narimashita](https://cdn.myanimelist.net/images/manga/2/244009.jpg)
+
 -   **type**: manga
 -   **original-name**: 生産職を極め過ぎたら伝説の武器が俺の嫁になりました
 -   **start-date**: 2020-04-16

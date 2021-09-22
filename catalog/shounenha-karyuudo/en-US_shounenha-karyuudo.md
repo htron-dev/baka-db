@@ -1,5 +1,7 @@
 # Shounenha Karyuudo
 
+![shounenha-karyuudo](https://cdn.myanimelist.net/images/manga/1/172748.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 26

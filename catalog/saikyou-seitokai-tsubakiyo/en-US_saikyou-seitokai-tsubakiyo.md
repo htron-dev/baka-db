@@ -1,5 +1,7 @@
 # Saikyou Seitokai Tsubakiyo
 
+![saikyou-seitokai-tsubakiyo](https://cdn.myanimelist.net/images/manga/3/20938.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 7

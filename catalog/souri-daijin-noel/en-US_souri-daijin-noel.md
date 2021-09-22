@@ -1,5 +1,7 @@
 # Souri Daijin Noel!
 
+![souri-daijin-noel](https://cdn.myanimelist.net/images/manga/3/166788.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **chapters**: 70

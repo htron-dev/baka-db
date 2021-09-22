@@ -1,5 +1,7 @@
 # Sentaku no Toki
 
+![sentaku-no-toki](https://cdn.myanimelist.net/images/manga/1/203156.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

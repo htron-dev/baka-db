@@ -1,5 +1,7 @@
 # Skyers 5
 
+![skyers-5](https://cdn.myanimelist.net/images/anime/9/31789.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: スカイヤーズ 5

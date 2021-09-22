@@ -1,5 +1,7 @@
 # Shounen Ashibe: Go! Go! Goma-chan 3
 
+![shounen-ashibe-go-go-goma-chan-3](https://cdn.myanimelist.net/images/anime/1001/91711.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 32
 -   **original-name**: 少年アシベ GO! GO! ゴマちゃん 3

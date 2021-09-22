@@ -1,5 +1,7 @@
 # Shin no Jitsuryoku wa Girigiri made Kakushiteiyou to Omou
 
+![shin-no-jitsuryoku-wa-girigiri-made-kakushiteiyou-to-omou](https://cdn.myanimelist.net/images/manga/1/242669.jpg)
+
 -   **type**: manga
 -   **original-name**: 真の実力はギリギリまで隠していようと思う
 -   **start-date**: 2020-10-27

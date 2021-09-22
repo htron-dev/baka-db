@@ -1,5 +1,7 @@
 # Stardust★Wink
 
+![stardust★-wink](https://cdn.myanimelist.net/images/manga/2/195605.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 54

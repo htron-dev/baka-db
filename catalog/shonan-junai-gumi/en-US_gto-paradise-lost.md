@@ -1,5 +1,7 @@
 # GTO: Paradise Lost
 
+![gto-paradise-lost](https://cdn.myanimelist.net/images/manga/2/135283.jpg)
+
 -   **type**: manga
 -   **original-name**: GTO パラダイス・ロスト
 -   **start-date**: 2014-04-14

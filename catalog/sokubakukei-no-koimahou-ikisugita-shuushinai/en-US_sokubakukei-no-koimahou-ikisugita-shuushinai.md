@@ -1,5 +1,7 @@
 # Sokubakukei no Koimahou: Ikisugita Shuushinai
 
+![sokubakukei-no-koimahou-ikisugita-shuushinai](https://cdn.myanimelist.net/images/manga/1/194210.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

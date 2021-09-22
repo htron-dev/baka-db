@@ -1,5 +1,7 @@
 # Sensei, Tokidoki Seifuku de Kiss
 
+![sensei-tokidoki-seifuku-de-kiss](https://cdn.myanimelist.net/images/manga/1/225989.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

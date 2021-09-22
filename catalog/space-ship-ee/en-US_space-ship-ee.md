@@ -1,5 +1,7 @@
 # Space Ship EE
 
+![space-ship-ee](https://cdn.myanimelist.net/images/manga/2/21309.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

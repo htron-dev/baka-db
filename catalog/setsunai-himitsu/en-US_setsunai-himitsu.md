@@ -1,5 +1,7 @@
 # Setsunai Himitsu
 
+![setsunai-himitsu](https://cdn.myanimelist.net/images/manga/3/37872.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: せつない秘密

@@ -1,5 +1,7 @@
 # Sousei no Aquarion
 
+![sousei-no-aquarion](https://cdn.myanimelist.net/images/anime/11/76291.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 創聖のアクエリオン

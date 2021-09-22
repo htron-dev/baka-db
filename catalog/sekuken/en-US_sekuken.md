@@ -1,5 +1,7 @@
 # Sekuken!
 
+![sekuken](https://cdn.myanimelist.net/images/manga/3/171765.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Kaiketsu Naganegiman to Yakisobapanman
 
+![sore-ike-anpanman-kaiketsu-naganegiman-to-yakisobapanman](https://cdn.myanimelist.net/images/anime/8/66665.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ! アンパンマン 怪傑ナガネギマンとやきそばパンマン

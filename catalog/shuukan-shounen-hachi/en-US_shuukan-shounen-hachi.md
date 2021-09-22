@@ -1,5 +1,7 @@
 # Shuukan Shounen Hachi
 
+![shuukan-shounen-hachi](https://cdn.myanimelist.net/images/manga/2/210950.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 42

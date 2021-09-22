@@ -1,5 +1,7 @@
 # Shuukatsu!! - Kimi ni Naitei
 
+![shuukatsu-kimi-ni-naitei](https://cdn.myanimelist.net/images/manga/2/178231.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

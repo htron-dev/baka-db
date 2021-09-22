@@ -1,5 +1,7 @@
 # Sexy Effect 96
 
+![sexy-effect-96](https://cdn.myanimelist.net/images/manga/2/148133.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

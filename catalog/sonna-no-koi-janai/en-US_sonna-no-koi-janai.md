@@ -1,5 +1,7 @@
 # Sonna no Koi Janai
 
+![sonna-no-koi-janai](https://cdn.myanimelist.net/images/manga/1/186200.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

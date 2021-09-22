@@ -1,5 +1,7 @@
 # strawberry shortcakes
 
+![strawberry-shortcakes](https://cdn.myanimelist.net/images/manga/1/6661.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 23

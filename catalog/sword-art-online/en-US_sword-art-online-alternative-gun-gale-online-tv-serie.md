@@ -1,5 +1,7 @@
 # Sword Art Online Alternative: Gun Gale Online
 
+![sword-art-online-alternative-gun-gale-online](https://cdn.myanimelist.net/images/anime/1141/93288.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ソードアート・オンライン オルタナティブ ガンゲイル・オンライン

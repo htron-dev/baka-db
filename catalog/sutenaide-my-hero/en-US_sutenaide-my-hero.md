@@ -1,5 +1,7 @@
 # Sutenaide My Hero
 
+![sutenaide-my-hero](https://cdn.myanimelist.net/images/manga/1/221832.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

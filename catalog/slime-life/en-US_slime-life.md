@@ -1,5 +1,7 @@
 # Slime Life
 
+![slime-life](https://cdn.myanimelist.net/images/manga/1/205004.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 312

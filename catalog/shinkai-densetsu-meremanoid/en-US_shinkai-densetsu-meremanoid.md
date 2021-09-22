@@ -1,5 +1,7 @@
 # Shinkai Densetsu Meremanoid
 
+![shinkai-densetsu-meremanoid](https://cdn.myanimelist.net/images/anime/1972/94176.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 深海伝説 MEREMANOID

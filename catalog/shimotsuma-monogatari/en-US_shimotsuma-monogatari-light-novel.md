@@ -1,5 +1,7 @@
 # Shimotsuma Monogatari
 
+![shimotsuma-monogatari](https://cdn.myanimelist.net/images/manga/3/155938.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 下妻物語

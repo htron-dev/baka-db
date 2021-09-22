@@ -1,5 +1,7 @@
 # Sabage-bu!
 
+![sabage-bu](https://cdn.myanimelist.net/images/anime/13/60207.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: さばげぶっ!

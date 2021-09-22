@@ -1,5 +1,7 @@
 # Super Mario Adventures: Mario no Daibouken
 
+![super-mario-adventures-mario-no-daibouken](https://cdn.myanimelist.net/images/manga/3/7744.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

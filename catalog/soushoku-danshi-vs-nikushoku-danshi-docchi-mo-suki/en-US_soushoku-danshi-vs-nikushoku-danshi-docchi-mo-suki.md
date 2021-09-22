@@ -1,5 +1,7 @@
 # Soushoku Danshi VS Nikushoku Danshi: Docchi mo Suki!
 
+![soushoku-danshi-vs-nikushoku-danshi-docchi-mo-suki](https://cdn.myanimelist.net/images/manga/3/204200.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Soredemo Mata Asa ga Kite Koi wo Suru
 
+![soredemo-mata-asa-ga-kite-koi-wo-suru](https://cdn.myanimelist.net/images/manga/3/20984.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

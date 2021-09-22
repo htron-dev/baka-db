@@ -1,5 +1,7 @@
 # Shikigami no Shiro: Nejireta Shiro-hen
 
+![shikigami-no-shiro-nejireta-shiro-hen](https://cdn.myanimelist.net/images/manga/2/207269.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 39

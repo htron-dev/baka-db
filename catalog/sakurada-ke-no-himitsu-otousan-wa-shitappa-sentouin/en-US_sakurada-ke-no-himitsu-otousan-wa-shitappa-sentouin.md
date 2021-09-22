@@ -1,5 +1,7 @@
 # Sakurada-ke no Himitsu: Otousan wa Shitappa Sentouin
 
+![sakurada-ke-no-himitsu-otousan-wa-shitappa-sentouin](https://cdn.myanimelist.net/images/manga/3/176197.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 桜田家のヒミツ ～お父さんは下っぱ戦闘員～

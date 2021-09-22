@@ -1,5 +1,7 @@
 # Seirou Koushaku no Chouai: Hanayome wa Midara na Mitsu ni Torawareru
 
+![seirou-koushaku-no-chouai-hanayome-wa-midara-na-mitsu-ni-torawareru](https://cdn.myanimelist.net/images/manga/1/182781.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

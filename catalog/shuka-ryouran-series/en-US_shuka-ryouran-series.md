@@ -1,5 +1,7 @@
 # Shuka Ryouran Series
 
+![shuka-ryouran-series](https://cdn.myanimelist.net/images/manga/1/167013.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 41

@@ -1,5 +1,7 @@
 # Shin Sakura Taisen the Animation
 
+![shin-sakura-taisen-the-animation](https://cdn.myanimelist.net/images/anime/1341/105735.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 新サクラ大戦 the Animation

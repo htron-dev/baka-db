@@ -1,5 +1,7 @@
 # Starry☆Sky
 
+![starry☆-sky](https://cdn.myanimelist.net/images/manga/3/122815.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: Starry☆Sky

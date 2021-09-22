@@ -1,5 +1,7 @@
 # Sprinter
 
+![sprinter](https://cdn.myanimelist.net/images/manga/1/65145.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 121

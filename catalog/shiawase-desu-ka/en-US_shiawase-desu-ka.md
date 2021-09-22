@@ -1,5 +1,7 @@
 # Shiawase desu ka?
 
+![shiawase-desu-ka](https://cdn.myanimelist.net/images/manga/1/131645.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

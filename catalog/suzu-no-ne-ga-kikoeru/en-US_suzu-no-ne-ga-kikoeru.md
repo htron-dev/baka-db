@@ -1,5 +1,7 @@
 # Suzu no Ne ga Kikoeru
 
+![suzu-no-ne-ga-kikoeru](https://cdn.myanimelist.net/images/manga/3/3025.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

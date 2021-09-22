@@ -1,5 +1,7 @@
 # Samayoeru Tenseisha-tachi no Revival Game
 
+![samayoeru-tenseisha-tachi-no-revival-game](https://cdn.myanimelist.net/images/manga/3/225539.jpg)
+
 -   **type**: manga
 -   **original-name**: さまよえる転生者たちのリライブゲーム
 -   **start-date**: 2019-04-09

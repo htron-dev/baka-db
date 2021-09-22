@@ -1,5 +1,7 @@
 # Side Born'e
 
+![side-borne](https://cdn.myanimelist.net/images/manga/2/183982.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 9

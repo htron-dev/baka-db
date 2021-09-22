@@ -1,5 +1,7 @@
 # Shimarii na Hibi no Yorokobi
 
+![shimarii-na-hibi-no-yorokobi](https://cdn.myanimelist.net/images/manga/3/34195.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: しまりーな 日々の歓び

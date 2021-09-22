@@ -1,5 +1,7 @@
 # Sangria: In the Dracuria Earth
 
+![sangria-in-the-dracuria-earth](https://cdn.myanimelist.net/images/manga/2/177417.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

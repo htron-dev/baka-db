@@ -1,5 +1,7 @@
 # Starmyu 2nd Season
 
+![starmyu-2nd-season](https://cdn.myanimelist.net/images/anime/13/84655.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 高校星歌劇［スタミュ］

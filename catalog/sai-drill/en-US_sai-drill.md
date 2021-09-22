@@ -1,5 +1,7 @@
 # Sai Drill
 
+![sai-drill](https://cdn.myanimelist.net/images/manga/2/192111.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 23

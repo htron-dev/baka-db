@@ -1,5 +1,7 @@
 # Smoke &amp; Water: Marquis de Sade no Magomusume
 
+![smoke-amp-water-marquis-de-sade-no-magomusume](https://cdn.myanimelist.net/images/manga/2/196097.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

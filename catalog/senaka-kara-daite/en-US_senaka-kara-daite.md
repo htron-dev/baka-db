@@ -1,5 +1,7 @@
 # Senaka kara Daite
 
+![senaka-kara-daite](https://cdn.myanimelist.net/images/manga/3/15097.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Slayers: Super Explosive Demon Story
 
+![slayers-super-explosive-demon-story](https://cdn.myanimelist.net/images/manga/4/155337.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 44

@@ -1,5 +1,7 @@
 # Sengoku Gakuen Senki Nobunaga!
 
+![sengoku-gakuen-senki-nobunaga](https://cdn.myanimelist.net/images/manga/3/168616.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 29

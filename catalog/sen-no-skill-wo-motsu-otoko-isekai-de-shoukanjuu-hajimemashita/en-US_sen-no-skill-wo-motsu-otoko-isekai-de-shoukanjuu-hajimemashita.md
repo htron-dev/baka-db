@@ -1,5 +1,7 @@
 # Sen no Skill wo Motsu Otoko: Isekai de Shoukanjuu Hajimemashita!
 
+![sen-no-skill-wo-motsu-otoko-isekai-de-shoukanjuu-hajimemashita](https://cdn.myanimelist.net/images/manga/3/225860.jpg)
+
 -   **type**: manga
 -   **original-name**: 千のスキルを持つ男 異世界で召喚獣はじめました!
 -   **start-date**: 2018-12-23

@@ -1,5 +1,7 @@
 # Sekishoku Elegy
 
+![sekishoku-elegy](https://cdn.myanimelist.net/images/manga/1/180926.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

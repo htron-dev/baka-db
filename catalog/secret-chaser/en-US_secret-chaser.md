@@ -1,5 +1,7 @@
 # Secret Chaser
 
+![secret-chaser](https://cdn.myanimelist.net/images/manga/2/152333.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Saikyou Juzoku Tensei: Cheat Majutsushi no Slow Life
 
+![saikyou-juzoku-tensei-cheat-majutsushi-no-slow-life](https://cdn.myanimelist.net/images/manga/1/179797.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 最強呪族転生~チート魔術師のスローライフ~
 -   **start-date**: 2016-07-15

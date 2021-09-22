@@ -1,5 +1,7 @@
 # Soumatou Kabushikigaisha
 
+![soumatou-kabushikigaisha](https://cdn.myanimelist.net/images/manga/3/144029.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 90

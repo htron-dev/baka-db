@@ -1,5 +1,7 @@
 # Sekai wa Kyou mo Mawatteru
 
+![sekai-wa-kyou-mo-mawatteru](https://cdn.myanimelist.net/images/manga/3/204693.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

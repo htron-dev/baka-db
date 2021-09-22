@@ -1,5 +1,7 @@
 # Saga-ken wo Meguru Animation
 
+![saga-ken-wo-meguru-animation](https://cdn.myanimelist.net/images/anime/12/77750.jpg)
+
 -   **type**: movie
 -   **episodes**: 4
 -   **original-name**: 佐賀県を巡るアニメーション

@@ -1,5 +1,7 @@
 # Sentimental Kiss
 
+![sentimental-kiss](https://cdn.myanimelist.net/images/manga/2/233999.jpg)
+
 -   **type**: manga
 -   **original-name**: センチメンタル キス
 -   **start-date**: 2020-04-20

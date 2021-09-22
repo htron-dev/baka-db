@@ -1,5 +1,7 @@
 # Sono Te no Netsu wo Kasanete
 
+![sono-te-no-netsu-wo-kasanete](https://cdn.myanimelist.net/images/manga/4/96767.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

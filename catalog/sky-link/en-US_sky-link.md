@@ -1,5 +1,7 @@
 # Sky Link
 
+![sky-link](https://cdn.myanimelist.net/images/manga/2/37610.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

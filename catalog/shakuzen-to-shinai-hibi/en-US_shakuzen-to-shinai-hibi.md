@@ -1,5 +1,7 @@
 # Shakuzen to Shinai Hibi
 
+![shakuzen-to-shinai-hibi](https://cdn.myanimelist.net/images/manga/1/175155.jpg)
+
 -   **type**: manga
 -   **original-name**: 釈然としない日々
 -   **start-date**: 2014-09-05

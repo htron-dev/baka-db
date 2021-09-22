@@ -1,5 +1,7 @@
 # Sailor♥Danshi
 
+![sailor♥-danshi](https://cdn.myanimelist.net/images/manga/2/47115.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

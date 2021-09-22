@@ -1,5 +1,7 @@
 # Shinryuu Idea
 
+![shinryuu-idea](https://cdn.myanimelist.net/images/manga/2/243103.jpg)
+
 -   **type**: manga
 -   **original-name**: 神龍イデア
 -   **start-date**: 2020-09-17

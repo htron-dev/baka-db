@@ -1,5 +1,7 @@
 # Steins;Gate: Heiji Kyokusen no Epigraph
 
+![steins-gate-heiji-kyokusen-no-epigraph](https://cdn.myanimelist.net/images/manga/1/128903.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: Steins;Gate 閉時曲線のエピグラフ

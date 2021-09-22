@@ -1,5 +1,7 @@
 # Sonic the Hedgehog Story Comic
 
+![sonic-the-hedgehog-story-comic](https://cdn.myanimelist.net/images/manga/2/242017.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: ソニック・ザ・ヘッジホッグ ストーリーコミック

@@ -1,5 +1,7 @@
 # Secret Heaven
 
+![secret-heaven](https://cdn.myanimelist.net/images/manga/2/13514.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Secret Heaven

@@ -1,5 +1,7 @@
 # Shinsou Mahou Shoujo Howling Moon
 
+![shinsou-mahou-shoujo-howling-moon](https://cdn.myanimelist.net/images/manga/3/211228.jpg)
+
 -   **type**: manga
 -   **original-name**: 神装魔法少女ハウリングムーン
 -   **start-date**: 2017-09-25

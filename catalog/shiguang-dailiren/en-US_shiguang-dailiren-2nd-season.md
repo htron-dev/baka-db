@@ -1,5 +1,7 @@
 # Shiguang Dailiren 2nd Season
 
+![shiguang-dailiren-2nd-season](https://cdn.myanimelist.net/images/anime/1066/116482.jpg)
+
 -   **type**: ona
 -   **original-name**: 时光代理人 第二季
 -   **rating**: PG-13 - Teens 13 or older

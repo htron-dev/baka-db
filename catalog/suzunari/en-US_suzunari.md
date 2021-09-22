@@ -1,5 +1,7 @@
 # Suzunari!
 
+![suzunari](https://cdn.myanimelist.net/images/manga/2/11525.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 34

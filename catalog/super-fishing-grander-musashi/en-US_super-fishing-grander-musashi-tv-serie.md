@@ -1,5 +1,7 @@
 # Super Fishing Grander Musashi
 
+![super-fishing-grander-musashi](https://cdn.myanimelist.net/images/anime/5/21184.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: スーパーフィッシング グランダー武蔵

@@ -1,5 +1,7 @@
 # Sister Succubus wa Zange Shinai
 
+![sister-succubus-wa-zange-shinai](https://cdn.myanimelist.net/images/manga/1/164609.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: シスターサキュバスは懺悔しない

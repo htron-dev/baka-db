@@ -1,5 +1,7 @@
 # Shiritsu Shouei Gakuen Danshi Koutoubu: Kurashina-sensei no Junan
 
+![shiritsu-shouei-gakuen-danshi-koutoubu-kurashina-sensei-no-junan](https://cdn.myanimelist.net/images/manga/1/30533.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 私立翔瑛学園男子高等部 倉科先生の受難

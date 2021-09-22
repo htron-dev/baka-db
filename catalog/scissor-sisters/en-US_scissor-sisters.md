@@ -1,5 +1,7 @@
 # Scissor Sisters
 
+![scissor-sisters](https://cdn.myanimelist.net/images/manga/4/78147.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

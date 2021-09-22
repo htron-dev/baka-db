@@ -1,5 +1,7 @@
 # Saemoe na Nichijou
 
+![saemoe-na-nichijou](https://cdn.myanimelist.net/images/manga/1/84425.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

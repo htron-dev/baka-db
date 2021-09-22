@@ -1,5 +1,7 @@
 # Sabita Tsuki
 
+![sabita-tsuki](https://cdn.myanimelist.net/images/manga/2/72653.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 錆びた月

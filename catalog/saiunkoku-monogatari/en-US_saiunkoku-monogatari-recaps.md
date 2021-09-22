@@ -1,5 +1,7 @@
 # Saiunkoku Monogatari Recaps
 
+![saiunkoku-monogatari-recaps](https://cdn.myanimelist.net/images/anime/5/67033.jpg)
+
 -   **type**: special
 -   **episodes**: 9
 -   **original-name**: 彩雲国物語 彩雲国絵巻

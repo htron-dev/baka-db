@@ -1,5 +1,7 @@
 # Shanhai Kaijinzoku
 
+![shanhai-kaijinzoku](https://cdn.myanimelist.net/images/manga/3/45341.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 7

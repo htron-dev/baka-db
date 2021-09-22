@@ -1,5 +1,7 @@
 # Shiin to Asobo!
 
+![shiin-to-asobo](https://cdn.myanimelist.net/images/manga/2/203174.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 26

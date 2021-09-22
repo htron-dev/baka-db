@@ -1,5 +1,7 @@
 # Suterare Yuusha wa Kitakuchuu
 
+![suterare-yuusha-wa-kitakuchuu](https://cdn.myanimelist.net/images/manga/1/219508.jpg)
+
 -   **type**: manga
 -   **original-name**: 捨てられ勇者は帰宅中
 -   **start-date**: 2018-10-08

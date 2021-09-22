@@ -1,5 +1,7 @@
 # Shy
 
+![shy](https://cdn.myanimelist.net/images/manga/3/224592.jpg)
+
 -   **type**: manga
 -   **original-name**: SHY
 -   **start-date**: 2019-08-01

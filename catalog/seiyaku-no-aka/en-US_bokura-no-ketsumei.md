@@ -1,5 +1,7 @@
 # Bokura no Ketsumei
 
+![bokura-no-ketsumei](https://cdn.myanimelist.net/images/manga/3/238856.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Shichakushitsu no Midara na Shinshi
 
+![shichakushitsu-no-midara-na-shinshi](https://cdn.myanimelist.net/images/manga/1/222193.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

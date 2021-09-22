@@ -1,5 +1,7 @@
 # Sougetsu no Iris
 
+![sougetsu-no-iris](https://cdn.myanimelist.net/images/manga/1/163038.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 21

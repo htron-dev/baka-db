@@ -1,5 +1,7 @@
 # Soul Gadget Radiant
 
+![soul-gadget-radiant](https://cdn.myanimelist.net/images/manga/1/164986.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 85

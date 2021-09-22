@@ -1,5 +1,7 @@
 # Shounen Ashibe 2: Ashibe no Kanashii Yume
 
+![shounen-ashibe-2-ashibe-no-kanashii-yume](https://cdn.myanimelist.net/images/anime/11/78852.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アシベの悲しい夢

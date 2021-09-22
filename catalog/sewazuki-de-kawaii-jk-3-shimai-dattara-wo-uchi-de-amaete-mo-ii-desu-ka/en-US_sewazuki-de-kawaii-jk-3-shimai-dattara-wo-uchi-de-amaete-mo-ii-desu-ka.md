@@ -1,5 +1,7 @@
 # Sewazuki de Kawaii JK 3-shimai Dattara, wo Uchi de Amaete mo Ii desu ka?
 
+![sewazuki-de-kawaii-jk-3-shimai-dattara-wo-uchi-de-amaete-mo-ii-desu-ka](https://cdn.myanimelist.net/images/manga/3/241307.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 世話好きで可愛い JK3 姉妹だったら、おうちで甘えてもいいですか？
 -   **start-date**: 2019-11-20

@@ -1,5 +1,7 @@
 # Super Comic Gekijou: Tales of Rebirth
 
+![super-comic-gekijou-tales-of-rebirth](https://cdn.myanimelist.net/images/manga/2/151591.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: スーパーコミック劇場 テイルズ オブ リバース

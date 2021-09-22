@@ -1,5 +1,7 @@
 # Sanity:Zero
 
+![sanity-zero](https://cdn.myanimelist.net/images/manga/2/225091.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

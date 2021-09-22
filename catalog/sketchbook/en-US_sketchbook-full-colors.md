@@ -1,5 +1,7 @@
 # Sketchbook: Full Color's
 
+![sketchbook-full-colors](https://cdn.myanimelist.net/images/anime/6/14706.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: スケッチブック ～ full color's ～

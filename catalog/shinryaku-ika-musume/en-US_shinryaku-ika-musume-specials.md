@@ -1,5 +1,7 @@
 # Shinryaku! Ika Musume Specials
 
+![shinryaku-ika-musume-specials](https://cdn.myanimelist.net/images/anime/7/27364.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 侵略!イカ娘 ミニイカ娘の番外編

@@ -1,5 +1,7 @@
 # 6-koma Manga: Aobuta
 
+![6-koma-manga-aobuta](https://cdn.myanimelist.net/images/manga/1/229885.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 6 コマまんが あおぶた

@@ -1,5 +1,7 @@
 # S-kei Kareshi Zukan!
 
+![s-kei-kareshi-zukan](https://cdn.myanimelist.net/images/manga/2/31295.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

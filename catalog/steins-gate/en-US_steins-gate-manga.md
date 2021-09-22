@@ -1,5 +1,7 @@
 # Steins Gate!
 
+![steins-gate](https://cdn.myanimelist.net/images/manga/1/121341.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

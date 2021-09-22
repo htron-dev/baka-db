@@ -1,5 +1,7 @@
 # Saikyoushoku "Ryuukishi" kara Shokyuushoku "Hakobiya" ni Natta noni Nazeka Yuusha-tachi kara Tayoraretemasu @comic
 
+![saikyoushoku-ryuukishi-kara-shokyuushoku-hakobiya-ni-natta-noni-nazeka-yuusha-tachi-kara-tayoraretemasu-comic](https://cdn.myanimelist.net/images/manga/1/233968.jpg)
+
 -   **type**: manga
 -   **original-name**: 最強職《竜騎士》から初級職《運び屋》になったのに、なぜか勇者達から頼られてます＠comic
 -   **start-date**: 2018-01-27

@@ -1,5 +1,7 @@
 # Shounen no Zankyou
 
+![shounen-no-zankyou](https://cdn.myanimelist.net/images/manga/1/196071.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # Shokugeki no Souma: Ni no Sara OVA
 
+![shokugeki-no-souma-ni-no-sara-ova](https://cdn.myanimelist.net/images/anime/1032/96640.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 食戟のソーマ 弍ノ皿

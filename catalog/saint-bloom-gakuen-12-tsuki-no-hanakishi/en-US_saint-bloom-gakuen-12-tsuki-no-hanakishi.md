@@ -1,5 +1,7 @@
 # Saint Bloom Gakuen: 12 Tsuki no Hanakishi
 
+![saint-bloom-gakuen-12-tsuki-no-hanakishi](https://cdn.myanimelist.net/images/manga/3/152283.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: セント・ブルーム学園 12 月の花騎士

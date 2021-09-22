@@ -1,5 +1,7 @@
 # Shoot!: Aoki Meguriai
 
+![shoot-aoki-meguriai](https://cdn.myanimelist.net/images/manga/1/149056.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: シュート！～蒼きめぐり逢い～

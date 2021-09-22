@@ -1,5 +1,7 @@
 # SSSS.Gridman: Shinseiki Chuugakusei no Shitsuji Café
 
+![ssss-gridman-shinseiki-chuugakusei-no-shitsuji-cafe](https://cdn.myanimelist.net/images/manga/2/235830.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

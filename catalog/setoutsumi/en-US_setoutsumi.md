@@ -1,5 +1,7 @@
 # Setoutsumi
 
+![setoutsumi](https://cdn.myanimelist.net/images/manga/2/126323.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 73

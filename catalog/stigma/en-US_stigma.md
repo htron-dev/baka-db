@@ -1,5 +1,7 @@
 # Stigma
 
+![stigma](https://cdn.myanimelist.net/images/manga/2/1155.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

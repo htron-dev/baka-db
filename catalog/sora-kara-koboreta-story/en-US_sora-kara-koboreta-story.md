@@ -1,5 +1,7 @@
 # Sora kara Koboreta Story
 
+![sora-kara-koboreta-story](https://cdn.myanimelist.net/images/manga/2/230631.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

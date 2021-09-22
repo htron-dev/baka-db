@@ -1,5 +1,7 @@
 # Shiganai Tensei Reijou wa Heion ni Kurashitai
 
+![shiganai-tensei-reijou-wa-heion-ni-kurashitai](https://cdn.myanimelist.net/images/manga/2/242068.jpg)
+
 -   **type**: manga
 -   **original-name**: しがない転生令嬢は平穏に暮らしたい
 -   **start-date**: 2021-03-05

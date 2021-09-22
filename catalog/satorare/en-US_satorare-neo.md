@@ -1,5 +1,7 @@
 # Satorare Neo
 
+![satorare-neo](https://cdn.myanimelist.net/images/manga/2/16563.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: サトラレｎｅｏ

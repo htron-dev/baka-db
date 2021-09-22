@@ -1,5 +1,7 @@
 # Sugar Apple Fairy Tale
 
+![sugar-apple-fairy-tale](https://cdn.myanimelist.net/images/manga/3/137949.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 17
 -   **original-name**: シュガーアップル・フェアリーテイル

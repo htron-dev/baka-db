@@ -1,5 +1,7 @@
 # Sounan desu ka?
 
+![sounan-desu-ka](https://cdn.myanimelist.net/images/manga/3/198933.jpg)
+
 -   **type**: manga
 -   **original-name**: ソウナンですか？
 -   **start-date**: 2017-01-07

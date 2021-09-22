@@ -1,5 +1,7 @@
 # S-dere na Kouhai Joshi ga Ore wo Choukyou Shiyou to Shitekimasu
 
+![s-dere-na-kouhai-joshi-ga-ore-wo-choukyou-shiyou-to-shitekimasu](https://cdn.myanimelist.net/images/manga/2/169779.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

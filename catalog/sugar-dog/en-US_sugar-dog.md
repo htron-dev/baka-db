@@ -1,5 +1,7 @@
 # Sugar Dog
 
+![sugar-dog](https://cdn.myanimelist.net/images/manga/3/197381.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

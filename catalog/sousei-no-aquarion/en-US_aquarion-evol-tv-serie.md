@@ -1,5 +1,7 @@
 # Aquarion Evol
 
+![aquarion-evol](https://cdn.myanimelist.net/images/anime/6/72743.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: アクエリオン EVOL

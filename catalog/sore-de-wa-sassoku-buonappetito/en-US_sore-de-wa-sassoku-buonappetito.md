@@ -1,5 +1,7 @@
 # Sore de wa Sassoku Buonappetito!
 
+![sore-de-wa-sassoku-buonappetito](https://cdn.myanimelist.net/images/manga/3/85729.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: それではさっそく Buonappetito!

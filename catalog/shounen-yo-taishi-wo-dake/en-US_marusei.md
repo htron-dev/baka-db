@@ -1,5 +1,7 @@
 # Marusei
 
+![marusei](https://cdn.myanimelist.net/images/manga/3/136333.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Chika Gentou Gekiga: Shoujo Tsubaki
 
+![chika-gentou-gekiga-shoujo-tsubaki](https://cdn.myanimelist.net/images/anime/13/77662.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 地下幻燈劇画 少女椿

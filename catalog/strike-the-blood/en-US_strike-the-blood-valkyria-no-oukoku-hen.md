@@ -1,5 +1,7 @@
 # Strike the Blood: Valkyria no Oukoku-hen
 
+![strike-the-blood-valkyria-no-oukoku-hen](https://cdn.myanimelist.net/images/anime/12/77275.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ストライク・ザ・ブラッド　ヴァルキュリアの王国篇

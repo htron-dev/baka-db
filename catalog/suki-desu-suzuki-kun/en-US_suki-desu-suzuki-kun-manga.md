@@ -1,5 +1,7 @@
 # Suki desu Suzuki-kun!!
 
+![suki-desu-suzuki-kun](https://cdn.myanimelist.net/images/manga/3/203322.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 95

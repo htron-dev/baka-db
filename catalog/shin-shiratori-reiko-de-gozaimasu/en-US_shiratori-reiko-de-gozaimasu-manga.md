@@ -1,5 +1,7 @@
 # Shiratori Reiko de Gozaimasu!
 
+![shiratori-reiko-de-gozaimasu](https://cdn.myanimelist.net/images/manga/1/9374.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 44

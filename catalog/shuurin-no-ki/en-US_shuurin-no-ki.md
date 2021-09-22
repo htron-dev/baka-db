@@ -1,5 +1,7 @@
 # Shuurin no Ki
 
+![shuurin-no-ki](https://cdn.myanimelist.net/images/manga/4/23432.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

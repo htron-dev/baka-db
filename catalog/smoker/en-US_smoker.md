@@ -1,5 +1,7 @@
 # Smoker
 
+![smoker](https://cdn.myanimelist.net/images/manga/3/62249.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

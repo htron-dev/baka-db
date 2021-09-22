@@ -1,5 +1,7 @@
 # Smile Kudasai
 
+![smile-kudasai](https://cdn.myanimelist.net/images/manga/1/84319.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

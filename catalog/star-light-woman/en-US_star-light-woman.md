@@ -1,5 +1,7 @@
 # Star Light Woman
 
+![star-light-woman](https://cdn.myanimelist.net/images/manga/2/129177.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

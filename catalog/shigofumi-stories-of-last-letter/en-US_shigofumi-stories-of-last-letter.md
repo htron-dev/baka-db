@@ -1,5 +1,7 @@
 # Shigofumi: Stories of Last Letter
 
+![shigofumi-stories-of-last-letter](https://cdn.myanimelist.net/images/manga/1/13458.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: シゴフミ ～ Stories of Last Letter ～

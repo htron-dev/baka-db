@@ -1,5 +1,7 @@
 # Spice to Custard
 
+![spice-to-custard](https://cdn.myanimelist.net/images/manga/1/195329.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 52

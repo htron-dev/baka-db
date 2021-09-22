@@ -1,5 +1,7 @@
 # Shingeki no Kyojin Picture Drama
 
+![shingeki-no-kyojin-picture-drama](https://cdn.myanimelist.net/images/anime/8/53477.jpg)
+
 -   **type**: special
 -   **episodes**: 9
 -   **original-name**: 「進撃の巨人」ちみキャラ劇場"とんでけ! 訓練兵団"

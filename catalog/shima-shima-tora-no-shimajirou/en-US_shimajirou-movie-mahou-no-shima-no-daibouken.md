@@ -1,5 +1,7 @@
 # Shimajirou Movie: Mahou no Shima no Daibouken
 
+![shimajirou-movie-mahou-no-shima-no-daibouken](https://cdn.myanimelist.net/images/anime/1265/90942.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画しまじろう まほうのしまの だいぼうけん

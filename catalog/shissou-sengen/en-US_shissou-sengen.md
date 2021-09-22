@@ -1,5 +1,7 @@
 # Shissou Sengen
 
+![shissou-sengen](https://cdn.myanimelist.net/images/manga/2/233460.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

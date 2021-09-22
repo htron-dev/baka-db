@@ -1,5 +1,7 @@
 # S dake ja Tarinai
 
+![s-dake-ja-tarinai](https://cdn.myanimelist.net/images/manga/2/150431.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

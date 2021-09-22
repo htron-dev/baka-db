@@ -1,5 +1,7 @@
 # Saint Seiya: The Lost Canvas - Meiou Shinwa Gaiden
 
+![saint-seiya-the-lost-canvas-meiou-shinwa-gaiden](https://cdn.myanimelist.net/images/manga/2/129599.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 90

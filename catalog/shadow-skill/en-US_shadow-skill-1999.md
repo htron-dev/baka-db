@@ -1,5 +1,7 @@
 # Shadow Skill (1999)
 
+![shadow-skill-1999](https://cdn.myanimelist.net/images/anime/1805/96581.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 影技 (1999) [邪技 ぢゃどうすぎる]

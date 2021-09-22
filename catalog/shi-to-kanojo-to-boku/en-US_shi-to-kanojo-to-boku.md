@@ -1,5 +1,7 @@
 # Shi to Kanojo to Boku
 
+![shi-to-kanojo-to-boku](https://cdn.myanimelist.net/images/manga/1/76911.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: 死と彼女とぼく

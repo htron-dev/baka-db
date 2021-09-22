@@ -1,5 +1,7 @@
 # Skill-kurai no Eiyuutan
 
+![skill-kurai-no-eiyuutan](https://cdn.myanimelist.net/images/manga/2/192886.jpg)
+
 -   **type**: light-novel
 -   **original-name**: スキル喰らいの英雄譚
 -   **start-date**: 2017-02-01

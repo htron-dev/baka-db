@@ -1,5 +1,7 @@
 # Shingeki no Kyojin-ten 360° Taikan Theater
 
+![shingeki-no-kyojin-ten-360-taikan-theater](https://cdn.myanimelist.net/images/anime/13/88350.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 進撃の巨人展 360° 体感シアター“哮"

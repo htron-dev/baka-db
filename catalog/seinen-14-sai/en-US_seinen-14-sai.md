@@ -1,5 +1,7 @@
 # Seinen 14-sai
 
+![seinen-14-sai](https://cdn.myanimelist.net/images/manga/2/33572.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

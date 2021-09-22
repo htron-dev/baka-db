@@ -1,5 +1,7 @@
 # Sword Gai
 
+![sword-gai](https://cdn.myanimelist.net/images/anime/8/76898.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 『ソードガイ 装刀凱』3DCG プロモーションムービー

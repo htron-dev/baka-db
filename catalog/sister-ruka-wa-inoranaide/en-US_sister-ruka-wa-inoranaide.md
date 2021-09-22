@@ -1,5 +1,7 @@
 # Sister Ruka wa Inoranaide!!
 
+![sister-ruka-wa-inoranaide](https://cdn.myanimelist.net/images/manga/1/24174.jpg)
+
 -   **type**: manga
 -   **original-name**: シスター・ルカは祈らないで!!
 -   **start-date**: 2007-06-20

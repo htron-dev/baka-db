@@ -1,5 +1,7 @@
 # Shiori no Nikki
 
+![shiori-no-nikki](https://cdn.myanimelist.net/images/manga/2/229372.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

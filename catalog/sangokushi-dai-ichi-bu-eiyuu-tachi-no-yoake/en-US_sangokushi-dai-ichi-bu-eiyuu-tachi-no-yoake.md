@@ -1,5 +1,7 @@
 # Sangokushi: Dai Ichi Bu - Eiyuu-tachi no Yoake
 
+![sangokushi-dai-ichi-bu-eiyuu-tachi-no-yoake](https://cdn.myanimelist.net/images/anime/1877/103239.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 三国志 第一部 英雄たちの夜明け

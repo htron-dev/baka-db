@@ -1,5 +1,7 @@
 # Shijou Saikyou Orc-san no Tanoshii Isekai Harem-zukuri
 
+![shijou-saikyou-orc-san-no-tanoshii-isekai-harem-zukuri](https://cdn.myanimelist.net/images/manga/3/229128.jpg)
+
 -   **type**: manga
 -   **original-name**: 史上最強オークさんの楽しい異世界ハーレムづくり
 -   **start-date**: 2019-09-19

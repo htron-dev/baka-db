@@ -1,5 +1,7 @@
 # Soukou Tekidanhei
 
+![soukou-tekidanhei](https://cdn.myanimelist.net/images/manga/1/132739.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 装甲擲弾兵

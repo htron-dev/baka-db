@@ -1,5 +1,7 @@
 # Summer Wars
 
+![summer-wars](https://cdn.myanimelist.net/images/manga/1/208973.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

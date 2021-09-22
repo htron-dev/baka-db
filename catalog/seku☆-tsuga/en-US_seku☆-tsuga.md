@@ -1,5 +1,7 @@
 # Seku☆Tsuga
 
+![seku☆-tsuga](https://cdn.myanimelist.net/images/manga/2/224371.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

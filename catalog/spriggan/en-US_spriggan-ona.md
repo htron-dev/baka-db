@@ -1,5 +1,7 @@
 # Spriggan (ONA)
 
+![spriggan-ona](https://cdn.myanimelist.net/images/anime/1114/116908.jpg)
+
 -   **type**: ona
 -   **original-name**: スプリガン
 -   **start-date**: 2022-01-20

@@ -1,5 +1,7 @@
 # Shinbashi Karasumoriguchi Gogo 7ji
 
+![shinbashi-karasumoriguchi-gogo-7-ji](https://cdn.myanimelist.net/images/manga/3/21143.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

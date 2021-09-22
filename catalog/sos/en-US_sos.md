@@ -1,5 +1,7 @@
 # SOS
 
+![sos](https://cdn.myanimelist.net/images/manga/1/154483.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

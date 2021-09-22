@@ -1,5 +1,7 @@
 # Shiryou Jutsushi no Otetsudai
 
+![shiryou-jutsushi-no-otetsudai](https://cdn.myanimelist.net/images/manga/3/243040.jpg)
+
 -   **type**: manga
 -   **original-name**: 死霊術師のお手伝い
 -   **start-date**: 2019-04-11

@@ -1,5 +1,7 @@
 # Sekai de Ichiban Kawaii Pet
 
+![sekai-de-ichiban-kawaii-pet](https://cdn.myanimelist.net/images/manga/3/153387.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 世界で一番かわいいペット

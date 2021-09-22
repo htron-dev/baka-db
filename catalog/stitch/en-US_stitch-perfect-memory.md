@@ -1,5 +1,7 @@
 # Stitch! Perfect Memory
 
+![stitch-perfect-memory](https://cdn.myanimelist.net/images/anime/1677/100545.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: スティッチ! パーフェクト・メモリー

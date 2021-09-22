@@ -1,5 +1,7 @@
 # Sukedachi 09
 
+![sukedachi-09](https://cdn.myanimelist.net/images/manga/2/161335.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

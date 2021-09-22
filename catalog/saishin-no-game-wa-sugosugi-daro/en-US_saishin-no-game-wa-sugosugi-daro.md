@@ -1,5 +1,7 @@
 # Saishin no Game wa Sugosugi daro
 
+![saishin-no-game-wa-sugosugi-daro](https://cdn.myanimelist.net/images/manga/3/158316.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **original-name**: 最新のゲームは凄すぎだろ

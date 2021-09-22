@@ -1,5 +1,7 @@
 # Shitsuji Choukyou Curriculum
 
+![shitsuji-choukyou-curriculum](https://cdn.myanimelist.net/images/manga/3/5980.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

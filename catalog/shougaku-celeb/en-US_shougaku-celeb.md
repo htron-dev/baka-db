@@ -1,5 +1,7 @@
 # Shougaku Celeb
 
+![shougaku-celeb](https://cdn.myanimelist.net/images/manga/3/128663.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: しょーがくせれぶ

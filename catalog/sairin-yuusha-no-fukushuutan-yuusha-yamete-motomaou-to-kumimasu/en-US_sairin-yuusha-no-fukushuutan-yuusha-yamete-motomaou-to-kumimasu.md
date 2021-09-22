@@ -1,5 +1,7 @@
 # Sairin Yuusha no Fukushuutan: Yuusha Yamete Motomaou to Kumimasu
 
+![sairin-yuusha-no-fukushuutan-yuusha-yamete-motomaou-to-kumimasu](https://cdn.myanimelist.net/images/manga/3/179753.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 再臨勇者の復讐譚~勇者やめて元魔王と組みます~
 -   **start-date**: 2016-06-30

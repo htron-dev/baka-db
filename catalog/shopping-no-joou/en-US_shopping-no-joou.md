@@ -1,5 +1,7 @@
 # Shopping no Joou
 
+![shopping-no-joou](https://cdn.myanimelist.net/images/manga/1/151674.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ショッピングの女王

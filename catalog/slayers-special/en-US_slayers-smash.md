@@ -1,5 +1,7 @@
 # Slayers Smash
 
+![slayers-smash](https://cdn.myanimelist.net/images/manga/1/217860.jpg)
+
 -   **type**: light-novel
 -   **original-name**: スレイヤーズ　すまっしゅ
 -   **start-date**: 2008-07-20

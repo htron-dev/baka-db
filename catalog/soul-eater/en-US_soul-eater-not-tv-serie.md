@@ -1,5 +1,7 @@
 # Soul Eater NOT!
 
+![soul-eater-not](https://cdn.myanimelist.net/images/anime/8/61889.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ソウルイーターノット！

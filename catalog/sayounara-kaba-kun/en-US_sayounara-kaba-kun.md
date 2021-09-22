@@ -1,5 +1,7 @@
 # Sayounara Kaba-kun
 
+![sayounara-kaba-kun](https://cdn.myanimelist.net/images/anime/2/67881.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: さようならカバくん

@@ -1,5 +1,7 @@
 # Shikabana: Hana, Shitai, Koto
 
+![shikabana-hana-shitai-koto](https://cdn.myanimelist.net/images/manga/1/227298.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 30

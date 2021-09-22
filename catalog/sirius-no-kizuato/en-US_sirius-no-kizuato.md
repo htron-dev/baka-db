@@ -1,5 +1,7 @@
 # Sirius no Kizuato
 
+![sirius-no-kizuato](https://cdn.myanimelist.net/images/manga/1/169875.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

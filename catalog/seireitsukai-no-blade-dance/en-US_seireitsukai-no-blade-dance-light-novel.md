@@ -1,5 +1,7 @@
 # Seireitsukai no Blade Dance
 
+![seireitsukai-no-blade-dance](https://cdn.myanimelist.net/images/manga/2/217828.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 20
 -   **chapters**: 218

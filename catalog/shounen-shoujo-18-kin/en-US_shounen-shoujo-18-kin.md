@@ -1,5 +1,7 @@
 # Shounen Shoujo 18-kin
 
+![shounen-shoujo-18-kin](https://cdn.myanimelist.net/images/manga/3/118991.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

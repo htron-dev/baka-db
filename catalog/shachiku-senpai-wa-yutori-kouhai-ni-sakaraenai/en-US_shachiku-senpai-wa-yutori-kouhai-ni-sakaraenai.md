@@ -1,5 +1,7 @@
 # Shachiku-senpai wa Yutori-kouhai ni Sakaraenai
 
+![shachiku-senpai-wa-yutori-kouhai-ni-sakaraenai](https://cdn.myanimelist.net/images/manga/1/248312.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

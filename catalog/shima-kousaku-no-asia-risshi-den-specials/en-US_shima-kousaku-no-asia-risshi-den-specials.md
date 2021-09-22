@@ -1,5 +1,7 @@
 # Shima Kousaku no Asia Risshi-den Specials
 
+![shima-kousaku-no-asia-risshi-den-specials](https://cdn.myanimelist.net/images/anime/6/80671.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: 島耕作のアジア立志伝

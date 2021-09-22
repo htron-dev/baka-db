@@ -1,5 +1,7 @@
 # Survival 2000
 
+![survival-2000](https://cdn.myanimelist.net/images/manga/3/214862.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: サバイバル 2000

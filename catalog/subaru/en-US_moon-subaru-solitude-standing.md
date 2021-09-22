@@ -1,5 +1,7 @@
 # Moon: Subaru Solitude Standing
 
+![moon-subaru-solitude-standing](https://cdn.myanimelist.net/images/manga/2/182530.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 99

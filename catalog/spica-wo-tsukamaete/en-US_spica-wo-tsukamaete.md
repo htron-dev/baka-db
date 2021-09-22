@@ -1,5 +1,7 @@
 # Spica wo Tsukamaete
 
+![spica-wo-tsukamaete](https://cdn.myanimelist.net/images/manga/3/246789.jpg)
+
 -   **type**: manga
 -   **original-name**: スピカをつかまえて
 -   **start-date**: 2021-06-17

@@ -1,5 +1,7 @@
 # Saiyuu Youenden
 
+![saiyuu-youenden](https://cdn.myanimelist.net/images/manga/1/240441.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 102

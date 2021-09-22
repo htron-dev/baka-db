@@ -1,5 +1,7 @@
 # Stripe the Panzer
 
+![stripe-the-panzer](https://cdn.myanimelist.net/images/manga/3/163342.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: ストライプ・ザ・パンツァー

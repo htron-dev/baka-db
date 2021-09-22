@@ -1,5 +1,7 @@
 # Seishun Shonbori Club
 
+![seishun-shonbori-club](https://cdn.myanimelist.net/images/manga/3/96377.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 82

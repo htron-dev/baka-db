@@ -1,5 +1,7 @@
 # Seijo no Hazu ga, Douyara Nottoraremashita
 
+![seijo-no-hazu-ga-douyara-nottoraremashita](https://cdn.myanimelist.net/images/manga/2/243459.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 聖女のはずが、どうやら乗っ取られました
 -   **start-date**: 2020-06-25

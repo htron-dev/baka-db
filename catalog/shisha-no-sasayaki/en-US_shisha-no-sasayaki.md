@@ -1,5 +1,7 @@
 # Shisha no Sasayaki
 
+![shisha-no-sasayaki](https://cdn.myanimelist.net/images/manga/1/119019.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Steal!!: Saikyou no Last Number to Saikyou no Clears
 
+![steal-saikyou-no-last-number-to-saikyou-no-clears](https://cdn.myanimelist.net/images/manga/2/195782.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

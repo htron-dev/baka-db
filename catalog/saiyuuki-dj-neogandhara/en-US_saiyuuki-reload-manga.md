@@ -1,5 +1,7 @@
 # Saiyuuki Reload
 
+![saiyuuki-reload](https://cdn.myanimelist.net/images/manga/1/172702.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 66

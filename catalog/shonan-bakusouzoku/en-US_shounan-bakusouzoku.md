@@ -1,5 +1,7 @@
 # Shounan Bakusouzoku
 
+![shounan-bakusouzoku](https://cdn.myanimelist.net/images/anime/6/69945.jpg)
+
 -   **type**: ova
 -   **episodes**: 12
 -   **original-name**: 湘南爆走族

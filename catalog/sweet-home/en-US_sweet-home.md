@@ -1,5 +1,7 @@
 # Sweet Home
 
+![sweet-home](https://cdn.myanimelist.net/images/manga/3/227600.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 12
 -   **chapters**: 141

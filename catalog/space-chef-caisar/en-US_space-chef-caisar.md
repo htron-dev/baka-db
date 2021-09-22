@@ -1,5 +1,7 @@
 # Space Chef Caisar
 
+![space-chef-caisar](https://cdn.myanimelist.net/images/manga/3/180450.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

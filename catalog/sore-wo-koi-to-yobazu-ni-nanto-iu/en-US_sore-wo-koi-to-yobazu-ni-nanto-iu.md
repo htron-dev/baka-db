@@ -1,5 +1,7 @@
 # Sore wo Koi to Yobazu ni Nanto Iu
 
+![sore-wo-koi-to-yobazu-ni-nanto-iu](https://cdn.myanimelist.net/images/manga/2/237962.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

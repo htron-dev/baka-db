@@ -1,5 +1,7 @@
 # Shaman King Faust 8: Eien no Eliza
 
+![shaman-king-faust-8-eien-no-eliza](https://cdn.myanimelist.net/images/manga/1/220029.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

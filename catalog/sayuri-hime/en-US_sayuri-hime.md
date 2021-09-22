@@ -1,5 +1,7 @@
 # Sayuri Hime
 
+![sayuri-hime](https://cdn.myanimelist.net/images/manga/1/19720.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 小百合姫

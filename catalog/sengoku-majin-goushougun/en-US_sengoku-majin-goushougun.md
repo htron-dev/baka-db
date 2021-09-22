@@ -1,5 +1,7 @@
 # Sengoku Majin Goushougun
 
+![sengoku-majin-goushougun](https://cdn.myanimelist.net/images/anime/11/18779.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 戦国魔神ゴーショーグン

@@ -1,5 +1,7 @@
 # Sono Otoko, Kikkai ni Tsuki
 
+![sono-otoko-kikkai-ni-tsuki](https://cdn.myanimelist.net/images/manga/2/149080.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

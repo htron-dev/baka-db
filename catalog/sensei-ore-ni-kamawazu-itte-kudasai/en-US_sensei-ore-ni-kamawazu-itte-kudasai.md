@@ -1,5 +1,7 @@
 # Sensei, Ore ni Kamawazu Itte Kudasai!!
 
+![sensei-ore-ni-kamawazu-itte-kudasai](https://cdn.myanimelist.net/images/manga/3/217763.jpg)
+
 -   **type**: manga
 -   **original-name**: 先生、俺にかまわずイッてください!!
 -   **start-date**: 2018-08-18

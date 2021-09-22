@@ -1,5 +1,7 @@
 # Sakurada Reset: Cat, Ghost and Revolution Sunday
 
+![sakurada-reset-cat-ghost-and-revolution-sunday](https://cdn.myanimelist.net/images/manga/1/183769.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

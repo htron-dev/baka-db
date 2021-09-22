@@ -1,5 +1,7 @@
 # Sora kara Furumono
 
+![sora-kara-furumono](https://cdn.myanimelist.net/images/manga/3/31381.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

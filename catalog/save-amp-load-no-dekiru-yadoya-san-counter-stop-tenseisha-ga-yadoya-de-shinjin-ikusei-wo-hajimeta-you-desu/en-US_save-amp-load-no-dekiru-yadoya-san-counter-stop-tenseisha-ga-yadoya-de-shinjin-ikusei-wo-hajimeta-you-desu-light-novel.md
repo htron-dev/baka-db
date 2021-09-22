@@ -1,5 +1,7 @@
 # Save &amp; Load no Dekiru Yadoya-san: Counter Stop Tenseisha ga Yadoya de Shinjin Ikusei wo Hajimeta you desu
 
+![save-amp-load-no-dekiru-yadoya-san-counter-stop-tenseisha-ga-yadoya-de-shinjin-ikusei-wo-hajimeta-you-desu](https://cdn.myanimelist.net/images/manga/2/227731.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Saitei Otoko wa Ichizu na Otoko: Kankin Rape wa Koi no Hajimari
 
+![saitei-otoko-wa-ichizu-na-otoko-kankin-rape-wa-koi-no-hajimari](https://cdn.myanimelist.net/images/manga/3/200629.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 最低男は一途な男～監禁レイプは恋の始まり～

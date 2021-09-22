@@ -1,5 +1,7 @@
 # SSG: Meimon Danshikou Keppuroku
 
+![ssg-meimon-danshikou-keppuroku](https://cdn.myanimelist.net/images/manga/1/152731.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

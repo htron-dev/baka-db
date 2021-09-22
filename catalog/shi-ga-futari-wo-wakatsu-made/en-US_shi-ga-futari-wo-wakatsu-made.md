@@ -1,5 +1,7 @@
 # Shi ga Futari wo Wakatsu made
 
+![shi-ga-futari-wo-wakatsu-made](https://cdn.myanimelist.net/images/manga/3/167767.jpg)
+
 -   **type**: manga
 -   **volumes**: 26
 -   **chapters**: 217

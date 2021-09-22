@@ -1,5 +1,7 @@
 # Subete no Jidai wo Tsuujite no Satsujinjutsu
 
+![subete-no-jidai-wo-tsuujite-no-satsujinjutsu](https://cdn.myanimelist.net/images/manga/2/145049.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

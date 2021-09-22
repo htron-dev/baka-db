@@ -1,5 +1,7 @@
 # Secret Flight
 
+![secret-flight](https://cdn.myanimelist.net/images/manga/2/190205.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: シークレット フライト

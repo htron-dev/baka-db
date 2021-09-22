@@ -1,5 +1,7 @@
 # Shouen no Machi no Eiyuu Shoujo
 
+![shouen-no-machi-no-eiyuu-shoujo](https://cdn.myanimelist.net/images/manga/1/177709.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 26

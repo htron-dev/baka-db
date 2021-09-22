@@ -1,5 +1,7 @@
 # Saishuu Agent★Chikaru
 
+![saishuu-agent★-chikaru](https://cdn.myanimelist.net/images/manga/1/162325.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

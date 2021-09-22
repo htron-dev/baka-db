@@ -1,5 +1,7 @@
 # Shinshi Doumei Cross
 
+![shinshi-doumei-cross](https://cdn.myanimelist.net/images/manga/3/33507.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 59

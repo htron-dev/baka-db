@@ -1,5 +1,7 @@
 # Shiritsu Sei Cattlya Shougakkou
 
+![shiritsu-sei-cattlya-shougakkou](https://cdn.myanimelist.net/images/manga/1/32919.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 私立聖カトレア小学校

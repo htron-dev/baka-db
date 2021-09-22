@@ -1,5 +1,7 @@
 # Skyhigh: Karma
 
+![skyhigh-karma](https://cdn.myanimelist.net/images/manga/1/133015.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

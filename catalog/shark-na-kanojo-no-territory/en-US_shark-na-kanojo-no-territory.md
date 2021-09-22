@@ -1,5 +1,7 @@
 # Shark na Kanojo no Territory
 
+![shark-na-kanojo-no-territory](https://cdn.myanimelist.net/images/manga/2/221529.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

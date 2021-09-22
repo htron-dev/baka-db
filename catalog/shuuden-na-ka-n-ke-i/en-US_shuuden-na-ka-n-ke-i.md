@@ -1,5 +1,7 @@
 # Shuuden na Ka-n-ke-i
 
+![shuuden-na-ka-n-ke-i](https://cdn.myanimelist.net/images/manga/3/78937.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

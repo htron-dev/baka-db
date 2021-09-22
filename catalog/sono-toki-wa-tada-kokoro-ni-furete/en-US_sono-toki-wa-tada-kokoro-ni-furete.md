@@ -1,5 +1,7 @@
 # Sono Toki wa Tada Kokoro ni Furete
 
+![sono-toki-wa-tada-kokoro-ni-furete](https://cdn.myanimelist.net/images/manga/3/59429.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

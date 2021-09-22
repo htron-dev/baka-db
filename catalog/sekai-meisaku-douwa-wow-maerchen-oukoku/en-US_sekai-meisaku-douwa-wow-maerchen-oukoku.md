@@ -1,5 +1,7 @@
 # Sekai Meisaku Douwa: Wow! Maerchen Oukoku
 
+![sekai-meisaku-douwa-wow-maerchen-oukoku](https://cdn.myanimelist.net/images/anime/8/17158.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: アニメ世界の童話 / メルヘン王国

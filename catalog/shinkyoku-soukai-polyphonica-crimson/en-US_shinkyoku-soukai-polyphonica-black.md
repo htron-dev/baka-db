@@ -1,5 +1,7 @@
 # Shinkyoku Soukai Polyphonica Black
 
+![shinkyoku-soukai-polyphonica-black](https://cdn.myanimelist.net/images/manga/1/33060.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 13
 -   **original-name**: 神曲奏界ポリフォニカ ・ブラック

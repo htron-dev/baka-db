@@ -1,5 +1,7 @@
 # Seiwa Gakuen Bentou-bu!
 
+![seiwa-gakuen-bentou-bu](https://cdn.myanimelist.net/images/manga/2/100625.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

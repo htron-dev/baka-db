@@ -1,5 +1,7 @@
 # Seiki no Playboy
 
+![seiki-no-playboy](https://cdn.myanimelist.net/images/manga/2/170097.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 世紀のプレイボーイ

@@ -1,5 +1,7 @@
 # Seishun Rikon
 
+![seishun-rikon](https://cdn.myanimelist.net/images/manga/1/128641.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 青春離婚

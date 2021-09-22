@@ -1,5 +1,7 @@
 # Shingeki no Kyojin Volume 0
 
+![shingeki-no-kyojin-volume-0](https://cdn.myanimelist.net/images/manga/1/100805.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 進撃の巨人 0 巻

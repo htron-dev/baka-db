@@ -1,5 +1,7 @@
 # Shigatsu wa Kimi no Uso: 6-nin no Études
 
+![shigatsu-wa-kimi-no-uso-6-nin-no-etudes](https://cdn.myanimelist.net/images/manga/1/144493.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

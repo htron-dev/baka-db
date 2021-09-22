@@ -1,5 +1,7 @@
 # Setsunai ne
 
+![setsunai-ne](https://cdn.myanimelist.net/images/manga/1/152905.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

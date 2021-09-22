@@ -1,5 +1,7 @@
 # Sarukuiyama Gigoku Jiken
 
+![sarukuiyama-gigoku-jiken](https://cdn.myanimelist.net/images/manga/3/34488.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 猿喰山疑獄事件

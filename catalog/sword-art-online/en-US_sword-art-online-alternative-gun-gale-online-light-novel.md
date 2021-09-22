@@ -1,5 +1,7 @@
 # Sword Art Online Alternative: Gun Gale Online
 
+![sword-art-online-alternative-gun-gale-online](https://cdn.myanimelist.net/images/manga/2/180432.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ソードアート・オンライン オルタナティブ ガンゲイル・オンライン
 -   **start-date**: 2014-12-10

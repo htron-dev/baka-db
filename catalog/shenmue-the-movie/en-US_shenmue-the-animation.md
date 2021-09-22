@@ -1,5 +1,7 @@
 # Shenmue: The Animation
 
+![shenmue-the-animation](https://cdn.myanimelist.net/images/anime/1222/109088.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: シェンムー

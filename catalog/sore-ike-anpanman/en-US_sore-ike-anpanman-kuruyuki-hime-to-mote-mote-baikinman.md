@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Kuruyuki-hime to Mote Mote Baikinman
 
+![sore-ike-anpanman-kuruyuki-hime-to-mote-mote-baikinman](https://cdn.myanimelist.net/images/anime/11/57711.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ!アンパンマン くろゆき姫とモテモテばいきんまん

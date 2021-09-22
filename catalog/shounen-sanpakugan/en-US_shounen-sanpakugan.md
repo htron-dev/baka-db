@@ -1,5 +1,7 @@
 # Shounen Sanpakugan
 
+![shounen-sanpakugan](https://cdn.myanimelist.net/images/manga/3/95797.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 少年三白眼

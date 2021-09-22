@@ -1,5 +1,7 @@
 # Sora no Kanata no!
 
+![sora-no-kanata-no](https://cdn.myanimelist.net/images/manga/2/28210.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 26

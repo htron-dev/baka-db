@@ -1,5 +1,7 @@
 # Shuuten Unknown Gaiden
 
+![shuuten-unknown-gaiden](https://cdn.myanimelist.net/images/manga/1/224428.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

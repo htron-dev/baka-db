@@ -1,5 +1,7 @@
 # Saotome Senshu, Hitakakusu
 
+![saotome-senshu-hitakakusu](https://cdn.myanimelist.net/images/manga/1/189746.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 124

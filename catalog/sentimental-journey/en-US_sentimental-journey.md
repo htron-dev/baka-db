@@ -1,5 +1,7 @@
 # Sentimental Journey
 
+![sentimental-journey](https://cdn.myanimelist.net/images/anime/3/49617.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: センチメンタルジャーニー

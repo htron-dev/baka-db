@@ -1,5 +1,7 @@
 # Spy Kyoushitsu
 
+![spy-kyoushitsu](https://cdn.myanimelist.net/images/manga/1/235215.jpg)
+
 -   **type**: light-novel
 -   **original-name**: スパイ教室
 -   **start-date**: 2020-01-18

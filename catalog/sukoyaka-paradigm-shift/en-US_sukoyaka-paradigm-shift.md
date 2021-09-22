@@ -1,5 +1,7 @@
 # Sukoyaka Paradigm Shift
 
+![sukoyaka-paradigm-shift](https://cdn.myanimelist.net/images/manga/1/189546.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

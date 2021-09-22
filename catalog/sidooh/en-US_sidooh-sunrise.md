@@ -1,5 +1,7 @@
 # Sidooh: Sunrise
 
+![sidooh-sunrise](https://cdn.myanimelist.net/images/manga/1/52429.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

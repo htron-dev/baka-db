@@ -1,5 +1,7 @@
 # Subaru
 
+![subaru](https://cdn.myanimelist.net/images/manga/1/36574.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 123

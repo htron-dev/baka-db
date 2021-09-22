@@ -1,5 +1,7 @@
 # Ino-Head Gargoyle
 
+![ino-head-gargoyle](https://cdn.myanimelist.net/images/manga/1/185810.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 39

@@ -1,5 +1,7 @@
 # Shingeki no Kyojin: Kuinaki Sentaku
 
+![shingeki-no-kyojin-kuinaki-sentaku](https://cdn.myanimelist.net/images/anime/8/69497.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 進撃の巨人 悔いなき選択

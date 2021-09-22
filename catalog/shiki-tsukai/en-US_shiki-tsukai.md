@@ -1,5 +1,7 @@
 # Shiki Tsukai
 
+![shiki-tsukai](https://cdn.myanimelist.net/images/manga/3/53445.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **original-name**: 四季使い

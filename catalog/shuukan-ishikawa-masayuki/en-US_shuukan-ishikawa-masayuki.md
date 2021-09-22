@@ -1,5 +1,7 @@
 # Shuukan Ishikawa Masayuki
 
+![shuukan-ishikawa-masayuki](https://cdn.myanimelist.net/images/manga/3/29225.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

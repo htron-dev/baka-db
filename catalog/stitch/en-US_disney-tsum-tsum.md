@@ -1,5 +1,7 @@
 # Disney Tsum Tsum
 
+![disney-tsum-tsum](https://cdn.myanimelist.net/images/anime/1806/112472.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 37
 -   **original-name**: ディズニー ツムツム

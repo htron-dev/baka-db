@@ -1,5 +1,7 @@
 # Sora no Otoshimono
 
+![sora-no-otoshimono](https://cdn.myanimelist.net/images/manga/2/188988.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 97

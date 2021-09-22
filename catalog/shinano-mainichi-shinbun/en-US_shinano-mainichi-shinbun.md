@@ -1,5 +1,7 @@
 # Shinano Mainichi Shinbun
 
+![shinano-mainichi-shinbun](https://cdn.myanimelist.net/images/anime/5/64593.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 信濃毎日新聞

@@ -1,5 +1,7 @@
 # Sailor Zombie
 
+![sailor-zombie](https://cdn.myanimelist.net/images/manga/2/165183.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

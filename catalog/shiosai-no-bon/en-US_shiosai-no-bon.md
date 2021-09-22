@@ -1,5 +1,7 @@
 # Shiosai no Bon
 
+![shiosai-no-bon](https://cdn.myanimelist.net/images/manga/1/216608.jpg)
+
 -   **type**: manga
 -   **original-name**: 潮騒の凡
 -   **start-date**: 2018-08-03

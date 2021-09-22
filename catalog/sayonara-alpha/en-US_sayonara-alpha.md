@@ -1,5 +1,7 @@
 # Sayonara Alpha
 
+![sayonara-alpha](https://cdn.myanimelist.net/images/manga/2/198399.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

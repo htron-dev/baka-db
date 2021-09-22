@@ -1,5 +1,7 @@
 # Shaman Warrior
 
+![shaman-warrior](https://cdn.myanimelist.net/images/manga/3/34013.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 9
 -   **chapters**: 72

@@ -1,5 +1,7 @@
 # Shika no Sono: Kamimura Kazuo Eros Kessakusen Volume 1
 
+![shika-no-sono-kamimura-kazuo-eros-kessakusen-volume-1](https://cdn.myanimelist.net/images/manga/3/240482.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

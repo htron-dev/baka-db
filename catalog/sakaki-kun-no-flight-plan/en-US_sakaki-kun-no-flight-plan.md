@@ -1,5 +1,7 @@
 # Sakaki-kun no Flight Plan
 
+![sakaki-kun-no-flight-plan](https://cdn.myanimelist.net/images/manga/3/245537.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

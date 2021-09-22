@@ -1,5 +1,7 @@
 # Sketchbook
 
+![sketchbook](https://cdn.myanimelist.net/images/manga/1/178767.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 219

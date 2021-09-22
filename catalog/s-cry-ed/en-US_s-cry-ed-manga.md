@@ -1,5 +1,7 @@
 # s.CRY.ed
 
+![s-cry-ed](https://cdn.myanimelist.net/images/manga/1/56325.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 45

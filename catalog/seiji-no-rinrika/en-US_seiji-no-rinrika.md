@@ -1,5 +1,7 @@
 # Seiji no Rinrika
 
+![seiji-no-rinrika](https://cdn.myanimelist.net/images/anime/5/85158.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 政治の倫理化

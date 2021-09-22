@@ -1,5 +1,7 @@
 # Souyoku no Oujuu Kishidan
 
+![souyoku-no-oujuu-kishidan](https://cdn.myanimelist.net/images/manga/3/217956.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 19

@@ -1,5 +1,7 @@
 # Shitsuren Chocolatier
 
+![shitsuren-chocolatier](https://cdn.myanimelist.net/images/manga/3/158516.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 43

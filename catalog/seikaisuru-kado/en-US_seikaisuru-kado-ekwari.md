@@ -1,5 +1,7 @@
 # Seikaisuru Kado: Ekwari
 
+![seikaisuru-kado-ekwari](https://cdn.myanimelist.net/images/anime/3/85883.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 正解するカド 総集編 エクワリ

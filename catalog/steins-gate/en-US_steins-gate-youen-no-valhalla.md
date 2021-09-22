@@ -1,5 +1,7 @@
 # Steins;Gate: Youen no Valhalla
 
+![steins-gate-youen-no-valhalla](https://cdn.myanimelist.net/images/manga/2/83621.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 1

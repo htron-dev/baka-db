@@ -1,5 +1,7 @@
 # Shokugeki no Souma
 
+![shokugeki-no-souma](https://cdn.myanimelist.net/images/manga/1/115803.jpg)
+
 -   **type**: manga
 -   **volumes**: 36
 -   **chapters**: 325

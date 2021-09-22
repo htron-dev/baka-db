@@ -1,5 +1,7 @@
 # Seishun wa Juujuu da
 
+![seishun-wa-juujuu-da](https://cdn.myanimelist.net/images/manga/2/203751.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

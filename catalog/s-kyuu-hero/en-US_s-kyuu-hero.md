@@ -1,5 +1,7 @@
 # S Kyuu Hero!
 
+![s-kyuu-hero](https://cdn.myanimelist.net/images/manga/1/17623.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 28

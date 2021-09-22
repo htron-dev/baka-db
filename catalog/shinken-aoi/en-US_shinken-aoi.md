@@ -1,5 +1,7 @@
 # Shinken Aoi
 
+![shinken-aoi](https://cdn.myanimelist.net/images/manga/2/126343.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 神剣アオイ

@@ -1,5 +1,7 @@
 # Sexaroid 4
 
+![sexaroid-4](https://cdn.myanimelist.net/images/manga/2/247536.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: セクサロイド 4

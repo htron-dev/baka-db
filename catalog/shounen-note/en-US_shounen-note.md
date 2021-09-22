@@ -1,5 +1,7 @@
 # Shounen Note
 
+![shounen-note](https://cdn.myanimelist.net/images/manga/1/152355.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 40

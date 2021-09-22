@@ -1,5 +1,7 @@
 # Sentai Red Isekai de Boukensha ni Naru
 
+![sentai-red-isekai-de-boukensha-ni-naru](https://cdn.myanimelist.net/images/manga/3/243304.jpg)
+
 -   **type**: manga
 -   **original-name**: 戦隊レッド 異世界で冒険者になる
 -   **start-date**: 2020-10-12

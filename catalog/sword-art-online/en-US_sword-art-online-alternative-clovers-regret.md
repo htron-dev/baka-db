@@ -1,5 +1,7 @@
 # Sword Art Online Alternative: Clover's Regret
 
+![sword-art-online-alternative-clovers-regret](https://cdn.myanimelist.net/images/manga/2/186734.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 14

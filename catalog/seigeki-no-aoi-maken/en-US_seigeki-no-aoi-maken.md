@@ -1,5 +1,7 @@
 # Seigeki no Aoi Maken
 
+![seigeki-no-aoi-maken](https://cdn.myanimelist.net/images/manga/2/160957.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 18

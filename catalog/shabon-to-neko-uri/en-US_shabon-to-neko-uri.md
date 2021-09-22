@@ -1,5 +1,7 @@
 # Shabon to Neko Uri
 
+![shabon-to-neko-uri](https://cdn.myanimelist.net/images/manga/2/217100.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

@@ -1,5 +1,7 @@
 # Saint Seiya: Meiou Iden - Dark Wing
 
+![saint-seiya-meiou-iden-dark-wing](https://cdn.myanimelist.net/images/manga/1/246667.jpg)
+
 -   **type**: manga
 -   **original-name**: 聖闘士星矢 冥王異伝 ダークウィング
 -   **start-date**: 2020-12-19

@@ -1,5 +1,7 @@
 # Star Project Chiro
 
+![star-project-chiro](https://cdn.myanimelist.net/images/manga/1/4455.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 12
 -   **original-name**: 치로

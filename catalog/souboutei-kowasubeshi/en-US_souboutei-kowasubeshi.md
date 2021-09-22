@@ -1,5 +1,7 @@
 # Souboutei Kowasubeshi
 
+![souboutei-kowasubeshi](https://cdn.myanimelist.net/images/manga/3/183921.jpg)
+
 -   **type**: manga
 -   **volumes**: 25
 -   **chapters**: 250

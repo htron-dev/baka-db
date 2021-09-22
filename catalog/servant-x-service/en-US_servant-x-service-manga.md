@@ -1,5 +1,7 @@
 # Servant x Service
 
+![servant-x-service](https://cdn.myanimelist.net/images/manga/2/142555.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 78

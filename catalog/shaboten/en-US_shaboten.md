@@ -1,5 +1,7 @@
 # Shaboten
 
+![shaboten](https://cdn.myanimelist.net/images/manga/2/21125.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: しゃぼてん

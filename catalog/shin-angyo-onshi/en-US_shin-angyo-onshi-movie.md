@@ -1,5 +1,7 @@
 # Shin Angyo Onshi
 
+![shin-angyo-onshi](https://cdn.myanimelist.net/images/anime/6/23992.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 新暗行御史

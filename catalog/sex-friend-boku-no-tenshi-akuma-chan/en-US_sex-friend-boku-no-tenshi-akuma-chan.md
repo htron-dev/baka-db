@@ -1,5 +1,7 @@
 # Sex Friend: Boku no Tenshi Akuma-chan
 
+![sex-friend-boku-no-tenshi-akuma-chan](https://cdn.myanimelist.net/images/manga/3/199319.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

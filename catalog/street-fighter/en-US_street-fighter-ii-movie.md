@@ -1,5 +1,7 @@
 # Street Fighter II Movie
 
+![street-fighter-ii-movie](https://cdn.myanimelist.net/images/anime/8/76411.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ストリートファイター II MOVIE

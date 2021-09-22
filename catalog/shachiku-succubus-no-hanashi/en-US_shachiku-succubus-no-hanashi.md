@@ -1,5 +1,7 @@
 # Shachiku Succubus no Hanashi
 
+![shachiku-succubus-no-hanashi](https://cdn.myanimelist.net/images/manga/1/226132.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 22

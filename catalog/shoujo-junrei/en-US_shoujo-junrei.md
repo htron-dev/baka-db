@@ -1,5 +1,7 @@
 # Shoujo Junrei
 
+![shoujo-junrei](https://cdn.myanimelist.net/images/manga/3/225561.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

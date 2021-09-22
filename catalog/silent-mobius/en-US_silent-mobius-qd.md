@@ -1,5 +1,7 @@
 # Silent Möbius QD
 
+![silent-mobius-qd](https://cdn.myanimelist.net/images/manga/2/158979.jpg)
+
 -   **type**: manga
 -   **original-name**: サイレントメビウス QD〈クアドリガ〉
 -   **start-date**: 2013-08-12

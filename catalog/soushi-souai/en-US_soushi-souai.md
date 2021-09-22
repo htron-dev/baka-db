@@ -1,5 +1,7 @@
 # Soushi Souai
 
+![soushi-souai](https://cdn.myanimelist.net/images/manga/2/189400.jpg)
+
 -   **type**: manga
 -   **original-name**: そうしそうあい
 -   **start-date**: 2015-08-27

@@ -1,5 +1,7 @@
 # Saiyuuki: Son Gokuu Monogatari
 
+![saiyuuki-son-gokuu-monogatari](https://cdn.myanimelist.net/images/anime/11/17996.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 西遊記孫悟空物語

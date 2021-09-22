@@ -1,5 +1,7 @@
 # Shinsengumi
 
+![shinsengumi](https://cdn.myanimelist.net/images/anime/1331/99380.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 新撰組

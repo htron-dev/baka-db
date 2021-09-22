@@ -1,5 +1,7 @@
 # Shokugyou, Shounin
 
+![shokugyou-shounin](https://cdn.myanimelist.net/images/manga/3/185113.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 職業、商人
 -   **start-date**: 2016-11-12

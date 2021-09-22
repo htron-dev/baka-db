@@ -1,5 +1,7 @@
 # Shiritsu Hamanasu Chuukoutou Gakkou Danshiryou no Tomadoi
 
+![shiritsu-hamanasu-chuukoutou-gakkou-danshiryou-no-tomadoi](https://cdn.myanimelist.net/images/manga/2/232180.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

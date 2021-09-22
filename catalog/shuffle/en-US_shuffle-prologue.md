@@ -1,5 +1,7 @@
 # Shuffle! Prologue
 
+![shuffle-prologue](https://cdn.myanimelist.net/images/anime/8/17744.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: SHUFFLE! (シャッフル!) Prologue

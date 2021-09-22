@@ -1,5 +1,7 @@
 # Snow in the Dark
 
+![snow-in-the-dark](https://cdn.myanimelist.net/images/manga/4/82372.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

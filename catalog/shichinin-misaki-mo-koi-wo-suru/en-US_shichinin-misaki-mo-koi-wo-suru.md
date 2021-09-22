@@ -1,5 +1,7 @@
 # Shichinin Misaki mo Koi wo Suru
 
+![shichinin-misaki-mo-koi-wo-suru](https://cdn.myanimelist.net/images/manga/1/160978.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 七人ミサキも恋をする

@@ -1,5 +1,7 @@
 # Sousei no Taiga
 
+![sousei-no-taiga](https://cdn.myanimelist.net/images/manga/1/199770.jpg)
+
 -   **type**: manga
 -   **original-name**: 創世のタイガ
 -   **start-date**: 2017-03-28

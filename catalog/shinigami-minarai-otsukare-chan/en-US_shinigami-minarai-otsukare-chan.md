@@ -1,5 +1,7 @@
 # Shinigami Minarai! Otsukare-chan
 
+![shinigami-minarai-otsukare-chan](https://cdn.myanimelist.net/images/manga/1/215546.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 32

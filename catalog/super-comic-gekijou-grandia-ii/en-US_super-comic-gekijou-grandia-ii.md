@@ -1,5 +1,7 @@
 # Super Comic Gekijou: Grandia II
 
+![super-comic-gekijou-grandia-ii](https://cdn.myanimelist.net/images/manga/3/151581.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: スーパーコミック劇場 グランディア II

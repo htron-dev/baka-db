@@ -1,5 +1,7 @@
 # Sword Art Online II: Debriefing
 
+![sword-art-online-ii-debriefing](https://cdn.myanimelist.net/images/anime/10/67587.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ソードアート・オンライン II

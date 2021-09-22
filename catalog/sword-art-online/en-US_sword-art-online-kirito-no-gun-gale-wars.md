@@ -1,5 +1,7 @@
 # Sword Art Online: Kirito no Gun Gale Wars
 
+![sword-art-online-kirito-no-gun-gale-wars](https://cdn.myanimelist.net/images/manga/3/215595.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

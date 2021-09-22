@@ -1,5 +1,7 @@
 # Seijo no Maryoku wa Bannou Desu
 
+![seijo-no-maryoku-wa-bannou-desu](https://cdn.myanimelist.net/images/anime/1947/114235.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 聖女の魔力は万能です

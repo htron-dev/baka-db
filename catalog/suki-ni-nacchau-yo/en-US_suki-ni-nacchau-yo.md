@@ -1,5 +1,7 @@
 # Suki ni Nacchau yo.
 
+![suki-ni-nacchau-yo](https://cdn.myanimelist.net/images/manga/1/238451.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

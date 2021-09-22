@@ -1,5 +1,7 @@
 # SKET Dance: Imouto no Nayami ni Nayamu Ani ni Nayamu Imouto to Sono Nakama-tachi
 
+![sket-dance-imouto-no-nayami-ni-nayamu-ani-ni-nayamu-imouto-to-sono-nakama-tachi](https://cdn.myanimelist.net/images/anime/1703/97779.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: スケットダンス 妹の悩みに悩む兄に悩む妹とその仲間達

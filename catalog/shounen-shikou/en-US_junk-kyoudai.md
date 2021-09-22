@@ -1,5 +1,7 @@
 # Junk Kyoudai
 
+![junk-kyoudai](https://cdn.myanimelist.net/images/manga/1/31065.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Sankaku Mado no Sotogawa wa Yoru
 
+![sankaku-mado-no-sotogawa-wa-yoru](https://cdn.myanimelist.net/images/manga/2/116395.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 57

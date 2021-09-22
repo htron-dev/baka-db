@@ -1,5 +1,7 @@
 # Soukyuu no Fafner: Dead Aggressor
 
+![soukyuu-no-fafner-dead-aggressor](https://cdn.myanimelist.net/images/manga/3/32587.jpg)
+
 -   **type**: manga
 -   **original-name**: 蒼穹のファフナー Dead Aggressor
 -   **start-date**: 2014-09-26

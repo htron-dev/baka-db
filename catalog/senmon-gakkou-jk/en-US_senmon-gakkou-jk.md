@@ -1,5 +1,7 @@
 # Senmon Gakkou JK
 
+![senmon-gakkou-jk](https://cdn.myanimelist.net/images/manga/1/246607.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

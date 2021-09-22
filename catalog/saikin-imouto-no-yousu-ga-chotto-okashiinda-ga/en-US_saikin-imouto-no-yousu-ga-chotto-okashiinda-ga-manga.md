@@ -1,5 +1,7 @@
 # Saikin, Imouto no Yousu ga Chotto Okashiinda ga.
 
+![saikin-imouto-no-yousu-ga-chotto-okashiinda-ga](https://cdn.myanimelist.net/images/manga/1/63283.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 58

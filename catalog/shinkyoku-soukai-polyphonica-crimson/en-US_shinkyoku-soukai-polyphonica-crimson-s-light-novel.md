@@ -1,5 +1,7 @@
 # Shinkyoku Soukai Polyphonica Crimson S
 
+![shinkyoku-soukai-polyphonica-crimson-s](https://cdn.myanimelist.net/images/manga/3/212627.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 36

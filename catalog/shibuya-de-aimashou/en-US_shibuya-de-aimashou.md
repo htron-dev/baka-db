@@ -1,5 +1,7 @@
 # Shibuya de Aimashou
 
+![shibuya-de-aimashou](https://cdn.myanimelist.net/images/manga/1/20882.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Secretly, Greatly
 
+![secretly-greatly](https://cdn.myanimelist.net/images/manga/2/204708.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **original-name**: 은밀하게 위대하게

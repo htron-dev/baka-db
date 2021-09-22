@@ -1,5 +1,7 @@
 # Scratch!!
 
+![scratch](https://cdn.myanimelist.net/images/manga/1/78585.jpg)
+
 -   **type**: manga
 -   **original-name**: スクラッチ!!
 -   **start-date**: 2011-11-10

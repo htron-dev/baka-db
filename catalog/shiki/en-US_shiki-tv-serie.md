@@ -1,5 +1,7 @@
 # Shiki
 
+![shiki](https://cdn.myanimelist.net/images/anime/8/21343.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: 屍鬼

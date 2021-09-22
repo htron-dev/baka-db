@@ -1,5 +1,7 @@
 # Shoushin Otoko ni Haru no Arashi
 
+![shoushin-otoko-ni-haru-no-arashi](https://cdn.myanimelist.net/images/manga/2/227606.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

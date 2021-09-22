@@ -1,5 +1,7 @@
 # Sekai no Teki no Over Spec!
 
+![sekai-no-teki-no-over-spec](https://cdn.myanimelist.net/images/manga/3/177507.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 37

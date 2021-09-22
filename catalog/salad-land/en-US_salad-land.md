@@ -1,5 +1,7 @@
 # Salad Land
 
+![salad-land](https://cdn.myanimelist.net/images/anime/12/39339.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: サラダランド

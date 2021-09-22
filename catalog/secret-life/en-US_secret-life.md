@@ -1,5 +1,7 @@
 # Secret Life!
 
+![secret-life](https://cdn.myanimelist.net/images/manga/2/209888.jpg)
+
 -   **type**: manga
 -   **original-name**: しーくれっトラいふ！
 -   **start-date**: 2016-12-21

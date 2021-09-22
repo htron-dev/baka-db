@@ -1,5 +1,7 @@
 # Shissou Suru Shishunki no Parabellum
 
+![shissou-suru-shishunki-no-parabellum](https://cdn.myanimelist.net/images/manga/1/81316.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 77

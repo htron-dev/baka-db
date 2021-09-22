@@ -1,5 +1,7 @@
 # Sekai Seifuku: Bouryaku no Zvezda
 
+![sekai-seifuku-bouryaku-no-zvezda](https://cdn.myanimelist.net/images/manga/3/120197.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

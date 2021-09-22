@@ -1,5 +1,7 @@
 # Vampire Yui
 
+![vampire-yui](https://cdn.myanimelist.net/images/manga/1/156938.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 12

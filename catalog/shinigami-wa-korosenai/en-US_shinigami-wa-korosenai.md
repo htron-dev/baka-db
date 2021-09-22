@@ -1,5 +1,7 @@
 # Shinigami wa Korosenai
 
+![shinigami-wa-korosenai](https://cdn.myanimelist.net/images/manga/1/244867.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

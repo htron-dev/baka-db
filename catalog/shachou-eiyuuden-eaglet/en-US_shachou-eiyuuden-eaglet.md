@@ -1,5 +1,7 @@
 # Shachou Eiyuuden Eaglet
 
+![shachou-eiyuuden-eaglet](https://cdn.myanimelist.net/images/manga/3/61765.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 21

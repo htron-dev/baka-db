@@ -1,5 +1,7 @@
 # Start Love
 
+![start-love](https://cdn.myanimelist.net/images/manga/2/9339.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 9
 

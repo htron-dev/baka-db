@@ -1,5 +1,7 @@
 # Sennen no Mushin
 
+![sennen-no-mushin](https://cdn.myanimelist.net/images/manga/1/193217.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 千年の無心

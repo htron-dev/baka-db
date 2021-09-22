@@ -1,5 +1,7 @@
 # Shitateya Koubou
 
+![shitateya-koubou](https://cdn.myanimelist.net/images/manga/1/170424.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 60

@@ -1,5 +1,7 @@
 # Sex to Kiss to Setsunasa no Aida
 
+![sex-to-kiss-to-setsunasa-no-aida](https://cdn.myanimelist.net/images/manga/1/86479.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

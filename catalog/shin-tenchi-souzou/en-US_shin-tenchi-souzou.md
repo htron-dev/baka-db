@@ -1,5 +1,7 @@
 # Shin Tenchi Souzou
 
+![shin-tenchi-souzou](https://cdn.myanimelist.net/images/anime/3/71331.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 新・天地創造

@@ -1,5 +1,7 @@
 # Super Comic Gekijou: Phantom Brave
 
+![super-comic-gekijou-phantom-brave](https://cdn.myanimelist.net/images/manga/3/151603.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: スーパーコミック劇場 ファントム・ブレイブ

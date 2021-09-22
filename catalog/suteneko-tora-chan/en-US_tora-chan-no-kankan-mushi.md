@@ -1,5 +1,7 @@
 # Tora-chan no Kankan Mushi
 
+![tora-chan-no-kankan-mushi](https://cdn.myanimelist.net/images/anime/11/69031.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: トラちゃんのカンカン虫

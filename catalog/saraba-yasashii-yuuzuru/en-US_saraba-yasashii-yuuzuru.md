@@ -1,5 +1,7 @@
 # Saraba, Yasashii Yuuzuru
 
+![saraba-yasashii-yuuzuru](https://cdn.myanimelist.net/images/manga/1/177394.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

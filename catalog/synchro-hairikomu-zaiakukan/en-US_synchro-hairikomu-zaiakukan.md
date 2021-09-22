@@ -1,5 +1,7 @@
 # Synchro: Hairikomu Zaiakukan
 
+![synchro-hairikomu-zaiakukan](https://cdn.myanimelist.net/images/manga/3/229361.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

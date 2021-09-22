@@ -1,5 +1,7 @@
 # Shakai Futekigousha no Ana
 
+![shakai-futekigousha-no-ana](https://cdn.myanimelist.net/images/manga/2/200438.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

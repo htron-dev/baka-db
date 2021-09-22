@@ -1,5 +1,7 @@
 # Sakura Taisen: Mangaban Dainibu
 
+![sakura-taisen-mangaban-dainibu](https://cdn.myanimelist.net/images/manga/1/245361.jpg)
+
 -   **type**: manga
 -   **original-name**: サクラ大戦　漫画版第二部
 -   **start-date**: 2009-06-20

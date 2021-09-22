@@ -1,5 +1,7 @@
 # Suki de Gomen.
 
+![suki-de-gomen](https://cdn.myanimelist.net/images/manga/3/207215.jpg)
+
 -   **type**: manga
 -   **original-name**: 好きでごめん。
 -   **start-date**: 2016-11-01

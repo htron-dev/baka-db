@@ -1,5 +1,7 @@
 # Seishun Lover's Festival
 
+![seishun-lovers-festival](https://cdn.myanimelist.net/images/manga/1/197022.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

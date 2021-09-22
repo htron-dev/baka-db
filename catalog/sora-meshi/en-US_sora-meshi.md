@@ -1,5 +1,7 @@
 # Sora Meshi!
 
+![sora-meshi](https://cdn.myanimelist.net/images/manga/1/239648.jpg)
+
 -   **type**: manga
 -   **original-name**: 宇宙めし！
 -   **start-date**: 2018-11-27

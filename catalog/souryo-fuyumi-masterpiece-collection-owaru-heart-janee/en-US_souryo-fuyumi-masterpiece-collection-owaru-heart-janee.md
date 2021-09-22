@@ -1,5 +1,7 @@
 # Souryo Fuyumi Masterpiece Collection: Owaru Heart Janee
 
+![souryo-fuyumi-masterpiece-collection-owaru-heart-janee](https://cdn.myanimelist.net/images/manga/4/87815.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Sanjougattai Transformers Go!
 
+![sanjougattai-transformers-go](https://cdn.myanimelist.net/images/anime/12/52537.jpg)
+
 -   **type**: ova
 -   **episodes**: 10
 -   **original-name**: 参乗合体 トランスフォーマー Go!

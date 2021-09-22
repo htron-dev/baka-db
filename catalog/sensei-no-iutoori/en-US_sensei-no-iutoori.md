@@ -1,5 +1,7 @@
 # Sensei no Iutoori.
 
+![sensei-no-iutoori](https://cdn.myanimelist.net/images/manga/3/16141.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

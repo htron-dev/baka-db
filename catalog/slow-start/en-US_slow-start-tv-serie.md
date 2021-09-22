@@ -1,5 +1,7 @@
 # Slow Start
 
+![slow-start](https://cdn.myanimelist.net/images/anime/4/89982.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: スロウスタート

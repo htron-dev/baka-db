@@ -1,5 +1,7 @@
 # Sono Yubi de Hagashite
 
+![sono-yubi-de-hagashite](https://cdn.myanimelist.net/images/manga/2/236194.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: そのゆびで剥がして

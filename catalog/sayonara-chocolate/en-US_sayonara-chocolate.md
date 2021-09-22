@@ -1,5 +1,7 @@
 # Sayonara Chocolate
 
+![sayonara-chocolate](https://cdn.myanimelist.net/images/manga/1/80267.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

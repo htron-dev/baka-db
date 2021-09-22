@@ -1,5 +1,7 @@
 # Sensei wa Kimusume ga Osuki
 
+![sensei-wa-kimusume-ga-osuki](https://cdn.myanimelist.net/images/manga/2/9414.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 先生は生娘がお好き

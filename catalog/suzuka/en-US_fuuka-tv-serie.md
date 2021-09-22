@@ -1,5 +1,7 @@
 # Fuuka
 
+![fuuka](https://cdn.myanimelist.net/images/anime/8/83735.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 風夏

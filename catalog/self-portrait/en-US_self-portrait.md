@@ -1,5 +1,7 @@
 # Self-Portrait
 
+![self-portrait](https://cdn.myanimelist.net/images/anime/11/23821.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: セルフポートレート

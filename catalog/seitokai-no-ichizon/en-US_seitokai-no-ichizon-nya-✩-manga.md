@@ -1,5 +1,7 @@
 # Seitokai no Ichizon Nya✩
 
+![seitokai-no-ichizon-nya-✩](https://cdn.myanimelist.net/images/manga/2/97317.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

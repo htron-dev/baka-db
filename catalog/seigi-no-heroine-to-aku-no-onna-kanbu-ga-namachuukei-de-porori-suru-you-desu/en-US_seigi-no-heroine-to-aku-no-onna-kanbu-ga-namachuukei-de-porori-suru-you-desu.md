@@ -1,5 +1,7 @@
 # Seigi no Heroine to Aku no Onna Kanbu ga Namachuukei de Porori suru you desu
 
+![seigi-no-heroine-to-aku-no-onna-kanbu-ga-namachuukei-de-porori-suru-you-desu](https://cdn.myanimelist.net/images/manga/3/180834.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

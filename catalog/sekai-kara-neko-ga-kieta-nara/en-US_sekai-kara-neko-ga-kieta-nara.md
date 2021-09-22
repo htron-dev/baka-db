@@ -1,5 +1,7 @@
 # Sekai kara Neko ga Kieta nara
 
+![sekai-kara-neko-ga-kieta-nara](https://cdn.myanimelist.net/images/manga/2/173808.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

@@ -1,5 +1,7 @@
 # Oomaji
 
+![oomaji](https://cdn.myanimelist.net/images/manga/1/22794.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 大本気。

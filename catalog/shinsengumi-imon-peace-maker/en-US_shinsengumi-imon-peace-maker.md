@@ -1,5 +1,7 @@
 # Shinsengumi Imon Peace Maker
 
+![shinsengumi-imon-peace-maker](https://cdn.myanimelist.net/images/manga/3/120697.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 30

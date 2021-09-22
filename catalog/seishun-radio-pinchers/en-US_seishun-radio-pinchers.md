@@ -1,5 +1,7 @@
 # Seishun Radio Pinchers
 
+![seishun-radio-pinchers](https://cdn.myanimelist.net/images/manga/3/244221.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

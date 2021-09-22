@@ -1,5 +1,7 @@
 # Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka
 
+![saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshou-ka](https://cdn.myanimelist.net/images/manga/2/228239.jpg)
+
 -   **type**: manga
 -   **original-name**: 最後にひとつだけお願いしてもよろしいでしょうか
 -   **start-date**: 2019-06-05

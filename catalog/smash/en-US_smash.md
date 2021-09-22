@@ -1,5 +1,7 @@
 # Smash!
 
+![smash](https://cdn.myanimelist.net/images/manga/1/183365.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 170

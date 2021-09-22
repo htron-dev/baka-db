@@ -1,5 +1,7 @@
 # Sword Art Online Fatal Bullet: The Third Episode
 
+![sword-art-online-fatal-bullet-the-third-episode](https://cdn.myanimelist.net/images/anime/1210/91229.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ソードアート・オンライン　フェイタル・バレット -The Third Episode-

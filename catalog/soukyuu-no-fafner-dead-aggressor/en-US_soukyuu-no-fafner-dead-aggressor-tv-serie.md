@@ -1,5 +1,7 @@
 # Soukyuu no Fafner: Dead Aggressor
 
+![soukyuu-no-fafner-dead-aggressor](https://cdn.myanimelist.net/images/anime/3/50365.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 蒼穹のファフナー Dead Aggressor

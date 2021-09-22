@@ -1,5 +1,7 @@
 # SiraYuki PaniMix!
 
+![sira-yuki-pani-mix](https://cdn.myanimelist.net/images/manga/3/111601.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 44

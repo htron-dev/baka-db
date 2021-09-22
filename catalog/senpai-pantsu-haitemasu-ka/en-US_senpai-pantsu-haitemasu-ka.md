@@ -1,5 +1,7 @@
 # Senpai, Pantsu Haitemasu ka?
 
+![senpai-pantsu-haitemasu-ka](https://cdn.myanimelist.net/images/manga/1/236439.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

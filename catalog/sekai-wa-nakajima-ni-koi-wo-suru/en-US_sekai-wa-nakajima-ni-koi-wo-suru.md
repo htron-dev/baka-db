@@ -1,5 +1,7 @@
 # Sekai wa Nakajima ni Koi wo Suru!!
 
+![sekai-wa-nakajima-ni-koi-wo-suru](https://cdn.myanimelist.net/images/manga/3/179272.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 26

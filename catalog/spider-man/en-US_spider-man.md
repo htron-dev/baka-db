@@ -1,5 +1,7 @@
 # Spider-Man
 
+![spider-man](https://cdn.myanimelist.net/images/manga/3/75931.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Sora Tobu Ehon to Glass no Kutsu
 
+![sore-ike-anpanman-sora-tobu-ehon-to-glass-no-kutsu](https://cdn.myanimelist.net/images/anime/11/28053.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ!アンパンマン「空とぶ絵本とガラスの靴」

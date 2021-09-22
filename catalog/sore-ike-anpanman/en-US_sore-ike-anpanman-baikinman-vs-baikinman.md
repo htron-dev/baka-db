@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Baikinman vs. Baikinman!?
 
+![sore-ike-anpanman-baikinman-vs-baikinman](https://cdn.myanimelist.net/images/anime/2/57699.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ!アンパンマン ばいきんまん VS バイキンマン!?

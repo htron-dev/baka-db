@@ -1,5 +1,7 @@
 # Soreyuke! Uchuu Senkan Yamamoto Youko
 
+![soreyuke-uchuu-senkan-yamamoto-youko](https://cdn.myanimelist.net/images/manga/1/154952.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 47

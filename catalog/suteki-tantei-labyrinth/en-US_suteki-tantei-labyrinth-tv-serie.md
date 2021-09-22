@@ -1,5 +1,7 @@
 # Suteki Tantei Labyrinth
 
+![suteki-tantei-labyrinth](https://cdn.myanimelist.net/images/anime/2/17592.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 素敵探偵 ☆ ラビリンス

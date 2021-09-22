@@ -1,5 +1,7 @@
 # Saikyou no Tenshi Nishite Saiai no Akuma
 
+![saikyou-no-tenshi-nishite-saiai-no-akuma](https://cdn.myanimelist.net/images/manga/2/45179.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 最強の天使ニシテ最愛の悪魔

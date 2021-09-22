@@ -1,5 +1,7 @@
 # Strike Witches Gekijouban: Kaeritai Basho
 
+![strike-witches-gekijouban-kaeritai-basho](https://cdn.myanimelist.net/images/manga/1/86987.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ストライクウィッチーズ 劇場版　還りたい空

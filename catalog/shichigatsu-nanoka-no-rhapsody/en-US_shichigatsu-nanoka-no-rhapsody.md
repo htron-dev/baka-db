@@ -1,5 +1,7 @@
 # Shichigatsu Nanoka no Rhapsody
 
+![shichigatsu-nanoka-no-rhapsody](https://cdn.myanimelist.net/images/manga/1/23295.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 7 月 7 日のラプソディー

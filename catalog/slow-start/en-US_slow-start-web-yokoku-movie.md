@@ -1,5 +1,7 @@
 # Slow Start: Web Yokoku Movie
 
+![slow-start-web-yokoku-movie](https://cdn.myanimelist.net/images/anime/8/90006.jpg)
+
 -   **type**: ona
 -   **episodes**: 11
 -   **original-name**: 『スロウスタート』Web 予告ムービー

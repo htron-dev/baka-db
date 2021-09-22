@@ -1,5 +1,7 @@
 # Soukou Kihei Votoms
 
+![soukou-kihei-votoms](https://cdn.myanimelist.net/images/anime/1295/91064.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 装甲騎兵ボトムズ

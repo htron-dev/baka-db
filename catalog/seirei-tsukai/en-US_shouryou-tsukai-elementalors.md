@@ -1,5 +1,7 @@
 # Shouryou Tsukai Elementalors
 
+![shouryou-tsukai-elementalors](https://cdn.myanimelist.net/images/manga/1/21925.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 精霊使いエレメンタラー

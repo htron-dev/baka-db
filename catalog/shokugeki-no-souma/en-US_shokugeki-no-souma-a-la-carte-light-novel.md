@@ -1,5 +1,7 @@
 # Shokugeki no Souma: à la Carte
 
+![shokugeki-no-souma-a-la-carte](https://cdn.myanimelist.net/images/manga/1/120167.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 24

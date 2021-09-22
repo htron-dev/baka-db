@@ -1,5 +1,7 @@
 # Sorya Naize Baby
 
+![sorya-naize-baby](https://cdn.myanimelist.net/images/manga/2/11252.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 65

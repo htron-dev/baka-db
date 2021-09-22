@@ -1,5 +1,7 @@
 # Senyuu.: Alba/Ross-hen - Minato Machi no Eiyuu
 
+![senyuu-alba-ross-hen-minato-machi-no-eiyuu](https://cdn.myanimelist.net/images/manga/2/121559.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 戦勇。アルバ・ロス編「港町の英雄」

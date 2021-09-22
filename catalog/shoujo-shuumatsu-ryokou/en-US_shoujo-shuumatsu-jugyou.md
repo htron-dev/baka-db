@@ -1,5 +1,7 @@
 # Shoujo Shuumatsu Jugyou
 
+![shoujo-shuumatsu-jugyou](https://cdn.myanimelist.net/images/anime/10/88044.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 少女週末授業

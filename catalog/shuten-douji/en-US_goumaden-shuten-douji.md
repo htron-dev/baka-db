@@ -1,5 +1,7 @@
 # Goumaden Shuten Douji
 
+![goumaden-shuten-douji](https://cdn.myanimelist.net/images/manga/2/117673.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 39

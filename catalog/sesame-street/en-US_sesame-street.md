@@ -1,5 +1,7 @@
 # Sesame Street
 
+![sesame-street](https://cdn.myanimelist.net/images/manga/1/13562.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

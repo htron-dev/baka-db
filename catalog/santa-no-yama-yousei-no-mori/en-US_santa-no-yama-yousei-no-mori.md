@@ -1,5 +1,7 @@
 # Santa no Yama Yousei no Mori
 
+![santa-no-yama-yousei-no-mori](https://cdn.myanimelist.net/images/anime/4/85859.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: サンタの山 妖精の森

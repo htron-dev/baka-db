@@ -1,5 +1,7 @@
 # Soul Drop
 
+![soul-drop](https://cdn.myanimelist.net/images/manga/3/16345.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ソウルドロップの幽体研究

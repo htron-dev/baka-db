@@ -1,5 +1,7 @@
 # Saiyuuki Gaiden: Kouga no Shou
 
+![saiyuuki-gaiden-kouga-no-shou](https://cdn.myanimelist.net/images/anime/10/45795.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 最遊記外伝　特別編　香花の章

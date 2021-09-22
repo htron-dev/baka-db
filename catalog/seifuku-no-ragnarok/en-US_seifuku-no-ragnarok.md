@@ -1,5 +1,7 @@
 # Seifuku no Ragnarok
 
+![seifuku-no-ragnarok](https://cdn.myanimelist.net/images/manga/3/202905.jpg)
+
 -   **type**: manga
 -   **original-name**: 制服のラグナロク
 -   **start-date**: 2017-06-28

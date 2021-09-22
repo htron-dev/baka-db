@@ -1,5 +1,7 @@
 # Sensei! Yasumasete Kudasai!
 
+![sensei-yasumasete-kudasai](https://cdn.myanimelist.net/images/manga/2/228083.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 36

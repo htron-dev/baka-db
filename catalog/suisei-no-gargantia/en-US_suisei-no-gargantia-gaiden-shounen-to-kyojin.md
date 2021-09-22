@@ -1,5 +1,7 @@
 # Suisei no Gargantia Gaiden: Shounen to Kyojin
 
+![suisei-no-gargantia-gaiden-shounen-to-kyojin](https://cdn.myanimelist.net/images/manga/2/116369.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 翠星のガルガンティア 外伝・少年と巨人

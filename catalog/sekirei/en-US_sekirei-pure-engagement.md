@@ -1,5 +1,7 @@
 # Sekirei: Pure Engagement
 
+![sekirei-pure-engagement](https://cdn.myanimelist.net/images/anime/10/75178.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: セキレイ～ Pure Engagement ～

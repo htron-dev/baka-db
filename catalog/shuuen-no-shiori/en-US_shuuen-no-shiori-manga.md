@@ -1,5 +1,7 @@
 # Shuuen no Shiori
 
+![shuuen-no-shiori](https://cdn.myanimelist.net/images/manga/2/143401.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 33

@@ -1,5 +1,7 @@
 # Shakugan no Shana-tan S
 
+![shakugan-no-shana-tan-s](https://cdn.myanimelist.net/images/anime/2/17657.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: 灼眼のシャナたん

@@ -1,5 +1,7 @@
 # Satori-kun to Tsundere-kun
 
+![satori-kun-to-tsundere-kun](https://cdn.myanimelist.net/images/manga/1/185398.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

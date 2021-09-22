@@ -1,5 +1,7 @@
 # Saiki Kusuo no Ψ-nan: Ψ-shidou-hen
 
+![saiki-kusuo-no-ψ-nan-ψ-shidou-hen](https://cdn.myanimelist.net/images/anime/1943/103504.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: 斉木楠雄の Ψ 難 Ψ 始動編

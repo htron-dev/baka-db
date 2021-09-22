@@ -1,5 +1,7 @@
 # SM Hunter
 
+![sm-hunter](https://cdn.myanimelist.net/images/manga/1/32568.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 -   **original-name**: SM 헌터

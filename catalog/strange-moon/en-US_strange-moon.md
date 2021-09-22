@@ -1,5 +1,7 @@
 # Strange Moon
 
+![strange-moon](https://cdn.myanimelist.net/images/manga/3/164704.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: ストレンジムーン

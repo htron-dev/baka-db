@@ -1,5 +1,7 @@
 # Seto no Hanayome Fan Disc
 
+![seto-no-hanayome-fan-disc](https://cdn.myanimelist.net/images/anime/13/22428.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 瀬戸の花嫁

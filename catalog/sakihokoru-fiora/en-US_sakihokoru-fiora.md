@@ -1,5 +1,7 @@
 # Sakihokoru Fiora
 
+![sakihokoru-fiora](https://cdn.myanimelist.net/images/manga/1/160950.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Sentimental Letter
 
+![sentimental-letter](https://cdn.myanimelist.net/images/manga/1/178504.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

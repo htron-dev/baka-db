@@ -1,5 +1,7 @@
 # Succubus wa Aiyoku ni Tayutau
 
+![succubus-wa-aiyoku-ni-tayutau](https://cdn.myanimelist.net/images/manga/1/178373.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

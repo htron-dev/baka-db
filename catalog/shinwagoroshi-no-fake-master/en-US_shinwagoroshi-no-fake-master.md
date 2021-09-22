@@ -1,5 +1,7 @@
 # Shinwagoroshi no Fake Master
 
+![shinwagoroshi-no-fake-master](https://cdn.myanimelist.net/images/manga/1/160986.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 17

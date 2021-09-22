@@ -1,5 +1,7 @@
 # Sekuhara Brothers
 
+![sekuhara-brothers](https://cdn.myanimelist.net/images/manga/1/223640.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

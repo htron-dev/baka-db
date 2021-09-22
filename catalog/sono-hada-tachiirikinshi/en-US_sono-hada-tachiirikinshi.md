@@ -1,5 +1,7 @@
 # Sono Hada, Tachiirikinshi
 
+![sono-hada-tachiirikinshi](https://cdn.myanimelist.net/images/manga/3/30103.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: その肌、立入禁止

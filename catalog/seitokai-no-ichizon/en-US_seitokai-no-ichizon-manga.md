@@ -1,5 +1,7 @@
 # Seitokai no Ichizon
 
+![seitokai-no-ichizon](https://cdn.myanimelist.net/images/manga/1/173935.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 45

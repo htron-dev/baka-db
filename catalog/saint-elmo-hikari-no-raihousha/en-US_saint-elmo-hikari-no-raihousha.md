@@ -1,5 +1,7 @@
 # Saint Elmo: Hikari no Raihousha
 
+![saint-elmo-hikari-no-raihousha](https://cdn.myanimelist.net/images/anime/3/23294.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: セントエルモ・光の来訪者

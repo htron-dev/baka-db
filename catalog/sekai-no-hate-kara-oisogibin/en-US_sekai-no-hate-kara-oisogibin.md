@@ -1,5 +1,7 @@
 # Sekai no Hate kara Oisogibin
 
+![sekai-no-hate-kara-oisogibin](https://cdn.myanimelist.net/images/manga/3/184123.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 世界の果てからお急ぎ便
 -   **start-date**: 2016-10-08

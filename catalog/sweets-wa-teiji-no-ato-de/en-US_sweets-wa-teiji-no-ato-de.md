@@ -1,5 +1,7 @@
 # Sweets wa Teiji no Ato de
 
+![sweets-wa-teiji-no-ato-de](https://cdn.myanimelist.net/images/manga/3/248456.jpg)
+
 -   **type**: manga
 -   **original-name**: スイーツは定時のあとで
 -   **start-date**: 2019-10-04

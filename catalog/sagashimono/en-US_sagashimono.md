@@ -1,5 +1,7 @@
 # Sagashimono
 
+![sagashimono](https://cdn.myanimelist.net/images/manga/1/40364.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

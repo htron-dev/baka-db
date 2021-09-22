@@ -1,5 +1,7 @@
 # Setsuri: Sinner's Ambition
 
+![setsuri-sinners-ambition](https://cdn.myanimelist.net/images/manga/2/147267.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

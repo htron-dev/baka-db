@@ -1,5 +1,7 @@
 # SKY
 
+![sky](https://cdn.myanimelist.net/images/manga/2/26268.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

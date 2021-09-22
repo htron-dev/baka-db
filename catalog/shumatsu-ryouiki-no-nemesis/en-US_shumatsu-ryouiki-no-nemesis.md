@@ -1,5 +1,7 @@
 # Shumatsu Ryouiki no Nemesis
 
+![shumatsu-ryouiki-no-nemesis](https://cdn.myanimelist.net/images/manga/2/123031.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 終末領域のネメシス

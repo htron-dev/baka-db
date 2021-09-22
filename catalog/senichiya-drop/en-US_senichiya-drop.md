@@ -1,5 +1,7 @@
 # Senichiya Drop
 
+![senichiya-drop](https://cdn.myanimelist.net/images/manga/2/130739.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

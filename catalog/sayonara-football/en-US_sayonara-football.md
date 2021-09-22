@@ -1,5 +1,7 @@
 # Sayonara Football
 
+![sayonara-football](https://cdn.myanimelist.net/images/manga/2/43235.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

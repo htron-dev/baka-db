@@ -1,5 +1,7 @@
 # Sakura Internet
 
+![sakura-internet](https://cdn.myanimelist.net/images/anime/8/84025.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: SAKURA internet

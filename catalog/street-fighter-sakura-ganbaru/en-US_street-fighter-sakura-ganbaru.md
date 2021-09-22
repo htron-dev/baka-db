@@ -1,5 +1,7 @@
 # Street Fighter: Sakura Ganbaru!
 
+![street-fighter-sakura-ganbaru](https://cdn.myanimelist.net/images/manga/1/12238.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

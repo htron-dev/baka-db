@@ -1,5 +1,7 @@
 # Sokuochi Mayuri-chan
 
+![sokuochi-mayuri-chan](https://cdn.myanimelist.net/images/manga/3/244013.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 27

@@ -1,5 +1,7 @@
 # Sono Kuchibiru ni Ai wo
 
+![sono-kuchibiru-ni-ai-wo](https://cdn.myanimelist.net/images/manga/1/23104.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

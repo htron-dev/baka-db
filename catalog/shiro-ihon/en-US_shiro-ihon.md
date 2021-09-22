@@ -1,5 +1,7 @@
 # Shiro Ihon
 
+![shiro-ihon](https://cdn.myanimelist.net/images/manga/3/222779.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

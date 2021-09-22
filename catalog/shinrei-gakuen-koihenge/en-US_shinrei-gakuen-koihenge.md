@@ -1,5 +1,7 @@
 # Shinrei Gakuen Koihenge
 
+![shinrei-gakuen-koihenge](https://cdn.myanimelist.net/images/manga/4/17642.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 7

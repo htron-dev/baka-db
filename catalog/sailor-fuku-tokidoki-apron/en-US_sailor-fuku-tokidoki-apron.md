@@ -1,5 +1,7 @@
 # Sailor Fuku, Tokidoki Apron
 
+![sailor-fuku-tokidoki-apron](https://cdn.myanimelist.net/images/manga/3/128613.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 44

@@ -1,5 +1,7 @@
 # Sword Art Online: Progressive - Kuraki Yuuyami no Scherzo
 
+![sword-art-online-progressive-kuraki-yuuyami-no-scherzo](https://cdn.myanimelist.net/images/manga/2/242632.jpg)
+
 -   **type**: manga
 -   **original-name**: ソードアート・オンライン　プログレッシブ　冥き夕闇のスケルツォ
 -   **start-date**: 2020-01-30

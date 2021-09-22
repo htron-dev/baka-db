@@ -1,5 +1,7 @@
 # Suisai
 
+![suisai](https://cdn.myanimelist.net/images/manga/1/172317.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

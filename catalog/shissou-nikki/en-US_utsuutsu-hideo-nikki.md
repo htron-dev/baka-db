@@ -1,5 +1,7 @@
 # Utsuutsu Hideo Nikki
 
+![utsuutsu-hideo-nikki](https://cdn.myanimelist.net/images/manga/2/70429.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: うつうつひでお日記

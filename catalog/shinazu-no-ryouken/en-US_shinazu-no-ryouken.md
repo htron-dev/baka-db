@@ -1,5 +1,7 @@
 # Shinazu no Ryouken
 
+![shinazu-no-ryouken](https://cdn.myanimelist.net/images/manga/1/137815.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 54

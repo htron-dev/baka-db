@@ -1,5 +1,7 @@
 # Sonic the Hedgehog
 
+![sonic-the-hedgehog](https://cdn.myanimelist.net/images/manga/1/13925.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ソニック・ザ・ヘッジホッグ

@@ -1,5 +1,7 @@
 # Shadow Skill: Phantom of Shade
 
+![shadow-skill-phantom-of-shade](https://cdn.myanimelist.net/images/manga/1/117547.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: SHADOW SKILL phantom of shade

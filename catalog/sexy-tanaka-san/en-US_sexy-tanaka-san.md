@@ -1,5 +1,7 @@
 # Sexy Tanaka-san
 
+![sexy-tanaka-san](https://cdn.myanimelist.net/images/manga/1/247185.jpg)
+
 -   **type**: manga
 -   **original-name**: セクシー田中さん
 -   **start-date**: 2017-08-05

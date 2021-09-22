@@ -1,5 +1,7 @@
 # Mitsuyoshi: Kanketsuhen
 
+![mitsuyoshi-kanketsuhen](https://cdn.myanimelist.net/images/manga/1/192972.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

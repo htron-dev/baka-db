@@ -1,5 +1,7 @@
 # Sakasama Lollipop
 
+![sakasama-lollipop](https://cdn.myanimelist.net/images/manga/2/235535.jpg)
+
 -   **type**: manga
 -   **original-name**: さかさまロリポップ
 -   **start-date**: 2018-09-07

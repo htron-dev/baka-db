@@ -1,5 +1,7 @@
 # Strawberry Palace
 
+![strawberry-palace](https://cdn.myanimelist.net/images/manga/1/30834.jpg)
+
 -   **type**: manga
 -   **original-name**: ストロベリー・パレス
 -   **start-date**: 2008-09-20

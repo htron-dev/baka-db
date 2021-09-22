@@ -1,5 +1,7 @@
 # Submarine 707 F
 
+![submarine-707-f](https://cdn.myanimelist.net/images/manga/3/228833.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 48

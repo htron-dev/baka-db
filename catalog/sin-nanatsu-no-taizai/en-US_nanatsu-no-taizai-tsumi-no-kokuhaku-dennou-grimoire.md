@@ -1,5 +1,7 @@
 # Nanatsu no Taizai: Tsumi no Kokuhaku Dennou Grimoire!
 
+![nanatsu-no-taizai-tsumi-no-kokuhaku-dennou-grimoire](https://cdn.myanimelist.net/images/anime/3/89815.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 七つの大罪 「罪の告白 電脳グリモワール!」

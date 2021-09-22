@@ -1,5 +1,7 @@
 # Slam Dunk Movie
 
+![slam-dunk-movie](https://cdn.myanimelist.net/images/anime/5/31927.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: SLAM DUNK

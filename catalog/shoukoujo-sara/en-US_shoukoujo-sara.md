@@ -1,5 +1,7 @@
 # Shoukoujo Sara
 
+![shoukoujo-sara](https://cdn.myanimelist.net/images/anime/8/3209.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 46
 -   **original-name**: 小公女セーラ

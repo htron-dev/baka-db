@@ -1,5 +1,7 @@
 # Shigatsu wa Kimi no Uso: Coda
 
+![shigatsu-wa-kimi-no-uso-coda](https://cdn.myanimelist.net/images/manga/2/182483.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

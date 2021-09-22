@@ -1,5 +1,7 @@
 # Hakken Taiken Daisuki! Shimajirou
 
+![hakken-taiken-daisuki-shimajirou](https://cdn.myanimelist.net/images/anime/12/50733.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 101
 -   **original-name**: はっけん たいけん だいすき! しまじろう

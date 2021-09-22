@@ -1,5 +1,7 @@
 # Souken Tsukai no Lost Magika
 
+![souken-tsukai-no-lost-magika](https://cdn.myanimelist.net/images/manga/3/174016.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 双剣使いの封呪結界〈ロストマギカ〉

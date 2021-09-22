@@ -1,5 +1,7 @@
 # Stop!! Hibari-kun!
 
+![stop-hibari-kun](https://cdn.myanimelist.net/images/manga/2/71945.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 53

@@ -1,5 +1,7 @@
 # Suki tte Iwasete?
 
+![suki-tte-iwasete](https://cdn.myanimelist.net/images/manga/5/130161.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

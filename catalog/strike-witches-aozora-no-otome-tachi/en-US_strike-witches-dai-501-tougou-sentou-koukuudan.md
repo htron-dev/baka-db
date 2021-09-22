@@ -1,5 +1,7 @@
 # Strike Witches: Dai-501 Tougou Sentou Koukuudan
 
+![strike-witches-dai-501-tougou-sentou-koukuudan](https://cdn.myanimelist.net/images/manga/1/163951.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

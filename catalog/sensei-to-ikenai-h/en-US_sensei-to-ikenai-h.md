@@ -1,5 +1,7 @@
 # Sensei to Ikenai H
 
+![sensei-to-ikenai-h](https://cdn.myanimelist.net/images/manga/2/85259.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

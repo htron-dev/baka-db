@@ -1,5 +1,7 @@
 # Shinsei Sanada Juuyuushi
 
+![shinsei-sanada-juuyuushi](https://cdn.myanimelist.net/images/manga/2/23507.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

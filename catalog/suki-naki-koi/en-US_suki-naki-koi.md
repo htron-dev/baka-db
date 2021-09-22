@@ -1,5 +1,7 @@
 # Suki Naki Koi
 
+![suki-naki-koi](https://cdn.myanimelist.net/images/manga/3/72059.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

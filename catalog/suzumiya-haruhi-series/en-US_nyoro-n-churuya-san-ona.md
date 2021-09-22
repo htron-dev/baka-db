@@ -1,5 +1,7 @@
 # Nyoro-n Churuya-san
 
+![nyoro-n-churuya-san](https://cdn.myanimelist.net/images/anime/1888/112345.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: にょろーん ☆ ちゅるやさん

@@ -1,5 +1,7 @@
 # Shijou Saikyou no Deshi Kenichi OVA
 
+![shijou-saikyou-no-deshi-kenichi-ova](https://cdn.myanimelist.net/images/anime/1125/102421.jpg)
+
 -   **type**: ova
 -   **episodes**: 11
 -   **original-name**: 史上最強の弟子 ケンイチ OVA

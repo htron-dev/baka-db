@@ -1,5 +1,7 @@
 # Shitsugyou Kenja no Nariagari: Kirawareta Sainou wa Sekai Saikyou deshita
 
+![shitsugyou-kenja-no-nariagari-kirawareta-sainou-wa-sekai-saikyou-deshita](https://cdn.myanimelist.net/images/manga/2/236685.jpg)
+
 -   **type**: manga
 -   **original-name**: 失業賢者の成り上がり～嫌われた才能は世界最強でした～
 -   **start-date**: 2020-06-07

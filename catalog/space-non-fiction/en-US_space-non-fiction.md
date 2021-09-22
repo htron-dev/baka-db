@@ -1,5 +1,7 @@
 # Space Non-fiction
 
+![space-non-fiction](https://cdn.myanimelist.net/images/manga/2/204384.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

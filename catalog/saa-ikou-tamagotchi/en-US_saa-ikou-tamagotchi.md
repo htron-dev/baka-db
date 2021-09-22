@@ -1,5 +1,7 @@
 # Saa Ikou! Tamagotchi
 
+![saa-ikou-tamagotchi](https://cdn.myanimelist.net/images/anime/10/15719.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: さぁイコー！たまごっち

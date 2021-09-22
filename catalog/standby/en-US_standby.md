@@ -1,5 +1,7 @@
 # Standby.
 
+![standby](https://cdn.myanimelist.net/images/manga/1/95945.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: スタンバイ。

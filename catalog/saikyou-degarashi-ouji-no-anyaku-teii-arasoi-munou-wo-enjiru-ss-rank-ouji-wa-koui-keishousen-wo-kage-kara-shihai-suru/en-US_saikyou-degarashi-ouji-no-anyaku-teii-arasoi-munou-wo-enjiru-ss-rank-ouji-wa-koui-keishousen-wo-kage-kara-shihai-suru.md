@@ -1,5 +1,7 @@
 # Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishousen wo Kage kara Shihai suru
 
+![saikyou-degarashi-ouji-no-anyaku-teii-arasoi-munou-wo-enjiru-ss-rank-ouji-wa-koui-keishousen-wo-kage-kara-shihai-suru](https://cdn.myanimelist.net/images/manga/2/236072.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 最強出涸らし皇子の暗躍帝位争い 無能を演じる SS ランク皇子は皇位継承戦を影から支配する
 -   **start-date**: 2019-09-01

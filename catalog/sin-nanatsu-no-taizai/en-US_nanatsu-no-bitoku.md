@@ -1,5 +1,7 @@
 # Nanatsu no Bitoku
 
+![nanatsu-no-bitoku](https://cdn.myanimelist.net/images/anime/9/89129.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: 七つの美徳

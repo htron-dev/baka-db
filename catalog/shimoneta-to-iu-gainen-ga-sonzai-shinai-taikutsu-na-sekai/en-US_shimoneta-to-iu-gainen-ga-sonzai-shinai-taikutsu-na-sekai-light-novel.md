@@ -1,5 +1,7 @@
 # Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai
 
+![shimoneta-to-iu-gainen-ga-sonzai-shinai-taikutsu-na-sekai](https://cdn.myanimelist.net/images/manga/1/117151.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 11
 -   **chapters**: 64

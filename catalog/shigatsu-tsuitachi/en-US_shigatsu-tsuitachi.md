@@ -1,5 +1,7 @@
 # Shigatsu Tsuitachi
 
+![shigatsu-tsuitachi](https://cdn.myanimelist.net/images/manga/2/34070.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 4 月 1 日

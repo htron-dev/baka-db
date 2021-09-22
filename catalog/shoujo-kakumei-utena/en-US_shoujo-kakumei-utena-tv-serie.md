@@ -1,5 +1,7 @@
 # Shoujo Kakumei Utena
 
+![shoujo-kakumei-utena](https://cdn.myanimelist.net/images/anime/1078/95285.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: 少女革命ウテナ

@@ -1,5 +1,7 @@
 # Sentou Yousei Shoujo Tasukete! Mave-chan
 
+![sentou-yousei-shoujo-tasukete-mave-chan](https://cdn.myanimelist.net/images/anime/2/20066.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 戦闘妖精少女 たすけて！メイヴちゃん

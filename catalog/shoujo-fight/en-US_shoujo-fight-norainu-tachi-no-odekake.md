@@ -1,5 +1,7 @@
 # Shoujo Fight: Norainu-tachi no Odekake
 
+![shoujo-fight-norainu-tachi-no-odekake](https://cdn.myanimelist.net/images/anime/9/16630.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 少女ファイト 野良犬たちのおでかけ

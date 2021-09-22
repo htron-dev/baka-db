@@ -1,5 +1,7 @@
 # Shinkon nanoni Dannasama ga Sutekisugite Komarimasu!!: Dekiai Ouji to Amai Mitsugetsu
 
+![shinkon-nanoni-dannasama-ga-sutekisugite-komarimasu-dekiai-ouji-to-amai-mitsugetsu](https://cdn.myanimelist.net/images/manga/2/218105.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 新婚なのに旦那様が素敵すぎて困りますっ!!~溺愛王子と甘い蜜月~

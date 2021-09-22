@@ -1,5 +1,7 @@
 # Star P: Anata wa Motto Kagayakeru
 
+![star-p-anata-wa-motto-kagayakeru](https://cdn.myanimelist.net/images/manga/1/159832.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

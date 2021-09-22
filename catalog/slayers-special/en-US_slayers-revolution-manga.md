@@ -1,5 +1,7 @@
 # Slayers Revolution
 
+![slayers-revolution](https://cdn.myanimelist.net/images/manga/1/19858.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

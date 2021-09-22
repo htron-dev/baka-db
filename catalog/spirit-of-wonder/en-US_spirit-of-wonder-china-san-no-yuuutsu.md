@@ -1,5 +1,7 @@
 # Spirit of Wonder: China-san no Yuuutsu
 
+![spirit-of-wonder-china-san-no-yuuutsu](https://cdn.myanimelist.net/images/anime/9/57935.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ザスピリットオブワンダー - チャイナさんの憂鬱

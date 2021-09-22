@@ -1,5 +1,7 @@
 # Shizuka Hakkenden
 
+![shizuka-hakkenden](https://cdn.myanimelist.net/images/manga/3/23383.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: シズカ八犬伝

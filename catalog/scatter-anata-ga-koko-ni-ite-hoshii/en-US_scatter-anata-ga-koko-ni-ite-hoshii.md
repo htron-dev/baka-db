@@ -1,5 +1,7 @@
 # Scatter: Anata ga Koko ni Ite Hoshii
 
+![scatter-anata-ga-koko-ni-ite-hoshii](https://cdn.myanimelist.net/images/manga/3/189738.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 50

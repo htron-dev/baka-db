@@ -1,5 +1,7 @@
 # Sankarea: Wagahai mo... Zombie de Aru...
 
+![sankarea-wagahai-mo-zombie-de-aru](https://cdn.myanimelist.net/images/anime/12/44918.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: さんかれあ 吾輩も... ゾンビである...

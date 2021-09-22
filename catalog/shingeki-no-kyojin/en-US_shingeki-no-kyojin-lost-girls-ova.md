@@ -1,5 +1,7 @@
 # Shingeki no Kyojin: Lost Girls
 
+![shingeki-no-kyojin-lost-girls](https://cdn.myanimelist.net/images/anime/3/89417.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 進撃の巨人 LOST GIRLS

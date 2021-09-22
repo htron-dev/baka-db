@@ -1,5 +1,7 @@
 # Saidai Onryou de,
 
+![saidai-onryou-de](https://cdn.myanimelist.net/images/manga/2/245525.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Sukue! Kokorin to Kiseki no Hoshi
 
+![sore-ike-anpanman-sukue-kokorin-to-kiseki-no-hoshi](https://cdn.myanimelist.net/images/anime/10/49479.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ! アンパンマン すくえ! ココリンと奇跡の星

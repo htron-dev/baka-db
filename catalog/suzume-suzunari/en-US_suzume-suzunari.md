@@ -1,5 +1,7 @@
 # Suzume Suzunari
 
+![suzume-suzunari](https://cdn.myanimelist.net/images/manga/1/141113.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Sasameke
 
+![sasameke](https://cdn.myanimelist.net/images/manga/1/202519.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

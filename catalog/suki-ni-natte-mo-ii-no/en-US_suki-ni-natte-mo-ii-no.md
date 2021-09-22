@@ -1,5 +1,7 @@
 # Suki ni Natte mo Ii no?
 
+![suki-ni-natte-mo-ii-no](https://cdn.myanimelist.net/images/manga/3/7592.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

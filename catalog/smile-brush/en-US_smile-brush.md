@@ -1,5 +1,7 @@
 # Smile Brush
 
+![smile-brush](https://cdn.myanimelist.net/images/manga/2/174109.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 35

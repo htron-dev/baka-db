@@ -1,5 +1,7 @@
 # Shimajirou to Ehon no Kuni
 
+![shimajirou-to-ehon-no-kuni](https://cdn.myanimelist.net/images/anime/7/78839.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: しまじろうと えほんのくに

@@ -1,5 +1,7 @@
 # Sayonara Tama-chan
 
+![sayonara-tama-chan](https://cdn.myanimelist.net/images/manga/2/114001.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: さよならタマちゃん

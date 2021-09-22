@@ -1,5 +1,7 @@
 # Super Comic Gekijou: Fire Emblem II - Monshou no Nazo
 
+![super-comic-gekijou-fire-emblem-ii-monshou-no-nazo](https://cdn.myanimelist.net/images/manga/1/151598.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: スーパーコミック劇場 ファイアーエムブレム II 紋章の謎

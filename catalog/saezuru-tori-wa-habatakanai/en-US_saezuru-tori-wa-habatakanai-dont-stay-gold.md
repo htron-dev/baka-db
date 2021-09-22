@@ -1,5 +1,7 @@
 # Saezuru Tori wa Habatakanai: Don't Stay Gold
 
+![saezuru-tori-wa-habatakanai-dont-stay-gold](https://cdn.myanimelist.net/images/anime/1087/106064.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 囀る鳥は羽ばたかない Don't stay gold

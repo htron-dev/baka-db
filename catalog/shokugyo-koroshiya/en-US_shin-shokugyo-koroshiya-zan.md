@@ -1,5 +1,7 @@
 # Shin Shokugyo Koroshiya. Zan
 
+![shin-shokugyo-koroshiya-zan](https://cdn.myanimelist.net/images/manga/3/178227.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 41

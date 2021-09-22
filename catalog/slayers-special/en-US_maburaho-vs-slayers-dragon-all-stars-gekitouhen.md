@@ -1,5 +1,7 @@
 # Maburaho VS Slayers!? - Dragon All Stars Gekitouhen
 
+![maburaho-vs-slayers-dragon-all-stars-gekitouhen](https://cdn.myanimelist.net/images/manga/5/62753.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

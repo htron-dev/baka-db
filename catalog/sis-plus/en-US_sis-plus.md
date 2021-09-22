@@ -1,5 +1,7 @@
 # Sis Plus
 
+![sis-plus](https://cdn.myanimelist.net/images/manga/1/159936.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 50

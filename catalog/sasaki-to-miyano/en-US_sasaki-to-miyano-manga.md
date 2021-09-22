@@ -1,5 +1,7 @@
 # Sasaki to Miyano
 
+![sasaki-to-miyano](https://cdn.myanimelist.net/images/manga/3/187122.jpg)
+
 -   **type**: manga
 -   **original-name**: 佐々木と宮野
 -   **start-date**: 2016-02-26

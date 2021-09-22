@@ -1,5 +1,7 @@
 # Shitsuren Pet to Juui-sama
 
+![shitsuren-pet-to-juui-sama](https://cdn.myanimelist.net/images/manga/1/140693.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 失恋ペットと獣医様

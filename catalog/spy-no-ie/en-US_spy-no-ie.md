@@ -1,5 +1,7 @@
 # Spy no Ie
 
+![spy-no-ie](https://cdn.myanimelist.net/images/manga/1/167062.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # Senketsu no Elf
 
+![senketsu-no-elf](https://cdn.myanimelist.net/images/manga/1/177578.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 鮮血のエルフ

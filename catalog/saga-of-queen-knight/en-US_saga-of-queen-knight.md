@@ -1,5 +1,7 @@
 # Saga of Queen Knight
 
+![saga-of-queen-knight](https://cdn.myanimelist.net/images/manga/3/33346.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: 女王騎士物語

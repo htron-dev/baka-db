@@ -1,5 +1,7 @@
 # Shounen Ashibe 2
 
+![shounen-ashibe-2](https://cdn.myanimelist.net/images/anime/4/24412.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 少年アシベ２

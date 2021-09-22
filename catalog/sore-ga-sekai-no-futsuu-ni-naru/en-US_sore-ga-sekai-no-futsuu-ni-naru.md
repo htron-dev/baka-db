@@ -1,5 +1,7 @@
 # Sore ga Sekai no Futsuu ni Naru
 
+![sore-ga-sekai-no-futsuu-ni-naru](https://cdn.myanimelist.net/images/manga/1/165433.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

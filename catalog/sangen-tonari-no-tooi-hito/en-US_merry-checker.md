@@ -1,5 +1,7 @@
 # Merry Checker
 
+![merry-checker](https://cdn.myanimelist.net/images/manga/3/38800.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

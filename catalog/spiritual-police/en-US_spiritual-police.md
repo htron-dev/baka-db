@@ -1,5 +1,7 @@
 # Spiritual Police
 
+![spiritual-police](https://cdn.myanimelist.net/images/manga/2/43549.jpg)
+
 -   **type**: manga
 -   **original-name**: スピリチュアル ポリス
 

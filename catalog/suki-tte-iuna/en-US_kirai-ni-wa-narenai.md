@@ -1,5 +1,7 @@
 # Kirai ni wa Narenai
 
+![kirai-ni-wa-narenai](https://cdn.myanimelist.net/images/manga/1/220199.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Sacchan, Boku wa.
 
+![sacchan-boku-wa](https://cdn.myanimelist.net/images/manga/2/223622.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 36

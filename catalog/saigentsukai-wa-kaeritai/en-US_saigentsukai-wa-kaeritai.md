@@ -1,5 +1,7 @@
 # Saigentsukai wa Kaeritai
 
+![saigentsukai-wa-kaeritai](https://cdn.myanimelist.net/images/manga/3/235116.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 再現使いは帰りたい
 -   **start-date**: 2018-02-28

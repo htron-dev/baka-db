@@ -1,5 +1,7 @@
 # Sugao no Kimi wo Aishiteru
 
+![sugao-no-kimi-wo-aishiteru](https://cdn.myanimelist.net/images/manga/2/26509.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

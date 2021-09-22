@@ -1,5 +1,7 @@
 # Soredemo Bokura wa Yattenai
 
+![soredemo-bokura-wa-yattenai](https://cdn.myanimelist.net/images/manga/1/161386.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 88

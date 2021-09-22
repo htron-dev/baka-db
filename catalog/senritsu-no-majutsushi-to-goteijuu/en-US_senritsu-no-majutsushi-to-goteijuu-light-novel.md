@@ -1,5 +1,7 @@
 # Senritsu no Majutsushi to Goteijuu
 
+![senritsu-no-majutsushi-to-goteijuu](https://cdn.myanimelist.net/images/manga/2/179754.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 戦慄の魔術師と五帝獣
 -   **start-date**: 2015-11-06

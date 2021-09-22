@@ -1,5 +1,7 @@
 # Seito ni Osowaru Kojin Jugyou
 
+![seito-ni-osowaru-kojin-jugyou](https://cdn.myanimelist.net/images/manga/2/39845.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

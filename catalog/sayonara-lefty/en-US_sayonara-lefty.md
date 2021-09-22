@@ -1,5 +1,7 @@
 # Sayonara Lefty
 
+![sayonara-lefty](https://cdn.myanimelist.net/images/manga/3/39237.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

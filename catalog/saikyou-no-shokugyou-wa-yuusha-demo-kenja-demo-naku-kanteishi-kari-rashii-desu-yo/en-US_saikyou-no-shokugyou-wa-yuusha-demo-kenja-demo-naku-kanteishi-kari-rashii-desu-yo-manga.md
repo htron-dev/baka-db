@@ -1,5 +1,7 @@
 # Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?
 
+![saikyou-no-shokugyou-wa-yuusha-demo-kenja-demo-naku-kanteishi-kari-rashii-desu-yo](https://cdn.myanimelist.net/images/manga/3/208328.jpg)
+
 -   **type**: manga
 -   **original-name**: 最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？
 -   **start-date**: 2017-08-15

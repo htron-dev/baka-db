@@ -1,5 +1,7 @@
 # Shokushuhime
 
+![shokushuhime](https://cdn.myanimelist.net/images/manga/1/217891.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

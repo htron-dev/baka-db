@@ -1,5 +1,7 @@
 # Snow White ~Kimi ni Mau Yuki~
 
+![snow-white-kimi-ni-mau-yuki](https://cdn.myanimelist.net/images/manga/1/95759.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: スノーホワイト～君に舞う雪～

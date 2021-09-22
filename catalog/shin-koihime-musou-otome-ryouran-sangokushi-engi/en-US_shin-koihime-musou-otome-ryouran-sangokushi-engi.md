@@ -1,5 +1,7 @@
 # Shin Koihime Musou - Otome Ryouran Sangokushi Engi
 
+![shin-koihime-musou-otome-ryouran-sangokushi-engi](https://cdn.myanimelist.net/images/manga/2/46397.jpg)
+
 -   **type**: manga
 -   **original-name**: 真恋姫無双 乙女繚乱 ☆ 三国志演義
 -   **start-date**: 2009-10-26

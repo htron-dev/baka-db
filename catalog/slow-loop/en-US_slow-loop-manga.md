@@ -1,5 +1,7 @@
 # Slow Loop
 
+![slow-loop](https://cdn.myanimelist.net/images/manga/1/221723.jpg)
+
 -   **type**: manga
 -   **original-name**: スローループ
 -   **start-date**: 2018-04-24

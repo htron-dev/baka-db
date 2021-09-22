@@ -1,5 +1,7 @@
 # Strike Witches: 501 Butai Hasshin shimasu!
 
+![strike-witches-501-butai-hasshin-shimasu](https://cdn.myanimelist.net/images/manga/2/163948.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 25

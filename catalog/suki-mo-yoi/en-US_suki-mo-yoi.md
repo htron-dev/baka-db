@@ -1,5 +1,7 @@
 # Suki mo Yoi
 
+![suki-mo-yoi](https://cdn.myanimelist.net/images/manga/1/83200.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

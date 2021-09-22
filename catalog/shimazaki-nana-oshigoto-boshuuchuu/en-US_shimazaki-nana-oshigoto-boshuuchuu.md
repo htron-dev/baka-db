@@ -1,5 +1,7 @@
 # Shimazaki Nana@Oshigoto Boshuuchuu
 
+![shimazaki-nana-oshigoto-boshuuchuu](https://cdn.myanimelist.net/images/manga/1/233325.jpg)
+
 -   **type**: manga
 -   **original-name**: 島崎奈々＠お仕事募集中
 -   **start-date**: 2020-04-03

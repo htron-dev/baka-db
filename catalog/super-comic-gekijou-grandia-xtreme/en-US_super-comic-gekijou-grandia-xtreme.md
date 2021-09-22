@@ -1,5 +1,7 @@
 # Super Comic Gekijou: Grandia Xtreme
 
+![super-comic-gekijou-grandia-xtreme](https://cdn.myanimelist.net/images/manga/3/151582.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: スーパーコミック劇場 グランディア エクストリーム

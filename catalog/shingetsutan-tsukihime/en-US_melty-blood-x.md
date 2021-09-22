@@ -1,5 +1,7 @@
 # Melty Blood X
 
+![melty-blood-x](https://cdn.myanimelist.net/images/manga/3/41868.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

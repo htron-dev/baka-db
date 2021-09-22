@@ -1,5 +1,7 @@
 # Sakuraba-senpai wa Hatsukoi
 
+![sakuraba-senpai-wa-hatsukoi](https://cdn.myanimelist.net/images/manga/3/195747.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 62

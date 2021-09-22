@@ -1,5 +1,7 @@
 # Shinjuku Shin-chan Patrol: Warui Otona ni Ki wo Tsukete
 
+![shinjuku-shin-chan-patrol-warui-otona-ni-ki-wo-tsukete](https://cdn.myanimelist.net/images/anime/11/10365.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 新宿シンちゃんパトロール わるい大人に気をつけて

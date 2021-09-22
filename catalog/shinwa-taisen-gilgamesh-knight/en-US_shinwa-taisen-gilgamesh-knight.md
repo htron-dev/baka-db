@@ -1,5 +1,7 @@
 # Shinwa Taisen Gilgamesh Knight
 
+![shinwa-taisen-gilgamesh-knight](https://cdn.myanimelist.net/images/manga/2/177676.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 神話大戦ギルガメッシュナイト
 -   **start-date**: 2015-02-01

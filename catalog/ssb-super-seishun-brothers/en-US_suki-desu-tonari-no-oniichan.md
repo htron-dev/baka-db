@@ -1,5 +1,7 @@
 # Suki desu, Tonari no Oniichan.
 
+![suki-desu-tonari-no-oniichan](https://cdn.myanimelist.net/images/manga/1/229911.jpg)
+
 -   **type**: manga
 -   **original-name**: 好きです、となりのお兄ちゃん。
 -   **start-date**: 2017-04-20

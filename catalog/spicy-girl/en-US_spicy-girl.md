@@ -1,5 +1,7 @@
 # Spicy Girl
 
+![spicy-girl](https://cdn.myanimelist.net/images/manga/2/15251.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: スパイシー・ガール

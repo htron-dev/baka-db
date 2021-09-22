@@ -1,5 +1,7 @@
 # Seifuku de Vanilla Kiss
 
+![seifuku-de-vanilla-kiss](https://cdn.myanimelist.net/images/manga/3/154415.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 35

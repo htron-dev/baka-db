@@ -1,5 +1,7 @@
 # Suki ni Natte wa Ikenai Hito
 
+![suki-ni-natte-wa-ikenai-hito](https://cdn.myanimelist.net/images/manga/3/164104.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Sannin no Ouji no Dokusenai: Midara na Seiryaku Kekkon
 
+![sannin-no-ouji-no-dokusenai-midara-na-seiryaku-kekkon](https://cdn.myanimelist.net/images/manga/3/182633.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 三人の王子の独占愛: みだらな政略結婚

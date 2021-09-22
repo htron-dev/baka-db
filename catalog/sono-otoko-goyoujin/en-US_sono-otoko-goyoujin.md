@@ -1,5 +1,7 @@
 # Sono Otoko, Goyoujin
 
+![sono-otoko-goyoujin](https://cdn.myanimelist.net/images/manga/1/45795.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

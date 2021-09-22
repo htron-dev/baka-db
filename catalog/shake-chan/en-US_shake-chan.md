@@ -1,5 +1,7 @@
 # Shake-chan
 
+![shake-chan](https://cdn.myanimelist.net/images/anime/1311/103101.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: シャケちゃん

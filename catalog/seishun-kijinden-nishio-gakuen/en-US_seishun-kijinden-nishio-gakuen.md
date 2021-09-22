@@ -1,5 +1,7 @@
 # Seishun Kijinden! Nishio Gakuen
 
+![seishun-kijinden-nishio-gakuen](https://cdn.myanimelist.net/images/manga/3/199140.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

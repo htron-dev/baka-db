@@ -1,5 +1,7 @@
 # Sumire♡17-sai!!
 
+![sumire♡-17-sai](https://cdn.myanimelist.net/images/manga/1/116283.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

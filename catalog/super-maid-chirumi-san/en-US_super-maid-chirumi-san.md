@@ -1,5 +1,7 @@
 # Super Maid Chirumi-san
 
+![super-maid-chirumi-san](https://cdn.myanimelist.net/images/manga/3/35612.jpg)
+
 -   **type**: manga
 -   **original-name**: スーパーメイドちるみさん
 -   **start-date**: 2008-10-07

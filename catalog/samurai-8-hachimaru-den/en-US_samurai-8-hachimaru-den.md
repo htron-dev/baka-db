@@ -1,5 +1,7 @@
 # Samurai 8: Hachimaru Den
 
+![samurai-8-hachimaru-den](https://cdn.myanimelist.net/images/manga/2/224191.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 43

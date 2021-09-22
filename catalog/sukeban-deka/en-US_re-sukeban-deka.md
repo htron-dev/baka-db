@@ -1,5 +1,7 @@
 # Re: Sukeban Deka
 
+![re-sukeban-deka](https://cdn.myanimelist.net/images/manga/3/248714.jpg)
+
 -   **type**: manga
 -   **original-name**: RE:スケバン刑事〈デカ〉
 -   **start-date**: 2021-02-05

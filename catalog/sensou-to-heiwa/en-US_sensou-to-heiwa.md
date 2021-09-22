@@ -1,5 +1,7 @@
 # Sensou to Heiwa
 
+![sensou-to-heiwa](https://cdn.myanimelist.net/images/manga/1/159702.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

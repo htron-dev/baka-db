@@ -1,5 +1,7 @@
 # Saisei no Phantasma
 
+![saisei-no-phantasma](https://cdn.myanimelist.net/images/manga/1/174440.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

@@ -1,5 +1,7 @@
 # Shiawase Kissa 3-choume
 
+![shiawase-kissa-3-choume](https://cdn.myanimelist.net/images/manga/2/749.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 88

@@ -1,5 +1,7 @@
 # Suki Kirai
 
+![suki-kirai](https://cdn.myanimelist.net/images/manga/2/179369.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Seiyuu Ichinensei
 
+![seiyuu-ichinensei](https://cdn.myanimelist.net/images/manga/1/119579.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

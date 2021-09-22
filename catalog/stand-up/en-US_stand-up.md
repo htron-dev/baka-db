@@ -1,5 +1,7 @@
 # Stand Up!!!!
 
+![stand-up](https://cdn.myanimelist.net/images/manga/2/137795.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Sekigan no Shounen: Occult Maiden - Kage Shou
 
+![sekigan-no-shounen-occult-maiden-kage-shou](https://cdn.myanimelist.net/images/manga/2/114683.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Starship Operators
 
+![starship-operators](https://cdn.myanimelist.net/images/anime/9/21303.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: スターシップ・オペレーターズ

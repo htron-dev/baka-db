@@ -1,5 +1,7 @@
 # Suki desu, Sensei
 
+![suki-desu-sensei](https://cdn.myanimelist.net/images/manga/1/204766.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

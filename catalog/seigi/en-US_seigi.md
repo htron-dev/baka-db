@@ -1,5 +1,7 @@
 # Seigi!!
 
+![seigi](https://cdn.myanimelist.net/images/manga/2/32339.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

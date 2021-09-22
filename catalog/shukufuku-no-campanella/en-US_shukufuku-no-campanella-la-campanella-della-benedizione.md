@@ -1,5 +1,7 @@
 # Shukufuku no Campanella: La Campanella Della Benedizione
 
+![shukufuku-no-campanella-la-campanella-della-benedizione](https://cdn.myanimelist.net/images/anime/11/27462.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 祝福のカンパネラ -la campanella della benedizione-

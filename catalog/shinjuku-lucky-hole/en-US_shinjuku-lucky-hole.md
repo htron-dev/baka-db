@@ -1,5 +1,7 @@
 # Shinjuku Lucky Hole
 
+![shinjuku-lucky-hole](https://cdn.myanimelist.net/images/manga/2/78295.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Sugary Wedding: Fiancée wa Kokuou Heika
 
+![sugary-wedding-fiancee-wa-kokuou-heika](https://cdn.myanimelist.net/images/manga/2/192764.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Sora no Method
 
+![sora-no-method](https://cdn.myanimelist.net/images/anime/10/62485.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 天体のメソッド

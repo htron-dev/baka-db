@@ -1,5 +1,7 @@
 # Shishunki no Iron Maiden
 
+![shishunki-no-iron-maiden](https://cdn.myanimelist.net/images/manga/3/201083.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 41

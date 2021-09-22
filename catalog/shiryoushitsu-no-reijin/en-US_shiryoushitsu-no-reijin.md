@@ -1,5 +1,7 @@
 # Shiryoushitsu no Reijin
 
+![shiryoushitsu-no-reijin](https://cdn.myanimelist.net/images/manga/1/129587.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

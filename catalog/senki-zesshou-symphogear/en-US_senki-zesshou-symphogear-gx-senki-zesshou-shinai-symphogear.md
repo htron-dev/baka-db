@@ -1,5 +1,7 @@
 # Senki Zesshou Symphogear GX: Senki Zesshou Shinai Symphogear
 
+![senki-zesshou-symphogear-gx-senki-zesshou-shinai-symphogear](https://cdn.myanimelist.net/images/anime/8/77264.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: 戦姫絶唱シンフォギア GX 戦姫絶唱しないシンフォギア

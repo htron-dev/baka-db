@@ -1,5 +1,7 @@
 # Shinjuku DxD
 
+![shinjuku-dx-d](https://cdn.myanimelist.net/images/manga/2/131071.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 44

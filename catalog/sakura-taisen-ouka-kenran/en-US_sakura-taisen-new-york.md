@@ -1,5 +1,7 @@
 # Sakura Taisen: New York
 
+![sakura-taisen-new-york](https://cdn.myanimelist.net/images/anime/1/2328.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: サクラ大戦 ニューヨーク・紐育

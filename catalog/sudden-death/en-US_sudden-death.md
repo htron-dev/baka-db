@@ -1,5 +1,7 @@
 # Sudden Death
 
+![sudden-death](https://cdn.myanimelist.net/images/manga/3/181204.jpg)
+
 -   **type**: manga
 -   **original-name**: さどんです
 -   **start-date**: 2012-11-26

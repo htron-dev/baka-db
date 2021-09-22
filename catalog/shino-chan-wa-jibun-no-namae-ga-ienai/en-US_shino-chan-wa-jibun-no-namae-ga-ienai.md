@@ -1,5 +1,7 @@
 # Shino-chan wa Jibun no Namae ga Ienai
 
+![shino-chan-wa-jibun-no-namae-ga-ienai](https://cdn.myanimelist.net/images/manga/2/181384.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

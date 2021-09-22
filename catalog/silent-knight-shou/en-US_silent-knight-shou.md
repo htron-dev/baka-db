@@ -1,5 +1,7 @@
 # Silent Knight Shou
 
+![silent-knight-shou](https://cdn.myanimelist.net/images/manga/2/21462.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

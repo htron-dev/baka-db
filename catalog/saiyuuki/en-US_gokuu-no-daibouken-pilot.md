@@ -1,5 +1,7 @@
 # Gokuu no Daibouken Pilot
 
+![gokuu-no-daibouken-pilot](https://cdn.myanimelist.net/images/anime/2/61597.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 孫悟空が始まるよー パイロットフィルム

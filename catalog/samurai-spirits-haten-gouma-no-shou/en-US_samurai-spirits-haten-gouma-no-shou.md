@@ -1,5 +1,7 @@
 # Samurai Spirits: Haten Gouma no Shou
 
+![samurai-spirits-haten-gouma-no-shou](https://cdn.myanimelist.net/images/anime/6/49963.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: サムライスピリッツ　破天降魔の章

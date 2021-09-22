@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Black Nose to Mahou no Uta
 
+![sore-ike-anpanman-black-nose-to-mahou-no-uta](https://cdn.myanimelist.net/images/anime/10/24923.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ! アンパンマン ブラックノーズと魔法の歌

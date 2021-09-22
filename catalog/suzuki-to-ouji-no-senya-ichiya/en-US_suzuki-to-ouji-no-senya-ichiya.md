@@ -1,5 +1,7 @@
 # Suzuki to Ouji no Senya Ichiya
 
+![suzuki-to-ouji-no-senya-ichiya](https://cdn.myanimelist.net/images/manga/1/245961.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

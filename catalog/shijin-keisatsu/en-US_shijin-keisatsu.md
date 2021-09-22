@@ -1,5 +1,7 @@
 # Shijin Keisatsu
 
+![shijin-keisatsu](https://cdn.myanimelist.net/images/manga/3/201600.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 38

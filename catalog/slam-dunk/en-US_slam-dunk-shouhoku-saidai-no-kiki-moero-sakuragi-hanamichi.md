@@ -1,5 +1,7 @@
 # Slam Dunk: Shouhoku Saidai no Kiki! Moero Sakuragi Hanamichi
 
+![slam-dunk-shouhoku-saidai-no-kiki-moero-sakuragi-hanamichi](https://cdn.myanimelist.net/images/anime/1140/94409.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: スラムダンク 湘北最大の危機！燃えろ桜木花道

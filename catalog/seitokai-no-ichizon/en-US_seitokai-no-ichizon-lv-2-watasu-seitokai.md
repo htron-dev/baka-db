@@ -1,5 +1,7 @@
 # Seitokai no Ichizon Lv.2: Watasu Seitokai
 
+![seitokai-no-ichizon-lv-2-watasu-seitokai](https://cdn.myanimelist.net/images/anime/9/62845.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 生徒会の一存 Lv.2 渡す生徒会

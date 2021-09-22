@@ -1,5 +1,7 @@
 # She Scares Me
 
+![she-scares-me](https://cdn.myanimelist.net/images/manga/1/145667.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 14
 -   **original-name**: 그녀는 무서워

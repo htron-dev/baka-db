@@ -1,5 +1,7 @@
 # Sora wo Daite Oyasumi
 
+![sora-wo-daite-oyasumi](https://cdn.myanimelist.net/images/manga/2/130419.jpg)
+
 -   **type**: manga
 -   **chapters**: 9
 -   **original-name**: 空をだいておやすみ

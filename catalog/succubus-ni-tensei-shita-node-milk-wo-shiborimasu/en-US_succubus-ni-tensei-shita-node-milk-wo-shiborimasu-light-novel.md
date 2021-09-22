@@ -1,5 +1,7 @@
 # Succubus ni Tensei shita node Milk wo Shiborimasu
 
+![succubus-ni-tensei-shita-node-milk-wo-shiborimasu](https://cdn.myanimelist.net/images/manga/3/198376.jpg)
+
 -   **type**: light-novel
 -   **original-name**: サキュバスに転生したのでミルクをしぼります
 -   **start-date**: 2017-07-29

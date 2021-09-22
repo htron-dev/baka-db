@@ -1,5 +1,7 @@
 # Sentimental Garden Lover
 
+![sentimental-garden-lover](https://cdn.myanimelist.net/images/manga/2/24944.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

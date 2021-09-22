@@ -1,5 +1,7 @@
 # Sore wa Yappari Ai Kamone
 
+![sore-wa-yappari-ai-kamone](https://cdn.myanimelist.net/images/manga/1/2212.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

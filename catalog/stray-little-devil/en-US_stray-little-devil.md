@@ -1,5 +1,7 @@
 # Stray Little Devil
 
+![stray-little-devil](https://cdn.myanimelist.net/images/manga/2/169653.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 32

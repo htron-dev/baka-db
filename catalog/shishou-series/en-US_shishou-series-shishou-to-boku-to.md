@@ -1,5 +1,7 @@
 # Shishou Series: Shishou to Boku to
 
+![shishou-series-shishou-to-boku-to](https://cdn.myanimelist.net/images/manga/1/201700.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 師匠シリーズ ～師匠と僕と～

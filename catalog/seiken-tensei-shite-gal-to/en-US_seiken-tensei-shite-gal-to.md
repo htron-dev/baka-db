@@ -1,5 +1,7 @@
 # Seiken Tensei shite Gal to...!?
 
+![seiken-tensei-shite-gal-to](https://cdn.myanimelist.net/images/manga/1/185412.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 聖剣転生してギャルと…!?
 -   **start-date**: 2016-11-25

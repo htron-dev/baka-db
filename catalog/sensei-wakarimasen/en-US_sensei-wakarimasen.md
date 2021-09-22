@@ -1,5 +1,7 @@
 # Sensei, Wakarimasen
 
+![sensei-wakarimasen](https://cdn.myanimelist.net/images/manga/3/7182.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

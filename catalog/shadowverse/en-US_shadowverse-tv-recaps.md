@@ -1,5 +1,7 @@
 # Shadowverse (TV) Recaps
 
+![shadowverse-tv-recaps](https://cdn.myanimelist.net/images/anime/1711/108554.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: シャドウバース特別編

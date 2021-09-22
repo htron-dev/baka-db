@@ -1,5 +1,7 @@
 # Saber Marionette J to X
 
+![saber-marionette-j-to-x](https://cdn.myanimelist.net/images/anime/1773/94167.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: セイバーマリオネット J to X

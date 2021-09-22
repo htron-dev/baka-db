@@ -1,5 +1,7 @@
 # Satsu Recruit
 
+![satsu-recruit](https://cdn.myanimelist.net/images/manga/3/204435.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 67

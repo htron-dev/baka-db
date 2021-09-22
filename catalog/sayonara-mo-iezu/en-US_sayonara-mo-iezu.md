@@ -1,5 +1,7 @@
 # Sayonara mo Iezu
 
+![sayonara-mo-iezu](https://cdn.myanimelist.net/images/manga/3/246989.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: さよならも言えず

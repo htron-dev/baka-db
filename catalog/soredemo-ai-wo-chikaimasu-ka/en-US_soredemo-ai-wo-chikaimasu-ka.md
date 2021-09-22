@@ -1,5 +1,7 @@
 # Soredemo Ai wo Chikaimasu ka?
 
+![soredemo-ai-wo-chikaimasu-ka](https://cdn.myanimelist.net/images/manga/2/235903.jpg)
+
 -   **type**: manga
 -   **original-name**: それでも愛を誓いますか?
 -   **start-date**: 2019-06-28

@@ -1,5 +1,7 @@
 # Shiharu Genesis
 
+![shiharu-genesis](https://cdn.myanimelist.net/images/manga/2/18387.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 35

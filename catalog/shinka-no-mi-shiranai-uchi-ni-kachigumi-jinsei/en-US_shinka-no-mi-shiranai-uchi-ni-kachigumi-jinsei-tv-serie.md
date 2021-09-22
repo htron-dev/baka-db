@@ -1,5 +1,7 @@
 # Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei
 
+![shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei](https://cdn.myanimelist.net/images/anime/1537/117590.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 進化の実～知らないうちに勝ち組人生～
 -   **start-date**: 2021-10-20

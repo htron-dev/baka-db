@@ -1,5 +1,7 @@
 # Shounen Ashibe
 
+![shounen-ashibe](https://cdn.myanimelist.net/images/manga/1/171460.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 270

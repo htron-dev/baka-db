@@ -1,5 +1,7 @@
 # Sekisou-tai
 
+![sekisou-tai](https://cdn.myanimelist.net/images/anime/8/83703.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 積層体

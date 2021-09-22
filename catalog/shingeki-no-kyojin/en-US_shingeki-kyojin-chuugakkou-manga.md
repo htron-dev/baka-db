@@ -1,5 +1,7 @@
 # Shingeki! Kyojin Chuugakkou
 
+![shingeki-kyojin-chuugakkou](https://cdn.myanimelist.net/images/manga/2/178950.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 96

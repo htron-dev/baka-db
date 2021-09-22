@@ -1,5 +1,7 @@
 # Maia: Swan Act II
 
+![maia-swan-act-ii](https://cdn.myanimelist.net/images/manga/2/175475.jpg)
+
 -   **type**: manga
 -   **original-name**: Maia まいあ -SWAN actⅡ-
 -   **start-date**: 2005-09-06

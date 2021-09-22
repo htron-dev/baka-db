@@ -1,5 +1,7 @@
 # Sekai Meisaku Douwa: Oyayubi Hime
 
+![sekai-meisaku-douwa-oyayubi-hime](https://cdn.myanimelist.net/images/anime/5/15249.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 世界名作童話 おやゆび姫

@@ -1,5 +1,7 @@
 # Suitsukushitai Otoshigoro: Moshikashite Ochikobore Majutsushi no Seikoutan
 
+![suitsukushitai-otoshigoro-moshikashite-ochikobore-majutsushi-no-seikoutan](https://cdn.myanimelist.net/images/manga/3/130611.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 吸い尽くしたいお年頃 -もしかして落ちこぼれ魔導師の成功譚

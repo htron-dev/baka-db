@@ -1,5 +1,7 @@
 # Sougin no Yuria: Gunpowder Valentine
 
+![sougin-no-yuria-gunpowder-valentine](https://cdn.myanimelist.net/images/manga/3/161042.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

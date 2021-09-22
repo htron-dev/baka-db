@@ -1,5 +1,7 @@
 # Sengoku Basara
 
+![sengoku-basara](https://cdn.myanimelist.net/images/anime/4/21849.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 戦国 BASARA

@@ -1,5 +1,7 @@
 # Shichinin no Majo to Haikaburi no Sora no Legatus
 
+![shichinin-no-majo-to-haikaburi-no-sora-no-legatus](https://cdn.myanimelist.net/images/manga/2/162765.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

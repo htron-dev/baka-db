@@ -1,5 +1,7 @@
 # Steins;Gate: Hiyoku Renri no Sweets Honey
 
+![steins-gate-hiyoku-renri-no-sweets-honey](https://cdn.myanimelist.net/images/manga/2/150465.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: STEINS;GATE 比翼恋理のスイーツはにー

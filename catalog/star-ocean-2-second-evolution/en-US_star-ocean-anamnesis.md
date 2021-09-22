@@ -1,5 +1,7 @@
 # Star Ocean: Anamnesis
 
+![star-ocean-anamnesis](https://cdn.myanimelist.net/images/anime/1752/108240.jpg)
+
 -   **type**: ona
 -   **original-name**: スターオーシャン：アナムネシス
 -   **start-date**: 2016-11-28

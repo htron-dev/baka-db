@@ -1,5 +1,7 @@
 # Shuushuu Taishitsu
 
+![shuushuu-taishitsu](https://cdn.myanimelist.net/images/manga/1/187024.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

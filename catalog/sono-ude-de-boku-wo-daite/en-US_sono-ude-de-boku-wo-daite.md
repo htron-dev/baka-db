@@ -1,5 +1,7 @@
 # Sono Ude de Boku wo Daite
 
+![sono-ude-de-boku-wo-daite](https://cdn.myanimelist.net/images/manga/2/104885.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

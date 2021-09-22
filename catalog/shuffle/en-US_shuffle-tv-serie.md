@@ -1,5 +1,7 @@
 # Shuffle!
 
+![shuffle](https://cdn.myanimelist.net/images/anime/10/19622.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: SHUFFLE! (シャッフル!)

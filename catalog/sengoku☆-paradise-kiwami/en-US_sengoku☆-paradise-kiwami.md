@@ -1,5 +1,7 @@
 # Sengoku☆Paradise Kiwami
 
+![sengoku☆-paradise-kiwami](https://cdn.myanimelist.net/images/anime/11/39031.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 戦国 ☆ パラダイス-極-（きわみ）

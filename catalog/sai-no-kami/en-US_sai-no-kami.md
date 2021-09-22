@@ -1,5 +1,7 @@
 # Sai no Kami
 
+![sai-no-kami](https://cdn.myanimelist.net/images/manga/2/22539.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 彩の神

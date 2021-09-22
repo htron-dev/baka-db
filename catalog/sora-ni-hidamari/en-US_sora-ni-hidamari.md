@@ -1,5 +1,7 @@
 # Sora ni Hidamari
 
+![sora-ni-hidamari](https://cdn.myanimelist.net/images/manga/3/248503.jpg)
+
 -   **type**: manga
 -   **original-name**: そらに陽だまり
 -   **start-date**: 2021-01-18

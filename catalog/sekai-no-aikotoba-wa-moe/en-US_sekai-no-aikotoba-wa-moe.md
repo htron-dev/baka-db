@@ -1,5 +1,7 @@
 # Sekai no Aikotoba wa Moe
 
+![sekai-no-aikotoba-wa-moe](https://cdn.myanimelist.net/images/manga/2/82328.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

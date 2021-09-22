@@ -1,5 +1,7 @@
 # Sword &amp; Wizards: Haken no Koutei to Shichisei no Himekishi
 
+![sword-amp-wizards-haken-no-koutei-to-shichisei-no-himekishi](https://cdn.myanimelist.net/images/manga/3/177727.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ソード&ウィザーズ 覇剣の皇帝と七星の姫騎士
 -   **start-date**: 2015-03-01

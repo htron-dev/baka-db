@@ -1,5 +1,7 @@
 # Saint Seiya: Gold Saints Data File
 
+![saint-seiya-gold-saints-data-file](https://cdn.myanimelist.net/images/anime/8/85080.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 聖闘士星矢 黄金聖闘士 DATA FILE

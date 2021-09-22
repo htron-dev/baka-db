@@ -1,5 +1,7 @@
 # Stalker Danshi
 
+![stalker-danshi](https://cdn.myanimelist.net/images/manga/3/171521.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

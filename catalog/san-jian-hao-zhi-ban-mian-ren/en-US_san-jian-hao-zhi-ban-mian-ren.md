@@ -1,5 +1,7 @@
 # San Jian Hao Zhi Ban Mian Ren
 
+![san-jian-hao-zhi-ban-mian-ren](https://cdn.myanimelist.net/images/anime/1179/107942.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 三剑豪之半面人

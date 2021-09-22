@@ -1,5 +1,7 @@
 # Shoumonai Bokura no Renairon
 
+![shoumonai-bokura-no-renairon](https://cdn.myanimelist.net/images/manga/2/226338.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 54

@@ -1,5 +1,7 @@
 # Slow Days
 
+![slow-days](https://cdn.myanimelist.net/images/manga/2/160519.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

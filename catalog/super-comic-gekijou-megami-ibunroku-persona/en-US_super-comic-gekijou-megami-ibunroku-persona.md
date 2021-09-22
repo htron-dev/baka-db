@@ -1,5 +1,7 @@
 # Super Comic Gekijou: Megami Ibunroku Persona
 
+![super-comic-gekijou-megami-ibunroku-persona](https://cdn.myanimelist.net/images/manga/3/151604.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: スーパーコミック劇場 女神異聞録ペルソナ

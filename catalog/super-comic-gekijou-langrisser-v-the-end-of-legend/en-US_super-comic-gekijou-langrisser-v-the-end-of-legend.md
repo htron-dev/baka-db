@@ -1,5 +1,7 @@
 # Super Comic Gekijou: Langrisser V - The End of Legend
 
+![super-comic-gekijou-langrisser-v-the-end-of-legend](https://cdn.myanimelist.net/images/manga/3/151608.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: スーパーコミック劇場 ラングリッサー V ジエンドオブレジェンド

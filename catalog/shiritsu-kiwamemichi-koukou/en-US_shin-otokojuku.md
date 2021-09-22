@@ -1,5 +1,7 @@
 # Shin!! Otokojuku
 
+![shin-otokojuku](https://cdn.myanimelist.net/images/manga/2/226092.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 53

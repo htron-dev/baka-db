@@ -1,5 +1,7 @@
 # Sensei to, Uwakichuu
 
+![sensei-to-uwakichuu](https://cdn.myanimelist.net/images/manga/1/39707.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

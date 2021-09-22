@@ -1,5 +1,7 @@
 # Abe George Kattobi Seishun Ki: Shibuya Honky Tonk
 
+![abe-george-kattobi-seishun-ki-shibuya-honky-tonk](https://cdn.myanimelist.net/images/anime/3/46761.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 安部譲二かっとび青春記 渋谷ホンキィトンク

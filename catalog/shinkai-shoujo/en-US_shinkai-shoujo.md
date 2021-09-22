@@ -1,5 +1,7 @@
 # Shinkai Shoujo
 
+![shinkai-shoujo](https://cdn.myanimelist.net/images/manga/2/233525.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

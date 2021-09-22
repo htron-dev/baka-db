@@ -1,5 +1,7 @@
 # Salaryman Kintarou: 50-sai
 
+![salaryman-kintarou-50-sai](https://cdn.myanimelist.net/images/manga/1/176553.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 38

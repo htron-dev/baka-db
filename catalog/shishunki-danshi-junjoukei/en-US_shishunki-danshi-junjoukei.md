@@ -1,5 +1,7 @@
 # Shishunki Danshi Junjoukei
 
+![shishunki-danshi-junjoukei](https://cdn.myanimelist.net/images/manga/2/71615.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

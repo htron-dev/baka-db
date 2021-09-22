@@ -1,5 +1,7 @@
 # Star Driver: Kagayaki no Takuto
 
+![star-driver-kagayaki-no-takuto](https://cdn.myanimelist.net/images/anime/4/25953.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: STAR DRIVER 輝きのタクト

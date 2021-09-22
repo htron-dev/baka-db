@@ -1,5 +1,7 @@
 # Sentouin, Hakenshimasu!
 
+![sentouin-hakenshimasu](https://cdn.myanimelist.net/images/anime/1444/115118.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 戦闘員、派遣します！

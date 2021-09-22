@@ -1,5 +1,7 @@
 # Sora no Makigai
 
+![sora-no-makigai](https://cdn.myanimelist.net/images/manga/2/194951.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

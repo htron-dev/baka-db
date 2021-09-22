@@ -1,5 +1,7 @@
 # Shikabanechou Undead
 
+![shikabanechou-undead](https://cdn.myanimelist.net/images/manga/1/200832.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

@@ -1,5 +1,7 @@
 # San Zhi Lang
 
+![san-zhi-lang](https://cdn.myanimelist.net/images/anime/1526/115751.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 三只狼

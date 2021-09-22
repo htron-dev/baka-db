@@ -1,5 +1,7 @@
 # Sayonara Nocturne
 
+![sayonara-nocturne](https://cdn.myanimelist.net/images/manga/3/173439.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

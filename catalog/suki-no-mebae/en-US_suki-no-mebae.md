@@ -1,5 +1,7 @@
 # Suki no Mebae
 
+![suki-no-mebae](https://cdn.myanimelist.net/images/manga/1/11083.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

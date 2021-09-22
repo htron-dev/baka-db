@@ -1,5 +1,7 @@
 # Spriggan
 
+![spriggan](https://cdn.myanimelist.net/images/manga/1/187413.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 59

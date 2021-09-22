@@ -1,5 +1,7 @@
 # Skill of Lure
 
+![skill-of-lure](https://cdn.myanimelist.net/images/manga/2/155593.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **chapters**: 36

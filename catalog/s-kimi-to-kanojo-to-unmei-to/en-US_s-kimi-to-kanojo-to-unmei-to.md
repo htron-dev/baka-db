@@ -1,5 +1,7 @@
 # S: Kimi to, Kanojo to, Unmei to
 
+![s-kimi-to-kanojo-to-unmei-to](https://cdn.myanimelist.net/images/manga/1/233924.jpg)
+
 -   **type**: manga
 -   **original-name**: S 君と、彼女と、運命と
 -   **start-date**: 2016-07-25

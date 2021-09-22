@@ -1,5 +1,7 @@
 # Shima no Omawari-san
 
+![shima-no-omawari-san](https://cdn.myanimelist.net/images/manga/2/70105.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

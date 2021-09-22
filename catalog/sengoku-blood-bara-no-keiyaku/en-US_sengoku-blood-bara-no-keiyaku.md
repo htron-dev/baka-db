@@ -1,5 +1,7 @@
 # Sengoku Blood: Bara no Keiyaku
 
+![sengoku-blood-bara-no-keiyaku](https://cdn.myanimelist.net/images/manga/2/161941.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

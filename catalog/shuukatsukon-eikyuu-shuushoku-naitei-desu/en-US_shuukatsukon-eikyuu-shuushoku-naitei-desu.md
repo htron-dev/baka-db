@@ -1,5 +1,7 @@
 # Shuukatsukon: Eikyuu Shuushoku, Naitei desu!
 
+![shuukatsukon-eikyuu-shuushoku-naitei-desu](https://cdn.myanimelist.net/images/manga/3/195476.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: シューカツ婚～永久就職、内定です！～

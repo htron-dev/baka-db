@@ -1,5 +1,7 @@
 # Selector Spread WIXOSS
 
+![selector-spread-wixoss](https://cdn.myanimelist.net/images/anime/5/75495.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: selector spread WIXOSS

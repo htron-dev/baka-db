@@ -1,5 +1,7 @@
 # Suzu ga Ne no Sayasaya
 
+![suzu-ga-ne-no-sayasaya](https://cdn.myanimelist.net/images/manga/1/168478.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

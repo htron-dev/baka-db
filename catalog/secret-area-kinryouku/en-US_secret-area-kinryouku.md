@@ -1,5 +1,7 @@
 # Secret Area: Kinryouku
 
+![secret-area-kinryouku](https://cdn.myanimelist.net/images/manga/1/2694.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

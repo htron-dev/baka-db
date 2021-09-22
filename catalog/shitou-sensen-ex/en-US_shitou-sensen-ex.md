@@ -1,5 +1,7 @@
 # Shitou Sensen EX
 
+![shitou-sensen-ex](https://cdn.myanimelist.net/images/manga/2/190283.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 48

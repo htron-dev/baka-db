@@ -1,5 +1,7 @@
 # Shuuen Sekai no Rebellion
 
+![shuuen-sekai-no-rebellion](https://cdn.myanimelist.net/images/manga/3/161036.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Shi Wan Ge Leng Xiaohua Movie 1
 
+![shi-wan-ge-leng-xiaohua-movie-1](https://cdn.myanimelist.net/images/anime/5/79766.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 十万个冷笑话; 十万个冷笑话 大电影

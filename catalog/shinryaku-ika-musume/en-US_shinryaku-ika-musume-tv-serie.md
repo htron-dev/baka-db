@@ -1,5 +1,7 @@
 # Shinryaku!? Ika Musume
 
+![shinryaku-ika-musume](https://cdn.myanimelist.net/images/anime/6/30120.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 侵略!?イカ娘

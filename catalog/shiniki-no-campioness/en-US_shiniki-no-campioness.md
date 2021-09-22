@@ -1,5 +1,7 @@
 # Shiniki no Campioness
 
+![shiniki-no-campioness](https://cdn.myanimelist.net/images/manga/3/204829.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 神域のカンピオーネス
 -   **start-date**: 2017-12-22

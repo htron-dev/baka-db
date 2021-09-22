@@ -1,5 +1,7 @@
 # Daisuki desu!! Mahou Tenshi Cosmos
 
+![daisuki-desu-mahou-tenshi-cosmos](https://cdn.myanimelist.net/images/manga/3/59829.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 29

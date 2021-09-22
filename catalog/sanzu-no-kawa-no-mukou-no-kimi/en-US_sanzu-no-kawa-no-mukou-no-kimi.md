@@ -1,5 +1,7 @@
 # Sanzu no Kawa no Mukou no Kimi
 
+![sanzu-no-kawa-no-mukou-no-kimi](https://cdn.myanimelist.net/images/manga/3/170601.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

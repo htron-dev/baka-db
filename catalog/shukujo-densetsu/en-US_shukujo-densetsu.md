@@ -1,5 +1,7 @@
 # Shukujo densetsu
 
+![shukujo-densetsu](https://cdn.myanimelist.net/images/manga/2/79213.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

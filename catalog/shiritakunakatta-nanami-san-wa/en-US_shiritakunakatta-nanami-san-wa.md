@@ -1,5 +1,7 @@
 # Shiritakunakatta Nanami-san wa
 
+![shiritakunakatta-nanami-san-wa](https://cdn.myanimelist.net/images/manga/2/181895.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: 知りたくなかった七海さんは

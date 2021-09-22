@@ -1,5 +1,7 @@
 # Shitsuren Tantei Momose
 
+![shitsuren-tantei-momose](https://cdn.myanimelist.net/images/manga/3/164384.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 失恋探偵ももせ

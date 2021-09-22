@@ -1,5 +1,7 @@
 # Sesuji wo Pin! to: Shikakou Kyougi Dance-bu e Youkoso
 
+![sesuji-wo-pin-to-shikakou-kyougi-dance-bu-e-youkoso](https://cdn.myanimelist.net/images/manga/2/167380.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 87

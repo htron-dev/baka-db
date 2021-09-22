@@ -1,5 +1,7 @@
 # Shiroi Mado no Mukougawa
 
+![shiroi-mado-no-mukougawa](https://cdn.myanimelist.net/images/manga/2/37717.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

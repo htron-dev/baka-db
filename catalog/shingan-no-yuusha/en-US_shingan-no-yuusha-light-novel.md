@@ -1,5 +1,7 @@
 # Shingan no Yuusha
 
+![shingan-no-yuusha](https://cdn.myanimelist.net/images/manga/1/190367.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 11
 -   **chapters**: 185

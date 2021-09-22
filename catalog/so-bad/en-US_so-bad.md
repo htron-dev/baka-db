@@ -1,5 +1,7 @@
 # So Bad!
 
+![so-bad](https://cdn.myanimelist.net/images/manga/2/9977.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 27

@@ -1,5 +1,7 @@
 # Sabaku no Kaizoku! Captain Kuppa
 
+![sabaku-no-kaizoku-captain-kuppa](https://cdn.myanimelist.net/images/anime/9/73649.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 砂漠の海賊！ キャプテンクッパ

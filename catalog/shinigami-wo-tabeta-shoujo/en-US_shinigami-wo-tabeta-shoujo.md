@@ -1,5 +1,7 @@
 # Shinigami wo Tabeta Shoujo
 
+![shinigami-wo-tabeta-shoujo](https://cdn.myanimelist.net/images/manga/3/137429.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 35

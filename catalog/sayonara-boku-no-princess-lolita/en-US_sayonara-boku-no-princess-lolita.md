@@ -1,5 +1,7 @@
 # Sayonara Boku no Princess Lolita
 
+![sayonara-boku-no-princess-lolita](https://cdn.myanimelist.net/images/manga/3/79777.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

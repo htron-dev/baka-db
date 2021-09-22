@@ -1,5 +1,7 @@
 # Skirt Darling
 
+![skirt-darling](https://cdn.myanimelist.net/images/manga/2/246625.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: スカートダーリン

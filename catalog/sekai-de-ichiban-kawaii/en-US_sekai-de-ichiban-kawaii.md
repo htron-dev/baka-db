@@ -1,5 +1,7 @@
 # Sekai de Ichiban Kawaii!
 
+![sekai-de-ichiban-kawaii](https://cdn.myanimelist.net/images/manga/1/242736.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

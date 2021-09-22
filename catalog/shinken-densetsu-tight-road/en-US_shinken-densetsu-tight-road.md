@@ -1,5 +1,7 @@
 # Shinken Densetsu: Tight Road
 
+![shinken-densetsu-tight-road](https://cdn.myanimelist.net/images/anime/1575/96382.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 真拳伝説 タイトロード

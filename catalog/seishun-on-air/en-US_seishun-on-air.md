@@ -1,5 +1,7 @@
 # Seishun on Air
 
+![seishun-on-air](https://cdn.myanimelist.net/images/manga/1/223966.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

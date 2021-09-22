@@ -1,5 +1,7 @@
 # Sekai Maou
 
+![sekai-maou](https://cdn.myanimelist.net/images/manga/1/188943.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 58

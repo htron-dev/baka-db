@@ -1,5 +1,7 @@
 # Swan: Hakuchou no Inori
 
+![swan-hakuchou-no-inori](https://cdn.myanimelist.net/images/manga/1/31253.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: SWAN 白鳥の祈り

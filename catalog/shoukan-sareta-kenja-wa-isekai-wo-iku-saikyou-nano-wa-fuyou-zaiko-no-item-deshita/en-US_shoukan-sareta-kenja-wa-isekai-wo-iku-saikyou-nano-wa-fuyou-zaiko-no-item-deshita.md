@@ -1,5 +1,7 @@
 # Shoukan sareta Kenja wa Isekai wo Iku: Saikyou nano wa Fuyou Zaiko no Item deshita
 
+![shoukan-sareta-kenja-wa-isekai-wo-iku-saikyou-nano-wa-fuyou-zaiko-no-item-deshita](https://cdn.myanimelist.net/images/manga/3/234953.jpg)
+
 -   **type**: manga
 -   **original-name**: 召喚された賢者は異世界を往く～最強なのは不要在庫のアイテムでした～
 -   **start-date**: 2019-03-24

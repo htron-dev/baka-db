@@ -1,5 +1,7 @@
 # S to F
 
+![s-to-f](https://cdn.myanimelist.net/images/manga/2/121551.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

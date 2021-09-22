@@ -1,5 +1,7 @@
 # Strega!
 
+![strega](https://cdn.myanimelist.net/images/manga/1/120175.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # Second Love
 
+![second-love](https://cdn.myanimelist.net/images/manga/2/40677.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: セカンド・ラブ

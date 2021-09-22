@@ -1,5 +1,7 @@
 # Silver Pole Flowers
 
+![silver-pole-flowers](https://cdn.myanimelist.net/images/manga/3/238461.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 35

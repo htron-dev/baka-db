@@ -1,5 +1,7 @@
 # Scoop Musou: "Scoop Hadouhou!" ( `・ω・´)♂〓〓〓〓★(゜ Д ゜ ;;;).:∴ Dogooo
 
+![scoop-musou-scoop-hadouhou-・ω・-♂〓〓〓〓★-゜-д-゜-∴-dogooo](https://cdn.myanimelist.net/images/manga/2/229537.jpg)
+
 -   **type**: light-novel
 -   **original-name**: スコップ無双 「スコップ波動砲!」( `・ω・´)♂〓〓〓〓★(゜ Д ゜ ;;;).:∴ ドゴォォ
 -   **start-date**: 2019-01-25

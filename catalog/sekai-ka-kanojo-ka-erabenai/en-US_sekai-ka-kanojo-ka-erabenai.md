@@ -1,5 +1,7 @@
 # Sekai ka Kanojo ka Erabenai
 
+![sekai-ka-kanojo-ka-erabenai](https://cdn.myanimelist.net/images/manga/3/198943.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 45

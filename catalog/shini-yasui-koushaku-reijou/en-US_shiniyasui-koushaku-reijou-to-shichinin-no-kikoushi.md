@@ -1,5 +1,7 @@
 # Shiniyasui Koushaku Reijou to Shichinin no Kikoushi
 
+![shiniyasui-koushaku-reijou-to-shichinin-no-kikoushi](https://cdn.myanimelist.net/images/manga/2/242215.jpg)
+
 -   **type**: manga
 -   **original-name**: 死にやすい公爵令嬢と七人の貴公子
 -   **start-date**: 2020-06-25

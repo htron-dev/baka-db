@@ -1,5 +1,7 @@
 # Shoukoku no Altair-san
 
+![shoukoku-no-altair-san](https://cdn.myanimelist.net/images/manga/1/140473.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Soushikikan to Watashi no Jijou
 
+![soushikikan-to-watashi-no-jijou](https://cdn.myanimelist.net/images/manga/1/224367.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Shadow Skill (1996)
 
+![shadow-skill-1996](https://cdn.myanimelist.net/images/anime/10/37959.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 影技 SHADOW SKILL

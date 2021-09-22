@@ -1,5 +1,7 @@
 # Sensei, Kowai Hanashi shimasen ka
 
+![sensei-kowai-hanashi-shimasen-ka](https://cdn.myanimelist.net/images/manga/3/226748.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

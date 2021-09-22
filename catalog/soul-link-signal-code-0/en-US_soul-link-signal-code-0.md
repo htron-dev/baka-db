@@ -1,5 +1,7 @@
 # Soul Link - Signal-Code: 0
 
+![soul-link-signal-code-0](https://cdn.myanimelist.net/images/manga/2/33468.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ソウルリンクシグナルコードゼロ

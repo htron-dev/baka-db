@@ -1,5 +1,7 @@
 # Shingeki no Kyojin Season 2
 
+![shingeki-no-kyojin-season-2](https://cdn.myanimelist.net/images/anime/4/84177.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 進撃の巨人 Season2

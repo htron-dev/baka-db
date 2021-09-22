@@ -1,5 +1,7 @@
 # Sagami-san wa Nisemono: Daikirai na Osananajimi ni Dakaremasu
 
+![sagami-san-wa-nisemono-daikirai-na-osananajimi-ni-dakaremasu](https://cdn.myanimelist.net/images/manga/2/245612.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

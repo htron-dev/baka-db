@@ -1,5 +1,7 @@
 # 4-koma Suisei no Gargantia
 
+![4-koma-suisei-no-gargantia](https://cdn.myanimelist.net/images/manga/3/150623.jpg)
+
 -   **type**: manga
 -   **original-name**: 4 コマ翠星のガルガンティア
 -   **start-date**: 2013-07-08

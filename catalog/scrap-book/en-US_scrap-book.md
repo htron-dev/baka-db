@@ -1,5 +1,7 @@
 # Scrap Book
 
+![scrap-book](https://cdn.myanimelist.net/images/manga/1/214902.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 105

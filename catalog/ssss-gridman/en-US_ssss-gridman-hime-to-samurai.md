@@ -1,5 +1,7 @@
 # SSSS.Gridman: Hime to Samurai
 
+![ssss-gridman-hime-to-samurai](https://cdn.myanimelist.net/images/manga/3/224870.jpg)
+
 -   **type**: manga
 -   **original-name**: SSSS.GRIDMAN 姫とサムライ
 -   **start-date**: 2019-10-26

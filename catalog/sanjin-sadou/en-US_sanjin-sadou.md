@@ -1,5 +1,7 @@
 # Sanjin Sadou
 
+![sanjin-sadou](https://cdn.myanimelist.net/images/manga/1/131611.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Sakura no Neko-hime
 
+![sakura-no-neko-hime](https://cdn.myanimelist.net/images/manga/5/19253.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 桜の猫姫

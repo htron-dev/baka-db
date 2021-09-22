@@ -1,5 +1,7 @@
 # Shuffle!
 
+![shuffle](https://cdn.myanimelist.net/images/manga/2/149892.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **original-name**: SHUFFLE!

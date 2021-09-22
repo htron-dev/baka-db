@@ -1,5 +1,7 @@
 # Shikeishuu Sousakan: Akutagawa Kai no Jikenbo
 
+![shikeishuu-sousakan-akutagawa-kai-no-jikenbo](https://cdn.myanimelist.net/images/manga/2/231825.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 36

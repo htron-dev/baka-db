@@ -1,5 +1,7 @@
 # Shoujiki Baka wa Love Comedy hodo Amakunai Seishun ni Idomu
 
+![shoujiki-baka-wa-love-comedy-hodo-amakunai-seishun-ni-idomu](https://cdn.myanimelist.net/images/manga/2/167730.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

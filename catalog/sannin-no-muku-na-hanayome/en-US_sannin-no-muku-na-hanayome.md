@@ -1,5 +1,7 @@
 # Sannin no Muku na Hanayome
 
+![sannin-no-muku-na-hanayome](https://cdn.myanimelist.net/images/manga/3/229864.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 三人の無垢な花嫁

@@ -1,5 +1,7 @@
 # Suna no Ue no Koibitotachi
 
+![suna-no-ue-no-koibitotachi](https://cdn.myanimelist.net/images/manga/3/64601.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Stanley Hawk no Jikenbo: Persona
 
+![stanley-hawk-no-jikenbo-persona](https://cdn.myanimelist.net/images/manga/1/220638.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

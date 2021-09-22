@@ -1,5 +1,7 @@
 # Sekai wo Sukuu Tame ni Watashi to Asachun Dekimasu ka?
 
+![sekai-wo-sukuu-tame-ni-watashi-to-asachun-dekimasu-ka](https://cdn.myanimelist.net/images/manga/2/223038.jpg)
+
 -   **type**: manga
 -   **original-name**: 世界を救うために亜人〈わたし〉と朝チュンできますか？
 -   **start-date**: 2017-09-25

@@ -1,5 +1,7 @@
 # Shiawase Pasta Story
 
+![shiawase-pasta-story](https://cdn.myanimelist.net/images/anime/1163/90948.jpg)
+
 -   **type**: ona
 -   **episodes**: 8
 -   **original-name**: 幸せパスタストーリー

@@ -1,5 +1,7 @@
 # Shishunki Boys x Girls Sensou
 
+![shishunki-boys-x-girls-sensou](https://cdn.myanimelist.net/images/manga/3/161032.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 思春期ボーイズ × ガールズ戦争

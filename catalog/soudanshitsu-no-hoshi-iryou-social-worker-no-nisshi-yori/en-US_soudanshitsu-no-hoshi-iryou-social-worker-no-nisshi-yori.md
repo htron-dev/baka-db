@@ -1,5 +1,7 @@
 # Soudanshitsu no Hoshi: Iryou Social Worker no Nisshi yori
 
+![soudanshitsu-no-hoshi-iryou-social-worker-no-nisshi-yori](https://cdn.myanimelist.net/images/manga/3/236415.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

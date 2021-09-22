@@ -1,5 +1,7 @@
 # Sophia no Enkan
 
+![sophia-no-enkan](https://cdn.myanimelist.net/images/manga/2/235008.jpg)
+
 -   **type**: manga
 -   **original-name**: ソフィアの円環
 -   **start-date**: 2020-04-03

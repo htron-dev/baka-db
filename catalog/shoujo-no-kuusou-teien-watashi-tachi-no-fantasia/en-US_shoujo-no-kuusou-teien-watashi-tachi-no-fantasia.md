@@ -1,5 +1,7 @@
 # Shoujo no Kuusou Teien: Watashi "Tachi" no Fantasia!!
 
+![shoujo-no-kuusou-teien-watashi-tachi-no-fantasia](https://cdn.myanimelist.net/images/manga/2/180355.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

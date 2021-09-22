@@ -1,5 +1,7 @@
 # Shampoo Ouji
 
+![shampoo-ouji](https://cdn.myanimelist.net/images/anime/12/85586.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: シャンプー王子

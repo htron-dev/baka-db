@@ -1,5 +1,7 @@
 # Soul Undertaker
 
+![soul-undertaker](https://cdn.myanimelist.net/images/manga/2/176063.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ソウル・アンダーテイカー

@@ -1,5 +1,7 @@
 # Sore wa Iromeku Fukyouwaon
 
+![sore-wa-iromeku-fukyouwaon](https://cdn.myanimelist.net/images/manga/1/226974.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

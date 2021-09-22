@@ -1,5 +1,7 @@
 # Suisei no Gargantia Specials
 
+![suisei-no-gargantia-specials](https://cdn.myanimelist.net/images/anime/8/51509.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 翠星のガルガンティア 完全新作

@@ -1,5 +1,7 @@
 # Seiheki Yabame na Otoko ni Nerawaremashita.
 
+![seiheki-yabame-na-otoko-ni-nerawaremashita](https://cdn.myanimelist.net/images/manga/2/240227.jpg)
+
 -   **type**: manga
 -   **original-name**: 性癖ヤバめなオトコに狙われました。
 -   **start-date**: 2019-09-16

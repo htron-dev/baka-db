@@ -1,5 +1,7 @@
 # Saint Seiya: Gigantomachia
 
+![saint-seiya-gigantomachia](https://cdn.myanimelist.net/images/manga/1/72603.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 11

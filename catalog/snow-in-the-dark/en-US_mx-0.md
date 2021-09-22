@@ -1,5 +1,7 @@
 # Mx0
 
+![mx-0](https://cdn.myanimelist.net/images/manga/2/55903.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 99

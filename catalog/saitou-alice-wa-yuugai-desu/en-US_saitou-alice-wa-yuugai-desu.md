@@ -1,5 +1,7 @@
 # Saitou Alice wa Yuugai desu.
 
+![saitou-alice-wa-yuugai-desu](https://cdn.myanimelist.net/images/manga/1/121465.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 斉藤アリスは有害です。

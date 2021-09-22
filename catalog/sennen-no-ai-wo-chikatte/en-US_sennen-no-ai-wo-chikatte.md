@@ -1,5 +1,7 @@
 # Sennen no Ai wo Chikatte
 
+![sennen-no-ai-wo-chikatte](https://cdn.myanimelist.net/images/manga/3/229429.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 千年の愛を誓って

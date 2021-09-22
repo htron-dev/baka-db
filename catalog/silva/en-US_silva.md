@@ -1,5 +1,7 @@
 # Silva.
 
+![silva](https://cdn.myanimelist.net/images/manga/3/114765.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 51

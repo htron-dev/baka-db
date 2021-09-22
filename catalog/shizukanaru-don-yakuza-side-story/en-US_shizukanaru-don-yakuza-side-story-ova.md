@@ -1,5 +1,7 @@
 # Shizukanaru Don: Yakuza Side Story
 
+![shizukanaru-don-yakuza-side-story](https://cdn.myanimelist.net/images/anime/13/25895.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 静かなるドン Yakuza Side Story

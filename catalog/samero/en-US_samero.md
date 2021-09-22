@@ -1,5 +1,7 @@
 # Samero
 
+![samero](https://cdn.myanimelist.net/images/anime/4/25824.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 覚めろ

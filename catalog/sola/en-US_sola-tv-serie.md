@@ -1,5 +1,7 @@
 # Sola
 
+![sola](https://cdn.myanimelist.net/images/anime/7/46119.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: sola

@@ -1,5 +1,7 @@
 # Sachi no Otera Gohan
 
+![sachi-no-otera-gohan](https://cdn.myanimelist.net/images/manga/3/204650.jpg)
+
 -   **type**: manga
 -   **original-name**: サチのお寺ごはん
 -   **start-date**: 2015-02-26

@@ -1,5 +1,7 @@
 # Sodom no Ichi
 
+![sodom-no-ichi](https://cdn.myanimelist.net/images/manga/3/238481.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

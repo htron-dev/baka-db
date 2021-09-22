@@ -1,5 +1,7 @@
 # Shounen Tengusa no Shoppai Jumon
 
+![shounen-tengusa-no-shoppai-jumon](https://cdn.myanimelist.net/images/manga/2/164389.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 少年テングサのしょっぱい呪文

@@ -1,5 +1,7 @@
 # Shinyuu Mob no Ore ni Shujinkou no Imouto ga Horeru Wake ga Nai
 
+![shinyuu-mob-no-ore-ni-shujinkou-no-imouto-ga-horeru-wake-ga-nai](https://cdn.myanimelist.net/images/manga/1/246188.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 32

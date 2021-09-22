@@ -1,5 +1,7 @@
 # Submariners Anchovie
 
+![submariners-anchovie](https://cdn.myanimelist.net/images/manga/3/24680.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 海底人類アンチョビー

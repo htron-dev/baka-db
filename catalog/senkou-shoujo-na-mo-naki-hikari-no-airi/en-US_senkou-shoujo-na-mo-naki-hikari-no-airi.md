@@ -1,5 +1,7 @@
 # Senkou Shoujo: Na mo Naki Hikari no Airi
 
+![senkou-shoujo-na-mo-naki-hikari-no-airi](https://cdn.myanimelist.net/images/manga/1/158338.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 閃光少女 名もなき光のアイリ

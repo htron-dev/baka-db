@@ -1,5 +1,7 @@
 # Shugo Chara!
 
+![shugo-chara](https://cdn.myanimelist.net/images/anime/7/5061.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: しゅごキャラ！

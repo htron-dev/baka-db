@@ -1,5 +1,7 @@
 # SSB: Super Seishun Brothers
 
+![ssb-super-seishun-brothers](https://cdn.myanimelist.net/images/manga/2/212699.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 95

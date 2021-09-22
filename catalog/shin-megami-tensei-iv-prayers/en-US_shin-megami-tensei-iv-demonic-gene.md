@@ -1,5 +1,7 @@
 # Shin Megami Tensei IV: Demonic Gene
 
+![shin-megami-tensei-iv-demonic-gene](https://cdn.myanimelist.net/images/manga/2/182110.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

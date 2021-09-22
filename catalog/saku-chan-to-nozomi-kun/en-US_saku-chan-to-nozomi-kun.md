@@ -1,5 +1,7 @@
 # Saku-chan to Nozomi-kun
 
+![saku-chan-to-nozomi-kun](https://cdn.myanimelist.net/images/manga/3/206137.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

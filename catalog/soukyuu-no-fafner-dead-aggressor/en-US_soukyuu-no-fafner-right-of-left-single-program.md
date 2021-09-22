@@ -1,5 +1,7 @@
 # Soukyuu no Fafner: Right of Left - Single Program
 
+![soukyuu-no-fafner-right-of-left-single-program](https://cdn.myanimelist.net/images/anime/8/50369.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 蒼穹のファフナー RIGHT OF LEFT ～ single program ～

@@ -1,5 +1,7 @@
 # Sakasama no Patema
 
+![sakasama-no-patema](https://cdn.myanimelist.net/images/anime/12/52415.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: サカサマのパテマ

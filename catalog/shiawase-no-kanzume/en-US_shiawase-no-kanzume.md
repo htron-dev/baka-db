@@ -1,5 +1,7 @@
 # Shiawase no Kanzume
 
+![shiawase-no-kanzume](https://cdn.myanimelist.net/images/manga/1/22633.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

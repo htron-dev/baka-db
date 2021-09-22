@@ -1,5 +1,7 @@
 # Soukihei MD Geist
 
+![soukihei-md-geist](https://cdn.myanimelist.net/images/anime/4/21433.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 装鬼兵ＭＤガイスト

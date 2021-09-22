@@ -1,5 +1,7 @@
 # Shadowverse: Arisa Duelverse
 
+![shadowverse-arisa-duelverse](https://cdn.myanimelist.net/images/manga/3/199953.jpg)
+
 -   **type**: manga
 -   **original-name**: SHADOWVERSE ありさデュエルバース
 -   **start-date**: 2016-06-02

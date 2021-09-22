@@ -1,5 +1,7 @@
 # Soul Catcher(S)
 
+![soul-catcher-s](https://cdn.myanimelist.net/images/manga/2/156895.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 90

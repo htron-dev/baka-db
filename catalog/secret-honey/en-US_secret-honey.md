@@ -1,5 +1,7 @@
 # Secret Honey
 
+![secret-honey](https://cdn.myanimelist.net/images/manga/3/162623.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 19

@@ -1,5 +1,7 @@
 # Sai Kadoruto
 
+![sai-kadoruto](https://cdn.myanimelist.net/images/manga/3/21245.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Sakurasaku Hyakkaryou
 
+![sakurasaku-hyakkaryou](https://cdn.myanimelist.net/images/manga/1/17621.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Slow Jet Coaster
 
+![slow-jet-coaster](https://cdn.myanimelist.net/images/manga/3/247862.jpg)
+
 -   **type**: manga
 -   **original-name**: スロー・ジェットコースター
 -   **start-date**: 2021-02-24

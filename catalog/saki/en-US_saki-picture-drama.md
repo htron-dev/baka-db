@@ -1,5 +1,7 @@
 # Saki Picture Drama
 
+![saki-picture-drama](https://cdn.myanimelist.net/images/anime/2/18976.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: 咲-Saki- ピクチャードラマ

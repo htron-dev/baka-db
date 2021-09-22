@@ -1,5 +1,7 @@
 # Sengoku Basara Ni
 
+![sengoku-basara-ni](https://cdn.myanimelist.net/images/anime/6/80999.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 戦国 BASARA 弐

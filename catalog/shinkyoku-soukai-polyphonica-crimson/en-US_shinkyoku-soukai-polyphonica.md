@@ -1,5 +1,7 @@
 # Shinkyoku Soukai Polyphonica
 
+![shinkyoku-soukai-polyphonica](https://cdn.myanimelist.net/images/anime/1610/95574.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 神曲奏界ポリフォニカ

@@ -1,5 +1,7 @@
 # Skill Tracer
 
+![skill-tracer](https://cdn.myanimelist.net/images/manga/1/180597.jpg)
+
 -   **type**: light-novel
 -   **original-name**: スキルトレーサー
 -   **start-date**: 2016-07-30

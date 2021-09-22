@@ -1,5 +1,7 @@
 # Sennin Buraku
 
+![sennin-buraku](https://cdn.myanimelist.net/images/anime/2/78110.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 23
 -   **original-name**: 仙人部落

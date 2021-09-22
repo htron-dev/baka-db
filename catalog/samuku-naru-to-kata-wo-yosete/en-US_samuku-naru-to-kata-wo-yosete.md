@@ -1,5 +1,7 @@
 # Samuku naru to Kata wo Yosete
 
+![samuku-naru-to-kata-wo-yosete](https://cdn.myanimelist.net/images/manga/1/160111.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

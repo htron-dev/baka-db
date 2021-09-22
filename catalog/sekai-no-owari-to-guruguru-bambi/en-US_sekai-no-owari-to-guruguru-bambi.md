@@ -1,5 +1,7 @@
 # Sekai no Owari to Guruguru Bambi
 
+![sekai-no-owari-to-guruguru-bambi](https://cdn.myanimelist.net/images/manga/3/197602.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

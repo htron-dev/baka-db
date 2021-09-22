@@ -1,5 +1,7 @@
 # Say Say Say
 
+![say-say-say](https://cdn.myanimelist.net/images/manga/3/18787.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **chapters**: 44

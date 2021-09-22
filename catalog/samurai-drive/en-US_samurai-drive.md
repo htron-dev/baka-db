@@ -1,5 +1,7 @@
 # Samurai Drive
 
+![samurai-drive](https://cdn.myanimelist.net/images/manga/1/36031.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 35

@@ -1,5 +1,7 @@
 # Strange+ Special
 
+![strange-special](https://cdn.myanimelist.net/images/anime/2/62059.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ストレンジ・プラス

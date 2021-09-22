@@ -1,5 +1,7 @@
 # Shingakkou: Noli me Tangere
 
+![shingakkou-noli-me-tangere](https://cdn.myanimelist.net/images/manga/2/90195.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

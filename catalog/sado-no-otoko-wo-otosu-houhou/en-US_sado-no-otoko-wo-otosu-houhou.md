@@ -1,5 +1,7 @@
 # Sado no Otoko wo Otosu Houhou
 
+![sado-no-otoko-wo-otosu-houhou](https://cdn.myanimelist.net/images/manga/2/208804.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

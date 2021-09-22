@@ -1,5 +1,7 @@
 # Mini Sengoku Basara Two: Tsukiyo no Katakura-kun
 
+![mini-sengoku-basara-two-tsukiyo-no-katakura-kun](https://cdn.myanimelist.net/images/anime/6/26667.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: ミニ戦国 BASARA 弐　月夜の片倉くん

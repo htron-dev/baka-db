@@ -1,5 +1,7 @@
 # Saint Seiya: Origin
 
+![saint-seiya-origin](https://cdn.myanimelist.net/images/manga/2/241631.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 聖闘士星矢 ORIGIN

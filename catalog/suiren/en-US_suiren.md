@@ -1,5 +1,7 @@
 # Suiren
 
+![suiren](https://cdn.myanimelist.net/images/manga/2/41109.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

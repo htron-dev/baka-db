@@ -1,5 +1,7 @@
 # Saishin no Mahoutsukai to AI wo Shirumono
 
+![saishin-no-mahoutsukai-to-ai-wo-shirumono](https://cdn.myanimelist.net/images/manga/1/158449.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

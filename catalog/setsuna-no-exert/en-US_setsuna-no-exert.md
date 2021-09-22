@@ -1,5 +1,7 @@
 # Setsuna no Exert
 
+![setsuna-no-exert](https://cdn.myanimelist.net/images/manga/3/158860.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 23

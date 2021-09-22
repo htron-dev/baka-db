@@ -1,5 +1,7 @@
 # Shin Hakkenden
 
+![shin-hakkenden](https://cdn.myanimelist.net/images/anime/10/49801.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 神八剣伝

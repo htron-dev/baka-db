@@ -1,5 +1,7 @@
 # Shingeki no Kyojin in the Dome: Heishi-tachi no Hoshizora
 
+![shingeki-no-kyojin-in-the-dome-heishi-tachi-no-hoshizora](https://cdn.myanimelist.net/images/anime/1893/99639.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 進撃の巨人 IN THE DOME -兵士たちの星空-

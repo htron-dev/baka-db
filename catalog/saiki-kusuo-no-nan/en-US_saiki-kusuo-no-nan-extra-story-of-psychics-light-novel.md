@@ -1,5 +1,7 @@
 # Saiki Kusuo no Ψ-nan: Extra Story of Psychics
 
+![saiki-kusuo-no-ψ-nan-extra-story-of-psychics](https://cdn.myanimelist.net/images/manga/1/219847.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 9

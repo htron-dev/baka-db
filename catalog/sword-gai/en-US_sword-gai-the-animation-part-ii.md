@@ -1,5 +1,7 @@
 # Sword Gai The Animation Part II
 
+![sword-gai-the-animation-part-ii](https://cdn.myanimelist.net/images/anime/1805/91647.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: ソードガイ The Animation Part II

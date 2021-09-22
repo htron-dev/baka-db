@@ -1,5 +1,7 @@
 # Shichiyou Jinkaku Shoukougun
 
+![shichiyou-jinkaku-shoukougun](https://cdn.myanimelist.net/images/manga/1/243194.jpg)
+
 -   **type**: manga
 -   **original-name**: 七曜人格症候群
 -   **start-date**: 2020-07-03

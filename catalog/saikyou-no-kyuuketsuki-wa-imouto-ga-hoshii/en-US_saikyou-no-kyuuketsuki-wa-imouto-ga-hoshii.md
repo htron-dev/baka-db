@@ -1,5 +1,7 @@
 # Saikyou no Kyuuketsuki wa Imouto ga Hoshii!
 
+![saikyou-no-kyuuketsuki-wa-imouto-ga-hoshii](https://cdn.myanimelist.net/images/manga/2/237510.jpg)
+
 -   **type**: manga
 -   **original-name**: 最強の吸血姫は妹が欲しいっ！
 -   **start-date**: 2019-02-25

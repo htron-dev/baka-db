@@ -1,5 +1,7 @@
 # Strange+
 
+![strange](https://cdn.myanimelist.net/images/manga/3/104569.jpg)
+
 -   **type**: manga
 -   **original-name**: STRANGE+
 -   **start-date**: 2002-03-28

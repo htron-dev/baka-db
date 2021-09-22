@@ -1,5 +1,7 @@
 # Shitsuji wa Daitanfuteki ni Uso wo Tsuku
 
+![shitsuji-wa-daitanfuteki-ni-uso-wo-tsuku](https://cdn.myanimelist.net/images/manga/1/31316.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 執事は大胆不敵に嘘をつく

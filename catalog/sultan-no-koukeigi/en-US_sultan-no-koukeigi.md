@@ -1,5 +1,7 @@
 # Sultan no Koukeigi
 
+![sultan-no-koukeigi](https://cdn.myanimelist.net/images/manga/1/44621.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

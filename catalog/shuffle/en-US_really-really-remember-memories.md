@@ -1,5 +1,7 @@
 # Really? Really! Remember Memories
 
+![really-really-remember-memories](https://cdn.myanimelist.net/images/manga/2/138943.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

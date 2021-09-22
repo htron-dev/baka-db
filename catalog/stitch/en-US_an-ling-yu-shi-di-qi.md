@@ -1,5 +1,7 @@
 # An Ling Yu Shi Di Qi
 
+![an-ling-yu-shi-di-qi](https://cdn.myanimelist.net/images/anime/1524/91642.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 安玲与史迪奇

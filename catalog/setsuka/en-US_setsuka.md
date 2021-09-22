@@ -1,5 +1,7 @@
 # Setsuka
 
+![setsuka](https://cdn.myanimelist.net/images/manga/2/28508.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

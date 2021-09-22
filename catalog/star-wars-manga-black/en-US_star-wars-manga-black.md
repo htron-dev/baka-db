@@ -1,5 +1,7 @@
 # Star Wars Manga Black
 
+![star-wars-manga-black](https://cdn.myanimelist.net/images/manga/2/33493.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

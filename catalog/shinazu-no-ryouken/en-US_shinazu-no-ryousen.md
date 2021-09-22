@@ -1,5 +1,7 @@
 # Shinazu no Ryousen
 
+![shinazu-no-ryousen](https://cdn.myanimelist.net/images/manga/3/215844.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

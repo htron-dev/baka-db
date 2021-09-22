@@ -1,5 +1,7 @@
 # Seinen to Yajuu
 
+![seinen-to-yajuu](https://cdn.myanimelist.net/images/manga/2/240014.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

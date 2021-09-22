@@ -1,5 +1,7 @@
 # Shieno Final
 
+![shieno-final](https://cdn.myanimelist.net/images/manga/3/57449.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

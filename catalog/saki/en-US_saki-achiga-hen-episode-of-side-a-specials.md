@@ -1,5 +1,7 @@
 # Saki Achiga-hen: Episode of Side-A Specials
 
+![saki-achiga-hen-episode-of-side-a-specials](https://cdn.myanimelist.net/images/anime/8/45084.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: 咲-Saki-阿知賀編 episode of side-A スペシャルエピソード 13 話～ 16 話

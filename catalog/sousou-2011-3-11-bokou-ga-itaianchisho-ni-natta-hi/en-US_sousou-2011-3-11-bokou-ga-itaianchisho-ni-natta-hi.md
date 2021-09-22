@@ -1,5 +1,7 @@
 # Sousou: 2011.3.11 Bokou ga Itaianchisho ni Natta Hi
 
+![sousou-2011-3-11-bokou-ga-itaianchisho-ni-natta-hi](https://cdn.myanimelist.net/images/manga/3/178760.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

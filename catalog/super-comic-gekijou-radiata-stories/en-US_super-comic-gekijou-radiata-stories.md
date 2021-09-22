@@ -1,5 +1,7 @@
 # Super Comic Gekijou: Radiata Stories
 
+![super-comic-gekijou-radiata-stories](https://cdn.myanimelist.net/images/manga/3/151607.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: スーパーコミック劇場 ラジアータ ストーリーズ

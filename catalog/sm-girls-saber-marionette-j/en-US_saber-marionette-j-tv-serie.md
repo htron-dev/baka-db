@@ -1,5 +1,7 @@
 # Saber Marionette J
 
+![saber-marionette-j](https://cdn.myanimelist.net/images/anime/1754/97053.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: セイバーマリオネット J

@@ -1,5 +1,7 @@
 # Sex: Prologue
 
+![sex-prologue](https://cdn.myanimelist.net/images/anime/1499/94818.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: SEX ～ Prologue ～

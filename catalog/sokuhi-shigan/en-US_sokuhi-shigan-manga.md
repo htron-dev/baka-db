@@ -1,5 +1,7 @@
 # Sokuhi Shigan!
 
+![sokuhi-shigan](https://cdn.myanimelist.net/images/manga/3/210962.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

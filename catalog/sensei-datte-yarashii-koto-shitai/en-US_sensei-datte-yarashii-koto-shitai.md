@@ -1,5 +1,7 @@
 # Sensei datte Yarashii Koto shitai
 
+![sensei-datte-yarashii-koto-shitai](https://cdn.myanimelist.net/images/manga/2/246277.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

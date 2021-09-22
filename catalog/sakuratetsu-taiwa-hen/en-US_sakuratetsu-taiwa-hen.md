@@ -1,5 +1,7 @@
 # Sakuratetsu Taiwa-hen
 
+![sakuratetsu-taiwa-hen](https://cdn.myanimelist.net/images/manga/2/152585.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

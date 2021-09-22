@@ -1,5 +1,7 @@
 # Sweet Revenge
 
+![sweet-revenge](https://cdn.myanimelist.net/images/manga/3/11977.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: スイート・リベンジ

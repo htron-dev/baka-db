@@ -1,5 +1,7 @@
 # Sex Drunker
 
+![sex-drunker](https://cdn.myanimelist.net/images/manga/2/11151.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: SEX ドランカー

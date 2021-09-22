@@ -1,5 +1,7 @@
 # Soredemo Koisuru Meitantei
 
+![soredemo-koisuru-meitantei](https://cdn.myanimelist.net/images/manga/3/229015.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

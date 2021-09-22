@@ -1,5 +1,7 @@
 # Shounen Dolls
 
+![shounen-dolls](https://cdn.myanimelist.net/images/manga/1/20982.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

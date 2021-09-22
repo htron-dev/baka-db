@@ -1,5 +1,7 @@
 # Shiniden
 
+![shiniden](https://cdn.myanimelist.net/images/manga/2/2737.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 

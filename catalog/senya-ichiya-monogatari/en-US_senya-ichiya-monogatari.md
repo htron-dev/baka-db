@@ -1,5 +1,7 @@
 # Senya Ichiya Monogatari
 
+![senya-ichiya-monogatari](https://cdn.myanimelist.net/images/anime/4/39379.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 千夜一夜物語

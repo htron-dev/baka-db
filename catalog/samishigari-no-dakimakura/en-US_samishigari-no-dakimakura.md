@@ -1,5 +1,7 @@
 # Samishigari no Dakimakura
 
+![samishigari-no-dakimakura](https://cdn.myanimelist.net/images/manga/3/226217.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

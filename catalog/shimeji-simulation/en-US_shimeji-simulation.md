@@ -1,5 +1,7 @@
 # Shimeji Simulation
 
+![shimeji-simulation](https://cdn.myanimelist.net/images/manga/2/227584.jpg)
+
 -   **type**: manga
 -   **original-name**: シメジ シミュレーション
 -   **start-date**: 2019-01-26

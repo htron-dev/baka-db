@@ -1,5 +1,7 @@
 # Suteki na Kegawa ga Nakute mo
 
+![suteki-na-kegawa-ga-nakute-mo](https://cdn.myanimelist.net/images/manga/2/10777.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

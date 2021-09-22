@@ -1,5 +1,7 @@
 # Shikkakumon no Saikyou Kenja: Sekai Saikyou no Kenja ga Sarani Tsuyokunaru Tame ni Tensei Shimashita
 
+![shikkakumon-no-saikyou-kenja-sekai-saikyou-no-kenja-ga-sarani-tsuyokunaru-tame-ni-tensei-shimashita](https://cdn.myanimelist.net/images/manga/1/204333.jpg)
+
 -   **type**: manga
 -   **original-name**: 失格紋の最強賢者～世界最強の賢者が更に強くなるために転生しました～
 -   **start-date**: 2017-06-27

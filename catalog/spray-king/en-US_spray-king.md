@@ -1,5 +1,7 @@
 # Spray King
 
+![spray-king](https://cdn.myanimelist.net/images/manga/3/170363.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 15

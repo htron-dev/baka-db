@@ -1,5 +1,7 @@
 # Hanayome to Exorcist
 
+![hanayome-to-exorcist](https://cdn.myanimelist.net/images/manga/3/173691.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

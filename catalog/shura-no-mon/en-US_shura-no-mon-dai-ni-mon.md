@@ -1,5 +1,7 @@
 # Shura no Mon: Dai Ni Mon
 
+![shura-no-mon-dai-ni-mon](https://cdn.myanimelist.net/images/manga/2/157719.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 53

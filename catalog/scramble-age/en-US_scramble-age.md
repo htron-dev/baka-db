@@ -1,5 +1,7 @@
 # Scramble Age
 
+![scramble-age](https://cdn.myanimelist.net/images/manga/3/153379.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: すくらんぶるエイジ

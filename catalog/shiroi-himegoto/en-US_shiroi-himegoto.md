@@ -1,5 +1,7 @@
 # Shiroi Himegoto
 
+![shiroi-himegoto](https://cdn.myanimelist.net/images/manga/1/32583.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 白い秘めごと

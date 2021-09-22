@@ -1,5 +1,7 @@
 # Silver Arrow ・ Night Eyes War
 
+![silver-arrow-・-night-eyes-war](https://cdn.myanimelist.net/images/manga/5/175800.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: シルバーアロー・ナイト・アイズ戦線

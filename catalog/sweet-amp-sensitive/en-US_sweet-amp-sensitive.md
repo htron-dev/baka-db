@@ -1,5 +1,7 @@
 # Sweet &amp; Sensitive
 
+![sweet-amp-sensitive](https://cdn.myanimelist.net/images/manga/2/95397.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 18
 -   **chapters**: 44

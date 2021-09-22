@@ -1,5 +1,7 @@
 # Sirius to Mayu
 
+![sirius-to-mayu](https://cdn.myanimelist.net/images/manga/3/225428.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

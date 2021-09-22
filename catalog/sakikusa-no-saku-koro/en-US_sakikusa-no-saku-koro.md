@@ -1,5 +1,7 @@
 # Sakikusa no Saku Koro
 
+![sakikusa-no-saku-koro](https://cdn.myanimelist.net/images/manga/2/133731.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

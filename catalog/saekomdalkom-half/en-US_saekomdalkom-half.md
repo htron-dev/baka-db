@@ -1,5 +1,7 @@
 # Saekomdalkom Half
 
+![saekomdalkom-half](https://cdn.myanimelist.net/images/manga/2/25287.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 새콤달콤반쪽

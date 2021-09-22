@@ -1,5 +1,7 @@
 # She's Kids
 
+![shes-kids](https://cdn.myanimelist.net/images/manga/1/11327.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 

@@ -1,5 +1,7 @@
 # Slime Tensei.: Daikenja ga Youjo Elf ni Dakishimeraretemasu
 
+![slime-tensei-daikenja-ga-youjo-elf-ni-dakishimeraretemasu](https://cdn.myanimelist.net/images/manga/3/228391.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 35

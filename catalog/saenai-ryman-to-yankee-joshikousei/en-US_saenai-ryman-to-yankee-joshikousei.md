@@ -1,5 +1,7 @@
 # Saenai Ryman to Yankee Joshikousei
 
+![saenai-ryman-to-yankee-joshikousei](https://cdn.myanimelist.net/images/manga/2/215418.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 冴えないリーマンとヤンキー女子高生

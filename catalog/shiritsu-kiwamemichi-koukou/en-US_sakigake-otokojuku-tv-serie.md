@@ -1,5 +1,7 @@
 # Sakigake!! Otokojuku
 
+![sakigake-otokojuku](https://cdn.myanimelist.net/images/anime/12/60397.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 34
 -   **original-name**: 魁!!男塾

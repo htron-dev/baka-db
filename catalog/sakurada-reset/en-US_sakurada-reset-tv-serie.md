@@ -1,5 +1,7 @@
 # Sakurada Reset
 
+![sakurada-reset](https://cdn.myanimelist.net/images/anime/5/87743.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: サクラダリセット

@@ -1,5 +1,7 @@
 # Sayonara Piano Sonata: Encore Pieces
 
+![sayonara-piano-sonata-encore-pieces](https://cdn.myanimelist.net/images/manga/2/147069.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

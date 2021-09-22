@@ -1,5 +1,7 @@
 # Sasagerareta Yoru no Otome
 
+![sasagerareta-yoru-no-otome](https://cdn.myanimelist.net/images/manga/1/136443.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ささげられた夜の乙女

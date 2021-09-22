@@ -1,5 +1,7 @@
 # Strawberry Kiss
 
+![strawberry-kiss](https://cdn.myanimelist.net/images/manga/5/15530.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

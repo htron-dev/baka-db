@@ -1,5 +1,7 @@
 # Saguri-chan Tankentai
 
+![saguri-chan-tankentai](https://cdn.myanimelist.net/images/manga/1/206298.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 38

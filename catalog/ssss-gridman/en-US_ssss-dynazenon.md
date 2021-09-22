@@ -1,5 +1,7 @@
 # SSSS.Dynazenon
 
+![ssss-dynazenon](https://cdn.myanimelist.net/images/anime/1880/113766.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: SSSS.DYNAZENON

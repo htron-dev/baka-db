@@ -1,5 +1,7 @@
 # Sakitama
 
+![sakitama](https://cdn.myanimelist.net/images/manga/3/209194.jpg)
+
 -   **type**: manga
 -   **original-name**: さきたま
 -   **start-date**: 2015-10-13

@@ -1,5 +1,7 @@
 # Sono Vampir wa Tadashikunai Yume wo Miru
 
+![sono-vampir-wa-tadashikunai-yume-wo-miru](https://cdn.myanimelist.net/images/manga/2/150566.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

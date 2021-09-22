@@ -1,5 +1,7 @@
 # Sword Art Online: Progressive - Ougonritsu no Canon
 
+![sword-art-online-progressive-ougonritsu-no-canon](https://cdn.myanimelist.net/images/manga/1/243765.jpg)
+
 -   **type**: manga
 -   **original-name**: ソードアート・オンライン プログレッシブ 黄金律のカノン
 -   **start-date**: 2021-03-30

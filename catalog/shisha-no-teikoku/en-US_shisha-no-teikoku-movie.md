@@ -1,5 +1,7 @@
 # Shisha no Teikoku
 
+![shisha-no-teikoku](https://cdn.myanimelist.net/images/anime/4/75468.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 屍者の帝国

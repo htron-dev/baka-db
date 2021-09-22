@@ -1,5 +1,7 @@
 # Satsubatsu Share Life
 
+![satsubatsu-share-life](https://cdn.myanimelist.net/images/manga/3/181339.jpg)
+
 -   **type**: manga
 -   **original-name**: 殺伐シェアライフ
 -   **start-date**: 2015-11-27

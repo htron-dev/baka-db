@@ -1,5 +1,7 @@
 # Seikai no Monshou Special
 
+![seikai-no-monshou-special](https://cdn.myanimelist.net/images/anime/9/2753.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 星界の紋章 総集編

@@ -1,5 +1,7 @@
 # Saruyama!
 
+![saruyama](https://cdn.myanimelist.net/images/manga/2/171479.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 33

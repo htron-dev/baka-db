@@ -1,5 +1,7 @@
 # Sensei to Naisho
 
+![sensei-to-naisho](https://cdn.myanimelist.net/images/manga/1/33883.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

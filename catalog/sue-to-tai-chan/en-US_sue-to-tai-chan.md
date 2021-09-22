@@ -1,5 +1,7 @@
 # Sue to Tai-chan
 
+![sue-to-tai-chan](https://cdn.myanimelist.net/images/manga/3/226286.jpg)
+
 -   **type**: manga
 -   **original-name**: スーと鯛ちゃん
 -   **start-date**: 2017-01-14

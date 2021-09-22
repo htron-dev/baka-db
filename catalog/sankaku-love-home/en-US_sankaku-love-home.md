@@ -1,5 +1,7 @@
 # Sankaku Love Home
 
+![sankaku-love-home](https://cdn.myanimelist.net/images/manga/1/168029.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Swan Lake
 
+![swan-lake](https://cdn.myanimelist.net/images/manga/3/11024.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

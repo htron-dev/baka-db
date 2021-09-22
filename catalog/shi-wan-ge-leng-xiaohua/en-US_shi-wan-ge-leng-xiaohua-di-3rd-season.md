@@ -1,5 +1,7 @@
 # Shi Wan Ge Leng Xiaohua Di 3rd Season
 
+![shi-wan-ge-leng-xiaohua-di-3rd-season](https://cdn.myanimelist.net/images/anime/13/79767.jpg)
+
 -   **type**: ona
 -   **episodes**: 49
 -   **original-name**: 十万个冷笑话第 3 季

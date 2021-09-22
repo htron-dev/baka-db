@@ -1,5 +1,7 @@
 # Shitsuji Kyoushi no Renai Jugyou
 
+![shitsuji-kyoushi-no-renai-jugyou](https://cdn.myanimelist.net/images/manga/1/10510.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

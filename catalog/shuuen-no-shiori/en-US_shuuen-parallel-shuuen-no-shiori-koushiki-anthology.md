@@ -1,5 +1,7 @@
 # Shuuen:Parallel - Shuuen no Shiori Koushiki Anthology
 
+![shuuen-parallel-shuuen-no-shiori-koushiki-anthology](https://cdn.myanimelist.net/images/manga/3/143399.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 終焉:Parallel 終焉ノ栞公式アンソロジー

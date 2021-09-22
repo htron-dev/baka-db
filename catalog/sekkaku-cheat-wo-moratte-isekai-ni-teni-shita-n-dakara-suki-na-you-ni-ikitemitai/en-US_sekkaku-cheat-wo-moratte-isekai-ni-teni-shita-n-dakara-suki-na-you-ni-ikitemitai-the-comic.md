@@ -1,5 +1,7 @@
 # Sekkaku Cheat wo Moratte Isekai ni Teni shita n dakara, Suki na You ni Ikitemitai the Comic
 
+![sekkaku-cheat-wo-moratte-isekai-ni-teni-shita-n-dakara-suki-na-you-ni-ikitemitai-the-comic](https://cdn.myanimelist.net/images/manga/1/215412.jpg)
+
 -   **type**: manga
 -   **original-name**: せっかくチートを貰って異世界に転移したんだから、好きなように生きてみたい THE COMIC
 -   **start-date**: 2018-03-01

@@ -1,5 +1,7 @@
 # Shirosugi! Aku no Soshiki
 
+![shirosugi-aku-no-soshiki](https://cdn.myanimelist.net/images/manga/2/248335.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: しろすぎ!アクノソシキ

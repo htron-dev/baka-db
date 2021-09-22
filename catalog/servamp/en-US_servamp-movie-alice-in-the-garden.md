@@ -1,5 +1,7 @@
 # Servamp Movie: Alice in the Garden
 
+![servamp-movie-alice-in-the-garden](https://cdn.myanimelist.net/images/anime/5/89004.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 SERVAMP -Alice in the Garden-

@@ -1,5 +1,7 @@
 # Sword Art Online: Alicization - War of Underworld
 
+![sword-art-online-alicization-war-of-underworld](https://cdn.myanimelist.net/images/anime/1630/103417.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ソードアート・オンライン アリシゼーション War of Underworld

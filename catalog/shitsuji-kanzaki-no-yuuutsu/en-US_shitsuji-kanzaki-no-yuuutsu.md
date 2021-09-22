@@ -1,5 +1,7 @@
 # Shitsuji Kanzaki no Yuuutsu
 
+![shitsuji-kanzaki-no-yuuutsu](https://cdn.myanimelist.net/images/manga/2/200433.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

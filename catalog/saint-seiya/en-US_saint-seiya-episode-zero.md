@@ -1,5 +1,7 @@
 # Saint Seiya: Episode Zero
 
+![saint-seiya-episode-zero](https://cdn.myanimelist.net/images/manga/1/204687.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 聖闘士星矢 EPISODE ZERO

@@ -1,5 +1,7 @@
 # Shen Bi Ma Liang
 
+![shen-bi-ma-liang](https://cdn.myanimelist.net/images/anime/1525/115612.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 神笔马良

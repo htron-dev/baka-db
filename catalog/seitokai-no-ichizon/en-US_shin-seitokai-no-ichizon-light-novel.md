@@ -1,5 +1,7 @@
 # Shin Seitokai no Ichizon
 
+![shin-seitokai-no-ichizon](https://cdn.myanimelist.net/images/manga/1/226542.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 8

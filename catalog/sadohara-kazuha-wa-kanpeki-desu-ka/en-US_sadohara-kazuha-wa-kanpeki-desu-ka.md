@@ -1,5 +1,7 @@
 # Sadohara Kazuha wa Kanpeki desu ka?
 
+![sadohara-kazuha-wa-kanpeki-desu-ka](https://cdn.myanimelist.net/images/manga/3/210567.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

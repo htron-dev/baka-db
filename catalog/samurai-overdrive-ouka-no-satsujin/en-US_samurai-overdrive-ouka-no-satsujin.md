@@ -1,5 +1,7 @@
 # Samurai Overdrive: Ouka no Satsujin
 
+![samurai-overdrive-ouka-no-satsujin](https://cdn.myanimelist.net/images/manga/2/189721.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: サムライ・オーヴァドライブ ―桜花の殺陣―

@@ -1,5 +1,7 @@
 # Shi Wan Ge Leng Xiaohua
 
+![shi-wan-ge-leng-xiaohua](https://cdn.myanimelist.net/images/anime/5/79764.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 十万个冷笑话第一季

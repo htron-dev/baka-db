@@ -1,5 +1,7 @@
 # Seigakuin Kouka Daigaku Yakanbu
 
+![seigakuin-kouka-daigaku-yakanbu](https://cdn.myanimelist.net/images/manga/1/151667.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 星学院工科大学 夜間部

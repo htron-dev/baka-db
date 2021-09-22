@@ -1,5 +1,7 @@
 # Soubi Seisaku-kei Cheat de Isekai wo Jiyuu ni Ikiteikimasu
 
+![soubi-seisaku-kei-cheat-de-isekai-wo-jiyuu-ni-ikiteikimasu](https://cdn.myanimelist.net/images/manga/3/238110.jpg)
+
 -   **type**: manga
 -   **original-name**: 装備製作系チートで異世界を自由に生きていきます
 -   **start-date**: 2019-08-06

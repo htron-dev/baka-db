@@ -1,5 +1,7 @@
 # S-senjou no Tena
 
+![s-senjou-no-tena](https://cdn.myanimelist.net/images/manga/3/63641.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 44

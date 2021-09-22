@@ -1,5 +1,7 @@
 # Shokugeki no Souma: Gou no Sara
 
+![shokugeki-no-souma-gou-no-sara](https://cdn.myanimelist.net/images/anime/1756/108000.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 食戟のソーマ 豪ノ皿

@@ -1,5 +1,7 @@
 # Shishunki no Futari
 
+![shishunki-no-futari](https://cdn.myanimelist.net/images/manga/2/146857.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 35

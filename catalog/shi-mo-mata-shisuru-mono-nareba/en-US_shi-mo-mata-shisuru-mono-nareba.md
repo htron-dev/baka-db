@@ -1,5 +1,7 @@
 # Shi mo Mata Shisuru Mono Nareba
 
+![shi-mo-mata-shisuru-mono-nareba](https://cdn.myanimelist.net/images/manga/1/232865.jpg)
+
 -   **type**: manga
 -   **original-name**: 死もまた死するものなれば
 -   **start-date**: 2018-11-09

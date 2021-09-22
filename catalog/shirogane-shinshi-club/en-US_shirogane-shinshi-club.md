@@ -1,5 +1,7 @@
 # Shirogane Shinshi Club
 
+![shirogane-shinshi-club](https://cdn.myanimelist.net/images/manga/1/232331.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

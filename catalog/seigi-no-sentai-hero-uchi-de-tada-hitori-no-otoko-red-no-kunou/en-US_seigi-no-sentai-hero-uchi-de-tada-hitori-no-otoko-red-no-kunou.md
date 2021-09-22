@@ -1,5 +1,7 @@
 # Seigi no Sentai Hero Uchi de Tada Hitori no Otoko, Red no Kunou
 
+![seigi-no-sentai-hero-uchi-de-tada-hitori-no-otoko-red-no-kunou](https://cdn.myanimelist.net/images/manga/2/179127.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Shinmai Maou no Testament
 
+![shinmai-maou-no-testament](https://cdn.myanimelist.net/images/manga/1/105683.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 46

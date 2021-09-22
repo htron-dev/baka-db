@@ -1,5 +1,7 @@
 # School Days: Magical Heart Kokoro-chan
 
+![school-days-magical-heart-kokoro-chan](https://cdn.myanimelist.net/images/anime/7/23037.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: School Days ～マジカルハート ☆ こころちゃん～

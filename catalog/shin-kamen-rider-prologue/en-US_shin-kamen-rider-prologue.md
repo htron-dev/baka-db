@@ -1,5 +1,7 @@
 # Shin: Kamen Rider Prologue
 
+![shin-kamen-rider-prologue](https://cdn.myanimelist.net/images/manga/2/17540.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

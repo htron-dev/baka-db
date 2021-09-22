@@ -1,5 +1,7 @@
 # Seitokaichou desu ga Josou Hajimemashita
 
+![seitokaichou-desu-ga-josou-hajimemashita](https://cdn.myanimelist.net/images/manga/1/207466.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 19

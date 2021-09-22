@@ -1,5 +1,7 @@
 # Suteneko no Karte
 
+![suteneko-no-karte](https://cdn.myanimelist.net/images/manga/2/23446.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

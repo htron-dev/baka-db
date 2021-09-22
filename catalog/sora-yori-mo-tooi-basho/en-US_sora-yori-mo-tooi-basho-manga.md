@@ -1,5 +1,7 @@
 # Sora yori mo Tooi Basho
 
+![sora-yori-mo-tooi-basho](https://cdn.myanimelist.net/images/manga/2/207027.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Shikan Kouhosei Hydt
 
+![shikan-kouhosei-hydt](https://cdn.myanimelist.net/images/manga/3/131941.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

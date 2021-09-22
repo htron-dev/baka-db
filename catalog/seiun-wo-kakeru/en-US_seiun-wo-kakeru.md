@@ -1,5 +1,7 @@
 # Seiun wo Kakeru
 
+![seiun-wo-kakeru](https://cdn.myanimelist.net/images/manga/3/199710.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 青雲を駆ける
 -   **start-date**: 2014-11-29

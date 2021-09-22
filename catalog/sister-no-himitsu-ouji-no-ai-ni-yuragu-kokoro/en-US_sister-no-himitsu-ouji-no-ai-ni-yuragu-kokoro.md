@@ -1,5 +1,7 @@
 # Sister no Himitsu: Ouji no Ai ni Yuragu Kokoro
 
+![sister-no-himitsu-ouji-no-ai-ni-yuragu-kokoro](https://cdn.myanimelist.net/images/manga/2/191521.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

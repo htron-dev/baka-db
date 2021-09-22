@@ -1,5 +1,7 @@
 # Seiken Densetsu: Princess of Mana
 
+![seiken-densetsu-princess-of-mana](https://cdn.myanimelist.net/images/manga/3/115209.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 聖剣伝説 PRINCESS of MANA

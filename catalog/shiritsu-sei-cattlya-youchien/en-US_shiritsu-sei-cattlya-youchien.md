@@ -1,5 +1,7 @@
 # Shiritsu Sei Cattlya Youchien
 
+![shiritsu-sei-cattlya-youchien](https://cdn.myanimelist.net/images/manga/3/32921.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 私立聖カトレア幼稚園

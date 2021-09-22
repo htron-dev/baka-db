@@ -1,5 +1,7 @@
 # Sewayaki Kitsune no Senko-san
 
+![sewayaki-kitsune-no-senko-san](https://cdn.myanimelist.net/images/anime/1814/99677.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 世話やきキツネの仙狐さん

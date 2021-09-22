@@ -1,5 +1,7 @@
 # Sengoku Saga: Fuuma Fuujin Den
 
+![sengoku-saga-fuuma-fuujin-den](https://cdn.myanimelist.net/images/manga/2/152372.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 27

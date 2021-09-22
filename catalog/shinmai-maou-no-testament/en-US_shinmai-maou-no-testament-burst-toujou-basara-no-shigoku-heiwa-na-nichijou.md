@@ -1,5 +1,7 @@
 # Shinmai Maou no Testament Burst: Toujou Basara no Shigoku Heiwa na Nichijou
 
+![shinmai-maou-no-testament-burst-toujou-basara-no-shigoku-heiwa-na-nichijou](https://cdn.myanimelist.net/images/anime/1568/95614.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 新妹魔王の契約者 BURST 第 11 話「東城刃更の至極平和な日常」

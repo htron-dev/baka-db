@@ -1,5 +1,7 @@
 # Senpai ga Uzai Kouhai no Hanashi
 
+![senpai-ga-uzai-kouhai-no-hanashi](https://cdn.myanimelist.net/images/manga/3/211530.jpg)
+
 -   **type**: manga
 -   **original-name**: 先輩がうざい後輩の話
 -   **start-date**: 2018-03-28

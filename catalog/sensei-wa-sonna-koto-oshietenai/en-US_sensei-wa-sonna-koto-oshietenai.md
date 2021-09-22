@@ -1,5 +1,7 @@
 # Sensei wa Sonna Koto Oshietenai!
 
+![sensei-wa-sonna-koto-oshietenai](https://cdn.myanimelist.net/images/manga/1/233429.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

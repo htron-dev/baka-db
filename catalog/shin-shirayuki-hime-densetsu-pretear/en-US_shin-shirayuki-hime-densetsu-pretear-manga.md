@@ -1,5 +1,7 @@
 # Shin Shirayuki-hime Densetsu Pretear
 
+![shin-shirayuki-hime-densetsu-pretear](https://cdn.myanimelist.net/images/manga/3/5198.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

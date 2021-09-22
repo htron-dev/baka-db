@@ -1,5 +1,7 @@
 # Shinobi no Otsutome
 
+![shinobi-no-otsutome](https://cdn.myanimelist.net/images/manga/2/90609.jpg)
+
 -   **type**: manga
 -   **original-name**: 忍びのオツトメ
 -   **start-date**: 2012-08-20

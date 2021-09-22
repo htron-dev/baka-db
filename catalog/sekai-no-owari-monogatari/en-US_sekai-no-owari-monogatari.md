@@ -1,5 +1,7 @@
 # Sekai no Owari Monogatari
 
+![sekai-no-owari-monogatari](https://cdn.myanimelist.net/images/manga/2/153545.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: SEKAI NO OWARI 物語

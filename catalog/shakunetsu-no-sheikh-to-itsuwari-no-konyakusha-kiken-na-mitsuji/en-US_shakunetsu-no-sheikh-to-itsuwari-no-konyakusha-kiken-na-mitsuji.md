@@ -1,5 +1,7 @@
 # Shakunetsu no Sheikh to Itsuwari no Konyakusha: Kiken na Mitsuji
 
+![shakunetsu-no-sheikh-to-itsuwari-no-konyakusha-kiken-na-mitsuji](https://cdn.myanimelist.net/images/manga/1/196284.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

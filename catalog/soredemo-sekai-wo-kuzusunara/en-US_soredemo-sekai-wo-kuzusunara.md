@@ -1,5 +1,7 @@
 # Soredemo Sekai wo Kuzusunara
 
+![soredemo-sekai-wo-kuzusunara](https://cdn.myanimelist.net/images/manga/1/163540.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 19

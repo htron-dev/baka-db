@@ -1,5 +1,7 @@
 # Schoolgirl Strikers: Animation Channel
 
+![schoolgirl-strikers-animation-channel](https://cdn.myanimelist.net/images/anime/4/82560.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: スクールガールストライカーズ Animation Channel

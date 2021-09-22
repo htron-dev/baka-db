@@ -1,5 +1,7 @@
 # Satsuki Complex
 
+![satsuki-complex](https://cdn.myanimelist.net/images/manga/1/124805.jpg)
+
 -   **type**: manga
 -   **original-name**: さつきコンプレックス
 -   **start-date**: 2011-04-09

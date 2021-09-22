@@ -1,5 +1,7 @@
 # Sabbatini-ke no Renai Jijou
 
+![sabbatini-ke-no-renai-jijou](https://cdn.myanimelist.net/images/manga/2/227762.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: サバティーニ家の恋愛事情

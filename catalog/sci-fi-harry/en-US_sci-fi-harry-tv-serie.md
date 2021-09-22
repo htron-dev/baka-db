@@ -1,5 +1,7 @@
 # Sci-fi Harry
 
+![sci-fi-harry](https://cdn.myanimelist.net/images/anime/9/57605.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 20
 -   **original-name**: サイファイハリー

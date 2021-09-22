@@ -1,5 +1,7 @@
 # Service &amp; Butler
 
+![service-amp-butler](https://cdn.myanimelist.net/images/manga/3/121277.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: サービス&バトラー

@@ -1,5 +1,7 @@
 # Succubus Gakuen no Inu!!
 
+![succubus-gakuen-no-inu](https://cdn.myanimelist.net/images/manga/3/226576.jpg)
+
 -   **type**: manga
 -   **original-name**: サキュバス学園の犬ッ!!
 -   **start-date**: 2018-10-25

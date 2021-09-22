@@ -1,5 +1,7 @@
 # Seiken Densetsu: Legend of Mana - The Teardrop Crystal
 
+![seiken-densetsu-legend-of-mana-the-teardrop-crystal](https://cdn.myanimelist.net/images/anime/1996/116114.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 聖剣伝説 Legend of Mana -The Teardrop Crystal-
 -   **rating**: None

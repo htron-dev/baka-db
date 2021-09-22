@@ -1,5 +1,7 @@
 # Seto no Hanayome OVA
 
+![seto-no-hanayome-ova](https://cdn.myanimelist.net/images/anime/6/22426.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 瀬戸の花嫁 OVA

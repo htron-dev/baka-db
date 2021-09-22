@@ -1,5 +1,7 @@
 # Shinigami Bocchan to Kuro Maid
 
+![shinigami-bocchan-to-kuro-maid](https://cdn.myanimelist.net/images/manga/2/205563.jpg)
+
 -   **type**: manga
 -   **original-name**: 死神坊ちゃんと黒メイド
 -   **start-date**: 2017-10-03

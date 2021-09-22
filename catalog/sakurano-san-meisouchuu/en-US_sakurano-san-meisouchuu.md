@@ -1,5 +1,7 @@
 # Sakurano-san Meisouchuu!
 
+![sakurano-san-meisouchuu](https://cdn.myanimelist.net/images/manga/1/95205.jpg)
+
 -   **type**: manga
 -   **original-name**: 桜乃さん迷走中！
 -   **start-date**: 2011-03-20

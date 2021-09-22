@@ -1,5 +1,7 @@
 # Souten Kouro
 
+![souten-kouro](https://cdn.myanimelist.net/images/manga/2/180038.jpg)
+
 -   **type**: manga
 -   **volumes**: 36
 -   **chapters**: 409

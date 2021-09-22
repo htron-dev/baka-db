@@ -1,5 +1,7 @@
 # Shikioriori
 
+![shikioriori](https://cdn.myanimelist.net/images/anime/1529/93093.jpg)
+
 -   **type**: movie
 -   **episodes**: 3
 -   **original-name**: 詩季織々（しきおりおり）

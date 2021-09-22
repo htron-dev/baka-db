@@ -1,5 +1,7 @@
 # Sabageppanashi
 
+![sabageppanashi](https://cdn.myanimelist.net/images/manga/1/236838.jpg)
+
 -   **type**: manga
 -   **original-name**: サバゲっぱなし
 -   **start-date**: 2016-09-17

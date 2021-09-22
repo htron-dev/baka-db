@@ -1,5 +1,7 @@
 # Sky Girls OVA
 
+![sky-girls-ova](https://cdn.myanimelist.net/images/anime/2/78405.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: スカイガールズ

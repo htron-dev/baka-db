@@ -1,5 +1,7 @@
 # Samurai Blood
 
+![samurai-blood](https://cdn.myanimelist.net/images/manga/3/123683.jpg)
+
 -   **type**: light-novel
 -   **original-name**: サムライブラッド
 -   **start-date**: 2012-07-30

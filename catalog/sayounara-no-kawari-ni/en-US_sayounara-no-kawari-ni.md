@@ -1,5 +1,7 @@
 # Sayounara no Kawari ni
 
+![sayounara-no-kawari-ni](https://cdn.myanimelist.net/images/manga/1/33234.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: さようならのかわりに

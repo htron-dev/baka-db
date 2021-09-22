@@ -1,5 +1,7 @@
 # Senran Kagura: Spark!
 
+![senran-kagura-spark](https://cdn.myanimelist.net/images/manga/2/86267.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

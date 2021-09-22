@@ -1,5 +1,7 @@
 # Shijou Saikyou Orc-san no Tanoshii Tanetsuke Harem-zukuri
 
+![shijou-saikyou-orc-san-no-tanoshii-tanetsuke-harem-zukuri](https://cdn.myanimelist.net/images/manga/2/241877.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 史上最強オークさんの楽しい種付けハーレムづくり
 -   **start-date**: 2019-07-18

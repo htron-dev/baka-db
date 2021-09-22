@@ -1,5 +1,7 @@
 # Danchigai
 
+![danchigai](https://cdn.myanimelist.net/images/anime/7/74879.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: だんちがい

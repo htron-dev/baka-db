@@ -1,5 +1,7 @@
 # Spider-Man: Itsuwari no Aka
 
+![spider-man-itsuwari-no-aka](https://cdn.myanimelist.net/images/manga/2/228866.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

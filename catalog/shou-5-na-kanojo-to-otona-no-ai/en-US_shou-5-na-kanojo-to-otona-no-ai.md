@@ -1,5 +1,7 @@
 # Shou-5 na Kanojo to Otona no Ai
 
+![shou-5-na-kanojo-to-otona-no-ai](https://cdn.myanimelist.net/images/manga/2/190904.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

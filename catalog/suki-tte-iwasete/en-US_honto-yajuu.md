@@ -1,5 +1,7 @@
 # Honto Yajuu
 
+![honto-yajuu](https://cdn.myanimelist.net/images/manga/2/21139.jpg)
+
 -   **type**: manga
 -   **original-name**: ほんと野獣
 -   **start-date**: 2008-07-10

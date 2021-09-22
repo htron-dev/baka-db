@@ -1,5 +1,7 @@
 # Shuumatsu Nani Shitemasu ka? Iden: Lillia Asplay
 
+![shuumatsu-nani-shitemasu-ka-iden-lillia-asplay](https://cdn.myanimelist.net/images/manga/1/229103.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 終末なにしてますか？異伝 リーリァ・アスプレイ
 -   **start-date**: 2019-06-01

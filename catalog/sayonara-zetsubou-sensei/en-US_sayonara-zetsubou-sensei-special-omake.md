@@ -1,5 +1,7 @@
 # Sayonara Zetsubou Sensei Special Omake
 
+![sayonara-zetsubou-sensei-special-omake](https://cdn.myanimelist.net/images/anime/8/37831.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: さよなら絶望先生

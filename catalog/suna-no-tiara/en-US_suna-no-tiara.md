@@ -1,5 +1,7 @@
 # Suna no Tiara
 
+![suna-no-tiara](https://cdn.myanimelist.net/images/manga/1/30961.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

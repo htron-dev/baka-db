@@ -1,5 +1,7 @@
 # Sanzoku no Musume Ronja
 
+![sanzoku-no-musume-ronja](https://cdn.myanimelist.net/images/anime/11/68125.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 山賊の娘ローニャ

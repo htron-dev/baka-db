@@ -1,5 +1,7 @@
 # Sayonara Rocking Horse
 
+![sayonara-rocking-horse](https://cdn.myanimelist.net/images/manga/2/16222.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

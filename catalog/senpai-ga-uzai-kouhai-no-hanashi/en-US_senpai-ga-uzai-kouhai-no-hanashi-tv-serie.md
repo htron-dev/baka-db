@@ -1,5 +1,7 @@
 # Senpai ga Uzai Kouhai no Hanashi
 
+![senpai-ga-uzai-kouhai-no-hanashi](https://cdn.myanimelist.net/images/anime/1880/117066.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 先輩がうざい後輩の話
 -   **start-date**: 2021-10-20

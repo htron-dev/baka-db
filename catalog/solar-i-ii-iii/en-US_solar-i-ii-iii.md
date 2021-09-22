@@ -1,5 +1,7 @@
 # Solar I.II.III
 
+![solar-i-ii-iii](https://cdn.myanimelist.net/images/anime/5/45144.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 초합금 로보트 쏠라 원투쓰리

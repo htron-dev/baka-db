@@ -1,5 +1,7 @@
 # Arakure Knight
 
+![arakure-knight](https://cdn.myanimelist.net/images/manga/5/75015.jpg)
+
 -   **type**: manga
 -   **volumes**: 28
 -   **original-name**: 荒くれ KNIGHT

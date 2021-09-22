@@ -1,5 +1,7 @@
 # Soukou Kihei Votoms
 
+![soukou-kihei-votoms](https://cdn.myanimelist.net/images/manga/1/152356.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 12

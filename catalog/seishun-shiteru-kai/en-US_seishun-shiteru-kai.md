@@ -1,5 +1,7 @@
 # Seishun Shiteru Kai!
 
+![seishun-shiteru-kai](https://cdn.myanimelist.net/images/manga/1/6616.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

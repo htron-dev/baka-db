@@ -1,5 +1,7 @@
 # Shirayuri wa Aka ni Somaranai
 
+![shirayuri-wa-aka-ni-somaranai](https://cdn.myanimelist.net/images/manga/1/215979.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

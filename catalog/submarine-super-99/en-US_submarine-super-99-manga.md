@@ -1,5 +1,7 @@
 # Submarine Super 99
 
+![submarine-super-99](https://cdn.myanimelist.net/images/manga/2/36915.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 潜水艦スーパー 99

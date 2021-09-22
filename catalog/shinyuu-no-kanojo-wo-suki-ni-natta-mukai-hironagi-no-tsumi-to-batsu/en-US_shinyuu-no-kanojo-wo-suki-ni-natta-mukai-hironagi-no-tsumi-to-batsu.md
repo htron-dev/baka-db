@@ -1,5 +1,7 @@
 # Shinyuu no Kanojo wo Suki ni Natta Mukai Hironagi no, Tsumi to Batsu.
 
+![shinyuu-no-kanojo-wo-suki-ni-natta-mukai-hironagi-no-tsumi-to-batsu](https://cdn.myanimelist.net/images/manga/2/161030.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

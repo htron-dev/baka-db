@@ -1,5 +1,7 @@
 # Street Fighter III RYU FINAL
 
+![street-fighter-iii-ryu-final](https://cdn.myanimelist.net/images/manga/1/14725.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 26

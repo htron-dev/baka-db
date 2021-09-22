@@ -1,5 +1,7 @@
 # Sacred Seven: Shirogane no Tsubasa
 
+![sacred-seven-shirogane-no-tsubasa](https://cdn.myanimelist.net/images/anime/12/34505.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: セイクリッドセブン　銀月の翼

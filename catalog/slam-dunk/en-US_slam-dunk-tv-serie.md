@@ -1,5 +1,7 @@
 # Slam Dunk
 
+![slam-dunk](https://cdn.myanimelist.net/images/anime/12/86890.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 101
 -   **original-name**: スラムダンク

@@ -1,5 +1,7 @@
 # Sweet♥Life
 
+![sweet♥-life](https://cdn.myanimelist.net/images/manga/2/57957.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

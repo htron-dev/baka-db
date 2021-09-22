@@ -1,5 +1,7 @@
 # S=13
 
+![s-13](https://cdn.myanimelist.net/images/anime/1913/108080.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: S ＝ 13

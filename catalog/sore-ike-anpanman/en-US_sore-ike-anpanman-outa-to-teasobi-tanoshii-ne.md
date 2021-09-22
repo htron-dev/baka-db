@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Outa to Teasobi Tanoshii ne
 
+![sore-ike-anpanman-outa-to-teasobi-tanoshii-ne](https://cdn.myanimelist.net/images/anime/4/57691.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: それいけ! アンパンマン おうたとてあそび たのしいね

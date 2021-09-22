@@ -1,5 +1,7 @@
 # Sumomomo Momomo: Chijou Saikyou no Yome
 
+![sumomomo-momomo-chijou-saikyou-no-yome](https://cdn.myanimelist.net/images/manga/1/178230.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 96

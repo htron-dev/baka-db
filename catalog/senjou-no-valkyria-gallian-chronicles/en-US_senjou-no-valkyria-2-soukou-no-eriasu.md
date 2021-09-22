@@ -1,5 +1,7 @@
 # Senjou no Valkyria 2: Soukou no Eriasu
 
+![senjou-no-valkyria-2-soukou-no-eriasu](https://cdn.myanimelist.net/images/manga/3/59153.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

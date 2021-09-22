@@ -1,5 +1,7 @@
 # Shakugan no Shana II (Second)
 
+![shakugan-no-shana-ii-second](https://cdn.myanimelist.net/images/anime/10/18669.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 灼眼のシャナ II –Second–

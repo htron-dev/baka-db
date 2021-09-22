@@ -1,5 +1,7 @@
 # Spirit Fingers
 
+![spirit-fingers](https://cdn.myanimelist.net/images/manga/2/206123.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 13
 -   **chapters**: 163

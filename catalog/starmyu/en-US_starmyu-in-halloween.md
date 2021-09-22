@@ -1,5 +1,7 @@
 # Starmyu in Halloween
 
+![starmyu-in-halloween](https://cdn.myanimelist.net/images/anime/1621/93659.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: スタミュ in ハロウィン

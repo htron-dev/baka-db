@@ -1,5 +1,7 @@
 # Seisenshi Dunbine OVA
 
+![seisenshi-dunbine-ova](https://cdn.myanimelist.net/images/anime/1889/93996.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 聖戦士ダンバイン

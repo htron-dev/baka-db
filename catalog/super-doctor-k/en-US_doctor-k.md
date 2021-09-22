@@ -1,5 +1,7 @@
 # Doctor K
 
+![doctor-k](https://cdn.myanimelist.net/images/manga/1/183439.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: Doctor K

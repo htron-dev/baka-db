@@ -1,5 +1,7 @@
 # Shin Strange+
 
+![shin-strange](https://cdn.myanimelist.net/images/anime/11/75522.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 真 ストレンジ・プラス

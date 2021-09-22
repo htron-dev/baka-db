@@ -1,5 +1,7 @@
 # Sexy☆Flight
 
+![sexy☆-flight](https://cdn.myanimelist.net/images/manga/1/225137.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

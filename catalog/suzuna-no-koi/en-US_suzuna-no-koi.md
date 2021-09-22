@@ -1,5 +1,7 @@
 # Suzuna no Koi
 
+![suzuna-no-koi](https://cdn.myanimelist.net/images/manga/3/224062.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 37

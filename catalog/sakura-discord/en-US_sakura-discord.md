@@ -1,5 +1,7 @@
 # Sakura Discord
 
+![sakura-discord](https://cdn.myanimelist.net/images/manga/1/149067.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 44

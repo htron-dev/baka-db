@@ -1,5 +1,7 @@
 # Short Program 2
 
+![short-program-2](https://cdn.myanimelist.net/images/manga/4/165843.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

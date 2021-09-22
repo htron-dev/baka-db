@@ -1,5 +1,7 @@
 # Samuroid Zero
 
+![samuroid-zero](https://cdn.myanimelist.net/images/anime/1633/90869.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: SAMUROID ZERO

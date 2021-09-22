@@ -1,5 +1,7 @@
 # Sengaku
 
+![sengaku](https://cdn.myanimelist.net/images/manga/3/30440.jpg)
+
 -   **type**: manga
 -   **original-name**: せんがく
 -   **start-date**: 2009-08-20

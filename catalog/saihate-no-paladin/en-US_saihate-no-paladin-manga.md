@@ -1,5 +1,7 @@
 # Saihate no Paladin
 
+![saihate-no-paladin](https://cdn.myanimelist.net/images/manga/2/208057.jpg)
+
 -   **type**: manga
 -   **original-name**: 最果てのパラディン
 -   **start-date**: 2017-09-25

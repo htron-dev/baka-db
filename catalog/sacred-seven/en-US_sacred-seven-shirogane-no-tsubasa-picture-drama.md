@@ -1,5 +1,7 @@
 # Sacred Seven: Shirogane no Tsubasa Picture Drama
 
+![sacred-seven-shirogane-no-tsubasa-picture-drama](https://cdn.myanimelist.net/images/anime/3/38605.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 劇場版 セイクリッドセブン – 銀月の翼 – ピクチャードラマ

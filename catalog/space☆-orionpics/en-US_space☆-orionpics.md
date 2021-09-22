@@ -1,5 +1,7 @@
 # Space☆Orionpics
 
+![space☆-orionpics](https://cdn.myanimelist.net/images/manga/1/219793.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

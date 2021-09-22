@@ -1,5 +1,7 @@
 # Saint Seiya: Meiou Hades Juuni Kyuu-hen
 
+![saint-seiya-meiou-hades-juuni-kyuu-hen](https://cdn.myanimelist.net/images/anime/6/16343.jpg)
+
 -   **type**: ova
 -   **episodes**: 13
 -   **original-name**: 聖闘士星矢 冥王ハーデス十二宮編

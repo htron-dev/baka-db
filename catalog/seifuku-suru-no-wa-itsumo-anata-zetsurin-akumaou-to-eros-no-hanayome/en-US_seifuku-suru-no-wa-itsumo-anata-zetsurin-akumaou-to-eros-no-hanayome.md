@@ -1,5 +1,7 @@
 # Seifuku suru no wa, Itsumo Anata: Zetsurin Akumaou to Eros no Hanayome
 
+![seifuku-suru-no-wa-itsumo-anata-zetsurin-akumaou-to-eros-no-hanayome](https://cdn.myanimelist.net/images/manga/1/244710.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Sing! Dance! Everybody's Christmas
 
+![sore-ike-anpanman-sing-dance-everybodys-christmas](https://cdn.myanimelist.net/images/anime/6/45574.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: それいけ!アンパンマン うたおう!おどろう!みんなのクリスマス

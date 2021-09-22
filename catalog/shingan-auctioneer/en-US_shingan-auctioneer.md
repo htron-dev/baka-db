@@ -1,5 +1,7 @@
 # Shingan Auctioneer
 
+![shingan-auctioneer](https://cdn.myanimelist.net/images/manga/2/198096.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 38

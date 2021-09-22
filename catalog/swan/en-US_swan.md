@@ -1,5 +1,7 @@
 # Swan
 
+![swan](https://cdn.myanimelist.net/images/manga/2/175476.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **chapters**: 208

@@ -1,5 +1,7 @@
 # Shin Onimusha: Twilight of Desire
 
+![shin-onimusha-twilight-of-desire](https://cdn.myanimelist.net/images/manga/3/39271.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 新鬼武者 TWILIGHT OF DESIRE

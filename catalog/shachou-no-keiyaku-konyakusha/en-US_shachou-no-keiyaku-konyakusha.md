@@ -1,5 +1,7 @@
 # Shachou no Keiyaku Konyakusha
 
+![shachou-no-keiyaku-konyakusha](https://cdn.myanimelist.net/images/manga/1/160087.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 社長の契約婚約者

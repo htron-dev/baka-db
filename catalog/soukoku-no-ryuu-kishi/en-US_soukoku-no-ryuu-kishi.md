@@ -1,5 +1,7 @@
 # Soukoku no Ryuu Kishi
 
+![soukoku-no-ryuu-kishi](https://cdn.myanimelist.net/images/manga/2/154191.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 蒼黒の竜騎士
 -   **start-date**: 2015-04-09

@@ -1,5 +1,7 @@
 # Santa-san to Tonakai Kuppi
 
+![santa-san-to-tonakai-kuppi](https://cdn.myanimelist.net/images/anime/9/58967.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: サンタさんとトナカイクッピ

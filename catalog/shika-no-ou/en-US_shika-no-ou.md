@@ -1,5 +1,7 @@
 # Shika no Ou
 
+![shika-no-ou](https://cdn.myanimelist.net/images/manga/1/217146.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 5

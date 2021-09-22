@@ -1,5 +1,7 @@
 # Silvester no Hoshi kara
 
+![silvester-no-hoshi-kara](https://cdn.myanimelist.net/images/manga/1/12790.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

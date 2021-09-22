@@ -1,5 +1,7 @@
 # Shite Mite.
 
+![shite-mite](https://cdn.myanimelist.net/images/manga/1/42197.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

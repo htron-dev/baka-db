@@ -1,5 +1,7 @@
 # Shounen wa Kakkou wo Haramu
 
+![shounen-wa-kakkou-wo-haramu](https://cdn.myanimelist.net/images/manga/3/224372.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

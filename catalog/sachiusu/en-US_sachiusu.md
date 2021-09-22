@@ -1,5 +1,7 @@
 # Sachiusu
 
+![sachiusu](https://cdn.myanimelist.net/images/manga/1/122941.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 19

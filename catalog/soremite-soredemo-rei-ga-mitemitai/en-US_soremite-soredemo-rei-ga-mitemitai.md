@@ -1,5 +1,7 @@
 # Soremite: Soredemo Rei ga Mitemitai
 
+![soremite-soredemo-rei-ga-mitemitai](https://cdn.myanimelist.net/images/manga/1/226486.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 33

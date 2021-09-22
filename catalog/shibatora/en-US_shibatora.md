@@ -1,5 +1,7 @@
 # Shibatora
 
+![shibatora](https://cdn.myanimelist.net/images/manga/1/56481.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 131

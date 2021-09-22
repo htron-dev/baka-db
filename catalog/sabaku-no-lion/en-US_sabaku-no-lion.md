@@ -1,5 +1,7 @@
 # Sabaku no Lion
 
+![sabaku-no-lion](https://cdn.myanimelist.net/images/manga/2/79211.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

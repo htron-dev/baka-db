@@ -1,5 +1,7 @@
 # Step Wise Step
 
+![step-wise-step](https://cdn.myanimelist.net/images/manga/3/241876.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

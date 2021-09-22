@@ -1,5 +1,7 @@
 # Sword Art Online: Calibur
 
+![sword-art-online-calibur](https://cdn.myanimelist.net/images/manga/2/162192.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

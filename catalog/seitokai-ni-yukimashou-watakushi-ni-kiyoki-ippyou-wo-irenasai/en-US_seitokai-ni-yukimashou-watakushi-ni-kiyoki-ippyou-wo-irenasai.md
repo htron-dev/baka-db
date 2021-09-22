@@ -1,5 +1,7 @@
 # Seitokai ni Yukimashou!! Watakushi ni Kiyoki Ippyou wo Irenasai
 
+![seitokai-ni-yukimashou-watakushi-ni-kiyoki-ippyou-wo-irenasai](https://cdn.myanimelist.net/images/manga/2/162422.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 14

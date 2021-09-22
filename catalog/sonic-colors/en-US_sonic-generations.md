@@ -1,5 +1,7 @@
 # Sonic Generations
 
+![sonic-generations](https://cdn.myanimelist.net/images/manga/2/48389.jpg)
+
 -   **type**: manga
 -   **chapters**: 7
 -   **original-name**: ソニック ジェネレーションズ

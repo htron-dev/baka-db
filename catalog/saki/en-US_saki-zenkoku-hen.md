@@ -1,5 +1,7 @@
 # Saki Zenkoku-hen
 
+![saki-zenkoku-hen](https://cdn.myanimelist.net/images/anime/12/57979.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 咲-Saki-全国編

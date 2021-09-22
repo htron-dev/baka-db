@@ -1,5 +1,7 @@
 # Song of the Cloud
 
+![song-of-the-cloud](https://cdn.myanimelist.net/images/manga/1/38198.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 63

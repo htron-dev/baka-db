@@ -1,5 +1,7 @@
 # Seiten Taisen Flieder Bug
 
+![seiten-taisen-flieder-bug](https://cdn.myanimelist.net/images/manga/3/125719.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: セイテン大戦フリーダーバグ

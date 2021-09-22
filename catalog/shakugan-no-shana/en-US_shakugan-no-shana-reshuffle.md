@@ -1,5 +1,7 @@
 # Shakugan no Shana: Reshuffle
 
+![shakugan-no-shana-reshuffle](https://cdn.myanimelist.net/images/manga/3/169958.jpg)
+
 -   **type**: light-novel
 -   **chapters**: 1
 -   **original-name**: 灼眼のシャナ リシャッフル

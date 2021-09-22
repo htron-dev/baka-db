@@ -1,5 +1,7 @@
 # Sekaiichi Muzukashii Galge: Heart wo Tsukande Sekai Seifuku!
 
+![sekaiichi-muzukashii-galge-heart-wo-tsukande-sekai-seifuku](https://cdn.myanimelist.net/images/manga/3/217893.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Sarashina Subaru-kun no Meirei wa Zettai!!
 
+![sarashina-subaru-kun-no-meirei-wa-zettai](https://cdn.myanimelist.net/images/manga/3/220107.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Skill "Daidokoro Shoukan" wa Sugoi!: Isekai de Gohan Tsukutte Point Tamemasu
 
+![skill-daidokoro-shoukan-wa-sugoi-isekai-de-gohan-tsukutte-point-tamemasu](https://cdn.myanimelist.net/images/manga/2/221294.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Strike Witches: Aozora no Otome-tachi
 
+![strike-witches-aozora-no-otome-tachi](https://cdn.myanimelist.net/images/manga/2/121543.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: ストライクウィッチーズ －蒼空の乙女たち－

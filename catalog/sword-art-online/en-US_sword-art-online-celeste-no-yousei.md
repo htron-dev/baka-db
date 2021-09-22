@@ -1,5 +1,7 @@
 # Sword Art Online: Celeste no Yousei
 
+![sword-art-online-celeste-no-yousei](https://cdn.myanimelist.net/images/manga/4/148041.jpg)
+
 -   **type**: light-novel
 -   **chapters**: 1
 -   **original-name**: ソードアート・オンライン チェレステの妖精

@@ -1,5 +1,7 @@
 # Shougakusei ga Mama demo Ii desu ka?
 
+![shougakusei-ga-mama-demo-ii-desu-ka](https://cdn.myanimelist.net/images/manga/3/210387.jpg)
+
 -   **type**: manga
 -   **original-name**: 小学生がママでもいいですか？
 -   **start-date**: 2017-12-26

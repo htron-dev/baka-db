@@ -1,5 +1,7 @@
 # Slayers Special
 
+![slayers-special](https://cdn.myanimelist.net/images/manga/5/155327.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 30
 -   **original-name**: スレイヤーズすぺしゃる

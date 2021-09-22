@@ -1,5 +1,7 @@
 # Sabaku no Harem
 
+![sabaku-no-harem](https://cdn.myanimelist.net/images/manga/3/148711.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 52

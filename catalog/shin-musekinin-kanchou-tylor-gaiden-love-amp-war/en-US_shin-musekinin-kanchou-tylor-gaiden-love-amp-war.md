@@ -1,5 +1,7 @@
 # Shin Musekinin Kanchou Tylor Gaiden: Love &amp; War
 
+![shin-musekinin-kanchou-tylor-gaiden-love-amp-war](https://cdn.myanimelist.net/images/manga/2/196214.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 真・無責任艦長タイラー外伝 Love&War

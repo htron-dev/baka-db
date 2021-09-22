@@ -1,5 +1,7 @@
 # Sweet Black
 
+![sweet-black](https://cdn.myanimelist.net/images/manga/3/33845.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

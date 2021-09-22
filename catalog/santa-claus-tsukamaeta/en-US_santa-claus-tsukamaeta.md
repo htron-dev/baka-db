@@ -1,5 +1,7 @@
 # Santa Claus Tsukamaeta!
 
+![santa-claus-tsukamaeta](https://cdn.myanimelist.net/images/anime/1870/112393.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: サンタクロースつかまえた ！

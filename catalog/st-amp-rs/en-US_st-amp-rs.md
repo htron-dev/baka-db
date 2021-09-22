@@ -1,5 +1,7 @@
 # ST&amp;RS
 
+![st-amp-rs](https://cdn.myanimelist.net/images/manga/4/57779.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 39

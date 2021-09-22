@@ -1,5 +1,7 @@
 # Soukyuu no Fafner: Dead Aggressor - The Beyond
 
+![soukyuu-no-fafner-dead-aggressor-the-beyond](https://cdn.myanimelist.net/images/anime/1512/94632.jpg)
+
 -   **type**: movie
 -   **episodes**: 3
 -   **original-name**: 蒼穹のファフナー Dead Aggressor THE BEYOND

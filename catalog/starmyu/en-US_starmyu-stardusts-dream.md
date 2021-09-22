@@ -1,5 +1,7 @@
 # Starmyu: Stardust's Dream
 
+![starmyu-stardusts-dream](https://cdn.myanimelist.net/images/manga/2/248102.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: スタミュ Stardust's Dream

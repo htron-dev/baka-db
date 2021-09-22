@@ -1,5 +1,7 @@
 # Shinba Ra Da
 
+![shinba-ra-da](https://cdn.myanimelist.net/images/manga/1/166835.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: シンバ・ラ・ダ

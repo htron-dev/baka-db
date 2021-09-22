@@ -1,5 +1,7 @@
 # Seijo no Maryoku wa Bannou desu
 
+![seijo-no-maryoku-wa-bannou-desu](https://cdn.myanimelist.net/images/manga/1/204905.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 聖女の魔力は万能です
 -   **start-date**: 2017-02-10

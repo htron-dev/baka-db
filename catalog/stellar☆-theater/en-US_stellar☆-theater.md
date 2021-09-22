@@ -1,5 +1,7 @@
 # Stellar☆Theater
 
+![stellar☆-theater](https://cdn.myanimelist.net/images/manga/3/33637.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

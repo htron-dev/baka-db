@@ -1,5 +1,7 @@
 # Sora wo Kakeru Shoujo
 
+![sora-wo-kakeru-shoujo](https://cdn.myanimelist.net/images/anime/6/74071.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 宇宙をかける少女

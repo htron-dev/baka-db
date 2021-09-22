@@ -1,5 +1,7 @@
 # Senya Ichiya Arabian Tonight
 
+![senya-ichiya-arabian-tonight](https://cdn.myanimelist.net/images/manga/2/231598.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

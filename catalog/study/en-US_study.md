@@ -1,5 +1,7 @@
 # Study
 
+![study](https://cdn.myanimelist.net/images/manga/2/14539.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

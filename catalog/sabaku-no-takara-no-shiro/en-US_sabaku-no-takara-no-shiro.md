@@ -1,5 +1,7 @@
 # Sabaku no Takara no Shiro
 
+![sabaku-no-takara-no-shiro](https://cdn.myanimelist.net/images/anime/4/46595.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: さばくの宝の城

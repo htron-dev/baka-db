@@ -1,5 +1,7 @@
 # Shiroi Gekkou
 
+![shiroi-gekkou](https://cdn.myanimelist.net/images/manga/4/14787.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 22

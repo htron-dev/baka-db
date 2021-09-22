@@ -1,5 +1,7 @@
 # Soukyuu no Lapis Lazuli
 
+![soukyuu-no-lapis-lazuli](https://cdn.myanimelist.net/images/manga/1/163374.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 56

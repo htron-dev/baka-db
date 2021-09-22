@@ -1,5 +1,7 @@
 # Shadow Skill: Eigi
 
+![shadow-skill-eigi](https://cdn.myanimelist.net/images/anime/4/61189.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 影技 SHADOW SKILL

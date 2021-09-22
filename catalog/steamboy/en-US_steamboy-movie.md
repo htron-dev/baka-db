@@ -1,5 +1,7 @@
 # Steamboy
 
+![steamboy](https://cdn.myanimelist.net/images/anime/11/21278.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: スチームボーイ

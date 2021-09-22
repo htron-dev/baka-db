@@ -1,5 +1,7 @@
 # TV Anime: Sengoku Basara Ni
 
+![tv-anime-sengoku-basara-ni](https://cdn.myanimelist.net/images/manga/1/62399.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

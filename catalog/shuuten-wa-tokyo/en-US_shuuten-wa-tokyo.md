@@ -1,5 +1,7 @@
 # Shuuten wa Tokyo.
 
+![shuuten-wa-tokyo](https://cdn.myanimelist.net/images/manga/1/227799.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

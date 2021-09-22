@@ -1,5 +1,7 @@
 # Shounen Harem
 
+![shounen-harem](https://cdn.myanimelist.net/images/manga/1/11027.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 少年ハーレム

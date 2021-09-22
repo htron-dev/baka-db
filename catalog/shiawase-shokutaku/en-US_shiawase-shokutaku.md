@@ -1,5 +1,7 @@
 # Shiawase Shokutaku
 
+![shiawase-shokutaku](https://cdn.myanimelist.net/images/manga/1/123651.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: シアワセ食卓

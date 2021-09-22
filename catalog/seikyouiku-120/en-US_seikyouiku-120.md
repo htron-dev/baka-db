@@ -1,5 +1,7 @@
 # Seikyouiku 120%
 
+![seikyouiku-120](https://cdn.myanimelist.net/images/manga/1/245323.jpg)
+
 -   **type**: manga
 -   **original-name**: 性教育 120％
 -   **start-date**: 2020-01-14

@@ -1,5 +1,7 @@
 # Shinrin Ouja Moriking
 
+![shinrin-ouja-moriking](https://cdn.myanimelist.net/images/manga/3/233878.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 38

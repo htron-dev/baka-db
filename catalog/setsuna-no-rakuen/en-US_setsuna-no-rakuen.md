@@ -1,5 +1,7 @@
 # Setsuna No Rakuen
 
+![setsuna-no-rakuen](https://cdn.myanimelist.net/images/manga/3/27912.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

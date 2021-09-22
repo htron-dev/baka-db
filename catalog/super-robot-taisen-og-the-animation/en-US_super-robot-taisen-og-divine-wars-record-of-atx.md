@@ -1,5 +1,7 @@
 # Super Robot Taisen OG - Divine Wars - Record of ATX
 
+![super-robot-taisen-og-divine-wars-record-of-atx](https://cdn.myanimelist.net/images/manga/3/41397.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 16

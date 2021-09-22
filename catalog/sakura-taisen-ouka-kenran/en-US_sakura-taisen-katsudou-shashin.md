@@ -1,5 +1,7 @@
 # Sakura Taisen: Katsudou Shashin
 
+![sakura-taisen-katsudou-shashin](https://cdn.myanimelist.net/images/anime/13/20234.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: サクラ大戦 活動写真

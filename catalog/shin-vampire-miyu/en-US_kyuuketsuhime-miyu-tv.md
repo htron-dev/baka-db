@@ -1,5 +1,7 @@
 # Kyuuketsuhime Miyu (TV)
 
+![kyuuketsuhime-miyu-tv](https://cdn.myanimelist.net/images/anime/8/61317.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 吸血姫美夕

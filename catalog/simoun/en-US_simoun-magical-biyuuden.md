@@ -1,5 +1,7 @@
 # Simoun: Magical Biyuuden
 
+![simoun-magical-biyuuden](https://cdn.myanimelist.net/images/manga/2/36785.jpg)
+
 -   **type**: manga
 -   **chapters**: 5
 -   **original-name**: シムーン 〜まじかる美勇伝〜

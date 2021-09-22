@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Yuurei Sen wo Yattsukero!!
 
+![sore-ike-anpanman-yuurei-sen-wo-yattsukero](https://cdn.myanimelist.net/images/anime/7/27774.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ！アンパンマン ゆうれい船をやっつけろ！！

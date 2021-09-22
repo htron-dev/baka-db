@@ -1,5 +1,7 @@
 # Tenmasou no Sanshimai - Sky High
 
+![tenmasou-no-sanshimai-sky-high](https://cdn.myanimelist.net/images/manga/2/101755.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 26

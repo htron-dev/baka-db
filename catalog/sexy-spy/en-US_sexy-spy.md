@@ -1,5 +1,7 @@
 # Sexy spy
 
+![sexy-spy](https://cdn.myanimelist.net/images/manga/3/26498.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **original-name**: 섹시한 스파이

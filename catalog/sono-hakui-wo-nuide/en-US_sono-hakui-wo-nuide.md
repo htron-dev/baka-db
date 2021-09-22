@@ -1,5 +1,7 @@
 # Sono Hakui wo Nuide
 
+![sono-hakui-wo-nuide](https://cdn.myanimelist.net/images/manga/5/25969.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

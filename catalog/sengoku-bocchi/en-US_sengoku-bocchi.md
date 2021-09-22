@@ -1,5 +1,7 @@
 # Sengoku Bocchi
 
+![sengoku-bocchi](https://cdn.myanimelist.net/images/manga/2/177514.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 戦国ぼっち
 -   **start-date**: 2013-04-05

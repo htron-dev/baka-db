@@ -1,5 +1,7 @@
 # Seikon Sacrifice
 
+![seikon-sacrifice](https://cdn.myanimelist.net/images/manga/3/36763.jpg)
+
 -   **type**: manga
 -   **original-name**: 聖魂サクリファイス
 -   **start-date**: 2009-07-20

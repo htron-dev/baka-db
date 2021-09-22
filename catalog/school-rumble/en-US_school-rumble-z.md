@@ -1,5 +1,7 @@
 # School Rumble Z
 
+![school-rumble-z](https://cdn.myanimelist.net/images/manga/1/22036.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Special A
 
+![special-a](https://cdn.myanimelist.net/images/manga/3/137871.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 104

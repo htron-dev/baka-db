@@ -1,5 +1,7 @@
 # Shugo Chara!
 
+![shugo-chara](https://cdn.myanimelist.net/images/manga/2/135293.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 55

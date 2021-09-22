@@ -1,5 +1,7 @@
 # Samishigariya no Love Letter
 
+![samishigariya-no-love-letter](https://cdn.myanimelist.net/images/manga/1/163348.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

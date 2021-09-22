@@ -1,5 +1,7 @@
 # S Kishi: Taikou-hime to Ijiwaru na Shimobe
 
+![s-kishi-taikou-hime-to-ijiwaru-na-shimobe](https://cdn.myanimelist.net/images/manga/2/182969.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

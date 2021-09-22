@@ -1,5 +1,7 @@
 # Shanshui Qing
 
+![shanshui-qing](https://cdn.myanimelist.net/images/anime/1647/92614.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 山水情

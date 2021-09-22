@@ -1,5 +1,7 @@
 # Suki Suki!! Gokudou Papa
 
+![suki-suki-gokudou-papa](https://cdn.myanimelist.net/images/manga/2/34736.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 极道爸爸

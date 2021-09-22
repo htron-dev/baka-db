@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Tekka no Maki-chan to Kin no Kamameshidon
 
+![sore-ike-anpanman-tekka-no-maki-chan-to-kin-no-kamameshidon](https://cdn.myanimelist.net/images/anime/7/53597.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ！アンパンマン　鉄火のマキちゃんと金のかまめしどん

@@ -1,5 +1,7 @@
 # Stardust Memories
 
+![stardust-memories](https://cdn.myanimelist.net/images/manga/5/32551.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

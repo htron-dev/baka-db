@@ -1,5 +1,7 @@
 # Shoujo Sosuu
 
+![shoujo-sosuu](https://cdn.myanimelist.net/images/manga/2/34543.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 47

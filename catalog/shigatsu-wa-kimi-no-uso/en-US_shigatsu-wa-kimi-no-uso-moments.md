@@ -1,5 +1,7 @@
 # Shigatsu wa Kimi no Uso: Moments
 
+![shigatsu-wa-kimi-no-uso-moments](https://cdn.myanimelist.net/images/anime/6/74156.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 四月は君の嘘 MOMENTS

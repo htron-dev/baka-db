@@ -1,5 +1,7 @@
 # Saibanin no Megami
 
+![saibanin-no-megami](https://cdn.myanimelist.net/images/manga/2/63859.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 裁判員の女神

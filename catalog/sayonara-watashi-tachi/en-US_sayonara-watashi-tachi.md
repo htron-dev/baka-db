@@ -1,5 +1,7 @@
 # Sayonara Watashi-tachi
 
+![sayonara-watashi-tachi](https://cdn.myanimelist.net/images/manga/3/107687.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

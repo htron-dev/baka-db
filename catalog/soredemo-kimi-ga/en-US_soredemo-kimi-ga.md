@@ -1,5 +1,7 @@
 # Soredemo Kimi ga
 
+![soredemo-kimi-ga](https://cdn.myanimelist.net/images/manga/3/202128.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

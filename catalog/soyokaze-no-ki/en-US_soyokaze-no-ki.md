@@ -1,5 +1,7 @@
 # Soyokaze no Ki
 
+![soyokaze-no-ki](https://cdn.myanimelist.net/images/manga/3/66897.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

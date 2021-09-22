@@ -1,5 +1,7 @@
 # Zan Sayonara Zetsubou Sensei
 
+![zan-sayonara-zetsubou-sensei](https://cdn.myanimelist.net/images/anime/5/14728.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 懺・さよなら絶望先生

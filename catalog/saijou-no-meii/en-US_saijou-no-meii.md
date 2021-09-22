@@ -1,5 +1,7 @@
 # Saijou no Meii
 
+![saijou-no-meii](https://cdn.myanimelist.net/images/manga/4/75577.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 103

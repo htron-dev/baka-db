@@ -1,5 +1,7 @@
 # Samland 1945
 
+![samland-1945](https://cdn.myanimelist.net/images/manga/1/131923.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ザームラント 1945

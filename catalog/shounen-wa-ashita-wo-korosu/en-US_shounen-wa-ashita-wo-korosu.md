@@ -1,5 +1,7 @@
 # Shounen wa Ashita wo Korosu
 
+![shounen-wa-ashita-wo-korosu](https://cdn.myanimelist.net/images/manga/3/79387.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

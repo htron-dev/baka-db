@@ -1,5 +1,7 @@
 # Aoki Densetsu Shoot!
 
+![aoki-densetsu-shoot](https://cdn.myanimelist.net/images/anime/3/75214.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 58
 -   **original-name**: 蒼き伝説　シュート！

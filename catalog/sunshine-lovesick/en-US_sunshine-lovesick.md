@@ -1,5 +1,7 @@
 # Sunshine Lovesick
 
+![sunshine-lovesick](https://cdn.myanimelist.net/images/manga/2/226292.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Sister to Vampire
 
+![sister-to-vampire](https://cdn.myanimelist.net/images/manga/2/205425.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 80

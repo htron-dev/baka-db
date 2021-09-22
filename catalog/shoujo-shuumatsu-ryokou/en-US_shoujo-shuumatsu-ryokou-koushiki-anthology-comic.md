@@ -1,5 +1,7 @@
 # Shoujo Shuumatsu Ryokou: Koushiki Anthology Comic
 
+![shoujo-shuumatsu-ryokou-koushiki-anthology-comic](https://cdn.myanimelist.net/images/manga/1/206701.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 38

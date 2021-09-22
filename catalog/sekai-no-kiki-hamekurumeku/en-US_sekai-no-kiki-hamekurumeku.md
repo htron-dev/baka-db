@@ -1,5 +1,7 @@
 # Sekai no Kiki Hamekurumeku!
 
+![sekai-no-kiki-hamekurumeku](https://cdn.myanimelist.net/images/manga/3/27175.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 世界の危機はめくるめく!
 -   **start-date**: 2008-06-30

@@ -1,5 +1,7 @@
 # Sono Wakaki Koutei wa Yatoware Kouhi wo Dekiai suru
 
+![sono-wakaki-koutei-wa-yatoware-kouhi-wo-dekiai-suru](https://cdn.myanimelist.net/images/manga/2/218271.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: その若き皇帝は雇われ皇妃を溺愛する

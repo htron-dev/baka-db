@@ -1,5 +1,7 @@
 # Shoujo Manga Shujinkou x Rival-san
 
+![shoujo-manga-shujinkou-x-rival-san](https://cdn.myanimelist.net/images/manga/3/229405.jpg)
+
 -   **type**: manga
 -   **original-name**: 少女漫画主人公 × ライバルさん
 -   **start-date**: 2020-04-22

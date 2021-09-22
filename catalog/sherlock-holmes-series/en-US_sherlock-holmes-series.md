@@ -1,5 +1,7 @@
 # Sherlock Holmes Series
 
+![sherlock-holmes-series](https://cdn.myanimelist.net/images/manga/2/161570.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: シャーロック・ホームズシリーズ

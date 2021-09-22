@@ -1,5 +1,7 @@
 # Shirumashi Pilgrim
 
+![shirumashi-pilgrim](https://cdn.myanimelist.net/images/manga/1/73771.jpg)
+
 -   **type**: manga
 -   **original-name**: 怪ピルグリム
 -   **start-date**: 2011-09-12

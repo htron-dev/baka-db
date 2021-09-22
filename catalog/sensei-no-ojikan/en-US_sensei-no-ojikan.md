@@ -1,5 +1,7 @@
 # Sensei no Ojikan
 
+![sensei-no-ojikan](https://cdn.myanimelist.net/images/manga/2/197266.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 212

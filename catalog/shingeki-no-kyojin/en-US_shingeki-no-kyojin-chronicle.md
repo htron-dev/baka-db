@@ -1,5 +1,7 @@
 # Shingeki no Kyojin: Chronicle
 
+![shingeki-no-kyojin-chronicle](https://cdn.myanimelist.net/images/anime/1786/110717.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 進撃の巨人 〜クロニクル〜

@@ -1,5 +1,7 @@
 # Shoujo Pandora
 
+![shoujo-pandora](https://cdn.myanimelist.net/images/manga/1/66189.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

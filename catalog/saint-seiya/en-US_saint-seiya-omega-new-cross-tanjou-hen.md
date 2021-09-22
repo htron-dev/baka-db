@@ -1,5 +1,7 @@
 # Saint Seiya Omega: New Cross Tanjou-hen
 
+![saint-seiya-omega-new-cross-tanjou-hen](https://cdn.myanimelist.net/images/manga/1/121603.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

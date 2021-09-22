@@ -1,5 +1,7 @@
 # School! Scoop?
 
+![school-scoop](https://cdn.myanimelist.net/images/manga/2/89187.jpg)
+
 -   **type**: manga
 -   **original-name**: すくーる!すくーぷ?
 -   **start-date**: 2011-10-25

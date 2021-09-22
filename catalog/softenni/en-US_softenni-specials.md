@@ -1,5 +1,7 @@
 # Softenni Specials
 
+![softenni-specials](https://cdn.myanimelist.net/images/anime/11/29804.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: そふてにっ

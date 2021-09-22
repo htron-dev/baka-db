@@ -1,5 +1,7 @@
 # Shimajirou to Ururu no Hero Land
 
+![shimajirou-to-ururu-no-hero-land](https://cdn.myanimelist.net/images/anime/1082/95967.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: しまじろうとうるるのヒーローランド

@@ -1,5 +1,7 @@
 # Shagara
 
+![shagara](https://cdn.myanimelist.net/images/manga/5/166589.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 43

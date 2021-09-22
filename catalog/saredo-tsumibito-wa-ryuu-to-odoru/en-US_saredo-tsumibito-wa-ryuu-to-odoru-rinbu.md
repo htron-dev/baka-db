@@ -1,5 +1,7 @@
 # Saredo Tsumibito wa Ryuu to Odoru: Rinbu
 
+![saredo-tsumibito-wa-ryuu-to-odoru-rinbu](https://cdn.myanimelist.net/images/manga/3/202130.jpg)
+
 -   **type**: manga
 -   **original-name**: されど罪人は竜と踊る 輪舞
 -   **start-date**: 2017-04-25

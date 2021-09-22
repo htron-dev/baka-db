@@ -1,5 +1,7 @@
 # Sword Art Online: Progressive
 
+![sword-art-online-progressive](https://cdn.myanimelist.net/images/manga/2/77447.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ソードアート・オンライン プログレッシブ
 -   **start-date**: 2012-10-10

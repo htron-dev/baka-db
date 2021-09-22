@@ -1,5 +1,7 @@
 # Schema no Schema
 
+![schema-no-schema](https://cdn.myanimelist.net/images/manga/2/152636.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: スキマノスキマ

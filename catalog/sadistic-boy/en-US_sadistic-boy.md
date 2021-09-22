@@ -1,5 +1,7 @@
 # Sadistic Boy
 
+![sadistic-boy](https://cdn.myanimelist.net/images/manga/1/62291.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

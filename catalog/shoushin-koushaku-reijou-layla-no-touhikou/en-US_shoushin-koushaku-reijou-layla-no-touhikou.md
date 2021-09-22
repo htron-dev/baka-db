@@ -1,5 +1,7 @@
 # Shoushin Koushaku Reijou Layla no Touhikou
 
+![shoushin-koushaku-reijou-layla-no-touhikou](https://cdn.myanimelist.net/images/manga/2/245356.jpg)
+
 -   **type**: manga
 -   **original-name**: 傷心公爵令嬢レイラの逃避行
 -   **start-date**: 2020-06-30

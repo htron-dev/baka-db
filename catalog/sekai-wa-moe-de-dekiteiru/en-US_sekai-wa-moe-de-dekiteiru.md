@@ -1,5 +1,7 @@
 # Sekai wa Moe de Dekiteiru!!
 
+![sekai-wa-moe-de-dekiteiru](https://cdn.myanimelist.net/images/manga/1/99825.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 35

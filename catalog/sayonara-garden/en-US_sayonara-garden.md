@@ -1,5 +1,7 @@
 # Sayonara Garden
 
+![sayonara-garden](https://cdn.myanimelist.net/images/manga/2/143347.jpg)
+
 -   **type**: manga
 -   **original-name**: さよならガーデン
 -   **start-date**: 2014-09-05

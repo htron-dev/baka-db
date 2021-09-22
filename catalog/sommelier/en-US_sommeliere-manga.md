@@ -1,5 +1,7 @@
 # Sommelière
 
+![sommeliere](https://cdn.myanimelist.net/images/manga/2/166418.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **chapters**: 135

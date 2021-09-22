@@ -1,5 +1,7 @@
 # Super Daddy 10
 
+![super-daddy-10](https://cdn.myanimelist.net/images/manga/2/206861.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 23

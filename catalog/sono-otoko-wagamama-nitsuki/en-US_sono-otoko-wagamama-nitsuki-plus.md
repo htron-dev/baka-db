@@ -1,5 +1,7 @@
 # Sono Otoko, Wagamama Nitsuki Plus
 
+![sono-otoko-wagamama-nitsuki-plus](https://cdn.myanimelist.net/images/manga/2/52729.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

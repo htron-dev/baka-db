@@ -1,5 +1,7 @@
 # Scape-God
 
+![scape-god](https://cdn.myanimelist.net/images/manga/2/37389.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

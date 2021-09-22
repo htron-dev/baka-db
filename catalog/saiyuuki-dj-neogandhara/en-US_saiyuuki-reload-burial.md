@@ -1,5 +1,7 @@
 # Saiyuuki Reload: Burial
 
+![saiyuuki-reload-burial](https://cdn.myanimelist.net/images/anime/1890/94055.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 最遊記 RELOAD -burial-

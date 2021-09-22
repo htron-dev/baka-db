@@ -1,5 +1,7 @@
 # Senjutsu Choukoukaku Orion
 
+![senjutsu-choukoukaku-orion](https://cdn.myanimelist.net/images/manga/5/167663.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

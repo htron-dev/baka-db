@@ -1,5 +1,7 @@
 # Saki: Achiga-hen - Episode of Side-A
 
+![saki-achiga-hen-episode-of-side-a](https://cdn.myanimelist.net/images/manga/3/178508.jpg)
+
 -   **type**: manga
 -   **original-name**: 咲-Saki- 阿知賀編 episode of side-A
 -   **start-date**: 2011-08-12

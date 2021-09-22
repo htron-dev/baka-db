@@ -1,5 +1,7 @@
 # Sushi Ichi!
 
+![sushi-ichi](https://cdn.myanimelist.net/images/manga/2/187557.jpg)
+
 -   **type**: manga
 -   **original-name**: すしいち！
 -   **start-date**: 2013-10-12

@@ -1,5 +1,7 @@
 # Sugu ni Te ga Deru Bokutachi wa
 
+![sugu-ni-te-ga-deru-bokutachi-wa](https://cdn.myanimelist.net/images/manga/2/84509.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

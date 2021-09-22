@@ -1,5 +1,7 @@
 # Steins;Gate: Shijou Saikyou no Slight Fever
 
+![steins-gate-shijou-saikyou-no-slight-fever](https://cdn.myanimelist.net/images/manga/2/209061.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: STEINS;GATE 史上最強のスライトフィーバー

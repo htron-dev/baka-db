@@ -1,5 +1,7 @@
 # Sentimental Rodeo
 
+![sentimental-rodeo](https://cdn.myanimelist.net/images/manga/2/239174.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

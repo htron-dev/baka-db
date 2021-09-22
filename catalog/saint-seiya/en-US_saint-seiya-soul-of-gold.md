@@ -1,5 +1,7 @@
 # Saint Seiya: Soul of Gold
 
+![saint-seiya-soul-of-gold](https://cdn.myanimelist.net/images/anime/10/72664.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 聖闘士星矢 -黄金魂 soul of gold-

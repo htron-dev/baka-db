@@ -1,5 +1,7 @@
 # Shinrabanshou: Tenchi Shinmei no Shou
 
+![shinrabanshou-tenchi-shinmei-no-shou](https://cdn.myanimelist.net/images/anime/5/63581.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 神羅万象～天地神明の章～

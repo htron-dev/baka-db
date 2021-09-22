@@ -1,5 +1,7 @@
 # Shichifuku Mafia
 
+![shichifuku-mafia](https://cdn.myanimelist.net/images/manga/3/142907.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

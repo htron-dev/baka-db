@@ -1,5 +1,7 @@
 # Seikaisuru Kado: Beyond Information
 
+![seikaisuru-kado-beyond-information](https://cdn.myanimelist.net/images/anime/1632/93022.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 正解するカド 12.5 話 KADO: Beyond Information

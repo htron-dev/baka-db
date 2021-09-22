@@ -1,5 +1,7 @@
 # Susanoou
 
+![susanoou](https://cdn.myanimelist.net/images/manga/3/75563.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: 凄ノ王

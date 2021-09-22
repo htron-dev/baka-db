@@ -1,5 +1,7 @@
 # Seishun Shounen Magazine 1978~1983
 
+![seishun-shounen-magazine-1978-1983](https://cdn.myanimelist.net/images/manga/1/228197.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Strike Witches: CHIi Size
 
+![strike-witches-ch-ii-size](https://cdn.myanimelist.net/images/manga/3/158917.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 34

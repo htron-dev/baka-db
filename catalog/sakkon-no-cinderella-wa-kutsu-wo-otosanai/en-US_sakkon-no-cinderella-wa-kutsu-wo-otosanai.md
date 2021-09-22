@@ -1,5 +1,7 @@
 # Sakkon no Cinderella wa Kutsu wo Otosanai.
 
+![sakkon-no-cinderella-wa-kutsu-wo-otosanai](https://cdn.myanimelist.net/images/manga/2/241425.jpg)
+
 -   **type**: manga
 -   **original-name**: 昨今のシンデレラは靴を落とさない。
 -   **start-date**: 2020-06-05

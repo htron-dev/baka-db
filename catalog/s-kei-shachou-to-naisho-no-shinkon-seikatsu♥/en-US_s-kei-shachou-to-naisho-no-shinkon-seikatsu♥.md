@@ -1,5 +1,7 @@
 # S-kei Shachou to Naisho no Shinkon Seikatsu♥
 
+![s-kei-shachou-to-naisho-no-shinkon-seikatsu♥](https://cdn.myanimelist.net/images/manga/2/192299.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

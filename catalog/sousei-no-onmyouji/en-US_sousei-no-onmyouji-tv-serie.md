@@ -1,5 +1,7 @@
 # Sousei no Onmyouji
 
+![sousei-no-onmyouji](https://cdn.myanimelist.net/images/anime/12/79556.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: 双星の陰陽師

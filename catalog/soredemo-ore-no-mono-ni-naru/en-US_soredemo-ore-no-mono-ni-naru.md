@@ -1,5 +1,7 @@
 # Soredemo Ore no Mono ni Naru
 
+![soredemo-ore-no-mono-ni-naru](https://cdn.myanimelist.net/images/manga/2/192568.jpg)
+
 -   **type**: manga
 -   **original-name**: それでも俺のものになる
 -   **start-date**: 2015-11-30

@@ -1,5 +1,7 @@
 # Sajou wo Yuku Hana
 
+![sajou-wo-yuku-hana](https://cdn.myanimelist.net/images/manga/2/42583.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Shounen Onmyouji
 
+![shounen-onmyouji](https://cdn.myanimelist.net/images/manga/3/17595.jpg)
+
 -   **type**: manga
 -   **chapters**: 6
 -   **original-name**: 少年陰陽師

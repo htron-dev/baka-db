@@ -1,5 +1,7 @@
 # Shibainuko-san
 
+![shibainuko-san](https://cdn.myanimelist.net/images/manga/2/179950.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 108

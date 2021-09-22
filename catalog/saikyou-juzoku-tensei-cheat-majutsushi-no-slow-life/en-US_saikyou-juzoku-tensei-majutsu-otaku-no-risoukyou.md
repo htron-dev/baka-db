@@ -1,5 +1,7 @@
 # Saikyou Juzoku Tensei: Majutsu Otaku no Risoukyou
 
+![saikyou-juzoku-tensei-majutsu-otaku-no-risoukyou](https://cdn.myanimelist.net/images/manga/1/213474.jpg)
+
 -   **type**: manga
 -   **original-name**: 最強呪族転生～魔術オタクの理想郷～
 -   **start-date**: 2018-05-25

@@ -1,5 +1,7 @@
 # Shiranai Kuni no Monogatari
 
+![shiranai-kuni-no-monogatari](https://cdn.myanimelist.net/images/manga/5/30397.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 知らない国の物語

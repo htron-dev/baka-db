@@ -1,5 +1,7 @@
 # Sakashita-sensei no Henai Shidou
 
+![sakashita-sensei-no-henai-shidou](https://cdn.myanimelist.net/images/manga/2/208386.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

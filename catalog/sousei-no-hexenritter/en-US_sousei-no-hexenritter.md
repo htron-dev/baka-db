@@ -1,5 +1,7 @@
 # Sousei no Hexenritter
 
+![sousei-no-hexenritter](https://cdn.myanimelist.net/images/manga/2/161044.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 10

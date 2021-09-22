@@ -1,5 +1,7 @@
 # Speedy Wonder
 
+![speedy-wonder](https://cdn.myanimelist.net/images/manga/1/171733.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 153

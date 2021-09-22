@@ -1,5 +1,7 @@
 # Shishunki - Sore wa Amaku Itai Koto
 
+![shishunki-sore-wa-amaku-itai-koto](https://cdn.myanimelist.net/images/manga/3/46403.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 思春期 ～それはあまく痛いコト。～

@@ -1,5 +1,7 @@
 # Soukyuu no Fafner: Arcadian Memory
 
+![soukyuu-no-fafner-arcadian-memory](https://cdn.myanimelist.net/images/anime/8/26384.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 蒼穹のファフナー Arcadian Memory

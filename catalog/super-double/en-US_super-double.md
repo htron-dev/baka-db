@@ -1,5 +1,7 @@
 # Super Double
 
+![super-double](https://cdn.myanimelist.net/images/manga/1/2280.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

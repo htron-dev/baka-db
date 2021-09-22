@@ -1,5 +1,7 @@
 # Shuffle Gakuen
 
+![shuffle-gakuen](https://cdn.myanimelist.net/images/manga/1/191021.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

@@ -1,5 +1,7 @@
 # Super Mario Brothers: Peach-hime Kyuushutsu Daisakusen!
 
+![super-mario-brothers-peach-hime-kyuushutsu-daisakusen](https://cdn.myanimelist.net/images/anime/9/10370.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: スーパーマリオブラザーズ　ピーチ姫救出大作戦!

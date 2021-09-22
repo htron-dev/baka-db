@@ -1,5 +1,7 @@
 # Sono Hitomi ni Inukarete
 
+![sono-hitomi-ni-inukarete](https://cdn.myanimelist.net/images/manga/3/193952.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

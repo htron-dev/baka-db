@@ -1,5 +1,7 @@
 # Sanda
 
+![sanda](https://cdn.myanimelist.net/images/manga/1/248266.jpg)
+
 -   **type**: manga
 -   **original-name**: SANDA
 -   **start-date**: 2021-07-21

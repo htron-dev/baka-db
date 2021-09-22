@@ -1,5 +1,7 @@
 # Saki Achiga-hen: Episode of Side-A
 
+![saki-achiga-hen-episode-of-side-a](https://cdn.myanimelist.net/images/anime/8/75513.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 咲-Saki-阿知賀編 episode of side-A

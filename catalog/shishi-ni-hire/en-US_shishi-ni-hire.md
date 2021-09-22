@@ -1,5 +1,7 @@
 # Shishi ni Hire
 
+![shishi-ni-hire](https://cdn.myanimelist.net/images/manga/2/239325.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Shinigami-sama ni Saigo no Onegai wo RE
 
+![shinigami-sama-ni-saigo-no-onegai-wo-re](https://cdn.myanimelist.net/images/manga/2/222469.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # Shounen Tantei Rock Holmes
 
+![shounen-tantei-rock-holmes](https://cdn.myanimelist.net/images/manga/1/72769.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 少年探偵ロック・ホ-ム

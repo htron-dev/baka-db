@@ -1,5 +1,7 @@
 # Seishun Scrap!
 
+![seishun-scrap](https://cdn.myanimelist.net/images/manga/3/155950.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

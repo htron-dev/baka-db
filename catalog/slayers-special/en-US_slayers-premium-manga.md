@@ -1,5 +1,7 @@
 # Slayers Premium
 
+![slayers-premium](https://cdn.myanimelist.net/images/manga/5/1928.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

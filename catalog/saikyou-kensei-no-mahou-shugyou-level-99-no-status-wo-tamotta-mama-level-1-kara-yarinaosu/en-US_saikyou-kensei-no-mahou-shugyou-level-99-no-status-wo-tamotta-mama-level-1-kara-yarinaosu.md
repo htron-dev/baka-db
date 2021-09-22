@@ -1,5 +1,7 @@
 # Saikyou Kensei no Mahou Shugyou: Level 99 no Status wo Tamotta Mama Level 1 kara Yarinaosu
 
+![saikyou-kensei-no-mahou-shugyou-level-99-no-status-wo-tamotta-mama-level-1-kara-yarinaosu](https://cdn.myanimelist.net/images/manga/1/246699.jpg)
+
 -   **type**: manga
 -   **original-name**: 最強剣聖の魔法修行　～レベル 99 のステータスを保ったままレベル 1 からやり直す～
 -   **start-date**: 2020-11-26

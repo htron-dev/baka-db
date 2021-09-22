@@ -1,5 +1,7 @@
 # Sukuwanakya Dame desu ka? Isekai
 
+![sukuwanakya-dame-desu-ka-isekai](https://cdn.myanimelist.net/images/manga/3/163321.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 救わなきゃダメですか? 異世界
 -   **start-date**: 2015-10-03

@@ -1,5 +1,7 @@
 # Shiro no Yuukyuu Kuro no Eien
 
+![shiro-no-yuukyuu-kuro-no-eien](https://cdn.myanimelist.net/images/manga/3/39057.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 白の悠久 黒の永遠

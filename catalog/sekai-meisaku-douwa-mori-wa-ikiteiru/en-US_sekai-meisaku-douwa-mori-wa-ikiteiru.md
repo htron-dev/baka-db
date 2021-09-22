@@ -1,5 +1,7 @@
 # Sekai Meisaku Douwa: Mori wa Ikiteiru
 
+![sekai-meisaku-douwa-mori-wa-ikiteiru](https://cdn.myanimelist.net/images/anime/8/48791.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 森は生きている

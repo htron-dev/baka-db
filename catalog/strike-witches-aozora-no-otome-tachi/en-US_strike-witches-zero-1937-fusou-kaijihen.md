@@ -1,5 +1,7 @@
 # Strike Witches Zero: 1937 Fusou Kaijihen
 
+![strike-witches-zero-1937-fusou-kaijihen](https://cdn.myanimelist.net/images/manga/4/86979.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

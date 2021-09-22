@@ -1,5 +1,7 @@
 # Shishuugoku
 
+![shishuugoku](https://cdn.myanimelist.net/images/manga/1/196502.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

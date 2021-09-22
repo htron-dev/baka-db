@@ -1,5 +1,7 @@
 # Sword Art Online: Mother's Rosario
 
+![sword-art-online-mothers-rosario](https://cdn.myanimelist.net/images/manga/1/145353.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

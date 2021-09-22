@@ -1,5 +1,7 @@
 # Shikkakumon no Saikyou Kenja
 
+![shikkakumon-no-saikyou-kenja](https://cdn.myanimelist.net/images/anime/1580/111441.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 失格紋の最強賢者
 -   **rating**: None

@@ -1,5 +1,7 @@
 # Seishun Danshi Shugei Club
 
+![seishun-danshi-shugei-club](https://cdn.myanimelist.net/images/manga/1/33510.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 青春男子手芸クラブ

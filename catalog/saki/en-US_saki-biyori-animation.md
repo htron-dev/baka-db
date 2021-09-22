@@ -1,5 +1,7 @@
 # Saki Biyori Animation
 
+![saki-biyori-animation](https://cdn.myanimelist.net/images/anime/4/69895.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 咲日和 Animation

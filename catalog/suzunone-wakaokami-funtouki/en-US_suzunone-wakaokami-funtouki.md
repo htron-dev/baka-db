@@ -1,5 +1,7 @@
 # Suzunone: Wakaokami? Funtouki
 
+![suzunone-wakaokami-funtouki](https://cdn.myanimelist.net/images/manga/3/88499.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: すずのね ~若女将？奮闘記~

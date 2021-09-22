@@ -1,5 +1,7 @@
 # Sango Shou Densetsu: Aoi Umi no Elfie
 
+![sango-shou-densetsu-aoi-umi-no-elfie](https://cdn.myanimelist.net/images/anime/8/53613.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: サンゴ礁伝説　青い海のエルフィ

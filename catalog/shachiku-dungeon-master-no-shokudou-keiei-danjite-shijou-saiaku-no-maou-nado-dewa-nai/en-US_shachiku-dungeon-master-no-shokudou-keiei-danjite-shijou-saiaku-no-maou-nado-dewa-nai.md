@@ -1,5 +1,7 @@
 # Shachiku Dungeon Master no Shokudou Keiei: Danjite Shijou Saiaku no Maou nado dewa Nai!!
 
+![shachiku-dungeon-master-no-shokudou-keiei-danjite-shijou-saiaku-no-maou-nado-dewa-nai](https://cdn.myanimelist.net/images/manga/3/239051.jpg)
+
 -   **type**: manga
 -   **original-name**: 社畜ダンジョンマスターの食堂経営 ～断じて史上最悪の魔王などでは無い!!～
 -   **start-date**: 2020-06-26

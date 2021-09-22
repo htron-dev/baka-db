@@ -1,5 +1,7 @@
 # Shirogane no Sword Breaker
 
+![shirogane-no-sword-breaker](https://cdn.myanimelist.net/images/manga/2/180071.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 白銀のソードブレイカー

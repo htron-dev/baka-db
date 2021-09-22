@@ -1,5 +1,7 @@
 # Strike Witches Gekijouban: 501 Butai Hasshin shimasu!
 
+![strike-witches-gekijouban-501-butai-hasshin-shimasu](https://cdn.myanimelist.net/images/manga/1/163949.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 37

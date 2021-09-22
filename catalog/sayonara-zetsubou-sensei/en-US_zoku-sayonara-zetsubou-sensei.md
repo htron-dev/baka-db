@@ -1,5 +1,7 @@
 # Zoku Sayonara Zetsubou Sensei
 
+![zoku-sayonara-zetsubou-sensei](https://cdn.myanimelist.net/images/anime/13/75517.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 俗・さよなら絶望先生

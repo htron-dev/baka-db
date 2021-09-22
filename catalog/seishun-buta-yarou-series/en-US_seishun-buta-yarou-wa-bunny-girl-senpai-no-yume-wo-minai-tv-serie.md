@@ -1,5 +1,7 @@
 # Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
 
+![seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-wo-minai](https://cdn.myanimelist.net/images/anime/1301/93586.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 青春ブタ野郎はバニーガール先輩の夢を見ない

@@ -1,5 +1,7 @@
 # Samayoeru Shinzou
 
+![samayoeru-shinzou](https://cdn.myanimelist.net/images/manga/1/149846.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

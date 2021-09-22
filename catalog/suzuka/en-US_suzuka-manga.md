@@ -1,5 +1,7 @@
 # Suzuka
 
+![suzuka](https://cdn.myanimelist.net/images/manga/2/184775.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 171

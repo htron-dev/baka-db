@@ -1,5 +1,7 @@
 # Sora no Otoshimono Final: Eternal My Master
 
+![sora-no-otoshimono-final-eternal-my-master](https://cdn.myanimelist.net/images/anime/3/58059.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: そらのおとしものＦｉｎａｌ永遠の私の鳥籠［エターナルマイマスター］

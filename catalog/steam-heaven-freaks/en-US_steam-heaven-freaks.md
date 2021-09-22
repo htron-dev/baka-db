@@ -1,5 +1,7 @@
 # Steam Heaven Freaks
 
+![steam-heaven-freaks](https://cdn.myanimelist.net/images/manga/2/200071.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 19

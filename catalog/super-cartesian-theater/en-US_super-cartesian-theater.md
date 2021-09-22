@@ -1,5 +1,7 @@
 # Super Cartesian Theater
 
+![super-cartesian-theater](https://cdn.myanimelist.net/images/manga/2/194335.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

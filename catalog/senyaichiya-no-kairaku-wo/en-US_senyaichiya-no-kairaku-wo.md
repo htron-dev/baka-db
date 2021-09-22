@@ -1,5 +1,7 @@
 # Senyaichiya no Kairaku wo
 
+![senyaichiya-no-kairaku-wo](https://cdn.myanimelist.net/images/manga/2/161563.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 千夜一夜の快楽を

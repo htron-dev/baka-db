@@ -1,5 +1,7 @@
 # Shakugan no Shana: Shana & Yuuji no Naze Nani Shana! Nandemo Shitsumonbako!
 
+![shakugan-no-shana-shana-yuuji-no-naze-nani-shana-nandemo-shitsumonbako](https://cdn.myanimelist.net/images/anime/8/46883.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: シャナ＆悠二の なぜなにシャナ！ なんでも質問箱！

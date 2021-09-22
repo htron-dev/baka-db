@@ -1,5 +1,7 @@
 # Kanashimi no Belladonna
 
+![kanashimi-no-belladonna](https://cdn.myanimelist.net/images/anime/11/24740.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 哀しみのベラドンナ

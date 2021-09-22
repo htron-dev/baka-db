@@ -1,5 +1,7 @@
 # Sayounara, to Kimi wa Te wo Futta
 
+![sayounara-to-kimi-wa-te-wo-futta](https://cdn.myanimelist.net/images/manga/2/62405.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Shoujo Fight
 
+![shoujo-fight](https://cdn.myanimelist.net/images/manga/3/7588.jpg)
+
 -   **type**: manga
 -   **original-name**: 少女ファイト
 -   **start-date**: 2005-12-27

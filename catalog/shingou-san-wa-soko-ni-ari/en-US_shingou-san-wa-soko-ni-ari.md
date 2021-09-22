@@ -1,5 +1,7 @@
 # Shingou-san wa Soko ni Ari
 
+![shingou-san-wa-soko-ni-ari](https://cdn.myanimelist.net/images/manga/3/235251.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Seishun Note
 
+![seishun-note](https://cdn.myanimelist.net/images/manga/3/158497.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

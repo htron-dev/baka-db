@@ -1,5 +1,7 @@
 # Short Kuromatsu
 
+![short-kuromatsu](https://cdn.myanimelist.net/images/manga/2/210077.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

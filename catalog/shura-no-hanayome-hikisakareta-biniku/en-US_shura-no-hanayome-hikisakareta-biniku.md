@@ -1,5 +1,7 @@
 # Shura no Hanayome: Hikisakareta Biniku
 
+![shura-no-hanayome-hikisakareta-biniku](https://cdn.myanimelist.net/images/manga/3/195849.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 修羅の花嫁　引き裂かれた媚肉

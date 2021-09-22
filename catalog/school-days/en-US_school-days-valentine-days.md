@@ -1,5 +1,7 @@
 # School Days: Valentine Days
 
+![school-days-valentine-days](https://cdn.myanimelist.net/images/anime/4/21483.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: School Days 「Valentine Days」

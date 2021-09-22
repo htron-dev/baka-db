@@ -1,5 +1,7 @@
 # Stitch!: Itazura Alien no Daibouken - Uchuu Ichi no Oniichan
 
+![stitch-itazura-alien-no-daibouken-uchuu-ichi-no-oniichan](https://cdn.myanimelist.net/images/anime/12/65583.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: スティッチ！～いたずらエイリアンの大冒険～ 宇宙一のお兄ちゃん

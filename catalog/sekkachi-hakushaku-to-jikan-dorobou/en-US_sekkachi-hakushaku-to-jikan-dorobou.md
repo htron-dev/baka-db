@@ -1,5 +1,7 @@
 # Sekkachi Hakushaku to Jikan Dorobou
 
+![sekkachi-hakushaku-to-jikan-dorobou](https://cdn.myanimelist.net/images/manga/2/117455.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 51

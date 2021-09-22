@@ -1,5 +1,7 @@
 # Saki-chan to Tennen-san
 
+![saki-chan-to-tennen-san](https://cdn.myanimelist.net/images/manga/2/175943.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # Sayonara Eden
 
+![sayonara-eden](https://cdn.myanimelist.net/images/manga/2/235719.jpg)
+
 -   **type**: manga
 -   **original-name**: さよならエデン
 -   **start-date**: 2020-01-17

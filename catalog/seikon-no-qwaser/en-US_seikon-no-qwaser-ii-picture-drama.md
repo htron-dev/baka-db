@@ -1,5 +1,7 @@
 # Seikon no Qwaser II Picture Drama
 
+![seikon-no-qwaser-ii-picture-drama](https://cdn.myanimelist.net/images/anime/3/30153.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: 聖痕のクェイサー II ピクチャードラマ

@@ -1,5 +1,7 @@
 # Shinmai Maou no Testament Burst Specials
 
+![shinmai-maou-no-testament-burst-specials](https://cdn.myanimelist.net/images/anime/10/79993.jpg)
+
 -   **type**: special
 -   **episodes**: 5
 -   **original-name**: 新妹魔王の契約者 BURST

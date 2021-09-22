@@ -1,5 +1,7 @@
 # Sekiganjuu Mitsuyoshi
 
+![sekiganjuu-mitsuyoshi](https://cdn.myanimelist.net/images/manga/3/179372.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 32

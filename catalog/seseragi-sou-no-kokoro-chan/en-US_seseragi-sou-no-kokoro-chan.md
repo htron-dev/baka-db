@@ -1,5 +1,7 @@
 # Seseragi-sou no Kokoro-chan
 
+![seseragi-sou-no-kokoro-chan](https://cdn.myanimelist.net/images/manga/2/206304.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

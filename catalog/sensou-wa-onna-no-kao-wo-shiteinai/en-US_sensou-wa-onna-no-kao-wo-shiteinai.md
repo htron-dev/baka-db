@@ -1,5 +1,7 @@
 # Sensou wa Onna no Kao wo Shiteinai
 
+![sensou-wa-onna-no-kao-wo-shiteinai](https://cdn.myanimelist.net/images/manga/3/225607.jpg)
+
 -   **type**: manga
 -   **original-name**: 戦争は女の顔をしていない
 -   **start-date**: 2019-04-27

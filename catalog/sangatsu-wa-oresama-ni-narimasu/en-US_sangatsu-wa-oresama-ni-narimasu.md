@@ -1,5 +1,7 @@
 # Sangatsu wa Oresama ni Narimasu
 
+![sangatsu-wa-oresama-ni-narimasu](https://cdn.myanimelist.net/images/manga/1/169984.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

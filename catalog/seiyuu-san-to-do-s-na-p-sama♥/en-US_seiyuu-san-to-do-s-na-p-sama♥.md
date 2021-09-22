@@ -1,5 +1,7 @@
 # Seiyuu-san to Do S na P-sama♥
 
+![seiyuu-san-to-do-s-na-p-sama♥](https://cdn.myanimelist.net/images/manga/2/232835.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

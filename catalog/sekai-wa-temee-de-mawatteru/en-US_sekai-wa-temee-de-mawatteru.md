@@ -1,5 +1,7 @@
 # Sekai wa Temee de Mawatteru
 
+![sekai-wa-temee-de-mawatteru](https://cdn.myanimelist.net/images/manga/2/22580.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

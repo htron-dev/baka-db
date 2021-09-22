@@ -1,5 +1,7 @@
 # Seitokaichou wa Geboku ni Naritai
 
+![seitokaichou-wa-geboku-ni-naritai](https://cdn.myanimelist.net/images/manga/2/240779.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

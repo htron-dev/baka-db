@@ -1,5 +1,7 @@
 # Shi Jie Bei Xing Ci Yuan
 
+![shi-jie-bei-xing-ci-yuan](https://cdn.myanimelist.net/images/anime/1391/115518.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: 世界杯星次元

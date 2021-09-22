@@ -1,5 +1,7 @@
 # Sable Prince
 
+![sable-prince](https://cdn.myanimelist.net/images/manga/2/22183.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

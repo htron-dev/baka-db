@@ -1,5 +1,7 @@
 # Sukitte Ii na yo.: Dareka ga
 
+![sukitte-ii-na-yo-dareka-ga](https://cdn.myanimelist.net/images/anime/13/53861.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 好きっていいなよ。「誰かが」

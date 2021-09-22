@@ -1,5 +1,7 @@
 # Sweet Little Devil
 
+![sweet-little-devil](https://cdn.myanimelist.net/images/manga/3/80677.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

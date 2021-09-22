@@ -1,5 +1,7 @@
 # Sekai Meisaku Douwa: Hakuchou no Ouji
 
+![sekai-meisaku-douwa-hakuchou-no-ouji](https://cdn.myanimelist.net/images/anime/10/78477.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 世界名作童話 白鳥の王子

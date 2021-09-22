@@ -1,5 +1,7 @@
 # Yatsugare!! Otokojuku
 
+![yatsugare-otokojuku](https://cdn.myanimelist.net/images/manga/1/224807.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 25

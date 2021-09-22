@@ -1,5 +1,7 @@
 # Sensei de ○○ Shicha Ikemasen!
 
+![sensei-de-○○-shicha-ikemasen](https://cdn.myanimelist.net/images/manga/3/235094.jpg)
+
 -   **type**: manga
 -   **original-name**: 先生で ○○ しちゃいけません!
 -   **start-date**: 2019-04-30

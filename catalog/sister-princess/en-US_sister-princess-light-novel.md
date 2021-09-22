@@ -1,5 +1,7 @@
 # Sister Princess
 
+![sister-princess](https://cdn.myanimelist.net/images/manga/1/11510.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 12
 -   **chapters**: 54

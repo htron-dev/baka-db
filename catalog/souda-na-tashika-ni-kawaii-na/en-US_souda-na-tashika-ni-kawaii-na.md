@@ -1,5 +1,7 @@
 # Souda na, Tashika ni Kawaii na
 
+![souda-na-tashika-ni-kawaii-na](https://cdn.myanimelist.net/images/manga/1/235659.jpg)
+
 -   **type**: light-novel
 -   **original-name**: そうだな、確かに可愛いな
 -   **start-date**: 2020-02-25

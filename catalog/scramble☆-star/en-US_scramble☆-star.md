@@ -1,5 +1,7 @@
 # Scramble☆Star
 
+![scramble☆-star](https://cdn.myanimelist.net/images/manga/3/228442.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

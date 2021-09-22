@@ -1,5 +1,7 @@
 # Sazae-san
 
+![sazae-san](https://cdn.myanimelist.net/images/manga/3/184043.jpg)
+
 -   **type**: manga
 -   **volumes**: 45
 -   **chapters**: 6477

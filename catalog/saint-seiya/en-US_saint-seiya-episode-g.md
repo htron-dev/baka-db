@@ -1,5 +1,7 @@
 # Saint Seiya Episode G
 
+![saint-seiya-episode-g](https://cdn.myanimelist.net/images/manga/3/163118.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 87

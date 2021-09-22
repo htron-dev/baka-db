@@ -1,5 +1,7 @@
 # Senjou no Valkyria: Gallian Chronicles
 
+![senjou-no-valkyria-gallian-chronicles](https://cdn.myanimelist.net/images/manga/1/15795.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 14

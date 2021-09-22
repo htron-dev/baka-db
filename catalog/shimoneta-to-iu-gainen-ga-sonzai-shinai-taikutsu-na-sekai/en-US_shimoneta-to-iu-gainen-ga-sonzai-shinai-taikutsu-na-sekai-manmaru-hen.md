@@ -1,5 +1,7 @@
 # Shimoneta to Iu Gainen ga Sonzai shinai Taikutsu na Sekai: Manmaru-hen
 
+![shimoneta-to-iu-gainen-ga-sonzai-shinai-taikutsu-na-sekai-manmaru-hen](https://cdn.myanimelist.net/images/manga/2/152049.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

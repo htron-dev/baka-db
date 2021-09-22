@@ -1,5 +1,7 @@
 # Suki nante Iwantoite
 
+![suki-nante-iwantoite](https://cdn.myanimelist.net/images/manga/1/225936.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

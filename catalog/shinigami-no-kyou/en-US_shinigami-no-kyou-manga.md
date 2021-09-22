@@ -1,5 +1,7 @@
 # Shinigami no Kyou
 
+![shinigami-no-kyou](https://cdn.myanimelist.net/images/manga/2/119705.jpg)
+
 -   **type**: manga
 -   **original-name**: 死神のキョウ
 -   **start-date**: 2010-10-27

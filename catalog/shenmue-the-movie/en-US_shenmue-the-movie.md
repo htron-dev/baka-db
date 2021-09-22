@@ -1,5 +1,7 @@
 # Shenmue: The Movie
 
+![shenmue-the-movie](https://cdn.myanimelist.net/images/anime/8/8654.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: シェンムー・ザ・ムービー

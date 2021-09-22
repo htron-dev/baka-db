@@ -1,5 +1,7 @@
 # Sasakure Journal
 
+![sasakure-journal](https://cdn.myanimelist.net/images/manga/3/231223.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ささくれジャーナル

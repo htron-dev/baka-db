@@ -1,5 +1,7 @@
 # Sora no Hito
 
+![sora-no-hito](https://cdn.myanimelist.net/images/manga/2/40470.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

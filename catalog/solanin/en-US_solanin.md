@@ -1,5 +1,7 @@
 # Solanin
 
+![solanin](https://cdn.myanimelist.net/images/manga/2/179699.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 28

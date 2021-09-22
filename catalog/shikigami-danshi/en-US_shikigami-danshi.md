@@ -1,5 +1,7 @@
 # Shikigami Danshi
 
+![shikigami-danshi](https://cdn.myanimelist.net/images/manga/3/168282.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

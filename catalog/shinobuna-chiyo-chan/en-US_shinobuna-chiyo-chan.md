@@ -1,5 +1,7 @@
 # Shinobuna! Chiyo-chan
 
+![shinobuna-chiyo-chan](https://cdn.myanimelist.net/images/manga/3/222073.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 31

@@ -1,5 +1,7 @@
 # Saseyo Eroika
 
+![saseyo-eroika](https://cdn.myanimelist.net/images/manga/1/166326.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 42

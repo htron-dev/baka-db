@@ -1,5 +1,7 @@
 # Seiju no Kuni no Kinjutsukai
 
+![seiju-no-kuni-no-kinjutsukai](https://cdn.myanimelist.net/images/manga/3/177703.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 聖樹の国の禁呪使い
 -   **start-date**: 2014-10-25

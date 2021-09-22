@@ -1,5 +1,7 @@
 # Suginami Kuritsu Mahou Jogakuen Heiwa Iji-bu
 
+![suginami-kuritsu-mahou-jogakuen-heiwa-iji-bu](https://cdn.myanimelist.net/images/manga/2/216115.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

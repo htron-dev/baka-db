@@ -1,5 +1,7 @@
 # Sekirei: Hajimete no Otsukai
 
+![sekirei-hajimete-no-otsukai](https://cdn.myanimelist.net/images/anime/9/22580.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: セキレイ「初メテノオツカイ」

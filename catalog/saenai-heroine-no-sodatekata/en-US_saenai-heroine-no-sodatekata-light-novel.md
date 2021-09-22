@@ -1,5 +1,7 @@
 # Saenai Heroine no Sodatekata
 
+![saenai-heroine-no-sodatekata](https://cdn.myanimelist.net/images/manga/3/145019.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 13
 -   **chapters**: 120

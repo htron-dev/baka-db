@@ -1,5 +1,7 @@
 # Senpuu Z
 
+![senpuu-z](https://cdn.myanimelist.net/images/manga/1/237815.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 旋風Ｚ

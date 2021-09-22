@@ -1,5 +1,7 @@
 # Senjuushi: Gendaijuu no Heya
 
+![senjuushi-gendaijuu-no-heya](https://cdn.myanimelist.net/images/anime/1807/97904.jpg)
+
 -   **type**: special
 -   **episodes**: 17
 -   **original-name**: 千銃士 ミニアニメ 現代銃の部屋

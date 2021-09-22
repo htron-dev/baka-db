@@ -1,5 +1,7 @@
 # Satuki Bare!
 
+![satuki-bare](https://cdn.myanimelist.net/images/manga/2/150041.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: さつきばれっ!

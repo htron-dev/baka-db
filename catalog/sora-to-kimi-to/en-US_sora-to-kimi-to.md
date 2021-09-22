@@ -1,5 +1,7 @@
 # Sora to Kimi to.
 
+![sora-to-kimi-to](https://cdn.myanimelist.net/images/manga/2/142751.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

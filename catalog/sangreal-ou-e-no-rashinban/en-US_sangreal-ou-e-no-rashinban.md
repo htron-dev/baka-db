@@ -1,5 +1,7 @@
 # Sangreal: Ou e no Rashinban
 
+![sangreal-ou-e-no-rashinban](https://cdn.myanimelist.net/images/manga/1/227023.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

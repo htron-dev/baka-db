@@ -1,5 +1,7 @@
 # Suna wo Kizamu Hari
 
+![suna-wo-kizamu-hari](https://cdn.myanimelist.net/images/manga/1/119691.jpg)
+
 -   **type**: manga
 -   **original-name**: 砂を刻む針
 -   **start-date**: 2013-12-21

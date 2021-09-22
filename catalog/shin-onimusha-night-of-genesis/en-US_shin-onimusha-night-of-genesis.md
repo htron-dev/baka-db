@@ -1,5 +1,7 @@
 # Shin Onimusha: Night of Genesis
 
+![shin-onimusha-night-of-genesis](https://cdn.myanimelist.net/images/manga/2/196862.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 6

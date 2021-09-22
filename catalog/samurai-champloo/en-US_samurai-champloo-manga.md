@@ -1,5 +1,7 @@
 # Samurai Champloo
 
+![samurai-champloo](https://cdn.myanimelist.net/images/manga/3/56743.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

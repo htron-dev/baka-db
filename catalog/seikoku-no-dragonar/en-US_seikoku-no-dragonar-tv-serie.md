@@ -1,5 +1,7 @@
 # Seikoku no Dragonar
 
+![seikoku-no-dragonar](https://cdn.myanimelist.net/images/anime/13/56419.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 星刻の竜騎士

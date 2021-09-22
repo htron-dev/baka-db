@@ -1,5 +1,7 @@
 # Sankarea OVA
 
+![sankarea-ova](https://cdn.myanimelist.net/images/anime/4/79032.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: さんかれあ

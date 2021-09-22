@@ -1,5 +1,7 @@
 # Shima Shima Tora no Shimajirou no Shouboutai
 
+![shima-shima-tora-no-shimajirou-no-shouboutai](https://cdn.myanimelist.net/images/anime/1527/98677.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: しましまとらのしまじろうの消防隊

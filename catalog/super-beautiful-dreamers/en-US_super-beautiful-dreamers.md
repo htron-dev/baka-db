@@ -1,5 +1,7 @@
 # Super Beautiful Dreamers
 
+![super-beautiful-dreamers](https://cdn.myanimelist.net/images/manga/2/16553.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

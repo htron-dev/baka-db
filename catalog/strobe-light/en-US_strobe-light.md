@@ -1,5 +1,7 @@
 # Strobe Light
 
+![strobe-light](https://cdn.myanimelist.net/images/manga/3/70095.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

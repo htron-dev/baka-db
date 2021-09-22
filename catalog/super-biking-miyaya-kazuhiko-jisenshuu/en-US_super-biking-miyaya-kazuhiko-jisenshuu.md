@@ -1,5 +1,7 @@
 # Super Biking: Miyaya Kazuhiko Jisenshuu
 
+![super-biking-miyaya-kazuhiko-jisenshuu](https://cdn.myanimelist.net/images/manga/2/247971.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

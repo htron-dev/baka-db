@@ -1,5 +1,7 @@
 # Shi Ye Miao Yin
 
+![shi-ye-miao-yin](https://cdn.myanimelist.net/images/anime/1429/110608.jpg)
+
 -   **type**: ona
 -   **original-name**: 识夜描银
 -   **rating**: None

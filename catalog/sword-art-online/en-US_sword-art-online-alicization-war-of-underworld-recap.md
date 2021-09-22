@@ -1,5 +1,7 @@
 # Sword Art Online: Alicization - War of Underworld Recap
 
+![sword-art-online-alicization-war-of-underworld-recap](https://cdn.myanimelist.net/images/anime/1946/106255.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 「アリシゼーション WoU」1st クール総集編

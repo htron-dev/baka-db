@@ -1,5 +1,7 @@
 # Shiawase Kanako no Koroshiya Seikatsu
 
+![shiawase-kanako-no-koroshiya-seikatsu](https://cdn.myanimelist.net/images/manga/1/213442.jpg)
+
 -   **type**: manga
 -   **original-name**: 幸せカナコの殺し屋生活
 -   **start-date**: 2019-04-26

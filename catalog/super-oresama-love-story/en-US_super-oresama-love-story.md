@@ -1,5 +1,7 @@
 # Super Oresama Love Story
 
+![super-oresama-love-story](https://cdn.myanimelist.net/images/manga/2/62225.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

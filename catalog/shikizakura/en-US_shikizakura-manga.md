@@ -1,5 +1,7 @@
 # Shikizakura
 
+![shikizakura](https://cdn.myanimelist.net/images/manga/2/249908.jpg)
+
 -   **type**: manga
 -   **original-name**: シキザクラ
 -   **start-date**: 2020-12-25

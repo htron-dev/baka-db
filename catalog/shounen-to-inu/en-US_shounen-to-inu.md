@@ -1,5 +1,7 @@
 # Shounen to Inu
 
+![shounen-to-inu](https://cdn.myanimelist.net/images/manga/3/139967.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

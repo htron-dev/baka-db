@@ -1,5 +1,7 @@
 # Sidekick★Fighting Rule
 
+![sidekick★-fighting-rule](https://cdn.myanimelist.net/images/manga/2/176211.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

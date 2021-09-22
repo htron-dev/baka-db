@@ -1,5 +1,7 @@
 # Soul Reviver South
 
+![soul-reviver-south](https://cdn.myanimelist.net/images/manga/1/172136.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

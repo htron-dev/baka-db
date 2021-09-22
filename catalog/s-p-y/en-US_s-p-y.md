@@ -1,5 +1,7 @@
 # S.P.Y.
 
+![s-p-y](https://cdn.myanimelist.net/images/manga/5/89527.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

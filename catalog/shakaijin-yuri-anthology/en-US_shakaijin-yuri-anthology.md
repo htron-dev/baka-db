@@ -1,5 +1,7 @@
 # Shakaijin Yuri Anthology
 
+![shakaijin-yuri-anthology](https://cdn.myanimelist.net/images/manga/1/227370.jpg)
+
 -   **type**: manga
 -   **original-name**: 社会人百合アンソロジー
 -   **start-date**: 2018-04-27

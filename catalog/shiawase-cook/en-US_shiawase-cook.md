@@ -1,5 +1,7 @@
 # Shiawase Cook
 
+![shiawase-cook](https://cdn.myanimelist.net/images/manga/2/2111.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

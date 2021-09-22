@@ -1,5 +1,7 @@
 # Shakunetsu no Takkyuu Musume
 
+![shakunetsu-no-takkyuu-musume](https://cdn.myanimelist.net/images/manga/3/174705.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 32

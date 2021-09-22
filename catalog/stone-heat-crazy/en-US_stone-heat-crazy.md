@@ -1,5 +1,7 @@
 # Stone Heat Crazy
 
+![stone-heat-crazy](https://cdn.myanimelist.net/images/manga/1/131557.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ストーン ヒート クレイジー

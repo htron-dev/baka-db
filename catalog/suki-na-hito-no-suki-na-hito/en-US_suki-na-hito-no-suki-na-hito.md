@@ -1,5 +1,7 @@
 # Suki na Hito no Suki na Hito
 
+![suki-na-hito-no-suki-na-hito](https://cdn.myanimelist.net/images/manga/3/240827.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

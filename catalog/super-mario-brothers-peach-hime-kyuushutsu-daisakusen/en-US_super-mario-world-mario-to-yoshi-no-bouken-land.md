@@ -1,5 +1,7 @@
 # Super Mario World: Mario to Yoshi no Bouken Land
 
+![super-mario-world-mario-to-yoshi-no-bouken-land](https://cdn.myanimelist.net/images/anime/12/78065.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: スーパーマリオワールド マリオとヨッシーの冒険ランド

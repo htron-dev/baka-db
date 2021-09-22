@@ -1,5 +1,7 @@
 # Sono Kao Mitara, Gaman wa Dekinai
 
+![sono-kao-mitara-gaman-wa-dekinai](https://cdn.myanimelist.net/images/manga/1/227188.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

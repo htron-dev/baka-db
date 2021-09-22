@@ -1,5 +1,7 @@
 # Shigofumi
 
+![shigofumi](https://cdn.myanimelist.net/images/anime/4/50787.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: シゴフミ

@@ -1,5 +1,7 @@
 # Santa Company
 
+![santa-company](https://cdn.myanimelist.net/images/anime/5/44195.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: サンタ・カンパニー

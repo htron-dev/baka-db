@@ -1,5 +1,7 @@
 # Sasen mo Warukunai
 
+![sasen-mo-warukunai](https://cdn.myanimelist.net/images/manga/1/186475.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

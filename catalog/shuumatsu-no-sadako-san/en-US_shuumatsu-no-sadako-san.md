@@ -1,5 +1,7 @@
 # Shuumatsu no Sadako-san
 
+![shuumatsu-no-sadako-san](https://cdn.myanimelist.net/images/manga/2/228349.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

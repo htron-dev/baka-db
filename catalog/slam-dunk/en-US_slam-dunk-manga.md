@@ -1,5 +1,7 @@
 # Slam Dunk
 
+![slam-dunk](https://cdn.myanimelist.net/images/manga/2/157904.jpg)
+
 -   **type**: manga
 -   **volumes**: 31
 -   **chapters**: 276

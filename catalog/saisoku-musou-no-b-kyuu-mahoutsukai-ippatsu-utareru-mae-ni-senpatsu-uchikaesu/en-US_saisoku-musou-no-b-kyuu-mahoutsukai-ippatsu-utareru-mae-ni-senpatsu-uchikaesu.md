@@ -1,5 +1,7 @@
 # Saisoku Musou no B-kyuu Mahoutsukai: Ippatsu Utareru Mae ni Senpatsu Uchikaesu!
 
+![saisoku-musou-no-b-kyuu-mahoutsukai-ippatsu-utareru-mae-ni-senpatsu-uchikaesu](https://cdn.myanimelist.net/images/manga/3/244741.jpg)
+
 -   **type**: manga
 -   **original-name**: 最速無双の B 級魔法使い 一発撃たれる前に千発撃ち返す!
 -   **start-date**: 2020-01-13

@@ -1,5 +1,7 @@
 # Starry☆Sky: In Autumn - Comic Anthology
 
+![starry☆-sky-in-autumn-comic-anthology](https://cdn.myanimelist.net/images/manga/3/28417.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

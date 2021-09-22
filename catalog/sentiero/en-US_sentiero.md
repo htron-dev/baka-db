@@ -1,5 +1,7 @@
 # Sentiero
 
+![sentiero](https://cdn.myanimelist.net/images/manga/2/64101.jpg)
+
 -   **type**: manga
 -   **original-name**: 小径
 

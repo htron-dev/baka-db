@@ -1,5 +1,7 @@
 # Strobe Switch
 
+![strobe-switch](https://cdn.myanimelist.net/images/manga/2/72097.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

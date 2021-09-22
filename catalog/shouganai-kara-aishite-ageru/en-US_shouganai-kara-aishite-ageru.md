@@ -1,5 +1,7 @@
 # Shouganai kara Aishite Ageru
 
+![shouganai-kara-aishite-ageru](https://cdn.myanimelist.net/images/manga/1/246477.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

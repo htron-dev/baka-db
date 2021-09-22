@@ -1,5 +1,7 @@
 # Samenai Yume
 
+![samenai-yume](https://cdn.myanimelist.net/images/manga/1/106721.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

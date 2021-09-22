@@ -1,5 +1,7 @@
 # Sensei no Boku
 
+![sensei-no-boku](https://cdn.myanimelist.net/images/manga/3/42116.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: せんせいのぼく

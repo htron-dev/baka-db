@@ -1,5 +1,7 @@
 # Sagara: S no Dousotai
 
+![sagara-s-no-dousotai](https://cdn.myanimelist.net/images/manga/3/216101.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 71

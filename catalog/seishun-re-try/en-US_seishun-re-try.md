@@ -1,5 +1,7 @@
 # Seishun Re:Try
 
+![seishun-re-try](https://cdn.myanimelist.net/images/manga/3/183737.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

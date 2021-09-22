@@ -1,5 +1,7 @@
 # Shuu 7
 
+![shuu-7](https://cdn.myanimelist.net/images/manga/5/84193.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

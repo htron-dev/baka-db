@@ -1,5 +1,7 @@
 # Superior Cross
 
+![superior-cross](https://cdn.myanimelist.net/images/manga/1/144349.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 28

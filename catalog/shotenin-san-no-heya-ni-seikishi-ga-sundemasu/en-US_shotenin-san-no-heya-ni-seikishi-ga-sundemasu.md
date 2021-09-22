@@ -1,5 +1,7 @@
 # Shotenin-san no Heya ni Seikishi ga Sundemasu.
 
+![shotenin-san-no-heya-ni-seikishi-ga-sundemasu](https://cdn.myanimelist.net/images/manga/2/206847.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

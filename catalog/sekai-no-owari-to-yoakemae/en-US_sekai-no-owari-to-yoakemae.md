@@ -1,5 +1,7 @@
 # Sekai no Owari to Yoakemae
 
+![sekai-no-owari-to-yoakemae](https://cdn.myanimelist.net/images/manga/3/199450.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

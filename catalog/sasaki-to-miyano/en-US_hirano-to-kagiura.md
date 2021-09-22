@@ -1,5 +1,7 @@
 # Hirano to Kagiura
 
+![hirano-to-kagiura](https://cdn.myanimelist.net/images/manga/2/221355.jpg)
+
 -   **type**: manga
 -   **original-name**: 平野と鍵浦
 -   **start-date**: 2019-03-15

@@ -1,5 +1,7 @@
 # Saraba, Yoki Hi
 
+![saraba-yoki-hi](https://cdn.myanimelist.net/images/manga/3/175918.jpg)
+
 -   **type**: manga
 -   **original-name**: さらば、佳き日
 -   **start-date**: 2015-02-14

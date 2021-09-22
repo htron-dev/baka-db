@@ -1,5 +1,7 @@
 # Seirei Gensouki
 
+![seirei-gensouki](https://cdn.myanimelist.net/images/manga/3/204985.jpg)
+
 -   **type**: manga
 -   **original-name**: 精霊幻想記
 -   **start-date**: 2017-07-07

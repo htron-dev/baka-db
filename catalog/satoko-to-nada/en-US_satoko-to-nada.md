@@ -1,5 +1,7 @@
 # Satoko to Nada
 
+![satoko-to-nada](https://cdn.myanimelist.net/images/manga/1/200648.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: サトコとナダ

@@ -1,5 +1,7 @@
 # Saiminjutsu Nyuumon
 
+![saiminjutsu-nyuumon](https://cdn.myanimelist.net/images/manga/1/143057.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

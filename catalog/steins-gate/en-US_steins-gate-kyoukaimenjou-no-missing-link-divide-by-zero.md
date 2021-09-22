@@ -1,5 +1,7 @@
 # Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero
 
+![steins-gate-kyoukaimenjou-no-missing-link-divide-by-zero](https://cdn.myanimelist.net/images/anime/7/77324.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: シュタインズ・ゲート境界面上のミッシングリンク-Divide By Zero-

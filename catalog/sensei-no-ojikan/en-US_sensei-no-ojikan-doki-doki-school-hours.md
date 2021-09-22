@@ -1,5 +1,7 @@
 # Sensei no Ojikan: Doki Doki School Hours
 
+![sensei-no-ojikan-doki-doki-school-hours](https://cdn.myanimelist.net/images/anime/9/65565.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: せんせいのお時間

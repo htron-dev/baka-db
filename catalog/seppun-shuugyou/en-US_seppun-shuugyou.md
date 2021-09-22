@@ -1,5 +1,7 @@
 # Seppun Shuugyou
 
+![seppun-shuugyou](https://cdn.myanimelist.net/images/manga/3/168436.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

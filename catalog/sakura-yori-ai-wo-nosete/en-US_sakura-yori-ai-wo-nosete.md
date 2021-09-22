@@ -1,5 +1,7 @@
 # Sakura Yori Ai wo Nosete
 
+![sakura-yori-ai-wo-nosete](https://cdn.myanimelist.net/images/anime/10/71585.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: サクラより愛をのせて

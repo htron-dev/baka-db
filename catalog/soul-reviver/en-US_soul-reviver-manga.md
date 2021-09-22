@@ -1,5 +1,7 @@
 # Soul Reviver
 
+![soul-reviver](https://cdn.myanimelist.net/images/manga/2/78265.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 36

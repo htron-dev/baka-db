@@ -1,5 +1,7 @@
 # Surumeika
 
+![surumeika](https://cdn.myanimelist.net/images/manga/1/178390.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 79

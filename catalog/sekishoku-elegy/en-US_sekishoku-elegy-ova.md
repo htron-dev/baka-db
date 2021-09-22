@@ -1,5 +1,7 @@
 # Sekishoku Elegy
 
+![sekishoku-elegy](https://cdn.myanimelist.net/images/anime/6/13997.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 赤色エレジー

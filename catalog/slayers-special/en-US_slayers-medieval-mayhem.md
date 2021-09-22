@@ -1,5 +1,7 @@
 # Slayers: Medieval Mayhem
 
+![slayers-medieval-mayhem](https://cdn.myanimelist.net/images/manga/2/33354.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

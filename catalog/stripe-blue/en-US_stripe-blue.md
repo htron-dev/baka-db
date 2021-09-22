@@ -1,5 +1,7 @@
 # Stripe Blue
 
+![stripe-blue](https://cdn.myanimelist.net/images/manga/3/6762.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: ストライプ・ブルー

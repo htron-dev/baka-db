@@ -1,5 +1,7 @@
 # Soukon no Shoujo to Sourei no Tabi
 
+![soukon-no-shoujo-to-sourei-no-tabi](https://cdn.myanimelist.net/images/manga/3/220789.jpg)
+
 -   **type**: manga
 -   **original-name**: 送魂の少女と葬礼の旅
 -   **start-date**: 2018-06-24

@@ -1,5 +1,7 @@
 # Shikabane Hime: Aka
 
+![shikabane-hime-aka](https://cdn.myanimelist.net/images/anime/10/20544.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 屍姫 赫

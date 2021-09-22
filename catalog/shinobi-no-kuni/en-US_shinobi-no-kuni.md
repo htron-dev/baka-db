@@ -1,5 +1,7 @@
 # Shinobi no Kuni
 
+![shinobi-no-kuni](https://cdn.myanimelist.net/images/manga/2/42818.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

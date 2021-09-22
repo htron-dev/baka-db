@@ -1,5 +1,7 @@
 # Shamo
 
+![shamo](https://cdn.myanimelist.net/images/manga/1/148319.jpg)
+
 -   **type**: manga
 -   **volumes**: 34
 -   **chapters**: 338

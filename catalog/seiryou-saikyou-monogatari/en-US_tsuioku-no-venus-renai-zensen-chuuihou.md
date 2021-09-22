@@ -1,5 +1,7 @@
 # Tsuioku no Venus! - Renai Zensen Chuuihou
 
+![tsuioku-no-venus-renai-zensen-chuuihou](https://cdn.myanimelist.net/images/manga/1/17924.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 追憶のビーナス！　－恋愛前線注意報ー

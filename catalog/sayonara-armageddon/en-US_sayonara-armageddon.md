@@ -1,5 +1,7 @@
 # Sayonara Armageddon
 
+![sayonara-armageddon](https://cdn.myanimelist.net/images/manga/1/157784.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

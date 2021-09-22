@@ -1,5 +1,7 @@
 # Shounen Maid
 
+![shounen-maid](https://cdn.myanimelist.net/images/anime/5/79411.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 少年メイド

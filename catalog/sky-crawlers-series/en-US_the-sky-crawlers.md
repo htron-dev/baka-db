@@ -1,5 +1,7 @@
 # The Sky Crawlers
 
+![the-sky-crawlers](https://cdn.myanimelist.net/images/anime/8/8212.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: スカイ・クロラ

@@ -1,5 +1,7 @@
 # Shukyuden - Field no Okami FW Jin
 
+![shukyuden-field-no-okami-fw-jin](https://cdn.myanimelist.net/images/manga/2/31986.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

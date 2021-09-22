@@ -1,5 +1,7 @@
 # Saredo Tsumibito wa Ryuu to Odoru: Dances with the Dragons
 
+![saredo-tsumibito-wa-ryuu-to-odoru-dances-with-the-dragons](https://cdn.myanimelist.net/images/manga/3/109069.jpg)
+
 -   **type**: light-novel
 -   **original-name**: されど罪人は竜と踊る Dances with the Dragons
 -   **start-date**: 2008-05-20

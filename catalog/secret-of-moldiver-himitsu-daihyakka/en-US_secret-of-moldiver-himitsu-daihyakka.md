@@ -1,5 +1,7 @@
 # Secret of Moldiver: Himitsu Daihyakka
 
+![secret-of-moldiver-himitsu-daihyakka](https://cdn.myanimelist.net/images/anime/1460/100975.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: シークレット・オブ・モルダイバー ひみつ大百科

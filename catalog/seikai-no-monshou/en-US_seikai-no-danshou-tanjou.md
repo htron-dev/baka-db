@@ -1,5 +1,7 @@
 # Seikai no Danshou: Tanjou
 
+![seikai-no-danshou-tanjou](https://cdn.myanimelist.net/images/anime/12/61103.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 星界の断章 “誕生”

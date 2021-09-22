@@ -1,5 +1,7 @@
 # Shiba-kun to Shepherd-san
 
+![shiba-kun-to-shepherd-san](https://cdn.myanimelist.net/images/manga/2/223747.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

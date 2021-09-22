@@ -1,5 +1,7 @@
 # Sukitte Ii na yo.: Mei and Marshmallow
 
+![sukitte-ii-na-yo-mei-and-marshmallow](https://cdn.myanimelist.net/images/anime/7/46551.jpg)
+
 -   **type**: special
 -   **episodes**: 10
 -   **original-name**: 好きっていいなよ。

@@ -1,5 +1,7 @@
 # Sawatari-san Chi no Ragnarok
 
+![sawatari-san-chi-no-ragnarok](https://cdn.myanimelist.net/images/manga/3/160175.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

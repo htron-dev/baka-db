@@ -1,5 +1,7 @@
 # Shiwo-chan to Boku
 
+![shiwo-chan-to-boku](https://cdn.myanimelist.net/images/manga/3/200444.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 73

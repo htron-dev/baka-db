@@ -1,5 +1,7 @@
 # Sokuhi Shigan!
 
+![sokuhi-shigan](https://cdn.myanimelist.net/images/manga/2/194466.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 側妃志願！
 -   **start-date**: 2014-08-22

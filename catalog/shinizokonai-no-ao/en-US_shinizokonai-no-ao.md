@@ -1,5 +1,7 @@
 # Shinizokonai no Ao
 
+![shinizokonai-no-ao](https://cdn.myanimelist.net/images/manga/5/130159.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 死にぞこないの青

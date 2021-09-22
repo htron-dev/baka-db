@@ -1,5 +1,7 @@
 # Suicide Line
 
+![suicide-line](https://cdn.myanimelist.net/images/manga/1/236770.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

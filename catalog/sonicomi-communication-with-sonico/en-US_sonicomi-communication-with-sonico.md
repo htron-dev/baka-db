@@ -1,5 +1,7 @@
 # Sonicomi - Communication with Sonico
 
+![sonicomi-communication-with-sonico](https://cdn.myanimelist.net/images/manga/1/109333.jpg)
+
 -   **type**: manga
 -   **original-name**: ソニコミ Communication with Sonico
 -   **start-date**: 2012-03-30

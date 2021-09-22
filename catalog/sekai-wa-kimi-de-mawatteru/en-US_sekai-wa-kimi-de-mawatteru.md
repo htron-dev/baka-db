@@ -1,5 +1,7 @@
 # Sekai wa Kimi de Mawatteru
 
+![sekai-wa-kimi-de-mawatteru](https://cdn.myanimelist.net/images/manga/2/96293.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

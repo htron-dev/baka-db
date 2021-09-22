@@ -1,5 +1,7 @@
 # Suiton Kikou
 
+![suiton-kikou](https://cdn.myanimelist.net/images/manga/3/223777.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 19

@@ -1,5 +1,7 @@
 # Saikyou Majutsushi no Ijou naru Toubou Seikatsu
 
+![saikyou-majutsushi-no-ijou-naru-toubou-seikatsu](https://cdn.myanimelist.net/images/manga/3/190663.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 最凶魔術師の異常なる逃亡生活
 -   **start-date**: 2015-12-12

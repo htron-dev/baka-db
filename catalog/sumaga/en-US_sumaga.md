@@ -1,5 +1,7 @@
 # Sumaga
 
+![sumaga](https://cdn.myanimelist.net/images/manga/2/172019.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 17

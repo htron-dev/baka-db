@@ -1,5 +1,7 @@
 # Southern Cross
 
+![southern-cross](https://cdn.myanimelist.net/images/manga/2/79579.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: サザンクロス

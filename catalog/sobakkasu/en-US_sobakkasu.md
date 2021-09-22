@@ -1,5 +1,7 @@
 # Sobakkasu!
 
+![sobakkasu](https://cdn.myanimelist.net/images/manga/1/34742.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: そばっかす!

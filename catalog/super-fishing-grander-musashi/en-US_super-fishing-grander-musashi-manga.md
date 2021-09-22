@@ -1,5 +1,7 @@
 # Super Fishing Grander Musashi
 
+![super-fishing-grander-musashi](https://cdn.myanimelist.net/images/manga/4/92643.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: スーパーフィッシング グランダー武蔵

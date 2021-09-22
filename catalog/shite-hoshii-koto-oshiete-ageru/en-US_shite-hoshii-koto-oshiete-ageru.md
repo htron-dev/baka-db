@@ -1,5 +1,7 @@
 # Shite Hoshii Koto, Oshiete Ageru.
 
+![shite-hoshii-koto-oshiete-ageru](https://cdn.myanimelist.net/images/manga/2/217694.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

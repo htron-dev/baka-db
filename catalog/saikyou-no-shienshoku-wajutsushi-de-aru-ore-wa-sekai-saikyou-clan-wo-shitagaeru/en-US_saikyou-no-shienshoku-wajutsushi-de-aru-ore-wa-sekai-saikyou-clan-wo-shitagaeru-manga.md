@@ -1,5 +1,7 @@
 # Saikyou no Shienshoku "Wajutsushi" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru
 
+![saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru](https://cdn.myanimelist.net/images/manga/3/237327.jpg)
+
 -   **type**: manga
 -   **original-name**: 最凶の支援職【話術士】である俺は世界最強クランを従える
 -   **start-date**: 2020-06-12

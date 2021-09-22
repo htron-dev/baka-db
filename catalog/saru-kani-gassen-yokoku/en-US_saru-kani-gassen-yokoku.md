@@ -1,5 +1,7 @@
 # Saru Kani Gassen (Yokoku)
 
+![saru-kani-gassen-yokoku](https://cdn.myanimelist.net/images/anime/4/81520.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 猿蟹合戦（予告）

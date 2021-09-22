@@ -1,5 +1,7 @@
 # Saiki Kusuo no Ψ-nan
 
+![saiki-kusuo-no-ψ-nan](https://cdn.myanimelist.net/images/manga/2/179613.jpg)
+
 -   **type**: manga
 -   **volumes**: 26
 -   **chapters**: 290

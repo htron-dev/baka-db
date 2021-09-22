@@ -1,5 +1,7 @@
 # Shakugan no Shana
 
+![shakugan-no-shana](https://cdn.myanimelist.net/images/manga/3/133565.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 22
 -   **chapters**: 123

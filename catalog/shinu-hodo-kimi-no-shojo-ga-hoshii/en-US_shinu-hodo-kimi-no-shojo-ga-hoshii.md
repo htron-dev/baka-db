@@ -1,5 +1,7 @@
 # Shinu hodo Kimi no Shojo ga Hoshii
 
+![shinu-hodo-kimi-no-shojo-ga-hoshii](https://cdn.myanimelist.net/images/manga/2/250283.jpg)
+
 -   **type**: manga
 -   **original-name**: 死ぬほど君の処女が欲しい
 -   **start-date**: 2020-07-16

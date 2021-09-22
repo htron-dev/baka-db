@@ -1,5 +1,7 @@
 # Seiyuu Radio no Uraomote
 
+![seiyuu-radio-no-uraomote](https://cdn.myanimelist.net/images/manga/1/237108.jpg)
+
 -   **type**: manga
 -   **original-name**: 声優ラジオのウラオモテ
 -   **start-date**: 2020-03-27

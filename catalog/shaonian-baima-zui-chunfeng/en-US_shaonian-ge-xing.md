@@ -1,5 +1,7 @@
 # Shaonian Ge Xing
 
+![shaonian-ge-xing](https://cdn.myanimelist.net/images/anime/1635/97926.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: 少年歌行

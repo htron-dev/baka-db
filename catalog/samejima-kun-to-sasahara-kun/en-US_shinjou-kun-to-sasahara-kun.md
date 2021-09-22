@@ -1,5 +1,7 @@
 # Shinjou-kun to Sasahara-kun
 
+![shinjou-kun-to-sasahara-kun](https://cdn.myanimelist.net/images/manga/2/111811.jpg)
+
 -   **type**: manga
 -   **original-name**: 新庄くんと笹原くん
 

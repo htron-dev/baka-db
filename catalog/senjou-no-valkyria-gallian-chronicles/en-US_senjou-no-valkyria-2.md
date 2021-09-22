@@ -1,5 +1,7 @@
 # Senjou no Valkyria 2
 
+![senjou-no-valkyria-2](https://cdn.myanimelist.net/images/manga/2/59155.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

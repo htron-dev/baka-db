@@ -1,5 +1,7 @@
 # Shachou Momoi-kun
 
+![shachou-momoi-kun](https://cdn.myanimelist.net/images/manga/1/59547.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

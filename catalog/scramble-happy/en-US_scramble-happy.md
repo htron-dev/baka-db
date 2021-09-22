@@ -1,5 +1,7 @@
 # Scramble Happy!
 
+![scramble-happy](https://cdn.myanimelist.net/images/manga/3/21151.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Sajou no Ai no Shiro
 
+![sajou-no-ai-no-shiro](https://cdn.myanimelist.net/images/manga/1/227372.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 砂上の愛の城

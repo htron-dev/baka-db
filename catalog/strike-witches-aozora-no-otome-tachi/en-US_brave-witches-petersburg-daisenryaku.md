@@ -1,5 +1,7 @@
 # Brave Witches: Petersburg Daisenryaku
 
+![brave-witches-petersburg-daisenryaku](https://cdn.myanimelist.net/images/anime/1470/96067.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 第 501 統合戦闘航空団 ブレイブウィッチーズ ペテルブルグ大戦略

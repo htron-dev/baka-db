@@ -1,5 +1,7 @@
 # Satorare
 
+![satorare](https://cdn.myanimelist.net/images/manga/1/16562.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: サトラレ

@@ -1,5 +1,7 @@
 # Sabaku ni Midareru Utahime to Ouji
 
+![sabaku-ni-midareru-utahime-to-ouji](https://cdn.myanimelist.net/images/manga/2/183192.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Sore wa Yakusoku wo Machitsuzukeru Shinigami no Hanashi
 
+![sore-wa-yakusoku-wo-machitsuzukeru-shinigami-no-hanashi](https://cdn.myanimelist.net/images/manga/2/169768.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

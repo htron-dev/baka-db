@@ -1,5 +1,7 @@
 # Sanzensekai no Karasu wo Koroshi Kanzenban
 
+![sanzensekai-no-karasu-wo-koroshi-kanzenban](https://cdn.myanimelist.net/images/manga/1/199111.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

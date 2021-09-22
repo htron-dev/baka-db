@@ -1,5 +1,7 @@
 # Shounen no Abyss
 
+![shounen-no-abyss](https://cdn.myanimelist.net/images/manga/2/232167.jpg)
+
 -   **type**: manga
 -   **original-name**: 少年のアビス
 -   **start-date**: 2020-02-27

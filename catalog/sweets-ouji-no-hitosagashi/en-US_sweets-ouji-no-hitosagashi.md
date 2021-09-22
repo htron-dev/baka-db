@@ -1,5 +1,7 @@
 # Sweets Ouji no Hitosagashi
 
+![sweets-ouji-no-hitosagashi](https://cdn.myanimelist.net/images/manga/2/234694.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: スイーツ王子の人探し

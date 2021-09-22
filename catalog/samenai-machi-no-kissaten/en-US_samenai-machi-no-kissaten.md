@@ -1,5 +1,7 @@
 # Samenai Machi no Kissaten
 
+![samenai-machi-no-kissaten](https://cdn.myanimelist.net/images/manga/3/220103.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 40

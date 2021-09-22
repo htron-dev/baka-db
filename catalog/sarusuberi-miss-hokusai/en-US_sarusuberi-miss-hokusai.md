@@ -1,5 +1,7 @@
 # Sarusuberi: Miss Hokusai
 
+![sarusuberi-miss-hokusai](https://cdn.myanimelist.net/images/anime/7/72531.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 百日紅～ Miss HOKUSAI ～

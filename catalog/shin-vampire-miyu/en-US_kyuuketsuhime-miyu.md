@@ -1,5 +1,7 @@
 # Kyuuketsuhime Miyu
 
+![kyuuketsuhime-miyu](https://cdn.myanimelist.net/images/anime/12/78948.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 吸血姫美夕

@@ -1,5 +1,7 @@
 # Saint Beast: Kouin Jojishi Tenshi Tan
 
+![saint-beast-kouin-jojishi-tenshi-tan](https://cdn.myanimelist.net/images/anime/2/75557.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: セイント・ビースト～光陰叙事詩天使譚～

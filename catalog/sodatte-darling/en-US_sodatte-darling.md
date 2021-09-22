@@ -1,5 +1,7 @@
 # Sodatte Darling!!
 
+![sodatte-darling](https://cdn.myanimelist.net/images/manga/2/206063.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

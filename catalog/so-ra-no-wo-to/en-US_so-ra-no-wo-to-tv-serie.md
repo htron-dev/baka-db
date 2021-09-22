@@ -1,5 +1,7 @@
 # So Ra No Wo To
 
+![so-ra-no-wo-to](https://cdn.myanimelist.net/images/anime/7/81654.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ソ・ラ・ノ・ヲ・ト

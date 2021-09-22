@@ -1,5 +1,7 @@
 # Sekai Seifuku Sekirara Jogakukan
 
+![sekai-seifuku-sekirara-jogakukan](https://cdn.myanimelist.net/images/manga/2/167948.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

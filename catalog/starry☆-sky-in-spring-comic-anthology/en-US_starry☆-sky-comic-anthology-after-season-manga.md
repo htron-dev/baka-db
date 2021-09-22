@@ -1,5 +1,7 @@
 # Starry☆Sky: Comic Anthology - After Season
 
+![starry☆-sky-comic-anthology-after-season](https://cdn.myanimelist.net/images/manga/1/33685.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: Starry☆Sky コミックアンソロジー~After Season~

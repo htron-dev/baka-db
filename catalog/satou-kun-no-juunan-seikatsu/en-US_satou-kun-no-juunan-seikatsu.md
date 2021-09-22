@@ -1,5 +1,7 @@
 # Satou-kun no Juunan Seikatsu
 
+![satou-kun-no-juunan-seikatsu](https://cdn.myanimelist.net/images/manga/2/174449.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 49

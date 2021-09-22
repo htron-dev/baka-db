@@ -1,5 +1,7 @@
 # Sono Hoshi wo Bokutachi wa Koi to Yobu Koto ni Suru.
 
+![sono-hoshi-wo-bokutachi-wa-koi-to-yobu-koto-ni-suru](https://cdn.myanimelist.net/images/manga/3/164136.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

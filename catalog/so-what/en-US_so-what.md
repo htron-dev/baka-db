@@ -1,5 +1,7 @@
 # So What?
 
+![so-what](https://cdn.myanimelist.net/images/manga/1/21561.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **start-date**: 1986-08-19

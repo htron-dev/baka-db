@@ -1,5 +1,7 @@
 # Stopper Busujima
 
+![stopper-busujima](https://cdn.myanimelist.net/images/manga/2/18472.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **start-date**: 1996-07-19

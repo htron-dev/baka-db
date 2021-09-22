@@ -1,5 +1,7 @@
 # Saiunkoku Monogatari
 
+![saiunkoku-monogatari](https://cdn.myanimelist.net/images/manga/3/181389.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 44

@@ -1,5 +1,7 @@
 # Seto no Hanayome OVA Specials
 
+![seto-no-hanayome-ova-specials](https://cdn.myanimelist.net/images/anime/4/22430.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 瀬戸の花嫁 OVA Extras

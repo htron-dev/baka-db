@@ -1,5 +1,7 @@
 # Shirasagi Konoha ni Sonoke wa Nai!
 
+![shirasagi-konoha-ni-sonoke-wa-nai](https://cdn.myanimelist.net/images/manga/3/119811.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 白鷺このはにその気はない！

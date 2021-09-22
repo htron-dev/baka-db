@@ -1,5 +1,7 @@
 # Saishuu Heiki Kanojo Gaidenshuu - Sekai no Hate ni wa Kimi to Futari de
 
+![saishuu-heiki-kanojo-gaidenshuu-sekai-no-hate-ni-wa-kimi-to-futari-de](https://cdn.myanimelist.net/images/manga/1/120279.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

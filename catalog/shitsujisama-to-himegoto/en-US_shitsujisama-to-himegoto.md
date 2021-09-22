@@ -1,5 +1,7 @@
 # Shitsujisama to Himegoto
 
+![shitsujisama-to-himegoto](https://cdn.myanimelist.net/images/manga/3/31041.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Saishuu Shiken Kujira Progressive
 
+![saishuu-shiken-kujira-progressive](https://cdn.myanimelist.net/images/anime/8/25777.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 最終試験くじら Progressive

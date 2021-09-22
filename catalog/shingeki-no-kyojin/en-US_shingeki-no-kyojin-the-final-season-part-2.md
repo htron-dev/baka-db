@@ -1,5 +1,7 @@
 # Shingeki no Kyojin: The Final Season Part 2
 
+![shingeki-no-kyojin-the-final-season-part-2](https://cdn.myanimelist.net/images/anime/1989/116577.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 進撃の巨人 The Final Season Part 2
 -   **start-date**: 2022-01-20

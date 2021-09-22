@@ -1,5 +1,7 @@
 # Seinen Hakkaten
 
+![seinen-hakkaten](https://cdn.myanimelist.net/images/manga/1/150309.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

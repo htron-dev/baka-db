@@ -1,5 +1,7 @@
 # Sora no Otoshimono
 
+![sora-no-otoshimono](https://cdn.myanimelist.net/images/anime/5/50307.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: そらのおとしもの

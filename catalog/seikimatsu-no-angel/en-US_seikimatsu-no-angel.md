@@ -1,5 +1,7 @@
 # Seikimatsu no Angel
 
+![seikimatsu-no-angel](https://cdn.myanimelist.net/images/manga/1/112409.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 世紀末のエンジェル

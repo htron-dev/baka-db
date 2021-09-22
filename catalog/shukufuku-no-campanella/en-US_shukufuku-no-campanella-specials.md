@@ -1,5 +1,7 @@
 # Shukufuku no Campanella Specials
 
+![shukufuku-no-campanella-specials](https://cdn.myanimelist.net/images/anime/2/25404.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 祝福のカンパネラ いっしょにばすたいむ

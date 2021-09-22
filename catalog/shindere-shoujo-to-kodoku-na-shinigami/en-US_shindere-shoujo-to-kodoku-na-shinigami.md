@@ -1,5 +1,7 @@
 # Shindere Shoujo to Kodoku na Shinigami
 
+![shindere-shoujo-to-kodoku-na-shinigami](https://cdn.myanimelist.net/images/manga/2/188986.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

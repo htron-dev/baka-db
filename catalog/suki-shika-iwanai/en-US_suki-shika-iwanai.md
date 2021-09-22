@@ -1,5 +1,7 @@
 # Suki shika Iwanai
 
+![suki-shika-iwanai](https://cdn.myanimelist.net/images/manga/1/208139.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

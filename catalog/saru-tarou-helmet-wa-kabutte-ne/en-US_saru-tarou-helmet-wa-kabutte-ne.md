@@ -1,5 +1,7 @@
 # Saru Tarou Helmet wa Kabutte ne
 
+![saru-tarou-helmet-wa-kabutte-ne](https://cdn.myanimelist.net/images/anime/5/84774.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: サル太郎 ヘルメットはかぶってね

@@ -1,5 +1,7 @@
 # Shi ni Modori, Subete wo Sukuu Tame ni Saikyou e to Itaru
 
+![shi-ni-modori-subete-wo-sukuu-tame-ni-saikyou-e-to-itaru](https://cdn.myanimelist.net/images/manga/3/227910.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 死に戻り、全てを救うために最強へと至る
 -   **start-date**: 2019-01-18

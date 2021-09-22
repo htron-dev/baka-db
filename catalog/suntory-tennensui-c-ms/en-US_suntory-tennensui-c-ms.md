@@ -1,5 +1,7 @@
 # Suntory Tennensui CMs
 
+![suntory-tennensui-c-ms](https://cdn.myanimelist.net/images/anime/2/81598.jpg)
+
 -   **type**: special
 -   **original-name**: サントリー天然水 CMs
 -   **start-date**: 2014-03-28

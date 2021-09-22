@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Tobase! Kibou no Handkerchief
 
+![sore-ike-anpanman-tobase-kibou-no-handkerchief](https://cdn.myanimelist.net/images/anime/9/49475.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ! アンパンマン とばせ! 希望のハンカチ

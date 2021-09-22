@@ -1,5 +1,7 @@
 # Sora no Deau Basho de
 
+![sora-no-deau-basho-de](https://cdn.myanimelist.net/images/manga/1/190879.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

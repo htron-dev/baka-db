@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Kaiketsu Naganegiman to Doremi Hime
 
+![sore-ike-anpanman-kaiketsu-naganegiman-to-doremi-hime](https://cdn.myanimelist.net/images/anime/8/66661.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ! アンパンマン 怪傑ナガネギマンとドレミ姫

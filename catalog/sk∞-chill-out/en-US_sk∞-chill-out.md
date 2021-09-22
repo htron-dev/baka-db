@@ -1,5 +1,7 @@
 # SK∞: Chill Out!
 
+![sk∞-chill-out](https://cdn.myanimelist.net/images/manga/1/240484.jpg)
+
 -   **type**: manga
 -   **original-name**: SK∞ エスケーエイト チルアウト！
 -   **start-date**: 2021-01-11

@@ -1,5 +1,7 @@
 # Sora no Otoshimono Pico
 
+![sora-no-otoshimono-pico](https://cdn.myanimelist.net/images/manga/2/115493.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

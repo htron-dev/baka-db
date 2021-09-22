@@ -1,5 +1,7 @@
 # Satsuriku no Tenshi
 
+![satsuriku-no-tenshi](https://cdn.myanimelist.net/images/anime/1862/95624.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 16
 -   **original-name**: 殺戮の天使

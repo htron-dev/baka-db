@@ -1,5 +1,7 @@
 # Save Data de Koi wo Shitemita
 
+![save-data-de-koi-wo-shitemita](https://cdn.myanimelist.net/images/manga/2/244813.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 32

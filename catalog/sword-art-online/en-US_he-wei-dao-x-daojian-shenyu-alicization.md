@@ -1,5 +1,7 @@
 # He Wei Dao x Daojian Shenyu Alicization
 
+![he-wei-dao-x-daojian-shenyu-alicization](https://cdn.myanimelist.net/images/anime/1927/114851.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 合味道 x 刀剑神域 Alicization

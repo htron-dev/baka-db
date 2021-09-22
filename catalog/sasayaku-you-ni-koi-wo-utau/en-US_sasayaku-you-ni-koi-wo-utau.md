@@ -1,5 +1,7 @@
 # Sasayaku You ni Koi wo Utau
 
+![sasayaku-you-ni-koi-wo-utau](https://cdn.myanimelist.net/images/manga/1/219489.jpg)
+
 -   **type**: manga
 -   **original-name**: ささやくように恋を唄う
 -   **start-date**: 2019-02-18

@@ -1,5 +1,7 @@
 # Saishuu Shiken Kujira
 
+![saishuu-shiken-kujira](https://cdn.myanimelist.net/images/anime/2/74243.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 最終試験くじら

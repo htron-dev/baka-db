@@ -1,5 +1,7 @@
 # Suki koso Momo no Jouzu Nare!
 
+![suki-koso-momo-no-jouzu-nare](https://cdn.myanimelist.net/images/manga/2/236327.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 25

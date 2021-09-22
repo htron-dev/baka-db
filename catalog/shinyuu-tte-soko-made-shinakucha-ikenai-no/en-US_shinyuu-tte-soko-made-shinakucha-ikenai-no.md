@@ -1,5 +1,7 @@
 # Shinyuu tte Soko made Shinakucha Ikenai no?
 
+![shinyuu-tte-soko-made-shinakucha-ikenai-no](https://cdn.myanimelist.net/images/manga/1/213982.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Shijima no Tsuki
 
+![shijima-no-tsuki](https://cdn.myanimelist.net/images/manga/3/223263.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

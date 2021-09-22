@@ -1,5 +1,7 @@
 # Fujilog
 
+![fujilog](https://cdn.myanimelist.net/images/anime/10/81514.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: フジログ

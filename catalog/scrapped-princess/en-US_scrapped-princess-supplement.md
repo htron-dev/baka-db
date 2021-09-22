@@ -1,5 +1,7 @@
 # Scrapped Princess: Supplement
 
+![scrapped-princess-supplement](https://cdn.myanimelist.net/images/manga/2/116981.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 31

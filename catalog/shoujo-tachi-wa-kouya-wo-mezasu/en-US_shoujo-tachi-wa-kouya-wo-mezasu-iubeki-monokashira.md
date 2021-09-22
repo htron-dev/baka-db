@@ -1,5 +1,7 @@
 # Shoujo-tachi wa Kouya wo Mezasu: Iubeki Monokashira
 
+![shoujo-tachi-wa-kouya-wo-mezasu-iubeki-monokashira](https://cdn.myanimelist.net/images/anime/8/76829.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 少女たちは荒野を目指す 言うべきものかしら

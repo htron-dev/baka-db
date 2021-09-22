@@ -1,5 +1,7 @@
 # Star Bakuhatsu
 
+![star-bakuhatsu](https://cdn.myanimelist.net/images/manga/3/189032.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

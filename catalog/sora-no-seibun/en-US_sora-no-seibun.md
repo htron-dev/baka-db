@@ -1,5 +1,7 @@
 # Sora no Seibun
 
+![sora-no-seibun](https://cdn.myanimelist.net/images/manga/2/189127.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

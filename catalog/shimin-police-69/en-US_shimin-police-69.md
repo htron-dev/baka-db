@@ -1,5 +1,7 @@
 # Shimin Police 69
 
+![shimin-police-69](https://cdn.myanimelist.net/images/manga/2/151331.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 市民ポリス 69

@@ -1,5 +1,7 @@
 # Santetsu: Nippon Tetsudou Ryokou Chizuchou Sanriku Tetsudou Daishinsai no Kiroku
 
+![santetsu-nippon-tetsudou-ryokou-chizuchou-sanriku-tetsudou-daishinsai-no-kiroku](https://cdn.myanimelist.net/images/manga/3/95537.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

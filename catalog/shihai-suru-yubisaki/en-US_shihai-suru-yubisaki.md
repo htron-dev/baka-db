@@ -1,5 +1,7 @@
 # Shihai suru Yubisaki
 
+![shihai-suru-yubisaki](https://cdn.myanimelist.net/images/manga/2/7492.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

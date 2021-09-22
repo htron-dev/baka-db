@@ -1,5 +1,7 @@
 # Shape of Love: Omizu de Mitsuketa Honki no Koi
 
+![shape-of-love-omizu-de-mitsuketa-honki-no-koi](https://cdn.myanimelist.net/images/manga/3/164954.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

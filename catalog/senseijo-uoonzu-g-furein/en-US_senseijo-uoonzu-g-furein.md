@@ -1,5 +1,7 @@
 # Senseijo Uoonzu G Furein
 
+![senseijo-uoonzu-g-furein](https://cdn.myanimelist.net/images/manga/1/15343.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 戦聖女うぉ～ずＧフレイン

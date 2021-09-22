@@ -1,5 +1,7 @@
 # Sengoku Night Blood
 
+![sengoku-night-blood](https://cdn.myanimelist.net/images/manga/2/204955.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

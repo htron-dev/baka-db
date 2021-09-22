@@ -1,5 +1,7 @@
 # Seiken Gakuin no Makentsukai
 
+![seiken-gakuin-no-makentsukai](https://cdn.myanimelist.net/images/manga/3/227977.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 聖剣学院の魔剣使い
 -   **start-date**: 2019-05-25

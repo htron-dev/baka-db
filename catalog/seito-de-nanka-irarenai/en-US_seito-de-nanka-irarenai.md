@@ -1,5 +1,7 @@
 # Seito de Nanka Irarenai
 
+![seito-de-nanka-irarenai](https://cdn.myanimelist.net/images/manga/3/175799.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

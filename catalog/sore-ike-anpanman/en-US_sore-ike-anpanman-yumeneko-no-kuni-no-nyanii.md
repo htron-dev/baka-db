@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Yumeneko no Kuni no Nyanii
 
+![sore-ike-anpanman-yumeneko-no-kuni-no-nyanii](https://cdn.myanimelist.net/images/anime/7/57719.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ!アンパンマン 夢猫の国のニャニイ

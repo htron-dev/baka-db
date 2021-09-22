@@ -1,5 +1,7 @@
 # Shinkon♥Gokko
 
+![shinkon♥-gokko](https://cdn.myanimelist.net/images/manga/3/201243.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

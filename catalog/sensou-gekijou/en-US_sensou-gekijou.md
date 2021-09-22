@@ -1,5 +1,7 @@
 # Sensou Gekijou
 
+![sensou-gekijou](https://cdn.myanimelist.net/images/manga/3/151709.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 56

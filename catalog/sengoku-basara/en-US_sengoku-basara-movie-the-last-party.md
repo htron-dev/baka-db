@@ -1,5 +1,7 @@
 # Sengoku Basara Movie: The Last Party
 
+![sengoku-basara-movie-the-last-party](https://cdn.myanimelist.net/images/anime/13/50871.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 戦国 BASARA -The Last Party-

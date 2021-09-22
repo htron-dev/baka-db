@@ -1,5 +1,7 @@
 # Stigmata: Sekiren no Seija
 
+![stigmata-sekiren-no-seija](https://cdn.myanimelist.net/images/manga/2/127145.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

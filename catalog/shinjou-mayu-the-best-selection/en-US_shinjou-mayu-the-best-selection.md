@@ -1,5 +1,7 @@
 # Shinjou Mayu - The Best Selection
 
+![shinjou-mayu-the-best-selection](https://cdn.myanimelist.net/images/manga/1/16020.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

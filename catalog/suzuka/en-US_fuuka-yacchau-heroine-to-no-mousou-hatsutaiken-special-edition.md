@@ -1,5 +1,7 @@
 # Fuuka: Yacchau!? Heroine to no Mousou Hatsutaiken - Special Edition
 
+![fuuka-yacchau-heroine-to-no-mousou-hatsutaiken-special-edition](https://cdn.myanimelist.net/images/manga/3/232888.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Sayonara Rose Garden
 
+![sayonara-rose-garden](https://cdn.myanimelist.net/images/manga/2/225361.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

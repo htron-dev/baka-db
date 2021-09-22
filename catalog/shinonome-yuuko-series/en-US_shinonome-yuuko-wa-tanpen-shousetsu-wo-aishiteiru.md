@@ -1,5 +1,7 @@
 # Shinonome Yuuko wa Tanpen Shousetsu wo Aishiteiru
 
+![shinonome-yuuko-wa-tanpen-shousetsu-wo-aishiteiru](https://cdn.myanimelist.net/images/manga/1/117031.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

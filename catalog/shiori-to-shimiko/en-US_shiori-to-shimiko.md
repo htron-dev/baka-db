@@ -1,5 +1,7 @@
 # Shiori to Shimiko
 
+![shiori-to-shimiko](https://cdn.myanimelist.net/images/manga/1/45479.jpg)
+
 -   **type**: manga
 -   **original-name**: 栞と紙魚子
 

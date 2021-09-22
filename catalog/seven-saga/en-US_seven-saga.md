@@ -1,5 +1,7 @@
 # Seven Saga
 
+![seven-saga](https://cdn.myanimelist.net/images/manga/2/189722.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: セブンサーガ

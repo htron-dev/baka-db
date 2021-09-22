@@ -1,5 +1,7 @@
 # Sono Ossan, Isekai de Nishuume Play wo Mankitsuchuu
 
+![sono-ossan-isekai-de-nishuume-play-wo-mankitsuchuu](https://cdn.myanimelist.net/images/manga/1/226993.jpg)
+
 -   **type**: manga
 -   **original-name**: そのおっさん、異世界で二周目プレイを満喫中
 -   **start-date**: 2019-06-21

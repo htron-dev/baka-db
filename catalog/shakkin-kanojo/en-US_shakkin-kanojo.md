@@ -1,5 +1,7 @@
 # Shakkin Kanojo
 
+![shakkin-kanojo](https://cdn.myanimelist.net/images/manga/1/95735.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 借金カノジョ

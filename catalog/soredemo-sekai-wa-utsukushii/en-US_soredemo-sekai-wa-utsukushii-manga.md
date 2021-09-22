@@ -1,5 +1,7 @@
 # Soredemo Sekai wa Utsukushii
 
+![soredemo-sekai-wa-utsukushii](https://cdn.myanimelist.net/images/manga/2/120139.jpg)
+
 -   **type**: manga
 -   **volumes**: 25
 -   **chapters**: 150

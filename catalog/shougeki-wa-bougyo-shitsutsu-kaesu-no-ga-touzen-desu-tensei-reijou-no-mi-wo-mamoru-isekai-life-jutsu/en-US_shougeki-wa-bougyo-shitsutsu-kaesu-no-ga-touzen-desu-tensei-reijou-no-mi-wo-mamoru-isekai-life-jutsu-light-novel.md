@@ -1,5 +1,7 @@
 # Shougeki wa Bougyo Shitsutsu Kaesu no ga Touzen desu: Tensei Reijou no Mi wo Mamoru Isekai Life Jutsu
 
+![shougeki-wa-bougyo-shitsutsu-kaesu-no-ga-touzen-desu-tensei-reijou-no-mi-wo-mamoru-isekai-life-jutsu](https://cdn.myanimelist.net/images/manga/2/214264.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

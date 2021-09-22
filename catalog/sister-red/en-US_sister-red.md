@@ -1,5 +1,7 @@
 # Sister Red
 
+![sister-red](https://cdn.myanimelist.net/images/manga/1/10150.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

@@ -1,5 +1,7 @@
 # Sexless Friend
 
+![sexless-friend](https://cdn.myanimelist.net/images/manga/2/67799.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

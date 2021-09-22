@@ -1,5 +1,7 @@
 # Sophie Rose to Ibara no Warlock
 
+![sophie-rose-to-ibara-no-warlock](https://cdn.myanimelist.net/images/manga/2/192782.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

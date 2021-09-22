@@ -1,5 +1,7 @@
 # Soredewa Kyou mo Itadakimasu.
 
+![soredewa-kyou-mo-itadakimasu](https://cdn.myanimelist.net/images/manga/3/90809.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

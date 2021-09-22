@@ -1,5 +1,7 @@
 # Desert Storm
 
+![desert-storm](https://cdn.myanimelist.net/images/manga/1/7638.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

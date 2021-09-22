@@ -1,5 +1,7 @@
 # Sono Keisatsukan, Tokidoki Yajuu!
 
+![sono-keisatsukan-tokidoki-yajuu](https://cdn.myanimelist.net/images/manga/3/246072.jpg)
+
 -   **type**: manga
 -   **original-name**: その警察官、ときどき野獣!
 -   **start-date**: 2019-12-01

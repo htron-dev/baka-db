@@ -1,5 +1,7 @@
 # Saenai Heroine no Sodatekata Fine
 
+![saenai-heroine-no-sodatekata-fine](https://cdn.myanimelist.net/images/anime/1671/111411.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 冴えない彼女の育てかた Fine

@@ -1,5 +1,7 @@
 # Sengoku Paradise
 
+![sengoku-paradise](https://cdn.myanimelist.net/images/manga/1/21529.jpg)
+
 -   **type**: manga
 -   **original-name**: 戦国パラダイス
 -   **start-date**: 2009-04-09

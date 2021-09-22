@@ -1,5 +1,7 @@
 # Shaman King & A Garden
 
+![shaman-king-a-garden](https://cdn.myanimelist.net/images/manga/2/243038.jpg)
+
 -   **type**: manga
 -   **original-name**: SHAMAN KING & a garden
 -   **start-date**: 2020-12-01

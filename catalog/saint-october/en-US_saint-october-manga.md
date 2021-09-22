@@ -1,5 +1,7 @@
 # Saint October
 
+![saint-october](https://cdn.myanimelist.net/images/manga/3/20392.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

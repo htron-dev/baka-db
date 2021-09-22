@@ -1,5 +1,7 @@
 # Sensei to Himitsu wo...
 
+![sensei-to-himitsu-wo](https://cdn.myanimelist.net/images/manga/1/64327.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 先生と秘密を…

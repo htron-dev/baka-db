@@ -1,5 +1,7 @@
 # Shoukoku no Altair
 
+![shoukoku-no-altair](https://cdn.myanimelist.net/images/anime/3/86751.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 将国のアルタイル

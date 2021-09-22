@@ -1,5 +1,7 @@
 # Soukou Kihei Votoms: Case;Irvine
 
+![soukou-kihei-votoms-case-irvine](https://cdn.myanimelist.net/images/anime/7/23338.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 装甲騎兵ボトムズ Case;IRVINE

@@ -1,5 +1,7 @@
 # Sodatete! Maria!
 
+![sodatete-maria](https://cdn.myanimelist.net/images/manga/1/132851.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: そだてて！ まりあ！

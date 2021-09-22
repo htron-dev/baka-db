@@ -1,5 +1,7 @@
 # Samurai Ice Cream★
 
+![samurai-ice-cream★](https://cdn.myanimelist.net/images/manga/1/224384.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

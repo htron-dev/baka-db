@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Kokin-chan to Namida no Christmas
 
+![sore-ike-anpanman-kokin-chan-to-namida-no-christmas](https://cdn.myanimelist.net/images/anime/10/57707.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: それいけ!アンパンマン コキンちゃんとなみだのクリスマス

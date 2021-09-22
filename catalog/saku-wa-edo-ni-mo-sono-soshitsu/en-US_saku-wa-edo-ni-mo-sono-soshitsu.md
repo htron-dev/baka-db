@@ -1,5 +1,7 @@
 # Saku wa Edo ni mo Sono Soshitsu
 
+![saku-wa-edo-ni-mo-sono-soshitsu](https://cdn.myanimelist.net/images/manga/2/165464.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 86

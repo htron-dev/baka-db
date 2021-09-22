@@ -1,5 +1,7 @@
 # Saru Kani Gassen (1927)
 
+![saru-kani-gassen-1927](https://cdn.myanimelist.net/images/anime/9/85243.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 猿蟹合戰

@@ -1,5 +1,7 @@
 # Shounen Ashibe
 
+![shounen-ashibe](https://cdn.myanimelist.net/images/anime/2/79778.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 少年アシベ

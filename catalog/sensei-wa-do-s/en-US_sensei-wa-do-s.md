@@ -1,5 +1,7 @@
 # Sensei wa Do S
 
+![sensei-wa-do-s](https://cdn.myanimelist.net/images/manga/4/31282.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 先生はド S

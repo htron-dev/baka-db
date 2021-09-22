@@ -1,5 +1,7 @@
 # Suki tte Iwaseru Houhou
 
+![suki-tte-iwaseru-houhou](https://cdn.myanimelist.net/images/manga/1/134893.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: 好きって言わせる方法

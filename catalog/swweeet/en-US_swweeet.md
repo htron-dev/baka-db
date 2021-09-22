@@ -1,5 +1,7 @@
 # Swweeet
 
+![swweeet](https://cdn.myanimelist.net/images/manga/3/56989.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Shijou Saikyou no Deshi Kenichi Specials
 
+![shijou-saikyou-no-deshi-kenichi-specials](https://cdn.myanimelist.net/images/anime/12/62889.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: 史上最強の弟子 ケンイチ

@@ -1,5 +1,7 @@
 # SpellBound: The Magic of Love
 
+![spell-bound-the-magic-of-love](https://cdn.myanimelist.net/images/manga/1/30939.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **start-date**: 2001-02-20

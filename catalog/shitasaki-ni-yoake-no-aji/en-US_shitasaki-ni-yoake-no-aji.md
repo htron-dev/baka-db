@@ -1,5 +1,7 @@
 # Shitasaki ni Yoake no Aji
 
+![shitasaki-ni-yoake-no-aji](https://cdn.myanimelist.net/images/manga/1/220852.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

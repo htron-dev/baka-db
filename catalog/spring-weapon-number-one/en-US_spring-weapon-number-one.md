@@ -1,5 +1,7 @@
 # Spring Weapon Number One
 
+![spring-weapon-number-one](https://cdn.myanimelist.net/images/manga/2/191545.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 69

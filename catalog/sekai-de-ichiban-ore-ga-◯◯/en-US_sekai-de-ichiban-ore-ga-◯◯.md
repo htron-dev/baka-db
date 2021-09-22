@@ -1,5 +1,7 @@
 # Sekai de Ichiban, Ore ga ◯◯
 
+![sekai-de-ichiban-ore-ga-◯◯](https://cdn.myanimelist.net/images/manga/3/186032.jpg)
+
 -   **type**: manga
 -   **original-name**: 世界で一番、俺が ◯◯
 -   **start-date**: 2016-06-28

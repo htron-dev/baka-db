@@ -1,5 +1,7 @@
 # Sunohara-sou no Kanrinin-san
 
+![sunohara-sou-no-kanrinin-san](https://cdn.myanimelist.net/images/anime/1368/95074.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: すのはら荘の管理人さん

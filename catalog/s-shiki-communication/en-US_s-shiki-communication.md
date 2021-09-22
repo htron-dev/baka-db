@@ -1,5 +1,7 @@
 # S-shiki Communication
 
+![s-shiki-communication](https://cdn.myanimelist.net/images/manga/3/131701.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Storm Lover
 
+![storm-lover](https://cdn.myanimelist.net/images/manga/2/66737.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

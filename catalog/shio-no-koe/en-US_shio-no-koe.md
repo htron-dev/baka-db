@@ -1,5 +1,7 @@
 # Shio no Koe
 
+![shio-no-koe](https://cdn.myanimelist.net/images/manga/3/18434.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **start-date**: 1982-11-19

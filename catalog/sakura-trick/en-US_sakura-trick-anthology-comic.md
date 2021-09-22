@@ -1,5 +1,7 @@
 # Sakura Trick: Anthology Comic
 
+![sakura-trick-anthology-comic](https://cdn.myanimelist.net/images/manga/2/121477.jpg)
+
 -   **type**: manga
 -   **original-name**: 桜 Trick アンソロジーコミック
 -   **start-date**: 2014-01-27

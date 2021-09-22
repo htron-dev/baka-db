@@ -1,5 +1,7 @@
 # Soul Link
 
+![soul-link](https://cdn.myanimelist.net/images/anime/1/854.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: Soul Link

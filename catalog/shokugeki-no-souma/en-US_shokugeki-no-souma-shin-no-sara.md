@@ -1,5 +1,7 @@
 # Shokugeki no Souma: Shin no Sara
 
+![shokugeki-no-souma-shin-no-sara](https://cdn.myanimelist.net/images/anime/1072/110175.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 食戟のソーマ 神ノ皿

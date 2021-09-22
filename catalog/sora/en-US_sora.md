@@ -1,5 +1,7 @@
 # Sora!
 
+![sora](https://cdn.myanimelist.net/images/manga/2/50497.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 40

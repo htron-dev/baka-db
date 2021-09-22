@@ -1,5 +1,7 @@
 # Sakasama no Patema: Another Side
 
+![sakasama-no-patema-another-side](https://cdn.myanimelist.net/images/manga/3/145043.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

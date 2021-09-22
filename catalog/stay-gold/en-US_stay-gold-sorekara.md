@@ -1,5 +1,7 @@
 # Stay Gold: Sorekara.
 
+![stay-gold-sorekara](https://cdn.myanimelist.net/images/manga/3/247315.jpg)
+
 -   **type**: manga
 -   **original-name**: STAYGOLD それから。
 -   **start-date**: 2021-06-25

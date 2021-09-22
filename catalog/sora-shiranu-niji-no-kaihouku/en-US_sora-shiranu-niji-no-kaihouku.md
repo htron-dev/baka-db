@@ -1,5 +1,7 @@
 # Sora Shiranu Niji no Kaihouku
 
+![sora-shiranu-niji-no-kaihouku](https://cdn.myanimelist.net/images/manga/1/171751.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 22

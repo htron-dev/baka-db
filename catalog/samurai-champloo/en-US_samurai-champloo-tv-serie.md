@@ -1,5 +1,7 @@
 # Samurai Champloo
 
+![samurai-champloo](https://cdn.myanimelist.net/images/anime/11/29134.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: サムライチャンプルー

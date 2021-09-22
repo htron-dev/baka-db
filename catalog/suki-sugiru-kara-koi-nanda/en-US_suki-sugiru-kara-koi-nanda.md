@@ -1,5 +1,7 @@
 # Suki Sugiru kara Koi nanda
 
+![suki-sugiru-kara-koi-nanda](https://cdn.myanimelist.net/images/manga/1/79561.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Shirayuri no Kishi
 
+![shirayuri-no-kishi](https://cdn.myanimelist.net/images/manga/1/149299.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 白ゆりの騎士

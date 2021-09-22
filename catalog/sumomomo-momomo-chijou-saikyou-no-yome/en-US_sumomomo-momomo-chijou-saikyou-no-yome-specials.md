@@ -1,5 +1,7 @@
 # Sumomomo Momomo: Chijou Saikyou no Yome Specials
 
+![sumomomo-momomo-chijou-saikyou-no-yome-specials](https://cdn.myanimelist.net/images/anime/11/5575.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: すもももももも ～地上最強のヨメ～

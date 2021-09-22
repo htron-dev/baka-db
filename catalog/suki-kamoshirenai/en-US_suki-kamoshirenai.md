@@ -1,5 +1,7 @@
 # Suki Kamoshirenai
 
+![suki-kamoshirenai](https://cdn.myanimelist.net/images/manga/2/2214.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

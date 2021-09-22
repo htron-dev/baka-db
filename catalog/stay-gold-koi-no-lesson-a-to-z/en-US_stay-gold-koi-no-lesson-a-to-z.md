@@ -1,5 +1,7 @@
 # Stay Gold: Koi no Lesson A to Z
 
+![stay-gold-koi-no-lesson-a-to-z](https://cdn.myanimelist.net/images/manga/3/30450.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

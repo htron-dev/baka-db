@@ -1,5 +1,7 @@
 # Sweet HR: Minami-sensei no Himitsu no Houkago
 
+![sweet-hr-minami-sensei-no-himitsu-no-houkago](https://cdn.myanimelist.net/images/manga/1/166967.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

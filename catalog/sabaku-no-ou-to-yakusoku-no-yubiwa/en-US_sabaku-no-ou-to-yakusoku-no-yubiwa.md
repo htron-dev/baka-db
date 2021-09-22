@@ -1,5 +1,7 @@
 # Sabaku no Ou to Yakusoku no Yubiwa
 
+![sabaku-no-ou-to-yakusoku-no-yubiwa](https://cdn.myanimelist.net/images/manga/1/180132.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 1

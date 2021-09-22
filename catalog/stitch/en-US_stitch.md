@@ -1,5 +1,7 @@
 # Stitch!
 
+![stitch](https://cdn.myanimelist.net/images/manga/1/180344.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: スティッチ！

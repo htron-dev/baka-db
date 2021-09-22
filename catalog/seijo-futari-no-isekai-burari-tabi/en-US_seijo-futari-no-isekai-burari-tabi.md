@@ -1,5 +1,7 @@
 # Seijo Futari no Isekai Burari Tabi
 
+![seijo-futari-no-isekai-burari-tabi](https://cdn.myanimelist.net/images/manga/1/224368.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

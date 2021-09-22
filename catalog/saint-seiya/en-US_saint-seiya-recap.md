@@ -1,5 +1,7 @@
 # Saint Seiya Recap
 
+![saint-seiya-recap](https://cdn.myanimelist.net/images/anime/13/55471.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 聖闘士星矢 総集編

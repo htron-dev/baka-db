@@ -1,5 +1,7 @@
 # S to N no Kankei: Tsunagaru made Hanarenai!
 
+![s-to-n-no-kankei-tsunagaru-made-hanarenai](https://cdn.myanimelist.net/images/manga/2/169760.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ＳとＮの関係-つながるまで離れない！

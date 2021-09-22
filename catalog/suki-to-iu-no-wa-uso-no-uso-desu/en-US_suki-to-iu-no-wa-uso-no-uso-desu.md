@@ -1,5 +1,7 @@
 # Suki to Iu no wa Uso no Uso desu
 
+![suki-to-iu-no-wa-uso-no-uso-desu](https://cdn.myanimelist.net/images/manga/3/141947.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

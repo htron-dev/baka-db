@@ -1,5 +1,7 @@
 # Sensei datte Gaman Shiteru
 
+![sensei-datte-gaman-shiteru](https://cdn.myanimelist.net/images/manga/1/178383.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

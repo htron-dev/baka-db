@@ -1,5 +1,7 @@
 # Shinjuku Seven
 
+![shinjuku-seven](https://cdn.myanimelist.net/images/manga/1/245678.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 94

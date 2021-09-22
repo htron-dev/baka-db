@@ -1,5 +1,7 @@
 # SSS!
 
+![sss](https://cdn.myanimelist.net/images/manga/2/166273.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

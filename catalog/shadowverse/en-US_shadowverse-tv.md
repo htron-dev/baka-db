@@ -1,5 +1,7 @@
 # Shadowverse (TV)
 
+![shadowverse-tv](https://cdn.myanimelist.net/images/anime/1003/106498.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 48
 -   **original-name**: シャドウバース

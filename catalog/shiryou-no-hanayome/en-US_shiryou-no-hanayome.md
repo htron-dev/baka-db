@@ -1,5 +1,7 @@
 # Shiryou no Hanayome
 
+![shiryou-no-hanayome](https://cdn.myanimelist.net/images/manga/3/53131.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

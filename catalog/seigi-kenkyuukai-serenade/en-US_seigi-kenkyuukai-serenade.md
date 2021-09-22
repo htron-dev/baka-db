@@ -1,5 +1,7 @@
 # Seigi Kenkyuukai Serenade
 
+![seigi-kenkyuukai-serenade](https://cdn.myanimelist.net/images/manga/1/173760.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Sangokushi
 
+![sangokushi](https://cdn.myanimelist.net/images/manga/3/72621.jpg)
+
 -   **type**: manga
 -   **original-name**: 三国志
 -   **start-date**: 2011-04-22

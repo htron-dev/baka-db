@@ -1,5 +1,7 @@
 # Souiu Toshigoro ni Nacchatta Toshi no Sa Shimai
 
+![souiu-toshigoro-ni-nacchatta-toshi-no-sa-shimai](https://cdn.myanimelist.net/images/manga/3/234826.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 33

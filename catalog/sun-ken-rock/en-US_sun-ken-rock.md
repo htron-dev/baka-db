@@ -1,5 +1,7 @@
 # Sun-Ken Rock
 
+![sun-ken-rock](https://cdn.myanimelist.net/images/manga/3/166298.jpg)
+
 -   **type**: manga
 -   **volumes**: 25
 -   **chapters**: 181

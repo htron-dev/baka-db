@@ -1,5 +1,7 @@
 # Sono Hi, Watashi wa Koi wo Shiru
 
+![sono-hi-watashi-wa-koi-wo-shiru](https://cdn.myanimelist.net/images/manga/3/191607.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

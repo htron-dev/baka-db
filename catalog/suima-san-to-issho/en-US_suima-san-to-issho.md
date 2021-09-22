@@ -1,5 +1,7 @@
 # Suima-san to Issho
 
+![suima-san-to-issho](https://cdn.myanimelist.net/images/manga/3/135471.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: すいまさんといっしょ

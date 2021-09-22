@@ -1,5 +1,7 @@
 # Bokura no Saibanin Monogatari
 
+![bokura-no-saibanin-monogatari](https://cdn.myanimelist.net/images/anime/2/15003.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ぼくらの裁判員物語

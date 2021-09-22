@@ -1,5 +1,7 @@
 # Dai Ni Ji Super Otoko no Ko Time, Hajimaru yo★
 
+![dai-ni-ji-super-otoko-no-ko-time-hajimaru-yo★](https://cdn.myanimelist.net/images/manga/3/86711.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 第二次 スーパー男の娘タイム、はじまるよっ ★

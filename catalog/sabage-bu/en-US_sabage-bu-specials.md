@@ -1,5 +1,7 @@
 # Sabage-bu! Specials
 
+![sabage-bu-specials](https://cdn.myanimelist.net/images/anime/3/65183.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: さばげぶっ！OVA SPECIAL MISSION

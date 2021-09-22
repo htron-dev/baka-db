@@ -1,5 +1,7 @@
 # Shokushu Majutsushi no Nariagari
 
+![shokushu-majutsushi-no-nariagari](https://cdn.myanimelist.net/images/manga/2/235284.jpg)
+
 -   **type**: manga
 -   **original-name**: 触手魔術師の成り上がり
 -   **start-date**: 2020-04-01

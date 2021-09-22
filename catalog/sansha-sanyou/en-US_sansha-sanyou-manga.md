@@ -1,5 +1,7 @@
 # Sansha Sanyou
 
+![sansha-sanyou](https://cdn.myanimelist.net/images/manga/3/163660.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 233

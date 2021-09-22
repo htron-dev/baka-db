@@ -1,5 +1,7 @@
 # Yachin Hanbun no Ibasho desu.
 
+![yachin-hanbun-no-ibasho-desu](https://cdn.myanimelist.net/images/manga/2/20651.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

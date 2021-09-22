@@ -1,5 +1,7 @@
 # Sininryu Love
 
+![sininryu-love](https://cdn.myanimelist.net/images/manga/1/26497.jpg)
+
 -   **type**: manga
 
 ## Tags

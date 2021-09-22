@@ -1,5 +1,7 @@
 # Starmine
 
+![starmine](https://cdn.myanimelist.net/images/manga/2/202410.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 140

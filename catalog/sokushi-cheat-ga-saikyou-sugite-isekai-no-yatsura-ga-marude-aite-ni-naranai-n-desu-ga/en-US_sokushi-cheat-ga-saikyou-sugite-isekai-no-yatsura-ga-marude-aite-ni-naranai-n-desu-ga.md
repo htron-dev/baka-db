@@ -1,5 +1,7 @@
 # Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.
 
+![sokushi-cheat-ga-saikyou-sugite-isekai-no-yatsura-ga-marude-aite-ni-naranai-n-desu-ga](https://cdn.myanimelist.net/images/manga/3/216486.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。
 -   **start-date**: 2016-10-15

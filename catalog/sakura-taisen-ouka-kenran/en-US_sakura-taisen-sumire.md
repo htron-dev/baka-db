@@ -1,5 +1,7 @@
 # Sakura Taisen: Sumire
 
+![sakura-taisen-sumire](https://cdn.myanimelist.net/images/anime/12/25431.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 『サクラ大戦』～神崎すみれ引退記念～「す・み・れ」

@@ -1,5 +1,7 @@
 # Sword Art Online Movie: Ordinal Scale - Sword Art Offline
 
+![sword-art-online-movie-ordinal-scale-sword-art-offline](https://cdn.myanimelist.net/images/anime/12/87940.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 劇場版 ソードアート・オンライン -オーディナル・スケール- おふらいん

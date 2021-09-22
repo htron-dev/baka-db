@@ -1,5 +1,7 @@
 # Shouta no Sushi
 
+![shouta-no-sushi](https://cdn.myanimelist.net/images/manga/5/74905.jpg)
+
 -   **type**: manga
 -   **volumes**: 27
 -   **chapters**: 214

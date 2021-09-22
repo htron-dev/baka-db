@@ -1,5 +1,7 @@
 # Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai
 
+![seishun-buta-yarou-wa-yumemiru-shoujo-no-yume-wo-minai](https://cdn.myanimelist.net/images/anime/1613/102179.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 青春ブタ野郎はゆめみる少女の夢を見ない

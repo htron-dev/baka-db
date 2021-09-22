@@ -1,5 +1,7 @@
 # Shinkuu Katakoi Pack
 
+![shinkuu-katakoi-pack](https://cdn.myanimelist.net/images/manga/3/37790.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

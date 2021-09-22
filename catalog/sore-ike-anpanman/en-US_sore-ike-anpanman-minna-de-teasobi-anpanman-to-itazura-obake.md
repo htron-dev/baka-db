@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Minna de Teasobi - Anpanman to Itazura Obake
 
+![sore-ike-anpanman-minna-de-teasobi-anpanman-to-itazura-obake](https://cdn.myanimelist.net/images/anime/2/49477.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: みんなでてあそび アンパンマンといたずらオバケ

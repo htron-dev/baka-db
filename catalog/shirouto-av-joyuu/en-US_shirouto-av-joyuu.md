@@ -1,5 +1,7 @@
 # Shirouto AV Joyuu
 
+![shirouto-av-joyuu](https://cdn.myanimelist.net/images/manga/1/45843.jpg)
+
 -   **type**: manga
 -   **original-name**: 素人 AV 女優
 

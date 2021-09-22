@@ -1,5 +1,7 @@
 # Stalkers
 
+![stalkers](https://cdn.myanimelist.net/images/manga/3/233883.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

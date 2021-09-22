@@ -1,5 +1,7 @@
 # Sunao ni Nare!
 
+![sunao-ni-nare](https://cdn.myanimelist.net/images/manga/5/29900.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 素直になれ！

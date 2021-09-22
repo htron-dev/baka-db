@@ -1,5 +1,7 @@
 # Spas-Pa
 
+![spas-pa](https://cdn.myanimelist.net/images/manga/5/37674.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 32

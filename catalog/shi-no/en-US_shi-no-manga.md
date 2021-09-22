@@ -1,5 +1,7 @@
 # SHI-NO
 
+![shi-no](https://cdn.myanimelist.net/images/manga/1/136849.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

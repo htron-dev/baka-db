@@ -1,5 +1,7 @@
 # She Must Die
 
+![she-must-die](https://cdn.myanimelist.net/images/manga/2/151973.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 28

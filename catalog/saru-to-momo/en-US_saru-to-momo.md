@@ -1,5 +1,7 @@
 # Saru to Momo
 
+![saru-to-momo](https://cdn.myanimelist.net/images/manga/2/225470.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

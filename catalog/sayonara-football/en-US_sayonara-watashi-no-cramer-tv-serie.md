@@ -1,5 +1,7 @@
 # Sayonara Watashi no Cramer
 
+![sayonara-watashi-no-cramer](https://cdn.myanimelist.net/images/anime/1155/111437.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: さよなら私のクラマー

@@ -1,5 +1,7 @@
 # Seishun Binta!
 
+![seishun-binta](https://cdn.myanimelist.net/images/manga/3/223099.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 青春ビンタ!

@@ -1,5 +1,7 @@
 # Salacia: Waga Hakugin no Mermaid
 
+![salacia-waga-hakugin-no-mermaid](https://cdn.myanimelist.net/images/manga/1/197016.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

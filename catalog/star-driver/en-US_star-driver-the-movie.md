@@ -1,5 +1,7 @@
 # Star Driver the Movie
 
+![star-driver-the-movie](https://cdn.myanimelist.net/images/anime/12/57249.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: スタードライバー THE MOVIE

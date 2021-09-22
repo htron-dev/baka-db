@@ -1,5 +1,7 @@
 # Soleil
 
+![soleil](https://cdn.myanimelist.net/images/manga/3/37807.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: SOLEIL ～ソレイユ～

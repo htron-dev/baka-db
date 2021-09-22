@@ -1,5 +1,7 @@
 # Sumika Sumire
 
+![sumika-sumire](https://cdn.myanimelist.net/images/manga/2/210988.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 49

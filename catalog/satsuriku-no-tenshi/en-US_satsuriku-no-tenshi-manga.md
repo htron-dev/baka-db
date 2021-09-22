@@ -1,5 +1,7 @@
 # Satsuriku no Tenshi
 
+![satsuriku-no-tenshi](https://cdn.myanimelist.net/images/manga/1/172199.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 54

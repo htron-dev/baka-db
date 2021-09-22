@@ -1,5 +1,7 @@
 # Sakura no Sono
 
+![sakura-no-sono](https://cdn.myanimelist.net/images/manga/1/172594.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 22

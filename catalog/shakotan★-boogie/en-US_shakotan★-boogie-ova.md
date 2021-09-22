@@ -1,5 +1,7 @@
 # Shakotan★Boogie
 
+![shakotan★-boogie](https://cdn.myanimelist.net/images/anime/8/43517.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: シャコタン ★ ブギ

@@ -1,5 +1,7 @@
 # Shintan Kairou
 
+![shintan-kairou](https://cdn.myanimelist.net/images/manga/2/242841.jpg)
+
 -   **type**: manga
 -   **original-name**: 深潭回廊
 

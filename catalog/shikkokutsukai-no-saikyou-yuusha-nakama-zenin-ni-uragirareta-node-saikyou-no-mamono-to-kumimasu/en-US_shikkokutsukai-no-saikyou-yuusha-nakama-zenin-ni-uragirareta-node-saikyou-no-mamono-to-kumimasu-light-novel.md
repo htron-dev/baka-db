@@ -1,5 +1,7 @@
 # Shikkokutsukai no Saikyou Yuusha: Nakama Zenin ni Uragirareta node Saikyou no Mamono to Kumimasu
 
+![shikkokutsukai-no-saikyou-yuusha-nakama-zenin-ni-uragirareta-node-saikyou-no-mamono-to-kumimasu](https://cdn.myanimelist.net/images/manga/1/240310.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 漆黒使いの最強勇者 仲間全員に裏切られたので最強の魔物と組みます
 -   **start-date**: 2018-10-02

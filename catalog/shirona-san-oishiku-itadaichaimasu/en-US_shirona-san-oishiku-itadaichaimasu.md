@@ -1,5 +1,7 @@
 # Shirona-san, Oishiku Itadaichaimasu
 
+![shirona-san-oishiku-itadaichaimasu](https://cdn.myanimelist.net/images/manga/2/164703.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 白奈さん、おいしくいただいちゃいます

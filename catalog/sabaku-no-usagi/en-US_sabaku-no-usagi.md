@@ -1,5 +1,7 @@
 # Sabaku no Usagi
 
+![sabaku-no-usagi](https://cdn.myanimelist.net/images/manga/3/150553.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 砂漠のウサギ

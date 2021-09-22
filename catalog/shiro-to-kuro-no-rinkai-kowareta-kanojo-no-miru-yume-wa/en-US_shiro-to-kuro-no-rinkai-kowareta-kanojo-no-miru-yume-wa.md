@@ -1,5 +1,7 @@
 # Shiro to Kuro no Rinkai: Kowareta Kanojo no Miru Yume wa
 
+![shiro-to-kuro-no-rinkai-kowareta-kanojo-no-miru-yume-wa](https://cdn.myanimelist.net/images/manga/1/169782.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 白と黒の臨界~壊れた彼女の見る夢は~

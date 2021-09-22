@@ -1,5 +1,7 @@
 # Sweep!!
 
+![sweep](https://cdn.myanimelist.net/images/manga/2/200752.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

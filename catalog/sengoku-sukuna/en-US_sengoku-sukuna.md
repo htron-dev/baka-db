@@ -1,5 +1,7 @@
 # Sengoku Sukuna
 
+![sengoku-sukuna](https://cdn.myanimelist.net/images/manga/3/27427.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 戦国スクナ

@@ -1,5 +1,7 @@
 # Shinjiteita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift "Mugen Gacha" de Level 9999 no Nakama-tachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu &amp; "Zamaa!" Shimasu!
 
+![shinjiteita-nakama-tachi-ni-dungeon-okuchi-de-korosarekaketa-ga-gift-mugen-gacha-de-level-9999-no-nakama-tachi-wo-te-ni-irete-moto-party-member-to-sekai-ni-fukushuu-amp-zamaa-shimasu](https://cdn.myanimelist.net/images/manga/3/248893.jpg)
+
 -   **type**: manga
 -   **original-name**: 信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル 9999 の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ!』します!
 -   **start-date**: 2021-05-25

@@ -1,5 +1,7 @@
 # Sakura-sou no Pet na Kanojo
 
+![sakura-sou-no-pet-na-kanojo](https://cdn.myanimelist.net/images/anime/4/43643.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: さくら荘のペットな彼女

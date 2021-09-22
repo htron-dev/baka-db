@@ -1,5 +1,7 @@
 # Sekai no Owari ni Shiba Inu to
 
+![sekai-no-owari-ni-shiba-inu-to](https://cdn.myanimelist.net/images/manga/3/227042.jpg)
+
 -   **type**: manga
 -   **original-name**: 世界の終わりに柴犬と
 -   **start-date**: 2018-03-28

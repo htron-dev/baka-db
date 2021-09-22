@@ -1,5 +1,7 @@
 # Sakura Familia!
 
+![sakura-familia](https://cdn.myanimelist.net/images/manga/3/127641.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: さくらファミリア!

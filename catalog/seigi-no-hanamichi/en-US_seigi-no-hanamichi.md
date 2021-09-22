@@ -1,5 +1,7 @@
 # Seigi no Hanamichi
 
+![seigi-no-hanamichi](https://cdn.myanimelist.net/images/manga/2/211433.jpg)
+
 -   **type**: manga
 -   **original-name**: 正義ノ花道
 -   **start-date**: 2017-06-28

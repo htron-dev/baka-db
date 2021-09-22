@@ -1,5 +1,7 @@
 # Sengoku Night Blood
 
+![sengoku-night-blood](https://cdn.myanimelist.net/images/anime/4/88329.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 戦刻ナイトブラッド

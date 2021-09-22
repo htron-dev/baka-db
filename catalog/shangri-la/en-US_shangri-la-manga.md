@@ -1,5 +1,7 @@
 # Shangri-La
 
+![shangri-la](https://cdn.myanimelist.net/images/manga/2/173570.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: シャングリ・ラ

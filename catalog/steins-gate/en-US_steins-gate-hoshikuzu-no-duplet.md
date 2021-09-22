@@ -1,5 +1,7 @@
 # Steins;Gate: Hoshikuzu no Duplet
 
+![steins-gate-hoshikuzu-no-duplet](https://cdn.myanimelist.net/images/manga/1/128917.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

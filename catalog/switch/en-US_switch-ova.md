@@ -1,5 +1,7 @@
 # Switch
 
+![switch](https://cdn.myanimelist.net/images/anime/3/26316.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: スイッチ

@@ -1,5 +1,7 @@
 # ShibaO
 
+![shiba-o](https://cdn.myanimelist.net/images/manga/3/20958.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 柴王

@@ -1,5 +1,7 @@
 # Sword Art Online Movie: Ordinal Scale
 
+![sword-art-online-movie-ordinal-scale](https://cdn.myanimelist.net/images/anime/4/83811.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 ソードアート・オンライン -オーディナル・スケール-

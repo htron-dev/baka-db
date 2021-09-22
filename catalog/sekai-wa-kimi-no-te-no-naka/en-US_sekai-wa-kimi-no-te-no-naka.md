@@ -1,5 +1,7 @@
 # Sekai wa Kimi no Te no Naka
 
+![sekai-wa-kimi-no-te-no-naka](https://cdn.myanimelist.net/images/manga/2/159402.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

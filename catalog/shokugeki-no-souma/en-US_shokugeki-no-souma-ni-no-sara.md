@@ -1,5 +1,7 @@
 # Shokugeki no Souma: Ni no Sara
 
+![shokugeki-no-souma-ni-no-sara](https://cdn.myanimelist.net/images/anime/8/79353.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 食戟のソーマ 弍ノ皿

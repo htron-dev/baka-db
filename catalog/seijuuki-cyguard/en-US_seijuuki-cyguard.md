@@ -1,5 +1,7 @@
 # Seijuuki Cyguard
 
+![seijuuki-cyguard](https://cdn.myanimelist.net/images/anime/4/29427.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 聖獣機サイガード

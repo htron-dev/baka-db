@@ -1,5 +1,7 @@
 # Tenkamusou: Edajima Heihachi Den
 
+![tenkamusou-edajima-heihachi-den](https://cdn.myanimelist.net/images/manga/1/174142.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 60

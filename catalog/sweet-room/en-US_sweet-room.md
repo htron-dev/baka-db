@@ -1,5 +1,7 @@
 # Sweet Room?
 
+![sweet-room](https://cdn.myanimelist.net/images/manga/3/235069.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 89

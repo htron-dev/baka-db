@@ -1,5 +1,7 @@
 # Shitsurakuen
 
+![shitsurakuen](https://cdn.myanimelist.net/images/manga/2/63291.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 25

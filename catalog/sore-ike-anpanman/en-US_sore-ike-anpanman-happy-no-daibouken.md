@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Happy no Daibouken
 
+![sore-ike-anpanman-happy-no-daibouken](https://cdn.myanimelist.net/images/anime/3/45971.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ! アンパンマン ハピーの大冒険

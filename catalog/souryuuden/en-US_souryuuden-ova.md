@@ -1,5 +1,7 @@
 # Souryuuden
 
+![souryuuden](https://cdn.myanimelist.net/images/anime/3/31923.jpg)
+
 -   **type**: ova
 -   **episodes**: 12
 -   **original-name**: 創竜伝

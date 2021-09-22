@@ -1,5 +1,7 @@
 # Senryuu Shoujo
 
+![senryuu-shoujo](https://cdn.myanimelist.net/images/anime/1751/98216.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 川柳少女

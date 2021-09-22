@@ -1,5 +1,7 @@
 # Ginzatoushi to Kuro no Yousei: Sugar Apple Fairy Tale
 
+![ginzatoushi-to-kuro-no-yousei-sugar-apple-fairy-tale](https://cdn.myanimelist.net/images/manga/2/178591.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

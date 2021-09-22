@@ -1,5 +1,7 @@
 # Sayabito: Sword of Destiny
 
+![sayabito-sword-of-destiny](https://cdn.myanimelist.net/images/manga/3/46153.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 27

@@ -1,5 +1,7 @@
 # Ancien to Mahou no Tablet: Mou Hitotsu no Hirune Hime
 
+![ancien-to-mahou-no-tablet-mou-hitotsu-no-hirune-hime](https://cdn.myanimelist.net/images/anime/8/84196.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: エンシェンと魔法のタブレット～もうひとつのひるね姫～

@@ -1,5 +1,7 @@
 # Shi Zhi Ge: Hua Yu Yan De Kuangxiang Shi
 
+![shi-zhi-ge-hua-yu-yan-de-kuangxiang-shi](https://cdn.myanimelist.net/images/anime/1261/108209.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 时之歌—花与焰的狂想诗

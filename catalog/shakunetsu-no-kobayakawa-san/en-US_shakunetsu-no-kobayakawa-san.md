@@ -1,5 +1,7 @@
 # Shakunetsu no Kobayakawa-san
 
+![shakunetsu-no-kobayakawa-san](https://cdn.myanimelist.net/images/manga/3/171824.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

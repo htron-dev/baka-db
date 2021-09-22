@@ -1,5 +1,7 @@
 # Sukeban Deka
 
+![sukeban-deka](https://cdn.myanimelist.net/images/manga/2/23178.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 132

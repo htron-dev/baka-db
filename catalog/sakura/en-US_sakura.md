@@ -1,5 +1,7 @@
 # Sakura
 
+![sakura](https://cdn.myanimelist.net/images/anime/7/42929.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 桜（春の幻想）

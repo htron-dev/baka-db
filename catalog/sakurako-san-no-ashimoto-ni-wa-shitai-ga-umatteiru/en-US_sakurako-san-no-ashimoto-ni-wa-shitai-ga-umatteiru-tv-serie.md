@@ -1,5 +1,7 @@
 # Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru
 
+![sakurako-san-no-ashimoto-ni-wa-shitai-ga-umatteiru](https://cdn.myanimelist.net/images/anime/7/76116.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 櫻子さんの足下には死体が埋まっている

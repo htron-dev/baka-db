@@ -1,5 +1,7 @@
 # Steady Study
 
+![steady-study](https://cdn.myanimelist.net/images/manga/2/105855.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

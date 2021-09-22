@@ -1,5 +1,7 @@
 # Seton
 
+![seton](https://cdn.myanimelist.net/images/manga/1/14789.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 

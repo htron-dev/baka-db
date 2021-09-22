@@ -1,5 +1,7 @@
 # Sengoku Basara: Setonai no Gekitotsu! Hi wo Fuku Umi no Daiyousai - Fugaku!!
 
+![sengoku-basara-setonai-no-gekitotsu-hi-wo-fuku-umi-no-daiyousai-fugaku](https://cdn.myanimelist.net/images/anime/6/25451.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 戦国 BASARA 瀬戸内の激突! 火を噴く海の大要塞・富嶽!!

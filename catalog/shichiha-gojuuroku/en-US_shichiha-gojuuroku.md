@@ -1,5 +1,7 @@
 # Shichiha Gojuuroku
 
+![shichiha-gojuuroku](https://cdn.myanimelist.net/images/manga/1/221346.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 33

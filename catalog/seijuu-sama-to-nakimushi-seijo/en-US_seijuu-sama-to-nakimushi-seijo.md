@@ -1,5 +1,7 @@
 # Seijuu-sama to Nakimushi Seijo
 
+![seijuu-sama-to-nakimushi-seijo](https://cdn.myanimelist.net/images/manga/1/235496.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Isuzu no Counter
 
+![isuzu-no-counter](https://cdn.myanimelist.net/images/manga/1/14340.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 五十鈴のカウンター

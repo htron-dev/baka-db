@@ -1,5 +1,7 @@
 # Selector Destructed WIXOSS Movie
 
+![selector-destructed-wixoss-movie](https://cdn.myanimelist.net/images/anime/3/83118.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 selector destructed WIXOSS

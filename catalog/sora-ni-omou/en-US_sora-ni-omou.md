@@ -1,5 +1,7 @@
 # Sora ni Omou
 
+![sora-ni-omou](https://cdn.myanimelist.net/images/manga/1/207056.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

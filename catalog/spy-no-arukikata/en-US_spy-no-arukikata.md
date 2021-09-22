@@ -1,5 +1,7 @@
 # Spy no Arukikata
 
+![spy-no-arukikata](https://cdn.myanimelist.net/images/manga/3/167223.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: スパイの歩き方

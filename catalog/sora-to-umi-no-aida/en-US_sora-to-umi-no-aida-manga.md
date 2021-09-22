@@ -1,5 +1,7 @@
 # Sora to Umi no Aida
 
+![sora-to-umi-no-aida](https://cdn.myanimelist.net/images/manga/1/210924.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

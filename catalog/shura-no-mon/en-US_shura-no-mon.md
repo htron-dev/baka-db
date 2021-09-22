@@ -1,5 +1,7 @@
 # Shura no Mon
 
+![shura-no-mon](https://cdn.myanimelist.net/images/manga/1/46221.jpg)
+
 -   **type**: manga
 -   **volumes**: 31
 -   **chapters**: 320

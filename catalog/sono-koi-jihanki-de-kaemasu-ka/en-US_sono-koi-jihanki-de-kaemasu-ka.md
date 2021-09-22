@@ -1,5 +1,7 @@
 # Sono Koi, Jihanki de Kaemasu ka?
 
+![sono-koi-jihanki-de-kaemasu-ka](https://cdn.myanimelist.net/images/manga/1/244639.jpg)
+
 -   **type**: manga
 -   **original-name**: その恋、自販機で買えますか？
 -   **start-date**: 2018-01-25

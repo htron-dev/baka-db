@@ -1,5 +1,7 @@
 # Shikigami no Shiro
 
+![shikigami-no-shiro](https://cdn.myanimelist.net/images/manga/3/207268.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Shanai Renai Style
 
+![shanai-renai-style](https://cdn.myanimelist.net/images/manga/2/22719.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

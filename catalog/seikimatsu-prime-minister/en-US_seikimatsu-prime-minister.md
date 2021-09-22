@@ -1,5 +1,7 @@
 # Seikimatsu Prime Minister
 
+![seikimatsu-prime-minister](https://cdn.myanimelist.net/images/manga/1/30381.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 26

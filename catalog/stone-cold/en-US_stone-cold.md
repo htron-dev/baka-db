@@ -1,5 +1,7 @@
 # Stone Cold
 
+![stone-cold](https://cdn.myanimelist.net/images/manga/2/13903.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

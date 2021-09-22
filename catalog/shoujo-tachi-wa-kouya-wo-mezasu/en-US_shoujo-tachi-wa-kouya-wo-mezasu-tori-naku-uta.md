@@ -1,5 +1,7 @@
 # Shoujo-tachi wa Kouya wo Mezasu: Tori Naku Uta
 
+![shoujo-tachi-wa-kouya-wo-mezasu-tori-naku-uta](https://cdn.myanimelist.net/images/manga/3/203899.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

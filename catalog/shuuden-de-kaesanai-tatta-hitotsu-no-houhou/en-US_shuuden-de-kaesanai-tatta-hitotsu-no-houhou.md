@@ -1,5 +1,7 @@
 # Shuuden de Kaesanai, Tatta Hitotsu no Houhou
 
+![shuuden-de-kaesanai-tatta-hitotsu-no-houhou](https://cdn.myanimelist.net/images/manga/2/183987.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 23

@@ -1,5 +1,7 @@
 # Shisou Toshokan no Livre Blanche
 
+![shisou-toshokan-no-livre-blanche](https://cdn.myanimelist.net/images/manga/1/164611.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: 死想図書館のリヴル・ブランシェ

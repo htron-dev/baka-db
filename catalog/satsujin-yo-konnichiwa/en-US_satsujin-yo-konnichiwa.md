@@ -1,5 +1,7 @@
 # Satsujin yo Konnichiwa
 
+![satsujin-yo-konnichiwa](https://cdn.myanimelist.net/images/manga/1/48905.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

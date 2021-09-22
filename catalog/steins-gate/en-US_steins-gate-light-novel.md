@@ -1,5 +1,7 @@
 # Steins;Gate
 
+![steins-gate](https://cdn.myanimelist.net/images/manga/3/72649.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 17

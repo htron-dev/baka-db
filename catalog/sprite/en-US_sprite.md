@@ -1,5 +1,7 @@
 # Sprite
 
+![sprite](https://cdn.myanimelist.net/images/manga/1/151657.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: SPRITE

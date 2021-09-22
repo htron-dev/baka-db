@@ -1,5 +1,7 @@
 # Settei Shoujo
 
+![settei-shoujo](https://cdn.myanimelist.net/images/manga/3/165145.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

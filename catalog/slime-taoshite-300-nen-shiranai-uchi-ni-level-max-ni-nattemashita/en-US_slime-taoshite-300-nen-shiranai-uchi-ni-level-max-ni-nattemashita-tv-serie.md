@@ -1,5 +1,7 @@
 # Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita
 
+![slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita](https://cdn.myanimelist.net/images/anime/1641/113723.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: スライム倒して 300 年、知らないうちにレベル MAX になってました

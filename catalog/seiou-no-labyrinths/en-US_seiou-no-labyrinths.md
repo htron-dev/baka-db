@@ -1,5 +1,7 @@
 # Seiou no Labyrinths
 
+![seiou-no-labyrinths](https://cdn.myanimelist.net/images/manga/2/124491.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 征王の迷宮塔(ラビリントス)

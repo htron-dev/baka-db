@@ -1,5 +1,7 @@
 # Sonnan ja nee yo
 
+![sonnan-ja-nee-yo](https://cdn.myanimelist.net/images/manga/3/35930.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 38

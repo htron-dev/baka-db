@@ -1,5 +1,7 @@
 # Summon Night U:X
 
+![summon-night-u-x](https://cdn.myanimelist.net/images/manga/1/109133.jpg)
+
 -   **type**: light-novel
 -   **original-name**: サモンナイト U:X〈ユークロス〉
 -   **start-date**: 2013-05-16

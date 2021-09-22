@@ -1,5 +1,7 @@
 # Snow Line
 
+![snow-line](https://cdn.myanimelist.net/images/manga/3/14557.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

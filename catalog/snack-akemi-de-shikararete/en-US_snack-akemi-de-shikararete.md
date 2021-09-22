@@ -1,5 +1,7 @@
 # Snack Akemi de Shikararete
 
+![snack-akemi-de-shikararete](https://cdn.myanimelist.net/images/manga/2/239857.jpg)
+
 -   **type**: manga
 -   **original-name**: スナックあけみでしかられて
 -   **start-date**: 2017-06-02

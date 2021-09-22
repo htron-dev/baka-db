@@ -1,5 +1,7 @@
 # Sweet Girl
 
+![sweet-girl](https://cdn.myanimelist.net/images/manga/1/80219.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

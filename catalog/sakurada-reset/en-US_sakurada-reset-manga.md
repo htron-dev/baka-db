@@ -1,5 +1,7 @@
 # Sakurada Reset
 
+![sakurada-reset](https://cdn.myanimelist.net/images/manga/3/200614.jpg)
+
 -   **type**: manga
 -   **original-name**: サクラダリセット
 -   **start-date**: 2017-02-10

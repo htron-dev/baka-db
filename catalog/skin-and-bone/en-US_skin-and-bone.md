@@ -1,5 +1,7 @@
 # Skin and Bone
 
+![skin-and-bone](https://cdn.myanimelist.net/images/manga/1/36086.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

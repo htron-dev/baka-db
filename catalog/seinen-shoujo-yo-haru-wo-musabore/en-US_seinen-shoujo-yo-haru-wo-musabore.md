@@ -1,5 +1,7 @@
 # Seinen Shoujo yo, Haru wo Musabore.
 
+![seinen-shoujo-yo-haru-wo-musabore](https://cdn.myanimelist.net/images/manga/1/243820.jpg)
+
 -   **type**: manga
 -   **original-name**: 青年少女よ、春を貪れ。
 -   **start-date**: 2020-12-17

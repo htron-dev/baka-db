@@ -1,5 +1,7 @@
 # Higashi no Eden: Air Communication
 
+![higashi-no-eden-air-communication](https://cdn.myanimelist.net/images/anime/11/17608.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 東のエデン 総集編 Air Communication

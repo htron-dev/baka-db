@@ -1,5 +1,7 @@
 # Shousetsuka to Kaseifu
 
+![shousetsuka-to-kaseifu](https://cdn.myanimelist.net/images/manga/3/152375.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 小説家と家政夫

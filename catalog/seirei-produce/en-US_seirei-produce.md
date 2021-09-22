@@ -1,5 +1,7 @@
 # Seirei Produce
 
+![seirei-produce](https://cdn.myanimelist.net/images/manga/1/65029.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

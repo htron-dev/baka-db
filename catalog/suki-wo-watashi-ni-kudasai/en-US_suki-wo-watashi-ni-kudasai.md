@@ -1,5 +1,7 @@
 # Suki wo Watashi ni Kudasai
 
+![suki-wo-watashi-ni-kudasai](https://cdn.myanimelist.net/images/manga/3/38171.jpg)
+
 -   **type**: manga
 -   **original-name**: 好きを私にください
 -   **start-date**: 2010-01-20

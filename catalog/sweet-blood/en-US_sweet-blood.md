@@ -1,5 +1,7 @@
 # Sweet Blood
 
+![sweet-blood](https://cdn.myanimelist.net/images/manga/1/162974.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 10

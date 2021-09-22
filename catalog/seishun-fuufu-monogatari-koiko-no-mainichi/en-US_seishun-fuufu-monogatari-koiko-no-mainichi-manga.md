@@ -1,5 +1,7 @@
 # Seishun Fuufu Monogatari: Koiko no Mainichi
 
+![seishun-fuufu-monogatari-koiko-no-mainichi](https://cdn.myanimelist.net/images/manga/1/239753.jpg)
+
 -   **type**: manga
 -   **volumes**: 32
 -   **chapters**: 346

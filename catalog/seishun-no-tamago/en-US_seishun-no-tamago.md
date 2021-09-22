@@ -1,5 +1,7 @@
 # Seishun no Tamago
 
+![seishun-no-tamago](https://cdn.myanimelist.net/images/manga/2/13838.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

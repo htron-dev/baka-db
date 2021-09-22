@@ -1,5 +1,7 @@
 # Sweets Ouji wa Wagashi-hime ni Dekiai suru
 
+![sweets-ouji-wa-wagashi-hime-ni-dekiai-suru](https://cdn.myanimelist.net/images/manga/2/192502.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Strike the Blood
 
+![strike-the-blood](https://cdn.myanimelist.net/images/manga/3/163502.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 22
 -   **chapters**: 157

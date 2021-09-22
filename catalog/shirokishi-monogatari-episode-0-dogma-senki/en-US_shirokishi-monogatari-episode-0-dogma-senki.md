@@ -1,5 +1,7 @@
 # Shirokishi Monogatari Episode.0: Dogma Senki
 
+![shirokishi-monogatari-episode-0-dogma-senki](https://cdn.myanimelist.net/images/manga/2/163942.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 白騎士物語-episode.0-ドグマ戦記

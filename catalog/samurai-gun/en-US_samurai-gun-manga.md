@@ -1,5 +1,7 @@
 # Samurai Gun
 
+![samurai-gun](https://cdn.myanimelist.net/images/manga/1/37894.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: サムライガン

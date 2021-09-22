@@ -1,5 +1,7 @@
 # Seraphim Zone
 
+![seraphim-zone](https://cdn.myanimelist.net/images/manga/2/169602.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 熾天使空域〈セラフィム・ゾーン〉
 -   **start-date**: 2015-03-25

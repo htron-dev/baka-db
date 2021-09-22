@@ -1,5 +1,7 @@
 # Saru Kani Gassen
 
+![saru-kani-gassen](https://cdn.myanimelist.net/images/anime/13/72014.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: サルカニ合戦

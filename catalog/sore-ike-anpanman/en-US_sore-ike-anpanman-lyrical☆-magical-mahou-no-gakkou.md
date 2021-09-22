@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Lyrical☆Magical Mahou no Gakkou
 
+![sore-ike-anpanman-lyrical☆-magical-mahou-no-gakkou](https://cdn.myanimelist.net/images/anime/10/57819.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ! アンパンマン リリカル ☆ マジカルまほうの学校

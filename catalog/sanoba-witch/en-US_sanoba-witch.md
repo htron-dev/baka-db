@@ -1,5 +1,7 @@
 # Sanoba Witch
 
+![sanoba-witch](https://cdn.myanimelist.net/images/manga/1/157429.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

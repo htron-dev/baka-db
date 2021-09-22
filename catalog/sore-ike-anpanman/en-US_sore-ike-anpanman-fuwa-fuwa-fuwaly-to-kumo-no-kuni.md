@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Fuwa Fuwa Fuwaly to Kumo no Kuni
 
+![sore-ike-anpanman-fuwa-fuwa-fuwaly-to-kumo-no-kuni](https://cdn.myanimelist.net/images/anime/1243/106941.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ! アンパンマン ふわふわフワリーと雲の国

@@ -1,5 +1,7 @@
 # Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria
 
+![sword-art-online-progressive-movie-hoshi-naki-yoru-no-aria](https://cdn.myanimelist.net/images/anime/1590/116274.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 ソードアート・オンライン プログレッシブ 星なき夜のアリア

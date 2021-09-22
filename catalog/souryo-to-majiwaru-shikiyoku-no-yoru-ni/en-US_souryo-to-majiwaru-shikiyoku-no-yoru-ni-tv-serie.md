@@ -1,5 +1,7 @@
 # Souryo to Majiwaru Shikiyoku no Yoru ni...
 
+![souryo-to-majiwaru-shikiyoku-no-yoru-ni](https://cdn.myanimelist.net/images/anime/9/86606.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 僧侶と交わる色欲の夜に…

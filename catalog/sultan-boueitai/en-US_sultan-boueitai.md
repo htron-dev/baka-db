@@ -1,5 +1,7 @@
 # Sultan Boueitai
 
+![sultan-boueitai](https://cdn.myanimelist.net/images/manga/1/137789.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: サルタン防衛隊

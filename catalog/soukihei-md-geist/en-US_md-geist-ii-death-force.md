@@ -1,5 +1,7 @@
 # MD Geist II: Death Force
 
+![md-geist-ii-death-force](https://cdn.myanimelist.net/images/anime/1351/96371.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 装鬼兵 MD ガイスト 2

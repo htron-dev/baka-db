@@ -1,5 +1,7 @@
 # Shitsuji na Shitsuji to Testament
 
+![shitsuji-na-shitsuji-to-testament](https://cdn.myanimelist.net/images/manga/2/163247.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 24

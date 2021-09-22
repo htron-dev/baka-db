@@ -1,5 +1,7 @@
 # Sword Art Online: Alicization - Recollection
 
+![sword-art-online-alicization-recollection](https://cdn.myanimelist.net/images/anime/1856/98993.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ソードアート・オンライン アリシゼーション」18.5 話「リコレクション」

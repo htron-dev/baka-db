@@ -1,5 +1,7 @@
 # Sakamichi no Apollon: Bonus Track
 
+![sakamichi-no-apollon-bonus-track](https://cdn.myanimelist.net/images/manga/2/82944.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

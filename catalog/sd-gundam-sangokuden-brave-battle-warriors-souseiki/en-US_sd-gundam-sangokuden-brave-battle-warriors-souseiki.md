@@ -1,5 +1,7 @@
 # SD Gundam Sangokuden Brave Battle Warriors: Souseiki
 
+![sd-gundam-sangokuden-brave-battle-warriors-souseiki](https://cdn.myanimelist.net/images/manga/2/241316.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

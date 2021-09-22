@@ -1,5 +1,7 @@
 # Seihoshu no Shinohara-san
 
+![seihoshu-no-shinohara-san](https://cdn.myanimelist.net/images/manga/1/162999.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 13

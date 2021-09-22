@@ -1,5 +1,7 @@
 # Sakura Taisen
 
+![sakura-taisen](https://cdn.myanimelist.net/images/anime/12/20378.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: サクラ大戦

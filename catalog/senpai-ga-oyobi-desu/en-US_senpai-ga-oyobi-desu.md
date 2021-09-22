@@ -1,5 +1,7 @@
 # Senpai ga Oyobi desu!
 
+![senpai-ga-oyobi-desu](https://cdn.myanimelist.net/images/manga/2/215887.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 28

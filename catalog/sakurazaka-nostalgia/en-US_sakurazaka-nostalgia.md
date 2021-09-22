@@ -1,5 +1,7 @@
 # Sakurazaka Nostalgia
 
+![sakurazaka-nostalgia](https://cdn.myanimelist.net/images/manga/1/154287.jpg)
+
 -   **type**: manga
 -   **original-name**: 桜坂ノスタルジア
 -   **start-date**: 2014-07-01

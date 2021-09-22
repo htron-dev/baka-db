@@ -1,5 +1,7 @@
 # Shinikake Seijo to Koutei no Kikan
 
+![shinikake-seijo-to-koutei-no-kikan](https://cdn.myanimelist.net/images/manga/3/242082.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

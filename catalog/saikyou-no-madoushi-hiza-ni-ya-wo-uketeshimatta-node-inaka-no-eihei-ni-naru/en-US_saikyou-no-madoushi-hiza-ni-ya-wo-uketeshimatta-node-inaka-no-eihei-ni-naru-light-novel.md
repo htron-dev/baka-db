@@ -1,5 +1,7 @@
 # Saikyou no Madoushi. Hiza ni Ya wo Uketeshimatta node Inaka no Eihei ni Naru
 
+![saikyou-no-madoushi-hiza-ni-ya-wo-uketeshimatta-node-inaka-no-eihei-ni-naru](https://cdn.myanimelist.net/images/manga/2/241962.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 52

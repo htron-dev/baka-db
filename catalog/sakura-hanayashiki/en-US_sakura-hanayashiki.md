@@ -1,5 +1,7 @@
 # Sakura Hanayashiki
 
+![sakura-hanayashiki](https://cdn.myanimelist.net/images/manga/1/36350.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 桜・ハナヤシキ

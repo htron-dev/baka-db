@@ -1,5 +1,7 @@
 # Simoun
 
+![simoun](https://cdn.myanimelist.net/images/anime/9/29109.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: シムーン

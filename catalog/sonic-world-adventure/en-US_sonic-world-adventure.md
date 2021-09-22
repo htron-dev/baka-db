@@ -1,5 +1,7 @@
 # Sonic World Adventure
 
+![sonic-world-adventure](https://cdn.myanimelist.net/images/manga/1/13182.jpg)
+
 -   **type**: manga
 -   **chapters**: 6
 -   **original-name**: ソニック ワールドアドベンチャー

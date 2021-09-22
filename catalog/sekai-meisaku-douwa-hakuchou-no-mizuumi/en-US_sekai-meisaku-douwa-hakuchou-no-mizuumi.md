@@ -1,5 +1,7 @@
 # Sekai Meisaku Douwa: Hakuchou no Mizuumi
 
+![sekai-meisaku-douwa-hakuchou-no-mizuumi](https://cdn.myanimelist.net/images/anime/10/5005.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 世界名作童話 白鳥の湖

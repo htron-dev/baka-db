@@ -1,5 +1,7 @@
 # Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan shimashita
 
+![suterare-seijo-no-isekai-gohan-tabi-kakure-skill-de-camping-car-wo-shoukan-shimashita](https://cdn.myanimelist.net/images/manga/1/246012.jpg)
+
 -   **type**: manga
 -   **original-name**: 捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました
 -   **start-date**: 2020-09-05

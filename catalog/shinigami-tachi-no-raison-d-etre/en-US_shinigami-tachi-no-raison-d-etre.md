@@ -1,5 +1,7 @@
 # Shinigami-tachi no Raison d'Être
 
+![shinigami-tachi-no-raison-d-etre](https://cdn.myanimelist.net/images/manga/2/168038.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

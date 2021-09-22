@@ -1,5 +1,7 @@
 # Strobo
 
+![strobo](https://cdn.myanimelist.net/images/manga/3/114219.jpg)
+
 -   **type**: manga
 -   **original-name**: ストロボ
 -   **start-date**: 2011-09-15

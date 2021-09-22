@@ -1,5 +1,7 @@
 # Shin Sukkuto Kitsune
 
+![shin-sukkuto-kitsune](https://cdn.myanimelist.net/images/manga/2/20725.jpg)
+
 -   **type**: manga
 -   **original-name**: 新　すっくと狐
 -   **start-date**: 2004-04-10

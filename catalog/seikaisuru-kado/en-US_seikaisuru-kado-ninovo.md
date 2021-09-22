@@ -1,5 +1,7 @@
 # Seikaisuru Kado: Ninovo
 
+![seikaisuru-kado-ninovo](https://cdn.myanimelist.net/images/anime/2/85175.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 正解するカ ド ニノヴォ

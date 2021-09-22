@@ -1,5 +1,7 @@
 # Subarashii Sekai
 
+![subarashii-sekai](https://cdn.myanimelist.net/images/manga/1/147085.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

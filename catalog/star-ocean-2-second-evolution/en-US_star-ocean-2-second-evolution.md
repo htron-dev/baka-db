@@ -1,5 +1,7 @@
 # Star Ocean 2 Second Evolution
 
+![star-ocean-2-second-evolution](https://cdn.myanimelist.net/images/manga/2/90289.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

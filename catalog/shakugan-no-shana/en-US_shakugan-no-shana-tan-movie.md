@@ -1,5 +1,7 @@
 # Shakugan no Shana-tan Movie
 
+![shakugan-no-shana-tan-movie](https://cdn.myanimelist.net/images/anime/11/17218.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 灼眼のシャナたん＠劇場版 Ver

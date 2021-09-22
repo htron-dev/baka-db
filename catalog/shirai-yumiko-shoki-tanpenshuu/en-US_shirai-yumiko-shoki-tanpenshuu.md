@@ -1,5 +1,7 @@
 # Shirai Yumiko Shoki Tanpenshuu
 
+![shirai-yumiko-shoki-tanpenshuu](https://cdn.myanimelist.net/images/manga/1/38023.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 白井弓子初期短篇集

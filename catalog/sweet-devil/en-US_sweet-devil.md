@@ -1,5 +1,7 @@
 # Sweet Devil
 
+![sweet-devil](https://cdn.myanimelist.net/images/manga/2/16804.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

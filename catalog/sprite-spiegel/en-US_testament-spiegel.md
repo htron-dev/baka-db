@@ -1,5 +1,7 @@
 # Testament Spiegel
 
+![testament-spiegel](https://cdn.myanimelist.net/images/manga/2/156958.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 17

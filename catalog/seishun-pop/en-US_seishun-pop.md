@@ -1,5 +1,7 @@
 # Seishun Pop!
 
+![seishun-pop](https://cdn.myanimelist.net/images/manga/1/65831.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 47

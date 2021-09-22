@@ -1,5 +1,7 @@
 # 84 Taekwon V
 
+![84-taekwon-v](https://cdn.myanimelist.net/images/anime/4/44668.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: '84 태권V

@@ -1,5 +1,7 @@
 # Santa Company: Manatsu no Merry Christmas
 
+![santa-company-manatsu-no-merry-christmas](https://cdn.myanimelist.net/images/anime/1661/111242.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: サンタ・カンパニー ～真夏のメリークリスマス～

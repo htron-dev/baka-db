@@ -1,5 +1,7 @@
 # Sengoku Bushou Retsuden Bakufuu Douji Hissatsuman
 
+![sengoku-bushou-retsuden-bakufuu-douji-hissatsuman](https://cdn.myanimelist.net/images/anime/11/45128.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 戦国武将列伝 爆風童子ヒッサツマン

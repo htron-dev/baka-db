@@ -1,5 +1,7 @@
 # S-Rank Boukensha de Aru Ore no Musume-tachi wa Juudo no Fathercon deshita
 
+![s-rank-boukensha-de-aru-ore-no-musume-tachi-wa-juudo-no-fathercon-deshita](https://cdn.myanimelist.net/images/manga/2/237259.jpg)
+
 -   **type**: manga
 -   **original-name**: S ランク冒険者である俺の娘たちは重度のファザコンでした
 -   **start-date**: 2020-05-01

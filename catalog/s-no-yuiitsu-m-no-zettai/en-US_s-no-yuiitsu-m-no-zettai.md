@@ -1,5 +1,7 @@
 # S no Yuiitsu! M no Zettai
 
+![s-no-yuiitsu-m-no-zettai](https://cdn.myanimelist.net/images/manga/1/16856.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

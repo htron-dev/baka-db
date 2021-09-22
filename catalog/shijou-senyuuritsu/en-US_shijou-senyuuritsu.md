@@ -1,5 +1,7 @@
 # Shijou Senyuuritsu
 
+![shijou-senyuuritsu](https://cdn.myanimelist.net/images/manga/2/12147.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

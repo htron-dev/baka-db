@@ -1,5 +1,7 @@
 # Saiyuukiden Daienou
 
+![saiyuukiden-daienou](https://cdn.myanimelist.net/images/manga/3/11716.jpg)
+
 -   **type**: manga
 -   **original-name**: 西遊奇伝・大猿王
 

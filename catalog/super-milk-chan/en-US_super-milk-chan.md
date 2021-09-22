@@ -1,5 +1,7 @@
 # Super Milk-chan
 
+![super-milk-chan](https://cdn.myanimelist.net/images/anime/5/78075.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 14
 -   **original-name**: スーパーミルクチャン

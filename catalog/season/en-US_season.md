@@ -1,5 +1,7 @@
 # Season
 
+![season](https://cdn.myanimelist.net/images/manga/1/189516.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

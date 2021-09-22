@@ -1,5 +1,7 @@
 # Steins;Gate
 
+![steins-gate](https://cdn.myanimelist.net/images/anime/5/73199.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: STEINS;GATE

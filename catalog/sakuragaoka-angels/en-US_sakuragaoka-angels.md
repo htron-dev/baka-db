@@ -1,5 +1,7 @@
 # Sakuragaoka Angels
 
+![sakuragaoka-angels](https://cdn.myanimelist.net/images/manga/3/175886.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

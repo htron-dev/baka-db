@@ -1,5 +1,7 @@
 # Saiyuki Anthology
 
+![saiyuki-anthology](https://cdn.myanimelist.net/images/manga/3/33321.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 最遊記 ANTHOLOGY

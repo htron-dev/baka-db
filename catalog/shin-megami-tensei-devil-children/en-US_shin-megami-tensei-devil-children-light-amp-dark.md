@@ -1,5 +1,7 @@
 # Shin Megami Tensei Devil Children: Light &amp; Dark
 
+![shin-megami-tensei-devil-children-light-amp-dark](https://cdn.myanimelist.net/images/anime/5/23110.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 真･女神転生Ｄチルドレン ライト＆ダーク

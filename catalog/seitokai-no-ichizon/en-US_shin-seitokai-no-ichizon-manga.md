@@ -1,5 +1,7 @@
 # Shin Seitokai no Ichizon
 
+![shin-seitokai-no-ichizon](https://cdn.myanimelist.net/images/manga/3/98617.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Seijuu-sama no Nasu ga Mama!
 
+![seijuu-sama-no-nasu-ga-mama](https://cdn.myanimelist.net/images/manga/2/195057.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 聖獣さまのなすがまま！

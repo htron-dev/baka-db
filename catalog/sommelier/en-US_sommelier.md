@@ -1,5 +1,7 @@
 # Sommelier
 
+![sommelier](https://cdn.myanimelist.net/images/manga/1/31626.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 72

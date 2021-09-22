@@ -1,5 +1,7 @@
 # Sakka wa Kudokareru
 
+![sakka-wa-kudokareru](https://cdn.myanimelist.net/images/manga/1/33822.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

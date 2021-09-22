@@ -1,5 +1,7 @@
 # Starry☆Sky: In Spring - Anthology
 
+![starry☆-sky-in-spring-anthology](https://cdn.myanimelist.net/images/manga/2/34788.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Starry☆Sky ~in Spring~ アンソロジー

@@ -1,5 +1,7 @@
 # Seigi no Tobira
 
+![seigi-no-tobira](https://cdn.myanimelist.net/images/manga/2/36300.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: セイギのトビラ

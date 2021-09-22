@@ -1,5 +1,7 @@
 # Shiro no Koukoku Monogatari
 
+![shiro-no-koukoku-monogatari](https://cdn.myanimelist.net/images/manga/3/186494.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 白の皇国物語
 -   **start-date**: 2011-06-29

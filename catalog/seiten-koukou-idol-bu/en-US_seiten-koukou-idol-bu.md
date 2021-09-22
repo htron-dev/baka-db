@@ -1,5 +1,7 @@
 # Seiten Koukou Idol-bu!
 
+![seiten-koukou-idol-bu](https://cdn.myanimelist.net/images/manga/2/155023.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 星天高校アイドル部!

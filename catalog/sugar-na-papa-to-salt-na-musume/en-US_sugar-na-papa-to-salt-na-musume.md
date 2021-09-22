@@ -1,5 +1,7 @@
 # Sugar na Papa to Salt na Musume
 
+![sugar-na-papa-to-salt-na-musume](https://cdn.myanimelist.net/images/manga/3/216258.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

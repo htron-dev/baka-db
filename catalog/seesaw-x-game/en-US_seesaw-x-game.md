@@ -1,5 +1,7 @@
 # Seesaw x Game
 
+![seesaw-x-game](https://cdn.myanimelist.net/images/manga/3/167270.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

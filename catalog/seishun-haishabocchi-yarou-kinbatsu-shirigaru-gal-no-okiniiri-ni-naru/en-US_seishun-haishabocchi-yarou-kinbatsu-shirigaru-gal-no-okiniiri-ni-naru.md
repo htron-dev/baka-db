@@ -1,5 +1,7 @@
 # Seishun Haishabocchi Yarou, Kinbatsu Shirigaru Gal no Okiniiri ni Naru
 
+![seishun-haishabocchi-yarou-kinbatsu-shirigaru-gal-no-okiniiri-ni-naru](https://cdn.myanimelist.net/images/manga/1/248133.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 青春敗者ぼっち野郎、金髪尻軽ギャルのお気に入りになる
 -   **start-date**: 2018-09-29

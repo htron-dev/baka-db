@@ -1,5 +1,7 @@
 # Short Stories: Boy Meets Girl in Three Minutes
 
+![short-stories-boy-meets-girl-in-three-minutes](https://cdn.myanimelist.net/images/manga/3/63611.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 19

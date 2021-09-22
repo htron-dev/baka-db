@@ -1,5 +1,7 @@
 # Sakigake!! Otokojuku
 
+![sakigake-otokojuku](https://cdn.myanimelist.net/images/manga/3/25648.jpg)
+
 -   **type**: manga
 -   **volumes**: 34
 -   **chapters**: 314

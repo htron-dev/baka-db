@@ -1,5 +1,7 @@
 # Suijin no Hanayome
 
+![suijin-no-hanayome](https://cdn.myanimelist.net/images/manga/2/167987.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 45

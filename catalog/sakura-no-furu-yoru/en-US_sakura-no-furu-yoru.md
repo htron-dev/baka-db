@@ -1,5 +1,7 @@
 # Sakura no Furu Yoru
 
+![sakura-no-furu-yoru](https://cdn.myanimelist.net/images/manga/2/167213.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 桜の降る夜

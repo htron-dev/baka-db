@@ -1,5 +1,7 @@
 # Saa Himitsu wo Hajimeyou
 
+![saa-himitsu-wo-hajimeyou](https://cdn.myanimelist.net/images/manga/3/31071.jpg)
+
 -   **type**: manga
 -   **original-name**: さあ秘密をはじめよう
 

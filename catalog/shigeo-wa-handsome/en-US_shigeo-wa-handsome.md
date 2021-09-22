@@ -1,5 +1,7 @@
 # Shigeo wa Handsome
 
+![shigeo-wa-handsome](https://cdn.myanimelist.net/images/anime/5/81032.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 茂雄はハンサム

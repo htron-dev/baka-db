@@ -1,5 +1,7 @@
 # SINoALICE
 
+![si-no-alice](https://cdn.myanimelist.net/images/manga/4/244251.jpg)
+
 -   **type**: manga
 -   **original-name**: SINoALICE -シノアリス-
 -   **start-date**: 2019-06-06

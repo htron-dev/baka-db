@@ -1,5 +1,7 @@
 # Suna no Shita no Suimyaku
 
+![suna-no-shita-no-suimyaku](https://cdn.myanimelist.net/images/manga/2/30417.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

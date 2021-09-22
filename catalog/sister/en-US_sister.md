@@ -1,5 +1,7 @@
 # Sister
 
+![sister](https://cdn.myanimelist.net/images/manga/1/158197.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 -   **original-name**: 여동생

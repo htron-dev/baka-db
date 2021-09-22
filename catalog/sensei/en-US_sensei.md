@@ -1,5 +1,7 @@
 # Sensei!
 
+![sensei](https://cdn.myanimelist.net/images/manga/1/1817.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 81

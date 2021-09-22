@@ -1,5 +1,7 @@
 # Goku!! Otokojuku
 
+![goku-otokojuku](https://cdn.myanimelist.net/images/manga/1/245010.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 極!! 男塾

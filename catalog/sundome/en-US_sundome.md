@@ -1,5 +1,7 @@
 # Sundome
 
+![sundome](https://cdn.myanimelist.net/images/manga/2/50469.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 76

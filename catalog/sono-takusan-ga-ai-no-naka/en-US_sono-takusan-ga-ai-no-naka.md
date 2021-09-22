@@ -1,5 +1,7 @@
 # Sono Takusan ga Ai no Naka.
 
+![sono-takusan-ga-ai-no-naka](https://cdn.myanimelist.net/images/manga/2/225919.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 41

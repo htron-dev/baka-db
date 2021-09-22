@@ -1,5 +1,7 @@
 # Shade: The Other Side of Light
 
+![shade-the-other-side-of-light](https://cdn.myanimelist.net/images/manga/3/14121.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 26

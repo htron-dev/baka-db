@@ -1,5 +1,7 @@
 # SKET Dance: SD Character Flash Anime
 
+![sket-dance-sd-character-flash-anime](https://cdn.myanimelist.net/images/anime/5/44956.jpg)
+
 -   **type**: ona
 -   **episodes**: 16
 -   **original-name**: スケットダンス SD キャラフラッシュアニメ

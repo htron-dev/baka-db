@@ -1,5 +1,7 @@
 # Shadows of Spawn
 
+![shadows-of-spawn](https://cdn.myanimelist.net/images/manga/2/244053.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

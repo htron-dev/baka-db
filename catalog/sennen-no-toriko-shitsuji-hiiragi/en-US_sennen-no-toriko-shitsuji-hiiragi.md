@@ -1,5 +1,7 @@
 # Sennen no Toriko - Shitsuji Hiiragi
 
+![sennen-no-toriko-shitsuji-hiiragi](https://cdn.myanimelist.net/images/manga/1/88515.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

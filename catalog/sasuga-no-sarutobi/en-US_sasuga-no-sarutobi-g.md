@@ -1,5 +1,7 @@
 # Sasuga no Sarutobi G
 
+![sasuga-no-sarutobi-g](https://cdn.myanimelist.net/images/manga/2/227467.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

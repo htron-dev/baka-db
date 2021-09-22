@@ -1,5 +1,7 @@
 # Selfish Love
 
+![selfish-love](https://cdn.myanimelist.net/images/manga/3/84733.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

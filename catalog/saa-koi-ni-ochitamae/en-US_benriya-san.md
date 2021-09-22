@@ -1,5 +1,7 @@
 # Benriya-san
 
+![benriya-san](https://cdn.myanimelist.net/images/manga/3/176522.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

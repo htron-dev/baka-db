@@ -1,5 +1,7 @@
 # Shirley
 
+![shirley](https://cdn.myanimelist.net/images/manga/2/138339.jpg)
+
 -   **type**: manga
 -   **original-name**: シャーリー
 

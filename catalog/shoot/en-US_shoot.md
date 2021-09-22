@@ -1,5 +1,7 @@
 # Shoot!
 
+![shoot](https://cdn.myanimelist.net/images/manga/1/183361.jpg)
+
 -   **type**: manga
 -   **volumes**: 33
 -   **original-name**: シュート！

@@ -1,5 +1,7 @@
 # Slam Dunk: 10 Days After
 
+![slam-dunk-10-days-after](https://cdn.myanimelist.net/images/manga/3/236651.jpg)
+
 -   **type**: manga
 -   **chapters**: 1
 -   **start-date**: 2005-02-20

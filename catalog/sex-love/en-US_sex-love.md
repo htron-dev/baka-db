@@ -1,5 +1,7 @@
 # Sex=Love²
 
+![sex-love](https://cdn.myanimelist.net/images/manga/2/73733.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

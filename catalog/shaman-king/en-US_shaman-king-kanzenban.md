@@ -1,5 +1,7 @@
 # Shaman King Kanzenban
 
+![shaman-king-kanzenban](https://cdn.myanimelist.net/images/manga/1/143909.jpg)
+
 -   **type**: manga
 -   **chapters**: 33
 -   **original-name**: Shaman King シャーマンキング 完全版

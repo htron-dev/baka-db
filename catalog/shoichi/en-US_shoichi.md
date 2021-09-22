@@ -1,5 +1,7 @@
 # Shoichi
 
+![shoichi](https://cdn.myanimelist.net/images/manga/1/17576.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: ショーイチ

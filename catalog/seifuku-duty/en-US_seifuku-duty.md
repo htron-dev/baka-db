@@ -1,5 +1,7 @@
 # Seifuku Duty
 
+![seifuku-duty](https://cdn.myanimelist.net/images/manga/3/165615.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

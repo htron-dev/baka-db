@@ -1,5 +1,7 @@
 # Shinreki no Apocrypha
 
+![shinreki-no-apocrypha](https://cdn.myanimelist.net/images/manga/1/160984.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 21

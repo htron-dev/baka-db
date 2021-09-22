@@ -1,5 +1,7 @@
 # Seiken ga Ningen ni Tensei shitemitara, Yuusha ni Henai sarete Komatteimasu.
 
+![seiken-ga-ningen-ni-tensei-shitemitara-yuusha-ni-henai-sarete-komatteimasu](https://cdn.myanimelist.net/images/manga/2/243841.jpg)
+
 -   **type**: manga
 -   **original-name**: 聖剣が人間に転生してみたら、勇者に偏愛されて困っています。
 -   **start-date**: 2020-08-05

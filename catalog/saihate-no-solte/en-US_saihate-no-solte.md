@@ -1,5 +1,7 @@
 # Saihate no Solte
 
+![saihate-no-solte](https://cdn.myanimelist.net/images/manga/2/239645.jpg)
+
 -   **type**: manga
 -   **original-name**: 最果てのソルテ
 -   **start-date**: 2020-01-20

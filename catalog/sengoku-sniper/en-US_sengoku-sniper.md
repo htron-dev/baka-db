@@ -1,5 +1,7 @@
 # Sengoku Sniper
 
+![sengoku-sniper](https://cdn.myanimelist.net/images/manga/1/155596.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: 戦国スナイパー

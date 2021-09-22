@@ -1,5 +1,7 @@
 # Sensei mo Net Sedai
 
+![sensei-mo-net-sedai](https://cdn.myanimelist.net/images/manga/1/226257.jpg)
+
 -   **type**: manga
 -   **original-name**: 先生もネット世代
 -   **start-date**: 2018-11-09

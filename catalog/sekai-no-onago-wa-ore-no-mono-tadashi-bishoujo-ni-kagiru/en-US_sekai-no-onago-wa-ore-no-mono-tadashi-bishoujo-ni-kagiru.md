@@ -1,5 +1,7 @@
 # Sekai no Onago wa Ore no Mono: ※Tadashi Bishoujo ni Kagiru
 
+![sekai-no-onago-wa-ore-no-mono-tadashi-bishoujo-ni-kagiru](https://cdn.myanimelist.net/images/manga/1/169716.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

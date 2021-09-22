@@ -1,5 +1,7 @@
 # Shoukan no Chousensha
 
+![shoukan-no-chousensha](https://cdn.myanimelist.net/images/manga/2/161319.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 75

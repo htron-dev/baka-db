@@ -1,5 +1,7 @@
 # S-kei Koushaku no Yuuga na Tawamure: Suito Hiren Romanesque
 
+![s-kei-koushaku-no-yuuga-na-tawamure-suito-hiren-romanesque](https://cdn.myanimelist.net/images/manga/2/191918.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

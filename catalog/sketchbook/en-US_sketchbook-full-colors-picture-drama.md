@@ -1,5 +1,7 @@
 # Sketchbook: Full Color's Picture Drama
 
+![sketchbook-full-colors-picture-drama](https://cdn.myanimelist.net/images/anime/2/63003.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: スケッチブック ～ full color's ～ピクチャードラマ

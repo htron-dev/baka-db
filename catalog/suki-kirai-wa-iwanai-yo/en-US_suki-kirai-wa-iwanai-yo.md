@@ -1,5 +1,7 @@
 # Suki Kirai wa Iwanai yo
 
+![suki-kirai-wa-iwanai-yo](https://cdn.myanimelist.net/images/manga/3/191462.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

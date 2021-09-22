@@ -1,5 +1,7 @@
 # Starry☆Sky: In Autumn - 4-koma Anthology
 
+![starry☆-sky-in-autumn-4-koma-anthology](https://cdn.myanimelist.net/images/manga/3/34566.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Starry☆Sky~in Autumn~オール 4 コマアンソ

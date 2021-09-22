@@ -1,5 +1,7 @@
 # Shiba no Ue Junction
 
+![shiba-no-ue-junction](https://cdn.myanimelist.net/images/manga/1/187131.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

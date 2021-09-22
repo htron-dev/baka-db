@@ -1,5 +1,7 @@
 # Soradan
 
+![soradan](https://cdn.myanimelist.net/images/manga/2/204847.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 38

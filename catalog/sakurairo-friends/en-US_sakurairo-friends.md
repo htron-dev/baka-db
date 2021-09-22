@@ -1,5 +1,7 @@
 # Sakurairo Friends
 
+![sakurairo-friends](https://cdn.myanimelist.net/images/manga/2/211733.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 34

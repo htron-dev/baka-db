@@ -1,5 +1,7 @@
 # Hirune Hime: Shiranai Watashi no Monogatari
 
+![hirune-hime-shiranai-watashi-no-monogatari](https://cdn.myanimelist.net/images/anime/7/84071.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ひるね姫～知らないワタシの物語～

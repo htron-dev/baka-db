@@ -1,5 +1,7 @@
 # Shikanoko Nokonoko Koshitantan
 
+![shikanoko-nokonoko-koshitantan](https://cdn.myanimelist.net/images/manga/2/243191.jpg)
+
 -   **type**: manga
 -   **original-name**: しかのこのこのここしたんたん
 -   **start-date**: 2019-11-15

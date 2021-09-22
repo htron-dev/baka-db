@@ -1,5 +1,7 @@
 # Shousetsu Skip Beat!: Kyouko no Zenryoku Full Course!
 
+![shousetsu-skip-beat-kyouko-no-zenryoku-full-course](https://cdn.myanimelist.net/images/manga/1/248762.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

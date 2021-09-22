@@ -1,5 +1,7 @@
 # Shiro to Kuro: Black &amp; White
 
+![shiro-to-kuro-black-amp-white](https://cdn.myanimelist.net/images/manga/1/245895.jpg)
+
 -   **type**: manga
 -   **original-name**: 白と黒～ Black & White ～
 -   **start-date**: 2020-03-20

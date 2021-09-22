@@ -1,5 +1,7 @@
 # Flowernoid no Shuufukushi
 
+![flowernoid-no-shuufukushi](https://cdn.myanimelist.net/images/manga/2/64615.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: フラワノイドの修復師

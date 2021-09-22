@@ -1,5 +1,7 @@
 # Steins;Gate: Soumei Eichi no Cognitive Computing
 
+![steins-gate-soumei-eichi-no-cognitive-computing](https://cdn.myanimelist.net/images/anime/10/71319.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: Steins;Gate 聡明叡智のコグニティブ・コンピューティング

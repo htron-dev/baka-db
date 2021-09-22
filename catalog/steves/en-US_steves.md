@@ -1,5 +1,7 @@
 # Steves
 
+![steves](https://cdn.myanimelist.net/images/manga/3/186272.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 48

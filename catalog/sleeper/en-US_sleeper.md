@@ -1,5 +1,7 @@
 # Sleeper
 
+![sleeper](https://cdn.myanimelist.net/images/manga/2/7982.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 

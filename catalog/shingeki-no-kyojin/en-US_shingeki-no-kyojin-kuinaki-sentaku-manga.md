@@ -1,5 +1,7 @@
 # Shingeki no Kyojin: Kuinaki Sentaku
 
+![shingeki-no-kyojin-kuinaki-sentaku](https://cdn.myanimelist.net/images/manga/1/121101.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

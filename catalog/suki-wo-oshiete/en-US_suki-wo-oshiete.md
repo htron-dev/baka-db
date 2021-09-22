@@ -1,5 +1,7 @@
 # Suki wo Oshiete
 
+![suki-wo-oshiete](https://cdn.myanimelist.net/images/manga/3/105617.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

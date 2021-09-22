@@ -1,5 +1,7 @@
 # Sono Egao Suki ja Nai
 
+![sono-egao-suki-ja-nai](https://cdn.myanimelist.net/images/manga/2/248198.jpg)
+
 -   **type**: manga
 -   **original-name**: その笑顔好きじゃない
 -   **start-date**: 2016-05-01

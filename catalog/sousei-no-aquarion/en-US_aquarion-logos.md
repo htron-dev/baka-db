@@ -1,5 +1,7 @@
 # Aquarion Logos
 
+![aquarion-logos](https://cdn.myanimelist.net/images/anime/4/74989.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: アクエリオンロゴス

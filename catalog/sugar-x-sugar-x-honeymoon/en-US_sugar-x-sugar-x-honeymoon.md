@@ -1,5 +1,7 @@
 # Sugar x Sugar x Honeymoon
 
+![sugar-x-sugar-x-honeymoon](https://cdn.myanimelist.net/images/manga/1/181046.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

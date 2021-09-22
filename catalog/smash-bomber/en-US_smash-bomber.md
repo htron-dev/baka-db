@@ -1,5 +1,7 @@
 # Smash Bomber
 
+![smash-bomber](https://cdn.myanimelist.net/images/manga/2/11834.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

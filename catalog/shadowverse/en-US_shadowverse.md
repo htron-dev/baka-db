@@ -1,5 +1,7 @@
 # Shadowverse
 
+![shadowverse](https://cdn.myanimelist.net/images/anime/11/88535.jpg)
+
 -   **type**: ona
 -   **original-name**: Shadowverse シャドウバース
 -   **start-date**: 2015-10-16

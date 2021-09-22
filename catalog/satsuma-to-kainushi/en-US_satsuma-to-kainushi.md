@@ -1,5 +1,7 @@
 # Satsuma to Kainushi
 
+![satsuma-to-kainushi](https://cdn.myanimelist.net/images/manga/2/239138.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: さつまと飼い主

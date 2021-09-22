@@ -1,5 +1,7 @@
 # Sasurai no Shoujo Nell
 
+![sasurai-no-shoujo-nell](https://cdn.myanimelist.net/images/anime/1496/101490.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: さすらいの少女ネル

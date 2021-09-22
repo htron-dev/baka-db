@@ -1,5 +1,7 @@
 # Steins;Gate: Heni Kuukan no Octet
 
+![steins-gate-heni-kuukan-no-octet](https://cdn.myanimelist.net/images/manga/1/91575.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

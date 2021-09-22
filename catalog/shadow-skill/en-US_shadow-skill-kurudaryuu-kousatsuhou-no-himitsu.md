@@ -1,5 +1,7 @@
 # Shadow Skill: Kurudaryuu Kousatsuhou no Himitsu
 
+![shadow-skill-kurudaryuu-kousatsuhou-no-himitsu](https://cdn.myanimelist.net/images/anime/10/85750.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: SHADOW SKILL ～クルダ流交殺法の秘密～

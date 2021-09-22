@@ -1,5 +1,7 @@
 # Samurai Rising
 
+![samurai-rising](https://cdn.myanimelist.net/images/manga/2/28033.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: サムライジ

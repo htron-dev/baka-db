@@ -1,5 +1,7 @@
 # Sweet Pool
 
+![sweet-pool](https://cdn.myanimelist.net/images/manga/1/39598.jpg)
+
 -   **type**: manga
 -   **original-name**: sweet pool
 

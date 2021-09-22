@@ -1,5 +1,7 @@
 # Sutemi no Koubousen
 
+![sutemi-no-koubousen](https://cdn.myanimelist.net/images/manga/2/238310.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

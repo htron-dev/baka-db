@@ -1,5 +1,7 @@
 # Shima Shima Hanako
 
+![shima-shima-hanako](https://cdn.myanimelist.net/images/manga/2/144715.jpg)
+
 -   **type**: manga
 -   **chapters**: 20
 -   **original-name**: しましま花狐〈はなこ〉

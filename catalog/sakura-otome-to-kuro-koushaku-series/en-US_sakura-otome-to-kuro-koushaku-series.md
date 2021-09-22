@@ -1,5 +1,7 @@
 # Sakura Otome to Kuro Koushaku Series
 
+![sakura-otome-to-kuro-koushaku-series](https://cdn.myanimelist.net/images/manga/2/167539.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 桜乙女と黒侯爵シリーズ
 -   **start-date**: 2014-10-01

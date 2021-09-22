@@ -1,5 +1,7 @@
 # Therapy Game
 
+![therapy-game](https://cdn.myanimelist.net/images/manga/2/224901.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

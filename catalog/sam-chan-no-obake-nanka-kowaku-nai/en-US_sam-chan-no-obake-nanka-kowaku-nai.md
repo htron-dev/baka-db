@@ -1,5 +1,7 @@
 # Sam-chan no Obake Nanka Kowaku Nai
 
+![sam-chan-no-obake-nanka-kowaku-nai](https://cdn.myanimelist.net/images/anime/3/84567.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: サムちゃんのおばけなんか怖くない

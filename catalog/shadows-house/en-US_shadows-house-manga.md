@@ -1,5 +1,7 @@
 # Shadows House
 
+![shadows-house](https://cdn.myanimelist.net/images/manga/2/215750.jpg)
+
 -   **type**: manga
 -   **original-name**: シャドーハウス
 -   **start-date**: 2018-09-06

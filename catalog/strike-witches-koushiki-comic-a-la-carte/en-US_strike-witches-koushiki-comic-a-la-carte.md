@@ -1,5 +1,7 @@
 # Strike Witches: Koushiki Comic à la Carte
 
+![strike-witches-koushiki-comic-a-la-carte](https://cdn.myanimelist.net/images/manga/3/159997.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 61

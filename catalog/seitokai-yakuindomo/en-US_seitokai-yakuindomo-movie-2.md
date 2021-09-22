@@ -1,5 +1,7 @@
 # Seitokai Yakuindomo Movie 2
 
+![seitokai-yakuindomo-movie-2](https://cdn.myanimelist.net/images/anime/1738/116883.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 生徒会役員共 2

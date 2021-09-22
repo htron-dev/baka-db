@@ -1,5 +1,7 @@
 # Shrink: Seishinkai Yowai
 
+![shrink-seishinkai-yowai](https://cdn.myanimelist.net/images/manga/3/227482.jpg)
+
 -   **type**: manga
 -   **original-name**: Shrink ～精神科医ヨワイ～
 -   **start-date**: 2019-06-05

@@ -1,5 +1,7 @@
 # Suzuka
 
+![suzuka](https://cdn.myanimelist.net/images/anime/6/19983.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 涼風

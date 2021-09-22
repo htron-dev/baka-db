@@ -1,5 +1,7 @@
 # Sasurai Zou-san
 
+![sasurai-zou-san](https://cdn.myanimelist.net/images/anime/1772/106456.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: さすらいゾウさん

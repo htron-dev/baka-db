@@ -1,5 +1,7 @@
 # Otokojuku Gaiden: Date Omito
 
+![otokojuku-gaiden-date-omito](https://cdn.myanimelist.net/images/manga/1/155078.jpg)
+
 -   **type**: manga
 -   **original-name**: 男塾外伝 伊達臣人
 -   **start-date**: 2014-04-25

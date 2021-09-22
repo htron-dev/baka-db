@@ -1,5 +1,7 @@
 # Sacred Chevalier
 
+![sacred-chevalier](https://cdn.myanimelist.net/images/manga/2/238694.jpg)
+
 -   **type**: manga
 -   **original-name**: セイクリッド・シュヴァリエ
 -   **start-date**: 2019-12-24

@@ -1,5 +1,7 @@
 # Shaonian Jinyiwei 2nd Season
 
+![shaonian-jinyiwei-2nd-season](https://cdn.myanimelist.net/images/anime/1868/90167.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 少年锦衣卫 第二季

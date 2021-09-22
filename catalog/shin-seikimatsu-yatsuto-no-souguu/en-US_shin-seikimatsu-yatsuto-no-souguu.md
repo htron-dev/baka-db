@@ -1,5 +1,7 @@
 # Shin Seikimatsu: Yatsuto no Souguu
 
+![shin-seikimatsu-yatsuto-no-souguu](https://cdn.myanimelist.net/images/anime/10/59647.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: 新世紀末 奴との遭遇

@@ -1,5 +1,7 @@
 # Shingeki no Kyojin: Ano Hi Kara
 
+![shingeki-no-kyojin-ano-hi-kara](https://cdn.myanimelist.net/images/anime/3/51715.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 進撃の巨人 総集編「あの日から」

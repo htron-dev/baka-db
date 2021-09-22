@@ -1,5 +1,7 @@
 # Self
 
+![self](https://cdn.myanimelist.net/images/manga/3/148327.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 45

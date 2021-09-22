@@ -1,5 +1,7 @@
 # Suzumiya Haruhi-chan no Yuuutsu
 
+![suzumiya-haruhi-chan-no-yuuutsu](https://cdn.myanimelist.net/images/manga/1/52663.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 164

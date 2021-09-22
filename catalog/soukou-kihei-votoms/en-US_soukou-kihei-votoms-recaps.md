@@ -1,5 +1,7 @@
 # Soukou Kihei Votoms Recaps
 
+![soukou-kihei-votoms-recaps](https://cdn.myanimelist.net/images/anime/12/34941.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 装甲騎兵ボトムズ

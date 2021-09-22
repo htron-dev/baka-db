@@ -1,5 +1,7 @@
 # Shining Tears
 
+![shining-tears](https://cdn.myanimelist.net/images/manga/3/24560.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 10

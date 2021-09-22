@@ -1,5 +1,7 @@
 # Seiken Tsukai no World Break
 
+![seiken-tsukai-no-world-break](https://cdn.myanimelist.net/images/anime/7/71769.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 聖剣使いの禁呪詠唱〈ワールドブレイク〉

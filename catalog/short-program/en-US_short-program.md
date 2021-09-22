@@ -1,5 +1,7 @@
 # Short Program
 
+![short-program](https://cdn.myanimelist.net/images/manga/1/150696.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

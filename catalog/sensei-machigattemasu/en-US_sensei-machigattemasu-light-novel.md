@@ -1,5 +1,7 @@
 # Sensei, Machigattemasu.
 
+![sensei-machigattemasu](https://cdn.myanimelist.net/images/manga/1/177584.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 23

@@ -1,5 +1,7 @@
 # Saigo no Saiyuuki
 
+![saigo-no-saiyuuki](https://cdn.myanimelist.net/images/manga/3/219785.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

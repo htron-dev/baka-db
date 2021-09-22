@@ -1,5 +1,7 @@
 # Shinjuu suru made, Mattete ne
 
+![shinjuu-suru-made-mattete-ne](https://cdn.myanimelist.net/images/manga/1/238138.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

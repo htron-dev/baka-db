@@ -1,5 +1,7 @@
 # Shingeki no Bahamut: Genesis
 
+![shingeki-no-bahamut-genesis](https://cdn.myanimelist.net/images/anime/2/67513.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 神撃のバハムート GENESIS

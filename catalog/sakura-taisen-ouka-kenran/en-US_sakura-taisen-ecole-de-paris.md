@@ -1,5 +1,7 @@
 # Sakura Taisen: Ecole de Paris
 
+![sakura-taisen-ecole-de-paris](https://cdn.myanimelist.net/images/anime/1915/107217.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: サクラ大戦 エコール・ド・巴里

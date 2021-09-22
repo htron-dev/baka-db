@@ -1,5 +1,7 @@
 # Succu Ochishichau zo! Oneechan wa Senyou Succubus
 
+![succu-ochishichau-zo-oneechan-wa-senyou-succubus](https://cdn.myanimelist.net/images/manga/2/169771.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

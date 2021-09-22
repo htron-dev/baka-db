@@ -1,5 +1,7 @@
 # Suu no Kuuki Kouryaku
 
+![suu-no-kuuki-kouryaku](https://cdn.myanimelist.net/images/manga/2/239913.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 60

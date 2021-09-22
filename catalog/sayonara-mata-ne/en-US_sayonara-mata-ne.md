@@ -1,5 +1,7 @@
 # Sayonara, Mata ne
 
+![sayonara-mata-ne](https://cdn.myanimelist.net/images/manga/1/77253.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: さよなら、またね

@@ -1,5 +1,7 @@
 # Sono Suki Honto.
 
+![sono-suki-honto](https://cdn.myanimelist.net/images/manga/1/226357.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

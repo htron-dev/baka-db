@@ -1,5 +1,7 @@
 # Strike Witches: Suomus Iran-ko Chuutai Series
 
+![strike-witches-suomus-iran-ko-chuutai-series](https://cdn.myanimelist.net/images/manga/1/121545.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 27

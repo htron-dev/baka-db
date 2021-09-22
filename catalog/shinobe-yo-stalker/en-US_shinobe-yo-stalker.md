@@ -1,5 +1,7 @@
 # Shinobe yo! Stalker
 
+![shinobe-yo-stalker](https://cdn.myanimelist.net/images/manga/2/246076.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Shuumatsu Nani Shi ni Ikou?
 
+![shuumatsu-nani-shi-ni-ikou](https://cdn.myanimelist.net/images/manga/2/199568.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

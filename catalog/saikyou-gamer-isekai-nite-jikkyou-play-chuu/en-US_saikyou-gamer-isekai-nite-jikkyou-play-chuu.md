@@ -1,5 +1,7 @@
 # Saikyou Gamer, Isekai nite Jikkyou Play-chuu
 
+![saikyou-gamer-isekai-nite-jikkyou-play-chuu](https://cdn.myanimelist.net/images/manga/1/165440.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

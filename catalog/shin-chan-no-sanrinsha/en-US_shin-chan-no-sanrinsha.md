@@ -1,5 +1,7 @@
 # Shin-chan no Sanrinsha
 
+![shin-chan-no-sanrinsha](https://cdn.myanimelist.net/images/anime/2/66047.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: しんちゃんのさんりんしゃ

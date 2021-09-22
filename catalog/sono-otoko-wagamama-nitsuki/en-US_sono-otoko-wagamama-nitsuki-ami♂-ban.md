@@ -1,5 +1,7 @@
 # Sono Otoko, Wagamama Nitsuki - Ami♂Ban
 
+![sono-otoko-wagamama-nitsuki-ami♂-ban](https://cdn.myanimelist.net/images/manga/5/10282.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: その男、ワガママにつき あみ ♂ ばん

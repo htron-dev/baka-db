@@ -1,5 +1,7 @@
 # Senjuushi: Kijuushi-tachi no Happy Birthday!
 
+![senjuushi-kijuushi-tachi-no-happy-birthday](https://cdn.myanimelist.net/images/anime/1930/97002.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 千銃士 貴銃士たちのハッピーバースデイ!

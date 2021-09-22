@@ -1,5 +1,7 @@
 # Shiguang Dailiren Fan Wai Pian: Biwu Zhaoqin
 
+![shiguang-dailiren-fan-wai-pian-biwu-zhaoqin](https://cdn.myanimelist.net/images/anime/1430/115838.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 时光代理人 番外篇 比武招亲

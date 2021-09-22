@@ -1,5 +1,7 @@
 # Sabishii Kekkon
 
+![sabishii-kekkon](https://cdn.myanimelist.net/images/manga/3/227178.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: さびしい結婚

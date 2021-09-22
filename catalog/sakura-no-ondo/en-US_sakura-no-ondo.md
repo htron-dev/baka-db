@@ -1,5 +1,7 @@
 # Sakura no Ondo
 
+![sakura-no-ondo](https://cdn.myanimelist.net/images/anime/3/42283.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 桜の温度

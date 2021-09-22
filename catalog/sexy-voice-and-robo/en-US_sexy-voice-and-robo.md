@@ -1,5 +1,7 @@
 # Sexy Voice and Robo
 
+![sexy-voice-and-robo](https://cdn.myanimelist.net/images/manga/1/28197.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Shounen Venus
 
+![shounen-venus](https://cdn.myanimelist.net/images/manga/3/12972.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 少年ヴィーナス

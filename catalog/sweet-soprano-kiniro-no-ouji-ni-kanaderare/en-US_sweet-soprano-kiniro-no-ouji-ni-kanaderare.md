@@ -1,5 +1,7 @@
 # Sweet Soprano: Kiniro no Ouji ni Kanaderare
 
+![sweet-soprano-kiniro-no-ouji-ni-kanaderare](https://cdn.myanimelist.net/images/manga/1/183790.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

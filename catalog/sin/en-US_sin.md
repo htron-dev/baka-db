@@ -1,5 +1,7 @@
 # Sin
 
+![sin](https://cdn.myanimelist.net/images/manga/3/12527.jpg)
+
 -   **type**: manhwa
 
 ## Tags

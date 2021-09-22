@@ -1,5 +1,7 @@
 # Sachiko to Neko-sama
 
+![sachiko-to-neko-sama](https://cdn.myanimelist.net/images/manga/1/37357.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 33

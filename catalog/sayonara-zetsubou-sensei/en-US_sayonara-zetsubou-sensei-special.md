@@ -1,5 +1,7 @@
 # Sayonara Zetsubou Sensei Special
 
+![sayonara-zetsubou-sensei-special](https://cdn.myanimelist.net/images/anime/12/75518.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: さよなら絶望先生

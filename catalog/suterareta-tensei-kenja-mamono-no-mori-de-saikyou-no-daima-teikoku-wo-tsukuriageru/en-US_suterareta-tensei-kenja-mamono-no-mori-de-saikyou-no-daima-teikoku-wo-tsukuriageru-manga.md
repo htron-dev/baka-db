@@ -1,5 +1,7 @@
 # Suterareta Tensei Kenja: Mamono no Mori de Saikyou no Daima Teikoku wo Tsukuriageru
 
+![suterareta-tensei-kenja-mamono-no-mori-de-saikyou-no-daima-teikoku-wo-tsukuriageru](https://cdn.myanimelist.net/images/manga/3/238265.jpg)
+
 -   **type**: manga
 -   **original-name**: 捨てられた転生賢者～魔物の森で最強の大魔帝国を作り上げる～
 -   **start-date**: 2020-06-28

@@ -1,5 +1,7 @@
 # Shuriken to Pleats
 
+![shuriken-to-pleats](https://cdn.myanimelist.net/images/manga/1/149632.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

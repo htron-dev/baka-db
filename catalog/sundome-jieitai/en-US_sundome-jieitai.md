@@ -1,5 +1,7 @@
 # Sundome Jieitai
 
+![sundome-jieitai](https://cdn.myanimelist.net/images/manga/3/214579.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

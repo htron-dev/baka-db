@@ -1,5 +1,7 @@
 # Sister Princess: Re Pure Character's
 
+![sister-princess-re-pure-characters](https://cdn.myanimelist.net/images/anime/5/56091.jpg)
+
 -   **type**: special
 -   **episodes**: 12
 -   **original-name**: シスター・プリンセス　 Re Pure 　～キャラクターズ

@@ -1,5 +1,7 @@
 # Shitsuji-dono no Ai Neko
 
+![shitsuji-dono-no-ai-neko](https://cdn.myanimelist.net/images/manga/2/226863.jpg)
+
 -   **type**: manga
 -   **original-name**: 執事殿の愛猫〈あいねこ〉
 -   **start-date**: 2019-01-25

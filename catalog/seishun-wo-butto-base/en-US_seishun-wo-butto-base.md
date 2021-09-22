@@ -1,5 +1,7 @@
 # Seishun wo Butto Base
 
+![seishun-wo-butto-base](https://cdn.myanimelist.net/images/manga/2/33273.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 青春をぶっとばせ

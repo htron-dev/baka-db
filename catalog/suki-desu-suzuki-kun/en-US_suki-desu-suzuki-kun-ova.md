@@ -1,5 +1,7 @@
 # Suki Desu Suzuki-kun!!
 
+![suki-desu-suzuki-kun](https://cdn.myanimelist.net/images/anime/2/19059.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 好きです鈴木くん!!

@@ -1,5 +1,7 @@
 # Shiro ga Ite
 
+![shiro-ga-ite](https://cdn.myanimelist.net/images/manga/2/209995.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Gensoumaden Saiyuuki OVA
 
+![gensoumaden-saiyuuki-ova](https://cdn.myanimelist.net/images/anime/10/67873.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 幻想魔伝 最遊記

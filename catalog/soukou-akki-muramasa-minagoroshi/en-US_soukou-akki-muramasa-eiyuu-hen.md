@@ -1,5 +1,7 @@
 # Soukou Akki Muramasa: Eiyuu-hen
 
+![soukou-akki-muramasa-eiyuu-hen](https://cdn.myanimelist.net/images/manga/1/101273.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

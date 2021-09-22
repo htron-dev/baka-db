@@ -1,5 +1,7 @@
 # Sunny Side Up.
 
+![sunny-side-up](https://cdn.myanimelist.net/images/manga/2/41688.jpg)
+
 -   **type**: manga
 -   **original-name**: サニーサイドアップ
 

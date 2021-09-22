@@ -1,5 +1,7 @@
 # Seitokai Sousenkyo
 
+![seitokai-sousenkyo](https://cdn.myanimelist.net/images/manga/3/188257.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 18

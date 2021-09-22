@@ -1,5 +1,7 @@
 # Shinigami to Gin no Kishi
 
+![shinigami-to-gin-no-kishi](https://cdn.myanimelist.net/images/manga/1/186666.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 36

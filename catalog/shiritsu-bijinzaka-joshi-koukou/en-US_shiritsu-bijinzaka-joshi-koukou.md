@@ -1,5 +1,7 @@
 # Shiritsu! Bijinzaka Joshi Koukou
 
+![shiritsu-bijinzaka-joshi-koukou](https://cdn.myanimelist.net/images/manga/3/207277.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

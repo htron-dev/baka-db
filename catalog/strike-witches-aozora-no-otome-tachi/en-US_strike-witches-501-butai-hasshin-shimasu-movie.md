@@ -1,5 +1,7 @@
 # Strike Witches: 501 Butai Hasshin Shimasu! Movie
 
+![strike-witches-501-butai-hasshin-shimasu-movie](https://cdn.myanimelist.net/images/anime/1102/101638.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ストライクウィッチーズ 劇場版 501 部隊発進しますっ!

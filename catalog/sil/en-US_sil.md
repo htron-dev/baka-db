@@ -1,5 +1,7 @@
 # Sil
 
+![sil](https://cdn.myanimelist.net/images/manga/2/222665.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 102
 -   **original-name**: 실

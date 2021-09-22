@@ -1,5 +1,7 @@
 # Shinigami Lovers
 
+![shinigami-lovers](https://cdn.myanimelist.net/images/manga/1/172771.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

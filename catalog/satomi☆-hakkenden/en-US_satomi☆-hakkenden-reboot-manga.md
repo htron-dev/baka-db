@@ -1,5 +1,7 @@
 # Satomi☆Hakkenden Reboot
 
+![satomi☆-hakkenden-reboot](https://cdn.myanimelist.net/images/manga/2/166100.jpg)
+
 -   **type**: manga
 -   **original-name**: 里見 ☆ 八犬伝 REBOOT
 -   **start-date**: 2015-04-17

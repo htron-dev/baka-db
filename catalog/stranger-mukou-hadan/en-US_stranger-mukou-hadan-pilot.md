@@ -1,5 +1,7 @@
 # Stranger: Mukou Hadan Pilot
 
+![stranger-mukou-hadan-pilot](https://cdn.myanimelist.net/images/anime/2/40079.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ストレンヂア -無皇刃譚-

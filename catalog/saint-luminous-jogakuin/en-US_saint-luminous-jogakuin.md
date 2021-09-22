@@ -1,5 +1,7 @@
 # Saint Luminous Jogakuin
 
+![saint-luminous-jogakuin](https://cdn.myanimelist.net/images/anime/1946/109012.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 聖ルミナス女学院

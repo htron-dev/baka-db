@@ -1,5 +1,7 @@
 # Sacred Seven
 
+![sacred-seven](https://cdn.myanimelist.net/images/anime/12/30218.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: セイクリッドセブン

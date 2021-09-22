@@ -1,5 +1,7 @@
 # Soine-ya Honpo
 
+![soine-ya-honpo](https://cdn.myanimelist.net/images/manga/2/174918.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Sheikh wa Ikinari Kyuukonchuu! "Ore no Yome" tte Watashi ga desu ka?
 
+![sheikh-wa-ikinari-kyuukonchuu-ore-no-yome-tte-watashi-ga-desu-ka](https://cdn.myanimelist.net/images/manga/2/192503.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

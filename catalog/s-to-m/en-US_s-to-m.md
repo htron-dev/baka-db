@@ -1,5 +1,7 @@
 # S to M
 
+![s-to-m](https://cdn.myanimelist.net/images/manga/1/223947.jpg)
+
 -   **type**: manga
 -   **volumes**: 31
 -   **chapters**: 271

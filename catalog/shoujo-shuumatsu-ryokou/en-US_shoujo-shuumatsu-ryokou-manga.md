@@ -1,5 +1,7 @@
 # Shoujo Shuumatsu Ryokou
 
+![shoujo-shuumatsu-ryokou](https://cdn.myanimelist.net/images/manga/1/185918.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 47

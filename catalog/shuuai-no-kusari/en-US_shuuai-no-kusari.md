@@ -1,5 +1,7 @@
 # Shuuai no Kusari
 
+![shuuai-no-kusari](https://cdn.myanimelist.net/images/manga/1/185111.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Sensei no Shiroi Uso
 
+![sensei-no-shiroi-uso](https://cdn.myanimelist.net/images/manga/2/208097.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 49

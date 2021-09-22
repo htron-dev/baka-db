@@ -1,5 +1,7 @@
 # Sono Onna, Jitterbug
 
+![sono-onna-jitterbug](https://cdn.myanimelist.net/images/manga/3/217759.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 45

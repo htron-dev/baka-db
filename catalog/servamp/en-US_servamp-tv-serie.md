@@ -1,5 +1,7 @@
 # Servamp
 
+![servamp](https://cdn.myanimelist.net/images/anime/8/80953.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: SERVAMP（サーヴァンプ）

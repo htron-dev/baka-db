@@ -1,5 +1,7 @@
 # Sennen Sensou Aigis: Gekka no Hanayome
 
+![sennen-sensou-aigis-gekka-no-hanayome](https://cdn.myanimelist.net/images/manga/1/177580.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 千年戦争アイギス 月下の花嫁
 -   **start-date**: 2014-11-29

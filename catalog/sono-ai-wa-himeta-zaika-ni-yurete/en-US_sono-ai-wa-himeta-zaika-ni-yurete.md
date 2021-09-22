@@ -1,5 +1,7 @@
 # Sono Ai wa Himeta Zaika ni Yurete
 
+![sono-ai-wa-himeta-zaika-ni-yurete](https://cdn.myanimelist.net/images/manga/2/194372.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

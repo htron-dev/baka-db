@@ -1,5 +1,7 @@
 # Sousouki Reginald
 
+![sousouki-reginald](https://cdn.myanimelist.net/images/manga/1/105977.jpg)
+
 -   **type**: manga
 -   **chapters**: 12
 -   **original-name**: 葬送鬼レギナルト

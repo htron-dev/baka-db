@@ -1,5 +1,7 @@
 # Shakai Keiyakuron
 
+![shakai-keiyakuron](https://cdn.myanimelist.net/images/manga/2/159249.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

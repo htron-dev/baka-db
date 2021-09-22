@@ -1,5 +1,7 @@
 # Soul Kiss
 
+![soul-kiss](https://cdn.myanimelist.net/images/manga/1/36032.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

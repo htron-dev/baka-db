@@ -1,5 +1,7 @@
 # Sengoku Gaiden: Okehazama Senki
 
+![sengoku-gaiden-okehazama-senki](https://cdn.myanimelist.net/images/manga/2/165059.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 38

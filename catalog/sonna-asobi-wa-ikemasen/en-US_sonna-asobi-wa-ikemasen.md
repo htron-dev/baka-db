@@ -1,5 +1,7 @@
 # Sonna Asobi wa Ikemasen!
 
+![sonna-asobi-wa-ikemasen](https://cdn.myanimelist.net/images/manga/2/163056.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 51

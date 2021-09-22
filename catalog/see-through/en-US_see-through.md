@@ -1,5 +1,7 @@
 # See-Through!?
 
+![see-through](https://cdn.myanimelist.net/images/manga/3/124003.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: シースルー!?

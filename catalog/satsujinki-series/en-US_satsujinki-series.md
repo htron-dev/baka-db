@@ -1,5 +1,7 @@
 # Satsujinki Series
 
+![satsujinki-series](https://cdn.myanimelist.net/images/manga/2/161313.jpg)
+
 -   **type**: light-novel
 -   **chapters**: 2
 -   **original-name**: 殺人鬼シリーズ

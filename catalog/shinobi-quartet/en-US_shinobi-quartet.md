@@ -1,5 +1,7 @@
 # Shinobi Quartet
 
+![shinobi-quartet](https://cdn.myanimelist.net/images/manga/2/180352.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 32

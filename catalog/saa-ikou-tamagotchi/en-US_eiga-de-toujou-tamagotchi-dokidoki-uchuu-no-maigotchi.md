@@ -1,5 +1,7 @@
 # Eiga de Toujou! Tamagotchi Dokidoki! Uchuu no Maigotchi!?
 
+![eiga-de-toujou-tamagotchi-dokidoki-uchuu-no-maigotchi](https://cdn.myanimelist.net/images/anime/2/29338.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: えいがでとーじょー！ たまごっち ドキドキ！うちゅーのまいごっち！？

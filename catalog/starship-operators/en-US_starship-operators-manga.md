@@ -1,5 +1,7 @@
 # Starship Operators
 
+![starship-operators](https://cdn.myanimelist.net/images/manga/2/163972.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Seigi wo Aisuru Mono Gekkou Kamen
 
+![seigi-wo-aisuru-mono-gekkou-kamen](https://cdn.myanimelist.net/images/anime/3/31675.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: 正義を愛する者、月光仮面

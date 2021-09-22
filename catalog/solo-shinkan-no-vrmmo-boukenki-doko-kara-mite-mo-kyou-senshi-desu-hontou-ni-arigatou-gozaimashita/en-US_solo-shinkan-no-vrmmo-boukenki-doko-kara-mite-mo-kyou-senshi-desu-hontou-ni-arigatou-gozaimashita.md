@@ -1,5 +1,7 @@
 # Solo Shinkan no VRMMO Boukenki: Doko kara Mite mo Kyou-senshi desu Hontou ni Arigatou Gozaimashita
 
+![solo-shinkan-no-vrmmo-boukenki-doko-kara-mite-mo-kyou-senshi-desu-hontou-ni-arigatou-gozaimashita](https://cdn.myanimelist.net/images/manga/3/246073.jpg)
+
 -   **type**: manga
 -   **original-name**: ソロ神官の VRMMO 冒険記 ～どこから見ても狂戦士です本当にありがとうございました～
 -   **start-date**: 2020-08-06

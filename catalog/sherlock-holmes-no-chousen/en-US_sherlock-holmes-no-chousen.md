@@ -1,5 +1,7 @@
 # Sherlock Holmes no Chousen
 
+![sherlock-holmes-no-chousen](https://cdn.myanimelist.net/images/manga/1/91483.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

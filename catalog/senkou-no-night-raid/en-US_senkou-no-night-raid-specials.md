@@ -1,5 +1,7 @@
 # Senkou no Night Raid Specials
 
+![senkou-no-night-raid-specials](https://cdn.myanimelist.net/images/anime/3/26157.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 閃光のナイトレイド

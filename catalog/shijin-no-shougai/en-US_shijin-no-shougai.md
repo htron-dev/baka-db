@@ -1,5 +1,7 @@
 # Shijin no Shougai
 
+![shijin-no-shougai](https://cdn.myanimelist.net/images/anime/6/17201.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 詩人の生涯

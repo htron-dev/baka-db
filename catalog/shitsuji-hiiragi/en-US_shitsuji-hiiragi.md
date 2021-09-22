@@ -1,5 +1,7 @@
 # Shitsuji Hiiragi
 
+![shitsuji-hiiragi](https://cdn.myanimelist.net/images/manga/2/19890.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 執事・柊

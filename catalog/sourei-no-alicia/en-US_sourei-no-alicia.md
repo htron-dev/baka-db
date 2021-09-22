@@ -1,5 +1,7 @@
 # Sourei no Alicia
 
+![sourei-no-alicia](https://cdn.myanimelist.net/images/manga/2/126365.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 創黎のアリシア

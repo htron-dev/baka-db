@@ -1,5 +1,7 @@
 # Soukou Kihei Votoms: Genei-hen
 
+![soukou-kihei-votoms-genei-hen](https://cdn.myanimelist.net/images/anime/1553/97716.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 装甲騎兵ボトムズ 幻影篇

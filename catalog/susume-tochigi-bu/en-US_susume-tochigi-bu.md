@@ -1,5 +1,7 @@
 # Susume! Tochigi-bu
 
+![susume-tochigi-bu](https://cdn.myanimelist.net/images/manga/2/227867.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # Sensen Spike Hills
 
+![sensen-spike-hills](https://cdn.myanimelist.net/images/manga/2/56733.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 57

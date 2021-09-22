@@ -1,5 +1,7 @@
 # Share With Blood
 
+![share-with-blood](https://cdn.myanimelist.net/images/manga/2/226122.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

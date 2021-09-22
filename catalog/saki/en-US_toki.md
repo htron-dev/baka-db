@@ -1,5 +1,7 @@
 # Toki
 
+![toki](https://cdn.myanimelist.net/images/manga/1/187410.jpg)
+
 -   **type**: manga
 -   **original-name**: 怜-Toki-
 -   **start-date**: 2016-06-25

@@ -1,5 +1,7 @@
 # Shaman King: Flowers
 
+![shaman-king-flowers](https://cdn.myanimelist.net/images/manga/1/97165.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 29

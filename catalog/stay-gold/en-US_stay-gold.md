@@ -1,5 +1,7 @@
 # Stay Gold
 
+![stay-gold](https://cdn.myanimelist.net/images/manga/3/179086.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 43

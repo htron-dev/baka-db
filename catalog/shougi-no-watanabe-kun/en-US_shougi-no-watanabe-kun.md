@@ -1,5 +1,7 @@
 # Shougi no Watanabe-kun
 
+![shougi-no-watanabe-kun](https://cdn.myanimelist.net/images/manga/3/215701.jpg)
+
 -   **type**: manga
 -   **original-name**: 将棋の渡辺くん
 -   **start-date**: 2013-05-09

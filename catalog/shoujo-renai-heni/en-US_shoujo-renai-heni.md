@@ -1,5 +1,7 @@
 # Shoujo Renai Heni
 
+![shoujo-renai-heni](https://cdn.myanimelist.net/images/manga/2/74325.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

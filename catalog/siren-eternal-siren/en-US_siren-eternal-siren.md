@@ -1,5 +1,7 @@
 # Siren: Eternal Siren
 
+![siren-eternal-siren](https://cdn.myanimelist.net/images/manga/3/129039.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

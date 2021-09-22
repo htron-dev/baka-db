@@ -1,5 +1,7 @@
 # Saraware Otome no Aisarekon
 
+![saraware-otome-no-aisarekon](https://cdn.myanimelist.net/images/manga/1/183377.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

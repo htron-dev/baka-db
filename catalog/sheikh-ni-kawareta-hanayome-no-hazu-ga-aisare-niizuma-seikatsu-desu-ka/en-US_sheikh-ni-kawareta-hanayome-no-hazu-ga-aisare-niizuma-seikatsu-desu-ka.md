@@ -1,5 +1,7 @@
 # Sheikh ni Kawareta Hanayome no Hazu ga, Aisare Niizuma Seikatsu desu ka?
 
+![sheikh-ni-kawareta-hanayome-no-hazu-ga-aisare-niizuma-seikatsu-desu-ka](https://cdn.myanimelist.net/images/manga/3/183722.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

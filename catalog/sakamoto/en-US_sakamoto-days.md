@@ -1,5 +1,7 @@
 # Sakamoto Days
 
+![sakamoto-days](https://cdn.myanimelist.net/images/manga/1/242919.jpg)
+
 -   **type**: manga
 -   **original-name**: SAKAMOTO DAYS
 -   **start-date**: 2020-11-21

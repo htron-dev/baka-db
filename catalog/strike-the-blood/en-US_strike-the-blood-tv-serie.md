@@ -1,5 +1,7 @@
 # Strike the Blood
 
+![strike-the-blood](https://cdn.myanimelist.net/images/anime/5/56163.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ストライク・ザ・ブラッド

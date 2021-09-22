@@ -1,5 +1,7 @@
 # Saikachi: Manatsu no Konchuu Kakutouki
 
+![saikachi-manatsu-no-konchuu-kakutouki](https://cdn.myanimelist.net/images/manga/3/27483.jpg)
+
 -   **type**: manga
 -   **original-name**: サイカチ 真夏の昆虫格闘記
 

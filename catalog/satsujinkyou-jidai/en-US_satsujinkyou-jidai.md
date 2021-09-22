@@ -1,5 +1,7 @@
 # Satsujinkyou Jidai
 
+![satsujinkyou-jidai](https://cdn.myanimelist.net/images/anime/6/50301.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 殺人狂時代

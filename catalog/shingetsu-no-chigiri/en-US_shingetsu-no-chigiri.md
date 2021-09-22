@@ -1,5 +1,7 @@
 # Shingetsu no Chigiri
 
+![shingetsu-no-chigiri](https://cdn.myanimelist.net/images/manga/1/186100.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

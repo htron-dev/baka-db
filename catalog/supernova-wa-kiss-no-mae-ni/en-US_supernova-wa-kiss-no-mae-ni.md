@@ -1,5 +1,7 @@
 # Supernova wa Kiss no Mae ni
 
+![supernova-wa-kiss-no-mae-ni](https://cdn.myanimelist.net/images/manga/1/235805.jpg)
+
 -   **type**: manga
 -   **original-name**: スーパーノヴァはキスの前に
 -   **start-date**: 2020-02-11

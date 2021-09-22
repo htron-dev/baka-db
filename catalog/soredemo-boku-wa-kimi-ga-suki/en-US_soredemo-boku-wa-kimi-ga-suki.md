@@ -1,5 +1,7 @@
 # Soredemo Boku wa Kimi ga Suki
 
+![soredemo-boku-wa-kimi-ga-suki](https://cdn.myanimelist.net/images/manga/1/151925.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 44

@@ -1,5 +1,7 @@
 # Spin Out
 
+![spin-out](https://cdn.myanimelist.net/images/manga/2/221773.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

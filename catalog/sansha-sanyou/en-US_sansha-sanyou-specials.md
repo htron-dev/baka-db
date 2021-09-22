@@ -1,5 +1,7 @@
 # Sansha Sanyou Specials
 
+![sansha-sanyou-specials](https://cdn.myanimelist.net/images/anime/10/79682.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 三者三葉

@@ -1,5 +1,7 @@
 # Sono Yubi dake ga Shitteiru
 
+![sono-yubi-dake-ga-shitteiru](https://cdn.myanimelist.net/images/manga/5/1875.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

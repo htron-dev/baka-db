@@ -1,5 +1,7 @@
 # Sono Toki, Kimi ga Naita
 
+![sono-toki-kimi-ga-naita](https://cdn.myanimelist.net/images/manga/3/179270.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

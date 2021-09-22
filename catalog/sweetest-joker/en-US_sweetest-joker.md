@@ -1,5 +1,7 @@
 # Sweetest Joker
 
+![sweetest-joker](https://cdn.myanimelist.net/images/manga/3/20809.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

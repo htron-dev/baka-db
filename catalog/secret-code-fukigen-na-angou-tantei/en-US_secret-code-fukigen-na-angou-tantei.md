@@ -1,5 +1,7 @@
 # Secret Code: Fukigen na Angou Tantei
 
+![secret-code-fukigen-na-angou-tantei](https://cdn.myanimelist.net/images/manga/3/201806.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

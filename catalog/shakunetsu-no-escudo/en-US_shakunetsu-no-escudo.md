@@ -1,5 +1,7 @@
 # Shakunetsu no Escudo
 
+![shakunetsu-no-escudo](https://cdn.myanimelist.net/images/manga/1/153043.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 31

@@ -1,5 +1,7 @@
 # Shushokukatsudou no Susume
 
+![shushokukatsudou-no-susume](https://cdn.myanimelist.net/images/manga/1/41972.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

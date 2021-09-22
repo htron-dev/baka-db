@@ -1,5 +1,7 @@
 # Shakugan no Shana
 
+![shakugan-no-shana](https://cdn.myanimelist.net/images/anime/8/21197.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 灼眼のシャナ

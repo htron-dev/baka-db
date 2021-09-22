@@ -1,5 +1,7 @@
 # Sorairo Kaigan
 
+![sorairo-kaigan](https://cdn.myanimelist.net/images/manga/1/37932.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 24

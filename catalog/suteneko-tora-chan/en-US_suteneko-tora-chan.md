@@ -1,5 +1,7 @@
 # Suteneko Tora-chan
 
+![suteneko-tora-chan](https://cdn.myanimelist.net/images/anime/1552/105362.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: すて猫トラちゃん

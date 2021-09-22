@@ -1,5 +1,7 @@
 # Super Comic Gekijou: To Heart 2
 
+![super-comic-gekijou-to-heart-2](https://cdn.myanimelist.net/images/manga/2/151596.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: スーパーコミック劇場 ToHeart2

@@ -1,5 +1,7 @@
 # Sekai Monoshiri Ryoko
 
+![sekai-monoshiri-ryoko](https://cdn.myanimelist.net/images/anime/12/28225.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 1006
 -   **original-name**: 世界ものしり旅行

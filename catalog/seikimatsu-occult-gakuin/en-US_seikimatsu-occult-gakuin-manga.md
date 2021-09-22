@@ -1,5 +1,7 @@
 # Seikimatsu Occult Gakuin
 
+![seikimatsu-occult-gakuin](https://cdn.myanimelist.net/images/manga/1/60673.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

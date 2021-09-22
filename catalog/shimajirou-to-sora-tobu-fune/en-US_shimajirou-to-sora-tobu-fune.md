@@ -1,5 +1,7 @@
 # Shimajirou to Sora Tobu Fune
 
+![shimajirou-to-sora-tobu-fune](https://cdn.myanimelist.net/images/anime/1203/103664.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: しまじろうと そらとぶふね

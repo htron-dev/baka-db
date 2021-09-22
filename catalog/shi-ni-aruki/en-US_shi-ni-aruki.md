@@ -1,5 +1,7 @@
 # Shi ni Aruki
 
+![shi-ni-aruki](https://cdn.myanimelist.net/images/manga/3/198188.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 37

@@ -1,5 +1,7 @@
 # Shishunki-chan no Shitsukekata
 
+![shishunki-chan-no-shitsukekata](https://cdn.myanimelist.net/images/manga/3/228528.jpg)
+
 -   **type**: manga
 -   **original-name**: 思春期ちゃんのしつけかた
 -   **start-date**: 2019-02-27

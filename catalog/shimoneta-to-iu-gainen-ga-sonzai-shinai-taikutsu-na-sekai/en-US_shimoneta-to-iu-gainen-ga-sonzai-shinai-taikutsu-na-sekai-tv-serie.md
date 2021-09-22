@@ -1,5 +1,7 @@
 # Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai
 
+![shimoneta-to-iu-gainen-ga-sonzai-shinai-taikutsu-na-sekai](https://cdn.myanimelist.net/images/anime/6/75106.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 下ネタという概念が存在しない退屈な世界

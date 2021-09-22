@@ -1,5 +1,7 @@
 # Shirokuma Café
 
+![shirokuma-cafe](https://cdn.myanimelist.net/images/manga/3/64713.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 100

@@ -1,5 +1,7 @@
 # Sultan ni Ubawarete
 
+![sultan-ni-ubawarete](https://cdn.myanimelist.net/images/manga/1/182499.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

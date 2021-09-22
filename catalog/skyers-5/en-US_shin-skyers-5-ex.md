@@ -1,5 +1,7 @@
 # Shin Skyers 5 EX
 
+![shin-skyers-5-ex](https://cdn.myanimelist.net/images/anime/1133/100887.jpg)
+
 -   **type**: special
 -   **episodes**: 12
 -   **original-name**: 新スカイヤーズ 5 EX

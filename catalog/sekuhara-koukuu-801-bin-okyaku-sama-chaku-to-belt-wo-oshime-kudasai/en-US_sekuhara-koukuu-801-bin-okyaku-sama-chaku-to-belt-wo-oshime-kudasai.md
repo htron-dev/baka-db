@@ -1,5 +1,7 @@
 # Sekuhara Koukuu 801-bin: Okyaku-sama, Chaku to Belt wo Oshime Kudasai
 
+![sekuhara-koukuu-801-bin-okyaku-sama-chaku-to-belt-wo-oshime-kudasai](https://cdn.myanimelist.net/images/manga/2/128203.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

@@ -1,5 +1,7 @@
 # Senkou no Night Raid: Yogen
 
+![senkou-no-night-raid-yogen](https://cdn.myanimelist.net/images/anime/2/24432.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 閃光のナイトレイド 預言

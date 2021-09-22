@@ -1,5 +1,7 @@
 # Slayers Original Movie Screenplay Book
 
+![slayers-original-movie-screenplay-book](https://cdn.myanimelist.net/images/manga/1/33364.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 劇場版 スレイヤーズおりぢなる

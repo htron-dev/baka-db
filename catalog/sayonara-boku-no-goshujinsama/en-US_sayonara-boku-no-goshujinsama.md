@@ -1,5 +1,7 @@
 # Sayonara, Boku no Goshujinsama
 
+![sayonara-boku-no-goshujinsama](https://cdn.myanimelist.net/images/manga/1/227859.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

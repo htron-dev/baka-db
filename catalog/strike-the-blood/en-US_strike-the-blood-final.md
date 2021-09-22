@@ -1,5 +1,7 @@
 # Strike the Blood Final
 
+![strike-the-blood-final](https://cdn.myanimelist.net/images/anime/1879/116206.jpg)
+
 -   **type**: ova
 -   **original-name**: ストライク・ザ・ブラッド FINAL
 -   **rating**: R+ - Mild Nudity

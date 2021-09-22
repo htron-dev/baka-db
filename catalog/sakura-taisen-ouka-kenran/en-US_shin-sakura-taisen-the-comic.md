@@ -1,5 +1,7 @@
 # Shin Sakura Taisen the Comic
 
+![shin-sakura-taisen-the-comic](https://cdn.myanimelist.net/images/manga/3/235127.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 31

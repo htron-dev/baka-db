@@ -1,5 +1,7 @@
 # Suginami Toubatsu Koumuin: Dungeon Kinmu no Hitobito
 
+![suginami-toubatsu-koumuin-dungeon-kinmu-no-hitobito](https://cdn.myanimelist.net/images/manga/3/209450.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 34

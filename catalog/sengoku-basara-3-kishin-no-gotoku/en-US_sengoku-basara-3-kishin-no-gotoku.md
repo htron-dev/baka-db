@@ -1,5 +1,7 @@
 # Sengoku Basara 3: Kishin no Gotoku
 
+![sengoku-basara-3-kishin-no-gotoku](https://cdn.myanimelist.net/images/manga/3/127829.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

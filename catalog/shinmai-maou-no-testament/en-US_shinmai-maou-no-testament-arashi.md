@@ -1,5 +1,7 @@
 # Shinmai Maou no Testament: Arashi
 
+![shinmai-maou-no-testament-arashi](https://cdn.myanimelist.net/images/manga/1/147721.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

@@ -1,5 +1,7 @@
 # Shosei Katsuragi Shinjirou no Nichijou
 
+![shosei-katsuragi-shinjirou-no-nichijou](https://cdn.myanimelist.net/images/manga/1/207845.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 49

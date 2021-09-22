@@ -1,5 +1,7 @@
 # Sephirot
 
+![sephirot](https://cdn.myanimelist.net/images/manga/3/166836.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 天牢都市〈セフィロト〉
 -   **start-date**: 2015-11-25

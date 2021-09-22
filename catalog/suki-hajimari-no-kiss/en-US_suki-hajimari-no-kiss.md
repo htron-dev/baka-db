@@ -1,5 +1,7 @@
 # Suki Hajimari no Kiss
 
+![suki-hajimari-no-kiss](https://cdn.myanimelist.net/images/manga/1/79575.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: スキ　はじまりの　キス

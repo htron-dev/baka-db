@@ -1,5 +1,7 @@
 # Saigo wa? Straight!!
 
+![saigo-wa-straight](https://cdn.myanimelist.net/images/manga/1/203711.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 197

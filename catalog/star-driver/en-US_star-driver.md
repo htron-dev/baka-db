@@ -1,5 +1,7 @@
 # Star Driver
 
+![star-driver](https://cdn.myanimelist.net/images/manga/2/64653.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

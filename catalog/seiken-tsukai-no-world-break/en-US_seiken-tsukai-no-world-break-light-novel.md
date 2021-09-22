@@ -1,5 +1,7 @@
 # Seiken Tsukai no World Break
 
+![seiken-tsukai-no-world-break](https://cdn.myanimelist.net/images/manga/1/177486.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 22
 -   **chapters**: 171

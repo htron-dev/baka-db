@@ -1,5 +1,7 @@
 # Shishaku Valmont: Kiken na Kankei
 
+![shishaku-valmont-kiken-na-kankei](https://cdn.myanimelist.net/images/manga/3/40580.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

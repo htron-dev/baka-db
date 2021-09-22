@@ -1,5 +1,7 @@
 # S Koushaku no Midara na Jinmon!
 
+![s-koushaku-no-midara-na-jinmon](https://cdn.myanimelist.net/images/manga/3/174470.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

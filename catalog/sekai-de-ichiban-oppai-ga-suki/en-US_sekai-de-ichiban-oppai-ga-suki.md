@@ -1,5 +1,7 @@
 # Sekai de Ichiban Oppai ga Suki!
 
+![sekai-de-ichiban-oppai-ga-suki](https://cdn.myanimelist.net/images/manga/3/207219.jpg)
+
 -   **type**: manga
 -   **original-name**: 世界で一番おっぱいが好き！
 -   **start-date**: 2017-07-27

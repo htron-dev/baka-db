@@ -1,5 +1,7 @@
 # Shijou Saikyou no Deshi Kenichi Plus
 
+![shijou-saikyou-no-deshi-kenichi-plus](https://cdn.myanimelist.net/images/manga/2/96275.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

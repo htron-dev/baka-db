@@ -1,5 +1,7 @@
 # Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai: ○EX
 
+![shimoneta-to-iu-gainen-ga-sonzai-shinai-taikutsu-na-sekai-○ex](https://cdn.myanimelist.net/images/manga/3/217212.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

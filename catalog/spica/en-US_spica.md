@@ -1,5 +1,7 @@
 # Spica
 
+![spica](https://cdn.myanimelist.net/images/manga/2/46675.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

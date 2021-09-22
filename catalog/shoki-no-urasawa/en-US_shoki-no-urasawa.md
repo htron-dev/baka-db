@@ -1,5 +1,7 @@
 # Shoki no Urasawa
 
+![shoki-no-urasawa](https://cdn.myanimelist.net/images/manga/1/41052.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 27

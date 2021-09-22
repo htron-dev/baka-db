@@ -1,5 +1,7 @@
 # Sakura Tsuushin
 
+![sakura-tsuushin](https://cdn.myanimelist.net/images/anime/12/74961.jpg)
+
 -   **type**: ova
 -   **episodes**: 12
 -   **original-name**: 桜通信

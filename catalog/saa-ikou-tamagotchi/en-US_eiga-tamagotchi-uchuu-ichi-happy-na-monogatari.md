@@ -1,5 +1,7 @@
 # Eiga! Tamagotchi Uchuu Ichi Happy na Monogatari!?
 
+![eiga-tamagotchi-uchuu-ichi-happy-na-monogatari](https://cdn.myanimelist.net/images/anime/7/49049.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画！たまごっち うちゅーいちハッピーな物語！？

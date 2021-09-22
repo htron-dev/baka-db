@@ -1,5 +1,7 @@
 # Sengoku Musou SP: Sanada no Shou
 
+![sengoku-musou-sp-sanada-no-shou](https://cdn.myanimelist.net/images/anime/7/56703.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 戦国無双 SP 真田の章

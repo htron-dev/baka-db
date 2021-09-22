@@ -1,5 +1,7 @@
 # Seol Hui
 
+![seol-hui](https://cdn.myanimelist.net/images/manga/2/72791.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 설희
 

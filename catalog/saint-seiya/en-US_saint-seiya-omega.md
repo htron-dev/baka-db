@@ -1,5 +1,7 @@
 # Saint Seiya Omega
 
+![saint-seiya-omega](https://cdn.myanimelist.net/images/anime/8/76052.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 97
 -   **original-name**: 聖闘士星矢 Ω

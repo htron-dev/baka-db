@@ -1,5 +1,7 @@
 # Sentou Megami Anunga
 
+![sentou-megami-anunga](https://cdn.myanimelist.net/images/manga/2/137549.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 37

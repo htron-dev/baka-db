@@ -1,5 +1,7 @@
 # Seimei-san wa Ganbaranai
 
+![seimei-san-wa-ganbaranai](https://cdn.myanimelist.net/images/manga/2/195806.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 37

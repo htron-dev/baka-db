@@ -1,5 +1,7 @@
 # Shima Kousaku no Asia Shinseki-den
 
+![shima-kousaku-no-asia-shinseki-den](https://cdn.myanimelist.net/images/anime/11/80672.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 30
 -   **original-name**: 島耕作のアジア新世紀伝

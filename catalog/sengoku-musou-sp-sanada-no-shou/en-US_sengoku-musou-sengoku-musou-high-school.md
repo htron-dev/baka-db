@@ -1,5 +1,7 @@
 # Sengoku Musou: Sengoku Musou High School
 
+![sengoku-musou-sengoku-musou-high-school](https://cdn.myanimelist.net/images/anime/6/72789.jpg)
+
 -   **type**: special
 -   **episodes**: 8
 -   **original-name**: 戦国無双ハイスクール　とくべつへん

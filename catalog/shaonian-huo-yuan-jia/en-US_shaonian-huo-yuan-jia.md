@@ -1,5 +1,7 @@
 # Shaonian Huo Yuan Jia
 
+![shaonian-huo-yuan-jia](https://cdn.myanimelist.net/images/anime/1430/115330.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 少年霍元甲

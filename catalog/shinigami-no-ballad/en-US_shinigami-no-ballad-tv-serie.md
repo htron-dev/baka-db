@@ -1,5 +1,7 @@
 # Shinigami no Ballad.
 
+![shinigami-no-ballad](https://cdn.myanimelist.net/images/anime/5/16086.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 6
 -   **original-name**: しにがみのバラッド。

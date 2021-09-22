@@ -1,5 +1,7 @@
 # Seikon no Qwaser: Jotei no Shouzou
 
+![seikon-no-qwaser-jotei-no-shouzou](https://cdn.myanimelist.net/images/anime/9/27178.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 聖痕のクェイサー 女帝の肖像

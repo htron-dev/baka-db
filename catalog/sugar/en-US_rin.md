@@ -1,5 +1,7 @@
 # Rin
 
+![rin](https://cdn.myanimelist.net/images/manga/2/78863.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: リン

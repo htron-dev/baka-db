@@ -1,5 +1,7 @@
 # Shigutsman
 
+![shigutsman](https://cdn.myanimelist.net/images/anime/1551/92947.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 滋賀ッツマン

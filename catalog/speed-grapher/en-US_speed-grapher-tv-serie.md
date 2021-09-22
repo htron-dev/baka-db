@@ -1,5 +1,7 @@
 # Speed Grapher
 
+![speed-grapher](https://cdn.myanimelist.net/images/anime/12/26128.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: スピードグラファー

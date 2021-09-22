@@ -1,5 +1,7 @@
 # Yatta ne Tae-chan!
 
+![yatta-ne-tae-chan](https://cdn.myanimelist.net/images/manga/3/234305.jpg)
+
 -   **type**: manga
 -   **original-name**: やったねたえちゃん！
 -   **start-date**: 2019-11-05

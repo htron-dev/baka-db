@@ -1,5 +1,7 @@
 # Sumire♡16-sai!!
 
+![sumire♡-16-sai](https://cdn.myanimelist.net/images/manga/3/184459.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 52

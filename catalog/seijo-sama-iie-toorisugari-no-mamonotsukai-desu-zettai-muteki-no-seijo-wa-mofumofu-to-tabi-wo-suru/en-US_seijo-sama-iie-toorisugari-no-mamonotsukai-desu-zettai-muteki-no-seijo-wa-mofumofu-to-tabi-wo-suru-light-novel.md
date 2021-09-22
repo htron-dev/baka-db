@@ -1,5 +1,7 @@
 # Seijo-sama? Iie, Toorisugari no Mamonotsukai desu!: Zettai Muteki no Seijo wa Mofumofu to Tabi wo Suru
 
+![seijo-sama-iie-toorisugari-no-mamonotsukai-desu-zettai-muteki-no-seijo-wa-mofumofu-to-tabi-wo-suru](https://cdn.myanimelist.net/images/manga/1/241943.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 聖女さま？ いいえ、通りすがりの魔物使いです！　〜絶対無敵の聖女はモフモフと旅をする〜
 -   **start-date**: 2020-03-10

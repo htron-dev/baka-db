@@ -1,5 +1,7 @@
 # Sis: Himitsu no Koigokoro
 
+![sis-himitsu-no-koigokoro](https://cdn.myanimelist.net/images/manga/3/128107.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

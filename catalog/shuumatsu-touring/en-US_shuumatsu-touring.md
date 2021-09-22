@@ -1,5 +1,7 @@
 # Shuumatsu Touring
 
+![shuumatsu-touring](https://cdn.myanimelist.net/images/manga/3/244075.jpg)
+
 -   **type**: manga
 -   **original-name**: 終末ツーリング
 -   **start-date**: 2020-09-26

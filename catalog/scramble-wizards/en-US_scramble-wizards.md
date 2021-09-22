@@ -1,5 +1,7 @@
 # Scramble Wizards
 
+![scramble-wizards](https://cdn.myanimelist.net/images/manga/3/163714.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 59

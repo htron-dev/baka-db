@@ -1,5 +1,7 @@
 # Saru Lock
 
+![saru-lock](https://cdn.myanimelist.net/images/manga/1/56761.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 243

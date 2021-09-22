@@ -1,5 +1,7 @@
 # Sensei to Inu to Watashi
 
+![sensei-to-inu-to-watashi](https://cdn.myanimelist.net/images/manga/1/144885.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

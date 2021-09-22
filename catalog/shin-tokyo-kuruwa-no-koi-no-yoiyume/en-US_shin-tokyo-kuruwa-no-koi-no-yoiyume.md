@@ -1,5 +1,7 @@
 # Shin Tokyo Kuruwa no Koi no Yoiyume
 
+![shin-tokyo-kuruwa-no-koi-no-yoiyume](https://cdn.myanimelist.net/images/manga/3/10678.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

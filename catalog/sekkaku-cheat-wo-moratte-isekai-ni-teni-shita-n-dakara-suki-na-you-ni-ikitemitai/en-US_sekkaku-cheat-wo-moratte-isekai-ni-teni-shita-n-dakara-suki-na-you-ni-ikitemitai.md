@@ -1,5 +1,7 @@
 # Sekkaku Cheat wo Moratte Isekai ni Teni shita n dakara, Suki na You ni Ikitemitai
 
+![sekkaku-cheat-wo-moratte-isekai-ni-teni-shita-n-dakara-suki-na-you-ni-ikitemitai](https://cdn.myanimelist.net/images/manga/1/201843.jpg)
+
 -   **type**: light-novel
 -   **original-name**: せっかくチートを貰って異世界に転移したんだから、好きなように生きてみたい
 -   **start-date**: 2017-11-30

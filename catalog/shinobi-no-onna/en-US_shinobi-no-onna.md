@@ -1,5 +1,7 @@
 # Shinobi no Onna
 
+![shinobi-no-onna](https://cdn.myanimelist.net/images/manga/1/36328.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

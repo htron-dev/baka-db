@@ -1,5 +1,7 @@
 # Suzumiya Haruhi Series: Atezuppo Numbers
 
+![suzumiya-haruhi-series-atezuppo-numbers](https://cdn.myanimelist.net/images/manga/2/123311.jpg)
+
 -   **type**: light-novel
 -   **chapters**: 1
 -   **original-name**: 涼宮ハルヒシリーズ あてずっぽナンバーズ

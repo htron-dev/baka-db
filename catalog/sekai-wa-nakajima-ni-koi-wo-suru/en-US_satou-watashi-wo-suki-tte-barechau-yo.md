@@ -1,5 +1,7 @@
 # Satou, Watashi wo Suki tte Barechau yo!?
 
+![satou-watashi-wo-suki-tte-barechau-yo](https://cdn.myanimelist.net/images/manga/3/237185.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

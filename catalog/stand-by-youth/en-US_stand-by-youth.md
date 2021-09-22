@@ -1,5 +1,7 @@
 # Stand By Youth
 
+![stand-by-youth](https://cdn.myanimelist.net/images/manga/2/9018.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 

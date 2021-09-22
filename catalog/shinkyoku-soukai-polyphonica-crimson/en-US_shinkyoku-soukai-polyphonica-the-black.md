@@ -1,5 +1,7 @@
 # Shinkyoku Soukai Polyphonica: The Black
 
+![shinkyoku-soukai-polyphonica-the-black](https://cdn.myanimelist.net/images/manga/1/33051.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 神曲奏界ポリフォニカ ザ・ブラック

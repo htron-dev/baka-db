@@ -1,5 +1,7 @@
 # Sabu to Ichi Torimono Hikae
 
+![sabu-to-ichi-torimono-hikae](https://cdn.myanimelist.net/images/anime/9/84054.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 佐武と市捕物控

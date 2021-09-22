@@ -1,5 +1,7 @@
 # Shinobi no
 
+![shinobi-no](https://cdn.myanimelist.net/images/manga/1/202265.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 57

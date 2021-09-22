@@ -1,5 +1,7 @@
 # Shinigami Tsuki no Amamiya-san: Shinigami Yousei Gakkou-hen
 
+![shinigami-tsuki-no-amamiya-san-shinigami-yousei-gakkou-hen](https://cdn.myanimelist.net/images/manga/1/227825.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

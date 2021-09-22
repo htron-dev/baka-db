@@ -1,5 +1,7 @@
 # Sekai no Owari no Encore
 
+![sekai-no-owari-no-encore](https://cdn.myanimelist.net/images/manga/1/196487.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 89

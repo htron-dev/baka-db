@@ -1,5 +1,7 @@
 # Seraphic Feather
 
+![seraphic-feather](https://cdn.myanimelist.net/images/manga/1/138125.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 136

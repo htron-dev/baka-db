@@ -1,5 +1,7 @@
 # Scrapped Princess
 
+![scrapped-princess](https://cdn.myanimelist.net/images/manga/1/114587.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 13
 -   **chapters**: 70

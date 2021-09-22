@@ -1,5 +1,7 @@
 # Shiranami no Illusion
 
+![shiranami-no-illusion](https://cdn.myanimelist.net/images/manga/2/175802.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

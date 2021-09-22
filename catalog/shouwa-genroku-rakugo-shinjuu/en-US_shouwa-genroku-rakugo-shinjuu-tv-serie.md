@@ -1,5 +1,7 @@
 # Shouwa Genroku Rakugo Shinjuu
 
+![shouwa-genroku-rakugo-shinjuu](https://cdn.myanimelist.net/images/anime/2/77907.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 昭和元禄落語心中

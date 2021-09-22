@@ -1,5 +1,7 @@
 # Steins;Gate: Hiyoku Renri no Future Honey
 
+![steins-gate-hiyoku-renri-no-future-honey](https://cdn.myanimelist.net/images/manga/3/129319.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

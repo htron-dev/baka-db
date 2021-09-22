@@ -1,5 +1,7 @@
 # Shounen yo Taishi wo dake!
 
+![shounen-yo-taishi-wo-dake](https://cdn.myanimelist.net/images/manga/2/62103.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

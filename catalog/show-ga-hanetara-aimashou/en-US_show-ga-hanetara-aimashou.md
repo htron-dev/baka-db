@@ -1,5 +1,7 @@
 # Show ga Hanetara Aimashou
 
+![show-ga-hanetara-aimashou](https://cdn.myanimelist.net/images/manga/2/24635.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Serial Experiments Lain
 
+![serial-experiments-lain](https://cdn.myanimelist.net/images/anime/1718/91550.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: シリアルエクスペリメンツレイン

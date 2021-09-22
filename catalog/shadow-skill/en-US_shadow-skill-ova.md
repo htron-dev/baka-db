@@ -1,5 +1,7 @@
 # Shadow Skill
 
+![shadow-skill](https://cdn.myanimelist.net/images/anime/6/4352.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 影技 SHADOW SKILL

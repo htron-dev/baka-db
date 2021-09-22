@@ -1,5 +1,7 @@
 # Sanju Mariko
 
+![sanju-mariko](https://cdn.myanimelist.net/images/manga/3/205525.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 84

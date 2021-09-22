@@ -1,5 +1,7 @@
 # Shirahata no Shoujo
 
+![shirahata-no-shoujo](https://cdn.myanimelist.net/images/manga/2/205662.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

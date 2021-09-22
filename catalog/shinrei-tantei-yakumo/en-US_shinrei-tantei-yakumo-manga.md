@@ -1,5 +1,7 @@
 # Shinrei Tantei Yakumo
 
+![shinrei-tantei-yakumo](https://cdn.myanimelist.net/images/manga/2/155035.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 65

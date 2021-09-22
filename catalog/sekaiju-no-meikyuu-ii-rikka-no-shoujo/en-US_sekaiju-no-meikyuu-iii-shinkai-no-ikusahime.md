@@ -1,5 +1,7 @@
 # Sekaiju no Meikyuu III: Shinkai no Ikusahime
 
+![sekaiju-no-meikyuu-iii-shinkai-no-ikusahime](https://cdn.myanimelist.net/images/manga/1/95753.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 世界樹の迷宮 III ~深海の戦姫~

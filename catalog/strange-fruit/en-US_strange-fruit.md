@@ -1,5 +1,7 @@
 # Strange Fruit
 
+![strange-fruit](https://cdn.myanimelist.net/images/manga/1/171116.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

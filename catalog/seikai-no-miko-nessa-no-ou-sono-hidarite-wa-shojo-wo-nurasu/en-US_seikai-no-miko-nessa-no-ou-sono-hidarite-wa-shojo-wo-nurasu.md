@@ -1,5 +1,7 @@
 # Seikai no Miko: Nessa no Ou - Sono Hidarite wa Shojo wo Nurasu
 
+![seikai-no-miko-nessa-no-ou-sono-hidarite-wa-shojo-wo-nurasu](https://cdn.myanimelist.net/images/manga/3/183789.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Sora no Aosa o Shiru Hito yo Memories of Anohana & Kokosake TV Special Program
 
+![sora-no-aosa-o-shiru-hito-yo-memories-of-anohana-kokosake-tv-special-program](https://cdn.myanimelist.net/images/anime/1808/109193.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **start-date**: 2019-10-07

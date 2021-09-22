@@ -1,5 +1,7 @@
 # Shachiku-san wa Youjo Yuurei ni Iyasaretai.
 
+![shachiku-san-wa-youjo-yuurei-ni-iyasaretai](https://cdn.myanimelist.net/images/manga/2/221891.jpg)
+
 -   **type**: manga
 -   **original-name**: 社畜さんは幼女幽霊に癒されたい。
 -   **start-date**: 2019-08-09

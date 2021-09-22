@@ -1,5 +1,7 @@
 # Shishaku Tantei: Amai Kuchizuke wa Nazotoki no Ato de
 
+![shishaku-tantei-amai-kuchizuke-wa-nazotoki-no-ato-de](https://cdn.myanimelist.net/images/manga/3/181781.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

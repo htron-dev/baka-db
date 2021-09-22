@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Ringo Boy to Minna no Negai
 
+![sore-ike-anpanman-ringo-boy-to-minna-no-negai](https://cdn.myanimelist.net/images/anime/3/71817.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ! アンパンマン りんごぼうやとみんなの願い

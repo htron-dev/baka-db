@@ -1,5 +1,7 @@
 # Shoujo, Shoujo, Shoujo nano.
 
+![shoujo-shoujo-shoujo-nano](https://cdn.myanimelist.net/images/manga/2/172443.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

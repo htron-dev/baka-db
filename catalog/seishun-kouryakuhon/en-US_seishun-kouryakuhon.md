@@ -1,5 +1,7 @@
 # Seishun Kouryakuhon
 
+![seishun-kouryakuhon](https://cdn.myanimelist.net/images/manga/1/25893.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

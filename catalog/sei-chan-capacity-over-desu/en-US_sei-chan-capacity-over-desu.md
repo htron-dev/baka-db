@@ -1,5 +1,7 @@
 # Sei-chan Capacity Over desu!
 
+![sei-chan-capacity-over-desu](https://cdn.myanimelist.net/images/manga/3/241311.jpg)
+
 -   **type**: manga
 -   **original-name**: せいちゃんキャパオーバーです！
 -   **start-date**: 2020-02-01

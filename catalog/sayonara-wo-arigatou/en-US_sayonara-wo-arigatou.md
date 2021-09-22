@@ -1,5 +1,7 @@
 # Sayonara wo Arigatou
 
+![sayonara-wo-arigatou](https://cdn.myanimelist.net/images/manga/2/11406.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: さよならをありがとう

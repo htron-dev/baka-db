@@ -1,5 +1,7 @@
 # Nagato Yuki-chan no Shoushitsu
 
+![nagato-yuki-chan-no-shoushitsu](https://cdn.myanimelist.net/images/anime/3/73527.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 16
 -   **original-name**: 長門有希ちゃんの消失

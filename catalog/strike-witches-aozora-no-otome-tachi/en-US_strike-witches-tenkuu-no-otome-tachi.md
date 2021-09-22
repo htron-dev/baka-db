@@ -1,5 +1,7 @@
 # Strike Witches: Tenkuu no Otome-tachi
 
+![strike-witches-tenkuu-no-otome-tachi](https://cdn.myanimelist.net/images/manga/2/86985.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

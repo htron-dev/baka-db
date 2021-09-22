@@ -1,5 +1,7 @@
 # Sen no Kiss ni Nurete
 
+![sen-no-kiss-ni-nurete](https://cdn.myanimelist.net/images/manga/3/7741.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

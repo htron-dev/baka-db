@@ -1,5 +1,7 @@
 # Sakura Device
 
+![sakura-device](https://cdn.myanimelist.net/images/manga/3/165364.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

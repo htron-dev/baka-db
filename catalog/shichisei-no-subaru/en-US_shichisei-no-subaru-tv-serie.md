@@ -1,5 +1,7 @@
 # Shichisei no Subaru
 
+![shichisei-no-subaru](https://cdn.myanimelist.net/images/anime/1956/94914.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 七星のスバル

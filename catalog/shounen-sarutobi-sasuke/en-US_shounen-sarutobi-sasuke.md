@@ -1,5 +1,7 @@
 # Shounen Sarutobi Sasuke
 
+![shounen-sarutobi-sasuke](https://cdn.myanimelist.net/images/anime/1266/100537.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 少年猿飛佐助

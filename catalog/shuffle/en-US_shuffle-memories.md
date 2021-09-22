@@ -1,5 +1,7 @@
 # Shuffle! Memories
 
+![shuffle-memories](https://cdn.myanimelist.net/images/anime/4/19624.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: シャッフル！メモリーズ

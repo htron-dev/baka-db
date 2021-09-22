@@ -1,5 +1,7 @@
 # Shin Saru Kani Gassen
 
+![shin-saru-kani-gassen](https://cdn.myanimelist.net/images/anime/2/71961.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 新猿蟹合戦

@@ -1,5 +1,7 @@
 # Sengoku Basara 2
 
+![sengoku-basara-2](https://cdn.myanimelist.net/images/manga/4/76809.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

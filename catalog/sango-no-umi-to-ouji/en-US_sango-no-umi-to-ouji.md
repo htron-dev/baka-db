@@ -1,5 +1,7 @@
 # Sango no Umi to Ouji
 
+![sango-no-umi-to-ouji](https://cdn.myanimelist.net/images/anime/3/28054.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: サンゴの海と王子

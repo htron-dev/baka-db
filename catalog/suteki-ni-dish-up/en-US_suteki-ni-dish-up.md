@@ -1,5 +1,7 @@
 # Suteki ni Dish Up!
 
+![suteki-ni-dish-up](https://cdn.myanimelist.net/images/manga/2/116087.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

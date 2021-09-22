@@ -1,5 +1,7 @@
 # Sankaku Mado no Sotogawa wa Yoru
 
+![sankaku-mado-no-sotogawa-wa-yoru](https://cdn.myanimelist.net/images/anime/1712/117547.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: さんかく窓の外側は夜
 -   **start-date**: 2021-10-20

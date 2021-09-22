@@ -1,5 +1,7 @@
 # Shiokari Touge
 
+![shiokari-touge](https://cdn.myanimelist.net/images/anime/3/66201.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 塩狩峠

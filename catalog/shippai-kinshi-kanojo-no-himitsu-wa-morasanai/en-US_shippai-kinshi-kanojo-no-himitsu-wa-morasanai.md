@@ -1,5 +1,7 @@
 # Shippai Kinshi! Kanojo no Himitsu wa Morasanai!
 
+![shippai-kinshi-kanojo-no-himitsu-wa-morasanai](https://cdn.myanimelist.net/images/manga/3/158714.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 11

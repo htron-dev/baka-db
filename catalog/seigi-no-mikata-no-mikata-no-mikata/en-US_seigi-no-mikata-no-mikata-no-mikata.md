@@ -1,5 +1,7 @@
 # Seigi no Mikata no Mikata no Mikata
 
+![seigi-no-mikata-no-mikata-no-mikata](https://cdn.myanimelist.net/images/manga/2/164535.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 正義の味方の味方の味方

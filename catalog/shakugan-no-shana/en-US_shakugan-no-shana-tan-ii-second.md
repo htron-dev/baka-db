@@ -1,5 +1,7 @@
 # Shakugan no Shana-tan II (Second)
 
+![shakugan-no-shana-tan-ii-second](https://cdn.myanimelist.net/images/anime/8/18687.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 灼眼のシャナたん

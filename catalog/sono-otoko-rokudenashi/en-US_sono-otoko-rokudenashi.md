@@ -1,5 +1,7 @@
 # Sono Otoko, Rokudenashi
 
+![sono-otoko-rokudenashi](https://cdn.myanimelist.net/images/manga/3/131365.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

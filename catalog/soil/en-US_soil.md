@@ -1,5 +1,7 @@
 # Soil
 
+![soil](https://cdn.myanimelist.net/images/manga/5/26093.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 90

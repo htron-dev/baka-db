@@ -1,5 +1,7 @@
 # Sangokushi: Dai San Bu - Harukanaru Taichi
 
+![sangokushi-dai-san-bu-harukanaru-taichi](https://cdn.myanimelist.net/images/anime/6/18592.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 三国志 第三部 遥かなる大地

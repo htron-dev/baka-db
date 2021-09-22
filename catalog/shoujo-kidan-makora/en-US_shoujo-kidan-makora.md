@@ -1,5 +1,7 @@
 # Shoujo Kidan Makora
 
+![shoujo-kidan-makora](https://cdn.myanimelist.net/images/manga/4/75893.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

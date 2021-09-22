@@ -1,5 +1,7 @@
 # Seinaru Megumi
 
+![seinaru-megumi](https://cdn.myanimelist.net/images/manga/3/193598.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 32

@@ -1,5 +1,7 @@
 # Sleeping Beauty no Mita Yume
 
+![sleeping-beauty-no-mita-yume](https://cdn.myanimelist.net/images/manga/3/56775.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

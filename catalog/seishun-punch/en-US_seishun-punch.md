@@ -1,5 +1,7 @@
 # Seishun Punch
 
+![seishun-punch](https://cdn.myanimelist.net/images/manga/3/15273.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 青春パンチ

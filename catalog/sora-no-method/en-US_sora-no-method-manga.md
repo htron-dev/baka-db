@@ -1,5 +1,7 @@
 # Sora no Method
 
+![sora-no-method](https://cdn.myanimelist.net/images/manga/2/146681.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

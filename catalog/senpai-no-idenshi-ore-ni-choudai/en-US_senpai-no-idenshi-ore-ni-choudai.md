@@ -1,5 +1,7 @@
 # Senpai no Idenshi, Ore ni Choudai?
 
+![senpai-no-idenshi-ore-ni-choudai](https://cdn.myanimelist.net/images/manga/3/208564.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

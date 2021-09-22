@@ -1,5 +1,7 @@
 # Sekai ni Hitotsu dake no R
 
+![sekai-ni-hitotsu-dake-no-r](https://cdn.myanimelist.net/images/manga/1/226451.jpg)
+
 -   **type**: manga
 -   **original-name**: 世界に一つだけの R
 -   **start-date**: 2019-06-15

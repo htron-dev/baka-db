@@ -1,5 +1,7 @@
 # Shanshan de Hongxing: Hongxing Xiao Yongshi
 
+![shanshan-de-hongxing-hongxing-xiao-yongshi](https://cdn.myanimelist.net/images/anime/4/13509.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 闪闪的红星—红星小勇士

@@ -1,5 +1,7 @@
 # Star Ocean: Till the End of Time
 
+![star-ocean-till-the-end-of-time](https://cdn.myanimelist.net/images/manga/5/4755.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 35

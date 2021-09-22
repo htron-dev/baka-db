@@ -1,5 +1,7 @@
 # Someya Mako no Jansou Meshi
 
+![someya-mako-no-jansou-meshi](https://cdn.myanimelist.net/images/manga/1/250328.jpg)
+
 -   **type**: manga
 -   **original-name**: 染谷まこの雀荘メシ
 -   **start-date**: 2019-06-07

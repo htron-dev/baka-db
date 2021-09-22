@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Anpanman to Christmas no Hoshi
 
+![sore-ike-anpanman-anpanman-to-christmas-no-hoshi](https://cdn.myanimelist.net/images/anime/8/45570.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: それいけ! アンパンマン アンパンそれいけ! アンパンマン アンパンマンとクリスマスの星

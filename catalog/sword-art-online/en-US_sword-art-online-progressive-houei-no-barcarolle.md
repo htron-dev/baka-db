@@ -1,5 +1,7 @@
 # Sword Art Online: Progressive - Houei no Barcarolle
 
+![sword-art-online-progressive-houei-no-barcarolle](https://cdn.myanimelist.net/images/manga/1/236995.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

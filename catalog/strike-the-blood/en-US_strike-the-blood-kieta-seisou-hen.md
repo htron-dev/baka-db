@@ -1,5 +1,7 @@
 # Strike the Blood: Kieta Seisou-hen
 
+![strike-the-blood-kieta-seisou-hen](https://cdn.myanimelist.net/images/anime/1918/103377.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ストライク・ザ・ブラッド 消えた聖槍篇

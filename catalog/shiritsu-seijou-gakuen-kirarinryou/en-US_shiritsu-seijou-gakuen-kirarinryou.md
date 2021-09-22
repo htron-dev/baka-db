@@ -1,5 +1,7 @@
 # Shiritsu Seijou Gakuen Kirarinryou
 
+![shiritsu-seijou-gakuen-kirarinryou](https://cdn.myanimelist.net/images/manga/1/164793.jpg)
+
 -   **type**: manga
 -   **original-name**: 私立星城学園きらりん寮
 -   **start-date**: 2014-09-27

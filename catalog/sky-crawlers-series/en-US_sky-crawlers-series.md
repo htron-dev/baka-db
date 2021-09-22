@@ -1,5 +1,7 @@
 # Sky Crawlers Series
 
+![sky-crawlers-series](https://cdn.myanimelist.net/images/manga/1/14728.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 39

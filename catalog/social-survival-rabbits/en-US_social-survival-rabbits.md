@@ -1,5 +1,7 @@
 # Social Survival Rabbits
 
+![social-survival-rabbits](https://cdn.myanimelist.net/images/manga/2/226226.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 61

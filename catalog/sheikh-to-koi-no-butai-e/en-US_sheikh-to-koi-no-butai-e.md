@@ -1,5 +1,7 @@
 # Sheikh to Koi no Butai e
 
+![sheikh-to-koi-no-butai-e](https://cdn.myanimelist.net/images/manga/3/72629.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: シークと恋の舞台へ

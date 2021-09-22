@@ -1,5 +1,7 @@
 # Shall we Have Dinner Tonight?
 
+![shall-we-have-dinner-tonight](https://cdn.myanimelist.net/images/manga/2/180894.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 46

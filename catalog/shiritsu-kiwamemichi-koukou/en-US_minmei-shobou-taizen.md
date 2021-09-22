@@ -1,5 +1,7 @@
 # Minmei Shobou Taizen
 
+![minmei-shobou-taizen](https://cdn.myanimelist.net/images/manga/1/245018.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 民明書房大全

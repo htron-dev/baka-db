@@ -1,5 +1,7 @@
 # Shuumatsu no Walküre
 
+![shuumatsu-no-walkure](https://cdn.myanimelist.net/images/anime/1456/115123.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 終末のワルキューレ

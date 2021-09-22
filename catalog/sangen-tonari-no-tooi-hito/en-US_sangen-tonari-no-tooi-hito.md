@@ -1,5 +1,7 @@
 # Sangen Tonari no Tooi Hito
 
+![sangen-tonari-no-tooi-hito](https://cdn.myanimelist.net/images/manga/2/6384.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

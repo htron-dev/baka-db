@@ -1,5 +1,7 @@
 # Sengoku Strays
 
+![sengoku-strays](https://cdn.myanimelist.net/images/manga/3/139721.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 79

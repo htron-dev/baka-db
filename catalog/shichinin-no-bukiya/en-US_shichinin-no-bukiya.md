@@ -1,5 +1,7 @@
 # Shichinin no Bukiya
 
+![shichinin-no-bukiya](https://cdn.myanimelist.net/images/manga/3/162541.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **chapters**: 59

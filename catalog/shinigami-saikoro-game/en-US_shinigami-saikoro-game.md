@@ -1,5 +1,7 @@
 # Shinigami Saikoro Game
 
+![shinigami-saikoro-game](https://cdn.myanimelist.net/images/manga/1/230779.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

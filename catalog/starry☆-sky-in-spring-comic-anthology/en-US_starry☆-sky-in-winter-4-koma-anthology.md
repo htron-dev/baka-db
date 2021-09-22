@@ -1,5 +1,7 @@
 # Starry☆Sky: In Winter - 4-koma Anthology
 
+![starry☆-sky-in-winter-4-koma-anthology](https://cdn.myanimelist.net/images/manga/1/34846.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Starry☆Sky~in Winter~オール 4 コマアンソ

@@ -1,5 +1,7 @@
 # Sengoku Kitan Youtouden Movie
 
+![sengoku-kitan-youtouden-movie](https://cdn.myanimelist.net/images/anime/1/1378.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 戦国奇譚 妖刀伝 劇場版

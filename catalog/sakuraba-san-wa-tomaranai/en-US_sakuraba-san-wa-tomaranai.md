@@ -1,5 +1,7 @@
 # Sakuraba-san wa Tomaranai!
 
+![sakuraba-san-wa-tomaranai](https://cdn.myanimelist.net/images/manga/2/219514.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

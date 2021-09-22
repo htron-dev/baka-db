@@ -1,5 +1,7 @@
 # Shiki Specials
 
+![shiki-specials](https://cdn.myanimelist.net/images/anime/3/36543.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 屍鬼

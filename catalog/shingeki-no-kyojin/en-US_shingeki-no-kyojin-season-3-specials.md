@@ -1,5 +1,7 @@
 # Shingeki no Kyojin Season 3 Specials
 
+![shingeki-no-kyojin-season-3-specials](https://cdn.myanimelist.net/images/anime/1909/99638.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: ｢進撃の巨人｣ちみキャラ劇場”とんでけ！新生リヴァイ班”

@@ -1,5 +1,7 @@
 # Saibi
 
+![saibi](https://cdn.myanimelist.net/images/anime/1056/112684.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 사이비

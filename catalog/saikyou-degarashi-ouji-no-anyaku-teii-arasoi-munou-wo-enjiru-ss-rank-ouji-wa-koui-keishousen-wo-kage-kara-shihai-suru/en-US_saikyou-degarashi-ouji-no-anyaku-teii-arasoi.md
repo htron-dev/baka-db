@@ -1,5 +1,7 @@
 # Saikyou Degarashi Ouji no Anyaku Teii Arasoi
 
+![saikyou-degarashi-ouji-no-anyaku-teii-arasoi](https://cdn.myanimelist.net/images/manga/3/233786.jpg)
+
 -   **type**: manga
 -   **original-name**: 最強出涸らし皇子の暗躍帝位争い
 -   **start-date**: 2019-12-25

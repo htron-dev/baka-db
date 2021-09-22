@@ -1,5 +1,7 @@
 # Samurai Soldier
 
+![samurai-soldier](https://cdn.myanimelist.net/images/manga/1/131935.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: サムライ・ソルジャー

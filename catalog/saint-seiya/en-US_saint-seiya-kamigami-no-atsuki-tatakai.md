@@ -1,5 +1,7 @@
 # Saint Seiya: Kamigami no Atsuki Tatakai
 
+![saint-seiya-kamigami-no-atsuki-tatakai](https://cdn.myanimelist.net/images/anime/5/30795.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 聖闘士星矢 神々の熱き戦い

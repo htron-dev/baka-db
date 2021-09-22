@@ -1,5 +1,7 @@
 # Saiouji Kyoudai ni Komarasareru no mo Warukunai
 
+![saiouji-kyoudai-ni-komarasareru-no-mo-warukunai](https://cdn.myanimelist.net/images/manga/2/189335.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 28

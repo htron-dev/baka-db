@@ -1,5 +1,7 @@
 # Sensei wa Oniichan.
 
+![sensei-wa-oniichan](https://cdn.myanimelist.net/images/manga/2/107581.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 先生はお兄ちゃん。

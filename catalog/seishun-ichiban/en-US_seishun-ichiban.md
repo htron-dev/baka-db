@@ -1,5 +1,7 @@
 # Seishun Ichiban
 
+![seishun-ichiban](https://cdn.myanimelist.net/images/manga/3/11926.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: はる 青春一番

@@ -1,5 +1,7 @@
 # Shiny Doll
 
+![shiny-doll](https://cdn.myanimelist.net/images/manga/1/126795.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 7

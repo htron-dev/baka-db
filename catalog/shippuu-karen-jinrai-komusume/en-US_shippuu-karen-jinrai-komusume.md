@@ -1,5 +1,7 @@
 # Shippuu Karen Jinrai Komusume!
 
+![shippuu-karen-jinrai-komusume](https://cdn.myanimelist.net/images/manga/1/10200.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: しっぷうかれんじんらいこむすめ!

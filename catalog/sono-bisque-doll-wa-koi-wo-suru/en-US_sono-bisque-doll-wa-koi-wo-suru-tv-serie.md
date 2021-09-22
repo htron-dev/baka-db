@@ -1,5 +1,7 @@
 # Sono Bisque Doll wa Koi wo Suru
 
+![sono-bisque-doll-wa-koi-wo-suru](https://cdn.myanimelist.net/images/anime/1320/114401.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: その着せ替え人形は恋をする
 -   **rating**: None

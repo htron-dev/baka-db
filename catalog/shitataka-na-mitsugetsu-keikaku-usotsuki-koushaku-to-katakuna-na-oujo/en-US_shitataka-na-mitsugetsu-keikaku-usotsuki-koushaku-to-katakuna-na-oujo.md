@@ -1,5 +1,7 @@
 # Shitataka na Mitsugetsu Keikaku: Usotsuki Koushaku to Katakuna na Oujo
 
+![shitataka-na-mitsugetsu-keikaku-usotsuki-koushaku-to-katakuna-na-oujo](https://cdn.myanimelist.net/images/manga/1/198968.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: したたかな蜜月計画 ~嘘つき公爵と頑なな王女~

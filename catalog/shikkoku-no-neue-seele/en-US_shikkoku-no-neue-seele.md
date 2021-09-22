@@ -1,5 +1,7 @@
 # Shikkoku no Neue Seele
 
+![shikkoku-no-neue-seele](https://cdn.myanimelist.net/images/manga/3/149009.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

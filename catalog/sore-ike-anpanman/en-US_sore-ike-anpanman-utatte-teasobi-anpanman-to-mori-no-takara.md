@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Utatte Teasobi! Anpanman to Mori no Takara
 
+![sore-ike-anpanman-utatte-teasobi-anpanman-to-mori-no-takara](https://cdn.myanimelist.net/images/anime/12/59303.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: うたって てあそび! アンパンマンと もりのたから

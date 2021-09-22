@@ -1,5 +1,7 @@
 # School Rumble: Ichi Gakki Hoshuu
 
+![school-rumble-ichi-gakki-hoshuu](https://cdn.myanimelist.net/images/anime/5/75489.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: スクールランブル一学期補習

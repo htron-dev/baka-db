@@ -1,5 +1,7 @@
 # Saiunkoku Monogatari 2nd Season
 
+![saiunkoku-monogatari-2nd-season](https://cdn.myanimelist.net/images/anime/5/73277.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: 彩雲国物語 第 2 シリーズ

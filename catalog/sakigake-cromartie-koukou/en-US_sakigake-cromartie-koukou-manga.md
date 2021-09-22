@@ -1,5 +1,7 @@
 # Sakigake!! Cromartie Koukou
 
+![sakigake-cromartie-koukou](https://cdn.myanimelist.net/images/manga/1/157310.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 335

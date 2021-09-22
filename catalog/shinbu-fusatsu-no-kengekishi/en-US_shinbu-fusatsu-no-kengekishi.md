@@ -1,5 +1,7 @@
 # Shinbu Fusatsu no Kengekishi
 
+![shinbu-fusatsu-no-kengekishi](https://cdn.myanimelist.net/images/manga/3/160676.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 15

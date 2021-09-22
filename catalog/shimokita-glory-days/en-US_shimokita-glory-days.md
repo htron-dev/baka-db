@@ -1,5 +1,7 @@
 # Shimokita Glory Days
 
+![shimokita-glory-days](https://cdn.myanimelist.net/images/manga/3/37833.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 130

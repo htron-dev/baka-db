@@ -1,5 +1,7 @@
 # Super Robot Taisen OG: The Inspector - Record of ATX
 
+![super-robot-taisen-og-the-inspector-record-of-atx](https://cdn.myanimelist.net/images/manga/2/211800.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 50

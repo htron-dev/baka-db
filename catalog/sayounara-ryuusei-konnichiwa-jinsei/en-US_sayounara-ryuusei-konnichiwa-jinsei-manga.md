@@ -1,5 +1,7 @@
 # Sayounara Ryuusei, Konnichiwa Jinsei
 
+![sayounara-ryuusei-konnichiwa-jinsei](https://cdn.myanimelist.net/images/manga/3/193539.jpg)
+
 -   **type**: manga
 -   **original-name**: さようなら竜生, こんにちは人生
 -   **start-date**: 2015-12-22

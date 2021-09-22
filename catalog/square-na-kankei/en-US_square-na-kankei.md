@@ -1,5 +1,7 @@
 # Square na Kankei
 
+![square-na-kankei](https://cdn.myanimelist.net/images/manga/2/135869.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

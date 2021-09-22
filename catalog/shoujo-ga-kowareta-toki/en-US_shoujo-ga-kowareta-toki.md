@@ -1,5 +1,7 @@
 # Shoujo ga Kowareta Toki
 
+![shoujo-ga-kowareta-toki](https://cdn.myanimelist.net/images/manga/3/167184.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 少女が壊れたとき

@@ -1,5 +1,7 @@
 # Sunmusu: Girl's Battle Bootlog the Comic
 
+![sunmusu-girls-battle-bootlog-the-comic](https://cdn.myanimelist.net/images/manga/1/235562.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

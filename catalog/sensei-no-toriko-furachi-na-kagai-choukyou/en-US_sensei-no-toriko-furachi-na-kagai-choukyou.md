@@ -1,5 +1,7 @@
 # Sensei no Toriko: Furachi na Kagai Choukyou
 
+![sensei-no-toriko-furachi-na-kagai-choukyou](https://cdn.myanimelist.net/images/manga/2/195842.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

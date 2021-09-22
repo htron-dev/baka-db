@@ -1,5 +1,7 @@
 # Suzumiya Haruhi no Hiwa: Rainy Day
 
+![suzumiya-haruhi-no-hiwa-rainy-day](https://cdn.myanimelist.net/images/manga/2/191442.jpg)
+
 -   **type**: light-novel
 -   **chapters**: 1
 -   **original-name**: 涼宮ハルヒの秘話 Rainy Day

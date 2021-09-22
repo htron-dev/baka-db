@@ -1,5 +1,7 @@
 # Scan2Go
 
+![scan-2-go](https://cdn.myanimelist.net/images/anime/1544/100121.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 스캔2고

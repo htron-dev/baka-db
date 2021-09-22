@@ -1,5 +1,7 @@
 # Soul Mate
 
+![soul-mate](https://cdn.myanimelist.net/images/manga/1/32178.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **original-name**: 소울 메이트

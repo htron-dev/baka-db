@@ -1,5 +1,7 @@
 # Stalker Joukadan
 
+![stalker-joukadan](https://cdn.myanimelist.net/images/manga/2/235921.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 43

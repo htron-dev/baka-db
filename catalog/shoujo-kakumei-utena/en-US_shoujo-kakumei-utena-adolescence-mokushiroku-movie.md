@@ -1,5 +1,7 @@
 # Shoujo Kakumei Utena: Adolescence Mokushiroku
 
+![shoujo-kakumei-utena-adolescence-mokushiroku](https://cdn.myanimelist.net/images/anime/1268/107516.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 少女革命ウテナ　アドゥレセンス黙示録

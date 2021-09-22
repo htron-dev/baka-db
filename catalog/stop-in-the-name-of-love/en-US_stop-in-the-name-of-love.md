@@ -1,5 +1,7 @@
 # Stop! In the name of love!
 
+![stop-in-the-name-of-love](https://cdn.myanimelist.net/images/manga/4/7725.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Sousei no Aquarion: Kokuu no Tenshi
 
+![sousei-no-aquarion-kokuu-no-tenshi](https://cdn.myanimelist.net/images/manga/2/173160.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 29

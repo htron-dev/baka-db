@@ -1,5 +1,7 @@
 # Satsushobun Idol!
 
+![satsushobun-idol](https://cdn.myanimelist.net/images/manga/2/239960.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 59

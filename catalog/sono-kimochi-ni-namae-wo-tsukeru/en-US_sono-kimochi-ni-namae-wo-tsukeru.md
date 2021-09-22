@@ -1,5 +1,7 @@
 # Sono Kimochi ni Namae wo Tsukeru
 
+![sono-kimochi-ni-namae-wo-tsukeru](https://cdn.myanimelist.net/images/manga/3/30400.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: その気持ちに名前をつける

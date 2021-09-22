@@ -1,5 +1,7 @@
 # Shounen Bodyguard to Koisuru Ojousama
 
+![shounen-bodyguard-to-koisuru-ojousama](https://cdn.myanimelist.net/images/manga/2/205523.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Yuureisen
 
+![yuureisen](https://cdn.myanimelist.net/images/manga/1/222770.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 幽霊船

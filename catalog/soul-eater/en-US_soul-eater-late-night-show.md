@@ -1,5 +1,7 @@
 # Soul Eater: Late Night Show
 
+![soul-eater-late-night-show](https://cdn.myanimelist.net/images/anime/4/60791.jpg)
+
 -   **type**: special
 -   **episodes**: 51
 -   **original-name**: ソウルイーターレイトショー

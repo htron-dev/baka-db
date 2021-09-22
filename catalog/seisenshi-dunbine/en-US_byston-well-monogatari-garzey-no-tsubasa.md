@@ -1,5 +1,7 @@
 # Byston Well Monogatari: Garzey no Tsubasa
 
+![byston-well-monogatari-garzey-no-tsubasa](https://cdn.myanimelist.net/images/anime/4/5440.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: バイストン・ウェル物語 ガーゼィの翼

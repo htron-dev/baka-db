@@ -1,5 +1,7 @@
 # Shimajirou to Fufu no Daibouken Movie: Sukue! Nana-iro no Hana
 
+![shimajirou-to-fufu-no-daibouken-movie-sukue-nana-iro-no-hana](https://cdn.myanimelist.net/images/anime/1235/93921.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 しまじろうと フフの だいぼうけん ~すくえ! 七色の花~

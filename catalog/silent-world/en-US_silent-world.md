@@ -1,5 +1,7 @@
 # Silent World
 
+![silent-world](https://cdn.myanimelist.net/images/manga/1/176862.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

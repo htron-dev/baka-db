@@ -1,5 +1,7 @@
 # Shuukan Shounen Girl
 
+![shuukan-shounen-girl](https://cdn.myanimelist.net/images/manga/1/167491.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 39

@@ -1,5 +1,7 @@
 # Shiawase Nisetai Doukyou Keikaku: Yousei-san no Ohanashi
 
+![shiawase-nisetai-doukyou-keikaku-yousei-san-no-ohanashi](https://cdn.myanimelist.net/images/manga/2/186739.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 幸せ二世帯同居計画 ～妖精さんのお話～

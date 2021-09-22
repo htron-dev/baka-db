@@ -1,5 +1,7 @@
 # Shikkoku no Hakaiou to Momoiro Princess
 
+![shikkoku-no-hakaiou-to-momoiro-princess](https://cdn.myanimelist.net/images/manga/2/192775.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

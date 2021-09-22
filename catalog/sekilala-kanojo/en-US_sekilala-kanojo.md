@@ -1,5 +1,7 @@
 # Sekilala Kanojo
 
+![sekilala-kanojo](https://cdn.myanimelist.net/images/manga/3/70011.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: セキララ彼女

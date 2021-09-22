@@ -1,5 +1,7 @@
 # Shimashima Lion
 
+![shimashima-lion](https://cdn.myanimelist.net/images/manga/1/235792.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 24

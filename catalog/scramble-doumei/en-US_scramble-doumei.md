@@ -1,5 +1,7 @@
 # Scramble Doumei
 
+![scramble-doumei](https://cdn.myanimelist.net/images/manga/2/30063.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: すくらんぶる同盟

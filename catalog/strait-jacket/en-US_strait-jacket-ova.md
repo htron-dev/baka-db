@@ -1,5 +1,7 @@
 # Strait Jacket
 
+![strait-jacket](https://cdn.myanimelist.net/images/anime/2/5181.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ストレイト・ジャケット

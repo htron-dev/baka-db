@@ -1,5 +1,7 @@
 # Shinigami Nattsu to Zekkou Days
 
+![shinigami-nattsu-to-zekkou-days](https://cdn.myanimelist.net/images/manga/1/163179.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

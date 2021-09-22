@@ -1,5 +1,7 @@
 # Suki desu, Zenbu Kudasai
 
+![suki-desu-zenbu-kudasai](https://cdn.myanimelist.net/images/manga/2/194184.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

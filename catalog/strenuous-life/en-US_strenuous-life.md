@@ -1,5 +1,7 @@
 # Strenuous Life
 
+![strenuous-life](https://cdn.myanimelist.net/images/manga/1/164072.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 24

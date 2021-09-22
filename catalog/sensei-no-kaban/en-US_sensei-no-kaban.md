@@ -1,5 +1,7 @@
 # Sensei no Kaban
 
+![sensei-no-kaban](https://cdn.myanimelist.net/images/manga/1/37531.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

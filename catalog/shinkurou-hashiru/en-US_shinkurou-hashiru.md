@@ -1,5 +1,7 @@
 # Shinkurou, Hashiru!
 
+![shinkurou-hashiru](https://cdn.myanimelist.net/images/manga/1/210830.jpg)
+
 -   **type**: manga
 -   **original-name**: 新九郎、奔る！
 -   **start-date**: 2018-01-27

@@ -1,5 +1,7 @@
 # Sakurasou no Pet na Kanojo
 
+![sakurasou-no-pet-na-kanojo](https://cdn.myanimelist.net/images/manga/2/159577.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 13
 -   **original-name**: さくら荘のペットな彼女

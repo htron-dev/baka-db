@@ -1,5 +1,7 @@
 # Shitataru Mitsu no Shitoyakana Yuuwaku
 
+![shitataru-mitsu-no-shitoyakana-yuuwaku](https://cdn.myanimelist.net/images/manga/1/40455.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

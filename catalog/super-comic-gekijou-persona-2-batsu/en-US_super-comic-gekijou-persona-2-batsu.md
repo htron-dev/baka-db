@@ -1,5 +1,7 @@
 # Super Comic Gekijou: Persona 2 - Batsu
 
+![super-comic-gekijou-persona-2-batsu](https://cdn.myanimelist.net/images/manga/2/151606.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: スーパーコミック劇場 ペルソナ 2 罰

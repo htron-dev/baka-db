@@ -1,5 +1,7 @@
 # Soukyuu Boys
 
+![soukyuu-boys](https://cdn.myanimelist.net/images/manga/2/193676.jpg)
+
 -   **type**: manga
 -   **original-name**: 送球ボーイズ
 -   **start-date**: 2015-12-29

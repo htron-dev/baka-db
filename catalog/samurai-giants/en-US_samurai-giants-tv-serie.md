@@ -1,5 +1,7 @@
 # Samurai Giants
 
+![samurai-giants](https://cdn.myanimelist.net/images/anime/11/27421.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 46
 -   **original-name**: 侍ジャイアンツ

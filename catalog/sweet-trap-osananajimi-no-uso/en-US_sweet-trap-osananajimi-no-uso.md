@@ -1,5 +1,7 @@
 # Sweet Trap: Osananajimi no Uso
 
+![sweet-trap-osananajimi-no-uso](https://cdn.myanimelist.net/images/manga/2/193046.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

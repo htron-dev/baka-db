@@ -1,5 +1,7 @@
 # Shakugan no Shana: Friagne & Marianne no Naze Nani Shana! Nandemo Shitsumonbako! 2
 
+![shakugan-no-shana-friagne-marianne-no-naze-nani-shana-nandemo-shitsumonbako-2](https://cdn.myanimelist.net/images/anime/10/40599.jpg)
+
 -   **type**: special
 -   **episodes**: 8
 -   **original-name**: フリアグネ&マリアンヌのなぜなにシャナ!なんでも質問箱!

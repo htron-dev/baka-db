@@ -1,5 +1,7 @@
 # Hashire! Shiroi Ookami
 
+![hashire-shiroi-ookami](https://cdn.myanimelist.net/images/anime/6/29878.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 走れ! 白いオオカミ

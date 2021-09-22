@@ -1,5 +1,7 @@
 # Spot Light
 
+![spot-light](https://cdn.myanimelist.net/images/manga/1/137751.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: スポットライト 公式コミック

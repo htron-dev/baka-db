@@ -1,5 +1,7 @@
 # Seiryaku Kekkon wa Koi no Hajimari: Ookami Ouji no Junai
 
+![seiryaku-kekkon-wa-koi-no-hajimari-ookami-ouji-no-junai](https://cdn.myanimelist.net/images/manga/2/193314.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

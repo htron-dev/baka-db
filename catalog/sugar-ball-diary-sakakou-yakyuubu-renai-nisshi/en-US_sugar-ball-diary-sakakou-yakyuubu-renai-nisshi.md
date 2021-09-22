@@ -1,5 +1,7 @@
 # Sugar Ball Diary: Sakakou Yakyuubu Renai Nisshi
 
+![sugar-ball-diary-sakakou-yakyuubu-renai-nisshi](https://cdn.myanimelist.net/images/manga/3/195665.jpg)
+
 -   **type**: manga
 -   **chapters**: 12
 -   **original-name**: シュガーボールダイアリー －坂高野球部恋愛日誌－

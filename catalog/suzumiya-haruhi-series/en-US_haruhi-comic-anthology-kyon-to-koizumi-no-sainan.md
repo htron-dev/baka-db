@@ -1,5 +1,7 @@
 # Haruhi Comic Anthology: Kyon to Koizumi no Sainan
 
+![haruhi-comic-anthology-kyon-to-koizumi-no-sainan](https://cdn.myanimelist.net/images/manga/1/105811.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 19

@@ -1,5 +1,7 @@
 # Steins;Gate: Oukoubakko no Poriomania
 
+![steins-gate-oukoubakko-no-poriomania](https://cdn.myanimelist.net/images/anime/7/36531.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: シュタインズ ゲート 横行跋扈のポリオマニア

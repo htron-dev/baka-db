@@ -1,5 +1,7 @@
 # Super Comic Gekijou: Star Ocean - Till the End of Time
 
+![super-comic-gekijou-star-ocean-till-the-end-of-time](https://cdn.myanimelist.net/images/manga/2/151586.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: スーパーコミック劇場 スターオーシャン Till the End of Time

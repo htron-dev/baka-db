@@ -1,5 +1,7 @@
 # Sister Princess: Re Pure
 
+![sister-princess-re-pure](https://cdn.myanimelist.net/images/anime/2/25293.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: シスター・プリンセス ～リピュア～

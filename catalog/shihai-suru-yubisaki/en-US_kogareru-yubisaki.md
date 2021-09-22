@@ -1,5 +1,7 @@
 # Kogareru Yubisaki
 
+![kogareru-yubisaki](https://cdn.myanimelist.net/images/manga/2/10342.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

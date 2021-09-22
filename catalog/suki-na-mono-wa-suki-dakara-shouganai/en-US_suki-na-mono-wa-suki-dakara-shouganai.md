@@ -1,5 +1,7 @@
 # Suki na Mono wa Suki dakara Shouganai!!
 
+![suki-na-mono-wa-suki-dakara-shouganai](https://cdn.myanimelist.net/images/manga/2/170892.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 好きなものは好きだからしょうがない!!

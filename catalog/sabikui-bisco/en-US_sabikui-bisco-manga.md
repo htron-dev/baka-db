@@ -1,5 +1,7 @@
 # Sabikui Bisco
 
+![sabikui-bisco](https://cdn.myanimelist.net/images/manga/1/241246.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 26

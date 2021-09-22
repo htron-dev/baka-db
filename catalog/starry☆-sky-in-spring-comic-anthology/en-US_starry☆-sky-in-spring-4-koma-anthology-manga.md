@@ -1,5 +1,7 @@
 # Starry☆Sky: In Spring - 4-koma Anthology
 
+![starry☆-sky-in-spring-4-koma-anthology](https://cdn.myanimelist.net/images/manga/3/34564.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 22

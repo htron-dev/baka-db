@@ -1,5 +1,7 @@
 # Senzoku de Aishite
 
+![senzoku-de-aishite](https://cdn.myanimelist.net/images/manga/3/30154.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

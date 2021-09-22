@@ -1,5 +1,7 @@
 # Shadow Skill (2000)
 
+![shadow-skill-2000](https://cdn.myanimelist.net/images/manga/1/117549.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: 影技 SHADOW SKILL

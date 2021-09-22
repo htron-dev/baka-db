@@ -1,5 +1,7 @@
 # Seikimatsu★Darling
 
+![seikimatsu★-darling](https://cdn.myanimelist.net/images/anime/13/72910.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 世紀末 ★ ダーリン

@@ -1,5 +1,7 @@
 # Suenagaku Yoroshiku Onegaishimasu
 
+![suenagaku-yoroshiku-onegaishimasu](https://cdn.myanimelist.net/images/manga/1/237018.jpg)
+
 -   **type**: manga
 -   **original-name**: 末永くよろしくお願いします
 -   **start-date**: 2019-11-22

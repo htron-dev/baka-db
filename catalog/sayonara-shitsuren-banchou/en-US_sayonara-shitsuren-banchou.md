@@ -1,5 +1,7 @@
 # Sayonara Shitsuren Banchou
 
+![sayonara-shitsuren-banchou](https://cdn.myanimelist.net/images/manga/2/18475.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: さよなら失恋番長

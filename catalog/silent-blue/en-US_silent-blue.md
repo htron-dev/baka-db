@@ -1,5 +1,7 @@
 # Silent Blue
 
+![silent-blue](https://cdn.myanimelist.net/images/manga/3/203191.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

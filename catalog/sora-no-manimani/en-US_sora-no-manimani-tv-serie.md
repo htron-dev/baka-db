@@ -1,5 +1,7 @@
 # Sora no Manimani
 
+![sora-no-manimani](https://cdn.myanimelist.net/images/anime/6/75491.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 宙のまにまに

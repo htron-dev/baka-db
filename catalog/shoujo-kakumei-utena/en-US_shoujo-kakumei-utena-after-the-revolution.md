@@ -1,5 +1,7 @@
 # Shoujo Kakumei Utena: After the Revolution
 
+![shoujo-kakumei-utena-after-the-revolution](https://cdn.myanimelist.net/images/manga/3/209996.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Souta no Houchou: Ginza - Itamae Shuugyou Nikki
 
+![souta-no-houchou-ginza-itamae-shuugyou-nikki](https://cdn.myanimelist.net/images/manga/1/202934.jpg)
+
 -   **type**: manga
 -   **volumes**: 41
 -   **chapters**: 409

@@ -1,5 +1,7 @@
 # Sangokushi Spirits
 
+![sangokushi-spirits](https://cdn.myanimelist.net/images/manga/3/84427.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 三国志魂

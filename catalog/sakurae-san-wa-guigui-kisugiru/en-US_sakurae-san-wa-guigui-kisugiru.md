@@ -1,5 +1,7 @@
 # Sakurae-san wa Guigui Kisugiru.
 
+![sakurae-san-wa-guigui-kisugiru](https://cdn.myanimelist.net/images/manga/2/227062.jpg)
+
 -   **type**: manga
 -   **original-name**: さくら江さんはグイグイ来すぎる。
 -   **start-date**: 2018-07-10

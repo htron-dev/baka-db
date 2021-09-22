@@ -1,5 +1,7 @@
 # Sweet Pain
 
+![sweet-pain](https://cdn.myanimelist.net/images/manga/3/232456.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

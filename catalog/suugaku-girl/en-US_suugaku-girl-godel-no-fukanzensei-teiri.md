@@ -1,5 +1,7 @@
 # Suugaku Girl: Godel no Fukanzensei Teiri
 
+![suugaku-girl-godel-no-fukanzensei-teiri](https://cdn.myanimelist.net/images/manga/1/146265.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

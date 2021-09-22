@@ -1,5 +1,7 @@
 # Sekai Seifuku: 4-koma no Zvezda
 
+![sekai-seifuku-4-koma-no-zvezda](https://cdn.myanimelist.net/images/manga/3/147939.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 世界征服〜4 コマのズヴィズダー〜

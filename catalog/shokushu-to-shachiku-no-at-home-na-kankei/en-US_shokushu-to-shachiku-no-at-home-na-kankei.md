@@ -1,5 +1,7 @@
 # Shokushu to Shachiku no At Home na Kankei
 
+![shokushu-to-shachiku-no-at-home-na-kankei](https://cdn.myanimelist.net/images/manga/2/226002.jpg)
+
 -   **type**: manga
 -   **original-name**: 触手と社畜のアットホームな関係
 -   **start-date**: 2018-04-27

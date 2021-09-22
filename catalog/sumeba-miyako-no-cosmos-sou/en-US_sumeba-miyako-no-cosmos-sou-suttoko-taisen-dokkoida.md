@@ -1,5 +1,7 @@
 # Sumeba Miyako no Cosmos-sou Suttoko Taisen Dokkoida
 
+![sumeba-miyako-no-cosmos-sou-suttoko-taisen-dokkoida](https://cdn.myanimelist.net/images/anime/8/84824.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 住めば都のコスモス荘 すっとこ大戦ドッコイダー

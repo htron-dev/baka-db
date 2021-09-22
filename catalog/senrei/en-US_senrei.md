@@ -1,5 +1,7 @@
 # Senrei
 
+![senrei](https://cdn.myanimelist.net/images/manga/1/205379.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 洗礼

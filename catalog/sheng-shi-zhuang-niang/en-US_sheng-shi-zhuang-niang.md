@@ -1,5 +1,7 @@
 # Sheng Shi Zhuang Niang
 
+![sheng-shi-zhuang-niang](https://cdn.myanimelist.net/images/anime/1705/90278.jpg)
+
 -   **type**: ona
 -   **episodes**: 20
 -   **original-name**: 盛世妆娘

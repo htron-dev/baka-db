@@ -1,5 +1,7 @@
 # Star Wars Manga Silver
 
+![star-wars-manga-silver](https://cdn.myanimelist.net/images/manga/1/33497.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Suki mo Kirai mo Jikangai
 
+![suki-mo-kirai-mo-jikangai](https://cdn.myanimelist.net/images/manga/2/32631.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

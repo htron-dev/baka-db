@@ -1,5 +1,7 @@
 # Shoubu wa Toki no... Un Daro?
 
+![shoubu-wa-toki-no-un-daro](https://cdn.myanimelist.net/images/manga/1/13075.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 勝負は時の・・・運だろ？

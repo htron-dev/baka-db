@@ -1,5 +1,7 @@
 # Super Saiyuki
 
+![super-saiyuki](https://cdn.myanimelist.net/images/manga/3/11717.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: スーパー西遊記

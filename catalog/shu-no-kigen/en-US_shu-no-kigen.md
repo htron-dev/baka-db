@@ -1,5 +1,7 @@
 # Shu no Kigen
 
+![shu-no-kigen](https://cdn.myanimelist.net/images/manga/2/163431.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

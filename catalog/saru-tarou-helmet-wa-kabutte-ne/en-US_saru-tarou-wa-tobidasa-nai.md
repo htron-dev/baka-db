@@ -1,5 +1,7 @@
 # Saru Tarou wa Tobidasa Nai!
 
+![saru-tarou-wa-tobidasa-nai](https://cdn.myanimelist.net/images/anime/5/84763.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: サル太郎はとびださない！

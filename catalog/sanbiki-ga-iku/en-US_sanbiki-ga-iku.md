@@ -1,5 +1,7 @@
 # Sanbiki ga Iku!!!
 
+![sanbiki-ga-iku](https://cdn.myanimelist.net/images/manga/2/190596.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

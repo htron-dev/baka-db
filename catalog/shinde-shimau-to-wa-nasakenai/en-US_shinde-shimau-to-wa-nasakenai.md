@@ -1,5 +1,7 @@
 # Shinde Shimau to wa Nasakenai!
 
+![shinde-shimau-to-wa-nasakenai](https://cdn.myanimelist.net/images/manga/2/160982.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: しんでしまうとはなさけない！

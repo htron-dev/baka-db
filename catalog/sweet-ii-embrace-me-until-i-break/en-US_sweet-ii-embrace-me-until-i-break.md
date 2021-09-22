@@ -1,5 +1,7 @@
 # Sweet II - Embrace Me Until I Break
 
+![sweet-ii-embrace-me-until-i-break](https://cdn.myanimelist.net/images/manga/3/6686.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

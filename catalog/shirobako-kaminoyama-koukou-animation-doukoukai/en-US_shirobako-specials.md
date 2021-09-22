@@ -1,5 +1,7 @@
 # Shirobako Specials
 
+![shirobako-specials](https://cdn.myanimelist.net/images/anime/6/72234.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: SHIROBAKO 劇中劇アニメーション

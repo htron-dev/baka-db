@@ -1,5 +1,7 @@
 # Seifukusha no Hanayome
 
+![seifukusha-no-hanayome](https://cdn.myanimelist.net/images/manga/1/202568.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 征服者の花嫁

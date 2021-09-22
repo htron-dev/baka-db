@@ -1,5 +1,7 @@
 # Soredemo Yappari Kimi ga Suki
 
+![soredemo-yappari-kimi-ga-suki](https://cdn.myanimelist.net/images/manga/2/125499.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Samurai Vampire
 
+![samurai-vampire](https://cdn.myanimelist.net/images/manga/1/41699.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 侍ばんぱいや

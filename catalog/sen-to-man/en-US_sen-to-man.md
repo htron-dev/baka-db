@@ -1,5 +1,7 @@
 # Sen to Man
 
+![sen-to-man](https://cdn.myanimelist.net/images/manga/3/188938.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 33

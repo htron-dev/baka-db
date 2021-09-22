@@ -1,5 +1,7 @@
 # Shachou no Tashinami
 
+![shachou-no-tashinami](https://cdn.myanimelist.net/images/manga/2/66329.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

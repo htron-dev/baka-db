@@ -1,5 +1,7 @@
 # Sekai de Ichiban Hayai Haru
 
+![sekai-de-ichiban-hayai-haru](https://cdn.myanimelist.net/images/manga/3/213300.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 21

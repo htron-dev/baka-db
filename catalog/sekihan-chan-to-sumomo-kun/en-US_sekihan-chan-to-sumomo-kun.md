@@ -1,5 +1,7 @@
 # Sekihan-chan to Sumomo-kun
 
+![sekihan-chan-to-sumomo-kun](https://cdn.myanimelist.net/images/manga/2/159127.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

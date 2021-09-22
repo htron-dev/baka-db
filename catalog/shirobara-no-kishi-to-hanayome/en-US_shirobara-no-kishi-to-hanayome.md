@@ -1,5 +1,7 @@
 # Shirobara no Kishi to Hanayome
 
+![shirobara-no-kishi-to-hanayome](https://cdn.myanimelist.net/images/manga/1/217873.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 白バラの騎士と花嫁

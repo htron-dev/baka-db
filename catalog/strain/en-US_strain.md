@@ -1,5 +1,7 @@
 # Strain
 
+![strain](https://cdn.myanimelist.net/images/manga/2/31701.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 40

@@ -1,5 +1,7 @@
 # Shakkin Kyoudai
 
+![shakkin-kyoudai](https://cdn.myanimelist.net/images/manga/2/197975.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

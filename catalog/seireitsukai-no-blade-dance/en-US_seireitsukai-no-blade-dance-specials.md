@@ -1,5 +1,7 @@
 # Seireitsukai no Blade Dance Specials
 
+![seireitsukai-no-blade-dance-specials](https://cdn.myanimelist.net/images/anime/6/64599.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 精霊使いの剣舞〈ブレイドダンス〉ミニ OVA

@@ -1,5 +1,7 @@
 # Senpai to Boku
 
+![senpai-to-boku](https://cdn.myanimelist.net/images/manga/3/129169.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 先輩とぼく
 -   **start-date**: 2004-02-10

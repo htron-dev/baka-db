@@ -1,5 +1,7 @@
 # Sekai no Chuushin de, Ai wo Sakebu
 
+![sekai-no-chuushin-de-ai-wo-sakebu](https://cdn.myanimelist.net/images/manga/1/171526.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

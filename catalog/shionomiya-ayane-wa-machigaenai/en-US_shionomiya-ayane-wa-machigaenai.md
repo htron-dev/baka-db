@@ -1,5 +1,7 @@
 # Shionomiya Ayane wa Machigaenai.
 
+![shionomiya-ayane-wa-machigaenai](https://cdn.myanimelist.net/images/manga/2/188940.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Soukyuu no Fafner: Dead Aggressor - The Beyond Part 4
 
+![soukyuu-no-fafner-dead-aggressor-the-beyond-part-4](https://cdn.myanimelist.net/images/anime/1483/113852.jpg)
+
 -   **type**: movie
 -   **episodes**: 3
 -   **original-name**: 蒼穹のファフナー Dead Aggressor THE BEYOND

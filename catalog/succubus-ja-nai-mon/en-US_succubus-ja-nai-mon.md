@@ -1,5 +1,7 @@
 # Succubus ja Nai mon!
 
+![succubus-ja-nai-mon](https://cdn.myanimelist.net/images/manga/1/225786.jpg)
+
 -   **type**: manga
 -   **original-name**: サキュバスじゃないもん!
 -   **start-date**: 2016-02-14

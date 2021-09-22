@@ -1,5 +1,7 @@
 # Shaman King (2021)
 
+![shaman-king-2021](https://cdn.myanimelist.net/images/anime/1416/113270.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: SHAMAN KING

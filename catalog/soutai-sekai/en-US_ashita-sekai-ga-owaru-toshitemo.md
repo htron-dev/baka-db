@@ -1,5 +1,7 @@
 # Ashita Sekai ga Owaru toshitemo
 
+![ashita-sekai-ga-owaru-toshitemo](https://cdn.myanimelist.net/images/anime/1683/111390.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: あした世界が終わるとしても

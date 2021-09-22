@@ -1,5 +1,7 @@
 # Suna no Eikan
 
+![suna-no-eikan](https://cdn.myanimelist.net/images/manga/1/160200.jpg)
+
 -   **type**: manga
 -   **volumes**: 25
 -   **chapters**: 248

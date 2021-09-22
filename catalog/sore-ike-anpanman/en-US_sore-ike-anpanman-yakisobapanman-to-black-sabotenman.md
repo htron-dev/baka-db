@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Yakisobapanman to Black Sabotenman
 
+![sore-ike-anpanman-yakisobapanman-to-black-sabotenman](https://cdn.myanimelist.net/images/anime/9/56233.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ!アンパンマン やきそばパンマンとブラックサボテンマン

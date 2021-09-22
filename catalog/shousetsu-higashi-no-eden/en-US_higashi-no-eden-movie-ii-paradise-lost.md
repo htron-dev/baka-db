@@ -1,5 +1,7 @@
 # Higashi no Eden Movie II: Paradise Lost
 
+![higashi-no-eden-movie-ii-paradise-lost](https://cdn.myanimelist.net/images/anime/5/26126.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 東のエデン 劇場版 II Paradise Lost

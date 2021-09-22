@@ -1,5 +1,7 @@
 # Seiju no Kuni no Kinjutsukai
 
+![seiju-no-kuni-no-kinjutsukai](https://cdn.myanimelist.net/images/manga/2/233516.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 聖樹の国の禁呪使い

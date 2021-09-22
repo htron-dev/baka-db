@@ -1,5 +1,7 @@
 # Suisei no Gargantia
 
+![suisei-no-gargantia](https://cdn.myanimelist.net/images/manga/1/88769.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

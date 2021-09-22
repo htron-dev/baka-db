@@ -1,5 +1,7 @@
 # Kizu darake no Otokotachi
 
+![kizu-darake-no-otokotachi](https://cdn.myanimelist.net/images/manga/3/41124.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Sheriff
 
+![sheriff](https://cdn.myanimelist.net/images/manga/1/133549.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Occult Maiden: Hi Shou - Oni wo Tsugu Shounen
 
+![occult-maiden-hi-shou-oni-wo-tsugu-shounen](https://cdn.myanimelist.net/images/manga/3/163460.jpg)
+
 -   **type**: manga
 -   **original-name**: オカルトメイデン 陽章 鬼を継ぐ少年
 -   **start-date**: 2013-10-26

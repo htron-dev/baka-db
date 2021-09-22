@@ -1,5 +1,7 @@
 # Souzounushi nanode Motto Yasashiku Shite Kudasai!
 
+![souzounushi-nanode-motto-yasashiku-shite-kudasai](https://cdn.myanimelist.net/images/manga/2/247790.jpg)
+
 -   **type**: manga
 -   **original-name**: 創造主なのでもっと優しくしてください！
 -   **start-date**: 2020-10-16

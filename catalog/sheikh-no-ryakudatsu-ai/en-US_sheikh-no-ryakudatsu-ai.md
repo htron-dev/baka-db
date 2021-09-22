@@ -1,5 +1,7 @@
 # Sheikh no Ryakudatsu Ai
 
+![sheikh-no-ryakudatsu-ai](https://cdn.myanimelist.net/images/manga/3/42643.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

@@ -1,5 +1,7 @@
 # Stand Up Baby
 
+![stand-up-baby](https://cdn.myanimelist.net/images/manga/1/159599.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Stand Up Baby

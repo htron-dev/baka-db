@@ -1,5 +1,7 @@
 # Seishun wa Zombie deshita
 
+![seishun-wa-zombie-deshita](https://cdn.myanimelist.net/images/manga/3/190433.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

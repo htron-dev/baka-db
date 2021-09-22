@@ -1,5 +1,7 @@
 # Soccer Shoujo Kaede
 
+![soccer-shoujo-kaede](https://cdn.myanimelist.net/images/manga/1/57261.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: サッカー少女 楓

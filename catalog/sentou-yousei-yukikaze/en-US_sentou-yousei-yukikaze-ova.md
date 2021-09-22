@@ -1,5 +1,7 @@
 # Sentou Yousei Yukikaze
 
+![sentou-yousei-yukikaze](https://cdn.myanimelist.net/images/anime/7/32707.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: 戦闘妖精雪風

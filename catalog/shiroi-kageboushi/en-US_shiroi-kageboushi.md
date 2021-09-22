@@ -1,5 +1,7 @@
 # Shiroi Kageboushi
 
+![shiroi-kageboushi](https://cdn.myanimelist.net/images/manga/2/156163.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 白い影法師

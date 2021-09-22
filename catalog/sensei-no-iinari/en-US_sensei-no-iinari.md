@@ -1,5 +1,7 @@
 # Sensei no Iinari.
 
+![sensei-no-iinari](https://cdn.myanimelist.net/images/manga/1/231703.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

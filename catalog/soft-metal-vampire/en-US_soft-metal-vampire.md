@@ -1,5 +1,7 @@
 # Soft Metal Vampire
 
+![soft-metal-vampire](https://cdn.myanimelist.net/images/manga/3/186589.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 29

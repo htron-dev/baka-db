@@ -1,5 +1,7 @@
 # Shounen Oujo
 
+![shounen-oujo](https://cdn.myanimelist.net/images/manga/1/131793.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 34

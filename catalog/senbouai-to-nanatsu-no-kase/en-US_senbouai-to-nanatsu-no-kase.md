@@ -1,5 +1,7 @@
 # Senbouai to Nanatsu no Kase
 
+![senbouai-to-nanatsu-no-kase](https://cdn.myanimelist.net/images/manga/2/194400.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 13

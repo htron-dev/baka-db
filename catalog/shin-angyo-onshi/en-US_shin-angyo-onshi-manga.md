@@ -1,5 +1,7 @@
 # Shin Angyo Onshi
 
+![shin-angyo-onshi](https://cdn.myanimelist.net/images/manga/1/161805.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 76

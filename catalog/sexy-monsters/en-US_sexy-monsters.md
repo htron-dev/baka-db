@@ -1,5 +1,7 @@
 # Sexy Monsters
 
+![sexy-monsters](https://cdn.myanimelist.net/images/manga/1/180001.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

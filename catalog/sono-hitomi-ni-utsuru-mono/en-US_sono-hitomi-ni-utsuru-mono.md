@@ -1,5 +1,7 @@
 # Sono Hitomi ni Utsuru Mono
 
+![sono-hitomi-ni-utsuru-mono](https://cdn.myanimelist.net/images/manga/2/17226.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

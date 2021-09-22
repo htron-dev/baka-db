@@ -1,5 +1,7 @@
 # Sousei no Demiurge
 
+![sousei-no-demiurge](https://cdn.myanimelist.net/images/manga/2/150704.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 創世の大工衆〈デミウルゴス〉

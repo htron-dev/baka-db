@@ -1,5 +1,7 @@
 # Shibawanko no Wa no Kokoro
 
+![shibawanko-no-wa-no-kokoro](https://cdn.myanimelist.net/images/anime/11/7064.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 80
 -   **original-name**: しばわんこの和のこころ

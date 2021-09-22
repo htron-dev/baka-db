@@ -1,5 +1,7 @@
 # Shitsuji na Anata to Maid na Watashi: Gohoubi wa ♥♥♥
 
+![shitsuji-na-anata-to-maid-na-watashi-gohoubi-wa-♥♥♥](https://cdn.myanimelist.net/images/manga/2/167147.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

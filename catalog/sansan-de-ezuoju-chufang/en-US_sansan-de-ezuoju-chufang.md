@@ -1,5 +1,7 @@
 # Sansan de Ezuoju Chufang
 
+![sansan-de-ezuoju-chufang](https://cdn.myanimelist.net/images/anime/1842/108270.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 三三的恶作剧厨房

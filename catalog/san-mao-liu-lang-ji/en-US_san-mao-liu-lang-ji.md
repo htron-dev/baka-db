@@ -1,5 +1,7 @@
 # San Mao Liu Lang Ji
 
+![san-mao-liu-lang-ji](https://cdn.myanimelist.net/images/anime/6/76379.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 三毛流浪记

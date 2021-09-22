@@ -1,5 +1,7 @@
 # Shishunki Miman Okotowari Kanketsuhen
 
+![shishunki-miman-okotowari-kanketsuhen](https://cdn.myanimelist.net/images/manga/1/88965.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

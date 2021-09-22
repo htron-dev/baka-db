@@ -1,5 +1,7 @@
 # Sankarea
 
+![sankarea](https://cdn.myanimelist.net/images/anime/1487/95651.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: さんかれあ

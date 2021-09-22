@@ -1,5 +1,7 @@
 # Sensei to Boku
 
+![sensei-to-boku](https://cdn.myanimelist.net/images/manga/2/91045.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

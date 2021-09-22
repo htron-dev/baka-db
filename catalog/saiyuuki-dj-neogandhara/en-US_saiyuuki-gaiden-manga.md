@@ -1,5 +1,7 @@
 # Saiyuuki Gaiden
 
+![saiyuuki-gaiden](https://cdn.myanimelist.net/images/manga/3/155034.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 35

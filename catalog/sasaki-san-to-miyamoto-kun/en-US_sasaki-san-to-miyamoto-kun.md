@@ -1,5 +1,7 @@
 # Sasaki-san to Miyamoto-kun
 
+![sasaki-san-to-miyamoto-kun](https://cdn.myanimelist.net/images/manga/3/178391.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

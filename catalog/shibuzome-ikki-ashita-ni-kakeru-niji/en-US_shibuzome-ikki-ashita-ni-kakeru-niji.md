@@ -1,5 +1,7 @@
 # Shibuzome Ikki: Ashita ni Kakeru Niji
 
+![shibuzome-ikki-ashita-ni-kakeru-niji](https://cdn.myanimelist.net/images/anime/7/74527.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 渋染一揆～明日にかける虹～

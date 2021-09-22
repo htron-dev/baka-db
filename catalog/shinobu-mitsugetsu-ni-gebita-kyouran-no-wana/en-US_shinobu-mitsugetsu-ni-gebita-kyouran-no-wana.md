@@ -1,5 +1,7 @@
 # Shinobu Mitsugetsu ni Gebita Kyouran no Wana
 
+![shinobu-mitsugetsu-ni-gebita-kyouran-no-wana](https://cdn.myanimelist.net/images/manga/3/194461.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

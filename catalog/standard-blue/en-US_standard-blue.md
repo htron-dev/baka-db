@@ -1,5 +1,7 @@
 # Standard Blue
 
+![standard-blue](https://cdn.myanimelist.net/images/manga/4/249006.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

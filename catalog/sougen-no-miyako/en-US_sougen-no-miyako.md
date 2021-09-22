@@ -1,5 +1,7 @@
 # Sougen no Miyako
 
+![sougen-no-miyako](https://cdn.myanimelist.net/images/manga/2/212453.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

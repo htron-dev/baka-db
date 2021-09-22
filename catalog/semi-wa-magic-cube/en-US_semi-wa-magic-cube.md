@@ -1,5 +1,7 @@
 # Semi wa Magic Cube
 
+![semi-wa-magic-cube](https://cdn.myanimelist.net/images/anime/1643/109948.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 세미와 매직큐브

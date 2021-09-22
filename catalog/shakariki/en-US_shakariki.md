@@ -1,5 +1,7 @@
 # Shakariki!
 
+![shakariki](https://cdn.myanimelist.net/images/manga/3/14419.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 155

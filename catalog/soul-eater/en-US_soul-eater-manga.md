@@ -1,5 +1,7 @@
 # Soul Eater
 
+![soul-eater](https://cdn.myanimelist.net/images/manga/1/159808.jpg)
+
 -   **type**: manga
 -   **volumes**: 25
 -   **chapters**: 117

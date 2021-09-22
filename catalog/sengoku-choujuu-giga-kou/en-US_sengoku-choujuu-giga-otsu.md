@@ -1,5 +1,7 @@
 # Sengoku Choujuu Giga: Otsu
 
+![sengoku-choujuu-giga-otsu](https://cdn.myanimelist.net/images/anime/7/83737.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 戦国鳥獣戯画~乙~

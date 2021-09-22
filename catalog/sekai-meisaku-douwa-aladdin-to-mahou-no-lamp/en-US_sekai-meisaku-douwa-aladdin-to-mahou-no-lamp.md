@@ -1,5 +1,7 @@
 # Sekai Meisaku Douwa: Aladdin to Mahou no Lamp
 
+![sekai-meisaku-douwa-aladdin-to-mahou-no-lamp](https://cdn.myanimelist.net/images/anime/8/36927.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アラジンと魔法のランプ

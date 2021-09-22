@@ -1,5 +1,7 @@
 # Sakura Taisen: Le Nouveau Paris
 
+![sakura-taisen-le-nouveau-paris](https://cdn.myanimelist.net/images/anime/1260/107216.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: サクラ大戦『ル・ヌーヴォー・巴里』

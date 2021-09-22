@@ -1,5 +1,7 @@
 # Sora☆Miyo
 
+![sora☆-miyo](https://cdn.myanimelist.net/images/manga/3/31567.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

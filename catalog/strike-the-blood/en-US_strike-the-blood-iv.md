@@ -1,5 +1,7 @@
 # Strike the Blood IV
 
+![strike-the-blood-iv](https://cdn.myanimelist.net/images/anime/1692/116875.jpg)
+
 -   **type**: ova
 -   **episodes**: 12
 -   **original-name**: ストライク・ザ・ブラッド IV

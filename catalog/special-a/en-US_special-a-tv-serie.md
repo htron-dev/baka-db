@@ -1,5 +1,7 @@
 # Special A
 
+![special-a](https://cdn.myanimelist.net/images/anime/8/77363.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: スペシャル・エー

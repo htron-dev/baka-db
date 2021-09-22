@@ -1,5 +1,7 @@
 # Shourai-teki ni Shindekure
 
+![shourai-teki-ni-shindekure](https://cdn.myanimelist.net/images/manga/2/194468.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 42

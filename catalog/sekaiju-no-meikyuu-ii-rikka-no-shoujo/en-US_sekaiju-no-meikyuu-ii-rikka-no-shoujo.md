@@ -1,5 +1,7 @@
 # Sekaiju no Meikyuu II: Rikka no Shoujo
 
+![sekaiju-no-meikyuu-ii-rikka-no-shoujo](https://cdn.myanimelist.net/images/manga/3/26311.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

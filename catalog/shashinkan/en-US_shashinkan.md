@@ -1,5 +1,7 @@
 # Shashinkan
 
+![shashinkan](https://cdn.myanimelist.net/images/anime/1413/112309.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 寫眞館

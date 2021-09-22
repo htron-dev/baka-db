@@ -1,5 +1,7 @@
 # Shisuko na Futari
 
+![shisuko-na-futari](https://cdn.myanimelist.net/images/manga/2/151469.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: シスコなふたり

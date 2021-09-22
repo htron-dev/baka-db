@@ -1,5 +1,7 @@
 # Shunpuu Ouka
 
+![shunpuu-ouka](https://cdn.myanimelist.net/images/manga/5/48405.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 春風桜花

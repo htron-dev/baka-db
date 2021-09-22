@@ -1,5 +1,7 @@
 # Shuumatsu no Harem
 
+![shuumatsu-no-harem](https://cdn.myanimelist.net/images/manga/3/183037.jpg)
+
 -   **type**: manga
 -   **original-name**: 終末のハーレム
 -   **start-date**: 2016-05-08

@@ -1,5 +1,7 @@
 # Sakazuki-san Chi no Gikyoudai
 
+![sakazuki-san-chi-no-gikyoudai](https://cdn.myanimelist.net/images/manga/3/202407.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 41

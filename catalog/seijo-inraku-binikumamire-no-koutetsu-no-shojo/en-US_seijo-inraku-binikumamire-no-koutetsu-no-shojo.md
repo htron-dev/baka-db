@@ -1,5 +1,7 @@
 # Seijo Inraku: Binikumamire no Koutetsu no Shojo
 
+![seijo-inraku-binikumamire-no-koutetsu-no-shojo](https://cdn.myanimelist.net/images/manga/3/217341.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

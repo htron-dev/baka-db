@@ -1,5 +1,7 @@
 # Shounen Mahoushi
 
+![shounen-mahoushi](https://cdn.myanimelist.net/images/manga/3/179919.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **original-name**: 少年魔法士

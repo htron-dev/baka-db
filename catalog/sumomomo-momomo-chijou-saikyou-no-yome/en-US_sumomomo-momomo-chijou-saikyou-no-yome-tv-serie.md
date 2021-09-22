@@ -1,5 +1,7 @@
 # Sumomomo Momomo: Chijou Saikyou no Yome
 
+![sumomomo-momomo-chijou-saikyou-no-yome](https://cdn.myanimelist.net/images/anime/8/2357.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: すもももももも〜地上最強のヨメ〜

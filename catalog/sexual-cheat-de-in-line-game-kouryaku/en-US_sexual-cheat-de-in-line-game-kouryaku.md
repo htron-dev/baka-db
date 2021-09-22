@@ -1,5 +1,7 @@
 # Sexual Cheat de In-line Game Kouryaku!
 
+![sexual-cheat-de-in-line-game-kouryaku](https://cdn.myanimelist.net/images/manga/1/219240.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

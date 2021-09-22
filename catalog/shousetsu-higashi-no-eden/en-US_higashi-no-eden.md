@@ -1,5 +1,7 @@
 # Higashi no Eden
 
+![higashi-no-eden](https://cdn.myanimelist.net/images/anime/9/15033.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 東のエデン

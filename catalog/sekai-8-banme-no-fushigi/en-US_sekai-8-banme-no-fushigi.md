@@ -1,5 +1,7 @@
 # Sekai 8-banme no Fushigi
 
+![sekai-8-banme-no-fushigi](https://cdn.myanimelist.net/images/manga/1/203266.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

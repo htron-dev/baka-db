@@ -1,5 +1,7 @@
 # Seishokuki: Aliens Meet Girls
 
+![seishokuki-aliens-meet-girls](https://cdn.myanimelist.net/images/manga/2/242787.jpg)
+
 -   **type**: manga
 -   **original-name**: 性食鬼 Aliens Meet Girls
 -   **start-date**: 2019-01-15

@@ -1,5 +1,7 @@
 # Shuumatsu no Harem: Fantasia
 
+![shuumatsu-no-harem-fantasia](https://cdn.myanimelist.net/images/manga/1/213178.jpg)
+
 -   **type**: manga
 -   **original-name**: 終末のハーレム ファンタジア
 -   **start-date**: 2018-04-19

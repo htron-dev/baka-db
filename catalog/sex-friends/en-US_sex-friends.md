@@ -1,5 +1,7 @@
 # Sex Friends
 
+![sex-friends](https://cdn.myanimelist.net/images/manga/3/182333.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

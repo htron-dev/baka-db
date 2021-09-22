@@ -1,5 +1,7 @@
 # Seijin suru to Shio ni Naru Sekai de Ikinokoru Hanashi
 
+![seijin-suru-to-shio-ni-naru-sekai-de-ikinokoru-hanashi](https://cdn.myanimelist.net/images/manga/3/198232.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 成人すると塩になる世界で生き残る話
 -   **start-date**: 2017-07-22

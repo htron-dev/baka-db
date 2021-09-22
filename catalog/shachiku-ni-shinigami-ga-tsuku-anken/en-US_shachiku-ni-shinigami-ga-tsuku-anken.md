@@ -1,5 +1,7 @@
 # Shachiku ni Shinigami ga Tsuku Anken
 
+![shachiku-ni-shinigami-ga-tsuku-anken](https://cdn.myanimelist.net/images/manga/2/222287.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

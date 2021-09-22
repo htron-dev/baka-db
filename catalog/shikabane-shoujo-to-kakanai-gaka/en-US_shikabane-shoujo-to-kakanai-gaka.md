@@ -1,5 +1,7 @@
 # Shikabane Shoujo to Kakanai Gaka
 
+![shikabane-shoujo-to-kakanai-gaka](https://cdn.myanimelist.net/images/manga/3/200834.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Shoraku no Kongen: Touhou Project Mizutaki Sakuhinshuu
 
+![shoraku-no-kongen-touhou-project-mizutaki-sakuhinshuu](https://cdn.myanimelist.net/images/manga/1/228527.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

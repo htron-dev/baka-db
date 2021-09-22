@@ -1,5 +1,7 @@
 # Sakamichi no Apollon
 
+![sakamichi-no-apollon](https://cdn.myanimelist.net/images/manga/3/62627.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 45

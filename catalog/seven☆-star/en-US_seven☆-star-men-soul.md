@@ -1,5 +1,7 @@
 # Seven☆Star: Men Soul
 
+![seven☆-star-men-soul](https://cdn.myanimelist.net/images/manga/2/223405.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 70

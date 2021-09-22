@@ -1,5 +1,7 @@
 # Shimajirou to Kujira no Uta
 
+![shimajirou-to-kujira-no-uta](https://cdn.myanimelist.net/images/anime/5/55323.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: しまじろうと くじらのうた

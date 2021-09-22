@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Baikinman to 3 Bai Punch
 
+![sore-ike-anpanman-baikinman-to-3-bai-punch](https://cdn.myanimelist.net/images/anime/5/57681.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ!アンパンマン ばいきんまんと 3 ばいパンチ

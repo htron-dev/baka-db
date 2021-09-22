@@ -1,5 +1,7 @@
 # Pokémon Ranger Vatonage the Comic
 
+![pokemon-ranger-vatonage-the-comic](https://cdn.myanimelist.net/images/manga/3/16991.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: ポケモンレンジャーバトナージ the Comic

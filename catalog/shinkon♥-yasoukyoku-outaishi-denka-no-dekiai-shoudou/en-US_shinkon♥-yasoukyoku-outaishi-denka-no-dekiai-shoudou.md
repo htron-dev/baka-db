@@ -1,5 +1,7 @@
 # Shinkon♥Yasoukyoku: Outaishi Denka no Dekiai Shoudou
 
+![shinkon♥-yasoukyoku-outaishi-denka-no-dekiai-shoudou](https://cdn.myanimelist.net/images/manga/1/217198.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

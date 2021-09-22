@@ -1,5 +1,7 @@
 # Sawaranaide, Kowareteimasu.
 
+![sawaranaide-kowareteimasu](https://cdn.myanimelist.net/images/manga/2/164631.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

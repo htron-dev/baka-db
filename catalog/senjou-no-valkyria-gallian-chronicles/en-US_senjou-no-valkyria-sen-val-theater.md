@@ -1,5 +1,7 @@
 # Senjou no Valkyria: SenVal Theater
 
+![senjou-no-valkyria-sen-val-theater](https://cdn.myanimelist.net/images/anime/5/19773.jpg)
+
 -   **type**: special
 -   **episodes**: 9
 -   **original-name**: 戦場のヴァルキュリアヴァル劇場

@@ -1,5 +1,7 @@
 # Sugar Pot Shinjuu
 
+![sugar-pot-shinjuu](https://cdn.myanimelist.net/images/manga/2/240939.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

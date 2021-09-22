@@ -1,5 +1,7 @@
 # Second Boy
 
+![second-boy](https://cdn.myanimelist.net/images/manga/4/25179.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Sekai Meisaku Douwa
 
+![sekai-meisaku-douwa](https://cdn.myanimelist.net/images/anime/10/17689.jpg)
+
 -   **type**: ova
 -   **episodes**: 20
 -   **original-name**: 世界名作童話

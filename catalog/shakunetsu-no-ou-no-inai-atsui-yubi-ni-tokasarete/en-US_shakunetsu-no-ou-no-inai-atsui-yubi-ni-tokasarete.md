@@ -1,5 +1,7 @@
 # Shakunetsu no Ou no Inai: Atsui Yubi ni Tokasarete
 
+![shakunetsu-no-ou-no-inai-atsui-yubi-ni-tokasarete](https://cdn.myanimelist.net/images/manga/2/192036.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

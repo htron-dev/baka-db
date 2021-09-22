@@ -1,5 +1,7 @@
 # S Shitsuji to Maid Ojousama no Aoi Tori
 
+![s-shitsuji-to-maid-ojousama-no-aoi-tori](https://cdn.myanimelist.net/images/manga/1/181045.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

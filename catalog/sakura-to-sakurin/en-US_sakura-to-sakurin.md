@@ -1,5 +1,7 @@
 # Sakura to Sakurin
 
+![sakura-to-sakurin](https://cdn.myanimelist.net/images/anime/1825/98612.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: さくらとサクリン

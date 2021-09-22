@@ -1,5 +1,7 @@
 # Sora no Soko Shirasuna no Himegimi
 
+![sora-no-soko-shirasuna-no-himegimi](https://cdn.myanimelist.net/images/manga/3/39002.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

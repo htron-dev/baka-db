@@ -1,5 +1,7 @@
 # Seifukuou no Gekiai: Hitojichi-hime wa Mitsuya ni Aegu
 
+![seifukuou-no-gekiai-hitojichi-hime-wa-mitsuya-ni-aegu](https://cdn.myanimelist.net/images/manga/1/192209.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

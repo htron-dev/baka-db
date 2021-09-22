@@ -1,5 +1,7 @@
 # Sekai de Ichiban Yasashii Ongaku
 
+![sekai-de-ichiban-yasashii-ongaku](https://cdn.myanimelist.net/images/manga/1/162627.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 84

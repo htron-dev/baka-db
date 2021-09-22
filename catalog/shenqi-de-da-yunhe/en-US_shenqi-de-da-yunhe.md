@@ -1,5 +1,7 @@
 # Shenqi De Da Yunhe
 
+![shenqi-de-da-yunhe](https://cdn.myanimelist.net/images/anime/1912/115641.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 神奇的大运河

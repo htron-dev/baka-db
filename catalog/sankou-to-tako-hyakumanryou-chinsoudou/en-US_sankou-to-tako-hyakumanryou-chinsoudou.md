@@ -1,5 +1,7 @@
 # Sankou to Tako: Hyakumanryou Chinsoudou
 
+![sankou-to-tako-hyakumanryou-chinsoudou](https://cdn.myanimelist.net/images/anime/2/12517.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 三公と蛸～百万両珍騒動～

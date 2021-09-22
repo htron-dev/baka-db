@@ -1,5 +1,7 @@
 # Sumarin Kanojo-tachi
 
+![sumarin-kanojo-tachi](https://cdn.myanimelist.net/images/manga/1/188250.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 86

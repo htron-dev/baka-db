@@ -1,5 +1,7 @@
 # Shingeki no Kyojin
 
+![shingeki-no-kyojin](https://cdn.myanimelist.net/images/anime/10/47347.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 進撃の巨人

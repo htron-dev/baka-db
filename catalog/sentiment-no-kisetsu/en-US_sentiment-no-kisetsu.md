@@ -1,5 +1,7 @@
 # Sentiment no Kisetsu
 
+![sentiment-no-kisetsu](https://cdn.myanimelist.net/images/manga/3/196293.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 80

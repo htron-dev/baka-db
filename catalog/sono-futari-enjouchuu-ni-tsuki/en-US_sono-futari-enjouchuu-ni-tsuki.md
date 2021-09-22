@@ -1,5 +1,7 @@
 # Sono Futari, Enjouchuu ni Tsuki
 
+![sono-futari-enjouchuu-ni-tsuki](https://cdn.myanimelist.net/images/manga/3/224348.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

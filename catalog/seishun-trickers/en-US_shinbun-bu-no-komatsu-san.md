@@ -1,5 +1,7 @@
 # Shinbun-bu no Komatsu-san
 
+![shinbun-bu-no-komatsu-san](https://cdn.myanimelist.net/images/manga/1/129475.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

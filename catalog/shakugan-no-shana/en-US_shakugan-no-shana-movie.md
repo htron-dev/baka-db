@@ -1,5 +1,7 @@
 # Shakugan no Shana Movie
 
+![shakugan-no-shana-movie](https://cdn.myanimelist.net/images/anime/12/21513.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 灼眼のシャナ

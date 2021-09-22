@@ -1,5 +1,7 @@
 # Senpai Amasugiru H
 
+![senpai-amasugiru-h](https://cdn.myanimelist.net/images/manga/3/5452.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

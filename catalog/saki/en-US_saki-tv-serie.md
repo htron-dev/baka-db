@@ -1,5 +1,7 @@
 # Saki
 
+![saki](https://cdn.myanimelist.net/images/anime/12/73933.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 咲-Saki-

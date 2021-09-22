@@ -1,5 +1,7 @@
 # Seikimatsu Leader Den Takeshi!
 
+![seikimatsu-leader-den-takeshi](https://cdn.myanimelist.net/images/manga/3/41580.jpg)
+
 -   **type**: manga
 -   **volumes**: 25
 -   **chapters**: 247

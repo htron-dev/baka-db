@@ -1,5 +1,7 @@
 # Stitch!: Zutto Saikou no Tomodachi Special
 
+![stitch-zutto-saikou-no-tomodachi-special](https://cdn.myanimelist.net/images/anime/8/73736.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: スティッチ！～ずっと最高のトモダチ～

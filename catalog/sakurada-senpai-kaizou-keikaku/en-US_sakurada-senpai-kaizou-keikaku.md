@@ -1,5 +1,7 @@
 # Sakurada-senpai Kaizou Keikaku
 
+![sakurada-senpai-kaizou-keikaku](https://cdn.myanimelist.net/images/manga/3/224121.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

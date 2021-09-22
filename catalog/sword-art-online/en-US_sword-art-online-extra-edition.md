@@ -1,5 +1,7 @@
 # Sword Art Online: Extra Edition
 
+![sword-art-online-extra-edition](https://cdn.myanimelist.net/images/anime/6/64747.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ソードアート・オンライン Extra Edition

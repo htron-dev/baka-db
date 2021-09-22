@@ -1,5 +1,7 @@
 # Shiro Neko
 
+![shiro-neko](https://cdn.myanimelist.net/images/manga/2/37725.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

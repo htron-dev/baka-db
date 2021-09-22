@@ -1,5 +1,7 @@
 # Shingeki no Kyojin
 
+![shingeki-no-kyojin](https://cdn.myanimelist.net/images/manga/2/37846.jpg)
+
 -   **type**: manga
 -   **volumes**: 34
 -   **chapters**: 141

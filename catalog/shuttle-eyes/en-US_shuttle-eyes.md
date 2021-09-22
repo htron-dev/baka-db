@@ -1,5 +1,7 @@
 # Shuttle Eyes
 
+![shuttle-eyes](https://cdn.myanimelist.net/images/manga/1/226467.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 36

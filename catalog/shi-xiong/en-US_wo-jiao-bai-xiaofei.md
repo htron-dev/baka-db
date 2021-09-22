@@ -1,5 +1,7 @@
 # Wo Jiao Bai Xiaofei
 
+![wo-jiao-bai-xiaofei](https://cdn.myanimelist.net/images/anime/5/80257.jpg)
+
 -   **type**: ona
 -   **episodes**: 39
 -   **original-name**: 我叫白小飞

@@ -1,5 +1,7 @@
 # Sasuga desu Yuusha-sama!
 
+![sasuga-desu-yuusha-sama](https://cdn.myanimelist.net/images/manga/2/165425.jpg)
+
 -   **type**: light-novel
 -   **original-name**: さすがです勇者さま!
 -   **start-date**: 2015-10-30

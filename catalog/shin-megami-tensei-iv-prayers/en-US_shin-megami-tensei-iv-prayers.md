@@ -1,5 +1,7 @@
 # Shin Megami Tensei IV: Prayers
 
+![shin-megami-tensei-iv-prayers](https://cdn.myanimelist.net/images/manga/1/126217.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # Shinku no Odoriko to Hanataba no Ouji: Jounetsuteki ni Ubawarete
 
+![shinku-no-odoriko-to-hanataba-no-ouji-jounetsuteki-ni-ubawarete](https://cdn.myanimelist.net/images/manga/1/194205.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

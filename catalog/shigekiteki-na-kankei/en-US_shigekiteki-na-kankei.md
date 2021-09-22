@@ -1,5 +1,7 @@
 # Shigekiteki na Kankei
 
+![shigekiteki-na-kankei](https://cdn.myanimelist.net/images/manga/2/139525.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

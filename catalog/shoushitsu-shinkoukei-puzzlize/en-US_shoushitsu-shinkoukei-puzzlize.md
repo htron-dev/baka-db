@@ -1,5 +1,7 @@
 # Shoushitsu Shinkoukei Puzzlize
 
+![shoushitsu-shinkoukei-puzzlize](https://cdn.myanimelist.net/images/manga/1/156947.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 消失進行形パズライズ

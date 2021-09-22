@@ -1,5 +1,7 @@
 # Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita. @comic
 
+![saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita-comic](https://cdn.myanimelist.net/images/manga/1/236905.jpg)
+
 -   **type**: manga
 -   **original-name**: 最弱テイマーはゴミ拾いの旅を始めました。＠COMIC
 -   **start-date**: 2020-02-10

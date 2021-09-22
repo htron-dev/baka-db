@@ -1,5 +1,7 @@
 # Shuumatsu no Harem: Britannia Lumiére
 
+![shuumatsu-no-harem-britannia-lumiere](https://cdn.myanimelist.net/images/manga/3/234779.jpg)
+
 -   **type**: manga
 -   **original-name**: 終末のハーレム～ブリタニア リュミエール～
 -   **start-date**: 2020-06-26

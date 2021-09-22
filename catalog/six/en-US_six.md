@@ -1,5 +1,7 @@
 # Six
 
+![six](https://cdn.myanimelist.net/images/manga/3/193190.jpg)
+
 -   **type**: manga
 -   **chapters**: 8
 -   **original-name**: SIX

@@ -1,5 +1,7 @@
 # Saber Marionette R
 
+![saber-marionette-r](https://cdn.myanimelist.net/images/anime/11/61075.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: SM ガールズ セイバーマリオネット R

@@ -1,5 +1,7 @@
 # Sora yori mo Tooi Basho: Yokoku
 
+![sora-yori-mo-tooi-basho-yokoku](https://cdn.myanimelist.net/images/anime/1897/98785.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 宇宙よりも遠い場所 予告 WEB 限定

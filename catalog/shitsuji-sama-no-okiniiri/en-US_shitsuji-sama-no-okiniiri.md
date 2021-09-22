@@ -1,5 +1,7 @@
 # Shitsuji-sama no Okiniiri
 
+![shitsuji-sama-no-okiniiri](https://cdn.myanimelist.net/images/manga/2/154553.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **chapters**: 84

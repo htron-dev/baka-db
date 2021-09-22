@@ -1,5 +1,7 @@
 # Cross and Crime
 
+![cross-and-crime](https://cdn.myanimelist.net/images/manga/3/188831.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 115

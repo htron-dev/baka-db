@@ -1,5 +1,7 @@
 # Serina Seisho
 
+![serina-seisho](https://cdn.myanimelist.net/images/manga/2/81438.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: SERINA 聖書

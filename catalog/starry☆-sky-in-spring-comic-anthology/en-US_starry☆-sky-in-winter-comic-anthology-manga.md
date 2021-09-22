@@ -1,5 +1,7 @@
 # Starry☆Sky: In Winter - Comic Anthology
 
+![starry☆-sky-in-winter-comic-anthology](https://cdn.myanimelist.net/images/manga/1/29916.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

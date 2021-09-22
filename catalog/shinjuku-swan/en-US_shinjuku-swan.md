@@ -1,5 +1,7 @@
 # Shinjuku Swan
 
+![shinjuku-swan](https://cdn.myanimelist.net/images/manga/5/75615.jpg)
+
 -   **type**: manga
 -   **volumes**: 38
 -   **chapters**: 392

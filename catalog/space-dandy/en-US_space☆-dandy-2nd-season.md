@@ -1,12 +1,14 @@
 # Space☆Dandy 2nd Season
 
+![space☆-dandy-2nd-season](https://cdn.myanimelist.net/images/anime/3/64451.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
--   **original-name**: スペース☆ダンディ 第2シリーズ
+-   **original-name**: スペース ☆ ダンディ 第 2 シリーズ
 -   **start-date**: 2014-07-06
 -   **end-date**: 2014-07-06
 -   **opening-song**: "Viva Namida (ビバナミダ)" by Yasuyuki Okamura
--   **ending-song**: #1: "X Jigen e Youkoso (X次元へようこそ)" by Etsuko Yakushimaru (eps 1-6, 11)
+-   **ending-song**: #1: "X Jigen e Youkoso (X 次元へようこそ)" by Etsuko Yakushimaru (eps 1-6, 11)
 -   **rating**: PG-13 - Teens 13 or older
 
 ## Tags

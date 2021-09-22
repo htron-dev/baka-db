@@ -1,5 +1,7 @@
 # Summer Wars
 
+![summer-wars](https://cdn.myanimelist.net/images/anime/10/15796.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: サマーウォーズ

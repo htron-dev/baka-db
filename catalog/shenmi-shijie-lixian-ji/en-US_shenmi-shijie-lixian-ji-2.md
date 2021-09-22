@@ -1,5 +1,7 @@
 # Shenmi Shijie Lixian Ji 2
 
+![shenmi-shijie-lixian-ji-2](https://cdn.myanimelist.net/images/anime/3/78641.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 神秘世界历险记 2

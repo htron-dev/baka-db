@@ -1,5 +1,7 @@
 # Spoon Oba-san
 
+![spoon-oba-san](https://cdn.myanimelist.net/images/anime/2/3531.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 130
 -   **original-name**: スプーンおばさん

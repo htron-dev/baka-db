@@ -1,5 +1,7 @@
 # Strike Witches: Katayoku no Majo-tachi
 
+![strike-witches-katayoku-no-majo-tachi](https://cdn.myanimelist.net/images/manga/5/86981.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

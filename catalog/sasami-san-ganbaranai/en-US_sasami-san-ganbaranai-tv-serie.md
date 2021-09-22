@@ -1,5 +1,7 @@
 # Sasami-san@Ganbaranai
 
+![sasami-san-ganbaranai](https://cdn.myanimelist.net/images/anime/4/53951.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ささみさん@がんばらない

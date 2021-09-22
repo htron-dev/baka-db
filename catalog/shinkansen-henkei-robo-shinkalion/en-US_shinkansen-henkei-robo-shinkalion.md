@@ -1,5 +1,7 @@
 # Shinkansen Henkei Robo Shinkalion
 
+![shinkansen-henkei-robo-shinkalion](https://cdn.myanimelist.net/images/anime/13/84483.jpg)
+
 -   **type**: ona
 -   **episodes**: 11
 -   **original-name**: 新幹線変形ロボ シンカリオン

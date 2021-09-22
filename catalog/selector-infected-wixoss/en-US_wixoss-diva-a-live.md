@@ -1,5 +1,7 @@
 # WIXOSS Diva(A)Live
 
+![wixoss-diva-a-live](https://cdn.myanimelist.net/images/anime/1779/110807.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: WIXOSS DIVA(A)LIVE（ウィクロス ディーヴァアライブ）

@@ -1,5 +1,7 @@
 # Sanrio Anime Sekai Meisaku Gekijou
 
+![sanrio-anime-sekai-meisaku-gekijou](https://cdn.myanimelist.net/images/anime/1518/95864.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: サンリオ・アニメ世界名作劇場

@@ -1,5 +1,7 @@
 # Suki ni Narazu ni Irarenai
 
+![suki-ni-narazu-ni-irarenai](https://cdn.myanimelist.net/images/manga/1/222659.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

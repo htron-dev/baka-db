@@ -1,5 +1,7 @@
 # Seikimatsu★Darling
 
+![seikimatsu★-darling](https://cdn.myanimelist.net/images/manga/2/151978.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 世紀末 ★ ダーリン

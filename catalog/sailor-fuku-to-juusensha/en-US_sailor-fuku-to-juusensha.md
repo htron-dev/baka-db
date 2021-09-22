@@ -1,5 +1,7 @@
 # Sailor Fuku to Juusensha
 
+![sailor-fuku-to-juusensha](https://cdn.myanimelist.net/images/manga/1/96517.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 42

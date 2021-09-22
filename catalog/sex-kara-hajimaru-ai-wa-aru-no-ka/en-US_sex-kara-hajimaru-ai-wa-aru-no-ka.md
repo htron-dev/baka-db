@@ -1,5 +1,7 @@
 # Sex kara Hajimaru Ai wa Aru no ka
 
+![sex-kara-hajimaru-ai-wa-aru-no-ka](https://cdn.myanimelist.net/images/manga/1/224120.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Sabaku no Bara to Umi no Hoshi
 
+![sabaku-no-bara-to-umi-no-hoshi](https://cdn.myanimelist.net/images/manga/2/157872.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **original-name**: 砂漠の薔薇と海の星

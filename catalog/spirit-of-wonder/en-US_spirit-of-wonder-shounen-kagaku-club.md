@@ -1,5 +1,7 @@
 # Spirit of Wonder: Shounen Kagaku Club
 
+![spirit-of-wonder-shounen-kagaku-club](https://cdn.myanimelist.net/images/anime/10/2723.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ザスピリットオブワンダー : 少年科學倶楽部

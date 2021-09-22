@@ -1,5 +1,7 @@
 # Sekai ga Bishoujo Teikoku ni Shihai Sareta node, Seiteki ni Hangyaku Shitemita
 
+![sekai-ga-bishoujo-teikoku-ni-shihai-sareta-node-seiteki-ni-hangyaku-shitemita](https://cdn.myanimelist.net/images/manga/3/168624.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Shinu Toki wa Mabayuku
 
+![shinu-toki-wa-mabayuku](https://cdn.myanimelist.net/images/manga/3/216065.jpg)
+
 -   **type**: manga
 -   **original-name**: 死ぬときはまばゆく
 -   **start-date**: 2018-09-06

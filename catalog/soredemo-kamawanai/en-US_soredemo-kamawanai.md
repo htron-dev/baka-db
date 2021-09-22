@@ -1,5 +1,7 @@
 # Soredemo Kamawanai
 
+![soredemo-kamawanai](https://cdn.myanimelist.net/images/manga/2/106505.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

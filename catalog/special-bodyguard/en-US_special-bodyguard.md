@@ -1,5 +1,7 @@
 # Special Bodyguard
 
+![special-bodyguard](https://cdn.myanimelist.net/images/manga/1/25403.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

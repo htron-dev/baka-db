@@ -1,5 +1,7 @@
 # Sengoku Ittouki
 
+![sengoku-ittouki](https://cdn.myanimelist.net/images/manga/3/165057.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 134

@@ -1,5 +1,7 @@
 # Saru Masamune
 
+![saru-masamune](https://cdn.myanimelist.net/images/anime/4/29217.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 猿正宗

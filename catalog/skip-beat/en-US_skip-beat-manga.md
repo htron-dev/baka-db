@@ -1,5 +1,7 @@
 # Skip Beat!
 
+![skip-beat](https://cdn.myanimelist.net/images/manga/2/26110.jpg)
+
 -   **type**: manga
 -   **original-name**: スキップ・ビート！
 -   **start-date**: 2002-02-15

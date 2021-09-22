@@ -1,5 +1,7 @@
 # Soredemo Machi wa Mawatteiru
 
+![soredemo-machi-wa-mawatteiru](https://cdn.myanimelist.net/images/anime/9/25880.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: それでも町は廻っている

@@ -1,5 +1,7 @@
 # Shut Hell
 
+![shut-hell](https://cdn.myanimelist.net/images/manga/1/180153.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 90

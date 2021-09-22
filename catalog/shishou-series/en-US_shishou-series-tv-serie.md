@@ -1,5 +1,7 @@
 # Shishou Series
 
+![shishou-series](https://cdn.myanimelist.net/images/anime/3/72325.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 師匠シリーズ
 -   **rating**: None

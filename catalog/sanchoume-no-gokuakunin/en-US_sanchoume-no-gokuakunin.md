@@ -1,5 +1,7 @@
 # Sanchoume no Gokuakunin
 
+![sanchoume-no-gokuakunin](https://cdn.myanimelist.net/images/manga/3/164225.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

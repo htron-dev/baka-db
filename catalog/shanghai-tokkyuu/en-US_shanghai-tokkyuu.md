@@ -1,5 +1,7 @@
 # Shanghai Tokkyuu
 
+![shanghai-tokkyuu](https://cdn.myanimelist.net/images/manga/3/83424.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

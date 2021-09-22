@@ -1,5 +1,7 @@
 # Selector Infected WIXOSS: Midoriko-san to Piruruku-tan
 
+![selector-infected-wixoss-midoriko-san-to-piruruku-tan](https://cdn.myanimelist.net/images/anime/10/67027.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: selector infected WIXOSS 『緑子さんとピルルクたん』

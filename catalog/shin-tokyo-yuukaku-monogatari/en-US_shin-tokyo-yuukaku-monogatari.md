@@ -1,5 +1,7 @@
 # Shin Tokyo Yuukaku Monogatari
 
+![shin-tokyo-yuukaku-monogatari](https://cdn.myanimelist.net/images/manga/3/96261.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

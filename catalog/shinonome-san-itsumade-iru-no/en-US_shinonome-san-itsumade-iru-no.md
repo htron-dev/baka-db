@@ -1,5 +1,7 @@
 # Shinonome-san, Itsumade Iru no?
 
+![shinonome-san-itsumade-iru-no](https://cdn.myanimelist.net/images/manga/3/208314.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

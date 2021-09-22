@@ -1,5 +1,7 @@
 # Second Proposal: Outaishi no Amai Wana
 
+![second-proposal-outaishi-no-amai-wana](https://cdn.myanimelist.net/images/manga/3/192869.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

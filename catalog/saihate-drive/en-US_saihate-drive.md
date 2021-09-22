@@ -1,5 +1,7 @@
 # Saihate Drive
 
+![saihate-drive](https://cdn.myanimelist.net/images/manga/2/226325.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

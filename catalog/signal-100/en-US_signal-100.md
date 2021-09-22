@@ -1,5 +1,7 @@
 # Signal 100
 
+![signal-100](https://cdn.myanimelist.net/images/manga/3/184766.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

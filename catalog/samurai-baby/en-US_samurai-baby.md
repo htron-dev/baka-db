@@ -1,5 +1,7 @@
 # Samurai Baby
 
+![samurai-baby](https://cdn.myanimelist.net/images/manga/2/17060.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

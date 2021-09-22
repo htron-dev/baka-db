@@ -1,5 +1,7 @@
 # Sherlock
 
+![sherlock](https://cdn.myanimelist.net/images/manga/3/150596.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **original-name**: 셜록

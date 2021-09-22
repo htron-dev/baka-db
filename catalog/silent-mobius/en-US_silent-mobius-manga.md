@@ -1,5 +1,7 @@
 # Silent Möbius
 
+![silent-mobius](https://cdn.myanimelist.net/images/manga/1/21.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: サイレントメビウス

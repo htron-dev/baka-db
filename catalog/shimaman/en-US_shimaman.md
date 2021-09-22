@@ -1,5 +1,7 @@
 # Shimaman
 
+![shimaman](https://cdn.myanimelist.net/images/manga/2/117447.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

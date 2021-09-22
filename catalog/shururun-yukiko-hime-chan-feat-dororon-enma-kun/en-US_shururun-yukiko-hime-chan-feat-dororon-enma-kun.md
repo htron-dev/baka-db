@@ -1,5 +1,7 @@
 # Shururun Yukiko Hime-chan feat. Dororon Enma-kun
 
+![shururun-yukiko-hime-chan-feat-dororon-enma-kun](https://cdn.myanimelist.net/images/manga/1/38292.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: シュルルン雪子姫ちゃん feat.ドロロンえん魔くん

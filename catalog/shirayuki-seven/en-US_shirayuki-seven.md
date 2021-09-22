@@ -1,5 +1,7 @@
 # Shirayuki Seven
 
+![shirayuki-seven](https://cdn.myanimelist.net/images/manga/1/39344.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 29

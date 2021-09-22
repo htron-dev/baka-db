@@ -1,5 +1,7 @@
 # Sabi no Yume
 
+![sabi-no-yume](https://cdn.myanimelist.net/images/manga/3/220451.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

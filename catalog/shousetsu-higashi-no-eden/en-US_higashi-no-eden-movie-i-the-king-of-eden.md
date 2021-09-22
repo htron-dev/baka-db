@@ -1,5 +1,7 @@
 # Higashi no Eden Movie I: The King of Eden
 
+![higashi-no-eden-movie-i-the-king-of-eden](https://cdn.myanimelist.net/images/anime/12/19101.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 東のエデン 劇場版 I The King of Eden

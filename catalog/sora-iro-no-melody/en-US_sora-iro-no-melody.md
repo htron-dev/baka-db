@@ -1,5 +1,7 @@
 # Sora Iro no Melody
 
+![sora-iro-no-melody](https://cdn.myanimelist.net/images/manga/3/29937.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 空色のメロディ

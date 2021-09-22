@@ -1,5 +1,7 @@
 # Saihate no Paladin
 
+![saihate-no-paladin](https://cdn.myanimelist.net/images/anime/1961/114468.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 最果てのパラディン
 -   **start-date**: 2021-10-20

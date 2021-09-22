@@ -1,5 +1,7 @@
 # Silent Möbius: The Motion Picture
 
+![silent-mobius-the-motion-picture](https://cdn.myanimelist.net/images/anime/4/32059.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: サイレントメビウス／THE MOTION PICTURE

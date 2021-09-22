@@ -1,5 +1,7 @@
 # Sailor-fuku no Naisho
 
+![sailor-fuku-no-naisho](https://cdn.myanimelist.net/images/manga/1/96181.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Seton Doubutsuki: Risu no Banner
 
+![seton-doubutsuki-risu-no-banner](https://cdn.myanimelist.net/images/anime/11/78448.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: シートン動物記　りすのバナ

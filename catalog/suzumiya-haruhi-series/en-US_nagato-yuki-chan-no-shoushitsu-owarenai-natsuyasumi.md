@@ -1,5 +1,7 @@
 # Nagato Yuki-chan no Shoushitsu: Owarenai Natsuyasumi
 
+![nagato-yuki-chan-no-shoushitsu-owarenai-natsuyasumi](https://cdn.myanimelist.net/images/anime/6/76840.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 長門有希ちゃんの消失 第 17 話「終われない夏休み」

@@ -1,5 +1,7 @@
 # Second Kiss
 
+![second-kiss](https://cdn.myanimelist.net/images/manga/4/17071.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

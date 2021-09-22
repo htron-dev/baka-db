@@ -1,5 +1,7 @@
 # Shiratama-kun
 
+![shiratama-kun](https://cdn.myanimelist.net/images/manga/2/202412.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 143

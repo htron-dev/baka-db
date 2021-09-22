@@ -1,5 +1,7 @@
 # Sayonara no Parade
 
+![sayonara-no-parade](https://cdn.myanimelist.net/images/manga/2/214755.jpg)
+
 -   **type**: manga
 -   **original-name**: さよならのパレード
 -   **start-date**: 2018-06-26

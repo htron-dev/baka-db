@@ -1,5 +1,7 @@
 # Shinigamihime no Saikon: Baraen no Tokei Koushaku
 
+![shinigamihime-no-saikon-baraen-no-tokei-koushaku](https://cdn.myanimelist.net/images/manga/1/85119.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

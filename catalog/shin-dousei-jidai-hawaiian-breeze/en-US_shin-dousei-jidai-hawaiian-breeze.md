@@ -1,5 +1,7 @@
 # Shin Dousei Jidai: Hawaiian Breeze
 
+![shin-dousei-jidai-hawaiian-breeze](https://cdn.myanimelist.net/images/anime/1788/108640.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 新・同棲時代 HAWAIIAN BREEZE

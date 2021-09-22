@@ -1,5 +1,7 @@
 # Sylph Anthology: Bungaku Kareshi
 
+![sylph-anthology-bungaku-kareshi](https://cdn.myanimelist.net/images/manga/2/86055.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

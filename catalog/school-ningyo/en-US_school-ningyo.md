@@ -1,5 +1,7 @@
 # School Ningyo
 
+![school-ningyo](https://cdn.myanimelist.net/images/manga/1/111857.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 32

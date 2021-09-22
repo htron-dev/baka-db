@@ -1,5 +1,7 @@
 # Sensei no Kanojo
 
+![sensei-no-kanojo](https://cdn.myanimelist.net/images/manga/3/65693.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

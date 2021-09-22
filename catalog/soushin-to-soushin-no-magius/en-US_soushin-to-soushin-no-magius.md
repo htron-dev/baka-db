@@ -1,5 +1,7 @@
 # Soushin to Soushin no Magius
 
+![soushin-to-soushin-no-magius](https://cdn.myanimelist.net/images/manga/1/172846.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 創神と喪神のマギウス
 -   **start-date**: 2016-02-20

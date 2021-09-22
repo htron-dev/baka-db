@@ -1,5 +1,7 @@
 # Shingeki! Kyojin Chuugakkou
 
+![shingeki-kyojin-chuugakkou](https://cdn.myanimelist.net/images/anime/3/75467.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 進撃！巨人中学校

@@ -1,5 +1,7 @@
 # Senjou no Valkyria Special
 
+![senjou-no-valkyria-special](https://cdn.myanimelist.net/images/anime/1385/92975.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 戦場のヴァルキュリア Valkyria Chronicles

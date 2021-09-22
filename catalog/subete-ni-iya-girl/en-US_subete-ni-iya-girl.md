@@ -1,5 +1,7 @@
 # Subete ni Iya Girl
 
+![subete-ni-iya-girl](https://cdn.myanimelist.net/images/manga/3/183871.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 86

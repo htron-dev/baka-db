@@ -1,5 +1,7 @@
 # Soushite Boku wa Koi wo Shiru
 
+![soushite-boku-wa-koi-wo-shiru](https://cdn.myanimelist.net/images/manga/3/224103.jpg)
+
 -   **type**: manga
 -   **original-name**: そうして僕は恋を知る
 -   **start-date**: 2018-08-30

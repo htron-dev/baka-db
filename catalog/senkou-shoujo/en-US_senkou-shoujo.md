@@ -1,5 +1,7 @@
 # Senkou Shoujo
 
+![senkou-shoujo](https://cdn.myanimelist.net/images/manga/3/184706.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

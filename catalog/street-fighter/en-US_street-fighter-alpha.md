@@ -1,5 +1,7 @@
 # Street Fighter Alpha
 
+![street-fighter-alpha](https://cdn.myanimelist.net/images/manga/3/9383.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

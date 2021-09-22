@@ -1,5 +1,7 @@
 # Shirokuma Café: Today's Special
 
+![shirokuma-cafe-todays-special](https://cdn.myanimelist.net/images/manga/1/168244.jpg)
+
 -   **type**: manga
 -   **original-name**: しろくまカフェ today's special
 -   **start-date**: 2014-07-28

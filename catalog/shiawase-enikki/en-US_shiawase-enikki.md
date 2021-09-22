@@ -1,5 +1,7 @@
 # Shiawase Enikki
 
+![shiawase-enikki](https://cdn.myanimelist.net/images/manga/2/39367.jpg)
+
 -   **type**: manga
 -   **chapters**: 5
 -   **original-name**: しあわせ絵日記

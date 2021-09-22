@@ -1,5 +1,7 @@
 # Suikoden
 
+![suikoden](https://cdn.myanimelist.net/images/manga/3/65971.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 40

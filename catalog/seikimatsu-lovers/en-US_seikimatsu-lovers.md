@@ -1,5 +1,7 @@
 # Seikimatsu Lovers
 
+![seikimatsu-lovers](https://cdn.myanimelist.net/images/manga/1/165622.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

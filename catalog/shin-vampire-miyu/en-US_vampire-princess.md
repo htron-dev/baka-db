@@ -1,5 +1,7 @@
 # Vampire Princess
 
+![vampire-princess](https://cdn.myanimelist.net/images/manga/2/206690.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 22

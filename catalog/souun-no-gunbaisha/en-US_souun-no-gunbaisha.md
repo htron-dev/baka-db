@@ -1,5 +1,7 @@
 # Souun no Gunbaisha
 
+![souun-no-gunbaisha](https://cdn.myanimelist.net/images/manga/1/187955.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

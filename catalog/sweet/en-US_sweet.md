@@ -1,5 +1,7 @@
 # Sweet
 
+![sweet](https://cdn.myanimelist.net/images/manga/3/64285.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

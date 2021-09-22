@@ -1,5 +1,7 @@
 # Ore no Class ni Haruhi wa Inai
 
+![ore-no-class-ni-haruhi-wa-inai](https://cdn.myanimelist.net/images/manga/3/106203.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 俺の教室にハルヒはいない
 -   **start-date**: 2013-08-31

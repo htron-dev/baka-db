@@ -1,5 +1,7 @@
 # Sunflower
 
+![sunflower](https://cdn.myanimelist.net/images/manga/3/32923.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 2
 -   **start-date**: 2010-01-20

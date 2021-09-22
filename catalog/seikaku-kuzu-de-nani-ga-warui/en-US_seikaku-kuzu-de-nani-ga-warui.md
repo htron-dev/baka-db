@@ -1,5 +1,7 @@
 # Seikaku Kuzu de Nani ga Warui
 
+![seikaku-kuzu-de-nani-ga-warui](https://cdn.myanimelist.net/images/manga/2/206383.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

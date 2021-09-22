@@ -1,5 +1,7 @@
 # Sen to Chihiro no Kamikakushi
 
+![sen-to-chihiro-no-kamikakushi](https://cdn.myanimelist.net/images/anime/6/79597.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 千と千尋の神隠し

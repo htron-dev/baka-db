@@ -1,5 +1,7 @@
 # Shaman
 
+![shaman](https://cdn.myanimelist.net/images/manga/1/194266.jpg)
+
 -   **type**: manga
 -   **original-name**: 謝男
 -   **start-date**: 2011-12-16

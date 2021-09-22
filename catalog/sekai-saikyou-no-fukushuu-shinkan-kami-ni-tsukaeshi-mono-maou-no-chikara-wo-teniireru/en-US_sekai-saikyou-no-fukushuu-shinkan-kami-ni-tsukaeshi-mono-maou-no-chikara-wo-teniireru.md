@@ -1,5 +1,7 @@
 # Sekai Saikyou no Fukushuu Shinkan: Kami ni Tsukaeshi Mono, Maou no Chikara wo Teniireru
 
+![sekai-saikyou-no-fukushuu-shinkan-kami-ni-tsukaeshi-mono-maou-no-chikara-wo-teniireru](https://cdn.myanimelist.net/images/manga/2/243533.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 世界最強の復讐神官　〜神に仕えし者、魔王の力を手に入れる〜
 -   **start-date**: 2019-10-19

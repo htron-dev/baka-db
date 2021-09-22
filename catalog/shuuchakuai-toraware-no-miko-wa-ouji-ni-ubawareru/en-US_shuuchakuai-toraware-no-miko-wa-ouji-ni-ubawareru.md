@@ -1,5 +1,7 @@
 # Shuuchakuai: Toraware no Miko wa Ouji ni Ubawareru
 
+![shuuchakuai-toraware-no-miko-wa-ouji-ni-ubawareru](https://cdn.myanimelist.net/images/manga/1/191917.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

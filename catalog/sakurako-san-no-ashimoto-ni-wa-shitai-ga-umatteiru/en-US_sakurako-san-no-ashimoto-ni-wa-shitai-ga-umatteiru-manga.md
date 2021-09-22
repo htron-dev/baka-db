@@ -1,5 +1,7 @@
 # Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru
 
+![sakurako-san-no-ashimoto-ni-wa-shitai-ga-umatteiru](https://cdn.myanimelist.net/images/manga/2/167608.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

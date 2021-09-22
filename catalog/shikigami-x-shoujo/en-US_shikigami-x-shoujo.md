@@ -1,5 +1,7 @@
 # Shikigami x Shoujo
 
+![shikigami-x-shoujo](https://cdn.myanimelist.net/images/manga/2/37605.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 式神 × 少女

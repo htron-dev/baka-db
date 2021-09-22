@@ -1,5 +1,7 @@
 # Shininsei Mental Mermaid
 
+![shininsei-mental-mermaid](https://cdn.myanimelist.net/images/manga/3/205429.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 27

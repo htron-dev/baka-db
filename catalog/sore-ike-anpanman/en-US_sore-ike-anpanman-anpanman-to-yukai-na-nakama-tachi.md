@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Anpanman to Yukai na Nakama-tachi
 
+![sore-ike-anpanman-anpanman-to-yukai-na-nakama-tachi](https://cdn.myanimelist.net/images/anime/6/57677.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ!アンパンマン アンパンマンとゆかいな仲間たち

@@ -1,5 +1,7 @@
 # Shitsuji wa Oose no Mama ni
 
+![shitsuji-wa-oose-no-mama-ni](https://cdn.myanimelist.net/images/manga/3/20408.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

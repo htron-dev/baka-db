@@ -1,5 +1,7 @@
 # Seitokai Tantei Kirika
 
+![seitokai-tantei-kirika](https://cdn.myanimelist.net/images/manga/3/158193.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 43

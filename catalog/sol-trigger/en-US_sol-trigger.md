@@ -1,5 +1,7 @@
 # Sol Trigger
 
+![sol-trigger](https://cdn.myanimelist.net/images/manga/3/80578.jpg)
+
 -   **type**: manga
 -   **original-name**: ソールトリガー
 -   **start-date**: 2012-09-30

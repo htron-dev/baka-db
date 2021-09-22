@@ -1,5 +1,7 @@
 # Sengoku Gyouha Dullahan: Kagen no Keishousha
 
+![sengoku-gyouha-dullahan-kagen-no-keishousha](https://cdn.myanimelist.net/images/manga/2/87773.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 戦国驍刃デュラハン 〜下弦の継承者〜

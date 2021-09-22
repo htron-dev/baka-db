@@ -1,5 +1,7 @@
 # Strange Voice
 
+![strange-voice](https://cdn.myanimelist.net/images/manga/1/159507.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

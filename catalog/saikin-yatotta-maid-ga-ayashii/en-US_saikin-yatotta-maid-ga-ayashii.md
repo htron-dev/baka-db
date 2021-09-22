@@ -1,5 +1,7 @@
 # Saikin Yatotta Maid ga Ayashii
 
+![saikin-yatotta-maid-ga-ayashii](https://cdn.myanimelist.net/images/manga/2/229427.jpg)
+
 -   **type**: manga
 -   **original-name**: 最近雇ったメイドが怪しい
 -   **start-date**: 2020-01-22

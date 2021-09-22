@@ -1,5 +1,7 @@
 # GTO
 
+![gto](https://cdn.myanimelist.net/images/manga/2/172982.jpg)
+
 -   **type**: manga
 -   **volumes**: 25
 -   **chapters**: 208

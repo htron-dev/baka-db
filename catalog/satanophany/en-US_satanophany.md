@@ -1,5 +1,7 @@
 # Satanophany
 
+![satanophany](https://cdn.myanimelist.net/images/manga/2/196977.jpg)
+
 -   **type**: manga
 -   **original-name**: サタノファニ
 -   **start-date**: 2017-03-13

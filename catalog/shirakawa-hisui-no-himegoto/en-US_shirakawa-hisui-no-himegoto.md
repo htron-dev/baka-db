@@ -1,5 +1,7 @@
 # Shirakawa Hisui no Himegoto
 
+![shirakawa-hisui-no-himegoto](https://cdn.myanimelist.net/images/manga/3/164080.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 白河氷翠のひめごと

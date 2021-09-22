@@ -1,5 +1,7 @@
 # Shikiru no? Kasukabe-san
 
+![shikiru-no-kasukabe-san](https://cdn.myanimelist.net/images/manga/1/164826.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 54

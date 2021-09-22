@@ -1,5 +1,7 @@
 # Sore wo Koigokoro to Yobu no nara
 
+![sore-wo-koigokoro-to-yobu-no-nara](https://cdn.myanimelist.net/images/manga/2/165485.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Shikkoku no Regret
 
+![shikkoku-no-regret](https://cdn.myanimelist.net/images/manga/1/160981.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 漆黒のリグレット

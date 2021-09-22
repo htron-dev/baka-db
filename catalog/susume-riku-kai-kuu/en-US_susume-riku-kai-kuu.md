@@ -1,5 +1,7 @@
 # Susume! Riku, Kai, Kuu!!
 
+![susume-riku-kai-kuu](https://cdn.myanimelist.net/images/manga/2/26147.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

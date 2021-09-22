@@ -1,5 +1,7 @@
 # Satsujin Yokoku wa Ano Koro
 
+![satsujin-yokoku-wa-ano-koro](https://cdn.myanimelist.net/images/manga/3/208716.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 38

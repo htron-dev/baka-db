@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Tenohira wo Taiyou ni
 
+![sore-ike-anpanman-tenohira-wo-taiyou-ni](https://cdn.myanimelist.net/images/anime/9/56241.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ! アンパンマン てのひらを太陽に

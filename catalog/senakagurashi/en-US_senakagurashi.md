@@ -1,5 +1,7 @@
 # Senakagurashi
 
+![senakagurashi](https://cdn.myanimelist.net/images/manga/2/120803.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Sparkle x Sparkle
 
+![sparkle-x-sparkle](https://cdn.myanimelist.net/images/manga/1/26262.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 14

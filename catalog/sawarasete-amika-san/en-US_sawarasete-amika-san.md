@@ -1,5 +1,7 @@
 # Sawarasete! Amika-san
 
+![sawarasete-amika-san](https://cdn.myanimelist.net/images/manga/3/239858.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: さわらせてっ！あみかさん

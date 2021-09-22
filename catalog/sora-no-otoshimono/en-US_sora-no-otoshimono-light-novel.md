@@ -1,5 +1,7 @@
 # Sora no Otoshimono
 
+![sora-no-otoshimono](https://cdn.myanimelist.net/images/manga/3/171518.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 16

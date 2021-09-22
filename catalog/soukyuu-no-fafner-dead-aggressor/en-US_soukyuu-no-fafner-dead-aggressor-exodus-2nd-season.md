@@ -1,5 +1,7 @@
 # Soukyuu no Fafner: Dead Aggressor - Exodus 2nd Season
 
+![soukyuu-no-fafner-dead-aggressor-exodus-2nd-season](https://cdn.myanimelist.net/images/anime/7/76538.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 蒼穹のファフナー Dead Aggressor EXODUS

@@ -1,5 +1,7 @@
 # So Ra No Wo To Specials
 
+![so-ra-no-wo-to-specials](https://cdn.myanimelist.net/images/anime/13/20884.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ソ・ラ・ノ・ヲ・ト

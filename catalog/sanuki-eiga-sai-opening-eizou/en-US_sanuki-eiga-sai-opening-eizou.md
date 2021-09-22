@@ -1,5 +1,7 @@
 # Sanuki Eiga-sai Opening Eizou
 
+![sanuki-eiga-sai-opening-eizou](https://cdn.myanimelist.net/images/anime/1532/92751.jpg)
+
 -   **type**: movie
 -   **episodes**: 2
 -   **original-name**: さぬき映画祭オープニング映像

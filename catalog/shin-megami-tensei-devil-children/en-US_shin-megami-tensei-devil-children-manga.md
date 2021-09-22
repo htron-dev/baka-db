@@ -1,5 +1,7 @@
 # Shin Megami Tensei Devil Children
 
+![shin-megami-tensei-devil-children](https://cdn.myanimelist.net/images/manga/3/6887.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 26

@@ -1,5 +1,7 @@
 # Sekiyu-chan (Yome)
 
+![sekiyu-chan-yome](https://cdn.myanimelist.net/images/manga/2/196368.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

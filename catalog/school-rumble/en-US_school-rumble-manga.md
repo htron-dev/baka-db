@@ -1,5 +1,7 @@
 # School Rumble
 
+![school-rumble](https://cdn.myanimelist.net/images/manga/3/5267.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 345

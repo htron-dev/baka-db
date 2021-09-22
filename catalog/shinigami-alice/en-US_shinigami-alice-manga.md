@@ -1,5 +1,7 @@
 # Shinigami Alice
 
+![shinigami-alice](https://cdn.myanimelist.net/images/manga/4/38581.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

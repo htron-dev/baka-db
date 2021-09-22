@@ -1,5 +1,7 @@
 # Switch Girl!!
 
+![switch-girl](https://cdn.myanimelist.net/images/manga/1/128769.jpg)
+
 -   **type**: manga
 -   **volumes**: 25
 -   **chapters**: 170

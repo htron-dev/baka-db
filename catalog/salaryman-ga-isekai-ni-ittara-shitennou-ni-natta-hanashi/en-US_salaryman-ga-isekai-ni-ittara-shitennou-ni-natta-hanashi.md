@@ -1,5 +1,7 @@
 # Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi
 
+![salaryman-ga-isekai-ni-ittara-shitennou-ni-natta-hanashi](https://cdn.myanimelist.net/images/manga/2/232129.jpg)
+
 -   **type**: manga
 -   **original-name**: サラリーマンが異世界に行ったら四天王になった話
 -   **start-date**: 2019-12-27

@@ -1,5 +1,7 @@
 # Slayers Light Magic
 
+![slayers-light-magic](https://cdn.myanimelist.net/images/manga/5/19856.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

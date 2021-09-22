@@ -1,5 +1,7 @@
 # Shoujo Kakumei Utena
 
+![shoujo-kakumei-utena](https://cdn.myanimelist.net/images/manga/2/175811.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

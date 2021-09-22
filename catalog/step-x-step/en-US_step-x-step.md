@@ -1,5 +1,7 @@
 # Step x Step!!
 
+![step-x-step](https://cdn.myanimelist.net/images/manga/2/35984.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

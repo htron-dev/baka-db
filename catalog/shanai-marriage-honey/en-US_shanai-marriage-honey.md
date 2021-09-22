@@ -1,5 +1,7 @@
 # Shanai Marriage Honey
 
+![shanai-marriage-honey](https://cdn.myanimelist.net/images/manga/1/246005.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 49

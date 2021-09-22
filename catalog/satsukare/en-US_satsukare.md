@@ -1,5 +1,7 @@
 # Satsukare
 
+![satsukare](https://cdn.myanimelist.net/images/manga/3/230431.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 63

@@ -1,5 +1,7 @@
 # Shingeki no Kyojin: The Final Season
 
+![shingeki-no-kyojin-the-final-season](https://cdn.myanimelist.net/images/anime/1000/110531.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 16
 -   **original-name**: 進撃の巨人 The Final Season

@@ -1,5 +1,7 @@
 # Shiawase na Koi no Hanashi
 
+![shiawase-na-koi-no-hanashi](https://cdn.myanimelist.net/images/manga/3/181730.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

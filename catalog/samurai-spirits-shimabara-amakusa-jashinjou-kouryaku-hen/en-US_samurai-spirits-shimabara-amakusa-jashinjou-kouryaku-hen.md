@@ -1,5 +1,7 @@
 # Samurai Spirits: Shimabara Amakusa Jashinjou Kouryaku-hen
 
+![samurai-spirits-shimabara-amakusa-jashinjou-kouryaku-hen](https://cdn.myanimelist.net/images/manga/3/230078.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

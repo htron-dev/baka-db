@@ -1,5 +1,7 @@
 # Stitch to Suna no Wakusei
 
+![stitch-to-suna-no-wakusei](https://cdn.myanimelist.net/images/anime/7/65585.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: スティッチと砂の惑星

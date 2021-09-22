@@ -1,5 +1,7 @@
 # Shinigami-sama to 4-nin no Kanojo
 
+![shinigami-sama-to-4-nin-no-kanojo](https://cdn.myanimelist.net/images/manga/3/107525.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

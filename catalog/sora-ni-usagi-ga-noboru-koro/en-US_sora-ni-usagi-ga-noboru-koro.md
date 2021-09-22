@@ -1,5 +1,7 @@
 # Sora ni Usagi ga Noboru Koro
 
+![sora-ni-usagi-ga-noboru-koro](https://cdn.myanimelist.net/images/manga/1/163034.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 19

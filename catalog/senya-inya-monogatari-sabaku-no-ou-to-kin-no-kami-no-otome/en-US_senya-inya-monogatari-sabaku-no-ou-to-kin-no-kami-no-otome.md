@@ -1,5 +1,7 @@
 # Senya Inya Monogatari: Sabaku no Ou to Kin no Kami no Otome
 
+![senya-inya-monogatari-sabaku-no-ou-to-kin-no-kami-no-otome](https://cdn.myanimelist.net/images/manga/1/189076.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

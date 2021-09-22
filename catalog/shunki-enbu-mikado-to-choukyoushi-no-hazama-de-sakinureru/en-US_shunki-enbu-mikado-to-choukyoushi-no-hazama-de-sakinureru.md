@@ -1,5 +1,7 @@
 # Shunki Enbu: Mikado to Choukyoushi no Hazama de Sakinureru
 
+![shunki-enbu-mikado-to-choukyoushi-no-hazama-de-sakinureru](https://cdn.myanimelist.net/images/manga/1/194983.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

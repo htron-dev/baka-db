@@ -1,5 +1,7 @@
 # Sayonara Piano Sonata
 
+![sayonara-piano-sonata](https://cdn.myanimelist.net/images/manga/1/147071.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 55

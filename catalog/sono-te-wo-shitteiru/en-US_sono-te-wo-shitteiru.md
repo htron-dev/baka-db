@@ -1,5 +1,7 @@
 # Sono Te wo Shitteiru
 
+![sono-te-wo-shitteiru](https://cdn.myanimelist.net/images/manga/2/63881.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: その手を知っている

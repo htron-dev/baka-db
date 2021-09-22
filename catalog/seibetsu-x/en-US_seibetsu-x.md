@@ -1,5 +1,7 @@
 # Seibetsu X
 
+![seibetsu-x](https://cdn.myanimelist.net/images/manga/1/240788.jpg)
+
 -   **type**: manga
 -   **original-name**: 性別 X
 -   **start-date**: 2020-06-05

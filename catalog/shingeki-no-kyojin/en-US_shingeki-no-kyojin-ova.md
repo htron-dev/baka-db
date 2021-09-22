@@ -1,5 +1,7 @@
 # Shingeki no Kyojin OVA
 
+![shingeki-no-kyojin-ova](https://cdn.myanimelist.net/images/anime/9/59221.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 進撃の巨人ＯＡＤ

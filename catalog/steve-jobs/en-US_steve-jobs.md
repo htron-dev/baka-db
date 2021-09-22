@@ -1,5 +1,7 @@
 # Steve Jobs
 
+![steve-jobs](https://cdn.myanimelist.net/images/manga/1/197237.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 25

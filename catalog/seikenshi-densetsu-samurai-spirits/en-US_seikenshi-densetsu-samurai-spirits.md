@@ -1,5 +1,7 @@
 # Seikenshi Densetsu: Samurai Spirits
 
+![seikenshi-densetsu-samurai-spirits](https://cdn.myanimelist.net/images/manga/3/38861.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 聖剣士伝説サムライスピリッツ

@@ -1,5 +1,7 @@
 # Secret Wedding: Dokusaisha wa Hanayome wo Shiiku suru
 
+![secret-wedding-dokusaisha-wa-hanayome-wo-shiiku-suru](https://cdn.myanimelist.net/images/manga/3/182731.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

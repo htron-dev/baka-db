@@ -1,5 +1,7 @@
 # San-biki no Koguma-san
 
+![san-biki-no-koguma-san](https://cdn.myanimelist.net/images/anime/13/71031.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 三匹の小熊さん

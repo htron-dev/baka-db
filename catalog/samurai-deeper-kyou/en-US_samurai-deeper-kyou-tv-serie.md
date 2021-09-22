@@ -1,5 +1,7 @@
 # Samurai Deeper Kyou
 
+![samurai-deeper-kyou](https://cdn.myanimelist.net/images/anime/4/23744.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: SAMURAI DEEPER KYO

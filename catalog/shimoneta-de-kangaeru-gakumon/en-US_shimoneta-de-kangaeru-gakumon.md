@@ -1,5 +1,7 @@
 # Shimoneta de Kangaeru Gakumon
 
+![shimoneta-de-kangaeru-gakumon](https://cdn.myanimelist.net/images/manga/1/78641.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 下ネタで考える学問

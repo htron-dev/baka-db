@@ -1,5 +1,7 @@
 # Splatoon
 
+![splatoon](https://cdn.myanimelist.net/images/manga/2/181437.jpg)
+
 -   **type**: manga
 -   **original-name**: Splatoon
 -   **start-date**: 2015-05-15

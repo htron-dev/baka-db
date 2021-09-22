@@ -1,5 +1,7 @@
 # Sicilia de Aishite
 
+![sicilia-de-aishite](https://cdn.myanimelist.net/images/manga/2/39593.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: シチリアで愛して

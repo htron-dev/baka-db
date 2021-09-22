@@ -1,5 +1,7 @@
 # Shokugyou Mushoku no Ore ga Boukensha wo Mezasu Wake.
 
+![shokugyou-mushoku-no-ore-ga-boukensha-wo-mezasu-wake](https://cdn.myanimelist.net/images/manga/3/172276.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 職業無職の俺が冒険者を目指すワケ。
 -   **start-date**: 2016-02-10

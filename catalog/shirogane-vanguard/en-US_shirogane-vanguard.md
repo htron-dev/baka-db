@@ -1,5 +1,7 @@
 # Shirogane Vanguard
 
+![shirogane-vanguard](https://cdn.myanimelist.net/images/manga/1/171184.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: 白銀ヴァンガード

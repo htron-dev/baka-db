@@ -1,5 +1,7 @@
 # Saikyou Koibana: Sweet &amp; Erotic Best 5
 
+![saikyou-koibana-sweet-amp-erotic-best-5](https://cdn.myanimelist.net/images/manga/3/5780.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

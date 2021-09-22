@@ -1,5 +1,7 @@
 # Honey Taste Devil
 
+![honey-taste-devil](https://cdn.myanimelist.net/images/manga/2/16802.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

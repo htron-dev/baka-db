@@ -1,5 +1,7 @@
 # Setsuzoku Muyou
 
+![setsuzoku-muyou](https://cdn.myanimelist.net/images/anime/8/69699.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 接続無用

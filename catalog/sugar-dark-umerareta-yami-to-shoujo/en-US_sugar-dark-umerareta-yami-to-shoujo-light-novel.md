@@ -1,5 +1,7 @@
 # Sugar Dark: Umerareta Yami to Shoujo
 
+![sugar-dark-umerareta-yami-to-shoujo](https://cdn.myanimelist.net/images/manga/2/162798.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

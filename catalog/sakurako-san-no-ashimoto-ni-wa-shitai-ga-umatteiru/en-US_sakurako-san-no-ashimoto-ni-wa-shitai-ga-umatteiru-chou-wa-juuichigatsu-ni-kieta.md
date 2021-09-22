@@ -1,5 +1,7 @@
 # Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru: Chou wa Juuichigatsu ni Kieta
 
+![sakurako-san-no-ashimoto-ni-wa-shitai-ga-umatteiru-chou-wa-juuichigatsu-ni-kieta](https://cdn.myanimelist.net/images/manga/1/201055.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Shirotsuku: Himena no Yuruyuru Manyuuki
 
+![shirotsuku-himena-no-yuruyuru-manyuuki](https://cdn.myanimelist.net/images/manga/3/130867.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: しろつく 姫奈のゆるゆる漫遊記

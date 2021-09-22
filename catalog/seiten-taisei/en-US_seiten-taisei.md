@@ -1,5 +1,7 @@
 # Seiten Taisei
 
+![seiten-taisei](https://cdn.myanimelist.net/images/manga/3/175297.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 28

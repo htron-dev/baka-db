@@ -1,5 +1,7 @@
 # Shura no Hitsugi
 
+![shura-no-hitsugi](https://cdn.myanimelist.net/images/manga/1/155768.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 38

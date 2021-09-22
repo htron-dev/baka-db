@@ -1,5 +1,7 @@
 # Senjou no Valkyria 3: Tagatame no Juusou
 
+![senjou-no-valkyria-3-tagatame-no-juusou](https://cdn.myanimelist.net/images/anime/5/27146.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 戦場のヴァルキュリア 3 誰がための銃瘡

@@ -1,5 +1,7 @@
 # Seishounen Ashibe
 
+![seishounen-ashibe](https://cdn.myanimelist.net/images/manga/3/208950.jpg)
+
 -   **type**: manga
 -   **original-name**: 青少年アシベ
 -   **start-date**: 2017-07-25

@@ -1,5 +1,7 @@
 # Shiba to Issho.
 
+![shiba-to-issho](https://cdn.myanimelist.net/images/manga/1/9550.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

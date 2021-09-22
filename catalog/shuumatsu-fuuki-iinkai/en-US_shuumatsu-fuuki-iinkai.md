@@ -1,5 +1,7 @@
 # Shuumatsu Fuuki Iinkai
 
+![shuumatsu-fuuki-iinkai](https://cdn.myanimelist.net/images/manga/2/162162.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

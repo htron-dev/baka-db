@@ -1,5 +1,7 @@
 # Sensei no Himitsu: Hisoyaka ni Nureru Mayonaka no Kenkyuushitsu
 
+![sensei-no-himitsu-hisoyaka-ni-nureru-mayonaka-no-kenkyuushitsu](https://cdn.myanimelist.net/images/manga/2/195735.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

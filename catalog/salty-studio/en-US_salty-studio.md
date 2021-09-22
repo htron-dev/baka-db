@@ -1,5 +1,7 @@
 # Salty Studio
 
+![salty-studio](https://cdn.myanimelist.net/images/manga/1/171278.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 66

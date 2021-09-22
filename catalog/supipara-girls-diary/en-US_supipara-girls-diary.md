@@ -1,5 +1,7 @@
 # Supipara: Girl's Diary
 
+![supipara-girls-diary](https://cdn.myanimelist.net/images/manga/2/202142.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

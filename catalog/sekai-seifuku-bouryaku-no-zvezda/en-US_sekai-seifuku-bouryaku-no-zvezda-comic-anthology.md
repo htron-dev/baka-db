@@ -1,5 +1,7 @@
 # Sekai Seifuku: Bouryaku no Zvezda - Comic Anthology
 
+![sekai-seifuku-bouryaku-no-zvezda-comic-anthology](https://cdn.myanimelist.net/images/manga/2/120399.jpg)
+
 -   **type**: manga
 -   **original-name**: 世界征服~謀略のズヴィズダー~ コミックアンソロジー
 -   **start-date**: 2014-03-25

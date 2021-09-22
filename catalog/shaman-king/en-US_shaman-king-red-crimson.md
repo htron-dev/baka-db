@@ -1,5 +1,7 @@
 # Shaman King: Red Crimson
 
+![shaman-king-red-crimson](https://cdn.myanimelist.net/images/manga/3/223675.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

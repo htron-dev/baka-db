@@ -1,5 +1,7 @@
 # Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita
 
+![shin-no-nakama-ja-nai-to-yuusha-no-party-wo-oidasareta-node-henkyou-de-slow-life-suru-koto-ni-shimashita](https://cdn.myanimelist.net/images/manga/2/223659.jpg)
+
 -   **type**: manga
 -   **original-name**: 真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました
 -   **start-date**: 2018-05-26

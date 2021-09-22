@@ -1,5 +1,7 @@
 # Satsujin Sales
 
+![satsujin-sales](https://cdn.myanimelist.net/images/manga/1/49073.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

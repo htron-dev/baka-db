@@ -1,5 +1,7 @@
 # Succubus ni Tensei shita node Milk wo Shiborimasu
 
+![succubus-ni-tensei-shita-node-milk-wo-shiborimasu](https://cdn.myanimelist.net/images/manga/2/210108.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

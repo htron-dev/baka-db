@@ -1,5 +1,7 @@
 # Shingeki no Kyojin: Lost Girls
 
+![shingeki-no-kyojin-lost-girls](https://cdn.myanimelist.net/images/manga/1/177247.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

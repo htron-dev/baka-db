@@ -1,5 +1,7 @@
 # Saint Marie
 
+![saint-marie](https://cdn.myanimelist.net/images/manga/1/7385.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **original-name**: 세인트 마리

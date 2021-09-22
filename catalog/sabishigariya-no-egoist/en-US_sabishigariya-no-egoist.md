@@ -1,5 +1,7 @@
 # Sabishigariya no Egoist
 
+![sabishigariya-no-egoist](https://cdn.myanimelist.net/images/manga/1/19451.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

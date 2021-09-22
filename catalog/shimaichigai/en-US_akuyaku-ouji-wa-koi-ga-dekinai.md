@@ -1,5 +1,7 @@
 # Akuyaku Ouji wa Koi ga Dekinai
 
+![akuyaku-ouji-wa-koi-ga-dekinai](https://cdn.myanimelist.net/images/manga/2/210028.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

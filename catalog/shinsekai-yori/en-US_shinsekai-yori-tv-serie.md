@@ -1,5 +1,7 @@
 # Shinsekai yori
 
+![shinsekai-yori](https://cdn.myanimelist.net/images/anime/12/36775.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 新世界より

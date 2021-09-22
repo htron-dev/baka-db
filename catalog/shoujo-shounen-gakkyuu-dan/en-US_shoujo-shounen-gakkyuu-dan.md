@@ -1,5 +1,7 @@
 # Shoujo Shounen Gakkyuu-dan
 
+![shoujo-shounen-gakkyuu-dan](https://cdn.myanimelist.net/images/manga/1/208096.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: 少女少年学級団

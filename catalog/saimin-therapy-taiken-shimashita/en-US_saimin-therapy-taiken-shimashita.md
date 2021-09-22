@@ -1,5 +1,7 @@
 # Saimin Therapy Taiken shimashita!
 
+![saimin-therapy-taiken-shimashita](https://cdn.myanimelist.net/images/manga/2/152376.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 催眠セラピー体験しました!

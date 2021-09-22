@@ -1,5 +1,7 @@
 # Shinohara Chie The Best Selection
 
+![shinohara-chie-the-best-selection](https://cdn.myanimelist.net/images/manga/3/22448.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

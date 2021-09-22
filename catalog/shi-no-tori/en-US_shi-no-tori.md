@@ -1,5 +1,7 @@
 # Shi no Tori
 
+![shi-no-tori](https://cdn.myanimelist.net/images/manga/3/232018.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

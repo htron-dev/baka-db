@@ -1,5 +1,7 @@
 # Shiroi Kiba White Fang Monogatari
 
+![shiroi-kiba-white-fang-monogatari](https://cdn.myanimelist.net/images/anime/11/81828.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 白い牙ホワイトファング物語

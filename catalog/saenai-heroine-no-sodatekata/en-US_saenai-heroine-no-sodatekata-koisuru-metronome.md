@@ -1,5 +1,7 @@
 # Saenai Heroine no Sodatekata: Koisuru Metronome
 
+![saenai-heroine-no-sodatekata-koisuru-metronome](https://cdn.myanimelist.net/images/manga/2/150334.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 51

@@ -1,5 +1,7 @@
 # Saru Kani Gassen: Ijimekkozaru to Shoujiki Kani-san
 
+![saru-kani-gassen-ijimekkozaru-to-shoujiki-kani-san](https://cdn.myanimelist.net/images/anime/13/61745.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: さるカニ合戦 いじめっこザルと正直カニさん

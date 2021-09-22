@@ -1,5 +1,7 @@
 # Suspicious Scandal
 
+![suspicious-scandal](https://cdn.myanimelist.net/images/manga/2/116307.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 수상한스캔들

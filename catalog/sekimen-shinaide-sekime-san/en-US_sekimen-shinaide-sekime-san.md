@@ -1,5 +1,7 @@
 # Sekimen Shinaide Sekime-san
 
+![sekimen-shinaide-sekime-san](https://cdn.myanimelist.net/images/manga/3/244109.jpg)
+
 -   **type**: manga
 -   **original-name**: 赤面しないで関目さん
 -   **start-date**: 2020-06-21

@@ -1,5 +1,7 @@
 # Seikai no Senki
 
+![seikai-no-senki](https://cdn.myanimelist.net/images/manga/3/125255.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 星界の戦旗
 -   **start-date**: 1996-12-19

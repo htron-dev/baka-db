@@ -1,5 +1,7 @@
 # Shuumatsu Boukensha
 
+![shuumatsu-boukensha](https://cdn.myanimelist.net/images/manga/3/200356.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 週末冒険者
 -   **start-date**: 2017-08-10

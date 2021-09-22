@@ -1,5 +1,7 @@
 # Mario Kirby Meisaku Video
 
+![mario-kirby-meisaku-video](https://cdn.myanimelist.net/images/anime/1138/108472.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: マリオ・カービィ 名作ビデオ

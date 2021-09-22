@@ -1,5 +1,7 @@
 # Saseum, I'm a Deer
 
+![saseum-im-a-deer](https://cdn.myanimelist.net/images/manga/1/7740.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **original-name**: 나는 사슴이다

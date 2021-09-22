@@ -1,5 +1,7 @@
 # Sanpou Shoujo
 
+![sanpou-shoujo](https://cdn.myanimelist.net/images/anime/1390/92902.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 算法少女

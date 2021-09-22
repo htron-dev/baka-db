@@ -1,5 +1,7 @@
 # Snow Mist
 
+![snow-mist](https://cdn.myanimelist.net/images/manga/3/162483.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 25

@@ -1,5 +1,7 @@
 # Sonotoki wa Kare ni Yoroshiku
 
+![sonotoki-wa-kare-ni-yoroshiku](https://cdn.myanimelist.net/images/manga/3/29056.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **start-date**: 2007-01-20

@@ -1,5 +1,7 @@
 # Strange Pension
 
+![strange-pension](https://cdn.myanimelist.net/images/manga/2/28723.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 

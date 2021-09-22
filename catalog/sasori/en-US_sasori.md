@@ -1,5 +1,7 @@
 # Sasori
 
+![sasori](https://cdn.myanimelist.net/images/manga/5/150275.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 95

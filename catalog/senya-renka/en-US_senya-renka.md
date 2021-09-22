@@ -1,5 +1,7 @@
 # Senya Renka
 
+![senya-renka](https://cdn.myanimelist.net/images/manga/2/31484.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: 千夜恋歌

@@ -1,5 +1,7 @@
 # Shakkin Ojou Chris
 
+![shakkin-ojou-chris](https://cdn.myanimelist.net/images/manga/3/168621.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # Shin Samurai Guard
 
+![shin-samurai-guard](https://cdn.myanimelist.net/images/manga/1/124033.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 真サムライガード

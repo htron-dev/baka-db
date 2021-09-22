@@ -1,5 +1,7 @@
 # Skincream de Nurashite
 
+![skincream-de-nurashite](https://cdn.myanimelist.net/images/manga/1/30178.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

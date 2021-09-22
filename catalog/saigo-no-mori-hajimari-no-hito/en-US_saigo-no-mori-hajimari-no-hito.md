@@ -1,5 +1,7 @@
 # Saigo no Mori: Hajimari no Hito
 
+![saigo-no-mori-hajimari-no-hito](https://cdn.myanimelist.net/images/anime/1702/93249.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 最後の森 はじまりの人

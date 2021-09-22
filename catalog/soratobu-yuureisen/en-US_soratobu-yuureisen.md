@@ -1,5 +1,7 @@
 # Soratobu Yuureisen
 
+![soratobu-yuureisen](https://cdn.myanimelist.net/images/anime/10/15656.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 空飛ぶゆうれい船

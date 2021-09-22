@@ -1,5 +1,7 @@
 # Seitokai Yakuin toshite Mondaiji wo Kousei saseteitara Nazeka Love Comedy ni Natteita Ken
 
+![seitokai-yakuin-toshite-mondaiji-wo-kousei-saseteitara-nazeka-love-comedy-ni-natteita-ken](https://cdn.myanimelist.net/images/manga/3/236198.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

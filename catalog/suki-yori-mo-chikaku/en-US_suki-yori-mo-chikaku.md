@@ -1,5 +1,7 @@
 # Suki yori mo Chikaku
 
+![suki-yori-mo-chikaku](https://cdn.myanimelist.net/images/manga/2/116707.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

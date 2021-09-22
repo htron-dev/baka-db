@@ -1,5 +1,7 @@
 # Saita Cosmos Cosmos Saita
 
+![saita-cosmos-cosmos-saita](https://cdn.myanimelist.net/images/manga/2/187069.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 27

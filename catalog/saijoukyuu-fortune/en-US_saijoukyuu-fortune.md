@@ -1,5 +1,7 @@
 # Saijoukyuu Fortune
 
+![saijoukyuu-fortune](https://cdn.myanimelist.net/images/manga/2/12336.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

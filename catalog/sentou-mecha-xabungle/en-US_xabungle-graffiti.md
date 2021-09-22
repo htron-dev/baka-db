@@ -1,5 +1,7 @@
 # Xabungle Graffiti
 
+![xabungle-graffiti](https://cdn.myanimelist.net/images/anime/1555/90528.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ザブングルグラフィティ

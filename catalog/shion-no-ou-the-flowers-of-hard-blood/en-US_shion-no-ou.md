@@ -1,5 +1,7 @@
 # Shion no Ou
 
+![shion-no-ou](https://cdn.myanimelist.net/images/anime/5/74050.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: しおんの王 - The Flowers of Hard Blood

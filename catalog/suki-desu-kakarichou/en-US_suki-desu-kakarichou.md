@@ -1,5 +1,7 @@
 # Suki desu Kakarichou!
 
+![suki-desu-kakarichou](https://cdn.myanimelist.net/images/manga/3/27324.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

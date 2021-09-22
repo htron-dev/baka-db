@@ -1,5 +1,7 @@
 # Knights of the Zodiac: Saint Seiya
 
+![knights-of-the-zodiac-saint-seiya](https://cdn.myanimelist.net/images/anime/1091/101664.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: Knights of the Zodiac 聖闘士星矢（仮）

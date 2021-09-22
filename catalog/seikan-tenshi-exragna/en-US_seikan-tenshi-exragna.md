@@ -1,5 +1,7 @@
 # Seikan Tenshi Exragna
 
+![seikan-tenshi-exragna](https://cdn.myanimelist.net/images/manga/3/170183.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Shinigami Tantei to Yuuutsu Onsen
 
+![shinigami-tantei-to-yuuutsu-onsen](https://cdn.myanimelist.net/images/manga/2/104217.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

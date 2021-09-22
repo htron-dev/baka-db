@@ -1,5 +1,7 @@
 # Shoujo Kairo
 
+![shoujo-kairo](https://cdn.myanimelist.net/images/manga/2/196626.jpg)
+
 -   **type**: manga
 -   **original-name**: 少女回路
 -   **start-date**: 2015-09-25

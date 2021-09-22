@@ -1,5 +1,7 @@
 # Sougeki no Stratorunner: Ochikobore Kishi no Gyakuten Senryaku
 
+![sougeki-no-stratorunner-ochikobore-kishi-no-gyakuten-senryaku](https://cdn.myanimelist.net/images/manga/2/198108.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 蒼戟の疾走者〈ストラトランナー〉 落ちこぼれ騎士の逆転戦略

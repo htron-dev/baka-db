@@ -1,5 +1,7 @@
 # Sora no Subaru
 
+![sora-no-subaru](https://cdn.myanimelist.net/images/manga/2/185735.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **chapters**: 174

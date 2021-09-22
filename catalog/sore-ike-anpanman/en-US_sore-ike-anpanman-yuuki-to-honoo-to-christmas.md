@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Yuuki to Honoo to Christmas
 
+![sore-ike-anpanman-yuuki-to-honoo-to-christmas](https://cdn.myanimelist.net/images/anime/13/66663.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: それいけ! アンパンマン 勇気とほのおとクリスマス

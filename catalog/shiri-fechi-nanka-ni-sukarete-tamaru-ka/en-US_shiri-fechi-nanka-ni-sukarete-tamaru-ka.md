@@ -1,5 +1,7 @@
 # Shiri Fechi nanka ni Sukarete Tamaru ka
 
+![shiri-fechi-nanka-ni-sukarete-tamaru-ka](https://cdn.myanimelist.net/images/manga/2/192467.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

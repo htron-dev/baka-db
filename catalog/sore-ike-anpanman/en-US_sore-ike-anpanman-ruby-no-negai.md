@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Ruby no Negai
 
+![sore-ike-anpanman-ruby-no-negai](https://cdn.myanimelist.net/images/anime/5/32959.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ! アンパンマン ルビーの願い

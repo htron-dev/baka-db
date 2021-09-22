@@ -1,5 +1,7 @@
 # Sagashimono (ONA)
 
+![sagashimono-ona](https://cdn.myanimelist.net/images/anime/1696/104730.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: さがしもの

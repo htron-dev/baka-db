@@ -1,5 +1,7 @@
 # Stranger
 
+![stranger](https://cdn.myanimelist.net/images/manga/1/58811.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

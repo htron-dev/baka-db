@@ -1,5 +1,7 @@
 # Sore wa Yappari Koi no Sei!?
 
+![sore-wa-yappari-koi-no-sei](https://cdn.myanimelist.net/images/manga/2/20571.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

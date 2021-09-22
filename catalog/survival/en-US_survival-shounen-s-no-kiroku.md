@@ -1,5 +1,7 @@
 # Survival: Shounen S no Kiroku
 
+![survival-shounen-s-no-kiroku](https://cdn.myanimelist.net/images/manga/2/171356.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 96

@@ -1,5 +1,7 @@
 # Souten no Legends
 
+![souten-no-legends](https://cdn.myanimelist.net/images/manga/2/161045.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 蒼天のレジェンズ

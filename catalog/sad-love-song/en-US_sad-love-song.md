@@ -1,5 +1,7 @@
 # Sad Love Song
 
+![sad-love-song](https://cdn.myanimelist.net/images/manga/1/7402.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 22

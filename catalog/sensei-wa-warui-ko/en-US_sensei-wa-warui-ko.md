@@ -1,5 +1,7 @@
 # Sensei wa Warui Ko
 
+![sensei-wa-warui-ko](https://cdn.myanimelist.net/images/manga/2/160022.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 先生は悪いコ

@@ -1,5 +1,7 @@
 # Shigatsu Kissa no Himitsu no Jikenbo
 
+![shigatsu-kissa-no-himitsu-no-jikenbo](https://cdn.myanimelist.net/images/manga/2/245753.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

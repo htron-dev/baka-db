@@ -1,5 +1,7 @@
 # Sekai de Ichiban Kiken na Gochisou
 
+![sekai-de-ichiban-kiken-na-gochisou](https://cdn.myanimelist.net/images/manga/2/174749.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

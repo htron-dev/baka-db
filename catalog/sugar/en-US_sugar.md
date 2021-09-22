@@ -1,5 +1,7 @@
 # Sugar
 
+![sugar](https://cdn.myanimelist.net/images/manga/1/177401.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 65

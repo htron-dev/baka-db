@@ -1,5 +1,7 @@
 # Succubus na Iinchou ni Okotowari Saremashite
 
+![succubus-na-iinchou-ni-okotowari-saremashite](https://cdn.myanimelist.net/images/manga/3/239572.jpg)
+
 -   **type**: manga
 -   **original-name**: サキュバスな委員長にお断りされまして
 -   **start-date**: 2020-06-19

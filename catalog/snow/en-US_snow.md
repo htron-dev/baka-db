@@ -1,5 +1,7 @@
 # Snow
 
+![snow](https://cdn.myanimelist.net/images/manga/3/135493.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: スノウ

@@ -1,5 +1,7 @@
 # Shoujo, Akuma to Naru ni wa
 
+![shoujo-akuma-to-naru-ni-wa](https://cdn.myanimelist.net/images/manga/1/225277.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

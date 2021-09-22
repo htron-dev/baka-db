@@ -1,5 +1,7 @@
 # Kiekaketa Monogataritachi no Tame ni
 
+![kiekaketa-monogataritachi-no-tame-ni](https://cdn.myanimelist.net/images/anime/5/19067.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 消えかけた物語たちの為に

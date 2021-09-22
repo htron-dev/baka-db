@@ -1,5 +1,7 @@
 # Sei♥Dragon Girl
 
+![sei♥-dragon-girl](https://cdn.myanimelist.net/images/manga/1/160614.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 36

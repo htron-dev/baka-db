@@ -1,5 +1,7 @@
 # Setsunaku Yasashiku Koi wo shite
 
+![setsunaku-yasashiku-koi-wo-shite](https://cdn.myanimelist.net/images/manga/1/153390.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: せつなく優しく恋をして

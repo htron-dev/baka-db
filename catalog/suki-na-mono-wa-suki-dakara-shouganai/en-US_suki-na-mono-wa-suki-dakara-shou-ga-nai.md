@@ -1,5 +1,7 @@
 # Suki na Mono wa Suki Dakara Shou ga Nai!!
 
+![suki-na-mono-wa-suki-dakara-shou-ga-nai](https://cdn.myanimelist.net/images/anime/7/85449.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 好きなものは好きだからしょうがない！！

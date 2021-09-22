@@ -1,5 +1,7 @@
 # Shinmai Nurse no Yarisugi Kango
 
+![shinmai-nurse-no-yarisugi-kango](https://cdn.myanimelist.net/images/manga/2/169718.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 新米ナースのヤリすぎ看護

@@ -1,5 +1,7 @@
 # Soko ni Osuwari!
 
+![soko-ni-osuwari](https://cdn.myanimelist.net/images/manga/3/158583.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

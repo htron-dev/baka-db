@@ -1,5 +1,7 @@
 # Soredemo Kimi wa Warau Toitta
 
+![soredemo-kimi-wa-warau-toitta](https://cdn.myanimelist.net/images/manga/1/43677.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

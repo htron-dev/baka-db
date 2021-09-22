@@ -1,5 +1,7 @@
 # Shitamachi Sentou Kazoku
 
+![shitamachi-sentou-kazoku](https://cdn.myanimelist.net/images/manga/2/201288.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 35

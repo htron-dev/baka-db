@@ -1,5 +1,7 @@
 # Shinkai No Venus
 
+![shinkai-no-venus](https://cdn.myanimelist.net/images/manga/1/82104.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Sin: Nanatsu no Taizai Zange-roku Specials
 
+![sin-nanatsu-no-taizai-zange-roku-specials](https://cdn.myanimelist.net/images/anime/12/89582.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: sin 七つの大罪 ショートアニメ「懺悔録」

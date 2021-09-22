@@ -1,5 +1,7 @@
 # Smoking Gun: Minkan Kasouken Chousain Nagareta Enishi
 
+![smoking-gun-minkan-kasouken-chousain-nagareta-enishi](https://cdn.myanimelist.net/images/manga/2/115575.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 67

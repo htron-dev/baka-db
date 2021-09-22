@@ -1,5 +1,7 @@
 # Sorya Nai ze Milky Life♡
 
+![sorya-nai-ze-milky-life♡](https://cdn.myanimelist.net/images/manga/1/136335.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

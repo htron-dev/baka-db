@@ -1,5 +1,7 @@
 # Sky Girls Specials
 
+![sky-girls-specials](https://cdn.myanimelist.net/images/anime/11/5809.jpg)
+
 -   **type**: special
 -   **episodes**: 9
 -   **original-name**: スカイガールズ

@@ -1,5 +1,7 @@
 # Street Fighter II: Ryu
 
+![street-fighter-ii-ryu](https://cdn.myanimelist.net/images/manga/3/126837.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Saiyuukin
 
+![saiyuukin](https://cdn.myanimelist.net/images/manga/2/174580.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 47

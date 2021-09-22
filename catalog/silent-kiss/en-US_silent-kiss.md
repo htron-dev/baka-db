@@ -1,5 +1,7 @@
 # Silent Kiss
 
+![silent-kiss](https://cdn.myanimelist.net/images/manga/1/121055.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

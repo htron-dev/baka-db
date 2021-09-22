@@ -1,5 +1,7 @@
 # Stop!! Hibari-kun!
 
+![stop-hibari-kun](https://cdn.myanimelist.net/images/anime/5/72083.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 35
 -   **original-name**: ストップ！！ひばりくん！

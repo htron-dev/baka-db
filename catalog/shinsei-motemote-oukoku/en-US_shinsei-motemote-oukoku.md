@@ -1,5 +1,7 @@
 # Shinsei Motemote Oukoku
 
+![shinsei-motemote-oukoku](https://cdn.myanimelist.net/images/manga/2/36104.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 157

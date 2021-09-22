@@ -1,5 +1,7 @@
 # Shitayomi Danshi to Toukou Joshi
 
+![shitayomi-danshi-to-toukou-joshi](https://cdn.myanimelist.net/images/manga/2/158448.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

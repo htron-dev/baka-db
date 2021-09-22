@@ -1,5 +1,7 @@
 # Sabaku no Ou to Senichiya
 
+![sabaku-no-ou-to-senichiya](https://cdn.myanimelist.net/images/manga/2/247198.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 砂漠の王と千一夜

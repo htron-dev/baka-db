@@ -1,5 +1,7 @@
 # Slayers: Knight of the Aqualord
 
+![slayers-knight-of-the-aqualord](https://cdn.myanimelist.net/images/manga/1/21316.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 31

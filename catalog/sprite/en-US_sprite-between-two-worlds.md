@@ -1,5 +1,7 @@
 # Sprite: Between Two Worlds
 
+![sprite-between-two-worlds](https://cdn.myanimelist.net/images/anime/1099/96357.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 真奈美＆ナミ スプライト

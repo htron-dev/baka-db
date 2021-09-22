@@ -1,5 +1,7 @@
 # Seto no Hanayome Picture Drama
 
+![seto-no-hanayome-picture-drama](https://cdn.myanimelist.net/images/anime/5/68529.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 否苦炒亜怒羅魔 極道の妻 KEJIME

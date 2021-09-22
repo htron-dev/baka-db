@@ -1,5 +1,7 @@
 # Cross Days
 
+![cross-days](https://cdn.myanimelist.net/images/manga/1/100765.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

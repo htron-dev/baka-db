@@ -1,5 +1,7 @@
 # Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Intermedio
 
+![steins-gate-0-kesshou-takei-no-valentine-bittersweet-intermedio](https://cdn.myanimelist.net/images/anime/1163/97351.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 結晶多形のヴァレンティヌス Bittersweet Intermedio

@@ -1,5 +1,7 @@
 # Shisho to Hasami to Mijikai Enpitsu
 
+![shisho-to-hasami-to-mijikai-enpitsu](https://cdn.myanimelist.net/images/manga/2/164578.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 45

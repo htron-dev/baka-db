@@ -1,5 +1,7 @@
 # Shinreigari
 
+![shinreigari](https://cdn.myanimelist.net/images/anime/3/22691.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: 神霊狩 GHOST HOUND

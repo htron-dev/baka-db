@@ -1,5 +1,7 @@
 # Shiroi Majo: Utsukushiki Sniper
 
+![shiroi-majo-utsukushiki-sniper](https://cdn.myanimelist.net/images/manga/2/160166.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

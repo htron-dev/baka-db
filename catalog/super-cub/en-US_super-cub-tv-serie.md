@@ -1,5 +1,7 @@
 # Super Cub
 
+![super-cub](https://cdn.myanimelist.net/images/anime/1776/111172.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: スーパーカブ

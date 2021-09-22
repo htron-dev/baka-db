@@ -1,5 +1,7 @@
 # Saitei Megami
 
+![saitei-megami](https://cdn.myanimelist.net/images/manga/3/145385.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

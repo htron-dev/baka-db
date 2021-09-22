@@ -1,5 +1,7 @@
 # Sekai Oni
 
+![sekai-oni](https://cdn.myanimelist.net/images/manga/3/157476.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 110

@@ -1,5 +1,7 @@
 # Sky Blue
 
+![sky-blue](https://cdn.myanimelist.net/images/manga/2/209463.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 22

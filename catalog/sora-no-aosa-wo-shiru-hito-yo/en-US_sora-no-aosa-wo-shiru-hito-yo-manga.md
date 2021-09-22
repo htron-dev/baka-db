@@ -1,5 +1,7 @@
 # Sora no Aosa wo Shiru Hito yo
 
+![sora-no-aosa-wo-shiru-hito-yo](https://cdn.myanimelist.net/images/manga/1/240559.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 15

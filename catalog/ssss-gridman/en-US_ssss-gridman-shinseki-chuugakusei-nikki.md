@@ -1,5 +1,7 @@
 # SSSS.Gridman: Shinseki Chuugakusei Nikki
 
+![ssss-gridman-shinseki-chuugakusei-nikki](https://cdn.myanimelist.net/images/manga/3/224871.jpg)
+
 -   **type**: manga
 -   **original-name**: SSSS.GRIDMAN 新世紀中学生日記
 -   **start-date**: 2019-10-26

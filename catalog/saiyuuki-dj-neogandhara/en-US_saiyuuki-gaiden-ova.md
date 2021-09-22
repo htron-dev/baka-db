@@ -1,5 +1,7 @@
 # Saiyuuki Gaiden
 
+![saiyuuki-gaiden](https://cdn.myanimelist.net/images/anime/5/75818.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 最遊記外伝

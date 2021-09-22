@@ -1,5 +1,7 @@
 # Shinsetsu! Sakamocchan
 
+![shinsetsu-sakamocchan](https://cdn.myanimelist.net/images/manga/1/216241.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 新説!さかもっちゃん

@@ -1,5 +1,7 @@
 # Star na Koi
 
+![star-na-koi](https://cdn.myanimelist.net/images/manga/2/161770.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

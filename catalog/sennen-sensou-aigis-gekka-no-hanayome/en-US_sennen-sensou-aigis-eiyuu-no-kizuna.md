@@ -1,5 +1,7 @@
 # Sennen Sensou Aigis: Eiyuu no Kizuna
 
+![sennen-sensou-aigis-eiyuu-no-kizuna](https://cdn.myanimelist.net/images/manga/2/185391.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 27

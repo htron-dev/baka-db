@@ -1,5 +1,7 @@
 # Senpai
 
+![senpai](https://cdn.myanimelist.net/images/manga/3/70631.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

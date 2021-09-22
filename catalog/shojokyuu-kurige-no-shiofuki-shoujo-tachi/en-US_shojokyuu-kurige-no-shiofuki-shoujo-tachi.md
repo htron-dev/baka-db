@@ -1,5 +1,7 @@
 # Shojokyuu: Kurige no Shiofuki Shoujo-tachi
 
+![shojokyuu-kurige-no-shiofuki-shoujo-tachi](https://cdn.myanimelist.net/images/manga/1/133783.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 処女宮～栗毛の潮吹少女たち～

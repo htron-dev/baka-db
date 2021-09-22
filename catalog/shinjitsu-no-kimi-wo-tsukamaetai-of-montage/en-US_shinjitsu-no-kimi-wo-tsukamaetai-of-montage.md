@@ -1,5 +1,7 @@
 # Shinjitsu no Kimi wo Tsukamaetai: Of Montage
 
+![shinjitsu-no-kimi-wo-tsukamaetai-of-montage](https://cdn.myanimelist.net/images/manga/1/155571.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 真実のキミを捕まえたい～ of montage ～

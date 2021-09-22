@@ -1,5 +1,7 @@
 # Shakugan no Shana S
 
+![shakugan-no-shana-s](https://cdn.myanimelist.net/images/manga/1/133563.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 32

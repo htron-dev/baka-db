@@ -1,5 +1,7 @@
 # Suteinu Shoujo ni Chikai no Kiss
 
+![suteinu-shoujo-ni-chikai-no-kiss](https://cdn.myanimelist.net/images/manga/2/168629.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

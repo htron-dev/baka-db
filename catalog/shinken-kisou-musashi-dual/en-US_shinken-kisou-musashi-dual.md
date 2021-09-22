@@ -1,5 +1,7 @@
 # Shinken Kisou Musashi Dual
 
+![shinken-kisou-musashi-dual](https://cdn.myanimelist.net/images/manga/2/133367.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

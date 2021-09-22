@@ -1,5 +1,7 @@
 # Suppli
 
+![suppli](https://cdn.myanimelist.net/images/manga/1/204425.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 57

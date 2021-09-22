@@ -1,5 +1,7 @@
 # Hirune Hime: Shiranai Watashi no Monogatari
 
+![hirune-hime-shiranai-watashi-no-monogatari](https://cdn.myanimelist.net/images/manga/3/194478.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

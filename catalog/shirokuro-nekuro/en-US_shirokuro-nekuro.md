@@ -1,5 +1,7 @@
 # Shirokuro Nekuro
 
+![shirokuro-nekuro](https://cdn.myanimelist.net/images/manga/1/164307.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: シロクロネクロ

@@ -1,5 +1,7 @@
 # Suki na Hito wa.jpg
 
+![suki-na-hito-wa-jpg](https://cdn.myanimelist.net/images/manga/3/226046.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Sora no Method: Mou Hitotsu no Negai
 
+![sora-no-method-mou-hitotsu-no-negai](https://cdn.myanimelist.net/images/anime/1472/97902.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 天体のメソッド もうひとつの願い

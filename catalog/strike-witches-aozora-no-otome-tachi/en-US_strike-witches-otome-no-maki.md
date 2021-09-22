@@ -1,5 +1,7 @@
 # Strike Witches: Otome no Maki
 
+![strike-witches-otome-no-maki](https://cdn.myanimelist.net/images/manga/2/163946.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 31

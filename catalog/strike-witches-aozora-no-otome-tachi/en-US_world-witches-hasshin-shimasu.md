@@ -1,5 +1,7 @@
 # World Witches Hasshin Shimasu!
 
+![world-witches-hasshin-shimasu](https://cdn.myanimelist.net/images/anime/1132/110412.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ワールドウィッチーズ発進しますっ！

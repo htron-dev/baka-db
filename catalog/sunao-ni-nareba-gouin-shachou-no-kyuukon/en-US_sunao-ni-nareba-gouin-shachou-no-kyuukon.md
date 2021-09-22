@@ -1,5 +1,7 @@
 # Sunao ni Nareba: Gouin Shachou no Kyuukon
 
+![sunao-ni-nareba-gouin-shachou-no-kyuukon](https://cdn.myanimelist.net/images/manga/2/194838.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 素直になれば～強引社長の求婚～

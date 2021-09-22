@@ -1,5 +1,7 @@
 # Shinakya Ikemasen ka.
 
+![shinakya-ikemasen-ka](https://cdn.myanimelist.net/images/manga/2/243948.jpg)
+
 -   **type**: manga
 -   **original-name**: しなきゃいけませんか。
 -   **start-date**: 2020-10-11

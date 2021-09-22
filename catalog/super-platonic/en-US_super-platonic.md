@@ -1,5 +1,7 @@
 # Super Platonic
 
+![super-platonic](https://cdn.myanimelist.net/images/manga/3/248146.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

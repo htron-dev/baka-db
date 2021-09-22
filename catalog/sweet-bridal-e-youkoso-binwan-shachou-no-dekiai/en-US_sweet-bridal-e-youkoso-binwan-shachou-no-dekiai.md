@@ -1,5 +1,7 @@
 # Sweet Bridal e Youkoso: Binwan Shachou no Dekiai
 
+![sweet-bridal-e-youkoso-binwan-shachou-no-dekiai](https://cdn.myanimelist.net/images/manga/2/192878.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

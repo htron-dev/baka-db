@@ -1,5 +1,7 @@
 # Sora no Otoshimono: Project Pink
 
+![sora-no-otoshimono-project-pink](https://cdn.myanimelist.net/images/anime/2/19135.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: そらのおとしもの プロジェクト桃源郷[ピンク]

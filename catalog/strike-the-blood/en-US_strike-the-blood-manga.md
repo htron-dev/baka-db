@@ -1,5 +1,7 @@
 # Strike the Blood
 
+![strike-the-blood](https://cdn.myanimelist.net/images/manga/1/163503.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 54

@@ -1,5 +1,7 @@
 # Sakura Taboo
 
+![sakura-taboo](https://cdn.myanimelist.net/images/manga/3/147447.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

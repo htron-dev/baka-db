@@ -1,5 +1,7 @@
 # Shounen Shoujo Hyouryuuki
 
+![shounen-shoujo-hyouryuuki](https://cdn.myanimelist.net/images/manga/5/23431.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

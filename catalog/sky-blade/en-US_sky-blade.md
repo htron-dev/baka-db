@@ -1,5 +1,7 @@
 # Sky Blade
 
+![sky-blade](https://cdn.myanimelist.net/images/manga/1/38103.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 13
 -   **original-name**: 파천일검

@@ -1,5 +1,7 @@
 # Sword Art Online
 
+![sword-art-online](https://cdn.myanimelist.net/images/manga/1/34697.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ソードアート・オンライン
 -   **start-date**: 2009-04-10

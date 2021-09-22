@@ -1,5 +1,7 @@
 # Shibuya Kingyo
 
+![shibuya-kingyo](https://cdn.myanimelist.net/images/manga/1/193624.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 55

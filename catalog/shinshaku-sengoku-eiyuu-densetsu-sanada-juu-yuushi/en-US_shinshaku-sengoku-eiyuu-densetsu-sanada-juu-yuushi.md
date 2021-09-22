@@ -1,5 +1,7 @@
 # Shinshaku Sengoku Eiyuu Densetsu: Sanada Juu Yuushi
 
+![shinshaku-sengoku-eiyuu-densetsu-sanada-juu-yuushi](https://cdn.myanimelist.net/images/anime/3/9393.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 新釈 戦国英雄伝説 眞田十勇士

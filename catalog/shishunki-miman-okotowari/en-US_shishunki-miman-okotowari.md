@@ -1,5 +1,7 @@
 # Shishunki Miman Okotowari
 
+![shishunki-miman-okotowari](https://cdn.myanimelist.net/images/manga/3/199142.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

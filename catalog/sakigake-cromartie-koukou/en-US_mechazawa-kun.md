@@ -1,5 +1,7 @@
 # Mechazawa-kun
 
+![mechazawa-kun](https://cdn.myanimelist.net/images/manga/2/21126.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: メカ沢くん

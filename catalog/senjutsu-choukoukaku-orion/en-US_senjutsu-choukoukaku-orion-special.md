@@ -1,5 +1,7 @@
 # Senjutsu Choukoukaku Orion
 
+![senjutsu-choukoukaku-orion](https://cdn.myanimelist.net/images/anime/9/24812.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 仙術超攻殻オリオン

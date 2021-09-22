@@ -1,5 +1,7 @@
 # Boss Renoma: "Shuujin Riku" Gaiden
 
+![boss-renoma-shuujin-riku-gaiden](https://cdn.myanimelist.net/images/manga/3/226468.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

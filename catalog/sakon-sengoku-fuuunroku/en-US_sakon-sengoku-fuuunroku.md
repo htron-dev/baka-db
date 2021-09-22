@@ -1,5 +1,7 @@
 # Sakon: Sengoku Fuuunroku
 
+![sakon-sengoku-fuuunroku](https://cdn.myanimelist.net/images/manga/2/189905.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 33

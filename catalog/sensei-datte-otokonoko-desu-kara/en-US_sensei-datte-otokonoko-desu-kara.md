@@ -1,5 +1,7 @@
 # Sensei datte Otokonoko desu kara!
 
+![sensei-datte-otokonoko-desu-kara](https://cdn.myanimelist.net/images/manga/2/172586.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

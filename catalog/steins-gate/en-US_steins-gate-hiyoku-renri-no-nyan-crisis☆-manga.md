@@ -1,5 +1,7 @@
 # Steins;Gate: Hiyoku Renri no +Nyan² Crisis☆
 
+![steins-gate-hiyoku-renri-no-nyan-crisis☆](https://cdn.myanimelist.net/images/manga/1/245475.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

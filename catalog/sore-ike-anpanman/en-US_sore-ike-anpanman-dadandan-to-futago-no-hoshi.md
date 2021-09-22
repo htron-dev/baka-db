@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Dadandan to Futago no Hoshi
 
+![sore-ike-anpanman-dadandan-to-futago-no-hoshi](https://cdn.myanimelist.net/images/anime/8/45969.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ！アンパンマン だだんだんとふたごの星

@@ -1,5 +1,7 @@
 # Kangetsu Ittou: Akuryou Kiri
 
+![kangetsu-ittou-akuryou-kiri](https://cdn.myanimelist.net/images/anime/6/66757.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 寒月一凍 悪霊斬り

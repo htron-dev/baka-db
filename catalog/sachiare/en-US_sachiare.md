@@ -1,5 +1,7 @@
 # Sachiare!
 
+![sachiare](https://cdn.myanimelist.net/images/manga/2/116807.jpg)
+
 -   **type**: manga
 -   **original-name**: さちあれ！
 -   **start-date**: 2013-02-26

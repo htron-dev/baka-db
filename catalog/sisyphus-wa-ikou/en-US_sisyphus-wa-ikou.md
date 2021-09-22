@@ -1,5 +1,7 @@
 # Sisyphus wa Ikou
 
+![sisyphus-wa-ikou](https://cdn.myanimelist.net/images/manga/3/172485.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

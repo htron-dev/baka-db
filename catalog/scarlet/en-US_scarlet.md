@@ -1,5 +1,7 @@
 # Scarlet
 
+![scarlet](https://cdn.myanimelist.net/images/manga/2/219498.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

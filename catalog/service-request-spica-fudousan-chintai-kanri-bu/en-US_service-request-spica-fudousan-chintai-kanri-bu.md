@@ -1,5 +1,7 @@
 # Service Request!: Spica Fudousan Chintai Kanri-bu
 
+![service-request-spica-fudousan-chintai-kanri-bu](https://cdn.myanimelist.net/images/manga/3/189011.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

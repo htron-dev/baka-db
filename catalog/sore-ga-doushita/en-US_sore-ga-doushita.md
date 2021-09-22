@@ -1,5 +1,7 @@
 # Sore ga Doushita!
 
+![sore-ga-doushita](https://cdn.myanimelist.net/images/manga/3/196361.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 15

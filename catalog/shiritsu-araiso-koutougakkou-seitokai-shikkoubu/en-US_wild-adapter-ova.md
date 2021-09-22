@@ -1,5 +1,7 @@
 # Wild Adapter
 
+![wild-adapter](https://cdn.myanimelist.net/images/anime/4/38463.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ワイルドアダプター

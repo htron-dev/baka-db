@@ -1,5 +1,7 @@
 # Senpai! Ore no Koe de Iyasarenaide Kudasai!
 
+![senpai-ore-no-koe-de-iyasarenaide-kudasai](https://cdn.myanimelist.net/images/manga/2/238635.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

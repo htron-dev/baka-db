@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Franken-Robo-kun's Surprised Christmas
 
+![sore-ike-anpanman-franken-robo-kuns-surprised-christmas](https://cdn.myanimelist.net/images/anime/4/45572.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: それいけ!アンパンマン フランケンロボくんのビックリクリスマス

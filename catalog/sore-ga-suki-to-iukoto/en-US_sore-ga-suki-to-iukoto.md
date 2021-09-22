@@ -1,5 +1,7 @@
 # Sore ga Suki to Iukoto
 
+![sore-ga-suki-to-iukoto](https://cdn.myanimelist.net/images/manga/1/153348.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: それが好きということ

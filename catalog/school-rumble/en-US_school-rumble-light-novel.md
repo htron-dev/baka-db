@@ -1,5 +1,7 @@
 # School Rumble
 
+![school-rumble](https://cdn.myanimelist.net/images/manga/2/139119.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: スクールランブル

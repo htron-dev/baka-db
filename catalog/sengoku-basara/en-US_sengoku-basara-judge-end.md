@@ -1,5 +1,7 @@
 # Sengoku Basara: Judge End
 
+![sengoku-basara-judge-end](https://cdn.myanimelist.net/images/anime/12/62511.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 戦国 BASARA Judge End

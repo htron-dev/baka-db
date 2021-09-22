@@ -1,5 +1,7 @@
 # Sarusuberi
 
+![sarusuberi](https://cdn.myanimelist.net/images/manga/1/122807.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 百日紅

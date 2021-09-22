@@ -1,5 +1,7 @@
 # Seito no Shucho Kyoushi no Honbun
 
+![seito-no-shucho-kyoushi-no-honbun](https://cdn.myanimelist.net/images/manga/2/5913.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

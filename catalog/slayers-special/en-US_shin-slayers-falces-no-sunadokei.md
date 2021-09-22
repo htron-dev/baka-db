@@ -1,5 +1,7 @@
 # Shin Slayers: Falces no Sunadokei
 
+![shin-slayers-falces-no-sunadokei](https://cdn.myanimelist.net/images/manga/2/20586.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

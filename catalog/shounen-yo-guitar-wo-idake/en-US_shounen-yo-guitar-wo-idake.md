@@ -1,5 +1,7 @@
 # Shounen yo Guitar wo Idake
 
+![shounen-yo-guitar-wo-idake](https://cdn.myanimelist.net/images/manga/1/169938.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

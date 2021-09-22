@@ -1,5 +1,7 @@
 # Shikatsushi: Joou no Houigaku
 
+![shikatsushi-joou-no-houigaku](https://cdn.myanimelist.net/images/manga/3/211384.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 83

@@ -1,5 +1,7 @@
 # Sentai Hero Sukiyaki Force: Gunma no Heiwa wo Negau Season
 
+![sentai-hero-sukiyaki-force-gunma-no-heiwa-wo-negau-season](https://cdn.myanimelist.net/images/anime/10/83035.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 戦隊ヒーロー スキヤキフォース -ぐんまの平和を願うシーズン-

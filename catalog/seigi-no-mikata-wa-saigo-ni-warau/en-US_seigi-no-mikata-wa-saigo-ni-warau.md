@@ -1,5 +1,7 @@
 # Seigi no Mikata wa Saigo ni Warau
 
+![seigi-no-mikata-wa-saigo-ni-warau](https://cdn.myanimelist.net/images/manga/3/5966.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 正義の味方は最後に微笑う

@@ -1,5 +1,7 @@
 # Sodom no Hana ni Kiraboshi
 
+![sodom-no-hana-ni-kiraboshi](https://cdn.myanimelist.net/images/manga/2/231132.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

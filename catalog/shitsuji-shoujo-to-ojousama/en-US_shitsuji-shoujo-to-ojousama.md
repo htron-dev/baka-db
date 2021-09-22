@@ -1,5 +1,7 @@
 # Shitsuji Shoujo to Ojousama
 
+![shitsuji-shoujo-to-ojousama](https://cdn.myanimelist.net/images/manga/2/33134.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

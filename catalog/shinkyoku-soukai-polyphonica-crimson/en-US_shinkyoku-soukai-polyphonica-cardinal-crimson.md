@@ -1,5 +1,7 @@
 # Shinkyoku Soukai Polyphonica: Cardinal Crimson
 
+![shinkyoku-soukai-polyphonica-cardinal-crimson](https://cdn.myanimelist.net/images/manga/2/31957.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: 神曲奏界ポリフォニカ カーディナル・クリムゾン

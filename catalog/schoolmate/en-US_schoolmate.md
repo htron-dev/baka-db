@@ -1,5 +1,7 @@
 # Schoolmate
 
+![schoolmate](https://cdn.myanimelist.net/images/manga/3/190137.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 37

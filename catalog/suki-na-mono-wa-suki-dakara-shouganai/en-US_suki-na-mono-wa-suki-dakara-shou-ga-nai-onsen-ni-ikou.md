@@ -1,5 +1,7 @@
 # Suki na Mono wa Suki Dakara Shou ga Nai!!: Onsen ni Ikou!
 
+![suki-na-mono-wa-suki-dakara-shou-ga-nai-onsen-ni-ikou](https://cdn.myanimelist.net/images/anime/8/78436.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 好きなものは好きだからしょうがない!! 温泉に行こう!

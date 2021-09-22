@@ -1,5 +1,7 @@
 # Skyhigh: Hévәn
 
+![skyhigh-hevәn](https://cdn.myanimelist.net/images/manga/1/221885.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: スカイハイ ヘヴン

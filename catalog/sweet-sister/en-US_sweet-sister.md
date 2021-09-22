@@ -1,5 +1,7 @@
 # Sweet Sister
 
+![sweet-sister](https://cdn.myanimelist.net/images/manga/1/95579.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

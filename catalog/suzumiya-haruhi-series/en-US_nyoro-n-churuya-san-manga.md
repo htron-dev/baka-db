@@ -1,5 +1,7 @@
 # Nyoro-n Churuya-san
 
+![nyoro-n-churuya-san](https://cdn.myanimelist.net/images/manga/1/82652.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: にょろーん ちゅるやさん

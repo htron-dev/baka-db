@@ -1,5 +1,7 @@
 # Sono Otoko Wagamama nitsuki
 
+![sono-otoko-wagamama-nitsuki](https://cdn.myanimelist.net/images/manga/3/4263.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: その男、ワガママにつき

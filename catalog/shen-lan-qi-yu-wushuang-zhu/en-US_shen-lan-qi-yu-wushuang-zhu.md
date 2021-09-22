@@ -1,5 +1,7 @@
 # Shen Lan Qi Yu Wushuang Zhu
 
+![shen-lan-qi-yu-wushuang-zhu](https://cdn.myanimelist.net/images/anime/1717/114930.jpg)
+
 -   **type**: ona
 -   **original-name**: 神澜奇域无双珠
 -   **rating**: PG-13 - Teens 13 or older

@@ -1,5 +1,7 @@
 # Shokunin Danshi Kanda-kun
 
+![shokunin-danshi-kanda-kun](https://cdn.myanimelist.net/images/manga/3/227928.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

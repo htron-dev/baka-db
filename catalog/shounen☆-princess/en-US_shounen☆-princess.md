@@ -1,5 +1,7 @@
 # Shounen☆Princess
 
+![shounen☆-princess](https://cdn.myanimelist.net/images/manga/2/139323.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

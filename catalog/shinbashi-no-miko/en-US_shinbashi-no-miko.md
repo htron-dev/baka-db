@@ -1,5 +1,7 @@
 # Shinbashi no Miko
 
+![shinbashi-no-miko](https://cdn.myanimelist.net/images/manga/1/168523.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

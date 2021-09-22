@@ -1,5 +1,7 @@
 # Shinkansen Henkei Robo Shinkalion The Animation Recap
 
+![shinkansen-henkei-robo-shinkalion-the-animation-recap](https://cdn.myanimelist.net/images/anime/1175/93343.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 【新幹線変形ロボ シンカリオン】総集編『団らん!!速杉家とシンカリオン』

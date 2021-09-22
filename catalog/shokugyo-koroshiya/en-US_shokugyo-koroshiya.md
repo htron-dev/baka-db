@@ -1,5 +1,7 @@
 # Shokugyo Koroshiya.
 
+![shokugyo-koroshiya](https://cdn.myanimelist.net/images/manga/2/178226.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 118

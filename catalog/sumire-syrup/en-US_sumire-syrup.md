@@ -1,5 +1,7 @@
 # Sumire Syrup
 
+![sumire-syrup](https://cdn.myanimelist.net/images/manga/2/63683.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

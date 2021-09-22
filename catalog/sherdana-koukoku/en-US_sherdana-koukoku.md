@@ -1,5 +1,7 @@
 # Sherdana Koukoku
 
+![sherdana-koukoku](https://cdn.myanimelist.net/images/manga/3/227679.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: シェルダーナ公国

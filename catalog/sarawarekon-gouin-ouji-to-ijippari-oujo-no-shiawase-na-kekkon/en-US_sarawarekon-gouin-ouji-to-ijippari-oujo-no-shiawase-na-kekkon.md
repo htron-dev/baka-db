@@ -1,5 +1,7 @@
 # Sarawarekon: Gouin Ouji to Ijippari Oujo no Shiawase na Kekkon
 
+![sarawarekon-gouin-ouji-to-ijippari-oujo-no-shiawase-na-kekkon](https://cdn.myanimelist.net/images/manga/2/183427.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Sword Art Online: Alicization
 
+![sword-art-online-alicization](https://cdn.myanimelist.net/images/anime/1993/93837.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ソードアート・オンライン アリシゼーション

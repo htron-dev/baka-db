@@ -1,5 +1,7 @@
 # Suzumiya Haruhi no Yuuutsu
 
+![suzumiya-haruhi-no-yuuutsu](https://cdn.myanimelist.net/images/manga/2/186141.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

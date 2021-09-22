@@ -1,5 +1,7 @@
 # Shiro no Fiorentina
 
+![shiro-no-fiorentina](https://cdn.myanimelist.net/images/manga/2/208261.jpg)
+
 -   **type**: manga
 -   **volumes**: 23
 -   **chapters**: 76

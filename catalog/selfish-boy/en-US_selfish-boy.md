@@ -1,5 +1,7 @@
 # Selfish Boy
 
+![selfish-boy](https://cdn.myanimelist.net/images/manga/2/10880.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: セルフィッシュ・ボーイ

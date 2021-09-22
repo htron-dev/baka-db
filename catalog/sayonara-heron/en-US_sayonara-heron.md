@@ -1,5 +1,7 @@
 # Sayonara, Heron
 
+![sayonara-heron](https://cdn.myanimelist.net/images/manga/3/123897.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

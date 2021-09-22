@@ -1,5 +1,7 @@
 # Sorenari ni Shinken Nan desu.
 
+![sorenari-ni-shinken-nan-desu](https://cdn.myanimelist.net/images/manga/2/192288.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

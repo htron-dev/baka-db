@@ -1,5 +1,7 @@
 # Sen wa, Boku wo Egaku
 
+![sen-wa-boku-wo-egaku](https://cdn.myanimelist.net/images/manga/1/222543.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 32

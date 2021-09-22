@@ -1,5 +1,7 @@
 # Sex
 
+![sex](https://cdn.myanimelist.net/images/manga/3/179523.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 68

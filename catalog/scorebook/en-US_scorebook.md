@@ -1,5 +1,7 @@
 # Scorebook
 
+![scorebook](https://cdn.myanimelist.net/images/manga/2/10974.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: スコアブック 小箱とたん作品集

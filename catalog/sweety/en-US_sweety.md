@@ -1,5 +1,7 @@
 # Sweety
 
+![sweety](https://cdn.myanimelist.net/images/manga/1/4215.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 

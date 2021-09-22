@@ -1,5 +1,7 @@
 # Seizei Ganbare! Mahou Shoujo Kurumi
 
+![seizei-ganbare-mahou-shoujo-kurumi](https://cdn.myanimelist.net/images/anime/1571/90319.jpg)
+
 -   **type**: ona
 -   **episodes**: 25
 -   **original-name**: せいぜいがんばれ！魔法少女くるみ

@@ -1,5 +1,7 @@
 # Saishuu Heiki Kanojo: Another Love Song
 
+![saishuu-heiki-kanojo-another-love-song](https://cdn.myanimelist.net/images/anime/12/54433.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 最終兵器彼女 Another Love Song

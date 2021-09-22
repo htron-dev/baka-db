@@ -1,5 +1,7 @@
 # Saiteihen kara New Game!
 
+![saiteihen-kara-new-game](https://cdn.myanimelist.net/images/manga/2/197352.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 最底辺からニューゲーム！
 -   **start-date**: 2017-07-01

@@ -1,5 +1,7 @@
 # Satsui no Senki
 
+![satsui-no-senki](https://cdn.myanimelist.net/images/manga/2/151341.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

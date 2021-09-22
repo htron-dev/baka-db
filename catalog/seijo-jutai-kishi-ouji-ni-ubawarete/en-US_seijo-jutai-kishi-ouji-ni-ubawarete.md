@@ -1,5 +1,7 @@
 # Seijo Jutai: Kishi Ouji ni Ubawarete
 
+![seijo-jutai-kishi-ouji-ni-ubawarete](https://cdn.myanimelist.net/images/manga/3/174418.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

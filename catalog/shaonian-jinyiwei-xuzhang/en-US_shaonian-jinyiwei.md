@@ -1,5 +1,7 @@
 # Shaonian Jinyiwei
 
+![shaonian-jinyiwei](https://cdn.myanimelist.net/images/anime/1125/90214.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 少年锦衣卫

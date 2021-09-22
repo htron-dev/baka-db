@@ -1,5 +1,7 @@
 # Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen
 
+![shokugeki-no-souma-san-no-sara-tootsuki-ressha-hen](https://cdn.myanimelist.net/images/anime/1604/93531.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 食戟のソーマ 餐ノ皿 遠月列車篇

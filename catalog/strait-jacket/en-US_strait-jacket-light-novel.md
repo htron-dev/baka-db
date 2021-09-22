@@ -1,5 +1,7 @@
 # Strait Jacket
 
+![strait-jacket](https://cdn.myanimelist.net/images/manga/3/96489.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 11
 -   **original-name**: ストレイト・ジャケット

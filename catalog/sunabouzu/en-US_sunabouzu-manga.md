@@ -1,5 +1,7 @@
 # Sunabouzu
 
+![sunabouzu](https://cdn.myanimelist.net/images/manga/3/51325.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 139

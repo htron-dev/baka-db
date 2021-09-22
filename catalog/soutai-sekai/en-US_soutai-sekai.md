@@ -1,5 +1,7 @@
 # Soutai Sekai
 
+![soutai-sekai](https://cdn.myanimelist.net/images/anime/1433/95260.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: ソウタイセカイ

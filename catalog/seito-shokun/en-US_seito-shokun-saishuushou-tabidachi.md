@@ -1,5 +1,7 @@
 # Seito Shokun!: Saishuushou - Tabidachi
 
+![seito-shokun-saishuushou-tabidachi](https://cdn.myanimelist.net/images/manga/1/118511.jpg)
+
 -   **type**: manga
 -   **volumes**: 30
 -   **chapters**: 180

@@ -1,5 +1,7 @@
 # Sabaku no Kaze ni Natte
 
+![sabaku-no-kaze-ni-natte](https://cdn.myanimelist.net/images/manga/2/231639.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 砂漠の風になって

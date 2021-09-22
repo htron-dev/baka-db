@@ -1,5 +1,7 @@
 # Shuudengo, Capsule Hotel de, Joushi ni Binetsu Tsutawaru Yoru.
 
+![shuudengo-capsule-hotel-de-joushi-ni-binetsu-tsutawaru-yoru](https://cdn.myanimelist.net/images/anime/1418/93509.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 終電後、カプセルホテルで、上司に微熱伝わる夜。

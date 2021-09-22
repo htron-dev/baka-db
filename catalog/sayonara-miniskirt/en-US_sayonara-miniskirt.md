@@ -1,5 +1,7 @@
 # Sayonara Miniskirt
 
+![sayonara-miniskirt](https://cdn.myanimelist.net/images/manga/1/223984.jpg)
+
 -   **type**: manga
 -   **original-name**: さよならミニスカート
 -   **start-date**: 2018-08-03

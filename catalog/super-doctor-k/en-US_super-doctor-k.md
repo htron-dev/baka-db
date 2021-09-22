@@ -1,5 +1,7 @@
 # Super Doctor K
 
+![super-doctor-k](https://cdn.myanimelist.net/images/manga/3/152916.jpg)
+
 -   **type**: manga
 -   **volumes**: 44
 -   **original-name**: スーパードクター K

@@ -1,5 +1,7 @@
 # Sangokushi (1985)
 
+![sangokushi-1985](https://cdn.myanimelist.net/images/anime/1843/103238.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 三国志

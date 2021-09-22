@@ -1,5 +1,7 @@
 # Sasaki-san wa Kare ga Suki?
 
+![sasaki-san-wa-kare-ga-suki](https://cdn.myanimelist.net/images/manga/3/226308.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

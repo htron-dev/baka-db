@@ -1,5 +1,7 @@
 # Star
 
+![star](https://cdn.myanimelist.net/images/manga/4/168484.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Sultan to Aishou no Harem
 
+![sultan-to-aishou-no-harem](https://cdn.myanimelist.net/images/manga/3/247192.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: スルタンと愛妾のハーレム

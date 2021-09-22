@@ -1,5 +1,7 @@
 # Sword Art Online Fatal Bullet: The Third Episode - Pilot-ban
 
+![sword-art-online-fatal-bullet-the-third-episode-pilot-ban](https://cdn.myanimelist.net/images/anime/1821/90470.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: Sword Art Online Fatal Bullet -The Third Episode- ＜パイロット版＞

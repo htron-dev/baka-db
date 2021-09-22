@@ -1,5 +1,7 @@
 # Sour &amp; Sweet
 
+![sour-amp-sweet](https://cdn.myanimelist.net/images/manga/1/191553.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **original-name**: 새콤달콤

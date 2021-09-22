@@ -1,5 +1,7 @@
 # Sei Mo.E.S. no Hakobune
 
+![sei-mo-e-s-no-hakobune](https://cdn.myanimelist.net/images/manga/3/137897.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 36

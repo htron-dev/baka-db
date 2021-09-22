@@ -1,5 +1,7 @@
 # Shuttle Man
 
+![shuttle-man](https://cdn.myanimelist.net/images/manga/3/106161.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 37

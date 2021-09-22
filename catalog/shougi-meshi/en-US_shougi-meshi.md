@@ -1,5 +1,7 @@
 # Shougi Meshi
 
+![shougi-meshi](https://cdn.myanimelist.net/images/manga/3/198543.jpg)
+
 -   **type**: manga
 -   **original-name**: 将棋めし
 -   **start-date**: 2016-07-05

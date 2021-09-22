@@ -1,5 +1,7 @@
 # Suhada de Kakumei
 
+![suhada-de-kakumei](https://cdn.myanimelist.net/images/manga/2/11074.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 素肌で革命

@@ -1,5 +1,7 @@
 # Sekiro Gaiden: Shinazu Hanbei
 
+![sekiro-gaiden-shinazu-hanbei](https://cdn.myanimelist.net/images/manga/2/228269.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

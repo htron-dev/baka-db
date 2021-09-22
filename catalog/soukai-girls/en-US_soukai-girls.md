@@ -1,5 +1,7 @@
 # Soukai Girls!
 
+![soukai-girls](https://cdn.myanimelist.net/images/manga/1/163419.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 22

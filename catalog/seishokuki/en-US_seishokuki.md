@@ -1,5 +1,7 @@
 # Seishokuki
 
+![seishokuki](https://cdn.myanimelist.net/images/manga/2/137157.jpg)
+
 -   **type**: manga
 -   **original-name**: 性食鬼
 -   **start-date**: 2010-08-17

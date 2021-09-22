@@ -1,5 +1,7 @@
 # Shiraishi-kun no Doukyuusei
 
+![shiraishi-kun-no-doukyuusei](https://cdn.myanimelist.net/images/manga/2/209865.jpg)
+
 -   **type**: manga
 -   **original-name**: 白石君の動級生
 -   **start-date**: 2017-05-18

@@ -1,5 +1,7 @@
 # Saint Seiya: Shinku no Shounen Densetsu
 
+![saint-seiya-shinku-no-shounen-densetsu](https://cdn.myanimelist.net/images/anime/11/52889.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 聖闘士星矢 真紅の少年伝説

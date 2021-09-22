@@ -1,5 +1,7 @@
 # Sensei no Sensei
 
+![sensei-no-sensei](https://cdn.myanimelist.net/images/manga/3/236268.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

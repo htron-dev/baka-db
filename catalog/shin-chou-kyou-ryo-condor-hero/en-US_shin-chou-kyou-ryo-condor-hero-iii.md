@@ -1,5 +1,7 @@
 # Shin Chou Kyou Ryo: Condor Hero III
 
+![shin-chou-kyou-ryo-condor-hero-iii](https://cdn.myanimelist.net/images/anime/1383/90702.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 神鵰俠侶 III: 十六年之約

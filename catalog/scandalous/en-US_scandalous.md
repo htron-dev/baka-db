@@ -1,5 +1,7 @@
 # Scandalous
 
+![scandalous](https://cdn.myanimelist.net/images/manga/3/62829.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

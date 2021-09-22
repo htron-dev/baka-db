@@ -1,5 +1,7 @@
 # Sugar\*Soldier
 
+![sugar-soldier](https://cdn.myanimelist.net/images/anime/9/57959.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: シュガー＊ソルジャー

@@ -1,5 +1,7 @@
 # Sandwhichman Touhoku Ai Bottle
 
+![sandwhichman-touhoku-ai-bottle](https://cdn.myanimelist.net/images/anime/1280/93917.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: サンドウィッチマン 東北愛ボトル

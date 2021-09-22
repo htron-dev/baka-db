@@ -1,5 +1,7 @@
 # Samurai Darling
 
+![samurai-darling](https://cdn.myanimelist.net/images/manga/2/125477.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

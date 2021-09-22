@@ -1,5 +1,7 @@
 # Shouhin ni Te wo Dasu na
 
+![shouhin-ni-te-wo-dasu-na](https://cdn.myanimelist.net/images/manga/2/124381.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 商品に手をだすな

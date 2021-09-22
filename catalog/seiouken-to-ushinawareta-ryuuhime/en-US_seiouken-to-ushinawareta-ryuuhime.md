@@ -1,5 +1,7 @@
 # Seiouken to Ushinawareta Ryuuhime
 
+![seiouken-to-ushinawareta-ryuuhime](https://cdn.myanimelist.net/images/manga/2/163884.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

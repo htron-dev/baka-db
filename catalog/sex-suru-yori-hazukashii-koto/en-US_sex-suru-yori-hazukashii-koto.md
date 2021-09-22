@@ -1,5 +1,7 @@
 # Sex suru yori Hazukashii Koto
 
+![sex-suru-yori-hazukashii-koto](https://cdn.myanimelist.net/images/manga/2/245905.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

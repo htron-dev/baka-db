@@ -1,5 +1,7 @@
 # Sekai no Yami to Tatakau Himitsu Kessha ga Nai kara Tsukutta (Hangire)
 
+![sekai-no-yami-to-tatakau-himitsu-kessha-ga-nai-kara-tsukutta-hangire](https://cdn.myanimelist.net/images/manga/3/230471.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 38

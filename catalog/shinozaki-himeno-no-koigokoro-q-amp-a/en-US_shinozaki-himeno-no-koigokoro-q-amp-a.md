@@ -1,5 +1,7 @@
 # Shinozaki Himeno no Koigokoro Q&amp;A
 
+![shinozaki-himeno-no-koigokoro-q-amp-a](https://cdn.myanimelist.net/images/manga/3/219463.jpg)
+
 -   **type**: manga
 -   **original-name**: 篠崎姫乃の恋心 Q＆A
 -   **start-date**: 2018-05-26

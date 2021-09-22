@@ -1,5 +1,7 @@
 # Shaman King Zero
 
+![shaman-king-zero](https://cdn.myanimelist.net/images/manga/3/97167.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

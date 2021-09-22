@@ -1,5 +1,7 @@
 # Shitsuren Tour Conductor no Zecchou Travel
 
+![shitsuren-tour-conductor-no-zecchou-travel](https://cdn.myanimelist.net/images/manga/1/194633.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 失恋ツアーコンダクターの絶頂トラベル

@@ -1,5 +1,7 @@
 # Sanzokuou
 
+![sanzokuou](https://cdn.myanimelist.net/images/manga/2/37862.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 50

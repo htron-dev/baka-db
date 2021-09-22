@@ -1,5 +1,7 @@
 # Seiryou Saikyou Monogatari
 
+![seiryou-saikyou-monogatari](https://cdn.myanimelist.net/images/manga/2/5909.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 14

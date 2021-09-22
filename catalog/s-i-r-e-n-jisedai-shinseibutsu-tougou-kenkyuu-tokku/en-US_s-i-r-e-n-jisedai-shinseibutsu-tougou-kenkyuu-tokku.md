@@ -1,5 +1,7 @@
 # S.I.R.E.N.: Jisedai Shinseibutsu Tougou Kenkyuu Tokku
 
+![s-i-r-e-n-jisedai-shinseibutsu-tougou-kenkyuu-tokku](https://cdn.myanimelist.net/images/manga/1/177327.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 35

@@ -1,5 +1,7 @@
 # Shin Gumiho
 
+![shin-gumiho](https://cdn.myanimelist.net/images/manga/3/9352.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 21
 -   **chapters**: 77

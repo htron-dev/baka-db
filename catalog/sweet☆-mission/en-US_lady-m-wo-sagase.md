@@ -1,5 +1,7 @@
 # Lady M. wo Sagase!
 
+![lady-m-wo-sagase](https://cdn.myanimelist.net/images/manga/3/98691.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

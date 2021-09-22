@@ -1,5 +1,7 @@
 # Stigmata: Aikon
 
+![stigmata-aikon](https://cdn.myanimelist.net/images/manga/3/248964.jpg)
+
 -   **type**: manga
 -   **original-name**: スティグマタ ─ 愛痕 ─
 

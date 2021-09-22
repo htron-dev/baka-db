@@ -1,5 +1,7 @@
 # Sara Ke Puccho
 
+![sara-ke-puccho](https://cdn.myanimelist.net/images/anime/1745/90629.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: サラ毛ぷっちょ

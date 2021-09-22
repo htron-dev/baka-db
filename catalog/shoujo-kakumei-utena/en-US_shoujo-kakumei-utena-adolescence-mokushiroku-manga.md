@@ -1,5 +1,7 @@
 # Shoujo Kakumei Utena: Adolescence Mokushiroku
 
+![shoujo-kakumei-utena-adolescence-mokushiroku](https://cdn.myanimelist.net/images/manga/5/6641.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

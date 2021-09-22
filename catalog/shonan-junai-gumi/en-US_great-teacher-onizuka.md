@@ -1,5 +1,7 @@
 # Great Teacher Onizuka
 
+![great-teacher-onizuka](https://cdn.myanimelist.net/images/anime/13/11460.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 43
 -   **original-name**: グレート・ティーチャー・オニヅカ

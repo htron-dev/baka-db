@@ -1,5 +1,7 @@
 # Samurai Deeper Kyou
 
+![samurai-deeper-kyou](https://cdn.myanimelist.net/images/manga/3/157961.jpg)
+
 -   **type**: manga
 -   **volumes**: 38
 -   **chapters**: 308

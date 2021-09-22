@@ -1,5 +1,7 @@
 # Hari no Hana
 
+![hari-no-hana](https://cdn.myanimelist.net/images/manga/1/193145.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 29

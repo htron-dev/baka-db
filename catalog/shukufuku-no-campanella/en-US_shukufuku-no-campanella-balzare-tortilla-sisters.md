@@ -1,5 +1,7 @@
 # Shukufuku no Campanella - Balzare! Tortilla Sisters!
 
+![shukufuku-no-campanella-balzare-tortilla-sisters](https://cdn.myanimelist.net/images/manga/2/35840.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

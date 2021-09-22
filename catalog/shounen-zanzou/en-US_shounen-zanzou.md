@@ -1,5 +1,7 @@
 # Shounen Zanzou
 
+![shounen-zanzou](https://cdn.myanimelist.net/images/manga/2/36333.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

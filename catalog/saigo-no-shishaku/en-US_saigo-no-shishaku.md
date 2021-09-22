@@ -1,5 +1,7 @@
 # Saigo no Shishaku
 
+![saigo-no-shishaku](https://cdn.myanimelist.net/images/manga/3/229669.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 最後の子爵

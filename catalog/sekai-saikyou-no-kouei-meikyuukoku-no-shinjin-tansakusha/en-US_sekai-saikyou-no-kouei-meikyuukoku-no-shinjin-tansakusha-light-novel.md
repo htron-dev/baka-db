@@ -1,5 +1,7 @@
 # Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha
 
+![sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha](https://cdn.myanimelist.net/images/manga/2/203323.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 世界最強の後衛 ～迷宮国の新人探索者～
 -   **start-date**: 2017-11-10

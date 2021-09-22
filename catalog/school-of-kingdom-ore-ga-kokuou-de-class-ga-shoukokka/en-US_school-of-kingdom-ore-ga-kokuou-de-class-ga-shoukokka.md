@@ -1,5 +1,7 @@
 # School of Kingdom!: Ore ga Kokuou de Class ga Shoukokka!?
 
+![school-of-kingdom-ore-ga-kokuou-de-class-ga-shoukokka](https://cdn.myanimelist.net/images/manga/3/190106.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: スクール・オブ・キングダム! 俺が国王で、クラスが小国家!?

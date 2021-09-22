@@ -1,5 +1,7 @@
 # Saigo no Yuuransen
 
+![saigo-no-yuuransen](https://cdn.myanimelist.net/images/manga/1/242689.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

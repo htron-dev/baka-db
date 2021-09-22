@@ -1,5 +1,7 @@
 # Shiro Seijo to Kuro Bokushi
 
+![shiro-seijo-to-kuro-bokushi](https://cdn.myanimelist.net/images/manga/3/204494.jpg)
+
 -   **type**: manga
 -   **original-name**: 白聖女と黒牧師
 -   **start-date**: 2017-04-20

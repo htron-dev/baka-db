@@ -1,5 +1,7 @@
 # Moldiver
 
+![moldiver](https://cdn.myanimelist.net/images/anime/4/37735.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: モルダイバー

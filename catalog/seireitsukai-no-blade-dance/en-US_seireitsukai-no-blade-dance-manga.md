@@ -1,5 +1,7 @@
 # Seireitsukai no Blade Dance
 
+![seireitsukai-no-blade-dance](https://cdn.myanimelist.net/images/manga/3/191043.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: 精霊使いの剣舞〈ブレイドダンス〉

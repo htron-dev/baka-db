@@ -1,5 +1,7 @@
 # Saikyou Robot Daiouja
 
+![saikyou-robot-daiouja](https://cdn.myanimelist.net/images/anime/1170/93954.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: 最強ロボ ダイオージャ

@@ -1,5 +1,7 @@
 # Shirokuma Bellstars
 
+![shirokuma-bellstars](https://cdn.myanimelist.net/images/manga/3/35496.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: しろくまベルスターズ ♪

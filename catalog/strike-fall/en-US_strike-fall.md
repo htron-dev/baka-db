@@ -1,5 +1,7 @@
 # Strike Fall
 
+![strike-fall](https://cdn.myanimelist.net/images/manga/2/178564.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ストライクフォール
 -   **start-date**: 2016-06-17

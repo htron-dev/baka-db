@@ -1,5 +1,7 @@
 # Sekai de Tada Hitori no Mamonotsukai: Tenshoku shitara Maou ni Machigawaremashita
 
+![sekai-de-tada-hitori-no-mamonotsukai-tenshoku-shitara-maou-ni-machigawaremashita](https://cdn.myanimelist.net/images/manga/3/225926.jpg)
+
 -   **type**: manga
 -   **original-name**: 世界でただ一人の魔物使い ～転職したら魔王に間違われました～
 -   **start-date**: 2018-10-10

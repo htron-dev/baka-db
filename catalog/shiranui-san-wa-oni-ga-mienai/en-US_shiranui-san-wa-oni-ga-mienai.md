@@ -1,5 +1,7 @@
 # Shiranui-san wa Oni ga Mienai
 
+![shiranui-san-wa-oni-ga-mienai](https://cdn.myanimelist.net/images/manga/2/161147.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 不知火さんは鬼が視えない

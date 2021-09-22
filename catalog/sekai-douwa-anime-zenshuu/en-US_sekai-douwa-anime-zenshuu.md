@@ -1,5 +1,7 @@
 # Sekai Douwa Anime Zenshuu
 
+![sekai-douwa-anime-zenshuu](https://cdn.myanimelist.net/images/anime/5/17005.jpg)
+
 -   **type**: ova
 -   **episodes**: 10
 -   **original-name**: 世界童話アニメ全集

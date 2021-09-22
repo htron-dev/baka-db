@@ -1,5 +1,7 @@
 # Seitai Sample: Hoshizora ni Rachirareta Idol
 
+![seitai-sample-hoshizora-ni-rachirareta-idol](https://cdn.myanimelist.net/images/manga/3/163785.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 性態サンプル～星空に拉致られたアイドル～

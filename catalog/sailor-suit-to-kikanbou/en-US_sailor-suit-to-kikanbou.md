@@ -1,5 +1,7 @@
 # Sailor Suit to Kikanbou
 
+![sailor-suit-to-kikanbou](https://cdn.myanimelist.net/images/manga/2/35386.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: セーラー服ときかん坊

@@ -1,5 +1,7 @@
 # Seifukusha
 
+![seifukusha](https://cdn.myanimelist.net/images/manga/2/19592.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 征服者

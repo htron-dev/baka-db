@@ -1,5 +1,7 @@
 # Switch Witch
 
+![switch-witch](https://cdn.myanimelist.net/images/manga/1/136263.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 55

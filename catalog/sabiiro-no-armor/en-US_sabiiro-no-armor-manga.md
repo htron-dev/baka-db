@@ -1,5 +1,7 @@
 # Sabiiro no Armor
 
+![sabiiro-no-armor](https://cdn.myanimelist.net/images/manga/3/218853.jpg)
+
 -   **type**: manga
 -   **original-name**: 錆色のアーマ
 -   **start-date**: 2019-01-15

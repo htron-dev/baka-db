@@ -1,5 +1,7 @@
 # Saiyuuki Reload: Zeroin
 
+![saiyuuki-reload-zeroin](https://cdn.myanimelist.net/images/anime/1125/111173.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 最遊記 RELOAD -ZEROIN-
 -   **rating**: None

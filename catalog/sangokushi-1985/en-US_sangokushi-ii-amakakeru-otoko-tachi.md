@@ -1,5 +1,7 @@
 # Sangokushi II: Amakakeru Otoko-tachi
 
+![sangokushi-ii-amakakeru-otoko-tachi](https://cdn.myanimelist.net/images/anime/8/72949.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 三国志 II 天翔ける英雄たち

@@ -1,5 +1,7 @@
 # Surechigai Koigokoro
 
+![surechigai-koigokoro](https://cdn.myanimelist.net/images/manga/2/243337.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

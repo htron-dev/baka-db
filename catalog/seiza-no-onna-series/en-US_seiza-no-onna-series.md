@@ -1,5 +1,7 @@
 # Seiza no Onna Series
 
+![seiza-no-onna-series](https://cdn.myanimelist.net/images/manga/1/151351.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 10

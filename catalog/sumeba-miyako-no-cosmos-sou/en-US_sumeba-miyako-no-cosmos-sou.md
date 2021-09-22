@@ -1,5 +1,7 @@
 # Sumeba Miyako no Cosmos-sou
 
+![sumeba-miyako-no-cosmos-sou](https://cdn.myanimelist.net/images/manga/3/143191.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

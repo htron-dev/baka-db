@@ -1,5 +1,7 @@
 # Stitch!: Zutto Saikou no Tomodachi
 
+![stitch-zutto-saikou-no-tomodachi](https://cdn.myanimelist.net/images/anime/1878/100543.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 29
 -   **original-name**: スティッチ！～ずっと最高のトモダチ～

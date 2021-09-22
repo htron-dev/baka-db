@@ -1,5 +1,7 @@
 # Seisai no Za wa Watasanai!
 
+![seisai-no-za-wa-watasanai](https://cdn.myanimelist.net/images/manga/3/164029.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

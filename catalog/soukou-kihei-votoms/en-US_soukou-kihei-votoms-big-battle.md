@@ -1,5 +1,7 @@
 # Soukou Kihei Votoms: Big Battle
 
+![soukou-kihei-votoms-big-battle](https://cdn.myanimelist.net/images/anime/10/24534.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 装甲騎兵ボトムズ　ビッグバトル

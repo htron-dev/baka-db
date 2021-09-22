@@ -1,5 +1,7 @@
 # Senyuu.
 
+![senyuu](https://cdn.myanimelist.net/images/anime/6/44858.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 戦勇。

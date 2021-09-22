@@ -1,5 +1,7 @@
 # Seizuyomi no Leena
 
+![seizuyomi-no-leena](https://cdn.myanimelist.net/images/manga/2/124405.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 星図詠のリーナ

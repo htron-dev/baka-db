@@ -1,5 +1,7 @@
 # Starry☆Sky: In Autumn - Anthology
 
+![starry☆-sky-in-autumn-anthology](https://cdn.myanimelist.net/images/manga/1/34790.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Starry☆Sky~in Autumn~ アンソロジー

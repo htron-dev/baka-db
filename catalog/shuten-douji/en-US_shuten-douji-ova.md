@@ -1,5 +1,7 @@
 # Shuten Douji
 
+![shuten-douji](https://cdn.myanimelist.net/images/anime/9/18492.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 手天童子

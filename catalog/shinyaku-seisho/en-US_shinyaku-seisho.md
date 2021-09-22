@@ -1,5 +1,7 @@
 # Shinyaku Seisho
 
+![shinyaku-seisho](https://cdn.myanimelist.net/images/manga/1/3337.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 128

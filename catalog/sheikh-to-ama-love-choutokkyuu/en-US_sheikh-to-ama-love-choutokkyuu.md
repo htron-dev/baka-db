@@ -1,5 +1,7 @@
 # Sheikh to Ama Love Choutokkyuu
 
+![sheikh-to-ama-love-choutokkyuu](https://cdn.myanimelist.net/images/manga/3/183751.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

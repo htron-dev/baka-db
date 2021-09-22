@@ -1,5 +1,7 @@
 # Silent Möbius
 
+![silent-mobius](https://cdn.myanimelist.net/images/anime/1522/99204.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: サイレントメビウス

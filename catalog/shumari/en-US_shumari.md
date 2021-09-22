@@ -1,5 +1,7 @@
 # Shumari
 
+![shumari](https://cdn.myanimelist.net/images/manga/2/36219.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 31

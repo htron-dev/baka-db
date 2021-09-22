@@ -1,5 +1,7 @@
 # Super Robot Taisen OG The Animation
 
+![super-robot-taisen-og-the-animation](https://cdn.myanimelist.net/images/anime/6/24378.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: スーパーロボット大戦 ORIGINAL GENERATION THE ANIMATION

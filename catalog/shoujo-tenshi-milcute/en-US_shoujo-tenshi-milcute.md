@@ -1,5 +1,7 @@
 # Shoujo Tenshi Milcute
 
+![shoujo-tenshi-milcute](https://cdn.myanimelist.net/images/manga/3/79051.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

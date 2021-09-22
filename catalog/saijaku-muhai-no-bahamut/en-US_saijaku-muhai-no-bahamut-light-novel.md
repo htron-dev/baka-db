@@ -1,5 +1,7 @@
 # Saijaku Muhai no Bahamut
 
+![saijaku-muhai-no-bahamut](https://cdn.myanimelist.net/images/manga/2/175077.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 20
 -   **chapters**: 139

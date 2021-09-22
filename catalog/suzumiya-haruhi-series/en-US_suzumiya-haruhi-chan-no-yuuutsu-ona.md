@@ -1,5 +1,7 @@
 # Suzumiya Haruhi-chan no Yuuutsu
 
+![suzumiya-haruhi-chan-no-yuuutsu](https://cdn.myanimelist.net/images/anime/1786/112350.jpg)
+
 -   **type**: ona
 -   **episodes**: 25
 -   **original-name**: 涼宮ハルヒちゃんの憂鬱

@@ -1,5 +1,7 @@
 # Sengoku Tenshouki
 
+![sengoku-tenshouki](https://cdn.myanimelist.net/images/manga/1/165058.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 149

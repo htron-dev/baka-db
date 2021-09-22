@@ -1,5 +1,7 @@
 # Saeki-san to, Hitotsu Yane no Shita: I'll Have Sherbet!
 
+![saeki-san-to-hitotsu-yane-no-shita-ill-have-sherbet](https://cdn.myanimelist.net/images/manga/2/217792.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

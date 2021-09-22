@@ -1,5 +1,7 @@
 # Hoshi no Kirby
 
+![hoshi-no-kirby](https://cdn.myanimelist.net/images/anime/9/22184.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 100
 -   **original-name**: 星のカービィ

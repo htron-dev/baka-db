@@ -1,5 +1,7 @@
 # Sayonara no Asa ni Yakusoku no Hana wo Kazarou
 
+![sayonara-no-asa-ni-yakusoku-no-hana-wo-kazarou](https://cdn.myanimelist.net/images/anime/11/89556.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: さよならの朝に約束の花をかざろう

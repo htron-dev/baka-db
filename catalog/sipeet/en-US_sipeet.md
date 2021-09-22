@@ -1,5 +1,7 @@
 # Sipeet
 
+![sipeet](https://cdn.myanimelist.net/images/manga/2/238487.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

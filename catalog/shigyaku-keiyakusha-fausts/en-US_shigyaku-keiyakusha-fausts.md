@@ -1,5 +1,7 @@
 # Shigyaku Keiyakusha Fausts
 
+![shigyaku-keiyakusha-fausts](https://cdn.myanimelist.net/images/manga/3/168694.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 弑逆契約者ファウスツ

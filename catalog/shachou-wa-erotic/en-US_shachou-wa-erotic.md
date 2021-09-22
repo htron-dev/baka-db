@@ -1,5 +1,7 @@
 # Shachou wa Erotic
 
+![shachou-wa-erotic](https://cdn.myanimelist.net/images/manga/2/87141.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

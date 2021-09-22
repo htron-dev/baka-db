@@ -1,5 +1,7 @@
 # Scar
 
+![scar](https://cdn.myanimelist.net/images/manga/1/170648.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 5

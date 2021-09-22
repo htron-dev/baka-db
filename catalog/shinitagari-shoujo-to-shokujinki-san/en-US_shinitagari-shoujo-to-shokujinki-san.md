@@ -1,5 +1,7 @@
 # Shinitagari Shoujo to Shokujinki-san
 
+![shinitagari-shoujo-to-shokujinki-san](https://cdn.myanimelist.net/images/manga/2/223186.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 39

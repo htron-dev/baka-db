@@ -1,5 +1,7 @@
 # Sasameki Koto
 
+![sasameki-koto](https://cdn.myanimelist.net/images/manga/2/217658.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 55

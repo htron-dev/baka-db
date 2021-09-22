@@ -1,5 +1,7 @@
 # Selector Infected WIXOSS: Mayu no Oheya
 
+![selector-infected-wixoss-mayu-no-oheya](https://cdn.myanimelist.net/images/manga/3/184852.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 20

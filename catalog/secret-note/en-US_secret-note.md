@@ -1,5 +1,7 @@
 # Secret Note
 
+![secret-note](https://cdn.myanimelist.net/images/manga/1/236697.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

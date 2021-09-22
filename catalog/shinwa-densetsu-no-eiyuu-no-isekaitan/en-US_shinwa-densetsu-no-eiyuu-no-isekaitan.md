@@ -1,5 +1,7 @@
 # Shinwa Densetsu no Eiyuu no Isekaitan
 
+![shinwa-densetsu-no-eiyuu-no-isekaitan](https://cdn.myanimelist.net/images/manga/2/177672.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 神話伝説の英雄の異世界譚
 -   **start-date**: 2015-05-25

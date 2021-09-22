@@ -1,5 +1,7 @@
 # Shanimuni Go
 
+![shanimuni-go](https://cdn.myanimelist.net/images/manga/2/207576.jpg)
+
 -   **type**: manga
 -   **volumes**: 32
 -   **chapters**: 192
