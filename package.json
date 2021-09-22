@@ -9,7 +9,7 @@
     "scripts": {
         "prepare": "husky install",
         "test": "ts-node japaFile.ts",
-        "conversor:json": "baka conversor json '**' -y ",
+        "conversor:json": "baka conversor json '*' -y ",
         "generate:summary": "baka generate:index",
         "status": "baka status",
         "lint": "npm run eslint . && npm run prettier .",
