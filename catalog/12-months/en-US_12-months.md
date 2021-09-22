@@ -1,5 +1,7 @@
 # 12 Months
 
+![12-months](https://cdn.myanimelist.net/images/manga/3/12936.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

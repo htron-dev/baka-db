@@ -1,5 +1,7 @@
 # Vampire Knight
 
+![vampire-knight](https://cdn.myanimelist.net/images/anime/3/7327.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ヴァンパイア騎士〈ナイト〉

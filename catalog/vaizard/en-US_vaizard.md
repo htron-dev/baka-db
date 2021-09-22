@@ -1,5 +1,7 @@
 # Vaizard
 
+![vaizard](https://cdn.myanimelist.net/images/manga/2/1592.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 護宝遣聖 VAIZARD

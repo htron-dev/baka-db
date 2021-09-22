@@ -1,5 +1,7 @@
 # Vanilla Resort
 
+![vanilla-resort](https://cdn.myanimelist.net/images/manga/2/85767.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # 5-toubun no Hanayome
 
+![5-toubun-no-hanayome](https://cdn.myanimelist.net/images/manga/2/201572.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 122

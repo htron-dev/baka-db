@@ -1,5 +1,7 @@
 # 18if
 
+![18-if](https://cdn.myanimelist.net/images/anime/7/86743.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 18if

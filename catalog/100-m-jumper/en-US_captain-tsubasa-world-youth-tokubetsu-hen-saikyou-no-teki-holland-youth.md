@@ -1,5 +1,7 @@
 # Captain Tsubasa: World Youth Tokubetsu-hen - Saikyou no Teki! Holland Youth
 
+![captain-tsubasa-world-youth-tokubetsu-hen-saikyou-no-teki-holland-youth](https://cdn.myanimelist.net/images/manga/3/29153.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

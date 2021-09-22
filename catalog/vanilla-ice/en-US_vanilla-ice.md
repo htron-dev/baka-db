@@ -1,5 +1,7 @@
 # Vanilla Ice
 
+![vanilla-ice](https://cdn.myanimelist.net/images/manga/3/41220.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 21

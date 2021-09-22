@@ -1,5 +1,7 @@
 # 1
 
+![1](https://cdn.myanimelist.net/images/manga/3/100697.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

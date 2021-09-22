@@ -1,5 +1,7 @@
 # 1000-en Hero
 
+![1000-en-hero](https://cdn.myanimelist.net/images/manga/2/204637.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 145

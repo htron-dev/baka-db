@@ -1,5 +1,7 @@
 # Captain Tsubasa no Koutsuu Anzen
 
+![captain-tsubasa-no-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/1530/98950.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: キャプテン翼の交通安全

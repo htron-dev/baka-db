@@ -1,5 +1,7 @@
 # 4-ban no Takkyuu
 
+![4-ban-no-takkyuu](https://cdn.myanimelist.net/images/manga/1/145161.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

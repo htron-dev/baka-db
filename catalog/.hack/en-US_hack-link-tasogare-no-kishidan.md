@@ -1,5 +1,7 @@
 # .hack//Link: Tasogare no Kishidan
 
+![hack-link-tasogare-no-kishidan](https://cdn.myanimelist.net/images/manga/5/126089.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

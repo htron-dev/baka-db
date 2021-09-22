@@ -1,5 +1,7 @@
 # 17-sai no Hisoka na Yokujou
 
+![17-sai-no-hisoka-na-yokujou](https://cdn.myanimelist.net/images/manga/2/21681.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

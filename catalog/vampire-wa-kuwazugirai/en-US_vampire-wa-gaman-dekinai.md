@@ -1,5 +1,7 @@
 # Vampire wa Gaman Dekinai
 
+![vampire-wa-gaman-dekinai](https://cdn.myanimelist.net/images/manga/3/232024.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

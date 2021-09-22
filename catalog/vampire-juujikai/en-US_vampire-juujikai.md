@@ -1,5 +1,7 @@
 # Vampire Juujikai
 
+![vampire-juujikai](https://cdn.myanimelist.net/images/manga/2/145329.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 44

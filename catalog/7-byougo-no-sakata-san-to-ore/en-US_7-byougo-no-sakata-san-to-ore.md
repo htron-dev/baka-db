@@ -1,5 +1,7 @@
 # 7-byougo no Sakata-san to, Ore.
 
+![7-byougo-no-sakata-san-to-ore](https://cdn.myanimelist.net/images/manga/3/163959.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 30

@@ -1,5 +1,7 @@
 # Virtua Fighter: Costomize Clip
 
+![virtua-fighter-costomize-clip](https://cdn.myanimelist.net/images/anime/7/89426.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: バーチャファイター Costomize Clip

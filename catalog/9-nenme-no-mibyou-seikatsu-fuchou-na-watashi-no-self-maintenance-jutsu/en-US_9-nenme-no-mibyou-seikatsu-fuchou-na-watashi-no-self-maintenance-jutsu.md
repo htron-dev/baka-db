@@ -1,5 +1,7 @@
 # 9-nenme no Mibyou Seikatsu: Fuchou na Watashi no Self-maintenance-jutsu
 
+![9-nenme-no-mibyou-seikatsu-fuchou-na-watashi-no-self-maintenance-jutsu](https://cdn.myanimelist.net/images/manga/1/151652.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 9 年めの未病生活 不調な私のセルフメンテ術

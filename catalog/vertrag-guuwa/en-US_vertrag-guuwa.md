@@ -1,5 +1,7 @@
 # Vertrag Guuwa
 
+![vertrag-guuwa](https://cdn.myanimelist.net/images/manga/2/149536.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

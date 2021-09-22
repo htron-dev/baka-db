@@ -1,5 +1,7 @@
 # 7-nenme no Junai
 
+![7-nenme-no-junai](https://cdn.myanimelist.net/images/manga/1/246408.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

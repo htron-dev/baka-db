@@ -1,5 +1,7 @@
 # .hack//G.U. Returner
 
+![hack-g-u-returner](https://cdn.myanimelist.net/images/anime/11/23181.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: .HACK//G.U. RETURNER

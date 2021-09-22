@@ -1,5 +1,7 @@
 # Vie Durant
 
+![vie-durant](https://cdn.myanimelist.net/images/anime/7/24039.jpg)
+
 -   **type**: ona
 -   **episodes**: 8
 -   **original-name**: VIE DURANT

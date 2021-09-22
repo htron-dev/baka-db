@@ -1,5 +1,7 @@
 # 86
 
+![86](https://cdn.myanimelist.net/images/manga/3/194315.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 86―エイティシックス―
 -   **start-date**: 2017-02-10

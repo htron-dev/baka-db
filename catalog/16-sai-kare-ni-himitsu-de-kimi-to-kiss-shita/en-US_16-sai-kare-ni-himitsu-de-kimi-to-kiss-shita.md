@@ -1,5 +1,7 @@
 # 16-sai, Kare ni Himitsu de Kimi to Kiss shita
 
+![16-sai-kare-ni-himitsu-de-kimi-to-kiss-shita](https://cdn.myanimelist.net/images/manga/2/231080.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

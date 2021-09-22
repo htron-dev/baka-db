@@ -1,5 +1,7 @@
 # 6 no Trigger
 
+![6-no-trigger](https://cdn.myanimelist.net/images/manga/2/146631.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

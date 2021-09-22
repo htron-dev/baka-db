@@ -1,5 +1,7 @@
 # Velvet Kiss
 
+![velvet-kiss](https://cdn.myanimelist.net/images/manga/1/69893.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 32

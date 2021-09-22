@@ -1,5 +1,7 @@
 # 5:00 PM Revolution
 
+![5-00-pm-revolution](https://cdn.myanimelist.net/images/manga/1/12792.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 

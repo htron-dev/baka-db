@@ -1,5 +1,7 @@
 # Captain Tsubasa Tanpenshuu: Dream Field
 
+![captain-tsubasa-tanpenshuu-dream-field](https://cdn.myanimelist.net/images/manga/2/155029.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 6

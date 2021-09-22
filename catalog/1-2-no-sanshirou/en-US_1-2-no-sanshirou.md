@@ -1,5 +1,7 @@
 # 1 2 no Sanshirou
 
+![1-2-no-sanshirou](https://cdn.myanimelist.net/images/manga/3/241369.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 180

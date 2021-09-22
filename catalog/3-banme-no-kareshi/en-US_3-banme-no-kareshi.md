@@ -1,5 +1,7 @@
 # 3 Banme no Kareshi
 
+![3-banme-no-kareshi](https://cdn.myanimelist.net/images/manga/1/5406.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

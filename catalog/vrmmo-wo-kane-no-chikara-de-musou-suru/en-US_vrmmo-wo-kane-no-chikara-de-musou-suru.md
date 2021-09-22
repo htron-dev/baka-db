@@ -1,5 +1,7 @@
 # VRMMO wo Kane no Chikara de Musou suru
 
+![vrmmo-wo-kane-no-chikara-de-musou-suru](https://cdn.myanimelist.net/images/manga/3/189136.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 43

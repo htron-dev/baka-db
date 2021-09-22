@@ -1,5 +1,7 @@
 # V.B. Rose
 
+![v-b-rose](https://cdn.myanimelist.net/images/manga/3/5322.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 83

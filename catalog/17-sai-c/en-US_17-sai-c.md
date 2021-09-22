@@ -1,5 +1,7 @@
 # 17-sai °C
 
+![17-sai-c](https://cdn.myanimelist.net/images/manga/1/118831.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

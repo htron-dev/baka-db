@@ -1,5 +1,7 @@
 # 1~2m wo Kakeru Shoujo
 
+![1-2-m-wo-kakeru-shoujo](https://cdn.myanimelist.net/images/manga/1/39148.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

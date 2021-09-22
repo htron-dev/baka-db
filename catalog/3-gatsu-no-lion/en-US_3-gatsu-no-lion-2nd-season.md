@@ -1,5 +1,7 @@
 # 3-gatsu no Lion 2nd Season
 
+![3-gatsu-no-lion-2nd-season](https://cdn.myanimelist.net/images/anime/3/88469.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: 3 月のライオン 第 2 シリーズ

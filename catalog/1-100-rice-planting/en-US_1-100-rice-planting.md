@@ -1,5 +1,7 @@
 # 1/100 Rice Planting
 
+![1-100-rice-planting](https://cdn.myanimelist.net/images/anime/12/88866.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 1/100 RICE Planting

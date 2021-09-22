@@ -1,5 +1,7 @@
 # Virgin Fetishism
 
+![virgin-fetishism](https://cdn.myanimelist.net/images/manga/2/137667.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

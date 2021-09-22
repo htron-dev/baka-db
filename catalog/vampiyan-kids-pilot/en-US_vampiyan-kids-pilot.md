@@ -1,5 +1,7 @@
 # Vampiyan Kids: Pilot
 
+![vampiyan-kids-pilot](https://cdn.myanimelist.net/images/anime/6/8386.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: なんちゃってバンパイヤン

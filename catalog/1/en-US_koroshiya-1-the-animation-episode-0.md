@@ -1,5 +1,7 @@
 # Koroshiya 1 The Animation: Episode 0
 
+![koroshiya-1-the-animation-episode-0](https://cdn.myanimelist.net/images/anime/11/34131.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 殺し屋１ THE ANIMATION EPISODE 0

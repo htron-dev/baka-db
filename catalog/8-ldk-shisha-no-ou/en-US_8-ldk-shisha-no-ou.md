@@ -1,5 +1,7 @@
 # 8LDK: Shisha no Ou
 
+![8-ldk-shisha-no-ou](https://cdn.myanimelist.net/images/manga/2/219533.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

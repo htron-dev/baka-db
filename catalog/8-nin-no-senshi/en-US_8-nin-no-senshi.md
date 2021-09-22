@@ -1,5 +1,7 @@
 # 8-nin no Senshi
 
+![8-nin-no-senshi](https://cdn.myanimelist.net/images/manga/2/246154.jpg)
+
 -   **type**: manga
 -   **original-name**: 8 人の戦士
 -   **start-date**: 2017-10-28

@@ -1,5 +1,7 @@
 # Viehmannin wa Utau
 
+![viehmannin-wa-utau](https://cdn.myanimelist.net/images/manga/4/176273.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 27

@@ -1,5 +1,7 @@
 # Van Helsing: Darkness Blood
 
+![van-helsing-darkness-blood](https://cdn.myanimelist.net/images/manga/2/165423.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

@@ -1,5 +1,7 @@
 # Viking
 
+![viking](https://cdn.myanimelist.net/images/manga/1/62927.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

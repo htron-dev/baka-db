@@ -1,5 +1,7 @@
 # Captain Tsubasa: Kaigai Gekitou-hen in Calcio - Hi Izuru Kuni no Giocatore
 
+![captain-tsubasa-kaigai-gekitou-hen-in-calcio-hi-izuru-kuni-no-giocatore](https://cdn.myanimelist.net/images/manga/2/33233.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # 1-nen 5-kumi Ikimonogakari
 
+![1-nen-5-kumi-ikimonogakari](https://cdn.myanimelist.net/images/manga/4/112451.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # Vicky and Johnny
 
+![vicky-and-johnny](https://cdn.myanimelist.net/images/anime/5/80376.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 104
 -   **original-name**: 비키와 조니

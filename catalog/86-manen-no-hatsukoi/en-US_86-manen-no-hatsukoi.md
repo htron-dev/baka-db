@@ -1,5 +1,7 @@
 # 86-manen no Hatsukoi
 
+![86-manen-no-hatsukoi](https://cdn.myanimelist.net/images/manga/3/246712.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

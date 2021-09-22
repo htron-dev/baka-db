@@ -1,5 +1,7 @@
 # 11-nin Iru!
 
+![11-nin-iru](https://cdn.myanimelist.net/images/anime/1771/96658.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 11 人いる!

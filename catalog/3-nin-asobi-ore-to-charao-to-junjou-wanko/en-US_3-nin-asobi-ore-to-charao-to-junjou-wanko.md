@@ -1,5 +1,7 @@
 # 3-nin Asobi: Ore to Charao to Junjou Wanko
 
+![3-nin-asobi-ore-to-charao-to-junjou-wanko](https://cdn.myanimelist.net/images/manga/2/97273.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

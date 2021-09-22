@@ -1,5 +1,7 @@
 # Vatican Kiseki Chousakan
 
+![vatican-kiseki-chousakan](https://cdn.myanimelist.net/images/anime/4/86746.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: バチカン奇跡調査官

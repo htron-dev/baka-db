@@ -1,5 +1,7 @@
 # 11eyes
 
+![11-eyes](https://cdn.myanimelist.net/images/anime/6/73520.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 11eyes イレブンアイズ

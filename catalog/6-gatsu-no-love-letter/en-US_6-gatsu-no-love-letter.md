@@ -1,5 +1,7 @@
 # 6-gatsu no Love Letter
 
+![6-gatsu-no-love-letter](https://cdn.myanimelist.net/images/manga/2/223730.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

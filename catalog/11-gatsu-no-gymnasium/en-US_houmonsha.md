@@ -1,5 +1,7 @@
 # Houmonsha
 
+![houmonsha](https://cdn.myanimelist.net/images/manga/2/149093.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

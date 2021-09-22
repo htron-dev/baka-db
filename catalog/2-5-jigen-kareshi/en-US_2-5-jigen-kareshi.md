@@ -1,5 +1,7 @@
 # 2.5-jigen Kareshi
 
+![2-5-jigen-kareshi](https://cdn.myanimelist.net/images/manga/2/157887.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

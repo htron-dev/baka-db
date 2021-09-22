@@ -1,5 +1,7 @@
 # 2.43 Mini Anime: Inside Story
 
+![2-43-mini-anime-inside-story](https://cdn.myanimelist.net/images/anime/1280/111151.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 2.43 ミニアニメ inside story

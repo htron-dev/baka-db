@@ -1,5 +1,7 @@
 # 2821 Coca Cola
 
+![2821-coca-cola](https://cdn.myanimelist.net/images/manga/1/197795.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 2821 コカコーラ

@@ -1,5 +1,7 @@
 # 7-genme wa Himitsu.
 
+![7-genme-wa-himitsu](https://cdn.myanimelist.net/images/manga/2/171442.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

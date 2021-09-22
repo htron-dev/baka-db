@@ -1,5 +1,7 @@
 # 18-sai no Kodou
 
+![18-sai-no-kodou](https://cdn.myanimelist.net/images/manga/3/35290.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

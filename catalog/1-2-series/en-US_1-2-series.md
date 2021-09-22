@@ -1,5 +1,7 @@
 # 1/2 Series
 
+![1-2-series](https://cdn.myanimelist.net/images/manga/1/26688.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 1/2 ハネムーン

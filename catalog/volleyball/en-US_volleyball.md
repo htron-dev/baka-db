@@ -1,5 +1,7 @@
 # Volleyball
 
+![volleyball](https://cdn.myanimelist.net/images/manga/2/230074.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: バリボ

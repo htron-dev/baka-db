@@ -1,5 +1,7 @@
 # Valkyrie Drive: Mermaid Specials
 
+![valkyrie-drive-mermaid-specials](https://cdn.myanimelist.net/images/anime/8/76450.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: ヴァルキリードライヴ　マーメイド　ミニ OVA

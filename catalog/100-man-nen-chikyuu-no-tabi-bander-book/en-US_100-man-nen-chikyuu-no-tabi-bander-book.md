@@ -1,5 +1,7 @@
 # 100-man-nen Chikyuu no Tabi: Bander Book
 
+![100-man-nen-chikyuu-no-tabi-bander-book](https://cdn.myanimelist.net/images/anime/7/56777.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 100 万年地球の旅 バンダーブック

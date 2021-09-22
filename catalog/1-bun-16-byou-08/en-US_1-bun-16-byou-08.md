@@ -1,5 +1,7 @@
 # 1-bun 16-byou 08
 
+![1-bun-16-byou-08](https://cdn.myanimelist.net/images/manga/2/179521.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 32

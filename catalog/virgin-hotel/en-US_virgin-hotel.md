@@ -1,5 +1,7 @@
 # Virgin Hotel
 
+![virgin-hotel](https://cdn.myanimelist.net/images/manga/1/207538.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # 2-14 jiken
 
+![2-14-jiken](https://cdn.myanimelist.net/images/manga/3/2498.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # 1 cm yori mo Chikaku
 
+![1-cm-yori-mo-chikaku](https://cdn.myanimelist.net/images/manga/2/190424.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

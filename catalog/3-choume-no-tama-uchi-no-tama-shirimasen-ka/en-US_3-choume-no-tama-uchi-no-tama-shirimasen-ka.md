@@ -1,5 +1,7 @@
 # 3 Choume no Tama: Uchi no Tama Shirimasen ka?
 
+![3-choume-no-tama-uchi-no-tama-shirimasen-ka](https://cdn.myanimelist.net/images/anime/9/74055.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 36
 -   **original-name**: 3 丁目のタマ うちのタマ知りませんか?

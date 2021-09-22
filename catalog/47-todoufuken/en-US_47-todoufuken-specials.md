@@ -1,5 +1,7 @@
 # 47 Todoufuken Specials
 
+![47-todoufuken-specials](https://cdn.myanimelist.net/images/anime/8/71643.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 47 都道府犬 2012 夏

@@ -1,5 +1,7 @@
 # 2DK
 
+![2-dk](https://cdn.myanimelist.net/images/manga/1/170471.jpg)
+
 -   **type**: manga
 -   **chapters**: 159
 -   **original-name**: 2DK

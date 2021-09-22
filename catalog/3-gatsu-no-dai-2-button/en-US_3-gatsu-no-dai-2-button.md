@@ -1,5 +1,7 @@
 # 3-gatsu no Dai-2 Button
 
+![3-gatsu-no-dai-2-button](https://cdn.myanimelist.net/images/manga/2/90069.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

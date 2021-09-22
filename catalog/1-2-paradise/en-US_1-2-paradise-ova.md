@@ -1,5 +1,7 @@
 # 1+2=Paradise
 
+![1-2-paradise](https://cdn.myanimelist.net/images/anime/2/3679.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: １＋２＝パラダイス

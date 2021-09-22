@@ -1,5 +1,7 @@
 # 2001-ya Monogatari
 
+![2001-ya-monogatari](https://cdn.myanimelist.net/images/manga/5/131711.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # 1/100 Train Station
 
+![1-100-train-station](https://cdn.myanimelist.net/images/anime/3/88868.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 1/100 TRAIN Station

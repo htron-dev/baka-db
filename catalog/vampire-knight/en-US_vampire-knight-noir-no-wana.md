@@ -1,5 +1,7 @@
 # Vampire Knight: Noir no Wana
 
+![vampire-knight-noir-no-wana](https://cdn.myanimelist.net/images/manga/1/14547.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

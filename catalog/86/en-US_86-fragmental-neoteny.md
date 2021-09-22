@@ -1,5 +1,7 @@
 # 86: Fragmental Neoteny
 
+![86-fragmental-neoteny](https://cdn.myanimelist.net/images/manga/3/250318.jpg)
+
 -   **type**: manga
 -   **original-name**: 86―エイティシックス―フラグメンタルネオテニー
 -   **start-date**: 2021-04-27

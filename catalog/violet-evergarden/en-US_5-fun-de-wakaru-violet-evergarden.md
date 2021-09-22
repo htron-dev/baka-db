@@ -1,5 +1,7 @@
 # 5-fun de Wakaru: Violet Evergarden
 
+![5-fun-de-wakaru-violet-evergarden](https://cdn.myanimelist.net/images/anime/1318/115622.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: 5 分で分かるアニメ『ヴァイオレット・エヴァーガーデン

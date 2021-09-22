@@ -1,5 +1,7 @@
 # 2-gatsu no Shousha: Zettai Goukaku no Kyoushitsu
 
+![2-gatsu-no-shousha-zettai-goukaku-no-kyoushitsu](https://cdn.myanimelist.net/images/manga/3/208092.jpg)
+
 -   **type**: manga
 -   **original-name**: 二月の勝者 ―絶対合格の教室―
 -   **start-date**: 2017-12-04

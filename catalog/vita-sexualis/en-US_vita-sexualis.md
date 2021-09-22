@@ -1,5 +1,7 @@
 # VITA Sexualis
 
+![vita-sexualis](https://cdn.myanimelist.net/images/manga/2/152262.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 35

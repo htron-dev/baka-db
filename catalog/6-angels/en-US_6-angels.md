@@ -1,5 +1,7 @@
 # 6 Angels
 
+![6-angels](https://cdn.myanimelist.net/images/anime/6/36019.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: シックス・エンジェルズ

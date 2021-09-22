@@ -1,5 +1,7 @@
 # Variety Morning
 
+![variety-morning](https://cdn.myanimelist.net/images/manga/1/16835.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: バラエティも〜にん

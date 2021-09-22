@@ -1,5 +1,7 @@
 # 2-dome no Koi wa Usotsuki
 
+![2-dome-no-koi-wa-usotsuki](https://cdn.myanimelist.net/images/manga/3/45310.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 27

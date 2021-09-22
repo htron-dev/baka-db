@@ -1,5 +1,7 @@
 # Daitai 3-pun de Wakaru .hack History
 
+![daitai-3-pun-de-wakaru-hack-history](https://cdn.myanimelist.net/images/anime/1205/115953.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: だいたい 3 分でわかる.hack ヒストリー

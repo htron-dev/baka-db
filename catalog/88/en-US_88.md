@@ -1,5 +1,7 @@
 # 88
 
+![88](https://cdn.myanimelist.net/images/manga/2/54587.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

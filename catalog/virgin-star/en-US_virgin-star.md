@@ -1,5 +1,7 @@
 # Virgin Star
 
+![virgin-star](https://cdn.myanimelist.net/images/manga/2/26348.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

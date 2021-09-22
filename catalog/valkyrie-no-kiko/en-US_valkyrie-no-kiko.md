@@ -1,5 +1,7 @@
 # Valkyrie no Kiko
 
+![valkyrie-no-kiko](https://cdn.myanimelist.net/images/manga/1/202041.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

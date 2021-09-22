@@ -1,5 +1,7 @@
 # 1/11: Juuichi Bun no Ichi
 
+![1-11-juuichi-bun-no-ichi](https://cdn.myanimelist.net/images/manga/1/165621.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 37

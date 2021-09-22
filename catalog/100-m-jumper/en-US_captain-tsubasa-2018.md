@@ -1,5 +1,7 @@
 # Captain Tsubasa (2018)
 
+![captain-tsubasa-2018](https://cdn.myanimelist.net/images/anime/1866/91270.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: キャプテン翼

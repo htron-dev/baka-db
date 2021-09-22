@@ -1,5 +1,7 @@
 # Vampire Knight: Gekiai no Portrait
 
+![vampire-knight-gekiai-no-portrait](https://cdn.myanimelist.net/images/anime/9/59837.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ヴァンパイア騎士 激愛の肖像～ポートレート～

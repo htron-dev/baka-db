@@ -1,5 +1,7 @@
 # Captain Tsubasa: Ayaushi! Zen Nihon Jr.
 
+![captain-tsubasa-ayaushi-zen-nihon-jr](https://cdn.myanimelist.net/images/anime/1812/110681.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キャプテン翼　危うし！全日本Ｊｒ．

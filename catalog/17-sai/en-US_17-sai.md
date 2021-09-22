@@ -1,5 +1,7 @@
 # 17-sai.
 
+![17-sai](https://cdn.myanimelist.net/images/manga/2/64957.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 35

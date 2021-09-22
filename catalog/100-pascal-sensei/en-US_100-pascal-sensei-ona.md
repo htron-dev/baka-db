@@ -1,5 +1,7 @@
 # 100% Pascal-sensei
 
+![100-pascal-sensei](https://cdn.myanimelist.net/images/anime/11/85447.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: 100%パスカル先生

@@ -1,5 +1,7 @@
 # Vandread: The Second Stage
 
+![vandread-the-second-stage](https://cdn.myanimelist.net/images/manga/4/184340.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 24

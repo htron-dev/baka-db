@@ -1,5 +1,7 @@
 # .hack//Quantum: Sore ike! Bokura no Chimuchimu-chan!!
 
+![hack-quantum-sore-ike-bokura-no-chimuchimu-chan](https://cdn.myanimelist.net/images/anime/4/29050.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: .hack//Quantum 映像特典 それいけ！ぼくらのチムチムちゃん！！

@@ -1,5 +1,7 @@
 # 20th Century Boys
 
+![20th-century-boys](https://cdn.myanimelist.net/images/manga/1/54437.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 249

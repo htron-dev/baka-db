@@ -1,5 +1,7 @@
 # Houkago, Kimi to Koi wo Shite.
 
+![houkago-kimi-to-koi-wo-shite](https://cdn.myanimelist.net/images/manga/3/88845.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

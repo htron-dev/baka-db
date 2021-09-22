@@ -1,5 +1,7 @@
 # 110-Ban wa Uketsukemasen!
 
+![110-ban-wa-uketsukemasen](https://cdn.myanimelist.net/images/manga/2/78455.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

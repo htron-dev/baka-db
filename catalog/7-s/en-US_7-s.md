@@ -1,5 +1,7 @@
 # 7's
 
+![7-s](https://cdn.myanimelist.net/images/manga/3/222862.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 37

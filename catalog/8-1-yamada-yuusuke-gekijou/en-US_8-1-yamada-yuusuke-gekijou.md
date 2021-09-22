@@ -1,5 +1,7 @@
 # 8.1: Yamada Yuusuke Gekijou
 
+![8-1-yamada-yuusuke-gekijou](https://cdn.myanimelist.net/images/manga/2/113761.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 6

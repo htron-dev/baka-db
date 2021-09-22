@@ -1,5 +1,7 @@
 # 5-toubun no Hanayome Movie
 
+![5-toubun-no-hanayome-movie](https://cdn.myanimelist.net/images/anime/1946/114481.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 五等分の花嫁

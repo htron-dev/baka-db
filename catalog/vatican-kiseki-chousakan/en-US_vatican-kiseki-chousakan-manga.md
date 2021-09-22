@@ -1,5 +1,7 @@
 # Vatican Kiseki Chousakan
 
+![vatican-kiseki-chousakan](https://cdn.myanimelist.net/images/manga/2/191927.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 28

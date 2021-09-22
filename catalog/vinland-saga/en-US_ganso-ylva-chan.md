@@ -1,5 +1,7 @@
 # Ganso Ylva-chan
 
+![ganso-ylva-chan](https://cdn.myanimelist.net/images/manga/2/36648.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 元祖ユルヴァちゃん

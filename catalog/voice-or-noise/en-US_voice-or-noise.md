@@ -1,5 +1,7 @@
 # Voice or Noise
 
+![voice-or-noise](https://cdn.myanimelist.net/images/manga/3/129369.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 54

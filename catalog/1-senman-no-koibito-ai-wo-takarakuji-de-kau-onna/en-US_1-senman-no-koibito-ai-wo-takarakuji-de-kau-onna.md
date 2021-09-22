@@ -1,5 +1,7 @@
 # 1 Senman no Koibito: Ai wo Takarakuji de Kau Onna
 
+![1-senman-no-koibito-ai-wo-takarakuji-de-kau-onna](https://cdn.myanimelist.net/images/manga/1/163733.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

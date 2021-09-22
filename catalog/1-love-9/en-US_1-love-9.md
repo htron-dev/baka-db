@@ -1,5 +1,7 @@
 # 1 Love 9
 
+![1-love-9](https://cdn.myanimelist.net/images/manga/2/146597.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 32

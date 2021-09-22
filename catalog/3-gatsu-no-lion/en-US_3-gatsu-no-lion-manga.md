@@ -1,5 +1,7 @@
 # 3-gatsu no Lion
 
+![3-gatsu-no-lion](https://cdn.myanimelist.net/images/manga/1/52281.jpg)
+
 -   **type**: manga
 -   **original-name**: 3 月のライオン
 -   **start-date**: 2007-07-13

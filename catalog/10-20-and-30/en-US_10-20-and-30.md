@@ -1,5 +1,7 @@
 # 10, 20, and 30
 
+![10-20-and-30](https://cdn.myanimelist.net/images/manga/3/30288.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **chapters**: 78

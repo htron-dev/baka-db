@@ -1,5 +1,7 @@
 # 1999 Shanghai
 
+![1999-shanghai](https://cdn.myanimelist.net/images/manga/1/27096.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

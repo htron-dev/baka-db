@@ -1,5 +1,7 @@
 # 105 Goushitsu no Inu
 
+![105-goushitsu-no-inu](https://cdn.myanimelist.net/images/manga/2/59213.jpg)
+
 -   **type**: manga
 -   **original-name**: 105 号室の犬
 

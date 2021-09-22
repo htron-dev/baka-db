@@ -1,5 +1,7 @@
 # Vitamin Z
 
+![vitamin-z](https://cdn.myanimelist.net/images/manga/2/28922.jpg)
+
 -   **type**: manga
 -   **start-date**: 2009-03-20
 

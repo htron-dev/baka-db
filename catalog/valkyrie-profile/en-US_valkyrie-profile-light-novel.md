@@ -1,5 +1,7 @@
 # Valkyrie Profile
 
+![valkyrie-profile](https://cdn.myanimelist.net/images/manga/3/13808.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

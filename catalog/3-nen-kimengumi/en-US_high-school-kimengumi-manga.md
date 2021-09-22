@@ -1,5 +1,7 @@
 # High School! Kimengumi
 
+![high-school-kimengumi](https://cdn.myanimelist.net/images/manga/1/187153.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 261

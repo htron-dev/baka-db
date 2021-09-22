@@ -1,5 +1,7 @@
 # 12-sai. 2nd Season
 
+![12-sai-2nd-season](https://cdn.myanimelist.net/images/anime/13/76326.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 12 歳。第 2 期

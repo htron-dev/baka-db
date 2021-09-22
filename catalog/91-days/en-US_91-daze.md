@@ -1,5 +1,7 @@
 # 91 Daze
 
+![91-daze](https://cdn.myanimelist.net/images/anime/9/88885.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: 91 Daze

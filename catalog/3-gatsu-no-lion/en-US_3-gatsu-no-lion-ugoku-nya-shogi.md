@@ -1,5 +1,7 @@
 # 3-gatsu no Lion: Ugoku! Nya Shogi
 
+![3-gatsu-no-lion-ugoku-nya-shogi](https://cdn.myanimelist.net/images/anime/1694/93396.jpg)
+
 -   **type**: special
 -   **episodes**: 10
 -   **original-name**: うごく！ニャー将棋

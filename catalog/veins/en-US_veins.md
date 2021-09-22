@@ -1,5 +1,7 @@
 # Veins
 
+![veins](https://cdn.myanimelist.net/images/manga/2/160617.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

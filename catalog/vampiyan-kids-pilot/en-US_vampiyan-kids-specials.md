@@ -1,5 +1,7 @@
 # Vampiyan Kids Specials
 
+![vampiyan-kids-specials](https://cdn.myanimelist.net/images/anime/7/65117.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: バンパイヤン・キッズ

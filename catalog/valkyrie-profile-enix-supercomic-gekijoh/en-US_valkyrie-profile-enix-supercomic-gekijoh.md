@@ -1,5 +1,7 @@
 # Valkyrie Profile Enix Supercomic Gekijoh
 
+![valkyrie-profile-enix-supercomic-gekijoh](https://cdn.myanimelist.net/images/manga/1/35078.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: ヴァルキリープロファイル

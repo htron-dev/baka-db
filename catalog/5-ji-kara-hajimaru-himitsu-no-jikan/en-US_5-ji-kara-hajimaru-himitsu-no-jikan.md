@@ -1,5 +1,7 @@
 # 5-ji kara Hajimaru Himitsu no Jikan
 
+![5-ji-kara-hajimaru-himitsu-no-jikan](https://cdn.myanimelist.net/images/manga/2/76433.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

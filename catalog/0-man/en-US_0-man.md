@@ -1,5 +1,7 @@
 # 0 Man
 
+![0-man](https://cdn.myanimelist.net/images/manga/1/237671.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 45

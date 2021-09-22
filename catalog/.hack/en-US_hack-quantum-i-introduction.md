@@ -1,5 +1,7 @@
 # .hack//Quantum I (introduction)
 
+![hack-quantum-i-introduction](https://cdn.myanimelist.net/images/manga/2/99633.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

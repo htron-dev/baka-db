@@ -1,5 +1,7 @@
 # Vanilla Spider
 
+![vanilla-spider](https://cdn.myanimelist.net/images/manga/2/184296.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

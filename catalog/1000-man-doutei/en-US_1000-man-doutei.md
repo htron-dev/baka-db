@@ -1,5 +1,7 @@
 # 1000-man Doutei
 
+![1000-man-doutei](https://cdn.myanimelist.net/images/manga/3/244570.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

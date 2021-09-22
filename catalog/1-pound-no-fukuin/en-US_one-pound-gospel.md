@@ -1,5 +1,7 @@
 # One Pound Gospel
 
+![one-pound-gospel](https://cdn.myanimelist.net/images/anime/1577/99202.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: １ポンドの福音

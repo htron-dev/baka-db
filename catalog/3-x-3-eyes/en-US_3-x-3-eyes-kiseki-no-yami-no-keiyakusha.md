@@ -1,5 +1,7 @@
 # 3x3 Eyes: Kiseki no Yami no Keiyakusha
 
+![3-x-3-eyes-kiseki-no-yami-no-keiyakusha](https://cdn.myanimelist.net/images/manga/1/197447.jpg)
+
 -   **type**: manga
 -   **original-name**: 3×3EYES 鬼籍の闇の契約者
 -   **start-date**: 2016-12-22

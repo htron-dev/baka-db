@@ -1,5 +1,7 @@
 # Captain Tsubasa J
 
+![captain-tsubasa-j](https://cdn.myanimelist.net/images/anime/1140/92113.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 47
 -   **original-name**: キャプテン翼Ｊ

@@ -1,5 +1,7 @@
 # 2 Weeks
 
+![2-weeks](https://cdn.myanimelist.net/images/manga/1/161257.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 2WEEKS

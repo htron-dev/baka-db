@@ -1,5 +1,7 @@
 # Vexille: 2077 Nihon Sakoku
 
+![vexille-2077-nihon-sakoku](https://cdn.myanimelist.net/images/anime/9/79923.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ベクシル 2077 日本鎖国

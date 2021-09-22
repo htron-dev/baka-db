@@ -1,5 +1,7 @@
 # 7-nin no Shakespeare: Non Sanz Droict
 
+![7-nin-no-shakespeare-non-sanz-droict](https://cdn.myanimelist.net/images/manga/3/194344.jpg)
+
 -   **type**: manga
 -   **original-name**: 7 人のシェイクスピア NON SANZ DROICT
 -   **start-date**: 2016-12-12

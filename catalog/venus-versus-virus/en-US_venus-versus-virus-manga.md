@@ -1,5 +1,7 @@
 # Venus Versus Virus
 
+![venus-versus-virus](https://cdn.myanimelist.net/images/manga/4/26738.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 37

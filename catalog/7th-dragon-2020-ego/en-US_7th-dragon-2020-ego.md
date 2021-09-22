@@ -1,5 +1,7 @@
 # 7th Dragon 2020: EGO
 
+![7th-dragon-2020-ego](https://cdn.myanimelist.net/images/manga/1/121187.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # √4: Uchi no Juunin wa Minna Ijou desu.
 
+![√-4-uchi-no-juunin-wa-minna-ijou-desu](https://cdn.myanimelist.net/images/manga/2/131231.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: √4 うちの住人はみんな異常です。

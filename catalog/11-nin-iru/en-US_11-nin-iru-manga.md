@@ -1,5 +1,7 @@
 # 11-nin Iru!
 
+![11-nin-iru](https://cdn.myanimelist.net/images/manga/2/185371.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

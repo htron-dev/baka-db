@@ -1,5 +1,7 @@
 # 12-gatsu no Veronica
 
+![12-gatsu-no-veronica](https://cdn.myanimelist.net/images/manga/1/162736.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

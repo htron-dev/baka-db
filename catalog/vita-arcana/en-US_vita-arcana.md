@@ -1,5 +1,7 @@
 # Vita Arcana
 
+![vita-arcana](https://cdn.myanimelist.net/images/manga/3/77127.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

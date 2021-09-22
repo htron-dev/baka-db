@@ -1,5 +1,7 @@
 # 100 Gold Shop "Usagiya"
 
+![100-gold-shop-usagiya](https://cdn.myanimelist.net/images/manga/2/171891.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

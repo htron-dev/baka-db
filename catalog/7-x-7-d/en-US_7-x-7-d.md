@@ -1,5 +1,7 @@
 # 7x7-D
 
+![7-x-7-d](https://cdn.myanimelist.net/images/manga/4/19252.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

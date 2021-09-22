@@ -1,5 +1,7 @@
 # 4Rang
 
+![4-rang](https://cdn.myanimelist.net/images/manga/3/105815.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 4랑
 -   **start-date**: 2013-07-01

@@ -1,5 +1,7 @@
 # 4D
 
+![4-d](https://cdn.myanimelist.net/images/manga/3/170161.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 34

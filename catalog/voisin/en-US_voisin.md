@@ -1,5 +1,7 @@
 # Voisin
 
+![voisin](https://cdn.myanimelist.net/images/manga/1/198019.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

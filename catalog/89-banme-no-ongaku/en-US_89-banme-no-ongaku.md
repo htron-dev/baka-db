@@ -1,5 +1,7 @@
 # 89-banme no Ongaku
 
+![89-banme-no-ongaku](https://cdn.myanimelist.net/images/manga/2/162235.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

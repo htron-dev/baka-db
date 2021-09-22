@@ -1,5 +1,7 @@
 # Virgin na Kankei R
 
+![virgin-na-kankei-r](https://cdn.myanimelist.net/images/manga/2/54961.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 36

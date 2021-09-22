@@ -1,5 +1,7 @@
 # 86
 
+![86](https://cdn.myanimelist.net/images/anime/1987/117507.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 86―エイティシックス―

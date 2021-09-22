@@ -1,5 +1,7 @@
 # Violet Evergarden
 
+![violet-evergarden](https://cdn.myanimelist.net/images/anime/1795/95088.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ヴァイオレット・エヴァーガーデン

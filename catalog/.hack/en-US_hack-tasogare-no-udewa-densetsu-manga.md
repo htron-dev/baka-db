@@ -1,5 +1,7 @@
 # .hack//Tasogare no Udewa Densetsu
 
+![hack-tasogare-no-udewa-densetsu](https://cdn.myanimelist.net/images/manga/2/191726.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

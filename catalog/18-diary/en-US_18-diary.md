@@ -1,5 +1,7 @@
 # 18 Diary
 
+![18-diary](https://cdn.myanimelist.net/images/manga/1/25879.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # 2 Dome no Koi no Hajimari wa
 
+![2-dome-no-koi-no-hajimari-wa](https://cdn.myanimelist.net/images/manga/2/33853.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

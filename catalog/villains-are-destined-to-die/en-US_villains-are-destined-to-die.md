@@ -1,5 +1,7 @@
 # Villains Are Destined to Die
 
+![villains-are-destined-to-die](https://cdn.myanimelist.net/images/manga/1/240980.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 악역의 엔딩은 죽음뿐
 -   **start-date**: 2020-05-01

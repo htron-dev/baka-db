@@ -1,5 +1,7 @@
 # Brilliant na Mahou
 
+![brilliant-na-mahou](https://cdn.myanimelist.net/images/manga/2/164442.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

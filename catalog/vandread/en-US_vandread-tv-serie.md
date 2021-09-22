@@ -1,5 +1,7 @@
 # Vandread
 
+![vandread](https://cdn.myanimelist.net/images/anime/5/75446.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ヴァンドレッド

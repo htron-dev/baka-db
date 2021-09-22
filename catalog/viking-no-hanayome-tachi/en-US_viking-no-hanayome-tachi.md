@@ -1,5 +1,7 @@
 # Viking no Hanayome-tachi
 
+![viking-no-hanayome-tachi](https://cdn.myanimelist.net/images/manga/1/228807.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: バイキングの花嫁たち

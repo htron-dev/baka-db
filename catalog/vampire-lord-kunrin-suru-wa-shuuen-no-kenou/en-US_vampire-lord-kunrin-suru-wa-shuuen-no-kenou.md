@@ -1,5 +1,7 @@
 # Vampire/Lord: Kunrin Suru wa, Shuuen no Kenou
 
+![vampire-lord-kunrin-suru-wa-shuuen-no-kenou](https://cdn.myanimelist.net/images/manga/2/182207.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ヴァンパイア/ロード~君臨するは、終焉の賢王~
 -   **start-date**: 2016-09-01

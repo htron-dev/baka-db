@@ -1,5 +1,7 @@
 # 1/2 Cigarette
 
+![1-2-cigarette](https://cdn.myanimelist.net/images/manga/1/190478.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

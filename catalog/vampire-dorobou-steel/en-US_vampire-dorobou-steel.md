@@ -1,5 +1,7 @@
 # Vampire Dorobou Steel
 
+![vampire-dorobou-steel](https://cdn.myanimelist.net/images/manga/1/172285.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

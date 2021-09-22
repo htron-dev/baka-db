@@ -1,5 +1,7 @@
 # Victor Hyper Robot Compo CM's
 
+![victor-hyper-robot-compo-c-ms](https://cdn.myanimelist.net/images/anime/1910/115167.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ビクター　ロボットコンポ CM

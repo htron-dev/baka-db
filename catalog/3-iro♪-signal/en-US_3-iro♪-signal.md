@@ -1,5 +1,7 @@
 # 3-iro♪Signal
 
+![3-iro♪-signal](https://cdn.myanimelist.net/images/manga/3/109905.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

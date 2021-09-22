@@ -1,5 +1,7 @@
 # Vampire Summer Time
 
+![vampire-summer-time](https://cdn.myanimelist.net/images/manga/1/159501.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # 17-sai: Hajimete no H
 
+![17-sai-hajimete-no-h](https://cdn.myanimelist.net/images/manga/3/4976.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

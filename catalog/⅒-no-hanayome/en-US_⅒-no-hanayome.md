@@ -1,5 +1,7 @@
 # ⅒ no Hanayome
 
+![⅒-no-hanayome](https://cdn.myanimelist.net/images/manga/1/222507.jpg)
+
 -   **type**: manga
 -   **original-name**: ⅒ の花嫁
 -   **start-date**: 2019-03-15

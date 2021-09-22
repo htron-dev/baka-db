@@ -1,5 +1,7 @@
 # 9-banme no Musashi
 
+![9-banme-no-musashi](https://cdn.myanimelist.net/images/manga/3/147771.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **chapters**: 108

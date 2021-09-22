@@ -1,5 +1,7 @@
 # 81 Diver
 
+![81-diver](https://cdn.myanimelist.net/images/manga/5/47931.jpg)
+
 -   **type**: manga
 -   **volumes**: 35
 -   **chapters**: 375

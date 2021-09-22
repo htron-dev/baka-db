@@ -1,5 +1,7 @@
 # 13 Gatsu no Higeki
 
+![13-gatsu-no-higeki](https://cdn.myanimelist.net/images/manga/2/26272.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 13 月の悲劇

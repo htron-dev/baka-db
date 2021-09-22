@@ -1,5 +1,7 @@
 # .hack//Tasogare no Udewa Densetsu
 
+![hack-tasogare-no-udewa-densetsu](https://cdn.myanimelist.net/images/anime/4/78321.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: .hack//黄昏の腕輪伝説

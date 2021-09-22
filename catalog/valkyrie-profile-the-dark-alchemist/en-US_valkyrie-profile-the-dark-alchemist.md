@@ -1,5 +1,7 @@
 # Valkyrie Profile: The Dark Alchemist
 
+![valkyrie-profile-the-dark-alchemist](https://cdn.myanimelist.net/images/manga/2/5390.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 暗黑炼金术师

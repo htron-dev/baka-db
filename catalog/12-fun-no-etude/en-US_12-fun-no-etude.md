@@ -1,5 +1,7 @@
 # 12-fun no Étude
 
+![12-fun-no-etude](https://cdn.myanimelist.net/images/manga/2/164277.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

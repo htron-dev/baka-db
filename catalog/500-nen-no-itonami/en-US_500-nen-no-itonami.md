@@ -1,5 +1,7 @@
 # 500-nen no Itonami
 
+![500-nen-no-itonami](https://cdn.myanimelist.net/images/manga/1/72559.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

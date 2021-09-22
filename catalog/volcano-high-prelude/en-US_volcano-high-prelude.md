@@ -1,5 +1,7 @@
 # Volcano High Prelude
 
+![volcano-high-prelude](https://cdn.myanimelist.net/images/manga/1/98983.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **original-name**: 화산고 Pre Story

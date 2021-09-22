@@ -1,5 +1,7 @@
 # 1LDK, Soshite 2JK.
 
+![1-ldk-soshite-2-jk](https://cdn.myanimelist.net/images/manga/1/246247.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 58

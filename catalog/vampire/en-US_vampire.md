@@ -1,5 +1,7 @@
 # Vampire
 
+![vampire](https://cdn.myanimelist.net/images/manga/3/168044.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 29

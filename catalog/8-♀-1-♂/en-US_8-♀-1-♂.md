@@ -1,5 +1,7 @@
 # 8♀1♂
 
+![8-♀-1-♂](https://cdn.myanimelist.net/images/manga/2/71775.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 100

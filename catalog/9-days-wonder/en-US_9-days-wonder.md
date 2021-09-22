@@ -1,5 +1,7 @@
 # 9 Days Wonder
 
+![9-days-wonder](https://cdn.myanimelist.net/images/manga/2/202975.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

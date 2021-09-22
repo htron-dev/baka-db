@@ -1,5 +1,7 @@
 # 8 Man Infinity
 
+![8-man-infinity](https://cdn.myanimelist.net/images/manga/3/117135.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 8 マン インフィニティ

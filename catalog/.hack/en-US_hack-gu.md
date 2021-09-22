@@ -1,5 +1,7 @@
 # .hack//GU
 
+![hack-gu](https://cdn.myanimelist.net/images/manga/4/15485.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 23

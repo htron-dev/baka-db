@@ -1,5 +1,7 @@
 # 2 Espressos
 
+![2-espressos](https://cdn.myanimelist.net/images/manga/3/177083.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: トゥー・エスプレッソ

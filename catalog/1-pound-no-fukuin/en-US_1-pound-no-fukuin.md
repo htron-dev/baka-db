@@ -1,5 +1,7 @@
 # 1 Pound no Fukuin
 
+![1-pound-no-fukuin](https://cdn.myanimelist.net/images/manga/2/19250.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 37

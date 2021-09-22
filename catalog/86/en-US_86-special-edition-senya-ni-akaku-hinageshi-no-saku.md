@@ -1,5 +1,7 @@
 # 86 Special Edition: Senya ni Akaku Hinageshi no Saku
 
+![86-special-edition-senya-ni-akaku-hinageshi-no-saku](https://cdn.myanimelist.net/images/anime/1971/115976.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 86-エイティシックス- Special Edition「戦野に紅く雛罌粟の咲く」

@@ -1,5 +1,7 @@
 # 101 no Kuroneko
 
+![101-no-kuroneko](https://cdn.myanimelist.net/images/manga/3/233331.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # 1K no Ousama
 
+![1-k-no-ousama](https://cdn.myanimelist.net/images/manga/3/226774.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

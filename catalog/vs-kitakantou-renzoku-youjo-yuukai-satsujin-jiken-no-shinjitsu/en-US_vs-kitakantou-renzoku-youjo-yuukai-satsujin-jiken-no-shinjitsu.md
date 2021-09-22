@@ -1,5 +1,7 @@
 # VS - Kitakantou Renzoku Youjo Yuukai Satsujin Jiken no Shinjitsu
 
+![vs-kitakantou-renzoku-youjo-yuukai-satsujin-jiken-no-shinjitsu](https://cdn.myanimelist.net/images/manga/2/64973.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

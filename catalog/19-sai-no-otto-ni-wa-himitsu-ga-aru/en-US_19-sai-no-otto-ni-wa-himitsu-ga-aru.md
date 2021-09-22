@@ -1,5 +1,7 @@
 # 19-sai no Otto ni wa Himitsu ga Aru
 
+![19-sai-no-otto-ni-wa-himitsu-ga-aru](https://cdn.myanimelist.net/images/manga/2/245975.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

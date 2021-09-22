@@ -1,5 +1,7 @@
 # 090: Eko to Issho
 
+![090-eko-to-issho](https://cdn.myanimelist.net/images/manga/2/54095.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 60

@@ -1,5 +1,7 @@
 # 9S
 
+![9-s](https://cdn.myanimelist.net/images/manga/1/128231.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 9S ＜ナインエス＞
 -   **start-date**: 2003-09-10

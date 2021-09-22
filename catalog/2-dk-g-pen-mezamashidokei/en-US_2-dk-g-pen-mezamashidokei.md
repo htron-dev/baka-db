@@ -1,5 +1,7 @@
 # 2DK, G Pen, Mezamashidokei.
 
+![2-dk-g-pen-mezamashidokei](https://cdn.myanimelist.net/images/manga/2/158983.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 45

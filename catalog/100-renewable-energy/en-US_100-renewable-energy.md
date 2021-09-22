@@ -1,5 +1,7 @@
 # 100% Renewable Energy
 
+![100-renewable-energy](https://cdn.myanimelist.net/images/anime/1626/98877.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 100% Renewable Energy

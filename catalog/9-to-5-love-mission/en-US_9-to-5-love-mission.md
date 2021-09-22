@@ -1,5 +1,7 @@
 # 9to5 Love×Mission
 
+![9-to-5-love-mission](https://cdn.myanimelist.net/images/manga/1/24075.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 13

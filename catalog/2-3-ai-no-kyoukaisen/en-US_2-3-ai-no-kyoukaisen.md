@@ -1,5 +1,7 @@
 # 2/3 Ai no Kyoukaisen
 
+![2-3-ai-no-kyoukaisen](https://cdn.myanimelist.net/images/manga/2/22263.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

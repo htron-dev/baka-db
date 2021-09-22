@@ -1,5 +1,7 @@
 # 5-gatsu no Ochakai
 
+![5-gatsu-no-ochakai](https://cdn.myanimelist.net/images/manga/1/170579.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

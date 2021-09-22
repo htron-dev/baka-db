@@ -1,5 +1,7 @@
 # 17 Easy
 
+![17-easy](https://cdn.myanimelist.net/images/manga/1/32730.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 17EASY

@@ -1,5 +1,7 @@
 # Video Girl Ai
 
+![video-girl-ai](https://cdn.myanimelist.net/images/manga/2/185816.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 131

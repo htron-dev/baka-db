@@ -1,5 +1,7 @@
 # Vampire-chan ga Neratteru
 
+![vampire-chan-ga-neratteru](https://cdn.myanimelist.net/images/manga/1/206702.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ヴァンパイアちゃんが狙ってる

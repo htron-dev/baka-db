@@ -1,5 +1,7 @@
 # .hack//Cell
 
+![hack-cell](https://cdn.myanimelist.net/images/manga/4/126613.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 13

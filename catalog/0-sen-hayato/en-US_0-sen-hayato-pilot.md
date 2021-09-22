@@ -1,5 +1,7 @@
 # 0-sen Hayato Pilot
 
+![0-sen-hayato-pilot](https://cdn.myanimelist.net/images/anime/3/81775.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 0 戦はやと 奇襲

@@ -1,5 +1,7 @@
 # 9 Love Letters
 
+![9-love-letters](https://cdn.myanimelist.net/images/manga/1/35376.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ナインラブレタース

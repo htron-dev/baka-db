@@ -1,5 +1,7 @@
 # Vitamin
 
+![vitamin](https://cdn.myanimelist.net/images/manga/3/4903.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 16
 

@@ -1,5 +1,7 @@
 # Tsukipro The Animation
 
+![tsukipro-the-animation](https://cdn.myanimelist.net/images/anime/4/88060.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: TSUKIPRO THE ANIMATION

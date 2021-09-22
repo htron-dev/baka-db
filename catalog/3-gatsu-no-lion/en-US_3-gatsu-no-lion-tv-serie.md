@@ -1,5 +1,7 @@
 # 3-gatsu no Lion
 
+![3-gatsu-no-lion](https://cdn.myanimelist.net/images/anime/6/82898.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: 3 月のライオン

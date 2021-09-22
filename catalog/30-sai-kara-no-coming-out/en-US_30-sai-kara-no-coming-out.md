@@ -1,5 +1,7 @@
 # 30-sai kara no Coming Out
 
+![30-sai-kara-no-coming-out](https://cdn.myanimelist.net/images/manga/3/225589.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

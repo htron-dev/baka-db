@@ -1,5 +1,7 @@
 # 29-sai Dokushin Chuuken Boukensha no Nichijou
 
+![29-sai-dokushin-chuuken-boukensha-no-nichijou](https://cdn.myanimelist.net/images/manga/2/178929.jpg)
+
 -   **type**: manga
 -   **original-name**: 29 歳独身中堅冒険者の日常
 -   **start-date**: 2016-01-09

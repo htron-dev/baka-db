@@ -1,5 +1,7 @@
 # 45-funkan no Mahoutsukai
 
+![45-funkan-no-mahoutsukai](https://cdn.myanimelist.net/images/manga/1/207644.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

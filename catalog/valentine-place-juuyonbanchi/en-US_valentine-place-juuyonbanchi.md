@@ -1,5 +1,7 @@
 # Valentine Place Juuyonbanchi
 
+![valentine-place-juuyonbanchi](https://cdn.myanimelist.net/images/manga/2/229260.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: バレンタイン・プレイス十四番地

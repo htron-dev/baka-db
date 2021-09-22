@@ -1,5 +1,7 @@
 # 2020 Nyeon Ujuui Wonder Kiddy
 
+![2020-nyeon-ujuui-wonder-kiddy](https://cdn.myanimelist.net/images/anime/12/77252.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 2020년 우주의 원더키디

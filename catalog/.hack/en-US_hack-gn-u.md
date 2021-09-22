@@ -1,5 +1,7 @@
 # .hack//GnU
 
+![hack-gn-u](https://cdn.myanimelist.net/images/manga/1/4776.jpg)
+
 -   **type**: manga
 -   **chapters**: 6
 -   **original-name**: .hack//GnU （ドットハックグニュー）

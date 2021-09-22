@@ -1,5 +1,7 @@
 # Vividred Operation
 
+![vividred-operation](https://cdn.myanimelist.net/images/manga/2/117147.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

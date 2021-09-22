@@ -1,5 +1,7 @@
 # 1 + 1
 
+![1-1](https://cdn.myanimelist.net/images/manga/3/5950.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: いち たす いち

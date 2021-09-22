@@ -1,5 +1,7 @@
 # Versailles of the Dead
 
+![versailles-of-the-dead](https://cdn.myanimelist.net/images/manga/3/189602.jpg)
+
 -   **type**: manga
 -   **original-name**: ベルサイユオブザデッド
 -   **start-date**: 2016-01-07

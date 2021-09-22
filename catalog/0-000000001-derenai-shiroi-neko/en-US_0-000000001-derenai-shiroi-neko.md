@@ -1,5 +1,7 @@
 # 0.000000001% Derenai Shiroi Neko
 
+![0-000000001-derenai-shiroi-neko](https://cdn.myanimelist.net/images/manga/2/159875.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 21

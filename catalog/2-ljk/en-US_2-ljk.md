@@ -1,5 +1,7 @@
 # 2LJK
 
+![2-ljk](https://cdn.myanimelist.net/images/manga/2/222942.jpg)
+
 -   **type**: manga
 -   **original-name**: 2LJK
 -   **start-date**: 2019-02-09

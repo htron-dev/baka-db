@@ -1,5 +1,7 @@
 # 100% no Kimi e
 
+![100-no-kimi-e](https://cdn.myanimelist.net/images/manga/2/180316.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

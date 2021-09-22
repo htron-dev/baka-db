@@ -1,5 +1,7 @@
 # 500 Mile
 
+![500-mile](https://cdn.myanimelist.net/images/manga/1/21530.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

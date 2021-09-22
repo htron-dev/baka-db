@@ -1,5 +1,7 @@
 # Victorian Cocoa: Ladies Maid to Gin no Ansatsusha
 
+![victorian-cocoa-ladies-maid-to-gin-no-ansatsusha](https://cdn.myanimelist.net/images/manga/1/238685.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

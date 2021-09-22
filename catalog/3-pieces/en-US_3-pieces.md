@@ -1,5 +1,7 @@
 # 3 Pieces
 
+![3-pieces](https://cdn.myanimelist.net/images/manga/4/2566.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 

@@ -1,5 +1,7 @@
 # Rec
 
+![rec](https://cdn.myanimelist.net/images/anime/8/34621.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 9
 -   **original-name**: レック

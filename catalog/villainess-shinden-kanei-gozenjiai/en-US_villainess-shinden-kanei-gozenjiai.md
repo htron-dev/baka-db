@@ -1,5 +1,7 @@
 # Villainess: Shinden Kanei Gozenjiai
 
+![villainess-shinden-kanei-gozenjiai](https://cdn.myanimelist.net/images/manga/3/238911.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

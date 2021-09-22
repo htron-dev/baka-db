@@ -1,5 +1,7 @@
 # √W.P.B.
 
+![√w-p-b](https://cdn.myanimelist.net/images/manga/2/169856.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # 7 Call
 
+![7-call](https://cdn.myanimelist.net/images/manga/3/28164.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 7 コール

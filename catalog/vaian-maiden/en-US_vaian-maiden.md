@@ -1,5 +1,7 @@
 # Vaia'n Maiden
 
+![vaian-maiden](https://cdn.myanimelist.net/images/manga/3/100209.jpg)
+
 -   **type**: manga
 -   **original-name**: ヴァイアンメイデン
 -   **start-date**: 2012-11-19

@@ -1,5 +1,7 @@
 # Villains Tail
 
+![villains-tail](https://cdn.myanimelist.net/images/manga/2/158174.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

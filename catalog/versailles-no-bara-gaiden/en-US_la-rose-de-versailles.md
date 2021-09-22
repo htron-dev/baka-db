@@ -1,5 +1,7 @@
 # La Rose de Versailles
 
+![la-rose-de-versailles](https://cdn.myanimelist.net/images/anime/6/64921.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ベルサイユのばら

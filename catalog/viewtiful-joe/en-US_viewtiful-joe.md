@@ -1,5 +1,7 @@
 # Viewtiful Joe
 
+![viewtiful-joe](https://cdn.myanimelist.net/images/anime/1/278.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: ビューティフル ジョー

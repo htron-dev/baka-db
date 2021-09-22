@@ -1,5 +1,7 @@
 # Captain Tsubasa: Sekai Daikessen!! Jr. World Cup
 
+![captain-tsubasa-sekai-daikessen-jr-world-cup](https://cdn.myanimelist.net/images/anime/1/2250.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キャプテン翼　世界大決戦！！Ｊｒ．ワールドカップ

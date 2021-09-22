@@ -1,5 +1,7 @@
 # 100-en Shop Tenin ga Isekai Trip shita Kekka.
 
+![100-en-shop-tenin-ga-isekai-trip-shita-kekka](https://cdn.myanimelist.net/images/manga/1/166738.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

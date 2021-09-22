@@ -1,5 +1,7 @@
 # Valkyrie Complex Zero
 
+![valkyrie-complex-zero](https://cdn.myanimelist.net/images/manga/1/34244.jpg)
+
 -   **type**: manga
 -   **original-name**: ヴァルキリーコンプレックス ZERO
 -   **start-date**: 2009-05-26

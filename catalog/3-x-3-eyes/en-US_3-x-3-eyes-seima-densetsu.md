@@ -1,5 +1,7 @@
 # 3x3 Eyes: Seima Densetsu
 
+![3-x-3-eyes-seima-densetsu](https://cdn.myanimelist.net/images/anime/7/12744.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 3×3 EYES 聖魔伝説

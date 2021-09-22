@@ -1,5 +1,7 @@
 # 3x3 Eyes Gaiden
 
+![3-x-3-eyes-gaiden](https://cdn.myanimelist.net/images/manga/1/145097.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 3×3 EYES 外伝

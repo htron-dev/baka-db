@@ -1,5 +1,7 @@
 # 3-gatsu no Lion Shouwa Ibun: Shakunetsu no Toki
 
+![3-gatsu-no-lion-shouwa-ibun-shakunetsu-no-toki](https://cdn.myanimelist.net/images/manga/3/173990.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 85

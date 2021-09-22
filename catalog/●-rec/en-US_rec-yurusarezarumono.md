@@ -1,5 +1,7 @@
 # Rec: Yurusarezarumono
 
+![rec-yurusarezarumono](https://cdn.myanimelist.net/images/anime/8/34619.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: レック 許されざる者

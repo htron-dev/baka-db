@@ -1,5 +1,7 @@
 # 3H Before Kiss
 
+![3-h-before-kiss](https://cdn.myanimelist.net/images/manga/3/19859.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

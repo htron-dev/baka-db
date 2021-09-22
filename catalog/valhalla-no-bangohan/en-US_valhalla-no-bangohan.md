@@ -1,5 +1,7 @@
 # Valhalla no Bangohan
 
+![valhalla-no-bangohan](https://cdn.myanimelist.net/images/manga/3/172827.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: ヴァルハラの晩ご飯

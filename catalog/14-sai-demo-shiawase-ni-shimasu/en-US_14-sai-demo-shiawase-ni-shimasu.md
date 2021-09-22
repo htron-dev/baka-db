@@ -1,5 +1,7 @@
 # 14-sai demo Shiawase ni Shimasu!
 
+![14-sai-demo-shiawase-ni-shimasu](https://cdn.myanimelist.net/images/manga/1/228095.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

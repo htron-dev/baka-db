@@ -1,5 +1,7 @@
 # Vector Ball
 
+![vector-ball](https://cdn.myanimelist.net/images/manga/1/180496.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 44

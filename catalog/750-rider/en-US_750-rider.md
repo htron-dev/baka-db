@@ -1,5 +1,7 @@
 # 750 Rider
 
+![750-rider](https://cdn.myanimelist.net/images/manga/3/105049.jpg)
+
 -   **type**: manga
 -   **volumes**: 50
 -   **original-name**: 750 ライダー (ナナハンライダー)

@@ -1,5 +1,7 @@
 # Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou
 
+![violet-evergarden-gaiden-eien-to-jidou-shuki-ningyou](https://cdn.myanimelist.net/images/anime/1667/112943.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ヴァイオレット・エヴァーガーデン 外伝 -永遠と自動手記人形-

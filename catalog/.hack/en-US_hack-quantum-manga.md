@@ -1,5 +1,7 @@
 # .hack//Quantum+
 
+![hack-quantum](https://cdn.myanimelist.net/images/manga/3/99635.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: .hack//Quantum+

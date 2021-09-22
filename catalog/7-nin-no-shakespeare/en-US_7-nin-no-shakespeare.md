@@ -1,5 +1,7 @@
 # 7-nin no Shakespeare
 
+![7-nin-no-shakespeare](https://cdn.myanimelist.net/images/manga/2/184030.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 66

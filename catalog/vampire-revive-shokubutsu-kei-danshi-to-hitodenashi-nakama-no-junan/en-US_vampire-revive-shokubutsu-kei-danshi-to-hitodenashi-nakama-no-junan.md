@@ -1,5 +1,7 @@
 # Vampire Revive: Shokubutsu-kei Danshi to Hitodenashi Nakama no Junan
 
+![vampire-revive-shokubutsu-kei-danshi-to-hitodenashi-nakama-no-junan](https://cdn.myanimelist.net/images/manga/1/158778.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ヴァンパイア　リヴァイヴ～植物系男子と人でなし仲間の受難～

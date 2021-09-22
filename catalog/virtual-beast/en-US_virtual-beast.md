@@ -1,5 +1,7 @@
 # Virtual Beast
 
+![virtual-beast](https://cdn.myanimelist.net/images/manga/2/3260.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ヴァーチャル・ビースト

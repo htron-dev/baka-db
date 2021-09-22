@@ -1,5 +1,7 @@
 # Vampire Roumanshiki
 
+![vampire-roumanshiki](https://cdn.myanimelist.net/images/manga/2/247095.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

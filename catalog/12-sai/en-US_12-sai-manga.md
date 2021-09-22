@@ -1,5 +1,7 @@
 # 12-sai.
 
+![12-sai](https://cdn.myanimelist.net/images/manga/3/108301.jpg)
+
 -   **type**: manga
 -   **original-name**: 12 歳。
 -   **start-date**: 2012-03-03

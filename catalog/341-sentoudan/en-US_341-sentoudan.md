@@ -1,5 +1,7 @@
 # 341 Sentoudan
 
+![341-sentoudan](https://cdn.myanimelist.net/images/manga/3/219458.jpg)
+
 -   **type**: manga
 -   **original-name**: 341 戦闘団
 -   **start-date**: 2019-06-12

@@ -1,5 +1,7 @@
 # Vandread
 
+![vandread](https://cdn.myanimelist.net/images/manga/3/111541.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

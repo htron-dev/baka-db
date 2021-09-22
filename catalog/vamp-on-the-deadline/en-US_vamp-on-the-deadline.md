@@ -1,5 +1,7 @@
 # Vamp on the Deadline
 
+![vamp-on-the-deadline](https://cdn.myanimelist.net/images/manga/3/163304.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 22

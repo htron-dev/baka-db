@@ -1,5 +1,7 @@
 # 12-nin no Yasashii Koroshiya - Libra: Kuroki Shinpan
 
+![12-nin-no-yasashii-koroshiya-libra-kuroki-shinpan](https://cdn.myanimelist.net/images/manga/2/24008.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

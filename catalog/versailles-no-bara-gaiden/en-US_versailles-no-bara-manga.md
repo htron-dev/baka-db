@@ -1,5 +1,7 @@
 # Versailles no Bara
 
+![versailles-no-bara](https://cdn.myanimelist.net/images/manga/3/155632.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 82

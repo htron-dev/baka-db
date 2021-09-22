@@ -1,5 +1,7 @@
 # 34-sai Mushoku-san
 
+![34-sai-mushoku-san](https://cdn.myanimelist.net/images/manga/2/91031.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 101

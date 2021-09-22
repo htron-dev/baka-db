@@ -1,5 +1,7 @@
 # 8-gatsu Outlaw
 
+![8-gatsu-outlaw](https://cdn.myanimelist.net/images/manga/2/193290.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 31

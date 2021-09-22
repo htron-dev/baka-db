@@ -1,5 +1,7 @@
 # 7 Daime no Tomari
 
+![7-daime-no-tomari](https://cdn.myanimelist.net/images/manga/3/38764.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

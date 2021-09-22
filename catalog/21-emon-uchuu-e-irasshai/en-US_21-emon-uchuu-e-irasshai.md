@@ -1,5 +1,7 @@
 # 21 Emon Uchuu e Irasshai!
 
+![21-emon-uchuu-e-irasshai](https://cdn.myanimelist.net/images/anime/1969/96654.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ２１エモン　宇宙へいらっしゃい！

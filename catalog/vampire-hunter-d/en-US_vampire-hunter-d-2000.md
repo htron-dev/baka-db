@@ -1,5 +1,7 @@
 # Vampire Hunter D (2000)
 
+![vampire-hunter-d-2000](https://cdn.myanimelist.net/images/anime/9/21432.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: バンパイアハンター D

@@ -1,5 +1,7 @@
 # 1, 2, 3 GO!!
 
+![1-2-3-go](https://cdn.myanimelist.net/images/manga/2/20814.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

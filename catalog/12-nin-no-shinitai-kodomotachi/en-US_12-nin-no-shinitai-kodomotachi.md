@@ -1,5 +1,7 @@
 # 12-nin no Shinitai Kodomotachi
 
+![12-nin-no-shinitai-kodomotachi](https://cdn.myanimelist.net/images/manga/3/202899.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

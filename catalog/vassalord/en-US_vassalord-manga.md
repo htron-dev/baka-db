@@ -1,5 +1,7 @@
 # Vassalord.
 
+![vassalord](https://cdn.myanimelist.net/images/manga/5/123687.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 36

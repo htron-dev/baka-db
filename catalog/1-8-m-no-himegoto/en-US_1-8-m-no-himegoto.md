@@ -1,5 +1,7 @@
 # 1.8m² no Himegoto
 
+![1-8-m-no-himegoto](https://cdn.myanimelist.net/images/manga/1/171947.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Vlad Drăculea
 
+![vlad-draculea](https://cdn.myanimelist.net/images/manga/3/233776.jpg)
+
 -   **type**: manga
 -   **original-name**: ヴラド・ドラクラ
 -   **start-date**: 2017-05-15

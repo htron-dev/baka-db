@@ -1,5 +1,7 @@
 # 2.43: Seiin Koukou Danshi Volley-bu
 
+![2-43-seiin-koukou-danshi-volley-bu](https://cdn.myanimelist.net/images/manga/3/231353.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: 2.43 清陰高校男子バレー部

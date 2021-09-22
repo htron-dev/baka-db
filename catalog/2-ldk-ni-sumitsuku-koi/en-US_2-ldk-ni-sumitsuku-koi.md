@@ -1,5 +1,7 @@
 # 2LDK ni Sumitsuku Koi
 
+![2-ldk-ni-sumitsuku-koi](https://cdn.myanimelist.net/images/manga/2/238596.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

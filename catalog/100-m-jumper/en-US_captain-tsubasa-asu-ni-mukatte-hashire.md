@@ -1,5 +1,7 @@
 # Captain Tsubasa: Asu ni Mukatte Hashire!
 
+![captain-tsubasa-asu-ni-mukatte-hashire](https://cdn.myanimelist.net/images/anime/11/73342.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キャプテン翼　明日に向って走れ！

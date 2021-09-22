@@ -1,5 +1,7 @@
 # Violet Evergarden
 
+![violet-evergarden](https://cdn.myanimelist.net/images/manga/1/190961.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 13

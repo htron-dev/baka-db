@@ -1,5 +1,7 @@
 # Owaranai Koi no Tame ni
 
+![owaranai-koi-no-tame-ni](https://cdn.myanimelist.net/images/manga/3/32802.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 終わらない恋のために

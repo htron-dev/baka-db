@@ -1,5 +1,7 @@
 # Virus: Virus Buster Serge
 
+![virus-virus-buster-serge](https://cdn.myanimelist.net/images/anime/1388/94194.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: VIRUS -VIRUS BUSTER SERGE-

@@ -1,5 +1,7 @@
 # 9th Sleep
 
+![9th-sleep](https://cdn.myanimelist.net/images/manga/2/5959.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

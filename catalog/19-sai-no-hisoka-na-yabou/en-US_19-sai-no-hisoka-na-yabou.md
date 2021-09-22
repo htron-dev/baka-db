@@ -1,5 +1,7 @@
 # 19-sai no Hisoka na Yabou
 
+![19-sai-no-hisoka-na-yabou](https://cdn.myanimelist.net/images/manga/4/65699.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

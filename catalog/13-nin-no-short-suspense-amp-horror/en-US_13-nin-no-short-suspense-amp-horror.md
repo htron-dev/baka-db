@@ -1,5 +1,7 @@
 # 13-nin no Short Suspense &amp; Horror
 
+![13-nin-no-short-suspense-amp-horror](https://cdn.myanimelist.net/images/manga/1/126821.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Vanilla Frosting
 
+![vanilla-frosting](https://cdn.myanimelist.net/images/manga/1/137431.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Vagabond
 
+![vagabond](https://cdn.myanimelist.net/images/manga/2/181787.jpg)
+
 -   **type**: manga
 -   **volumes**: 37
 -   **chapters**: 327

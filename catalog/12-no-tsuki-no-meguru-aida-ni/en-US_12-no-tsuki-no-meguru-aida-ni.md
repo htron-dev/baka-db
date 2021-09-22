@@ -1,5 +1,7 @@
 # 12 no Tsuki no Meguru Aida ni
 
+![12-no-tsuki-no-meguru-aida-ni](https://cdn.myanimelist.net/images/manga/1/21195.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

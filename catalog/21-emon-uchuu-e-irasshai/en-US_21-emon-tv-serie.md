@@ -1,5 +1,7 @@
 # 21 Emon
 
+![21-emon](https://cdn.myanimelist.net/images/anime/11/69883.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: 21 エモン

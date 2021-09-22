@@ -1,5 +1,7 @@
 # Boku wa Misaki Tarou
 
+![boku-wa-misaki-tarou](https://cdn.myanimelist.net/images/manga/1/230388.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Valhait Rising: Kandou e.
 
+![valhait-rising-kandou-e](https://cdn.myanimelist.net/images/anime/1433/106087.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ヴァルハイト ライジング 感動へ。

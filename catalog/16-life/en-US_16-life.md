@@ -1,5 +1,7 @@
 # 16 Life
 
+![16-life](https://cdn.myanimelist.net/images/manga/4/123189.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

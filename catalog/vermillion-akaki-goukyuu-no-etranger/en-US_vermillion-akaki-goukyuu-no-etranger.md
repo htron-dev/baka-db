@@ -1,5 +1,7 @@
 # Vermillion: Akaki Goukyuu no Étranger
 
+![vermillion-akaki-goukyuu-no-etranger](https://cdn.myanimelist.net/images/manga/1/151952.jpg)
+
 -   **type**: light-novel
 -   **original-name**: Vermillion 朱き強弓のエトランジェ
 -   **start-date**: 2014-09-10

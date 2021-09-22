@@ -1,5 +1,7 @@
 # Vampire Master Dark Crimson
 
+![vampire-master-dark-crimson](https://cdn.myanimelist.net/images/manga/2/41147.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 32

@@ -1,5 +1,7 @@
 # 37.5°C no Namida
 
+![37-5-c-no-namida](https://cdn.myanimelist.net/images/manga/1/190107.jpg)
+
 -   **type**: manga
 -   **original-name**: 37.5℃ の涙
 -   **start-date**: 2013-10-24

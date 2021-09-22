@@ -1,5 +1,7 @@
 # 112 Sabsections of Skyline
 
+![112-sabsections-of-skyline](https://cdn.myanimelist.net/images/anime/1651/99098.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 112 Sabsections Of Skyline

@@ -1,5 +1,7 @@
 # Vagrant Soldier Ares
 
+![vagrant-soldier-ares](https://cdn.myanimelist.net/images/manga/2/129069.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 26
 -   **chapters**: 207

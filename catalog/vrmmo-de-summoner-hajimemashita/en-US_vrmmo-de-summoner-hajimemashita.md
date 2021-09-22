@@ -1,5 +1,7 @@
 # VRMMO de Summoner Hajimemashita
 
+![vrmmo-de-summoner-hajimemashita](https://cdn.myanimelist.net/images/manga/1/237415.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

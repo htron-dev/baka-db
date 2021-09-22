@@ -1,5 +1,7 @@
 # 29 to JK
 
+![29-to-jk](https://cdn.myanimelist.net/images/manga/2/206829.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 29

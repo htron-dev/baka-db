@@ -1,5 +1,7 @@
 # 4-koma Manga Show Stadium: Tron ni Kobun
 
+![4-koma-manga-show-stadium-tron-ni-kobun](https://cdn.myanimelist.net/images/manga/3/79229.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 4 コママンガ笑スタジアム トロンにコブン

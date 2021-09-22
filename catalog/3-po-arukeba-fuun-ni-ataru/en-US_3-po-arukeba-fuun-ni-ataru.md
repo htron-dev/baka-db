@@ -1,5 +1,7 @@
 # 3po Arukeba Fuun ni Ataru
 
+![3-po-arukeba-fuun-ni-ataru](https://cdn.myanimelist.net/images/manga/1/21149.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # 8-jou no Carnival
 
+![8-jou-no-carnival](https://cdn.myanimelist.net/images/manga/1/206828.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

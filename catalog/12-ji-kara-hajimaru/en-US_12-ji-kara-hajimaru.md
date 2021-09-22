@@ -1,5 +1,7 @@
 # 12-ji kara Hajimaru
 
+![12-ji-kara-hajimaru](https://cdn.myanimelist.net/images/manga/3/175395.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Vampire in the Garden
 
+![vampire-in-the-garden](https://cdn.myanimelist.net/images/anime/1181/109970.jpg)
+
 -   **type**: ona
 -   **original-name**: ヴァンパイヤ・イン・ザ・ガーデン
 -   **start-date**: 2021-01-20

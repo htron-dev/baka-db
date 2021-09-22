@@ -1,5 +1,7 @@
 # Oishii Otoko
 
+![oishii-otoko](https://cdn.myanimelist.net/images/manga/2/96581.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # 30-Minute Walk
 
+![30-minute-walk](https://cdn.myanimelist.net/images/manga/3/247321.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 걸어서 30분
 -   **start-date**: 2017-09-22

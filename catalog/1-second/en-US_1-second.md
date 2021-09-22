@@ -1,5 +1,7 @@
 # 1 Second
 
+![1-second](https://cdn.myanimelist.net/images/manga/3/247705.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 1초
 -   **start-date**: 2019-03-14

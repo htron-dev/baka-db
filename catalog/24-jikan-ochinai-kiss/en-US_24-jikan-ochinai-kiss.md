@@ -1,5 +1,7 @@
 # 24-jikan Ochinai Kiss
 
+![24-jikan-ochinai-kiss](https://cdn.myanimelist.net/images/manga/2/245611.jpg)
+
 -   **type**: manga
 -   **original-name**: 24 時間オチない KISS
 -   **start-date**: 2017-06-06

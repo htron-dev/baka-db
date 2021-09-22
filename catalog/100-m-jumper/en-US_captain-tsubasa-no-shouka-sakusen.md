@@ -1,5 +1,7 @@
 # Captain Tsubasa no Shouka Sakusen
 
+![captain-tsubasa-no-shouka-sakusen](https://cdn.myanimelist.net/images/anime/1968/98949.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: キャプテン翼の消火作戦

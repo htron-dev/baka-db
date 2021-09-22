@@ -1,5 +1,7 @@
 # 1-ko Shita kara, Kiss sasete.
 
+![1-ko-shita-kara-kiss-sasete](https://cdn.myanimelist.net/images/manga/2/225777.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

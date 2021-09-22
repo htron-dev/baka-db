@@ -1,5 +1,7 @@
 # 25-ji no Vacances
 
+![25-ji-no-vacances](https://cdn.myanimelist.net/images/manga/1/192284.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

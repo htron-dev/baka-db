@@ -1,5 +1,7 @@
 # Vampire Sensou
 
+![vampire-sensou](https://cdn.myanimelist.net/images/anime/1341/96594.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ヴァンパイヤー戦争

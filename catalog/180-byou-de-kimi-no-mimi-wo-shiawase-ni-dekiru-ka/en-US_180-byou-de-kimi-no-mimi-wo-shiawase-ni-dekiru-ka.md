@@ -1,5 +1,7 @@
 # 180 Byou de Kimi no Mimi wo Shiawase ni Dekiru ka?
 
+![180-byou-de-kimi-no-mimi-wo-shiawase-ni-dekiru-ka](https://cdn.myanimelist.net/images/anime/1976/116572.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 180 秒で君の耳を幸せにできるか?
 -   **start-date**: 2021-10-20

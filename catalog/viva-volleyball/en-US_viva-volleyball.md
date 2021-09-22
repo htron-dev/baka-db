@@ -1,5 +1,7 @@
 # Viva! Volleyball
 
+![viva-volleyball](https://cdn.myanimelist.net/images/manga/3/180936.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 29

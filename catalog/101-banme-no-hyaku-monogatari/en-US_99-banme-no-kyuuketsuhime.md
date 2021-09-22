@@ -1,5 +1,7 @@
 # 99-banme no Kyuuketsuhime
 
+![99-banme-no-kyuuketsuhime](https://cdn.myanimelist.net/images/manga/3/165208.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

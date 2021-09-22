@@ -1,5 +1,7 @@
 # Venus Project: Climax
 
+![venus-project-climax](https://cdn.myanimelist.net/images/anime/8/74980.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 6
 -   **original-name**: VENUS PROJECT（ヴィーナス プロジェクト）－CLIMAX－

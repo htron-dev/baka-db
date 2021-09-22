@@ -1,5 +1,7 @@
 # 50 Rules for Teenagers
 
+![50-rules-for-teenagers](https://cdn.myanimelist.net/images/manga/3/2118.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 

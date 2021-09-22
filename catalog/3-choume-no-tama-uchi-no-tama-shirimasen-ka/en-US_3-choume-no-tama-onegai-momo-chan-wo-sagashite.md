@@ -1,5 +1,7 @@
 # 3 Choume no Tama: Onegai! Momo-chan wo Sagashite!!
 
+![3-choume-no-tama-onegai-momo-chan-wo-sagashite](https://cdn.myanimelist.net/images/anime/7/35279.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 3 丁目のタマ おねがい! モモちゃんを捜して!!

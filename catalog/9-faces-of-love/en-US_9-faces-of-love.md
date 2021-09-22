@@ -1,5 +1,7 @@
 # 9 Faces of Love
 
+![9-faces-of-love](https://cdn.myanimelist.net/images/manga/1/21537.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 9

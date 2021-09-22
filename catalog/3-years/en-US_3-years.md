@@ -1,5 +1,7 @@
 # 3 Years
 
+![3-years](https://cdn.myanimelist.net/images/manga/1/248447.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

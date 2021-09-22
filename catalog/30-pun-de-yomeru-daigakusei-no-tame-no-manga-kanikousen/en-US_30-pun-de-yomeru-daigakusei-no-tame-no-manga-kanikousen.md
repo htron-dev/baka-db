@@ -1,5 +1,7 @@
 # 30-pun de Yomeru...... Daigakusei no Tame no Manga Kanikousen
 
+![30-pun-de-yomeru-daigakusei-no-tame-no-manga-kanikousen](https://cdn.myanimelist.net/images/manga/3/239690.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 30 分で読める……大学生のためのマンガ蟹工船

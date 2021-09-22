@@ -1,5 +1,7 @@
 # 12-sai kara no Himitsu
 
+![12-sai-kara-no-himitsu](https://cdn.myanimelist.net/images/manga/1/35162.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

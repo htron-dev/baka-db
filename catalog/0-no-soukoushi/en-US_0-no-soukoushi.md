@@ -1,5 +1,7 @@
 # 0 no Soukoushi
 
+![0-no-soukoushi](https://cdn.myanimelist.net/images/manga/3/2008.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

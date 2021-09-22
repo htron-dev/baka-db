@@ -1,5 +1,7 @@
 # Virgin Ripper
 
+![virgin-ripper](https://cdn.myanimelist.net/images/manga/1/193151.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 40

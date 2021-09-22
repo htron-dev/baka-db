@@ -1,5 +1,7 @@
 # Voice Rush!!
 
+![voice-rush](https://cdn.myanimelist.net/images/manga/1/222696.jpg)
+
 -   **type**: manga
 -   **original-name**: ボイスラ!!
 -   **start-date**: 2018-12-06

@@ -1,5 +1,7 @@
 # Hero: 4-punkan no Marigold Before
 
+![hero-4-punkan-no-marigold-before](https://cdn.myanimelist.net/images/manga/3/235817.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

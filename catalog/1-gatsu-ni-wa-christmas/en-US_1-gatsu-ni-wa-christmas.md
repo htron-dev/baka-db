@@ -1,5 +1,7 @@
 # 1-gatsu ni wa Christmas
 
+![1-gatsu-ni-wa-christmas](https://cdn.myanimelist.net/images/anime/11/46845.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 1 月には Christmas

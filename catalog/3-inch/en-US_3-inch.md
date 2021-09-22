@@ -1,5 +1,7 @@
 # 3 Inch
 
+![3-inch](https://cdn.myanimelist.net/images/manga/3/215365.jpg)
+
 -   **type**: manga
 -   **original-name**: 3 インチ
 -   **start-date**: 2018-08-13

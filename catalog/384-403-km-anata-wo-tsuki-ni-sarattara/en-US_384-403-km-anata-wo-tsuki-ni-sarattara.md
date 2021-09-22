@@ -1,5 +1,7 @@
 # 384,403 km: Anata wo Tsuki ni Sarattara
 
+![384-403-km-anata-wo-tsuki-ni-sarattara](https://cdn.myanimelist.net/images/manga/3/181559.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

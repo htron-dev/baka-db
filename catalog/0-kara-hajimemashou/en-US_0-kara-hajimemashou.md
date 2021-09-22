@@ -1,5 +1,7 @@
 # 0 kara Hajimemashou
 
+![0-kara-hajimemashou](https://cdn.myanimelist.net/images/manga/3/152647.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 0 からはじめましょう

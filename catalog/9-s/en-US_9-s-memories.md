@@ -1,5 +1,7 @@
 # 9S: memories
 
+![9-s-memories](https://cdn.myanimelist.net/images/manga/1/128227.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

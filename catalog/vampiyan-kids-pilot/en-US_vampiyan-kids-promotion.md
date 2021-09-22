@@ -1,5 +1,7 @@
 # Vampiyan Kids Promotion
 
+![vampiyan-kids-promotion](https://cdn.myanimelist.net/images/anime/10/65119.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: プロモーション

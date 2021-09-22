@@ -1,5 +1,7 @@
 # Chuugakusei
 
+![chuugakusei](https://cdn.myanimelist.net/images/anime/10/76394.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 中学星

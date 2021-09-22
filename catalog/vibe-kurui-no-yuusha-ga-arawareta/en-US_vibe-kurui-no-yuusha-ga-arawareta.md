@@ -1,5 +1,7 @@
 # Vibe Kurui no Yuusha ga Arawareta!
 
+![vibe-kurui-no-yuusha-ga-arawareta](https://cdn.myanimelist.net/images/manga/1/169763.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: バイブ狂いの勇者があらわれた！

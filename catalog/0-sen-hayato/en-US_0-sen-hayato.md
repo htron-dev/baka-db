@@ -1,5 +1,7 @@
 # 0-sen Hayato
 
+![0-sen-hayato](https://cdn.myanimelist.net/images/anime/6/35847.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 38
 -   **original-name**: 0 戦はやと

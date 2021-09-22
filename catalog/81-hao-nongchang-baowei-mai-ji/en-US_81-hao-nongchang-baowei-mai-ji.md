@@ -1,5 +1,7 @@
 # 81 Hao Nongchang: Baowei Mai Ji
 
+![81-hao-nongchang-baowei-mai-ji](https://cdn.myanimelist.net/images/anime/1147/115595.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 81 号农场之保卫麦咭

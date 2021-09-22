@@ -1,5 +1,7 @@
 # 8-gatsu no Ghost
 
+![8-gatsu-no-ghost](https://cdn.myanimelist.net/images/manga/1/194156.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

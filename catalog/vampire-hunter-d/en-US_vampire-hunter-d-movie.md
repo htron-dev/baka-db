@@ -1,5 +1,7 @@
 # Vampire Hunter D
 
+![vampire-hunter-d](https://cdn.myanimelist.net/images/anime/4/24228.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 吸血鬼〈バンパイア〉ハンター D

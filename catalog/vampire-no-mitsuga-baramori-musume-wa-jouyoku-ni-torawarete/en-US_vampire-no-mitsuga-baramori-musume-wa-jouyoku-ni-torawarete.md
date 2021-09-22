@@ -1,5 +1,7 @@
 # Vampire no Mitsuga: Baramori Musume wa Jouyoku ni Torawarete
 
+![vampire-no-mitsuga-baramori-musume-wa-jouyoku-ni-torawarete](https://cdn.myanimelist.net/images/manga/2/194049.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ヴァンパイアの蜜牙～薔薇守娘は情欲に囚われて～

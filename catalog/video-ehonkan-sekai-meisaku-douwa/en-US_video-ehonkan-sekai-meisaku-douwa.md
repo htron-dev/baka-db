@@ -1,5 +1,7 @@
 # Video Ehonkan Sekai Meisaku Douwa
 
+![video-ehonkan-sekai-meisaku-douwa](https://cdn.myanimelist.net/images/anime/7/71938.jpg)
+
 -   **type**: ova
 -   **episodes**: 26
 -   **original-name**: ビデオえほん館 世界名作童話

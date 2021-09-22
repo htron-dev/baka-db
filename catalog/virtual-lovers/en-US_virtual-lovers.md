@@ -1,5 +1,7 @@
 # Virtual Lovers
 
+![virtual-lovers](https://cdn.myanimelist.net/images/manga/4/19046.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

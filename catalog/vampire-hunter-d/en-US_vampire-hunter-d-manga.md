@@ -1,5 +1,7 @@
 # Vampire Hunter D
 
+![vampire-hunter-d](https://cdn.myanimelist.net/images/manga/2/76275.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: バンパイアハンター D

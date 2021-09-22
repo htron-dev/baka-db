@@ -1,5 +1,7 @@
 # 15-sai
 
+![15-sai](https://cdn.myanimelist.net/images/manga/3/128405.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

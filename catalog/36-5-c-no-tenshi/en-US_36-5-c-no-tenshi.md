@@ -1,5 +1,7 @@
 # 36.5°C no Tenshi
 
+![36-5-c-no-tenshi](https://cdn.myanimelist.net/images/manga/3/205870.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

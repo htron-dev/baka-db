@@ -1,5 +1,7 @@
 # 86 2nd Season
 
+![86-2nd-season](https://cdn.myanimelist.net/images/anime/1321/117508.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 86―エイティシックス―
 -   **start-date**: 2021-10-20

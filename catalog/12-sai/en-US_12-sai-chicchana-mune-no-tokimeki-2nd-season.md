@@ -1,5 +1,7 @@
 # 12-sai.: Chicchana Mune no Tokimeki 2nd Season
 
+![12-sai-chicchana-mune-no-tokimeki-2nd-season](https://cdn.myanimelist.net/images/anime/10/80312.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 12 歳。～ちっちゃなムネのトキメキ～

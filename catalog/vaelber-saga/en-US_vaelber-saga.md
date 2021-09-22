@@ -1,5 +1,7 @@
 # Vaelber Saga
 
+![vaelber-saga](https://cdn.myanimelist.net/images/manga/2/39784.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 33

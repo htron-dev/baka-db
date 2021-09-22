@@ -1,5 +1,7 @@
 # 1x10 Fujimiya Tokiko wa Natsukanai
 
+![1-x-10-fujimiya-tokiko-wa-natsukanai](https://cdn.myanimelist.net/images/manga/1/162762.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 22

@@ -1,5 +1,7 @@
 # Vampire no Okiniiri
 
+![vampire-no-okiniiri](https://cdn.myanimelist.net/images/manga/1/30750.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: バンパイアのおきにいり

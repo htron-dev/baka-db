@@ -1,5 +1,7 @@
 # Ari no Mama no Kimi de Ite
 
+![ari-no-mama-no-kimi-de-ite](https://cdn.myanimelist.net/images/manga/3/32801.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ありのままの君でいて

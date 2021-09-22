@@ -1,5 +1,7 @@
 # Tama & Friends: Uchi no Tama Shirimasen ka?
 
+![tama-friends-uchi-no-tama-shirimasen-ka](https://cdn.myanimelist.net/images/anime/8/82187.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 104
 -   **original-name**: タマ&フレンズ うちのタマ知りませんか?

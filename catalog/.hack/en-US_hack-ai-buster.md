@@ -1,5 +1,7 @@
 # .hack//AI Buster
 
+![hack-ai-buster](https://cdn.myanimelist.net/images/manga/1/126051.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 13

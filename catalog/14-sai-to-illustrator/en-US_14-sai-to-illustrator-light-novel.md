@@ -1,5 +1,7 @@
 # 14-sai to Illustrator
 
+![14-sai-to-illustrator](https://cdn.myanimelist.net/images/manga/1/211758.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 14 歳とイラストレーター
 -   **start-date**: 2016-11-25

@@ -1,5 +1,7 @@
 # ●Rec
 
+![●-rec](https://cdn.myanimelist.net/images/manga/1/188843.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 127

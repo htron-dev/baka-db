@@ -1,5 +1,7 @@
 # 17-sai, Natsu.: Seifuku no Jouji
 
+![17-sai-natsu-seifuku-no-jouji](https://cdn.myanimelist.net/images/manga/2/110805.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

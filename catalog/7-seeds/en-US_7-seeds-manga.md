@@ -1,5 +1,7 @@
 # 7 Seeds
 
+![7-seeds](https://cdn.myanimelist.net/images/manga/3/196607.jpg)
+
 -   **type**: manga
 -   **volumes**: 35
 -   **chapters**: 177

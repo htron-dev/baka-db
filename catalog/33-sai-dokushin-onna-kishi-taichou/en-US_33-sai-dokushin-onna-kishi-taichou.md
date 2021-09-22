@@ -1,5 +1,7 @@
 # 33-sai Dokushin Onna Kishi Taichou.
 
+![33-sai-dokushin-onna-kishi-taichou](https://cdn.myanimelist.net/images/manga/1/235519.jpg)
+
 -   **type**: manga
 -   **original-name**: 33 歳独身女騎士隊長。
 -   **start-date**: 2015-10-03

@@ -1,5 +1,7 @@
 # .hack//Quantum
 
+![hack-quantum](https://cdn.myanimelist.net/images/anime/5/28371.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: .hack//Quantum

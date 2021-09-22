@@ -1,5 +1,7 @@
 # 81 Hao Nongchang: Fengkuang de Mai Ji
 
+![81-hao-nongchang-fengkuang-de-mai-ji](https://cdn.myanimelist.net/images/anime/1037/115616.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 81 号农场之疯狂的麦咭

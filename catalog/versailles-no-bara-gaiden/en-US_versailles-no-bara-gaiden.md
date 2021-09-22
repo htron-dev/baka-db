@@ -1,5 +1,7 @@
 # Versailles no Bara Gaiden
 
+![versailles-no-bara-gaiden](https://cdn.myanimelist.net/images/manga/2/13142.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # 13th Boy
 
+![13-th-boy](https://cdn.myanimelist.net/images/manga/1/30253.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 12
 -   **chapters**: 45

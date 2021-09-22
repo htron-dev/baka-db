@@ -1,5 +1,7 @@
 # Void's Enigmatic Mansion
 
+![voids-enigmatic-mansion](https://cdn.myanimelist.net/images/manga/2/189583.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **original-name**: 보이드 씨의 기묘한 저택

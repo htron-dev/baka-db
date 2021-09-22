@@ -1,5 +1,7 @@
 # 17-sai no Mama
 
+![17-sai-no-mama](https://cdn.myanimelist.net/images/manga/3/14840.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

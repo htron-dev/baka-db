@@ -1,5 +1,7 @@
 # √3 = (Hitonami ni Ogoreya Onago)
 
+![√-3-hitonami-ni-ogoreya-onago](https://cdn.myanimelist.net/images/manga/3/166542.jpg)
+
 -   **type**: manga
 -   **original-name**: √3 ＝（ひとなみにおごれやおなご）
 -   **start-date**: 2011-11-02

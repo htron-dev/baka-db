@@ -1,5 +1,7 @@
 # 13 Nichi wa Kinyoubi?
 
+![13-nichi-wa-kinyoubi](https://cdn.myanimelist.net/images/manga/3/83691.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

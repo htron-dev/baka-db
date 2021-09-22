@@ -1,5 +1,7 @@
 # Violence Action
 
+![violence-action](https://cdn.myanimelist.net/images/manga/2/194155.jpg)
+
 -   **type**: manga
 -   **original-name**: バイオレンスアクション
 -   **start-date**: 2016-04-25

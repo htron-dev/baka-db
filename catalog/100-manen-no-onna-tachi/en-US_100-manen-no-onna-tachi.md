@@ -1,5 +1,7 @@
 # 100-manen no Onna-tachi
 
+![100-manen-no-onna-tachi](https://cdn.myanimelist.net/images/manga/1/176868.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 39

@@ -1,5 +1,7 @@
 # 11eyes: Momoiro Genmutan
 
+![11-eyes-momoiro-genmutan](https://cdn.myanimelist.net/images/anime/12/22784.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 11eyes 桃色幻夢譚 ～ rö zsaszí n é jszaka

@@ -1,5 +1,7 @@
 # 17-sai no Real
 
+![17-sai-no-real](https://cdn.myanimelist.net/images/manga/3/11883.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 17 歳のリアル

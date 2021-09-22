@@ -1,5 +1,7 @@
 # Viper's Creed
 
+![vipers-creed](https://cdn.myanimelist.net/images/anime/10/56471.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ヴァイパーズ・クリード

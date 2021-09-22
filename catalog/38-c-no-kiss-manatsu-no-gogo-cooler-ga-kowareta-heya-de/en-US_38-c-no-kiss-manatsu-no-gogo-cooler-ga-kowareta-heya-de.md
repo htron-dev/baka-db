@@ -1,5 +1,7 @@
 # 38°C no Kiss: Manatsu no Gogo, Cooler ga Kowareta Heya de...
 
+![38-c-no-kiss-manatsu-no-gogo-cooler-ga-kowareta-heya-de](https://cdn.myanimelist.net/images/manga/1/235357.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 36

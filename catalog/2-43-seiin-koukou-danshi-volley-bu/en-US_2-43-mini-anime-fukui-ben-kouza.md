@@ -1,5 +1,7 @@
 # 2.43 Mini Anime: Fukui-ben Kouza
 
+![2-43-mini-anime-fukui-ben-kouza](https://cdn.myanimelist.net/images/anime/1300/111150.jpg)
+
 -   **type**: ona
 -   **episodes**: 8
 -   **original-name**: 2.43 ミニアニメ 福井弁講座

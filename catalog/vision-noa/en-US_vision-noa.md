@@ -1,5 +1,7 @@
 # Vision Noa
 
+![vision-noa](https://cdn.myanimelist.net/images/manga/2/81366.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ヴィジョン ノア

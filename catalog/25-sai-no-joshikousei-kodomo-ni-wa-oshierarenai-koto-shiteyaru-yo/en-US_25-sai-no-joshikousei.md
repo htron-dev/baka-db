@@ -1,5 +1,7 @@
 # 25-sai no Joshikousei
 
+![25-sai-no-joshikousei](https://cdn.myanimelist.net/images/anime/12/89091.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 25 歳の女子高生

@@ -1,5 +1,7 @@
 # Versailles no Bara to Onna-tachi
 
+![versailles-no-bara-to-onna-tachi](https://cdn.myanimelist.net/images/anime/13/19137.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ベルサイユのばらと女たち

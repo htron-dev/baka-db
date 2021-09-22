@@ -1,5 +1,7 @@
 # 17-sai, Hajimete: Hatsunetsu
 
+![17-sai-hajimete-hatsunetsu](https://cdn.myanimelist.net/images/manga/1/188584.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

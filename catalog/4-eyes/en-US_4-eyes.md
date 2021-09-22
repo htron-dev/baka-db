@@ -1,5 +1,7 @@
 # 4.Eyes
 
+![4-eyes](https://cdn.myanimelist.net/images/anime/13/73774.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 4・Eyes

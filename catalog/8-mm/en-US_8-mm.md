@@ -1,5 +1,7 @@
 # 8mm
 
+![8-mm](https://cdn.myanimelist.net/images/manga/2/30243.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **original-name**: 8mm

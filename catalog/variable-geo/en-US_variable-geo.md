@@ -1,5 +1,7 @@
 # Variable Geo
 
+![variable-geo](https://cdn.myanimelist.net/images/anime/6/20912.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ヴァリアブル・ジオ

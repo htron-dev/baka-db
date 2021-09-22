@@ -1,5 +1,7 @@
 # Versailles no Bara: Seimei Aru Kagiri Aishite
 
+![versailles-no-bara-seimei-aru-kagiri-aishite](https://cdn.myanimelist.net/images/anime/11/26204.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ベルサイユのばら 生命あるかぎり愛して

@@ -1,5 +1,7 @@
 # 4-gatsu 4-kka.
 
+![4-gatsu-4-kka](https://cdn.myanimelist.net/images/manga/3/121265.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

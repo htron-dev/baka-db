@@ -1,5 +1,7 @@
 # 1/6 Jump!
 
+![1-6-jump](https://cdn.myanimelist.net/images/manga/2/35470.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Silver Chip
 
+![silver-chip](https://cdn.myanimelist.net/images/manga/2/62149.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: シルバー・チップ

@@ -1,5 +1,7 @@
 # Vinland Saga
 
+![vinland-saga](https://cdn.myanimelist.net/images/manga/2/188925.jpg)
+
 -   **type**: manga
 -   **original-name**: ヴィンランド・サガ
 -   **start-date**: 2005-04-13

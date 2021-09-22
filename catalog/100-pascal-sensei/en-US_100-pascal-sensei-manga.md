@@ -1,5 +1,7 @@
 # 100% Pascal-sensei
 
+![100-pascal-sensei](https://cdn.myanimelist.net/images/manga/2/190075.jpg)
+
 -   **type**: manga
 -   **original-name**: 100%パスカル先生
 -   **start-date**: 2015-01-15

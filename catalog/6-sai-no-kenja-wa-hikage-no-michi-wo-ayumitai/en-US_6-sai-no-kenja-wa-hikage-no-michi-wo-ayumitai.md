@@ -1,5 +1,7 @@
 # 6-sai no Kenja wa Hikage no Michi wo Ayumitai
 
+![6-sai-no-kenja-wa-hikage-no-michi-wo-ayumitai](https://cdn.myanimelist.net/images/manga/1/242563.jpg)
+
 -   **type**: manga
 -   **original-name**: 6 歳の賢者は日陰の道を歩みたい
 -   **start-date**: 2020-01-26

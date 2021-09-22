@@ -1,5 +1,7 @@
 # .hack//G.U. Trilogy: Parody Mode
 
+![hack-g-u-trilogy-parody-mode](https://cdn.myanimelist.net/images/anime/10/8661.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: .hack//G.U. Trilogy

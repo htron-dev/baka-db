@@ -1,5 +1,7 @@
 # 3-nen 2-kumi no Noroiya-san
 
+![3-nen-2-kumi-no-noroiya-san](https://cdn.myanimelist.net/images/manga/1/160598.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 3 年 2 組の呪い屋さん

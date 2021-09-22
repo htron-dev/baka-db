@@ -1,5 +1,7 @@
 # 3-pun Instant no Chinmoku
 
+![3-pun-instant-no-chinmoku](https://cdn.myanimelist.net/images/manga/1/203977.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

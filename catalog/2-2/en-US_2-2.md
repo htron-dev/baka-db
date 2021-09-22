@@ -1,5 +1,7 @@
 # 2×2
 
+![2-2](https://cdn.myanimelist.net/images/manga/1/32464.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 108

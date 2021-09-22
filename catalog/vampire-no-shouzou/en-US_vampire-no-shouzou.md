@@ -1,5 +1,7 @@
 # Vampire no Shouzou
 
+![vampire-no-shouzou](https://cdn.myanimelist.net/images/manga/1/98733.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Volleyball Tsukai Gouda Gou
 
+![volleyball-tsukai-gouda-gou](https://cdn.myanimelist.net/images/manga/3/227263.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

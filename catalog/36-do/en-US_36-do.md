@@ -1,5 +1,7 @@
 # 36-do
 
+![36-do](https://cdn.myanimelist.net/images/manga/1/234246.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

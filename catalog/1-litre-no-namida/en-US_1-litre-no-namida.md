@@ -1,5 +1,7 @@
 # 1 Litre no Namida
 
+![1-litre-no-namida](https://cdn.myanimelist.net/images/manga/1/88485.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

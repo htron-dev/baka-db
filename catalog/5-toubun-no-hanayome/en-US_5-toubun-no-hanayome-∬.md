@@ -1,5 +1,7 @@
 # 5-toubun no Hanayome ∬
 
+![5-toubun-no-hanayome-∬](https://cdn.myanimelist.net/images/anime/1775/109514.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 五等分の花嫁 ∬

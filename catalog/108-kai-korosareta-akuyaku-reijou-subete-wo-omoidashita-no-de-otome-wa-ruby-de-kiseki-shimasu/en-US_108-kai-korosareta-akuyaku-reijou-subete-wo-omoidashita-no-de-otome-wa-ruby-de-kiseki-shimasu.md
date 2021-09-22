@@ -1,5 +1,7 @@
 # 108-kai Korosareta Akuyaku Reijou: Subete wo Omoidashita no de, Otome wa Ruby de Kiseki Shimasu
 
+![108-kai-korosareta-akuyaku-reijou-subete-wo-omoidashita-no-de-otome-wa-ruby-de-kiseki-shimasu](https://cdn.myanimelist.net/images/manga/2/244073.jpg)
+
 -   **type**: manga
 -   **original-name**: 108 回殺された悪役令嬢 すべてを思い出したので、乙女はルビーでキセキします
 -   **start-date**: 2020-09-26

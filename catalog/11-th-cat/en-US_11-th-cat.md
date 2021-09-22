@@ -1,5 +1,7 @@
 # 11th Cat
 
+![11-th-cat](https://cdn.myanimelist.net/images/manga/5/30204.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **original-name**: 열한번째 고양이

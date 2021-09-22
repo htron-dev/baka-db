@@ -1,5 +1,7 @@
 # VE.
 
+![ve](https://cdn.myanimelist.net/images/manga/3/29583.jpg)
+
 -   **type**: manga
 
 ## Tags

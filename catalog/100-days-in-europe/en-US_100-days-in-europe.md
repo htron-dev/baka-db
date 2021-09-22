@@ -1,5 +1,7 @@
 # 100 Days in Europe
 
+![100-days-in-europe](https://cdn.myanimelist.net/images/manga/1/222734.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **original-name**: 유럽에서 100일

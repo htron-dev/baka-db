@@ -1,5 +1,7 @@
 # Video Ranger 007
 
+![video-ranger-007](https://cdn.myanimelist.net/images/anime/9/45170.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 비디오 레인저 007

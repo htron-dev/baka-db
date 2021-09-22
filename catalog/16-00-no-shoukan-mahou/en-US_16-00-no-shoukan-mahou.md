@@ -1,5 +1,7 @@
 # 16:00 no Shoukan Mahou
 
+![16-00-no-shoukan-mahou](https://cdn.myanimelist.net/images/manga/3/159878.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 11

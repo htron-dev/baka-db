@@ -1,5 +1,7 @@
 # 6th Bullets
 
+![6th-bullets](https://cdn.myanimelist.net/images/manga/1/191978.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

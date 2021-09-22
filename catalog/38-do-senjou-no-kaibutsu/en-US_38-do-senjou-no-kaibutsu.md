@@ -1,5 +1,7 @@
 # 38-do Senjou no Kaibutsu
 
+![38-do-senjou-no-kaibutsu](https://cdn.myanimelist.net/images/manga/2/171570.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

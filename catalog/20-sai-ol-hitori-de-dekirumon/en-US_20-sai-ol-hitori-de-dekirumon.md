@@ -1,5 +1,7 @@
 # 20-sai OL: Hitori de Dekirumon
 
+![20-sai-ol-hitori-de-dekirumon](https://cdn.myanimelist.net/images/manga/2/232822.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

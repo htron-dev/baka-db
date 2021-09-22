@@ -1,5 +1,7 @@
 # Venus Senki
 
+![venus-senki](https://cdn.myanimelist.net/images/anime/1598/97574.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ヴィナス戦記

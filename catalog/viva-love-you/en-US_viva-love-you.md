@@ -1,5 +1,7 @@
 # Viva Love You
 
+![viva-love-you](https://cdn.myanimelist.net/images/manga/3/156341.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 9
 -   **original-name**: 비바 러브 유

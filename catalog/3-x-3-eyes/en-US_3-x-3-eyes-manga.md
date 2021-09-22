@@ -1,5 +1,7 @@
 # 3x3 Eyes
 
+![3-x-3-eyes](https://cdn.myanimelist.net/images/manga/3/148693.jpg)
+
 -   **type**: manga
 -   **volumes**: 40
 -   **chapters**: 577

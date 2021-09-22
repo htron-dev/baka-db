@@ -1,5 +1,7 @@
 # Barairo no Hoho no Koro
 
+![barairo-no-hoho-no-koro](https://cdn.myanimelist.net/images/manga/5/27842.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

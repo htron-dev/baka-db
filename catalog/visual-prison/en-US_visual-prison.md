@@ -1,5 +1,7 @@
 # Visual Prison
 
+![visual-prison](https://cdn.myanimelist.net/images/anime/1872/117664.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ヴィジュアルプリズン
 -   **start-date**: 2021-10-20
