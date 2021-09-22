@@ -1,5 +1,7 @@
 # The Kabocha Wine
 
+![the-kabocha-wine](https://cdn.myanimelist.net/images/anime/2/26634.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 95
 -   **original-name**: Ｔｈｅかぼちゃワイン

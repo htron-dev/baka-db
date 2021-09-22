@@ -1,5 +1,7 @@
 # Taikong Lixianji
 
+![taikong-lixianji](https://cdn.myanimelist.net/images/anime/4/84741.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 太空历险记

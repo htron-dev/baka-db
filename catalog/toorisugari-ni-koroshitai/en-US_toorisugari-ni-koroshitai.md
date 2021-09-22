@@ -1,5 +1,7 @@
 # Toorisugari ni Koroshitai
 
+![toorisugari-ni-koroshitai](https://cdn.myanimelist.net/images/manga/2/23142.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 通りすがりに殺したい

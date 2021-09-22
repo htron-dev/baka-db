@@ -1,5 +1,7 @@
 # Ton-Ton Atta to Niigata no Mukashibanashi
 
+![ton-ton-atta-to-niigata-no-mukashibanashi](https://cdn.myanimelist.net/images/anime/9/28226.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: トントンあったと にいがたの昔ばなし

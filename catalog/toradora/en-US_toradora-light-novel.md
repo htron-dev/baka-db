@@ -1,5 +1,7 @@
 # Toradora!
 
+![toradora](https://cdn.myanimelist.net/images/manga/1/148447.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 62

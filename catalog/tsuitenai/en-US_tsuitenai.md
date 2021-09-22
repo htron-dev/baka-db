@@ -1,5 +1,7 @@
 # Tsuitenai!
 
+![tsuitenai](https://cdn.myanimelist.net/images/manga/2/162976.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 30

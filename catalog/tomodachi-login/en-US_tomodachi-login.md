@@ -1,5 +1,7 @@
 # Tomodachi Login
 
+![tomodachi-login](https://cdn.myanimelist.net/images/manga/2/167376.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

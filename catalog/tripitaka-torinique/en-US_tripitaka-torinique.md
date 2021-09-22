@@ -1,5 +1,7 @@
 # Tripitaka Torinique
 
+![tripitaka-torinique](https://cdn.myanimelist.net/images/manga/1/195543.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

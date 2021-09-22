@@ -1,5 +1,7 @@
 # Takane no Hana wa Midaresaki
 
+![takane-no-hana-wa-midaresaki](https://cdn.myanimelist.net/images/manga/1/225353.jpg)
+
 -   **type**: manga
 -   **original-name**: 高嶺の華は乱れ咲き
 -   **start-date**: 2019-01-15

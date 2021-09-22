@@ -1,5 +1,7 @@
 # Tenryuu
 
+![tenryuu](https://cdn.myanimelist.net/images/manga/3/16823.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 天龍

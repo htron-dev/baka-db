@@ -1,5 +1,7 @@
 # Tenchi Souzou Design-bu
 
+![tenchi-souzou-design-bu](https://cdn.myanimelist.net/images/anime/1339/113938.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 天地創造デザイン部

@@ -1,5 +1,7 @@
 # Tsurikichi Sanpei
 
+![tsurikichi-sanpei](https://cdn.myanimelist.net/images/manga/3/170335.jpg)
+
 -   **type**: manga
 -   **volumes**: 65
 -   **original-name**: 釣りキチ三平

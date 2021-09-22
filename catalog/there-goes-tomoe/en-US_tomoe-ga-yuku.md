@@ -1,5 +1,7 @@
 # Tomoe ga Yuku!
 
+![tomoe-ga-yuku](https://cdn.myanimelist.net/images/anime/4/87501.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 巴がゆく!

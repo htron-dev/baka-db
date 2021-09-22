@@ -1,5 +1,7 @@
 # Tsuribaka Nisshi​ Bangai-hen: Shadow Man
 
+![tsuribaka-nisshi-bangai-hen-shadow-man](https://cdn.myanimelist.net/images/manga/3/244501.jpg)
+
 -   **type**: manga
 -   **original-name**: 釣りバカ日誌番外編　シャドーマン
 -   **start-date**: 2021-02-12

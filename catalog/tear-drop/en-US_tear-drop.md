@@ -1,5 +1,7 @@
 # Tear Drop
 
+![tear-drop](https://cdn.myanimelist.net/images/manga/2/55557.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Kaette Kita Top wo Nerae! Kagaku Kouza
 
+![kaette-kita-top-wo-nerae-kagaku-kouza](https://cdn.myanimelist.net/images/anime/2/62467.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 帰ってきた トップをねらえ! 科学講座

@@ -1,5 +1,7 @@
 # Tsurugi to Kiri
 
+![tsurugi-to-kiri](https://cdn.myanimelist.net/images/manga/2/166203.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

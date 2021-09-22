@@ -1,5 +1,7 @@
 # Tenchi Souzou
 
+![tenchi-souzou](https://cdn.myanimelist.net/images/manga/3/28478.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 天地創造

@@ -1,5 +1,7 @@
 # Tegamibachi
 
+![tegamibachi](https://cdn.myanimelist.net/images/manga/2/154448.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 100

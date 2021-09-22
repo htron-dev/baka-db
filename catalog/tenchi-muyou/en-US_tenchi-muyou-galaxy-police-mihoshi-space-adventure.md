@@ -1,5 +1,7 @@
 # Tenchi Muyou!: Galaxy Police Mihoshi Space Adventure
 
+![tenchi-muyou-galaxy-police-mihoshi-space-adventure](https://cdn.myanimelist.net/images/anime/1274/94457.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 天地無用! 番外篇 宇宙刑事[ギャラクシーポリス]美星 銀河大冒険[スペースアドベンチャー]

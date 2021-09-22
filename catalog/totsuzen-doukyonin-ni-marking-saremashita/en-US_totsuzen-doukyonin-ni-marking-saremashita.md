@@ -1,5 +1,7 @@
 # Totsuzen, Doukyonin ni Marking Saremashita
 
+![totsuzen-doukyonin-ni-marking-saremashita](https://cdn.myanimelist.net/images/manga/1/213852.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

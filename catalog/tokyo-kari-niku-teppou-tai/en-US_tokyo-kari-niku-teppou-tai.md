@@ -1,5 +1,7 @@
 # Tokyo Kari-niku Teppou-tai
 
+![tokyo-kari-niku-teppou-tai](https://cdn.myanimelist.net/images/manga/2/208242.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

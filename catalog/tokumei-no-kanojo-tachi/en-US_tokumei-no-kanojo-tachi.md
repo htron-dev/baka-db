@@ -1,5 +1,7 @@
 # Tokumei no Kanojo-tachi
 
+![tokumei-no-kanojo-tachi](https://cdn.myanimelist.net/images/manga/1/195309.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 66

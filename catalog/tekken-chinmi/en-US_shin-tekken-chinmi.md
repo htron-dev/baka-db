@@ -1,5 +1,7 @@
 # Shin Tekken Chinmi
 
+![shin-tekken-chinmi](https://cdn.myanimelist.net/images/manga/3/75077.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **original-name**: 新鉄拳チンミ

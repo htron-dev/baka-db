@@ -1,5 +1,7 @@
 # Twins Game
 
+![twins-game](https://cdn.myanimelist.net/images/manga/3/76171.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

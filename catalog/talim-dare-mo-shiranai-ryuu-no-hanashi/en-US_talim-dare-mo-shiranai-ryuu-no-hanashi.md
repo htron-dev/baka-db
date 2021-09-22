@@ -1,5 +1,7 @@
 # Talim: Dare mo Shiranai Ryuu no Hanashi
 
+![talim-dare-mo-shiranai-ryuu-no-hanashi](https://cdn.myanimelist.net/images/manga/2/241917.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

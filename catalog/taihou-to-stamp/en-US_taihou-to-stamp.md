@@ -1,5 +1,7 @@
 # Taihou to Stamp
 
+![taihou-to-stamp](https://cdn.myanimelist.net/images/manga/1/84709.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 83

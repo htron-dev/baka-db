@@ -1,5 +1,7 @@
 # Tenkuu Senki Shurato: Sousei e no Anto
 
+![tenkuu-senki-shurato-sousei-e-no-anto](https://cdn.myanimelist.net/images/anime/1728/92419.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 天空戦記シュラト　創世への暗闘

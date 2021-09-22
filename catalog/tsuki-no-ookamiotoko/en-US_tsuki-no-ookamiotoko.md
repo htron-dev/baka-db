@@ -1,5 +1,7 @@
 # Tsuki no Ookamiotoko
 
+![tsuki-no-ookamiotoko](https://cdn.myanimelist.net/images/manga/2/16053.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

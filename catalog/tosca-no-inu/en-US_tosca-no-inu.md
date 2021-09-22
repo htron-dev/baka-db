@@ -1,5 +1,7 @@
 # Tosca no Inu
 
+![tosca-no-inu](https://cdn.myanimelist.net/images/manga/2/238188.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

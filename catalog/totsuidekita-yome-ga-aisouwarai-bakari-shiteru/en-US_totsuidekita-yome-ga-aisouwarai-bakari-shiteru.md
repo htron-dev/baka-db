@@ -1,5 +1,7 @@
 # Totsuidekita Yome ga Aisouwarai Bakari shiteru
 
+![totsuidekita-yome-ga-aisouwarai-bakari-shiteru](https://cdn.myanimelist.net/images/manga/3/236988.jpg)
+
 -   **type**: manga
 -   **original-name**: 嫁いできた嫁が愛想笑いばかりしてる
 -   **start-date**: 2020-11-09

@@ -1,5 +1,7 @@
 # Tabidachi no Hi ni
 
+![tabidachi-no-hi-ni](https://cdn.myanimelist.net/images/anime/9/66149.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 旅立ちの日に

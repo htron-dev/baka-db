@@ -1,5 +1,7 @@
 # Tobaku no Kyojin
 
+![tobaku-no-kyojin](https://cdn.myanimelist.net/images/manga/2/194480.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

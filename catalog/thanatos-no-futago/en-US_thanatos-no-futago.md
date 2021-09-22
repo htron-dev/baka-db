@@ -1,5 +1,7 @@
 # Thanatos no Futago
 
+![thanatos-no-futago](https://cdn.myanimelist.net/images/manga/2/38239.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 19

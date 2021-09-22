@@ -1,5 +1,7 @@
 # Teke Teke My Heart
 
+![teke-teke-my-heart](https://cdn.myanimelist.net/images/manga/1/16880.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: てけてけマイハート

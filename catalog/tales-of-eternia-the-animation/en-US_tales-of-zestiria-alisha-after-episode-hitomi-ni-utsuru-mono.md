@@ -1,5 +1,7 @@
 # Tales of Zestiria: Alisha After Episode - Hitomi ni Utsuru Mono
 
+![tales-of-zestiria-alisha-after-episode-hitomi-ni-utsuru-mono](https://cdn.myanimelist.net/images/manga/3/234498.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: テイルズ オブ ゼスティリア アリーシャ アフターエピソード ～瞳にうつるもの～

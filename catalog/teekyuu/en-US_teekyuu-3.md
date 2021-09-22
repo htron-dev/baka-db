@@ -1,5 +1,7 @@
 # Teekyuu 3
 
+![teekyuu-3](https://cdn.myanimelist.net/images/anime/11/73503.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: てーきゅう ３期

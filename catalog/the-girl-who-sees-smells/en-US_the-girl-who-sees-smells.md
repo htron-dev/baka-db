@@ -1,5 +1,7 @@
 # The Girl Who Sees Smells
 
+![the-girl-who-sees-smells](https://cdn.myanimelist.net/images/manga/1/189041.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 255
 -   **original-name**: 냄새를 보는 소녀

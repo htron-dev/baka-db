@@ -1,5 +1,7 @@
 # Taneyamagahara no Yoru
 
+![taneyamagahara-no-yoru](https://cdn.myanimelist.net/images/anime/8/3739.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 種山ヶ原の夜

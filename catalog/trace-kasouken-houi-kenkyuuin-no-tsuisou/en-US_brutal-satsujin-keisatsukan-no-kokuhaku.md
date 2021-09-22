@@ -1,5 +1,7 @@
 # Brutal: Satsujin Keisatsukan no Kokuhaku
 
+![brutal-satsujin-keisatsukan-no-kokuhaku](https://cdn.myanimelist.net/images/manga/2/224147.jpg)
+
 -   **type**: manga
 -   **original-name**: ブルータル 殺人警察官の告白
 -   **start-date**: 2019-06-28

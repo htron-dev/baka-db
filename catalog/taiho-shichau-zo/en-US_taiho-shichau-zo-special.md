@@ -1,5 +1,7 @@
 # Taiho Shichau zo Special
 
+![taiho-shichau-zo-special](https://cdn.myanimelist.net/images/anime/9/21692.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 20
 -   **original-name**: 逮捕しちゃうぞ Special

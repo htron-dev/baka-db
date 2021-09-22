@@ -1,5 +1,7 @@
 # The Tarot Café
 
+![the-tarot-cafe](https://cdn.myanimelist.net/images/manga/3/11515.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **chapters**: 18

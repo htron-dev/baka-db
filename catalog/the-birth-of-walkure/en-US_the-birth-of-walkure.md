@@ -1,5 +1,7 @@
 # The Birth of Walküre
 
+![the-birth-of-walkure](https://cdn.myanimelist.net/images/manga/2/184299.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

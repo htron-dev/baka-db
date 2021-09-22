@@ -1,5 +1,7 @@
 # Touhou Suzunaan: Forbidden Scrollery.
 
+![touhou-suzunaan-forbidden-scrollery](https://cdn.myanimelist.net/images/manga/2/198717.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 54

@@ -1,5 +1,7 @@
 # Tales of Destiny: Director's Cut - Hakanaki Toki no Lion
 
+![tales-of-destiny-directors-cut-hakanaki-toki-no-lion](https://cdn.myanimelist.net/images/manga/2/20582.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 32

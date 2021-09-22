@@ -1,5 +1,7 @@
 # Tansui
 
+![tansui](https://cdn.myanimelist.net/images/anime/1667/102523.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 淡水

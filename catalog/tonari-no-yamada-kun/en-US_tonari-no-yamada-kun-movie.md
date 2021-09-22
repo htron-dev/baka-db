@@ -1,5 +1,7 @@
 # Tonari no Yamada-kun
 
+![tonari-no-yamada-kun](https://cdn.myanimelist.net/images/anime/6/64545.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ホーホケキョ となりの山田くん

@@ -1,5 +1,7 @@
 # Tennen Bad
 
+![tennen-bad](https://cdn.myanimelist.net/images/manga/2/12196.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 天然 BAD

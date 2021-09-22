@@ -1,5 +1,7 @@
 # Tokushu Seiheki Kyoushitsu e Youkoso
 
+![tokushu-seiheki-kyoushitsu-e-youkoso](https://cdn.myanimelist.net/images/manga/1/219821.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 18

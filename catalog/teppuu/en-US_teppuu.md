@@ -1,5 +1,7 @@
 # Teppuu
 
+![teppuu](https://cdn.myanimelist.net/images/manga/2/159802.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 35

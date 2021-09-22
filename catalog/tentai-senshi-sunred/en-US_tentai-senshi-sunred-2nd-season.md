@@ -1,5 +1,7 @@
 # Tentai Senshi Sunred 2nd Season
 
+![tentai-senshi-sunred-2nd-season](https://cdn.myanimelist.net/images/anime/7/15051.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 天体戦士サンレッド

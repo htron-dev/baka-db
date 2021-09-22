@@ -1,5 +1,7 @@
 # The Times of Botchan
 
+![the-times-of-botchan](https://cdn.myanimelist.net/images/manga/1/12254.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

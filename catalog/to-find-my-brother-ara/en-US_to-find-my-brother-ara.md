@@ -1,5 +1,7 @@
 # To Find My Brother Ara
 
+![to-find-my-brother-ara](https://cdn.myanimelist.net/images/manga/3/25305.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 -   **chapters**: 47

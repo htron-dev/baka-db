@@ -1,5 +1,7 @@
 # Tsuratsurawaraji
 
+![tsuratsurawaraji](https://cdn.myanimelist.net/images/manga/2/36174.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: つらつらわらじ ～備前熊田家参勤絵巻～

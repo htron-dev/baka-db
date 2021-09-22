@@ -1,5 +1,7 @@
 # Toumei na Usui Mizuiro ni
 
+![toumei-na-usui-mizuiro-ni](https://cdn.myanimelist.net/images/manga/2/212942.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

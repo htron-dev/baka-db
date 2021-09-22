@@ -1,5 +1,7 @@
 # Touhou Bougetsushou: Tsuki no Inaba to Chijou no Inaba
 
+![touhou-bougetsushou-tsuki-no-inaba-to-chijou-no-inaba](https://cdn.myanimelist.net/images/manga/2/209670.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 30

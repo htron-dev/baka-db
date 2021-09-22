@@ -1,5 +1,7 @@
 # TV Anime Sousaku Hiwa: Tezuka Osamu to Anime wo Tsukutta Wakamono-tachi
 
+![tv-anime-sousaku-hiwa-tezuka-osamu-to-anime-wo-tsukutta-wakamono-tachi](https://cdn.myanimelist.net/images/manga/2/226959.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

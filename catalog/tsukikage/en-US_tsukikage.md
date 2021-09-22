@@ -1,5 +1,7 @@
 # Tsukikage
 
+![tsukikage](https://cdn.myanimelist.net/images/manga/3/172544.jpg)
+
 -   **type**: manga
 -   **original-name**: ツキカゲ
 -   **start-date**: 2014-01-27

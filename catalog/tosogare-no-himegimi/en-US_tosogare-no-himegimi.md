@@ -1,5 +1,7 @@
 # Tosogare no Himegimi
 
+![tosogare-no-himegimi](https://cdn.myanimelist.net/images/manga/2/131717.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 黄昏の姫君

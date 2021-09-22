@@ -1,5 +1,7 @@
 # Tasogare Otome x Amnesia
 
+![tasogare-otome-x-amnesia](https://cdn.myanimelist.net/images/anime/12/64435.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 黄昏乙女 × アムネジア

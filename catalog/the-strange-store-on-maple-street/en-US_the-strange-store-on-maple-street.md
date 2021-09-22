@@ -1,5 +1,7 @@
 # The Strange Store on Maple Street
 
+![the-strange-store-on-maple-street](https://cdn.myanimelist.net/images/manga/3/81053.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **original-name**: 메이플 스트리트의 이상한 가게

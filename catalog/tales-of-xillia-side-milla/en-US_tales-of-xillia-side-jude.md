@@ -1,5 +1,7 @@
 # Tales of Xillia: Side;Jude
 
+![tales-of-xillia-side-jude](https://cdn.myanimelist.net/images/manga/3/66511.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 26

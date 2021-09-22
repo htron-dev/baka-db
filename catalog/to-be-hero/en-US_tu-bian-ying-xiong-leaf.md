@@ -1,5 +1,7 @@
 # Tu Bian Ying Xiong Leaf
 
+![tu-bian-ying-xiong-leaf](https://cdn.myanimelist.net/images/anime/1655/116700.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 凸变英雄 LEAF

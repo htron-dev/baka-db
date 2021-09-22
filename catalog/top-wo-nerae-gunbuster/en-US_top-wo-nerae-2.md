@@ -1,5 +1,7 @@
 # Top wo Nerae 2!
 
+![top-wo-nerae-2](https://cdn.myanimelist.net/images/manga/1/36789.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

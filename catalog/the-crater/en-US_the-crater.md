@@ -1,5 +1,7 @@
 # The Crater
 
+![the-crater](https://cdn.myanimelist.net/images/manga/5/176647.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

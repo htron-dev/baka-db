@@ -1,5 +1,7 @@
 # Tokyo Aliens
 
+![tokyo-aliens](https://cdn.myanimelist.net/images/manga/3/234828.jpg)
+
 -   **type**: manga
 -   **original-name**: 東京エイリアンズ
 -   **start-date**: 2020-04-17

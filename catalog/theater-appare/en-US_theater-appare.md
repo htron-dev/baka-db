@@ -1,5 +1,7 @@
 # Theater Appare
 
+![theater-appare](https://cdn.myanimelist.net/images/manga/2/239776.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

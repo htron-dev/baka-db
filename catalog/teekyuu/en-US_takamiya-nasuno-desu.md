@@ -1,5 +1,7 @@
 # Takamiya Nasuno desu!
 
+![takamiya-nasuno-desu](https://cdn.myanimelist.net/images/manga/2/152020.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

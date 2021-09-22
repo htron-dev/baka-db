@@ -1,5 +1,7 @@
 # Tonari no Oniisan
 
+![tonari-no-oniisan](https://cdn.myanimelist.net/images/manga/2/77257.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

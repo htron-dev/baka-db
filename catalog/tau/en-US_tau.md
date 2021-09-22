@@ -1,5 +1,7 @@
 # Tau
 
+![tau](https://cdn.myanimelist.net/images/manga/1/4562.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

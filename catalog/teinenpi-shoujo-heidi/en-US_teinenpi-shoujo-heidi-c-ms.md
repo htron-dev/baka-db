@@ -1,5 +1,7 @@
 # Teinenpi Shoujo Heidi CMs
 
+![teinenpi-shoujo-heidi-c-ms](https://cdn.myanimelist.net/images/anime/1831/108905.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: 低燃費少女ハイジ

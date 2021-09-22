@@ -1,5 +1,7 @@
 # Tonari no Heya no Paranoia
 
+![tonari-no-heya-no-paranoia](https://cdn.myanimelist.net/images/manga/2/9084.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

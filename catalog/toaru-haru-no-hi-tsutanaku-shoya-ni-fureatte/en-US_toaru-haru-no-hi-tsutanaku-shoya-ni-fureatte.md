@@ -1,5 +1,7 @@
 # Toaru Haru no Hi, Tsutanaku Shoya ni Fureatte
 
+![toaru-haru-no-hi-tsutanaku-shoya-ni-fureatte](https://cdn.myanimelist.net/images/manga/1/169758.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: とある春の日、つたなく初夜にふれあって

@@ -1,5 +1,7 @@
 # Tonari no Banken
 
+![tonari-no-banken](https://cdn.myanimelist.net/images/manga/5/163272.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

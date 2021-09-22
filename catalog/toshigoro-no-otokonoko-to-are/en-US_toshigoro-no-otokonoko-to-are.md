@@ -1,5 +1,7 @@
 # Toshigoro no Otokonoko to Are
 
+![toshigoro-no-otokonoko-to-are](https://cdn.myanimelist.net/images/manga/3/154268.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

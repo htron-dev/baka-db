@@ -1,5 +1,7 @@
 # Trap Hole
 
+![trap-hole](https://cdn.myanimelist.net/images/manga/1/143561.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

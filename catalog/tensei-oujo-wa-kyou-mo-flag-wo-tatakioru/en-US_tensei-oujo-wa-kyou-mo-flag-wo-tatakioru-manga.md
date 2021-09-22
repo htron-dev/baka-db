@@ -1,5 +1,7 @@
 # Tensei Oujo wa Kyou mo Flag wo Tatakioru
 
+![tensei-oujo-wa-kyou-mo-flag-wo-tatakioru](https://cdn.myanimelist.net/images/manga/3/221598.jpg)
+
 -   **type**: manga
 -   **original-name**: 転生王女は今日も旗〈フラグ〉を叩き折る
 -   **start-date**: 2018-02-28

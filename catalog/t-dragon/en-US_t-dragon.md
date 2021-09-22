@@ -1,5 +1,7 @@
 # T-Dragon
 
+![t-dragon](https://cdn.myanimelist.net/images/manga/1/215360.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 52

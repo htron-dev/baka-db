@@ -1,5 +1,7 @@
 # Mahou Shoujo Pretty Sammy
 
+![mahou-shoujo-pretty-sammy](https://cdn.myanimelist.net/images/anime/13/58561.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 魔法少女プリティサミー

@@ -1,5 +1,7 @@
 # Tenchura! Tensei shitara Slime Datta Ken
 
+![tenchura-tensei-shitara-slime-datta-ken](https://cdn.myanimelist.net/images/manga/1/227301.jpg)
+
 -   **type**: manga
 -   **original-name**: 転ちゅら！ 転生したらスライムだった件
 -   **start-date**: 2019-02-26

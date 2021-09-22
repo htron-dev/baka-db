@@ -1,5 +1,7 @@
 # Top wo Nerae! Next Generation
 
+![top-wo-nerae-next-generation](https://cdn.myanimelist.net/images/manga/2/34128.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: トップをねらえ! NeXT GENERATION

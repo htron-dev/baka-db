@@ -1,5 +1,7 @@
 # Terra Formars: Bugs 2-hen
 
+![terra-formars-bugs-2-hen](https://cdn.myanimelist.net/images/anime/1149/97842.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: テラフォーマーズ　バグズ２号編

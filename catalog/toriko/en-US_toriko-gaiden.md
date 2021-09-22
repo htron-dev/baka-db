@@ -1,5 +1,7 @@
 # Toriko Gaiden
 
+![toriko-gaiden](https://cdn.myanimelist.net/images/manga/2/186378.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

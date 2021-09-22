@@ -1,5 +1,7 @@
 # Touch
 
+![touch](https://cdn.myanimelist.net/images/manga/5/84777.jpg)
+
 -   **type**: manga
 -   **volumes**: 26
 -   **chapters**: 257

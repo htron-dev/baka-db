@@ -1,5 +1,7 @@
 # TO-Y
 
+![to-y](https://cdn.myanimelist.net/images/manga/3/39513.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: トーイ

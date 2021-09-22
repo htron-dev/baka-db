@@ -1,5 +1,7 @@
 # Toumei Shounen Tantei Akira
 
+![toumei-shounen-tantei-akira](https://cdn.myanimelist.net/images/anime/11/29866.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 透明少年探偵アキラ

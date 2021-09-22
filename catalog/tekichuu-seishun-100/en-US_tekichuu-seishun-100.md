@@ -1,5 +1,7 @@
 # Tekichuu! Seishun 100%
 
+![tekichuu-seishun-100](https://cdn.myanimelist.net/images/manga/2/172901.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 的中!青春 100%

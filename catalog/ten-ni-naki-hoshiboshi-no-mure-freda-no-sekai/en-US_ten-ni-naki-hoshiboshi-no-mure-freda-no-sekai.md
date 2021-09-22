@@ -1,5 +1,7 @@
 # Ten ni Naki Hoshiboshi no Mure: Freda no Sekai
 
+![ten-ni-naki-hoshiboshi-no-mure-freda-no-sekai](https://cdn.myanimelist.net/images/manga/1/162863.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

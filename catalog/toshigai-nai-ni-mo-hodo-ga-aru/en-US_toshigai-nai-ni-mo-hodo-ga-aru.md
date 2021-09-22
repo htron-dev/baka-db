@@ -1,5 +1,7 @@
 # Toshigai Nai ni mo hodo ga Aru
 
+![toshigai-nai-ni-mo-hodo-ga-aru](https://cdn.myanimelist.net/images/manga/3/170885.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

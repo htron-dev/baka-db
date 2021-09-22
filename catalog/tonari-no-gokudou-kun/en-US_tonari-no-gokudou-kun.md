@@ -1,5 +1,7 @@
 # Tonari no Gokudou-kun
 
+![tonari-no-gokudou-kun](https://cdn.myanimelist.net/images/manga/3/62607.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: となりの極道くん。

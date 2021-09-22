@@ -1,5 +1,7 @@
 # Tottoko Hamtarou Movie 1: Ham-Ham Land Daibouken
 
+![tottoko-hamtarou-movie-1-ham-ham-land-daibouken](https://cdn.myanimelist.net/images/anime/9/17422.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: とっとこハム太郎 ハムハムランド大冒険

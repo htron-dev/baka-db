@@ -1,5 +1,7 @@
 # Taa-chan no Kaitei Ryokou
 
+![taa-chan-no-kaitei-ryokou](https://cdn.myanimelist.net/images/anime/13/15837.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ターチャンの海底旅行

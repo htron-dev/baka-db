@@ -1,5 +1,7 @@
 # Tetori Ashitori Oshiete Yaru yo
 
+![tetori-ashitori-oshiete-yaru-yo](https://cdn.myanimelist.net/images/manga/1/241611.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

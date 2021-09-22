@@ -1,5 +1,7 @@
 # Teekyuu 4
 
+![teekyuu-4](https://cdn.myanimelist.net/images/anime/10/73472.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: てーきゅう ４期

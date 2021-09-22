@@ -1,5 +1,7 @@
 # Tottemo! Luckyman
 
+![tottemo-luckyman](https://cdn.myanimelist.net/images/anime/1463/103126.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: とっても！ラッキーマン

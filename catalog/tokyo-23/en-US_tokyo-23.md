@@ -1,5 +1,7 @@
 # Tokyo 23
 
+![tokyo-23](https://cdn.myanimelist.net/images/manga/3/52743.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

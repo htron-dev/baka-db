@@ -1,5 +1,7 @@
 # Tokyo Underground
 
+![tokyo-underground](https://cdn.myanimelist.net/images/manga/5/5731.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 84

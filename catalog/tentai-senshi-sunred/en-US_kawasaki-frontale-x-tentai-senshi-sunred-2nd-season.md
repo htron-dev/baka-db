@@ -1,5 +1,7 @@
 # Kawasaki Frontale x Tentai Senshi Sunred 2nd Season
 
+![kawasaki-frontale-x-tentai-senshi-sunred-2nd-season](https://cdn.myanimelist.net/images/anime/3/21809.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: KAWASAKI Frontale× 天体戦士サンレッド

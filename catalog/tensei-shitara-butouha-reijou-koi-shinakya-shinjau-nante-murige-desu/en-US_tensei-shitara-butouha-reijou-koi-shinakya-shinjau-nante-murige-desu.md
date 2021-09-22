@@ -1,5 +1,7 @@
 # Tensei shitara Butouha Reijou!?: Koi Shinakya Shinjau nante Murige desu
 
+![tensei-shitara-butouha-reijou-koi-shinakya-shinjau-nante-murige-desu](https://cdn.myanimelist.net/images/manga/3/234308.jpg)
+
 -   **type**: manga
 -   **original-name**: 転生したら武闘派令嬢!?～恋しなきゃ死んじゃうなんて無理ゲーです
 -   **start-date**: 2020-04-14

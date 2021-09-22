@@ -1,5 +1,7 @@
 # Tales of the World: Radiant Mythology
 
+![tales-of-the-world-radiant-mythology](https://cdn.myanimelist.net/images/manga/3/93509.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: テイルズ オブ ザ ワールド レディアント マイソロジー

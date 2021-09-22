@@ -1,5 +1,7 @@
 # The Death-defying Negotiator M
 
+![the-death-defying-negotiator-m](https://cdn.myanimelist.net/images/manga/3/17474.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

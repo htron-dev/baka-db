@@ -1,5 +1,7 @@
 # Tytania
 
+![tytania](https://cdn.myanimelist.net/images/manga/4/22765.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: タイタニア

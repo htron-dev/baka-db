@@ -1,5 +1,7 @@
 # Taichi Senjimon
 
+![taichi-senjimon](https://cdn.myanimelist.net/images/anime/2/22328.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: 太極千字文

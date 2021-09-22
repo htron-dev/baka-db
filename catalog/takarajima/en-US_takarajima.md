@@ -1,5 +1,7 @@
 # Takarajima
 
+![takarajima](https://cdn.myanimelist.net/images/anime/11/56123.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 宝島

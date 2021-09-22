@@ -1,5 +1,7 @@
 # Tokyo Jitensha Shoujo.
 
+![tokyo-jitensha-shoujo](https://cdn.myanimelist.net/images/manga/3/173056.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 65

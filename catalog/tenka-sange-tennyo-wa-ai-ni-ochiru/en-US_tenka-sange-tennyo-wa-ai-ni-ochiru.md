@@ -1,5 +1,7 @@
 # Tenka Sange: Tennyo wa Ai ni Ochiru
 
+![tenka-sange-tennyo-wa-ai-ni-ochiru](https://cdn.myanimelist.net/images/manga/2/193386.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

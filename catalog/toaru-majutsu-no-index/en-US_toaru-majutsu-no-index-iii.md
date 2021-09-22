@@ -1,5 +1,7 @@
 # Toaru Majutsu no Index III
 
+![toaru-majutsu-no-index-iii](https://cdn.myanimelist.net/images/anime/1583/93857.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: とある魔術の禁書目録 Ⅲ

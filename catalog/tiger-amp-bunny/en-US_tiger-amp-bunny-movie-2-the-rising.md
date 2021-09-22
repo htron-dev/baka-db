@@ -1,5 +1,7 @@
 # Tiger &amp; Bunny Movie 2: The Rising
 
+![tiger-amp-bunny-movie-2-the-rising](https://cdn.myanimelist.net/images/anime/9/56915.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 TIGER & BUNNY -The Rising-

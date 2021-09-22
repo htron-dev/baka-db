@@ -1,5 +1,7 @@
 # Tekusuke Monogatari
 
+![tekusuke-monogatari](https://cdn.myanimelist.net/images/anime/5/71950.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: テク助物語

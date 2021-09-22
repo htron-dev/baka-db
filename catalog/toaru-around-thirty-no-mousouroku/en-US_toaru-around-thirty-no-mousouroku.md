@@ -1,5 +1,7 @@
 # Toaru Around Thirty no Mousouroku
 
+![toaru-around-thirty-no-mousouroku](https://cdn.myanimelist.net/images/manga/3/111165.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: とあるアラサーの妄想録

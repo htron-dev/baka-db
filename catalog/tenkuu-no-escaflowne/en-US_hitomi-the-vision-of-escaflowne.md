@@ -1,5 +1,7 @@
 # Hitomi: The Vision of Escaflowne
 
+![hitomi-the-vision-of-escaflowne](https://cdn.myanimelist.net/images/manga/5/10385.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

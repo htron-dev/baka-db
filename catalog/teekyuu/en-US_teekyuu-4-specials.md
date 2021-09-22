@@ -1,5 +1,7 @@
 # Teekyuu 4 Specials
 
+![teekyuu-4-specials](https://cdn.myanimelist.net/images/anime/9/76213.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: てーきゅう　４期　ＴＶ未放送オリジナルエピソードアニメ

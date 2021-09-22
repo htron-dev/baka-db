@@ -1,5 +1,7 @@
 # To Heart: Remember My Memories Specials
 
+![to-heart-remember-my-memories-specials](https://cdn.myanimelist.net/images/anime/1/686.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: ToHeart Remember my memories: Heart Fighters

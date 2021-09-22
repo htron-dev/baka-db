@@ -1,5 +1,7 @@
 # Tenshi-chou
 
+![tenshi-chou](https://cdn.myanimelist.net/images/manga/3/170060.jpg)
+
 -   **type**: manga
 -   **original-name**: 天使庁
 -   **start-date**: 2002-09-21

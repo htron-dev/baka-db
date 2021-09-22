@@ -1,5 +1,7 @@
 # Tomiko no Kimochi
 
+![tomiko-no-kimochi](https://cdn.myanimelist.net/images/manga/1/161385.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 19

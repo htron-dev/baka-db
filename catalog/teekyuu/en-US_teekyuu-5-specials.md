@@ -1,5 +1,7 @@
 # Teekyuu 5 Specials
 
+![teekyuu-5-specials](https://cdn.myanimelist.net/images/anime/10/76333.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: てーきゅう　５期　ＴＶ未放送オリジナルエピソードアニメ

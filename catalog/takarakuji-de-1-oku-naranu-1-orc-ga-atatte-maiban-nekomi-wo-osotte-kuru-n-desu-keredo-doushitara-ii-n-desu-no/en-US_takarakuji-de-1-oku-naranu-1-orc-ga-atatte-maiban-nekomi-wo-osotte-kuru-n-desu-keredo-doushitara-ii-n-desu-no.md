@@ -1,5 +1,7 @@
 # Takarakuji de 1-oku Naranu 1 Orc ga Atatte Maiban Nekomi wo Osotte Kuru n desu Keredo, Doushitara Ii n desu no?
 
+![takarakuji-de-1-oku-naranu-1-orc-ga-atatte-maiban-nekomi-wo-osotte-kuru-n-desu-keredo-doushitara-ii-n-desu-no](https://cdn.myanimelist.net/images/manga/3/171236.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

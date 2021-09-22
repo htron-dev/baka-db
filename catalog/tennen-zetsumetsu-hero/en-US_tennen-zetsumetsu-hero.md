@@ -1,5 +1,7 @@
 # Tennen! Zetsumetsu Hero!!
 
+![tennen-zetsumetsu-hero](https://cdn.myanimelist.net/images/manga/1/177936.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

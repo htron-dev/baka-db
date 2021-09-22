@@ -1,5 +1,7 @@
 # Traveler of the Moon
 
+![traveler-of-the-moon](https://cdn.myanimelist.net/images/manga/2/11372.jpg)
+
 -   **type**: manhwa
 
 ## Tags

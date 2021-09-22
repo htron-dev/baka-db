@@ -1,5 +1,7 @@
 # Tetsu no Shojo Jun
 
+![tetsu-no-shojo-jun](https://cdn.myanimelist.net/images/manga/5/67475.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

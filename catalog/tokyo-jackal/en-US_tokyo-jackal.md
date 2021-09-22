@@ -1,5 +1,7 @@
 # Tokyo Jackal
 
+![tokyo-jackal](https://cdn.myanimelist.net/images/manga/2/136053.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: トーキョージャッカル

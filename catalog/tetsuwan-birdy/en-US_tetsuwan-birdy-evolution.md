@@ -1,5 +1,7 @@
 # Tetsuwan Birdy Evolution
 
+![tetsuwan-birdy-evolution](https://cdn.myanimelist.net/images/manga/2/37969.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 140

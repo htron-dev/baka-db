@@ -1,5 +1,7 @@
 # Tanabata Iin: Hoshi ni Negai wo Hen
 
+![tanabata-iin-hoshi-ni-negai-wo-hen](https://cdn.myanimelist.net/images/manga/3/169733.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 七夕委員　星に願いを篇

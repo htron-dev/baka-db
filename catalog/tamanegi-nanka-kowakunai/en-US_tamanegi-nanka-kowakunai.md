@@ -1,5 +1,7 @@
 # Tamanegi Nanka Kowakunai!
 
+![tamanegi-nanka-kowakunai](https://cdn.myanimelist.net/images/manga/1/249322.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: タマネギなんかこわくない！

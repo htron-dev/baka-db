@@ -1,5 +1,7 @@
 # Touken Ranbu: Hanamaru - Makuai Kaisouroku
 
+![touken-ranbu-hanamaru-makuai-kaisouroku](https://cdn.myanimelist.net/images/anime/6/87948.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 刀剣乱舞-花丸- ～幕間回想録～

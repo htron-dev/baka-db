@@ -1,5 +1,7 @@
 # Toaru Kagaku no Railgun SS2
 
+![toaru-kagaku-no-railgun-ss-2](https://cdn.myanimelist.net/images/manga/2/46479.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

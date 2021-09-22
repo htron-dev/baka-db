@@ -1,5 +1,7 @@
 # Tsuki to Honoo no Senki
 
+![tsuki-to-honoo-no-senki](https://cdn.myanimelist.net/images/manga/3/161417.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Tiger Mask
 
+![tiger-mask](https://cdn.myanimelist.net/images/manga/4/76359.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 70

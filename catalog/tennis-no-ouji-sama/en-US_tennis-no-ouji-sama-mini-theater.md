@@ -1,5 +1,7 @@
 # Tennis no Ouji-sama: Mini Theater
 
+![tennis-no-ouji-sama-mini-theater](https://cdn.myanimelist.net/images/anime/9/28332.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: テニスの王子様

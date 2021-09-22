@@ -1,5 +1,7 @@
 # Tonari no Metaller-san
 
+![tonari-no-metaller-san](https://cdn.myanimelist.net/images/manga/3/237952.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

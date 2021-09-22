@@ -1,5 +1,7 @@
 # Trap You
 
+![trap-you](https://cdn.myanimelist.net/images/manga/1/232325.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

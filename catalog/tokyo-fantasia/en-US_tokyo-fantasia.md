@@ -1,5 +1,7 @@
 # Tokyo Fantasia
 
+![tokyo-fantasia](https://cdn.myanimelist.net/images/anime/1823/104076.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 東京ファンタジア

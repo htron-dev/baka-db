@@ -1,5 +1,7 @@
 # Takoyaki Mant-Man
 
+![takoyaki-mant-man](https://cdn.myanimelist.net/images/anime/10/7086.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 77
 -   **original-name**: たこやきマントマン

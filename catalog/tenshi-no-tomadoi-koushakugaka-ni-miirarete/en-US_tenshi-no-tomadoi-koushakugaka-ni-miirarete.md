@@ -1,5 +1,7 @@
 # Tenshi no Tomadoi: Koushakugaka ni Miirarete
 
+![tenshi-no-tomadoi-koushakugaka-ni-miirarete](https://cdn.myanimelist.net/images/manga/3/193232.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

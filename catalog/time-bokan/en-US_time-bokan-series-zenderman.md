@@ -1,5 +1,7 @@
 # Time Bokan Series: Zenderman
 
+![time-bokan-series-zenderman](https://cdn.myanimelist.net/images/anime/8/46869.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: タイムボカンシリーズ　ゼンダマン

@@ -1,5 +1,7 @@
 # Time Killers
 
+![time-killers](https://cdn.myanimelist.net/images/manga/3/65561.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

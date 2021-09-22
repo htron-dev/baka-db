@@ -1,5 +1,7 @@
 # Tako no Hone
 
+![tako-no-hone](https://cdn.myanimelist.net/images/anime/1541/90555.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 蛸の骨

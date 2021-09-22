@@ -1,5 +1,7 @@
 # Tanoshii Tanoshishima
 
+![tanoshii-tanoshishima](https://cdn.myanimelist.net/images/manga/1/228077.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 26

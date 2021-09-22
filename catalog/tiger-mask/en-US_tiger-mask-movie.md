@@ -1,5 +1,7 @@
 # Tiger Mask (Movie)
 
+![tiger-mask-movie](https://cdn.myanimelist.net/images/anime/4/74485.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: タイガーマスク

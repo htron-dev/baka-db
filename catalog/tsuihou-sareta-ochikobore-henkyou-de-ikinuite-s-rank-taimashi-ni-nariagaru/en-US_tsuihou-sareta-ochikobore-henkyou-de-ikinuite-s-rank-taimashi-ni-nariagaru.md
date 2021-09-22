@@ -1,5 +1,7 @@
 # Tsuihou sareta Ochikobore, Henkyou de Ikinuite S-Rank Taimashi ni Nariagaru
 
+![tsuihou-sareta-ochikobore-henkyou-de-ikinuite-s-rank-taimashi-ni-nariagaru](https://cdn.myanimelist.net/images/manga/2/246698.jpg)
+
 -   **type**: manga
 -   **original-name**: 追放された落ちこぼれ、辺境で生き抜いて S ランク対魔師に成り上がる
 -   **start-date**: 2021-03-26

@@ -1,5 +1,7 @@
 # Tsumari wa Kimi ga Itoshii no desu
 
+![tsumari-wa-kimi-ga-itoshii-no-desu](https://cdn.myanimelist.net/images/manga/1/170472.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

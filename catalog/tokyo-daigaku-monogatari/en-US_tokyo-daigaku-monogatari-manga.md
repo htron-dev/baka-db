@@ -1,5 +1,7 @@
 # Tokyo Daigaku Monogatari
 
+![tokyo-daigaku-monogatari](https://cdn.myanimelist.net/images/manga/3/24037.jpg)
+
 -   **type**: manga
 -   **volumes**: 34
 -   **chapters**: 375

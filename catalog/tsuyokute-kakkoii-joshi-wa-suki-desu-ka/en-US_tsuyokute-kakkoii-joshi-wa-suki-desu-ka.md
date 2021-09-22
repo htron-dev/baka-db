@@ -1,5 +1,7 @@
 # Tsuyokute Kakkoii Joshi wa Suki desu ka?
 
+![tsuyokute-kakkoii-joshi-wa-suki-desu-ka](https://cdn.myanimelist.net/images/manga/1/162942.jpg)
+
 -   **type**: manga
 -   **original-name**: 強くてカッコイイ女子は好きですか?
 -   **start-date**: 2014-08-05

@@ -1,5 +1,7 @@
 # Tamashii no Asoko
 
+![tamashii-no-asoko](https://cdn.myanimelist.net/images/manga/1/90523.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

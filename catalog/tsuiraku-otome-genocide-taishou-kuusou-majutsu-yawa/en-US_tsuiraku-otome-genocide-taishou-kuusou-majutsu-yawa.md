@@ -1,5 +1,7 @@
 # Tsuiraku Otome Genocide: Taishou Kuusou Majutsu Yawa
 
+![tsuiraku-otome-genocide-taishou-kuusou-majutsu-yawa](https://cdn.myanimelist.net/images/manga/2/161076.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

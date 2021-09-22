@@ -1,5 +1,7 @@
 # Texhnolyze
 
+![texhnolyze](https://cdn.myanimelist.net/images/anime/3/18165.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: TEXHNOLYZE

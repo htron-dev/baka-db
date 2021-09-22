@@ -1,5 +1,7 @@
 # Teen Spirit
 
+![teen-spirit](https://cdn.myanimelist.net/images/manga/2/27272.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 25

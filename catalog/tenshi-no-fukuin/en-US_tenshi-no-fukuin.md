@@ -1,5 +1,7 @@
 # Tenshi no Fukuin
 
+![tenshi-no-fukuin](https://cdn.myanimelist.net/images/manga/2/222019.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 26

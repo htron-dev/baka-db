@@ -1,5 +1,7 @@
 # Tantei Opera Milky Holmes
 
+![tantei-opera-milky-holmes](https://cdn.myanimelist.net/images/anime/10/26676.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 探偵オペラ ミルキィホームズ

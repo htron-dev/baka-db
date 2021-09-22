@@ -1,5 +1,7 @@
 # Time Bokan Series: Gyakuten Ippatsuman
 
+![time-bokan-series-gyakuten-ippatsuman](https://cdn.myanimelist.net/images/anime/7/19572.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 58
 -   **original-name**: 逆転!イッパツマン

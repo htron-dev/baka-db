@@ -1,5 +1,7 @@
 # The Hakkenden: Shin Shou
 
+![the-hakkenden-shin-shou](https://cdn.myanimelist.net/images/anime/1592/92509.jpg)
+
 -   **type**: ova
 -   **episodes**: 7
 -   **original-name**: THE 八犬伝 新章

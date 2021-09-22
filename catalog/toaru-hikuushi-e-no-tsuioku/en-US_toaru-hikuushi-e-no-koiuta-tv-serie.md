@@ -1,5 +1,7 @@
 # Toaru Hikuushi e no Koiuta
 
+![toaru-hikuushi-e-no-koiuta](https://cdn.myanimelist.net/images/anime/2/56939.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: とある飛空士への恋歌

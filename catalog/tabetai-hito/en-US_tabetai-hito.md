@@ -1,5 +1,7 @@
 # Tabetai Hito
 
+![tabetai-hito](https://cdn.myanimelist.net/images/manga/1/162293.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

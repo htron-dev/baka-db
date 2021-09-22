@@ -1,5 +1,7 @@
 # Tanin no Kankei
 
+![tanin-no-kankei](https://cdn.myanimelist.net/images/anime/1423/96381.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 他人の関係

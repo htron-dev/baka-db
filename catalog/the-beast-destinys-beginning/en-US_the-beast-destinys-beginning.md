@@ -1,5 +1,7 @@
 # The Beast - Destiny's Beginning
 
+![the-beast-destinys-beginning](https://cdn.myanimelist.net/images/manga/3/77325.jpg)
+
 -   **type**: manhwa
 -   **start-date**: 2012-08-20
 

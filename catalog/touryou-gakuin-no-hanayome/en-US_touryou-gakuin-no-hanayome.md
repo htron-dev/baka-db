@@ -1,5 +1,7 @@
 # Touryou Gakuin no Hanayome
 
+![touryou-gakuin-no-hanayome](https://cdn.myanimelist.net/images/manga/2/138353.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 藤陵学院の花嫁

@@ -1,5 +1,7 @@
 # Tenran no Memento
 
+![tenran-no-memento](https://cdn.myanimelist.net/images/manga/2/187124.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

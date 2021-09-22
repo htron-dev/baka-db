@@ -1,5 +1,7 @@
 # Tamagawa Kyoudai
 
+![tamagawa-kyoudai](https://cdn.myanimelist.net/images/anime/2/87731.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 玉川兄弟

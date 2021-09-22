@@ -1,5 +1,7 @@
 # Tate no Yuusha no Oshinagaki
 
+![tate-no-yuusha-no-oshinagaki](https://cdn.myanimelist.net/images/manga/1/234829.jpg)
+
 -   **type**: manga
 -   **original-name**: 盾の勇者のおしながき
 -   **start-date**: 2019-08-21

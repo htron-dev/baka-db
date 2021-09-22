@@ -1,5 +1,7 @@
 # Teihen Ryoushu no Kanchigai Eiyuutan
 
+![teihen-ryoushu-no-kanchigai-eiyuutan](https://cdn.myanimelist.net/images/manga/1/244071.jpg)
+
 -   **type**: manga
 -   **original-name**: 底辺領主の勘違い英雄譚
 -   **start-date**: 2020-10-09

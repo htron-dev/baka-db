@@ -1,5 +1,7 @@
 # Tetsu no Ko Kanahiru
 
+![tetsu-no-ko-kanahiru](https://cdn.myanimelist.net/images/anime/2/32577.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 鉄の子カナヒル

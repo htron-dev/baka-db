@@ -1,5 +1,7 @@
 # Togabito to Melody
 
+![togabito-to-melody](https://cdn.myanimelist.net/images/manga/3/77673.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

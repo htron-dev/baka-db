@@ -1,5 +1,7 @@
 # Touken Ranbu Online Anthology: Senjou ni Sakaseru Hana
 
+![touken-ranbu-online-anthology-senjou-ni-sakaseru-hana](https://cdn.myanimelist.net/images/manga/2/246660.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

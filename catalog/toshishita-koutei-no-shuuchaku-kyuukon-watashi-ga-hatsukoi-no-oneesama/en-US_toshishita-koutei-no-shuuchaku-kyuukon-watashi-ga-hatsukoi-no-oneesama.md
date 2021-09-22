@@ -1,5 +1,7 @@
 # Toshishita Koutei no Shuuchaku Kyuukon: Watashi ga Hatsukoi no Oneesama!?
 
+![toshishita-koutei-no-shuuchaku-kyuukon-watashi-ga-hatsukoi-no-oneesama](https://cdn.myanimelist.net/images/manga/2/183659.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Shoujotachi no Kaidan
 
+![shoujotachi-no-kaidan](https://cdn.myanimelist.net/images/manga/2/73527.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

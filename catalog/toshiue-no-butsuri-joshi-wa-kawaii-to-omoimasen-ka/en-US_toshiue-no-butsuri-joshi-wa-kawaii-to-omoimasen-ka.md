@@ -1,5 +1,7 @@
 # Toshiue no Butsuri Joshi wa Kawaii to Omoimasen ka?
 
+![toshiue-no-butsuri-joshi-wa-kawaii-to-omoimasen-ka](https://cdn.myanimelist.net/images/manga/3/216598.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 26

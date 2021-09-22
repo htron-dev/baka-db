@@ -1,5 +1,7 @@
 # Tenohira Kaitaku Mura de Isekai Kenkokuki: Fueteku Yome-tachi to Nonbiri Mujintou Life
 
+![tenohira-kaitaku-mura-de-isekai-kenkokuki-fueteku-yome-tachi-to-nonbiri-mujintou-life](https://cdn.myanimelist.net/images/manga/1/197042.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 44

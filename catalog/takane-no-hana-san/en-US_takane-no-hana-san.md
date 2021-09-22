@@ -1,5 +1,7 @@
 # Takane no Hana-san
 
+![takane-no-hana-san](https://cdn.myanimelist.net/images/manga/1/238730.jpg)
+
 -   **type**: manga
 -   **original-name**: 高嶺のハナさん
 -   **start-date**: 2018-08-03

@@ -1,5 +1,7 @@
 # Toshishita Danshi no Atsukaikata.
 
+![toshishita-danshi-no-atsukaikata](https://cdn.myanimelist.net/images/manga/1/112571.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

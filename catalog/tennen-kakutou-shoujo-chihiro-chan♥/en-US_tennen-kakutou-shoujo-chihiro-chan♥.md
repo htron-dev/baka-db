@@ -1,5 +1,7 @@
 # Tennen Kakutou Shoujo Chihiro-chan♥
 
+![tennen-kakutou-shoujo-chihiro-chan♥](https://cdn.myanimelist.net/images/manga/2/151965.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 31

@@ -1,5 +1,7 @@
 # Tiger & Bunny The Comic
 
+![tiger-bunny-the-comic](https://cdn.myanimelist.net/images/manga/2/176447.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 41

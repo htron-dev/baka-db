@@ -1,5 +1,7 @@
 # Tekken Chinmi
 
+![tekken-chinmi](https://cdn.myanimelist.net/images/anime/13/57443.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 20
 -   **original-name**: 鉄拳チンミ

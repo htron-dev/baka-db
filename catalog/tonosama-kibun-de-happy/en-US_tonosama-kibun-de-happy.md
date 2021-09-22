@@ -1,5 +1,7 @@
 # Tonosama Kibun de Happy!
 
+![tonosama-kibun-de-happy](https://cdn.myanimelist.net/images/manga/3/164565.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 33

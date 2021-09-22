@@ -1,5 +1,7 @@
 # Tora no Ouji-sama
 
+![tora-no-ouji-sama](https://cdn.myanimelist.net/images/manga/1/153658.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 虎の王子様

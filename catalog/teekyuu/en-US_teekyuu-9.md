@@ -1,5 +1,7 @@
 # Teekyuu 9
 
+![teekyuu-9](https://cdn.myanimelist.net/images/anime/5/86833.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: てーきゅう 9 期

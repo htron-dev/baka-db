@@ -1,5 +1,7 @@
 # Takane no Hana
 
+![takane-no-hana](https://cdn.myanimelist.net/images/manga/2/156835.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 高嶺の花

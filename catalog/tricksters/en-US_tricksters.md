@@ -1,5 +1,7 @@
 # Tricksters
 
+![tricksters](https://cdn.myanimelist.net/images/manga/2/136851.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 36

@@ -1,5 +1,7 @@
 # Takane no Jitensha
 
+![takane-no-jitensha](https://cdn.myanimelist.net/images/anime/10/15250.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: タカネの自転車

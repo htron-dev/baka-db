@@ -1,5 +1,7 @@
 # Tonikaku Imouto ga Hoshii: Saikyou no Kyuuketsuki wa Mujikaku Gohoushichuu!
 
+![tonikaku-imouto-ga-hoshii-saikyou-no-kyuuketsuki-wa-mujikaku-gohoushichuu](https://cdn.myanimelist.net/images/manga/3/234736.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Tsuki to Yami no Senki
 
+![tsuki-to-yami-no-senki](https://cdn.myanimelist.net/images/manga/2/161374.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 14

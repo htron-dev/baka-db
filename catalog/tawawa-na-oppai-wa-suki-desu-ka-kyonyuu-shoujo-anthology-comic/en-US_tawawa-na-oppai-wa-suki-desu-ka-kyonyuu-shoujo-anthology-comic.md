@@ -1,5 +1,7 @@
 # Tawawa na Oppai wa Suki desu ka?: Kyonyuu Shoujo Anthology Comic
 
+![tawawa-na-oppai-wa-suki-desu-ka-kyonyuu-shoujo-anthology-comic](https://cdn.myanimelist.net/images/manga/2/240487.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 54

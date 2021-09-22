@@ -1,5 +1,7 @@
 # Tantei Higurashi Tabito no Sagashimono
 
+![tantei-higurashi-tabito-no-sagashimono](https://cdn.myanimelist.net/images/manga/3/166133.jpg)
+
 -   **type**: manga
 -   **original-name**: 探偵・日暮旅人の探し物
 -   **start-date**: 2015-04-24

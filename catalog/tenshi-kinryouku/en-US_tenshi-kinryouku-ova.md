@@ -1,5 +1,7 @@
 # Tenshi Kinryouku
 
+![tenshi-kinryouku](https://cdn.myanimelist.net/images/anime/11/45208.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 天使禁猟区

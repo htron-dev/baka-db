@@ -1,5 +1,7 @@
 # Tokyo Juushouden: Fuuma Gogyou Denshou
 
+![tokyo-juushouden-fuuma-gogyou-denshou](https://cdn.myanimelist.net/images/anime/2/65105.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 倒凶十将伝 封魔五行伝承

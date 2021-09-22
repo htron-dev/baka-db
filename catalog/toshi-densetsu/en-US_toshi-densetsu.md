@@ -1,5 +1,7 @@
 # Toshi Densetsu
 
+![toshi-densetsu](https://cdn.myanimelist.net/images/manga/1/142453.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: 都市伝説

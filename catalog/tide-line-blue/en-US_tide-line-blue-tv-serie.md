@@ -1,5 +1,7 @@
 # Tide-Line Blue
 
+![tide-line-blue](https://cdn.myanimelist.net/images/anime/9/75832.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: タイドライン・ブルー

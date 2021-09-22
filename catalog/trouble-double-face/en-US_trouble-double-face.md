@@ -1,5 +1,7 @@
 # Trouble Double Face
 
+![trouble-double-face](https://cdn.myanimelist.net/images/manga/3/2800.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

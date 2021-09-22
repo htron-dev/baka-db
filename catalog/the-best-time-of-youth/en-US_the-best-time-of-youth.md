@@ -1,5 +1,7 @@
 # The Best Time of Youth
 
+![the-best-time-of-youth](https://cdn.myanimelist.net/images/manga/1/233777.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Tori Go! Go!
 
+![tori-go-go](https://cdn.myanimelist.net/images/anime/1592/114456.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 17
 -   **original-name**: 토리 GO! GO!

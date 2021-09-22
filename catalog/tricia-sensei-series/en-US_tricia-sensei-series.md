@@ -1,5 +1,7 @@
 # Tricia-sensei Series
 
+![tricia-sensei-series](https://cdn.myanimelist.net/images/manga/3/162675.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 30

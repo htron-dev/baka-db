@@ -1,5 +1,7 @@
 # Tsuki no Ousama
 
+![tsuki-no-ousama](https://cdn.myanimelist.net/images/manga/3/20508.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

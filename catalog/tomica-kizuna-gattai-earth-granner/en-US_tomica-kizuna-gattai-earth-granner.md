@@ -1,5 +1,7 @@
 # Tomica Kizuna Gattai: Earth Granner
 
+![tomica-kizuna-gattai-earth-granner](https://cdn.myanimelist.net/images/anime/1274/114349.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: トミカ絆合体 アースグランナー

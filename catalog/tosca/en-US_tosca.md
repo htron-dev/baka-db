@@ -1,5 +1,7 @@
 # Tosca
 
+![tosca](https://cdn.myanimelist.net/images/anime/1986/114933.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Tosca

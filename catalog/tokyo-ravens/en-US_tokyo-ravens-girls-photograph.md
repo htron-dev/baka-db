@@ -1,5 +1,7 @@
 # Tokyo Ravens: Girls Photograph
 
+![tokyo-ravens-girls-photograph](https://cdn.myanimelist.net/images/manga/3/132217.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

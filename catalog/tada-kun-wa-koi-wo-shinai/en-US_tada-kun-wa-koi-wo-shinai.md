@@ -1,5 +1,7 @@
 # Tada-kun wa Koi wo Shinai
 
+![tada-kun-wa-koi-wo-shinai](https://cdn.myanimelist.net/images/anime/1446/91841.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 多田くんは恋をしない

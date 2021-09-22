@@ -1,5 +1,7 @@
 # Tenpou Ibun: Ayakashi Ayashi
 
+![tenpou-ibun-ayakashi-ayashi](https://cdn.myanimelist.net/images/anime/11/4452.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 天保異聞 妖奇士

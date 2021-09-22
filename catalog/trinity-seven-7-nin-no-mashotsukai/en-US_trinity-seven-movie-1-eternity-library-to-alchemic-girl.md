@@ -1,5 +1,7 @@
 # Trinity Seven Movie 1: Eternity Library to Alchemic Girl
 
+![trinity-seven-movie-1-eternity-library-to-alchemic-girl](https://cdn.myanimelist.net/images/anime/6/83172.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 トリニティセブン －悠久図書館〈エターニティライブラリー〉と錬金術少女〈アルケミックガール〉－

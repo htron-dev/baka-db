@@ -1,5 +1,7 @@
 # The Fantasie of a Stepmother
 
+![the-fantasie-of-a-stepmother](https://cdn.myanimelist.net/images/manga/2/236778.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 어떤 계모님의 메르헨
 -   **start-date**: 2019-07-04

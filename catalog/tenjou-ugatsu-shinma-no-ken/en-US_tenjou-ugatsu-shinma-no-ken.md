@@ -1,5 +1,7 @@
 # Tenjou Ugatsu Shinma no Ken
 
+![tenjou-ugatsu-shinma-no-ken](https://cdn.myanimelist.net/images/manga/3/177799.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 24

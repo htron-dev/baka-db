@@ -1,5 +1,7 @@
 # The Collected Animations of ICAF (2001-2006)
 
+![the-collected-animations-of-icaf-2001-2006](https://cdn.myanimelist.net/images/anime/5/17822.jpg)
+
 -   **type**: ova
 -   **episodes**: 16
 -   **original-name**: Inter College Animation Festival (2004) (インターカレッジ・アニメーション・フェスティバル)

@@ -1,5 +1,7 @@
 # Shinya! Tensai Bakabon
 
+![shinya-tensai-bakabon](https://cdn.myanimelist.net/images/anime/1031/92911.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 深夜！天才バカボン

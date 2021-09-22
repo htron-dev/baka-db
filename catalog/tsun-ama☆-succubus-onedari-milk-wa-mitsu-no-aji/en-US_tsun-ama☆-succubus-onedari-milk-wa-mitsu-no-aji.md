@@ -1,5 +1,7 @@
 # Tsun-Ama☆Succubus! Onedari Milk wa Mitsu no Aji
 
+![tsun-ama☆-succubus-onedari-milk-wa-mitsu-no-aji](https://cdn.myanimelist.net/images/manga/2/169755.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

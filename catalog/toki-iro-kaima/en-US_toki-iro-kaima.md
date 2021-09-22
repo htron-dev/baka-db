@@ -1,5 +1,7 @@
 # Toki-iro Kaima
 
+![toki-iro-kaima](https://cdn.myanimelist.net/images/anime/2/52345.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 朱鷺色怪魔

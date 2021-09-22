@@ -1,5 +1,7 @@
 # Tsujiurauri
 
+![tsujiurauri](https://cdn.myanimelist.net/images/manga/2/46785.jpg)
+
 -   **type**: manga
 -   **original-name**: 辻占売
 

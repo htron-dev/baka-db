@@ -1,5 +1,7 @@
 # Tottoko Hamtarou OVA 1: Hamtaro no Otanjoubi - Mama wo Tasunete Sanzen Techi Techi
 
+![tottoko-hamtarou-ova-1-hamtaro-no-otanjoubi-mama-wo-tasunete-sanzen-techi-techi](https://cdn.myanimelist.net/images/anime/4/3540.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハム太郎のおたんじょうび 〜ママをたずねて三千てちてち〜

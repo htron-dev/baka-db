@@ -1,5 +1,7 @@
 # Tatoeba Love to Kamisama Days.
 
+![tatoeba-love-to-kamisama-days](https://cdn.myanimelist.net/images/manga/2/159520.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: たとえばラブとカミサマーデイズ。

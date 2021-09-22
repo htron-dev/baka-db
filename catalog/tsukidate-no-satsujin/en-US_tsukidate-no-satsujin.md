@@ -1,5 +1,7 @@
 # Tsukidate no Satsujin
 
+![tsukidate-no-satsujin](https://cdn.myanimelist.net/images/manga/2/189592.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

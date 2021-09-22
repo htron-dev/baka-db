@@ -1,5 +1,7 @@
 # The Planet of Stray Cats
 
+![the-planet-of-stray-cats](https://cdn.myanimelist.net/images/anime/1381/98334.jpg)
+
 -   **type**: ova
 -   **episodes**: 13
 -   **original-name**: The Planet of Stray Cats

@@ -1,5 +1,7 @@
 # To LOVE-Ru OVA
 
+![to-love-ru-ova](https://cdn.myanimelist.net/images/anime/2/17923.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: To LOVE る -とらぶる-

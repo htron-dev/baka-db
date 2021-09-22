@@ -1,5 +1,7 @@
 # The National Free Economic High School: Cecil High School
 
+![the-national-free-economic-high-school-cecil-high-school](https://cdn.myanimelist.net/images/manga/1/150667.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 국립자유경제고등학교 세실고
 -   **start-date**: 2011-09-19

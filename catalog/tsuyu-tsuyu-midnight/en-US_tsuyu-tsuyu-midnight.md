@@ -1,5 +1,7 @@
 # Tsuyu Tsuyu Midnight
 
+![tsuyu-tsuyu-midnight](https://cdn.myanimelist.net/images/manga/1/104399.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: つゆつゆミッドナイト

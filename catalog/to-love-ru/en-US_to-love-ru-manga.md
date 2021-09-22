@@ -1,5 +1,7 @@
 # To LOVE-Ru
 
+![to-love-ru](https://cdn.myanimelist.net/images/manga/3/63339.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 162

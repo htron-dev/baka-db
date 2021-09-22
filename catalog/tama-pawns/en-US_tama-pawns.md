@@ -1,5 +1,7 @@
 # Tama Pawns
 
+![tama-pawns](https://cdn.myanimelist.net/images/anime/12/83912.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: たまぽんず

@@ -1,5 +1,7 @@
 # Tottoko Hamtarou: Anime Dechu!
 
+![tottoko-hamtarou-anime-dechu](https://cdn.myanimelist.net/images/anime/8/87331.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: とっとこ ハム太郎 アニメ でちゆ!

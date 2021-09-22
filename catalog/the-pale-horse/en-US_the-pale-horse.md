@@ -1,5 +1,7 @@
 # The Pale Horse
 
+![the-pale-horse](https://cdn.myanimelist.net/images/manga/2/70997.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 창백한 말
 -   **start-date**: 2011-09-15

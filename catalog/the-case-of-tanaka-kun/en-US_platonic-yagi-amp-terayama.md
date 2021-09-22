@@ -1,5 +1,7 @@
 # Platonic - Yagi &amp; Terayama
 
+![platonic-yagi-amp-terayama](https://cdn.myanimelist.net/images/manga/2/20777.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: プラトニック - 八木＆寺山

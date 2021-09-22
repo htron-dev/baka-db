@@ -1,5 +1,7 @@
 # Tetsu no Roba
 
+![tetsu-no-roba](https://cdn.myanimelist.net/images/manga/1/27286.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

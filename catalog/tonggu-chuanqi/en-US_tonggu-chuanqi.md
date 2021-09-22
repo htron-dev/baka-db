@@ -1,5 +1,7 @@
 # Tonggu Chuanqi
 
+![tonggu-chuanqi](https://cdn.myanimelist.net/images/anime/1937/115331.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 铜鼓传奇

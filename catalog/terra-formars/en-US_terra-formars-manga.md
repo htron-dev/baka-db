@@ -1,5 +1,7 @@
 # Terra Formars
 
+![terra-formars](https://cdn.myanimelist.net/images/manga/5/67537.jpg)
+
 -   **type**: manga
 -   **original-name**: テラフォーマーズ
 -   **start-date**: 2011-01-13

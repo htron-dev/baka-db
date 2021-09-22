@@ -1,5 +1,7 @@
 # Tsuki to Sandaru
 
+![tsuki-to-sandaru](https://cdn.myanimelist.net/images/manga/1/1579.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Tokyo no Casanova
 
+![tokyo-no-casanova](https://cdn.myanimelist.net/images/manga/1/29223.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

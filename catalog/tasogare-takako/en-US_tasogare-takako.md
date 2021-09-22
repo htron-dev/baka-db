@@ -1,5 +1,7 @@
 # Tasogare Takako
 
+![tasogare-takako](https://cdn.myanimelist.net/images/manga/3/168722.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 88

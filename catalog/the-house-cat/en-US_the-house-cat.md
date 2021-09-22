@@ -1,5 +1,7 @@
 # The House Cat
 
+![the-house-cat](https://cdn.myanimelist.net/images/manga/2/180892.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 50

@@ -1,5 +1,7 @@
 # Toradora Spin-off!
 
+![toradora-spin-off](https://cdn.myanimelist.net/images/manga/2/148449.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 34

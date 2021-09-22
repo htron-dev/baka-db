@@ -1,5 +1,7 @@
 # The SoulTaker: Tamashii-gari
 
+![the-soul-taker-tamashii-gari](https://cdn.myanimelist.net/images/anime/9/11004.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: The SoulTaker ～魂狩～

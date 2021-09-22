@@ -1,5 +1,7 @@
 # Tenshi no Kokoro de
 
+![tenshi-no-kokoro-de](https://cdn.myanimelist.net/images/manga/1/30331.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 天使のココロで

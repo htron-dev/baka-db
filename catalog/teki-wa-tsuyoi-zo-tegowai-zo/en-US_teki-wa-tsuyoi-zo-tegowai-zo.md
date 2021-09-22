@@ -1,5 +1,7 @@
 # Teki wa Tsuyoi Zo Tegowai Zo!
 
+![teki-wa-tsuyoi-zo-tegowai-zo](https://cdn.myanimelist.net/images/manga/3/36857.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: テキは強いぞ手ごわいぞ

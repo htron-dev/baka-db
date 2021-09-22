@@ -1,5 +1,7 @@
 # Tec-chan no Pet
 
+![tec-chan-no-pet](https://cdn.myanimelist.net/images/anime/12/85756.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: テックちゃんのペット

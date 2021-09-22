@@ -1,5 +1,7 @@
 # Times Two
 
+![times-two](https://cdn.myanimelist.net/images/manga/3/730.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

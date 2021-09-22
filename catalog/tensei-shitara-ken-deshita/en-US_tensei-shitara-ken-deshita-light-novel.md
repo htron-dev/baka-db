@@ -1,5 +1,7 @@
 # Tensei shitara Ken deshita
 
+![tensei-shitara-ken-deshita](https://cdn.myanimelist.net/images/manga/1/203310.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 転生したら剣でした
 -   **start-date**: 2016-07-30

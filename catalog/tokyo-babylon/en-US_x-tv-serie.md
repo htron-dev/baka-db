@@ -1,5 +1,7 @@
 # X
 
+![x](https://cdn.myanimelist.net/images/anime/8/17167.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: X− エックス −

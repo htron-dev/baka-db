@@ -1,5 +1,7 @@
 # Taihai no Hanauri
 
+![taihai-no-hanauri](https://cdn.myanimelist.net/images/manga/2/224146.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 頽廃の花売り

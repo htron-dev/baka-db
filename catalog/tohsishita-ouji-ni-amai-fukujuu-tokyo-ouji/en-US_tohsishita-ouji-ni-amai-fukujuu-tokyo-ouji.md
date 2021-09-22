@@ -1,5 +1,7 @@
 # Tohsishita Ouji ni Amai Fukujuu: Tokyo Ouji
 
+![tohsishita-ouji-ni-amai-fukujuu-tokyo-ouji](https://cdn.myanimelist.net/images/manga/1/192626.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

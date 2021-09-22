@@ -1,5 +1,7 @@
 # Ganso Tensai Bakabon
 
+![ganso-tensai-bakabon](https://cdn.myanimelist.net/images/anime/5/60841.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 103
 -   **original-name**: 元祖天才バカボン

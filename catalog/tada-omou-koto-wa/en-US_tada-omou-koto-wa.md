@@ -1,5 +1,7 @@
 # Tada Omou Koto wa
 
+![tada-omou-koto-wa](https://cdn.myanimelist.net/images/manga/3/227114.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

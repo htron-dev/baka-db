@@ -1,5 +1,7 @@
 # Tayutama: Kiss on My Deity
 
+![tayutama-kiss-on-my-deity](https://cdn.myanimelist.net/images/anime/2/11972.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: タユタマ -Kiss on my Deity-

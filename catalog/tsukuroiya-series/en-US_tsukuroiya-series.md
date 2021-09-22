@@ -1,5 +1,7 @@
 # Tsukuroiya Series
 
+![tsukuroiya-series](https://cdn.myanimelist.net/images/manga/1/77633.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: つくろい屋・シリーズ

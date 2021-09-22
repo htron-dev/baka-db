@@ -1,5 +1,7 @@
 # Hero
 
+![hero](https://cdn.myanimelist.net/images/manga/2/156261.jpg)
+
 -   **type**: manga
 -   **original-name**: HERO
 -   **start-date**: 2009-10-01

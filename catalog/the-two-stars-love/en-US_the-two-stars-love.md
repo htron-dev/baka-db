@@ -1,5 +1,7 @@
 # The Two Stars Love
 
+![the-two-stars-love](https://cdn.myanimelist.net/images/manga/1/35333.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 11
 -   **original-name**: 별별 사랑따기

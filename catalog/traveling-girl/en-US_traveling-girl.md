@@ -1,5 +1,7 @@
 # Traveling Girl
 
+![traveling-girl](https://cdn.myanimelist.net/images/manga/3/66773.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

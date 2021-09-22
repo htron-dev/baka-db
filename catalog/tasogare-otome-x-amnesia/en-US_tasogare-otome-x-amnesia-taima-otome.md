@@ -1,5 +1,7 @@
 # Tasogare Otome x Amnesia: Taima Otome
 
+![tasogare-otome-x-amnesia-taima-otome](https://cdn.myanimelist.net/images/anime/6/65883.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 黄昏乙女 × アムネジア 退魔乙女

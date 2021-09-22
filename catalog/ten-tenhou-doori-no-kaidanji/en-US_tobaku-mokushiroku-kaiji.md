@@ -1,5 +1,7 @@
 # Tobaku Mokushiroku Kaiji
 
+![tobaku-mokushiroku-kaiji](https://cdn.myanimelist.net/images/manga/3/22377.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 158

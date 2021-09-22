@@ -1,5 +1,7 @@
 # Toki wa Meguru: Tokyo Station
 
+![toki-wa-meguru-tokyo-station](https://cdn.myanimelist.net/images/anime/1426/95659.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 時季（とき）は巡る～ TOKYO STATION ～

@@ -1,5 +1,7 @@
 # Tsumetai Kousha no Toki wa Tomaru
 
+![tsumetai-kousha-no-toki-wa-tomaru](https://cdn.myanimelist.net/images/manga/2/243111.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

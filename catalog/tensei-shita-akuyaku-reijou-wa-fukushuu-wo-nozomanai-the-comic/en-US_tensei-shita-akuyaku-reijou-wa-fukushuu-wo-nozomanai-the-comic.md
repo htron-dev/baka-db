@@ -1,5 +1,7 @@
 # Tensei shita Akuyaku Reijou wa Fukushuu wo Nozomanai the Comic
 
+![tensei-shita-akuyaku-reijou-wa-fukushuu-wo-nozomanai-the-comic](https://cdn.myanimelist.net/images/manga/2/245969.jpg)
+
 -   **type**: manga
 -   **original-name**: 転生した悪役令嬢は復讐を望まない THE COMIC
 -   **start-date**: 2020-12-15

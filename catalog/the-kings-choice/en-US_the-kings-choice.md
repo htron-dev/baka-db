@@ -1,5 +1,7 @@
 # The King's Choice
 
+![the-kings-choice](https://cdn.myanimelist.net/images/manga/1/4466.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 

@@ -1,5 +1,7 @@
 # Tamatama! Kingyosou
 
+![tamatama-kingyosou](https://cdn.myanimelist.net/images/manga/2/127759.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: たまたま! きんぎょ荘

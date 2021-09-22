@@ -1,5 +1,7 @@
 # Torokeru Tamago to Bed no Naka de
 
+![torokeru-tamago-to-bed-no-naka-de](https://cdn.myanimelist.net/images/manga/3/237017.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

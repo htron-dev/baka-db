@@ -1,5 +1,7 @@
 # Tsuujou Kougeki ga Zentai Kougeki de 2-kai Kougeki no Okaasan wa Suki desu ka?
 
+![tsuujou-kougeki-ga-zentai-kougeki-de-2-kai-kougeki-no-okaasan-wa-suki-desu-ka](https://cdn.myanimelist.net/images/manga/1/211137.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 32

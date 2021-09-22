@@ -1,5 +1,7 @@
 # Tensei Otome wa Koi nanka Shinai
 
+![tensei-otome-wa-koi-nanka-shinai](https://cdn.myanimelist.net/images/manga/2/235314.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

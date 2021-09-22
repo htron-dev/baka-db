@@ -1,5 +1,7 @@
 # Tsari to Yobareta Otoko
 
+![tsari-to-yobareta-otoko](https://cdn.myanimelist.net/images/manga/2/16581.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 皇帝と呼ばれた男

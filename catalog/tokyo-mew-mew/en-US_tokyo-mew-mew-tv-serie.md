@@ -1,5 +1,7 @@
 # Tokyo Mew Mew
 
+![tokyo-mew-mew](https://cdn.myanimelist.net/images/anime/4/89298.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 東京ミュウミュウ

@@ -1,5 +1,7 @@
 # Time Bokan Series: Yatterman
 
+![time-bokan-series-yatterman](https://cdn.myanimelist.net/images/anime/8/60747.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 108
 -   **original-name**: タイムボカンシリーズ ヤッターマン

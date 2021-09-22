@@ -1,5 +1,7 @@
 # Tsumi yori Amai Ai ni Oborete
 
+![tsumi-yori-amai-ai-ni-oborete](https://cdn.myanimelist.net/images/manga/3/147429.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

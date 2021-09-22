@@ -1,5 +1,7 @@
 # Toki Watari no Scarlet Knights
 
+![toki-watari-no-scarlet-knights](https://cdn.myanimelist.net/images/manga/2/120775.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 時渡りの〈紅女神騎士団〉（スカーレット・ナイツ）

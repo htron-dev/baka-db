@@ -1,5 +1,7 @@
 # Trash.
 
+![trash](https://cdn.myanimelist.net/images/manga/1/106257.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 88

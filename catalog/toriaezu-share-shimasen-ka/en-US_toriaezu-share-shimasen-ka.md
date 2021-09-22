@@ -1,5 +1,7 @@
 # Toriaezu Share shimasen ka?
 
+![toriaezu-share-shimasen-ka](https://cdn.myanimelist.net/images/manga/1/236100.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

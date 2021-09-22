@@ -1,5 +1,7 @@
 # Tekken: Blood Vengeance
 
+![tekken-blood-vengeance](https://cdn.myanimelist.net/images/anime/1078/112635.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 鉄拳 BLOOD VENGEANCE

@@ -1,5 +1,7 @@
 # Tarot Labyrinth
 
+![tarot-labyrinth](https://cdn.myanimelist.net/images/manga/3/23282.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: タロット ▼ ラビリンス

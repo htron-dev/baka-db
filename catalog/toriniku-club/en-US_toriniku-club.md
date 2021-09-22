@@ -1,5 +1,7 @@
 # Toriniku Club
 
+![toriniku-club](https://cdn.myanimelist.net/images/manga/3/26226.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

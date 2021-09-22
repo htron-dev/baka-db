@@ -1,5 +1,7 @@
 # Tonari no Mitsuru-san: Kono Apartment ni wa Domestic na Oniisan ga Sundeiru
 
+![tonari-no-mitsuru-san-kono-apartment-ni-wa-domestic-na-oniisan-ga-sundeiru](https://cdn.myanimelist.net/images/manga/2/229335.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

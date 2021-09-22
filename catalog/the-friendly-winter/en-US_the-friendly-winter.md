@@ -1,5 +1,7 @@
 # The Friendly Winter
 
+![the-friendly-winter](https://cdn.myanimelist.net/images/manga/2/134805.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 65

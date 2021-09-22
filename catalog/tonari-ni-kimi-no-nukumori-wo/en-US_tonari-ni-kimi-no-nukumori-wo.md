@@ -1,5 +1,7 @@
 # Tonari ni Kimi no Nukumori wo
 
+![tonari-ni-kimi-no-nukumori-wo](https://cdn.myanimelist.net/images/manga/2/7808.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

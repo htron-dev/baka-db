@@ -1,5 +1,7 @@
 # Tsukikage Café
 
+![tsukikage-cafe](https://cdn.myanimelist.net/images/manga/3/72949.jpg)
+
 -   **type**: manga
 -   **original-name**: TUKIKAGE カフェ
 -   **start-date**: 2012-03-16

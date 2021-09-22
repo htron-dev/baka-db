@@ -1,5 +1,7 @@
 # Washizu: Tenka Sousei Touhairoku
 
+![washizu-tenka-sousei-touhairoku](https://cdn.myanimelist.net/images/manga/1/169039.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

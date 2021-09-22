@@ -1,5 +1,7 @@
 # Trance x Ecstasy
 
+![trance-x-ecstasy](https://cdn.myanimelist.net/images/manga/2/206203.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

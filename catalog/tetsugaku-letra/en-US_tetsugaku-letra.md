@@ -1,5 +1,7 @@
 # Tetsugaku Letra
 
+![tetsugaku-letra](https://cdn.myanimelist.net/images/manga/2/54189.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 27

@@ -1,5 +1,7 @@
 # Tsuihousha Shokudou e Youkoso!
 
+![tsuihousha-shokudou-e-youkoso](https://cdn.myanimelist.net/images/manga/3/227798.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 追放者食堂へようこそ！
 -   **start-date**: 2019-06-25

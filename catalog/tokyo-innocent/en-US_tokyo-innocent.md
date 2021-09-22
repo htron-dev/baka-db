@@ -1,5 +1,7 @@
 # Tokyo Innocent
 
+![tokyo-innocent](https://cdn.myanimelist.net/images/manga/1/74237.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 47

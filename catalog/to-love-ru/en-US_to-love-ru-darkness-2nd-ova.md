@@ -1,5 +1,7 @@
 # To LOVE-Ru Darkness 2nd OVA
 
+![to-love-ru-darkness-2nd-ova](https://cdn.myanimelist.net/images/anime/13/76320.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: To LOVE る -とらぶる- ダークネス 2nd

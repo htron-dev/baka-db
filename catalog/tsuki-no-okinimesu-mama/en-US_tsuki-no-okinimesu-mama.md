@@ -1,5 +1,7 @@
 # Tsuki no Okinimesu mama
 
+![tsuki-no-okinimesu-mama](https://cdn.myanimelist.net/images/manga/3/229044.jpg)
+
 -   **type**: manga
 -   **original-name**: 月のお気に召すまま
 -   **start-date**: 2018-11-13

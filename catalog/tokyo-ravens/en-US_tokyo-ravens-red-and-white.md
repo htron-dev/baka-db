@@ -1,5 +1,7 @@
 # Tokyo Ravens: Red And White
 
+![tokyo-ravens-red-and-white](https://cdn.myanimelist.net/images/manga/2/166261.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Tokimeki Restaurant☆☆☆ MIRACLE6 Movie
 
+![tokimeki-restaurant☆☆☆-miracle-6-movie](https://cdn.myanimelist.net/images/anime/8/88601.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版ときめきレストラン ☆☆☆ MIRACLE ６

@@ -1,5 +1,7 @@
 # Tensei shitara Slime Datta Ken OVA
 
+![tensei-shitara-slime-datta-ken-ova](https://cdn.myanimelist.net/images/anime/1116/104615.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: 転生したらスライムだった件 OVA

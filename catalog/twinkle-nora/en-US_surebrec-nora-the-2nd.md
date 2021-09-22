@@ -1,5 +1,7 @@
 # Surebrec: Nora the 2nd
 
+![surebrec-nora-the-2nd](https://cdn.myanimelist.net/images/manga/2/112081.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

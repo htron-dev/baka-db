@@ -1,5 +1,7 @@
 # Togainu no Chi Anthology Comic
 
+![togainu-no-chi-anthology-comic](https://cdn.myanimelist.net/images/manga/3/2902.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 咎狗の血

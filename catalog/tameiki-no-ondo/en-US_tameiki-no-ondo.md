@@ -1,5 +1,7 @@
 # Tameiki no Ondo
 
+![tameiki-no-ondo](https://cdn.myanimelist.net/images/manga/2/3010.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

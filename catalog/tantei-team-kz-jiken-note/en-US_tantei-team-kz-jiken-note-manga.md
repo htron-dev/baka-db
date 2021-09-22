@@ -1,5 +1,7 @@
 # Tantei Team KZ Jiken Note
 
+![tantei-team-kz-jiken-note](https://cdn.myanimelist.net/images/manga/1/171076.jpg)
+
 -   **type**: manga
 -   **original-name**: 探偵チーム KZ 事件ノート
 -   **start-date**: 2015-10-03

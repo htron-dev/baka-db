@@ -1,5 +1,7 @@
 # Teppan!
 
+![teppan](https://cdn.myanimelist.net/images/manga/3/35224.jpg)
+
 -   **type**: manga
 -   **original-name**: てっぱん!
 -   **start-date**: 2010-06-29

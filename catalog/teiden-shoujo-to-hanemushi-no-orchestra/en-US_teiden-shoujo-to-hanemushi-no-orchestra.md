@@ -1,5 +1,7 @@
 # Teiden Shoujo to Hanemushi no Orchestra
 
+![teiden-shoujo-to-hanemushi-no-orchestra](https://cdn.myanimelist.net/images/manga/4/39890.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 停電少女と羽蟲のオーケストラ

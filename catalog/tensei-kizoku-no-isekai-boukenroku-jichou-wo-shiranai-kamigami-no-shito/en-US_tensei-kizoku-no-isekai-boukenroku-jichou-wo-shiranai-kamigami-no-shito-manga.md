@@ -1,5 +1,7 @@
 # Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito
 
+![tensei-kizoku-no-isekai-boukenroku-jichou-wo-shiranai-kamigami-no-shito](https://cdn.myanimelist.net/images/manga/3/219500.jpg)
+
 -   **type**: manga
 -   **original-name**: 転生貴族の異世界冒険録～自重を知らない神々の使徒～
 -   **start-date**: 2018-03-25

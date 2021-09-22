@@ -1,5 +1,7 @@
 # Temple
 
+![temple](https://cdn.myanimelist.net/images/manga/2/221611.jpg)
+
 -   **type**: manga
 -   **original-name**: てんぷる
 -   **start-date**: 2018-09-01

@@ -1,5 +1,7 @@
 # Ten: Tenhou-doori no Kaidanji
 
+![ten-tenhou-doori-no-kaidanji](https://cdn.myanimelist.net/images/manga/2/29442.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 164

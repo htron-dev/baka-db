@@ -1,5 +1,7 @@
 # TiG-HuG Planet
 
+![ti-g-hu-g-planet](https://cdn.myanimelist.net/images/manga/2/191940.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

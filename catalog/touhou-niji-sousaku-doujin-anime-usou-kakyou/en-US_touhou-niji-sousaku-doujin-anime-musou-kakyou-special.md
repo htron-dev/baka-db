@@ -1,5 +1,7 @@
 # Touhou Niji Sousaku Doujin Anime: Musou Kakyou Special
 
+![touhou-niji-sousaku-doujin-anime-musou-kakyou-special](https://cdn.myanimelist.net/images/anime/1682/90320.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 東方二次創作同人アニメ 夢想夏郷 2.5

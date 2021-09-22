@@ -1,5 +1,7 @@
 # Tadashi, Kare wa Yandere ni Sae Motemasen
 
+![tadashi-kare-wa-yandere-ni-sae-motemasen](https://cdn.myanimelist.net/images/manga/1/163396.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 18

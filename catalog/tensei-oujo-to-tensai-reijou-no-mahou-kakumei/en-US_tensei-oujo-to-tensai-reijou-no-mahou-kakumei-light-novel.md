@@ -1,5 +1,7 @@
 # Tensei Oujo to Tensai Reijou no Mahou Kakumei
 
+![tensei-oujo-to-tensai-reijou-no-mahou-kakumei](https://cdn.myanimelist.net/images/manga/3/248626.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 転生王女と天才令嬢の魔法革命
 -   **start-date**: 2020-01-18

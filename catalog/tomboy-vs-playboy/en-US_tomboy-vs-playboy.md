@@ -1,5 +1,7 @@
 # Tomboy vs Playboy
 
+![tomboy-vs-playboy](https://cdn.myanimelist.net/images/manga/2/18228.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 

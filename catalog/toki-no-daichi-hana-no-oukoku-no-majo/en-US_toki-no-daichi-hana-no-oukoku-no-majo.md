@@ -1,5 +1,7 @@
 # Toki no Daichi: Hana no Oukoku no Majo
 
+![toki-no-daichi-hana-no-oukoku-no-majo](https://cdn.myanimelist.net/images/anime/1780/97622.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 刻の大地 ～花の王国の魔女～

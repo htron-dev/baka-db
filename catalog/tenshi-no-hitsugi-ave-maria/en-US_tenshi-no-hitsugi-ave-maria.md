@@ -1,5 +1,7 @@
 # Tenshi no Hitsugi: Ave Maria
 
+![tenshi-no-hitsugi-ave-maria](https://cdn.myanimelist.net/images/manga/3/26631.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # To Heart 2 Special
 
+![to-heart-2-special](https://cdn.myanimelist.net/images/anime/3/24110.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ToHeart2 特別編

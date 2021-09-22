@@ -1,5 +1,7 @@
 # Toshokan Dragon wa Hi wo Fukanai
 
+![toshokan-dragon-wa-hi-wo-fukanai](https://cdn.myanimelist.net/images/manga/1/199722.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 図書館ドラゴンは火を吹かない
 -   **start-date**: 2016-02-20

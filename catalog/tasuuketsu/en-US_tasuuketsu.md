@@ -1,5 +1,7 @@
 # Tasuuketsu
 
+![tasuuketsu](https://cdn.myanimelist.net/images/manga/2/228307.jpg)
+
 -   **type**: manga
 -   **original-name**: 多数欠
 -   **start-date**: 2013-09-11

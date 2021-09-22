@@ -1,5 +1,7 @@
 # The Heart's Rhythm of Angel
 
+![the-hearts-rhythm-of-angel](https://cdn.myanimelist.net/images/manga/2/2319.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

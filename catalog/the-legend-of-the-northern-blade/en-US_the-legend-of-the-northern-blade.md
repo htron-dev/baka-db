@@ -1,5 +1,7 @@
 # The Legend of the Northern Blade
 
+![the-legend-of-the-northern-blade](https://cdn.myanimelist.net/images/manga/3/243483.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 북검전기
 -   **start-date**: 2020-01-01

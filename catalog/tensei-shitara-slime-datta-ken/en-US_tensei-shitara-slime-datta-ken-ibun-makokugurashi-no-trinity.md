@@ -1,5 +1,7 @@
 # Tensei shitara Slime Datta Ken Ibun: Makokugurashi no Trinity
 
+![tensei-shitara-slime-datta-ken-ibun-makokugurashi-no-trinity](https://cdn.myanimelist.net/images/manga/1/228412.jpg)
+
 -   **type**: manga
 -   **original-name**: 転生したらスライムだった件 異聞 ～魔国暮らしのトリニティ～
 -   **start-date**: 2019-03-14

@@ -1,5 +1,7 @@
 # Territory M no Juunin
 
+![territory-m-no-juunin](https://cdn.myanimelist.net/images/manga/1/196491.jpg)
+
 -   **type**: manga
 -   **original-name**: テリトリー M の住人
 -   **start-date**: 2017-01-13

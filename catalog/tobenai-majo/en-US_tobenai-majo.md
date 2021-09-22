@@ -1,5 +1,7 @@
 # Tobenai Majo
 
+![tobenai-majo](https://cdn.myanimelist.net/images/manga/3/10063.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

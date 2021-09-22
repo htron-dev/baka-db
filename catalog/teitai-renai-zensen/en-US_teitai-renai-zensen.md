@@ -1,5 +1,7 @@
 # Teitai Renai Zensen
 
+![teitai-renai-zensen](https://cdn.myanimelist.net/images/manga/3/16757.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

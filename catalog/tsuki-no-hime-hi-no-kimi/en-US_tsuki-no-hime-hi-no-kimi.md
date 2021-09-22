@@ -1,5 +1,7 @@
 # Tsuki no Hime Hi no Kimi
 
+![tsuki-no-hime-hi-no-kimi](https://cdn.myanimelist.net/images/manga/3/20686.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

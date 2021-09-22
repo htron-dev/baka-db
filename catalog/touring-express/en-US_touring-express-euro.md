@@ -1,5 +1,7 @@
 # Touring Express Euro
 
+![touring-express-euro](https://cdn.myanimelist.net/images/manga/2/212695.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: ツーリング EXP.Euro

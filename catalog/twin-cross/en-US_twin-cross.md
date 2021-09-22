@@ -1,5 +1,7 @@
 # Twin Cross
 
+![twin-cross](https://cdn.myanimelist.net/images/manga/2/28762.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 13

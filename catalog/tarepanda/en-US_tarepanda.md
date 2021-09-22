@@ -1,5 +1,7 @@
 # Tarepanda
 
+![tarepanda](https://cdn.myanimelist.net/images/anime/2/57547.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: たれぱんだ

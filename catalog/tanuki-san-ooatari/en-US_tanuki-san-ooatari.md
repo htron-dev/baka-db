@@ -1,5 +1,7 @@
 # Tanuki-san Ooatari
 
+![tanuki-san-ooatari](https://cdn.myanimelist.net/images/anime/7/66459.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: たぬきさん大当り

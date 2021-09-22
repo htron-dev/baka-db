@@ -1,5 +1,7 @@
 # Taiyou no Senshi Pokapoka
 
+![taiyou-no-senshi-pokapoka](https://cdn.myanimelist.net/images/manga/3/69461.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 太陽の戦士ポカポカ

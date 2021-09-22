@@ -1,5 +1,7 @@
 # Tatoe Konohana ga Sakanakutemo
 
+![tatoe-konohana-ga-sakanakutemo](https://cdn.myanimelist.net/images/manga/2/125075.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

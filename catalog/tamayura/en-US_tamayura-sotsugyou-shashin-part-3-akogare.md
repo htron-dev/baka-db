@@ -1,5 +1,7 @@
 # Tamayura: Sotsugyou Shashin Part 3 - Akogare
 
+![tamayura-sotsugyou-shashin-part-3-akogare](https://cdn.myanimelist.net/images/anime/10/76022.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: たまゆら～卒業写真～ 第 3 部 憧-あこがれ-

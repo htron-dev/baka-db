@@ -1,5 +1,7 @@
 # Tenshi Shukushi
 
+![tenshi-shukushi](https://cdn.myanimelist.net/images/manga/3/192566.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 36

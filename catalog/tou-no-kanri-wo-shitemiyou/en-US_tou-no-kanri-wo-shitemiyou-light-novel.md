@@ -1,5 +1,7 @@
 # Tou no Kanri wo Shitemiyou
 
+![tou-no-kanri-wo-shitemiyou](https://cdn.myanimelist.net/images/manga/2/227836.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 45

@@ -1,5 +1,7 @@
 # Tokimeki no Ikenie
 
+![tokimeki-no-ikenie](https://cdn.myanimelist.net/images/manga/3/235030.jpg)
+
 -   **type**: manga
 -   **original-name**: ときめきのいけにえ
 -   **start-date**: 2020-01-15

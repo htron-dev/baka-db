@@ -1,5 +1,7 @@
 # Toushin Toshi III
 
+![toushin-toshi-iii](https://cdn.myanimelist.net/images/manga/3/154235.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 37

@@ -1,5 +1,7 @@
 # Tokyo Crazy Paradise
 
+![tokyo-crazy-paradise](https://cdn.myanimelist.net/images/manga/2/124097.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 111

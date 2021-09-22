@@ -1,5 +1,7 @@
 # Tonikaku Kawaii OVA
 
+![tonikaku-kawaii-ova](https://cdn.myanimelist.net/images/anime/1773/116805.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: トニカクカワイイ

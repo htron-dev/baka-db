@@ -1,5 +1,7 @@
 # Tenshi no Mure
 
+![tenshi-no-mure](https://cdn.myanimelist.net/images/manga/1/5185.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

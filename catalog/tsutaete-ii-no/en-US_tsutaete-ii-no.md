@@ -1,5 +1,7 @@
 # Tsutaete Ii no
 
+![tsutaete-ii-no](https://cdn.myanimelist.net/images/manga/2/165572.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

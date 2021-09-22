@@ -1,5 +1,7 @@
 # Tetsujin 28-gou: Tanjou-hen
 
+![tetsujin-28-gou-tanjou-hen](https://cdn.myanimelist.net/images/anime/7/67847.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 鉄人 28 号「誕生編」

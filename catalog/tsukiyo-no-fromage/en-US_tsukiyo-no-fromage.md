@@ -1,5 +1,7 @@
 # Tsukiyo no Fromage
 
+![tsukiyo-no-fromage](https://cdn.myanimelist.net/images/manga/3/10575.jpg)
+
 -   **type**: manga
 -   **original-name**: 月夜のフロマージュ
 

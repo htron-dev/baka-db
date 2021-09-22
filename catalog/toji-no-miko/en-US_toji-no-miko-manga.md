@@ -1,5 +1,7 @@
 # Toji no Miko
 
+![toji-no-miko](https://cdn.myanimelist.net/images/manga/2/204840.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

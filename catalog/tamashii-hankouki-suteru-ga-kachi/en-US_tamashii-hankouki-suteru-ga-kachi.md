@@ -1,5 +1,7 @@
 # Tamashii Hankouki - Suteru ga Kachi!
 
+![tamashii-hankouki-suteru-ga-kachi](https://cdn.myanimelist.net/images/manga/2/99537.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

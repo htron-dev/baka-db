@@ -1,5 +1,7 @@
 # Tsugu Tsugumomo
 
+![tsugu-tsugumomo](https://cdn.myanimelist.net/images/anime/1997/106184.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 続・つぐもも

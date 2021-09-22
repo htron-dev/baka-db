@@ -1,5 +1,7 @@
 # Tensei! Isekai yori Ai wo Komete
 
+![tensei-isekai-yori-ai-wo-komete](https://cdn.myanimelist.net/images/manga/3/159206.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

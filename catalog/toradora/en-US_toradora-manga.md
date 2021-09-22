@@ -1,5 +1,7 @@
 # Toradora!
 
+![toradora](https://cdn.myanimelist.net/images/manga/2/174090.jpg)
+
 -   **type**: manga
 -   **original-name**: とらドラ!
 -   **start-date**: 2007-07-27

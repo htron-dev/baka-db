@@ -1,5 +1,7 @@
 # Tabishi Kawaran!!
 
+![tabishi-kawaran](https://cdn.myanimelist.net/images/manga/3/240370.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 40

@@ -1,5 +1,7 @@
 # Tengen Toppa Gurren Lagann: Mitee Mono wa Miteen da!!
 
+![tengen-toppa-gurren-lagann-mitee-mono-wa-miteen-da](https://cdn.myanimelist.net/images/anime/9/19659.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 天元突破 グレンラガン 見てえものは見てえんだ!!

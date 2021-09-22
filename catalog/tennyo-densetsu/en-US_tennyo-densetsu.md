@@ -1,5 +1,7 @@
 # Tennyo Densetsu
 
+![tennyo-densetsu](https://cdn.myanimelist.net/images/manga/1/44241.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 天女伝説

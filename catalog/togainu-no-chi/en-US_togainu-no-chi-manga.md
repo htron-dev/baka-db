@@ -1,5 +1,7 @@
 # Togainu no Chi
 
+![togainu-no-chi](https://cdn.myanimelist.net/images/manga/3/88469.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

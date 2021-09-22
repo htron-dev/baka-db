@@ -1,5 +1,7 @@
 # Toh Shin Den
 
+![toh-shin-den](https://cdn.myanimelist.net/images/manga/2/32600.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 闘神伝

@@ -1,5 +1,7 @@
 # Toraware no Hanayome to Amai Doku no Kusari
 
+![toraware-no-hanayome-to-amai-doku-no-kusari](https://cdn.myanimelist.net/images/manga/2/194214.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

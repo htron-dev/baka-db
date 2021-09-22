@@ -1,5 +1,7 @@
 # Tenshi no Tame no Shohousen.
 
+![tenshi-no-tame-no-shohousen](https://cdn.myanimelist.net/images/manga/2/15172.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

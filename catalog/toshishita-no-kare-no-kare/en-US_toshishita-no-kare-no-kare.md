@@ -1,5 +1,7 @@
 # Toshishita no Kare no Kare
 
+![toshishita-no-kare-no-kare](https://cdn.myanimelist.net/images/manga/2/224457.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

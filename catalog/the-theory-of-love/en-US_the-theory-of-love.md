@@ -1,5 +1,7 @@
 # The Theory of Love
 
+![the-theory-of-love](https://cdn.myanimelist.net/images/manga/3/6089.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 恋愛のセオリー上

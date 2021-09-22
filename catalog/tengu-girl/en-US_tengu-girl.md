@@ -1,5 +1,7 @@
 # Tengu Girl
 
+![tengu-girl](https://cdn.myanimelist.net/images/manga/2/123785.jpg)
+
 -   **type**: manga
 -   **original-name**: テングガール
 

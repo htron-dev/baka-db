@@ -1,5 +1,7 @@
 # Tekkaba no Shin
 
+![tekkaba-no-shin](https://cdn.myanimelist.net/images/manga/3/203681.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 96

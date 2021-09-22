@@ -1,5 +1,7 @@
 # Nono-chan Theater
 
+![nono-chan-theater](https://cdn.myanimelist.net/images/anime/4/85747.jpg)
+
 -   **type**: ona
 -   **episodes**: 85
 -   **original-name**: ののちゃんシアター

@@ -1,5 +1,7 @@
 # Tonari no Kimi ga Ichiban Kawaii
 
+![tonari-no-kimi-ga-ichiban-kawaii](https://cdn.myanimelist.net/images/manga/1/246184.jpg)
+
 -   **type**: manga
 -   **original-name**: 隣の君が一番かわいい
 -   **start-date**: 2021-06-09

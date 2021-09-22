@@ -1,5 +1,7 @@
 # Terra Formars: Revenge
 
+![terra-formars-revenge](https://cdn.myanimelist.net/images/anime/9/78566.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: テラフォーマーズ リベンジ

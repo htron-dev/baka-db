@@ -1,5 +1,7 @@
 # The Summit
 
+![the-summit](https://cdn.myanimelist.net/images/manga/4/18344.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **original-name**: 절정絶頂

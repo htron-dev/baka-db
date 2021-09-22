@@ -1,5 +1,7 @@
 # Tokyo Karasu
 
+![tokyo-karasu](https://cdn.myanimelist.net/images/manga/2/168480.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 60

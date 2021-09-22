@@ -1,5 +1,7 @@
 # Wake up!! Tamala
 
+![wake-up-tamala](https://cdn.myanimelist.net/images/anime/7/76309.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Wake up!! TAMALA

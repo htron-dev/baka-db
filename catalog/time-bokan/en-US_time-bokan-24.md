@@ -1,5 +1,7 @@
 # Time Bokan 24
 
+![time-bokan-24](https://cdn.myanimelist.net/images/anime/2/82232.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: タイムボカン 24

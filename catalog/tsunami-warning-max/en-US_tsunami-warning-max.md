@@ -1,5 +1,7 @@
 # Tsunami Warning MAX!
 
+![tsunami-warning-max](https://cdn.myanimelist.net/images/manga/2/10313.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: つなみ注意報ＭＡＸ！

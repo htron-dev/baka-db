@@ -1,5 +1,7 @@
 # Taishou Rouman: Oni-san Yameteee!!
 
+![taishou-rouman-oni-san-yameteee](https://cdn.myanimelist.net/images/manga/2/149964.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

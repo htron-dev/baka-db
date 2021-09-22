@@ -1,5 +1,7 @@
 # Touhou Sangetsusei: Strange and Bright Nature Deity
 
+![touhou-sangetsusei-strange-and-bright-nature-deity](https://cdn.myanimelist.net/images/manga/1/171909.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

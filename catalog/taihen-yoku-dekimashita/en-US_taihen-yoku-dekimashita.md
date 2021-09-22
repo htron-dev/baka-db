@@ -1,5 +1,7 @@
 # Taihen Yoku Dekimashita.
 
+![taihen-yoku-dekimashita](https://cdn.myanimelist.net/images/manga/2/165947.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 33

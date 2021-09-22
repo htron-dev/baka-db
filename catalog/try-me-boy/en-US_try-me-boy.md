@@ -1,5 +1,7 @@
 # Try Me Boy!
 
+![try-me-boy](https://cdn.myanimelist.net/images/manga/2/50369.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

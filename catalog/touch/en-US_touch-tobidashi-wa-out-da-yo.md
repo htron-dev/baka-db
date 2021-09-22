@@ -1,5 +1,7 @@
 # Touch: Tobidashi wa Out Da yo!
 
+![touch-tobidashi-wa-out-da-yo](https://cdn.myanimelist.net/images/anime/1122/99354.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: タッチ とびだしはアウトだよ

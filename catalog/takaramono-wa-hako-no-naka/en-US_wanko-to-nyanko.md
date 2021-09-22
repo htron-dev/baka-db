@@ -1,5 +1,7 @@
 # Wanko to Nyanko
 
+![wanko-to-nyanko](https://cdn.myanimelist.net/images/manga/2/5919.jpg)
+
 -   **type**: manga
 -   **original-name**: わんことにゃんこ
 

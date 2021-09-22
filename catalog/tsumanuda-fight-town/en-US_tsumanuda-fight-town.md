@@ -1,5 +1,7 @@
 # Tsumanuda Fight Town
 
+![tsumanuda-fight-town](https://cdn.myanimelist.net/images/manga/2/179185.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 124

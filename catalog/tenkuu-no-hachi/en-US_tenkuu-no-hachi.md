@@ -1,5 +1,7 @@
 # Tenkuu no Hachi
 
+![tenkuu-no-hachi](https://cdn.myanimelist.net/images/manga/1/163899.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

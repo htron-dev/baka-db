@@ -1,5 +1,7 @@
 # Tsuritama
 
+![tsuritama](https://cdn.myanimelist.net/images/anime/4/69909.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: つり球

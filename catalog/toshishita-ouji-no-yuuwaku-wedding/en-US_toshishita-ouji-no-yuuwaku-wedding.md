@@ -1,5 +1,7 @@
 # Toshishita Ouji no Yuuwaku Wedding
 
+![toshishita-ouji-no-yuuwaku-wedding](https://cdn.myanimelist.net/images/manga/3/180939.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 1

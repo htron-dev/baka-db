@@ -1,5 +1,7 @@
 # Shiawase wa Konna Katachi de Yatte Kuru
 
+![shiawase-wa-konna-katachi-de-yatte-kuru](https://cdn.myanimelist.net/images/manga/2/18396.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 30

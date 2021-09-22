@@ -1,5 +1,7 @@
 # Tenseimae kara Nerawaretemasu!!
 
+![tenseimae-kara-nerawaretemasu](https://cdn.myanimelist.net/images/manga/2/228260.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

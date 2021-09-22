@@ -1,5 +1,7 @@
 # Tengoku e Ikebaii
 
+![tengoku-e-ikebaii](https://cdn.myanimelist.net/images/manga/3/6386.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

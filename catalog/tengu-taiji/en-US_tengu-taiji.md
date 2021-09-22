@@ -1,5 +1,7 @@
 # Tengu Taiji
 
+![tengu-taiji](https://cdn.myanimelist.net/images/anime/2/15841.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 天狗退治

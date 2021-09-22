@@ -1,5 +1,7 @@
 # Tanaka: Nenrei Equal Kanojo Inaireki no Mahoutsukai the Comic
 
+![tanaka-nenrei-equal-kanojo-inaireki-no-mahoutsukai-the-comic](https://cdn.myanimelist.net/images/manga/3/193591.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Tokeijikake no Ringo
 
+![tokeijikake-no-ringo](https://cdn.myanimelist.net/images/manga/3/41591.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

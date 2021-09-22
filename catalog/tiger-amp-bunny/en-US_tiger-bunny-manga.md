@@ -1,5 +1,7 @@
 # Tiger & Bunny
 
+![tiger-bunny](https://cdn.myanimelist.net/images/manga/1/161787.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 38

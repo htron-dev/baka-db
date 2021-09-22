@@ -1,5 +1,7 @@
 # Tenshou no Quadrable
 
+![tenshou-no-quadrable](https://cdn.myanimelist.net/images/manga/3/201210.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 38

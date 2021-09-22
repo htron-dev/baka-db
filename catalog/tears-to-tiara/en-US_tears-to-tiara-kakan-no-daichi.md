@@ -1,5 +1,7 @@
 # Tears to Tiara: Kakan no Daichi
 
+![tears-to-tiara-kakan-no-daichi](https://cdn.myanimelist.net/images/manga/1/24395.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

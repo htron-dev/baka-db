@@ -1,5 +1,7 @@
 # Tamarase
 
+![tamarase](https://cdn.myanimelist.net/images/manga/2/159806.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 38

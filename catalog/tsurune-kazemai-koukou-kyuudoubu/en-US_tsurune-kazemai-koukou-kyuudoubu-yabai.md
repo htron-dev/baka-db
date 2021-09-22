@@ -1,5 +1,7 @@
 # Tsurune: Kazemai Koukou Kyuudoubu - Yabai
 
+![tsurune-kazemai-koukou-kyuudoubu-yabai](https://cdn.myanimelist.net/images/anime/1377/100872.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ツルネ ―風舞高校弓道部― 第十四話「矢場い」

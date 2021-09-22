@@ -1,5 +1,7 @@
 # Tensei-saki ga Shoujo Manga no Shirobuta Reijou datta
 
+![tensei-saki-ga-shoujo-manga-no-shirobuta-reijou-datta](https://cdn.myanimelist.net/images/manga/1/221157.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # The Man Who Saw Hell
 
+![the-man-who-saw-hell](https://cdn.myanimelist.net/images/manga/2/33928.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

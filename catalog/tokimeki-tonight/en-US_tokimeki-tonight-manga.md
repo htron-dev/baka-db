@@ -1,5 +1,7 @@
 # Tokimeki Tonight
 
+![tokimeki-tonight](https://cdn.myanimelist.net/images/manga/1/159409.jpg)
+
 -   **type**: manga
 -   **volumes**: 30
 -   **original-name**: ときめきトゥナイト

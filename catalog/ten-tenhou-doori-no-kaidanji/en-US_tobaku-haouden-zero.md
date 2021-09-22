@@ -1,5 +1,7 @@
 # Tobaku Haouden Zero
 
+![tobaku-haouden-zero](https://cdn.myanimelist.net/images/manga/3/24288.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 70

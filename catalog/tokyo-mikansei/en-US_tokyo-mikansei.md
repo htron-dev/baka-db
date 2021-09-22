@@ -1,5 +1,7 @@
 # Tokyo Mikansei
 
+![tokyo-mikansei](https://cdn.myanimelist.net/images/anime/1362/104122.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: tokyo 未完成

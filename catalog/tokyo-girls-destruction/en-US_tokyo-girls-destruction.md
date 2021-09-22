@@ -1,5 +1,7 @@
 # Tokyo Girls Destruction
 
+![tokyo-girls-destruction](https://cdn.myanimelist.net/images/manga/2/61997.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Tsundere! - Megane Café e Youkoso
 
+![tsundere-megane-cafe-e-youkoso](https://cdn.myanimelist.net/images/manga/1/125565.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

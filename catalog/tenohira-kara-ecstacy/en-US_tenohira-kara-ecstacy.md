@@ -1,5 +1,7 @@
 # Tenohira kara Ecstacy
 
+![tenohira-kara-ecstacy](https://cdn.myanimelist.net/images/manga/1/153370.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: てのひらからエクスタシー

@@ -1,5 +1,7 @@
 # Tonari no Onigiri-kun
 
+![tonari-no-onigiri-kun](https://cdn.myanimelist.net/images/anime/1619/93112.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: となりのおにぎり君

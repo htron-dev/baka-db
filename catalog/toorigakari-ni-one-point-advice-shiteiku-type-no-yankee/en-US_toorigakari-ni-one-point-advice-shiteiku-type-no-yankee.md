@@ -1,5 +1,7 @@
 # Toorigakari ni One Point Advice shiteiku Type no Yankee
 
+![toorigakari-ni-one-point-advice-shiteiku-type-no-yankee](https://cdn.myanimelist.net/images/manga/2/226429.jpg)
+
 -   **type**: manga
 -   **original-name**: 通りがかりにワンポイントアドバイスしていくタイプのヤンキー
 -   **start-date**: 2019-02-22

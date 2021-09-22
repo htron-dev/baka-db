@@ -1,5 +1,7 @@
 # Tokyo Tribe3
 
+![tokyo-tribe-3](https://cdn.myanimelist.net/images/manga/3/193325.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: TOKYO TRIBE3

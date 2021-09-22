@@ -1,5 +1,7 @@
 # Tokyo Ants
 
+![tokyo-ants](https://cdn.myanimelist.net/images/manga/3/112077.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

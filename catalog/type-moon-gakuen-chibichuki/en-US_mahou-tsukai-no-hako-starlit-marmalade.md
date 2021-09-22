@@ -1,5 +1,7 @@
 # Mahou Tsukai no Hako: Starlit Marmalade
 
+![mahou-tsukai-no-hako-starlit-marmalade](https://cdn.myanimelist.net/images/manga/1/147375.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

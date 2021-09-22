@@ -1,5 +1,7 @@
 # Taiyou no Ko Esteban
 
+![taiyou-no-ko-esteban](https://cdn.myanimelist.net/images/anime/7/39543.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: 太陽の子エステバン

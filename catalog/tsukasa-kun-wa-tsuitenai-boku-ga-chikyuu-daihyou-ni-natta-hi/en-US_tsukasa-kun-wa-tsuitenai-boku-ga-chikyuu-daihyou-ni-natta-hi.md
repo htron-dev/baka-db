@@ -1,5 +1,7 @@
 # Tsukasa-kun wa Tsuitenai: Boku ga Chikyuu Daihyou ni Natta Hi
 
+![tsukasa-kun-wa-tsuitenai-boku-ga-chikyuu-daihyou-ni-natta-hi](https://cdn.myanimelist.net/images/manga/2/169784.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Tai Yi Xian Mo Lu Zhi Ling Fei Ji III
 
+![tai-yi-xian-mo-lu-zhi-ling-fei-ji-iii](https://cdn.myanimelist.net/images/anime/1879/110813.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: 太乙仙魔录之灵飞纪 ⅡI

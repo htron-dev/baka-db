@@ -1,5 +1,7 @@
 # Tokyo Tarareba Musume
 
+![tokyo-tarareba-musume](https://cdn.myanimelist.net/images/manga/2/162011.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 31

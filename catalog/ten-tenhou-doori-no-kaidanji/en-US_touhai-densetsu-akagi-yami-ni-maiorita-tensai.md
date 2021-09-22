@@ -1,5 +1,7 @@
 # Touhai Densetsu Akagi: Yami ni Maiorita Tensai
 
+![touhai-densetsu-akagi-yami-ni-maiorita-tensai](https://cdn.myanimelist.net/images/anime/11/53587.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 闘牌伝説アカギ　闇に舞い降りた天才

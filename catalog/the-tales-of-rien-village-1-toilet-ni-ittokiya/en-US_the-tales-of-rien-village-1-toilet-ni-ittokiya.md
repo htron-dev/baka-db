@@ -1,5 +1,7 @@
 # The Tales of Rien Village #1: "Toilet ni Ittokiya"
 
+![the-tales-of-rien-village-1-toilet-ni-ittokiya](https://cdn.myanimelist.net/images/anime/13/17755.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: rien 村物語 #1 「トイレにいっときやー」

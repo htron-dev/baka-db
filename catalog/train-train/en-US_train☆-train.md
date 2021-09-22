@@ -1,5 +1,7 @@
 # Train☆Train
 
+![train☆-train](https://cdn.myanimelist.net/images/manga/3/11046.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 30

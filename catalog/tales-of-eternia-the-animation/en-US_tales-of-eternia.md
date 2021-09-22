@@ -1,5 +1,7 @@
 # Tales of Eternia
 
+![tales-of-eternia](https://cdn.myanimelist.net/images/manga/4/37618.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 56

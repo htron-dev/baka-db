@@ -1,5 +1,7 @@
 # Terra Formars: Mousou Kunrenki - Oshiete! Michelle Kyoukan
 
+![terra-formars-mousou-kunrenki-oshiete-michelle-kyoukan](https://cdn.myanimelist.net/images/manga/2/146755.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

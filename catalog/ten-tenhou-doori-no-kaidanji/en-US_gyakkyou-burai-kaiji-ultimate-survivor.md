@@ -1,5 +1,7 @@
 # Gyakkyou Burai Kaiji: Ultimate Survivor
 
+![gyakkyou-burai-kaiji-ultimate-survivor](https://cdn.myanimelist.net/images/anime/12/80032.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 逆境無頼カイジ Ultimate Survivor

@@ -1,5 +1,7 @@
 # Teo the Magic Planet Pilot
 
+![teo-the-magic-planet-pilot](https://cdn.myanimelist.net/images/anime/6/78536.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: TEO THE MAGIC PLANET

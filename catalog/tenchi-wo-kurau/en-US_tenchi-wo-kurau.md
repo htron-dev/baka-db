@@ -1,5 +1,7 @@
 # Tenchi wo Kurau
 
+![tenchi-wo-kurau](https://cdn.myanimelist.net/images/manga/1/151375.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 33

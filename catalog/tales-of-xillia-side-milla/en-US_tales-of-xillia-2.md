@@ -1,5 +1,7 @@
 # Tales of Xillia 2
 
+![tales-of-xillia-2](https://cdn.myanimelist.net/images/manga/5/99489.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

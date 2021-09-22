@@ -1,5 +1,7 @@
 # Shouwa Otome Otogibanashi
 
+![shouwa-otome-otogibanashi](https://cdn.myanimelist.net/images/manga/2/221857.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 48

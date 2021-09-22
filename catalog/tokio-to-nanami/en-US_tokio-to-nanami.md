@@ -1,5 +1,7 @@
 # Tokio to Nanami
 
+![tokio-to-nanami](https://cdn.myanimelist.net/images/manga/1/188583.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 34

@@ -1,5 +1,7 @@
 # Tiger &amp; Bunny Pilot
 
+![tiger-amp-bunny-pilot](https://cdn.myanimelist.net/images/anime/4/30751.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: TIGER & BUNNY （タイガー・アンド・バニー）

@@ -1,5 +1,7 @@
 # The Harmonic Gleam Vibration
 
+![the-harmonic-gleam-vibration](https://cdn.myanimelist.net/images/anime/3/58125.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: The Harmonic Gleam Vibration

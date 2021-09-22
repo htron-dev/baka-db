@@ -1,5 +1,7 @@
 # Tsurugi no Joou to Rakuin no Ko
 
+![tsurugi-no-joou-to-rakuin-no-ko](https://cdn.myanimelist.net/images/manga/1/158575.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 72

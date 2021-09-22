@@ -1,5 +1,7 @@
 # Tottoko Hamtarou wa Ham Ham Paradise! Kazu Katachi Chie
 
+![tottoko-hamtarou-wa-ham-ham-paradise-kazu-katachi-chie](https://cdn.myanimelist.net/images/anime/1471/98572.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: とっとこハム太郎 はむはむぱらだいちゅ! かず・かたち・ちえ

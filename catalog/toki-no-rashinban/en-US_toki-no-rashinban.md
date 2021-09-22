@@ -1,5 +1,7 @@
 # Toki no Rashinban
 
+![toki-no-rashinban](https://cdn.myanimelist.net/images/manga/1/2474.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Tabekake Gospel Plan: Dear Succubus Sister
 
+![tabekake-gospel-plan-dear-succubus-sister](https://cdn.myanimelist.net/images/manga/2/181755.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

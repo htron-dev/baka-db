@@ -1,5 +1,7 @@
 # Trisagion
 
+![trisagion](https://cdn.myanimelist.net/images/manga/2/162539.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 40

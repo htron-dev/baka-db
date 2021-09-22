@@ -1,5 +1,7 @@
 # Tales of Symphonia The Animation: Sylvarant-hen
 
+![tales-of-symphonia-the-animation-sylvarant-hen](https://cdn.myanimelist.net/images/anime/3/77063.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: テイルズオブシンフォニア THE ANIMATION シルヴァラント編

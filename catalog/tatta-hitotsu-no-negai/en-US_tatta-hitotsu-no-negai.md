@@ -1,5 +1,7 @@
 # Tatta Hitotsu no, Negai.
 
+![tatta-hitotsu-no-negai](https://cdn.myanimelist.net/images/manga/3/124029.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Tokyo Higoro
 
+![tokyo-higoro](https://cdn.myanimelist.net/images/manga/3/249344.jpg)
+
 -   **type**: manga
 -   **original-name**: 東京ヒゴロ
 -   **start-date**: 2019-06-12

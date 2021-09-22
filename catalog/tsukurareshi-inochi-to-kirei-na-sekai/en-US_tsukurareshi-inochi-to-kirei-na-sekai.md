@@ -1,5 +1,7 @@
 # Tsukurareshi Inochi to Kirei na Sekai
 
+![tsukurareshi-inochi-to-kirei-na-sekai](https://cdn.myanimelist.net/images/manga/2/180393.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 造られしイノチとキレイなセカイ
 -   **start-date**: 2016-08-01

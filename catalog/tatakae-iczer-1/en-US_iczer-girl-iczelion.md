@@ -1,5 +1,7 @@
 # Iczer-Girl Iczelion
 
+![iczer-girl-iczelion](https://cdn.myanimelist.net/images/anime/1523/99255.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 戦-少女[イクサーガール]イクセリオン

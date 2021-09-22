@@ -1,5 +1,7 @@
 # The Silvery Crow
 
+![the-silvery-crow](https://cdn.myanimelist.net/images/manga/1/157088.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

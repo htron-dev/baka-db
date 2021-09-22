@@ -1,5 +1,7 @@
 # Tada no Renai nanka de Kikkonai: Kojirase Joushi to Fetish na Buka
 
+![tada-no-renai-nanka-de-kikkonai-kojirase-joushi-to-fetish-na-buka](https://cdn.myanimelist.net/images/manga/2/245516.jpg)
+
 -   **type**: manga
 -   **original-name**: ただの恋愛なんかできっこない -こじらせ上司とフェチな部下-
 -   **start-date**: 2020-05-01

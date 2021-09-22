@@ -1,5 +1,7 @@
 # Talpy
 
+![talpy](https://cdn.myanimelist.net/images/anime/12/70845.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: タルピー

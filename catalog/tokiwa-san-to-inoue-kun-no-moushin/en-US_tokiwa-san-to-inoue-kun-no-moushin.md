@@ -1,5 +1,7 @@
 # Tokiwa-san to Inoue-kun no Moushin
 
+![tokiwa-san-to-inoue-kun-no-moushin](https://cdn.myanimelist.net/images/manga/2/194929.jpg)
+
 -   **type**: manga
 -   **original-name**: 常盤さんと井上くんの妄信
 -   **start-date**: 2014-12-26

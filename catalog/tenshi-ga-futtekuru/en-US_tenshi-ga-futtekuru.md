@@ -1,5 +1,7 @@
 # Tenshi Ga Futtekuru
 
+![tenshi-ga-futtekuru](https://cdn.myanimelist.net/images/manga/2/8764.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

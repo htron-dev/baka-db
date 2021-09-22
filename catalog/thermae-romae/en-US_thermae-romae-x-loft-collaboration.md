@@ -1,5 +1,7 @@
 # Thermae Romae x LOFT Collaboration
 
+![thermae-romae-x-loft-collaboration](https://cdn.myanimelist.net/images/anime/5/38655.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: テルマエ・ロマエｘ LOFT 企業コラボレーション

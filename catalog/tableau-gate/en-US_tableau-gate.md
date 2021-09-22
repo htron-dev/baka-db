@@ -1,5 +1,7 @@
 # Tableau Gate
 
+![tableau-gate](https://cdn.myanimelist.net/images/manga/3/171665.jpg)
+
 -   **type**: manga
 -   **original-name**: タブロウ・ゲート
 -   **start-date**: 2007-05-16

@@ -1,5 +1,7 @@
 # Toukaidou Hisame
 
+![toukaidou-hisame](https://cdn.myanimelist.net/images/manga/2/23601.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

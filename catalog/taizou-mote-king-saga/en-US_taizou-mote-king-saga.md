@@ -1,5 +1,7 @@
 # Taizou Mote King Saga
 
+![taizou-mote-king-saga](https://cdn.myanimelist.net/images/manga/2/159354.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 90

@@ -1,5 +1,7 @@
 # Tsubame-chan Chi no Kateinai Renai
 
+![tsubame-chan-chi-no-kateinai-renai](https://cdn.myanimelist.net/images/manga/3/161781.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

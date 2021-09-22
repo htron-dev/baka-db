@@ -1,5 +1,7 @@
 # Tennen + Gokuraku Mahoutsukai
 
+![tennen-gokuraku-mahoutsukai](https://cdn.myanimelist.net/images/manga/2/6949.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Takkun ni Koishiteru!
 
+![takkun-ni-koishiteru](https://cdn.myanimelist.net/images/manga/3/128393.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 56

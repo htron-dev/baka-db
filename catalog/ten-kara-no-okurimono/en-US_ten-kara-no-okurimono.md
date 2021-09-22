@@ -1,5 +1,7 @@
 # Ten kara no Okurimono
 
+![ten-kara-no-okurimono](https://cdn.myanimelist.net/images/manga/5/51119.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

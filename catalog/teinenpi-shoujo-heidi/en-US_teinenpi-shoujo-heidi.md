@@ -1,5 +1,7 @@
 # Teinenpi Shoujo Heidi
 
+![teinenpi-shoujo-heidi](https://cdn.myanimelist.net/images/anime/3/20810.jpg)
+
 -   **type**: ona
 -   **episodes**: 8
 -   **original-name**: 低燃費少女ハイジ

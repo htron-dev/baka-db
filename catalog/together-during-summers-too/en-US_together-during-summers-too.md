@@ -1,5 +1,7 @@
 # Together During Summers, Too!
 
+![together-during-summers-too](https://cdn.myanimelist.net/images/manga/1/10511.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 

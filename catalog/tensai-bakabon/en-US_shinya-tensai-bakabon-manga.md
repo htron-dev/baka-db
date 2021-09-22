@@ -1,5 +1,7 @@
 # Shinya! Tensai Bakabon
 
+![shinya-tensai-bakabon](https://cdn.myanimelist.net/images/manga/3/226822.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

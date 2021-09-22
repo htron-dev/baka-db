@@ -1,5 +1,7 @@
 # Tiger Books
 
+![tiger-books](https://cdn.myanimelist.net/images/manga/2/44659.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 33

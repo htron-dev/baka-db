@@ -1,5 +1,7 @@
 # Tetsuwan Birdy Decode: Ano Hi no Sayaka e
 
+![tetsuwan-birdy-decode-ano-hi-no-sayaka-e](https://cdn.myanimelist.net/images/manga/2/172044.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

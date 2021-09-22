@@ -1,5 +1,7 @@
 # The Snack World
 
+![the-snack-world](https://cdn.myanimelist.net/images/anime/8/78249.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: スナックワールド

@@ -1,5 +1,7 @@
 # Tari Tari
 
+![tari-tari](https://cdn.myanimelist.net/images/anime/10/83575.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: TARI TARI

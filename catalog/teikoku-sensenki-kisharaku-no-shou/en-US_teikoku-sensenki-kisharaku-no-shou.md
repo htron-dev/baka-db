@@ -1,5 +1,7 @@
 # Teikoku Sensenki: Kisharaku no Shou
 
+![teikoku-sensenki-kisharaku-no-shou](https://cdn.myanimelist.net/images/manga/2/173803.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 帝国千戦記 貴沙烙の章

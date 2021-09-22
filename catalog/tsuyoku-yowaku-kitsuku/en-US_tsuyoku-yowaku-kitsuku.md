@@ -1,5 +1,7 @@
 # Tsuyoku Yowaku Kitsuku
 
+![tsuyoku-yowaku-kitsuku](https://cdn.myanimelist.net/images/manga/1/20503.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

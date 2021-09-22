@@ -1,5 +1,7 @@
 # Tarzan
 
+![tarzan](https://cdn.myanimelist.net/images/anime/7/72628.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ターザン

@@ -1,5 +1,7 @@
 # Toaru Yuusha no 004
 
+![toaru-yuusha-no-004](https://cdn.myanimelist.net/images/manga/2/170036.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

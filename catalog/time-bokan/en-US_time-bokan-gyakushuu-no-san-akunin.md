@@ -1,5 +1,7 @@
 # Time Bokan: Gyakushuu no San Akunin
 
+![time-bokan-gyakushuu-no-san-akunin](https://cdn.myanimelist.net/images/anime/9/88224.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: タイムボカン 逆襲の三悪人

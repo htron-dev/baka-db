@@ -1,5 +1,7 @@
 # Shin Tenchi Muyou! Specials
 
+![shin-tenchi-muyou-specials](https://cdn.myanimelist.net/images/anime/8/24199.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 新・天地無用!

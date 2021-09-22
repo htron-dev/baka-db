@@ -1,5 +1,7 @@
 # T.V. Eye
 
+![t-v-eye](https://cdn.myanimelist.net/images/manga/3/18648.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

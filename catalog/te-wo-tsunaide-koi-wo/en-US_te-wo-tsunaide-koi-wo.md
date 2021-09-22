@@ -1,5 +1,7 @@
 # Te wo Tsunaide Koi wo
 
+![te-wo-tsunaide-koi-wo](https://cdn.myanimelist.net/images/manga/1/170922.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

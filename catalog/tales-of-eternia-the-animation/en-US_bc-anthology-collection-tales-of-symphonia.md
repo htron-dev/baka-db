@@ -1,5 +1,7 @@
 # BC Anthology Collection: Tales of Symphonia
 
+![bc-anthology-collection-tales-of-symphonia](https://cdn.myanimelist.net/images/manga/1/146625.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: BC ANTHOLOGY COLLECTION テイルズオブシンフォニア

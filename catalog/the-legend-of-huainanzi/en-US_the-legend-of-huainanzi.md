@@ -1,5 +1,7 @@
 # The Legend of Huainanzi
 
+![the-legend-of-huainanzi](https://cdn.myanimelist.net/images/anime/13/76794.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 淮南子传奇

@@ -1,5 +1,7 @@
 # 1-nichi Gaishutsuroku Hanchou
 
+![1-nichi-gaishutsuroku-hanchou](https://cdn.myanimelist.net/images/manga/1/205178.jpg)
+
 -   **type**: manga
 -   **original-name**: 1 日外出録ハンチョウ
 -   **start-date**: 2016-12-26

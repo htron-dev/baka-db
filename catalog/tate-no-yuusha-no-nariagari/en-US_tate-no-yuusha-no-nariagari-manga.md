@@ -1,5 +1,7 @@
 # Tate no Yuusha no Nariagari
 
+![tate-no-yuusha-no-nariagari](https://cdn.myanimelist.net/images/manga/2/130759.jpg)
+
 -   **type**: manga
 -   **original-name**: 盾の勇者の成り上がり
 -   **start-date**: 2014-02-05

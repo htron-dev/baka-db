@@ -1,5 +1,7 @@
 # Tomodachi x Monster
 
+![tomodachi-x-monster](https://cdn.myanimelist.net/images/manga/1/157820.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

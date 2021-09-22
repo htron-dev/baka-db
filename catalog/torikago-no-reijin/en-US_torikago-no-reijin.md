@@ -1,5 +1,7 @@
 # Torikago no Reijin
 
+![torikago-no-reijin](https://cdn.myanimelist.net/images/manga/1/226403.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

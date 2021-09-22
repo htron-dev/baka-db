@@ -1,5 +1,7 @@
 # Tenshi no Drop
 
+![tenshi-no-drop](https://cdn.myanimelist.net/images/manga/2/200732.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 85

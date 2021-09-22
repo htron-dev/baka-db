@@ -1,5 +1,7 @@
 # Towa no Quon
 
+![towa-no-quon](https://cdn.myanimelist.net/images/manga/1/178134.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

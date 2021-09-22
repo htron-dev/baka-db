@@ -1,5 +1,7 @@
 # Transformers: The Battle of Star Gate
 
+![transformers-the-battle-of-star-gate](https://cdn.myanimelist.net/images/manga/1/35675.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

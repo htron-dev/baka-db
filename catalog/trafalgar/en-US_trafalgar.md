@@ -1,5 +1,7 @@
 # Trafalgar
 
+![trafalgar](https://cdn.myanimelist.net/images/manga/2/46631.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

@@ -1,5 +1,7 @@
 # Tanuki to Kitsune to Satogurashi
 
+![tanuki-to-kitsune-to-satogurashi](https://cdn.myanimelist.net/images/manga/1/240474.jpg)
+
 -   **type**: manga
 -   **original-name**: たぬきときつねと里暮らし
 -   **start-date**: 2020-12-19

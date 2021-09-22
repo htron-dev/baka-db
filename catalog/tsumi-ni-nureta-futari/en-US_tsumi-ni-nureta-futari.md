@@ -1,5 +1,7 @@
 # Tsumi ni Nureta Futari
 
+![tsumi-ni-nureta-futari](https://cdn.myanimelist.net/images/manga/4/26650.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 73

@@ -1,5 +1,7 @@
 # Top Girls
 
+![top-girls](https://cdn.myanimelist.net/images/manga/3/26994.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 걸스 온 탑
 

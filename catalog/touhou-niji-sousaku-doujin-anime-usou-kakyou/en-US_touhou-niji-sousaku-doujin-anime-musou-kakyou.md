@@ -1,5 +1,7 @@
 # Touhou Niji Sousaku Doujin Anime: Musou Kakyou
 
+![touhou-niji-sousaku-doujin-anime-musou-kakyou](https://cdn.myanimelist.net/images/anime/3/27302.jpg)
+
 -   **type**: ova
 -   **original-name**: 東方二次創作同人アニメ 夢想夏郷
 -   **start-date**: 2008-12-29

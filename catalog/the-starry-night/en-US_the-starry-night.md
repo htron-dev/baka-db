@@ -1,5 +1,7 @@
 # The Starry Night
 
+![the-starry-night](https://cdn.myanimelist.net/images/manga/2/21541.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 7

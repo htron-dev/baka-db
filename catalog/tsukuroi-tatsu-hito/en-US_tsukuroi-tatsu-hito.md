@@ -1,5 +1,7 @@
 # Tsukuroi Tatsu Hito
 
+![tsukuroi-tatsu-hito](https://cdn.myanimelist.net/images/manga/3/169509.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 37

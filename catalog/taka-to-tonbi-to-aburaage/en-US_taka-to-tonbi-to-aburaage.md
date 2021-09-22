@@ -1,5 +1,7 @@
 # Taka to Tonbi to Aburaage
 
+![taka-to-tonbi-to-aburaage](https://cdn.myanimelist.net/images/manga/2/222915.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

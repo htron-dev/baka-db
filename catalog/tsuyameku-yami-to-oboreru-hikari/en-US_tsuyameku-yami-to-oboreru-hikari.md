@@ -1,5 +1,7 @@
 # Tsuyameku Yami to Oboreru Hikari
 
+![tsuyameku-yami-to-oboreru-hikari](https://cdn.myanimelist.net/images/manga/3/232427.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

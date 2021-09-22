@@ -1,5 +1,7 @@
 # Tatakae! Osper
 
+![tatakae-osper](https://cdn.myanimelist.net/images/anime/3/53299.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 戦え! オスパー

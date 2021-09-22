@@ -1,5 +1,7 @@
 # Todo no Tsumari no Uchouten
 
+![todo-no-tsumari-no-uchouten](https://cdn.myanimelist.net/images/manga/1/222650.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

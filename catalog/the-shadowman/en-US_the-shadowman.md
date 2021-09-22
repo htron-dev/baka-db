@@ -1,5 +1,7 @@
 # The Shadowman
 
+![the-shadowman](https://cdn.myanimelist.net/images/manga/2/64359.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

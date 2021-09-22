@@ -1,5 +1,7 @@
 # Tsumi to Batsu: Hoshi no Keishousha
 
+![tsumi-to-batsu-hoshi-no-keishousha](https://cdn.myanimelist.net/images/manga/1/62453.jpg)
+
 -   **type**: manga
 -   **chapters**: 9
 -   **original-name**: 罪と罰 ～地球の継承者～

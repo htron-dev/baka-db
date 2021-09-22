@@ -1,5 +1,7 @@
 # Taki Takanosuke no Sanpo Jikan
 
+![taki-takanosuke-no-sanpo-jikan](https://cdn.myanimelist.net/images/manga/2/165921.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

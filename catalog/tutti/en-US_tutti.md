@@ -1,5 +1,7 @@
 # Tutti!
 
+![tutti](https://cdn.myanimelist.net/images/manga/2/163515.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

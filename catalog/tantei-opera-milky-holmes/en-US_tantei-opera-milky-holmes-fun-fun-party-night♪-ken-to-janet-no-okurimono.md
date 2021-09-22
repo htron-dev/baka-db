@@ -1,5 +1,7 @@
 # Tantei Opera Milky Holmes: Fun Fun Party Night♪ - Ken to Janet no Okurimono
 
+![tantei-opera-milky-holmes-fun-fun-party-night♪-ken-to-janet-no-okurimono](https://cdn.myanimelist.net/images/anime/8/82778.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 探偵オペラミルキィホームズファンファンパーリーナイト ♪ ～ケンとジャネットの贈り物～

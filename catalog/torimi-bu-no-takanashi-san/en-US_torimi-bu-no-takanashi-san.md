@@ -1,5 +1,7 @@
 # Torimi-bu no Takanashi-san
 
+![torimi-bu-no-takanashi-san](https://cdn.myanimelist.net/images/manga/2/230995.jpg)
+
 -   **type**: manga
 -   **chapters**: 30
 -   **original-name**: 鳥見部の小鳥遊さん

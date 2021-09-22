@@ -1,5 +1,7 @@
 # Trace
 
+![trace](https://cdn.myanimelist.net/images/manga/2/105635.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

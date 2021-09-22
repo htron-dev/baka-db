@@ -1,5 +1,7 @@
 # Tamatebako
 
+![tamatebako](https://cdn.myanimelist.net/images/manga/3/229957.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

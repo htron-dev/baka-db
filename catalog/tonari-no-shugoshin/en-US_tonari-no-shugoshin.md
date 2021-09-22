@@ -1,5 +1,7 @@
 # Tonari no Shugoshin
 
+![tonari-no-shugoshin](https://cdn.myanimelist.net/images/manga/1/39913.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

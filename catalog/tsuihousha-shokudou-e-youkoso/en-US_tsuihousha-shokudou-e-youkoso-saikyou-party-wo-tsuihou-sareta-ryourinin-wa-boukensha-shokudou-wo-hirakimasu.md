@@ -1,5 +1,7 @@
 # Tsuihousha Shokudou e Youkoso!: Saikyou Party wo Tsuihou sareta Ryourinin wa, Boukensha Shokudou wo Hirakimasu!
 
+![tsuihousha-shokudou-e-youkoso-saikyou-party-wo-tsuihou-sareta-ryourinin-wa-boukensha-shokudou-wo-hirakimasu](https://cdn.myanimelist.net/images/manga/3/233587.jpg)
+
 -   **type**: manga
 -   **original-name**: 追放者食堂へようこそ！ ～最強パーティーを追放された料理人は、冒険者食堂を開きます！～
 -   **start-date**: 2019-09-27

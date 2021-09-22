@@ -1,5 +1,7 @@
 # Taabou no Ganbaru Sengen
 
+![taabou-no-ganbaru-sengen](https://cdn.myanimelist.net/images/anime/5/72472.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: たあ坊のガンバル宣言

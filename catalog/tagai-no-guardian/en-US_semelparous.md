@@ -1,5 +1,7 @@
 # Semelparous
 
+![semelparous](https://cdn.myanimelist.net/images/manga/3/229395.jpg)
+
 -   **type**: manga
 -   **original-name**: セメルパルス
 -   **start-date**: 2019-11-18

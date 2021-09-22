@@ -1,5 +1,7 @@
 # Gonglyong Mecard
 
+![gonglyong-mecard](https://cdn.myanimelist.net/images/anime/1868/98715.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 공룡메카드

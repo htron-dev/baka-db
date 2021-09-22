@@ -1,5 +1,7 @@
 # Mini Toji
 
+![mini-toji](https://cdn.myanimelist.net/images/anime/1781/98227.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: みにとじ

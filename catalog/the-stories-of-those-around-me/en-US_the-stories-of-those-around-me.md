@@ -1,5 +1,7 @@
 # The Stories of Those Around Me
 
+![the-stories-of-those-around-me](https://cdn.myanimelist.net/images/manga/1/90983.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 60

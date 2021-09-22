@@ -1,5 +1,7 @@
 # Tenseisha wa Cheat wo Nozomanai
 
+![tenseisha-wa-cheat-wo-nozomanai](https://cdn.myanimelist.net/images/manga/3/186479.jpg)
+
 -   **type**: manga
 -   **original-name**: 転生者はチートを望まない
 -   **start-date**: 2015-08-19

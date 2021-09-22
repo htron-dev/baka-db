@@ -1,5 +1,7 @@
 # Touch!
 
+![touch](https://cdn.myanimelist.net/images/manga/3/36530.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **start-date**: 2008-08-20

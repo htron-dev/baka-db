@@ -1,5 +1,7 @@
 # Tomodachi to Koi no Mannaka
 
+![tomodachi-to-koi-no-mannaka](https://cdn.myanimelist.net/images/manga/1/149225.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

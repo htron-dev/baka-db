@@ -1,5 +1,7 @@
 # Taishou Yakyuu Musume.
 
+![taishou-yakyuu-musume](https://cdn.myanimelist.net/images/manga/1/35885.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 大正野球娘。
 -   **start-date**: 2007-04-17

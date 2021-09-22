@@ -1,5 +1,7 @@
 # Tamagotchi! Miracle Friends
 
+![tamagotchi-miracle-friends](https://cdn.myanimelist.net/images/anime/12/52925.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 29
 -   **original-name**: たまごっち！～みらくるフレンズ～

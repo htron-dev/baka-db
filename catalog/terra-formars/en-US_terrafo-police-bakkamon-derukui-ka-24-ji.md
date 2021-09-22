@@ -1,5 +1,7 @@
 # Terrafo Police: Bakkamon! Derukui-ka 24-ji
 
+![terrafo-police-bakkamon-derukui-ka-24-ji](https://cdn.myanimelist.net/images/manga/1/146757.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

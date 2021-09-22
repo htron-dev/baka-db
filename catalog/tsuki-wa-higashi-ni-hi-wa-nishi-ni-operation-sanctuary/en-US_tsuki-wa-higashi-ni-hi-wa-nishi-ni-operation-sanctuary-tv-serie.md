@@ -1,5 +1,7 @@
 # Tsuki wa Higashi ni Hi wa Nishi ni: Operation Sanctuary
 
+![tsuki-wa-higashi-ni-hi-wa-nishi-ni-operation-sanctuary](https://cdn.myanimelist.net/images/anime/1/648.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 月は東に日は西に〜Operation Sanctuary〜

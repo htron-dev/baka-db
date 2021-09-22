@@ -1,5 +1,7 @@
 # Tegami Watari no Sakana
 
+![tegami-watari-no-sakana](https://cdn.myanimelist.net/images/manga/1/231422.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

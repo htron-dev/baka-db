@@ -1,5 +1,7 @@
 # Ten no Taka
 
+![ten-no-taka](https://cdn.myanimelist.net/images/manga/2/164366.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

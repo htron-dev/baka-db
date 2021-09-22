@@ -1,5 +1,7 @@
 # Tomodachi no Papa - Hakui no Oji-sama
 
+![tomodachi-no-papa-hakui-no-oji-sama](https://cdn.myanimelist.net/images/manga/3/116737.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 友達のパパ～白衣のオジサマ

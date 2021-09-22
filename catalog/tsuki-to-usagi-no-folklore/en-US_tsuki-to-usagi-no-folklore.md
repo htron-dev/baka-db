@@ -1,5 +1,7 @@
 # Tsuki to Usagi no Folklore.
 
+![tsuki-to-usagi-no-folklore](https://cdn.myanimelist.net/images/manga/2/186801.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 月とうさぎのフォークロア。
 -   **start-date**: 2016-12-15

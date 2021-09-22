@@ -1,5 +1,7 @@
 # Tokyo Graffiti
 
+![tokyo-graffiti](https://cdn.myanimelist.net/images/manga/1/24035.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **start-date**: 2003-06-19

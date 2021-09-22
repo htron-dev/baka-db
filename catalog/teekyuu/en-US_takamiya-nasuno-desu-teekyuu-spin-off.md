@@ -1,5 +1,7 @@
 # Takamiya Nasuno Desu!: Teekyuu Spin-off
 
+![takamiya-nasuno-desu-teekyuu-spin-off](https://cdn.myanimelist.net/images/anime/12/73473.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 高宮なすのです！〜てーきゅうスピンオフ〜

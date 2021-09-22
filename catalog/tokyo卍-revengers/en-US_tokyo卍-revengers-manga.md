@@ -1,5 +1,7 @@
 # Tokyo 卍 Revengers
 
+![tokyo-卍-revengers](https://cdn.myanimelist.net/images/manga/3/196272.jpg)
+
 -   **type**: manga
 -   **original-name**: 東京卍リベンジャーズ
 -   **start-date**: 2017-03-01

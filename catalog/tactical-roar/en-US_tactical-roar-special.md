@@ -1,5 +1,7 @@
 # Tactical Roar Special
 
+![tactical-roar-special](https://cdn.myanimelist.net/images/anime/11/3401.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: タクティカルロア - マーキュリーズの休日

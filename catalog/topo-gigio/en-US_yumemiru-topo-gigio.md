@@ -1,5 +1,7 @@
 # Yumemiru Topo Gigio
 
+![yumemiru-topo-gigio](https://cdn.myanimelist.net/images/anime/5/8816.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 夢見るトッポ・ジージョ

@@ -1,5 +1,7 @@
 # Tsuki to Laika to Nosferatu
 
+![tsuki-to-laika-to-nosferatu](https://cdn.myanimelist.net/images/manga/2/220237.jpg)
+
 -   **type**: manga
 -   **original-name**: 月とライカと吸血姫
 -   **start-date**: 2018-03-08

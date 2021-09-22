@@ -1,5 +1,7 @@
 # Tsugou no Ii Kimi
 
+![tsugou-no-ii-kimi](https://cdn.myanimelist.net/images/manga/1/2957.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

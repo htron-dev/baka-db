@@ -1,5 +1,7 @@
 # Toaru Kagaku no Accelerator
 
+![toaru-kagaku-no-accelerator](https://cdn.myanimelist.net/images/anime/1160/99995.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: とある科学の一方通行〈アクセラレータ〉

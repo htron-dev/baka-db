@@ -1,5 +1,7 @@
 # Tensei Pandemic
 
+![tensei-pandemic](https://cdn.myanimelist.net/images/manga/2/217940.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 74

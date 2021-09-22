@@ -1,5 +1,7 @@
 # Tasogare Otome x Amnesia
 
+![tasogare-otome-x-amnesia](https://cdn.myanimelist.net/images/manga/3/188846.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 54

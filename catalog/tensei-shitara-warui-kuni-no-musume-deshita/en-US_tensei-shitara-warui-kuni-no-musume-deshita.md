@@ -1,5 +1,7 @@
 # Tensei shitara Warui Kuni no Musume Deshita
 
+![tensei-shitara-warui-kuni-no-musume-deshita](https://cdn.myanimelist.net/images/manga/2/227049.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

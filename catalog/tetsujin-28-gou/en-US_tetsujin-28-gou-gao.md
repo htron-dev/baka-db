@@ -1,5 +1,7 @@
 # Tetsujin 28-gou Gao!
 
+![tetsujin-28-gou-gao](https://cdn.myanimelist.net/images/anime/8/52129.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 151
 -   **original-name**: 鉄人 28 号ガオ!

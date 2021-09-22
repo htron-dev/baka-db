@@ -1,5 +1,7 @@
 # Tora Kiss: A School Odyssey
 
+![tora-kiss-a-school-odyssey](https://cdn.myanimelist.net/images/manga/3/85827.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

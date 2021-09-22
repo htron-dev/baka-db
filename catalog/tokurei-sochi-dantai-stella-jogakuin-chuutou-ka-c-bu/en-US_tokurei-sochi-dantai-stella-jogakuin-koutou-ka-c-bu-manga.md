@@ -1,5 +1,7 @@
 # Tokurei Sochi Dantai Stella Jogakuin Koutou-ka C³-bu
 
+![tokurei-sochi-dantai-stella-jogakuin-koutou-ka-c-bu](https://cdn.myanimelist.net/images/manga/3/117763.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 43

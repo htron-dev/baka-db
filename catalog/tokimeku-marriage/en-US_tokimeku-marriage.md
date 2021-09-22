@@ -1,5 +1,7 @@
 # Tokimeku Marriage
 
+![tokimeku-marriage](https://cdn.myanimelist.net/images/manga/1/24948.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ときめく・まりあーじゅ

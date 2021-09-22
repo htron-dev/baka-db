@@ -1,5 +1,7 @@
 # Tama-run! Mechakucha na Seishun Love Comedy ni Makikomareta kedo, Umarete Kite Yokatta.
 
+![tama-run-mechakucha-na-seishun-love-comedy-ni-makikomareta-kedo-umarete-kite-yokatta](https://cdn.myanimelist.net/images/manga/1/158475.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

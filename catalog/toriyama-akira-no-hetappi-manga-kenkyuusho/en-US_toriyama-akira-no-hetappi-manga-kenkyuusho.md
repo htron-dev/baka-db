@@ -1,5 +1,7 @@
 # Toriyama Akira no Hetappi Manga Kenkyuusho
 
+![toriyama-akira-no-hetappi-manga-kenkyuusho](https://cdn.myanimelist.net/images/manga/1/15135.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

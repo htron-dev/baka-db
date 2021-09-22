@@ -1,5 +1,7 @@
 # Te no Hira wo Taiyou ni
 
+![te-no-hira-wo-taiyou-ni](https://cdn.myanimelist.net/images/manga/1/14008.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

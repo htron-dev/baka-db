@@ -1,5 +1,7 @@
 # Tsuyoshi Shikkari Shinasai
 
+![tsuyoshi-shikkari-shinasai](https://cdn.myanimelist.net/images/anime/13/13055.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 112
 -   **original-name**: ツヨシしっかりしなさい

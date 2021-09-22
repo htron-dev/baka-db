@@ -1,5 +1,7 @@
 # Tonari no Kyuuketsuki-san
 
+![tonari-no-kyuuketsuki-san](https://cdn.myanimelist.net/images/anime/1851/96154.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: となりの吸血鬼さん

@@ -1,5 +1,7 @@
 # Teekyuu 5
 
+![teekyuu-5](https://cdn.myanimelist.net/images/anime/9/75010.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: てーきゅう 5 期

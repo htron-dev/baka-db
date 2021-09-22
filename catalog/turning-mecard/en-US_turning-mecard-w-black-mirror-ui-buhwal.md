@@ -1,5 +1,7 @@
 # Turning Mecard W: Black Mirror-ui Buhwal
 
+![turning-mecard-w-black-mirror-ui-buhwal](https://cdn.myanimelist.net/images/anime/4/85663.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 터닝메카드 W: 블랙미러의 부활

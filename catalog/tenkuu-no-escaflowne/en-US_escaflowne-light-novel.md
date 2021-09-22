@@ -1,5 +1,7 @@
 # Escaflowne
 
+![escaflowne](https://cdn.myanimelist.net/images/manga/2/67095.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **original-name**: 天空のエスカフローネ

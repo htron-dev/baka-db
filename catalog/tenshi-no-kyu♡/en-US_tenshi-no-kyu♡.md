@@ -1,5 +1,7 @@
 # Tenshi no Kyu♡
 
+![tenshi-no-kyu♡](https://cdn.myanimelist.net/images/manga/2/172070.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Touch
 
+![touch](https://cdn.myanimelist.net/images/anime/3/53087.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 101
 -   **original-name**: タッチ

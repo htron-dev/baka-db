@@ -1,5 +1,7 @@
 # Tokyo Ghoul:re
 
+![tokyo-ghoul-re](https://cdn.myanimelist.net/images/anime/1063/95086.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 東京喰種トーキョーグール：re

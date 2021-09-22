@@ -1,5 +1,7 @@
 # Television
 
+![television](https://cdn.myanimelist.net/images/anime/5/23924.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: テレビ

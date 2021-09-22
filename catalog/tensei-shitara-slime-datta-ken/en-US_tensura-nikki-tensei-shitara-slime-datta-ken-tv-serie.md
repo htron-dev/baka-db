@@ -1,5 +1,7 @@
 # Tensura Nikki: Tensei shitara Slime Datta Ken
 
+![tensura-nikki-tensei-shitara-slime-datta-ken](https://cdn.myanimelist.net/images/anime/1458/117607.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 転スラ日記 転生したらスライムだった件

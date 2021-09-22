@@ -1,5 +1,7 @@
 # Tsuki no Umareru Yoru
 
+![tsuki-no-umareru-yoru](https://cdn.myanimelist.net/images/manga/2/22590.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 月のうまれる夜

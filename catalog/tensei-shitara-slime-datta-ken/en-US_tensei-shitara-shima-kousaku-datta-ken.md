@@ -1,5 +1,7 @@
 # Tensei shitara Shima Kousaku Datta Ken
 
+![tensei-shitara-shima-kousaku-datta-ken](https://cdn.myanimelist.net/images/manga/3/226450.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

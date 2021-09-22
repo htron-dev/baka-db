@@ -1,5 +1,7 @@
 # Tokyo Ziggurat
 
+![tokyo-ziggurat](https://cdn.myanimelist.net/images/manga/2/161071.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 19

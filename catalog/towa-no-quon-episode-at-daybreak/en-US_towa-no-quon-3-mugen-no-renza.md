@@ -1,5 +1,7 @@
 # Towa no Quon 3: Mugen no Renza
 
+![towa-no-quon-3-mugen-no-renza](https://cdn.myanimelist.net/images/anime/7/32945.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: トワノクオン 第３章 夢幻の連座

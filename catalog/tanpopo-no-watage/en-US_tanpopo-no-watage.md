@@ -1,5 +1,7 @@
 # Tanpopo no Watage
 
+![tanpopo-no-watage](https://cdn.myanimelist.net/images/manga/3/239165.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

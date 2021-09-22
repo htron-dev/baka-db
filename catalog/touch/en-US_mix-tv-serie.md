@@ -1,5 +1,7 @@
 # Mix
 
+![mix](https://cdn.myanimelist.net/images/anime/1353/104238.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: MIX（ミックス）

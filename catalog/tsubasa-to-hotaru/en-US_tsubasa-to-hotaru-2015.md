@@ -1,5 +1,7 @@
 # Tsubasa to Hotaru (2015)
 
+![tsubasa-to-hotaru-2015](https://cdn.myanimelist.net/images/anime/12/72260.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: つばさとホタル

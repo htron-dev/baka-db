@@ -1,5 +1,7 @@
 # Tide-Line Blue
 
+![tide-line-blue](https://cdn.myanimelist.net/images/manga/3/170709.jpg)
+
 -   **type**: manga
 -   **chapters**: 10
 -   **original-name**: タイドライン・ブルー

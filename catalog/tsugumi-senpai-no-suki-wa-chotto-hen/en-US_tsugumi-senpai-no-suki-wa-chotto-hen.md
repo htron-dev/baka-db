@@ -1,5 +1,7 @@
 # Tsugumi-senpai no Suki wa Chotto Hen
 
+![tsugumi-senpai-no-suki-wa-chotto-hen](https://cdn.myanimelist.net/images/manga/1/241465.jpg)
+
 -   **type**: manga
 -   **original-name**: つぐみ先輩の好きはちょっと変
 -   **start-date**: 2020-12-26

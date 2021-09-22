@@ -1,5 +1,7 @@
 # Tokyo Girls Bravo
 
+![tokyo-girls-bravo](https://cdn.myanimelist.net/images/manga/3/79253.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 25

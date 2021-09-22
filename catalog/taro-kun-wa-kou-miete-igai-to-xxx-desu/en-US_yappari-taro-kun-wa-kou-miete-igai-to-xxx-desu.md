@@ -1,5 +1,7 @@
 # Yappari Taro-kun wa Kou Miete Igai to xxx desu.
 
+![yappari-taro-kun-wa-kou-miete-igai-to-xxx-desu](https://cdn.myanimelist.net/images/manga/2/171325.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

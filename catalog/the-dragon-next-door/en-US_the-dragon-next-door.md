@@ -1,5 +1,7 @@
 # The Dragon Next Door
 
+![the-dragon-next-door](https://cdn.myanimelist.net/images/manga/1/110525.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 용이 산다
 -   **start-date**: 2013-07-02

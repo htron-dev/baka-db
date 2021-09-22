@@ -1,5 +1,7 @@
 # Tales of Destiny
 
+![tales-of-destiny](https://cdn.myanimelist.net/images/manga/3/5386.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 31

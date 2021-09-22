@@ -1,5 +1,7 @@
 # Tenshi no Sasayaki wa Akuma wo Otosu
 
+![tenshi-no-sasayaki-wa-akuma-wo-otosu](https://cdn.myanimelist.net/images/manga/1/225917.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

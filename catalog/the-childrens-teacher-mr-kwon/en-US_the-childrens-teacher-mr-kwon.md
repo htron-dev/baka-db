@@ -1,5 +1,7 @@
 # The Children's Teacher, Mr. Kwon
 
+![the-childrens-teacher-mr-kwon](https://cdn.myanimelist.net/images/manga/2/92559.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **chapters**: 83

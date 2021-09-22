@@ -1,5 +1,7 @@
 # Tokyo Game
 
+![tokyo-game](https://cdn.myanimelist.net/images/manga/1/241074.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

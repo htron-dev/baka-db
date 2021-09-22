@@ -1,5 +1,7 @@
 # Tales of Destiny 2
 
+![tales-of-destiny-2](https://cdn.myanimelist.net/images/manga/1/5387.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: テイルズ オブ デスティニー ２

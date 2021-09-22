@@ -1,5 +1,7 @@
 # Teekyuu 2
 
+![teekyuu-2](https://cdn.myanimelist.net/images/anime/8/73504.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: てーきゅう ２期

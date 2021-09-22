@@ -1,5 +1,7 @@
 # Toriaezu Revenge!
 
+![toriaezu-revenge](https://cdn.myanimelist.net/images/manga/3/167038.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

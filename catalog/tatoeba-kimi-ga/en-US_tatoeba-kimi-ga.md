@@ -1,5 +1,7 @@
 # Tatoeba Kimi ga
 
+![tatoeba-kimi-ga](https://cdn.myanimelist.net/images/manga/2/20687.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

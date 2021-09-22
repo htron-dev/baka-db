@@ -1,5 +1,7 @@
 # Tamamo no Koi
 
+![tamamo-no-koi](https://cdn.myanimelist.net/images/manga/3/244546.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

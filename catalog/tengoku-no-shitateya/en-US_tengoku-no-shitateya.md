@@ -1,5 +1,7 @@
 # Tengoku no Shitateya
 
+![tengoku-no-shitateya](https://cdn.myanimelist.net/images/manga/2/32103.jpg)
+
 -   **type**: manga
 -   **original-name**: 天国の仕立て屋
 

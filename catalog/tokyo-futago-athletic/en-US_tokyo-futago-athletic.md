@@ -1,5 +1,7 @@
 # Tokyo Futago Athletic
 
+![tokyo-futago-athletic](https://cdn.myanimelist.net/images/anime/1266/112142.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 8
 -   **original-name**: 東京ふたごアスレチック

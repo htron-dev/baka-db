@@ -1,5 +1,7 @@
 # The Experiment
 
+![the-experiment](https://cdn.myanimelist.net/images/manga/3/72929.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: The Experiment

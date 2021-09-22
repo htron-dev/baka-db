@@ -1,5 +1,7 @@
 # Tsuki no Sango
 
+![tsuki-no-sango](https://cdn.myanimelist.net/images/manga/2/219399.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 4

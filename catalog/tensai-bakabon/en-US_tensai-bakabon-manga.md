@@ -1,5 +1,7 @@
 # Tensai Bakabon
 
+![tensai-bakabon](https://cdn.myanimelist.net/images/manga/2/37715.jpg)
+
 -   **type**: manga
 -   **volumes**: 38
 -   **original-name**: 天才バカボン

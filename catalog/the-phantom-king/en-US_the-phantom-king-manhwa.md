@@ -1,5 +1,7 @@
 # The Phantom King
 
+![the-phantom-king](https://cdn.myanimelist.net/images/manga/2/54985.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **chapters**: 28

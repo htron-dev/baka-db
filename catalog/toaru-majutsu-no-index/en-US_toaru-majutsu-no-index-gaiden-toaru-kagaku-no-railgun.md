@@ -1,5 +1,7 @@
 # Toaru Majutsu no Index Gaiden: Toaru Kagaku no Railgun
 
+![toaru-majutsu-no-index-gaiden-toaru-kagaku-no-railgun](https://cdn.myanimelist.net/images/manga/1/149212.jpg)
+
 -   **type**: manga
 -   **original-name**: とある魔術の禁書目録外伝 とある科学の超電磁砲〈レールガン〉
 -   **start-date**: 2007-02-21

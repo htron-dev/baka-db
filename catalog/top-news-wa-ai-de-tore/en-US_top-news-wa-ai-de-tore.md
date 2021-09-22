@@ -1,5 +1,7 @@
 # Top News wa Ai de Tore!
 
+![top-news-wa-ai-de-tore](https://cdn.myanimelist.net/images/manga/1/153383.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: トップニュースは愛でとれ!

@@ -1,5 +1,7 @@
 # Yami to Boushi to Hon no Tabibito: Romance
 
+![yami-to-boushi-to-hon-no-tabibito-romance](https://cdn.myanimelist.net/images/manga/4/82554.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

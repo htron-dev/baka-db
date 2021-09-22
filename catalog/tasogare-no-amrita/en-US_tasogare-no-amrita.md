@@ -1,5 +1,7 @@
 # Tasogare no Amrita
 
+![tasogare-no-amrita](https://cdn.myanimelist.net/images/manga/2/245838.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

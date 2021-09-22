@@ -1,5 +1,7 @@
 # Tomoshibi
 
+![tomoshibi](https://cdn.myanimelist.net/images/manga/1/64447.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

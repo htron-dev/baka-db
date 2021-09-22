@@ -1,5 +1,7 @@
 # Toaru Majutsu no Heavy na Zashiki Warashi ga Kantan na Satsujinki no Konkatsu Jijou
 
+![toaru-majutsu-no-heavy-na-zashiki-warashi-ga-kantan-na-satsujinki-no-konkatsu-jijou](https://cdn.myanimelist.net/images/manga/3/149877.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

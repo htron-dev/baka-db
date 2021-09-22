@@ -1,5 +1,7 @@
 # True Tears: Raigomaru to Jibeta no Monogatari
 
+![true-tears-raigomaru-to-jibeta-no-monogatari](https://cdn.myanimelist.net/images/anime/13/24906.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 雷轟丸とじべたの物語

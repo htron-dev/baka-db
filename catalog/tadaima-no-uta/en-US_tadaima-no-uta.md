@@ -1,5 +1,7 @@
 # Tadaima no Uta
 
+![tadaima-no-uta](https://cdn.myanimelist.net/images/manga/2/171394.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 31

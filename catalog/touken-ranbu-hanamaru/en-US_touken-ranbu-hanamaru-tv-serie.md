@@ -1,5 +1,7 @@
 # Touken Ranbu: Hanamaru
 
+![touken-ranbu-hanamaru](https://cdn.myanimelist.net/images/anime/6/81989.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 刀剣乱舞-花丸-

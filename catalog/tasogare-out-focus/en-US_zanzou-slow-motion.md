@@ -1,5 +1,7 @@
 # Zanzou Slow Motion
 
+![zanzou-slow-motion](https://cdn.myanimelist.net/images/manga/1/238000.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

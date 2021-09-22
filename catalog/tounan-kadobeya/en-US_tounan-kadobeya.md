@@ -1,5 +1,7 @@
 # Tounan Kadobeya
 
+![tounan-kadobeya](https://cdn.myanimelist.net/images/manga/3/139589.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 東南角部屋

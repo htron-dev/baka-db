@@ -1,5 +1,7 @@
 # Toradora!
 
+![toradora](https://cdn.myanimelist.net/images/anime/13/22128.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: とらドラ！

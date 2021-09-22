@@ -1,5 +1,7 @@
 # Tsuki no Hikari ni Terasarete
 
+![tsuki-no-hikari-ni-terasarete](https://cdn.myanimelist.net/images/manga/3/16771.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

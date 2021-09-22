@@ -1,5 +1,7 @@
 # Taiko no Tatsujin
 
+![taiko-no-tatsujin](https://cdn.myanimelist.net/images/anime/12/6534.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 太鼓の達人

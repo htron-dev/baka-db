@@ -1,5 +1,7 @@
 # Teens Blues
 
+![teens-blues](https://cdn.myanimelist.net/images/manga/2/125537.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

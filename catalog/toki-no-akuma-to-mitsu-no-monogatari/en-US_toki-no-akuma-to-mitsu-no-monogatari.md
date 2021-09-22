@@ -1,5 +1,7 @@
 # Toki no Akuma to Mitsu no Monogatari
 
+![toki-no-akuma-to-mitsu-no-monogatari](https://cdn.myanimelist.net/images/manga/3/163617.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

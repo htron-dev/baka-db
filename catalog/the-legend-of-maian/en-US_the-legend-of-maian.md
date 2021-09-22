@@ -1,5 +1,7 @@
 # The Legend of Maian
 
+![the-legend-of-maian](https://cdn.myanimelist.net/images/manga/3/54967.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 14
 -   **chapters**: 75

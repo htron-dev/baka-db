@@ -1,5 +1,7 @@
 # Tokyo Alice Gothic
 
+![tokyo-alice-gothic](https://cdn.myanimelist.net/images/manga/1/161070.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 18

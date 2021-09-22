@@ -1,5 +1,7 @@
 # Takkoku!!!
 
+![takkoku](https://cdn.myanimelist.net/images/manga/2/173272.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 44

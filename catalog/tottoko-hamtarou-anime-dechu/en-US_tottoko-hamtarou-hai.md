@@ -1,5 +1,7 @@
 # Tottoko Hamtarou Hai!
 
+![tottoko-hamtarou-hai](https://cdn.myanimelist.net/images/anime/1048/94783.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 77
 -   **original-name**: とっとこハム太郎は〜い!

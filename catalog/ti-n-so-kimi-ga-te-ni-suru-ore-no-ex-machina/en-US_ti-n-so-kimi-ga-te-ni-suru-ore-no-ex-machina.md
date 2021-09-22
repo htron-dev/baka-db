@@ -1,5 +1,7 @@
 # TiN-So: Kimi ga Te ni Suru Ore no Ex Machina
 
+![ti-n-so-kimi-ga-te-ni-suru-ore-no-ex-machina](https://cdn.myanimelist.net/images/manga/3/206132.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

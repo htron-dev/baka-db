@@ -1,5 +1,7 @@
 # Totsuzen... Kekkon!
 
+![totsuzen-kekkon](https://cdn.myanimelist.net/images/manga/1/128023.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 突然…結婚！

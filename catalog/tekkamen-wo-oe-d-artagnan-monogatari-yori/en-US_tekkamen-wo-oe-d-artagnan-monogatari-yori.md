@@ -1,5 +1,7 @@
 # Tekkamen wo Oe: "d'Artagnan Monogatari" yori
 
+![tekkamen-wo-oe-d-artagnan-monogatari-yori](https://cdn.myanimelist.net/images/anime/12/21062.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 鉄仮面を追えダルタニャン物語より

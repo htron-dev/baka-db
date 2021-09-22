@@ -1,5 +1,7 @@
 # Taberu dake de Level Up!: Damegami to Issho ni Isekai Musou
 
+![taberu-dake-de-level-up-damegami-to-issho-ni-isekai-musou](https://cdn.myanimelist.net/images/manga/2/212283.jpg)
+
 -   **type**: manga
 -   **original-name**: 食べるだけでレベルアップ! ～駄女神といっしょに異世界無双～
 -   **start-date**: 2018-04-06

@@ -1,5 +1,7 @@
 # Takahashi-san ga Kiiteiru.
 
+![takahashi-san-ga-kiiteiru](https://cdn.myanimelist.net/images/manga/2/188934.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 81

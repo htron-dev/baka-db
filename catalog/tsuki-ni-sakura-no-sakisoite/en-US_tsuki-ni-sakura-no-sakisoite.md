@@ -1,5 +1,7 @@
 # Tsuki ni Sakura no Sakisoite
 
+![tsuki-ni-sakura-no-sakisoite](https://cdn.myanimelist.net/images/manga/1/170748.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

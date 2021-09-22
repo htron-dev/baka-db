@@ -1,5 +1,7 @@
 # Chibi Revenger
 
+![chibi-revenger](https://cdn.myanimelist.net/images/anime/1975/114442.jpg)
+
 -   **type**: ona
 -   **original-name**: ちびりべ
 -   **start-date**: 2021-04-12

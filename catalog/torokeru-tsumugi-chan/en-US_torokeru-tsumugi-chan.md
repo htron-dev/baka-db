@@ -1,5 +1,7 @@
 # Torokeru Tsumugi-chan
 
+![torokeru-tsumugi-chan](https://cdn.myanimelist.net/images/manga/1/229622.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

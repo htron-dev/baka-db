@@ -1,5 +1,7 @@
 # Te Tsunagi Gokko
 
+![te-tsunagi-gokko](https://cdn.myanimelist.net/images/manga/2/20626.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

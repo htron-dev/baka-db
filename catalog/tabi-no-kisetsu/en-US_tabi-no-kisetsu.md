@@ -1,5 +1,7 @@
 # Tabi no Kisetsu
 
+![tabi-no-kisetsu](https://cdn.myanimelist.net/images/anime/3/66199.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 足袋の季節

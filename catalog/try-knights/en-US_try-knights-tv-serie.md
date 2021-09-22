@@ -1,5 +1,7 @@
 # Try Knights
 
+![try-knights](https://cdn.myanimelist.net/images/anime/1803/102385.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: トライナイツ

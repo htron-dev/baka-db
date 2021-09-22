@@ -1,5 +1,7 @@
 # Tatta Hitori no Kimi to 70-oku no Shinigami
 
+![tatta-hitori-no-kimi-to-70-oku-no-shinigami](https://cdn.myanimelist.net/images/manga/1/211391.jpg)
+
 -   **type**: manga
 -   **original-name**: たった一人の君と七十億の死神
 -   **start-date**: 2017-10-20

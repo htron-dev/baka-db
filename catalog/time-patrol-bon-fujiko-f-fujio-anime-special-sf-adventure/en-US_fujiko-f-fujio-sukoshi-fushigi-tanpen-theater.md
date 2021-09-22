@@ -1,5 +1,7 @@
 # Fujiko F. Fujio: Sukoshi Fushigi Tanpen Theater
 
+![fujiko-f-fujio-sukoshi-fushigi-tanpen-theater](https://cdn.myanimelist.net/images/anime/2/53063.jpg)
+
 -   **type**: ova
 -   **episodes**: 11
 -   **original-name**: 藤子·F·不二雄 SF[すこしふしぎ]短編シアター

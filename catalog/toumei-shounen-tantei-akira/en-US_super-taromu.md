@@ -1,5 +1,7 @@
 # Super Taromu
 
+![super-taromu](https://cdn.myanimelist.net/images/anime/8/72192.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: スーパータロム

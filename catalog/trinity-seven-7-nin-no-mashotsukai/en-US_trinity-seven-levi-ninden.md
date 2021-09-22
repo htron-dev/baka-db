@@ -1,5 +1,7 @@
 # Trinity Seven: Levi Ninden
 
+![trinity-seven-levi-ninden](https://cdn.myanimelist.net/images/manga/2/175690.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

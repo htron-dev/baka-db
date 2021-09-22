@@ -1,5 +1,7 @@
 # Tottemo Yasashii Amae-chan!
 
+![tottemo-yasashii-amae-chan](https://cdn.myanimelist.net/images/manga/2/202009.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 48

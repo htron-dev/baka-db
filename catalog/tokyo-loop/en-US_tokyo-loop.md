@@ -1,5 +1,7 @@
 # Tokyo Loop
 
+![tokyo-loop](https://cdn.myanimelist.net/images/anime/8/24467.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: トーキョー・ループ

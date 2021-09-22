@@ -1,5 +1,7 @@
 # Tobidase! Machine Hiryuu
 
+![tobidase-machine-hiryuu](https://cdn.myanimelist.net/images/anime/3/53621.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 21
 -   **original-name**: とびだせ! マシーン飛竜

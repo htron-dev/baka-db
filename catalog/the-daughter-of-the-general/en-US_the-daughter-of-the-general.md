@@ -1,5 +1,7 @@
 # The Daughter of the General
 
+![the-daughter-of-the-general](https://cdn.myanimelist.net/images/manga/3/163544.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 14
 -   **original-name**: 장군의 딸 도단지

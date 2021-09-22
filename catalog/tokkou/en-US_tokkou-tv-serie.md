@@ -1,5 +1,7 @@
 # Tokkou
 
+![tokkou](https://cdn.myanimelist.net/images/anime/8/18280.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: TOKKÔ[特公]

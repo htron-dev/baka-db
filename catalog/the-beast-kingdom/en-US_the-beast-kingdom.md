@@ -1,5 +1,7 @@
 # The Beast Kingdom
 
+![the-beast-kingdom](https://cdn.myanimelist.net/images/manga/2/123787.jpg)
+
 -   **type**: manga
 -   **chapters**: 6
 -   **original-name**: ザ ビーストキングダム

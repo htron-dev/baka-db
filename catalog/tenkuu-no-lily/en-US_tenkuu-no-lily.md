@@ -1,5 +1,7 @@
 # Tenkuu no Lily
 
+![tenkuu-no-lily](https://cdn.myanimelist.net/images/manga/1/131283.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 天空のリリー

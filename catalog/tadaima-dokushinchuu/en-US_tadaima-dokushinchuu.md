@@ -1,5 +1,7 @@
 # Tadaima Dokushinchuu
 
+![tadaima-dokushinchuu](https://cdn.myanimelist.net/images/manga/3/195395.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 53

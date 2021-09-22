@@ -1,5 +1,7 @@
 # Tonari no Totoro
 
+![tonari-no-totoro](https://cdn.myanimelist.net/images/anime/4/75923.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: となりのトトロ

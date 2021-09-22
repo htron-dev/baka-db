@@ -1,5 +1,7 @@
 # Tales of the Abyss
 
+![tales-of-the-abyss](https://cdn.myanimelist.net/images/anime/8/21243.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: テイルズ オブ ジ アビス

@@ -1,5 +1,7 @@
 # Tamagotchi Honto no Hanashi
 
+![tamagotchi-honto-no-hanashi](https://cdn.myanimelist.net/images/anime/1845/111350.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: たまごっちホントのはなし

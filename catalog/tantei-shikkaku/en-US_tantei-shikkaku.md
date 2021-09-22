@@ -1,5 +1,7 @@
 # Tantei Shikkaku
 
+![tantei-shikkaku](https://cdn.myanimelist.net/images/manga/3/124275.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 探偵失格

@@ -1,5 +1,7 @@
 # Tenkuu no Arcamiles
 
+![tenkuu-no-arcamiles](https://cdn.myanimelist.net/images/manga/2/121141.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 26

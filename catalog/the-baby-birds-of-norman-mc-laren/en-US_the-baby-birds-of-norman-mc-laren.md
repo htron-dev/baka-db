@@ -1,5 +1,7 @@
 # The Baby Birds of Norman McLaren
 
+![the-baby-birds-of-norman-mc-laren](https://cdn.myanimelist.net/images/anime/2/73404.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: The Baby Birds of Norman McLaren

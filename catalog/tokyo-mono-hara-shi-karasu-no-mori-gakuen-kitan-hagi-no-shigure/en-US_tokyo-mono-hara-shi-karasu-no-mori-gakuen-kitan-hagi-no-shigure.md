@@ -1,5 +1,7 @@
 # Tokyo Mono Hara Shi: Karasu no Mori Gakuen Kitan: Hagi no Shigure
 
+![tokyo-mono-hara-shi-karasu-no-mori-gakuen-kitan-hagi-no-shigure](https://cdn.myanimelist.net/images/manga/2/126225.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 東京鬼祓師 鴉乃杜學園奇譚‐萩の時雨‐

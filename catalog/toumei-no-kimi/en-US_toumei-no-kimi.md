@@ -1,5 +1,7 @@
 # Toumei no Kimi
 
+![toumei-no-kimi](https://cdn.myanimelist.net/images/manga/1/235855.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 33

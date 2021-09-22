@@ -1,5 +1,7 @@
 # Tonari no Oniko
 
+![tonari-no-oniko](https://cdn.myanimelist.net/images/manga/2/83098.jpg)
+
 -   **type**: manga
 -   **chapters**: 11
 -   **original-name**: となりの鬼子

@@ -1,5 +1,7 @@
 # Double Decker! Doug &amp; Kirill
 
+![double-decker-doug-amp-kirill](https://cdn.myanimelist.net/images/anime/1299/95783.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: DOUBLE DECKER! ダグ＆キリル

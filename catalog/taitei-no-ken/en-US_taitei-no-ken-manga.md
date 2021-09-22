@@ -1,5 +1,7 @@
 # Taitei no Ken
 
+![taitei-no-ken](https://cdn.myanimelist.net/images/manga/2/154797.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 大帝の剣

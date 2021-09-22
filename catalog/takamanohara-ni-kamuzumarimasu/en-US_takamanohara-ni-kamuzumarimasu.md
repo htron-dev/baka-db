@@ -1,5 +1,7 @@
 # Takamanohara ni Kamuzumarimasu
 
+![takamanohara-ni-kamuzumarimasu](https://cdn.myanimelist.net/images/manga/2/81322.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

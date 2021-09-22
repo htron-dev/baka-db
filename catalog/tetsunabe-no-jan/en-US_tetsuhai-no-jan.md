@@ -1,5 +1,7 @@
 # Tetsuhai no Jan!
 
+![tetsuhai-no-jan](https://cdn.myanimelist.net/images/manga/1/205175.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 60

@@ -1,5 +1,7 @@
 # Tokyo Yamimushi
 
+![tokyo-yamimushi](https://cdn.myanimelist.net/images/manga/1/145987.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 58

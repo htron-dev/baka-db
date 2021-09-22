@@ -1,5 +1,7 @@
 # Taiyou no Ijiwaru
 
+![taiyou-no-ijiwaru](https://cdn.myanimelist.net/images/manga/3/61005.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Tarou to Tayura
 
+![tarou-to-tayura](https://cdn.myanimelist.net/images/manga/3/173732.jpg)
+
 -   **type**: manga
 -   **chapters**: 9
 -   **original-name**: 多朗と多由良

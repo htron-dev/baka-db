@@ -1,5 +1,7 @@
 # Tenkuu Shinpan
 
+![tenkuu-shinpan](https://cdn.myanimelist.net/images/manga/3/128611.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **chapters**: 258

@@ -1,5 +1,7 @@
 # Telepathy Shoujo Ran
 
+![telepathy-shoujo-ran](https://cdn.myanimelist.net/images/anime/12/21526.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: テレパシー少女 蘭

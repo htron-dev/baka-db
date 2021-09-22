@@ -1,5 +1,7 @@
 # Tales of Symphonia The Animation: Kaette Kita Kratos-sensei no Private Lesson
 
+![tales-of-symphonia-the-animation-kaette-kita-kratos-sensei-no-private-lesson](https://cdn.myanimelist.net/images/anime/2/63491.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 帰ってきたクラトス先生のプライベートレッスン

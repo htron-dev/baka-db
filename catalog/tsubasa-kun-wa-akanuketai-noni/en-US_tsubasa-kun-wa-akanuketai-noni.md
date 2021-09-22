@@ -1,5 +1,7 @@
 # Tsubasa-kun wa Akanuketai noni
 
+![tsubasa-kun-wa-akanuketai-noni](https://cdn.myanimelist.net/images/manga/2/200539.jpg)
+
 -   **type**: manga
 -   **original-name**: 翼くんはあかぬけたいのに
 -   **start-date**: 2015-10-07

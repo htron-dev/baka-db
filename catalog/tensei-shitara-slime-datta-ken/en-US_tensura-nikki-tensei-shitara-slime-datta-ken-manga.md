@@ -1,5 +1,7 @@
 # Tensura Nikki: Tensei shitara Slime Datta Ken
 
+![tensura-nikki-tensei-shitara-slime-datta-ken](https://cdn.myanimelist.net/images/manga/1/220263.jpg)
+
 -   **type**: manga
 -   **original-name**: 転スラ日記 転生したらスライムだった件
 -   **start-date**: 2018-04-26

@@ -1,5 +1,7 @@
 # Touhai: Hitobashira-hen
 
+![touhai-hitobashira-hen](https://cdn.myanimelist.net/images/manga/2/196364.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 144

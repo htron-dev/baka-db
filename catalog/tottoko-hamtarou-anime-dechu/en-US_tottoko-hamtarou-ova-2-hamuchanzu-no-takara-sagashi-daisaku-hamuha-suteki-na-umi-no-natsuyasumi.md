@@ -1,5 +1,7 @@
 # Tottoko Hamtarou OVA 2: Hamuchanzu no Takara Sagashi Daisaku - Hamuha! Suteki na Umi no Natsuyasumi
 
+![tottoko-hamtarou-ova-2-hamuchanzu-no-takara-sagashi-daisaku-hamuha-suteki-na-umi-no-natsuyasumi](https://cdn.myanimelist.net/images/anime/2/24826.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハムちゃんずの宝さがし大作戦〜はむはー!すてきな海のなつやすみ〜

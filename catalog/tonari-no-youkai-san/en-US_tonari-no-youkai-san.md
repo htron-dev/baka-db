@@ -1,5 +1,7 @@
 # Tonari no Youkai-san
 
+![tonari-no-youkai-san](https://cdn.myanimelist.net/images/manga/2/244774.jpg)
+
 -   **type**: manga
 -   **original-name**: となりの妖怪さん
 -   **start-date**: 2018-07-10

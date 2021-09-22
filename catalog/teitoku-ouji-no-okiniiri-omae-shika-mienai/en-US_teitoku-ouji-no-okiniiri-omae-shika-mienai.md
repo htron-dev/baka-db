@@ -1,5 +1,7 @@
 # Teitoku Ouji no Okiniiri Omae shika Mienai
 
+![teitoku-ouji-no-okiniiri-omae-shika-mienai](https://cdn.myanimelist.net/images/manga/3/171920.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

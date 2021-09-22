@@ -1,5 +1,7 @@
 # Tempestas no Seijuu Tsukai
 
+![tempestas-no-seijuu-tsukai](https://cdn.myanimelist.net/images/manga/2/163713.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

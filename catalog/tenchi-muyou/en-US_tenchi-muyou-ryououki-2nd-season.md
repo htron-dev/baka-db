@@ -1,5 +1,7 @@
 # Tenchi Muyou! Ryououki 2nd Season
 
+![tenchi-muyou-ryououki-2nd-season](https://cdn.myanimelist.net/images/anime/1/2437.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 天地無用！魎皇鬼

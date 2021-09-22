@@ -1,5 +1,7 @@
 # Time Walker Zero
 
+![time-walker-zero](https://cdn.myanimelist.net/images/manga/3/21198.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

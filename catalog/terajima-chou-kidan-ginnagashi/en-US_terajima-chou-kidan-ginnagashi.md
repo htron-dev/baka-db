@@ -1,5 +1,7 @@
 # Terajima-chou Kidan: Ginnagashi
 
+![terajima-chou-kidan-ginnagashi](https://cdn.myanimelist.net/images/anime/11/79385.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 寺島町奇譚 ぎんながし

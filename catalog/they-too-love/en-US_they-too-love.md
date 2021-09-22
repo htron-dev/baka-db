@@ -1,5 +1,7 @@
 # They, Too, Love
 
+![they-too-love](https://cdn.myanimelist.net/images/manga/3/4897.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **chapters**: 36

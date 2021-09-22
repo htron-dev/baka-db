@@ -1,5 +1,7 @@
 # Tsuki ni Mukatte Hoeru no sa
 
+![tsuki-ni-mukatte-hoeru-no-sa](https://cdn.myanimelist.net/images/manga/2/152527.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

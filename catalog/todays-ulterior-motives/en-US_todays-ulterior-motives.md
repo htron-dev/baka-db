@@ -1,5 +1,7 @@
 # Today's Ulterior Motives
 
+![todays-ulterior-motives](https://cdn.myanimelist.net/images/manga/2/7257.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

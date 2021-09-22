@@ -1,5 +1,7 @@
 # Tanpopo no Tiara
 
+![tanpopo-no-tiara](https://cdn.myanimelist.net/images/manga/2/65075.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

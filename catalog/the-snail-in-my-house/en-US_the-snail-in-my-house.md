@@ -1,5 +1,7 @@
 # The Snail in My House
 
+![the-snail-in-my-house](https://cdn.myanimelist.net/images/manga/1/228133.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 우리 집 우렁이는
 -   **start-date**: 2018-01-22

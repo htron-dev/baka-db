@@ -1,5 +1,7 @@
 # Tokyo Ashuirafy
 
+![tokyo-ashuirafy](https://cdn.myanimelist.net/images/manga/2/18065.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

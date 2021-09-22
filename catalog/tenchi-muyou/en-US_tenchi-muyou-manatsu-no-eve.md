@@ -1,5 +1,7 @@
 # Tenchi Muyou! Manatsu no Eve
 
+![tenchi-muyou-manatsu-no-eve](https://cdn.myanimelist.net/images/anime/8/61319.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 天地無用！真夏のイヴ

@@ -1,5 +1,7 @@
 # Tensei Maou no Juliet
 
+![tensei-maou-no-juliet](https://cdn.myanimelist.net/images/manga/3/240409.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 転生魔王のジュリエット
 -   **start-date**: 2020-02-20

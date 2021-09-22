@@ -1,5 +1,7 @@
 # Tenryuuhai
 
+![tenryuuhai](https://cdn.myanimelist.net/images/manga/2/191560.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 7

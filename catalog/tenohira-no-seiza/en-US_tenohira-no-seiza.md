@@ -1,5 +1,7 @@
 # Tenohira no Seiza
 
+![tenohira-no-seiza](https://cdn.myanimelist.net/images/manga/4/184703.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

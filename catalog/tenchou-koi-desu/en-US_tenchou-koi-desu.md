@@ -1,5 +1,7 @@
 # Tenchou, Koi desu.
 
+![tenchou-koi-desu](https://cdn.myanimelist.net/images/manga/3/221975.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

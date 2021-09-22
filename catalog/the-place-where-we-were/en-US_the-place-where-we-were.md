@@ -1,5 +1,7 @@
 # The Place Where We Were
 
+![the-place-where-we-were](https://cdn.myanimelist.net/images/anime/2/19068.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: エンゼル The Place Where We Were

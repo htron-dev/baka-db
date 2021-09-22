@@ -1,5 +1,7 @@
 # Tiger &amp; Bunny Movie 1: The Beginning
 
+![tiger-amp-bunny-movie-1-the-beginning](https://cdn.myanimelist.net/images/anime/2/40041.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 TIGER & BUNNY -The Beginning-

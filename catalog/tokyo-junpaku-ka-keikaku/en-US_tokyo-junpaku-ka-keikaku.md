@@ -1,5 +1,7 @@
 # Tokyo Junpaku-ka Keikaku
 
+![tokyo-junpaku-ka-keikaku](https://cdn.myanimelist.net/images/manga/1/37263.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 東京純白化計画

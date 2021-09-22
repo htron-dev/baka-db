@@ -1,5 +1,7 @@
 # Toubou Hanayome to Aishuu Ouji: Kimi no Tame ni Kane wa Naru
 
+![toubou-hanayome-to-aishuu-ouji-kimi-no-tame-ni-kane-wa-naru](https://cdn.myanimelist.net/images/manga/2/191897.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Tytania
 
+![tytania](https://cdn.myanimelist.net/images/anime/7/10435.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: タイタニア

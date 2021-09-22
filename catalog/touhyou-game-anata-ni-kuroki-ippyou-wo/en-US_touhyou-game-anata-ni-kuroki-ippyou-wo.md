@@ -1,5 +1,7 @@
 # Touhyou Game: Anata ni Kuroki Ippyou wo
 
+![touhyou-game-anata-ni-kuroki-ippyou-wo](https://cdn.myanimelist.net/images/manga/3/143807.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

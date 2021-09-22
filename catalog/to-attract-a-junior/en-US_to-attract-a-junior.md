@@ -1,5 +1,7 @@
 # To Attract a Junior
 
+![to-attract-a-junior](https://cdn.myanimelist.net/images/manga/1/40188.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 9
 -   **original-name**: 한살연하 유혹하기

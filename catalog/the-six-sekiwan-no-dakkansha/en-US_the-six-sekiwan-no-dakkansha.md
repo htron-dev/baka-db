@@ -1,5 +1,7 @@
 # The Six: Sekiwan no Dakkansha
 
+![the-six-sekiwan-no-dakkansha](https://cdn.myanimelist.net/images/manga/2/226579.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 10

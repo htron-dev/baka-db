@@ -1,5 +1,7 @@
 # Tenshi Kouryaku Manual
 
+![tenshi-kouryaku-manual](https://cdn.myanimelist.net/images/manga/3/186462.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 30

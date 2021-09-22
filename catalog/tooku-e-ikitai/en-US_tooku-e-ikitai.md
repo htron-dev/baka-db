@@ -1,5 +1,7 @@
 # Tooku e Ikitai
 
+![tooku-e-ikitai](https://cdn.myanimelist.net/images/manga/3/15817.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 遠くへいきたい

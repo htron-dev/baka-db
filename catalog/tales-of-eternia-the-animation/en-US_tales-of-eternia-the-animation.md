@@ -1,5 +1,7 @@
 # Tales of Eternia The Animation
 
+![tales-of-eternia-the-animation](https://cdn.myanimelist.net/images/anime/11/42089.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: テイルズ オブ エターニア THE ANIMATION

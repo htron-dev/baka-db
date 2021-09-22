@@ -1,5 +1,7 @@
 # Tokyo SOS
 
+![tokyo-sos](https://cdn.myanimelist.net/images/anime/1410/104074.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: tokyoSOS

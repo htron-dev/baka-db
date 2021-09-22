@@ -1,5 +1,7 @@
 # Tokidoki-sou!
 
+![tokidoki-sou](https://cdn.myanimelist.net/images/manga/3/225284.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

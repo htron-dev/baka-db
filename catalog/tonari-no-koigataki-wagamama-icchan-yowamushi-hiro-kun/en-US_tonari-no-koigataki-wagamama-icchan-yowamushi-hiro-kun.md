@@ -1,5 +1,7 @@
 # Tonari no Koigataki: Wagamama Icchan Yowamushi Hiro-kun
 
+![tonari-no-koigataki-wagamama-icchan-yowamushi-hiro-kun](https://cdn.myanimelist.net/images/manga/3/137901.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

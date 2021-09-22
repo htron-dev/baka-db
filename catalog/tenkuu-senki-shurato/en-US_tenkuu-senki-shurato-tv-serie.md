@@ -1,5 +1,7 @@
 # Tenkuu Senki Shurato
 
+![tenkuu-senki-shurato](https://cdn.myanimelist.net/images/anime/1989/92418.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 38
 -   **original-name**: 天空戦記シュラト

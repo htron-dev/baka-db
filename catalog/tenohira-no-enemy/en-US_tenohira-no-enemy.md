@@ -1,5 +1,7 @@
 # Tenohira no Enemy
 
+![tenohira-no-enemy](https://cdn.myanimelist.net/images/manga/3/161456.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 47

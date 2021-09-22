@@ -1,5 +1,7 @@
 # 4-koma C³
 
+![4-koma-c](https://cdn.myanimelist.net/images/manga/3/125921.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 19

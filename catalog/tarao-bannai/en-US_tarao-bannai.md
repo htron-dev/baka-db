@@ -1,5 +1,7 @@
 # Tarao Bannai
 
+![tarao-bannai](https://cdn.myanimelist.net/images/manga/1/43967.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 多羅尾伴内 七つの顔をもつ男

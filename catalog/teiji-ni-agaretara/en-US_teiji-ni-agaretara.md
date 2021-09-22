@@ -1,5 +1,7 @@
 # Teiji ni Agaretara
 
+![teiji-ni-agaretara](https://cdn.myanimelist.net/images/manga/3/229497.jpg)
+
 -   **type**: manga
 -   **original-name**: 定時にあがれたら
 -   **start-date**: 2018-10-25

@@ -1,5 +1,7 @@
 # Tansansui-bu
 
+![tansansui-bu](https://cdn.myanimelist.net/images/manga/2/171979.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 44

@@ -1,5 +1,7 @@
 # The Girl from Class
 
+![the-girl-from-class](https://cdn.myanimelist.net/images/manga/1/213482.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 28

@@ -1,5 +1,7 @@
 # The Four Seasons
 
+![the-four-seasons](https://cdn.myanimelist.net/images/anime/12/72802.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: The Four Seasons

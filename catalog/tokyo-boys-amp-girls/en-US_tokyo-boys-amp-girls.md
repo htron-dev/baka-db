@@ -1,5 +1,7 @@
 # Tokyo Boys &amp; Girls
 
+![tokyo-boys-amp-girls](https://cdn.myanimelist.net/images/manga/5/997.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 18

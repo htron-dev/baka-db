@@ -1,5 +1,7 @@
 # Teddy Bear Paradise
 
+![teddy-bear-paradise](https://cdn.myanimelist.net/images/manga/1/185577.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: テディ・ベア天国〈パラダイス〉

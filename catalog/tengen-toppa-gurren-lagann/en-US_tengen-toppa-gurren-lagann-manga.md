@@ -1,5 +1,7 @@
 # Tengen Toppa Gurren Lagann
 
+![tengen-toppa-gurren-lagann](https://cdn.myanimelist.net/images/manga/4/22596.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 65

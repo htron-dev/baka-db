@@ -1,5 +1,7 @@
 # Tiger &amp; Bunny Recaps
 
+![tiger-amp-bunny-recaps](https://cdn.myanimelist.net/images/anime/3/72225.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: TIGER & BUNNY SPECIAL EDITION

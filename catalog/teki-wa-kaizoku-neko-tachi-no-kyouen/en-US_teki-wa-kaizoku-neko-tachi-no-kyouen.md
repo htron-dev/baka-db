@@ -1,5 +1,7 @@
 # Teki wa Kaizoku: Neko-tachi no Kyouen
 
+![teki-wa-kaizoku-neko-tachi-no-kyouen](https://cdn.myanimelist.net/images/anime/4/57441.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 6
 -   **original-name**: 敵は海賊 ～猫たちの饗宴～

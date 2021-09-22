@@ -1,5 +1,7 @@
 # X/1999
 
+![x-1999](https://cdn.myanimelist.net/images/anime/7/23579.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: エックス, X/1999

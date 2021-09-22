@@ -1,5 +1,7 @@
 # Tamagotchi! x Taka no Tsume: Tamagotchi de Seikai Seifuku
 
+![tamagotchi-x-taka-no-tsume-tamagotchi-de-seikai-seifuku](https://cdn.myanimelist.net/images/anime/4/87626.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: たまごっち!× 鷹の爪 たまごっちで世界征服

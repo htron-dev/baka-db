@@ -1,5 +1,7 @@
 # Tensei Akujo no Kuro Rekishi
 
+![tensei-akujo-no-kuro-rekishi](https://cdn.myanimelist.net/images/manga/3/229039.jpg)
+
 -   **type**: manga
 -   **original-name**: 転生悪女の黒歴史
 -   **start-date**: 2018-08-24

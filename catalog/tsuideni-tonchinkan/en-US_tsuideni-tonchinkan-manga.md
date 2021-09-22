@@ -1,5 +1,7 @@
 # Tsuideni Tonchinkan
 
+![tsuideni-tonchinkan](https://cdn.myanimelist.net/images/manga/1/227004.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 213

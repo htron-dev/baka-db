@@ -1,5 +1,7 @@
 # Tokenai Koi to Chocolate
 
+![tokenai-koi-to-chocolate](https://cdn.myanimelist.net/images/manga/1/185093.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

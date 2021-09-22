@@ -1,5 +1,7 @@
 # The Big O
 
+![the-big-o](https://cdn.myanimelist.net/images/anime/1/567.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: THE ビッグオー

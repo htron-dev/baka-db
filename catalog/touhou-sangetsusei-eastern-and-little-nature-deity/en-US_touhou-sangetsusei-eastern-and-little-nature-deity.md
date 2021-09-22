@@ -1,5 +1,7 @@
 # Touhou Sangetsusei: Eastern and Little Nature Deity
 
+![touhou-sangetsusei-eastern-and-little-nature-deity](https://cdn.myanimelist.net/images/manga/4/6687.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

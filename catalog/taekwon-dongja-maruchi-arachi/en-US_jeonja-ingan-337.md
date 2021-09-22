@@ -1,5 +1,7 @@
 # Jeonja Ingan 337
 
+![jeonja-ingan-337](https://cdn.myanimelist.net/images/anime/8/44542.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 전자인간337

@@ -1,5 +1,7 @@
 # Sasami 14: Mahou Shoujo Pretty Sammy
 
+![sasami-14-mahou-shoujo-pretty-sammy](https://cdn.myanimelist.net/images/anime/1119/111292.jpg)
+
 -   **type**: ova
 -   **original-name**: 砂沙美 14 魔法少女プリティサミー
 -   **rating**: None

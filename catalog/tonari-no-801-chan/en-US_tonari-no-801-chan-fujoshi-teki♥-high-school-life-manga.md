@@ -1,5 +1,7 @@
 # Tonari no 801-chan: Fujoshi-teki♥High School Life
 
+![tonari-no-801-chan-fujoshi-teki♥-high-school-life](https://cdn.myanimelist.net/images/manga/3/172813.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

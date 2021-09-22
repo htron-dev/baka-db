@@ -1,5 +1,7 @@
 # Thank You My God
 
+![thank-you-my-god](https://cdn.myanimelist.net/images/manga/1/167448.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Kimi yo Shiruya Minami no Kuni
 
+![kimi-yo-shiruya-minami-no-kuni](https://cdn.myanimelist.net/images/manga/1/19078.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 23

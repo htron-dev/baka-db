@@ -1,5 +1,7 @@
 # Tadaima, Mitsugetsuchuu! Kishi to Himegimi no Toshi no Sa Marriage + Shinkon Seikatsu ni Kiken na Yuuwaku!?
 
+![tadaima-mitsugetsuchuu-kishi-to-himegimi-no-toshi-no-sa-marriage-shinkon-seikatsu-ni-kiken-na-yuuwaku](https://cdn.myanimelist.net/images/manga/2/183716.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 13

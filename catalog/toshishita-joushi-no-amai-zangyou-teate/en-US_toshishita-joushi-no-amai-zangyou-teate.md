@@ -1,5 +1,7 @@
 # Toshishita Joushi no Amai Zangyou Teate
 
+![toshishita-joushi-no-amai-zangyou-teate](https://cdn.myanimelist.net/images/manga/1/196430.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 年下上司の甘い残業手当

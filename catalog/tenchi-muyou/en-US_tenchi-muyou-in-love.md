@@ -1,5 +1,7 @@
 # Tenchi Muyou! in Love
 
+![tenchi-muyou-in-love](https://cdn.myanimelist.net/images/anime/1543/92823.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 天地無用! in Love

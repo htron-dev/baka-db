@@ -1,5 +1,7 @@
 # Tamayura: More Aggressive - Tsuitachi dake no Shuugakuryokou, Nanode
 
+![tamayura-more-aggressive-tsuitachi-dake-no-shuugakuryokou-nanode](https://cdn.myanimelist.net/images/anime/9/63207.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: たまゆら～もあぐれっしぶ～ 第 8.5 話「一日だけの修学旅行、なので」

@@ -1,5 +1,7 @@
 # Tokyo Bardo
 
+![tokyo-bardo](https://cdn.myanimelist.net/images/manga/1/25601.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 東京バルド

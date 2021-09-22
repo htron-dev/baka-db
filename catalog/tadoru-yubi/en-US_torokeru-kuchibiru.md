@@ -1,5 +1,7 @@
 # Torokeru Kuchibiru
 
+![torokeru-kuchibiru](https://cdn.myanimelist.net/images/manga/2/232152.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

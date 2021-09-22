@@ -1,5 +1,7 @@
 # Tenchi Muyou! Ryououki 3rd Season: Tenchi Seirou naredo Namitakashi?
 
+![tenchi-muyou-ryououki-3rd-season-tenchi-seirou-naredo-namitakashi](https://cdn.myanimelist.net/images/anime/9/23557.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 天地無用！魎皇鬼 第三期 天地晴朗なれど波高し？

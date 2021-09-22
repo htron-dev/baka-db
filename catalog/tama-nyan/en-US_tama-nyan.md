@@ -1,5 +1,7 @@
 # Tama-nyan
 
+![tama-nyan](https://cdn.myanimelist.net/images/manga/2/158589.jpg)
+
 -   **type**: manga
 -   **chapters**: 15
 -   **original-name**: たまにゃん

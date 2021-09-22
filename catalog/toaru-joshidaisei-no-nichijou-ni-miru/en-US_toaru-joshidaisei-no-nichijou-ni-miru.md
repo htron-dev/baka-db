@@ -1,5 +1,7 @@
 # Toaru Joshidaisei no Nichijou ni Miru
 
+![toaru-joshidaisei-no-nichijou-ni-miru](https://cdn.myanimelist.net/images/manga/3/115437.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

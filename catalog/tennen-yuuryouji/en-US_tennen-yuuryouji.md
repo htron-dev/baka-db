@@ -1,5 +1,7 @@
 # Tennen Yuuryouji
 
+![tennen-yuuryouji](https://cdn.myanimelist.net/images/manga/3/10128.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Takuhaibin wa Konpou Maid: Guruguru Mummification
 
+![takuhaibin-wa-konpou-maid-guruguru-mummification](https://cdn.myanimelist.net/images/manga/1/169754.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 宅配便は梱包メイド－ぐるぐるマミフィケーション－

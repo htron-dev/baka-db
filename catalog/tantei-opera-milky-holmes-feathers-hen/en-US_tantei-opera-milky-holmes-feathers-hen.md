@@ -1,5 +1,7 @@
 # Tantei Opera Milky Holmes: Feathers-hen
 
+![tantei-opera-milky-holmes-feathers-hen](https://cdn.myanimelist.net/images/manga/3/152087.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 探偵オペラ ミルキィホームズ～フェザーズ篇～

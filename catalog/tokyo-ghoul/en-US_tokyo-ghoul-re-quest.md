@@ -1,5 +1,7 @@
 # Tokyo Ghoul:re: Quest
 
+![tokyo-ghoul-re-quest](https://cdn.myanimelist.net/images/manga/1/230681.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

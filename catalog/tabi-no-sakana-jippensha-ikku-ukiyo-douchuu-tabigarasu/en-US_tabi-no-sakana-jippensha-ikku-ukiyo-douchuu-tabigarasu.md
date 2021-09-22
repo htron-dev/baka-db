@@ -1,5 +1,7 @@
 # Tabi no Sakana: Jippensha Ikku Ukiyo Douchuu Tabigarasu
 
+![tabi-no-sakana-jippensha-ikku-ukiyo-douchuu-tabigarasu](https://cdn.myanimelist.net/images/manga/3/227317.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

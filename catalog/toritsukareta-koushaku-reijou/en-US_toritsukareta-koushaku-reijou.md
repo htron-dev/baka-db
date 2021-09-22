@@ -1,5 +1,7 @@
 # Toritsukareta Koushaku Reijou
 
+![toritsukareta-koushaku-reijou](https://cdn.myanimelist.net/images/manga/1/230564.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 取り憑かれた公爵令嬢

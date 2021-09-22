@@ -1,5 +1,7 @@
 # The Thousand-Year Fox's Operation-Human
 
+![the-thousand-year-foxs-operation-human](https://cdn.myanimelist.net/images/manga/2/40615.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 -   **original-name**: 천년여우 인간되기 대작전

@@ -1,5 +1,7 @@
 # Tennis no Ouji-sama: Sonzoku Yama no Hi
 
+![tennis-no-ouji-sama-sonzoku-yama-no-hi](https://cdn.myanimelist.net/images/anime/10/4471.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: テニスの王子: 存続山の日

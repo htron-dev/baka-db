@@ -1,5 +1,7 @@
 # Tenshou Yaoyorozu
 
+![tenshou-yaoyorozu](https://cdn.myanimelist.net/images/manga/2/112627.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 57

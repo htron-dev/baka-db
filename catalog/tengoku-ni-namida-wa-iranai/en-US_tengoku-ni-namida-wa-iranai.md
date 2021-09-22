@@ -1,5 +1,7 @@
 # Tengoku ni Namida wa Iranai
 
+![tengoku-ni-namida-wa-iranai](https://cdn.myanimelist.net/images/manga/2/162760.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 12
 -   **original-name**: 天国に涙はいらない

@@ -1,5 +1,7 @@
 # Taikong Xiongmao Yingxiong Dansheng
 
+![taikong-xiongmao-yingxiong-dansheng](https://cdn.myanimelist.net/images/anime/1929/115243.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 太空熊猫英雄诞生

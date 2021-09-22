@@ -1,5 +1,7 @@
 # The Descendant of the Dynasty
 
+![the-descendant-of-the-dynasty](https://cdn.myanimelist.net/images/manga/2/115341.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 14
 -   **original-name**: 왕가의 후예

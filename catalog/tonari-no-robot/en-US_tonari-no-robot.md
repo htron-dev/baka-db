@@ -1,5 +1,7 @@
 # Tonari no Robot
 
+![tonari-no-robot](https://cdn.myanimelist.net/images/manga/2/149799.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

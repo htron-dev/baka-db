@@ -1,5 +1,7 @@
 # Taberarechau-kei Danshi.
 
+![taberarechau-kei-danshi](https://cdn.myanimelist.net/images/manga/3/223523.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

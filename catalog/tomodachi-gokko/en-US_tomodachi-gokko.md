@@ -1,5 +1,7 @@
 # Tomodachi Gokko
 
+![tomodachi-gokko](https://cdn.myanimelist.net/images/manga/1/204652.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

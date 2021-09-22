@@ -1,5 +1,7 @@
 # Triage X: Recollection XOXO
 
+![triage-x-recollection-xoxo](https://cdn.myanimelist.net/images/anime/1550/103213.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: トリアージ X 「RECOLLECTION XOXO」

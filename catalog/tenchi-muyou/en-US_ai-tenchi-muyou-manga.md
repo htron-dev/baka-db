@@ -1,5 +1,7 @@
 # Ai Tenchi Muyou!
 
+![ai-tenchi-muyou](https://cdn.myanimelist.net/images/manga/3/168092.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

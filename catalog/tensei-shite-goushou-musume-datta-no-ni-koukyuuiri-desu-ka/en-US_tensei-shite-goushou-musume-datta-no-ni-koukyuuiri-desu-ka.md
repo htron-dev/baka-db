@@ -1,5 +1,7 @@
 # Tensei shite Goushou Musume datta no ni Koukyuuiri desu ka!?
 
+![tensei-shite-goushou-musume-datta-no-ni-koukyuuiri-desu-ka](https://cdn.myanimelist.net/images/manga/1/214995.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

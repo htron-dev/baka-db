@@ -1,5 +1,7 @@
 # Tomodachi no Imouto ga Ore ni dake Uzai
 
+![tomodachi-no-imouto-ga-ore-ni-dake-uzai](https://cdn.myanimelist.net/images/manga/2/226967.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 友達の妹が俺にだけウザい
 -   **start-date**: 2019-04-12

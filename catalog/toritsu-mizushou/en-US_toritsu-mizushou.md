@@ -1,5 +1,7 @@
 # Toritsu Mizushou!
 
+![toritsu-mizushou](https://cdn.myanimelist.net/images/manga/1/3289.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 235

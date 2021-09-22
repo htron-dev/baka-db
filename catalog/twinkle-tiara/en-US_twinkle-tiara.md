@@ -1,5 +1,7 @@
 # Twinkle Tiara
 
+![twinkle-tiara](https://cdn.myanimelist.net/images/manga/3/2034.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

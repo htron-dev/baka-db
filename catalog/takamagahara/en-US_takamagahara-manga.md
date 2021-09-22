@@ -1,5 +1,7 @@
 # Takamagahara
 
+![takamagahara](https://cdn.myanimelist.net/images/manga/2/189779.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

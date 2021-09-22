@@ -1,5 +1,7 @@
 # Tsue Pechi Mahoutsukai♀no Bouken no Sho
 
+![tsue-pechi-mahoutsukai♀no-bouken-no-sho](https://cdn.myanimelist.net/images/manga/2/222404.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 34

@@ -1,5 +1,7 @@
 # The God of Highschool
 
+![the-god-of-highschool](https://cdn.myanimelist.net/images/anime/1775/109361.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 갓오브하이스쿨 PV

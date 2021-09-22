@@ -1,5 +1,7 @@
 # Tonari no Kaibutsu-kun
 
+![tonari-no-kaibutsu-kun](https://cdn.myanimelist.net/images/anime/4/39779.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: となりの怪物くん

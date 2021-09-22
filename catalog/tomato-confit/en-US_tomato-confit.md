@@ -1,5 +1,7 @@
 # Tomato Confit
 
+![tomato-confit](https://cdn.myanimelist.net/images/anime/1040/109982.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: トマトコンフィ

@@ -1,5 +1,7 @@
 # Toraneko no Shitsukekata
 
+![toraneko-no-shitsukekata](https://cdn.myanimelist.net/images/manga/2/212116.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

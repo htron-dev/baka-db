@@ -1,5 +1,7 @@
 # Mei to Koneko Bus
 
+![mei-to-koneko-bus](https://cdn.myanimelist.net/images/anime/1034/99602.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: めいとこねこバス

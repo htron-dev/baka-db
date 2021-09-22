@@ -1,5 +1,7 @@
 # Typhoon Sakusen
 
+![typhoon-sakusen](https://cdn.myanimelist.net/images/manga/3/167677.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: タイフーン作戦

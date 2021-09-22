@@ -1,5 +1,7 @@
 # Tenshoku★Shounen
 
+![tenshoku★-shounen](https://cdn.myanimelist.net/images/manga/2/37138.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 天色 ★ 少年

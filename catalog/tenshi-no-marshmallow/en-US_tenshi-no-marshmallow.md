@@ -1,5 +1,7 @@
 # Tenshi no Marshmallow
 
+![tenshi-no-marshmallow](https://cdn.myanimelist.net/images/manga/3/49211.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 32

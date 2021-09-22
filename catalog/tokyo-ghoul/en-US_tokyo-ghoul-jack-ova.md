@@ -1,5 +1,7 @@
 # Tokyo Ghoul: "Jack"
 
+![tokyo-ghoul-jack](https://cdn.myanimelist.net/images/anime/13/76048.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 東京喰種 トーキョーグール【JACK】

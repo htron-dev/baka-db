@@ -1,5 +1,7 @@
 # Tatakau! Sebastian
 
+![tatakau-sebastian](https://cdn.myanimelist.net/images/manga/3/173233.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 戦う! セバスチャン

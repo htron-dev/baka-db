@@ -1,5 +1,7 @@
 # Teitoku Ouji no Amai Shinkon Seikatsu
 
+![teitoku-ouji-no-amai-shinkon-seikatsu](https://cdn.myanimelist.net/images/manga/3/192827.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

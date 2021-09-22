@@ -1,5 +1,7 @@
 # The Abandoned Empress
 
+![the-abandoned-empress](https://cdn.myanimelist.net/images/manga/1/222278.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 버림 받은 황비
 -   **start-date**: 2017-06-11

@@ -1,5 +1,7 @@
 # Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu
 
+![tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu](https://cdn.myanimelist.net/images/manga/2/248690.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 転生したら第七王子だったので、気ままに魔術を極めます
 -   **start-date**: 2020-07-02

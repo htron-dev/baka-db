@@ -1,5 +1,7 @@
 # Tensei Shirayukihime wa Doku Ringo wo Tabetakunai
 
+![tensei-shirayukihime-wa-doku-ringo-wo-tabetakunai](https://cdn.myanimelist.net/images/manga/2/240665.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 転生白雪姫は毒リンゴを食べたくない

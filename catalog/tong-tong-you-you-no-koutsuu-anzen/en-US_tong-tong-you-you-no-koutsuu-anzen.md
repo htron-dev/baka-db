@@ -1,5 +1,7 @@
 # Tong Tong - You You no Koutsuu Anzen
 
+![tong-tong-you-you-no-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/1506/99040.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: トントン・ユウユウの交通安全

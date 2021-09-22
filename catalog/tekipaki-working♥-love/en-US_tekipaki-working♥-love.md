@@ -1,5 +1,7 @@
 # Tekipaki Working♥Love
 
+![tekipaki-working♥-love](https://cdn.myanimelist.net/images/manga/2/150482.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 66

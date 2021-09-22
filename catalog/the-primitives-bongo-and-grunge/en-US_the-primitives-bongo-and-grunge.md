@@ -1,5 +1,7 @@
 # The Primitives: Bongo and Grunge
 
+![the-primitives-bongo-and-grunge](https://cdn.myanimelist.net/images/anime/7/27551.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 古惑香蕉頭

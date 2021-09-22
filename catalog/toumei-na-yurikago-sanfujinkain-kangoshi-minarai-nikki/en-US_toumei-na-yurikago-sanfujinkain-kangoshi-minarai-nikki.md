@@ -1,5 +1,7 @@
 # Toumei na Yurikago: Sanfujinkain Kangoshi Minarai Nikki
 
+![toumei-na-yurikago-sanfujinkain-kangoshi-minarai-nikki](https://cdn.myanimelist.net/images/manga/3/176037.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 67

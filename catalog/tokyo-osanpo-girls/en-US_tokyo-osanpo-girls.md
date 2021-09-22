@@ -1,5 +1,7 @@
 # Tokyo Osanpo Girls
 
+![tokyo-osanpo-girls](https://cdn.myanimelist.net/images/manga/2/170256.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

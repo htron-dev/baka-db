@@ -1,5 +1,7 @@
 # T to Pantsu to Ii Hanashi
 
+![t-to-pantsu-to-ii-hanashi](https://cdn.myanimelist.net/images/manga/3/163205.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 12

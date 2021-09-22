@@ -1,5 +1,7 @@
 # Tenkou, Sei - Ore ga Nonke de Aitsu ga Gei de
 
+![tenkou-sei-ore-ga-nonke-de-aitsu-ga-gei-de](https://cdn.myanimelist.net/images/manga/1/74673.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Tensei Tokuten de Commuryoku ni Zenfuri Shita Watashi Saikyou de Kawaii!
 
+![tensei-tokuten-de-commuryoku-ni-zenfuri-shita-watashi-saikyou-de-kawaii](https://cdn.myanimelist.net/images/manga/1/241867.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 13

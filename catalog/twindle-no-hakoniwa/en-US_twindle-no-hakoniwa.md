@@ -1,5 +1,7 @@
 # Twindle no Hakoniwa
 
+![twindle-no-hakoniwa](https://cdn.myanimelist.net/images/manga/3/197088.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

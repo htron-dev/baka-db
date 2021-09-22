@@ -1,5 +1,7 @@
 # Tenshi no Tattoo
 
+![tenshi-no-tattoo](https://cdn.myanimelist.net/images/manga/3/41312.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 天使の TATTOO

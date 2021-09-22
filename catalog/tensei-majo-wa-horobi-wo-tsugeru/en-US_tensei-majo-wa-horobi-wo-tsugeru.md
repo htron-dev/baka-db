@@ -1,5 +1,7 @@
 # Tensei Majo wa Horobi wo Tsugeru
 
+![tensei-majo-wa-horobi-wo-tsugeru](https://cdn.myanimelist.net/images/manga/1/224306.jpg)
+
 -   **type**: manga
 -   **original-name**: 転生魔女は滅びを告げる
 -   **start-date**: 2018-12-27

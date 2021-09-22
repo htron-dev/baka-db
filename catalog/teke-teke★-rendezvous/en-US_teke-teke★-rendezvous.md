@@ -1,5 +1,7 @@
 # Teke-Teke★Rendezvous
 
+![teke-teke★-rendezvous](https://cdn.myanimelist.net/images/manga/2/203006.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 36

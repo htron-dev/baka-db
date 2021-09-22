@@ -1,5 +1,7 @@
 # Tenshi no Sumu Heya
 
+![tenshi-no-sumu-heya](https://cdn.myanimelist.net/images/manga/2/90987.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

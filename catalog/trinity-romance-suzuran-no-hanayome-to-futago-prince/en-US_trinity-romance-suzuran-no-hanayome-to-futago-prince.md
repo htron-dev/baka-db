@@ -1,5 +1,7 @@
 # Trinity Romance: Suzuran no Hanayome to Futago Prince
 
+![trinity-romance-suzuran-no-hanayome-to-futago-prince](https://cdn.myanimelist.net/images/manga/1/181731.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

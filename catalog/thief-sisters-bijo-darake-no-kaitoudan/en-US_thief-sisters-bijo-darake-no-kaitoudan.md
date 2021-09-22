@@ -1,5 +1,7 @@
 # Thief Sisters: Bijo darake no Kaitoudan
 
+![thief-sisters-bijo-darake-no-kaitoudan](https://cdn.myanimelist.net/images/manga/3/197430.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: シーフ・シスターズ　美女だらけの怪盗団

@@ -1,5 +1,7 @@
 # Tekken Chinmi Legends
 
+![tekken-chinmi-legends](https://cdn.myanimelist.net/images/manga/5/75073.jpg)
+
 -   **type**: manga
 -   **original-name**: 鉄拳チンミ Legends
 

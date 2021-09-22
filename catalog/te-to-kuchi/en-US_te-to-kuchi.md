@@ -1,5 +1,7 @@
 # Te to Kuchi
 
+![te-to-kuchi](https://cdn.myanimelist.net/images/manga/2/113411.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Trouble G
 
+![trouble-g](https://cdn.myanimelist.net/images/manga/2/30353.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 -   **original-name**: 트러블G

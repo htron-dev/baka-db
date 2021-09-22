@@ -1,5 +1,7 @@
 # Tokyo Ghoul:re 2nd Season
 
+![tokyo-ghoul-re-2nd-season](https://cdn.myanimelist.net/images/anime/1271/95623.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 京喰種トーキョーグール：re 第 2 期

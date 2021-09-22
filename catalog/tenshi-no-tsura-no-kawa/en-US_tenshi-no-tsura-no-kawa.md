@@ -1,5 +1,7 @@
 # Tenshi no Tsura no Kawa
 
+![tenshi-no-tsura-no-kawa](https://cdn.myanimelist.net/images/manga/2/205856.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 28

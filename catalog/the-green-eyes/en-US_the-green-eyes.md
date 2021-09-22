@@ -1,5 +1,7 @@
 # The Green Eyes
 
+![the-green-eyes](https://cdn.myanimelist.net/images/manga/3/203563.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

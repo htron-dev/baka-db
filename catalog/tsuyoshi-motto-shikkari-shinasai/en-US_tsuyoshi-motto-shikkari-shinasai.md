@@ -1,5 +1,7 @@
 # Tsuyoshi Motto Shikkari Shinasai
 
+![tsuyoshi-motto-shikkari-shinasai](https://cdn.myanimelist.net/images/manga/1/46857.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: ツヨシもっとしっかりしなさい

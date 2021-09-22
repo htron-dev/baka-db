@@ -1,5 +1,7 @@
 # Temptation of Roses
 
+![temptation-of-roses](https://cdn.myanimelist.net/images/manga/1/25290.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **chapters**: 7

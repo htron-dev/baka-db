@@ -1,5 +1,7 @@
 # TP Boys: Soredemo Bokura wa Kanojo ga Hoshii
 
+![tp-boys-soredemo-bokura-wa-kanojo-ga-hoshii](https://cdn.myanimelist.net/images/manga/3/231440.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

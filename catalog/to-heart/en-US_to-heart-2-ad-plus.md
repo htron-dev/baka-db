@@ -1,5 +1,7 @@
 # To Heart 2 AD Plus
 
+![to-heart-2-ad-plus](https://cdn.myanimelist.net/images/anime/13/74022.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ToHeart2 adplus

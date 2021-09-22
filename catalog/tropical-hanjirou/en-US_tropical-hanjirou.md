@@ -1,5 +1,7 @@
 # Tropical Hanjirou
 
+![tropical-hanjirou](https://cdn.myanimelist.net/images/manga/2/23576.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

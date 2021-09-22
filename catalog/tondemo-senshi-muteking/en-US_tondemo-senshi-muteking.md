@@ -1,5 +1,7 @@
 # Tondemo Senshi Muteking
 
+![tondemo-senshi-muteking](https://cdn.myanimelist.net/images/anime/5/88117.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 56
 -   **original-name**: とんでも戦士ムテキング

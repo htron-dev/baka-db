@@ -1,5 +1,7 @@
 # Tanken Driland
 
+![tanken-driland](https://cdn.myanimelist.net/images/anime/1330/100164.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 37
 -   **original-name**: 探検ドリランド

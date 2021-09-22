@@ -1,5 +1,7 @@
 # Tenkuu Danzai Skelter+Heaven
 
+![tenkuu-danzai-skelter-heaven](https://cdn.myanimelist.net/images/anime/9/62115.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 天空断罪スケルターヘブン

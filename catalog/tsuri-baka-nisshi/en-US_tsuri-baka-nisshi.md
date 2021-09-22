@@ -1,5 +1,7 @@
 # Tsuri Baka Nisshi
 
+![tsuri-baka-nisshi](https://cdn.myanimelist.net/images/anime/9/11276.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 36
 -   **original-name**: 釣りバカ日誌

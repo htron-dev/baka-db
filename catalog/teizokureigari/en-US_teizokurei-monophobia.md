@@ -1,5 +1,7 @@
 # Teizokurei Monophobia
 
+![teizokurei-monophobia](https://cdn.myanimelist.net/images/manga/2/179634.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 27

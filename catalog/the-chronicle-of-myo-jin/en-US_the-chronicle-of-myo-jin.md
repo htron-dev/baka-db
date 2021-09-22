@@ -1,5 +1,7 @@
 # The Chronicle of Myo-Jin
 
+![the-chronicle-of-myo-jin](https://cdn.myanimelist.net/images/manga/3/167326.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 36

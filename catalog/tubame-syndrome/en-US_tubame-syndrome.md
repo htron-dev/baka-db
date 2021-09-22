@@ -1,5 +1,7 @@
 # Tubame Syndrome
 
+![tubame-syndrome](https://cdn.myanimelist.net/images/manga/2/53569.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 42

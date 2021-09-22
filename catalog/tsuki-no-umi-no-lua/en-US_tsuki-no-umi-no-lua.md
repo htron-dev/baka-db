@@ -1,5 +1,7 @@
 # Tsuki no Umi no Lua
 
+![tsuki-no-umi-no-lua](https://cdn.myanimelist.net/images/manga/1/129233.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

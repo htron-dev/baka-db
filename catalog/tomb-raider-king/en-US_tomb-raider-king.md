@@ -1,5 +1,7 @@
 # Tomb Raider King
 
+![tomb-raider-king](https://cdn.myanimelist.net/images/manga/1/239408.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 도굴왕
 -   **start-date**: 2019-06-30

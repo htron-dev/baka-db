@@ -1,5 +1,7 @@
 # Tsuioku no First Love
 
+![tsuioku-no-first-love](https://cdn.myanimelist.net/images/manga/1/247036.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 追憶のファースト・ラブ

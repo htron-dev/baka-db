@@ -1,5 +1,7 @@
 # Taiheiyou ni Kakeru Niji
 
+![taiheiyou-ni-kakeru-niji](https://cdn.myanimelist.net/images/anime/12/49761.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 太平洋にかける虹

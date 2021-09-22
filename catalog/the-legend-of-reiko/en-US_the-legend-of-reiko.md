@@ -1,5 +1,7 @@
 # The Legend of Reiko
 
+![the-legend-of-reiko](https://cdn.myanimelist.net/images/manga/2/24433.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

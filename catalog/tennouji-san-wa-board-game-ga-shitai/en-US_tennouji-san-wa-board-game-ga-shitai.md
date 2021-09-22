@@ -1,5 +1,7 @@
 # Tennouji-san wa Board Game ga Shitai
 
+![tennouji-san-wa-board-game-ga-shitai](https://cdn.myanimelist.net/images/manga/2/217487.jpg)
+
 -   **type**: manga
 -   **original-name**: 天王寺さんはボドゲがしたい
 -   **start-date**: 2018-09-07

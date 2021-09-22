@@ -1,5 +1,7 @@
 # Takamiya Nasuno Desu!: Teekyuu Spin-off Special
 
+![takamiya-nasuno-desu-teekyuu-spin-off-special](https://cdn.myanimelist.net/images/anime/5/76334.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 高宮なすのです！〜てーきゅうスピンオフ〜　ＴＶ未放送オリジナルエピソードアニメ

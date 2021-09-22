@@ -1,5 +1,7 @@
 # Tabi ni Deyou, Horobiyuku Sekai no Hate made
 
+![tabi-ni-deyou-horobiyuku-sekai-no-hate-made](https://cdn.myanimelist.net/images/manga/1/150866.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

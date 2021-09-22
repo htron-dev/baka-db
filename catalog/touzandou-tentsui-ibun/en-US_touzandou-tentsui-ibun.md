@@ -1,5 +1,7 @@
 # Touzandou Tentsui Ibun
 
+![touzandou-tentsui-ibun](https://cdn.myanimelist.net/images/manga/1/16145.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 東山道転墜異聞

@@ -1,5 +1,7 @@
 # Tenchi Muyou! GXP
 
+![tenchi-muyou-gxp](https://cdn.myanimelist.net/images/anime/2/20295.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 天地無用! GXP

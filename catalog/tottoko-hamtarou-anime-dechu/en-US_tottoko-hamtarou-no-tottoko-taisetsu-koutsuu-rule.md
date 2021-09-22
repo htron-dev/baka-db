@@ -1,5 +1,7 @@
 # Tottoko Hamtarou no Tottoko Taisetsu!! Koutsuu Rule
 
+![tottoko-hamtarou-no-tottoko-taisetsu-koutsuu-rule](https://cdn.myanimelist.net/images/anime/4/84725.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: とっとこハム太郎のとっとこ大切!! 交通ルール

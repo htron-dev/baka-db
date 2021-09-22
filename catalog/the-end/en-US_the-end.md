@@ -1,5 +1,7 @@
 # The End
 
+![the-end](https://cdn.myanimelist.net/images/manga/3/139055.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

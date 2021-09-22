@@ -1,5 +1,7 @@
 # Tenohira no Uchuu
 
+![tenohira-no-uchuu](https://cdn.myanimelist.net/images/manga/3/18423.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

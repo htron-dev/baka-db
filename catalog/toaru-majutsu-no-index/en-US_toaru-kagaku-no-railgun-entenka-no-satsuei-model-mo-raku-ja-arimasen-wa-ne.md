@@ -1,5 +1,7 @@
 # Toaru Kagaku no Railgun: Entenka no Satsuei Model mo Raku Ja Arimasen wa ne.
 
+![toaru-kagaku-no-railgun-entenka-no-satsuei-model-mo-raku-ja-arimasen-wa-ne](https://cdn.myanimelist.net/images/anime/6/76118.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: とある科学の超電磁砲(レールガン) 13'話『炎天下の撮影モデルも楽じゃありませんわね。』

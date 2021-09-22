@@ -1,5 +1,7 @@
 # Touge Oni
 
+![touge-oni](https://cdn.myanimelist.net/images/manga/3/226124.jpg)
+
 -   **type**: manga
 -   **original-name**: 峠鬼
 -   **start-date**: 2018-04-13

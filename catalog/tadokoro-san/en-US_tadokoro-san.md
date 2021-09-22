@@ -1,5 +1,7 @@
 # Tadokoro-san
 
+![tadokoro-san](https://cdn.myanimelist.net/images/manga/1/236565.jpg)
+
 -   **type**: manga
 -   **original-name**: 田所さん
 -   **start-date**: 2019-08-09

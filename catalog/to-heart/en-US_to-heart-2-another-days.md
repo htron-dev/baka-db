@@ -1,5 +1,7 @@
 # To Heart 2: Another Days
 
+![to-heart-2-another-days](https://cdn.myanimelist.net/images/manga/2/34302.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

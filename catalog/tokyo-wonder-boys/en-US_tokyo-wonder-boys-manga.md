@@ -1,5 +1,7 @@
 # Tokyo Wonder Boys
 
+![tokyo-wonder-boys](https://cdn.myanimelist.net/images/manga/2/132223.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

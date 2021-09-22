@@ -1,5 +1,7 @@
 # Tensei shitara Dragon no Tamago datta: Saikyou Igai Mezasanee
 
+![tensei-shitara-dragon-no-tamago-datta-saikyou-igai-mezasanee](https://cdn.myanimelist.net/images/manga/1/181128.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 転生したらドラゴンの卵だった～最強以外目指さねぇ～
 -   **start-date**: 2015-12-15

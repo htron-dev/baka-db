@@ -1,5 +1,7 @@
 # Toubou Kyuukou
 
+![toubou-kyuukou](https://cdn.myanimelist.net/images/manga/1/22450.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

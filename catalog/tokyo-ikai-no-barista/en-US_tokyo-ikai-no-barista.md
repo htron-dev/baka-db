@@ -1,5 +1,7 @@
 # Tokyo Ikai no Barista
 
+![tokyo-ikai-no-barista](https://cdn.myanimelist.net/images/manga/2/168005.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 東京異界のバリスタ
 -   **start-date**: 2015-12-15

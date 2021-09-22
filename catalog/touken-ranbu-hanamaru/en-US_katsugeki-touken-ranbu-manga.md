@@ -1,5 +1,7 @@
 # Katsugeki/Touken Ranbu
 
+![katsugeki-touken-ranbu](https://cdn.myanimelist.net/images/manga/1/202585.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

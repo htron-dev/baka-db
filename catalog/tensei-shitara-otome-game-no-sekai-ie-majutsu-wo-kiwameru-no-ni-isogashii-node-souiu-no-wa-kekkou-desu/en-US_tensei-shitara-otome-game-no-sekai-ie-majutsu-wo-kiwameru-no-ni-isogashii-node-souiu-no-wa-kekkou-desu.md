@@ -1,5 +1,7 @@
 # Tensei shitara Otome Game no Sekai? Ie, Majutsu wo Kiwameru no ni Isogashii node Souiu no wa Kekkou desu.
 
+![tensei-shitara-otome-game-no-sekai-ie-majutsu-wo-kiwameru-no-ni-isogashii-node-souiu-no-wa-kekkou-desu](https://cdn.myanimelist.net/images/manga/2/229095.jpg)
+
 -   **type**: manga
 -   **original-name**: 転生したら乙女ゲーの世界? いえ、魔術を極めるのに忙しいのでそういうのは結構です。
 -   **start-date**: 2019-09-27

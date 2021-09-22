@@ -1,5 +1,7 @@
 # Taka no Tsume x Hello Kitty ga Masaka no Collab!
 
+![taka-no-tsume-x-hello-kitty-ga-masaka-no-collab](https://cdn.myanimelist.net/images/anime/12/83543.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 鷹の爪 ×HELLO KITTY がまさかのコラボ！

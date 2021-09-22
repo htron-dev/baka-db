@@ -1,5 +1,7 @@
 # Tokyo Shoumetsu Sensou
 
+![tokyo-shoumetsu-sensou](https://cdn.myanimelist.net/images/manga/1/170737.jpg)
+
 -   **type**: manga
 -   **original-name**: 東京消滅戦争
 -   **start-date**: 2014-11-05

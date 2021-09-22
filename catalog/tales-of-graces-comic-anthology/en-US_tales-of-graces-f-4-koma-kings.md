@@ -1,5 +1,7 @@
 # Tales of Graces f: 4-koma Kings
 
+![tales-of-graces-f-4-koma-kings](https://cdn.myanimelist.net/images/manga/2/72253.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

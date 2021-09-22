@@ -1,5 +1,7 @@
 # Tamaya Shichiten Tanjoubi-hen CM
 
+![tamaya-shichiten-tanjoubi-hen-cm](https://cdn.myanimelist.net/images/anime/1421/110292.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 玉家質店アニメーション CM ～誕生日編～

@@ -1,5 +1,7 @@
 # T.R.A.P.
 
+![t-r-a-p](https://cdn.myanimelist.net/images/manga/1/170022.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 58

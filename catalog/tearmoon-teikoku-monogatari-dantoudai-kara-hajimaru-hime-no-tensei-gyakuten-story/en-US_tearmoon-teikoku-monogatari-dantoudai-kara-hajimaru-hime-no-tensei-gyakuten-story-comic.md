@@ -1,5 +1,7 @@
 # Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story @comic
 
+![tearmoon-teikoku-monogatari-dantoudai-kara-hajimaru-hime-no-tensei-gyakuten-story-comic](https://cdn.myanimelist.net/images/manga/2/226879.jpg)
+
 -   **type**: manga
 -   **original-name**: ティアムーン帝国物語 ～断頭台から始まる、姫の転生逆転ストーリー～ @comic
 -   **start-date**: 2019-08-12

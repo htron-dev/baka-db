@@ -1,5 +1,7 @@
 # Tian Yu 2nd Season: Cang Gu Zhi Ban
 
+![tian-yu-2nd-season-cang-gu-zhi-ban](https://cdn.myanimelist.net/images/anime/1171/107730.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 天谕 第二季 苍古之绊

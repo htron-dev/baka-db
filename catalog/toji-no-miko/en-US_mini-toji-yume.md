@@ -1,5 +1,7 @@
 # Mini Toji: Yume
 
+![mini-toji-yume](https://cdn.myanimelist.net/images/anime/1014/102312.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: みにとじ ゆめ

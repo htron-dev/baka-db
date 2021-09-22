@@ -1,5 +1,7 @@
 # Tonkatsu DJ Agetarou
 
+![tonkatsu-dj-agetarou](https://cdn.myanimelist.net/images/anime/10/78559.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: とんかつ DJ アゲ太郎

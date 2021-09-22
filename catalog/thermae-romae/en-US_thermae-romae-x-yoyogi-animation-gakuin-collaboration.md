@@ -1,5 +1,7 @@
 # Thermae Romae x Yoyogi Animation Gakuin Collaboration
 
+![thermae-romae-x-yoyogi-animation-gakuin-collaboration](https://cdn.myanimelist.net/images/anime/8/38659.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: テルマエ・ロマエｘ代々木アニメーション学院企業コラボレーション

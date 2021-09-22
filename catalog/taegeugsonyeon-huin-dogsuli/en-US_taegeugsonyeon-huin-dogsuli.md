@@ -1,5 +1,7 @@
 # Taegeugsonyeon Huin Dogsuli
 
+![taegeugsonyeon-huin-dogsuli](https://cdn.myanimelist.net/images/anime/4/45064.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 태극소년 흰 독수리

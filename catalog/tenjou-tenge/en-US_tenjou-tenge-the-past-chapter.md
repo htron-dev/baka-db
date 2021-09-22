@@ -1,5 +1,7 @@
 # Tenjou Tenge: The Past Chapter
 
+![tenjou-tenge-the-past-chapter](https://cdn.myanimelist.net/images/anime/9/22930.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 天上天下　 THE PAST CHAPTER

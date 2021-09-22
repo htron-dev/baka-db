@@ -1,5 +1,7 @@
 # Takunomi.
 
+![takunomi](https://cdn.myanimelist.net/images/anime/1869/95731.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: たくのみ。

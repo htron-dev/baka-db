@@ -1,5 +1,7 @@
 # Tate no Koujo to Ken no Douke
 
+![tate-no-koujo-to-ken-no-douke](https://cdn.myanimelist.net/images/manga/3/156687.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

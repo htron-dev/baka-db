@@ -1,5 +1,7 @@
 # Tengen Toppa Gurren Lagann: Otoko Doahou!-hen
 
+![tengen-toppa-gurren-lagann-otoko-doahou-hen](https://cdn.myanimelist.net/images/manga/2/157918.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

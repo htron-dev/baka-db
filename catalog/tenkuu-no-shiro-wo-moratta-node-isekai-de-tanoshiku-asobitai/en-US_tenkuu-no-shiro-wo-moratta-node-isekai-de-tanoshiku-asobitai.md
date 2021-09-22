@@ -1,5 +1,7 @@
 # Tenkuu no Shiro wo Moratta node Isekai de Tanoshiku Asobitai
 
+![tenkuu-no-shiro-wo-moratta-node-isekai-de-tanoshiku-asobitai](https://cdn.myanimelist.net/images/manga/3/227905.jpg)
+
 -   **type**: manga
 -   **original-name**: 天空の城をもらったので異世界で楽しく遊びたい
 -   **start-date**: 2019-04-26

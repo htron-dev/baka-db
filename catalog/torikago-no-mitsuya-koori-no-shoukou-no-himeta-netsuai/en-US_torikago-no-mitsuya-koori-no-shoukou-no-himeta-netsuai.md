@@ -1,5 +1,7 @@
 # Torikago no Mitsuya: Koori no Shoukou no Himeta Netsuai
 
+![torikago-no-mitsuya-koori-no-shoukou-no-himeta-netsuai](https://cdn.myanimelist.net/images/manga/1/152799.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

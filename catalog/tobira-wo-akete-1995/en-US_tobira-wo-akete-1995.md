@@ -1,5 +1,7 @@
 # Tobira wo Akete (1995)
 
+![tobira-wo-akete-1995](https://cdn.myanimelist.net/images/anime/8/5028.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: トビラを開けて

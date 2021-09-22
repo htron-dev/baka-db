@@ -1,5 +1,7 @@
 # Tenamonya Voyagers
 
+![tenamonya-voyagers](https://cdn.myanimelist.net/images/anime/7/3788.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: てなもんやボイジャーズ

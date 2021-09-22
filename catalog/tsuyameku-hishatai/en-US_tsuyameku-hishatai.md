@@ -1,5 +1,7 @@
 # Tsuyameku Hishatai
 
+![tsuyameku-hishatai](https://cdn.myanimelist.net/images/manga/1/9531.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

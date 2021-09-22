@@ -1,5 +1,7 @@
 # The Road to Rome
 
+![the-road-to-rome](https://cdn.myanimelist.net/images/manga/1/45599.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ローマへの道

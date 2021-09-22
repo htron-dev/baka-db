@@ -1,5 +1,7 @@
 # Taiyo Made 3M
 
+![taiyo-made-3-m](https://cdn.myanimelist.net/images/manga/1/9730.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

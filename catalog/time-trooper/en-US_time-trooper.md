@@ -1,5 +1,7 @@
 # Time Trooper
 
+![time-trooper](https://cdn.myanimelist.net/images/manga/2/131937.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

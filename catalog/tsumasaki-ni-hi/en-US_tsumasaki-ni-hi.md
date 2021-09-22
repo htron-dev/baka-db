@@ -1,5 +1,7 @@
 # Tsumasaki ni Hi
 
+![tsumasaki-ni-hi](https://cdn.myanimelist.net/images/manga/1/113451.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

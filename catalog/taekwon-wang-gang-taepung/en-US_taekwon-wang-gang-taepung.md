@@ -1,5 +1,7 @@
 # Taekwon-wang Gang Taepung
 
+![taekwon-wang-gang-taepung](https://cdn.myanimelist.net/images/anime/1214/114454.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 태권왕 강태풍

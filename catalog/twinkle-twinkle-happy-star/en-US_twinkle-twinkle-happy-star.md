@@ -1,5 +1,7 @@
 # Twinkle Twinkle Happy Star
 
+![twinkle-twinkle-happy-star](https://cdn.myanimelist.net/images/manga/2/10424.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: トゥインクルトゥインクルハッピースター

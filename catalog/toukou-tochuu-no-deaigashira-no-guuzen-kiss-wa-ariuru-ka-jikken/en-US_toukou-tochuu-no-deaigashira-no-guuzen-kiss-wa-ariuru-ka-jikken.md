@@ -1,5 +1,7 @@
 # Toukou Tochuu no Deaigashira no Guuzen Kiss wa Ariuru ka? Jikken
 
+![toukou-tochuu-no-deaigashira-no-guuzen-kiss-wa-ariuru-ka-jikken](https://cdn.myanimelist.net/images/manga/2/94757.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 登校途中の出会い頭の偶然キスはありうるか？実験

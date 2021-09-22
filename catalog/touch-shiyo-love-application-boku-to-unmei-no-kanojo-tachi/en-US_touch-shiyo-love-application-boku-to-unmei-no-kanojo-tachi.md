@@ -1,5 +1,7 @@
 # Touch, Shiyo! Love Application: Boku to Unmei no Kanojo-tachi
 
+![touch-shiyo-love-application-boku-to-unmei-no-kanojo-tachi](https://cdn.myanimelist.net/images/manga/3/178442.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

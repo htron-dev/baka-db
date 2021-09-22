@@ -1,5 +1,7 @@
 # DRAMAtical Murder
 
+![dram-atical-murder](https://cdn.myanimelist.net/images/anime/6/75642.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ドラマティカル マーダー

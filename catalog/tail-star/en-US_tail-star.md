@@ -1,5 +1,7 @@
 # Tail Star
 
+![tail-star](https://cdn.myanimelist.net/images/manga/3/128835.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: TAIL STAR テイルスター

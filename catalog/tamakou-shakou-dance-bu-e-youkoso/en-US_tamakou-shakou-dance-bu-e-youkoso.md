@@ -1,5 +1,7 @@
 # Tamakou Shakou Dance-bu e Youkoso
 
+![tamakou-shakou-dance-bu-e-youkoso](https://cdn.myanimelist.net/images/manga/1/159573.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

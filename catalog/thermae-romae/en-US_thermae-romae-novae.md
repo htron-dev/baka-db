@@ -1,5 +1,7 @@
 # Thermae Romae Novae
 
+![thermae-romae-novae](https://cdn.myanimelist.net/images/anime/1879/109958.jpg)
+
 -   **type**: ona
 -   **original-name**: テルマエ・ロマエ ノヴァエ
 -   **start-date**: 2021-01-20

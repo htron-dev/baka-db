@@ -1,5 +1,7 @@
 # Tsuno-byou
 
+![tsuno-byou](https://cdn.myanimelist.net/images/manga/1/233440.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

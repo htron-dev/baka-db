@@ -1,5 +1,7 @@
 # Tiger Mask Nisei
 
+![tiger-mask-nisei](https://cdn.myanimelist.net/images/anime/9/71349.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 33
 -   **original-name**: タイガーマスク二世

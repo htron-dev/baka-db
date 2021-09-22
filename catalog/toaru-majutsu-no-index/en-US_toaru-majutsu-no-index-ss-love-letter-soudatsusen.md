@@ -1,5 +1,7 @@
 # Toaru Majutsu no Index SS: Love Letter Soudatsusen
 
+![toaru-majutsu-no-index-ss-love-letter-soudatsusen](https://cdn.myanimelist.net/images/manga/2/152203.jpg)
+
 -   **type**: light-novel
 -   **chapters**: 1
 -   **original-name**: とある魔術の禁書目録 ラブレター争奪戦

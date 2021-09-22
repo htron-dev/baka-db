@@ -1,5 +1,7 @@
 # Tansa Quest!
 
+![tansa-quest](https://cdn.myanimelist.net/images/anime/11/82036.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: たんさくえすと！

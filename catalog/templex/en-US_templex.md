@@ -1,5 +1,7 @@
 # Templex
 
+![templex](https://cdn.myanimelist.net/images/anime/1714/104368.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Templex

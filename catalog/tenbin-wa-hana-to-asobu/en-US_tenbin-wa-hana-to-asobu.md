@@ -1,5 +1,7 @@
 # Tenbin wa Hana to Asobu
 
+![tenbin-wa-hana-to-asobu](https://cdn.myanimelist.net/images/manga/3/24952.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

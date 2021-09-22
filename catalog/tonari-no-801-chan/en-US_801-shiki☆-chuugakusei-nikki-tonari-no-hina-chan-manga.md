@@ -1,5 +1,7 @@
 # 801-shiki☆Chuugakusei Nikki: Tonari no Hina-chan
 
+![801-shiki☆-chuugakusei-nikki-tonari-no-hina-chan](https://cdn.myanimelist.net/images/manga/2/181190.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

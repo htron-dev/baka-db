@@ -1,5 +1,7 @@
 # Tsuki ga Kirei desu ne
 
+![tsuki-ga-kirei-desu-ne](https://cdn.myanimelist.net/images/manga/2/175958.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 41

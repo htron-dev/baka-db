@@ -1,5 +1,7 @@
 # Toradora!: SOS! Kuishinbou Banbanzai
 
+![toradora-sos-kuishinbou-banbanzai](https://cdn.myanimelist.net/images/anime/6/59833.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: とらドラ! SOS! 食いしん坊万々歳

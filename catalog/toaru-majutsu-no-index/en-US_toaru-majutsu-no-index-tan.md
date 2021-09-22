@@ -1,5 +1,7 @@
 # Toaru Majutsu no Index-tan
 
+![toaru-majutsu-no-index-tan](https://cdn.myanimelist.net/images/anime/11/26651.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: とある魔術のいんでっくすたん

@@ -1,5 +1,7 @@
 # Tongari Aikouka
 
+![tongari-aikouka](https://cdn.myanimelist.net/images/manga/3/171231.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: トンガリ愛好家

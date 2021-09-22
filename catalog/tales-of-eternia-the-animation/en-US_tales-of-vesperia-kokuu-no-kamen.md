@@ -1,5 +1,7 @@
 # Tales of Vesperia: Kokuu no Kamen
 
+![tales-of-vesperia-kokuu-no-kamen](https://cdn.myanimelist.net/images/manga/3/159968.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

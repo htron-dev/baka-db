@@ -1,5 +1,7 @@
 # Toga no Rakuen
 
+![toga-no-rakuen](https://cdn.myanimelist.net/images/manga/1/185340.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

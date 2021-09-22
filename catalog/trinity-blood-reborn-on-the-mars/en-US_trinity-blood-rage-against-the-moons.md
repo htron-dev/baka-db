@@ -1,5 +1,7 @@
 # Trinity Blood: Rage Against the Moons
 
+![trinity-blood-rage-against-the-moons](https://cdn.myanimelist.net/images/manga/2/209368.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 23

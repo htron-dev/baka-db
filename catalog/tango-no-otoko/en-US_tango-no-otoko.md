@@ -1,5 +1,7 @@
 # Tango no Otoko
 
+![tango-no-otoko](https://cdn.myanimelist.net/images/manga/1/85041.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

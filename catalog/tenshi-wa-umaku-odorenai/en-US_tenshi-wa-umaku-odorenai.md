@@ -1,5 +1,7 @@
 # Tenshi wa Umaku Odorenai
 
+![tenshi-wa-umaku-odorenai](https://cdn.myanimelist.net/images/manga/3/10399.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 天使はうまく踊れない

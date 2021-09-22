@@ -1,5 +1,7 @@
 # The Prizer
 
+![the-prizer](https://cdn.myanimelist.net/images/manga/2/178712.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Toto!: The Wonderful Adventure
 
+![toto-the-wonderful-adventure](https://cdn.myanimelist.net/images/manga/2/126765.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 40

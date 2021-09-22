@@ -1,5 +1,7 @@
 # Tsurune: Kazemai Koukou Kyuudoubu
 
+![tsurune-kazemai-koukou-kyuudoubu](https://cdn.myanimelist.net/images/manga/3/230883.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ツルネ ―風舞高校弓道部―
 -   **start-date**: 2016-12-26

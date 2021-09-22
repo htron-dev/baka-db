@@ -1,5 +1,7 @@
 # Tennen Pearl Pink
 
+![tennen-pearl-pink](https://cdn.myanimelist.net/images/manga/5/1538.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Two Car
 
+![two-car](https://cdn.myanimelist.net/images/anime/3/88291.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: つうかあ

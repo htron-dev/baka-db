@@ -1,5 +1,7 @@
 # Toshishita Kareshi no Renai Kanriheki
 
+![toshishita-kareshi-no-renai-kanriheki](https://cdn.myanimelist.net/images/manga/1/122089.jpg)
+
 -   **type**: manga
 -   **original-name**: 年下彼氏の恋愛管理癖
 -   **start-date**: 2012-10-24

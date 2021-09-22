@@ -1,5 +1,7 @@
 # Tarot Maiden Kisara
 
+![tarot-maiden-kisara](https://cdn.myanimelist.net/images/manga/3/204997.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

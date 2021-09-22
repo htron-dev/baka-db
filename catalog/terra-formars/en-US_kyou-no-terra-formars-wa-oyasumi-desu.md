@@ -1,5 +1,7 @@
 # Kyou no Terra Formars wa Oyasumi desu.
 
+![kyou-no-terra-formars-wa-oyasumi-desu](https://cdn.myanimelist.net/images/manga/3/163575.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 90

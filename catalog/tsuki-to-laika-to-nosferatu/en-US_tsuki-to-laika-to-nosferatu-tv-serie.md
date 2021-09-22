@@ -1,5 +1,7 @@
 # Tsuki to Laika to Nosferatu
 
+![tsuki-to-laika-to-nosferatu](https://cdn.myanimelist.net/images/anime/1985/116669.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 月とライカと吸血姫
 -   **start-date**: 2021-10-20

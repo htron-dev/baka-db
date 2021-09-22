@@ -1,5 +1,7 @@
 # Tono-sama no Chawan
 
+![tono-sama-no-chawan](https://cdn.myanimelist.net/images/anime/12/84694.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 殿さまの茶わん

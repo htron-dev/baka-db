@@ -1,5 +1,7 @@
 # Tsubasa: Shunraiki
 
+![tsubasa-shunraiki](https://cdn.myanimelist.net/images/anime/9/33841.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ツバサ 春雷記

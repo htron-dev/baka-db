@@ -1,5 +1,7 @@
 # Tate no Yuusha no Nariagari Season 3
 
+![tate-no-yuusha-no-nariagari-season-3](https://cdn.myanimelist.net/images/anime/1406/104631.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 盾の勇者の成り上がり
 -   **rating**: PG-13 - Teens 13 or older

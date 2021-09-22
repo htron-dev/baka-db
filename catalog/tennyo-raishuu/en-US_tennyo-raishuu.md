@@ -1,5 +1,7 @@
 # Tennyo Raishuu
 
+![tennyo-raishuu](https://cdn.myanimelist.net/images/manga/2/12577.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

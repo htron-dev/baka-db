@@ -1,5 +1,7 @@
 # Tsurugi no Nai
 
+![tsurugi-no-nai](https://cdn.myanimelist.net/images/manga/2/197773.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

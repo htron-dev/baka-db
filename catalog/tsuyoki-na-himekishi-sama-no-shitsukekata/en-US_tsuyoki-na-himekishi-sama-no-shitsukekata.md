@@ -1,5 +1,7 @@
 # Tsuyoki na Himekishi-sama no Shitsukekata
 
+![tsuyoki-na-himekishi-sama-no-shitsukekata](https://cdn.myanimelist.net/images/manga/3/154459.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 29

@@ -1,5 +1,7 @@
 # Top wo Nerae 3!
 
+![top-wo-nerae-3](https://cdn.myanimelist.net/images/anime/1538/96863.jpg)
+
 -   **type**: ova
 -   **original-name**: トップをねらえ 3！
 -   **rating**: None

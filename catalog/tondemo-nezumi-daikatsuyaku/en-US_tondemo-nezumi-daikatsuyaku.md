@@ -1,5 +1,7 @@
 # Tondemo Nezumi Daikatsuyaku
 
+![tondemo-nezumi-daikatsuyaku](https://cdn.myanimelist.net/images/anime/10/58039.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: トンデモネズミ大活躍

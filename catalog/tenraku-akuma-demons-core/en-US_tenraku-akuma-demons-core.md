@@ -1,5 +1,7 @@
 # Tenraku Akuma! Demon's Core
 
+![tenraku-akuma-demons-core](https://cdn.myanimelist.net/images/manga/2/188937.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

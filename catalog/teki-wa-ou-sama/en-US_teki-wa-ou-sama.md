@@ -1,5 +1,7 @@
 # Teki wa Ou-sama
 
+![teki-wa-ou-sama](https://cdn.myanimelist.net/images/manga/2/146115.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

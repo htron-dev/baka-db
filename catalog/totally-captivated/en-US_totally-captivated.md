@@ -1,5 +1,7 @@
 # Totally Captivated
 
+![totally-captivated](https://cdn.myanimelist.net/images/manga/5/30115.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **chapters**: 49

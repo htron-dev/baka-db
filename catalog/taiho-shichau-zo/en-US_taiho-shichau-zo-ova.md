@@ -1,5 +1,7 @@
 # Taiho Shichau zo
 
+![taiho-shichau-zo](https://cdn.myanimelist.net/images/anime/11/21601.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 逮捕しちゃうぞ

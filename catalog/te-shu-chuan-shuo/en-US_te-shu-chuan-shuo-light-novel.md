@@ -1,5 +1,7 @@
 # Te Shu Chuan Shuo
 
+![te-shu-chuan-shuo](https://cdn.myanimelist.net/images/manga/3/125999.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 特殊傳說
 -   **start-date**: 2007-07-20

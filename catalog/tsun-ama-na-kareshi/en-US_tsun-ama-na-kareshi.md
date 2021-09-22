@@ -1,5 +1,7 @@
 # Tsun-Ama na Kareshi
 
+![tsun-ama-na-kareshi](https://cdn.myanimelist.net/images/manga/2/226842.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 64

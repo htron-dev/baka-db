@@ -1,5 +1,7 @@
 # Tsubakiyama no Kane ga Naru!
 
+![tsubakiyama-no-kane-ga-naru](https://cdn.myanimelist.net/images/manga/3/166016.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

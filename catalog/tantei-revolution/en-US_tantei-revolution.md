@@ -1,5 +1,7 @@
 # Tantei Revolution
 
+![tantei-revolution](https://cdn.myanimelist.net/images/manga/2/230656.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 16

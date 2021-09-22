@@ -1,5 +1,7 @@
 # Tokyo Sexy Night
 
+![tokyo-sexy-night](https://cdn.myanimelist.net/images/manga/3/153351.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 東京セクシーナイト

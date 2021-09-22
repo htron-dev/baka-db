@@ -1,5 +1,7 @@
 # The Closet
 
+![the-closet](https://cdn.myanimelist.net/images/anime/1390/100523.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: The closet

@@ -1,5 +1,7 @@
 # Thanatos no Shisha
 
+![thanatos-no-shisha](https://cdn.myanimelist.net/images/manga/3/116709.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

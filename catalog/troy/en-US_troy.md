@@ -1,5 +1,7 @@
 # Troy
 
+![troy](https://cdn.myanimelist.net/images/manga/2/193027.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 7

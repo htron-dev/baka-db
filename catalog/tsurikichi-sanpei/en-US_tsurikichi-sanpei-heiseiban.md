@@ -1,5 +1,7 @@
 # Tsurikichi Sanpei Heiseiban
 
+![tsurikichi-sanpei-heiseiban](https://cdn.myanimelist.net/images/manga/3/74467.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: 釣りキチ三平 平成版

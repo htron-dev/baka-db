@@ -1,5 +1,7 @@
 # Tenjou no Ai Chijou no Koi
 
+![tenjou-no-ai-chijou-no-koi](https://cdn.myanimelist.net/images/manga/3/61729.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: 天上の愛 地上の恋

@@ -1,5 +1,7 @@
 # Tokyo Vampire
 
+![tokyo-vampire](https://cdn.myanimelist.net/images/manga/1/108855.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 東京バンパイヤ

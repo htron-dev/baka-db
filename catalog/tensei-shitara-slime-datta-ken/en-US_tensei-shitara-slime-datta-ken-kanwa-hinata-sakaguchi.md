@@ -1,5 +1,7 @@
 # Tensei shitara Slime Datta Ken: Kanwa - Hinata Sakaguchi
 
+![tensei-shitara-slime-datta-ken-kanwa-hinata-sakaguchi](https://cdn.myanimelist.net/images/anime/1670/111154.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 転生したらスライムだった件 閑話: ヒナタ・サカグチ

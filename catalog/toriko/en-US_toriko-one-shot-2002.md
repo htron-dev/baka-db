@@ -1,5 +1,7 @@
 # Toriko One-Shot (2002)
 
+![toriko-one-shot-2002](https://cdn.myanimelist.net/images/manga/2/186379.jpg)
+
 -   **type**: manga
 -   **chapters**: 1
 -   **original-name**: トリコ

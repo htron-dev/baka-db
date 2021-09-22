@@ -1,5 +1,7 @@
 # Tsuiteru ne Hijiri-chan
 
+![tsuiteru-ne-hijiri-chan](https://cdn.myanimelist.net/images/manga/3/10403.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

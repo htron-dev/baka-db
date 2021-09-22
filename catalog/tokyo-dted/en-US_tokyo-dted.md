@@ -1,5 +1,7 @@
 # Tokyo DTED
 
+![tokyo-dted](https://cdn.myanimelist.net/images/manga/3/188931.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

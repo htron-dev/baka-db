@@ -1,5 +1,7 @@
 # Toshokan no Daimajutsushi
 
+![toshokan-no-daimajutsushi](https://cdn.myanimelist.net/images/manga/3/208938.jpg)
+
 -   **type**: manga
 -   **original-name**: 圕の大魔術師
 -   **start-date**: 2017-11-07

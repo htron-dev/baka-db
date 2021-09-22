@@ -1,5 +1,7 @@
 # Tsubasa wo Motsu Mono
 
+![tsubasa-wo-motsu-mono](https://cdn.myanimelist.net/images/manga/3/5326.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 34

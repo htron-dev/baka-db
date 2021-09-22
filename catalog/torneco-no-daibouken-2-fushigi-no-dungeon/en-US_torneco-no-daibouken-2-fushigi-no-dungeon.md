@@ -1,5 +1,7 @@
 # Torneco no Daibouken 2: Fushigi no Dungeon
 
+![torneco-no-daibouken-2-fushigi-no-dungeon](https://cdn.myanimelist.net/images/manga/2/25076.jpg)
+
 -   **type**: manga
 -   **original-name**: トルネコの大冒険 2 不思議のダンジョン
 

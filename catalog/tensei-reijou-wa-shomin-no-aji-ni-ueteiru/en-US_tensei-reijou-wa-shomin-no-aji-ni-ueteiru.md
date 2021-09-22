@@ -1,5 +1,7 @@
 # Tensei Reijou wa Shomin no Aji ni Ueteiru
 
+![tensei-reijou-wa-shomin-no-aji-ni-ueteiru](https://cdn.myanimelist.net/images/manga/1/246935.jpg)
+
 -   **type**: manga
 -   **original-name**: 転生令嬢は庶民の味に飢えている
 -   **start-date**: 2019-08-08

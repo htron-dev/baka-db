@@ -1,5 +1,7 @@
 # Tantei Opera Milky Holmes: On Stage!
 
+![tantei-opera-milky-holmes-on-stage](https://cdn.myanimelist.net/images/manga/3/180718.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

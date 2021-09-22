@@ -1,5 +1,7 @@
 # Toshishita Nukumen to Ichaicha Doukyo Seikatsu
 
+![toshishita-nukumen-to-ichaicha-doukyo-seikatsu](https://cdn.myanimelist.net/images/manga/1/195733.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Toushindai no Kiss wo Shite: Ouji-sama wa Totsuzen Arawaremashita
 
+![toushindai-no-kiss-wo-shite-ouji-sama-wa-totsuzen-arawaremashita](https://cdn.myanimelist.net/images/manga/2/195423.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 等身大のキスをして～王子様は突然現れました～

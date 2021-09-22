@@ -1,5 +1,7 @@
 # Towa no Quon 2: Konton no Ranbu
 
+![towa-no-quon-2-konton-no-ranbu](https://cdn.myanimelist.net/images/anime/8/31827.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: トワノクオン 第２章 混沌の乱舞

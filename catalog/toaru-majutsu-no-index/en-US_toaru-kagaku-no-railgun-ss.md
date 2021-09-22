@@ -1,5 +1,7 @@
 # Toaru Kagaku no Railgun SS
 
+![toaru-kagaku-no-railgun-ss](https://cdn.myanimelist.net/images/manga/3/186943.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **original-name**: とある科学の超電磁砲 SS

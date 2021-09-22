@@ -1,5 +1,7 @@
 # Tsuki ni Hoero!
 
+![tsuki-ni-hoero](https://cdn.myanimelist.net/images/manga/2/5942.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 月に吠えろ

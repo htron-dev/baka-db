@@ -1,5 +1,7 @@
 # Tsukasa-chan ni Utawareru!
 
+![tsukasa-chan-ni-utawareru](https://cdn.myanimelist.net/images/manga/1/244790.jpg)
+
 -   **type**: manga
 -   **original-name**: つかさちゃんに歌われる！
 -   **start-date**: 2021-01-23

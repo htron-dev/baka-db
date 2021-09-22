@@ -1,5 +1,7 @@
 # Tesla Note
 
+![tesla-note](https://cdn.myanimelist.net/images/manga/1/243306.jpg)
+
 -   **type**: manga
 -   **original-name**: テスラノート
 -   **start-date**: 2021-01-06

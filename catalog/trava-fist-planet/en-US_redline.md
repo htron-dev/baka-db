@@ -1,5 +1,7 @@
 # Redline
 
+![redline](https://cdn.myanimelist.net/images/anime/12/28553.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: REDLINE

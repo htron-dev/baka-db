@@ -1,5 +1,7 @@
 # Tsurutsuru to Zarazara no Aida
 
+![tsurutsuru-to-zarazara-no-aida](https://cdn.myanimelist.net/images/manga/1/188932.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 49

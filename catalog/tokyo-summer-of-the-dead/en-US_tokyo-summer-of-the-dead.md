@@ -1,5 +1,7 @@
 # Tokyo Summer of the Dead
 
+![tokyo-summer-of-the-dead](https://cdn.myanimelist.net/images/manga/2/85141.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

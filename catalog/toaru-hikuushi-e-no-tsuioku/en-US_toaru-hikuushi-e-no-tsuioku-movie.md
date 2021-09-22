@@ -1,5 +1,7 @@
 # Toaru Hikuushi e no Tsuioku
 
+![toaru-hikuushi-e-no-tsuioku](https://cdn.myanimelist.net/images/anime/3/36903.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: とある飛空士への追憶

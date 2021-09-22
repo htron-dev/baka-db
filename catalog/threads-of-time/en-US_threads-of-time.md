@@ -1,5 +1,7 @@
 # Threads of Time
 
+![threads-of-time](https://cdn.myanimelist.net/images/manga/5/735.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 11
 -   **chapters**: 46

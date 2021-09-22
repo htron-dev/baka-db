@@ -1,5 +1,7 @@
 # Redline Pilot
 
+![redline-pilot](https://cdn.myanimelist.net/images/anime/1644/107265.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: レッドライン

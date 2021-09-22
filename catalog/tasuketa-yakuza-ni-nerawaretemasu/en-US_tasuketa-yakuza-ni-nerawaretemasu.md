@@ -1,5 +1,7 @@
 # Tasuketa Yakuza ni Nerawaretemasu!?
 
+![tasuketa-yakuza-ni-nerawaretemasu](https://cdn.myanimelist.net/images/manga/1/246333.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

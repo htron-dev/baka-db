@@ -1,5 +1,7 @@
 # Tenshoku Assassin-san, Yami Guild e Youkoso!
 
+![tenshoku-assassin-san-yami-guild-e-youkoso](https://cdn.myanimelist.net/images/manga/1/181665.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 転職アサシンさん、闇ギルドへようこそ！
 -   **start-date**: 2016-08-10

@@ -1,5 +1,7 @@
 # Teekyuu 6
 
+![teekyuu-6](https://cdn.myanimelist.net/images/anime/13/76645.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: てーきゅう 6 期

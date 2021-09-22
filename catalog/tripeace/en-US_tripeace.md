@@ -1,5 +1,7 @@
 # Tripeace
 
+![tripeace](https://cdn.myanimelist.net/images/manga/2/32965.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 43

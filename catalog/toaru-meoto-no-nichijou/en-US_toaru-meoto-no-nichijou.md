@@ -1,5 +1,7 @@
 # Toaru Meoto no Nichijou
 
+![toaru-meoto-no-nichijou](https://cdn.myanimelist.net/images/manga/2/219472.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ト或ル夫婦ノ日乗

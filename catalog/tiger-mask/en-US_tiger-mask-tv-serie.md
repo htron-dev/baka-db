@@ -1,5 +1,7 @@
 # Tiger Mask
 
+![tiger-mask](https://cdn.myanimelist.net/images/anime/8/71351.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 105
 -   **original-name**: タイガーマスク

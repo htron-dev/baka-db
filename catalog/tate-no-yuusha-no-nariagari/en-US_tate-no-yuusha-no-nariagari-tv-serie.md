@@ -1,5 +1,7 @@
 # Tate no Yuusha no Nariagari
 
+![tate-no-yuusha-no-nariagari](https://cdn.myanimelist.net/images/anime/1490/101365.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 盾の勇者の成り上がり

@@ -1,5 +1,7 @@
 # Teekyuu 2 Specials
 
+![teekyuu-2-specials](https://cdn.myanimelist.net/images/anime/12/56005.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: てーきゅう 2

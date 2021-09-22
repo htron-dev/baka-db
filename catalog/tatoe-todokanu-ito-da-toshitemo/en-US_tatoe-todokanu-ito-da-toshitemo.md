@@ -1,5 +1,7 @@
 # Tatoe Todokanu Ito da toshitemo
 
+![tatoe-todokanu-ito-da-toshitemo](https://cdn.myanimelist.net/images/manga/3/196507.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 37

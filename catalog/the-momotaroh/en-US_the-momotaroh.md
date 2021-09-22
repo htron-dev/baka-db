@@ -1,5 +1,7 @@
 # The Momotaroh
 
+![the-momotaroh](https://cdn.myanimelist.net/images/manga/2/228673.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 109

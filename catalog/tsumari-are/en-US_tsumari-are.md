@@ -1,5 +1,7 @@
 # Tsumari, Are.
 
+![tsumari-are](https://cdn.myanimelist.net/images/manga/2/241610.jpg)
+
 -   **type**: manga
 -   **original-name**: つまり、アレ。
 -   **start-date**: 2017-01-07

@@ -1,5 +1,7 @@
 # Tokumei Koukousei
 
+![tokumei-koukousei](https://cdn.myanimelist.net/images/manga/3/45411.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 特命高校生

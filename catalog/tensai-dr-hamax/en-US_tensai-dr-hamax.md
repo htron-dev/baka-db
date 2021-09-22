@@ -1,5 +1,7 @@
 # Tensai? Dr. Hamax
 
+![tensai-dr-hamax](https://cdn.myanimelist.net/images/anime/13/74919.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 天才？Dr.ハマックス

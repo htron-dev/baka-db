@@ -1,5 +1,7 @@
 # Totsuzen Kishi ni Natte Mufufu na Ore ga Iru
 
+![totsuzen-kishi-ni-natte-mufufu-na-ore-ga-iru](https://cdn.myanimelist.net/images/manga/2/163607.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 61

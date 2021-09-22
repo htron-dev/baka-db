@@ -1,5 +1,7 @@
 # Trava: Fist Planet
 
+![trava-fist-planet](https://cdn.myanimelist.net/images/anime/8/25859.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: TRAVA FIST PLANET

@@ -1,5 +1,7 @@
 # TCGirls
 
+![tc-girls](https://cdn.myanimelist.net/images/manga/2/203042.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 28

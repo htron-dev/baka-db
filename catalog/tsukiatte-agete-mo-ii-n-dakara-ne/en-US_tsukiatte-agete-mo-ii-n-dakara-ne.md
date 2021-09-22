@@ -1,5 +1,7 @@
 # Tsukiatte Agete mo Ii n Dakara ne
 
+![tsukiatte-agete-mo-ii-n-dakara-ne](https://cdn.myanimelist.net/images/manga/3/153090.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Tatta Hitotsu no Saeta Yarikata
 
+![tatta-hitotsu-no-saeta-yarikata](https://cdn.myanimelist.net/images/manga/2/197350.jpg)
+
 -   **type**: light-novel
 -   **original-name**: たったひとつの冴えた殺りかた
 -   **start-date**: 2017-07-01

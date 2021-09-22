@@ -1,5 +1,7 @@
 # The Moment When a Fox Becomes a Wolf
 
+![the-moment-when-a-fox-becomes-a-wolf](https://cdn.myanimelist.net/images/manga/2/118919.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 -   **chapters**: 46

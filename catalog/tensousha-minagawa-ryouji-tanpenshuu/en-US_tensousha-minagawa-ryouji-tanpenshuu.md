@@ -1,5 +1,7 @@
 # Tensousha: Minagawa Ryouji Tanpenshuu
 
+![tensousha-minagawa-ryouji-tanpenshuu](https://cdn.myanimelist.net/images/manga/2/247801.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

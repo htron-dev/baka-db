@@ -1,5 +1,7 @@
 # Taifuu no Noruda
 
+![taifuu-no-noruda](https://cdn.myanimelist.net/images/anime/8/73450.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 台風のノルダ

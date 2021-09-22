@@ -1,5 +1,7 @@
 # Ten yori mo Hoshi yori mo
 
+![ten-yori-mo-hoshi-yori-mo](https://cdn.myanimelist.net/images/manga/1/16343.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 天よりも星よりも

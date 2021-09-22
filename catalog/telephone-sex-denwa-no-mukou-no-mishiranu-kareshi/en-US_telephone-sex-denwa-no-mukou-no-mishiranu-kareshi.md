@@ -1,5 +1,7 @@
 # Telephone Sex: Denwa no Mukou no Mishiranu Kareshi
 
+![telephone-sex-denwa-no-mukou-no-mishiranu-kareshi](https://cdn.myanimelist.net/images/manga/1/199750.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: テレフォンセックス～電話の向こうの見知らぬ彼氏～

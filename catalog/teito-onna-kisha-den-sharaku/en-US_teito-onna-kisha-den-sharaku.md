@@ -1,5 +1,7 @@
 # Teito Onna Kisha Den - Sharaku
 
+![teito-onna-kisha-den-sharaku](https://cdn.myanimelist.net/images/manga/2/11924.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 帝都女記者伝 写・らく

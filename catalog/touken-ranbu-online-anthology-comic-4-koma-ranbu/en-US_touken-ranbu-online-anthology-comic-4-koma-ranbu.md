@@ -1,5 +1,7 @@
 # Touken Ranbu Online Anthology Comic: 4-koma Ranbu!
 
+![touken-ranbu-online-anthology-comic-4-koma-ranbu](https://cdn.myanimelist.net/images/manga/2/171870.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 「刀剣乱舞-ONLINE-」アンソロジーコミック『4 コマらんぶっ』

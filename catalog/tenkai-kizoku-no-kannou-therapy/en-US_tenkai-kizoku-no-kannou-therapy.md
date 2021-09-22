@@ -1,5 +1,7 @@
 # Tenkai Kizoku no Kannou Therapy
 
+![tenkai-kizoku-no-kannou-therapy](https://cdn.myanimelist.net/images/manga/3/182971.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

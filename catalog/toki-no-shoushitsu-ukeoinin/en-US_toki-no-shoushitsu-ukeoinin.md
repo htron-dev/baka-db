@@ -1,5 +1,7 @@
 # Toki no Shoushitsu Ukeoinin
 
+![toki-no-shoushitsu-ukeoinin](https://cdn.myanimelist.net/images/manga/1/156381.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 6

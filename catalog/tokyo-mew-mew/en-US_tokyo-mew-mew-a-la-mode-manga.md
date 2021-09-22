@@ -1,5 +1,7 @@
 # Tokyo Mew Mew à La Mode
 
+![tokyo-mew-mew-a-la-mode](https://cdn.myanimelist.net/images/manga/3/153746.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

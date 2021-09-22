@@ -1,5 +1,7 @@
 # Tennis no Ouji-sama
 
+![tennis-no-ouji-sama](https://cdn.myanimelist.net/images/manga/3/153238.jpg)
+
 -   **type**: manga
 -   **volumes**: 42
 -   **chapters**: 382

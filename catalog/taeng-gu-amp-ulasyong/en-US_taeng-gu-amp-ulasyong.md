@@ -1,5 +1,7 @@
 # Taeng-gu &amp; Ulasyong
 
+![taeng-gu-amp-ulasyong](https://cdn.myanimelist.net/images/anime/3/78247.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 탱구와 울라숑

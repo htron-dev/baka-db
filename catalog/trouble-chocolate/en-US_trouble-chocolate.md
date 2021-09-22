@@ -1,5 +1,7 @@
 # Trouble Chocolate
 
+![trouble-chocolate](https://cdn.myanimelist.net/images/anime/8/61293.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 20
 -   **original-name**: トラブルチョコレート

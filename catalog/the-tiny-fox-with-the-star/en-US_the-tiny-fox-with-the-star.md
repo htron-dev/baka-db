@@ -1,5 +1,7 @@
 # The Tiny Fox with the Star
 
+![the-tiny-fox-with-the-star](https://cdn.myanimelist.net/images/manga/3/41265.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **original-name**: 별을가진작은여우

@@ -1,5 +1,7 @@
 # Tetsunagi Kooni.
 
+![tetsunagi-kooni](https://cdn.myanimelist.net/images/manga/3/193982.jpg)
+
 -   **type**: manga
 -   **chapters**: 35
 -   **original-name**: てつなぎこおに。

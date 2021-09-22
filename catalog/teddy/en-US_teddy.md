@@ -1,5 +1,7 @@
 # Teddy
 
+![teddy](https://cdn.myanimelist.net/images/anime/8/72759.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: テディ

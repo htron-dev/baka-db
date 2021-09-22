@@ -1,5 +1,7 @@
 # Tettsui to Pieta
 
+![tettsui-to-pieta](https://cdn.myanimelist.net/images/manga/1/226401.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

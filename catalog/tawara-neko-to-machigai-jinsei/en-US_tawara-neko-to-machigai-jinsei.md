@@ -1,5 +1,7 @@
 # Tawara Neko to Machigai Jinsei
 
+![tawara-neko-to-machigai-jinsei](https://cdn.myanimelist.net/images/manga/3/170921.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 78

@@ -1,5 +1,7 @@
 # Tiger & Bunny Koushiki Anthology
 
+![tiger-bunny-koushiki-anthology](https://cdn.myanimelist.net/images/manga/1/108981.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 86

@@ -1,5 +1,7 @@
 # Tomodachi Game
 
+![tomodachi-game](https://cdn.myanimelist.net/images/manga/2/122805.jpg)
+
 -   **type**: manga
 -   **original-name**: トモダチゲーム
 -   **start-date**: 2013-12-09

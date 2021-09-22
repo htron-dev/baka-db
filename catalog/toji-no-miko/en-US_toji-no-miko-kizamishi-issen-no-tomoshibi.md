@@ -1,5 +1,7 @@
 # Toji no Miko: Kizamishi Issen no Tomoshibi
 
+![toji-no-miko-kizamishi-issen-no-tomoshibi](https://cdn.myanimelist.net/images/anime/1083/93003.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 刀使ノ巫女 刻みし一閃の燈火

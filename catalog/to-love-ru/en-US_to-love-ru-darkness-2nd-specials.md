@@ -1,5 +1,7 @@
 # To LOVE-Ru Darkness 2nd Specials
 
+![to-love-ru-darkness-2nd-specials](https://cdn.myanimelist.net/images/anime/9/79330.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: To LOVE る -とらぶる- ダークネス 2nd

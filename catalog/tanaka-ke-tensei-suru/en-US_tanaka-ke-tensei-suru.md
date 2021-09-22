@@ -1,5 +1,7 @@
 # Tanaka-ke, Tensei suru.
 
+![tanaka-ke-tensei-suru](https://cdn.myanimelist.net/images/manga/2/247486.jpg)
+
 -   **type**: manga
 -   **original-name**: 田中家、転生する。
 -   **start-date**: 2020-06-27

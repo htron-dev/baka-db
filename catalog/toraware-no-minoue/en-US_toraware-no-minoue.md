@@ -1,5 +1,7 @@
 # Toraware no Minoue
 
+![toraware-no-minoue](https://cdn.myanimelist.net/images/manga/1/123721.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 33

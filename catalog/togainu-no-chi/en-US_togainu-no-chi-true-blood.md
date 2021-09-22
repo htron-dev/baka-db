@@ -1,5 +1,7 @@
 # Togainu no Chi True Blood
 
+![togainu-no-chi-true-blood](https://cdn.myanimelist.net/images/manga/3/26235.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 咎狗の血 True Blood

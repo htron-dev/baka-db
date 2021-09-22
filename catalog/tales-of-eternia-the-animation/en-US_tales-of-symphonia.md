@@ -1,5 +1,7 @@
 # Tales of Symphonia
 
+![tales-of-symphonia](https://cdn.myanimelist.net/images/manga/2/19070.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 22

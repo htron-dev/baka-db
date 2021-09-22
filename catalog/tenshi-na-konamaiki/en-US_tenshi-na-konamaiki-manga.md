@@ -1,5 +1,7 @@
 # Tenshi na Konamaiki
 
+![tenshi-na-konamaiki](https://cdn.myanimelist.net/images/manga/3/172156.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 199

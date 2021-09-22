@@ -1,5 +1,7 @@
 # Toshi Densetsu-kei Kanojo.
 
+![toshi-densetsu-kei-kanojo](https://cdn.myanimelist.net/images/manga/1/174466.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 都市伝説系彼女。
 -   **start-date**: 2016-03-25

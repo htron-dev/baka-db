@@ -1,5 +1,7 @@
 # Trace: Kasouken Houi Kenkyuuin no Tsuisou
 
+![trace-kasouken-houi-kenkyuuin-no-tsuisou](https://cdn.myanimelist.net/images/manga/2/195259.jpg)
+
 -   **type**: manga
 -   **original-name**: トレース 科捜研法医研究員の追想
 -   **start-date**: 2016-01-25

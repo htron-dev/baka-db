@@ -1,5 +1,7 @@
 # Treasure Hunter: Inmitsu no Wana
 
+![treasure-hunter-inmitsu-no-wana](https://cdn.myanimelist.net/images/manga/3/199329.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: トレジャーハンター　淫蜜の罠

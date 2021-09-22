@@ -1,5 +1,7 @@
 # Tanuki to Kitsune Specials
 
+![tanuki-to-kitsune-specials](https://cdn.myanimelist.net/images/anime/1853/90487.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: タヌキとキツネ

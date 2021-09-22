@@ -1,5 +1,7 @@
 # Tonde Mon Pe
 
+![tonde-mon-pe](https://cdn.myanimelist.net/images/anime/12/15468.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 42
 -   **original-name**: とんでモン・ぺ

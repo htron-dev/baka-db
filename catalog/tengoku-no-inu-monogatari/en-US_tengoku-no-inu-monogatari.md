@@ -1,5 +1,7 @@
 # Tengoku no Inu Monogatari
 
+![tengoku-no-inu-monogatari](https://cdn.myanimelist.net/images/manga/3/14393.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 天国の犬ものがたり

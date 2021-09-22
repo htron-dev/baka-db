@@ -1,5 +1,7 @@
 # Bouken! Iczer 3
 
+![bouken-iczer-3](https://cdn.myanimelist.net/images/anime/7/50033.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 冒険！イクサー３

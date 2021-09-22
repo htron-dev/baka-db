@@ -1,5 +1,7 @@
 # Tokyo Ghoul: "Jack"
 
+![tokyo-ghoul-jack](https://cdn.myanimelist.net/images/manga/3/134713.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

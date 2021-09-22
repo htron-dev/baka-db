@@ -1,5 +1,7 @@
 # Shin Kurosawa: Saikyou Densetsu
 
+![shin-kurosawa-saikyou-densetsu](https://cdn.myanimelist.net/images/manga/3/115007.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **chapters**: 164

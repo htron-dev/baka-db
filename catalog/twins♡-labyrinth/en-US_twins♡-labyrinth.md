@@ -1,5 +1,7 @@
 # Twin's♡Labyrinth
 
+![twins♡-labyrinth](https://cdn.myanimelist.net/images/manga/2/6803.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

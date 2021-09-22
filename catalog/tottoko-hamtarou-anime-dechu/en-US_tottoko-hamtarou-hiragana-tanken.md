@@ -1,5 +1,7 @@
 # Tottoko Hamtarou: Hiragana Tanken
 
+![tottoko-hamtarou-hiragana-tanken](https://cdn.myanimelist.net/images/anime/1094/98574.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: とっとこハム太郎ひらがなたんけん

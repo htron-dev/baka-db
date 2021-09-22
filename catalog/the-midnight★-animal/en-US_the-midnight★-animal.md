@@ -1,5 +1,7 @@
 # The Midnight★Animal
 
+![the-midnight★-animal](https://cdn.myanimelist.net/images/anime/11/53019.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: ザ・ミッドナイト ★ アニマル

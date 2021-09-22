@@ -1,5 +1,7 @@
 # The Color of Earth
 
+![the-color-of-earth](https://cdn.myanimelist.net/images/manga/5/197449.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 30

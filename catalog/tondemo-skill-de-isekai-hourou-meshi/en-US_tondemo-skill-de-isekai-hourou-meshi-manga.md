@@ -1,5 +1,7 @@
 # Tondemo Skill de Isekai Hourou Meshi
 
+![tondemo-skill-de-isekai-hourou-meshi](https://cdn.myanimelist.net/images/manga/1/204823.jpg)
+
 -   **type**: manga
 -   **original-name**: とんでもスキルで異世界放浪メシ
 -   **start-date**: 2017-03-24

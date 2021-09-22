@@ -1,5 +1,7 @@
 # Teppen!
 
+![teppen](https://cdn.myanimelist.net/images/manga/1/15946.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

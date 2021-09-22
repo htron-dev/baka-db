@@ -1,5 +1,7 @@
 # Tengai-san wa Angai Futsuu
 
+![tengai-san-wa-angai-futsuu](https://cdn.myanimelist.net/images/manga/1/172303.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

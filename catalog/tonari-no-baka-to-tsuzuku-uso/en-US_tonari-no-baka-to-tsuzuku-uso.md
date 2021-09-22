@@ -1,5 +1,7 @@
 # Tonari no Baka to Tsuzuku Uso
 
+![tonari-no-baka-to-tsuzuku-uso](https://cdn.myanimelist.net/images/manga/2/199696.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

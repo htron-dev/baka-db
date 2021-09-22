@@ -1,5 +1,7 @@
 # Tokyo Yamimushi: 2nd Scenario - Pandora
 
+![tokyo-yamimushi-2nd-scenario-pandora](https://cdn.myanimelist.net/images/manga/1/145533.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 64

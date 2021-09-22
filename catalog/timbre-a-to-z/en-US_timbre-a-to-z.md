@@ -1,5 +1,7 @@
 # Timbre A to Z
 
+![timbre-a-to-z](https://cdn.myanimelist.net/images/anime/3/70209.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: Timbre A to Z

@@ -1,5 +1,7 @@
 # Tattoo Hearts
 
+![tattoo-hearts](https://cdn.myanimelist.net/images/manga/3/236273.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

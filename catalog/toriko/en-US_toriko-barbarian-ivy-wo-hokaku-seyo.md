@@ -1,5 +1,7 @@
 # Toriko: Barbarian Ivy wo Hokaku Seyo!
 
+![toriko-barbarian-ivy-wo-hokaku-seyo](https://cdn.myanimelist.net/images/anime/13/32953.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: トリコ バーバリアンアイビーを捕獲せよ!

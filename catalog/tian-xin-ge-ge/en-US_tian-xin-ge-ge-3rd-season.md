@@ -1,5 +1,7 @@
 # Tian Xin Ge Ge 3rd Season
 
+![tian-xin-ge-ge-3rd-season](https://cdn.myanimelist.net/images/anime/1443/93587.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: 甜心格格 第三部

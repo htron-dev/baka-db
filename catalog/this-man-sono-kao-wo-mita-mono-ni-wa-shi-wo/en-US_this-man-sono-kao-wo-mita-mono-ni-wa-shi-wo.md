@@ -1,5 +1,7 @@
 # This Man: Sono Kao wo Mita Mono ni wa Shi wo
 
+![this-man-sono-kao-wo-mita-mono-ni-wa-shi-wo](https://cdn.myanimelist.net/images/manga/1/210788.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 43

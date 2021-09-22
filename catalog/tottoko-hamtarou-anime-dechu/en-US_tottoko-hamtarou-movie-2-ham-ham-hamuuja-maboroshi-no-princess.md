@@ -1,5 +1,7 @@
 # Tottoko Hamtarou Movie 2: Ham-Ham Hamuuja! Maboroshi no Princess
 
+![tottoko-hamtarou-movie-2-ham-ham-hamuuja-maboroshi-no-princess](https://cdn.myanimelist.net/images/anime/6/17586.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: とっとこハム太郎 ハムハムハムージャ！幻のプリンセス

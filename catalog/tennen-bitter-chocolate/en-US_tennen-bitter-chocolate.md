@@ -1,5 +1,7 @@
 # Tennen Bitter Chocolate
 
+![tennen-bitter-chocolate](https://cdn.myanimelist.net/images/manga/1/24893.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

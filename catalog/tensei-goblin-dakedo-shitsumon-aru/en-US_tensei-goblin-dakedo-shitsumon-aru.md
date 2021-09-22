@@ -1,5 +1,7 @@
 # Tensei Goblin dakedo Shitsumon Aru?
 
+![tensei-goblin-dakedo-shitsumon-aru](https://cdn.myanimelist.net/images/manga/3/230639.jpg)
+
 -   **type**: manga
 -   **original-name**: 転生ゴブリンだけど質問ある?
 -   **start-date**: 2020-02-26

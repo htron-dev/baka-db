@@ -1,5 +1,7 @@
 # The Animatrix
 
+![the-animatrix](https://cdn.myanimelist.net/images/anime/3/75870.jpg)
+
 -   **type**: ova
 -   **episodes**: 9
 -   **original-name**: アニマトリックス

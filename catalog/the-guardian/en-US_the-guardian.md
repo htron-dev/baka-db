@@ -1,5 +1,7 @@
 # The Guardian
 
+![the-guardian](https://cdn.myanimelist.net/images/manga/3/3086.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

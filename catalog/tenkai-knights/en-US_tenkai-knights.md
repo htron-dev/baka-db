@@ -1,5 +1,7 @@
 # Tenkai Knights
 
+![tenkai-knights](https://cdn.myanimelist.net/images/anime/8/74140.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: テンカイナイト

@@ -1,5 +1,7 @@
 # Tong Zhi Zhe
 
+![tong-zhi-zhe](https://cdn.myanimelist.net/images/anime/8/81483.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 通职者

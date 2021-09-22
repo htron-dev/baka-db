@@ -1,5 +1,7 @@
 # Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari
 
+![tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari](https://cdn.myanimelist.net/images/manga/2/206837.jpg)
+
 -   **type**: manga
 -   **original-name**: たとえばラストダンジョン前の村の少年が序盤の街で暮らすような物語
 -   **start-date**: 2017-09-28

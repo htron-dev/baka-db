@@ -1,5 +1,7 @@
 # Towa Kamo Shirenai
 
+![towa-kamo-shirenai](https://cdn.myanimelist.net/images/manga/3/4098.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 31

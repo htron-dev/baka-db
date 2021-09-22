@@ -1,5 +1,7 @@
 # Tsumugi-san Chi no Baai
 
+![tsumugi-san-chi-no-baai](https://cdn.myanimelist.net/images/manga/2/234289.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 紡木さん家の場合

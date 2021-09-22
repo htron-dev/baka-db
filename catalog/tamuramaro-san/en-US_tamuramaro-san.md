@@ -1,5 +1,7 @@
 # Tamuramaro-san
 
+![tamuramaro-san](https://cdn.myanimelist.net/images/manga/3/116011.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

@@ -1,5 +1,7 @@
 # Tadatada Suki to Iu dake de
 
+![tadatada-suki-to-iu-dake-de](https://cdn.myanimelist.net/images/manga/1/224169.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

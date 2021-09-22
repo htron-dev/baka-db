@@ -1,5 +1,7 @@
 # Chuukan Kanriroku Tonegawa
 
+![chuukan-kanriroku-tonegawa](https://cdn.myanimelist.net/images/manga/1/197783.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 86

@@ -1,5 +1,7 @@
 # Tsuki wa Yamiyo ni Kakuru ga Gotoku
 
+![tsuki-wa-yamiyo-ni-kakuru-ga-gotoku](https://cdn.myanimelist.net/images/manga/2/4173.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

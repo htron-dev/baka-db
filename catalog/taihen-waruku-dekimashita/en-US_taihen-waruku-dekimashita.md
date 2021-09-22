@@ -1,5 +1,7 @@
 # Taihen Waruku Dekimashita
 
+![taihen-waruku-dekimashita](https://cdn.myanimelist.net/images/manga/2/222695.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

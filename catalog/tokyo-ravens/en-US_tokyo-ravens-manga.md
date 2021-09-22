@@ -1,5 +1,7 @@
 # Tokyo Ravens
 
+![tokyo-ravens](https://cdn.myanimelist.net/images/manga/2/56569.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 82

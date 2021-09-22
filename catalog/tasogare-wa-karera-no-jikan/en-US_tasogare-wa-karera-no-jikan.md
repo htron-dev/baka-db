@@ -1,5 +1,7 @@
 # Tasogare wa Karera no Jikan
 
+![tasogare-wa-karera-no-jikan](https://cdn.myanimelist.net/images/manga/4/87149.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

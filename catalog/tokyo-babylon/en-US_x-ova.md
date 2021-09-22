@@ -1,5 +1,7 @@
 # X OVA
 
+![x-ova](https://cdn.myanimelist.net/images/anime/12/83082.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: X -エックス-第零話 予兆

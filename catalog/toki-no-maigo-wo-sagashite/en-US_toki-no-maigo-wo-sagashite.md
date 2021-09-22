@@ -1,5 +1,7 @@
 # Toki no Maigo wo Sagashite!
 
+![toki-no-maigo-wo-sagashite](https://cdn.myanimelist.net/images/manga/1/37607.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

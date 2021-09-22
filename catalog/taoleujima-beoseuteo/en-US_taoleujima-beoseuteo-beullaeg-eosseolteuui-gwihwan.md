@@ -1,5 +1,7 @@
 # Taoleujima Beoseuteo: Beullaeg-Eosseolteuui Gwihwan
 
+![taoleujima-beoseuteo-beullaeg-eosseolteuui-gwihwan](https://cdn.myanimelist.net/images/anime/1529/114458.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 극장판 타오르지마 버스터 - 블랙어썰트의 귀환

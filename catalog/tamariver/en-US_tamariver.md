@@ -1,5 +1,7 @@
 # Tamariver
 
+![tamariver](https://cdn.myanimelist.net/images/manga/2/69687.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

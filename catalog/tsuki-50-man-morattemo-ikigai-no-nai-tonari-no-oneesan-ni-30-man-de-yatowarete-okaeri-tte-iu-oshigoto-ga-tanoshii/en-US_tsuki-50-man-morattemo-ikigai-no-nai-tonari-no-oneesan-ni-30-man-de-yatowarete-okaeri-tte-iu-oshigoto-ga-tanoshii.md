@@ -1,5 +1,7 @@
 # Tsuki 50-man Morattemo Ikigai no Nai Tonari no Oneesan ni 30-man de Yatowarete "Okaeri" tte Iu Oshigoto ga Tanoshii
 
+![tsuki-50-man-morattemo-ikigai-no-nai-tonari-no-oneesan-ni-30-man-de-yatowarete-okaeri-tte-iu-oshigoto-ga-tanoshii](https://cdn.myanimelist.net/images/manga/3/236208.jpg)
+
 -   **type**: manga
 -   **original-name**: 月 50 万もらっても生き甲斐のない隣のお姉さんに 30 万で雇われて「おかえり」って言うお仕事が楽しい
 -   **start-date**: 2020-04-17

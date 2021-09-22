@@ -1,5 +1,7 @@
 # Teekyuu 3 Specials
 
+![teekyuu-3-specials](https://cdn.myanimelist.net/images/anime/7/58477.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: てーきゅう３期　映像特典

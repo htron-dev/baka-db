@@ -1,5 +1,7 @@
 # Sasami: Mahou Shoujo Club 2
 
+![sasami-mahou-shoujo-club-2](https://cdn.myanimelist.net/images/anime/7/5649.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 砂沙美 ☆ 魔法少女クラブ シーズン 2

@@ -1,5 +1,7 @@
 # The Bear-Like Fox Meets The Wolf
 
+![the-bear-like-fox-meets-the-wolf](https://cdn.myanimelist.net/images/manga/3/28727.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 

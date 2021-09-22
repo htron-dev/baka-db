@@ -1,5 +1,7 @@
 # Tales of Zestiria: Michibiki no Toki
 
+![tales-of-zestiria-michibiki-no-toki](https://cdn.myanimelist.net/images/manga/2/160092.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

@@ -1,5 +1,7 @@
 # Tantei Team KZ Jiken Note
 
+![tantei-team-kz-jiken-note](https://cdn.myanimelist.net/images/anime/12/76574.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 16
 -   **original-name**: 探偵チームＫＺ（カッズ）事件ノート

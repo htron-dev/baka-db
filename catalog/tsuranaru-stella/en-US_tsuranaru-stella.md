@@ -1,5 +1,7 @@
 # Tsuranaru Stella
 
+![tsuranaru-stella](https://cdn.myanimelist.net/images/manga/3/209199.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

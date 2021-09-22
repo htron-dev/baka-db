@@ -1,5 +1,7 @@
 # Tenka Ichi!
 
+![tenka-ichi](https://cdn.myanimelist.net/images/manga/3/62739.jpg)
+
 -   **type**: manga
 -   **original-name**: 天下一！！
 

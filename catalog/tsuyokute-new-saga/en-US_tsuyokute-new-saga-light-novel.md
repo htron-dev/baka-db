@@ -1,5 +1,7 @@
 # Tsuyokute New Saga
 
+![tsuyokute-new-saga](https://cdn.myanimelist.net/images/manga/1/186492.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **original-name**: 強くてニューサーガ

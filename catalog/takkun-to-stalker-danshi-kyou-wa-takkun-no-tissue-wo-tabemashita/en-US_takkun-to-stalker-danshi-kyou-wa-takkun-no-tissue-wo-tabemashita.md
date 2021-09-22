@@ -1,5 +1,7 @@
 # Takkun to Stalker Danshi: Kyou wa Takkun no Tissue wo Tabemashita
 
+![takkun-to-stalker-danshi-kyou-wa-takkun-no-tissue-wo-tabemashita](https://cdn.myanimelist.net/images/manga/1/225283.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

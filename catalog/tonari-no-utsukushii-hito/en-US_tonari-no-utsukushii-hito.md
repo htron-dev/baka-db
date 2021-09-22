@@ -1,5 +1,7 @@
 # Tonari no Utsukushii Hito
 
+![tonari-no-utsukushii-hito](https://cdn.myanimelist.net/images/manga/1/80325.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Toraware no Mitsu Dorei: Do S na Oji-sama ni Aisarete
 
+![toraware-no-mitsu-dorei-do-s-na-oji-sama-ni-aisarete](https://cdn.myanimelist.net/images/manga/2/192360.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

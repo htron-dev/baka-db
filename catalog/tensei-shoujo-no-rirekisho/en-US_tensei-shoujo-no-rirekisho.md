@@ -1,5 +1,7 @@
 # Tensei Shoujo no Rirekisho
 
+![tensei-shoujo-no-rirekisho](https://cdn.myanimelist.net/images/manga/1/207072.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 転生少女の履歴書
 -   **start-date**: 2016-01-30

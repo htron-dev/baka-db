@@ -1,5 +1,7 @@
 # Tantei wa Warawanai - Tokubetsuhen
 
+![tantei-wa-warawanai-tokubetsuhen](https://cdn.myanimelist.net/images/manga/3/14011.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 探偵は笑わない 特別編

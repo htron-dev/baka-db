@@ -1,5 +1,7 @@
 # Tenju no Kuni
 
+![tenju-no-kuni](https://cdn.myanimelist.net/images/manga/3/211053.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

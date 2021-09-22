@@ -1,5 +1,7 @@
 # The President's Time
 
+![the-presidents-time](https://cdn.myanimelist.net/images/manga/2/9058.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

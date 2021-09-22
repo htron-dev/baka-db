@@ -1,5 +1,7 @@
 # Toujima Tanzaburou wa Kamen Rider ni Naritai
 
+![toujima-tanzaburou-wa-kamen-rider-ni-naritai](https://cdn.myanimelist.net/images/manga/2/226591.jpg)
+
 -   **type**: manga
 -   **original-name**: 東島丹三郎は仮面ライダーになりたい
 -   **start-date**: 2019-05-01

@@ -1,5 +1,7 @@
 # Tachibanakan CeLeb Life
 
+![tachibanakan-ce-leb-life](https://cdn.myanimelist.net/images/manga/1/245207.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

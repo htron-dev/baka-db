@@ -1,5 +1,7 @@
 # Tensai Gakusha ni Koishitara
 
+![tensai-gakusha-ni-koishitara](https://cdn.myanimelist.net/images/manga/1/184077.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 天才学者に恋したら

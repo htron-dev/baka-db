@@ -1,5 +1,7 @@
 # Tsukiyo ni Hime wa Sarawarete: Wasureji no Heian Koimonogatari
 
+![tsukiyo-ni-hime-wa-sarawarete-wasureji-no-heian-koimonogatari](https://cdn.myanimelist.net/images/manga/2/195123.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 月夜に姫は攫われて～忘れじの平安恋物語～

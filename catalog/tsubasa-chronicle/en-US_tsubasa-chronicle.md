@@ -1,5 +1,7 @@
 # Tsubasa Chronicle
 
+![tsubasa-chronicle](https://cdn.myanimelist.net/images/anime/9/6555.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ツバサ・クロニクル

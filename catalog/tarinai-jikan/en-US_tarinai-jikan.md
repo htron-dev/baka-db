@@ -1,5 +1,7 @@
 # Tarinai Jikan
 
+![tarinai-jikan](https://cdn.myanimelist.net/images/manga/2/11246.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

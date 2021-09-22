@@ -1,5 +1,7 @@
 # Taisou Zamurai
 
+![taisou-zamurai](https://cdn.myanimelist.net/images/anime/1484/109365.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 体操ザムライ

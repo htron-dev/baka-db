@@ -1,5 +1,7 @@
 # Tennis no Ouji-sama: Zenkoku Taikai-hen
 
+![tennis-no-ouji-sama-zenkoku-taikai-hen](https://cdn.myanimelist.net/images/anime/12/10572.jpg)
+
 -   **type**: ova
 -   **episodes**: 13
 -   **original-name**: テニスの王子様 Original Video Animation 全国大会編

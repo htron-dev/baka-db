@@ -1,5 +1,7 @@
 # Tottoko Hamtarou Movie 4: Hamtaro to Fushigi no Oni no Emon Tou
 
+![tottoko-hamtarou-movie-4-hamtaro-to-fushigi-no-oni-no-emon-tou](https://cdn.myanimelist.net/images/anime/7/20094.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: とっとこハム太郎　ハム太郎とふしぎのオニの絵本塔

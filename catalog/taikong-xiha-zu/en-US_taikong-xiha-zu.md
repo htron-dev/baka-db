@@ -1,5 +1,7 @@
 # Taikong Xiha Zu
 
+![taikong-xiha-zu](https://cdn.myanimelist.net/images/anime/1985/114521.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 太空嘻哈族

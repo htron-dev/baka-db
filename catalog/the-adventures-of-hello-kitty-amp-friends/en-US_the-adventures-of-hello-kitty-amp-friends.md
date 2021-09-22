@@ -1,5 +1,7 @@
 # The Adventures of Hello Kitty &amp; Friends
 
+![the-adventures-of-hello-kitty-amp-friends](https://cdn.myanimelist.net/images/anime/13/62053.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: Hello Kitty 愛漫遊

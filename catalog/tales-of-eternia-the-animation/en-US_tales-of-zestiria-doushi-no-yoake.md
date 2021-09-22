@@ -1,5 +1,7 @@
 # Tales of Zestiria: Doushi no Yoake
 
+![tales-of-zestiria-doushi-no-yoake](https://cdn.myanimelist.net/images/anime/7/69719.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: テイルズ オブ ゼスティリア ～導師の夜明け～

@@ -1,5 +1,7 @@
 # Tenshi no Uta
 
+![tenshi-no-uta](https://cdn.myanimelist.net/images/manga/2/21221.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

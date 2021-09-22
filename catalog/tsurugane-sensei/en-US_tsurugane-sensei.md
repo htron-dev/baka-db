@@ -1,5 +1,7 @@
 # Tsurugane-sensei
 
+![tsurugane-sensei](https://cdn.myanimelist.net/images/manga/3/221463.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

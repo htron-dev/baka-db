@@ -1,5 +1,7 @@
 # Tantei Gishiki
 
+![tantei-gishiki](https://cdn.myanimelist.net/images/manga/3/16517.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 45

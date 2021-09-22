@@ -1,5 +1,7 @@
 # Touken Ranbu Online: Anthology Comic - Squeni no Jin
 
+![touken-ranbu-online-anthology-comic-squeni-no-jin](https://cdn.myanimelist.net/images/manga/3/223908.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

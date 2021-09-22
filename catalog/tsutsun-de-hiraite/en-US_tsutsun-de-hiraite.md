@@ -1,5 +1,7 @@
 # Tsutsun de Hiraite
 
+![tsutsun-de-hiraite](https://cdn.myanimelist.net/images/manga/2/67867.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

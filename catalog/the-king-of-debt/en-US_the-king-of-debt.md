@@ -1,5 +1,7 @@
 # The King Of Debt
 
+![the-king-of-debt](https://cdn.myanimelist.net/images/manga/3/6021.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

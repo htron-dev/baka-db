@@ -1,5 +1,7 @@
 # Takane to Hana
 
+![takane-to-hana](https://cdn.myanimelist.net/images/manga/1/152773.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 115

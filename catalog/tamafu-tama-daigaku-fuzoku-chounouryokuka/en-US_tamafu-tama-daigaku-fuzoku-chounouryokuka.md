@@ -1,5 +1,7 @@
 # Tamafu! Tama Daigaku Fuzoku Chounouryokuka
 
+![tamafu-tama-daigaku-fuzoku-chounouryokuka](https://cdn.myanimelist.net/images/manga/2/161052.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

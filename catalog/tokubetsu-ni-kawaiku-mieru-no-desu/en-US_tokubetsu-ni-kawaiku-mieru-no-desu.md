@@ -1,5 +1,7 @@
 # Tokubetsu ni Kawaiku Mieru no desu.
 
+![tokubetsu-ni-kawaiku-mieru-no-desu](https://cdn.myanimelist.net/images/manga/3/221869.jpg)
+
 -   **type**: manga
 -   **original-name**: 特別に可愛く見えるのです。
 -   **start-date**: 2018-07-20

@@ -1,5 +1,7 @@
 # Toshishita Kare wa Kemono Chef Minarai
 
+![toshishita-kare-wa-kemono-chef-minarai](https://cdn.myanimelist.net/images/manga/2/194639.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 年下カレは獣シェフ見習い

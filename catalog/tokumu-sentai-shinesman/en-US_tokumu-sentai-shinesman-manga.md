@@ -1,5 +1,7 @@
 # Tokumu Sentai Shinesman
 
+![tokumu-sentai-shinesman](https://cdn.myanimelist.net/images/manga/3/1330.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: Tokumu Sentai Shinesman

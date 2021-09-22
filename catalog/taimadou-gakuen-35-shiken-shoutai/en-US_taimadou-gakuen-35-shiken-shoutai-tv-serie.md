@@ -1,5 +1,7 @@
 # Taimadou Gakuen 35 Shiken Shoutai
 
+![taimadou-gakuen-35-shiken-shoutai](https://cdn.myanimelist.net/images/anime/6/76211.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 対魔導学園 35 試験小隊

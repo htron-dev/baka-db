@@ -1,5 +1,7 @@
 # Truck ni Hikareta no ni Isekai Dekinai to Iwareta kara, Bishoujo to Hataraku Koto ni Shita.
 
+![truck-ni-hikareta-no-ni-isekai-dekinai-to-iwareta-kara-bishoujo-to-hataraku-koto-ni-shita](https://cdn.myanimelist.net/images/manga/1/190335.jpg)
+
 -   **type**: light-novel
 -   **original-name**: トラックに轢かれたのに異世界転生できないと言われたから、美少女と働くことにした。
 -   **start-date**: 2017-02-02

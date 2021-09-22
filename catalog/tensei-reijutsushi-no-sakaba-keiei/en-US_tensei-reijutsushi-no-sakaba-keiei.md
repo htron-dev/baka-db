@@ -1,5 +1,7 @@
 # Tensei Reijutsushi no Sakaba Keiei
 
+![tensei-reijutsushi-no-sakaba-keiei](https://cdn.myanimelist.net/images/manga/2/178965.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 転生冷術士の酒場経営
 -   **start-date**: 2016-07-09

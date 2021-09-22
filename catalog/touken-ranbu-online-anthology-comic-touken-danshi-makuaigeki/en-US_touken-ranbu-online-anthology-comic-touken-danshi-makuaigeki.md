@@ -1,5 +1,7 @@
 # Touken Ranbu Online Anthology Comic: Touken Danshi Makuaigeki
 
+![touken-ranbu-online-anthology-comic-touken-danshi-makuaigeki](https://cdn.myanimelist.net/images/manga/2/164842.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

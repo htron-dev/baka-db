@@ -1,5 +1,7 @@
 # Shoubushi Densetsu Tetsuya
 
+![shoubushi-densetsu-tetsuya](https://cdn.myanimelist.net/images/anime/1917/98459.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 20
 -   **original-name**: 勝負師伝説哲也

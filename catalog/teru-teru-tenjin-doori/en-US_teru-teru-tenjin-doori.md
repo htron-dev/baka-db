@@ -1,5 +1,7 @@
 # Teru Teru Tenjin Doori
 
+![teru-teru-tenjin-doori](https://cdn.myanimelist.net/images/manga/1/11105.jpg)
+
 -   **type**: manga
 -   **original-name**: てるてる天神通り
 -   **start-date**: 2007-03-20

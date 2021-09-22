@@ -1,5 +1,7 @@
 # Tsubasa to Hotaru
 
+![tsubasa-to-hotaru](https://cdn.myanimelist.net/images/anime/11/59507.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: つばさとホタル

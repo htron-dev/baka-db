@@ -1,5 +1,7 @@
 # The Hakkenden
 
+![the-hakkenden](https://cdn.myanimelist.net/images/anime/5/23958.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: THE 八犬伝

@@ -1,5 +1,7 @@
 # Tamago no Hi
 
+![tamago-no-hi](https://cdn.myanimelist.net/images/manga/3/12022.jpg)
+
 -   **type**: manga
 -   **original-name**: 卵の日
 

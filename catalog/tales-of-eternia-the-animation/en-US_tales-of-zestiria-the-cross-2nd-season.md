@@ -1,5 +1,7 @@
 # Tales of Zestiria the Cross 2nd Season
 
+![tales-of-zestiria-the-cross-2nd-season](https://cdn.myanimelist.net/images/anime/1788/108410.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: テイルズ オブ ゼスティリア ザ クロス 第 2 期

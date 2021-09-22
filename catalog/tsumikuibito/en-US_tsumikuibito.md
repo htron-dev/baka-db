@@ -1,5 +1,7 @@
 # Tsumikuibito
 
+![tsumikuibito](https://cdn.myanimelist.net/images/manga/2/4901.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

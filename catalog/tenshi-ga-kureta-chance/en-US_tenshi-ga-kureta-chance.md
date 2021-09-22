@@ -1,5 +1,7 @@
 # Tenshi ga Kureta Chance
 
+![tenshi-ga-kureta-chance](https://cdn.myanimelist.net/images/manga/1/227488.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 天使がくれたチャンス

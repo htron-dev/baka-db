@@ -1,5 +1,7 @@
 # Tamayura: Sotsugyou Shashin Part 4 - Ashita
 
+![tamayura-sotsugyou-shashin-part-4-ashita](https://cdn.myanimelist.net/images/anime/7/78572.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: たまゆら～卒業写真～ 第 4 部 朝-あした-

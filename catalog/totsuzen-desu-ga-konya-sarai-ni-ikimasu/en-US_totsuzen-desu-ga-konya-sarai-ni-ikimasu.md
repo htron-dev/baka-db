@@ -1,5 +1,7 @@
 # Totsuzen desu ga, Konya Sarai ni Ikimasu
 
+![totsuzen-desu-ga-konya-sarai-ni-ikimasu](https://cdn.myanimelist.net/images/manga/3/185832.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

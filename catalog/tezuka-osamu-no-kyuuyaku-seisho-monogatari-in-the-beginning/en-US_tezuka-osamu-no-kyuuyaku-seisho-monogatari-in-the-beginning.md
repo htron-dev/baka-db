@@ -1,5 +1,7 @@
 # Tezuka Osamu no Kyuuyaku Seisho Monogatari: In the Beginning
 
+![tezuka-osamu-no-kyuuyaku-seisho-monogatari-in-the-beginning](https://cdn.myanimelist.net/images/anime/1943/102620.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 手塚治虫の旧約聖書物語 In The Beginning

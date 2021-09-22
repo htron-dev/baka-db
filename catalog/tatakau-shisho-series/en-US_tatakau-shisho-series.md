@@ -1,5 +1,7 @@
 # Tatakau Shisho Series
 
+![tatakau-shisho-series](https://cdn.myanimelist.net/images/manga/2/116711.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 90

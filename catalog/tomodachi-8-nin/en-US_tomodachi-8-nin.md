@@ -1,5 +1,7 @@
 # Tomodachi 8-nin
 
+![tomodachi-8-nin](https://cdn.myanimelist.net/images/anime/4/72123.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 398
 -   **original-name**: ともだち 8 にん

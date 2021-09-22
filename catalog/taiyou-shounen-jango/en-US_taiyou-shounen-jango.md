@@ -1,5 +1,7 @@
 # Taiyou Shounen Jango
 
+![taiyou-shounen-jango](https://cdn.myanimelist.net/images/manga/2/11832.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 47

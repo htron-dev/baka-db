@@ -1,5 +1,7 @@
 # The Aurora: Umi no Aurora
 
+![the-aurora-umi-no-aurora](https://cdn.myanimelist.net/images/anime/1021/94476.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 海のオーロラ

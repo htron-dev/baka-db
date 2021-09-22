@@ -1,5 +1,7 @@
 # Tantei wa Mou, Shindeiru.: The Lost Memory
 
+![tantei-wa-mou-shindeiru-the-lost-memory](https://cdn.myanimelist.net/images/manga/3/244985.jpg)
+
 -   **type**: manga
 -   **original-name**: 探偵はもう、死んでいる。-the lost memory-
 -   **start-date**: 2021-01-27

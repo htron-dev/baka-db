@@ -1,5 +1,7 @@
 # Shousei Shikisai Gensou
 
+![shousei-shikisai-gensou](https://cdn.myanimelist.net/images/anime/12/70655.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 鐘声色彩幻想

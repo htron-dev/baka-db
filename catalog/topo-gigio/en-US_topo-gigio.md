@@ -1,5 +1,7 @@
 # Topo Gigio
 
+![topo-gigio](https://cdn.myanimelist.net/images/anime/13/44137.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 21
 -   **original-name**: 帰って来た　トッポ・ジージョ

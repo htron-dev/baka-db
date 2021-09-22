@@ -1,5 +1,7 @@
 # The King of Fighters: A New Beginning
 
+![the-king-of-fighters-a-new-beginning](https://cdn.myanimelist.net/images/manga/3/210389.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 31

@@ -1,5 +1,7 @@
 # Trinity Blood: Reborn on the Mars
 
+![trinity-blood-reborn-on-the-mars](https://cdn.myanimelist.net/images/manga/2/209446.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 32

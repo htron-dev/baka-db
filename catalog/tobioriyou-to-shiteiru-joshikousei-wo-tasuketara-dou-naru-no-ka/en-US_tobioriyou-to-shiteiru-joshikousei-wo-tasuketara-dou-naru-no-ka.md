@@ -1,5 +1,7 @@
 # Tobioriyou to shiteiru Joshikousei wo Tasuketara Dou Naru no ka?
 
+![tobioriyou-to-shiteiru-joshikousei-wo-tasuketara-dou-naru-no-ka](https://cdn.myanimelist.net/images/manga/1/247300.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 飛び降りようとしている女子高生を助けたらどうなるのか?
 -   **start-date**: 2021-03-31

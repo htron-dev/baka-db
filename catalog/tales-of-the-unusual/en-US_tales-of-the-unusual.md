@@ -1,5 +1,7 @@
 # Tales of the Unusual
 
+![tales-of-the-unusual](https://cdn.myanimelist.net/images/manga/1/229435.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 기기괴괴
 -   **start-date**: 2013-05-08

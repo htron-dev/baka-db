@@ -1,5 +1,7 @@
 # Tokkabu: Tokubetsu Kagai Katsudou-bu
 
+![tokkabu-tokubetsu-kagai-katsudou-bu](https://cdn.myanimelist.net/images/manga/1/152133.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

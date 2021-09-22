@@ -1,5 +1,7 @@
 # Tennis no Ouji-sama Movie 1: Futari no Samurai - The First Game
 
+![tennis-no-ouji-sama-movie-1-futari-no-samurai-the-first-game](https://cdn.myanimelist.net/images/anime/7/3945.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 テニスの王子様 二人のサムライ The First Game

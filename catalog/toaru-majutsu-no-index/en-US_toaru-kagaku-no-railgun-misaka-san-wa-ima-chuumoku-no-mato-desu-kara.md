@@ -1,5 +1,7 @@
 # Toaru Kagaku no Railgun: Misaka-san wa Ima Chuumoku no Mato Desu kara
 
+![toaru-kagaku-no-railgun-misaka-san-wa-ima-chuumoku-no-mato-desu-kara](https://cdn.myanimelist.net/images/anime/1134/98125.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: とある科学の超電磁砲 御坂さんはいま注目の的ですから

@@ -1,5 +1,7 @@
 # Tsuki no Ura wo Koete: Omegaverse
 
+![tsuki-no-ura-wo-koete-omegaverse](https://cdn.myanimelist.net/images/manga/3/224851.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Touch: Sebangou no Nai Ace
 
+![touch-sebangou-no-nai-ace](https://cdn.myanimelist.net/images/anime/4/21457.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: タッチ 背番号のないエース

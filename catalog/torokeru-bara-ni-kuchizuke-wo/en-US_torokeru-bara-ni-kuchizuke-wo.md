@@ -1,5 +1,7 @@
 # Torokeru Bara ni Kuchizuke wo
 
+![torokeru-bara-ni-kuchizuke-wo](https://cdn.myanimelist.net/images/manga/2/194126.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

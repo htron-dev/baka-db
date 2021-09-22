@@ -1,5 +1,7 @@
 # Tengen Toppa Gurren Lagann
 
+![tengen-toppa-gurren-lagann](https://cdn.myanimelist.net/images/anime/4/5123.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 27
 -   **original-name**: 天元突破グレンラガン

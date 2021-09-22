@@ -1,5 +1,7 @@
 # Nono-chan
 
+![nono-chan](https://cdn.myanimelist.net/images/anime/8/15177.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 61
 -   **original-name**: ののちゃん

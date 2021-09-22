@@ -1,5 +1,7 @@
 # Touken Ranbu Online Anthology: Shutsujin Junbichuu!
 
+![touken-ranbu-online-anthology-shutsujin-junbichuu](https://cdn.myanimelist.net/images/manga/3/248022.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 18

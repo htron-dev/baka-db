@@ -1,5 +1,7 @@
 # The Curlydog Story
 
+![the-curlydog-story](https://cdn.myanimelist.net/images/anime/11/87635.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: The Curlydog Story

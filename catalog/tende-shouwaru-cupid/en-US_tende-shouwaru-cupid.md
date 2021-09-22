@@ -1,5 +1,7 @@
 # Tende Shouwaru Cupid
 
+![tende-shouwaru-cupid](https://cdn.myanimelist.net/images/manga/5/64377.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 32

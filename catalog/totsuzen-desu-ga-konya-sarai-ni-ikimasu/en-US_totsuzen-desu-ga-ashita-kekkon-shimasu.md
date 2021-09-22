@@ -1,5 +1,7 @@
 # Totsuzen desu ga, Ashita Kekkon Shimasu
 
+![totsuzen-desu-ga-ashita-kekkon-shimasu](https://cdn.myanimelist.net/images/manga/2/149163.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 52

@@ -1,5 +1,7 @@
 # Tenkuu Kangoku no Majutsu Garou
 
+![tenkuu-kangoku-no-majutsu-garou](https://cdn.myanimelist.net/images/manga/2/198705.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 26

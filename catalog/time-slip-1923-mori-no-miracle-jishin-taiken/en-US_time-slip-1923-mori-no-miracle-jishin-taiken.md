@@ -1,5 +1,7 @@
 # Time Slip 1923: Mori no Miracle Jishin Taiken
 
+![time-slip-1923-mori-no-miracle-jishin-taiken](https://cdn.myanimelist.net/images/anime/1511/98953.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: タイムスリップ 1923 　守のミラクル地震体験

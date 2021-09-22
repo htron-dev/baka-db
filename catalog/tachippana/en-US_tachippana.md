@@ -1,5 +1,7 @@
 # Tachippana!
 
+![tachippana](https://cdn.myanimelist.net/images/manga/2/129647.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

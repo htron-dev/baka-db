@@ -1,5 +1,7 @@
 # Tomatoypoo no Lycopene
 
+![tomatoypoo-no-lycopene](https://cdn.myanimelist.net/images/manga/3/207001.jpg)
+
 -   **type**: manga
 -   **original-name**: トマトイプーのリコピン
 -   **start-date**: 2017-10-07

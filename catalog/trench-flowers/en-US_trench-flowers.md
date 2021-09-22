@@ -1,5 +1,7 @@
 # Trench Flowers
 
+![trench-flowers](https://cdn.myanimelist.net/images/manga/1/210398.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

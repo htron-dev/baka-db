@@ -1,5 +1,7 @@
 # Ketsuekigata-kun! 3
 
+![ketsuekigata-kun-3](https://cdn.myanimelist.net/images/anime/12/76703.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 血液型くん！3

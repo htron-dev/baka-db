@@ -1,5 +1,7 @@
 # Tesagure! Bukatsumono Spin-off Purupurun Sharumu to Asobou
 
+![tesagure-bukatsumono-spin-off-purupurun-sharumu-to-asobou](https://cdn.myanimelist.net/images/anime/9/72297.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: てさぐれ！部活もの すぴんおふ プルプルんシャルムと遊ぼう

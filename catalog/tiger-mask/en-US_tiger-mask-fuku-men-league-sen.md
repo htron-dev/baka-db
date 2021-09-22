@@ -1,5 +1,7 @@
 # Tiger Mask Fuku Men League Sen
 
+![tiger-mask-fuku-men-league-sen](https://cdn.myanimelist.net/images/anime/7/47979.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: タイガーマスク ふく面リーグ戦

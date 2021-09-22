@@ -1,5 +1,7 @@
 # Tsunderu Moto Akuyaku Reijou wa Do S Ouji-sama kara Nigedashitai
 
+![tsunderu-moto-akuyaku-reijou-wa-do-s-ouji-sama-kara-nigedashitai](https://cdn.myanimelist.net/images/manga/3/245126.jpg)
+
 -   **type**: manga
 -   **original-name**: 詰んでる元悪役令嬢はド S 王子様から逃げ出したい
 -   **start-date**: 2020-05-19

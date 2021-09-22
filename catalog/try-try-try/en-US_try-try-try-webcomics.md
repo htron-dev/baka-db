@@ -1,5 +1,7 @@
 # Try! Try! Try! Webcomics
 
+![try-try-try-webcomics](https://cdn.myanimelist.net/images/manga/3/14385.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: Try! Try! Try!

@@ -1,5 +1,7 @@
 # Takt Op. Destiny
 
+![takt-op-destiny](https://cdn.myanimelist.net/images/anime/1973/117829.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: takt op.Destiny
 -   **start-date**: 2021-10-06

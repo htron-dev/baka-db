@@ -1,5 +1,7 @@
 # Tamayura: Hitotose - Attakai Kaze no Omoide, Nanode
 
+![tamayura-hitotose-attakai-kaze-no-omoide-nanode](https://cdn.myanimelist.net/images/anime/12/71632.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: たまゆら～ hitotose ～ 第 5.5 話「あったかい風の想い出、なので」

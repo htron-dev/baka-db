@@ -1,5 +1,7 @@
 # Thermae Romae x Asahi Shimbun Digital Collaboration
 
+![thermae-romae-x-asahi-shimbun-digital-collaboration](https://cdn.myanimelist.net/images/anime/6/38657.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: テルマエ・ロマエｘ朝日新聞デジタル企業コラボレーション

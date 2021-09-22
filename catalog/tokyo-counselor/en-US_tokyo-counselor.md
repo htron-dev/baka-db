@@ -1,5 +1,7 @@
 # Tokyo Counselor
 
+![tokyo-counselor](https://cdn.myanimelist.net/images/manga/2/234586.jpg)
+
 -   **type**: manga
 -   **chapters**: 47
 -   **original-name**: 東京カウンセラー

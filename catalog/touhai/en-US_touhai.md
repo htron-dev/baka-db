@@ -1,5 +1,7 @@
 # Touhai
 
+![touhai](https://cdn.myanimelist.net/images/manga/2/196365.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 115

@@ -1,5 +1,7 @@
 # To LOVE-Ru Darkness: Little Sisters
 
+![to-love-ru-darkness-little-sisters](https://cdn.myanimelist.net/images/manga/1/73731.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

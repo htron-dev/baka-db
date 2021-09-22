@@ -1,5 +1,7 @@
 # Takunabi: Happy Hello Work at Age 21
 
+![takunabi-happy-hello-work-at-age-21](https://cdn.myanimelist.net/images/manga/2/99387.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 50

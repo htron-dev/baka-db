@@ -1,5 +1,7 @@
 # Taisei Kensetsu: Shin Doha Kokusai Kuukou
 
+![taisei-kensetsu-shin-doha-kokusai-kuukou](https://cdn.myanimelist.net/images/anime/7/47431.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 大成建設テレビ CM「新ドーハ国際空港」篇

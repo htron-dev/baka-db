@@ -1,5 +1,7 @@
 # Taiyou no Season
 
+![taiyou-no-season](https://cdn.myanimelist.net/images/manga/3/153366.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 太陽のシーズン

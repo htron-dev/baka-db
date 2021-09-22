@@ -1,5 +1,7 @@
 # Tokyo Koutei☆Houjou Renka
 
+![tokyo-koutei☆-houjou-renka](https://cdn.myanimelist.net/images/manga/2/119077.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 東京皇帝 ☆ 北条恋歌
 -   **start-date**: 2009-01-31

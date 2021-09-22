@@ -1,5 +1,7 @@
 # Tobira wo Akete
 
+![tobira-wo-akete](https://cdn.myanimelist.net/images/anime/1920/112411.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 扉を開けて

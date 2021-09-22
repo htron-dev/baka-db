@@ -1,5 +1,7 @@
 # Tabi to Michizure
 
+![tabi-to-michizure](https://cdn.myanimelist.net/images/manga/2/9216.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 35

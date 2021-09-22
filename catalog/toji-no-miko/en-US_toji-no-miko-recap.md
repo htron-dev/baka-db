@@ -1,5 +1,7 @@
 # Toji no Miko Recap
 
+![toji-no-miko-recap](https://cdn.myanimelist.net/images/anime/1614/91864.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 胎動編 ダイジェスト

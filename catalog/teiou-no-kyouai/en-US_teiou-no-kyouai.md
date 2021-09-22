@@ -1,5 +1,7 @@
 # Teiou no Kyouai
 
+![teiou-no-kyouai](https://cdn.myanimelist.net/images/manga/3/167545.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 帝王の狂愛

@@ -1,5 +1,7 @@
 # Nurse Witch Komugi-chan R
 
+![nurse-witch-komugi-chan-r](https://cdn.myanimelist.net/images/anime/10/76792.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ナースウィッチ小麦ちゃん R

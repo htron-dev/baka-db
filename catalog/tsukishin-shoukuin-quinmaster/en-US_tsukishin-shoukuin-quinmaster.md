@@ -1,5 +1,7 @@
 # Tsukishin Shoukuin Quinmaster
 
+![tsukishin-shoukuin-quinmaster](https://cdn.myanimelist.net/images/manga/3/14306.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 闘姫神将クインマスター

@@ -1,5 +1,7 @@
 # The Mark of Watzel
 
+![the-mark-of-watzel](https://cdn.myanimelist.net/images/manga/2/198954.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Tekken Chinmi Gaiden
 
+![tekken-chinmi-gaiden](https://cdn.myanimelist.net/images/manga/2/171289.jpg)
+
 -   **type**: manga
 -   **original-name**: 鉄拳チンミ外伝
 -   **start-date**: 1997-07-19

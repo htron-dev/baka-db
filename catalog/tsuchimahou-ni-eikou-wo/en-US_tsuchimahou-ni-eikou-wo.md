@@ -1,5 +1,7 @@
 # Tsuchimahou ni Eikou wo!
 
+![tsuchimahou-ni-eikou-wo](https://cdn.myanimelist.net/images/manga/1/169900.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 土魔法に栄光を！
 -   **start-date**: 2015-03-20

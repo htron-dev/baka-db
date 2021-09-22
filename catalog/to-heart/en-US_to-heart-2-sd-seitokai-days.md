@@ -1,5 +1,7 @@
 # To Heart 2 SD ~Seitokai Days~
 
+![to-heart-2-sd-seitokai-days](https://cdn.myanimelist.net/images/manga/2/34939.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ToHeart2 SD ～せいとかいでいず～

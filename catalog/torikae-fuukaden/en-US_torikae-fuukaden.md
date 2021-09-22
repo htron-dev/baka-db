@@ -1,5 +1,7 @@
 # Torikae Fuukaden
 
+![torikae-fuukaden](https://cdn.myanimelist.net/images/manga/2/81468.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: とりかえ風花伝

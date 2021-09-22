@@ -1,5 +1,7 @@
 # Ta ga Tame no Alchemist
 
+![ta-ga-tame-no-alchemist](https://cdn.myanimelist.net/images/anime/1257/116016.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版誰ガ為のアルケミスト

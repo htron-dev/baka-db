@@ -1,5 +1,7 @@
 # Touhoku Jugon Doushi
 
+![touhoku-jugon-doushi](https://cdn.myanimelist.net/images/manga/3/158920.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 13

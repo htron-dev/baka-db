@@ -1,5 +1,7 @@
 # Toaru Hikuushi e no Tsuioku
 
+![toaru-hikuushi-e-no-tsuioku](https://cdn.myanimelist.net/images/manga/1/41594.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

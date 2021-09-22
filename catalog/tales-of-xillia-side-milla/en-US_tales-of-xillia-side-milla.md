@@ -1,5 +1,7 @@
 # Tales of Xillia: Side;Milla
 
+![tales-of-xillia-side-milla](https://cdn.myanimelist.net/images/manga/2/121371.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 29

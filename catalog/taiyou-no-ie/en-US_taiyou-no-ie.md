@@ -1,5 +1,7 @@
 # Taiyou no Ie
 
+![taiyou-no-ie](https://cdn.myanimelist.net/images/manga/2/149086.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 53

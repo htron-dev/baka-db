@@ -1,5 +1,7 @@
 # The Missing White Dragon
 
+![the-missing-white-dragon](https://cdn.myanimelist.net/images/manga/3/11373.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 5

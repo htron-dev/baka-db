@@ -1,5 +1,7 @@
 # Tanuki to Kitsune: Dai 5-kan Hatsubai Kinen Animation
 
+![tanuki-to-kitsune-dai-5-kan-hatsubai-kinen-animation](https://cdn.myanimelist.net/images/anime/1265/95979.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 「タヌキとキツネ」コミックス第 5 巻発売記念アニメーション

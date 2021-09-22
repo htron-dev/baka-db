@@ -1,5 +1,7 @@
 # Tanabota
 
+![tanabota](https://cdn.myanimelist.net/images/manga/2/35798.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **start-date**: 2004-05-19

@@ -1,5 +1,7 @@
 # Tensou Kidou Arvadling
 
+![tensou-kidou-arvadling](https://cdn.myanimelist.net/images/manga/2/194475.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

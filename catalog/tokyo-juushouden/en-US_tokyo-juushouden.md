@@ -1,5 +1,7 @@
 # Tokyo Juushouden
 
+![tokyo-juushouden](https://cdn.myanimelist.net/images/anime/12/49037.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 倒凶十将伝

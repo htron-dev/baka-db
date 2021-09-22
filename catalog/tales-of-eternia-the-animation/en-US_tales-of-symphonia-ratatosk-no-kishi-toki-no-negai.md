@@ -1,5 +1,7 @@
 # Tales of Symphonia: Ratatosk no Kishi - Toki no Negai
 
+![tales-of-symphonia-ratatosk-no-kishi-toki-no-negai](https://cdn.myanimelist.net/images/manga/5/43085.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: テイルズ オブ シンフォニア -ラタトスクの騎士- 世界〈とき〉の願い

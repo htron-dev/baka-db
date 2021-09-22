@@ -1,5 +1,7 @@
 # Tengen Toppa Gurren Lagann: Kessen! Otokogumi-hen
 
+![tengen-toppa-gurren-lagann-kessen-otokogumi-hen](https://cdn.myanimelist.net/images/manga/2/176934.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

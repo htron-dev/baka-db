@@ -1,5 +1,7 @@
 # Tales of Phantasia
 
+![tales-of-phantasia](https://cdn.myanimelist.net/images/manga/3/148299.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: テイルズ オブ ファンタジア

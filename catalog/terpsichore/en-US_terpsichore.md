@@ -1,5 +1,7 @@
 # Terpsichore
 
+![terpsichore](https://cdn.myanimelist.net/images/manga/2/194329.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 72

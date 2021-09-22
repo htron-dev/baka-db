@@ -1,5 +1,7 @@
 # Tokumu Houkoukan Yumihari
 
+![tokumu-houkoukan-yumihari](https://cdn.myanimelist.net/images/manga/1/32442.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 33

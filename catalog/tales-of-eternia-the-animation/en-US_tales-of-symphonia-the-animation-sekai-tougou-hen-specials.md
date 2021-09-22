@@ -1,5 +1,7 @@
 # Tales of Symphonia The Animation: Sekai Tougou-hen Specials
 
+![tales-of-symphonia-the-animation-sekai-tougou-hen-specials](https://cdn.myanimelist.net/images/anime/10/35705.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: テイルズ オブ シンフォニア THE ANIMATION 世界統合編

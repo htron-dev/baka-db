@@ -1,5 +1,7 @@
 # Tonari no Kaibutsu-kun: Tonari no Gokudou-kun
 
+![tonari-no-kaibutsu-kun-tonari-no-gokudou-kun](https://cdn.myanimelist.net/images/anime/8/53925.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: となりの怪物くん

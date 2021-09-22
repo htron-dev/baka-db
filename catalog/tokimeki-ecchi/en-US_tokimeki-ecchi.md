@@ -1,5 +1,7 @@
 # Tokimeki Ecchi
 
+![tokimeki-ecchi](https://cdn.myanimelist.net/images/manga/3/35632.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ときめきエッチ

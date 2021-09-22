@@ -1,5 +1,7 @@
 # Tantei Gakuen Q
 
+![tantei-gakuen-q](https://cdn.myanimelist.net/images/anime/1/407.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 45
 -   **original-name**: 探偵学園 Q

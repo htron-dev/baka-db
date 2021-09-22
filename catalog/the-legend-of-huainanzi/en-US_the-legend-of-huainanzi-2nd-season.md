@@ -1,5 +1,7 @@
 # The Legend of Huainanzi 2nd Season
 
+![the-legend-of-huainanzi-2nd-season](https://cdn.myanimelist.net/images/anime/6/76795.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 淮南子传奇

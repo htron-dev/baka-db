@@ -1,5 +1,7 @@
 # Tokage Bakuhatsu Shiro
 
+![tokage-bakuhatsu-shiro](https://cdn.myanimelist.net/images/manga/1/237260.jpg)
+
 -   **type**: manga
 -   **original-name**: トカゲ爆発しろ
 -   **start-date**: 2020-01-27

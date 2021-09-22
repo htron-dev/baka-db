@@ -1,5 +1,7 @@
 # Time Bokan Series: Itadakiman
 
+![time-bokan-series-itadakiman](https://cdn.myanimelist.net/images/anime/2/10877.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 20
 -   **original-name**: タイムボカンシリーズ　イタダキマン

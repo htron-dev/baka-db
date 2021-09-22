@@ -1,5 +1,7 @@
 # Tokyo Mew Mew New ♡
 
+![tokyo-mew-mew-new-♡](https://cdn.myanimelist.net/images/anime/1001/116687.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 東京ミュウミュウ にゅ～ ♡
 -   **rating**: None

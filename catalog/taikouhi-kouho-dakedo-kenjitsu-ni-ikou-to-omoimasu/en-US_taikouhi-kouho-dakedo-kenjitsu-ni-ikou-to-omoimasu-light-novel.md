@@ -1,5 +1,7 @@
 # Taikouhi Kouho dakedo, Kenjitsu ni Ikou to Omoimasu
 
+![taikouhi-kouho-dakedo-kenjitsu-ni-ikou-to-omoimasu](https://cdn.myanimelist.net/images/manga/2/235313.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Tonari no Seki-kun Junior
 
+![tonari-no-seki-kun-junior](https://cdn.myanimelist.net/images/manga/3/247172.jpg)
+
 -   **type**: manga
 -   **original-name**: となりの関くん じゅにあ
 -   **start-date**: 2020-07-04

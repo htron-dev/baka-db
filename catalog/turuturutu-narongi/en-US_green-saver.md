@@ -1,5 +1,7 @@
 # Green Saver
 
+![green-saver](https://cdn.myanimelist.net/images/anime/12/52163.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 그린세이버

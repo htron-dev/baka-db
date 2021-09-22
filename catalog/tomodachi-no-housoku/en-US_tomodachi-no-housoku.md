@@ -1,5 +1,7 @@
 # Tomodachi no Housoku
 
+![tomodachi-no-housoku](https://cdn.myanimelist.net/images/manga/1/16445.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Taiyou wa Kimi ni Kagayaku
 
+![taiyou-wa-kimi-ni-kagayaku](https://cdn.myanimelist.net/images/manga/1/5610.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

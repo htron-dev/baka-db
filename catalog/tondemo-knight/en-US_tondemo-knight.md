@@ -1,5 +1,7 @@
 # Tondemo Knight
 
+![tondemo-knight](https://cdn.myanimelist.net/images/manga/1/117995.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

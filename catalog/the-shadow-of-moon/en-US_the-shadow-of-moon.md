@@ -1,5 +1,7 @@
 # The Shadow of Moon
 
+![the-shadow-of-moon](https://cdn.myanimelist.net/images/manga/3/7108.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 

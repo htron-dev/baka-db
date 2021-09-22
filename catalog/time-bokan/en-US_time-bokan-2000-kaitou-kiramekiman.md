@@ -1,5 +1,7 @@
 # Time Bokan 2000: Kaitou Kiramekiman
 
+![time-bokan-2000-kaitou-kiramekiman](https://cdn.myanimelist.net/images/anime/3/11366.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: タイムボカン 2000 怪盗きらめきマン

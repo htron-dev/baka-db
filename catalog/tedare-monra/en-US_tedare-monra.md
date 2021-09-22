@@ -1,5 +1,7 @@
 # Tedare Monra
 
+![tedare-monra](https://cdn.myanimelist.net/images/manga/1/226346.jpg)
+
 -   **type**: manga
 -   **original-name**: てだれもんら
 -   **start-date**: 2019-02-12

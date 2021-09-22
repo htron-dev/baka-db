@@ -1,5 +1,7 @@
 # Tate no Yuusha no Nariagari Anthology: Filo to Issho
 
+![tate-no-yuusha-no-nariagari-anthology-filo-to-issho](https://cdn.myanimelist.net/images/manga/1/238595.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

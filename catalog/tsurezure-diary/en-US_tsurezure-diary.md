@@ -1,5 +1,7 @@
 # Tsurezure Diary
 
+![tsurezure-diary](https://cdn.myanimelist.net/images/manga/1/185959.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

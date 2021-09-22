@@ -1,5 +1,7 @@
 # Tottemo! Luckyman
 
+![tottemo-luckyman](https://cdn.myanimelist.net/images/manga/1/187162.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 189

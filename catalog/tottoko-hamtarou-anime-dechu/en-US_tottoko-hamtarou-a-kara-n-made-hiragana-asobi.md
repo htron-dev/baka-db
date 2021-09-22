@@ -1,5 +1,7 @@
 # Tottoko Hamtarou: "A" kara "N" made Hiragana Asobi
 
+![tottoko-hamtarou-a-kara-n-made-hiragana-asobi](https://cdn.myanimelist.net/images/anime/1528/98573.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: とっとこハム太郎 「あ」から「ん」まで ひらがなあそび

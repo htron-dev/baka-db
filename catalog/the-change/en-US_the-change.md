@@ -1,5 +1,7 @@
 # The Change!
 
+![the-change](https://cdn.myanimelist.net/images/manga/3/12120.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 13

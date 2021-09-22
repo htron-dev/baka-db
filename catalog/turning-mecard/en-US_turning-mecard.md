@@ -1,5 +1,7 @@
 # Turning Mecard
 
+![turning-mecard](https://cdn.myanimelist.net/images/anime/7/85659.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 터닝메카드

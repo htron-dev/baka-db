@@ -1,5 +1,7 @@
 # The Third: Aoi Hitomi no Shoujo
 
+![the-third-aoi-hitomi-no-shoujo](https://cdn.myanimelist.net/images/anime/12/75545.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ザ・サード 蒼い瞳の少女

@@ -1,5 +1,7 @@
 # Tantan to Tanto
 
+![tantan-to-tanto](https://cdn.myanimelist.net/images/manga/1/244842.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

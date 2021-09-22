@@ -1,5 +1,7 @@
 # Tenkuu no Gyokuza
 
+![tenkuu-no-gyokuza](https://cdn.myanimelist.net/images/manga/3/152633.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 56

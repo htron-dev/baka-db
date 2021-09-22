@@ -1,5 +1,7 @@
 # Tenken
 
+![tenken](https://cdn.myanimelist.net/images/manga/3/35810.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

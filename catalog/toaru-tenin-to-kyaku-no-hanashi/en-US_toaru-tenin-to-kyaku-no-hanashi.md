@@ -1,5 +1,7 @@
 # Toaru Tenin to Kyaku no Hanashi
 
+![toaru-tenin-to-kyaku-no-hanashi](https://cdn.myanimelist.net/images/manga/1/233403.jpg)
+
 -   **type**: manga
 -   **original-name**: とある店員と客の話
 -   **start-date**: 2020-04-22

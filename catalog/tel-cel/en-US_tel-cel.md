@@ -1,5 +1,7 @@
 # Tel Cel
 
+![tel-cel](https://cdn.myanimelist.net/images/manga/3/158893.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

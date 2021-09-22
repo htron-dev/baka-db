@@ -1,5 +1,7 @@
 # Shinyaku Toaru Majutsu no Index
 
+![shinyaku-toaru-majutsu-no-index](https://cdn.myanimelist.net/images/manga/2/221675.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 23
 -   **chapters**: 178

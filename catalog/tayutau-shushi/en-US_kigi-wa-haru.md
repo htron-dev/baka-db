@@ -1,5 +1,7 @@
 # Kigi wa Haru
 
+![kigi-wa-haru](https://cdn.myanimelist.net/images/manga/3/240015.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

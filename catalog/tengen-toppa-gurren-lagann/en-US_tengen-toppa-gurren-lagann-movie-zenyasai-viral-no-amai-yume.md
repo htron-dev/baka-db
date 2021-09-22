@@ -1,5 +1,7 @@
 # Tengen Toppa Gurren Lagann Movie Zenyasai: Viral no Amai Yume
 
+![tengen-toppa-gurren-lagann-movie-zenyasai-viral-no-amai-yume](https://cdn.myanimelist.net/images/anime/13/22175.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 天元突破グレンラガン 劇場版前夜祭 「ヴィラルの甘い夢」

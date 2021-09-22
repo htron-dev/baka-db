@@ -1,5 +1,7 @@
 # Tatoeba Konna Koi no Hanashi
 
+![tatoeba-konna-koi-no-hanashi](https://cdn.myanimelist.net/images/manga/1/201803.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

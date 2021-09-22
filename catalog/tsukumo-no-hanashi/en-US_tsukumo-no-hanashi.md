@@ -1,5 +1,7 @@
 # Tsukumo no Hanashi
 
+![tsukumo-no-hanashi](https://cdn.myanimelist.net/images/manga/2/189829.jpg)
+
 -   **type**: manga
 -   **original-name**: つくものはなし
 -   **start-date**: 2015-10-30

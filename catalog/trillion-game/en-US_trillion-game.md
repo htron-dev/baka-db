@@ -1,5 +1,7 @@
 # Trillion Game
 
+![trillion-game](https://cdn.myanimelist.net/images/manga/3/242922.jpg)
+
 -   **type**: manga
 -   **original-name**: トリリオンゲーム
 -   **start-date**: 2020-12-11

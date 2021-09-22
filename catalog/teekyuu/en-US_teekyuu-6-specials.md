@@ -1,5 +1,7 @@
 # Teekyuu 6 Specials
 
+![teekyuu-6-specials](https://cdn.myanimelist.net/images/anime/4/78679.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: てーきゅう　 6 期　ＴＶ未放送オリジナルエピソードアニメ

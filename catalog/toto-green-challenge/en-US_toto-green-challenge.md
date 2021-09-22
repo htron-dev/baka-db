@@ -1,5 +1,7 @@
 # TOTO Green Challenge
 
+![toto-green-challenge](https://cdn.myanimelist.net/images/anime/3/64769.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: TOTO GREEN CHALLENGE

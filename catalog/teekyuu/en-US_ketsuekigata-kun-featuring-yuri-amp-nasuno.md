@@ -1,5 +1,7 @@
 # Ketsuekigata-kun! Featuring Yuri &amp; Nasuno
 
+![ketsuekigata-kun-featuring-yuri-amp-nasuno](https://cdn.myanimelist.net/images/anime/7/51749.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 血液型くん！フューチャリング ユリ＆なすの

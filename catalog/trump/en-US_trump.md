@@ -1,5 +1,7 @@
 # Trump!
 
+![trump](https://cdn.myanimelist.net/images/manga/1/18115.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 트럼프!
 

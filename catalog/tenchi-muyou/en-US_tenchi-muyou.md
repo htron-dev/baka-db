@@ -1,5 +1,7 @@
 # Tenchi Muyou!
 
+![tenchi-muyou](https://cdn.myanimelist.net/images/anime/3/61663.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 天地無用！

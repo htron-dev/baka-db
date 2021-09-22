@@ -1,5 +1,7 @@
 # Tokimeki ha, Sugu Soba ni.
 
+![tokimeki-ha-sugu-soba-ni](https://cdn.myanimelist.net/images/anime/1707/113737.jpg)
+
 -   **type**: ona
 -   **original-name**: ときめきは、すぐそばに。
 -   **start-date**: 2021-01-24

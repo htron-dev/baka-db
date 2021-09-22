@@ -1,5 +1,7 @@
 # Takahashi Yoichi Tanpenshu
 
+![takahashi-yoichi-tanpenshu](https://cdn.myanimelist.net/images/manga/3/31988.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

@@ -1,5 +1,7 @@
 # Shinya! Tensai Bakabon Specials
 
+![shinya-tensai-bakabon-specials](https://cdn.myanimelist.net/images/anime/1079/93341.jpg)
+
 -   **type**: special
 -   **episodes**: 12
 -   **original-name**: 深夜! 天才バカボン

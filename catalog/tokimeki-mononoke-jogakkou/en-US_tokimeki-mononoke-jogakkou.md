@@ -1,5 +1,7 @@
 # Tokimeki Mononoke Jogakkou
 
+![tokimeki-mononoke-jogakkou](https://cdn.myanimelist.net/images/manga/2/28648.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # Takane no Hana nara Ochitekoi!!
 
+![takane-no-hana-nara-ochitekoi](https://cdn.myanimelist.net/images/manga/3/176337.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 72

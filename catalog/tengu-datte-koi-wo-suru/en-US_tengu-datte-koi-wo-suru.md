@@ -1,5 +1,7 @@
 # Tengu datte Koi wo Suru
 
+![tengu-datte-koi-wo-suru](https://cdn.myanimelist.net/images/manga/3/228440.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

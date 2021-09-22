@@ -1,5 +1,7 @@
 # Anime Sanjuushi
 
+![anime-sanjuushi](https://cdn.myanimelist.net/images/anime/3/61981.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: アニメ三銃士

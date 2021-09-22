@@ -1,5 +1,7 @@
 # Taiyou ni Nurete
 
+![taiyou-ni-nurete](https://cdn.myanimelist.net/images/manga/1/2291.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Taiho Shichau zo: Nagisa no Koutsuu Yuudou
 
+![taiho-shichau-zo-nagisa-no-koutsuu-yuudou](https://cdn.myanimelist.net/images/anime/11/21617.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 逮捕しちゃうぞ 渚の交通誘導

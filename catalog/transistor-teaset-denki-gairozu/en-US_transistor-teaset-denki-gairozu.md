@@ -1,5 +1,7 @@
 # Transistor Teaset: Denki Gairozu
 
+![transistor-teaset-denki-gairozu](https://cdn.myanimelist.net/images/manga/2/76239.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 38

@@ -1,5 +1,7 @@
 # Toaru Kagaku no Railgun SS: Dasoku, Mata wa Toaru Jiken no Shuusoku
 
+![toaru-kagaku-no-railgun-ss-dasoku-mata-wa-toaru-jiken-no-shuusoku](https://cdn.myanimelist.net/images/manga/2/66039.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 17

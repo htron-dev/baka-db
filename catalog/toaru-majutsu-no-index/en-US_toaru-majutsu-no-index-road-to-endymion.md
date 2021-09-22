@@ -1,5 +1,7 @@
 # Toaru Majutsu no Index: Road to Endymion
 
+![toaru-majutsu-no-index-road-to-endymion](https://cdn.myanimelist.net/images/manga/1/85901.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

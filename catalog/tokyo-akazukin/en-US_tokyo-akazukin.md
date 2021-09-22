@@ -1,5 +1,7 @@
 # Tokyo Akazukin
 
+![tokyo-akazukin](https://cdn.myanimelist.net/images/manga/3/56763.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

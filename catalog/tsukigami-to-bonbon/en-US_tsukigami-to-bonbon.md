@@ -1,5 +1,7 @@
 # Tsukigami to Bonbon
 
+![tsukigami-to-bonbon](https://cdn.myanimelist.net/images/manga/2/223938.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

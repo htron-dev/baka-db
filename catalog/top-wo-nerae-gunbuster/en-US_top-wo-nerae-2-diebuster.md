@@ -1,5 +1,7 @@
 # Top wo Nerae 2! Diebuster
 
+![top-wo-nerae-2-diebuster](https://cdn.myanimelist.net/images/anime/7/50475.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: トップをねらえ 2！DIEBUSTER

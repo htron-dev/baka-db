@@ -1,5 +1,7 @@
 # Trouble-H
 
+![trouble-h](https://cdn.myanimelist.net/images/manga/3/35649.jpg)
+
 -   **type**: manga
 -   **chapters**: 1
 -   **original-name**: とらぶるえっち

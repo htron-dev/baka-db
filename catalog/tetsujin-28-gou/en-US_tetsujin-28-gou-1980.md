@@ -1,5 +1,7 @@
 # Tetsujin 28-gou (1980)
 
+![tetsujin-28-gou-1980](https://cdn.myanimelist.net/images/anime/5/46121.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: 鉄人２８号 (1980)

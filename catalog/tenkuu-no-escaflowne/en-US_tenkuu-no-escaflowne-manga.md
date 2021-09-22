@@ -1,5 +1,7 @@
 # Tenkuu no Escaflowne
 
+![tenkuu-no-escaflowne](https://cdn.myanimelist.net/images/manga/3/1407.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 34

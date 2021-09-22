@@ -1,5 +1,7 @@
 # Tanuki to Kitsune
 
+![tanuki-to-kitsune](https://cdn.myanimelist.net/images/anime/13/89595.jpg)
+
 -   **type**: ona
 -   **episodes**: 18
 -   **original-name**: タヌキとキツネ

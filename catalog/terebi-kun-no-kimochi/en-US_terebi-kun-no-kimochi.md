@@ -1,5 +1,7 @@
 # Terebi-kun no Kimochi
 
+![terebi-kun-no-kimochi](https://cdn.myanimelist.net/images/manga/1/88765.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

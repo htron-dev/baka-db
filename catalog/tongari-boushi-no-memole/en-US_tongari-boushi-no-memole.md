@@ -1,5 +1,7 @@
 # Tongari Boushi no Memole
 
+![tongari-boushi-no-memole](https://cdn.myanimelist.net/images/anime/6/36819.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: とんがり帽子のメモル

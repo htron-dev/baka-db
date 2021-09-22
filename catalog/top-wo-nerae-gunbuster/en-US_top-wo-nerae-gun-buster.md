@@ -1,5 +1,7 @@
 # Top wo Nerae! GunBuster
 
+![top-wo-nerae-gun-buster](https://cdn.myanimelist.net/images/manga/1/60019.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

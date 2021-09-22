@@ -1,5 +1,7 @@
 # Tama yori Hayaku!!
 
+![tama-yori-hayaku](https://cdn.myanimelist.net/images/manga/2/11251.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 弾丸より疾く!!

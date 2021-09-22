@@ -1,5 +1,7 @@
 # Taiyou Ouji
 
+![taiyou-ouji](https://cdn.myanimelist.net/images/manga/3/143133.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

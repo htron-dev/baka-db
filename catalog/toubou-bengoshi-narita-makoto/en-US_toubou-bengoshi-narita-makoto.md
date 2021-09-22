@@ -1,5 +1,7 @@
 # Toubou Bengoshi Narita Makoto
 
+![toubou-bengoshi-narita-makoto](https://cdn.myanimelist.net/images/manga/3/179705.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 63

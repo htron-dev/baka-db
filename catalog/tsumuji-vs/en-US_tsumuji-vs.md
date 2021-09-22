@@ -1,5 +1,7 @@
 # Tsumuji VS.
 
+![tsumuji-vs](https://cdn.myanimelist.net/images/manga/2/205101.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: つむじ VS.

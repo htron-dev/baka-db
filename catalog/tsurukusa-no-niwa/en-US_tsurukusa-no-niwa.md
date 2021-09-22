@@ -1,5 +1,7 @@
 # Tsurukusa no Niwa
 
+![tsurukusa-no-niwa](https://cdn.myanimelist.net/images/manga/4/35442.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

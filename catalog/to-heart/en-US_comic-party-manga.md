@@ -1,5 +1,7 @@
 # Comic Party
 
+![comic-party](https://cdn.myanimelist.net/images/manga/5/755.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 49

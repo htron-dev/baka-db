@@ -1,5 +1,7 @@
 # Toaru Majutsu no Index SS
 
+![toaru-majutsu-no-index-ss](https://cdn.myanimelist.net/images/manga/2/58243.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 28

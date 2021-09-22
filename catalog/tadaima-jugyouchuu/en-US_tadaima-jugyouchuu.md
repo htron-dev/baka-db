@@ -1,5 +1,7 @@
 # Tadaima Jugyouchuu!
 
+![tadaima-jugyouchuu](https://cdn.myanimelist.net/images/manga/1/148719.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 114

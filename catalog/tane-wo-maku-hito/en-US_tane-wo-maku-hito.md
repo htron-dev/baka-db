@@ -1,5 +1,7 @@
 # Tane wo Maku Hito
 
+![tane-wo-maku-hito](https://cdn.myanimelist.net/images/manga/1/29063.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

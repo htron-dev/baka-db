@@ -1,5 +1,7 @@
 # Tenkuu Senki Shurato Recaps
 
+![tenkuu-senki-shurato-recaps](https://cdn.myanimelist.net/images/anime/11/63389.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 天空戦記シュラト

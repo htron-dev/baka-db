@@ -1,5 +1,7 @@
 # Teens House
 
+![teens-house](https://cdn.myanimelist.net/images/manga/2/128317.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Toaru Hikuushi e no Seiyaku
 
+![toaru-hikuushi-e-no-seiyaku](https://cdn.myanimelist.net/images/manga/2/117331.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **chapters**: 85

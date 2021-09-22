@@ -1,5 +1,7 @@
 # Tiara
 
+![tiara](https://cdn.myanimelist.net/images/manga/4/207438.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 티아라
 -   **start-date**: 2009-01-28

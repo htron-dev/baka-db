@@ -1,5 +1,7 @@
 # Teito no Yuri
 
+![teito-no-yuri](https://cdn.myanimelist.net/images/manga/3/172918.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 帝都のユリ

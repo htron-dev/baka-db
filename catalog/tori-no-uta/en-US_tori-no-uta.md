@@ -1,5 +1,7 @@
 # Tori no Uta
 
+![tori-no-uta](https://cdn.myanimelist.net/images/anime/8/81195.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 鳥の歌

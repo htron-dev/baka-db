@@ -1,5 +1,7 @@
 # Trip shita Saki ga Clear Zumi Otome Game datta kara Oshi to wa Zettai Tsukiaeru
 
+![trip-shita-saki-ga-clear-zumi-otome-game-datta-kara-oshi-to-wa-zettai-tsukiaeru](https://cdn.myanimelist.net/images/manga/1/246205.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

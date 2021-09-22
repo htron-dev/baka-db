@@ -1,5 +1,7 @@
 # Teruteru Bouzu Tere Bouzu
 
+![teruteru-bouzu-tere-bouzu](https://cdn.myanimelist.net/images/manga/3/214336.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

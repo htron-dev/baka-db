@@ -1,5 +1,7 @@
 # Tomica Hyper Series: Next Stage
 
+![tomica-hyper-series-next-stage](https://cdn.myanimelist.net/images/anime/1462/115165.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: トミカハイパーシリーズ NEXT STAGE

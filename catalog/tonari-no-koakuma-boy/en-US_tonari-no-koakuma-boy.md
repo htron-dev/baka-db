@@ -1,5 +1,7 @@
 # Tonari no Koakuma Boy
 
+![tonari-no-koakuma-boy](https://cdn.myanimelist.net/images/manga/3/38362.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

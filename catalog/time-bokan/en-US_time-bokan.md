@@ -1,5 +1,7 @@
 # Time Bokan
 
+![time-bokan](https://cdn.myanimelist.net/images/anime/11/46877.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 61
 -   **original-name**: タイムボカン

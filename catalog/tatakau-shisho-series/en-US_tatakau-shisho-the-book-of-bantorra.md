@@ -1,5 +1,7 @@
 # Tatakau Shisho: The Book of Bantorra
 
+![tatakau-shisho-the-book-of-bantorra](https://cdn.myanimelist.net/images/anime/13/22769.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 27
 -   **original-name**: 戦う司書 The Book of Bantorra

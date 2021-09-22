@@ -1,5 +1,7 @@
 # Tsuyoshi Shikkari Shinasai: Tsuyoshi no Time Machine de Shikkari Shinasai
 
+![tsuyoshi-shikkari-shinasai-tsuyoshi-no-time-machine-de-shikkari-shinasai](https://cdn.myanimelist.net/images/anime/10/30185.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ツヨシしっかりしなさい ツヨシのタイムマシーンでしっかりしなさい

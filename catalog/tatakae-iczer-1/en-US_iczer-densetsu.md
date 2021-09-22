@@ -1,5 +1,7 @@
 # Iczer Densetsu
 
+![iczer-densetsu](https://cdn.myanimelist.net/images/manga/4/90621.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

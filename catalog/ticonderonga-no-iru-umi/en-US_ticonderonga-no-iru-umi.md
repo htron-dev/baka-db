@@ -1,5 +1,7 @@
 # Ticonderonga no Iru Umi
 
+![ticonderonga-no-iru-umi](https://cdn.myanimelist.net/images/anime/3/67455.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: タイコンデロンガのいる海

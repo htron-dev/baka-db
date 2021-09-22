@@ -1,5 +1,7 @@
 # Tsuki to Taiyou no Piece
 
+![tsuki-to-taiyou-no-piece](https://cdn.myanimelist.net/images/manga/1/110121.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 月と太陽のピース

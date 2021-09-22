@@ -1,5 +1,7 @@
 # Toshokan Sensou: Koi no Shougai
 
+![toshokan-sensou-koi-no-shougai](https://cdn.myanimelist.net/images/anime/3/36961.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 図書館戦争 恋ノ障害

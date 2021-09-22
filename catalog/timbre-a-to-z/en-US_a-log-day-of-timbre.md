@@ -1,5 +1,7 @@
 # A Log Day of Timbre
 
+![a-log-day-of-timbre](https://cdn.myanimelist.net/images/anime/1214/96645.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: A Log Day of Timbre

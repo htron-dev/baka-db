@@ -1,5 +1,7 @@
 # Tsukiya
 
+![tsukiya](https://cdn.myanimelist.net/images/manga/3/7256.jpg)
+
 -   **type**: manga
 
 ## Tags

@@ -1,5 +1,7 @@
 # Tokyo Underground
 
+![tokyo-underground](https://cdn.myanimelist.net/images/anime/9/21036.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 東京アンダーグラウンド

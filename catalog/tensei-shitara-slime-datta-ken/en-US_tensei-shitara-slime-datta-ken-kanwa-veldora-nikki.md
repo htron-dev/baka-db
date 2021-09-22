@@ -1,5 +1,7 @@
 # Tensei shitara Slime Datta Ken: Kanwa - Veldora Nikki
 
+![tensei-shitara-slime-datta-ken-kanwa-veldora-nikki](https://cdn.myanimelist.net/images/anime/1672/100144.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 転生したらスライムだった件 閑話: ヴェルドラ日記

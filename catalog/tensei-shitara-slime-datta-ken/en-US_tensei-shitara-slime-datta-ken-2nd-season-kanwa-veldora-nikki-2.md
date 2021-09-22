@@ -1,5 +1,7 @@
 # Tensei Shitara Slime Datta Ken 2nd Season: Kanwa - Veldora Nikki 2
 
+![tensei-shitara-slime-datta-ken-2nd-season-kanwa-veldora-nikki-2](https://cdn.myanimelist.net/images/anime/1466/116175.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 転生したらスライムだった件 閑話: ヴェルドラ日記 2

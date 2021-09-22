@@ -1,5 +1,7 @@
 # Tsuyokunai Mama New Game
 
+![tsuyokunai-mama-new-game](https://cdn.myanimelist.net/images/manga/3/164473.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 強くないままニューゲーム

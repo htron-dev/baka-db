@@ -1,5 +1,7 @@
 # Tokyo Yakyuu Joshi Hyakkei
 
+![tokyo-yakyuu-joshi-hyakkei](https://cdn.myanimelist.net/images/manga/3/227621.jpg)
+
 -   **type**: manga
 -   **original-name**: 東京野球女子百景
 -   **start-date**: 2017-10-16

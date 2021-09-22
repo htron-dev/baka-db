@@ -1,5 +1,7 @@
 # Twin Hearts
 
+![twin-hearts](https://cdn.myanimelist.net/images/manga/2/25291.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 13
 

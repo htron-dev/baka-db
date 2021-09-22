@@ -1,5 +1,7 @@
 # Tokui Ryouiki no Tokuiten
 
+![tokui-ryouiki-no-tokuiten](https://cdn.myanimelist.net/images/manga/3/164567.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 特異領域の特異点

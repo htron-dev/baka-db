@@ -1,5 +1,7 @@
 # To Heart
 
+![to-heart](https://cdn.myanimelist.net/images/manga/2/33731.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

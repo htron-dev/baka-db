@@ -1,5 +1,7 @@
 # Torikagosou no Kyou mo Nemutai Juunin-tachi
 
+![torikagosou-no-kyou-mo-nemutai-juunin-tachi](https://cdn.myanimelist.net/images/manga/2/157815.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **original-name**: 鳥籠荘の今日も眠たい住人たち

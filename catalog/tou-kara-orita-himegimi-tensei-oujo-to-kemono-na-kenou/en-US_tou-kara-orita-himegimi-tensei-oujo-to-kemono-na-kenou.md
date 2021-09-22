@@ -1,5 +1,7 @@
 # Tou kara Orita Himegimi: Tensei Oujo to Kemono na Kenou
 
+![tou-kara-orita-himegimi-tensei-oujo-to-kemono-na-kenou](https://cdn.myanimelist.net/images/manga/1/194584.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 塔から降りた姫君～転生王女とケモノな賢王～

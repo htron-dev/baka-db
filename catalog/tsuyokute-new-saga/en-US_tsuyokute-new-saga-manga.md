@@ -1,5 +1,7 @@
 # Tsuyokute New Saga
 
+![tsuyokute-new-saga](https://cdn.myanimelist.net/images/manga/3/186491.jpg)
+
 -   **type**: manga
 -   **original-name**: 強くてニューサーガ
 -   **start-date**: 2014-02-20

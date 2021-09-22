@@ -1,5 +1,7 @@
 # Tensei Kenja wa Musume to Kurasu.
 
+![tensei-kenja-wa-musume-to-kurasu](https://cdn.myanimelist.net/images/manga/3/237265.jpg)
+
 -   **type**: manga
 -   **original-name**: 転生賢者は娘と暮らす。
 -   **start-date**: 2019-12-20

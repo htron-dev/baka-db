@@ -1,5 +1,7 @@
 # Trickster: Edogawa Ranpo "Shounen Tanteidan" yori OVA
 
+![trickster-edogawa-ranpo-shounen-tanteidan-yori-ova](https://cdn.myanimelist.net/images/anime/9/83323.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: TRICKSTER -江戸川乱歩「少年探偵団」より- OVA

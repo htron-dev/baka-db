@@ -1,5 +1,7 @@
 # Tsubasa: WoRLD CHRoNiCLE - Niraikanai-hen
 
+![tsubasa-wo-rld-ch-ro-ni-cle-niraikanai-hen](https://cdn.myanimelist.net/images/manga/2/151905.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

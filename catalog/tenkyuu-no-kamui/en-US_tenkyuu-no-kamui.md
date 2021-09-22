@@ -1,5 +1,7 @@
 # Tenkyuu no Kamui
 
+![tenkyuu-no-kamui](https://cdn.myanimelist.net/images/manga/1/164474.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 天穹のカムイ

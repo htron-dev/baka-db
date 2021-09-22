@@ -1,5 +1,7 @@
 # Tokimeki Tonight
 
+![tokimeki-tonight](https://cdn.myanimelist.net/images/anime/13/41441.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 34
 -   **original-name**: ときめきトゥナイト

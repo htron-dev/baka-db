@@ -1,5 +1,7 @@
 # Tottoko Hamtarou OVA 3: Hamuchanzu to Niji no Kuni no Oujisama - Sekai de Ichiban no Takaramono
 
+![tottoko-hamtarou-ova-3-hamuchanzu-to-niji-no-kuni-no-oujisama-sekai-de-ichiban-no-takaramono](https://cdn.myanimelist.net/images/anime/12/24828.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハムちゃんずと虹の国の王子さま 〜せかいでいちばんのたからもの〜

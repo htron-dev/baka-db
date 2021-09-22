@@ -1,5 +1,7 @@
 # Tsuzuki wa Mata Yoru ni
 
+![tsuzuki-wa-mata-yoru-ni](https://cdn.myanimelist.net/images/manga/3/146863.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

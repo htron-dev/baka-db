@@ -1,5 +1,7 @@
 # Tales of Hearts: Anthology Comic
 
+![tales-of-hearts-anthology-comic](https://cdn.myanimelist.net/images/manga/3/58929.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: テイルズ オブ ハーツ アンソロジーコミック

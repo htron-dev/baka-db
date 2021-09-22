@@ -1,5 +1,7 @@
 # Tsuzuki wa Jugyou no Ato de
 
+![tsuzuki-wa-jugyou-no-ato-de](https://cdn.myanimelist.net/images/manga/1/87577.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

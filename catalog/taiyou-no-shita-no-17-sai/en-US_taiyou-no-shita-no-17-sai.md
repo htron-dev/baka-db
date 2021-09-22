@@ -1,5 +1,7 @@
 # Taiyou no Shita no 17-sai
 
+![taiyou-no-shita-no-17-sai](https://cdn.myanimelist.net/images/manga/2/58209.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

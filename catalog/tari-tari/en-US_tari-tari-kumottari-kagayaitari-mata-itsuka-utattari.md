@@ -1,5 +1,7 @@
 # Tari Tari: Kumottari, Kagayaitari, Mata Itsuka Utattari
 
+![tari-tari-kumottari-kagayaitari-mata-itsuka-utattari](https://cdn.myanimelist.net/images/anime/2/66549.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: タリ タリ 「曇ったり、輝いたりまたい、つか歌ったり」

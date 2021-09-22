@@ -1,5 +1,7 @@
 # TimeLine★Girl
 
+![time-line★-girl](https://cdn.myanimelist.net/images/manga/1/159973.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

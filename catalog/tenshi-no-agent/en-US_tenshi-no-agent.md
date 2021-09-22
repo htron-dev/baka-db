@@ -1,5 +1,7 @@
 # Tenshi no Agent
 
+![tenshi-no-agent](https://cdn.myanimelist.net/images/manga/3/40600.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

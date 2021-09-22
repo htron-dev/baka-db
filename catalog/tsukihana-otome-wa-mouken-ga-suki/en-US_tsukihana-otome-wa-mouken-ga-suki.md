@@ -1,5 +1,7 @@
 # Tsukihana Otome wa Mouken ga Suki
 
+![tsukihana-otome-wa-mouken-ga-suki](https://cdn.myanimelist.net/images/manga/3/246281.jpg)
+
 -   **type**: manga
 -   **original-name**: 月花乙女は猛犬が好き
 -   **start-date**: 2020-08-28

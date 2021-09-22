@@ -1,5 +1,7 @@
 # Toaru Kagaku no Railgun Gaiden: Astral Buddy
 
+![toaru-kagaku-no-railgun-gaiden-astral-buddy](https://cdn.myanimelist.net/images/manga/1/236572.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 31

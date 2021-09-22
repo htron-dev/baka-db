@@ -1,5 +1,7 @@
 # Teekyuu 7 Specials
 
+![teekyuu-7-specials](https://cdn.myanimelist.net/images/anime/5/83104.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: てーきゅう　 7 期　ＴＶ未放送オリジナルエピソードアニメ

@@ -1,5 +1,7 @@
 # Tenshu ni Sumu Oni/Gunji
 
+![tenshu-ni-sumu-oni-gunji](https://cdn.myanimelist.net/images/manga/3/181222.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

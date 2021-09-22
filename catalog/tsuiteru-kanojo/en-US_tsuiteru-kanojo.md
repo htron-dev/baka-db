@@ -1,5 +1,7 @@
 # Tsuiteru Kanojo.
 
+![tsuiteru-kanojo](https://cdn.myanimelist.net/images/manga/2/116355.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ツイテル彼女。

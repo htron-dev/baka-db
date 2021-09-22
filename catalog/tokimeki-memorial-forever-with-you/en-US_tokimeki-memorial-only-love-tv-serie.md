@@ -1,5 +1,7 @@
 # Tokimeki Memorial: Only Love
 
+![tokimeki-memorial-only-love](https://cdn.myanimelist.net/images/anime/12/21080.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ときめきメモリアル Only Love

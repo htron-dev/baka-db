@@ -1,5 +1,7 @@
 # Zenbu, Hajimete.
 
+![zenbu-hajimete](https://cdn.myanimelist.net/images/manga/3/17836.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

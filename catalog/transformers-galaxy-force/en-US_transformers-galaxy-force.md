@@ -1,5 +1,7 @@
 # Transformers: Galaxy Force
 
+![transformers-galaxy-force](https://cdn.myanimelist.net/images/manga/2/35680.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

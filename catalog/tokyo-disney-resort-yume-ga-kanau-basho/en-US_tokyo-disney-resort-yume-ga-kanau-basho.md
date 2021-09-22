@@ -1,5 +1,7 @@
 # Tokyo Disney Resort: Yume ga Kanau Basho
 
+![tokyo-disney-resort-yume-ga-kanau-basho](https://cdn.myanimelist.net/images/anime/12/47557.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 東京ディズニーリゾート TVCM「夢がかなう場所」

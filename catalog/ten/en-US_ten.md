@@ -1,5 +1,7 @@
 # Ten
 
+![ten](https://cdn.myanimelist.net/images/anime/8/71327.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 点

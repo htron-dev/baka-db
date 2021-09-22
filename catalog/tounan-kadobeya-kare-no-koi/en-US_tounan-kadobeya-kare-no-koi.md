@@ -1,5 +1,7 @@
 # Tounan Kadobeya Kare no Koi
 
+![tounan-kadobeya-kare-no-koi](https://cdn.myanimelist.net/images/manga/1/221589.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

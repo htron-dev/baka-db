@@ -1,5 +1,7 @@
 # Tennen Kareshi Host Shiyou
 
+![tennen-kareshi-host-shiyou](https://cdn.myanimelist.net/images/manga/1/183125.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Touhou Witchcraft
 
+![touhou-witchcraft](https://cdn.myanimelist.net/images/manga/1/138743.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **original-name**: 東方ウィッチクラフト

@@ -1,5 +1,7 @@
 # Toshokan Sensou: Love & War
 
+![toshokan-sensou-love-war](https://cdn.myanimelist.net/images/manga/2/138477.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 90

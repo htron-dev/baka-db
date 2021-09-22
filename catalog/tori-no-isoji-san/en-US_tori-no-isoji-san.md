@@ -1,5 +1,7 @@
 # Tori no, Isoji-san
 
+![tori-no-isoji-san](https://cdn.myanimelist.net/images/manga/2/197354.jpg)
+
 -   **type**: manga
 -   **original-name**: とりの、いそじさん。
 -   **start-date**: 2016-01-28

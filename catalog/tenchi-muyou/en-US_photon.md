@@ -1,5 +1,7 @@
 # Photon
 
+![photon](https://cdn.myanimelist.net/images/anime/1984/94161.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: フォトン

@@ -1,5 +1,7 @@
 # Tenshi ni Kiss
 
+![tenshi-ni-kiss](https://cdn.myanimelist.net/images/manga/1/22079.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 天使に KISS

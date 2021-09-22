@@ -1,5 +1,7 @@
 # Tsubame Tip Off!
 
+![tsubame-tip-off](https://cdn.myanimelist.net/images/manga/1/233256.jpg)
+
 -   **type**: manga
 -   **original-name**: つばめティップオフ！
 -   **start-date**: 2019-08-14

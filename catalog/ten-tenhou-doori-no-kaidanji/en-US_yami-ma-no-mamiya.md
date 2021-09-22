@@ -1,5 +1,7 @@
 # Yami-ma no Mamiya
 
+![yami-ma-no-mamiya](https://cdn.myanimelist.net/images/manga/3/224618.jpg)
+
 -   **type**: manga
 -   **original-name**: 闇麻のマミヤ
 -   **start-date**: 2019-05-01

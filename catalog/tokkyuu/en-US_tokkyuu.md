@@ -1,5 +1,7 @@
 # Tokkyuu!!
 
+![tokkyuu](https://cdn.myanimelist.net/images/manga/2/184452.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 196

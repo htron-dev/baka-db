@@ -1,5 +1,7 @@
 # Taoleujima Beoseuteo
 
+![taoleujima-beoseuteo](https://cdn.myanimelist.net/images/anime/1570/114457.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 44
 -   **original-name**: 타오르지마 버스터

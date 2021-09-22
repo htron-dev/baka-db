@@ -1,5 +1,7 @@
 # Tomodachi Miitsuketa
 
+![tomodachi-miitsuketa](https://cdn.myanimelist.net/images/anime/2/82210.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ともだちみーつけた

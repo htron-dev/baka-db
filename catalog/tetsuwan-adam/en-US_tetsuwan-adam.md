@@ -1,5 +1,7 @@
 # Tetsuwan Adam
 
+![tetsuwan-adam](https://cdn.myanimelist.net/images/manga/3/183038.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

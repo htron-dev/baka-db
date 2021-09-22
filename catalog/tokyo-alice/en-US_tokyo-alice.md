@@ -1,5 +1,7 @@
 # Tokyo Alice
 
+![tokyo-alice](https://cdn.myanimelist.net/images/manga/2/161352.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 86

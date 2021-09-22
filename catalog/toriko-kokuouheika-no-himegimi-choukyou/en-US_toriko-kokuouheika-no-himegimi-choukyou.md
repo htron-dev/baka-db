@@ -1,5 +1,7 @@
 # Toriko: Kokuouheika no Himegimi Choukyou
 
+![toriko-kokuouheika-no-himegimi-choukyou](https://cdn.myanimelist.net/images/manga/3/167603.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 虜 国王陛下の姫君調教

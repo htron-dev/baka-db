@@ -1,5 +1,7 @@
 # Touhou Kourindou: Curiosities of Lotus Asia.
 
+![touhou-kourindou-curiosities-of-lotus-asia](https://cdn.myanimelist.net/images/manga/2/179935.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 27

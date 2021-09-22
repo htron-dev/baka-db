@@ -1,5 +1,7 @@
 # Taiman Blues: Ladies-hen - Mayumi
 
+![taiman-blues-ladies-hen-mayumi](https://cdn.myanimelist.net/images/anime/3/84021.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: たいまんぶるうず レディース編 真由美

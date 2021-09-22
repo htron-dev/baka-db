@@ -1,5 +1,7 @@
 # Gyakkyou Burai Kaiji: Hakairoku-hen
 
+![gyakkyou-burai-kaiji-hakairoku-hen](https://cdn.myanimelist.net/images/anime/10/30599.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 逆境無頼カイジ 破戒録篇

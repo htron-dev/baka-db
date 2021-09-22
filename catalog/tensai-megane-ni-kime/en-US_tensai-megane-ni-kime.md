@@ -1,5 +1,7 @@
 # Tensai Megane ni Kime!
 
+![tensai-megane-ni-kime](https://cdn.myanimelist.net/images/manga/3/5798.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

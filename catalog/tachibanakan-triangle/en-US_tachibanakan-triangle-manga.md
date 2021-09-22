@@ -1,5 +1,7 @@
 # Tachibanakan Triangle
 
+![tachibanakan-triangle](https://cdn.myanimelist.net/images/manga/1/158982.jpg)
+
 -   **type**: manga
 -   **original-name**: 立花館 To Lie あんぐる
 -   **start-date**: 2014-11-18

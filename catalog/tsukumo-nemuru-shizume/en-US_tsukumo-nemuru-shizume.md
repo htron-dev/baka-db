@@ -1,5 +1,7 @@
 # Tsukumo Nemuru Shizume
 
+![tsukumo-nemuru-shizume](https://cdn.myanimelist.net/images/manga/2/9497.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

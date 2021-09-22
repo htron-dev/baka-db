@@ -1,5 +1,7 @@
 # Tsumi no Koe: Shouwa Saidai no Mikaiketsu Jiken
 
+![tsumi-no-koe-shouwa-saidai-no-mikaiketsu-jiken](https://cdn.myanimelist.net/images/manga/2/210725.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

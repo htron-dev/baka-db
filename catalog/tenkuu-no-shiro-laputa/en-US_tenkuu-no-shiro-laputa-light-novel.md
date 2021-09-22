@@ -1,5 +1,7 @@
 # Tenkuu no Shiro Laputa
 
+![tenkuu-no-shiro-laputa](https://cdn.myanimelist.net/images/manga/3/132763.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 小説 天空の城ラピュタ

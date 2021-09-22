@@ -1,5 +1,7 @@
 # Top Secret: The Revelation
 
+![top-secret-the-revelation](https://cdn.myanimelist.net/images/anime/6/21702.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 秘密（トップシークレット） The Revelation

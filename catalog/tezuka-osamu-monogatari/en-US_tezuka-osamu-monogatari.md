@@ -1,5 +1,7 @@
 # Tezuka Osamu Monogatari
 
+![tezuka-osamu-monogatari](https://cdn.myanimelist.net/images/manga/2/207036.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 手塚治虫物語

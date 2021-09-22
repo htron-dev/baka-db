@@ -1,5 +1,7 @@
 # Tenkou Kotofumi
 
+![tenkou-kotofumi](https://cdn.myanimelist.net/images/anime/4/77496.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 天紅事記

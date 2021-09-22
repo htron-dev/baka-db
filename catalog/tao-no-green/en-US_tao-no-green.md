@@ -1,5 +1,7 @@
 # Tao no Green
 
+![tao-no-green](https://cdn.myanimelist.net/images/manga/1/29863.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: タオの緑【グリーン】

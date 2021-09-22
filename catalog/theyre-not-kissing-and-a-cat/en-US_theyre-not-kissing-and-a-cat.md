@@ -1,5 +1,7 @@
 # They're Not Kissing, and a Cat
 
+![theyre-not-kissing-and-a-cat](https://cdn.myanimelist.net/images/manga/2/28728.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 15
 -   **original-name**: 키스에 미친놈과 담배피는 고양이

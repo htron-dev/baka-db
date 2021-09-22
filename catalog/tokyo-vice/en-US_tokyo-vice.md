@@ -1,5 +1,7 @@
 # Tokyo Vice
 
+![tokyo-vice](https://cdn.myanimelist.net/images/anime/8/54321.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: トウキョウ・バイス

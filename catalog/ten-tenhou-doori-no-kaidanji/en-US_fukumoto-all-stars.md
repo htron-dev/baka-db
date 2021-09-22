@@ -1,5 +1,7 @@
 # Fukumoto All Stars
 
+![fukumoto-all-stars](https://cdn.myanimelist.net/images/manga/2/224617.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 98

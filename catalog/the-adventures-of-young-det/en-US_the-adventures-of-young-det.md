@@ -1,5 +1,7 @@
 # The Adventures of Young Det
 
+![the-adventures-of-young-det](https://cdn.myanimelist.net/images/manga/1/77909.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **original-name**: 청년 데트의 모험

@@ -1,5 +1,7 @@
 # Trapper na Ore to Ponkotsu Party ga Wana toka Tsukutte Musou suru
 
+![trapper-na-ore-to-ponkotsu-party-ga-wana-toka-tsukutte-musou-suru](https://cdn.myanimelist.net/images/manga/2/160182.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 不遇職〈トラッパー〉な俺とポンコツパーティが罠とか作って無双する

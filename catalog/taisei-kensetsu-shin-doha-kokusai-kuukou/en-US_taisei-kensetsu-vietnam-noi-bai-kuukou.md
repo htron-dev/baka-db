@@ -1,5 +1,7 @@
 # Taisei Kensetsu: Vietnam Noi Bai Kuukou
 
+![taisei-kensetsu-vietnam-noi-bai-kuukou](https://cdn.myanimelist.net/images/anime/7/65563.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 大成建設テレビ CM「ベトナム・ノイバイ空港」篇

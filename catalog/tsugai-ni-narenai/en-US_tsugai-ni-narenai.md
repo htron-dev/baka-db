@@ -1,5 +1,7 @@
 # Tsugai ni Narenai!
 
+![tsugai-ni-narenai](https://cdn.myanimelist.net/images/manga/1/224670.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

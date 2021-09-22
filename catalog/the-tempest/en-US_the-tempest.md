@@ -1,5 +1,7 @@
 # The Tempest
 
+![the-tempest](https://cdn.myanimelist.net/images/manga/4/21752.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

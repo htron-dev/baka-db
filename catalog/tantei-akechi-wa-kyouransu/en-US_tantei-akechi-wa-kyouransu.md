@@ -1,5 +1,7 @@
 # Tantei Akechi wa Kyouransu
 
+![tantei-akechi-wa-kyouransu](https://cdn.myanimelist.net/images/manga/2/206563.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

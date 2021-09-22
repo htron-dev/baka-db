@@ -1,5 +1,7 @@
 # Taboo Tattoo
 
+![taboo-tattoo](https://cdn.myanimelist.net/images/manga/1/158586.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 80

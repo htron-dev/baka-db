@@ -1,5 +1,7 @@
 # Ketsuekigata-kun!
 
+![ketsuekigata-kun](https://cdn.myanimelist.net/images/anime/1741/91386.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 血液型くん！

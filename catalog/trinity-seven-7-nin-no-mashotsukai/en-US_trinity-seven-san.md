@@ -1,5 +1,7 @@
 # Trinity Seven-san
 
+![trinity-seven-san](https://cdn.myanimelist.net/images/manga/2/191168.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Tiger &amp; Bunny
 
+![tiger-amp-bunny](https://cdn.myanimelist.net/images/anime/13/29466.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: TIGER & BUNNY （タイガー・アンド・バニー）

@@ -1,5 +1,7 @@
 # Chargeman Ken!
 
+![chargeman-ken](https://cdn.myanimelist.net/images/anime/11/86971.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 65
 -   **original-name**: チャージマン研！

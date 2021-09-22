@@ -1,5 +1,7 @@
 # Teppeki Honeymoon
 
+![teppeki-honeymoon](https://cdn.myanimelist.net/images/manga/3/236938.jpg)
+
 -   **type**: manga
 -   **original-name**: 鉄壁ハニームーン
 -   **start-date**: 2018-10-20

@@ -1,5 +1,7 @@
 # Tenseisha no Watashi ni Idondekuru Mubou de Yuubou na Shoujo no Hanashi
 
+![tenseisha-no-watashi-ni-idondekuru-mubou-de-yuubou-na-shoujo-no-hanashi](https://cdn.myanimelist.net/images/manga/3/228256.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 20

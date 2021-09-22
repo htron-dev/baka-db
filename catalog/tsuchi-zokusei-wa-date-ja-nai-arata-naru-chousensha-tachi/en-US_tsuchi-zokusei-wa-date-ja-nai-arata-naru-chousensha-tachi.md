@@ -1,5 +1,7 @@
 # Tsuchi Zokusei wa Date ja Nai!! Arata naru Chousensha-tachi
 
+![tsuchi-zokusei-wa-date-ja-nai-arata-naru-chousensha-tachi](https://cdn.myanimelist.net/images/manga/3/160181.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 土属性はダテじゃない！！ 新たなる挑戦者たち

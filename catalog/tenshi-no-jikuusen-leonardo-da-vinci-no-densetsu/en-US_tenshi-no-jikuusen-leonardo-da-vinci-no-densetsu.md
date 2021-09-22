@@ -1,5 +1,7 @@
 # Tenshi no Jikuusen: Leonardo da Vinci no Densetsu
 
+![tenshi-no-jikuusen-leonardo-da-vinci-no-densetsu](https://cdn.myanimelist.net/images/manga/2/62605.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 49

@@ -1,5 +1,7 @@
 # Tiger
 
+![tiger](https://cdn.myanimelist.net/images/manga/2/73131.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 19

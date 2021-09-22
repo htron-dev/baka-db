@@ -1,5 +1,7 @@
 # Takemitsuzamurai
 
+![takemitsuzamurai](https://cdn.myanimelist.net/images/manga/2/199445.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 84

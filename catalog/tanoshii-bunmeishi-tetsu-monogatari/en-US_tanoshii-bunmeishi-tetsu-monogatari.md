@@ -1,5 +1,7 @@
 # Tanoshii Bunmeishi: Tetsu Monogatari
 
+![tanoshii-bunmeishi-tetsu-monogatari](https://cdn.myanimelist.net/images/anime/3/59665.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: たのしい文明史 鉄ものがたり

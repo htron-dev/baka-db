@@ -1,5 +1,7 @@
 # Tokkaten
 
+![tokkaten](https://cdn.myanimelist.net/images/manga/3/83252.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

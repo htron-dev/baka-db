@@ -1,5 +1,7 @@
 # Toyo Suisan x Tanuki to Kitsune
 
+![toyo-suisan-x-tanuki-to-kitsune](https://cdn.myanimelist.net/images/anime/1287/94808.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 東洋水産 ×「タヌキとキツネ」

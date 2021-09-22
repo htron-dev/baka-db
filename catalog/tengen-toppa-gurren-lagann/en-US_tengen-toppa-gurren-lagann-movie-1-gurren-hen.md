@@ -1,5 +1,7 @@
 # Tengen Toppa Gurren Lagann Movie 1: Gurren-hen
 
+![tengen-toppa-gurren-lagann-movie-1-gurren-hen](https://cdn.myanimelist.net/images/anime/1270/115752.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 天元突破グレンラガン 紅蓮篇

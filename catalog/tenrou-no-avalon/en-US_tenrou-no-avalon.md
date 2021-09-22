@@ -1,5 +1,7 @@
 # Tenrou no Avalon
 
+![tenrou-no-avalon](https://cdn.myanimelist.net/images/manga/1/217090.jpg)
+
 -   **type**: manga
 -   **original-name**: 天牢のアヴァロン
 -   **start-date**: 2018-03-22

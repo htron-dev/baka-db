@@ -1,5 +1,7 @@
 # Tori
 
+![tori](https://cdn.myanimelist.net/images/anime/8/72726.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 鳥

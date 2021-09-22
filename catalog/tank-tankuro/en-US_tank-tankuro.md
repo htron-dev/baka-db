@@ -1,5 +1,7 @@
 # Tank Tankuro
 
+![tank-tankuro](https://cdn.myanimelist.net/images/manga/1/48447.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: タンク・タンクロー

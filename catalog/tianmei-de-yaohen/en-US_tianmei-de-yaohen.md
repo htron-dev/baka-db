@@ -1,5 +1,7 @@
 # Tianmei de Yaohen
 
+![tianmei-de-yaohen](https://cdn.myanimelist.net/images/manga/1/225236.jpg)
+
 -   **type**: manga
 -   **original-name**: 甜美的咬痕
 -   **start-date**: 2016-08-27

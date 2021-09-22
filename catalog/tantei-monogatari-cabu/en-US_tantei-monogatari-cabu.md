@@ -1,5 +1,7 @@
 # Tantei Monogatari Cabu
 
+![tantei-monogatari-cabu](https://cdn.myanimelist.net/images/manga/1/131985.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 探偵物語カブ

@@ -1,5 +1,7 @@
 # Tomodachi Ijou no Koto, Shitai.
 
+![tomodachi-ijou-no-koto-shitai](https://cdn.myanimelist.net/images/manga/1/170074.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

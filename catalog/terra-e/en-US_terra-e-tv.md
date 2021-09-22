@@ -1,5 +1,7 @@
 # Terra e... (TV)
 
+![terra-e-tv](https://cdn.myanimelist.net/images/anime/1013/117558.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 地球へ…

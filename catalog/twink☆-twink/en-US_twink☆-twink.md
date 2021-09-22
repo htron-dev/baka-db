@@ -1,5 +1,7 @@
 # Twink☆Twink
 
+![twink☆-twink](https://cdn.myanimelist.net/images/manga/1/90263.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 98

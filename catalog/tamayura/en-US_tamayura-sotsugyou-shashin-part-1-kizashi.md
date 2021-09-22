@@ -1,5 +1,7 @@
 # Tamayura: Sotsugyou Shashin Part 1 - Kizashi
 
+![tamayura-sotsugyou-shashin-part-1-kizashi](https://cdn.myanimelist.net/images/anime/6/71628.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: たまゆら～卒業写真～ 第 1 部 芽-きざし-

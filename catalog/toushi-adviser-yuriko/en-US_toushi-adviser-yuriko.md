@@ -1,5 +1,7 @@
 # Toushi Adviser Yuriko
 
+![toushi-adviser-yuriko](https://cdn.myanimelist.net/images/manga/3/36777.jpg)
+
 -   **type**: manga
 -   **original-name**: 投資アドバイザー有利子
 -   **start-date**: 2008-06-23

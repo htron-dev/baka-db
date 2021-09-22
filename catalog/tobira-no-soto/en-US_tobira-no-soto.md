@@ -1,5 +1,7 @@
 # Tobira no Soto
 
+![tobira-no-soto](https://cdn.myanimelist.net/images/manga/3/185584.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 扉の外

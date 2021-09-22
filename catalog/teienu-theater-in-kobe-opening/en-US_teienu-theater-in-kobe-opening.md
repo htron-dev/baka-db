@@ -1,5 +1,7 @@
 # Teienu Theater in Kobe Opening
 
+![teienu-theater-in-kobe-opening](https://cdn.myanimelist.net/images/anime/1473/107337.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ていえぬシアター in 神戸 オープニング

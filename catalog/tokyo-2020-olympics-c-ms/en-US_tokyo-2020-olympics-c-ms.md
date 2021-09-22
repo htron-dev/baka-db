@@ -1,5 +1,7 @@
 # Tokyo 2020 Olympics CMs
 
+![tokyo-2020-olympics-c-ms](https://cdn.myanimelist.net/images/anime/1161/102197.jpg)
+
 -   **type**: ona
 -   **original-name**: 東京 2020 オリンピック
 -   **start-date**: 2018-07-22

@@ -1,5 +1,7 @@
 # Tsuiraku Sekai no High Diver
 
+![tsuiraku-sekai-no-high-diver](https://cdn.myanimelist.net/images/manga/3/162907.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 25

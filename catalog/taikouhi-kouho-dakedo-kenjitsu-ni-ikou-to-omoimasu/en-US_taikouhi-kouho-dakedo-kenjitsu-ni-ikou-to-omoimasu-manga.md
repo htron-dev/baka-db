@@ -1,5 +1,7 @@
 # Taikouhi Kouho dakedo, Kenjitsu ni Ikou to Omoimasu
 
+![taikouhi-kouho-dakedo-kenjitsu-ni-ikou-to-omoimasu](https://cdn.myanimelist.net/images/manga/2/224365.jpg)
+
 -   **type**: manga
 -   **original-name**: 大公妃候補だけど、堅実に行こうと思います
 -   **start-date**: 2019-01-05

@@ -1,5 +1,7 @@
 # Tales of Vesperia: The First Strike
 
+![tales-of-vesperia-the-first-strike](https://cdn.myanimelist.net/images/anime/7/16680.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: テイルズ オブ ヴェスペリア

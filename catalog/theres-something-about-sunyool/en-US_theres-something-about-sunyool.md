@@ -1,5 +1,7 @@
 # There's Something About Sunyool
 
+![theres-something-about-sunyool](https://cdn.myanimelist.net/images/manga/2/183120.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **chapters**: 37

@@ -1,5 +1,7 @@
 # Tonari no Akujo
 
+![tonari-no-akujo](https://cdn.myanimelist.net/images/manga/3/222669.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 45

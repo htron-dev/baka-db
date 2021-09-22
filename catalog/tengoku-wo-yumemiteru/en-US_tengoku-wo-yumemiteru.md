@@ -1,5 +1,7 @@
 # Tengoku wo Yumemiteru
 
+![tengoku-wo-yumemiteru](https://cdn.myanimelist.net/images/manga/2/164087.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 天国を夢みてる

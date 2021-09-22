@@ -1,5 +1,7 @@
 # Tensei-saki de Suterareta node, Mofumofu-tachi to Oryouri shimasu: Okazari Ouhi wa My Pace ni Saikyou desu
 
+![tensei-saki-de-suterareta-node-mofumofu-tachi-to-oryouri-shimasu-okazari-ouhi-wa-my-pace-ni-saikyou-desu](https://cdn.myanimelist.net/images/manga/1/240820.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 転生先で捨てられたので、もふもふ達とお料理します～お飾り王妃はマイペースに最強です～
 -   **start-date**: 2019-12-18

@@ -1,5 +1,7 @@
 # Takako-san
 
+![takako-san](https://cdn.myanimelist.net/images/manga/2/225496.jpg)
+
 -   **type**: manga
 -   **original-name**: タカコさん
 -   **start-date**: 2014-12-20

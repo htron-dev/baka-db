@@ -1,5 +1,7 @@
 # Tenchi Muyou! in Love 2: Haruka Naru Omoi
 
+![tenchi-muyou-in-love-2-haruka-naru-omoi](https://cdn.myanimelist.net/images/anime/6/61773.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 天地無用！　ｉｎ　ＬＯＶＥ２　遥かなる想い

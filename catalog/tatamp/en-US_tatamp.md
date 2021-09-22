@@ -1,5 +1,7 @@
 # Tatamp
 
+![tatamp](https://cdn.myanimelist.net/images/anime/9/64973.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: TATAMP

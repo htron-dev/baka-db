@@ -1,5 +1,7 @@
 # Toradora! Recap
 
+![toradora-recap](https://cdn.myanimelist.net/images/anime/2/77024.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: とらドラ・ポータブル!

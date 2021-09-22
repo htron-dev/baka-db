@@ -1,5 +1,7 @@
 # Tsuki no Himitsu
 
+![tsuki-no-himitsu](https://cdn.myanimelist.net/images/manga/1/180192.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 月の秘密

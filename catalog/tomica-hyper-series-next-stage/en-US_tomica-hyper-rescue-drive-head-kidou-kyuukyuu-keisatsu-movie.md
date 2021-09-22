@@ -1,5 +1,7 @@
 # Tomica Hyper Rescue Drive Head: Kidou Kyuukyuu Keisatsu Movie
 
+![tomica-hyper-rescue-drive-head-kidou-kyuukyuu-keisatsu-movie](https://cdn.myanimelist.net/images/anime/1709/90853.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 トミカハイパーレスキュー ドライブヘッド 機動救急警察

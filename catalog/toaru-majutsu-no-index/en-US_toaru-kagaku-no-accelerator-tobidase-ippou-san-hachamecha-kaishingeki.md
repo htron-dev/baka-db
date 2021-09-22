@@ -1,5 +1,7 @@
 # Toaru Kagaku no Accelerator: Tobidase Ippou-san - Hachamecha Kaishingeki
 
+![toaru-kagaku-no-accelerator-tobidase-ippou-san-hachamecha-kaishingeki](https://cdn.myanimelist.net/images/anime/1052/102706.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 飛び出せ一方さん　ハチャメチャ快進撃

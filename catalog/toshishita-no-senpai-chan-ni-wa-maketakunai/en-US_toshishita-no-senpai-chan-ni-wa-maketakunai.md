@@ -1,5 +1,7 @@
 # Toshishita no Senpai-chan ni wa, Maketakunai.
 
+![toshishita-no-senpai-chan-ni-wa-maketakunai](https://cdn.myanimelist.net/images/manga/2/228907.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

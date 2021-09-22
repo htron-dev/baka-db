@@ -1,5 +1,7 @@
 # Tantou Henshuusha wa Nido Koi wo Suru: Henshuusha x Shousetsuka no Baai
 
+![tantou-henshuusha-wa-nido-koi-wo-suru-henshuusha-x-shousetsuka-no-baai](https://cdn.myanimelist.net/images/manga/2/194368.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

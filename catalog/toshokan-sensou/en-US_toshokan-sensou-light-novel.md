@@ -1,5 +1,7 @@
 # Toshokan Sensou
 
+![toshokan-sensou](https://cdn.myanimelist.net/images/manga/2/63627.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 22

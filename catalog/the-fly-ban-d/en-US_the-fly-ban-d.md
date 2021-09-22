@@ -1,5 +1,7 @@
 # the FLY BanD!
 
+![the-fly-ban-d](https://cdn.myanimelist.net/images/anime/12/83704.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: the FLY BanD!

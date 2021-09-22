@@ -1,5 +1,7 @@
 # Tokyo Eighties
 
+![tokyo-eighties](https://cdn.myanimelist.net/images/manga/3/95513.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 120

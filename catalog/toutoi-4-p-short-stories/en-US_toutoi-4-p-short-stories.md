@@ -1,5 +1,7 @@
 # Toutoi. 4P Short Stories
 
+![toutoi-4-p-short-stories](https://cdn.myanimelist.net/images/manga/3/233397.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 25

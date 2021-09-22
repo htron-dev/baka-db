@@ -1,5 +1,7 @@
 # Toumei ni Kuchizuke
 
+![toumei-ni-kuchizuke](https://cdn.myanimelist.net/images/manga/1/224916.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

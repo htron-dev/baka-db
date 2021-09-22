@@ -1,5 +1,7 @@
 # Toge ni Kuchizuke
 
+![toge-ni-kuchizuke](https://cdn.myanimelist.net/images/manga/3/203458.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

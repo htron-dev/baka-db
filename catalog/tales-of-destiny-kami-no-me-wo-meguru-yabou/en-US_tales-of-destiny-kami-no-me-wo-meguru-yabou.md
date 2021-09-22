@@ -1,5 +1,7 @@
 # Tales of Destiny: Kami no Me wo Meguru Yabou
 
+![tales-of-destiny-kami-no-me-wo-meguru-yabou](https://cdn.myanimelist.net/images/manga/5/36732.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 35

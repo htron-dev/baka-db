@@ -1,5 +1,7 @@
 # Totsu Nee!
 
+![totsu-nee](https://cdn.myanimelist.net/images/manga/3/204395.jpg)
+
 -   **type**: manga
 -   **original-name**: 突姉っ！
 -   **start-date**: 2017-06-17

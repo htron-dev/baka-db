@@ -1,5 +1,7 @@
 # Tottoko Hamtarou
 
+![tottoko-hamtarou](https://cdn.myanimelist.net/images/anime/3/21562.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 296
 -   **original-name**: とっとこハム太郎

@@ -1,5 +1,7 @@
 # DRAMAtical Murder: Data_xx_Transitory
 
+![dram-atical-murder-data-xx-transitory](https://cdn.myanimelist.net/images/anime/12/65081.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ドラマティカル マーダー OVA「Data_xx_Transitory」

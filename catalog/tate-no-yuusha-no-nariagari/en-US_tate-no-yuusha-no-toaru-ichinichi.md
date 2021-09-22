@@ -1,5 +1,7 @@
 # Tate no Yuusha no Toaru Ichinichi
 
+![tate-no-yuusha-no-toaru-ichinichi](https://cdn.myanimelist.net/images/manga/2/221788.jpg)
+
 -   **type**: manga
 -   **original-name**: 盾の勇者のとある一日
 -   **start-date**: 2018-09-27

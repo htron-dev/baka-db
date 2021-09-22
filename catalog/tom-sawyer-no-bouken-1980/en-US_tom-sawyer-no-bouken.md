@@ -1,5 +1,7 @@
 # Tom Sawyer no Bouken
 
+![tom-sawyer-no-bouken](https://cdn.myanimelist.net/images/anime/10/73344.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: トム・ソーヤーの冒険

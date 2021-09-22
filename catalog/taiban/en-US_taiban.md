@@ -1,5 +1,7 @@
 # Taiban!
 
+![taiban](https://cdn.myanimelist.net/images/anime/1019/114003.jpg)
+
 -   **type**: ona
 -   **original-name**: タイバン!
 -   **start-date**: 2020-12-31

@@ -1,5 +1,7 @@
 # Tsumi to Batsu: A Falsified Romance
 
+![tsumi-to-batsu-a-falsified-romance](https://cdn.myanimelist.net/images/manga/5/30048.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 93

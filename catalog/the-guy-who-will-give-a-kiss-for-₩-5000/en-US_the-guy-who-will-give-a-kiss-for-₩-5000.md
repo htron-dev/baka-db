@@ -1,5 +1,7 @@
 # The Guy Who Will Give a Kiss for ₩5000
 
+![the-guy-who-will-give-a-kiss-for-₩-5000](https://cdn.myanimelist.net/images/manga/1/20650.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **original-name**: 5천원만주면 키스해주는 놈

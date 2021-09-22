@@ -1,5 +1,7 @@
 # Tengoku no Shima
 
+![tengoku-no-shima](https://cdn.myanimelist.net/images/manga/3/37156.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

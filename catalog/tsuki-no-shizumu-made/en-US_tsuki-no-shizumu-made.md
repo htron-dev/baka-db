@@ -1,5 +1,7 @@
 # Tsuki no Shizumu made
 
+![tsuki-no-shizumu-made](https://cdn.myanimelist.net/images/manga/3/150695.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

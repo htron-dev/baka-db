@@ -1,5 +1,7 @@
 # Toaru Ossan no VRMMO Katsudouki
 
+![toaru-ossan-no-vrmmo-katsudouki](https://cdn.myanimelist.net/images/manga/1/186489.jpg)
+
 -   **type**: manga
 -   **original-name**: とあるおっさんの VRMMO 活動記
 -   **start-date**: 2014-06-27

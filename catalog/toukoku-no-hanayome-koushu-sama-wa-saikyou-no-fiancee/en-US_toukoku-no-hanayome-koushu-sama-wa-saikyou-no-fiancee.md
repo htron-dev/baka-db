@@ -1,5 +1,7 @@
 # Toukoku no Hanayome: Koushu-sama wa Saikyou no Fiancée!?
 
+![toukoku-no-hanayome-koushu-sama-wa-saikyou-no-fiancee](https://cdn.myanimelist.net/images/manga/3/178458.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Tennen Sozai de Ikou.
 
+![tennen-sozai-de-ikou](https://cdn.myanimelist.net/images/manga/1/83440.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 40

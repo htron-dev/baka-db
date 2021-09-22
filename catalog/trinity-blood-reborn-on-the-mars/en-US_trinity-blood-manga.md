@@ -1,5 +1,7 @@
 # Trinity Blood
 
+![trinity-blood](https://cdn.myanimelist.net/images/manga/1/164661.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **chapters**: 89

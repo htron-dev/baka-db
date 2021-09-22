@@ -1,5 +1,7 @@
 # Tokyo Mate
 
+![tokyo-mate](https://cdn.myanimelist.net/images/manga/3/164809.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 62

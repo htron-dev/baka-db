@@ -1,5 +1,7 @@
 # Taiyou no Channel
 
+![taiyou-no-channel](https://cdn.myanimelist.net/images/manga/3/171779.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 太陽のチャンネル
 -   **start-date**: 2014-12-02

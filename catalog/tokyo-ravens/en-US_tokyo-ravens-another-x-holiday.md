@@ -1,5 +1,7 @@
 # Tokyo Ravens: Another x Holiday
 
+![tokyo-ravens-another-x-holiday](https://cdn.myanimelist.net/images/manga/3/161438.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

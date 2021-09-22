@@ -1,5 +1,7 @@
 # The Seishun
 
+![the-seishun](https://cdn.myanimelist.net/images/manga/2/99479.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

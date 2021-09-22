@@ -1,5 +1,7 @@
 # Tantei wa Mou, Shindeiru.
 
+![tantei-wa-mou-shindeiru](https://cdn.myanimelist.net/images/anime/1843/115815.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 探偵はもう、死んでいる。

@@ -1,5 +1,7 @@
 # Tsuki no Hitomi no Ezer
 
+![tsuki-no-hitomi-no-ezer](https://cdn.myanimelist.net/images/manga/1/151141.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **original-name**: 月の瞳のエゼル

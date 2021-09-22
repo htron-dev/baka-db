@@ -1,5 +1,7 @@
 # Tonikaku Kawaii: Kaisou
 
+![tonikaku-kawaii-kaisou](https://cdn.myanimelist.net/images/anime/1980/110984.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: トニカクカワイイ 総集編 回想

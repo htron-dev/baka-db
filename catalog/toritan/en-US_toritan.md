@@ -1,5 +1,7 @@
 # Toritan
 
+![toritan](https://cdn.myanimelist.net/images/manga/1/244303.jpg)
+
 -   **type**: manga
 -   **original-name**: とりたん
 -   **start-date**: 2017-03-22

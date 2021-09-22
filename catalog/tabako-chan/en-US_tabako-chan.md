@@ -1,5 +1,7 @@
 # Tabako-chan
 
+![tabako-chan](https://cdn.myanimelist.net/images/manga/3/216317.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 28

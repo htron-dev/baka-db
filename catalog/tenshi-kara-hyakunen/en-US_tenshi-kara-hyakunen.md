@@ -1,5 +1,7 @@
 # Tenshi kara Hyakunen
 
+![tenshi-kara-hyakunen](https://cdn.myanimelist.net/images/manga/2/162637.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

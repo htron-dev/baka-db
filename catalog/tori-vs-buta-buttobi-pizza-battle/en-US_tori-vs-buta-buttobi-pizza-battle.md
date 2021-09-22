@@ -1,5 +1,7 @@
 # Tori vs. Buta: Buttobi Pizza Battle
 
+![tori-vs-buta-buttobi-pizza-battle](https://cdn.myanimelist.net/images/anime/6/86915.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: トリ vs ブタ ぶっとびピザバトル

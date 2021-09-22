@@ -1,5 +1,7 @@
 # To Love Your Enemy
 
+![to-love-your-enemy](https://cdn.myanimelist.net/images/manga/3/247316.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 원수를 사랑하라
 -   **start-date**: 2019-09-18

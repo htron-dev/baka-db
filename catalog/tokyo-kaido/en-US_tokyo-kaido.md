@@ -1,5 +1,7 @@
 # Tokyo Kaido
 
+![tokyo-kaido](https://cdn.myanimelist.net/images/manga/2/21102.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 33

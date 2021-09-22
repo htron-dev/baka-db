@@ -1,5 +1,7 @@
 # Toumei Shounen
 
+![toumei-shounen](https://cdn.myanimelist.net/images/manga/1/22775.jpg)
+
 -   **type**: manga
 -   **original-name**: 透明少年
 

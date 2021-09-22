@@ -1,5 +1,7 @@
 # Tsuki wo Sasu Yubi
 
+![tsuki-wo-sasu-yubi](https://cdn.myanimelist.net/images/manga/2/166318.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 43

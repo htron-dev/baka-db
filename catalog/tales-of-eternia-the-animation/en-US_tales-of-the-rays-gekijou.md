@@ -1,5 +1,7 @@
 # Tales of the Rays Gekijou
 
+![tales-of-the-rays-gekijou](https://cdn.myanimelist.net/images/anime/1851/95295.jpg)
+
 -   **type**: ona
 -   **episodes**: 8
 -   **original-name**: ているず おぶ ざ れいず劇場

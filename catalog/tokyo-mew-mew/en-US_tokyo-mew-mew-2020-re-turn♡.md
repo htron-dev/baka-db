@@ -1,5 +1,7 @@
 # Tokyo Mew Mew: 2020 Re-Turn♡
 
+![tokyo-mew-mew-2020-re-turn♡](https://cdn.myanimelist.net/images/manga/2/229139.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 東京ミュウミュウ 2020 り・たーん ♡

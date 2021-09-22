@@ -1,5 +1,7 @@
 # Tonari no Usotsuki
 
+![tonari-no-usotsuki](https://cdn.myanimelist.net/images/manga/3/217718.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

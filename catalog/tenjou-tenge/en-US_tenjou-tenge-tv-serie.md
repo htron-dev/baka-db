@@ -1,5 +1,7 @@
 # Tenjou Tenge
 
+![tenjou-tenge](https://cdn.myanimelist.net/images/anime/10/8380.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 天上天下

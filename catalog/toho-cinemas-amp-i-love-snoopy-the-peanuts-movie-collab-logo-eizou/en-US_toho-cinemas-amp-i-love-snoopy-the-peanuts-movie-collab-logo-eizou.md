@@ -1,5 +1,7 @@
 # Toho Cinemas &amp; I Love Snoopy: The Peanuts Movie Collab Logo Eizou
 
+![toho-cinemas-amp-i-love-snoopy-the-peanuts-movie-collab-logo-eizou](https://cdn.myanimelist.net/images/anime/8/89230.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 「TOHO シネマズ」＆「I LOVE スヌーピー　 THE PEANUTS MOVIE」コラボロゴ映像

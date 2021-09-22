@@ -1,5 +1,7 @@
 # Time Lag
 
+![time-lag](https://cdn.myanimelist.net/images/manga/2/24259.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

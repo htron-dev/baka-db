@@ -1,5 +1,7 @@
 # Torikagosou no Kyou mo Nemutai Juunin-tachi
 
+![torikagosou-no-kyou-mo-nemutai-juunin-tachi](https://cdn.myanimelist.net/images/manga/2/157816.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

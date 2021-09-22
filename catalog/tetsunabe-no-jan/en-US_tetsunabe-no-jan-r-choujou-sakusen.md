@@ -1,5 +1,7 @@
 # Tetsunabe no Jan! R: Choujou Sakusen
 
+![tetsunabe-no-jan-r-choujou-sakusen](https://cdn.myanimelist.net/images/manga/2/150686.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 91

@@ -1,5 +1,7 @@
 # Teito Hatsukoi Shinjuu
 
+![teito-hatsukoi-shinjuu](https://cdn.myanimelist.net/images/manga/2/203943.jpg)
+
 -   **type**: manga
 -   **original-name**: 帝都初恋心中
 -   **start-date**: 2016-12-21

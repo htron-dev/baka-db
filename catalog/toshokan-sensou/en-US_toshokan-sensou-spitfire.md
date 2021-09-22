@@ -1,5 +1,7 @@
 # Toshokan Sensou: Spitfire!
 
+![toshokan-sensou-spitfire](https://cdn.myanimelist.net/images/manga/1/119583.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 図書館戦争 SPITFIRE!

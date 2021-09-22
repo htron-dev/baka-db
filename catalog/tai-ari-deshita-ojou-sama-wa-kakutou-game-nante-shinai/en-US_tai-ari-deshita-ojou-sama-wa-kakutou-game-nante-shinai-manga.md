@@ -1,5 +1,7 @@
 # Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai
 
+![tai-ari-deshita-ojou-sama-wa-kakutou-game-nante-shinai](https://cdn.myanimelist.net/images/manga/2/232872.jpg)
+
 -   **type**: manga
 -   **original-name**: 対ありでした。 ～お嬢さまは格闘ゲームなんてしない～
 -   **start-date**: 2020-01-04

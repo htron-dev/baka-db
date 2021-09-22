@@ -1,5 +1,7 @@
 # Tokyo Baby Game
 
+![tokyo-baby-game](https://cdn.myanimelist.net/images/manga/1/14025.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 

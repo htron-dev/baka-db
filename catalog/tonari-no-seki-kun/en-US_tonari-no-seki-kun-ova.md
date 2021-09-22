@@ -1,5 +1,7 @@
 # Tonari no Seki-kun OVA
 
+![tonari-no-seki-kun-ova](https://cdn.myanimelist.net/images/anime/6/62613.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: となりの関くん DVD

@@ -1,5 +1,7 @@
 # Haou Kessen Lion
 
+![haou-kessen-lion](https://cdn.myanimelist.net/images/manga/2/248664.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 45

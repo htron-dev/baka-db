@@ -1,5 +1,7 @@
 # Toshishita no Hisoka na Gouin: Chou wa Mitsuya ni Uka wo Suru
 
+![toshishita-no-hisoka-na-gouin-chou-wa-mitsuya-ni-uka-wo-suru](https://cdn.myanimelist.net/images/manga/3/194127.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 年下のひそかな強引　～蝶は蜜夜に羽化をする～

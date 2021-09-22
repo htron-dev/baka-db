@@ -1,5 +1,7 @@
 # Tooi Sekai
 
+![tooi-sekai](https://cdn.myanimelist.net/images/anime/1427/103656.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 遠い世界

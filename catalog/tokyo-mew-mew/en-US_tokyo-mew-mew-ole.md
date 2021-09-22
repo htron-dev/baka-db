@@ -1,5 +1,7 @@
 # Tokyo Mew Mew Olé​!
 
+![tokyo-mew-mew-ole](https://cdn.myanimelist.net/images/manga/2/229138.jpg)
+
 -   **type**: manga
 -   **original-name**: 東京ミュウミュウ オーレ!
 -   **start-date**: 2019-11-30

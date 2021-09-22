@@ -1,5 +1,7 @@
 # Tajuu Jinkaku Tantei Psycho
 
+![tajuu-jinkaku-tantei-psycho](https://cdn.myanimelist.net/images/manga/2/143117.jpg)
+
 -   **type**: manga
 -   **volumes**: 24
 -   **chapters**: 155

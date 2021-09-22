@@ -1,5 +1,7 @@
 # Tsubaki-chan no Nayamigoto
 
+![tsubaki-chan-no-nayamigoto](https://cdn.myanimelist.net/images/manga/1/60587.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

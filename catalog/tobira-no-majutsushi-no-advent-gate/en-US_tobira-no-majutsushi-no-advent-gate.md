@@ -1,5 +1,7 @@
 # Tobira no Majutsushi no Advent Gate
 
+![tobira-no-majutsushi-no-advent-gate](https://cdn.myanimelist.net/images/manga/3/163683.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 23

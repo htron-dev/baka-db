@@ -1,5 +1,7 @@
 # Tamako Market
 
+![tamako-market](https://cdn.myanimelist.net/images/anime/6/79594.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: たまこまーけっと

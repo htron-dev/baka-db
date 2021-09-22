@@ -1,5 +1,7 @@
 # Tonpei to Sarukichi
 
+![tonpei-to-sarukichi](https://cdn.myanimelist.net/images/anime/4/85236.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 豚平と猿吉

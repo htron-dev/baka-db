@@ -1,5 +1,7 @@
 # To Heart
 
+![to-heart](https://cdn.myanimelist.net/images/anime/8/29922.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: トゥハート

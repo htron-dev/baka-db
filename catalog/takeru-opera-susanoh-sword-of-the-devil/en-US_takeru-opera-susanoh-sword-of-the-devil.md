@@ -1,5 +1,7 @@
 # Takeru ~ Opera Susanoh Sword of the Devil
 
+![takeru-opera-susanoh-sword-of-the-devil](https://cdn.myanimelist.net/images/manga/3/2772.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

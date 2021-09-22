@@ -1,5 +1,7 @@
 # Toraware no Darling
 
+![toraware-no-darling](https://cdn.myanimelist.net/images/manga/1/59859.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: とらわれの Darling

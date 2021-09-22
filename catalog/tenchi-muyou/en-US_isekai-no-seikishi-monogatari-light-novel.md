@@ -1,5 +1,7 @@
 # Isekai no Seikishi Monogatari
 
+![isekai-no-seikishi-monogatari](https://cdn.myanimelist.net/images/manga/1/153736.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 異世界の聖機師物語

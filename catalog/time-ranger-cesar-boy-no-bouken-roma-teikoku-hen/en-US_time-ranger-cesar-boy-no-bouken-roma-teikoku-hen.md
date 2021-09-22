@@ -1,5 +1,7 @@
 # Time Ranger Cesar Boy no Bouken: Roma Teikoku-hen
 
+![time-ranger-cesar-boy-no-bouken-roma-teikoku-hen](https://cdn.myanimelist.net/images/anime/12/53595.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: タイムレンジャー セザールボーイの冒険 ローマ帝国編

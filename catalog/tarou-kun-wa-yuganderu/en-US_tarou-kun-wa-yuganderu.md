@@ -1,5 +1,7 @@
 # Tarou-kun wa Yuganderu
 
+![tarou-kun-wa-yuganderu](https://cdn.myanimelist.net/images/manga/1/39765.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

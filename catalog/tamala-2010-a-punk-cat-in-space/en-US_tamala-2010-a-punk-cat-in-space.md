@@ -1,5 +1,7 @@
 # Tamala 2010: A Punk Cat in Space
 
+![tamala-2010-a-punk-cat-in-space](https://cdn.myanimelist.net/images/anime/11/15876.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: タマラ 2010 ア パンク キャット イン スペース

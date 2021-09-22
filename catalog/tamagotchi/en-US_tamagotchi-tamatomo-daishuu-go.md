@@ -1,5 +1,7 @@
 # Tamagotchi! Tamatomo Daishuu GO
 
+![tamagotchi-tamatomo-daishuu-go](https://cdn.myanimelist.net/images/anime/12/72478.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: たまごっち! たまともだいしゅー GO

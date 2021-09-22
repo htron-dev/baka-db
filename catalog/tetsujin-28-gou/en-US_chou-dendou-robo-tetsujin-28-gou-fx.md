@@ -1,5 +1,7 @@
 # Chou Dendou Robo Tetsujin 28-gou FX
 
+![chou-dendou-robo-tetsujin-28-gou-fx](https://cdn.myanimelist.net/images/anime/7/28734.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 47
 -   **original-name**: 超電動ロボ 鉄人 28 号 FX

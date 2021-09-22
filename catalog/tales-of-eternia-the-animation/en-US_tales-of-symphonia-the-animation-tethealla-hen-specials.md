@@ -1,5 +1,7 @@
 # Tales of Symphonia The Animation: Tethe'alla-hen Specials
 
+![tales-of-symphonia-the-animation-tethealla-hen-specials](https://cdn.myanimelist.net/images/anime/4/60787.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: テイルズオブシンフォニア テセアラ編 また会えたね～笑撃のジャッジメント！～

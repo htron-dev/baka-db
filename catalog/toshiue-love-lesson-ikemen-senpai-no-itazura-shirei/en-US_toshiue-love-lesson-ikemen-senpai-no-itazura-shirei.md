@@ -1,5 +1,7 @@
 # Toshiue Love Lesson: Ikemen-senpai no Itazura Shirei
 
+![toshiue-love-lesson-ikemen-senpai-no-itazura-shirei](https://cdn.myanimelist.net/images/manga/3/193649.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

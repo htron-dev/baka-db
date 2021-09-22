@@ -1,5 +1,7 @@
 # Takeki Ougon no Kuni: Inou Tadataka
 
+![takeki-ougon-no-kuni-inou-tadataka](https://cdn.myanimelist.net/images/manga/3/248475.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 猛き黄金の国 伊能忠敬

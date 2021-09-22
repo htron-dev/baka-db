@@ -1,5 +1,7 @@
 # Tsuyuki-san wa Furaretenai
 
+![tsuyuki-san-wa-furaretenai](https://cdn.myanimelist.net/images/manga/3/230993.jpg)
+
 -   **type**: manga
 -   **chapters**: 30
 -   **original-name**: 露木さんはフラれてない

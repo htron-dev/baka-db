@@ -1,5 +1,7 @@
 # Tsurumoku Dokushin Ryou
 
+![tsurumoku-dokushin-ryou](https://cdn.myanimelist.net/images/manga/3/7435.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 135

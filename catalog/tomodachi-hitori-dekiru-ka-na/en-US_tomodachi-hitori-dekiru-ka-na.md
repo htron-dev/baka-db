@@ -1,5 +1,7 @@
 # Tomodachi Hitori Dekiru ka na
 
+![tomodachi-hitori-dekiru-ka-na](https://cdn.myanimelist.net/images/manga/1/225920.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

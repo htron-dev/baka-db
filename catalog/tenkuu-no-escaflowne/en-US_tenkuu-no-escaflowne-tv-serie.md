@@ -1,5 +1,7 @@
 # Tenkuu no Escaflowne
 
+![tenkuu-no-escaflowne](https://cdn.myanimelist.net/images/anime/5/30689.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 天空のエスカフローネ

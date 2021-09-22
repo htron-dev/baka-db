@@ -1,5 +1,7 @@
 # Tsuki no Shippo
 
+![tsuki-no-shippo](https://cdn.myanimelist.net/images/manga/3/160615.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 105

@@ -1,5 +1,7 @@
 # Type-Moon Gakuen: Chibichuki!
 
+![type-moon-gakuen-chibichuki](https://cdn.myanimelist.net/images/manga/3/155052.jpg)
+
 -   **type**: manga
 -   **original-name**: TYPE-MOON 学園 ちびちゅき!
 -   **start-date**: 2013-09-10

@@ -1,5 +1,7 @@
 # Tales of Graces f: Sub Travels
 
+![tales-of-graces-f-sub-travels](https://cdn.myanimelist.net/images/manga/2/92265.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

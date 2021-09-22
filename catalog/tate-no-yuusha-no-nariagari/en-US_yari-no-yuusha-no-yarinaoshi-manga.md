@@ -1,5 +1,7 @@
 # Yari no Yuusha no Yarinaoshi
 
+![yari-no-yuusha-no-yarinaoshi](https://cdn.myanimelist.net/images/manga/3/204824.jpg)
+
 -   **type**: manga
 -   **original-name**: 槍の勇者のやり直し
 -   **start-date**: 2017-08-21

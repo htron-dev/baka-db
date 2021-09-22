@@ -1,5 +1,7 @@
 # Tada Ichinodake no Eien
 
+![tada-ichinodake-no-eien](https://cdn.myanimelist.net/images/manga/2/19979.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

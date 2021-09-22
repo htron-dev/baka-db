@@ -1,5 +1,7 @@
 # Tamako Love Story
 
+![tamako-love-story](https://cdn.myanimelist.net/images/anime/1417/91333.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: たまこラブストーリー

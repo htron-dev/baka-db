@@ -1,5 +1,7 @@
 # Tabi Gal! Nihon Juudan Chari Kikou
 
+![tabi-gal-nihon-juudan-chari-kikou](https://cdn.myanimelist.net/images/manga/3/237310.jpg)
+
 -   **type**: manga
 -   **original-name**: 旅ぎゃる! 日本じゅーだんチャリきこー
 -   **start-date**: 2020-05-05

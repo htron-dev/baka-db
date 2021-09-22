@@ -1,5 +1,7 @@
 # Tenshi wa Nido, Uso wo Tsuku
 
+![tenshi-wa-nido-uso-wo-tsuku](https://cdn.myanimelist.net/images/manga/3/230038.jpg)
+
 -   **type**: manga
 -   **chapters**: 11
 -   **original-name**: 天使は二度、嘘をつく

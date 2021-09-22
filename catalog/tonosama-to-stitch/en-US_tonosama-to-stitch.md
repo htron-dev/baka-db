@@ -1,5 +1,7 @@
 # Tonosama to Stitch
 
+![tonosama-to-stitch](https://cdn.myanimelist.net/images/manga/1/235214.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

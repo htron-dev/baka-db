@@ -1,5 +1,7 @@
 # Tokyo Vampire Finance
 
+![tokyo-vampire-finance](https://cdn.myanimelist.net/images/manga/2/164395.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 東京ヴァンパイア・ファイナンス

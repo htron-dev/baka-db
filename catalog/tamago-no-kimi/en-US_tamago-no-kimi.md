@@ -1,5 +1,7 @@
 # Tamago no Kimi
 
+![tamago-no-kimi](https://cdn.myanimelist.net/images/manga/3/48383.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

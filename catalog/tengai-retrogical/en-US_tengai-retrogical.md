@@ -1,5 +1,7 @@
 # Tengai Retrogical
 
+![tengai-retrogical](https://cdn.myanimelist.net/images/manga/2/9656.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 天外レトロジカル

@@ -1,5 +1,7 @@
 # Toshishita Ouji no Koi no Sakuryaku
 
+![toshishita-ouji-no-koi-no-sakuryaku](https://cdn.myanimelist.net/images/manga/3/158350.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

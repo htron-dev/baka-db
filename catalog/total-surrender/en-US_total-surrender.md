@@ -1,5 +1,7 @@
 # Total Surrender
 
+![total-surrender](https://cdn.myanimelist.net/images/manga/2/14585.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

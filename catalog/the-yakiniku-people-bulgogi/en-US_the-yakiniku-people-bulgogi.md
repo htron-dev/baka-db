@@ -1,5 +1,7 @@
 # The Yakiniku People Bulgogi
 
+![the-yakiniku-people-bulgogi](https://cdn.myanimelist.net/images/manga/1/86415.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

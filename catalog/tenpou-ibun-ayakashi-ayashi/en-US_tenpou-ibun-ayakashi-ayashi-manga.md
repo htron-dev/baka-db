@@ -1,5 +1,7 @@
 # Tenpou Ibun Ayakashi Ayashi
 
+![tenpou-ibun-ayakashi-ayashi](https://cdn.myanimelist.net/images/manga/1/28124.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

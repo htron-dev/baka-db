@@ -1,5 +1,7 @@
 # Tokitsukai Majutsushi no Tensei Musou: Majutsu Gakuin no Rettousei, Jitsu wa Saikyou no Jikankei Majutsushi deshita
 
+![tokitsukai-majutsushi-no-tensei-musou-majutsu-gakuin-no-rettousei-jitsu-wa-saikyou-no-jikankei-majutsushi-deshita](https://cdn.myanimelist.net/images/manga/3/246334.jpg)
+
 -   **type**: manga
 -   **original-name**: 時使い魔術師の転生無双 ～魔術学院の劣等生、実は最強の時間系魔術師でした～
 -   **start-date**: 2020-10-29

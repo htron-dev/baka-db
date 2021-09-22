@@ -1,5 +1,7 @@
 # Tonari wa Nani wo Kuu Hito zo: Horoyoi
 
+![tonari-wa-nani-wo-kuu-hito-zo-horoyoi](https://cdn.myanimelist.net/images/manga/2/223511.jpg)
+
 -   **type**: manga
 -   **original-name**: トナリはなにを食う人ぞ ほろよい
 -   **start-date**: 2018-04-05

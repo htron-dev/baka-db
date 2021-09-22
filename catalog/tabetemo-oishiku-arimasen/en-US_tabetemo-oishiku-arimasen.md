@@ -1,5 +1,7 @@
 # Tabetemo Oishiku Arimasen
 
+![tabetemo-oishiku-arimasen](https://cdn.myanimelist.net/images/manga/3/226660.jpg)
+
 -   **type**: manga
 -   **original-name**: 食べてもおいしくありません
 -   **start-date**: 2018-09-07

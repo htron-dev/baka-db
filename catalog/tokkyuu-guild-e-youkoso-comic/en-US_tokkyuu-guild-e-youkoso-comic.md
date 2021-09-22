@@ -1,5 +1,7 @@
 # Tokkyuu Guild e Youkoso! @comic
 
+![tokkyuu-guild-e-youkoso-comic](https://cdn.myanimelist.net/images/manga/2/240912.jpg)
+
 -   **type**: manga
 -   **original-name**: 特級ギルドへようこそ!＠COMIC
 -   **start-date**: 2020-01-06

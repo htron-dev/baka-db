@@ -1,5 +1,7 @@
 # Tobenai Chou to Sora no Shachi
 
+![tobenai-chou-to-sora-no-shachi](https://cdn.myanimelist.net/images/manga/2/196306.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 43

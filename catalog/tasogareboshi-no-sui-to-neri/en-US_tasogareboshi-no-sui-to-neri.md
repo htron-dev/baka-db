@@ -1,5 +1,7 @@
 # Tasogareboshi no Sui to Neri
 
+![tasogareboshi-no-sui-to-neri](https://cdn.myanimelist.net/images/manga/1/241667.jpg)
+
 -   **type**: manga
 -   **original-name**: 黄昏星のスイとネリ
 -   **start-date**: 2020-05-27

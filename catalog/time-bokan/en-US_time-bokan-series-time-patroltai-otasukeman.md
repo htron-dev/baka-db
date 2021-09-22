@@ -1,5 +1,7 @@
 # Time Bokan Series: Time Patroltai Otasukeman
 
+![time-bokan-series-time-patroltai-otasukeman](https://cdn.myanimelist.net/images/anime/6/23215.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 53
 -   **original-name**: タイムボカンシリーズ タイムパトロール隊 オタスケマン

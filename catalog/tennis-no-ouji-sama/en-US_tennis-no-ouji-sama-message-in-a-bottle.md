@@ -1,5 +1,7 @@
 # Tennis no Ouji-sama: Message in a Bottle
 
+![tennis-no-ouji-sama-message-in-a-bottle](https://cdn.myanimelist.net/images/anime/11/71357.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: テニスの王子様 OVA FAN DISC ～ Message in a bottle ～

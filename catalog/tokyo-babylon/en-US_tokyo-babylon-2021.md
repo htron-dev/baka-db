@@ -1,5 +1,7 @@
 # Tokyo Babylon 2021
 
+![tokyo-babylon-2021](https://cdn.myanimelist.net/images/anime/1301/113833.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 東京 BABYLON 2021
 -   **rating**: None

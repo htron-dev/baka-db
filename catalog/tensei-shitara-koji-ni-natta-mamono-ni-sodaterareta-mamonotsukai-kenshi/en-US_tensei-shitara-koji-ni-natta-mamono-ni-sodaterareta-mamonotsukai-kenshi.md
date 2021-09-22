@@ -1,5 +1,7 @@
 # Tensei shitara Koji ni Natta! Mamono ni Sodaterareta Mamonotsukai (Kenshi)
 
+![tensei-shitara-koji-ni-natta-mamono-ni-sodaterareta-mamonotsukai-kenshi](https://cdn.myanimelist.net/images/manga/2/177816.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 転生したら孤児になった! 魔物に育てられた魔物使い(剣士)
 -   **start-date**: 2015-03-13

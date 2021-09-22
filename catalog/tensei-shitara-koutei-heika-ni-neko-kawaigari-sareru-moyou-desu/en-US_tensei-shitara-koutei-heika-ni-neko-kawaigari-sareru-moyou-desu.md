@@ -1,5 +1,7 @@
 # Tensei shitara Koutei Heika ni Neko Kawaigari sareru Moyou desu.
 
+![tensei-shitara-koutei-heika-ni-neko-kawaigari-sareru-moyou-desu](https://cdn.myanimelist.net/images/manga/2/183721.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

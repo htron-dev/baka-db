@@ -1,5 +1,7 @@
 # Toaru Soragoto, Boku no Himitsu
 
+![toaru-soragoto-boku-no-himitsu](https://cdn.myanimelist.net/images/manga/2/16715.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Torokase Orgasm The Animation
 
+![torokase-orgasm-the-animation](https://cdn.myanimelist.net/images/anime/1849/116950.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: とろかせおるがずむ THE ANIMATION

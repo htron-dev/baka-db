@@ -1,5 +1,7 @@
 # Tenkuu Shinpan
 
+![tenkuu-shinpan](https://cdn.myanimelist.net/images/anime/1374/109963.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 天空侵犯

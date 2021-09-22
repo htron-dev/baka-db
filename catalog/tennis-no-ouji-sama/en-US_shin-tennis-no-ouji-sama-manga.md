@@ -1,5 +1,7 @@
 # Shin Tennis no Ouji-sama
 
+![shin-tennis-no-ouji-sama](https://cdn.myanimelist.net/images/manga/2/153234.jpg)
+
 -   **type**: manga
 -   **original-name**: 新テニスの王子様
 -   **start-date**: 2009-03-04

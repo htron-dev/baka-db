@@ -1,5 +1,7 @@
 # The Queen's Knight
 
+![the-queens-knight](https://cdn.myanimelist.net/images/manga/5/1543.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 17
 -   **chapters**: 79

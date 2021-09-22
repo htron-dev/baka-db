@@ -1,5 +1,7 @@
 # Tokyo-hatsu Isekai-yuki
 
+![tokyo-hatsu-isekai-yuki](https://cdn.myanimelist.net/images/manga/2/119681.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

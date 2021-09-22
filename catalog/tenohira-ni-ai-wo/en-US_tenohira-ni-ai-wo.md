@@ -1,5 +1,7 @@
 # Tenohira ni Ai wo!
 
+![tenohira-ni-ai-wo](https://cdn.myanimelist.net/images/manga/1/187056.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 49

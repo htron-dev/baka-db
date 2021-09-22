@@ -1,5 +1,7 @@
 # Tenshi to Akuto!!
 
+![tenshi-to-akuto](https://cdn.myanimelist.net/images/manga/2/168134.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 166

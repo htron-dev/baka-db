@@ -1,5 +1,7 @@
 # Tayutayu: Pure My Heart
 
+![tayutayu-pure-my-heart](https://cdn.myanimelist.net/images/anime/6/15398.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: タユタマ -Pure my heart-

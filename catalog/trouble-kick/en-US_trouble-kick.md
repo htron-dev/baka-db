@@ -1,5 +1,7 @@
 # Trouble Kick
 
+![trouble-kick](https://cdn.myanimelist.net/images/manga/2/7745.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: トラぶる・キック

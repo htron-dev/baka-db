@@ -1,5 +1,7 @@
 # Tokyo Style Bakudan
 
+![tokyo-style-bakudan](https://cdn.myanimelist.net/images/manga/1/25925.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 東京スタイル爆弾

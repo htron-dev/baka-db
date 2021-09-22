@@ -1,5 +1,7 @@
 # Tsubame no Hasami
 
+![tsubame-no-hasami](https://cdn.myanimelist.net/images/manga/1/222910.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

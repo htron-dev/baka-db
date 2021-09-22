@@ -1,5 +1,7 @@
 # Tasukete Maou-sama
 
+![tasukete-maou-sama](https://cdn.myanimelist.net/images/manga/3/231188.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 41

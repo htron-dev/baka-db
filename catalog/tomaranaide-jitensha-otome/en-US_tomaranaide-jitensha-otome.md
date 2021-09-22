@@ -1,5 +1,7 @@
 # Tomaranaide Jitensha Otome
 
+![tomaranaide-jitensha-otome](https://cdn.myanimelist.net/images/manga/2/125015.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 止まらないで自転車乙女

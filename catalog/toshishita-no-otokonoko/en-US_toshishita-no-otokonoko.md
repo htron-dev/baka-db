@@ -1,5 +1,7 @@
 # Toshishita no Otokonoko
 
+![toshishita-no-otokonoko](https://cdn.myanimelist.net/images/manga/2/247709.jpg)
+
 -   **type**: manga
 -   **original-name**: 年下の男の子
 -   **start-date**: 2019-04-30

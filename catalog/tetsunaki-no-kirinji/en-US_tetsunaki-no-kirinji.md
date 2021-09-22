@@ -1,5 +1,7 @@
 # Tetsunaki no Kirinji
 
+![tetsunaki-no-kirinji](https://cdn.myanimelist.net/images/manga/2/165304.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 42

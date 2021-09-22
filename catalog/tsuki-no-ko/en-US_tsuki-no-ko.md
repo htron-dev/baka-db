@@ -1,5 +1,7 @@
 # Tsuki no Ko
 
+![tsuki-no-ko](https://cdn.myanimelist.net/images/manga/3/20321.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 52

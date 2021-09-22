@@ -1,5 +1,7 @@
 # Tonari no Otona-kun
 
+![tonari-no-otona-kun](https://cdn.myanimelist.net/images/manga/1/234365.jpg)
+
 -   **type**: manga
 -   **original-name**: となりのオトナくん
 -   **start-date**: 2020-04-13

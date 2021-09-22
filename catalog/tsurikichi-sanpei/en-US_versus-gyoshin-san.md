@@ -1,5 +1,7 @@
 # Versus Gyoshin-san!
 
+![versus-gyoshin-san](https://cdn.myanimelist.net/images/manga/3/216100.jpg)
+
 -   **type**: manga
 -   **original-name**: バーサス魚紳さん!
 -   **start-date**: 2018-04-24

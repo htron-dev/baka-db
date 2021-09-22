@@ -1,5 +1,7 @@
 # Tanpa-kun
 
+![tanpa-kun](https://cdn.myanimelist.net/images/manga/2/133051.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: タンパ君

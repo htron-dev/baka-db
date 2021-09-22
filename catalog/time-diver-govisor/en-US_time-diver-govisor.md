@@ -1,5 +1,7 @@
 # Time Diver Govisor
 
+![time-diver-govisor](https://cdn.myanimelist.net/images/manga/2/36865.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: タイムダイバー ゴーバイザー

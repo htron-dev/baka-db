@@ -1,5 +1,7 @@
 # Tsujiura-san to Chupacabra
 
+![tsujiura-san-to-chupacabra](https://cdn.myanimelist.net/images/manga/2/164351.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 35

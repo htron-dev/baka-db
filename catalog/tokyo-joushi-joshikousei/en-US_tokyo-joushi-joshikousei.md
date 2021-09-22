@@ -1,5 +1,7 @@
 # Tokyo Joushi Joshikousei
 
+![tokyo-joushi-joshikousei](https://cdn.myanimelist.net/images/manga/2/209829.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

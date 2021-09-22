@@ -1,5 +1,7 @@
 # Tengoku in the Hell
 
+![tengoku-in-the-hell](https://cdn.myanimelist.net/images/manga/2/226414.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

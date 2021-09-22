@@ -1,5 +1,7 @@
 # The Reflection
 
+![the-reflection](https://cdn.myanimelist.net/images/anime/4/83018.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ザ・リフレクション

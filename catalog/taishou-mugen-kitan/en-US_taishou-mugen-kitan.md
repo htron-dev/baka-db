@@ -1,5 +1,7 @@
 # Taishou Mugen Kitan
 
+![taishou-mugen-kitan](https://cdn.myanimelist.net/images/manga/2/2990.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

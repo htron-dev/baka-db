@@ -1,5 +1,7 @@
 # Tesla Note
 
+![tesla-note](https://cdn.myanimelist.net/images/anime/1511/116890.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: テスラノート
 -   **rating**: None

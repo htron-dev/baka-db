@@ -1,5 +1,7 @@
 # Tobidase! Bacchiri
 
+![tobidase-bacchiri](https://cdn.myanimelist.net/images/anime/6/53341.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 132
 -   **original-name**: とびだせ! バッチリ

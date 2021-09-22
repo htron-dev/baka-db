@@ -1,5 +1,7 @@
 # Tennis no Ouji-sama: Best Games!!
 
+![tennis-no-ouji-sama-best-games](https://cdn.myanimelist.net/images/anime/1343/95287.jpg)
+
 -   **type**: ova
 -   **original-name**: テニスの王子様 BEST GAMES!!
 -   **start-date**: 2018-08-24

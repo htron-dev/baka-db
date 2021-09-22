@@ -1,5 +1,7 @@
 # Tonari ni Iru no ni, Tooi
 
+![tonari-ni-iru-no-ni-tooi](https://cdn.myanimelist.net/images/manga/1/61261.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

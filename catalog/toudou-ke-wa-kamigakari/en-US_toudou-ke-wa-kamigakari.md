@@ -1,5 +1,7 @@
 # Toudou-ke wa Kamigakari
 
+![toudou-ke-wa-kamigakari](https://cdn.myanimelist.net/images/manga/2/164338.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 19

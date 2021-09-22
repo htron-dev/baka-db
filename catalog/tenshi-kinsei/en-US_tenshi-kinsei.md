@@ -1,5 +1,7 @@
 # Tenshi Kinsei
 
+![tenshi-kinsei](https://cdn.myanimelist.net/images/manga/1/247741.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

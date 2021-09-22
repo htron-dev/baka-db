@@ -1,5 +1,7 @@
 # Tantei Opera Milky Holmes: Radical Time
 
+![tantei-opera-milky-holmes-radical-time](https://cdn.myanimelist.net/images/manga/3/104247.jpg)
+
 -   **type**: manga
 -   **chapters**: 11
 -   **original-name**: 探偵オペラミルキィホームズ ラジカルタイム

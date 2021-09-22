@@ -1,5 +1,7 @@
 # The Poet Who Buys Words
 
+![the-poet-who-buys-words](https://cdn.myanimelist.net/images/manga/2/1775.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 3
 -   **original-name**: 언어를 사는 시인

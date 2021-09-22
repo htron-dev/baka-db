@@ -1,5 +1,7 @@
 # Tamako Market
 
+![tamako-market](https://cdn.myanimelist.net/images/manga/3/109537.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

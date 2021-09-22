@@ -1,5 +1,7 @@
 # Taishou Yakyuu Musume.
 
+![taishou-yakyuu-musume](https://cdn.myanimelist.net/images/anime/6/22583.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 大正野球娘。

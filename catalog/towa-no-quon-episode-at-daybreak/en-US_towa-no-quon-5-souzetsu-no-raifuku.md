@@ -1,5 +1,7 @@
 # Towa no Quon 5: Souzetsu no Raifuku
 
+![towa-no-quon-5-souzetsu-no-raifuku](https://cdn.myanimelist.net/images/anime/3/34343.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: トワノクオン 第５章 双絶の来復

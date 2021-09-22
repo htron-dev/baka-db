@@ -1,5 +1,7 @@
 # The Gift
 
+![the-gift](https://cdn.myanimelist.net/images/anime/11/87225.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: THE GIFT

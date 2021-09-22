@@ -1,5 +1,7 @@
 # Teddy Bear
 
+![teddy-bear](https://cdn.myanimelist.net/images/manga/2/19140.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 15

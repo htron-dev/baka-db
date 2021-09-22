@@ -1,5 +1,7 @@
 # Teiichi no Kuni
 
+![teiichi-no-kuni](https://cdn.myanimelist.net/images/manga/1/171025.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 66

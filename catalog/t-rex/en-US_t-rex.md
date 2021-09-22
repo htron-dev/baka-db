@@ -1,5 +1,7 @@
 # T-Rex
 
+![t-rex](https://cdn.myanimelist.net/images/anime/12/57903.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: T-レックス

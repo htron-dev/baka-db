@@ -1,5 +1,7 @@
 # That Summer
 
+![that-summer](https://cdn.myanimelist.net/images/manga/3/228279.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 156
 -   **original-name**: 그 해 여름

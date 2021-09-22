@@ -1,5 +1,7 @@
 # Takashima Kouichirou no Risou no Koibito
 
+![takashima-kouichirou-no-risou-no-koibito](https://cdn.myanimelist.net/images/manga/2/179358.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

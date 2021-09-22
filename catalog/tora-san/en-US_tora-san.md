@@ -1,5 +1,7 @@
 # Tora-san
 
+![tora-san](https://cdn.myanimelist.net/images/manga/3/208081.jpg)
+
 -   **type**: manga
 -   **original-name**: トラさん
 -   **start-date**: 2013-12-14

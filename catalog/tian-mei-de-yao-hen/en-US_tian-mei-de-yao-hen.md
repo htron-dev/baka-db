@@ -1,5 +1,7 @@
 # Tian Mei De Yao Hen
 
+![tian-mei-de-yao-hen](https://cdn.myanimelist.net/images/anime/1438/110587.jpg)
+
 -   **type**: ona
 -   **original-name**: 甜美的咬痕
 -   **rating**: None

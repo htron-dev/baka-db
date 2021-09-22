@@ -1,5 +1,7 @@
 # Taberu Hitotachi
 
+![taberu-hitotachi](https://cdn.myanimelist.net/images/anime/1167/108049.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 食べる人たち

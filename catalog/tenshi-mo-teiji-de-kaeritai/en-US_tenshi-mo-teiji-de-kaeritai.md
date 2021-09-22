@@ -1,5 +1,7 @@
 # Tenshi mo Teiji de Kaeritai!!
 
+![tenshi-mo-teiji-de-kaeritai](https://cdn.myanimelist.net/images/manga/3/203265.jpg)
+
 -   **type**: manga
 -   **original-name**: 天使も定時で帰りたい!!
 -   **start-date**: 2016-10-28

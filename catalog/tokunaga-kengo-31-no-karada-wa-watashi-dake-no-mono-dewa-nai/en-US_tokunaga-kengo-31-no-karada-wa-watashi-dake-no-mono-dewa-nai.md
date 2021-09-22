@@ -1,5 +1,7 @@
 # Tokunaga Kengo (31) no Karada wa Watashi dake no Mono dewa Nai
 
+![tokunaga-kengo-31-no-karada-wa-watashi-dake-no-mono-dewa-nai](https://cdn.myanimelist.net/images/manga/3/231330.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

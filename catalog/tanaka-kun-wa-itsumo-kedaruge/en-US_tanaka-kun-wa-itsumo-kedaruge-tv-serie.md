@@ -1,5 +1,7 @@
 # Tanaka-kun wa Itsumo Kedaruge
 
+![tanaka-kun-wa-itsumo-kedaruge](https://cdn.myanimelist.net/images/anime/1189/111994.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 田中くんはいつもけだるげ

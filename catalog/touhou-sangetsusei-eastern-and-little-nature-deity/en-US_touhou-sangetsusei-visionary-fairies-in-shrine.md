@@ -1,5 +1,7 @@
 # Touhou Sangetsusei: Visionary Fairies in Shrine.
 
+![touhou-sangetsusei-visionary-fairies-in-shrine](https://cdn.myanimelist.net/images/manga/3/206103.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Tonde Saitama
 
+![tonde-saitama](https://cdn.myanimelist.net/images/manga/2/170716.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

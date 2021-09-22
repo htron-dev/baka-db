@@ -1,5 +1,7 @@
 # Comic Party Specials
 
+![comic-party-specials](https://cdn.myanimelist.net/images/anime/11/5319.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: こみっくパーティー

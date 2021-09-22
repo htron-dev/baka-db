@@ -1,5 +1,7 @@
 # Tenshi wo Daita Koori no Fugou
 
+![tenshi-wo-daita-koori-no-fugou](https://cdn.myanimelist.net/images/manga/1/246988.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 天使を抱いた氷の富豪

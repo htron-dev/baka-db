@@ -1,5 +1,7 @@
 # Tsuriya Nagare
 
+![tsuriya-nagare](https://cdn.myanimelist.net/images/manga/4/35793.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: 釣り屋ナガレ

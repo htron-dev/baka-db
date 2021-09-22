@@ -1,5 +1,7 @@
 # Tetsuzin
 
+![tetsuzin](https://cdn.myanimelist.net/images/manga/1/16781.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 鉄人

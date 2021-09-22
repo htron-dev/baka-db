@@ -1,5 +1,7 @@
 # Terra Formars: The Outer Mission
 
+![terra-formars-the-outer-mission](https://cdn.myanimelist.net/images/manga/2/171341.jpg)
+
 -   **type**: light-novel
 -   **original-name**: テラフォーマーズ THE OUTER MISSION
 -   **start-date**: 2014-11-21

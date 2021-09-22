@@ -1,5 +1,7 @@
 # The End of the World
 
+![the-end-of-the-world](https://cdn.myanimelist.net/images/manga/3/33905.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

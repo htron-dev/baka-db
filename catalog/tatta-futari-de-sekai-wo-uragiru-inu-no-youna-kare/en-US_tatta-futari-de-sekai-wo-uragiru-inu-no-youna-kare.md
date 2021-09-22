@@ -1,5 +1,7 @@
 # Tatta Futari de Sekai wo Uragiru.: Inu no Youna Kare
 
+![tatta-futari-de-sekai-wo-uragiru-inu-no-youna-kare](https://cdn.myanimelist.net/images/manga/2/181725.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

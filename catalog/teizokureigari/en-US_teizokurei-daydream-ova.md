@@ -1,5 +1,7 @@
 # Teizokurei Daydream
 
+![teizokurei-daydream](https://cdn.myanimelist.net/images/anime/8/3784.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 低俗霊 DAYDREAM

@@ -1,5 +1,7 @@
 # Tozasareta Nergal
 
+![tozasareta-nergal](https://cdn.myanimelist.net/images/manga/3/171535.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 閉ざされたネルガル

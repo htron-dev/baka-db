@@ -1,5 +1,7 @@
 # Tatakae!! Iczer-1
 
+![tatakae-iczer-1](https://cdn.myanimelist.net/images/anime/10/52121.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 戦え!! イクサー 1

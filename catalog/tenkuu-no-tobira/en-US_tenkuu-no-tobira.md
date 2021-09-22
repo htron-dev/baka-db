@@ -1,5 +1,7 @@
 # Tenkuu no Tobira
 
+![tenkuu-no-tobira](https://cdn.myanimelist.net/images/manga/2/158017.jpg)
+
 -   **type**: manga
 -   **original-name**: 天空の扉
 -   **start-date**: 2011-06-09

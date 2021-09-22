@@ -1,5 +1,7 @@
 # Terra Formars
 
+![terra-formars](https://cdn.myanimelist.net/images/anime/2/67117.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: TERRA FORMARS [テラフォーマーズ]

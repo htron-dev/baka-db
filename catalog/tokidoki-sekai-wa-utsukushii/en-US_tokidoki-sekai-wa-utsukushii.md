@@ -1,5 +1,7 @@
 # Tokidoki, Sekai wa Utsukushii
 
+![tokidoki-sekai-wa-utsukushii](https://cdn.myanimelist.net/images/manga/2/3939.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

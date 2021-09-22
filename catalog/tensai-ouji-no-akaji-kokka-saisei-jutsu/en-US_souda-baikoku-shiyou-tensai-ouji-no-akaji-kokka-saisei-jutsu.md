@@ -1,5 +1,7 @@
 # Souda, Baikoku shiyou: Tensai Ouji no Akaji Kokka Saisei Jutsu
 
+![souda-baikoku-shiyou-tensai-ouji-no-akaji-kokka-saisei-jutsu](https://cdn.myanimelist.net/images/manga/2/229898.jpg)
+
 -   **type**: manga
 -   **original-name**: そうだ、売国しよう〜天才王子の赤字国家再生術〜
 -   **start-date**: 2019-10-08

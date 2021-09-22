@@ -1,5 +1,7 @@
 # Tekkai no Senshi
 
+![tekkai-no-senshi](https://cdn.myanimelist.net/images/manga/3/250266.jpg)
+
 -   **type**: manga
 -   **original-name**: 鉄界の戦士
 -   **start-date**: 2020-01-06

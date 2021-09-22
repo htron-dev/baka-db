@@ -1,5 +1,7 @@
 # Tatoeba Sore wo Koi to Yobunara
 
+![tatoeba-sore-wo-koi-to-yobunara](https://cdn.myanimelist.net/images/manga/1/6027.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

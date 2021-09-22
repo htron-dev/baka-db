@@ -1,5 +1,7 @@
 # Hifuu Katsudou Kiroku: The Sealed Esoteric History
 
+![hifuu-katsudou-kiroku-the-sealed-esoteric-history](https://cdn.myanimelist.net/images/anime/9/88676.jpg)
+
 -   **type**: ova
 -   **original-name**: 秘封活動記録 The Sealed Esoteric History
 -   **start-date**: 2015-12-29

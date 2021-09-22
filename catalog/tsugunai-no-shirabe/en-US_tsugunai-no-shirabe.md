@@ -1,5 +1,7 @@
 # Tsugunai no Shirabe
 
+![tsugunai-no-shirabe](https://cdn.myanimelist.net/images/manga/2/185685.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

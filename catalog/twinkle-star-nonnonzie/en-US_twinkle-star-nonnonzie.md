@@ -1,5 +1,7 @@
 # Twinkle Star Nonnonzie
 
+![twinkle-star-nonnonzie](https://cdn.myanimelist.net/images/manga/3/16879.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

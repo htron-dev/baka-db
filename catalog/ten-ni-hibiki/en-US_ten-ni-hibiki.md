@@ -1,5 +1,7 @@
 # Ten ni Hibiki
 
+![ten-ni-hibiki](https://cdn.myanimelist.net/images/manga/3/79093.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 60

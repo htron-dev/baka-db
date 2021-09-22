@@ -1,5 +1,7 @@
 # Gin to Kin
 
+![gin-to-kin](https://cdn.myanimelist.net/images/manga/3/229454.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 108

@@ -1,5 +1,7 @@
 # Tamayura Kitsune
 
+![tamayura-kitsune](https://cdn.myanimelist.net/images/manga/1/186928.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

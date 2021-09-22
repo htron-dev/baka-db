@@ -1,5 +1,7 @@
 # Tsume to Toge
 
+![tsume-to-toge](https://cdn.myanimelist.net/images/manga/2/165174.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

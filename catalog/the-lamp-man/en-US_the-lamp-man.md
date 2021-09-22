@@ -1,5 +1,7 @@
 # The Lamp Man
 
+![the-lamp-man](https://cdn.myanimelist.net/images/anime/1750/99283.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: The Lamp Man

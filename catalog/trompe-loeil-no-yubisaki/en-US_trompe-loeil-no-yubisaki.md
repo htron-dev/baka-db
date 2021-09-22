@@ -1,5 +1,7 @@
 # Trompe-l'oeil no Yubisaki
 
+![trompe-loeil-no-yubisaki](https://cdn.myanimelist.net/images/manga/2/35443.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

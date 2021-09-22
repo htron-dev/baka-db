@@ -1,5 +1,7 @@
 # Taming a Defective Angel
 
+![taming-a-defective-angel](https://cdn.myanimelist.net/images/manga/3/17863.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 12
 -   **original-name**: 불량천사 길들이기

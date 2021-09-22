@@ -1,5 +1,7 @@
 # Tantei Aoneko
 
+![tantei-aoneko](https://cdn.myanimelist.net/images/manga/1/34158.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 33

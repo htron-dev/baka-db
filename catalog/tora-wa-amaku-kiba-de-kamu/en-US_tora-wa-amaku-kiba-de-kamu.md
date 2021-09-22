@@ -1,5 +1,7 @@
 # Tora wa Amaku Kiba de Kamu
 
+![tora-wa-amaku-kiba-de-kamu](https://cdn.myanimelist.net/images/manga/3/35065.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 虎は甘く牙で噛む

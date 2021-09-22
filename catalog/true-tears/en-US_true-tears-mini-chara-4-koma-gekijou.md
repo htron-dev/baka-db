@@ -1,5 +1,7 @@
 # True Tears: Mini Chara 4-koma Gekijou
 
+![true-tears-mini-chara-4-koma-gekijou](https://cdn.myanimelist.net/images/anime/10/13889.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: true tears ミニキャラ 4 コマ劇場

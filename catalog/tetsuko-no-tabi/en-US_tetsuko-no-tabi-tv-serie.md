@@ -1,5 +1,7 @@
 # Tetsuko no Tabi
 
+![tetsuko-no-tabi](https://cdn.myanimelist.net/images/anime/11/3270.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 鉄子の旅

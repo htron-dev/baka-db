@@ -1,5 +1,7 @@
 # Tom Sawyer no Bouken Specials
 
+![tom-sawyer-no-bouken-specials](https://cdn.myanimelist.net/images/anime/10/64129.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 世界名作劇場・完結版 トム・ソーヤーの冒険

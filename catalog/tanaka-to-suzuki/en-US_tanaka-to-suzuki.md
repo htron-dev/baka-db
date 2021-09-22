@@ -1,5 +1,7 @@
 # Tanaka to Suzuki
 
+![tanaka-to-suzuki](https://cdn.myanimelist.net/images/manga/3/241467.jpg)
+
 -   **type**: manga
 -   **original-name**: 田中と鈴木
 -   **start-date**: 2020-04-22

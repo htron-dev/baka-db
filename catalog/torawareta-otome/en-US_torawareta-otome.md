@@ -1,5 +1,7 @@
 # Torawareta Otome
 
+![torawareta-otome](https://cdn.myanimelist.net/images/manga/1/229262.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: とらわれた乙女

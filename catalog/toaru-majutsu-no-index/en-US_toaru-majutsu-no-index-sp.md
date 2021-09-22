@@ -1,5 +1,7 @@
 # Toaru Majutsu no Index SP
 
+![toaru-majutsu-no-index-sp](https://cdn.myanimelist.net/images/manga/2/58549.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

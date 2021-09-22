@@ -1,5 +1,7 @@
 # Tetsujin Gamma
 
+![tetsujin-gamma](https://cdn.myanimelist.net/images/manga/1/151829.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 117

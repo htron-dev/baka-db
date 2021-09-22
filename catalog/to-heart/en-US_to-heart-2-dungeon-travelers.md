@@ -1,5 +1,7 @@
 # To Heart 2: Dungeon Travelers
 
+![to-heart-2-dungeon-travelers](https://cdn.myanimelist.net/images/anime/8/74021.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ToHeart2 ダンジョントラベラーズ

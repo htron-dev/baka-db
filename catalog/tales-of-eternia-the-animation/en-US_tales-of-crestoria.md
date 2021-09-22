@@ -1,5 +1,7 @@
 # Tales of Crestoria
 
+![tales-of-crestoria](https://cdn.myanimelist.net/images/anime/1192/107274.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: テイルズ オブ クレストリア

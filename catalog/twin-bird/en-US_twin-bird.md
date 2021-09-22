@@ -1,5 +1,7 @@
 # Twin Bird
 
+![twin-bird](https://cdn.myanimelist.net/images/manga/3/95733.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ツインバード

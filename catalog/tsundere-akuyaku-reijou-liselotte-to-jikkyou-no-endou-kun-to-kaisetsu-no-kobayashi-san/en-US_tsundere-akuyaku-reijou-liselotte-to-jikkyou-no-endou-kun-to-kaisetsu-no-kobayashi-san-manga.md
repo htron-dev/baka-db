@@ -1,5 +1,7 @@
 # Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san
 
+![tsundere-akuyaku-reijou-liselotte-to-jikkyou-no-endou-kun-to-kaisetsu-no-kobayashi-san](https://cdn.myanimelist.net/images/manga/3/226206.jpg)
+
 -   **type**: manga
 -   **original-name**: ツンデレ悪役令嬢リーゼロッテと実況の遠藤くんと解説の小林さん
 -   **start-date**: 2019-06-05

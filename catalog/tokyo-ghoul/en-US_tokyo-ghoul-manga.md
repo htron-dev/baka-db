@@ -1,5 +1,7 @@
 # Tokyo Ghoul
 
+![tokyo-ghoul](https://cdn.myanimelist.net/images/manga/3/114037.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 144

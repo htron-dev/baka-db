@@ -1,5 +1,7 @@
 # Teirui Makura
 
+![teirui-makura](https://cdn.myanimelist.net/images/manga/4/42679.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

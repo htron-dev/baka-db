@@ -1,5 +1,7 @@
 # Toudo no Tabibito
 
+![toudo-no-tabibito](https://cdn.myanimelist.net/images/manga/2/161442.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Tatoe Hai ni Nattemo
 
+![tatoe-hai-ni-nattemo](https://cdn.myanimelist.net/images/manga/3/181617.jpg)
+
 -   **type**: manga
 -   **chapters**: 56
 -   **original-name**: たとえ灰になっても

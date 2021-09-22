@@ -1,5 +1,7 @@
 # Tenpou Ibun: Ayakashi Ayashi - Ayashi Shinkyoku
 
+![tenpou-ibun-ayakashi-ayashi-ayashi-shinkyoku](https://cdn.myanimelist.net/images/anime/9/50917.jpg)
+
 -   **type**: special
 -   **episodes**: 5
 -   **original-name**: 天保異聞 妖奇士 奇士神曲

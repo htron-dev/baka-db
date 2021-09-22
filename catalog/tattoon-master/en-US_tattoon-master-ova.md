@@ -1,5 +1,7 @@
 # Tattoon Master
 
+![tattoon-master](https://cdn.myanimelist.net/images/anime/12/20290.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: タトゥーン・マスター

@@ -1,5 +1,7 @@
 # Toribako House
 
+![toribako-house](https://cdn.myanimelist.net/images/manga/2/215097.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

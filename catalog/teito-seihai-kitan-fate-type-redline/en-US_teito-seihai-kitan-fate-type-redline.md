@@ -1,5 +1,7 @@
 # Teito Seihai Kitan: Fate/type Redline
 
+![teito-seihai-kitan-fate-type-redline](https://cdn.myanimelist.net/images/manga/2/234884.jpg)
+
 -   **type**: manga
 -   **original-name**: 帝都聖杯奇譚 Fate/type Redline
 -   **start-date**: 2019-12-20

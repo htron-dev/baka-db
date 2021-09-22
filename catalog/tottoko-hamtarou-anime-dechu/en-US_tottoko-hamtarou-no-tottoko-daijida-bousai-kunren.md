@@ -1,5 +1,7 @@
 # Tottoko Hamtarou no Tottoko Daijida!! Bousai Kunren
 
+![tottoko-hamtarou-no-tottoko-daijida-bousai-kunren](https://cdn.myanimelist.net/images/anime/2/84724.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: とっとこハム太郎のとっとこ大事だ!!　防災訓練

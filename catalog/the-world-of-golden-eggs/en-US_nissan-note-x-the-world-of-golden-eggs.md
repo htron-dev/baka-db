@@ -1,5 +1,7 @@
 # Nissan Note x The World of Golden Eggs
 
+![nissan-note-x-the-world-of-golden-eggs](https://cdn.myanimelist.net/images/anime/1278/108906.jpg)
+
 -   **type**: special
 -   **episodes**: 5
 -   **original-name**: NISSAN NOTE×The World of GOLDEN EGGS

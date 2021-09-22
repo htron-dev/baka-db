@@ -1,5 +1,7 @@
 # Joukyou Seikatsuroku Ichijou
 
+![joukyou-seikatsuroku-ichijou](https://cdn.myanimelist.net/images/manga/1/250314.jpg)
+
 -   **type**: manga
 -   **original-name**: 上京生活録イチジョウ
 -   **start-date**: 2021-01-21

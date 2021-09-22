@@ -1,5 +1,7 @@
 # Shin Tennis no Ouji-sama
 
+![shin-tennis-no-ouji-sama](https://cdn.myanimelist.net/images/anime/10/33591.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 新テニスの王子様

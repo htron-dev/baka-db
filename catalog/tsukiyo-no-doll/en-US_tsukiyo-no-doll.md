@@ -1,5 +1,7 @@
 # Tsukiyo no Doll
 
+![tsukiyo-no-doll](https://cdn.myanimelist.net/images/manga/2/169797.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

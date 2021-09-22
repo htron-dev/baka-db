@@ -1,5 +1,7 @@
 # Touchan wa Itsumo Shigotoba
 
+![touchan-wa-itsumo-shigotoba](https://cdn.myanimelist.net/images/manga/3/198597.jpg)
+
 -   **type**: manga
 -   **original-name**: 父ちゃんはいつも仕事場
 

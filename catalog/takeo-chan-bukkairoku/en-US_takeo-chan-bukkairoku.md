@@ -1,5 +1,7 @@
 # Takeo-chan Bukkairoku
 
+![takeo-chan-bukkairoku](https://cdn.myanimelist.net/images/manga/3/229859.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 35

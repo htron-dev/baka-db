@@ -1,5 +1,7 @@
 # Tsumi to Batsu
 
+![tsumi-to-batsu](https://cdn.myanimelist.net/images/manga/3/27869.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

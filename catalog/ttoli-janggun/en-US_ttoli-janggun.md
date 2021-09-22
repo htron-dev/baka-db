@@ -1,5 +1,7 @@
 # Ttoli Janggun
 
+![ttoli-janggun](https://cdn.myanimelist.net/images/anime/8/52401.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 똘이장군 제3땅굴편

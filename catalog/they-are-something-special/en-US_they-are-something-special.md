@@ -1,5 +1,7 @@
 # They are Something Special
 
+![they-are-something-special](https://cdn.myanimelist.net/images/manga/2/18790.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 11
 -   **original-name**: 잘나가는 그놈들에겐 뭔가 특별한 것이 있다

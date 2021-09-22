@@ -1,5 +1,7 @@
 # The God of High School
 
+![the-god-of-high-school](https://cdn.myanimelist.net/images/anime/1722/107269.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: THE GOD OF HIGH SCHOOL ゴッド・オブ・ハイスクール

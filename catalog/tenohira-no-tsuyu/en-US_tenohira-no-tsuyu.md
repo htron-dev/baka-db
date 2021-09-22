@@ -1,5 +1,7 @@
 # Tenohira no Tsuyu
 
+![tenohira-no-tsuyu](https://cdn.myanimelist.net/images/manga/2/172375.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 手のひらの露
 -   **start-date**: 2015-08-18

@@ -1,5 +1,7 @@
 # Tricky Prince
 
+![tricky-prince](https://cdn.myanimelist.net/images/manga/1/16116.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 悪戯王子; トリック・プリンス

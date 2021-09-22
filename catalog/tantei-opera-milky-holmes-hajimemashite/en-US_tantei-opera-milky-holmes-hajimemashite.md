@@ -1,5 +1,7 @@
 # Tantei Opera Milky Holmes: Hajimemashite.
 
+![tantei-opera-milky-holmes-hajimemashite](https://cdn.myanimelist.net/images/manga/1/152088.jpg)
+
 -   **type**: manga
 -   **original-name**: 探偵オペラ ミルキィホームズ はじめまして。
 -   **start-date**: 2014-11-08

@@ -1,5 +1,7 @@
 # Time Shift: Kimi to Mita Umi, Kimi ga Ita Sora
 
+![time-shift-kimi-to-mita-umi-kimi-ga-ita-sora](https://cdn.myanimelist.net/images/manga/3/201715.jpg)
+
 -   **type**: light-novel
 -   **original-name**: タイムシフト 君と見た海、君がいた空
 -   **start-date**: 2017-10-25

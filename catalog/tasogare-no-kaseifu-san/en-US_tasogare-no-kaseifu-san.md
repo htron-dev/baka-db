@@ -1,5 +1,7 @@
 # Tasogare no Kaseifu-san
 
+![tasogare-no-kaseifu-san](https://cdn.myanimelist.net/images/manga/2/91377.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

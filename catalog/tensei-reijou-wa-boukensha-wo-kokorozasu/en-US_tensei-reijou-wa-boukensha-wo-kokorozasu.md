@@ -1,5 +1,7 @@
 # Tensei Reijou wa Boukensha wo Kokorozasu
 
+![tensei-reijou-wa-boukensha-wo-kokorozasu](https://cdn.myanimelist.net/images/manga/3/245162.jpg)
+
 -   **type**: manga
 -   **original-name**: 転生令嬢は冒険者を志す
 -   **start-date**: 2019-05-25

@@ -1,5 +1,7 @@
 # Tsuki to Mizu no Yoru
 
+![tsuki-to-mizu-no-yoru](https://cdn.myanimelist.net/images/manga/5/87317.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

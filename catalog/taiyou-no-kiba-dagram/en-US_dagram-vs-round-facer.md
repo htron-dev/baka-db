@@ -1,5 +1,7 @@
 # Dagram vs. Round-Facer
 
+![dagram-vs-round-facer](https://cdn.myanimelist.net/images/anime/9/50183.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: DOUGRAM vs ROUND-FACER

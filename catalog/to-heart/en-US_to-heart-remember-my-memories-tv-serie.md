@@ -1,5 +1,7 @@
 # To Heart: Remember My Memories
 
+![to-heart-remember-my-memories](https://cdn.myanimelist.net/images/anime/10/75475.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: トゥハート ~remember my memories~

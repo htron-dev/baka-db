@@ -1,5 +1,7 @@
 # Tonari no Seki ni Natta Bishoujo ga Horesaseyou to Karakattekuru ga Itsunomanika Kaeriuchi ni Shiteita
 
+![tonari-no-seki-ni-natta-bishoujo-ga-horesaseyou-to-karakattekuru-ga-itsunomanika-kaeriuchi-ni-shiteita](https://cdn.myanimelist.net/images/manga/1/234808.jpg)
+
 -   **type**: manga
 -   **original-name**: 隣の席になった美少女が惚れさせようとからかってくるがいつの間にか返り討ちにしていた
 -   **start-date**: 2020-04-14

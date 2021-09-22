@@ -1,5 +1,7 @@
 # Tegamibachi Reverse
 
+![tegamibachi-reverse](https://cdn.myanimelist.net/images/anime/4/26472.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: テガミバチ REVERSE

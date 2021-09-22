@@ -1,5 +1,7 @@
 # T-sensei
 
+![t-sensei](https://cdn.myanimelist.net/images/manga/3/156055.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 43

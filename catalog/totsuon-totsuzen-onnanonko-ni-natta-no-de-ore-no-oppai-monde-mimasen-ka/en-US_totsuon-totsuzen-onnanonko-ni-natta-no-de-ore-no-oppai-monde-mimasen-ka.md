@@ -1,5 +1,7 @@
 # Totsuon!: Totsuzen Onnanonko ni Natta no de, Ore no Oppai Monde Mimasen ka?
 
+![totsuon-totsuzen-onnanonko-ni-natta-no-de-ore-no-oppai-monde-mimasen-ka](https://cdn.myanimelist.net/images/manga/2/143793.jpg)
+
 -   **type**: manga
 -   **original-name**: とつおん！ 突然女の子になったので、俺のおっぱい揉んでみませんか？
 -   **start-date**: 2012-06-08

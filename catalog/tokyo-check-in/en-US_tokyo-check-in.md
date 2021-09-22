@@ -1,5 +1,7 @@
 # Tokyo Check In
 
+![tokyo-check-in](https://cdn.myanimelist.net/images/manga/2/190558.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

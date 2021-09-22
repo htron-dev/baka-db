@@ -1,5 +1,7 @@
 # Tsumugi to Hakoniwa Monster
 
+![tsumugi-to-hakoniwa-monster](https://cdn.myanimelist.net/images/manga/3/202227.jpg)
+
 -   **type**: manga
 -   **chapters**: 5
 -   **original-name**: つむぎと箱庭モンスター

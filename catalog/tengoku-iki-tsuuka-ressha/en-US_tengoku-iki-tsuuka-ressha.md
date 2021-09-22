@@ -1,5 +1,7 @@
 # Tengoku iki Tsuuka Ressha
 
+![tengoku-iki-tsuuka-ressha](https://cdn.myanimelist.net/images/manga/2/206973.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

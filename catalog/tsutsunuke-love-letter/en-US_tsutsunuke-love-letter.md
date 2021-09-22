@@ -1,5 +1,7 @@
 # Tsutsunuke Love Letter
 
+![tsutsunuke-love-letter](https://cdn.myanimelist.net/images/manga/2/232378.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

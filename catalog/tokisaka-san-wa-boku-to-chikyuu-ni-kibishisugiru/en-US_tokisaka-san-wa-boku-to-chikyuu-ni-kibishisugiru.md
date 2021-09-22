@@ -1,5 +1,7 @@
 # Tokisaka-san wa Boku to Chikyuu ni Kibishisugiru.
 
+![tokisaka-san-wa-boku-to-chikyuu-ni-kibishisugiru](https://cdn.myanimelist.net/images/manga/3/144411.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 26

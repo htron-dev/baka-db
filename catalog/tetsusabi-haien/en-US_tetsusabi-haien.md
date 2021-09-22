@@ -1,5 +1,7 @@
 # Tetsusabi Haien
 
+![tetsusabi-haien](https://cdn.myanimelist.net/images/manga/3/90995.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 鉄錆廃園

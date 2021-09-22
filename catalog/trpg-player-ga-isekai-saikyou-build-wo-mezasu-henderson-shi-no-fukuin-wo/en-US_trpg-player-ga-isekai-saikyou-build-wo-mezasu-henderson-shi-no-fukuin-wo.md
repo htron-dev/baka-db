@@ -1,5 +1,7 @@
 # TRPG Player ga Isekai Saikyou Build wo Mezasu: Henderson-shi no Fukuin wo
 
+![trpg-player-ga-isekai-saikyou-build-wo-mezasu-henderson-shi-no-fukuin-wo](https://cdn.myanimelist.net/images/manga/2/246508.jpg)
+
 -   **type**: light-novel
 -   **original-name**: TRPG プレイヤーが異世界で最強ビルドを目指す～ヘンダーソン氏の福音を～
 -   **start-date**: 2020-04-24

@@ -1,5 +1,7 @@
 # The Kidnapping of Minja Jo's Boyfriend
 
+![the-kidnapping-of-minja-jos-boyfriend](https://cdn.myanimelist.net/images/manga/3/5085.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 7

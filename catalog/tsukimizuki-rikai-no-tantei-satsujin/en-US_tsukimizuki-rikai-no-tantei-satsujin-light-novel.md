@@ -1,5 +1,7 @@
 # Tsukimizuki Rikai no Tantei Satsujin
 
+![tsukimizuki-rikai-no-tantei-satsujin](https://cdn.myanimelist.net/images/manga/1/215100.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 43

@@ -1,5 +1,7 @@
 # Tekitou na Maid no Oneesan to Erasou de Ichizu na Bocchan
 
+![tekitou-na-maid-no-oneesan-to-erasou-de-ichizu-na-bocchan](https://cdn.myanimelist.net/images/manga/1/222275.jpg)
+
 -   **type**: manga
 -   **original-name**: テキトーなメイドのお姉さんと偉そうで一途な坊っちゃん
 -   **start-date**: 2018-05-26

@@ -1,5 +1,7 @@
 # Tennis no Ouji-sama Movie 2: Eikokushiki Teikyuu Shiro Kessen!
 
+![tennis-no-ouji-sama-movie-2-eikokushiki-teikyuu-shiro-kessen](https://cdn.myanimelist.net/images/anime/3/32079.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版テニスの王子様 英国式庭球城決戦！

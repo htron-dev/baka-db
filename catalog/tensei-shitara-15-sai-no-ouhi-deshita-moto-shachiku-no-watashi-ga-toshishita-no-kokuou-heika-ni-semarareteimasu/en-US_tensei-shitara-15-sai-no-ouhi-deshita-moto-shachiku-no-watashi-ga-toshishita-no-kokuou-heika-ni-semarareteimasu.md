@@ -1,5 +1,7 @@
 # Tensei shitara 15-sai no Ouhi deshita: Moto Shachiku no Watashi ga, Toshishita no Kokuou Heika ni Semarareteimasu!?
 
+![tensei-shitara-15-sai-no-ouhi-deshita-moto-shachiku-no-watashi-ga-toshishita-no-kokuou-heika-ni-semarareteimasu](https://cdn.myanimelist.net/images/manga/2/239114.jpg)
+
 -   **type**: manga
 -   **original-name**: 転生したら 15 歳の王妃でした～元社畜の私が、年下の国王陛下に迫られています!?～
 -   **start-date**: 2020-05-28

@@ -1,5 +1,7 @@
 # There Goes Tomoe!
 
+![there-goes-tomoe](https://cdn.myanimelist.net/images/manga/3/6909.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 巴がゆく！

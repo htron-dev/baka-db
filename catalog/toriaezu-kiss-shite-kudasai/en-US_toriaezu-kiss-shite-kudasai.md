@@ -1,5 +1,7 @@
 # Toriaezu Kiss shite Kudasai
 
+![toriaezu-kiss-shite-kudasai](https://cdn.myanimelist.net/images/manga/2/223202.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

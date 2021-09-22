@@ -1,5 +1,7 @@
 # The North Face Japan CMs
 
+![the-north-face-japan-c-ms](https://cdn.myanimelist.net/images/anime/1653/105668.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: The North Face Japan

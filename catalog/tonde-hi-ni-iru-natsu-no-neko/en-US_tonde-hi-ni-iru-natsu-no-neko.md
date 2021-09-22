@@ -1,5 +1,7 @@
 # Tonde Hi ni Iru Natsu no Neko
 
+![tonde-hi-ni-iru-natsu-no-neko](https://cdn.myanimelist.net/images/manga/1/192811.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

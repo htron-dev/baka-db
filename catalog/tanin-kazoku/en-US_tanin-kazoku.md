@@ -1,5 +1,7 @@
 # Tanin Kazoku
 
+![tanin-kazoku](https://cdn.myanimelist.net/images/manga/2/151967.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

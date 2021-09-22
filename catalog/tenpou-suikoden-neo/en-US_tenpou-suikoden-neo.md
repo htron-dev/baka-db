@@ -1,5 +1,7 @@
 # Tenpou Suikoden Neo
 
+![tenpou-suikoden-neo](https://cdn.myanimelist.net/images/anime/2/46523.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 5
 -   **original-name**: 天保水滸伝 NEO

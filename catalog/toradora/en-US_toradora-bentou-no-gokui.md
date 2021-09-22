@@ -1,5 +1,7 @@
 # Toradora!: Bentou no Gokui
 
+![toradora-bentou-no-gokui](https://cdn.myanimelist.net/images/anime/1756/104652.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: とらドラ！ 弁当の極意

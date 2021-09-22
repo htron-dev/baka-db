@@ -1,5 +1,7 @@
 # Tonikaku Kawaii
 
+![tonikaku-kawaii](https://cdn.myanimelist.net/images/anime/1613/108722.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: トニカクカワイイ

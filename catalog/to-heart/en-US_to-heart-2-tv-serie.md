@@ -1,5 +1,7 @@
 # To Heart 2
 
+![to-heart-2](https://cdn.myanimelist.net/images/anime/3/57423.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: トゥハート 2

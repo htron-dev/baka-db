@@ -1,5 +1,7 @@
 # Kami no Tou
 
+![kami-no-tou](https://cdn.myanimelist.net/images/anime/1702/106229.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 神之塔 -Tower of God-

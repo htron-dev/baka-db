@@ -1,5 +1,7 @@
 # Tetsuichi
 
+![tetsuichi](https://cdn.myanimelist.net/images/manga/2/180600.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 73

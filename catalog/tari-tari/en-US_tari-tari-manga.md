@@ -1,5 +1,7 @@
 # Tari Tari
 
+![tari-tari](https://cdn.myanimelist.net/images/manga/3/71697.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 7

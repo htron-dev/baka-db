@@ -1,5 +1,7 @@
 # Totsuzen Papa ni Natta Saikyou Dragon no Kosodate Nikki: Kawaii Musume, Honobono to Ningenkai Saikyou ni Sodatsu
 
+![totsuzen-papa-ni-natta-saikyou-dragon-no-kosodate-nikki-kawaii-musume-honobono-to-ningenkai-saikyou-ni-sodatsu](https://cdn.myanimelist.net/images/manga/3/246075.jpg)
+
 -   **type**: manga
 -   **original-name**: 突然パパになった最強ドラゴンの子育て日記～かわいい娘、ほのぼのと人間界最強に育つ〜
 -   **start-date**: 2020-10-30

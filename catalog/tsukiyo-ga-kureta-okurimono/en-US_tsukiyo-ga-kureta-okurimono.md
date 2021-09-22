@@ -1,5 +1,7 @@
 # Tsukiyo ga Kureta Okurimono
 
+![tsukiyo-ga-kureta-okurimono](https://cdn.myanimelist.net/images/manga/1/63253.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1
