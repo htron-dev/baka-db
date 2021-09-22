@@ -1,5 +1,7 @@
 # Wasureta Furi wo Shite
 
+![wasureta-furi-wo-shite](https://cdn.myanimelist.net/images/anime/1384/108596.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 忘れたフリをして

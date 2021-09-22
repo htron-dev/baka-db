@@ -1,5 +1,7 @@
 # Wareware no Heya
 
+![wareware-no-heya](https://cdn.myanimelist.net/images/anime/13/82244.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: われわれの部屋

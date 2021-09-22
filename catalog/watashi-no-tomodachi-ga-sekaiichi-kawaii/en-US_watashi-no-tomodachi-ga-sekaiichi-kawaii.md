@@ -1,5 +1,7 @@
 # Watashi no Tomodachi ga Sekaiichi Kawaii
 
+![watashi-no-tomodachi-ga-sekaiichi-kawaii](https://cdn.myanimelist.net/images/manga/2/223953.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

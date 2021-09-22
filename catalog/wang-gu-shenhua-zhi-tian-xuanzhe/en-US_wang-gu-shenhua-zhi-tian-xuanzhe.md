@@ -1,5 +1,7 @@
 # Wang Gu Shenhua Zhi Tian Xuanzhe
 
+![wang-gu-shenhua-zhi-tian-xuanzhe](https://cdn.myanimelist.net/images/anime/1915/106921.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 望古神话之天选者

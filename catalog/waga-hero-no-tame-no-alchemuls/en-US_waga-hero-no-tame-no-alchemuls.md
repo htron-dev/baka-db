@@ -1,5 +1,7 @@
 # Waga Hero no Tame no Alchemuls
 
+![waga-hero-no-tame-no-alchemuls](https://cdn.myanimelist.net/images/manga/2/177913.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 17

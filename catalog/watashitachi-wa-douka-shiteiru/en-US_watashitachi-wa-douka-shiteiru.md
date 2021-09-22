@@ -1,5 +1,7 @@
 # Watashitachi wa Douka shiteiru
 
+![watashitachi-wa-douka-shiteiru](https://cdn.myanimelist.net/images/manga/2/194771.jpg)
+
 -   **type**: manga
 -   **original-name**: 私たちはどうかしている
 -   **start-date**: 2016-12-01

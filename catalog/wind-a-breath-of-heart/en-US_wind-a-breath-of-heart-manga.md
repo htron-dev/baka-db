@@ -1,5 +1,7 @@
 # Wind: A Breath of Heart
 
+![wind-a-breath-of-heart](https://cdn.myanimelist.net/images/manga/3/35032.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Wind - a breath of heart- OFFICIAL COMIC

@@ -1,5 +1,7 @@
 # Waga Na wa Nero
 
+![waga-na-wa-nero](https://cdn.myanimelist.net/images/manga/1/178423.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

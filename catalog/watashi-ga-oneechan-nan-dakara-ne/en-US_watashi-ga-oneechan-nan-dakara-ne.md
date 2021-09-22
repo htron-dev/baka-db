@@ -1,5 +1,7 @@
 # Watashi ga Oneechan Nan Dakara ne!
 
+![watashi-ga-oneechan-nan-dakara-ne](https://cdn.myanimelist.net/images/manga/3/134175.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

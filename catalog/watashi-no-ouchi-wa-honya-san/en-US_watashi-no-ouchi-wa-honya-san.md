@@ -1,5 +1,7 @@
 # Watashi no Ouchi wa Honya-san
 
+![watashi-no-ouchi-wa-honya-san](https://cdn.myanimelist.net/images/manga/3/133743.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 43

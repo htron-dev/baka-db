@@ -1,5 +1,7 @@
 # Mirai Koushi Harima SACLA
 
+![mirai-koushi-harima-sacla](https://cdn.myanimelist.net/images/anime/4/56911.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 未来光子 播磨サクラ

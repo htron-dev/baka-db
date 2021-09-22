@@ -1,5 +1,7 @@
 # Wagahai wa Vidocq
 
+![wagahai-wa-vidocq](https://cdn.myanimelist.net/images/manga/3/140169.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: わが輩はヴィドック

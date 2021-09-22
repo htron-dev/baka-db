@@ -1,5 +1,7 @@
 # Warui Onnanoko
 
+![warui-onnanoko](https://cdn.myanimelist.net/images/manga/1/226793.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 31

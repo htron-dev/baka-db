@@ -1,5 +1,7 @@
 # W's
 
+![ws](https://cdn.myanimelist.net/images/manga/3/185483.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

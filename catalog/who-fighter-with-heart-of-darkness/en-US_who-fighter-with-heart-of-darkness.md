@@ -1,5 +1,7 @@
 # Who Fighter with Heart of Darkness
 
+![who-fighter-with-heart-of-darkness](https://cdn.myanimelist.net/images/manga/5/112819.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Whistle! (ONA)
 
+![whistle-ona](https://cdn.myanimelist.net/images/anime/7/83133.jpg)
+
 -   **type**: ona
 -   **original-name**: ホイッスル！
 -   **start-date**: 2016-12-17

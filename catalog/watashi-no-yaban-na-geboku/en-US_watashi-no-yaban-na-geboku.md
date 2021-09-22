@@ -1,5 +1,7 @@
 # Watashi no Yaban na Geboku
 
+![watashi-no-yaban-na-geboku](https://cdn.myanimelist.net/images/manga/2/34962.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

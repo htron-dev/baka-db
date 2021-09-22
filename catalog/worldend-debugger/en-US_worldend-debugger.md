@@ -1,5 +1,7 @@
 # Worldend:Debugger
 
+![worldend-debugger](https://cdn.myanimelist.net/images/manga/1/146745.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

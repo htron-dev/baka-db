@@ -1,5 +1,7 @@
 # www.You are so Busted.com
 
+![www-you-are-so-busted-com](https://cdn.myanimelist.net/images/manga/3/18232.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 

@@ -1,5 +1,7 @@
 # Wild Bouquet
 
+![wild-bouquet](https://cdn.myanimelist.net/images/manga/2/19741.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: ワイルドブーケ想いを綴る花の名は

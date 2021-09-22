@@ -1,5 +1,7 @@
 # Washio Sumi wa Yuusha de Aru
 
+![washio-sumi-wa-yuusha-de-aru](https://cdn.myanimelist.net/images/manga/3/144295.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

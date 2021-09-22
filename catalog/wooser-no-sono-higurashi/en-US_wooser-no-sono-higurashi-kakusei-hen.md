@@ -1,5 +1,7 @@
 # Wooser no Sono Higurashi: Kakusei-hen
 
+![wooser-no-sono-higurashi-kakusei-hen](https://cdn.myanimelist.net/images/anime/1347/102594.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: うーさーのその日暮らし　覚醒編

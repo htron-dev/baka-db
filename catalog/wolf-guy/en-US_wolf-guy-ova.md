@@ -1,5 +1,7 @@
 # Wolf Guy
 
+![wolf-guy](https://cdn.myanimelist.net/images/anime/1290/94492.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: ウルフガイ

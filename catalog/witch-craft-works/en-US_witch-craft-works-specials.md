@@ -1,5 +1,7 @@
 # Witch Craft Works Specials
 
+![witch-craft-works-specials](https://cdn.myanimelist.net/images/anime/12/73603.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: なぜなに！？うぃっちくらふとわ～くす

@@ -1,5 +1,7 @@
 # Wakaokami wa Toshishita Onzoushi ni Miryou sareru
 
+![wakaokami-wa-toshishita-onzoushi-ni-miryou-sareru](https://cdn.myanimelist.net/images/manga/1/195124.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 若女将は年下御曹司に魅了される

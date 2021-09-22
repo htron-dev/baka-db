@@ -1,5 +1,7 @@
 # Walking Man
 
+![walking-man](https://cdn.myanimelist.net/images/anime/2/73782.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **start-date**: 2002-01-20

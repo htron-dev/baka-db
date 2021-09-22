@@ -1,5 +1,7 @@
 # Watashi no Coffee Samurai: Jihanki-teki na Kareshi
 
+![watashi-no-coffee-samurai-jihanki-teki-na-kareshi](https://cdn.myanimelist.net/images/anime/8/35497.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: わたしのコーヒー・サムライ ～自販機的な彼氏～

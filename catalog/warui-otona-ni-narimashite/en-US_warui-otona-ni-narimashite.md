@@ -1,5 +1,7 @@
 # Warui Otona ni Narimashite
 
+![warui-otona-ni-narimashite](https://cdn.myanimelist.net/images/manga/2/224814.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

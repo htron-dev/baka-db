@@ -1,5 +1,7 @@
 # Winner's Circle e Youkoso
 
+![winners-circle-e-youkoso](https://cdn.myanimelist.net/images/manga/3/185184.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 81

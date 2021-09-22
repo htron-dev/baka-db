@@ -1,5 +1,7 @@
 # Wonder Momo
 
+![wonder-momo](https://cdn.myanimelist.net/images/anime/8/58783.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: ワンダーモモ

@@ -1,5 +1,7 @@
 # Wake Up, Girls! Deai no Kiroku: A Brief Recording
 
+![wake-up-girls-deai-no-kiroku-a-brief-recording](https://cdn.myanimelist.net/images/anime/13/72844.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: Wake Up, Girls! 出逢いの記録 ～ A Brief Recording ～

@@ -1,5 +1,7 @@
 # Witch Craft Works
 
+![witch-craft-works](https://cdn.myanimelist.net/images/manga/2/113229.jpg)
+
 -   **type**: manga
 -   **original-name**: ウィッチクラフトワークス
 -   **start-date**: 2010-03-05

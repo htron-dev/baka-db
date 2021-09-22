@@ -1,5 +1,7 @@
 # Witch Craft 109
 
+![witch-craft-109](https://cdn.myanimelist.net/images/manga/2/21448.jpg)
+
 -   **type**: manga
 -   **original-name**: ウィッチクラフト 109
 -   **start-date**: 2006-01-20

@@ -1,5 +1,7 @@
 # Washio Sumi wa Yuusha de Aru
 
+![washio-sumi-wa-yuusha-de-aru](https://cdn.myanimelist.net/images/manga/1/185838.jpg)
+
 -   **type**: manga
 -   **original-name**: 鷲尾須美は勇者である
 -   **start-date**: 2014-06-30

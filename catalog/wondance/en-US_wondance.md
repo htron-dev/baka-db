@@ -1,5 +1,7 @@
 # Wondance
 
+![wondance](https://cdn.myanimelist.net/images/manga/2/230764.jpg)
+
 -   **type**: manga
 -   **original-name**: ワンダンス
 -   **start-date**: 2019-01-25

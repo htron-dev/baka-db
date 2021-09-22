@@ -1,5 +1,7 @@
 # Wangan Midnight: C1 Runner
 
+![wangan-midnight-c-1-runner](https://cdn.myanimelist.net/images/manga/1/157049.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: 湾岸ミッドナイト C1 ランナー

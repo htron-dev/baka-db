@@ -1,5 +1,7 @@
 # Wan Guo Zhi
 
+![wan-guo-zhi](https://cdn.myanimelist.net/images/anime/1835/105725.jpg)
+
 -   **type**: ona
 -   **episodes**: 16
 -   **original-name**: 万国志

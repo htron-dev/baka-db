@@ -1,5 +1,7 @@
 # Warui Otoko Warui Onna
 
+![warui-otoko-warui-onna](https://cdn.myanimelist.net/images/manga/2/10822.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ワルい男ワルい女

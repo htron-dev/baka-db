@@ -1,5 +1,7 @@
 # White Guardian
 
+![white-guardian](https://cdn.myanimelist.net/images/manga/2/5477.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

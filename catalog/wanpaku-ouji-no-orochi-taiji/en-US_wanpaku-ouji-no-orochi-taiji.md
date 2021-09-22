@@ -1,5 +1,7 @@
 # Wanpaku Ouji no Orochi Taiji
 
+![wanpaku-ouji-no-orochi-taiji](https://cdn.myanimelist.net/images/anime/11/58415.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: わんぱく王子の大蛇退治

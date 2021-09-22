@@ -1,5 +1,7 @@
 # Waltraute-san no Konkatsu Jijou
 
+![waltraute-san-no-konkatsu-jijou](https://cdn.myanimelist.net/images/manga/2/121459.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

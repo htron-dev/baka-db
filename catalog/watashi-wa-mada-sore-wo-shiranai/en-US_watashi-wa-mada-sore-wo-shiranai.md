@@ -1,5 +1,7 @@
 # Watashi wa Mada Sore wo Shiranai
 
+![watashi-wa-mada-sore-wo-shiranai](https://cdn.myanimelist.net/images/manga/2/100869.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

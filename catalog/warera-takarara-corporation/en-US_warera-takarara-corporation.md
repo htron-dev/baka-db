@@ -1,5 +1,7 @@
 # Warera Takarara Corporation
 
+![warera-takarara-corporation](https://cdn.myanimelist.net/images/manga/1/2492.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 6

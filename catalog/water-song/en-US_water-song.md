@@ -1,5 +1,7 @@
 # Water Song
 
+![water-song](https://cdn.myanimelist.net/images/manga/2/139599.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ウォーターソング

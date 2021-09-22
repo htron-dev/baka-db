@@ -1,5 +1,7 @@
 # Wansa-kun OVA
 
+![wansa-kun-ova](https://cdn.myanimelist.net/images/anime/3/55809.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ワンサくん

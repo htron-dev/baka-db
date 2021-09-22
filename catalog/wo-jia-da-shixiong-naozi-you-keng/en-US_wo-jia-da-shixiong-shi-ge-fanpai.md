@@ -1,5 +1,7 @@
 # Wo Jia Da Shixiong Shi Ge Fanpai
 
+![wo-jia-da-shixiong-shi-ge-fanpai](https://cdn.myanimelist.net/images/anime/1764/109493.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 我家大师兄是个反派

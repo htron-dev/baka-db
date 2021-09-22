@@ -1,5 +1,7 @@
 # Kare Baka: Wagahai no Kare wa Baka de R
 
+![kare-baka-wagahai-no-kare-wa-baka-de-r](https://cdn.myanimelist.net/images/anime/2/76734.jpg)
+
 -   **type**: ona
 -   **episodes**: 8
 -   **original-name**: カレバカ～吾輩ノ彼ハ馬鹿で R ～

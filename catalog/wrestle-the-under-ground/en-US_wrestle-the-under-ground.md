@@ -1,5 +1,7 @@
 # Wrestle! The Under Ground
 
+![wrestle-the-under-ground](https://cdn.myanimelist.net/images/manga/2/158620.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

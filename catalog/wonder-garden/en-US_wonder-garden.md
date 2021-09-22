@@ -1,5 +1,7 @@
 # Wonder Garden
 
+![wonder-garden](https://cdn.myanimelist.net/images/anime/2/55383.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: WONDER GARDEN

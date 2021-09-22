@@ -1,5 +1,7 @@
 # Weiß Survive
 
+![weiss-survive](https://cdn.myanimelist.net/images/anime/10/17261.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 16
 -   **original-name**: ヴァイス・サヴァイヴ

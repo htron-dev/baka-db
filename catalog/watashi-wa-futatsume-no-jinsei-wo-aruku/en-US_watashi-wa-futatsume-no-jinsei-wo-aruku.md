@@ -1,5 +1,7 @@
 # Watashi wa Futatsume no Jinsei wo Aruku!
 
+![watashi-wa-futatsume-no-jinsei-wo-aruku](https://cdn.myanimelist.net/images/manga/3/201813.jpg)
+
 -   **type**: light-novel
 -   **original-name**: わたしはふたつめの人生をあるく！
 -   **start-date**: 2016-06-15

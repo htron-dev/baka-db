@@ -1,5 +1,7 @@
 # World Customize Creator
 
+![world-customize-creator](https://cdn.myanimelist.net/images/manga/1/128673.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: ワールド･カスタマイズ･クリエーター

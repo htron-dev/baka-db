@@ -1,5 +1,7 @@
 # Wan Jie Shen Zhu 2nd Season
 
+![wan-jie-shen-zhu-2nd-season](https://cdn.myanimelist.net/images/anime/1600/105797.jpg)
+
 -   **type**: ona
 -   **episodes**: 48
 -   **original-name**: 万界神主 第二季

@@ -1,5 +1,7 @@
 # Watashi wo Tsuki made Tsuretette!
 
+![watashi-wo-tsuki-made-tsuretette](https://cdn.myanimelist.net/images/manga/3/12784.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 54

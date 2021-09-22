@@ -1,5 +1,7 @@
 # With -Shiawase no aru Basho-
 
+![with-shiawase-no-aru-basho](https://cdn.myanimelist.net/images/manga/3/76617.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

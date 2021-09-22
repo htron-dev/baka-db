@@ -1,5 +1,7 @@
 # Wakarazuya no Renai Houteishiki
 
+![wakarazuya-no-renai-houteishiki](https://cdn.myanimelist.net/images/manga/3/229794.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # World Fool News
 
+![world-fool-news](https://cdn.myanimelist.net/images/anime/6/63067.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: ワールド フールニュース

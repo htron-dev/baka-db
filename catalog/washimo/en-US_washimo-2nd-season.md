@@ -1,5 +1,7 @@
 # Washimo 2nd Season
 
+![washimo-2nd-season](https://cdn.myanimelist.net/images/anime/5/70011.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: わしも 第 2 シリーズ

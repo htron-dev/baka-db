@@ -1,5 +1,7 @@
 # Watashi no...... Osananajimi
 
+![watashi-no-osananajimi](https://cdn.myanimelist.net/images/manga/1/199509.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

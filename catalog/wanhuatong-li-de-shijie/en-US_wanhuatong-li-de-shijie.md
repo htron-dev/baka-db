@@ -1,5 +1,7 @@
 # Wanhuatong Li De Shijie
 
+![wanhuatong-li-de-shijie](https://cdn.myanimelist.net/images/anime/1034/115487.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 20
 -   **original-name**: 万花筒里的世界

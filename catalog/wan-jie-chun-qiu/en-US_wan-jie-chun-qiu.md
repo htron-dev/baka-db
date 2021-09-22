@@ -1,5 +1,7 @@
 # Wan Jie Chun Qiu
 
+![wan-jie-chun-qiu](https://cdn.myanimelist.net/images/anime/1886/107254.jpg)
+
 -   **type**: ona
 -   **episodes**: 56
 -   **original-name**: 万界春秋

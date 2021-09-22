@@ -1,5 +1,7 @@
 # Watashi no Shiikugakari-kun
 
+![watashi-no-shiikugakari-kun](https://cdn.myanimelist.net/images/manga/2/204651.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

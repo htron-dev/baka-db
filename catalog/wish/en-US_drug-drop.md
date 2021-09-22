@@ -1,5 +1,7 @@
 # Drug & Drop
 
+![drug-drop](https://cdn.myanimelist.net/images/manga/3/84971.jpg)
+
 -   **type**: manga
 -   **original-name**: ドラッグ＆ドロップ
 -   **start-date**: 2011-11-04

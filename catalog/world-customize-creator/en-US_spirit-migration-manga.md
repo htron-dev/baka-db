@@ -1,5 +1,7 @@
 # Spirit Migration
 
+![spirit-migration](https://cdn.myanimelist.net/images/manga/1/196182.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

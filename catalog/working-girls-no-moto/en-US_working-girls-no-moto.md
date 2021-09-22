@@ -1,5 +1,7 @@
 # Working Girls no Moto
 
+![working-girls-no-moto](https://cdn.myanimelist.net/images/manga/1/28251.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ワーキングガールの素

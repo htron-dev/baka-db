@@ -1,5 +1,7 @@
 # Wild★Kingdom
 
+![wild★-kingdom](https://cdn.myanimelist.net/images/manga/3/180826.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 28

@@ -1,5 +1,7 @@
 # Warashi
 
+![warashi](https://cdn.myanimelist.net/images/manga/1/97261.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 37

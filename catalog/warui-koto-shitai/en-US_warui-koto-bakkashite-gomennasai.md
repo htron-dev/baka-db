@@ -1,5 +1,7 @@
 # Warui Koto Bakkashite Gomennasai
 
+![warui-koto-bakkashite-gomennasai](https://cdn.myanimelist.net/images/manga/3/30736.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

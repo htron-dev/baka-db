@@ -1,5 +1,7 @@
 # Fetish Doll
 
+![fetish-doll](https://cdn.myanimelist.net/images/anime/12/73762.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: FETISH DOLL

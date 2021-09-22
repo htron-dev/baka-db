@@ -1,5 +1,7 @@
 # Wakeari Shoukanshi no Konyaku: Meifu no Mukae wa Kyohishimasu
 
+![wakeari-shoukanshi-no-konyaku-meifu-no-mukae-wa-kyohishimasu](https://cdn.myanimelist.net/images/manga/1/161851.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

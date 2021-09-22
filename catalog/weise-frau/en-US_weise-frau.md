@@ -1,5 +1,7 @@
 # Weise Frau
 
+![weise-frau](https://cdn.myanimelist.net/images/manga/1/15166.jpg)
+
 -   **type**: manga
 -   **original-name**: ヴァイゼフラウ
 -   **start-date**: 2007-03-27

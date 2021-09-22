@@ -1,5 +1,7 @@
 # Warau Salesman Episode 0
 
+![warau-salesman-episode-0](https://cdn.myanimelist.net/images/anime/7/84708.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 笑ゥせぇるすまん 第 0 話 プロローグ

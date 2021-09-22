@@ -1,5 +1,7 @@
 # Wakakusa no Yon Shimai
 
+![wakakusa-no-yon-shimai](https://cdn.myanimelist.net/images/anime/12/80150.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 若草の四姉妹

@@ -1,5 +1,7 @@
 # Wakeari Bukken Keiyakuchuu: Charisma Uranaishi to Fukigen na Koibito
 
+![wakeari-bukken-keiyakuchuu-charisma-uranaishi-to-fukigen-na-koibito](https://cdn.myanimelist.net/images/manga/3/192671.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

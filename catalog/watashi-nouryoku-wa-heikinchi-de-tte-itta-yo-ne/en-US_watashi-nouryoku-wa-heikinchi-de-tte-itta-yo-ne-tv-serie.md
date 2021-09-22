@@ -1,5 +1,7 @@
 # Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!
 
+![watashi-nouryoku-wa-heikinchi-de-tte-itta-yo-ne](https://cdn.myanimelist.net/images/anime/1205/111403.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 私、能力は平均値でって言ったよね!

@@ -1,5 +1,7 @@
 # Who Made Me a Princess
 
+![who-made-me-a-princess](https://cdn.myanimelist.net/images/manga/1/222587.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 어느 날 공주가 되어버렸다
 -   **start-date**: 2017-12-20

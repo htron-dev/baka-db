@@ -1,5 +1,7 @@
 # Wakusei Sutakola
 
+![wakusei-sutakola](https://cdn.myanimelist.net/images/manga/3/170576.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 惑星スタコラ

@@ -1,5 +1,7 @@
 # Watashi to Anata no Seishun Kakumei.
 
+![watashi-to-anata-no-seishun-kakumei](https://cdn.myanimelist.net/images/manga/1/164381.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 私とあなたの青春革命。

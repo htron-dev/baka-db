@@ -1,5 +1,7 @@
 # White Fantasy
 
+![white-fantasy](https://cdn.myanimelist.net/images/anime/8/69485.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: #KSWISS_ALLWHITE PROJECT 「WHITE FANTASY」

@@ -1,5 +1,7 @@
 # Wanwanwan Coin
 
+![wanwanwan-coin](https://cdn.myanimelist.net/images/anime/12/81612.jpg)
+
 -   **type**: ona
 -   **episodes**: 15
 -   **original-name**: わんわんわんコイン

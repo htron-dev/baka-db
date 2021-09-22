@@ -1,5 +1,7 @@
 # Wellber no Monogatari: Sisters of Wellber
 
+![wellber-no-monogatari-sisters-of-wellber](https://cdn.myanimelist.net/images/anime/13/23585.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ウエルベールの物語 Sisters of Wellber

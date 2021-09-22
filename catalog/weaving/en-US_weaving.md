@@ -1,5 +1,7 @@
 # Weaving
 
+![weaving](https://cdn.myanimelist.net/images/anime/2/88393.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: weaving

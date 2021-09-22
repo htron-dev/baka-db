@@ -1,5 +1,7 @@
 # Wagamama Kitchen
 
+![wagamama-kitchen](https://cdn.myanimelist.net/images/manga/1/1422.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

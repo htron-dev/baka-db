@@ -1,5 +1,7 @@
 # Watashi Igai Jinrui Zenin Yuri
 
+![watashi-igai-jinrui-zenin-yuri](https://cdn.myanimelist.net/images/manga/3/219650.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

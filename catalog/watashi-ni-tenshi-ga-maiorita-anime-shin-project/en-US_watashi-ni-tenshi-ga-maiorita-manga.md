@@ -1,5 +1,7 @@
 # Watashi ni Tenshi ga Maiorita!
 
+![watashi-ni-tenshi-ga-maiorita](https://cdn.myanimelist.net/images/manga/1/196509.jpg)
+
 -   **type**: manga
 -   **original-name**: 私に天使が舞い降りた！
 -   **start-date**: 2016-11-18

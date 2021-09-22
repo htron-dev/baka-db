@@ -1,5 +1,7 @@
 # Watashitachi wa Minna Oppai
 
+![watashitachi-wa-minna-oppai](https://cdn.myanimelist.net/images/manga/1/126751.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: わたしたちは皆おっぱい

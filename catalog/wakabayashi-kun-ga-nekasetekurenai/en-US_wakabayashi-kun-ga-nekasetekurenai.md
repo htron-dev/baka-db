@@ -1,5 +1,7 @@
 # Wakabayashi-kun ga Nekasetekurenai
 
+![wakabayashi-kun-ga-nekasetekurenai](https://cdn.myanimelist.net/images/manga/2/173440.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 69

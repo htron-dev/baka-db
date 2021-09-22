@@ -1,5 +1,7 @@
 # Wild Cleaner
 
+![wild-cleaner](https://cdn.myanimelist.net/images/anime/1046/109077.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Wild Cleaner

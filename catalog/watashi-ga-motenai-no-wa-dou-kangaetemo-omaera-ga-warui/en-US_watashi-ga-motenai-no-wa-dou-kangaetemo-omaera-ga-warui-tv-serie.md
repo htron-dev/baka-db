@@ -1,5 +1,7 @@
 # Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!
 
+![watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui](https://cdn.myanimelist.net/images/anime/12/51619.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 私がモテないのはどう考えてもお前らが悪い!

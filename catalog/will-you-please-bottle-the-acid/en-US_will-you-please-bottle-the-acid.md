@@ -1,5 +1,7 @@
 # Will You Please Bottle the Acid?
 
+![will-you-please-bottle-the-acid](https://cdn.myanimelist.net/images/manga/1/237743.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 26

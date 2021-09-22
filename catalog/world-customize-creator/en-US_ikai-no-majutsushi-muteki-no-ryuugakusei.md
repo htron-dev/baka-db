@@ -1,5 +1,7 @@
 # Ikai no Majutsushi: Muteki no Ryuugakusei
 
+![ikai-no-majutsushi-muteki-no-ryuugakusei](https://cdn.myanimelist.net/images/manga/2/233946.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 異界の魔術士 無敵の留学生

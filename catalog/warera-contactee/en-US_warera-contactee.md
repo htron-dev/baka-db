@@ -1,5 +1,7 @@
 # Warera Contactee
 
+![warera-contactee](https://cdn.myanimelist.net/images/manga/3/203662.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

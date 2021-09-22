@@ -1,5 +1,7 @@
 # Weiß Survive R
 
+![weiss-survive-r](https://cdn.myanimelist.net/images/anime/7/24032.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ヴァイス・サヴァイヴ R

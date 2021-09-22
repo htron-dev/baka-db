@@ -1,5 +1,7 @@
 # Yume Senshi Wingman
 
+![yume-senshi-wingman](https://cdn.myanimelist.net/images/anime/7/75183.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 47
 -   **original-name**: 夢戦士ウイングマン

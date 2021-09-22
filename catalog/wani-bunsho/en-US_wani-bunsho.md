@@ -1,5 +1,7 @@
 # Wani Bunsho
 
+![wani-bunsho](https://cdn.myanimelist.net/images/manga/1/182222.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 27

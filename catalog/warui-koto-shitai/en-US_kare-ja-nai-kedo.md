@@ -1,5 +1,7 @@
 # Kare ja Nai kedo
 
+![kare-ja-nai-kedo](https://cdn.myanimelist.net/images/manga/2/86337.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

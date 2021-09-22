@@ -1,5 +1,7 @@
 # Watashi dake no Sultan: Wakaki Sabaku no Ou to Junjou-hime
 
+![watashi-dake-no-sultan-wakaki-sabaku-no-ou-to-junjou-hime](https://cdn.myanimelist.net/images/manga/3/183108.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Watashi no Tame ni Nuginasai!
 
+![watashi-no-tame-ni-nuginasai](https://cdn.myanimelist.net/images/manga/3/215909.jpg)
+
 -   **type**: manga
 -   **original-name**: わたしのために脱ぎなさいっ!
 -   **start-date**: 2017-12-27

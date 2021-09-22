@@ -1,5 +1,7 @@
 # Wakeari Madoushi wa Shizuka ni Kurashitai
 
+![wakeari-madoushi-wa-shizuka-ni-kurashitai](https://cdn.myanimelist.net/images/manga/2/223783.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

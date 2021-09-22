@@ -1,5 +1,7 @@
 # Wagamamana Hitomi
 
+![wagamamana-hitomi](https://cdn.myanimelist.net/images/manga/1/60663.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

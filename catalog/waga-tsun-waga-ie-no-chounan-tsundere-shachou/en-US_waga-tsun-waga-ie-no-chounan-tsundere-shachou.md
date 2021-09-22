@@ -1,5 +1,7 @@
 # Waga Tsun - Waga Ie no Chounan Tsundere Shachou
 
+![waga-tsun-waga-ie-no-chounan-tsundere-shachou](https://cdn.myanimelist.net/images/manga/2/42102.jpg)
+
 -   **type**: manga
 -   **original-name**: わがツン　わが家の長男ツンデレ社長
 

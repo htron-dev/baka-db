@@ -1,5 +1,7 @@
 # Wang Er Shan
 
+![wang-er-shan](https://cdn.myanimelist.net/images/anime/1192/115597.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 望儿山

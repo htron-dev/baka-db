@@ -1,5 +1,7 @@
 # Kusunoki Mebuki wa Yuusha de Aru
 
+![kusunoki-mebuki-wa-yuusha-de-aru](https://cdn.myanimelist.net/images/manga/3/204686.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

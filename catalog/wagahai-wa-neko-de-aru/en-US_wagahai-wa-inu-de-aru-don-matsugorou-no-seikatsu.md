@@ -1,5 +1,7 @@
 # Wagahai wa Inu de Aru: Don Matsugorou no Seikatsu
 
+![wagahai-wa-inu-de-aru-don-matsugorou-no-seikatsu](https://cdn.myanimelist.net/images/anime/6/63091.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 吾輩は犬である ドン松五郎の生活

@@ -1,5 +1,7 @@
 # Wrestle! Idol
 
+![wrestle-idol](https://cdn.myanimelist.net/images/manga/2/156378.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: レッする!アイドル

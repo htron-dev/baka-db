@@ -1,5 +1,7 @@
 # Weiß Kreuz
 
+![weiss-kreuz](https://cdn.myanimelist.net/images/anime/13/23697.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: Weiß kreuz 　ヴァイス　クロイツ

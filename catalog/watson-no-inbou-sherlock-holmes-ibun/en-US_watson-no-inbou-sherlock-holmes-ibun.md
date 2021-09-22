@@ -1,5 +1,7 @@
 # Watson no Inbou: Sherlock Holmes Ibun
 
+![watson-no-inbou-sherlock-holmes-ibun](https://cdn.myanimelist.net/images/manga/2/247478.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 10

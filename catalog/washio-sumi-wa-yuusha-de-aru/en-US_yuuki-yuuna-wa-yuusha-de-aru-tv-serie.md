@@ -1,5 +1,7 @@
 # Yuuki Yuuna wa Yuusha de Aru
 
+![yuuki-yuuna-wa-yuusha-de-aru](https://cdn.myanimelist.net/images/anime/8/77057.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 結城友奈は勇者である

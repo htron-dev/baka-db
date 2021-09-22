@@ -1,5 +1,7 @@
 # Wagamama Wanko No Shitsukekata
 
+![wagamama-wanko-no-shitsukekata](https://cdn.myanimelist.net/images/manga/3/40390.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

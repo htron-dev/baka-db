@@ -1,5 +1,7 @@
 # Wet Moon
 
+![wet-moon](https://cdn.myanimelist.net/images/manga/2/138987.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

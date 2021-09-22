@@ -1,5 +1,7 @@
 # Wakaki Taketora-kun no Nayami
 
+![wakaki-taketora-kun-no-nayami](https://cdn.myanimelist.net/images/manga/2/232789.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

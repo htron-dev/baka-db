@@ -1,5 +1,7 @@
 # War Angels
 
+![war-angels](https://cdn.myanimelist.net/images/manga/3/26991.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 6

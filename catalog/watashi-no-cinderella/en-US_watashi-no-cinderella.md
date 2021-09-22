@@ -1,5 +1,7 @@
 # Watashi no Cinderella
 
+![watashi-no-cinderella](https://cdn.myanimelist.net/images/manga/2/10067.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

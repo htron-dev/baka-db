@@ -1,5 +1,7 @@
 # Wakadanna no Hiroi Neko
 
+![wakadanna-no-hiroi-neko](https://cdn.myanimelist.net/images/manga/2/235141.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

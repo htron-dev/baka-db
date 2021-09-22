@@ -1,5 +1,7 @@
 # Watashi wo Shokutaku ni Tsuretette: Shimada no High Tension Sakuhinshuu
 
+![watashi-wo-shokutaku-ni-tsuretette-shimada-no-high-tension-sakuhinshuu](https://cdn.myanimelist.net/images/manga/2/233522.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

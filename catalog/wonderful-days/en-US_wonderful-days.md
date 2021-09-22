@@ -1,5 +1,7 @@
 # Wonderful Days
 
+![wonderful-days](https://cdn.myanimelist.net/images/manga/1/33342.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: ワンダフルデイズ

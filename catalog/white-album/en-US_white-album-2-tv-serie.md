@@ -1,5 +1,7 @@
 # White Album 2
 
+![white-album-2](https://cdn.myanimelist.net/images/anime/2/53561.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ホワイトアルバム 2

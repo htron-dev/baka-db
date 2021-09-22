@@ -1,5 +1,7 @@
 # Warawanakute Ii noni
 
+![warawanakute-ii-noni](https://cdn.myanimelist.net/images/manga/2/229341.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

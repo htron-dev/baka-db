@@ -1,5 +1,7 @@
 # Wan Pug!
 
+![wan-pug](https://cdn.myanimelist.net/images/manga/3/155038.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: わんぱぐ!

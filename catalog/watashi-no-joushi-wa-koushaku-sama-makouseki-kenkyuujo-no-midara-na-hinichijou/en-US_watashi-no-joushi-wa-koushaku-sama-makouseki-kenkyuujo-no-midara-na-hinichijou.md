@@ -1,5 +1,7 @@
 # Watashi no Joushi wa Koushaku-sama: Makouseki Kenkyuujo no Midara na Hinichijou
 
+![watashi-no-joushi-wa-koushaku-sama-makouseki-kenkyuujo-no-midara-na-hinichijou](https://cdn.myanimelist.net/images/manga/1/195697.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

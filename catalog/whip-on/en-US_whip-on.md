@@ -1,5 +1,7 @@
 # Whip On!
 
+![whip-on](https://cdn.myanimelist.net/images/manga/2/135567.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

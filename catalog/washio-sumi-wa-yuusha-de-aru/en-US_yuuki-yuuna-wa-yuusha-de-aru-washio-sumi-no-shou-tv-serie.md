@@ -1,5 +1,7 @@
 # Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou
 
+![yuuki-yuuna-wa-yuusha-de-aru-washio-sumi-no-shou](https://cdn.myanimelist.net/images/anime/7/83012.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 6
 -   **original-name**: 結城友奈は勇者である -鷲尾須美の章-

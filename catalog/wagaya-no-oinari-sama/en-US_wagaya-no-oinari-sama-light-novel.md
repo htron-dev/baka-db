@@ -1,5 +1,7 @@
 # Wagaya no Oinari-sama.
 
+![wagaya-no-oinari-sama](https://cdn.myanimelist.net/images/manga/1/15424.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 我が家のお稲荷さま。
 -   **start-date**: 2004-02-10

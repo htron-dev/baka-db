@@ -1,5 +1,7 @@
 # Eily wa Ou-sama!
 
+![eily-wa-ou-sama](https://cdn.myanimelist.net/images/anime/1069/103379.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: エイリは王さま!

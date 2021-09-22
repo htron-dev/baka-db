@@ -1,5 +1,7 @@
 # Wahhaman
 
+![wahhaman](https://cdn.myanimelist.net/images/manga/2/19414.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 95

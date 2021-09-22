@@ -1,5 +1,7 @@
 # Wake Up, Girl Zoo!
 
+![wake-up-girl-zoo](https://cdn.myanimelist.net/images/anime/10/65537.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: うぇいくあっぷがーる ZOO！

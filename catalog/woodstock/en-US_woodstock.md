@@ -1,5 +1,7 @@
 # Woodstock
 
+![woodstock](https://cdn.myanimelist.net/images/manga/2/132581.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 135

@@ -1,5 +1,7 @@
 # Wakare no Daishou
 
+![wakare-no-daishou](https://cdn.myanimelist.net/images/manga/1/247023.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 別れの代償

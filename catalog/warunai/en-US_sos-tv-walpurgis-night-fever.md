@@ -1,5 +1,7 @@
 # SOS TV Walpurgis Night Fever
 
+![sos-tv-walpurgis-night-fever](https://cdn.myanimelist.net/images/anime/8/24004.jpg)
+
 -   **type**: ona
 -   **episodes**: 11
 -   **original-name**: ワルプルギスナイトフィーバー

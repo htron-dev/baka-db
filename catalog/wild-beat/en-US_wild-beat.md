@@ -1,5 +1,7 @@
 # Wild Beat
 
+![wild-beat](https://cdn.myanimelist.net/images/manga/1/11778.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ワイルド BEAT

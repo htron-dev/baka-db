@@ -1,5 +1,7 @@
 # Watashi dake no Koukennin
 
+![watashi-dake-no-koukennin](https://cdn.myanimelist.net/images/manga/1/155650.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: わたしだけの後見人

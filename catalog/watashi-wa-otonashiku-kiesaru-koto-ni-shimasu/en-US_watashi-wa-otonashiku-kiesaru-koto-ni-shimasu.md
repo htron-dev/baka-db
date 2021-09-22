@@ -1,5 +1,7 @@
 # Watashi wa Otonashiku Kiesaru Koto ni Shimasu
 
+![watashi-wa-otonashiku-kiesaru-koto-ni-shimasu](https://cdn.myanimelist.net/images/manga/1/229274.jpg)
+
 -   **type**: manga
 -   **original-name**: 私はおとなしく消え去ることにします
 -   **start-date**: 2019-07-10

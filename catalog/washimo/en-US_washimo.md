@@ -1,5 +1,7 @@
 # Washimo
 
+![washimo](https://cdn.myanimelist.net/images/anime/11/58721.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: わしも

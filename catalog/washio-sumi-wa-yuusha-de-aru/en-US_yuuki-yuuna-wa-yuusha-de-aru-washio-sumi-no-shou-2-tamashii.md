@@ -1,5 +1,7 @@
 # Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou 2 - Tamashii
 
+![yuuki-yuuna-wa-yuusha-de-aru-washio-sumi-no-shou-2-tamashii](https://cdn.myanimelist.net/images/anime/9/86480.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 結城友奈は勇者である -鷲尾須美の章- 第２章「たましい」

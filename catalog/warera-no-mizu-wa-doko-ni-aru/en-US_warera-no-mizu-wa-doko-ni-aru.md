@@ -1,5 +1,7 @@
 # Warera no Mizu wa Doko ni Aru
 
+![warera-no-mizu-wa-doko-ni-aru](https://cdn.myanimelist.net/images/manga/2/33044.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

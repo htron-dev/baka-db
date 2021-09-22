@@ -1,5 +1,7 @@
 # Wakakusa Gakuen Koutoubu
 
+![wakakusa-gakuen-koutoubu](https://cdn.myanimelist.net/images/manga/2/151481.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 若草学園高等部

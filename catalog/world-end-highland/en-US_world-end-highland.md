@@ -1,5 +1,7 @@
 # World End Highland
 
+![world-end-highland](https://cdn.myanimelist.net/images/manga/3/194280.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ワールドエンド・ハイランド
 -   **start-date**: 2017-04-25

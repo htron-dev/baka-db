@@ -1,5 +1,7 @@
 # Wan Jie Shen Zhu 3rd Season
 
+![wan-jie-shen-zhu-3rd-season](https://cdn.myanimelist.net/images/anime/1436/113495.jpg)
+
 -   **type**: ona
 -   **episodes**: 48
 -   **original-name**: 万界神主 第三季

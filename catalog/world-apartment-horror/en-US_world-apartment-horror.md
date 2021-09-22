@@ -1,5 +1,7 @@
 # World Apartment Horror
 
+![world-apartment-horror](https://cdn.myanimelist.net/images/manga/1/29222.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

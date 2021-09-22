@@ -1,5 +1,7 @@
 # Wait! Wolf
 
+![wait-wolf](https://cdn.myanimelist.net/images/manga/2/18230.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 18
 

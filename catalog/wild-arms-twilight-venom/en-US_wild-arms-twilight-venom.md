@@ -1,5 +1,7 @@
 # Wild Arms: Twilight Venom
 
+![wild-arms-twilight-venom](https://cdn.myanimelist.net/images/anime/1532/94186.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: ワイルドアームズ トワイライトヴェノム

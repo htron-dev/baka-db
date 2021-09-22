@@ -1,5 +1,7 @@
 # Witch Hunt
 
+![witch-hunt](https://cdn.myanimelist.net/images/manga/1/171755.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 88
 -   **original-name**: 마녀사냥

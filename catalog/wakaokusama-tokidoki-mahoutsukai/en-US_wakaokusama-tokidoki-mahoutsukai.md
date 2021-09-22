@@ -1,5 +1,7 @@
 # Wakaokusama, Tokidoki Mahoutsukai.
 
+![wakaokusama-tokidoki-mahoutsukai](https://cdn.myanimelist.net/images/manga/3/238309.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 若奥様、ときどき魔法使い。

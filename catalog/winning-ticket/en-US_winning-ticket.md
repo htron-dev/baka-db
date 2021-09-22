@@ -1,5 +1,7 @@
 # Winning Ticket
 
+![winning-ticket](https://cdn.myanimelist.net/images/manga/3/81540.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **chapters**: 218

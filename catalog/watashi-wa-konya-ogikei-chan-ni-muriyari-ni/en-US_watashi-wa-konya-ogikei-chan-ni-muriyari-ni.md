@@ -1,5 +1,7 @@
 # Watashi wa Konya, Ogikei-chan ni Muriyari ni......
 
+![watashi-wa-konya-ogikei-chan-ni-muriyari-ni](https://cdn.myanimelist.net/images/manga/1/193723.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

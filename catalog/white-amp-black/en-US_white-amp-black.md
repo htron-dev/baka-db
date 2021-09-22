@@ -1,5 +1,7 @@
 # White &amp; Black
 
+![white-amp-black](https://cdn.myanimelist.net/images/manga/1/182532.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

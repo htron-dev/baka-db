@@ -1,5 +1,7 @@
 # Wake Up, Girl Zoo! Miyagi PR de Go!
 
+![wake-up-girl-zoo-miyagi-pr-de-go](https://cdn.myanimelist.net/images/anime/8/79534.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: うぇいくあっぷがーる ZOO！ 宮城 PR で GO！

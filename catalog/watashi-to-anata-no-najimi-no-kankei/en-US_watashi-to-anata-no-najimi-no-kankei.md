@@ -1,5 +1,7 @@
 # Watashi to Anata no Najimi no Kankei
 
+![watashi-to-anata-no-najimi-no-kankei](https://cdn.myanimelist.net/images/manga/1/156210.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

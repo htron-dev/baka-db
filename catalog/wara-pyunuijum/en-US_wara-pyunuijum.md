@@ -1,5 +1,7 @@
 # Wara! Pyunuijum
 
+![wara-pyunuijum](https://cdn.myanimelist.net/images/manga/3/106193.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 와라! 편의점
 -   **start-date**: 2008-07-02

@@ -1,5 +1,7 @@
 # Wish: Tatta Hitotsu no Negaigoto
 
+![wish-tatta-hitotsu-no-negaigoto](https://cdn.myanimelist.net/images/manga/1/177757.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

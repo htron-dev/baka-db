@@ -1,5 +1,7 @@
 # Wanwan Monogatari: Kanemochi no Inu ni Shite to wa Itta ga, Fenrir ni Shiro to wa Itte Nee!
 
+![wanwan-monogatari-kanemochi-no-inu-ni-shite-to-wa-itta-ga-fenrir-ni-shiro-to-wa-itte-nee](https://cdn.myanimelist.net/images/manga/1/202994.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ワンワン物語 ～金持ちの犬にしてとは言ったが、フェンリルにしろとは言ってねえ！～
 -   **start-date**: 2017-11-01

@@ -1,5 +1,7 @@
 # Watashi ga Mama yo
 
+![watashi-ga-mama-yo](https://cdn.myanimelist.net/images/manga/3/164827.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 44

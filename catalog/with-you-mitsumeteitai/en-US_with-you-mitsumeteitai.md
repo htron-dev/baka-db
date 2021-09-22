@@ -1,5 +1,7 @@
 # With You: Mitsumeteitai
 
+![with-you-mitsumeteitai](https://cdn.myanimelist.net/images/anime/1038/96384.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: With You ~みつめていたい~

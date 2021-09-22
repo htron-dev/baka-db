@@ -1,5 +1,7 @@
 # Scrap Diary
 
+![scrap-diary](https://cdn.myanimelist.net/images/anime/3/88365.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: スクラップ・ダイアリー

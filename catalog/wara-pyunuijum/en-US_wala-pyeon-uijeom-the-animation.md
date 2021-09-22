@@ -1,5 +1,7 @@
 # Wala! Pyeon-uijeom The Animation
 
+![wala-pyeon-uijeom-the-animation](https://cdn.myanimelist.net/images/anime/7/45722.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 와라! 편의점 the animation

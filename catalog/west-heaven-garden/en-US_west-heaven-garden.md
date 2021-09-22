@@ -1,5 +1,7 @@
 # West Heaven Garden
 
+![west-heaven-garden](https://cdn.myanimelist.net/images/manga/4/15772.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **original-name**: 서천화원

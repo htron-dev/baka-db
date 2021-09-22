@@ -1,5 +1,7 @@
 # Witch Guild Fantasia
 
+![witch-guild-fantasia](https://cdn.myanimelist.net/images/manga/1/221862.jpg)
+
 -   **type**: manga
 -   **original-name**: ウィッチギルド ファンタジア
 -   **start-date**: 2017-12-25

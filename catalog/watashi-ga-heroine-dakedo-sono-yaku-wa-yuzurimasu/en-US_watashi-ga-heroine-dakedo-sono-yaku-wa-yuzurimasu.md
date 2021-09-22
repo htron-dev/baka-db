@@ -1,5 +1,7 @@
 # Watashi ga Heroine dakedo, Sono Yaku wa Yuzurimasu
 
+![watashi-ga-heroine-dakedo-sono-yaku-wa-yuzurimasu](https://cdn.myanimelist.net/images/manga/2/239646.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

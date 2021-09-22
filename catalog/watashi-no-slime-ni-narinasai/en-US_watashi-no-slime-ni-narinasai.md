@@ -1,5 +1,7 @@
 # Watashi no Slime ni Narinasai!
 
+![watashi-no-slime-ni-narinasai](https://cdn.myanimelist.net/images/manga/2/164076.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

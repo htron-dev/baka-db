@@ -1,5 +1,7 @@
 # What's Michael? 2
 
+![whats-michael-2](https://cdn.myanimelist.net/images/anime/7/33925.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ホワッツマイケル? 2

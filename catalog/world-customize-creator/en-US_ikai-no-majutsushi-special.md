@@ -1,5 +1,7 @@
 # Ikai no Majutsushi Special+
 
+![ikai-no-majutsushi-special](https://cdn.myanimelist.net/images/manga/2/233945.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 異界の魔術士 Special+

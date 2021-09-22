@@ -1,5 +1,7 @@
 # Wild Arms XF
 
+![wild-arms-xf](https://cdn.myanimelist.net/images/manga/2/80047.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ワイルドアームズ XF

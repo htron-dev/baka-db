@@ -1,5 +1,7 @@
 # Yuuki Yuuna wa Yuusha de Aru: Hidamari
 
+![yuuki-yuuna-wa-yuusha-de-aru-hidamari](https://cdn.myanimelist.net/images/anime/7/89061.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 結城友奈は勇者である 総集編「ひだまり」

@@ -1,5 +1,7 @@
 # Wolfull Moon
 
+![wolfull-moon](https://cdn.myanimelist.net/images/manga/3/84381.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

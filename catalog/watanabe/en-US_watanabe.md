@@ -1,5 +1,7 @@
 # Watanabe
 
+![watanabe](https://cdn.myanimelist.net/images/manga/2/26470.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 39

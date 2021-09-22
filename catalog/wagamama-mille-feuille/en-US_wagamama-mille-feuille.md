@@ -1,5 +1,7 @@
 # Wagamama Mille-Feuille
 
+![wagamama-mille-feuille](https://cdn.myanimelist.net/images/manga/1/113765.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Watashi, Nichijou wa Heikinchi de tte Itta yo ne!
 
+![watashi-nichijou-wa-heikinchi-de-tte-itta-yo-ne](https://cdn.myanimelist.net/images/manga/3/245725.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 40

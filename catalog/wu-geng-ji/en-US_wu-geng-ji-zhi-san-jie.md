@@ -1,5 +1,7 @@
 # Wu Geng Ji Zhi San Jie
 
+![wu-geng-ji-zhi-san-jie](https://cdn.myanimelist.net/images/anime/1000/116470.jpg)
+
 -   **type**: ona
 -   **episodes**: 42
 -   **original-name**: 武庚纪之三界

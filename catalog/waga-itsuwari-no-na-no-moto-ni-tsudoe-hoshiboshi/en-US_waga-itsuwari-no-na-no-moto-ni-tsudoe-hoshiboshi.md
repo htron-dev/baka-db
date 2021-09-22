@@ -1,5 +1,7 @@
 # Waga Itsuwari no Na no Moto ni Tsudoe, Hoshiboshi
 
+![waga-itsuwari-no-na-no-moto-ni-tsudoe-hoshiboshi](https://cdn.myanimelist.net/images/manga/3/196698.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 我が偽りの名の下に集え、星々
 -   **start-date**: 2017-05-30

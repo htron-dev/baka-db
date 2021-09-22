@@ -1,5 +1,7 @@
 # Ai no Wakakusa Monogatari Specials
 
+![ai-no-wakakusa-monogatari-specials](https://cdn.myanimelist.net/images/anime/6/42395.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 愛の若草物語

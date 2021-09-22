@@ -1,5 +1,7 @@
 # Watashi wa Anata no Inu ni Naru
 
+![watashi-wa-anata-no-inu-ni-naru](https://cdn.myanimelist.net/images/manga/1/192561.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

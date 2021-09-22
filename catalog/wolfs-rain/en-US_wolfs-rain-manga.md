@@ -1,5 +1,7 @@
 # Wolf's Rain
 
+![wolfs-rain](https://cdn.myanimelist.net/images/manga/2/181408.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

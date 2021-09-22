@@ -1,5 +1,7 @@
 # Wasurerarenai Getsuyoubi
 
+![wasurerarenai-getsuyoubi](https://cdn.myanimelist.net/images/manga/3/227443.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 忘れられない月曜日

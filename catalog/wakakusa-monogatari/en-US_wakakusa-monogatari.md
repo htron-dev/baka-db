@@ -1,5 +1,7 @@
 # Wakakusa Monogatari
 
+![wakakusa-monogatari](https://cdn.myanimelist.net/images/manga/2/248274.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

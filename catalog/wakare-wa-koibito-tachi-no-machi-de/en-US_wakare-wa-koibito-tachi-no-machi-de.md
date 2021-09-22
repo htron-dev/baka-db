@@ -1,5 +1,7 @@
 # Wakare wa Koibito-tachi no Machi de
 
+![wakare-wa-koibito-tachi-no-machi-de](https://cdn.myanimelist.net/images/manga/2/227568.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 別れは恋人たちの街で

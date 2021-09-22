@@ -1,5 +1,7 @@
 # Wang Zhe Wai Chuan
 
+![wang-zhe-wai-chuan](https://cdn.myanimelist.net/images/anime/1357/98777.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 王者歪传

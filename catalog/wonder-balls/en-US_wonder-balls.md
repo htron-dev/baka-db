@@ -1,5 +1,7 @@
 # Wonder Balls
 
+![wonder-balls](https://cdn.myanimelist.net/images/anime/1674/115257.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 원더볼즈

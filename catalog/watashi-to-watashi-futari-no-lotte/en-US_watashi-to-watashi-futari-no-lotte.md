@@ -1,5 +1,7 @@
 # Watashi to Watashi: Futari no Lotte
 
+![watashi-to-watashi-futari-no-lotte](https://cdn.myanimelist.net/images/anime/10/17854.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 29
 -   **original-name**: わたしとわたし～ふたりのロッテ

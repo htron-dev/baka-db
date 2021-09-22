@@ -1,5 +1,7 @@
 # Wataru Seken wa Baka bakari
 
+![wataru-seken-wa-baka-bakari](https://cdn.myanimelist.net/images/manga/1/162695.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

@@ -1,5 +1,7 @@
 # Waraenai Riyuu
 
+![waraenai-riyuu](https://cdn.myanimelist.net/images/manga/1/84535.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

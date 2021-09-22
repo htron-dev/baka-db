@@ -1,5 +1,7 @@
 # Wa Wa Wa Wappi-chan
 
+![wa-wa-wa-wappi-chan](https://cdn.myanimelist.net/images/anime/11/79393.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 和・和・和 ワッピちゃん

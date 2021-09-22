@@ -1,5 +1,7 @@
 # Wo Shi Da Shenxian 2nd Season
 
+![wo-shi-da-shenxian-2nd-season](https://cdn.myanimelist.net/images/anime/1016/112909.jpg)
+
 -   **type**: ona
 -   **episodes**: 16
 -   **original-name**: 我是大神仙 第二季

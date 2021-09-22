@@ -1,5 +1,7 @@
 # Witch and Peter
 
+![witch-and-peter](https://cdn.myanimelist.net/images/manga/4/27924.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 마녀와 피터
 

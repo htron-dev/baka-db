@@ -1,5 +1,7 @@
 # Wagamama na Karada
 
+![wagamama-na-karada](https://cdn.myanimelist.net/images/manga/2/88881.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

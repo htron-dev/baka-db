@@ -1,5 +1,7 @@
 # Wakusei Robo Danguard Ace: Uchuu Daikaisen
 
+![wakusei-robo-danguard-ace-uchuu-daikaisen](https://cdn.myanimelist.net/images/anime/10/62699.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 惑星ロボ ダンガード A[エース] 宇宙大海戦

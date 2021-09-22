@@ -1,5 +1,7 @@
 # W-Pinch!!
 
+![w-pinch](https://cdn.myanimelist.net/images/manga/3/64629.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

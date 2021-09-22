@@ -1,5 +1,7 @@
 # Wanwan Sanjuushi
 
+![wanwan-sanjuushi](https://cdn.myanimelist.net/images/anime/5/22968.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ワンワン三銃士

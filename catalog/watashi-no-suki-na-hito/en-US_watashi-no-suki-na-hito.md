@@ -1,5 +1,7 @@
 # Watashi no Suki na Hito
 
+![watashi-no-suki-na-hito](https://cdn.myanimelist.net/images/manga/2/144271.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

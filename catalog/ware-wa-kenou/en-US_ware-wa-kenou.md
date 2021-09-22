@@ -1,5 +1,7 @@
 # Ware wa Kenou!!
 
+![ware-wa-kenou](https://cdn.myanimelist.net/images/manga/2/34816.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

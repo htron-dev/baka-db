@@ -1,5 +1,7 @@
 # Watashi no...... Saiaku na Kareshi
 
+![watashi-no-saiaku-na-kareshi](https://cdn.myanimelist.net/images/manga/3/199424.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

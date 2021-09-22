@@ -1,5 +1,7 @@
 # Who Killed Cock Robin?
 
+![who-killed-cock-robin](https://cdn.myanimelist.net/images/manga/3/32024.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **original-name**: 누가 울새를 죽였나?

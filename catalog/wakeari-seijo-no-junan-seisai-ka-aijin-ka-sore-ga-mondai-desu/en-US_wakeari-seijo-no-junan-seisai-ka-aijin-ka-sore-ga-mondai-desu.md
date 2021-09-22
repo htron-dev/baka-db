@@ -1,5 +1,7 @@
 # Wakeari Seijo no Junan: Seisai ka Aijin ka, Sore ga Mondai desu!
 
+![wakeari-seijo-no-junan-seisai-ka-aijin-ka-sore-ga-mondai-desu](https://cdn.myanimelist.net/images/manga/2/189723.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

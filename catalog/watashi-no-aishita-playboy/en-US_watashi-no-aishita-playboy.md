@@ -1,5 +1,7 @@
 # Watashi no Aishita Playboy
 
+![watashi-no-aishita-playboy](https://cdn.myanimelist.net/images/manga/2/227510.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 私の愛したプレイボーイ

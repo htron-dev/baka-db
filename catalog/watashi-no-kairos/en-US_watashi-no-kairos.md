@@ -1,5 +1,7 @@
 # Watashi no Kairos
 
+![watashi-no-kairos](https://cdn.myanimelist.net/images/manga/1/179161.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

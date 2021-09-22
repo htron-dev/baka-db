@@ -1,5 +1,7 @@
 # Watashi ga Motete Dousunda
 
+![watashi-ga-motete-dousunda](https://cdn.myanimelist.net/images/anime/4/81953.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 私がモテてどうすんだ

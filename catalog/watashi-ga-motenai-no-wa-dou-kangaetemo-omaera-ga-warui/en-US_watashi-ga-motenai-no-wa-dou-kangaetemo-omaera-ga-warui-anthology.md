@@ -1,5 +1,7 @@
 # Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! Anthology
 
+![watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui-anthology](https://cdn.myanimelist.net/images/manga/2/107211.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

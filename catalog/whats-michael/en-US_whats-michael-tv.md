@@ -1,5 +1,7 @@
 # What's Michael? (TV)
 
+![whats-michael-tv](https://cdn.myanimelist.net/images/anime/6/33927.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 45
 -   **original-name**: ホワッツマイケル?

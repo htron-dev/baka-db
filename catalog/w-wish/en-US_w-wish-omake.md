@@ -1,5 +1,7 @@
 # W: Wish Omake
 
+![w-wish-omake](https://cdn.myanimelist.net/images/anime/13/27554.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: W 〜ウィッシュ〜

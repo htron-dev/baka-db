@@ -1,5 +1,7 @@
 # Wangu Xian Qiong III: Eren Gu Pian
 
+![wangu-xian-qiong-iii-eren-gu-pian](https://cdn.myanimelist.net/images/anime/1873/102645.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 万古仙穹 Ⅲ 恶人谷篇

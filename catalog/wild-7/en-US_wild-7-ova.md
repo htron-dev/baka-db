@@ -1,5 +1,7 @@
 # Wild 7
 
+![wild-7](https://cdn.myanimelist.net/images/anime/1886/96607.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ワイルド７

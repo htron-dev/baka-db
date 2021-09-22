@@ -1,5 +1,7 @@
 # Watashi wo Tabetai, Hitodenashi
 
+![watashi-wo-tabetai-hitodenashi](https://cdn.myanimelist.net/images/manga/3/242456.jpg)
+
 -   **type**: manga
 -   **original-name**: 私を喰べたい、ひとでなし
 -   **start-date**: 2020-08-27

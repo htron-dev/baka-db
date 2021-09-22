@@ -1,5 +1,7 @@
 # Ikai no Majutsushi
 
+![ikai-no-majutsushi](https://cdn.myanimelist.net/images/manga/1/233944.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **original-name**: 異界の魔術士

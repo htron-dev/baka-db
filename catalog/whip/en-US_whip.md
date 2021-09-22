@@ -1,5 +1,7 @@
 # Whip!
 
+![whip](https://cdn.myanimelist.net/images/manga/3/217409.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

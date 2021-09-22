@@ -1,5 +1,7 @@
 # Wakabaryou de, Kimi to
 
+![wakabaryou-de-kimi-to](https://cdn.myanimelist.net/images/manga/1/161100.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

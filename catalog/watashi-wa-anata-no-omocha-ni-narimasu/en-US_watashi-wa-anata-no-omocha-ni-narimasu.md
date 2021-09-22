@@ -1,5 +1,7 @@
 # Watashi wa Anata no Omocha ni Narimasu
 
+![watashi-wa-anata-no-omocha-ni-narimasu](https://cdn.myanimelist.net/images/manga/3/194642.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: わたしはあなたの玩具になります

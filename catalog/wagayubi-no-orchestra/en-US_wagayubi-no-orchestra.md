@@ -1,5 +1,7 @@
 # Wagayubi no Orchestra
 
+![wagayubi-no-orchestra](https://cdn.myanimelist.net/images/manga/2/161312.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 38

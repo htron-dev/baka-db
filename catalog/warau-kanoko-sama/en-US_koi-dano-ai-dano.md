@@ -1,5 +1,7 @@
 # Koi dano Ai dano
 
+![koi-dano-ai-dano](https://cdn.myanimelist.net/images/manga/2/164400.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 46

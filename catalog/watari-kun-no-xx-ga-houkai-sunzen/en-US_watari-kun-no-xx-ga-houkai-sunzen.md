@@ -1,5 +1,7 @@
 # Watari-kun no xx ga Houkai Sunzen
 
+![watari-kun-no-xx-ga-houkai-sunzen](https://cdn.myanimelist.net/images/manga/2/158603.jpg)
+
 -   **type**: manga
 -   **original-name**: 渡くんの ×× が崩壊寸前
 -   **start-date**: 2014-08-04

@@ -1,5 +1,7 @@
 # Wizard Barristers: Benmashi Cecil
 
+![wizard-barristers-benmashi-cecil](https://cdn.myanimelist.net/images/anime/9/58145.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ウィザード・バリスターズ～弁魔士セシル

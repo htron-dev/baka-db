@@ -1,5 +1,7 @@
 # Wanko Number One
 
+![wanko-number-one](https://cdn.myanimelist.net/images/manga/2/149713.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 44

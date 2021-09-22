@@ -1,5 +1,7 @@
 # Witch Shop
 
+![witch-shop](https://cdn.myanimelist.net/images/manga/1/63427.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 9
 -   **original-name**: 마녀의 가게

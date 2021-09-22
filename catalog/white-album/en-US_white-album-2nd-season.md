@@ -1,5 +1,7 @@
 # White Album 2nd Season
 
+![white-album-2nd-season](https://cdn.myanimelist.net/images/anime/7/43541.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: WHITE ALBUM 第 2 期

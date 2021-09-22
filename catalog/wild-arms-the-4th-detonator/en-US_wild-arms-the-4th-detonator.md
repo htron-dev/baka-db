@@ -1,5 +1,7 @@
 # Wild Arms: the 4th Detonator
 
+![wild-arms-the-4th-detonator](https://cdn.myanimelist.net/images/manga/1/109229.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: WILD ARMS the 4th Detonator ワイルドアームズ ザ フォースデトネイタ

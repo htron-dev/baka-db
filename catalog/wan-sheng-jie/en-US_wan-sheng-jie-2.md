@@ -1,5 +1,7 @@
 # Wan Sheng Jie 2
 
+![wan-sheng-jie-2](https://cdn.myanimelist.net/images/anime/1040/112897.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 万圣街 2

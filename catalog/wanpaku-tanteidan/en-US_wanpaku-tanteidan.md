@@ -1,5 +1,7 @@
 # Wanpaku Tanteidan
 
+![wanpaku-tanteidan](https://cdn.myanimelist.net/images/anime/10/59651.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 35
 -   **original-name**: わんぱく探偵団

@@ -1,5 +1,7 @@
 # Wares: Beyond
 
+![wares-beyond](https://cdn.myanimelist.net/images/anime/5/89241.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 聖刻 －BEYOND－

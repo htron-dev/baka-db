@@ -1,5 +1,7 @@
 # Hyper-Psychic Geo Garaga
 
+![hyper-psychic-geo-garaga](https://cdn.myanimelist.net/images/anime/9/28323.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ギャラガ HYPER-PSYCHIC-GEO GARAGA

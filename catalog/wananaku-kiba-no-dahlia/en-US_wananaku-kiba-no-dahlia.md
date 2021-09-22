@@ -1,5 +1,7 @@
 # Wananaku Kiba no Dahlia
 
+![wananaku-kiba-no-dahlia](https://cdn.myanimelist.net/images/manga/3/225323.jpg)
+
 -   **type**: manga
 -   **original-name**: わななく牙のダリア
 -   **start-date**: 2017-08-28

@@ -1,5 +1,7 @@
 # Watashi ga Kanojo de Kanojo ga Watashi de
 
+![watashi-ga-kanojo-de-kanojo-ga-watashi-de](https://cdn.myanimelist.net/images/manga/1/126851.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 私が彼女で彼女が私で

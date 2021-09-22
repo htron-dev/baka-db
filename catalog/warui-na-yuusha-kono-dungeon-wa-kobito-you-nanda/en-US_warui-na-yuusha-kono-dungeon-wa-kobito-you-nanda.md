@@ -1,5 +1,7 @@
 # Warui na Yuusha, Kono Dungeon wa Kobito you nanda
 
+![warui-na-yuusha-kono-dungeon-wa-kobito-you-nanda](https://cdn.myanimelist.net/images/manga/3/201352.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 悪いな勇者、このダンジョンは小人用なんだ
 -   **start-date**: 2017-10-25

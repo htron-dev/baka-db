@@ -1,5 +1,7 @@
 # Wa no Kage
 
+![wa-no-kage](https://cdn.myanimelist.net/images/manga/3/235009.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 30

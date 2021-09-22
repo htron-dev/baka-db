@@ -1,5 +1,7 @@
 # Western Shotgun
 
+![western-shotgun](https://cdn.myanimelist.net/images/manga/3/86309.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 40
 -   **original-name**: 웨스턴샷건

@@ -1,5 +1,7 @@
 # Watashitachi ni wa Kabe ga Aru.
 
+![watashitachi-ni-wa-kabe-ga-aru](https://cdn.myanimelist.net/images/manga/3/147349.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 33

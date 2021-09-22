@@ -1,5 +1,7 @@
 # Wedding Cake wo Buchi Kawase!
 
+![wedding-cake-wo-buchi-kawase](https://cdn.myanimelist.net/images/manga/1/13519.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ウェディングケーキをぶち壊せ！

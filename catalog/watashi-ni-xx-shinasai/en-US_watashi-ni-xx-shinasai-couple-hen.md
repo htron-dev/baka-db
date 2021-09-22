@@ -1,5 +1,7 @@
 # Watashi ni xx Shinasai!: Couple-hen
 
+![watashi-ni-xx-shinasai-couple-hen](https://cdn.myanimelist.net/images/manga/2/225545.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

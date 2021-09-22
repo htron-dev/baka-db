@@ -1,5 +1,7 @@
 # Mujihi na Karada
 
+![mujihi-na-karada](https://cdn.myanimelist.net/images/manga/2/142577.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

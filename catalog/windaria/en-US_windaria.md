@@ -1,5 +1,7 @@
 # Windaria
 
+![windaria](https://cdn.myanimelist.net/images/anime/12/25497.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ウインダリア, 童話めいた戦史ウインダリア

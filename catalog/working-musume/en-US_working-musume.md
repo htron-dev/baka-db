@@ -1,5 +1,7 @@
 # Working Musume
 
+![working-musume](https://cdn.myanimelist.net/images/manga/2/7739.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ワーキング娘

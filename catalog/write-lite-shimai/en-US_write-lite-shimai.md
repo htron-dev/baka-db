@@ -1,5 +1,7 @@
 # Write/Lite Shimai
 
+![write-lite-shimai](https://cdn.myanimelist.net/images/manga/2/196173.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 28

@@ -1,5 +1,7 @@
 # Waratte! Sotomura-san
 
+![waratte-sotomura-san](https://cdn.myanimelist.net/images/manga/1/204399.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 笑って！外村さん

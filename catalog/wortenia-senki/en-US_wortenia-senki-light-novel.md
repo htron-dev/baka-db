@@ -1,5 +1,7 @@
 # Wortenia Senki
 
+![wortenia-senki](https://cdn.myanimelist.net/images/manga/1/186318.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ウォルテニア戦記
 -   **start-date**: 2015-09-19

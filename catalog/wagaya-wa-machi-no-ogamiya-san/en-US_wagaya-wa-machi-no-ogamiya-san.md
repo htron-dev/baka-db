@@ -1,5 +1,7 @@
 # Wagaya wa Machi no Ogamiya-san
 
+![wagaya-wa-machi-no-ogamiya-san](https://cdn.myanimelist.net/images/manga/2/225398.jpg)
+
 -   **type**: manga
 -   **original-name**: わが家は祇園〈まち〉の拝み屋さん
 -   **start-date**: 2017-12-05

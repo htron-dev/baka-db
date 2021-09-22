@@ -1,5 +1,7 @@
 # Wanghu Sim Cheong
 
+![wanghu-sim-cheong](https://cdn.myanimelist.net/images/anime/13/8714.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 왕후 심청

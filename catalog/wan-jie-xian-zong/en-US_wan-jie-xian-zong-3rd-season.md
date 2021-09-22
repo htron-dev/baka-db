@@ -1,5 +1,7 @@
 # Wan Jie Xian Zong 3rd Season
 
+![wan-jie-xian-zong-3rd-season](https://cdn.myanimelist.net/images/anime/1059/105727.jpg)
+
 -   **type**: ona
 -   **episodes**: 48
 -   **original-name**: 万界仙踪 第 3 季

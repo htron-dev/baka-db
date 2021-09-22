@@ -1,5 +1,7 @@
 # Wasurerareta Ningyou
 
+![wasurerareta-ningyou](https://cdn.myanimelist.net/images/anime/12/71722.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 忘れられた人形

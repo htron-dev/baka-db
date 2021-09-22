@@ -1,5 +1,7 @@
 # Warui Koto Shitai
 
+![warui-koto-shitai](https://cdn.myanimelist.net/images/manga/3/186969.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

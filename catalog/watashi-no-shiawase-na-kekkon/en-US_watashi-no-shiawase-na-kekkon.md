@@ -1,5 +1,7 @@
 # Watashi no Shiawase na Kekkon
 
+![watashi-no-shiawase-na-kekkon](https://cdn.myanimelist.net/images/manga/2/223940.jpg)
+
 -   **type**: manga
 -   **original-name**: わたしの幸せな結婚
 -   **start-date**: 2018-12-20

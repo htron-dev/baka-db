@@ -1,5 +1,7 @@
 # Wai Wai☆Hey! Say! JUMP
 
+![wai-wai☆-hey-say-jump](https://cdn.myanimelist.net/images/manga/3/33121.jpg)
+
 -   **type**: manga
 -   **original-name**: わいわいっ ☆Hey! Say! JUMP
 -   **start-date**: 2008-12-29

@@ -1,5 +1,7 @@
 # We Are Still...!
 
+![we-are-still](https://cdn.myanimelist.net/images/manga/3/1042.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **original-name**: 우리는 아직

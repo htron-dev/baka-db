@@ -1,5 +1,7 @@
 # Wakakusa Monogatari: Nan to Jo-sensei
 
+![wakakusa-monogatari-nan-to-jo-sensei](https://cdn.myanimelist.net/images/anime/12/3276.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: 若草物語ナンとジョー先生

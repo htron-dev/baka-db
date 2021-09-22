@@ -1,5 +1,7 @@
 # Wanpi De Kexue
 
+![wanpi-de-kexue](https://cdn.myanimelist.net/images/anime/1805/115640.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 84
 -   **original-name**: 顽皮的科学

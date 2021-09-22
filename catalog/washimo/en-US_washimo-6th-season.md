@@ -1,5 +1,7 @@
 # Washimo 6th Season
 
+![washimo-6th-season](https://cdn.myanimelist.net/images/anime/1487/91475.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 42
 -   **original-name**: わしも-wasimo-(第 6 シリーズ)

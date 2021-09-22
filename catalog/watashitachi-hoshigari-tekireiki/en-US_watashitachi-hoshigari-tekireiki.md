@@ -1,5 +1,7 @@
 # Watashitachi, Hoshigari Tekireiki.
 
+![watashitachi-hoshigari-tekireiki](https://cdn.myanimelist.net/images/manga/2/236034.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 私たち、欲しがり適齢期。

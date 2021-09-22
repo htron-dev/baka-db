@@ -1,5 +1,7 @@
 # Wheels
 
+![wheels](https://cdn.myanimelist.net/images/anime/2/37563.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: WHEELS

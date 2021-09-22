@@ -1,5 +1,7 @@
 # WWW.Working!!
 
+![www-working](https://cdn.myanimelist.net/images/anime/11/82287.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: WWW.WORKING!!

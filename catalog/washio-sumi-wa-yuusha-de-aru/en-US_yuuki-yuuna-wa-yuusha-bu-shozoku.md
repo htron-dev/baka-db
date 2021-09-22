@@ -1,5 +1,7 @@
 # Yuuki Yuuna wa Yuusha-bu Shozoku
 
+![yuuki-yuuna-wa-yuusha-bu-shozoku](https://cdn.myanimelist.net/images/manga/1/146231.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 33

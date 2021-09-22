@@ -1,5 +1,7 @@
 # Wan Jie Xian Zong
 
+![wan-jie-xian-zong](https://cdn.myanimelist.net/images/anime/1735/93070.jpg)
+
 -   **type**: ona
 -   **episodes**: 40
 -   **original-name**: 万界仙踪

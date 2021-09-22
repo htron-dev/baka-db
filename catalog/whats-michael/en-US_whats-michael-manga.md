@@ -1,5 +1,7 @@
 # What's Michael?
 
+![whats-michael](https://cdn.myanimelist.net/images/manga/3/203273.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 172

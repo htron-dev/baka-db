@@ -1,5 +1,7 @@
 # Wakaokusama no Midara na Nayami: Otto no Ikisugita Ai ni Komatteimasu
 
+![wakaokusama-no-midara-na-nayami-otto-no-ikisugita-ai-ni-komatteimasu](https://cdn.myanimelist.net/images/manga/1/178207.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

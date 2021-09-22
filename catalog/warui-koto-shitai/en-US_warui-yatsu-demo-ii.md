@@ -1,5 +1,7 @@
 # Warui Yatsu Demo Ii
 
+![warui-yatsu-demo-ii](https://cdn.myanimelist.net/images/manga/3/186947.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

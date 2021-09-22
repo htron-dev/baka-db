@@ -1,5 +1,7 @@
 # Walkure Romanze
 
+![walkure-romanze](https://cdn.myanimelist.net/images/anime/7/54969.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ワルキューレロマンツェ

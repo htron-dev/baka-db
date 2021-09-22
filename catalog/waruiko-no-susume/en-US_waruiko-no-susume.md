@@ -1,5 +1,7 @@
 # Waruiko no Susume
 
+![waruiko-no-susume](https://cdn.myanimelist.net/images/manga/1/46881.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 悪い子のススメ

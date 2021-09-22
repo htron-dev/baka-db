@@ -1,5 +1,7 @@
 # We Need Kiss
 
+![we-need-kiss](https://cdn.myanimelist.net/images/manga/3/6984.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 

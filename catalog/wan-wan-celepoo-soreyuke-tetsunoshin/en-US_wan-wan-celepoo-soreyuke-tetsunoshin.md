@@ -1,5 +1,7 @@
 # Wan Wan Celepoo Soreyuke! Tetsunoshin
 
+![wan-wan-celepoo-soreyuke-tetsunoshin](https://cdn.myanimelist.net/images/anime/13/7489.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: ワンワンセレプー それゆけ！徹之進

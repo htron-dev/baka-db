@@ -1,5 +1,7 @@
 # Wedding Bell wa Naranai
 
+![wedding-bell-wa-naranai](https://cdn.myanimelist.net/images/manga/3/247154.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ウエディングベルは鳴らない

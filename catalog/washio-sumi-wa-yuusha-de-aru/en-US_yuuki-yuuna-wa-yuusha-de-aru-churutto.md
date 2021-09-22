@@ -1,5 +1,7 @@
 # Yuuki Yuuna wa Yuusha de Aru Churutto!
 
+![yuuki-yuuna-wa-yuusha-de-aru-churutto](https://cdn.myanimelist.net/images/anime/1827/107735.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 結城友奈は勇者である ちゅるっと！

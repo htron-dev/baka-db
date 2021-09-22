@@ -1,5 +1,7 @@
 # Wonder School Boy
 
+![wonder-school-boy](https://cdn.myanimelist.net/images/manga/2/67123.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 45

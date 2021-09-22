@@ -1,5 +1,7 @@
 # Watashi wa Tensai wo Katteiru.
 
+![watashi-wa-tensai-wo-katteiru](https://cdn.myanimelist.net/images/manga/3/196167.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 35

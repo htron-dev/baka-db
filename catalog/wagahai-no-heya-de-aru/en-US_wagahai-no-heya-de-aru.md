@@ -1,5 +1,7 @@
 # Wagahai no Heya de Aru
 
+![wagahai-no-heya-de-aru](https://cdn.myanimelist.net/images/manga/1/199490.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 106

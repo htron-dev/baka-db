@@ -1,5 +1,7 @@
 # Wakusei Robo Danguard Ace
 
+![wakusei-robo-danguard-ace](https://cdn.myanimelist.net/images/anime/7/24009.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 56
 -   **original-name**: 惑星ロボ ダンガード A[エース]

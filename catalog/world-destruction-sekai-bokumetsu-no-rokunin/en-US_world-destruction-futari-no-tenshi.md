@@ -1,5 +1,7 @@
 # World Destruction: Futari no Tenshi
 
+![world-destruction-futari-no-tenshi](https://cdn.myanimelist.net/images/manga/3/147189.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

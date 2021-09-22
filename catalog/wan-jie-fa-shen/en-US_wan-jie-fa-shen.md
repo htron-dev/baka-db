@@ -1,5 +1,7 @@
 # Wan Jie Fa Shen
 
+![wan-jie-fa-shen](https://cdn.myanimelist.net/images/anime/1077/111009.jpg)
+
 -   **type**: ona
 -   **episodes**: 54
 -   **original-name**: 万界法神

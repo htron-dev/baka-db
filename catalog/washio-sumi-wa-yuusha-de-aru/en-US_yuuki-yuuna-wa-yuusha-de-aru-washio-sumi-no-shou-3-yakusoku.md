@@ -1,5 +1,7 @@
 # Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou 3 - Yakusoku
 
+![yuuki-yuuna-wa-yuusha-de-aru-washio-sumi-no-shou-3-yakusoku](https://cdn.myanimelist.net/images/anime/7/86984.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 結城友奈は勇者である -鷲尾須美の章- 第３章「やくそく」

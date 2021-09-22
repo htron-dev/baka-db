@@ -1,5 +1,7 @@
 # Wish Me Mell
 
+![wish-me-mell](https://cdn.myanimelist.net/images/anime/13/32955.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: Wish me mell

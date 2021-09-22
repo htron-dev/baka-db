@@ -1,5 +1,7 @@
 # Wakareru Riyuu wo Nobenasai!
 
+![wakareru-riyuu-wo-nobenasai](https://cdn.myanimelist.net/images/manga/1/124303.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Worku
 
+![worku](https://cdn.myanimelist.net/images/anime/12/18022.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: WORKU (ウォルク)

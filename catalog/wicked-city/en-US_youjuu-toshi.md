@@ -1,5 +1,7 @@
 # Youjuu Toshi
 
+![youjuu-toshi](https://cdn.myanimelist.net/images/anime/2/50021.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 妖獣都市

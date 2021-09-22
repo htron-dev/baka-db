@@ -1,5 +1,7 @@
 # Watashi wo Mitashite: Himitsu no Henshin Ganbou
 
+![watashi-wo-mitashite-himitsu-no-henshin-ganbou](https://cdn.myanimelist.net/images/manga/2/193821.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

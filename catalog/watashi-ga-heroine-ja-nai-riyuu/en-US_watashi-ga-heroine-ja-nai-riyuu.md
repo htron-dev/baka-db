@@ -1,5 +1,7 @@
 # Watashi ga Heroine ja Nai Riyuu
 
+![watashi-ga-heroine-ja-nai-riyuu](https://cdn.myanimelist.net/images/manga/2/172534.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

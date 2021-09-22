@@ -1,5 +1,7 @@
 # With!!
 
+![with](https://cdn.myanimelist.net/images/manga/5/9560.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

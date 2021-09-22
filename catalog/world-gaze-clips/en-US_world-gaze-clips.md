@@ -1,5 +1,7 @@
 # World Gaze Clips
 
+![world-gaze-clips](https://cdn.myanimelist.net/images/manga/1/188987.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 38

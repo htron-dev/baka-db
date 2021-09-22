@@ -1,5 +1,7 @@
 # W x Y
 
+![w-x-y](https://cdn.myanimelist.net/images/manga/3/124723.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 73

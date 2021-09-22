@@ -1,5 +1,7 @@
 # White Note Pad
 
+![white-note-pad](https://cdn.myanimelist.net/images/manga/3/169607.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 6

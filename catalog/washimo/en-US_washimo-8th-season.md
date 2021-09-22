@@ -1,5 +1,7 @@
 # Washimo 8th Season
 
+![washimo-8th-season](https://cdn.myanimelist.net/images/anime/1914/106717.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: わしも-wasimo-(第 8 シリーズ)

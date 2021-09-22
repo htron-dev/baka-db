@@ -1,5 +1,7 @@
 # Warui Senpaitaku no Isourou Jijou
 
+![warui-senpaitaku-no-isourou-jijou](https://cdn.myanimelist.net/images/manga/1/103945.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

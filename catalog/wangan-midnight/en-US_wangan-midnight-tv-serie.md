@@ -1,5 +1,7 @@
 # Wangan Midnight
 
+![wangan-midnight](https://cdn.myanimelist.net/images/anime/11/12936.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 湾岸ミッドナイト

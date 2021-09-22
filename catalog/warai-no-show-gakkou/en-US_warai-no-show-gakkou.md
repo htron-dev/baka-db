@@ -1,5 +1,7 @@
 # Warai no Show Gakkou
 
+![warai-no-show-gakkou](https://cdn.myanimelist.net/images/anime/6/71661.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 20
 -   **original-name**: 笑いの SHOW 学校

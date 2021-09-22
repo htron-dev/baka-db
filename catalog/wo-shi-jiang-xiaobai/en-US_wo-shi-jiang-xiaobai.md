@@ -1,5 +1,7 @@
 # Wo Shi Jiang Xiaobai
 
+![wo-shi-jiang-xiaobai](https://cdn.myanimelist.net/images/anime/10/88926.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 我是江小白

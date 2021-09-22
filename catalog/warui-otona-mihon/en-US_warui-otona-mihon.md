@@ -1,5 +1,7 @@
 # Warui Otona Mihon
 
+![warui-otona-mihon](https://cdn.myanimelist.net/images/manga/2/59173.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

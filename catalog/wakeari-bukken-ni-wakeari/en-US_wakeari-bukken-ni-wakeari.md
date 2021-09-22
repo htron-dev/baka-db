@@ -1,5 +1,7 @@
 # Wakeari Bukken ni Wakeari.
 
+![wakeari-bukken-ni-wakeari](https://cdn.myanimelist.net/images/manga/1/223849.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 33

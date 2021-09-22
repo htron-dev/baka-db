@@ -1,5 +1,7 @@
 # Wotaku ni Koi wa Muzukashii OVA
 
+![wotaku-ni-koi-wa-muzukashii-ova](https://cdn.myanimelist.net/images/anime/1892/111383.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ヲタクに恋は難しい OAD

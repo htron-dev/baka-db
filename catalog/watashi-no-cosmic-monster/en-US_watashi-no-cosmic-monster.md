@@ -1,5 +1,7 @@
 # Watashi no Cosmic Monster
 
+![watashi-no-cosmic-monster](https://cdn.myanimelist.net/images/manga/2/200584.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Gohou Drug
 
+![gohou-drug](https://cdn.myanimelist.net/images/manga/1/185400.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Walking Meat
 
+![walking-meat](https://cdn.myanimelist.net/images/anime/1383/95198.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Walking Meat

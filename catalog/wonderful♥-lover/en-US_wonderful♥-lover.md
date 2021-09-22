@@ -1,5 +1,7 @@
 # Wonderful♥Lover
 
+![wonderful♥-lover](https://cdn.myanimelist.net/images/manga/3/161507.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

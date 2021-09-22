@@ -1,5 +1,7 @@
 # Watashi wa Gotsugou Shugi na Kaiketsu Tantou no Oujo de Aru
 
+![watashi-wa-gotsugou-shugi-na-kaiketsu-tantou-no-oujo-de-aru](https://cdn.myanimelist.net/images/manga/3/233378.jpg)
+
 -   **type**: manga
 -   **original-name**: 私はご都合主義な解決担当の王女である
 -   **start-date**: 2019-11-22

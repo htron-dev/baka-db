@@ -1,5 +1,7 @@
 # Weak Hero
 
+![weak-hero](https://cdn.myanimelist.net/images/manga/3/232795.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 약한영웅
 -   **start-date**: 2018-05-05

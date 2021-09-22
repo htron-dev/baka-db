@@ -1,5 +1,7 @@
 # Wave!!: Surfing Yappe!! (TV)
 
+![wave-surfing-yappe-tv](https://cdn.myanimelist.net/images/anime/1807/113870.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: WAVE!!〜サーフィンやっぺ!!〜

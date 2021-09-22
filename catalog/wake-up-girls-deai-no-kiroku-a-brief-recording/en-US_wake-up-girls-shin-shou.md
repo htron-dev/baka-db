@@ -1,5 +1,7 @@
 # Wake Up, Girls! Shin Shou
 
+![wake-up-girls-shin-shou](https://cdn.myanimelist.net/images/anime/10/87732.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: Wake Up, Girls！新章

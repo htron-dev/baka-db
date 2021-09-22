@@ -1,5 +1,7 @@
 # Wana Girl
 
+![wana-girl](https://cdn.myanimelist.net/images/manga/1/227270.jpg)
+
 -   **type**: manga
 -   **original-name**: 罠ガール
 -   **start-date**: 2017-05-27

@@ -1,5 +1,7 @@
 # Walkure Romanze
 
+![walkure-romanze](https://cdn.myanimelist.net/images/manga/2/108341.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: ワルキューレロマンツェ

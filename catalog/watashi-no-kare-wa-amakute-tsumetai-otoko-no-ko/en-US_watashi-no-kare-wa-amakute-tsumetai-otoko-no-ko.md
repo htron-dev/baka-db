@@ -1,5 +1,7 @@
 # Watashi no Kare wa Amakute Tsumetai Otoko no Ko
 
+![watashi-no-kare-wa-amakute-tsumetai-otoko-no-ko](https://cdn.myanimelist.net/images/manga/1/193940.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

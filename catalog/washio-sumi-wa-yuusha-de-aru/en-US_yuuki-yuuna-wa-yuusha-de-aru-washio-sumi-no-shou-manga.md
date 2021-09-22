@@ -1,5 +1,7 @@
 # Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou
 
+![yuuki-yuuna-wa-yuusha-de-aru-washio-sumi-no-shou](https://cdn.myanimelist.net/images/manga/3/203898.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

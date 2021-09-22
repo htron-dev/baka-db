@@ -1,5 +1,7 @@
 # Wedding Eve
 
+![wedding-eve](https://cdn.myanimelist.net/images/manga/2/20008.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ウエディング・イブ

@@ -1,5 +1,7 @@
 # Warui Koibito ja Dame?
 
+![warui-koibito-ja-dame](https://cdn.myanimelist.net/images/manga/5/41887.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

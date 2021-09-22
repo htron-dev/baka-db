@@ -1,5 +1,7 @@
 # Wonder (Movie)
 
+![wonder-movie](https://cdn.myanimelist.net/images/anime/13/67977.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: WONDER

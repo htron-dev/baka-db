@@ -1,5 +1,7 @@
 # Wego Graphics
 
+![wego-graphics](https://cdn.myanimelist.net/images/anime/1517/96918.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: WEGO GRAPHICS

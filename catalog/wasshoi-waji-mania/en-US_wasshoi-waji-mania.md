@@ -1,5 +1,7 @@
 # Wasshoi! Waji Mania
 
+![wasshoi-waji-mania](https://cdn.myanimelist.net/images/manga/2/184329.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 20

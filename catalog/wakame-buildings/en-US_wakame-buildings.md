@@ -1,5 +1,7 @@
 # Wakame Buildings
 
+![wakame-buildings](https://cdn.myanimelist.net/images/anime/1887/111013.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ワカメビルディング

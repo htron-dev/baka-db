@@ -1,5 +1,7 @@
 # Wansa-kun
 
+![wansa-kun](https://cdn.myanimelist.net/images/manga/2/48507.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ワンサくん

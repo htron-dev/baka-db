@@ -1,5 +1,7 @@
 # Within the Bloody Woods
 
+![within-the-bloody-woods](https://cdn.myanimelist.net/images/anime/9/33469.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: WITHIN THE BLOODY WOODS

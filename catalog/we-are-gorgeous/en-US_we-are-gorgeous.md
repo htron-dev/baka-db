@@ -1,5 +1,7 @@
 # We are Gorgeous
 
+![we-are-gorgeous](https://cdn.myanimelist.net/images/manga/2/12470.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

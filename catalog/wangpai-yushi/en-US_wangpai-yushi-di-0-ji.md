@@ -1,5 +1,7 @@
 # Wangpai Yushi Di 0 Ji
 
+![wangpai-yushi-di-0-ji](https://cdn.myanimelist.net/images/anime/7/72199.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 王牌御史 0

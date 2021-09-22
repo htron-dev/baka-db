@@ -1,5 +1,7 @@
 # Wu Geng Ji Zhi Tianqi
 
+![wu-geng-ji-zhi-tianqi](https://cdn.myanimelist.net/images/anime/1775/90211.jpg)
+
 -   **type**: ona
 -   **episodes**: 42
 -   **original-name**: 武庚纪之天启

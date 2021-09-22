@@ -1,5 +1,7 @@
 # Woo to Wah
 
+![woo-to-wah](https://cdn.myanimelist.net/images/anime/4/89764.jpg)
+
 -   **type**: ona
 -   **original-name**: ウーとワー
 -   **start-date**: 2017-10-02

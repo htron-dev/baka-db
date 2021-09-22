@@ -1,5 +1,7 @@
 # Wuxian Shaonu 48
 
+![wuxian-shaonu-48](https://cdn.myanimelist.net/images/anime/1863/107433.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 无限少女 48

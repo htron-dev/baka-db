@@ -1,5 +1,7 @@
 # Waratte Himiko-san
 
+![waratte-himiko-san](https://cdn.myanimelist.net/images/manga/1/22434.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: わらってヒミコさん

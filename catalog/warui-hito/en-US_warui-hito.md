@@ -1,5 +1,7 @@
 # Warui Hito
 
+![warui-hito](https://cdn.myanimelist.net/images/manga/3/146737.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

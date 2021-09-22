@@ -1,5 +1,7 @@
 # World End Economica
 
+![world-end-economica](https://cdn.myanimelist.net/images/anime/1815/103982.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ワールド エンド エコノミカ
 -   **rating**: None

@@ -1,5 +1,7 @@
 # Working!!: Re:Order
 
+![working-re-order](https://cdn.myanimelist.net/images/manga/2/188969.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

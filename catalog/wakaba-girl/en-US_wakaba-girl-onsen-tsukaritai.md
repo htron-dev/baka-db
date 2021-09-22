@@ -1,5 +1,7 @@
 # Wakaba\*Girl: Onsen Tsukaritai
 
+![wakaba-girl-onsen-tsukaritai](https://cdn.myanimelist.net/images/anime/12/76819.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: わかば＊ガール 十四葉「温泉つかりたい」

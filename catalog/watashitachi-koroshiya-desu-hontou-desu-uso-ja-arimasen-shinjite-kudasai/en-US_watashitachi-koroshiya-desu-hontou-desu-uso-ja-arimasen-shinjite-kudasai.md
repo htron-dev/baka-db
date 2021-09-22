@@ -1,5 +1,7 @@
 # Watashitachi Koroshiya desu, Hontou desu, Uso ja Arimasen, Shinjite Kudasai.
 
+![watashitachi-koroshiya-desu-hontou-desu-uso-ja-arimasen-shinjite-kudasai](https://cdn.myanimelist.net/images/manga/1/181669.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 私たち殺し屋です、本当です、嘘じゃありません、信じてください。
 -   **start-date**: 2016-08-25

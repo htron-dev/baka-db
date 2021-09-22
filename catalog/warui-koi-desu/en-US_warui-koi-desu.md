@@ -1,5 +1,7 @@
 # Warui Koi desu
 
+![warui-koi-desu](https://cdn.myanimelist.net/images/manga/2/144907.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Wolf Guy
 
+![wolf-guy](https://cdn.myanimelist.net/images/manga/1/38835.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: Wolf Guy

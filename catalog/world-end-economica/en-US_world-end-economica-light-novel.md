@@ -1,5 +1,7 @@
 # World End Economica
 
+![world-end-economica](https://cdn.myanimelist.net/images/manga/1/144965.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 28

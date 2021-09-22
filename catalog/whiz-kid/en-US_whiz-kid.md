@@ -1,5 +1,7 @@
 # Whiz Kid
 
+![whiz-kid](https://cdn.myanimelist.net/images/manga/1/2655.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **start-date**: 1994-11-27

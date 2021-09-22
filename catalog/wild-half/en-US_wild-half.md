@@ -1,5 +1,7 @@
 # Wild Half
 
+![wild-half](https://cdn.myanimelist.net/images/manga/1/160477.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 145

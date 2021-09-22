@@ -1,5 +1,7 @@
 # Watashi no Kao
 
+![watashi-no-kao](https://cdn.myanimelist.net/images/anime/13/69661.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ワ・タ・シ・ノ・カ・オ

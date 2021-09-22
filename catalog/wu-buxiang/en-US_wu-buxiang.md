@@ -1,5 +1,7 @@
 # Wu Buxiang
 
+![wu-buxiang](https://cdn.myanimelist.net/images/anime/1965/115596.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 无不想

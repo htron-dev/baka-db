@@ -1,5 +1,7 @@
 # Wagamama na Rika no Yokorenbo
 
+![wagamama-na-rika-no-yokorenbo](https://cdn.myanimelist.net/images/manga/2/195488.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Watanuki-san ni wa Boku ga Tarinai
 
+![watanuki-san-ni-wa-boku-ga-tarinai](https://cdn.myanimelist.net/images/manga/2/151711.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 39

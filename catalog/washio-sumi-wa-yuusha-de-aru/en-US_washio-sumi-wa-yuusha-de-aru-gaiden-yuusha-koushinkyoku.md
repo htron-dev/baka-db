@@ -1,5 +1,7 @@
 # Washio Sumi wa Yuusha de Aru Gaiden: Yuusha Koushinkyoku
 
+![washio-sumi-wa-yuusha-de-aru-gaiden-yuusha-koushinkyoku](https://cdn.myanimelist.net/images/manga/1/195955.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

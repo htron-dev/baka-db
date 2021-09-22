@@ -1,5 +1,7 @@
 # Witchblade
 
+![witchblade](https://cdn.myanimelist.net/images/anime/1/935.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ウィッチブレイド

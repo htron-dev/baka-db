@@ -1,5 +1,7 @@
 # Wakako-zake
 
+![wakako-zake](https://cdn.myanimelist.net/images/anime/9/76018.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ワカコ酒

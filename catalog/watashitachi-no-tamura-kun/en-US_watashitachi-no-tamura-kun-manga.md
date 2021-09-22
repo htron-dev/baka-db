@@ -1,5 +1,7 @@
 # Watashitachi no Tamura-kun
 
+![watashitachi-no-tamura-kun](https://cdn.myanimelist.net/images/manga/1/11609.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

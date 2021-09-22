@@ -1,5 +1,7 @@
 # Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)
 
+![watashi-ga-koibito-ni-nareru-wake-nai-jan-muri-muri-muri-ja-nakatta](https://cdn.myanimelist.net/images/manga/1/236444.jpg)
+
 -   **type**: light-novel
 -   **original-name**: わたしが恋人になれるわけないじゃん、ムリムリ! (※ムリじゃなかった!?)
 -   **start-date**: 2020-02-21

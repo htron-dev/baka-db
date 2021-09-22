@@ -1,5 +1,7 @@
 # Wagaya no Oinari-sama.
 
+![wagaya-no-oinari-sama](https://cdn.myanimelist.net/images/anime/10/21249.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 我が家のお稲荷さま。

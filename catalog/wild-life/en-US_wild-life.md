@@ -1,5 +1,7 @@
 # Wild Life
 
+![wild-life](https://cdn.myanimelist.net/images/manga/3/17923.jpg)
+
 -   **type**: manga
 -   **volumes**: 27
 -   **chapters**: 234

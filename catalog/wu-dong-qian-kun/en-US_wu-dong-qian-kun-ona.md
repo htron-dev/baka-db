@@ -1,5 +1,7 @@
 # Wu Dong Qian Kun
 
+![wu-dong-qian-kun](https://cdn.myanimelist.net/images/anime/1857/98299.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 武动乾坤

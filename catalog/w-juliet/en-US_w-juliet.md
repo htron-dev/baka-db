@@ -1,5 +1,7 @@
 # W-Juliet
 
+![w-juliet](https://cdn.myanimelist.net/images/manga/3/162125.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 79

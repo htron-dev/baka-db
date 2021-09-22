@@ -1,5 +1,7 @@
 # Watashi no Majutsu Consultant
 
+![watashi-no-majutsu-consultant](https://cdn.myanimelist.net/images/manga/1/194312.jpg)
+
 -   **type**: light-novel
 -   **original-name**: わたしの魔術コンサルタント
 -   **start-date**: 2016-12-10

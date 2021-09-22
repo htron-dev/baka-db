@@ -1,5 +1,7 @@
 # Watashi ga Neko ni Naru Hi made
 
+![watashi-ga-neko-ni-naru-hi-made](https://cdn.myanimelist.net/images/manga/1/194068.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 私が猫になる日まで

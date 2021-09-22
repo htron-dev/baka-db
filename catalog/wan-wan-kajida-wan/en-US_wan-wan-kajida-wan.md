@@ -1,5 +1,7 @@
 # Wan Wan Kajida Wan
 
+![wan-wan-kajida-wan](https://cdn.myanimelist.net/images/anime/1712/98674.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: わんわん火事だわん

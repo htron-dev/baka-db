@@ -1,5 +1,7 @@
 # Wakaokusama wa Kamen no Toriko
 
+![wakaokusama-wa-kamen-no-toriko](https://cdn.myanimelist.net/images/manga/3/194767.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 若奥様は仮面の虜

@@ -1,5 +1,7 @@
 # Wo Zhidao
 
+![wo-zhidao](https://cdn.myanimelist.net/images/anime/1784/115800.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 我知道

@@ -1,5 +1,7 @@
 # Warui Ko demo Ii no
 
+![warui-ko-demo-ii-no](https://cdn.myanimelist.net/images/manga/3/216640.jpg)
+
 -   **type**: manga
 -   **original-name**: 悪い子でもいいの
 -   **start-date**: 2018-10-20

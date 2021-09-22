@@ -1,5 +1,7 @@
 # Wo Kai Dongwuyuan Naxie Nian
 
+![wo-kai-dongwuyuan-naxie-nian](https://cdn.myanimelist.net/images/anime/1771/106652.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 我开动物园那些年

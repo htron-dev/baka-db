@@ -1,5 +1,7 @@
 # Watashi ga Kannou Shousetsu no Shujinkou!
 
+![watashi-ga-kannou-shousetsu-no-shujinkou](https://cdn.myanimelist.net/images/manga/2/124191.jpg)
+
 -   **type**: manga
 -   **original-name**: 私が官能小説の主人公！
 -   **start-date**: 2014-01-05

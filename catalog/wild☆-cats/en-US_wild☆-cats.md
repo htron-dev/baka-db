@@ -1,5 +1,7 @@
 # Wild☆Cats
 
+![wild☆-cats](https://cdn.myanimelist.net/images/manga/1/80273.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

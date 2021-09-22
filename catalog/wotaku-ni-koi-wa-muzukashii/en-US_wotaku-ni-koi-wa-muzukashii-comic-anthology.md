@@ -1,5 +1,7 @@
 # Wotaku ni Koi wa Muzukashii: Comic Anthology
 
+![wotaku-ni-koi-wa-muzukashii-comic-anthology](https://cdn.myanimelist.net/images/manga/1/243915.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

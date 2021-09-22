@@ -1,5 +1,7 @@
 # Watashi wo Kuruwasu Haitatsu Danshi
 
+![watashi-wo-kuruwasu-haitatsu-danshi](https://cdn.myanimelist.net/images/manga/2/192342.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

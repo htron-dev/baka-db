@@ -1,5 +1,7 @@
 # Wsamarus 2001
 
+![wsamarus-2001](https://cdn.myanimelist.net/images/manga/3/216419.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Wsamarus 2001

@@ -1,5 +1,7 @@
 # Wo Jia Da Shixiong Naozi You Keng
 
+![wo-jia-da-shixiong-naozi-you-keng](https://cdn.myanimelist.net/images/anime/1700/90509.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: 我家大师兄脑子有坑

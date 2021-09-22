@@ -1,5 +1,7 @@
 # Wansa-kun
 
+![wansa-kun](https://cdn.myanimelist.net/images/anime/9/56761.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ワンサくん

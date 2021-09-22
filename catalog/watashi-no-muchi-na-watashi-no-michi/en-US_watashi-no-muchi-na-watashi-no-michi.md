@@ -1,5 +1,7 @@
 # Watashi no Muchi na Watashi no Michi
 
+![watashi-no-muchi-na-watashi-no-michi](https://cdn.myanimelist.net/images/manga/1/185777.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

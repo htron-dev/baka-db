@@ -1,5 +1,7 @@
 # Wo Shi Jiang Xiaobai 2nd Season
 
+![wo-shi-jiang-xiaobai-2nd-season](https://cdn.myanimelist.net/images/anime/1699/95756.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 我是江小白 第二季

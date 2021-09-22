@@ -1,5 +1,7 @@
 # Wakaba\*Girl
 
+![wakaba-girl](https://cdn.myanimelist.net/images/anime/2/74878.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: わかば＊ガール

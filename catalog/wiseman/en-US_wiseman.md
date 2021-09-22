@@ -1,5 +1,7 @@
 # Wiseman
 
+![wiseman](https://cdn.myanimelist.net/images/manga/1/61289.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ワイズマン

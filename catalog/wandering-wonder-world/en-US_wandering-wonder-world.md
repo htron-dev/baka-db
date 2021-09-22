@@ -1,5 +1,7 @@
 # Wandering Wonder World
 
+![wandering-wonder-world](https://cdn.myanimelist.net/images/manga/2/157407.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

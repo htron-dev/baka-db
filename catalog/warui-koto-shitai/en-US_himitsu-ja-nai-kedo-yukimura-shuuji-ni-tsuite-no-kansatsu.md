@@ -1,5 +1,7 @@
 # Himitsu ja Nai kedo: Yukimura Shuuji ni Tsuite no Kansatsu
 
+![himitsu-ja-nai-kedo-yukimura-shuuji-ni-tsuite-no-kansatsu](https://cdn.myanimelist.net/images/manga/1/179083.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

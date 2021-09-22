@@ -1,5 +1,7 @@
 # Wo Zhen de Meiyong Mie?
 
+![wo-zhen-de-meiyong-mie](https://cdn.myanimelist.net/images/anime/1703/114630.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 我真的没用咩？

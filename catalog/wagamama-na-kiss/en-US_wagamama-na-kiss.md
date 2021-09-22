@@ -1,5 +1,7 @@
 # Wagamama na Kiss
 
+![wagamama-na-kiss](https://cdn.myanimelist.net/images/manga/2/153067.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ワガママな KISS

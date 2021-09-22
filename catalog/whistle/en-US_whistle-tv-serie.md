@@ -1,5 +1,7 @@
 # Whistle!
 
+![whistle](https://cdn.myanimelist.net/images/anime/8/17885.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: ホイッスル！

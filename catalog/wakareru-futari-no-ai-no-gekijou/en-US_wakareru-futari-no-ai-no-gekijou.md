@@ -1,5 +1,7 @@
 # Wakareru Futari no Ai no Gekijou
 
+![wakareru-futari-no-ai-no-gekijou](https://cdn.myanimelist.net/images/manga/3/42395.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

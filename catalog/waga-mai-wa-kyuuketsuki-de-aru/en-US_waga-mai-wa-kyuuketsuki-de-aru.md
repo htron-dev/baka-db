@@ -1,5 +1,7 @@
 # Waga Mai wa Kyuuketsuki de Aru
 
+![waga-mai-wa-kyuuketsuki-de-aru](https://cdn.myanimelist.net/images/manga/1/180937.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 我が妹は吸血鬼である

@@ -1,5 +1,7 @@
 # Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou 1 - Tomodachi
 
+![yuuki-yuuna-wa-yuusha-de-aru-washio-sumi-no-shou-1-tomodachi](https://cdn.myanimelist.net/images/anime/5/86481.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 結城友奈は勇者である -鷲尾須美の章- 第１章「ともだち」

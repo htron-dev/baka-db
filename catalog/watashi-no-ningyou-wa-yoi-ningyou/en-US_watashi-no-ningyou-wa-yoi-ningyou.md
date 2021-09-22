@@ -1,5 +1,7 @@
 # Watashi no Ningyou wa Yoi Ningyou
 
+![watashi-no-ningyou-wa-yoi-ningyou](https://cdn.myanimelist.net/images/manga/2/17868.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: わたしの人形は良い人形

@@ -1,5 +1,7 @@
 # Wagatsuma-san wa Ore no Yome
 
+![wagatsuma-san-wa-ore-no-yome](https://cdn.myanimelist.net/images/manga/2/164478.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 111

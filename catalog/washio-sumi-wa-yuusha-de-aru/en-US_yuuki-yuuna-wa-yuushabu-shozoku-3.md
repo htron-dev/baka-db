@@ -1,5 +1,7 @@
 # Yuuki Yuuna wa Yuushabu Shozoku 3
 
+![yuuki-yuuna-wa-yuushabu-shozoku-3](https://cdn.myanimelist.net/images/anime/5/85507.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 結城友奈は勇者部所属

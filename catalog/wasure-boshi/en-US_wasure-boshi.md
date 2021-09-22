@@ -1,5 +1,7 @@
 # Wasure-boshi
 
+![wasure-boshi](https://cdn.myanimelist.net/images/anime/12/56907.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 忘れ星

@@ -1,5 +1,7 @@
 # Wasure Yuki no Furu Koro
 
+![wasure-yuki-no-furu-koro](https://cdn.myanimelist.net/images/manga/2/151079.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

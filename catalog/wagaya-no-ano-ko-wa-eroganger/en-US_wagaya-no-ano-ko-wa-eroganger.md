@@ -1,5 +1,7 @@
 # Wagaya no Ano Ko wa Erogänger!?
 
+![wagaya-no-ano-ko-wa-eroganger](https://cdn.myanimelist.net/images/manga/3/165417.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 我が家のあの娘はエロゲンガー!?

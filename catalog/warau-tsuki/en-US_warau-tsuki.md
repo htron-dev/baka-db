@@ -1,5 +1,7 @@
 # Warau Tsuki
 
+![warau-tsuki](https://cdn.myanimelist.net/images/anime/3/83702.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 笑う月

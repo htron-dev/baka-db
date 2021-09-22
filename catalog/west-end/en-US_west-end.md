@@ -1,5 +1,7 @@
 # West End
 
+![west-end](https://cdn.myanimelist.net/images/manga/5/22644.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 25

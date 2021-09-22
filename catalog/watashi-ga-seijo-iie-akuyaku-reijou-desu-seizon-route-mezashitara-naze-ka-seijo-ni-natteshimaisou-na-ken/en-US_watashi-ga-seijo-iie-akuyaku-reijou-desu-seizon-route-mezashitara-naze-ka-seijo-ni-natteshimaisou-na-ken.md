@@ -1,5 +1,7 @@
 # Watashi ga Seijo? Iie, Akuyaku Reijou desu!: Seizon Route Mezashitara Naze ka Seijo ni Natteshimaisou na Ken
 
+![watashi-ga-seijo-iie-akuyaku-reijou-desu-seizon-route-mezashitara-naze-ka-seijo-ni-natteshimaisou-na-ken](https://cdn.myanimelist.net/images/manga/3/245130.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 私が聖女？いいえ、悪役令嬢です！～生存ルート目指したらなぜか聖女になってしまいそうな件～
 -   **start-date**: 2020-11-04

@@ -1,5 +1,7 @@
 # Working!! Web-ban
 
+![working-web-ban](https://cdn.myanimelist.net/images/manga/3/188977.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 118

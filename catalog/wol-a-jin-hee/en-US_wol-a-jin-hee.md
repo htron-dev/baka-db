@@ -1,5 +1,7 @@
 # Wol-A-Jin-Hee
 
+![wol-a-jin-hee](https://cdn.myanimelist.net/images/manga/2/23398.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **start-date**: 2004-01-20

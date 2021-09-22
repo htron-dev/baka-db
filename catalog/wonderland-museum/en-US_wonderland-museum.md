@@ -1,5 +1,7 @@
 # Wonderland Museum
 
+![wonderland-museum](https://cdn.myanimelist.net/images/manga/1/147257.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

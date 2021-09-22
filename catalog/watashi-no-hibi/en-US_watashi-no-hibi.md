@@ -1,5 +1,7 @@
 # Watashi no Hibi
 
+![watashi-no-hibi](https://cdn.myanimelist.net/images/manga/3/161482.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 34

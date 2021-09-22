@@ -1,5 +1,7 @@
 # W.W.W: World Wide War
 
+![w-w-w-world-wide-war](https://cdn.myanimelist.net/images/manga/3/161091.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: Ｗ．Ｗ．Ｗ　ワールド・ワイド・ウォー

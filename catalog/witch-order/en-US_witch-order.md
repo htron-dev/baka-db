@@ -1,5 +1,7 @@
 # Witch Order
 
+![witch-order](https://cdn.myanimelist.net/images/manga/3/216860.jpg)
+
 -   **type**: manga
 -   **original-name**: ウィッチオーダー
 -   **start-date**: 2018-09-07

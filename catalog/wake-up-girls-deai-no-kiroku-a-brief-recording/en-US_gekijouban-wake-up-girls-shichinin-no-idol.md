@@ -1,5 +1,7 @@
 # Gekijouban Wake Up, Girls!: Shichinin no Idol
 
+![gekijouban-wake-up-girls-shichinin-no-idol](https://cdn.myanimelist.net/images/manga/3/189475.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

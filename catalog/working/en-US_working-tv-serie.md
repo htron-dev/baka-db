@@ -1,5 +1,7 @@
 # Working!!!
 
+![working](https://cdn.myanimelist.net/images/anime/7/73886.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ワーキング!!!

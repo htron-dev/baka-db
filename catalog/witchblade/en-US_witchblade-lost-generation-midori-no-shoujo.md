@@ -1,5 +1,7 @@
 # Witchblade: Lost Generation - Midori no Shoujo
 
+![witchblade-lost-generation-midori-no-shoujo](https://cdn.myanimelist.net/images/manga/1/125121.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 15

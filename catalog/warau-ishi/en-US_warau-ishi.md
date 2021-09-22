@@ -1,5 +1,7 @@
 # Warau Ishi
 
+![warau-ishi](https://cdn.myanimelist.net/images/manga/3/172565.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

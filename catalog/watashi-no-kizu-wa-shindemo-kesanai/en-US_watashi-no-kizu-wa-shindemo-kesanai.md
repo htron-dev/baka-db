@@ -1,5 +1,7 @@
 # Watashi no Kizu wa Shindemo Kesanai
 
+![watashi-no-kizu-wa-shindemo-kesanai](https://cdn.myanimelist.net/images/manga/2/240223.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

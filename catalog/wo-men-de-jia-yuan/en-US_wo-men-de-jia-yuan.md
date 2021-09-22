@@ -1,5 +1,7 @@
 # Wo Men De Jia Yuan
 
+![wo-men-de-jia-yuan](https://cdn.myanimelist.net/images/anime/1529/115343.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 我们的家园

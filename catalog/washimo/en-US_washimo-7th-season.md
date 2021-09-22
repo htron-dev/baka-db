@@ -1,5 +1,7 @@
 # Washimo 7th Season
 
+![washimo-7th-season](https://cdn.myanimelist.net/images/anime/1263/99787.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: わしも-wasimo-(第 7 シリーズ)
