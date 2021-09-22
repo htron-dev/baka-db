@@ -1,5 +1,7 @@
 # Zhonghua Dizi Gui 2nd Season
 
+![zhonghua-dizi-gui-2nd-season](https://cdn.myanimelist.net/images/anime/1399/115513.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 120
 -   **original-name**: 中华弟子规第二季

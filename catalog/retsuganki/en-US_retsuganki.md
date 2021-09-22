@@ -1,5 +1,7 @@
 # Retsuganki
 
+![retsuganki](https://cdn.myanimelist.net/images/manga/3/59027.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

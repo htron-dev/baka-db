@@ -1,5 +1,7 @@
 # Mayu, Matou
 
+![mayu-matou](https://cdn.myanimelist.net/images/manga/1/213189.jpg)
+
 -   **type**: manga
 -   **original-name**: 繭、纏う
 -   **start-date**: 2018-02-10

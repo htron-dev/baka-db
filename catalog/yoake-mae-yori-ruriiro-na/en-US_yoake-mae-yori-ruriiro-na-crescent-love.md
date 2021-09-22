@@ -1,5 +1,7 @@
 # Yoake Mae yori Ruriiro na: Crescent Love
 
+![yoake-mae-yori-ruriiro-na-crescent-love](https://cdn.myanimelist.net/images/anime/2/19794.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 夜明け前より瑠璃色な -Crescent Love-

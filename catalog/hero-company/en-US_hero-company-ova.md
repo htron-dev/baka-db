@@ -1,5 +1,7 @@
 # Hero Company
 
+![hero-company](https://cdn.myanimelist.net/images/anime/7/73067.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ヒーローカンパニー

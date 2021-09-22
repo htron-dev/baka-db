@@ -1,5 +1,7 @@
 # Dragon Quest: Eden no Senshitachi
 
+![dragon-quest-eden-no-senshitachi](https://cdn.myanimelist.net/images/manga/2/896.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 59

@@ -1,5 +1,7 @@
 # Shippo no Kimochi
 
+![shippo-no-kimochi](https://cdn.myanimelist.net/images/manga/2/33413.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: しっぽのきもち

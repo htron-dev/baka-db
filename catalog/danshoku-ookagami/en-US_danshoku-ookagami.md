@@ -1,5 +1,7 @@
 # Danshoku Ookagami
 
+![danshoku-ookagami](https://cdn.myanimelist.net/images/manga/1/196406.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

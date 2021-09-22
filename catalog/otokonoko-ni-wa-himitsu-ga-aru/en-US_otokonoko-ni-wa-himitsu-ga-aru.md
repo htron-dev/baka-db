@@ -1,5 +1,7 @@
 # Otokonoko ni wa Himitsu ga Aru
 
+![otokonoko-ni-wa-himitsu-ga-aru](https://cdn.myanimelist.net/images/manga/3/145541.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

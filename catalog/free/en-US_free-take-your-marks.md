@@ -1,5 +1,7 @@
 # Free!: Take Your Marks
 
+![free-take-your-marks](https://cdn.myanimelist.net/images/anime/6/87928.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 特別版 Free!-Take Your Marks-

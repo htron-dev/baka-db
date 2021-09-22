@@ -1,5 +1,7 @@
 # Hoshi wo Katta Hi
 
+![hoshi-wo-katta-hi](https://cdn.myanimelist.net/images/anime/10/38233.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 星をかった日

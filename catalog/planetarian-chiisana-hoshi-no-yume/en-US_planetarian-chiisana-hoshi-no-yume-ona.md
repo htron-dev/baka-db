@@ -1,5 +1,7 @@
 # Planetarian: Chiisana Hoshi no Yume
 
+![planetarian-chiisana-hoshi-no-yume](https://cdn.myanimelist.net/images/anime/11/80753.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: planetarian ～ちいさなほしのゆめ～

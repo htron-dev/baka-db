@@ -1,5 +1,7 @@
 # Ao no Exorcist: Kyoto Fujouou-hen
 
+![ao-no-exorcist-kyoto-fujouou-hen](https://cdn.myanimelist.net/images/anime/5/85201.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 青の祓魔師 京都不浄王篇

@@ -1,5 +1,7 @@
 # Love Order 200X
 
+![love-order-200-x](https://cdn.myanimelist.net/images/manga/1/76491.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: Love Order 200X

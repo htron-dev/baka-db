@@ -1,5 +1,7 @@
 # Coming Up!
 
+![coming-up](https://cdn.myanimelist.net/images/manga/3/229327.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 84
 -   **original-name**: 커밍업

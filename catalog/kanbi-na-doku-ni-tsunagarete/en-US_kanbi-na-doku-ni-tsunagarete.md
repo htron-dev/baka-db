@@ -1,5 +1,7 @@
 # Kanbi na Doku ni Tsunagarete
 
+![kanbi-na-doku-ni-tsunagarete](https://cdn.myanimelist.net/images/manga/2/172146.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 甘美な毒に繋がれて

@@ -1,5 +1,7 @@
 # Kasho no Tsuki
 
+![kasho-no-tsuki](https://cdn.myanimelist.net/images/manga/3/15349.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **original-name**: 火宵の月

@@ -1,5 +1,7 @@
 # Bull to Arukeba...
 
+![bull-to-arukeba](https://cdn.myanimelist.net/images/manga/3/171804.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

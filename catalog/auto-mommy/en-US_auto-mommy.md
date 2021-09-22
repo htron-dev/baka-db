@@ -1,5 +1,7 @@
 # Auto Mommy
 
+![auto-mommy](https://cdn.myanimelist.net/images/anime/3/18636.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Auto Mommy

@@ -1,5 +1,7 @@
 # Mitsumei
 
+![mitsumei](https://cdn.myanimelist.net/images/manga/3/194193.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

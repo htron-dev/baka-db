@@ -1,5 +1,7 @@
 # 5-ji made Matenai
 
+![5-ji-made-matenai](https://cdn.myanimelist.net/images/manga/3/235578.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

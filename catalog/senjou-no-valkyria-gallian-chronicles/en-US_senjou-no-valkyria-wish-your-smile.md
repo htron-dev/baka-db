@@ -1,5 +1,7 @@
 # Senjou no Valkyria: wish your smile
 
+![senjou-no-valkyria-wish-your-smile](https://cdn.myanimelist.net/images/manga/1/20787.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

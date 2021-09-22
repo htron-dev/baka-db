@@ -1,5 +1,7 @@
 # Ookami Geboku wa Bara wo Karitai
 
+![ookami-geboku-wa-bara-wo-karitai](https://cdn.myanimelist.net/images/manga/2/141289.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: オオカミ下僕は薔薇を狩りたい

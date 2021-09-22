@@ -1,5 +1,7 @@
 # Mou Kimi wo Matanai
 
+![mou-kimi-wo-matanai](https://cdn.myanimelist.net/images/manga/1/77291.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

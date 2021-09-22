@@ -1,5 +1,7 @@
 # Couple Hajimemashita
 
+![couple-hajimemashita](https://cdn.myanimelist.net/images/manga/2/101289.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

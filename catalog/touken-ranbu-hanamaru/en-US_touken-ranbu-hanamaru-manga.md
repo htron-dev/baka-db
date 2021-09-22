@@ -1,5 +1,7 @@
 # Touken Ranbu: Hanamaru
 
+![touken-ranbu-hanamaru](https://cdn.myanimelist.net/images/manga/1/197919.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

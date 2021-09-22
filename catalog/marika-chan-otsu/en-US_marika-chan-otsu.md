@@ -1,5 +1,7 @@
 # Marika-chan Otsu
 
+![marika-chan-otsu](https://cdn.myanimelist.net/images/manga/3/199591.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: まりかちゃん乙

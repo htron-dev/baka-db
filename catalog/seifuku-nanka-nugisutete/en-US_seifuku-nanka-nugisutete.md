@@ -1,5 +1,7 @@
 # Seifuku nanka Nugisutete
 
+![seifuku-nanka-nugisutete](https://cdn.myanimelist.net/images/manga/1/196442.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

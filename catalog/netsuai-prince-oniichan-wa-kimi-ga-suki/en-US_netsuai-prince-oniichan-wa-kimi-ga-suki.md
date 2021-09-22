@@ -1,5 +1,7 @@
 # Netsuai Prince: Oniichan wa Kimi ga Suki
 
+![netsuai-prince-oniichan-wa-kimi-ga-suki](https://cdn.myanimelist.net/images/manga/2/205464.jpg)
+
 -   **type**: manga
 -   **original-name**: 熱愛プリンス お兄ちゃんはキミが好き
 -   **start-date**: 2014-11-24

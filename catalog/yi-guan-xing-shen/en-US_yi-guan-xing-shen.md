@@ -1,5 +1,7 @@
 # Yi Guan Xing Shen
 
+![yi-guan-xing-shen](https://cdn.myanimelist.net/images/anime/1156/109635.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 一罐醒神

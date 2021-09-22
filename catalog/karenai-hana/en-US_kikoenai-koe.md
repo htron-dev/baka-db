@@ -1,5 +1,7 @@
 # Kikoenai Koe
 
+![kikoenai-koe](https://cdn.myanimelist.net/images/manga/1/23453.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

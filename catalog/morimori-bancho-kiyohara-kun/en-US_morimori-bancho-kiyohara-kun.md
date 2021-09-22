@@ -1,5 +1,7 @@
 # Morimori! Bancho! Kiyohara-kun
 
+![morimori-bancho-kiyohara-kun](https://cdn.myanimelist.net/images/manga/2/37612.jpg)
+
 -   **type**: manga
 -   **original-name**: モリモリッ!ばんちょー!キヨハラくん
 

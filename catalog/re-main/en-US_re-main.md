@@ -1,5 +1,7 @@
 # Re-Main
 
+![re-main](https://cdn.myanimelist.net/images/anime/1838/114857.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: RE-MAIN（リメイン）

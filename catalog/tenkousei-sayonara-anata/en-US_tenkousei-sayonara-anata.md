@@ -1,5 +1,7 @@
 # Tenkousei Sayonara Anata
 
+![tenkousei-sayonara-anata](https://cdn.myanimelist.net/images/manga/2/88941.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

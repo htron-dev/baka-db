@@ -1,5 +1,7 @@
 # Aru Hi, Mokuyoukai de.
 
+![aru-hi-mokuyoukai-de](https://cdn.myanimelist.net/images/manga/3/247093.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Aishi Aisare.
 
+![aishi-aisare](https://cdn.myanimelist.net/images/manga/2/17343.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

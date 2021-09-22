@@ -1,5 +1,7 @@
 # Kimi to, Nami ni Noretara
 
+![kimi-to-nami-ni-noretara](https://cdn.myanimelist.net/images/anime/1893/99701.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: きみと、波にのれたら

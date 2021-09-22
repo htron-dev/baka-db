@@ -1,5 +1,7 @@
 # Cardfight!! Vanguard: Asia Circuit-hen
 
+![cardfight-vanguard-asia-circuit-hen](https://cdn.myanimelist.net/images/anime/13/41627.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: カードファイト!! ヴァンガード アジアサーキット編

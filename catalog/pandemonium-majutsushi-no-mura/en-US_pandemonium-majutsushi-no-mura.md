@@ -1,5 +1,7 @@
 # Pandemonium: Majutsushi no Mura
 
+![pandemonium-majutsushi-no-mura](https://cdn.myanimelist.net/images/manga/2/114895.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

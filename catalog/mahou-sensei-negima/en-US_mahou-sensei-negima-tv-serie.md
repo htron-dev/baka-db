@@ -1,5 +1,7 @@
 # Mahou Sensei Negima!
 
+![mahou-sensei-negima](https://cdn.myanimelist.net/images/anime/12/89535.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 魔法先生 ネギま！

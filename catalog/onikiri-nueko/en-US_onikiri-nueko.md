@@ -1,5 +1,7 @@
 # Onikiri Nueko
 
+![onikiri-nueko](https://cdn.myanimelist.net/images/manga/2/162027.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 40

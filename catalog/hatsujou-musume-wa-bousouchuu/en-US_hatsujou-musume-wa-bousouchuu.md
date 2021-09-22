@@ -1,5 +1,7 @@
 # Hatsujou Musume wa Bousouchuu.
 
+![hatsujou-musume-wa-bousouchuu](https://cdn.myanimelist.net/images/manga/3/206558.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

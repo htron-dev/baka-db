@@ -1,5 +1,7 @@
 # Kokoro no Kanashimi
 
+![kokoro-no-kanashimi](https://cdn.myanimelist.net/images/manga/3/50127.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

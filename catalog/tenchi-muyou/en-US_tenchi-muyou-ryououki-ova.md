@@ -1,5 +1,7 @@
 # Tenchi Muyou! Ryououki
 
+![tenchi-muyou-ryououki](https://cdn.myanimelist.net/images/anime/1224/95301.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 天地無用！魎皇鬼

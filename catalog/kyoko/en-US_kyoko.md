@@ -1,5 +1,7 @@
 # Kyoko
 
+![kyoko](https://cdn.myanimelist.net/images/manga/1/3593.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

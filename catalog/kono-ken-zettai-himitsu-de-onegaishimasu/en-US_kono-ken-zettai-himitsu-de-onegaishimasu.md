@@ -1,5 +1,7 @@
 # Kono Ken, Zettai Himitsu de Onegaishimasu!
 
+![kono-ken-zettai-himitsu-de-onegaishimasu](https://cdn.myanimelist.net/images/manga/2/225401.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

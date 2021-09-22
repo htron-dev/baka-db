@@ -1,5 +1,7 @@
 # Seoul-yeok
 
+![seoul-yeok](https://cdn.myanimelist.net/images/anime/10/81971.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 서울역
@@ -18,4 +20,4 @@ Several groups of people try to survive a zombie pandemic that unleashes itself 
 ## Links
 
 -   [My Anime list](https://myanimelist.net/anime/34048/Seoul-yeok)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Seoul_Station_(film)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Seoul_Station_%28film%29)

@@ -1,5 +1,7 @@
 # Oshigoto Owari ni Gohoubi wo
 
+![oshigoto-owari-ni-gohoubi-wo](https://cdn.myanimelist.net/images/manga/3/197046.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

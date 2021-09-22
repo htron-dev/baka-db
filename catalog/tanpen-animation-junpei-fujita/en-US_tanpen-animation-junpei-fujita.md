@@ -1,5 +1,7 @@
 # Tanpen Animation Junpei Fujita
 
+![tanpen-animation-junpei-fujita](https://cdn.myanimelist.net/images/anime/4/41017.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 短編アニメーション Junpei Fujita

@@ -1,5 +1,7 @@
 # Sora wo Kakeru Shoujo Picture Drama
 
+![sora-wo-kakeru-shoujo-picture-drama](https://cdn.myanimelist.net/images/anime/9/22636.jpg)
+
 -   **type**: special
 -   **episodes**: 9
 -   **original-name**: 宇宙をかける少女 ピクチャードラマ

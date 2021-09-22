@@ -1,5 +1,7 @@
 # Ijime no Jikan
 
+![ijime-no-jikan](https://cdn.myanimelist.net/images/manga/1/204137.jpg)
+
 -   **type**: manga
 -   **original-name**: イジメの時間
 -   **start-date**: 2016-10-25

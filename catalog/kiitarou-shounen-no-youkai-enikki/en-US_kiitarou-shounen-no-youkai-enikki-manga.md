@@ -1,5 +1,7 @@
 # Kiitarou Shounen no Youkai Enikki
 
+![kiitarou-shounen-no-youkai-enikki](https://cdn.myanimelist.net/images/manga/1/166770.jpg)
+
 -   **type**: manga
 -   **original-name**: 奇異太郎少年の妖怪絵日記
 -   **start-date**: 2008-10-24

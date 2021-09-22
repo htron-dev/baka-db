@@ -1,5 +1,7 @@
 # Kyoushoku Soukou Guyver II
 
+![kyoushoku-soukou-guyver-ii](https://cdn.myanimelist.net/images/anime/1833/92279.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 強殖装甲ガイバー II

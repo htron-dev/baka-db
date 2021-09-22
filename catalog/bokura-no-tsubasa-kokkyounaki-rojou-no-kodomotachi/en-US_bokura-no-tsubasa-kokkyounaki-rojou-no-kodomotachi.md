@@ -1,5 +1,7 @@
 # Bokura no Tsubasa: Kokkyounaki Rojou no Kodomotachi
 
+![bokura-no-tsubasa-kokkyounaki-rojou-no-kodomotachi](https://cdn.myanimelist.net/images/manga/3/42494.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

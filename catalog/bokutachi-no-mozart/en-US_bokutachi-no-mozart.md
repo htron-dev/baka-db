@@ -1,5 +1,7 @@
 # Bokutachi no Mozart
 
+![bokutachi-no-mozart](https://cdn.myanimelist.net/images/manga/3/157421.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

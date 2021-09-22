@@ -1,5 +1,7 @@
 # Juujin Taichou no (Kari) Konyaku Jijou
 
+![juujin-taichou-no-kari-konyaku-jijou](https://cdn.myanimelist.net/images/manga/2/241424.jpg)
+
 -   **type**: manga
 -   **original-name**: 獣人隊長の(仮)婚約事情
 -   **start-date**: 2019-12-20

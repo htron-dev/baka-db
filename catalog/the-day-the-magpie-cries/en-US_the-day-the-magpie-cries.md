@@ -1,5 +1,7 @@
 # The Day the Magpie Cries
 
+![the-day-the-magpie-cries](https://cdn.myanimelist.net/images/manga/1/205035.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 29

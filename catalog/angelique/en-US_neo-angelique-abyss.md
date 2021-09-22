@@ -1,5 +1,7 @@
 # Neo Angelique Abyss
 
+![neo-angelique-abyss](https://cdn.myanimelist.net/images/anime/3/20960.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ネオアンジェリーク Abyss

@@ -1,5 +1,7 @@
 # Hotomeku Kakashi
 
+![hotomeku-kakashi](https://cdn.myanimelist.net/images/manga/3/244252.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

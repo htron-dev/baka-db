@@ -1,5 +1,7 @@
 # School Live Online
 
+![school-live-online](https://cdn.myanimelist.net/images/manga/2/138359.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **original-name**: スクールライブ・オンライン

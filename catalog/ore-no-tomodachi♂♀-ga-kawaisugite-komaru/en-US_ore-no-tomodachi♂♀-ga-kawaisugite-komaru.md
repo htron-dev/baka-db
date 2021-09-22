@@ -1,5 +1,7 @@
 # Ore no Tomodachi♂♀ ga Kawaisugite Komaru!
 
+![ore-no-tomodachi♂♀-ga-kawaisugite-komaru](https://cdn.myanimelist.net/images/manga/2/231595.jpg)
+
 -   **type**: manga
 -   **original-name**: 俺の友達 ♂♀ が可愛すぎて困る！
 -   **start-date**: 2019-03-27

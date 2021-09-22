@@ -1,5 +1,7 @@
 # D.Gray-man: Reverse
 
+![d-gray-man-reverse](https://cdn.myanimelist.net/images/manga/3/12458.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 8

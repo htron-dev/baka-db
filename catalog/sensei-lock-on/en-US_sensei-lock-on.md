@@ -1,5 +1,7 @@
 # Sensei Lock On!
 
+![sensei-lock-on](https://cdn.myanimelist.net/images/manga/1/144823.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 35

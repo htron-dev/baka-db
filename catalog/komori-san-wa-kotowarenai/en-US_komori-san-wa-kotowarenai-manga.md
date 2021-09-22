@@ -1,5 +1,7 @@
 # Komori-san wa Kotowarenai!
 
+![komori-san-wa-kotowarenai](https://cdn.myanimelist.net/images/manga/3/188964.jpg)
+
 -   **type**: manga
 -   **original-name**: 小森さんは断れない！
 -   **start-date**: 2012-02-27

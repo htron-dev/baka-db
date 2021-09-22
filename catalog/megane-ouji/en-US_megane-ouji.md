@@ -1,5 +1,7 @@
 # Megane Ouji
 
+![megane-ouji](https://cdn.myanimelist.net/images/manga/2/126575.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 12

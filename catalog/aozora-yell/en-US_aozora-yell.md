@@ -1,5 +1,7 @@
 # Aozora Yell
 
+![aozora-yell](https://cdn.myanimelist.net/images/manga/1/163927.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 76

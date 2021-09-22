@@ -1,5 +1,7 @@
 # Chuunibyou demo Koi ga Shitai! Movie: Take On Me
 
+![chuunibyou-demo-koi-ga-shitai-movie-take-on-me](https://cdn.myanimelist.net/images/anime/2/89974.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 中二病でも恋がしたい！-Take On Me-

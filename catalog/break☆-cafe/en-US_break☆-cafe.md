@@ -1,5 +1,7 @@
 # Break☆Cafe
 
+![break☆-cafe](https://cdn.myanimelist.net/images/manga/2/26334.jpg)
+
 -   **type**: manga
 -   **original-name**: ブレイク・カフェ; ブレイク ☆ カフェ
 

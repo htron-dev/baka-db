@@ -1,5 +1,7 @@
 # Boku no Hero Academia the Movie 2: Heroes:Rising
 
+![boku-no-hero-academia-the-movie-2-heroes-rising](https://cdn.myanimelist.net/images/anime/1019/103292.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 僕のヒーローアカデミア THE MOVIE 　ヒーローズ：ライジング

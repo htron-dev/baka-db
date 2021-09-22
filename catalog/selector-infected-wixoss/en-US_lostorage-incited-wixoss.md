@@ -1,5 +1,7 @@
 # Lostorage Incited WIXOSS
 
+![lostorage-incited-wixoss](https://cdn.myanimelist.net/images/anime/3/82289.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: Lostorage incited WIXOSS

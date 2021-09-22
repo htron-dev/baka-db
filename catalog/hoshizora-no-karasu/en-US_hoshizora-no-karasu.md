@@ -1,5 +1,7 @@
 # Hoshizora no Karasu
 
+![hoshizora-no-karasu](https://cdn.myanimelist.net/images/manga/2/164247.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 54

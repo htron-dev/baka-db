@@ -1,5 +1,7 @@
 # Mina no Mura no Gomi Soudou
 
+![mina-no-mura-no-gomi-soudou](https://cdn.myanimelist.net/images/anime/12/66277.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ミナの村のごみ騒動

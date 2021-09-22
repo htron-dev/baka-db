@@ -1,5 +1,7 @@
 # Gyutte ne?
 
+![gyutte-ne](https://cdn.myanimelist.net/images/manga/2/23281.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ギュッてね?

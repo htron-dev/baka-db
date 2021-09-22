@@ -1,5 +1,7 @@
 # Duel Masters Movie 2: Lunatic God Saga
 
+![duel-masters-movie-2-lunatic-god-saga](https://cdn.myanimelist.net/images/anime/5/58455.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版デュエル・マスターズ 黒月の神帝(ルナティック・ゴッド・サーガ)

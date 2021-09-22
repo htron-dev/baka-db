@@ -1,5 +1,7 @@
 # Fuwa-Choco
 
+![fuwa-choco](https://cdn.myanimelist.net/images/manga/2/202608.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 25

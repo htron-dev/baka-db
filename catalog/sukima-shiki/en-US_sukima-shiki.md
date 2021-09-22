@@ -1,5 +1,7 @@
 # Sukima-Shiki
 
+![sukima-shiki](https://cdn.myanimelist.net/images/manga/1/19105.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

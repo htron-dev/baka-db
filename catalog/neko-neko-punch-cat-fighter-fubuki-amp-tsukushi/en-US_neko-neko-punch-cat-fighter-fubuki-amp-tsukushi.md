@@ -1,5 +1,7 @@
 # Neko Neko Punch! - Cat Fighter Fubuki &amp; Tsukushi
 
+![neko-neko-punch-cat-fighter-fubuki-amp-tsukushi](https://cdn.myanimelist.net/images/manga/3/131475.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

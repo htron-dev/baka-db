@@ -1,5 +1,7 @@
 # Samchongsa: Time Machine 001
 
+![samchongsa-time-machine-001](https://cdn.myanimelist.net/images/anime/12/61651.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 삼총사 타임머신 001

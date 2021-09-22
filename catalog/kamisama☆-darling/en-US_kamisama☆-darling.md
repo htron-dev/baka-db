@@ -1,5 +1,7 @@
 # Kamisama☆Darling
 
+![kamisama☆-darling](https://cdn.myanimelist.net/images/manga/1/157422.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 神様 ☆ ダーリン

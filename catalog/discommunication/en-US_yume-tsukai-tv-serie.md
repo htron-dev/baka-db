@@ -1,5 +1,7 @@
 # Yume Tsukai
 
+![yume-tsukai](https://cdn.myanimelist.net/images/anime/12/46721.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 夢使い

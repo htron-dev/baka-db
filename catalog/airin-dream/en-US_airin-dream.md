@@ -1,5 +1,7 @@
 # Airin Dream
 
+![airin-dream](https://cdn.myanimelist.net/images/manga/3/9643.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 

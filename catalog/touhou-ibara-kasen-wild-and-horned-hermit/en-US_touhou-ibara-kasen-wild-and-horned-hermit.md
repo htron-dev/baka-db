@@ -1,5 +1,7 @@
 # Touhou Ibara Kasen: Wild and Horned Hermit.
 
+![touhou-ibara-kasen-wild-and-horned-hermit](https://cdn.myanimelist.net/images/manga/3/149288.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 50

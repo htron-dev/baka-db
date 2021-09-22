@@ -1,5 +1,7 @@
 # Overlord Movie 1: Fushisha no Ou
 
+![overlord-movie-1-fushisha-no-ou](https://cdn.myanimelist.net/images/anime/12/87759.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 【前編】劇場版総集編 オーバーロード 不死者の王
@@ -26,4 +28,4 @@ First Overlord recap film.
 -   [Official Site](http://overlord-anime.com/_season1/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12439)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18967)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%89_(%E5%B0%8F%E8%AA%AC)>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%89_%28%E5%B0%8F%E8%AA%AC%29)

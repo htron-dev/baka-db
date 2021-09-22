@@ -1,5 +1,7 @@
 # Ima, Ai ni Yukimasu
 
+![ima-ai-ni-yukimasu](https://cdn.myanimelist.net/images/manga/3/117309.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

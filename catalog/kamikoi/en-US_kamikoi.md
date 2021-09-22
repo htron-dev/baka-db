@@ -1,5 +1,7 @@
 # Kamikoi!
 
+![kamikoi](https://cdn.myanimelist.net/images/manga/2/184997.jpg)
+
 -   **type**: light-novel
 -   **original-name**: かみこい!
 -   **start-date**: 2016-11-15

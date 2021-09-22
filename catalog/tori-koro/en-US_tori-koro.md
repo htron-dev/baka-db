@@ -1,5 +1,7 @@
 # Tori Koro
 
+![tori-koro](https://cdn.myanimelist.net/images/manga/2/4735.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 30

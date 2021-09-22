@@ -1,5 +1,7 @@
 # Sorehodo Hima dewa Arimasen.
 
+![sorehodo-hima-dewa-arimasen](https://cdn.myanimelist.net/images/manga/3/215053.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 34

@@ -1,5 +1,7 @@
 # Captain Tsubasa: Kaigai Gekitou-hen - En La Liga
 
+![captain-tsubasa-kaigai-gekitou-hen-en-la-liga](https://cdn.myanimelist.net/images/manga/3/33231.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 58

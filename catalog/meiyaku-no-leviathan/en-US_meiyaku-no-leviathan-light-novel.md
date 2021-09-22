@@ -1,5 +1,7 @@
 # Meiyaku no Leviathan
 
+![meiyaku-no-leviathan](https://cdn.myanimelist.net/images/manga/3/202946.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 50

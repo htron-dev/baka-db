@@ -1,5 +1,7 @@
 # Detective Conan: Conan vs. Kid - Jet Black Sniper
 
+![detective-conan-conan-vs-kid-jet-black-sniper](https://cdn.myanimelist.net/images/anime/13/27102.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン コナン vs キッド 漆黒の狙撃者(スナイパー)

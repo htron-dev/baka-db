@@ -1,5 +1,7 @@
 # Robotan
 
+![robotan](https://cdn.myanimelist.net/images/anime/11/52977.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 104
 -   **original-name**: ロボタン

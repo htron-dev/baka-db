@@ -1,5 +1,7 @@
 # Kouen no Crossmagia: Kurueru Ryuu to Saiyaku no Majo
 
+![kouen-no-crossmagia-kurueru-ryuu-to-saiyaku-no-majo](https://cdn.myanimelist.net/images/manga/3/120641.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

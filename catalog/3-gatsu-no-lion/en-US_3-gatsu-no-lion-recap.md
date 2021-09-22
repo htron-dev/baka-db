@@ -1,5 +1,7 @@
 # 3-gatsu no Lion Recap
 
+![3-gatsu-no-lion-recap](https://cdn.myanimelist.net/images/anime/9/83593.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 3 月のライオン総集編

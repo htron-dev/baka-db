@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam Unicorn
 
+![kidou-senshi-gundam-unicorn](https://cdn.myanimelist.net/images/manga/1/179084.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 11
 -   **chapters**: 31

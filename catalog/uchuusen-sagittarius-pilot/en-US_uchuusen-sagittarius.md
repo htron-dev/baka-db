@@ -1,5 +1,7 @@
 # Uchuusen Sagittarius
 
+![uchuusen-sagittarius](https://cdn.myanimelist.net/images/anime/2/45430.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 77
 -   **original-name**: 宇宙船サジタリウス

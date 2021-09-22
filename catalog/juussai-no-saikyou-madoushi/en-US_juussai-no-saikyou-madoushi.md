@@ -1,5 +1,7 @@
 # Juussai no Saikyou Madoushi
 
+![juussai-no-saikyou-madoushi](https://cdn.myanimelist.net/images/manga/1/194476.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 十歳の最強魔導師
 -   **start-date**: 2017-03-25

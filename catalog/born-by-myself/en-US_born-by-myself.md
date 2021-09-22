@@ -1,5 +1,7 @@
 # Born by Myself
 
+![born-by-myself](https://cdn.myanimelist.net/images/anime/11/23961.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: BORN BY MYSELF

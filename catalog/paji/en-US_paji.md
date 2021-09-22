@@ -1,5 +1,7 @@
 # Paji
 
+![paji](https://cdn.myanimelist.net/images/manga/3/41629.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: ぱじ

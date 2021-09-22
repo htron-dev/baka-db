@@ -1,5 +1,7 @@
 # Dame Yome Nikki
 
+![dame-yome-nikki](https://cdn.myanimelist.net/images/manga/3/34157.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: だめよめにっき

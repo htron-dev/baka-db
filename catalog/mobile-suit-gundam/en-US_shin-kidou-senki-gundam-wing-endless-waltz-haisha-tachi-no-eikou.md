@@ -1,5 +1,7 @@
 # Shin Kidou Senki Gundam Wing: Endless Waltz - Haisha-tachi no Eikou
 
+![shin-kidou-senki-gundam-wing-endless-waltz-haisha-tachi-no-eikou](https://cdn.myanimelist.net/images/manga/2/148227.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 85

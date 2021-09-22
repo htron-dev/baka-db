@@ -1,5 +1,7 @@
 # Sekai no Hate
 
+![sekai-no-hate](https://cdn.myanimelist.net/images/manga/2/86391.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam F90
 
+![kidou-senshi-gundam-f-90](https://cdn.myanimelist.net/images/manga/1/65879.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

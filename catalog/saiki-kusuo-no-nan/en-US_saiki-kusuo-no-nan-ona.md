@@ -1,5 +1,7 @@
 # Saiki Kusuo no Ψ-nan (ONA)
 
+![saiki-kusuo-no-ψ-nan-ona](https://cdn.myanimelist.net/images/anime/10/54195.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 斉木楠雄の Ψ 難

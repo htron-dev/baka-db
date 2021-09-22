@@ -1,5 +1,7 @@
 # Hyakki Tsurezurebukuro
 
+![hyakki-tsurezurebukuro](https://cdn.myanimelist.net/images/manga/3/196315.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 28

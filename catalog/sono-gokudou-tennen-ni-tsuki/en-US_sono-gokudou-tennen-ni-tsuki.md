@@ -1,5 +1,7 @@
 # Sono Gokudou, Tennen ni Tsuki
 
+![sono-gokudou-tennen-ni-tsuki](https://cdn.myanimelist.net/images/manga/1/170080.jpg)
+
 -   **type**: manga
 -   **original-name**: その極道、天然につき
 -   **start-date**: 2015-05-02

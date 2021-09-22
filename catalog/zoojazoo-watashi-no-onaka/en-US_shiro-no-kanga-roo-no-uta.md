@@ -1,5 +1,7 @@
 # Shiro no Kanga"roo" no Uta
 
+![shiro-no-kanga-roo-no-uta](https://cdn.myanimelist.net/images/anime/1373/102881.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: しろのカンガ"ルー"のうた

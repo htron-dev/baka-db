@@ -1,5 +1,7 @@
 # Yume Utsutsu
 
+![yume-utsutsu](https://cdn.myanimelist.net/images/anime/13/72283.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 夢現

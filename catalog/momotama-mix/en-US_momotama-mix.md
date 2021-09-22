@@ -1,5 +1,7 @@
 # Momotama Mix
 
+![momotama-mix](https://cdn.myanimelist.net/images/manga/2/27712.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ももたま・ミックス

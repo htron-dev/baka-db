@@ -1,5 +1,7 @@
 # Momoiro Sweety
 
+![momoiro-sweety](https://cdn.myanimelist.net/images/manga/3/27776.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: ももいろスウィーティー

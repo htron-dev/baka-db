@@ -1,5 +1,7 @@
 # Kero Kero Keroppi no Aladdin to Mahou no Lamp
 
+![kero-kero-keroppi-no-aladdin-to-mahou-no-lamp](https://cdn.myanimelist.net/images/anime/5/58889.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: けろけろけろっぴのアラジンと魔法のランプ

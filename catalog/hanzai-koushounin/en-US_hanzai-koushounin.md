@@ -1,5 +1,7 @@
 # Hanzai Koushounin
 
+![hanzai-koushounin](https://cdn.myanimelist.net/images/manga/2/14659.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 罪交渉人 峰岸英太郎

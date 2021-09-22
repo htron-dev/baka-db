@@ -1,5 +1,7 @@
 # Romantica Clock
 
+![romantica-clock](https://cdn.myanimelist.net/images/anime/8/58769.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: ロマンチカ クロック

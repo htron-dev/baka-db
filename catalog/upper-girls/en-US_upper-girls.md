@@ -1,5 +1,7 @@
 # Upper Girls!
 
+![upper-girls](https://cdn.myanimelist.net/images/manga/1/227145.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Me~teru no Kimochi
 
+![me-teru-no-kimochi](https://cdn.myanimelist.net/images/manga/2/204761.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

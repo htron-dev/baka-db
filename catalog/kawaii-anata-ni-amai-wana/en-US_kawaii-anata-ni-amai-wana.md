@@ -1,5 +1,7 @@
 # Kawaii Anata ni Amai Wana
 
+![kawaii-anata-ni-amai-wana](https://cdn.myanimelist.net/images/manga/1/65875.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

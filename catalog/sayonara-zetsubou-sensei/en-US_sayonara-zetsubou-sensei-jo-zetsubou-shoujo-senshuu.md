@@ -1,5 +1,7 @@
 # Sayonara Zetsubou Sensei Jo: Zetsubou Shoujo Senshuu
 
+![sayonara-zetsubou-sensei-jo-zetsubou-shoujo-senshuu](https://cdn.myanimelist.net/images/anime/9/21815.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: さよなら絶望先生 序〜絶望少女撰集〜

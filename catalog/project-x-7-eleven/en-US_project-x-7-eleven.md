@@ -1,5 +1,7 @@
 # Project X: 7-Eleven
 
+![project-x-7-eleven](https://cdn.myanimelist.net/images/manga/1/24727.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

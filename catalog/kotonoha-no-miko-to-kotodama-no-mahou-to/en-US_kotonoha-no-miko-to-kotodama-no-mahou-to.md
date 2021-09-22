@@ -1,5 +1,7 @@
 # Kotonoha no Miko to Kotodama no Mahou to
 
+![kotonoha-no-miko-to-kotodama-no-mahou-to](https://cdn.myanimelist.net/images/manga/3/168285.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

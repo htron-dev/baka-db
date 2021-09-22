@@ -1,5 +1,7 @@
 # Affair
 
+![affair](https://cdn.myanimelist.net/images/manga/3/6029.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Boku wa Kimi no Iinari
 
+![boku-wa-kimi-no-iinari](https://cdn.myanimelist.net/images/manga/2/228463.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

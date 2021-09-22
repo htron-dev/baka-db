@@ -1,5 +1,7 @@
 # Gakuen Senki Muryou Recap
 
+![gakuen-senki-muryou-recap](https://cdn.myanimelist.net/images/anime/13/84191.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 学園戦記ムリョウ 総集編

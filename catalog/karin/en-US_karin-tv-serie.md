@@ -1,5 +1,7 @@
 # Karin
 
+![karin](https://cdn.myanimelist.net/images/anime/3/46833.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: かりん

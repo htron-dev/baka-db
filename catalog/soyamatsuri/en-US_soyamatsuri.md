@@ -1,5 +1,7 @@
 # Soyamatsuri
 
+![soyamatsuri](https://cdn.myanimelist.net/images/manga/2/175588.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

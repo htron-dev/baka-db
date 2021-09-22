@@ -1,5 +1,7 @@
 # Trade: Ore wa Kyou kara Joshikousei
 
+![trade-ore-wa-kyou-kara-joshikousei](https://cdn.myanimelist.net/images/manga/2/173976.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Tokyo Ravens
 
+![tokyo-ravens](https://cdn.myanimelist.net/images/manga/1/150362.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 東京レイヴンズ
 -   **start-date**: 2010-05-25

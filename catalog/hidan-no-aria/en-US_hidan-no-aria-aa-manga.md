@@ -1,5 +1,7 @@
 # Hidan no Aria AA
 
+![hidan-no-aria-aa](https://cdn.myanimelist.net/images/manga/3/211087.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 109

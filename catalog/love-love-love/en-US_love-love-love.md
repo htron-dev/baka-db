@@ -1,5 +1,7 @@
 # Love! Love! Love!
 
+![love-love-love](https://cdn.myanimelist.net/images/manga/1/195996.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

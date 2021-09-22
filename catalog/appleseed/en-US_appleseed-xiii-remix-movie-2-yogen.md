@@ -1,5 +1,7 @@
 # Appleseed XIII Remix Movie 2: Yogen
 
+![appleseed-xiii-remix-movie-2-yogen](https://cdn.myanimelist.net/images/anime/6/37085.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場リミックス版 APPLESEED XIII ～予言～

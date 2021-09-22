@@ -1,5 +1,7 @@
 # Tanoshii Youheidan
 
+![tanoshii-youheidan](https://cdn.myanimelist.net/images/manga/2/189080.jpg)
+
 -   **type**: light-novel
 -   **original-name**: たのしい傭兵団
 -   **start-date**: 2017-01-18

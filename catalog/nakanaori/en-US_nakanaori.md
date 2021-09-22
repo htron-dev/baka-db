@@ -1,5 +1,7 @@
 # Nakanaori
 
+![nakanaori](https://cdn.myanimelist.net/images/anime/7/77497.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: なカなおり

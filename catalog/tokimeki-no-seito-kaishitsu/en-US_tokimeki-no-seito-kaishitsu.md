@@ -1,5 +1,7 @@
 # Tokimeki no Seito Kaishitsu
 
+![tokimeki-no-seito-kaishitsu](https://cdn.myanimelist.net/images/manga/2/2218.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 6

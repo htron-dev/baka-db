@@ -1,5 +1,7 @@
 # Kyoukaisenjou no Horizon Special
 
+![kyoukaisenjou-no-horizon-special](https://cdn.myanimelist.net/images/anime/1093/93237.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 境界線上のホライゾン 完全新作アニメーション「境界線上のホライゾン XXI-PV」

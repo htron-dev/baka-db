@@ -1,5 +1,7 @@
 # Wing
 
+![wing](https://cdn.myanimelist.net/images/manga/3/14630.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 

@@ -1,5 +1,7 @@
 # Jitsuroku! Shinwakai
 
+![jitsuroku-shinwakai](https://cdn.myanimelist.net/images/manga/2/45997.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Ore no Yome nante Inee!
 
+![ore-no-yome-nante-inee](https://cdn.myanimelist.net/images/manga/2/166102.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

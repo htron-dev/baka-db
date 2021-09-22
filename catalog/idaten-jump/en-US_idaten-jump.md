@@ -1,5 +1,7 @@
 # Idaten Jump
 
+![idaten-jump](https://cdn.myanimelist.net/images/anime/4/21027.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 韋駄天翔(ジャンプ)

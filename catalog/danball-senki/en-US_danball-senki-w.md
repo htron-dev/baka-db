@@ -1,5 +1,7 @@
 # Danball Senki W
 
+![danball-senki-w](https://cdn.myanimelist.net/images/anime/4/56963.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 58
 -   **original-name**: ダンボール戦機 Ｗ
@@ -12,7 +14,6 @@
 ## Tags
 
 -   action
-
 -   mecha
 
 ## Sinopse

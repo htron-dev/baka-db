@@ -1,5 +1,7 @@
 # Miracle Giants Doumu-kun Special
 
+![miracle-giants-doumu-kun-special](https://cdn.myanimelist.net/images/anime/9/64111.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ミラクル・ジャイアンツ童夢くん

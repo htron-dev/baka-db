@@ -1,5 +1,7 @@
 # Hare-Kon.
 
+![hare-kon](https://cdn.myanimelist.net/images/manga/1/188794.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 187

@@ -1,5 +1,7 @@
 # Mahou no Yama
 
+![mahou-no-yama](https://cdn.myanimelist.net/images/manga/1/34964.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 魔法の山

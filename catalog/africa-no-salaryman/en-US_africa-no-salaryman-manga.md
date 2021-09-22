@@ -1,5 +1,7 @@
 # Africa no Salaryman
 
+![africa-no-salaryman](https://cdn.myanimelist.net/images/manga/1/157545.jpg)
+
 -   **type**: manga
 -   **original-name**: アフリカのサラリーマン
 -   **start-date**: 2014-11-14

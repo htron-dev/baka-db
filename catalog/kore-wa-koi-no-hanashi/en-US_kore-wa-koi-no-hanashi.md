@@ -1,5 +1,7 @@
 # Kore wa Koi no Hanashi
 
+![kore-wa-koi-no-hanashi](https://cdn.myanimelist.net/images/manga/2/196299.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 45

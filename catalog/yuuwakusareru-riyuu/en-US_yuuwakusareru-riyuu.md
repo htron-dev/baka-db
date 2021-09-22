@@ -1,5 +1,7 @@
 # Yuuwakusareru Riyuu
 
+![yuuwakusareru-riyuu](https://cdn.myanimelist.net/images/manga/3/172237.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 誘惑される理由

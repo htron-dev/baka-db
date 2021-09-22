@@ -1,5 +1,7 @@
 # Devilman Saga
 
+![devilman-saga](https://cdn.myanimelist.net/images/manga/3/159421.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **original-name**: デビルマンサーガ

@@ -1,5 +1,7 @@
 # Kimi no Suki na Uta
 
+![kimi-no-suki-na-uta](https://cdn.myanimelist.net/images/manga/1/24160.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: キミの好きなうた

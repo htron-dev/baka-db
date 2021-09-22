@@ -1,5 +1,7 @@
 # Deli Heal Dungeon: Kojirase Maou, Fuzoku Keiei Hajimemashita
 
+![deli-heal-dungeon-kojirase-maou-fuzoku-keiei-hajimemashita](https://cdn.myanimelist.net/images/manga/1/217339.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

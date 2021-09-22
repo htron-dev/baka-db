@@ -1,5 +1,7 @@
 # InuYasha Movie 1: Toki wo Koeru Omoi
 
+![inu-yasha-movie-1-toki-wo-koeru-omoi](https://cdn.myanimelist.net/images/anime/1683/94370.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 犬夜叉 時代を越える想い

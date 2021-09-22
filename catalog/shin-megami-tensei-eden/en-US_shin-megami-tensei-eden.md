@@ -1,5 +1,7 @@
 # Shin Megami Tensei: Eden
 
+![shin-megami-tensei-eden](https://cdn.myanimelist.net/images/manga/1/126657.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 真・女神転生 EDEN

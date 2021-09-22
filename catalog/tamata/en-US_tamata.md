@@ -1,5 +1,7 @@
 # Tamata
 
+![tamata](https://cdn.myanimelist.net/images/manga/3/202269.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 35

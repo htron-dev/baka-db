@@ -1,5 +1,7 @@
 # Isekai Munchkin: HP1 no Mama de Saikyou Saisoku Dungeon Kouryaku
 
+![isekai-munchkin-hp-1-no-mama-de-saikyou-saisoku-dungeon-kouryaku](https://cdn.myanimelist.net/images/manga/3/233730.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界マンチキン　ーＨＰ１のままで最強最速ダンジョン攻略ー
 -   **start-date**: 2019-02-05

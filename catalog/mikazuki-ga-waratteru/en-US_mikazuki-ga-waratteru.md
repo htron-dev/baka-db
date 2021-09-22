@@ -1,5 +1,7 @@
 # Mikazuki ga Waratteru
 
+![mikazuki-ga-waratteru](https://cdn.myanimelist.net/images/manga/1/124131.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 42

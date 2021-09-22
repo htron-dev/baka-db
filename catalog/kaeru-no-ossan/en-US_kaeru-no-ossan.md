@@ -1,5 +1,7 @@
 # Kaeru no Ossan
 
+![kaeru-no-ossan](https://cdn.myanimelist.net/images/manga/1/124831.jpg)
+
 -   **type**: manga
 -   **chapters**: 38
 -   **original-name**: 蛙のおっさん

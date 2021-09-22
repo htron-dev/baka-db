@@ -1,5 +1,7 @@
 # Arabians Romance: Hanayome wa Ou no Ude de Madoromu
 
+![arabians-romance-hanayome-wa-ou-no-ude-de-madoromu](https://cdn.myanimelist.net/images/manga/1/182777.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

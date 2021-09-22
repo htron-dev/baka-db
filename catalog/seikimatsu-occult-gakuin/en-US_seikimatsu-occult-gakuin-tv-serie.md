@@ -1,5 +1,7 @@
 # Seikimatsu Occult Gakuin
 
+![seikimatsu-occult-gakuin](https://cdn.myanimelist.net/images/anime/5/75257.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 世紀末オカルト学院

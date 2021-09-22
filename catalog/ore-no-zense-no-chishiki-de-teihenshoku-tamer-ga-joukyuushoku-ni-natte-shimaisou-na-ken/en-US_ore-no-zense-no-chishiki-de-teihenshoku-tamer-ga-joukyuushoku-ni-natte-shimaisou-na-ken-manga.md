@@ -1,5 +1,7 @@
 # Ore no Zense no Chishiki de Teihenshoku Tamer ga Joukyuushoku ni Natte Shimaisou na Ken
 
+![ore-no-zense-no-chishiki-de-teihenshoku-tamer-ga-joukyuushoku-ni-natte-shimaisou-na-ken](https://cdn.myanimelist.net/images/manga/3/247206.jpg)
+
 -   **type**: manga
 -   **original-name**: 俺の前世の知識で底辺職テイマーが上級職になってしまいそうな件
 -   **start-date**: 2020-10-23

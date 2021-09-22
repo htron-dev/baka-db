@@ -1,5 +1,7 @@
 # A\*D: Tenshi no Uso
 
+![a-d-tenshi-no-uso](https://cdn.myanimelist.net/images/manga/3/33556.jpg)
+
 -   **type**: manga
 -   **original-name**: A・D-天使の嘘
 -   **start-date**: 2008-05-28

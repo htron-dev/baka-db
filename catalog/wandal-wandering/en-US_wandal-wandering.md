@@ -1,5 +1,7 @@
 # Wandal Wandering!
 
+![wandal-wandering](https://cdn.myanimelist.net/images/manga/3/84705.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ワンダルワンダリング!

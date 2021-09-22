@@ -1,5 +1,7 @@
 # Torikago no Tsugai
 
+![torikago-no-tsugai](https://cdn.myanimelist.net/images/manga/2/119177.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

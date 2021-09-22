@@ -1,5 +1,7 @@
 # Ze
 
+![ze](https://cdn.myanimelist.net/images/manga/2/170506.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 66

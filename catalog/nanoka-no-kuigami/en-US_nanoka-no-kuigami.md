@@ -1,5 +1,7 @@
 # Nanoka no Kuigami
 
+![nanoka-no-kuigami](https://cdn.myanimelist.net/images/manga/1/164329.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 14

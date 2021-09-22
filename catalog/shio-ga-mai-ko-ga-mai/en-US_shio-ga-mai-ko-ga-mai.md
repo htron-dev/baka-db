@@ -1,5 +1,7 @@
 # Shio ga Mai Ko ga Mai
 
+![shio-ga-mai-ko-ga-mai](https://cdn.myanimelist.net/images/manga/1/244443.jpg)
+
 -   **type**: manga
 -   **original-name**: 潮が舞い子が舞い
 -   **start-date**: 2019-03-12

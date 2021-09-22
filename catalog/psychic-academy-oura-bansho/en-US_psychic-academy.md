@@ -1,5 +1,7 @@
 # Psychic Academy
 
+![psychic-academy](https://cdn.myanimelist.net/images/anime/12/25604.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: サイキックアカデミー煌羅万象

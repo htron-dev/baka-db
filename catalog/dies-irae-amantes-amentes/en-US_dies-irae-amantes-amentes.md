@@ -1,5 +1,7 @@
 # Dies Irae: Amantes Amentes
 
+![dies-irae-amantes-amentes](https://cdn.myanimelist.net/images/manga/2/182689.jpg)
+
 -   **type**: manga
 -   **original-name**: Dies irae ～ Amantes amentes ～
 -   **start-date**: 2016-01-27

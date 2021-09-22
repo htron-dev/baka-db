@@ -1,5 +1,7 @@
 # Torisetsu na Katekyo
 
+![torisetsu-na-katekyo](https://cdn.myanimelist.net/images/manga/2/163817.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: トリセツなカテキョ

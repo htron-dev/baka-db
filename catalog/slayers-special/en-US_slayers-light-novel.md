@@ -1,5 +1,7 @@
 # Slayers
 
+![slayers](https://cdn.myanimelist.net/images/manga/2/212734.jpg)
+
 -   **type**: light-novel
 -   **original-name**: スレイヤーズ
 -   **start-date**: 1990-01-17

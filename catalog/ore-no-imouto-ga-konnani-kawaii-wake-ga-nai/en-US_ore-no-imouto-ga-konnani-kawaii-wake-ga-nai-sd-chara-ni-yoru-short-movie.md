@@ -1,5 +1,7 @@
 # Ore no Imouto ga Konnani Kawaii Wake ga Nai.: SD Chara ni Yoru Short Movie
 
+![ore-no-imouto-ga-konnani-kawaii-wake-ga-nai-sd-chara-ni-yoru-short-movie](https://cdn.myanimelist.net/images/anime/7/54407.jpg)
+
 -   **type**: special
 -   **episodes**: 13
 -   **original-name**: 俺の妹がこんなに可愛いわけがない。SD キャラによるショートムービー

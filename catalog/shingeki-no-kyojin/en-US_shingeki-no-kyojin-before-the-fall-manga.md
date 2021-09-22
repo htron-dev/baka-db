@@ -1,5 +1,7 @@
 # Shingeki no Kyojin: Before the Fall
 
+![shingeki-no-kyojin-before-the-fall](https://cdn.myanimelist.net/images/manga/2/128683.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 73

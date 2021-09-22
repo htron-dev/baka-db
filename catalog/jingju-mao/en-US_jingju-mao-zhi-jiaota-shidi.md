@@ -1,5 +1,7 @@
 # Jingju Mao Zhi Jiaota Shidi
 
+![jingju-mao-zhi-jiaota-shidi](https://cdn.myanimelist.net/images/anime/1930/107868.jpg)
+
 -   **type**: ona
 -   **episodes**: 70
 -   **original-name**: 京剧猫之脚踏实地
@@ -11,7 +13,6 @@
 -   action
 -   adventure
 -   comedy
-
 -   fantasy
 
 ## Sinopse

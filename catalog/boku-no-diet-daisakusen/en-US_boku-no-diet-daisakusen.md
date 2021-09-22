@@ -1,5 +1,7 @@
 # Boku no Diet Daisakusen
 
+![boku-no-diet-daisakusen](https://cdn.myanimelist.net/images/anime/7/66229.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ぼくのダイエット大作戦

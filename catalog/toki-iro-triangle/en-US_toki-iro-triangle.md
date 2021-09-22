@@ -1,5 +1,7 @@
 # Toki-iro Triangle
 
+![toki-iro-triangle](https://cdn.myanimelist.net/images/manga/2/165011.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 20

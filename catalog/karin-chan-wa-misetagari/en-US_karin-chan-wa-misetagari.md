@@ -1,5 +1,7 @@
 # Karin-chan wa Misetagari
 
+![karin-chan-wa-misetagari](https://cdn.myanimelist.net/images/manga/2/215065.jpg)
+
 -   **type**: manga
 -   **original-name**: カリンちゃんは魅せたがり
 -   **start-date**: 2018-04-27

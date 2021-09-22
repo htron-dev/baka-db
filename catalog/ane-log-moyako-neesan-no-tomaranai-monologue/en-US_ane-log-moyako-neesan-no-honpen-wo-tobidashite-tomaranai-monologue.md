@@ -1,5 +1,7 @@
 # Ane Log: Moyako Neesan no Honpen wo Tobidashite Tomaranai Monologue
 
+![ane-log-moyako-neesan-no-honpen-wo-tobidashite-tomaranai-monologue](https://cdn.myanimelist.net/images/anime/9/67235.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 姉ログ 靄子姉さんの本編を飛び出しても止まらないモノローグ

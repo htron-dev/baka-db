@@ -1,5 +1,7 @@
 # Oni Odore!!
 
+![oni-odore](https://cdn.myanimelist.net/images/manga/2/221833.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

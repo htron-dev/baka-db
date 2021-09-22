@@ -1,5 +1,7 @@
 # Uchuu Kyoudai: Apo's Dream
 
+![uchuu-kyoudai-apos-dream](https://cdn.myanimelist.net/images/anime/4/37631.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 宇宙兄弟 Apo's Dream

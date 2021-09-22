@@ -1,5 +1,7 @@
 # Haikaburi no Kenja
 
+![haikaburi-no-kenja](https://cdn.myanimelist.net/images/manga/3/193734.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 灰かぶりの賢者
 -   **start-date**: 2017-03-25

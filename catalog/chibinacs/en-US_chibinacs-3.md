@@ -1,5 +1,7 @@
 # Chibinacs 3
 
+![chibinacs-3](https://cdn.myanimelist.net/images/anime/11/77794.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: チビナックス 3

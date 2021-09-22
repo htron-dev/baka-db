@@ -1,5 +1,7 @@
 # Tensai Bakabon
 
+![tensai-bakabon](https://cdn.myanimelist.net/images/anime/3/60845.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: 天才バカボン

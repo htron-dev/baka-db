@@ -1,5 +1,7 @@
 # Dance Dance Danseur
 
+![dance-dance-danseur](https://cdn.myanimelist.net/images/anime/1933/117581.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ダンス・ダンス・ダンスール
 -   **rating**: None

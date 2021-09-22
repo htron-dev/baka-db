@@ -1,5 +1,7 @@
 # Ultra Red
 
+![ultra-red](https://cdn.myanimelist.net/images/manga/3/2295.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 34

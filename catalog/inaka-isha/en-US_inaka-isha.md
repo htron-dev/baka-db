@@ -1,5 +1,7 @@
 # Inaka Isha
 
+![inaka-isha](https://cdn.myanimelist.net/images/anime/5/5344.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: カフカ 田舎医者
@@ -25,4 +27,4 @@ A hapless country doctor describes with breathless urgency a night-time summons 
 -   [Official Site](http://www.shochiku.co.jp/inakaisha/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5001)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6858)
--   [Wikipedia](<http://en.wikipedia.org/wiki/A_Country_Doctor_(film)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/A_Country_Doctor_%28film%29)

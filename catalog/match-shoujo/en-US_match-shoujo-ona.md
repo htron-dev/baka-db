@@ -1,5 +1,7 @@
 # Match Shoujo
 
+![match-shoujo](https://cdn.myanimelist.net/images/anime/12/78478.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 燐寸少女

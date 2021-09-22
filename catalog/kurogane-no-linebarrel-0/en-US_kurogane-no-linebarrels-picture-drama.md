@@ -1,5 +1,7 @@
 # Kurogane no Linebarrels Picture Drama
 
+![kurogane-no-linebarrels-picture-drama](https://cdn.myanimelist.net/images/anime/10/79581.jpg)
+
 -   **type**: special
 -   **episodes**: 9
 -   **original-name**: 鉄のラインバレル ピクチャードラマ

@@ -1,5 +1,7 @@
 # Ero Yume Aquarium
 
+![ero-yume-aquarium](https://cdn.myanimelist.net/images/manga/3/242062.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

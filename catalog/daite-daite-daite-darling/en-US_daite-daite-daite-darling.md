@@ -1,5 +1,7 @@
 # Daite Daite Daite Darling
 
+![daite-daite-daite-darling](https://cdn.myanimelist.net/images/manga/2/7169.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **original-name**: 抱いて抱いて抱いてダーリン

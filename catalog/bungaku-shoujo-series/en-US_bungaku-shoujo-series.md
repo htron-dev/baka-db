@@ -1,5 +1,7 @@
 # "Bungaku Shoujo" Series
 
+![bungaku-shoujo-series](https://cdn.myanimelist.net/images/manga/1/16232.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 74

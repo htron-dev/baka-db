@@ -1,5 +1,7 @@
 # Lalala Lala-chan: Patapata Daisensou
 
+![lalala-lala-chan-patapata-daisensou](https://cdn.myanimelist.net/images/anime/1828/91150.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ラララ ララちゃん~パタパタだいせんそう~

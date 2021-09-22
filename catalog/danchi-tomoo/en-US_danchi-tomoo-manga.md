@@ -1,5 +1,7 @@
 # Danchi Tomoo
 
+![danchi-tomoo](https://cdn.myanimelist.net/images/manga/1/86209.jpg)
+
 -   **type**: manga
 -   **volumes**: 33
 -   **chapters**: 587

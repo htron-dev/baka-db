@@ -1,5 +1,7 @@
 # Sexfriend no Pride
 
+![sexfriend-no-pride](https://cdn.myanimelist.net/images/manga/3/165507.jpg)
+
 -   **type**: manga
 -   **original-name**: セフレの品格―プライド―
 -   **start-date**: 2011-02-02

@@ -1,5 +1,7 @@
 # Binetsu no Youna
 
+![binetsu-no-youna](https://cdn.myanimelist.net/images/manga/3/149676.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 微熱のような

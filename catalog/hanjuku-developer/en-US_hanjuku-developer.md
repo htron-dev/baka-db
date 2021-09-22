@@ -1,5 +1,7 @@
 # Hanjuku Developer
 
+![hanjuku-developer](https://cdn.myanimelist.net/images/manga/1/122301.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

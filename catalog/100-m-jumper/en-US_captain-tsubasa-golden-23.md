@@ -1,5 +1,7 @@
 # Captain Tsubasa: Golden-23
 
+![captain-tsubasa-golden-23](https://cdn.myanimelist.net/images/manga/5/153537.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 113

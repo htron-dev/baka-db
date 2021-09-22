@@ -1,5 +1,7 @@
 # Boku wa Inu
 
+![boku-wa-inu](https://cdn.myanimelist.net/images/manga/2/195743.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

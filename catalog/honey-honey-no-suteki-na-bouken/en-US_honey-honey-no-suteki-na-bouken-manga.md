@@ -1,5 +1,7 @@
 # Honey Honey no Suteki na Bouken
 
+![honey-honey-no-suteki-na-bouken](https://cdn.myanimelist.net/images/manga/3/206928.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ハニー・ハニーのすてきな冒険

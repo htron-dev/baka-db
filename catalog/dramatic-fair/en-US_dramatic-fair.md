@@ -1,5 +1,7 @@
 # Dramatic Fair
 
+![dramatic-fair](https://cdn.myanimelist.net/images/manga/2/33262.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ドラマティック・フェア

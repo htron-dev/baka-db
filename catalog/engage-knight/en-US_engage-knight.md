@@ -1,5 +1,7 @@
 # Engage Knight
 
+![engage-knight](https://cdn.myanimelist.net/images/manga/1/66211.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

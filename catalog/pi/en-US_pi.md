@@ -1,5 +1,7 @@
 # Pi
 
+![pi](https://cdn.myanimelist.net/images/manga/2/20878.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 6

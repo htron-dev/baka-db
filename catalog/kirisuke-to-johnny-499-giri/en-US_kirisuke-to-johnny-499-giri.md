@@ -1,5 +1,7 @@
 # Kirisuke to Johnny 499-giri
 
+![kirisuke-to-johnny-499-giri](https://cdn.myanimelist.net/images/manga/2/171493.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 斬り介とジョニー 四百九十九人斬り

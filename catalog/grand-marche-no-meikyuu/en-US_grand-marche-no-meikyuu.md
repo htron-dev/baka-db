@@ -1,5 +1,7 @@
 # Grand Marche no Meikyuu
 
+![grand-marche-no-meikyuu](https://cdn.myanimelist.net/images/anime/9/88537.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: グランマルシェの迷宮

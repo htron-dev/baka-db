@@ -1,5 +1,7 @@
 # Zucca x Zuca
 
+![zucca-x-zuca](https://cdn.myanimelist.net/images/manga/3/163834.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 118

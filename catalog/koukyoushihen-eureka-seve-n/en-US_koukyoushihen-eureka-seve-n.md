@@ -1,5 +1,7 @@
 # Koukyoushihen Eureka seveN
 
+![koukyoushihen-eureka-seve-n](https://cdn.myanimelist.net/images/manga/3/161332.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 23

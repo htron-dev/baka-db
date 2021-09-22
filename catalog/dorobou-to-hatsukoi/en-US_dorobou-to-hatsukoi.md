@@ -1,5 +1,7 @@
 # Dorobou to Hatsukoi
 
+![dorobou-to-hatsukoi](https://cdn.myanimelist.net/images/manga/1/155634.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

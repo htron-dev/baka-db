@@ -1,5 +1,7 @@
 # Hatsutsubomi: Itaike na Himegimi no Nuregoto
 
+![hatsutsubomi-itaike-na-himegimi-no-nuregoto](https://cdn.myanimelist.net/images/manga/1/182730.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

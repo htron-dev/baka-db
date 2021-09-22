@@ -1,5 +1,7 @@
 # Umineko no Naku Koro ni Chiru - Episode 5: End of the Golden Witch
 
+![umineko-no-naku-koro-ni-chiru-episode-5-end-of-the-golden-witch](https://cdn.myanimelist.net/images/manga/1/76083.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 27

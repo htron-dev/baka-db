@@ -1,5 +1,7 @@
 # Nobara Sex
 
+![nobara-sex](https://cdn.myanimelist.net/images/manga/3/159512.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

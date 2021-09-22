@@ -1,5 +1,7 @@
 # Machigaigoto
 
+![machigaigoto](https://cdn.myanimelist.net/images/manga/3/206069.jpg)
+
 -   **type**: manga
 -   **original-name**: まちがいごと
 -   **start-date**: 2017-01-25

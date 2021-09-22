@@ -1,5 +1,7 @@
 # Kaidan Is Dead
 
+![kaidan-is-dead](https://cdn.myanimelist.net/images/manga/1/188976.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 70

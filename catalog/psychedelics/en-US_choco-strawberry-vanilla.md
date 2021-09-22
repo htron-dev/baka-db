@@ -1,5 +1,7 @@
 # Choco Strawberry Vanilla
 
+![choco-strawberry-vanilla](https://cdn.myanimelist.net/images/manga/3/119601.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

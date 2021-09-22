@@ -1,5 +1,7 @@
 # Death Billiards
 
+![death-billiards](https://cdn.myanimelist.net/images/anime/11/48721.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: デス・ビリヤード

@@ -1,5 +1,7 @@
 # Otogi Manga Calendar
 
+![otogi-manga-calendar](https://cdn.myanimelist.net/images/anime/11/39147.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 312
 -   **original-name**: おとぎマンガカレンダー

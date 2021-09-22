@@ -1,5 +1,7 @@
 # Kare Kura!
 
+![kare-kura](https://cdn.myanimelist.net/images/manga/2/12971.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

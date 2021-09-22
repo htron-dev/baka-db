@@ -1,5 +1,7 @@
 # Gyakusatsu Mahou Shoujo Belial☆Strawberry
 
+![gyakusatsu-mahou-shoujo-belial☆-strawberry](https://cdn.myanimelist.net/images/manga/1/127143.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

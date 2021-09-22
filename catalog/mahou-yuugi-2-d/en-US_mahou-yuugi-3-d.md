@@ -1,5 +1,7 @@
 # Mahou Yuugi 3D
 
+![mahou-yuugi-3-d](https://cdn.myanimelist.net/images/anime/1/2513.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 魔法遊戯 3D

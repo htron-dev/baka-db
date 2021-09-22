@@ -1,5 +1,7 @@
 # Hatarakanai Futari
 
+![hatarakanai-futari](https://cdn.myanimelist.net/images/manga/1/188796.jpg)
+
 -   **type**: manga
 -   **original-name**: 働かないふたり
 -   **start-date**: 2013-12-20

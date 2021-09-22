@@ -1,5 +1,7 @@
 # Junai Tokkou Taichou! Maji
 
+![junai-tokkou-taichou-maji](https://cdn.myanimelist.net/images/manga/3/171063.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

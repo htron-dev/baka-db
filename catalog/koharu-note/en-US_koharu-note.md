@@ -1,5 +1,7 @@
 # Koharu Note
 
+![koharu-note](https://cdn.myanimelist.net/images/manga/2/203638.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 28

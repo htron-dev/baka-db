@@ -1,5 +1,7 @@
 # Ai Mai! Moe Can Change!
 
+![ai-mai-moe-can-change](https://cdn.myanimelist.net/images/anime/11/39157.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: あいまい! 萌え Can ちぇんじ!

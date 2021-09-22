@@ -1,5 +1,7 @@
 # Xue Ying Ling Zhu
 
+![xue-ying-ling-zhu](https://cdn.myanimelist.net/images/anime/1030/96730.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: 雪鹰领主

@@ -1,5 +1,7 @@
 # Waanabi.jk
 
+![waanabi-jk](https://cdn.myanimelist.net/images/anime/9/52837.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: わーなびっ.ｊｋ

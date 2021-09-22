@@ -1,5 +1,7 @@
 # Tetsujin 28-gou: Hakuchuu no Zangetsu
 
+![tetsujin-28-gou-hakuchuu-no-zangetsu](https://cdn.myanimelist.net/images/anime/7/27668.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 鉄人２８号 白昼の残月

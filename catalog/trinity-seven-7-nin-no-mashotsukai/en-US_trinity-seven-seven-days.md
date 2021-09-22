@@ -1,5 +1,7 @@
 # Trinity Seven: Seven Days
 
+![trinity-seven-seven-days](https://cdn.myanimelist.net/images/manga/2/216668.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Madowanai Hoshi
 
+![madowanai-hoshi](https://cdn.myanimelist.net/images/manga/3/173945.jpg)
+
 -   **type**: manga
 -   **original-name**: 惑わない星
 -   **start-date**: 2015-05-22

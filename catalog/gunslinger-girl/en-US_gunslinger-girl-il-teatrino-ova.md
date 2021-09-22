@@ -1,5 +1,7 @@
 # Gunslinger Girl: Il Teatrino OVA
 
+![gunslinger-girl-il-teatrino-ova](https://cdn.myanimelist.net/images/anime/12/12641.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ガンスリンガー ガール -IL TEATRINO- OVA

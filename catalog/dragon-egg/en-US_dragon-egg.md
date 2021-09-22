@@ -1,5 +1,7 @@
 # Dragon Egg
 
+![dragon-egg](https://cdn.myanimelist.net/images/anime/7/88840.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 드래곤에그

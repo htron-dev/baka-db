@@ -1,5 +1,7 @@
 # Taiho Shichau zo (TV)
 
+![taiho-shichau-zo-tv](https://cdn.myanimelist.net/images/anime/4/16767.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 47
 -   **original-name**: 逮捕しちゃうぞ (1996)

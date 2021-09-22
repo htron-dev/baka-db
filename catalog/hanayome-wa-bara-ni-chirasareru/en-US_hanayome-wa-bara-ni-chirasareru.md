@@ -1,5 +1,7 @@
 # Hanayome wa Bara ni Chirasareru
 
+![hanayome-wa-bara-ni-chirasareru](https://cdn.myanimelist.net/images/manga/2/156302.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 花嫁は薔薇に散らされる

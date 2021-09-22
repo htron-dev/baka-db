@@ -1,5 +1,7 @@
 # Konshuu no Kanade-san
 
+![konshuu-no-kanade-san](https://cdn.myanimelist.net/images/manga/2/189894.jpg)
+
 -   **type**: manga
 -   **original-name**: 今週のかなでさん
 -   **start-date**: 2013-10-11

@@ -1,5 +1,7 @@
 # Anima Yell! Ouen Douga
 
+![anima-yell-ouen-douga](https://cdn.myanimelist.net/images/anime/1326/97177.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: アニマエール！応援動画

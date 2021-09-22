@@ -1,5 +1,7 @@
 # Gunparade March
 
+![gunparade-march](https://cdn.myanimelist.net/images/manga/3/112051.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

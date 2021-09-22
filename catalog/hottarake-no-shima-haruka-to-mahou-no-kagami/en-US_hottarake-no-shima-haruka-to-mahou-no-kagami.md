@@ -1,5 +1,7 @@
 # Hottarake no Shima: Haruka to Mahou no Kagami
 
+![hottarake-no-shima-haruka-to-mahou-no-kagami](https://cdn.myanimelist.net/images/anime/6/22255.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ホッタラケの島　～遥と魔法の鏡～

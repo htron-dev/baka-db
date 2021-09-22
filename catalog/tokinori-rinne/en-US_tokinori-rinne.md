@@ -1,5 +1,7 @@
 # Tokinori Rinne!
 
+![tokinori-rinne](https://cdn.myanimelist.net/images/manga/3/176032.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 53

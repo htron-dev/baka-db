@@ -1,5 +1,7 @@
 # Chibi Maruko-chan
 
+![chibi-maruko-chan](https://cdn.myanimelist.net/images/anime/7/22476.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 142
 -   **original-name**: ちびまる子ちゃん

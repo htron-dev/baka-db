@@ -1,5 +1,7 @@
 # Jaou to Itsuwari no Hanayome: Senya Koimonogatari
 
+![jaou-to-itsuwari-no-hanayome-senya-koimonogatari](https://cdn.myanimelist.net/images/manga/3/194206.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

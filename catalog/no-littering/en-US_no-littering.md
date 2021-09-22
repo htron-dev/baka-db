@@ -1,5 +1,7 @@
 # No Littering
 
+![no-littering](https://cdn.myanimelist.net/images/anime/6/44760.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: NO LITTERING

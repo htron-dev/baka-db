@@ -1,5 +1,7 @@
 # Girigiri Saegiru Katagiri-san
 
+![girigiri-saegiru-katagiri-san](https://cdn.myanimelist.net/images/manga/3/234963.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 43

@@ -1,5 +1,7 @@
 # Niji to Kuro
 
+![niji-to-kuro](https://cdn.myanimelist.net/images/manga/3/227432.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

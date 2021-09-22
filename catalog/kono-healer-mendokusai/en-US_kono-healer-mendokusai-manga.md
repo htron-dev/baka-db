@@ -1,5 +1,7 @@
 # Kono Healer, Mendokusai
 
+![kono-healer-mendokusai](https://cdn.myanimelist.net/images/manga/2/228186.jpg)
+
 -   **type**: manga
 -   **original-name**: このヒーラー、めんどくさい
 -   **start-date**: 2019-07-31

@@ -1,5 +1,7 @@
 # Super Robot Taisen OG: The Inspector
 
+![super-robot-taisen-og-the-inspector](https://cdn.myanimelist.net/images/anime/11/44239.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: スーパーロボット大戦 OG -ジ・インスペクター-

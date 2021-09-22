@@ -1,5 +1,7 @@
 # Nigeru nara Ima da
 
+![nigeru-nara-ima-da](https://cdn.myanimelist.net/images/manga/1/58063.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

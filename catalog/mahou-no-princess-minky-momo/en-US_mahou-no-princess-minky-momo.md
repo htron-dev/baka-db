@@ -1,5 +1,7 @@
 # Mahou no Princess Minky Momo
 
+![mahou-no-princess-minky-momo](https://cdn.myanimelist.net/images/anime/2/56747.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 63
 -   **original-name**: 魔法のプリンセス　ミンキーモモ

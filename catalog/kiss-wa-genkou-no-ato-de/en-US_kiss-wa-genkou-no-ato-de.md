@@ -1,5 +1,7 @@
 # Kiss wa, Genkou no Ato de
 
+![kiss-wa-genkou-no-ato-de](https://cdn.myanimelist.net/images/manga/2/227176.jpg)
+
 -   **type**: manga
 -   **original-name**: キスは、原稿のあとで
 -   **start-date**: 2019-08-06

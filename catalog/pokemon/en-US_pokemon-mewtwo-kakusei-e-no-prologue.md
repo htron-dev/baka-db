@@ -1,5 +1,7 @@
 # Pokemon: Mewtwo - Kakusei e no Prologue
 
+![pokemon-mewtwo-kakusei-e-no-prologue](https://cdn.myanimelist.net/images/anime/10/69025.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ミュウツー ~覚醒への序章[プロローグ]～

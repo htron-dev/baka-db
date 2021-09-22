@@ -1,5 +1,7 @@
 # Date A Live
 
+![date-a-live](https://cdn.myanimelist.net/images/manga/3/165177.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 22
 -   **chapters**: 146

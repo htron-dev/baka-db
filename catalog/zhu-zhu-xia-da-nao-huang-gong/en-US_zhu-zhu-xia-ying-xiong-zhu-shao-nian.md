@@ -1,5 +1,7 @@
 # Zhu Zhu Xia: Ying Xiong Zhu Shao Nian
 
+![zhu-zhu-xia-ying-xiong-zhu-shao-nian](https://cdn.myanimelist.net/images/anime/1943/93361.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 猪猪侠 英雄猪少年
@@ -10,7 +12,6 @@
 
 -   sci-fi
 -   super-power
-
 -   magic
 
 ## Sinopse

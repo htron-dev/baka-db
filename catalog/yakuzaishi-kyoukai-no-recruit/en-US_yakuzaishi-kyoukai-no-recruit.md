@@ -1,5 +1,7 @@
 # Yakuzaishi Kyoukai no Recruit
 
+![yakuzaishi-kyoukai-no-recruit](https://cdn.myanimelist.net/images/manga/1/161535.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

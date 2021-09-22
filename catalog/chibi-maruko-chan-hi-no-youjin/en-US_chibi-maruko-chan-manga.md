@@ -1,5 +1,7 @@
 # Chibi Maruko-chan
 
+![chibi-maruko-chan](https://cdn.myanimelist.net/images/manga/3/22607.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 120

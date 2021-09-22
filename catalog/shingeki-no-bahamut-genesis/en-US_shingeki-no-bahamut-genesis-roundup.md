@@ -1,5 +1,7 @@
 # Shingeki no Bahamut: Genesis - Roundup
 
+![shingeki-no-bahamut-genesis-roundup](https://cdn.myanimelist.net/images/anime/3/68709.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 神撃のバハムート GENESIS Roundup

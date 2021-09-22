@@ -1,5 +1,7 @@
 # L/R: Licensed by Royal
 
+![l-r-licensed-by-royal](https://cdn.myanimelist.net/images/anime/13/14587.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: L/R -Licensed by Royal-

@@ -1,5 +1,7 @@
 # Strike Witches: Aurora no Majo
 
+![strike-witches-aurora-no-majo](https://cdn.myanimelist.net/images/manga/1/139221.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Dainippon Tengutou Ekotoba
 
+![dainippon-tengutou-ekotoba](https://cdn.myanimelist.net/images/manga/2/19142.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

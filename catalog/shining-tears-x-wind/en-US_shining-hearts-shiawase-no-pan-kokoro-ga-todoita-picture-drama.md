@@ -1,5 +1,7 @@
 # Shining Hearts: Shiawase no Pan - Kokoro ga Todoita Picture Drama
 
+![shining-hearts-shiawase-no-pan-kokoro-ga-todoita-picture-drama](https://cdn.myanimelist.net/images/anime/12/42789.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: シャイニング・ハーツ 〜幸せのパン〜 “心がとどいた”ピクチャードラマ

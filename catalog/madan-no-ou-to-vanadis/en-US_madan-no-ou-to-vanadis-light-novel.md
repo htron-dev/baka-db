@@ -1,5 +1,7 @@
 # Madan no Ou to Vanadis
 
+![madan-no-ou-to-vanadis](https://cdn.myanimelist.net/images/manga/1/203786.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 18
 -   **chapters**: 95

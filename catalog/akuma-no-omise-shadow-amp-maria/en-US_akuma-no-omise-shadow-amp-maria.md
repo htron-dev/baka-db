@@ -1,5 +1,7 @@
 # Akuma no Omise: Shadow &amp; Maria
 
+![akuma-no-omise-shadow-amp-maria](https://cdn.myanimelist.net/images/manga/2/164760.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

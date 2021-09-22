@@ -1,5 +1,7 @@
 # Hi no Kagutsuchi
 
+![hi-no-kagutsuchi](https://cdn.myanimelist.net/images/manga/1/156898.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka? OVA
 
+![tsuujou-kougeki-ga-zentai-kougeki-de-ni-kai-kougeki-no-okaasan-wa-suki-desu-ka-ova](https://cdn.myanimelist.net/images/anime/1599/106464.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか？OVA

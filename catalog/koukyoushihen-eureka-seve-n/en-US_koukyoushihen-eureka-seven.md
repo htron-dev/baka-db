@@ -1,5 +1,7 @@
 # Koukyoushihen Eureka Seven
 
+![koukyoushihen-eureka-seven](https://cdn.myanimelist.net/images/anime/12/34443.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: 交響詩篇エウレカセブン

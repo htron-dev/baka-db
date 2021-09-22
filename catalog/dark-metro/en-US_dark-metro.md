@@ -1,5 +1,7 @@
 # Dark Metro
 
+![dark-metro](https://cdn.myanimelist.net/images/manga/2/33515.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

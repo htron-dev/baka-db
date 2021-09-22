@@ -1,5 +1,7 @@
 # Busou Renkin: Mahiro no Busou Renkin Kouza
 
+![busou-renkin-mahiro-no-busou-renkin-kouza](https://cdn.myanimelist.net/images/anime/1733/99153.jpg)
+
 -   **type**: special
 -   **episodes**: 11
 -   **original-name**: 武装錬金

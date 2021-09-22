@@ -1,5 +1,7 @@
 # Dr. Slump: Arale-chan '92 Oshougatsu Special
 
+![dr-slump-arale-chan-92-oshougatsu-special](https://cdn.myanimelist.net/images/anime/12/68503.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: Dr.スランプ・アラレちゃん '92 お正月スペシャル

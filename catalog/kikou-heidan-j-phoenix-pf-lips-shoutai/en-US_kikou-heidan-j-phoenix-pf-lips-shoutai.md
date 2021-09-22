@@ -1,5 +1,7 @@
 # Kikou Heidan J-Phoenix: PF Lips Shoutai
 
+![kikou-heidan-j-phoenix-pf-lips-shoutai](https://cdn.myanimelist.net/images/anime/13/32169.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 機甲兵団 J-PHOENIX PF リップス小隊

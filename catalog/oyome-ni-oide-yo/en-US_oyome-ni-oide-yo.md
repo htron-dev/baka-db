@@ -1,5 +1,7 @@
 # Oyome ni Oide yo!
 
+![oyome-ni-oide-yo](https://cdn.myanimelist.net/images/manga/1/116865.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

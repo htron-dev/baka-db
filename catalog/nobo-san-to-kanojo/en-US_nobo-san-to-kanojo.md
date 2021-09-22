@@ -1,5 +1,7 @@
 # Nobo-san to Kanojo?
 
+![nobo-san-to-kanojo](https://cdn.myanimelist.net/images/manga/2/199866.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 64

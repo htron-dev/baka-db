@@ -1,5 +1,7 @@
 # Seitokai Yakuindomo\*
 
+![seitokai-yakuindomo](https://cdn.myanimelist.net/images/anime/9/56941.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 生徒会役員共＊

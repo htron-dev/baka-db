@@ -1,5 +1,7 @@
 # Hanamori no Ryuu no Lilica
 
+![hanamori-no-ryuu-no-lilica](https://cdn.myanimelist.net/images/manga/2/162518.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 31

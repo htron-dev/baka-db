@@ -1,5 +1,7 @@
 # Dr. Kujo Kikiippatsu!!
 
+![dr-kujo-kikiippatsu](https://cdn.myanimelist.net/images/manga/1/31621.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: Dr.クージョ危機一髪!!

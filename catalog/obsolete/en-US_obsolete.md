@@ -1,5 +1,7 @@
 # Obsolete
 
+![obsolete](https://cdn.myanimelist.net/images/anime/1711/103227.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: OBSOLETE

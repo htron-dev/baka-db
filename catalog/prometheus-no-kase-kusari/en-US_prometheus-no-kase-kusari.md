@@ -1,5 +1,7 @@
 # Prometheus no Kase Kusari
 
+![prometheus-no-kase-kusari](https://cdn.myanimelist.net/images/manga/3/236659.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

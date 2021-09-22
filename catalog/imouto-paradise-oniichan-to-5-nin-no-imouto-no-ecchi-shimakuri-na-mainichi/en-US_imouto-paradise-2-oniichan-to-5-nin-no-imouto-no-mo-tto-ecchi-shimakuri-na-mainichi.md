@@ -1,5 +1,7 @@
 # Imouto Paradise! 2: Oniichan to 5-nin no Imouto no Mo~tto! Ecchi Shimakuri na Mainichi
 
+![imouto-paradise-2-oniichan-to-5-nin-no-imouto-no-mo-tto-ecchi-shimakuri-na-mainichi](https://cdn.myanimelist.net/images/manga/1/147559.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

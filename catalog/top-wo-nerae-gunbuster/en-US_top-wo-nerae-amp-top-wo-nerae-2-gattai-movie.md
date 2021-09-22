@@ -1,5 +1,7 @@
 # Top wo Nerae! &amp; Top wo Nerae 2! Gattai Movie!!
 
+![top-wo-nerae-amp-top-wo-nerae-2-gattai-movie](https://cdn.myanimelist.net/images/anime/1/1911.jpg)
+
 -   **type**: movie
 -   **episodes**: 2
 -   **original-name**: トップをねらえ！＆トップをねらえ２！合体劇場版!!

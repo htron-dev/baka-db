@@ -1,5 +1,7 @@
 # Kousoku Otome no Seikatai
 
+![kousoku-otome-no-seikatai](https://cdn.myanimelist.net/images/manga/1/152224.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

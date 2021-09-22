@@ -1,5 +1,7 @@
 # Dr. Duo
 
+![dr-duo](https://cdn.myanimelist.net/images/manga/1/99283.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 42

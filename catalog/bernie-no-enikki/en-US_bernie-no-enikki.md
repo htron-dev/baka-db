@@ -1,5 +1,7 @@
 # Bernie no Enikki
 
+![bernie-no-enikki](https://cdn.myanimelist.net/images/manga/2/61715.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

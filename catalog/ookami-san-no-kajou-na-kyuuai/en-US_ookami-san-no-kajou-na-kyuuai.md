@@ -1,5 +1,7 @@
 # Ookami-san no Kajou na Kyuuai
 
+![ookami-san-no-kajou-na-kyuuai](https://cdn.myanimelist.net/images/manga/1/240113.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: オオカミさんの過剰な求愛

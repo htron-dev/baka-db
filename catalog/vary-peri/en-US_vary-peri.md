@@ -1,5 +1,7 @@
 # Vary Peri
 
+![vary-peri](https://cdn.myanimelist.net/images/anime/1133/93044.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: 幻变精灵之蛋糕甜心
@@ -11,7 +13,6 @@
 
 -   adventure
 -   comedy
-
 -   magic
 
 ## Sinopse

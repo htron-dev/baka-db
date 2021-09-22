@@ -1,5 +1,7 @@
 # Kaze no Youjinbou
 
+![kaze-no-youjinbou](https://cdn.myanimelist.net/images/anime/2/67573.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 旋風の用心棒

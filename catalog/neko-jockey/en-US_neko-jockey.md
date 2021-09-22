@@ -1,5 +1,7 @@
 # Neko Jockey
 
+![neko-jockey](https://cdn.myanimelist.net/images/anime/1769/114535.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 4
 -   **original-name**: 猫ジョッキー

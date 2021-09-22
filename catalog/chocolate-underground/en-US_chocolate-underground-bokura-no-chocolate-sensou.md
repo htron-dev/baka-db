@@ -1,5 +1,7 @@
 # Chocolate Underground: Bokura no Chocolate Sensou
 
+![chocolate-underground-bokura-no-chocolate-sensou](https://cdn.myanimelist.net/images/anime/1006/95712.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: チョコレート・アンダーグラウンド～ぼくらのチョコレート戦争～

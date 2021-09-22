@@ -1,5 +1,7 @@
 # Yagate Itoshiki Tablecloth
 
+![yagate-itoshiki-tablecloth](https://cdn.myanimelist.net/images/manga/3/148031.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

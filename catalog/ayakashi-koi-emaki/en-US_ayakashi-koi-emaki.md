@@ -1,5 +1,7 @@
 # Ayakashi Koi Emaki
 
+![ayakashi-koi-emaki](https://cdn.myanimelist.net/images/manga/3/204993.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 28

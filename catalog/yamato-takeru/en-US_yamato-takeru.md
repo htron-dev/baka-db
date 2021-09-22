@@ -1,5 +1,7 @@
 # Yamato Takeru
 
+![yamato-takeru](https://cdn.myanimelist.net/images/anime/11/20270.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 37
 -   **original-name**: ヤマトタケル

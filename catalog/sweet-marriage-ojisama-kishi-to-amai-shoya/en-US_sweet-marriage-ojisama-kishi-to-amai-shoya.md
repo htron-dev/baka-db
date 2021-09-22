@@ -1,5 +1,7 @@
 # Sweet Marriage: Ojisama Kishi to Amai Shoya
 
+![sweet-marriage-ojisama-kishi-to-amai-shoya](https://cdn.myanimelist.net/images/manga/2/181987.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

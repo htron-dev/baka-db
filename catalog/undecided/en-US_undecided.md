@@ -1,5 +1,7 @@
 # Undecided
 
+![undecided](https://cdn.myanimelist.net/images/manga/2/4496.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 7

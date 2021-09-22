@@ -1,5 +1,7 @@
 # A Woman in a Fashion Building
 
+![a-woman-in-a-fashion-building](https://cdn.myanimelist.net/images/anime/1874/90974.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: A WOMAN IN A FASHION BUILDING

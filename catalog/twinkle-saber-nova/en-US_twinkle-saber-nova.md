@@ -1,5 +1,7 @@
 # Twinkle Saber Nova
 
+![twinkle-saber-nova](https://cdn.myanimelist.net/images/manga/1/170636.jpg)
+
 -   **type**: manga
 -   **original-name**: ティンクルセイバー NOVA
 

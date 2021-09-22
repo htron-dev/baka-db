@@ -1,5 +1,7 @@
 # Lemon Roman
 
+![lemon-roman](https://cdn.myanimelist.net/images/manga/2/154662.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

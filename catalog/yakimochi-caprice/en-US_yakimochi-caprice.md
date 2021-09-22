@@ -1,5 +1,7 @@
 # Yakimochi Caprice
 
+![yakimochi-caprice](https://cdn.myanimelist.net/images/anime/11/42233.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: やきもち狂想曲

@@ -1,5 +1,7 @@
 # Hakushaku Reijou wa Mitsu ni Mamirete
 
+![hakushaku-reijou-wa-mitsu-ni-mamirete](https://cdn.myanimelist.net/images/manga/3/192239.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Toshishita Kare no Amai Itazura
 
+![toshishita-kare-no-amai-itazura](https://cdn.myanimelist.net/images/manga/3/193806.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

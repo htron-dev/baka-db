@@ -1,5 +1,7 @@
 # Yuko Sae Tatakaeba
 
+![yuko-sae-tatakaeba](https://cdn.myanimelist.net/images/manga/1/229496.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 39

@@ -1,5 +1,7 @@
 # Black Clover: Jump Festa 2018 Special
 
+![black-clover-jump-festa-2018-special](https://cdn.myanimelist.net/images/anime/1585/96894.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: JSAF2018 スペシャルアニメ「オール魔法騎士感謝祭」

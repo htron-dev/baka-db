@@ -1,5 +1,7 @@
 # Strawberry Tanteidan
 
+![strawberry-tanteidan](https://cdn.myanimelist.net/images/manga/1/48913.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

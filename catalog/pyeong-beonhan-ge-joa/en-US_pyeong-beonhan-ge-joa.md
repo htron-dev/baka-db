@@ -1,5 +1,7 @@
 # Pyeong Beonhan ge Joa!
 
+![pyeong-beonhan-ge-joa](https://cdn.myanimelist.net/images/manga/3/82806.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **original-name**: 평범한 게 좋아!

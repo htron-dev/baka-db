@@ -1,5 +1,7 @@
 # Kimi ni Chiisana Uso Hitotsu
 
+![kimi-ni-chiisana-uso-hitotsu](https://cdn.myanimelist.net/images/manga/2/173967.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

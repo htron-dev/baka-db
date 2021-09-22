@@ -1,5 +1,7 @@
 # Shi Xiong
 
+![shi-xiong](https://cdn.myanimelist.net/images/anime/11/72773.jpg)
+
 -   **type**: ona
 -   **episodes**: 41
 -   **original-name**: 尸兄

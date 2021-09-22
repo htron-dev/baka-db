@@ -1,5 +1,7 @@
 # Momo to Manji
 
+![momo-to-manji](https://cdn.myanimelist.net/images/manga/3/208469.jpg)
+
 -   **type**: manga
 -   **original-name**: 百と卍
 -   **start-date**: 2015-05-25

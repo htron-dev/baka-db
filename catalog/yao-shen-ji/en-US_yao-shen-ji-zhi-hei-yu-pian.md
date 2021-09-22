@@ -1,5 +1,7 @@
 # Yao Shen Ji Zhi Hei Yu Pian
 
+![yao-shen-ji-zhi-hei-yu-pian](https://cdn.myanimelist.net/images/anime/1196/107545.jpg)
+
 -   **type**: ona
 -   **episodes**: 52
 -   **original-name**: 妖神记之黑狱篇

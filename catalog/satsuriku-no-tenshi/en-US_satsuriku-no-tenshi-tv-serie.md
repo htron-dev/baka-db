@@ -1,5 +1,7 @@
 # Satsuriku no Tenshi
 
+![satsuriku-no-tenshi](https://cdn.myanimelist.net/images/anime/1862/95624.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 16
 -   **original-name**: 殺戮の天使
@@ -30,4 +32,4 @@ However, as they progress upward, they meet more twisted people, and all of them
 -   [Official Site](http://satsuriku.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13307)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20772)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Angels_of_Death_(video_game)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Angels_of_Death_%28video_game%29)

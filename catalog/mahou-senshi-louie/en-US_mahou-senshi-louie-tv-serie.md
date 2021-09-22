@@ -1,5 +1,7 @@
 # Mahou Senshi Louie
 
+![mahou-senshi-louie](https://cdn.myanimelist.net/images/anime/9/14045.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 魔法戦士リウイ

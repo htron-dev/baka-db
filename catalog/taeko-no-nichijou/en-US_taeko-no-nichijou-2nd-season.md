@@ -1,5 +1,7 @@
 # Taeko no Nichijou 2nd Season
 
+![taeko-no-nichijou-2nd-season](https://cdn.myanimelist.net/images/anime/1263/108538.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 132
 -   **original-name**: 耐え子の日常

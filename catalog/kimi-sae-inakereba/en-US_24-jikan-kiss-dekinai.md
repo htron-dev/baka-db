@@ -1,5 +1,7 @@
 # 24-jikan Kiss Dekinai
 
+![24-jikan-kiss-dekinai](https://cdn.myanimelist.net/images/manga/2/7715.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

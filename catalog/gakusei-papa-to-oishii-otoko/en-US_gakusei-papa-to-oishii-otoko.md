@@ -1,5 +1,7 @@
 # Gakusei Papa to Oishii Otoko
 
+![gakusei-papa-to-oishii-otoko](https://cdn.myanimelist.net/images/manga/2/225683.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

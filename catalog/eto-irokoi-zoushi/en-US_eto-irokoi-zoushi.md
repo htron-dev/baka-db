@@ -1,5 +1,7 @@
 # Eto Irokoi-zoushi
 
+![eto-irokoi-zoushi](https://cdn.myanimelist.net/images/manga/1/220671.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

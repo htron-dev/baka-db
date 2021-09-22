@@ -1,5 +1,7 @@
 # Loveletter from...
 
+![loveletter-from](https://cdn.myanimelist.net/images/manga/1/45543.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

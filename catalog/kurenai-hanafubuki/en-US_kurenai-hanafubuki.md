@@ -1,5 +1,7 @@
 # Kurenai Hanafubuki
 
+![kurenai-hanafubuki](https://cdn.myanimelist.net/images/manga/2/23290.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

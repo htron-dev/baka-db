@@ -1,5 +1,7 @@
 # Xianjing Chuanshuo RO: Shouhu Yongheng de Ai
 
+![xianjing-chuanshuo-ro-shouhu-yongheng-de-ai](https://cdn.myanimelist.net/images/anime/8/84144.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 仙境传说 RO：守护永恒的爱

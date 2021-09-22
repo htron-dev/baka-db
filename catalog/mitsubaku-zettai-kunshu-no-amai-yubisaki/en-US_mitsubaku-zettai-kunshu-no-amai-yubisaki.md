@@ -1,5 +1,7 @@
 # Mitsubaku: Zettai Kunshu no Amai Yubisaki
 
+![mitsubaku-zettai-kunshu-no-amai-yubisaki](https://cdn.myanimelist.net/images/manga/2/191925.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

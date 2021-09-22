@@ -1,5 +1,7 @@
 # Totsugami
 
+![totsugami](https://cdn.myanimelist.net/images/manga/2/152910.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 60

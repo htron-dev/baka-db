@@ -1,5 +1,7 @@
 # Kyou kara Ore wa!!: Yuusha Sagawa to Ano Futari-hen
 
+![kyou-kara-ore-wa-yuusha-sagawa-to-ano-futari-hen](https://cdn.myanimelist.net/images/manga/2/221367.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,8 +1,10 @@
 # Space☆Dandy 2nd Season Picture Drama
 
+![space☆-dandy-2nd-season-picture-drama](https://cdn.myanimelist.net/images/anime/6/72373.jpg)
+
 -   **type**: special
 -   **episodes**: 3
--   **original-name**: スペース☆ダンディ ピクチャードラマ
+-   **original-name**: スペース ☆ ダンディ ピクチャードラマ
 -   **start-date**: 2014-11-21
 -   **end-date**: 2014-11-21
 -   **rating**: PG-13 - Teens 13 or older

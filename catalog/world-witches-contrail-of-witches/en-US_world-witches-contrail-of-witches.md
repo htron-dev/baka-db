@@ -1,5 +1,7 @@
 # World Witches: Contrail of Witches
 
+![world-witches-contrail-of-witches](https://cdn.myanimelist.net/images/manga/2/193297.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

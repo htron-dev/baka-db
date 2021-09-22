@@ -1,5 +1,7 @@
 # Love Live! Sunshine!!
 
+![love-live-sunshine](https://cdn.myanimelist.net/images/manga/2/183983.jpg)
+
 -   **type**: manga
 -   **original-name**: ラブライブ！サンシャイン!!
 -   **start-date**: 2016-03-30

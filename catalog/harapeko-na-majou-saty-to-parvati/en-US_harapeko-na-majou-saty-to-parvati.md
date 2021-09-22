@@ -1,5 +1,7 @@
 # Harapeko na Majou: Saty to Parvati
 
+![harapeko-na-majou-saty-to-parvati](https://cdn.myanimelist.net/images/manga/5/151330.jpg)
+
 -   **type**: manga
 -   **original-name**: 腹ペコな魔女 サティーとパールヴァティ
 -   **start-date**: 2014-06-13

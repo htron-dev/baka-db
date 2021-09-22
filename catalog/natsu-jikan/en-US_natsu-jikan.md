@@ -1,5 +1,7 @@
 # Natsu Jikan
 
+![natsu-jikan](https://cdn.myanimelist.net/images/manga/2/169072.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

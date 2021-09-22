@@ -1,5 +1,7 @@
 # JoJo no Kimyou na Bouken Part 8: JoJolion
 
+![jo-jo-no-kimyou-na-bouken-part-8-jo-jolion](https://cdn.myanimelist.net/images/manga/1/179885.jpg)
+
 -   **type**: manga
 -   **original-name**: ジョジョの奇妙な冒険 Part8 ジョジョリオン
 -   **start-date**: 2011-05-19

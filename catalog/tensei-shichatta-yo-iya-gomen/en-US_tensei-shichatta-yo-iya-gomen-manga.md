@@ -1,5 +1,7 @@
 # Tensei shichatta yo (Iya, Gomen)
 
+![tensei-shichatta-yo-iya-gomen](https://cdn.myanimelist.net/images/manga/1/186478.jpg)
+
 -   **type**: manga
 -   **original-name**: 転生しちゃったよ （いや、ごめん）
 -   **start-date**: 2015-09-10

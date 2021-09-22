@@ -1,5 +1,7 @@
 # Pokemon Ranger: Hikari no Kiseki
 
+![pokemon-ranger-hikari-no-kiseki](https://cdn.myanimelist.net/images/anime/10/22271.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ポケモンレンジャー 光の軌跡

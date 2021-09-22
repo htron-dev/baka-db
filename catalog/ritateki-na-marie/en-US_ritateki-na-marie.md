@@ -1,5 +1,7 @@
 # Ritateki na Marie
 
+![ritateki-na-marie](https://cdn.myanimelist.net/images/manga/1/241618.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 利他的なマリー

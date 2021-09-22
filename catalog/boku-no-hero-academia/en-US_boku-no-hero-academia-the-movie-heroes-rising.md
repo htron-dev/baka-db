@@ -1,5 +1,7 @@
 # Boku no Hero Academia the Movie: Heroes:Rising
 
+![boku-no-hero-academia-the-movie-heroes-rising](https://cdn.myanimelist.net/images/manga/3/244777.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

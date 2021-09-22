@@ -1,5 +1,7 @@
 # Himedore: Hime to Dorei no Gakuen Seikatsu
 
+![himedore-hime-to-dorei-no-gakuen-seikatsu](https://cdn.myanimelist.net/images/manga/3/225240.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 31

@@ -1,5 +1,7 @@
 # Trigun: Badlands Rumble
 
+![trigun-badlands-rumble](https://cdn.myanimelist.net/images/anime/11/27969.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: トライガン

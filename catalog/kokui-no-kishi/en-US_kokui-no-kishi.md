@@ -1,5 +1,7 @@
 # Kokui no Kishi
 
+![kokui-no-kishi](https://cdn.myanimelist.net/images/manga/2/161585.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

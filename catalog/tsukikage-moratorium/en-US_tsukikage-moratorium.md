@@ -1,5 +1,7 @@
 # Tsukikage Moratorium
 
+![tsukikage-moratorium](https://cdn.myanimelist.net/images/manga/3/222422.jpg)
+
 -   **type**: manga
 -   **original-name**: 月影モラトリアム
 -   **start-date**: 2017-05-02

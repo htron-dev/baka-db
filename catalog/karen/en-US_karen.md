@@ -1,5 +1,7 @@
 # Karen
 
+![karen](https://cdn.myanimelist.net/images/manga/2/2033.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 

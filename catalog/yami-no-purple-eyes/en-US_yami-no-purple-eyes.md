@@ -1,5 +1,7 @@
 # Yami no Purple Eyes
 
+![yami-no-purple-eyes](https://cdn.myanimelist.net/images/manga/3/175790.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 47

@@ -1,5 +1,7 @@
 # Computer Kakumei: Saikyou x Saisoku no Zunou Tanjou
 
+![computer-kakumei-saikyou-x-saisoku-no-zunou-tanjou](https://cdn.myanimelist.net/images/anime/10/39329.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: コンピューター革命 最強 × 最速の頭脳誕生

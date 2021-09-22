@@ -1,5 +1,7 @@
 # Diamond Beat
 
+![diamond-beat](https://cdn.myanimelist.net/images/manga/2/110605.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

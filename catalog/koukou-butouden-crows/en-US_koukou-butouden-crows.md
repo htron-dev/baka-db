@@ -1,5 +1,7 @@
 # Koukou Butouden Crows
 
+![koukou-butouden-crows](https://cdn.myanimelist.net/images/anime/12/24261.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 高校武闘伝 クローズ

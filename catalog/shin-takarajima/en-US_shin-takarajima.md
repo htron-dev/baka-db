@@ -1,5 +1,7 @@
 # Shin Takarajima
 
+![shin-takarajima](https://cdn.myanimelist.net/images/manga/1/36215.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 新宝島

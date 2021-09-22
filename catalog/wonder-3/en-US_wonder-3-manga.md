@@ -1,5 +1,7 @@
 # Wonder 3
 
+![wonder-3](https://cdn.myanimelist.net/images/manga/2/175764.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: W3 (ワンダースリー)

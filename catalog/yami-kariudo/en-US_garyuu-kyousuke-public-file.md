@@ -1,5 +1,7 @@
 # Garyuu Kyousuke Public File
 
+![garyuu-kyousuke-public-file](https://cdn.myanimelist.net/images/manga/2/176087.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

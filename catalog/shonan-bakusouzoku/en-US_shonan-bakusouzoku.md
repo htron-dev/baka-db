@@ -1,5 +1,7 @@
 # Shonan Bakusouzoku
 
+![shonan-bakusouzoku](https://cdn.myanimelist.net/images/manga/4/75369.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **original-name**: 湘南爆走族

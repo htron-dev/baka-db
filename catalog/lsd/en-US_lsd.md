@@ -1,5 +1,7 @@
 # LSD
 
+![lsd](https://cdn.myanimelist.net/images/manga/2/152489.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: LSD ～ろんぐすろーでぃすたんす～

@@ -1,5 +1,7 @@
 # SoltyRei - The Red Lady
 
+![solty-rei-the-red-lady](https://cdn.myanimelist.net/images/manga/1/22344.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

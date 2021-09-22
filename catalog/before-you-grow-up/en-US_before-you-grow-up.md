@@ -1,5 +1,7 @@
 # Before You Grow Up
 
+![before-you-grow-up](https://cdn.myanimelist.net/images/manga/3/3041.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

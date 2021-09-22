@@ -1,5 +1,7 @@
 # Mata Kite ne Shitami-san
 
+![mata-kite-ne-shitami-san](https://cdn.myanimelist.net/images/manga/2/234080.jpg)
+
 -   **type**: manga
 -   **original-name**: また来てねシタミさん
 -   **start-date**: 2020-06-09

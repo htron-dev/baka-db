@@ -1,5 +1,7 @@
 # Venomania-kou no Kyouki
 
+![venomania-kou-no-kyouki](https://cdn.myanimelist.net/images/manga/2/110865.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

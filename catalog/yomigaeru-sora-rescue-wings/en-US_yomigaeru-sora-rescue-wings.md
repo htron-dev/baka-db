@@ -1,5 +1,7 @@
 # Yomigaeru Sora: Rescue Wings
 
+![yomigaeru-sora-rescue-wings](https://cdn.myanimelist.net/images/anime/1/798.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: よみがえる空 -Rescue Wings-

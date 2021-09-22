@@ -1,5 +1,7 @@
 # 9 no Puzzle to Wiseman
 
+![9-no-puzzle-to-wiseman](https://cdn.myanimelist.net/images/manga/1/128811.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 9 のパズルと魔法使い【ワイズマン】

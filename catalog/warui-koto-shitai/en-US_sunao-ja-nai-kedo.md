@@ -1,5 +1,7 @@
 # Sunao ja Nai kedo
 
+![sunao-ja-nai-kedo](https://cdn.myanimelist.net/images/manga/3/86339.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

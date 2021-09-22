@@ -1,5 +1,7 @@
 # Rokunin no Eve to Kamigoroshi no Shito
 
+![rokunin-no-eve-to-kamigoroshi-no-shito](https://cdn.myanimelist.net/images/manga/1/160936.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Hiyoko Voice
 
+![hiyoko-voice](https://cdn.myanimelist.net/images/manga/3/177438.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

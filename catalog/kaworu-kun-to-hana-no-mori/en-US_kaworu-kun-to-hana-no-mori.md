@@ -1,5 +1,7 @@
 # Kaworu-kun to Hana no Mori
 
+![kaworu-kun-to-hana-no-mori](https://cdn.myanimelist.net/images/manga/4/126589.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

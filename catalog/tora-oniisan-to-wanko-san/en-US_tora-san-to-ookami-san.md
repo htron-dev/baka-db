@@ -1,5 +1,7 @@
 # Tora-san to Ookami-san
 
+![tora-san-to-ookami-san](https://cdn.myanimelist.net/images/manga/1/80279.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: トラさんと狼さん

@@ -1,5 +1,7 @@
 # Cutie Honey Universe
 
+![cutie-honey-universe](https://cdn.myanimelist.net/images/anime/1879/91014.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: Cutie Honey Universe

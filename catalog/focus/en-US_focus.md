@@ -1,5 +1,7 @@
 # Focus
 
+![focus](https://cdn.myanimelist.net/images/manga/2/150569.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

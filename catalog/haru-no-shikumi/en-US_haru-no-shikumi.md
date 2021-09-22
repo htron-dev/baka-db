@@ -1,5 +1,7 @@
 # Haru no Shikumi
 
+![haru-no-shikumi](https://cdn.myanimelist.net/images/anime/6/69159.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 春のしくみ

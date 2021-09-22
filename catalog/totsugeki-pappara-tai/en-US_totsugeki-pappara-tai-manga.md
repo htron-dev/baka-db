@@ -1,5 +1,7 @@
 # Totsugeki! Pappara-tai
 
+![totsugeki-pappara-tai](https://cdn.myanimelist.net/images/manga/2/203904.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 144

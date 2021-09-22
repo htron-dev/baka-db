@@ -1,5 +1,7 @@
 # Joshikousei: Girls-Live
 
+![joshikousei-girls-live](https://cdn.myanimelist.net/images/manga/1/152454.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 女子高生 Girls-Live

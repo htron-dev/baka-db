@@ -1,5 +1,7 @@
 # Saiyuuki Reload Blast
 
+![saiyuuki-reload-blast](https://cdn.myanimelist.net/images/manga/1/180291.jpg)
+
 -   **type**: manga
 -   **original-name**: 最遊記 RELOAD BLAST
 -   **start-date**: 2009-12-28

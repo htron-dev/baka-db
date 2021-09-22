@@ -1,5 +1,7 @@
 # Kugutsu
 
+![kugutsu](https://cdn.myanimelist.net/images/manga/4/25204.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 10

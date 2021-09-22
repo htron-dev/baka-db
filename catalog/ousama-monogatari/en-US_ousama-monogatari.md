@@ -1,5 +1,7 @@
 # Ousama Monogatari
 
+![ousama-monogatari](https://cdn.myanimelist.net/images/anime/10/70669.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 王さまものがたり

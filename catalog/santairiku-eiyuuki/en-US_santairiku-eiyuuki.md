@@ -1,5 +1,7 @@
 # Santairiku Eiyuuki
 
+![santairiku-eiyuuki](https://cdn.myanimelist.net/images/manga/3/235799.jpg)
+
 -   **type**: manga
 -   **original-name**: 三大陸英雄記
 -   **start-date**: 2019-12-10

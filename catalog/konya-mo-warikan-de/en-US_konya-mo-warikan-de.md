@@ -1,5 +1,7 @@
 # Konya mo Warikan de
 
+![konya-mo-warikan-de](https://cdn.myanimelist.net/images/manga/2/243171.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

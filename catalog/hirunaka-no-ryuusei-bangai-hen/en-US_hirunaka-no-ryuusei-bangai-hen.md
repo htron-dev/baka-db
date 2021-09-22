@@ -1,5 +1,7 @@
 # Hirunaka no Ryuusei Bangai-hen
 
+![hirunaka-no-ryuusei-bangai-hen](https://cdn.myanimelist.net/images/manga/2/165500.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

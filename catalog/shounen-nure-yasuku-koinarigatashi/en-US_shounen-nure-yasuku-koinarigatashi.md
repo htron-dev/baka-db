@@ -1,5 +1,7 @@
 # Shounen Nure Yasuku Koinarigatashi
 
+![shounen-nure-yasuku-koinarigatashi](https://cdn.myanimelist.net/images/manga/3/19901.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 少年濡れやすく恋成りがたし

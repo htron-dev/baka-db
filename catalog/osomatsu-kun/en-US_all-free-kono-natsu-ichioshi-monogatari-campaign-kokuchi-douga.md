@@ -1,5 +1,7 @@
 # All-Free kono Natsu Ichioshi Monogatari Campaign Kokuchi Douga
 
+![all-free-kono-natsu-ichioshi-monogatari-campaign-kokuchi-douga](https://cdn.myanimelist.net/images/anime/12/87202.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: オールフリー　この夏イチオシ物語キャンペーン告知動画

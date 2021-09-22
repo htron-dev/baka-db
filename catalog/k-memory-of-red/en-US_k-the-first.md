@@ -1,5 +1,7 @@
 # K: The First
 
+![k-the-first](https://cdn.myanimelist.net/images/manga/1/170852.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

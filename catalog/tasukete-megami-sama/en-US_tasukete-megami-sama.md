@@ -1,5 +1,7 @@
 # Tasukete Megami-sama!
 
+![tasukete-megami-sama](https://cdn.myanimelist.net/images/manga/1/199223.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

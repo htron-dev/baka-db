@@ -1,5 +1,7 @@
 # Kyo-Ami!
 
+![kyo-ami](https://cdn.myanimelist.net/images/manga/3/147413.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

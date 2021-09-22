@@ -1,5 +1,7 @@
 # Ore no Genjitsu wa Renai Game?? ka to Omottara Inochigake no Game datta
 
+![ore-no-genjitsu-wa-renai-game-ka-to-omottara-inochigake-no-game-datta](https://cdn.myanimelist.net/images/manga/2/198194.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 俺の現実は恋愛ゲーム??かと思ったら命がけのゲームだった
 -   **start-date**: 2017-07-22

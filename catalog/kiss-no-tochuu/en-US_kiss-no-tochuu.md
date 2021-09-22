@@ -1,5 +1,7 @@
 # Kiss no Tochuu
 
+![kiss-no-tochuu](https://cdn.myanimelist.net/images/manga/2/31458.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

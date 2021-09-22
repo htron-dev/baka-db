@@ -1,5 +1,7 @@
 # Douse, Koi dakara.
 
+![douse-koi-dakara](https://cdn.myanimelist.net/images/manga/3/149615.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

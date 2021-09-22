@@ -1,5 +1,7 @@
 # Meirei, Kimi wo Hanasanai
 
+![meirei-kimi-wo-hanasanai](https://cdn.myanimelist.net/images/manga/3/71075.jpg)
+
 -   **type**: manga
 -   **chapters**: 1
 -   **original-name**: 命令、キミを離さない

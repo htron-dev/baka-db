@@ -1,5 +1,7 @@
 # Peeping Life: The Perfect Explosion Specials
 
+![peeping-life-the-perfect-explosion-specials](https://cdn.myanimelist.net/images/anime/10/65693.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: Peeping Life -The Perfect Explosion-

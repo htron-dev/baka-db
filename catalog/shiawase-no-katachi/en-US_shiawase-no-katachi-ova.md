@@ -1,5 +1,7 @@
 # Shiawase no Katachi
 
+![shiawase-no-katachi](https://cdn.myanimelist.net/images/anime/6/26056.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: しあわせのかたち

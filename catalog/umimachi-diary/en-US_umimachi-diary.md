@@ -1,5 +1,7 @@
 # Umimachi Diary
 
+![umimachi-diary](https://cdn.myanimelist.net/images/manga/3/219711.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 37

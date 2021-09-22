@@ -1,5 +1,7 @@
 # Gemini Knives
 
+![gemini-knives](https://cdn.myanimelist.net/images/manga/3/9254.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **start-date**: 2006-02-28

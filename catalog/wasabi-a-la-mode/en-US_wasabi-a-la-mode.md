@@ -1,5 +1,7 @@
 # Wasabi a la Mode!!
 
+![wasabi-a-la-mode](https://cdn.myanimelist.net/images/manga/1/91189.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

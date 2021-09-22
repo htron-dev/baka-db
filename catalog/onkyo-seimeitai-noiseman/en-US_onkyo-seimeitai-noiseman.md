@@ -1,5 +1,7 @@
 # Onkyo Seimeitai Noiseman
 
+![onkyo-seimeitai-noiseman](https://cdn.myanimelist.net/images/anime/11/19521.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 音響生命体ノイズマン

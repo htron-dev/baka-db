@@ -1,5 +1,7 @@
 # Ashitaya Akinai Hanjou
 
+![ashitaya-akinai-hanjou](https://cdn.myanimelist.net/images/manga/2/147619.jpg)
+
 -   **type**: manga
 -   **original-name**: 明日屋商い繁盛
 -   **start-date**: 2011-09-22

@@ -1,5 +1,7 @@
 # Wanko no Ongaeshi
 
+![wanko-no-ongaeshi](https://cdn.myanimelist.net/images/manga/1/24413.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

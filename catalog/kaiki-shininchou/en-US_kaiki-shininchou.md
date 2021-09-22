@@ -1,5 +1,7 @@
 # Kaiki Shininchou
 
+![kaiki-shininchou](https://cdn.myanimelist.net/images/manga/3/247903.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

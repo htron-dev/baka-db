@@ -1,5 +1,7 @@
 # Sengoku Tsukiyo
 
+![sengoku-tsukiyo](https://cdn.myanimelist.net/images/manga/3/155741.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

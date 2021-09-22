@@ -1,5 +1,7 @@
 # In-Cha ni Naritai Hinomori-san
 
+![in-cha-ni-naritai-hinomori-san](https://cdn.myanimelist.net/images/manga/1/201570.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 陰キャになりたい陽乃森さん
 -   **start-date**: 2017-10-07

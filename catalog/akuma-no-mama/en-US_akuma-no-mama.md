@@ -1,5 +1,7 @@
 # Akuma no Mama
 
+![akuma-no-mama](https://cdn.myanimelist.net/images/manga/1/223634.jpg)
+
 -   **type**: manga
 -   **original-name**: あくまのまま
 -   **start-date**: 2018-10-25

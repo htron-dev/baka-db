@@ -1,5 +1,7 @@
 # Ikeike! Momon-chan Specials
 
+![ikeike-momon-chan-specials](https://cdn.myanimelist.net/images/anime/2/49327.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: いけいけ！ももんちゃん 戯

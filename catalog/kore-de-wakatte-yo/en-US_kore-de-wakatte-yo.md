@@ -1,5 +1,7 @@
 # Kore de Wakatte yo!
 
+![kore-de-wakatte-yo](https://cdn.myanimelist.net/images/manga/3/196396.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

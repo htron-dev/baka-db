@@ -1,5 +1,7 @@
 # Crocro Clock
 
+![crocro-clock](https://cdn.myanimelist.net/images/manga/2/160019.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: クロクロクロック

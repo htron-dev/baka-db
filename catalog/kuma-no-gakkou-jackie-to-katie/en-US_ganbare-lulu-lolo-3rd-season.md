@@ -1,5 +1,7 @@
 # Ganbare! Lulu Lolo 3rd Season
 
+![ganbare-lulu-lolo-3rd-season](https://cdn.myanimelist.net/images/anime/5/76477.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: がんばれ！ルルロロ　第３シリーズ

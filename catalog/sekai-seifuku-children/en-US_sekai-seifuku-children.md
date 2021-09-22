@@ -1,5 +1,7 @@
 # Sekai Seifuku Children
 
+![sekai-seifuku-children](https://cdn.myanimelist.net/images/manga/3/24345.jpg)
+
 -   **type**: manga
 -   **original-name**: 世界征服チルドレン
 

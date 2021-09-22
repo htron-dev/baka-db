@@ -1,5 +1,7 @@
 # Kotarou wa Hitorigurashi
 
+![kotarou-wa-hitorigurashi](https://cdn.myanimelist.net/images/manga/2/215292.jpg)
+
 -   **type**: manga
 -   **original-name**: コタローは１人暮らし
 -   **start-date**: 2015-03-13

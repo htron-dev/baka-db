@@ -1,5 +1,7 @@
 # Aru Tabibito no Nikki
 
+![aru-tabibito-no-nikki](https://cdn.myanimelist.net/images/anime/1/2291.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: 或る旅人の日記

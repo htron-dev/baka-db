@@ -1,5 +1,7 @@
 # Raspberry
 
+![raspberry](https://cdn.myanimelist.net/images/manga/2/21327.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

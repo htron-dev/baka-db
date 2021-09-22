@@ -1,5 +1,7 @@
 # Usotsuki Satsuki wa Shi ga Mieru
 
+![usotsuki-satsuki-wa-shi-ga-mieru](https://cdn.myanimelist.net/images/manga/2/238696.jpg)
+
 -   **type**: manga
 -   **original-name**: ウソツキ皐月は死が視える
 -   **start-date**: 2020-05-20

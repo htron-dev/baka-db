@@ -1,5 +1,7 @@
 # Kafka
 
+![kafka](https://cdn.myanimelist.net/images/manga/1/207126.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

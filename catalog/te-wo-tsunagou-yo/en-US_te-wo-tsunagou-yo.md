@@ -1,5 +1,7 @@
 # Te wo Tsunagou yo
 
+![te-wo-tsunagou-yo](https://cdn.myanimelist.net/images/manga/3/187417.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 33

@@ -1,5 +1,7 @@
 # Memory Eaters
 
+![memory-eaters](https://cdn.myanimelist.net/images/manga/2/186619.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 11

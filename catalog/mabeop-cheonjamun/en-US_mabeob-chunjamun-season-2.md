@@ -1,5 +1,7 @@
 # Mabeob Chunjamun Season 2
 
+![mabeob-chunjamun-season-2](https://cdn.myanimelist.net/images/anime/1664/100459.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 마법천자문 시즌2
@@ -9,7 +11,6 @@
 ## Tags
 
 -   adventure
-
 -   magic
 -   martial-arts
 

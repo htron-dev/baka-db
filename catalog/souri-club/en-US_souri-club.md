@@ -1,5 +1,7 @@
 # Souri Club
 
+![souri-club](https://cdn.myanimelist.net/images/manga/2/243695.jpg)
+
 -   **type**: manga
 -   **original-name**: 総理倶楽部
 -   **start-date**: 2021-01-04

@@ -1,5 +1,7 @@
 # Explorer Woman Ray
 
+![explorer-woman-ray](https://cdn.myanimelist.net/images/manga/2/46835.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: エクスプローラーウーマン・レイ

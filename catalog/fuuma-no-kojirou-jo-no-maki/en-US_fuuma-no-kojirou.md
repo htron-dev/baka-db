@@ -1,5 +1,7 @@
 # Fuuma no Kojirou
 
+![fuuma-no-kojirou](https://cdn.myanimelist.net/images/manga/2/198355.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 42

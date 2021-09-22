@@ -1,5 +1,7 @@
 # Hanaori Soushi
 
+![hanaori-soushi](https://cdn.myanimelist.net/images/manga/1/46115.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

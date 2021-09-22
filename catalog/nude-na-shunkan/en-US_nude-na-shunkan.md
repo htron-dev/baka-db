@@ -1,5 +1,7 @@
 # Nude na Shunkan
 
+![nude-na-shunkan](https://cdn.myanimelist.net/images/manga/1/80557.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

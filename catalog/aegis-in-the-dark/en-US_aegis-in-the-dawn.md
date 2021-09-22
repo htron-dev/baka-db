@@ -1,5 +1,7 @@
 # Aegis in the Dawn
 
+![aegis-in-the-dawn](https://cdn.myanimelist.net/images/manga/2/179532.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 48

@@ -1,5 +1,7 @@
 # Biblia Koshodou no Jiken Techou
 
+![biblia-koshodou-no-jiken-techou](https://cdn.myanimelist.net/images/anime/10/84209.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ビブリア古書堂の事件手帖

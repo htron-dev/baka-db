@@ -1,5 +1,7 @@
 # Ookami Shoujo to Kuro Ouji Recap
 
+![ookami-shoujo-to-kuro-ouji-recap](https://cdn.myanimelist.net/images/anime/9/78439.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: オオカミ少女と黒王子 総集編

@@ -1,5 +1,7 @@
 # Melody no Jikenbo: Rose Garden de Ochakai wo
 
+![melody-no-jikenbo-rose-garden-de-ochakai-wo](https://cdn.myanimelist.net/images/manga/3/203303.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 32

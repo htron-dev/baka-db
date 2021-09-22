@@ -1,5 +1,7 @@
 # Kiss no Sono Saki
 
+![kiss-no-sono-saki](https://cdn.myanimelist.net/images/manga/2/135459.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: キスのその先

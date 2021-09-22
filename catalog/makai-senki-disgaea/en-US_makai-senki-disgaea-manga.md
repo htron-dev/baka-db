@@ -1,5 +1,7 @@
 # Makai Senki Disgaea
 
+![makai-senki-disgaea](https://cdn.myanimelist.net/images/manga/1/172721.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

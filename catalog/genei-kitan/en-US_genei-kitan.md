@@ -1,5 +1,7 @@
 # Genei Kitan
 
+![genei-kitan](https://cdn.myanimelist.net/images/manga/2/25877.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

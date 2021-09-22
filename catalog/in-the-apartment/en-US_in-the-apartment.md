@@ -1,5 +1,7 @@
 # In the Apartment
 
+![in-the-apartment](https://cdn.myanimelist.net/images/manga/2/203796.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

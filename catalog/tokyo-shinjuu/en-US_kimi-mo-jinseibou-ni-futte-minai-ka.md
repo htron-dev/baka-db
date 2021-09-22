@@ -1,5 +1,7 @@
 # Kimi mo Jinseibou ni Futte Minai ka?
 
+![kimi-mo-jinseibou-ni-futte-minai-ka](https://cdn.myanimelist.net/images/manga/2/89605.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

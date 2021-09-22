@@ -1,5 +1,7 @@
 # Futsuu ni Kawaii?
 
+![futsuu-ni-kawaii](https://cdn.myanimelist.net/images/manga/3/96177.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

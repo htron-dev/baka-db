@@ -1,5 +1,7 @@
 # 1+1=0
 
+![1-1-0](https://cdn.myanimelist.net/images/manga/3/166763.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

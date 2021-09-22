@@ -1,5 +1,7 @@
 # Kizuchi no Sasoi
 
+![kizuchi-no-sasoi](https://cdn.myanimelist.net/images/manga/3/240347.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

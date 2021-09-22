@@ -1,5 +1,7 @@
 # Mikansei na Karada
 
+![mikansei-na-karada](https://cdn.myanimelist.net/images/manga/2/2453.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

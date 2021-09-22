@@ -1,5 +1,7 @@
 # Sono Otoko, Mahoutsukai "A"
 
+![sono-otoko-mahoutsukai-a](https://cdn.myanimelist.net/images/manga/3/149095.jpg)
+
 -   **type**: light-novel
 -   **original-name**: その男、魔法使い"A"
 -   **start-date**: 2011-11-30

@@ -1,5 +1,7 @@
 # Aijin wa Korosareru
 
+![aijin-wa-korosareru](https://cdn.myanimelist.net/images/manga/3/2542.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

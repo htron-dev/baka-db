@@ -1,5 +1,7 @@
 # Fuuma no Kojirou: Seiken Sensou-hen
 
+![fuuma-no-kojirou-seiken-sensou-hen](https://cdn.myanimelist.net/images/anime/4/9384.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 風魔の小次郎 聖剣戦争篇

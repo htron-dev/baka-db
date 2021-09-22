@@ -1,5 +1,7 @@
 # Souten no Ken
 
+![souten-no-ken](https://cdn.myanimelist.net/images/manga/3/829.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 260

@@ -1,5 +1,7 @@
 # 2.5-jigen no Yuuwaku
 
+![2-5-jigen-no-yuuwaku](https://cdn.myanimelist.net/images/manga/2/223019.jpg)
+
 -   **type**: manga
 -   **original-name**: 2.5 次元の誘惑
 -   **start-date**: 2019-06-15

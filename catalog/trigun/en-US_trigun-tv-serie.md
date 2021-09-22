@@ -1,5 +1,7 @@
 # Trigun
 
+![trigun](https://cdn.myanimelist.net/images/anime/7/20310.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: トライガン

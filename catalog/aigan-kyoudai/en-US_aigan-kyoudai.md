@@ -1,5 +1,7 @@
 # Aigan Kyoudai
 
+![aigan-kyoudai](https://cdn.myanimelist.net/images/manga/1/116139.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 愛玩兄弟

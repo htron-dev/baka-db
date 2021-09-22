@@ -1,5 +1,7 @@
 # Mebae no Maachi
 
+![mebae-no-maachi](https://cdn.myanimelist.net/images/manga/3/7764.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Jingi Naki Mukotori
 
+![jingi-naki-mukotori](https://cdn.myanimelist.net/images/manga/3/232380.jpg)
+
 -   **type**: manga
 -   **original-name**: 仁義なき婿取り
 -   **start-date**: 2020-01-04

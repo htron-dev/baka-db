@@ -1,5 +1,7 @@
 # Mitou Shoukan://Blood Sign
 
+![mitou-shoukan-blood-sign](https://cdn.myanimelist.net/images/manga/3/219837.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 80

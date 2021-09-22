@@ -1,5 +1,7 @@
 # Haru to Bonkura
 
+![haru-to-bonkura](https://cdn.myanimelist.net/images/manga/2/200499.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

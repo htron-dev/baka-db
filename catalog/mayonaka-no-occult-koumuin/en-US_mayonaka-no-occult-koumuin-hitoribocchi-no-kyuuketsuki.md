@@ -1,5 +1,7 @@
 # Mayonaka no Occult Koumuin: Hitoribocchi no Kyuuketsuki
 
+![mayonaka-no-occult-koumuin-hitoribocchi-no-kyuuketsuki](https://cdn.myanimelist.net/images/anime/1892/101617.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 真夜中のオカルト公務員」TV 未放送エピソード「ひとりぼっちの吸血鬼」

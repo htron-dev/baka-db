@@ -1,5 +1,7 @@
 # Himekami
 
+![himekami](https://cdn.myanimelist.net/images/manga/1/163011.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 19

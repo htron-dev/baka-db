@@ -1,5 +1,7 @@
 # Prism Ark
 
+![prism-ark](https://cdn.myanimelist.net/images/manga/2/3767.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: プリズムアーク
@@ -13,11 +15,6 @@
 ## Authors
 
 -   None
-
-## Links
-
--   [My Anime list](https://myanimelist.net/manga/23570/Prism_Ark)
-    the Prism Ark Manga.
 
 ## Links
 

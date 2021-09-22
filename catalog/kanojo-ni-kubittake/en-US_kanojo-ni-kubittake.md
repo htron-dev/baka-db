@@ -1,5 +1,7 @@
 # Kanojo ni Kubittake
 
+![kanojo-ni-kubittake](https://cdn.myanimelist.net/images/manga/2/222737.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 30

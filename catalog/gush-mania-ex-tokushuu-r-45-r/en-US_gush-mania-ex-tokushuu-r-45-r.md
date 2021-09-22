@@ -1,5 +1,7 @@
 # Gush maniaEX Tokushuu R45R
 
+![gush-mania-ex-tokushuu-r-45-r](https://cdn.myanimelist.net/images/manga/1/84963.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

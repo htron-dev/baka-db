@@ -1,5 +1,7 @@
 # Vietnam War
 
+![vietnam-war](https://cdn.myanimelist.net/images/manga/1/131925.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ヴェトナム・ウォー

@@ -1,5 +1,7 @@
 # Inuwashi Momo wa Yuruganai
 
+![inuwashi-momo-wa-yuruganai](https://cdn.myanimelist.net/images/manga/1/196390.jpg)
+
 -   **type**: manga
 -   **original-name**: 犬鷲百桃はゆるがない
 -   **start-date**: 2016-10-28

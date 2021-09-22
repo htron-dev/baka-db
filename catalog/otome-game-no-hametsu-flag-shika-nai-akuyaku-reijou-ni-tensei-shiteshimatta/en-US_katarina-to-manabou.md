@@ -1,5 +1,7 @@
 # Katarina to Manabou
 
+![katarina-to-manabou](https://cdn.myanimelist.net/images/anime/1229/107958.jpg)
+
 -   **type**: ona
 -   **episodes**: 9
 -   **original-name**: カタリナと学ぼう

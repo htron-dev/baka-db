@@ -1,5 +1,7 @@
 # Hajipuru!: Hajirai Yuusha Purupuru Baiin no Densetsu!
 
+![hajipuru-hajirai-yuusha-purupuru-baiin-no-densetsu](https://cdn.myanimelist.net/images/manga/2/147385.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

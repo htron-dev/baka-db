@@ -1,5 +1,7 @@
 # Kimi no Matsu Mirai (Basho) e
 
+![kimi-no-matsu-mirai-basho-e](https://cdn.myanimelist.net/images/anime/1616/96200.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: きみの待つ未来（ばしょ）へ

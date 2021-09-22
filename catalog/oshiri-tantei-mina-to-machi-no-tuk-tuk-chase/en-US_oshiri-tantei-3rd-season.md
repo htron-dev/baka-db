@@ -1,5 +1,7 @@
 # Oshiri Tantei 3rd Season
 
+![oshiri-tantei-3rd-season](https://cdn.myanimelist.net/images/anime/1268/107370.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: おしりたんてい
@@ -11,7 +13,6 @@
 
 -   mystery
 -   comedy
-
 -   fantasy
 
 ## Sinopse

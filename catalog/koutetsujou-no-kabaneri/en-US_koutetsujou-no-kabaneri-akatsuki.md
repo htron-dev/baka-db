@@ -1,5 +1,7 @@
 # Koutetsujou no Kabaneri: Akatsuki
 
+![koutetsujou-no-kabaneri-akatsuki](https://cdn.myanimelist.net/images/manga/3/179228.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

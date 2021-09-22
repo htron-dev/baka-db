@@ -1,5 +1,7 @@
 # Mirai Nikki: Mosaic
 
+![mirai-nikki-mosaic](https://cdn.myanimelist.net/images/manga/2/28302.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Cop Craft
 
+![cop-craft](https://cdn.myanimelist.net/images/anime/1365/103219.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: COP CRAFT [コップクラフト]

@@ -1,5 +1,7 @@
 # Yoru kara Hajimaru Koibito Keiyaku
 
+![yoru-kara-hajimaru-koibito-keiyaku](https://cdn.myanimelist.net/images/manga/1/173320.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

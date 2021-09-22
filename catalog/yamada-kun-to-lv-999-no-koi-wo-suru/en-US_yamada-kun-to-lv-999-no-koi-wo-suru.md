@@ -1,5 +1,7 @@
 # Yamada-kun to Lv999 no Koi wo Suru
 
+![yamada-kun-to-lv-999-no-koi-wo-suru](https://cdn.myanimelist.net/images/manga/2/228144.jpg)
+
 -   **type**: manga
 -   **original-name**: 山田くんと Lv999 の恋をする
 -   **start-date**: 2019-03-07

@@ -1,5 +1,7 @@
 # .hack//Unison
 
+![hack-unison](https://cdn.myanimelist.net/images/anime/2/23078.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: .hack//Unison

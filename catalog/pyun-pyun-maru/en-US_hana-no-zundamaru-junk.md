@@ -1,5 +1,7 @@
 # Hana no Zundamaru: Junk
 
+![hana-no-zundamaru-junk](https://cdn.myanimelist.net/images/anime/2/59553.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: 花のずんだ丸 じゃんく

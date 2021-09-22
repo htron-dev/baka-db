@@ -1,5 +1,7 @@
 # Xing Da Xing Donghua Xilie Zhi: Taikong Chuan
 
+![xing-da-xing-donghua-xilie-zhi-taikong-chuan](https://cdn.myanimelist.net/images/anime/1071/114416.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 星达兴动画系列之太空船

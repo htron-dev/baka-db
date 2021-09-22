@@ -1,5 +1,7 @@
 # Senpai ga Boku wo Tori ni Kiteru
 
+![senpai-ga-boku-wo-tori-ni-kiteru](https://cdn.myanimelist.net/images/manga/2/234446.jpg)
+
 -   **type**: manga
 -   **original-name**: 先輩が僕を殺〈ト〉りにきてる
 -   **start-date**: 2019-12-05

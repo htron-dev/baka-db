@@ -1,5 +1,7 @@
 # Chocomatsu-san: Valentine's Day-hen
 
+![chocomatsu-san-valentines-day-hen](https://cdn.myanimelist.net/images/anime/1068/111880.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: チョコ松さん～バレンタインデー編～

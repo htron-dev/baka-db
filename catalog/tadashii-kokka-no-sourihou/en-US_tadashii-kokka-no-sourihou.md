@@ -1,5 +1,7 @@
 # Tadashii Kokka no Sourihou.
 
+![tadashii-kokka-no-sourihou](https://cdn.myanimelist.net/images/manga/3/9207.jpg)
+
 -   **type**: manga
 -   **original-name**: 正しい国家の創り方。
 -   **start-date**: 2008-01-09

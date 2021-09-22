@@ -1,5 +1,7 @@
 # Seisenshi Dunbine Memorial
 
+![seisenshi-dunbine-memorial](https://cdn.myanimelist.net/images/anime/2/55405.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 聖戦士ダンバイン 編集版

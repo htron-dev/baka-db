@@ -1,5 +1,7 @@
 # Oui Oui Days
 
+![oui-oui-days](https://cdn.myanimelist.net/images/manga/1/29952.jpg)
+
 -   **type**: manga
 -   **original-name**: ういうい・days; ういうい days
 

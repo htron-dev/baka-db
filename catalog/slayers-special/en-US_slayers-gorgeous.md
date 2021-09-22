@@ -1,5 +1,7 @@
 # Slayers Gorgeous
 
+![slayers-gorgeous](https://cdn.myanimelist.net/images/anime/5/34991.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: スレイヤーズごぅじゃす

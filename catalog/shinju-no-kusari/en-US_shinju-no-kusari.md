@@ -1,5 +1,7 @@
 # Shinju no Kusari
 
+![shinju-no-kusari](https://cdn.myanimelist.net/images/manga/2/144313.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

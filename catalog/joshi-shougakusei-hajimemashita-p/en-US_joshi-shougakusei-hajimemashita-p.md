@@ -1,5 +1,7 @@
 # Joshi Shougakusei Hajimemashita P!
 
+![joshi-shougakusei-hajimemashita-p](https://cdn.myanimelist.net/images/manga/2/143425.jpg)
+
 -   **type**: manga
 -   **original-name**: 女子小学生はじめました P!
 -   **start-date**: 2014-06-13

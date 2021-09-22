@@ -1,5 +1,7 @@
 # Mama no Violin
 
+![mama-no-violin](https://cdn.myanimelist.net/images/manga/5/32826.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ママのヴァイオリン

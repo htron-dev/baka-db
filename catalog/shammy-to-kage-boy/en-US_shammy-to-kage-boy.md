@@ -1,5 +1,7 @@
 # Shammy to Kage Boy
 
+![shammy-to-kage-boy](https://cdn.myanimelist.net/images/anime/9/86117.jpg)
+
 -   **type**: special
 -   **original-name**: シャーミィとかげぼうや
 -   **start-date**: 2016-10-20

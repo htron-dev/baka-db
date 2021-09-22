@@ -1,5 +1,7 @@
 # Sekai Saikyou ni Natta Ore
 
+![sekai-saikyou-ni-natta-ore](https://cdn.myanimelist.net/images/manga/2/201496.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 世界最強になった俺
 -   **start-date**: 2017-10-21

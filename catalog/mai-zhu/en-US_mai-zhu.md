@@ -1,5 +1,7 @@
 # Mai Zhu
 
+![mai-zhu](https://cdn.myanimelist.net/images/anime/8/54833.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 卖猪

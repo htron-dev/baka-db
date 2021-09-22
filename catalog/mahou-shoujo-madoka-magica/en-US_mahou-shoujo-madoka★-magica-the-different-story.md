@@ -1,5 +1,7 @@
 # Mahou Shoujo Madoka★Magica: The Different Story
 
+![mahou-shoujo-madoka★-magica-the-different-story](https://cdn.myanimelist.net/images/manga/3/78173.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

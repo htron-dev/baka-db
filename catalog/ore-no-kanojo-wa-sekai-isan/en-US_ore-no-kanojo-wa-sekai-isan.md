@@ -1,5 +1,7 @@
 # Ore no Kanojo wa Sekai Isan
 
+![ore-no-kanojo-wa-sekai-isan](https://cdn.myanimelist.net/images/manga/2/160888.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

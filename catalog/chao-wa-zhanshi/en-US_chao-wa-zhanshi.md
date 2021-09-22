@@ -1,5 +1,7 @@
 # Chao Wa Zhanshi
 
+![chao-wa-zhanshi](https://cdn.myanimelist.net/images/anime/1720/93704.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 超蛙战士

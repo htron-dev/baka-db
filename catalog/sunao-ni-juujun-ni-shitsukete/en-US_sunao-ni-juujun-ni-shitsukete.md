@@ -1,5 +1,7 @@
 # Sunao ni, Juujun ni Shitsukete
 
+![sunao-ni-juujun-ni-shitsukete](https://cdn.myanimelist.net/images/manga/2/248404.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Nagi no Oitoma
 
+![nagi-no-oitoma](https://cdn.myanimelist.net/images/manga/2/216342.jpg)
+
 -   **type**: manga
 -   **original-name**: 凪のお暇
 -   **start-date**: 2016-06-25

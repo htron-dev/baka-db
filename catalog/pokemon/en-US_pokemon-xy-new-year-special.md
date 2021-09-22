@@ -1,5 +1,7 @@
 # Pokemon XY: New Year Special
 
+![pokemon-xy-new-year-special](https://cdn.myanimelist.net/images/anime/13/57141.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 完全マスター！ポケモン XY スペシャル

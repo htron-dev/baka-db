@@ -1,5 +1,7 @@
 # Meshimase Lodoss-tou Senki: Sorette Oishii no?
 
+![meshimase-lodoss-tou-senki-sorette-oishii-no](https://cdn.myanimelist.net/images/anime/4/60627.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 召しませロードス島戦記～それっておいしいの？～

@@ -1,5 +1,7 @@
 # Yoshida no Matsue Beauty Daisakusen
 
+![yoshida-no-matsue-beauty-daisakusen](https://cdn.myanimelist.net/images/anime/3/84748.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: 吉田の松江ビューティー大作戦

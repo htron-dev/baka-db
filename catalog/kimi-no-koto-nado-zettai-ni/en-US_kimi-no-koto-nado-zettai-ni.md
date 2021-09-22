@@ -1,5 +1,7 @@
 # Kimi no Koto nado Zettai ni
 
+![kimi-no-koto-nado-zettai-ni](https://cdn.myanimelist.net/images/manga/2/198581.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

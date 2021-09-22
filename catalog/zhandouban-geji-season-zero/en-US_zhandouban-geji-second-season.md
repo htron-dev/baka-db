@@ -1,5 +1,7 @@
 # Zhandouban Geji! Second Season
 
+![zhandouban-geji-second-season](https://cdn.myanimelist.net/images/anime/1230/114639.jpg)
+
 -   **type**: ona
 -   **episodes**: 14
 -   **original-name**: 战斗吧歌姬！ 第二季

@@ -1,5 +1,7 @@
 # Oishii Verandah.
 
+![oishii-verandah](https://cdn.myanimelist.net/images/manga/3/222349.jpg)
+
 -   **type**: manga
 -   **original-name**: おいしいベランダ。
 -   **start-date**: 2018-03-05

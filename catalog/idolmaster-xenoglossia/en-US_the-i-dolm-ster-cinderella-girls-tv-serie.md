@@ -1,5 +1,7 @@
 # The iDOLM@STER Cinderella Girls
 
+![the-i-dolm-ster-cinderella-girls](https://cdn.myanimelist.net/images/anime/10/70733.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: アイドルマスター シンデレラガールズ

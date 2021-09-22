@@ -1,5 +1,7 @@
 # Kin Mirai Furou Fushi Densetsu Vampire
 
+![kin-mirai-furou-fushi-densetsu-vampire](https://cdn.myanimelist.net/images/manga/2/76469.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 41

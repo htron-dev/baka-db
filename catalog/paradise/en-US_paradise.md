@@ -1,5 +1,7 @@
 # Paradise
 
+![paradise](https://cdn.myanimelist.net/images/anime/5/71482.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: パラダイス

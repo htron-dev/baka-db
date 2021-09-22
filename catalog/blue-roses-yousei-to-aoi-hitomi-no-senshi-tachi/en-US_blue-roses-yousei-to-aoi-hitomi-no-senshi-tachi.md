@@ -1,5 +1,7 @@
 # Blue Roses: Yousei to Aoi Hitomi no Senshi-tachi
 
+![blue-roses-yousei-to-aoi-hitomi-no-senshi-tachi](https://cdn.myanimelist.net/images/manga/2/95755.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: BLUE ROSES ~妖精と青い瞳の戦士たち~

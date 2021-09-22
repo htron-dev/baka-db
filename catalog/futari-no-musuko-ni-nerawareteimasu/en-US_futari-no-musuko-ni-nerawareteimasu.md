@@ -1,5 +1,7 @@
 # Futari no Musuko ni Nerawareteimasu
 
+![futari-no-musuko-ni-nerawareteimasu](https://cdn.myanimelist.net/images/manga/3/143223.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ふたりの息子に狙われています

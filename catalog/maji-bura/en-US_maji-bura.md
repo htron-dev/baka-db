@@ -1,5 +1,7 @@
 # Maji Bura!?
 
+![maji-bura](https://cdn.myanimelist.net/images/manga/2/207066.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

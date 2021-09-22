@@ -1,5 +1,7 @@
 # Megami-ryou no Ryoubo-kun.
 
+![megami-ryou-no-ryoubo-kun](https://cdn.myanimelist.net/images/manga/3/210954.jpg)
+
 -   **type**: manga
 -   **original-name**: 女神寮の寮母くん。
 -   **start-date**: 2017-12-26

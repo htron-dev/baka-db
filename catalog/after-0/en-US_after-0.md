@@ -1,5 +1,7 @@
 # After 0
 
+![after-0](https://cdn.myanimelist.net/images/manga/3/183601.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 121

@@ -1,5 +1,7 @@
 # Beyond Creation
 
+![beyond-creation](https://cdn.myanimelist.net/images/anime/1123/99276.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: Beyond Creation

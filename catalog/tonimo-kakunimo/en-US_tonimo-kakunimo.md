@@ -1,5 +1,7 @@
 # Tonimo Kakunimo
 
+![tonimo-kakunimo](https://cdn.myanimelist.net/images/manga/2/237959.jpg)
+
 -   **type**: manga
 -   **original-name**: 兎にも角にも
 -   **start-date**: 2019-03-07

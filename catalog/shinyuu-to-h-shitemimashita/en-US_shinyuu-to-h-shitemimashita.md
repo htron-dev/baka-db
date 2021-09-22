@@ -1,5 +1,7 @@
 # Shinyuu to H shitemimashita
 
+![shinyuu-to-h-shitemimashita](https://cdn.myanimelist.net/images/manga/3/223755.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

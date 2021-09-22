@@ -1,5 +1,7 @@
 # The Snow Queen
 
+![the-snow-queen](https://cdn.myanimelist.net/images/manga/2/10086.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 18

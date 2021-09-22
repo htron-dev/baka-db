@@ -1,5 +1,7 @@
 # To Heart 2 ~Colorful Note~
 
+![to-heart-2-colorful-note](https://cdn.myanimelist.net/images/manga/2/34301.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 37

@@ -1,5 +1,7 @@
 # Hentatsu (TV) Recap
 
+![hentatsu-tv-recap](https://cdn.myanimelist.net/images/anime/1554/107933.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: へんたつ

@@ -1,5 +1,7 @@
 # Zhiqu Yang Xuetang: Qihuan Chengyu Shu
 
+![zhiqu-yang-xuetang-qihuan-chengyu-shu](https://cdn.myanimelist.net/images/anime/1728/115302.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: 智趣羊学堂之奇幻成语书

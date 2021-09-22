@@ -1,5 +1,7 @@
 # Tonari ni Kedamono
 
+![tonari-ni-kedamono](https://cdn.myanimelist.net/images/manga/3/177805.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Shura no Mon Iden: Fudekage
 
+![shura-no-mon-iden-fudekage](https://cdn.myanimelist.net/images/manga/2/143853.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 24

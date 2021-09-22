@@ -1,5 +1,7 @@
 # Ippen Sekai
 
+![ippen-sekai](https://cdn.myanimelist.net/images/manga/2/221437.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

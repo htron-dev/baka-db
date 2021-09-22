@@ -1,5 +1,7 @@
 # Uruwashi no Utahime wa Kuro Koushaku ni Ai wo Sasageru
 
+![uruwashi-no-utahime-wa-kuro-koushaku-ni-ai-wo-sasageru](https://cdn.myanimelist.net/images/manga/3/195189.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

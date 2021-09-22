@@ -1,5 +1,7 @@
 # Kimi to no Dogfight
 
+![kimi-to-no-dogfight](https://cdn.myanimelist.net/images/manga/1/212630.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

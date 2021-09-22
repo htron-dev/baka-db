@@ -1,5 +1,7 @@
 # Isekai Maou no Successor
 
+![isekai-maou-no-successor](https://cdn.myanimelist.net/images/manga/2/180131.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界魔王の後継者〈サクセサー〉
 -   **start-date**: 2016-07-22

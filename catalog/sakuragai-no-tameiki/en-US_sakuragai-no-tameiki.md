@@ -1,5 +1,7 @@
 # Sakuragai no Tameiki
 
+![sakuragai-no-tameiki](https://cdn.myanimelist.net/images/manga/2/10878.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 桜貝のためいき

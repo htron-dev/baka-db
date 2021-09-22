@@ -1,5 +1,7 @@
 # Hi-Fi Rendezvous
 
+![hi-fi-rendezvous](https://cdn.myanimelist.net/images/manga/2/237207.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

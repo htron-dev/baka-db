@@ -1,5 +1,7 @@
 # Star Wars: Leia - Oujo no Shiren
 
+![star-wars-leia-oujo-no-shiren](https://cdn.myanimelist.net/images/manga/3/239430.jpg)
+
 -   **type**: manga
 -   **original-name**: STAR WARS/レイア ―王女の試練―
 -   **start-date**: 2019-05-04

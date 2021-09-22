@@ -1,5 +1,7 @@
 # Ice Movie
 
+![ice-movie](https://cdn.myanimelist.net/images/anime/2/25055.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ICE 劇場版
@@ -20,4 +22,4 @@ Compilation movie of the previously released OVA.
 ## Links
 
 -   [My Anime list](https://myanimelist.net/anime/9053/Ice_Movie)
--   [Wikipedia](<http://en.wikipedia.org/wiki/ICE_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/ICE_%28anime%29)

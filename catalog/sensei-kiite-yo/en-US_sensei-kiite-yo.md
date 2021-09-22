@@ -1,5 +1,7 @@
 # Sensei, Kiite yo
 
+![sensei-kiite-yo](https://cdn.myanimelist.net/images/manga/2/84537.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Piyopiyo
 
+![piyopiyo](https://cdn.myanimelist.net/images/manga/2/123929.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

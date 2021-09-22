@@ -1,5 +1,7 @@
 # Princess wa Barairo no Yume wo Miru
 
+![princess-wa-barairo-no-yume-wo-miru](https://cdn.myanimelist.net/images/manga/3/146233.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 吸血姫〈プリンセス〉は薔薇色の夢をみる
 -   **start-date**: 2014-08-08

@@ -1,5 +1,7 @@
 # Bus Guide Monogatari: Sakou Watari Shoki Kessakushuu
 
+![bus-guide-monogatari-sakou-watari-shoki-kessakushuu](https://cdn.myanimelist.net/images/manga/2/95975.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Double House
 
+![double-house](https://cdn.myanimelist.net/images/manga/2/21131.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

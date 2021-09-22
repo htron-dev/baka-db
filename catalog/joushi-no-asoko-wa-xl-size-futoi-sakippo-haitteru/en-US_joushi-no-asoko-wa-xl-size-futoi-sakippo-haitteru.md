@@ -1,5 +1,7 @@
 # Joushi no Asoko wa XL Size!? Futoi Sakippo… Haitteru...!
 
+![joushi-no-asoko-wa-xl-size-futoi-sakippo-haitteru](https://cdn.myanimelist.net/images/manga/2/227610.jpg)
+
 -   **type**: manga
 -   **original-name**: 上司のアソコは XL サイズ!?～太い先っぽ…入ってる…!
 -   **start-date**: 2018-05-28

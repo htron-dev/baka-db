@@ -1,5 +1,7 @@
 # Holiday Love: Fuufukan Renai
 
+![holiday-love-fuufukan-renai](https://cdn.myanimelist.net/images/manga/3/155850.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 115

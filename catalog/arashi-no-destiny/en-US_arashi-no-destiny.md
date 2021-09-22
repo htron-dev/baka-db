@@ -1,5 +1,7 @@
 # Arashi no Destiny
 
+![arashi-no-destiny](https://cdn.myanimelist.net/images/manga/3/46781.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: 嵐のデスティニィ

@@ -1,5 +1,7 @@
 # Nangoku Shounen Papuwa-kun: Hoshi Kudaru Yoru ni Aimashou
 
+![nangoku-shounen-papuwa-kun-hoshi-kudaru-yoru-ni-aimashou](https://cdn.myanimelist.net/images/anime/1188/105819.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 南国少年パプワくん 星降る夜に会いましょう

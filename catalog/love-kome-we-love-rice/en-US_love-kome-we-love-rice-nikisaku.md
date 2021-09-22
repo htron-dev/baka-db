@@ -1,5 +1,7 @@
 # Love Kome: We Love Rice Nikisaku
 
+![love-kome-we-love-rice-nikisaku](https://cdn.myanimelist.net/images/anime/4/88115.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ラブ米 -WE LOVE RICE- 二期作

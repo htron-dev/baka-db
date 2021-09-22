@@ -1,5 +1,7 @@
 # Loan Wolf
 
+![loan-wolf](https://cdn.myanimelist.net/images/manga/3/32216.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: LOAN WOLF

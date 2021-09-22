@@ -1,5 +1,7 @@
 # Kami to Yobareta Kyuuketsuki
 
+![kami-to-yobareta-kyuuketsuki](https://cdn.myanimelist.net/images/manga/3/157543.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 34

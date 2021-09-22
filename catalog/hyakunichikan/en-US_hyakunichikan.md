@@ -1,5 +1,7 @@
 # Hyakunichikan!!
 
+![hyakunichikan](https://cdn.myanimelist.net/images/manga/1/179271.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 54

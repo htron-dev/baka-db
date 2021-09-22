@@ -1,5 +1,7 @@
 # Uchi no Shishou wa Shippo ga Nai
 
+![uchi-no-shishou-wa-shippo-ga-nai](https://cdn.myanimelist.net/images/anime/1071/116874.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: うちの師匠はしっぽがない
 -   **rating**: None

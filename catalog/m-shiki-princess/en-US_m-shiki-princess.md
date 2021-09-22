@@ -1,5 +1,7 @@
 # M-shiki Princess
 
+![m-shiki-princess](https://cdn.myanimelist.net/images/manga/1/39836.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: M 式プリンセス

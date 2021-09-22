@@ -1,5 +1,7 @@
 # Girls & Panzer: Ribbon no Musha
 
+![girls-panzer-ribbon-no-musha](https://cdn.myanimelist.net/images/manga/1/150289.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 64

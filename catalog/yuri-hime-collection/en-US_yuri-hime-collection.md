@@ -1,5 +1,7 @@
 # Yuri Hime Collection
 
+![yuri-hime-collection](https://cdn.myanimelist.net/images/manga/1/119555.jpg)
+
 -   **type**: manga
 -   **original-name**: 百合姫 Collection
 -   **start-date**: 2010-07-17

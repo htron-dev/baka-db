@@ -1,5 +1,7 @@
 # Brundage no Mahou no Shiro
 
+![brundage-no-mahou-no-shiro](https://cdn.myanimelist.net/images/manga/2/74671.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

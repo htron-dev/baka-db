@@ -1,5 +1,7 @@
 # Gunjou ni Siren
 
+![gunjou-ni-siren](https://cdn.myanimelist.net/images/manga/1/168246.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 52

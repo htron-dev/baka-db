@@ -1,5 +1,7 @@
 # Kaijuu-iro no Shima
 
+![kaijuu-iro-no-shima](https://cdn.myanimelist.net/images/manga/3/245002.jpg)
+
 -   **type**: manga
 -   **original-name**: かいじゅう色の島
 -   **start-date**: 2018-09-25

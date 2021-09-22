@@ -1,5 +1,7 @@
 # Angel♥Time
 
+![angel♥-time](https://cdn.myanimelist.net/images/manga/3/172802.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4
@@ -10,7 +12,6 @@
 ## Tags
 
 -   fantasy
-
 -   magic
 -   romance
 -   school

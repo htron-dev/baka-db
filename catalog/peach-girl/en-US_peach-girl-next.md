@@ -1,5 +1,7 @@
 # Peach Girl Next
 
+![peach-girl-next](https://cdn.myanimelist.net/images/manga/1/189744.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 52

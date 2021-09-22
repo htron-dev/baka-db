@@ -1,5 +1,7 @@
 # Kochira Katsushikaku Kameari Kouenmae Hashutsujo
 
+![kochira-katsushikaku-kameari-kouenmae-hashutsujo](https://cdn.myanimelist.net/images/anime/5/21196.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 373
 -   **original-name**: こちら葛飾区亀有公園前派出所 (1996)

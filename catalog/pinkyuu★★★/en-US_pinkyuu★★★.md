@@ -1,5 +1,7 @@
 # Pinkyuu★★★
 
+![pinkyuu★★★](https://cdn.myanimelist.net/images/manga/2/243090.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

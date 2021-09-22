@@ -1,5 +1,7 @@
 # Otoko Ippiki Gaki Daishou
 
+![otoko-ippiki-gaki-daishou](https://cdn.myanimelist.net/images/anime/1179/95335.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 156
 -   **original-name**: 男一匹ガキ大将

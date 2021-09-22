@@ -1,5 +1,7 @@
 # Break Blade 5: Shisen no Hate
 
+![break-blade-5-shisen-no-hate](https://cdn.myanimelist.net/images/anime/9/68087.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ブレイク ブレイド 死線ノ涯

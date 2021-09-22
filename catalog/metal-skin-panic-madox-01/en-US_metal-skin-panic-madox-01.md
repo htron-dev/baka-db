@@ -1,5 +1,7 @@
 # Metal Skin Panic MADOX-01
 
+![metal-skin-panic-madox-01](https://cdn.myanimelist.net/images/anime/1463/103109.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: メタルスキンパニック MADOX-01

@@ -1,5 +1,7 @@
 # New My Tear CL Series
 
+![new-my-tear-cl-series](https://cdn.myanimelist.net/images/anime/6/87497.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ＮｅｗマイティアＣＬシリーズ

@@ -1,5 +1,7 @@
 # Ooyankee!!: Yankee Ooyasan to Boku no Apartment-gurashi
 
+![ooyankee-yankee-ooyasan-to-boku-no-apartment-gurashi](https://cdn.myanimelist.net/images/manga/3/237843.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 22

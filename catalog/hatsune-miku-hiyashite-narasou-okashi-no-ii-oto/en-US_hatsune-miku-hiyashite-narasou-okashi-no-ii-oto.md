@@ -1,5 +1,7 @@
 # Hatsune Miku: Hiyashite Narasou Okashi no Ii Oto
 
+![hatsune-miku-hiyashite-narasou-okashi-no-ii-oto](https://cdn.myanimelist.net/images/anime/10/81599.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 初音ミク　冷やして鳴らそうお菓子のいい音

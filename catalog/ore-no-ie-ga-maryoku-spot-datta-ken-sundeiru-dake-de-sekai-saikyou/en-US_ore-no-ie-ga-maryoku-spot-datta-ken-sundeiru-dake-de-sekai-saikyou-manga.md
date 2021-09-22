@@ -1,5 +1,7 @@
 # Ore no Ie ga Maryoku Spot Datta Ken: Sundeiru dake de Sekai Saikyou
 
+![ore-no-ie-ga-maryoku-spot-datta-ken-sundeiru-dake-de-sekai-saikyou](https://cdn.myanimelist.net/images/manga/3/220753.jpg)
+
 -   **type**: manga
 -   **original-name**: 俺の家が魔力スポットだった件 ～住んでいるだけで世界最強～
 -   **start-date**: 2018-05-26

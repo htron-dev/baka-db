@@ -1,5 +1,7 @@
 # En to Yukari no Koimusubi
 
+![en-to-yukari-no-koimusubi](https://cdn.myanimelist.net/images/manga/1/215478.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

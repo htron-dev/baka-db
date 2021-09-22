@@ -1,5 +1,7 @@
 # Saratte Watashi no Knight
 
+![saratte-watashi-no-knight](https://cdn.myanimelist.net/images/manga/3/4110.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

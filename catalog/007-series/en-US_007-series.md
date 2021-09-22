@@ -1,5 +1,7 @@
 # 007 Series
 
+![007-series](https://cdn.myanimelist.net/images/manga/3/190570.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 007 シリーズ

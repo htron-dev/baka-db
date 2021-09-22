@@ -1,5 +1,7 @@
 # Little Butterfly: Special Edition
 
+![little-butterfly-special-edition](https://cdn.myanimelist.net/images/manga/3/18195.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

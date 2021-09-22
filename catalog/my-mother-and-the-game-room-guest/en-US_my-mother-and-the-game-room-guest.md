@@ -1,5 +1,7 @@
 # My Mother and the Game-room Guest
 
+![my-mother-and-the-game-room-guest](https://cdn.myanimelist.net/images/manga/2/30150.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 23

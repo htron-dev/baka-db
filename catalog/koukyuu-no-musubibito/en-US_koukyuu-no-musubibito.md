@@ -1,5 +1,7 @@
 # Koukyuu no Musubibito
 
+![koukyuu-no-musubibito](https://cdn.myanimelist.net/images/manga/2/245031.jpg)
+
 -   **type**: manga
 -   **original-name**: 後宮の結び人
 -   **start-date**: 2021-01-04

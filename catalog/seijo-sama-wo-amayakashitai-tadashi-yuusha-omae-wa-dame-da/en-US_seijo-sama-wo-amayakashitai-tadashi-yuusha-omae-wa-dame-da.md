@@ -1,5 +1,7 @@
 # Seijo-sama wo Amayakashitai! Tadashi Yuusha, Omae wa Dame da
 
+![seijo-sama-wo-amayakashitai-tadashi-yuusha-omae-wa-dame-da](https://cdn.myanimelist.net/images/manga/1/241091.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 18

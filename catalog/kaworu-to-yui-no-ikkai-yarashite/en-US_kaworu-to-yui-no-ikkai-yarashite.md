@@ -1,5 +1,7 @@
 # Kaworu to Yui no Ikkai Yarashite
 
+![kaworu-to-yui-no-ikkai-yarashite](https://cdn.myanimelist.net/images/manga/1/95777.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: カヲルとゆいのいっかいやらして

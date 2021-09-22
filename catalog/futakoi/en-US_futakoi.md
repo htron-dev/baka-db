@@ -1,5 +1,7 @@
 # Futakoi
 
+![futakoi](https://cdn.myanimelist.net/images/anime/1/125.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 双恋

@@ -1,5 +1,7 @@
 # Dennou Kakugi MephistoWaltz
 
+![dennou-kakugi-mephisto-waltz](https://cdn.myanimelist.net/images/manga/2/205808.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

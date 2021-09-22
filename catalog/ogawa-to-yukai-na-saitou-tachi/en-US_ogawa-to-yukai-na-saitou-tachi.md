@@ -1,5 +1,7 @@
 # Ogawa to Yukai na Saitou-tachi
 
+![ogawa-to-yukai-na-saitou-tachi](https://cdn.myanimelist.net/images/manga/1/171055.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 45

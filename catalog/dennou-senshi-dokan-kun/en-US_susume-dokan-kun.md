@@ -1,5 +1,7 @@
 # Susume! Dokan-kun
 
+![susume-dokan-kun](https://cdn.myanimelist.net/images/anime/1576/95811.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 進め!土管くん

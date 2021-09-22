@@ -1,5 +1,7 @@
 # Omae ga Baka wo Iidasu Hi ni wa
 
+![omae-ga-baka-wo-iidasu-hi-ni-wa](https://cdn.myanimelist.net/images/manga/2/212127.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

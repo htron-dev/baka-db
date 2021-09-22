@@ -1,8 +1,10 @@
 # Koukaku Kidoutai 2.0
 
+![koukaku-kidoutai-2-0](https://cdn.myanimelist.net/images/anime/3/75608.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
--   **original-name**: 攻殻機動隊2.0
+-   **original-name**: 攻殻機動隊 2.0
 -   **start-date**: 2008-07-12
 -   **opening-song**: "Making of a Cyborg" Kenji Kawai
 -   **ending-song**: "Reincarnation" by Kenji Kawai
@@ -23,7 +25,7 @@ Mamoru Oshii's first Ghost in the Shell cyberspace film will return to five Japa
 
 In the new edition, the enigmatic Puppet Master character will be played by Yoshiko Sakakibara (Ghost in the Shell 2: Innocence's Harraway, Ghost in the Shell: Stand Alone Complex's Prime Minister Yoko Kayabuki). Iemasa Kayumi (Giant Robo's Chief Chuujou Shizuo, RahXephon's Ernst Von Bähbem) played the role in the original edition.
 
-The film will screen in Tokyo, Osaka, Nagoya, Fukuoka, and Sapporo. Not coincidentally, Oshii's latest film, The Sky Crawlers, will open one month after Ghost in the Shell 2.0 on August 2. 
+The film will screen in Tokyo, Osaka, Nagoya, Fukuoka, and Sapporo. Not coincidentally, Oshii's latest film, The Sky Crawlers, will open one month after Ghost in the Shell 2.0 on August 2.
 
 (Source: ANN)
 

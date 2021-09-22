@@ -1,5 +1,7 @@
 # Megane ~ Hazushitemo Ii desu ka?
 
+![megane-hazushitemo-ii-desu-ka](https://cdn.myanimelist.net/images/manga/2/22731.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

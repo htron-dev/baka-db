@@ -1,5 +1,7 @@
 # Kuitsume Youhei no Gensou Kitan
 
+![kuitsume-youhei-no-gensou-kitan](https://cdn.myanimelist.net/images/manga/2/215373.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 食い詰め傭兵の幻想奇譚
 -   **start-date**: 2017-03-23

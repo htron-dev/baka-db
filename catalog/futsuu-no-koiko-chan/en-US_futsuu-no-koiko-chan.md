@@ -1,5 +1,7 @@
 # Futsuu no Koiko-chan
 
+![futsuu-no-koiko-chan](https://cdn.myanimelist.net/images/manga/2/179262.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 84

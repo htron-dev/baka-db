@@ -1,5 +1,7 @@
 # Idol wa Tsukkomareru no ga Suki!
 
+![idol-wa-tsukkomareru-no-ga-suki](https://cdn.myanimelist.net/images/manga/2/146081.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 45

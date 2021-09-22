@@ -1,5 +1,7 @@
 # Haga-kun wa Kamaretai
 
+![haga-kun-wa-kamaretai](https://cdn.myanimelist.net/images/manga/1/240964.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

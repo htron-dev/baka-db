@@ -1,5 +1,7 @@
 # Abide in the Wind
 
+![abide-in-the-wind](https://cdn.myanimelist.net/images/manga/3/97161.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 바람이 머무는 난
 -   **start-date**: 2011-12-01

@@ -1,5 +1,7 @@
 # Taishou Tsuyaibun: Narikawari - Kazokuke no Himegoto
 
+![taishou-tsuyaibun-narikawari-kazokuke-no-himegoto](https://cdn.myanimelist.net/images/manga/1/181724.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

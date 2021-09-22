@@ -1,5 +1,7 @@
 # Change H
 
+![change-h](https://cdn.myanimelist.net/images/manga/1/139705.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: チェンジ H

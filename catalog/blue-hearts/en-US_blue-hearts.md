@@ -1,5 +1,7 @@
 # Blue Hearts
 
+![blue-hearts](https://cdn.myanimelist.net/images/manga/2/221666.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 64

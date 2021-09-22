@@ -1,5 +1,7 @@
 # Boku no Kareshi no Suki na Hito
 
+![boku-no-kareshi-no-suki-na-hito](https://cdn.myanimelist.net/images/manga/1/226986.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

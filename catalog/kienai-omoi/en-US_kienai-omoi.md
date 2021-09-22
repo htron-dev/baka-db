@@ -1,5 +1,7 @@
 # Kienai, Omoi.
 
+![kienai-omoi](https://cdn.myanimelist.net/images/manga/3/10856.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: キエナイ、オモイ。

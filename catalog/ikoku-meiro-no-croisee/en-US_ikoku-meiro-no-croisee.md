@@ -1,5 +1,7 @@
 # Ikoku Meiro no Croisée
 
+![ikoku-meiro-no-croisee](https://cdn.myanimelist.net/images/manga/1/128771.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

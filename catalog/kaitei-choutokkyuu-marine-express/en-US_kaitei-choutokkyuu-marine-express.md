@@ -1,5 +1,7 @@
 # Kaitei Choutokkyuu: Marine Express
 
+![kaitei-choutokkyuu-marine-express](https://cdn.myanimelist.net/images/anime/6/56819.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 海底超特急　マリン・エクスプレス

@@ -1,5 +1,7 @@
 # Houshiai: Zoutouhin to Iu Na no Aido
 
+![houshiai-zoutouhin-to-iu-na-no-aido](https://cdn.myanimelist.net/images/manga/2/194833.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

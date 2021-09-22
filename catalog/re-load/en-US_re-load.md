@@ -1,5 +1,7 @@
 # Re:Load
 
+![re-load](https://cdn.myanimelist.net/images/manga/3/221998.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 32

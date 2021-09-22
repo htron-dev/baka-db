@@ -1,5 +1,7 @@
 # Ghost Messenger
 
+![ghost-messenger](https://cdn.myanimelist.net/images/anime/7/30034.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 고스트 메신저

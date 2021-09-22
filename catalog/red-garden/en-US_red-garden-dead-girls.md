@@ -1,5 +1,7 @@
 # Red Garden: Dead Girls
 
+![red-garden-dead-girls](https://cdn.myanimelist.net/images/anime/7/75508.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: レッドガーデン デッドガールズ

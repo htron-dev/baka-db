@@ -1,5 +1,7 @@
 # Amayado Bus Teiryuujo
 
+![amayado-bus-teiryuujo](https://cdn.myanimelist.net/images/manga/2/169959.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 雨宿バス停留所

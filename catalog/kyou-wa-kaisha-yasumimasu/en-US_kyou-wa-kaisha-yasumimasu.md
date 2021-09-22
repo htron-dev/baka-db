@@ -1,5 +1,7 @@
 # Kyou wa Kaisha Yasumimasu.
 
+![kyou-wa-kaisha-yasumimasu](https://cdn.myanimelist.net/images/manga/2/188419.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 51

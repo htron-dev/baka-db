@@ -1,5 +1,7 @@
 # Cold Sleep
 
+![cold-sleep](https://cdn.myanimelist.net/images/manga/3/177773.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

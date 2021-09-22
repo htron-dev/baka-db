@@ -1,5 +1,7 @@
 # Takeki Ryuusei
 
+![takeki-ryuusei](https://cdn.myanimelist.net/images/manga/2/13566.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

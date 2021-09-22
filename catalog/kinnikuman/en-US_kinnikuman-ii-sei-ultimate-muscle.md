@@ -1,5 +1,7 @@
 # Kinnikuman II Sei: Ultimate Muscle
 
+![kinnikuman-ii-sei-ultimate-muscle](https://cdn.myanimelist.net/images/anime/9/22234.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: キン肉マン II 世 ULTIMATE MUSCLE

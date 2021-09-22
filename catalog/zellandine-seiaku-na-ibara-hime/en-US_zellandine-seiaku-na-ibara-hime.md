@@ -1,5 +1,7 @@
 # Zellandine - Seiaku na Ibara Hime
 
+![zellandine-seiaku-na-ibara-hime](https://cdn.myanimelist.net/images/manga/2/99007.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

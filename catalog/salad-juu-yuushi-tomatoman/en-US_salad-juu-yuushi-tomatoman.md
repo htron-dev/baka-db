@@ -1,5 +1,7 @@
 # Salad Juu Yuushi Tomatoman
 
+![salad-juu-yuushi-tomatoman](https://cdn.myanimelist.net/images/anime/4/32445.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: サラダ十勇士トマトマン

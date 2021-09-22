@@ -1,5 +1,7 @@
 # Okusan no Mousouteki Nichijou
 
+![okusan-no-mousouteki-nichijou](https://cdn.myanimelist.net/images/manga/1/84653.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # Tokyo Kareshi
 
+![tokyo-kareshi](https://cdn.myanimelist.net/images/manga/2/150051.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

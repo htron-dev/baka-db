@@ -1,5 +1,7 @@
 # Bara no Oniwa no Kemono-tachi
 
+![bara-no-oniwa-no-kemono-tachi](https://cdn.myanimelist.net/images/manga/2/228902.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

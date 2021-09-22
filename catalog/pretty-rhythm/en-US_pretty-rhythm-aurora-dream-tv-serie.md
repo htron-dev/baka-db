@@ -1,5 +1,7 @@
 # Pretty Rhythm: Aurora Dream
 
+![pretty-rhythm-aurora-dream](https://cdn.myanimelist.net/images/anime/9/36423.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: プリティーリズム オーロラドリーム

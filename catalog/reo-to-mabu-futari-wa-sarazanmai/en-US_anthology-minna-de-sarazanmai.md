@@ -1,5 +1,7 @@
 # Anthology Minna de Sarazanmai
 
+![anthology-minna-de-sarazanmai](https://cdn.myanimelist.net/images/manga/3/245512.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

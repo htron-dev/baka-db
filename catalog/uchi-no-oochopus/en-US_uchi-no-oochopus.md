@@ -1,5 +1,7 @@
 # Uchi no Oochopus
 
+![uchi-no-oochopus](https://cdn.myanimelist.net/images/anime/11/89674.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 38
 -   **original-name**: うちのウッチョパス

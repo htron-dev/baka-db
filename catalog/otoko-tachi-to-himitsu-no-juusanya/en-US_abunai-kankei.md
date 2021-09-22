@@ -1,5 +1,7 @@
 # Abunai Kankei
 
+![abunai-kankei](https://cdn.myanimelist.net/images/manga/3/102045.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: アブない関係

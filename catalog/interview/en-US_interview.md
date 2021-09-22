@@ -1,5 +1,7 @@
 # Interview
 
+![interview](https://cdn.myanimelist.net/images/manga/1/204889.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 8

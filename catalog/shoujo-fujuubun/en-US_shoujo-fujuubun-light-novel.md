@@ -1,5 +1,7 @@
 # Shoujo Fujuubun
 
+![shoujo-fujuubun](https://cdn.myanimelist.net/images/manga/3/233654.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 少女不十分

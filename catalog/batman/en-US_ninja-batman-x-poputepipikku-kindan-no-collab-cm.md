@@ -1,5 +1,7 @@
 # Ninja Batman x Poputepipikku Kindan no Collab CM
 
+![ninja-batman-x-poputepipikku-kindan-no-collab-cm](https://cdn.myanimelist.net/images/anime/1948/91454.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 『ニンジャバットマン』×『ポプテピピック』禁断のコラボ CM

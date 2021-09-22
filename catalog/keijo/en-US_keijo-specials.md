@@ -1,5 +1,7 @@
 # Keijo!!!!!!!! Specials
 
+![keijo-specials](https://cdn.myanimelist.net/images/anime/1146/115571.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 競女!!!!!!!!

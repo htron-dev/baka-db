@@ -1,5 +1,7 @@
 # 4-koma Chibi Maruko-chan
 
+![4-koma-chibi-maruko-chan](https://cdn.myanimelist.net/images/manga/1/234241.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **original-name**: 4 コマちびまる子ちゃん

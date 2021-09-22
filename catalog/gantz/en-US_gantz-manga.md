@@ -1,5 +1,7 @@
 # Gantz
 
+![gantz](https://cdn.myanimelist.net/images/manga/4/157936.jpg)
+
 -   **type**: manga
 -   **volumes**: 37
 -   **chapters**: 383

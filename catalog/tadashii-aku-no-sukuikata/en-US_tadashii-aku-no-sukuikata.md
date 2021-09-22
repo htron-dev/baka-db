@@ -1,5 +1,7 @@
 # Tadashii Aku no Sukuikata
 
+![tadashii-aku-no-sukuikata](https://cdn.myanimelist.net/images/manga/2/162591.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

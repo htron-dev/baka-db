@@ -1,5 +1,7 @@
 # Shoujo Kesshou Cocological
 
+![shoujo-kesshou-cocological](https://cdn.myanimelist.net/images/manga/3/128331.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 21

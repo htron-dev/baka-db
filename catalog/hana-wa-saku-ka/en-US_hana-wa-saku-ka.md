@@ -1,5 +1,7 @@
 # Hana wa Saku ka
 
+![hana-wa-saku-ka](https://cdn.myanimelist.net/images/manga/2/30475.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 35

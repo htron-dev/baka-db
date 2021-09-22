@@ -1,5 +1,7 @@
 # Doraneko Fooling
 
+![doraneko-fooling](https://cdn.myanimelist.net/images/manga/1/40031.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ドラねこ ★ フーリング

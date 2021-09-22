@@ -1,5 +1,7 @@
 # Eromanga-sensei OVA
 
+![eromanga-sensei-ova](https://cdn.myanimelist.net/images/anime/1582/96343.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: エロマンガ先生 OVA

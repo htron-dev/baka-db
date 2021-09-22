@@ -1,5 +1,7 @@
 # Fight Class 3
 
+![fight-class-3](https://cdn.myanimelist.net/images/manga/1/216673.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 격기 3 반
 -   **start-date**: 2016-08-15

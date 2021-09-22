@@ -1,5 +1,7 @@
 # Teens Company
 
+![teens-company](https://cdn.myanimelist.net/images/manga/2/108053.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

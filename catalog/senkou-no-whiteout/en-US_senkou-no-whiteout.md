@@ -1,5 +1,7 @@
 # Senkou no Whiteout
 
+![senkou-no-whiteout](https://cdn.myanimelist.net/images/manga/1/108333.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 閃光のホワイトアウト
 -   **start-date**: 2013-12-03

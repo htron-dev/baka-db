@@ -1,5 +1,7 @@
 # Playboy Okotowari!
 
+![playboy-okotowari](https://cdn.myanimelist.net/images/manga/1/193011.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

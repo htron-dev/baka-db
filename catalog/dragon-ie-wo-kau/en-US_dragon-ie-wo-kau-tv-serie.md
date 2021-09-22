@@ -1,5 +1,7 @@
 # Dragon, Ie wo Kau.
 
+![dragon-ie-wo-kau](https://cdn.myanimelist.net/images/anime/1876/114021.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ドラゴン、家を買う。

@@ -1,5 +1,7 @@
 # Okinodoku desu ga, Bouken no Sho wa Maou no Mono ni Narimashita.
 
+![okinodoku-desu-ga-bouken-no-sho-wa-maou-no-mono-ni-narimashita](https://cdn.myanimelist.net/images/manga/2/162256.jpg)
+
 -   **type**: manga
 -   **original-name**: お気の毒ですが、冒険の書は魔王のモノになりました。
 -   **start-date**: 2012-08-09

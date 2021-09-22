@@ -1,5 +1,7 @@
 # Arcana Famiglia: Amore Mangiare Cantare!
 
+![arcana-famiglia-amore-mangiare-cantare](https://cdn.myanimelist.net/images/manga/1/81392.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: アルカナ・ファミリア Amore Mangiare Cantare!

@@ -1,5 +1,7 @@
 # Netoge Haiakuma no Negai Kanaemasu.
 
+![netoge-haiakuma-no-negai-kanaemasu](https://cdn.myanimelist.net/images/manga/3/161868.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

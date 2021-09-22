@@ -1,5 +1,7 @@
 # Kimama ni UpDown
 
+![kimama-ni-up-down](https://cdn.myanimelist.net/images/manga/5/91761.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Private Actress Tokubetsu-hen
 
+![private-actress-tokubetsu-hen](https://cdn.myanimelist.net/images/manga/2/139353.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

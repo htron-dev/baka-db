@@ -1,5 +1,7 @@
 # BanG Dream! Yonkoma: Bandori!
 
+![ban-g-dream-yonkoma-bandori](https://cdn.myanimelist.net/images/manga/3/232397.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

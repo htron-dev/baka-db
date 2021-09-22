@@ -1,5 +1,7 @@
 # Fujimi 2-choume Koukyougakudan
 
+![fujimi-2-choume-koukyougakudan](https://cdn.myanimelist.net/images/anime/1/2411.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 富士見二丁目交響楽団

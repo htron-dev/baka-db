@@ -1,5 +1,7 @@
 # Oboreru Toiki ni Amai Kiss
 
+![oboreru-toiki-ni-amai-kiss](https://cdn.myanimelist.net/images/manga/2/150432.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 溺れる吐息に甘いキス

@@ -1,5 +1,7 @@
 # Urara
 
+![urara](https://cdn.myanimelist.net/images/manga/3/152909.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

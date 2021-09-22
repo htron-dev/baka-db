@@ -1,5 +1,7 @@
 # Gannibal
 
+![gannibal](https://cdn.myanimelist.net/images/manga/1/216400.jpg)
+
 -   **type**: manga
 -   **original-name**: ガンニバル
 -   **start-date**: 2018-10-05

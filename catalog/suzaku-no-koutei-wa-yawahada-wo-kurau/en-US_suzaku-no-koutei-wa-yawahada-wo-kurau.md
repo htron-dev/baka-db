@@ -1,5 +1,7 @@
 # Suzaku no Koutei wa Yawahada wo Kurau
 
+![suzaku-no-koutei-wa-yawahada-wo-kurau](https://cdn.myanimelist.net/images/manga/2/192744.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

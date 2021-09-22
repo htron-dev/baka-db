@@ -1,5 +1,7 @@
 # Mahou Sensei Negima!
 
+![mahou-sensei-negima](https://cdn.myanimelist.net/images/manga/1/51855.jpg)
+
 -   **type**: manga
 -   **volumes**: 38
 -   **chapters**: 355

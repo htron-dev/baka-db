@@ -1,5 +1,7 @@
 # Itadakimasu
 
+![itadakimasu](https://cdn.myanimelist.net/images/manga/5/15572.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

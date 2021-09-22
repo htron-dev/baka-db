@@ -1,5 +1,7 @@
 # Daidai wa, Hantoumei ni Nidone suru
 
+![daidai-wa-hantoumei-ni-nidone-suru](https://cdn.myanimelist.net/images/manga/2/167004.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

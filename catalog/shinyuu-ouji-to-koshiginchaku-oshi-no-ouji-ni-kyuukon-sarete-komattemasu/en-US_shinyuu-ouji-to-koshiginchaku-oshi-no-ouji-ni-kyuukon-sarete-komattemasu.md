@@ -1,5 +1,7 @@
 # Shinyuu Ouji to Koshiginchaku: Oshi no Ouji ni Kyuukon Sarete Komattemasu
 
+![shinyuu-ouji-to-koshiginchaku-oshi-no-ouji-ni-kyuukon-sarete-komattemasu](https://cdn.myanimelist.net/images/manga/3/239158.jpg)
+
 -   **type**: manga
 -   **original-name**: 親友王子と腰巾着～推しの王子に求婚されて困ってます～
 -   **start-date**: 2020-06-25

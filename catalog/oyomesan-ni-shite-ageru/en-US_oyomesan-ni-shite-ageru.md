@@ -1,5 +1,7 @@
 # Oyomesan ni Shite Ageru
 
+![oyomesan-ni-shite-ageru](https://cdn.myanimelist.net/images/manga/3/194588.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: お嫁さんにしてあげる

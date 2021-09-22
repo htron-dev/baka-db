@@ -1,5 +1,7 @@
 # Bakuten Shoot Beyblade the Movie: Gekitou!! Takao vs. Daichi
 
+![bakuten-shoot-beyblade-the-movie-gekitou-takao-vs-daichi](https://cdn.myanimelist.net/images/anime/1/1670.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 爆転シュート ベイブレード THE MOVIE 激闘！！タカオＶＳ大地

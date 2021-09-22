@@ -1,5 +1,7 @@
 # Kuro to Kuro
 
+![kuro-to-kuro](https://cdn.myanimelist.net/images/manga/2/209553.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 18

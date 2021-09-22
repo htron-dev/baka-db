@@ -1,5 +1,7 @@
 # Dame Makishi no Held Straße
 
+![dame-makishi-no-held-strasse](https://cdn.myanimelist.net/images/manga/3/199733.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 11

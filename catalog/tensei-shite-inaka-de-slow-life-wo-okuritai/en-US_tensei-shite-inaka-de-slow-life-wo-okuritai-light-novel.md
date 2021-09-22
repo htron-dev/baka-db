@@ -1,5 +1,7 @@
 # Tensei shite Inaka de Slow Life wo Okuritai
 
+![tensei-shite-inaka-de-slow-life-wo-okuritai](https://cdn.myanimelist.net/images/manga/1/185266.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 転生して田舎でスローライフをおくりたい
 -   **start-date**: 2016-08-06

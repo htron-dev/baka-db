@@ -1,5 +1,7 @@
 # Nihon no Otogibanashi
 
+![nihon-no-otogibanashi](https://cdn.myanimelist.net/images/anime/11/79601.jpg)
+
 -   **type**: ova
 -   **episodes**: 29
 -   **original-name**: 日本のおとぎばなし
@@ -11,7 +13,6 @@
 -   demons
 -   fantasy
 -   historical
-
 -   magic
 -   samurai
 -   supernatural

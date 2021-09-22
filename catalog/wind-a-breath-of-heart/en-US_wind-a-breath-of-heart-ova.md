@@ -1,5 +1,7 @@
 # Wind: A Breath of Heart OVA
 
+![wind-a-breath-of-heart-ova](https://cdn.myanimelist.net/images/anime/1112/111182.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: Wind -a breath of heart- OVA

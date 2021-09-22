@@ -1,5 +1,7 @@
 # Dragon Fist
 
+![dragon-fist](https://cdn.myanimelist.net/images/anime/9/55907.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ドラゴンフィスト

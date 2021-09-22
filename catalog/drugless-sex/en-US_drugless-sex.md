@@ -1,5 +1,7 @@
 # Drugless Sex
 
+![drugless-sex](https://cdn.myanimelist.net/images/manga/1/226775.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

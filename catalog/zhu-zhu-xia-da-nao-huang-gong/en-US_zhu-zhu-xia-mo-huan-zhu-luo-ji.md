@@ -1,5 +1,7 @@
 # Zhu Zhu Xia: Mo Huan Zhu Luo Ji
 
+![zhu-zhu-xia-mo-huan-zhu-luo-ji](https://cdn.myanimelist.net/images/anime/1912/93345.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 20
 -   **original-name**: 猪猪侠 魔幻猪猡纪
@@ -11,7 +13,6 @@
 
 -   sci-fi
 -   super-power
-
 -   martial-arts
 
 ## Sinopse

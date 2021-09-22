@@ -1,5 +1,7 @@
 # Hua Jiang Hu Zhi Bu Liang Ren 2nd Season
 
+![hua-jiang-hu-zhi-bu-liang-ren-2nd-season](https://cdn.myanimelist.net/images/anime/10/81627.jpg)
+
 -   **type**: ona
 -   **episodes**: 40
 -   **original-name**: 画江湖之不良人第二季

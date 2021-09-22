@@ -1,5 +1,7 @@
 # Gate: Jieitai Kanochi nite, Kaku Tatakaeri
 
+![gate-jieitai-kanochi-nite-kaku-tatakaeri](https://cdn.myanimelist.net/images/anime/8/76222.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: GATE（ゲート）自衛隊　彼の地にて、斯く戦えり
@@ -30,4 +32,4 @@ Three months after the attack, Youji has been tasked with leading a special reco
 -   [Official Site](http://www.gate-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10982)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16679)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Gate_(novel_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Gate_%28novel_series%29)

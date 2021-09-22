@@ -1,5 +1,7 @@
 # Bannou Kanteishi Q no Tanpenshuu
 
+![bannou-kanteishi-q-no-tanpenshuu](https://cdn.myanimelist.net/images/manga/3/155598.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 10

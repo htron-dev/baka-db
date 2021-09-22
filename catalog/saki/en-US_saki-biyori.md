@@ -1,5 +1,7 @@
 # Saki-biyori
 
+![saki-biyori](https://cdn.myanimelist.net/images/manga/1/138759.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 106

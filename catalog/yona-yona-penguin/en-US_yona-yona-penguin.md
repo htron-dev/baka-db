@@ -1,5 +1,7 @@
 # Yona Yona Penguin
 
+![yona-yona-penguin](https://cdn.myanimelist.net/images/anime/7/17367.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: よなよなペンギン

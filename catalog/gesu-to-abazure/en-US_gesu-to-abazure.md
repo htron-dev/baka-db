@@ -1,5 +1,7 @@
 # Gesu to Abazure
 
+![gesu-to-abazure](https://cdn.myanimelist.net/images/manga/1/190892.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

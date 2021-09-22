@@ -1,5 +1,7 @@
 # 8
 
+![8](https://cdn.myanimelist.net/images/manga/5/12082.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 43

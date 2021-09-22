@@ -1,5 +1,7 @@
 # Magical Puuta no Hi Asobi wa Abunai yo
 
+![magical-puuta-no-hi-asobi-wa-abunai-yo](https://cdn.myanimelist.net/images/anime/4/68939.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: マジカルプータの 火あそびはあぶないよ
@@ -9,7 +11,6 @@
 ## Tags
 
 -   drama
-
 -   magic
 
 ## Sinopse

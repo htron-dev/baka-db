@@ -1,5 +1,7 @@
 # Sugar Girl, Sugar Doll
 
+![sugar-girl-sugar-doll](https://cdn.myanimelist.net/images/manga/3/164271.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

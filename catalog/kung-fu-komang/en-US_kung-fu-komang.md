@@ -1,5 +1,7 @@
 # Kung Fu Komang
 
+![kung-fu-komang](https://cdn.myanimelist.net/images/manga/3/132601.jpg)
+
 -   **type**: manga
 -   **volumes**: 39
 -   **original-name**: 무술소년 꼬망

@@ -1,5 +1,7 @@
 # Kimi no Kuroi Hane
 
+![kimi-no-kuroi-hane](https://cdn.myanimelist.net/images/manga/1/15333.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 君の黒い羽根

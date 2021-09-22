@@ -1,5 +1,7 @@
 # K: Seven Stories Movie 6 - Circle Vision - Nameless Song
 
+![k-seven-stories-movie-6-circle-vision-nameless-song](https://cdn.myanimelist.net/images/anime/1491/92832.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: K Seven Stories Circle Vision ~Nameless Song~
@@ -25,4 +27,4 @@ Adolf K. Weismann is sharing a peaceful meal with his loved ones, but as the day
 -   [My Anime list](https://myanimelist.net/anime/37307/K__Seven_Stories_Movie_6_-_Circle_Vision_-_Nameless_Song)
 -   [Official Site](http://k-project.jpn.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12107)
--   [Wikipedia](<https://en.wikipedia.org/wiki/K_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/K_%28anime%29)

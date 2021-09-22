@@ -1,5 +1,7 @@
 # Dokyuu Hentai HxEros OVA
 
+![dokyuu-hentai-hx-eros-ova](https://cdn.myanimelist.net/images/anime/1592/109081.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ド級編隊エグゼロス

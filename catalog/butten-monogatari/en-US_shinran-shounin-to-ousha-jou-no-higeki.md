@@ -1,5 +1,7 @@
 # Shinran Shounin to Ousha-jou no Higeki
 
+![shinran-shounin-to-ousha-jou-no-higeki](https://cdn.myanimelist.net/images/anime/5/84284.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 親鸞聖人と王舎城の悲劇

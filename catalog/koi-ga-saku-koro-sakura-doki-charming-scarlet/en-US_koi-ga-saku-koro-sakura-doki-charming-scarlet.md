@@ -1,5 +1,7 @@
 # Koi ga Saku Koro Sakura Doki: Charming Scarlet
 
+![koi-ga-saku-koro-sakura-doki-charming-scarlet](https://cdn.myanimelist.net/images/manga/1/158553.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

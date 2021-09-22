@@ -1,5 +1,7 @@
 # Meng Ta: Xue Mi Cheng
 
+![meng-ta-xue-mi-cheng](https://cdn.myanimelist.net/images/anime/1920/96262.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 梦塔 - 雪谜城

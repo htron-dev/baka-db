@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Tsukiko to Shiratama - Tokimeki Dancing
 
+![sore-ike-anpanman-tsukiko-to-shiratama-tokimeki-dancing](https://cdn.myanimelist.net/images/anime/4/57715.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ!アンパンマン つきことしらたま〜ときめきダンシング〜

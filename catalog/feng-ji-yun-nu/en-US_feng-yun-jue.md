@@ -1,5 +1,7 @@
 # Feng Yun Jue
 
+![feng-yun-jue](https://cdn.myanimelist.net/images/anime/4/11472.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 風雲決

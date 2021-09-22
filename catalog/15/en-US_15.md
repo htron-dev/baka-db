@@ -1,5 +1,7 @@
 # 15½
 
+![15](https://cdn.myanimelist.net/images/manga/2/231114.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

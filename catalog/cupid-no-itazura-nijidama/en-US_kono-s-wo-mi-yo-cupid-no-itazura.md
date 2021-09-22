@@ -1,5 +1,7 @@
 # Kono S wo, Mi yo! - Cupid no Itazura
 
+![kono-s-wo-mi-yo-cupid-no-itazura](https://cdn.myanimelist.net/images/manga/1/51567.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 155

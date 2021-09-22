@@ -1,5 +1,7 @@
 # Aitsu no Daihonmei
 
+![aitsu-no-daihonmei](https://cdn.myanimelist.net/images/manga/1/160711.jpg)
+
 -   **type**: manga
 -   **original-name**: アイツの大本命
 -   **start-date**: 2006-09-15

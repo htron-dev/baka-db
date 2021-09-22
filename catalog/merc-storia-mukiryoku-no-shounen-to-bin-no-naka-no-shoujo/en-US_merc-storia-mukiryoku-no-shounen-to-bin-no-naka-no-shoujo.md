@@ -1,5 +1,7 @@
 # Merc Storia: Mukiryoku no Shounen to Bin no Naka no Shoujo
 
+![merc-storia-mukiryoku-no-shounen-to-bin-no-naka-no-shoujo](https://cdn.myanimelist.net/images/anime/1394/95704.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: メルクストーリア -無気力少年と瓶の中の少女-

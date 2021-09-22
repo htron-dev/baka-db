@@ -1,5 +1,7 @@
 # Hakumei to Mikochi
 
+![hakumei-to-mikochi](https://cdn.myanimelist.net/images/manga/3/140571.jpg)
+
 -   **type**: manga
 -   **original-name**: ハクメイとミコチ
 -   **start-date**: 2011-04-30

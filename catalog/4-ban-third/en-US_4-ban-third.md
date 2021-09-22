@@ -1,5 +1,7 @@
 # 4 ban third
 
+![4-ban-third](https://cdn.myanimelist.net/images/manga/2/7161.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

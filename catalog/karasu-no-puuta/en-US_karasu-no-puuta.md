@@ -1,5 +1,7 @@
 # Karasu no Puuta
 
+![karasu-no-puuta](https://cdn.myanimelist.net/images/anime/2/70849.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 2
 -   **original-name**: カラスのプータ

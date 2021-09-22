@@ -1,5 +1,7 @@
 # Yami Kariudo Δ
 
+![yami-kariudo-δ](https://cdn.myanimelist.net/images/manga/3/215341.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 42

@@ -1,5 +1,7 @@
 # Ore to Aitsu no Jikangai xx
 
+![ore-to-aitsu-no-jikangai-xx](https://cdn.myanimelist.net/images/manga/3/225129.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

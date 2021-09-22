@@ -1,5 +1,7 @@
 # Nise no Chigiri
 
+![nise-no-chigiri](https://cdn.myanimelist.net/images/manga/1/170928.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

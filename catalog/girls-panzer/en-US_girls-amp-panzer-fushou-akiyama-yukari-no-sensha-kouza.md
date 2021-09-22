@@ -1,5 +1,7 @@
 # Girls &amp; Panzer: Fushou Akiyama Yukari no Sensha Kouza
 
+![girls-amp-panzer-fushou-akiyama-yukari-no-sensha-kouza](https://cdn.myanimelist.net/images/anime/2/49297.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: ガールズ＆パンツァー 不肖・秋山優花里の戦車講座

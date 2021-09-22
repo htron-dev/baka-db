@@ -1,5 +1,7 @@
 # Jinxiu Shenzhou Zhi Qi You Ji
 
+![jinxiu-shenzhou-zhi-qi-you-ji](https://cdn.myanimelist.net/images/anime/13/79950.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 锦绣神州之奇游迹
 -   **rating**: None

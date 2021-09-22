@@ -1,5 +1,7 @@
 # Transparent Cohabitation
 
+![transparent-cohabitation](https://cdn.myanimelist.net/images/manga/1/206317.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 47

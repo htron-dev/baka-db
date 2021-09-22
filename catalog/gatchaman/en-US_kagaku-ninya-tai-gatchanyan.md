@@ -1,5 +1,7 @@
 # Kagaku Ninya-tai Gatchanyan
 
+![kagaku-ninya-tai-gatchanyan](https://cdn.myanimelist.net/images/anime/1017/96405.jpg)
+
 -   **type**: ona
 -   **episodes**: 20
 -   **original-name**: 科学忍猫隊ガッチャニャン

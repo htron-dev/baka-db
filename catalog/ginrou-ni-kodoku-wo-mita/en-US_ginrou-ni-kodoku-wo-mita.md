@@ -1,5 +1,7 @@
 # Ginrou ni Kodoku wo Mita
 
+![ginrou-ni-kodoku-wo-mita](https://cdn.myanimelist.net/images/manga/3/131957.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 銀狼に孤独をみた

@@ -1,5 +1,7 @@
 # Ore, No-ryokusha ni Tsuki!
 
+![ore-no-ryokusha-ni-tsuki](https://cdn.myanimelist.net/images/manga/2/198105.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

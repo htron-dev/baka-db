@@ -1,5 +1,7 @@
 # Hakata Mentai! Pirikarako-chan
 
+![hakata-mentai-pirikarako-chan](https://cdn.myanimelist.net/images/anime/1562/113861.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 博多明太！ぴりからこちゃん

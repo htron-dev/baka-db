@@ -1,5 +1,7 @@
 # Jewelpet Movie: Sweets Dance Princess
 
+![jewelpet-movie-sweets-dance-princess](https://cdn.myanimelist.net/images/anime/1234/96592.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画ジュエルペット スウィーツダンスプリンセス

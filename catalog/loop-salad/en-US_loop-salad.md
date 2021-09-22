@@ -1,5 +1,7 @@
 # Loop Salad
 
+![loop-salad](https://cdn.myanimelist.net/images/manga/1/16784.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

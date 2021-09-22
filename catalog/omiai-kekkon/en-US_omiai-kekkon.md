@@ -1,5 +1,7 @@
 # Omiai Kekkon
 
+![omiai-kekkon](https://cdn.myanimelist.net/images/manga/3/115399.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: お見合い結婚

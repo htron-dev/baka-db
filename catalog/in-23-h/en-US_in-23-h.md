@@ -1,5 +1,7 @@
 # IN23H
 
+![in-23-h](https://cdn.myanimelist.net/images/manga/2/199833.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

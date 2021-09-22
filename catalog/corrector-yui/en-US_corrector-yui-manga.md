@@ -1,5 +1,7 @@
 # Corrector Yui
 
+![corrector-yui](https://cdn.myanimelist.net/images/manga/3/126119.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Tategoto-hime: Kikoushi ga Kanaderu Mitsu no Senritsu
 
+![tategoto-hime-kikoushi-ga-kanaderu-mitsu-no-senritsu](https://cdn.myanimelist.net/images/manga/1/194215.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Yahari Ore no Seishun Love Comedy wa Machigatteiru. @comic
 
+![yahari-ore-no-seishun-love-comedy-wa-machigatteiru-comic](https://cdn.myanimelist.net/images/manga/3/138503.jpg)
+
 -   **type**: manga
 -   **original-name**: やはり俺の青春ラブコメはまちがっている。@comic
 -   **start-date**: 2012-12-19

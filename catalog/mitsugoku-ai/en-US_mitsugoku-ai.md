@@ -1,5 +1,7 @@
 # Mitsugoku Ai
 
+![mitsugoku-ai](https://cdn.myanimelist.net/images/manga/2/238630.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

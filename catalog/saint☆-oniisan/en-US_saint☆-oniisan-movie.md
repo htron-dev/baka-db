@@ -1,5 +1,7 @@
 # Saint☆Oniisan (Movie)
 
+![saint☆-oniisan-movie](https://cdn.myanimelist.net/images/anime/7/48723.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 聖 ☆ おにいさん

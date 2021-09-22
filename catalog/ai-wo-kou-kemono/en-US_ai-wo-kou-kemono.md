@@ -1,5 +1,7 @@
 # Ai wo Kou Kemono
 
+![ai-wo-kou-kemono](https://cdn.myanimelist.net/images/manga/3/85401.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

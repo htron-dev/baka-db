@@ -1,5 +1,7 @@
 # Chibi Maruko-chan (1995)
 
+![chibi-maruko-chan-1995](https://cdn.myanimelist.net/images/anime/1108/100604.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ちびまる子ちゃん
 -   **start-date**: 1995-01-08
@@ -11,7 +13,6 @@
 
 -   slice-of-life
 -   comedy
-
 -   school
 
 ## Sinopse

@@ -1,5 +1,7 @@
 # Gourmet Gakuen Toriko
 
+![gourmet-gakuen-toriko](https://cdn.myanimelist.net/images/manga/3/166546.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 60

@@ -1,5 +1,7 @@
 # Steel Rain
 
+![steel-rain](https://cdn.myanimelist.net/images/manga/2/207019.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 32

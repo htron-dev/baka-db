@@ -1,5 +1,7 @@
 # Stalker vs. Alien
 
+![stalker-vs-alien](https://cdn.myanimelist.net/images/manga/3/231320.jpg)
+
 -   **type**: manga
 -   **chapters**: 10
 -   **original-name**: ストーカー vs.エイリアン

@@ -1,5 +1,7 @@
 # Kumo desu ga, Nani ka?: Kumoko Sisters no Nichijou
 
+![kumo-desu-ga-nani-ka-kumoko-sisters-no-nichijou](https://cdn.myanimelist.net/images/manga/1/227730.jpg)
+
 -   **type**: manga
 -   **original-name**: 蜘蛛ですが、なにか? 蜘蛛子四姉妹〈シスターズ〉の日常
 -   **start-date**: 2019-07-18

@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Chuugoku Akusai Zankokuden
 
+![manga-grimm-douwa-chuugoku-akusai-zankokuden](https://cdn.myanimelist.net/images/manga/2/140627.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

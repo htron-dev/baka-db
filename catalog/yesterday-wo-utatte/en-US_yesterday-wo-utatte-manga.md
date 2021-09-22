@@ -1,5 +1,7 @@
 # Yesterday wo Utatte
 
+![yesterday-wo-utatte](https://cdn.myanimelist.net/images/manga/2/154193.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 113

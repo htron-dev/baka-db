@@ -1,5 +1,7 @@
 # Maki to Kanta to Jiijii to.
 
+![maki-to-kanta-to-jiijii-to](https://cdn.myanimelist.net/images/anime/6/82697.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 薪とカンタとじいじいと。

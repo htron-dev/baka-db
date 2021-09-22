@@ -1,5 +1,7 @@
 # Sidonia no Kishi
 
+![sidonia-no-kishi](https://cdn.myanimelist.net/images/manga/1/141085.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 78

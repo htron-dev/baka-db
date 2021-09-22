@@ -1,5 +1,7 @@
 # Masou Kekkai no Magictica
 
+![masou-kekkai-no-magictica](https://cdn.myanimelist.net/images/manga/1/130973.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 魔装結界の召艦魔女〈マギウティカ〉

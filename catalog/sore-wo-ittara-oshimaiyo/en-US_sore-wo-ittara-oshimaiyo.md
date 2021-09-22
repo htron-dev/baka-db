@@ -1,5 +1,7 @@
 # Sore wo Ittara Oshimaiyo
 
+![sore-wo-ittara-oshimaiyo](https://cdn.myanimelist.net/images/manga/3/30562.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

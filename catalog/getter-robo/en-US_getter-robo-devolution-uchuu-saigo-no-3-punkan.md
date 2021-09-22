@@ -1,5 +1,7 @@
 # Getter Robo Devolution: Uchuu Saigo no 3-punkan
 
+![getter-robo-devolution-uchuu-saigo-no-3-punkan](https://cdn.myanimelist.net/images/manga/4/179114.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 38

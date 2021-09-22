@@ -1,5 +1,7 @@
 # Kotokoto.: Ko to Kotou
 
+![kotokoto-ko-to-kotou](https://cdn.myanimelist.net/images/manga/2/164494.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

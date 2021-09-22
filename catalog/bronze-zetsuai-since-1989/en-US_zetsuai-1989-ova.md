@@ -1,5 +1,7 @@
 # Zetsuai 1989
 
+![zetsuai-1989](https://cdn.myanimelist.net/images/anime/12/73226.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 絶愛-1989-

@@ -1,5 +1,7 @@
 # Kimi to Boku. 2
 
+![kimi-to-boku-2](https://cdn.myanimelist.net/images/anime/10/42107.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 君と僕。2

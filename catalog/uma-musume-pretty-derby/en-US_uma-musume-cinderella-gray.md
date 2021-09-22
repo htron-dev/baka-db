@@ -1,5 +1,7 @@
 # Uma Musume Cinderella Gray
 
+![uma-musume-cinderella-gray](https://cdn.myanimelist.net/images/manga/3/240780.jpg)
+
 -   **type**: manga
 -   **original-name**: ウマ娘 シンデレラグレイ
 -   **start-date**: 2020-06-11

@@ -1,5 +1,7 @@
 # From Green Kitchen
 
+![from-green-kitchen](https://cdn.myanimelist.net/images/manga/1/215911.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

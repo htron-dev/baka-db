@@ -1,5 +1,7 @@
 # I LOVE YOU Nomi!!
 
+![i-love-you-nomi](https://cdn.myanimelist.net/images/manga/3/20816.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

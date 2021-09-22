@@ -1,5 +1,7 @@
 # Arabian Night: Sindbad no Bouken
 
+![arabian-night-sindbad-no-bouken](https://cdn.myanimelist.net/images/anime/1176/100506.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アラビアンナイト　シンドバッドの冒険

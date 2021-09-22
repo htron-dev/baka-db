@@ -1,5 +1,7 @@
 # Lalala Demacia Second Season
 
+![lalala-demacia-second-season](https://cdn.myanimelist.net/images/anime/1837/114411.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 啦啦啦德玛西亚 第二季

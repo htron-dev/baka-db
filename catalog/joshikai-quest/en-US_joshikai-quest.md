@@ -1,5 +1,7 @@
 # Joshikai Quest
 
+![joshikai-quest](https://cdn.myanimelist.net/images/manga/1/182278.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

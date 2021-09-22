@@ -1,5 +1,7 @@
 # Kokoro Made Daite
 
+![kokoro-made-daite](https://cdn.myanimelist.net/images/manga/1/13531.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

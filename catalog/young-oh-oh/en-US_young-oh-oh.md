@@ -1,5 +1,7 @@
 # Young Oh! Oh!
 
+![young-oh-oh](https://cdn.myanimelist.net/images/manga/1/28926.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 

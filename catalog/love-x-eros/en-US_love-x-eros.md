@@ -1,5 +1,7 @@
 # Love x Eros
 
+![love-x-eros](https://cdn.myanimelist.net/images/manga/1/20405.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 33

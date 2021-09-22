@@ -1,5 +1,7 @@
 # Yukionna to Kani wo Kuu
 
+![yukionna-to-kani-wo-kuu](https://cdn.myanimelist.net/images/manga/1/219597.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 69

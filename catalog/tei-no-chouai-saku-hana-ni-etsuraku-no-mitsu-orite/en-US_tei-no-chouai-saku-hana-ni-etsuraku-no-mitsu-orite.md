@@ -1,5 +1,7 @@
 # Tei no Chouai: Saku Hana ni Etsuraku no Mitsu Orite
 
+![tei-no-chouai-saku-hana-ni-etsuraku-no-mitsu-orite](https://cdn.myanimelist.net/images/manga/3/184723.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

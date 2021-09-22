@@ -1,5 +1,7 @@
 # Kare no Yubisaki wo Hitorijime: Ijiwaru Ouji no Amai Sasoi ni Hikiyoserarete
 
+![kare-no-yubisaki-wo-hitorijime-ijiwaru-ouji-no-amai-sasoi-ni-hikiyoserarete](https://cdn.myanimelist.net/images/manga/1/196019.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 彼の指先をひとりじめ～いじわる王子の甘い誘いに引き寄せられて～

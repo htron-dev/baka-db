@@ -1,5 +1,7 @@
 # Asura's Wrath - Kai
 
+![asuras-wrath-kai](https://cdn.myanimelist.net/images/manga/3/83268.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: アスラズラース～廻ＫＡＩ～

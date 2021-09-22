@@ -1,5 +1,7 @@
 # Houjou Rurika wa Tomaranai!
 
+![houjou-rurika-wa-tomaranai](https://cdn.myanimelist.net/images/manga/2/124397.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 宝城瑠璃華は止まらない！

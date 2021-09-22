@@ -1,5 +1,7 @@
 # Fushigi no Kuni no Miyuki-chan
 
+![fushigi-no-kuni-no-miyuki-chan](https://cdn.myanimelist.net/images/manga/2/161931.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

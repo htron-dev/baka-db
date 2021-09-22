@@ -1,5 +1,7 @@
 # Kaiouki
 
+![kaiouki](https://cdn.myanimelist.net/images/manga/2/76255.jpg)
+
 -   **type**: manga
 -   **volumes**: 45
 -   **original-name**: 海皇紀

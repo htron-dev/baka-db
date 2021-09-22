@@ -1,5 +1,7 @@
 # Akuyaku Reijou desu ga, Heroine ni Kouryaku saretemasu wa!?: Anthology Comic
 
+![akuyaku-reijou-desu-ga-heroine-ni-kouryaku-saretemasu-wa-anthology-comic](https://cdn.myanimelist.net/images/manga/3/242758.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

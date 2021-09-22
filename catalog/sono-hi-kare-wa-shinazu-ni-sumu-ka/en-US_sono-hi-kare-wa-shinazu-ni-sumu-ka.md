@@ -1,5 +1,7 @@
 # Sono Hi Kare wa Shinazu ni Sumu ka?
 
+![sono-hi-kare-wa-shinazu-ni-sumu-ka](https://cdn.myanimelist.net/images/manga/3/172042.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

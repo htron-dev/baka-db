@@ -1,5 +1,7 @@
 # Toriko 3D: Kaimaku Gourmet Adventure!!
 
+![toriko-3-d-kaimaku-gourmet-adventure](https://cdn.myanimelist.net/images/anime/6/28914.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: トリコ３Ｄ 開幕グルメアドベンチャー！！

@@ -1,5 +1,7 @@
 # Pikamon
 
+![pikamon](https://cdn.myanimelist.net/images/manga/1/184945.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 32

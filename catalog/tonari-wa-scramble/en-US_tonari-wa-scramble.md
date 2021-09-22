@@ -1,5 +1,7 @@
 # Tonari wa Scramble
 
+![tonari-wa-scramble](https://cdn.myanimelist.net/images/manga/3/44753.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 30

@@ -1,5 +1,7 @@
 # Kamisama no Iutoori 2
 
+![kamisama-no-iutoori-2](https://cdn.myanimelist.net/images/manga/1/187899.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **chapters**: 186

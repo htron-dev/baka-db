@@ -1,5 +1,7 @@
 # Chihayafuru 2
 
+![chihayafuru-2](https://cdn.myanimelist.net/images/anime/6/47435.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ちはやふる 2

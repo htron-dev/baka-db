@@ -1,5 +1,7 @@
 # Okoshiyasu, Chitose-chan
 
+![okoshiyasu-chitose-chan](https://cdn.myanimelist.net/images/anime/1311/93281.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: おこしやす、ちとせちゃん

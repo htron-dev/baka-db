@@ -1,5 +1,7 @@
 # Code: Leviathan
 
+![code-leviathan](https://cdn.myanimelist.net/images/manga/2/64103.jpg)
+
 -   **type**: manga
 -   **original-name**: コード・リヴァイアサン
 

@@ -1,5 +1,7 @@
 # Seishun Heavy Rotation
 
+![seishun-heavy-rotation](https://cdn.myanimelist.net/images/manga/1/244871.jpg)
+
 -   **type**: manga
 -   **original-name**: 青春ヘビーローテーション
 -   **start-date**: 2020-02-05

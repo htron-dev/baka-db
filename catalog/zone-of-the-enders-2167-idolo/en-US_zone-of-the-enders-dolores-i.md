@@ -1,5 +1,7 @@
 # Zone of the Enders: Dolores, I
 
+![zone-of-the-enders-dolores-i](https://cdn.myanimelist.net/images/anime/1099/91067.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: Z.O.E Dolores,i

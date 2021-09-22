@@ -1,5 +1,7 @@
 # Senki Senki Momotama
 
+![senki-senki-momotama](https://cdn.myanimelist.net/images/manga/2/1503.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 64

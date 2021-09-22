@@ -1,5 +1,7 @@
 # Nandarou
 
+![nandarou](https://cdn.myanimelist.net/images/anime/6/4068.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: なんだろう

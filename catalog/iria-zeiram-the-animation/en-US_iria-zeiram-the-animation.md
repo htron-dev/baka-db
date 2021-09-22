@@ -1,5 +1,7 @@
 # Iria: Zeiram The Animation
 
+![iria-zeiram-the-animation](https://cdn.myanimelist.net/images/anime/1193/112905.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: イ・リ・ア ゼイラム The Animation

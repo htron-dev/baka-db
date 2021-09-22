@@ -1,5 +1,7 @@
 # Summertime Render
 
+![summertime-render](https://cdn.myanimelist.net/images/manga/3/206299.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 139

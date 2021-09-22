@@ -1,5 +1,7 @@
 # 2-A no Mahoutsukai
 
+![2-a-no-mahoutsukai](https://cdn.myanimelist.net/images/manga/3/72609.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 2-A の魔法使い

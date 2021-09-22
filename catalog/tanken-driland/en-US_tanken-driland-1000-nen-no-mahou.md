@@ -1,5 +1,7 @@
 # Tanken Driland: 1000-nen no Mahou
 
+![tanken-driland-1000-nen-no-mahou](https://cdn.myanimelist.net/images/anime/13/48825.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: 探検ドリランド-1000 年の真宝（まほう）-

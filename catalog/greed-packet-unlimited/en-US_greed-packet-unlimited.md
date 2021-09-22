@@ -1,5 +1,7 @@
 # Greed Packet Unlimited
 
+![greed-packet-unlimited](https://cdn.myanimelist.net/images/manga/3/18881.jpg)
+
 -   **type**: manga
 -   **original-name**: グリードパケット ∞
 

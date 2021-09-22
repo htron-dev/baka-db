@@ -1,5 +1,7 @@
 # Higanjima X
 
+![higanjima-x](https://cdn.myanimelist.net/images/anime/12/82352.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 彼岸島 X

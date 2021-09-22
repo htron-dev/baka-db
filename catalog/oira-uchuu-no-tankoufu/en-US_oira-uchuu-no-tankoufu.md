@@ -1,5 +1,7 @@
 # Oira Uchuu no Tankoufu
 
+![oira-uchuu-no-tankoufu](https://cdn.myanimelist.net/images/anime/3/75572.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: おいら宇宙の探鉱夫

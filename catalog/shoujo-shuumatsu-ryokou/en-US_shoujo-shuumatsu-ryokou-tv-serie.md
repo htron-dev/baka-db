@@ -1,5 +1,7 @@
 # Shoujo Shuumatsu Ryokou
 
+![shoujo-shuumatsu-ryokou](https://cdn.myanimelist.net/images/anime/12/88321.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 少女終末旅行

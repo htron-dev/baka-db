@@ -1,5 +1,7 @@
 # Mahouka Koukou no Rettousei: Yotsuba Keishou-hen
 
+![mahouka-koukou-no-rettousei-yotsuba-keishou-hen](https://cdn.myanimelist.net/images/manga/3/246065.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔法科高校の劣等生 四葉継承編
 -   **start-date**: 2019-12-18

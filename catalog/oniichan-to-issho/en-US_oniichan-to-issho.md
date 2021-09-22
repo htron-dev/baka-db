@@ -1,5 +1,7 @@
 # Oniichan to Issho
 
+![oniichan-to-issho](https://cdn.myanimelist.net/images/manga/2/166809.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 67

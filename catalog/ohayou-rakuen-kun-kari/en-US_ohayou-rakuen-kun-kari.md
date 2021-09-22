@@ -1,5 +1,7 @@
 # Ohayou Rakuen-kun (Kari)
 
+![ohayou-rakuen-kun-kari](https://cdn.myanimelist.net/images/manga/1/156443.jpg)
+
 -   **type**: manga
 -   **original-name**: おはよう楽園くん（仮）
 -   **start-date**: 2010-02-26

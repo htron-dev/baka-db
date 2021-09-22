@@ -1,5 +1,7 @@
 # Celia-sensei no Wakuwaku Magical Kyoushitsu
 
+![celia-sensei-no-wakuwaku-magical-kyoushitsu](https://cdn.myanimelist.net/images/anime/1928/116547.jpg)
+
 -   **type**: ona
 -   **original-name**: セリア先生のわくわくまじかる教室
 -   **start-date**: 2021-05-25

@@ -1,5 +1,7 @@
 # Outaishi Denka to Himitsu no Kifujin
 
+![outaishi-denka-to-himitsu-no-kifujin](https://cdn.myanimelist.net/images/manga/3/181507.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

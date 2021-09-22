@@ -1,5 +1,7 @@
 # Gakkou no Kaidan
 
+![gakkou-no-kaidan](https://cdn.myanimelist.net/images/manga/2/117603.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

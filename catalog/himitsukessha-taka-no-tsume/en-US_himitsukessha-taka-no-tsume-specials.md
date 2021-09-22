@@ -1,5 +1,7 @@
 # Himitsukessha Taka no Tsume Specials
 
+![himitsukessha-taka-no-tsume-specials](https://cdn.myanimelist.net/images/anime/9/82758.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: 秘密結社鷹の爪

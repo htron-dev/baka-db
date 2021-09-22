@@ -1,5 +1,7 @@
 # RS Keikaku: Rebirth Storage
 
+![rs-keikaku-rebirth-storage](https://cdn.myanimelist.net/images/anime/2/80584.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: RS 計画 -Rebirth Storage-

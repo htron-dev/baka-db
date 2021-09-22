@@ -1,5 +1,7 @@
 # Godzilla vs. Biollante
 
+![godzilla-vs-biollante](https://cdn.myanimelist.net/images/manga/2/131944.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ゴジラ vs ビオランテ

@@ -1,5 +1,7 @@
 # Cello Hiki no Gauche (1982)
 
+![cello-hiki-no-gauche-1982](https://cdn.myanimelist.net/images/anime/9/36627.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: セロ弾きのゴーシュ
@@ -9,7 +11,6 @@
 ## Tags
 
 -   music
-
 -   drama
 -   fantasy
 

@@ -1,5 +1,7 @@
 # Kare wa Tsumetai Furi wo Shite
 
+![kare-wa-tsumetai-furi-wo-shite](https://cdn.myanimelist.net/images/manga/1/34840.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

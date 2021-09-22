@@ -1,5 +1,7 @@
 # Another Vanguard: Seidou no Asuka
 
+![another-vanguard-seidou-no-asuka](https://cdn.myanimelist.net/images/manga/1/223254.jpg)
+
 -   **type**: manga
 -   **original-name**: アナザーヴァンガード 星導のアスカ
 -   **start-date**: 2017-05-08

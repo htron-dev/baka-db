@@ -1,5 +1,7 @@
 # Animaru Sentai Unlimited
 
+![animaru-sentai-unlimited](https://cdn.myanimelist.net/images/manga/3/86405.jpg)
+
 -   **type**: manga
 -   **original-name**: アニ ○ 戦隊 ∞
 

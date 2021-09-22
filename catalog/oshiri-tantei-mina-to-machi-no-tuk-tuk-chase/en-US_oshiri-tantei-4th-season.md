@@ -1,5 +1,7 @@
 # Oshiri Tantei 4th Season
 
+![oshiri-tantei-4th-season](https://cdn.myanimelist.net/images/anime/1229/107371.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: おしりたんてい
@@ -11,7 +13,6 @@
 
 -   comedy
 -   fantasy
-
 -   mystery
 
 ## Sinopse

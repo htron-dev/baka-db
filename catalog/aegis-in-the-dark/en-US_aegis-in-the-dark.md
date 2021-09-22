@@ -1,5 +1,7 @@
 # Aegis in the Dark
 
+![aegis-in-the-dark](https://cdn.myanimelist.net/images/manga/1/76265.jpg)
+
 -   **type**: manga
 -   **volumes**: 26
 -   **chapters**: 264

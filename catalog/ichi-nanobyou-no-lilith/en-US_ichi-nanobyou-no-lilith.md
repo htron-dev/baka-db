@@ -1,5 +1,7 @@
 # Ichi Nanobyou no Lilith
 
+![ichi-nanobyou-no-lilith](https://cdn.myanimelist.net/images/manga/3/160661.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Brothers Conflict feat. Natsume
 
+![brothers-conflict-feat-natsume](https://cdn.myanimelist.net/images/manga/3/98971.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

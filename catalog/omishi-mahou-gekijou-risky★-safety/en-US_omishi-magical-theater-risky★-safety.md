@@ -1,5 +1,7 @@
 # Omishi Magical Theater: Risky★Safety
 
+![omishi-magical-theater-risky★-safety](https://cdn.myanimelist.net/images/manga/2/186946.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 臣士魔法劇場 リスキー ★ セフティ

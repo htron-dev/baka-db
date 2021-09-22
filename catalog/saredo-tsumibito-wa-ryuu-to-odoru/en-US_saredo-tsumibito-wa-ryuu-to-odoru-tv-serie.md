@@ -1,5 +1,7 @@
 # Saredo Tsumibito wa Ryuu to Odoru
 
+![saredo-tsumibito-wa-ryuu-to-odoru](https://cdn.myanimelist.net/images/anime/1313/95061.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: されど罪人は竜と踊る

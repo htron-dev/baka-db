@@ -1,5 +1,7 @@
 # Motekei Ouji no Renai Command
 
+![motekei-ouji-no-renai-command](https://cdn.myanimelist.net/images/manga/1/226000.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: モテ系王子の恋愛コマンド

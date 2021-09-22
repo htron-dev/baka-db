@@ -1,5 +1,7 @@
 # Toshishita Danshi wa Mate ga Dekinai
 
+![toshishita-danshi-wa-mate-ga-dekinai](https://cdn.myanimelist.net/images/manga/1/201527.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

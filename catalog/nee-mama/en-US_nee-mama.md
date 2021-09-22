@@ -1,5 +1,7 @@
 # Nee, Mama
 
+![nee-mama](https://cdn.myanimelist.net/images/manga/2/201228.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

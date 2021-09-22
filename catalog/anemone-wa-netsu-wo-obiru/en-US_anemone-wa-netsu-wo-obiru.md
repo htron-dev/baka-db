@@ -1,5 +1,7 @@
 # Anemone wa Netsu wo Obiru
 
+![anemone-wa-netsu-wo-obiru](https://cdn.myanimelist.net/images/manga/3/246368.jpg)
+
 -   **type**: manga
 -   **original-name**: アネモネは熱を帯びる
 -   **start-date**: 2020-11-24

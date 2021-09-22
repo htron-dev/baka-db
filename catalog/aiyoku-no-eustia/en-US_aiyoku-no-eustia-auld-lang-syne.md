@@ -1,5 +1,7 @@
 # Aiyoku no Eustia: Auld Lang Syne
 
+![aiyoku-no-eustia-auld-lang-syne](https://cdn.myanimelist.net/images/manga/2/149508.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 穢翼のユースティア Auld Lang Syne《過去編》

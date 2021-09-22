@@ -1,5 +1,7 @@
 # Love &amp; Sex
 
+![love-amp-sex](https://cdn.myanimelist.net/images/manga/2/7673.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

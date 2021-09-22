@@ -1,5 +1,7 @@
 # Shinobi Yoru Koi wa Kusemono
 
+![shinobi-yoru-koi-wa-kusemono](https://cdn.myanimelist.net/images/manga/3/29905.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 26

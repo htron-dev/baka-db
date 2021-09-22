@@ -1,5 +1,7 @@
 # Hong Mao Lan Tu: Xiao Youmo
 
+![hong-mao-lan-tu-xiao-youmo](https://cdn.myanimelist.net/images/anime/1470/98700.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 84
 -   **original-name**: 虹猫蓝兔小幽默

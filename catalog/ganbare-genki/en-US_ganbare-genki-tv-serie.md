@@ -1,5 +1,7 @@
 # Ganbare Genki
 
+![ganbare-genki](https://cdn.myanimelist.net/images/anime/9/25530.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 35
 -   **original-name**: がんばれ元気

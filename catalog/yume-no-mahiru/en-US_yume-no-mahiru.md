@@ -1,5 +1,7 @@
 # Yume no Mahiru
 
+![yume-no-mahiru](https://cdn.myanimelist.net/images/manga/3/174764.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 28

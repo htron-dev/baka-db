@@ -1,5 +1,7 @@
 # Mang Huang Ji
 
+![mang-huang-ji](https://cdn.myanimelist.net/images/anime/1705/90240.jpg)
+
 -   **type**: ona
 -   **episodes**: 19
 -   **original-name**: 莽荒纪

@@ -1,5 +1,7 @@
 # Rival
 
+![rival](https://cdn.myanimelist.net/images/manga/3/25297.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 

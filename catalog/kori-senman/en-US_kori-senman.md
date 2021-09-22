@@ -1,5 +1,7 @@
 # Kori Senman
 
+![kori-senman](https://cdn.myanimelist.net/images/manga/2/229269.jpg)
+
 -   **type**: manga
 -   **original-name**: こりせんまん
 -   **start-date**: 2018-07-15

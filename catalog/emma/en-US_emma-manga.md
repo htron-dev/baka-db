@@ -1,5 +1,7 @@
 # Emma
 
+![emma](https://cdn.myanimelist.net/images/manga/1/161059.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 72

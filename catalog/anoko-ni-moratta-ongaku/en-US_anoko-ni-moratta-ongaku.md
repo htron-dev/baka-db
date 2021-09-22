@@ -1,5 +1,7 @@
 # Anoko ni Moratta Ongaku
 
+![anoko-ni-moratta-ongaku](https://cdn.myanimelist.net/images/manga/1/38828.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: あのこにもらった音楽

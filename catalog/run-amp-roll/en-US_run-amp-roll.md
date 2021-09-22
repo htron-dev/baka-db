@@ -1,5 +1,7 @@
 # Run &amp; Roll
 
+![run-amp-roll](https://cdn.myanimelist.net/images/anime/12/81091.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **start-date**: 2013-01-20

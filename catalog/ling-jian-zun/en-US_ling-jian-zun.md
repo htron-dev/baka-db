@@ -1,5 +1,7 @@
 # Ling Jian Zun
 
+![ling-jian-zun](https://cdn.myanimelist.net/images/anime/1062/98492.jpg)
+
 -   **type**: ona
 -   **episodes**: 30
 -   **original-name**: 灵剑尊

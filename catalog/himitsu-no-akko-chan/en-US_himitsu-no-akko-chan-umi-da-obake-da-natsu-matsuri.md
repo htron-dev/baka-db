@@ -1,5 +1,7 @@
 # Himitsu no Akko-chan: Umi da! Obake da!! Natsu Matsuri
 
+![himitsu-no-akko-chan-umi-da-obake-da-natsu-matsuri](https://cdn.myanimelist.net/images/anime/7/36371.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ひみつのアッコちゃん 海だ! おばけだ!! 夏祭り

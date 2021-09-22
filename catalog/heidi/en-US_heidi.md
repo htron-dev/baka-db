@@ -1,5 +1,7 @@
 # Heidi
 
+![heidi](https://cdn.myanimelist.net/images/manga/3/97193.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ハイジ

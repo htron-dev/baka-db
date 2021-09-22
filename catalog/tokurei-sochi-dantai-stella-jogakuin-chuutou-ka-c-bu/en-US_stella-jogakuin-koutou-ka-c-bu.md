@@ -1,5 +1,7 @@
 # Stella Jogakuin Koutou-ka C³-bu
 
+![stella-jogakuin-koutou-ka-c-bu](https://cdn.myanimelist.net/images/anime/13/52125.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ステラ女学院高等科 C³ 部（しーきゅーぶ）

@@ -1,5 +1,7 @@
 # Tatsutora!!
 
+![tatsutora](https://cdn.myanimelist.net/images/manga/2/99713.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: たつとら!!

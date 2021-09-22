@@ -1,5 +1,7 @@
 # The iDOLM@STER Cinderella Girls
 
+![the-i-dolm-ster-cinderella-girls](https://cdn.myanimelist.net/images/manga/3/171686.jpg)
+
 -   **type**: manga
 -   **original-name**: THE IDOLM@STER CINDERELLA GIRLS
 -   **start-date**: 2015-12-27

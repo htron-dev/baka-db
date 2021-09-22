@@ -1,5 +1,7 @@
 # Tatakau Shisho to Koisuru Bakudan
 
+![tatakau-shisho-to-koisuru-bakudan](https://cdn.myanimelist.net/images/manga/2/23433.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 戦う司書と恋する爆弾

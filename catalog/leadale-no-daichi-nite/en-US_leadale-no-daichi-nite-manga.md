@@ -1,5 +1,7 @@
 # Leadale no Daichi nite
 
+![leadale-no-daichi-nite](https://cdn.myanimelist.net/images/manga/3/236456.jpg)
+
 -   **type**: manga
 -   **original-name**: リアデイルの大地にて
 -   **start-date**: 2019-07-26

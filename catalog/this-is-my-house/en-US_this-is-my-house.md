@@ -1,5 +1,7 @@
 # This Is My House
 
+![this-is-my-house](https://cdn.myanimelist.net/images/anime/1692/97548.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ディス イズ マイ ハウス

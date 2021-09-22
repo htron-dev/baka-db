@@ -1,5 +1,7 @@
 # Teiou no Midara na Sokubaku
 
+![teiou-no-midara-na-sokubaku](https://cdn.myanimelist.net/images/manga/2/88749.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

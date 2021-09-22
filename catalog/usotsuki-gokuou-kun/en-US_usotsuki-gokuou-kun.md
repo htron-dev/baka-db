@@ -1,5 +1,7 @@
 # Usotsuki! Gokuou-kun
 
+![usotsuki-gokuou-kun](https://cdn.myanimelist.net/images/manga/1/233175.jpg)
+
 -   **type**: manga
 -   **original-name**: ウソツキ!ゴクオーくん
 -   **start-date**: 2011-04-30
@@ -7,7 +9,6 @@
 ## Tags
 
 -   demons
-
 -   school
 -   supernatural
 

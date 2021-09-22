@@ -1,5 +1,7 @@
 # Koi ja Nai nara Kono Sai Ai de!
 
+![koi-ja-nai-nara-kono-sai-ai-de](https://cdn.myanimelist.net/images/manga/1/239935.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Aoki Hagane no Arpeggio: Ars Nova
 
+![aoki-hagane-no-arpeggio-ars-nova](https://cdn.myanimelist.net/images/anime/6/56143.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 蒼き鋼のアルペジオ ‐アルス・ノヴァ‐

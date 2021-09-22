@@ -1,5 +1,7 @@
 # Ie ga Nakunatta no de Seme Host ni Kawareru koto ni Narimashita.
 
+![ie-ga-nakunatta-no-de-seme-host-ni-kawareru-koto-ni-narimashita](https://cdn.myanimelist.net/images/manga/2/240681.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

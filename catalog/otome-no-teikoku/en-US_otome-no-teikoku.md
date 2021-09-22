@@ -1,5 +1,7 @@
 # Otome no Teikoku
 
+![otome-no-teikoku](https://cdn.myanimelist.net/images/manga/3/66915.jpg)
+
 -   **type**: manga
 -   **original-name**: オトメの帝国
 -   **start-date**: 2010-08-04

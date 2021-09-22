@@ -1,5 +1,7 @@
 # Alien Eiri
 
+![alien-eiri](https://cdn.myanimelist.net/images/manga/3/173419.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 31

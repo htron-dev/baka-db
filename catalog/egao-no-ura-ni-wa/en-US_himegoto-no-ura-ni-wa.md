@@ -1,5 +1,7 @@
 # Himegoto no Ura ni wa
 
+![himegoto-no-ura-ni-wa](https://cdn.myanimelist.net/images/manga/2/238989.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Active Raid: Kidou Kyoushuushitsu Dai Hachigakari
 
+![active-raid-kidou-kyoushuushitsu-dai-hachigakari](https://cdn.myanimelist.net/images/manga/3/183040.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

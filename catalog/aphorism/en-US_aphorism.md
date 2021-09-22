@@ -1,5 +1,7 @@
 # Aphorism
 
+![aphorism](https://cdn.myanimelist.net/images/manga/2/187771.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 84

@@ -1,5 +1,7 @@
 # Nanatsu no Bitoku Specials
 
+![nanatsu-no-bitoku-specials](https://cdn.myanimelist.net/images/anime/1938/90218.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 七つの美徳

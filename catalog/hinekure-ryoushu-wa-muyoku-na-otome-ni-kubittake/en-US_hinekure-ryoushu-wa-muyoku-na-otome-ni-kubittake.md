@@ -1,5 +1,7 @@
 # Hinekure Ryoushu wa Muyoku na Otome ni Kubittake!
 
+![hinekure-ryoushu-wa-muyoku-na-otome-ni-kubittake](https://cdn.myanimelist.net/images/manga/1/195188.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ひねくれ領主は無欲な乙女にくびったけ！

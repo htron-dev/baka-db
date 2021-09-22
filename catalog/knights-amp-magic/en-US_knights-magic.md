@@ -1,5 +1,7 @@
 # Knight's & Magic
 
+![knights-magic](https://cdn.myanimelist.net/images/anime/1472/93813.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ナイツ&マジック

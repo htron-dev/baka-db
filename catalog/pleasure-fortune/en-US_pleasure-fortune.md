@@ -1,5 +1,7 @@
 # Pleasure Fortune
 
+![pleasure-fortune](https://cdn.myanimelist.net/images/manga/4/147059.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

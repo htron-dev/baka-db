@@ -1,5 +1,7 @@
 # Soukai no Eve
 
+![soukai-no-eve](https://cdn.myanimelist.net/images/manga/3/121373.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

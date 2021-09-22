@@ -1,5 +1,7 @@
 # Sion no Niwa
 
+![sion-no-niwa](https://cdn.myanimelist.net/images/manga/2/246666.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Jintori Game
 
+![jintori-game](https://cdn.myanimelist.net/images/manga/1/110807.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 43

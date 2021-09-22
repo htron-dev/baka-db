@@ -1,5 +1,7 @@
 # Tetsuwan Birdy Decode:02
 
+![tetsuwan-birdy-decode-02](https://cdn.myanimelist.net/images/anime/10/53907.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 鉄腕バーディー DECODE:02

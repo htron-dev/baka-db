@@ -1,5 +1,7 @@
 # Kimi to Kanaderu Fukyouwaon
 
+![kimi-to-kanaderu-fukyouwaon](https://cdn.myanimelist.net/images/manga/2/81886.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 5

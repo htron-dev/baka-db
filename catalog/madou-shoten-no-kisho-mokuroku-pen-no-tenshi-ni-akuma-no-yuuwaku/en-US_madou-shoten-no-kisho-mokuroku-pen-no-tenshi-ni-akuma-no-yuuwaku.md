@@ -1,5 +1,7 @@
 # Madou Shoten no Kisho Mokuroku: Pen no Tenshi ni Akuma no Yuuwaku
 
+![madou-shoten-no-kisho-mokuroku-pen-no-tenshi-ni-akuma-no-yuuwaku](https://cdn.myanimelist.net/images/manga/3/153319.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 魔道書店の稀書目録 ペンの天使に悪魔の誘惑

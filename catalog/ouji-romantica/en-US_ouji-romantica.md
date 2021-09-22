@@ -1,5 +1,7 @@
 # Ouji Romantica
 
+![ouji-romantica](https://cdn.myanimelist.net/images/manga/5/22017.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

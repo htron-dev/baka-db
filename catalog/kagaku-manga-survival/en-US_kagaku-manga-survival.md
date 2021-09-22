@@ -1,5 +1,7 @@
 # Kagaku Manga Survival
 
+![kagaku-manga-survival](https://cdn.myanimelist.net/images/anime/1228/102592.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 科学漫画サバイバル

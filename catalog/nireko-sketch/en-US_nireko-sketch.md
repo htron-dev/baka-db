@@ -1,5 +1,7 @@
 # Nireko Sketch
 
+![nireko-sketch](https://cdn.myanimelist.net/images/manga/1/204232.jpg)
+
 -   **type**: manga
 -   **original-name**: にれこスケッチ
 -   **start-date**: 2015-09-08

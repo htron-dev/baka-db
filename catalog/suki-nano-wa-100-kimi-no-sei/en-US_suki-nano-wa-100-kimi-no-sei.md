@@ -1,5 +1,7 @@
 # Suki nano wa 100% Kimi no Sei
 
+![suki-nano-wa-100-kimi-no-sei](https://cdn.myanimelist.net/images/manga/2/169775.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 好きなのは 100%キミのセイ

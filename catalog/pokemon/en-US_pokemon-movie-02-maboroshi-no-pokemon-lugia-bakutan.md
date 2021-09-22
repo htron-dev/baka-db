@@ -1,5 +1,7 @@
 # Pokemon Movie 02: Maboroshi no Pokemon Lugia Bakutan
 
+![pokemon-movie-02-maboroshi-no-pokemon-lugia-bakutan](https://cdn.myanimelist.net/images/anime/11/41801.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ポケットモンスター 幻のポケモンルギア爆誕
@@ -12,7 +14,6 @@
 
 -   adventure
 -   comedy
-
 -   drama
 -   fantasy
 

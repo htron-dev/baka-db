@@ -1,5 +1,7 @@
 # Maryoku Zero no Ore ni wa, Mahou Kenki Saikyou no Gakuen wo Shihai Dekinai...... to Omotta?
 
+![maryoku-zero-no-ore-ni-wa-mahou-kenki-saikyou-no-gakuen-wo-shihai-dekinai-to-omotta](https://cdn.myanimelist.net/images/manga/3/235258.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 32

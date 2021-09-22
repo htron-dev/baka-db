@@ -1,5 +1,7 @@
 # Rigel: A Winter Constellation
 
+![rigel-a-winter-constellation](https://cdn.myanimelist.net/images/manga/2/2945.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

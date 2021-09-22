@@ -1,5 +1,7 @@
 # Haratama Kiyotama
 
+![haratama-kiyotama](https://cdn.myanimelist.net/images/manga/1/138819.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

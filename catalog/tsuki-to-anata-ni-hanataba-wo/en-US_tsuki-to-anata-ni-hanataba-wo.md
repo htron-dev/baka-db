@@ -1,5 +1,7 @@
 # Tsuki to Anata ni Hanataba wo
 
+![tsuki-to-anata-ni-hanataba-wo](https://cdn.myanimelist.net/images/manga/1/164536.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **original-name**: 月と貴女に花束を

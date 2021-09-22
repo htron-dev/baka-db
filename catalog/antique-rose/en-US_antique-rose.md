@@ -1,5 +1,7 @@
 # Antique Rose
 
+![antique-rose](https://cdn.myanimelist.net/images/manga/3/57807.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

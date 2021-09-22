@@ -1,5 +1,7 @@
 # 12 Demons
 
+![12-demons](https://cdn.myanimelist.net/images/manga/3/164241.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 12DEMONS

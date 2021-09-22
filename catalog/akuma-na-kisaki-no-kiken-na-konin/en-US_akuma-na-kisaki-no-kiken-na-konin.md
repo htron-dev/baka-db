@@ -1,5 +1,7 @@
 # Akuma na Kisaki no Kiken na Konin
 
+![akuma-na-kisaki-no-kiken-na-konin](https://cdn.myanimelist.net/images/manga/1/167627.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

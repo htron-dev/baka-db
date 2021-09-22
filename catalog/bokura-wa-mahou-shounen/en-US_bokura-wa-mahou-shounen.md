@@ -1,5 +1,7 @@
 # Bokura wa Mahou Shounen
 
+![bokura-wa-mahou-shounen](https://cdn.myanimelist.net/images/manga/1/220834.jpg)
+
 -   **type**: manga
 -   **original-name**: ボクらは魔法少年
 -   **start-date**: 2018-03-01

@@ -1,5 +1,7 @@
 # Hagane Orchestra
 
+![hagane-orchestra](https://cdn.myanimelist.net/images/anime/7/82323.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: はがねオーケストラ

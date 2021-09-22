@@ -1,5 +1,7 @@
 # Hyakujitsu no Bara
 
+![hyakujitsu-no-bara](https://cdn.myanimelist.net/images/anime/5/34517.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 百日の薔薇

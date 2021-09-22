@@ -1,5 +1,7 @@
 # Kuroneko Dance
 
+![kuroneko-dance](https://cdn.myanimelist.net/images/manga/1/153503.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

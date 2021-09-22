@@ -1,5 +1,7 @@
 # Halloween†Town: Party Time!!
 
+![halloween-town-party-time](https://cdn.myanimelist.net/images/manga/3/42275.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Yoshino no Hime
 
+![yoshino-no-hime](https://cdn.myanimelist.net/images/anime/10/8933.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 吉野の姫制

@@ -1,5 +1,7 @@
 # Kiteretsu Daihyakka
 
+![kiteretsu-daihyakka](https://cdn.myanimelist.net/images/anime/1918/99645.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 331
 -   **original-name**: キテレツ大百科
@@ -13,7 +15,6 @@
 
 -   comedy
 -   drama
-
 -   slice-of-life
 
 ## Sinopse

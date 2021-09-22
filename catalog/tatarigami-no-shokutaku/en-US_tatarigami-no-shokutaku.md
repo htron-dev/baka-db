@@ -1,5 +1,7 @@
 # Tatarigami no Shokutaku
 
+![tatarigami-no-shokutaku](https://cdn.myanimelist.net/images/manga/3/222827.jpg)
+
 -   **type**: manga
 -   **original-name**: 祟り神の食卓
 -   **start-date**: 2017-05-05

@@ -1,5 +1,7 @@
 # Kimi wa Kawaii Onnanoko
 
+![kimi-wa-kawaii-onnanoko](https://cdn.myanimelist.net/images/manga/2/173049.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 54

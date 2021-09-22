@@ -1,5 +1,7 @@
 # Flash Cat
 
+![flash-cat](https://cdn.myanimelist.net/images/manga/4/173676.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **original-name**: 플래시켓

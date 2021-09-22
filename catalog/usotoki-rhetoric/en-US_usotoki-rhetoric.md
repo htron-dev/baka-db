@@ -1,5 +1,7 @@
 # Usotoki Rhetoric
 
+![usotoki-rhetoric](https://cdn.myanimelist.net/images/manga/1/179845.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 50

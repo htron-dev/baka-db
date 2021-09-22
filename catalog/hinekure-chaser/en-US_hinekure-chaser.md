@@ -1,5 +1,7 @@
 # Hinekure Chaser
 
+![hinekure-chaser](https://cdn.myanimelist.net/images/manga/1/159549.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

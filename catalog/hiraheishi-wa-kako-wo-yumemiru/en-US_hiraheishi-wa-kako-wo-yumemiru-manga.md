@@ -1,5 +1,7 @@
 # Hiraheishi wa Kako wo Yumemiru
 
+![hiraheishi-wa-kako-wo-yumemiru](https://cdn.myanimelist.net/images/manga/1/191228.jpg)
+
 -   **type**: manga
 -   **original-name**: 平兵士は過去を夢見る
 -   **start-date**: 2016-05-12

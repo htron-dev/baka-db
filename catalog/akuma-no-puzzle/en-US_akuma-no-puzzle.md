@@ -1,5 +1,7 @@
 # Akuma no Puzzle
 
+![akuma-no-puzzle](https://cdn.myanimelist.net/images/manga/3/167475.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

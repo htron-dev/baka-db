@@ -1,5 +1,7 @@
 # Oya Naru Mono Dangai
 
+![oya-naru-mono-dangai](https://cdn.myanimelist.net/images/manga/1/179373.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

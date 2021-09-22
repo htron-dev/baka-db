@@ -1,5 +1,7 @@
 # The Legend of Soma
 
+![the-legend-of-soma](https://cdn.myanimelist.net/images/manga/2/15013.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 15
 -   **original-name**: 소마신화전기

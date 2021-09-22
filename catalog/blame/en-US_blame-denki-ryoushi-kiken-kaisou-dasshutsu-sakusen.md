@@ -1,5 +1,7 @@
 # Blame!: Denki Ryoushi Kiken Kaisou Dasshutsu Sakusen
 
+![blame-denki-ryoushi-kiken-kaisou-dasshutsu-sakusen](https://cdn.myanimelist.net/images/manga/1/206638.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

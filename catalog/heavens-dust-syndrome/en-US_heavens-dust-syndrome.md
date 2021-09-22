@@ -1,5 +1,7 @@
 # Heaven's Dust Syndrome
 
+![heavens-dust-syndrome](https://cdn.myanimelist.net/images/manga/1/155205.jpg)
+
 -   **type**: manga
 -   **chapters**: 11
 -   **original-name**: ヘヴンズダスト シンドローム

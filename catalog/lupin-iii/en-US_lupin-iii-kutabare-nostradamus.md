@@ -1,5 +1,7 @@
 # Lupin III: Kutabare! Nostradamus
 
+![lupin-iii-kutabare-nostradamus](https://cdn.myanimelist.net/images/anime/8/21668.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ルパン三世『くたばれ!ノストラダムス,』

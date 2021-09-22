@@ -1,5 +1,7 @@
 # Beast Saga
 
+![beast-saga](https://cdn.myanimelist.net/images/anime/8/45576.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 38
 -   **original-name**: ビーストサーガ
@@ -13,7 +15,6 @@
 
 -   action
 -   sci-fi
-
 -   shounen
 
 ## Sinopse

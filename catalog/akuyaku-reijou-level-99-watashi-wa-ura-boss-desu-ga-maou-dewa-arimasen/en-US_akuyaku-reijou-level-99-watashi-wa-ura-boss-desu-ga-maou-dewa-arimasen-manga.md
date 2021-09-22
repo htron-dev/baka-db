@@ -1,5 +1,7 @@
 # Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen
 
+![akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen](https://cdn.myanimelist.net/images/manga/1/238943.jpg)
+
 -   **type**: manga
 -   **original-name**: 悪役令嬢レベル 99 ～私は裏ボスですが魔王ではありません～
 -   **start-date**: 2020-02-05

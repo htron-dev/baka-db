@@ -1,5 +1,7 @@
 # 7 Seeds 2nd Season
 
+![7-seeds-2nd-season](https://cdn.myanimelist.net/images/anime/1133/106529.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 7SEEDS

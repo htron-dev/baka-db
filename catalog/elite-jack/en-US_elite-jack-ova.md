@@ -1,5 +1,7 @@
 # Elite Jack!!
 
+![elite-jack](https://cdn.myanimelist.net/images/anime/1925/107136.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: エリートジャック!!

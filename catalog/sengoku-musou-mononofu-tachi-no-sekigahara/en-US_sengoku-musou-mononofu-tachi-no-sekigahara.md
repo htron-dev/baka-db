@@ -1,5 +1,7 @@
 # Sengoku Musou: Mononofu-tachi no Sekigahara
 
+![sengoku-musou-mononofu-tachi-no-sekigahara](https://cdn.myanimelist.net/images/manga/1/134609.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

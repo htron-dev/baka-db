@@ -1,5 +1,7 @@
 # Yukuyuku
 
+![yukuyuku](https://cdn.myanimelist.net/images/manga/2/215098.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

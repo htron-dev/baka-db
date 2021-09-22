@@ -1,5 +1,7 @@
 # Oren's
 
+![orens](https://cdn.myanimelist.net/images/manga/2/217098.jpg)
+
 -   **type**: manga
 -   **original-name**: OREN'S オーレンズ
 -   **start-date**: 2015-09-01

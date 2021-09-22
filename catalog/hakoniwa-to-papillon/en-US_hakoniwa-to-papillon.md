@@ -1,5 +1,7 @@
 # Hakoniwa to Papillon
 
+![hakoniwa-to-papillon](https://cdn.myanimelist.net/images/manga/1/166036.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

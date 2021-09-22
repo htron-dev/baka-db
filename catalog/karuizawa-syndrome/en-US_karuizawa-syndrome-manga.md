@@ -1,5 +1,7 @@
 # Karuizawa Syndrome
 
+![karuizawa-syndrome](https://cdn.myanimelist.net/images/manga/1/17505.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: 軽井沢シンドローム

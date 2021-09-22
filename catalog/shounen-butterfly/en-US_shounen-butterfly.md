@@ -1,5 +1,7 @@
 # Shounen Butterfly
 
+![shounen-butterfly](https://cdn.myanimelist.net/images/manga/2/30718.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

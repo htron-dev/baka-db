@@ -1,5 +1,7 @@
 # Noraneko to Ookami
 
+![noraneko-to-ookami](https://cdn.myanimelist.net/images/manga/3/237804.jpg)
+
 -   **type**: manga
 -   **original-name**: 野良猫と狼
 -   **start-date**: 2019-07-25

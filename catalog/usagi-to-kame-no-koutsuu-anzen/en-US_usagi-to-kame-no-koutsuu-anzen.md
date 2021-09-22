@@ -1,5 +1,7 @@
 # Usagi to Kame no Koutsuu Anzen
 
+![usagi-to-kame-no-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/3/74435.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: うさぎと亀の交通安全

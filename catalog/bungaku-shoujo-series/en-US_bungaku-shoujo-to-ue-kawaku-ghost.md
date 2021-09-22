@@ -1,5 +1,7 @@
 # "Bungaku Shoujo" to Ue Kawaku Ghost
 
+![bungaku-shoujo-to-ue-kawaku-ghost](https://cdn.myanimelist.net/images/manga/4/87567.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 30

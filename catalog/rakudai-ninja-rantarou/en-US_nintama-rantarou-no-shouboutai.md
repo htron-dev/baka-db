@@ -1,5 +1,7 @@
 # Nintama Rantarou no Shouboutai
 
+![nintama-rantarou-no-shouboutai](https://cdn.myanimelist.net/images/anime/8/68963.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 忍たま乱太郎の消防隊

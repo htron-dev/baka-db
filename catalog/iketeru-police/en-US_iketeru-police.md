@@ -1,5 +1,7 @@
 # Iketeru Police
 
+![iketeru-police](https://cdn.myanimelist.net/images/manga/2/33242.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: イケてる刑事

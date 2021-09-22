@@ -1,5 +1,7 @@
 # Ikenai Kiss wo Shiyou
 
+![ikenai-kiss-wo-shiyou](https://cdn.myanimelist.net/images/manga/3/35232.jpg)
+
 -   **type**: manga
 -   **original-name**: いけないキスをしよう
 

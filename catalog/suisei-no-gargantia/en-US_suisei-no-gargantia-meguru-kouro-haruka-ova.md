@@ -1,5 +1,7 @@
 # Suisei no Gargantia: Meguru Kouro, Haruka
 
+![suisei-no-gargantia-meguru-kouro-haruka](https://cdn.myanimelist.net/images/anime/10/67547.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 翠星のガルガンティア～めぐる航路、遥か～

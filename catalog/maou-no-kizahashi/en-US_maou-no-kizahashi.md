@@ -1,5 +1,7 @@
 # Maou no Kizahashi
 
+![maou-no-kizahashi](https://cdn.myanimelist.net/images/manga/1/225189.jpg)
+
 -   **type**: manga
 -   **chapters**: 35
 -   **original-name**: 魔王の階

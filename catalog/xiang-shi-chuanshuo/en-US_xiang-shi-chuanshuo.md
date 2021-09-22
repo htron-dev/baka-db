@@ -1,5 +1,7 @@
 # Xiang Shi Chuanshuo
 
+![xiang-shi-chuanshuo](https://cdn.myanimelist.net/images/anime/1408/115365.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 巷食传说

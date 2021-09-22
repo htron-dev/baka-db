@@ -1,5 +1,7 @@
 # Kare to Kanojo no Chiguhagu
 
+![kare-to-kanojo-no-chiguhagu](https://cdn.myanimelist.net/images/manga/1/180425.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

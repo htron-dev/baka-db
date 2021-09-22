@@ -1,5 +1,7 @@
 # Teruya-kun wa Hodasarenai
 
+![teruya-kun-wa-hodasarenai](https://cdn.myanimelist.net/images/manga/2/200095.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

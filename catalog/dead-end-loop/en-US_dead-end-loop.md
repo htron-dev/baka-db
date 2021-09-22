@@ -1,5 +1,7 @@
 # Dead End Loop
 
+![dead-end-loop](https://cdn.myanimelist.net/images/manga/1/237561.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

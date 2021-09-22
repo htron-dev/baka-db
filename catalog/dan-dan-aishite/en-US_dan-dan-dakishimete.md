@@ -1,5 +1,7 @@
 # Dan Dan Dakishimete
 
+![dan-dan-dakishimete](https://cdn.myanimelist.net/images/manga/2/7269.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: DAN DAN 抱きしめて

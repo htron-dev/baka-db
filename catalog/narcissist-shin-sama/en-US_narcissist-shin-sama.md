@@ -1,5 +1,7 @@
 # Narcissist Shin-sama
 
+![narcissist-shin-sama](https://cdn.myanimelist.net/images/manga/2/23688.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

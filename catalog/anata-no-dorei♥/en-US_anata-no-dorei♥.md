@@ -1,5 +1,7 @@
 # Anata no Dorei♥
 
+![anata-no-dorei♥](https://cdn.myanimelist.net/images/manga/3/197966.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

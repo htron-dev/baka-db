@@ -1,5 +1,7 @@
 # Waka!!
 
+![waka](https://cdn.myanimelist.net/images/manga/3/22251.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 若!!

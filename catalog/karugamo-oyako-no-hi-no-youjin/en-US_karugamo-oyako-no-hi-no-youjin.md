@@ -1,5 +1,7 @@
 # Karugamo Oyako no Hi no Youjin
 
+![karugamo-oyako-no-hi-no-youjin](https://cdn.myanimelist.net/images/anime/13/68951.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: カルガモ親子の火の用心

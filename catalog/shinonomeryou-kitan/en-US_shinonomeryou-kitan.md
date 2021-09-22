@@ -1,5 +1,7 @@
 # Shinonomeryou Kitan
 
+![shinonomeryou-kitan](https://cdn.myanimelist.net/images/manga/1/20588.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

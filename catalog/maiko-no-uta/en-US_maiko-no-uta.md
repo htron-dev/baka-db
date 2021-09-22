@@ -1,5 +1,7 @@
 # Maiko no Uta
 
+![maiko-no-uta](https://cdn.myanimelist.net/images/manga/1/13639.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 舞子の詩

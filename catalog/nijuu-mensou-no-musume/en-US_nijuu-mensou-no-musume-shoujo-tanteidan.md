@@ -1,5 +1,7 @@
 # Nijuu Mensou no Musume: Shoujo Tanteidan
 
+![nijuu-mensou-no-musume-shoujo-tanteidan](https://cdn.myanimelist.net/images/manga/3/171197.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Jigoku no Gouka de Yakare Tsuzuketa Shounen. Saikyou no Honootsukai to Natte Fukkatsu suru.
 
+![jigoku-no-gouka-de-yakare-tsuzuketa-shounen-saikyou-no-honootsukai-to-natte-fukkatsu-suru](https://cdn.myanimelist.net/images/manga/1/236896.jpg)
+
 -   **type**: manga
 -   **original-name**: 地獄の業火で焼かれ続けた少年。最強の炎使いとなって復活する。
 -   **start-date**: 2020-06-29

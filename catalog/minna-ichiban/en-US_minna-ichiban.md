@@ -1,5 +1,7 @@
 # Minna Ichiban!
 
+![minna-ichiban](https://cdn.myanimelist.net/images/anime/7/66263.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: みんないちばん！

@@ -1,5 +1,7 @@
 # Heart no Patio de Aimashou
 
+![heart-no-patio-de-aimashou](https://cdn.myanimelist.net/images/manga/1/20813.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

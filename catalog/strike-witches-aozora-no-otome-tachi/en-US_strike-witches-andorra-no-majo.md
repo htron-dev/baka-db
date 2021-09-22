@@ -1,5 +1,7 @@
 # Strike Witches: Andorra no Majo
 
+![strike-witches-andorra-no-majo](https://cdn.myanimelist.net/images/manga/3/131095.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

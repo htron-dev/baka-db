@@ -1,5 +1,7 @@
 # Kiratto Pri☆chan Season 3
 
+![kiratto-pri☆chan-season-3](https://cdn.myanimelist.net/images/anime/1500/105552.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: キラッとプリ ☆ チャン シーズン 3

@@ -1,5 +1,7 @@
 # Login Bonus de Skill Up: Nete Okite Nariagaru
 
+![login-bonus-de-skill-up-nete-okite-nariagaru](https://cdn.myanimelist.net/images/manga/3/181171.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ログインボーナスでスキルアップ~寝て起きて成り上がる~
 -   **start-date**: 2016-08-15

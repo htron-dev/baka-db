@@ -1,5 +1,7 @@
 # Magi-Cu 4-koma: Kokoro Connect
 
+![magi-cu-4-koma-kokoro-connect](https://cdn.myanimelist.net/images/manga/1/92411.jpg)
+
 -   **type**: manga
 -   **original-name**: マジキュー 4 コマ ココロコネクト
 

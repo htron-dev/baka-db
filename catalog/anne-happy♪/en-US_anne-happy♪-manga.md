@@ -1,5 +1,7 @@
 # Anne Happy♪
 
+![anne-happy♪](https://cdn.myanimelist.net/images/manga/1/147679.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 71

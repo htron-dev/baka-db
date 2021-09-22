@@ -1,5 +1,7 @@
 # Odd Girl Out
 
+![odd-girl-out](https://cdn.myanimelist.net/images/manga/2/222276.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 소녀의 세계
 -   **start-date**: 2015-05-17

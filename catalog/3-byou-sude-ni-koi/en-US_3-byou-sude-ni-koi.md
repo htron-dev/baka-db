@@ -1,5 +1,7 @@
 # 3-byou, Sude ni Koi.
 
+![3-byou-sude-ni-koi](https://cdn.myanimelist.net/images/manga/2/170058.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

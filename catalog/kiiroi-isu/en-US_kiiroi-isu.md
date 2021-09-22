@@ -1,5 +1,7 @@
 # Kiiroi Isu
 
+![kiiroi-isu](https://cdn.myanimelist.net/images/manga/3/122355.jpg)
+
 -   **type**: manga
 -   **chapters**: 8
 -   **original-name**: 黄色いイス

@@ -1,5 +1,7 @@
 # Senbon Matsubara
 
+![senbon-matsubara](https://cdn.myanimelist.net/images/anime/8/51493.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: せんぼんまつばら

@@ -1,5 +1,7 @@
 # Catcher in the Rhyme
 
+![catcher-in-the-rhyme](https://cdn.myanimelist.net/images/manga/1/207222.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 30

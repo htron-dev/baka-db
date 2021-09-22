@@ -1,5 +1,7 @@
 # Hakata Tonkotsu Ramens
 
+![hakata-tonkotsu-ramens](https://cdn.myanimelist.net/images/anime/1718/91097.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 博多豚骨ラーメンズ

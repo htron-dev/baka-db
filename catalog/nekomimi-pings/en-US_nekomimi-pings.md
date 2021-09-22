@@ -1,5 +1,7 @@
 # Nekomimi Pings
 
+![nekomimi-pings](https://cdn.myanimelist.net/images/manga/1/146249.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ねこみみぴんぐす

@@ -1,5 +1,7 @@
 # Medalist
 
+![medalist](https://cdn.myanimelist.net/images/manga/3/235204.jpg)
+
 -   **type**: manga
 -   **original-name**: メダリスト
 -   **start-date**: 2020-05-25

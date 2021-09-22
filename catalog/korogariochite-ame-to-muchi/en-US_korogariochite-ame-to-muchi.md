@@ -1,5 +1,7 @@
 # Korogariochite Ame to Muchi
 
+![korogariochite-ame-to-muchi](https://cdn.myanimelist.net/images/manga/1/215388.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

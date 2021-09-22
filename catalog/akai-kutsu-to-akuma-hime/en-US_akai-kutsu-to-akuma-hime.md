@@ -1,5 +1,7 @@
 # Akai Kutsu to Akuma-hime
 
+![akai-kutsu-to-akuma-hime](https://cdn.myanimelist.net/images/manga/1/135075.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 赤いくつと悪魔姫

@@ -1,5 +1,7 @@
 # Gray to Blue no Ai made
 
+![gray-to-blue-no-ai-made](https://cdn.myanimelist.net/images/manga/2/224309.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

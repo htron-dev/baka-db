@@ -1,5 +1,7 @@
 # Onegai☆Twins
 
+![onegai☆-twins](https://cdn.myanimelist.net/images/anime/1621/100229.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: おねがい ☆ ツインズ

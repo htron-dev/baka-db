@@ -1,5 +1,7 @@
 # Kakegurui
 
+![kakegurui](https://cdn.myanimelist.net/images/manga/1/142175.jpg)
+
 -   **type**: manga
 -   **original-name**: 賭ケグルイ
 -   **start-date**: 2014-03-22

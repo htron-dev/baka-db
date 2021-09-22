@@ -1,5 +1,7 @@
 # Gakkou ni Ikenai Watashitachi
 
+![gakkou-ni-ikenai-watashitachi](https://cdn.myanimelist.net/images/manga/2/215560.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

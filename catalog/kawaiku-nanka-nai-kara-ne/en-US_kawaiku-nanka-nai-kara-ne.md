@@ -1,5 +1,7 @@
 # Kawaiku nanka Nai kara ne!
 
+![kawaiku-nanka-nai-kara-ne](https://cdn.myanimelist.net/images/manga/3/164564.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

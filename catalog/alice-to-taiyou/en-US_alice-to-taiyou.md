@@ -1,5 +1,7 @@
 # Alice to Taiyou
 
+![alice-to-taiyou](https://cdn.myanimelist.net/images/manga/2/213171.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

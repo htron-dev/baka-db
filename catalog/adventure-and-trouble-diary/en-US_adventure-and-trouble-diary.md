@@ -1,5 +1,7 @@
 # Adventure and Trouble Diary
 
+![adventure-and-trouble-diary](https://cdn.myanimelist.net/images/manga/3/97913.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 9
 -   **chapters**: 35

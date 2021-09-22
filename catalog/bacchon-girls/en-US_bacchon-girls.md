@@ -1,5 +1,7 @@
 # Bacchon Girls
 
+![bacchon-girls](https://cdn.myanimelist.net/images/manga/2/27473.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ばっちょんガールズ

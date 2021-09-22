@@ -1,5 +1,7 @@
 # Sayonara, Otokonoko
 
+![sayonara-otokonoko](https://cdn.myanimelist.net/images/manga/3/200348.jpg)
+
 -   **type**: manga
 -   **original-name**: さよなら、おとこのこ
 -   **start-date**: 2016-05-07

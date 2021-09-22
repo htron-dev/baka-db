@@ -1,5 +1,7 @@
 # Wakasugita Hakushaku Fujin
 
+![wakasugita-hakushaku-fujin](https://cdn.myanimelist.net/images/manga/3/111765.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 若すぎた伯爵夫人

@@ -1,5 +1,7 @@
 # Karl to Fushigi na Tou
 
+![karl-to-fushigi-na-tou](https://cdn.myanimelist.net/images/anime/9/26411.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: カルルとふしぎな塔
@@ -12,7 +14,6 @@
 
 -   adventure
 -   mystery
-
 -   fantasy
 
 ## Sinopse

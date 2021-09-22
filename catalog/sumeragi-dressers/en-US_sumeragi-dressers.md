@@ -1,5 +1,7 @@
 # Sumeragi Dressers
 
+![sumeragi-dressers](https://cdn.myanimelist.net/images/manga/2/178762.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 36

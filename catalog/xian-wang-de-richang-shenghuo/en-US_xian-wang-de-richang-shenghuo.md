@@ -1,5 +1,7 @@
 # Xian Wang de Richang Shenghuo
 
+![xian-wang-de-richang-shenghuo](https://cdn.myanimelist.net/images/anime/1925/105508.jpg)
+
 -   **type**: ona
 -   **episodes**: 15
 -   **original-name**: 仙王的日常生活

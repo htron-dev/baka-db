@@ -1,5 +1,7 @@
 # Last Inning
 
+![last-inning](https://cdn.myanimelist.net/images/manga/1/120023.jpg)
+
 -   **type**: manga
 -   **volumes**: 44
 -   **chapters**: 440

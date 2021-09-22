@@ -1,5 +1,7 @@
 # Hori-san to Miyamura-kun Omake
 
+![hori-san-to-miyamura-kun-omake](https://cdn.myanimelist.net/images/manga/3/77507.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 236

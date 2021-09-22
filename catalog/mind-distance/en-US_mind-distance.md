@@ -1,5 +1,7 @@
 # Mind Distance
 
+![mind-distance](https://cdn.myanimelist.net/images/manga/1/32095.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 

@@ -1,5 +1,7 @@
 # Xiong Bing Lian
 
+![xiong-bing-lian](https://cdn.myanimelist.net/images/anime/1809/91541.jpg)
+
 -   **type**: ona
 -   **episodes**: 33
 -   **original-name**: 雄兵连

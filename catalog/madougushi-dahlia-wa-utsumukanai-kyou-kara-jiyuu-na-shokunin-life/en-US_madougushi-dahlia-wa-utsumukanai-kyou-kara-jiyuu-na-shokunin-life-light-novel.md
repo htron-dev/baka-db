@@ -1,5 +1,7 @@
 # Madougushi Dahlia wa Utsumukanai: Kyou kara Jiyuu na Shokunin Life
 
+![madougushi-dahlia-wa-utsumukanai-kyou-kara-jiyuu-na-shokunin-life](https://cdn.myanimelist.net/images/manga/1/247701.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 魔導具師ダリヤはうつむかない ~今日から自由な職人ライフ~
 -   **start-date**: 2018-10-25

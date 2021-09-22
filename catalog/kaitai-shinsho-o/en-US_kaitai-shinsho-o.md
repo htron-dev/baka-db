@@ -1,5 +1,7 @@
 # Kaitai Shinsho Ø
 
+![kaitai-shinsho-o](https://cdn.myanimelist.net/images/manga/3/191253.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 69

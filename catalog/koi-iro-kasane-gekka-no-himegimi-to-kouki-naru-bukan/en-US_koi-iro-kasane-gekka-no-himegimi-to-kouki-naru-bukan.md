@@ -1,5 +1,7 @@
 # Koi-iro Kasane: Gekka no Himegimi to Kouki naru Bukan
 
+![koi-iro-kasane-gekka-no-himegimi-to-kouki-naru-bukan](https://cdn.myanimelist.net/images/manga/3/191622.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

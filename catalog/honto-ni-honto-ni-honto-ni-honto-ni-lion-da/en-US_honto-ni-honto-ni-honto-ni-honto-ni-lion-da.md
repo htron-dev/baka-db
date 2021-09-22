@@ -1,5 +1,7 @@
 # Honto ni Honto ni Honto ni Honto ni Lion da!
 
+![honto-ni-honto-ni-honto-ni-honto-ni-lion-da](https://cdn.myanimelist.net/images/manga/2/143381.jpg)
+
 -   **type**: manga
 -   **original-name**: ほんとにほんとにほんとにほんとにライオン田!
 -   **start-date**: 2012-06-04

@@ -1,5 +1,7 @@
 # Fujoshi Kouryuuki: Around 30 x JK
 
+![fujoshi-kouryuuki-around-30-x-jk](https://cdn.myanimelist.net/images/manga/1/224122.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 41

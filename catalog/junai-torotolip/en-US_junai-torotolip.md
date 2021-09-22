@@ -1,5 +1,7 @@
 # Junai Torotolip
 
+![junai-torotolip](https://cdn.myanimelist.net/images/manga/2/165135.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Kedakaki Ouji no Itoshiki Dorei
 
+![kedakaki-ouji-no-itoshiki-dorei](https://cdn.myanimelist.net/images/manga/2/185110.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

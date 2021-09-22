@@ -1,5 +1,7 @@
 # Cardfight!! Vanguard: overDress Part 2
 
+![cardfight-vanguard-over-dress-part-2](https://cdn.myanimelist.net/images/anime/1214/117705.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: カードファイト!! ヴァンガード overDress

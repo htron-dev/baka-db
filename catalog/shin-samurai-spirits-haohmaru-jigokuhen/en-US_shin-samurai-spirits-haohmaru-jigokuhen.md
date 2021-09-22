@@ -1,5 +1,7 @@
 # Shin Samurai Spirits: Haohmaru Jigokuhen
 
+![shin-samurai-spirits-haohmaru-jigokuhen](https://cdn.myanimelist.net/images/manga/2/38862.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 真サムライスピリッツ 覇王丸地獄変

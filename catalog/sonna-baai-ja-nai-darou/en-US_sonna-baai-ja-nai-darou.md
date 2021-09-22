@@ -1,5 +1,7 @@
 # Sonna Baai ja Nai Darou!
 
+![sonna-baai-ja-nai-darou](https://cdn.myanimelist.net/images/manga/2/150464.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

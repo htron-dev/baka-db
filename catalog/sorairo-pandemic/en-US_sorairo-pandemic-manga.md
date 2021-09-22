@@ -1,5 +1,7 @@
 # Sorairo Pandemic
 
+![sorairo-pandemic](https://cdn.myanimelist.net/images/manga/1/123865.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

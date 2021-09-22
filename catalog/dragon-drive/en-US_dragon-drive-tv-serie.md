@@ -1,5 +1,7 @@
 # Dragon Drive
 
+![dragon-drive](https://cdn.myanimelist.net/images/anime/1/2214.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 38
 -   **original-name**: ドラゴンドライブ

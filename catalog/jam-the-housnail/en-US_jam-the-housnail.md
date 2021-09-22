@@ -1,5 +1,7 @@
 # Jam the Housnail
 
+![jam-the-housnail](https://cdn.myanimelist.net/images/anime/9/70629.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 15
 -   **original-name**: ジャム・ザ・ハウスネイル

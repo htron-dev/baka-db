@@ -1,5 +1,7 @@
 # Bokura no Hentai
 
+![bokura-no-hentai](https://cdn.myanimelist.net/images/manga/1/167758.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 41

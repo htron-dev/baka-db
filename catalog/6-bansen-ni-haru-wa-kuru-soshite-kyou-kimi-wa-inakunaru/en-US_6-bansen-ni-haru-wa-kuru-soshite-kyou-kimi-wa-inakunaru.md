@@ -1,5 +1,7 @@
 # 6-bansen ni Haru wa Kuru. Soshite Kyou, Kimi wa Inakunaru.
 
+![6-bansen-ni-haru-wa-kuru-soshite-kyou-kimi-wa-inakunaru](https://cdn.myanimelist.net/images/manga/3/202991.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

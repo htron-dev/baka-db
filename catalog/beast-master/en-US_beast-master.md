@@ -1,5 +1,7 @@
 # Beast Master
 
+![beast-master](https://cdn.myanimelist.net/images/manga/2/169235.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Houkago no Tinker Bell
 
+![houkago-no-tinker-bell](https://cdn.myanimelist.net/images/anime/5/37213.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 放課後のティンカー・ベル

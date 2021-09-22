@@ -1,5 +1,7 @@
 # Little Busters!: Sekai no Saitou wa Ore ga Mamoru!
 
+![little-busters-sekai-no-saitou-wa-ore-ga-mamoru](https://cdn.myanimelist.net/images/anime/9/56461.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: リトルバスターズ！世界の斎藤は俺が守る！

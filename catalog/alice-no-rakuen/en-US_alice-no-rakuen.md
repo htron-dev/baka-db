@@ -1,5 +1,7 @@
 # Alice no Rakuen
 
+![alice-no-rakuen](https://cdn.myanimelist.net/images/manga/1/205493.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

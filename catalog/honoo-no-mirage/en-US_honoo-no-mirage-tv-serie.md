@@ -1,5 +1,7 @@
 # Honoo no Mirage
 
+![honoo-no-mirage](https://cdn.myanimelist.net/images/anime/3/22614.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 炎の蜃気楼 [ミラージュ]

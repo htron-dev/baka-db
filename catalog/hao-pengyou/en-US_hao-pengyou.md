@@ -1,5 +1,7 @@
 # Hao Pengyou
 
+![hao-pengyou](https://cdn.myanimelist.net/images/anime/1903/115652.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 好朋友

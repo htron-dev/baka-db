@@ -1,5 +1,7 @@
 # Kono Minikuku mo Utsukushii Sekai
 
+![kono-minikuku-mo-utsukushii-sekai](https://cdn.myanimelist.net/images/anime/10/21035.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: この醜くも美しい世界

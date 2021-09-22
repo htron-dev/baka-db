@@ -1,5 +1,7 @@
 # Alice-san to Masayoshi-kun wa Mukankei desu ka?
 
+![alice-san-to-masayoshi-kun-wa-mukankei-desu-ka](https://cdn.myanimelist.net/images/manga/2/84497.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ありすさんと正義くんは無関係ですか?
 -   **start-date**: 2011-06-01

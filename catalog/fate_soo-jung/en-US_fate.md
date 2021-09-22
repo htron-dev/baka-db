@@ -1,5 +1,7 @@
 # Fate
 
+![fate](https://cdn.myanimelist.net/images/manga/1/11996.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 13
 -   **original-name**: 인연

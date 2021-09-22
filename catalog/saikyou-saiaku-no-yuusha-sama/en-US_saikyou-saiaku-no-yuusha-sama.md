@@ -1,5 +1,7 @@
 # Saikyou Saiaku no Yuusha-sama
 
+![saikyou-saiaku-no-yuusha-sama](https://cdn.myanimelist.net/images/manga/3/186815.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 24

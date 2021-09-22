@@ -1,5 +1,7 @@
 # Monster Strike: Zoku Saishuu-banashi - Pandora no Hako
 
+![monster-strike-zoku-saishuu-banashi-pandora-no-hako](https://cdn.myanimelist.net/images/anime/2/84742.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: モンスターストライク 続・最終話「パンドラの箱」

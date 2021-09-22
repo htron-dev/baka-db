@@ -1,5 +1,7 @@
 # Cash Boy
 
+![cash-boy](https://cdn.myanimelist.net/images/manga/3/233810.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 25

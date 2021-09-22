@@ -1,5 +1,7 @@
 # Kamio Yui wa Kami wo Yui
 
+![kamio-yui-wa-kami-wo-yui](https://cdn.myanimelist.net/images/manga/3/219773.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 36

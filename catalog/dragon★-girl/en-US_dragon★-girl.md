@@ -1,5 +1,7 @@
 # Dragon★Girl
 
+![dragon★-girl](https://cdn.myanimelist.net/images/manga/3/205385.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

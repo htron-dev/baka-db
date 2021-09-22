@@ -1,5 +1,7 @@
 # Hyakka Mangekyou
 
+![hyakka-mangekyou](https://cdn.myanimelist.net/images/manga/2/192114.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

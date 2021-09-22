@@ -1,5 +1,7 @@
 # Precure All Stars GoGo Dream Live!
 
+![precure-all-stars-go-go-dream-live](https://cdn.myanimelist.net/images/anime/2/30615.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ちょ～短編 プリキュアオールスターズ GoGo ドリームライブ!

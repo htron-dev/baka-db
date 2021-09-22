@@ -1,5 +1,7 @@
 # Pokemon Best Wishes! Season 2: Decolora Adventure - Iris vs. Ibuki! Dragon Master e no Michi!!
 
+![pokemon-best-wishes-season-2-decolora-adventure-iris-vs-ibuki-dragon-master-e-no-michi](https://cdn.myanimelist.net/images/anime/10/60229.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: アイリス VS イブキ！ドラゴンマスターへの道！！

@@ -1,5 +1,7 @@
 # Ore no Himegutsu wo Haitekure
 
+![ore-no-himegutsu-wo-haitekure](https://cdn.myanimelist.net/images/manga/2/177358.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

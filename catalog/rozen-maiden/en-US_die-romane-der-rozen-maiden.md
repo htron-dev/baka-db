@@ -1,5 +1,7 @@
 # Die Romane der Rozen Maiden
 
+![die-romane-der-rozen-maiden](https://cdn.myanimelist.net/images/manga/3/151985.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: Die Romane der Rozen Maiden

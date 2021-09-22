@@ -1,5 +1,7 @@
 # Sora no Oto
 
+![sora-no-oto](https://cdn.myanimelist.net/images/manga/3/247504.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

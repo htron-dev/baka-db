@@ -1,5 +1,7 @@
 # Iiki no Ki
 
+![iiki-no-ki](https://cdn.myanimelist.net/images/manga/2/174434.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 24

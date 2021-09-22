@@ -1,5 +1,7 @@
 # Hanamitsu Torikaebaya Emaki: Dansou Kikoushi, Himitsu no Koi
 
+![hanamitsu-torikaebaya-emaki-dansou-kikoushi-himitsu-no-koi](https://cdn.myanimelist.net/images/manga/1/192504.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

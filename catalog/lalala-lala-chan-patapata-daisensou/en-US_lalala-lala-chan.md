@@ -1,5 +1,7 @@
 # Lalala Lala-chan
 
+![lalala-lala-chan](https://cdn.myanimelist.net/images/anime/1785/91151.jpg)
+
 -   **type**: ona
 -   **episodes**: 24
 -   **original-name**: ラララ ララちゃん

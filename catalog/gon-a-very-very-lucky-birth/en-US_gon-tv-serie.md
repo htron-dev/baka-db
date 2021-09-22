@@ -1,5 +1,7 @@
 # Gon
 
+![gon](https://cdn.myanimelist.net/images/anime/6/36931.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: ゴン
@@ -26,4 +28,4 @@ The Gon series features the completely wordless adventures of the irascible titl
 -   [Official Site](http://www.tv-tokyo.co.jp/anime/gon/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8997)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14078)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Gon_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Gon_%28manga%29)

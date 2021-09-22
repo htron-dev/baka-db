@@ -1,5 +1,7 @@
 # Gokushufudou
 
+![gokushufudou](https://cdn.myanimelist.net/images/anime/1535/117726.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: 極主夫道

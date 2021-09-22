@@ -1,5 +1,7 @@
 # Midara na Karada: Ikemen Kareshi no Gouin Choukyou
 
+![midara-na-karada-ikemen-kareshi-no-gouin-choukyou](https://cdn.myanimelist.net/images/manga/3/195841.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

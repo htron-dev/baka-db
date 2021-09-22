@@ -1,5 +1,7 @@
 # Meteor-san Strike desu!
 
+![meteor-san-strike-desu](https://cdn.myanimelist.net/images/manga/2/34406.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

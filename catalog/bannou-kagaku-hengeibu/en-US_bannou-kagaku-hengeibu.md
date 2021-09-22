@@ -1,5 +1,7 @@
 # Bannou Kagaku Hengeibu!
 
+![bannou-kagaku-hengeibu](https://cdn.myanimelist.net/images/manga/2/79361.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 万能化学変芸部!

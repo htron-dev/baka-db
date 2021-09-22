@@ -1,5 +1,7 @@
 # Innocent Rouge
 
+![innocent-rouge](https://cdn.myanimelist.net/images/manga/1/167646.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 88

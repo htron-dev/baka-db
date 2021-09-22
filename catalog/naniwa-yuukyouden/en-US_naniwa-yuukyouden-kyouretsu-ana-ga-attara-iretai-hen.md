@@ -1,5 +1,7 @@
 # Naniwa Yuukyouden: Kyouretsu! Ana ga Attara Iretai-hen
 
+![naniwa-yuukyouden-kyouretsu-ana-ga-attara-iretai-hen](https://cdn.myanimelist.net/images/anime/2/52765.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: なにわ遊侠伝: 強烈!アナがあったら入れたい篇

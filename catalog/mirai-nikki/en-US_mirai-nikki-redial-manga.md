@@ -1,5 +1,7 @@
 # Mirai Nikki: Redial
 
+![mirai-nikki-redial](https://cdn.myanimelist.net/images/manga/1/104119.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

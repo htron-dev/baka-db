@@ -1,5 +1,7 @@
 # Ikkitousen Will Drive
 
+![ikkitousen-will-drive](https://cdn.myanimelist.net/images/manga/1/160666.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

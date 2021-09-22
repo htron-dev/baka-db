@@ -1,5 +1,7 @@
 # Kagaku Bouken-tai Tansar 5
 
+![kagaku-bouken-tai-tansar-5](https://cdn.myanimelist.net/images/anime/1548/96339.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 34
 -   **original-name**: 科学冒険隊タンサー 5

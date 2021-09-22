@@ -1,5 +1,7 @@
 # Uchuu Kyoudai: Number Zero
 
+![uchuu-kyoudai-number-zero](https://cdn.myanimelist.net/images/anime/5/61639.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 宇宙兄弟#0[ナンバー・ゼロ]

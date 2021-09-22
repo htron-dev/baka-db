@@ -1,5 +1,7 @@
 # Dirty Pair: Bouryaku no 005-bin
 
+![dirty-pair-bouryaku-no-005-bin](https://cdn.myanimelist.net/images/anime/7/82031.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ダーティペア　謀略の００５便

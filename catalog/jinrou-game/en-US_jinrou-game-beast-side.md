@@ -1,5 +1,7 @@
 # Jinrou Game: Beast Side
 
+![jinrou-game-beast-side](https://cdn.myanimelist.net/images/manga/1/195261.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

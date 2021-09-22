@@ -1,5 +1,7 @@
 # Jiuzhou Feichang Dao
 
+![jiuzhou-feichang-dao](https://cdn.myanimelist.net/images/anime/1866/114691.jpg)
+
 -   **type**: ona
 -   **original-name**: 九州非常刀
 -   **rating**: None

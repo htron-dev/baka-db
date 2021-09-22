@@ -1,5 +1,7 @@
 # Tonari no Seki-kun
 
+![tonari-no-seki-kun](https://cdn.myanimelist.net/images/anime/9/55489.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 21
 -   **original-name**: となりの関くん

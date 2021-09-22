@@ -1,5 +1,7 @@
 # Gurechawanaidene
 
+![gurechawanaidene](https://cdn.myanimelist.net/images/manga/2/152448.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Bessatsu Kamen Rider Saber: Tanpen Katsudou Manga Shuu
 
+![bessatsu-kamen-rider-saber-tanpen-katsudou-manga-shuu](https://cdn.myanimelist.net/images/anime/1345/115576.jpg)
+
 -   **type**: ona
 -   **original-name**: 別冊仮面ライダーセイバー短編活動萬画集
 -   **start-date**: 2021-02-01

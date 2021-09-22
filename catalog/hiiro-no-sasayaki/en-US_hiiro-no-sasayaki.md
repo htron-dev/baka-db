@@ -1,5 +1,7 @@
 # Hiiro no Sasayaki
 
+![hiiro-no-sasayaki](https://cdn.myanimelist.net/images/manga/3/38912.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 緋色の囁き

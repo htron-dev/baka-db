@@ -1,5 +1,7 @@
 # Battle Club 2nd Stage
 
+![battle-club-2nd-stage](https://cdn.myanimelist.net/images/manga/2/9426.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

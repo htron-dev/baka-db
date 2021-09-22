@@ -1,5 +1,7 @@
 # s.CRY.ed Alteration I: Tao
 
+![s-cry-ed-alteration-i-tao](https://cdn.myanimelist.net/images/anime/9/36831.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: スクライド オルタレイション 前編 ＴＡＯ

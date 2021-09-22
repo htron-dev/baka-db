@@ -1,5 +1,7 @@
 # Idol no Oheya
 
+![idol-no-oheya](https://cdn.myanimelist.net/images/manga/2/125917.jpg)
+
 -   **type**: manga
 -   **original-name**: アイドルのお部屋
 

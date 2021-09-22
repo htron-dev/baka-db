@@ -1,5 +1,7 @@
 # Mahoutsukai Countdown
 
+![mahoutsukai-countdown](https://cdn.myanimelist.net/images/manga/2/240348.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

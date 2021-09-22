@@ -1,5 +1,7 @@
 # Murasakiiro no Qualia
 
+![murasakiiro-no-qualia](https://cdn.myanimelist.net/images/manga/2/130563.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

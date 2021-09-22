@@ -1,5 +1,7 @@
 # Iriya no Sora, UFO no Natsu
 
+![iriya-no-sora-ufo-no-natsu](https://cdn.myanimelist.net/images/manga/3/57189.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 17

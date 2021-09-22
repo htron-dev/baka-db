@@ -1,5 +1,7 @@
 # Captain Tsubasa
 
+![captain-tsubasa](https://cdn.myanimelist.net/images/manga/2/29157.jpg)
+
 -   **type**: manga
 -   **volumes**: 37
 -   **chapters**: 114

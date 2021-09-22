@@ -1,5 +1,7 @@
 # Hana yori Joshi
 
+![hana-yori-joshi](https://cdn.myanimelist.net/images/manga/3/174461.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

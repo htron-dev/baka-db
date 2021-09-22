@@ -1,5 +1,7 @@
 # Yume kara Sameta Ano Ko to wa Kitto Umaku Shaberenai
 
+![yume-kara-sameta-ano-ko-to-wa-kitto-umaku-shaberenai](https://cdn.myanimelist.net/images/manga/2/159721.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

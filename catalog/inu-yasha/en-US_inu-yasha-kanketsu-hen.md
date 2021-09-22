@@ -1,5 +1,7 @@
 # InuYasha: Kanketsu-hen
 
+![inu-yasha-kanketsu-hen](https://cdn.myanimelist.net/images/anime/7/75570.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 犬夜叉 完結編

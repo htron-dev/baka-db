@@ -1,5 +1,7 @@
 # Nejimakiboshi to Aoi Sora
 
+![nejimakiboshi-to-aoi-sora](https://cdn.myanimelist.net/images/manga/2/173805.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

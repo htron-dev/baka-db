@@ -1,5 +1,7 @@
 # Mieruko-chan
 
+![mieruko-chan](https://cdn.myanimelist.net/images/anime/1277/117155.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 見える子ちゃん
 -   **start-date**: 2021-10-20

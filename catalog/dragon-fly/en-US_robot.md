@@ -1,5 +1,7 @@
 # Robot
 
+![robot](https://cdn.myanimelist.net/images/manga/3/3128.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: 村田蓮爾責任編集 「robot」

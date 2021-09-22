@@ -1,5 +1,7 @@
 # Toshi Densetsu Monogatari Hikiko
 
+![toshi-densetsu-monogatari-hikiko](https://cdn.myanimelist.net/images/anime/7/15762.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 都市伝説物語　ひきこ

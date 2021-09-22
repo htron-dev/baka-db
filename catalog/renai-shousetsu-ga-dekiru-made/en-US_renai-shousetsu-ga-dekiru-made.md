@@ -1,5 +1,7 @@
 # Renai Shousetsu ga Dekiru Made
 
+![renai-shousetsu-ga-dekiru-made](https://cdn.myanimelist.net/images/manga/1/27290.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

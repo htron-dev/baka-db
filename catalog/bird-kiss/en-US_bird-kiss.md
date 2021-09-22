@@ -1,5 +1,7 @@
 # Bird Kiss
 
+![bird-kiss](https://cdn.myanimelist.net/images/manga/1/4325.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 30

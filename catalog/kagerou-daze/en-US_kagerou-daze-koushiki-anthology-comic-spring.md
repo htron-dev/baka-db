@@ -1,5 +1,7 @@
 # Kagerou Daze Koushiki Anthology Comic: Spring
 
+![kagerou-daze-koushiki-anthology-comic-spring](https://cdn.myanimelist.net/images/manga/3/140283.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

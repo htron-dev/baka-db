@@ -1,5 +1,7 @@
 # Totteoki no B.G.M.
 
+![totteoki-no-b-g-m](https://cdn.myanimelist.net/images/manga/2/19369.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: とっておきの B.G.M.

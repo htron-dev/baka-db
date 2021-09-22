@@ -1,5 +1,7 @@
 # Do-Re-Mi-Fa-Sol-La-Si-Do
 
+![do-re-mi-fa-sol-la-si-do](https://cdn.myanimelist.net/images/manga/4/37791.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 11

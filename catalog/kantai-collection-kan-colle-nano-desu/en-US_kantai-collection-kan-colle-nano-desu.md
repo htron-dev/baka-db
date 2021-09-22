@@ -1,5 +1,7 @@
 # Kantai Collection: KanColle nano desu!
 
+![kantai-collection-kan-colle-nano-desu](https://cdn.myanimelist.net/images/manga/3/125065.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

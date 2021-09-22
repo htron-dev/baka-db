@@ -1,5 +1,7 @@
 # Novalis: Kimi wa Boku no Chimera
 
+![novalis-kimi-wa-boku-no-chimera](https://cdn.myanimelist.net/images/manga/2/247133.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

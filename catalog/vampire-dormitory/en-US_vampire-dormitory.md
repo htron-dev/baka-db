@@ -1,5 +1,7 @@
 # Vampire Dormitory
 
+![vampire-dormitory](https://cdn.myanimelist.net/images/manga/2/220675.jpg)
+
 -   **type**: manga
 -   **original-name**: ヴァンパイア男子寮〈ドミトリー〉
 -   **start-date**: 2018-10-02

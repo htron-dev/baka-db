@@ -1,5 +1,7 @@
 # Seishun Panda!
 
+![seishun-panda](https://cdn.myanimelist.net/images/manga/3/152399.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

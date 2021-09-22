@@ -1,5 +1,7 @@
 # Pokemon Ranger to Umi no Ouji Manaphy
 
+![pokemon-ranger-to-umi-no-ouji-manaphy](https://cdn.myanimelist.net/images/manga/1/165765.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

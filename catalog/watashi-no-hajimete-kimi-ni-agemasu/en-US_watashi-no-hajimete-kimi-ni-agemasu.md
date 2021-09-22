@@ -1,5 +1,7 @@
 # Watashi no Hajimete, Kimi ni Agemasu.
 
+![watashi-no-hajimete-kimi-ni-agemasu](https://cdn.myanimelist.net/images/manga/1/223337.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 23

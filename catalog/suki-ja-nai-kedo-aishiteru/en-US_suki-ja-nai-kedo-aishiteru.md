@@ -1,5 +1,7 @@
 # Suki ja nai kedo Aishiteru
 
+![suki-ja-nai-kedo-aishiteru](https://cdn.myanimelist.net/images/manga/4/17278.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 36

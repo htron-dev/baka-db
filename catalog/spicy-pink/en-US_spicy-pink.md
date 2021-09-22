@@ -1,5 +1,7 @@
 # Spicy Pink
 
+![spicy-pink](https://cdn.myanimelist.net/images/manga/4/123913.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

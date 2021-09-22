@@ -1,5 +1,7 @@
 # Tekken
 
+![tekken](https://cdn.myanimelist.net/images/anime/6/4615.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 鉄拳

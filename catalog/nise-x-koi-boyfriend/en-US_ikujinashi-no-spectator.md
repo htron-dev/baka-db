@@ -1,5 +1,7 @@
 # Ikujinashi no Spectator
 
+![ikujinashi-no-spectator](https://cdn.myanimelist.net/images/manga/3/171992.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

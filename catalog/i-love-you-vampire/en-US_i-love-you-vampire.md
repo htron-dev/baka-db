@@ -1,5 +1,7 @@
 # I Love You, Vampire
 
+![i-love-you-vampire](https://cdn.myanimelist.net/images/manga/1/70769.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 -   **original-name**: 사랑해요 뱀파이어

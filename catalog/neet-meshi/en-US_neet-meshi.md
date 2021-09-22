@@ -1,5 +1,7 @@
 # NEET Meshi!
 
+![neet-meshi](https://cdn.myanimelist.net/images/manga/2/200504.jpg)
+
 -   **type**: manga
 -   **original-name**: ニートめし！
 -   **start-date**: 2016-05-02

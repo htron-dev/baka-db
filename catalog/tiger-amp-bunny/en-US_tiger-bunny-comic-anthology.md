@@ -1,5 +1,7 @@
 # Tiger & Bunny Comic Anthology
 
+![tiger-bunny-comic-anthology](https://cdn.myanimelist.net/images/manga/2/176448.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: TIGER & BUNNY コミックアンソロジー

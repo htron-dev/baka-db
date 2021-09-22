@@ -1,5 +1,7 @@
 # Amadare Koijouji: Sono Yubi de Watakushi wo Nurashite
 
+![amadare-koijouji-sono-yubi-de-watakushi-wo-nurashite](https://cdn.myanimelist.net/images/manga/3/194135.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

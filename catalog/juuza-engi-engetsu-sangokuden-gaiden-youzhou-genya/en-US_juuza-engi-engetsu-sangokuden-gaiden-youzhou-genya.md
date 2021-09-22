@@ -1,5 +1,7 @@
 # Juuza Engi: Engetsu Sangokuden - Gaiden Youzhou Genya
 
+![juuza-engi-engetsu-sangokuden-gaiden-youzhou-genya](https://cdn.myanimelist.net/images/anime/2/69969.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 十三支演義～偃月三国伝～ 外伝 幽州幻夜

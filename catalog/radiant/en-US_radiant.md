@@ -1,5 +1,7 @@
 # Radiant
 
+![radiant](https://cdn.myanimelist.net/images/anime/1318/95345.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 21
 -   **original-name**: ラディアン
@@ -30,4 +32,4 @@ Seth, a Sorcerer from Pompo Hills, sets out on an adventure to exterminate all t
 -   [Official Site](http://www.nhk.or.jp/anime/radiant/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13767)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20793)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Radiant_(TV_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Radiant_%28TV_series%29)

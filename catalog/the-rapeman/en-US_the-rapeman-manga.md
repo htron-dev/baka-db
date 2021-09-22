@@ -1,5 +1,7 @@
 # The Rapeman
 
+![the-rapeman](https://cdn.myanimelist.net/images/manga/3/146319.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 90

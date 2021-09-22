@@ -1,5 +1,7 @@
 # Drops
 
+![drops](https://cdn.myanimelist.net/images/manga/2/143449.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Tengujin
 
+![tengujin](https://cdn.myanimelist.net/images/manga/2/7246.jpg)
+
 -   **type**: manga
 -   **original-name**: 天狗神
 -   **start-date**: 2006-09-07

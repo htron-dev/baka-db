@@ -1,5 +1,7 @@
 # Penguin Highway
 
+![penguin-highway](https://cdn.myanimelist.net/images/manga/3/222954.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

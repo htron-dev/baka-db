@@ -1,5 +1,7 @@
 # Betsu ma - Betsu ni Iyarashi Imi Jyanakute Issho ni Sundemo Kamawanai yo Margaret
 
+![betsu-ma-betsu-ni-iyarashi-imi-jyanakute-issho-ni-sundemo-kamawanai-yo-margaret](https://cdn.myanimelist.net/images/manga/1/67051.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 別マ - 別にいやらしい意味じゃなくて一緒に住んでも構わないよマーガレット

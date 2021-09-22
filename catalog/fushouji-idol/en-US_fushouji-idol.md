@@ -1,5 +1,7 @@
 # Fushouji Idol
 
+![fushouji-idol](https://cdn.myanimelist.net/images/manga/2/238462.jpg)
+
 -   **type**: manga
 -   **original-name**: 不祥事アイドル
 -   **start-date**: 2019-07-06

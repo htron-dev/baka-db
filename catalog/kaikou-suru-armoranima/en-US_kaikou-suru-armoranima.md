@@ -1,5 +1,7 @@
 # Kaikou suru Armoranima
 
+![kaikou-suru-armoranima](https://cdn.myanimelist.net/images/manga/1/160683.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 邂逅する鎧骨少女〈アーマラニマ〉

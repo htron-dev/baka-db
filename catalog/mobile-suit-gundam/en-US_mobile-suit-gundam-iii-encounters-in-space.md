@@ -1,5 +1,7 @@
 # Mobile Suit Gundam III: Encounters in Space
 
+![mobile-suit-gundam-iii-encounters-in-space](https://cdn.myanimelist.net/images/anime/5/75774.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 機動戦士ガンダム Ⅲ 　めぐりあい宇宙編

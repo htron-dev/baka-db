@@ -1,5 +1,7 @@
 # Koi ni Hensuru Overwrite
 
+![koi-ni-hensuru-overwrite](https://cdn.myanimelist.net/images/manga/2/172022.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

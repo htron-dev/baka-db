@@ -1,5 +1,7 @@
 # Mahou Shoujo Lyrical Nanoha: The Movie 1st
 
+![mahou-shoujo-lyrical-nanoha-the-movie-1st](https://cdn.myanimelist.net/images/anime/1058/94433.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 魔法少女リリカルなのは The MOVIE 1st

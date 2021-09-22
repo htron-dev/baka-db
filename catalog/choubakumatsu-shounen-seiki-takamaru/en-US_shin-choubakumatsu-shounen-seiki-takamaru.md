@@ -1,5 +1,7 @@
 # Shin Choubakumatsu Shounen Seiki Takamaru
 
+![shin-choubakumatsu-shounen-seiki-takamaru](https://cdn.myanimelist.net/images/anime/11/56783.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 新・超幕末少年世紀タカマル

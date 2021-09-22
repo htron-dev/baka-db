@@ -1,5 +1,7 @@
 # Brothers Conflict OVA
 
+![brothers-conflict-ova](https://cdn.myanimelist.net/images/anime/13/66551.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: BROTHERS CONFLICT OVA

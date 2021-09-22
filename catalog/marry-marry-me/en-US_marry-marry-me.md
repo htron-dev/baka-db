@@ -1,5 +1,7 @@
 # Marry Marry Me!
 
+![marry-marry-me](https://cdn.myanimelist.net/images/manga/1/205516.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

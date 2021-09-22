@@ -1,5 +1,7 @@
 # Kakuen no Hinagiku
 
+![kakuen-no-hinagiku](https://cdn.myanimelist.net/images/manga/3/158227.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

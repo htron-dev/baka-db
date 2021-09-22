@@ -1,5 +1,7 @@
 # Kirameki☆Project
 
+![kirameki☆-project](https://cdn.myanimelist.net/images/anime/1/2495.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: きらめき ☆ プロジェクト

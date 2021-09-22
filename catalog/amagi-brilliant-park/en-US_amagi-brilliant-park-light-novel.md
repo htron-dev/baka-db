@@ -1,5 +1,7 @@
 # Amagi Brilliant Park
 
+![amagi-brilliant-park](https://cdn.myanimelist.net/images/manga/3/175109.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 40

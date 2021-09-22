@@ -1,5 +1,7 @@
 # Hyakka Zukan
 
+![hyakka-zukan](https://cdn.myanimelist.net/images/anime/8/17157.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ひゃっかずかん

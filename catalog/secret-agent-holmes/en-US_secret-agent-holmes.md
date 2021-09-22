@@ -1,5 +1,7 @@
 # Secret Agent Holmes
 
+![secret-agent-holmes](https://cdn.myanimelist.net/images/manga/3/32389.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 36

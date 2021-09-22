@@ -1,5 +1,7 @@
 # Imouto wa America-jin!?
 
+![imouto-wa-america-jin](https://cdn.myanimelist.net/images/manga/1/114807.jpg)
+
 -   **type**: manga
 -   **original-name**: 妹はアメリカ人!?
 -   **start-date**: 2013-04-22

@@ -1,5 +1,7 @@
 # Cardcaptor Sakura
 
+![cardcaptor-sakura](https://cdn.myanimelist.net/images/manga/1/173442.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 50

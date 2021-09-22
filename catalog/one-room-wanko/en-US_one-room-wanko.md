@@ -1,5 +1,7 @@
 # One Room Wanko
 
+![one-room-wanko](https://cdn.myanimelist.net/images/manga/3/207862.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

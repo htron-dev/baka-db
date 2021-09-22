@@ -1,5 +1,7 @@
 # Akuma Eigo: Shabereru Hito dake ga Shitteiru Kindan no Housoku
 
+![akuma-eigo-shabereru-hito-dake-ga-shitteiru-kindan-no-housoku](https://cdn.myanimelist.net/images/manga/1/231872.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

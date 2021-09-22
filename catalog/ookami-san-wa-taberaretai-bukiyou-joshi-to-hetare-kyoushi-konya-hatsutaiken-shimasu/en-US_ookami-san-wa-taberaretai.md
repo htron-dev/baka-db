@@ -1,5 +1,7 @@
 # Ookami-san wa Taberaretai
 
+![ookami-san-wa-taberaretai](https://cdn.myanimelist.net/images/anime/1020/108606.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 3
 -   **original-name**: オオカミさんは食べられたい

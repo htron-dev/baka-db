@@ -1,5 +1,7 @@
 # Xiong Chumo: Bian Xing Ji
 
+![xiong-chumo-bian-xing-ji](https://cdn.myanimelist.net/images/anime/1296/103231.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 熊出没·变形记

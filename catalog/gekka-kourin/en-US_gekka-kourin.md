@@ -1,5 +1,7 @@
 # Gekka Kourin
 
+![gekka-kourin](https://cdn.myanimelist.net/images/manga/3/79497.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

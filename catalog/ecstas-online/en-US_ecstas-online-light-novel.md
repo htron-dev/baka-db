@@ -1,5 +1,7 @@
 # Ecstas Online
 
+![ecstas-online](https://cdn.myanimelist.net/images/manga/3/181635.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 57

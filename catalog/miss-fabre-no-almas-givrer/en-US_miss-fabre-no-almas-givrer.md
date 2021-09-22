@@ -1,5 +1,7 @@
 # Miss Fabre no Almas Givrer
 
+![miss-fabre-no-almas-givrer](https://cdn.myanimelist.net/images/manga/1/197053.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 26

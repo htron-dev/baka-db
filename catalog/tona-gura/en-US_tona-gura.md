@@ -1,5 +1,7 @@
 # Tona-Gura!
 
+![tona-gura](https://cdn.myanimelist.net/images/manga/1/56907.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 87

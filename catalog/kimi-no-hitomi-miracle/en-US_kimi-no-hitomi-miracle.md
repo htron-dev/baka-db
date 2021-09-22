@@ -1,5 +1,7 @@
 # Kimi no Hitomi Miracle
 
+![kimi-no-hitomi-miracle](https://cdn.myanimelist.net/images/manga/1/26669.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 君の瞳はミラクル

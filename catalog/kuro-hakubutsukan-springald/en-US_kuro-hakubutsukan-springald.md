@@ -1,5 +1,7 @@
 # Kuro Hakubutsukan: Springald
 
+![kuro-hakubutsukan-springald](https://cdn.myanimelist.net/images/manga/3/161363.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

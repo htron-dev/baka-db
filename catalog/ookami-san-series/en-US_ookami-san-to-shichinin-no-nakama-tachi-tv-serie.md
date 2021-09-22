@@ -1,5 +1,7 @@
 # Ookami-san to Shichinin no Nakama-tachi
 
+![ookami-san-to-shichinin-no-nakama-tachi](https://cdn.myanimelist.net/images/anime/9/75240.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: オオカミさんと七人の仲間たち
@@ -29,4 +31,4 @@ Ookami-san to Shichinin no Nakama-tachi follows the everyday lives of the Otogi 
 -   [Official Site](http://www.otogi-bank.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7381)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11221)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Ōkami-san_(light_novels)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Ōkami-san_%28light_novels%29)

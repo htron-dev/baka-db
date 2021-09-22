@@ -1,5 +1,7 @@
 # Sensei nante Kirai desu.
 
+![sensei-nante-kirai-desu](https://cdn.myanimelist.net/images/manga/2/196978.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

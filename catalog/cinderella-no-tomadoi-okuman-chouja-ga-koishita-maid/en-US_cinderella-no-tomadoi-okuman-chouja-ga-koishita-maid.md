@@ -1,5 +1,7 @@
 # Cinderella no Tomadoi: Okuman Chouja ga Koishita Maid
 
+![cinderella-no-tomadoi-okuman-chouja-ga-koishita-maid](https://cdn.myanimelist.net/images/manga/2/182388.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

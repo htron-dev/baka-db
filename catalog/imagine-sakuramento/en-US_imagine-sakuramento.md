@@ -1,5 +1,7 @@
 # Imagine Sakuramento
 
+![imagine-sakuramento](https://cdn.myanimelist.net/images/manga/2/162922.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 15

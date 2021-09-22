@@ -1,5 +1,7 @@
 # Bishoujo Senshi Sailor Moon Eternal Movie 1 Recap
 
+![bishoujo-senshi-sailor-moon-eternal-movie-1-recap](https://cdn.myanimelist.net/images/anime/1899/111659.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 劇場版美少女戦士セーラームーン Eternal 前編 ダイジェスト

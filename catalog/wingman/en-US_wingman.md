@@ -1,5 +1,7 @@
 # Wingman
 
+![wingman](https://cdn.myanimelist.net/images/manga/2/200411.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 80

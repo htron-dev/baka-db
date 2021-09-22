@@ -1,5 +1,7 @@
 # Koishita node Cast shitemita
 
+![koishita-node-cast-shitemita](https://cdn.myanimelist.net/images/manga/2/228253.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋したので配信〈キャス〉してみた
 -   **start-date**: 2019-04-10

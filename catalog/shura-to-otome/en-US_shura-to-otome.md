@@ -1,5 +1,7 @@
 # Shura to Otome
 
+![shura-to-otome](https://cdn.myanimelist.net/images/manga/2/5381.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

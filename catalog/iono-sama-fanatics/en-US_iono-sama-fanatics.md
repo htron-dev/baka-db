@@ -1,5 +1,7 @@
 # Iono-sama Fanatics
 
+![iono-sama-fanatics](https://cdn.myanimelist.net/images/manga/2/15859.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

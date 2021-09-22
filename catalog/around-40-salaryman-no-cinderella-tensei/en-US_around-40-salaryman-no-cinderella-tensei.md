@@ -1,5 +1,7 @@
 # Around 40 Salaryman no Cinderella Tensei
 
+![around-40-salaryman-no-cinderella-tensei](https://cdn.myanimelist.net/images/manga/1/244967.jpg)
+
 -   **type**: manga
 -   **original-name**: アラフォーリーマンのシンデレラ転生
 -   **start-date**: 2019-11-19

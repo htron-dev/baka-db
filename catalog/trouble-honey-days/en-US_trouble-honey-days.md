@@ -1,5 +1,7 @@
 # Trouble Honey Days
 
+![trouble-honey-days](https://cdn.myanimelist.net/images/manga/1/10544.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

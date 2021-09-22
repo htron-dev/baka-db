@@ -1,5 +1,7 @@
 # Shaky Youth
 
+![shaky-youth](https://cdn.myanimelist.net/images/manga/2/25288.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 9
 -   **chapters**: 9

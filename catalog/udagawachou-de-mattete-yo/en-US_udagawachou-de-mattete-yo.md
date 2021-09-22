@@ -1,5 +1,7 @@
 # Udagawachou de Mattete yo.
 
+![udagawachou-de-mattete-yo](https://cdn.myanimelist.net/images/manga/1/77667.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

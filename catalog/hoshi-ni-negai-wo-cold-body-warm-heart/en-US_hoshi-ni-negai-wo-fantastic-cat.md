@@ -1,5 +1,7 @@
 # Hoshi ni Negai wo: Fantastic Cat
 
+![hoshi-ni-negai-wo-fantastic-cat](https://cdn.myanimelist.net/images/anime/13/67063.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 星に願いを Fantastic Cat

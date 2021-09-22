@@ -1,5 +1,7 @@
 # Daikirai no Saki kara Miteru
 
+![daikirai-no-saki-kara-miteru](https://cdn.myanimelist.net/images/manga/3/208337.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

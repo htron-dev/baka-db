@@ -1,5 +1,7 @@
 # Seishun Otome Banchou!
 
+![seishun-otome-banchou](https://cdn.myanimelist.net/images/manga/2/123885.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

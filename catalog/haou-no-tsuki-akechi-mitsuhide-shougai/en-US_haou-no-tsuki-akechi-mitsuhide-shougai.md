@@ -1,5 +1,7 @@
 # Haou no Tsuki - Akechi Mitsuhide Shougai
 
+![haou-no-tsuki-akechi-mitsuhide-shougai](https://cdn.myanimelist.net/images/manga/2/62741.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 覇王の月~明智光秀の生涯

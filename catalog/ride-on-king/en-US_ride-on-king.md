@@ -1,5 +1,7 @@
 # Ride-On King
 
+![ride-on-king](https://cdn.myanimelist.net/images/manga/3/215445.jpg)
+
 -   **type**: manga
 -   **original-name**: ライドンキング
 -   **start-date**: 2018-05-26

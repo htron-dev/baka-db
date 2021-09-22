@@ -1,5 +1,7 @@
 # Inazuma Eleven x Kaitou Gru no Tsuki Dorobou
 
+![inazuma-eleven-x-kaitou-gru-no-tsuki-dorobou](https://cdn.myanimelist.net/images/anime/5/89319.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: イナズマイレブン x 怪盗グルーの月泥棒

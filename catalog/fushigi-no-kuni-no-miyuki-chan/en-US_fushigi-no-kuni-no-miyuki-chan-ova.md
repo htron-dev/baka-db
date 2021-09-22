@@ -1,5 +1,7 @@
 # Fushigi no Kuni no Miyuki-chan
 
+![fushigi-no-kuni-no-miyuki-chan](https://cdn.myanimelist.net/images/anime/1187/110295.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 不思議の国の美幸ちゃん

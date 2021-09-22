@@ -1,5 +1,7 @@
 # Dekiai Shigan: Koibito wa Ori no Naka
 
+![dekiai-shigan-koibito-wa-ori-no-naka](https://cdn.myanimelist.net/images/manga/1/181632.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

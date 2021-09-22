@@ -1,5 +1,7 @@
 # Yokohama-eki SF
 
+![yokohama-eki-sf](https://cdn.myanimelist.net/images/manga/2/241528.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 13

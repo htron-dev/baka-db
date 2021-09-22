@@ -1,5 +1,7 @@
 # Gintama: Yorinuki Gintama-san on Theater 2D
 
+![gintama-yorinuki-gintama-san-on-theater-2-d](https://cdn.myanimelist.net/images/anime/1172/90571.jpg)
+
 -   **type**: movie
 -   **episodes**: 2
 -   **original-name**: 銀魂 よりぬき銀魂さんオンシアター 2D

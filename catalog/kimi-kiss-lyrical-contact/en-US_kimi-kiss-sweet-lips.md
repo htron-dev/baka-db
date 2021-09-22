@@ -1,5 +1,7 @@
 # KimiKiss: Sweet Lips
 
+![kimi-kiss-sweet-lips](https://cdn.myanimelist.net/images/manga/3/24159.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

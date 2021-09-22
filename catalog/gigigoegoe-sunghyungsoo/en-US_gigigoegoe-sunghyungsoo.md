@@ -1,5 +1,7 @@
 # Gigigoegoe Sunghyungsoo
 
+![gigigoegoe-sunghyungsoo](https://cdn.myanimelist.net/images/anime/1930/108989.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 기기괴괴-성형수

@@ -1,5 +1,7 @@
 # Xiao Liyu Lixian Ji
 
+![xiao-liyu-lixian-ji](https://cdn.myanimelist.net/images/anime/1305/90532.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 小鲤鱼历险记
@@ -9,7 +11,6 @@
 ## Tags
 
 -   adventure
-
 -   magic
 -   fantasy
 

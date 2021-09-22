@@ -1,5 +1,7 @@
 # Tasuuketsu: Judgement Assizes
 
+![tasuuketsu-judgement-assizes](https://cdn.myanimelist.net/images/anime/1572/110031.jpg)
+
 -   **type**: ova
 -   **original-name**: 多数欠 -Judgement Assizes-
 -   **start-date**: 2021-01-20

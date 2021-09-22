@@ -1,5 +1,7 @@
 # Ou Dorobou Jing
 
+![ou-dorobou-jing](https://cdn.myanimelist.net/images/manga/3/148389.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 39

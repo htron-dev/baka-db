@@ -1,5 +1,7 @@
 # Hakushaku no Karisome no Tsuma
 
+![hakushaku-no-karisome-no-tsuma](https://cdn.myanimelist.net/images/manga/1/229730.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 伯爵のかりそめの妻

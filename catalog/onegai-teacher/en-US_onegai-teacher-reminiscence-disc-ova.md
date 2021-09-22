@@ -1,5 +1,7 @@
 # Onegai☆Teacher: Reminiscence Disc
 
+![onegai☆-teacher-reminiscence-disc](https://cdn.myanimelist.net/images/anime/2/39945.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: おねがい ☆ ティーチャー Reminiscence ディスク

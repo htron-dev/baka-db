@@ -1,5 +1,7 @@
 # Koibumi Toiro
 
+![koibumi-toiro](https://cdn.myanimelist.net/images/manga/2/170154.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

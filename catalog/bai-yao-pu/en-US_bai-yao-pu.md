@@ -1,5 +1,7 @@
 # Bai Yao Pu
 
+![bai-yao-pu](https://cdn.myanimelist.net/images/anime/1403/108297.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 百妖谱

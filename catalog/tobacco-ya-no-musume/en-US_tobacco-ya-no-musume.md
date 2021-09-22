@@ -1,5 +1,7 @@
 # Tobacco-ya no Musume
 
+![tobacco-ya-no-musume](https://cdn.myanimelist.net/images/manga/2/44421.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

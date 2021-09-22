@@ -1,5 +1,7 @@
 # Aoni no Sora ni Ryuu wa Naku
 
+![aoni-no-sora-ni-ryuu-wa-naku](https://cdn.myanimelist.net/images/manga/3/118225.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: あおにの空に竜は哭く

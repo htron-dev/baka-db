@@ -1,5 +1,7 @@
 # One Punch Man Specials
 
+![one-punch-man-specials](https://cdn.myanimelist.net/images/anime/1452/97840.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: ワンパンマン

@@ -1,5 +1,7 @@
 # Dou Danjo!?
 
+![dou-danjo](https://cdn.myanimelist.net/images/manga/2/21936.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

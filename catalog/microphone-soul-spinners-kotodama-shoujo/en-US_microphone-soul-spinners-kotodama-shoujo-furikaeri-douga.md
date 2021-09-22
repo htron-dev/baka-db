@@ -1,5 +1,7 @@
 # Microphone Soul Spinners: Kotodama Shoujo - Furikaeri Douga
 
+![microphone-soul-spinners-kotodama-shoujo-furikaeri-douga](https://cdn.myanimelist.net/images/anime/1868/108907.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Microphone Soul Spinners ～言霊少女～ 振り返り動画

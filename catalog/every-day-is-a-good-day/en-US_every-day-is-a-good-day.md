@@ -1,5 +1,7 @@
 # Every Day Is a Good Day
 
+![every-day-is-a-good-day](https://cdn.myanimelist.net/images/manga/3/238956.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

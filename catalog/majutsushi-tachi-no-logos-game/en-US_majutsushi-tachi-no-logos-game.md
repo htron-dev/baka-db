@@ -1,5 +1,7 @@
 # Majutsushi-tachi no Logos Game
 
+![majutsushi-tachi-no-logos-game](https://cdn.myanimelist.net/images/manga/2/144673.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 19

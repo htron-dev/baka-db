@@ -1,5 +1,7 @@
 # Cobra: Magic Doll
 
+![cobra-magic-doll](https://cdn.myanimelist.net/images/manga/2/164541.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: COBRA マジックドール

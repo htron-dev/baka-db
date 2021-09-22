@@ -1,5 +1,7 @@
 # The Bride of the Water God
 
+![the-bride-of-the-water-god](https://cdn.myanimelist.net/images/manga/2/15078.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 24
 -   **chapters**: 176

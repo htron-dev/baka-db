@@ -1,5 +1,7 @@
 # Ginga Nagareboshi Gin
 
+![ginga-nagareboshi-gin](https://cdn.myanimelist.net/images/anime/3/47461.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 21
 -   **original-name**: 銀牙　流れ星銀

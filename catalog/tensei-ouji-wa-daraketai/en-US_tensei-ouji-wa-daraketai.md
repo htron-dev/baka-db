@@ -1,5 +1,7 @@
 # Tensei Ouji wa Daraketai
 
+![tensei-ouji-wa-daraketai](https://cdn.myanimelist.net/images/manga/1/215282.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

@@ -1,5 +1,7 @@
 # Tenma no Ketsuzoku
 
+![tenma-no-ketsuzoku](https://cdn.myanimelist.net/images/manga/3/1900.jpg)
+
 -   **type**: manga
 -   **volumes**: 24
 -   **original-name**: 天馬の血族

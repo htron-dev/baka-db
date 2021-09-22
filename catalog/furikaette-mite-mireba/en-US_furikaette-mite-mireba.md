@@ -1,5 +1,7 @@
 # Furikaette Mite Mireba?
 
+![furikaette-mite-mireba](https://cdn.myanimelist.net/images/manga/2/127897.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

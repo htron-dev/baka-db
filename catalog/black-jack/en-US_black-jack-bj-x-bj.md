@@ -1,5 +1,7 @@
 # Black Jack: BJ x bj
 
+![black-jack-bj-x-bj](https://cdn.myanimelist.net/images/manga/3/38342.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ブラック・ジャック B・J×bj

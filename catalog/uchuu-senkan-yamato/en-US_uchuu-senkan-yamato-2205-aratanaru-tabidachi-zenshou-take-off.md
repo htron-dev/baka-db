@@ -1,5 +1,7 @@
 # Uchuu Senkan Yamato 2205: Aratanaru Tabidachi - Zenshou: Take Off
 
+![uchuu-senkan-yamato-2205-aratanaru-tabidachi-zenshou-take-off](https://cdn.myanimelist.net/images/anime/1738/117036.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 宇宙戦艦ヤマト 2205 　新たなる旅立ち 前章 -TAKE OFF-

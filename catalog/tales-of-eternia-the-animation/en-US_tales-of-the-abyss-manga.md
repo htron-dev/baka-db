@@ -1,5 +1,7 @@
 # Tales of the Abyss
 
+![tales-of-the-abyss](https://cdn.myanimelist.net/images/manga/4/76233.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 53

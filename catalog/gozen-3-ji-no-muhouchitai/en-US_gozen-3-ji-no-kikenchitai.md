@@ -1,5 +1,7 @@
 # Gozen 3-ji no Kikenchitai
 
+![gozen-3-ji-no-kikenchitai](https://cdn.myanimelist.net/images/manga/1/143551.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

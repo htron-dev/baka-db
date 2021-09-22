@@ -1,5 +1,7 @@
 # Big Order (TV)
 
+![big-order-tv](https://cdn.myanimelist.net/images/anime/3/79913.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: ビッグオーダー

@@ -1,5 +1,7 @@
 # Gekai no Okiniiri
 
+![gekai-no-okiniiri](https://cdn.myanimelist.net/images/manga/3/39340.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

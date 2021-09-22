@@ -1,5 +1,7 @@
 # Christmas no Yuuwaku
 
+![christmas-no-yuuwaku](https://cdn.myanimelist.net/images/manga/1/227158.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: クリスマスの誘惑

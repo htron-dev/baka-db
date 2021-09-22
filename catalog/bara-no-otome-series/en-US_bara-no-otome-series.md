@@ -1,5 +1,7 @@
 # Bara no Otome Series
 
+![bara-no-otome-series](https://cdn.myanimelist.net/images/manga/2/170773.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 薔薇の乙女シリーズ
 -   **start-date**: 2014-12-04

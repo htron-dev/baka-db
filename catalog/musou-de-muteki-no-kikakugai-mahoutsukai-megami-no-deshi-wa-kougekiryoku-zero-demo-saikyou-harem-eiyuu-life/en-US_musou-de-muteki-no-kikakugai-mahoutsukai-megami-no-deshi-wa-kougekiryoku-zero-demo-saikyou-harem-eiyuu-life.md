@@ -1,5 +1,7 @@
 # Musou de Muteki no Kikakugai Mahoutsukai: Megami no Deshi wa Kougekiryoku Zero demo Saikyou Harem Eiyuu Life
 
+![musou-de-muteki-no-kikakugai-mahoutsukai-megami-no-deshi-wa-kougekiryoku-zero-demo-saikyou-harem-eiyuu-life](https://cdn.myanimelist.net/images/manga/1/230575.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

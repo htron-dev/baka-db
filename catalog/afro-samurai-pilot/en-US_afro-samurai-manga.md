@@ -1,5 +1,7 @@
 # Afro Samurai
 
+![afro-samurai](https://cdn.myanimelist.net/images/manga/5/25025.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

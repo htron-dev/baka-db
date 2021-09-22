@@ -1,5 +1,7 @@
 # Dakishimete Ii desu ka
 
+![dakishimete-ii-desu-ka](https://cdn.myanimelist.net/images/manga/1/29940.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

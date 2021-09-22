@@ -1,5 +1,7 @@
 # Elite!! - Expert Latitudinous Investigation Team
 
+![elite-expert-latitudinous-investigation-team](https://cdn.myanimelist.net/images/manga/1/250373.jpg)
+
 -   **type**: manga
 
 ## Tags

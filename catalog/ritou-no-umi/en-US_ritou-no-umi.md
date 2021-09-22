@@ -1,5 +1,7 @@
 # Ritou no Umi
 
+![ritou-no-umi](https://cdn.myanimelist.net/images/manga/2/73055.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Sarawarete Ai no Mori
 
+![sarawarete-ai-no-mori](https://cdn.myanimelist.net/images/manga/1/189192.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

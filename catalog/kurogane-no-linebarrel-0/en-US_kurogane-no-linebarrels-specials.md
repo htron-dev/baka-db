@@ -1,5 +1,7 @@
 # Kurogane no Linebarrels Specials
 
+![kurogane-no-linebarrels-specials](https://cdn.myanimelist.net/images/anime/7/25929.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 鉄のラインバレル

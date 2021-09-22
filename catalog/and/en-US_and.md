@@ -1,5 +1,7 @@
 # And...
 
+![and](https://cdn.myanimelist.net/images/manga/1/15450.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 -   **start-date**: 2008-01-20

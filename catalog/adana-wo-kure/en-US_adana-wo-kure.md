@@ -1,5 +1,7 @@
 # Adana wo Kure
 
+![adana-wo-kure](https://cdn.myanimelist.net/images/manga/2/240870.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

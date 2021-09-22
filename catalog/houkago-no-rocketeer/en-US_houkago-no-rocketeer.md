@@ -1,5 +1,7 @@
 # Houkago no Rocketeer
 
+![houkago-no-rocketeer](https://cdn.myanimelist.net/images/manga/1/172024.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

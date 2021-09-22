@@ -1,5 +1,7 @@
 # Isekai no Meikyuu Toshi de Chiyu Mahoutsukai Yattemasu
 
+![isekai-no-meikyuu-toshi-de-chiyu-mahoutsukai-yattemasu](https://cdn.myanimelist.net/images/manga/2/216076.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 73

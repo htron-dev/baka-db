@@ -1,5 +1,7 @@
 # Miss Boys!
 
+![miss-boys](https://cdn.myanimelist.net/images/manga/3/138757.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Miss Boys!

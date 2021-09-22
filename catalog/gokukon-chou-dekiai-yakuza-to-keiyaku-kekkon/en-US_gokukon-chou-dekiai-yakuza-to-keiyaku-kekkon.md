@@ -1,5 +1,7 @@
 # Gokukon: Chou Dekiai Yakuza to Keiyaku Kekkon!?
 
+![gokukon-chou-dekiai-yakuza-to-keiyaku-kekkon](https://cdn.myanimelist.net/images/manga/3/245729.jpg)
+
 -   **type**: manga
 -   **original-name**: 極婚～超溺愛ヤクザとケイヤク結婚!?～
 -   **start-date**: 2020-01-01

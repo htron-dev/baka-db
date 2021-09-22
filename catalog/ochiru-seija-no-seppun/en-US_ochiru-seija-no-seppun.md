@@ -1,5 +1,7 @@
 # Ochiru Seija no Seppun
 
+![ochiru-seija-no-seppun](https://cdn.myanimelist.net/images/manga/3/30016.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

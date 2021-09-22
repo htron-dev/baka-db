@@ -1,5 +1,7 @@
 # Alps no Shoujo Heidi: Heidi to Clara-hen
 
+![alps-no-shoujo-heidi-heidi-to-clara-hen](https://cdn.myanimelist.net/images/anime/9/26449.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アルプスの少女ハイジ ハイジとクララ編

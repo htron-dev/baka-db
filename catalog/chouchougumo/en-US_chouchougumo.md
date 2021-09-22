@@ -1,5 +1,7 @@
 # Chouchougumo
 
+![chouchougumo](https://cdn.myanimelist.net/images/manga/2/171445.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

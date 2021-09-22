@@ -1,5 +1,7 @@
 # Afro Samurai Pilot
 
+![afro-samurai-pilot](https://cdn.myanimelist.net/images/anime/3/67723.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: アフロサムライ

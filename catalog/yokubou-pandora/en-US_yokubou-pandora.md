@@ -1,5 +1,7 @@
 # Yokubou Pandora
 
+![yokubou-pandora](https://cdn.myanimelist.net/images/manga/2/224165.jpg)
+
 -   **type**: manga
 -   **original-name**: 欲望パンドラ
 -   **start-date**: 2017-07-25

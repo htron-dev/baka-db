@@ -1,5 +1,7 @@
 # Rokumon Tengai Mon Colle Knights Movie: Densetsu no Fire Dragon
 
+![rokumon-tengai-mon-colle-knights-movie-densetsu-no-fire-dragon](https://cdn.myanimelist.net/images/anime/13/10678.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 六門天外モンコレナイト〜伝説のファイアドラゴン〜

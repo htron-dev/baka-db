@@ -1,5 +1,7 @@
 # Uso Kano
 
+![uso-kano](https://cdn.myanimelist.net/images/manga/3/91183.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 66

@@ -1,5 +1,7 @@
 # Tom Sawyer
 
+![tom-sawyer](https://cdn.myanimelist.net/images/manga/2/13775.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

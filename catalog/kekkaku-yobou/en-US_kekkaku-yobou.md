@@ -1,5 +1,7 @@
 # Kekkaku Yobou
 
+![kekkaku-yobou](https://cdn.myanimelist.net/images/anime/9/85237.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 結核豫防

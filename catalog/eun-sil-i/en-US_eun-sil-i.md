@@ -1,5 +1,7 @@
 # Eun-sil-i
 
+![eun-sil-i](https://cdn.myanimelist.net/images/anime/10/72250.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 은실이

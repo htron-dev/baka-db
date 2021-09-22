@@ -1,5 +1,7 @@
 # Renai♥Cocktail
 
+![renai♥-cocktail](https://cdn.myanimelist.net/images/manga/2/181962.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

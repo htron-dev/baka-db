@@ -1,5 +1,7 @@
 # Watashi ni xx Shinasai!
 
+![watashi-ni-xx-shinasai](https://cdn.myanimelist.net/images/manga/2/155156.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 82

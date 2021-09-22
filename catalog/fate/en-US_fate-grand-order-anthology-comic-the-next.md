@@ -1,5 +1,7 @@
 # Fate/Grand Order Anthology Comic: The Next
 
+![fate-grand-order-anthology-comic-the-next](https://cdn.myanimelist.net/images/manga/2/240933.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 115

@@ -1,5 +1,7 @@
 # Bocchi the Rock!
 
+![bocchi-the-rock](https://cdn.myanimelist.net/images/anime/1130/112176.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ぼっち・ざ・ろっく！
 -   **rating**: None

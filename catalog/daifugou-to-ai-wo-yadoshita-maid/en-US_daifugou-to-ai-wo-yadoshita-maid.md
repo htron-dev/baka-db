@@ -1,5 +1,7 @@
 # Daifugou to Ai wo Yadoshita Maid
 
+![daifugou-to-ai-wo-yadoshita-maid](https://cdn.myanimelist.net/images/manga/3/227445.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 大富豪と愛を宿したメイド

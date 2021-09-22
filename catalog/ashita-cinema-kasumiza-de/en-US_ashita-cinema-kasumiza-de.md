@@ -1,5 +1,7 @@
 # Ashita, Cinema Kasumiza de
 
+![ashita-cinema-kasumiza-de](https://cdn.myanimelist.net/images/manga/1/226214.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

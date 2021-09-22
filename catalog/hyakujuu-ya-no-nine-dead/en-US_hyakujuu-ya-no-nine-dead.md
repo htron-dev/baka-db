@@ -1,5 +1,7 @@
 # Hyakujuu-ya no Nine Dead
 
+![hyakujuu-ya-no-nine-dead](https://cdn.myanimelist.net/images/manga/2/160659.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 百獣殺のナインデッド

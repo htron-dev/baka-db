@@ -1,5 +1,7 @@
 # Honeymoon wa Anata to
 
+![honeymoon-wa-anata-to](https://cdn.myanimelist.net/images/manga/3/63251.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

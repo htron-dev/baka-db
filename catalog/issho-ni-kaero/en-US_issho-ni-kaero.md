@@ -1,5 +1,7 @@
 # Issho ni Kaero.
 
+![issho-ni-kaero](https://cdn.myanimelist.net/images/manga/1/129547.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

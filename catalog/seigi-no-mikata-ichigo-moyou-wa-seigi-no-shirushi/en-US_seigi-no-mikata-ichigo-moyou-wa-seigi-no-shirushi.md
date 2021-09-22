@@ -1,5 +1,7 @@
 # Seigi no Mikata: Ichigo Moyou wa Seigi no Shirushi
 
+![seigi-no-mikata-ichigo-moyou-wa-seigi-no-shirushi](https://cdn.myanimelist.net/images/manga/1/161828.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

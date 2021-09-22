@@ -1,5 +1,7 @@
 # Riding Bean
 
+![riding-bean](https://cdn.myanimelist.net/images/anime/4/55505.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ライディング・ビーン

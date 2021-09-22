@@ -1,5 +1,7 @@
 # Meme Iroiro Yume no Tabi
 
+![meme-iroiro-yume-no-tabi](https://cdn.myanimelist.net/images/anime/2/53527.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 127
 -   **original-name**: ミームいろいろ夢の旅
@@ -11,7 +13,6 @@
 ## Tags
 
 -   adventure
-
 -   sci-fi
 
 ## Sinopse

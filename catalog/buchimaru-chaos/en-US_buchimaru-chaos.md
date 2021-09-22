@@ -1,5 +1,7 @@
 # Buchimaru Chaos
 
+![buchimaru-chaos](https://cdn.myanimelist.net/images/manga/2/199412.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

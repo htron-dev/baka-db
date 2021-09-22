@@ -1,5 +1,7 @@
 # Kouishou Radio
 
+![kouishou-radio](https://cdn.myanimelist.net/images/manga/1/105385.jpg)
+
 -   **type**: manga
 -   **original-name**: 後遺症ラジオ
 -   **start-date**: 2010-07-07

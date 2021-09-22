@@ -1,5 +1,7 @@
 # Kakushigoto
 
+![kakushigoto](https://cdn.myanimelist.net/images/manga/1/219888.jpg)
+
 -   **type**: manga
 -   **original-name**: か「」く「」し「」ご「」と「
 -   **start-date**: 2018-05-21

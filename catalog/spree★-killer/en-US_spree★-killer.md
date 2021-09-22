@@ -1,5 +1,7 @@
 # Spree★Killer
 
+![spree★-killer](https://cdn.myanimelist.net/images/manga/2/53487.jpg)
+
 -   **type**: manga
 -   **original-name**: SPREE★KILLER スプリーキラー
 -   **start-date**: 2011-07-23

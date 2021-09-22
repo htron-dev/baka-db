@@ -1,5 +1,7 @@
 # Iso Asobi
 
+![iso-asobi](https://cdn.myanimelist.net/images/manga/3/223165.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

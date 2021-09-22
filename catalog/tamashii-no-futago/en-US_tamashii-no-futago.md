@@ -1,5 +1,7 @@
 # Tamashii no Futago
 
+![tamashii-no-futago](https://cdn.myanimelist.net/images/manga/4/30073.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

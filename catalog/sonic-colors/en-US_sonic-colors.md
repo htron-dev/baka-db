@@ -1,5 +1,7 @@
 # Sonic Colors
 
+![sonic-colors](https://cdn.myanimelist.net/images/manga/2/37351.jpg)
+
 -   **type**: manga
 -   **chapters**: 12
 -   **original-name**: ソニック カラーズ

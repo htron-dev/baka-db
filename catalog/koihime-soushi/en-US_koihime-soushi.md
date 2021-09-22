@@ -1,5 +1,7 @@
 # Koihime Soushi
 
+![koihime-soushi](https://cdn.myanimelist.net/images/manga/1/4790.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

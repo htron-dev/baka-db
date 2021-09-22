@@ -1,5 +1,7 @@
 # Kabushikigaisha G-anime Saiyou Concept Movie
 
+![kabushikigaisha-g-anime-saiyou-concept-movie](https://cdn.myanimelist.net/images/anime/1388/102398.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 株式会社ジーアングル 採用コンセプトムービー

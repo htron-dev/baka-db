@@ -1,5 +1,7 @@
 # Tentou Mushi no Uta
 
+![tentou-mushi-no-uta](https://cdn.myanimelist.net/images/anime/12/51187.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 104
 -   **original-name**: てんとう虫の歌

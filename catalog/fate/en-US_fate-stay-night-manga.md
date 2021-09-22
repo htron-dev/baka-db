@@ -1,5 +1,7 @@
 # Fate/stay night
 
+![fate-stay-night](https://cdn.myanimelist.net/images/manga/2/115669.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 87

@@ -1,5 +1,7 @@
 # Houkago no Ouji-sama
 
+![houkago-no-ouji-sama](https://cdn.myanimelist.net/images/anime/3/63211.jpg)
+
 -   **type**: special
 -   **episodes**: 5
 -   **original-name**: 放課後の王子様

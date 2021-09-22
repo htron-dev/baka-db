@@ -1,5 +1,7 @@
 # Sono Kyori wo Chijimeruna
 
+![sono-kyori-wo-chijimeruna](https://cdn.myanimelist.net/images/manga/3/234768.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

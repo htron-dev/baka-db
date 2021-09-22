@@ -1,5 +1,7 @@
 # Tomodachi wo Tsukurou.
 
+![tomodachi-wo-tsukurou](https://cdn.myanimelist.net/images/manga/2/202121.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

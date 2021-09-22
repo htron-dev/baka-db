@@ -1,5 +1,7 @@
 # Konya wa Hanasanai
 
+![konya-wa-hanasanai](https://cdn.myanimelist.net/images/manga/2/227486.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 今夜は放さない

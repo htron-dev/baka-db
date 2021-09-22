@@ -1,5 +1,7 @@
 # Psychic Force
 
+![psychic-force](https://cdn.myanimelist.net/images/anime/1091/94164.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: サイキック フォース

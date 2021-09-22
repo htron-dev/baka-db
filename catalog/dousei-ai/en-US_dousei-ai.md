@@ -1,5 +1,7 @@
 # Dousei Ai
 
+![dousei-ai](https://cdn.myanimelist.net/images/manga/2/18158.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 66

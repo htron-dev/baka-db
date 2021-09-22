@@ -1,5 +1,7 @@
 # Prison School
 
+![prison-school](https://cdn.myanimelist.net/images/manga/2/102683.jpg)
+
 -   **type**: manga
 -   **volumes**: 28
 -   **chapters**: 278

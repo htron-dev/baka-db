@@ -1,5 +1,7 @@
 # Kuro x Hitsuji: 12-nin no Yasashii Koroshiya
 
+![kuro-x-hitsuji-12-nin-no-yasashii-koroshiya](https://cdn.myanimelist.net/images/manga/3/45099.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 黒 × 羊〜12 人の優しい殺し屋〜

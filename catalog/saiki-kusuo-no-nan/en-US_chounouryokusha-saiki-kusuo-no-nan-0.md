@@ -1,5 +1,7 @@
 # Chounouryokusha Saiki Kusuo no Ψ-nan 0
 
+![chounouryokusha-saiki-kusuo-no-ψ-nan-0](https://cdn.myanimelist.net/images/manga/2/95619.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

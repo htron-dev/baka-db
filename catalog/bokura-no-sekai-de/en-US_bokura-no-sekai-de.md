@@ -1,5 +1,7 @@
 # Bokura no Sekai de
 
+![bokura-no-sekai-de](https://cdn.myanimelist.net/images/manga/1/14682.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

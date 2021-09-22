@@ -1,5 +1,7 @@
 # Madobe no Kimi
 
+![madobe-no-kimi](https://cdn.myanimelist.net/images/manga/1/29808.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

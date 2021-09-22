@@ -1,5 +1,7 @@
 # Kuragehime
 
+![kuragehime](https://cdn.myanimelist.net/images/manga/3/149209.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 93

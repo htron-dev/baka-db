@@ -1,5 +1,7 @@
 # Kemurikusa (TV)
 
+![kemurikusa-tv](https://cdn.myanimelist.net/images/anime/1254/100472.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ケムリクサ

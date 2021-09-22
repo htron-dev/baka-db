@@ -1,5 +1,7 @@
 # Nakagami-ke no Ichizoku: Akuma Kuru
 
+![nakagami-ke-no-ichizoku-akuma-kuru](https://cdn.myanimelist.net/images/manga/2/131863.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

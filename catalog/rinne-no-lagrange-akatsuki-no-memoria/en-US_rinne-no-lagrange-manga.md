@@ -1,5 +1,7 @@
 # Rinne no Lagrange
 
+![rinne-no-lagrange](https://cdn.myanimelist.net/images/manga/1/166597.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

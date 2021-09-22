@@ -1,5 +1,7 @@
 # Mighty Orbots
 
+![mighty-orbots](https://cdn.myanimelist.net/images/anime/1415/92895.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: マイティ・オーボッツ

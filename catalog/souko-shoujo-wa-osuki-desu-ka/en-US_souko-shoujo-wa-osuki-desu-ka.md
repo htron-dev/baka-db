@@ -1,5 +1,7 @@
 # Souko Shoujo wa Osuki desu ka?
 
+![souko-shoujo-wa-osuki-desu-ka](https://cdn.myanimelist.net/images/manga/3/164658.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 装甲少女はお好きですか？

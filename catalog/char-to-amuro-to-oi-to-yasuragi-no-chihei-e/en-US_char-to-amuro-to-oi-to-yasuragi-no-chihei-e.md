@@ -1,5 +1,7 @@
 # Char to Amuro to Oi to: Yasuragi no Chihei e
 
+![char-to-amuro-to-oi-to-yasuragi-no-chihei-e](https://cdn.myanimelist.net/images/manga/1/236699.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 23

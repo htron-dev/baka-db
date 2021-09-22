@@ -1,5 +1,7 @@
 # Youkoso Lodoss-tou e!
 
+![youkoso-lodoss-tou-e](https://cdn.myanimelist.net/images/anime/7/61305.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ようこそロードス島へ！

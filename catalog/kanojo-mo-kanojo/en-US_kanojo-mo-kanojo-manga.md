@@ -1,5 +1,7 @@
 # Kanojo mo Kanojo
 
+![kanojo-mo-kanojo](https://cdn.myanimelist.net/images/manga/1/231307.jpg)
+
 -   **type**: manga
 -   **original-name**: カノジョも彼女
 -   **start-date**: 2020-03-04

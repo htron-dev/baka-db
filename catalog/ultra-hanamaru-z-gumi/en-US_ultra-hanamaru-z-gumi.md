@@ -1,5 +1,7 @@
 # Ultra Hanamaru Z-gumi
 
+![ultra-hanamaru-z-gumi](https://cdn.myanimelist.net/images/manga/1/36629.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

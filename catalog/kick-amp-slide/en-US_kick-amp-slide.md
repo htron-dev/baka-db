@@ -1,5 +1,7 @@
 # Kick &amp; Slide
 
+![kick-amp-slide](https://cdn.myanimelist.net/images/anime/1340/115899.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: KICK&SLIDE

@@ -1,5 +1,7 @@
 # Kawawawawawada
 
+![kawawawawawada](https://cdn.myanimelist.net/images/anime/8/88655.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: かわわわわわだ

@@ -1,5 +1,7 @@
 # Black Jack ONA
 
+![black-jack-ona](https://cdn.myanimelist.net/images/anime/5/17826.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: ブラック・ジャック(インターネット版)

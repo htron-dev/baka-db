@@ -1,5 +1,7 @@
 # Mayonaka no Jewel
 
+![mayonaka-no-jewel](https://cdn.myanimelist.net/images/manga/2/90871.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

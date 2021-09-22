@@ -1,5 +1,7 @@
 # Hime-hajike
 
+![hime-hajike](https://cdn.myanimelist.net/images/manga/3/202943.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 39

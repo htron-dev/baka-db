@@ -1,5 +1,7 @@
 # Anesan wa Iinchou
 
+![anesan-wa-iinchou](https://cdn.myanimelist.net/images/manga/3/181484.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 21

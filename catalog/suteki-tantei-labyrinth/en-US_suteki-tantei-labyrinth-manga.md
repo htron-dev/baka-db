@@ -1,5 +1,7 @@
 # Suteki Tantei Labyrinth
 
+![suteki-tantei-labyrinth](https://cdn.myanimelist.net/images/manga/2/184444.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 32

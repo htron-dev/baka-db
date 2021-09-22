@@ -1,5 +1,7 @@
 # Little Witch Academia: Mahoujikake no Parade
 
+![little-witch-academia-mahoujikake-no-parade](https://cdn.myanimelist.net/images/anime/12/75752.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: リトルウィッチアカデミア 魔法仕掛けのパレード

@@ -1,5 +1,7 @@
 # Trauma Quantum
 
+![trauma-quantum](https://cdn.myanimelist.net/images/manga/3/210816.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 36

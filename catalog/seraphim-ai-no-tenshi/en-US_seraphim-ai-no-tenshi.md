@@ -1,5 +1,7 @@
 # Seraphim Ai no Tenshi
 
+![seraphim-ai-no-tenshi](https://cdn.myanimelist.net/images/manga/3/18433.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **start-date**: 1988-01-19

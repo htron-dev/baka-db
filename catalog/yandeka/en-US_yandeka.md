@@ -1,5 +1,7 @@
 # Yandeka
 
+![yandeka](https://cdn.myanimelist.net/images/manga/2/165152.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

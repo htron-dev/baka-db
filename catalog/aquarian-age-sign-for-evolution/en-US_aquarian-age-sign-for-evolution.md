@@ -1,5 +1,7 @@
 # Aquarian Age: Sign for Evolution
 
+![aquarian-age-sign-for-evolution](https://cdn.myanimelist.net/images/anime/4/21141.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: アクエリアンエイジ Sign for Evolution

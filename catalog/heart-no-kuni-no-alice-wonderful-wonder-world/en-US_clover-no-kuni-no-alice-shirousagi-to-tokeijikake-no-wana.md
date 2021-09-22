@@ -1,5 +1,7 @@
 # Clover no Kuni no Alice: Shirousagi to Tokeijikake no Wana
 
+![clover-no-kuni-no-alice-shirousagi-to-tokeijikake-no-wana](https://cdn.myanimelist.net/images/manga/1/31377.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 9

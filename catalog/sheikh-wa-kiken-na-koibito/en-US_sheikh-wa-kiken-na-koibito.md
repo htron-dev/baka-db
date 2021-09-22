@@ -1,5 +1,7 @@
 # Sheikh wa Kiken na Koibito
 
+![sheikh-wa-kiken-na-koibito](https://cdn.myanimelist.net/images/manga/2/73889.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

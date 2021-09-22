@@ -1,5 +1,7 @@
 # Senpai, Danjite Koi dewa!
 
+![senpai-danjite-koi-dewa](https://cdn.myanimelist.net/images/manga/1/225419.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

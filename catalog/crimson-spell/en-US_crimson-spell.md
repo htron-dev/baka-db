@@ -1,5 +1,7 @@
 # Crimson Spell
 
+![crimson-spell](https://cdn.myanimelist.net/images/manga/3/171499.jpg)
+
 -   **type**: manga
 -   **original-name**: クリムゾン・スペル
 -   **start-date**: 2004-05-22

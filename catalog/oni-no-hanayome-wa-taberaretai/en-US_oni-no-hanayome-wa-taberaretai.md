@@ -1,5 +1,7 @@
 # Oni no Hanayome wa Taberaretai
 
+![oni-no-hanayome-wa-taberaretai](https://cdn.myanimelist.net/images/manga/2/243725.jpg)
+
 -   **type**: manga
 -   **original-name**: 鬼の花嫁は喰べられたい
 -   **start-date**: 2020-01-27

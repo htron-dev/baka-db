@@ -1,5 +1,7 @@
 # Yokohama Dungeon
 
+![yokohama-dungeon](https://cdn.myanimelist.net/images/manga/1/177950.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 横浜ダンジョン
 -   **start-date**: 2015-08-01

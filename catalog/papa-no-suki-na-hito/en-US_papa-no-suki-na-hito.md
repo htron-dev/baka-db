@@ -1,5 +1,7 @@
 # Papa no Suki na Hito
 
+![papa-no-suki-na-hito](https://cdn.myanimelist.net/images/manga/2/236958.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

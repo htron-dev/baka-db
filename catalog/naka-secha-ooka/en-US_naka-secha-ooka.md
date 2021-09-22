@@ -1,5 +1,7 @@
 # Naka Secha Ooka
 
+![naka-secha-ooka](https://cdn.myanimelist.net/images/manga/3/9410.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 泣かせちゃおーか

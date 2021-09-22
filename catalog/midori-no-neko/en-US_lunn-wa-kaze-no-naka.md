@@ -1,5 +1,7 @@
 # Lunn wa Kaze no Naka
 
+![lunn-wa-kaze-no-naka](https://cdn.myanimelist.net/images/anime/1281/99965.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: るんは風の中

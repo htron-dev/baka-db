@@ -1,5 +1,7 @@
 # Charisma AV Danyuu no Ore ga Omocha nanka de Iku Wake Nai!!!
 
+![charisma-av-danyuu-no-ore-ga-omocha-nanka-de-iku-wake-nai](https://cdn.myanimelist.net/images/manga/2/224547.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

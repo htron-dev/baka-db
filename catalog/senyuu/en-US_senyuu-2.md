@@ -1,5 +1,7 @@
 # Senyuu. 2
 
+![senyuu-2](https://cdn.myanimelist.net/images/anime/5/51879.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 戦勇。2

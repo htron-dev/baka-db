@@ -1,5 +1,7 @@
 # Code Geass: Hangyaku no Lelouch R2 Picture Drama - Last Moratorium
 
+![code-geass-hangyaku-no-lelouch-r-2-picture-drama-last-moratorium](https://cdn.myanimelist.net/images/anime/2/88062.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: コードギアス 反逆のルルーシュ 続編 ピクチャードラマ TURN 12.06 ラストモラトリアム

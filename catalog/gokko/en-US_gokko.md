@@ -1,5 +1,7 @@
 # Gokko
 
+![gokko](https://cdn.myanimelist.net/images/manga/3/239994.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 41

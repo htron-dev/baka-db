@@ -1,5 +1,7 @@
 # Toriaezu Densetsu no Yuusha no Densetsu
 
+![toriaezu-densetsu-no-yuusha-no-densetsu](https://cdn.myanimelist.net/images/manga/4/103715.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 11
 -   **chapters**: 68

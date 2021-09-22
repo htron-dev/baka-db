@@ -1,5 +1,7 @@
 # Kataomoi x Kataomoi
 
+![kataomoi-x-kataomoi](https://cdn.myanimelist.net/images/manga/2/193804.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

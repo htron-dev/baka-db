@@ -1,5 +1,7 @@
 # Kon na Panic
 
+![kon-na-panic](https://cdn.myanimelist.net/images/manga/2/10843.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: コンなパニック

@@ -1,5 +1,7 @@
 # Tabe-bu ni Ii ne!
 
+![tabe-bu-ni-ii-ne](https://cdn.myanimelist.net/images/manga/3/181974.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

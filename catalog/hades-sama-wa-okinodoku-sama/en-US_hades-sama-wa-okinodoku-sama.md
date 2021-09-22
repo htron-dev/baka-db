@@ -1,5 +1,7 @@
 # Hades-sama wa Okinodoku-sama
 
+![hades-sama-wa-okinodoku-sama](https://cdn.myanimelist.net/images/manga/3/205487.jpg)
+
 -   **type**: manga
 -   **original-name**: ハデスさまはお気の毒さま
 -   **start-date**: 2017-04-21

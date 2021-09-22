@@ -1,5 +1,7 @@
 # Kono Subarashiku Fukou de Shiawase na Sekai to Boku to!
 
+![kono-subarashiku-fukou-de-shiawase-na-sekai-to-boku-to](https://cdn.myanimelist.net/images/manga/2/128873.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: この素晴らしく不幸で幸せな世界と僕と！

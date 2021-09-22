@@ -1,5 +1,7 @@
 # Kanojo ga Inakunatta
 
+![kanojo-ga-inakunatta](https://cdn.myanimelist.net/images/manga/3/112795.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Yameru Toki mo Sukoyaka naru Toki mo
 
+![yameru-toki-mo-sukoyaka-naru-toki-mo](https://cdn.myanimelist.net/images/manga/3/241411.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

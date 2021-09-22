@@ -1,5 +1,7 @@
 # Nao Go Straight: Moudouken Hokou Shidouin
 
+![nao-go-straight-moudouken-hokou-shidouin](https://cdn.myanimelist.net/images/manga/3/205383.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 31

@@ -1,5 +1,7 @@
 # Mobile Suit Gundam Unicorn: Episode EX - 100 Years of Solitude
 
+![mobile-suit-gundam-unicorn-episode-ex-100-years-of-solitude](https://cdn.myanimelist.net/images/anime/4/62957.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 機動戦士ガンダム UC episode EX「百年の孤独」

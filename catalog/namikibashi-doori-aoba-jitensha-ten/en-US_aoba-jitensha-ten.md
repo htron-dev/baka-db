@@ -1,5 +1,7 @@
 # Aoba Jitensha-ten
 
+![aoba-jitensha-ten](https://cdn.myanimelist.net/images/manga/2/166490.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 144

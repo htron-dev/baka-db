@@ -1,5 +1,7 @@
 # Fujoshi ssu!
 
+![fujoshi-ssu](https://cdn.myanimelist.net/images/manga/2/97285.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 腐女子っス!

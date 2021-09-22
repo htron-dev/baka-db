@@ -1,5 +1,7 @@
 # Virtual-san wa Miteiru
 
+![virtual-san-wa-miteiru](https://cdn.myanimelist.net/images/anime/1429/98554.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: バーチャルさんはみている

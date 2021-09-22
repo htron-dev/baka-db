@@ -1,5 +1,7 @@
 # Macross 7 Movie: Ginga ga Ore wo Yondeiru!
 
+![macross-7-movie-ginga-ga-ore-wo-yondeiru](https://cdn.myanimelist.net/images/anime/8/80064.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 マクロス７　銀河がオレを呼んでいる！

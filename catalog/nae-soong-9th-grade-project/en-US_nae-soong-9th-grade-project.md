@@ -1,5 +1,7 @@
 # Nae-soong 9th grade Project
 
+![nae-soong-9th-grade-project](https://cdn.myanimelist.net/images/manga/3/28718.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 

@@ -1,5 +1,7 @@
 # Tachibanaya Hanjouki
 
+![tachibanaya-hanjouki](https://cdn.myanimelist.net/images/manga/1/229641.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

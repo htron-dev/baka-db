@@ -1,5 +1,7 @@
 # Hikaru no Go: Memories
 
+![hikaru-no-go-memories](https://cdn.myanimelist.net/images/anime/1264/99114.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ヒカルの碁 TV シリーズ超総集編「MEMORIES」

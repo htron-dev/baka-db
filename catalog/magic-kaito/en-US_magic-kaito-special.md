@@ -1,5 +1,7 @@
 # Magic Kaito
 
+![magic-kaito](https://cdn.myanimelist.net/images/anime/13/46095.jpg)
+
 -   **type**: special
 -   **episodes**: 12
 -   **original-name**: まじっく快斗

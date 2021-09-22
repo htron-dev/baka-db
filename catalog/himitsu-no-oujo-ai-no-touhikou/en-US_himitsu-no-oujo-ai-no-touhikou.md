@@ -1,5 +1,7 @@
 # Himitsu no Oujo, Ai no Touhikou
 
+![himitsu-no-oujo-ai-no-touhikou](https://cdn.myanimelist.net/images/manga/2/194925.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Gegege no Kitarou (1971)
 
+![gegege-no-kitarou-1971](https://cdn.myanimelist.net/images/anime/6/27399.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 45
 -   **original-name**: ゲゲゲの鬼太郎

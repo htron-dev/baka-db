@@ -1,5 +1,7 @@
 # Life☆Switch
 
+![life☆-switch](https://cdn.myanimelist.net/images/manga/2/20506.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

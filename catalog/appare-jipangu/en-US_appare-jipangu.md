@@ -1,5 +1,7 @@
 # Appare Jipangu!
 
+![appare-jipangu](https://cdn.myanimelist.net/images/manga/2/21025.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 10

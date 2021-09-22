@@ -1,5 +1,7 @@
 # Bokutachi wa Hanshoku wo Yameta
 
+![bokutachi-wa-hanshoku-wo-yameta](https://cdn.myanimelist.net/images/manga/3/241987.jpg)
+
 -   **type**: manga
 -   **original-name**: 僕たちは繁殖をやめた
 -   **start-date**: 2020-12-06

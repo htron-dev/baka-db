@@ -1,5 +1,7 @@
 # Attakai tte, Gohoubi da.
 
+![attakai-tte-gohoubi-da](https://cdn.myanimelist.net/images/anime/1538/104586.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: あったかいって、ごほうびだ。

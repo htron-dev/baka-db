@@ -1,5 +1,7 @@
 # Ayamachi wa Shinshi no Tashinami
 
+![ayamachi-wa-shinshi-no-tashinami](https://cdn.myanimelist.net/images/manga/2/233264.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

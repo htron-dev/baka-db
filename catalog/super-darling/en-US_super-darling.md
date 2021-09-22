@@ -1,5 +1,7 @@
 # Super Darling!
 
+![super-darling](https://cdn.myanimelist.net/images/manga/3/74055.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

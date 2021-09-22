@@ -1,5 +1,7 @@
 # Hellsing: Digest for Freaks
 
+![hellsing-digest-for-freaks](https://cdn.myanimelist.net/images/anime/7/26935.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: HELLSING I OVA DIGEST FOR FREAKS

@@ -1,5 +1,7 @@
 # Bad Company
 
+![bad-company](https://cdn.myanimelist.net/images/manga/3/18566.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

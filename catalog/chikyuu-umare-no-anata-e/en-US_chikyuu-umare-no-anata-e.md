@@ -1,5 +1,7 @@
 # Chikyuu Umare no Anata e
 
+![chikyuu-umare-no-anata-e](https://cdn.myanimelist.net/images/manga/1/147605.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # AI: Pato!
 
+![ai-pato](https://cdn.myanimelist.net/images/manga/1/22121.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

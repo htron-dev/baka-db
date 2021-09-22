@@ -1,5 +1,7 @@
 # Sherlock Holmes
 
+![sherlock-holmes](https://cdn.myanimelist.net/images/manga/3/46201.jpg)
+
 -   **type**: manga
 -   **original-name**: シャーロック・ホームズは影にささやく
 

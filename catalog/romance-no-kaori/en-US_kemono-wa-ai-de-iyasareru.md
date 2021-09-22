@@ -1,5 +1,7 @@
 # Kemono wa Ai de, Iyasareru
 
+![kemono-wa-ai-de-iyasareru](https://cdn.myanimelist.net/images/manga/1/73511.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

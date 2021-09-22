@@ -1,5 +1,7 @@
 # Sakurasou no Pet na Kanojo
 
+![sakurasou-no-pet-na-kanojo](https://cdn.myanimelist.net/images/manga/3/159576.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 49

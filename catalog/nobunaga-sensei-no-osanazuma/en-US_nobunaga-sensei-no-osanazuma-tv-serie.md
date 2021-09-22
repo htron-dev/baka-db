@@ -1,5 +1,7 @@
 # Nobunaga-sensei no Osanazuma
 
+![nobunaga-sensei-no-osanazuma](https://cdn.myanimelist.net/images/anime/1524/97286.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ノブナガ先生の幼な妻

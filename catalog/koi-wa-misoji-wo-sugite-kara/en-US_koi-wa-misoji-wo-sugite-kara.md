@@ -1,5 +1,7 @@
 # Koi wa Misoji wo Sugite kara
 
+![koi-wa-misoji-wo-sugite-kara](https://cdn.myanimelist.net/images/manga/2/20460.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

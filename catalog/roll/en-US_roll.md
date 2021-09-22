@@ -1,5 +1,7 @@
 # Roll
 
+![roll](https://cdn.myanimelist.net/images/anime/1176/96883.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ROLL

@@ -1,5 +1,7 @@
 # Ai ga Aru Nara Ii ja Nai
 
+![ai-ga-aru-nara-ii-ja-nai](https://cdn.myanimelist.net/images/manga/3/136473.jpg)
+
 -   **type**: manga
 -   **original-name**: 愛があるならいいじゃない
 -   **start-date**: 2014-04-14

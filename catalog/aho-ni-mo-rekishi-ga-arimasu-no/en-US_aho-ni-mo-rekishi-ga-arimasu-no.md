@@ -1,5 +1,7 @@
 # Aho ni mo Rekishi ga Arimasu no
 
+![aho-ni-mo-rekishi-ga-arimasu-no](https://cdn.myanimelist.net/images/manga/3/106069.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

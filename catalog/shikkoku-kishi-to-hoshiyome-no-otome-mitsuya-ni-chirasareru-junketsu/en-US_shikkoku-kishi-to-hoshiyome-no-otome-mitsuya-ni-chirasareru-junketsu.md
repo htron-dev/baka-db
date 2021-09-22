@@ -1,5 +1,7 @@
 # Shikkoku Kishi to Hoshiyome no Otome: Mitsuya ni Chirasareru Junketsu
 
+![shikkoku-kishi-to-hoshiyome-no-otome-mitsuya-ni-chirasareru-junketsu](https://cdn.myanimelist.net/images/manga/2/194486.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

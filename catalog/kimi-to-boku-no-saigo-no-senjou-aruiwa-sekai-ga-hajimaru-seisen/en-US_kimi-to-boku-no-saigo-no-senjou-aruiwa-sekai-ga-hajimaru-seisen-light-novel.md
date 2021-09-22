@@ -1,5 +1,7 @@
 # Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen
 
+![kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen](https://cdn.myanimelist.net/images/manga/2/196122.jpg)
+
 -   **type**: light-novel
 -   **original-name**: キミと僕の最後の戦場、あるいは世界が始まる聖戦
 -   **start-date**: 2017-05-20

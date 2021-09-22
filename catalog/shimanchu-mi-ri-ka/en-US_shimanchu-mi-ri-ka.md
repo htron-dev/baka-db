@@ -1,5 +1,7 @@
 # Shimanchu MiRiKa
 
+![shimanchu-mi-ri-ka](https://cdn.myanimelist.net/images/anime/6/28586.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 島んちゅ MiRiKa

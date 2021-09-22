@@ -1,5 +1,7 @@
 # White Blood
 
+![white-blood](https://cdn.myanimelist.net/images/manga/2/238421.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 화이트 블러드
 -   **start-date**: 2020-01-15

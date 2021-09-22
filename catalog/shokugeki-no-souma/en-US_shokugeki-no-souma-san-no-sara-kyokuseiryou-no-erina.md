@@ -1,5 +1,7 @@
 # Shokugeki no Souma: San no Sara - Kyokuseiryou no Erina
 
+![shokugeki-no-souma-san-no-sara-kyokuseiryou-no-erina](https://cdn.myanimelist.net/images/anime/1449/97894.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 食戟のソーマ 餐ノ皿 極星寮のえりな

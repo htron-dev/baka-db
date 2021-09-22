@@ -1,5 +1,7 @@
 # Fushigi na Somera-chan
 
+![fushigi-na-somera-chan](https://cdn.myanimelist.net/images/anime/7/76737.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 不思議なソメラちゃん

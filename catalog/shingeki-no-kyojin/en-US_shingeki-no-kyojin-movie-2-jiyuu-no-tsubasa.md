@@ -1,5 +1,7 @@
 # Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa
 
+![shingeki-no-kyojin-movie-2-jiyuu-no-tsubasa](https://cdn.myanimelist.net/images/anime/2/72510.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版「進撃の巨人」後編～自由の翼～

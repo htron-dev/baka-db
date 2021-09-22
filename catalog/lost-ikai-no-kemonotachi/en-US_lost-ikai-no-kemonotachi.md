@@ -1,5 +1,7 @@
 # Lost: Ikai no Kemonotachi
 
+![lost-ikai-no-kemonotachi](https://cdn.myanimelist.net/images/manga/2/4829.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

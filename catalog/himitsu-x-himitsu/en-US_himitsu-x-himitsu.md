@@ -1,5 +1,7 @@
 # Himitsu x Himitsu
 
+![himitsu-x-himitsu](https://cdn.myanimelist.net/images/manga/3/245469.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 30

@@ -1,5 +1,7 @@
 # Shin Kidou Senki Gundam Wing: Endless Waltz
 
+![shin-kidou-senki-gundam-wing-endless-waltz](https://cdn.myanimelist.net/images/manga/3/160509.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 新機動戦記ガンダムＷ〈ウイング〉 Endless Waltz

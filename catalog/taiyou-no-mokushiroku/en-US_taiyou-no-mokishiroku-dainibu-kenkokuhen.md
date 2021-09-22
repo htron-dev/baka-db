@@ -1,5 +1,7 @@
 # Taiyou no Mokishiroku Dainibu: Kenkokuhen
 
+![taiyou-no-mokishiroku-dainibu-kenkokuhen](https://cdn.myanimelist.net/images/manga/1/63459.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: 太陽の黙示録 第 2 部 建国編

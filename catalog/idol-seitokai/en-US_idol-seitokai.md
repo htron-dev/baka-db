@@ -1,5 +1,7 @@
 # Idol Seitokai!
 
+![idol-seitokai](https://cdn.myanimelist.net/images/manga/1/155784.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: アイドル生徒会!

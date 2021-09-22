@@ -1,5 +1,7 @@
 # Layla
 
+![layla](https://cdn.myanimelist.net/images/manga/1/95477.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

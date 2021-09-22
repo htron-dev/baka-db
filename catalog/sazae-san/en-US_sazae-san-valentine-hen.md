@@ -1,5 +1,7 @@
 # Sazae-san: Valentine-hen
 
+![sazae-san-valentine-hen](https://cdn.myanimelist.net/images/anime/1689/117165.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 1
 -   **original-name**: サザエさんバレンタインデースペシャル

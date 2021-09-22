@@ -1,5 +1,7 @@
 # Yomaiyamaiya no Kodomotachi
 
+![yomaiyamaiya-no-kodomotachi](https://cdn.myanimelist.net/images/manga/3/140029.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Colorful Mate
 
+![colorful-mate](https://cdn.myanimelist.net/images/manga/3/10895.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: カラフルメイト

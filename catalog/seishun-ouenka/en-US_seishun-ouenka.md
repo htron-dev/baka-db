@@ -1,5 +1,7 @@
 # Seishun, Ouenka
 
+![seishun-ouenka](https://cdn.myanimelist.net/images/manga/2/128959.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 青春、応援歌

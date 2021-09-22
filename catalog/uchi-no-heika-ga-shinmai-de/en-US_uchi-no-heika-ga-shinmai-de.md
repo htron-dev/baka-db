@@ -1,5 +1,7 @@
 # Uchi no Heika ga Shinmai de.
 
+![uchi-no-heika-ga-shinmai-de](https://cdn.myanimelist.net/images/manga/3/156882.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 28

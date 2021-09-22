@@ -1,5 +1,7 @@
 # Side Car Seigyohou
 
+![side-car-seigyohou](https://cdn.myanimelist.net/images/manga/2/19297.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

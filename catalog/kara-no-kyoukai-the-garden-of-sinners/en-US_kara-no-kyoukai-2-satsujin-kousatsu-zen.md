@@ -1,5 +1,7 @@
 # Kara no Kyoukai 2: Satsujin Kousatsu (Zen)
 
+![kara-no-kyoukai-2-satsujin-kousatsu-zen](https://cdn.myanimelist.net/images/anime/3/21737.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 空の境界 the Garden of sinners 第二章『殺人考察（前）』

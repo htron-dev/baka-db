@@ -1,5 +1,7 @@
 # Manga Kotowaja Jiten
 
+![manga-kotowaja-jiten](https://cdn.myanimelist.net/images/anime/11/80033.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 88
 -   **original-name**: まんがことわざ事典

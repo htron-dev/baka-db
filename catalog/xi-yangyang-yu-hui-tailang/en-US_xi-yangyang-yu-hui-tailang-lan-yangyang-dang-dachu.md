@@ -1,5 +1,7 @@
 # Xi Yangyang Yu Hui Tailang: Lan Yangyang Dang Dachu
 
+![xi-yangyang-yu-hui-tailang-lan-yangyang-dang-dachu](https://cdn.myanimelist.net/images/anime/1530/115275.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 喜羊羊與灰太狼之懶羊羊當大廚

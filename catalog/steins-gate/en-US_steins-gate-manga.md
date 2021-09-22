@@ -1,5 +1,7 @@
 # Steins Gate!
 
+![steins-gate](https://cdn.myanimelist.net/images/manga/1/121341.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11
@@ -17,13 +19,6 @@
 ## Authors
 
 -   nini (Story & Art)
-
-## Links
-
--   [My Anime list](https://myanimelist.net/manga/74335/Steins_Gate)
-    group of friends who have managed to customize their microwave into a device that can send text messages to the past. As they perform different experiments, an organization named SERN who has been doing their own research on time travel tracks them down and now the characters have to find a way to avoid being captured by them.
-
-(Source: Wikipedia)
 
 ## Links
 

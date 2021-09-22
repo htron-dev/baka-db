@@ -1,5 +1,7 @@
 # Joker no Kuni no Alice: Mahiru ni Miru Yume
 
+![joker-no-kuni-no-alice-mahiru-ni-miru-yume](https://cdn.myanimelist.net/images/manga/2/38208.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Wonder Beat Scramble
 
+![wonder-beat-scramble](https://cdn.myanimelist.net/images/anime/4/7436.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ワンダービート S(スクランブル)

@@ -1,5 +1,7 @@
 # Ginga Hyouryuu Vifam: Keito no Kioku - Namida no Dakkai Sakusen
 
+![ginga-hyouryuu-vifam-keito-no-kioku-namida-no-dakkai-sakusen](https://cdn.myanimelist.net/images/anime/8/59739.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 銀河漂流バイファム ケイトの記憶 涙の奪回作戦!!

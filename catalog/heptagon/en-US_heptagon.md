@@ -1,5 +1,7 @@
 # Heptagon
 
+![heptagon](https://cdn.myanimelist.net/images/manga/1/149663.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

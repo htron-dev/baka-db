@@ -1,5 +1,7 @@
 # El Shaddai Gaiden: Exodus
 
+![el-shaddai-gaiden-exodus](https://cdn.myanimelist.net/images/manga/3/193341.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

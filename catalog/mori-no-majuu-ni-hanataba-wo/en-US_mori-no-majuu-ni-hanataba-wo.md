@@ -1,5 +1,7 @@
 # Mori no Majuu ni Hanataba wo
 
+![mori-no-majuu-ni-hanataba-wo](https://cdn.myanimelist.net/images/manga/2/159503.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # BxB Brothers
 
+![bx-b-brothers](https://cdn.myanimelist.net/images/manga/3/662.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 70

@@ -1,5 +1,7 @@
 # Zenkamono
 
+![zenkamono](https://cdn.myanimelist.net/images/manga/3/215301.jpg)
+
 -   **type**: manga
 -   **original-name**: 前科者
 -   **start-date**: 2017-12-20

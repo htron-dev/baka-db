@@ -1,5 +1,7 @@
 # Daitoshokan no Hitsujikai
 
+![daitoshokan-no-hitsujikai](https://cdn.myanimelist.net/images/anime/9/75230.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 大図書館の羊飼い

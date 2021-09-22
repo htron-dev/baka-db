@@ -1,5 +1,7 @@
 # Heisei Umare 3
 
+![heisei-umare-3](https://cdn.myanimelist.net/images/manga/1/236299.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 平成生まれ 3

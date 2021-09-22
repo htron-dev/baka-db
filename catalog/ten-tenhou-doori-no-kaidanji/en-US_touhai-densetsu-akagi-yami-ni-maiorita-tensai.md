@@ -1,5 +1,7 @@
 # Touhai Densetsu Akagi: Yami ni Maiorita Tensai
 
+![touhai-densetsu-akagi-yami-ni-maiorita-tensai](https://cdn.myanimelist.net/images/anime/11/53587.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 闘牌伝説アカギ　闇に舞い降りた天才
@@ -30,4 +32,4 @@ When all hope seems lost, the game parlor is suddenly intruded upon by Shigeru A
 -   [Official Site](http://www.ntv.co.jp/akagi/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3446)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6294)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Akagi_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Akagi_%28manga%29)

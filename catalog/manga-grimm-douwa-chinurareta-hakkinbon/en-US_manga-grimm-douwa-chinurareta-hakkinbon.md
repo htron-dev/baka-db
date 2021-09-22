@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Chinurareta Hakkinbon
 
+![manga-grimm-douwa-chinurareta-hakkinbon](https://cdn.myanimelist.net/images/manga/1/137359.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

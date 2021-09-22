@@ -1,5 +1,7 @@
 # Mayonaka wa Dame yo
 
+![mayonaka-wa-dame-yo](https://cdn.myanimelist.net/images/manga/4/196189.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

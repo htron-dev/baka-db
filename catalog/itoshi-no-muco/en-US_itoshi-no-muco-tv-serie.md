@@ -1,5 +1,7 @@
 # Itoshi no Muco
 
+![itoshi-no-muco](https://cdn.myanimelist.net/images/anime/10/76473.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: いとしのムーコ

@@ -1,5 +1,7 @@
 # WXIII Kidou Keisatsu Patlabor
 
+![wxiii-kidou-keisatsu-patlabor](https://cdn.myanimelist.net/images/anime/1/1290.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: WXIII 機動警察パトレイバー

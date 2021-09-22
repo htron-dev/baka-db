@@ -1,5 +1,7 @@
 # 108 Ward Inside and Out: Make-Up Artist
 
+![108-ward-inside-and-out-make-up-artist](https://cdn.myanimelist.net/images/manga/1/73709.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 31

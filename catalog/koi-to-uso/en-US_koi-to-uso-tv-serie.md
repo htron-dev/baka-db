@@ -1,5 +1,7 @@
 # Koi to Uso
 
+![koi-to-uso](https://cdn.myanimelist.net/images/anime/5/86663.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 恋と嘘

@@ -1,5 +1,7 @@
 # Dies Irae: Irasshai Zonnenji
 
+![dies-irae-irasshai-zonnenji](https://cdn.myanimelist.net/images/anime/13/88198.jpg)
+
 -   **type**: ona
 -   **episodes**: 18
 -   **original-name**: 【Dies irae】「いらっしゃい雑念寺」
@@ -20,4 +22,4 @@ A picture drama parody of Dies Irae, but advertised as a radio-style drama. It p
 
 -   [My Anime list](https://myanimelist.net/anime/36521/Dies_Irae__Irasshai_Zonnenji)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11204)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Dies_irae_(visual_novel)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Dies_irae_%28visual_novel%29)

@@ -1,5 +1,7 @@
 # Saboten-kun
 
+![saboten-kun](https://cdn.myanimelist.net/images/manga/2/158686.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: サボテン君

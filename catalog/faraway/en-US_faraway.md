@@ -1,5 +1,7 @@
 # Faraway
 
+![faraway](https://cdn.myanimelist.net/images/manga/2/30033.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

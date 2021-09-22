@@ -1,5 +1,7 @@
 # Daigishi no Ichizoku
 
+![daigishi-no-ichizoku](https://cdn.myanimelist.net/images/manga/2/154731.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

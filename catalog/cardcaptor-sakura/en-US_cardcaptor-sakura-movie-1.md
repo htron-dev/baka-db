@@ -1,5 +1,7 @@
 # Cardcaptor Sakura Movie 1
 
+![cardcaptor-sakura-movie-1](https://cdn.myanimelist.net/images/anime/1733/90336.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 カードキャプターさくら

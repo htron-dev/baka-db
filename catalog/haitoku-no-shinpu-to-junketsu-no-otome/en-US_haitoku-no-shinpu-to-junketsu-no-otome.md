@@ -1,5 +1,7 @@
 # Haitoku no Shinpu to Junketsu no Otome
 
+![haitoku-no-shinpu-to-junketsu-no-otome](https://cdn.myanimelist.net/images/manga/2/196289.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

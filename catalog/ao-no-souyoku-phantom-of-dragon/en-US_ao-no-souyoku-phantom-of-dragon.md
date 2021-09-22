@@ -1,5 +1,7 @@
 # Ao no Souyoku: Phantom of Dragon
 
+![ao-no-souyoku-phantom-of-dragon](https://cdn.myanimelist.net/images/manga/2/193146.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 青の双翼～ Phantom of Dragon ～

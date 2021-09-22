@@ -1,5 +1,7 @@
 # Water.
 
+![water](https://cdn.myanimelist.net/images/manga/2/3988.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 19

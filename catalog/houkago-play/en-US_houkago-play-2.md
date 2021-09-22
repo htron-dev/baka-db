@@ -1,5 +1,7 @@
 # Houkago Play 2
 
+![houkago-play-2](https://cdn.myanimelist.net/images/manga/2/31603.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

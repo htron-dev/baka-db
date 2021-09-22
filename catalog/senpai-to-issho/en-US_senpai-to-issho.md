@@ -1,5 +1,7 @@
 # Senpai to Issho
 
+![senpai-to-issho](https://cdn.myanimelist.net/images/manga/2/136409.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

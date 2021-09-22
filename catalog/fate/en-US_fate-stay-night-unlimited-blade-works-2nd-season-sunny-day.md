@@ -1,5 +1,7 @@
 # Fate/stay night: Unlimited Blade Works 2nd Season - Sunny Day
 
+![fate-stay-night-unlimited-blade-works-2nd-season-sunny-day](https://cdn.myanimelist.net/images/anime/4/75684.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Fate/stay night [Unlimited Blade Works] 新作映像「sunny day」

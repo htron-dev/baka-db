@@ -1,5 +1,7 @@
 # Gun-dou Musashi Recap
 
+![gun-dou-musashi-recap](https://cdn.myanimelist.net/images/anime/3/28267.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: GUN 道 MUSASHI

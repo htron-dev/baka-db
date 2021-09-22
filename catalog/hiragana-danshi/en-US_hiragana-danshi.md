@@ -1,5 +1,7 @@
 # Hiragana Danshi
 
+![hiragana-danshi](https://cdn.myanimelist.net/images/anime/1613/90733.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ひらがな男子

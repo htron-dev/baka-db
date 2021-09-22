@@ -1,5 +1,7 @@
 # Renai Senka
 
+![renai-senka](https://cdn.myanimelist.net/images/manga/2/92575.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 恋愛専科

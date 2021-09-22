@@ -1,5 +1,7 @@
 # Comic Party Revolution OVA
 
+![comic-party-revolution-ova](https://cdn.myanimelist.net/images/anime/12/24592.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: こみっくパーティー Revolution

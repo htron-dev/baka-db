@@ -1,5 +1,7 @@
 # Paniponi
 
+![paniponi](https://cdn.myanimelist.net/images/anime/5/70847.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 48
 -   **original-name**: パニポニ

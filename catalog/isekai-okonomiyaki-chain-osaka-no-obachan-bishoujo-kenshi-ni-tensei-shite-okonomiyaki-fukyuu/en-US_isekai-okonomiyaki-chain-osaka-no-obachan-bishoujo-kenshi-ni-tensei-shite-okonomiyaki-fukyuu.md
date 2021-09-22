@@ -1,5 +1,7 @@
 # Isekai Okonomiyaki Chain: Osaka no Obachan, Bishoujo Kenshi ni Tensei shite, Okonomiyaki Fukyuu!
 
+![isekai-okonomiyaki-chain-osaka-no-obachan-bishoujo-kenshi-ni-tensei-shite-okonomiyaki-fukyuu](https://cdn.myanimelist.net/images/manga/2/196710.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

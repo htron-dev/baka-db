@@ -1,5 +1,7 @@
 # Otona no Jikan
 
+![otona-no-jikan](https://cdn.myanimelist.net/images/manga/1/204443.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 28

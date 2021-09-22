@@ -1,5 +1,7 @@
 # Fushigi Yuugi: Genbu Kaiden
 
+![fushigi-yuugi-genbu-kaiden](https://cdn.myanimelist.net/images/manga/3/32088.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 40

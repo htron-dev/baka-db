@@ -1,5 +1,7 @@
 # Henai Café
 
+![henai-cafe](https://cdn.myanimelist.net/images/manga/3/232497.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 32

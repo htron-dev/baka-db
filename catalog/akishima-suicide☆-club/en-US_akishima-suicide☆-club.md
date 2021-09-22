@@ -1,5 +1,7 @@
 # Akishima Suicide☆Club
 
+![akishima-suicide☆-club](https://cdn.myanimelist.net/images/manga/2/199444.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

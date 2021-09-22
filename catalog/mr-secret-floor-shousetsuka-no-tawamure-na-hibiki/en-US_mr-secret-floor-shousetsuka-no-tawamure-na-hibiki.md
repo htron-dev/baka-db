@@ -1,5 +1,7 @@
 # Mr. Secret Floor - Shousetsuka no Tawamure na Hibiki
 
+![mr-secret-floor-shousetsuka-no-tawamure-na-hibiki](https://cdn.myanimelist.net/images/manga/3/31309.jpg)
+
 -   **type**: manga
 -   **original-name**: Mr.シークレットフロア 〜小説家の戯れなひびき〜
 -   **start-date**: 2010-02-28

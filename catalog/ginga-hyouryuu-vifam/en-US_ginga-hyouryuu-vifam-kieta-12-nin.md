@@ -1,5 +1,7 @@
 # Ginga Hyouryuu Vifam: Kieta 12-nin
 
+![ginga-hyouryuu-vifam-kieta-12-nin](https://cdn.myanimelist.net/images/anime/11/59747.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 銀河漂流バイファム 消えた 12 人

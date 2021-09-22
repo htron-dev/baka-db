@@ -1,5 +1,7 @@
 # Tensei shitara Slime Datta Ken 2nd Season Part 2
 
+![tensei-shitara-slime-datta-ken-2nd-season-part-2](https://cdn.myanimelist.net/images/anime/1548/116226.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 転生したらスライムだった件

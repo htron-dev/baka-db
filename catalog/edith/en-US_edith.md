@@ -1,5 +1,7 @@
 # Edith
 
+![edith](https://cdn.myanimelist.net/images/manga/4/29116.jpg)
+
 -   **type**: manga
 -   **original-name**: エディス
 -   **start-date**: 2008-08-20

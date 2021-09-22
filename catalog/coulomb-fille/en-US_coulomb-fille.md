@@ -1,5 +1,7 @@
 # Coulomb Fille
 
+![coulomb-fille](https://cdn.myanimelist.net/images/manga/3/129681.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

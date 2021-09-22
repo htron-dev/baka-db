@@ -1,5 +1,7 @@
 # Buta Koushaku ni Tensei shita kara, Kondo wa Kimi ni Suki to Iitai
 
+![buta-koushaku-ni-tensei-shita-kara-kondo-wa-kimi-ni-suki-to-iitai](https://cdn.myanimelist.net/images/manga/2/211958.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 豚公爵に転生したから、今度は君に好きと言いたい
 -   **start-date**: 2017-02-18

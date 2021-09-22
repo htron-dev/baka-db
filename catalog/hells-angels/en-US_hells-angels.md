@@ -1,5 +1,7 @@
 # Hells Angels
 
+![hells-angels](https://cdn.myanimelist.net/images/manga/3/74619.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

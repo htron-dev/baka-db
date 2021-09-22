@@ -1,5 +1,7 @@
 # Ensemble Stars! Picture Drama
 
+![ensemble-stars-picture-drama](https://cdn.myanimelist.net/images/anime/1993/103322.jpg)
+
 -   **type**: special
 -   **episodes**: 12
 -   **original-name**: あんさんぶるスターズ！ピクチャードラマ

@@ -1,5 +1,7 @@
 # Neko Kareshi
 
+![neko-kareshi](https://cdn.myanimelist.net/images/manga/3/225608.jpg)
+
 -   **type**: manga
 -   **original-name**: 猫彼氏
 -   **start-date**: 2016-08-31

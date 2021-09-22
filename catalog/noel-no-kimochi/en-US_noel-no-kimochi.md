@@ -1,5 +1,7 @@
 # Noel no Kimochi
 
+![noel-no-kimochi](https://cdn.myanimelist.net/images/manga/1/52183.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: ノエルの気持ち

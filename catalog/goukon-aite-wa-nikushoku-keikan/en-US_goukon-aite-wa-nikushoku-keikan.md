@@ -1,5 +1,7 @@
 # Goukon Aite wa Nikushoku Keikan!?
 
+![goukon-aite-wa-nikushoku-keikan](https://cdn.myanimelist.net/images/manga/1/237149.jpg)
+
 -   **type**: manga
 -   **original-name**: 合コン相手は肉食警官!?
 -   **start-date**: 2019-05-17

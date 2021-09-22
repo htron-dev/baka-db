@@ -1,5 +1,7 @@
 # Ijime Series
 
+![ijime-series](https://cdn.myanimelist.net/images/manga/2/161027.jpg)
+
 -   **type**: manga
 -   **original-name**: いじめ シリーズ
 -   **start-date**: 2005-05-02

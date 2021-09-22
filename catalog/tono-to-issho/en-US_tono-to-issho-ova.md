@@ -1,5 +1,7 @@
 # Tono to Issho
 
+![tono-to-issho](https://cdn.myanimelist.net/images/anime/5/18878.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 殿といっしょ

@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Rhythm de Teasobi - Anpanman to Fushigi na Parasol
 
+![sore-ike-anpanman-rhythm-de-teasobi-anpanman-to-fushigi-na-parasol](https://cdn.myanimelist.net/images/anime/6/67007.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ!アンパンマン リズムでてあそび アンパンマンとふしぎなパラソル
@@ -10,7 +12,6 @@
 ## Tags
 
 -   comedy
-
 -   fantasy
 
 ## Sinopse

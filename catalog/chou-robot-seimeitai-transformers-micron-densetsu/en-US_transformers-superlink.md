@@ -1,5 +1,7 @@
 # Transformers Superlink
 
+![transformers-superlink](https://cdn.myanimelist.net/images/anime/11/73878.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: トランスフォーマー スーパーリンク

@@ -1,5 +1,7 @@
 # 101-banme no Hyaku Monogatari
 
+![101-banme-no-hyaku-monogatari](https://cdn.myanimelist.net/images/manga/1/165226.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 51

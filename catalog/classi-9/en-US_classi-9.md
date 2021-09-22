@@ -1,5 +1,7 @@
 # Classi9
 
+![classi-9](https://cdn.myanimelist.net/images/manga/2/165910.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 26

@@ -1,5 +1,7 @@
 # CV:Heroine
 
+![cv-heroine](https://cdn.myanimelist.net/images/manga/3/114571.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: CV：ヒロイン

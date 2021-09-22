@@ -1,5 +1,7 @@
 # Boku wa Kanojo de Kanojo ni Muchuu!
 
+![boku-wa-kanojo-de-kanojo-ni-muchuu](https://cdn.myanimelist.net/images/manga/2/169750.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

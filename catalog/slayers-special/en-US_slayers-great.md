@@ -1,5 +1,7 @@
 # Slayers Great
 
+![slayers-great](https://cdn.myanimelist.net/images/anime/4/13097.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: スレーヤーズぐれえと

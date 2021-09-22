@@ -1,5 +1,7 @@
 # Hataraku Maou-sama!
 
+![hataraku-maou-sama](https://cdn.myanimelist.net/images/manga/3/160910.jpg)
+
 -   **type**: manga
 -   **original-name**: はたらく魔王さま!
 -   **start-date**: 2011-12-27

@@ -1,5 +1,7 @@
 # Honey Honey no Suteki na Bouken
 
+![honey-honey-no-suteki-na-bouken](https://cdn.myanimelist.net/images/anime/5/6927.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 29
 -   **original-name**: ハニーハニーのすてきな冒険

@@ -1,5 +1,7 @@
 # Canaan
 
+![canaan](https://cdn.myanimelist.net/images/manga/3/38834.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: カナン

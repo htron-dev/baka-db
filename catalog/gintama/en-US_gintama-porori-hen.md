@@ -1,5 +1,7 @@
 # Gintama.: Porori-hen
 
+![gintama-porori-hen](https://cdn.myanimelist.net/images/anime/11/88325.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 銀魂。ポロリ編

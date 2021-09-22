@@ -1,5 +1,7 @@
 # PPOI!
 
+![ppoi](https://cdn.myanimelist.net/images/manga/4/1175.jpg)
+
 -   **type**: manga
 -   **volumes**: 30
 

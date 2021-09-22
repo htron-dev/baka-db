@@ -1,5 +1,7 @@
 # Mijika na Koi dato Omou kedo
 
+![mijika-na-koi-dato-omou-kedo](https://cdn.myanimelist.net/images/manga/3/237578.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

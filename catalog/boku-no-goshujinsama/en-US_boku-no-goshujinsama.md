@@ -1,5 +1,7 @@
 # Boku no Goshujinsama
 
+![boku-no-goshujinsama](https://cdn.myanimelist.net/images/manga/1/15392.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

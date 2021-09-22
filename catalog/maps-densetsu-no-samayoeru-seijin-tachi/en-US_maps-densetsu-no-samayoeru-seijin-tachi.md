@@ -1,5 +1,7 @@
 # MAPS: Densetsu no Samayoeru Seijin-tachi
 
+![maps-densetsu-no-samayoeru-seijin-tachi](https://cdn.myanimelist.net/images/anime/11/47479.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: マップス 伝説のさまよえる星人たち
@@ -26,4 +28,4 @@ While looking for the ledgendary Mapman, the last surviving member of the Nomad 
 -   [My Anime list](https://myanimelist.net/anime/3183/MAPS__Densetsu_no_Samayoeru_Seijin-tachi)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2081)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=693)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Maps_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Maps_%28anime%29)

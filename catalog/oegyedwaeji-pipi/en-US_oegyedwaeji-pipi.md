@@ -1,5 +1,7 @@
 # Oegyedwaeji Pipi
 
+![oegyedwaeji-pipi](https://cdn.myanimelist.net/images/anime/1212/115550.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 외계돼지 피피

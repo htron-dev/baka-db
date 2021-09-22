@@ -1,9 +1,10 @@
 # Da Zuiba Dudu
 
+![da-zuiba-dudu](https://cdn.myanimelist.net/images/anime/11/27521.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 大嘴巴嘟嘟
-
 -   **rating**: PG - Children
 
 ## Tags

@@ -1,5 +1,7 @@
 # Looop
 
+![looop](https://cdn.myanimelist.net/images/manga/2/222564.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: LOOOP

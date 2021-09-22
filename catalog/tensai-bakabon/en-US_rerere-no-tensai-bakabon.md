@@ -1,5 +1,7 @@
 # Rerere no Tensai Bakabon
 
+![rerere-no-tensai-bakabon](https://cdn.myanimelist.net/images/anime/5/60847.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: レレレの天才バカボン

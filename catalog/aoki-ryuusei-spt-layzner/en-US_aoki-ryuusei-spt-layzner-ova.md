@@ -1,5 +1,7 @@
 # Aoki Ryuusei SPT Layzner OVA
 
+![aoki-ryuusei-spt-layzner-ova](https://cdn.myanimelist.net/images/anime/11/53335.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 蒼き流星 SPT レイズナー

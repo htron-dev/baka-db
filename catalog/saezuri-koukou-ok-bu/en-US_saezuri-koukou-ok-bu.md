@@ -1,5 +1,7 @@
 # Saezuri Koukou OK-bu!
 
+![saezuri-koukou-ok-bu](https://cdn.myanimelist.net/images/manga/3/166178.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 38

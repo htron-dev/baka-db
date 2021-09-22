@@ -1,5 +1,7 @@
 # Tengoku no Ragnarok
 
+![tengoku-no-ragnarok](https://cdn.myanimelist.net/images/manga/2/200621.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 33

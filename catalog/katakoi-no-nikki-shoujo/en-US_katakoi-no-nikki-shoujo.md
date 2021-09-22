@@ -1,5 +1,7 @@
 # Katakoi no Nikki Shoujo
 
+![katakoi-no-nikki-shoujo](https://cdn.myanimelist.net/images/manga/3/30956.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

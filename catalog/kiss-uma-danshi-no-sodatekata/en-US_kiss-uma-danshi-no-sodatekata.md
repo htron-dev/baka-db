@@ -1,5 +1,7 @@
 # Kiss-uma Danshi no Sodatekata
 
+![kiss-uma-danshi-no-sodatekata](https://cdn.myanimelist.net/images/manga/3/135469.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

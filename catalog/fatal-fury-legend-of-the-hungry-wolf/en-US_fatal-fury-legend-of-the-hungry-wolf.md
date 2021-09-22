@@ -1,5 +1,7 @@
 # Fatal Fury: Legend of the Hungry Wolf
 
+![fatal-fury-legend-of-the-hungry-wolf](https://cdn.myanimelist.net/images/anime/4/10212.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: バトルファイターズ餓狼伝説

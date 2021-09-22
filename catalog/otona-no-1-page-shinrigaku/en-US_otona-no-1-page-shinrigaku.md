@@ -1,5 +1,7 @@
 # Otona no 1 Page Shinrigaku
 
+![otona-no-1-page-shinrigaku](https://cdn.myanimelist.net/images/manga/2/45519.jpg)
+
 -   **type**: manga
 -   **original-name**: おとなの 1 ページ心理学
 

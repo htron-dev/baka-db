@@ -1,5 +1,7 @@
 # Dosei Mansion
 
+![dosei-mansion](https://cdn.myanimelist.net/images/manga/5/29230.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 64

@@ -1,5 +1,7 @@
 # Star x Fanboy
 
+![star-x-fanboy](https://cdn.myanimelist.net/images/manga/3/235693.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 19

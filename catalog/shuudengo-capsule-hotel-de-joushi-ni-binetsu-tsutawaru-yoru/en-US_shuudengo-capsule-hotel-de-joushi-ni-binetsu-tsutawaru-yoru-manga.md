@@ -1,5 +1,7 @@
 # Shuudengo, Capsule Hotel de, Joushi ni Binetsu Tsutawaru Yoru.
 
+![shuudengo-capsule-hotel-de-joushi-ni-binetsu-tsutawaru-yoru](https://cdn.myanimelist.net/images/manga/1/221708.jpg)
+
 -   **type**: manga
 -   **original-name**: 終電後、カプセルホテルで、上司に微熱伝わる夜。
 -   **start-date**: 2017-04-20

@@ -1,5 +1,7 @@
 # Umi no Mizu wa Naze Karai
 
+![umi-no-mizu-wa-naze-karai](https://cdn.myanimelist.net/images/anime/10/15839.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 海の水はなぜからい

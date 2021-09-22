@@ -1,5 +1,7 @@
 # Ao no Kanata no Four Rhythm
 
+![ao-no-kanata-no-four-rhythm](https://cdn.myanimelist.net/images/manga/3/172316.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

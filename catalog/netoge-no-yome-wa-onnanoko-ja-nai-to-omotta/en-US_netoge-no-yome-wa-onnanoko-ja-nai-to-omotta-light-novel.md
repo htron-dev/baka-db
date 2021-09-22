@@ -1,5 +1,7 @@
 # Netoge no Yome wa Onnanoko ja Nai to Omotta?
 
+![netoge-no-yome-wa-onnanoko-ja-nai-to-omotta](https://cdn.myanimelist.net/images/manga/3/175122.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ネトゲの嫁は女の子じゃないと思った?
 -   **start-date**: 2013-07-10

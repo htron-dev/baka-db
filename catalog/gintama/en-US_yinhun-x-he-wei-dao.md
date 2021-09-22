@@ -1,5 +1,7 @@
 # Yinhun x He Wei Dao
 
+![yinhun-x-he-wei-dao](https://cdn.myanimelist.net/images/anime/1494/105149.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: 银魂 X 合味道

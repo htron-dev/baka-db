@@ -1,5 +1,7 @@
 # The Manzai Comics
 
+![the-manzai-comics](https://cdn.myanimelist.net/images/manga/2/16512.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ザマンザイコミックス

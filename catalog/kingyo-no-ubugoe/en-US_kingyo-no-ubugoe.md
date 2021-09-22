@@ -1,5 +1,7 @@
 # Kingyo no Ubugoe
 
+![kingyo-no-ubugoe](https://cdn.myanimelist.net/images/manga/2/236128.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

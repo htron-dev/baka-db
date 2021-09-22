@@ -1,5 +1,7 @@
 # Mahou Shounen Majorian
 
+![mahou-shounen-majorian](https://cdn.myanimelist.net/images/manga/3/184782.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

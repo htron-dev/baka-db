@@ -1,5 +1,7 @@
 # Best of Best: Itou Junji Tanpenshuu
 
+![best-of-best-itou-junji-tanpenshuu](https://cdn.myanimelist.net/images/manga/1/237325.jpg)
+
 -   **type**: manga
 -   **chapters**: 5
 -   **original-name**: 伊藤潤二短編集 BEST OF BEST

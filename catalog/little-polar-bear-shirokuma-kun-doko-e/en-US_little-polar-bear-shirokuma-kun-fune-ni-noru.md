@@ -1,5 +1,7 @@
 # Little Polar Bear: Shirokuma-kun, Fune ni Noru
 
+![little-polar-bear-shirokuma-kun-fune-ni-noru](https://cdn.myanimelist.net/images/anime/3/64089.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: リトルポーラベア しろくまくん, ふねにのる

@@ -1,5 +1,7 @@
 # Panda no Daibouken
 
+![panda-no-daibouken](https://cdn.myanimelist.net/images/anime/1169/112826.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: パンダの大冒険

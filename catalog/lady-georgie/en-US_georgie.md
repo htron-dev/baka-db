@@ -1,5 +1,7 @@
 # Georgie
 
+![georgie](https://cdn.myanimelist.net/images/manga/1/186001.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 53

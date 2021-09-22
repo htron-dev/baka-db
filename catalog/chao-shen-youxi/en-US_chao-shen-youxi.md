@@ -1,5 +1,7 @@
 # Chao Shen Youxi
 
+![chao-shen-youxi](https://cdn.myanimelist.net/images/anime/10/81495.jpg)
+
 -   **type**: ona
 -   **episodes**: 25
 -   **original-name**: 超神游戏

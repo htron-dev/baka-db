@@ -1,5 +1,7 @@
 # Saijaku Shokushu no Gekokujou: Natte Misemasu Shikou no Niku Vibrator
 
+![saijaku-shokushu-no-gekokujou-natte-misemasu-shikou-no-niku-vibrator](https://cdn.myanimelist.net/images/manga/3/217236.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Teisei Nenki Maitreya
 
+![teisei-nenki-maitreya](https://cdn.myanimelist.net/images/manga/3/7708.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 6

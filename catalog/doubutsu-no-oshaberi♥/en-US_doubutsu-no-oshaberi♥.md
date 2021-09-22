@@ -1,5 +1,7 @@
 # Doubutsu no Oshaberi♥
 
+![doubutsu-no-oshaberi♥](https://cdn.myanimelist.net/images/manga/1/230679.jpg)
+
 -   **type**: manga
 -   **original-name**: 動物のおしゃべり ♥
 -   **start-date**: 2005-05-17

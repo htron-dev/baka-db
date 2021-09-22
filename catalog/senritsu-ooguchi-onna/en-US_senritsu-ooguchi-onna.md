@@ -1,5 +1,7 @@
 # Senritsu! Ooguchi Onna
 
+![senritsu-ooguchi-onna](https://cdn.myanimelist.net/images/manga/3/145175.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Aoki Shinwa Mars
 
+![aoki-shinwa-mars](https://cdn.myanimelist.net/images/manga/2/183442.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **original-name**: 蒼き神話マルス

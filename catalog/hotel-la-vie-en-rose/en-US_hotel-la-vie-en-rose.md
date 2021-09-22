@@ -1,5 +1,7 @@
 # Hotel la Vie en Rose
 
+![hotel-la-vie-en-rose](https://cdn.myanimelist.net/images/manga/3/95889.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

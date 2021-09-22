@@ -1,5 +1,7 @@
 # dwarf Movie Lab
 
+![dwarf-movie-lab](https://cdn.myanimelist.net/images/anime/13/88392.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: dwarf movie lab

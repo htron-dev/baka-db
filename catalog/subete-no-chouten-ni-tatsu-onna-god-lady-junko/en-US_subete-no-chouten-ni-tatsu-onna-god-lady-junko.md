@@ -1,5 +1,7 @@
 # Subete no Chouten ni Tatsu Onna God Lady Junko
 
+![subete-no-chouten-ni-tatsu-onna-god-lady-junko](https://cdn.myanimelist.net/images/manga/3/240862.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: すべての頂点に立つ女 ゴッドレディ純子

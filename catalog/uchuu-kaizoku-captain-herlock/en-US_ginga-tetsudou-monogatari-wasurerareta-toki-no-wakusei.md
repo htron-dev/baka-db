@@ -1,5 +1,7 @@
 # Ginga Tetsudou Monogatari: Wasurerareta Toki no Wakusei
 
+![ginga-tetsudou-monogatari-wasurerareta-toki-no-wakusei](https://cdn.myanimelist.net/images/anime/13/6905.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 銀河鉄道物語 ～忘れられた時の惑星～

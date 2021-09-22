@@ -1,5 +1,7 @@
 # Hakugei Densetsu
 
+![hakugei-densetsu](https://cdn.myanimelist.net/images/anime/1521/92985.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 白鯨伝説

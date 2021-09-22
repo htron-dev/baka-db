@@ -1,5 +1,7 @@
 # Love Blog!! Next
 
+![love-blog-next](https://cdn.myanimelist.net/images/manga/2/26793.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

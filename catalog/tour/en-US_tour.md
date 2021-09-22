@@ -1,5 +1,7 @@
 # Tour!
 
+![tour](https://cdn.myanimelist.net/images/manga/3/45487.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 70

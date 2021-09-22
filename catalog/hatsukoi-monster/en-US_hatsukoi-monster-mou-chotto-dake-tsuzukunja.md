@@ -1,5 +1,7 @@
 # Hatsukoi Monster: Mou Chotto dake Tsuzukunja
 
+![hatsukoi-monster-mou-chotto-dake-tsuzukunja](https://cdn.myanimelist.net/images/anime/2/81905.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 初恋モンスター もうちょっとだけ続くんじゃ

@@ -1,5 +1,7 @@
 # Persona 3 Portable Dengeki Comic Anthology
 
+![persona-3-portable-dengeki-comic-anthology](https://cdn.myanimelist.net/images/manga/1/40417.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

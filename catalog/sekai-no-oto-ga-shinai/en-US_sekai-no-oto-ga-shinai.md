@@ -1,5 +1,7 @@
 # Sekai no Oto ga Shinai
 
+![sekai-no-oto-ga-shinai](https://cdn.myanimelist.net/images/manga/3/207178.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

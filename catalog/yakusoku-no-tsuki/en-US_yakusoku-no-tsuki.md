@@ -1,5 +1,7 @@
 # Yakusoku no Tsuki
 
+![yakusoku-no-tsuki](https://cdn.myanimelist.net/images/manga/3/31111.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

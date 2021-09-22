@@ -1,5 +1,7 @@
 # Gochuumon wa Usagi Desu ka??: Sing for You
 
+![gochuumon-wa-usagi-desu-ka-sing-for-you](https://cdn.myanimelist.net/images/anime/1684/101030.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ご注文はうさぎですか?? ~Sing For You~

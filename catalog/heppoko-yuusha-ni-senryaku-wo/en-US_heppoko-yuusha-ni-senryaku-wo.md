@@ -1,5 +1,7 @@
 # Heppoko Yuusha ni Senryaku wo
 
+![heppoko-yuusha-ni-senryaku-wo](https://cdn.myanimelist.net/images/manga/3/207633.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 36

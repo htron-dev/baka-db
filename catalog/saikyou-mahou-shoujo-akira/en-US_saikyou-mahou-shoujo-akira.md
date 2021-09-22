@@ -1,5 +1,7 @@
 # Saikyou Mahou Shoujo Akira
 
+![saikyou-mahou-shoujo-akira](https://cdn.myanimelist.net/images/manga/3/126983.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 最強魔法少女あきら

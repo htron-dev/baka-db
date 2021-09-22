@@ -1,5 +1,7 @@
 # Shinigami! Tahyi-chan
 
+![shinigami-tahyi-chan](https://cdn.myanimelist.net/images/manga/2/224922.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 49

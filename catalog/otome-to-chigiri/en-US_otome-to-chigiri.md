@@ -1,5 +1,7 @@
 # Otome to Chigiri
 
+![otome-to-chigiri](https://cdn.myanimelist.net/images/manga/2/183864.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 乙女とちぎり

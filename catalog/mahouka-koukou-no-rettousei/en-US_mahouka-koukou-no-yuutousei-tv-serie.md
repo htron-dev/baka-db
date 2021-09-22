@@ -1,5 +1,7 @@
 # Mahouka Koukou no Yuutousei
 
+![mahouka-koukou-no-yuutousei](https://cdn.myanimelist.net/images/anime/1719/116262.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 魔法科高校の優等生

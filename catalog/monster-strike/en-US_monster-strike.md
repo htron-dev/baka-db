@@ -1,5 +1,7 @@
 # Monster Strike
 
+![monster-strike](https://cdn.myanimelist.net/images/anime/13/78835.jpg)
+
 -   **type**: ona
 -   **episodes**: 51
 -   **original-name**: モンスターストライク

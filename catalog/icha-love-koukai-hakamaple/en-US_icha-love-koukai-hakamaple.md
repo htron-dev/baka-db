@@ -1,5 +1,7 @@
 # Icha Love Koukai Hakamaple
 
+![icha-love-koukai-hakamaple](https://cdn.myanimelist.net/images/manga/2/227404.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

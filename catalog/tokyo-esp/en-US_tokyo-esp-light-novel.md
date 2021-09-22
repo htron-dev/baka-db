@@ -1,5 +1,7 @@
 # Tokyo ESP
 
+![tokyo-esp](https://cdn.myanimelist.net/images/manga/1/161345.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

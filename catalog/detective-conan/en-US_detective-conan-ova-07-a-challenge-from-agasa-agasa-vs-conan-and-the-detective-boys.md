@@ -1,5 +1,7 @@
 # Detective Conan OVA 07: A Challenge from Agasa! Agasa vs. Conan and the Detective Boys
 
+![detective-conan-ova-07-a-challenge-from-agasa-agasa-vs-conan-and-the-detective-boys](https://cdn.myanimelist.net/images/anime/12/31145.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン 阿笠からの挑戦状! 阿笠 vs コナン&少年探偵団

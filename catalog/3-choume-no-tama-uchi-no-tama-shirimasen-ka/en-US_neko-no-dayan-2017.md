@@ -1,5 +1,7 @@
 # Neko no Dayan (2017)
 
+![neko-no-dayan-2017](https://cdn.myanimelist.net/images/anime/10/89599.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 30
 -   **original-name**: 猫のダヤン (2017)

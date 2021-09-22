@@ -1,5 +1,7 @@
 # Asahina Hinata wa Sega-kun ga Suki
 
+![asahina-hinata-wa-sega-kun-ga-suki](https://cdn.myanimelist.net/images/manga/3/205462.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 28

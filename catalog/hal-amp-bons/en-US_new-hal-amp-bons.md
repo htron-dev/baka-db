@@ -1,5 +1,7 @@
 # New Hal &amp; Bons
 
+![new-hal-amp-bons](https://cdn.myanimelist.net/images/anime/4/5879.jpg)
+
 -   **type**: ova
 -   **episodes**: 9
 -   **original-name**: ＮＥＷ ハル＆ボンス

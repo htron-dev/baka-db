@@ -1,5 +1,7 @@
 # Detective Conan Movie: The Hellfire Sunflowers
 
+![detective-conan-movie-the-hellfire-sunflowers](https://cdn.myanimelist.net/images/manga/3/241174.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 

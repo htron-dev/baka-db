@@ -1,5 +1,7 @@
 # Shiawase no Jikan
 
+![shiawase-no-jikan](https://cdn.myanimelist.net/images/manga/1/229842.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 187

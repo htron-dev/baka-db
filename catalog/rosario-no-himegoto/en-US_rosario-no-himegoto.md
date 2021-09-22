@@ -1,5 +1,7 @@
 # Rosario no Himegoto
 
+![rosario-no-himegoto](https://cdn.myanimelist.net/images/manga/3/224583.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

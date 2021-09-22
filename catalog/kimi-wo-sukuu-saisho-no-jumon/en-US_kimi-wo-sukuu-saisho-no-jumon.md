@@ -1,5 +1,7 @@
 # Kimi wo Sukuu Saisho no Jumon
 
+![kimi-wo-sukuu-saisho-no-jumon](https://cdn.myanimelist.net/images/manga/1/163116.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Kon Kon KoKon
 
+![kon-kon-ko-kon](https://cdn.myanimelist.net/images/manga/3/5212.jpg)
+
 -   **type**: manga
 -   **original-name**: こんこんここん
 -   **start-date**: 2007-06-13

@@ -1,5 +1,7 @@
 # Fujimi 2-choume Koukyougakudan: Kanrei Zensen Conductor
 
+![fujimi-2-choume-koukyougakudan-kanrei-zensen-conductor](https://cdn.myanimelist.net/images/manga/1/19542.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

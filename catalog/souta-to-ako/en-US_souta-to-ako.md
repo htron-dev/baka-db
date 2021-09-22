@@ -1,5 +1,7 @@
 # Souta to Ako
 
+![souta-to-ako](https://cdn.myanimelist.net/images/manga/2/234130.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 22

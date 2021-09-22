@@ -1,5 +1,7 @@
 # Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.
 
+![keikenzumi-na-kimi-to-keiken-zero-na-ore-ga-otsukiai-suru-hanashi](https://cdn.myanimelist.net/images/manga/2/246509.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 経験済みなキミと、 経験ゼロなオレが、 お付き合いする話。
 -   **start-date**: 2020-09-19

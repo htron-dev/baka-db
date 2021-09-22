@@ -1,5 +1,7 @@
 # Shuukyoku Engage
 
+![shuukyoku-engage](https://cdn.myanimelist.net/images/manga/2/196751.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 47

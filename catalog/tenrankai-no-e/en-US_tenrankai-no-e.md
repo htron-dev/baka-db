@@ -1,5 +1,7 @@
 # Tenrankai no E
 
+![tenrankai-no-e](https://cdn.myanimelist.net/images/anime/1781/107246.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 展覧会の絵

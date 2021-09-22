@@ -1,5 +1,7 @@
 # Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu
 
+![ningen-fushin-no-boukensha-tachi-ga-sekai-wo-sukuu-you-desu](https://cdn.myanimelist.net/images/manga/2/230022.jpg)
+
 -   **type**: manga
 -   **original-name**: 人間不信の冒険者たちが世界を救うようです
 -   **start-date**: 2019-10-25

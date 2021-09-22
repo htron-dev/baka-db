@@ -1,5 +1,7 @@
 # Gate featuring The Starry Heavens
 
+![gate-featuring-the-starry-heavens](https://cdn.myanimelist.net/images/manga/2/179300.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

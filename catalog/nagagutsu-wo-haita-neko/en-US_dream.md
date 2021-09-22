@@ -1,5 +1,7 @@
 # Dream
 
+![dream](https://cdn.myanimelist.net/images/anime/1227/105610.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: Dream
@@ -10,7 +12,6 @@
 
 -   adventure
 -   music
-
 -   fantasy
 
 ## Sinopse

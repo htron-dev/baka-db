@@ -1,5 +1,7 @@
 # Gakuran Hachinengumi
 
+![gakuran-hachinengumi](https://cdn.myanimelist.net/images/manga/3/235829.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: ガクラン八年組

@@ -1,5 +1,7 @@
 # Shika to Kanta
 
+![shika-to-kanta](https://cdn.myanimelist.net/images/anime/8/72849.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: シカとカンタ

@@ -1,5 +1,7 @@
 # Komadori Eiga: Komaneko
 
+![komadori-eiga-komaneko](https://cdn.myanimelist.net/images/anime/1394/112307.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: こま撮りえいが こまねこ

@@ -1,5 +1,7 @@
 # Love Lab
 
+![love-lab](https://cdn.myanimelist.net/images/manga/2/95957.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 197

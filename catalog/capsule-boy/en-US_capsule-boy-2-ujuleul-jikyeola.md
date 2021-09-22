@@ -1,5 +1,7 @@
 # Capsule Boy 2: Ujuleul Jikyeola
 
+![capsule-boy-2-ujuleul-jikyeola](https://cdn.myanimelist.net/images/anime/1364/98275.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 캡슐보이2 우주를 지켜라

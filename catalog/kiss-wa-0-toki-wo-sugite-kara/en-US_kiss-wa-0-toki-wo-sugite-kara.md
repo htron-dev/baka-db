@@ -1,5 +1,7 @@
 # Kiss wa 0 Toki wo Sugite kara
 
+![kiss-wa-0-toki-wo-sugite-kara](https://cdn.myanimelist.net/images/manga/1/196199.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: キスは０時を過ぎてから

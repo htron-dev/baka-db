@@ -1,5 +1,7 @@
 # 50cm no Isshou
 
+![50-cm-no-isshou](https://cdn.myanimelist.net/images/manga/5/244397.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

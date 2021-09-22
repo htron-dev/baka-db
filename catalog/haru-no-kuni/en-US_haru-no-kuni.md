@@ -1,5 +1,7 @@
 # Haru no Kuni
 
+![haru-no-kuni](https://cdn.myanimelist.net/images/manga/3/80889.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 35

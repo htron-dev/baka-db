@@ -1,5 +1,7 @@
 # Kagerou Daze: In a Day's
 
+![kagerou-daze-in-a-days](https://cdn.myanimelist.net/images/anime/7/82013.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: カゲロウデイズ-in a day's-

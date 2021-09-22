@@ -1,5 +1,7 @@
 # Doraemon Plus
 
+![doraemon-plus](https://cdn.myanimelist.net/images/manga/1/149315.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 125

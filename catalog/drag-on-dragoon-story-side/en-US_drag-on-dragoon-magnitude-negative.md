@@ -1,5 +1,7 @@
 # Drag-On Dragoon: Magnitude "Negative"
 
+![drag-on-dragoon-magnitude-negative](https://cdn.myanimelist.net/images/manga/1/200916.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

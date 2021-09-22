@@ -1,5 +1,7 @@
 # Tsuioku no Apeiron
 
+![tsuioku-no-apeiron](https://cdn.myanimelist.net/images/manga/2/163692.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

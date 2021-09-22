@@ -1,5 +1,7 @@
 # See You Later, Mermaid
 
+![see-you-later-mermaid](https://cdn.myanimelist.net/images/manga/2/228676.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

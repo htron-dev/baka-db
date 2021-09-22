@@ -1,5 +1,7 @@
 # Mitsume Mokushiroku: Akuma Ouji Sharaku
 
+![mitsume-mokushiroku-akuma-ouji-sharaku](https://cdn.myanimelist.net/images/manga/2/227232.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

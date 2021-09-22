@@ -1,5 +1,7 @@
 # KimiKiss: After Days
 
+![kimi-kiss-after-days](https://cdn.myanimelist.net/images/manga/3/33597.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

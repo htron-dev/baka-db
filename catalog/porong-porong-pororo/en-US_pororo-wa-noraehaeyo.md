@@ -1,5 +1,7 @@
 # Pororo-wa Noraehaeyo
 
+![pororo-wa-noraehaeyo](https://cdn.myanimelist.net/images/anime/5/66619.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 14
 -   **original-name**: 뽀로로와 노래해요

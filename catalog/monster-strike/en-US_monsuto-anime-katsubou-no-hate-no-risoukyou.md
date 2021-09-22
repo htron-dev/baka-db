@@ -1,5 +1,7 @@
 # Monsuto Anime: Katsubou no Hate no Risoukyou
 
+![monsuto-anime-katsubou-no-hate-no-risoukyou](https://cdn.myanimelist.net/images/anime/3/84955.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: モンストアニメ 渇望の果ての理想郷

@@ -1,5 +1,7 @@
 # Aoi-kun ni wa Kanawanai
 
+![aoi-kun-ni-wa-kanawanai](https://cdn.myanimelist.net/images/manga/2/240198.jpg)
+
 -   **type**: manga
 -   **original-name**: 蒼井くんにはかなわない
 -   **start-date**: 2020-05-15

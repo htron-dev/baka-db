@@ -1,5 +1,7 @@
 # Mushoku Dokushin Arafoo Joshi no Isekai Funtouki
 
+![mushoku-dokushin-arafoo-joshi-no-isekai-funtouki](https://cdn.myanimelist.net/images/manga/2/157875.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 無職独身アラフォー女子の異世界奮闘記
 -   **start-date**: 2014-10-11

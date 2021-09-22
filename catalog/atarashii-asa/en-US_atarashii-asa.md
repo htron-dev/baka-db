@@ -1,5 +1,7 @@
 # Atarashii Asa
 
+![atarashii-asa](https://cdn.myanimelist.net/images/manga/2/31523.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

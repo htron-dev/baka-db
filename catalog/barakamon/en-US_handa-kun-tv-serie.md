@@ -1,5 +1,7 @@
 # Handa-kun
 
+![handa-kun](https://cdn.myanimelist.net/images/anime/4/80752.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: はんだくん

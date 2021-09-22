@@ -1,5 +1,7 @@
 # Yoake Mae yori Ruriiro na
 
+![yoake-mae-yori-ruriiro-na](https://cdn.myanimelist.net/images/manga/3/154238.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 夜明け前より瑠璃色な

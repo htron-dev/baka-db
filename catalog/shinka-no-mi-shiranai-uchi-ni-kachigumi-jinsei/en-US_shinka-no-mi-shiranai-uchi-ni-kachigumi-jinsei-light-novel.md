@@ -1,5 +1,7 @@
 # Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei
 
+![shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei](https://cdn.myanimelist.net/images/manga/2/177621.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 進化の実～知らないうちに勝ち組人生～
 -   **start-date**: 2014-09-30

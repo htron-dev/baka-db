@@ -1,5 +1,7 @@
 # Heartcatch Precure! Movie: Hana no Miyako de Fashion Show... Desu ka!?
 
+![heartcatch-precure-movie-hana-no-miyako-de-fashion-show-desu-ka](https://cdn.myanimelist.net/images/anime/5/25737.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ハートキャッチプリキュア！花の都でファッションショー・・・ですか！？
@@ -11,7 +13,6 @@
 ## Tags
 
 -   fantasy
-
 -   magic
 -   shoujo
 

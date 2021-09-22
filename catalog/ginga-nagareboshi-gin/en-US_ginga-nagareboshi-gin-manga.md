@@ -1,5 +1,7 @@
 # Ginga Nagareboshi Gin
 
+![ginga-nagareboshi-gin](https://cdn.myanimelist.net/images/manga/1/37649.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 55

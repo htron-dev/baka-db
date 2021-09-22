@@ -1,5 +1,7 @@
 # Hanayome ni Naru Hi
 
+![hanayome-ni-naru-hi](https://cdn.myanimelist.net/images/manga/1/227306.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 花嫁になる日

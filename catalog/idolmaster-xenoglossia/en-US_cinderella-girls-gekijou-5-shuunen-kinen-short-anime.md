@@ -1,5 +1,7 @@
 # Cinderella Girls Gekijou: 5 Shuunen Kinen Short Anime
 
+![cinderella-girls-gekijou-5-shuunen-kinen-short-anime](https://cdn.myanimelist.net/images/anime/4/83146.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: シンデレラガールズ劇場 5 周年記念ショートアニメ

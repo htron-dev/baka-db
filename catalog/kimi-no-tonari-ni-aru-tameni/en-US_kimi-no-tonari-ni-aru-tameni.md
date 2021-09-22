@@ -1,5 +1,7 @@
 # Kimi no Tonari ni Aru Tameni
 
+![kimi-no-tonari-ni-aru-tameni](https://cdn.myanimelist.net/images/manga/1/79555.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 君の隣りに在るために

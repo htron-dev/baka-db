@@ -1,5 +1,7 @@
 # Gegege no Kitarou: Kitarou Tanjou-hen
 
+![gegege-no-kitarou-kitarou-tanjou-hen](https://cdn.myanimelist.net/images/anime/4/63529.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 鬼太郎的誕生

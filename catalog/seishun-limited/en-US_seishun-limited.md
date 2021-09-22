@@ -1,5 +1,7 @@
 # Seishun Limited
 
+![seishun-limited](https://cdn.myanimelist.net/images/manga/2/144409.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

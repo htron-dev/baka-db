@@ -1,5 +1,7 @@
 # Mélimélo Marriage: Satou-hime wa Aimitsu ni Oboreru
 
+![melimelo-marriage-satou-hime-wa-aimitsu-ni-oboreru](https://cdn.myanimelist.net/images/manga/2/192362.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

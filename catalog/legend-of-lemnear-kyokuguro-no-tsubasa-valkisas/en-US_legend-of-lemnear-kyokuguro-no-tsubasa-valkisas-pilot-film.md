@@ -1,5 +1,7 @@
 # Legend of Lemnear: Kyokuguro no Tsubasa Valkisas Pilot Film
 
+![legend-of-lemnear-kyokuguro-no-tsubasa-valkisas-pilot-film](https://cdn.myanimelist.net/images/anime/1775/91153.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 極黒の翼 バルキサス　パイロット・フィルム

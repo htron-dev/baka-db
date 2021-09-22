@@ -1,5 +1,7 @@
 # Dan Doh!! Xi
 
+![dan-doh-xi](https://cdn.myanimelist.net/images/manga/4/76281.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **original-name**: ダンドー!!ザイ

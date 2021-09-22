@@ -1,5 +1,7 @@
 # Oneechan wa Koi Youkai
 
+![oneechan-wa-koi-youkai](https://cdn.myanimelist.net/images/manga/2/222767.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 100

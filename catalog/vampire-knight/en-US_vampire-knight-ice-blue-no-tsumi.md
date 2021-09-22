@@ -1,5 +1,7 @@
 # Vampire Knight: Ice Blue no Tsumi
 
+![vampire-knight-ice-blue-no-tsumi](https://cdn.myanimelist.net/images/manga/2/11267.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

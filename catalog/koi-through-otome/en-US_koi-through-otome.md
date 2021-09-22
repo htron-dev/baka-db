@@ -1,5 +1,7 @@
 # Koi Through Otome
 
+![koi-through-otome](https://cdn.myanimelist.net/images/manga/2/196511.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

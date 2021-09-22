@@ -1,5 +1,7 @@
 # Saki
 
+![saki](https://cdn.myanimelist.net/images/manga/3/50263.jpg)
+
 -   **type**: manga
 -   **original-name**: 咲-Saki-
 -   **start-date**: 2006-02-03

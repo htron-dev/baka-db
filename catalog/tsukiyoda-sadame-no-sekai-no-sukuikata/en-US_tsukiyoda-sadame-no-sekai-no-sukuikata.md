@@ -1,5 +1,7 @@
 # Tsukiyoda Sadame no Sekai no Sukuikata
 
+![tsukiyoda-sadame-no-sekai-no-sukuikata](https://cdn.myanimelist.net/images/manga/1/120685.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Umehara: Fighting Gamers!
 
+![umehara-fighting-gamers](https://cdn.myanimelist.net/images/manga/3/162643.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 81

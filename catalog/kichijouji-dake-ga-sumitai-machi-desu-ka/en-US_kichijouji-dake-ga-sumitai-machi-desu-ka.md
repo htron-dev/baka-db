@@ -1,5 +1,7 @@
 # Kichijouji dake ga Sumitai Machi desu ka?
 
+![kichijouji-dake-ga-sumitai-machi-desu-ka](https://cdn.myanimelist.net/images/manga/3/189242.jpg)
+
 -   **type**: manga
 -   **original-name**: 吉祥寺だけが住みたい街ですか？
 -   **start-date**: 2015-03-06

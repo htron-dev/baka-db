@@ -1,5 +1,7 @@
 # Arknights
 
+![arknights](https://cdn.myanimelist.net/images/anime/1216/109447.jpg)
+
 -   **type**: ona
 -   **original-name**: アークナイツ
 -   **start-date**: 2019-11-19

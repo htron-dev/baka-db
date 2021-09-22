@@ -1,5 +1,7 @@
 # Root∞Rexx: Honey Melody
 
+![root∞-rexx-honey-melody](https://cdn.myanimelist.net/images/manga/3/170426.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

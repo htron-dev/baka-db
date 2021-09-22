@@ -1,5 +1,7 @@
 # Akuma ni Dakareru
 
+![akuma-ni-dakareru](https://cdn.myanimelist.net/images/manga/3/3431.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

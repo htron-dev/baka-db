@@ -1,5 +1,7 @@
 # In the Starlight
 
+![in-the-starlight](https://cdn.myanimelist.net/images/manga/2/7313.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 

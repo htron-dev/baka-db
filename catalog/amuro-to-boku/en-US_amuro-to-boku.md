@@ -1,5 +1,7 @@
 # Amuro to Boku
 
+![amuro-to-boku](https://cdn.myanimelist.net/images/manga/3/239397.jpg)
+
 -   **type**: manga
 -   **original-name**: アムロと僕
 -   **start-date**: 2020-12-26

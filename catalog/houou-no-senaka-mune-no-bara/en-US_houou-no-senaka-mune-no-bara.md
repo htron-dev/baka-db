@@ -1,5 +1,7 @@
 # Houou no Senaka, Mune no Bara
 
+![houou-no-senaka-mune-no-bara](https://cdn.myanimelist.net/images/manga/3/192476.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # GS Mikami Gokuraku Daisakusen!!
 
+![gs-mikami-gokuraku-daisakusen](https://cdn.myanimelist.net/images/manga/1/144081.jpg)
+
 -   **type**: manga
 -   **volumes**: 39
 -   **chapters**: 390

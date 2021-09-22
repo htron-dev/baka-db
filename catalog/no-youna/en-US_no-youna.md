@@ -1,5 +1,7 @@
 # No, Youna.
 
+![no-youna](https://cdn.myanimelist.net/images/manga/3/221530.jpg)
+
 -   **type**: manga
 -   **original-name**: の、ような。
 -   **start-date**: 2017-03-29

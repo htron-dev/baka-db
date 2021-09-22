@@ -1,5 +1,7 @@
 # Come Back Home
 
+![come-back-home](https://cdn.myanimelist.net/images/manga/2/82664.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 8

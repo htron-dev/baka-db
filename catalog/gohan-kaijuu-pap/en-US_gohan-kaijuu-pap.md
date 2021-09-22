@@ -1,5 +1,7 @@
 # Gohan Kaijuu Pap
 
+![gohan-kaijuu-pap](https://cdn.myanimelist.net/images/anime/13/59289.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ごはんかいじゅうパップ
 -   **start-date**: 2011-04-25

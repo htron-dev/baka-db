@@ -1,5 +1,7 @@
 # Toshishita no Ryuugi
 
+![toshishita-no-ryuugi](https://cdn.myanimelist.net/images/manga/2/39552.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

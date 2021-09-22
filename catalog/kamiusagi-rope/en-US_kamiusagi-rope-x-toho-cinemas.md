@@ -1,5 +1,7 @@
 # Kamiusagi Rope x TOHO Cinemas
 
+![kamiusagi-rope-x-toho-cinemas](https://cdn.myanimelist.net/images/anime/11/85034.jpg)
+
 -   **type**: ona
 -   **original-name**: 紙兎ロペ TOHO シネマズ
 -   **start-date**: 2009-11-05

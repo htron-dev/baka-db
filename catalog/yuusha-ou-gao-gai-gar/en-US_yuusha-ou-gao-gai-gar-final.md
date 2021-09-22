@@ -1,5 +1,7 @@
 # Yuusha-Ou GaoGaiGar Final
 
+![yuusha-ou-gao-gai-gar-final](https://cdn.myanimelist.net/images/anime/1735/95499.jpg)
+
 -   **type**: ova
 -   **episodes**: 8
 -   **original-name**: 勇者王ガオガイガー FINAL

@@ -1,5 +1,7 @@
 # Seishun Fuufu Monogatari: Koiko no Mainichi
 
+![seishun-fuufu-monogatari-koiko-no-mainichi](https://cdn.myanimelist.net/images/anime/13/28050.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 青春夫婦物語　恋子の毎日

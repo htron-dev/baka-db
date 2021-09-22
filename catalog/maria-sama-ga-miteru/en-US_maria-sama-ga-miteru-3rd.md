@@ -1,5 +1,7 @@
 # Maria-sama ga Miteru 3rd
 
+![maria-sama-ga-miteru-3rd](https://cdn.myanimelist.net/images/anime/6/75209.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: マリア様がみてる〜３ rd〜

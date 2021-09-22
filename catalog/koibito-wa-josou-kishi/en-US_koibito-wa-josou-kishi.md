@@ -1,5 +1,7 @@
 # Koibito wa Josou Kishi!?
 
+![koibito-wa-josou-kishi](https://cdn.myanimelist.net/images/manga/3/242038.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Inugami-san to Sarutobi-kun wa Naka ga Warui.
 
+![inugami-san-to-sarutobi-kun-wa-naka-ga-warui](https://cdn.myanimelist.net/images/manga/1/137597.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

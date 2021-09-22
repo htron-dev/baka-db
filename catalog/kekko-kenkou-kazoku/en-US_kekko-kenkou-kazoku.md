@@ -1,5 +1,7 @@
 # Kekko Kenkou Kazoku
 
+![kekko-kenkou-kazoku](https://cdn.myanimelist.net/images/manga/3/87205.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 35

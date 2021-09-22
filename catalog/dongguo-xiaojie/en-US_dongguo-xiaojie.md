@@ -1,5 +1,7 @@
 # Dongguo Xiaojie
 
+![dongguo-xiaojie](https://cdn.myanimelist.net/images/anime/5/84996.jpg)
+
 -   **type**: ona
 -   **episodes**: 15
 -   **original-name**: 东郭小节

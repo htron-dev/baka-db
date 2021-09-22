@@ -1,5 +1,7 @@
 # Karada ga Oboeteru
 
+![karada-ga-oboeteru](https://cdn.myanimelist.net/images/manga/3/45209.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

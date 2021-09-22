@@ -1,5 +1,7 @@
 # ± Junkie
 
+![junkie](https://cdn.myanimelist.net/images/manga/2/112127.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

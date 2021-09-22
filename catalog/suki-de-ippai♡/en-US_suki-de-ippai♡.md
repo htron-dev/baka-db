@@ -1,5 +1,7 @@
 # Suki de Ippai♡
 
+![suki-de-ippai♡](https://cdn.myanimelist.net/images/manga/1/197865.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

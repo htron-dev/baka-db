@@ -1,5 +1,7 @@
 # Renbaku: Romeo to Juliet Ibun
 
+![renbaku-romeo-to-juliet-ibun](https://cdn.myanimelist.net/images/manga/1/184727.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

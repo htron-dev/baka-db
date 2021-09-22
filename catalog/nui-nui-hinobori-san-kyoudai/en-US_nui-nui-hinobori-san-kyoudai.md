@@ -1,5 +1,7 @@
 # Nui Nui Hinobori San Kyoudai
 
+![nui-nui-hinobori-san-kyoudai](https://cdn.myanimelist.net/images/anime/3/85442.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: ぬいぬい日昇三兄弟

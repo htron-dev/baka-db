@@ -1,5 +1,7 @@
 # Hanamachi Hero
 
+![hanamachi-hero](https://cdn.myanimelist.net/images/manga/1/177989.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

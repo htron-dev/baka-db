@@ -1,5 +1,7 @@
 # Mienai Silhouette
 
+![mienai-silhouette](https://cdn.myanimelist.net/images/manga/1/28566.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 見えないシルエット

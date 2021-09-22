@@ -1,5 +1,7 @@
 # Rokujou Hitoma no Majo Life
 
+![rokujou-hitoma-no-majo-life](https://cdn.myanimelist.net/images/manga/3/235798.jpg)
+
 -   **type**: manga
 -   **original-name**: 六畳一間の魔女ライフ
 -   **start-date**: 2020-02-22

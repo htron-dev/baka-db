@@ -1,5 +1,7 @@
 # Cleopatra D.C.
 
+![cleopatra-d-c](https://cdn.myanimelist.net/images/anime/1367/107825.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: クレオパトラＤ．Ｃ

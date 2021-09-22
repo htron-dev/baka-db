@@ -1,5 +1,7 @@
 # 86: Run Through the Battlefront
 
+![86-run-through-the-battlefront](https://cdn.myanimelist.net/images/manga/2/246957.jpg)
+
 -   **type**: manga
 -   **original-name**: 86―エイティシックス― ―ラン・スルー・ザ・バトルフロント―
 -   **start-date**: 2021-01-24

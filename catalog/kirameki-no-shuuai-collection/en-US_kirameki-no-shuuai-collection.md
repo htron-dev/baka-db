@@ -1,5 +1,7 @@
 # Kirameki no Shuuai Collection
 
+![kirameki-no-shuuai-collection](https://cdn.myanimelist.net/images/manga/3/195767.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 煌きの執愛コレクション

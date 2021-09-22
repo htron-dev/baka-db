@@ -1,5 +1,7 @@
 # Smile Style
 
+![smile-style](https://cdn.myanimelist.net/images/manga/3/117391.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: スマイル・スタイル

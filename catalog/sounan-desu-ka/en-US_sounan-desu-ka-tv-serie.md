@@ -1,5 +1,7 @@
 # Sounan Desu ka?
 
+![sounan-desu-ka](https://cdn.myanimelist.net/images/anime/1741/102237.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ソウナンですか?

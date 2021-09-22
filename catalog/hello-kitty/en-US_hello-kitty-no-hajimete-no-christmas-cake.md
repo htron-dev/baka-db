@@ -1,5 +1,7 @@
 # Hello Kitty no Hajimete no Christmas Cake
 
+![hello-kitty-no-hajimete-no-christmas-cake](https://cdn.myanimelist.net/images/anime/9/70977.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティのはじめてのクリスマスケーキ

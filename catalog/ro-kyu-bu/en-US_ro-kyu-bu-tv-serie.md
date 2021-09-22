@@ -1,5 +1,7 @@
 # Ro-Kyu-Bu!
 
+![ro-kyu-bu](https://cdn.myanimelist.net/images/anime/11/32643.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ロウきゅーぶ!

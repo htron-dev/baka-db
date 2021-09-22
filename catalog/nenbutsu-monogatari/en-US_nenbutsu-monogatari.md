@@ -1,5 +1,7 @@
 # Nenbutsu Monogatari
 
+![nenbutsu-monogatari](https://cdn.myanimelist.net/images/anime/9/84282.jpg)
+
 -   **type**: ova
 -   **episodes**: 7
 -   **original-name**: 念仏物語

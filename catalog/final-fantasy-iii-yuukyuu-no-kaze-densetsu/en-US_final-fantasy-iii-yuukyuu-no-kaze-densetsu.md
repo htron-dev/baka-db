@@ -1,5 +1,7 @@
 # Final Fantasy III - Yuukyuu no Kaze Densetsu
 
+![final-fantasy-iii-yuukyuu-no-kaze-densetsu](https://cdn.myanimelist.net/images/manga/2/13133.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ファイナルファンタジー III 悠久の風伝説

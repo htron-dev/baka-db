@@ -1,5 +1,7 @@
 # Rekka no Honoo
 
+![rekka-no-honoo](https://cdn.myanimelist.net/images/manga/2/186157.jpg)
+
 -   **type**: manga
 -   **volumes**: 33
 -   **chapters**: 330

@@ -1,5 +1,7 @@
 # Takumi-kun Series
 
+![takumi-kun-series](https://cdn.myanimelist.net/images/manga/3/5218.jpg)
+
 -   **type**: manga
 -   **original-name**: タクミくんシリーズ ; ６月の自尊心; 裸足のワルツ; 季節はずれのカイダン; 美貌のディテイル; 花散る夜にきみを想えば
 

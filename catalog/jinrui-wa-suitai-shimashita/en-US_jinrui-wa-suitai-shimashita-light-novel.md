@@ -1,5 +1,7 @@
 # Jinrui wa Suitai Shimashita
 
+![jinrui-wa-suitai-shimashita](https://cdn.myanimelist.net/images/manga/1/123725.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **chapters**: 22

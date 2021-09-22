@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Bokura wa Hero
 
+![sore-ike-anpanman-bokura-wa-hero](https://cdn.myanimelist.net/images/anime/11/66455.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ! アンパンマン ぼくらはヒーロー

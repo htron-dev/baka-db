@@ -1,5 +1,7 @@
 # Akuyaku Reijou Koukyuu Monogatari
 
+![akuyaku-reijou-koukyuu-monogatari](https://cdn.myanimelist.net/images/manga/3/167554.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 悪役令嬢後宮物語
 -   **start-date**: 2013-08-12

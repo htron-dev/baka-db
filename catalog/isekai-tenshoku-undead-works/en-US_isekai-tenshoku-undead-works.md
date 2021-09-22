@@ -1,5 +1,7 @@
 # Isekai Tenshoku Undead Works
 
+![isekai-tenshoku-undead-works](https://cdn.myanimelist.net/images/manga/3/236116.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界転職アンデッドワークス
 -   **start-date**: 2019-12-07

@@ -1,5 +1,7 @@
 # Rennyo to Sono Haha
 
+![rennyo-to-sono-haha](https://cdn.myanimelist.net/images/anime/13/17899.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 蓮如とその母

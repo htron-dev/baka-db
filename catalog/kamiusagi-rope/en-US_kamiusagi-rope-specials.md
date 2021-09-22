@@ -1,5 +1,7 @@
 # Kamiusagi Rope Specials
 
+![kamiusagi-rope-specials](https://cdn.myanimelist.net/images/anime/13/72179.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 紙兎ロペ 温暖化

@@ -1,5 +1,7 @@
 # Batman
 
+![batman](https://cdn.myanimelist.net/images/manga/3/153405.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 53

@@ -1,5 +1,7 @@
 # Xiyouji zhi Dasheng Guilai
 
+![xiyouji-zhi-dasheng-guilai](https://cdn.myanimelist.net/images/anime/4/78103.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 西游记之大圣归来

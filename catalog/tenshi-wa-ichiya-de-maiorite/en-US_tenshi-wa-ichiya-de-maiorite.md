@@ -1,5 +1,7 @@
 # Tenshi wa Ichiya de Maiorite
 
+![tenshi-wa-ichiya-de-maiorite](https://cdn.myanimelist.net/images/manga/2/227156.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 天使は一夜で舞い降りて

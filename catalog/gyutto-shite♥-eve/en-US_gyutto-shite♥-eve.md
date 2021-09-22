@@ -1,5 +1,7 @@
 # Gyutto shite♥Eve
 
+![gyutto-shite♥-eve](https://cdn.myanimelist.net/images/manga/2/222589.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

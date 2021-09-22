@@ -1,5 +1,7 @@
 # Bungou Stray Dogs: Hitori Ayumu
 
+![bungou-stray-dogs-hitori-ayumu](https://cdn.myanimelist.net/images/anime/9/87340.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 文豪ストレイドッグス 第 25 話 『独り歩む』

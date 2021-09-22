@@ -1,5 +1,7 @@
 # Yukibana no Tora
 
+![yukibana-no-tora](https://cdn.myanimelist.net/images/manga/3/163505.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 80

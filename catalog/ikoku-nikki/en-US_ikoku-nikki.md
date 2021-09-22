@@ -1,5 +1,7 @@
 # Ikoku Nikki
 
+![ikoku-nikki](https://cdn.myanimelist.net/images/manga/2/216687.jpg)
+
 -   **type**: manga
 -   **original-name**: 違国日記
 -   **start-date**: 2017-06-08

@@ -1,5 +1,7 @@
 # Yousuruni Chikuri-bu desu
 
+![yousuruni-chikuri-bu-desu](https://cdn.myanimelist.net/images/manga/1/171409.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: ようするにチクリ部です

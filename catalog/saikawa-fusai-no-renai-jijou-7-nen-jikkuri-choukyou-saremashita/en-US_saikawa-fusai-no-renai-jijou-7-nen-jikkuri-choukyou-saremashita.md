@@ -1,5 +1,7 @@
 # Saikawa Fusai no Renai Jijou: 7-nen Jikkuri Choukyou saremashita
 
+![saikawa-fusai-no-renai-jijou-7-nen-jikkuri-choukyou-saremashita](https://cdn.myanimelist.net/images/manga/3/244644.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 31

@@ -1,5 +1,7 @@
 # Sono Mono. Nochi ni...: Futsuu no Otoko, Saikyou no Michi wo Yuku.
 
+![sono-mono-nochi-ni-futsuu-no-otoko-saikyou-no-michi-wo-yuku](https://cdn.myanimelist.net/images/manga/2/201894.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

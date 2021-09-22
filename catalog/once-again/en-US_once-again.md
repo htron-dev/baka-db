@@ -1,5 +1,7 @@
 # Once Again!
 
+![once-again](https://cdn.myanimelist.net/images/manga/2/105853.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

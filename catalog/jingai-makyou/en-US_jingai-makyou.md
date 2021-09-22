@@ -1,5 +1,7 @@
 # Jingai Makyou
 
+![jingai-makyou](https://cdn.myanimelist.net/images/manga/2/123053.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 塵骸魔京

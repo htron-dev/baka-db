@@ -1,5 +1,7 @@
 # City Hunter Gaiden: Ijuuin Hayato-shi no Heion naranu Nichijou
 
+![city-hunter-gaiden-ijuuin-hayato-shi-no-heion-naranu-nichijou](https://cdn.myanimelist.net/images/manga/1/214835.jpg)
+
 -   **type**: manga
 -   **original-name**: CITY HUNTER 外伝 伊集院隼人氏の平穏ならぬ日常
 -   **start-date**: 2018-04-29

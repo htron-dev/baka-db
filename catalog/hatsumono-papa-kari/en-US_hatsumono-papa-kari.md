@@ -1,5 +1,7 @@
 # Hatsumono Papa (Kari)
 
+![hatsumono-papa-kari](https://cdn.myanimelist.net/images/manga/1/209684.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

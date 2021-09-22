@@ -1,5 +1,7 @@
 # Sangatsu Boujitsu, Kuma wo Hirotta
 
+![sangatsu-boujitsu-kuma-wo-hirotta](https://cdn.myanimelist.net/images/manga/3/42570.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

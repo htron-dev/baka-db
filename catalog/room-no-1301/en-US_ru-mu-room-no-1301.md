@@ -1,5 +1,7 @@
 # Ru~mu! Room No.1301
 
+![ru-mu-room-no-1301](https://cdn.myanimelist.net/images/manga/3/125185.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

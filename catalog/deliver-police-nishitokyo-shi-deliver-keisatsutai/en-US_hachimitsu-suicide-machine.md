@@ -1,5 +1,7 @@
 # Hachimitsu Suicide Machine
 
+![hachimitsu-suicide-machine](https://cdn.myanimelist.net/images/anime/1894/113740.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ハチミツスーサイドマシーン

@@ -1,5 +1,7 @@
 # Taiyou no Romance
 
+![taiyou-no-romance](https://cdn.myanimelist.net/images/manga/3/170021.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 29

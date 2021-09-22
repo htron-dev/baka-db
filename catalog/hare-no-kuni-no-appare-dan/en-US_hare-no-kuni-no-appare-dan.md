@@ -1,5 +1,7 @@
 # Hare no Kuni no Appare-dan
 
+![hare-no-kuni-no-appare-dan](https://cdn.myanimelist.net/images/manga/1/195163.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

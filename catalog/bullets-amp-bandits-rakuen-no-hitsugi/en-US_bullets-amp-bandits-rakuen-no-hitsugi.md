@@ -1,5 +1,7 @@
 # Bullets &amp; Bandits: Rakuen no Hitsugi
 
+![bullets-amp-bandits-rakuen-no-hitsugi](https://cdn.myanimelist.net/images/manga/1/159124.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

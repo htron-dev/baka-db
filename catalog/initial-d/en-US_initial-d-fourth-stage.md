@@ -1,5 +1,7 @@
 # Initial D Fourth Stage
 
+![initial-d-fourth-stage](https://cdn.myanimelist.net/images/anime/12/43927.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 頭文字〈イニシャル〉D FOURTH STAGE

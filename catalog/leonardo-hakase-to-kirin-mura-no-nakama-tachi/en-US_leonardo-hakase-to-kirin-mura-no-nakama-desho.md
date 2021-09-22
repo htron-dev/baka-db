@@ -1,5 +1,7 @@
 # Leonardo Hakase to Kirin-mura no Nakama desho
 
+![leonardo-hakase-to-kirin-mura-no-nakama-desho](https://cdn.myanimelist.net/images/anime/1117/105677.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: レオナルド博士とキリン村のなかまでしょ

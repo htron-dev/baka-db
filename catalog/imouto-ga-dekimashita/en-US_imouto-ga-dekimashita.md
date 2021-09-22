@@ -1,5 +1,7 @@
 # Imouto ga Dekimashita.
 
+![imouto-ga-dekimashita](https://cdn.myanimelist.net/images/manga/1/165027.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

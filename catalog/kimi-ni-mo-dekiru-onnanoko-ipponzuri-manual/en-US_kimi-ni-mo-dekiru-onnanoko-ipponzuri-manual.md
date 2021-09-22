@@ -1,5 +1,7 @@
 # Kimi ni mo Dekiru! Onnanoko Ipponzuri Manual
 
+![kimi-ni-mo-dekiru-onnanoko-ipponzuri-manual](https://cdn.myanimelist.net/images/manga/3/206163.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 2

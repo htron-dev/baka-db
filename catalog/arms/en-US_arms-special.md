@@ -1,5 +1,7 @@
 # ARMS
 
+![arms](https://cdn.myanimelist.net/images/anime/1730/102852.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: CM 小学館 少年サンデー「ARMS」編

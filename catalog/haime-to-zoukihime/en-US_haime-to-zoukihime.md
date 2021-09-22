@@ -1,5 +1,7 @@
 # Haime to Zoukihime
 
+![haime-to-zoukihime](https://cdn.myanimelist.net/images/manga/2/221968.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 43

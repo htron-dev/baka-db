@@ -1,5 +1,7 @@
 # Girls Solid Senders
 
+![girls-solid-senders](https://cdn.myanimelist.net/images/manga/3/110401.jpg)
+
 -   **type**: manga
 -   **original-name**: ガールズ・ソリッドセンダーズ
 -   **start-date**: 2013-12-25

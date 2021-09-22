@@ -1,5 +1,7 @@
 # Machikado Mazoku 2nd Season
 
+![machikado-mazoku-2nd-season](https://cdn.myanimelist.net/images/anime/1346/109005.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: まちカドまぞく
 -   **start-date**: 2022-04-20

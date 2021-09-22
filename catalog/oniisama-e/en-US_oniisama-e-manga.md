@@ -1,5 +1,7 @@
 # Oniisama e...
 
+![oniisama-e](https://cdn.myanimelist.net/images/manga/3/12030.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

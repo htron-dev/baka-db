@@ -1,5 +1,7 @@
 # Yagyuu Hichou: Kaze no Shou
 
+![yagyuu-hichou-kaze-no-shou](https://cdn.myanimelist.net/images/manga/1/161942.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

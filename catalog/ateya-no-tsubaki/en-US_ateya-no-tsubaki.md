@@ -1,5 +1,7 @@
 # Ateya no Tsubaki
 
+![ateya-no-tsubaki](https://cdn.myanimelist.net/images/manga/2/53715.jpg)
+
 -   **type**: manga
 -   **original-name**: 当て屋の椿
 

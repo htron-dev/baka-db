@@ -1,5 +1,7 @@
 # Tabi Machi Late Show
 
+![tabi-machi-late-show](https://cdn.myanimelist.net/images/anime/3/78140.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 4
 -   **original-name**: 旅街レイトショー

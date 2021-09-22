@@ -1,5 +1,7 @@
 # Made in Abyss: Retsujitsu no Ougonkyou
 
+![made-in-abyss-retsujitsu-no-ougonkyou](https://cdn.myanimelist.net/images/anime/1130/114731.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: メイドインアビス 烈日の黄金郷
 -   **rating**: R - 17+ (violence & profanity)

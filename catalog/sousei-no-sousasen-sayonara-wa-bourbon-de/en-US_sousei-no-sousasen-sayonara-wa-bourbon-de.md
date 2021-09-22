@@ -1,5 +1,7 @@
 # Sousei no Sousasen: Sayonara wa Bourbon de
 
+![sousei-no-sousasen-sayonara-wa-bourbon-de](https://cdn.myanimelist.net/images/manga/2/165328.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 双星の捜査線　―さよならはバーボンで―

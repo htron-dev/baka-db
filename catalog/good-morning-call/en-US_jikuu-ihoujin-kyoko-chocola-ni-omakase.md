@@ -1,5 +1,7 @@
 # Jikuu Ihoujin Kyoko: Chocola ni Omakase!
 
+![jikuu-ihoujin-kyoko-chocola-ni-omakase](https://cdn.myanimelist.net/images/anime/1/1613.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 時空異邦人 KYOKO ちょこらにおまかせ！

@@ -1,5 +1,7 @@
 # Id
 
+![id](https://cdn.myanimelist.net/images/manga/1/59063.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 29
 -   **chapters**: 178

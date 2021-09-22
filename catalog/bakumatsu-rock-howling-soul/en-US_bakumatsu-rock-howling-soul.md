@@ -1,5 +1,7 @@
 # Bakumatsu Rock: Howling Soul
 
+![bakumatsu-rock-howling-soul](https://cdn.myanimelist.net/images/manga/1/161532.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

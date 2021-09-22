@@ -1,5 +1,7 @@
 # Major S2
 
+![major-s-2](https://cdn.myanimelist.net/images/anime/6/73972.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: メジャー (第 2 シリーズ)
@@ -32,4 +34,4 @@ His goal of attending elite baseball high school Kaido may not be far from his r
 -   [Official Site](http://www3.nhk.or.jp/anime/major/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3423)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4115)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Major_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Major_%28manga%29)

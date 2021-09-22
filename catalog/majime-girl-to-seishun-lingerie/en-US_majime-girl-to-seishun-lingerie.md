@@ -1,5 +1,7 @@
 # Majime Girl to Seishun Lingerie
 
+![majime-girl-to-seishun-lingerie](https://cdn.myanimelist.net/images/manga/2/228064.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

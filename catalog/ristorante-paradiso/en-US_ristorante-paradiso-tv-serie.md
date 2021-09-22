@@ -1,5 +1,7 @@
 # Ristorante Paradiso
 
+![ristorante-paradiso](https://cdn.myanimelist.net/images/anime/13/17488.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: リストランテパラディーゾ

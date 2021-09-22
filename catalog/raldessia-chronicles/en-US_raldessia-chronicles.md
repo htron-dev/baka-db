@@ -1,5 +1,7 @@
 # Raldessia Chronicles
 
+![raldessia-chronicles](https://cdn.myanimelist.net/images/anime/4/77367.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ラルディシア クロニクル

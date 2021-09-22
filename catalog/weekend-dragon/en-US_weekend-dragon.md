@@ -1,5 +1,7 @@
 # Weekend Dragon
 
+![weekend-dragon](https://cdn.myanimelist.net/images/manga/2/161204.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 13

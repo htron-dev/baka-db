@@ -1,5 +1,7 @@
 # Haru to Natsu to Nacchan to Aki to Fuyu to Boku
 
+![haru-to-natsu-to-nacchan-to-aki-to-fuyu-to-boku](https://cdn.myanimelist.net/images/manga/2/226529.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

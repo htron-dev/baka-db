@@ -1,5 +1,7 @@
 # Senshin Koutei no Shoya: Hime wa Ikyou no Utage ni Aegu
 
+![senshin-koutei-no-shoya-hime-wa-ikyou-no-utage-ni-aegu](https://cdn.myanimelist.net/images/manga/1/181445.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

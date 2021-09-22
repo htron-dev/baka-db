@@ -1,5 +1,7 @@
 # Cardcaptor Sakura
 
+![cardcaptor-sakura](https://cdn.myanimelist.net/images/anime/8/60781.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 70
 -   **original-name**: カードキャプターさくら

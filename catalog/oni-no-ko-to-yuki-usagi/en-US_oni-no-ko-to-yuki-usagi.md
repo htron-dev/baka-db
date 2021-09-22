@@ -1,5 +1,7 @@
 # Oni no Ko to Yuki Usagi
 
+![oni-no-ko-to-yuki-usagi](https://cdn.myanimelist.net/images/anime/9/56063.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 鬼の子とゆきうさぎ
@@ -9,7 +11,6 @@
 ## Tags
 
 -   demons
-
 -   fantasy
 
 ## Sinopse

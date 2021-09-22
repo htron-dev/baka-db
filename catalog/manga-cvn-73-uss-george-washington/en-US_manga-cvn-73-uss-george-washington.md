@@ -1,5 +1,7 @@
 # Manga CVN73 USS George Washington
 
+![manga-cvn-73-uss-george-washington](https://cdn.myanimelist.net/images/manga/2/11048.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

@@ -1,5 +1,7 @@
 # Document Taiyou no Kiba Dagram
 
+![document-taiyou-no-kiba-dagram](https://cdn.myanimelist.net/images/anime/7/27595.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドキュメント 太陽の牙ダグラム

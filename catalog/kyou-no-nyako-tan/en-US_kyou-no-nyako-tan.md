@@ -1,5 +1,7 @@
 # Kyou no Nyako-tan
 
+![kyou-no-nyako-tan](https://cdn.myanimelist.net/images/manga/2/237078.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: きょうのにゃこ譚

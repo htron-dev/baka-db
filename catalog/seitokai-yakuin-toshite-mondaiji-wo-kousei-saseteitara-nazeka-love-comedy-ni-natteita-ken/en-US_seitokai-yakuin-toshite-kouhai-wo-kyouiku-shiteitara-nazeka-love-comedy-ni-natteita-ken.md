@@ -1,5 +1,7 @@
 # Seitokai Yakuin toshite Kouhai wo Kyouiku (?) shiteitara Nazeka Love Comedy ni Natteita Ken
 
+![seitokai-yakuin-toshite-kouhai-wo-kyouiku-shiteitara-nazeka-love-comedy-ni-natteita-ken](https://cdn.myanimelist.net/images/manga/1/248776.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Stretch
 
+![stretch](https://cdn.myanimelist.net/images/manga/1/117217.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 46

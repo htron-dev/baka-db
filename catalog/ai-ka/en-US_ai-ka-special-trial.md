@@ -1,5 +1,7 @@
 # AIKa: Special Trial
 
+![ai-ka-special-trial](https://cdn.myanimelist.net/images/anime/3/82431.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: AIKa Special TRIAL

@@ -1,5 +1,7 @@
 # Kamiyuishi wa Ryuu no Tsugai ni Narimashita (Yappari Machigai Datta you desu)
 
+![kamiyuishi-wa-ryuu-no-tsugai-ni-narimashita-yappari-machigai-datta-you-desu](https://cdn.myanimelist.net/images/manga/2/225985.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 18

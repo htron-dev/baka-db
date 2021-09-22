@@ -1,5 +1,7 @@
 # Watashi wo Kyuujou ni Tsuretette!
 
+![watashi-wo-kyuujou-ni-tsuretette](https://cdn.myanimelist.net/images/manga/3/209381.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 51

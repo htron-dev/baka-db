@@ -1,5 +1,7 @@
 # Y no Hakobune
 
+![y-no-hakobune](https://cdn.myanimelist.net/images/manga/2/227146.jpg)
+
 -   **type**: manga
 -   **original-name**: Y の箱船
 -   **start-date**: 2015-03-14

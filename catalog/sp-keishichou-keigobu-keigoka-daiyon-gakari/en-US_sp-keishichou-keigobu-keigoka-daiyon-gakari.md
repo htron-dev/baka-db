@@ -1,5 +1,7 @@
 # SP - Keishichou Keigobu Keigoka Daiyon-gakari
 
+![sp-keishichou-keigobu-keigoka-daiyon-gakari](https://cdn.myanimelist.net/images/manga/3/80835.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: SP 警視庁警備部警護課第四係

@@ -1,5 +1,7 @@
 # Cosmic Color
 
+![cosmic-color](https://cdn.myanimelist.net/images/manga/1/132511.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

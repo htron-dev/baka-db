@@ -1,5 +1,7 @@
 # Akuma-san to Outa
 
+![akuma-san-to-outa](https://cdn.myanimelist.net/images/manga/3/235020.jpg)
+
 -   **type**: manga
 -   **original-name**: 悪魔さんとお歌
 -   **start-date**: 2019-09-21

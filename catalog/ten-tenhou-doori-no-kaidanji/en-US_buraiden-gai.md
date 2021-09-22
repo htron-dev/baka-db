@@ -1,5 +1,7 @@
 # Buraiden Gai
 
+![buraiden-gai](https://cdn.myanimelist.net/images/manga/1/3993.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 38

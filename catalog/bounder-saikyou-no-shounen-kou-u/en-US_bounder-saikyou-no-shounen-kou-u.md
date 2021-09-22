@@ -1,5 +1,7 @@
 # Bounder: Saikyou no Shounen Kou U
 
+![bounder-saikyou-no-shounen-kou-u](https://cdn.myanimelist.net/images/manga/1/193000.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

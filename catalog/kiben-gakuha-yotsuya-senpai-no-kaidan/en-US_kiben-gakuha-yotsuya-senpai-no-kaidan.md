@@ -1,5 +1,7 @@
 # Kiben Gakuha, Yotsuya-senpai no Kaidan.
 
+![kiben-gakuha-yotsuya-senpai-no-kaidan](https://cdn.myanimelist.net/images/manga/3/35775.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

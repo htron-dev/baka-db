@@ -1,5 +1,7 @@
 # Double Marriage
 
+![double-marriage](https://cdn.myanimelist.net/images/manga/2/63259.jpg)
+
 -   **type**: manga
 -   **original-name**: ダブルマリッジ
 -   **start-date**: 2011-08-05

@@ -1,5 +1,7 @@
 # Fuse: Shoujo to Kemono no Rekkatan
 
+![fuse-shoujo-to-kemono-no-rekkatan](https://cdn.myanimelist.net/images/manga/1/121191.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

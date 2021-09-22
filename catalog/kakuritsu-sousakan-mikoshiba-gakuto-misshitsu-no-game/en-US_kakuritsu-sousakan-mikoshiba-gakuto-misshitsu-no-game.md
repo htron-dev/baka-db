@@ -1,5 +1,7 @@
 # Kakuritsu Sousakan Mikoshiba Gakuto: Misshitsu no Game
 
+![kakuritsu-sousakan-mikoshiba-gakuto-misshitsu-no-game](https://cdn.myanimelist.net/images/manga/2/121485.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Ane Naru Mono
 
+![ane-naru-mono](https://cdn.myanimelist.net/images/anime/1544/105268.jpg)
+
 -   **type**: ova
 -   **original-name**: 姉なるもの
 -   **rating**: None

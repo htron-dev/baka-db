@@ -1,5 +1,7 @@
 # Yureru Omoi
 
+![yureru-omoi](https://cdn.myanimelist.net/images/manga/1/67287.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

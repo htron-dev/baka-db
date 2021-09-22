@@ -1,5 +1,7 @@
 # Orlelian no Kishi Hime
 
+![orlelian-no-kishi-hime](https://cdn.myanimelist.net/images/manga/1/58197.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

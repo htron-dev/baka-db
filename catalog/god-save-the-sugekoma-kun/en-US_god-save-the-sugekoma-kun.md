@@ -1,5 +1,7 @@
 # God Save the Sugekoma-kun!
 
+![god-save-the-sugekoma-kun](https://cdn.myanimelist.net/images/manga/2/31043.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: GOD SAVE THE すげこまくん！

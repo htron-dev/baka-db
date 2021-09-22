@@ -1,5 +1,7 @@
 # Momo e no Tegami
 
+![momo-e-no-tegami](https://cdn.myanimelist.net/images/anime/1149/107242.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ももへの手紙

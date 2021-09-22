@@ -1,5 +1,7 @@
 # Yuu☆Yuu☆Hakusho
 
+![yuu☆-yuu☆-hakusho](https://cdn.myanimelist.net/images/anime/1228/111372.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 112
 -   **original-name**: 幽 ☆ 遊 ☆ 白書

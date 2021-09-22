@@ -1,5 +1,7 @@
 # Pokemon 3D Adventure: Mew wo Sagase!
 
+![pokemon-3-d-adventure-mew-wo-sagase](https://cdn.myanimelist.net/images/anime/3/30561.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ポケモン３Ｄアドベンチャー　ミュウを探せ！

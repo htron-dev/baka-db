@@ -1,5 +1,7 @@
 # Koi no Yamai ni Tsukeru Kusuri
 
+![koi-no-yamai-ni-tsukeru-kusuri](https://cdn.myanimelist.net/images/manga/1/207978.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

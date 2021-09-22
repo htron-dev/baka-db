@@ -1,5 +1,7 @@
 # Hayate no Gotoku!!: Atsu ga Natsuize - Mizugi-hen!
 
+![hayate-no-gotoku-atsu-ga-natsuize-mizugi-hen](https://cdn.myanimelist.net/images/anime/3/13634.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハヤテのごとく!! アツがナツいぜ 水着編!

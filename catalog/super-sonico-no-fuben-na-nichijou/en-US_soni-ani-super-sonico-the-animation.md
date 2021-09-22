@@ -1,5 +1,7 @@
 # SoniAni: Super Sonico The Animation
 
+![soni-ani-super-sonico-the-animation](https://cdn.myanimelist.net/images/anime/3/56987.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: そにアニ -SUPER SONICO THE ANIMATION-

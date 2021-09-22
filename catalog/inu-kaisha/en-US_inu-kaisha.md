@@ -1,5 +1,7 @@
 # Inu Kaisha
 
+![inu-kaisha](https://cdn.myanimelist.net/images/manga/3/10997.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: いぬ会社

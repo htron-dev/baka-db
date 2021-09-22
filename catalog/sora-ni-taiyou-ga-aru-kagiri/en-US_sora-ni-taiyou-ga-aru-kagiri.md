@@ -1,5 +1,7 @@
 # Sora ni Taiyou ga Aru Kagiri
 
+![sora-ni-taiyou-ga-aru-kagiri](https://cdn.myanimelist.net/images/manga/2/9974.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

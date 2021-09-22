@@ -1,5 +1,7 @@
 # Gedatsu Man
 
+![gedatsu-man](https://cdn.myanimelist.net/images/manga/2/167307.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

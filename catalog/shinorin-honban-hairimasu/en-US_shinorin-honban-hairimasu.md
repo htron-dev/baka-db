@@ -1,5 +1,7 @@
 # Shinorin Honban Hairimasu!
 
+![shinorin-honban-hairimasu](https://cdn.myanimelist.net/images/manga/1/152518.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

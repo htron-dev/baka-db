@@ -1,5 +1,7 @@
 # Robo Inu Hachi no Ie
 
+![robo-inu-hachi-no-ie](https://cdn.myanimelist.net/images/manga/3/205146.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 23

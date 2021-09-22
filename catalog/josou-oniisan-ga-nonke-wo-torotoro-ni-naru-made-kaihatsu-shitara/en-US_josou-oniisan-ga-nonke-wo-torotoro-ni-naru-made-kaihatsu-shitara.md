@@ -1,5 +1,7 @@
 # Josou Oniisan ga Nonke wo Torotoro ni Naru made Kaihatsu shitara
 
+![josou-oniisan-ga-nonke-wo-torotoro-ni-naru-made-kaihatsu-shitara](https://cdn.myanimelist.net/images/manga/2/244540.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

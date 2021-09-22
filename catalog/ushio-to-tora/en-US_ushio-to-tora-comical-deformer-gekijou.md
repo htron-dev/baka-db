@@ -1,5 +1,7 @@
 # Ushio to Tora: Comical Deformer Gekijou
 
+![ushio-to-tora-comical-deformer-gekijou](https://cdn.myanimelist.net/images/anime/4/10651.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: うしおととら コミカル・デフォルメ劇場

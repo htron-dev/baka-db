@@ -1,5 +1,7 @@
 # Around
 
+![around](https://cdn.myanimelist.net/images/anime/7/68975.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: around

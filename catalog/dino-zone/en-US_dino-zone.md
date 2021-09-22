@@ -1,5 +1,7 @@
 # DinoZone
 
+![dino-zone](https://cdn.myanimelist.net/images/anime/8/67413.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: ダイノゾーン

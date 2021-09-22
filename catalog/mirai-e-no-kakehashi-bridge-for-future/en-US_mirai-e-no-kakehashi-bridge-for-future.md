@@ -1,5 +1,7 @@
 # Mirai e no Kakehashi: Bridge for Future
 
+![mirai-e-no-kakehashi-bridge-for-future](https://cdn.myanimelist.net/images/anime/6/77430.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: 未来へのかけ橋～ Bridge for future ～

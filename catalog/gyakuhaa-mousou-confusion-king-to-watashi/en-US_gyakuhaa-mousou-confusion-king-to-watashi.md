@@ -1,5 +1,7 @@
 # Gyakuhaa Mousou Confusion: King to Watashi
 
+![gyakuhaa-mousou-confusion-king-to-watashi](https://cdn.myanimelist.net/images/manga/2/246194.jpg)
+
 -   **type**: manga
 -   **original-name**: 逆ハー妄想コンフュージョン <キングと私>
 -   **start-date**: 2018-06-29

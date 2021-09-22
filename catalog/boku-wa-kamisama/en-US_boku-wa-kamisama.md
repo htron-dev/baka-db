@@ -1,5 +1,7 @@
 # Boku wa Kamisama!
 
+![boku-wa-kamisama](https://cdn.myanimelist.net/images/manga/3/194882.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

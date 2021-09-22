@@ -1,5 +1,7 @@
 # Utawarerumono: Futari no Hakuoro
 
+![utawarerumono-futari-no-hakuoro](https://cdn.myanimelist.net/images/anime/1756/104379.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: うたわれるもの 二人の白皇
 -   **rating**: PG-13 - Teens 13 or older

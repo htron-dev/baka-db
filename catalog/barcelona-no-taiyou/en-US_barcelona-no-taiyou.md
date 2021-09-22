@@ -1,5 +1,7 @@
 # Barcelona no Taiyou
 
+![barcelona-no-taiyou](https://cdn.myanimelist.net/images/manga/2/145535.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 39

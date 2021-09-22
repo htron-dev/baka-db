@@ -1,5 +1,7 @@
 # Shichinin no Megami to Monshou Sekai no Hyouryuusha
 
+![shichinin-no-megami-to-monshou-sekai-no-hyouryuusha](https://cdn.myanimelist.net/images/manga/2/163278.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 七人の女神と紋章世界の漂流者

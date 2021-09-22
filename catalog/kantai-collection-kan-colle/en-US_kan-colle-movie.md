@@ -1,5 +1,7 @@
 # KanColle Movie
 
+![kan-colle-movie](https://cdn.myanimelist.net/images/anime/7/87590.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 艦これ

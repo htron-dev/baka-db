@@ -1,5 +1,7 @@
 # Je t'aime
 
+![je-taime](https://cdn.myanimelist.net/images/manga/1/227401.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ジュ・テーム

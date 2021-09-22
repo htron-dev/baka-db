@@ -1,5 +1,7 @@
 # Nakaniwa no Ibu-tachi
 
+![nakaniwa-no-ibu-tachi](https://cdn.myanimelist.net/images/manga/3/124385.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 中庭のイブたち

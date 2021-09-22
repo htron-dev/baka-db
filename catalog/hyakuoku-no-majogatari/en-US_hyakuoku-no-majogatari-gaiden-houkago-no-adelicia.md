@@ -1,5 +1,7 @@
 # Hyakuoku no Majogatari Gaiden: Houkago no Adelicia
 
+![hyakuoku-no-majogatari-gaiden-houkago-no-adelicia](https://cdn.myanimelist.net/images/manga/2/139613.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 放課後のアディリシア 百億の魔女語り外伝

@@ -1,5 +1,7 @@
 # Boku ni Renai wa Muitenai
 
+![boku-ni-renai-wa-muitenai](https://cdn.myanimelist.net/images/manga/3/31860.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

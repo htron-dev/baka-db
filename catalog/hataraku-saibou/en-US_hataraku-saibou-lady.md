@@ -1,5 +1,7 @@
 # Hataraku Saibou Lady
 
+![hataraku-saibou-lady](https://cdn.myanimelist.net/images/manga/1/240296.jpg)
+
 -   **type**: manga
 -   **original-name**: はたらく細胞 LADY
 -   **start-date**: 2020-01-22

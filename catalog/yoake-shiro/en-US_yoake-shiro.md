@@ -1,5 +1,7 @@
 # Yoake Shiro
 
+![yoake-shiro](https://cdn.myanimelist.net/images/manga/1/13180.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

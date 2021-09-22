@@ -1,5 +1,7 @@
 # Gorillaman
 
+![gorillaman](https://cdn.myanimelist.net/images/anime/4/62419.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ゴリラーマン

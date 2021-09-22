@@ -1,5 +1,7 @@
 # Kurumi-tic☆Miracle
 
+![kurumi-tic☆-miracle](https://cdn.myanimelist.net/images/manga/5/29774.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

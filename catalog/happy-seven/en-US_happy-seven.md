@@ -1,5 +1,7 @@
 # Happy Seven
 
+![happy-seven](https://cdn.myanimelist.net/images/manga/1/27431.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **original-name**: はっぴぃセブン

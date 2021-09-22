@@ -1,5 +1,7 @@
 # K: Missing Kings - Manner Movie
 
+![k-missing-kings-manner-movie](https://cdn.myanimelist.net/images/anime/3/75386.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 K MISSING KINGS 予告映像
@@ -20,4 +22,4 @@ Cinema intro shown before the movie K: Missing Kings and included as a bonus wit
 -   [Official Site](http://k-project-movie.jpn.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9605)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15350)
--   [Wikipedia](<https://en.wikipedia.org/wiki/K_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/K_%28anime%29)

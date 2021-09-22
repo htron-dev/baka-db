@@ -1,5 +1,7 @@
 # Momoyama Kyoudai
 
+![momoyama-kyoudai](https://cdn.myanimelist.net/images/manga/2/83406.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

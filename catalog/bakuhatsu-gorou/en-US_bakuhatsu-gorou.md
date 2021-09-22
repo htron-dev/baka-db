@@ -1,5 +1,7 @@
 # Bakuhatsu Gorou
 
+![bakuhatsu-gorou](https://cdn.myanimelist.net/images/anime/1855/90302.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ばくはつ五郎

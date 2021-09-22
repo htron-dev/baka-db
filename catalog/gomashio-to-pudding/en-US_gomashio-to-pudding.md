@@ -1,5 +1,7 @@
 # Gomashio to Pudding
 
+![gomashio-to-pudding](https://cdn.myanimelist.net/images/manga/3/238374.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

@@ -1,5 +1,7 @@
 # Merry-san ga Detayo.
 
+![merry-san-ga-detayo](https://cdn.myanimelist.net/images/manga/1/149595.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: メリーさんが出たよ。

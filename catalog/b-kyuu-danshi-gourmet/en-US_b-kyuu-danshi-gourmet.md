@@ -1,5 +1,7 @@
 # B-kyuu Danshi Gourmet
 
+![b-kyuu-danshi-gourmet](https://cdn.myanimelist.net/images/manga/3/46161.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: B 級男子グルメ

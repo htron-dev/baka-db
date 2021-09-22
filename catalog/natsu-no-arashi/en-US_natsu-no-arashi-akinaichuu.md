@@ -1,5 +1,7 @@
 # Natsu no Arashi! Akinaichuu
 
+![natsu-no-arashi-akinaichuu](https://cdn.myanimelist.net/images/anime/3/16864.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 夏のあらし!春夏冬中

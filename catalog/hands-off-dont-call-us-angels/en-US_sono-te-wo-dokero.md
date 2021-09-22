@@ -1,5 +1,7 @@
 # Sono Te Wo Dokero
 
+![sono-te-wo-dokero](https://cdn.myanimelist.net/images/manga/1/178498.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 28

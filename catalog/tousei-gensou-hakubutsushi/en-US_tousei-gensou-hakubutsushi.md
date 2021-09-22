@@ -1,5 +1,7 @@
 # Tousei Gensou Hakubutsushi
 
+![tousei-gensou-hakubutsushi](https://cdn.myanimelist.net/images/manga/2/139149.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

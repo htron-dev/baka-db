@@ -1,5 +1,7 @@
 # Youkaku no Majoromi
 
+![youkaku-no-majoromi](https://cdn.myanimelist.net/images/manga/2/236763.jpg)
+
 -   **type**: manga
 -   **original-name**: 羊角のマジョロミ
 -   **start-date**: 2017-09-25

@@ -1,5 +1,7 @@
 # Neko Neko Honey
 
+![neko-neko-honey](https://cdn.myanimelist.net/images/manga/2/227582.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Tokusatsu Gagaga
 
+![tokusatsu-gagaga](https://cdn.myanimelist.net/images/manga/3/171689.jpg)
+
 -   **type**: manga
 -   **original-name**: トクサツガガガ
 -   **start-date**: 2014-08-11

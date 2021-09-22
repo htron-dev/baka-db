@@ -1,5 +1,7 @@
 # Mouken Darling to Donkan-chan
 
+![mouken-darling-to-donkan-chan](https://cdn.myanimelist.net/images/manga/2/247252.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

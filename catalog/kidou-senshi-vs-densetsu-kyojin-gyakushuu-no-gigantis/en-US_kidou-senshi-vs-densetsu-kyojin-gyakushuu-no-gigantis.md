@@ -1,5 +1,7 @@
 # Kidou Senshi vs Densetsu Kyojin: Gyakushuu no Gigantis
 
+![kidou-senshi-vs-densetsu-kyojin-gyakushuu-no-gigantis](https://cdn.myanimelist.net/images/manga/4/72045.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

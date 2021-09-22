@@ -1,5 +1,7 @@
 # Rokuchou-nen to Ichiya Monogatari
 
+![rokuchou-nen-to-ichiya-monogatari](https://cdn.myanimelist.net/images/manga/1/138355.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

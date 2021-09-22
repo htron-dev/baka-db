@@ -1,5 +1,7 @@
 # Ring x Mama
 
+![ring-x-mama](https://cdn.myanimelist.net/images/manga/2/55503.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 45

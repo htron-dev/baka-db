@@ -1,5 +1,7 @@
 # Hi no Matoi
 
+![hi-no-matoi](https://cdn.myanimelist.net/images/manga/1/157902.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: 緋の纏

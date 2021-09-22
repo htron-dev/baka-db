@@ -1,5 +1,7 @@
 # Kimi no Tame ni, Oneechan ga Minna Koroshiteageru: Project Dia Horizon
 
+![kimi-no-tame-ni-oneechan-ga-minna-koroshiteageru-project-dia-horizon](https://cdn.myanimelist.net/images/manga/2/207024.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 6

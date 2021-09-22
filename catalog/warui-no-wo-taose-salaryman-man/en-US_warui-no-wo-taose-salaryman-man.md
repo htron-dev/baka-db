@@ -1,5 +1,7 @@
 # Warui no wo Taose!! Salaryman Man
 
+![warui-no-wo-taose-salaryman-man](https://cdn.myanimelist.net/images/anime/10/81480.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 悪いのを倒せ!!サラリーマンマン

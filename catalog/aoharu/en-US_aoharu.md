@@ -1,5 +1,7 @@
 # Aoharu!
 
+![aoharu](https://cdn.myanimelist.net/images/manga/2/124997.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 17

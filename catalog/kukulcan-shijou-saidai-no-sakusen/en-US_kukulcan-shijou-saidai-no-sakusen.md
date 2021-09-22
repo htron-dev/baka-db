@@ -1,5 +1,7 @@
 # Kukulcan: Shijou Saidai no Sakusen
 
+![kukulcan-shijou-saidai-no-sakusen](https://cdn.myanimelist.net/images/manga/3/222256.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 35

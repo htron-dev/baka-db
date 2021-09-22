@@ -1,5 +1,7 @@
 # Tokyo Marble Chocolate
 
+![tokyo-marble-chocolate](https://cdn.myanimelist.net/images/anime/8/50455.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 東京マーブルチョコレート

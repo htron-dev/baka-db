@@ -1,5 +1,7 @@
 # Motekei Danshi no Shotaiken
 
+![motekei-danshi-no-shotaiken](https://cdn.myanimelist.net/images/manga/2/27556.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: モテ系男子の初体験。

@@ -1,5 +1,7 @@
 # Etotama: Gaiden Novel
 
+![etotama-gaiden-novel](https://cdn.myanimelist.net/images/manga/3/156100.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: えとたま ～外伝のべる～

@@ -1,5 +1,7 @@
 # Tsuki ga Michibiku Isekai Douchuu
 
+![tsuki-ga-michibiku-isekai-douchuu](https://cdn.myanimelist.net/images/anime/1950/116474.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 月が導く異世界道中

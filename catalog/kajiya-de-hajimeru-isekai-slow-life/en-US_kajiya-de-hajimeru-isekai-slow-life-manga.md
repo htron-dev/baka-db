@@ -1,5 +1,7 @@
 # Kajiya de Hajimeru Isekai Slow Life
 
+![kajiya-de-hajimeru-isekai-slow-life](https://cdn.myanimelist.net/images/manga/3/241629.jpg)
+
 -   **type**: manga
 -   **original-name**: 鍛冶屋ではじめる異世界スローライフ
 -   **start-date**: 2020-07-03

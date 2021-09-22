@@ -1,5 +1,7 @@
 # Hongse Chuanqi
 
+![hongse-chuanqi](https://cdn.myanimelist.net/images/anime/1231/115339.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 6
 -   **original-name**: 红色传奇

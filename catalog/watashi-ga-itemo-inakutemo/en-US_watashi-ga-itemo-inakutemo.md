@@ -1,5 +1,7 @@
 # Watashi ga Itemo Inakutemo
 
+![watashi-ga-itemo-inakutemo](https://cdn.myanimelist.net/images/manga/3/208375.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

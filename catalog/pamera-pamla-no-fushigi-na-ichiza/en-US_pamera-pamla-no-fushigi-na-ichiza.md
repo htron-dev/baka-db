@@ -1,5 +1,7 @@
 # Pamera Pamla no Fushigi na Ichiza
 
+![pamera-pamla-no-fushigi-na-ichiza](https://cdn.myanimelist.net/images/manga/1/158858.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Butsuri-san de Musou shitetara Motemote ni Narimashita
 
+![butsuri-san-de-musou-shitetara-motemote-ni-narimashita](https://cdn.myanimelist.net/images/manga/1/140209.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 物理さんで無双してたらモテモテになりました
 -   **start-date**: 2014-09-30

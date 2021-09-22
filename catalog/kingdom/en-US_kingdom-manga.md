@@ -1,5 +1,7 @@
 # Kingdom
 
+![kingdom](https://cdn.myanimelist.net/images/manga/2/171872.jpg)
+
 -   **type**: manga
 -   **original-name**: キングダム
 -   **start-date**: 2006-01-26

@@ -1,5 +1,7 @@
 # Ai Yori Aoshi: Yumegatari
 
+![ai-yori-aoshi-yumegatari](https://cdn.myanimelist.net/images/anime/2/15405.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 藍より青し 夢語り

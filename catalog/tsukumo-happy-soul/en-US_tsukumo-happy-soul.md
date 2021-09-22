@@ -1,5 +1,7 @@
 # Tsukumo Happy Soul
 
+![tsukumo-happy-soul](https://cdn.myanimelist.net/images/manga/1/67877.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

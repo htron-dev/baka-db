@@ -1,5 +1,7 @@
 # Kusuriya no Hitorigoto: Maomao no Koukyuu Nazotoki Techou
 
+![kusuriya-no-hitorigoto-maomao-no-koukyuu-nazotoki-techou](https://cdn.myanimelist.net/images/manga/2/207249.jpg)
+
 -   **type**: manga
 -   **original-name**: 薬屋のひとりごと 猫猫の後宮謎解き手帳
 -   **start-date**: 2017-08-19

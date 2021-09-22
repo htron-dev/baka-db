@@ -1,5 +1,7 @@
 # Tian Guan Ci Fu
 
+![tian-guan-ci-fu](https://cdn.myanimelist.net/images/anime/1319/109301.jpg)
+
 -   **type**: ona
 -   **episodes**: 11
 -   **original-name**: 天官赐福

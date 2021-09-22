@@ -1,5 +1,7 @@
 # McDull: Xiang Dang Dang Ban Wo Xin
 
+![mc-dull-xiang-dang-dang-ban-wo-xin](https://cdn.myanimelist.net/images/anime/9/71982.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 麥兜噹噹伴我心

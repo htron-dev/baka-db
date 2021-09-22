@@ -1,5 +1,7 @@
 # Mushoku Tensei: Roxy datte Honki desu
 
+![mushoku-tensei-roxy-datte-honki-desu](https://cdn.myanimelist.net/images/manga/1/220019.jpg)
+
 -   **type**: manga
 -   **original-name**: 無職転生～ロキシーだって本気です～
 -   **start-date**: 2017-12-21

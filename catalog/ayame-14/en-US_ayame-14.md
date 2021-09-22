@@ -1,5 +1,7 @@
 # Ayame 14
 
+![ayame-14](https://cdn.myanimelist.net/images/manga/1/179309.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

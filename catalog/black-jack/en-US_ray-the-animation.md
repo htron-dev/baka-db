@@ -1,5 +1,7 @@
 # Ray The Animation
 
+![ray-the-animation](https://cdn.myanimelist.net/images/anime/11/33315.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: RAY THE ANIMATION

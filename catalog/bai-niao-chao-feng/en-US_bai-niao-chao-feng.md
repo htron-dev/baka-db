@@ -1,5 +1,7 @@
 # Bai Niao Chao Feng
 
+![bai-niao-chao-feng](https://cdn.myanimelist.net/images/anime/1633/115359.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 百鸟朝凤

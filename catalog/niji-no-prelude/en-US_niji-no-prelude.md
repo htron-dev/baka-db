@@ -1,5 +1,7 @@
 # Niji no Prelude
 
+![niji-no-prelude](https://cdn.myanimelist.net/images/manga/1/36207.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

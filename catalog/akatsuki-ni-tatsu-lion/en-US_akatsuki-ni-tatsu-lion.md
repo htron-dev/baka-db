@@ -1,5 +1,7 @@
 # Akatsuki ni Tatsu Lion
 
+![akatsuki-ni-tatsu-lion](https://cdn.myanimelist.net/images/manga/2/90489.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

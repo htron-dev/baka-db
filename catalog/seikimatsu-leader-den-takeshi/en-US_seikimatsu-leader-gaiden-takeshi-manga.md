@@ -1,5 +1,7 @@
 # Seikimatsu Leader Gaiden Takeshi!
 
+![seikimatsu-leader-gaiden-takeshi](https://cdn.myanimelist.net/images/manga/2/143781.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

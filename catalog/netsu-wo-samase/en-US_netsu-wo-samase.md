@@ -1,5 +1,7 @@
 # Netsu wo Samase!
 
+![netsu-wo-samase](https://cdn.myanimelist.net/images/manga/1/171441.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

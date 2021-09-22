@@ -1,5 +1,7 @@
 # Kinnikuman: Kessen! Shichinin no Seigi Choujin vs. Uchuu Nobushi
 
+![kinnikuman-kessen-shichinin-no-seigi-choujin-vs-uchuu-nobushi](https://cdn.myanimelist.net/images/anime/5/19112.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: キン肉マン 決戦!7 人の正義超人 vs 宇宙野武士

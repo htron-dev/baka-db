@@ -1,5 +1,7 @@
 # Red Night Eve
 
+![red-night-eve](https://cdn.myanimelist.net/images/manga/2/188946.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 51

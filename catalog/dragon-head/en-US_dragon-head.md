@@ -1,5 +1,7 @@
 # Dragon Head
 
+![dragon-head](https://cdn.myanimelist.net/images/manga/1/196300.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 89

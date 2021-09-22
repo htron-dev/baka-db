@@ -1,5 +1,7 @@
 # Be-Bop Highschool
 
+![be-bop-highschool](https://cdn.myanimelist.net/images/anime/8/26707.jpg)
+
 -   **type**: ova
 -   **episodes**: 7
 -   **original-name**: ビー・バップ・ハイスクール

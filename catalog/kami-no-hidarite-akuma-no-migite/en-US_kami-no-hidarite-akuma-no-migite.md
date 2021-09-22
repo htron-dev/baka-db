@@ -1,5 +1,7 @@
 # Kami no Hidarite Akuma no Migite
 
+![kami-no-hidarite-akuma-no-migite](https://cdn.myanimelist.net/images/manga/2/16904.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 77

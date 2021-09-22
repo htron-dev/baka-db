@@ -1,5 +1,7 @@
 # Meikyuu Hyakunen no Suima
 
+![meikyuu-hyakunen-no-suima](https://cdn.myanimelist.net/images/manga/3/41529.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 迷宮百年の睡魔

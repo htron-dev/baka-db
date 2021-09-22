@@ -1,5 +1,7 @@
 # Shinde kudasai! Yuusha desho?
 
+![shinde-kudasai-yuusha-desho](https://cdn.myanimelist.net/images/manga/1/217544.jpg)
+
 -   **type**: manga
 -   **original-name**: 死んでください！勇者でしょ？
 -   **start-date**: 2018-07-27

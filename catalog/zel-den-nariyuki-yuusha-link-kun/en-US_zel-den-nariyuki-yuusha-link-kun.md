@@ -1,5 +1,7 @@
 # ZelDen!: Nariyuki Yuusha Link-kun
 
+![zel-den-nariyuki-yuusha-link-kun](https://cdn.myanimelist.net/images/manga/3/171773.jpg)
+
 -   **type**: manga
 -   **original-name**: ゼルでん! ～なりきり勇者リンクくん～
 

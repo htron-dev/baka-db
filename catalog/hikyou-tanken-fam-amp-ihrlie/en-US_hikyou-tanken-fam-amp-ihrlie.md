@@ -1,5 +1,7 @@
 # Hikyou Tanken Fam &amp; Ihrlie
 
+![hikyou-tanken-fam-amp-ihrlie](https://cdn.myanimelist.net/images/anime/1775/92278.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 秘境探検 ファム＆イーリー

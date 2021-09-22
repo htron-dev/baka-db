@@ -1,5 +1,7 @@
 # Rub in Love
 
+![rub-in-love](https://cdn.myanimelist.net/images/manga/2/2941.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

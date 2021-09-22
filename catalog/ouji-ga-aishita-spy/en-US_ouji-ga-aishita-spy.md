@@ -1,5 +1,7 @@
 # Ouji ga Aishita Spy
 
+![ouji-ga-aishita-spy](https://cdn.myanimelist.net/images/manga/1/125745.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 王子が愛したスパイ

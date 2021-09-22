@@ -1,5 +1,7 @@
 # Suugaku Girl: Fermat no Saishuu Teiri
 
+![suugaku-girl-fermat-no-saishuu-teiri](https://cdn.myanimelist.net/images/manga/2/165119.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

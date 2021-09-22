@@ -1,5 +1,7 @@
 # Toumeiningen no Shissou
 
+![toumeiningen-no-shissou](https://cdn.myanimelist.net/images/manga/1/92093.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

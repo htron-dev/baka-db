@@ -1,5 +1,7 @@
 # Tennen Aluminium!
 
+![tennen-aluminium](https://cdn.myanimelist.net/images/manga/2/36386.jpg)
+
 -   **type**: manga
 -   **original-name**: 天然あるみにゅーむ!
 -   **start-date**: 2009-02-26

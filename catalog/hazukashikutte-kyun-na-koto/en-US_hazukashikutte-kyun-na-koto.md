@@ -1,5 +1,7 @@
 # Hazukashikutte Kyun na Koto
 
+![hazukashikutte-kyun-na-koto](https://cdn.myanimelist.net/images/manga/2/234209.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

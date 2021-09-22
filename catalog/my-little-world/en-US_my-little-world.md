@@ -1,5 +1,7 @@
 # my little world
 
+![my-little-world](https://cdn.myanimelist.net/images/manga/1/73759.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

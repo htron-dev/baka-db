@@ -1,5 +1,7 @@
 # Full Charge!! Kaden-chan
 
+![full-charge-kaden-chan](https://cdn.myanimelist.net/images/manga/2/228173.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 68

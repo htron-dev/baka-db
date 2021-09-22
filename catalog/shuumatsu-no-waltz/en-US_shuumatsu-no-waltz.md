@@ -1,5 +1,7 @@
 # Shuumatsu no Waltz
 
+![shuumatsu-no-waltz](https://cdn.myanimelist.net/images/manga/2/222676.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Wagamama dakedo Itoshikute
 
+![wagamama-dakedo-itoshikute](https://cdn.myanimelist.net/images/manga/2/18870.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 26

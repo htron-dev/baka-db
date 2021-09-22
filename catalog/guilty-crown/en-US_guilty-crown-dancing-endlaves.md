@@ -1,5 +1,7 @@
 # Guilty Crown: Dancing Endlaves
 
+![guilty-crown-dancing-endlaves](https://cdn.myanimelist.net/images/manga/2/154128.jpg)
+
 -   **type**: manga
 -   **original-name**: ギルチイクラウン DANCING ENDLAVES
 -   **start-date**: 2012-05-30

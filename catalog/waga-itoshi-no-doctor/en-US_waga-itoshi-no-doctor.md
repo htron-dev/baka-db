@@ -1,5 +1,7 @@
 # Waga Itoshi no Doctor
 
+![waga-itoshi-no-doctor](https://cdn.myanimelist.net/images/manga/1/79583.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

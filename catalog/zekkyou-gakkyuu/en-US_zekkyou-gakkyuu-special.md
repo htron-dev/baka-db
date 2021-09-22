@@ -1,5 +1,7 @@
 # Zekkyou Gakkyuu
 
+![zekkyou-gakkyuu](https://cdn.myanimelist.net/images/anime/12/76953.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 絶叫学級

@@ -1,5 +1,7 @@
 # Kago Shintarou Anime Sakuhin Shuu
 
+![kago-shintarou-anime-sakuhin-shuu](https://cdn.myanimelist.net/images/anime/10/27656.jpg)
+
 -   **type**: ova
 -   **episodes**: 15
 -   **original-name**: 駕籠真太郎アニメ作品集

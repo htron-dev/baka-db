@@ -1,5 +1,7 @@
 # Sengoku Majin Goushougun: Toki no Etranger
 
+![sengoku-majin-goushougun-toki-no-etranger](https://cdn.myanimelist.net/images/anime/4/50909.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 戦国魔人ゴーショーグン 時の異邦人[ÉTRANGER[エトランゼ]]

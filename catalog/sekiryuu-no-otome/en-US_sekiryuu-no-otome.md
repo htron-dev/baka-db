@@ -1,5 +1,7 @@
 # Sekiryuu no Otome
 
+![sekiryuu-no-otome](https://cdn.myanimelist.net/images/manga/1/42099.jpg)
+
 -   **type**: manga
 -   **original-name**: 赤竜の乙女
 

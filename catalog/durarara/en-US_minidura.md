@@ -1,5 +1,7 @@
 # Minidura
 
+![minidura](https://cdn.myanimelist.net/images/manga/3/140991.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 29

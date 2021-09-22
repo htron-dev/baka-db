@@ -1,5 +1,7 @@
 # Kimi yo Shiruya Ikai no Chi
 
+![kimi-yo-shiruya-ikai-no-chi](https://cdn.myanimelist.net/images/manga/3/196581.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 君よ知るや異界の地

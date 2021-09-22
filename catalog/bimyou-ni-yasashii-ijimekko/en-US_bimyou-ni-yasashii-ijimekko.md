@@ -1,5 +1,7 @@
 # Bimyou ni Yasashii Ijimekko
 
+![bimyou-ni-yasashii-ijimekko](https://cdn.myanimelist.net/images/manga/3/220455.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 142

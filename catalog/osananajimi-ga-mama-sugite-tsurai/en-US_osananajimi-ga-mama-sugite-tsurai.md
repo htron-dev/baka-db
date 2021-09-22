@@ -1,5 +1,7 @@
 # Osananajimi ga Mama sugite Tsurai
 
+![osananajimi-ga-mama-sugite-tsurai](https://cdn.myanimelist.net/images/manga/2/230297.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

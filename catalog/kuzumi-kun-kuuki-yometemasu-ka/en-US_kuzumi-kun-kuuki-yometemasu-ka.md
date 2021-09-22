@@ -1,5 +1,7 @@
 # Kuzumi-kun, Kuuki Yometemasu ka?
 
+![kuzumi-kun-kuuki-yometemasu-ka](https://cdn.myanimelist.net/images/manga/1/171213.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 63

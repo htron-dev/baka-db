@@ -1,8 +1,10 @@
 # Koukaku Kidoutai Arise: Ghost in the Shell - Border:1 Ghost Pain
 
+![koukaku-kidoutai-arise-ghost-in-the-shell-border-1-ghost-pain](https://cdn.myanimelist.net/images/anime/8/46673.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
--   **original-name**: 攻殻機動隊ARISE -GHOST IN THE SHELL- border:1 Ghost Pain
+-   **original-name**: 攻殻機動隊 ARISE -GHOST IN THE SHELL- border:1 Ghost Pain
 -   **start-date**: 2013-06-22
 -   **opening-song**: "GHOST IN THE SHELL ARISE" by Cornelius
 -   **ending-song**: "Jibun ga Inai (じぶんがいない)" by salyu× salyu (サリュバイサリュ)

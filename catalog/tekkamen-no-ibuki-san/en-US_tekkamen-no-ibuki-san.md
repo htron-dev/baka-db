@@ -1,5 +1,7 @@
 # Tekkamen no Ibuki-san
 
+![tekkamen-no-ibuki-san](https://cdn.myanimelist.net/images/manga/2/182346.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 鉄仮面のイブキさん

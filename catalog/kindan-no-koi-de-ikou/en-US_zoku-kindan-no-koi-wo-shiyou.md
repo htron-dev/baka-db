@@ -1,5 +1,7 @@
 # Zoku - Kindan no Koi wo Shiyou
 
+![zoku-kindan-no-koi-wo-shiyou](https://cdn.myanimelist.net/images/manga/2/10852.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

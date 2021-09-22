@@ -1,5 +1,7 @@
 # Haiyoru! Nyaruani: Remember My Love(craft-sensei)
 
+![haiyoru-nyaruani-remember-my-love-craft-sensei](https://cdn.myanimelist.net/images/anime/8/27429.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 這いよる!ニャルアニ リメンバー・マイ・ラブ(クラフト先生)

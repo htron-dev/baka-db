@@ -1,5 +1,7 @@
 # Moero☆S-kei Seifuku Danshi!
 
+![moero☆-s-kei-seifuku-danshi](https://cdn.myanimelist.net/images/manga/1/95119.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

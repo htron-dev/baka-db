@@ -1,5 +1,7 @@
 # Otome Game Sekai wa Mob ni Kibishii Sekai desu
 
+![otome-game-sekai-wa-mob-ni-kibishii-sekai-desu](https://cdn.myanimelist.net/images/manga/1/224322.jpg)
+
 -   **type**: manga
 -   **original-name**: 乙女ゲー世界はモブに厳しい世界です
 -   **start-date**: 2018-10-05

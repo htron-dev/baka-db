@@ -1,5 +1,7 @@
 # Kuroshitsuji
 
+![kuroshitsuji](https://cdn.myanimelist.net/images/anime/5/27013.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 黒執事

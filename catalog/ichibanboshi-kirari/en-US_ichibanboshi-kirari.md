@@ -1,5 +1,7 @@
 # Ichibanboshi Kirari
 
+![ichibanboshi-kirari](https://cdn.myanimelist.net/images/manga/1/172315.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

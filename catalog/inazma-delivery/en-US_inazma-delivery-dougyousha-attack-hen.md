@@ -1,5 +1,7 @@
 # Inazma Delivery: Dougyousha Attack-hen
 
+![inazma-delivery-dougyousha-attack-hen](https://cdn.myanimelist.net/images/anime/1452/112265.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: イナズマデリバリー 同業者アタック編

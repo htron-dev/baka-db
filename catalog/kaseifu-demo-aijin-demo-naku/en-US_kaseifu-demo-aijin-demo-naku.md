@@ -1,5 +1,7 @@
 # Kaseifu demo Aijin demo Naku
 
+![kaseifu-demo-aijin-demo-naku](https://cdn.myanimelist.net/images/manga/3/227563.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 家政婦でも愛人でもなく

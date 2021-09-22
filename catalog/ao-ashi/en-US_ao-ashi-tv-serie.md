@@ -1,5 +1,7 @@
 # Ao Ashi
 
+![ao-ashi](https://cdn.myanimelist.net/images/anime/1709/115184.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: アオアシ
 -   **start-date**: 2022-04-20

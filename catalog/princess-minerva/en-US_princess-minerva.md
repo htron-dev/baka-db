@@ -1,5 +1,7 @@
 # Princess Minerva
 
+![princess-minerva](https://cdn.myanimelist.net/images/anime/7/73451.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: プリンセス ミネルバ

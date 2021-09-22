@@ -1,5 +1,7 @@
 # Bleach: The Death Save the Strawberry
 
+![bleach-the-death-save-the-strawberry](https://cdn.myanimelist.net/images/manga/1/77703.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

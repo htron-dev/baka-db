@@ -1,5 +1,7 @@
 # Fantasista Doll
 
+![fantasista-doll](https://cdn.myanimelist.net/images/manga/1/148019.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

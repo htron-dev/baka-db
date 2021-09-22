@@ -1,5 +1,7 @@
 # Eureka Seven: Gravity Boys and Lifting Girl
 
+![eureka-seven-gravity-boys-and-lifting-girl](https://cdn.myanimelist.net/images/manga/2/166768.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

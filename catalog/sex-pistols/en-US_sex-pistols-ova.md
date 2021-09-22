@@ -1,5 +1,7 @@
 # Sex Pistols
 
+![sex-pistols](https://cdn.myanimelist.net/images/anime/9/23742.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: セックス・ピストルズ

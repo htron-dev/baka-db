@@ -1,5 +1,7 @@
 # Tesagure! Bukatsumono Encore
 
+![tesagure-bukatsumono-encore](https://cdn.myanimelist.net/images/anime/7/58483.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: てさぐれ！部活もの あんこーる

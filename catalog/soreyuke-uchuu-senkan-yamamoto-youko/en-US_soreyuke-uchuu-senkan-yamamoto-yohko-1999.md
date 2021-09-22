@@ -1,5 +1,7 @@
 # Soreyuke! Uchuu Senkan Yamamoto Yohko (1999)
 
+![soreyuke-uchuu-senkan-yamamoto-yohko-1999](https://cdn.myanimelist.net/images/anime/5/30937.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: それゆけ!宇宙戦艦　ヤマモト・ヨーコ

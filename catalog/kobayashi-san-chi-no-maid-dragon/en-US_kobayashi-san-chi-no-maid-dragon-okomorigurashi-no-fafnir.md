@@ -1,5 +1,7 @@
 # Kobayashi-san Chi no Maid Dragon: Okomorigurashi no Fafnir
 
+![kobayashi-san-chi-no-maid-dragon-okomorigurashi-no-fafnir](https://cdn.myanimelist.net/images/manga/1/247859.jpg)
+
 -   **type**: manga
 -   **original-name**: 小林さんちのメイドラゴン　お篭りぐらしのファフニール
 -   **start-date**: 2020-11-25

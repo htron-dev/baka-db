@@ -1,5 +1,7 @@
 # Tenka Hyakken: Hatsu
 
+![tenka-hyakken-hatsu](https://cdn.myanimelist.net/images/manga/3/202675.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

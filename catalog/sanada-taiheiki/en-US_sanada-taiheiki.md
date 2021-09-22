@@ -1,5 +1,7 @@
 # Sanada Taiheiki
 
+![sanada-taiheiki](https://cdn.myanimelist.net/images/manga/2/217152.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 143

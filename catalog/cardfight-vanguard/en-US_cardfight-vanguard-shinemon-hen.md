@@ -1,5 +1,7 @@
 # Cardfight!! Vanguard: Shinemon-hen
 
+![cardfight-vanguard-shinemon-hen](https://cdn.myanimelist.net/images/anime/1197/113438.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 31
 -   **original-name**: カードファイト!! ヴァンガード 新右衛門編
@@ -30,4 +32,4 @@ In order to protect Card Capital, Shinemon Nitta stands up as the "Self-proclaim
 -   [My Anime list](https://myanimelist.net/anime/40167/Cardfight_Vanguard__Shinemon-hen)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14681)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22336)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%88!!_%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%89_(%E3%82%A2%E3%83%8B%E3%83%A1)#%E3%82%AB%E3%83%BC%E3%83%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%88!!_%E3%83%B>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%88!!_%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%89_%28%E3%82%A2%E3%83%8B%E3%83%A1%29#%E3%82%AB%E3%83%BC%E3%83%89%E3%83%95%E3%82%A1%E3%82%A4%E3%83%88!!_%E3%83%B)

@@ -1,5 +1,7 @@
 # Mobile Suit Gundam SEED
 
+![mobile-suit-gundam-seed](https://cdn.myanimelist.net/images/manga/5/733.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

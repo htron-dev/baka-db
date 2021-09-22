@@ -1,5 +1,7 @@
 # Akuma to Keiyaku: Kare no Ijiwaru na Aishikata
 
+![akuma-to-keiyaku-kare-no-ijiwaru-na-aishikata](https://cdn.myanimelist.net/images/manga/3/224203.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

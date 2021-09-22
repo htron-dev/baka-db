@@ -1,5 +1,7 @@
 # Tokyo Love Story
 
+![tokyo-love-story](https://cdn.myanimelist.net/images/manga/3/210366.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 46

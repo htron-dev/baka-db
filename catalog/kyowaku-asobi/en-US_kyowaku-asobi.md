@@ -1,5 +1,7 @@
 # Kyowaku Asobi
 
+![kyowaku-asobi](https://cdn.myanimelist.net/images/manga/1/145291.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 誑惑遊び

@@ -1,5 +1,7 @@
 # Darling wa 55-sai
 
+![darling-wa-55-sai](https://cdn.myanimelist.net/images/manga/3/181538.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

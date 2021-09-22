@@ -1,5 +1,7 @@
 # Eh? Heibon desu yo??
 
+![eh-heibon-desu-yo](https://cdn.myanimelist.net/images/manga/1/186485.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

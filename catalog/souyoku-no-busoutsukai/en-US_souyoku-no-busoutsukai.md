@@ -1,5 +1,7 @@
 # Souyoku no Busoutsukai
 
+![souyoku-no-busoutsukai](https://cdn.myanimelist.net/images/manga/1/246051.jpg)
+
 -   **type**: manga
 -   **original-name**: 双翼の武装使い
 -   **start-date**: 2021-02-12

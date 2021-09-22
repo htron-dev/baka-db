@@ -1,5 +1,7 @@
 # Watashi Sora Anata Watashi
 
+![watashi-sora-anata-watashi](https://cdn.myanimelist.net/images/manga/2/207980.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 30

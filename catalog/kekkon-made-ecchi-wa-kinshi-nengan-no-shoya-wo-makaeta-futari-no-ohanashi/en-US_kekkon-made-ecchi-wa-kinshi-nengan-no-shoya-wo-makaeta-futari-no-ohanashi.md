@@ -1,5 +1,7 @@
 # Kekkon made Ecchi wa Kinshi!?: Nengan no Shoya wo Makaeta Futari no Ohanashi.
 
+![kekkon-made-ecchi-wa-kinshi-nengan-no-shoya-wo-makaeta-futari-no-ohanashi](https://cdn.myanimelist.net/images/manga/1/240858.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

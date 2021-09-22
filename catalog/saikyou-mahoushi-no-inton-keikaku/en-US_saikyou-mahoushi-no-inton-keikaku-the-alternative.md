@@ -1,5 +1,7 @@
 # Saikyou Mahoushi no Inton Keikaku: The Alternative
 
+![saikyou-mahoushi-no-inton-keikaku-the-alternative](https://cdn.myanimelist.net/images/manga/2/240772.jpg)
+
 -   **type**: manga
 -   **original-name**: 最強魔法師の隠遁計画－ジ・オルターネイティブ－
 -   **start-date**: 2020-08-09

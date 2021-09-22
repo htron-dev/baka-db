@@ -1,5 +1,7 @@
 # Detective Conan Movie 10: Requiem of the Detectives
 
+![detective-conan-movie-10-requiem-of-the-detectives](https://cdn.myanimelist.net/images/anime/1919/94322.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン　探偵たちの鎮魂歌[レクイエム]

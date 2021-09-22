@@ -1,5 +1,7 @@
 # Genjuu no Sougaku Kishidan
 
+![genjuu-no-sougaku-kishidan](https://cdn.myanimelist.net/images/manga/1/235585.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 17

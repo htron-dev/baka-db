@@ -1,5 +1,7 @@
 # Ludwig B
 
+![ludwig-b](https://cdn.myanimelist.net/images/manga/5/175752.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ルードヴィヒ・B

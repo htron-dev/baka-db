@@ -1,5 +1,7 @@
 # Makeruna! Senta: Sayonara Ijime Mushi
 
+![makeruna-senta-sayonara-ijime-mushi](https://cdn.myanimelist.net/images/anime/7/74561.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 負けるな！千太～さよならいじめ虫～

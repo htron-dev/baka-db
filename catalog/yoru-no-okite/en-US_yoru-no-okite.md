@@ -1,5 +1,7 @@
 # Yoru no Okite
 
+![yoru-no-okite](https://cdn.myanimelist.net/images/anime/9/18950.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 夜の掟

@@ -1,5 +1,7 @@
 # Oracle☆Himiko-san
 
+![oracle☆-himiko-san](https://cdn.myanimelist.net/images/manga/2/160576.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

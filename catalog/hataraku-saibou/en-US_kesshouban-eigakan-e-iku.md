@@ -1,5 +1,7 @@
 # Kesshouban: Eigakan e Iku
 
+![kesshouban-eigakan-e-iku](https://cdn.myanimelist.net/images/anime/1971/108781.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 血小板 映画館へ行く

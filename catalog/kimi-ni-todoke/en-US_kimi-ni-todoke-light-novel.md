@@ -1,5 +1,7 @@
 # Kimi ni Todoke
 
+![kimi-ni-todoke](https://cdn.myanimelist.net/images/manga/1/38690.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 君に届け
 -   **start-date**: 2007-08-01

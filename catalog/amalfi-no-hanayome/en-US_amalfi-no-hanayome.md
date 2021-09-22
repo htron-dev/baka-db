@@ -1,5 +1,7 @@
 # Amalfi no Hanayome
 
+![amalfi-no-hanayome](https://cdn.myanimelist.net/images/manga/3/189505.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

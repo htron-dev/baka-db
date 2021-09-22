@@ -1,5 +1,7 @@
 # No Game No Life
 
+![no-game-no-life](https://cdn.myanimelist.net/images/manga/2/209665.jpg)
+
 -   **type**: manga
 -   **original-name**: ノーゲーム・ノーライフ
 -   **start-date**: 2013-01-26

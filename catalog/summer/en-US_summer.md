@@ -1,5 +1,7 @@
 # \_Summer
 
+![summer](https://cdn.myanimelist.net/images/anime/11/75131.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: \_summer [アンダーバーサマー]

@@ -1,5 +1,7 @@
 # Machibito wa Tooku ni Airite
 
+![machibito-wa-tooku-ni-airite](https://cdn.myanimelist.net/images/manga/1/79481.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 待人は遠くにありて

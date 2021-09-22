@@ -1,5 +1,7 @@
 # Kukuriraige: Sanseitai Denki
 
+![kukuriraige-sanseitai-denki](https://cdn.myanimelist.net/images/anime/1556/104624.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ククリレイジュ -三星堆伝奇-

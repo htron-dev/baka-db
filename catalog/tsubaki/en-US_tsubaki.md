@@ -1,5 +1,7 @@
 # Tsubaki
 
+![tsubaki](https://cdn.myanimelist.net/images/manga/1/98323.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

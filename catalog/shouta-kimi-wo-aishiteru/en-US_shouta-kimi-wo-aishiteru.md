@@ -1,5 +1,7 @@
 # Shouta, Kimi wo Aishiteru!
 
+![shouta-kimi-wo-aishiteru](https://cdn.myanimelist.net/images/manga/2/244665.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

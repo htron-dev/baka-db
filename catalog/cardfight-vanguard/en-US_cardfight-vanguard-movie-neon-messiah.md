@@ -1,5 +1,7 @@
 # Cardfight!! Vanguard Movie: Neon Messiah
 
+![cardfight-vanguard-movie-neon-messiah](https://cdn.myanimelist.net/images/anime/5/63797.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 カードファイト!! ヴァンガード ネオンメサイア

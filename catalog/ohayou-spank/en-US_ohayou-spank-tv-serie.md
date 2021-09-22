@@ -1,5 +1,7 @@
 # Ohayou! Spank
 
+![ohayou-spank](https://cdn.myanimelist.net/images/anime/3/17542.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 63
 -   **original-name**: おはよう！スパンク

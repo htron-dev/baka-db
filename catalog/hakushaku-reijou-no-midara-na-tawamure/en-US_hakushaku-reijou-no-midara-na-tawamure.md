@@ -1,5 +1,7 @@
 # Hakushaku Reijou no Midara na Tawamure
 
+![hakushaku-reijou-no-midara-na-tawamure](https://cdn.myanimelist.net/images/manga/3/186606.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

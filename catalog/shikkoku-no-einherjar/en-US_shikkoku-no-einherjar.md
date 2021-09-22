@@ -1,5 +1,7 @@
 # Shikkoku no Einherjar
 
+![shikkoku-no-einherjar](https://cdn.myanimelist.net/images/manga/2/158334.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 漆黒のエインヘリアル

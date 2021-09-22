@@ -1,5 +1,7 @@
 # Ulineun Myeong-tam-jeong
 
+![ulineun-myeong-tam-jeong](https://cdn.myanimelist.net/images/anime/1009/115259.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 우리는 명탐정
@@ -10,7 +12,6 @@
 ## Tags
 
 -   mystery
-
 -   school
 
 ## Sinopse

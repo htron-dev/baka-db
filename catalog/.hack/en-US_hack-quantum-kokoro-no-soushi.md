@@ -1,5 +1,7 @@
 # .hack//Quantum: Kokoro no Soushi
 
+![hack-quantum-kokoro-no-soushi](https://cdn.myanimelist.net/images/manga/3/99609.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

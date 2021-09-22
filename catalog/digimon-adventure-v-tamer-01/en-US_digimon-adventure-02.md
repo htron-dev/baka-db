@@ -1,5 +1,7 @@
 # Digimon Adventure 02
 
+![digimon-adventure-02](https://cdn.myanimelist.net/images/anime/8/20360.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: デジモンアドベンチャー０２

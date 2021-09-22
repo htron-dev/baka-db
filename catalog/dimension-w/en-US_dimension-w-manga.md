@@ -1,5 +1,7 @@
 # Dimension W
 
+![dimension-w](https://cdn.myanimelist.net/images/manga/1/219581.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 116

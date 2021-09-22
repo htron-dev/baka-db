@@ -1,5 +1,7 @@
 # Hanako to Guuwa no Teller
 
+![hanako-to-guuwa-no-teller](https://cdn.myanimelist.net/images/manga/3/179322.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

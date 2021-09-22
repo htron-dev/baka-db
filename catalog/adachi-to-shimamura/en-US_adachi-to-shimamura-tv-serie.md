@@ -1,5 +1,7 @@
 # Adachi to Shimamura
 
+![adachi-to-shimamura](https://cdn.myanimelist.net/images/anime/1649/109056.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 安達としまむら

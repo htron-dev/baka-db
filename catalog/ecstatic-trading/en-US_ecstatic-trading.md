@@ -1,5 +1,7 @@
 # Ecstatic Trading
 
+![ecstatic-trading](https://cdn.myanimelist.net/images/manga/3/87993.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Sasurai Emanon
 
+![sasurai-emanon](https://cdn.myanimelist.net/images/manga/2/116171.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 37

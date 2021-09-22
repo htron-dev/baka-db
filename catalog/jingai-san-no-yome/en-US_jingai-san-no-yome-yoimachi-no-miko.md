@@ -1,5 +1,7 @@
 # Jingai-san no Yome: Yoimachi no Miko
 
+![jingai-san-no-yome-yoimachi-no-miko](https://cdn.myanimelist.net/images/manga/2/221808.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

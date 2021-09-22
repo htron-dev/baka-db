@@ -1,5 +1,7 @@
 # PES: Peace Eco Smile - Drive your Heart
 
+![pes-peace-eco-smile-drive-your-heart](https://cdn.myanimelist.net/images/anime/8/50253.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: PES: Peace Eco Smile - Drive your Heart

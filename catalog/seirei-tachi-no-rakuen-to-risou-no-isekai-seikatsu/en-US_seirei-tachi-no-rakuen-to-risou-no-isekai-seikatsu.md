@@ -1,5 +1,7 @@
 # Seirei-tachi no Rakuen to Risou no Isekai Seikatsu
 
+![seirei-tachi-no-rakuen-to-risou-no-isekai-seikatsu](https://cdn.myanimelist.net/images/manga/3/211955.jpg)
+
 -   **type**: manga
 -   **original-name**: 精霊達の楽園と理想の異世界生活
 -   **start-date**: 2018-04-27

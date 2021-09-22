@@ -1,5 +1,7 @@
 # Uwabaki Cook no Tekitou Uranai!
 
+![uwabaki-cook-no-tekitou-uranai](https://cdn.myanimelist.net/images/anime/7/73542.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 125
 -   **original-name**: うわばきクックのテキトー占い!

@@ -1,5 +1,7 @@
 # Rokudou no Onna-tachi
 
+![rokudou-no-onna-tachi](https://cdn.myanimelist.net/images/manga/2/187985.jpg)
+
 -   **type**: manga
 -   **volumes**: 26
 -   **chapters**: 233

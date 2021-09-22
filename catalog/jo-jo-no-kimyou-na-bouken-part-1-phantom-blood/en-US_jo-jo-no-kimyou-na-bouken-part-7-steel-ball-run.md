@@ -1,5 +1,7 @@
 # JoJo no Kimyou na Bouken Part 7: Steel Ball Run
 
+![jo-jo-no-kimyou-na-bouken-part-7-steel-ball-run](https://cdn.myanimelist.net/images/manga/3/179882.jpg)
+
 -   **type**: manga
 -   **volumes**: 24
 -   **chapters**: 96

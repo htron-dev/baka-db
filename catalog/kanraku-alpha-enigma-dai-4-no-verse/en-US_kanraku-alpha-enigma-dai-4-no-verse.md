@@ -1,5 +1,7 @@
 # Kanraku Alpha: Enigma - Dai-4 no Verse
 
+![kanraku-alpha-enigma-dai-4-no-verse](https://cdn.myanimelist.net/images/manga/3/236353.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

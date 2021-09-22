@@ -1,5 +1,7 @@
 # Marmalade Boy
 
+![marmalade-boy](https://cdn.myanimelist.net/images/manga/3/175783.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 40

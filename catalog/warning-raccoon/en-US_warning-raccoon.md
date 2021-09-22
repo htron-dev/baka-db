@@ -1,5 +1,7 @@
 # Warning, Raccoon
 
+![warning-raccoon](https://cdn.myanimelist.net/images/manga/2/30360.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 라쿤주의!!
 

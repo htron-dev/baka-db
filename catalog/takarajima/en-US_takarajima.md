@@ -1,5 +1,7 @@
 # Takarajima
 
+![takarajima](https://cdn.myanimelist.net/images/anime/11/56123.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 宝島
@@ -28,4 +30,4 @@ Jim Hawkins is a young boy lead by progressive events to embark on a search jour
 -   [Official Site](http://www.tms-e.com/library/tokushu/takarajima/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2038)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2131)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Takarajima_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Takarajima_%28anime%29)

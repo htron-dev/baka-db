@@ -1,5 +1,7 @@
 # Seven Knights Revolution: Eiyuu no Keishousha
 
+![seven-knights-revolution-eiyuu-no-keishousha](https://cdn.myanimelist.net/images/anime/1079/114017.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: セブンナイツ レボリューション -英雄の継承者-

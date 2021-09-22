@@ -1,5 +1,7 @@
 # Kamisama (Kari) no Hatameiwaku na Chouai
 
+![kamisama-kari-no-hatameiwaku-na-chouai](https://cdn.myanimelist.net/images/manga/1/192821.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Tsukaima Ouji no Aruji-sama: Koi to Keiyaku wa Totsuzen ni
 
+![tsukaima-ouji-no-aruji-sama-koi-to-keiyaku-wa-totsuzen-ni](https://cdn.myanimelist.net/images/manga/3/214563.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

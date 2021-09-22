@@ -1,5 +1,7 @@
 # Iburigurashi
 
+![iburigurashi](https://cdn.myanimelist.net/images/manga/3/162981.jpg)
+
 -   **type**: manga
 -   **original-name**: いぶり暮らし
 -   **start-date**: 2014-01-25

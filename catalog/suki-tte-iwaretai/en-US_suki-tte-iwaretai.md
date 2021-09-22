@@ -1,5 +1,7 @@
 # Suki tte Iwaretai
 
+![suki-tte-iwaretai](https://cdn.myanimelist.net/images/manga/1/53989.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

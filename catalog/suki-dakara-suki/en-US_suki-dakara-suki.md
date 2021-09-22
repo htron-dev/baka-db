@@ -1,5 +1,7 @@
 # Suki. Dakara Suki
 
+![suki-dakara-suki](https://cdn.myanimelist.net/images/manga/3/220220.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

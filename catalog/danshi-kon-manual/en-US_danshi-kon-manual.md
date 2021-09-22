@@ -1,5 +1,7 @@
 # Danshi-Kon Manual
 
+![danshi-kon-manual](https://cdn.myanimelist.net/images/manga/3/225024.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

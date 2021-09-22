@@ -1,5 +1,7 @@
 # Futago no Monchhichi
 
+![futago-no-monchhichi](https://cdn.myanimelist.net/images/anime/12/47049.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 130
 -   **original-name**: ふたごのモンチッチ

@@ -1,5 +1,7 @@
 # Tsukiiro no Invader
 
+![tsukiiro-no-invader](https://cdn.myanimelist.net/images/manga/2/225092.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

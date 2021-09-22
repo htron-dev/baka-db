@@ -1,5 +1,7 @@
 # Tokeijikake no Ane
 
+![tokeijikake-no-ane](https://cdn.myanimelist.net/images/manga/2/194332.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

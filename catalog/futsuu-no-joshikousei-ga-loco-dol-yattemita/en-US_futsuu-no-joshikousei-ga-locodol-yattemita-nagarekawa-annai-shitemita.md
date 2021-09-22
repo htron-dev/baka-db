@@ -1,5 +1,7 @@
 # Futsuu no Joshikousei ga [Locodol] Yattemita.: Nagarekawa, Annai Shitemita.
 
+![futsuu-no-joshikousei-ga-locodol-yattemita-nagarekawa-annai-shitemita](https://cdn.myanimelist.net/images/anime/11/67619.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 普通の女子校生が【ろこどる】やってみた。流川、案内してみた。

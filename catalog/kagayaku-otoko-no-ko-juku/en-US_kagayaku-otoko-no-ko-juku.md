@@ -1,5 +1,7 @@
 # Kagayaku!! Otoko no Ko Juku
 
+![kagayaku-otoko-no-ko-juku](https://cdn.myanimelist.net/images/manga/1/201578.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

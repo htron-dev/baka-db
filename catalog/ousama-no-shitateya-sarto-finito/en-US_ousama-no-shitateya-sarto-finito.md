@@ -1,5 +1,7 @@
 # Ousama no Shitateya: Sarto Finito
 
+![ousama-no-shitateya-sarto-finito](https://cdn.myanimelist.net/images/manga/2/232898.jpg)
+
 -   **type**: manga
 -   **volumes**: 32
 -   **chapters**: 201

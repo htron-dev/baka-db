@@ -1,5 +1,7 @@
 # Himitsu no Bodyguard
 
+![himitsu-no-bodyguard](https://cdn.myanimelist.net/images/manga/1/194932.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

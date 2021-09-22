@@ -1,5 +1,7 @@
 # Kiddy Grade: Maelstrom
 
+![kiddy-grade-maelstrom](https://cdn.myanimelist.net/images/anime/2/56969.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キディ・グレイド 劇場版 第二部: 氾濫篇

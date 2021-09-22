@@ -1,5 +1,7 @@
 # Muteki no Love Power
 
+![muteki-no-love-power](https://cdn.myanimelist.net/images/manga/3/22632.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

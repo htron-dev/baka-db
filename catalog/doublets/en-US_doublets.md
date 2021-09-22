@@ -1,5 +1,7 @@
 # Doublets
 
+![doublets](https://cdn.myanimelist.net/images/manga/1/24298.jpg)
+
 -   **type**: manga
 -   **original-name**: ドブレッツ
 

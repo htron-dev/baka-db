@@ -1,5 +1,7 @@
 # Genkaigoe no Skill wa, Tenseisha ni shika Atsukaenai: Over Limit Skill Holder
 
+![genkaigoe-no-skill-wa-tenseisha-ni-shika-atsukaenai-over-limit-skill-holder](https://cdn.myanimelist.net/images/manga/2/246127.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 限界超えの天賦〈スキル〉は、転生者にしか扱えない　－オーバーリミット・スキルホルダー－
 -   **start-date**: 2020-11-20

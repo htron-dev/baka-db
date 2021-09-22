@@ -1,5 +1,7 @@
 # Souten Kouro
 
+![souten-kouro](https://cdn.myanimelist.net/images/anime/8/13994.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 蒼天航路

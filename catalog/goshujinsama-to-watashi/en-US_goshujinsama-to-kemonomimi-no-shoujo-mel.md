@@ -1,5 +1,7 @@
 # Goshujinsama to Kemonomimi no Shoujo Mel
 
+![goshujinsama-to-kemonomimi-no-shoujo-mel](https://cdn.myanimelist.net/images/manga/1/190125.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

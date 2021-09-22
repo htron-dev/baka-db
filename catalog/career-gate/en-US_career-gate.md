@@ -1,5 +1,7 @@
 # Career Gate
 
+![career-gate](https://cdn.myanimelist.net/images/manga/4/62905.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

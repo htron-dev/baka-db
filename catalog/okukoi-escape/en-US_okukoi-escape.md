@@ -1,5 +1,7 @@
 # Okukoi Escape
 
+![okukoi-escape](https://cdn.myanimelist.net/images/manga/3/225775.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

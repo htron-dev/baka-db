@@ -1,5 +1,7 @@
 # Oda Nobunaga to Iu Nazo no Shokugyou ga Mahou Kenshi yori Cheat Datta node, Oukoku wo Tsukuru Koto ni Shimashita
 
+![oda-nobunaga-to-iu-nazo-no-shokugyou-ga-mahou-kenshi-yori-cheat-datta-node-oukoku-wo-tsukuru-koto-ni-shimashita](https://cdn.myanimelist.net/images/manga/1/204003.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 42

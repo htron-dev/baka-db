@@ -1,5 +1,7 @@
 # Ore, "Shiro" wo Sodateru
 
+![ore-shiro-wo-sodateru](https://cdn.myanimelist.net/images/manga/2/200907.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 俺、「城」を育てる
 -   **start-date**: 2017-09-30

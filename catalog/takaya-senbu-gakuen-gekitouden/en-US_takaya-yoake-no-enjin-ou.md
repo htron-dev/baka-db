@@ -1,5 +1,7 @@
 # Takaya: Yoake no Enjin-ou
 
+![takaya-yoake-no-enjin-ou](https://cdn.myanimelist.net/images/manga/1/227268.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

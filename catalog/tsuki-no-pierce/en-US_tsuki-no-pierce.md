@@ -1,5 +1,7 @@
 # Tsuki no Pierce
 
+![tsuki-no-pierce](https://cdn.myanimelist.net/images/manga/2/124377.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 月のピアス

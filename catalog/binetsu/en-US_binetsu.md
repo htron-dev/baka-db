@@ -1,5 +1,7 @@
 # Binetsu
 
+![binetsu](https://cdn.myanimelist.net/images/manga/2/79151.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 微熱 BI・NE・TU

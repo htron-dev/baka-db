@@ -1,5 +1,7 @@
 # Heaven's Diary
 
+![heavens-diary](https://cdn.myanimelist.net/images/manga/2/162646.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Tenshi no Su
 
+![tenshi-no-su](https://cdn.myanimelist.net/images/manga/1/114665.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

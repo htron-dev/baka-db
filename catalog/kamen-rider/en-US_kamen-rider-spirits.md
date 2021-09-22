@@ -1,5 +1,7 @@
 # Kamen Rider Spirits
 
+![kamen-rider-spirits](https://cdn.myanimelist.net/images/manga/3/185785.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 96

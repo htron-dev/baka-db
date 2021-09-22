@@ -1,5 +1,7 @@
 # Shichinin no Nana
 
+![shichinin-no-nana](https://cdn.myanimelist.net/images/anime/4/35193.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 七人のナナ

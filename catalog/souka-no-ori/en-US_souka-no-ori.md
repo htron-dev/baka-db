@@ -1,5 +1,7 @@
 # Souka no Ori
 
+![souka-no-ori](https://cdn.myanimelist.net/images/manga/1/67331.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

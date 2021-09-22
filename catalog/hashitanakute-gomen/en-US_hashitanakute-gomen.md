@@ -1,5 +1,7 @@
 # Hashitanakute Gomen
 
+![hashitanakute-gomen](https://cdn.myanimelist.net/images/manga/1/190797.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 34

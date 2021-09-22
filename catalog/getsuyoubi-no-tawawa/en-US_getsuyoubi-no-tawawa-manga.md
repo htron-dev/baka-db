@@ -1,5 +1,7 @@
 # Getsuyoubi no Tawawa
 
+![getsuyoubi-no-tawawa](https://cdn.myanimelist.net/images/manga/2/243101.jpg)
+
 -   **type**: manga
 -   **original-name**: 月曜日のたわわ
 -   **start-date**: 2020-11-16

@@ -1,5 +1,7 @@
 # Isekai Ace
 
+![isekai-ace](https://cdn.myanimelist.net/images/manga/1/183209.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 59

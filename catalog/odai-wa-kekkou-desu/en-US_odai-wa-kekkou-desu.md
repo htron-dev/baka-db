@@ -1,5 +1,7 @@
 # Odai wa Kekkou desu
 
+![odai-wa-kekkou-desu](https://cdn.myanimelist.net/images/manga/3/236364.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Zero no Tsukaima Gaiden: Tabitha no Bouken
 
+![zero-no-tsukaima-gaiden-tabitha-no-bouken](https://cdn.myanimelist.net/images/manga/2/173853.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 13

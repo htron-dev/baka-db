@@ -1,5 +1,7 @@
 # Hanasakeru Seishounen: Tokubetsu-hen
 
+![hanasakeru-seishounen-tokubetsu-hen](https://cdn.myanimelist.net/images/manga/3/127963.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 花咲ける青少年 特別編

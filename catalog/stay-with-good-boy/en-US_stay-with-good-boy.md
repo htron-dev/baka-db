@@ -1,5 +1,7 @@
 # Stay with Good Boy
 
+![stay-with-good-boy](https://cdn.myanimelist.net/images/manga/3/245476.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

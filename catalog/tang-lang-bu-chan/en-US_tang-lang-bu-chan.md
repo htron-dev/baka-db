@@ -1,5 +1,7 @@
 # Tang Lang Bu Chan
 
+![tang-lang-bu-chan](https://cdn.myanimelist.net/images/anime/4/76910.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 螳螂捕蝉

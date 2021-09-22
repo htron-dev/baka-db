@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam 00
 
+![kidou-senshi-gundam-00](https://cdn.myanimelist.net/images/manga/2/185781.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

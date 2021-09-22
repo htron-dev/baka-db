@@ -1,5 +1,7 @@
 # Kyoudai Yamemasu ka?
 
+![kyoudai-yamemasu-ka](https://cdn.myanimelist.net/images/manga/2/71003.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

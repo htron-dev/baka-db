@@ -1,5 +1,7 @@
 # Star Wars: Teikoku no Gyakushuu
 
+![star-wars-teikoku-no-gyakushuu](https://cdn.myanimelist.net/images/manga/2/763.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: STAR WARS 帝国の逆襲

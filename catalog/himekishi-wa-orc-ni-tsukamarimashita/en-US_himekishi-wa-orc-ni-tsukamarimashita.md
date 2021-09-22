@@ -1,5 +1,7 @@
 # Himekishi wa Orc ni Tsukamarimashita.
 
+![himekishi-wa-orc-ni-tsukamarimashita](https://cdn.myanimelist.net/images/manga/3/172845.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 姫騎士はオークにつかまりました。
 -   **start-date**: 2016-02-20

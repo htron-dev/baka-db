@@ -1,5 +1,7 @@
 # Konjiki no Gash Bell!!
 
+![konjiki-no-gash-bell](https://cdn.myanimelist.net/images/anime/7/14983.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 150
 -   **original-name**: 金色のガッシュベル!!

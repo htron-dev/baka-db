@@ -1,5 +1,7 @@
 # Fudanshi Manga Michi: BL wa Karada de Manabe!?
 
+![fudanshi-manga-michi-bl-wa-karada-de-manabe](https://cdn.myanimelist.net/images/manga/3/136907.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 腐男子まんが道‐BL はカラダで学べ!?‐

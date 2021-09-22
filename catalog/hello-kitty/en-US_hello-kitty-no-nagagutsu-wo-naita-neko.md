@@ -1,5 +1,7 @@
 # Hello Kitty no Nagagutsu wo Naita Neko
 
+![hello-kitty-no-nagagutsu-wo-naita-neko](https://cdn.myanimelist.net/images/anime/5/58667.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティの長靴をはいた猫

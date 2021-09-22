@@ -1,5 +1,7 @@
 # Kienai Kamiato
 
+![kienai-kamiato](https://cdn.myanimelist.net/images/manga/3/88087.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Kachou Ouji
 
+![kachou-ouji](https://cdn.myanimelist.net/images/anime/1957/106044.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 課長王子

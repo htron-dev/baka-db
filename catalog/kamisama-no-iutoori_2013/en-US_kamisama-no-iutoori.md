@@ -1,5 +1,7 @@
 # Kamisama no Iutoori.
 
+![kamisama-no-iutoori](https://cdn.myanimelist.net/images/manga/2/167969.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

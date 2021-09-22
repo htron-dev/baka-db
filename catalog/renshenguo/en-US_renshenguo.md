@@ -1,5 +1,7 @@
 # Renshenguo
 
+![renshenguo](https://cdn.myanimelist.net/images/anime/13/26076.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 人參果

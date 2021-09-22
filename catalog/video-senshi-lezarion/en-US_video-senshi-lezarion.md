@@ -1,5 +1,7 @@
 # Video Senshi Lezarion
 
+![video-senshi-lezarion](https://cdn.myanimelist.net/images/anime/10/57367.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 45
 -   **original-name**: ビデオ戦士レザリオン

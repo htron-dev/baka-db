@@ -1,5 +1,7 @@
 # Kaikan Ristorante: Karakuchi Chef no Amai Oshioki
 
+![kaikan-ristorante-karakuchi-chef-no-amai-oshioki](https://cdn.myanimelist.net/images/manga/1/198008.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Munasawagi Karute
 
+![munasawagi-karute](https://cdn.myanimelist.net/images/manga/5/10357.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

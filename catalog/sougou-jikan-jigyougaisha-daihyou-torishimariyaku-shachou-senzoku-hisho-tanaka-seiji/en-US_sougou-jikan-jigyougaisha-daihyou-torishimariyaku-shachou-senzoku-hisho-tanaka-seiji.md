@@ -1,5 +1,7 @@
 # Sougou Jikan Jigyougaisha Daihyou Torishimariyaku Shachou Senzoku Hisho Tanaka Seiji
 
+![sougou-jikan-jigyougaisha-daihyou-torishimariyaku-shachou-senzoku-hisho-tanaka-seiji](https://cdn.myanimelist.net/images/manga/3/219502.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

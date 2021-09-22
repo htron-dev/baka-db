@@ -1,5 +1,7 @@
 # Mahoutsukai Precure!
 
+![mahoutsukai-precure](https://cdn.myanimelist.net/images/anime/2/78333.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: 魔法つかいプリキュア！

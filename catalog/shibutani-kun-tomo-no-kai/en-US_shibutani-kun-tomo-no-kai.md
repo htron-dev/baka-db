@@ -1,5 +1,7 @@
 # Shibutani-kun Tomo no Kai
 
+![shibutani-kun-tomo-no-kai](https://cdn.myanimelist.net/images/manga/2/7622.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 28

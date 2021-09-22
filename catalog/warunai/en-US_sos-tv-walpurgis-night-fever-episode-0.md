@@ -1,5 +1,7 @@
 # SOS TV Walpurgis Night Fever Episode 0
 
+![sos-tv-walpurgis-night-fever-episode-0](https://cdn.myanimelist.net/images/anime/9/24007.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ワルプルギスナイトフィーバー

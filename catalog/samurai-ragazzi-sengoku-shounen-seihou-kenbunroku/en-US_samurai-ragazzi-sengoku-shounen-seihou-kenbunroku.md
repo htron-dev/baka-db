@@ -1,5 +1,7 @@
 # Samurai Ragazzi: Sengoku Shounen Seihou Kenbunroku
 
+![samurai-ragazzi-sengoku-shounen-seihou-kenbunroku](https://cdn.myanimelist.net/images/manga/2/149581.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 39

@@ -1,5 +1,7 @@
 # THE IDOLM@STER relations
 
+![the-idolm-ster-relations](https://cdn.myanimelist.net/images/manga/2/10386.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

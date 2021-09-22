@@ -1,5 +1,7 @@
 # Ojousama no Honenuki Konkatsu Choukyou Battle
 
+![ojousama-no-honenuki-konkatsu-choukyou-battle](https://cdn.myanimelist.net/images/manga/2/169765.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Dokuro
 
+![dokuro](https://cdn.myanimelist.net/images/manga/1/75871.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 33

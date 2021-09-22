@@ -1,5 +1,7 @@
 # Densetsu no Yuusha no Densetsu
 
+![densetsu-no-yuusha-no-densetsu](https://cdn.myanimelist.net/images/anime/8/73651.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 伝説の勇者の伝説

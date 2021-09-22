@@ -1,5 +1,7 @@
 # Aozora Rubber
 
+![aozora-rubber](https://cdn.myanimelist.net/images/manga/1/174535.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 30

@@ -1,5 +1,7 @@
 # Owari no Chronicle DC
 
+![owari-no-chronicle-dc](https://cdn.myanimelist.net/images/manga/1/229550.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 終わりのクロニクル DC

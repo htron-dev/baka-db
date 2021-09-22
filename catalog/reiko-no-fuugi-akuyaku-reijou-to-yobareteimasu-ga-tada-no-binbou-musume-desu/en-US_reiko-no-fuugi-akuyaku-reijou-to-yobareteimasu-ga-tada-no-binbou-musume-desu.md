@@ -1,5 +1,7 @@
 # Reiko no Fuugi: Akuyaku Reijou to Yobareteimasu ga, Tada no Binbou Musume desu
 
+![reiko-no-fuugi-akuyaku-reijou-to-yobareteimasu-ga-tada-no-binbou-musume-desu](https://cdn.myanimelist.net/images/manga/3/243039.jpg)
+
 -   **type**: manga
 -   **original-name**: 麗子の風儀 悪役令嬢と呼ばれていますが、ただの貧乏娘です
 -   **start-date**: 2020-01-31

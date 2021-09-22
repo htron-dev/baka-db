@@ -1,5 +1,7 @@
 # Tenpari!
 
+![tenpari](https://cdn.myanimelist.net/images/manga/2/73157.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: テンパリ!

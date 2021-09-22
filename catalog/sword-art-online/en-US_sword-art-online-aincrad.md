@@ -1,5 +1,7 @@
 # Sword Art Online: Aincrad
 
+![sword-art-online-aincrad](https://cdn.myanimelist.net/images/manga/2/77727.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

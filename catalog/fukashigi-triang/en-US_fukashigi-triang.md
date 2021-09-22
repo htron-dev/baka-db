@@ -1,5 +1,7 @@
 # Fukashigi Triang
 
+![fukashigi-triang](https://cdn.myanimelist.net/images/manga/1/162257.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

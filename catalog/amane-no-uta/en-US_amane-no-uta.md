@@ -1,5 +1,7 @@
 # Amane no Uta
 
+![amane-no-uta](https://cdn.myanimelist.net/images/manga/1/33904.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

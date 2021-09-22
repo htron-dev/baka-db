@@ -1,5 +1,7 @@
 # Groundless
 
+![groundless](https://cdn.myanimelist.net/images/manga/3/139775.jpg)
+
 -   **type**: manga
 -   **original-name**: GROUNDLESS
 -   **start-date**: 2010-06-06

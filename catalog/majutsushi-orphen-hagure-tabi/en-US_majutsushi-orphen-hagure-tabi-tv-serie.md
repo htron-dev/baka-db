@@ -1,5 +1,7 @@
 # Majutsushi Orphen Hagure Tabi
 
+![majutsushi-orphen-hagure-tabi](https://cdn.myanimelist.net/images/anime/1093/113944.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 魔術士オーフェンはぐれ旅

@@ -1,5 +1,7 @@
 # Motto To LOVE-Ru
 
+![motto-to-love-ru](https://cdn.myanimelist.net/images/anime/4/59875.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: もっと To LOVE る -とらぶる-

@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam: Koubou no A Baoa Qu
 
+![kidou-senshi-gundam-koubou-no-a-baoa-qu](https://cdn.myanimelist.net/images/manga/2/147395.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

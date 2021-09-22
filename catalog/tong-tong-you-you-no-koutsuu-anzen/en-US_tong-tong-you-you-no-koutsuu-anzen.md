@@ -1,5 +1,7 @@
 # Tong Tong - You You no Koutsuu Anzen
 
+![tong-tong-you-you-no-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/1506/99040.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: トントン・ユウユウの交通安全
@@ -18,4 +20,4 @@ This educational short was in part made in honor of the 20th anniversary of the 
 
 -   [My Anime list](https://myanimelist.net/anime/39256/Tong_Tong_-_You_You_no_Koutsuu_Anzen)
 -   [Official Site](http://www.lalanet.gr.jp/search/searchdtl.aspx?knd=9&ht=1&pageSiz=0&pageNum=0&&stdycd=18465)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%B3%E3%83%88%E3%83%B3_(%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88%E3%83%91%E3%83%B3%E3%83%80)>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%B3%E3%83%88%E3%83%B3_%28%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88%E3%83%91%E3%83%B3%E3%83%80%29)

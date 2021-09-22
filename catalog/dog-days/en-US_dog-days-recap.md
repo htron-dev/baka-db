@@ -1,5 +1,7 @@
 # Dog Days Recap
 
+![dog-days-recap](https://cdn.myanimelist.net/images/anime/5/70713.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ドッグデイズ

@@ -1,5 +1,7 @@
 # Orc wa Nozomanai
 
+![orc-wa-nozomanai](https://cdn.myanimelist.net/images/manga/3/222328.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

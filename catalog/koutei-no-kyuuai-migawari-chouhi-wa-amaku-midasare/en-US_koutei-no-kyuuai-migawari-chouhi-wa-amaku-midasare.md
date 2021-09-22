@@ -1,5 +1,7 @@
 # Koutei no Kyuuai: Migawari Chouhi wa Amaku Midasare
 
+![koutei-no-kyuuai-migawari-chouhi-wa-amaku-midasare](https://cdn.myanimelist.net/images/manga/1/184023.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

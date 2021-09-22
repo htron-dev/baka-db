@@ -1,5 +1,7 @@
 # Natsu no Owari no Yuunagi ni: Toiki wa Netsu wo Harem
 
+![natsu-no-owari-no-yuunagi-ni-toiki-wa-netsu-wo-harem](https://cdn.myanimelist.net/images/manga/2/193144.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 42

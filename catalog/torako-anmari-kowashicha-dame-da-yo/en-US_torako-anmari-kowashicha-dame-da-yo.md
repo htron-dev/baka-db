@@ -1,5 +1,7 @@
 # Torako, Anmari Kowashicha Dame da yo
 
+![torako-anmari-kowashicha-dame-da-yo](https://cdn.myanimelist.net/images/manga/1/204356.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

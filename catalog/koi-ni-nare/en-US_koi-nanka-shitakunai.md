@@ -1,5 +1,7 @@
 # Koi nanka Shitakunai
 
+![koi-nanka-shitakunai](https://cdn.myanimelist.net/images/manga/1/160803.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

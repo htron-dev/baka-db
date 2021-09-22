@@ -1,5 +1,7 @@
 # Astarotte no Omocha!
 
+![astarotte-no-omocha](https://cdn.myanimelist.net/images/anime/3/75562.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: アスタロッテのおもちゃ！

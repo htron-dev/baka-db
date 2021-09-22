@@ -1,5 +1,7 @@
 # Tandeki Keiyakukon: Do S Koushaku no Midara na Atelier
 
+![tandeki-keiyakukon-do-s-koushaku-no-midara-na-atelier](https://cdn.myanimelist.net/images/manga/2/193399.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

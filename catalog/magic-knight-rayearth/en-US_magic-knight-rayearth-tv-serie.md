@@ -1,5 +1,7 @@
 # Magic Knight Rayearth
 
+![magic-knight-rayearth](https://cdn.myanimelist.net/images/anime/1683/97042.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 20
 -   **original-name**: 魔法騎士（マジックナイト）レイアース

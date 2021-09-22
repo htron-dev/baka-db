@@ -1,5 +1,7 @@
 # Shukufuku no Campanella
 
+![shukufuku-no-campanella](https://cdn.myanimelist.net/images/manga/3/24438.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 祝福のカンパネラ

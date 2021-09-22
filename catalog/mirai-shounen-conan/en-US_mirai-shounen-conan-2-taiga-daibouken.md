@@ -1,5 +1,7 @@
 # Mirai Shounen Conan 2: Taiga Daibouken
 
+![mirai-shounen-conan-2-taiga-daibouken](https://cdn.myanimelist.net/images/anime/12/40015.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 未来少年コナン II 　タイガアドベンチャー

@@ -1,5 +1,7 @@
 # Love Game
 
+![love-game](https://cdn.myanimelist.net/images/manga/1/36802.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **start-date**: 2003-12-20

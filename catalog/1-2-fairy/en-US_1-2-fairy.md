@@ -1,5 +1,7 @@
 # 1/2 Fairy!
 
+![1-2-fairy](https://cdn.myanimelist.net/images/manga/3/9301.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

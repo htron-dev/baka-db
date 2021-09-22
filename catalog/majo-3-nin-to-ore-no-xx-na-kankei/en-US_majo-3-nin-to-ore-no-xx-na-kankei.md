@@ -1,5 +1,7 @@
 # Majo 3-nin to Ore no xx na Kankei
 
+![majo-3-nin-to-ore-no-xx-na-kankei](https://cdn.myanimelist.net/images/manga/3/123277.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

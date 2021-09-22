@@ -1,5 +1,7 @@
 # Ougon no Drakken
 
+![ougon-no-drakken](https://cdn.myanimelist.net/images/manga/1/90355.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

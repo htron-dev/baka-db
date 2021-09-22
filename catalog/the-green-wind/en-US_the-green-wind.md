@@ -1,5 +1,7 @@
 # The Green Wind
 
+![the-green-wind](https://cdn.myanimelist.net/images/anime/2/38303.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: The green wind

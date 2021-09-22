@@ -1,5 +1,7 @@
 # Poputepipikku
 
+![poputepipikku](https://cdn.myanimelist.net/images/manga/3/169121.jpg)
+
 -   **type**: manga
 -   **original-name**: ポプテピピック
 -   **start-date**: 2014-08-29

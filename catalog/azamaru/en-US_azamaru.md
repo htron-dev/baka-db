@@ -1,5 +1,7 @@
 # Azamaru
 
+![azamaru](https://cdn.myanimelist.net/images/manga/2/19600.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

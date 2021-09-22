@@ -1,5 +1,7 @@
 # Senken no Majutsushi to Yobareta Kenshi
 
+![senken-no-majutsushi-to-yobareta-kenshi](https://cdn.myanimelist.net/images/manga/2/220508.jpg)
+
 -   **type**: manga
 -   **original-name**: 千剣の魔術師と呼ばれた剣士
 -   **start-date**: 2018-12-25

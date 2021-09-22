@@ -1,5 +1,7 @@
 # Juusenki L-Gaim III: Full Metal Soldier
 
+![juusenki-l-gaim-iii-full-metal-soldier](https://cdn.myanimelist.net/images/anime/3/24615.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 重戦機エルガイム Ⅲ フルメタル ソルジャー

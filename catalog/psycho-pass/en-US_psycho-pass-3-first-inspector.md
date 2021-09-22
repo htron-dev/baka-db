@@ -1,5 +1,7 @@
 # Psycho-Pass 3: First Inspector
 
+![psycho-pass-3-first-inspector](https://cdn.myanimelist.net/images/anime/1085/110722.jpg)
+
 -   **type**: movie
 -   **episodes**: 3
 -   **original-name**: PSYCHO-PASS サイコパス 3 FIRST INSPECTOR

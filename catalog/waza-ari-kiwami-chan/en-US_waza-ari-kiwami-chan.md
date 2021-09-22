@@ -1,5 +1,7 @@
 # Waza Ari– Kiwami-chan
 
+![waza-ari-kiwami-chan](https://cdn.myanimelist.net/images/manga/2/33945.jpg)
+
 -   **type**: manga
 -   **original-name**: わざアリっ ♡ きわみちゃん
 -   **start-date**: 2010-04-20

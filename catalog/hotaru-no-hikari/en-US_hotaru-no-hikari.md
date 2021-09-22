@@ -1,5 +1,7 @@
 # Hotaru no Hikari
 
+![hotaru-no-hikari](https://cdn.myanimelist.net/images/manga/3/195176.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 90

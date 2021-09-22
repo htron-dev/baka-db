@@ -1,5 +1,7 @@
 # Hidan no Aria
 
+![hidan-no-aria](https://cdn.myanimelist.net/images/manga/3/52897.jpg)
+
 -   **type**: manga
 -   **original-name**: 緋弾のアリア
 -   **start-date**: 2009-09-26

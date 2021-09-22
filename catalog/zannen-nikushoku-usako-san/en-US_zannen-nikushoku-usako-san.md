@@ -1,5 +1,7 @@
 # Zannen Nikushoku Usako-san
 
+![zannen-nikushoku-usako-san](https://cdn.myanimelist.net/images/manga/3/225288.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

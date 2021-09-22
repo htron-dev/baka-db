@@ -1,5 +1,7 @@
 # Oni no Mataoni no Amo
 
+![oni-no-mataoni-no-amo](https://cdn.myanimelist.net/images/manga/1/211540.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 40

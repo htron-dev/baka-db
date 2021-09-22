@@ -1,5 +1,7 @@
 # Allison
 
+![allison](https://cdn.myanimelist.net/images/manga/2/104857.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

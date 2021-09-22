@@ -1,5 +1,7 @@
 # Kyoushoku Soukou Guyver
 
+![kyoushoku-soukou-guyver](https://cdn.myanimelist.net/images/manga/2/196745.jpg)
+
 -   **type**: manga
 -   **original-name**: 強殖装甲ガイバー
 -   **start-date**: 1985-01-19

@@ -1,5 +1,7 @@
 # Masamune Datenicle
 
+![masamune-datenicle](https://cdn.myanimelist.net/images/anime/7/83821.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: 政宗ダテニクル

@@ -1,5 +1,7 @@
 # Strange Girl wa Amai Tenohira no Ue de Odoru
 
+![strange-girl-wa-amai-tenohira-no-ue-de-odoru](https://cdn.myanimelist.net/images/manga/1/161048.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

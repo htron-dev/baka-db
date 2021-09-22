@@ -1,5 +1,7 @@
 # Lover's High
 
+![lovers-high](https://cdn.myanimelist.net/images/manga/3/152517.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # Niehime to Kemono no Ou
 
+![niehime-to-kemono-no-ou](https://cdn.myanimelist.net/images/anime/1502/111227.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 贄姫と獣の王
 -   **rating**: None

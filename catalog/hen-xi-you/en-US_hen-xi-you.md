@@ -1,5 +1,7 @@
 # Hen Xi You
 
+![hen-xi-you](https://cdn.myanimelist.net/images/anime/10/81271.jpg)
+
 -   **type**: ona
 -   **episodes**: 20
 -   **original-name**: 狠西游

@@ -1,5 +1,7 @@
 # Oishii Kamishama
 
+![oishii-kamishama](https://cdn.myanimelist.net/images/manga/2/151710.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 39

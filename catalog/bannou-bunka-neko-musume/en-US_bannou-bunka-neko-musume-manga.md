@@ -1,5 +1,7 @@
 # Bannou Bunka Neko-Musume
 
+![bannou-bunka-neko-musume](https://cdn.myanimelist.net/images/manga/4/118589.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

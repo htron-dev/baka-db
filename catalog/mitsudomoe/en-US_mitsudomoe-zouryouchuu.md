@@ -1,5 +1,7 @@
 # Mitsudomoe Zouryouchuu!
 
+![mitsudomoe-zouryouchuu](https://cdn.myanimelist.net/images/anime/11/71554.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 8
 -   **original-name**: みつどもえ増量中！

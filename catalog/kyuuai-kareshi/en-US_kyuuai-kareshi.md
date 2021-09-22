@@ -1,5 +1,7 @@
 # Kyuuai Kareshi
 
+![kyuuai-kareshi](https://cdn.myanimelist.net/images/manga/1/64725.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

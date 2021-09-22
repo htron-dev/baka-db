@@ -1,5 +1,7 @@
 # Yuri Mau Oasis: Lulu to Biki to Houseki no Majo
 
+![yuri-mau-oasis-lulu-to-biki-to-houseki-no-majo](https://cdn.myanimelist.net/images/manga/1/166323.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

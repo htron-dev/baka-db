@@ -1,5 +1,7 @@
 # Bounty Hunter: The Hard
 
+![bounty-hunter-the-hard](https://cdn.myanimelist.net/images/anime/1534/96368.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ザ・ハ－ド

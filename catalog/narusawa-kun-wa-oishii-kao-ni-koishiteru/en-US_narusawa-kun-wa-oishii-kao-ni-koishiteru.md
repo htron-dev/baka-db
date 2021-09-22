@@ -1,5 +1,7 @@
 # Narusawa-kun wa Oishii Kao ni Koishiteru
 
+![narusawa-kun-wa-oishii-kao-ni-koishiteru](https://cdn.myanimelist.net/images/manga/3/163746.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 31

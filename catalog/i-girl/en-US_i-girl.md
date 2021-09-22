@@ -1,5 +1,7 @@
 # I Girl
 
+![i-girl](https://cdn.myanimelist.net/images/manga/2/106307.jpg)
+
 -   **type**: manga
 -   **original-name**: あいがある-I girl-
 -   **start-date**: 2012-03-26

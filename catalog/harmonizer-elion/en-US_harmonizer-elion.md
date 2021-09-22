@@ -1,5 +1,7 @@
 # Harmonizer Elion
 
+![harmonizer-elion](https://cdn.myanimelist.net/images/manga/1/162710.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 24

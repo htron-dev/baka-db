@@ -1,5 +1,7 @@
 # High &amp; High
 
+![high-amp-high](https://cdn.myanimelist.net/images/manga/2/209382.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 40

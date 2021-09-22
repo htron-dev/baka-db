@@ -1,5 +1,7 @@
 # Nanatsu no Taizai: Fundo no Shinpan
 
+![nanatsu-no-taizai-fundo-no-shinpan](https://cdn.myanimelist.net/images/anime/1011/111551.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 七つの大罪 憤怒の審判
@@ -32,4 +34,4 @@ Nanatsu no Taizai: Fundo no Shinpan continues the adventure of the Seven Deadly 
 -   [Official Site](https://www.7-taizai.net)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15459)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23363)
--   [Wikipedia](<https://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_(manga)#Anime>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_%28manga%29#Anime)

@@ -1,5 +1,7 @@
 # Papa wa Hoikushi-san ga Suki!?
 
+![papa-wa-hoikushi-san-ga-suki](https://cdn.myanimelist.net/images/manga/1/236103.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

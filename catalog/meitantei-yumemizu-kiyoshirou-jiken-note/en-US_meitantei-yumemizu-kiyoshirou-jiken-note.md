@@ -1,5 +1,7 @@
 # Meitantei Yumemizu Kiyoshirou Jiken Note
 
+![meitantei-yumemizu-kiyoshirou-jiken-note](https://cdn.myanimelist.net/images/manga/1/106339.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **original-name**: 名探偵夢水清志郎事件ノート

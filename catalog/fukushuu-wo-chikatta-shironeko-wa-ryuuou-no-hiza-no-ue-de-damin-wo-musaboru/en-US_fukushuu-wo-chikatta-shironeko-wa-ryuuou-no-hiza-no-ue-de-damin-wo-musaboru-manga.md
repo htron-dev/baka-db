@@ -1,5 +1,7 @@
 # Fukushuu wo Chikatta Shironeko wa Ryuuou no Hiza no Ue de Damin wo Musaboru
 
+![fukushuu-wo-chikatta-shironeko-wa-ryuuou-no-hiza-no-ue-de-damin-wo-musaboru](https://cdn.myanimelist.net/images/manga/3/208595.jpg)
+
 -   **type**: manga
 -   **original-name**: 復讐を誓った白猫は竜王の膝の上で惰眠をむさぼる
 -   **start-date**: 2017-08-25

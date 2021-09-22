@@ -1,5 +1,7 @@
 # Unlucky Mansion
 
+![unlucky-mansion](https://cdn.myanimelist.net/images/manga/2/204764.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 73
 -   **original-name**: 언럭키맨션

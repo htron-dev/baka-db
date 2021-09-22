@@ -1,5 +1,7 @@
 # Kocchi Muite, Ai
 
+![kocchi-muite-ai](https://cdn.myanimelist.net/images/manga/2/174080.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

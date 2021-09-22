@@ -1,5 +1,7 @@
 # Ai ni Iku yo
 
+![ai-ni-iku-yo](https://cdn.myanimelist.net/images/manga/2/152352.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

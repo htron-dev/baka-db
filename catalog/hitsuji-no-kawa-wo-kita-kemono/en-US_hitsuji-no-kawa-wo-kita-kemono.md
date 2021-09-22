@@ -1,5 +1,7 @@
 # Hitsuji no Kawa wo Kita Kemono
 
+![hitsuji-no-kawa-wo-kita-kemono](https://cdn.myanimelist.net/images/manga/3/246668.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

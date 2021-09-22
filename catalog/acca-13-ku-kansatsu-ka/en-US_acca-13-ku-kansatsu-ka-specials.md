@@ -1,5 +1,7 @@
 # ACCA: 13-ku Kansatsu-ka Specials
 
+![acca-13-ku-kansatsu-ka-specials](https://cdn.myanimelist.net/images/anime/11/86168.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: ACCA 13 区監察課

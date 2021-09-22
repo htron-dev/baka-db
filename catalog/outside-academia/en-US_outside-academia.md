@@ -1,5 +1,7 @@
 # Outside Academia!!
 
+![outside-academia](https://cdn.myanimelist.net/images/manga/3/200156.jpg)
+
 -   **type**: light-novel
 -   **original-name**: アウトサイド・アカデミア!!
 -   **start-date**: 2017-09-01

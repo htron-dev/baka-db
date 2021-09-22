@@ -1,5 +1,7 @@
 # Tesapuru dayo! Schedule no Au Hito dake Shuugou!
 
+![tesapuru-dayo-schedule-no-au-hito-dake-shuugou](https://cdn.myanimelist.net/images/anime/8/84413.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: てさプルだョ！スケジュールの合う人だけ集合！

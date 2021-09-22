@@ -1,5 +1,7 @@
 # Baka to Test to Shoukanjuu Mini Anime
 
+![baka-to-test-to-shoukanjuu-mini-anime](https://cdn.myanimelist.net/images/anime/5/88311.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: バカとテストと召喚獣 ミニアニメ

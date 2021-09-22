@@ -1,5 +1,7 @@
 # Toy Joy Pop
 
+![toy-joy-pop](https://cdn.myanimelist.net/images/manga/1/161748.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

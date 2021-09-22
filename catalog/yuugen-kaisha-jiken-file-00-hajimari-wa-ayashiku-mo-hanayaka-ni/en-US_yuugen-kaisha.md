@@ -1,5 +1,7 @@
 # Yuugen Kaisha
 
+![yuugen-kaisha](https://cdn.myanimelist.net/images/anime/1932/96386.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 幽幻怪社

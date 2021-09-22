@@ -1,5 +1,7 @@
 # Oroka
 
+![oroka](https://cdn.myanimelist.net/images/anime/7/82091.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: OROKA

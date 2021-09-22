@@ -1,5 +1,7 @@
 # Ikenai Seitokaichou
 
+![ikenai-seitokaichou](https://cdn.myanimelist.net/images/manga/2/31281.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: イケない生徒会長

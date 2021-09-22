@@ -1,5 +1,7 @@
 # Toho Cinemas x Pokemon Go
 
+![toho-cinemas-x-pokemon-go](https://cdn.myanimelist.net/images/anime/10/89069.jpg)
+
 -   **type**: movie
 -   **episodes**: 2
 -   **original-name**: ＴＯＨＯシネマズ × 『Pokémon GO』

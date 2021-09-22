@@ -1,5 +1,7 @@
 # Time Stranger Kyoko
 
+![time-stranger-kyoko](https://cdn.myanimelist.net/images/manga/2/175908.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

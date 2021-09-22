@@ -1,5 +1,7 @@
 # Chou Kuse ni Narisou
 
+![chou-kuse-ni-narisou](https://cdn.myanimelist.net/images/anime/3/49689.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: 超くせになりそう

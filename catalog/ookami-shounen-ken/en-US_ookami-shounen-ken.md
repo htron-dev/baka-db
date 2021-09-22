@@ -1,5 +1,7 @@
 # Ookami Shounen Ken
 
+![ookami-shounen-ken](https://cdn.myanimelist.net/images/anime/12/56389.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 86
 -   **original-name**: 狼少年ケン

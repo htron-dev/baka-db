@@ -1,5 +1,7 @@
 # Hatsukoi Izonshou
 
+![hatsukoi-izonshou](https://cdn.myanimelist.net/images/manga/3/95023.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

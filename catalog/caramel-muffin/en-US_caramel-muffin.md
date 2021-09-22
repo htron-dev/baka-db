@@ -1,5 +1,7 @@
 # Caramel Muffin
 
+![caramel-muffin](https://cdn.myanimelist.net/images/manga/2/45645.jpg)
+
 -   **type**: manga
 -   **original-name**: からめるマフィン
 

@@ -1,5 +1,7 @@
 # Dogeza de Tanondemita
 
+![dogeza-de-tanondemita](https://cdn.myanimelist.net/images/manga/2/233684.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 土下座で頼んでみた

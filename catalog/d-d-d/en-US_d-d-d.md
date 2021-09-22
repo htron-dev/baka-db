@@ -1,5 +1,7 @@
 # D.D.D.
 
+![d-d-d](https://cdn.myanimelist.net/images/manga/2/235110.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Rengoku no Escudo
 
+![rengoku-no-escudo](https://cdn.myanimelist.net/images/manga/3/162625.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 21

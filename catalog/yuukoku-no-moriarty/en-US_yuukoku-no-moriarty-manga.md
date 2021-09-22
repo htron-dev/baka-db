@@ -1,5 +1,7 @@
 # Yuukoku no Moriarty
 
+![yuukoku-no-moriarty](https://cdn.myanimelist.net/images/manga/1/186121.jpg)
+
 -   **type**: manga
 -   **original-name**: 憂国のモリアーティ
 -   **start-date**: 2016-08-04

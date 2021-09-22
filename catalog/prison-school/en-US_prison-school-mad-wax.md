@@ -1,5 +1,7 @@
 # Prison School: Mad Wax
 
+![prison-school-mad-wax](https://cdn.myanimelist.net/images/anime/6/77935.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 監獄学園[プリズンスクール] マッドワックス

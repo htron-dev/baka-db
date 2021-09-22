@@ -1,5 +1,7 @@
 # Jinki: Shinsetsu - Final Episode
 
+![jinki-shinsetsu-final-episode](https://cdn.myanimelist.net/images/manga/2/192033.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Robo to Shoujo (Kari): Oshirase Gekijou (Kari)
 
+![robo-to-shoujo-kari-oshirase-gekijou-kari](https://cdn.myanimelist.net/images/anime/12/75293.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: ロボと少女（仮）「お知らせ劇場（仮）」

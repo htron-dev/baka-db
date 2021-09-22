@@ -1,5 +1,7 @@
 # Naze Toudouin Seiya 16-sai wa Kanojo ga Dekinai no ka?
 
+![naze-toudouin-seiya-16-sai-wa-kanojo-ga-dekinai-no-ka](https://cdn.myanimelist.net/images/manga/2/188878.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 39

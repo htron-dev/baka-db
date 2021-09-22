@@ -1,5 +1,7 @@
 # Umineko no Naku Koro ni Chiru - Episode 8: Twilight of the Golden Witch
 
+![umineko-no-naku-koro-ni-chiru-episode-8-twilight-of-the-golden-witch](https://cdn.myanimelist.net/images/manga/3/206205.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 42

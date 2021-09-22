@@ -1,5 +1,7 @@
 # Zutto Suki datta Kuse ni
 
+![zutto-suki-datta-kuse-ni](https://cdn.myanimelist.net/images/manga/2/38297.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # 0/6
 
+![0-6](https://cdn.myanimelist.net/images/manga/5/30274.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 21

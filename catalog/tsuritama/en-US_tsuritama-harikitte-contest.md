@@ -1,5 +1,7 @@
 # Tsuritama: Harikitte Contest
 
+![tsuritama-harikitte-contest](https://cdn.myanimelist.net/images/anime/8/76239.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: つり球　オリジナルピクチャードラマ「ハリキってコンテスト」

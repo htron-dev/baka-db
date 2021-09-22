@@ -1,5 +1,7 @@
 # Hayabusa-chan mo Tondemasu
 
+![hayabusa-chan-mo-tondemasu](https://cdn.myanimelist.net/images/manga/3/190065.jpg)
+
 -   **type**: manga
 -   **original-name**: 隼ちゃんもとんでます
 -   **start-date**: 2017-01-10

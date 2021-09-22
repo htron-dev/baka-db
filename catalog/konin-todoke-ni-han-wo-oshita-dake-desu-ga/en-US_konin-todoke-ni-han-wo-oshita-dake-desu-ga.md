@@ -1,5 +1,7 @@
 # Konin Todoke ni Han wo Oshita dake desu ga
 
+![konin-todoke-ni-han-wo-oshita-dake-desu-ga](https://cdn.myanimelist.net/images/manga/2/235361.jpg)
+
 -   **type**: manga
 -   **original-name**: 婚姻届に判を捺しただけですが
 -   **start-date**: 2017-09-08

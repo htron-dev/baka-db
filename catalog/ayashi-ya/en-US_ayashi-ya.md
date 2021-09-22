@@ -1,5 +1,7 @@
 # Ayashi-ya
 
+![ayashi-ya](https://cdn.myanimelist.net/images/manga/1/151895.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 59

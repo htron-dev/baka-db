@@ -1,5 +1,7 @@
 # Zhangda Weiba De Tuzi
 
+![zhangda-weiba-de-tuzi](https://cdn.myanimelist.net/images/anime/1857/115610.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 长大尾巴的兔子

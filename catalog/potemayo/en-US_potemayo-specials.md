@@ -1,5 +1,7 @@
 # Potemayo Specials
 
+![potemayo-specials](https://cdn.myanimelist.net/images/anime/13/42859.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: ぽてまよ

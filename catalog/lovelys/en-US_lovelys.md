@@ -1,5 +1,7 @@
 # Lovelys!!
 
+![lovelys](https://cdn.myanimelist.net/images/manga/2/40506.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Pokemon XY: Sora no Hahen
 
+![pokemon-xy-sora-no-hahen](https://cdn.myanimelist.net/images/anime/11/71077.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ポケットモンスター XY 宇宙の破片（そらのはへん）

@@ -1,5 +1,7 @@
 # L.A.T.: Kyuushuu! Matsukita Koukou Houritsu Soudan-bu
 
+![l-a-t-kyuushuu-matsukita-koukou-houritsu-soudan-bu](https://cdn.myanimelist.net/images/manga/3/160759.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: L.A.T. 急襲!松北高校法律相談部

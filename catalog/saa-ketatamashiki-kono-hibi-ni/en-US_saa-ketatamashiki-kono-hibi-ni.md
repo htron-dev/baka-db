@@ -1,5 +1,7 @@
 # Saa, Ketatamashiki Kono Hibi ni
 
+![saa-ketatamashiki-kono-hibi-ni](https://cdn.myanimelist.net/images/anime/8/83669.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: さぁ、けたたましき この日々に

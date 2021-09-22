@@ -1,5 +1,7 @@
 # Kinjirareta, Manazashi: Kyouju no Yubisaki ni Nurete
 
+![kinjirareta-manazashi-kyouju-no-yubisaki-ni-nurete](https://cdn.myanimelist.net/images/manga/1/183658.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

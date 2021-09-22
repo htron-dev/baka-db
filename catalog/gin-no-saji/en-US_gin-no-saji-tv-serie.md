@@ -1,5 +1,7 @@
 # Gin no Saji
 
+![gin-no-saji](https://cdn.myanimelist.net/images/anime/6/49237.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 銀の匙

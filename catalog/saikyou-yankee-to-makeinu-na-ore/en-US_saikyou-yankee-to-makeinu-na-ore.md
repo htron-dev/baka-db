@@ -1,5 +1,7 @@
 # Saikyou Yankee to Makeinu na Ore
 
+![saikyou-yankee-to-makeinu-na-ore](https://cdn.myanimelist.net/images/manga/2/223111.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

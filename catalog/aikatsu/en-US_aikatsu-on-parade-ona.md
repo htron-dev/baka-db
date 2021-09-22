@@ -1,5 +1,7 @@
 # Aikatsu on Parade! (ONA)
 
+![aikatsu-on-parade-ona](https://cdn.myanimelist.net/images/anime/1704/106781.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: アイカツオンパレード!

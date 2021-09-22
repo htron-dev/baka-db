@@ -1,5 +1,7 @@
 # Mokushiroku no Yonkishi
 
+![mokushiroku-no-yonkishi](https://cdn.myanimelist.net/images/manga/2/243307.jpg)
+
 -   **type**: manga
 -   **original-name**: 黙示録の四騎士
 -   **start-date**: 2021-01-27

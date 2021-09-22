@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni Gou: Comic Anthology
 
+![higurashi-no-naku-koro-ni-gou-comic-anthology](https://cdn.myanimelist.net/images/manga/2/247652.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

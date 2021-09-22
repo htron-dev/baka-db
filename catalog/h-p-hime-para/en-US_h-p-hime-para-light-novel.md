@@ -1,5 +1,7 @@
 # H+P -HimePara-
 
+![h-p-hime-para](https://cdn.myanimelist.net/images/manga/3/52217.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 13
 -   **chapters**: 110

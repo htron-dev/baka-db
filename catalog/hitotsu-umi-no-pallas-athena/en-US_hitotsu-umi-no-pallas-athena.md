@@ -1,5 +1,7 @@
 # Hitotsu Umi no Pallas Athena
 
+![hitotsu-umi-no-pallas-athena](https://cdn.myanimelist.net/images/manga/3/193225.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: ひとつ海のパラスアテナ

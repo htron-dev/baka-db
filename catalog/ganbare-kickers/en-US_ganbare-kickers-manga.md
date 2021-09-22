@@ -1,5 +1,7 @@
 # Ganbare! Kickers
 
+![ganbare-kickers](https://cdn.myanimelist.net/images/manga/2/234331.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **original-name**: がんばれ! キッカーズ
@@ -8,7 +10,6 @@
 
 -   comedy
 -   drama
-
 -   sports
 
 ## Authors

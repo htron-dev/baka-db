@@ -1,5 +1,7 @@
 # Tenkei no Otome: Mitsuai Gyokuza
 
+![tenkei-no-otome-mitsuai-gyokuza](https://cdn.myanimelist.net/images/manga/1/194399.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Notation of Rotating Earth
 
+![notation-of-rotating-earth](https://cdn.myanimelist.net/images/anime/1103/99142.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Notation of Rotating Earth

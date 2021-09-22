@@ -1,5 +1,7 @@
 # Manga wo Yomeru Ore ga Sekai Saikyou: Yome-tachi to Sugosu Kimama na Seikatsu
 
+![manga-wo-yomeru-ore-ga-sekai-saikyou-yome-tachi-to-sugosu-kimama-na-seikatsu](https://cdn.myanimelist.net/images/manga/2/175840.jpg)
+
 -   **type**: light-novel
 -   **original-name**: マンガを読めるおれが世界最強 ~嫁達と過ごす気ままな生活~
 -   **start-date**: 2016-05-15

@@ -1,5 +1,7 @@
 # Boukyou Tarou
 
+![boukyou-tarou](https://cdn.myanimelist.net/images/manga/2/226301.jpg)
+
 -   **type**: manga
 -   **original-name**: 望郷太郎
 -   **start-date**: 2019-09-05

@@ -1,5 +1,7 @@
 # Re:Zero kara Hajimeru Isekai Seikatsu: Koushiki Anthology Comic
 
+![re-zero-kara-hajimeru-isekai-seikatsu-koushiki-anthology-comic](https://cdn.myanimelist.net/images/manga/2/230706.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 32

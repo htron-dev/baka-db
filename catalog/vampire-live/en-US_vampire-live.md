@@ -1,5 +1,7 @@
 # Vampire Live
 
+![vampire-live](https://cdn.myanimelist.net/images/manga/2/198114.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: ヴァンパイアライブ

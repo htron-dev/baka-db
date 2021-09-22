@@ -1,5 +1,7 @@
 # Current Tale
 
+![current-tale](https://cdn.myanimelist.net/images/manga/1/163306.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: カレントテイル

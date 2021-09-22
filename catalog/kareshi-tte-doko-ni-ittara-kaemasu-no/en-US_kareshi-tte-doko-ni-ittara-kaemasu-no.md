@@ -1,5 +1,7 @@
 # Kareshi tte Doko ni Ittara Kaemasu no!?
 
+![kareshi-tte-doko-ni-ittara-kaemasu-no](https://cdn.myanimelist.net/images/manga/1/110871.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 彼氏ってどこに行ったら買えますの!?

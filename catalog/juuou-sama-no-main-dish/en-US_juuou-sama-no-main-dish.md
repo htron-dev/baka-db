@@ -1,5 +1,7 @@
 # Juuou-sama no Main Dish
 
+![juuou-sama-no-main-dish](https://cdn.myanimelist.net/images/manga/2/186099.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

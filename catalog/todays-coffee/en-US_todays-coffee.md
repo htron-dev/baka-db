@@ -1,5 +1,7 @@
 # Today's Coffee
 
+![todays-coffee](https://cdn.myanimelist.net/images/manga/2/30338.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 오늘의 커피
 

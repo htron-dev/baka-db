@@ -1,5 +1,7 @@
 # Noblesse: Pamyeol-ui Sijak
 
+![noblesse-pamyeol-ui-sijak](https://cdn.myanimelist.net/images/anime/6/78178.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: NOBLESSE 파멸의 시작
@@ -27,4 +29,4 @@ Set 820 years before the events of Noblesse, Noblesse: Pamyeol-ui Sija depicts t
 -   [My Anime list](https://myanimelist.net/anime/32566/Noblesse__Pamyeol-ui_Sijak)
 -   [Official Site](http://cafe.naver.com/noblessfan/220704)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11935)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Noblesse_(manhwa)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Noblesse_%28manhwa%29)

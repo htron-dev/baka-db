@@ -1,5 +1,7 @@
 # Applause
 
+![applause](https://cdn.myanimelist.net/images/manga/1/161149.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: アプローズ－喝采－

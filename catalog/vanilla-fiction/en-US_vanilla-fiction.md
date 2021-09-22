@@ -1,5 +1,7 @@
 # Vanilla Fiction
 
+![vanilla-fiction](https://cdn.myanimelist.net/images/manga/1/126635.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 42

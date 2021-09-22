@@ -1,5 +1,7 @@
 # Medaka Box Gaiden: Good Loser Kumagawa
 
+![medaka-box-gaiden-good-loser-kumagawa](https://cdn.myanimelist.net/images/manga/1/207004.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 10

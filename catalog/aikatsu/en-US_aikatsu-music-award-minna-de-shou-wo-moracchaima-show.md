@@ -1,5 +1,7 @@
 # Aikatsu! Music Award: Minna de Shou wo MoracchaimaShow!
 
+![aikatsu-music-award-minna-de-shou-wo-moracchaima-show](https://cdn.myanimelist.net/images/anime/6/74230.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アイカツ！ミュージックアワード　みんなで賞をもらっちゃいま SHOW！

@@ -1,5 +1,7 @@
 # Noramimi
 
+![noramimi](https://cdn.myanimelist.net/images/manga/2/77371.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 68

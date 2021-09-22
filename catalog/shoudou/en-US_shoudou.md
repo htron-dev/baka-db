@@ -1,5 +1,7 @@
 # Shoudou
 
+![shoudou](https://cdn.myanimelist.net/images/manga/2/160112.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

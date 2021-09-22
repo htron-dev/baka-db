@@ -1,5 +1,7 @@
 # Sensei Addict
 
+![sensei-addict](https://cdn.myanimelist.net/images/manga/1/77923.jpg)
+
 -   **type**: manga
 -   **original-name**: 先生アディクト
 

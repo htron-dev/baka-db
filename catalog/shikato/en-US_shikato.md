@@ -1,5 +1,7 @@
 # Shikato
 
+![shikato](https://cdn.myanimelist.net/images/anime/7/88831.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 135
 -   **original-name**: しかと

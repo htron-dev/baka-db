@@ -1,5 +1,7 @@
 # Rune Factory Frontier: Gino Gaiden
 
+![rune-factory-frontier-gino-gaiden](https://cdn.myanimelist.net/images/manga/3/30901.jpg)
+
 -   **type**: manga
 -   **original-name**: ルーンファクトリー フロンティア外伝　ジーノのフロンティアへの道
 -   **start-date**: 2009-02-20

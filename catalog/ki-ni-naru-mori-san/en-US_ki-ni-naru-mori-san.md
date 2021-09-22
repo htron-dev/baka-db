@@ -1,5 +1,7 @@
 # Ki ni Naru Mori-san
 
+![ki-ni-naru-mori-san](https://cdn.myanimelist.net/images/manga/1/197499.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

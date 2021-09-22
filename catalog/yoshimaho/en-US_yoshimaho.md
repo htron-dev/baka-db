@@ -1,5 +1,7 @@
 # Yoshimaho
 
+![yoshimaho](https://cdn.myanimelist.net/images/anime/1962/114761.jpg)
+
 -   **type**: ona
 -   **original-name**: よしまほ
 -   **start-date**: 2021-07-01

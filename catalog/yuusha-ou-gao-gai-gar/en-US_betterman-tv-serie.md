@@ -1,5 +1,7 @@
 # Betterman
 
+![betterman](https://cdn.myanimelist.net/images/anime/1157/91069.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ベターマン
@@ -33,4 +35,4 @@ A deadly virus known as "Algernon" has attacked humanity with vicious meaning. A
 -   [Official Site](http://www.betterman.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=745)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=350)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Betterman_(TV_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Betterman_%28TV_series%29)

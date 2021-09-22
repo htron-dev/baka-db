@@ -1,5 +1,7 @@
 # Kuu Neru Futari Sumu Futari
 
+![kuu-neru-futari-sumu-futari](https://cdn.myanimelist.net/images/manga/3/156119.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 45

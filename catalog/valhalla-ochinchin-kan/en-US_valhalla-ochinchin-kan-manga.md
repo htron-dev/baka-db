@@ -1,5 +1,7 @@
 # Valhalla Ochinchin-kan
 
+![valhalla-ochinchin-kan](https://cdn.myanimelist.net/images/manga/1/246286.jpg)
+
 -   **type**: manga
 -   **original-name**: ヴァルハラ・オティンティン館
 -   **start-date**: 2020-09-18

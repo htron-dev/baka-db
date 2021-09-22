@@ -1,5 +1,7 @@
 # Furies: Kokuu no Ginyoku
 
+![furies-kokuu-no-ginyoku](https://cdn.myanimelist.net/images/manga/1/228202.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

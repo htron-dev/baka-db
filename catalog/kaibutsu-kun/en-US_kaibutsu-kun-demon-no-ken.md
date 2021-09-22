@@ -1,5 +1,7 @@
 # Kaibutsu-kun: Demon no Ken
 
+![kaibutsu-kun-demon-no-ken](https://cdn.myanimelist.net/images/anime/10/59587.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 怪物くん デーモンの剣
@@ -10,7 +12,6 @@
 
 -   comedy
 -   horror
-
 -   shounen
 
 ## Sinopse
@@ -25,4 +26,4 @@ Note: Screened as a triple feature with Doraemon: Nobita no Daimakyou and Ninja 
 
 -   [My Anime list](https://myanimelist.net/anime/22975/Kaibutsu-kun__Demon_no_Ken)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7540)
--   [Wikipedia](<http://ja.wikipedia.org/wiki/%E6%80%AA%E7%89%A9%E3%81%8F%E3%82%93_(%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%A2%E3%83%8B%E3%83%A1)#.E6.80.AA.E7.89.A9.E3.81.8F.E3.82.93_.E3.83.87.E3.83.BC.E3.83.A2.E3.83.B3.E3.81.AE.E5.89.A3>)
+-   [Wikipedia](http://ja.wikipedia.org/wiki/%E6%80%AA%E7%89%A9%E3%81%8F%E3%82%93_%28%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%A2%E3%83%8B%E3%83%A1%29#.E6.80.AA.E7.89.A9.E3.81.8F.E3.82.93_.E3.83.87.E3.83.BC.E3.83.A2.E3.83.B3.E3.81.AE.E5.89.A3)

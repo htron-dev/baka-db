@@ -1,5 +1,7 @@
 # Sakura to Tomo ni Mau
 
+![sakura-to-tomo-ni-mau](https://cdn.myanimelist.net/images/manga/1/200970.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 14

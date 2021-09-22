@@ -1,5 +1,7 @@
 # Kamisama wa Shoushou Watashi ni Tekibishii
 
+![kamisama-wa-shoushou-watashi-ni-tekibishii](https://cdn.myanimelist.net/images/manga/3/190272.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 神様は少々私に手厳しい
 -   **start-date**: 2017-01-18

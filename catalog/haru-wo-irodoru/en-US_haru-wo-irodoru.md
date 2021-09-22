@@ -1,5 +1,7 @@
 # Haru wo Irodoru
 
+![haru-wo-irodoru](https://cdn.myanimelist.net/images/anime/1715/115406.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 春を彩る

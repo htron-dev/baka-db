@@ -1,5 +1,7 @@
 # Toge Ari Maid to Ponkotsu Sensei
 
+![toge-ari-maid-to-ponkotsu-sensei](https://cdn.myanimelist.net/images/manga/1/243879.jpg)
+
 -   **type**: manga
 -   **chapters**: 30
 -   **original-name**: 棘ありメイドとポンコツ先生

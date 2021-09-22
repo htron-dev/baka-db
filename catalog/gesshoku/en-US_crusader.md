@@ -1,5 +1,7 @@
 # Crusader
 
+![crusader](https://cdn.myanimelist.net/images/manga/3/38956.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

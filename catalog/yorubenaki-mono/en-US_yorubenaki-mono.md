@@ -1,5 +1,7 @@
 # Yorubenaki Mono
 
+![yorubenaki-mono](https://cdn.myanimelist.net/images/manga/4/27845.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 寄る辺無き者

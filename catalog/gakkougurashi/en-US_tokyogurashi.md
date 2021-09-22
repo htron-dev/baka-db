@@ -1,5 +1,7 @@
 # Tokyogurashi!
 
+![tokyogurashi](https://cdn.myanimelist.net/images/anime/9/79575.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 凍京ぐらし！

@@ -1,5 +1,7 @@
 # Ame Nochi Shy na Rainbow
 
+![ame-nochi-shy-na-rainbow](https://cdn.myanimelist.net/images/manga/1/81816.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

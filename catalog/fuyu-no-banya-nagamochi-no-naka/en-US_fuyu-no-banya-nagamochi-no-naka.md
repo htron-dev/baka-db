@@ -1,5 +1,7 @@
 # Fuyu no Banya / Nagamochi no Naka
 
+![fuyu-no-banya-nagamochi-no-naka](https://cdn.myanimelist.net/images/manga/1/189111.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

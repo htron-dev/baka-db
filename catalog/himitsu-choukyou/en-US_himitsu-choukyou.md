@@ -1,5 +1,7 @@
 # Himitsu Choukyou
 
+![himitsu-choukyou](https://cdn.myanimelist.net/images/manga/2/193385.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

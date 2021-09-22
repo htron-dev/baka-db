@@ -1,5 +1,7 @@
 # Onnakishi-san, Tenshoku Shippai: Shuushokusaki wa Mesu Dorei!?
 
+![onnakishi-san-tenshoku-shippai-shuushokusaki-wa-mesu-dorei](https://cdn.myanimelist.net/images/manga/2/177337.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 女騎士さん、転職失敗－就職先は牝奴隷!?

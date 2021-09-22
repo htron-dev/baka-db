@@ -1,5 +1,7 @@
 # Tenshi wo Otose
 
+![tenshi-wo-otose](https://cdn.myanimelist.net/images/manga/2/11255.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

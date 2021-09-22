@@ -1,5 +1,7 @@
 # Shokei Shoujo no Virgin Road
 
+![shokei-shoujo-no-virgin-road](https://cdn.myanimelist.net/images/manga/3/240694.jpg)
+
 -   **type**: manga
 -   **original-name**: 処刑少女の生きる道〈バージンロード〉
 -   **start-date**: 2020-06-05

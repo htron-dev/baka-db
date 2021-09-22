@@ -1,5 +1,7 @@
 # Dandara Gohan
 
+![dandara-gohan](https://cdn.myanimelist.net/images/manga/1/204040.jpg)
+
 -   **type**: manga
 -   **original-name**: だんだらごはん
 -   **start-date**: 2016-06-10

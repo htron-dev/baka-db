@@ -1,5 +1,7 @@
 # Nagano Toshi Gas x Kamiusagi Rope
 
+![nagano-toshi-gas-x-kamiusagi-rope](https://cdn.myanimelist.net/images/anime/1192/93663.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: 長野都市ガス × 紙兎ロペ

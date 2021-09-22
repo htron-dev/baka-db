@@ -1,5 +1,7 @@
 # Monster x Monster
 
+![monster-x-monster](https://cdn.myanimelist.net/images/manga/2/141973.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

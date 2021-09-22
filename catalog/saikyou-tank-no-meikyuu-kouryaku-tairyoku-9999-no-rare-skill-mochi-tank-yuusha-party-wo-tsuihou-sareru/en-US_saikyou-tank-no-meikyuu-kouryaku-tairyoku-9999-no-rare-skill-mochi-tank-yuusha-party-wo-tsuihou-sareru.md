@@ -1,5 +1,7 @@
 # Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou sareru
 
+![saikyou-tank-no-meikyuu-kouryaku-tairyoku-9999-no-rare-skill-mochi-tank-yuusha-party-wo-tsuihou-sareru](https://cdn.myanimelist.net/images/manga/3/220101.jpg)
+
 -   **type**: manga
 -   **original-name**: 最強タンクの迷宮攻略 〜体力 9999 のレアスキル持ちタンク、勇者パーティーを追放される〜
 -   **start-date**: 2019-05-03

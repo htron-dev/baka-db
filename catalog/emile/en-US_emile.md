@@ -1,5 +1,7 @@
 # Emile
 
+![emile](https://cdn.myanimelist.net/images/manga/2/165168.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

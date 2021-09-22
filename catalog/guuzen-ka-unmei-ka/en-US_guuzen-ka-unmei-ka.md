@@ -1,5 +1,7 @@
 # Guuzen ka Unmei ka
 
+![guuzen-ka-unmei-ka](https://cdn.myanimelist.net/images/manga/3/181407.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Granblue Fantasy The Animation Season 2
 
+![granblue-fantasy-the-animation-season-2](https://cdn.myanimelist.net/images/anime/1948/103308.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: グランブルーファンタジー The Animation Season2

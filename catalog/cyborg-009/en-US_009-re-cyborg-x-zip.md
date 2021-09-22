@@ -1,5 +1,7 @@
 # 009 Re:Cyborg x Zip
 
+![009-re-cyborg-x-zip](https://cdn.myanimelist.net/images/anime/6/78556.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: サイボーグ 009 × 日テレ「ZIP!」

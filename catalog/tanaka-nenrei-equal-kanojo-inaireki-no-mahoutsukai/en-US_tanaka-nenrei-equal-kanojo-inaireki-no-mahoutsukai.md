@@ -1,5 +1,7 @@
 # Tanaka: Nenrei Equal Kanojo Inaireki no Mahoutsukai
 
+![tanaka-nenrei-equal-kanojo-inaireki-no-mahoutsukai](https://cdn.myanimelist.net/images/manga/2/166494.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 田中～年齢イコール彼女いない歴の魔法使い～
 -   **start-date**: 2015-11-30

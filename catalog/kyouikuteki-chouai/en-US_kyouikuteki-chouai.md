@@ -1,5 +1,7 @@
 # Kyouikuteki Chouai
 
+![kyouikuteki-chouai](https://cdn.myanimelist.net/images/manga/1/198140.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: キョウイク的・寵愛

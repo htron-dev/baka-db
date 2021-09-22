@@ -1,5 +1,7 @@
 # Natsu, Kimi ga Saku
 
+![natsu-kimi-ga-saku](https://cdn.myanimelist.net/images/manga/3/12561.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

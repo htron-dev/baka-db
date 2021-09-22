@@ -1,5 +1,7 @@
 # Gallery Fake
 
+![gallery-fake](https://cdn.myanimelist.net/images/manga/3/187752.jpg)
+
 -   **type**: manga
 -   **original-name**: ギャラリーフェイク
 

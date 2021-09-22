@@ -1,5 +1,7 @@
 # Kedama no Gonjirou
 
+![kedama-no-gonjirou](https://cdn.myanimelist.net/images/anime/1072/113437.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: けだまのゴンじろー

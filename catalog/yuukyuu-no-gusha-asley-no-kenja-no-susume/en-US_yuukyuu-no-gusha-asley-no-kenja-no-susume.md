@@ -1,5 +1,7 @@
 # Yuukyuu no Gusha Asley no, Kenja no Susume
 
+![yuukyuu-no-gusha-asley-no-kenja-no-susume](https://cdn.myanimelist.net/images/manga/3/163367.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 悠久の愚者アズリーの、賢者のすゝめ
 -   **start-date**: 2015-09-15

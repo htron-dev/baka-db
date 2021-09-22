@@ -1,5 +1,7 @@
 # Master wa Stray Cat
 
+![master-wa-stray-cat](https://cdn.myanimelist.net/images/manga/2/160796.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 34

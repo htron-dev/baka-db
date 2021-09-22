@@ -1,5 +1,7 @@
 # Vanitas no Karte
 
+![vanitas-no-karte](https://cdn.myanimelist.net/images/manga/2/176009.jpg)
+
 -   **type**: manga
 -   **original-name**: ヴァニタスの手記〈カルテ〉
 -   **start-date**: 2015-12-22

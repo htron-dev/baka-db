@@ -1,5 +1,7 @@
 # May no Maiden
 
+![may-no-maiden](https://cdn.myanimelist.net/images/manga/2/206106.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 26

@@ -1,5 +1,7 @@
 # Namaiki na Otouto wo Itooshimu Houhou
 
+![namaiki-na-otouto-wo-itooshimu-houhou](https://cdn.myanimelist.net/images/manga/1/246557.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

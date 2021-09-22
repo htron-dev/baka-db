@@ -1,5 +1,7 @@
 # Uchuu Ace Pilots
 
+![uchuu-ace-pilots](https://cdn.myanimelist.net/images/anime/1116/108281.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 宇宙エース

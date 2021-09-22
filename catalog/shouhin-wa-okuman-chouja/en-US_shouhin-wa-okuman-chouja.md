@@ -1,5 +1,7 @@
 # Shouhin wa Okuman Chouja!
 
+![shouhin-wa-okuman-chouja](https://cdn.myanimelist.net/images/manga/1/60565.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 賞品は億万長者!

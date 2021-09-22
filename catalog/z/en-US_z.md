@@ -1,5 +1,7 @@
 # Z
 
+![z](https://cdn.myanimelist.net/images/manga/2/159300.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 40

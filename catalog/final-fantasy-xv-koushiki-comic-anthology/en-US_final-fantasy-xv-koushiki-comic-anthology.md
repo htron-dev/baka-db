@@ -1,5 +1,7 @@
 # Final Fantasy XV: Koushiki Comic Anthology
 
+![final-fantasy-xv-koushiki-comic-anthology](https://cdn.myanimelist.net/images/manga/1/241294.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 28

@@ -1,5 +1,7 @@
 # Aku no Taizai: Akunoku no Judgement
 
+![aku-no-taizai-akunoku-no-judgement](https://cdn.myanimelist.net/images/manga/3/194119.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

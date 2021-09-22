@@ -1,5 +1,7 @@
 # Dokebi Bride
 
+![dokebi-bride](https://cdn.myanimelist.net/images/manga/3/206034.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **chapters**: 37

@@ -1,5 +1,7 @@
 # Makai Senki Disgaea 2
 
+![makai-senki-disgaea-2](https://cdn.myanimelist.net/images/manga/5/135191.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 魔界戦記ディスガイア 2

@@ -1,5 +1,7 @@
 # Mina no Mura to Kawa
 
+![mina-no-mura-to-kawa](https://cdn.myanimelist.net/images/anime/5/66189.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ミナの村と川

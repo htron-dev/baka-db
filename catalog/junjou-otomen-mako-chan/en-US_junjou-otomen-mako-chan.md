@@ -1,5 +1,7 @@
 # Junjou Otomen Mako-chan
 
+![junjou-otomen-mako-chan](https://cdn.myanimelist.net/images/manga/2/234096.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 純情乙男 マコちゃん

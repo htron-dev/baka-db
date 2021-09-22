@@ -1,5 +1,7 @@
 # Girls of the Wild's
 
+![girls-of-the-wilds](https://cdn.myanimelist.net/images/manga/2/83615.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 260
 -   **original-name**: 소녀 더 와일즈

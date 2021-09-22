@@ -1,5 +1,7 @@
 # Ouma ga Blue
 
+![ouma-ga-blue](https://cdn.myanimelist.net/images/manga/3/28290.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 逢魔ヶＢＬＵＥ; おうまがブルー

@@ -1,5 +1,7 @@
 # Aria
 
+![aria](https://cdn.myanimelist.net/images/manga/2/171280.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 小説 ARIA

@@ -1,5 +1,7 @@
 # Kanashimi no Machi
 
+![kanashimi-no-machi](https://cdn.myanimelist.net/images/manga/1/248407.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: かなしみのまち

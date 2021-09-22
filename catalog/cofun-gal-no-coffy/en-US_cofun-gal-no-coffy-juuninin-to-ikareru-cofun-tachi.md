@@ -1,5 +1,7 @@
 # Cofun Gal no Coffy: Juuninin to Ikareru Cofun-tachi
 
+![cofun-gal-no-coffy-juuninin-to-ikareru-cofun-tachi](https://cdn.myanimelist.net/images/anime/12/82796.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 古墳ギャルのコフィー ～１２人の怒れる古墳達～

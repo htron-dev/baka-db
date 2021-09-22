@@ -1,5 +1,7 @@
 # Musuko ga Kawaikute Shikataganai Mazoku no Hahaoya
 
+![musuko-ga-kawaikute-shikataganai-mazoku-no-hahaoya](https://cdn.myanimelist.net/images/manga/2/190178.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 220

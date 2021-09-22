@@ -1,5 +1,7 @@
 # Boogiepop wa Warawanai (2019)
 
+![boogiepop-wa-warawanai-2019](https://cdn.myanimelist.net/images/anime/1135/95454.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 18
 -   **original-name**: ブギーポップは笑わない

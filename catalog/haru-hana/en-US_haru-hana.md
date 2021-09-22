@@ -1,5 +1,7 @@
 # HaruHana
 
+![haru-hana](https://cdn.myanimelist.net/images/manga/5/31528.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

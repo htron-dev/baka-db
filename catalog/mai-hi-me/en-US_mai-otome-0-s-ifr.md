@@ -1,5 +1,7 @@
 # Mai-Otome 0: S.ifr
 
+![mai-otome-0-s-ifr](https://cdn.myanimelist.net/images/anime/4/12403.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 舞－乙 HiME ０～ S.ifr ～

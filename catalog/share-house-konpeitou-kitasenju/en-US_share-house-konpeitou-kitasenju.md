@@ -1,5 +1,7 @@
 # Share House Konpeitou Kitasenju
 
+![share-house-konpeitou-kitasenju](https://cdn.myanimelist.net/images/manga/2/223568.jpg)
+
 -   **type**: manga
 -   **original-name**: シェアハウス金平糖北千住
 -   **start-date**: 2017-01-25

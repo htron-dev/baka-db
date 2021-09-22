@@ -1,5 +1,7 @@
 # Devil Summoner: Soul Hackers - Nightmare of the Butterfly
 
+![devil-summoner-soul-hackers-nightmare-of-the-butterfly](https://cdn.myanimelist.net/images/manga/1/134033.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: デビルサマナー ソウルハッカーズ ~Nightmare of the Butterfly~

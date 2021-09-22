@@ -1,5 +1,7 @@
 # Black Blood Brothers
 
+![black-blood-brothers](https://cdn.myanimelist.net/images/manga/3/38149.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 11
 -   **original-name**: ブラック·ブラッド·ブラザーズ

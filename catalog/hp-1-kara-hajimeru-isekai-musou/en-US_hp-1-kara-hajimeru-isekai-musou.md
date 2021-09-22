@@ -1,5 +1,7 @@
 # HP1 kara Hajimeru Isekai Musou
 
+![hp-1-kara-hajimeru-isekai-musou](https://cdn.myanimelist.net/images/manga/1/199796.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: HP1 からはじめる異世界無双

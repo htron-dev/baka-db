@@ -1,5 +1,7 @@
 # Qin Shi Ming Yue: Wanli Changcheng
 
+![qin-shi-ming-yue-wanli-changcheng](https://cdn.myanimelist.net/images/anime/12/65283.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 37
 -   **original-name**: 秦时明月 肆 万里长城

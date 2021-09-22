@@ -1,5 +1,7 @@
 # Piroppo
 
+![piroppo](https://cdn.myanimelist.net/images/anime/7/9770.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 23
 -   **original-name**: ピロッポ

@@ -1,5 +1,7 @@
 # Genkichi Jiisan to Kogitsune
 
+![genkichi-jiisan-to-kogitsune](https://cdn.myanimelist.net/images/anime/10/67681.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 源吉じいさんと子ぎつね

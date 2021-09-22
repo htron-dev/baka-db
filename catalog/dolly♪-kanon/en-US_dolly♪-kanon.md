@@ -1,5 +1,7 @@
 # Dolly♪Kanon
 
+![dolly♪-kanon](https://cdn.myanimelist.net/images/manga/1/140945.jpg)
+
 -   **type**: manga
 -   **original-name**: ドーリィ ♪ カノン
 -   **start-date**: 2012-03-03

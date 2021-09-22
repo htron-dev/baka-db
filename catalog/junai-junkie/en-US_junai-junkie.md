@@ -1,5 +1,7 @@
 # Junai Junkie
 
+![junai-junkie](https://cdn.myanimelist.net/images/manga/1/222812.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 134

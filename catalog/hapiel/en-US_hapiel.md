@@ -1,5 +1,7 @@
 # Hapiel
 
+![hapiel](https://cdn.myanimelist.net/images/manga/3/239578.jpg)
+
 -   **type**: manga
 -   **original-name**: ハピエル
 -   **start-date**: 2020-08-16

@@ -1,5 +1,7 @@
 # Yamigarishi: Kimaira Tenryuuhen
 
+![yamigarishi-kimaira-tenryuuhen](https://cdn.myanimelist.net/images/manga/3/32300.jpg)
+
 -   **type**: manga
 -   **original-name**: 闇狩り師 キマイラ天龍変
 

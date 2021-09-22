@@ -1,5 +1,7 @@
 # Bad Boys
 
+![bad-boys](https://cdn.myanimelist.net/images/manga/3/196275.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 169

@@ -1,5 +1,7 @@
 # Arata Primal
 
+![arata-primal](https://cdn.myanimelist.net/images/manga/1/220252.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 35

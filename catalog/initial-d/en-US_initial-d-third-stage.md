@@ -1,5 +1,7 @@
 # Initial D Third Stage
 
+![initial-d-third-stage](https://cdn.myanimelist.net/images/anime/13/40397.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 頭文字〈イニシャル〉D THIRD STAGE

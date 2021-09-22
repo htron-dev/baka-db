@@ -1,5 +1,7 @@
 # Haken no Kouki Altina
 
+![haken-no-kouki-altina](https://cdn.myanimelist.net/images/manga/3/159593.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

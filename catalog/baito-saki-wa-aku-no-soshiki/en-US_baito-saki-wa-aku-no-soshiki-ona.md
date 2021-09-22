@@ -1,5 +1,7 @@
 # Baito-saki wa "Aku no Soshiki"!?
 
+![baito-saki-wa-aku-no-soshiki](https://cdn.myanimelist.net/images/anime/6/88903.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: バイト先は「悪の組織」!?

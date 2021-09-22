@@ -1,5 +1,7 @@
 # Kuro Kishi to Ibarahime: Gokujou no Mitsuya wo Kazoete
 
+![kuro-kishi-to-ibarahime-gokujou-no-mitsuya-wo-kazoete](https://cdn.myanimelist.net/images/manga/1/184724.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

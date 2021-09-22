@@ -1,5 +1,7 @@
 # Sheikh no Izanau Yoru ni
 
+![sheikh-no-izanau-yoru-ni](https://cdn.myanimelist.net/images/manga/2/39640.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

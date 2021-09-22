@@ -1,5 +1,7 @@
 # Mahoraba: Heartful days
 
+![mahoraba-heartful-days](https://cdn.myanimelist.net/images/anime/3/50903.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: まほらば ~Heartful days~

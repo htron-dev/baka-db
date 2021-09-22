@@ -1,5 +1,7 @@
 # To LOVE-Ru Darkness
 
+![to-love-ru-darkness](https://cdn.myanimelist.net/images/manga/3/109331.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 100

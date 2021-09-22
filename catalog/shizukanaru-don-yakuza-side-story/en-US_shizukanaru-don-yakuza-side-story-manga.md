@@ -1,5 +1,7 @@
 # Shizukanaru Don: Yakuza Side Story
 
+![shizukanaru-don-yakuza-side-story](https://cdn.myanimelist.net/images/manga/3/203939.jpg)
+
 -   **type**: manga
 -   **volumes**: 108
 -   **chapters**: 1175

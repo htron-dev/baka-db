@@ -1,5 +1,7 @@
 # Gakuen Happy Seven
 
+![gakuen-happy-seven](https://cdn.myanimelist.net/images/manga/2/172053.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 学園はっぴぃセブン

@@ -1,5 +1,7 @@
 # Lupin III S
 
+![lupin-iii-s](https://cdn.myanimelist.net/images/manga/3/39215.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

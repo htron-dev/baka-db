@@ -1,5 +1,7 @@
 # Baldr Sky Dive1 "Lost Memory"
 
+![baldr-sky-dive-1-lost-memory](https://cdn.myanimelist.net/images/manga/5/86091.jpg)
+
 -   **type**: manga
 -   **original-name**: バルド スカイ Dive1 "LostMemory"
 

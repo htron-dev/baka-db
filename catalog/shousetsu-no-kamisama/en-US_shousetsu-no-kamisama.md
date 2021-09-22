@@ -1,5 +1,7 @@
 # Shousetsu no Kamisama
 
+![shousetsu-no-kamisama](https://cdn.myanimelist.net/images/manga/3/228198.jpg)
+
 -   **type**: manga
 -   **original-name**: 小説の神様
 -   **start-date**: 2019-10-19

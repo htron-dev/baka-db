@@ -1,5 +1,7 @@
 # Sailor Fuku no Kaori
 
+![sailor-fuku-no-kaori](https://cdn.myanimelist.net/images/manga/1/20825.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

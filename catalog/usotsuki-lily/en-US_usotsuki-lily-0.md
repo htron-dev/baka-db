@@ -1,5 +1,7 @@
 # Usotsuki Lily 0
 
+![usotsuki-lily-0](https://cdn.myanimelist.net/images/manga/2/39997.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

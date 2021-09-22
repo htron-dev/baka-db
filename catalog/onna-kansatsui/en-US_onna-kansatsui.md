@@ -1,5 +1,7 @@
 # Onna Kansatsui
 
+![onna-kansatsui](https://cdn.myanimelist.net/images/manga/1/39285.jpg)
+
 -   **type**: manga
 -   **original-name**: 女監察医
 

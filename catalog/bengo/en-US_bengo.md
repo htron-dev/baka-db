@@ -1,5 +1,7 @@
 # Bengo!
 
+![bengo](https://cdn.myanimelist.net/images/manga/2/182657.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: BENGO!

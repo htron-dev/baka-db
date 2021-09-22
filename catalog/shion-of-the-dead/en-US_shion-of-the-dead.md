@@ -1,5 +1,7 @@
 # Shion of the Dead
 
+![shion-of-the-dead](https://cdn.myanimelist.net/images/manga/3/165096.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 43

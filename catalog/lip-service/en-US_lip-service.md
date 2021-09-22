@@ -1,5 +1,7 @@
 # Lip Service
 
+![lip-service](https://cdn.myanimelist.net/images/manga/2/19155.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 

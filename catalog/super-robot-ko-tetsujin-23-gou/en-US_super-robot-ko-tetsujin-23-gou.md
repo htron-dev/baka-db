@@ -1,5 +1,7 @@
 # Super Robot-ko Tetsujin 23-gou
 
+![super-robot-ko-tetsujin-23-gou](https://cdn.myanimelist.net/images/manga/2/123075.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: スーパーロボッ娘 鉄刃 23 号

@@ -1,5 +1,7 @@
 # Boku no Kanojo
 
+![boku-no-kanojo](https://cdn.myanimelist.net/images/manga/3/237062.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

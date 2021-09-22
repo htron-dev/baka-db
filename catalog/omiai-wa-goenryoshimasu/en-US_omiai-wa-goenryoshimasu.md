@@ -1,5 +1,7 @@
 # Omiai wa Goenryoshimasu
 
+![omiai-wa-goenryoshimasu](https://cdn.myanimelist.net/images/manga/3/167637.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: お見合いはご遠慮します

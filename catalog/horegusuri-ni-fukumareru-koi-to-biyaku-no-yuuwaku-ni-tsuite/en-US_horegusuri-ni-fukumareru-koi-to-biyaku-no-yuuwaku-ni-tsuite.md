@@ -1,5 +1,7 @@
 # Horegusuri ni Fukumareru Koi to Biyaku no Yuuwaku ni Tsuite
 
+![horegusuri-ni-fukumareru-koi-to-biyaku-no-yuuwaku-ni-tsuite](https://cdn.myanimelist.net/images/manga/1/185541.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

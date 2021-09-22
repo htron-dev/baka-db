@@ -1,5 +1,7 @@
 # Een
 
+![een](https://cdn.myanimelist.net/images/anime/1185/108018.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: えーん

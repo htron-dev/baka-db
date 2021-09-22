@@ -1,5 +1,7 @@
 # AIKa
 
+![ai-ka](https://cdn.myanimelist.net/images/anime/11/61673.jpg)
+
 -   **type**: ova
 -   **episodes**: 7
 -   **original-name**: ＡＩＫａ

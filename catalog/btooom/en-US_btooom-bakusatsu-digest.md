@@ -1,5 +1,7 @@
 # Btooom!: Bakusatsu Digest
 
+![btooom-bakusatsu-digest](https://cdn.myanimelist.net/images/anime/1804/102931.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: BTOOOM! 爆殺ダイジェスト

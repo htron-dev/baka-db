@@ -1,5 +1,7 @@
 # Chang Jian Feng Yun
 
+![chang-jian-feng-yun](https://cdn.myanimelist.net/images/anime/1094/110890.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 长剑风云

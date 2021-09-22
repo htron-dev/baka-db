@@ -1,5 +1,7 @@
 # Fuyubara Hime
 
+![fuyubara-hime](https://cdn.myanimelist.net/images/manga/2/43123.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

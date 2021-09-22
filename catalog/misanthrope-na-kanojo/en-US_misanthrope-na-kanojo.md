@@ -1,5 +1,7 @@
 # Misanthrope na Kanojo
 
+![misanthrope-na-kanojo](https://cdn.myanimelist.net/images/manga/3/192857.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

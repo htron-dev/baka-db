@@ -1,5 +1,7 @@
 # Oni: 2889-nen no Hanran
 
+![oni-2889-nen-no-hanran](https://cdn.myanimelist.net/images/manga/2/149781.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

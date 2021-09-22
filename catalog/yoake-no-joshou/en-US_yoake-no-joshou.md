@@ -1,5 +1,7 @@
 # Yoake no Joshou
 
+![yoake-no-joshou](https://cdn.myanimelist.net/images/manga/1/237968.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

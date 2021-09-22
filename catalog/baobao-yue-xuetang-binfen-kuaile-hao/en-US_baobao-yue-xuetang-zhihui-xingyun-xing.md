@@ -1,5 +1,7 @@
 # Baobao Yue Xuetang: Zhihui Xingyun Xing
 
+![baobao-yue-xuetang-zhihui-xingyun-xing](https://cdn.myanimelist.net/images/anime/1825/115201.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 150
 -   **original-name**: 宝宝乐学堂之智慧幸运星

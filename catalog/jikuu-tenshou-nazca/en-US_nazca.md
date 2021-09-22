@@ -1,5 +1,7 @@
 # Nazca
 
+![nazca](https://cdn.myanimelist.net/images/manga/5/67587.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

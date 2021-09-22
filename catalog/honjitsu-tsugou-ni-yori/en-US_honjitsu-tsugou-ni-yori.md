@@ -1,5 +1,7 @@
 # Honjitsu Tsugou ni yori
 
+![honjitsu-tsugou-ni-yori](https://cdn.myanimelist.net/images/manga/3/131731.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 本日都合により

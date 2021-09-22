@@ -1,5 +1,7 @@
 # Junkers Come Here Pilot Film
 
+![junkers-come-here-pilot-film](https://cdn.myanimelist.net/images/anime/1607/108036.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ユンカース・カム・ヒア パイロットフィルム

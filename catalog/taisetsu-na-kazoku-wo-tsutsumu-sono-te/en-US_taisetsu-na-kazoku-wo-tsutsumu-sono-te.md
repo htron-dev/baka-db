@@ -1,5 +1,7 @@
 # Taisetsu na Kazoku wo Tsutsumu, Sono Te.
 
+![taisetsu-na-kazoku-wo-tsutsumu-sono-te](https://cdn.myanimelist.net/images/anime/1254/92079.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 大切な家族を包む、その手。

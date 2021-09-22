@@ -1,5 +1,7 @@
 # Kaminaki Sekai no Kamisama Katsudou
 
+![kaminaki-sekai-no-kamisama-katsudou](https://cdn.myanimelist.net/images/manga/1/235050.jpg)
+
 -   **type**: manga
 -   **original-name**: 神無き世界のカミサマ活動
 -   **start-date**: 2019-05-01

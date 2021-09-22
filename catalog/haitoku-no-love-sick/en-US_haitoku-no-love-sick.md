@@ -1,5 +1,7 @@
 # Haitoku no Love Sick
 
+![haitoku-no-love-sick](https://cdn.myanimelist.net/images/manga/1/30166.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

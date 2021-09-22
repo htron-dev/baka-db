@@ -1,5 +1,7 @@
 # Jigoku Mushi wo Kuu! Oninbo
 
+![jigoku-mushi-wo-kuu-oninbo](https://cdn.myanimelist.net/images/manga/1/27942.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

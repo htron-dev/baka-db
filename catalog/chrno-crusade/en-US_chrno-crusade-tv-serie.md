@@ -1,5 +1,7 @@
 # Chrno Crusade
 
+![chrno-crusade](https://cdn.myanimelist.net/images/anime/13/14141.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: クロノクルセイド

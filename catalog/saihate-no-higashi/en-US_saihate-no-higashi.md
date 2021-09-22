@@ -1,5 +1,7 @@
 # Saihate no Higashi
 
+![saihate-no-higashi](https://cdn.myanimelist.net/images/manga/1/122077.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 49

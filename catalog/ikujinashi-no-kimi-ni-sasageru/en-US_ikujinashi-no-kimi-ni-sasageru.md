@@ -1,5 +1,7 @@
 # Ikujinashi no Kimi ni Sasageru
 
+![ikujinashi-no-kimi-ni-sasageru](https://cdn.myanimelist.net/images/manga/3/162564.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

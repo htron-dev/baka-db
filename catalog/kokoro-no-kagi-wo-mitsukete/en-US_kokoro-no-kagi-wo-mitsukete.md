@@ -1,5 +1,7 @@
 # Kokoro no Kagi wo Mitsukete
 
+![kokoro-no-kagi-wo-mitsukete](https://cdn.myanimelist.net/images/manga/2/160579.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

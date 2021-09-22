@@ -1,5 +1,7 @@
 # Sexy Commando Gaiden: Sugoi yo!! Masaru-san
 
+![sexy-commando-gaiden-sugoi-yo-masaru-san](https://cdn.myanimelist.net/images/anime/13/39595.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 48
 -   **original-name**: セクシーコマンドー外伝 すごいよ!! マサルさん

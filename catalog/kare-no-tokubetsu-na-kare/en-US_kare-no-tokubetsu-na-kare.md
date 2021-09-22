@@ -1,5 +1,7 @@
 # Kare no Tokubetsu na Kare
 
+![kare-no-tokubetsu-na-kare](https://cdn.myanimelist.net/images/manga/2/98117.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

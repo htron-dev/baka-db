@@ -1,5 +1,7 @@
 # Hanamaru Youchien
 
+![hanamaru-youchien](https://cdn.myanimelist.net/images/anime/3/50395.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: はなまる幼稚園

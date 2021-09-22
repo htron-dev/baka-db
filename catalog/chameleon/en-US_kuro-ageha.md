@@ -1,5 +1,7 @@
 # Kuro Ageha
 
+![kuro-ageha](https://cdn.myanimelist.net/images/manga/1/143945.jpg)
+
 -   **type**: manga
 -   **original-name**: くろアゲハ
 -   **start-date**: 2013-12-06

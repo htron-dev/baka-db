@@ -1,5 +1,7 @@
 # Blue Black Planet: Bokura wa Chikyuu no Yume wo Miru
 
+![blue-black-planet-bokura-wa-chikyuu-no-yume-wo-miru](https://cdn.myanimelist.net/images/manga/2/180782.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

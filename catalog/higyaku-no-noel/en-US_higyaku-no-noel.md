@@ -1,5 +1,7 @@
 # Higyaku no Noel
 
+![higyaku-no-noel](https://cdn.myanimelist.net/images/manga/3/199408.jpg)
+
 -   **type**: manga
 -   **original-name**: 被虐のノエル
 -   **start-date**: 2017-03-15

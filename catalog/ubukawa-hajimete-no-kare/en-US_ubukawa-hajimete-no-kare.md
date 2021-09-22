@@ -1,5 +1,7 @@
 # Ubukawa - Hajimete no Kare
 
+![ubukawa-hajimete-no-kare](https://cdn.myanimelist.net/images/manga/3/18192.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 19

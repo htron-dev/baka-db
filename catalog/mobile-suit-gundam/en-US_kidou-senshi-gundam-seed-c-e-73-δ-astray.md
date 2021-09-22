@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam SEED C.E.73: Δ Astray
 
+![kidou-senshi-gundam-seed-c-e-73-δ-astray](https://cdn.myanimelist.net/images/manga/3/176614.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Sacred Chronicle
 
+![sacred-chronicle](https://cdn.myanimelist.net/images/manga/1/177403.jpg)
+
 -   **type**: light-novel
 -   **original-name**: セイクリッド・クロニクル
 -   **start-date**: 2015-07-15

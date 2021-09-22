@@ -1,5 +1,7 @@
 # Naruto: Shippuuden Movie 6 - Road to Ninja
 
+![naruto-shippuuden-movie-6-road-to-ninja](https://cdn.myanimelist.net/images/anime/6/51863.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ROAD TO NINJA NARUTO THE MOVIE

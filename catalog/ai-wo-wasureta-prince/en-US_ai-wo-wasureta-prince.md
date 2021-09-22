@@ -1,5 +1,7 @@
 # Ai wo Wasureta Prince
 
+![ai-wo-wasureta-prince](https://cdn.myanimelist.net/images/manga/3/238372.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 愛を忘れたプリンス

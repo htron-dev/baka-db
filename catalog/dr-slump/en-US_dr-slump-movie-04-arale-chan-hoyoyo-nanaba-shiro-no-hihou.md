@@ -1,5 +1,7 @@
 # Dr. Slump Movie 04: Arale-chan Hoyoyo! Nanaba Shiro no Hihou
 
+![dr-slump-movie-04-arale-chan-hoyoyo-nanaba-shiro-no-hihou](https://cdn.myanimelist.net/images/anime/12/62043.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Ｄｒ．スランプ アラレちゃん ほよよ！ナナバ城の秘宝

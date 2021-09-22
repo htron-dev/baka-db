@@ -1,5 +1,7 @@
 # Watashi no Kareshi
 
+![watashi-no-kareshi](https://cdn.myanimelist.net/images/manga/2/15228.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: わたしのカレシ。

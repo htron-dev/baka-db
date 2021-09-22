@@ -1,5 +1,7 @@
 # Hi☆sCoool! SeHa Girls Special
 
+![hi☆s-coool-se-ha-girls-special](https://cdn.myanimelist.net/images/anime/5/82645.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 第 54 回 ハンパじゃノー！全力でグー！優勝するのはオンリーユー！すべての学校行事を過去にする！セハガガ学園体育祭

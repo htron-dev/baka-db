@@ -1,5 +1,7 @@
 # Houkago Kiss
 
+![houkago-kiss](https://cdn.myanimelist.net/images/manga/3/137797.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

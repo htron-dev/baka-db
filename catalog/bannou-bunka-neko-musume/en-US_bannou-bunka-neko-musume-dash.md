@@ -1,5 +1,7 @@
 # Bannou Bunka Neko-Musume DASH!
 
+![bannou-bunka-neko-musume-dash](https://cdn.myanimelist.net/images/anime/7/2886.jpg)
+
 -   **type**: ova
 -   **episodes**: 12
 -   **original-name**: 万能文化猫娘ＤＡＳＨ！

@@ -1,5 +1,7 @@
 # Princess Connect!
 
+![princess-connect](https://cdn.myanimelist.net/images/anime/4/83026.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: プリンセスコネクト！

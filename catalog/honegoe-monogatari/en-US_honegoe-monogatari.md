@@ -1,5 +1,7 @@
 # Honegoe Monogatari
 
+![honegoe-monogatari](https://cdn.myanimelist.net/images/manga/1/32333.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

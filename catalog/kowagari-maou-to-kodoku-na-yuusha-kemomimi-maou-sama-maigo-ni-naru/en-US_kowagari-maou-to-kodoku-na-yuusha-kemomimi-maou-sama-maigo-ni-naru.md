@@ -1,5 +1,7 @@
 # Kowagari Maou to Kodoku na Yuusha: Kemomimi Maou-sama, Maigo ni Naru
 
+![kowagari-maou-to-kodoku-na-yuusha-kemomimi-maou-sama-maigo-ni-naru](https://cdn.myanimelist.net/images/manga/1/169756.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

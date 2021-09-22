@@ -1,5 +1,7 @@
 # Miyako no Hirune Monogatari
 
+![miyako-no-hirune-monogatari](https://cdn.myanimelist.net/images/manga/3/168482.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

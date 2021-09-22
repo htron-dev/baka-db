@@ -1,5 +1,7 @@
 # Yakusoku no Neverland: Senyuu-tachi no Record
 
+![yakusoku-no-neverland-senyuu-tachi-no-record](https://cdn.myanimelist.net/images/manga/3/235267.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 約束のネバーランド ～戦友たちのレコード～

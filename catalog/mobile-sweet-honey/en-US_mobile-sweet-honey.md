@@ -1,5 +1,7 @@
 # Mobile Sweet Honey
 
+![mobile-sweet-honey](https://cdn.myanimelist.net/images/manga/2/72573.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Shayou
 
+![shayou](https://cdn.myanimelist.net/images/anime/1054/96046.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 斜陽

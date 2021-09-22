@@ -1,5 +1,7 @@
 # Bara wa Itsuwari no Hanayome
 
+![bara-wa-itsuwari-no-hanayome](https://cdn.myanimelist.net/images/manga/2/185919.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

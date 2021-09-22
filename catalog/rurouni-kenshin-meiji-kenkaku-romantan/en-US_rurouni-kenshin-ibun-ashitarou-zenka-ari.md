@@ -1,5 +1,7 @@
 # Rurouni Kenshin Ibun: Ashitarou Zenka-ari
 
+![rurouni-kenshin-ibun-ashitarou-zenka-ari](https://cdn.myanimelist.net/images/manga/3/186441.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: -るろうに剣心・異聞-明日郎 前科アリ

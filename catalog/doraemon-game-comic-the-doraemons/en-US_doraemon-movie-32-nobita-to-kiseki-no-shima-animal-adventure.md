@@ -1,5 +1,7 @@
 # Doraemon Movie 32: Nobita to Kiseki no Shima - Animal Adventure
 
+![doraemon-movie-32-nobita-to-kiseki-no-shima-animal-adventure](https://cdn.myanimelist.net/images/anime/7/72437.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん のび太と奇跡の島～アニマル アドベンチャー～
@@ -12,7 +14,6 @@
 -   adventure
 -   comedy
 -   fantasy
-
 -   shounen
 
 ## Sinopse

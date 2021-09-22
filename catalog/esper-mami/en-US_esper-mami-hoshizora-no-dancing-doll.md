@@ -1,5 +1,7 @@
 # Esper Mami: Hoshizora no Dancing Doll
 
+![esper-mami-hoshizora-no-dancing-doll](https://cdn.myanimelist.net/images/anime/13/27327.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: エスパー魔美 星空のダンシングドール

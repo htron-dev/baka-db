@@ -1,5 +1,7 @@
 # Igyoujin Oniwakamaru
 
+![igyoujin-oniwakamaru](https://cdn.myanimelist.net/images/manga/2/85373.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 33

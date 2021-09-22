@@ -1,5 +1,7 @@
 # 07-Ghost
 
+![07-ghost](https://cdn.myanimelist.net/images/anime/3/22605.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: セブンゴースト

@@ -1,5 +1,7 @@
 # 12 Beast
 
+![12-beast](https://cdn.myanimelist.net/images/manga/2/188908.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 37

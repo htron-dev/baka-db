@@ -1,5 +1,7 @@
 # Aoi no Yuuwaku
 
+![aoi-no-yuuwaku](https://cdn.myanimelist.net/images/manga/2/56215.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 碧いの誘惑

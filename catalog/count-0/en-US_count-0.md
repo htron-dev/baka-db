@@ -1,5 +1,7 @@
 # Count 0
 
+![count-0](https://cdn.myanimelist.net/images/manga/1/37755.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Photokano: Memorial Pictures
 
+![photokano-memorial-pictures](https://cdn.myanimelist.net/images/manga/2/172275.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

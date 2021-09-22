@@ -1,5 +1,7 @@
 # Kamisama no Ekohiiki
 
+![kamisama-no-ekohiiki](https://cdn.myanimelist.net/images/manga/3/197607.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

@@ -1,5 +1,7 @@
 # Ryoshuu no Himekishi: Midasareta Kin no Kami
 
+![ryoshuu-no-himekishi-midasareta-kin-no-kami](https://cdn.myanimelist.net/images/manga/2/192493.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

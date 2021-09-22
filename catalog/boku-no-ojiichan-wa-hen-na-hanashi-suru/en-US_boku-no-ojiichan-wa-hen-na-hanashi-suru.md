@@ -1,5 +1,7 @@
 # Boku no Ojiichan wa Hen na Hanashi suru!
 
+![boku-no-ojiichan-wa-hen-na-hanashi-suru](https://cdn.myanimelist.net/images/manga/3/131073.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 44

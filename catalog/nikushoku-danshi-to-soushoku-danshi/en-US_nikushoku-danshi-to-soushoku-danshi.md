@@ -1,5 +1,7 @@
 # Nikushoku Danshi to Soushoku Danshi
 
+![nikushoku-danshi-to-soushoku-danshi](https://cdn.myanimelist.net/images/manga/1/179174.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

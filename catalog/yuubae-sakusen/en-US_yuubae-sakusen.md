@@ -1,5 +1,7 @@
 # Yuubae Sakusen
 
+![yuubae-sakusen](https://cdn.myanimelist.net/images/manga/2/151641.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 夕ばえ作戦

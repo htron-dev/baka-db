@@ -1,5 +1,7 @@
 # Bakumatsu Alien
 
+![bakumatsu-alien](https://cdn.myanimelist.net/images/manga/2/92657.jpg)
+
 -   **type**: manga
 -   **original-name**: 幕末ヱイリアン
 -   **start-date**: 2012-06-08

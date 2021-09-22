@@ -1,5 +1,7 @@
 # Romance, Violence &amp; Strawberry Republic
 
+![romance-violence-amp-strawberry-republic](https://cdn.myanimelist.net/images/manga/1/171712.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 28

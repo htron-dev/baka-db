@@ -1,5 +1,7 @@
 # Victorian Cross: Governess to Tokareta Inma no Corset
 
+![victorian-cross-governess-to-tokareta-inma-no-corset](https://cdn.myanimelist.net/images/manga/2/183794.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

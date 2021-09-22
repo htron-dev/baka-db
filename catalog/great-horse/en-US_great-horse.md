@@ -1,5 +1,7 @@
 # Great Horse
 
+![great-horse](https://cdn.myanimelist.net/images/manga/2/200435.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 50

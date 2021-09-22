@@ -1,5 +1,7 @@
 # Kizumonogatari II: Nekketsu-hen
 
+![kizumonogatari-ii-nekketsu-hen](https://cdn.myanimelist.net/images/anime/8/80930.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 傷物語〈Ⅱ 熱血篇〉
@@ -28,4 +30,4 @@ Unbeknownst to Araragi, each minute he spends trying to retrieve Kiss-shot's lim
 -   [Official Site](http://www.kizumonogatari-movie.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8357)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17949)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Monogatari_(series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Monogatari_%28series%29)

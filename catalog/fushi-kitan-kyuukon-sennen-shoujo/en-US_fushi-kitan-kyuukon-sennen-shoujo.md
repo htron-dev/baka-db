@@ -1,5 +1,7 @@
 # Fushi Kitan Kyuukon: Sennen Shoujo
 
+![fushi-kitan-kyuukon-sennen-shoujo](https://cdn.myanimelist.net/images/manga/1/142015.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 不死鬼譚きゅうこん 千年少女

@@ -1,5 +1,7 @@
 # Motto Motto Mayonaka no Jewel
 
+![motto-motto-mayonaka-no-jewel](https://cdn.myanimelist.net/images/manga/3/90873.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

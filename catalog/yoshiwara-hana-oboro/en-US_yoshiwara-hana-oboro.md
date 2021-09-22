@@ -1,5 +1,7 @@
 # Yoshiwara Hana Oboro
 
+![yoshiwara-hana-oboro](https://cdn.myanimelist.net/images/manga/2/78183.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

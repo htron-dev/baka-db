@@ -1,5 +1,7 @@
 # Kimagure Grafitti
 
+![kimagure-grafitti](https://cdn.myanimelist.net/images/manga/2/8052.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 気まぐれグラフィティ

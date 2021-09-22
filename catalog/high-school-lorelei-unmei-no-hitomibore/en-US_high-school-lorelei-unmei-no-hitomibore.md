@@ -1,5 +1,7 @@
 # High School Lorelei: Unmei no Hitomibore
 
+![high-school-lorelei-unmei-no-hitomibore](https://cdn.myanimelist.net/images/manga/2/162195.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

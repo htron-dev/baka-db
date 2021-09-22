@@ -1,5 +1,7 @@
 # Circle Crusher no Ano Ko, Boku ga Kidoku Through Kimetara Donna Kao suru darou
 
+![circle-crusher-no-ano-ko-boku-ga-kidoku-through-kimetara-donna-kao-suru-darou](https://cdn.myanimelist.net/images/manga/2/184272.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Meitantei x Furyou x Riajuu x Chijo x Duelist
 
+![meitantei-x-furyou-x-riajuu-x-chijo-x-duelist](https://cdn.myanimelist.net/images/manga/3/177094.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 25

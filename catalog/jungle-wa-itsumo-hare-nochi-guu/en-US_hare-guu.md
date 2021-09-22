@@ -1,5 +1,7 @@
 # HareGuu
 
+![hare-guu](https://cdn.myanimelist.net/images/manga/1/33381.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 81

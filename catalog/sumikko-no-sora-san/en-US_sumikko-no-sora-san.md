@@ -1,5 +1,7 @@
 # Sumikko no Sora-san
 
+![sumikko-no-sora-san](https://cdn.myanimelist.net/images/manga/3/165771.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 56

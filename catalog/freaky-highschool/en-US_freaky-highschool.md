@@ -1,5 +1,7 @@
 # Freaky Highschool
 
+![freaky-highschool](https://cdn.myanimelist.net/images/anime/12/85047.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 69
 -   **original-name**: ふりぃきぃ～はいすく～る

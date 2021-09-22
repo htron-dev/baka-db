@@ -1,5 +1,7 @@
 # Mobile Suit Gundam 00 - Crossword Puzzle Comic Characters Black!
 
+![mobile-suit-gundam-00-crossword-puzzle-comic-characters-black](https://cdn.myanimelist.net/images/manga/3/35573.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

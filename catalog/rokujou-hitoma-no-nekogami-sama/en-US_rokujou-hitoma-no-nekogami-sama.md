@@ -1,5 +1,7 @@
 # Rokujou Hitoma no Nekogami-sama
 
+![rokujou-hitoma-no-nekogami-sama](https://cdn.myanimelist.net/images/manga/2/152167.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

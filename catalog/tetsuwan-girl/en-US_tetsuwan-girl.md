@@ -1,5 +1,7 @@
 # Tetsuwan Girl
 
+![tetsuwan-girl](https://cdn.myanimelist.net/images/manga/2/186034.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 92

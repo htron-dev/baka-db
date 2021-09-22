@@ -1,5 +1,7 @@
 # Ijimekaeshi.: Fukushuu no Calendrier
 
+![ijimekaeshi-fukushuu-no-calendrier](https://cdn.myanimelist.net/images/manga/2/237046.jpg)
+
 -   **type**: manga
 -   **original-name**: イジメカエシ。-復讐の 31〈カランドリエ〉-
 -   **start-date**: 2018-10-12

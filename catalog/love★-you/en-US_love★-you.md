@@ -1,5 +1,7 @@
 # Love★You
 
+![love★-you](https://cdn.myanimelist.net/images/manga/1/206225.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 31

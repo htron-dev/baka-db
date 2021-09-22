@@ -1,5 +1,7 @@
 # Ryuuma no Gagou
 
+![ryuuma-no-gagou](https://cdn.myanimelist.net/images/manga/2/187972.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 62

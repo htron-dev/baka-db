@@ -1,5 +1,7 @@
 # I Want Papa
 
+![i-want-papa](https://cdn.myanimelist.net/images/manga/1/16806.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

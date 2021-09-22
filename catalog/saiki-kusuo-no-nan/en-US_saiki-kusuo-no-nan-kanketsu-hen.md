@@ -1,5 +1,7 @@
 # Saiki Kusuo no Ψ-nan: Kanketsu-hen
 
+![saiki-kusuo-no-ψ-nan-kanketsu-hen](https://cdn.myanimelist.net/images/anime/1159/95661.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 斉木楠雄の Ψ 難 完結編

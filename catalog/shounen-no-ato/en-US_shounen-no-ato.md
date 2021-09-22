@@ -1,5 +1,7 @@
 # Shounen no Ato
 
+![shounen-no-ato](https://cdn.myanimelist.net/images/manga/1/225232.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

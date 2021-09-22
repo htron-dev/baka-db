@@ -1,5 +1,7 @@
 # Ginga Eiyuu Densetsu Gaiden (1999)
 
+![ginga-eiyuu-densetsu-gaiden-1999](https://cdn.myanimelist.net/images/anime/6/9580.jpg)
+
 -   **type**: ova
 -   **episodes**: 28
 -   **original-name**: 銀河英雄伝説外伝 螺旋迷宮

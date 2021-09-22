@@ -1,5 +1,7 @@
 # Manga Sarutobi Sasuke
 
+![manga-sarutobi-sasuke](https://cdn.myanimelist.net/images/anime/11/57257.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: まんが猿飛佐助

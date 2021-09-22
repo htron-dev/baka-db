@@ -1,5 +1,7 @@
 # Beautiful People
 
+![beautiful-people](https://cdn.myanimelist.net/images/manga/1/173682.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

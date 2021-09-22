@@ -1,5 +1,7 @@
 # Hi ga Kuretemo Aruiteru
 
+![hi-ga-kuretemo-aruiteru](https://cdn.myanimelist.net/images/manga/1/19406.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

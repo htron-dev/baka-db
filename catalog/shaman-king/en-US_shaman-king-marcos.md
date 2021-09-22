@@ -1,5 +1,7 @@
 # Shaman King: Marcos
 
+![shaman-king-marcos](https://cdn.myanimelist.net/images/manga/3/235898.jpg)
+
 -   **type**: manga
 -   **original-name**: SHAMAN KING マルコス
 -   **start-date**: 2020-04-17

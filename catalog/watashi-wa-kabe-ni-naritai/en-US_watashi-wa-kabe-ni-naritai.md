@@ -1,5 +1,7 @@
 # Watashi wa Kabe ni Naritai
 
+![watashi-wa-kabe-ni-naritai](https://cdn.myanimelist.net/images/manga/3/243264.jpg)
+
 -   **type**: manga
 -   **original-name**: わたしは壁になりたい
 -   **start-date**: 2019-03-27

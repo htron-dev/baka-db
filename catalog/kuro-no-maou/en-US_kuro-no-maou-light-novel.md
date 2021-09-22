@@ -1,5 +1,7 @@
 # Kuro no Maou
 
+![kuro-no-maou](https://cdn.myanimelist.net/images/manga/1/212614.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 黒の魔王
 -   **start-date**: 2013-05-24

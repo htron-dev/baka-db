@@ -1,5 +1,7 @@
 # 3-nen Kimengumi
 
+![3-nen-kimengumi](https://cdn.myanimelist.net/images/manga/3/159912.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 78

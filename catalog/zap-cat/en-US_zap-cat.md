@@ -1,5 +1,7 @@
 # Zap Cat
 
+![zap-cat](https://cdn.myanimelist.net/images/anime/1583/108148.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ZAP CAT

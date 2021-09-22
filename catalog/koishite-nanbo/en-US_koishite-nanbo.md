@@ -1,5 +1,7 @@
 # Koishite Nanbo!
 
+![koishite-nanbo](https://cdn.myanimelist.net/images/manga/5/49255.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

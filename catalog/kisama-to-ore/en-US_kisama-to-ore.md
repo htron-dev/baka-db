@@ -1,5 +1,7 @@
 # Kisama to Ore
 
+![kisama-to-ore](https://cdn.myanimelist.net/images/manga/3/205022.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Queen's Blade Rebellion: Zero
 
+![queens-blade-rebellion-zero](https://cdn.myanimelist.net/images/manga/2/101317.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

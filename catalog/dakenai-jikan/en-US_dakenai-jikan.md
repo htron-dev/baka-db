@@ -1,5 +1,7 @@
 # Dakenai Jikan
 
+![dakenai-jikan](https://cdn.myanimelist.net/images/manga/2/160578.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

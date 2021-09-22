@@ -1,5 +1,7 @@
 # Darker than Black: Kuro no Keiyakusha - Sakura no Hana no Mankai no Shita
 
+![darker-than-black-kuro-no-keiyakusha-sakura-no-hana-no-mankai-no-shita](https://cdn.myanimelist.net/images/anime/3/32729.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: DARKER THAN BLACK -黒の契約者- 桜の花の満開の下

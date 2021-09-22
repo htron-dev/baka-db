@@ -1,5 +1,7 @@
 # Rokudenashi Blues
 
+![rokudenashi-blues](https://cdn.myanimelist.net/images/manga/2/184928.jpg)
+
 -   **type**: manga
 -   **volumes**: 42
 -   **chapters**: 422

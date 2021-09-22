@@ -1,5 +1,7 @@
 # Chibi Godzilla
 
+![chibi-godzilla](https://cdn.myanimelist.net/images/anime/1934/97346.jpg)
+
 -   **type**: ona
 -   **original-name**: ちびゴジラ
 -   **start-date**: 2018-12-12

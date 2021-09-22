@@ -1,5 +1,7 @@
 # Mirai no Watashi
 
+![mirai-no-watashi](https://cdn.myanimelist.net/images/anime/5/79144.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 未来のワタシ

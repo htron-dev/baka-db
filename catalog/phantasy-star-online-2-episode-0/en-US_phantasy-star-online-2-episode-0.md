@@ -1,5 +1,7 @@
 # Phantasy Star Online 2: Episode 0
 
+![phantasy-star-online-2-episode-0](https://cdn.myanimelist.net/images/manga/2/198580.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

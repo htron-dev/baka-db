@@ -1,5 +1,7 @@
 # Yarichin☆Bitch-bu
 
+![yarichin☆-bitch-bu](https://cdn.myanimelist.net/images/anime/1431/91369.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ヤリチン ☆ ビッチ部

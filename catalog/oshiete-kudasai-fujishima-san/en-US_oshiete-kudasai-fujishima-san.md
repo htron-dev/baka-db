@@ -1,5 +1,7 @@
 # Oshiete Kudasai, Fujishima-san!
 
+![oshiete-kudasai-fujishima-san](https://cdn.myanimelist.net/images/manga/3/208565.jpg)
+
 -   **type**: manga
 -   **original-name**: 教えてください、藤縞さん！
 -   **start-date**: 2017-03-29

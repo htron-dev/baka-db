@@ -1,5 +1,7 @@
 # Nanbaka 2
 
+![nanbaka-2](https://cdn.myanimelist.net/images/anime/9/83263.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: ナンバカ 2 期

@@ -1,5 +1,7 @@
 # Idol Game
 
+![idol-game](https://cdn.myanimelist.net/images/manga/3/11378.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 偶像遊戯

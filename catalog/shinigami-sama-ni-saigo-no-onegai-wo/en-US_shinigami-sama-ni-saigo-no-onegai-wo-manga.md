@@ -1,5 +1,7 @@
 # Shinigami-sama ni Saigo no Onegai wo
 
+![shinigami-sama-ni-saigo-no-onegai-wo](https://cdn.myanimelist.net/images/manga/2/71277.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

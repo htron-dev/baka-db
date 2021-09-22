@@ -1,5 +1,7 @@
 # Usa Weather Show
 
+![usa-weather-show](https://cdn.myanimelist.net/images/anime/1417/93950.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: usa Weather Show

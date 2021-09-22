@@ -1,5 +1,7 @@
 # Sono Saki no Fuukei
 
+![sono-saki-no-fuukei](https://cdn.myanimelist.net/images/manga/2/91285.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

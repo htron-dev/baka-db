@@ -1,5 +1,7 @@
 # Hakubutsushi
 
+![hakubutsushi](https://cdn.myanimelist.net/images/anime/11/76685.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 博物誌

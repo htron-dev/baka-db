@@ -1,5 +1,7 @@
 # Crayon Shin-chan Movie 29: Mystery Meki! Hana no Tenkasu Gakuen
 
+![crayon-shin-chan-movie-29-mystery-meki-hana-no-tenkasu-gakuen](https://cdn.myanimelist.net/images/anime/1309/113382.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画クレヨンしんちゃん 謎メキ！花の天カス学園

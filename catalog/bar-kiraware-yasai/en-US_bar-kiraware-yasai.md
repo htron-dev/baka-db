@@ -1,5 +1,7 @@
 # BAR Kiraware Yasai
 
+![bar-kiraware-yasai](https://cdn.myanimelist.net/images/anime/9/71721.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: BAR 嫌われ野菜

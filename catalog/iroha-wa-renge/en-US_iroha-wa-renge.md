@@ -1,5 +1,7 @@
 # Iroha wa Renge
 
+![iroha-wa-renge](https://cdn.myanimelist.net/images/manga/1/156305.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: いろはにれんげ

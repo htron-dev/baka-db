@@ -1,5 +1,7 @@
 # Chen-Kuro Gakuen
 
+![chen-kuro-gakuen](https://cdn.myanimelist.net/images/anime/12/83830.jpg)
+
 -   **type**: movie
 -   **episodes**: 3
 -   **original-name**: ちぇんくろ学園

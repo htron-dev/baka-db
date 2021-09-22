@@ -1,5 +1,7 @@
 # Saikyou Guild Master no Isshuukan Kenkokuki
 
+![saikyou-guild-master-no-isshuukan-kenkokuki](https://cdn.myanimelist.net/images/manga/3/232532.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 22

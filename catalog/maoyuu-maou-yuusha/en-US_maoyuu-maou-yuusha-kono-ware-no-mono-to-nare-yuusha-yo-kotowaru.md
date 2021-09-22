@@ -1,5 +1,7 @@
 # Maoyuu Maou Yuusha: 'Kono Ware no Mono to Nare, Yuusha yo' 'Kotowaru!'
 
+![maoyuu-maou-yuusha-kono-ware-no-mono-to-nare-yuusha-yo-kotowaru](https://cdn.myanimelist.net/images/manga/1/119227.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 59

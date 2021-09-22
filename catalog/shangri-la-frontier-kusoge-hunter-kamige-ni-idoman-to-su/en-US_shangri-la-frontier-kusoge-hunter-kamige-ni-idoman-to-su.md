@@ -1,5 +1,7 @@
 # Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su
 
+![shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su](https://cdn.myanimelist.net/images/manga/3/235471.jpg)
+
 -   **type**: manga
 -   **original-name**: シャングリラ・フロンティア～クソゲーハンター、神ゲーに挑まんとす～
 -   **start-date**: 2020-07-15

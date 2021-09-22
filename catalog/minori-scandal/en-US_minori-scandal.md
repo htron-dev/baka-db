@@ -1,5 +1,7 @@
 # Minori Scandal
 
+![minori-scandal](https://cdn.myanimelist.net/images/manga/1/148407.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

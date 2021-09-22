@@ -1,5 +1,7 @@
 # Saikyou Help xxx
 
+![saikyou-help-xxx](https://cdn.myanimelist.net/images/manga/2/169394.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

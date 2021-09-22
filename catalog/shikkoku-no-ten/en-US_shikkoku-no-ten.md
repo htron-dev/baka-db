@@ -1,5 +1,7 @@
 # Shikkoku no Ten
 
+![shikkoku-no-ten](https://cdn.myanimelist.net/images/manga/1/176125.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 10

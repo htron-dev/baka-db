@@ -1,5 +1,7 @@
 # Saikai wa Nigaku, Ai wa...
 
+![saikai-wa-nigaku-ai-wa](https://cdn.myanimelist.net/images/manga/4/127191.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 再会は苦く、愛は…

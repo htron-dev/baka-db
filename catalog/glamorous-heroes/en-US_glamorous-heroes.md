@@ -1,5 +1,7 @@
 # Glamorous Heroes
 
+![glamorous-heroes](https://cdn.myanimelist.net/images/anime/2/87661.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: グラマラスヒーローズ

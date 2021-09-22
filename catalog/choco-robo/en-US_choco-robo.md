@@ -1,5 +1,7 @@
 # Choco Robo!
 
+![choco-robo](https://cdn.myanimelist.net/images/manga/3/220921.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 46

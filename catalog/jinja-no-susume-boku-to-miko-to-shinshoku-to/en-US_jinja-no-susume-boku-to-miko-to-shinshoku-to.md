@@ -1,5 +1,7 @@
 # Jinja no Susume: Boku to Miko to Shinshoku to
 
+![jinja-no-susume-boku-to-miko-to-shinshoku-to](https://cdn.myanimelist.net/images/manga/1/6720.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

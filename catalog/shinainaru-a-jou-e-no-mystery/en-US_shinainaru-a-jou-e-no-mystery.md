@@ -1,5 +1,7 @@
 # Shinainaru A-jou e no Mystery
 
+![shinainaru-a-jou-e-no-mystery](https://cdn.myanimelist.net/images/manga/3/193588.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Shinkansen Henkei Robo Shinkalion The Animation
 
+![shinkansen-henkei-robo-shinkalion-the-animation](https://cdn.myanimelist.net/images/anime/1679/100718.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 76
 -   **original-name**: 新幹線変形ロボ シンカリオン THE ANIMATION
@@ -13,7 +15,6 @@
 
 -   action
 -   sci-fi
-
 -   mecha
 
 ## Sinopse

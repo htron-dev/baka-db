@@ -1,5 +1,7 @@
 # Ganso Happy Seven
 
+![ganso-happy-seven](https://cdn.myanimelist.net/images/manga/2/172058.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 元祖はっぴぃセブン

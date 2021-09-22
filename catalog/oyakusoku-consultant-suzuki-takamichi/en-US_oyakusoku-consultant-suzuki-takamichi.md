@@ -1,5 +1,7 @@
 # Oyakusoku Consultant Suzuki Takamichi
 
+![oyakusoku-consultant-suzuki-takamichi](https://cdn.myanimelist.net/images/manga/3/185898.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 36

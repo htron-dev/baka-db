@@ -1,5 +1,7 @@
 # Seirei Tsukai
 
+![seirei-tsukai](https://cdn.myanimelist.net/images/anime/1/1866.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 精霊使い

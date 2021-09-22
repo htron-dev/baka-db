@@ -1,5 +1,7 @@
 # Renai Senshi Shuravan
 
+![renai-senshi-shuravan](https://cdn.myanimelist.net/images/manga/2/220994.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

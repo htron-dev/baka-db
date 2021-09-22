@@ -1,5 +1,7 @@
 # Hannune Banhada! Season 1
 
+![hannune-banhada-season-1](https://cdn.myanimelist.net/images/manga/5/30322.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 34

@@ -1,5 +1,7 @@
 # Outbreak Company: Moeru Shinryakusha
 
+![outbreak-company-moeru-shinryakusha](https://cdn.myanimelist.net/images/manga/3/104275.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

@@ -1,5 +1,7 @@
 # Mini Van Large
 
+![mini-van-large](https://cdn.myanimelist.net/images/anime/1758/116411.jpg)
+
 -   **type**: ona
 -   **original-name**: みにヴぁん ら～じ
 -   **start-date**: 2021-07-06

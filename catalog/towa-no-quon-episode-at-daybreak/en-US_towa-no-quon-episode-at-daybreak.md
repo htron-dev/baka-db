@@ -1,5 +1,7 @@
 # Towa no Quon: Episode at Daybreak
 
+![towa-no-quon-episode-at-daybreak](https://cdn.myanimelist.net/images/manga/1/178133.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

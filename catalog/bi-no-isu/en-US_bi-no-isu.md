@@ -1,5 +1,7 @@
 # Bi no Isu
 
+![bi-no-isu](https://cdn.myanimelist.net/images/manga/4/18386.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

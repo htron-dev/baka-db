@@ -1,5 +1,7 @@
 # Tantan Xiao Dongyuan
 
+![tantan-xiao-dongyuan](https://cdn.myanimelist.net/images/anime/1051/115318.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 104
 -   **original-name**: 坦坦小动员

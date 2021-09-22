@@ -1,5 +1,7 @@
 # Walking Cat
 
+![walking-cat](https://cdn.myanimelist.net/images/manga/3/235229.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 40

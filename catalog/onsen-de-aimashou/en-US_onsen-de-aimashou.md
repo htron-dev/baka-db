@@ -1,5 +1,7 @@
 # Onsen de Aimashou
 
+![onsen-de-aimashou](https://cdn.myanimelist.net/images/manga/2/83412.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Anata no Kodou wo Misasete.
 
+![anata-no-kodou-wo-misasete](https://cdn.myanimelist.net/images/manga/2/215683.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 38

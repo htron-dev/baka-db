@@ -1,5 +1,7 @@
 # Neko Ramen Monogatari: Koneko no Thomas
 
+![neko-ramen-monogatari-koneko-no-thomas](https://cdn.myanimelist.net/images/manga/2/164421.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # .hack//The Movie: Sekai no Mukou ni
 
+![hack-the-movie-sekai-no-mukou-ni](https://cdn.myanimelist.net/images/anime/2/35633.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: .hack//The Movie セカイの向こうに

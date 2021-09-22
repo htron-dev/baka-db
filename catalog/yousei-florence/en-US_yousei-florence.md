@@ -1,5 +1,7 @@
 # Yousei Florence
 
+![yousei-florence](https://cdn.myanimelist.net/images/anime/1608/112719.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 妖精フローレンス

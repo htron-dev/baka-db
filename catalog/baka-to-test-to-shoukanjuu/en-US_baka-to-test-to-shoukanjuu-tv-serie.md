@@ -1,5 +1,7 @@
 # Baka to Test to Shoukanjuu
 
+![baka-to-test-to-shoukanjuu](https://cdn.myanimelist.net/images/anime/3/50389.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: バカとテストと召喚獣

@@ -1,5 +1,7 @@
 # Himitsu no Takaramono
 
+![himitsu-no-takaramono](https://cdn.myanimelist.net/images/manga/1/191026.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

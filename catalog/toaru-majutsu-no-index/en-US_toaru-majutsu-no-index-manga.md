@@ -1,5 +1,7 @@
 # Toaru Majutsu no Index
 
+![toaru-majutsu-no-index](https://cdn.myanimelist.net/images/manga/1/77569.jpg)
+
 -   **type**: manga
 -   **original-name**: とある魔術の禁書目録
 -   **start-date**: 2007-04-01

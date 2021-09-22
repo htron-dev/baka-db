@@ -1,5 +1,7 @@
 # Hakuouki Junrenka
 
+![hakuouki-junrenka](https://cdn.myanimelist.net/images/manga/3/30530.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 薄桜鬼 巡恋華

@@ -1,5 +1,7 @@
 # Buchou no Koi
 
+![buchou-no-koi](https://cdn.myanimelist.net/images/manga/2/167291.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 部長の恋

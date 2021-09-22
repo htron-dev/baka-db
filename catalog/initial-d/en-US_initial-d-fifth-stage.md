@@ -1,5 +1,7 @@
 # Initial D Fifth Stage
 
+![initial-d-fifth-stage](https://cdn.myanimelist.net/images/anime/1029/99183.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 14
 -   **original-name**: 頭文字 D Fifth Stage

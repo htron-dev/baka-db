@@ -1,5 +1,7 @@
 # Shitsuji-sama no Okiniiri: Be With You!
 
+![shitsuji-sama-no-okiniiri-be-with-you](https://cdn.myanimelist.net/images/manga/3/72057.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 執事様のお気に入り be with you!―ノベル&コミック

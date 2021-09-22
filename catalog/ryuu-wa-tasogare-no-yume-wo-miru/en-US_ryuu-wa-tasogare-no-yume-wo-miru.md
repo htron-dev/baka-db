@@ -1,5 +1,7 @@
 # Ryuu wa Tasogare no Yume wo Miru
 
+![ryuu-wa-tasogare-no-yume-wo-miru](https://cdn.myanimelist.net/images/manga/2/60683.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

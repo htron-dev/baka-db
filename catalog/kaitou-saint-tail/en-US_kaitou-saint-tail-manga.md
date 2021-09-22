@@ -1,5 +1,7 @@
 # Kaitou Saint Tail
 
+![kaitou-saint-tail](https://cdn.myanimelist.net/images/manga/2/171555.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 33

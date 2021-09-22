@@ -1,5 +1,7 @@
 # Orbital Era
 
+![orbital-era](https://cdn.myanimelist.net/images/anime/1675/101877.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **rating**: None

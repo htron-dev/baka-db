@@ -1,5 +1,7 @@
 # Otona no Omocha Danshi.
 
+![otona-no-omocha-danshi](https://cdn.myanimelist.net/images/manga/1/150534.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 大人のオモチャ男子。

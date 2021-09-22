@@ -1,5 +1,7 @@
 # Pokemon (2019)
 
+![pokemon-2019](https://cdn.myanimelist.net/images/anime/1689/105554.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ポケットモンスター
 -   **start-date**: 2019-11-17
@@ -12,7 +14,6 @@
 -   action
 -   adventure
 -   comedy
-
 -   fantasy
 
 ## Sinopse

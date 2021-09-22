@@ -1,5 +1,7 @@
 # Flat
 
+![flat](https://cdn.myanimelist.net/images/manga/1/47835.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 45

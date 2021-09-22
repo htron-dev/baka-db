@@ -1,5 +1,7 @@
 # Aisazu ni wa Irarenai
 
+![aisazu-ni-wa-irarenai](https://cdn.myanimelist.net/images/manga/2/120835.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 愛さずにはいられない

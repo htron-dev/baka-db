@@ -1,5 +1,7 @@
 # Ageha wo Ou Monotachi
 
+![ageha-wo-ou-monotachi](https://cdn.myanimelist.net/images/manga/2/118833.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

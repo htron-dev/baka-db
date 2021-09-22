@@ -1,5 +1,7 @@
 # Salaryman Exorcist: Okumura Yukio no Aishuu
 
+![salaryman-exorcist-okumura-yukio-no-aishuu](https://cdn.myanimelist.net/images/manga/1/167812.jpg)
+
 -   **type**: manga
 -   **original-name**: サラリーマン祓魔師〈エクソシスト〉 奥村雪男の哀愁
 -   **start-date**: 2013-04-19

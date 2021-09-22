@@ -1,5 +1,7 @@
 # Hetakuso Inma ja Dame desu ka?
 
+![hetakuso-inma-ja-dame-desu-ka](https://cdn.myanimelist.net/images/manga/2/246280.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

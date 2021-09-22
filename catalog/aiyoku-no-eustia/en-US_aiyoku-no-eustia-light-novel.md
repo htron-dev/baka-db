@@ -1,5 +1,7 @@
 # Aiyoku no Eustia
 
+![aiyoku-no-eustia](https://cdn.myanimelist.net/images/manga/2/149507.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: 穢翼のユースティア

@@ -1,5 +1,7 @@
 # Wena Wrist
 
+![wena-wrist](https://cdn.myanimelist.net/images/anime/1044/105740.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: wena wrist

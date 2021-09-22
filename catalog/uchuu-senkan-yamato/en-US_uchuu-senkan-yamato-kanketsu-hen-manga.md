@@ -1,5 +1,7 @@
 # Uchuu Senkan Yamato: Kanketsu-hen
 
+![uchuu-senkan-yamato-kanketsu-hen](https://cdn.myanimelist.net/images/manga/1/61025.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 宇宙戦艦ヤマト 完結編

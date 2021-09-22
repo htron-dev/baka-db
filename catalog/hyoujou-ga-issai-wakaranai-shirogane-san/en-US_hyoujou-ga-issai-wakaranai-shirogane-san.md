@@ -1,5 +1,7 @@
 # Hyoujou ga Issai Wakaranai Shirogane-san
 
+![hyoujou-ga-issai-wakaranai-shirogane-san](https://cdn.myanimelist.net/images/manga/1/241772.jpg)
+
 -   **type**: manga
 -   **original-name**: 表情が一切わからない白銀さん
 -   **start-date**: 2020-05-27

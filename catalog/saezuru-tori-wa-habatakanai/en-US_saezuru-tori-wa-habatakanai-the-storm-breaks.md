@@ -1,5 +1,7 @@
 # Saezuru Tori wa Habatakanai: The Storm Breaks
 
+![saezuru-tori-wa-habatakanai-the-storm-breaks](https://cdn.myanimelist.net/images/anime/1941/106062.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 囀る鳥は羽ばたかない The storm breaks

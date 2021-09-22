@@ -1,5 +1,7 @@
 # Shounen Y
 
+![shounen-y](https://cdn.myanimelist.net/images/manga/1/159717.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 32

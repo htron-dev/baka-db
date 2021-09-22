@@ -1,5 +1,7 @@
 # Cu-Cu-Cute!
 
+![cu-cu-cute](https://cdn.myanimelist.net/images/manga/2/162328.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 14
 -   **original-name**: きゅーきゅーキュート!

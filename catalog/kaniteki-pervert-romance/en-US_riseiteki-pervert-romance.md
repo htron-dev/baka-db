@@ -1,5 +1,7 @@
 # Riseiteki Pervert Romance
 
+![riseiteki-pervert-romance](https://cdn.myanimelist.net/images/manga/1/232586.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

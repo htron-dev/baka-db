@@ -1,5 +1,7 @@
 # Nantoka Tengoku
 
+![nantoka-tengoku](https://cdn.myanimelist.net/images/anime/1420/104123.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ナントカ天国

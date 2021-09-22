@@ -1,5 +1,7 @@
 # Area 88 Movie
 
+![area-88-movie](https://cdn.myanimelist.net/images/anime/11/79843.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: エリア 88 劇場版

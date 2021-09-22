@@ -1,5 +1,7 @@
 # Danshaku no Aijin
 
+![danshaku-no-aijin](https://cdn.myanimelist.net/images/manga/3/152892.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

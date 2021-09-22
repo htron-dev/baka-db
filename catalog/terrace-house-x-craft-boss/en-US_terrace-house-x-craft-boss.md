@@ -1,5 +1,7 @@
 # Terrace House x Craft Boss
 
+![terrace-house-x-craft-boss](https://cdn.myanimelist.net/images/anime/1903/102918.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: テラスハウス × クラフトボス

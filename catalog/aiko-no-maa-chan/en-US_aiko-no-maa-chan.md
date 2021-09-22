@@ -1,5 +1,7 @@
 # Aiko no Maa-chan
 
+![aiko-no-maa-chan](https://cdn.myanimelist.net/images/manga/1/165761.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

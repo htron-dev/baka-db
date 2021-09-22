@@ -1,5 +1,7 @@
 # Bishoujo Senshi Sailor Moon: Sailor Stars - Hero Club
 
+![bishoujo-senshi-sailor-moon-sailor-stars-hero-club](https://cdn.myanimelist.net/images/anime/10/69247.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 美少女戦士セーラームーン セーラースターズ ヒーロークラブ

@@ -1,5 +1,7 @@
 # Maiko Makemai
 
+![maiko-makemai](https://cdn.myanimelist.net/images/manga/3/240277.jpg)
+
 -   **type**: manga
 -   **chapters**: 15
 -   **original-name**: まいこ負けまい

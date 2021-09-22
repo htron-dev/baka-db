@@ -1,5 +1,7 @@
 # Koi wa Doujinshi yori Ki nari
 
+![koi-wa-doujinshi-yori-ki-nari](https://cdn.myanimelist.net/images/manga/3/250086.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋は同人誌より奇なり
 -   **start-date**: 2020-12-15

@@ -1,5 +1,7 @@
 # Koisuru Son of a Bitch
 
+![koisuru-son-of-a-bitch](https://cdn.myanimelist.net/images/manga/2/226359.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

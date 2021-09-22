@@ -1,5 +1,7 @@
 # Ningen Bokujou
 
+![ningen-bokujou](https://cdn.myanimelist.net/images/manga/2/235148.jpg)
+
 -   **type**: manga
 -   **original-name**: 人間牧場
 -   **start-date**: 2018-09-15

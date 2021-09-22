@@ -1,5 +1,7 @@
 # God Child
 
+![god-child](https://cdn.myanimelist.net/images/manga/1/160521.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 48

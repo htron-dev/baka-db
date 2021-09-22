@@ -1,5 +1,7 @@
 # Ninja Senshi Tobikage
 
+![ninja-senshi-tobikage](https://cdn.myanimelist.net/images/anime/7/20897.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 43
 -   **original-name**: 忍者戦士飛影

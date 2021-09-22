@@ -1,5 +1,7 @@
 # Hello Kitty Peace!!
 
+![hello-kitty-peace](https://cdn.myanimelist.net/images/manga/1/23069.jpg)
+
 -   **type**: manga
 -   **chapters**: 12
 -   **original-name**: ハローキティ ピース!!

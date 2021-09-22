@@ -1,5 +1,7 @@
 # Isagi-Kojima
 
+![isagi-kojima](https://cdn.myanimelist.net/images/manga/1/18106.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

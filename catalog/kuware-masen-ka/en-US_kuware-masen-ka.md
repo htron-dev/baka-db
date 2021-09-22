@@ -1,5 +1,7 @@
 # Kuware Masen ka?
 
+![kuware-masen-ka](https://cdn.myanimelist.net/images/manga/2/240057.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

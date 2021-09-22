@@ -1,5 +1,7 @@
 # Tennis no Ouji-sama
 
+![tennis-no-ouji-sama](https://cdn.myanimelist.net/images/anime/6/21624.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 178
 -   **original-name**: テニスの王子様

@@ -1,5 +1,7 @@
 # Hinadori Girl
 
+![hinadori-girl](https://cdn.myanimelist.net/images/manga/1/3673.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 32

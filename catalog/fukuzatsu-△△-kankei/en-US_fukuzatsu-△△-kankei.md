@@ -1,5 +1,7 @@
 # Fukuzatsu! △△ Kankei
 
+![fukuzatsu-△△-kankei](https://cdn.myanimelist.net/images/manga/3/136721.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 複雑!△△ 関係

@@ -1,5 +1,7 @@
 # Fuusui Gaito Hong Kong
 
+![fuusui-gaito-hong-kong](https://cdn.myanimelist.net/images/manga/2/146675.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 23

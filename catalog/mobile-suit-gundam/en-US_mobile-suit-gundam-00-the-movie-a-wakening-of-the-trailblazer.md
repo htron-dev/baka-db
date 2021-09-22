@@ -1,5 +1,7 @@
 # Mobile Suit Gundam 00 The Movie: A Wakening of the Trailblazer
 
+![mobile-suit-gundam-00-the-movie-a-wakening-of-the-trailblazer](https://cdn.myanimelist.net/images/anime/11/30563.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 機動戦士ガンダム 00 -A wakening of the Trailblazer-

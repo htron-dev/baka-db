@@ -1,5 +1,7 @@
 # Amaku Nigaku Kegaretai
 
+![amaku-nigaku-kegaretai](https://cdn.myanimelist.net/images/manga/2/19190.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 甘く苦く穢れたい

@@ -1,5 +1,7 @@
 # Shukuren - Gin no Mori no On
 
+![shukuren-gin-no-mori-no-on](https://cdn.myanimelist.net/images/manga/1/40236.jpg)
+
 -   **type**: manga
 -   **original-name**: 宿恋~銀の森の鬼
 

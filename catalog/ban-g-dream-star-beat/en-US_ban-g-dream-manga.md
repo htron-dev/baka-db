@@ -1,5 +1,7 @@
 # BanG Dream!
 
+![ban-g-dream](https://cdn.myanimelist.net/images/manga/2/196446.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: コミック版 BanG Dream! バンドリ

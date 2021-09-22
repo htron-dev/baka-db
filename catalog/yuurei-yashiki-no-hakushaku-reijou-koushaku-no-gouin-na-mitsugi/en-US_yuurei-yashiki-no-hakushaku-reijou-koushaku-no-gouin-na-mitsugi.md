@@ -1,5 +1,7 @@
 # Yuurei Yashiki no Hakushaku Reijou: Koushaku no Gouin na Mitsugi
 
+![yuurei-yashiki-no-hakushaku-reijou-koushaku-no-gouin-na-mitsugi](https://cdn.myanimelist.net/images/manga/3/192746.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

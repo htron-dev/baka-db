@@ -1,5 +1,7 @@
 # Kakinoki Mokkii
 
+![kakinoki-mokkii](https://cdn.myanimelist.net/images/anime/4/70841.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 柿の木モッキィ

@@ -1,5 +1,7 @@
 # Makai no Shuyaku wa Wareware da!
 
+![makai-no-shuyaku-wa-wareware-da](https://cdn.myanimelist.net/images/manga/2/230830.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔界の主役は我々だ！
 -   **start-date**: 2020-01-09

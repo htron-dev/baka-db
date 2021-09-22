@@ -1,5 +1,7 @@
 # Clay Lord
 
+![clay-lord](https://cdn.myanimelist.net/images/manga/3/136805.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

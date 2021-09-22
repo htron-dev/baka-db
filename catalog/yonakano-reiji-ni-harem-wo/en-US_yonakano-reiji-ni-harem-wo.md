@@ -1,5 +1,7 @@
 # Yonakano Reiji ni Harem wo!!
 
+![yonakano-reiji-ni-harem-wo](https://cdn.myanimelist.net/images/manga/2/211846.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 34

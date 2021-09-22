@@ -1,5 +1,7 @@
 # Tobaku Haouden Zero: Gyanki-hen
 
+![tobaku-haouden-zero-gyanki-hen](https://cdn.myanimelist.net/images/manga/1/59937.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 88

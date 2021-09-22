@@ -1,5 +1,7 @@
 # Hello!! Kiniro Mosaic
 
+![hello-kiniro-mosaic](https://cdn.myanimelist.net/images/anime/1107/117611.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ハロー!!きんいろモザイク

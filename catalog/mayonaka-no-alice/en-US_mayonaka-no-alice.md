@@ -1,5 +1,7 @@
 # Mayonaka no Alice
 
+![mayonaka-no-alice](https://cdn.myanimelist.net/images/manga/3/238972.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

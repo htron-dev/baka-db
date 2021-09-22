@@ -1,5 +1,7 @@
 # Mahou Shoujo Ikusei Keikaku: Restart
 
+![mahou-shoujo-ikusei-keikaku-restart](https://cdn.myanimelist.net/images/manga/3/185358.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔法少女育成計画 restart
 -   **start-date**: 2016-04-26

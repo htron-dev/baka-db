@@ -1,5 +1,7 @@
 # Ryokunohara Meikyuu
 
+![ryokunohara-meikyuu](https://cdn.myanimelist.net/images/anime/9/73807.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 緑野原迷宮

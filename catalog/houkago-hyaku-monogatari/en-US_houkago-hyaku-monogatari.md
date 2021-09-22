@@ -1,5 +1,7 @@
 # Houkago Hyaku Monogatari
 
+![houkago-hyaku-monogatari](https://cdn.myanimelist.net/images/manga/3/164309.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 61

@@ -1,5 +1,7 @@
 # Oasis Project
 
+![oasis-project](https://cdn.myanimelist.net/images/manga/1/3451.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

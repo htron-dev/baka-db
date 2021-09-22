@@ -1,5 +1,7 @@
 # A=kor Kotan
 
+![a-kor-kotan](https://cdn.myanimelist.net/images/manga/1/233569.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 19

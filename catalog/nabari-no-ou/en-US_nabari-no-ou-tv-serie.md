@@ -1,5 +1,7 @@
 # Nabari no Ou
 
+![nabari-no-ou](https://cdn.myanimelist.net/images/anime/13/79037.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 隠の王

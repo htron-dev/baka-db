@@ -1,5 +1,7 @@
 # Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru
 
+![sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru](https://cdn.myanimelist.net/images/anime/1928/117620.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 世界最高の暗殺者、異世界貴族に転生する
 -   **start-date**: 2021-10-20

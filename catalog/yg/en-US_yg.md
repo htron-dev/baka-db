@@ -1,5 +1,7 @@
 # YG
 
+![yg](https://cdn.myanimelist.net/images/manga/3/46269.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ワイ・ジー

@@ -1,5 +1,7 @@
 # Ai to Jun: Deai-kei kara Umareta Junai
 
+![ai-to-jun-deai-kei-kara-umareta-junai](https://cdn.myanimelist.net/images/manga/2/167524.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

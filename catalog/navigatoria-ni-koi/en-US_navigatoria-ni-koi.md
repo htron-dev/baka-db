@@ -1,5 +1,7 @@
 # Navigatoria ni Koi
 
+![navigatoria-ni-koi](https://cdn.myanimelist.net/images/manga/1/236950.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

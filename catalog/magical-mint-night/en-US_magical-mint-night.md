@@ -1,5 +1,7 @@
 # Magical Mint Night
 
+![magical-mint-night](https://cdn.myanimelist.net/images/manga/3/78783.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: マジカルミントナイト

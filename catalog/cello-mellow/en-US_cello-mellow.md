@@ -1,5 +1,7 @@
 # Cello Mellow
 
+![cello-mellow](https://cdn.myanimelist.net/images/manga/1/153979.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

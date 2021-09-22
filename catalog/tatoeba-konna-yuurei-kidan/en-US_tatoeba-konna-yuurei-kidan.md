@@ -1,5 +1,7 @@
 # Tatoeba Konna Yuurei Kidan
 
+![tatoeba-konna-yuurei-kidan](https://cdn.myanimelist.net/images/manga/2/24394.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: たとえばこんな幽霊奇談

@@ -1,5 +1,7 @@
 # Ijiwaru Killer Tune
 
+![ijiwaru-killer-tune](https://cdn.myanimelist.net/images/manga/1/205522.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

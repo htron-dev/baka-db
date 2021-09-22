@@ -1,5 +1,7 @@
 # Akuma no Kagi to Shoujo no Raison d'être
 
+![akuma-no-kagi-to-shoujo-no-raison-detre](https://cdn.myanimelist.net/images/manga/1/115501.jpg)
+
 -   **type**: manga
 -   **chapters**: 5
 -   **original-name**: 悪魔の鍵と少女のレゾンデートル

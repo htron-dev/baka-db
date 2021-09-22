@@ -1,5 +1,7 @@
 # Kin no Angel
 
+![kin-no-angel](https://cdn.myanimelist.net/images/manga/1/17286.jpg)
+
 -   **type**: manga
 -   **original-name**: 金のエンゼル
 

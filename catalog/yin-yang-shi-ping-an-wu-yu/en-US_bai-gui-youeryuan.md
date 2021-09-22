@@ -1,5 +1,7 @@
 # Bai Gui Youeryuan
 
+![bai-gui-youeryuan](https://cdn.myanimelist.net/images/anime/1962/108461.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 百鬼幼儿园

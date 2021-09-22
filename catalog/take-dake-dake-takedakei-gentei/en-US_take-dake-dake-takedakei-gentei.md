@@ -1,5 +1,7 @@
 # Take Dake Dake!: Takedakei Gentei
 
+![take-dake-dake-takedakei-gentei](https://cdn.myanimelist.net/images/manga/1/193754.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

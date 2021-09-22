@@ -1,5 +1,7 @@
 # Shichinin no Nana: Oshougatsu Da yo! 7 x 7 = 49-nin no Nana?
 
+![shichinin-no-nana-oshougatsu-da-yo-7-x-7-49-nin-no-nana](https://cdn.myanimelist.net/images/anime/7/58537.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: お正月だよ! 7×7=49 人のナナ?

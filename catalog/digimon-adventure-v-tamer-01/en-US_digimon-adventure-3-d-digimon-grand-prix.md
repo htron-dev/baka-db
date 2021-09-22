@@ -1,5 +1,7 @@
 # Digimon Adventure 3D: Digimon Grand Prix!
 
+![digimon-adventure-3-d-digimon-grand-prix](https://cdn.myanimelist.net/images/anime/12/22649.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: デジモンアドベンチャー 3D デジモングランプリ！
@@ -12,7 +14,6 @@
 -   adventure
 -   comedy
 -   fantasy
-
 -   parody
 -   sports
 

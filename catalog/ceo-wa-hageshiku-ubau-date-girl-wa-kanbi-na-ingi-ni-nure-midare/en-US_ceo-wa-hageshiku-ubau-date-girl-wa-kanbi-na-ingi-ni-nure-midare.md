@@ -1,5 +1,7 @@
 # CEO wa Hageshiku Ubau: Date Girl wa Kanbi na Ingi ni Nure Midare
 
+![ceo-wa-hageshiku-ubau-date-girl-wa-kanbi-na-ingi-ni-nure-midare](https://cdn.myanimelist.net/images/manga/1/196473.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Buzzy Noise
 
+![buzzy-noise](https://cdn.myanimelist.net/images/manga/2/221142.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 53

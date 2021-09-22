@@ -1,5 +1,7 @@
 # Fujiyama-san wa Shishunki
 
+![fujiyama-san-wa-shishunki](https://cdn.myanimelist.net/images/manga/1/103925.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 67

@@ -1,5 +1,7 @@
 # Appleseed (Movie)
 
+![appleseed-movie](https://cdn.myanimelist.net/images/anime/9/57231.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アップルシード

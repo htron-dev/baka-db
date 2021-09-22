@@ -1,5 +1,7 @@
 # Abaku Mono!
 
+![abaku-mono](https://cdn.myanimelist.net/images/manga/3/236179.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # Hanasaka!
 
+![hanasaka](https://cdn.myanimelist.net/images/manga/2/149875.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

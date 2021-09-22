@@ -1,5 +1,7 @@
 # Fuwafuwa, Futashika, Yume Mitai
 
+![fuwafuwa-futashika-yume-mitai](https://cdn.myanimelist.net/images/manga/2/218949.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

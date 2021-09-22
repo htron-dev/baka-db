@@ -1,5 +1,7 @@
 # Ookami-tachi no Gohoubi
 
+![ookami-tachi-no-gohoubi](https://cdn.myanimelist.net/images/manga/3/179891.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

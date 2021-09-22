@@ -1,5 +1,7 @@
 # Kogarete Kogashite
 
+![kogarete-kogashite](https://cdn.myanimelist.net/images/manga/2/236270.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

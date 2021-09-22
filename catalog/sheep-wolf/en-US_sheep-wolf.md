@@ -1,5 +1,7 @@
 # SheepWolf
 
+![sheep-wolf](https://cdn.myanimelist.net/images/anime/10/65795.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: SheepWolf

@@ -1,5 +1,7 @@
 # Toaru Nichijou no Index-san
 
+![toaru-nichijou-no-index-san](https://cdn.myanimelist.net/images/manga/3/125225.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 59

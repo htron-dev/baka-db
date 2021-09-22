@@ -1,5 +1,7 @@
 # Boku to Kanojo no XXX
 
+![boku-to-kanojo-no-xxx](https://cdn.myanimelist.net/images/manga/1/58073.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 69

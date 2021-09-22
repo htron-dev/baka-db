@@ -1,5 +1,7 @@
 # Shouan to Hibi.
 
+![shouan-to-hibi](https://cdn.myanimelist.net/images/manga/3/231497.jpg)
+
 -   **type**: manga
 -   **original-name**: しょうあんと日々。
 -   **start-date**: 2018-08-25

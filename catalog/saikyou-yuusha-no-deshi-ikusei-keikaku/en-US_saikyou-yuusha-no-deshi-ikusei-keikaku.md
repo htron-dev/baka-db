@@ -1,5 +1,7 @@
 # Saikyou Yuusha no Deshi Ikusei Keikaku
 
+![saikyou-yuusha-no-deshi-ikusei-keikaku](https://cdn.myanimelist.net/images/manga/2/177419.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 最強勇者の弟子育成計画
 -   **start-date**: 2014-11-22

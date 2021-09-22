@@ -1,5 +1,7 @@
 # Idol wa Tengoku wo Shiranai.
 
+![idol-wa-tengoku-wo-shiranai](https://cdn.myanimelist.net/images/manga/3/175249.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

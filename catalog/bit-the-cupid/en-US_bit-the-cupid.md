@@ -1,5 +1,7 @@
 # Bit the Cupid
 
+![bit-the-cupid](https://cdn.myanimelist.net/images/anime/9/27208.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 48
 -   **original-name**: ビット・ザ・キューピッド

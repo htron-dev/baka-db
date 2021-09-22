@@ -1,5 +1,7 @@
 # Soranaki Hatsune
 
+![soranaki-hatsune](https://cdn.myanimelist.net/images/manga/1/20868.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ソラナキ初音

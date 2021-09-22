@@ -1,5 +1,7 @@
 # Kaze ni Natte Uta ni Natte
 
+![kaze-ni-natte-uta-ni-natte](https://cdn.myanimelist.net/images/manga/1/19997.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Chiro-chan
 
+![chiro-chan](https://cdn.myanimelist.net/images/manga/1/9965.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: ちろちゃん

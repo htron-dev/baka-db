@@ -1,5 +1,7 @@
 # Nostradamus Love
 
+![nostradamus-love](https://cdn.myanimelist.net/images/manga/2/168526.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

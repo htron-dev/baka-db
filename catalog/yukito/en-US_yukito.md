@@ -1,5 +1,7 @@
 # Yukito
 
+![yukito](https://cdn.myanimelist.net/images/manga/1/151966.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 46

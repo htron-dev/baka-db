@@ -1,5 +1,7 @@
 # Play Zone - Nikushoku Kareshi to Kaikan Tenshi
 
+![play-zone-nikushoku-kareshi-to-kaikan-tenshi](https://cdn.myanimelist.net/images/manga/1/53427.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Love Roma
 
+![love-roma](https://cdn.myanimelist.net/images/manga/2/138067.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 32

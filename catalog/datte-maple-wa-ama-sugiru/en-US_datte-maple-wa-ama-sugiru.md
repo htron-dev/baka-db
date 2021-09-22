@@ -1,5 +1,7 @@
 # Datte Maple wa Ama Sugiru!
 
+![datte-maple-wa-ama-sugiru](https://cdn.myanimelist.net/images/manga/3/160032.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: だってメープルは甘すぎる!

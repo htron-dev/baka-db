@@ -1,5 +1,7 @@
 # Ruriiro ni Boketa Nichijou
 
+![ruriiro-ni-boketa-nichijou](https://cdn.myanimelist.net/images/manga/3/163328.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # Naraku no Junai
 
+![naraku-no-junai](https://cdn.myanimelist.net/images/manga/2/179704.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

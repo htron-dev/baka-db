@@ -1,5 +1,7 @@
 # "Uchuu Senkan Yamato" to Iu Jidai: Seireki 2202-nen no Sentaku
 
+![uchuu-senkan-yamato-to-iu-jidai-seireki-2202-nen-no-sentaku](https://cdn.myanimelist.net/images/anime/1903/109427.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 『宇宙戦艦ヤマト』という時代 西暦 2202 年の選択

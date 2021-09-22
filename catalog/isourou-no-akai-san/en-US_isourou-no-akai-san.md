@@ -1,5 +1,7 @@
 # Isourou no Akai-san
 
+![isourou-no-akai-san](https://cdn.myanimelist.net/images/manga/3/174762.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

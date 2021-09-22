@@ -1,5 +1,7 @@
 # Neko no Te wa Karinai!
 
+![neko-no-te-wa-karinai](https://cdn.myanimelist.net/images/manga/2/204476.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

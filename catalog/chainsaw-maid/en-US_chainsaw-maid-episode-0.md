@@ -1,5 +1,7 @@
 # Chainsaw Maid Episode 0
 
+![chainsaw-maid-episode-0](https://cdn.myanimelist.net/images/anime/1206/93028.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: チェーンソーメイド外伝 エピソード 0

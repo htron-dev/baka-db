@@ -1,5 +1,7 @@
 # Juggle
 
+![juggle](https://cdn.myanimelist.net/images/manga/3/109481.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 22

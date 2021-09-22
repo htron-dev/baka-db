@@ -1,5 +1,7 @@
 # Kidou Senkan Nadesico: The Prince of Darkness
 
+![kidou-senkan-nadesico-the-prince-of-darkness](https://cdn.myanimelist.net/images/anime/10/51253.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 機動戦艦ナデシコ The prince of darkness

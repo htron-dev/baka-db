@@ -1,5 +1,7 @@
 # Nihon no Ichiban Jungle na Hi
 
+![nihon-no-ichiban-jungle-na-hi](https://cdn.myanimelist.net/images/manga/3/173435.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

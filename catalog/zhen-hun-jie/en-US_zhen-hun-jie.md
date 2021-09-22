@@ -1,5 +1,7 @@
 # Zhen Hun Jie
 
+![zhen-hun-jie](https://cdn.myanimelist.net/images/anime/6/80129.jpg)
+
 -   **type**: ona
 -   **episodes**: 24
 -   **original-name**: 镇魂街

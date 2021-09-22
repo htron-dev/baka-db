@@ -1,5 +1,7 @@
 # Devil May Cry 4: Deadly Fortune
 
+![devil-may-cry-4-deadly-fortune](https://cdn.myanimelist.net/images/manga/2/221178.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 23

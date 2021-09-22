@@ -1,5 +1,7 @@
 # Eiga Futari wa Precure: Max Heart
 
+![eiga-futari-wa-precure-max-heart](https://cdn.myanimelist.net/images/manga/2/41682.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 映画 ふたりはプリキュア Max Heart

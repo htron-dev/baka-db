@@ -1,5 +1,7 @@
 # Yoiko-kei Furyou Succubus Saki-chan
 
+![yoiko-kei-furyou-succubus-saki-chan](https://cdn.myanimelist.net/images/manga/3/222522.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: よいこ系不良サキュバスサキちゃん

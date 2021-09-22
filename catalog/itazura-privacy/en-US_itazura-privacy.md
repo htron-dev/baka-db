@@ -1,5 +1,7 @@
 # Itazura Privacy
 
+![itazura-privacy](https://cdn.myanimelist.net/images/manga/2/233063.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

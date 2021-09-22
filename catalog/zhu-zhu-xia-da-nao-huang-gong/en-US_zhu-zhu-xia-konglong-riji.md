@@ -1,5 +1,7 @@
 # Zhu Zhu Xia: Konglong Riji
 
+![zhu-zhu-xia-konglong-riji](https://cdn.myanimelist.net/images/anime/1956/100947.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 104
 -   **original-name**: 猪猪侠 恐龙日记

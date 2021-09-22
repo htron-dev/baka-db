@@ -1,5 +1,7 @@
 # Mahou Sensei Negima! Movie: Anime Final
 
+![mahou-sensei-negima-movie-anime-final](https://cdn.myanimelist.net/images/anime/6/29541.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 魔法先生ネギま! ANIME FINAL

@@ -1,5 +1,7 @@
 # Kuragehime: Eiyuu Retsuden☆
 
+![kuragehime-eiyuu-retsuden☆](https://cdn.myanimelist.net/images/anime/6/27015.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: 海月姫 英雄列伝 ☆

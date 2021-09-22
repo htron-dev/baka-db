@@ -1,5 +1,7 @@
 # Samurai Spirits 2: Asura Zanmaden
 
+![samurai-spirits-2-asura-zanmaden](https://cdn.myanimelist.net/images/anime/2/2959.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: サムライスピリッツ 2 アスラ斬魔伝

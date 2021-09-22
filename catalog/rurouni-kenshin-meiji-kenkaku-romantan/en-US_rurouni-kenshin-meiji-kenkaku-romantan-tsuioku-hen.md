@@ -1,5 +1,7 @@
 # Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen
 
+![rurouni-kenshin-meiji-kenkaku-romantan-tsuioku-hen](https://cdn.myanimelist.net/images/anime/1807/102419.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: るろうに剣心―明治剣客浪漫譚―追憶編

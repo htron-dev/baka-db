@@ -1,5 +1,7 @@
 # Tokyo Super Sheikh-sama!!
 
+![tokyo-super-sheikh-sama](https://cdn.myanimelist.net/images/manga/2/240846.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 49

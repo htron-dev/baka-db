@@ -1,5 +1,7 @@
 # .hack//Alcor: Hagun no Jokyoku
 
+![hack-alcor-hagun-no-jokyoku](https://cdn.myanimelist.net/images/manga/1/162793.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

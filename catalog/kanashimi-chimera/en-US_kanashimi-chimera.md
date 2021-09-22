@@ -1,5 +1,7 @@
 # Kanashimi Chimera
 
+![kanashimi-chimera](https://cdn.myanimelist.net/images/manga/1/164980.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 哀しみキメラ

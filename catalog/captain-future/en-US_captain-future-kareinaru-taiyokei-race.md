@@ -1,5 +1,7 @@
 # Captain Future: Kareinaru Taiyokei Race
 
+![captain-future-kareinaru-taiyokei-race](https://cdn.myanimelist.net/images/anime/3/8631.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: キャプテンフューチャー・華麗なる太陽系レース

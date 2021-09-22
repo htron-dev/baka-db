@@ -1,5 +1,7 @@
 # Inma Taisen: Nerawareta Gakuen
 
+![inma-taisen-nerawareta-gakuen](https://cdn.myanimelist.net/images/manga/2/197466.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 淫魔大戦　狙われた学園

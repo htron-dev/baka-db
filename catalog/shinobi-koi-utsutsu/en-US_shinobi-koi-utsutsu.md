@@ -1,5 +1,7 @@
 # Shinobi, Koi Utsutsu
 
+![shinobi-koi-utsutsu](https://cdn.myanimelist.net/images/manga/3/158366.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

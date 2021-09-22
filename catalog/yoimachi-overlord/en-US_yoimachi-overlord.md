@@ -1,5 +1,7 @@
 # Yoimachi Overlord
 
+![yoimachi-overlord](https://cdn.myanimelist.net/images/manga/3/171684.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

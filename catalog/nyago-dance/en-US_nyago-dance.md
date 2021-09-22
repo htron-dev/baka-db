@@ -1,5 +1,7 @@
 # Nyago Dance
 
+![nyago-dance](https://cdn.myanimelist.net/images/anime/5/86283.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ニヤゴダンス

@@ -1,5 +1,7 @@
 # Renai☆SLG
 
+![renai☆-slg](https://cdn.myanimelist.net/images/manga/2/120095.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋愛 ☆SLG〈スター・ライト・ガール〉
 -   **start-date**: 2013-10-26

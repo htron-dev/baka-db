@@ -1,5 +1,7 @@
 # Renai Nichijou Sahanji
 
+![renai-nichijou-sahanji](https://cdn.myanimelist.net/images/manga/1/6243.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Kanojo no Hitorigurashi: Two Out Manrui
 
+![kanojo-no-hitorigurashi-two-out-manrui](https://cdn.myanimelist.net/images/manga/3/197864.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

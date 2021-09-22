@@ -1,5 +1,7 @@
 # Lv999 no Murabito
 
+![lv-999-no-murabito](https://cdn.myanimelist.net/images/manga/1/176366.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 54

@@ -1,5 +1,7 @@
 # Boku no Hero Academia: Team Up Mission
 
+![boku-no-hero-academia-team-up-mission](https://cdn.myanimelist.net/images/manga/3/227743.jpg)
+
 -   **type**: manga
 -   **original-name**: 僕のヒーローアカデミア チームアップミッション
 -   **start-date**: 2019-08-02

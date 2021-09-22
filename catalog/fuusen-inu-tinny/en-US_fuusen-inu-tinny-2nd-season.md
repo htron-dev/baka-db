@@ -1,5 +1,7 @@
 # Fuusen Inu Tinny 2nd Season
 
+![fuusen-inu-tinny-2nd-season](https://cdn.myanimelist.net/images/anime/3/76252.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ふうせんいぬティニー 第 2 シリーズ

@@ -1,5 +1,7 @@
 # Zero Taker
 
+![zero-taker](https://cdn.myanimelist.net/images/manga/3/152197.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **start-date**: 2003-07-20

@@ -1,5 +1,7 @@
 # Code Geass: Shikkoku no Renya
 
+![code-geass-shikkoku-no-renya](https://cdn.myanimelist.net/images/manga/3/118883.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 40

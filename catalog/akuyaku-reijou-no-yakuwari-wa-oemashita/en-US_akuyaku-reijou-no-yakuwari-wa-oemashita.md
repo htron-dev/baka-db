@@ -1,5 +1,7 @@
 # Akuyaku Reijou no Yakuwari wa Oemashita
 
+![akuyaku-reijou-no-yakuwari-wa-oemashita](https://cdn.myanimelist.net/images/manga/1/242731.jpg)
+
 -   **type**: manga
 -   **original-name**: 悪役令嬢の役割は終えました
 -   **start-date**: 2020-06-16

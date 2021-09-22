@@ -1,5 +1,7 @@
 # MapleStory Special
 
+![maple-story-special](https://cdn.myanimelist.net/images/anime/12/68281.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: メイプルストーリー
@@ -10,7 +12,6 @@
 
 -   action
 -   comedy
-
 -   fantasy
 
 ## Sinopse

@@ -1,5 +1,7 @@
 # Kimi ga Uso wo Tsuita
 
+![kimi-ga-uso-wo-tsuita](https://cdn.myanimelist.net/images/manga/2/163797.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

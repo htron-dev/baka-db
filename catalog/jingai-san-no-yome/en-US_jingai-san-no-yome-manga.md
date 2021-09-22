@@ -1,5 +1,7 @@
 # Jingai-san no Yome
 
+![jingai-san-no-yome](https://cdn.myanimelist.net/images/manga/3/203949.jpg)
+
 -   **type**: manga
 -   **original-name**: 人外さんの嫁
 -   **start-date**: 2016-06-03

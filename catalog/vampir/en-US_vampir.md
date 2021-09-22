@@ -1,5 +1,7 @@
 # Vampir
 
+![vampir](https://cdn.myanimelist.net/images/manga/3/88461.jpg)
+
 -   **type**: manga
 -   **original-name**: ヴァムピール
 -   **start-date**: 2006-08-20

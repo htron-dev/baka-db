@@ -1,5 +1,7 @@
 # Watashi no Ookami-san.
 
+![watashi-no-ookami-san](https://cdn.myanimelist.net/images/manga/1/181071.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

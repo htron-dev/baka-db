@@ -1,5 +1,7 @@
 # Kurosaki Mayu no Hitomi ni Utsuru Utsukushii Sekai
 
+![kurosaki-mayu-no-hitomi-ni-utsuru-utsukushii-sekai](https://cdn.myanimelist.net/images/manga/1/178701.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

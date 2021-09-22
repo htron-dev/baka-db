@@ -1,5 +1,7 @@
 # Mamacolle
 
+![mamacolle](https://cdn.myanimelist.net/images/manga/3/19669.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

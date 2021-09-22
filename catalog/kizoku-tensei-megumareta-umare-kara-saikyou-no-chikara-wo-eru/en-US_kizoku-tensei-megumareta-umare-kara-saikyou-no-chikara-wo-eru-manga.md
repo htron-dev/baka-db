@@ -1,5 +1,7 @@
 # Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru
 
+![kizoku-tensei-megumareta-umare-kara-saikyou-no-chikara-wo-eru](https://cdn.myanimelist.net/images/manga/3/237475.jpg)
+
 -   **type**: manga
 -   **original-name**: 貴族転生 ～恵まれた生まれから最強の力を得る～
 -   **start-date**: 2019-12-10

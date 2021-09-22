@@ -1,5 +1,7 @@
 # Paranoia Star
 
+![paranoia-star](https://cdn.myanimelist.net/images/manga/2/34371.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

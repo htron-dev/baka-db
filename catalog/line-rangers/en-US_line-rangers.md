@@ -1,5 +1,7 @@
 # Line Rangers
 
+![line-rangers](https://cdn.myanimelist.net/images/anime/1443/114500.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: 라인 레인저스

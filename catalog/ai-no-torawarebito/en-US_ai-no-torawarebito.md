@@ -1,5 +1,7 @@
 # Ai no Torawarebito
 
+![ai-no-torawarebito](https://cdn.myanimelist.net/images/manga/1/230190.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 愛の囚われ人

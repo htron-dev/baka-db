@@ -1,5 +1,7 @@
 # Koi to Keiji
 
+![koi-to-keiji](https://cdn.myanimelist.net/images/manga/3/41947.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

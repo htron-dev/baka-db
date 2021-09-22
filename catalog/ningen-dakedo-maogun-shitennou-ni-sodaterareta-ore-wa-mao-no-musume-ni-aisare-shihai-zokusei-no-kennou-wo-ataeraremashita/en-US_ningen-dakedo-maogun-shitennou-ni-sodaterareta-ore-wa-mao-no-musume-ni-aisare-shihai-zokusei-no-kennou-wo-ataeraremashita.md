@@ -1,5 +1,7 @@
 # Ningen Dakedo Maogun Shitennou ni Sodaterareta Ore wa Mao no Musume ni Aisare Shihai Zokusei no Kennou wo Ataeraremashita
 
+![ningen-dakedo-maogun-shitennou-ni-sodaterareta-ore-wa-mao-no-musume-ni-aisare-shihai-zokusei-no-kennou-wo-ataeraremashita](https://cdn.myanimelist.net/images/manga/2/240582.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 33

@@ -1,5 +1,7 @@
 # Tsukiyosai no Mitsukai: Jajauma Hanayome to Urei no Ouji
 
+![tsukiyosai-no-mitsukai-jajauma-hanayome-to-urei-no-ouji](https://cdn.myanimelist.net/images/manga/2/194146.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Gal to Kyouryuu
 
+![gal-to-kyouryuu](https://cdn.myanimelist.net/images/manga/1/217678.jpg)
+
 -   **type**: manga
 -   **original-name**: ギャルと恐竜
 -   **start-date**: 2018-10-15

@@ -1,5 +1,7 @@
 # Hakuouki: Otogisoushi
 
+![hakuouki-otogisoushi](https://cdn.myanimelist.net/images/anime/9/78600.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 薄桜鬼～御伽草子～

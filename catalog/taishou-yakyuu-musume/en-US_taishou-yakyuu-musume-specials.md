@@ -1,5 +1,7 @@
 # Taishou Yakyuu Musume. Specials
 
+![taishou-yakyuu-musume-specials](https://cdn.myanimelist.net/images/anime/10/19618.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 大正野球娘。今夜の私は浪漫ちっくストライク

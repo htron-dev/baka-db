@@ -1,5 +1,7 @@
 # Renai Otogibanashi: Toy Box
 
+![renai-otogibanashi-toy-box](https://cdn.myanimelist.net/images/manga/2/26875.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Mino-san no Sore, Sawattemo Ii?
 
+![mino-san-no-sore-sawattemo-ii](https://cdn.myanimelist.net/images/manga/2/215084.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 30

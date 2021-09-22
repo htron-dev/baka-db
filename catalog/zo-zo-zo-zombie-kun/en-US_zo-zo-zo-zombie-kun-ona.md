@@ -1,5 +1,7 @@
 # Zo Zo Zo Zombie-kun
 
+![zo-zo-zo-zombie-kun](https://cdn.myanimelist.net/images/anime/2/84766.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: ゾゾゾ ゾンビーくん

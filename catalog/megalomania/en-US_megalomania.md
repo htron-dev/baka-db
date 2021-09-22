@@ -1,5 +1,7 @@
 # Megalomania
 
+![megalomania](https://cdn.myanimelist.net/images/manga/2/9214.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: MEGALOMANIA メガロマニア

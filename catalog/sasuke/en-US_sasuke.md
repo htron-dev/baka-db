@@ -1,5 +1,7 @@
 # Sasuke
 
+![sasuke](https://cdn.myanimelist.net/images/anime/4/30805.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 29
 -   **original-name**: サスケ

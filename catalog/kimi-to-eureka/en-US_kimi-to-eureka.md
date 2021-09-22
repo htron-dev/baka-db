@@ -1,5 +1,7 @@
 # Kimi to Eureka
 
+![kimi-to-eureka](https://cdn.myanimelist.net/images/manga/3/174497.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

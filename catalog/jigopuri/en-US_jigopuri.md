@@ -1,5 +1,7 @@
 # Jigopuri
 
+![jigopuri](https://cdn.myanimelist.net/images/manga/2/150371.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 29

@@ -1,5 +1,7 @@
 # Senyuu.: Foyfoy/Rudolf-hen - Mogura to Oasis
 
+![senyuu-foyfoy-rudolf-hen-mogura-to-oasis](https://cdn.myanimelist.net/images/manga/2/171256.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 戦勇。フォイフォイ・ルドルフ編「モグラとオアシス」

@@ -1,5 +1,7 @@
 # Yuri-Natsu: Minshuku Kagaya
 
+![yuri-natsu-minshuku-kagaya](https://cdn.myanimelist.net/images/manga/3/212849.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 103

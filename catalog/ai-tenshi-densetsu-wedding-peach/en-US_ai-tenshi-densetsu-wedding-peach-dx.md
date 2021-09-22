@@ -1,5 +1,7 @@
 # Ai Tenshi Densetsu Wedding Peach DX
 
+![ai-tenshi-densetsu-wedding-peach-dx](https://cdn.myanimelist.net/images/anime/13/28128.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 愛天使伝説ウェディング・ピーチ DX

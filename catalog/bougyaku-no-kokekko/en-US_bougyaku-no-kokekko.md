@@ -1,5 +1,7 @@
 # Bougyaku no Kokekko
 
+![bougyaku-no-kokekko](https://cdn.myanimelist.net/images/manga/3/216079.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 56

@@ -1,5 +1,7 @@
 # Rental Cute
 
+![rental-cute](https://cdn.myanimelist.net/images/manga/2/151617.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

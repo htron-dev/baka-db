@@ -1,5 +1,7 @@
 # The Dress
 
+![the-dress](https://cdn.myanimelist.net/images/manga/1/4799.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 

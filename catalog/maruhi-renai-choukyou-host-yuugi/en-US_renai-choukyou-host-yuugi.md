@@ -1,5 +1,7 @@
 # Ren'ai Choukyou - Host Yuugi
 
+![renai-choukyou-host-yuugi](https://cdn.myanimelist.net/images/manga/1/12619.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

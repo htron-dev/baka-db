@@ -1,5 +1,7 @@
 # A.I.C.O.: Incarnation
 
+![a-i-c-o-incarnation](https://cdn.myanimelist.net/images/anime/1921/91085.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: A.I.C.O. -Incarnation-

@@ -1,5 +1,7 @@
 # Kowairo ni Somaru
 
+![kowairo-ni-somaru](https://cdn.myanimelist.net/images/manga/3/222062.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

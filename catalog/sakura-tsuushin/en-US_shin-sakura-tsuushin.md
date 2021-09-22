@@ -1,5 +1,7 @@
 # Shin Sakura Tsuushin
 
+![shin-sakura-tsuushin](https://cdn.myanimelist.net/images/manga/3/168394.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

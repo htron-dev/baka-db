@@ -1,5 +1,7 @@
 # Brothers Conflict 13Bros.Maniax
 
+![brothers-conflict-13-bros-maniax](https://cdn.myanimelist.net/images/manga/1/134959.jpg)
+
 -   **type**: light-novel
 -   **chapters**: 6
 -   **original-name**: BROTHERS CONFLICT 13Bros.MANIAX

@@ -1,5 +1,7 @@
 # Double Decker! Doug & Kirill
 
+![double-decker-doug-kirill](https://cdn.myanimelist.net/images/manga/1/224468.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

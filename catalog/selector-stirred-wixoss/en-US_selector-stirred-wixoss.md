@@ -1,5 +1,7 @@
 # Selector Stirred WIXOSS
 
+![selector-stirred-wixoss](https://cdn.myanimelist.net/images/manga/1/196503.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

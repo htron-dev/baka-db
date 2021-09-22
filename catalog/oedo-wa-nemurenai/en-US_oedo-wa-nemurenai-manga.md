@@ -1,5 +1,7 @@
 # Oedo wa Nemurenai!
 
+![oedo-wa-nemurenai](https://cdn.myanimelist.net/images/manga/2/88191.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 32

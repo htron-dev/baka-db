@@ -1,5 +1,7 @@
 # Ojarumaru Yakusoku no Natsu Ojaru to Semira Movie
 
+![ojarumaru-yakusoku-no-natsu-ojaru-to-semira-movie](https://cdn.myanimelist.net/images/anime/7/44464.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 おじゃる丸 約束の夏 おじゃるとせみら

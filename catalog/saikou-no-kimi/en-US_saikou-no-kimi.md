@@ -1,5 +1,7 @@
 # Saikou no Kimi
 
+![saikou-no-kimi](https://cdn.myanimelist.net/images/manga/1/152829.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

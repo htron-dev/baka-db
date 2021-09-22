@@ -1,5 +1,7 @@
 # Hokori Inu no Hanashi
 
+![hokori-inu-no-hanashi](https://cdn.myanimelist.net/images/anime/9/78345.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ほこり犬のはなし

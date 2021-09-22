@@ -1,5 +1,7 @@
 # Princess Knight: Kishi Hime no Junketsu wa Shuudouin ni Chiru
 
+![princess-knight-kishi-hime-no-junketsu-wa-shuudouin-ni-chiru](https://cdn.myanimelist.net/images/manga/1/192403.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

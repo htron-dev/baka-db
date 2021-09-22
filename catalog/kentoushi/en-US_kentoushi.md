@@ -1,5 +1,7 @@
 # Kentoushi
 
+![kentoushi](https://cdn.myanimelist.net/images/anime/1803/110236.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 拳闘士

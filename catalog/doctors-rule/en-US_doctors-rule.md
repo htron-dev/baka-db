@@ -1,5 +1,7 @@
 # Doctor's Rule
 
+![doctors-rule](https://cdn.myanimelist.net/images/manga/3/99177.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

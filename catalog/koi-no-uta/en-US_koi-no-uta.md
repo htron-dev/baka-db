@@ -1,5 +1,7 @@
 # Koi no Uta
 
+![koi-no-uta](https://cdn.myanimelist.net/images/manga/1/24707.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

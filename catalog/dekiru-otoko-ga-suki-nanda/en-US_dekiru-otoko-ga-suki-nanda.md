@@ -1,5 +1,7 @@
 # Dekiru Otoko ga Suki Nanda!
 
+![dekiru-otoko-ga-suki-nanda](https://cdn.myanimelist.net/images/manga/3/204.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

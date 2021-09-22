@@ -1,5 +1,7 @@
 # Bonkura Bonbon House
 
+![bonkura-bonbon-house](https://cdn.myanimelist.net/images/manga/3/201971.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

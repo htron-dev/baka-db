@@ -1,5 +1,7 @@
 # Detective Conan Movie 21: The Crimson Love Letter
 
+![detective-conan-movie-21-the-crimson-love-letter](https://cdn.myanimelist.net/images/anime/2/83919.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版『名探偵コナン から紅の恋歌』

@@ -1,5 +1,7 @@
 # Strange Orange
 
+![strange-orange](https://cdn.myanimelist.net/images/manga/4/112131.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

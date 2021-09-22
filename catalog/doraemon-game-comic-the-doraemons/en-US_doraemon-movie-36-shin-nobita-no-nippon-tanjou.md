@@ -1,5 +1,7 @@
 # Doraemon Movie 36: Shin Nobita no Nippon Tanjou
 
+![doraemon-movie-36-shin-nobita-no-nippon-tanjou](https://cdn.myanimelist.net/images/anime/7/78157.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん 新・のび太の日本誕生
@@ -13,7 +15,6 @@
 -   adventure
 -   comedy
 -   fantasy
-
 -   shounen
 
 ## Sinopse

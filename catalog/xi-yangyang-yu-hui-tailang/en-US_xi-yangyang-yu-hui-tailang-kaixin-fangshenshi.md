@@ -1,5 +1,7 @@
 # Xi Yangyang Yu Hui Tailang: Kaixin Fangshenshi
 
+![xi-yangyang-yu-hui-tailang-kaixin-fangshenshi](https://cdn.myanimelist.net/images/anime/1932/115274.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 60
 -   **original-name**: 喜羊羊與灰太狼之開心方程式

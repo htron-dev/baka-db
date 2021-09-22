@@ -1,5 +1,7 @@
 # Kigurumi Guardians
 
+![kigurumi-guardians](https://cdn.myanimelist.net/images/manga/3/108381.jpg)
+
 -   **type**: manga
 -   **original-name**: きぐるみ防衛隊〈ガーディアンズ〉
 -   **start-date**: 2013-03-02

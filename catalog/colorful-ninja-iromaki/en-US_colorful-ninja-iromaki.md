@@ -1,5 +1,7 @@
 # Colorful Ninja Iromaki
 
+![colorful-ninja-iromaki](https://cdn.myanimelist.net/images/anime/1673/112570.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: カラフル忍者いろまき

@@ -1,5 +1,7 @@
 # Lady Detective
 
+![lady-detective](https://cdn.myanimelist.net/images/manga/2/129359.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **original-name**: Lady Detective 레이디 디텍티브

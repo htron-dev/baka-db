@@ -1,5 +1,7 @@
 # Hadashi no Gen 2
 
+![hadashi-no-gen-2](https://cdn.myanimelist.net/images/anime/1/1825.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: はだしのゲン　２

@@ -1,5 +1,7 @@
 # Wind: A Breath of Heart (TV)
 
+![wind-a-breath-of-heart-tv](https://cdn.myanimelist.net/images/anime/11/75506.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: Wind -a breath of heart-

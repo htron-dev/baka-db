@@ -1,5 +1,7 @@
 # Ima ni Mukaikuru Kaze
 
+![ima-ni-mukaikuru-kaze](https://cdn.myanimelist.net/images/manga/2/177760.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

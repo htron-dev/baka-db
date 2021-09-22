@@ -1,5 +1,7 @@
 # Mashima-en
 
+![mashima-en](https://cdn.myanimelist.net/images/manga/3/56849.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

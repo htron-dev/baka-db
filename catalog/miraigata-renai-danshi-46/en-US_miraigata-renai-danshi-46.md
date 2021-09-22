@@ -1,5 +1,7 @@
 # Miraigata Renai Danshi 46
 
+![miraigata-renai-danshi-46](https://cdn.myanimelist.net/images/manga/3/174649.jpg)
+
 -   **type**: manga
 -   **original-name**: 未来型恋愛男子 46
 -   **start-date**: 2015-10-05

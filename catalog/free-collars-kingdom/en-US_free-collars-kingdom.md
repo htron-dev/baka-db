@@ -1,5 +1,7 @@
 # Free Collars Kingdom
 
+![free-collars-kingdom](https://cdn.myanimelist.net/images/manga/1/862.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

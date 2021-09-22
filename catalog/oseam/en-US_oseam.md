@@ -1,5 +1,7 @@
 # Oseam
 
+![oseam](https://cdn.myanimelist.net/images/anime/6/26088.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 오세암

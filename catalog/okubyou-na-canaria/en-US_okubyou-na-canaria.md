@@ -1,5 +1,7 @@
 # Okubyou na Canaria
 
+![okubyou-na-canaria](https://cdn.myanimelist.net/images/manga/2/227259.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

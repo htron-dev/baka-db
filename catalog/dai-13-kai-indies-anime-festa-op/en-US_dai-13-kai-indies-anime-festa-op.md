@@ -1,5 +1,7 @@
 # Dai 13-kai Indies Anime Festa OP
 
+![dai-13-kai-indies-anime-festa-op](https://cdn.myanimelist.net/images/anime/1759/108313.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 第 13 回インディーズアニメフェスタ OP

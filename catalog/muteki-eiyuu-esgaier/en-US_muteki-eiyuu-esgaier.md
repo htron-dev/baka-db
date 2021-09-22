@@ -1,5 +1,7 @@
 # Muteki Eiyuu Esgaier
 
+![muteki-eiyuu-esgaier](https://cdn.myanimelist.net/images/manga/1/133571.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

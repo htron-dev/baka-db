@@ -1,5 +1,7 @@
 # Hello Kitty no Fushigi no Kuni no Alice
 
+![hello-kitty-no-fushigi-no-kuni-no-alice](https://cdn.myanimelist.net/images/anime/7/42339.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティの不思議の国のアリス

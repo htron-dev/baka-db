@@ -1,5 +1,7 @@
 # SD Gundam World Heroes
 
+![sd-gundam-world-heroes](https://cdn.myanimelist.net/images/anime/1390/115029.jpg)
+
 -   **type**: ona
 -   **original-name**: SD ガンダムワールド ヒーローズ
 -   **start-date**: 2021-04-08

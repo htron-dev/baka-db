@@ -1,5 +1,7 @@
 # Phantom of the Kill: Zero kara no Hangyaku
 
+![phantom-of-the-kill-zero-kara-no-hangyaku](https://cdn.myanimelist.net/images/anime/9/80304.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ファントム オブ キル ―ZERO からの反逆―

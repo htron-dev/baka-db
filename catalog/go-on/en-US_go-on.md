@@ -1,5 +1,7 @@
 # Go-On!
 
+![go-on](https://cdn.myanimelist.net/images/manga/2/179884.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 30

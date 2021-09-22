@@ -1,5 +1,7 @@
 # Le Théâtre de B
 
+![le-theatre-de-b](https://cdn.myanimelist.net/images/manga/2/89669.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

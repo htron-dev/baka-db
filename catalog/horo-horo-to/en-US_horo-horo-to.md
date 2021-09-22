@@ -1,5 +1,7 @@
 # Horo Horo to
 
+![horo-horo-to](https://cdn.myanimelist.net/images/manga/3/118971.jpg)
+
 -   **type**: manga
 -   **original-name**: ほろほろと
 -   **start-date**: 2009-09-07

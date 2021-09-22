@@ -1,5 +1,7 @@
 # Hong Mao Lan Tu: Konglong Shijie
 
+![hong-mao-lan-tu-konglong-shijie](https://cdn.myanimelist.net/images/anime/1506/98695.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 88
 -   **original-name**: 虹猫蓝兔恐龙世界

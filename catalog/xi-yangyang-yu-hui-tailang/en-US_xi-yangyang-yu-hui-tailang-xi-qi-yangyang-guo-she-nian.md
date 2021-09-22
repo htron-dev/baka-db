@@ -1,5 +1,7 @@
 # Xi Yangyang Yu Hui Tailang: Xi Qi Yangyang Guo She Nian
 
+![xi-yangyang-yu-hui-tailang-xi-qi-yangyang-guo-she-nian](https://cdn.myanimelist.net/images/anime/1754/90790.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 喜羊羊与灰太狼之喜气羊羊过蛇年

@@ -1,5 +1,7 @@
 # O*G*A Onigokko Royal
 
+![o-g-a-onigokko-royal](https://cdn.myanimelist.net/images/manga/2/83048.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: O＊G＊A 鬼ごっこロワイアル

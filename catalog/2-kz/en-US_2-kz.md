@@ -1,5 +1,7 @@
 # 2KZ
 
+![2-kz](https://cdn.myanimelist.net/images/manga/1/154647.jpg)
+
 -   **type**: manga
 -   **original-name**: 2KZ
 

@@ -1,5 +1,7 @@
 # Innocents Shounen Juujigun
 
+![innocents-shounen-juujigun](https://cdn.myanimelist.net/images/manga/1/166912.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

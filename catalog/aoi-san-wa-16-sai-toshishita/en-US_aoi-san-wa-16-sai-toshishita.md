@@ -1,5 +1,7 @@
 # Aoi-san wa 16-sai Toshishita
 
+![aoi-san-wa-16-sai-toshishita](https://cdn.myanimelist.net/images/manga/1/244481.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

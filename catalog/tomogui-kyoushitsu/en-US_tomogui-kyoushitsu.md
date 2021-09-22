@@ -1,5 +1,7 @@
 # Tomogui Kyoushitsu
 
+![tomogui-kyoushitsu](https://cdn.myanimelist.net/images/manga/3/204342.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 39

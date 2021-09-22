@@ -1,5 +1,7 @@
 # Shitsukekata wa Nijuumaru
 
+![shitsukekata-wa-nijuumaru](https://cdn.myanimelist.net/images/manga/3/179360.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

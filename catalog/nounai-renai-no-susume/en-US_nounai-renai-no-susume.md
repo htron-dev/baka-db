@@ -1,5 +1,7 @@
 # Nounai Renai no Susume
 
+![nounai-renai-no-susume](https://cdn.myanimelist.net/images/manga/2/2635.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

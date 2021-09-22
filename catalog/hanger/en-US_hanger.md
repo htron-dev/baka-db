@@ -1,5 +1,7 @@
 # Hanger
 
+![hanger](https://cdn.myanimelist.net/images/manga/2/206212.jpg)
+
 -   **type**: manga
 -   **original-name**: HANGER―執行人―
 -   **start-date**: 2013-11-22

@@ -1,5 +1,7 @@
 # Cherry Love
 
+![cherry-love](https://cdn.myanimelist.net/images/manga/1/10006.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

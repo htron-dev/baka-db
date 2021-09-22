@@ -1,5 +1,7 @@
 # Oniichan ga Daisuki na Imouto wa Jitsu wa Pro no Imouto Datta you desu
 
+![oniichan-ga-daisuki-na-imouto-wa-jitsu-wa-pro-no-imouto-datta-you-desu](https://cdn.myanimelist.net/images/manga/2/180836.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Dragon Ball
 
+![dragon-ball](https://cdn.myanimelist.net/images/anime/1887/92364.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 153
 -   **original-name**: ドラゴンボール

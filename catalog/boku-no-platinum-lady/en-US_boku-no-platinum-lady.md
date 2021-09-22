@@ -1,5 +1,7 @@
 # Boku no Platinum Lady
 
+![boku-no-platinum-lady](https://cdn.myanimelist.net/images/manga/2/207008.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ボクのプラチナレディー

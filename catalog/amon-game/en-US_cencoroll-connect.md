@@ -1,5 +1,7 @@
 # Cencoroll Connect
 
+![cencoroll-connect](https://cdn.myanimelist.net/images/anime/1454/99902.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: センコロール

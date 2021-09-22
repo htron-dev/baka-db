@@ -1,5 +1,7 @@
 # Yocchan no Biidama
 
+![yocchan-no-biidama](https://cdn.myanimelist.net/images/anime/9/53837.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: よっちゃんのビー玉

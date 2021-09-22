@@ -1,5 +1,7 @@
 # Retsujou Kyoumushitsu
 
+![retsujou-kyoumushitsu](https://cdn.myanimelist.net/images/manga/1/2798.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

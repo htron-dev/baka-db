@@ -1,5 +1,7 @@
 # Satsujin Ryoudan: Madmen
 
+![satsujin-ryoudan-madmen](https://cdn.myanimelist.net/images/manga/2/242953.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 100

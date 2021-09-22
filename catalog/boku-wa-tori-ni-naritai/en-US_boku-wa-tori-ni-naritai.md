@@ -1,5 +1,7 @@
 # Boku wa Tori ni Naritai
 
+![boku-wa-tori-ni-naritai](https://cdn.myanimelist.net/images/manga/3/61455.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # VS Fairy Tail: Bad End na Unmei no Heroine wo Sukuidase
 
+![vs-fairy-tail-bad-end-na-unmei-no-heroine-wo-sukuidase](https://cdn.myanimelist.net/images/manga/2/198719.jpg)
+
 -   **type**: light-novel
 -   **original-name**: バーサス・フェアリーテイル ―バッドエンドな運命のヒロインを救い出せ―
 -   **start-date**: 2017-07-20

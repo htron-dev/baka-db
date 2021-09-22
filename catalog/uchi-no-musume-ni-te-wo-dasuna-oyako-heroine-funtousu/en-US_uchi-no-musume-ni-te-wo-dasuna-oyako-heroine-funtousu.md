@@ -1,5 +1,7 @@
 # Uchi no Musume ni Te wo Dasuna!: Oyako Heroine Funtousu
 
+![uchi-no-musume-ni-te-wo-dasuna-oyako-heroine-funtousu](https://cdn.myanimelist.net/images/manga/3/173174.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

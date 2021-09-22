@@ -1,5 +1,7 @@
 # Hansu no Kikan
 
+![hansu-no-kikan](https://cdn.myanimelist.net/images/manga/3/17506.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

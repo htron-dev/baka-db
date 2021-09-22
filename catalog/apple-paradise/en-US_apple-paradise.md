@@ -1,5 +1,7 @@
 # Apple Paradise
 
+![apple-paradise](https://cdn.myanimelist.net/images/manga/3/150474.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 41

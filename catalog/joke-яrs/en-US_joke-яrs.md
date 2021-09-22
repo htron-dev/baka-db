@@ -1,5 +1,7 @@
 # JOKE:ЯR'S
 
+![joke-яrs](https://cdn.myanimelist.net/images/manga/2/172753.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

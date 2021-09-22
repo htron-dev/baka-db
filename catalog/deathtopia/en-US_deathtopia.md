@@ -1,5 +1,7 @@
 # Deathtopia
 
+![deathtopia](https://cdn.myanimelist.net/images/manga/3/133277.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 66

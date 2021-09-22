@@ -1,5 +1,7 @@
 # Photon
 
+![photon](https://cdn.myanimelist.net/images/anime/1984/94161.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: フォトン
@@ -31,4 +33,4 @@ Photon Earth is a young and gentle boy with superhuman strength and "Baka" (mean
 -   [Official Site](http://www.anime-int.com/works/index.html?years=1997&?type=ova?initial=p)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=139)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=656)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Photon_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Photon_%28anime%29)

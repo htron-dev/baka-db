@@ -1,5 +1,7 @@
 # Biohazard 4D-Executer
 
+![biohazard-4-d-executer](https://cdn.myanimelist.net/images/anime/2/11616.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: BIOHAZARD 4D-EXECUTER

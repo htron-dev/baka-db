@@ -1,5 +1,7 @@
 # Piyocolate
 
+![piyocolate](https://cdn.myanimelist.net/images/manga/1/64877.jpg)
+
 -   **type**: manga
 -   **original-name**: ぴよこれいと
 -   **start-date**: 2012-03-19

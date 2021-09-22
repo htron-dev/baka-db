@@ -1,5 +1,7 @@
 # Kaze no Galdor
 
+![kaze-no-galdor](https://cdn.myanimelist.net/images/manga/4/41681.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

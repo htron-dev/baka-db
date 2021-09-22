@@ -1,5 +1,7 @@
 # Hitomi no Catoblepas
 
+![hitomi-no-catoblepas](https://cdn.myanimelist.net/images/manga/1/20297.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

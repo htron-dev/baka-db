@@ -1,5 +1,7 @@
 # Omae wo Otaku ni Shiteyaru kara, Ore wo Riajuu ni Shitekure!: Azuki End
 
+![omae-wo-otaku-ni-shiteyaru-kara-ore-wo-riajuu-ni-shitekure-azuki-end](https://cdn.myanimelist.net/images/manga/3/171922.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Madou no Keifu
 
+![madou-no-keifu](https://cdn.myanimelist.net/images/manga/2/226391.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔導の系譜
 -   **start-date**: 2019-09-25

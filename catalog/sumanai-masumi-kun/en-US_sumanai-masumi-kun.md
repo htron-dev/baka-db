@@ -1,5 +1,7 @@
 # Sumanai!! Masumi-kun
 
+![sumanai-masumi-kun](https://cdn.myanimelist.net/images/manga/1/16098.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

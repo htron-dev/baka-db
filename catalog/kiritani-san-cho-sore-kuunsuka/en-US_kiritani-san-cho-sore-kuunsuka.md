@@ -1,5 +1,7 @@
 # Kiritani-san Cho! Sore Kuunsuka!?
 
+![kiritani-san-cho-sore-kuunsuka](https://cdn.myanimelist.net/images/manga/2/202751.jpg)
+
 -   **type**: manga
 -   **original-name**: 桐谷さん ちょっそれ食うんすか!?
 -   **start-date**: 2015-12-25

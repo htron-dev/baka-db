@@ -1,5 +1,7 @@
 # Nepenthes
 
+![nepenthes](https://cdn.myanimelist.net/images/manga/1/162295.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

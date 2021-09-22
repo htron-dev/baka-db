@@ -1,5 +1,7 @@
 # Agigongryong Doolie (Movie)
 
+![agigongryong-doolie-movie](https://cdn.myanimelist.net/images/anime/7/44674.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 아기공룡 둘리

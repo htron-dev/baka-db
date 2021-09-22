@@ -1,5 +1,7 @@
 # Fuuhyou Hakai Tenshi Lovely Curie
 
+![fuuhyou-hakai-tenshi-lovely-curie](https://cdn.myanimelist.net/images/manga/1/95509.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

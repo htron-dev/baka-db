@@ -1,5 +1,7 @@
 # Shuten Douji
 
+![shuten-douji](https://cdn.myanimelist.net/images/anime/9/18492.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 手天童子
@@ -29,4 +31,4 @@ As a baby Jiro was delivered to his foster parents by a massive oni, who said he
 -   [My Anime list](https://myanimelist.net/anime/1227/Shuten_Douji)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1586)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=732)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Shutendoji_(manga)#OVAs>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Shutendoji_%28manga%29#OVAs)

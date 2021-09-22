@@ -1,5 +1,7 @@
 # Mahou Shoujo Pretty☆Bell
 
+![mahou-shoujo-pretty☆-bell](https://cdn.myanimelist.net/images/manga/1/149852.jpg)
+
 -   **type**: manga
 -   **volumes**: 28
 -   **chapters**: 112

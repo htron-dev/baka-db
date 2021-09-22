@@ -1,5 +1,7 @@
 # Tobaku Datenroku Kaiji: 24-oku Dasshutsu-hen
 
+![tobaku-datenroku-kaiji-24-oku-dasshutsu-hen](https://cdn.myanimelist.net/images/manga/1/210356.jpg)
+
 -   **type**: manga
 -   **original-name**: 賭博堕天録カイジ 24 億脱出編
 -   **start-date**: 2017-08-28

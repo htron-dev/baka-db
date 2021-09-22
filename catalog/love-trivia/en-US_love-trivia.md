@@ -1,5 +1,7 @@
 # Love Trivia
 
+![love-trivia](https://cdn.myanimelist.net/images/manga/1/2661.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 

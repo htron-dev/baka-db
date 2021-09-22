@@ -1,5 +1,7 @@
 # Bazar dé Gozarre
 
+![bazar-de-gozarre](https://cdn.myanimelist.net/images/anime/3/70579.jpg)
+
 -   **type**: special
 -   **episodes**: 33
 -   **original-name**: バザールでござーる

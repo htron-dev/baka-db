@@ -1,5 +1,7 @@
 # Angel Koukou
 
+![angel-koukou](https://cdn.myanimelist.net/images/manga/3/178654.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

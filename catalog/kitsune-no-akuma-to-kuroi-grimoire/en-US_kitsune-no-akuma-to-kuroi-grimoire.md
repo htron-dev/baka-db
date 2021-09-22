@@ -1,5 +1,7 @@
 # Kitsune no Akuma to Kuroi Grimoire
 
+![kitsune-no-akuma-to-kuroi-grimoire](https://cdn.myanimelist.net/images/manga/3/100499.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

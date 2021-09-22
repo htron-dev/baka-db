@@ -1,5 +1,7 @@
 # Ouji-ka!: Sumeragi Mikado no Karei naru Hibi
 
+![ouji-ka-sumeragi-mikado-no-karei-naru-hibi](https://cdn.myanimelist.net/images/manga/3/225389.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

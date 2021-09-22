@@ -1,5 +1,7 @@
 # Pygmalion
 
+![pygmalion](https://cdn.myanimelist.net/images/manga/3/175855.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

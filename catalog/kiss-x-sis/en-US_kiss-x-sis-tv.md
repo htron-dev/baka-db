@@ -1,5 +1,7 @@
 # Kiss x Sis (TV)
 
+![kiss-x-sis-tv](https://cdn.myanimelist.net/images/anime/3/25518.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: キスシス

@@ -1,5 +1,7 @@
 # Silent Blood
 
+![silent-blood](https://cdn.myanimelist.net/images/manga/3/21594.jpg)
+
 -   **type**: manga
 -   **original-name**: サイレント・ブラッド
 

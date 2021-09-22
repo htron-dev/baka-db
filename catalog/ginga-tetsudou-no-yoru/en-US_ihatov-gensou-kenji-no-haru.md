@@ -1,5 +1,7 @@
 # Ihatov Gensou: Kenji no Haru
 
+![ihatov-gensou-kenji-no-haru](https://cdn.myanimelist.net/images/anime/5/57331.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: イーハトーブ幻想 Kenji の春

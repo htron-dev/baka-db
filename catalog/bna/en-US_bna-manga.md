@@ -1,5 +1,7 @@
 # BNA
 
+![bna](https://cdn.myanimelist.net/images/manga/3/235649.jpg)
+
 -   **type**: manga
 -   **original-name**: BNA ビー・エヌ・エー
 -   **start-date**: 2020-05-29

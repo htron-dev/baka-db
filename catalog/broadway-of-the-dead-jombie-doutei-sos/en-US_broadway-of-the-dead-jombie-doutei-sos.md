@@ -1,5 +1,7 @@
 # Broadway of the Dead Jombie: Doutei SOS
 
+![broadway-of-the-dead-jombie-doutei-sos](https://cdn.myanimelist.net/images/manga/1/191175.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 30

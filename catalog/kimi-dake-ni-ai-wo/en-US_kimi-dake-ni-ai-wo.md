@@ -1,5 +1,7 @@
 # Kimi dake ni Ai wo.
 
+![kimi-dake-ni-ai-wo](https://cdn.myanimelist.net/images/manga/1/85575.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

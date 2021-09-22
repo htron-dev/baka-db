@@ -1,5 +1,7 @@
 # Kanbayashi &amp; Kirika series
 
+![kanbayashi-amp-kirika-series](https://cdn.myanimelist.net/images/manga/1/55289.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 73

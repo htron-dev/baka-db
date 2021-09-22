@@ -1,5 +1,7 @@
 # Ressentiment
 
+![ressentiment](https://cdn.myanimelist.net/images/manga/2/52573.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 49

@@ -1,5 +1,7 @@
 # Soukai Kessen
 
+![soukai-kessen](https://cdn.myanimelist.net/images/manga/1/198265.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 59

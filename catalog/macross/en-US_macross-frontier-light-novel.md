@@ -1,5 +1,7 @@
 # Macross Frontier
 
+![macross-frontier](https://cdn.myanimelist.net/images/manga/2/166830.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: マクロスフロンティア

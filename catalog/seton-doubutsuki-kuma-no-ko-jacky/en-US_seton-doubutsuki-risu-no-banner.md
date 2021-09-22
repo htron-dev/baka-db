@@ -1,5 +1,7 @@
 # Seton Doubutsuki: Risu no Banner
 
+![seton-doubutsuki-risu-no-banner](https://cdn.myanimelist.net/images/anime/11/78448.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: シートン動物記　りすのバナ
@@ -25,4 +27,4 @@ Soon after birth a young squirrel comesc to a farm, and gets caught by a human. 
 -   [Official Site](http://www.nippon-animation.co.jp/work/seton_risuno_banner.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2383)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2068)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Bannertail:_The_Story_of_Gray_Squirrel_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Bannertail:_The_Story_of_Gray_Squirrel_%28anime%29)

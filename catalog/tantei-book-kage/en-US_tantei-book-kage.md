@@ -1,5 +1,7 @@
 # Tantei Book: Kage
 
+![tantei-book-kage](https://cdn.myanimelist.net/images/manga/3/158232.jpg)
+
 -   **type**: manga
 -   **volumes**: 119
 -   **original-name**: 探偵ブック 影

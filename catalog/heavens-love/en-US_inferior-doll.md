@@ -1,5 +1,7 @@
 # Inferior Doll
 
+![inferior-doll](https://cdn.myanimelist.net/images/manga/1/175591.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

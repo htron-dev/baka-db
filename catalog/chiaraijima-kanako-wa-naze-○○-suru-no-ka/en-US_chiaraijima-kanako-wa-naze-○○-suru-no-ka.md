@@ -1,5 +1,7 @@
 # Chiaraijima Kanako wa Naze ○○ Suru no ka?
 
+![chiaraijima-kanako-wa-naze-○○-suru-no-ka](https://cdn.myanimelist.net/images/manga/1/239594.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 26

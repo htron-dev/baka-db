@@ -1,5 +1,7 @@
 # Ushiro no Seki no Ochiai-kun
 
+![ushiro-no-seki-no-ochiai-kun](https://cdn.myanimelist.net/images/anime/2/67467.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: うしろのせきのオチアイくん

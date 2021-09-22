@@ -1,5 +1,7 @@
 # Valkyrja Engine
 
+![valkyrja-engine](https://cdn.myanimelist.net/images/manga/3/161987.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

@@ -1,5 +1,7 @@
 # Jitsu wa Watashi wa
 
+![jitsu-wa-watashi-wa](https://cdn.myanimelist.net/images/anime/8/74042.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 実は私は

@@ -1,5 +1,7 @@
 # Noble Children no Zankoku
 
+![noble-children-no-zankoku](https://cdn.myanimelist.net/images/manga/3/88807.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ノーブルチルドレンの残酷

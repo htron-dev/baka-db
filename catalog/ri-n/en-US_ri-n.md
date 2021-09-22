@@ -1,5 +1,7 @@
 # RiN
 
+![ri-n](https://cdn.myanimelist.net/images/manga/2/96889.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 43

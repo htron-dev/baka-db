@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Kindan no Shirayukihime
 
+![manga-grimm-douwa-kindan-no-shirayukihime](https://cdn.myanimelist.net/images/manga/2/137379.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

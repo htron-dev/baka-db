@@ -1,5 +1,7 @@
 # Kaidan to Odorou, Soshite Anata wa Kaidan de Odoru
 
+![kaidan-to-odorou-soshite-anata-wa-kaidan-de-odoru](https://cdn.myanimelist.net/images/manga/1/96271.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

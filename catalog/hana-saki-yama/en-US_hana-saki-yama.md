@@ -1,5 +1,7 @@
 # Hana Saki Yama
 
+![hana-saki-yama](https://cdn.myanimelist.net/images/anime/9/82358.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 花さき山

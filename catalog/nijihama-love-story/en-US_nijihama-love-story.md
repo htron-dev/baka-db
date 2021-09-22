@@ -1,5 +1,7 @@
 # Nijihama Love Story
 
+![nijihama-love-story](https://cdn.myanimelist.net/images/manga/2/174572.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 36

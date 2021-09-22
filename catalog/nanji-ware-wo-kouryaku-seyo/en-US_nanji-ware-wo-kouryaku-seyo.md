@@ -1,5 +1,7 @@
 # Nanji, Ware wo Kouryaku seyo
 
+![nanji-ware-wo-kouryaku-seyo](https://cdn.myanimelist.net/images/manga/1/245468.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

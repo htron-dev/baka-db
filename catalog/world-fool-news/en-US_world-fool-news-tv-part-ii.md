@@ -1,5 +1,7 @@
 # World Fool News (TV) Part II
 
+![world-fool-news-tv-part-ii](https://cdn.myanimelist.net/images/anime/4/85654.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ワールドフールニュース PartⅡ

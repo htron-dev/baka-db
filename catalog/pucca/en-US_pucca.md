@@ -1,5 +1,7 @@
 # Pucca
 
+![pucca](https://cdn.myanimelist.net/images/anime/3/15145.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 짜장소녀 뿌까
@@ -24,4 +26,4 @@ Pucca is the young daughter of a Chinese noodle house owner and she is hopelessl
 -   [My Anime list](https://myanimelist.net/anime/6609/Pucca)
 -   [Official Site](http://www.puccaclub.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5257)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Pucca_(TV_series)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Pucca_%28TV_series%29)

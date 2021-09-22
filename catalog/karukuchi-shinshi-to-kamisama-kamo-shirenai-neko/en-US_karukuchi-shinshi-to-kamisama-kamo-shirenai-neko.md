@@ -1,5 +1,7 @@
 # Karukuchi Shinshi to, Kamisama kamo Shirenai Neko
 
+![karukuchi-shinshi-to-kamisama-kamo-shirenai-neko](https://cdn.myanimelist.net/images/manga/2/164124.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 軽口紳士と、カミサマかもしれない猫

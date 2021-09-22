@@ -1,5 +1,7 @@
 # Dear my Doll -~Kimi to no Yakusoku~
 
+![dear-my-doll-kimi-to-no-yakusoku](https://cdn.myanimelist.net/images/manga/3/14293.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

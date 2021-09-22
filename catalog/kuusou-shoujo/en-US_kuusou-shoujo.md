@@ -1,5 +1,7 @@
 # Kuusou Shoujo
 
+![kuusou-shoujo](https://cdn.myanimelist.net/images/manga/2/153921.jpg)
+
 -   **type**: manga
 -   **original-name**: 空想少女
 -   **start-date**: 2013-09-17

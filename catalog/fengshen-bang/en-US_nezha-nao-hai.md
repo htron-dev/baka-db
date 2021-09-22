@@ -1,5 +1,7 @@
 # Nezha Nao Hai
 
+![nezha-nao-hai](https://cdn.myanimelist.net/images/anime/6/24232.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 哪吒鬧海

@@ -1,5 +1,7 @@
 # 7th Garden
 
+![7th-garden](https://cdn.myanimelist.net/images/manga/3/154271.jpg)
+
 -   **type**: manga
 -   **original-name**: 7thGARDEN
 -   **start-date**: 2014-08-04

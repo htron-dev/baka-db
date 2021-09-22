@@ -1,5 +1,7 @@
 # Kara no Kyoukai Movie: Mirai Fukuin - Manner Movie
 
+![kara-no-kyoukai-movie-mirai-fukuin-manner-movie](https://cdn.myanimelist.net/images/anime/8/59323.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 空の境界 未来福音 劇場用マナー CM

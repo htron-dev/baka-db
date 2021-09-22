@@ -1,5 +1,7 @@
 # Eden's End Explorer
 
+![edens-end-explorer](https://cdn.myanimelist.net/images/manga/1/164224.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Do It Yourself!!
 
+![do-it-yourself](https://cdn.myanimelist.net/images/anime/1289/113674.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: Do It Yourself!! -どぅー・いっと・ゆあせるふ-
 -   **rating**: None

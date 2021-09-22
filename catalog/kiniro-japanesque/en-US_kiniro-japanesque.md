@@ -1,5 +1,7 @@
 # Kiniro Japanesque
 
+![kiniro-japanesque](https://cdn.myanimelist.net/images/manga/2/226852.jpg)
+
 -   **type**: manga
 -   **original-name**: 金色ジャパネスク
 -   **start-date**: 2018-10-24

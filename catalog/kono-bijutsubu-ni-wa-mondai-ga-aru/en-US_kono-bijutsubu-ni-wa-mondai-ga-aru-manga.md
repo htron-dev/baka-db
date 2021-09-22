@@ -1,5 +1,7 @@
 # Kono Bijutsubu ni wa Mondai ga Aru!
 
+![kono-bijutsubu-ni-wa-mondai-ga-aru](https://cdn.myanimelist.net/images/manga/2/166160.jpg)
+
 -   **type**: manga
 -   **original-name**: この美術部には問題がある!
 -   **start-date**: 2012-10-27

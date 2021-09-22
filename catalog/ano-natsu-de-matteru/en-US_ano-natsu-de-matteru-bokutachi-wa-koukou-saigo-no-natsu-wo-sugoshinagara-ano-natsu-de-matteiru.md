@@ -1,5 +1,7 @@
 # Ano Natsu de Matteru: Bokutachi wa Koukou Saigo no Natsu wo Sugoshinagara, Ano Natsu de Matteiru.
 
+![ano-natsu-de-matteru-bokutachi-wa-koukou-saigo-no-natsu-wo-sugoshinagara-ano-natsu-de-matteiru](https://cdn.myanimelist.net/images/anime/13/63493.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: あの夏で待ってる 特別編「僕達は高校最後の夏を過ごしながら、 あの夏を待っている。」

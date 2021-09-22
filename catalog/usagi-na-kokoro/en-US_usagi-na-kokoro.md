@@ -1,5 +1,7 @@
 # Usagi na Kokoro
 
+![usagi-na-kokoro](https://cdn.myanimelist.net/images/manga/3/7514.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: うさぎのこころ

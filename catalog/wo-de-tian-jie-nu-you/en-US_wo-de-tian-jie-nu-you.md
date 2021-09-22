@@ -1,5 +1,7 @@
 # Wo de Tian Jie Nu You
 
+![wo-de-tian-jie-nu-you](https://cdn.myanimelist.net/images/anime/11/88003.jpg)
+
 -   **type**: ona
 -   **episodes**: 15
 -   **original-name**: 我的天劫女友

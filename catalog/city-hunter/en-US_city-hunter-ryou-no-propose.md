@@ -1,5 +1,7 @@
 # City Hunter: Ryou no Propose
 
+![city-hunter-ryou-no-propose](https://cdn.myanimelist.net/images/anime/10/74209.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: シティーハンター 新作アニメ「りょうのプロポーズ」

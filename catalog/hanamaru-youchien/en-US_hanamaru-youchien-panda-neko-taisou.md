@@ -1,5 +1,7 @@
 # Hanamaru Youchien: Panda Neko Taisou
 
+![hanamaru-youchien-panda-neko-taisou](https://cdn.myanimelist.net/images/anime/11/44862.jpg)
+
 -   **type**: special
 -   **episodes**: 8
 -   **original-name**: はなまる幼稚園 ぱんだねこ体操
@@ -10,7 +12,6 @@
 ## Tags
 
 -   comedy
-
 -   music
 
 ## Sinopse

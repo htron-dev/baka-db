@@ -1,5 +1,7 @@
 # Gunka no Hibiki
 
+![gunka-no-hibiki](https://cdn.myanimelist.net/images/manga/1/131961.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

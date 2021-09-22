@@ -1,5 +1,7 @@
 # School Days
 
+![school-days](https://cdn.myanimelist.net/images/anime/8/86373.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: スクールデイズ

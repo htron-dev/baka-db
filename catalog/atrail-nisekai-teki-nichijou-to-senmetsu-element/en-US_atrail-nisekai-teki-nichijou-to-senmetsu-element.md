@@ -1,5 +1,7 @@
 # Ātrail: Nisekai-teki Nichijou to Senmetsu Element
 
+![atrail-nisekai-teki-nichijou-to-senmetsu-element](https://cdn.myanimelist.net/images/manga/2/171981.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 35

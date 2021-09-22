@@ -1,5 +1,7 @@
 # Tono to Issho 1.5
 
+![tono-to-issho-1-5](https://cdn.myanimelist.net/images/anime/10/27152.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 殿といっしょ アニメ DVD1.5 巻

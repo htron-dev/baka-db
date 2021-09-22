@@ -1,5 +1,7 @@
 # Kill la Kill Specials
 
+![kill-la-kill-specials](https://cdn.myanimelist.net/images/anime/12/73654.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: キルラキル 特別編

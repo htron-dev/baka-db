@@ -1,5 +1,7 @@
 # Cop Craft: Utsukushiki Onna Kishi! Toraware no Yousei wo Oe!
 
+![cop-craft-utsukushiki-onna-kishi-toraware-no-yousei-wo-oe](https://cdn.myanimelist.net/images/anime/1815/103061.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: コップクラフト 特別編: 美しき女騎士! とらわれの妖精を追え!

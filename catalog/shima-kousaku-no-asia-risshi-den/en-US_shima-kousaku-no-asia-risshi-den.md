@@ -1,5 +1,7 @@
 # Shima Kousaku no Asia Risshi-den
 
+![shima-kousaku-no-asia-risshi-den](https://cdn.myanimelist.net/images/anime/13/80670.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 島耕作のアジア立志伝

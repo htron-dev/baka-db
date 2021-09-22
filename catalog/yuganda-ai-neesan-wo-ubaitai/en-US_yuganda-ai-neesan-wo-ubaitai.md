@@ -1,5 +1,7 @@
 # Yuganda Ai: Neesan wo Ubaitai
 
+![yuganda-ai-neesan-wo-ubaitai](https://cdn.myanimelist.net/images/manga/1/193556.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

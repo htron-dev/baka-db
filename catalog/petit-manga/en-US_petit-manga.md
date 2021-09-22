@@ -1,5 +1,7 @@
 # Petit Manga
 
+![petit-manga](https://cdn.myanimelist.net/images/anime/13/72932.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: プチ漫画

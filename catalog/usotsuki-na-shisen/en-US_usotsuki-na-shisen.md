@@ -1,5 +1,7 @@
 # Usotsuki na Shisen
 
+![usotsuki-na-shisen](https://cdn.myanimelist.net/images/manga/3/42653.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

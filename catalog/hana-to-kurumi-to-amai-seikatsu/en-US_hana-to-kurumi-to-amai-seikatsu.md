@@ -1,5 +1,7 @@
 # Hana to Kurumi to Amai Seikatsu
 
+![hana-to-kurumi-to-amai-seikatsu](https://cdn.myanimelist.net/images/manga/1/179463.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

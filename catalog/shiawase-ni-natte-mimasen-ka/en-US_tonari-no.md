@@ -1,5 +1,7 @@
 # Tonari no
 
+![tonari-no](https://cdn.myanimelist.net/images/manga/2/64315.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

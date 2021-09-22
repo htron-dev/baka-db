@@ -1,5 +1,7 @@
 # Azur Lane Comic Anthology
 
+![azur-lane-comic-anthology](https://cdn.myanimelist.net/images/manga/1/235438.jpg)
+
 -   **type**: manga
 -   **original-name**: アズールレーン コミックアンソロジー
 -   **start-date**: 2018-01-31

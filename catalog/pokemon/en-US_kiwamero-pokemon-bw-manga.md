@@ -1,5 +1,7 @@
 # Kiwamero!! Pokémon BW
 
+![kiwamero-pokemon-bw](https://cdn.myanimelist.net/images/manga/2/135973.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

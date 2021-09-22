@@ -1,5 +1,7 @@
 # Love Spiral
 
+![love-spiral](https://cdn.myanimelist.net/images/manga/2/16129.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋愛スパイラル

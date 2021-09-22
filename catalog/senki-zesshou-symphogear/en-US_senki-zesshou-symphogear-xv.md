@@ -1,5 +1,7 @@
 # Senki Zesshou Symphogear XV
 
+![senki-zesshou-symphogear-xv](https://cdn.myanimelist.net/images/anime/1899/101966.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 戦姫絶唱シンフォギア XV

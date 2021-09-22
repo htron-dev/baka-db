@@ -1,5 +1,7 @@
 # Maria-sama ga Miteru 3rd Specials
 
+![maria-sama-ga-miteru-3rd-specials](https://cdn.myanimelist.net/images/anime/13/44396.jpg)
+
 -   **type**: special
 -   **episodes**: 5
 -   **original-name**: マリア様にはないしょ。

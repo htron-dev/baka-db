@@ -1,5 +1,7 @@
 # Edomae Elf
 
+![edomae-elf](https://cdn.myanimelist.net/images/manga/1/233392.jpg)
+
 -   **type**: manga
 -   **original-name**: 江戸前エルフ
 -   **start-date**: 2019-06-17

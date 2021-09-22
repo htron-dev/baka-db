@@ -1,5 +1,7 @@
 # Midori no Hibi
 
+![midori-no-hibi](https://cdn.myanimelist.net/images/anime/13/56961.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 美鳥の日々

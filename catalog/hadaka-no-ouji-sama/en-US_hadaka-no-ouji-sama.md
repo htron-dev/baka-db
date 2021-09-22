@@ -1,5 +1,7 @@
 # Hadaka no Ouji-sama
 
+![hadaka-no-ouji-sama](https://cdn.myanimelist.net/images/manga/2/10309.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: はだかの王子さま

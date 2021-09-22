@@ -1,5 +1,7 @@
 # Musebinake, Junjou
 
+![musebinake-junjou](https://cdn.myanimelist.net/images/manga/2/223961.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Vampire Hunter D
 
+![vampire-hunter-d](https://cdn.myanimelist.net/images/manga/2/154077.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 吸血鬼ハンター D; バンパイアハンター D;
 

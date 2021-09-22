@@ -1,5 +1,7 @@
 # Gekijouban Pocket Monsters: Minna no Monogatari Gaiden - Episode Zeraora
 
+![gekijouban-pocket-monsters-minna-no-monogatari-gaiden-episode-zeraora](https://cdn.myanimelist.net/images/manga/2/234138.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

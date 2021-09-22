@@ -1,5 +1,7 @@
 # Akuyaku Reijou? Iie, Gokuaku Reijou desu wa
 
+![akuyaku-reijou-iie-gokuaku-reijou-desu-wa](https://cdn.myanimelist.net/images/manga/2/238870.jpg)
+
 -   **type**: manga
 -   **original-name**: 悪役令嬢？ いいえ、極悪令嬢ですわ
 -   **start-date**: 2019-08-30

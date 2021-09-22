@@ -1,5 +1,7 @@
 # Kochira Katsushikaku Kameari Kouenmae Hashutsujo The Movie 2: UFO Shuurai! Tornado Daisakusen
 
+![kochira-katsushikaku-kameari-kouenmae-hashutsujo-the-movie-2-ufo-shuurai-tornado-daisakusen](https://cdn.myanimelist.net/images/anime/12/5943.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: こちら葛飾区亀有公園前派出所　ＴＨＥ　ＭＯＶＩＥ２　ＵＦＯ襲来！トルネード大作戦！！

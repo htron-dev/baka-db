@@ -1,5 +1,7 @@
 # Pokemon Fushigi no Dungeon: Sora no Tankentai - Toki to Yami wo Meguru Saigo no Bouken
 
+![pokemon-fushigi-no-dungeon-sora-no-tankentai-toki-to-yami-wo-meguru-saigo-no-bouken](https://cdn.myanimelist.net/images/anime/4/14003.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ポケモン不思議のダンジョン 空の探検隊～時と闇をめぐる最後の冒険～

@@ -1,5 +1,7 @@
 # Color Engineering
 
+![color-engineering](https://cdn.myanimelist.net/images/manga/3/80291.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 

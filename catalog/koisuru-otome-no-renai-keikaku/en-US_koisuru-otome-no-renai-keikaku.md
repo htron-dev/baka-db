@@ -1,5 +1,7 @@
 # Koisuru Otome no Renai Keikaku
 
+![koisuru-otome-no-renai-keikaku](https://cdn.myanimelist.net/images/manga/3/73649.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋する乙女の恋愛計画

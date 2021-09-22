@@ -1,5 +1,7 @@
 # Mobile Suit Gundam SEED
 
+![mobile-suit-gundam-seed](https://cdn.myanimelist.net/images/manga/2/4382.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: 機動戦士ガンダム・シード

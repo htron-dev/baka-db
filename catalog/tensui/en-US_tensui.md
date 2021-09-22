@@ -1,5 +1,7 @@
 # Tensui
 
+![tensui](https://cdn.myanimelist.net/images/manga/2/164293.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 30

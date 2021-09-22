@@ -1,5 +1,7 @@
 # Gouin Onzoushi no Koimitsu Lesson
 
+![gouin-onzoushi-no-koimitsu-lesson](https://cdn.myanimelist.net/images/manga/2/194895.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

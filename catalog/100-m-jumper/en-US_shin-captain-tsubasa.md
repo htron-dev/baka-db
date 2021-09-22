@@ -1,5 +1,7 @@
 # Shin Captain Tsubasa
 
+![shin-captain-tsubasa](https://cdn.myanimelist.net/images/anime/1/2245.jpg)
+
 -   **type**: ova
 -   **episodes**: 13
 -   **original-name**: 新・キャプテン翼

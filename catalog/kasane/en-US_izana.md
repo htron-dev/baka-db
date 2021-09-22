@@ -1,5 +1,7 @@
 # Izana
 
+![izana](https://cdn.myanimelist.net/images/manga/3/190603.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

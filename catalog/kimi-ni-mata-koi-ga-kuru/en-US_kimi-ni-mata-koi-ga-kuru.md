@@ -1,5 +1,7 @@
 # Kimi ni Mata Koi ga Kuru
 
+![kimi-ni-mata-koi-ga-kuru](https://cdn.myanimelist.net/images/manga/2/42677.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

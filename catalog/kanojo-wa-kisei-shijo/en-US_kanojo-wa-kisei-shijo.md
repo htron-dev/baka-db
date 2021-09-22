@@ -1,5 +1,7 @@
 # Kanojo wa Kisei Shijo
 
+![kanojo-wa-kisei-shijo](https://cdn.myanimelist.net/images/manga/1/164642.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 彼女は帰星子女

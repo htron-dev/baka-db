@@ -1,5 +1,7 @@
 # Astro Boy: Tetsuwan Atom - Getsumen Kichi - Kieta Robot no Nazo
 
+![astro-boy-tetsuwan-atom-getsumen-kichi-kieta-robot-no-nazo](https://cdn.myanimelist.net/images/anime/1370/99382.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ASTRO BOY 鉄腕アトム〜月面基地・消えたロボットの謎〜

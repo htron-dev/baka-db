@@ -1,5 +1,7 @@
 # Toaru Kagaku no Railgun S: Daiji na Koto wa Zenbu Sentou ni Osowatta
 
+![toaru-kagaku-no-railgun-s-daiji-na-koto-wa-zenbu-sentou-ni-osowatta](https://cdn.myanimelist.net/images/anime/2/76119.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: とある科学の超電磁砲 S 大事なことはぜんぶ銭湯に教わった

@@ -1,5 +1,7 @@
 # Ozmafia!!
 
+![ozmafia](https://cdn.myanimelist.net/images/anime/9/80549.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: オズマフィア

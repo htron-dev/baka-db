@@ -1,5 +1,7 @@
 # Uchouten Kazoku
 
+![uchouten-kazoku](https://cdn.myanimelist.net/images/anime/3/85433.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 有頂天家族

@@ -1,5 +1,7 @@
 # Hanayaka Nari, Waga Ichizoku: Kinetograph
 
+![hanayaka-nari-waga-ichizoku-kinetograph](https://cdn.myanimelist.net/images/anime/2/45356.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 華ヤカ哉, 我ガ一族 キネトグラフ

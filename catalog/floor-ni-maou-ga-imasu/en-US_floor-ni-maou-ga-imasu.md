@@ -1,5 +1,7 @@
 # Floor ni Maou ga Imasu
 
+![floor-ni-maou-ga-imasu](https://cdn.myanimelist.net/images/manga/2/188783.jpg)
+
 -   **type**: manga
 -   **original-name**: フロアに魔王がいます
 -   **start-date**: 2014-10-27

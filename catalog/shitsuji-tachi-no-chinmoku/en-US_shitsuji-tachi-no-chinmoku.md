@@ -1,5 +1,7 @@
 # Shitsuji-tachi no Chinmoku
 
+![shitsuji-tachi-no-chinmoku](https://cdn.myanimelist.net/images/manga/3/190021.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 60

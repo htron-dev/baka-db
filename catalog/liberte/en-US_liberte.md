@@ -1,5 +1,7 @@
 # Liberté
 
+![liberte](https://cdn.myanimelist.net/images/manga/1/145179.jpg)
+
 -   **type**: manhwa
 -   **original-name**: Liberté 리베르떼
 -   **start-date**: 2014-10-25

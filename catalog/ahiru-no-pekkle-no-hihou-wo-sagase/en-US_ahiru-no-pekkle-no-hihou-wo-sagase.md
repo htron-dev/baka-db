@@ -1,5 +1,7 @@
 # Ahiru no Pekkle no Hihou wo Sagase
 
+![ahiru-no-pekkle-no-hihou-wo-sagase](https://cdn.myanimelist.net/images/anime/6/58961.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アヒルのペックルの秘宝を探せ

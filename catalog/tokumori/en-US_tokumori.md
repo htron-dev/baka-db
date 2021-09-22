@@ -1,5 +1,7 @@
 # Tokumori
 
+![tokumori](https://cdn.myanimelist.net/images/manga/1/36110.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: とくもり

@@ -1,5 +1,7 @@
 # Toshishita Waru no Iinari Omocha
 
+![toshishita-waru-no-iinari-omocha](https://cdn.myanimelist.net/images/manga/1/193481.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 16

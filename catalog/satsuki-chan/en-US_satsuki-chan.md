@@ -1,5 +1,7 @@
 # Satsuki-chan
 
+![satsuki-chan](https://cdn.myanimelist.net/images/manga/2/222852.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 26

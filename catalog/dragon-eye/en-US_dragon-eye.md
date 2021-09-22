@@ -1,5 +1,7 @@
 # Dragon Eye
 
+![dragon-eye](https://cdn.myanimelist.net/images/manga/2/176196.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 31

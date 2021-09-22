@@ -1,5 +1,7 @@
 # Fune wo Amu: Yokoku
 
+![fune-wo-amu-yokoku](https://cdn.myanimelist.net/images/anime/1057/101681.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 「舟を編む」予告
@@ -21,4 +23,4 @@ Chibi-style next episode previews for Fune wo Amu that were originally posted on
 -   [Official Site](http://news.noitamina.tv/funewoamu/story/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11997)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18698)
--   [Wikipedia](<https://en.wikipedia.org/wiki/The_Great_Passage_(TV_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/The_Great_Passage_%28TV_series%29)

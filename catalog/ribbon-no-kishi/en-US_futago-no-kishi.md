@@ -1,5 +1,7 @@
 # Futago no Kishi
 
+![futago-no-kishi](https://cdn.myanimelist.net/images/manga/1/36133.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

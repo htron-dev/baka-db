@@ -1,5 +1,7 @@
 # Owari no Seraph: Kyuuketsuki Mikaela no Monogatari
 
+![owari-no-seraph-kyuuketsuki-mikaela-no-monogatari](https://cdn.myanimelist.net/images/manga/1/168724.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Narara! Ujujeonham Geobukseon
 
+![narara-ujujeonham-geobukseon](https://cdn.myanimelist.net/images/anime/8/45058.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 날아라 우주전함 거북선

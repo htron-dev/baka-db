@@ -1,5 +1,7 @@
 # Norasco (TV)
 
+![norasco-tv](https://cdn.myanimelist.net/images/anime/7/74585.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 43
 -   **original-name**: 野良スコ

@@ -1,5 +1,7 @@
 # Gin no Toge
 
+![gin-no-toge](https://cdn.myanimelist.net/images/manga/1/164817.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 22

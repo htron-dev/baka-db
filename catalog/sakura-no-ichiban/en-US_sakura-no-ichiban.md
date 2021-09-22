@@ -1,5 +1,7 @@
 # Sakura no Ichiban!
 
+![sakura-no-ichiban](https://cdn.myanimelist.net/images/manga/4/32274.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

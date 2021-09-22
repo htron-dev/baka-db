@@ -1,5 +1,7 @@
 # D no Maou
 
+![d-no-maou](https://cdn.myanimelist.net/images/manga/2/161988.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

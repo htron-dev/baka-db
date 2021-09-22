@@ -1,5 +1,7 @@
 # Pokemon Movie 07: Rekkuu no Houmonsha Deoxys
 
+![pokemon-movie-07-rekkuu-no-houmonsha-deoxys](https://cdn.myanimelist.net/images/anime/9/21313.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ポケットモンスター アドバンスジェネレーション 裂空の訪問者 デオキシス
@@ -13,7 +15,6 @@
 -   sci-fi
 -   adventure
 -   comedy
-
 -   fantasy
 
 ## Sinopse

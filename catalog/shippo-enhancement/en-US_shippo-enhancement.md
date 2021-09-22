@@ -1,5 +1,7 @@
 # Shippo! Enhancement
 
+![shippo-enhancement](https://cdn.myanimelist.net/images/manga/3/151964.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

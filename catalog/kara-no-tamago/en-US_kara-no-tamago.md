@@ -1,5 +1,7 @@
 # Kara no Tamago
 
+![kara-no-tamago](https://cdn.myanimelist.net/images/anime/1387/97552.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 空の卵

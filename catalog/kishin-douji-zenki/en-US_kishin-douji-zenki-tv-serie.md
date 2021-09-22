@@ -1,5 +1,7 @@
 # Kishin Douji Zenki
 
+![kishin-douji-zenki](https://cdn.myanimelist.net/images/anime/1225/92572.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: 鬼神童子 ZENKI

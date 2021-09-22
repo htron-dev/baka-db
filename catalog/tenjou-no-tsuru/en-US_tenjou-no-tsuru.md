@@ -1,5 +1,7 @@
 # Tenjou no Tsuru
 
+![tenjou-no-tsuru](https://cdn.myanimelist.net/images/manga/3/198671.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 87

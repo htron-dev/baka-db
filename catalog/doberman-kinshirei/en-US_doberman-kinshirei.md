@@ -1,5 +1,7 @@
 # Doberman Kinshirei!
 
+![doberman-kinshirei](https://cdn.myanimelist.net/images/manga/3/6643.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

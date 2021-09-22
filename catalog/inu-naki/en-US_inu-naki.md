@@ -1,5 +1,7 @@
 # Inu Naki
 
+![inu-naki](https://cdn.myanimelist.net/images/manga/2/195633.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

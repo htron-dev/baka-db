@@ -1,5 +1,7 @@
 # Hiken no Variant
 
+![hiken-no-variant](https://cdn.myanimelist.net/images/manga/2/162649.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 10

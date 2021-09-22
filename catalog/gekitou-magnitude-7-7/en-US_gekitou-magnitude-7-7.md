@@ -1,5 +1,7 @@
 # Gekitou Magnitude 7.7
 
+![gekitou-magnitude-7-7](https://cdn.myanimelist.net/images/manga/2/177203.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

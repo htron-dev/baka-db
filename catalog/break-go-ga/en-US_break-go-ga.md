@@ -1,5 +1,7 @@
 # Break Go!Ga!
 
+![break-go-ga](https://cdn.myanimelist.net/images/anime/12/89474.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ブレイク轟牙

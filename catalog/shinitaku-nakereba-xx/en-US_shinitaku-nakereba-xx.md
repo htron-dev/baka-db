@@ -1,5 +1,7 @@
 # Shinitaku Nakereba XX!
 
+![shinitaku-nakereba-xx](https://cdn.myanimelist.net/images/manga/3/125621.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 死にたくなければ ××！

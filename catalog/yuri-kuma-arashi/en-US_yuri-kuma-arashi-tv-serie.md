@@ -1,5 +1,7 @@
 # Yuri Kuma Arashi
 
+![yuri-kuma-arashi](https://cdn.myanimelist.net/images/anime/3/69203.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ユリ熊嵐

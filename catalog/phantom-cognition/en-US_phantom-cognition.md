@@ -1,5 +1,7 @@
 # Phantom Cognition
 
+![phantom-cognition](https://cdn.myanimelist.net/images/manga/2/21366.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: ファントムコグニション

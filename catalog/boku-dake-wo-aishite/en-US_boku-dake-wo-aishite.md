@@ -1,5 +1,7 @@
 # Boku dake wo Aishite
 
+![boku-dake-wo-aishite](https://cdn.myanimelist.net/images/manga/2/247156.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 僕だけを愛して

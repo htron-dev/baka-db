@@ -1,5 +1,7 @@
 # Unmei no Aite desu ga, Nani ka?
 
+![unmei-no-aite-desu-ga-nani-ka](https://cdn.myanimelist.net/images/manga/3/34864.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

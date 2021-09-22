@@ -1,5 +1,7 @@
 # Lodoss-tou Densetsu
 
+![lodoss-tou-densetsu](https://cdn.myanimelist.net/images/manga/3/135813.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **original-name**: ロードス島伝説

@@ -1,5 +1,7 @@
 # Maria x Maria
 
+![maria-x-maria](https://cdn.myanimelist.net/images/manga/1/221328.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 41

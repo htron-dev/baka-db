@@ -1,5 +1,7 @@
 # Call of the Wind
 
+![call-of-the-wind](https://cdn.myanimelist.net/images/manga/1/3044.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

@@ -1,5 +1,7 @@
 # Halloween Tantei Oz Williams
 
+![halloween-tantei-oz-williams](https://cdn.myanimelist.net/images/manga/3/174651.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

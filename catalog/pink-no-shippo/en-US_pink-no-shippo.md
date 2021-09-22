@@ -1,5 +1,7 @@
 # Pink no Shippo
 
+![pink-no-shippo](https://cdn.myanimelist.net/images/manga/1/237282.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

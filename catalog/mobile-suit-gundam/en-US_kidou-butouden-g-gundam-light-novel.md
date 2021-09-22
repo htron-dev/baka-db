@@ -1,5 +1,7 @@
 # Kidou Butouden G Gundam
 
+![kidou-butouden-g-gundam](https://cdn.myanimelist.net/images/manga/3/161336.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 機動武闘伝 G ガンダム

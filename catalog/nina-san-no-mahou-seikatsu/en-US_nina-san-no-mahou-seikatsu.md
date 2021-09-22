@@ -1,5 +1,7 @@
 # Nina-san no Mahou Seikatsu
 
+![nina-san-no-mahou-seikatsu](https://cdn.myanimelist.net/images/manga/2/187400.jpg)
+
 -   **type**: manga
 -   **original-name**: ニーナさんの魔法生活
 -   **start-date**: 2016-01-27

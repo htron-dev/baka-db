@@ -1,5 +1,7 @@
 # Double Arts
 
+![double-arts](https://cdn.myanimelist.net/images/manga/2/149628.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

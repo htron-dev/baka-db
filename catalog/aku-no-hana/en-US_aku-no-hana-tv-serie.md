@@ -1,5 +1,7 @@
 # Aku no Hana
 
+![aku-no-hana](https://cdn.myanimelist.net/images/anime/8/50559.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 惡の華

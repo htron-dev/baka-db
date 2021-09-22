@@ -1,5 +1,7 @@
 # Ookii Kouhai wa Suki desu ka?
 
+![ookii-kouhai-wa-suki-desu-ka](https://cdn.myanimelist.net/images/manga/2/239372.jpg)
+
 -   **type**: manga
 -   **original-name**: おおきい後輩は好きですか？
 -   **start-date**: 2019-08-08

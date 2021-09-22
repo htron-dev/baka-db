@@ -1,5 +1,7 @@
 # Hero and Daughter: Lv1 kara Hajimeru Yuusha Dakkan Sakusen
 
+![hero-and-daughter-lv-1-kara-hajimeru-yuusha-dakkan-sakusen](https://cdn.myanimelist.net/images/manga/2/176542.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

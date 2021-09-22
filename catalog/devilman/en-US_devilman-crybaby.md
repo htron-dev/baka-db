@@ -1,5 +1,7 @@
 # Devilman: Crybaby
 
+![devilman-crybaby](https://cdn.myanimelist.net/images/anime/2/89973.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: DEVILMAN crybaby

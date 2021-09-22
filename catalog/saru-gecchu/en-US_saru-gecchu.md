@@ -1,5 +1,7 @@
 # Saru Gecchu
 
+![saru-gecchu](https://cdn.myanimelist.net/images/manga/1/43669.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: サルゲッチュ

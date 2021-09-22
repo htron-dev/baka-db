@@ -1,5 +1,7 @@
 # Bakuten!!
 
+![bakuten](https://cdn.myanimelist.net/images/manga/1/246370.jpg)
+
 -   **type**: manga
 -   **original-name**: バクテン!!
 -   **start-date**: 2021-01-22

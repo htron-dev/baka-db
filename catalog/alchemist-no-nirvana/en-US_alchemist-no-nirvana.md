@@ -1,5 +1,7 @@
 # Alchemist no Nirvana
 
+![alchemist-no-nirvana](https://cdn.myanimelist.net/images/manga/1/175991.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 40

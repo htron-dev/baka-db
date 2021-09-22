@@ -1,5 +1,7 @@
 # Kiddy GiRL-AND Pure
 
+![kiddy-gi-rl-and-pure](https://cdn.myanimelist.net/images/manga/1/35481.jpg)
+
 -   **type**: manga
 -   **original-name**: キディ・ガーランド ぴゅあ
 -   **start-date**: 2009-03-26

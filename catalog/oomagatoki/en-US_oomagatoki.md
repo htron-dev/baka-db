@@ -1,5 +1,7 @@
 # Oomagatoki
 
+![oomagatoki](https://cdn.myanimelist.net/images/manga/3/203476.jpg)
+
 -   **type**: manga
 -   **original-name**: オオマガトキ
 -   **start-date**: 2016-12-15

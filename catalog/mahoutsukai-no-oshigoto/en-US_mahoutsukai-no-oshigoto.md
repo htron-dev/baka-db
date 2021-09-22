@@ -1,5 +1,7 @@
 # Mahoutsukai no Oshigoto
 
+![mahoutsukai-no-oshigoto](https://cdn.myanimelist.net/images/manga/3/198860.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Mori no Animal Company
 
+![mori-no-animal-company](https://cdn.myanimelist.net/images/manga/3/34079.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

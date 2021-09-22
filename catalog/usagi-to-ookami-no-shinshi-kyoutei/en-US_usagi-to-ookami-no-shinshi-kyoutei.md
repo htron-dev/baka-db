@@ -1,5 +1,7 @@
 # Usagi to Ookami no Shinshi Kyoutei
 
+![usagi-to-ookami-no-shinshi-kyoutei](https://cdn.myanimelist.net/images/manga/2/9900.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

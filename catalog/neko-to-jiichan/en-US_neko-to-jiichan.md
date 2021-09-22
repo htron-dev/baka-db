@@ -1,5 +1,7 @@
 # Neko to Jiichan
 
+![neko-to-jiichan](https://cdn.myanimelist.net/images/manga/2/228437.jpg)
+
 -   **type**: manga
 -   **original-name**: ねことじいちゃん
 -   **start-date**: 2015-08-07

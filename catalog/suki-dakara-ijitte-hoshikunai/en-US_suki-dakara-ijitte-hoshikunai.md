@@ -1,5 +1,7 @@
 # Suki Dakara Ijitte Hoshikunai
 
+![suki-dakara-ijitte-hoshikunai](https://cdn.myanimelist.net/images/manga/1/145439.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Hane Glass no Kimi.
 
+![hane-glass-no-kimi](https://cdn.myanimelist.net/images/manga/2/156182.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Super Dragon Ball Heroes: Universe Mission!!
 
+![super-dragon-ball-heroes-universe-mission](https://cdn.myanimelist.net/images/manga/1/228479.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

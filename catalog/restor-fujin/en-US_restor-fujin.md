@@ -1,5 +1,7 @@
 # Restor Fujin
 
+![restor-fujin](https://cdn.myanimelist.net/images/manga/1/158912.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

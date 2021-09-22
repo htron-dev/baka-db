@@ -1,5 +1,7 @@
 # 22/7
 
+![22-7](https://cdn.myanimelist.net/images/anime/1485/108385.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 22/7
@@ -29,4 +31,4 @@ The 24th of December, 2016, will see the birth of idols like no other; on that d
 -   [Official Site](https://227anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13299)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22353)
--   [Wikipedia](<https://en.wikipedia.org/wiki/22/7_(TV_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/22/7_%28TV_series%29)

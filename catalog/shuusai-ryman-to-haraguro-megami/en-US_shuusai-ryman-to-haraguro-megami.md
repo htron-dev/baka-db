@@ -1,5 +1,7 @@
 # Shuusai Ryman to Haraguro Megami
 
+![shuusai-ryman-to-haraguro-megami](https://cdn.myanimelist.net/images/manga/3/236230.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

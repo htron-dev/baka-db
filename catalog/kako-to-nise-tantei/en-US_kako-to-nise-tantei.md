@@ -1,5 +1,7 @@
 # Kako to Nise Tantei
 
+![kako-to-nise-tantei](https://cdn.myanimelist.net/images/manga/2/157852.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 38

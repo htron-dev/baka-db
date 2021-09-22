@@ -1,5 +1,7 @@
 # Koi no Uranai Yokochou
 
+![koi-no-uranai-yokochou](https://cdn.myanimelist.net/images/manga/3/231856.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

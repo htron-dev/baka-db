@@ -1,5 +1,7 @@
 # Kujibiki Unbalance
 
+![kujibiki-unbalance](https://cdn.myanimelist.net/images/anime/11/3293.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: くじびきアンバランス

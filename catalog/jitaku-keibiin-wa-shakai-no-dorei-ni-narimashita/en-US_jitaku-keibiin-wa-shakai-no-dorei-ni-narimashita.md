@@ -1,5 +1,7 @@
 # Jitaku Keibiin wa Shakai no Dorei ni Narimashita.
 
+![jitaku-keibiin-wa-shakai-no-dorei-ni-narimashita](https://cdn.myanimelist.net/images/manga/2/180397.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 自宅警備員は社会の奴隷になりました。
 -   **start-date**: 2016-08-01

@@ -1,5 +1,7 @@
 # HaHa
 
+![ha-ha](https://cdn.myanimelist.net/images/manga/1/171864.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

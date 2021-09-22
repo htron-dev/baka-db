@@ -1,5 +1,7 @@
 # Anata wo Tabete Ii desu ka?
 
+![anata-wo-tabete-ii-desu-ka](https://cdn.myanimelist.net/images/manga/1/136615.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: あなたを食べていいですか?

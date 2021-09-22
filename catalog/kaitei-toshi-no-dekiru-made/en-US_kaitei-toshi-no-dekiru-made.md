@@ -1,5 +1,7 @@
 # Kaitei Toshi no Dekiru made
 
+![kaitei-toshi-no-dekiru-made](https://cdn.myanimelist.net/images/anime/3/56793.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 海底都市の出来るまで

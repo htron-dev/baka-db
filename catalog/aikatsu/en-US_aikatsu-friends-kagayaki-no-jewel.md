@@ -1,5 +1,7 @@
 # Aikatsu Friends!: Kagayaki no Jewel
 
+![aikatsu-friends-kagayaki-no-jewel](https://cdn.myanimelist.net/images/anime/1391/100465.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: アイカツフレンズ！～かがやきのジュエル～

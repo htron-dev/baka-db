@@ -1,5 +1,7 @@
 # Bara no Maria
 
+![bara-no-maria](https://cdn.myanimelist.net/images/manga/2/49499.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

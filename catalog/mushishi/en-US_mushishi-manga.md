@@ -1,5 +1,7 @@
 # Mushishi
 
+![mushishi](https://cdn.myanimelist.net/images/manga/2/159514.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 50

@@ -1,5 +1,7 @@
 # Vampire Kiss
 
+![vampire-kiss](https://cdn.myanimelist.net/images/manga/1/5829.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ヴァンパイア・KISS

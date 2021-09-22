@@ -1,5 +1,7 @@
 # HenSemi
 
+![hen-semi](https://cdn.myanimelist.net/images/anime/5/24971.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 変ゼミ

@@ -1,5 +1,7 @@
 # Blue Ribon
 
+![blue-ribon](https://cdn.myanimelist.net/images/manga/3/10011.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ブルー・リボン

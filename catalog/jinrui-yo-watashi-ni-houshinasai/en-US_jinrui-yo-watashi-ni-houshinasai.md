@@ -1,5 +1,7 @@
 # Jinrui yo Watashi ni Houshinasai
 
+![jinrui-yo-watashi-ni-houshinasai](https://cdn.myanimelist.net/images/manga/2/131101.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 人類よ私に奉仕なさい

@@ -1,5 +1,7 @@
 # Dorami &amp; Doraemons: Robot School's Seven Mysteries
 
+![dorami-amp-doraemons-robot-schools-seven-mysteries](https://cdn.myanimelist.net/images/anime/6/38317.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラミ＆ドラえもんズ ロボット学校七不思議！？

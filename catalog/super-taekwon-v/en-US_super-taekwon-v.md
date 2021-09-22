@@ -1,5 +1,7 @@
 # Super Taekwon V
 
+![super-taekwon-v](https://cdn.myanimelist.net/images/anime/7/44672.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 슈퍼 태권 V

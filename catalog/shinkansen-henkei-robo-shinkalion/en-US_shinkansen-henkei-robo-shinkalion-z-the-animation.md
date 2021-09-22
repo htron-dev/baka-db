@@ -1,5 +1,7 @@
 # Shinkansen Henkei Robo Shinkalion Z the Animation
 
+![shinkansen-henkei-robo-shinkalion-z-the-animation](https://cdn.myanimelist.net/images/anime/1573/111862.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 新幹線変形ロボ シンカリオン Z THE ANIMATION
 -   **start-date**: 2021-04-09
@@ -11,7 +13,6 @@
 
 -   action
 -   sci-fi
-
 -   mecha
 
 ## Sinopse

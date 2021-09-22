@@ -1,5 +1,7 @@
 # Kyouai Catastrophe
 
+![kyouai-catastrophe](https://cdn.myanimelist.net/images/manga/3/156871.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu: Oishii Mono wo Tabesasete Oshare wo Sasete, Sekaiichi Shiawase na Shoujo ni Produce!
 
+![konyaku-haki-sareta-reijou-wo-hirotta-ore-ga-ikenai-koto-wo-oshiekomu-oishii-mono-wo-tabesasete-oshare-wo-sasete-sekaiichi-shiawase-na-shoujo-ni-produce](https://cdn.myanimelist.net/images/manga/2/236421.jpg)
+
 -   **type**: manga
 -   **original-name**: 婚約破棄された令嬢を拾った俺が、イケナイことを教え込む 〜美味しいものを食べさせておしゃれをさせて、世界一幸せな少女にプロデュース!〜
 -   **start-date**: 2020-03-26

@@ -1,5 +1,7 @@
 # Boku no Orion
 
+![boku-no-orion](https://cdn.myanimelist.net/images/manga/3/210311.jpg)
+
 -   **type**: manga
 -   **original-name**: 僕のオリオン
 -   **start-date**: 2018-02-15

@@ -1,5 +1,7 @@
 # Senka no Maihime
 
+![senka-no-maihime](https://cdn.myanimelist.net/images/manga/2/185321.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 戦華の舞姫
 -   **start-date**: 2015-10-22

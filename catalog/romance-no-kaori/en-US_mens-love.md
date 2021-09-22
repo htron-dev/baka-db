@@ -1,5 +1,7 @@
 # Men's Love
 
+![mens-love](https://cdn.myanimelist.net/images/manga/2/24934.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

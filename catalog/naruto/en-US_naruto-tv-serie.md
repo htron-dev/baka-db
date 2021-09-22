@@ -1,5 +1,7 @@
 # Naruto
 
+![naruto](https://cdn.myanimelist.net/images/anime/13/17405.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 220
 -   **original-name**: ナルト

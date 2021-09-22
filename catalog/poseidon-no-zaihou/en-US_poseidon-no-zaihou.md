@@ -1,5 +1,7 @@
 # Poseidon no Zaihou
 
+![poseidon-no-zaihou](https://cdn.myanimelist.net/images/manga/1/167265.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

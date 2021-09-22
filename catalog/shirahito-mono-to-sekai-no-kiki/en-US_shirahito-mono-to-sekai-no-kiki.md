@@ -1,5 +1,7 @@
 # Shirahito Mono to Sekai no Kiki
 
+![shirahito-mono-to-sekai-no-kiki](https://cdn.myanimelist.net/images/manga/3/124027.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 白人萠乃と世界の危機

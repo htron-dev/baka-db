@@ -1,5 +1,7 @@
 # Writer x Writer
 
+![writer-x-writer](https://cdn.myanimelist.net/images/manga/2/210358.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

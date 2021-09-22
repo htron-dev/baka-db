@@ -1,5 +1,7 @@
 # Succubus-teki ni Ari desu ka?
 
+![succubus-teki-ni-ari-desu-ka](https://cdn.myanimelist.net/images/manga/3/200247.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: サキュバス的にありですか？

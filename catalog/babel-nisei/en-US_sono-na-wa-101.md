@@ -1,5 +1,7 @@
 # Sono Na wa 101
 
+![sono-na-wa-101](https://cdn.myanimelist.net/images/manga/5/89963.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 13

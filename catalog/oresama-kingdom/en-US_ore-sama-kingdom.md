@@ -1,5 +1,7 @@
 # Ore-sama Kingdom
 
+![ore-sama-kingdom](https://cdn.myanimelist.net/images/anime/11/27510.jpg)
+
 -   **type**: ova
 -   **episodes**: 14
 -   **original-name**: オレ様キングダム

@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam AGE: Climax Hero
 
+![kidou-senshi-gundam-age-climax-hero](https://cdn.myanimelist.net/images/manga/4/105217.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

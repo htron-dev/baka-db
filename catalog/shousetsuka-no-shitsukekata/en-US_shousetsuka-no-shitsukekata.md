@@ -1,5 +1,7 @@
 # Shousetsuka no Shitsukekata
 
+![shousetsuka-no-shitsukekata](https://cdn.myanimelist.net/images/manga/1/208186.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

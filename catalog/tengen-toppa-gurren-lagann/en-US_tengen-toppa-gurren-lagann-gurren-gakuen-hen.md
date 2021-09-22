@@ -1,5 +1,7 @@
 # Tengen Toppa Gurren Lagann: Gurren Gakuen-hen
 
+![tengen-toppa-gurren-lagann-gurren-gakuen-hen](https://cdn.myanimelist.net/images/manga/1/94741.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

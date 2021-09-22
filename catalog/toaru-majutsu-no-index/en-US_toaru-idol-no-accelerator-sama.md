@@ -1,5 +1,7 @@
 # Toaru Idol no Accelerator-sama
 
+![toaru-idol-no-accelerator-sama](https://cdn.myanimelist.net/images/manga/2/186274.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 39

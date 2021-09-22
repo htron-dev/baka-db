@@ -1,5 +1,7 @@
 # Sword Art Online: Phantom Bullet
 
+![sword-art-online-phantom-bullet](https://cdn.myanimelist.net/images/manga/1/137907.jpg)
+
 -   **type**: manga
 -   **original-name**: ソードアート・オンライン ファントム・バレット
 -   **start-date**: 2014-04-10

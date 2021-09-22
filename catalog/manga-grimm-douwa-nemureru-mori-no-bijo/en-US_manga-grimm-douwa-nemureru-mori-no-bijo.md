@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Nemureru Mori no Bijo
 
+![manga-grimm-douwa-nemureru-mori-no-bijo](https://cdn.myanimelist.net/images/manga/3/147753.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

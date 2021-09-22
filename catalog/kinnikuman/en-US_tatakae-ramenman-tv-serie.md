@@ -1,5 +1,7 @@
 # Tatakae!! Ramenman
 
+![tatakae-ramenman](https://cdn.myanimelist.net/images/anime/7/8414.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 35
 -   **original-name**: 闘将!!拉麺男

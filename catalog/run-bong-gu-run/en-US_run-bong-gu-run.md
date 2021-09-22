@@ -1,5 +1,7 @@
 # Run, Bong-Gu, Run
 
+![run-bong-gu-run](https://cdn.myanimelist.net/images/manga/3/13818.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **original-name**: 달려라, 봉구야!

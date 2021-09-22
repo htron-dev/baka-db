@@ -1,5 +1,7 @@
 # Kawareta Junai
 
+![kawareta-junai](https://cdn.myanimelist.net/images/manga/1/227485.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 買われた純愛

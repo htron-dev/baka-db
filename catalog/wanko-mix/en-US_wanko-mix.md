@@ -1,5 +1,7 @@
 # Wanko Mix
 
+![wanko-mix](https://cdn.myanimelist.net/images/manga/1/28005.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: わんこ・みっくす

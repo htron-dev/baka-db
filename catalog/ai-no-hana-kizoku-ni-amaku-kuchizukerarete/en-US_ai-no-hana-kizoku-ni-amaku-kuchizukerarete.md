@@ -1,5 +1,7 @@
 # Ai no Hana: Kizoku ni Amaku Kuchizukerarete
 
+![ai-no-hana-kizoku-ni-amaku-kuchizukerarete](https://cdn.myanimelist.net/images/manga/2/182042.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

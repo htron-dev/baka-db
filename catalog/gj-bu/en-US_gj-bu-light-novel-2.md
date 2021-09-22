@@ -1,5 +1,7 @@
 # GJ-bu◎
 
+![gj-bu◎](https://cdn.myanimelist.net/images/manga/2/156352.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 19

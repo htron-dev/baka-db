@@ -1,5 +1,7 @@
 # Prism Ark
 
+![prism-ark](https://cdn.myanimelist.net/images/anime/10/23155.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: プリズム・アーク

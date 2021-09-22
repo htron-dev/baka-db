@@ -1,5 +1,7 @@
 # Kirakira to Yoru ni Furu
 
+![kirakira-to-yoru-ni-furu](https://cdn.myanimelist.net/images/manga/2/231119.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

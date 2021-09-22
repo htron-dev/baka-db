@@ -1,5 +1,7 @@
 # Hakoniwa no Soleil
 
+![hakoniwa-no-soleil](https://cdn.myanimelist.net/images/manga/2/180423.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

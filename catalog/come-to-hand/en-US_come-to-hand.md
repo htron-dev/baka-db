@@ -1,5 +1,7 @@
 # Come to Hand
 
+![come-to-hand](https://cdn.myanimelist.net/images/manga/3/243999.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

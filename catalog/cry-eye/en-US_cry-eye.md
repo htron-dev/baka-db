@@ -1,5 +1,7 @@
 # Cry Eye
 
+![cry-eye](https://cdn.myanimelist.net/images/manga/2/137233.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

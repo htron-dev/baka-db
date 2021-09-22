@@ -1,5 +1,7 @@
 # Night Head Genesis
 
+![night-head-genesis](https://cdn.myanimelist.net/images/anime/1208/111006.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: NIGHT HEAD GENESIS (ナイト ヘッド ジェネシス)

@@ -1,5 +1,7 @@
 # Sweet Valerian
 
+![sweet-valerian](https://cdn.myanimelist.net/images/anime/11/3676.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 18
 -   **original-name**: スウィート・ヴァレリアン

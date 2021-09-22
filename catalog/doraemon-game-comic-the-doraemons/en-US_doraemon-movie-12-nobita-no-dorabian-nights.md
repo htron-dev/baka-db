@@ -1,5 +1,7 @@
 # Doraemon Movie 12: Nobita no Dorabian Nights
 
+![doraemon-movie-12-nobita-no-dorabian-nights](https://cdn.myanimelist.net/images/anime/9/72417.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん のび太のドラビアンナイト
@@ -11,7 +13,6 @@
 -   adventure
 -   comedy
 -   fantasy
-
 -   shounen
 
 ## Sinopse

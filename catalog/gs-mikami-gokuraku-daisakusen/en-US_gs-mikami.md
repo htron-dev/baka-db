@@ -1,5 +1,7 @@
 # GS Mikami
 
+![gs-mikami](https://cdn.myanimelist.net/images/anime/1630/94116.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 45
 -   **original-name**: GS（ゴーストスイーパー）美神

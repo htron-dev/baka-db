@@ -1,5 +1,7 @@
 # Yuri na Kataomoi-chan
 
+![yuri-na-kataomoi-chan](https://cdn.myanimelist.net/images/manga/3/233962.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 百合な片想いちゃん

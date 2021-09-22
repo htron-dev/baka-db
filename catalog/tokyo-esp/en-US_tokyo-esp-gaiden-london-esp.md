@@ -1,5 +1,7 @@
 # Tokyo ESP Gaiden: London ESP
 
+![tokyo-esp-gaiden-london-esp](https://cdn.myanimelist.net/images/manga/2/161396.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

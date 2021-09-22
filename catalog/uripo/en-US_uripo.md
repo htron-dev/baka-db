@@ -1,5 +1,7 @@
 # URIPO!
 
+![uripo](https://cdn.myanimelist.net/images/manga/1/33690.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: うりポッ

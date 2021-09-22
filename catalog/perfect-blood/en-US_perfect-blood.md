@@ -1,5 +1,7 @@
 # Perfect Blood
 
+![perfect-blood](https://cdn.myanimelist.net/images/manga/2/133311.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **original-name**: パーフェクト・ブラッド

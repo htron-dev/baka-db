@@ -1,5 +1,7 @@
 # Yuuwaku Recipe
 
+![yuuwaku-recipe](https://cdn.myanimelist.net/images/manga/1/15296.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 誘惑レシピ

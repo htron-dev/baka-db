@@ -1,5 +1,7 @@
 # Sono Idol Kyuuketsuki ni Tsuki
 
+![sono-idol-kyuuketsuki-ni-tsuki](https://cdn.myanimelist.net/images/manga/1/203205.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

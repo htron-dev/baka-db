@@ -1,5 +1,7 @@
 # Shitsuren Mania
 
+![shitsuren-mania](https://cdn.myanimelist.net/images/manga/2/78847.jpg)
+
 -   **type**: manga
 -   **original-name**: 失恋マニア
 

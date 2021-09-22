@@ -1,5 +1,7 @@
 # Hamster Club
 
+![hamster-club](https://cdn.myanimelist.net/images/anime/10/27428.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 140
 -   **original-name**: ハムスター倶楽部

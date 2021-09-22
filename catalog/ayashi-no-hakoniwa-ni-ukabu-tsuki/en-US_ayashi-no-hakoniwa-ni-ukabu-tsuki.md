@@ -1,5 +1,7 @@
 # Ayashi no Hakoniwa ni Ukabu Tsuki
 
+![ayashi-no-hakoniwa-ni-ukabu-tsuki](https://cdn.myanimelist.net/images/manga/3/222398.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

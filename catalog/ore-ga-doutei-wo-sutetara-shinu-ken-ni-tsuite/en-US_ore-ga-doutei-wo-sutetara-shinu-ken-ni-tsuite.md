@@ -1,5 +1,7 @@
 # Ore ga Doutei wo Sutetara Shinu Ken ni Tsuite
 
+![ore-ga-doutei-wo-sutetara-shinu-ken-ni-tsuite](https://cdn.myanimelist.net/images/manga/3/120667.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

@@ -1,5 +1,7 @@
 # Akuma-hime to Kuroyami-hime
 
+![akuma-hime-to-kuroyami-hime](https://cdn.myanimelist.net/images/manga/2/134945.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 悪魔姫と黒やみ姫

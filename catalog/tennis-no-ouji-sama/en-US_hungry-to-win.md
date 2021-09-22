@@ -1,5 +1,7 @@
 # Hungry to Win
 
+![hungry-to-win](https://cdn.myanimelist.net/images/anime/13/78713.jpg)
+
 -   **type**: ona
 -   **original-name**: HUNGRY TO WIN
 -   **start-date**: 2014-11-08

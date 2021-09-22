@@ -1,5 +1,7 @@
 # Kikaijikake no Jakitsukai
 
+![kikaijikake-no-jakitsukai](https://cdn.myanimelist.net/images/manga/2/164670.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Ueto Aya Monogatari
 
+![ueto-aya-monogatari](https://cdn.myanimelist.net/images/manga/2/27143.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

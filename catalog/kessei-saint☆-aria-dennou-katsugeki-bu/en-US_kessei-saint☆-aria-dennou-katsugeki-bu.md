@@ -1,5 +1,7 @@
 # Kessei! Saint☆Aria Dennou Katsugeki-bu
 
+![kessei-saint☆-aria-dennou-katsugeki-bu](https://cdn.myanimelist.net/images/manga/2/154568.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 結成!聖〈セント〉☆ アリア電脳活劇部

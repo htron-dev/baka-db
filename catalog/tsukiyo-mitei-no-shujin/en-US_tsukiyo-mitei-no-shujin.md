@@ -1,5 +1,7 @@
 # Tsukiyo Mitei no Shujin
 
+![tsukiyo-mitei-no-shujin](https://cdn.myanimelist.net/images/manga/1/23400.jpg)
+
 -   **type**: manga
 -   **original-name**: 月夜見亭の主人
 

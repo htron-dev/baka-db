@@ -1,5 +1,7 @@
 # Da Aphorism
 
+![da-aphorism](https://cdn.myanimelist.net/images/manga/3/226825.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 堕アホリズム

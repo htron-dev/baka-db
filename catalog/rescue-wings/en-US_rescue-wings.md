@@ -1,5 +1,7 @@
 # Rescue Wings
 
+![rescue-wings](https://cdn.myanimelist.net/images/manga/2/34263.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: レスキューウイングス

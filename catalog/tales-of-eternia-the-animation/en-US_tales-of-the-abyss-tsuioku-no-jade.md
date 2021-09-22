@@ -1,5 +1,7 @@
 # Tales of the Abyss: Tsuioku no Jade
 
+![tales-of-the-abyss-tsuioku-no-jade](https://cdn.myanimelist.net/images/manga/1/36034.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

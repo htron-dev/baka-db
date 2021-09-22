@@ -1,5 +1,7 @@
 # Feng Shu Zhan Jing 2
 
+![feng-shu-zhan-jing-2](https://cdn.myanimelist.net/images/anime/8/83531.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 锋速战警 2
@@ -10,7 +12,6 @@
 ## Tags
 
 -   adventure
-
 -   mecha
 
 ## Sinopse

@@ -1,5 +1,7 @@
 # Oresama na Aitsu
 
+![oresama-na-aitsu](https://cdn.myanimelist.net/images/manga/2/9062.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

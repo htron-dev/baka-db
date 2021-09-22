@@ -1,5 +1,7 @@
 # Ongakushitsu
 
+![ongakushitsu](https://cdn.myanimelist.net/images/manga/4/130281.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

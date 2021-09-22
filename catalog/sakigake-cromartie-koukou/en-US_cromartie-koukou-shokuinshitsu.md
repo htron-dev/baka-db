@@ -1,5 +1,7 @@
 # Cromartie Koukou: Shokuinshitsu
 
+![cromartie-koukou-shokuinshitsu](https://cdn.myanimelist.net/images/manga/1/227571.jpg)
+
 -   **type**: manga
 -   **original-name**: クロマティ高校 職員室
 -   **start-date**: 2018-10-27

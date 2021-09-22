@@ -1,5 +1,7 @@
 # Xi Yangyang Yu Hui Tailang: Man Jing Tou
 
+![xi-yangyang-yu-hui-tailang-man-jing-tou](https://cdn.myanimelist.net/images/anime/1294/115294.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 60
 -   **original-name**: 喜羊羊与灰太狼之漫镜头

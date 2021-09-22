@@ -1,5 +1,7 @@
 # Shitsuji M
 
+![shitsuji-m](https://cdn.myanimelist.net/images/manga/1/241652.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

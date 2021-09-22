@@ -1,5 +1,7 @@
 # Sanada Heart♥Blade
 
+![sanada-heart♥-blade](https://cdn.myanimelist.net/images/manga/1/145103.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

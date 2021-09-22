@@ -1,5 +1,7 @@
 # Venezia Shinkon Monogatari: Hanayome no Himitsu, Hanamuko no Himitsu
 
+![venezia-shinkon-monogatari-hanayome-no-himitsu-hanamuko-no-himitsu](https://cdn.myanimelist.net/images/manga/3/182082.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

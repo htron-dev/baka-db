@@ -1,5 +1,7 @@
 # Ai to Okane
 
+![ai-to-okane](https://cdn.myanimelist.net/images/manga/3/33866.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

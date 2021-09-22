@@ -1,5 +1,7 @@
 # Oretachi no Party wa Machigatteiru
 
+![oretachi-no-party-wa-machigatteiru](https://cdn.myanimelist.net/images/manga/3/194592.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 30

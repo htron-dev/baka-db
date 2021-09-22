@@ -1,5 +1,7 @@
 # Pet Therapy
 
+![pet-therapy](https://cdn.myanimelist.net/images/manga/1/199551.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

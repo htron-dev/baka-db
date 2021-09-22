@@ -1,5 +1,7 @@
 # Tong: Vanity
 
+![tong-vanity](https://cdn.myanimelist.net/images/manga/1/222165.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **original-name**: 통 : 유아독존

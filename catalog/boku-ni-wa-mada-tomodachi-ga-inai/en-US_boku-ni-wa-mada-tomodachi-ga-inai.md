@@ -1,5 +1,7 @@
 # Boku ni wa Mada Tomodachi ga Inai
 
+![boku-ni-wa-mada-tomodachi-ga-inai](https://cdn.myanimelist.net/images/manga/2/83703.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 僕にはまだ 友だちがいない

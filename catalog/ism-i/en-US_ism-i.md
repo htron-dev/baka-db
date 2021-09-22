@@ -1,5 +1,7 @@
 # Ism/i
 
+![ism-i](https://cdn.myanimelist.net/images/manga/3/87083.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ism/i -イズミ-

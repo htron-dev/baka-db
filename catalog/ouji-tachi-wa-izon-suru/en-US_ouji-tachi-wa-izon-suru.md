@@ -1,5 +1,7 @@
 # Ouji-tachi wa Izon suru
 
+![ouji-tachi-wa-izon-suru](https://cdn.myanimelist.net/images/manga/3/176042.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

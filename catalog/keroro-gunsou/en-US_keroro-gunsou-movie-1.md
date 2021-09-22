@@ -1,5 +1,7 @@
 # Keroro Gunsou Movie 1
 
+![keroro-gunsou-movie-1](https://cdn.myanimelist.net/images/anime/5/2699.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 超劇場版 ケロロ軍曹
@@ -10,7 +12,6 @@
 ## Tags
 
 -   comedy
-
 -   sci-fi
 -   shounen
 

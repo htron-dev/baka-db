@@ -1,5 +1,7 @@
 # Ore Monogatari!!
 
+![ore-monogatari](https://cdn.myanimelist.net/images/anime/13/69455.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 俺物語!!

@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni Jan
 
+![higurashi-no-naku-koro-ni-jan](https://cdn.myanimelist.net/images/manga/2/137921.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

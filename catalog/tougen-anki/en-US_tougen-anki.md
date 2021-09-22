@@ -1,5 +1,7 @@
 # Tougen Anki
 
+![tougen-anki](https://cdn.myanimelist.net/images/manga/3/235398.jpg)
+
 -   **type**: manga
 -   **original-name**: 桃源暗鬼
 -   **start-date**: 2020-06-11

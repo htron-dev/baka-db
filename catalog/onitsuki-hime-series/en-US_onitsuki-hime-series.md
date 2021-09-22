@@ -1,5 +1,7 @@
 # Onitsuki Hime Series
 
+![onitsuki-hime-series](https://cdn.myanimelist.net/images/manga/2/151121.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Main Dish
 
+![main-dish](https://cdn.myanimelist.net/images/manga/2/78845.jpg)
+
 -   **type**: manga
 
 ## Tags

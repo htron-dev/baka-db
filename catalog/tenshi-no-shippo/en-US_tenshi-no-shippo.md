@@ -1,5 +1,7 @@
 # Tenshi no Shippo
 
+![tenshi-no-shippo](https://cdn.myanimelist.net/images/manga/3/124379.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 天使のしっぽ

@@ -1,5 +1,7 @@
 # Ryoumin 0-nin Start no Henkyou Ryoushu-sama
 
+![ryoumin-0-nin-start-no-henkyou-ryoushu-sama](https://cdn.myanimelist.net/images/manga/3/240479.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 領民０人スタートの辺境領主様
 -   **start-date**: 2018-10-16

@@ -1,5 +1,7 @@
 # Semi wa Magic Cube 2nd Season
 
+![semi-wa-magic-cube-2nd-season](https://cdn.myanimelist.net/images/anime/1785/110019.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 세미와 매직큐브 시즌2

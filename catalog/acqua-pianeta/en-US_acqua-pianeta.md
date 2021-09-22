@@ -1,5 +1,7 @@
 # Acqua-Pianeta
 
+![acqua-pianeta](https://cdn.myanimelist.net/images/manga/1/125089.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

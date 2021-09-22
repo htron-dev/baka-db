@@ -1,5 +1,7 @@
 # Mikake no Nijuusei
 
+![mikake-no-nijuusei](https://cdn.myanimelist.net/images/manga/3/64275.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

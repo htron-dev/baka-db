@@ -1,5 +1,7 @@
 # Gekijouban Naruto: Shippuuden - The Lost Tower
 
+![gekijouban-naruto-shippuuden-the-lost-tower](https://cdn.myanimelist.net/images/manga/3/172679.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 劇場版 NARUTO 疾風伝 ザ・ロストタワー

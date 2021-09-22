@@ -1,5 +1,7 @@
 # Beach Stars
 
+![beach-stars](https://cdn.myanimelist.net/images/manga/1/55133.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 68

@@ -1,5 +1,7 @@
 # Ijingai Cinema no Ryourinin
 
+![ijingai-cinema-no-ryourinin](https://cdn.myanimelist.net/images/manga/3/221798.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 14

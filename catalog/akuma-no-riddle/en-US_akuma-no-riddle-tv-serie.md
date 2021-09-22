@@ -1,5 +1,7 @@
 # Akuma no Riddle
 
+![akuma-no-riddle](https://cdn.myanimelist.net/images/anime/6/60479.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 悪魔のリドル

@@ -1,5 +1,7 @@
 # Kaibutsu Oujo Nightmare
 
+![kaibutsu-oujo-nightmare](https://cdn.myanimelist.net/images/manga/1/209655.jpg)
+
 -   **type**: manga
 -   **original-name**: 怪物王女ナイトメア
 -   **start-date**: 2017-11-25

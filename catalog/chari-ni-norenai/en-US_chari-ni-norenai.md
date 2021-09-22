@@ -1,5 +1,7 @@
 # Chari ni Norenai!
 
+![chari-ni-norenai](https://cdn.myanimelist.net/images/manga/2/131075.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 94

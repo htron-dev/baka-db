@@ -1,5 +1,7 @@
 # Ao no Exorcist Movie
 
+![ao-no-exorcist-movie](https://cdn.myanimelist.net/images/anime/7/42005.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 青の祓魔師（エクソシスト）

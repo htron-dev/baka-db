@@ -1,5 +1,7 @@
 # Kogare Ouji no Dilemma
 
+![kogare-ouji-no-dilemma](https://cdn.myanimelist.net/images/manga/3/246784.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

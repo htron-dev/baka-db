@@ -1,5 +1,7 @@
 # Tsukimizuki Rikai no Tantei Satsujin
 
+![tsukimizuki-rikai-no-tantei-satsujin](https://cdn.myanimelist.net/images/manga/2/96051.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

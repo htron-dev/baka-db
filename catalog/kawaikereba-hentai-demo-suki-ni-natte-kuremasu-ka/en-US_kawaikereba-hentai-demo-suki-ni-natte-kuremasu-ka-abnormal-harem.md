@@ -1,5 +1,7 @@
 # Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?: Abnormal Harem
 
+![kawaikereba-hentai-demo-suki-ni-natte-kuremasu-ka-abnormal-harem](https://cdn.myanimelist.net/images/manga/3/239084.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

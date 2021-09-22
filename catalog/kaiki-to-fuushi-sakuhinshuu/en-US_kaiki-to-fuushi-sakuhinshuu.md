@@ -1,5 +1,7 @@
 # Kaiki to Fuushi Sakuhinshuu
 
+![kaiki-to-fuushi-sakuhinshuu](https://cdn.myanimelist.net/images/manga/2/247905.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 22

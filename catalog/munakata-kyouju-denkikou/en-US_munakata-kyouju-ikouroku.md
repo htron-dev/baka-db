@@ -1,5 +1,7 @@
 # Munakata Kyouju Ikouroku
 
+![munakata-kyouju-ikouroku](https://cdn.myanimelist.net/images/manga/3/196065.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 49

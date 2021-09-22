@@ -1,5 +1,7 @@
 # Kasou Tenshi wa Majutsu wo Utau
 
+![kasou-tenshi-wa-majutsu-wo-utau](https://cdn.myanimelist.net/images/manga/1/103119.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 仮想天使は魔術を詠(うた)う

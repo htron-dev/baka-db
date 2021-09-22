@@ -1,5 +1,7 @@
 # Yuusha yo, Casino Ou ni Natte Shimau to wa Nasakenai
 
+![yuusha-yo-casino-ou-ni-natte-shimau-to-wa-nasakenai](https://cdn.myanimelist.net/images/manga/2/168636.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

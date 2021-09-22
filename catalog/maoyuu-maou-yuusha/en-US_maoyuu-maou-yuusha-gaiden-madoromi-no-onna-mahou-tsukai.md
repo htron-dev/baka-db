@@ -1,5 +1,7 @@
 # Maoyuu Maou Yuusha Gaiden: Madoromi no Onna Mahou Tsukai
 
+![maoyuu-maou-yuusha-gaiden-madoromi-no-onna-mahou-tsukai](https://cdn.myanimelist.net/images/manga/3/119211.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: まおゆう魔王勇者 外伝 まどろみの女魔法使い

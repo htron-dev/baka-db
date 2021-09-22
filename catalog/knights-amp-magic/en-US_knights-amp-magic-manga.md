@@ -1,5 +1,7 @@
 # Knight's &amp; Magic
 
+![knights-amp-magic](https://cdn.myanimelist.net/images/manga/3/183735.jpg)
+
 -   **type**: manga
 -   **original-name**: ナイツ＆マジック
 -   **start-date**: 2016-04-15

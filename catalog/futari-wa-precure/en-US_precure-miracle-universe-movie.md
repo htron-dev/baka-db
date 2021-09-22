@@ -1,5 +1,7 @@
 # Precure Miracle Universe Movie
 
+![precure-miracle-universe-movie](https://cdn.myanimelist.net/images/anime/1908/97981.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画プリキュアミラクルユニバース

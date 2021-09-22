@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Chuugoku Zangyaku Hiden
 
+![manga-grimm-douwa-chuugoku-zangyaku-hiden](https://cdn.myanimelist.net/images/manga/1/137371.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

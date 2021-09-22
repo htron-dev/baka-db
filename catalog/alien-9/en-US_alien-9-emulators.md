@@ -1,5 +1,7 @@
 # Alien 9: Emulators
 
+![alien-9-emulators](https://cdn.myanimelist.net/images/manga/1/143949.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Mirai no Utena
 
+![mirai-no-utena](https://cdn.myanimelist.net/images/manga/5/21660.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 74

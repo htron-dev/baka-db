@@ -1,5 +1,7 @@
 # Flower of Life
 
+![flower-of-life](https://cdn.myanimelist.net/images/manga/5/29557.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

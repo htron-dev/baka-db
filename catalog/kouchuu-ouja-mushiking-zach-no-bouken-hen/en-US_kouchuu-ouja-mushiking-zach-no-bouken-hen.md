@@ -1,5 +1,7 @@
 # Kouchuu Ouja Mushiking: Zach no Bouken-hen
 
+![kouchuu-ouja-mushiking-zach-no-bouken-hen](https://cdn.myanimelist.net/images/manga/1/234631.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 甲虫王者ムシキング〜ザックの冒険編〜

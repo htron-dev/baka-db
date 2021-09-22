@@ -1,5 +1,7 @@
 # Kanwa Mahoutsukai no Yome
 
+![kanwa-mahoutsukai-no-yome](https://cdn.myanimelist.net/images/manga/1/240749.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 閑話 魔法使いの嫁

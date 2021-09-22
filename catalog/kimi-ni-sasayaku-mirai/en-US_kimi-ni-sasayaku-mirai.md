@@ -1,5 +1,7 @@
 # Kimi ni Sasayaku Mirai
 
+![kimi-ni-sasayaku-mirai](https://cdn.myanimelist.net/images/manga/2/148229.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

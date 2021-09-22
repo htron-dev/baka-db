@@ -1,5 +1,7 @@
 # Robotics;Notes
 
+![robotics-notes](https://cdn.myanimelist.net/images/manga/1/133609.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 31

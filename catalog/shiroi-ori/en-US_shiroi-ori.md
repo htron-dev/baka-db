@@ -1,5 +1,7 @@
 # Shiroi Ori
 
+![shiroi-ori](https://cdn.myanimelist.net/images/manga/2/21470.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

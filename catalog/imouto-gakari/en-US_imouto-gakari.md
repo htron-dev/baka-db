@@ -1,5 +1,7 @@
 # Imouto Gakari
 
+![imouto-gakari](https://cdn.myanimelist.net/images/manga/1/163281.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 19

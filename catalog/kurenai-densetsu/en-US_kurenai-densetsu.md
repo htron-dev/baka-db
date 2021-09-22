@@ -1,5 +1,7 @@
 # Kurenai Densetsu
 
+![kurenai-densetsu](https://cdn.myanimelist.net/images/manga/1/29159.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 14

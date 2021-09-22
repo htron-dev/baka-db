@@ -1,5 +1,7 @@
 # Renai Otogibanashi: Happy Assort
 
+![renai-otogibanashi-happy-assort](https://cdn.myanimelist.net/images/manga/2/26870.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

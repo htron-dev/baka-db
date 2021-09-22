@@ -1,5 +1,7 @@
 # Junjou Escape
 
+![junjou-escape](https://cdn.myanimelist.net/images/manga/2/224927.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

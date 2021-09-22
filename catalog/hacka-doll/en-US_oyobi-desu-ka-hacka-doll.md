@@ -1,5 +1,7 @@
 # Oyobi desu ka!? Hacka Doll
 
+![oyobi-desu-ka-hacka-doll](https://cdn.myanimelist.net/images/manga/2/164007.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

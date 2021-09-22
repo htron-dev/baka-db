@@ -1,5 +1,7 @@
 # Ouji-sama Lv2 the Comic
 
+![ouji-sama-lv-2-the-comic](https://cdn.myanimelist.net/images/manga/1/21468.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Corporate House e Youkoso
 
+![corporate-house-e-youkoso](https://cdn.myanimelist.net/images/manga/1/3810.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

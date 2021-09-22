@@ -1,5 +1,7 @@
 # Old-Fashioned Cupcake
 
+![old-fashioned-cupcake](https://cdn.myanimelist.net/images/manga/1/235766.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

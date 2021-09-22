@@ -1,5 +1,7 @@
 # Ai Death Gun
 
+![ai-death-gun](https://cdn.myanimelist.net/images/manga/1/60475.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

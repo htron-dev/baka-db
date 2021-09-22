@@ -1,5 +1,7 @@
 # Matsubara-kun
 
+![matsubara-kun](https://cdn.myanimelist.net/images/anime/7/74114.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: まつばらくん

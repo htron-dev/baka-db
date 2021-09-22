@@ -1,5 +1,7 @@
 # Koizora LaLaLa: Sora ga Boku ni Warau kara
 
+![koizora-la-la-la-sora-ga-boku-ni-warau-kara](https://cdn.myanimelist.net/images/manga/1/180534.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

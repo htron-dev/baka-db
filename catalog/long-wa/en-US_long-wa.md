@@ -1,5 +1,7 @@
 # Long Wa
 
+![long-wa](https://cdn.myanimelist.net/images/anime/1180/115352.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 59
 -   **original-name**: 龙娃

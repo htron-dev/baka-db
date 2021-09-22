@@ -1,5 +1,7 @@
 # Ore no Seishun wo Ikenie ni, Kanojo no Maegami wo Open
 
+![ore-no-seishun-wo-ikenie-ni-kanojo-no-maegami-wo-open](https://cdn.myanimelist.net/images/manga/1/189601.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 俺の青春を生け贄に、彼女の前髪をオープン
 -   **start-date**: 2017-01-20

@@ -1,5 +1,7 @@
 # BanG Dream!: Asonjatta!
 
+![ban-g-dream-asonjatta](https://cdn.myanimelist.net/images/anime/13/89692.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: BanG Dream！ 遊んじゃった！

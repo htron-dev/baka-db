@@ -1,5 +1,7 @@
 # Iya, Tsuresaru Aite Machigatteru kara!
 
+![iya-tsuresaru-aite-machigatteru-kara](https://cdn.myanimelist.net/images/manga/3/243522.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

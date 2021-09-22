@@ -1,5 +1,7 @@
 # Rinne no Lagrange: Kamogawa Memoria
 
+![rinne-no-lagrange-kamogawa-memoria](https://cdn.myanimelist.net/images/anime/7/39929.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 輪廻のラグランジェ　鴨川メモリア

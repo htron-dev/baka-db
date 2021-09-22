@@ -1,5 +1,7 @@
 # Storm
 
+![storm](https://cdn.myanimelist.net/images/manga/2/20913.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 

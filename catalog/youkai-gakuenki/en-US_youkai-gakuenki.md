@@ -1,5 +1,7 @@
 # Youkai Gakuenki
 
+![youkai-gakuenki](https://cdn.myanimelist.net/images/manga/2/14794.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

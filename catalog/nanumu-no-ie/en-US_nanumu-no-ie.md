@@ -1,5 +1,7 @@
 # Nanumu no Ie
 
+![nanumu-no-ie](https://cdn.myanimelist.net/images/anime/4/84973.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ナヌムの家

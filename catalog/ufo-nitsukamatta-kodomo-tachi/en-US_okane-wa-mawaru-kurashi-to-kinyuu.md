@@ -1,5 +1,7 @@
 # Okane wa Mawaru: Kurashi to Kinyuu
 
+![okane-wa-mawaru-kurashi-to-kinyuu](https://cdn.myanimelist.net/images/anime/7/51155.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: お金は回る －くらしと金融－

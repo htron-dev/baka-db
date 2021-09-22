@@ -1,5 +1,7 @@
 # Soap-Gata
 
+![soap-gata](https://cdn.myanimelist.net/images/manga/3/23652.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: も～っとソップ型

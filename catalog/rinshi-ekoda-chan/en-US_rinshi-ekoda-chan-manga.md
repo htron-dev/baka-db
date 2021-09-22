@@ -1,5 +1,7 @@
 # Rinshi!! Ekoda-chan
 
+![rinshi-ekoda-chan](https://cdn.myanimelist.net/images/manga/3/141077.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 臨死!!江古田ちゃん

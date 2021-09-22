@@ -1,5 +1,7 @@
 # Strange and Beautiful
 
+![strange-and-beautiful](https://cdn.myanimelist.net/images/manga/2/211254.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 9
 -   **chapters**: 155

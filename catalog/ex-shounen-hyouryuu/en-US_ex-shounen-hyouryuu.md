@@ -1,5 +1,7 @@
 # EX: Shounen Hyouryuu
 
+![ex-shounen-hyouryuu](https://cdn.myanimelist.net/images/manga/3/196032.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 26

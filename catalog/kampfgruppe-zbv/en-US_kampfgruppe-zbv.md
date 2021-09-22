@@ -1,5 +1,7 @@
 # Kampfgruppe ZBV
 
+![kampfgruppe-zbv](https://cdn.myanimelist.net/images/manga/2/167678.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

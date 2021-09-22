@@ -1,5 +1,7 @@
 # Pita-Ten
 
+![pita-ten](https://cdn.myanimelist.net/images/manga/3/191236.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 47

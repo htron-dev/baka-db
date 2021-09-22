@@ -1,5 +1,7 @@
 # Uratarou
 
+![uratarou](https://cdn.myanimelist.net/images/manga/3/187968.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 51

@@ -1,5 +1,7 @@
 # Osomatsu-san: Ouma de Kobanashi
 
+![osomatsu-san-ouma-de-kobanashi](https://cdn.myanimelist.net/images/anime/6/89191.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: おそ松さん おうまでこばなし

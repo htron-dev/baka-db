@@ -1,5 +1,7 @@
 # Ojamajo Doremi Dokkaan!
 
+![ojamajo-doremi-dokkaan](https://cdn.myanimelist.net/images/anime/2/40407.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: おジャ魔女どれみドッカ〜ン！

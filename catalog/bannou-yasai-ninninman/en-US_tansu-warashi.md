@@ -1,5 +1,7 @@
 # Tansu Warashi.
 
+![tansu-warashi](https://cdn.myanimelist.net/images/anime/1053/103696.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: たんすわらし。

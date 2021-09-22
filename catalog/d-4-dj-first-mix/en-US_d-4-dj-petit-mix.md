@@ -1,5 +1,7 @@
 # D4DJ Petit Mix
 
+![d-4-dj-petit-mix](https://cdn.myanimelist.net/images/anime/1089/113814.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ぷっちみく ♪
 -   **start-date**: 2021-02-05
@@ -21,4 +23,3 @@ Mini anime aired within the D4DJ variety program D4DJ Photon Maiden TV.
 -   [Official Site](https://anime.d4dj-pj.com/petit-mix/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15981)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23993)
--   [Wikipedia](http://)

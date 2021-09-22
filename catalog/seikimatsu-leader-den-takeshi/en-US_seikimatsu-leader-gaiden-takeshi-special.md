@@ -1,5 +1,7 @@
 # Seikimatsu Leader Gaiden Takeshi!
 
+![seikimatsu-leader-gaiden-takeshi](https://cdn.myanimelist.net/images/anime/11/43727.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 世紀末リーダー外伝たけし！

@@ -1,5 +1,7 @@
 # Metallica Metalluca
 
+![metallica-metalluca](https://cdn.myanimelist.net/images/manga/2/35169.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

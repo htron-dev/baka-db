@@ -1,5 +1,7 @@
 # Baraou no Souretsu
 
+![baraou-no-souretsu](https://cdn.myanimelist.net/images/anime/1036/113616.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 薔薇王の葬列
 -   **start-date**: 2022-01-20

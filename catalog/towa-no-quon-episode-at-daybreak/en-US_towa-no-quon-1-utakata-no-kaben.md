@@ -1,5 +1,7 @@
 # Towa no Quon 1: Utakata no Kaben
 
+![towa-no-quon-1-utakata-no-kaben](https://cdn.myanimelist.net/images/anime/11/35689.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: トワノクオン 第 1 章 泡沫の花弁

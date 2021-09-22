@@ -1,5 +1,7 @@
 # Corbeille Doll: Sekai sae Horoboseru Daimahoutsukai ni Totsuida Hime no Monogatari
 
+![corbeille-doll-sekai-sae-horoboseru-daimahoutsukai-ni-totsuida-hime-no-monogatari](https://cdn.myanimelist.net/images/manga/3/182558.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

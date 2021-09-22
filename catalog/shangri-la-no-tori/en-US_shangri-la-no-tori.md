@@ -1,5 +1,7 @@
 # Shangri-La no Tori
 
+![shangri-la-no-tori](https://cdn.myanimelist.net/images/manga/3/231782.jpg)
+
 -   **type**: manga
 -   **original-name**: シャングリラの鳥
 -   **start-date**: 2017-10-28

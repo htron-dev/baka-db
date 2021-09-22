@@ -1,5 +1,7 @@
 # Ikedaya Soudou
 
+![ikedaya-soudou](https://cdn.myanimelist.net/images/anime/7/71305.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 池田屋騒動

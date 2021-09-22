@@ -1,5 +1,7 @@
 # Gebäude Bäude
 
+![gebaude-baude](https://cdn.myanimelist.net/images/anime/1631/112290.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: ゲボイデ＝ボイデ

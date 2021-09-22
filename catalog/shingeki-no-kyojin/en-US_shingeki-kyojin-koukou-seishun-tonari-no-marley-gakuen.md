@@ -1,5 +1,7 @@
 # Shingeki! Kyojin Koukou: Seishun! Tonari no Marley Gakuen
 
+![shingeki-kyojin-koukou-seishun-tonari-no-marley-gakuen](https://cdn.myanimelist.net/images/manga/2/241996.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

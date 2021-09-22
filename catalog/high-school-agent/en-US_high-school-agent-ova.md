@@ -1,5 +1,7 @@
 # High School Agent
 
+![high-school-agent](https://cdn.myanimelist.net/images/anime/5/49631.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ハイスクール AGENT, (ハイスクール AGENT II U ボートを追え!)

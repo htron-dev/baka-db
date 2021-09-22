@@ -1,5 +1,7 @@
 # Lemon Angel Project
 
+![lemon-angel-project](https://cdn.myanimelist.net/images/anime/5/36417.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: レモン エンジェル プロジェクト

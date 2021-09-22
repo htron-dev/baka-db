@@ -1,5 +1,7 @@
 # Guru Guru Pon-chan
 
+![guru-guru-pon-chan](https://cdn.myanimelist.net/images/manga/2/5416.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 37

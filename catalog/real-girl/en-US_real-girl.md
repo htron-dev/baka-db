@@ -1,5 +1,7 @@
 # Real Girl
 
+![real-girl](https://cdn.myanimelist.net/images/manga/3/167484.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 48

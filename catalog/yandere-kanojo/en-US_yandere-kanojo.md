@@ -1,5 +1,7 @@
 # Yandere Kanojo
 
+![yandere-kanojo](https://cdn.myanimelist.net/images/manga/3/159812.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 157

@@ -1,5 +1,7 @@
 # Show Window no Emily
 
+![show-window-no-emily](https://cdn.myanimelist.net/images/manga/3/14907.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ショーウィンドウのエミリー

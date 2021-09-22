@@ -1,5 +1,7 @@
 # Clannad: Tomoyo Dearest
 
+![clannad-tomoyo-dearest](https://cdn.myanimelist.net/images/manga/2/34937.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

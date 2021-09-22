@@ -1,5 +1,7 @@
 # Sugar Addiction
 
+![sugar-addiction](https://cdn.myanimelist.net/images/manga/5/30272.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 38

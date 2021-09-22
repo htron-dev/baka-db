@@ -1,5 +1,7 @@
 # Tekkon Kinkreet
 
+![tekkon-kinkreet](https://cdn.myanimelist.net/images/manga/2/151420.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 33

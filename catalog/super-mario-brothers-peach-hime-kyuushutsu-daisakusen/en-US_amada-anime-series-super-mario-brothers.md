@@ -1,5 +1,7 @@
 # Amada Anime Series: Super Mario Brothers
 
+![amada-anime-series-super-mario-brothers](https://cdn.myanimelist.net/images/anime/12/8326.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: アマダアニメシリーズ スーパーマリオブラザーズ

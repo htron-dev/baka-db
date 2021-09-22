@@ -1,5 +1,7 @@
 # Lovely Talk
 
+![lovely-talk](https://cdn.myanimelist.net/images/manga/2/34867.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

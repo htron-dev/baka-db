@@ -1,5 +1,7 @@
 # Barajou no Kiss
 
+![barajou-no-kiss](https://cdn.myanimelist.net/images/manga/1/19679.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 42

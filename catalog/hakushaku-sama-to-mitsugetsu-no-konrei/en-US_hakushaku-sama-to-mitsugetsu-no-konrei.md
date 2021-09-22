@@ -1,5 +1,7 @@
 # Hakushaku-sama to Mitsugetsu no Konrei
 
+![hakushaku-sama-to-mitsugetsu-no-konrei](https://cdn.myanimelist.net/images/manga/3/241349.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 伯爵様と蜜月の婚礼

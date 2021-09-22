@@ -1,5 +1,7 @@
 # Hone to Issho no Isekai Seikatsu
 
+![hone-to-issho-no-isekai-seikatsu](https://cdn.myanimelist.net/images/manga/1/203533.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 骨といっしょの異世界生活

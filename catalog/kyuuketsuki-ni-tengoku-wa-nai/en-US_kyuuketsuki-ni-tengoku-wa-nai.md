@@ -1,5 +1,7 @@
 # Kyuuketsuki ni Tengoku wa Nai
 
+![kyuuketsuki-ni-tengoku-wa-nai](https://cdn.myanimelist.net/images/manga/3/247389.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 吸血鬼に天国はない
 -   **start-date**: 2019-08-10

@@ -1,5 +1,7 @@
 # Sayonara Game
 
+![sayonara-game](https://cdn.myanimelist.net/images/manga/2/194054.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

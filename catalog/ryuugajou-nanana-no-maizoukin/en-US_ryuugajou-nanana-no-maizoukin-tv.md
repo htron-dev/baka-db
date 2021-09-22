@@ -1,5 +1,7 @@
 # Ryuugajou Nanana no Maizoukin (TV)
 
+![ryuugajou-nanana-no-maizoukin-tv](https://cdn.myanimelist.net/images/anime/3/60475.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 龍ヶ嬢七々々の埋蔵金

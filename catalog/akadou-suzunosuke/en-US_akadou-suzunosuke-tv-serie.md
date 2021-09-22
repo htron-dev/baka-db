@@ -1,5 +1,7 @@
 # Akadou Suzunosuke
 
+![akadou-suzunosuke](https://cdn.myanimelist.net/images/anime/9/56397.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 赤胴鈴之助

@@ -1,5 +1,7 @@
 # Burgund Haneiyuutan
 
+![burgund-haneiyuutan](https://cdn.myanimelist.net/images/manga/2/158588.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **chapters**: 54

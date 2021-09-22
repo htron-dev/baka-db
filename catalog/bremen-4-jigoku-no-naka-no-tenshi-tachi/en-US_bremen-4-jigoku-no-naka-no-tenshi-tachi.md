@@ -1,5 +1,7 @@
 # Bremen 4: Jigoku no Naka no Tenshi-tachi
 
+![bremen-4-jigoku-no-naka-no-tenshi-tachi](https://cdn.myanimelist.net/images/anime/7/46569.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ブレーメン４ 地獄の中の天使たち

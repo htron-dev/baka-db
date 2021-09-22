@@ -1,5 +1,7 @@
 # Koi to Kemono to Seitokai
 
+![koi-to-kemono-to-seitokai](https://cdn.myanimelist.net/images/manga/3/157536.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

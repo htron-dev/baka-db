@@ -1,5 +1,7 @@
 # Domo TV
 
+![domo-tv](https://cdn.myanimelist.net/images/anime/12/24339.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: どーもくん
@@ -18,4 +20,4 @@ A co-production between Nickelodeon and NHK featuring the stop-motion character 
 
 -   [My Anime list](https://myanimelist.net/anime/8815/Domo_TV)
 -   [Official Site](http://www.domomode.com/)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Domo-kun_(TV_series)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Domo-kun_%28TV_series%29)

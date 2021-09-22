@@ -1,5 +1,7 @@
 # ChunRangYulJun
 
+![chun-rang-yul-jun](https://cdn.myanimelist.net/images/manga/1/1393.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 -   **original-name**: 天浪熱戰

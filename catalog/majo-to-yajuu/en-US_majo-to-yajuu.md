@@ -1,5 +1,7 @@
 # Majo to Yajuu
 
+![majo-to-yajuu](https://cdn.myanimelist.net/images/manga/1/200778.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔女と野獣
 -   **start-date**: 2016-11-05

@@ -1,5 +1,7 @@
 # In Hand: Himokura Hakase to Majime na Migiude
 
+![in-hand-himokura-hakase-to-majime-na-migiude](https://cdn.myanimelist.net/images/manga/1/228033.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

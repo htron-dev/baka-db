@@ -1,5 +1,7 @@
 # Sono Otoko, Oniichan Ijou
 
+![sono-otoko-oniichan-ijou](https://cdn.myanimelist.net/images/manga/1/125563.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

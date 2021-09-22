@@ -1,5 +1,7 @@
 # Ashita e Kick Off
 
+![ashita-e-kick-off](https://cdn.myanimelist.net/images/manga/2/115527.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 明日へキックオフ

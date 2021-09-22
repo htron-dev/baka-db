@@ -1,5 +1,7 @@
 # Kremlin
 
+![kremlin](https://cdn.myanimelist.net/images/manga/1/150179.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: クレムリン

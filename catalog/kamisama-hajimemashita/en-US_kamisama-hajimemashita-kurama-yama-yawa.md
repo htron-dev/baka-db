@@ -1,5 +1,7 @@
 # Kamisama Hajimemashita: Kurama-yama Yawa
 
+![kamisama-hajimemashita-kurama-yama-yawa](https://cdn.myanimelist.net/images/manga/2/154677.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

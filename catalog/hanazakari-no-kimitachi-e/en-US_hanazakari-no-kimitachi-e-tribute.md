@@ -1,5 +1,7 @@
 # Hanazakari no Kimitachi e: Tribute
 
+![hanazakari-no-kimitachi-e-tribute](https://cdn.myanimelist.net/images/manga/1/35844.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

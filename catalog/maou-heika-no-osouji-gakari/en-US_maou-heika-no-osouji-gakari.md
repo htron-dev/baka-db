@@ -1,5 +1,7 @@
 # Maou Heika no Osouji-gakari
 
+![maou-heika-no-osouji-gakari](https://cdn.myanimelist.net/images/manga/1/243708.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔王陛下のお掃除係
 -   **start-date**: 2019-02-06

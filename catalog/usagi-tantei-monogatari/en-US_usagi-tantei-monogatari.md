@@ -1,5 +1,7 @@
 # Usagi Tantei Monogatari
 
+![usagi-tantei-monogatari](https://cdn.myanimelist.net/images/manga/2/107949.jpg)
+
 -   **type**: manga
 -   **original-name**: うさぎ探偵物語
 -   **start-date**: 2012-06-25

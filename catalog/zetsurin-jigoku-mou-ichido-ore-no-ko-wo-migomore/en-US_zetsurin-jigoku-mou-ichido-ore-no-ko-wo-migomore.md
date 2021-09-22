@@ -1,5 +1,7 @@
 # Zetsurin Jigoku: Mou Ichido, Ore no Ko wo Migomore.
 
+![zetsurin-jigoku-mou-ichido-ore-no-ko-wo-migomore](https://cdn.myanimelist.net/images/manga/3/238349.jpg)
+
 -   **type**: manga
 -   **original-name**: 絶倫地獄～もう一度、俺の子を身ごもれ。
 -   **start-date**: 2017-11-30

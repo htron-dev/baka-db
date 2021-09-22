@@ -1,5 +1,7 @@
 # Tobidase! Narase! Pui Pui Molcar
 
+![tobidase-narase-pui-pui-molcar](https://cdn.myanimelist.net/images/anime/1784/115618.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: とびだせ！ならせ！ PUI PUI モルカー

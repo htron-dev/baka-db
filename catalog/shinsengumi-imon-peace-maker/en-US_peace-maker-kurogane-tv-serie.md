@@ -1,5 +1,7 @@
 # Peace Maker Kurogane
 
+![peace-maker-kurogane](https://cdn.myanimelist.net/images/anime/10/77408.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: PEACE MAKER 鐵

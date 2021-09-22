@@ -1,5 +1,7 @@
 # Star Blacks
 
+![star-blacks](https://cdn.myanimelist.net/images/manga/2/10111.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

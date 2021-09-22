@@ -1,5 +1,7 @@
 # Boukun Ouji no Shuuai: Ubawareta Junjou
 
+![boukun-ouji-no-shuuai-ubawareta-junjou](https://cdn.myanimelist.net/images/manga/2/192768.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

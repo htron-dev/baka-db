@@ -1,5 +1,7 @@
 # Taikoku Cheat nara Isekai Seifuku mo Rakushou desu yo?
 
+![taikoku-cheat-nara-isekai-seifuku-mo-rakushou-desu-yo](https://cdn.myanimelist.net/images/manga/3/191144.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 大国チートなら異世界征服も楽勝ですよ?
 -   **start-date**: 2017-02-25

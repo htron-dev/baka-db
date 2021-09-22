@@ -1,5 +1,7 @@
 # Boku no Imouto wa Kanji ga Yomeru
 
+![boku-no-imouto-wa-kanji-ga-yomeru](https://cdn.myanimelist.net/images/manga/1/122605.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 33

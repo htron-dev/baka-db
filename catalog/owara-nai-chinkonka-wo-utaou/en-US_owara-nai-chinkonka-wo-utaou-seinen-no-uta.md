@@ -1,5 +1,7 @@
 # Owara Nai Chinkonka wo Utaou: Seinen no Uta
 
+![owara-nai-chinkonka-wo-utaou-seinen-no-uta](https://cdn.myanimelist.net/images/anime/10/83665.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 終わらない鎮魂歌を歌おう 青年のウタ

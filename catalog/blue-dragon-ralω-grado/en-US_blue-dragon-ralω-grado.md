@@ -1,5 +1,7 @@
 # Blue Dragon: RalΩGrado
 
+![blue-dragon-ralω-grado](https://cdn.myanimelist.net/images/manga/2/56223.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 29

@@ -1,5 +1,7 @@
 # Orfina Saga
 
+![orfina-saga](https://cdn.myanimelist.net/images/manga/1/80207.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: オルフィーナ SAGA

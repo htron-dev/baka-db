@@ -1,5 +1,7 @@
 # Tokkou Sayaka Tenkamuteki
 
+![tokkou-sayaka-tenkamuteki](https://cdn.myanimelist.net/images/manga/2/38465.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

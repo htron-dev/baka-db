@@ -1,5 +1,7 @@
 # Amakusa 1637
 
+![amakusa-1637](https://cdn.myanimelist.net/images/manga/2/164539.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 57

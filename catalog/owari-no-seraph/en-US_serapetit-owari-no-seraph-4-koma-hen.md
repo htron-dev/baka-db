@@ -1,5 +1,7 @@
 # Serapetit! Owari no Seraph 4-koma-hen
 
+![serapetit-owari-no-seraph-4-koma-hen](https://cdn.myanimelist.net/images/manga/1/183856.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

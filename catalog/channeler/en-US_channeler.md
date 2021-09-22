@@ -1,5 +1,7 @@
 # Channeler
 
+![channeler](https://cdn.myanimelist.net/images/anime/1369/99063.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: CHANNELER

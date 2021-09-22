@@ -1,5 +1,7 @@
 # Hisho Ikuseichuu
 
+![hisho-ikuseichuu](https://cdn.myanimelist.net/images/manga/1/19481.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

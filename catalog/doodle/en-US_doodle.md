@@ -1,5 +1,7 @@
 # DOODLE
 
+![doodle](https://cdn.myanimelist.net/images/manga/1/102165.jpg)
+
 -   **type**: manga
 -   **original-name**: DOODLE [ドードル]
 -   **start-date**: 2013-10-09

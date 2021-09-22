@@ -1,5 +1,7 @@
 # Hana yori Dango (Movie)
 
+![hana-yori-dango-movie](https://cdn.myanimelist.net/images/anime/7/45907.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 花より男子

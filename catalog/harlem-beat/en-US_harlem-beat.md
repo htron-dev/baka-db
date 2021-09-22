@@ -1,5 +1,7 @@
 # Harlem Beat
 
+![harlem-beat](https://cdn.myanimelist.net/images/manga/2/183416.jpg)
+
 -   **type**: manga
 -   **volumes**: 29
 -   **chapters**: 247

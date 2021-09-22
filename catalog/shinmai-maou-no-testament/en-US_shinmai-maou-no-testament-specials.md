@@ -1,5 +1,7 @@
 # Shinmai Maou no Testament Specials
 
+![shinmai-maou-no-testament-specials](https://cdn.myanimelist.net/images/anime/1815/109046.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 新妹魔王の契約者〈テスタメント〉

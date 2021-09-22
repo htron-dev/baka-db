@@ -1,5 +1,7 @@
 # Fetish
 
+![fetish](https://cdn.myanimelist.net/images/manga/1/180949.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

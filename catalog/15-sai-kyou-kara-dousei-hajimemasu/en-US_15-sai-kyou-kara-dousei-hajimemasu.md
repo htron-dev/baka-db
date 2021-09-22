@@ -1,5 +1,7 @@
 # 15-sai, Kyou kara Dousei Hajimemasu.
 
+![15-sai-kyou-kara-dousei-hajimemasu](https://cdn.myanimelist.net/images/anime/1516/93211.jpg)
+
 -   **type**: ona
 -   **episodes**: 30
 -   **original-name**: 15 歳, 今日から同棲はじめます.

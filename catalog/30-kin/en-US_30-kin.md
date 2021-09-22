@@ -1,5 +1,7 @@
 # 30-kin
 
+![30-kin](https://cdn.myanimelist.net/images/manga/3/223573.jpg)
+
 -   **type**: manga
 -   **original-name**: 30 禁
 -   **start-date**: 2016-08-05

@@ -1,5 +1,7 @@
 # Hyakko
 
+![hyakko](https://cdn.myanimelist.net/images/manga/3/11606.jpg)
+
 -   **type**: manga
 -   **original-name**: ヒャッコ
 

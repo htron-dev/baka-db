@@ -1,5 +1,7 @@
 # Ansatsusha wa Sakana wo Kirau
 
+![ansatsusha-wa-sakana-wo-kirau](https://cdn.myanimelist.net/images/manga/1/24652.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

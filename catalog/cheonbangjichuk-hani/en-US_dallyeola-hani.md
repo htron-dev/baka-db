@@ -1,5 +1,7 @@
 # Dallyeola Hani
 
+![dallyeola-hani](https://cdn.myanimelist.net/images/anime/4/45712.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 달려라 하니

@@ -1,5 +1,7 @@
 # Neko to wa Sex nanka Shinai
 
+![neko-to-wa-sex-nanka-shinai](https://cdn.myanimelist.net/images/manga/1/87493.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 猫とはセックスなんかしない

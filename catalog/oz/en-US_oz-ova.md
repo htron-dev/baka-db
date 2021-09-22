@@ -1,5 +1,7 @@
 # OZ
 
+![oz](https://cdn.myanimelist.net/images/anime/13/77858.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: オズ
@@ -31,4 +33,4 @@ A mercenary was hired by a girl to bring her to the mythical Oz (a paradise) whe
 -   [My Anime list](https://myanimelist.net/anime/2785/OZ)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4225)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7182)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/OZ_(%E6%A8%B9%E3%81%AA%E3%81%A4%E3%81%BF)>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/OZ_%28%E6%A8%B9%E3%81%AA%E3%81%A4%E3%81%BF%29)

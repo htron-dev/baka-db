@@ -1,5 +1,7 @@
 # Kijima-san to Yamada-san
 
+![kijima-san-to-yamada-san](https://cdn.myanimelist.net/images/manga/1/232023.jpg)
+
 -   **type**: manga
 -   **original-name**: 鬼島さんと山田さん
 -   **start-date**: 2019-02-22

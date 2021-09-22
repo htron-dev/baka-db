@@ -1,5 +1,7 @@
 # Hajimete no Gal: Hajimete no Bunkasai
 
+![hajimete-no-gal-hajimete-no-bunkasai](https://cdn.myanimelist.net/images/anime/13/84879.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: はじめてのギャル はじめての文化祭

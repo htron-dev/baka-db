@@ -1,5 +1,7 @@
 # Silent Manga Audition: Sekai kara Todoita Japanese Manga
 
+![silent-manga-audition-sekai-kara-todoita-japanese-manga](https://cdn.myanimelist.net/images/manga/3/128221.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 26

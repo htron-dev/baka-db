@@ -1,5 +1,7 @@
 # Fate/Extra CCC
 
+![fate-extra-ccc](https://cdn.myanimelist.net/images/manga/3/180280.jpg)
+
 -   **type**: manga
 -   **original-name**: Fate/EXTRA CCC
 -   **start-date**: 2015-06-10

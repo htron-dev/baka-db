@@ -1,5 +1,7 @@
 # Dororo Bon
 
+![dororo-bon](https://cdn.myanimelist.net/images/manga/1/38007.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 38

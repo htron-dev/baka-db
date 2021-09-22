@@ -1,5 +1,7 @@
 # Battle Spirits: Burning Soul
 
+![battle-spirits-burning-soul](https://cdn.myanimelist.net/images/anime/6/74933.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: バトルスピリッツ烈火魂〈バーニングソウル〉

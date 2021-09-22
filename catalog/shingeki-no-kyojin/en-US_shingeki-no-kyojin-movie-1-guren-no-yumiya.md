@@ -1,5 +1,7 @@
 # Shingeki no Kyojin Movie 1: Guren no Yumiya
 
+![shingeki-no-kyojin-movie-1-guren-no-yumiya](https://cdn.myanimelist.net/images/anime/7/63283.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版「進撃の巨人」前編～紅蓮の弓矢～

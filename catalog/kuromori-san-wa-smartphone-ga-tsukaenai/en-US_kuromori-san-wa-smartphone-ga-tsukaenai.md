@@ -1,5 +1,7 @@
 # Kuromori-san wa Smartphone ga Tsukaenai
 
+![kuromori-san-wa-smartphone-ga-tsukaenai](https://cdn.myanimelist.net/images/manga/2/210078.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

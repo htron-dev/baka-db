@@ -1,5 +1,7 @@
 # Joumon Shounen Yogi
 
+![joumon-shounen-yogi](https://cdn.myanimelist.net/images/manga/1/199185.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

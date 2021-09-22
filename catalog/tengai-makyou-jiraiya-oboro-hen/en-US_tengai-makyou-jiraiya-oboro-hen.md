@@ -1,5 +1,7 @@
 # Tengai Makyou: Jiraiya Oboro-hen
 
+![tengai-makyou-jiraiya-oboro-hen](https://cdn.myanimelist.net/images/anime/6/13003.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 天外魔境 自来也おぼろ変

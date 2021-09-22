@@ -1,5 +1,7 @@
 # Ecchi na Mousou ga Kanacchaimashita.
 
+![ecchi-na-mousou-ga-kanacchaimashita](https://cdn.myanimelist.net/images/manga/2/247854.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

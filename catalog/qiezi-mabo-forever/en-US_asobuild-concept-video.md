@@ -1,5 +1,7 @@
 # Asobuild Concept Video
 
+![asobuild-concept-video](https://cdn.myanimelist.net/images/anime/1543/99700.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: アソビルティザームービー

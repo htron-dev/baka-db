@@ -1,5 +1,7 @@
 # Love Rush!
 
+![love-rush](https://cdn.myanimelist.net/images/manga/2/187111.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

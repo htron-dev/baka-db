@@ -1,5 +1,7 @@
 # Hendo Garden
 
+![hendo-garden](https://cdn.myanimelist.net/images/anime/9/88652.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 辺土ガーデン

@@ -1,5 +1,7 @@
 # Geidaisei Yasaka Kyouya no Suuki na Bouken
 
+![geidaisei-yasaka-kyouya-no-suuki-na-bouken](https://cdn.myanimelist.net/images/manga/3/161959.jpg)
+
 -   **type**: manga
 -   **chapters**: 10
 -   **original-name**: 芸大生 八坂京也の数奇な冒険

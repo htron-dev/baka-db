@@ -1,5 +1,7 @@
 # Yoku Shuukyou Kanyuu ni Kuru Hito no Ie ni Umareta Ko no Hanashi
 
+![yoku-shuukyou-kanyuu-ni-kuru-hito-no-ie-ni-umareta-ko-no-hanashi](https://cdn.myanimelist.net/images/manga/1/204912.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Iwai! Dekichatta Kekkon
 
+![iwai-dekichatta-kekkon](https://cdn.myanimelist.net/images/manga/1/45021.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

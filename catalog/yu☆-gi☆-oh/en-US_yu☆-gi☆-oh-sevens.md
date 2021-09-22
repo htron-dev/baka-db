@@ -1,5 +1,7 @@
 # Yu☆Gi☆Oh!: Sevens
 
+![yu☆-gi☆-oh-sevens](https://cdn.myanimelist.net/images/anime/1148/106883.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 遊 ☆ 戯 ☆ 王 SEVENS
 -   **start-date**: 2020-04-04

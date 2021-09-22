@@ -1,5 +1,7 @@
 # Sabaku no Kuni no Oujosama
 
+![sabaku-no-kuni-no-oujosama](https://cdn.myanimelist.net/images/anime/13/61377.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: さばくの国の王女さま

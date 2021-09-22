@@ -1,5 +1,7 @@
 # Trouble Maker
 
+![trouble-maker](https://cdn.myanimelist.net/images/manga/2/6020.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Binetsu Shoujo
 
+![binetsu-shoujo](https://cdn.myanimelist.net/images/manga/1/3365.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 58

@@ -1,5 +1,7 @@
 # Qi Yu Chengyu Gushi Guwu Pian
 
+![qi-yu-chengyu-gushi-guwu-pian](https://cdn.myanimelist.net/images/anime/1824/115369.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 启鱼·成语故事—古物篇

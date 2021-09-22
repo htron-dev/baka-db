@@ -1,5 +1,7 @@
 # Sengoku Yawoyorozu
 
+![sengoku-yawoyorozu](https://cdn.myanimelist.net/images/manga/1/177572.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 17

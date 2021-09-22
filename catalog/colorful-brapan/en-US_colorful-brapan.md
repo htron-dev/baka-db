@@ -1,5 +1,7 @@
 # Colorful Brapan
 
+![colorful-brapan](https://cdn.myanimelist.net/images/manga/1/190618.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: カラフルぶらぱん

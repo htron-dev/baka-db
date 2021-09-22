@@ -1,5 +1,7 @@
 # Buzzer Beater 2nd Season
 
+![buzzer-beater-2nd-season](https://cdn.myanimelist.net/images/anime/3/57419.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: BUZZER BEATER 第 2 期
@@ -28,4 +30,4 @@ After being drafted into the Earth Team, a basketball team comprised solely of h
 -   [Official Site](http://www.ntv.co.jp/buzzer/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5224)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8137)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Buzzer_Beater_(manga)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Buzzer_Beater_%28manga%29)

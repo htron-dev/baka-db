@@ -1,5 +1,7 @@
 # Hope: Suiso Shakai to, Korekara no Energy no Hanashi
 
+![hope-suiso-shakai-to-korekara-no-energy-no-hanashi](https://cdn.myanimelist.net/images/anime/2/86946.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: HOPE ～水素社会と、これからのエネルギーのはなし～

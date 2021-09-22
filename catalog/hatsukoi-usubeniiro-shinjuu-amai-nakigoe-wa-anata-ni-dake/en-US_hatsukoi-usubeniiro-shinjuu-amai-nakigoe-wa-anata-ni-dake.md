@@ -1,5 +1,7 @@
 # Hatsukoi Usubeniiro Shinjuu: Amai Nakigoe wa, Anata ni dake
 
+![hatsukoi-usubeniiro-shinjuu-amai-nakigoe-wa-anata-ni-dake](https://cdn.myanimelist.net/images/manga/1/240079.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

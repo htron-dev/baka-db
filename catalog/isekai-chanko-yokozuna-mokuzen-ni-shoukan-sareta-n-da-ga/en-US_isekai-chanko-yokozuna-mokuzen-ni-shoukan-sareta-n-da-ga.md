@@ -1,5 +1,7 @@
 # Isekai Chanko: Yokozuna Mokuzen ni Shoukan sareta n da ga
 
+![isekai-chanko-yokozuna-mokuzen-ni-shoukan-sareta-n-da-ga](https://cdn.myanimelist.net/images/manga/1/213004.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界ちゃんこ ～横綱目前に召喚されたんだが～
 -   **start-date**: 2018-02-23

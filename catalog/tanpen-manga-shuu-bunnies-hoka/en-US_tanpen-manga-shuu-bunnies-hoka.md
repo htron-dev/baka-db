@@ -1,5 +1,7 @@
 # Tanpen Manga Shuu: Bunnies Hoka
 
+![tanpen-manga-shuu-bunnies-hoka](https://cdn.myanimelist.net/images/manga/1/64941.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

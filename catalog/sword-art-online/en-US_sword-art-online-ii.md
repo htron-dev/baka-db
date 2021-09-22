@@ -1,5 +1,7 @@
 # Sword Art Online II
 
+![sword-art-online-ii](https://cdn.myanimelist.net/images/anime/11/65185.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ソードアート・オンライン II

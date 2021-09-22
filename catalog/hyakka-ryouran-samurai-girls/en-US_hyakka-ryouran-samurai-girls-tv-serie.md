@@ -1,5 +1,7 @@
 # Hyakka Ryouran: Samurai Girls
 
+![hyakka-ryouran-samurai-girls](https://cdn.myanimelist.net/images/anime/9/27705.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 百花繚乱 サムライガールズ

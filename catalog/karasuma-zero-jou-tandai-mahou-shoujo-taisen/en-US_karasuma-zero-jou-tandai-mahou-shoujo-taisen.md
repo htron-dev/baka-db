@@ -1,5 +1,7 @@
 # Karasuma Zero-jou Tandai: Mahou Shoujo Taisen
 
+![karasuma-zero-jou-tandai-mahou-shoujo-taisen](https://cdn.myanimelist.net/images/manga/1/147365.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

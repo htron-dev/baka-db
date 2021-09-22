@@ -1,5 +1,7 @@
 # Ero♥Märchen: Ningyo-hime
 
+![ero♥-marchen-ningyo-hime](https://cdn.myanimelist.net/images/manga/1/169799.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 36

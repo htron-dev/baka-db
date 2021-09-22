@@ -1,5 +1,7 @@
 # Sewayaki Kitsune no Senko-san
 
+![sewayaki-kitsune-no-senko-san](https://cdn.myanimelist.net/images/manga/1/208944.jpg)
+
 -   **type**: manga
 -   **original-name**: 世話やきキツネの仙狐さん
 -   **start-date**: 2017-10-06

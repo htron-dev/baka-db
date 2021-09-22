@@ -1,5 +1,7 @@
 # Bakemonogatari Short Stories
 
+![bakemonogatari-short-stories](https://cdn.myanimelist.net/images/manga/1/39471.jpg)
+
 -   **type**: light-novel
 -   **chapters**: 5
 -   **original-name**: 化物語アニメコンプリートガイドブック

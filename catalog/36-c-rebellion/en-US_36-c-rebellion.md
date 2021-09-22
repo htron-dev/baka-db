@@ -1,5 +1,7 @@
 # 36°C Rebellion
 
+![36-c-rebellion](https://cdn.myanimelist.net/images/manga/1/11970.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **original-name**: 36℃의 반란

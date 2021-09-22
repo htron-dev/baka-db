@@ -1,5 +1,7 @@
 # Neringu Project
 
+![neringu-project](https://cdn.myanimelist.net/images/manga/3/22891.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ねりんぐプロジェクト

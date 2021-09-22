@@ -1,5 +1,7 @@
 # Love Portion
 
+![love-portion](https://cdn.myanimelist.net/images/manga/2/30002.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ラブポーション

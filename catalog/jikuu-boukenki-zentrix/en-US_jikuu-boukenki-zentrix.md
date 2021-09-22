@@ -1,5 +1,7 @@
 # Jikuu Boukenki Zentrix
 
+![jikuu-boukenki-zentrix](https://cdn.myanimelist.net/images/anime/4/10050.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 時空冒険記　ゼントリックス

@@ -1,5 +1,7 @@
 # Nekojiru Senbei
 
+![nekojiru-senbei](https://cdn.myanimelist.net/images/manga/2/180253.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 45

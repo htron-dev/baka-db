@@ -1,5 +1,7 @@
 # Candy Boy Episode: EX01 - Mirai Yohouzu
 
+![candy-boy-episode-ex-01-mirai-yohouzu](https://cdn.myanimelist.net/images/anime/10/35525.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: Candy boy episode: EX01 「ミライヨホウズ」

@@ -1,5 +1,7 @@
 # Kokuou Heika to Wessler no Musume
 
+![kokuou-heika-to-wessler-no-musume](https://cdn.myanimelist.net/images/manga/3/245121.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 国王陛下とウェスラーの娘

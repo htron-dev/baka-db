@@ -1,5 +1,7 @@
 # Pajama na Kanojo.
 
+![pajama-na-kanojo](https://cdn.myanimelist.net/images/manga/1/179390.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

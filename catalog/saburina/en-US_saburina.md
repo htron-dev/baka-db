@@ -1,5 +1,7 @@
 # Saburina
 
+![saburina](https://cdn.myanimelist.net/images/manga/2/38186.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: サブリナ

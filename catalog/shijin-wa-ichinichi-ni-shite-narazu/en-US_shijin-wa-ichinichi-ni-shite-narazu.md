@@ -1,5 +1,7 @@
 # Shijin wa Ichinichi ni Shite Narazu
 
+![shijin-wa-ichinichi-ni-shite-narazu](https://cdn.myanimelist.net/images/manga/3/3983.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

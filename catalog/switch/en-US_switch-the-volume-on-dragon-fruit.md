@@ -1,5 +1,7 @@
 # Switch: the volume on Dragon Fruit
 
+![switch-the-volume-on-dragon-fruit](https://cdn.myanimelist.net/images/manga/1/174715.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

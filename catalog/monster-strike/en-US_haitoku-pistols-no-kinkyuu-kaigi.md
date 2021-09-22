@@ -1,5 +1,7 @@
 # Haitoku Pistols no Kinkyuu Kaigi?
 
+![haitoku-pistols-no-kinkyuu-kaigi](https://cdn.myanimelist.net/images/anime/1497/99579.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 背徳ピストルズの緊急会議?

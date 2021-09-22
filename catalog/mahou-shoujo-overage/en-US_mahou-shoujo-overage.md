@@ -1,5 +1,7 @@
 # Mahou Shoujo Overage
 
+![mahou-shoujo-overage](https://cdn.myanimelist.net/images/manga/2/160785.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 魔法少女オーバーエイジ
 -   **start-date**: 2015-02-03

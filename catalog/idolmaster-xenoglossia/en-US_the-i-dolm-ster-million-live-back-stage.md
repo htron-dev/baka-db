@@ -1,5 +1,7 @@
 # The iDOLM@STER Million Live!: Back Stage
 
+![the-i-dolm-ster-million-live-back-stage](https://cdn.myanimelist.net/images/manga/1/162691.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: アイドルマスター ミリオンライブ！バックステージ

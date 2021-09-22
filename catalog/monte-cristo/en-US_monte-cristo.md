@@ -1,5 +1,7 @@
 # Monte Cristo
 
+![monte-cristo](https://cdn.myanimelist.net/images/manga/1/167507.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

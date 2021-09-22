@@ -1,5 +1,7 @@
 # Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
 
+![seija-musou-salaryman-isekai-de-ikinokoru-tame-ni-ayumu-michi](https://cdn.myanimelist.net/images/manga/3/220077.jpg)
+
 -   **type**: manga
 -   **original-name**: 聖者無双〜サラリーマン、異世界で生き残るために歩む道〜
 -   **start-date**: 2017-01-27

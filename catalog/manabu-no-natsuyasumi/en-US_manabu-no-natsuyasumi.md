@@ -1,5 +1,7 @@
 # Manabu no Natsuyasumi
 
+![manabu-no-natsuyasumi](https://cdn.myanimelist.net/images/anime/7/62273.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 学の夏休み

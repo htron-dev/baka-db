@@ -1,5 +1,7 @@
 # Zombitch wa Bitch ni Fukumaremasu ka?
 
+![zombitch-wa-bitch-ni-fukumaremasu-ka](https://cdn.myanimelist.net/images/manga/3/188844.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 40

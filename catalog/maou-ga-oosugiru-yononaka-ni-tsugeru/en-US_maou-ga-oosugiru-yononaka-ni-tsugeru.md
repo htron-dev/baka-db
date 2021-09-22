@@ -1,5 +1,7 @@
 # Maou ga Oosugiru Yononaka ni Tsugeru
 
+![maou-ga-oosugiru-yononaka-ni-tsugeru](https://cdn.myanimelist.net/images/manga/2/163627.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 15

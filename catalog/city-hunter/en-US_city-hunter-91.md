@@ -1,5 +1,7 @@
 # City Hunter '91
 
+![city-hunter-91](https://cdn.myanimelist.net/images/anime/7/50531.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: シティーハンター'91

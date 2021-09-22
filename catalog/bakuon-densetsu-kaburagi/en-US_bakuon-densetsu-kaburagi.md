@@ -1,5 +1,7 @@
 # Bakuon Densetsu Kaburagi
 
+![bakuon-densetsu-kaburagi](https://cdn.myanimelist.net/images/manga/2/208252.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 96

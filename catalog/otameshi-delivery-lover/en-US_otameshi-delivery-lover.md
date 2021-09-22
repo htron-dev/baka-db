@@ -1,5 +1,7 @@
 # Otameshi Delivery Lover
 
+![otameshi-delivery-lover](https://cdn.myanimelist.net/images/manga/1/221861.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Honey/Chocolate
 
+![honey-chocolate](https://cdn.myanimelist.net/images/manga/1/31107.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

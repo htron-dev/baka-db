@@ -1,5 +1,7 @@
 # Nante Suteki ni Japanesque
 
+![nante-suteki-ni-japanesque](https://cdn.myanimelist.net/images/manga/3/193164.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 85

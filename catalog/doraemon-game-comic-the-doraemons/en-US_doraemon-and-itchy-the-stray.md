@@ -1,5 +1,7 @@
 # Doraemon and Itchy the Stray
 
+![doraemon-and-itchy-the-stray](https://cdn.myanimelist.net/images/anime/12/57845.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ドラえもん のら犬「イチ」の国
@@ -9,7 +11,6 @@
 ## Tags
 
 -   comedy
-
 -   sci-fi
 -   shounen
 

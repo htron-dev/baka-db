@@ -1,5 +1,7 @@
 # Märchen Kachou to Nonke Kouhai-kun
 
+![marchen-kachou-to-nonke-kouhai-kun](https://cdn.myanimelist.net/images/manga/3/200649.jpg)
+
 -   **type**: manga
 -   **original-name**: メルヘン課長とノンケ後輩くん
 -   **start-date**: 2016-05-21

@@ -1,5 +1,7 @@
 # Kyou no Yuiko-san
 
+![kyou-no-yuiko-san](https://cdn.myanimelist.net/images/manga/1/158551.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 48

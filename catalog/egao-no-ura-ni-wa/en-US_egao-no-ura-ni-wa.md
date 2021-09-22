@@ -1,5 +1,7 @@
 # Egao no Ura ni wa
 
+![egao-no-ura-ni-wa](https://cdn.myanimelist.net/images/manga/2/238984.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

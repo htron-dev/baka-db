@@ -1,5 +1,7 @@
 # Ai to Iu Na no Sokubaku
 
+![ai-to-iu-na-no-sokubaku](https://cdn.myanimelist.net/images/manga/2/6241.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

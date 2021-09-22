@@ -1,5 +1,7 @@
 # Fairy Tail Gaiden
 
+![fairy-tail-gaiden](https://cdn.myanimelist.net/images/manga/2/171669.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 52

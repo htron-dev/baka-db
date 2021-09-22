@@ -1,5 +1,7 @@
 # Macross
 
+![macross](https://cdn.myanimelist.net/images/anime/1/2441.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 36
 -   **original-name**: 超時空要塞マクロス

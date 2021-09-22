@@ -1,5 +1,7 @@
 # Full Ahead! Coco
 
+![full-ahead-coco](https://cdn.myanimelist.net/images/manga/2/137661.jpg)
+
 -   **type**: manga
 -   **volumes**: 29
 -   **chapters**: 258

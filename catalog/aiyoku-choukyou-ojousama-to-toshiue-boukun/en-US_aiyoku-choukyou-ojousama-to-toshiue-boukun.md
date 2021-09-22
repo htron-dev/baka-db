@@ -1,5 +1,7 @@
 # Aiyoku Choukyou: Ojousama to Toshiue Boukun
 
+![aiyoku-choukyou-ojousama-to-toshiue-boukun](https://cdn.myanimelist.net/images/manga/2/192340.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

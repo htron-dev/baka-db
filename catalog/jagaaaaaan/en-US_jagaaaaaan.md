@@ -1,5 +1,7 @@
 # Jagaaaaaan
 
+![jagaaaaaan](https://cdn.myanimelist.net/images/manga/3/197327.jpg)
+
 -   **type**: manga
 -   **original-name**: ジャガーン
 -   **start-date**: 2017-02-06

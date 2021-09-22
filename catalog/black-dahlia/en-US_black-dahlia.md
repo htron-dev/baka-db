@@ -1,5 +1,7 @@
 # Black Dahlia
 
+![black-dahlia](https://cdn.myanimelist.net/images/manga/2/82472.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

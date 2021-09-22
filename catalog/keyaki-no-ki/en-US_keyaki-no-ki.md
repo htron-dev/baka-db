@@ -1,5 +1,7 @@
 # Keyaki no Ki
 
+![keyaki-no-ki](https://cdn.myanimelist.net/images/manga/3/36925.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

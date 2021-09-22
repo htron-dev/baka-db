@@ -1,5 +1,7 @@
 # River's End
 
+![rivers-end](https://cdn.myanimelist.net/images/manga/1/151521.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

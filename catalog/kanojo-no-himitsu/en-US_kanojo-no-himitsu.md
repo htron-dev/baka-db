@@ -1,5 +1,7 @@
 # Kanojo no Himitsu
 
+![kanojo-no-himitsu](https://cdn.myanimelist.net/images/manga/2/35801.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 彼女の秘密

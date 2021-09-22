@@ -1,5 +1,7 @@
 # ○-hon no Juunin
 
+![○-hon-no-juunin](https://cdn.myanimelist.net/images/manga/3/90541.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: ○ 本の住人

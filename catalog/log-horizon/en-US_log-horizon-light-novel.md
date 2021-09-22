@@ -1,5 +1,7 @@
 # Log Horizon
 
+![log-horizon](https://cdn.myanimelist.net/images/manga/2/105755.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ログ・ホライズン
 -   **start-date**: 2010-04-13

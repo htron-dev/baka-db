@@ -1,5 +1,7 @@
 # Wooser no Sono Higurashi: Ken to Pants to Wooser to
 
+![wooser-no-sono-higurashi-ken-to-pants-to-wooser-to](https://cdn.myanimelist.net/images/anime/10/45276.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: うーさーのその日暮らし　拳とパンツとうーさーと

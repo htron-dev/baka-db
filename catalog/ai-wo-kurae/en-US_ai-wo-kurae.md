@@ -1,5 +1,7 @@
 # Ai wo Kurae!!
 
+![ai-wo-kurae](https://cdn.myanimelist.net/images/manga/3/143971.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

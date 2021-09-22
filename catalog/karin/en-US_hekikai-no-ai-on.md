@@ -1,5 +1,7 @@
 # Hekikai no AiON
 
+![hekikai-no-ai-on](https://cdn.myanimelist.net/images/manga/3/16839.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 44

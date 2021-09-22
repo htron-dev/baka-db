@@ -1,5 +1,7 @@
 # Ikigami
 
+![ikigami](https://cdn.myanimelist.net/images/manga/3/145489.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 60

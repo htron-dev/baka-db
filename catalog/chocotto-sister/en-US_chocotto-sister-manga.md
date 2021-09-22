@@ -1,5 +1,7 @@
 # Chocotto Sister
 
+![chocotto-sister](https://cdn.myanimelist.net/images/manga/2/752.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 71

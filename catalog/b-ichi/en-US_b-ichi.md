@@ -1,5 +1,7 @@
 # B.Ichi
 
+![b-ichi](https://cdn.myanimelist.net/images/manga/2/32461.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

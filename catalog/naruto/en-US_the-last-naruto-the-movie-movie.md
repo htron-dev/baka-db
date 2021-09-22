@@ -1,5 +1,7 @@
 # The Last: Naruto the Movie
 
+![the-last-naruto-the-movie](https://cdn.myanimelist.net/images/anime/10/67631.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: THE LAST NARUTO THE MOVIE

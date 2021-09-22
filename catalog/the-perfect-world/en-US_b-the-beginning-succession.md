@@ -1,5 +1,7 @@
 # B: The Beginning Succession
 
+![b-the-beginning-succession](https://cdn.myanimelist.net/images/anime/1409/112177.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: B: The Beginning Succession

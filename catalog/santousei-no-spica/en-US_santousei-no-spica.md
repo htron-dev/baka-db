@@ -1,5 +1,7 @@
 # Santousei no Spica
 
+![santousei-no-spica](https://cdn.myanimelist.net/images/manga/2/205858.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 31

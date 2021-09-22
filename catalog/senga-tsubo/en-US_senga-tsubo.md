@@ -1,5 +1,7 @@
 # Senga Tsubo
 
+![senga-tsubo](https://cdn.myanimelist.net/images/anime/4/84440.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 線畫 つぼ

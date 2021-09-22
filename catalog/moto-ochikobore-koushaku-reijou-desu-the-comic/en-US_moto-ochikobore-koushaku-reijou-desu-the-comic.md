@@ -1,5 +1,7 @@
 # Moto, Ochikobore Koushaku Reijou desu. The Comic
 
+![moto-ochikobore-koushaku-reijou-desu-the-comic](https://cdn.myanimelist.net/images/manga/3/242081.jpg)
+
 -   **type**: manga
 -   **original-name**: 元、落ちこぼれ公爵令嬢です。THE COMIC
 -   **start-date**: 2020-09-15

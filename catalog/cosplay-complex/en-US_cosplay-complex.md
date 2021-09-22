@@ -1,5 +1,7 @@
 # Cosplay Complex
 
+![cosplay-complex](https://cdn.myanimelist.net/images/anime/13/19185.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: こすぷれ COMPLEX

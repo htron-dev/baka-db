@@ -1,5 +1,7 @@
 # Code Geass: Boukoku no Akito 3 - Kagayaku Mono Ten yori Otsu
 
+![code-geass-boukoku-no-akito-3-kagayaku-mono-ten-yori-otsu](https://cdn.myanimelist.net/images/anime/12/72698.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: コードギアス 亡国のアキト 第３章「輝くもの天より堕つ」

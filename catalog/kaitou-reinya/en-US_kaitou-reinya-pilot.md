@@ -1,5 +1,7 @@
 # Kaitou Reinya Pilot
 
+![kaitou-reinya-pilot](https://cdn.myanimelist.net/images/anime/10/49277.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 「怪盗レーニャ」パイロット版

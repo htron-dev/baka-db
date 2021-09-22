@@ -1,5 +1,7 @@
 # Akita Imokko! Ebina-chan
 
+![akita-imokko-ebina-chan](https://cdn.myanimelist.net/images/manga/2/187219.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

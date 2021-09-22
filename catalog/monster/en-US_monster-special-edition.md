@@ -1,5 +1,7 @@
 # Monster Special Edition
 
+![monster-special-edition](https://cdn.myanimelist.net/images/anime/1226/99268.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: モンスター スペシャルバージョン

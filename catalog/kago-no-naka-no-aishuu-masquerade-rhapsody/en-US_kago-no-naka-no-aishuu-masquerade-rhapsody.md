@@ -1,5 +1,7 @@
 # Kago no Naka no Aishuu: Masquerade Rhapsody
 
+![kago-no-naka-no-aishuu-masquerade-rhapsody](https://cdn.myanimelist.net/images/manga/1/194271.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

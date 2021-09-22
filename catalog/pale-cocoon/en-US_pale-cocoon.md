@@ -1,5 +1,7 @@
 # Pale Cocoon
 
+![pale-cocoon](https://cdn.myanimelist.net/images/anime/2/3211.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ペイル・コクーン

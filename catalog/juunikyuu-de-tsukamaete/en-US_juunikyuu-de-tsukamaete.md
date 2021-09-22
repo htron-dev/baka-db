@@ -1,5 +1,7 @@
 # Juunikyuu de Tsukamaete
 
+![juunikyuu-de-tsukamaete](https://cdn.myanimelist.net/images/manga/2/801.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

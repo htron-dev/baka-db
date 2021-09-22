@@ -1,5 +1,7 @@
 # Chiisana Neko wo Shoukan Dekita nara
 
+![chiisana-neko-wo-shoukan-dekita-nara](https://cdn.myanimelist.net/images/manga/1/228417.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 30

@@ -1,5 +1,7 @@
 # IDOLiSH7
 
+![ido-li-sh-7](https://cdn.myanimelist.net/images/anime/1390/90828.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 17
 -   **original-name**: アイドリッシュセブン

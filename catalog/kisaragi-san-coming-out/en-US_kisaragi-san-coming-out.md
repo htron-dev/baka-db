@@ -1,5 +1,7 @@
 # Kisaragi-san Coming Out
 
+![kisaragi-san-coming-out](https://cdn.myanimelist.net/images/manga/1/246187.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

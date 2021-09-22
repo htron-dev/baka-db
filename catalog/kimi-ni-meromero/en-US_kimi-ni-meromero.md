@@ -1,5 +1,7 @@
 # Kimi ni, Meromero
 
+![kimi-ni-meromero](https://cdn.myanimelist.net/images/manga/3/16809.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Magi: Sinbad no Bouken
 
+![magi-sinbad-no-bouken](https://cdn.myanimelist.net/images/anime/13/60471.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: マギ シンドバッドの冒険

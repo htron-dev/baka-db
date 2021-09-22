@@ -1,5 +1,7 @@
 # The End of Youth
 
+![the-end-of-youth](https://cdn.myanimelist.net/images/manga/4/34969.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

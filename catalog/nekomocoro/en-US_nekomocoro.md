@@ -1,5 +1,7 @@
 # Nekomocoro
 
+![nekomocoro](https://cdn.myanimelist.net/images/manga/2/174639.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

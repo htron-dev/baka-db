@@ -1,5 +1,7 @@
 # Kizuna
 
+![kizuna](https://cdn.myanimelist.net/images/manga/3/34208.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: キズナ

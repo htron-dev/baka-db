@@ -1,5 +1,7 @@
 # Air Master
 
+![air-master](https://cdn.myanimelist.net/images/anime/2/21019.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 27
 -   **original-name**: エアマスター

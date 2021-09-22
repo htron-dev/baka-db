@@ -1,5 +1,7 @@
 # Gakkou wo Deyou!
 
+![gakkou-wo-deyou](https://cdn.myanimelist.net/images/manga/1/207970.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **original-name**: 学校を出よう！

@@ -1,5 +1,7 @@
 # Noobow: Na Kokoro
 
+![noobow-na-kokoro](https://cdn.myanimelist.net/images/anime/7/49789.jpg)
+
 -   **type**: ona
 -   **episodes**: 52
 -   **original-name**: ぬ～ぼ～なこころ

@@ -1,5 +1,7 @@
 # Jihai
 
+![jihai](https://cdn.myanimelist.net/images/manga/2/21443.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

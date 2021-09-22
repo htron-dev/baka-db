@@ -1,5 +1,7 @@
 # Sentou no Susume
 
+![sentou-no-susume](https://cdn.myanimelist.net/images/manga/1/215126.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: セントウのススメ

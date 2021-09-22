@@ -1,5 +1,7 @@
 # El El
 
+![el-el](https://cdn.myanimelist.net/images/manga/2/102489.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

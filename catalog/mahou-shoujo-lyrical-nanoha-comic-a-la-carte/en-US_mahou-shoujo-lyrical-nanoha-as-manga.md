@@ -1,5 +1,7 @@
 # Mahou Shoujo Lyrical Nanoha A's
 
+![mahou-shoujo-lyrical-nanoha-as](https://cdn.myanimelist.net/images/manga/1/33371.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

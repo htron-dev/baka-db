@@ -1,5 +1,7 @@
 # Alice no Shousei
 
+![alice-no-shousei](https://cdn.myanimelist.net/images/manga/1/111951.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 26

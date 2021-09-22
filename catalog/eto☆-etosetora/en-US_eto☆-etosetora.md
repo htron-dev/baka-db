@@ -1,5 +1,7 @@
 # Eto☆Etosetora
 
+![eto☆-etosetora](https://cdn.myanimelist.net/images/manga/3/133043.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

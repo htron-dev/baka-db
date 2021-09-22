@@ -1,5 +1,7 @@
 # 3-bu de Wakaru Koizumi Yakumo no Kaidan
 
+![3-bu-de-wakaru-koizumi-yakumo-no-kaidan](https://cdn.myanimelist.net/images/anime/1781/91681.jpg)
+
 -   **type**: ona
 -   **episodes**: 7
 -   **original-name**: ３分で分かる小泉八雲の怪談

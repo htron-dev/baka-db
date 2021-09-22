@@ -1,5 +1,7 @@
 # Saradinaasa
 
+![saradinaasa](https://cdn.myanimelist.net/images/manga/1/33277.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: サラディナーサ

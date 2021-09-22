@@ -1,5 +1,7 @@
 # Hong Mao Lan Tu: Zhang Jian Zou Tianya
 
+![hong-mao-lan-tu-zhang-jian-zou-tianya](https://cdn.myanimelist.net/images/anime/1091/98703.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 108
 -   **original-name**: 虹猫蓝兔仗剑走天涯

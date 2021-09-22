@@ -1,5 +1,7 @@
 # Ijimerare Daikou Robo: Hikage no Nichijou
 
+![ijimerare-daikou-robo-hikage-no-nichijou](https://cdn.myanimelist.net/images/manga/1/240275.jpg)
+
 -   **type**: manga
 -   **chapters**: 20
 -   **original-name**: イジメられ代行ロボ ヒカゲの日常

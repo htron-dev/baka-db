@@ -1,5 +1,7 @@
 # Naruhodo☆Kotowaza Gundam-san
 
+![naruhodo☆-kotowaza-gundam-san](https://cdn.myanimelist.net/images/manga/3/28095.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 36

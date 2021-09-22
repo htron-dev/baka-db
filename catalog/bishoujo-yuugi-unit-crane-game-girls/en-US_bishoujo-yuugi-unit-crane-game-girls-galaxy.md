@@ -1,5 +1,7 @@
 # Bishoujo Yuugi Unit Crane Game Girls Galaxy
 
+![bishoujo-yuugi-unit-crane-game-girls-galaxy](https://cdn.myanimelist.net/images/anime/3/81924.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 美少女遊戯ユニット クレーンゲールギャラクシー

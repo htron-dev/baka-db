@@ -1,5 +1,7 @@
 # Bokura no Yukue wa
 
+![bokura-no-yukue-wa](https://cdn.myanimelist.net/images/manga/1/107659.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

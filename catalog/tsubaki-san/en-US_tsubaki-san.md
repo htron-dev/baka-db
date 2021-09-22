@@ -1,5 +1,7 @@
 # Tsubaki-san
 
+![tsubaki-san](https://cdn.myanimelist.net/images/manga/2/195807.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 椿さん

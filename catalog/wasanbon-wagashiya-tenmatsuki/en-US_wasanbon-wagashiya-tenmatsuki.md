@@ -1,5 +1,7 @@
 # Wasanbon: Wagashiya Tenmatsuki
 
+![wasanbon-wagashiya-tenmatsuki](https://cdn.myanimelist.net/images/manga/3/182281.jpg)
+
 -   **type**: manga
 -   **original-name**: わさんぼん～和菓子屋顛末記～
 -   **start-date**: 2009-01-07

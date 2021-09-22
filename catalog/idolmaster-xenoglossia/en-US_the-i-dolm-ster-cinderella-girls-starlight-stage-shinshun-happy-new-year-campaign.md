@@ -1,5 +1,7 @@
 # THE iDOLM@STER Cinderella Girls: Starlight Stage - Shinshun! Happy New Year Campaign
 
+![the-i-dolm-ster-cinderella-girls-starlight-stage-shinshun-happy-new-year-campaign](https://cdn.myanimelist.net/images/anime/3/90095.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: アイドルマスター シンデレラガールズ スターライトステージ 新春！ハッピーニューイヤーキャンペーン

@@ -1,5 +1,7 @@
 # Maho Nee's☆Triangle
 
+![maho-nees☆-triangle](https://cdn.myanimelist.net/images/manga/2/164126.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # Kyou kara Yonshimai
 
+![kyou-kara-yonshimai](https://cdn.myanimelist.net/images/manga/2/133523.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

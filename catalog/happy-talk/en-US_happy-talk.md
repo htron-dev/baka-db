@@ -1,5 +1,7 @@
 # Happy Talk
 
+![happy-talk](https://cdn.myanimelist.net/images/manga/2/45296.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

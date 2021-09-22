@@ -1,5 +1,7 @@
 # Kawa no Hikari
 
+![kawa-no-hikari](https://cdn.myanimelist.net/images/anime/9/47005.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 川の光

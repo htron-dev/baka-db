@@ -1,5 +1,7 @@
 # Grim Reaper
 
+![grim-reaper](https://cdn.myanimelist.net/images/manga/2/25102.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

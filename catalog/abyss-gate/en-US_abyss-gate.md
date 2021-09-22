@@ -1,5 +1,7 @@
 # Abyss Gate
 
+![abyss-gate](https://cdn.myanimelist.net/images/manga/3/162593.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 4

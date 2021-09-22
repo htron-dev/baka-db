@@ -1,5 +1,7 @@
 # Pokémon Colosseum: Snatcher Leo
 
+![pokemon-colosseum-snatcher-leo](https://cdn.myanimelist.net/images/manga/2/36641.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: ポケモンコロシアム スナッチャーズレオ

@@ -1,5 +1,7 @@
 # RobiHachi
 
+![robi-hachi](https://cdn.myanimelist.net/images/anime/1555/100447.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ロビハチ

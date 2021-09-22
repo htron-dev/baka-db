@@ -1,5 +1,7 @@
 # Tsubaki-sama wa Sakihokorenai
 
+![tsubaki-sama-wa-sakihokorenai](https://cdn.myanimelist.net/images/manga/2/210076.jpg)
+
 -   **type**: manga
 -   **original-name**: 椿様は咲き誇れない
 -   **start-date**: 2017-10-27

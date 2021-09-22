@@ -1,5 +1,7 @@
 # Seton Doubutsuki: Kuma no Ko Jacky
 
+![seton-doubutsuki-kuma-no-ko-jacky](https://cdn.myanimelist.net/images/anime/6/8643.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: シートン動物記　くまの子ジャッキー

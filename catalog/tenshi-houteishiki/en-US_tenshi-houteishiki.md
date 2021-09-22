@@ -1,5 +1,7 @@
 # Tenshi ½ Houteishiki
 
+![tenshi-houteishiki](https://cdn.myanimelist.net/images/manga/1/210736.jpg)
+
 -   **type**: manga
 -   **original-name**: 天使 ½ 方程式
 -   **start-date**: 2010-09-04

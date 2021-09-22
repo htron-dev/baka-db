@@ -1,5 +1,7 @@
 # "Chikatetsu ni Noru" Series: Kyo Girls Days - Uzumasa Moe no Tsukumo Gikyoku
 
+![chikatetsu-ni-noru-series-kyo-girls-days-uzumasa-moe-no-tsukumo-gikyoku](https://cdn.myanimelist.net/images/manga/3/170942.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 13

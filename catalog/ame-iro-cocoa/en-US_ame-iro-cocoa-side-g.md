@@ -1,5 +1,7 @@
 # Ame-iro Cocoa: Side G
 
+![ame-iro-cocoa-side-g](https://cdn.myanimelist.net/images/anime/1394/111379.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 雨色ココア side G

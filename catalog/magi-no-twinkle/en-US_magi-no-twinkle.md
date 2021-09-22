@@ -1,5 +1,7 @@
 # Magi no Twinkle
 
+![magi-no-twinkle](https://cdn.myanimelist.net/images/manga/2/126161.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ＭＡＧＩの天星姫(ツインクル)

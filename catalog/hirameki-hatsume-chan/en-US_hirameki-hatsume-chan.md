@@ -1,5 +1,7 @@
 # Hirameki Hatsume-chan
 
+![hirameki-hatsume-chan](https://cdn.myanimelist.net/images/manga/2/168037.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 84

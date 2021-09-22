@@ -1,5 +1,7 @@
 # Oz no Mahoutsukai (1986)
 
+![oz-no-mahoutsukai-1986](https://cdn.myanimelist.net/images/anime/13/64339.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: オズの魔法使い
@@ -12,7 +14,6 @@
 ## Tags
 
 -   adventure
-
 -   fantasy
 
 ## Sinopse

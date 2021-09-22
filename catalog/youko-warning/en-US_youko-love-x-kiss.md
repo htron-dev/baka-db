@@ -1,5 +1,7 @@
 # Youko + Love x Kiss!
 
+![youko-love-x-kiss](https://cdn.myanimelist.net/images/manga/2/227073.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 12

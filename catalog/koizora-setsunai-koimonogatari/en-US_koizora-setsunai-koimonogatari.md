@@ -1,5 +1,7 @@
 # Koizora: Setsunai Koimonogatari
 
+![koizora-setsunai-koimonogatari](https://cdn.myanimelist.net/images/manga/2/14961.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 30

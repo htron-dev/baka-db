@@ -1,5 +1,7 @@
 # Kikou Kai Galient
 
+![kikou-kai-galient](https://cdn.myanimelist.net/images/anime/1951/90860.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 機甲界ガリアン

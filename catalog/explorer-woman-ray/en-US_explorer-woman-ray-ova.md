@@ -1,5 +1,7 @@
 # Explorer Woman Ray
 
+![explorer-woman-ray](https://cdn.myanimelist.net/images/anime/10/56653.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: EXPLORER WOMAN RAY (エクスプローラーウーマン・レイ)

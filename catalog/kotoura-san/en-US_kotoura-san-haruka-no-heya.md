@@ -1,5 +1,7 @@
 # Kotoura-san: Haruka no Heya
 
+![kotoura-san-haruka-no-heya](https://cdn.myanimelist.net/images/anime/10/45090.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: 琴浦さん 春香の部屋

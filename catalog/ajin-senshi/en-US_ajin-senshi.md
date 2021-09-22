@@ -1,5 +1,7 @@
 # Ajin Senshi
 
+![ajin-senshi](https://cdn.myanimelist.net/images/anime/12/46245.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 亜人戦士

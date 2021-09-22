@@ -1,5 +1,7 @@
 # Capricious Bullet
 
+![capricious-bullet](https://cdn.myanimelist.net/images/manga/1/38946.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: カプリシャス·ブレット

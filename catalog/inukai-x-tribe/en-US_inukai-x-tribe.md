@@ -1,5 +1,7 @@
 # Inukai x Tribe
 
+![inukai-x-tribe](https://cdn.myanimelist.net/images/manga/3/161403.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

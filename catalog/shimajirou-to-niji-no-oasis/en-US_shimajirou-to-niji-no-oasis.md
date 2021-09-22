@@ -1,5 +1,7 @@
 # Shimajirou to Niji no Oasis
 
+![shimajirou-to-niji-no-oasis](https://cdn.myanimelist.net/images/anime/6/82636.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: しまじろうと にじのオアシス

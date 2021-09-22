@@ -1,5 +1,7 @@
 # Muromachi - Haru no Ran: Kurenai no Ame
 
+![muromachi-haru-no-ran-kurenai-no-ame](https://cdn.myanimelist.net/images/manga/2/131803.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

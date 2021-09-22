@@ -1,5 +1,7 @@
 # Gamers!
 
+![gamers](https://cdn.myanimelist.net/images/manga/2/193275.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 34

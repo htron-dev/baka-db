@@ -1,5 +1,7 @@
 # Nozomi Vision
 
+![nozomi-vision](https://cdn.myanimelist.net/images/manga/3/18392.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 7

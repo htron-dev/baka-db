@@ -1,5 +1,7 @@
 # Wu Shan Wu Xing
 
+![wu-shan-wu-xing](https://cdn.myanimelist.net/images/anime/1335/108930.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: 雾山五行

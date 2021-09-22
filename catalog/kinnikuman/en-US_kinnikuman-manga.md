@@ -1,5 +1,7 @@
 # Kinnikuman
 
+![kinnikuman](https://cdn.myanimelist.net/images/manga/2/244752.jpg)
+
 -   **type**: manga
 -   **original-name**: キン肉マン
 -   **start-date**: 1979-05-15

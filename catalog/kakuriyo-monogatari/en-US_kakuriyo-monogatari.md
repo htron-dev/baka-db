@@ -1,5 +1,7 @@
 # Kakuriyo Monogatari
 
+![kakuriyo-monogatari](https://cdn.myanimelist.net/images/manga/2/109823.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 68

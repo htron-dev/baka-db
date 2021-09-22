@@ -1,5 +1,7 @@
 # Last Boss no Mukougawa
 
+![last-boss-no-mukougawa](https://cdn.myanimelist.net/images/manga/2/190343.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ラスボスの向こう側
 -   **start-date**: 2017-01-21

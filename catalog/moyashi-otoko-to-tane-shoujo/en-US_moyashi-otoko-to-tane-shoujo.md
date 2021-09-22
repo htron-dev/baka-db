@@ -1,5 +1,7 @@
 # Moyashi Otoko to Tane Shoujo
 
+![moyashi-otoko-to-tane-shoujo](https://cdn.myanimelist.net/images/manga/5/73137.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

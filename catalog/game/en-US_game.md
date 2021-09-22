@@ -1,5 +1,7 @@
 # Game
 
+![game](https://cdn.myanimelist.net/images/manga/3/134927.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

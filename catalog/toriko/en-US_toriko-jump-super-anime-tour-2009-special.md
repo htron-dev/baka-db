@@ -1,5 +1,7 @@
 # Toriko: Jump Super Anime Tour 2009 Special
 
+![toriko-jump-super-anime-tour-2009-special](https://cdn.myanimelist.net/images/anime/1316/100672.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: トリコ

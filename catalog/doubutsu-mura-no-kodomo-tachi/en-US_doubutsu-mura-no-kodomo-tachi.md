@@ -1,5 +1,7 @@
 # Doubutsu Mura no Kodomo-tachi
 
+![doubutsu-mura-no-kodomo-tachi](https://cdn.myanimelist.net/images/anime/11/82356.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: どうぶつむらのこどもたち

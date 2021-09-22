@@ -1,5 +1,7 @@
 # Nekogami Yaoyorozu
 
+![nekogami-yaoyorozu](https://cdn.myanimelist.net/images/anime/2/73476.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 猫神やおよろず

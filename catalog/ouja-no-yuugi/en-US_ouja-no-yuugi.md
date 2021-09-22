@@ -1,5 +1,7 @@
 # Ouja no Yuugi
 
+![ouja-no-yuugi](https://cdn.myanimelist.net/images/manga/3/157874.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 34

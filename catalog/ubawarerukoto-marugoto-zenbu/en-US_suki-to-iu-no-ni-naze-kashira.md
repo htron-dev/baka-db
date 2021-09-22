@@ -1,5 +1,7 @@
 # Suki to Iu no ni Naze Kashira
 
+![suki-to-iu-no-ni-naze-kashira](https://cdn.myanimelist.net/images/manga/3/36855.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

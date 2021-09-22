@@ -1,5 +1,7 @@
 # Trap Heroine
 
+![trap-heroine](https://cdn.myanimelist.net/images/manga/2/210473.jpg)
+
 -   **type**: manga
 -   **original-name**: トラップヒロイン
 -   **start-date**: 2017-12-31

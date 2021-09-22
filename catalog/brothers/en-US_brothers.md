@@ -1,5 +1,7 @@
 # Brothers
 
+![brothers](https://cdn.myanimelist.net/images/manga/3/19457.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

@@ -1,5 +1,7 @@
 # Sakurako Hakase no Memoria Tree
 
+![sakurako-hakase-no-memoria-tree](https://cdn.myanimelist.net/images/manga/2/198548.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

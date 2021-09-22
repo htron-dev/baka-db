@@ -1,5 +1,7 @@
 # Haburi
 
+![haburi](https://cdn.myanimelist.net/images/manga/3/220742.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

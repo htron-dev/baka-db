@@ -1,5 +1,7 @@
 # Kujibiki Tokushou: Musou Harem-ken
 
+![kujibiki-tokushou-musou-harem-ken](https://cdn.myanimelist.net/images/manga/2/221247.jpg)
+
 -   **type**: manga
 -   **original-name**: くじ引き特賞:無双ハーレム権
 -   **start-date**: 2018-11-23

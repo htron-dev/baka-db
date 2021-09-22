@@ -1,5 +1,7 @@
 # Shin Fortune Quest
 
+![shin-fortune-quest](https://cdn.myanimelist.net/images/manga/3/74013.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 20
 -   **original-name**: 新フォーチュン・クエスト

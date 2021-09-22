@@ -1,5 +1,7 @@
 # Ragna Crown
 
+![ragna-crown](https://cdn.myanimelist.net/images/manga/1/123279.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: ラグナ・クラウン

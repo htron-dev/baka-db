@@ -1,5 +1,7 @@
 # Cronos: Shikkoku no Shinwa
 
+![cronos-shikkoku-no-shinwa](https://cdn.myanimelist.net/images/manga/2/80069.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: -クロノス- 漆黒の神話

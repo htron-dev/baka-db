@@ -1,5 +1,7 @@
 # Bocchi Hakase to Robot Shoujo no Zetsubouteki Utopia
 
+![bocchi-hakase-to-robot-shoujo-no-zetsubouteki-utopia](https://cdn.myanimelist.net/images/manga/3/201248.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 33

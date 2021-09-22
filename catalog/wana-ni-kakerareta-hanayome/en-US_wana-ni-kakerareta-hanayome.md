@@ -1,5 +1,7 @@
 # Wana ni Kakerareta Hanayome
 
+![wana-ni-kakerareta-hanayome](https://cdn.myanimelist.net/images/manga/1/153336.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 罠にかけられた花嫁

@@ -1,5 +1,7 @@
 # Itazura Tenshi Chippo-chan
 
+![itazura-tenshi-chippo-chan](https://cdn.myanimelist.net/images/anime/10/53413.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 240
 -   **original-name**: いたずら天使チッポちゃん

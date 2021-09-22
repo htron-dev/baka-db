@@ -1,5 +1,7 @@
 # Sweet Magic Syndrome
 
+![sweet-magic-syndrome](https://cdn.myanimelist.net/images/manga/2/82614.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 41

@@ -1,5 +1,7 @@
 # ZIP! x Peeping Life TV: Cool Japan Saizensen
 
+![zip-x-peeping-life-tv-cool-japan-saizensen](https://cdn.myanimelist.net/images/anime/10/78537.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: ZIP!×Peeping Life TV「クールジャパン最前線」

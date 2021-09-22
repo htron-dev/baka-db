@@ -1,5 +1,7 @@
 # Onigami no Sumu Ie
 
+![onigami-no-sumu-ie](https://cdn.myanimelist.net/images/manga/1/48901.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

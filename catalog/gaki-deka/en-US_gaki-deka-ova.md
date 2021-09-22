@@ -1,5 +1,7 @@
 # Gaki Deka (OVA)
 
+![gaki-deka-ova](https://cdn.myanimelist.net/images/anime/6/61475.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: がきデカ
@@ -10,7 +12,6 @@
 
 -   comedy
 -   ecchi
-
 -   parody
 -   shounen
 

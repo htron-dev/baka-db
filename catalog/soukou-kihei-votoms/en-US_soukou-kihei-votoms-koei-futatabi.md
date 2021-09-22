@@ -1,5 +1,7 @@
 # Soukou Kihei Votoms: Koei Futatabi
 
+![soukou-kihei-votoms-koei-futatabi](https://cdn.myanimelist.net/images/anime/4/82162.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 装甲騎兵ボトムズ 孤影再び

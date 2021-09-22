@@ -1,5 +1,7 @@
 # Nora to Oujo to Noraneko Heart
 
+![nora-to-oujo-to-noraneko-heart](https://cdn.myanimelist.net/images/anime/1969/116702.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: ノラと皇女と野良猫ハート

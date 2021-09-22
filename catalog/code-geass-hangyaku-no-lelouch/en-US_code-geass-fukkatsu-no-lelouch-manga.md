@@ -1,5 +1,7 @@
 # Code Geass: Fukkatsu no Lelouch
 
+![code-geass-fukkatsu-no-lelouch](https://cdn.myanimelist.net/images/manga/1/245515.jpg)
+
 -   **type**: manga
 -   **original-name**: コードギアス 復活のルルーシュ
 -   **start-date**: 2020-04-24

@@ -1,5 +1,7 @@
 # Pokemon Fushigi no Dungeon: Toki no Tankentai, Yami no Tankentai
 
+![pokemon-fushigi-no-dungeon-toki-no-tankentai-yami-no-tankentai](https://cdn.myanimelist.net/images/anime/1726/109889.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ポケモン不思議のダンジョン 時の探検隊・闇の探検隊

@@ -1,5 +1,7 @@
 # Imaginary
 
+![imaginary](https://cdn.myanimelist.net/images/manga/3/244721.jpg)
+
 -   **type**: manga
 -   **original-name**: イマジナリー
 -   **start-date**: 2018-02-28

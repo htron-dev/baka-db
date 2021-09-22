@@ -1,5 +1,7 @@
 # Baton
 
+![baton](https://cdn.myanimelist.net/images/anime/5/50623.jpg)
+
 -   **type**: movie
 -   **episodes**: 3
 -   **original-name**: バトン

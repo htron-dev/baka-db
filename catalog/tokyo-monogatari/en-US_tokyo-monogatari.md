@@ -1,5 +1,7 @@
 # Tokyo Monogatari
 
+![tokyo-monogatari](https://cdn.myanimelist.net/images/manga/2/221746.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

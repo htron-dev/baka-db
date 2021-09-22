@@ -1,5 +1,7 @@
 # Kiss wa Ichinichi Sando Made!?
 
+![kiss-wa-ichinichi-sando-made](https://cdn.myanimelist.net/images/manga/3/2863.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

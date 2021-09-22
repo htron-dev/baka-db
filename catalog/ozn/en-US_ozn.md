@@ -1,5 +1,7 @@
 # OZN
 
+![ozn](https://cdn.myanimelist.net/images/manga/2/44329.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: オズヌ

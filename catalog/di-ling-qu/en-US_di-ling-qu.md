@@ -1,5 +1,7 @@
 # Di Ling Qu
 
+![di-ling-qu](https://cdn.myanimelist.net/images/anime/1446/100730.jpg)
+
 -   **type**: ona
 -   **episodes**: 18
 -   **start-date**: 2017-09-19

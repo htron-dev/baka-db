@@ -1,5 +1,7 @@
 # Izumi-san wa Miboujin desushi...
 
+![izumi-san-wa-miboujin-desushi](https://cdn.myanimelist.net/images/manga/2/221737.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

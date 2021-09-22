@@ -1,5 +1,7 @@
 # Watashi no Tama-no-Koshi Keikaku!
 
+![watashi-no-tama-no-koshi-keikaku](https://cdn.myanimelist.net/images/manga/1/180942.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 私の玉の輿計画！

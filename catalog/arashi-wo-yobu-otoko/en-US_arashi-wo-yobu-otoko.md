@@ -1,5 +1,7 @@
 # Arashi wo Yobu Otoko
 
+![arashi-wo-yobu-otoko](https://cdn.myanimelist.net/images/manga/2/181481.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

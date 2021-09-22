@@ -1,5 +1,7 @@
 # Weiqi Shaonian
 
+![weiqi-shaonian](https://cdn.myanimelist.net/images/anime/2/27549.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 围棋少年

@@ -1,5 +1,7 @@
 # Wonder!
 
+![wonder](https://cdn.myanimelist.net/images/manga/2/45447.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 96

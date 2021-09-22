@@ -1,5 +1,7 @@
 # Ishura
 
+![ishura](https://cdn.myanimelist.net/images/manga/3/246915.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異修羅
 -   **start-date**: 2019-09-17

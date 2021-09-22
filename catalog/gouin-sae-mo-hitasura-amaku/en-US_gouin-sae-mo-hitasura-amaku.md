@@ -1,5 +1,7 @@
 # Gouin Sae mo Hitasura Amaku
 
+![gouin-sae-mo-hitasura-amaku](https://cdn.myanimelist.net/images/manga/3/194136.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 強引さえもひたすら甘く

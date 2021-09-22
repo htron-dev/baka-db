@@ -1,5 +1,7 @@
 # Yuru Yuri San☆Hai!
 
+![yuru-yuri-san☆-hai](https://cdn.myanimelist.net/images/anime/7/76667.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ゆるゆり さん ☆ ハイ！

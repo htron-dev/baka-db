@@ -1,5 +1,7 @@
 # Rean no Tsubasa
 
+![rean-no-tsubasa](https://cdn.myanimelist.net/images/anime/13/28902.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: リーンの翼

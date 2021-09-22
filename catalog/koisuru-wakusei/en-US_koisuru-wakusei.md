@@ -1,5 +1,7 @@
 # Koisuru Wakusei
 
+![koisuru-wakusei](https://cdn.myanimelist.net/images/manga/1/82060.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

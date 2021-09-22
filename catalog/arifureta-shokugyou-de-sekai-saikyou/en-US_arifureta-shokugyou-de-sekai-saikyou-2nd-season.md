@@ -1,5 +1,7 @@
 # Arifureta Shokugyou de Sekai Saikyou 2nd Season
 
+![arifureta-shokugyou-de-sekai-saikyou-2nd-season](https://cdn.myanimelist.net/images/anime/1548/114444.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ありふれた職業で世界最強 2nd Season
 -   **start-date**: 2022-01-20

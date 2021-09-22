@@ -1,5 +1,7 @@
 # Toukarl Sheep Hon Mura
 
+![toukarl-sheep-hon-mura](https://cdn.myanimelist.net/images/manga/2/64699.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

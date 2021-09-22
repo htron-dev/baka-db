@@ -1,5 +1,7 @@
 # Dorami-chan: Wow, The Kid Gang of Bandits
 
+![dorami-chan-wow-the-kid-gang-of-bandits](https://cdn.myanimelist.net/images/anime/8/38789.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラミちゃん アララ・少年山賊団！

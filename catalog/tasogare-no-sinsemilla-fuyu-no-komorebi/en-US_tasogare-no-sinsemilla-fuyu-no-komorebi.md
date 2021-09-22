@@ -1,5 +1,7 @@
 # Tasogare no Sinsemilla: Fuyu no Komorebi
 
+![tasogare-no-sinsemilla-fuyu-no-komorebi](https://cdn.myanimelist.net/images/manga/3/178446.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Aishuu no Kanon
 
+![aishuu-no-kanon](https://cdn.myanimelist.net/images/manga/1/160567.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

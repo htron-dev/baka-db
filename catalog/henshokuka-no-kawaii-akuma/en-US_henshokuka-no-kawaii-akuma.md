@@ -1,5 +1,7 @@
 # Henshokuka no Kawaii Akuma
 
+![henshokuka-no-kawaii-akuma](https://cdn.myanimelist.net/images/manga/3/195791.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

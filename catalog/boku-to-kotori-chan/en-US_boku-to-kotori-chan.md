@@ -1,5 +1,7 @@
 # Boku to Kotori-chan
 
+![boku-to-kotori-chan](https://cdn.myanimelist.net/images/manga/3/153557.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

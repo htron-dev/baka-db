@@ -1,5 +1,7 @@
 # The Ring 4: Birthday
 
+![the-ring-4-birthday](https://cdn.myanimelist.net/images/manga/1/2620.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

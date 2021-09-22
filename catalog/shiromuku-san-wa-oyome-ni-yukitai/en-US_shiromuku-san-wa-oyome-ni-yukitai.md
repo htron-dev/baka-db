@@ -1,5 +1,7 @@
 # Shiromuku-san wa Oyome ni Yukitai
 
+![shiromuku-san-wa-oyome-ni-yukitai](https://cdn.myanimelist.net/images/manga/3/216964.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

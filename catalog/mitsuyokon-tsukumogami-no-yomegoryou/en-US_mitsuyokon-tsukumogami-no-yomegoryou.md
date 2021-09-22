@@ -1,5 +1,7 @@
 # Mitsuyokon: Tsukumogami no Yomegoryou
 
+![mitsuyokon-tsukumogami-no-yomegoryou](https://cdn.myanimelist.net/images/manga/3/174498.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 42

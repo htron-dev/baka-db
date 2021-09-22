@@ -1,5 +1,7 @@
 # Boku no Son Goku
 
+![boku-no-son-goku](https://cdn.myanimelist.net/images/manga/5/30527.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 37

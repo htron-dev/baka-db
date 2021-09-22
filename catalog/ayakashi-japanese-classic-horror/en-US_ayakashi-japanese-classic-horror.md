@@ -1,5 +1,7 @@
 # Ayakashi: Japanese Classic Horror
 
+![ayakashi-japanese-classic-horror](https://cdn.myanimelist.net/images/anime/2/11746.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 怪～ ayakashi ～ Japanese Classic Horror

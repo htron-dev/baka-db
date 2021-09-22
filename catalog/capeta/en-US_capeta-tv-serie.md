@@ -1,5 +1,7 @@
 # Capeta
 
+![capeta](https://cdn.myanimelist.net/images/anime/5/17667.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: カペタ

@@ -1,5 +1,7 @@
 # Wei Wo Du Shen
 
+![wei-wo-du-shen](https://cdn.myanimelist.net/images/anime/1631/111299.jpg)
+
 -   **type**: ona
 -   **episodes**: 50
 -   **original-name**: 唯我独神

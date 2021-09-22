@@ -1,5 +1,7 @@
 # Dai-kun wa Hitori de Nerarenai
 
+![dai-kun-wa-hitori-de-nerarenai](https://cdn.myanimelist.net/images/manga/2/242592.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 31

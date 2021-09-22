@@ -1,5 +1,7 @@
 # Hito no Ko
 
+![hito-no-ko](https://cdn.myanimelist.net/images/manga/2/207634.jpg)
+
 -   **type**: manga
 -   **original-name**: ひとのこ
 -   **start-date**: 2017-08-21

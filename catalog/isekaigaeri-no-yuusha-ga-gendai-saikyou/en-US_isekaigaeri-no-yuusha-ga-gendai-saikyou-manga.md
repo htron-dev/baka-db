@@ -1,5 +1,7 @@
 # Isekaigaeri no Yuusha ga Gendai Saikyou!
 
+![isekaigaeri-no-yuusha-ga-gendai-saikyou](https://cdn.myanimelist.net/images/manga/1/225395.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界帰りの勇者が現代最強!
 -   **start-date**: 2019-03-31

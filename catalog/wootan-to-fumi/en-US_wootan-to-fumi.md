@@ -1,5 +1,7 @@
 # Wootan to Fumi
 
+![wootan-to-fumi](https://cdn.myanimelist.net/images/manga/2/154829.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

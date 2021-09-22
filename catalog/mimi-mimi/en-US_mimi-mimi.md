@@ -1,5 +1,7 @@
 # Mimi Mimi!
 
+![mimi-mimi](https://cdn.myanimelist.net/images/manga/1/180779.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

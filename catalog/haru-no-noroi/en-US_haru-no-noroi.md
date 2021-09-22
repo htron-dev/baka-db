@@ -1,5 +1,7 @@
 # Haru no Noroi
 
+![haru-no-noroi](https://cdn.myanimelist.net/images/manga/2/189273.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

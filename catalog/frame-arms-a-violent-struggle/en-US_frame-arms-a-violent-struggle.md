@@ -1,5 +1,7 @@
 # Frame Arms: A Violent Struggle
 
+![frame-arms-a-violent-struggle](https://cdn.myanimelist.net/images/anime/11/71921.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: フレームアーム A violent struggle

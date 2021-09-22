@@ -1,5 +1,7 @@
 # Kedamono no Arashi
 
+![kedamono-no-arashi](https://cdn.myanimelist.net/images/manga/1/66493.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Venus ni Arazu
 
+![venus-ni-arazu](https://cdn.myanimelist.net/images/manga/2/31082.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

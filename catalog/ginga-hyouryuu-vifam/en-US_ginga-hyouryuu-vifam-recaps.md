@@ -1,5 +1,7 @@
 # Ginga Hyouryuu Vifam Recaps
 
+![ginga-hyouryuu-vifam-recaps](https://cdn.myanimelist.net/images/anime/7/89117.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **start-date**: 1984-10-28

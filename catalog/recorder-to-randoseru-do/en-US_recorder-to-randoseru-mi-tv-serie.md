@@ -1,5 +1,7 @@
 # Recorder to Randoseru Mi☆
 
+![recorder-to-randoseru-mi☆](https://cdn.myanimelist.net/images/anime/6/50651.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: リコーダーとランドセル ミ ☆

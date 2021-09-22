@@ -1,5 +1,7 @@
 # Bleach: Letters From the Other Side
 
+![bleach-letters-from-the-other-side](https://cdn.myanimelist.net/images/manga/1/156655.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

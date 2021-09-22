@@ -1,5 +1,7 @@
 # Yakunara Mug Cup mo: Niban Gama
 
+![yakunara-mug-cup-mo-niban-gama](https://cdn.myanimelist.net/images/anime/1599/117410.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: やくならマグカップも 二番窯
 -   **start-date**: 2021-10-20

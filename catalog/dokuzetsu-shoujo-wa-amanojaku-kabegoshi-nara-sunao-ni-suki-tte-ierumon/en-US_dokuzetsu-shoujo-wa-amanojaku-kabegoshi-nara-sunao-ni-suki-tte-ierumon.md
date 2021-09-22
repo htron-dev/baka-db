@@ -1,5 +1,7 @@
 # Dokuzetsu Shoujo wa Amanojaku: Kabegoshi nara Sunao ni Suki tte Ierumon!
 
+![dokuzetsu-shoujo-wa-amanojaku-kabegoshi-nara-sunao-ni-suki-tte-ierumon](https://cdn.myanimelist.net/images/manga/3/242808.jpg)
+
 -   **type**: manga
 -   **original-name**: 毒舌少女はあまのじゃく ～壁越しなら素直に好きって言えるもん！～
 -   **start-date**: 2021-02-12

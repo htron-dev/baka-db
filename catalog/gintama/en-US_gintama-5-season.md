@@ -1,5 +1,7 @@
 # Gintama.
 
+![gintama](https://cdn.myanimelist.net/images/anime/3/83528.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 銀魂。

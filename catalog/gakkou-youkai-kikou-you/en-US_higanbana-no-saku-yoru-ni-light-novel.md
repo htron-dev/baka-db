@@ -1,5 +1,7 @@
 # Higanbana no Saku Yoru ni
 
+![higanbana-no-saku-yoru-ni](https://cdn.myanimelist.net/images/manga/2/158537.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

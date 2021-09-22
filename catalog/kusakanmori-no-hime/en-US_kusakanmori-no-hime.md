@@ -1,5 +1,7 @@
 # Kusakanmori no Hime
 
+![kusakanmori-no-hime](https://cdn.myanimelist.net/images/manga/2/62145.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Shadow Cross
 
+![shadow-cross](https://cdn.myanimelist.net/images/manga/2/241363.jpg)
+
 -   **type**: manga
 -   **original-name**: シャドークロス
 -   **start-date**: 2020-11-12

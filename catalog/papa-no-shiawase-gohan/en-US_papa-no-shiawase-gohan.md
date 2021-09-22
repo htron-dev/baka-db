@@ -1,5 +1,7 @@
 # Papa no Shiawase Gohan
 
+![papa-no-shiawase-gohan](https://cdn.myanimelist.net/images/manga/2/241709.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: パパのしあわせごはん

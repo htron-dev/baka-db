@@ -1,5 +1,7 @@
 # Koisuru Plastic Baby
 
+![koisuru-plastic-baby](https://cdn.myanimelist.net/images/manga/5/32741.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋するプラスチックベイビー

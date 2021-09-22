@@ -1,5 +1,7 @@
 # Itsuwari no Dragoon
 
+![itsuwari-no-dragoon](https://cdn.myanimelist.net/images/manga/2/95893.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # Chicchana Yukitsukai Sugar
 
+![chicchana-yukitsukai-sugar](https://cdn.myanimelist.net/images/manga/1/179782.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

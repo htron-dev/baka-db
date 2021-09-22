@@ -1,5 +1,7 @@
 # Kono Ai wa Yuzurenai
 
+![kono-ai-wa-yuzurenai](https://cdn.myanimelist.net/images/manga/1/30214.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: この愛は譲れない

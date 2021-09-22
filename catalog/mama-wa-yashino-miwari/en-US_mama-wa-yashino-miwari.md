@@ -1,5 +1,7 @@
 # Mama wa Yashino Miwari
 
+![mama-wa-yashino-miwari](https://cdn.myanimelist.net/images/manga/2/7176.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ママはやしの実わり

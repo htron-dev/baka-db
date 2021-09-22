@@ -1,5 +1,7 @@
 # Akuma ni Kiss wo
 
+![akuma-ni-kiss-wo](https://cdn.myanimelist.net/images/manga/1/122243.jpg)
+
 -   **type**: manga
 -   **original-name**: 悪魔にキスを
 -   **start-date**: 2013-06-07

@@ -1,5 +1,7 @@
 # Koi to Kaerou
 
+![koi-to-kaerou](https://cdn.myanimelist.net/images/manga/1/120791.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Kounodori
 
+![kounodori](https://cdn.myanimelist.net/images/manga/1/130493.jpg)
+
 -   **type**: manga
 -   **original-name**: コウノドリ
 -   **start-date**: 2012-02-21

@@ -1,5 +1,7 @@
 # Kill Me Baby: Butsuzou Kegatte Nise Halloween
 
+![kill-me-baby-butsuzou-kegatte-nise-halloween](https://cdn.myanimelist.net/images/anime/10/53427.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: キルミーベイベー　ぶつぞうけがってにせはろうぃーん

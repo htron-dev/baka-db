@@ -1,5 +1,7 @@
 # Rinne no Lagrange
 
+![rinne-no-lagrange](https://cdn.myanimelist.net/images/manga/1/121759.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 22

@@ -1,5 +1,7 @@
 # Meccha Shoukan sareta Ken the Comic
 
+![meccha-shoukan-sareta-ken-the-comic](https://cdn.myanimelist.net/images/manga/2/237370.jpg)
+
 -   **type**: manga
 -   **original-name**: めっちゃ召喚された件 THE COMIC
 -   **start-date**: 2020-07-30

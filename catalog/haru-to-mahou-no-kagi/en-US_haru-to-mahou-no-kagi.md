@@ -1,5 +1,7 @@
 # Haru to Mahou no Kagi
 
+![haru-to-mahou-no-kagi](https://cdn.myanimelist.net/images/manga/3/174823.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Fusoku no Renjou
 
+![fusoku-no-renjou](https://cdn.myanimelist.net/images/manga/2/65659.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

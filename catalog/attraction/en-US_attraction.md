@@ -1,5 +1,7 @@
 # Attraction
 
+![attraction](https://cdn.myanimelist.net/images/anime/11/27263.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 魅力

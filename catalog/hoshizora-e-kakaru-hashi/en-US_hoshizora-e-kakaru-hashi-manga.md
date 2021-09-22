@@ -1,5 +1,7 @@
 # Hoshizora e Kakaru Hashi
 
+![hoshizora-e-kakaru-hashi](https://cdn.myanimelist.net/images/manga/3/100113.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

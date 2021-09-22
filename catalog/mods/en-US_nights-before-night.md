@@ -1,5 +1,7 @@
 # Nights Before Night
 
+![nights-before-night](https://cdn.myanimelist.net/images/manga/3/222652.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

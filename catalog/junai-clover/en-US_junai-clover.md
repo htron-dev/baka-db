@@ -1,5 +1,7 @@
 # Junai Clover
 
+![junai-clover](https://cdn.myanimelist.net/images/manga/1/11805.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

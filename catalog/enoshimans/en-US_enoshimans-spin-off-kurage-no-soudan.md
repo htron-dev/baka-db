@@ -1,5 +1,7 @@
 # Enoshimans Spin-off: Kurage no Soudan
 
+![enoshimans-spin-off-kurage-no-soudan](https://cdn.myanimelist.net/images/anime/1298/108121.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: えのしまんず SPIN OFF 『クラゲの相談』

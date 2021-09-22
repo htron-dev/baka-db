@@ -1,5 +1,7 @@
 # Sore ga Seiyuu!: Petit Uchiage
 
+![sore-ga-seiyuu-petit-uchiage](https://cdn.myanimelist.net/images/anime/11/79138.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: それが声優！ 特別編「プチ打ち上げ」

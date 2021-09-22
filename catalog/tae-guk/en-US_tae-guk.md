@@ -1,5 +1,7 @@
 # Tae Guk
 
+![tae-guk](https://cdn.myanimelist.net/images/manga/3/19908.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **original-name**: 태극태을

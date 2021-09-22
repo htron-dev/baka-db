@@ -1,5 +1,7 @@
 # Ai de Asobu.
 
+![ai-de-asobu](https://cdn.myanimelist.net/images/manga/3/62721.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

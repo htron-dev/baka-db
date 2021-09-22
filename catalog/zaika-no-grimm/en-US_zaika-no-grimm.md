@@ -1,5 +1,7 @@
 # Zaika no Grimm
 
+![zaika-no-grimm](https://cdn.myanimelist.net/images/manga/1/222603.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Kiken na Honey
 
+![kiken-na-honey](https://cdn.myanimelist.net/images/manga/2/171822.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

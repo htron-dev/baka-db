@@ -1,5 +1,7 @@
 # Seiryaku Kekkon no Tenmatsu: Hime ga Jinrou Ouji ni Totsuidara?
 
+![seiryaku-kekkon-no-tenmatsu-hime-ga-jinrou-ouji-ni-totsuidara](https://cdn.myanimelist.net/images/manga/1/193394.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 政略結婚の顛末 ~姫が人狼王子に嫁いだら?~

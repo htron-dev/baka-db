@@ -1,5 +1,7 @@
 # Youjo Life!
 
+![youjo-life](https://cdn.myanimelist.net/images/manga/2/240142.jpg)
+
 -   **type**: manga
 -   **original-name**: よーじょらいふ！
 -   **start-date**: 2019-05-10

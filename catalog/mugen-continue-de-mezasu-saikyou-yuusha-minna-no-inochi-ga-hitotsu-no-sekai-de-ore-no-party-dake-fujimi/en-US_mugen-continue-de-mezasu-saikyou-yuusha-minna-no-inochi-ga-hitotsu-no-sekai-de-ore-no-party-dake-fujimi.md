@@ -1,5 +1,7 @@
 # Mugen Continue de Mezasu Saikyou Yuusha: Minna no Inochi ga Hitotsu no Sekai de, Ore no Party dake Fujimi
 
+![mugen-continue-de-mezasu-saikyou-yuusha-minna-no-inochi-ga-hitotsu-no-sekai-de-ore-no-party-dake-fujimi](https://cdn.myanimelist.net/images/manga/3/235738.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 50

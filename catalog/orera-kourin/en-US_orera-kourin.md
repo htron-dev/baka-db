@@ -1,5 +1,7 @@
 # Orera Kourin!
 
+![orera-kourin](https://cdn.myanimelist.net/images/manga/3/40664.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: オレら降臨！ 愛とか恋とか世界とか

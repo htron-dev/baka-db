@@ -1,5 +1,7 @@
 # Kinaco Typhoon
 
+![kinaco-typhoon](https://cdn.myanimelist.net/images/manga/2/29962.jpg)
+
 -   **type**: manga
 -   **original-name**: キナコタイフーン
 

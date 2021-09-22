@@ -1,5 +1,7 @@
 # Kamitori Yawa
 
+![kamitori-yawa](https://cdn.myanimelist.net/images/manga/2/224283.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

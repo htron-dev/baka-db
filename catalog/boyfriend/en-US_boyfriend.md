@@ -1,5 +1,7 @@
 # Boyfriend
 
+![boyfriend](https://cdn.myanimelist.net/images/manga/3/23925.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

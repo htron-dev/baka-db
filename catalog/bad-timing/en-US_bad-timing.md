@@ -1,5 +1,7 @@
 # Bad Timing
 
+![bad-timing](https://cdn.myanimelist.net/images/manga/3/79265.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

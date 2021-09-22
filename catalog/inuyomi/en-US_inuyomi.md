@@ -1,5 +1,7 @@
 # Inuyomi
 
+![inuyomi](https://cdn.myanimelist.net/images/manga/1/42930.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: イヌヨミ

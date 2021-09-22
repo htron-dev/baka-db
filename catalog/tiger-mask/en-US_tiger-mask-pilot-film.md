@@ -1,5 +1,7 @@
 # Tiger Mask Pilot Film
 
+![tiger-mask-pilot-film](https://cdn.myanimelist.net/images/anime/1751/108079.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: タイガーマスク パイロットフィルム

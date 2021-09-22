@@ -1,5 +1,7 @@
 # Ikusen no Yoru
 
+![ikusen-no-yoru](https://cdn.myanimelist.net/images/manga/5/130101.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

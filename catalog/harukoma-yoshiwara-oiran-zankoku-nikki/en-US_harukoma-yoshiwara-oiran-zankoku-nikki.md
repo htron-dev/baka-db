@@ -1,5 +1,7 @@
 # Harukoma: Yoshiwara Oiran Zankoku Nikki
 
+![harukoma-yoshiwara-oiran-zankoku-nikki](https://cdn.myanimelist.net/images/manga/2/246325.jpg)
+
 -   **type**: manga
 -   **original-name**: 春駒～吉原花魁残酷日記～
 -   **start-date**: 2019-08-20

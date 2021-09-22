@@ -1,5 +1,7 @@
 # Blood♯
 
+![blood♯](https://cdn.myanimelist.net/images/manga/3/247637.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 26

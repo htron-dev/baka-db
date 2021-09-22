@@ -1,5 +1,7 @@
 # Youkai Watch Movie 4: Shadow Side - Oni-ou no Fukkatsu
 
+![youkai-watch-movie-4-shadow-side-oni-ou-no-fukkatsu](https://cdn.myanimelist.net/images/anime/1390/96302.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画　妖怪ウォッチ　シャドウサイド　鬼王の復活
@@ -9,7 +11,6 @@
 ## Tags
 
 -   demons
-
 -   supernatural
 
 ## Sinopse

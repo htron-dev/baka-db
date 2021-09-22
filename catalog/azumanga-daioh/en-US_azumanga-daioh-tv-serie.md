@@ -1,5 +1,7 @@
 # Azumanga Daioh
 
+![azumanga-daioh](https://cdn.myanimelist.net/images/anime/1/66.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: あずまんが大王 THE ANIMATION

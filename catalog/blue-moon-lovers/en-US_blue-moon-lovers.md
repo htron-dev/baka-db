@@ -1,5 +1,7 @@
 # Blue Moon Lovers
 
+![blue-moon-lovers](https://cdn.myanimelist.net/images/manga/1/62861.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Tattoon Master
 
+![tattoon-master](https://cdn.myanimelist.net/images/manga/3/45993.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: タトゥーン・マスター

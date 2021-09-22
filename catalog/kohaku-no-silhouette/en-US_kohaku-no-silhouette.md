@@ -1,5 +1,7 @@
 # Kohaku no Silhouette
 
+![kohaku-no-silhouette](https://cdn.myanimelist.net/images/manga/1/226553.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 琥珀の影〈シルエット〉

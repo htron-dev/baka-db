@@ -1,5 +1,7 @@
 # Shiina Yuu wa Naiteru Onna ni shika Yokujou Shinai
 
+![shiina-yuu-wa-naiteru-onna-ni-shika-yokujou-shinai](https://cdn.myanimelist.net/images/manga/1/232354.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

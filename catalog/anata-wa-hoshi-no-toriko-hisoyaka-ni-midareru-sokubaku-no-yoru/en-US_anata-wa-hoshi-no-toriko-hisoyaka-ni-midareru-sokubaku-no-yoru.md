@@ -1,5 +1,7 @@
 # Anata wa Hoshi no Toriko: Hisoyaka ni Midareru Sokubaku no Yoru
 
+![anata-wa-hoshi-no-toriko-hisoyaka-ni-midareru-sokubaku-no-yoru](https://cdn.myanimelist.net/images/manga/1/195734.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: あなたは星のとりこ～ひそやかに乱れる束縛の夜～

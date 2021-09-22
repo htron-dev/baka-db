@@ -1,5 +1,7 @@
 # Sayonara Futaribocchi Renai Shinsho
 
+![sayonara-futaribocchi-renai-shinsho](https://cdn.myanimelist.net/images/manga/1/178844.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: さよならふたりぼっち恋愛新書

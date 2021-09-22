@@ -1,5 +1,7 @@
 # Tomodachi dakedo Oishisou
 
+![tomodachi-dakedo-oishisou](https://cdn.myanimelist.net/images/manga/2/245244.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

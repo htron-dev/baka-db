@@ -1,5 +1,7 @@
 # Minikui Kaeru no Ko
 
+![minikui-kaeru-no-ko](https://cdn.myanimelist.net/images/manga/2/186349.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

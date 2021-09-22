@@ -1,5 +1,7 @@
 # Kare wa S-kei Seitokaichou
 
+![kare-wa-s-kei-seitokaichou](https://cdn.myanimelist.net/images/manga/1/35235.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

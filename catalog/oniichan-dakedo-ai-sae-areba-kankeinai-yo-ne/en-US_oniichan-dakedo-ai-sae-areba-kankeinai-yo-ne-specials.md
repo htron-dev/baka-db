@@ -1,5 +1,7 @@
 # Oniichan dakedo Ai sae Areba Kankeinai yo ne! Specials
 
+![oniichan-dakedo-ai-sae-areba-kankeinai-yo-ne-specials](https://cdn.myanimelist.net/images/anime/6/46981.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: お兄ちゃんだけど愛さえあれば関係ないよねっ

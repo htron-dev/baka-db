@@ -1,5 +1,7 @@
 # Tsuki no Hikari mo Todokudarou
 
+![tsuki-no-hikari-mo-todokudarou](https://cdn.myanimelist.net/images/manga/1/153452.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

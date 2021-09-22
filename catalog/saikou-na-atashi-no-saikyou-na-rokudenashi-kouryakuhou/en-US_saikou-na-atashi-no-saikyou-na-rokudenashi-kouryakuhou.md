@@ -1,5 +1,7 @@
 # Saikou na Atashi no Saikyou na Rokudenashi Kouryakuhou
 
+![saikou-na-atashi-no-saikyou-na-rokudenashi-kouryakuhou](https://cdn.myanimelist.net/images/manga/2/238338.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

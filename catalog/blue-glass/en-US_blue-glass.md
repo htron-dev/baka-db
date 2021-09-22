@@ -1,5 +1,7 @@
 # Blue Glass
 
+![blue-glass](https://cdn.myanimelist.net/images/manga/3/220686.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 푸른유리
 -   **start-date**: 2014-12-01

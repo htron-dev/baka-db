@@ -1,5 +1,7 @@
 # Sekai wa Bokura no Tame ni!
 
+![sekai-wa-bokura-no-tame-ni](https://cdn.myanimelist.net/images/manga/2/102235.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

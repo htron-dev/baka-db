@@ -1,5 +1,7 @@
 # Mejirobana no Saku
 
+![mejirobana-no-saku](https://cdn.myanimelist.net/images/manga/3/239406.jpg)
+
 -   **type**: manga
 -   **original-name**: メジロバナの咲く
 -   **start-date**: 2017-10-31

@@ -1,5 +1,7 @@
 # Love Love - Kaporin no Yuuwaku Kiss 1
 
+![love-love-kaporin-no-yuuwaku-kiss-1](https://cdn.myanimelist.net/images/manga/1/7559.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

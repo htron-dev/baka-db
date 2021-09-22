@@ -1,5 +1,7 @@
 # Higashi no Eden
 
+![higashi-no-eden](https://cdn.myanimelist.net/images/manga/3/20167.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 東のエデン

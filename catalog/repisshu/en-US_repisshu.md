@@ -1,5 +1,7 @@
 # Repisshu!
 
+![repisshu](https://cdn.myanimelist.net/images/manga/3/44857.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: レピッシュ

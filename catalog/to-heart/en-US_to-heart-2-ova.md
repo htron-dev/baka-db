@@ -1,5 +1,7 @@
 # To Heart 2 OVA
 
+![to-heart-2-ova](https://cdn.myanimelist.net/images/anime/7/74024.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: トゥハート 2 OVA

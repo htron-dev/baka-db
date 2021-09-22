@@ -1,5 +1,7 @@
 # Dragon Quest: Princess Alena
 
+![dragon-quest-princess-alena](https://cdn.myanimelist.net/images/manga/2/186119.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: ドラゴンクエスト プリンセスアリーナ

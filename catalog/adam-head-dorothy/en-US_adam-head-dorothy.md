@@ -1,5 +1,7 @@
 # Adam Head Dorothy
 
+![adam-head-dorothy](https://cdn.myanimelist.net/images/manga/1/162848.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 13

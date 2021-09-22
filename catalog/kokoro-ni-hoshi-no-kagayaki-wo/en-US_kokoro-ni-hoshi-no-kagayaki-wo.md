@@ -1,5 +1,7 @@
 # Kokoro ni Hoshi no Kagayaki wo
 
+![kokoro-ni-hoshi-no-kagayaki-wo](https://cdn.myanimelist.net/images/manga/2/10987.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 心に星の輝きを

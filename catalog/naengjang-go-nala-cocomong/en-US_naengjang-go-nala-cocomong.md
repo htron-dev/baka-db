@@ -1,5 +1,7 @@
 # Naengjang-go Nala Cocomong
 
+![naengjang-go-nala-cocomong](https://cdn.myanimelist.net/images/anime/1959/93095.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 냉장고 나라 코코몽

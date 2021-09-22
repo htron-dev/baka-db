@@ -1,5 +1,7 @@
 # Magdala de Nemure
 
+![magdala-de-nemure](https://cdn.myanimelist.net/images/manga/2/102685.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

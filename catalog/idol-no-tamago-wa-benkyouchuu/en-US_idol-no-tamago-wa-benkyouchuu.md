@@ -1,5 +1,7 @@
 # Idol no Tamago wa Benkyouchuu
 
+![idol-no-tamago-wa-benkyouchuu](https://cdn.myanimelist.net/images/manga/1/201998.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

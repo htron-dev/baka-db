@@ -1,5 +1,7 @@
 # Chokotto Abunai Koimonogatari
 
+![chokotto-abunai-koimonogatari](https://cdn.myanimelist.net/images/manga/1/146335.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

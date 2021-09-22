@@ -1,5 +1,7 @@
 # Fantasma
 
+![fantasma](https://cdn.myanimelist.net/images/manga/3/158522.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

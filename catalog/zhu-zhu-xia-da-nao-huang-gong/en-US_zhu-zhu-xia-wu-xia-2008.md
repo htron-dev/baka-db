@@ -1,5 +1,7 @@
 # Zhu Zhu Xia: Wu Xia 2008
 
+![zhu-zhu-xia-wu-xia-2008](https://cdn.myanimelist.net/images/anime/1658/93346.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 20
 -   **original-name**: 猪猪侠 武侠 2008

@@ -1,5 +1,7 @@
 # Urakata!!
 
+![urakata](https://cdn.myanimelist.net/images/manga/2/147847.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 40

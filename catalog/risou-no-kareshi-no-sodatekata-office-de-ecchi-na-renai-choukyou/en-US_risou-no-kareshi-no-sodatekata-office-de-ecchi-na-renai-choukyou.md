@@ -1,5 +1,7 @@
 # Risou no Kareshi no Sodatekata: Office de Ecchi na Renai Choukyou
 
+![risou-no-kareshi-no-sodatekata-office-de-ecchi-na-renai-choukyou](https://cdn.myanimelist.net/images/manga/2/195525.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

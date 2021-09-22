@@ -1,5 +1,7 @@
 # Kekkaishi
 
+![kekkaishi](https://cdn.myanimelist.net/images/manga/2/62941.jpg)
+
 -   **type**: manga
 -   **volumes**: 35
 -   **chapters**: 345

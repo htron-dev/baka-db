@@ -1,5 +1,7 @@
 # Omae no Koi wa Ore no Mono
 
+![omae-no-koi-wa-ore-no-mono](https://cdn.myanimelist.net/images/manga/1/220475.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

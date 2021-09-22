@@ -1,5 +1,7 @@
 # Neon The Animation
 
+![neon-the-animation](https://cdn.myanimelist.net/images/anime/8/47203.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: Neon The Animation

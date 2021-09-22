@@ -1,5 +1,7 @@
 # Yoru Yoru Soba ni
 
+![yoru-yoru-soba-ni](https://cdn.myanimelist.net/images/manga/2/221496.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

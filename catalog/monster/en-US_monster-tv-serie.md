@@ -1,5 +1,7 @@
 # Monster
 
+![monster](https://cdn.myanimelist.net/images/anime/10/18793.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 74
 -   **original-name**: モンスター

@@ -1,5 +1,7 @@
 # Hotman
 
+![hotman](https://cdn.myanimelist.net/images/manga/1/11840.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 167

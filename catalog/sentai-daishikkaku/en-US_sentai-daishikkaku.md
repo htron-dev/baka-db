@@ -1,5 +1,7 @@
 # Sentai Daishikkaku
 
+![sentai-daishikkaku](https://cdn.myanimelist.net/images/manga/2/243305.jpg)
+
 -   **type**: manga
 -   **original-name**: 戦隊大失格
 -   **start-date**: 2021-02-03

@@ -1,5 +1,7 @@
 # Dekidekiai: Oresama Fugou to Kichiku Shishaku ni Aisarete
 
+![dekidekiai-oresama-fugou-to-kichiku-shishaku-ni-aisarete](https://cdn.myanimelist.net/images/manga/2/193305.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

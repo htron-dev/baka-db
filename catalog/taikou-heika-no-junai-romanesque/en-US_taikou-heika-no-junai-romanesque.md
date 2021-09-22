@@ -1,5 +1,7 @@
 # Taikou Heika no Junai Romanesque
 
+![taikou-heika-no-junai-romanesque](https://cdn.myanimelist.net/images/manga/1/214564.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

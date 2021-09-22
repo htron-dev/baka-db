@@ -1,5 +1,7 @@
 # Mobile Suit Gundam: The 08th MS Team - A Battle with the Third Dimension
 
+![mobile-suit-gundam-the-08th-ms-team-a-battle-with-the-third-dimension](https://cdn.myanimelist.net/images/anime/6/47409.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 機動戦士ガンダム 第 08MS 小隊 三次元との戦い

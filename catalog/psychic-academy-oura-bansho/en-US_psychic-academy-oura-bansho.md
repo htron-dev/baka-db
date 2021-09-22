@@ -1,5 +1,7 @@
 # Psychic Academy Oura Bansho
 
+![psychic-academy-oura-bansho](https://cdn.myanimelist.net/images/manga/1/144285.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 38

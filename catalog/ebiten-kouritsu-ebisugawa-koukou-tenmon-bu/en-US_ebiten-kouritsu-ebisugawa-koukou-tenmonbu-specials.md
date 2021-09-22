@@ -1,5 +1,7 @@
 # Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu Specials
 
+![ebiten-kouritsu-ebisugawa-koukou-tenmonbu-specials](https://cdn.myanimelist.net/images/anime/6/44588.jpg)
+
 -   **type**: special
 -   **episodes**: 5
 -   **original-name**: えびてん 公立海老栖川高校天悶部

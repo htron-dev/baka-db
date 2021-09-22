@@ -1,5 +1,7 @@
 # Ottori Sousa
 
+![ottori-sousa](https://cdn.myanimelist.net/images/manga/1/33671.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 70

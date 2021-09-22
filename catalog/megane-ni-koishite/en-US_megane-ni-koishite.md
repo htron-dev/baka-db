@@ -1,5 +1,7 @@
 # Megane ni Koishite
 
+![megane-ni-koishite](https://cdn.myanimelist.net/images/manga/1/15375.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

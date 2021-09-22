@@ -1,5 +1,7 @@
 # Teogonia
 
+![teogonia](https://cdn.myanimelist.net/images/manga/1/248052.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 神統記 〈テオゴニア〉
 -   **start-date**: 2018-03-30

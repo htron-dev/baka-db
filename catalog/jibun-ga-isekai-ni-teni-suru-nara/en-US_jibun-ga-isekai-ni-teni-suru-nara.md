@@ -1,5 +1,7 @@
 # Jibun ga Isekai ni Teni Suru nara
 
+![jibun-ga-isekai-ni-teni-suru-nara](https://cdn.myanimelist.net/images/manga/3/186417.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 自分が異世界に転移するなら
 -   **start-date**: 2016-12-09

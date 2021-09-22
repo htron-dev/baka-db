@@ -1,5 +1,7 @@
 # Mighty Thor: Battle Royale
 
+![mighty-thor-battle-royale](https://cdn.myanimelist.net/images/anime/8/88762.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: マイティ・ソー バトルロイヤル

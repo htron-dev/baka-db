@@ -1,5 +1,7 @@
 # Ouran Koukou Host Club
 
+![ouran-koukou-host-club](https://cdn.myanimelist.net/images/anime/2/71992.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 桜蘭高校ホスト部

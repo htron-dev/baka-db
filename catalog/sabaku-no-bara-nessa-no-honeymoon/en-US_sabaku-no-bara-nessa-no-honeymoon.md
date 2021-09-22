@@ -1,5 +1,7 @@
 # Sabaku no Bara: Nessa no Honeymoon
 
+![sabaku-no-bara-nessa-no-honeymoon](https://cdn.myanimelist.net/images/manga/1/192555.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

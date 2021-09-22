@@ -1,5 +1,7 @@
 # Inu to Ojousama
 
+![inu-to-ojousama](https://cdn.myanimelist.net/images/manga/1/85769.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 犬とお嬢様

@@ -1,5 +1,7 @@
 # Neko ni wa Inu wo
 
+![neko-ni-wa-inu-wo](https://cdn.myanimelist.net/images/manga/1/245271.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

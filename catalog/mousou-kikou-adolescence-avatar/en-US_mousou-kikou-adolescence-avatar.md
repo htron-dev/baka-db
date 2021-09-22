@@ -1,5 +1,7 @@
 # Mousou Kikou: Adolescence Avatar
 
+![mousou-kikou-adolescence-avatar](https://cdn.myanimelist.net/images/manga/2/101191.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

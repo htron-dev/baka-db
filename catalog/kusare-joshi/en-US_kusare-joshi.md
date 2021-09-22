@@ -1,5 +1,7 @@
 # Kusare Joshi!
 
+![kusare-joshi](https://cdn.myanimelist.net/images/manga/1/31589.jpg)
+
 -   **type**: manga
 -   **original-name**: くされ女子! In Deep
 

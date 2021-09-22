@@ -1,5 +1,7 @@
 # Life: Jinsei no Taisetsu na Toki ni...
 
+![life-jinsei-no-taisetsu-na-toki-ni](https://cdn.myanimelist.net/images/anime/7/88414.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: Ｌｉｆｅ～人生のたいせつな時に・・・

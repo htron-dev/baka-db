@@ -1,5 +1,7 @@
 # Blame! Movie
 
+![blame-movie](https://cdn.myanimelist.net/images/anime/1976/93666.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: BLAME!

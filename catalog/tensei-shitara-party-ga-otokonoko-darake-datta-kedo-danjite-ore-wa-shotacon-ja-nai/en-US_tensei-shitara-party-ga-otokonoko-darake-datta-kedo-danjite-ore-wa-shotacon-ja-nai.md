@@ -1,5 +1,7 @@
 # Tensei shitara Party ga Otokonoko darake Datta kedo Danjite Ore wa Shotacon ja Nai!
 
+![tensei-shitara-party-ga-otokonoko-darake-datta-kedo-danjite-ore-wa-shotacon-ja-nai](https://cdn.myanimelist.net/images/manga/1/246054.jpg)
+
 -   **type**: manga
 -   **original-name**: 転生したらパーティが男の子だらけだったけど断じて俺はショタコンじゃない!
 -   **start-date**: 2019-02-09

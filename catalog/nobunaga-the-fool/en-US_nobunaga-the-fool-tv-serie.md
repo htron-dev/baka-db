@@ -1,5 +1,7 @@
 # Nobunaga the Fool
 
+![nobunaga-the-fool](https://cdn.myanimelist.net/images/anime/10/57803.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ノブナガ・ザ・フール

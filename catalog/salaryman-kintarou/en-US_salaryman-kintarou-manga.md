@@ -1,5 +1,7 @@
 # Salaryman Kintarou
 
+![salaryman-kintarou](https://cdn.myanimelist.net/images/manga/3/171866.jpg)
+
 -   **type**: manga
 -   **volumes**: 30
 -   **original-name**: サラリーマン金太郎

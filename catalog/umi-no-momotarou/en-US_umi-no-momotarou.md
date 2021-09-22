@@ -1,5 +1,7 @@
 # Umi no Momotarou
 
+![umi-no-momotarou](https://cdn.myanimelist.net/images/anime/9/85234.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 海の桃太郎

@@ -1,5 +1,7 @@
 # Bousou Girls-teki Mousou Renai-teki Suteki Project
 
+![bousou-girls-teki-mousou-renai-teki-suteki-project](https://cdn.myanimelist.net/images/manga/1/138701.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

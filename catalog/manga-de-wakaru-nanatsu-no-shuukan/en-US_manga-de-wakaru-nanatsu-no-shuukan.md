@@ -1,5 +1,7 @@
 # Manga de Wakaru Nanatsu no Shuukan
 
+![manga-de-wakaru-nanatsu-no-shuukan](https://cdn.myanimelist.net/images/manga/3/123653.jpg)
+
 -   **type**: manga
 -   **original-name**: まんがでわかる 7 つの習慣
 -   **start-date**: 2013-10-11

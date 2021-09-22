@@ -1,5 +1,7 @@
 # Hakobiya Ken
 
+![hakobiya-ken](https://cdn.myanimelist.net/images/manga/1/89493.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 運び屋ケン

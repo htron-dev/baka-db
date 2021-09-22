@@ -1,5 +1,7 @@
 # Inochi Sketch x Mameshiba
 
+![inochi-sketch-x-mameshiba](https://cdn.myanimelist.net/images/anime/1033/105399.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ねえ知ってる？豆しばが映画「いのちスケッチ」とコラボしたんだって

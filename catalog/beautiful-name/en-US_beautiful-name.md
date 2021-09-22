@@ -1,5 +1,7 @@
 # Beautiful Name
 
+![beautiful-name](https://cdn.myanimelist.net/images/manga/2/1948.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

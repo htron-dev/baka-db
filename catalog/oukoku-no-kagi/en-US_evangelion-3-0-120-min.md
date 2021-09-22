@@ -1,5 +1,7 @@
 # Evangelion: 3.0 (-120min.)
 
+![evangelion-3-0-120-min](https://cdn.myanimelist.net/images/manga/2/248376.jpg)
+
 -   **type**: manga
 -   **chapters**: 1
 -   **start-date**: 2021-06-12

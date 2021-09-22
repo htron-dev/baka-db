@@ -1,5 +1,7 @@
 # Yumemiru Koto
 
+![yumemiru-koto](https://cdn.myanimelist.net/images/manga/1/18617.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

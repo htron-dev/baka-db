@@ -1,5 +1,7 @@
 # Hoshi no Onzoushi-sama: Amai Mitsuya no Tawamure
 
+![hoshi-no-onzoushi-sama-amai-mitsuya-no-tawamure](https://cdn.myanimelist.net/images/manga/1/195678.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 星の御曹司さま ～甘い蜜夜の戯れ～

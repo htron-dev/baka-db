@@ -1,5 +1,7 @@
 # Himawari-san
 
+![himawari-san](https://cdn.myanimelist.net/images/manga/2/167463.jpg)
+
 -   **type**: manga
 -   **original-name**: ひまわりさん
 -   **start-date**: 2009-08-27

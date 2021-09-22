@@ -1,5 +1,7 @@
 # Ramen Daisuki Koizumi-san
 
+![ramen-daisuki-koizumi-san](https://cdn.myanimelist.net/images/anime/5/89876.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ラーメン大好き小泉さん

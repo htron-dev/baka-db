@@ -1,5 +1,7 @@
 # Tenshi ja Nai!!
 
+![tenshi-ja-nai](https://cdn.myanimelist.net/images/manga/3/217.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 40

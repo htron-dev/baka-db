@@ -1,5 +1,7 @@
 # Hot Milk
 
+![hot-milk](https://cdn.myanimelist.net/images/manga/2/147689.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

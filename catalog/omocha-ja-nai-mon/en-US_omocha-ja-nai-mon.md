@@ -1,5 +1,7 @@
 # Omocha ja Nai mon!
 
+![omocha-ja-nai-mon](https://cdn.myanimelist.net/images/manga/2/138421.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

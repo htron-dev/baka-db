@@ -1,5 +1,7 @@
 # Danshi Koukousei wa Kyou mo Onaka ga Suiteiru
 
+![danshi-koukousei-wa-kyou-mo-onaka-ga-suiteiru](https://cdn.myanimelist.net/images/manga/1/215873.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

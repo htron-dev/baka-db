@@ -1,5 +1,7 @@
 # Makuhari
 
+![makuhari](https://cdn.myanimelist.net/images/manga/3/72757.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 82

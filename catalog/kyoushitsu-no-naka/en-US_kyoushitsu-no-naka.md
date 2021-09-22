@@ -1,5 +1,7 @@
 # Kyoushitsu no Naka
 
+![kyoushitsu-no-naka](https://cdn.myanimelist.net/images/manga/2/16226.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 教室の中

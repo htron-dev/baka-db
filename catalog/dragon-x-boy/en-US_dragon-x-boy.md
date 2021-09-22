@@ -1,5 +1,7 @@
 # Dragon x Boy
 
+![dragon-x-boy](https://cdn.myanimelist.net/images/manga/1/32054.jpg)
+
 -   **type**: manga
 -   **chapters**: 1
 

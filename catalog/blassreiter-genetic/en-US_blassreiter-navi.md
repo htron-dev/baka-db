@@ -1,5 +1,7 @@
 # Blassreiter: Navi
 
+![blassreiter-navi](https://cdn.myanimelist.net/images/anime/6/23361.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ブラスレイター・ナビ

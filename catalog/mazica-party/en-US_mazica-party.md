@@ -1,5 +1,7 @@
 # Mazica Party
 
+![mazica-party](https://cdn.myanimelist.net/images/anime/1740/113501.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: マジカパーティ
 -   **start-date**: 2021-04-04

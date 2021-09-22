@@ -1,5 +1,7 @@
 # Jikan no Arukikata
 
+![jikan-no-arukikata](https://cdn.myanimelist.net/images/manga/2/72827.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 時間の歩き方

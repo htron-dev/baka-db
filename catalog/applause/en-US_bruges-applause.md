@@ -1,5 +1,7 @@
 # Bruges: Applause
 
+![bruges-applause](https://cdn.myanimelist.net/images/manga/5/155230.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

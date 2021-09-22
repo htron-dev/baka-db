@@ -1,5 +1,7 @@
 # Little Forest
 
+![little-forest](https://cdn.myanimelist.net/images/manga/5/138065.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 34

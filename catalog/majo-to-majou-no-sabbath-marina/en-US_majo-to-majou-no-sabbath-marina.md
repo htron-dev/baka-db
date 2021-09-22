@@ -1,5 +1,7 @@
 # Majo to Majou no Sabbath Marina
 
+![majo-to-majou-no-sabbath-marina](https://cdn.myanimelist.net/images/manga/1/192677.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 魔女と魔城のサバトマリナ
 -   **start-date**: 2017-03-31

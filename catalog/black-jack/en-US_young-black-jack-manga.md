@@ -1,5 +1,7 @@
 # Young Black Jack
 
+![young-black-jack](https://cdn.myanimelist.net/images/manga/1/167528.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 142

@@ -1,5 +1,7 @@
 # Hotaru no Mau Machi de
 
+![hotaru-no-mau-machi-de](https://cdn.myanimelist.net/images/anime/2/74525.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 蛍の舞う街で

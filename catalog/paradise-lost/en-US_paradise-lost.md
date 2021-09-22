@@ -1,5 +1,7 @@
 # Paradise Lost
 
+![paradise-lost](https://cdn.myanimelist.net/images/manga/1/155679.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 15

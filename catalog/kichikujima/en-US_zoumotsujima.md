@@ -1,5 +1,7 @@
 # Zoumotsujima
 
+![zoumotsujima](https://cdn.myanimelist.net/images/manga/3/230532.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 30

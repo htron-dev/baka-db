@@ -1,5 +1,7 @@
 # Burning Village
 
+![burning-village](https://cdn.myanimelist.net/images/anime/8/77083.jpg)
+
 -   **type**: ova
 -   **episodes**: 10
 -   **original-name**: バーニング・ビレッジ

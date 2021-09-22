@@ -1,5 +1,7 @@
 # Boku ni Natta Watashi
 
+![boku-ni-natta-watashi](https://cdn.myanimelist.net/images/manga/1/20745.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 20

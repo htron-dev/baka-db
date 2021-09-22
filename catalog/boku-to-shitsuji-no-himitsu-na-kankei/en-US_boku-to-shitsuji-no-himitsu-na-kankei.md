@@ -1,5 +1,7 @@
 # Boku to Shitsuji no Himitsu na Kankei
 
+![boku-to-shitsuji-no-himitsu-na-kankei](https://cdn.myanimelist.net/images/manga/2/16574.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

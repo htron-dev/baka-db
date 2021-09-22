@@ -1,5 +1,7 @@
 # Bakusou Kyoudai Let's & Go!!
 
+![bakusou-kyoudai-lets-go](https://cdn.myanimelist.net/images/manga/1/11809.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **original-name**: 爆走兄弟レッツ&ゴー!!
@@ -10,7 +12,6 @@
 
 -   adventure
 -   comedy
-
 -   sports
 
 ## Authors

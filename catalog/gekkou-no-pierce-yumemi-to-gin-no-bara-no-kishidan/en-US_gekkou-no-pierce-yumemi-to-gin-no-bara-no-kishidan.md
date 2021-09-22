@@ -1,5 +1,7 @@
 # Gekkou no Pierce: Yumemi to Gin no Bara no Kishidan
 
+![gekkou-no-pierce-yumemi-to-gin-no-bara-no-kishidan](https://cdn.myanimelist.net/images/anime/12/6782.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 月光のピアス―ユメミと銀のバラ騎士団

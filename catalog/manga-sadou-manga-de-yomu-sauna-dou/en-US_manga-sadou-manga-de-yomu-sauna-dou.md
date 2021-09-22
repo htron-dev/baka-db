@@ -1,5 +1,7 @@
 # Manga Sadou: Manga de Yomu Sauna-dou
 
+![manga-sadou-manga-de-yomu-sauna-dou](https://cdn.myanimelist.net/images/manga/3/231113.jpg)
+
 -   **type**: manga
 -   **original-name**: マンガ サ道～マンガで読むサウナ道～
 -   **start-date**: 2014-09-18

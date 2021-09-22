@@ -1,5 +1,7 @@
 # Mr. Fullswing
 
+![mr-fullswing](https://cdn.myanimelist.net/images/manga/1/186705.jpg)
+
 -   **type**: manga
 -   **volumes**: 24
 -   **chapters**: 227

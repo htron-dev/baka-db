@@ -1,5 +1,7 @@
 # Imomushi
 
+![imomushi](https://cdn.myanimelist.net/images/manga/4/25202.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

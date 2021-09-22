@@ -1,5 +1,7 @@
 # Sengoku Basara 3: Bloody Angel
 
+![sengoku-basara-3-bloody-angel](https://cdn.myanimelist.net/images/manga/3/124863.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 32

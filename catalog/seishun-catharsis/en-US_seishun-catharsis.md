@@ -1,5 +1,7 @@
 # Seishun Catharsis
 
+![seishun-catharsis](https://cdn.myanimelist.net/images/manga/3/52243.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

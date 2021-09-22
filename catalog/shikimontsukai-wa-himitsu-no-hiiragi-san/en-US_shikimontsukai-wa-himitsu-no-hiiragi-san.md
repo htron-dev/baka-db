@@ -1,5 +1,7 @@
 # Shikimontsukai wa Himitsu no Hiiragi-san
 
+![shikimontsukai-wa-himitsu-no-hiiragi-san](https://cdn.myanimelist.net/images/manga/2/163464.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: しきもんつかいはヒミツの柊さん

@@ -1,5 +1,7 @@
 # Uchi no Zashikiwarashi ga
 
+![uchi-no-zashikiwarashi-ga](https://cdn.myanimelist.net/images/manga/3/192306.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: うちのざしきわらしが

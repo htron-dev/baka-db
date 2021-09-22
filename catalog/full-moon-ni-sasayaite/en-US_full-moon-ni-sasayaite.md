@@ -1,5 +1,7 @@
 # Full Moon ni Sasayaite
 
+![full-moon-ni-sasayaite](https://cdn.myanimelist.net/images/manga/4/117567.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

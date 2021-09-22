@@ -1,5 +1,7 @@
 # Jue Ding
 
+![jue-ding](https://cdn.myanimelist.net/images/anime/1947/111276.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: 绝顶

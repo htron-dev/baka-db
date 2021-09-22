@@ -1,5 +1,7 @@
 # Double Decker! Doug &amp; Kirill: Extra
 
+![double-decker-doug-amp-kirill-extra](https://cdn.myanimelist.net/images/anime/1987/97850.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 『DOUBLE DECKER! ダグ＆キリル』EXTRA

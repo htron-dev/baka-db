@@ -1,5 +1,7 @@
 # 1/100 Shibuya Crossing
 
+![1-100-shibuya-crossing](https://cdn.myanimelist.net/images/anime/2/88867.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 1/100 SHIBUYA Crossing

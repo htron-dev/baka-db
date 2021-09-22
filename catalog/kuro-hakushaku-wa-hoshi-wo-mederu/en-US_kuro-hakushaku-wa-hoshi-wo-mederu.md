@@ -1,5 +1,7 @@
 # Kuro Hakushaku wa Hoshi wo Mederu
 
+![kuro-hakushaku-wa-hoshi-wo-mederu](https://cdn.myanimelist.net/images/manga/1/209956.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 75

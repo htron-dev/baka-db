@@ -1,5 +1,7 @@
 # Koe ga Dasenai Shoujo wa "Kanojo ga Yasashisugiru" to Omotteiru
 
+![koe-ga-dasenai-shoujo-wa-kanojo-ga-yasashisugiru-to-omotteiru](https://cdn.myanimelist.net/images/manga/1/236633.jpg)
+
 -   **type**: manga
 -   **original-name**: 声がだせない少女は「彼女がやさしすぎる」と思っている
 -   **start-date**: 2020-02-13

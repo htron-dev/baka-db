@@ -1,5 +1,7 @@
 # Oshiete! Galko-chan: Natsuyasumitte Hontou Desu ka?
 
+![oshiete-galko-chan-natsuyasumitte-hontou-desu-ka](https://cdn.myanimelist.net/images/anime/7/81676.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: おしえて! ギャル子ちゃん 夏休みって本当ですか?

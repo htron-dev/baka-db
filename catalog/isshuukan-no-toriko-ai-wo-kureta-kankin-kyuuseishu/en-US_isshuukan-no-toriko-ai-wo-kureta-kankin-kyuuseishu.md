@@ -1,5 +1,7 @@
 # Isshuukan no Toriko: Ai wo Kureta Kankin Kyuuseishu
 
+![isshuukan-no-toriko-ai-wo-kureta-kankin-kyuuseishu](https://cdn.myanimelist.net/images/manga/3/194641.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 一週間の虜 ～愛をくれた監禁救世主～

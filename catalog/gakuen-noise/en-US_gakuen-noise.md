@@ -1,5 +1,7 @@
 # Gakuen Noise
 
+![gakuen-noise](https://cdn.myanimelist.net/images/manga/2/112617.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 学園ノイズ

@@ -1,5 +1,7 @@
 # Tenjou Tenge
 
+![tenjou-tenge](https://cdn.myanimelist.net/images/manga/3/57219.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 136

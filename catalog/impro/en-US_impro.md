@@ -1,5 +1,7 @@
 # Impro!
 
+![impro](https://cdn.myanimelist.net/images/manga/1/150244.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: インプロ!

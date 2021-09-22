@@ -1,5 +1,7 @@
 # Mousou Catalogue
 
+![mousou-catalogue](https://cdn.myanimelist.net/images/manga/1/21544.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Yoku Oni
 
+![yoku-oni](https://cdn.myanimelist.net/images/manga/3/167251.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 30

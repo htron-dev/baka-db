@@ -1,5 +1,7 @@
 # Landscape
 
+![landscape](https://cdn.myanimelist.net/images/anime/2/74281.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: LANDSCAPE

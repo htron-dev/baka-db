@@ -1,5 +1,7 @@
 # Shaman King
 
+![shaman-king](https://cdn.myanimelist.net/images/anime/4/18990.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 64
 -   **original-name**: シャーマンキング

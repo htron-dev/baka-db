@@ -1,5 +1,7 @@
 # Heian Mitsuai Emaki: Okitsune-sama ni Kurawaretara♥Yangotonaki Ouji-sama deshita
 
+![heian-mitsuai-emaki-okitsune-sama-ni-kurawaretara♥-yangotonaki-ouji-sama-deshita](https://cdn.myanimelist.net/images/manga/2/183656.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

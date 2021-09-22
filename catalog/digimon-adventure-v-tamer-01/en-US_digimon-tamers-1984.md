@@ -1,5 +1,7 @@
 # Digimon Tamers 1984
 
+![digimon-tamers-1984](https://cdn.myanimelist.net/images/manga/5/72919.jpg)
+
 -   **type**: light-novel
 -   **chapters**: 1
 -   **original-name**: デジモンテイマーズ 1984

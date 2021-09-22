@@ -1,5 +1,7 @@
 # Nidome no Jinsei: Animator
 
+![nidome-no-jinsei-animator](https://cdn.myanimelist.net/images/manga/1/215874.jpg)
+
 -   **type**: manga
 -   **original-name**: 二度目の人生 アニメーター
 -   **start-date**: 2018-03-30

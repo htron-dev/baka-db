@@ -1,5 +1,7 @@
 # Bokura no Shokutaku
 
+![bokura-no-shokutaku](https://cdn.myanimelist.net/images/manga/1/196394.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

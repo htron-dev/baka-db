@@ -1,5 +1,7 @@
 # Super Robot Taisen OG: Divine Wars - Sorezore no Michi
 
+![super-robot-taisen-og-divine-wars-sorezore-no-michi](https://cdn.myanimelist.net/images/anime/8/31081.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: スーパーロボット大戦 OG ディバイン・ウォーズ それぞれの路（みち）

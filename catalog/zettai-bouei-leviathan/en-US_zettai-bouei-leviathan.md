@@ -1,5 +1,7 @@
 # Zettai Bouei Leviathan
 
+![zettai-bouei-leviathan](https://cdn.myanimelist.net/images/anime/13/47499.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 絶対防衛レヴィアタン

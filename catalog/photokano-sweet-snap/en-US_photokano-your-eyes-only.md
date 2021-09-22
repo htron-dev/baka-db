@@ -1,5 +1,7 @@
 # Photokano: Your Eyes Only
 
+![photokano-your-eyes-only](https://cdn.myanimelist.net/images/manga/1/78229.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

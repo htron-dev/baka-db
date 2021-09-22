@@ -1,5 +1,7 @@
 # Grimm Masterpiece Theater II
 
+![grimm-masterpiece-theater-ii](https://cdn.myanimelist.net/images/anime/8/44608.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 23
 -   **original-name**: 新グリム名作劇場
@@ -12,7 +14,6 @@
 -   adventure
 -   comedy
 -   fantasy
-
 -   magic
 
 ## Sinopse

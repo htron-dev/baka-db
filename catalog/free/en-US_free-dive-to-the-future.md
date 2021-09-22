@@ -1,5 +1,7 @@
 # Free!: Dive to the Future
 
+![free-dive-to-the-future](https://cdn.myanimelist.net/images/anime/1243/95025.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: Free!-Dive to the Future-
@@ -33,4 +35,4 @@ Facing the reality and challenges of encountering higher calibre swimmers, Haruk
 -   [Official Site](http://df.iwatobi-sc.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13548)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20895)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Free!_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Free!_%28anime%29)

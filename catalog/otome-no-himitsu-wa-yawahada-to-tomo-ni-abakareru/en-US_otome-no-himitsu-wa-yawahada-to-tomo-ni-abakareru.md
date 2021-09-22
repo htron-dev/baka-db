@@ -1,5 +1,7 @@
 # Otome no Himitsu wa Yawahada to Tomo ni Abakareru
 
+![otome-no-himitsu-wa-yawahada-to-tomo-ni-abakareru](https://cdn.myanimelist.net/images/manga/3/194197.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 13

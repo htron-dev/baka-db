@@ -1,5 +1,7 @@
 # Hametarou
 
+![hametarou](https://cdn.myanimelist.net/images/anime/1417/100156.jpg)
+
 -   **type**: special
 -   **original-name**: はめたろう
 -   **start-date**: 2019-03-10

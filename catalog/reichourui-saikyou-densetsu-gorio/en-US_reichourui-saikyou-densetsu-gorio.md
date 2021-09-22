@@ -1,5 +1,7 @@
 # Reichourui Saikyou Densetsu: Gorio
 
+![reichourui-saikyou-densetsu-gorio](https://cdn.myanimelist.net/images/manga/3/191868.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 58

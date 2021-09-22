@@ -1,5 +1,7 @@
 # Nagatachou Icchoume Nanabanchi
 
+![nagatachou-icchoume-nanabanchi](https://cdn.myanimelist.net/images/manga/3/19348.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 29

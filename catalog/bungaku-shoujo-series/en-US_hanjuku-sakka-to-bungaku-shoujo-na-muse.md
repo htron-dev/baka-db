@@ -1,5 +1,7 @@
 # Hanjuku Sakka to "Bungaku Shoujo" na Muse
 
+![hanjuku-sakka-to-bungaku-shoujo-na-muse](https://cdn.myanimelist.net/images/manga/3/115245.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

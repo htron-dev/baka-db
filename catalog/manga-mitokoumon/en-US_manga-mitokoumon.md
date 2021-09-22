@@ -1,5 +1,7 @@
 # Manga Mitokoumon
 
+![manga-mitokoumon](https://cdn.myanimelist.net/images/anime/2/72120.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 46
 -   **original-name**: まんが水戸黄門

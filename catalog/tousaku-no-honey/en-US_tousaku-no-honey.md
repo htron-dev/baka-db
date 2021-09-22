@@ -1,5 +1,7 @@
 # Tousaku no Honey
 
+![tousaku-no-honey](https://cdn.myanimelist.net/images/manga/3/146685.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 倒錯のハニー

@@ -1,5 +1,7 @@
 # Griotte no Nemurihime
 
+![griotte-no-nemurihime](https://cdn.myanimelist.net/images/manga/1/233463.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

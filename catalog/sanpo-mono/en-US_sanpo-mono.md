@@ -1,5 +1,7 @@
 # Sanpo Mono
 
+![sanpo-mono](https://cdn.myanimelist.net/images/manga/2/81460.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

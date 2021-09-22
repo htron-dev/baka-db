@@ -1,5 +1,7 @@
 # Ore no Yubi de Midarero.: Heitengo no Salon, Ijiwaru ni Jirasarete
 
+![ore-no-yubi-de-midarero-heitengo-no-salon-ijiwaru-ni-jirasarete](https://cdn.myanimelist.net/images/manga/3/227592.jpg)
+
 -   **type**: manga
 -   **original-name**: 俺の指で乱れろ｡～閉店後のサロン､意地悪に焦らされて
 -   **start-date**: 2018-11-08

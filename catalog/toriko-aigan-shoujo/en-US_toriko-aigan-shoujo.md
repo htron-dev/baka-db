@@ -1,5 +1,7 @@
 # Toriko: Aigan Shoujo
 
+![toriko-aigan-shoujo](https://cdn.myanimelist.net/images/manga/1/36498.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # Hyakujuu Kingdom
 
+![hyakujuu-kingdom](https://cdn.myanimelist.net/images/manga/3/22431.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

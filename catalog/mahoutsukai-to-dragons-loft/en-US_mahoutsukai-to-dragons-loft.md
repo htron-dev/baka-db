@@ -1,5 +1,7 @@
 # Mahoutsukai to Dragon's Loft
 
+![mahoutsukai-to-dragons-loft](https://cdn.myanimelist.net/images/manga/1/210324.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

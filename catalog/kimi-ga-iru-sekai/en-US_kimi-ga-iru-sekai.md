@@ -1,5 +1,7 @@
 # Kimi ga Iru Sekai
 
+![kimi-ga-iru-sekai](https://cdn.myanimelist.net/images/manga/2/175836.jpg)
+
 -   **type**: light-novel
 -   **original-name**: キミガイルセカイ
 -   **start-date**: 2016-04-30

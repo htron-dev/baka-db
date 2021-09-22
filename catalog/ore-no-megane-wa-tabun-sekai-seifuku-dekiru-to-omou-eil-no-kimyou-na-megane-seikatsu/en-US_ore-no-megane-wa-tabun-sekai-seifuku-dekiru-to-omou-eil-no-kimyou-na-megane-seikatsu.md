@@ -1,5 +1,7 @@
 # Ore no Megane wa Tabun Sekai Seifuku Dekiru to Omou.: Eil no Kimyou na Megane Seikatsu
 
+![ore-no-megane-wa-tabun-sekai-seifuku-dekiru-to-omou-eil-no-kimyou-na-megane-seikatsu](https://cdn.myanimelist.net/images/manga/2/234915.jpg)
+
 -   **type**: manga
 -   **original-name**: 俺のメガネはたぶん世界征服できると思う。 エイルの奇妙なメガネ生活
 -   **start-date**: 2018-12-25

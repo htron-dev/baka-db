@@ -1,5 +1,7 @@
 # Yoru no Fuuki Iin Mitarashi Hanako-san
 
+![yoru-no-fuuki-iin-mitarashi-hanako-san](https://cdn.myanimelist.net/images/manga/3/36767.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 夜の風紀委員 御手洗華子さん

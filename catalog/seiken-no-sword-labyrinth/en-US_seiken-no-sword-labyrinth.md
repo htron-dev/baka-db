@@ -1,5 +1,7 @@
 # Seiken no Sword Labyrinth
 
+![seiken-no-sword-labyrinth](https://cdn.myanimelist.net/images/manga/1/159453.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 聖剣のソードラビリンス

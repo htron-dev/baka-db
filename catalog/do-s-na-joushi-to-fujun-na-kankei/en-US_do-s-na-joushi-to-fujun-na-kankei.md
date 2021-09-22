@@ -1,5 +1,7 @@
 # Do S na Joushi to Fujun na Kankei.
 
+![do-s-na-joushi-to-fujun-na-kankei](https://cdn.myanimelist.net/images/manga/3/194640.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ドＳな上司と不純なカンケイ。

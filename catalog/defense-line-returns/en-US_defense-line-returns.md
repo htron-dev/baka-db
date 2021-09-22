@@ -1,5 +1,7 @@
 # Defense Line Returns
 
+![defense-line-returns](https://cdn.myanimelist.net/images/manga/2/2593.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ディフェンスライン リターンズ

@@ -1,5 +1,7 @@
 # Nepos Napos
 
+![nepos-napos](https://cdn.myanimelist.net/images/anime/13/72768.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ネポス・ナポス

@@ -1,5 +1,7 @@
 # Dear, My God
 
+![dear-my-god](https://cdn.myanimelist.net/images/manga/2/180882.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

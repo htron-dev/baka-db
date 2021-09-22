@@ -1,5 +1,7 @@
 # Bakusou Ningen Vibrator
 
+![bakusou-ningen-vibrator](https://cdn.myanimelist.net/images/manga/2/248306.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

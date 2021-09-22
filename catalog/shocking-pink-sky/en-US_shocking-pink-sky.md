@@ -1,5 +1,7 @@
 # Shocking Pink-Sky
 
+![shocking-pink-sky](https://cdn.myanimelist.net/images/manga/1/49559.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: ショッキング PINK-SKY

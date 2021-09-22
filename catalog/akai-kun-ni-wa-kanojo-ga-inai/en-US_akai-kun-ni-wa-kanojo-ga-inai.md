@@ -1,5 +1,7 @@
 # Akai-kun ni wa Kanojo ga Inai
 
+![akai-kun-ni-wa-kanojo-ga-inai](https://cdn.myanimelist.net/images/manga/1/175707.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 赤井くんには彼女がいない

@@ -1,5 +1,7 @@
 # Shucchou Host Nyu Boy
 
+![shucchou-host-nyu-boy](https://cdn.myanimelist.net/images/manga/2/228596.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

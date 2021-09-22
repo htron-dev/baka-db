@@ -1,5 +1,7 @@
 # Missing Road
 
+![missing-road](https://cdn.myanimelist.net/images/manga/3/2487.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

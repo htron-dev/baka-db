@@ -1,5 +1,7 @@
 # Hana wa Doko e Itta
 
+![hana-wa-doko-e-itta](https://cdn.myanimelist.net/images/manga/3/32114.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 花はどこへ行った

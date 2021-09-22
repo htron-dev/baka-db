@@ -1,5 +1,7 @@
 # Naomi damon
 
+![naomi-damon](https://cdn.myanimelist.net/images/manga/2/229502.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **original-name**: ナオミだもん

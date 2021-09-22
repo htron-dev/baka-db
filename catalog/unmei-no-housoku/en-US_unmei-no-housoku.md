@@ -1,5 +1,7 @@
 # Unmei no Housoku
 
+![unmei-no-housoku](https://cdn.myanimelist.net/images/manga/1/95955.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 運命の法則

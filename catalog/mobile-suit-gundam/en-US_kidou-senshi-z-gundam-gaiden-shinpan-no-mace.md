@@ -1,5 +1,7 @@
 # Kidou Senshi Z Gundam Gaiden: Shinpan no Mace
 
+![kidou-senshi-z-gundam-gaiden-shinpan-no-mace](https://cdn.myanimelist.net/images/manga/3/234582.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

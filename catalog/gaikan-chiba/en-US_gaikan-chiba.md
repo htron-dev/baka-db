@@ -1,5 +1,7 @@
 # Gaikan Chiba
 
+![gaikan-chiba](https://cdn.myanimelist.net/images/anime/1867/92972.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: GAIKAN CHIBA

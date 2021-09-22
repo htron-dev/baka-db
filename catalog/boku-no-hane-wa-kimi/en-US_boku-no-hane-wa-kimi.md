@@ -1,5 +1,7 @@
 # Boku no Hane wa Kimi
 
+![boku-no-hane-wa-kimi](https://cdn.myanimelist.net/images/manga/2/157060.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

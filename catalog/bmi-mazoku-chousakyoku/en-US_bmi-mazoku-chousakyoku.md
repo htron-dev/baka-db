@@ -1,5 +1,7 @@
 # BMI - Mazoku Chousakyoku
 
+![bmi-mazoku-chousakyoku](https://cdn.myanimelist.net/images/manga/3/115663.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: BMI ～魔族調査局

@@ -1,5 +1,7 @@
 # Ajin Part 1: Shoudou
 
+![ajin-part-1-shoudou](https://cdn.myanimelist.net/images/anime/6/77205.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 亜人　第１部「衝動」

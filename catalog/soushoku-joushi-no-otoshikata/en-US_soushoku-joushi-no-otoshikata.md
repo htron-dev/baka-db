@@ -1,5 +1,7 @@
 # Soushoku Joushi no Otoshikata
 
+![soushoku-joushi-no-otoshikata](https://cdn.myanimelist.net/images/manga/2/70369.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

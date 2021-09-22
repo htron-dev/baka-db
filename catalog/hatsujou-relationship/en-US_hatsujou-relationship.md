@@ -1,5 +1,7 @@
 # Hatsujou Relationship
 
+![hatsujou-relationship](https://cdn.myanimelist.net/images/manga/2/246960.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

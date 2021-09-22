@@ -1,5 +1,7 @@
 # Jikkyou!! Izumi-kun no Koi Moyou
 
+![jikkyou-izumi-kun-no-koi-moyou](https://cdn.myanimelist.net/images/manga/3/207162.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

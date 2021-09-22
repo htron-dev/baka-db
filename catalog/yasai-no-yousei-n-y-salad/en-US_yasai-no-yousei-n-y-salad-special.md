@@ -1,5 +1,7 @@
 # Yasai no Yousei: N.Y. Salad Special
 
+![yasai-no-yousei-n-y-salad-special](https://cdn.myanimelist.net/images/anime/1898/108327.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: やさいのようせいスペシャル

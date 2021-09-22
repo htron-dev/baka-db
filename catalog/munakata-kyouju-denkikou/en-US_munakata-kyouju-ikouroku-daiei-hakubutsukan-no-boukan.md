@@ -1,5 +1,7 @@
 # Munakata Kyouju Ikouroku: Daiei Hakubutsukan no Boukan
 
+![munakata-kyouju-ikouroku-daiei-hakubutsukan-no-boukan](https://cdn.myanimelist.net/images/manga/3/38901.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

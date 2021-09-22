@@ -1,5 +1,7 @@
 # JK to Tomodachi no Okan
 
+![jk-to-tomodachi-no-okan](https://cdn.myanimelist.net/images/manga/2/241816.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

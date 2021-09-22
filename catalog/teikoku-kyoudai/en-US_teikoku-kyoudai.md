@@ -1,5 +1,7 @@
 # Teikoku Kyoudai
 
+![teikoku-kyoudai](https://cdn.myanimelist.net/images/manga/3/14357.jpg)
+
 -   **type**: manga
 -   **original-name**: 帝国兄弟
 -   **start-date**: 2004-06-20

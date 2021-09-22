@@ -1,5 +1,7 @@
 # Assobot Goku
 
+![assobot-goku](https://cdn.myanimelist.net/images/manga/1/17570.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: アソボット五九

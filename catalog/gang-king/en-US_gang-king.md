@@ -1,5 +1,7 @@
 # Gang King
 
+![gang-king](https://cdn.myanimelist.net/images/manga/3/167766.jpg)
+
 -   **type**: manga
 -   **volumes**: 37
 -   **chapters**: 277

@@ -1,5 +1,7 @@
 # Tensei shichatta yo (Iya, Gomen)
 
+![tensei-shichatta-yo-iya-gomen](https://cdn.myanimelist.net/images/manga/3/192865.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **original-name**: 転生しちゃったよ （いや、ごめん）

@@ -1,5 +1,7 @@
 # Anne no Nikki
 
+![anne-no-nikki](https://cdn.myanimelist.net/images/anime/12/46771.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アンネの日記

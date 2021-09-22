@@ -1,5 +1,7 @@
 # Musekinin Kids
 
+![musekinin-kids](https://cdn.myanimelist.net/images/manga/2/238067.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 39

@@ -1,5 +1,7 @@
 # Tanjou: Debut
 
+![tanjou-debut](https://cdn.myanimelist.net/images/anime/8/71728.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 誕生～Ｄｅｂｕｔ～

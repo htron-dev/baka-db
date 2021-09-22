@@ -1,5 +1,7 @@
 # Tsugunai no Wedding: Bara ga Hada wo Someru Toki
 
+![tsugunai-no-wedding-bara-ga-hada-wo-someru-toki](https://cdn.myanimelist.net/images/manga/1/183989.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

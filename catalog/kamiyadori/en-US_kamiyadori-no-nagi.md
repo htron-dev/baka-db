@@ -1,5 +1,7 @@
 # Kamiyadori no Nagi
 
+![kamiyadori-no-nagi](https://cdn.myanimelist.net/images/manga/3/76461.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

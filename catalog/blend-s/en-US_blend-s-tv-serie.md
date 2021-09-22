@@ -1,5 +1,7 @@
 # Blend S
 
+![blend-s](https://cdn.myanimelist.net/images/anime/6/88286.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ブレンド・S

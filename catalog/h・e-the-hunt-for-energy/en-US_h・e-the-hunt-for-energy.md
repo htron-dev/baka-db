@@ -1,5 +1,7 @@
 # H・E: The Hunt for Energy
 
+![h・e-the-hunt-for-energy](https://cdn.myanimelist.net/images/manga/1/142853.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

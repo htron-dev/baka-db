@@ -1,5 +1,7 @@
 # Ani ni Aisaresugite Komattemasu
 
+![ani-ni-aisaresugite-komattemasu](https://cdn.myanimelist.net/images/manga/3/167642.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 72

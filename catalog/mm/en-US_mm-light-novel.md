@@ -1,5 +1,7 @@
 # MM!
 
+![mm](https://cdn.myanimelist.net/images/manga/5/81137.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 12
 -   **original-name**: えむえむっ!

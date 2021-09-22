@@ -1,5 +1,7 @@
 # Dakara Boku wa, H ga Dekinai.: Mie Sugi! Mizugi Contest
 
+![dakara-boku-wa-h-ga-dekinai-mie-sugi-mizugi-contest](https://cdn.myanimelist.net/images/anime/11/51565.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: だから僕は、Ｈができない 。 見えすぎ! 水着コンテスト

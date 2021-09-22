@@ -1,5 +1,7 @@
 # Gijinka de Manabo!
 
+![gijinka-de-manabo](https://cdn.myanimelist.net/images/anime/6/83240.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 擬人化でまなぼ!

@@ -1,5 +1,7 @@
 # Pocket Monsters Horizon
 
+![pocket-monsters-horizon](https://cdn.myanimelist.net/images/manga/1/193344.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Kizutsuite Romance
 
+![kizutsuite-romance](https://cdn.myanimelist.net/images/manga/1/175422.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

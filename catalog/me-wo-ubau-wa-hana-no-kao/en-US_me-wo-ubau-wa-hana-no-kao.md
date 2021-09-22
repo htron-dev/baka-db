@@ -1,5 +1,7 @@
 # Me wo Ubau wa Hana no Kao
 
+![me-wo-ubau-wa-hana-no-kao](https://cdn.myanimelist.net/images/manga/2/195537.jpg)
+
 -   **type**: manga
 -   **original-name**: 目を奪うは花の顔
 -   **start-date**: 2015-12-26

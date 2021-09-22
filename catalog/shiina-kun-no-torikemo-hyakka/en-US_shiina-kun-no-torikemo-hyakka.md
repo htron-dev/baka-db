@@ -1,5 +1,7 @@
 # Shiina-kun no Torikemo Hyakka
 
+![shiina-kun-no-torikemo-hyakka](https://cdn.myanimelist.net/images/manga/1/199109.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 41

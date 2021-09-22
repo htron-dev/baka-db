@@ -1,5 +1,7 @@
 # Shinigami Tantei to Yuurei Gakuen
 
+![shinigami-tantei-to-yuurei-gakuen](https://cdn.myanimelist.net/images/manga/2/80685.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

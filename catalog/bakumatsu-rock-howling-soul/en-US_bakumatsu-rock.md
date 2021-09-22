@@ -1,5 +1,7 @@
 # Bakumatsu Rock
 
+![bakumatsu-rock](https://cdn.myanimelist.net/images/anime/11/62557.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 幕末 Rock

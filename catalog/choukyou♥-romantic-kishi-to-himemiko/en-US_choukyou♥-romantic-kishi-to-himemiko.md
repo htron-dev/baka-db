@@ -1,5 +1,7 @@
 # Choukyou♥Romantic: Kishi to Himemiko
 
+![choukyou♥-romantic-kishi-to-himemiko](https://cdn.myanimelist.net/images/manga/1/182920.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

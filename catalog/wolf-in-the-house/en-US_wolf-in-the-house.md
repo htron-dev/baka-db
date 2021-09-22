@@ -1,5 +1,7 @@
 # Wolf in the House
 
+![wolf-in-the-house](https://cdn.myanimelist.net/images/manga/3/230370.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **original-name**: 울프 인더 하우스

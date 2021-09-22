@@ -1,5 +1,7 @@
 # Densha Otoko: Ganbare Dokuo!
 
+![densha-otoko-ganbare-dokuo](https://cdn.myanimelist.net/images/manga/3/213825.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 30

@@ -1,5 +1,7 @@
 # Hazureta Minna no Atama no Neji
 
+![hazureta-minna-no-atama-no-neji](https://cdn.myanimelist.net/images/manga/2/203441.jpg)
+
 -   **type**: manga
 -   **original-name**: 外れたみんなの頭のネジ
 -   **start-date**: 2015-06-13

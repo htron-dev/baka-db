@@ -1,5 +1,7 @@
 # Emiri ni Omakase♥
 
+![emiri-ni-omakase♥](https://cdn.myanimelist.net/images/manga/2/7194.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Ultraman
 
+![ultraman](https://cdn.myanimelist.net/images/anime/1774/116478.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: ULTRAMAN
@@ -29,4 +31,4 @@ One night, Shinjirou is attacked by an alien named Bemular and rescued by his fa
 -   [Official Site](http://anime.heros-ultraman.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13618)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21602)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Ultraman_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Ultraman_%28manga%29)

@@ -1,5 +1,7 @@
 # Oshin
 
+![oshin](https://cdn.myanimelist.net/images/manga/1/30716.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: おしん

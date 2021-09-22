@@ -1,5 +1,7 @@
 # Violence☆Magical!
 
+![violence☆-magical](https://cdn.myanimelist.net/images/manga/2/162868.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Wolf Guy: Ookami no Monshou
 
+![wolf-guy-ookami-no-monshou](https://cdn.myanimelist.net/images/manga/1/248873.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 117

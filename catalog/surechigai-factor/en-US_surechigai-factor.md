@@ -1,5 +1,7 @@
 # Surechigai Factor
 
+![surechigai-factor](https://cdn.myanimelist.net/images/manga/1/234919.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

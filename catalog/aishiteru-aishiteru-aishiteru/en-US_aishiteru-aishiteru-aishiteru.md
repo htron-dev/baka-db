@@ -1,5 +1,7 @@
 # Aishiteru Aishiteru Aishiteru
 
+![aishiteru-aishiteru-aishiteru](https://cdn.myanimelist.net/images/manga/3/193847.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

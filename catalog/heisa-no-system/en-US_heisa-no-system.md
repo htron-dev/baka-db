@@ -1,5 +1,7 @@
 # Heisa no System
 
+![heisa-no-system](https://cdn.myanimelist.net/images/manga/1/158033.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

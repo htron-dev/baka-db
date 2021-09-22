@@ -1,5 +1,7 @@
 # Susume! Giga Green
 
+![susume-giga-green](https://cdn.myanimelist.net/images/manga/3/215947.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 38

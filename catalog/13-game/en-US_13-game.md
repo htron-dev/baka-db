@@ -1,5 +1,7 @@
 # 13 Game
 
+![13-game](https://cdn.myanimelist.net/images/manga/2/139023.jpg)
+
 -   **type**: manga
 -   **original-name**: 13GAME
 -   **start-date**: 2012-02-29

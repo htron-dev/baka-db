@@ -1,5 +1,7 @@
 # Suzumiya Haruhi no Yuuutsu
 
+![suzumiya-haruhi-no-yuuutsu](https://cdn.myanimelist.net/images/anime/5/75901.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 14
 -   **original-name**: 涼宮ハルヒの憂鬱

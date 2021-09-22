@@ -1,5 +1,7 @@
 # Tou no Kanri wo Shitemiyou
 
+![tou-no-kanri-wo-shitemiyou](https://cdn.myanimelist.net/images/manga/1/221246.jpg)
+
 -   **type**: manga
 -   **original-name**: 塔の管理をしてみよう
 -   **start-date**: 2018-03-22

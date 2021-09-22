@@ -1,5 +1,7 @@
 # Onryou Okusama
 
+![onryou-okusama](https://cdn.myanimelist.net/images/manga/2/225319.jpg)
+
 -   **type**: manga
 -   **original-name**: 怨霊奥様
 -   **start-date**: 2018-06-01

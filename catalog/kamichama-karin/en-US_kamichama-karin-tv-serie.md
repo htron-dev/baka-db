@@ -1,5 +1,7 @@
 # Kamichama Karin
 
+![kamichama-karin](https://cdn.myanimelist.net/images/anime/12/76297.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: かみちゃまかりん

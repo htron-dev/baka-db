@@ -1,5 +1,7 @@
 # Smile de Ikou
 
+![smile-de-ikou](https://cdn.myanimelist.net/images/manga/1/26593.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: スマイルでいこう

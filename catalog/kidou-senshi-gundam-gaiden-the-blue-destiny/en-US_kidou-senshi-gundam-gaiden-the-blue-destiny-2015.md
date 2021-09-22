@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam Gaiden: The Blue Destiny (2015)
 
+![kidou-senshi-gundam-gaiden-the-blue-destiny-2015](https://cdn.myanimelist.net/images/manga/2/177619.jpg)
+
 -   **type**: manga
 -   **original-name**: 機動戦士ガンダム外伝 ザ・ブルー・ディスティニー
 -   **start-date**: 2015-09-26

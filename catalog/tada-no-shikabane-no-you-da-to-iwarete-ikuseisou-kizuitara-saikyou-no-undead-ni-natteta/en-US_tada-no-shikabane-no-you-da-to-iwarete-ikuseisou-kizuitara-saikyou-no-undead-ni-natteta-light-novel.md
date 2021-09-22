@@ -1,5 +1,7 @@
 # Tada no Shikabane no You da to Iwarete Ikuseisou, Kizuitara Saikyou no Undead ni Natteta
 
+![tada-no-shikabane-no-you-da-to-iwarete-ikuseisou-kizuitara-saikyou-no-undead-ni-natteta](https://cdn.myanimelist.net/images/manga/2/242246.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ただの屍のようだと言われて幾星霜、気づいたら最強のアンデッドになってた
 -   **start-date**: 2020-09-19

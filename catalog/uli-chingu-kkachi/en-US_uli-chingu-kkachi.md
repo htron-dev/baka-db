@@ -1,5 +1,7 @@
 # Uli Chingu Kkachi
 
+![uli-chingu-kkachi](https://cdn.myanimelist.net/images/anime/10/71974.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 우리 친구 까치

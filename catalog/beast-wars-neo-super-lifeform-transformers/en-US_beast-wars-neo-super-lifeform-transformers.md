@@ -1,5 +1,7 @@
 # Beast Wars Neo: Super Lifeform Transformers
 
+![beast-wars-neo-super-lifeform-transformers](https://cdn.myanimelist.net/images/manga/2/35679.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12
@@ -11,7 +13,6 @@
 
 -   action
 -   adventure
-
 -   mecha
 -   sci-fi
 

@@ -1,5 +1,7 @@
 # Boku no Kirai na Otouto
 
+![boku-no-kirai-na-otouto](https://cdn.myanimelist.net/images/manga/3/189891.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

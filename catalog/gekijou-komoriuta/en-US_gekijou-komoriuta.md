@@ -1,5 +1,7 @@
 # Gekijou Komoriuta
 
+![gekijou-komoriuta](https://cdn.myanimelist.net/images/manga/2/137725.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

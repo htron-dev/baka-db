@@ -1,5 +1,7 @@
 # Hokenshitsu no Target
 
+![hokenshitsu-no-target](https://cdn.myanimelist.net/images/manga/2/41239.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

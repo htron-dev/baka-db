@@ -1,5 +1,7 @@
 # Gesshi
 
+![gesshi](https://cdn.myanimelist.net/images/manga/2/161776.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

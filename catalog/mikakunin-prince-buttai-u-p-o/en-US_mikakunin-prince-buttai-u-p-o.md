@@ -1,5 +1,7 @@
 # Mikakunin Prince Buttai U.P.O.
 
+![mikakunin-prince-buttai-u-p-o](https://cdn.myanimelist.net/images/manga/1/178638.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 未確認プリンス物体 U.P.O.

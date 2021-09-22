@@ -1,5 +1,7 @@
 # Hatsune Miku no Shoushitsu
 
+![hatsune-miku-no-shoushitsu](https://cdn.myanimelist.net/images/manga/3/154786.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 初音ミクの消失

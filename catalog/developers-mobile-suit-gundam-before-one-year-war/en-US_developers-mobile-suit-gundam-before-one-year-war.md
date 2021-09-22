@@ -1,5 +1,7 @@
 # Developers - Mobile Suit Gundam Before One Year War
 
+![developers-mobile-suit-gundam-before-one-year-war](https://cdn.myanimelist.net/images/manga/1/22054.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

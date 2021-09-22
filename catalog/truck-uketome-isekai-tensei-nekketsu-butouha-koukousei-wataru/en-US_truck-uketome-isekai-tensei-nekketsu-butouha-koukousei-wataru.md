@@ -1,5 +1,7 @@
 # Truck Uketome Isekai Tensei!: Nekketsu Butouha Koukousei Wataru!!
 
+![truck-uketome-isekai-tensei-nekketsu-butouha-koukousei-wataru](https://cdn.myanimelist.net/images/manga/1/241446.jpg)
+
 -   **type**: light-novel
 -   **original-name**: トラック受け止め異世界転生ッ！熱血武闘派高校生ワタルッッ！！
 -   **start-date**: 2019-12-25

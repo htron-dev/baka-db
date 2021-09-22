@@ -1,5 +1,7 @@
 # Hiyoko Strike! Houmatsu no Yume
 
+![hiyoko-strike-houmatsu-no-yume](https://cdn.myanimelist.net/images/manga/3/178451.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Haitoku wa Netsuku Afuredasu
 
+![haitoku-wa-netsuku-afuredasu](https://cdn.myanimelist.net/images/manga/3/5766.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

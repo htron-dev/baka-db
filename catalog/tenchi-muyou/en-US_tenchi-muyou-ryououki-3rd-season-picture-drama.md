@@ -1,5 +1,7 @@
 # Tenchi Muyou! Ryououki 3rd Season Picture Drama
 
+![tenchi-muyou-ryououki-3rd-season-picture-drama](https://cdn.myanimelist.net/images/anime/1763/92078.jpg)
+
 -   **type**: special
 -   **episodes**: 5
 -   **original-name**: ラヂオ天地

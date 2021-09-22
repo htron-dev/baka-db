@@ -1,5 +1,7 @@
 # Shiosai no Majo
 
+![shiosai-no-majo](https://cdn.myanimelist.net/images/manga/1/243152.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

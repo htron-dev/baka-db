@@ -1,5 +1,7 @@
 # Hatsurukotonaki Mirai yori: Giniro no Tsubasa
 
+![hatsurukotonaki-mirai-yori-giniro-no-tsubasa](https://cdn.myanimelist.net/images/manga/2/180709.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

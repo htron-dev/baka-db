@@ -1,5 +1,7 @@
 # Oneechan ga Kita
 
+![oneechan-ga-kita](https://cdn.myanimelist.net/images/anime/3/56415.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: お姉ちゃんが来た

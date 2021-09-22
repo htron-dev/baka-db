@@ -1,5 +1,7 @@
 # Ie Naki Ko
 
+![ie-naki-ko](https://cdn.myanimelist.net/images/anime/9/76757.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: 家なき子
@@ -14,7 +16,6 @@
 -   adventure
 -   drama
 -   historical
-
 -   slice-of-life
 
 ## Sinopse

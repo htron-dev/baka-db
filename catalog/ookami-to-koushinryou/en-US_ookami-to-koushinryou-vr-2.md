@@ -1,5 +1,7 @@
 # Ookami to Koushinryou VR 2
 
+![ookami-to-koushinryou-vr-2](https://cdn.myanimelist.net/images/anime/1718/110680.jpg)
+
 -   **type**: ona
 -   **episodes**: 9
 -   **original-name**: 狼と香辛料 VR 2

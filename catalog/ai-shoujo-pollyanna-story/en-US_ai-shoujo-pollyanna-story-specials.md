@@ -1,5 +1,7 @@
 # Ai Shoujo Pollyanna Story Specials
 
+![ai-shoujo-pollyanna-story-specials](https://cdn.myanimelist.net/images/anime/5/63433.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 世界名作劇場・完結版 愛少女ポリアンナ物語

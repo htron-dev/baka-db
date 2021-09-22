@@ -1,5 +1,7 @@
 # Kyoraku Region
 
+![kyoraku-region](https://cdn.myanimelist.net/images/manga/3/108455.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 京洛れぎおん

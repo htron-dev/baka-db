@@ -1,5 +1,7 @@
 # Otogi Story Tenshi no Shippo
 
+![otogi-story-tenshi-no-shippo](https://cdn.myanimelist.net/images/anime/10/21092.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: おとぎストーリー　天使のしっぽ

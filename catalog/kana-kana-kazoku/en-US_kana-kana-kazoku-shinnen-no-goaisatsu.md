@@ -1,5 +1,7 @@
 # Kana Kana Kazoku: Shinnen no Goaisatsu
 
+![kana-kana-kazoku-shinnen-no-goaisatsu](https://cdn.myanimelist.net/images/anime/2/72841.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: かなかなかぞく　新年のごあいさつ

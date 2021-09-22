@@ -1,5 +1,7 @@
 # Lie Yang Tiandao I
 
+![lie-yang-tiandao-i](https://cdn.myanimelist.net/images/anime/1296/114407.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 烈阳天道 Ⅰ

@@ -1,5 +1,7 @@
 # Exor-sister!
 
+![exor-sister](https://cdn.myanimelist.net/images/manga/2/171312.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 49

@@ -1,5 +1,7 @@
 # Lalala Demacia Third Season
 
+![lalala-demacia-third-season](https://cdn.myanimelist.net/images/anime/1100/114413.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 啦啦啦德玛西亚 第三季

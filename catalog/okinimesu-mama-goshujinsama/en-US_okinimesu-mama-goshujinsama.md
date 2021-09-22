@@ -1,5 +1,7 @@
 # Okinimesu mama Goshujinsama
 
+![okinimesu-mama-goshujinsama](https://cdn.myanimelist.net/images/manga/3/175258.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 43

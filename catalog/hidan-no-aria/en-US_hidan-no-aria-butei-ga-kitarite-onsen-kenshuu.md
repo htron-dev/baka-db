@@ -1,5 +1,7 @@
 # Hidan no Aria: Butei ga Kitarite Onsen Kenshuu
 
+![hidan-no-aria-butei-ga-kitarite-onsen-kenshuu](https://cdn.myanimelist.net/images/anime/2/29138.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 緋弾のアリア 武偵が来たりて温泉研修

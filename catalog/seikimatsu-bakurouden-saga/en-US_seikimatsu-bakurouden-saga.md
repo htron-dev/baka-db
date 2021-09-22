@@ -1,5 +1,7 @@
 # Seikimatsu Bakurouden Saga
 
+![seikimatsu-bakurouden-saga](https://cdn.myanimelist.net/images/manga/3/237104.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 72

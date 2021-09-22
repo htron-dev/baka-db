@@ -1,5 +1,7 @@
 # Shinanaide! Asukawa-san
 
+![shinanaide-asukawa-san](https://cdn.myanimelist.net/images/manga/1/221871.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

@@ -1,5 +1,7 @@
 # Sword Art Online: Fairy Dance
 
+![sword-art-online-fairy-dance](https://cdn.myanimelist.net/images/manga/1/137905.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

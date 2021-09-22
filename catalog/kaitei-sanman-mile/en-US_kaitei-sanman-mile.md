@@ -1,5 +1,7 @@
 # Kaitei Sanman Mile
 
+![kaitei-sanman-mile](https://cdn.myanimelist.net/images/anime/3/25424.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 海底 3 万マイル

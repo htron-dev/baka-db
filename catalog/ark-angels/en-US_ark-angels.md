@@ -1,5 +1,7 @@
 # Ark Angels
 
+![ark-angels](https://cdn.myanimelist.net/images/manga/2/5440.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Chou Rakuen Ichiba
 
+![chou-rakuen-ichiba](https://cdn.myanimelist.net/images/manga/1/208032.jpg)
+
 -   **type**: manga
 -   **original-name**: 超・楽園市場
 -   **start-date**: 2018-02-05

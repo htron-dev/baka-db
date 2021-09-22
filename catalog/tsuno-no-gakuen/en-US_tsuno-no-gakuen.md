@@ -1,5 +1,7 @@
 # Tsuno no Gakuen
 
+![tsuno-no-gakuen](https://cdn.myanimelist.net/images/manga/3/203504.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

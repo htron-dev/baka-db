@@ -1,5 +1,7 @@
 # Ojama Yuurei-kun
 
+![ojama-yuurei-kun](https://cdn.myanimelist.net/images/manga/2/178261.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 30
@@ -11,7 +13,6 @@
 
 -   comedy
 -   ecchi
-
 -   gender-bender
 
 ## Authors

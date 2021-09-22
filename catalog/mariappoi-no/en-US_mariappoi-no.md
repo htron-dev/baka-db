@@ -1,5 +1,7 @@
 # Mariappoi no!
 
+![mariappoi-no](https://cdn.myanimelist.net/images/manga/1/2778.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: マリアっぽいの！

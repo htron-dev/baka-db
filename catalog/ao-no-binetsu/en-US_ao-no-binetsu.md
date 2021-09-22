@@ -1,5 +1,7 @@
 # Ao no Binetsu
 
+![ao-no-binetsu](https://cdn.myanimelist.net/images/manga/5/100867.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

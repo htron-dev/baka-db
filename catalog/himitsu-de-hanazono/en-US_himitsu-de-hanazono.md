@@ -1,5 +1,7 @@
 # Himitsu de, Hanazono
 
+![himitsu-de-hanazono](https://cdn.myanimelist.net/images/manga/1/16698.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 秘密で、花園。

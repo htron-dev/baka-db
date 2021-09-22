@@ -1,5 +1,7 @@
 # Oshiri Kajiri Mushi (TV) 4th Season
 
+![oshiri-kajiri-mushi-tv-4th-season](https://cdn.myanimelist.net/images/anime/3/76521.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: おしりかじり虫　第４シリーズ

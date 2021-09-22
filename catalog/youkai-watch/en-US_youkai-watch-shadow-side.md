@@ -1,5 +1,7 @@
 # Youkai Watch: Shadow Side
 
+![youkai-watch-shadow-side](https://cdn.myanimelist.net/images/anime/1072/90600.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: 妖怪ウォッチ シャドウサイド
@@ -13,7 +15,6 @@
 
 -   comedy
 -   demons
-
 -   supernatural
 
 ## Sinopse

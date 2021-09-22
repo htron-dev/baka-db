@@ -1,5 +1,7 @@
 # Kyoumen no Silhouette
 
+![kyoumen-no-silhouette](https://cdn.myanimelist.net/images/manga/3/111093.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

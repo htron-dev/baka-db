@@ -1,5 +1,7 @@
 # Hyoufuu no Kolkka: Yuki no Yousei to Shiroi Shinigami
 
+![hyoufuu-no-kolkka-yuki-no-yousei-to-shiroi-shinigami](https://cdn.myanimelist.net/images/manga/1/118093.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 氷風のクルッカ 雪の妖精と白い死神

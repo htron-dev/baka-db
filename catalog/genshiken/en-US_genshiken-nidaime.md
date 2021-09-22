@@ -1,5 +1,7 @@
 # Genshiken Nidaime
 
+![genshiken-nidaime](https://cdn.myanimelist.net/images/anime/11/52935.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: げんしけん 二代目

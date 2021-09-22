@@ -1,5 +1,7 @@
 # Saint Seiya: Legend of Sanctuary
 
+![saint-seiya-legend-of-sanctuary](https://cdn.myanimelist.net/images/anime/6/78671.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 聖闘士星矢 LEGEND of SANCTUARY

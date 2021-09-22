@@ -1,5 +1,7 @@
 # Kimusume Renai Kinshirei
 
+![kimusume-renai-kinshirei](https://cdn.myanimelist.net/images/manga/2/175718.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

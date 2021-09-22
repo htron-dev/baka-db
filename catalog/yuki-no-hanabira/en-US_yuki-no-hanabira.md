@@ -1,5 +1,7 @@
 # Yuki no Hanabira
 
+![yuki-no-hanabira](https://cdn.myanimelist.net/images/manga/3/193458.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

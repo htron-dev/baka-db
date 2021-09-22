@@ -1,5 +1,7 @@
 # Hebi no Seikatsu
 
+![hebi-no-seikatsu](https://cdn.myanimelist.net/images/manga/2/189401.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

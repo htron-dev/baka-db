@@ -1,5 +1,7 @@
 # Hanafurirou Series
 
+![hanafurirou-series](https://cdn.myanimelist.net/images/manga/4/22772.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 花降楼シリーズ
 -   **start-date**: 2004-06-20

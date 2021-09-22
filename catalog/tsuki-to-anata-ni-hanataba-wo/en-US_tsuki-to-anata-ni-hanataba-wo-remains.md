@@ -1,5 +1,7 @@
 # Tsuki to Anata ni Hanataba wo Remains
 
+![tsuki-to-anata-ni-hanataba-wo-remains](https://cdn.myanimelist.net/images/manga/2/164537.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 月と貴女に花束を remains

@@ -1,5 +1,7 @@
 # Mob-kei Danshi no Yuuutsu
 
+![mob-kei-danshi-no-yuuutsu](https://cdn.myanimelist.net/images/manga/3/199231.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

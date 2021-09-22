@@ -1,5 +1,7 @@
 # MagMell Shinkai Suizokukan
 
+![mag-mell-shinkai-suizokukan](https://cdn.myanimelist.net/images/manga/2/204430.jpg)
+
 -   **type**: manga
 -   **original-name**: マグメル深海水族館
 -   **start-date**: 2017-04-08

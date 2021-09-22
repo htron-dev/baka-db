@@ -1,5 +1,7 @@
 # MM!
 
+![mm](https://cdn.myanimelist.net/images/manga/1/54233.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 40

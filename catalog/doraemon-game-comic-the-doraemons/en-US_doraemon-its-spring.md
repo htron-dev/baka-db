@@ -1,5 +1,7 @@
 # Doraemon: It's Spring!
 
+![doraemon-its-spring](https://cdn.myanimelist.net/images/anime/1728/109536.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 春だ！一番ドラえもん祭り

@@ -1,5 +1,7 @@
 # Mushikaburi-hime
 
+![mushikaburi-hime](https://cdn.myanimelist.net/images/manga/1/221544.jpg)
+
 -   **type**: manga
 -   **original-name**: 虫かぶり姫
 -   **start-date**: 2018-08-28

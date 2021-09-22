@@ -1,5 +1,7 @@
 # Mienai Kao
 
+![mienai-kao](https://cdn.myanimelist.net/images/manga/3/24808.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 見えない顔

@@ -1,5 +1,7 @@
 # Piano no Mori
 
+![piano-no-mori](https://cdn.myanimelist.net/images/anime/9/45012.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ピアノの森 The Perfect World of Kai

@@ -1,5 +1,7 @@
 # Fushigi Tales Garden
 
+![fushigi-tales-garden](https://cdn.myanimelist.net/images/manga/2/152138.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

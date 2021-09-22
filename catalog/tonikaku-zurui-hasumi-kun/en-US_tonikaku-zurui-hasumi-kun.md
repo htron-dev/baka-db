@@ -1,5 +1,7 @@
 # Tonikaku Zurui Hasumi-kun
 
+![tonikaku-zurui-hasumi-kun](https://cdn.myanimelist.net/images/manga/1/202321.jpg)
+
 -   **type**: manga
 -   **chapters**: 7
 -   **original-name**: とにかくずるい蓮水くん

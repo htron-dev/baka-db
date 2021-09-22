@@ -1,5 +1,7 @@
 # Kinjirareta Koi ni Ochite
 
+![kinjirareta-koi-ni-ochite](https://cdn.myanimelist.net/images/manga/1/84235.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

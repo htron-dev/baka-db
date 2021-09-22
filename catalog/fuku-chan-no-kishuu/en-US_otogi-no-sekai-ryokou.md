@@ -1,5 +1,7 @@
 # Otogi no Sekai Ryokou
 
+![otogi-no-sekai-ryokou](https://cdn.myanimelist.net/images/anime/5/47157.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: おとぎの世界旅行

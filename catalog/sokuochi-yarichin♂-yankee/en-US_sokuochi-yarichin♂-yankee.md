@@ -1,5 +1,7 @@
 # Sokuochi Yarichin♂Yankee
 
+![sokuochi-yarichin♂-yankee](https://cdn.myanimelist.net/images/manga/3/223401.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

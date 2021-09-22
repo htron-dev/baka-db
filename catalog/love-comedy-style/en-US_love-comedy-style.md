@@ -1,5 +1,7 @@
 # Love Comedy Style
 
+![love-comedy-style](https://cdn.myanimelist.net/images/manga/3/56697.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

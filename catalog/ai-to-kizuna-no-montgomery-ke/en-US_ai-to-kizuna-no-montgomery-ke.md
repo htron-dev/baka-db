@@ -1,5 +1,7 @@
 # Ai to Kizuna no Montgomery-ke
 
+![ai-to-kizuna-no-montgomery-ke](https://cdn.myanimelist.net/images/manga/2/229860.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 愛と絆のモンゴメリー家

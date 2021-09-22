@@ -1,5 +1,7 @@
 # 8-gatsu no Symphony: Shibuya 2002-2003
 
+![8-gatsu-no-symphony-shibuya-2002-2003](https://cdn.myanimelist.net/images/anime/9/17359.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 8 月のシンフォニー ―渋谷 2002 ～ 2003

@@ -1,5 +1,7 @@
 # Tokyo Dragon Strike
 
+![tokyo-dragon-strike](https://cdn.myanimelist.net/images/manga/3/161753.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 東京ドラゴンストライク
 -   **start-date**: 2015-08-08

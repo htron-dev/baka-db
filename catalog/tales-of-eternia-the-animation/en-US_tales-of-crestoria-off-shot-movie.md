@@ -1,5 +1,7 @@
 # Tales Of Crestoria Off Shot Movie
 
+![tales-of-crestoria-off-shot-movie](https://cdn.myanimelist.net/images/anime/1922/115572.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: テイルズ オブ クレストリア オフショットムービー

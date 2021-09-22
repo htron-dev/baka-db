@@ -1,5 +1,7 @@
 # Isekai de Saikyou no Tsue ni Tensei shita Ore ga Iyagaru Shoujo wo Muriyari Mahou Shoujo ni P suru!
 
+![isekai-de-saikyou-no-tsue-ni-tensei-shita-ore-ga-iyagaru-shoujo-wo-muriyari-mahou-shoujo-ni-p-suru](https://cdn.myanimelist.net/images/manga/1/215894.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 26

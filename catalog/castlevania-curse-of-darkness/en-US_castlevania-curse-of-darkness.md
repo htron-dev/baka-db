@@ -1,5 +1,7 @@
 # Castlevania: Curse of Darkness
 
+![castlevania-curse-of-darkness](https://cdn.myanimelist.net/images/manga/5/14648.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 4

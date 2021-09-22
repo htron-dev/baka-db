@@ -1,5 +1,7 @@
 # Kobayashi-san Chi no Maid Dragon: Lucoa wa Boku no xx desu
 
+![kobayashi-san-chi-no-maid-dragon-lucoa-wa-boku-no-xx-desu](https://cdn.myanimelist.net/images/manga/2/240654.jpg)
+
 -   **type**: manga
 -   **original-name**: 小林さんちのメイドラゴン ルコアは僕の ×× です
 -   **start-date**: 2019-01-25

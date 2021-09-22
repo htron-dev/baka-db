@@ -1,5 +1,7 @@
 # Mayo Elle Otoko no Ko
 
+![mayo-elle-otoko-no-ko](https://cdn.myanimelist.net/images/manga/3/53077.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 迷 elle オトコノ娘

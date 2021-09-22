@@ -1,5 +1,7 @@
 # Toaru Majutsu no Index
 
+![toaru-majutsu-no-index](https://cdn.myanimelist.net/images/manga/3/176880.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 22
 -   **chapters**: 133

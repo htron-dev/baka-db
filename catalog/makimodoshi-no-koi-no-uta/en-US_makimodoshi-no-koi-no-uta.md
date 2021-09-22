@@ -1,5 +1,7 @@
 # Makimodoshi no Koi no Uta
 
+![makimodoshi-no-koi-no-uta](https://cdn.myanimelist.net/images/manga/3/36710.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

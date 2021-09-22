@@ -1,5 +1,7 @@
 # Natsume Yuujinchou Go
 
+![natsume-yuujinchou-go](https://cdn.myanimelist.net/images/anime/11/81755.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 夏目友人帳 伍

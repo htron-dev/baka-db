@@ -1,5 +1,7 @@
 # Suki ni Nattara Dame desu ka?
 
+![suki-ni-nattara-dame-desu-ka](https://cdn.myanimelist.net/images/manga/2/222980.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

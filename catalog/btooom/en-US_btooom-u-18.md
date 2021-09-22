@@ -1,5 +1,7 @@
 # Btooom! U-18
 
+![btooom-u-18](https://cdn.myanimelist.net/images/manga/3/216028.jpg)
+
 -   **type**: manga
 -   **original-name**: BTOOOM! U-18
 -   **start-date**: 2018-04-21

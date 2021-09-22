@@ -1,5 +1,7 @@
 # Doutei to Terminator Kanojo
 
+![doutei-to-terminator-kanojo](https://cdn.myanimelist.net/images/manga/2/229658.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

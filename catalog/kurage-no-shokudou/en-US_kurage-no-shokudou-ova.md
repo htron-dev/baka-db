@@ -1,5 +1,7 @@
 # Kurage no Shokudou
 
+![kurage-no-shokudou](https://cdn.myanimelist.net/images/anime/1285/112446.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: クラゲの食堂

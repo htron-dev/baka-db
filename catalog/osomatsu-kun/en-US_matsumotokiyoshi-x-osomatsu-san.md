@@ -1,5 +1,7 @@
 # Matsumotokiyoshi x Osomatsu-san
 
+![matsumotokiyoshi-x-osomatsu-san](https://cdn.myanimelist.net/images/anime/13/88814.jpg)
+
 -   **type**: ona
 -   **episodes**: 9
 -   **original-name**: マツモトキヨシ × おそ松さん

@@ -1,5 +1,7 @@
 # Houkago
 
+![houkago](https://cdn.myanimelist.net/images/anime/1802/114006.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 放課後

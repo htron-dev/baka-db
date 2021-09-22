@@ -1,5 +1,7 @@
 # Dainana Teikoku Hanayagitai
 
+![dainana-teikoku-hanayagitai](https://cdn.myanimelist.net/images/manga/1/189750.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

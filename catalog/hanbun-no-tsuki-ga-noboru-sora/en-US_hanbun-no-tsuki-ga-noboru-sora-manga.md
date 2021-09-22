@@ -1,5 +1,7 @@
 # Hanbun no Tsuki ga Noboru Sora
 
+![hanbun-no-tsuki-ga-noboru-sora](https://cdn.myanimelist.net/images/manga/1/18890.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

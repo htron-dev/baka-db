@@ -1,5 +1,7 @@
 # Hana to Oyogu
 
+![hana-to-oyogu](https://cdn.myanimelist.net/images/manga/2/19284.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 花と泳ぐ

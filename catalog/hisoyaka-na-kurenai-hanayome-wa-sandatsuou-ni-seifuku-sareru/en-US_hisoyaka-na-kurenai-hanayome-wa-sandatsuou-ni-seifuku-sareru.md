@@ -1,5 +1,7 @@
 # Hisoyaka na Kurenai: Hanayome wa Sandatsuou ni Seifuku sareru
 
+![hisoyaka-na-kurenai-hanayome-wa-sandatsuou-ni-seifuku-sareru](https://cdn.myanimelist.net/images/manga/1/183938.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Kami to Dorei no Syntax
 
+![kami-to-dorei-no-syntax](https://cdn.myanimelist.net/images/manga/1/164571.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 神と奴隷の誕生構文〈シンタックス〉

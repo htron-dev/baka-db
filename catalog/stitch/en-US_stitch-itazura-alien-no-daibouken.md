@@ -1,5 +1,7 @@
 # Stitch!: Itazura Alien no Daibouken
 
+![stitch-itazura-alien-no-daibouken](https://cdn.myanimelist.net/images/anime/10/17211.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 29
 -   **original-name**: スティッチ！～いたずらエイリアンの大冒険～
@@ -13,7 +15,6 @@
 
 -   adventure
 -   comedy
-
 -   sci-fi
 
 ## Sinopse

@@ -1,5 +1,7 @@
 # Hashire Melos (1981)
 
+![hashire-melos-1981](https://cdn.myanimelist.net/images/anime/4/76807.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 走れメロス

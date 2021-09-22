@@ -1,5 +1,7 @@
 # Kare to Kare no Ijiwaru na Kyori
 
+![kare-to-kare-no-ijiwaru-na-kyori](https://cdn.myanimelist.net/images/manga/3/166262.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

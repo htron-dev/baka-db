@@ -1,5 +1,7 @@
 # Kurui Naku no wa Boku no Ban
 
+![kurui-naku-no-wa-boku-no-ban](https://cdn.myanimelist.net/images/manga/3/192063.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

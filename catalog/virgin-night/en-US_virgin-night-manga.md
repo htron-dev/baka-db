@@ -1,5 +1,7 @@
 # Virgin Night
 
+![virgin-night](https://cdn.myanimelist.net/images/manga/1/3808.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

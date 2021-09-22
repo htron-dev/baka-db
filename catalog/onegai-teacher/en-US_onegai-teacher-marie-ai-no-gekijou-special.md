@@ -1,5 +1,7 @@
 # Onegai☆Teacher: Marie, Ai no Gekijou
 
+![onegai☆-teacher-marie-ai-no-gekijou](https://cdn.myanimelist.net/images/anime/10/17900.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: おねがい ☆ ティーチャー まりえ, 愛の劇場

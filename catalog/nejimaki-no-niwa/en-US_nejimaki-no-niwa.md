@@ -1,5 +1,7 @@
 # Nejimaki no Niwa
 
+![nejimaki-no-niwa](https://cdn.myanimelist.net/images/manga/1/35480.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

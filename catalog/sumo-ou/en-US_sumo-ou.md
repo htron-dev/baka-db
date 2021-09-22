@@ -1,5 +1,7 @@
 # Sumo Ou
 
+![sumo-ou](https://cdn.myanimelist.net/images/manga/3/75441.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: スモ王

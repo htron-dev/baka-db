@@ -1,5 +1,7 @@
 # Nanocore
 
+![nanocore](https://cdn.myanimelist.net/images/anime/13/79949.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 纳米核心

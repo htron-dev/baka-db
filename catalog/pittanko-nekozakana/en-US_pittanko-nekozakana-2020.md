@@ -1,5 +1,7 @@
 # Pittanko!! Nekozakana (2020)
 
+![pittanko-nekozakana-2020](https://cdn.myanimelist.net/images/anime/1927/113821.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ぴったんこ!! ねこざかな (2020)

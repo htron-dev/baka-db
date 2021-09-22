@@ -1,5 +1,7 @@
 # Kiesarishi Mono
 
+![kiesarishi-mono](https://cdn.myanimelist.net/images/manga/1/227160.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Kogane Crafter
 
+![kogane-crafter](https://cdn.myanimelist.net/images/manga/3/224323.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

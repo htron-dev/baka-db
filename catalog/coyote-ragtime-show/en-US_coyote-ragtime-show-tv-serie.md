@@ -1,5 +1,7 @@
 # Coyote Ragtime Show
 
+![coyote-ragtime-show](https://cdn.myanimelist.net/images/anime/5/21158.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: コヨーテ ラグタイムショー

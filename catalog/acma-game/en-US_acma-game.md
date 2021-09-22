@@ -1,5 +1,7 @@
 # Acma:Game
 
+![acma-game](https://cdn.myanimelist.net/images/manga/1/164639.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 198

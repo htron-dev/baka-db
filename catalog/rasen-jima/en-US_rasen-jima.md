@@ -1,5 +1,7 @@
 # Rasen-jima
 
+![rasen-jima](https://cdn.myanimelist.net/images/manga/1/96159.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

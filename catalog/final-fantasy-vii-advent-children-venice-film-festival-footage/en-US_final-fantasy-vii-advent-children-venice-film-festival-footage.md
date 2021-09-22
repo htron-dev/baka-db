@@ -1,5 +1,7 @@
 # Final Fantasy VII: Advent Children - Venice Film Festival Footage
 
+![final-fantasy-vii-advent-children-venice-film-festival-footage](https://cdn.myanimelist.net/images/anime/9/13516.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: FINAL FANTASY VII ADVENT CHILDREN ヴェネチア映画祭版

@@ -1,5 +1,7 @@
 # Uchi ni Oide yo
 
+![uchi-ni-oide-yo](https://cdn.myanimelist.net/images/manga/1/206667.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

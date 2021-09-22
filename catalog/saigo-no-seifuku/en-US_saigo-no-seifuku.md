@@ -1,5 +1,7 @@
 # Saigo no Seifuku
 
+![saigo-no-seifuku](https://cdn.myanimelist.net/images/manga/3/160708.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 最後の制服

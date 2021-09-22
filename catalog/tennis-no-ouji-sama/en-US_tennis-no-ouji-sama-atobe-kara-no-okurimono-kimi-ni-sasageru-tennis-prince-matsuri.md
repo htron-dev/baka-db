@@ -1,5 +1,7 @@
 # Tennis no Ouji-sama: Atobe kara no Okurimono - Kimi ni Sasageru Tennis Prince Matsuri
 
+![tennis-no-ouji-sama-atobe-kara-no-okurimono-kimi-ni-sasageru-tennis-prince-matsuri](https://cdn.myanimelist.net/images/anime/10/6381.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: テニスの王子様 跡部からの贈り物 君に捧げるテニプリ祭り

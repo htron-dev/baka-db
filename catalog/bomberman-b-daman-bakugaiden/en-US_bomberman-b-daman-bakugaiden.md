@@ -1,5 +1,7 @@
 # Bomberman B-Daman Bakugaiden
 
+![bomberman-b-daman-bakugaiden](https://cdn.myanimelist.net/images/manga/2/35103.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: B ビーダマン爆外伝

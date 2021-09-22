@@ -1,5 +1,7 @@
 # God Eater Prologue
 
+![god-eater-prologue](https://cdn.myanimelist.net/images/anime/12/49159.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ゴッドイータープロモーションビデオ

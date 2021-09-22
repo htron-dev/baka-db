@@ -1,5 +1,7 @@
 # AKB0048: Next Stage
 
+![akb-0048-next-stage](https://cdn.myanimelist.net/images/anime/11/44450.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: AKB0048 next stage

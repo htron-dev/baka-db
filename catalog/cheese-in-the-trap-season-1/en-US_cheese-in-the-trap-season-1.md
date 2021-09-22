@@ -1,5 +1,7 @@
 # Cheese in the Trap Season 1
 
+![cheese-in-the-trap-season-1](https://cdn.myanimelist.net/images/manga/1/195590.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **chapters**: 27

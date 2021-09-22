@@ -1,5 +1,7 @@
 # Bakumatsu Ibunroku: Code Geass - Hangyaku no Lelouch
 
+![bakumatsu-ibunroku-code-geass-hangyaku-no-lelouch](https://cdn.myanimelist.net/images/manga/2/121691.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

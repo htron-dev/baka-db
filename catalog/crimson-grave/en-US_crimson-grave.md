@@ -1,5 +1,7 @@
 # Crimson Grave
 
+![crimson-grave](https://cdn.myanimelist.net/images/manga/2/63639.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: クリムゾングレイヴ

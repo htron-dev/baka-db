@@ -1,5 +1,7 @@
 # Shouwa Genroku Rakugo Shinjuu
 
+![shouwa-genroku-rakugo-shinjuu](https://cdn.myanimelist.net/images/manga/1/149738.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 31

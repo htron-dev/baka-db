@@ -1,5 +1,7 @@
 # Sin For Not Swallowing
 
+![sin-for-not-swallowing](https://cdn.myanimelist.net/images/manga/2/115315.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 -   **original-name**: 삼키지 못한 죄

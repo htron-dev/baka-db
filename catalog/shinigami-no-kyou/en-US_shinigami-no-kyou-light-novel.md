@@ -1,5 +1,7 @@
 # Shinigami no Kyou
 
+![shinigami-no-kyou](https://cdn.myanimelist.net/images/manga/3/163981.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **original-name**: 死神のキョウ

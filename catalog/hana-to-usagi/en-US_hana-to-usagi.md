@@ -1,5 +1,7 @@
 # Hana to Usagi
 
+![hana-to-usagi](https://cdn.myanimelist.net/images/manga/1/120117.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

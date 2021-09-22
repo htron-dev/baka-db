@@ -1,5 +1,7 @@
 # Nousatsu Junkie
 
+![nousatsu-junkie](https://cdn.myanimelist.net/images/manga/3/170561.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 96

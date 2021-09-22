@@ -1,5 +1,7 @@
 # Kouhai no Ai ga Omosugiru!
 
+![kouhai-no-ai-ga-omosugiru](https://cdn.myanimelist.net/images/manga/2/236574.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

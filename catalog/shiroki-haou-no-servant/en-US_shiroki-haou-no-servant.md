@@ -1,5 +1,7 @@
 # Shiroki Haou no Servant
 
+![shiroki-haou-no-servant](https://cdn.myanimelist.net/images/manga/2/163684.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 19

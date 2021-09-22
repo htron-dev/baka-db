@@ -1,5 +1,7 @@
 # Ai Zai Xiyuan Qian
 
+![ai-zai-xiyuan-qian](https://cdn.myanimelist.net/images/anime/1035/104794.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 爱在西元前

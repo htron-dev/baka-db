@@ -1,5 +1,7 @@
 # Jishin ga Kitarou Dousuru? Mushi Mushi Mura no Bousai Kunren
 
+![jishin-ga-kitarou-dousuru-mushi-mushi-mura-no-bousai-kunren](https://cdn.myanimelist.net/images/anime/4/68929.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: じしんがきたらどうする？むしむし村の防災訓練

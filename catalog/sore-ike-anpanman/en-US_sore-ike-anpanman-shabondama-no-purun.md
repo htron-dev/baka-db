@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Shabondama no Purun
 
+![sore-ike-anpanman-shabondama-no-purun](https://cdn.myanimelist.net/images/anime/9/56229.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ! アンパンマン シャボン玉のプルン

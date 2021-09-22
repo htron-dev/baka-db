@@ -1,5 +1,7 @@
 # Baguda-jou no Touzoku
 
+![baguda-jou-no-touzoku](https://cdn.myanimelist.net/images/anime/8/67911.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 馬具田城の盗賊

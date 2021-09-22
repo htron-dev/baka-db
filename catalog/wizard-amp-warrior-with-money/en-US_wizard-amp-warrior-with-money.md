@@ -1,5 +1,7 @@
 # Wizard &amp; Warrior With Money
 
+![wizard-amp-warrior-with-money](https://cdn.myanimelist.net/images/manga/1/164382.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: ウィザード＆ウォーリアー・ウィズ・マネー

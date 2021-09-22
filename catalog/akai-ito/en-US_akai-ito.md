@@ -1,5 +1,7 @@
 # Akai Ito
 
+![akai-ito](https://cdn.myanimelist.net/images/anime/6/24035.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 赤い糸

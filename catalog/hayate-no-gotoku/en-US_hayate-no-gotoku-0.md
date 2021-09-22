@@ -1,5 +1,7 @@
 # Hayate no Gotoku! 0
 
+![hayate-no-gotoku-0](https://cdn.myanimelist.net/images/manga/3/131849.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 19

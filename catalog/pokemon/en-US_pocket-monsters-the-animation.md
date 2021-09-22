@@ -1,5 +1,7 @@
 # Pocket Monsters: The Animation
 
+![pocket-monsters-the-animation](https://cdn.myanimelist.net/images/manga/5/203624.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: ポケットモンスター The Animation

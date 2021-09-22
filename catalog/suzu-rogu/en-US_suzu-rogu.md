@@ -1,5 +1,7 @@
 # Suzu Rogu
 
+![suzu-rogu](https://cdn.myanimelist.net/images/manga/3/28874.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: スズログ

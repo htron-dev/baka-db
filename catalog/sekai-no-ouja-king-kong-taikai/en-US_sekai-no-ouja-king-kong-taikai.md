@@ -1,5 +1,7 @@
 # Sekai no Ouja: King Kong Taikai
 
+![sekai-no-ouja-king-kong-taikai](https://cdn.myanimelist.net/images/anime/7/66461.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 世界の王者 キングコング大会

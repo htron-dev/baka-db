@@ -1,5 +1,7 @@
 # Shouten!: Sennyuu Agent - Okasareta Yawahada
 
+![shouten-sennyuu-agent-okasareta-yawahada](https://cdn.myanimelist.net/images/manga/2/199328.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 昇天！　潜入エージェント　犯された柔肌

@@ -1,5 +1,7 @@
 # Otome Kakumei Ayame no!
 
+![otome-kakumei-ayame-no](https://cdn.myanimelist.net/images/manga/2/163225.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 22

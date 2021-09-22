@@ -1,5 +1,7 @@
 # Youki ni Naritai Shigure-san
 
+![youki-ni-naritai-shigure-san](https://cdn.myanimelist.net/images/manga/2/245605.jpg)
+
 -   **type**: manga
 -   **original-name**: 陽キになりたい時雨さん
 -   **start-date**: 2021-06-03

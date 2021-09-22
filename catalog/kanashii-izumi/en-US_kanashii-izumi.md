@@ -1,5 +1,7 @@
 # Kanashii Izumi
 
+![kanashii-izumi](https://cdn.myanimelist.net/images/manga/1/54049.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

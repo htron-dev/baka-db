@@ -1,5 +1,7 @@
 # Korette Unmei desu ka? Koi wa Yukemuri ni Magirete
 
+![korette-unmei-desu-ka-koi-wa-yukemuri-ni-magirete](https://cdn.myanimelist.net/images/manga/1/195076.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: これって運命ですか？～恋は湯けむりにまぎれて～

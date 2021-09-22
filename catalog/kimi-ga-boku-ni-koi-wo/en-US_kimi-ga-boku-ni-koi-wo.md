@@ -1,5 +1,7 @@
 # Kimi ga Boku ni Koi wo
 
+![kimi-ga-boku-ni-koi-wo](https://cdn.myanimelist.net/images/manga/1/149559.jpg)
+
 -   **type**: manga
 -   **original-name**: 君が僕に恋を
 -   **start-date**: 2014-02-28

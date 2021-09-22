@@ -1,5 +1,7 @@
 # Hyouryuu Oukoku
 
+![hyouryuu-oukoku](https://cdn.myanimelist.net/images/manga/2/169010.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 漂流王国
 -   **start-date**: 2016-01-01

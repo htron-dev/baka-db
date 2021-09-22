@@ -1,5 +1,7 @@
 # The Phantom King
 
+![the-phantom-king](https://cdn.myanimelist.net/images/manga/1/54997.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 유령왕 (Novel)
 -   **start-date**: 2007-07-25

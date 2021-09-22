@@ -1,5 +1,7 @@
 # Yuutousei Ijou, Furyou Miman na Orera.
 
+![yuutousei-ijou-furyou-miman-na-orera](https://cdn.myanimelist.net/images/manga/1/163563.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **original-name**: 優等生以上、フリョー未満な俺ら。

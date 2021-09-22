@@ -1,5 +1,7 @@
 # Yorukumo
 
+![yorukumo](https://cdn.myanimelist.net/images/manga/1/134739.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 37

@@ -1,5 +1,7 @@
 # Resire: Kurikaesareru Negai
 
+![resire-kurikaesareru-negai](https://cdn.myanimelist.net/images/manga/1/108331.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: resire「リザイア」～繰りかえされる願い～

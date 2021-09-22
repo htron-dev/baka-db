@@ -1,5 +1,7 @@
 # Jumping
 
+![jumping](https://cdn.myanimelist.net/images/anime/1/2401.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ジャンピング

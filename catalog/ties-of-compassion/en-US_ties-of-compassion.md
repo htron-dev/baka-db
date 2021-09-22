@@ -1,5 +1,7 @@
 # Ties of Compassion
 
+![ties-of-compassion](https://cdn.myanimelist.net/images/manga/1/106183.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 121
 -   **original-name**: 연민의 굴레

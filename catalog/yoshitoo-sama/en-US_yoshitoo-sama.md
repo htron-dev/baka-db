@@ -1,5 +1,7 @@
 # Yoshitoo-sama!
 
+![yoshitoo-sama](https://cdn.myanimelist.net/images/manga/3/160085.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 73

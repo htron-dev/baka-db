@@ -1,5 +1,7 @@
 # Replica
 
+![replica](https://cdn.myanimelist.net/images/manga/2/213012.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

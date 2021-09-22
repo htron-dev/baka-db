@@ -1,5 +1,7 @@
 # Pet no Jikan
 
+![pet-no-jikan](https://cdn.myanimelist.net/images/manga/3/90539.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

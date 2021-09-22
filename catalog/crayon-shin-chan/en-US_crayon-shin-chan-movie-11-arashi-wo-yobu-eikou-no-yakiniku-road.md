@@ -1,5 +1,7 @@
 # Crayon Shin-chan Movie 11: Arashi wo Yobu Eikou no Yakiniku Road
 
+![crayon-shin-chan-movie-11-arashi-wo-yobu-eikou-no-yakiniku-road](https://cdn.myanimelist.net/images/anime/13/83765.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 クレヨンしんちゃん 嵐を呼ぶ栄光のヤキニクロード

@@ -1,5 +1,7 @@
 # Kasouba no Nai Machi ni Kane ga Naru Toki
 
+![kasouba-no-nai-machi-ni-kane-ga-naru-toki](https://cdn.myanimelist.net/images/manga/3/161520.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 195

@@ -1,5 +1,7 @@
 # Ujudaejang Aekkunun
 
+![ujudaejang-aekkunun](https://cdn.myanimelist.net/images/anime/1397/108014.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 우주대장 애꾸눈

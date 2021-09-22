@@ -1,5 +1,7 @@
 # Karesen Joshikousei to Tokikake Ojisan
 
+![karesen-joshikousei-to-tokikake-ojisan](https://cdn.myanimelist.net/images/manga/3/237470.jpg)
+
 -   **type**: manga
 -   **original-name**: 枯れ専女子高生と時かけおじさん
 -   **start-date**: 2019-11-13

@@ -1,5 +1,7 @@
 # Shihaisha no Tasogare
 
+![shihaisha-no-tasogare](https://cdn.myanimelist.net/images/manga/3/12157.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

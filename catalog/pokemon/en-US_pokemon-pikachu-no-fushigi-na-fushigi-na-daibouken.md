@@ -1,5 +1,7 @@
 # Pokemon: Pikachu no Fushigi na Fushigi na Daibouken
 
+![pokemon-pikachu-no-fushigi-na-fushigi-na-daibouken](https://cdn.myanimelist.net/images/anime/8/30651.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ピカチュウのふしぎなふしぎな大冒険

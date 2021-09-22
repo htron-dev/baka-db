@@ -1,5 +1,7 @@
 # Joumu Shima Kousaku
 
+![joumu-shima-kousaku](https://cdn.myanimelist.net/images/manga/1/129005.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 66

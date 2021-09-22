@@ -1,5 +1,7 @@
 # Yuusha-Ou GaoGaiGar Final Grand Glorious Gathering
 
+![yuusha-ou-gao-gai-gar-final-grand-glorious-gathering](https://cdn.myanimelist.net/images/anime/2/50385.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 勇者王ガオガイガー FINAL Grand Glorious Gathering

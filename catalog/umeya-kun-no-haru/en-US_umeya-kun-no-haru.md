@@ -1,5 +1,7 @@
 # Umeya-kun no Haru
 
+![umeya-kun-no-haru](https://cdn.myanimelist.net/images/manga/3/222041.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

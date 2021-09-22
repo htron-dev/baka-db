@@ -1,5 +1,7 @@
 # Natsu no Arashi: Eikoku Shinshi no Gekijou
 
+![natsu-no-arashi-eikoku-shinshi-no-gekijou](https://cdn.myanimelist.net/images/manga/2/195019.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 夏の嵐～英国紳士の激情～

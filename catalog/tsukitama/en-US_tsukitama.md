@@ -1,5 +1,7 @@
 # Tsukitama
 
+![tsukitama](https://cdn.myanimelist.net/images/manga/1/171711.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 23

@@ -1,5 +1,7 @@
 # Madlax
 
+![madlax](https://cdn.myanimelist.net/images/anime/12/57237.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: マドラックス

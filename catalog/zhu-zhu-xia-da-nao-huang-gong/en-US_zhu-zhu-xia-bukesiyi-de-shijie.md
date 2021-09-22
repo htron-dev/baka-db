@@ -1,5 +1,7 @@
 # Zhu Zhu Xia: Bukesiyi de Shijie
 
+![zhu-zhu-xia-bukesiyi-de-shijie](https://cdn.myanimelist.net/images/anime/1956/102315.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 猪猪侠·不可思议的世界
@@ -12,7 +14,6 @@
 -   sci-fi
 -   adventure
 -   super-power
-
 -   fantasy
 
 ## Sinopse

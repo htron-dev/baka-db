@@ -1,5 +1,7 @@
 # Blue Heaven
 
+![blue-heaven](https://cdn.myanimelist.net/images/manga/3/26457.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

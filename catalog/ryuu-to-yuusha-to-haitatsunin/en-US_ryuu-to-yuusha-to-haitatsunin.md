@@ -1,5 +1,7 @@
 # Ryuu to Yuusha to Haitatsunin
 
+![ryuu-to-yuusha-to-haitatsunin](https://cdn.myanimelist.net/images/manga/2/191164.jpg)
+
 -   **type**: manga
 -   **original-name**: 竜と勇者と配達人
 -   **start-date**: 2016-02-24

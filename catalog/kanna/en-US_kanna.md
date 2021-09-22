@@ -1,5 +1,7 @@
 # Kanna
 
+![kanna](https://cdn.myanimelist.net/images/manga/3/154481.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 41

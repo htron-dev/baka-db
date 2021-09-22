@@ -1,5 +1,7 @@
 # Icon
 
+![icon](https://cdn.myanimelist.net/images/manga/2/194182.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

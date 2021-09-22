@@ -1,5 +1,7 @@
 # Shinma to Sekai to Yome Flag
 
+![shinma-to-sekai-to-yome-flag](https://cdn.myanimelist.net/images/manga/1/163702.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 34

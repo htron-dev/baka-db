@@ -1,5 +1,7 @@
 # G
 
+![g](https://cdn.myanimelist.net/images/manga/1/180764.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 27

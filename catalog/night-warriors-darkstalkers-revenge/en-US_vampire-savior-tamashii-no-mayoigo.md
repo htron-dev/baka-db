@@ -1,5 +1,7 @@
 # Vampire Savior: Tamashii no Mayoigo
 
+![vampire-savior-tamashii-no-mayoigo](https://cdn.myanimelist.net/images/manga/3/15130.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 24

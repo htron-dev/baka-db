@@ -1,5 +1,7 @@
 # Kamen Rider Zero-One: Short Anime - Everyone's Daily Life
 
+![kamen-rider-zero-one-short-anime-everyones-daily-life](https://cdn.myanimelist.net/images/anime/1268/108559.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: 仮面ライダーゼロワン ショートアニメ EVERYONE’S DAILY LIFE

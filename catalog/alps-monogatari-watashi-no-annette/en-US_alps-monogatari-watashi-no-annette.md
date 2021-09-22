@@ -1,5 +1,7 @@
 # Alps Monogatari: Watashi no Annette
 
+![alps-monogatari-watashi-no-annette](https://cdn.myanimelist.net/images/anime/5/3208.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 48
 -   **original-name**: アルプス物語　わたしのアンネット

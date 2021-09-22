@@ -1,5 +1,7 @@
 # Azumanga Daioh
 
+![azumanga-daioh](https://cdn.myanimelist.net/images/manga/2/56373.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 69

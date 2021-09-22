@@ -1,5 +1,7 @@
 # Suberu wo Itowazu
 
+![suberu-wo-itowazu](https://cdn.myanimelist.net/images/manga/1/111195.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Dansou shitara Suujitsu de Barete, Kokuou Heika ni Dekiai sareteimasu
 
+![dansou-shitara-suujitsu-de-barete-kokuou-heika-ni-dekiai-sareteimasu](https://cdn.myanimelist.net/images/manga/1/245700.jpg)
+
 -   **type**: manga
 -   **original-name**: 男装したら数日でバレて、国王陛下に溺愛されています
 -   **start-date**: 2019-09-27

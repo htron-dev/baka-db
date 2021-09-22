@@ -1,5 +1,7 @@
 # Persona: Trinity Soul - Novel
 
+![persona-trinity-soul-novel](https://cdn.myanimelist.net/images/manga/1/127037.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: ペルソナ～トリニティ・ソウル～ novel

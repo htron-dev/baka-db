@@ -1,5 +1,7 @@
 # Kaichou wa Maid-sama!
 
+![kaichou-wa-maid-sama](https://cdn.myanimelist.net/images/manga/2/120073.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 98

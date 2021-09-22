@@ -1,5 +1,7 @@
 # Brave Witches Prequel
 
+![brave-witches-prequel](https://cdn.myanimelist.net/images/manga/3/195294.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ブレイブウィッチーズ Prequel
 -   **start-date**: 2016-11-01

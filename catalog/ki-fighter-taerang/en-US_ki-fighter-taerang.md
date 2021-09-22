@@ -1,5 +1,7 @@
 # Ki-Fighter Taerang
 
+![ki-fighter-taerang](https://cdn.myanimelist.net/images/anime/4/28222.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: キ・ファイター テラン

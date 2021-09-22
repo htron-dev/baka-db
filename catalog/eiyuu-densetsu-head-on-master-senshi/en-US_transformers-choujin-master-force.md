@@ -1,5 +1,7 @@
 # Transformers: Choujin Master Force
 
+![transformers-choujin-master-force](https://cdn.myanimelist.net/images/anime/1437/92789.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 43
 -   **original-name**: トランスフォーマー・超神マスターフォース

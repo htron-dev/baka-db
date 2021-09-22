@@ -1,5 +1,7 @@
 # Monkey Turn V
 
+![monkey-turn-v](https://cdn.myanimelist.net/images/anime/4/75224.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: モンキー ターン V

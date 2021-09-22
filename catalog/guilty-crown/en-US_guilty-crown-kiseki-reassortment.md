@@ -1,5 +1,7 @@
 # Guilty Crown: Kiseki - Reassortment
 
+![guilty-crown-kiseki-reassortment](https://cdn.myanimelist.net/images/anime/3/34931.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ギルティクラウン 軌跡： Reassortment

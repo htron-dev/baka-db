@@ -1,5 +1,7 @@
 # Kage no Jitsuryokusha ni Naritakute!: Shadow Gaiden
 
+![kage-no-jitsuryokusha-ni-naritakute-shadow-gaiden](https://cdn.myanimelist.net/images/manga/2/237151.jpg)
+
 -   **type**: manga
 -   **original-name**: 陰の実力者になりたくて! しゃどーがいでん
 -   **start-date**: 2019-07-26

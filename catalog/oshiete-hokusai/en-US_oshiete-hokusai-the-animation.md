@@ -1,5 +1,7 @@
 # Oshiete Hokusai! The Animation
 
+![oshiete-hokusai-the-animation](https://cdn.myanimelist.net/images/anime/1655/111767.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: おしえて北斎！ -THE ANIMATION-

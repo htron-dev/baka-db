@@ -1,5 +1,7 @@
 # Kinnikuman II-sei
 
+![kinnikuman-ii-sei](https://cdn.myanimelist.net/images/manga/3/164971.jpg)
+
 -   **type**: manga
 -   **volumes**: 29
 -   **chapters**: 300

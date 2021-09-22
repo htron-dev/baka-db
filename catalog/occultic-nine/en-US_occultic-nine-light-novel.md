@@ -1,5 +1,7 @@
 # Occultic;Nine
 
+![occultic-nine](https://cdn.myanimelist.net/images/manga/3/160468.jpg)
+
 -   **type**: light-novel
 -   **original-name**: Occultic;Nine
 -   **start-date**: 2014-08-25

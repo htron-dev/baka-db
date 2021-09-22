@@ -1,5 +1,7 @@
 # Shakunetsu no Aegean-kai
 
+![shakunetsu-no-aegean-kai](https://cdn.myanimelist.net/images/manga/3/229428.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 灼熱のエーゲ海

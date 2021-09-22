@@ -1,5 +1,7 @@
 # Kakko Kawaii Sengen! 2
 
+![kakko-kawaii-sengen-2](https://cdn.myanimelist.net/images/anime/6/30110.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: カッコカワイイ宣言！ 2

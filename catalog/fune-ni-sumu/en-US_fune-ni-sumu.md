@@ -1,5 +1,7 @@
 # Fune ni Sumu
 
+![fune-ni-sumu](https://cdn.myanimelist.net/images/manga/1/196736.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 39

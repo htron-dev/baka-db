@@ -1,5 +1,7 @@
 # Abarenbou Rikishi!! Matsutarou
 
+![abarenbou-rikishi-matsutarou](https://cdn.myanimelist.net/images/anime/7/65897.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 23
 -   **original-name**: 暴れん坊力士！！松太郎

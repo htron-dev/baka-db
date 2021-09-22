@@ -1,5 +1,7 @@
 # 2.43: Seiin Koukou Danshi Volley-bu
 
+![2-43-seiin-koukou-danshi-volley-bu](https://cdn.myanimelist.net/images/anime/1907/110083.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 2.43 清陰高校男子バレー部

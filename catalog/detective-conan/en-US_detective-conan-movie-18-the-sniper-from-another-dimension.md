@@ -1,5 +1,7 @@
 # Detective Conan Movie 18: The Sniper from Another Dimension
 
+![detective-conan-movie-18-the-sniper-from-another-dimension](https://cdn.myanimelist.net/images/anime/11/60289.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン　異次元の狙撃手（スナイパー）

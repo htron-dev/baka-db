@@ -1,5 +1,7 @@
 # Sabikui Bisco
 
+![sabikui-bisco](https://cdn.myanimelist.net/images/anime/1833/113296.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 錆喰いビスコ
 -   **rating**: None

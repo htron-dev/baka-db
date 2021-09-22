@@ -1,5 +1,7 @@
 # Kariage-kun
 
+![kariage-kun](https://cdn.myanimelist.net/images/manga/1/38807.jpg)
+
 -   **type**: manga
 -   **original-name**: かりあげクン
 

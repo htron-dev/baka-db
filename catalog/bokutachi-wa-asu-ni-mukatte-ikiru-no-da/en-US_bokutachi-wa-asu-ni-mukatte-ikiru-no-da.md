@@ -1,5 +1,7 @@
 # Bokutachi wa Asu ni Mukatte Ikiru no da
 
+![bokutachi-wa-asu-ni-mukatte-ikiru-no-da](https://cdn.myanimelist.net/images/manga/1/169822.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

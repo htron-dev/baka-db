@@ -1,5 +1,7 @@
 # Mashiro-iro Symphony: Wind of Silk
 
+![mashiro-iro-symphony-wind-of-silk](https://cdn.myanimelist.net/images/manga/1/83875.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

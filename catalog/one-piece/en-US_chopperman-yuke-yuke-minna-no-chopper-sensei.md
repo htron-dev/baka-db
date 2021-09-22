@@ -1,5 +1,7 @@
 # Chopperman: Yuke Yuke! Minna no Chopper-sensei
 
+![chopperman-yuke-yuke-minna-no-chopper-sensei](https://cdn.myanimelist.net/images/manga/3/65203.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

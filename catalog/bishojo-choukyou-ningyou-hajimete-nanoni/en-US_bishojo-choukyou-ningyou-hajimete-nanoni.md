@@ -1,5 +1,7 @@
 # Bishojo Choukyou Ningyou: Hajimete nanoni
 
+![bishojo-choukyou-ningyou-hajimete-nanoni](https://cdn.myanimelist.net/images/manga/3/195978.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 美処女調教人形 初めてなのに

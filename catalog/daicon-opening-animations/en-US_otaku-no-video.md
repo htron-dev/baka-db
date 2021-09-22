@@ -1,5 +1,7 @@
 # Otaku no Video
 
+![otaku-no-video](https://cdn.myanimelist.net/images/anime/11/3817.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: おたくのビデオ

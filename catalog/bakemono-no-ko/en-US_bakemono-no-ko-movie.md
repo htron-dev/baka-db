@@ -1,5 +1,7 @@
 # Bakemono no Ko
 
+![bakemono-no-ko](https://cdn.myanimelist.net/images/anime/11/73540.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: バケモノの子

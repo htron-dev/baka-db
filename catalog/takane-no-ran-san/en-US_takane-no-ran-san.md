@@ -1,5 +1,7 @@
 # Takane no Ran-san
 
+![takane-no-ran-san](https://cdn.myanimelist.net/images/manga/2/203164.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 42

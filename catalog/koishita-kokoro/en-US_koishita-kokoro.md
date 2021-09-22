@@ -1,5 +1,7 @@
 # Koishita Kokoro
 
+![koishita-kokoro](https://cdn.myanimelist.net/images/manga/1/241586.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Kyouichi
 
+![kyouichi](https://cdn.myanimelist.net/images/manga/1/91947.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

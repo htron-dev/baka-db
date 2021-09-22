@@ -1,5 +1,7 @@
 # Seifuku no Binetsu
 
+![seifuku-no-binetsu](https://cdn.myanimelist.net/images/manga/3/96381.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

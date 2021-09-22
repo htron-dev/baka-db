@@ -1,5 +1,7 @@
 # World End Lights
 
+![world-end-lights](https://cdn.myanimelist.net/images/manga/3/163712.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 43

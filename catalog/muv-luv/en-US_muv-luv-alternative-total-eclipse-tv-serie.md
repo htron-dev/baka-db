@@ -1,5 +1,7 @@
 # Muv-Luv Alternative: Total Eclipse
 
+![muv-luv-alternative-total-eclipse](https://cdn.myanimelist.net/images/anime/3/44462.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: マブラヴ オルタネイティヴ トータル・イクリプス

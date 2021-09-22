@@ -1,5 +1,7 @@
 # Kimi wo Matsu→Akaiito
 
+![kimi-wo-matsu→-akaiito](https://cdn.myanimelist.net/images/manga/3/123193.jpg)
+
 -   **type**: manga
 -   **original-name**: キミを待つ → あかいいと
 -   **start-date**: 2012-10-25

@@ -1,5 +1,7 @@
 # Ankyoku no Hoshi ni Michi wo Toe
 
+![ankyoku-no-hoshi-ni-michi-wo-toe](https://cdn.myanimelist.net/images/manga/1/189991.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 暗極の星に道を問え

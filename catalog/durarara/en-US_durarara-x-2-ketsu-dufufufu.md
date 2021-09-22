@@ -1,5 +1,7 @@
 # Durarara!!x2 Ketsu: Dufufufu!!
 
+![durarara-x-2-ketsu-dufufufu](https://cdn.myanimelist.net/images/anime/2/78979.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: デュラララ!!× ２ 結　第 19.5 話「デュフフフ!!」

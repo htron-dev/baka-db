@@ -1,5 +1,7 @@
 # Mishikaka!
 
+![mishikaka](https://cdn.myanimelist.net/images/manga/2/74499.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

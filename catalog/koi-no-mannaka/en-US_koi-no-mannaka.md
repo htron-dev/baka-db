@@ -1,5 +1,7 @@
 # Koi no Mannaka
 
+![koi-no-mannaka](https://cdn.myanimelist.net/images/manga/2/63077.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

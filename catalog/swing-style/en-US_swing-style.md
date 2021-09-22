@@ -1,5 +1,7 @@
 # Swing-Style
 
+![swing-style](https://cdn.myanimelist.net/images/manga/3/79305.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

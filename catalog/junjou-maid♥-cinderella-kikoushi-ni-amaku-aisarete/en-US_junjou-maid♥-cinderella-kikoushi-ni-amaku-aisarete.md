@@ -1,5 +1,7 @@
 # Junjou Maid♥Cinderella: Kikoushi ni Amaku Aisarete
 
+![junjou-maid♥-cinderella-kikoushi-ni-amaku-aisarete](https://cdn.myanimelist.net/images/manga/3/183248.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

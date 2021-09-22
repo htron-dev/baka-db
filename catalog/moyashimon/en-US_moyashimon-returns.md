@@ -1,5 +1,7 @@
 # Moyashimon Returns
 
+![moyashimon-returns](https://cdn.myanimelist.net/images/anime/11/39775.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: もやしもん リターンズ

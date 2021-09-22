@@ -1,5 +1,7 @@
 # Hyakuman Pound no Nise no Hanayome
 
+![hyakuman-pound-no-nise-no-hanayome](https://cdn.myanimelist.net/images/manga/2/227161.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 百万ポンドの偽の花嫁

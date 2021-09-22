@@ -1,5 +1,7 @@
 # Shounen Ashibe: Go! Go! Goma-chan 4
 
+![shounen-ashibe-go-go-goma-chan-4](https://cdn.myanimelist.net/images/anime/1713/112181.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 少年アシベ GO! GO! ゴマちゃん 4

@@ -1,5 +1,7 @@
 # 009 no 1
 
+![009-no-1](https://cdn.myanimelist.net/images/manga/2/111935.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 48

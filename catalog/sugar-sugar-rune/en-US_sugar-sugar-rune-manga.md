@@ -1,5 +1,7 @@
 # Sugar Sugar Rune
 
+![sugar-sugar-rune](https://cdn.myanimelist.net/images/manga/3/160179.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 46

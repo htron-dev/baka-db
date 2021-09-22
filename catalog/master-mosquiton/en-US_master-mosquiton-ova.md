@@ -1,5 +1,7 @@
 # Master Mosquiton
 
+![master-mosquiton](https://cdn.myanimelist.net/images/anime/8/15445.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: マスターモスキートン

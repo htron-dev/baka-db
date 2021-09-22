@@ -1,5 +1,7 @@
 # Fussa-shi PR Anime
 
+![fussa-shi-pr-anime](https://cdn.myanimelist.net/images/anime/8/83767.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 福生市 PR アニメ

@@ -1,5 +1,7 @@
 # Ryuugajou Nanana no Maizoukin Bangai-hen
 
+![ryuugajou-nanana-no-maizoukin-bangai-hen](https://cdn.myanimelist.net/images/manga/3/165466.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 12

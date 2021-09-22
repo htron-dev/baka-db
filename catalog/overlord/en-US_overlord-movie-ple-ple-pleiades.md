@@ -1,5 +1,7 @@
 # Overlord Movie: Ple Ple Pleiades
 
+![overlord-movie-ple-ple-pleiades](https://cdn.myanimelist.net/images/anime/9/88121.jpg)
+
 -   **type**: movie
 -   **episodes**: 2
 -   **original-name**: 劇場版 オーバーロード　ぷれぷれぷれあです

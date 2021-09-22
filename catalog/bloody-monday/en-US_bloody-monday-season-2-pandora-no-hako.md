@@ -1,5 +1,7 @@
 # Bloody Monday Season 2: Pandora no Hako
 
+![bloody-monday-season-2-pandora-no-hako](https://cdn.myanimelist.net/images/manga/3/185385.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 68

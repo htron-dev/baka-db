@@ -1,5 +1,7 @@
 # Yaoyorozu
 
+![yaoyorozu](https://cdn.myanimelist.net/images/manga/1/96653.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 八百万

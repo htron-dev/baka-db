@@ -1,5 +1,7 @@
 # Amon: Devilman Mokushiroku
 
+![amon-devilman-mokushiroku](https://cdn.myanimelist.net/images/manga/2/150864.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 41

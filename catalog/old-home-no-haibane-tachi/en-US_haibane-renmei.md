@@ -1,5 +1,7 @@
 # Haibane Renmei
 
+![haibane-renmei](https://cdn.myanimelist.net/images/anime/9/13134.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 灰羽連盟

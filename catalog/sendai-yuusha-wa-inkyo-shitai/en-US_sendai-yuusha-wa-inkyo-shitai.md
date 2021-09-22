@@ -1,5 +1,7 @@
 # Sendai Yuusha wa Inkyo Shitai
 
+![sendai-yuusha-wa-inkyo-shitai](https://cdn.myanimelist.net/images/manga/1/177566.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 先代勇者は隠居したい
 -   **start-date**: 2013-10-25

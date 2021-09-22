@@ -1,5 +1,7 @@
 # Hadashi de, Sora wo Tsukamu You ni: Umeda Abi Tanpenshuu
 
+![hadashi-de-sora-wo-tsukamu-you-ni-umeda-abi-tanpenshuu](https://cdn.myanimelist.net/images/manga/3/233468.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

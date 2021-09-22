@@ -1,5 +1,7 @@
 # Omae wo Oniichan ni Shite Yarou ka!?
 
+![omae-wo-oniichan-ni-shite-yarou-ka](https://cdn.myanimelist.net/images/manga/2/158560.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 45

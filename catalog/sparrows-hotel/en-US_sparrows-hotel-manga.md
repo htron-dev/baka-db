@@ -1,5 +1,7 @@
 # Sparrow's Hotel
 
+![sparrows-hotel](https://cdn.myanimelist.net/images/manga/3/168398.jpg)
+
 -   **type**: manga
 -   **original-name**: スパロウズホテル
 -   **start-date**: 2005-08-19

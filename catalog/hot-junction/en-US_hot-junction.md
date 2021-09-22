@@ -1,5 +1,7 @@
 # Hot Junction
 
+![hot-junction](https://cdn.myanimelist.net/images/manga/4/36535.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ホットジャンクション

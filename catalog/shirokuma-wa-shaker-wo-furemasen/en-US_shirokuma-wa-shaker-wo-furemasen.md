@@ -1,5 +1,7 @@
 # Shirokuma wa Shaker wo Furemasen
 
+![shirokuma-wa-shaker-wo-furemasen](https://cdn.myanimelist.net/images/manga/2/211672.jpg)
+
 -   **type**: manga
 -   **original-name**: シロクマはシェーカーを振れません
 -   **start-date**: 2016-08-17

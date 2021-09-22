@@ -1,5 +1,7 @@
 # Adamas
 
+![adamas](https://cdn.myanimelist.net/images/manga/1/137583.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 111

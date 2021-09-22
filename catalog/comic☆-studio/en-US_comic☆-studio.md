@@ -1,5 +1,7 @@
 # Comic☆Studio
 
+![comic☆-studio](https://cdn.myanimelist.net/images/manga/1/171851.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 26

@@ -1,5 +1,7 @@
 # Mama no Ojisama
 
+![mama-no-ojisama](https://cdn.myanimelist.net/images/manga/3/36859.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ママの王子さま M
@@ -14,8 +16,6 @@
 
 -   Abe
 -   Ritsuko (Story & Art)
-
-## Sinopse
 
 ## Links
 

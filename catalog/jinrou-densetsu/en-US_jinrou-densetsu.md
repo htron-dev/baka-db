@@ -1,5 +1,7 @@
 # Jinrou Densetsu
 
+![jinrou-densetsu](https://cdn.myanimelist.net/images/manga/3/47857.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

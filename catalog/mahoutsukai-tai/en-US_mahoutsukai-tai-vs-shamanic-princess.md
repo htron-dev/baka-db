@@ -1,5 +1,7 @@
 # Mahoutsukai Tai! vs. Shamanic Princess
 
+![mahoutsukai-tai-vs-shamanic-princess](https://cdn.myanimelist.net/images/anime/5/87883.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 魔法使い Tai! vs シャーマニックプリンセス

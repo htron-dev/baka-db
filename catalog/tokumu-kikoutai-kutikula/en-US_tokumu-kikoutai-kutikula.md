@@ -1,5 +1,7 @@
 # Tokumu Kikoutai Kutikula
 
+![tokumu-kikoutai-kutikula](https://cdn.myanimelist.net/images/manga/2/10993.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 特務機甲隊クチクラ

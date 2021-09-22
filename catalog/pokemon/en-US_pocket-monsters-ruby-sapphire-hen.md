@@ -1,5 +1,7 @@
 # Pocket Monsters: Ruby-Sapphire-hen
 
+![pocket-monsters-ruby-sapphire-hen](https://cdn.myanimelist.net/images/manga/2/36634.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 62

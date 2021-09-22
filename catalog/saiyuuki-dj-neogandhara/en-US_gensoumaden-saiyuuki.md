@@ -1,5 +1,7 @@
 # Gensoumaden Saiyuuki
 
+![gensoumaden-saiyuuki](https://cdn.myanimelist.net/images/anime/11/75282.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: 幻想魔伝 最遊記

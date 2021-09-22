@@ -1,5 +1,7 @@
 # Itsuwari no Freja
 
+![itsuwari-no-freja](https://cdn.myanimelist.net/images/manga/3/208596.jpg)
+
 -   **type**: manga
 -   **original-name**: 偽りのフレイヤ
 -   **start-date**: 2017-08-10

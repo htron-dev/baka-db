@@ -1,5 +1,7 @@
 # Kawaii Joushi wo Komarasetai
 
+![kawaii-joushi-wo-komarasetai](https://cdn.myanimelist.net/images/manga/3/188965.jpg)
+
 -   **type**: manga
 -   **original-name**: 可愛い上司を困らせたい
 -   **start-date**: 2015-04-22

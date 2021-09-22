@@ -1,5 +1,7 @@
 # Baka to Test to Shoukanjuu
 
+![baka-to-test-to-shoukanjuu](https://cdn.myanimelist.net/images/manga/1/179734.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 84

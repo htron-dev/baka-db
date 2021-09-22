@@ -1,5 +1,7 @@
 # Boku dake ni Kiss wo Shite
 
+![boku-dake-ni-kiss-wo-shite](https://cdn.myanimelist.net/images/manga/1/82070.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

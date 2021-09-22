@@ -1,5 +1,7 @@
 # Otonosama Gorankou
 
+![otonosama-gorankou](https://cdn.myanimelist.net/images/manga/2/19194.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

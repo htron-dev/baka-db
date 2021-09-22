@@ -1,5 +1,7 @@
 # Koi ni Ochita Incubus
 
+![koi-ni-ochita-incubus](https://cdn.myanimelist.net/images/manga/2/215658.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

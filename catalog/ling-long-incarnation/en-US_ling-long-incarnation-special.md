@@ -1,5 +1,7 @@
 # Ling Long: Incarnation Special
 
+![ling-long-incarnation-special](https://cdn.myanimelist.net/images/anime/1057/114752.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 灵笼:INCARNATION 特别篇

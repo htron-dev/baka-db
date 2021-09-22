@@ -1,5 +1,7 @@
 # Kare to Kanojo to Garterbelt
 
+![kare-to-kanojo-to-garterbelt](https://cdn.myanimelist.net/images/manga/1/12198.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 彼と彼女とガーターベルト

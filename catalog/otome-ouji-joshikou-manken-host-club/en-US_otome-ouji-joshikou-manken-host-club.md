@@ -1,5 +1,7 @@
 # Otome Ouji: Joshikou Manken Host Club
 
+![otome-ouji-joshikou-manken-host-club](https://cdn.myanimelist.net/images/manga/2/61597.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

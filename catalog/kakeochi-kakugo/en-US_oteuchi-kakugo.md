@@ -1,5 +1,7 @@
 # Oteuchi Kakugo!
 
+![oteuchi-kakugo](https://cdn.myanimelist.net/images/manga/2/2564.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

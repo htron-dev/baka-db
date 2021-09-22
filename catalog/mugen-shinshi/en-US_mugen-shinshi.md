@@ -1,5 +1,7 @@
 # Mugen Shinshi
 
+![mugen-shinshi](https://cdn.myanimelist.net/images/manga/3/117959.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 68

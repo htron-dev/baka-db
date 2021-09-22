@@ -1,5 +1,7 @@
 # Gakuen Kino
 
+![gakuen-kino](https://cdn.myanimelist.net/images/manga/1/186219.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

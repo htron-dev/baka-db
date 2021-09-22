@@ -1,5 +1,7 @@
 # Katakoi Drops
 
+![katakoi-drops](https://cdn.myanimelist.net/images/manga/2/84313.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

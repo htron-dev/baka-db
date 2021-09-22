@@ -1,5 +1,7 @@
 # Fruit, Gateau au Chocolat
 
+![fruit-gateau-au-chocolat](https://cdn.myanimelist.net/images/manga/3/217206.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

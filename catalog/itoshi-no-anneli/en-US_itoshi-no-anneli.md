@@ -1,5 +1,7 @@
 # Itoshi no Anneli
 
+![itoshi-no-anneli](https://cdn.myanimelist.net/images/manga/2/190689.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

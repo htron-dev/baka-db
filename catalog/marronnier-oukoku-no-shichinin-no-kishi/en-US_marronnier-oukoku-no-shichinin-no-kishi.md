@@ -1,5 +1,7 @@
 # Marronnier Oukoku no Shichinin no Kishi
 
+![marronnier-oukoku-no-shichinin-no-kishi](https://cdn.myanimelist.net/images/manga/1/204226.jpg)
+
 -   **type**: manga
 -   **original-name**: マロニエ王国の七人の騎士
 -   **start-date**: 2016-09-28

@@ -1,5 +1,7 @@
 # SA07
 
+![sa-07](https://cdn.myanimelist.net/images/manga/1/228099.jpg)
+
 -   **type**: manga
 -   **original-name**: SA07 エスエーゼロナナ
 -   **start-date**: 2019-07-24

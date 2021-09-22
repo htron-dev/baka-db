@@ -1,5 +1,7 @@
 # Katarina Nounai Kaigi X
 
+![katarina-nounai-kaigi-x](https://cdn.myanimelist.net/images/anime/1722/116827.jpg)
+
 -   **type**: ona
 -   **original-name**: カタリナ脳内会議Ｘ
 -   **start-date**: 2021-06-22

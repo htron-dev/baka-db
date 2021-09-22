@@ -1,5 +1,7 @@
 # Tantei Opera Milky Holmes: Summer Special
 
+![tantei-opera-milky-holmes-summer-special](https://cdn.myanimelist.net/images/anime/13/33559.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 探偵オペラ ミルキィホームズ サマー・スペシャル

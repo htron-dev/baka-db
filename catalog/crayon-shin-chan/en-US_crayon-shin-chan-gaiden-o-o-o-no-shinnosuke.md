@@ -1,5 +1,7 @@
 # Crayon Shin-chan Gaiden: O-o-o no Shinnosuke
 
+![crayon-shin-chan-gaiden-o-o-o-no-shinnosuke](https://cdn.myanimelist.net/images/anime/9/85987.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: クレヨンしんちゃん外伝　お・お・お・のしんのすけ
@@ -23,4 +25,4 @@ A small country town. Recently, the town has witnessed many strange incidents. A
 ## Links
 
 -   [My Anime list](https://myanimelist.net/anime/35652/Crayon_Shin-chan_Gaiden__O-o-o_no_Shinnosuke)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AC%E3%83%A8%E3%83%B3%E3%81%97%E3%82%93%E3%81%A1%E3%82%83%E3%82%93_(%E3%82%A2%E3%83%8B%E3%83%A1)#.E5.A4.96.E4.BC.9D>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AC%E3%83%A8%E3%83%B3%E3%81%97%E3%82%93%E3%81%A1%E3%82%83%E3%82%93_%28%E3%82%A2%E3%83%8B%E3%83%A1%29#.E5.A4.96.E4.BC.9D)

@@ -1,5 +1,7 @@
 # Akazukin-chan ga Zukin wo Nuida You desu
 
+![akazukin-chan-ga-zukin-wo-nuida-you-desu](https://cdn.myanimelist.net/images/manga/2/38920.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 赤ずきんちゃんがずきんを脱いだようです

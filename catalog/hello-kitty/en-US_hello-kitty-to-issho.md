@@ -1,5 +1,7 @@
 # Hello Kitty to Issho
 
+![hello-kitty-to-issho](https://cdn.myanimelist.net/images/anime/6/66721.jpg)
+
 -   **type**: ova
 -   **episodes**: 16
 -   **original-name**: ハローキティといっしょ

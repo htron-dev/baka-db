@@ -1,5 +1,7 @@
 # Shibai Taroka
 
+![shibai-taroka](https://cdn.myanimelist.net/images/anime/4/49927.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: しばいたろか

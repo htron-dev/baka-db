@@ -1,5 +1,7 @@
 # Oishinbo
 
+![oishinbo](https://cdn.myanimelist.net/images/anime/1681/109663.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 136
 -   **original-name**: 美味しんぼ

@@ -1,5 +1,7 @@
 # Abracadabra: Ryouki Hanzai Tokusoushitsu
 
+![abracadabra-ryouki-hanzai-tokusoushitsu](https://cdn.myanimelist.net/images/manga/1/180992.jpg)
+
 -   **type**: manga
 -   **original-name**: アブラカダブラ ～猟奇犯罪特捜室～
 -   **start-date**: 2014-02-12

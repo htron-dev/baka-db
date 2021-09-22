@@ -1,5 +1,7 @@
 # Maou Toubatsu shita Ato, Medachitakunai node Guild Master ni Natta
 
+![maou-toubatsu-shita-ato-medachitakunai-node-guild-master-ni-natta](https://cdn.myanimelist.net/images/manga/1/245489.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔王討伐したあと、目立ちたくないのでギルドマスターになった
 -   **start-date**: 2019-04-27

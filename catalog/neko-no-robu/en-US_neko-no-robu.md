@@ -1,5 +1,7 @@
 # Neko no Robu
 
+![neko-no-robu](https://cdn.myanimelist.net/images/anime/1859/91295.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 猫のロブ
 -   **start-date**: 2017-05-06

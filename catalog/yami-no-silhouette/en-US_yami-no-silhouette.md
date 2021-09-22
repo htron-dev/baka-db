@@ -1,5 +1,7 @@
 # Yami No Silhouette
 
+![yami-no-silhouette](https://cdn.myanimelist.net/images/manga/1/20801.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 闇のシルエット

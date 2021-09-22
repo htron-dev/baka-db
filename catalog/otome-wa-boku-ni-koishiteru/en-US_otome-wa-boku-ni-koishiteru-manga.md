@@ -1,5 +1,7 @@
 # Otome wa Boku ni Koishiteru
 
+![otome-wa-boku-ni-koishiteru](https://cdn.myanimelist.net/images/manga/4/3202.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

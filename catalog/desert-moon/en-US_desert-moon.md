@@ -1,5 +1,7 @@
 # Desert Moon
 
+![desert-moon](https://cdn.myanimelist.net/images/manga/3/62349.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: デザートムーン

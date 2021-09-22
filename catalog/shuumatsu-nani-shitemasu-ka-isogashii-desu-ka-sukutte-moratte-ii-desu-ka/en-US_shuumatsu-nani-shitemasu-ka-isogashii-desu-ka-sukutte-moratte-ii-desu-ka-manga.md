@@ -1,5 +1,7 @@
 # Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?
 
+![shuumatsu-nani-shitemasu-ka-isogashii-desu-ka-sukutte-moratte-ii-desu-ka](https://cdn.myanimelist.net/images/manga/3/191762.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

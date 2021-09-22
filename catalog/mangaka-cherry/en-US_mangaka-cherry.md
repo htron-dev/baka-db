@@ -1,5 +1,7 @@
 # Mangaka Cherry!
 
+![mangaka-cherry](https://cdn.myanimelist.net/images/manga/2/223015.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

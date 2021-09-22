@@ -1,5 +1,7 @@
 # Crayon Shin-chan Movie 21: Bakauma! B-Kyuu Gourmet Survival Battle!!
 
+![crayon-shin-chan-movie-21-bakauma-b-kyuu-gourmet-survival-battle](https://cdn.myanimelist.net/images/anime/6/45745.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画クレヨンしんちゃん バカうまっ! B 級グルメサバイバル!!

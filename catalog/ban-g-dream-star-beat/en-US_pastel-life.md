@@ -1,5 +1,7 @@
 # Pastel Life
 
+![pastel-life](https://cdn.myanimelist.net/images/anime/1616/98803.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 6
 -   **original-name**: ぱすてるらいふ

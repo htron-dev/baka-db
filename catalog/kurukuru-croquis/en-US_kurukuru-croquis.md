@@ -1,5 +1,7 @@
 # Kurukuru Croquis
 
+![kurukuru-croquis](https://cdn.myanimelist.net/images/manga/1/123105.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: くるくるクロッキー

@@ -1,5 +1,7 @@
 # Cherry Blossom
 
+![cherry-blossom](https://cdn.myanimelist.net/images/anime/12/66167.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: チェリーブラッサム

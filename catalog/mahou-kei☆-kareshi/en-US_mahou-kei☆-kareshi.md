@@ -1,5 +1,7 @@
 # Mahou-kei☆Kareshi
 
+![mahou-kei☆-kareshi](https://cdn.myanimelist.net/images/manga/1/165306.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

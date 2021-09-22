@@ -1,5 +1,7 @@
 # Love Home
 
+![love-home](https://cdn.myanimelist.net/images/manga/3/6333.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

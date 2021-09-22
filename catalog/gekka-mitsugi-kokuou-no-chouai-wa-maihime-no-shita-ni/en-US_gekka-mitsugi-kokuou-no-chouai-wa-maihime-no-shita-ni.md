@@ -1,5 +1,7 @@
 # Gekka Mitsugi: Kokuou no Chouai wa Maihime no Shita ni
 
+![gekka-mitsugi-kokuou-no-chouai-wa-maihime-no-shita-ni](https://cdn.myanimelist.net/images/manga/1/152802.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

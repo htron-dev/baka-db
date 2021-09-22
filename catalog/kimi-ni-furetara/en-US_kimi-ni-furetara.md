@@ -1,5 +1,7 @@
 # Kimi ni Furetara.
 
+![kimi-ni-furetara](https://cdn.myanimelist.net/images/manga/3/6267.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

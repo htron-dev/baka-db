@@ -1,5 +1,7 @@
 # Maji da yo!!
 
+![maji-da-yo](https://cdn.myanimelist.net/images/manga/2/116477.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

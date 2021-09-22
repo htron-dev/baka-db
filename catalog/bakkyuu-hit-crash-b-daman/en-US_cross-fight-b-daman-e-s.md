@@ -1,5 +1,7 @@
 # Cross Fight B-Daman eS
 
+![cross-fight-b-daman-e-s](https://cdn.myanimelist.net/images/anime/2/42247.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: クロスファイト ビーダマン eS

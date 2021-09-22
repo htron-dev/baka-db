@@ -1,5 +1,7 @@
 # Pink Spot
 
+![pink-spot](https://cdn.myanimelist.net/images/manga/1/137753.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ピンクスパット

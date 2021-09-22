@@ -1,5 +1,7 @@
 # Chitose Get You!!
 
+![chitose-get-you](https://cdn.myanimelist.net/images/manga/1/138939.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 202

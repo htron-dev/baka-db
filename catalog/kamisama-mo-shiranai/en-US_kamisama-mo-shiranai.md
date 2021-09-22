@@ -1,5 +1,7 @@
 # Kamisama mo Shiranai
 
+![kamisama-mo-shiranai](https://cdn.myanimelist.net/images/manga/1/20259.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 神サマも知らない

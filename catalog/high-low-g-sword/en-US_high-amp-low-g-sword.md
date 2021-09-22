@@ -1,5 +1,7 @@
 # High &amp; Low: G-Sword
 
+![high-amp-low-g-sword](https://cdn.myanimelist.net/images/anime/2/84765.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 5
 -   **original-name**: HiGH&LOW g-sword

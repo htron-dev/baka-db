@@ -1,5 +1,7 @@
 # Obentouuri wa Seijo-sama!: Isekai Musume no Attaka Recipe
 
+![obentouuri-wa-seijo-sama-isekai-musume-no-attaka-recipe](https://cdn.myanimelist.net/images/manga/1/240516.jpg)
+
 -   **type**: manga
 -   **original-name**: お弁当売りは聖女様! 〜異世界娘のあったかレシピ〜
 -   **start-date**: 2019-10-05

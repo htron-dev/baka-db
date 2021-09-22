@@ -1,5 +1,7 @@
 # Shitennou Saijaku Datta Ore. Tensei shita node Heion na Seikatsu wo Nozomu
 
+![shitennou-saijaku-datta-ore-tensei-shita-node-heion-na-seikatsu-wo-nozomu](https://cdn.myanimelist.net/images/manga/3/242079.jpg)
+
 -   **type**: manga
 -   **original-name**: 四天王最弱だった俺。転生したので平穏な生活を望む
 -   **start-date**: 2020-02-27

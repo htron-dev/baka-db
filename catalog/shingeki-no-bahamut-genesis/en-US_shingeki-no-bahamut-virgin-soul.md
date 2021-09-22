@@ -1,5 +1,7 @@
 # Shingeki no Bahamut: Virgin Soul
 
+![shingeki-no-bahamut-virgin-soul](https://cdn.myanimelist.net/images/anime/13/85564.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 神撃のバハムート VIRGIN SOUL

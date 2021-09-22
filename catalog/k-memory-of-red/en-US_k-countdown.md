@@ -1,5 +1,7 @@
 # K: Countdown
 
+![k-countdown](https://cdn.myanimelist.net/images/manga/3/163579.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Dekaruto no Yuuutsu
 
+![dekaruto-no-yuuutsu](https://cdn.myanimelist.net/images/manga/2/33264.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: デカルトの憂鬱‐見知らぬ私

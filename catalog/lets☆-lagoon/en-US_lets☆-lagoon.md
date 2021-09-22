@@ -1,5 +1,7 @@
 # Let's☆Lagoon
 
+![lets☆-lagoon](https://cdn.myanimelist.net/images/manga/2/215200.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 68

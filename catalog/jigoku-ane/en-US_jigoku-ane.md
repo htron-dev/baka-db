@@ -1,5 +1,7 @@
 # Jigoku Ane
 
+![jigoku-ane](https://cdn.myanimelist.net/images/manga/2/188890.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

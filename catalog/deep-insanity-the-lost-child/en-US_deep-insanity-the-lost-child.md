@@ -1,5 +1,7 @@
 # Deep Insanity: The Lost Child
 
+![deep-insanity-the-lost-child](https://cdn.myanimelist.net/images/anime/1618/117750.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: Deep Insanity THE LOST CHILD
 -   **start-date**: 2021-10-20

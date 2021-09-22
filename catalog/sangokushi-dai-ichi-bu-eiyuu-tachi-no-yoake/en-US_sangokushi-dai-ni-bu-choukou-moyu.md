@@ -1,5 +1,7 @@
 # Sangokushi: Dai Ni Bu - Choukou Moyu!
 
+![sangokushi-dai-ni-bu-choukou-moyu](https://cdn.myanimelist.net/images/anime/13/72330.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 三国志 第二部 長江燃ゆ!

@@ -1,5 +1,7 @@
 # Tokyo Adventure
 
+![tokyo-adventure](https://cdn.myanimelist.net/images/manga/3/226494.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

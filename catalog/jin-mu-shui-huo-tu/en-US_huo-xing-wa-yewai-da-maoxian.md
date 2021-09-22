@@ -1,5 +1,7 @@
 # Huo Xing Wa: Yewai Da Maoxian
 
+![huo-xing-wa-yewai-da-maoxian](https://cdn.myanimelist.net/images/anime/1531/115382.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 火星娃之野外大冒险

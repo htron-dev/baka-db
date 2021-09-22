@@ -1,5 +1,7 @@
 # Hong Gildong Janggun
 
+![hong-gildong-janggun](https://cdn.myanimelist.net/images/anime/1125/109979.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 홍길동 장군

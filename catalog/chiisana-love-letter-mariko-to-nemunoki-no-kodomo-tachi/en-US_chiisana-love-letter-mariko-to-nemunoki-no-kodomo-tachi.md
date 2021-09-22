@@ -1,5 +1,7 @@
 # Chiisana Love Letter: Mariko to Nemunoki no Kodomo-tachi
 
+![chiisana-love-letter-mariko-to-nemunoki-no-kodomo-tachi](https://cdn.myanimelist.net/images/anime/5/51485.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 小さなラブレター まり子とねむの木の子供たち

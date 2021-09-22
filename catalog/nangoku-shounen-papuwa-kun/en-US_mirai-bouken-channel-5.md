@@ -1,5 +1,7 @@
 # Mirai Bouken Channel 5
 
+![mirai-bouken-channel-5](https://cdn.myanimelist.net/images/manga/3/167468.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 未来冒険チャンネル 5

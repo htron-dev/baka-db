@@ -1,5 +1,7 @@
 # Chuu x2 Trap
 
+![chuu-x-2-trap](https://cdn.myanimelist.net/images/manga/1/80149.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: ちゅー ×2 トラップ

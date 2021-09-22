@@ -1,5 +1,7 @@
 # Kimi to Mita Houkiboshi wo Sagashite
 
+![kimi-to-mita-houkiboshi-wo-sagashite](https://cdn.myanimelist.net/images/manga/3/174224.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

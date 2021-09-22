@@ -1,5 +1,7 @@
 # Himitsu wa Kiss de Abakareru
 
+![himitsu-wa-kiss-de-abakareru](https://cdn.myanimelist.net/images/manga/2/223419.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 38

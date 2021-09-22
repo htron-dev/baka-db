@@ -1,5 +1,7 @@
 # Ama-gami
 
+![ama-gami](https://cdn.myanimelist.net/images/manga/2/35796.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **start-date**: 2009-03-02

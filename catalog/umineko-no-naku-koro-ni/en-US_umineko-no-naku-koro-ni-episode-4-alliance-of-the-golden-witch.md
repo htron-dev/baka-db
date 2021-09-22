@@ -1,5 +1,7 @@
 # Umineko no Naku Koro ni - Episode 4: Alliance of the Golden Witch
 
+![umineko-no-naku-koro-ni-episode-4-alliance-of-the-golden-witch](https://cdn.myanimelist.net/images/manga/3/34747.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 29

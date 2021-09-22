@@ -1,5 +1,7 @@
 # Kindan no Ai Nante Baka Yarou
 
+![kindan-no-ai-nante-baka-yarou](https://cdn.myanimelist.net/images/manga/2/95573.jpg)
+
 -   **type**: manga
 -   **original-name**: 禁断の愛なんてバカやろう
 -   **start-date**: 2012-12-07

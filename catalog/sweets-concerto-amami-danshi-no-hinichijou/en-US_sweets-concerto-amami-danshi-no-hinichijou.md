@@ -1,5 +1,7 @@
 # Sweets Concerto: Amami Danshi no Hinichijou
 
+![sweets-concerto-amami-danshi-no-hinichijou](https://cdn.myanimelist.net/images/manga/2/241874.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

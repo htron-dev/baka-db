@@ -1,5 +1,7 @@
 # Kurayami no Rhapsody
 
+![kurayami-no-rhapsody](https://cdn.myanimelist.net/images/manga/3/247213.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 暗闇のラプソディ

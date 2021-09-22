@@ -1,5 +1,7 @@
 # Virtual Star 2000
 
+![virtual-star-2000](https://cdn.myanimelist.net/images/anime/5/58877.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: バーチャルスター 2000

@@ -1,5 +1,7 @@
 # Sanchoume no Yuuhi
 
+![sanchoume-no-yuuhi](https://cdn.myanimelist.net/images/anime/12/56683.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 27
 -   **original-name**: 三丁目の夕日

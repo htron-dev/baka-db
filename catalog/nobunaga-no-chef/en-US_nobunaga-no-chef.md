@@ -1,5 +1,7 @@
 # Nobunaga no Chef
 
+![nobunaga-no-chef](https://cdn.myanimelist.net/images/manga/2/86733.jpg)
+
 -   **type**: manga
 -   **original-name**: 信長のシェフ
 -   **start-date**: 2011-03-04

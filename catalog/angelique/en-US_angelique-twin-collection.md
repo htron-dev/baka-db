@@ -1,5 +1,7 @@
 # Angelique: Twin Collection
 
+![angelique-twin-collection](https://cdn.myanimelist.net/images/anime/6/3185.jpg)
+
 -   **type**: ova
 -   **episodes**: 8
 -   **original-name**: アンジェリーク　 Twin コレクション

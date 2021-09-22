@@ -1,5 +1,7 @@
 # Kumo Desu ga, Nani ka?
 
+![kumo-desu-ga-nani-ka](https://cdn.myanimelist.net/images/anime/1593/113724.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 蜘蛛ですが、なにか？

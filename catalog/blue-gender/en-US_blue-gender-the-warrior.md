@@ -1,5 +1,7 @@
 # Blue Gender: The Warrior
 
+![blue-gender-the-warrior](https://cdn.myanimelist.net/images/anime/4/15774.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: BLUE GENDER THE WARRIOR

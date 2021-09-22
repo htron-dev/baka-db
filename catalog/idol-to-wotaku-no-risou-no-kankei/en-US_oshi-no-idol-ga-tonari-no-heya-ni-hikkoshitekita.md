@@ -1,5 +1,7 @@
 # Oshi no Idol ga Tonari no Heya ni Hikkoshitekita
 
+![oshi-no-idol-ga-tonari-no-heya-ni-hikkoshitekita](https://cdn.myanimelist.net/images/manga/3/230494.jpg)
+
 -   **type**: manga
 -   **original-name**: 推しのアイドルが隣の部屋に引っ越してきた
 -   **start-date**: 2019-07-26

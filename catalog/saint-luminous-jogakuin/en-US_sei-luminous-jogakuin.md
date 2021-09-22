@@ -1,5 +1,7 @@
 # Sei Luminous Jogakuin
 
+![sei-luminous-jogakuin](https://cdn.myanimelist.net/images/manga/3/164145.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 聖ルミナス女学院

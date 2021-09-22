@@ -1,5 +1,7 @@
 # Urameshiya
 
+![urameshiya](https://cdn.myanimelist.net/images/manga/1/45443.jpg)
+
 -   **type**: manga
 -   **original-name**: うらめしや
 

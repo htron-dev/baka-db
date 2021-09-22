@@ -1,5 +1,7 @@
 # Galaxy Angel Parody
 
+![galaxy-angel-parody](https://cdn.myanimelist.net/images/manga/3/5232.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ギャラクシーエンジェルパロディ

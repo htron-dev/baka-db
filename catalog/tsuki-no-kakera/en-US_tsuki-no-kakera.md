@@ -1,5 +1,7 @@
 # Tsuki no Kakera
 
+![tsuki-no-kakera](https://cdn.myanimelist.net/images/manga/3/30633.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 月のかけら

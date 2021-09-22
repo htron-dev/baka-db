@@ -1,5 +1,7 @@
 # Kanashi no Homura: Yumemaboroshi no Gotoku
 
+![kanashi-no-homura-yumemaboroshi-no-gotoku](https://cdn.myanimelist.net/images/manga/2/198716.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

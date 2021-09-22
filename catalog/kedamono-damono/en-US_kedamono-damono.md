@@ -1,5 +1,7 @@
 # Kedamono Damono
 
+![kedamono-damono](https://cdn.myanimelist.net/images/manga/2/202951.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: けだものだもの

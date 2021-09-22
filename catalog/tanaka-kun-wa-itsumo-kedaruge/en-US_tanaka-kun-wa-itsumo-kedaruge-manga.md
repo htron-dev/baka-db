@@ -1,5 +1,7 @@
 # Tanaka-kun wa Itsumo Kedaruge
 
+![tanaka-kun-wa-itsumo-kedaruge](https://cdn.myanimelist.net/images/manga/2/125893.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 145

@@ -1,5 +1,7 @@
 # Tonosama no Nanahon Yari
 
+![tonosama-no-nanahon-yari](https://cdn.myanimelist.net/images/manga/1/239584.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

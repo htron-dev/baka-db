@@ -1,5 +1,7 @@
 # Ju Bing Chang Cheng Zhuan
 
+![ju-bing-chang-cheng-zhuan](https://cdn.myanimelist.net/images/anime/1478/100438.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: 巨兵长城传
@@ -12,7 +14,6 @@
 -   action
 -   adventure
 -   demons
-
 -   magic
 -   fantasy
 

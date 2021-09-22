@@ -1,5 +1,7 @@
 # Starmyu 3rd Season
 
+![starmyu-3rd-season](https://cdn.myanimelist.net/images/anime/1663/99834.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 高校星歌劇[スタミュ] 3rd シーズン

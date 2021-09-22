@@ -1,5 +1,7 @@
 # Kyojin Meikyuu to Gakuen Kouryakuka no Madoushi
 
+![kyojin-meikyuu-to-gakuen-kouryakuka-no-madoushi](https://cdn.myanimelist.net/images/manga/2/160751.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 巨大迷宮と学園攻略科の魔術師

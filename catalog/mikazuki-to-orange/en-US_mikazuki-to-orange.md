@@ -1,5 +1,7 @@
 # Mikazuki to Orange
 
+![mikazuki-to-orange](https://cdn.myanimelist.net/images/manga/2/174817.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Shiawase Restaurant
 
+![shiawase-restaurant](https://cdn.myanimelist.net/images/manga/3/64215.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 幸せレストラン

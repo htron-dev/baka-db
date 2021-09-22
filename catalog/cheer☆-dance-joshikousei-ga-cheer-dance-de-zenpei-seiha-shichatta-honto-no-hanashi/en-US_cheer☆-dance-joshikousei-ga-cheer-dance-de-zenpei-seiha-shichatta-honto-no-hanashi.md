@@ -1,5 +1,7 @@
 # Cheer☆Dance: Joshikousei ga Cheer Dance de Zenpei Seiha shichatta Honto no Hanashi
 
+![cheer☆-dance-joshikousei-ga-cheer-dance-de-zenpei-seiha-shichatta-honto-no-hanashi](https://cdn.myanimelist.net/images/manga/2/193596.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Yume-iro Pâtissière
 
+![yume-iro-patissiere](https://cdn.myanimelist.net/images/anime/12/21674.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: 夢色パティシエール

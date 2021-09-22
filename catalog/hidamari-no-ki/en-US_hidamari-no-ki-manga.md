@@ -1,5 +1,7 @@
 # Hidamari no Ki
 
+![hidamari-no-ki](https://cdn.myanimelist.net/images/manga/2/191488.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 62

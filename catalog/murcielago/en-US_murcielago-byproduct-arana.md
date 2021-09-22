@@ -1,5 +1,7 @@
 # Murciélago Byproduct: Araña
 
+![murcielago-byproduct-arana](https://cdn.myanimelist.net/images/manga/1/234744.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 31

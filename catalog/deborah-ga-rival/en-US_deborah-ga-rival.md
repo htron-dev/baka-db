@@ -1,5 +1,7 @@
 # Deborah ga Rival
 
+![deborah-ga-rival](https://cdn.myanimelist.net/images/manga/1/10886.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: デボラがライバル

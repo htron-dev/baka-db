@@ -1,5 +1,7 @@
 # Nanako-san-teki na Nichijou Revival
 
+![nanako-san-teki-na-nichijou-revival](https://cdn.myanimelist.net/images/manga/1/182345.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 63

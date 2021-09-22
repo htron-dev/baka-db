@@ -1,5 +1,7 @@
 # Himouto! Umaru-chan
 
+![himouto-umaru-chan](https://cdn.myanimelist.net/images/anime/12/75086.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 干物妹！うまるちゃん

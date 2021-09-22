@@ -1,5 +1,7 @@
 # Princess Ledalia: Bara no Kaizoku
 
+![princess-ledalia-bara-no-kaizoku](https://cdn.myanimelist.net/images/manga/3/221577.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 22

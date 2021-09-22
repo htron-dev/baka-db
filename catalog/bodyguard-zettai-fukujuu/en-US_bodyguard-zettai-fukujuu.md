@@ -1,5 +1,7 @@
 # Bodyguard Zettai Fukujuu!
 
+![bodyguard-zettai-fukujuu](https://cdn.myanimelist.net/images/manga/2/80463.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

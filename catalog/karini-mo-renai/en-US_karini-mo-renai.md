@@ -1,5 +1,7 @@
 # Karini mo Renai
 
+![karini-mo-renai](https://cdn.myanimelist.net/images/manga/2/223772.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

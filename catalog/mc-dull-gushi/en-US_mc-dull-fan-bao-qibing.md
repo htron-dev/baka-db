@@ -1,5 +1,7 @@
 # McDull: Fan Bao Qibing
 
+![mc-dull-fan-bao-qibing](https://cdn.myanimelist.net/images/anime/1382/112737.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 麥兜·飯寶奇兵
@@ -9,7 +11,6 @@
 ## Tags
 
 -   action
-
 -   sci-fi
 
 ## Sinopse

@@ -1,5 +1,7 @@
 # Mittsu no Ai no Uta
 
+![mittsu-no-ai-no-uta](https://cdn.myanimelist.net/images/manga/2/227819.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 三つの愛の詩

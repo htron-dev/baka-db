@@ -1,5 +1,7 @@
 # Nokizaru
 
+![nokizaru](https://cdn.myanimelist.net/images/manga/1/36932.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 軒猿

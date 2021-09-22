@@ -1,5 +1,7 @@
 # Tasukeai no Rekishi: Seimei Hoken no Hajimari
 
+![tasukeai-no-rekishi-seimei-hoken-no-hajimari](https://cdn.myanimelist.net/images/anime/7/66249.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: たすけあいの歴史 ─ 生命保険のはじまり ─
@@ -9,7 +11,6 @@
 ## Tags
 
 -   historical
-
 -   drama
 
 ## Sinopse

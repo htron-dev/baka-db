@@ -1,5 +1,7 @@
 # Goblin Slayer
 
+![goblin-slayer](https://cdn.myanimelist.net/images/anime/1719/95621.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ゴブリンスレイヤー

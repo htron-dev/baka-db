@@ -1,5 +1,7 @@
 # Pumpkin Scissors
 
+![pumpkin-scissors](https://cdn.myanimelist.net/images/anime/8/75181.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: パンプキン・シザーズ

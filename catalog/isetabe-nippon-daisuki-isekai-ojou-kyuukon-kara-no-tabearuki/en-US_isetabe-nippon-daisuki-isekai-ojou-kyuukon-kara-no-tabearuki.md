@@ -1,5 +1,7 @@
 # Isetabe: Nippon Daisuki Isekai Ojou, Kyuukon kara no Tabearuki
 
+![isetabe-nippon-daisuki-isekai-ojou-kyuukon-kara-no-tabearuki](https://cdn.myanimelist.net/images/manga/3/184861.jpg)
+
 -   **type**: light-novel
 -   **original-name**: いせたべ~日本大好き異世界王女、求婚からの食べ歩き~
 -   **start-date**: 2016-11-10

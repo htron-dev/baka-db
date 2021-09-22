@@ -1,5 +1,7 @@
 # Pocket Monsters RéBURST
 
+![pocket-monsters-re-burst](https://cdn.myanimelist.net/images/manga/3/63023.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 77

@@ -1,5 +1,7 @@
 # Bread &amp; Butter
 
+![bread-amp-butter](https://cdn.myanimelist.net/images/manga/2/127553.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 40

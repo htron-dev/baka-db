@@ -1,5 +1,7 @@
 # Oni ni Hatsujou
 
+![oni-ni-hatsujou](https://cdn.myanimelist.net/images/manga/3/33396.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

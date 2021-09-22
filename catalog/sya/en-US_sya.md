@@ -1,5 +1,7 @@
 # Sya
 
+![sya](https://cdn.myanimelist.net/images/manga/2/114655.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 射~Sya~

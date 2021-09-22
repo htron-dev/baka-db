@@ -1,5 +1,7 @@
 # Dead or Alive: Xtreme Beach Volleyball Comic Anthology
 
+![dead-or-alive-xtreme-beach-volleyball-comic-anthology](https://cdn.myanimelist.net/images/manga/2/60655.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: DEAD OR ALIVE XTREME BEACH VOLLEYBALL コミックアンソロジー

@@ -1,5 +1,7 @@
 # Black Clover: Kishidan no Sho
 
+![black-clover-kishidan-no-sho](https://cdn.myanimelist.net/images/manga/3/234487.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # DRAMAtical Murder Anthology
 
+![dram-atical-murder-anthology](https://cdn.myanimelist.net/images/manga/2/97673.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

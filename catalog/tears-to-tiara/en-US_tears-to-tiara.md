@@ -1,5 +1,7 @@
 # Tears to Tiara
 
+![tears-to-tiara](https://cdn.myanimelist.net/images/anime/6/18547.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ティアーズ・トゥ・ティアラ

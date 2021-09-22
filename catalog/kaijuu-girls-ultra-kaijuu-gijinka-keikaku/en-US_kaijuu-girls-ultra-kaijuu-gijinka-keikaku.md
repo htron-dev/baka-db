@@ -1,5 +1,7 @@
 # Kaijuu Girls: Ultra Kaijuu Gijinka Keikaku
 
+![kaijuu-girls-ultra-kaijuu-gijinka-keikaku](https://cdn.myanimelist.net/images/anime/4/82138.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 怪獣娘[かいじゅうがーるず] ~ウルトラ怪獣擬人化計画~

@@ -1,5 +1,7 @@
 # Sabaku-teki Netsuai Jijou
 
+![sabaku-teki-netsuai-jijou](https://cdn.myanimelist.net/images/manga/2/19865.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

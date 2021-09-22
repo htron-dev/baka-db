@@ -1,5 +1,7 @@
 # Kyoufu Shinbun (2014)
 
+![kyoufu-shinbun-2014](https://cdn.myanimelist.net/images/anime/4/72885.jpg)
+
 -   **type**: ona
 -   **episodes**: 16
 -   **original-name**: 恐怖新聞 (2014)

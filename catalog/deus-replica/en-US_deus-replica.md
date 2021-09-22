@@ -1,5 +1,7 @@
 # Deus Replica
 
+![deus-replica](https://cdn.myanimelist.net/images/manga/2/163572.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 23

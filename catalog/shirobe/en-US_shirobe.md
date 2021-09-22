@@ -1,5 +1,7 @@
 # Shirobe
 
+![shirobe](https://cdn.myanimelist.net/images/manga/2/167320.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

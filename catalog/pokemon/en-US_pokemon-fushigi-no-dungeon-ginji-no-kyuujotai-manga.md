@@ -1,5 +1,7 @@
 # Pokémon Fushigi no Dungeon: Ginji no Kyuujotai
 
+![pokemon-fushigi-no-dungeon-ginji-no-kyuujotai](https://cdn.myanimelist.net/images/manga/3/169444.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

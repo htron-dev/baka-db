@@ -1,5 +1,7 @@
 # Haiyoru! Nyaruani
 
+![haiyoru-nyaruani](https://cdn.myanimelist.net/images/anime/5/22334.jpg)
+
 -   **type**: ova
 -   **episodes**: 9
 -   **original-name**: 這いよる!ニャルアニ

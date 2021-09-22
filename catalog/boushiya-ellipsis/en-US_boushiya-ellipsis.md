@@ -1,5 +1,7 @@
 # Boushiya Ellipsis
 
+![boushiya-ellipsis](https://cdn.myanimelist.net/images/manga/5/25763.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 帽子屋エリプシス

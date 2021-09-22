@@ -1,5 +1,7 @@
 # Shunki Gentei Ichigo Tart Jiken
 
+![shunki-gentei-ichigo-tart-jiken](https://cdn.myanimelist.net/images/manga/1/72203.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Kokoro Kimi-iro Sakurairo
 
+![kokoro-kimi-iro-sakurairo](https://cdn.myanimelist.net/images/manga/1/78117.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 38

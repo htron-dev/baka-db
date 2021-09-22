@@ -1,5 +1,7 @@
 # Ikoku Meiro no Croisée: Yune &amp; Alice
 
+![ikoku-meiro-no-croisee-yune-amp-alice](https://cdn.myanimelist.net/images/anime/9/31995.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: 異国迷路のクロワーゼ 「湯音＆アリス」

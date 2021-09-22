@@ -1,5 +1,7 @@
 # Countrouble
 
+![countrouble](https://cdn.myanimelist.net/images/manga/3/188881.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 39

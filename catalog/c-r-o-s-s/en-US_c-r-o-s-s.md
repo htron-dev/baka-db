@@ -1,5 +1,7 @@
 # C-R-O-S-S
 
+![c-r-o-s-s](https://cdn.myanimelist.net/images/manga/2/34590.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: C‐R‐O‐S‐S

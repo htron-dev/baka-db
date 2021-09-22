@@ -1,5 +1,7 @@
 # Chiyu Mahou no Machigatta Tsukaikata: Senjou wo Kakeru Kaifuku Youin
 
+![chiyu-mahou-no-machigatta-tsukaikata-senjou-wo-kakeru-kaifuku-youin](https://cdn.myanimelist.net/images/manga/1/173367.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 治癒魔法の間違った使い方～戦場を駆ける回復要員～
 -   **start-date**: 2016-03-25

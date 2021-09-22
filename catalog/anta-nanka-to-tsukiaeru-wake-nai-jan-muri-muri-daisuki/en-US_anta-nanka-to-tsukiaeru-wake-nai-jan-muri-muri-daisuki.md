@@ -1,5 +1,7 @@
 # Anta nanka to Tsukiaeru Wake Nai jan! Muri! Muri! Daisuki!
 
+![anta-nanka-to-tsukiaeru-wake-nai-jan-muri-muri-daisuki](https://cdn.myanimelist.net/images/manga/2/200304.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 23

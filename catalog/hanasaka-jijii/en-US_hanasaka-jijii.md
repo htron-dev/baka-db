@@ -1,5 +1,7 @@
 # Hanasaka Jijii
 
+![hanasaka-jijii](https://cdn.myanimelist.net/images/anime/5/49437.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 花咲爺

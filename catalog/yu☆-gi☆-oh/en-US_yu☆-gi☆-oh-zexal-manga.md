@@ -1,5 +1,7 @@
 # Yu☆Gi☆Oh! Zexal
 
+![yu☆-gi☆-oh-zexal](https://cdn.myanimelist.net/images/manga/1/178242.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 56

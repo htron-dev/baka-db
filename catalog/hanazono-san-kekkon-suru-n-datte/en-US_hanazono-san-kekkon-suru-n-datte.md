@@ -1,5 +1,7 @@
 # Hanazono-san, Kekkon suru n Datte
 
+![hanazono-san-kekkon-suru-n-datte](https://cdn.myanimelist.net/images/manga/2/241262.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

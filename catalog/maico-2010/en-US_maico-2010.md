@@ -1,5 +1,7 @@
 # Maico 2010
 
+![maico-2010](https://cdn.myanimelist.net/images/manga/2/56069.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 37

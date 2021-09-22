@@ -1,5 +1,7 @@
 # Papa to Kiss in the Dark
 
+![papa-to-kiss-in-the-dark](https://cdn.myanimelist.net/images/anime/5/11100.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: パパと KISS IN THE DARK

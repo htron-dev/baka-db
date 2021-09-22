@@ -1,5 +1,7 @@
 # Wizard's Soul: Koi no Jihad
 
+![wizards-soul-koi-no-jihad](https://cdn.myanimelist.net/images/manga/3/161439.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

@@ -1,5 +1,7 @@
 # SMC e Youkoso
 
+![smc-e-youkoso](https://cdn.myanimelist.net/images/manga/1/79553.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

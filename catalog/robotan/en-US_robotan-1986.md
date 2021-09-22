@@ -1,5 +1,7 @@
 # Robotan (1986)
 
+![robotan-1986](https://cdn.myanimelist.net/images/anime/7/52975.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 33
 -   **original-name**: ロボタン

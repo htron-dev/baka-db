@@ -1,5 +1,7 @@
 # Kamiusagi Rope x ROPÉ Sisters
 
+![kamiusagi-rope-x-rope-sisters](https://cdn.myanimelist.net/images/anime/4/84987.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 紙兎ロペ ×ROPÉ SISTERS

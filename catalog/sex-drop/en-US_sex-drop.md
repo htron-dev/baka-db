@@ -1,5 +1,7 @@
 # Sex Drop
 
+![sex-drop](https://cdn.myanimelist.net/images/manga/2/237833.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

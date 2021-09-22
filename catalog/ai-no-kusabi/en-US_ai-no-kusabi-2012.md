@@ -1,5 +1,7 @@
 # Ai no Kusabi (2012)
 
+![ai-no-kusabi-2012](https://cdn.myanimelist.net/images/anime/7/75531.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 間の楔

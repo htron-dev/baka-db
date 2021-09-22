@@ -1,5 +1,7 @@
 # Dojikko Pantsu
 
+![dojikko-pantsu](https://cdn.myanimelist.net/images/manga/1/237179.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

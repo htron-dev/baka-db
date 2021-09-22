@@ -1,5 +1,7 @@
 # Samurai Gun Special
 
+![samurai-gun-special](https://cdn.myanimelist.net/images/anime/12/57815.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: サムライガン 8.5 話 消せない過去

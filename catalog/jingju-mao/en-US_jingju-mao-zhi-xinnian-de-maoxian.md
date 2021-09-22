@@ -1,5 +1,7 @@
 # Jingju Mao Zhi Xinnian de Maoxian
 
+![jingju-mao-zhi-xinnian-de-maoxian](https://cdn.myanimelist.net/images/anime/1675/107855.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 京剧猫之信念的冒险
@@ -12,7 +14,6 @@
 -   action
 -   adventure
 -   comedy
-
 -   fantasy
 
 ## Sinopse

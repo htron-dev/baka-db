@@ -1,5 +1,7 @@
 # Yoru mo, Hiru mo
 
+![yoru-mo-hiru-mo](https://cdn.myanimelist.net/images/manga/2/31210.jpg)
+
 -   **type**: manga
 -   **original-name**: 夜も、昼も
 

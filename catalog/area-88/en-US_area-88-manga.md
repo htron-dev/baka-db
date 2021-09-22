@@ -1,5 +1,7 @@
 # Area 88
 
+![area-88](https://cdn.myanimelist.net/images/manga/2/73005.jpg)
+
 -   **type**: manga
 -   **volumes**: 23
 -   **chapters**: 172

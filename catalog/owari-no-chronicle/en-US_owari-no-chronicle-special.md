@@ -1,5 +1,7 @@
 # Owari no Chronicle
 
+![owari-no-chronicle](https://cdn.myanimelist.net/images/anime/4/37931.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 終わりのクロニクル

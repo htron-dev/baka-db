@@ -1,5 +1,7 @@
 # Kikou Keisatsu Metal Jack
 
+![kikou-keisatsu-metal-jack](https://cdn.myanimelist.net/images/anime/2/77278.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 37
 -   **original-name**: 機甲警察 メタルジャック

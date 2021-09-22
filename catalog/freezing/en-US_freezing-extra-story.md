@@ -1,5 +1,7 @@
 # Freezing: Extra Story
 
+![freezing-extra-story](https://cdn.myanimelist.net/images/manga/1/162351.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: フリージング EXTRA STORY

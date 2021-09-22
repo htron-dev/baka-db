@@ -1,5 +1,7 @@
 # Megumi to Taiyou: Kajuu Gummi Tweet Love Story
 
+![megumi-to-taiyou-kajuu-gummi-tweet-love-story](https://cdn.myanimelist.net/images/anime/11/64635.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: メグミとタイヨウ 果汁グミ Tweet Love Story

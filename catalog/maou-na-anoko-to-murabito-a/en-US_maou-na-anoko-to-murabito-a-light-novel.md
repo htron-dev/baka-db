@@ -1,5 +1,7 @@
 # Maou na Anoko to Murabito A
 
+![maou-na-anoko-to-murabito-a](https://cdn.myanimelist.net/images/manga/1/164739.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 11
 -   **chapters**: 75

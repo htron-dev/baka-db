@@ -1,5 +1,7 @@
 # Hello Kitty no Hansel to Gretel
 
+![hello-kitty-no-hansel-to-gretel](https://cdn.myanimelist.net/images/anime/9/58855.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティのヘンゼルとグレーテル

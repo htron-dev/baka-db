@@ -1,5 +1,7 @@
 # Manga Hajimete Omoshiro Juku
 
+![manga-hajimete-omoshiro-juku](https://cdn.myanimelist.net/images/anime/13/28065.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 110
 -   **original-name**: まんがはじめて面白塾

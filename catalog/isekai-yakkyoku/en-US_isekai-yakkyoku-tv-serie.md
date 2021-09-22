@@ -1,5 +1,7 @@
 # Isekai Yakkyoku
 
+![isekai-yakkyoku](https://cdn.myanimelist.net/images/anime/1053/116557.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 異世界薬局
 -   **rating**: None

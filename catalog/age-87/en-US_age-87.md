@@ -1,5 +1,7 @@
 # Age '87
 
+![age-87](https://cdn.myanimelist.net/images/manga/2/215305.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

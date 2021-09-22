@@ -1,5 +1,7 @@
 # Uchuu no Kishi Tekkaman Blade II: Virgin Memory
 
+![uchuu-no-kishi-tekkaman-blade-ii-virgin-memory](https://cdn.myanimelist.net/images/anime/1447/108299.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 宇宙の騎士テッカマンブレード II VIRGIN MEMORY

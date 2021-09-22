@@ -1,5 +1,7 @@
 # Real Onigokko JK
 
+![real-onigokko-jk](https://cdn.myanimelist.net/images/manga/3/171693.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: リアル鬼ごっこ JK

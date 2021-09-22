@@ -1,5 +1,7 @@
 # Osomatsu-san: Hajimaru Hajimari
 
+![osomatsu-san-hajimaru-hajimari](https://cdn.myanimelist.net/images/anime/1964/93279.jpg)
+
 -   **type**: special
 -   **original-name**: おそ松さん～はじまりはじまり～
 -   **start-date**: 2018-08-02

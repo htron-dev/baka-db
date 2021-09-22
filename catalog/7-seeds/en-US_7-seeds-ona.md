@@ -1,5 +1,7 @@
 # 7 Seeds
 
+![7-seeds](https://cdn.myanimelist.net/images/anime/1219/116954.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 7SEEDS

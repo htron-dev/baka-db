@@ -1,5 +1,7 @@
 # Dead Tube
 
+![dead-tube](https://cdn.myanimelist.net/images/manga/3/186914.jpg)
+
 -   **type**: manga
 -   **original-name**: DEAD Tube ～デッドチューブ～
 -   **start-date**: 2014-04-19

@@ -1,5 +1,7 @@
 # Hengoku no Schwester
 
+![hengoku-no-schwester](https://cdn.myanimelist.net/images/manga/3/158990.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 32

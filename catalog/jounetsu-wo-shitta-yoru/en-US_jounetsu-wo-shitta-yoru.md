@@ -1,5 +1,7 @@
 # Jounetsu wo Shitta Yoru
 
+![jounetsu-wo-shitta-yoru](https://cdn.myanimelist.net/images/manga/3/229692.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 情熱を知った夜

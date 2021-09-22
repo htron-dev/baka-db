@@ -1,5 +1,7 @@
 # Dragon Quest: Dai no Daibouken (2020)
 
+![dragon-quest-dai-no-daibouken-2020](https://cdn.myanimelist.net/images/anime/1499/109126.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ドラゴンクエスト ダイの大冒険
 -   **start-date**: 2020-10-03
@@ -28,4 +30,4 @@ Several years later, the demon is revived. Our present-day protagonist, Dai, liv
 -   [Official Site](http://www.toei-anim.co.jp/tv/dai/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15321)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23361)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Dragon_Quest:_The_Adventure_of_Dai_(2020_TV_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Dragon_Quest:_The_Adventure_of_Dai_%282020_TV_series%29)

@@ -1,5 +1,7 @@
 # Nagori no Hana
 
+![nagori-no-hana](https://cdn.myanimelist.net/images/manga/3/32360.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 名残の花

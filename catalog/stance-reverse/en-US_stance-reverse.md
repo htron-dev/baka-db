@@ -1,5 +1,7 @@
 # Stance Reverse
 
+![stance-reverse](https://cdn.myanimelist.net/images/manga/2/229762.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Aigan Shounen
 
+![aigan-shounen](https://cdn.myanimelist.net/images/manga/2/7331.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

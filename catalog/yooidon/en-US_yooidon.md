@@ -1,5 +1,7 @@
 # Yooidon!
 
+![yooidon](https://cdn.myanimelist.net/images/anime/8/65987.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: よーいドン！

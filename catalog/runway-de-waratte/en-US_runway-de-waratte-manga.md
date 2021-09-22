@@ -1,5 +1,7 @@
 # Runway de Waratte
 
+![runway-de-waratte](https://cdn.myanimelist.net/images/manga/2/200705.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 194

@@ -1,5 +1,7 @@
 # Ojiichan Shinanai
 
+![ojiichan-shinanai](https://cdn.myanimelist.net/images/manga/2/217375.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: おじいちゃんしなない

@@ -1,5 +1,7 @@
 # Kero Kero Keroppi no Ganbare! Keroppooz
 
+![kero-kero-keroppi-no-ganbare-keroppooz](https://cdn.myanimelist.net/images/anime/1003/112498.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: けろけろけろっぴのがんばれ! けろっぴーず

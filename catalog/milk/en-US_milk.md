@@ -1,5 +1,7 @@
 # Milk
 
+![milk](https://cdn.myanimelist.net/images/manga/2/196719.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 56

@@ -1,5 +1,7 @@
 # Nekketsu Jinmen Inu: Life Is Movie
 
+![nekketsu-jinmen-inu-life-is-movie](https://cdn.myanimelist.net/images/anime/4/67431.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 熱血人面犬 Life is Movie

@@ -1,5 +1,7 @@
 # Little Busters!: Refrain
 
+![little-busters-refrain](https://cdn.myanimelist.net/images/anime/10/55049.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: リトルバスターズ！～ Refrain ～

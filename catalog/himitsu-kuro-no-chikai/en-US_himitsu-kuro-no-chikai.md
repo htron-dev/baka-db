@@ -1,5 +1,7 @@
 # Himitsu: Kuro no Chikai
 
+![himitsu-kuro-no-chikai](https://cdn.myanimelist.net/images/manga/3/219803.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

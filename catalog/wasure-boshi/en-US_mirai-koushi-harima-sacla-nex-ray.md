@@ -1,5 +1,7 @@
 # Mirai Koushi Harima SACLA NEX RAY
 
+![mirai-koushi-harima-sacla-nex-ray](https://cdn.myanimelist.net/images/anime/1617/98375.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 未来光子 播磨サクラ NEX RAY（ネクスレイ）

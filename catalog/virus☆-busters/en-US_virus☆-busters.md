@@ -1,5 +1,7 @@
 # Virus☆Busters
 
+![virus☆-busters](https://cdn.myanimelist.net/images/manga/4/152068.jpg)
+
 -   **type**: manga
 -   **original-name**: ウイルス ☆ バスターズ
 -   **start-date**: 2014-05-28

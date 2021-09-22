@@ -1,5 +1,7 @@
 # Kusa no Kanmuri Hoshi no Kanmuri
 
+![kusa-no-kanmuri-hoshi-no-kanmuri](https://cdn.myanimelist.net/images/manga/2/157814.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 42

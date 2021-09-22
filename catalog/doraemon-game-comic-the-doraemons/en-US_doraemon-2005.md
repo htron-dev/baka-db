@@ -1,5 +1,7 @@
 # Doraemon (2005)
 
+![doraemon-2005](https://cdn.myanimelist.net/images/anime/6/23935.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ドラえもん (2005)
 -   **start-date**: 2005-04-22
@@ -11,7 +13,6 @@
 
 -   sci-fi
 -   comedy
-
 -   shounen
 
 ## Sinopse

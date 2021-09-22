@@ -1,5 +1,7 @@
 # Namaiki Do S Doll
 
+![namaiki-do-s-doll](https://cdn.myanimelist.net/images/manga/2/230775.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

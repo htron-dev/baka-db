@@ -1,5 +1,7 @@
 # Bunkiten
 
+![bunkiten](https://cdn.myanimelist.net/images/manga/3/245533.jpg)
+
 -   **type**: manga
 -   **chapters**: 7
 -   **original-name**: ブンキテン

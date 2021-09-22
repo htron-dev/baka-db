@@ -1,5 +1,7 @@
 # Ecchan no Sensou
 
+![ecchan-no-sensou](https://cdn.myanimelist.net/images/anime/4/53079.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: えっちゃんのせんそう

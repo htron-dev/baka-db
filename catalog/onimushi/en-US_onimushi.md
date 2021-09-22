@@ -1,5 +1,7 @@
 # Onimushi
 
+![onimushi](https://cdn.myanimelist.net/images/manga/1/143921.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 58

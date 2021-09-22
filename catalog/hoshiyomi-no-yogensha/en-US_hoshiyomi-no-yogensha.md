@@ -1,5 +1,7 @@
 # Hoshiyomi no Yogensha
 
+![hoshiyomi-no-yogensha](https://cdn.myanimelist.net/images/manga/2/14537.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

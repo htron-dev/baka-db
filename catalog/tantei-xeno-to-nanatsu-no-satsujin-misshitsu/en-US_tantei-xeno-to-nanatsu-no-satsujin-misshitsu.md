@@ -1,5 +1,7 @@
 # Tantei Xeno to Nanatsu no Satsujin Misshitsu
 
+![tantei-xeno-to-nanatsu-no-satsujin-misshitsu](https://cdn.myanimelist.net/images/manga/2/209181.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 79

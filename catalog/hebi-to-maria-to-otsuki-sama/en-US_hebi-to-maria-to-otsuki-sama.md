@@ -1,5 +1,7 @@
 # Hebi to Maria to Otsuki-sama
 
+![hebi-to-maria-to-otsuki-sama](https://cdn.myanimelist.net/images/manga/3/151291.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Satsujin Muzai
 
+![satsujin-muzai](https://cdn.myanimelist.net/images/manga/1/215942.jpg)
+
 -   **type**: manga
 -   **original-name**: 殺人無罪
 -   **start-date**: 2018-10-11

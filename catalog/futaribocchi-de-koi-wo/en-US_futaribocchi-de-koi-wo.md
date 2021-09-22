@@ -1,5 +1,7 @@
 # Futaribocchi de Koi wo
 
+![futaribocchi-de-koi-wo](https://cdn.myanimelist.net/images/manga/1/136917.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

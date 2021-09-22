@@ -1,5 +1,7 @@
 # Shinkaigyo no Anko-san
 
+![shinkaigyo-no-anko-san](https://cdn.myanimelist.net/images/manga/3/162815.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

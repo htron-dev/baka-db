@@ -1,5 +1,7 @@
 # Wonderland
 
+![wonderland](https://cdn.myanimelist.net/images/manga/2/167641.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 56

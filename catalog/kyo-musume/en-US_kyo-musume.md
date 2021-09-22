@@ -1,5 +1,7 @@
 # Kyo Musume
 
+![kyo-musume](https://cdn.myanimelist.net/images/manga/2/205328.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 36

@@ -1,5 +1,7 @@
 # Katakoi Gokko
 
+![katakoi-gokko](https://cdn.myanimelist.net/images/manga/2/157468.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

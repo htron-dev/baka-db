@@ -1,5 +1,7 @@
 # Kanashi Kanashi ka
 
+![kanashi-kanashi-ka](https://cdn.myanimelist.net/images/manga/2/205020.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

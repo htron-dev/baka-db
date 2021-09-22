@@ -1,5 +1,7 @@
 # Tenchi Muyou! Ryououki 3rd Season
 
+![tenchi-muyou-ryououki-3rd-season](https://cdn.myanimelist.net/images/anime/8/31587.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 天地無用！魎皇鬼 第三期

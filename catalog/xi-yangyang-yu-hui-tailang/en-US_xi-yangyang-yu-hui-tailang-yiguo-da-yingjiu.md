@@ -1,5 +1,7 @@
 # Xi Yangyang Yu Hui Tailang: Yiguo Da Yingjiu
 
+![xi-yangyang-yu-hui-tailang-yiguo-da-yingjiu](https://cdn.myanimelist.net/images/anime/1418/115291.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 60
 -   **original-name**: 喜羊羊與灰太狼之異國大營救

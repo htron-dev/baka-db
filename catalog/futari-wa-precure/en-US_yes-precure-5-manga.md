@@ -1,5 +1,7 @@
 # Yes! Precure 5
 
+![yes-precure-5](https://cdn.myanimelist.net/images/manga/1/42640.jpg)
+
 -   **type**: manga
 -   **chapters**: 13
 -   **original-name**: Yes! プリキュア 5

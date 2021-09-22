@@ -1,5 +1,7 @@
 # Silent Möbius Tales
 
+![silent-mobius-tales](https://cdn.myanimelist.net/images/manga/2/40525.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

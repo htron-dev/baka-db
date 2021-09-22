@@ -1,5 +1,7 @@
 # Kage no Kodomo
 
+![kage-no-kodomo](https://cdn.myanimelist.net/images/anime/11/19128.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 影の子供

@@ -1,5 +1,7 @@
 # Venus Senki
 
+![venus-senki](https://cdn.myanimelist.net/images/manga/3/23865.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 29

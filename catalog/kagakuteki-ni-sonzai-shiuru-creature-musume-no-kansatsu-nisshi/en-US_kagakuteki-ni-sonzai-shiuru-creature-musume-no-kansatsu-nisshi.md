@@ -1,5 +1,7 @@
 # Kagakuteki ni Sonzai shiuru Creature Musume no Kansatsu Nisshi
 
+![kagakuteki-ni-sonzai-shiuru-creature-musume-no-kansatsu-nisshi](https://cdn.myanimelist.net/images/manga/2/203923.jpg)
+
 -   **type**: manga
 -   **original-name**: 科学的に存在しうるクリーチャー娘の観察日誌
 -   **start-date**: 2017-02-07

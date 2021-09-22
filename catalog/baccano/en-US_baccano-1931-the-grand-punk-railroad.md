@@ -1,5 +1,7 @@
 # Baccano! 1931 The Grand Punk Railroad
 
+![baccano-1931-the-grand-punk-railroad](https://cdn.myanimelist.net/images/manga/4/84135.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

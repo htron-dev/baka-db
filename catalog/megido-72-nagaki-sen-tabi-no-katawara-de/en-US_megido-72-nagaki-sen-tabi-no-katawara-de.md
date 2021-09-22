@@ -1,5 +1,7 @@
 # Megido 72: Nagaki Sen Tabi no Katawara de
 
+![megido-72-nagaki-sen-tabi-no-katawara-de](https://cdn.myanimelist.net/images/anime/1519/102415.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: メギド７２ 長き戦旅の傍らで

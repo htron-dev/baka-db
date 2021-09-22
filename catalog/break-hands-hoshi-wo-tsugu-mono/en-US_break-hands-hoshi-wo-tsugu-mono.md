@@ -1,5 +1,7 @@
 # Break Hands: Hoshi wo Tsugu Mono
 
+![break-hands-hoshi-wo-tsugu-mono](https://cdn.myanimelist.net/images/manga/1/101301.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

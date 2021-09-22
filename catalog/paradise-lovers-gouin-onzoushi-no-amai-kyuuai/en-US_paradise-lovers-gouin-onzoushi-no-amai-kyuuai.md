@@ -1,5 +1,7 @@
 # Paradise Lovers: Gouin Onzoushi no Amai Kyuuai
 
+![paradise-lovers-gouin-onzoushi-no-amai-kyuuai](https://cdn.myanimelist.net/images/manga/1/193138.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

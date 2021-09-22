@@ -1,5 +1,7 @@
 # Jihad
 
+![jihad](https://cdn.myanimelist.net/images/manga/2/38970.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ジハード

@@ -1,5 +1,7 @@
 # Nakimushi na Little
 
+![nakimushi-na-little](https://cdn.myanimelist.net/images/manga/2/5526.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

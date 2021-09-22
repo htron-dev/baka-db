@@ -1,5 +1,7 @@
 # Hoshi Mamoru Inu
 
+![hoshi-mamoru-inu](https://cdn.myanimelist.net/images/manga/2/207064.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Thousand to Aegis
 
+![thousand-to-aegis](https://cdn.myanimelist.net/images/manga/1/161065.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 15
 -   **original-name**: 千の魔剣と盾の乙女 〈サウザンドとイージス〉

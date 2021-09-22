@@ -1,5 +1,7 @@
 # Missing: Outaishihi no Misshitsu no Ingi
 
+![missing-outaishihi-no-misshitsu-no-ingi](https://cdn.myanimelist.net/images/manga/1/181364.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

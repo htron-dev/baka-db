@@ -1,5 +1,7 @@
 # Gyakkou no Koro
 
+![gyakkou-no-koro](https://cdn.myanimelist.net/images/manga/3/187080.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 逆光の頃

@@ -1,5 +1,7 @@
 # Dororonpa!
 
+![dororonpa](https://cdn.myanimelist.net/images/anime/9/63501.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 115
 -   **original-name**: どろろんぱっ！

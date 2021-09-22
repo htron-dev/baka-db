@@ -1,5 +1,7 @@
 # Aru Apartment no Isshitsu
 
+![aru-apartment-no-isshitsu](https://cdn.myanimelist.net/images/anime/1091/96049.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: あるアパートの一室

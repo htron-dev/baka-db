@@ -1,5 +1,7 @@
 # Orange Chocolate
 
+![orange-chocolate](https://cdn.myanimelist.net/images/manga/2/25820.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **original-name**: オレンジチョコレート

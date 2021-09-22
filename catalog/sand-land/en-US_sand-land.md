@@ -1,5 +1,7 @@
 # Sand Land
 
+![sand-land](https://cdn.myanimelist.net/images/manga/2/40731.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

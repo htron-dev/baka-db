@@ -1,5 +1,7 @@
 # Get Up! Get Live! #GeraGera Episode 0
 
+![get-up-get-live-gera-gera-episode-0](https://cdn.myanimelist.net/images/anime/1064/108300.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: GET UP! GET LIVE! #ゲラゲラ ０話

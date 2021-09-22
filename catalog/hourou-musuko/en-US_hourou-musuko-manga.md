@@ -1,5 +1,7 @@
 # Hourou Musuko
 
+![hourou-musuko](https://cdn.myanimelist.net/images/manga/1/208988.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 123

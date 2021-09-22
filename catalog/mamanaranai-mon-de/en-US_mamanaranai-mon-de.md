@@ -1,5 +1,7 @@
 # Mamanaranai Mon de
 
+![mamanaranai-mon-de](https://cdn.myanimelist.net/images/manga/3/203869.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Chocolate Vampire
 
+![chocolate-vampire](https://cdn.myanimelist.net/images/manga/3/190329.jpg)
+
 -   **type**: manga
 -   **original-name**: チョコレート・ヴァンパイア
 -   **start-date**: 2016-09-05

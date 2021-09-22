@@ -1,5 +1,7 @@
 # Hata Kenjiro Shoki Sakuhinshuu: Hayate no Gotoku! no Mae
 
+![hata-kenjiro-shoki-sakuhinshuu-hayate-no-gotoku-no-mae](https://cdn.myanimelist.net/images/manga/1/89675.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Kore ga Koi na Wake ga Nai
 
+![kore-ga-koi-na-wake-ga-nai](https://cdn.myanimelist.net/images/manga/1/226575.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

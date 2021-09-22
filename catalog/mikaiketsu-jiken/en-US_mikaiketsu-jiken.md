@@ -1,5 +1,7 @@
 # Mikaiketsu Jiken
 
+![mikaiketsu-jiken](https://cdn.myanimelist.net/images/manga/2/103047.jpg)
+
 -   **type**: manga
 -   **original-name**: 未解決事件
 -   **start-date**: 2012-03-21

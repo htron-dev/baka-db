@@ -1,5 +1,7 @@
 # Hatsukare x Hatsu Kano
 
+![hatsukare-x-hatsu-kano](https://cdn.myanimelist.net/images/manga/3/34955.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

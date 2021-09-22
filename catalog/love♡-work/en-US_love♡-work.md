@@ -1,5 +1,7 @@
 # Love♡Work
 
+![love♡-work](https://cdn.myanimelist.net/images/manga/1/35488.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: らぶ ♡ わ～く

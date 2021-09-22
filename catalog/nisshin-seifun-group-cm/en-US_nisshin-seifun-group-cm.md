@@ -1,5 +1,7 @@
 # Nisshin Seifun Group CM
 
+![nisshin-seifun-group-cm](https://cdn.myanimelist.net/images/anime/11/81240.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 日清製粉グループ CM

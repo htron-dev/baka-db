@@ -1,5 +1,7 @@
 # IDOLiSH7: Third Beat!
 
+![ido-li-sh-7-third-beat](https://cdn.myanimelist.net/images/anime/1646/115723.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: アイドリッシュセブン Third BEAT!
 -   **start-date**: 2021-07-04

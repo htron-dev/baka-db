@@ -1,5 +1,7 @@
 # Ore wo Suki nano wa Omae dake ka yo
 
+![ore-wo-suki-nano-wa-omae-dake-ka-yo](https://cdn.myanimelist.net/images/manga/3/198875.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 44

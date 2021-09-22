@@ -1,5 +1,7 @@
 # Oretachi wa Shinkon-san kamo Shirenai
 
+![oretachi-wa-shinkon-san-kamo-shirenai](https://cdn.myanimelist.net/images/manga/2/238330.jpg)
+
 -   **type**: manga
 -   **original-name**: 俺達は新婚さんかもしれない
 -   **start-date**: 2018-02-28

@@ -1,5 +1,7 @@
 # Trigun: Multiple Bullets
 
+![trigun-multiple-bullets](https://cdn.myanimelist.net/images/manga/5/86599.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

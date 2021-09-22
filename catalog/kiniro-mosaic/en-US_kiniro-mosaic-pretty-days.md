@@ -1,5 +1,7 @@
 # Kiniro Mosaic: Pretty Days
 
+![kiniro-mosaic-pretty-days](https://cdn.myanimelist.net/images/anime/11/81607.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: きんいろモザイク Pretty Days

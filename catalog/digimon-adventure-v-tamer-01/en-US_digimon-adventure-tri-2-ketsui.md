@@ -1,5 +1,7 @@
 # Digimon Adventure tri. 2: Ketsui
 
+![digimon-adventure-tri-2-ketsui](https://cdn.myanimelist.net/images/anime/2/77425.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: デジモンアドベンチャー tri.（トライ）第２章「決意」

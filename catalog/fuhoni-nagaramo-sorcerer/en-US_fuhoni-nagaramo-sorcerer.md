@@ -1,5 +1,7 @@
 # Fuhoni Nagaramo Sorcerer
 
+![fuhoni-nagaramo-sorcerer](https://cdn.myanimelist.net/images/manga/1/164131.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 不本意ながらも魔法使い〈ソーサラー〉

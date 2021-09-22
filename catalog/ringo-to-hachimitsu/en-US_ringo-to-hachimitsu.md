@@ -1,5 +1,7 @@
 # Ringo to Hachimitsu
 
+![ringo-to-hachimitsu](https://cdn.myanimelist.net/images/manga/3/177105.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **original-name**: 林檎と蜂蜜

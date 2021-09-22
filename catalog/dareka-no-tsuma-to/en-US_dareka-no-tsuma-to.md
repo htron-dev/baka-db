@@ -1,5 +1,7 @@
 # Dareka no Tsuma to
 
+![dareka-no-tsuma-to](https://cdn.myanimelist.net/images/manga/3/202229.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

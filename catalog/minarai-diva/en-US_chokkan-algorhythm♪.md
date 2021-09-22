@@ -1,5 +1,7 @@
 # Chokkan × Algorhythm♪
 
+![chokkan-algorhythm♪](https://cdn.myanimelist.net/images/anime/1761/95629.jpg)
+
 -   **type**: ona
 -   **episodes**: 8
 -   **original-name**: 直感 × アルゴリズム ♪

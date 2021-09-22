@@ -1,5 +1,7 @@
 # Shiritsu Shirobara Gakuen no Himitsu
 
+![shiritsu-shirobara-gakuen-no-himitsu](https://cdn.myanimelist.net/images/manga/2/63949.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 私立白薔薇学園の秘密

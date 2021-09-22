@@ -1,5 +1,7 @@
 # Seitoubatsutai Rei &amp; Saki C-R-O-S-S
 
+![seitoubatsutai-rei-amp-saki-c-r-o-s-s](https://cdn.myanimelist.net/images/manga/3/34557.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 聖討伐隊レイ&サキ　Ｃ－Ｒ－Ｏ－Ｓ－Ｓ

@@ -1,5 +1,7 @@
 # Messiah: Code Edge
 
+![messiah-code-edge](https://cdn.myanimelist.net/images/manga/3/208523.jpg)
+
 -   **type**: manga
 -   **original-name**: メサイア －CODE EDGE－
 -   **start-date**: 2017-12-16

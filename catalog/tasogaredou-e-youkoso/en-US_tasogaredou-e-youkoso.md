@@ -1,5 +1,7 @@
 # Tasogaredou E Youkoso
 
+![tasogaredou-e-youkoso](https://cdn.myanimelist.net/images/manga/2/20841.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 41

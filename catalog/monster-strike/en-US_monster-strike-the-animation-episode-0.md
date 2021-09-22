@@ -1,5 +1,7 @@
 # Monster Strike The Animation Episode 0
 
+![monster-strike-the-animation-episode-0](https://cdn.myanimelist.net/images/anime/1014/93215.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: モンスターストライク The Animation
@@ -25,4 +27,4 @@ It is animated in full CG unlike its predecessor.
 -   [My Anime list](https://myanimelist.net/anime/38024/Monster_Strike_The_Animation_Episode_0)
 -   [Official Site](http://anime.monster-strike.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14183)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Monster_Strike_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Monster_Strike_%28anime%29)

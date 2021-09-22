@@ -1,5 +1,7 @@
 # Otoko ni naru toki
 
+![otoko-ni-naru-toki](https://cdn.myanimelist.net/images/manga/1/22411.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Natsu wo Oboeru
 
+![natsu-wo-oboeru](https://cdn.myanimelist.net/images/manga/1/62375.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: 夏をおぼえる

@@ -1,5 +1,7 @@
 # Youkai Hunter: Yami no Kyakujin
 
+![youkai-hunter-yami-no-kyakujin](https://cdn.myanimelist.net/images/manga/1/80451.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 妖怪 HUNTER~闇の客人~

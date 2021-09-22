@@ -1,5 +1,7 @@
 # The Snack World (TV)
 
+![the-snack-world-tv](https://cdn.myanimelist.net/images/anime/3/83341.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: スナックワールド (TV)
@@ -12,7 +14,6 @@
 
 -   adventure
 -   comedy
-
 -   fantasy
 
 ## Sinopse

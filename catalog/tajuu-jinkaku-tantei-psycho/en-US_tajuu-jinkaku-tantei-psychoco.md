@@ -1,5 +1,7 @@
 # Tajuu Jinkaku Tantei Psychoco
 
+![tajuu-jinkaku-tantei-psychoco](https://cdn.myanimelist.net/images/manga/2/25803.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 多重人格探偵サイチョコ

@@ -1,5 +1,7 @@
 # Sora ni Kaketa Melody
 
+![sora-ni-kaketa-melody](https://cdn.myanimelist.net/images/manga/2/163476.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 空に欠けた旋律〈メロディ〉

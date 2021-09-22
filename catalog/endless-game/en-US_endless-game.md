@@ -1,5 +1,7 @@
 # Endless Game
 
+![endless-game](https://cdn.myanimelist.net/images/manga/1/189916.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

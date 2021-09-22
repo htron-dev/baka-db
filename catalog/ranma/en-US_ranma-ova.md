@@ -1,5 +1,7 @@
 # Ranma ½ OVA
 
+![ranma-ova](https://cdn.myanimelist.net/images/anime/12/63459.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: らんま 1/2 OVA

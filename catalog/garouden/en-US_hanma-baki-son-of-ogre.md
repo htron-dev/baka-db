@@ -1,5 +1,7 @@
 # Hanma Baki: Son of Ogre
 
+![hanma-baki-son-of-ogre](https://cdn.myanimelist.net/images/anime/1072/116472.jpg)
+
 -   **type**: ona
 -   **original-name**: 範馬刃牙 SON OF OGRE
 -   **start-date**: 2021-01-20

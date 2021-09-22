@@ -1,5 +1,7 @@
 # Tresor: Boku no Takaramono
 
+![tresor-boku-no-takaramono](https://cdn.myanimelist.net/images/manga/2/245693.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

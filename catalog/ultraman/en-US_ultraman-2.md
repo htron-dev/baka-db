@@ -1,5 +1,7 @@
 # Ultraman 2
 
+![ultraman-2](https://cdn.myanimelist.net/images/anime/1680/101395.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: ULTRAMAN 2
@@ -21,4 +23,4 @@ Second season of Ultraman.
 -   [My Anime list](https://myanimelist.net/anime/39935/Ultraman_2)
 -   [Official Site](https://anime.heros-ultraman.com)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14948)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Ultraman_(manga)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Ultraman_%28manga%29)

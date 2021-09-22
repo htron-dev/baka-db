@@ -1,5 +1,7 @@
 # .hack//Sora: Sekai no Mukou ni
 
+![hack-sora-sekai-no-mukou-ni](https://cdn.myanimelist.net/images/manga/3/99611.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

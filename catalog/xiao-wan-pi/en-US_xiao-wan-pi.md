@@ -1,5 +1,7 @@
 # Xiao Wan Pi
 
+![xiao-wan-pi](https://cdn.myanimelist.net/images/anime/1996/115506.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 小玩皮

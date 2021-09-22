@@ -1,5 +1,7 @@
 # Succubus &amp; Hitman
 
+![succubus-amp-hitman](https://cdn.myanimelist.net/images/manga/2/236131.jpg)
+
 -   **type**: manga
 -   **original-name**: サキュバス&ヒットマン
 -   **start-date**: 2020-02-19

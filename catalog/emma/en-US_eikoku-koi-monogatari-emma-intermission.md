@@ -1,5 +1,7 @@
 # Eikoku Koi Monogatari Emma: Intermission
 
+![eikoku-koi-monogatari-emma-intermission](https://cdn.myanimelist.net/images/anime/8/3091.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 英國戀物語エマ

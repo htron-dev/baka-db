@@ -1,5 +1,7 @@
 # Papa Kinsei First Love
 
+![papa-kinsei-first-love](https://cdn.myanimelist.net/images/manga/3/166012.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Date A Bullet: Nightmare or Queen
 
+![date-a-bullet-nightmare-or-queen](https://cdn.myanimelist.net/images/anime/1002/108424.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: デート・ア・バレット ナイトメア・オア・クイーン

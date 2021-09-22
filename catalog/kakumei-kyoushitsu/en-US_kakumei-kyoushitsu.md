@@ -1,5 +1,7 @@
 # Kakumei Kyoushitsu
 
+![kakumei-kyoushitsu](https://cdn.myanimelist.net/images/manga/2/164278.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

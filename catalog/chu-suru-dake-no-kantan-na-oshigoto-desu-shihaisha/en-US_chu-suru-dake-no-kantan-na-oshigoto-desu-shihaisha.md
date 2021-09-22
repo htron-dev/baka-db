@@ -1,5 +1,7 @@
 # Chu Suru dake no Kantan na Oshigoto desu [Shihaisha]
 
+![chu-suru-dake-no-kantan-na-oshigoto-desu-shihaisha](https://cdn.myanimelist.net/images/manga/1/164033.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 18

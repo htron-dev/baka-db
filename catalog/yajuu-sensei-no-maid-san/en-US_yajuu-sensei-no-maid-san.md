@@ -1,5 +1,7 @@
 # Yajuu-sensei no Maid-san
 
+![yajuu-sensei-no-maid-san](https://cdn.myanimelist.net/images/manga/1/180080.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 24

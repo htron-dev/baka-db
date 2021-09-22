@@ -1,5 +1,7 @@
 # Goshimei! Host Kyoushi J
 
+![goshimei-host-kyoushi-j](https://cdn.myanimelist.net/images/manga/3/39357.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 男公关教师 J

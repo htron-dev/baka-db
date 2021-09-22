@@ -1,5 +1,7 @@
 # Onigari no Mori de
 
+![onigari-no-mori-de](https://cdn.myanimelist.net/images/manga/1/141989.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

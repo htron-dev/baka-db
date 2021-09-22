@@ -1,5 +1,7 @@
 # Marichen Chronicle
 
+![marichen-chronicle](https://cdn.myanimelist.net/images/manga/2/31053.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 9

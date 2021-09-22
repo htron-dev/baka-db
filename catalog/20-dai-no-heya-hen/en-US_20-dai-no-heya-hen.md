@@ -1,5 +1,7 @@
 # 20-dai no Heya-hen
 
+![20-dai-no-heya-hen](https://cdn.myanimelist.net/images/anime/3/81169.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: マイナビ賃貸 20 代の部屋編

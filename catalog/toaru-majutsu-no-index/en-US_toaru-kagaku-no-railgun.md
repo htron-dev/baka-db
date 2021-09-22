@@ -1,5 +1,7 @@
 # Toaru Kagaku no Railgun
 
+![toaru-kagaku-no-railgun](https://cdn.myanimelist.net/images/anime/8/53581.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: とある科学の超電磁砲

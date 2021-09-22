@@ -1,5 +1,7 @@
 # Yumemiru Taiyou
 
+![yumemiru-taiyou](https://cdn.myanimelist.net/images/manga/1/170585.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 53

@@ -1,5 +1,7 @@
 # Buyuden
 
+![buyuden](https://cdn.myanimelist.net/images/manga/5/59033.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 134

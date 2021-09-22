@@ -1,5 +1,7 @@
 # Uchi no Maid ga Uzasugiru
 
+![uchi-no-maid-ga-uzasugiru](https://cdn.myanimelist.net/images/manga/3/203219.jpg)
+
 -   **type**: manga
 -   **original-name**: うちのメイドがウザすぎる
 -   **start-date**: 2013-11-30

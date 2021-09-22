@@ -1,5 +1,7 @@
 # Girl Hunt
 
+![girl-hunt](https://cdn.myanimelist.net/images/manga/2/85229.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

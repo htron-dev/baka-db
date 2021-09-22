@@ -1,5 +1,7 @@
 # Kyou kara Maou! R
 
+![kyou-kara-maou-r](https://cdn.myanimelist.net/images/anime/7/22619.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: 今日からマ王！R

@@ -1,5 +1,7 @@
 # Sentrein Senki
 
+![sentrein-senki](https://cdn.myanimelist.net/images/manga/1/177588.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 11

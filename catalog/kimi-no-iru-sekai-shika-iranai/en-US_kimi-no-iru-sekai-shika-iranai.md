@@ -1,5 +1,7 @@
 # Kimi no Iru Sekai shika Iranai
 
+![kimi-no-iru-sekai-shika-iranai](https://cdn.myanimelist.net/images/manga/3/42678.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

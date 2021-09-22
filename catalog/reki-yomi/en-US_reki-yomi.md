@@ -1,5 +1,7 @@
 # Reki Yomi
 
+![reki-yomi](https://cdn.myanimelist.net/images/manga/1/221010.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

@@ -1,5 +1,7 @@
 # Kenkoku no Jungfrau
 
+![kenkoku-no-jungfrau](https://cdn.myanimelist.net/images/manga/1/118749.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **original-name**: 剣刻の銀乙女〈ユングフラウ〉

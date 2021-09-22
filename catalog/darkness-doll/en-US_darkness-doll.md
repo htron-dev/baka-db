@@ -1,5 +1,7 @@
 # Darkness Doll
 
+![darkness-doll](https://cdn.myanimelist.net/images/manga/2/90025.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ダークネス・ドール

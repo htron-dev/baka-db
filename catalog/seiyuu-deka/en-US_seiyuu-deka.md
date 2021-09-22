@@ -1,5 +1,7 @@
 # Seiyuu Deka
 
+![seiyuu-deka](https://cdn.myanimelist.net/images/anime/3/47957.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 声優刑事

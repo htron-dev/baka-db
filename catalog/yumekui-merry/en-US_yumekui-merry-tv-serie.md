@@ -1,5 +1,7 @@
 # Yumekui Merry
 
+![yumekui-merry](https://cdn.myanimelist.net/images/anime/3/30869.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 夢喰いメリー

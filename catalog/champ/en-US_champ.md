@@ -1,5 +1,7 @@
 # Champ
 
+![champ](https://cdn.myanimelist.net/images/manga/5/141251.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: チャンプ

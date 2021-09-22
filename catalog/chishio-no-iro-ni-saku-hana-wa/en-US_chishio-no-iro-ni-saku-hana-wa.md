@@ -1,5 +1,7 @@
 # Chishio no Iro ni Saku Hana wa
 
+![chishio-no-iro-ni-saku-hana-wa](https://cdn.myanimelist.net/images/manga/1/160010.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 11

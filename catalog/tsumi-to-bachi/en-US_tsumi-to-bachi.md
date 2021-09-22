@@ -1,5 +1,7 @@
 # Tsumi to Bachi
 
+![tsumi-to-bachi](https://cdn.myanimelist.net/images/manga/2/21898.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

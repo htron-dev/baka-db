@@ -1,5 +1,7 @@
 # Shingeki no Bahamut: Mystalsia Saga
 
+![shingeki-no-bahamut-mystalsia-saga](https://cdn.myanimelist.net/images/manga/2/201201.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 65

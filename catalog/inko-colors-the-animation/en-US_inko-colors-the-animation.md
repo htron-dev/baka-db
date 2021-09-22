@@ -1,5 +1,7 @@
 # Inko Colors the Animation
 
+![inko-colors-the-animation](https://cdn.myanimelist.net/images/anime/1364/95655.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: インコカラーズ The animation

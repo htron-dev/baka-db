@@ -1,5 +1,7 @@
 # Haru Ranman!
 
+![haru-ranman](https://cdn.myanimelist.net/images/manga/3/24668.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

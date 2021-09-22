@@ -1,5 +1,7 @@
 # Ze Tian Ji 3rd Season
 
+![ze-tian-ji-3rd-season](https://cdn.myanimelist.net/images/anime/1724/90239.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 择天记 第三季

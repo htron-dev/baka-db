@@ -1,5 +1,7 @@
 # Sennen Kitsune: Kan Pou "Soujinki" yori
 
+![sennen-kitsune-kan-pou-soujinki-yori](https://cdn.myanimelist.net/images/manga/3/236199.jpg)
+
 -   **type**: manga
 -   **original-name**: 千年狐 〜干宝「捜神記」より〜
 -   **start-date**: 2018-04-05

@@ -1,5 +1,7 @@
 # Sora wo Tobu, Mittsu no Houhou.
 
+![sora-wo-tobu-mittsu-no-houhou](https://cdn.myanimelist.net/images/manga/3/196955.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 空を飛ぶ、3 つの方法。

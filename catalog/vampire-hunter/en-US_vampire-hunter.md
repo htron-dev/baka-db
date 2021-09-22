@@ -1,5 +1,7 @@
 # Vampire Hunter
 
+![vampire-hunter](https://cdn.myanimelist.net/images/anime/2/7358.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: ヴァンパイアハンター

@@ -1,5 +1,7 @@
 # Mission-E
 
+![mission-e](https://cdn.myanimelist.net/images/anime/1605/106039.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: MISSION-E

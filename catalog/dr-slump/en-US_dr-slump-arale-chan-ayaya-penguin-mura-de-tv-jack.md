@@ -1,5 +1,7 @@
 # Dr. Slump: Arale-chan Ayaya!? Penguin Mura de TV Jack
 
+![dr-slump-arale-chan-ayaya-penguin-mura-de-tv-jack](https://cdn.myanimelist.net/images/anime/10/72862.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Dr.スランプアラレちゃん あやや!?ペンギン村でテレビジャック

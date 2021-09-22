@@ -1,5 +1,7 @@
 # K-On!: Live House!
 
+![k-on-live-house](https://cdn.myanimelist.net/images/anime/9/15892.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: けいおん! ライブハウス!

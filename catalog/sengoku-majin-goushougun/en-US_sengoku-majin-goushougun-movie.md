@@ -1,5 +1,7 @@
 # Sengoku Majin Goushougun (Movie)
 
+![sengoku-majin-goushougun-movie](https://cdn.myanimelist.net/images/anime/12/82706.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 戦国魔神ゴーショーグン

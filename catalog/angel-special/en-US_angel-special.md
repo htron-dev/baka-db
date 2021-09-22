@@ -1,5 +1,7 @@
 # Angel (Special)
 
+![angel-special](https://cdn.myanimelist.net/images/anime/11/65735.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Angel

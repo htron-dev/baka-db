@@ -1,5 +1,7 @@
 # Ramen no Tori Paco-chan
 
+![ramen-no-tori-paco-chan](https://cdn.myanimelist.net/images/manga/2/21083.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ラーメンの鳥パコちゃん

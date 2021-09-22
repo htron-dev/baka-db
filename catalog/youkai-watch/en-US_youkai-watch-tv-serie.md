@@ -1,5 +1,7 @@
 # Youkai Watch
 
+![youkai-watch](https://cdn.myanimelist.net/images/anime/6/58137.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 214
 -   **original-name**: 妖怪ウォッチ
@@ -13,7 +15,6 @@
 
 -   comedy
 -   demons
-
 -   supernatural
 
 ## Sinopse

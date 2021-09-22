@@ -1,5 +1,7 @@
 # Tanbai Haru, Tookaraji
 
+![tanbai-haru-tookaraji](https://cdn.myanimelist.net/images/anime/13/65969.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 探梅　春、遠からじ

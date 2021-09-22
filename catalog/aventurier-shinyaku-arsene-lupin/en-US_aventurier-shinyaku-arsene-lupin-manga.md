@@ -1,5 +1,7 @@
 # Aventurier: Shinyaku Arsène Lupin
 
+![aventurier-shinyaku-arsene-lupin](https://cdn.myanimelist.net/images/manga/1/67773.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 41

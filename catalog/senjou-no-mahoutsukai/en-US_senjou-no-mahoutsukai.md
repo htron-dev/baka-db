@@ -1,5 +1,7 @@
 # Senjou no Mahoutsukai
 
+![senjou-no-mahoutsukai](https://cdn.myanimelist.net/images/manga/1/161666.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 26

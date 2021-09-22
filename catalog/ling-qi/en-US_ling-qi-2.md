@@ -1,5 +1,7 @@
 # Ling Qi 2
 
+![ling-qi-2](https://cdn.myanimelist.net/images/anime/1328/90485.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 灵契 2

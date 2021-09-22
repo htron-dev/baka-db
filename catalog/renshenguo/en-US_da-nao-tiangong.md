@@ -1,5 +1,7 @@
 # Da Nao Tiangong
 
+![da-nao-tiangong](https://cdn.myanimelist.net/images/anime/11/15868.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 大鬧天宮

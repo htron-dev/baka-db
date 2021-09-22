@@ -1,5 +1,7 @@
 # Jikai no Death Game ni Gokitai Kudasai!!
 
+![jikai-no-death-game-ni-gokitai-kudasai](https://cdn.myanimelist.net/images/manga/1/233764.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 30

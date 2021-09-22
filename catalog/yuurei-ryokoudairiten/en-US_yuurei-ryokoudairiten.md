@@ -1,5 +1,7 @@
 # Yuurei Ryokoudairiten
 
+![yuurei-ryokoudairiten](https://cdn.myanimelist.net/images/manga/1/14572.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

@@ -1,5 +1,7 @@
 # Kinpatsu no Sougen
 
+![kinpatsu-no-sougen](https://cdn.myanimelist.net/images/manga/1/18452.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 金髪の草原

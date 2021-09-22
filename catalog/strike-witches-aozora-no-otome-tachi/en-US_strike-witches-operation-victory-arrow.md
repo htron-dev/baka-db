@@ -1,5 +1,7 @@
 # Strike Witches: Operation Victory Arrow
 
+![strike-witches-operation-victory-arrow](https://cdn.myanimelist.net/images/anime/12/67859.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ストライクウィッチーズ Operation Victory Arrow

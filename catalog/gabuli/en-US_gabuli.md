@@ -1,5 +1,7 @@
 # Gabuli
 
+![gabuli](https://cdn.myanimelist.net/images/anime/1499/116618.jpg)
+
 -   **type**: ona
 -   **original-name**: GABULI(ガブリ)
 -   **start-date**: 2021-07-15

@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam: Tekketsu no Orphans - Gekkou
 
+![kidou-senshi-gundam-tekketsu-no-orphans-gekkou](https://cdn.myanimelist.net/images/manga/2/185051.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

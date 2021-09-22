@@ -1,5 +1,7 @@
 # Choucho ni Naru.
 
+![choucho-ni-naru](https://cdn.myanimelist.net/images/manga/1/95451.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ちょうちょになる。

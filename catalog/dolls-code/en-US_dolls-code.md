@@ -1,5 +1,7 @@
 # Dolls Code
 
+![dolls-code](https://cdn.myanimelist.net/images/manga/2/134995.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

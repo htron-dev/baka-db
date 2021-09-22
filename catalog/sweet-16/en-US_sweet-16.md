@@ -1,5 +1,7 @@
 # Sweet 16
 
+![sweet-16](https://cdn.myanimelist.net/images/manga/1/183126.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

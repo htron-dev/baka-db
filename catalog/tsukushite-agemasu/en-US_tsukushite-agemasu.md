@@ -1,5 +1,7 @@
 # Tsukushite Agemasu
 
+![tsukushite-agemasu](https://cdn.myanimelist.net/images/manga/3/29771.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Wu Geng Ji
 
+![wu-geng-ji](https://cdn.myanimelist.net/images/anime/10/81426.jpg)
+
 -   **type**: ona
 -   **episodes**: 30
 -   **original-name**: 武庚纪

@@ -1,5 +1,7 @@
 # Kodoku no Kane ga Naru
 
+![kodoku-no-kane-ga-naru](https://cdn.myanimelist.net/images/manga/2/21063.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

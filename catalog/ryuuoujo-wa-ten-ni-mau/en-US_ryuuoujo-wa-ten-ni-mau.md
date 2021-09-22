@@ -1,5 +1,7 @@
 # Ryuuoujo wa Ten ni Mau
 
+![ryuuoujo-wa-ten-ni-mau](https://cdn.myanimelist.net/images/manga/2/162975.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 31

@@ -1,5 +1,7 @@
 # Yorozu Uranaidokoro: Onmyouya e Yokoso
 
+![yorozu-uranaidokoro-onmyouya-e-yokoso](https://cdn.myanimelist.net/images/manga/3/110677.jpg)
+
 -   **type**: manga
 -   **original-name**: よろず占い処 陰陽屋へようこそ
 -   **start-date**: 2013-11-01

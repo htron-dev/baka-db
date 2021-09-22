@@ -1,5 +1,7 @@
 # Mikakunin Mirai Shoujo
 
+![mikakunin-mirai-shoujo](https://cdn.myanimelist.net/images/manga/3/171894.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Arcana - Zoku ・ Kaitou
 
+![arcana-zoku-・-kaitou](https://cdn.myanimelist.net/images/manga/3/37653.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Dennou Sentai Voogie's★Angel
 
+![dennou-sentai-voogies★-angel](https://cdn.myanimelist.net/images/anime/8/75160.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 電脳戦隊ヴギィ'ズ ★ エンジェル

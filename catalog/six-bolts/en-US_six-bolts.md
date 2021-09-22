@@ -1,5 +1,7 @@
 # Six Bolts
 
+![six-bolts](https://cdn.myanimelist.net/images/manga/3/114183.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: シックス・ボルト

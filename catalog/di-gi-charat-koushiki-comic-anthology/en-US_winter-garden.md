@@ -1,5 +1,7 @@
 # Winter Garden
 
+![winter-garden](https://cdn.myanimelist.net/images/anime/1/1718.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ウィンターガーデン

@@ -1,5 +1,7 @@
 # Kaizou Hero Reapers
 
+![kaizou-hero-reapers](https://cdn.myanimelist.net/images/manga/2/219727.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

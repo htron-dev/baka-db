@@ -1,5 +1,7 @@
 # Phantom
 
+![phantom](https://cdn.myanimelist.net/images/manga/1/144017.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **original-name**: 팬텀

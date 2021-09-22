@@ -1,5 +1,7 @@
 # Ayashikotogatari
 
+![ayashikotogatari](https://cdn.myanimelist.net/images/manga/3/211542.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

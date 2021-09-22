@@ -1,5 +1,7 @@
 # 14R
 
+![14-r](https://cdn.myanimelist.net/images/manga/3/110813.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

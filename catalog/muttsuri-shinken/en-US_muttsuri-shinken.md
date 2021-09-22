@@ -1,5 +1,7 @@
 # Muttsuri Shinken
 
+![muttsuri-shinken](https://cdn.myanimelist.net/images/manga/1/194229.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

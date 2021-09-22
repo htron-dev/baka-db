@@ -1,5 +1,7 @@
 # Shishunki Blood Monster
 
+![shishunki-blood-monster](https://cdn.myanimelist.net/images/manga/1/228754.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

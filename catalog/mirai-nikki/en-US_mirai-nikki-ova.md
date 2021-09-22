@@ -1,5 +1,7 @@
 # Mirai Nikki
 
+![mirai-nikki](https://cdn.myanimelist.net/images/anime/10/22971.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 未来日記

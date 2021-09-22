@@ -1,5 +1,7 @@
 # Kimi to Natsu no Naka
 
+![kimi-to-natsu-no-naka](https://cdn.myanimelist.net/images/manga/3/224575.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Roboteuwang Sseonsyakeu
 
+![roboteuwang-sseonsyakeu](https://cdn.myanimelist.net/images/anime/12/49135.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 로보트왕 썬샤크

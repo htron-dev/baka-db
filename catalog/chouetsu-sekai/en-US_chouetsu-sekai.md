@@ -1,5 +1,7 @@
 # Chouetsu Sekai
 
+![chouetsu-sekai](https://cdn.myanimelist.net/images/anime/1392/93503.jpg)
+
 -   **type**: ova
 -   **episodes**: 10
 -   **original-name**: 超越世界

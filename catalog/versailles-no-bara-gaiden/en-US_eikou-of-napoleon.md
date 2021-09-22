@@ -1,5 +1,7 @@
 # Eikou of Napoleon
 
+![eikou-of-napoleon](https://cdn.myanimelist.net/images/manga/1/17865.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **original-name**: 栄光のナポレオン - エロイカ

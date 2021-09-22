@@ -1,5 +1,7 @@
 # Keitai Shoujo: Triangle Spirits
 
+![keitai-shoujo-triangle-spirits](https://cdn.myanimelist.net/images/manga/1/175948.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

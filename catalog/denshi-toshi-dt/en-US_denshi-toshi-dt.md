@@ -1,5 +1,7 @@
 # Denshi Toshi DT
 
+![denshi-toshi-dt](https://cdn.myanimelist.net/images/manga/2/162407.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 20

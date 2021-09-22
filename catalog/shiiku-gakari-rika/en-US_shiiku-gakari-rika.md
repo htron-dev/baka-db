@@ -1,5 +1,7 @@
 # Shiiku Gakari Rika
 
+![shiiku-gakari-rika](https://cdn.myanimelist.net/images/manga/4/30203.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

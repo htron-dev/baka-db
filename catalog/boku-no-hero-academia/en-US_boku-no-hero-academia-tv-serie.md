@@ -1,5 +1,7 @@
 # Boku no Hero Academia
 
+![boku-no-hero-academia](https://cdn.myanimelist.net/images/anime/10/78745.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 僕のヒーローアカデミア

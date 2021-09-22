@@ -1,5 +1,7 @@
 # Jiaoao de Jiangjun
 
+![jiaoao-de-jiangjun](https://cdn.myanimelist.net/images/anime/9/71271.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 骄傲的将军

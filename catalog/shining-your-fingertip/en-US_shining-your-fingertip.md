@@ -1,5 +1,7 @@
 # Shining @ Your Fingertip
 
+![shining-your-fingertip](https://cdn.myanimelist.net/images/manga/3/34362.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 손끝에서 빛나다
 

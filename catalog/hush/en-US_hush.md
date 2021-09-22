@@ -1,5 +1,7 @@
 # Hush
 
+![hush](https://cdn.myanimelist.net/images/manga/3/3194.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 

@@ -1,5 +1,7 @@
 # 3-gatsu no Yume
 
+![3-gatsu-no-yume](https://cdn.myanimelist.net/images/manga/3/9245.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Maken-Ki! Two
 
+![maken-ki-two](https://cdn.myanimelist.net/images/anime/10/58191.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: マケン姫っ！通

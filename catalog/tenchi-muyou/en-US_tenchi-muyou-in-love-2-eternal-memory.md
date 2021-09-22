@@ -1,5 +1,7 @@
 # Tenchi Muyou! in Love 2: Eternal Memory
 
+![tenchi-muyou-in-love-2-eternal-memory](https://cdn.myanimelist.net/images/manga/2/40763.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

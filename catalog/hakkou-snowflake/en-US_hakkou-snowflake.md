@@ -1,5 +1,7 @@
 # Hakkou Snowflake
 
+![hakkou-snowflake](https://cdn.myanimelist.net/images/manga/1/149786.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

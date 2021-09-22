@@ -1,5 +1,7 @@
 # Concrete Revolutio: Choujin Gensou - The Last Song
 
+![concrete-revolutio-choujin-gensou-the-last-song](https://cdn.myanimelist.net/images/anime/4/80050.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: コンクリート・レボルティオ～超人幻想～ THE LAST SONG

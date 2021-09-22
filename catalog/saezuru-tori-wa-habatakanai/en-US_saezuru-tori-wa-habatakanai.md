@@ -1,5 +1,7 @@
 # Saezuru Tori wa Habatakanai
 
+![saezuru-tori-wa-habatakanai](https://cdn.myanimelist.net/images/manga/3/83655.jpg)
+
 -   **type**: manga
 -   **original-name**: 囀る鳥は羽ばたかない
 -   **start-date**: 2008-03-31

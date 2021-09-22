@@ -1,5 +1,7 @@
 # Bal Jak
 
+![bal-jak](https://cdn.myanimelist.net/images/manga/3/14493.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 12
 -   **chapters**: 85

@@ -1,5 +1,7 @@
 # Sensei, Shimekiri made Matte!
 
+![sensei-shimekiri-made-matte](https://cdn.myanimelist.net/images/manga/1/204790.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

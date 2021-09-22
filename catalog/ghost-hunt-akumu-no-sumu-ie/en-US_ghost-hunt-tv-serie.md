@@ -1,5 +1,7 @@
 # Ghost Hunt
 
+![ghost-hunt](https://cdn.myanimelist.net/images/anime/11/73908.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ゴーストハント
@@ -33,4 +35,4 @@ Kazuya forcefully hires Mai in order to pay for the camera and replace his injur
 -   [Official Site](http://www.ghosthunt.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4564)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6817)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Ghost_Hunt_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Ghost_Hunt_%28anime%29)

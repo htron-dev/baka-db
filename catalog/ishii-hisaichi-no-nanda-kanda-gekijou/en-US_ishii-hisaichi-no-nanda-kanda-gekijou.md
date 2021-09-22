@@ -1,5 +1,7 @@
 # Ishii Hisaichi no Nanda Kanda Gekijou
 
+![ishii-hisaichi-no-nanda-kanda-gekijou](https://cdn.myanimelist.net/images/anime/8/67883.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: いしいひさいちのナンダカンダ劇場
@@ -24,4 +26,4 @@ The Underground People desire to leave their overcrowded cavern and seize contro
 
 -   [My Anime list](https://myanimelist.net/anime/28021/Ishii_Hisaichi_no_Nanda_Kanda_Gekijou)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8100)
--   [Wikipedia](<http://ja.wikipedia.org/wiki/%E5%9C%B0%E5%BA%95%E4%BA%BA_(%E6%BC%AB%E7%94%BB)#OVA.E7.89.88>)
+-   [Wikipedia](http://ja.wikipedia.org/wiki/%E5%9C%B0%E5%BA%95%E4%BA%BA_%28%E6%BC%AB%E7%94%BB%29#OVA.E7.89.88)

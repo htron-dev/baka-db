@@ -1,5 +1,7 @@
 # Ryakudatsusha: Nessa no Ouji to Mikohime
 
+![ryakudatsusha-nessa-no-ouji-to-mikohime](https://cdn.myanimelist.net/images/manga/2/181991.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Jin
 
+![jin](https://cdn.myanimelist.net/images/manga/3/159859.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 137

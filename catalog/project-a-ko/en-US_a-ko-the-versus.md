@@ -1,5 +1,7 @@
 # A-Ko The Versus
 
+![a-ko-the-versus](https://cdn.myanimelist.net/images/anime/2/41427.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: A-Ko The VS [ヴァーサス]

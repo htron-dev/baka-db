@@ -1,5 +1,7 @@
 # Eroman: Kami to Pen to Sex to!!
 
+![eroman-kami-to-pen-to-sex-to](https://cdn.myanimelist.net/images/manga/2/97689.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

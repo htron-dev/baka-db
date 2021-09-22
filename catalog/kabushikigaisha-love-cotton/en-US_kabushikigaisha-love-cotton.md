@@ -1,5 +1,7 @@
 # Kabushikigaisha Love Cotton
 
+![kabushikigaisha-love-cotton](https://cdn.myanimelist.net/images/manga/3/22691.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # Aru Hi Bijin ni Nattara
 
+![aru-hi-bijin-ni-nattara](https://cdn.myanimelist.net/images/manga/4/17922.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ある日美人になったら

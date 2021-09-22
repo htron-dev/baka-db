@@ -1,5 +1,7 @@
 # Hanikami wo Toke
 
+![hanikami-wo-toke](https://cdn.myanimelist.net/images/manga/3/226003.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

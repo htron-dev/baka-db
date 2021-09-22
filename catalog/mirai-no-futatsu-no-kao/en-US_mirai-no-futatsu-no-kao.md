@@ -1,5 +1,7 @@
 # Mirai no Futatsu no Kao
 
+![mirai-no-futatsu-no-kao](https://cdn.myanimelist.net/images/manga/1/20670.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 25

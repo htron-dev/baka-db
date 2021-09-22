@@ -1,5 +1,7 @@
 # Heppoko Jikken Animation Excel♥Saga
 
+![heppoko-jikken-animation-excel♥-saga](https://cdn.myanimelist.net/images/anime/1728/97423.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: へっぽこ実験アニメーション エクセル ♥ サーガ

@@ -1,5 +1,7 @@
 # Renai Mangaka
 
+![renai-mangaka](https://cdn.myanimelist.net/images/manga/1/181537.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 50

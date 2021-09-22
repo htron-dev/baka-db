@@ -1,5 +1,7 @@
 # Landlock
 
+![landlock](https://cdn.myanimelist.net/images/anime/13/16588.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ランドロック

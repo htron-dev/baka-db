@@ -1,5 +1,7 @@
 # Sasami-san@Ganbaranai
 
+![sasami-san-ganbaranai](https://cdn.myanimelist.net/images/manga/1/162560.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 33

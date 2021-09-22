@@ -1,5 +1,7 @@
 # Decathlon
 
+![decathlon](https://cdn.myanimelist.net/images/manga/2/154227.jpg)
+
 -   **type**: manga
 -   **volumes**: 23
 -   **chapters**: 241

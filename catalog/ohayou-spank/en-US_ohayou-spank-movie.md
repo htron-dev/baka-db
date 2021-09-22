@@ -1,5 +1,7 @@
 # Ohayou! Spank (Movie)
 
+![ohayou-spank-movie](https://cdn.myanimelist.net/images/anime/2/53059.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: おはよう! スパンク

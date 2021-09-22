@@ -1,5 +1,7 @@
 # Ateuma Kanojo
 
+![ateuma-kanojo](https://cdn.myanimelist.net/images/manga/3/247487.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

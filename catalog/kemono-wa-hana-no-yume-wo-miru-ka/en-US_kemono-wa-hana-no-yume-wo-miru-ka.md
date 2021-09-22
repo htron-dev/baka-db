@@ -1,5 +1,7 @@
 # Kemono wa Hana no Yume wo Miru ka
 
+![kemono-wa-hana-no-yume-wo-miru-ka](https://cdn.myanimelist.net/images/manga/1/146529.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 6

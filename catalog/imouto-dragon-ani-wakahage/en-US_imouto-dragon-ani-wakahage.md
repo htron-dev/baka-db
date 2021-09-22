@@ -1,5 +1,7 @@
 # Imouto Dragon Ani Wakahage
 
+![imouto-dragon-ani-wakahage](https://cdn.myanimelist.net/images/manga/2/124239.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

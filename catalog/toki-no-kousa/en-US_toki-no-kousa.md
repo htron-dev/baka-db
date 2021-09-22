@@ -1,5 +1,7 @@
 # Toki no Kousa
 
+![toki-no-kousa](https://cdn.myanimelist.net/images/anime/1062/94949.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: トキノ交差

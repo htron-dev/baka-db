@@ -1,5 +1,7 @@
 # Uchuu Senkan Yamato 2202: Ai no Senshi-tachi
 
+![uchuu-senkan-yamato-2202-ai-no-senshi-tachi](https://cdn.myanimelist.net/images/anime/7/84463.jpg)
+
 -   **type**: ova
 -   **episodes**: 26
 -   **original-name**: 宇宙戦艦ヤマト 2202 愛の戦士たち

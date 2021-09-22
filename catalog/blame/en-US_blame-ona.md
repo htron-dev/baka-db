@@ -1,5 +1,7 @@
 # Blame!
 
+![blame](https://cdn.myanimelist.net/images/anime/2/2713.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: BLAME (ブラム!)

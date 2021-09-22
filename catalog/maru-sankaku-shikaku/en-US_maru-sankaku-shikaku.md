@@ -1,5 +1,7 @@
 # Maru Sankaku Shikaku
 
+![maru-sankaku-shikaku](https://cdn.myanimelist.net/images/manga/2/86201.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

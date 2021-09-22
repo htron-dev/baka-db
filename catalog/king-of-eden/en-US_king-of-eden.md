@@ -1,5 +1,7 @@
 # King of Eden
 
+![king-of-eden](https://cdn.myanimelist.net/images/manga/2/245272.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **chapters**: 51

@@ -1,5 +1,7 @@
 # GBless
 
+![g-bless](https://cdn.myanimelist.net/images/manga/2/153050.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 93

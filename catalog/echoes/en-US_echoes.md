@@ -1,5 +1,7 @@
 # Echoes
 
+![echoes](https://cdn.myanimelist.net/images/manga/1/189625.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

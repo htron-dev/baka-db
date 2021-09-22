@@ -1,5 +1,7 @@
 # Hokenshitsu de Dakishimete
 
+![hokenshitsu-de-dakishimete](https://cdn.myanimelist.net/images/manga/2/34933.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

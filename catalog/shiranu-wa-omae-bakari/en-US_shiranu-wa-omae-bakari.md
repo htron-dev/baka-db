@@ -1,5 +1,7 @@
 # Shiranu wa Omae Bakari
 
+![shiranu-wa-omae-bakari](https://cdn.myanimelist.net/images/manga/1/64283.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Kyoukai no Kanata
 
+![kyoukai-no-kanata](https://cdn.myanimelist.net/images/manga/1/88513.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 境界の彼方

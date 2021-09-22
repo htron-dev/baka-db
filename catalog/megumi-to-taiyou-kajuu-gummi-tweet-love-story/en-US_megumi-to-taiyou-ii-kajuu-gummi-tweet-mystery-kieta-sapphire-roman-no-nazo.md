@@ -1,5 +1,7 @@
 # Megumi to Taiyou II: Kajuu Gummi Tweet Mystery - Kieta Sapphire Roman no Nazo
 
+![megumi-to-taiyou-ii-kajuu-gummi-tweet-mystery-kieta-sapphire-roman-no-nazo](https://cdn.myanimelist.net/images/anime/4/64573.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: メグミとタイヨウ II 果汁グミ Tweet Mystery 消えたサファイアロマンの謎

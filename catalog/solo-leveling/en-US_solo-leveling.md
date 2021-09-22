@@ -1,5 +1,7 @@
 # Solo Leveling
 
+![solo-leveling](https://cdn.myanimelist.net/images/manga/3/222295.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 나 혼자만 레벨업
 -   **start-date**: 2018-03-04

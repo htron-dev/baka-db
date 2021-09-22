@@ -1,5 +1,7 @@
 # Zangekikan
 
+![zangekikan](https://cdn.myanimelist.net/images/manga/1/150848.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 45

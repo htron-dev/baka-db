@@ -1,5 +1,7 @@
 # Kingyosou
 
+![kingyosou](https://cdn.myanimelist.net/images/manga/2/6262.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

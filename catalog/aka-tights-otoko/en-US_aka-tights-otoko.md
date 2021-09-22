@@ -1,5 +1,7 @@
 # Aka Tights Otoko
 
+![aka-tights-otoko](https://cdn.myanimelist.net/images/manga/1/167566.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

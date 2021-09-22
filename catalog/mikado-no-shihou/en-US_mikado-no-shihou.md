@@ -1,5 +1,7 @@
 # Mikado no Shihou
 
+![mikado-no-shihou](https://cdn.myanimelist.net/images/manga/2/149965.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 35

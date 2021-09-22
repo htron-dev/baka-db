@@ -1,5 +1,7 @@
 # Texhnolyze: Revisit
 
+![texhnolyze-revisit](https://cdn.myanimelist.net/images/anime/1302/105429.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **start-date**: 2004-01-20

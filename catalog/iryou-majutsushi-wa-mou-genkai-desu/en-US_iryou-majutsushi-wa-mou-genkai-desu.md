@@ -1,5 +1,7 @@
 # Iryou Majutsushi wa, Mou Genkai desu!
 
+![iryou-majutsushi-wa-mou-genkai-desu](https://cdn.myanimelist.net/images/manga/1/191360.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

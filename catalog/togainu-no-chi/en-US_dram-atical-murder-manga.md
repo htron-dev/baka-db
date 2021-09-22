@@ -1,5 +1,7 @@
 # DRAMAtical Murder
 
+![dram-atical-murder](https://cdn.myanimelist.net/images/manga/2/77137.jpg)
+
 -   **type**: manga
 -   **original-name**: DRAMAtical Murder
 -   **start-date**: 2012-08-11

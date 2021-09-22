@@ -1,5 +1,7 @@
 # Suisei no Gargantia: Mizuhana no Bellows
 
+![suisei-no-gargantia-mizuhana-no-bellows](https://cdn.myanimelist.net/images/manga/2/116823.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

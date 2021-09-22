@@ -1,5 +1,7 @@
 # Tetsunaki no Kirinji: Kabukichou Seiatsu-hen
 
+![tetsunaki-no-kirinji-kabukichou-seiatsu-hen](https://cdn.myanimelist.net/images/manga/2/177934.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 105

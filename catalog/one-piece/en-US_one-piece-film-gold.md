@@ -1,5 +1,7 @@
 # One Piece Film: Gold
 
+![one-piece-film-gold](https://cdn.myanimelist.net/images/anime/12/81081.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ONE PIECE FILM GOLD

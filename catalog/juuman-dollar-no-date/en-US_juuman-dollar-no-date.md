@@ -1,5 +1,7 @@
 # Juuman Dollar no Date
 
+![juuman-dollar-no-date](https://cdn.myanimelist.net/images/manga/2/180876.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 十万ドルのデート

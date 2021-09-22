@@ -1,5 +1,7 @@
 # Renai Kowai
 
+![renai-kowai](https://cdn.myanimelist.net/images/manga/1/189257.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Hello, Green Days
 
+![hello-green-days](https://cdn.myanimelist.net/images/manga/1/236071.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Gekkou-zaka no Hanayashiki
 
+![gekkou-zaka-no-hanayashiki](https://cdn.myanimelist.net/images/manga/3/224772.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

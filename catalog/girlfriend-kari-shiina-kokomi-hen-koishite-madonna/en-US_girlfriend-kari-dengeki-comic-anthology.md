@@ -1,5 +1,7 @@
 # Girlfriend (Kari): Dengeki Comic Anthology
 
+![girlfriend-kari-dengeki-comic-anthology](https://cdn.myanimelist.net/images/manga/3/154598.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ガールフレンド(仮) 電撃コミックアンソロジー

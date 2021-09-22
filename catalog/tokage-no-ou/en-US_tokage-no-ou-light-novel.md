@@ -1,5 +1,7 @@
 # Tokage no Ou
 
+![tokage-no-ou](https://cdn.myanimelist.net/images/manga/1/148509.jpg)
+
 -   **type**: light-novel
 -   **original-name**: トカゲの王
 -   **start-date**: 2011-07-10

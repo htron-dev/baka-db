@@ -1,5 +1,7 @@
 # Onyankopon
 
+![onyankopon](https://cdn.myanimelist.net/images/anime/6/88375.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: おにゃんこポン

@@ -1,5 +1,7 @@
 # Junai Ero-ki
 
+![junai-ero-ki](https://cdn.myanimelist.net/images/manga/2/172154.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

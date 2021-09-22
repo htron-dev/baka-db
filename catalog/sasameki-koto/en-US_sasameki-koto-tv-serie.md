@@ -1,5 +1,7 @@
 # Sasameki Koto
 
+![sasameki-koto](https://cdn.myanimelist.net/images/anime/9/75225.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ささめきこと

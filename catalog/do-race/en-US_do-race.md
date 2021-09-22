@@ -1,5 +1,7 @@
 # Do Race?
 
+![do-race](https://cdn.myanimelist.net/images/manga/2/191960.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Mannaka no Ouji
 
+![mannaka-no-ouji](https://cdn.myanimelist.net/images/manga/2/82708.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

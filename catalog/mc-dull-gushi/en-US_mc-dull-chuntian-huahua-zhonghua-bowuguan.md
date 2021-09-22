@@ -1,5 +1,7 @@
 # McDull: Chuntian Huahua Zhonghua Bowuguan
 
+![mc-dull-chuntian-huahua-zhonghua-bowuguan](https://cdn.myanimelist.net/images/anime/7/27240.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 5
 -   **original-name**: 春田花花中華博物館

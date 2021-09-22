@@ -1,5 +1,7 @@
 # Dirty Pair
 
+![dirty-pair](https://cdn.myanimelist.net/images/manga/3/32275.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **original-name**: ダーティペアの大冒険

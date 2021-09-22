@@ -1,5 +1,7 @@
 # Akane Maniax
 
+![akane-maniax](https://cdn.myanimelist.net/images/anime/6/5237.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: アカネマニアックス

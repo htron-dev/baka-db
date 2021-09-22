@@ -1,5 +1,7 @@
 # Kabi Usagi (2016)
 
+![kabi-usagi-2016](https://cdn.myanimelist.net/images/anime/13/81536.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: カビうさぎ

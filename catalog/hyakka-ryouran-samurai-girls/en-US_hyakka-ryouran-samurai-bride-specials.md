@@ -1,5 +1,7 @@
 # Hyakka Ryouran: Samurai Bride Specials
 
+![hyakka-ryouran-samurai-bride-specials](https://cdn.myanimelist.net/images/anime/13/52085.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 百花繚乱 サムライブライド

@@ -1,5 +1,7 @@
 # Ohayou, Oyasumi, Aishiteru.
 
+![ohayou-oyasumi-aishiteru](https://cdn.myanimelist.net/images/manga/3/223927.jpg)
+
 -   **type**: manga
 -   **original-name**: おはよう、おやすみ、あいしてる。
 -   **start-date**: 2016-10-24

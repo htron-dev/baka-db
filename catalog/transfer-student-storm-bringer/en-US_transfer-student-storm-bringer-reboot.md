@@ -1,5 +1,7 @@
 # Transfer Student Storm Bringer Reboot
 
+![transfer-student-storm-bringer-reboot](https://cdn.myanimelist.net/images/manga/1/72811.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 19
 -   **original-name**: 폭풍의 전학생 - 리부트

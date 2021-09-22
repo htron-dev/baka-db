@@ -1,5 +1,7 @@
 # Konjiki no Word Master: Yuusha Yonin ni Makikomareta Unique Cheat
 
+![konjiki-no-word-master-yuusha-yonin-ni-makikomareta-unique-cheat](https://cdn.myanimelist.net/images/manga/2/154446.jpg)
+
 -   **type**: manga
 -   **original-name**: 金色の文字使い ―勇者四人に巻き込まれたユニークチート―
 -   **start-date**: 2014-10-09

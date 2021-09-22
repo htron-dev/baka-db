@@ -1,5 +1,7 @@
 # Puka Puka Juju
 
+![puka-puka-juju](https://cdn.myanimelist.net/images/anime/9/40249.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ぷかぷかジュジュ

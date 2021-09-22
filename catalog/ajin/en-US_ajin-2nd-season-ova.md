@@ -1,5 +1,7 @@
 # Ajin 2nd Season OVA
 
+![ajin-2nd-season-ova](https://cdn.myanimelist.net/images/anime/6/88499.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 亜人 (佐藤 ZERO)

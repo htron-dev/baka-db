@@ -1,5 +1,7 @@
 # Ninja Collection
 
+![ninja-collection](https://cdn.myanimelist.net/images/anime/1997/108104.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 忍者コレクション

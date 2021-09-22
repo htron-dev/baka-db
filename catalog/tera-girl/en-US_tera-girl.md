@@ -1,5 +1,7 @@
 # Tera Girl
 
+![tera-girl](https://cdn.myanimelist.net/images/manga/1/112789.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

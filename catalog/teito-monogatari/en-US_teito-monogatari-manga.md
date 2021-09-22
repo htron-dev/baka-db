@@ -1,5 +1,7 @@
 # Teito Monogatari
 
+![teito-monogatari](https://cdn.myanimelist.net/images/manga/1/212602.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 帝都物語

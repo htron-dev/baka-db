@@ -1,5 +1,7 @@
 # Comic Lily
 
+![comic-lily](https://cdn.myanimelist.net/images/manga/2/167536.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

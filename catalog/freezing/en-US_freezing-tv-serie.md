@@ -1,5 +1,7 @@
 # Freezing
 
+![freezing](https://cdn.myanimelist.net/images/anime/10/28535.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: フリージング
@@ -32,4 +34,4 @@ Freezing tells the story of Kazuya Aoi as he sets out for his first day at the W
 -   [Official Site](https://web.archive.org/web/20130331033529/freezing.tv/season1/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7900)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11823)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Freezing_(manga)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Freezing_%28manga%29)

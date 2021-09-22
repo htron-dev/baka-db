@@ -1,5 +1,7 @@
 # Kusanagi-sensei wa Tamesareteiru.
 
+![kusanagi-sensei-wa-tamesareteiru](https://cdn.myanimelist.net/images/manga/2/224219.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 31

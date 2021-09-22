@@ -1,5 +1,7 @@
 # Kono Subarashii Sekai ni Shukufuku wo! Extra: Ano Orokamono ni mo Kyakkou wo!
 
+![kono-subarashii-sekai-ni-shukufuku-wo-extra-ano-orokamono-ni-mo-kyakkou-wo](https://cdn.myanimelist.net/images/manga/2/199544.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 42

@@ -1,5 +1,7 @@
 # Wakadanna ni Goyoujin
 
+![wakadanna-ni-goyoujin](https://cdn.myanimelist.net/images/manga/1/20006.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

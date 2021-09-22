@@ -1,5 +1,7 @@
 # Hisohiso: Silent Voice
 
+![hisohiso-silent-voice](https://cdn.myanimelist.net/images/manga/1/151008.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 35

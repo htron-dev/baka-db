@@ -1,5 +1,7 @@
 # Sunaebo
 
+![sunaebo](https://cdn.myanimelist.net/images/manga/1/32727.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 26

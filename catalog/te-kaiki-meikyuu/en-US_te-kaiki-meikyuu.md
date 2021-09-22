@@ -1,5 +1,7 @@
 # Te - Kaiki Meikyuu
 
+![te-kaiki-meikyuu](https://cdn.myanimelist.net/images/manga/2/47949.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

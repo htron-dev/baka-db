@@ -1,5 +1,7 @@
 # Tane mo Shikake mo Nai Love Story
 
+![tane-mo-shikake-mo-nai-love-story](https://cdn.myanimelist.net/images/manga/1/178116.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

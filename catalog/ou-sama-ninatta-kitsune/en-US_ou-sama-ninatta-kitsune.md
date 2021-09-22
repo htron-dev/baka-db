@@ -1,5 +1,7 @@
 # Ou-sama Ninatta Kitsune
 
+![ou-sama-ninatta-kitsune](https://cdn.myanimelist.net/images/anime/4/72001.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 王様になった狐

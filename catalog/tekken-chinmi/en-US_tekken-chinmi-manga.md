@@ -1,5 +1,7 @@
 # Tekken Chinmi
 
+![tekken-chinmi](https://cdn.myanimelist.net/images/manga/4/155897.jpg)
+
 -   **type**: manga
 -   **volumes**: 35
 -   **original-name**: 鉄拳チンミ

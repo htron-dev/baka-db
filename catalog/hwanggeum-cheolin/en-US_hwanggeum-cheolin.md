@@ -1,5 +1,7 @@
 # Hwanggeum Cheolin
 
+![hwanggeum-cheolin](https://cdn.myanimelist.net/images/anime/3/45148.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 황금철인
@@ -9,7 +11,6 @@
 ## Tags
 
 -   action
-
 -   adventure
 -   super-power
 -   demons

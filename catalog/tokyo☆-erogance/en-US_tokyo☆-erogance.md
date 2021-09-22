@@ -1,5 +1,7 @@
 # Tokyo☆Erogance
 
+![tokyo☆-erogance](https://cdn.myanimelist.net/images/manga/5/7796.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

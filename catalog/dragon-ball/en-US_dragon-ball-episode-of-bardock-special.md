@@ -1,5 +1,7 @@
 # Dragon Ball: Episode of Bardock
 
+![dragon-ball-episode-of-bardock](https://cdn.myanimelist.net/images/anime/8/35005.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ドラゴンボール エピソード オブ バーダック

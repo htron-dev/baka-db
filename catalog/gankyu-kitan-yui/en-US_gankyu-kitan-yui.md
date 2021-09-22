@@ -1,5 +1,7 @@
 # Gankyu Kitan Yui
 
+![gankyu-kitan-yui](https://cdn.myanimelist.net/images/manga/3/94591.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

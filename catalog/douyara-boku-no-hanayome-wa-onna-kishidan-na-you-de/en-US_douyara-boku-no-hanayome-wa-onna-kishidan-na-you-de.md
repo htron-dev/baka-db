@@ -1,5 +1,7 @@
 # Douyara Boku no Hanayome wa Onna Kishidan na You de.
 
+![douyara-boku-no-hanayome-wa-onna-kishidan-na-you-de](https://cdn.myanimelist.net/images/manga/2/235699.jpg)
+
 -   **type**: manga
 -   **original-name**: どうやらボクの花嫁は女騎士団なようで。
 -   **start-date**: 2019-10-05

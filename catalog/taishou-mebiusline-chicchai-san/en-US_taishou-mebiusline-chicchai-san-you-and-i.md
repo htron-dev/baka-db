@@ -1,5 +1,7 @@
 # Taishou Mebiusline: Chicchai-san - You and I
 
+![taishou-mebiusline-chicchai-san-you-and-i](https://cdn.myanimelist.net/images/anime/1405/90826.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 大正メビウスライン ちっちゃいさん

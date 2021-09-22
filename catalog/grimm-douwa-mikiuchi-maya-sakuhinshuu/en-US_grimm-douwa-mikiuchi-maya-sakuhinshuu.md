@@ -1,5 +1,7 @@
 # Grimm Douwa: Mikiuchi Maya Sakuhinshuu
 
+![grimm-douwa-mikiuchi-maya-sakuhinshuu](https://cdn.myanimelist.net/images/manga/3/137479.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

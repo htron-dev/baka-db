@@ -1,5 +1,7 @@
 # Koibitotachi no Basho
 
+![koibitotachi-no-basho](https://cdn.myanimelist.net/images/manga/3/31703.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 恋人たちの場所

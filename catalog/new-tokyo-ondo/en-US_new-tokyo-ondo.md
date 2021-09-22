@@ -1,5 +1,7 @@
 # New Tokyo Ondo
 
+![new-tokyo-ondo](https://cdn.myanimelist.net/images/anime/11/74479.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ニュ～東京音頭

@@ -1,5 +1,7 @@
 # Mutsu Enmei Ryuu Gaiden: Shura no Toki
 
+![mutsu-enmei-ryuu-gaiden-shura-no-toki](https://cdn.myanimelist.net/images/anime/3/56847.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 陸奥圓明流外伝 修羅の刻

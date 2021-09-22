@@ -1,5 +1,7 @@
 # Daimajuu Gekitou: Hagane no Oni
 
+![daimajuu-gekitou-hagane-no-oni](https://cdn.myanimelist.net/images/anime/4/72909.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 大魔獣激闘　鋼の鬼

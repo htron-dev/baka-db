@@ -1,5 +1,7 @@
 # Majo wa Tsuki Izuru Tokoro ni Nemuru
 
+![majo-wa-tsuki-izuru-tokoro-ni-nemuru](https://cdn.myanimelist.net/images/manga/2/108375.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 魔女は月出づるところに眠る

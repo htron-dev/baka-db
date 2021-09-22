@@ -1,5 +1,7 @@
 # Dragon League
 
+![dragon-league](https://cdn.myanimelist.net/images/anime/5/49791.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: ドラゴンリーグ

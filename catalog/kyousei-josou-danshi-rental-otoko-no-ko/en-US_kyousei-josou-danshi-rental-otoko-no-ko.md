@@ -1,5 +1,7 @@
 # Kyousei Josou Danshi: Rental Otoko no Ko
 
+![kyousei-josou-danshi-rental-otoko-no-ko](https://cdn.myanimelist.net/images/manga/2/139543.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 強制女装男子 レンタル男の娘

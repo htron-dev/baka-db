@@ -1,5 +1,7 @@
 # Itadaki! Nariagari Meshi
 
+![itadaki-nariagari-meshi](https://cdn.myanimelist.net/images/manga/2/231837.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 39

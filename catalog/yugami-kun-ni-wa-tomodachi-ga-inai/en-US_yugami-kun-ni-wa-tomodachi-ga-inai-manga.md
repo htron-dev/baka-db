@@ -1,5 +1,7 @@
 # Yugami-kun ni wa Tomodachi ga Inai
 
+![yugami-kun-ni-wa-tomodachi-ga-inai](https://cdn.myanimelist.net/images/manga/1/107515.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 81

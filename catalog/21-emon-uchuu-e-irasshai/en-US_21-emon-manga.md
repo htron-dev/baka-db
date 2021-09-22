@@ -1,5 +1,7 @@
 # 21 Emon
 
+![21-emon](https://cdn.myanimelist.net/images/manga/2/229765.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 52

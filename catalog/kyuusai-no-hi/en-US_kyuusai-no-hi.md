@@ -1,5 +1,7 @@
 # Kyuusai no Hi
 
+![kyuusai-no-hi](https://cdn.myanimelist.net/images/manga/2/166506.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

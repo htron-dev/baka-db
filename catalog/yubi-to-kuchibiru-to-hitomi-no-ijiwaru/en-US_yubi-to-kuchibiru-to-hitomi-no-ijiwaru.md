@@ -1,5 +1,7 @@
 # Yubi to Kuchibiru to Hitomi no Ijiwaru
 
+![yubi-to-kuchibiru-to-hitomi-no-ijiwaru](https://cdn.myanimelist.net/images/manga/1/12943.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

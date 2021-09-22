@@ -1,5 +1,7 @@
 # Koakuma-chan to MP0 no Shounen
 
+![koakuma-chan-to-mp-0-no-shounen](https://cdn.myanimelist.net/images/manga/2/164588.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 小悪魔ちゃんと MP0 の少年

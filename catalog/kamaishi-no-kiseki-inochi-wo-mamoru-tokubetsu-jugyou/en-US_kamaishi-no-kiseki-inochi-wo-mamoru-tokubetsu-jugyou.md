@@ -1,5 +1,7 @@
 # Kamaishi no "Kiseki": Inochi wo Mamoru Tokubetsu Jugyou
 
+![kamaishi-no-kiseki-inochi-wo-mamoru-tokubetsu-jugyou](https://cdn.myanimelist.net/images/anime/4/72372.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 釜石の“奇跡”～いのちを守る特別授業～

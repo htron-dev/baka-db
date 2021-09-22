@@ -1,5 +1,7 @@
 # Ohayou Survive
 
+![ohayou-survive](https://cdn.myanimelist.net/images/manga/3/198332.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

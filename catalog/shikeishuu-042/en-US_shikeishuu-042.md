@@ -1,5 +1,7 @@
 # Shikeishuu 042
 
+![shikeishuu-042](https://cdn.myanimelist.net/images/manga/1/48487.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 29

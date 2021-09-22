@@ -1,5 +1,7 @@
 # Seikan Bridge
 
+![seikan-bridge](https://cdn.myanimelist.net/images/manga/3/228087.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

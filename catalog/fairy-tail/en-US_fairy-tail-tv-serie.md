@@ -1,5 +1,7 @@
 # Fairy Tail
 
+![fairy-tail](https://cdn.myanimelist.net/images/anime/5/18179.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 175
 -   **original-name**: FAIRY TAIL（フェアリーテイル）

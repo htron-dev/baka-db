@@ -1,5 +1,7 @@
 # Orange Yellow
 
+![orange-yellow](https://cdn.myanimelist.net/images/manga/1/32452.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

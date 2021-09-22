@@ -1,5 +1,7 @@
 # After 5 no Joou-tachi
 
+![after-5-no-joou-tachi](https://cdn.myanimelist.net/images/manga/2/236324.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: アフター 5 の女王たち

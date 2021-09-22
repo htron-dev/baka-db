@@ -1,5 +1,7 @@
 # Hitotsuboshi-ke no Ultra Baasan
 
+![hitotsuboshi-ke-no-ultra-baasan](https://cdn.myanimelist.net/images/anime/7/56789.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 一ツ星家のウルトラ婆さん

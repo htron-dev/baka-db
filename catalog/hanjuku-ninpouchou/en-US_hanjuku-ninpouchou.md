@@ -1,5 +1,7 @@
 # Hanjuku Ninpouchou
 
+![hanjuku-ninpouchou](https://cdn.myanimelist.net/images/manga/2/163776.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 67

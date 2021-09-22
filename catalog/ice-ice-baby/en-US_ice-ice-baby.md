@@ -1,5 +1,7 @@
 # Ice Ice Baby
 
+![ice-ice-baby](https://cdn.myanimelist.net/images/manga/3/16260.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 3

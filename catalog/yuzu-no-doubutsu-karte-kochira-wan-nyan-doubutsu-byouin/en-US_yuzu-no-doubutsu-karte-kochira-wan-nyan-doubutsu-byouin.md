@@ -1,5 +1,7 @@
 # Yuzu no Doubutsu Karte: Kochira Wan Nyan Doubutsu Byouin
 
+![yuzu-no-doubutsu-karte-kochira-wan-nyan-doubutsu-byouin](https://cdn.myanimelist.net/images/manga/2/228112.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 28

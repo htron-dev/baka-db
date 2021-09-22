@@ -1,5 +1,7 @@
 # orz
 
+![orz](https://cdn.myanimelist.net/images/manga/2/124069.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

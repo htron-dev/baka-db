@@ -1,5 +1,7 @@
 # Onee Kyuuketsuki to Warawanai Maid
 
+![onee-kyuuketsuki-to-warawanai-maid](https://cdn.myanimelist.net/images/manga/1/178042.jpg)
+
 -   **type**: manga
 -   **original-name**: オネェ吸血鬼と笑わないメイド
 -   **start-date**: 2015-07-24

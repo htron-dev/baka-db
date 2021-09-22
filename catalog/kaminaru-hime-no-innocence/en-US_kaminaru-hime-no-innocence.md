@@ -1,5 +1,7 @@
 # Kaminaru Hime no Innocence
 
+![kaminaru-hime-no-innocence](https://cdn.myanimelist.net/images/manga/2/163224.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 31

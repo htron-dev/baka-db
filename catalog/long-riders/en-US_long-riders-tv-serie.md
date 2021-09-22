@@ -1,5 +1,7 @@
 # Long Riders!
 
+![long-riders](https://cdn.myanimelist.net/images/anime/3/82255.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ろんぐらいだぁす！

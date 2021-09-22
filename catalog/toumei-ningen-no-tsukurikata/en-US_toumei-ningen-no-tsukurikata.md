@@ -1,5 +1,7 @@
 # Toumei Ningen no Tsukurikata
 
+![toumei-ningen-no-tsukurikata](https://cdn.myanimelist.net/images/manga/3/157120.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Hayate no Gotoku!
 
+![hayate-no-gotoku](https://cdn.myanimelist.net/images/manga/1/171802.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 19

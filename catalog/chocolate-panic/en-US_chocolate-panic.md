@@ -1,5 +1,7 @@
 # Chocolate Panic
 
+![chocolate-panic](https://cdn.myanimelist.net/images/manga/1/226720.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 36

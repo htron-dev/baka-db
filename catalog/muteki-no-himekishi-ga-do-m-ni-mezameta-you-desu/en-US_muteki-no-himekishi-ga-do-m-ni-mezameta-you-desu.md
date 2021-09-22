@@ -1,5 +1,7 @@
 # Muteki no Himekishi ga Do M ni Mezameta you desu
 
+![muteki-no-himekishi-ga-do-m-ni-mezameta-you-desu](https://cdn.myanimelist.net/images/manga/3/168646.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

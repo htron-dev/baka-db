@@ -1,5 +1,7 @@
 # Needless+: Saint Lily Gakuen no Himitsu
 
+![needless-saint-lily-gakuen-no-himitsu](https://cdn.myanimelist.net/images/anime/12/17467.jpg)
+
 -   **type**: special
 -   **episodes**: 12
 -   **original-name**: Needless+ -聖リリィ学園の秘密-

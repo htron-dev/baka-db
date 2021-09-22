@@ -1,5 +1,7 @@
 # Pochama ni
 
+![pochama-ni](https://cdn.myanimelist.net/images/manga/1/195236.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 46

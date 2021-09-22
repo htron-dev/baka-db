@@ -1,5 +1,7 @@
 # Utsushimi no Hana
 
+![utsushimi-no-hana](https://cdn.myanimelist.net/images/manga/3/17231.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

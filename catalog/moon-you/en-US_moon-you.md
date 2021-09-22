@@ -1,5 +1,7 @@
 # Moon You
 
+![moon-you](https://cdn.myanimelist.net/images/manga/1/227133.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 68

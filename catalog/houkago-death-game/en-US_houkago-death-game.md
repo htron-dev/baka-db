@@ -1,5 +1,7 @@
 # Houkago Death Game
 
+![houkago-death-game](https://cdn.myanimelist.net/images/manga/1/167053.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

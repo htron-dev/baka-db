@@ -1,5 +1,7 @@
 # Otogizoushi
 
+![otogizoushi](https://cdn.myanimelist.net/images/manga/3/248398.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

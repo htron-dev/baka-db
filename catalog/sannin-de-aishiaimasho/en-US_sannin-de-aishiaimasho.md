@@ -1,5 +1,7 @@
 # Sannin de Aishiaimasho?
 
+![sannin-de-aishiaimasho](https://cdn.myanimelist.net/images/manga/1/31419.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 3 人で愛しあいましょ?

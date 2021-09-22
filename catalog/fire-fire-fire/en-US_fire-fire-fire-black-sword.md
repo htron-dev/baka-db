@@ -1,5 +1,7 @@
 # Fire Fire Fire: Black Sword
 
+![fire-fire-fire-black-sword](https://cdn.myanimelist.net/images/manga/3/178129.jpg)
+
 -   **type**: manga
 -   **original-name**: FIRE FIRE FIRE BLACK SWORD
 -   **start-date**: 2013-05-27

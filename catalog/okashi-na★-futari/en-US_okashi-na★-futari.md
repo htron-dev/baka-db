@@ -1,5 +1,7 @@
 # Okashi na★Futari
 
+![okashi-na★-futari](https://cdn.myanimelist.net/images/manga/2/154346.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

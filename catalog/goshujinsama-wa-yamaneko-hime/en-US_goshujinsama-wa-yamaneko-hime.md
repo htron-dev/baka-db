@@ -1,5 +1,7 @@
 # Goshujinsama wa Yamaneko-hime
 
+![goshujinsama-wa-yamaneko-hime](https://cdn.myanimelist.net/images/manga/1/121503.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 13
 -   **original-name**: ご主人様は山猫姫

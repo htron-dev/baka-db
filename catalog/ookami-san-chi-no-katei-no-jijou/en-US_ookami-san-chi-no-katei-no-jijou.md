@@ -1,5 +1,7 @@
 # Ookami-san Chi no Katei no Jijou
 
+![ookami-san-chi-no-katei-no-jijou](https://cdn.myanimelist.net/images/manga/1/165893.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 狼さんちの家庭の事情

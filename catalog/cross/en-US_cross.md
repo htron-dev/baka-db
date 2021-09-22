@@ -1,5 +1,7 @@
 # Cross
 
+![cross](https://cdn.myanimelist.net/images/manga/3/19815.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 18

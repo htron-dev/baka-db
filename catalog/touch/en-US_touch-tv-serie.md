@@ -1,5 +1,7 @@
 # Touch
 
+![touch](https://cdn.myanimelist.net/images/anime/3/53087.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 101
 -   **original-name**: タッチ
@@ -28,4 +30,4 @@ The story centers around three characters—Uesugi Kazuya, his twin older brothe
 -   [Official Site](http://www.mxtv.co.jp/touch/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=241)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=619)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Touch_(manga)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Touch_%28manga%29)

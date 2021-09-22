@@ -1,5 +1,7 @@
 # Saint Seiya: Saintia Shou
 
+![saint-seiya-saintia-shou](https://cdn.myanimelist.net/images/manga/2/154143.jpg)
+
 -   **type**: manga
 -   **original-name**: 聖闘士星矢 セインティア翔
 -   **start-date**: 2013-08-19

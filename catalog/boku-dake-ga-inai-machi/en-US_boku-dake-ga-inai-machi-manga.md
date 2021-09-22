@@ -1,5 +1,7 @@
 # Boku dake ga Inai Machi
 
+![boku-dake-ga-inai-machi](https://cdn.myanimelist.net/images/manga/1/172082.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 49

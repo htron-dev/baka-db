@@ -1,5 +1,7 @@
 # High School Fleet Movie
 
+![high-school-fleet-movie](https://cdn.myanimelist.net/images/anime/1569/110726.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 ハイスクール・フリート

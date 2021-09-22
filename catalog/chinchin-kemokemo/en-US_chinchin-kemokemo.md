@@ -1,5 +1,7 @@
 # Chinchin Kemokemo
 
+![chinchin-kemokemo](https://cdn.myanimelist.net/images/manga/3/221718.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

@@ -1,5 +1,7 @@
 # Mahouka Koukou no Rettousei: Raihousha-hen
 
+![mahouka-koukou-no-rettousei-raihousha-hen](https://cdn.myanimelist.net/images/anime/1322/114329.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 魔法科高校の劣等生 来訪者編

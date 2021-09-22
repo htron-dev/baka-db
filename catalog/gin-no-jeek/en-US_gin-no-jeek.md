@@ -1,5 +1,7 @@
 # Gin no Jeek
 
+![gin-no-jeek](https://cdn.myanimelist.net/images/manga/3/32250.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **original-name**: 銀のジーク

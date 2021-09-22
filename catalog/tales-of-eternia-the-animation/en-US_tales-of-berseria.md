@@ -1,5 +1,7 @@
 # Tales of Berseria
 
+![tales-of-berseria](https://cdn.myanimelist.net/images/manga/1/195540.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

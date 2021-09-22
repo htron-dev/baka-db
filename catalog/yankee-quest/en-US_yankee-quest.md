@@ -1,5 +1,7 @@
 # Yankee Quest
 
+![yankee-quest](https://cdn.myanimelist.net/images/manga/3/128185.jpg)
+
 -   **type**: manga
 -   **original-name**: ヤンキークエスト
 -   **start-date**: 2010-12-09

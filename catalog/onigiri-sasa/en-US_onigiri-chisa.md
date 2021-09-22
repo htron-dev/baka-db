@@ -1,5 +1,7 @@
 # Onigiri Chisa
 
+![onigiri-chisa](https://cdn.myanimelist.net/images/manga/3/170073.jpg)
+
 -   **type**: manga
 -   **original-name**: おにぎりちさ
 -   **start-date**: 2015-01-19

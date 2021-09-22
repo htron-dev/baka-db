@@ -1,5 +1,7 @@
 # Deltora Quest
 
+![deltora-quest](https://cdn.myanimelist.net/images/manga/1/169566.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 47

@@ -1,5 +1,7 @@
 # Peppermint
 
+![peppermint](https://cdn.myanimelist.net/images/manga/3/1324.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 21

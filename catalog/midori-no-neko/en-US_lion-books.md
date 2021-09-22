@@ -1,5 +1,7 @@
 # Lion Books
 
+![lion-books](https://cdn.myanimelist.net/images/manga/2/44661.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Adachi to Shimamura Mini Anime
 
+![adachi-to-shimamura-mini-anime](https://cdn.myanimelist.net/images/anime/1865/113847.jpg)
+
 -   **type**: ona
 -   **episodes**: 30
 -   **original-name**: 安達としまむら ミニアニメ

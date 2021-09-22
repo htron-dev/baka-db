@@ -1,5 +1,7 @@
 # Yatsugibaya no Lily
 
+![yatsugibaya-no-lily](https://cdn.myanimelist.net/images/manga/1/82846.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: D・キッサン短編集 矢継ぎ早のリリー

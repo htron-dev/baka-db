@@ -1,5 +1,7 @@
 # Inu x Boku SS
 
+![inu-x-boku-ss](https://cdn.myanimelist.net/images/manga/2/48555.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 58

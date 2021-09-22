@@ -1,5 +1,7 @@
 # Omniscient Reader
 
+![omniscient-reader](https://cdn.myanimelist.net/images/manga/2/238873.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 전지적 독자 시점
 -   **start-date**: 2020-05-27

@@ -1,5 +1,7 @@
 # Groove Adventure Rave
 
+![groove-adventure-rave](https://cdn.myanimelist.net/images/anime/9/20134.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: レイヴ

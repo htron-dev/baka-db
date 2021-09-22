@@ -1,5 +1,7 @@
 # Jigoku no Sata mo Kare Shidai
 
+![jigoku-no-sata-mo-kare-shidai](https://cdn.myanimelist.net/images/manga/2/180748.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

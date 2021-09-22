@@ -1,5 +1,7 @@
 # Space Pirate Captain Herlock: Outside Legend - The Endless Odyssey
 
+![space-pirate-captain-herlock-outside-legend-the-endless-odyssey](https://cdn.myanimelist.net/images/anime/1543/106174.jpg)
+
 -   **type**: ova
 -   **episodes**: 13
 -   **original-name**: SPACE PIRATE CAPTAIN HERLOCK OUTSIDE LEGEND ~The Endless Odyssey~

@@ -1,5 +1,7 @@
 # Lion to Neko no Koi
 
+![lion-to-neko-no-koi](https://cdn.myanimelist.net/images/manga/1/154005.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Futamebore
 
+![futamebore](https://cdn.myanimelist.net/images/manga/1/183604.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: ふためぼれ

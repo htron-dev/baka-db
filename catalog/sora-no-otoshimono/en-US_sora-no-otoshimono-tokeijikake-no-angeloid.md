@@ -1,5 +1,7 @@
 # Sora no Otoshimono: Tokeijikake no Angeloid
 
+![sora-no-otoshimono-tokeijikake-no-angeloid](https://cdn.myanimelist.net/images/anime/1551/112732.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 そらのおとしもの 時計じかけの哀女神（エンジェロイド）

@@ -1,5 +1,7 @@
 # Daisuke!: Itsudatte Taisetsu na Kimi to, Aikawarazu na Bokura
 
+![daisuke-itsudatte-taisetsu-na-kimi-to-aikawarazu-na-bokura](https://cdn.myanimelist.net/images/manga/2/149003.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Seishun Soukanzu
 
+![seishun-soukanzu](https://cdn.myanimelist.net/images/manga/2/204656.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

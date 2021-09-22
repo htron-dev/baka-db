@@ -1,5 +1,7 @@
 # School Zone
 
+![school-zone](https://cdn.myanimelist.net/images/manga/3/228686.jpg)
+
 -   **type**: manga
 -   **original-name**: スクールゾーン
 -   **start-date**: 2018-04-02

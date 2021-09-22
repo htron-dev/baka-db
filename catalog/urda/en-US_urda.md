@@ -1,5 +1,7 @@
 # Urda
 
+![urda](https://cdn.myanimelist.net/images/anime/4/33543.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: ウルダ
@@ -26,4 +28,4 @@ This fictional story took place in Europe around 1943. At that time Nazi secretl
 -   [Official Site](http://www.romanov.x0.com/ANIME/URDA/URDA.HTM)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=122)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2613)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Urda_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Urda_%28anime%29)

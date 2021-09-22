@@ -1,5 +1,7 @@
 # Paperman
 
+![paperman](https://cdn.myanimelist.net/images/anime/4/85635.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ペーパーマン

@@ -1,5 +1,7 @@
 # Kurosagi Shitai Takuhaibin
 
+![kurosagi-shitai-takuhaibin](https://cdn.myanimelist.net/images/manga/1/148961.jpg)
+
 -   **type**: manga
 -   **original-name**: 黒鷺死体宅配便
 

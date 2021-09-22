@@ -1,5 +1,7 @@
 # GGG
 
+![ggg](https://cdn.myanimelist.net/images/manga/3/189624.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,9 +1,10 @@
 # Boy General
 
+![boy-general](https://cdn.myanimelist.net/images/anime/1354/100287.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: 소년장수
-
 -   **rating**: G - All Ages
 
 ## Tags

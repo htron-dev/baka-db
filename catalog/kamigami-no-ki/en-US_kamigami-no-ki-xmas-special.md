@@ -1,5 +1,7 @@
 # Kamigami no Ki: Xmas Special
 
+![kamigami-no-ki-xmas-special](https://cdn.myanimelist.net/images/anime/3/84531.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 神々の記 Xmas 特別編

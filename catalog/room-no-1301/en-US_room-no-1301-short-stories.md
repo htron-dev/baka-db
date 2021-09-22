@@ -1,5 +1,7 @@
 # Room No.1301: Short Stories
 
+![room-no-1301-short-stories](https://cdn.myanimelist.net/images/manga/3/162508.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 17

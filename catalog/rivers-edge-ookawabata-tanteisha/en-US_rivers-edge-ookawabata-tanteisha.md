@@ -1,5 +1,7 @@
 # River's Edge Ookawabata Tanteisha
 
+![rivers-edge-ookawabata-tanteisha](https://cdn.myanimelist.net/images/manga/2/171831.jpg)
+
 -   **type**: manga
 -   **original-name**: リバースエッジ 大川端探偵社
 -   **start-date**: 2007-12-21

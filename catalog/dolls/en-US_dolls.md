@@ -1,5 +1,7 @@
 # Dolls
 
+![dolls](https://cdn.myanimelist.net/images/manga/2/15537.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 90

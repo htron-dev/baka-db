@@ -1,5 +1,7 @@
 # Yokuwakaru Dorei Shoujo to no Kurashikata
 
+![yokuwakaru-dorei-shoujo-to-no-kurashikata](https://cdn.myanimelist.net/images/manga/3/199794.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 38

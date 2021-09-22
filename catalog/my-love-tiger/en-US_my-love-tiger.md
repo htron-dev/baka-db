@@ -1,5 +1,7 @@
 # My Love Tiger
 
+![my-love-tiger](https://cdn.myanimelist.net/images/manga/3/149888.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 나와 호랑이님
 -   **start-date**: 2014-07-05

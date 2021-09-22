@@ -1,5 +1,7 @@
 # Platonic Invade: Koi no Shinryakusha
 
+![platonic-invade-koi-no-shinryakusha](https://cdn.myanimelist.net/images/manga/2/98711.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: プラトニック・インベイド ～恋の侵略者～

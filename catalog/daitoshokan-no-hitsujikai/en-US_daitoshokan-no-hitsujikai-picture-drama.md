@@ -1,5 +1,7 @@
 # Daitoshokan no Hitsujikai Picture Drama
 
+![daitoshokan-no-hitsujikai-picture-drama](https://cdn.myanimelist.net/images/anime/6/70145.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 大図書館の羊飼い

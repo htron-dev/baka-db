@@ -1,5 +1,7 @@
 # xxxHOLiC Kei
 
+![xxx-ho-li-c-kei](https://cdn.myanimelist.net/images/anime/9/8626.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ×××HOLiC・継

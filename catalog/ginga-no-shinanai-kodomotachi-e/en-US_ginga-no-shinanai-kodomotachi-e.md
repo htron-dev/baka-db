@@ -1,5 +1,7 @@
 # Ginga no Shinanai Kodomotachi e
 
+![ginga-no-shinanai-kodomotachi-e](https://cdn.myanimelist.net/images/manga/3/221731.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

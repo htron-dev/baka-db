@@ -1,5 +1,7 @@
 # Katayoku Shuttle
 
+![katayoku-shuttle](https://cdn.myanimelist.net/images/manga/3/203952.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

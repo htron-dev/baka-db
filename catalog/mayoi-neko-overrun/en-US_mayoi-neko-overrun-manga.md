@@ -1,5 +1,7 @@
 # Mayoi Neko Overrun!
 
+![mayoi-neko-overrun](https://cdn.myanimelist.net/images/manga/3/53901.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

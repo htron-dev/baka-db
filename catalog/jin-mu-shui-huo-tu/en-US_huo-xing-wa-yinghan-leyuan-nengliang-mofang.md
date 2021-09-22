@@ -1,5 +1,7 @@
 # Huo Xing Wa: Yinghan Leyuan - Nengliang Mofang
 
+![huo-xing-wa-yinghan-leyuan-nengliang-mofang](https://cdn.myanimelist.net/images/anime/1425/115388.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 火星娃英汉乐园之能量魔方

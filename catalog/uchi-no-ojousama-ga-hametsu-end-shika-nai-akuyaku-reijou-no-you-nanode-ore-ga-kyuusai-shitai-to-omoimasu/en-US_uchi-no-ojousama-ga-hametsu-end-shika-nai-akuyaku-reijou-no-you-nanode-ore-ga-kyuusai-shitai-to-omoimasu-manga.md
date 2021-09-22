@@ -1,5 +1,7 @@
 # Uchi no Ojousama ga Hametsu End shika Nai Akuyaku Reijou no You nanode Ore ga Kyuusai Shitai to Omoimasu.
 
+![uchi-no-ojousama-ga-hametsu-end-shika-nai-akuyaku-reijou-no-you-nanode-ore-ga-kyuusai-shitai-to-omoimasu](https://cdn.myanimelist.net/images/manga/2/239271.jpg)
+
 -   **type**: manga
 -   **original-name**: うちのお嬢様が破滅エンドしかない悪役令嬢のようなので俺が救済したいと思います。
 -   **start-date**: 2020-01-03

@@ -1,5 +1,7 @@
 # Sora x Lila: Sorairo no Lila to Okubyou na Boku
 
+![sora-x-lila-sorairo-no-lila-to-okubyou-na-boku](https://cdn.myanimelist.net/images/manga/2/169915.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

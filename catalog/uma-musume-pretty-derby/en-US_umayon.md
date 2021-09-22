@@ -1,5 +1,7 @@
 # Umayon
 
+![umayon](https://cdn.myanimelist.net/images/anime/1032/111641.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: うまよん

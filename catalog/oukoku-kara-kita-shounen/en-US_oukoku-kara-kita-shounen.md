@@ -1,5 +1,7 @@
 # Oukoku kara Kita Shounen
 
+![oukoku-kara-kita-shounen](https://cdn.myanimelist.net/images/manga/2/163280.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

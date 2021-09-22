@@ -1,5 +1,7 @@
 # Akai Kiba
 
+![akai-kiba](https://cdn.myanimelist.net/images/manga/1/17903.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **original-name**: 紅い牙 ブルーソネット

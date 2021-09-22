@@ -1,5 +1,7 @@
 # Ebihara-san no Iutoori
 
+![ebihara-san-no-iutoori](https://cdn.myanimelist.net/images/manga/1/48445.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

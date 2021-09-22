@@ -1,5 +1,7 @@
 # Genshi Otome to Kami no Tou
 
+![genshi-otome-to-kami-no-tou](https://cdn.myanimelist.net/images/manga/3/165720.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

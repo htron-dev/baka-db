@@ -1,5 +1,7 @@
 # Lost Universe
 
+![lost-universe](https://cdn.myanimelist.net/images/manga/2/37538.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

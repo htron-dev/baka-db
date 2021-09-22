@@ -1,5 +1,7 @@
 # Seiken to Matsue no Dual Holder
 
+![seiken-to-matsue-no-dual-holder](https://cdn.myanimelist.net/images/manga/2/167636.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 聖剣と魔杖の多重継承〈デュアルホルダー〉

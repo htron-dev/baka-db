@@ -1,5 +1,7 @@
 # Shokei sareta Kenja wa Lich ni Tensei shite Shinryaku Sensou wo Hajimeru
 
+![shokei-sareta-kenja-wa-lich-ni-tensei-shite-shinryaku-sensou-wo-hajimeru](https://cdn.myanimelist.net/images/manga/1/236955.jpg)
+
 -   **type**: manga
 -   **original-name**: 処刑された賢者はリッチに転生して侵略戦争を始める
 -   **start-date**: 2020-06-30

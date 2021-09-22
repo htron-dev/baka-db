@@ -1,5 +1,7 @@
 # Koisuru Bangohan
 
+![koisuru-bangohan](https://cdn.myanimelist.net/images/manga/3/169636.jpg)
+
 -   **type**: manga
 -   **chapters**: 5
 -   **original-name**: 恋する晩ごはん

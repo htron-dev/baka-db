@@ -1,5 +1,7 @@
 # Girigiri Junai Hakusho (Kari)
 
+![girigiri-junai-hakusho-kari](https://cdn.myanimelist.net/images/manga/2/201999.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

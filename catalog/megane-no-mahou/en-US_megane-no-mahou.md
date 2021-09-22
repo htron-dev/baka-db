@@ -1,5 +1,7 @@
 # Megane no Mahou
 
+![megane-no-mahou](https://cdn.myanimelist.net/images/manga/5/92025.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

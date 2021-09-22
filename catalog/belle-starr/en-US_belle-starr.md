@@ -1,5 +1,7 @@
 # Belle Starr
 
+![belle-starr](https://cdn.myanimelist.net/images/manga/3/6817.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ベル ☆ スタア強盗団

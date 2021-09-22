@@ -1,5 +1,7 @@
 # Chokkyuu Hyoudai Robot Anime: Straight Title
 
+![chokkyuu-hyoudai-robot-anime-straight-title](https://cdn.myanimelist.net/images/anime/3/46763.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 直球表題 ロボットアニメ-STRAIGHT TITLE-

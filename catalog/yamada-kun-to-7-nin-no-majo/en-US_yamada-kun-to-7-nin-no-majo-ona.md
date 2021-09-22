@@ -1,5 +1,7 @@
 # Yamada-kun to 7-nin no Majo
 
+![yamada-kun-to-7-nin-no-majo](https://cdn.myanimelist.net/images/anime/8/58865.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 山田くんと 7 人の魔女

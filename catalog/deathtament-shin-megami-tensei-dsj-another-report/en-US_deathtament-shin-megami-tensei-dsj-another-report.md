@@ -1,5 +1,7 @@
 # Deathtament: Shin Megami Tensei DSJ Another Report
 
+![deathtament-shin-megami-tensei-dsj-another-report](https://cdn.myanimelist.net/images/manga/1/207059.jpg)
+
 -   **type**: manga
 -   **original-name**: デスタメントー真・女神転生 DSJ Another Report ー
 -   **start-date**: 2018-01-16

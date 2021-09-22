@@ -1,5 +1,7 @@
 # Dual Life: Hiru wa Yuusha Party, Yoru wa Maougun
 
+![dual-life-hiru-wa-yuusha-party-yoru-wa-maougun](https://cdn.myanimelist.net/images/manga/3/192516.jpg)
+
 -   **type**: light-novel
 -   **original-name**: デュアルライフ 昼は勇者パーティ、夜は魔王軍
 -   **start-date**: 2017-03-23

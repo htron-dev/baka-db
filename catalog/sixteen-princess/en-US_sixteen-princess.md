@@ -1,5 +1,7 @@
 # Sixteen Princess
 
+![sixteen-princess](https://cdn.myanimelist.net/images/manga/1/127381.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Sixteen プリンセス

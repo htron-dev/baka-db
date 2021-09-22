@@ -1,5 +1,7 @@
 # Un-Go: Inga-ron
 
+![un-go-inga-ron](https://cdn.myanimelist.net/images/manga/2/166204.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

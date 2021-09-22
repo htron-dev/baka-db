@@ -1,5 +1,7 @@
 # Hoozuki-san Chi no Aneki (+Imouto)
 
+![hoozuki-san-chi-no-aneki-imouto](https://cdn.myanimelist.net/images/manga/3/188904.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 40

@@ -1,5 +1,7 @@
 # Toubousha Elio
 
+![toubousha-elio](https://cdn.myanimelist.net/images/manga/2/224214.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 42

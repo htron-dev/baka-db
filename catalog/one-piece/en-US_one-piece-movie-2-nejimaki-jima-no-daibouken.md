@@ -1,5 +1,7 @@
 # One Piece Movie 2: Nejimaki-jima no Daibouken
 
+![one-piece-movie-2-nejimaki-jima-no-daibouken](https://cdn.myanimelist.net/images/anime/1939/97699.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ワンピース ねじまき島の冒険

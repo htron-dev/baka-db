@@ -1,5 +1,7 @@
 # Lucky Break
 
+![lucky-break](https://cdn.myanimelist.net/images/manga/2/164071.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ラッキー・ブレイク

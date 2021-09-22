@@ -1,5 +1,7 @@
 # Gahi-chan!
 
+![gahi-chan](https://cdn.myanimelist.net/images/manga/2/239926.jpg)
+
 -   **type**: manga
 -   **original-name**: 画皮ちゃん！
 -   **start-date**: 2020-09-26

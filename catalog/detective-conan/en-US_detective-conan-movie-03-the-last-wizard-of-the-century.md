@@ -1,5 +1,7 @@
 # Detective Conan Movie 03: The Last Wizard of the Century
 
+![detective-conan-movie-03-the-last-wizard-of-the-century](https://cdn.myanimelist.net/images/anime/1831/94317.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン 世紀末の魔術師

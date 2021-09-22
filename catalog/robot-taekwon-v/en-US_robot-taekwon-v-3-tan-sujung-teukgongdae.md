@@ -1,5 +1,7 @@
 # Robot Taekwon V 3tan! Sujung Teukgongdae
 
+![robot-taekwon-v-3-tan-sujung-teukgongdae](https://cdn.myanimelist.net/images/anime/5/44670.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 로보트 태권브이 3 - 수중 특공대

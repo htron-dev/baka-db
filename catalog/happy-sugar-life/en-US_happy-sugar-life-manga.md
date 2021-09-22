@@ -1,5 +1,7 @@
 # Happy Sugar Life
 
+![happy-sugar-life](https://cdn.myanimelist.net/images/manga/1/165713.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 53

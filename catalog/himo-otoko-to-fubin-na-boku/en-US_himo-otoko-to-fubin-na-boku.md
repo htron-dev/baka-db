@@ -1,5 +1,7 @@
 # Himo Otoko to Fubin na Boku
 
+![himo-otoko-to-fubin-na-boku](https://cdn.myanimelist.net/images/manga/3/184322.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ヒモ男と不憫なボク

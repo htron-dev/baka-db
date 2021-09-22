@@ -1,5 +1,7 @@
 # Tenshi no Shinzou
 
+![tenshi-no-shinzou](https://cdn.myanimelist.net/images/manga/1/79367.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

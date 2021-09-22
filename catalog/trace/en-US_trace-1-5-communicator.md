@@ -1,5 +1,7 @@
 # Trace 1.5: Communicator
 
+![trace-1-5-communicator](https://cdn.myanimelist.net/images/manga/1/144975.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 39
 -   **original-name**: 교류자: TRACE 1.5

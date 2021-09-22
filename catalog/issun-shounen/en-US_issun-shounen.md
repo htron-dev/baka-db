@@ -1,5 +1,7 @@
 # Issun Shounen
 
+![issun-shounen](https://cdn.myanimelist.net/images/manga/2/25091.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 一寸少年

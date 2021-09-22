@@ -1,5 +1,7 @@
 # Dokgo Rewind
 
+![dokgo-rewind](https://cdn.myanimelist.net/images/manga/2/207422.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **original-name**: 독고 리와인드

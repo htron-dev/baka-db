@@ -1,5 +1,7 @@
 # Crying Freeman
 
+![crying-freeman](https://cdn.myanimelist.net/images/manga/2/1390.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 103

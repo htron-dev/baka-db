@@ -1,5 +1,7 @@
 # Sasami-san@Ganbaranai
 
+![sasami-san-ganbaranai](https://cdn.myanimelist.net/images/manga/1/69871.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ささみさん@がんばらない
 -   **start-date**: 2009-12-23

@@ -1,5 +1,7 @@
 # Kamitoki no Resist
 
+![kamitoki-no-resist](https://cdn.myanimelist.net/images/manga/2/65243.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

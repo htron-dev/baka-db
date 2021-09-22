@@ -1,5 +1,7 @@
 # Hug Me
 
+![hug-me](https://cdn.myanimelist.net/images/manga/1/161775.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **original-name**: 안아줘

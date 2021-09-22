@@ -1,5 +1,7 @@
 # Love Lab
 
+![love-lab](https://cdn.myanimelist.net/images/anime/12/50257.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 恋愛ラボ

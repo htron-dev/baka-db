@@ -1,5 +1,7 @@
 # Onimiya-sensei no Kiss ni wa Sakaraenai
 
+![onimiya-sensei-no-kiss-ni-wa-sakaraenai](https://cdn.myanimelist.net/images/manga/1/186144.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

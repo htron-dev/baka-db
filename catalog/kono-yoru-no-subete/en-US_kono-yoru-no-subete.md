@@ -1,5 +1,7 @@
 # Kono Yoru no Subete
 
+![kono-yoru-no-subete](https://cdn.myanimelist.net/images/manga/1/39163.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

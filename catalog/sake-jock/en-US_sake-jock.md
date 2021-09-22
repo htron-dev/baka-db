@@ -1,5 +1,7 @@
 # Sake Jock
 
+![sake-jock](https://cdn.myanimelist.net/images/manga/3/38470.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

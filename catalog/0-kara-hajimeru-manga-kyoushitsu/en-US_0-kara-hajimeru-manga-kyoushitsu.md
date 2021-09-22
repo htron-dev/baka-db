@@ -1,5 +1,7 @@
 # 0 kara Hajimeru Manga Kyoushitsu
 
+![0-kara-hajimeru-manga-kyoushitsu](https://cdn.myanimelist.net/images/manga/1/30964.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

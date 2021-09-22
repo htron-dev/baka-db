@@ -1,5 +1,7 @@
 # Turning Mecard
 
+![turning-mecard](https://cdn.myanimelist.net/images/anime/7/85659.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 터닝메카드
@@ -12,7 +14,6 @@
 -   game
 -   adventure
 -   cars
-
 -   mecha
 
 ## Sinopse
@@ -28,4 +29,4 @@ Turning Mecard stars Jason, a grade-schooler who meets a Mecanimal, a transformi
 -   [My Anime list](https://myanimelist.net/anime/35541/Turning_Mecard)
 -   [Official Site](http://www.kbs.co.kr/2tv/enter/mecard/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13804)
--   [Wikipedia](<https://ko.wikipedia.org/wiki/%ED%84%B0%EB%8B%9D%EB%A9%94%EC%B9%B4%EB%93%9C_(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98)>)
+-   [Wikipedia](https://ko.wikipedia.org/wiki/%ED%84%B0%EB%8B%9D%EB%A9%94%EC%B9%B4%EB%93%9C_%28%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%29)

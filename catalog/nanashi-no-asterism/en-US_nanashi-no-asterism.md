@@ -1,5 +1,7 @@
 # Nanashi no Asterism
 
+![nanashi-no-asterism](https://cdn.myanimelist.net/images/manga/3/175568.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 23

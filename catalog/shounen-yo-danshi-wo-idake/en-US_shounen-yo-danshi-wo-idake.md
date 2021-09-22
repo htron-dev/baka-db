@@ -1,5 +1,7 @@
 # Shounen yo Danshi wo Idake
 
+![shounen-yo-danshi-wo-idake](https://cdn.myanimelist.net/images/manga/2/23409.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

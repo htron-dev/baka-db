@@ -1,5 +1,7 @@
 # InuYasha
 
+![inu-yasha](https://cdn.myanimelist.net/images/anime/1589/95329.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 167
 -   **original-name**: 犬夜叉

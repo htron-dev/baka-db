@@ -1,5 +1,7 @@
 # Fukumimi☆Bi Brothers
 
+![fukumimi☆-bi-brothers](https://cdn.myanimelist.net/images/manga/3/96379.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 福耳 ☆ 美ブラザーズ

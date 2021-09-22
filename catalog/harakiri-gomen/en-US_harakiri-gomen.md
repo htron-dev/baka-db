@@ -1,5 +1,7 @@
 # Harakiri Gomen
 
+![harakiri-gomen](https://cdn.myanimelist.net/images/manga/2/228082.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: ハラキリゴメン

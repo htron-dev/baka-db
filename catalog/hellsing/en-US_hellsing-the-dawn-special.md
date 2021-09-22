@@ -1,5 +1,7 @@
 # Hellsing: The Dawn
 
+![hellsing-the-dawn](https://cdn.myanimelist.net/images/anime/5/30667.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: HELLSING THE DAWN
@@ -26,4 +28,4 @@ During the height of World War II, Nazi Germany seeks to strengthen their soldie
 -   [My Anime list](https://myanimelist.net/anime/11077/Hellsing__The_Dawn)
 -   [Official Site](http://www.geneon-ent.co.jp/rondorobe/anime/hellsing/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3296)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Hellsing_(OVA)#Hellsing:_The_Dawn>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Hellsing_%28OVA%29#Hellsing:_The_Dawn)

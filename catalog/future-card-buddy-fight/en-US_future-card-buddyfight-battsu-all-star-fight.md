@@ -1,5 +1,7 @@
 # Future Card Buddyfight Battsu: All-Star Fight
 
+![future-card-buddyfight-battsu-all-star-fight](https://cdn.myanimelist.net/images/anime/1924/95069.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 8
 -   **original-name**: フューチャーカード バディファイト バッツ オールスターファイト

@@ -1,5 +1,7 @@
 # Grendel
 
+![grendel](https://cdn.myanimelist.net/images/manga/1/192812.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

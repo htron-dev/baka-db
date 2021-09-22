@@ -1,5 +1,7 @@
 # Nokorimono ni wa Fuku ga Aru.
 
+![nokorimono-ni-wa-fuku-ga-aru](https://cdn.myanimelist.net/images/manga/3/245394.jpg)
+
 -   **type**: manga
 -   **original-name**: 残り物には福がある。
 -   **start-date**: 2019-11-08

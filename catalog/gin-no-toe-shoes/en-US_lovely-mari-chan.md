@@ -1,5 +1,7 @@
 # Lovely Mari-Chan
 
+![lovely-mari-chan](https://cdn.myanimelist.net/images/manga/3/83114.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: ラブリーまりちゃん

@@ -1,5 +1,7 @@
 # Muteki no Darling!
 
+![muteki-no-darling](https://cdn.myanimelist.net/images/manga/3/10157.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 無敵のダーリン!

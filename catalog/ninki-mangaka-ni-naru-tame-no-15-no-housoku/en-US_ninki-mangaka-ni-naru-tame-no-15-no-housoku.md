@@ -1,5 +1,7 @@
 # Ninki Mangaka ni Naru Tame no 15 no Housoku
 
+![ninki-mangaka-ni-naru-tame-no-15-no-housoku](https://cdn.myanimelist.net/images/manga/1/216063.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 23

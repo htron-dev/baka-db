@@ -1,5 +1,7 @@
 # Rinne no Lagrange: Kamogawa Days
 
+![rinne-no-lagrange-kamogawa-days](https://cdn.myanimelist.net/images/anime/10/38259.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 輪廻のラグランジェ 鴨川デイズ

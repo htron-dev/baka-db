@@ -1,5 +1,7 @@
 # Haru no Uta
 
+![haru-no-uta](https://cdn.myanimelist.net/images/anime/2/12503.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 春の唄

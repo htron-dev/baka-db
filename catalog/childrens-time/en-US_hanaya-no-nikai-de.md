@@ -1,5 +1,7 @@
 # Hanaya no Nikai de
 
+![hanaya-no-nikai-de](https://cdn.myanimelist.net/images/manga/2/30660.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

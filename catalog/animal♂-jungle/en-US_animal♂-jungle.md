@@ -1,5 +1,7 @@
 # Animal♂Jungle
 
+![animal♂-jungle](https://cdn.myanimelist.net/images/manga/2/82030.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

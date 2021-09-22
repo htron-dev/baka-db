@@ -1,5 +1,7 @@
 # Romance - Itoshiku Tsumetai Kimi
 
+![romance-itoshiku-tsumetai-kimi](https://cdn.myanimelist.net/images/manga/2/17230.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Shuchuu ni Otoshite Ii desu ka
 
+![shuchuu-ni-otoshite-ii-desu-ka](https://cdn.myanimelist.net/images/manga/3/231193.jpg)
+
 -   **type**: manga
 -   **original-name**: 手中に落としていいですか
 -   **start-date**: 2016-03-25

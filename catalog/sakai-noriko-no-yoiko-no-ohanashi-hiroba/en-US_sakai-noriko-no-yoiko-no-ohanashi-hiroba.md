@@ -1,5 +1,7 @@
 # Sakai Noriko no Yoiko no Ohanashi Hiroba
 
+![sakai-noriko-no-yoiko-no-ohanashi-hiroba](https://cdn.myanimelist.net/images/anime/13/85536.jpg)
+
 -   **type**: ova
 -   **episodes**: 10
 -   **original-name**: 酒井法子のよいこのおはなしひろば

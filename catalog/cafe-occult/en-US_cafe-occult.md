@@ -1,5 +1,7 @@
 # Cafe Occult
 
+![cafe-occult](https://cdn.myanimelist.net/images/manga/1/10166.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **original-name**: 카페 오컬트

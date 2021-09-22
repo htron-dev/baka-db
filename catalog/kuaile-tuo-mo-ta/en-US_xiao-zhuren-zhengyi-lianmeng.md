@@ -1,5 +1,7 @@
 # Xiao Zhuren: Zhengyi Lianmeng
 
+![xiao-zhuren-zhengyi-lianmeng](https://cdn.myanimelist.net/images/anime/1793/115230.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 小主人之正义联盟

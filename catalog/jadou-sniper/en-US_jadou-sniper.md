@@ -1,5 +1,7 @@
 # Jadou Sniper
 
+![jadou-sniper](https://cdn.myanimelist.net/images/manga/1/231588.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

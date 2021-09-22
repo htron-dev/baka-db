@@ -1,5 +1,7 @@
 # Gives
 
+![gives](https://cdn.myanimelist.net/images/manga/3/72581.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

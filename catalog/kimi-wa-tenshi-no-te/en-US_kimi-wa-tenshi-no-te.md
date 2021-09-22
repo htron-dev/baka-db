@@ -1,5 +1,7 @@
 # Kimi wa Tenshi no Te
 
+![kimi-wa-tenshi-no-te](https://cdn.myanimelist.net/images/manga/2/58125.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 君は天使の手

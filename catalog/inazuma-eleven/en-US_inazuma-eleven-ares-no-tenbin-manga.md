@@ -1,5 +1,7 @@
 # Inazuma Eleven: Ares no Tenbin
 
+![inazuma-eleven-ares-no-tenbin](https://cdn.myanimelist.net/images/manga/1/231226.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

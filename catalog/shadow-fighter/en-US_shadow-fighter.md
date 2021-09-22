@@ -1,5 +1,7 @@
 # Shadow Fighter
 
+![shadow-fighter](https://cdn.myanimelist.net/images/anime/1153/115552.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 섀도우 파이터

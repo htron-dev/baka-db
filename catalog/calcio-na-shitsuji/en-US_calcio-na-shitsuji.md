@@ -1,5 +1,7 @@
 # Calcio na Shitsuji
 
+![calcio-na-shitsuji](https://cdn.myanimelist.net/images/manga/2/146361.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

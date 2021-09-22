@@ -1,5 +1,7 @@
 # Maou Toubatsu Ore, Eiyuu... Datta Hazu nanoni!
 
+![maou-toubatsu-ore-eiyuu-datta-hazu-nanoni](https://cdn.myanimelist.net/images/manga/1/122299.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 魔王討伐！俺、英雄…だったはずなのに！

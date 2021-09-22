@@ -1,5 +1,7 @@
 # Roppou Yabure-kun
 
+![roppou-yabure-kun](https://cdn.myanimelist.net/images/anime/4/53313.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 110
 -   **original-name**: 六法やぶれクン

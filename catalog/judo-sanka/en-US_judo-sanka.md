@@ -1,5 +1,7 @@
 # Judo Sanka
 
+![judo-sanka](https://cdn.myanimelist.net/images/anime/8/63409.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 27
 -   **original-name**: 柔道讃歌

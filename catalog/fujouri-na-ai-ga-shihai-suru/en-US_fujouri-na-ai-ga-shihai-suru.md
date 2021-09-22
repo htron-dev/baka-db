@@ -1,5 +1,7 @@
 # Fujouri na Ai ga Shihai suru
 
+![fujouri-na-ai-ga-shihai-suru](https://cdn.myanimelist.net/images/manga/1/88157.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

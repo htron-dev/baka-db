@@ -1,5 +1,7 @@
 # Birthday Boy
 
+![birthday-boy](https://cdn.myanimelist.net/images/anime/6/11253.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 축생일

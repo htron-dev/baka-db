@@ -1,5 +1,7 @@
 # Ikinokore! Shachiku-chan
 
+![ikinokore-shachiku-chan](https://cdn.myanimelist.net/images/manga/3/180715.jpg)
+
 -   **type**: manga
 -   **original-name**: いきのこれ！社畜ちゃん
 -   **start-date**: 2015-12-18

@@ -1,5 +1,7 @@
 # Gunparade March: Arata Naru Kougunka
 
+![gunparade-march-arata-naru-kougunka](https://cdn.myanimelist.net/images/anime/13/75520.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ガンパレード・マーチ -新たなる行軍歌-

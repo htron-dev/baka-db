@@ -1,5 +1,7 @@
 # Battle Girl High School
 
+![battle-girl-high-school](https://cdn.myanimelist.net/images/anime/9/87837.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: バトルガール ハイスクール

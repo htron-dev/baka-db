@@ -1,5 +1,7 @@
 # Potecco Babies (2011)
 
+![potecco-babies-2011](https://cdn.myanimelist.net/images/anime/7/58921.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: ポテッコベイビーズ(2011)

@@ -1,5 +1,7 @@
 # Super Lovers 2
 
+![super-lovers-2](https://cdn.myanimelist.net/images/anime/9/83807.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: SUPER LOVERS（スーパーラヴァーズ） 2

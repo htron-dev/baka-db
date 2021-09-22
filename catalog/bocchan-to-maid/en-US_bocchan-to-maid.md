@@ -1,5 +1,7 @@
 # Bocchan to Maid
 
+![bocchan-to-maid](https://cdn.myanimelist.net/images/manga/2/189895.jpg)
+
 -   **type**: manga
 -   **original-name**: 坊っちゃんとメイド
 -   **start-date**: 2015-02-09

@@ -1,5 +1,7 @@
 # White Album 2: Yuki ga Tsumugu Senritsu
 
+![white-album-2-yuki-ga-tsumugu-senritsu](https://cdn.myanimelist.net/images/manga/3/148287.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **original-name**: WHITE ALBUM 2 雪が紡ぐ旋律

@@ -1,5 +1,7 @@
 # Dog Days'' Specials
 
+![dog-days-specials](https://cdn.myanimelist.net/images/anime/1834/93371.jpg)
+
 -   **type**: special
 -   **episodes**: 12
 -   **original-name**: ドッグデイズ'' 今週のあらすじ

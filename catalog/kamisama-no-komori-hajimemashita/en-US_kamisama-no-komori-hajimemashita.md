@@ -1,5 +1,7 @@
 # Kamisama no Komori Hajimemashita.
 
+![kamisama-no-komori-hajimemashita](https://cdn.myanimelist.net/images/manga/1/222697.jpg)
+
 -   **type**: manga
 -   **original-name**: 神様の子守はじめました。
 -   **start-date**: 2017-11-15

@@ -1,5 +1,7 @@
 # Yurufuwa Kouhai-kun wa, Tama ni Gouin
 
+![yurufuwa-kouhai-kun-wa-tama-ni-gouin](https://cdn.myanimelist.net/images/manga/2/246163.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

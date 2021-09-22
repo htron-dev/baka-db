@@ -1,5 +1,7 @@
 # Attack of Zashiki Children
 
+![attack-of-zashiki-children](https://cdn.myanimelist.net/images/manga/1/240416.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 37

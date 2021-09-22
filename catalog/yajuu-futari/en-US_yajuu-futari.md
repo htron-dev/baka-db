@@ -1,5 +1,7 @@
 # Yajuu, Futari.
 
+![yajuu-futari](https://cdn.myanimelist.net/images/manga/2/86059.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

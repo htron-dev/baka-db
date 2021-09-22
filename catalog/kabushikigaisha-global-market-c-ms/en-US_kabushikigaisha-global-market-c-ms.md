@@ -1,5 +1,7 @@
 # Kabushikigaisha Global Market CMs
 
+![kabushikigaisha-global-market-c-ms](https://cdn.myanimelist.net/images/anime/1585/107816.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 株式会社グローバルマーケット

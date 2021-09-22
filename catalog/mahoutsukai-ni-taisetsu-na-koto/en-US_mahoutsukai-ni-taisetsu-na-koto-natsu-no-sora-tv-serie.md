@@ -1,5 +1,7 @@
 # Mahoutsukai ni Taisetsu na Koto: Natsu no Sora
 
+![mahoutsukai-ni-taisetsu-na-koto-natsu-no-sora](https://cdn.myanimelist.net/images/anime/10/50399.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 魔法遣いに大切なこと ～夏のソラ～

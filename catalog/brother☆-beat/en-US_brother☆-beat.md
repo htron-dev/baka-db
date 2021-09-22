@@ -1,5 +1,7 @@
 # Brother☆Beat
 
+![brother☆-beat](https://cdn.myanimelist.net/images/manga/1/165075.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Ouroboros Record
 
+![ouroboros-record](https://cdn.myanimelist.net/images/manga/2/167518.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ウロボロス・レコード
 -   **start-date**: 2015-11-30

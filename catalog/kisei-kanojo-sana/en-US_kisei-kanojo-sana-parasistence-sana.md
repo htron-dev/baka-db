@@ -1,5 +1,7 @@
 # Kisei Kanojo Sana: Parasistence Sana
 
+![kisei-kanojo-sana-parasistence-sana](https://cdn.myanimelist.net/images/manga/2/108759.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Kousoku Program
 
+![kousoku-program](https://cdn.myanimelist.net/images/manga/3/172273.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 拘束プログラム

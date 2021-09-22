@@ -1,5 +1,7 @@
 # Gekitotsu no Hexennacht
 
+![gekitotsu-no-hexennacht](https://cdn.myanimelist.net/images/manga/3/168191.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

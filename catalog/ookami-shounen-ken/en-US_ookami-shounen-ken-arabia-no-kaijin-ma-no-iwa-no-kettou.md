@@ -1,5 +1,7 @@
 # Ookami Shounen Ken: Arabia no Kaijin - Ma no Iwa no Kettou
 
+![ookami-shounen-ken-arabia-no-kaijin-ma-no-iwa-no-kettou](https://cdn.myanimelist.net/images/anime/12/59913.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 狼少年ケン アラビアの怪人 魔の岩の決闘

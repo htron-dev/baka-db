@@ -1,5 +1,7 @@
 # Yuria 100 Shiki
 
+![yuria-100-shiki](https://cdn.myanimelist.net/images/manga/3/51335.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 105

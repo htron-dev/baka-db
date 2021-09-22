@@ -1,5 +1,7 @@
 # Feng Ji Yun Nu
 
+![feng-ji-yun-nu](https://cdn.myanimelist.net/images/anime/9/71859.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 風急雲怒

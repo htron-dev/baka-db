@@ -1,5 +1,7 @@
 # Kanojo ga Bikini Armor ni Kigaetara
 
+![kanojo-ga-bikini-armor-ni-kigaetara](https://cdn.myanimelist.net/images/manga/2/204493.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

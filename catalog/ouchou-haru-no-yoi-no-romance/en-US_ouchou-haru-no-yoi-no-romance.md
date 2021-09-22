@@ -1,5 +1,7 @@
 # Ouchou Haru no Yoi no Romance
 
+![ouchou-haru-no-yoi-no-romance](https://cdn.myanimelist.net/images/manga/3/212987.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

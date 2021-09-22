@@ -1,5 +1,7 @@
 # Boku no Kanojo wa Saikou desu!
 
+![boku-no-kanojo-wa-saikou-desu](https://cdn.myanimelist.net/images/manga/3/201607.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 56

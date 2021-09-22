@@ -1,5 +1,7 @@
 # Sweet Valerian Specials
 
+![sweet-valerian-specials](https://cdn.myanimelist.net/images/anime/2/85620.jpg)
+
 -   **type**: special
 -   **episodes**: 8
 -   **original-name**: スウィート・ヴァレリアン

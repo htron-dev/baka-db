@@ -1,5 +1,7 @@
 # Kurenaizoushi: Bakumatsu Kyoto Ibun
 
+![kurenaizoushi-bakumatsu-kyoto-ibun](https://cdn.myanimelist.net/images/manga/1/247974.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 紅異草紙〈くれないぞうし〉-幕末京都異聞-

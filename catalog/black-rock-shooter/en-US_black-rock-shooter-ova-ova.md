@@ -1,5 +1,7 @@
 # Black★Rock Shooter (OVA)
 
+![black★-rock-shooter-ova](https://cdn.myanimelist.net/images/anime/6/22417.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ブラック ★ ロックシューター

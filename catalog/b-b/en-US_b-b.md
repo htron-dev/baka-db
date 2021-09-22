@@ -1,5 +1,7 @@
 # B.B
 
+![b-b](https://cdn.myanimelist.net/images/manga/2/186952.jpg)
+
 -   **type**: manga
 -   **volumes**: 31
 -   **chapters**: 286

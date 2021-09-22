@@ -1,5 +1,7 @@
 # Usalullaby
 
+![usalullaby](https://cdn.myanimelist.net/images/anime/4/78344.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: USALULLABY

@@ -1,5 +1,7 @@
 # Ane no Onaka wo Fukuramaseru no wa Boku
 
+![ane-no-onaka-wo-fukuramaseru-no-wa-boku](https://cdn.myanimelist.net/images/manga/1/188813.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

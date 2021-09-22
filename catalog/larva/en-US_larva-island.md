@@ -1,5 +1,7 @@
 # Larva Island
 
+![larva-island](https://cdn.myanimelist.net/images/anime/1289/95175.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 라바 아일랜드
@@ -20,4 +22,4 @@ The 4th season of Larva. Stranded on a tropical island, two silly larva buddies 
 
 -   [My Anime list](https://myanimelist.net/anime/38446/Larva_Island)
 -   [Official Site](http://tubaani.com/)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Larva_(TV_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Larva_%28TV_series%29)

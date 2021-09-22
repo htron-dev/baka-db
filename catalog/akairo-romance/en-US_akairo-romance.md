@@ -1,5 +1,7 @@
 # Akairo/Romance
 
+![akairo-romance](https://cdn.myanimelist.net/images/manga/1/164582.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **original-name**: アカイロ/ロマンス

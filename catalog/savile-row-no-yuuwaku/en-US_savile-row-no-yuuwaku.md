@@ -1,5 +1,7 @@
 # Savile Row no Yuuwaku
 
+![savile-row-no-yuuwaku](https://cdn.myanimelist.net/images/manga/3/225546.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

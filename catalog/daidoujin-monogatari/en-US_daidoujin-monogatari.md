@@ -1,5 +1,7 @@
 # Daidoujin Monogatari
 
+![daidoujin-monogatari](https://cdn.myanimelist.net/images/manga/2/165483.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

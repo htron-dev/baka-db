@@ -1,5 +1,7 @@
 # Nazo no Kanojo X: Nazo no Natsu Matsuri
 
+![nazo-no-kanojo-x-nazo-no-natsu-matsuri](https://cdn.myanimelist.net/images/anime/12/41297.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 謎の彼女 X 謎の夏祭り

@@ -1,5 +1,7 @@
 # Kuroneko Kareshi no Afurekata
 
+![kuroneko-kareshi-no-afurekata](https://cdn.myanimelist.net/images/manga/3/166745.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: クロネコ彼氏のあふれ方

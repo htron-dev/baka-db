@@ -1,5 +1,7 @@
 # Sargasso
 
+![sargasso](https://cdn.myanimelist.net/images/manga/2/33977.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 宇宙賃貸サルガッ荘

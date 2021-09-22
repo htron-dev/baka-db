@@ -1,5 +1,7 @@
 # Bonkuras, Don't Cry
 
+![bonkuras-dont-cry](https://cdn.myanimelist.net/images/manga/2/179135.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

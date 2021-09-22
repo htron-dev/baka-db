@@ -1,5 +1,7 @@
 # Itsuwari no Utahime
 
+![itsuwari-no-utahime](https://cdn.myanimelist.net/images/manga/2/194810.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

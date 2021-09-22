@@ -1,5 +1,7 @@
 # Nanatsu no Taizai: Seisen no Shirushi
 
+![nanatsu-no-taizai-seisen-no-shirushi](https://cdn.myanimelist.net/images/anime/13/79331.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 4
 -   **original-name**: 七つの大罪 聖戦の予兆

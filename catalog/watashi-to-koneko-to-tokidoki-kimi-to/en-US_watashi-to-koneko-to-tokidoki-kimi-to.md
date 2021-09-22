@@ -1,5 +1,7 @@
 # Watashi to Koneko to, Tokidoki, Kimi to.
 
+![watashi-to-koneko-to-tokidoki-kimi-to](https://cdn.myanimelist.net/images/manga/2/178392.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

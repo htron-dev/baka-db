@@ -1,5 +1,7 @@
 # Mobile Suit Gundam: U.C. Hard Graph Iron Mustang
 
+![mobile-suit-gundam-u-c-hard-graph-iron-mustang](https://cdn.myanimelist.net/images/manga/3/244462.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

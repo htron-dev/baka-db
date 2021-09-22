@@ -1,5 +1,7 @@
 # Zutto Kitto
 
+![zutto-kitto](https://cdn.myanimelist.net/images/manga/1/247603.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 34

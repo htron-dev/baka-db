@@ -1,5 +1,7 @@
 # Amrita no Kyouen
 
+![amrita-no-kyouen](https://cdn.myanimelist.net/images/anime/1386/105333.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アムリタの饗宴

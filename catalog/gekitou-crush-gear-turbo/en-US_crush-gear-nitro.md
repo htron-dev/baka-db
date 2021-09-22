@@ -1,5 +1,7 @@
 # Crush Gear Nitro
 
+![crush-gear-nitro](https://cdn.myanimelist.net/images/anime/1925/94230.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: クラッシュギア Nitro

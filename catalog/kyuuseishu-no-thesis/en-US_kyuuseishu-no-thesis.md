@@ -1,5 +1,7 @@
 # Kyuuseishu no Thesis
 
+![kyuuseishu-no-thesis](https://cdn.myanimelist.net/images/manga/2/176961.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 24

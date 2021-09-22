@@ -1,5 +1,7 @@
 # Joshi Mote na Imouto to Junan na Ore
 
+![joshi-mote-na-imouto-to-junan-na-ore](https://cdn.myanimelist.net/images/manga/1/171310.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **chapters**: 48

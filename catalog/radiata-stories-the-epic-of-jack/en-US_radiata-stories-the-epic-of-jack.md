@@ -1,5 +1,7 @@
 # Radiata Stories: The Epic of Jack
 
+![radiata-stories-the-epic-of-jack](https://cdn.myanimelist.net/images/manga/2/9354.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

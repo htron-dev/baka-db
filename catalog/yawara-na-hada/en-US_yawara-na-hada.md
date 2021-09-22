@@ -1,5 +1,7 @@
 # Yawara na Hada
 
+![yawara-na-hada](https://cdn.myanimelist.net/images/manga/2/171531.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

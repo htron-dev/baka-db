@@ -1,5 +1,7 @@
 # Aisuru Hito
 
+![aisuru-hito](https://cdn.myanimelist.net/images/manga/1/166309.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

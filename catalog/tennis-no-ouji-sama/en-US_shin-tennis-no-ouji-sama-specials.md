@@ -1,5 +1,7 @@
 # Shin Tennis no Ouji-sama Specials
 
+![shin-tennis-no-ouji-sama-specials](https://cdn.myanimelist.net/images/anime/7/39891.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: 新テニスの王子様

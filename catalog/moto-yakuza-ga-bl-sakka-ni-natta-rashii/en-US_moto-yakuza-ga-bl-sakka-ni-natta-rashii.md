@@ -1,5 +1,7 @@
 # Moto Yakuza ga BL Sakka ni Natta Rashii.
 
+![moto-yakuza-ga-bl-sakka-ni-natta-rashii](https://cdn.myanimelist.net/images/manga/2/244789.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

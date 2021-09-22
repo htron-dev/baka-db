@@ -1,5 +1,7 @@
 # Chuizhi Shijie
 
+![chuizhi-shijie](https://cdn.myanimelist.net/images/anime/1850/100436.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 垂直世界

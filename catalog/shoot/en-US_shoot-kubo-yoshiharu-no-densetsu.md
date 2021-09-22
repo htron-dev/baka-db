@@ -1,5 +1,7 @@
 # Shoot! Kubo Yoshiharu no Densetsu
 
+![shoot-kubo-yoshiharu-no-densetsu](https://cdn.myanimelist.net/images/manga/3/39179.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: シュート! 久保嘉晴の伝説

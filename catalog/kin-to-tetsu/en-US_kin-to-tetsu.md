@@ -1,5 +1,7 @@
 # Kin to Tetsu
 
+![kin-to-tetsu](https://cdn.myanimelist.net/images/manga/2/247867.jpg)
+
 -   **type**: manga
 -   **original-name**: 菌と鉄
 -   **start-date**: 2021-03-09

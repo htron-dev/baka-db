@@ -1,5 +1,7 @@
 # Sakurairo no Replica
 
+![sakurairo-no-replica](https://cdn.myanimelist.net/images/manga/3/200333.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Goshujinsama to Wanko
 
+![goshujinsama-to-wanko](https://cdn.myanimelist.net/images/manga/2/47101.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

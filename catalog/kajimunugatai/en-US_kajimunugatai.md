@@ -1,5 +1,7 @@
 # Kajimunugatai
 
+![kajimunugatai](https://cdn.myanimelist.net/images/manga/3/20182.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

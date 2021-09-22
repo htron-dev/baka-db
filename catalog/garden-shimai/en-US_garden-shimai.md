@@ -1,5 +1,7 @@
 # Garden Shimai
 
+![garden-shimai](https://cdn.myanimelist.net/images/manga/3/150476.jpg)
+
 -   **type**: manga
 -   **original-name**: がーでん姉妹
 -   **start-date**: 2012-01-17

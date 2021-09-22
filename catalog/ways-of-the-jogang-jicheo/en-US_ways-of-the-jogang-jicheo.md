@@ -1,5 +1,7 @@
 # Ways of the Jogang Jicheo
 
+![ways-of-the-jogang-jicheo](https://cdn.myanimelist.net/images/manga/2/32269.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 12
 -   **chapters**: 53

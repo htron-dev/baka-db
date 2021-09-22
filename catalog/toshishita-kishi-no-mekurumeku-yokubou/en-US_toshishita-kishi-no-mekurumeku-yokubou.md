@@ -1,5 +1,7 @@
 # Toshishita Kishi no Mekurumeku Yokubou
 
+![toshishita-kishi-no-mekurumeku-yokubou](https://cdn.myanimelist.net/images/manga/2/192205.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

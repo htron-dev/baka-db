@@ -1,5 +1,7 @@
 # Puttsun Make Love
 
+![puttsun-make-love](https://cdn.myanimelist.net/images/manga/3/160911.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 109

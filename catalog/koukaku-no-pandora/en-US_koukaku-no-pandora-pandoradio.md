@@ -1,5 +1,7 @@
 # Koukaku no Pandora: Pandoradio
 
+![koukaku-no-pandora-pandoradio](https://cdn.myanimelist.net/images/anime/1495/92705.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: パンドラジオ

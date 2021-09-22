@@ -1,5 +1,7 @@
 # Momo e no Tegami
 
+![momo-e-no-tegami](https://cdn.myanimelist.net/images/manga/2/84145.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

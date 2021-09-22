@@ -1,5 +1,7 @@
 # Ubume no Natsu
 
+![ubume-no-natsu](https://cdn.myanimelist.net/images/manga/1/120947.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 10

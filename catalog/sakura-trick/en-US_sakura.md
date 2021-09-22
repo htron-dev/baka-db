@@ -1,5 +1,7 @@
 # Sakura
 
+![sakura](https://cdn.myanimelist.net/images/manga/1/155104.jpg)
+
 -   **type**: manga
 -   **original-name**: SAKURA
 -   **start-date**: 2014-01-27

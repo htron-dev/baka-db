@@ -1,5 +1,7 @@
 # Nage Yari no Yoru
 
+![nage-yari-no-yoru](https://cdn.myanimelist.net/images/manga/1/6381.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

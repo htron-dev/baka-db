@@ -1,5 +1,7 @@
 # Uchuu Icchokusen
 
+![uchuu-icchokusen](https://cdn.myanimelist.net/images/anime/2/55543.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 宇宙一直線

@@ -1,5 +1,7 @@
 # 3-byougo ni wa, Hoshigari no Kiss
 
+![3-byougo-ni-wa-hoshigari-no-kiss](https://cdn.myanimelist.net/images/manga/1/135447.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

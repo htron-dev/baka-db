@@ -1,5 +1,7 @@
 # Little Twins
 
+![little-twins](https://cdn.myanimelist.net/images/anime/11/68009.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: リトルツインズ

@@ -1,5 +1,7 @@
 # Rin to Cheer.
 
+![rin-to-cheer](https://cdn.myanimelist.net/images/manga/1/204913.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 38

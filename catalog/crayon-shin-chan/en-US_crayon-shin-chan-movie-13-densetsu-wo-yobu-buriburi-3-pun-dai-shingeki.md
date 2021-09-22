@@ -1,5 +1,7 @@
 # Crayon Shin-chan Movie 13: Densetsu wo Yobu Buriburi 3 Pun Dai Shingeki
 
+![crayon-shin-chan-movie-13-densetsu-wo-yobu-buriburi-3-pun-dai-shingeki](https://cdn.myanimelist.net/images/anime/6/22029.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 クレヨンしんちゃん　伝説を呼ぶ　ブリブリ　３分ポッキリ大進撃

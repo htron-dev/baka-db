@@ -1,5 +1,7 @@
 # Layton Kyouju to Yukai na Jiken
 
+![layton-kyouju-to-yukai-na-jiken](https://cdn.myanimelist.net/images/manga/2/79907.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 42

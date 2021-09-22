@@ -1,5 +1,7 @@
 # Tokyo Ghoul:re
 
+![tokyo-ghoul-re](https://cdn.myanimelist.net/images/manga/3/145997.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 181

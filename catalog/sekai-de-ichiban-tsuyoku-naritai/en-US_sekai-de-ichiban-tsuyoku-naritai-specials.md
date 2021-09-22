@@ -1,5 +1,7 @@
 # Sekai de Ichiban Tsuyoku Naritai! Specials
 
+![sekai-de-ichiban-tsuyoku-naritai-specials](https://cdn.myanimelist.net/images/anime/7/55775.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 世界でいちばん強くなりたい!

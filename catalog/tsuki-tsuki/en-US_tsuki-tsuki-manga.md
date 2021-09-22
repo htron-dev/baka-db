@@ -1,5 +1,7 @@
 # Tsuki Tsuki!
 
+![tsuki-tsuki](https://cdn.myanimelist.net/images/manga/1/178399.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 43

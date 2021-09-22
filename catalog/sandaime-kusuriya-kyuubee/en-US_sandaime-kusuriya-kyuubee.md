@@ -1,5 +1,7 @@
 # Sandaime Kusuriya Kyuubee
 
+![sandaime-kusuriya-kyuubee](https://cdn.myanimelist.net/images/manga/2/176262.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

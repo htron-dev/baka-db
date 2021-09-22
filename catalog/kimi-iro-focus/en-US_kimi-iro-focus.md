@@ -1,5 +1,7 @@
 # Kimi-iro Focus
 
+![kimi-iro-focus](https://cdn.myanimelist.net/images/manga/2/61661.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 40

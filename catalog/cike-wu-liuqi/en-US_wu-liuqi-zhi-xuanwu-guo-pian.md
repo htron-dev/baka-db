@@ -1,5 +1,7 @@
 # Wu Liuqi Zhi Xuanwu Guo Pian
 
+![wu-liuqi-zhi-xuanwu-guo-pian](https://cdn.myanimelist.net/images/anime/1884/111224.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 伍六七之玄武国篇

@@ -1,5 +1,7 @@
 # Kitakubu Katsudou Kiroku
 
+![kitakubu-katsudou-kiroku](https://cdn.myanimelist.net/images/anime/9/59639.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 帰宅部活動記録

@@ -1,5 +1,7 @@
 # Mahou no Tenshi Creamy Mami
 
+![mahou-no-tenshi-creamy-mami](https://cdn.myanimelist.net/images/manga/3/13216.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 魔法の天使クリィミーマミ

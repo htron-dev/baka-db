@@ -1,5 +1,7 @@
 # Alice-tachi no Hyouhon
 
+![alice-tachi-no-hyouhon](https://cdn.myanimelist.net/images/manga/1/216067.jpg)
+
 -   **type**: manga
 -   **original-name**: アリスたちの標本
 -   **start-date**: 2018-10-19

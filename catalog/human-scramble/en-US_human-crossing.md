@@ -1,5 +1,7 @@
 # Human Crossing
 
+![human-crossing](https://cdn.myanimelist.net/images/anime/10/13113.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 人間交差点

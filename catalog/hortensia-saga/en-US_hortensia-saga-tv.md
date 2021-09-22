@@ -1,5 +1,7 @@
 # Hortensia Saga (TV)
 
+![hortensia-saga-tv](https://cdn.myanimelist.net/images/anime/1558/113940.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: オルタンシア・サーガ

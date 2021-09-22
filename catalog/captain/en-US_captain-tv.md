@@ -1,5 +1,7 @@
 # Captain (TV)
 
+![captain-tv](https://cdn.myanimelist.net/images/anime/1393/92204.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: キャプテン
@@ -24,4 +26,4 @@ The original is an impressive sports manga featuring not heroes, but common boys
 -   [Official Site](http://www.eiken-anime.jp/works/works028.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7085)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1236)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Captain_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Captain_%28manga%29)

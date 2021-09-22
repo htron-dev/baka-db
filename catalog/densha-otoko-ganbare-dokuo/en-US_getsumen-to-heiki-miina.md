@@ -1,5 +1,7 @@
 # Getsumen to Heiki Miina
 
+![getsumen-to-heiki-miina](https://cdn.myanimelist.net/images/manga/1/84143.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

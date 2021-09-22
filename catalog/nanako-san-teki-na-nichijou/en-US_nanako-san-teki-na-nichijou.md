@@ -1,5 +1,7 @@
 # Nanako-san-teki na Nichijou
 
+![nanako-san-teki-na-nichijou](https://cdn.myanimelist.net/images/manga/1/117775.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 38

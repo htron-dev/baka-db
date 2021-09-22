@@ -1,5 +1,7 @@
 # Nemurenu Yoru wa Knock Shite
 
+![nemurenu-yoru-wa-knock-shite](https://cdn.myanimelist.net/images/manga/1/16893.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

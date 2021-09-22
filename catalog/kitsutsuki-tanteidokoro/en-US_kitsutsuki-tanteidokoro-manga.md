@@ -1,5 +1,7 @@
 # Kitsutsuki Tanteidokoro
 
+![kitsutsuki-tanteidokoro](https://cdn.myanimelist.net/images/manga/2/231244.jpg)
+
 -   **type**: manga
 -   **original-name**: 啄木鳥探偵處
 -   **start-date**: 2020-06-05

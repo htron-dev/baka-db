@@ -1,5 +1,7 @@
 # Riajuu-kun to Doutei-kun
 
+![riajuu-kun-to-doutei-kun](https://cdn.myanimelist.net/images/manga/2/72229.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Dokuhime no Hitsugi
 
+![dokuhime-no-hitsugi](https://cdn.myanimelist.net/images/manga/1/233395.jpg)
+
 -   **type**: manga
 -   **original-name**: 毒姫の棺
 -   **start-date**: 2017-04-13

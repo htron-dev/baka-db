@@ -1,5 +1,7 @@
 # Only You: Tobenai Tsubasa
 
+![only-you-tobenai-tsubasa](https://cdn.myanimelist.net/images/manga/3/167965.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 32

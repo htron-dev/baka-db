@@ -1,5 +1,7 @@
 # Aa! Megami-sama! Movie
 
+![aa-megami-sama-movie](https://cdn.myanimelist.net/images/anime/5/71211.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版　ああっ女神さまっ

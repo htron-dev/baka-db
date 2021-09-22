@@ -1,5 +1,7 @@
 # Ayakashi Koi Kitan
 
+![ayakashi-koi-kitan](https://cdn.myanimelist.net/images/manga/3/112307.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

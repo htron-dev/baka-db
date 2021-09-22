@@ -1,5 +1,7 @@
 # Dungeon ga Omotta yori mo Fukakute Doushiyoumonai node Akiramete Onnanoko wo Kudoiteiku Koto ni Shita
 
+![dungeon-ga-omotta-yori-mo-fukakute-doushiyoumonai-node-akiramete-onnanoko-wo-kudoiteiku-koto-ni-shita](https://cdn.myanimelist.net/images/manga/1/217238.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 7

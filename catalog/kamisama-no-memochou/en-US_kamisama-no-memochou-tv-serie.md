@@ -1,5 +1,7 @@
 # Kamisama no Memochou
 
+![kamisama-no-memochou](https://cdn.myanimelist.net/images/anime/13/75202.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 神様のメモ帳

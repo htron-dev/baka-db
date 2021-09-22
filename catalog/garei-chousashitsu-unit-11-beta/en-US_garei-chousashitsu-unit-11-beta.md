@@ -1,5 +1,7 @@
 # Garei Chousashitsu Unit 11-Beta
 
+![garei-chousashitsu-unit-11-beta](https://cdn.myanimelist.net/images/manga/1/162852.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 10

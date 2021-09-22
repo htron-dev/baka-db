@@ -1,5 +1,7 @@
 # Skirt no Naka wa Kedamono Deshita.
 
+![skirt-no-naka-wa-kedamono-deshita](https://cdn.myanimelist.net/images/anime/4/86647.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: スカートの中はケダモノでした。

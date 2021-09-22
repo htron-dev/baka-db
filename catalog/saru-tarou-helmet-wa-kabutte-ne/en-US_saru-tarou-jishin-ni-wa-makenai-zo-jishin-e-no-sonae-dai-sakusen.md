@@ -1,5 +1,7 @@
 # Saru Tarou Jishin ni wa Makenai zo!: Jishin e no Sonae Dai Sakusen
 
+![saru-tarou-jishin-ni-wa-makenai-zo-jishin-e-no-sonae-dai-sakusen](https://cdn.myanimelist.net/images/anime/9/68941.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: サル太郎 地震には負けないぞ！ ～地震への備え大作戦～

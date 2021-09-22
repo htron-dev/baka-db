@@ -1,5 +1,7 @@
 # 101-ninme no Alice
 
+![101-ninme-no-alice](https://cdn.myanimelist.net/images/manga/3/150999.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: 101 人目のアリス

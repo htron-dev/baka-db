@@ -1,5 +1,7 @@
 # Kokuhaku wo Request
 
+![kokuhaku-wo-request](https://cdn.myanimelist.net/images/manga/1/165023.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 告白をリクエスト

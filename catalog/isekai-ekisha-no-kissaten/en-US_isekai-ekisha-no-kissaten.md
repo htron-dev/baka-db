@@ -1,5 +1,7 @@
 # Isekai Ekisha no Kissaten
 
+![isekai-ekisha-no-kissaten](https://cdn.myanimelist.net/images/manga/2/223069.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 29

@@ -1,5 +1,7 @@
 # Mobile Suit Gundam: Twilight Axis - Akaki Zan-ei
 
+![mobile-suit-gundam-twilight-axis-akaki-zan-ei](https://cdn.myanimelist.net/images/anime/1858/108497.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 機動戦士ガンダム Twilight AXIS 赤き残影

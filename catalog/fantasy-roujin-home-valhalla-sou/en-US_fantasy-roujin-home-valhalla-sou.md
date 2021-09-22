@@ -1,5 +1,7 @@
 # Fantasy Roujin Home Valhalla-sou
 
+![fantasy-roujin-home-valhalla-sou](https://cdn.myanimelist.net/images/manga/2/235142.jpg)
+
 -   **type**: manga
 -   **original-name**: ファンタジー老人ホームばるはら荘
 -   **start-date**: 2019-04-25

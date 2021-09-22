@@ -1,5 +1,7 @@
 # Koutei-tsuki Nyokan wa Hanayome toshite Nozomarechuu
 
+![koutei-tsuki-nyokan-wa-hanayome-toshite-nozomarechuu](https://cdn.myanimelist.net/images/manga/3/234660.jpg)
+
 -   **type**: manga
 -   **original-name**: 皇帝つき女官は花嫁として望まれ中
 -   **start-date**: 2019-05-17

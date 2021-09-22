@@ -1,5 +1,7 @@
 # Junjou Ookami-san to Kohitsuji-kun
 
+![junjou-ookami-san-to-kohitsuji-kun](https://cdn.myanimelist.net/images/manga/2/98559.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

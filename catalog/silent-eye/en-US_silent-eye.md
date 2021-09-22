@@ -1,5 +1,7 @@
 # Silent Eye
 
+![silent-eye](https://cdn.myanimelist.net/images/manga/1/24679.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: サイレントアイ

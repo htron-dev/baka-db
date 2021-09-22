@@ -1,5 +1,7 @@
 # Sorenara Isso Koi ni Nare
 
+![sorenara-isso-koi-ni-nare](https://cdn.myanimelist.net/images/manga/2/121719.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

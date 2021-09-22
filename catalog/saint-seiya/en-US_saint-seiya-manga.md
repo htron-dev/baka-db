@@ -1,5 +1,7 @@
 # Saint Seiya
 
+![saint-seiya](https://cdn.myanimelist.net/images/manga/5/155914.jpg)
+
 -   **type**: manga
 -   **volumes**: 28
 -   **chapters**: 110

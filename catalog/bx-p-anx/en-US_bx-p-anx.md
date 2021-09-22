@@ -1,5 +1,7 @@
 # BxP Anx
 
+![bx-p-anx](https://cdn.myanimelist.net/images/manga/1/157236.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

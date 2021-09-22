@@ -1,5 +1,7 @@
 # Dia Horizon
 
+![dia-horizon](https://cdn.myanimelist.net/images/anime/7/87292.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: ディア ホライゾン

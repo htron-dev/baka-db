@@ -1,5 +1,7 @@
 # Bokura no
 
+![bokura-no](https://cdn.myanimelist.net/images/anime/1690/97048.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ぼくらの

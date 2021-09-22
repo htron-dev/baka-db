@@ -1,5 +1,7 @@
 # Kitto Kawaii Onnanoko Dakara
 
+![kitto-kawaii-onnanoko-dakara](https://cdn.myanimelist.net/images/manga/3/152913.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

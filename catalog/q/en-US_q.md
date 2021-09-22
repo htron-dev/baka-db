@@ -1,5 +1,7 @@
 # Q
 
+![q](https://cdn.myanimelist.net/images/manga/2/125681.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

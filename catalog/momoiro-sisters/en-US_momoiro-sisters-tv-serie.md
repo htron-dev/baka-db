@@ -1,5 +1,7 @@
 # Momoiro Sisters
 
+![momoiro-sisters](https://cdn.myanimelist.net/images/anime/7/15422.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ももいろシスターズ

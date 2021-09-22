@@ -1,5 +1,7 @@
 # Ganbare!! Tabuchi-kun!! Gekitou Pennant Race
 
+![ganbare-tabuchi-kun-gekitou-pennant-race](https://cdn.myanimelist.net/images/anime/1446/96591.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: がんばれ!!タブチくん!! 激闘ペナントレース

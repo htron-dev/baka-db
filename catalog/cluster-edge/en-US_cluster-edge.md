@@ -1,5 +1,7 @@
 # Cluster Edge
 
+![cluster-edge](https://cdn.myanimelist.net/images/anime/1980/103243.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: CLUSTER EDGE（クラスターエッジ）

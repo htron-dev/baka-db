@@ -1,5 +1,7 @@
 # Lion to Hanayome
 
+![lion-to-hanayome](https://cdn.myanimelist.net/images/manga/2/193707.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Otoko Hime to Mahou no Lamp
 
+![otoko-hime-to-mahou-no-lamp](https://cdn.myanimelist.net/images/manga/5/6575.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Tokyo Yaban no Chizu
 
+![tokyo-yaban-no-chizu](https://cdn.myanimelist.net/images/manga/2/191.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

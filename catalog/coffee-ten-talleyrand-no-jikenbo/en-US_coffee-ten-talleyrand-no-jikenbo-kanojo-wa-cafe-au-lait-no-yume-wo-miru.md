@@ -1,5 +1,7 @@
 # Coffee-ten Talleyrand no Jikenbo: Kanojo wa Café au Lait no Yume wo Miru
 
+![coffee-ten-talleyrand-no-jikenbo-kanojo-wa-cafe-au-lait-no-yume-wo-miru](https://cdn.myanimelist.net/images/manga/2/202003.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

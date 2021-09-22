@@ -1,5 +1,7 @@
 # Tales of the Rays: Everlasting Destiny
 
+![tales-of-the-rays-everlasting-destiny](https://cdn.myanimelist.net/images/anime/1732/98432.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: テイルズ オブ ザ レイズ フェアリーズ レクイエム

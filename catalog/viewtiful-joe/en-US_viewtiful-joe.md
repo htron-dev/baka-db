@@ -1,5 +1,7 @@
 # Viewtiful Joe
 
+![viewtiful-joe](https://cdn.myanimelist.net/images/anime/1/278.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: ビューティフル ジョー
@@ -28,4 +30,4 @@ Joe follows her into the mysterious "Movieland," and is granted a powerful devic
 -   [Official Site](http://www.tv-tokyo.co.jp/anime/vj/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2611)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4325)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Viewtiful_Joe_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Viewtiful_Joe_%28anime%29)

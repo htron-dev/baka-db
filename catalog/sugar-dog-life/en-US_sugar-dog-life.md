@@ -1,5 +1,7 @@
 # Sugar Dog Life
 
+![sugar-dog-life](https://cdn.myanimelist.net/images/manga/3/236489.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Kirakira Shougakusei Celeb-chan Specials
 
+![kirakira-shougakusei-celeb-chan-specials](https://cdn.myanimelist.net/images/anime/1695/105713.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: キラキラ小学生 セレブちゃん

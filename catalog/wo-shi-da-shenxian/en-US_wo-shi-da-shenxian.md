@@ -1,5 +1,7 @@
 # Wo Shi Da Shenxian
 
+![wo-shi-da-shenxian](https://cdn.myanimelist.net/images/anime/1255/110963.jpg)
+
 -   **type**: ona
 -   **episodes**: 16
 -   **original-name**: 我是大神仙

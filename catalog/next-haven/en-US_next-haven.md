@@ -1,5 +1,7 @@
 # Next Haven
 
+![next-haven](https://cdn.myanimelist.net/images/manga/3/162721.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

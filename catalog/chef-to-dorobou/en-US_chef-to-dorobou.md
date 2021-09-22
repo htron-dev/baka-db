@@ -1,5 +1,7 @@
 # Chef to Dorobou
 
+![chef-to-dorobou](https://cdn.myanimelist.net/images/manga/1/170100.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: シェフと泥棒

@@ -1,5 +1,7 @@
 # Rental Magica from Solomon
 
+![rental-magica-from-solomon](https://cdn.myanimelist.net/images/manga/3/11102.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

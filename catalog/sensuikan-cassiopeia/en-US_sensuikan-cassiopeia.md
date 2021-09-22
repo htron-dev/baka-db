@@ -1,5 +1,7 @@
 # Sensuikan Cassiopeia
 
+![sensuikan-cassiopeia](https://cdn.myanimelist.net/images/anime/3/71301.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 潜水艦カシオペア

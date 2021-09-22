@@ -1,5 +1,7 @@
 # Sekai Meisaku Douwa Series
 
+![sekai-meisaku-douwa-series](https://cdn.myanimelist.net/images/anime/12/71937.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 4
 -   **original-name**: 世界名作童話シリーズ
@@ -12,7 +14,6 @@
 -   adventure
 -   fantasy
 -   historical
-
 -   magic
 -   supernatural
 

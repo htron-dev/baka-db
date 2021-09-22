@@ -1,5 +1,7 @@
 # Koukou Kyuuji Zawa-san
 
+![koukou-kyuuji-zawa-san](https://cdn.myanimelist.net/images/manga/2/118405.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 201

@@ -1,5 +1,7 @@
 # Samugari ni Yuki
 
+![samugari-ni-yuki](https://cdn.myanimelist.net/images/manga/2/245459.jpg)
+
 -   **type**: manga
 -   **original-name**: 寒がりに雪
 -   **start-date**: 2020-01-20

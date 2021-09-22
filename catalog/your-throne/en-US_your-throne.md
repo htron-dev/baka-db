@@ -1,5 +1,7 @@
 # Your Throne
 
+![your-throne](https://cdn.myanimelist.net/images/manga/1/236523.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 하루만 네가 되고 싶어
 -   **start-date**: 2020-01-07

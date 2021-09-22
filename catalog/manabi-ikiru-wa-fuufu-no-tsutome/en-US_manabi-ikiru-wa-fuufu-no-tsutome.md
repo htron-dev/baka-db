@@ -1,5 +1,7 @@
 # Manabi Ikiru wa Fuufu no Tsutome
 
+![manabi-ikiru-wa-fuufu-no-tsutome](https://cdn.myanimelist.net/images/manga/2/227144.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 学び生きるは夫婦のつとめ

@@ -1,5 +1,7 @@
 # Accel World/Dural: Magisa Garden
 
+![accel-world-dural-magisa-garden](https://cdn.myanimelist.net/images/manga/1/153862.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 62

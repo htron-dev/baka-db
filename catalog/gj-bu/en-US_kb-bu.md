@@ -1,5 +1,7 @@
 # KB-bu
 
+![kb-bu](https://cdn.myanimelist.net/images/manga/3/226696.jpg)
+
 -   **type**: light-novel
 -   **original-name**: KB 部
 -   **start-date**: 2018-06-25

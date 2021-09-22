@@ -1,5 +1,7 @@
 # Crimson no Meikyuu
 
+![crimson-no-meikyuu](https://cdn.myanimelist.net/images/manga/5/122335.jpg)
+
 -   **type**: manga
 -   **original-name**: クリムゾンの迷宮
 -   **start-date**: 2013-01-26

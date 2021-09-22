@@ -1,5 +1,7 @@
 # Gyakuten Saiban: Sono "Shinjitsu", Igi Ari!
 
+![gyakuten-saiban-sono-shinjitsu-igi-ari](https://cdn.myanimelist.net/images/anime/5/79448.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 逆転裁判 ～その「真実」、異議あり！～
@@ -30,4 +32,4 @@ Gyakuten Saiban: Sono "Shinjitsu", Igi Ari! follows Ryuuichi as he tackles cases
 -   [Official Site](http://www.ytv.co.jp/animegyakuten/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11598)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17948)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Ace_Attorney_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Ace_Attorney_%28anime%29)

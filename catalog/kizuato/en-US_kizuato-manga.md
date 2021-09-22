@@ -1,5 +1,7 @@
 # Kizuato
 
+![kizuato](https://cdn.myanimelist.net/images/manga/2/164701.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 痕

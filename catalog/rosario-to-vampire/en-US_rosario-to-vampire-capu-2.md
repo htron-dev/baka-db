@@ -1,5 +1,7 @@
 # Rosario to Vampire Capu2
 
+![rosario-to-vampire-capu-2](https://cdn.myanimelist.net/images/anime/6/25093.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ロザリオとバンパイア Capu2

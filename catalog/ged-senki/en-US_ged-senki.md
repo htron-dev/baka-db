@@ -1,5 +1,7 @@
 # Ged Senki
 
+![ged-senki](https://cdn.myanimelist.net/images/anime/5/73443.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ゲド戦記

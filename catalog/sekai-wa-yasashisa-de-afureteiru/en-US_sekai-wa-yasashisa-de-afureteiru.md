@@ -1,5 +1,7 @@
 # Sekai wa Yasashisa de Afureteiru
 
+![sekai-wa-yasashisa-de-afureteiru](https://cdn.myanimelist.net/images/manga/2/189231.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

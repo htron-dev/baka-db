@@ -1,5 +1,7 @@
 # Black Jack Alive
 
+![black-jack-alive](https://cdn.myanimelist.net/images/manga/2/25334.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 22

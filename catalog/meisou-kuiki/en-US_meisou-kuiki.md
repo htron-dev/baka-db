@@ -1,5 +1,7 @@
 # Meisou Kuiki
 
+![meisou-kuiki](https://cdn.myanimelist.net/images/manga/2/157495.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Midare Somenishi
 
+![midare-somenishi](https://cdn.myanimelist.net/images/manga/2/25500.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

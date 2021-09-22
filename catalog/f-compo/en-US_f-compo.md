@@ -1,5 +1,7 @@
 # F. Compo
 
+![f-compo](https://cdn.myanimelist.net/images/manga/2/55751.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 102

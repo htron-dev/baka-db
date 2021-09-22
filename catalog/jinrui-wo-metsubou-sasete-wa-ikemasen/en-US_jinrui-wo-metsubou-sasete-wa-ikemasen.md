@@ -1,5 +1,7 @@
 # Jinrui wo Metsubou sasete wa Ikemasen
 
+![jinrui-wo-metsubou-sasete-wa-ikemasen](https://cdn.myanimelist.net/images/manga/1/244404.jpg)
+
 -   **type**: manga
 -   **original-name**: 人類を滅亡させてはいけません
 -   **start-date**: 2020-09-11

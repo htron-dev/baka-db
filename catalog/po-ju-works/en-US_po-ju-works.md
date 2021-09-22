@@ -1,5 +1,7 @@
 # Po-ju Works
 
+![po-ju-works](https://cdn.myanimelist.net/images/manga/2/31091.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

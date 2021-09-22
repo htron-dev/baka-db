@@ -1,5 +1,7 @@
 # Ryoku Tama Shinshi
 
+![ryoku-tama-shinshi](https://cdn.myanimelist.net/images/anime/8/79386.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 緑玉紳士

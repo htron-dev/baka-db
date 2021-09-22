@@ -1,5 +1,7 @@
 # Onaji Tsuki wo Miteiru
 
+![onaji-tsuki-wo-miteiru](https://cdn.myanimelist.net/images/manga/2/179533.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 77

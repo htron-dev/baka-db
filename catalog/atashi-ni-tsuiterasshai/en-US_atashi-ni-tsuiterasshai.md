@@ -1,5 +1,7 @@
 # Atashi ni Tsuiterasshai
 
+![atashi-ni-tsuiterasshai](https://cdn.myanimelist.net/images/manga/1/9976.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: あたしについてらっしゃい

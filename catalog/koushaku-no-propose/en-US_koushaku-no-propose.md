@@ -1,5 +1,7 @@
 # Koushaku no Propose
 
+![koushaku-no-propose](https://cdn.myanimelist.net/images/manga/3/230088.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 公爵のプロポーズ

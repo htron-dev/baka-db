@@ -1,5 +1,7 @@
 # Passion Fruit no Kaori Tsuki
 
+![passion-fruit-no-kaori-tsuki](https://cdn.myanimelist.net/images/manga/2/153450.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

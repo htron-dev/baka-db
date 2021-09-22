@@ -1,5 +1,7 @@
 # Seifuku x Seifuku x Otokonoko
 
+![seifuku-x-seifuku-x-otokonoko](https://cdn.myanimelist.net/images/manga/1/23636.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Satorare: Usotsuki-tachi no Yuuutsu
 
+![satorare-usotsuki-tachi-no-yuuutsu](https://cdn.myanimelist.net/images/manga/2/215688.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 54

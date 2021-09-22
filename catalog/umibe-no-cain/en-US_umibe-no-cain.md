@@ -1,5 +1,7 @@
 # Umibe no Cain
 
+![umibe-no-cain](https://cdn.myanimelist.net/images/manga/2/142619.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Kyou no Gay Bar
 
+![kyou-no-gay-bar](https://cdn.myanimelist.net/images/manga/1/193871.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Mou Hitori no Marionette
 
+![mou-hitori-no-marionette](https://cdn.myanimelist.net/images/manga/1/127591.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 47

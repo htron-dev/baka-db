@@ -1,5 +1,7 @@
 # Neko Neko Nihonshi
 
+![neko-neko-nihonshi](https://cdn.myanimelist.net/images/anime/5/89585.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 32
 -   **original-name**: ねこねこ日本史
@@ -12,7 +14,6 @@
 
 -   historical
 -   parody
-
 -   samurai
 
 ## Sinopse

@@ -1,5 +1,7 @@
 # Mnemosyne: Mnemosyne no Musume-tachi
 
+![mnemosyne-mnemosyne-no-musume-tachi](https://cdn.myanimelist.net/images/manga/3/17677.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: Mnemosyne －ムネモシュネの娘たち－

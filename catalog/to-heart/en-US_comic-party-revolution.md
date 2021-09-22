@@ -1,5 +1,7 @@
 # Comic Party Revolution
 
+![comic-party-revolution](https://cdn.myanimelist.net/images/anime/4/42713.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: こみっくパーティー Revolution

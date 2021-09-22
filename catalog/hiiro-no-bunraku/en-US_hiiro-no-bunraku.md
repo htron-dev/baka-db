@@ -1,5 +1,7 @@
 # Hiiro no Bunraku
 
+![hiiro-no-bunraku](https://cdn.myanimelist.net/images/manga/1/203486.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

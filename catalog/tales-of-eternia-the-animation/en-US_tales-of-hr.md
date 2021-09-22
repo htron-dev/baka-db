@@ -1,5 +1,7 @@
 # Tales of HR
 
+![tales-of-hr](https://cdn.myanimelist.net/images/anime/1637/93339.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: ているず おぶ HR

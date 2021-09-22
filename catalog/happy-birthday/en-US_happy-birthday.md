@@ -1,5 +1,7 @@
 # Happy Birthday
 
+![happy-birthday](https://cdn.myanimelist.net/images/manga/1/201394.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

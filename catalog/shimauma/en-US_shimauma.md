@@ -1,5 +1,7 @@
 # Shimauma
 
+![shimauma](https://cdn.myanimelist.net/images/manga/3/165573.jpg)
+
 -   **type**: manga
 -   **original-name**: シマウマ
 -   **start-date**: 2010-07-26

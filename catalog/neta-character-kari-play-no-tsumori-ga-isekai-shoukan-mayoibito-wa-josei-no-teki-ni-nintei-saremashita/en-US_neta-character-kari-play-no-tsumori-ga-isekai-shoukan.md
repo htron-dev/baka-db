@@ -1,5 +1,7 @@
 # Neta Character Kari Play no Tsumori ga Isekai Shoukan
 
+![neta-character-kari-play-no-tsumori-ga-isekai-shoukan](https://cdn.myanimelist.net/images/manga/1/235774.jpg)
+
 -   **type**: manga
 -   **original-name**: ネタキャラ仮プレイのつもりが異世界召喚
 -   **start-date**: 2019-12-23

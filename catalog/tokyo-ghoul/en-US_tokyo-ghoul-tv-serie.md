@@ -1,5 +1,7 @@
 # Tokyo Ghoul
 
+![tokyo-ghoul](https://cdn.myanimelist.net/images/anime/5/64449.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 東京喰種-トーキョーグール-

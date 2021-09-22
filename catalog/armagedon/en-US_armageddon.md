@@ -1,5 +1,7 @@
 # Armageddon
 
+![armageddon](https://cdn.myanimelist.net/images/anime/3/8745.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 아마게돈

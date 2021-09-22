@@ -1,5 +1,7 @@
 # Mujuuryoku Shounen
 
+![mujuuryoku-shounen](https://cdn.myanimelist.net/images/manga/5/2106.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

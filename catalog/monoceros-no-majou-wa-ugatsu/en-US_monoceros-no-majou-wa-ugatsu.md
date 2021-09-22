@@ -1,5 +1,7 @@
 # Monoceros no Majou wa Ugatsu
 
+![monoceros-no-majou-wa-ugatsu](https://cdn.myanimelist.net/images/manga/1/163007.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 30

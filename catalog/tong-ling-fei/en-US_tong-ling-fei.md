@@ -1,5 +1,7 @@
 # Tong Ling Fei
 
+![tong-ling-fei](https://cdn.myanimelist.net/images/anime/1066/103049.jpg)
+
 -   **type**: ona
 -   **episodes**: 16
 -   **original-name**: 通灵妃

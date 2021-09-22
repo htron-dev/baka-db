@@ -1,5 +1,7 @@
 # Kami no Manimani!
 
+![kami-no-manimani](https://cdn.myanimelist.net/images/manga/1/164390.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 神のまにまに！

@@ -1,5 +1,7 @@
 # Migawari no Niizuma wa Hakushaku no Te de Amaku Saezuru
 
+![migawari-no-niizuma-wa-hakushaku-no-te-de-amaku-saezuru](https://cdn.myanimelist.net/images/manga/2/193849.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

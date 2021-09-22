@@ -1,5 +1,7 @@
 # Tensai Gekai ga Isekai de Yami Isha wo Hajimemashita.
 
+![tensai-gekai-ga-isekai-de-yami-isha-wo-hajimemashita](https://cdn.myanimelist.net/images/manga/2/174057.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 天才外科医が異世界で闇医者を始めました。
 -   **start-date**: 2016-01-30

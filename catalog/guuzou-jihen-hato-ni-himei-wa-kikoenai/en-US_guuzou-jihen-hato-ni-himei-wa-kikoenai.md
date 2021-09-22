@@ -1,5 +1,7 @@
 # Guuzou Jihen: Hato ni Himei wa Kikoenai
 
+![guuzou-jihen-hato-ni-himei-wa-kikoenai](https://cdn.myanimelist.net/images/manga/2/195210.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

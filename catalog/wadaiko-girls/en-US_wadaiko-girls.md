@@ -1,5 +1,7 @@
 # Wadaiko†Girls
 
+![wadaiko-girls](https://cdn.myanimelist.net/images/manga/1/135031.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

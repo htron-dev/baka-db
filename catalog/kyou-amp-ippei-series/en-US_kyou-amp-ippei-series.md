@@ -1,5 +1,7 @@
 # Kyou &amp; Ippei Series
 
+![kyou-amp-ippei-series](https://cdn.myanimelist.net/images/manga/1/41257.jpg)
+
 -   **type**: manga
 -   **original-name**: 京&一平シリーズ
 

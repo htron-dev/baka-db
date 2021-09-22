@@ -1,5 +1,7 @@
 # Light Novel
 
+![light-novel](https://cdn.myanimelist.net/images/manga/5/41215.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

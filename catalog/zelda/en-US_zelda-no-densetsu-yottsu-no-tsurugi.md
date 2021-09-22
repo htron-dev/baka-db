@@ -1,5 +1,7 @@
 # Zelda no Densetsu: Yottsu no Tsurugi+
 
+![zelda-no-densetsu-yottsu-no-tsurugi](https://cdn.myanimelist.net/images/manga/2/126031.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

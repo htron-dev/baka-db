@@ -1,5 +1,7 @@
 # Hametsu no Kanojo
 
+![hametsu-no-kanojo](https://cdn.myanimelist.net/images/manga/2/241241.jpg)
+
 -   **type**: manga
 -   **original-name**: 破滅のカノジョ
 -   **start-date**: 2021-01-22

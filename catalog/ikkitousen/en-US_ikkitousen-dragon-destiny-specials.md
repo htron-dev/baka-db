@@ -1,5 +1,7 @@
 # Ikkitousen: Dragon Destiny Specials
 
+![ikkitousen-dragon-destiny-specials](https://cdn.myanimelist.net/images/anime/13/89207.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 一騎当千 Dragon Destiny

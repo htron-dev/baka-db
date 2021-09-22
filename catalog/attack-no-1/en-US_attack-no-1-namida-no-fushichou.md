@@ -1,5 +1,7 @@
 # Attack No.1: Namida no Fushichou
 
+![attack-no-1-namida-no-fushichou](https://cdn.myanimelist.net/images/anime/3/25377.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アタック No.1 涙の不死鳥

@@ -1,5 +1,7 @@
 # NEET no Shoujo (17) ni Jikyuu 650-en de Level-age saseteiru Online
 
+![neet-no-shoujo-17-ni-jikyuu-650-en-de-level-age-saseteiru-online](https://cdn.myanimelist.net/images/manga/1/241256.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 17

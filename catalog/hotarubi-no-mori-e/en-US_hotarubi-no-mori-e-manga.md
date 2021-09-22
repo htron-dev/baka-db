@@ -1,5 +1,7 @@
 # Hotarubi no Mori e
 
+![hotarubi-no-mori-e](https://cdn.myanimelist.net/images/manga/3/6325.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

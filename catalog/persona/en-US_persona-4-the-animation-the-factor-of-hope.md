@@ -1,5 +1,7 @@
 # Persona 4 the Animation: The Factor of Hope
 
+![persona-4-the-animation-the-factor-of-hope](https://cdn.myanimelist.net/images/anime/3/50415.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ペルソナ 4 the Animation -the Factor of Hope-

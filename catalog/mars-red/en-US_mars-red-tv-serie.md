@@ -1,5 +1,7 @@
 # Mars Red
 
+![mars-red](https://cdn.myanimelist.net/images/anime/1212/113448.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: MARS RED

@@ -1,5 +1,7 @@
 # Odosareta Aijin
 
+![odosareta-aijin](https://cdn.myanimelist.net/images/manga/3/229696.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 脅された愛人

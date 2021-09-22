@@ -1,5 +1,7 @@
 # Blood Lad: Kanketsu Kinen
 
+![blood-lad-kanketsu-kinen](https://cdn.myanimelist.net/images/anime/11/83781.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 『ブラッドラッド』完結記念 PV

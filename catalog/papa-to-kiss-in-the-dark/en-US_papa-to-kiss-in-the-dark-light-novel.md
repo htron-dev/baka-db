@@ -1,5 +1,7 @@
 # Papa to Kiss in the Dark
 
+![papa-to-kiss-in-the-dark](https://cdn.myanimelist.net/images/manga/1/39785.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: パパと KISS IN THE DARK

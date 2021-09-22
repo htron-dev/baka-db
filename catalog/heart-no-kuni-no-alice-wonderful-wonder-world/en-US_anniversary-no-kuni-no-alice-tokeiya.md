@@ -1,5 +1,7 @@
 # Anniversary no Kuni no Alice: Tokeiya
 
+![anniversary-no-kuni-no-alice-tokeiya](https://cdn.myanimelist.net/images/manga/1/31380.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

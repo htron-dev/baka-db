@@ -1,5 +1,7 @@
 # Kami no Shitone ni Saku Hiai
 
+![kami-no-shitone-ni-saku-hiai](https://cdn.myanimelist.net/images/manga/3/213786.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

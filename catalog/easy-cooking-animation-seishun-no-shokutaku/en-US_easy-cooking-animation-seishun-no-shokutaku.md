@@ -1,5 +1,7 @@
 # Easy Cooking Animation: Seishun no Shokutaku
 
+![easy-cooking-animation-seishun-no-shokutaku](https://cdn.myanimelist.net/images/anime/2/53779.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: EASY COOKING ANIMATION セイシュンの食卓

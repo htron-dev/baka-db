@@ -1,5 +1,7 @@
 # Taiyou no Makibao
 
+![taiyou-no-makibao](https://cdn.myanimelist.net/images/manga/2/192486.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 191

@@ -1,5 +1,7 @@
 # Gokudou-kun
 
+![gokudou-kun](https://cdn.myanimelist.net/images/manga/3/136967.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **original-name**: 極道くん

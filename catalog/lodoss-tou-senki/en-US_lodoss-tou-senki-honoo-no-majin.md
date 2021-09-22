@@ -1,5 +1,7 @@
 # Lodoss-tou Senki: Honoo no Majin
 
+![lodoss-tou-senki-honoo-no-majin](https://cdn.myanimelist.net/images/manga/3/12026.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

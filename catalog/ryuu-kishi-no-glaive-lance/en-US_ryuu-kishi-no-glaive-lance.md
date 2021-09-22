@@ -1,5 +1,7 @@
 # Ryuu Kishi no Glaive Lance
 
+![ryuu-kishi-no-glaive-lance](https://cdn.myanimelist.net/images/manga/1/160937.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Romance no Kusuri
 
+![romance-no-kusuri](https://cdn.myanimelist.net/images/manga/1/42024.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ロマンスの薬

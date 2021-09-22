@@ -1,5 +1,7 @@
 # Daisuki Datta yo, Sensei...
 
+![daisuki-datta-yo-sensei](https://cdn.myanimelist.net/images/manga/1/111769.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

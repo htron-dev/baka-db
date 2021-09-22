@@ -1,5 +1,7 @@
 # Kujakuou: Sengoku Tensei
 
+![kujakuou-sengoku-tensei](https://cdn.myanimelist.net/images/manga/2/144661.jpg)
+
 -   **type**: manga
 -   **original-name**: 孔雀王 ～戦国転生～
 -   **start-date**: 2012-10-26

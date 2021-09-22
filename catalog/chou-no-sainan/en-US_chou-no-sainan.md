@@ -1,5 +1,7 @@
 # Chou no Sainan
 
+![chou-no-sainan](https://cdn.myanimelist.net/images/anime/1097/112112.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 蝶のさいなん

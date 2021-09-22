@@ -1,5 +1,7 @@
 # Survival
 
+![survival](https://cdn.myanimelist.net/images/manga/3/193081.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 119

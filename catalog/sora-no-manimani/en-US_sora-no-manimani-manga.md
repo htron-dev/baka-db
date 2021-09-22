@@ -1,5 +1,7 @@
 # Sora no Manimani
 
+![sora-no-manimani](https://cdn.myanimelist.net/images/manga/3/141107.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 68

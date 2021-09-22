@@ -1,5 +1,7 @@
 # Ouzoushi no Nekkyouai: Coffee wa Mitsugi no Nochi de
 
+![ouzoushi-no-nekkyouai-coffee-wa-mitsugi-no-nochi-de](https://cdn.myanimelist.net/images/manga/3/194211.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

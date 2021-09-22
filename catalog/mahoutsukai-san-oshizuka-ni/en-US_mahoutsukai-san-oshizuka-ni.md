@@ -1,5 +1,7 @@
 # Mahoutsukai-san Oshizuka ni!
 
+![mahoutsukai-san-oshizuka-ni](https://cdn.myanimelist.net/images/manga/2/16834.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 魔法使いさんおしずかに!

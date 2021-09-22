@@ -1,5 +1,7 @@
 # Kuro Bara Alice
 
+![kuro-bara-alice](https://cdn.myanimelist.net/images/manga/3/150123.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 27

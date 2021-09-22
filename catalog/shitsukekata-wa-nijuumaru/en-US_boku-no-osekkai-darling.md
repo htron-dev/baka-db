@@ -1,5 +1,7 @@
 # Boku no Osekkai Darling
 
+![boku-no-osekkai-darling](https://cdn.myanimelist.net/images/manga/1/223487.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

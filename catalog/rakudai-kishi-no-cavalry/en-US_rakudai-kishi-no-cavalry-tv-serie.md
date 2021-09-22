@@ -1,5 +1,7 @@
 # Rakudai Kishi no Cavalry
 
+![rakudai-kishi-no-cavalry](https://cdn.myanimelist.net/images/anime/9/76493.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 落第騎士の英雄譚《キャバルリィ》

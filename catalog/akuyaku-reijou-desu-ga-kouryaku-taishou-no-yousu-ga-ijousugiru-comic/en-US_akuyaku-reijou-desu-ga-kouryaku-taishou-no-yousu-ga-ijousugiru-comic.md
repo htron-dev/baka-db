@@ -1,5 +1,7 @@
 # Akuyaku Reijou desu ga Kouryaku Taishou no Yousu ga Ijousugiru @comic
 
+![akuyaku-reijou-desu-ga-kouryaku-taishou-no-yousu-ga-ijousugiru-comic](https://cdn.myanimelist.net/images/manga/2/243964.jpg)
+
 -   **type**: manga
 -   **original-name**: 悪役令嬢ですが攻略対象の様子が異常すぎる＠COMIC
 -   **start-date**: 2020-12-03

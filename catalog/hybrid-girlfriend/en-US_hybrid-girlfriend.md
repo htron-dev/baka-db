@@ -1,5 +1,7 @@
 # Hybrid Girlfriend
 
+![hybrid-girlfriend](https://cdn.myanimelist.net/images/manga/3/203687.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 25

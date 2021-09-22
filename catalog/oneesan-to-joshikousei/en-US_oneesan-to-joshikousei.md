@@ -1,5 +1,7 @@
 # Oneesan to Joshikousei
 
+![oneesan-to-joshikousei](https://cdn.myanimelist.net/images/manga/3/223850.jpg)
+
 -   **type**: manga
 -   **original-name**: オネエさんと女子高生
 -   **start-date**: 2016-11-24

@@ -1,5 +1,7 @@
 # Cock Robin wo Korosu no wa
 
+![cock-robin-wo-korosu-no-wa](https://cdn.myanimelist.net/images/manga/1/59589.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

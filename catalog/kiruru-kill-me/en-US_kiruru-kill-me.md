@@ -1,5 +1,7 @@
 # Kiruru Kill Me
 
+![kiruru-kill-me](https://cdn.myanimelist.net/images/manga/2/242292.jpg)
+
 -   **type**: manga
 -   **original-name**: きるる KILL ME
 -   **start-date**: 2020-02-23

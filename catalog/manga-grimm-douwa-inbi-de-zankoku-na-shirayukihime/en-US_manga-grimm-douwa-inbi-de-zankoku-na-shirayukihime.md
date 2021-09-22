@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Inbi de Zankoku na Shirayukihime
 
+![manga-grimm-douwa-inbi-de-zankoku-na-shirayukihime](https://cdn.myanimelist.net/images/manga/3/139209.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

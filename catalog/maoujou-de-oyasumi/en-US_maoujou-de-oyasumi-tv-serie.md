@@ -1,5 +1,7 @@
 # Maoujou de Oyasumi
 
+![maoujou-de-oyasumi](https://cdn.myanimelist.net/images/anime/1448/108514.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 魔王城でおやすみ

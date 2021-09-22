@@ -1,5 +1,7 @@
 # Nagai Aida Kimi wo Mite Ita
 
+![nagai-aida-kimi-wo-mite-ita](https://cdn.myanimelist.net/images/manga/3/73467.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

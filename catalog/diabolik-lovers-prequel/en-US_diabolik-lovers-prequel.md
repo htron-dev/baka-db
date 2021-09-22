@@ -1,5 +1,7 @@
 # Diabolik Lovers: Prequel
 
+![diabolik-lovers-prequel](https://cdn.myanimelist.net/images/manga/1/85747.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

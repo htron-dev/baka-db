@@ -1,5 +1,7 @@
 # Sayonara Watashi no Cramer
 
+![sayonara-watashi-no-cramer](https://cdn.myanimelist.net/images/manga/1/182482.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 55

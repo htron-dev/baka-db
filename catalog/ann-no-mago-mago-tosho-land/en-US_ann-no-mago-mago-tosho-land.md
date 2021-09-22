@@ -1,5 +1,7 @@
 # Ann no MagoMago Tosho Land
 
+![ann-no-mago-mago-tosho-land](https://cdn.myanimelist.net/images/manga/2/160093.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

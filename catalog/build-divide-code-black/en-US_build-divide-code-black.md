@@ -1,5 +1,7 @@
 # Build Divide: Code Black
 
+![build-divide-code-black](https://cdn.myanimelist.net/images/anime/1014/117452.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ビルディバイド -#000000(コードブラック)-
 -   **start-date**: 2021-10-20

@@ -1,5 +1,7 @@
 # Glorious Dawn: Eyecatch
 
+![glorious-dawn-eyecatch](https://cdn.myanimelist.net/images/manga/2/161778.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

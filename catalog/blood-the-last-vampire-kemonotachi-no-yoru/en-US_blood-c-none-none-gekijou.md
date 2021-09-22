@@ -1,5 +1,7 @@
 # Blood-C: None-None Gekijou
 
+![blood-c-none-none-gekijou](https://cdn.myanimelist.net/images/anime/7/38845.jpg)
+
 -   **type**: ona
 -   **episodes**: 7
 -   **original-name**: のねのね劇場

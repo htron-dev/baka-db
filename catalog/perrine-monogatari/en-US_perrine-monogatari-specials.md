@@ -1,5 +1,7 @@
 # Perrine Monogatari Specials
 
+![perrine-monogatari-specials](https://cdn.myanimelist.net/images/anime/3/44402.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 世界名作劇場 完結版 ペリーヌ物語
@@ -11,7 +13,6 @@
 
 -   drama
 -   historical
-
 -   shoujo
 -   slice-of-life
 

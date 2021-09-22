@@ -1,5 +1,7 @@
 # Spinoza no Umi: Ao no Lifesaver
 
+![spinoza-no-umi-ao-no-lifesaver](https://cdn.myanimelist.net/images/manga/2/206835.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

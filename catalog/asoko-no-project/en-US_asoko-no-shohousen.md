@@ -1,5 +1,7 @@
 # Asoko no Shohousen
 
+![asoko-no-shohousen](https://cdn.myanimelist.net/images/manga/2/151407.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: あそこの処方箋

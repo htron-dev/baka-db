@@ -1,5 +1,7 @@
 # Beelzebub-jou no Okinimesu mama.
 
+![beelzebub-jou-no-okinimesu-mama](https://cdn.myanimelist.net/images/manga/1/173943.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 83

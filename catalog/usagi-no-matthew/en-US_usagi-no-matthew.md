@@ -1,5 +1,7 @@
 # Usagi no Matthew
 
+![usagi-no-matthew](https://cdn.myanimelist.net/images/anime/1003/95068.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: うさぎのマシュー

@@ -1,5 +1,7 @@
 # Kiniro no Yami
 
+![kiniro-no-yami](https://cdn.myanimelist.net/images/manga/2/24290.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

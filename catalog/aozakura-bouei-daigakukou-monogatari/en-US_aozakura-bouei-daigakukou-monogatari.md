@@ -1,5 +1,7 @@
 # Aozakura: Bouei Daigakukou Monogatari
 
+![aozakura-bouei-daigakukou-monogatari](https://cdn.myanimelist.net/images/manga/3/187415.jpg)
+
 -   **type**: manga
 -   **original-name**: あおざくら 防衛大学校物語
 -   **start-date**: 2016-04-27

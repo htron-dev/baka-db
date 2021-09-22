@@ -1,5 +1,7 @@
 # Shounen no Hatsukoi wa Bishoujo ♂ deshita.
 
+![shounen-no-hatsukoi-wa-bishoujo-♂-deshita](https://cdn.myanimelist.net/images/manga/3/221492.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

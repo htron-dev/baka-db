@@ -1,5 +1,7 @@
 # Otonari no Nikushokujuu♥
 
+![otonari-no-nikushokujuu♥](https://cdn.myanimelist.net/images/manga/2/130695.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

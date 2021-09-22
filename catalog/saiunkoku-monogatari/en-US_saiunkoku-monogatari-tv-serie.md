@@ -1,5 +1,7 @@
 # Saiunkoku Monogatari
 
+![saiunkoku-monogatari](https://cdn.myanimelist.net/images/anime/1/957.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: 彩雲国物語

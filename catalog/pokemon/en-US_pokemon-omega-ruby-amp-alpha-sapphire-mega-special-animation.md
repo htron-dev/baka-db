@@ -1,5 +1,7 @@
 # Pokemon Omega Ruby &amp; Alpha Sapphire: Mega Special Animation
 
+![pokemon-omega-ruby-amp-alpha-sapphire-mega-special-animation](https://cdn.myanimelist.net/images/anime/5/70071.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ポケットモンスター オメガルビー・アルファサファイア』 メガスペシャルアニメーション

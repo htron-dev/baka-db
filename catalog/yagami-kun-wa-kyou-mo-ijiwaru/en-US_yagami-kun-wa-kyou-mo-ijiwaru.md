@@ -1,5 +1,7 @@
 # Yagami-kun wa, Kyou mo Ijiwaru.
 
+![yagami-kun-wa-kyou-mo-ijiwaru](https://cdn.myanimelist.net/images/manga/1/186148.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 67

@@ -1,5 +1,7 @@
 # Tailenders
 
+![tailenders](https://cdn.myanimelist.net/images/anime/1485/99932.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: テイルエンダーズ

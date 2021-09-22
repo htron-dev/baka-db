@@ -1,5 +1,7 @@
 # Mobile Suit Gundam NT
 
+![mobile-suit-gundam-nt](https://cdn.myanimelist.net/images/manga/2/227250.jpg)
+
 -   **type**: manga
 -   **original-name**: 機動戦士ガンダム NT〈ナラティブ〉
 -   **start-date**: 2018-11-26

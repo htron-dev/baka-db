@@ -1,5 +1,7 @@
 # Elf Yu Tsukaraba
 
+![elf-yu-tsukaraba](https://cdn.myanimelist.net/images/manga/3/210605.jpg)
+
 -   **type**: manga
 -   **original-name**: エルフ湯つからば
 -   **start-date**: 2016-04-22

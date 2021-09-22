@@ -1,5 +1,7 @@
 # Appleseed Databook
 
+![appleseed-databook](https://cdn.myanimelist.net/images/manga/3/29246.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

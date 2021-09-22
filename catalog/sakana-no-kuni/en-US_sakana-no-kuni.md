@@ -1,5 +1,7 @@
 # Sakana no Kuni
 
+![sakana-no-kuni](https://cdn.myanimelist.net/images/anime/9/84409.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 魚の國

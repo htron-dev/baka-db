@@ -1,5 +1,7 @@
 # Oyasuminasai no Ato wa
 
+![oyasuminasai-no-ato-wa](https://cdn.myanimelist.net/images/manga/1/189427.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

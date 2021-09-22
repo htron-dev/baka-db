@@ -1,5 +1,7 @@
 # Tsuyayaka na Onna
 
+![tsuyayaka-na-onna](https://cdn.myanimelist.net/images/manga/3/150637.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

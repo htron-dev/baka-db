@@ -1,5 +1,7 @@
 # Hakushon Daimaou
 
+![hakushon-daimaou](https://cdn.myanimelist.net/images/anime/12/30200.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: ハクション大魔王

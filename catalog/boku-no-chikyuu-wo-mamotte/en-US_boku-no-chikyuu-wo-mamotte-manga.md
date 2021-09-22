@@ -1,5 +1,7 @@
 # Boku no Chikyuu wo Mamotte
 
+![boku-no-chikyuu-wo-mamotte](https://cdn.myanimelist.net/images/manga/4/176256.jpg)
+
 -   **type**: manga
 -   **volumes**: 21
 -   **chapters**: 138

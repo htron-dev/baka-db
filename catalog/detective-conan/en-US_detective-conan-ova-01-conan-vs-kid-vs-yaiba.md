@@ -1,5 +1,7 @@
 # Detective Conan OVA 01: Conan vs. Kid vs. Yaiba
 
+![detective-conan-ova-01-conan-vs-kid-vs-yaiba](https://cdn.myanimelist.net/images/anime/1518/108529.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン: Conan VS KID VS YAIBA

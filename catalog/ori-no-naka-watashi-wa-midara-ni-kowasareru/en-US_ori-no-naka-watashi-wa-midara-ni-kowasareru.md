@@ -1,5 +1,7 @@
 # Ori no Naka, Watashi wa Midara ni Kowasareru.
 
+![ori-no-naka-watashi-wa-midara-ni-kowasareru](https://cdn.myanimelist.net/images/manga/1/234718.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 29

@@ -1,5 +1,7 @@
 # Mashiro-kun wa Sewa wo Yakitai!
 
+![mashiro-kun-wa-sewa-wo-yakitai](https://cdn.myanimelist.net/images/manga/3/204394.jpg)
+
 -   **type**: manga
 -   **original-name**: ましろくんは世話をやきたいっ！
 -   **start-date**: 2016-09-17

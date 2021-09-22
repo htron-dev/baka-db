@@ -1,5 +1,7 @@
 # Osomatsu-kun: Suika no Hoshi kara Konnichiwa zansu!
 
+![osomatsu-kun-suika-no-hoshi-kara-konnichiwa-zansu](https://cdn.myanimelist.net/images/anime/5/52981.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: おそ松くん スイカの星からこんにちわザンス！

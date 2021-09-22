@@ -1,5 +1,7 @@
 # Body Check
 
+![body-check](https://cdn.myanimelist.net/images/manga/1/7970.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ボディチェック

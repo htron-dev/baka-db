@@ -1,5 +1,7 @@
 # Mitsu x Mitsu Drops
 
+![mitsu-x-mitsu-drops](https://cdn.myanimelist.net/images/manga/2/1032.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 47

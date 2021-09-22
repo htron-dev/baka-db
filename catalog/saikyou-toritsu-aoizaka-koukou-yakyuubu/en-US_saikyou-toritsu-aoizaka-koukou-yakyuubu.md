@@ -1,5 +1,7 @@
 # Saikyou! Toritsu Aoizaka Koukou Yakyuubu
 
+![saikyou-toritsu-aoizaka-koukou-yakyuubu](https://cdn.myanimelist.net/images/manga/1/66037.jpg)
+
 -   **type**: manga
 -   **volumes**: 26
 -   **chapters**: 250

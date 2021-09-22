@@ -1,5 +1,7 @@
 # Overlord: Ple Ple Pleiades - Clementine Toubou-hen
 
+![overlord-ple-ple-pleiades-clementine-toubou-hen](https://cdn.myanimelist.net/images/anime/1874/96290.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: ぷれぷれぷれあです ～クレマンティーヌ逃亡編～

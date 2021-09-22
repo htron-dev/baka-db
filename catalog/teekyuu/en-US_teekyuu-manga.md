@@ -1,5 +1,7 @@
 # Teekyuu
 
+![teekyuu](https://cdn.myanimelist.net/images/manga/2/206682.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 143

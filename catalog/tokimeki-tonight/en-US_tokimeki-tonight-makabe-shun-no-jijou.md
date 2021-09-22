@@ -1,5 +1,7 @@
 # Tokimeki Tonight: Makabe Shun no Jijou
 
+![tokimeki-tonight-makabe-shun-no-jijou](https://cdn.myanimelist.net/images/manga/2/159407.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

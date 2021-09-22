@@ -1,5 +1,7 @@
 # Dekiai Concerto: Onzoushi wa Hanayome wo Sokubaku suru
 
+![dekiai-concerto-onzoushi-wa-hanayome-wo-sokubaku-suru](https://cdn.myanimelist.net/images/manga/3/192712.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 17

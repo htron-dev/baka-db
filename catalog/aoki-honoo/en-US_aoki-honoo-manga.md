@@ -1,5 +1,7 @@
 # Aoki Honoo
 
+![aoki-honoo](https://cdn.myanimelist.net/images/manga/1/37059.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 77

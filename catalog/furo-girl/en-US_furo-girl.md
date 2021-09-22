@@ -1,5 +1,7 @@
 # Furo Girl!
 
+![furo-girl](https://cdn.myanimelist.net/images/manga/1/215158.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 45

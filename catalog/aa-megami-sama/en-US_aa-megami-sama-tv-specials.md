@@ -1,5 +1,7 @@
 # Aa! Megami-sama! (TV) Specials
 
+![aa-megami-sama-tv-specials](https://cdn.myanimelist.net/images/anime/2/17893.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: ああっ女神さまっ

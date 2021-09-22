@@ -1,5 +1,7 @@
 # Yuri SM de Futari no Kimochi wa Tsunagarimasu ka?
 
+![yuri-sm-de-futari-no-kimochi-wa-tsunagarimasu-ka](https://cdn.myanimelist.net/images/manga/3/246822.jpg)
+
 -   **type**: manga
 -   **original-name**: 百合 SM でふたりの気持ちはつながりますか?
 -   **start-date**: 2020-03-22

@@ -1,5 +1,7 @@
 # Silbuster
 
+![silbuster](https://cdn.myanimelist.net/images/manga/1/29626.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: シルバスター

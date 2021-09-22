@@ -1,5 +1,7 @@
 # Chie-chan Funsenki: Jarinko Chie
 
+![chie-chan-funsenki-jarinko-chie](https://cdn.myanimelist.net/images/anime/12/26026.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: チエちゃん奮戦記 じゃりン子チエ

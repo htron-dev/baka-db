@@ -1,5 +1,7 @@
 # 3.3.7 Byooshi!!
 
+![3-3-7-byooshi](https://cdn.myanimelist.net/images/manga/3/191869.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 86

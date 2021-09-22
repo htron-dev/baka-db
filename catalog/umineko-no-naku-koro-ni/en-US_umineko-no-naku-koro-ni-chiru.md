@@ -1,5 +1,7 @@
 # Umineko no Naku Koro ni Chiru
 
+![umineko-no-naku-koro-ni-chiru](https://cdn.myanimelist.net/images/manga/3/185817.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **original-name**: うみねこのなく頃に 散

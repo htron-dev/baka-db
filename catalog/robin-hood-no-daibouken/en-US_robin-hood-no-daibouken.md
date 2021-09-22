@@ -1,5 +1,7 @@
 # Robin Hood no Daibouken
 
+![robin-hood-no-daibouken](https://cdn.myanimelist.net/images/anime/8/73494.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: ロビンフッドの大冒険

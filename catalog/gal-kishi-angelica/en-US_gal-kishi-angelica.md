@@ -1,5 +1,7 @@
 # Gal Kishi Angelica
 
+![gal-kishi-angelica](https://cdn.myanimelist.net/images/manga/2/221809.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

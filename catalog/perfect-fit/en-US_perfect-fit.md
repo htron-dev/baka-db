@@ -1,5 +1,7 @@
 # Perfect Fit
 
+![perfect-fit](https://cdn.myanimelist.net/images/manga/2/239307.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

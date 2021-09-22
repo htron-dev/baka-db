@@ -1,5 +1,7 @@
 # War-Lock Princess: Sensougoroshi no Himegimi to Rokunin no Kashin-tachi
 
+![war-lock-princess-sensougoroshi-no-himegimi-to-rokunin-no-kashin-tachi](https://cdn.myanimelist.net/images/manga/3/181432.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ウォーロック・プリンセス 戦争殺しの姫君と六人の家臣たち

@@ -1,5 +1,7 @@
 # Hotarubi no Mori e Aizouban
 
+![hotarubi-no-mori-e-aizouban](https://cdn.myanimelist.net/images/manga/2/224287.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 愛蔵版 蛍火の杜へ

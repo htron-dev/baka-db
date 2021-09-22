@@ -1,5 +1,7 @@
 # Kagaku na Yatsura
 
+![kagaku-na-yatsura](https://cdn.myanimelist.net/images/manga/2/188895.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 36

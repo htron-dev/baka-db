@@ -1,5 +1,7 @@
 # Hangyaku no Kage Tsukai
 
+![hangyaku-no-kage-tsukai](https://cdn.myanimelist.net/images/manga/2/107543.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

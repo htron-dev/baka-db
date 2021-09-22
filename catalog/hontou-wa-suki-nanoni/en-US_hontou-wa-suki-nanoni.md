@@ -1,5 +1,7 @@
 # Hontou wa Suki nanoni
 
+![hontou-wa-suki-nanoni](https://cdn.myanimelist.net/images/manga/3/240682.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

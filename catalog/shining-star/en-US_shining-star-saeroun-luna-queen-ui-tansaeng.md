@@ -1,5 +1,7 @@
 # Shining Star: Saeroun Luna-Queen-ui Tansaeng!
 
+![shining-star-saeroun-luna-queen-ui-tansaeng](https://cdn.myanimelist.net/images/anime/1115/107261.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 샤이닝스타: 새로운 루나퀸의 탄생!

@@ -1,5 +1,7 @@
 # Honorable Baek Dong Soo
 
+![honorable-baek-dong-soo](https://cdn.myanimelist.net/images/manga/3/51323.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 9
 -   **chapters**: 65

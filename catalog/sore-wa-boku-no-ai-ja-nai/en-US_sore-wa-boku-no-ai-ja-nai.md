@@ -1,5 +1,7 @@
 # Sore wa Boku no Ai ja nai
 
+![sore-wa-boku-no-ai-ja-nai](https://cdn.myanimelist.net/images/manga/2/20296.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

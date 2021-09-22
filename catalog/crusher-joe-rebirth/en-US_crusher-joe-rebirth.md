@@ -1,5 +1,7 @@
 # Crusher Joe Rebirth
 
+![crusher-joe-rebirth](https://cdn.myanimelist.net/images/manga/3/211952.jpg)
+
 -   **type**: manga
 -   **original-name**: クラッシャージョウ REBIRTH
 -   **start-date**: 2017-09-12

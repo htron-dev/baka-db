@@ -1,5 +1,7 @@
 # Shinrei Tantei Yakumo
 
+![shinrei-tantei-yakumo](https://cdn.myanimelist.net/images/anime/13/35829.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 心霊探偵 八雲

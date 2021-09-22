@@ -1,5 +1,7 @@
 # Popee the Performer
 
+![popee-the-performer](https://cdn.myanimelist.net/images/anime/1682/110199.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: POPEE the ぱフォーマー

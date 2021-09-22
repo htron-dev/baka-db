@@ -1,5 +1,7 @@
 # Gozen 3-ji no Muhouchitai
 
+![gozen-3-ji-no-muhouchitai](https://cdn.myanimelist.net/images/manga/2/143553.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

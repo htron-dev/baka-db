@@ -1,5 +1,7 @@
 # Neppu Kairiku Bushilord: The Rising
 
+![neppu-kairiku-bushilord-the-rising](https://cdn.myanimelist.net/images/manga/2/23242.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

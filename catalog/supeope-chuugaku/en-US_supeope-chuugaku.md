@@ -1,5 +1,7 @@
 # Supeope Chuugaku
 
+![supeope-chuugaku](https://cdn.myanimelist.net/images/manga/2/11718.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: スペオペ宙学

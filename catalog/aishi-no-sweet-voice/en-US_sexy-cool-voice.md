@@ -1,5 +1,7 @@
 # Sexy Cool Voice
 
+![sexy-cool-voice](https://cdn.myanimelist.net/images/manga/2/19108.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

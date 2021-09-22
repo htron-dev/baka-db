@@ -1,5 +1,7 @@
 # Mitsu-aji Blood: Tale 0
 
+![mitsu-aji-blood-tale-0](https://cdn.myanimelist.net/images/manga/3/125561.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

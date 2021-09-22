@@ -1,5 +1,7 @@
 # Zutto Dokushin de Iru Tsumori?
 
+![zutto-dokushin-de-iru-tsumori](https://cdn.myanimelist.net/images/manga/3/169234.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

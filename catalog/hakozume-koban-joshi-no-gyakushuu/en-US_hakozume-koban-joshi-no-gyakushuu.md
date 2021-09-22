@@ -1,5 +1,7 @@
 # Hakozume: Koban Joshi no Gyakushuu
 
+![hakozume-koban-joshi-no-gyakushuu](https://cdn.myanimelist.net/images/manga/3/209559.jpg)
+
 -   **type**: manga
 -   **original-name**: ハコヅメ ～交番女子の逆襲～
 -   **start-date**: 2017-11-22

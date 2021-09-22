@@ -1,5 +1,7 @@
 # Atelier Petros Joukuu Gekijou: Sentaku Shima no Sentaku Tori
 
+![atelier-petros-joukuu-gekijou-sentaku-shima-no-sentaku-tori](https://cdn.myanimelist.net/images/anime/11/18292.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: atelier petros 上空劇場 ～洗濯島の洗濯鳥～

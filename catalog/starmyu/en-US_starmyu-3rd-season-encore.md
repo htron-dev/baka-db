@@ -1,5 +1,7 @@
 # Starmyu 3rd Season: Encore
 
+![starmyu-3rd-season-encore](https://cdn.myanimelist.net/images/anime/1164/103675.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 高校星歌劇[スタミュ] 第 3 期 特別編 アンコール

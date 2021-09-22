@@ -1,5 +1,7 @@
 # Suki na dake shite......: Mahoutsukai-tachi no Nijigen Yokubou
 
+![suki-na-dake-shite-mahoutsukai-tachi-no-nijigen-yokubou](https://cdn.myanimelist.net/images/manga/1/193721.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Kore wa Ai ja Nai node, Yoroshiku
 
+![kore-wa-ai-ja-nai-node-yoroshiku](https://cdn.myanimelist.net/images/manga/3/192632.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 22

@@ -1,5 +1,7 @@
 # Tsunagareta Yokubou
 
+![tsunagareta-yokubou](https://cdn.myanimelist.net/images/manga/3/173321.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

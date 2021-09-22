@@ -1,5 +1,7 @@
 # Hakkenden: Touhou Hakken Ibun 2nd Season
 
+![hakkenden-touhou-hakken-ibun-2nd-season](https://cdn.myanimelist.net/images/anime/10/50885.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 八犬伝 -東方八犬異聞- 2

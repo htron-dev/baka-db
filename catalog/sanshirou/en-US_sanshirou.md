@@ -1,5 +1,7 @@
 # Sanshirou²
 
+![sanshirou](https://cdn.myanimelist.net/images/manga/5/77121.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **original-name**: 三四郎 2

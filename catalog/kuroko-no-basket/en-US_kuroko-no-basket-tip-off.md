@@ -1,5 +1,7 @@
 # Kuroko no Basket: Tip Off
 
+![kuroko-no-basket-tip-off](https://cdn.myanimelist.net/images/anime/10/76803.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 黒子のバスケ 第 22.5Q 「Tip off」

@@ -1,5 +1,7 @@
 # Egg Car
 
+![egg-car](https://cdn.myanimelist.net/images/anime/1750/102905.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: EGG CAR エッグカー
@@ -12,7 +14,6 @@
 
 -   adventure
 -   comedy
-
 -   fantasy
 
 ## Sinopse

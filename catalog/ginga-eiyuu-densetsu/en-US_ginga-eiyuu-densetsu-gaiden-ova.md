@@ -1,5 +1,7 @@
 # Ginga Eiyuu Densetsu Gaiden
 
+![ginga-eiyuu-densetsu-gaiden](https://cdn.myanimelist.net/images/anime/9/28463.jpg)
+
 -   **type**: ova
 -   **episodes**: 24
 -   **original-name**: 銀河英雄伝説外伝／千億の星、千億の光

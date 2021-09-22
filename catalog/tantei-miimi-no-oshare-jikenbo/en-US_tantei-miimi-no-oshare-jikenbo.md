@@ -1,5 +1,7 @@
 # Tantei Miimi no Oshare Jikenbo
 
+![tantei-miimi-no-oshare-jikenbo](https://cdn.myanimelist.net/images/manga/2/174963.jpg)
+
 -   **type**: manga
 -   **original-name**: 探偵ミーミのおしゃれ事件簿
 -   **start-date**: 2015-03-03

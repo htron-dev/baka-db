@@ -1,5 +1,7 @@
 # Yoru ga Owaranai
 
+![yoru-ga-owaranai](https://cdn.myanimelist.net/images/manga/3/7738.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 夜がおわらない

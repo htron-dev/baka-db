@@ -1,5 +1,7 @@
 # Little Village People
 
+![little-village-people](https://cdn.myanimelist.net/images/anime/1730/109161.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 15
 -   **original-name**: リトルビレッジピープル

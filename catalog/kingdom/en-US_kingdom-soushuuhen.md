@@ -1,5 +1,7 @@
 # Kingdom - Soushuuhen
 
+![kingdom-soushuuhen](https://cdn.myanimelist.net/images/manga/1/99785.jpg)
+
 -   **type**: manga
 -   **original-name**: キングダム総集編
 

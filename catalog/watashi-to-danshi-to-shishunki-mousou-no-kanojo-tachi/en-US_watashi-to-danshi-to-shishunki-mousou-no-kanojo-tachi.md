@@ -1,5 +1,7 @@
 # Watashi to Danshi to Shishunki Mousou no Kanojo-tachi
 
+![watashi-to-danshi-to-shishunki-mousou-no-kanojo-tachi](https://cdn.myanimelist.net/images/manga/1/163888.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 44

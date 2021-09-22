@@ -1,5 +1,7 @@
 # Flying Darwin
 
+![flying-darwin](https://cdn.myanimelist.net/images/manga/1/239587.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: フライング・ダーウィン

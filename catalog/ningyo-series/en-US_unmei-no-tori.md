@@ -1,5 +1,7 @@
 # Unmei no Tori
 
+![unmei-no-tori](https://cdn.myanimelist.net/images/manga/1/109883.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

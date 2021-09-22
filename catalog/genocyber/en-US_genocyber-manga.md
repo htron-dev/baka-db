@@ -1,5 +1,7 @@
 # Genocyber
 
+![genocyber](https://cdn.myanimelist.net/images/manga/2/13389.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

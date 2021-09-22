@@ -1,5 +1,7 @@
 # Ren'ai Shibai Shimasho
 
+![renai-shibai-shimasho](https://cdn.myanimelist.net/images/manga/3/11072.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋愛芝居しましょ

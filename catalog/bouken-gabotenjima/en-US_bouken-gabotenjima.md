@@ -1,5 +1,7 @@
 # Bouken Gabotenjima
 
+![bouken-gabotenjima](https://cdn.myanimelist.net/images/anime/5/20811.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: 冒険ガボテン島

@@ -1,5 +1,7 @@
 # Pururun! Shizuku-chan Aha
 
+![pururun-shizuku-chan-aha](https://cdn.myanimelist.net/images/anime/3/26376.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: ぷるるんっ! しずくちゃんあはっ ☆

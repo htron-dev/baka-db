@@ -1,5 +1,7 @@
 # Jujutsu Kaisen: Yuku Natsu to Kaeru Aki
 
+![jujutsu-kaisen-yuku-natsu-to-kaeru-aki](https://cdn.myanimelist.net/images/manga/3/244856.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

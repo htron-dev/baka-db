@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Minami no Umi wo Sukue!
 
+![sore-ike-anpanman-minami-no-umi-wo-sukue](https://cdn.myanimelist.net/images/anime/4/56227.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: それいけ! アンパンマン みなみの海をすくえ!

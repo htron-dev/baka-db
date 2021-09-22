@@ -1,5 +1,7 @@
 # Oscar's Oasis
 
+![oscars-oasis](https://cdn.myanimelist.net/images/anime/3/80375.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 78
 -   **original-name**: 오스카의 오아시스

@@ -1,5 +1,7 @@
 # Clockwork Planet
 
+![clockwork-planet](https://cdn.myanimelist.net/images/manga/2/160737.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 51

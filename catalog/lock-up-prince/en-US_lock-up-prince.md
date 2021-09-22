@@ -1,5 +1,7 @@
 # Lock Up Prince
 
+![lock-up-prince](https://cdn.myanimelist.net/images/manga/2/222504.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Precure Super Stars! Movie
 
+![precure-super-stars-movie](https://cdn.myanimelist.net/images/anime/4/89920.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画プリキュアスーパースターズ!

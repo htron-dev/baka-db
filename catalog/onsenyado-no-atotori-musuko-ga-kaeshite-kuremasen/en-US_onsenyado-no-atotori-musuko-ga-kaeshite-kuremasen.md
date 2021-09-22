@@ -1,5 +1,7 @@
 # Onsenyado no Atotori Musuko ga Kaeshite Kuremasen!
 
+![onsenyado-no-atotori-musuko-ga-kaeshite-kuremasen](https://cdn.myanimelist.net/images/manga/2/246909.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

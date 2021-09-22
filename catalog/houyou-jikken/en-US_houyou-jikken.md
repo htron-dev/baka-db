@@ -1,5 +1,7 @@
 # Houyou Jikken
 
+![houyou-jikken](https://cdn.myanimelist.net/images/manga/4/103379.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

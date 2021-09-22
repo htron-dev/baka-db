@@ -1,5 +1,7 @@
 # Boku to Akumu to Oneesan
 
+![boku-to-akumu-to-oneesan](https://cdn.myanimelist.net/images/manga/3/236761.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

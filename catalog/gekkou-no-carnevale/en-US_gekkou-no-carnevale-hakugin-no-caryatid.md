@@ -1,5 +1,7 @@
 # Gekkou no Carnevale: Hakugin no Caryatid
 
+![gekkou-no-carnevale-hakugin-no-caryatid](https://cdn.myanimelist.net/images/manga/1/171814.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 7

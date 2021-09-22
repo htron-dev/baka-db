@@ -1,5 +1,7 @@
 # Aka to Kuro
 
+![aka-to-kuro](https://cdn.myanimelist.net/images/manga/1/200786.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

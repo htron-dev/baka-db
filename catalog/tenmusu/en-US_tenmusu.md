@@ -1,5 +1,7 @@
 # Tenmusu
 
+![tenmusu](https://cdn.myanimelist.net/images/manga/1/211009.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 90

@@ -1,5 +1,7 @@
 # Ore no Imouto ga Konnani Kawaii Wake ga Nai Comic Anthology
 
+![ore-no-imouto-ga-konnani-kawaii-wake-ga-nai-comic-anthology](https://cdn.myanimelist.net/images/manga/5/93841.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

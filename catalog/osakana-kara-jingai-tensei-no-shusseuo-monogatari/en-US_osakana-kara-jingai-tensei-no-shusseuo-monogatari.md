@@ -1,5 +1,7 @@
 # Osakana kara Jingai Tensei no Shusseuo Monogatari
 
+![osakana-kara-jingai-tensei-no-shusseuo-monogatari](https://cdn.myanimelist.net/images/manga/3/196920.jpg)
+
 -   **type**: light-novel
 -   **original-name**: お魚から人外転生の出世魚物語
 -   **start-date**: 2017-06-23

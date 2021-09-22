@@ -1,5 +1,7 @@
 # Melo Neko - Neko Manga Anthology
 
+![melo-neko-neko-manga-anthology](https://cdn.myanimelist.net/images/manga/3/118095.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

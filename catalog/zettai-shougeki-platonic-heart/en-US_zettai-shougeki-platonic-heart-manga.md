@@ -1,5 +1,7 @@
 # Zettai Shougeki: Platonic Heart
 
+![zettai-shougeki-platonic-heart](https://cdn.myanimelist.net/images/manga/2/106219.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

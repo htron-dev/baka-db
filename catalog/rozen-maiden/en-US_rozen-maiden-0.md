@@ -1,5 +1,7 @@
 # Rozen Maiden 0
 
+![rozen-maiden-0](https://cdn.myanimelist.net/images/manga/3/187214.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

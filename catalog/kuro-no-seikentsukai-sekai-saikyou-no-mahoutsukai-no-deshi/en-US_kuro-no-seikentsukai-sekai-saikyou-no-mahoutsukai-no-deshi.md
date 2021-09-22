@@ -1,5 +1,7 @@
 # Kuro no Seikentsukai: Sekai Saikyou no Mahoutsukai no Deshi
 
+![kuro-no-seikentsukai-sekai-saikyou-no-mahoutsukai-no-deshi](https://cdn.myanimelist.net/images/manga/2/199715.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 42

@@ -1,5 +1,7 @@
 # Momoiro♥Otoko no Ko
 
+![momoiro♥-otoko-no-ko](https://cdn.myanimelist.net/images/manga/2/147799.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

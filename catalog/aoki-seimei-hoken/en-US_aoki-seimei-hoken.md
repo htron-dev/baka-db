@@ -1,5 +1,7 @@
 # Aoki Seimei Hoken
 
+![aoki-seimei-hoken](https://cdn.myanimelist.net/images/anime/9/75957.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 青木生命保険 CM

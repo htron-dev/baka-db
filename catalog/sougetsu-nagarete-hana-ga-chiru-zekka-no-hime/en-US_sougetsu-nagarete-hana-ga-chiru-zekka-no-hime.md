@@ -1,5 +1,7 @@
 # Sougetsu Nagarete Hana ga Chiru: Zekka no Hime
 
+![sougetsu-nagarete-hana-ga-chiru-zekka-no-hime](https://cdn.myanimelist.net/images/manga/1/182456.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

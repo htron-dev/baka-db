@@ -1,5 +1,7 @@
 # Pokemon: Pikachu to Eievui Friends
 
+![pokemon-pikachu-to-eievui-friends](https://cdn.myanimelist.net/images/anime/9/44900.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ピカチュウとイーブイフレンズ

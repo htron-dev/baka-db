@@ -1,5 +1,7 @@
 # Shintaku Gakuen no Transcender
 
+![shintaku-gakuen-no-transcender](https://cdn.myanimelist.net/images/manga/3/161029.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 神託学園の超越者〈トランセンダー〉

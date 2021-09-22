@@ -1,5 +1,7 @@
 # Minamission!
 
+![minamission](https://cdn.myanimelist.net/images/manga/1/149087.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 27

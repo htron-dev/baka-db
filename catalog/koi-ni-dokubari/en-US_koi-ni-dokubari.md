@@ -1,5 +1,7 @@
 # Koi ni Dokubari
 
+![koi-ni-dokubari](https://cdn.myanimelist.net/images/manga/3/221711.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

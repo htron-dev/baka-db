@@ -1,5 +1,7 @@
 # Gekijouban Mahou Shoujo Madoka★Magica: Shinpen - Hangyaku no Monogatari
 
+![gekijouban-mahou-shoujo-madoka★-magica-shinpen-hangyaku-no-monogatari](https://cdn.myanimelist.net/images/manga/3/107535.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 9

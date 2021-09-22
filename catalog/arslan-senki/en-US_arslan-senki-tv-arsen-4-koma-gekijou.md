@@ -1,5 +1,7 @@
 # Arslan Senki (TV): Arsen 4-koma Gekijou
 
+![arslan-senki-tv-arsen-4-koma-gekijou](https://cdn.myanimelist.net/images/anime/7/74496.jpg)
+
 -   **type**: special
 -   **episodes**: 8
 -   **original-name**: アルスラーン戦記 アル戦 4 コマ劇場

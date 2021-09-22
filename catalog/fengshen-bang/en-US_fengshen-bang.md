@@ -1,5 +1,7 @@
 # Fengshen Bang
 
+![fengshen-bang](https://cdn.myanimelist.net/images/anime/7/85212.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 封神榜

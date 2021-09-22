@@ -1,5 +1,7 @@
 # Rockman Hoshi ni Negai wo
 
+![rockman-hoshi-ni-negai-wo](https://cdn.myanimelist.net/images/anime/12/30310.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ロックマン星に願いを

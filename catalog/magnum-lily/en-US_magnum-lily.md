@@ -1,5 +1,7 @@
 # Magnum Lily
 
+![magnum-lily](https://cdn.myanimelist.net/images/manga/2/203935.jpg)
+
 -   **type**: manga
 -   **original-name**: マグナムリリィ
 -   **start-date**: 2017-11-19

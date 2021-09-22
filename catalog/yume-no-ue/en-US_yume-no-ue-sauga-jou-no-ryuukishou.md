@@ -1,5 +1,7 @@
 # Yume no Ue: Sauga-jou no Ryuukishou
 
+![yume-no-ue-sauga-jou-no-ryuukishou](https://cdn.myanimelist.net/images/manga/2/127961.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

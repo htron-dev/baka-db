@@ -1,5 +1,7 @@
 # How Are You?
 
+![how-are-you](https://cdn.myanimelist.net/images/manga/3/150071.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ハウアーユー?

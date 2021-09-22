@@ -1,5 +1,7 @@
 # Tanaka no Isekai Nariagari
 
+![tanaka-no-isekai-nariagari](https://cdn.myanimelist.net/images/manga/2/229737.jpg)
+
 -   **type**: manga
 -   **original-name**: タナカの異世界成り上がり
 -   **start-date**: 2018-11-05

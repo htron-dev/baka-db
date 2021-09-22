@@ -1,5 +1,7 @@
 # Allison wa Haitenai
 
+![allison-wa-haitenai](https://cdn.myanimelist.net/images/manga/1/242640.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

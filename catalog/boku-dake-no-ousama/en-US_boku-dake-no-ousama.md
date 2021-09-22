@@ -1,5 +1,7 @@
 # Boku dake no Ousama
 
+![boku-dake-no-ousama](https://cdn.myanimelist.net/images/manga/3/11249.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

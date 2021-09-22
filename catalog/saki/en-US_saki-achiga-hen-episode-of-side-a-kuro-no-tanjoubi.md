@@ -1,5 +1,7 @@
 # Saki Achiga-hen: Episode of Side-A - Kuro no Tanjoubi
 
+![saki-achiga-hen-episode-of-side-a-kuro-no-tanjoubi](https://cdn.myanimelist.net/images/anime/9/72495.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 咲-Saki-阿知賀編 episode of side-A ショートオリジナルアニメ「玄の誕生日」

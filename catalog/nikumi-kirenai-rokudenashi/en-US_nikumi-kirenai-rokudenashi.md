@@ -1,5 +1,7 @@
 # Nikumi Kirenai Rokudenashi
 
+![nikumi-kirenai-rokudenashi](https://cdn.myanimelist.net/images/manga/3/6786.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Hokenshitsu no Kageyama-kun
 
+![hokenshitsu-no-kageyama-kun](https://cdn.myanimelist.net/images/manga/2/200235.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

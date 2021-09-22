@@ -1,5 +1,7 @@
 # Yakyuu de Sensou suru Isekai de Chou Koukou-kyuu Ace ga Jakushou Kokka wo Sukuu you desu.
 
+![yakyuu-de-sensou-suru-isekai-de-chou-koukou-kyuu-ace-ga-jakushou-kokka-wo-sukuu-you-desu](https://cdn.myanimelist.net/images/manga/1/240798.jpg)
+
 -   **type**: manga
 -   **original-name**: 野球で戦争する異世界で超高校級エースが弱小国家を救うようです。
 -   **start-date**: 2020-06-11

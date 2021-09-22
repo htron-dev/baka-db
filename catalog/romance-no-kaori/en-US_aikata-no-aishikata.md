@@ -1,5 +1,7 @@
 # Aikata no Aishikata
 
+![aikata-no-aishikata](https://cdn.myanimelist.net/images/manga/3/157233.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

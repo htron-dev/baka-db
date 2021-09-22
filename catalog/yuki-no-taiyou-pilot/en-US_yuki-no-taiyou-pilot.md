@@ -1,5 +1,7 @@
 # Yuki no Taiyou Pilot
 
+![yuki-no-taiyou-pilot](https://cdn.myanimelist.net/images/anime/7/76446.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ユキの太陽

@@ -1,5 +1,7 @@
 # Bicycle 3000
 
+![bicycle-3000](https://cdn.myanimelist.net/images/manga/1/229833.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 9

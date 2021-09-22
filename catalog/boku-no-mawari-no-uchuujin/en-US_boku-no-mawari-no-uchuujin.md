@@ -1,5 +1,7 @@
 # Boku no Mawari no Uchuujin
 
+![boku-no-mawari-no-uchuujin](https://cdn.myanimelist.net/images/manga/1/112951.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

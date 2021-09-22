@@ -1,5 +1,7 @@
 # OidemaSeri
 
+![oidema-seri](https://cdn.myanimelist.net/images/manga/3/180004.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

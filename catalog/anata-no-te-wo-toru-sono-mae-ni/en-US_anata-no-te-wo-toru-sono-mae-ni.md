@@ -1,5 +1,7 @@
 # Anata no Te wo Toru Sono Mae ni
 
+![anata-no-te-wo-toru-sono-mae-ni](https://cdn.myanimelist.net/images/manga/2/220274.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: あなたの手を取るその前に

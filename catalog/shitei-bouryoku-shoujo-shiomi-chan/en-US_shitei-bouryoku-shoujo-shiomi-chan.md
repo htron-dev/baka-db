@@ -1,5 +1,7 @@
 # Shitei Bouryoku Shoujo Shiomi-chan
 
+![shitei-bouryoku-shoujo-shiomi-chan](https://cdn.myanimelist.net/images/manga/3/215826.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

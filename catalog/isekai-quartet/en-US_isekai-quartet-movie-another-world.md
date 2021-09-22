@@ -1,5 +1,7 @@
 # Isekai Quartet Movie: Another World
 
+![isekai-quartet-movie-another-world](https://cdn.myanimelist.net/images/anime/1157/116405.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 異世界かるてっと ～あなざーわーるど～

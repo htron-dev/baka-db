@@ -1,5 +1,7 @@
 # Dame na Yatsu Hodo Kawaii
 
+![dame-na-yatsu-hodo-kawaii](https://cdn.myanimelist.net/images/manga/2/192034.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

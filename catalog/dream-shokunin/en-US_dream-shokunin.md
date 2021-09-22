@@ -1,5 +1,7 @@
 # Dream Shokunin
 
+![dream-shokunin](https://cdn.myanimelist.net/images/manga/2/21124.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ドリーム職人

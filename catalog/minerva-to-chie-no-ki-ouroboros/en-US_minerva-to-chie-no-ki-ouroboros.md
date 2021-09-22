@@ -1,5 +1,7 @@
 # Minerva to Chie no Ki: Ouroboros
 
+![minerva-to-chie-no-ki-ouroboros](https://cdn.myanimelist.net/images/manga/1/164252.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ミネルヴァと智慧の樹―始原〈ウロボロス〉

@@ -1,5 +1,7 @@
 # Usakame Special
 
+![usakame-special](https://cdn.myanimelist.net/images/anime/9/83507.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: うさかめ

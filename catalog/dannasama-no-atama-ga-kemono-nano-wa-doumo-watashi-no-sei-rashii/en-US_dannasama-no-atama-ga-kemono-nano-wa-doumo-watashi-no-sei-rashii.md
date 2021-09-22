@@ -1,5 +1,7 @@
 # Dannasama no Atama ga Kemono nano wa Doumo Watashi no Sei Rashii
 
+![dannasama-no-atama-ga-kemono-nano-wa-doumo-watashi-no-sei-rashii](https://cdn.myanimelist.net/images/manga/1/222518.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 11

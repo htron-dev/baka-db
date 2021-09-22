@@ -1,5 +1,7 @@
 # Romsen SaGa
 
+![romsen-sa-ga](https://cdn.myanimelist.net/images/manga/1/176082.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

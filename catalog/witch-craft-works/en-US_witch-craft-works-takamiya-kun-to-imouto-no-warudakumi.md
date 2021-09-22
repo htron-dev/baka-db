@@ -1,5 +1,7 @@
 # Witch Craft Works: Takamiya-kun to Imouto no Warudakumi
 
+![witch-craft-works-takamiya-kun-to-imouto-no-warudakumi](https://cdn.myanimelist.net/images/anime/1685/112971.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ウィッチクラフトワークス 多華宮君と妹の悪巧み

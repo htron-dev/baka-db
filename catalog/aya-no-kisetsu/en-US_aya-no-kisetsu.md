@@ -1,5 +1,7 @@
 # Aya no Kisetsu
 
+![aya-no-kisetsu](https://cdn.myanimelist.net/images/manga/2/120837.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 49

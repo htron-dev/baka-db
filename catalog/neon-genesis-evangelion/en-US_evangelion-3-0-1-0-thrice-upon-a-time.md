@@ -1,5 +1,7 @@
 # Evangelion: 3.0+1.0 Thrice Upon a Time
 
+![evangelion-3-0-1-0-thrice-upon-a-time](https://cdn.myanimelist.net/images/anime/1422/113533.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: シン・エヴァンゲリオン劇場版:||

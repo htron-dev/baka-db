@@ -1,5 +1,7 @@
 # Otome Game Yattemita.
 
+![otome-game-yattemita](https://cdn.myanimelist.net/images/manga/3/134987.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

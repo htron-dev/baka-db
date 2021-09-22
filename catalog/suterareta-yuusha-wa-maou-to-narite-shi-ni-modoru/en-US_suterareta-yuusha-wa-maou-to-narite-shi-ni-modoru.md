@@ -1,5 +1,7 @@
 # Suterareta Yuusha wa Maou to Narite Shi ni Modoru
 
+![suterareta-yuusha-wa-maou-to-narite-shi-ni-modoru](https://cdn.myanimelist.net/images/manga/1/236225.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 33

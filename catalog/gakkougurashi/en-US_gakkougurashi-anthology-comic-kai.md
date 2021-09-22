@@ -1,5 +1,7 @@
 # Gakkougurashi! Anthology Comic: Kai
 
+![gakkougurashi-anthology-comic-kai](https://cdn.myanimelist.net/images/manga/2/164003.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

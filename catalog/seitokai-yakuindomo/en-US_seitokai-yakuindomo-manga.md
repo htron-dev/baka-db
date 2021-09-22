@@ -1,5 +1,7 @@
 # Seitokai Yakuindomo
 
+![seitokai-yakuindomo](https://cdn.myanimelist.net/images/manga/1/135853.jpg)
+
 -   **type**: manga
 -   **original-name**: 生徒会役員共
 -   **start-date**: 2007-05-19

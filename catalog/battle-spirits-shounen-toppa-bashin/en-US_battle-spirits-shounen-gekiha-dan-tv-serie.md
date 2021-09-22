@@ -1,5 +1,7 @@
 # Battle Spirits: Shounen Gekiha Dan
 
+![battle-spirits-shounen-gekiha-dan](https://cdn.myanimelist.net/images/anime/6/21263.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: バトルスピリッツ 少年激覇ダン

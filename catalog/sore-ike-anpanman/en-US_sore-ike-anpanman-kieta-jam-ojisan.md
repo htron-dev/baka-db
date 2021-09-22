@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Kieta Jam Ojisan
 
+![sore-ike-anpanman-kieta-jam-ojisan](https://cdn.myanimelist.net/images/anime/4/66667.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: それいけ! アンパンマン 消えたジャムおじさん
@@ -9,7 +11,6 @@
 ## Tags
 
 -   adventure
-
 -   fantasy
 
 ## Sinopse

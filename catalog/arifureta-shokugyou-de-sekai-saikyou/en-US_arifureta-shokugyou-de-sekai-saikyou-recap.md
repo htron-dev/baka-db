@@ -1,5 +1,7 @@
 # Arifureta Shokugyou de Sekai Saikyou Recap
 
+![arifureta-shokugyou-de-sekai-saikyou-recap](https://cdn.myanimelist.net/images/anime/1056/102575.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ありふれた職業で世界最強 総集編 オルクス大迷宮

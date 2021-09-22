@@ -1,5 +1,7 @@
 # Maya-san wa Urameshii
 
+![maya-san-wa-urameshii](https://cdn.myanimelist.net/images/manga/3/216124.jpg)
+
 -   **type**: manga
 -   **original-name**: マヤさんはうらめしい
 -   **start-date**: 2018-07-05

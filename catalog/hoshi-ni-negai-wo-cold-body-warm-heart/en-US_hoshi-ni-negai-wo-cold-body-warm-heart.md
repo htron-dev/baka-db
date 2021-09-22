@@ -1,5 +1,7 @@
 # Hoshi ni Negai wo: Cold Body + Warm Heart
 
+![hoshi-ni-negai-wo-cold-body-warm-heart](https://cdn.myanimelist.net/images/anime/2/67065.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 星に願いを COLD BODY + WARM HEART

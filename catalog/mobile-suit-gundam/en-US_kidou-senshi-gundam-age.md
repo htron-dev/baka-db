@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam AGE
 
+![kidou-senshi-gundam-age](https://cdn.myanimelist.net/images/manga/2/161284.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: 機動戦士ガンダムＡＧＥ

@@ -1,5 +1,7 @@
 # V - Egao no Tame ni
 
+![v-egao-no-tame-ni](https://cdn.myanimelist.net/images/manga/1/21652.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

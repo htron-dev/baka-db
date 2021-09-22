@@ -1,5 +1,7 @@
 # Meru Meru Mail
 
+![meru-meru-mail](https://cdn.myanimelist.net/images/manga/2/11941.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

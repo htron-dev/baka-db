@@ -1,5 +1,7 @@
 # Sekaiichi Kawaii Musume ga Ai ni Kimashita yo!
 
+![sekaiichi-kawaii-musume-ga-ai-ni-kimashita-yo](https://cdn.myanimelist.net/images/manga/1/246053.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 世界一可愛い娘が会いに来ましたよ!
 -   **start-date**: 2019-12-25

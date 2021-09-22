@@ -1,5 +1,7 @@
 # Seiheikyuu EX
 
+![seiheikyuu-ex](https://cdn.myanimelist.net/images/manga/3/7116.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 地平球 EX

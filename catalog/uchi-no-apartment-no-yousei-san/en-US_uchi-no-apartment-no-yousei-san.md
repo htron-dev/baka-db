@@ -1,5 +1,7 @@
 # Uchi no Apartment no Yousei-san
 
+![uchi-no-apartment-no-yousei-san](https://cdn.myanimelist.net/images/manga/2/214076.jpg)
+
 -   **type**: manga
 -   **original-name**: うちのアパートの妖精さん
 -   **start-date**: 2017-01-25

@@ -1,5 +1,7 @@
 # Moonrakers
 
+![moonrakers](https://cdn.myanimelist.net/images/anime/11/61635.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ムーンレイカーズ

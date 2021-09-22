@@ -1,5 +1,7 @@
 # Futari no Table
 
+![futari-no-table](https://cdn.myanimelist.net/images/manga/3/124823.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

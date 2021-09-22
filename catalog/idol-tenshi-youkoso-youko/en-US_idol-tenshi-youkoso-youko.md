@@ -1,5 +1,7 @@
 # Idol Tenshi Youkoso Youko
 
+![idol-tenshi-youkoso-youko](https://cdn.myanimelist.net/images/anime/2/9469.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 43
 -   **original-name**: アイドル天使ようこそようこ

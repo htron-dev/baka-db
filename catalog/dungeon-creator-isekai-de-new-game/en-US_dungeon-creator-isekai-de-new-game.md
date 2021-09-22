@@ -1,5 +1,7 @@
 # Dungeon Creator: Isekai de New Game
 
+![dungeon-creator-isekai-de-new-game](https://cdn.myanimelist.net/images/manga/3/198847.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ダンジョンクリエイター ～異世界でニューゲーム～
 -   **start-date**: 2017-06-12

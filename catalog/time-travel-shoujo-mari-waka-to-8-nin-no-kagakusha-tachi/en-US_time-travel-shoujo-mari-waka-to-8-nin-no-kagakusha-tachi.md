@@ -1,5 +1,7 @@
 # Time Travel Shoujo: Mari Waka to 8-nin no Kagakusha-tachi
 
+![time-travel-shoujo-mari-waka-to-8-nin-no-kagakusha-tachi](https://cdn.myanimelist.net/images/anime/11/80679.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: タイムトラベル少女～マリ・ワカと 8 人の科学者たち～

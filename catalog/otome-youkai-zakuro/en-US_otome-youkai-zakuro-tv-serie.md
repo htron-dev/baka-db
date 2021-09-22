@@ -1,5 +1,7 @@
 # Otome Youkai Zakuro
 
+![otome-youkai-zakuro](https://cdn.myanimelist.net/images/anime/5/85430.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: おとめ妖怪 ざくろ

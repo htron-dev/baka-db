@@ -1,5 +1,7 @@
 # Onsen Wakusei
 
+![onsen-wakusei](https://cdn.myanimelist.net/images/manga/1/167381.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

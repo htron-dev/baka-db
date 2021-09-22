@@ -1,5 +1,7 @@
 # Ani ni Tsukeru Kusuri wa Nai! 2
 
+![ani-ni-tsukeru-kusuri-wa-nai-2](https://cdn.myanimelist.net/images/anime/1854/93785.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 兄に付ける薬はない! 2

@@ -1,5 +1,7 @@
 # Strange, Beautiful Tokebi World
 
+![strange-beautiful-tokebi-world](https://cdn.myanimelist.net/images/manga/3/52495.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Koi to Senkyo to Chocolate: Stray Little Cat
 
+![koi-to-senkyo-to-chocolate-stray-little-cat](https://cdn.myanimelist.net/images/manga/2/154464.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 32

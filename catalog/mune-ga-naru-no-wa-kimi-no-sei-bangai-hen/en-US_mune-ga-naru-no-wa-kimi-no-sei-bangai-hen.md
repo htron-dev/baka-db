@@ -1,5 +1,7 @@
 # Mune ga Naru no wa Kimi no Sei Bangai-hen
 
+![mune-ga-naru-no-wa-kimi-no-sei-bangai-hen](https://cdn.myanimelist.net/images/manga/3/164938.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

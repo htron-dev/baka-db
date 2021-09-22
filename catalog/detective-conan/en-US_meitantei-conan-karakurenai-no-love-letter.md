@@ -1,5 +1,7 @@
 # Meitantei Conan: Karakurenai no Love Letter
 
+![meitantei-conan-karakurenai-no-love-letter](https://cdn.myanimelist.net/images/manga/3/240770.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

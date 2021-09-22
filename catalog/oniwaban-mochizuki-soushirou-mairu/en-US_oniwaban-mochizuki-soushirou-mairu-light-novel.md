@@ -1,5 +1,7 @@
 # Oniwaban Mochizuki Soushirou Mairu!
 
+![oniwaban-mochizuki-soushirou-mairu](https://cdn.myanimelist.net/images/manga/3/159971.jpg)
+
 -   **type**: light-novel
 -   **original-name**: お庭番望月蒼司朗参る!
 -   **start-date**: 2008-11-15

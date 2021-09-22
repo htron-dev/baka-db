@@ -1,5 +1,7 @@
 # Tonari no Furi-san ga Tonikaku Kowai.
 
+![tonari-no-furi-san-ga-tonikaku-kowai](https://cdn.myanimelist.net/images/manga/2/220222.jpg)
+
 -   **type**: manga
 -   **original-name**: となりの布里さんがとにかくコワい。
 -   **start-date**: 2018-11-22

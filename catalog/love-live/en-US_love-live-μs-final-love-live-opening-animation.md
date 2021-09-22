@@ -1,5 +1,7 @@
 # Love Live! μ's Final Love Live! Opening Animation
 
+![love-live-μs-final-love-live-opening-animation](https://cdn.myanimelist.net/images/anime/6/88034.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ラブライブ! μ's Final LoveLive! オープニングアニメーション

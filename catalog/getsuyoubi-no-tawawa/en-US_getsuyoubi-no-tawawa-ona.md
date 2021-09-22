@@ -1,5 +1,7 @@
 # Getsuyoubi no Tawawa
 
+![getsuyoubi-no-tawawa](https://cdn.myanimelist.net/images/anime/13/83576.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 月曜日のたわわ

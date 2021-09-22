@@ -1,5 +1,7 @@
 # Shouri no Akuma
 
+![shouri-no-akuma](https://cdn.myanimelist.net/images/manga/2/203161.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

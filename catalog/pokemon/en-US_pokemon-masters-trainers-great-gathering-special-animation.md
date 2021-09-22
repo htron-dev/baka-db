@@ -1,5 +1,7 @@
 # Pokemon Masters: Trainers Great Gathering Special Animation
 
+![pokemon-masters-trainers-great-gathering-special-animation](https://cdn.myanimelist.net/images/anime/1283/102133.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 『ポケモンマスターズ』トレーナー大集結スペシャルアニメーション
@@ -10,7 +12,6 @@
 
 -   action
 -   game
-
 -   fantasy
 
 ## Sinopse

@@ -1,5 +1,7 @@
 # Genki Bakuhatsu Ganbaruger: Hyakka
 
+![genki-bakuhatsu-ganbaruger-hyakka](https://cdn.myanimelist.net/images/anime/1714/94244.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 元気爆発ガンバルガー百科

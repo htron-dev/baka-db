@@ -1,5 +1,7 @@
 # Sango to Ningyo
 
+![sango-to-ningyo](https://cdn.myanimelist.net/images/manga/3/221887.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

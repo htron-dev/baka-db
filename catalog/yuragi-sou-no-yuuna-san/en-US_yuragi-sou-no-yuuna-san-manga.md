@@ -1,5 +1,7 @@
 # Yuragi-sou no Yuuna-san
 
+![yuragi-sou-no-yuuna-san](https://cdn.myanimelist.net/images/manga/3/179022.jpg)
+
 -   **type**: manga
 -   **volumes**: 24
 -   **chapters**: 214

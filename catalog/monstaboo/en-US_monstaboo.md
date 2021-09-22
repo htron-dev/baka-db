@@ -1,5 +1,7 @@
 # Monstaboo
 
+![monstaboo](https://cdn.myanimelist.net/images/manga/2/235184.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

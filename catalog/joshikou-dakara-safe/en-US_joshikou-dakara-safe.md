@@ -1,5 +1,7 @@
 # Joshikou dakara Safe
 
+![joshikou-dakara-safe](https://cdn.myanimelist.net/images/manga/2/235864.jpg)
+
 -   **type**: manga
 -   **original-name**: 女子校だからセーフ
 -   **start-date**: 2019-10-09

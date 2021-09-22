@@ -1,5 +1,7 @@
 # Heion wo Nozomu Madoushi no Heion ja Nai Nichijou
 
+![heion-wo-nozomu-madoushi-no-heion-ja-nai-nichijou](https://cdn.myanimelist.net/images/manga/3/247460.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

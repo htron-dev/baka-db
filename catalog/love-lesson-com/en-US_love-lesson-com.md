@@ -1,5 +1,7 @@
 # Love Lesson.com
 
+![love-lesson-com](https://cdn.myanimelist.net/images/manga/1/154261.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

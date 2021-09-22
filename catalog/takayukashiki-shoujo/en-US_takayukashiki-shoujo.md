@@ -1,5 +1,7 @@
 # Takayukashiki Shoujo
 
+![takayukashiki-shoujo](https://cdn.myanimelist.net/images/manga/3/167048.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 34

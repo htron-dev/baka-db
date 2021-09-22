@@ -1,5 +1,7 @@
 # Kyokou Uranai
 
+![kyokou-uranai](https://cdn.myanimelist.net/images/anime/1422/108679.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 虚構占い

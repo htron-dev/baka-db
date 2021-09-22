@@ -1,5 +1,7 @@
 # Robot Town Sagami 2028
 
+![robot-town-sagami-2028](https://cdn.myanimelist.net/images/anime/11/79763.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: Robot Town Sagami 2028

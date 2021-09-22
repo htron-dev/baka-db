@@ -1,5 +1,7 @@
 # Origami Warriors
 
+![origami-warriors](https://cdn.myanimelist.net/images/anime/5/24902.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 摺紙戰士

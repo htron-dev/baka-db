@@ -1,5 +1,7 @@
 # Moon Spell!!
 
+![moon-spell](https://cdn.myanimelist.net/images/manga/1/162620.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 34

@@ -1,5 +1,7 @@
 # Mujihi na JouJou wa Yoru ni Sasayaku
 
+![mujihi-na-jou-jou-wa-yoru-ni-sasayaku](https://cdn.myanimelist.net/images/manga/3/79739.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 無慈悲な女王は夜に囁く

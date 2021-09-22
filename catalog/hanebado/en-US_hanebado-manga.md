@@ -1,5 +1,7 @@
 # Hanebado!
 
+![hanebado](https://cdn.myanimelist.net/images/manga/3/135083.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 80

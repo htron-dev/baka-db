@@ -1,5 +1,7 @@
 # Noragami Aragoto
 
+![noragami-aragoto](https://cdn.myanimelist.net/images/anime/1689/94850.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ノラガミ ARAGOTO

@@ -1,5 +1,7 @@
 # Angel Onayami Soudanjo
 
+![angel-onayami-soudanjo](https://cdn.myanimelist.net/images/manga/1/172872.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

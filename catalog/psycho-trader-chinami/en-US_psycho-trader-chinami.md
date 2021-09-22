@@ -1,5 +1,7 @@
 # Psycho Trader Chinami
 
+![psycho-trader-chinami](https://cdn.myanimelist.net/images/manga/3/7080.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

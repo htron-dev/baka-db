@@ -1,5 +1,7 @@
 # Bucchou Baby
 
+![bucchou-baby](https://cdn.myanimelist.net/images/manga/1/4035.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

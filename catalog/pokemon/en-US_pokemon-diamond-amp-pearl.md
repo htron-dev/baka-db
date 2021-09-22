@@ -1,5 +1,7 @@
 # Pokemon Diamond &amp; Pearl
 
+![pokemon-diamond-amp-pearl](https://cdn.myanimelist.net/images/anime/13/25749.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 191
 -   **original-name**: ポケットモンスター ダイヤモンド&パール
@@ -14,7 +16,6 @@
 -   action
 -   adventure
 -   comedy
-
 -   fantasy
 
 ## Sinopse
@@ -31,4 +32,4 @@ Still in search for Pikachu, Satoshi notices a powerful electric attack in the d
 -   [Official Site](http://www.tv-tokyo.co.jp/anime/pokemon_dp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4728)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6836)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Pok%C3%A9mon:_Diamond_and_Pearl_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Pok%C3%A9mon:_Diamond_and_Pearl_%28anime%29)

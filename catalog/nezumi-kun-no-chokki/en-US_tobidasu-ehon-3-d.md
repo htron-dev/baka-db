@@ -1,5 +1,7 @@
 # Tobidasu Ehon 3D
 
+![tobidasu-ehon-3-d](https://cdn.myanimelist.net/images/anime/4/63769.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: とびだす絵本 3D

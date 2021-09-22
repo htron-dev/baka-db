@@ -1,5 +1,7 @@
 # Bari-tachi no Ore ga, Jimi Onna ni Tatsu toka Arienee
 
+![bari-tachi-no-ore-ga-jimi-onna-ni-tatsu-toka-arienee](https://cdn.myanimelist.net/images/manga/2/246788.jpg)
+
 -   **type**: manga
 -   **original-name**: バリタチの俺が、地味オンナに勃つとかありえねえ
 -   **start-date**: 2019-09-05

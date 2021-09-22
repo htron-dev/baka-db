@@ -1,5 +1,7 @@
 # Kishin Taisen Gigantic Formula
 
+![kishin-taisen-gigantic-formula](https://cdn.myanimelist.net/images/anime/2/21716.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 機神大戦 ギガンティック・フォーミュラ

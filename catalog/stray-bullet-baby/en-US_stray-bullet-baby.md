@@ -1,5 +1,7 @@
 # Stray Bullet Baby
 
+![stray-bullet-baby](https://cdn.myanimelist.net/images/manga/2/200712.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

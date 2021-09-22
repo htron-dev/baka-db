@@ -1,5 +1,7 @@
 # Puparia
 
+![puparia](https://cdn.myanimelist.net/images/anime/1308/110285.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: PUPARIA

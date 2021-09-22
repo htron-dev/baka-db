@@ -1,5 +1,7 @@
 # Keitai Guuwa
 
+![keitai-guuwa](https://cdn.myanimelist.net/images/manga/2/170040.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 携帯寓話

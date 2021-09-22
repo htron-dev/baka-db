@@ -1,5 +1,7 @@
 # 100-banme no Hitsuji
 
+![100-banme-no-hitsuji](https://cdn.myanimelist.net/images/manga/1/170242.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 100 番目の羊

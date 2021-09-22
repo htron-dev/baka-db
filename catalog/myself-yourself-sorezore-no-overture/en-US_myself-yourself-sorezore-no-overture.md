@@ -1,5 +1,7 @@
 # Myself ; Yourself Sorezore no Overture
 
+![myself-yourself-sorezore-no-overture](https://cdn.myanimelist.net/images/manga/4/23627.jpg)
+
 -   **type**: light-novel
 -   **chapters**: 6
 -   **original-name**: Myself ; Yourself それぞれの Overture

@@ -1,5 +1,7 @@
 # Ice Eagle Fire Hawk
 
+![ice-eagle-fire-hawk](https://cdn.myanimelist.net/images/manga/2/10598.jpg)
+
 -   **type**: manga
 -   **original-name**: アイス・イーグル ファイヤー・ホーク
 

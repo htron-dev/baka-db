@@ -1,5 +1,7 @@
 # Cocomong 2
 
+![cocomong-2](https://cdn.myanimelist.net/images/anime/1489/93097.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 코코몽2

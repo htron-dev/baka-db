@@ -1,5 +1,7 @@
 # Karasu ni Diamond
 
+![karasu-ni-diamond](https://cdn.myanimelist.net/images/manga/3/84791.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

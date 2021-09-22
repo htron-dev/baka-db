@@ -1,5 +1,7 @@
 # Itsuka Aeru Kimi ni
 
+![itsuka-aeru-kimi-ni](https://cdn.myanimelist.net/images/anime/1134/95337.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: いつか会えるキミに

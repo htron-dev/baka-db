@@ -1,5 +1,7 @@
 # Futsutsuka na Yome desu ga!
 
+![futsutsuka-na-yome-desu-ga](https://cdn.myanimelist.net/images/manga/2/174654.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 41

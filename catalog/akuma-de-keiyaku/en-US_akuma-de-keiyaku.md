@@ -1,5 +1,7 @@
 # Akuma de Keiyaku
 
+![akuma-de-keiyaku](https://cdn.myanimelist.net/images/manga/2/64639.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

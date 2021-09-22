@@ -1,5 +1,7 @@
 # Otometic Syndrome
 
+![otometic-syndrome](https://cdn.myanimelist.net/images/manga/2/198447.jpg)
+
 -   **type**: manga
 -   **original-name**: 乙女的〈おとめてぃっく〉シンドローム
 -   **start-date**: 2015-06-14

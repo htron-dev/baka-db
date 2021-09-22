@@ -1,5 +1,7 @@
 # Blue Hole
 
+![blue-hole](https://cdn.myanimelist.net/images/manga/2/118125.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 23

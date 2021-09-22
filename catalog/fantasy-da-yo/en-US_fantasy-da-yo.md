@@ -1,5 +1,7 @@
 # Fantasy da yo!
 
+![fantasy-da-yo](https://cdn.myanimelist.net/images/manga/3/12195.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ファンタジーだよ!

@@ -1,5 +1,7 @@
 # Ultras
 
+![ultras](https://cdn.myanimelist.net/images/manga/1/26598.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

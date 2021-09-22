@@ -1,5 +1,7 @@
 # Shiawase tte Iu no Kana
 
+![shiawase-tte-iu-no-kana](https://cdn.myanimelist.net/images/manga/2/91211.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

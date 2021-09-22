@@ -1,5 +1,7 @@
 # Full Drum
 
+![full-drum](https://cdn.myanimelist.net/images/manga/1/195989.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 45

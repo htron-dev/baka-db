@@ -1,5 +1,7 @@
 # Houkago Saikoro Club
 
+![houkago-saikoro-club](https://cdn.myanimelist.net/images/anime/1035/111624.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 放課後さいころ倶楽部

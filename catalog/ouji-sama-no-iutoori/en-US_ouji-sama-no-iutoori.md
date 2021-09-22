@@ -1,5 +1,7 @@
 # Ouji-sama no Iutoori
 
+![ouji-sama-no-iutoori](https://cdn.myanimelist.net/images/manga/1/37240.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 王子様の言うとおりっ

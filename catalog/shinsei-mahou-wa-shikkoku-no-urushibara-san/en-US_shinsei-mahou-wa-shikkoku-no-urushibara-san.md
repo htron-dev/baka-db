@@ -1,5 +1,7 @@
 # Shinsei Mahou wa Shikkoku no Urushibara-san
 
+![shinsei-mahou-wa-shikkoku-no-urushibara-san](https://cdn.myanimelist.net/images/manga/3/158710.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

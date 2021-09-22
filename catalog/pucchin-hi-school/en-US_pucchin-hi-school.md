@@ -1,5 +1,7 @@
 # Pucchin Hi! School
 
+![pucchin-hi-school](https://cdn.myanimelist.net/images/manga/1/14971.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ぷっちん Hi!School

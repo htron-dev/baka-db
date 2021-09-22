@@ -1,5 +1,7 @@
 # Samurai Flamenco
 
+![samurai-flamenco](https://cdn.myanimelist.net/images/anime/11/54319.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: サムライフラメンコ

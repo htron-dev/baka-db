@@ -1,5 +1,7 @@
 # Tonari no Randsel w
 
+![tonari-no-randsel-w](https://cdn.myanimelist.net/images/manga/1/47901.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

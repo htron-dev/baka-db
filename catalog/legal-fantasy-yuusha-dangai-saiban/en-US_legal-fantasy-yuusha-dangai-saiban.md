@@ -1,5 +1,7 @@
 # Legal Fantasy: Yuusha Dangai Saiban
 
+![legal-fantasy-yuusha-dangai-saiban](https://cdn.myanimelist.net/images/manga/2/168337.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

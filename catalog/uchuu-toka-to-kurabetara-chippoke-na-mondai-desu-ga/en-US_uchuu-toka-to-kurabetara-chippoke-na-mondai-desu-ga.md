@@ -1,5 +1,7 @@
 # Uchuu toka to Kurabetara Chippoke na Mondai desu ga
 
+![uchuu-toka-to-kurabetara-chippoke-na-mondai-desu-ga](https://cdn.myanimelist.net/images/manga/2/235415.jpg)
+
 -   **type**: manga
 -   **original-name**: 宇宙とかと比べたらちっぽけな問題ですが
 -   **start-date**: 2018-11-17

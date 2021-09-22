@@ -1,5 +1,7 @@
 # Kare wa, Ano Ko no Mono
 
+![kare-wa-ano-ko-no-mono](https://cdn.myanimelist.net/images/manga/1/170876.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

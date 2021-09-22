@@ -1,5 +1,7 @@
 # Hayate no Gotoku! Can't Take My Eyes Off You
 
+![hayate-no-gotoku-cant-take-my-eyes-off-you](https://cdn.myanimelist.net/images/anime/10/73952.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ハヤテのごとく! CAN'T TAKE MY EYES OFF YOU

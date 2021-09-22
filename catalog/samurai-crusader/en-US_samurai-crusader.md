@@ -1,5 +1,7 @@
 # Samurai Crusader
 
+![samurai-crusader](https://cdn.myanimelist.net/images/manga/3/4602.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 34

@@ -1,5 +1,7 @@
 # Vigilante
 
+![vigilante](https://cdn.myanimelist.net/images/manga/3/178756.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: ヴィジランテ

@@ -1,5 +1,7 @@
 # Shin Uchuu Senkan Yamato
 
+![shin-uchuu-senkan-yamato](https://cdn.myanimelist.net/images/manga/3/58659.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

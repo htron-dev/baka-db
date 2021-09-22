@@ -1,5 +1,7 @@
 # Black Jack: Futari no Kuroi Isha - Manner Movie
 
+![black-jack-futari-no-kuroi-isha-manner-movie](https://cdn.myanimelist.net/images/anime/7/86690.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ブラック・ジャック ふたりの黒い医者
@@ -23,4 +25,4 @@ Black Jack gets mad at Pinoko, Tezuka himself, and Astro Boy for leaving their c
 -   [Official Site](http://tezukaosamu.net/jp/anime/131.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3506)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5861)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF_(%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1)#.E3.80.8E.E3.83.96.E3.83.A9.E3.83.83.E3.82.AF.E3.83.BB.E3.82.B8.E3.83.A3.E3.83.83.E3.8>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF_%28%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1%29#.E3.80.8E.E3.83.96.E3.83.A9.E3.83.83.E3.82.AF.E3.83.BB.E3.82.B8.E3.83.A3.E3.83.83.E3.8)

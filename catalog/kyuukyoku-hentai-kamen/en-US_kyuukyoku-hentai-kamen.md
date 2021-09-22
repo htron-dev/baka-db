@@ -1,5 +1,7 @@
 # Kyuukyoku!! Hentai Kamen
 
+![kyuukyoku-hentai-kamen](https://cdn.myanimelist.net/images/manga/1/184929.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 60

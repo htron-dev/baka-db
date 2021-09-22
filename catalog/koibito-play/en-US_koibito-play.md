@@ -1,5 +1,7 @@
 # Koibito Play
 
+![koibito-play](https://cdn.myanimelist.net/images/manga/1/177125.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

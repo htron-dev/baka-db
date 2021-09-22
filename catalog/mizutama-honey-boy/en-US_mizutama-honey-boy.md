@@ -1,5 +1,7 @@
 # Mizutama Honey Boy
 
+![mizutama-honey-boy](https://cdn.myanimelist.net/images/manga/1/146137.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 63

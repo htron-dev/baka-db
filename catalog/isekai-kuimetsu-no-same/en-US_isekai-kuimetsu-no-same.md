@@ -1,5 +1,7 @@
 # Isekai Kuimetsu no Same
 
+![isekai-kuimetsu-no-same](https://cdn.myanimelist.net/images/manga/1/246284.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界喰滅のサメ
 -   **start-date**: 2020-10-13

@@ -1,5 +1,7 @@
 # Chuubyou Gekihatsu Boy: Otoko ni Umareta Shukumei Dakara
 
+![chuubyou-gekihatsu-boy-otoko-ni-umareta-shukumei-dakara](https://cdn.myanimelist.net/images/anime/1527/103340.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 厨病激発ボーイ 男に生まれた宿命だから

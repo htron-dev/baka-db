@@ -1,5 +1,7 @@
 # Yuki no Shita no Qualia
 
+![yuki-no-shita-no-qualia](https://cdn.myanimelist.net/images/manga/3/190031.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

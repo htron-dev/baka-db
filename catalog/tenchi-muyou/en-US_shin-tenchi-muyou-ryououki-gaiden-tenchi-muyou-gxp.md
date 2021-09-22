@@ -1,5 +1,7 @@
 # Shin Tenchi Muyou! Ryououki Gaiden: Tenchi Muyou! GXP
 
+![shin-tenchi-muyou-ryououki-gaiden-tenchi-muyou-gxp](https://cdn.myanimelist.net/images/manga/3/237638.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 真・天地無用! 魎皇鬼外伝 天地無用! GXP
 -   **start-date**: 2003-04-19

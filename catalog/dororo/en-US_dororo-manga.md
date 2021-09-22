@@ -1,5 +1,7 @@
 # Dororo
 
+![dororo](https://cdn.myanimelist.net/images/manga/3/175740.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

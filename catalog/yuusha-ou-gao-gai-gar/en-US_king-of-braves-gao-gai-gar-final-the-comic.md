@@ -1,5 +1,7 @@
 # King of Braves GaoGaiGar FINAL the COMIC
 
+![king-of-braves-gao-gai-gar-final-the-comic](https://cdn.myanimelist.net/images/manga/1/20079.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

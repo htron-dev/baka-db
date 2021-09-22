@@ -1,5 +1,7 @@
 # Shishunki Renaissance! David-kun
 
+![shishunki-renaissance-david-kun](https://cdn.myanimelist.net/images/manga/1/215124.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 43

@@ -1,5 +1,7 @@
 # Bokutachi Hoiku-ka Koukou 1-nensei
 
+![bokutachi-hoiku-ka-koukou-1-nensei](https://cdn.myanimelist.net/images/manga/1/205000.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 43

@@ -1,5 +1,7 @@
 # Shinonome Yuuko Series
 
+![shinonome-yuuko-series](https://cdn.myanimelist.net/images/manga/1/117029.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 29

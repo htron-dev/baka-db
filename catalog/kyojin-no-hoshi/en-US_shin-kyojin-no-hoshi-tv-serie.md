@@ -1,5 +1,7 @@
 # Shin Kyojin no Hoshi
 
+![shin-kyojin-no-hoshi](https://cdn.myanimelist.net/images/anime/4/72511.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 新巨人の星

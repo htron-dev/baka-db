@@ -1,5 +1,7 @@
 # Mousou Cherry
 
+![mousou-cherry](https://cdn.myanimelist.net/images/manga/3/42037.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

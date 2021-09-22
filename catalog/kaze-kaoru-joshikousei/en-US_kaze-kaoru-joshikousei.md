@@ -1,5 +1,7 @@
 # Kaze Kaoru Joshikousei
 
+![kaze-kaoru-joshikousei](https://cdn.myanimelist.net/images/manga/3/181969.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 風かおる女子高生

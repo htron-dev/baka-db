@@ -1,5 +1,7 @@
 # Bentou Yabai yo Minase-san
 
+![bentou-yabai-yo-minase-san](https://cdn.myanimelist.net/images/manga/1/246386.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

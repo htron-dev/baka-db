@@ -1,5 +1,7 @@
 # Mai Ball!
 
+![mai-ball](https://cdn.myanimelist.net/images/manga/2/201551.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 107

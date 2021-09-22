@@ -1,5 +1,7 @@
 # Nijigahara Holograph
 
+![nijigahara-holograph](https://cdn.myanimelist.net/images/manga/2/67543.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

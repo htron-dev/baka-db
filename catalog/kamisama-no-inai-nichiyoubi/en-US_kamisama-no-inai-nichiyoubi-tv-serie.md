@@ -1,5 +1,7 @@
 # Kamisama no Inai Nichiyoubi
 
+![kamisama-no-inai-nichiyoubi](https://cdn.myanimelist.net/images/anime/2/52127.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 神さまのいない日曜日

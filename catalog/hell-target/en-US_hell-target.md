@@ -1,5 +1,7 @@
 # Hell Target
 
+![hell-target](https://cdn.myanimelist.net/images/anime/8/74341.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: HELL TARGET [ヘルターゲット]

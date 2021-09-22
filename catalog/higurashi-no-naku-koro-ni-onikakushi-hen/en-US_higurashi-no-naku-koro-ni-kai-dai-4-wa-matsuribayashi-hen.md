@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni Kai - Dai 4-wa: Matsuribayashi-hen
 
+![higurashi-no-naku-koro-ni-kai-dai-4-wa-matsuribayashi-hen](https://cdn.myanimelist.net/images/manga/1/135103.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: ひぐらしのなく頃に解 第四話～祭囃し編～

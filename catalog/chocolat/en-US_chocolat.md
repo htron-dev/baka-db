@@ -1,5 +1,7 @@
 # Chocolat
 
+![chocolat](https://cdn.myanimelist.net/images/manga/2/55163.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 73

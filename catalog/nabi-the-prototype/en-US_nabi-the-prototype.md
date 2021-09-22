@@ -1,5 +1,7 @@
 # Nabi: The Prototype
 
+![nabi-the-prototype](https://cdn.myanimelist.net/images/manga/1/8674.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 6

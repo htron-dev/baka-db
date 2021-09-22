@@ -1,5 +1,7 @@
 # Girl's Kingdom
 
+![girls-kingdom](https://cdn.myanimelist.net/images/manga/1/38225.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ガールズキングダム

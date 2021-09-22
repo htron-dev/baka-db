@@ -1,5 +1,7 @@
 # Tonari
 
+![tonari](https://cdn.myanimelist.net/images/manga/2/4730.jpg)
+
 -   **type**: manga
 -   **chapters**: 1
 -   **original-name**: トナリ。

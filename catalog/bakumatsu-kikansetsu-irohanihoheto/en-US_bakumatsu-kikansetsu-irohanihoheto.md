@@ -1,5 +1,7 @@
 # Bakumatsu Kikansetsu Irohanihoheto
 
+![bakumatsu-kikansetsu-irohanihoheto](https://cdn.myanimelist.net/images/anime/4/56037.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: 幕末機関説 いろはにほへと

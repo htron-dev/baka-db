@@ -1,5 +1,7 @@
 # Yuusha Keisatsu J-Decker
 
+![yuusha-keisatsu-j-decker](https://cdn.myanimelist.net/images/anime/1999/91843.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 48
 -   **original-name**: 勇者警察ジェイデッカー

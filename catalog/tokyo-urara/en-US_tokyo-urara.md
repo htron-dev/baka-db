@@ -1,5 +1,7 @@
 # Tokyo Urara
 
+![tokyo-urara](https://cdn.myanimelist.net/images/manga/3/67681.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 東京ウララ

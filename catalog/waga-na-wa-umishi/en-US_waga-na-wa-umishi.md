@@ -1,5 +1,7 @@
 # Waga Na wa Umishi
 
+![waga-na-wa-umishi](https://cdn.myanimelist.net/images/manga/2/56853.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 149

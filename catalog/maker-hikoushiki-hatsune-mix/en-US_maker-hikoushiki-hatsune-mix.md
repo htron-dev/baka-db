@@ -1,5 +1,7 @@
 # Maker Hikoushiki Hatsune Mix
 
+![maker-hikoushiki-hatsune-mix](https://cdn.myanimelist.net/images/manga/1/157197.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 32

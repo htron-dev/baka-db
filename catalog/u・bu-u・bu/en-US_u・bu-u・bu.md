@@ -1,5 +1,7 @@
 # U・BU U・BU
 
+![u・bu-u・bu](https://cdn.myanimelist.net/images/manga/2/5938.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: U・BU U・BU

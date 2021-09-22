@@ -1,5 +1,7 @@
 # Finder no Shisen: Anata wo Kanjite
 
+![finder-no-shisen-anata-wo-kanjite](https://cdn.myanimelist.net/images/manga/2/196725.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ファインダーの視線　あなたを感じて

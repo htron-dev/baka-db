@@ -1,5 +1,7 @@
 # Akaki Tsuki no Meguru Koro
 
+![akaki-tsuki-no-meguru-koro](https://cdn.myanimelist.net/images/manga/5/135009.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

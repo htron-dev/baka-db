@@ -1,5 +1,7 @@
 # Kirai de Isasete
 
+![kirai-de-isasete](https://cdn.myanimelist.net/images/manga/3/223115.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

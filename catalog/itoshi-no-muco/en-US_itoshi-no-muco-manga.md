@@ -1,5 +1,7 @@
 # Itoshi no Muco
 
+![itoshi-no-muco](https://cdn.myanimelist.net/images/manga/2/100431.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 221

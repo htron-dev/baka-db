@@ -1,5 +1,7 @@
 # Hatoko-san to Love Comedy
 
+![hatoko-san-to-love-comedy](https://cdn.myanimelist.net/images/manga/2/99881.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Amagi Brilliant Park? Fumo
 
+![amagi-brilliant-park-fumo](https://cdn.myanimelist.net/images/manga/3/171099.jpg)
+
 -   **type**: manga
 -   **original-name**: 甘城ブリリアントパーク？ふも
 -   **start-date**: 2014-05-09

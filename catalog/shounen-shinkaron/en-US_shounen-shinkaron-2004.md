@@ -1,5 +1,7 @@
 # Shounen Shinkaron (2004)
 
+![shounen-shinkaron-2004](https://cdn.myanimelist.net/images/manga/1/155710.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 少年進化論

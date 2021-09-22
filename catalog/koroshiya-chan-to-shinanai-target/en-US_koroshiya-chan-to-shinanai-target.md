@@ -1,5 +1,7 @@
 # Koroshiya-chan to Shinanai Target
 
+![koroshiya-chan-to-shinanai-target](https://cdn.myanimelist.net/images/manga/1/235001.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

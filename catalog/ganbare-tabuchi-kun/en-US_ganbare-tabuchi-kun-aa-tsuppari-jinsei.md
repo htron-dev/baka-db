@@ -1,5 +1,7 @@
 # Ganbare!! Tabuchi-kun!! Aa Tsuppari Jinsei
 
+![ganbare-tabuchi-kun-aa-tsuppari-jinsei](https://cdn.myanimelist.net/images/anime/10/80074.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: がんばれ!! タブチくん!! あゝツッパリ人生

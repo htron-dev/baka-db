@@ -1,5 +1,7 @@
 # My Fair Sister
 
+![my-fair-sister](https://cdn.myanimelist.net/images/manga/3/139135.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: マイフェア SISTER

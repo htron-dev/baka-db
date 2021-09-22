@@ -1,5 +1,7 @@
 # Abe-kun no Nanokakan Sensen
 
+![abe-kun-no-nanokakan-sensen](https://cdn.myanimelist.net/images/manga/3/133377.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 阿部くんの七日間戦線

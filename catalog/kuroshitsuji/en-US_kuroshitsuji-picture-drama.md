@@ -1,5 +1,7 @@
 # Kuroshitsuji Picture Drama
 
+![kuroshitsuji-picture-drama](https://cdn.myanimelist.net/images/anime/11/70997.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 黒執事 ピクチャードラマ

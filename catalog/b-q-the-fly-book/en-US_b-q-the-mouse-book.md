@@ -1,5 +1,7 @@
 # B.Q The Mouse Book
 
+![b-q-the-mouse-book](https://cdn.myanimelist.net/images/manga/3/37277.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: B.Q. SIDE A THE MOUSE BOOK

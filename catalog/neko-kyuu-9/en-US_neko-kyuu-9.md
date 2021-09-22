@@ -1,5 +1,7 @@
 # Neko-kyuu 9
 
+![neko-kyuu-9](https://cdn.myanimelist.net/images/manga/2/30741.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ねこ球９

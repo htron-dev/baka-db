@@ -1,5 +1,7 @@
 # Lovers Night
 
+![lovers-night](https://cdn.myanimelist.net/images/manga/1/6088.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ラヴァーズ・ナイト

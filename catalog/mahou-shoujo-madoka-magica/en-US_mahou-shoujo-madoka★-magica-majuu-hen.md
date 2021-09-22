@@ -1,5 +1,7 @@
 # Mahou Shoujo Madoka★Magica: Majuu-hen
 
+![mahou-shoujo-madoka★-magica-majuu-hen](https://cdn.myanimelist.net/images/manga/3/169125.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 9

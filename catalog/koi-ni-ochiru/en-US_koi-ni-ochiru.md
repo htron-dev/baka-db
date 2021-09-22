@@ -1,5 +1,7 @@
 # Koi ni Ochiru
 
+![koi-ni-ochiru](https://cdn.myanimelist.net/images/manga/3/187420.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

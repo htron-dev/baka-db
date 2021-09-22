@@ -1,5 +1,7 @@
 # Kentou Ankokuden Cestvs
 
+![kentou-ankokuden-cestvs](https://cdn.myanimelist.net/images/manga/2/185196.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 154

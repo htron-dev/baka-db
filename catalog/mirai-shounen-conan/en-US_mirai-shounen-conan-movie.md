@@ -1,5 +1,7 @@
 # Mirai Shounen Conan (Movie)
 
+![mirai-shounen-conan-movie](https://cdn.myanimelist.net/images/anime/7/29838.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 未来少年コナン (1979)

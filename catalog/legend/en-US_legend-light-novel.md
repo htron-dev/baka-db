@@ -1,5 +1,7 @@
 # Legend
 
+![legend](https://cdn.myanimelist.net/images/manga/3/150756.jpg)
+
 -   **type**: light-novel
 -   **original-name**: レジェンド
 -   **start-date**: 2014-09-20

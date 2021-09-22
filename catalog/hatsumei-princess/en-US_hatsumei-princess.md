@@ -1,5 +1,7 @@
 # Hatsumei Princess
 
+![hatsumei-princess](https://cdn.myanimelist.net/images/manga/1/4574.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

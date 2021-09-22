@@ -1,5 +1,7 @@
 # Sankaku no Kyori wa Kagirinai Zero
 
+![sankaku-no-kyori-wa-kagirinai-zero](https://cdn.myanimelist.net/images/manga/2/227858.jpg)
+
 -   **type**: manga
 -   **original-name**: 三角の距離は限りないゼロ
 -   **start-date**: 2019-04-27

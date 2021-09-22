@@ -1,5 +1,7 @@
 # Tokoharu Boys
 
+![tokoharu-boys](https://cdn.myanimelist.net/images/manga/3/18368.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 21

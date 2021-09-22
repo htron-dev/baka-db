@@ -1,5 +1,7 @@
 # Guardian Garden: Otome no Shugosha
 
+![guardian-garden-otome-no-shugosha](https://cdn.myanimelist.net/images/manga/2/182810.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

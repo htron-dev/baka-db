@@ -1,5 +1,7 @@
 # Ume ni Uguisu
 
+![ume-ni-uguisu](https://cdn.myanimelist.net/images/manga/2/89219.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

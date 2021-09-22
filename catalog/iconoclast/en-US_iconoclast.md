@@ -1,5 +1,7 @@
 # Iconoclast!
 
+![iconoclast](https://cdn.myanimelist.net/images/manga/2/128041.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 34

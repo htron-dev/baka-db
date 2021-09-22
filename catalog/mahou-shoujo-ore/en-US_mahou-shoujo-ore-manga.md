@@ -1,5 +1,7 @@
 # Mahou Shoujo Ore
 
+![mahou-shoujo-ore](https://cdn.myanimelist.net/images/manga/2/143065.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

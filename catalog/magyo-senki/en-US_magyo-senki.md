@@ -1,5 +1,7 @@
 # Magyo Senki
 
+![magyo-senki](https://cdn.myanimelist.net/images/manga/1/158626.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

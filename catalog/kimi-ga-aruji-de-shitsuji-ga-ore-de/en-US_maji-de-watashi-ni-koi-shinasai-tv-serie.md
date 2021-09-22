@@ -1,5 +1,7 @@
 # Maji de Watashi ni Koi Shinasai!
 
+![maji-de-watashi-ni-koi-shinasai](https://cdn.myanimelist.net/images/anime/4/32541.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 真剣で私に恋しなさい！

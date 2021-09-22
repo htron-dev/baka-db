@@ -1,5 +1,7 @@
 # Last Phoenix
 
+![last-phoenix](https://cdn.myanimelist.net/images/manga/2/159213.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # MiniPato
 
+![mini-pato](https://cdn.myanimelist.net/images/anime/2/23501.jpg)
+
 -   **type**: movie
 -   **episodes**: 3
 -   **original-name**: ミニパト

@@ -1,5 +1,7 @@
 # Hakusai Anime
 
+![hakusai-anime](https://cdn.myanimelist.net/images/anime/5/53423.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: 白菜アニメ

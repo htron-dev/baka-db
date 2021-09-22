@@ -1,5 +1,7 @@
 # Zekkyou Gakkyuu
 
+![zekkyou-gakkyuu](https://cdn.myanimelist.net/images/manga/3/146491.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 81

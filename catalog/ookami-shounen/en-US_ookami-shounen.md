@@ -1,5 +1,7 @@
 # Ookami Shounen
 
+![ookami-shounen](https://cdn.myanimelist.net/images/manga/2/46363.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

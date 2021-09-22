@@ -1,5 +1,7 @@
 # Onna nanode Shouganai
 
+![onna-nanode-shouganai](https://cdn.myanimelist.net/images/manga/3/179160.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 68

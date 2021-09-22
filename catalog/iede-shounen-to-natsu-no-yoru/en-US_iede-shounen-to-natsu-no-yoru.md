@@ -1,5 +1,7 @@
 # Iede Shounen to Natsu no Yoru
 
+![iede-shounen-to-natsu-no-yoru](https://cdn.myanimelist.net/images/manga/1/159856.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Jounetsu wa Arashi no Ato de
 
+![jounetsu-wa-arashi-no-ato-de](https://cdn.myanimelist.net/images/manga/2/72531.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

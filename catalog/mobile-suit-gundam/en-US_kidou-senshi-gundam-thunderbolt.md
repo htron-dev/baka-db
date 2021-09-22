@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam Thunderbolt
 
+![kidou-senshi-gundam-thunderbolt](https://cdn.myanimelist.net/images/manga/1/179767.jpg)
+
 -   **type**: manga
 -   **original-name**: 機動戦士ガンダム サンダーボルト
 -   **start-date**: 2012-03-23

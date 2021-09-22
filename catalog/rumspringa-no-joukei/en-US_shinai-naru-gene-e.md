@@ -1,5 +1,7 @@
 # Shinai naru Gene e
 
+![shinai-naru-gene-e](https://cdn.myanimelist.net/images/manga/3/237923.jpg)
+
 -   **type**: manga
 -   **original-name**: 親愛なるジーンへ
 -   **start-date**: 2019-08-31

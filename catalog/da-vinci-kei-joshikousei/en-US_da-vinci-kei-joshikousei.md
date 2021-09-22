@@ -1,5 +1,7 @@
 # Da Vinci-kei Joshikousei
 
+![da-vinci-kei-joshikousei](https://cdn.myanimelist.net/images/manga/1/164357.jpg)
+
 -   **type**: manga
 -   **original-name**: ダ・ヴィンチ系女子高生
 -   **start-date**: 2013-09-17

@@ -1,5 +1,7 @@
 # Bara no Subete
 
+![bara-no-subete](https://cdn.myanimelist.net/images/manga/3/91809.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ばらのすべて

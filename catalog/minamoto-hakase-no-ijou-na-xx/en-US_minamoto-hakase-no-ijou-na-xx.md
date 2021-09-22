@@ -1,5 +1,7 @@
 # Minamoto Hakase no Ijou na xx
 
+![minamoto-hakase-no-ijou-na-xx](https://cdn.myanimelist.net/images/manga/1/123159.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 源博士の異常な ××

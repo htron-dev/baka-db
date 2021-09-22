@@ -1,5 +1,7 @@
 # Chijou Saikyou no Otoko Ryuu
 
+![chijou-saikyou-no-otoko-ryuu](https://cdn.myanimelist.net/images/manga/1/198763.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

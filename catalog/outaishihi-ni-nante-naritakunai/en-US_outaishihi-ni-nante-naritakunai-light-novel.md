@@ -1,5 +1,7 @@
 # Outaishihi ni nante Naritakunai!!
 
+![outaishihi-ni-nante-naritakunai](https://cdn.myanimelist.net/images/manga/2/241430.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **original-name**: 王太子妃になんてなりたくない!!

@@ -1,5 +1,7 @@
 # Love Hotel no Ueno-san
 
+![love-hotel-no-ueno-san](https://cdn.myanimelist.net/images/manga/3/180800.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 59

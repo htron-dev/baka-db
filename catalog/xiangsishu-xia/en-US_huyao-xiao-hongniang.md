@@ -1,5 +1,7 @@
 # Huyao Xiao Hongniang
 
+![huyao-xiao-hongniang](https://cdn.myanimelist.net/images/anime/4/76470.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 狐妖小红娘

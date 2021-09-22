@@ -1,5 +1,7 @@
 # Top wo Nerae! Gunbuster
 
+![top-wo-nerae-gunbuster](https://cdn.myanimelist.net/images/anime/1303/92309.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: トップをねらえ！ GunBuster

@@ -1,5 +1,7 @@
 # Hyakka Teien no Higeki
 
+![hyakka-teien-no-higeki](https://cdn.myanimelist.net/images/manga/2/24942.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

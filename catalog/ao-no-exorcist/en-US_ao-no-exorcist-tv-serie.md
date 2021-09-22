@@ -1,5 +1,7 @@
 # Ao no Exorcist
 
+![ao-no-exorcist](https://cdn.myanimelist.net/images/anime/10/75195.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 青の祓魔師(エクソシスト)

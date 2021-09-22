@@ -1,5 +1,7 @@
 # Baron: Neko no Danshaku
 
+![baron-neko-no-danshaku](https://cdn.myanimelist.net/images/manga/1/133417.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

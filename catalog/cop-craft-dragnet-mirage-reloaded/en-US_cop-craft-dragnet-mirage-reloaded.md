@@ -1,5 +1,7 @@
 # Cop Craft: Dragnet Mirage Reloaded
 
+![cop-craft-dragnet-mirage-reloaded](https://cdn.myanimelist.net/images/manga/3/61127.jpg)
+
 -   **type**: light-novel
 -   **original-name**: コップクラフト DRAGNET MIRAGE RELOADED
 -   **start-date**: 2009-11-18

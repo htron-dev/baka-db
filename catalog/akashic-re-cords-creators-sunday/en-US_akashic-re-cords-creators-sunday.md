@@ -1,5 +1,7 @@
 # Akashic Re:cords: Creators Sunday
 
+![akashic-re-cords-creators-sunday](https://cdn.myanimelist.net/images/manga/3/200794.jpg)
+
 -   **type**: manga
 -   **chapters**: 21
 -   **original-name**: アカシックリコード くりえいたーず・さんでー -創造者の日曜日-

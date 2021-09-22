@@ -1,5 +1,7 @@
 # Kiss Dum: Omokage
 
+![kiss-dum-omokage](https://cdn.myanimelist.net/images/anime/3/69105.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: キスダム: オモカゲ

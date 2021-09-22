@@ -1,5 +1,7 @@
 # Kowada-kun ni Suki wa Nai?: Handa-san no Gakuen Mysteries
 
+![kowada-kun-ni-suki-wa-nai-handa-san-no-gakuen-mysteries](https://cdn.myanimelist.net/images/manga/2/203532.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

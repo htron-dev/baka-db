@@ -1,5 +1,7 @@
 # Fire Emblem: Genealogy of the Holy War
 
+![fire-emblem-genealogy-of-the-holy-war](https://cdn.myanimelist.net/images/manga/1/15907.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 38

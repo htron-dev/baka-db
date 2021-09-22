@@ -1,5 +1,7 @@
 # Atarashii Kanojo ga Flag wo Oraretara
 
+![atarashii-kanojo-ga-flag-wo-oraretara](https://cdn.myanimelist.net/images/manga/3/171361.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

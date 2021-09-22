@@ -1,5 +1,7 @@
 # Oi-san to 40 no Monogatari
 
+![oi-san-to-40-no-monogatari](https://cdn.myanimelist.net/images/anime/1760/93247.jpg)
+
 -   **type**: ona
 -   **episodes**: 41
 -   **original-name**: オイさんと 40 の物語

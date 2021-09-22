@@ -1,5 +1,7 @@
 # Chuubyou Gekihatsu Boy
 
+![chuubyou-gekihatsu-boy](https://cdn.myanimelist.net/images/manga/2/214739.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 厨病激発ボーイ

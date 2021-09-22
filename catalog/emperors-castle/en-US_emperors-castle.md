@@ -1,5 +1,7 @@
 # Emperor's Castle
 
+![emperors-castle](https://cdn.myanimelist.net/images/manga/2/27918.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 -   **original-name**: 황제의 성

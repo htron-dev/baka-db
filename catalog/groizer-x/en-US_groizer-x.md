@@ -1,5 +1,7 @@
 # Groizer X
 
+![groizer-x](https://cdn.myanimelist.net/images/anime/10/10054.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 36
 -   **original-name**: グロイザーＸ

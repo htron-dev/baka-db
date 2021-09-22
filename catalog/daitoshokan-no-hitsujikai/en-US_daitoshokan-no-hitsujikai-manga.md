@@ -1,5 +1,7 @@
 # Daitoshokan no Hitsujikai
 
+![daitoshokan-no-hitsujikai](https://cdn.myanimelist.net/images/manga/3/136521.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 33

@@ -1,5 +1,7 @@
 # Pika☆Ichi
 
+![pika☆-ichi](https://cdn.myanimelist.net/images/manga/3/41218.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 28

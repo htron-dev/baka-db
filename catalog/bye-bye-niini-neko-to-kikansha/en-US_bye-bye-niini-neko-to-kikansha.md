@@ -1,5 +1,7 @@
 # Bye Bye, Niini.: Neko to Kikansha
 
+![bye-bye-niini-neko-to-kikansha](https://cdn.myanimelist.net/images/manga/1/83993.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

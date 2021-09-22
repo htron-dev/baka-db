@@ -1,5 +1,7 @@
 # SK8R'S
 
+![sk-8-rs](https://cdn.myanimelist.net/images/manga/2/195967.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

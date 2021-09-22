@@ -1,5 +1,7 @@
 # Koeda-chan Ohanashi
 
+![koeda-chan-ohanashi](https://cdn.myanimelist.net/images/anime/1138/97978.jpg)
+
 -   **type**: ona
 -   **original-name**: こえだちゃん おはなし
 -   **start-date**: 2014-07-28

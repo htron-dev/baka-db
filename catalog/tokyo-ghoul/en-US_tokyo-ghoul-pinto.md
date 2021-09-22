@@ -1,5 +1,7 @@
 # Tokyo Ghoul: "Pinto"
 
+![tokyo-ghoul-pinto](https://cdn.myanimelist.net/images/anime/3/78666.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 東京喰種 トーキョーグール【PINTO】

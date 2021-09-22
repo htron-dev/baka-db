@@ -1,5 +1,7 @@
 # Kiss no Hanataba wo Kimi ni
 
+![kiss-no-hanataba-wo-kimi-ni](https://cdn.myanimelist.net/images/manga/2/203202.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

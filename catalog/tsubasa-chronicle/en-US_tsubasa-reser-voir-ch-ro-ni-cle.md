@@ -1,5 +1,7 @@
 # Tsubasa: RESERVoir CHRoNiCLE
 
+![tsubasa-reser-voir-ch-ro-ni-cle](https://cdn.myanimelist.net/images/manga/2/27076.jpg)
+
 -   **type**: manga
 -   **volumes**: 28
 -   **chapters**: 233

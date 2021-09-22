@@ -1,5 +1,7 @@
 # Kanojo-tachi no Saishuu Teiri
 
+![kanojo-tachi-no-saishuu-teiri](https://cdn.myanimelist.net/images/manga/2/134819.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

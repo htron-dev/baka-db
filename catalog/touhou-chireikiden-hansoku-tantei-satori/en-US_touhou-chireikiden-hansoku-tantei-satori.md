@@ -1,5 +1,7 @@
 # Touhou Chireikiden: Hansoku Tantei Satori
 
+![touhou-chireikiden-hansoku-tantei-satori](https://cdn.myanimelist.net/images/manga/3/235466.jpg)
+
 -   **type**: manga
 -   **original-name**: 東方智霊奇伝 反則探偵さとり
 -   **start-date**: 2019-10-28

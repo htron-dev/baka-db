@@ -1,5 +1,7 @@
 # Toshokan Sensou: Kakumei no Tsubasa
 
+![toshokan-sensou-kakumei-no-tsubasa](https://cdn.myanimelist.net/images/anime/9/39273.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 図書館戦争 革命のつばさ

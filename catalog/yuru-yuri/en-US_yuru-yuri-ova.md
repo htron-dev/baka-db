@@ -1,5 +1,7 @@
 # Yuru Yuri,
 
+![yuru-yuri](https://cdn.myanimelist.net/images/anime/1138/99547.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ゆるゆり、

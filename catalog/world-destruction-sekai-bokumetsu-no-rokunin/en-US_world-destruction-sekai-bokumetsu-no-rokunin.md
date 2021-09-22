@@ -1,5 +1,7 @@
 # World Destruction: Sekai Bokumetsu no Rokunin
 
+![world-destruction-sekai-bokumetsu-no-rokunin](https://cdn.myanimelist.net/images/anime/3/30347.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ワールド・デストラクション ～世界撲滅の六人～

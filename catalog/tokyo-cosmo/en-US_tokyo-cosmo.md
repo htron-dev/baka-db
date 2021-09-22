@@ -1,5 +1,7 @@
 # Tokyo Cosmo
 
+![tokyo-cosmo](https://cdn.myanimelist.net/images/anime/1172/98744.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 東京コスモ

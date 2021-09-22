@@ -1,5 +1,7 @@
 # Karo to Piyobupt: Ame no Hi
 
+![karo-to-piyobupt-ame-no-hi](https://cdn.myanimelist.net/images/anime/5/17975.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: カロとピヨブプト-あめのひ

@@ -1,5 +1,7 @@
 # Utsu Musume Sayuri
 
+![utsu-musume-sayuri](https://cdn.myanimelist.net/images/anime/6/37519.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 打つ娘サユリ

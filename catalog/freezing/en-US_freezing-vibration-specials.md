@@ -1,5 +1,7 @@
 # Freezing Vibration Specials
 
+![freezing-vibration-specials](https://cdn.myanimelist.net/images/anime/8/56413.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 震えちゃう ❤ フリージング ヴァイブレーション OVA

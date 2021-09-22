@@ -1,5 +1,7 @@
 # Gunma Idol Shinwa: Uma Seven
 
+![gunma-idol-shinwa-uma-seven](https://cdn.myanimelist.net/images/manga/2/227254.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

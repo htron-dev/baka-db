@@ -1,5 +1,7 @@
 # Love Hunter Ren
 
+![love-hunter-ren](https://cdn.myanimelist.net/images/manga/3/196697.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

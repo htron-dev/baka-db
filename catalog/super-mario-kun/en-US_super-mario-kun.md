@@ -1,5 +1,7 @@
 # Super Mario-kun
 
+![super-mario-kun](https://cdn.myanimelist.net/images/manga/1/13841.jpg)
+
 -   **type**: manga
 -   **original-name**: スーパーマリオくん
 -   **start-date**: 1991-07-27

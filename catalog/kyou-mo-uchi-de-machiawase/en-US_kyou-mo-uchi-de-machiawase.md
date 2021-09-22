@@ -1,5 +1,7 @@
 # Kyou mo Uchi de Machiawase
 
+![kyou-mo-uchi-de-machiawase](https://cdn.myanimelist.net/images/manga/1/122909.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Mobile Suit Gundam SEED Destiny Final Plus: The Chosen Future
 
+![mobile-suit-gundam-seed-destiny-final-plus-the-chosen-future](https://cdn.myanimelist.net/images/anime/4/80397.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 機動戦士ガンダム SEED DESTINY FINAL PLUS 『選ばれた未来』

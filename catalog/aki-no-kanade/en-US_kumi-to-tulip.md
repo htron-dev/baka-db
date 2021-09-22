@@ -1,5 +1,7 @@
 # Kumi to Tulip
 
+![kumi-to-tulip](https://cdn.myanimelist.net/images/anime/6/72483.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: クミとチューリップ

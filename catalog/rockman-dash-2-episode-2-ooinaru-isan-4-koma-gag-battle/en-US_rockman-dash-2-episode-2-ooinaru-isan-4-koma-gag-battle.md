@@ -1,5 +1,7 @@
 # Rockman DASH 2 - Episode 2: Ooinaru Isan 4Koma Gag Battle
 
+![rockman-dash-2-episode-2-ooinaru-isan-4-koma-gag-battle](https://cdn.myanimelist.net/images/manga/2/79225.jpg)
+
 -   **type**: manga
 -   **original-name**: ロックマンＤＡＳＨ２ エピソード２ 大いなる遺産 ４コマギャグバトル
 

@@ -1,5 +1,7 @@
 # The King of Fighters: Kyo
 
+![the-king-of-fighters-kyo](https://cdn.myanimelist.net/images/manga/1/155624.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Kamisama to Unmei Kakusei no Cross Thesis
 
+![kamisama-to-unmei-kakusei-no-cross-thesis](https://cdn.myanimelist.net/images/manga/2/174718.jpg)
+
 -   **type**: manga
 -   **chapters**: 7
 -   **original-name**: 神様と運命覚醒のクロステーゼ

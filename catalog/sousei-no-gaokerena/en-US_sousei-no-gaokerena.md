@@ -1,5 +1,7 @@
 # Sousei no Gaokerena
 
+![sousei-no-gaokerena](https://cdn.myanimelist.net/images/manga/2/165405.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

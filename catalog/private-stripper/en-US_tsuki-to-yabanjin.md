@@ -1,5 +1,7 @@
 # Tsuki to Yabanjin
 
+![tsuki-to-yabanjin](https://cdn.myanimelist.net/images/manga/1/87209.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

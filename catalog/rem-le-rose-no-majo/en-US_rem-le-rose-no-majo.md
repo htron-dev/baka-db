@@ -1,5 +1,7 @@
 # Rem le Rose no Majo
 
+![rem-le-rose-no-majo](https://cdn.myanimelist.net/images/manga/2/174724.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Mahou no Tenshi Creamy Mami: Fukigen na Ohimesama
 
+![mahou-no-tenshi-creamy-mami-fukigen-na-ohimesama](https://cdn.myanimelist.net/images/manga/3/230413.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔法の天使 クリィミーマミ 不機嫌なお姫様
 -   **start-date**: 2018-12-21

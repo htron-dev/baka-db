@@ -1,5 +1,7 @@
 # Tobenai Bokura wa Kaze wo Miru
 
+![tobenai-bokura-wa-kaze-wo-miru](https://cdn.myanimelist.net/images/manga/3/15812.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

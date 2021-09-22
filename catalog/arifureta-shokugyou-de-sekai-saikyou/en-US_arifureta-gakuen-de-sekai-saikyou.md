@@ -1,5 +1,7 @@
 # Arifureta Gakuen de Sekai Saikyou
 
+![arifureta-gakuen-de-sekai-saikyou](https://cdn.myanimelist.net/images/manga/3/242790.jpg)
+
 -   **type**: manga
 -   **original-name**: ありふれた学園で世界最強
 -   **start-date**: 2020-04-24

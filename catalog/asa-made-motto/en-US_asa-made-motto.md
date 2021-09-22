@@ -1,5 +1,7 @@
 # Asa made, Motto.
 
+![asa-made-motto](https://cdn.myanimelist.net/images/manga/3/4042.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

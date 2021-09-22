@@ -1,5 +1,7 @@
 # Virgin Wars
 
+![virgin-wars](https://cdn.myanimelist.net/images/manga/3/41000.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

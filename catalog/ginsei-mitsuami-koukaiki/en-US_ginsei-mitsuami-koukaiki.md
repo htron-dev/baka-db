@@ -1,5 +1,7 @@
 # Ginsei Mitsuami Koukaiki
 
+![ginsei-mitsuami-koukaiki](https://cdn.myanimelist.net/images/manga/3/162938.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 42

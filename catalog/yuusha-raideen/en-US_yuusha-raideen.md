@@ -1,5 +1,7 @@
 # Yuusha Raideen
 
+![yuusha-raideen](https://cdn.myanimelist.net/images/anime/1/2260.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: 勇者ライディーン

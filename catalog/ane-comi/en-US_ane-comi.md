@@ -1,5 +1,7 @@
 # Ane Comi
 
+![ane-comi](https://cdn.myanimelist.net/images/manga/2/188811.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

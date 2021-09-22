@@ -1,5 +1,7 @@
 # Shichigatsu No Hone
 
+![shichigatsu-no-hone](https://cdn.myanimelist.net/images/manga/1/60385.jpg)
+
 -   **type**: manga
 -   **original-name**: 七月の骨
 

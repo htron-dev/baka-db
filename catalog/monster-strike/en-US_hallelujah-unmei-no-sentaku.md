@@ -1,5 +1,7 @@
 # Hallelujah: Unmei no Sentaku
 
+![hallelujah-unmei-no-sentaku](https://cdn.myanimelist.net/images/anime/1772/109454.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ハレルヤ - 運命の選択 -

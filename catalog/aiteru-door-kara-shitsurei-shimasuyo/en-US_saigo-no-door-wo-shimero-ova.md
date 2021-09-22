@@ -1,5 +1,7 @@
 # Saigo no Door wo Shimero!
 
+![saigo-no-door-wo-shimero](https://cdn.myanimelist.net/images/anime/9/2720.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 最後のドアを閉めろ！

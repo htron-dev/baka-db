@@ -1,5 +1,7 @@
 # Katsute Kami Datta Kemono-tachi e
 
+![katsute-kami-datta-kemono-tachi-e](https://cdn.myanimelist.net/images/manga/1/145343.jpg)
+
 -   **type**: manga
 -   **original-name**: かつて神だった獣たちへ
 -   **start-date**: 2014-06-09

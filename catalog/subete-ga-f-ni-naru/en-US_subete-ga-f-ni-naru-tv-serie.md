@@ -1,5 +1,7 @@
 # Subete ga F ni Naru
 
+![subete-ga-f-ni-naru](https://cdn.myanimelist.net/images/anime/9/76071.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: すべてが F になる THE PERFECT INSIDER

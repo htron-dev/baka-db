@@ -1,5 +1,7 @@
 # Da Capo
 
+![da-capo](https://cdn.myanimelist.net/images/manga/5/31756.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

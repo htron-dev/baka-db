@@ -1,5 +1,7 @@
 # Shinjitsu no Mahou Shoujo
 
+![shinjitsu-no-mahou-shoujo](https://cdn.myanimelist.net/images/manga/1/163537.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 44

@@ -1,5 +1,7 @@
 # Sei Abelia Jogakuin
 
+![sei-abelia-jogakuin](https://cdn.myanimelist.net/images/manga/1/149110.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

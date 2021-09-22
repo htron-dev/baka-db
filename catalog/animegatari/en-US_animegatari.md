@@ -1,5 +1,7 @@
 # Animegatari
 
+![animegatari](https://cdn.myanimelist.net/images/anime/13/73567.jpg)
+
 -   **type**: movie
 -   **episodes**: 8
 -   **original-name**: アニメガタリ

@@ -1,5 +1,7 @@
 # Hayabusa: Back to the Earth - Kikan
 
+![hayabusa-back-to-the-earth-kikan](https://cdn.myanimelist.net/images/anime/1433/111786.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: はやぶさ HAYABUSA - BACK TO THE EARTH - 帰還

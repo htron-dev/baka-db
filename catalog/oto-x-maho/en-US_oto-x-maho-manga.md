@@ -1,5 +1,7 @@
 # Oto x Maho
 
+![oto-x-maho](https://cdn.myanimelist.net/images/manga/2/51151.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

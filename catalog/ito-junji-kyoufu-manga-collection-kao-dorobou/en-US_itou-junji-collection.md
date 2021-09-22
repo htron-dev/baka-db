@@ -1,5 +1,7 @@
 # Itou Junji: Collection
 
+![itou-junji-collection](https://cdn.myanimelist.net/images/anime/7/88366.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 伊藤潤二「コレクション」

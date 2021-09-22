@@ -1,5 +1,7 @@
 # Hiiro Ouji
 
+![hiiro-ouji](https://cdn.myanimelist.net/images/manga/2/32769.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

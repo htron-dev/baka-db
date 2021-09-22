@@ -1,5 +1,7 @@
 # Kimi kara Uketsugu Brave Chronicle
 
+![kimi-kara-uketsugu-brave-chronicle](https://cdn.myanimelist.net/images/manga/2/166842.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

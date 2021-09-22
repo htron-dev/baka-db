@@ -1,5 +1,7 @@
 # Mahou no Yousei Persia
 
+![mahou-no-yousei-persia](https://cdn.myanimelist.net/images/anime/8/41447.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 48
 -   **original-name**: 魔法の妖精 ペルシャ

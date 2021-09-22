@@ -1,5 +1,7 @@
 # Hakkeyoi
 
+![hakkeyoi](https://cdn.myanimelist.net/images/manga/1/20884.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: はっけよい

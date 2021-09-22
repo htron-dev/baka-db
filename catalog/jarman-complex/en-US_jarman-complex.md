@@ -1,5 +1,7 @@
 # Jarman Complex
 
+![jarman-complex](https://cdn.myanimelist.net/images/manga/1/36072.jpg)
+
 -   **type**: manga
 -   **original-name**: ジャーマン・コンプレックス
 -   **start-date**: 2010-05-22

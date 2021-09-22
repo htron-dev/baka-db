@@ -1,5 +1,7 @@
 # Majimoji Rurumo: Kanketsu-hen
 
+![majimoji-rurumo-kanketsu-hen](https://cdn.myanimelist.net/images/anime/1375/109425.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: まじもじるるも 完結編

@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Roll to Laura Ukigumojou no Himitsu
 
+![sore-ike-anpanman-roll-to-laura-ukigumojou-no-himitsu](https://cdn.myanimelist.net/images/anime/11/45975.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ！アンパンマン ロールとローラ うきぐも城のひみつ

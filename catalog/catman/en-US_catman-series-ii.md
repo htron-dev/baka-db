@@ -1,5 +1,7 @@
 # Catman Series II
 
+![catman-series-ii](https://cdn.myanimelist.net/images/anime/6/9524.jpg)
+
 -   **type**: ona
 -   **episodes**: 8
 -   **original-name**: キャットマン

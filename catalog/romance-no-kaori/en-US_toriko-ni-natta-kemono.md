@@ -1,5 +1,7 @@
 # Toriko ni Natta... Kemono
 
+![toriko-ni-natta-kemono](https://cdn.myanimelist.net/images/manga/1/39564.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Ningyo Danshi
 
+![ningyo-danshi](https://cdn.myanimelist.net/images/manga/3/64893.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

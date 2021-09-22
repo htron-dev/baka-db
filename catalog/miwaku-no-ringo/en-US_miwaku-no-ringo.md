@@ -1,5 +1,7 @@
 # Miwaku no Ringo
 
+![miwaku-no-ringo](https://cdn.myanimelist.net/images/manga/1/130081.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

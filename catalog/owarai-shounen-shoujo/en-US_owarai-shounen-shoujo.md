@@ -1,5 +1,7 @@
 # Owarai Shounen Shoujo
 
+![owarai-shounen-shoujo](https://cdn.myanimelist.net/images/manga/3/10273.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: お笑い少年少女

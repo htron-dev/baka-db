@@ -1,5 +1,7 @@
 # Choujin Taikei
 
+![choujin-taikei](https://cdn.myanimelist.net/images/manga/1/15430.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

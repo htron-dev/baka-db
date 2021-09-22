@@ -1,5 +1,7 @@
 # Million Doll: Otaku Go Kouza
 
+![million-doll-otaku-go-kouza](https://cdn.myanimelist.net/images/anime/1768/113956.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ミリオンドール オタク語講座『スペシャル』

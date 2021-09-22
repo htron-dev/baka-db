@@ -1,5 +1,7 @@
 # Darker than Black: Kuro no Keiyakusha Gaiden
 
+![darker-than-black-kuro-no-keiyakusha-gaiden](https://cdn.myanimelist.net/images/anime/3/17469.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: Darker than BLACK -黒の契約者 外伝

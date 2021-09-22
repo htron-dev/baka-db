@@ -1,5 +1,7 @@
 # Alpha Sentai Al-Ranger
 
+![alpha-sentai-al-ranger](https://cdn.myanimelist.net/images/manga/2/247593.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

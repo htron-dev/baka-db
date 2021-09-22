@@ -1,5 +1,7 @@
 # Mirai no Fuufu desukedo?
 
+![mirai-no-fuufu-desukedo](https://cdn.myanimelist.net/images/manga/3/210501.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

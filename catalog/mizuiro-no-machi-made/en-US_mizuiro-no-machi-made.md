@@ -1,5 +1,7 @@
 # Mizuiro no Machi made
 
+![mizuiro-no-machi-made](https://cdn.myanimelist.net/images/manga/2/160516.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

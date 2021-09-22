@@ -1,5 +1,7 @@
 # Dokkouren
 
+![dokkouren](https://cdn.myanimelist.net/images/manga/1/134791.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 182

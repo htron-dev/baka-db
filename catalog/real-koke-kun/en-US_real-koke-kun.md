@@ -1,5 +1,7 @@
 # Real Koke-kun
 
+![real-koke-kun](https://cdn.myanimelist.net/images/anime/1570/108314.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: リアルコケくん

@@ -1,5 +1,7 @@
 # Dragon Ball Super: Super Hero
 
+![dragon-ball-super-super-hero](https://cdn.myanimelist.net/images/anime/1433/116708.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラゴンボール超 スーパーヒーロー

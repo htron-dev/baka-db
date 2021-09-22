@@ -1,5 +1,7 @@
 # Anata no Omokage wo
 
+![anata-no-omokage-wo](https://cdn.myanimelist.net/images/manga/3/229900.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: あなたの面影を

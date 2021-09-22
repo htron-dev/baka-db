@@ -1,5 +1,7 @@
 # Mahoromatic: Automatic Maiden
 
+![mahoromatic-automatic-maiden](https://cdn.myanimelist.net/images/anime/13/23051.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: まほろまてぃっく

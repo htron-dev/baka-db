@@ -1,5 +1,7 @@
 # Tantei Opera Milky Holmes Dai 2 Maku
 
+![tantei-opera-milky-holmes-dai-2-maku](https://cdn.myanimelist.net/images/anime/2/35372.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 探偵オペラ ミルキィホームズ 第 2 幕

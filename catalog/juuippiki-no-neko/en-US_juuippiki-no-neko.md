@@ -1,5 +1,7 @@
 # Juuippiki no Neko
 
+![juuippiki-no-neko](https://cdn.myanimelist.net/images/anime/1329/96647.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: １１ぴきのねこ

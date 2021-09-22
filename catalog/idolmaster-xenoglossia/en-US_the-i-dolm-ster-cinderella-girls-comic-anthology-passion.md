@@ -1,5 +1,7 @@
 # The iDOLM@STER: Cinderella Girls Comic Anthology - passion
 
+![the-i-dolm-ster-cinderella-girls-comic-anthology-passion](https://cdn.myanimelist.net/images/manga/2/135903.jpg)
+
 -   **type**: manga
 -   **original-name**: アイドルマスター シンデレラガールズ コミックアンソロジー passion
 -   **start-date**: 2012-12-25

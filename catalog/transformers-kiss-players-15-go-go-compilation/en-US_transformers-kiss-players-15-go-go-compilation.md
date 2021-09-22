@@ -1,5 +1,7 @@
 # Transformers: Kiss Players/15 Go! Go! Compilation
 
+![transformers-kiss-players-15-go-go-compilation](https://cdn.myanimelist.net/images/manga/3/35699.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 29

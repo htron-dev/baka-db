@@ -1,5 +1,7 @@
 # Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita
 
+![code-geass-boukoku-no-akito-1-yokuryuu-wa-maiorita](https://cdn.myanimelist.net/images/anime/10/41401.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: コードギアス 亡国のアキト 第１章「翼竜は舞い降りた」

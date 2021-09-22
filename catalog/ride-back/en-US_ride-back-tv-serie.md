@@ -1,5 +1,7 @@
 # RideBack
 
+![ride-back](https://cdn.myanimelist.net/images/anime/9/21745.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ライドバック

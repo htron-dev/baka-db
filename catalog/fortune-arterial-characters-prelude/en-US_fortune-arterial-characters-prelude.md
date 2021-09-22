@@ -1,5 +1,7 @@
 # Fortune Arterial: Character's Prelude
 
+![fortune-arterial-characters-prelude](https://cdn.myanimelist.net/images/manga/2/153995.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

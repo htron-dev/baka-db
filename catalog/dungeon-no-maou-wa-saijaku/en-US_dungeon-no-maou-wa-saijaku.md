@@ -1,5 +1,7 @@
 # Dungeon no Maou wa Saijaku!?
 
+![dungeon-no-maou-wa-saijaku](https://cdn.myanimelist.net/images/manga/1/181916.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ダンジョンの魔王は最弱っ! ?
 -   **start-date**: 2015-08-10

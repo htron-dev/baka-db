@@ -1,5 +1,7 @@
 # Tenken Otogizoushi
 
+![tenken-otogizoushi](https://cdn.myanimelist.net/images/manga/1/31892.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 天眷御伽草子

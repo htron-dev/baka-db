@@ -1,5 +1,7 @@
 # First Time I Saw You
 
+![first-time-i-saw-you](https://cdn.myanimelist.net/images/manga/3/26499.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 

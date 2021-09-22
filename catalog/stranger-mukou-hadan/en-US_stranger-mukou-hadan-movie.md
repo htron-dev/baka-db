@@ -1,5 +1,7 @@
 # Stranger: Mukou Hadan
 
+![stranger-mukou-hadan](https://cdn.myanimelist.net/images/anime/9/87066.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ストレンヂア -無皇刃譚-

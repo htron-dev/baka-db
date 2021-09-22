@@ -1,5 +1,7 @@
 # raven;od
 
+![raven-od](https://cdn.myanimelist.net/images/manga/3/59559.jpg)
+
 -   **type**: manga
 -   **original-name**: レイヴン;オーディ
 

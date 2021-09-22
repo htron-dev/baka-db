@@ -1,5 +1,7 @@
 # Karamazov no Kyoudai
 
+![karamazov-no-kyoudai](https://cdn.myanimelist.net/images/manga/3/159252.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

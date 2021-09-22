@@ -1,5 +1,7 @@
 # Turning Mecard W Season 2
 
+![turning-mecard-w-season-2](https://cdn.myanimelist.net/images/anime/3/85661.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 터닝메카드 W 시즌2
@@ -12,7 +14,6 @@
 -   game
 -   adventure
 -   cars
-
 -   mecha
 
 ## Sinopse

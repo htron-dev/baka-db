@@ -1,5 +1,7 @@
 # Magic-Kyun! Renaissance
 
+![magic-kyun-renaissance](https://cdn.myanimelist.net/images/anime/7/80828.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: マジきゅんっ！ルネッサンス

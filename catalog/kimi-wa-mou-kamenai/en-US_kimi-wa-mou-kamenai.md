@@ -1,5 +1,7 @@
 # Kimi wa Mou Kamenai
 
+![kimi-wa-mou-kamenai](https://cdn.myanimelist.net/images/manga/3/231526.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

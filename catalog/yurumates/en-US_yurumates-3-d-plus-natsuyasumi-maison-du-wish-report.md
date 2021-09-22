@@ -1,5 +1,7 @@
 # Yurumates 3D Plus: Natsuyasumi Maison du Wish Report
 
+![yurumates-3-d-plus-natsuyasumi-maison-du-wish-report](https://cdn.myanimelist.net/images/anime/2/76066.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ゆるめいつ 3 でぃ PLUS ｢夏休みメゾンドウィッシュレポート｣

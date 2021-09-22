@@ -1,5 +1,7 @@
 # Hakaiou Noritaka!
 
+![hakaiou-noritaka](https://cdn.myanimelist.net/images/manga/3/183363.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 155

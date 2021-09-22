@@ -1,5 +1,7 @@
 # Accel World EX
 
+![accel-world-ex](https://cdn.myanimelist.net/images/anime/10/41815.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: アクセル・ワールド EX

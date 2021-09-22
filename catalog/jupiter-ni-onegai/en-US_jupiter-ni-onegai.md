@@ -1,5 +1,7 @@
 # Jupiter ni Onegai
 
+![jupiter-ni-onegai](https://cdn.myanimelist.net/images/manga/2/212072.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

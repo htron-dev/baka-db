@@ -1,5 +1,7 @@
 # Fuuunji-tachi
 
+![fuuunji-tachi](https://cdn.myanimelist.net/images/manga/3/241439.jpg)
+
 -   **type**: manga
 -   **volumes**: 30
 -   **original-name**: 風雲児たち

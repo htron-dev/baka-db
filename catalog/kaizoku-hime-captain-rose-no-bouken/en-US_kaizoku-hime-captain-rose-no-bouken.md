@@ -1,5 +1,7 @@
 # Kaizoku Hime - Captain Rose no Bouken
 
+![kaizoku-hime-captain-rose-no-bouken](https://cdn.myanimelist.net/images/manga/2/62383.jpg)
+
 -   **type**: manga
 -   **original-name**: 海賊姫 ～キャプテン・ローズの冒険～
 

@@ -1,5 +1,7 @@
 # Tonari no Yarou ga Konomi na Ken
 
+![tonari-no-yarou-ga-konomi-na-ken](https://cdn.myanimelist.net/images/manga/1/199837.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

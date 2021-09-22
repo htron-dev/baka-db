@@ -1,5 +1,7 @@
 # Mechano: Scientific Attack Force
 
+![mechano-scientific-attack-force](https://cdn.myanimelist.net/images/anime/13/62687.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: MECHANO SCIENTIFIC ATTACK FORCE

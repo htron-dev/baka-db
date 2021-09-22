@@ -1,5 +1,7 @@
 # Kodama Maria Bungaku Shuusei
 
+![kodama-maria-bungaku-shuusei](https://cdn.myanimelist.net/images/manga/3/239360.jpg)
+
 -   **type**: manga
 -   **original-name**: 児玉まりあ文学集成
 -   **start-date**: 2018-04-18

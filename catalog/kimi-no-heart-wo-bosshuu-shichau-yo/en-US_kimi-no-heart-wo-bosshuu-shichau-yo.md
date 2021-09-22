@@ -1,5 +1,7 @@
 # Kimi no Heart wo Bosshuu shichau yo
 
+![kimi-no-heart-wo-bosshuu-shichau-yo](https://cdn.myanimelist.net/images/manga/3/153381.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: きみのハートを没収しちゃうよ

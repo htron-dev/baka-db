@@ -1,5 +1,7 @@
 # Soukou Kihei Votoms Vol.I: Stories of the "A.T.Votoms"
 
+![soukou-kihei-votoms-vol-i-stories-of-the-a-t-votoms](https://cdn.myanimelist.net/images/anime/1326/94489.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 装甲騎兵ボトムズ VOL.I STORIES OF THE "A.T.VOTOMS"

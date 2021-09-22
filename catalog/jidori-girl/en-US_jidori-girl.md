@@ -1,5 +1,7 @@
 # Jidori Girl!
 
+![jidori-girl](https://cdn.myanimelist.net/images/manga/3/238423.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

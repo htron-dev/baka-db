@@ -1,5 +1,7 @@
 # Watashitachi, Luck Logic-bu! 2
 
+![watashitachi-luck-logic-bu-2](https://cdn.myanimelist.net/images/anime/5/82951.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 私たち、らくろじ部! 2

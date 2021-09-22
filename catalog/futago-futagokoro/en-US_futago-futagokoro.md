@@ -1,5 +1,7 @@
 # Futago, Futagokoro.
 
+![futago-futagokoro](https://cdn.myanimelist.net/images/manga/3/233860.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

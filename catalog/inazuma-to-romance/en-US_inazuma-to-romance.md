@@ -1,5 +1,7 @@
 # Inazuma to Romance
 
+![inazuma-to-romance](https://cdn.myanimelist.net/images/manga/3/246225.jpg)
+
 -   **type**: manga
 -   **original-name**: 稲妻とロマンス
 -   **start-date**: 2021-01-13

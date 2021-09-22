@@ -1,5 +1,7 @@
 # Ore no Kanbotsu Chikubi ga, Senpai no Shitapi de Tachimashita.
 
+![ore-no-kanbotsu-chikubi-ga-senpai-no-shitapi-de-tachimashita](https://cdn.myanimelist.net/images/manga/1/236727.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

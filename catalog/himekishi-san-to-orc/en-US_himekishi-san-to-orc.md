@@ -1,5 +1,7 @@
 # Himekishi-san to Orc
 
+![himekishi-san-to-orc](https://cdn.myanimelist.net/images/manga/2/207575.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

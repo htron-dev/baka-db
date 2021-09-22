@@ -1,5 +1,7 @@
 # Ruri-iro Princess
 
+![ruri-iro-princess](https://cdn.myanimelist.net/images/anime/11/25551.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: るり色プリンセス

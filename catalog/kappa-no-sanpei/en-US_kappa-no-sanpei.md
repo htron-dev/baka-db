@@ -1,5 +1,7 @@
 # Kappa no Sanpei
 
+![kappa-no-sanpei](https://cdn.myanimelist.net/images/anime/8/26558.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: カッパの三平
@@ -9,7 +11,6 @@
 ## Tags
 
 -   adventure
-
 -   supernatural
 
 ## Sinopse

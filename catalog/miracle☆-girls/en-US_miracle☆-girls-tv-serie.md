@@ -1,5 +1,7 @@
 # Miracle☆Girls
 
+![miracle☆-girls](https://cdn.myanimelist.net/images/anime/11/21213.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: ミラクル ☆ ガールズ

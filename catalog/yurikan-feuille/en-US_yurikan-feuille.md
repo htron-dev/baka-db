@@ -1,5 +1,7 @@
 # Yurikan Feuille
 
+![yurikan-feuille](https://cdn.myanimelist.net/images/manga/2/81522.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

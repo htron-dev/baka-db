@@ -1,5 +1,7 @@
 # Koukaku Kidoutai: Stand Alone Complex - Solid State Society 3D - Tachikoma na Hibi
 
+![koukaku-kidoutai-stand-alone-complex-solid-state-society-3-d-tachikoma-na-hibi](https://cdn.myanimelist.net/images/anime/12/30206.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 攻殻機動隊 S.A.C. Solid State Society 3D タチコマな日々

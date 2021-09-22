@@ -1,5 +1,7 @@
 # Ideologue!
 
+![ideologue](https://cdn.myanimelist.net/images/manga/1/176589.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 31

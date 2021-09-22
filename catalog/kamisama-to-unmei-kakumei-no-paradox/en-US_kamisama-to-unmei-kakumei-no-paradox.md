@@ -1,5 +1,7 @@
 # Kamisama to Unmei Kakumei no Paradox
 
+![kamisama-to-unmei-kakumei-no-paradox](https://cdn.myanimelist.net/images/manga/2/122965.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

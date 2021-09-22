@@ -1,5 +1,7 @@
 # 17-sai no Natsukoi ni Shinu
 
+![17-sai-no-natsukoi-ni-shinu](https://cdn.myanimelist.net/images/manga/2/10000.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 17 歳の夏恋に死ぬ

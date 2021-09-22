@@ -1,5 +1,7 @@
 # One Piece 3D: Mugiwara Chase
 
+![one-piece-3-d-mugiwara-chase](https://cdn.myanimelist.net/images/anime/4/32455.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ONE PIECE 3D 麦わらチェイス

@@ -1,5 +1,7 @@
 # Triple Trouble+α
 
+![triple-trouble-α](https://cdn.myanimelist.net/images/manga/2/32249.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: トリプル・トラブル+α

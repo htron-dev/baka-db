@@ -1,5 +1,7 @@
 # Shizuko wa Ore no Yome
 
+![shizuko-wa-ore-no-yome](https://cdn.myanimelist.net/images/manga/3/226859.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

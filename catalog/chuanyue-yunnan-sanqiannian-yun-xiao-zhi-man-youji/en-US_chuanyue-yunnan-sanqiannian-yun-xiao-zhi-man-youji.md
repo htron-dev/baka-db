@@ -1,5 +1,7 @@
 # Chuanyue Yunnan Sanqiannian: Yun Xiao Zhi Man Youji
 
+![chuanyue-yunnan-sanqiannian-yun-xiao-zhi-man-youji](https://cdn.myanimelist.net/images/anime/1400/115558.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 穿越云南三千年-云小志漫游记

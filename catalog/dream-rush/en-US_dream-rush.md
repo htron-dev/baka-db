@@ -1,5 +1,7 @@
 # Dream Rush!
 
+![dream-rush](https://cdn.myanimelist.net/images/manga/3/126659.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: ドリーム・ラッシュ！

@@ -1,5 +1,7 @@
 # Doubutsu Sumo Taikai
 
+![doubutsu-sumo-taikai](https://cdn.myanimelist.net/images/anime/11/12219.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 動物相撲大会

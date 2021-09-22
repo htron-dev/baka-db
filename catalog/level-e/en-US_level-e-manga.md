@@ -1,5 +1,7 @@
 # Level E
 
+![level-e](https://cdn.myanimelist.net/images/manga/2/203695.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # Hashi-hime Play Senka
 
+![hashi-hime-play-senka](https://cdn.myanimelist.net/images/manga/2/151938.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

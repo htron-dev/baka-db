@@ -1,5 +1,7 @@
 # Youkoso, Fairy's Inn e!
 
+![youkoso-fairys-inn-e](https://cdn.myanimelist.net/images/manga/1/196362.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: ようこそ、フェアリーズ・インへ！

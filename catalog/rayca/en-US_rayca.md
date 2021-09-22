@@ -1,5 +1,7 @@
 # Rayca
 
+![rayca](https://cdn.myanimelist.net/images/anime/1564/107067.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 零花～ rayca

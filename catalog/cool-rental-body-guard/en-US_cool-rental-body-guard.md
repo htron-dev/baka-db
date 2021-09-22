@@ -1,5 +1,7 @@
 # Cool: Rental Body Guard
 
+![cool-rental-body-guard](https://cdn.myanimelist.net/images/manga/2/113371.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: COOL - RENTAL BODY GUARD -

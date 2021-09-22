@@ -1,5 +1,7 @@
 # Phantom: Requiem for the Phantom
 
+![phantom-requiem-for-the-phantom](https://cdn.myanimelist.net/images/manga/1/144099.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

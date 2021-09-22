@@ -1,5 +1,7 @@
 # Kagakushitsu e Oide
 
+![kagakushitsu-e-oide](https://cdn.myanimelist.net/images/manga/1/16440.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

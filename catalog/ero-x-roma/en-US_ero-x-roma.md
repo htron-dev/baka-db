@@ -1,5 +1,7 @@
 # Ero x Roma
 
+![ero-x-roma](https://cdn.myanimelist.net/images/manga/2/69587.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

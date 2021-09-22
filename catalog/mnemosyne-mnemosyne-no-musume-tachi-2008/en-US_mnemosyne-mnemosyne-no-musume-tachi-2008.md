@@ -1,5 +1,7 @@
 # Mnemosyne: Mnemosyne no Musume-tachi 2008
 
+![mnemosyne-mnemosyne-no-musume-tachi-2008](https://cdn.myanimelist.net/images/manga/5/40914.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

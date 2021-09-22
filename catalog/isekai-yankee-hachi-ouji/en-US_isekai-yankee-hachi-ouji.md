@@ -1,5 +1,7 @@
 # Isekai Yankee Hachi Ouji
 
+![isekai-yankee-hachi-ouji](https://cdn.myanimelist.net/images/manga/3/235567.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界ヤンキー八王子
 -   **start-date**: 2019-12-25

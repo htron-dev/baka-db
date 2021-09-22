@@ -1,5 +1,7 @@
 # Aware! Meisaku-kun: Meiji Saite Oishii Mozzarella
 
+![aware-meisaku-kun-meiji-saite-oishii-mozzarella](https://cdn.myanimelist.net/images/anime/7/84510.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: あはれ！名作くん「明治さいておいしいモッツァレラ」

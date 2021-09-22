@@ -1,5 +1,7 @@
 # Sadistic 88
 
+![sadistic-88](https://cdn.myanimelist.net/images/manga/2/171893.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 30

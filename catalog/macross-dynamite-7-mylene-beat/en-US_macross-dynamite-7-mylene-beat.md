@@ -1,5 +1,7 @@
 # Macross Dynamite: 7 Mylene Beat
 
+![macross-dynamite-7-mylene-beat](https://cdn.myanimelist.net/images/manga/1/1798.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

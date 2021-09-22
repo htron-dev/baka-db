@@ -1,5 +1,7 @@
 # Jjang
 
+![jjang](https://cdn.myanimelist.net/images/manga/3/31449.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 짱
 

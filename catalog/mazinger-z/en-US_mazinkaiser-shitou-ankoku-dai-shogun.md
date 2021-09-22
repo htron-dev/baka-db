@@ -1,5 +1,7 @@
 # Mazinkaiser: Shitou! Ankoku Dai Shogun
 
+![mazinkaiser-shitou-ankoku-dai-shogun](https://cdn.myanimelist.net/images/anime/5/51795.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: マジンカイザー　死闘！暗黒大将軍

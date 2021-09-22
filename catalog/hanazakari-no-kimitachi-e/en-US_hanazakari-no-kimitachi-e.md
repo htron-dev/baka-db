@@ -1,5 +1,7 @@
 # Hanazakari no Kimitachi e
 
+![hanazakari-no-kimitachi-e](https://cdn.myanimelist.net/images/manga/2/186895.jpg)
+
 -   **type**: manga
 -   **volumes**: 23
 -   **chapters**: 148

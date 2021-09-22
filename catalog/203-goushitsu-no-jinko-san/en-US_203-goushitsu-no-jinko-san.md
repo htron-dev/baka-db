@@ -1,5 +1,7 @@
 # 203 Goushitsu no Jinko-san
 
+![203-goushitsu-no-jinko-san](https://cdn.myanimelist.net/images/manga/3/11077.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

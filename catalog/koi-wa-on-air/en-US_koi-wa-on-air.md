@@ -1,5 +1,7 @@
 # Koi wa On Air!
 
+![koi-wa-on-air](https://cdn.myanimelist.net/images/manga/1/26686.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋はオン・エア! ; 夢みるサンタクロース

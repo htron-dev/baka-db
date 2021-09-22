@@ -1,5 +1,7 @@
 # Onmyou Taisenki
 
+![onmyou-taisenki](https://cdn.myanimelist.net/images/anime/13/73994.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 陰陽大戦記

@@ -1,5 +1,7 @@
 # Okottenai nara Kocchi Muite
 
+![okottenai-nara-kocchi-muite](https://cdn.myanimelist.net/images/manga/3/231267.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

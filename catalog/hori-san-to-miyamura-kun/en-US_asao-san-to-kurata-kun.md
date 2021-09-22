@@ -1,5 +1,7 @@
 # Asao-san to Kurata-kun
 
+![asao-san-to-kurata-kun](https://cdn.myanimelist.net/images/manga/1/125679.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 69

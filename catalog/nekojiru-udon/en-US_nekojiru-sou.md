@@ -1,5 +1,7 @@
 # Nekojiru-sou
 
+![nekojiru-sou](https://cdn.myanimelist.net/images/anime/5/84241.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ねこぢる草

@@ -1,5 +1,7 @@
 # Fireworks
 
+![fireworks](https://cdn.myanimelist.net/images/manga/3/167481.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ファイヤーワークス 水野純子短篇集 1996 ～ 2002

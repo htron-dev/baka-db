@@ -1,5 +1,7 @@
 # Panatea Itan
 
+![panatea-itan](https://cdn.myanimelist.net/images/manga/2/160901.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 35

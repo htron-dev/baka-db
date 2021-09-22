@@ -1,5 +1,7 @@
 # Human Scramble
 
+![human-scramble](https://cdn.myanimelist.net/images/manga/1/185235.jpg)
+
 -   **type**: manga
 -   **volumes**: 27
 -   **chapters**: 212

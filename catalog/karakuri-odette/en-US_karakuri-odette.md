@@ -1,5 +1,7 @@
 # Karakuri Odette
 
+![karakuri-odette](https://cdn.myanimelist.net/images/manga/3/186260.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 35

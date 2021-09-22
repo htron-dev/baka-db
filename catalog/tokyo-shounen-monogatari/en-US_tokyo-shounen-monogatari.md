@@ -1,5 +1,7 @@
 # Tokyo Shounen Monogatari
 
+![tokyo-shounen-monogatari](https://cdn.myanimelist.net/images/manga/1/11226.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 東京少年物語

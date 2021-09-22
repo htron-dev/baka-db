@@ -1,5 +1,7 @@
 # So wa Reirei no Yuki ni Mai
 
+![so-wa-reirei-no-yuki-ni-mai](https://cdn.myanimelist.net/images/manga/1/113225.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

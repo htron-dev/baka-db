@@ -1,5 +1,7 @@
 # Oshiego ni Kyouhaku sareru no wa Hanzai desu ka?
 
+![oshiego-ni-kyouhaku-sareru-no-wa-hanzai-desu-ka](https://cdn.myanimelist.net/images/manga/2/216072.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 教え子に脅迫されるのは犯罪ですか？
 -   **start-date**: 2018-03-24

@@ -1,5 +1,7 @@
 # Mujihi na Koutei Heika datta no ni Hanayome Kyun Kyun ga Tomarimasen!
 
+![mujihi-na-koutei-heika-datta-no-ni-hanayome-kyun-kyun-ga-tomarimasen](https://cdn.myanimelist.net/images/manga/1/185275.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Ani ga Kareshi de, Gomen.
 
+![ani-ga-kareshi-de-gomen](https://cdn.myanimelist.net/images/manga/1/243099.jpg)
+
 -   **type**: manga
 -   **original-name**: 兄が彼氏で、ごめん。
 -   **start-date**: 2020-06-20

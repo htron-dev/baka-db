@@ -1,5 +1,7 @@
 # Bakemono Café, Irasshaimase.
 
+![bakemono-cafe-irasshaimase](https://cdn.myanimelist.net/images/manga/3/209750.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

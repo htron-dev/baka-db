@@ -1,5 +1,7 @@
 # Orenchi no Furo Jijou
 
+![orenchi-no-furo-jijou](https://cdn.myanimelist.net/images/manga/3/90859.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 114

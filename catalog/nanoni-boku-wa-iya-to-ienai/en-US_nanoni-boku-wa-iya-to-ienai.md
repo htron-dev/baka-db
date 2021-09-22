@@ -1,5 +1,7 @@
 # Nanoni, Boku wa Iya to Ienai
 
+![nanoni-boku-wa-iya-to-ienai](https://cdn.myanimelist.net/images/manga/3/145063.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

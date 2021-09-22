@@ -1,5 +1,7 @@
 # Chiisana Ahiru no Ooki na Ai no Monogatari: Ahiru no Kwak
 
+![chiisana-ahiru-no-ooki-na-ai-no-monogatari-ahiru-no-kwak](https://cdn.myanimelist.net/images/anime/10/3879.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 小さなアヒルの大きな愛の物語 あひるのクワック
@@ -13,7 +15,6 @@
 
 -   adventure
 -   comedy
-
 -   drama
 -   fantasy
 

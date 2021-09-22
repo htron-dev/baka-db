@@ -1,5 +1,7 @@
 # Hokenshitsu no Tsumuri-san
 
+![hokenshitsu-no-tsumuri-san](https://cdn.myanimelist.net/images/manga/2/220717.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 36

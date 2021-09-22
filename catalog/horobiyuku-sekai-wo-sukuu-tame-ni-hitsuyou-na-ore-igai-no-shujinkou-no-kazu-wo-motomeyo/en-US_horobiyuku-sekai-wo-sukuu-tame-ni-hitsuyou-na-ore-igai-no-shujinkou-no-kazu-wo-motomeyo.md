@@ -1,5 +1,7 @@
 # Horobiyuku Sekai wo Sukuu Tame ni Hitsuyou na Ore Igai no Shujinkou no Kazu wo Motomeyo
 
+![horobiyuku-sekai-wo-sukuu-tame-ni-hitsuyou-na-ore-igai-no-shujinkou-no-kazu-wo-motomeyo](https://cdn.myanimelist.net/images/manga/1/210933.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 13

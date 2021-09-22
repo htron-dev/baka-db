@@ -1,5 +1,7 @@
 # Akirameru no wa Mada Hayai
 
+![akirameru-no-wa-mada-hayai](https://cdn.myanimelist.net/images/manga/1/240656.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

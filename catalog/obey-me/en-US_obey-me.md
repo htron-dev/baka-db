@@ -1,5 +1,7 @@
 # Obey Me!
 
+![obey-me](https://cdn.myanimelist.net/images/anime/1416/113986.jpg)
+
 -   **type**: ona
 -   **original-name**: Obey Me!
 -   **start-date**: 2021-07-16

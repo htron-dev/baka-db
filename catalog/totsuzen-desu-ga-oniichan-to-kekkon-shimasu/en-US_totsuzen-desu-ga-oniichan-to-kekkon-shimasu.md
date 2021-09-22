@@ -1,5 +1,7 @@
 # Totsuzen desu ga, Oniichan to Kekkon shimasu!
 
+![totsuzen-desu-ga-oniichan-to-kekkon-shimasu](https://cdn.myanimelist.net/images/manga/2/199410.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 突然ですが、お兄ちゃんと結婚しますっ！
 -   **start-date**: 2017-03-25

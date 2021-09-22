@@ -1,5 +1,7 @@
 # Sakana no Miru Yume
 
+![sakana-no-miru-yume](https://cdn.myanimelist.net/images/manga/3/122895.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

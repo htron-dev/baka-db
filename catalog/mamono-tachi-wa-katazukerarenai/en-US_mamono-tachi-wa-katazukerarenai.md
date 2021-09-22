@@ -1,5 +1,7 @@
 # Mamono-tachi wa Katazukerarenai
 
+![mamono-tachi-wa-katazukerarenai](https://cdn.myanimelist.net/images/manga/2/215702.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

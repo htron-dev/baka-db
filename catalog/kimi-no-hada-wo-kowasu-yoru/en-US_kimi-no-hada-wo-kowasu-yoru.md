@@ -1,5 +1,7 @@
 # Kimi no Hada wo Kowasu Yoru
 
+![kimi-no-hada-wo-kowasu-yoru](https://cdn.myanimelist.net/images/manga/2/64587.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

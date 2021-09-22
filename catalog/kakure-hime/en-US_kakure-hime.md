@@ -1,5 +1,7 @@
 # Kakure-hime
 
+![kakure-hime](https://cdn.myanimelist.net/images/manga/3/151912.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: カクレヒメ

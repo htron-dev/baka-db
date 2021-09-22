@@ -1,5 +1,7 @@
 # The Wanderer
 
+![the-wanderer](https://cdn.myanimelist.net/images/manga/2/17432.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ザ・ワンダラー

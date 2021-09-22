@@ -1,5 +1,7 @@
 # Sekai no Sukima
 
+![sekai-no-sukima](https://cdn.myanimelist.net/images/manga/2/102713.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: セカイのスキマ

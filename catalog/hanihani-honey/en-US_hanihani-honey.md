@@ -1,5 +1,7 @@
 # Hanihani Honey
 
+![hanihani-honey](https://cdn.myanimelist.net/images/manga/1/33199.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Princess Principal: Ange Report
 
+![princess-principal-ange-report](https://cdn.myanimelist.net/images/anime/10/87902.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: プリンセス・プリンシパル　～アンジェ・レポート～

@@ -1,5 +1,7 @@
 # Love Hina Christmas Special: Silent Eve
 
+![love-hina-christmas-special-silent-eve](https://cdn.myanimelist.net/images/anime/11/82467.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ラブひなクリスマススペシャル ～サイレント・イヴ～

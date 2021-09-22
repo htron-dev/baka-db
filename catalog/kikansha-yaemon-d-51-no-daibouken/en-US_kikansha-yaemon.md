@@ -1,5 +1,7 @@
 # Kikansha Yaemon
 
+![kikansha-yaemon](https://cdn.myanimelist.net/images/anime/6/22650.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: きかんしゃやえもん

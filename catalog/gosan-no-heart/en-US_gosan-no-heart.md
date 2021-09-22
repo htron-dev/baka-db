@@ -1,5 +1,7 @@
 # Gosan no Heart
 
+![gosan-no-heart](https://cdn.myanimelist.net/images/manga/2/88373.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

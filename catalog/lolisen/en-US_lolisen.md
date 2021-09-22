@@ -1,5 +1,7 @@
 # Lolisen?
 
+![lolisen](https://cdn.myanimelist.net/images/manga/1/41365.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 36

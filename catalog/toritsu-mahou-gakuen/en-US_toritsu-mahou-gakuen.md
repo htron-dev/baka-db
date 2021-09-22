@@ -1,5 +1,7 @@
 # Toritsu Mahou Gakuen
 
+![toritsu-mahou-gakuen](https://cdn.myanimelist.net/images/manga/3/24826.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

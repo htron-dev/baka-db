@@ -1,5 +1,7 @@
 # Nakedyouth
 
+![nakedyouth](https://cdn.myanimelist.net/images/anime/6/55301.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: Nakedyouth

@@ -1,5 +1,7 @@
 # Elf Deck to Senjougurashi
 
+![elf-deck-to-senjougurashi](https://cdn.myanimelist.net/images/manga/2/235778.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

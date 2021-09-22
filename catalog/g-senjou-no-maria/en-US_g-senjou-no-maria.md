@@ -1,5 +1,7 @@
 # G-Senjou no Maria
 
+![g-senjou-no-maria](https://cdn.myanimelist.net/images/manga/2/7005.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

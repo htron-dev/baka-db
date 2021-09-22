@@ -1,5 +1,7 @@
 # Hunky x Punky
 
+![hunky-x-punky](https://cdn.myanimelist.net/images/manga/1/152347.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Hunky×Punky

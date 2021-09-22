@@ -1,5 +1,7 @@
 # Sankarea
 
+![sankarea](https://cdn.myanimelist.net/images/manga/3/137969.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 59

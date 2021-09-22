@@ -1,5 +1,7 @@
 # Denpa Kyoushi
 
+![denpa-kyoushi](https://cdn.myanimelist.net/images/anime/2/56701.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 電波教師

@@ -1,5 +1,7 @@
 # Yuuraku-chou Obake Dagashiya
 
+![yuuraku-chou-obake-dagashiya](https://cdn.myanimelist.net/images/manga/1/222206.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 34

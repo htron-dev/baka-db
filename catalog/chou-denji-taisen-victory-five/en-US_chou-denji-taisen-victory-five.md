@@ -1,5 +1,7 @@
 # Chou Denji Taisen Victory Five
 
+![chou-denji-taisen-victory-five](https://cdn.myanimelist.net/images/manga/2/207669.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

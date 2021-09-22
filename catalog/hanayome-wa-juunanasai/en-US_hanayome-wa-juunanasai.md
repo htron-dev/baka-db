@@ -1,5 +1,7 @@
 # Hanayome wa Juunanasai
 
+![hanayome-wa-juunanasai](https://cdn.myanimelist.net/images/manga/3/154473.jpg)
+
 -   **type**: manga
 -   **original-name**: 花嫁は十七歳
 -   **start-date**: 2012-12-28

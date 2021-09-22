@@ -1,5 +1,7 @@
 # Chitose etc.
 
+![chitose-etc](https://cdn.myanimelist.net/images/manga/1/71205.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 48

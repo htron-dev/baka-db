@@ -1,5 +1,7 @@
 # Persona 5 the Animation Specials
 
+![persona-5-the-animation-specials](https://cdn.myanimelist.net/images/anime/1344/101240.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: PERSONA5 the Animation Specials

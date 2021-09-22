@@ -1,5 +1,7 @@
 # God Eater: The 2nd Break
 
+![god-eater-the-2nd-break](https://cdn.myanimelist.net/images/manga/2/160487.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Fumou Renai
 
+![fumou-renai](https://cdn.myanimelist.net/images/manga/1/239639.jpg)
+
 -   **type**: manga
 -   **original-name**: 不毛恋愛
 -   **start-date**: 2020-01-31

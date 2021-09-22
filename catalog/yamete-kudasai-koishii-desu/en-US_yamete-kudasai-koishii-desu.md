@@ -1,5 +1,7 @@
 # Yamete kudasai, Koishii desu.
 
+![yamete-kudasai-koishii-desu](https://cdn.myanimelist.net/images/manga/1/171110.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

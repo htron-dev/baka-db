@@ -1,5 +1,7 @@
 # Teito Monogatari
 
+![teito-monogatari](https://cdn.myanimelist.net/images/anime/3/88664.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 帝都物語

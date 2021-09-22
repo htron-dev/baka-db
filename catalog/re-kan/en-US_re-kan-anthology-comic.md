@@ -1,5 +1,7 @@
 # Re-Kan! Anthology Comic
 
+![re-kan-anthology-comic](https://cdn.myanimelist.net/images/manga/3/158102.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

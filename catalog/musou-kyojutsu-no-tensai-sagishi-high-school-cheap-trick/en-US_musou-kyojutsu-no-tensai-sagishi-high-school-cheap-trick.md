@@ -1,5 +1,7 @@
 # Musou Kyojutsu no Tensai Sagishi: High School Cheap Trick
 
+![musou-kyojutsu-no-tensai-sagishi-high-school-cheap-trick](https://cdn.myanimelist.net/images/manga/2/163613.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

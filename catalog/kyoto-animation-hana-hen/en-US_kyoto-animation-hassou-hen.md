@@ -1,5 +1,7 @@
 # Kyoto Animation: Hassou-hen
 
+![kyoto-animation-hassou-hen](https://cdn.myanimelist.net/images/anime/10/69193.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 京都アニメーション CM「発想編」

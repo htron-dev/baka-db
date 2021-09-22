@@ -1,5 +1,7 @@
 # Alps Monogatari: Watashi no Annette Specials
 
+![alps-monogatari-watashi-no-annette-specials](https://cdn.myanimelist.net/images/anime/8/63437.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 世界名作劇場・完結版 アルプス物語 わたしのアンネット

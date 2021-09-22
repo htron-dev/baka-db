@@ -1,5 +1,7 @@
 # 22/7: 8 ＋ 3=?
 
+![22-7-8-＋-3](https://cdn.myanimelist.net/images/anime/1259/109909.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 22/7: 8 ＋ 3=?
@@ -25,4 +27,4 @@ This episode centers on the story of Mikami Kamiki, Yuuki Toujou, and Tsubomi Hi
 -   [My Anime list](https://myanimelist.net/anime/40924/22_7__8＋3_)
 -   [Official Site](https://227anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13299)
--   [Wikipedia](<https://en.wikipedia.org/wiki/22/7_(TV_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/22/7_%28TV_series%29)

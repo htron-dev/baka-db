@@ -1,5 +1,7 @@
 # Neo Devilman
 
+![neo-devilman](https://cdn.myanimelist.net/images/manga/4/126927.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

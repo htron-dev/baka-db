@@ -1,5 +1,7 @@
 # Love Live! Nijigasaki Gakuen School Idol Doukoukai: Tapestry Comic Book
 
+![love-live-nijigasaki-gakuen-school-idol-doukoukai-tapestry-comic-book](https://cdn.myanimelist.net/images/manga/1/239998.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: ラブライブ!虹ヶ咲学園スクールアイドル同好会タペストリー Comic Book

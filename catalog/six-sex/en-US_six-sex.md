@@ -1,5 +1,7 @@
 # Six Sex
 
+![six-sex](https://cdn.myanimelist.net/images/manga/2/227901.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

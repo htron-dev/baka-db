@@ -1,5 +1,7 @@
 # Ketsuraku Fetishism
 
+![ketsuraku-fetishism](https://cdn.myanimelist.net/images/manga/3/161509.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 欠落フェティシズム

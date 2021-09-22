@@ -1,5 +1,7 @@
 # Guillotine Machine Nakamura Nanako
 
+![guillotine-machine-nakamura-nanako](https://cdn.myanimelist.net/images/manga/2/124153.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: ギロチンマシン中村奈々子

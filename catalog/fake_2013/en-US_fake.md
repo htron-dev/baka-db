@@ -1,5 +1,7 @@
 # Fake♂
 
+![fake♂](https://cdn.myanimelist.net/images/manga/2/183020.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

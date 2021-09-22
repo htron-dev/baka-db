@@ -1,5 +1,7 @@
 # Kiyou na Yubisaki, Bukiyou na Tsumasaki
 
+![kiyou-na-yubisaki-bukiyou-na-tsumasaki](https://cdn.myanimelist.net/images/manga/2/211705.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

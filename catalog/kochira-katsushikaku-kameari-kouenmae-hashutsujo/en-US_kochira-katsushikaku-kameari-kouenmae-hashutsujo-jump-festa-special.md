@@ -1,5 +1,7 @@
 # Kochira Katsushikaku Kameari Kouenmae Hashutsujo: Jump Festa Special
 
+![kochira-katsushikaku-kameari-kouenmae-hashutsujo-jump-festa-special](https://cdn.myanimelist.net/images/anime/2/5942.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: こちら葛飾区亀有公園前派出所

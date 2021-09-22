@@ -1,5 +1,7 @@
 # Otokojuku Gaiden: Akashi Gouji
 
+![otokojuku-gaiden-akashi-gouji](https://cdn.myanimelist.net/images/manga/1/226164.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 37

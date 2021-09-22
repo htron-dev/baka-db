@@ -1,5 +1,7 @@
 # Isekai ni Kyuuseishu toshite Yobaremashita ga, Around 30 ni wa Muri nanode, Hissori Book Cafe Hajimemashita.
 
+![isekai-ni-kyuuseishu-toshite-yobaremashita-ga-around-30-ni-wa-muri-nanode-hissori-book-cafe-hajimemashita](https://cdn.myanimelist.net/images/manga/3/233382.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界に救世主として喚ばれましたが、アラサーには無理なので、ひっそりブックカフェ始めました。
 -   **start-date**: 2019-06-18

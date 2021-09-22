@@ -1,5 +1,7 @@
 # Fantasista Doll
 
+![fantasista-doll](https://cdn.myanimelist.net/images/anime/7/52529.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ファンタジスタドール

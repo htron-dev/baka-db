@@ -1,5 +1,7 @@
 # Tsundere Soutaisei Riron: Kyun Kyun Waka E = mc²
 
+![tsundere-soutaisei-riron-kyun-kyun-waka-e-mc](https://cdn.myanimelist.net/images/manga/1/37641.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ツンデレ相対性理論: キュンキュンわかる E = mc²

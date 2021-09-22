@@ -1,5 +1,7 @@
 # Big Magnum Kuroiwa Sensei
 
+![big-magnum-kuroiwa-sensei](https://cdn.myanimelist.net/images/manga/2/34321.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: ビッグマグナム黒岩先生

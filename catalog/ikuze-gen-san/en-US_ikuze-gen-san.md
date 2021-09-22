@@ -1,5 +1,7 @@
 # Ikuze! Gen-san
 
+![ikuze-gen-san](https://cdn.myanimelist.net/images/anime/10/21195.jpg)
+
 -   **type**: ona
 -   **episodes**: 24
 -   **original-name**: いくぜっ！源さん

@@ -1,5 +1,7 @@
 # Zero x Zero Memories
 
+![zero-x-zero-memories](https://cdn.myanimelist.net/images/manga/3/143881.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Yoku Wakaru Mahouka!
 
+![yoku-wakaru-mahouka](https://cdn.myanimelist.net/images/anime/3/60355.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: よくわかる魔法科！

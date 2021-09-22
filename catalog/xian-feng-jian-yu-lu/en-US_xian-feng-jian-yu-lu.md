@@ -1,5 +1,7 @@
 # Xian Feng Jian Yu Lu
 
+![xian-feng-jian-yu-lu](https://cdn.myanimelist.net/images/anime/1092/108634.jpg)
+
 -   **type**: ona
 -   **episodes**: 70
 -   **original-name**: 仙风剑雨录

@@ -1,5 +1,7 @@
 # Sakura no Chikai: Marronni☆Yell - Higashi no Hichou Shimotsuke-shi wo Yell!
 
+![sakura-no-chikai-marronni☆-yell-higashi-no-hichou-shimotsuke-shi-wo-yell](https://cdn.myanimelist.net/images/anime/9/89021.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: サクラノチカイ～まろに ☆ え～る 東の飛鳥下野市をえーる！～

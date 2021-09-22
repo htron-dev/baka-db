@@ -1,5 +1,7 @@
 # Hachi-nan tte, Sore wa Nai deshou!
 
+![hachi-nan-tte-sore-wa-nai-deshou](https://cdn.myanimelist.net/images/manga/3/167068.jpg)
+
 -   **type**: manga
 -   **original-name**: 八男って、それはないでしょう！
 -   **start-date**: 2015-04-19

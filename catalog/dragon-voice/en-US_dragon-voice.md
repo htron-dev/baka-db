@@ -1,5 +1,7 @@
 # Dragon Voice
 
+![dragon-voice](https://cdn.myanimelist.net/images/manga/3/186238.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 96

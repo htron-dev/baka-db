@@ -1,5 +1,7 @@
 # .hack//Roots
 
+![hack-roots](https://cdn.myanimelist.net/images/anime/3/13050.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: .hack//Roots

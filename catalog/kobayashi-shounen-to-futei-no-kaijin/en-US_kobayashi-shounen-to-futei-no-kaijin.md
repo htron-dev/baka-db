@@ -1,5 +1,7 @@
 # Kobayashi Shounen to Futei no Kaijin
 
+![kobayashi-shounen-to-futei-no-kaijin](https://cdn.myanimelist.net/images/manga/1/203488.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 37

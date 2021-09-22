@@ -1,5 +1,7 @@
 # Buchou no Nyanko
 
+![buchou-no-nyanko](https://cdn.myanimelist.net/images/manga/3/222622.jpg)
+
 -   **type**: manga
 -   **original-name**: 部長のにゃんこ
 -   **start-date**: 2017-04-01

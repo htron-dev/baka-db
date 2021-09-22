@@ -1,5 +1,7 @@
 # Hallelujah 7
 
+![hallelujah-7](https://cdn.myanimelist.net/images/manga/2/25884.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Lucky Charms &amp; Apple Jacks
 
+![lucky-charms-amp-apple-jacks](https://cdn.myanimelist.net/images/manga/2/159062.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Lucky Charms & Apple Jacks

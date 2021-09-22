@@ -1,5 +1,7 @@
 # Wild Baseballers
 
+![wild-baseballers](https://cdn.myanimelist.net/images/manga/1/92415.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 48

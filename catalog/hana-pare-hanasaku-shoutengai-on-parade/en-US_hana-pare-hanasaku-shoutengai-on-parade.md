@@ -1,5 +1,7 @@
 # Hana\*Pare!: Hanasaku Shoutengai On Parade
 
+![hana-pare-hanasaku-shoutengai-on-parade](https://cdn.myanimelist.net/images/manga/3/165124.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

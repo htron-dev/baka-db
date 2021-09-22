@@ -1,5 +1,7 @@
 # Cang Tian Zhi Qi
 
+![cang-tian-zhi-qi](https://cdn.myanimelist.net/images/manga/1/15497.jpg)
+
 -   **type**: manga
 -   **original-name**: 苍天之祈
 -   **start-date**: 2008-04-30

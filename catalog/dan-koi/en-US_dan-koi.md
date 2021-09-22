@@ -1,5 +1,7 @@
 # Dan Koi
 
+![dan-koi](https://cdn.myanimelist.net/images/manga/1/129071.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

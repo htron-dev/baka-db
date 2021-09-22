@@ -1,5 +1,7 @@
 # Avi-sama wa Kyounen 17-sai de Konoyo wo Satta no de Arimasu.
 
+![avi-sama-wa-kyounen-17-sai-de-konoyo-wo-satta-no-de-arimasu](https://cdn.myanimelist.net/images/manga/3/126869.jpg)
+
 -   **type**: manga
 -   **chapters**: 14
 -   **original-name**: あび様は享年 17 歳でこの世を去ったのであります。

@@ -1,5 +1,7 @@
 # Golf 13
 
+![golf-13](https://cdn.myanimelist.net/images/manga/2/35613.jpg)
+
 -   **type**: manga
 -   **original-name**: ゴルフ 13
 -   **start-date**: 2010-02-17

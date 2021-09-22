@@ -1,5 +1,7 @@
 # Haitoku no Mistu no Aji: Bokutachi Hentai da ne
 
+![haitoku-no-mistu-no-aji-bokutachi-hentai-da-ne](https://cdn.myanimelist.net/images/manga/1/193784.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

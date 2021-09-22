@@ -1,5 +1,7 @@
 # Odin: Koushi Hansen Starlight
 
+![odin-koushi-hansen-starlight](https://cdn.myanimelist.net/images/anime/11/72878.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: オーディーン・光子帆船スターライト

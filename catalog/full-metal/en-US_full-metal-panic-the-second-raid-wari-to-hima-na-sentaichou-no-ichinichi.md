@@ -1,5 +1,7 @@
 # Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi
 
+![full-metal-panic-the-second-raid-wari-to-hima-na-sentaichou-no-ichinichi](https://cdn.myanimelist.net/images/anime/3/23458.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: わりとヒマな戦隊長の一日

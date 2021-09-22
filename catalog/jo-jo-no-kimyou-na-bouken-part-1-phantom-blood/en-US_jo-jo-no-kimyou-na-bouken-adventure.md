@@ -1,5 +1,7 @@
 # JoJo no Kimyou na Bouken: Adventure
 
+![jo-jo-no-kimyou-na-bouken-adventure](https://cdn.myanimelist.net/images/anime/8/53147.jpg)
+
 -   **type**: ova
 -   **episodes**: 7
 -   **original-name**: ジョジョの奇妙な冒険 ADVENTURE

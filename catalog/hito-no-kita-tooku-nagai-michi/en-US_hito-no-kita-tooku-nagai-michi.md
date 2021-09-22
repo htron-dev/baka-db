@@ -1,5 +1,7 @@
 # Hito no Kita Tooku Nagai Michi
 
+![hito-no-kita-tooku-nagai-michi](https://cdn.myanimelist.net/images/anime/11/72053.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ヒトの来た遠く長い道

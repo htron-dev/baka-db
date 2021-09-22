@@ -1,5 +1,7 @@
 # Tsuki ni Tsubame to Migi ni Kage
 
+![tsuki-ni-tsubame-to-migi-ni-kage](https://cdn.myanimelist.net/images/manga/1/128169.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 月に燕と右に影

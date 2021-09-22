@@ -1,5 +1,7 @@
 # Saiyuuki: Dice of Destiny
 
+![saiyuuki-dice-of-destiny](https://cdn.myanimelist.net/images/manga/3/233356.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

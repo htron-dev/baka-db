@@ -1,5 +1,7 @@
 # Urarochi Diamond
 
+![urarochi-diamond](https://cdn.myanimelist.net/images/anime/13/7482.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 裏路地ダイヤモンド

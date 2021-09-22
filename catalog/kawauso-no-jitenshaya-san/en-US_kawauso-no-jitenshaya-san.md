@@ -1,5 +1,7 @@
 # Kawauso no Jitenshaya-san
 
+![kawauso-no-jitenshaya-san](https://cdn.myanimelist.net/images/manga/1/226856.jpg)
+
 -   **type**: manga
 -   **original-name**: かわうその自転車屋さん
 -   **start-date**: 2014-01-10

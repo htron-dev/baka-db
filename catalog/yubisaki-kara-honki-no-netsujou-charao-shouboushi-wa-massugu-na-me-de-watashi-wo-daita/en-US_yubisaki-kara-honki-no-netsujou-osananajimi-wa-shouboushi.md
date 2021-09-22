@@ -1,5 +1,7 @@
 # Yubisaki kara Honki no Netsujou: Osananajimi wa Shouboushi
 
+![yubisaki-kara-honki-no-netsujou-osananajimi-wa-shouboushi](https://cdn.myanimelist.net/images/anime/1751/102212.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 8
 -   **original-name**: 指先から本気の熱情-幼なじみは消防士-

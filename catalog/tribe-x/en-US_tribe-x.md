@@ -1,5 +1,7 @@
 # Tribe-X
 
+![tribe-x](https://cdn.myanimelist.net/images/manga/1/180728.jpg)
+
 -   **type**: manhwa
 -   **original-name**: TribeX [트라이브 엑스]
 -   **start-date**: 2014-10-09

@@ -1,5 +1,7 @@
 # Flagger no Houteishiki
 
+![flagger-no-houteishiki](https://cdn.myanimelist.net/images/manga/3/122529.jpg)
+
 -   **type**: manga
 -   **original-name**: フラッガーの方程式
 -   **start-date**: 2013-09-27

@@ -1,5 +1,7 @@
 # Minna wa Dou?
 
+![minna-wa-dou](https://cdn.myanimelist.net/images/manga/3/180241.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: みんなはどう?

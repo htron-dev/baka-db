@@ -1,5 +1,7 @@
 # Suki da Nante Ienai
 
+![suki-da-nante-ienai](https://cdn.myanimelist.net/images/manga/3/14548.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Mahou Sensou
 
+![mahou-sensou](https://cdn.myanimelist.net/images/anime/3/58103.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 魔法戦争

@@ -1,5 +1,7 @@
 # Koi wa Sekai Seifuku no Ato de
 
+![koi-wa-sekai-seifuku-no-ato-de](https://cdn.myanimelist.net/images/anime/1195/117531.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 恋は世界征服のあとで
 -   **rating**: None

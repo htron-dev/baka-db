@@ -1,5 +1,7 @@
 # Risou no Yuuwaku
 
+![risou-no-yuuwaku](https://cdn.myanimelist.net/images/manga/3/165101.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

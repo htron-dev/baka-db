@@ -1,5 +1,7 @@
 # Eb★Star
 
+![eb★-star](https://cdn.myanimelist.net/images/manga/3/44823.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: EB★ スター

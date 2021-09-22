@@ -1,5 +1,7 @@
 # Claymore
 
+![claymore](https://cdn.myanimelist.net/images/anime/3/21834.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: クレイモア

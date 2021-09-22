@@ -1,5 +1,7 @@
 # Fuguushoku "Kajishi" dakedo Saikyou desu: Kizukeba Nandemo Tsukureru You ni Natteita Otoko no Nonbiri Slow Life
 
+![fuguushoku-kajishi-dakedo-saikyou-desu-kizukeba-nandemo-tsukureru-you-ni-natteita-otoko-no-nonbiri-slow-life](https://cdn.myanimelist.net/images/manga/3/246143.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 不遇職『鍛冶師』だけど最強です ~気づけば何でも作れるようになっていた男ののんびりスローライフ~
 -   **start-date**: 2020-04-09

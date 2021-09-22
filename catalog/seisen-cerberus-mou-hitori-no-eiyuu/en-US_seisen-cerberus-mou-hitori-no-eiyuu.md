@@ -1,5 +1,7 @@
 # Seisen Cerberus: Mou Hitori no Eiyuu
 
+![seisen-cerberus-mou-hitori-no-eiyuu](https://cdn.myanimelist.net/images/manga/2/173427.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

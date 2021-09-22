@@ -1,5 +1,7 @@
 # NoisyCell x Ponkotsu Quest
 
+![noisy-cell-x-ponkotsu-quest](https://cdn.myanimelist.net/images/anime/3/86123.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: NoisyCell× ポンコツクエスト

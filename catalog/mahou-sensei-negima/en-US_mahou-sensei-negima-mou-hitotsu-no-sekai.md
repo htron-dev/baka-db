@@ -1,5 +1,7 @@
 # Mahou Sensei Negima!: Mou Hitotsu no Sekai
 
+![mahou-sensei-negima-mou-hitotsu-no-sekai](https://cdn.myanimelist.net/images/anime/8/15192.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 魔法先生ネギま! ~もうひとつの世界~

@@ -1,5 +1,7 @@
 # Taishou Otome Otogibanashi
 
+![taishou-otome-otogibanashi](https://cdn.myanimelist.net/images/manga/2/173765.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 42

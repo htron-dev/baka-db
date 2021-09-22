@@ -1,5 +1,7 @@
 # Fuson na Hana wo Aisureba
 
+![fuson-na-hana-wo-aisureba](https://cdn.myanimelist.net/images/manga/1/149215.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

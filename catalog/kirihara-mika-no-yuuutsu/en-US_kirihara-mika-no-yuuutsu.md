@@ -1,5 +1,7 @@
 # Kirihara Mika no Yuuutsu
 
+![kirihara-mika-no-yuuutsu](https://cdn.myanimelist.net/images/manga/3/95693.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

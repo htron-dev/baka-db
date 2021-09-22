@@ -1,5 +1,7 @@
 # Akuma to Himegimi
 
+![akuma-to-himegimi](https://cdn.myanimelist.net/images/anime/4/61547.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 悪魔と姫君

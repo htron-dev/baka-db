@@ -1,5 +1,7 @@
 # Blood Rain
 
+![blood-rain](https://cdn.myanimelist.net/images/manga/2/152389.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 86

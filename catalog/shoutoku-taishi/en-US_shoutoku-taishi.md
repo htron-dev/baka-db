@@ -1,5 +1,7 @@
 # Shoutoku Taishi
 
+![shoutoku-taishi](https://cdn.myanimelist.net/images/manga/3/18054.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 聖徳太子

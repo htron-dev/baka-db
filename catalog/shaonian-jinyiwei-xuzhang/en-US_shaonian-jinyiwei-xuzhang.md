@@ -1,5 +1,7 @@
 # Shaonian Jinyiwei Xuzhang
 
+![shaonian-jinyiwei-xuzhang](https://cdn.myanimelist.net/images/anime/1374/114823.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 少年锦衣卫 序章

@@ -1,5 +1,7 @@
 # Hataraku Maou-sama! 2nd Season
 
+![hataraku-maou-sama-2nd-season](https://cdn.myanimelist.net/images/anime/1237/113307.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: はたらく魔王さま！
 -   **rating**: PG-13 - Teens 13 or older

@@ -1,5 +1,7 @@
 # Hajime no Ippo: Rising
 
+![hajime-no-ippo-rising](https://cdn.myanimelist.net/images/anime/6/56147.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: はじめの一歩 Rising

@@ -1,5 +1,7 @@
 # Kuroshitsuji: Book of Murder
 
+![kuroshitsuji-book-of-murder](https://cdn.myanimelist.net/images/anime/12/74392.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 黒執事 Book of Murder

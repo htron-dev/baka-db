@@ -1,5 +1,7 @@
 # I Am Sherlock
 
+![i-am-sherlock](https://cdn.myanimelist.net/images/manga/2/199488.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

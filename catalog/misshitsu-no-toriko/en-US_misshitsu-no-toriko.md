@@ -1,5 +1,7 @@
 # Misshitsu no Toriko
 
+![misshitsu-no-toriko](https://cdn.myanimelist.net/images/manga/1/7689.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

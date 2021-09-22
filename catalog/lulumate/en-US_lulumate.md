@@ -1,5 +1,7 @@
 # Lulumate
 
+![lulumate](https://cdn.myanimelist.net/images/manga/2/164794.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 26

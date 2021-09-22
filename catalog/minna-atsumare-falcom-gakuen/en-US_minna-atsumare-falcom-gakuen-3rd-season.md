@@ -1,5 +1,7 @@
 # Minna Atsumare! Falcom Gakuen 3rd Season
 
+![minna-atsumare-falcom-gakuen-3rd-season](https://cdn.myanimelist.net/images/anime/8/75783.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: みんな集まれ! ファルコム学園　３期
 -   **rating**: PG-13 - Teens 13 or older

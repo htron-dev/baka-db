@@ -1,5 +1,7 @@
 # Aoi Sekai no Chuushin de
 
+![aoi-sekai-no-chuushin-de](https://cdn.myanimelist.net/images/anime/4/43233.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 蒼い世界の中心で

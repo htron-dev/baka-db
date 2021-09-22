@@ -1,5 +1,7 @@
 # Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?
 
+![uchiage-hanabi-shita-kara-miru-ka-yoko-kara-miru-ka](https://cdn.myanimelist.net/images/anime/10/86521.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 打ち上げ花火、下から見るか？横から見るか？

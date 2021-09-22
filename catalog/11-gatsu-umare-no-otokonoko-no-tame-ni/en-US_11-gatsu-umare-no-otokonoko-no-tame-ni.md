@@ -1,5 +1,7 @@
 # 11-gatsu Umare no Otokonoko no Tame ni.
 
+![11-gatsu-umare-no-otokonoko-no-tame-ni](https://cdn.myanimelist.net/images/anime/1539/112584.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 11 月うまれの男の子のために。

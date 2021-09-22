@@ -1,5 +1,7 @@
 # Unmei no Tsugai ga Omae da Nante
 
+![unmei-no-tsugai-ga-omae-da-nante](https://cdn.myanimelist.net/images/manga/2/241426.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

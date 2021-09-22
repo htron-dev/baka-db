@@ -1,5 +1,7 @@
 # Tsuki Fushuku Shiyashiya
 
+![tsuki-fushuku-shiyashiya](https://cdn.myanimelist.net/images/manga/1/39027.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 月巫祝のシャシャ

@@ -1,5 +1,7 @@
 # Itsumo Misora
 
+![itsumo-misora](https://cdn.myanimelist.net/images/manga/3/165721.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 49

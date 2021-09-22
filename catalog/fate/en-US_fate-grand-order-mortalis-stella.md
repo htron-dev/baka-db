@@ -1,5 +1,7 @@
 # Fate/Grand Order: Mortalis:Stella
 
+![fate-grand-order-mortalis-stella](https://cdn.myanimelist.net/images/manga/3/205353.jpg)
+
 -   **type**: manga
 -   **original-name**: Fate/Grand Order -mortalis:stella-
 -   **start-date**: 2017-07-28

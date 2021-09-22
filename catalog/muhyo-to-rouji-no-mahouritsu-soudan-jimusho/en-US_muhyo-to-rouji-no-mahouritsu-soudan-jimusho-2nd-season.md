@@ -1,5 +1,7 @@
 # Muhyo to Rouji no Mahouritsu Soudan Jimusho 2nd Season
 
+![muhyo-to-rouji-no-mahouritsu-soudan-jimusho-2nd-season](https://cdn.myanimelist.net/images/anime/1962/108429.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ムヒョとロージーの魔法律相談事務所 2 期

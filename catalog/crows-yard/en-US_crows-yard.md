@@ -1,5 +1,7 @@
 # Crows Yard
 
+![crows-yard](https://cdn.myanimelist.net/images/manga/2/170723.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: クロウズヤード

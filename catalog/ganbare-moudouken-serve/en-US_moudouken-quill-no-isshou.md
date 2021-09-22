@@ -1,5 +1,7 @@
 # Moudouken Quill no Isshou
 
+![moudouken-quill-no-isshou](https://cdn.myanimelist.net/images/anime/11/65989.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 盲導犬クイールの一生

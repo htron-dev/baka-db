@@ -1,5 +1,7 @@
 # Wonder Egg Priority
 
+![wonder-egg-priority](https://cdn.myanimelist.net/images/anime/1079/110751.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ワンダーエッグ・プライオリティ

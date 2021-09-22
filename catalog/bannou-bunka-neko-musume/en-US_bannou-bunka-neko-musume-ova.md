@@ -1,5 +1,7 @@
 # Bannou Bunka Neko-Musume
 
+![bannou-bunka-neko-musume](https://cdn.myanimelist.net/images/anime/7/10720.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 万能文化猫娘

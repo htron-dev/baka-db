@@ -1,5 +1,7 @@
 # Mokei Senshi Gunpla Builders Beginning G
 
+![mokei-senshi-gunpla-builders-beginning-g](https://cdn.myanimelist.net/images/anime/13/25033.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 模型戦士 ガンプラ ビルダーズ ビギニング G

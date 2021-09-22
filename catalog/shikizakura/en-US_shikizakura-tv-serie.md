@@ -1,5 +1,7 @@
 # Shikizakura
 
+![shikizakura](https://cdn.myanimelist.net/images/anime/1175/116578.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: シキザクラ

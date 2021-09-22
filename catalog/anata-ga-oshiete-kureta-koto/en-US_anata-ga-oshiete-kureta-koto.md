@@ -1,5 +1,7 @@
 # Anata ga Oshiete Kureta Koto
 
+![anata-ga-oshiete-kureta-koto](https://cdn.myanimelist.net/images/manga/1/6091.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

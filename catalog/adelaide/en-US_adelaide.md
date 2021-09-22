@@ -1,5 +1,7 @@
 # Adelaide
 
+![adelaide](https://cdn.myanimelist.net/images/manga/1/233792.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 아델라이드
 -   **start-date**: 2017-12-22

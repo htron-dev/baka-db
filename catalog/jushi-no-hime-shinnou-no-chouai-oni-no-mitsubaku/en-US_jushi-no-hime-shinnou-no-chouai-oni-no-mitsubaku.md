@@ -1,5 +1,7 @@
 # Jushi no Hime: Shinnou no Chouai, Oni no Mitsubaku
 
+![jushi-no-hime-shinnou-no-chouai-oni-no-mitsubaku](https://cdn.myanimelist.net/images/manga/1/194881.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Jue Shi Wu Hun
 
+![jue-shi-wu-hun](https://cdn.myanimelist.net/images/anime/1183/110438.jpg)
+
 -   **type**: ona
 -   **episodes**: 160
 -   **original-name**: 绝世武魂

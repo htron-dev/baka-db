@@ -1,5 +1,7 @@
 # Ginga Eiyuu Densetsu Gaiden: Ougon no Tsubasa
 
+![ginga-eiyuu-densetsu-gaiden-ougon-no-tsubasa](https://cdn.myanimelist.net/images/anime/7/52221.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 銀河英雄伝説外伝　黄金の翼

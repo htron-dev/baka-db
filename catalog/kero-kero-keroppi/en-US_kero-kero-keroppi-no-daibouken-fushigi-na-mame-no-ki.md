@@ -1,5 +1,7 @@
 # Kero Kero Keroppi no Daibouken: Fushigi na Mame no Ki
 
+![kero-kero-keroppi-no-daibouken-fushigi-na-mame-no-ki](https://cdn.myanimelist.net/images/anime/6/46717.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: けろけろけろっぴの大冒険 ふしぎな豆の木

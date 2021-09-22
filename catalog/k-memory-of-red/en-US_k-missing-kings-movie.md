@@ -1,5 +1,7 @@
 # K: Missing Kings
 
+![k-missing-kings](https://cdn.myanimelist.net/images/anime/5/71795.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: K MISSING KINGS
@@ -30,4 +32,4 @@ The second step in the K Project series, K: Missing Kings, continues the story o
 -   [Official Site](http://k-project-movie.jpn.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9605)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15350)
--   [Wikipedia](<http://en.wikipedia.org/wiki/K_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/K_%28anime%29)

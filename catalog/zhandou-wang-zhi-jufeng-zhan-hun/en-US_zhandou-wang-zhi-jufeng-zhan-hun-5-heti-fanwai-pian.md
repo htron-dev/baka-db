@@ -1,5 +1,7 @@
 # Zhandou Wang Zhi Jufeng Zhan Hun 5: Heti Fanwai Pian
 
+![zhandou-wang-zhi-jufeng-zhan-hun-5-heti-fanwai-pian](https://cdn.myanimelist.net/images/anime/1708/109501.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: 战斗王之飓风战魂 5 合体番外篇

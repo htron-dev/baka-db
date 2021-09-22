@@ -1,5 +1,7 @@
 # Jinzou Ningen Kikaider The Animation
 
+![jinzou-ningen-kikaider-the-animation](https://cdn.myanimelist.net/images/anime/3/75542.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 人造人間キカイダー THE ANIMATION

@@ -1,5 +1,7 @@
 # Migite ni Juu, Hidarite ni Ai.
 
+![migite-ni-juu-hidarite-ni-ai](https://cdn.myanimelist.net/images/manga/4/130157.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

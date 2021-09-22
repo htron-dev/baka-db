@@ -1,5 +1,7 @@
 # Lupin III: Chi no Kokuin - Eien no Mermaid
 
+![lupin-iii-chi-no-kokuin-eien-no-mermaid](https://cdn.myanimelist.net/images/anime/12/32929.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ルパン三世 血の刻印 - 永遠の Mermaid

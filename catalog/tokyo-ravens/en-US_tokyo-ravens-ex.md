@@ -1,5 +1,7 @@
 # Tokyo Ravens EX
 
+![tokyo-ravens-ex](https://cdn.myanimelist.net/images/manga/3/149078.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 東京レイヴンズ EX
 -   **start-date**: 2013-07-20

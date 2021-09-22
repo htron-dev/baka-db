@@ -1,5 +1,7 @@
 # Torotoro no Koi
 
+![torotoro-no-koi](https://cdn.myanimelist.net/images/manga/1/190888.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

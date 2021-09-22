@@ -1,5 +1,7 @@
 # The Danger Is Walking
 
+![the-danger-is-walking](https://cdn.myanimelist.net/images/manga/3/24653.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 危険がウォーキング

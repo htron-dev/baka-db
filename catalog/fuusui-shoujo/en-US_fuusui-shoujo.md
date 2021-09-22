@@ -1,5 +1,7 @@
 # Fuusui Shoujo
 
+![fuusui-shoujo](https://cdn.myanimelist.net/images/manga/3/163251.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 22

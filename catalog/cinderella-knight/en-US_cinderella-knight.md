@@ -1,5 +1,7 @@
 # Cinderella Knight
 
+![cinderella-knight](https://cdn.myanimelist.net/images/manga/4/87497.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: シンデレラ騎士〈ナイト〉

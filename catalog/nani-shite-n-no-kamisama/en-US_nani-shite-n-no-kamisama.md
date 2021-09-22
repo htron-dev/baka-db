@@ -1,5 +1,7 @@
 # Nani Shite n no Kamisama
 
+![nani-shite-n-no-kamisama](https://cdn.myanimelist.net/images/manga/1/170747.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 28

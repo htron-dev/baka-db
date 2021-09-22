@@ -1,5 +1,7 @@
 # Tanetsuke Saretai Onna-tachi
 
+![tanetsuke-saretai-onna-tachi](https://cdn.myanimelist.net/images/manga/1/202228.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

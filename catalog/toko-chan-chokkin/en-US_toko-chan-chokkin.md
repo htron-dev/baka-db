@@ -1,5 +1,7 @@
 # Toko-chan Chokkin
 
+![toko-chan-chokkin](https://cdn.myanimelist.net/images/anime/12/70833.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 3
 -   **original-name**: とこちゃんちょっきん

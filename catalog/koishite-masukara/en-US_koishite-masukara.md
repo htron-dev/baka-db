@@ -1,5 +1,7 @@
 # Koishite Masukara
 
+![koishite-masukara](https://cdn.myanimelist.net/images/manga/3/24981.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋してますから

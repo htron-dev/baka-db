@@ -1,5 +1,7 @@
 # Yawara!: Sore Yuke Koshinuke Kids!!
 
+![yawara-sore-yuke-koshinuke-kids](https://cdn.myanimelist.net/images/anime/1188/111846.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: YAWARA！ それゆけ腰ぬけキッズ！！

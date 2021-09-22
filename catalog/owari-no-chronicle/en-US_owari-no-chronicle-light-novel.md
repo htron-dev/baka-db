@@ -1,5 +1,7 @@
 # Owari no Chronicle
 
+![owari-no-chronicle](https://cdn.myanimelist.net/images/manga/1/133157.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 14
 -   **chapters**: 258

@@ -1,5 +1,7 @@
 # Kuzu dakedo Inou Battle de Haken Neratte Mita
 
+![kuzu-dakedo-inou-battle-de-haken-neratte-mita](https://cdn.myanimelist.net/images/manga/1/158955.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

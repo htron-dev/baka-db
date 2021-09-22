@@ -1,5 +1,7 @@
 # Kimetsu no Yaiba: Tomioka Giyuu Gaiden
 
+![kimetsu-no-yaiba-tomioka-giyuu-gaiden](https://cdn.myanimelist.net/images/manga/3/222655.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 鬼滅の刃 冨岡義勇 外伝

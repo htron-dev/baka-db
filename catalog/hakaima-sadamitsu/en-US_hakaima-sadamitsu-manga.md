@@ -1,5 +1,7 @@
 # Hakaima Sadamitsu
 
+![hakaima-sadamitsu](https://cdn.myanimelist.net/images/manga/2/205407.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 79

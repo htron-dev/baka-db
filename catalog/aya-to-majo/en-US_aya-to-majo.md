@@ -1,5 +1,7 @@
 # Aya to Majo
 
+![aya-to-majo](https://cdn.myanimelist.net/images/anime/1242/110170.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: アーヤと魔女

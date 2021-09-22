@@ -1,5 +1,7 @@
 # Melan Collie
 
+![melan-collie](https://cdn.myanimelist.net/images/manga/1/172528.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: メラン・コリー

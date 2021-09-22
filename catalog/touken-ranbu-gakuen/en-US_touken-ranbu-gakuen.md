@@ -1,5 +1,7 @@
 # Touken Ranbu Gakuen
 
+![touken-ranbu-gakuen](https://cdn.myanimelist.net/images/manga/2/168991.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

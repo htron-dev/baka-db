@@ -1,5 +1,7 @@
 # Mekakushi Sarete, Fukushuu no Otoko ni: Koukyuu Hotel no Himitsu no Service
 
+![mekakushi-sarete-fukushuu-no-otoko-ni-koukyuu-hotel-no-himitsu-no-service](https://cdn.myanimelist.net/images/manga/1/194631.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 目隠しされて、複数の男に －高級ホテルの秘密のサービス－

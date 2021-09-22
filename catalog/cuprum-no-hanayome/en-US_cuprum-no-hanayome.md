@@ -1,5 +1,7 @@
 # Cuprum no Hanayome
 
+![cuprum-no-hanayome](https://cdn.myanimelist.net/images/manga/1/239731.jpg)
+
 -   **type**: manga
 -   **original-name**: クプルムの花嫁
 -   **start-date**: 2020-05-15

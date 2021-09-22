@@ -1,5 +1,7 @@
 # Mahou Shoujo Ikusei Keikaku
 
+![mahou-shoujo-ikusei-keikaku](https://cdn.myanimelist.net/images/anime/2/81087.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 魔法少女育成計画

@@ -1,5 +1,7 @@
 # Sasurai Afro Tanaka
 
+![sasurai-afro-tanaka](https://cdn.myanimelist.net/images/manga/3/169034.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 118

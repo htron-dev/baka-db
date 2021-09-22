@@ -1,5 +1,7 @@
 # 5-nin no Ou
 
+![5-nin-no-ou](https://cdn.myanimelist.net/images/manga/2/220427.jpg)
+
 -   **type**: manga
 -   **original-name**: 5 人の王
 -   **start-date**: 2014-10-22

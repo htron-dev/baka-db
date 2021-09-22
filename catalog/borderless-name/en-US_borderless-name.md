@@ -1,5 +1,7 @@
 # Borderless Name
 
+![borderless-name](https://cdn.myanimelist.net/images/manga/3/248751.jpg)
+
 -   **type**: manga
 -   **original-name**: ボーダレスネーム
 -   **start-date**: 2021-04-23

@@ -1,5 +1,7 @@
 # Luv Clinic
 
+![luv-clinic](https://cdn.myanimelist.net/images/manga/2/9406.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ラブ・クリニック

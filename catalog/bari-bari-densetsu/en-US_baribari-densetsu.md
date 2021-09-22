@@ -1,5 +1,7 @@
 # Baribari Densetsu
 
+![baribari-densetsu](https://cdn.myanimelist.net/images/manga/2/169352.jpg)
+
 -   **type**: manga
 -   **volumes**: 38
 -   **original-name**: バリバリ伝説

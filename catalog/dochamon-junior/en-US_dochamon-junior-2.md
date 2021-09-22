@@ -1,5 +1,7 @@
 # Dochamon Junior 2
 
+![dochamon-junior-2](https://cdn.myanimelist.net/images/anime/9/82316.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 16
 -   **original-name**: どちゃもん じゅにあ 2

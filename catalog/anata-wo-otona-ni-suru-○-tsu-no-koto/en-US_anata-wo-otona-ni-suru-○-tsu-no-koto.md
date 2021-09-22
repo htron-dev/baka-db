@@ -1,5 +1,7 @@
 # Anata wo Otona ni Suru ○-tsu no Koto
 
+![anata-wo-otona-ni-suru-○-tsu-no-koto](https://cdn.myanimelist.net/images/manga/2/215179.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

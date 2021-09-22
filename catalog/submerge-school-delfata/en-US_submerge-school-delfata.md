@@ -1,5 +1,7 @@
 # Submerge School Delfata
 
+![submerge-school-delfata](https://cdn.myanimelist.net/images/manga/1/157066.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Hokuou Kizoku to Moukinzuma no Yukiguni Karigurashi
 
+![hokuou-kizoku-to-moukinzuma-no-yukiguni-karigurashi](https://cdn.myanimelist.net/images/manga/2/225853.jpg)
+
 -   **type**: manga
 -   **original-name**: 北欧貴族と猛禽妻の雪国狩り暮らし
 -   **start-date**: 2018-03-30

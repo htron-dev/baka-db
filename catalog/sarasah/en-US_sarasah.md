@@ -1,5 +1,7 @@
 # Sarasah
 
+![sarasah](https://cdn.myanimelist.net/images/manga/4/30265.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 사라사
 

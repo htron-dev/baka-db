@@ -1,5 +1,7 @@
 # Chou Ningen Yousai: Hiroshi Senki
 
+![chou-ningen-yousai-hiroshi-senki](https://cdn.myanimelist.net/images/manga/1/181201.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 30

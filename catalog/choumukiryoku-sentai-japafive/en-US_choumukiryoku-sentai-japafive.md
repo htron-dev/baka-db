@@ -1,5 +1,7 @@
 # Choumukiryoku Sentai Japafive
 
+![choumukiryoku-sentai-japafive](https://cdn.myanimelist.net/images/manga/3/127647.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: 超無気力戦隊ジャパファイブ

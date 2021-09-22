@@ -1,5 +1,7 @@
 # Ore, Tsushima (ONA)
 
+![ore-tsushima-ona](https://cdn.myanimelist.net/images/anime/1809/117254.jpg)
+
 -   **type**: ona
 -   **original-name**: 俺、つしま
 -   **start-date**: 2021-07-05

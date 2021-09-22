@@ -1,5 +1,7 @@
 # Haritoge Clemmie to Ou no Ie
 
+![haritoge-clemmie-to-ou-no-ie](https://cdn.myanimelist.net/images/manga/1/222002.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 30

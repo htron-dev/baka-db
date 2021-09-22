@@ -1,5 +1,7 @@
 # One Piece Movie 5: Norowareta Seiken
 
+![one-piece-movie-5-norowareta-seiken](https://cdn.myanimelist.net/images/anime/2/25413.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ワンピース呪われた聖剣

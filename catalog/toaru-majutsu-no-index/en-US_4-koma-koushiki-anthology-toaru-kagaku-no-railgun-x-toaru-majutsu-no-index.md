@@ -1,5 +1,7 @@
 # 4-koma Koushiki Anthology: Toaru Kagaku no Railgun x Toaru Majutsu no Index
 
+![4-koma-koushiki-anthology-toaru-kagaku-no-railgun-x-toaru-majutsu-no-index](https://cdn.myanimelist.net/images/manga/1/103169.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 49

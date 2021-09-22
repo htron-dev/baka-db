@@ -1,5 +1,7 @@
 # Nora
 
+![nora](https://cdn.myanimelist.net/images/manga/1/126611.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 34

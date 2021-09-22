@@ -1,5 +1,7 @@
 # Shingeki no Bahamut: Genesis - Short Story
 
+![shingeki-no-bahamut-genesis-short-story](https://cdn.myanimelist.net/images/anime/1581/96672.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 【神撃のバハムート GENESIS】 Short story

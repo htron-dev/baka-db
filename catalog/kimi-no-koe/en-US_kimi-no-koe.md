@@ -1,5 +1,7 @@
 # Kimi no Koe
 
+![kimi-no-koe](https://cdn.myanimelist.net/images/manga/2/237214.jpg)
+
 -   **type**: manga
 -   **original-name**: 君ノ声
 -   **start-date**: 2020-06-30

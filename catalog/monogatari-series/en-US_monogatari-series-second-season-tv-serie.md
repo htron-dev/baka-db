@@ -1,5 +1,7 @@
 # Monogatari Series: Second Season
 
+![monogatari-series-second-season](https://cdn.myanimelist.net/images/anime/3/52133.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 〈物語〉シリーズ セカンドシーズン

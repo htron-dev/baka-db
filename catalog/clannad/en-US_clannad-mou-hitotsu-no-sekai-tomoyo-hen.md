@@ -1,5 +1,7 @@
 # Clannad: Mou Hitotsu no Sekai, Tomoyo-hen
 
+![clannad-mou-hitotsu-no-sekai-tomoyo-hen](https://cdn.myanimelist.net/images/anime/12/19620.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: -クラナド-　もうひとつの世界　智代編

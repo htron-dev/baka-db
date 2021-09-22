@@ -1,5 +1,7 @@
 # Bokutachi, Ai Nanka Shiranai
 
+![bokutachi-ai-nanka-shiranai](https://cdn.myanimelist.net/images/manga/1/53993.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Wakudeki: Ouji-sama to Koi no Kakehiki
 
+![wakudeki-ouji-sama-to-koi-no-kakehiki](https://cdn.myanimelist.net/images/manga/2/192213.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

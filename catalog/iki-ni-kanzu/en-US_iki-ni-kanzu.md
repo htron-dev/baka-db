@@ -1,5 +1,7 @@
 # Iki ni Kanzu
 
+![iki-ni-kanzu](https://cdn.myanimelist.net/images/manga/2/131963.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 意気に感ず

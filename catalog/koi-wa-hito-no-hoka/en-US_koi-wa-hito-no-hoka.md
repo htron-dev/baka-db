@@ -1,5 +1,7 @@
 # Koi wa Hito no Hoka
 
+![koi-wa-hito-no-hoka](https://cdn.myanimelist.net/images/manga/3/175347.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

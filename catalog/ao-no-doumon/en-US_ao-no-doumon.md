@@ -1,5 +1,7 @@
 # Ao no Doumon
 
+![ao-no-doumon](https://cdn.myanimelist.net/images/anime/7/66223.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 青の洞門

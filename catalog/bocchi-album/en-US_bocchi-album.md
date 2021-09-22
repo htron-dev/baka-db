@@ -1,5 +1,7 @@
 # Bocchi Album
 
+![bocchi-album](https://cdn.myanimelist.net/images/manga/2/182525.jpg)
+
 -   **type**: manga
 -   **original-name**: ぼっちアルバム
 -   **start-date**: 2015-06-05

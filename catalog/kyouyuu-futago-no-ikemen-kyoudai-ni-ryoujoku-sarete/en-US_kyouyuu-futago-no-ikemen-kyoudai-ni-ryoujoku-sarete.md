@@ -1,5 +1,7 @@
 # Kyouyuu: Futago no Ikemen Kyoudai ni Ryoujoku Sarete
 
+![kyouyuu-futago-no-ikemen-kyoudai-ni-ryoujoku-sarete](https://cdn.myanimelist.net/images/manga/1/196209.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

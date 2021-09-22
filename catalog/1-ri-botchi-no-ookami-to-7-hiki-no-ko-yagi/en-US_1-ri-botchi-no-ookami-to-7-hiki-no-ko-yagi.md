@@ -1,5 +1,7 @@
 # 1-ri Botchi no Ookami to 7-hiki no Ko Yagi
 
+![1-ri-botchi-no-ookami-to-7-hiki-no-ko-yagi](https://cdn.myanimelist.net/images/anime/4/82212.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: １人ぼっちの狼と７ひきの子やぎ

@@ -1,5 +1,7 @@
 # Animal Touch
 
+![animal-touch](https://cdn.myanimelist.net/images/manga/2/78067.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: アニマル Touch

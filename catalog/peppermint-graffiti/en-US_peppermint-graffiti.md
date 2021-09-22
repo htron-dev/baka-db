@@ -1,5 +1,7 @@
 # Peppermint Graffiti
 
+![peppermint-graffiti](https://cdn.myanimelist.net/images/manga/2/153972.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

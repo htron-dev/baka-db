@@ -1,5 +1,7 @@
 # Kikumana
 
+![kikumana](https://cdn.myanimelist.net/images/anime/7/79930.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: キクマナ

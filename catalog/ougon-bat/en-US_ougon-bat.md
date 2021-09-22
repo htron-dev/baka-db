@@ -1,5 +1,7 @@
 # Ougon Bat
 
+![ougon-bat](https://cdn.myanimelist.net/images/anime/2/28619.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 黄金バット

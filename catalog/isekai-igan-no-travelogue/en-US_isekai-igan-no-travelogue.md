@@ -1,5 +1,7 @@
 # Isekai Igan no Travelogue
 
+![isekai-igan-no-travelogue](https://cdn.myanimelist.net/images/manga/2/160668.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 30

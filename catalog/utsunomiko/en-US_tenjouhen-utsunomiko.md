@@ -1,5 +1,7 @@
 # Tenjouhen: Utsunomiko
 
+![tenjouhen-utsunomiko](https://cdn.myanimelist.net/images/anime/6/12812.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 天上編・宇宙皇子

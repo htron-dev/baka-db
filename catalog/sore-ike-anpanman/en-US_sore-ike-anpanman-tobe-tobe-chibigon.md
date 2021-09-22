@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Tobe! Tobe! Chibigon
 
+![sore-ike-anpanman-tobe-tobe-chibigon](https://cdn.myanimelist.net/images/anime/4/27773.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ！アンパンマン とべ! とべ! ちびごん

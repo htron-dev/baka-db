@@ -1,5 +1,7 @@
 # Ultimate Lovers
 
+![ultimate-lovers](https://cdn.myanimelist.net/images/manga/2/172439.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

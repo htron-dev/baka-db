@@ -1,5 +1,7 @@
 # Gunnm
 
+![gunnm](https://cdn.myanimelist.net/images/anime/11/41257.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 銃夢 GUNNM

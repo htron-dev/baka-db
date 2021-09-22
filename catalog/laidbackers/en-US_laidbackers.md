@@ -1,5 +1,7 @@
 # Laidbackers
 
+![laidbackers](https://cdn.myanimelist.net/images/anime/1797/99165.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: LAIDBACKERS-レイドバッカーズ-

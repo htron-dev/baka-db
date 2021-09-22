@@ -1,5 +1,7 @@
 # MÄR
 
+![mar](https://cdn.myanimelist.net/images/manga/1/165744.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 161

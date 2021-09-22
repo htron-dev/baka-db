@@ -1,5 +1,7 @@
 # Chizumi &amp; Fujiomi - Haru wo Matsukoro
 
+![chizumi-amp-fujiomi-haru-wo-matsukoro](https://cdn.myanimelist.net/images/manga/3/16817.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

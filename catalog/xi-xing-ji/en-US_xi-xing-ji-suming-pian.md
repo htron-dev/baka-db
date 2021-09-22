@@ -1,5 +1,7 @@
 # Xi Xing Ji: Suming Pian
 
+![xi-xing-ji-suming-pian](https://cdn.myanimelist.net/images/anime/1166/115424.jpg)
+
 -   **type**: ona
 -   **episodes**: 20
 -   **original-name**: 西行纪之宿命篇

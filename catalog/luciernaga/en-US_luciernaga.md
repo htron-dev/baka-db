@@ -1,5 +1,7 @@
 # Luciérnaga
 
+![luciernaga](https://cdn.myanimelist.net/images/manga/1/191233.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

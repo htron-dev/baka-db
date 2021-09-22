@@ -1,5 +1,7 @@
 # Hatsukoi no Atosaki
 
+![hatsukoi-no-atosaki](https://cdn.myanimelist.net/images/manga/3/187022.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

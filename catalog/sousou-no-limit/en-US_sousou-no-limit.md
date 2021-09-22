@@ -1,5 +1,7 @@
 # Sousou no Limit
 
+![sousou-no-limit](https://cdn.myanimelist.net/images/manga/1/174020.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

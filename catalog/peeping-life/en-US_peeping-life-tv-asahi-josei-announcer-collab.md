@@ -1,5 +1,7 @@
 # Peeping Life: TV Asahi Josei Announcer Collab
 
+![peeping-life-tv-asahi-josei-announcer-collab](https://cdn.myanimelist.net/images/anime/3/77235.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Peeping Life 「テレビ朝日女性アナウンサー」コラボ

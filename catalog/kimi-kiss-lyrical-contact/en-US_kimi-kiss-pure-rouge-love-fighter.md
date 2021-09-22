@@ -1,5 +1,7 @@
 # KimiKiss Pure Rouge: Love Fighter
 
+![kimi-kiss-pure-rouge-love-fighter](https://cdn.myanimelist.net/images/anime/13/27833.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: キミキス pure rouge

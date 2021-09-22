@@ -1,5 +1,7 @@
 # Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu
 
+![gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu](https://cdn.myanimelist.net/images/anime/1381/114737.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 骸骨騎士様、只今異世界へお出掛け中
 -   **rating**: None

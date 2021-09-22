@@ -1,5 +1,7 @@
 # Yousei Jiken
 
+![yousei-jiken](https://cdn.myanimelist.net/images/manga/3/9211.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 妖精事件

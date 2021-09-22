@@ -1,5 +1,7 @@
 # Chou yo Hana yo
 
+![chou-yo-hana-yo](https://cdn.myanimelist.net/images/manga/4/61401.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

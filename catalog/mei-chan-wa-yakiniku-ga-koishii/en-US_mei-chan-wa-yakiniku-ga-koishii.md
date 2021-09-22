@@ -1,5 +1,7 @@
 # Mei-chan wa Yakiniku ga Koishii
 
+![mei-chan-wa-yakiniku-ga-koishii](https://cdn.myanimelist.net/images/manga/2/239890.jpg)
+
 -   **type**: manga
 -   **original-name**: メイちゃんは焼肉が恋しい
 -   **start-date**: 2018-12-25

@@ -1,5 +1,7 @@
 # Mi-kun no Chikuwabu + Ore
 
+![mi-kun-no-chikuwabu-ore](https://cdn.myanimelist.net/images/manga/1/163910.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

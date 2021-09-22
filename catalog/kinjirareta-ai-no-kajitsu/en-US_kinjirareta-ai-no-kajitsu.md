@@ -1,5 +1,7 @@
 # Kinjirareta Ai no Kajitsu
 
+![kinjirareta-ai-no-kajitsu](https://cdn.myanimelist.net/images/manga/5/40588.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

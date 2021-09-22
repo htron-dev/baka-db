@@ -1,5 +1,7 @@
 # Gente: Ristorante no Hitobito
 
+![gente-ristorante-no-hitobito](https://cdn.myanimelist.net/images/manga/2/202788.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

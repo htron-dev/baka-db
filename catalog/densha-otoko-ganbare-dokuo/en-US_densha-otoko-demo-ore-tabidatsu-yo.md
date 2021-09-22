@@ -1,5 +1,7 @@
 # Densha Otoko: Demo, Ore Tabidatsu yo
 
+![densha-otoko-demo-ore-tabidatsu-yo](https://cdn.myanimelist.net/images/manga/2/5240.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

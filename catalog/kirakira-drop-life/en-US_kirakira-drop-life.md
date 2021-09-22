@@ -1,5 +1,7 @@
 # Kirakira Drop Life
 
+![kirakira-drop-life](https://cdn.myanimelist.net/images/manga/1/245628.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

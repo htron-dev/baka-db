@@ -1,5 +1,7 @@
 # JK kara Yarinaosu Silver Plan
 
+![jk-kara-yarinaosu-silver-plan](https://cdn.myanimelist.net/images/manga/3/227903.jpg)
+
 -   **type**: manga
 -   **original-name**: JK からやり直すシルバープラン
 -   **start-date**: 2019-10-10

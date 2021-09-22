@@ -1,5 +1,7 @@
 # Kenzen Bishoujo wa Shigokitai!!
 
+![kenzen-bishoujo-wa-shigokitai](https://cdn.myanimelist.net/images/manga/3/244158.jpg)
+
 -   **type**: manga
 -   **original-name**: 健全美少女はシゴきたい!!
 -   **start-date**: 2020-08-28

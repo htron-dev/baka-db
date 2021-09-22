@@ -1,5 +1,7 @@
 # Senryuu Shoujo
 
+![senryuu-shoujo](https://cdn.myanimelist.net/images/manga/3/194981.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 185

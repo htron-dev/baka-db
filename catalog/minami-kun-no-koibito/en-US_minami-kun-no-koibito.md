@@ -1,5 +1,7 @@
 # Minami-kun no Koibito
 
+![minami-kun-no-koibito](https://cdn.myanimelist.net/images/manga/1/60641.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Minikui Ahiru no Ko
 
+![minikui-ahiru-no-ko](https://cdn.myanimelist.net/images/anime/11/82166.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: みにくいあひるの子

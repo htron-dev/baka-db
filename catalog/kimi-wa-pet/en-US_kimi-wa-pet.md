@@ -1,5 +1,7 @@
 # Kimi wa Pet
 
+![kimi-wa-pet](https://cdn.myanimelist.net/images/manga/3/165611.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 82

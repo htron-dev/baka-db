@@ -1,5 +1,7 @@
 # Uso, Uso, Uso
 
+![uso-uso-uso](https://cdn.myanimelist.net/images/manga/1/212887.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

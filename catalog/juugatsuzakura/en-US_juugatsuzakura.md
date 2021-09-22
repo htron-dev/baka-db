@@ -1,5 +1,7 @@
 # Juugatsuzakura
 
+![juugatsuzakura](https://cdn.myanimelist.net/images/manga/1/175952.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Kimi to Korekara
 
+![kimi-to-korekara](https://cdn.myanimelist.net/images/manga/1/186240.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

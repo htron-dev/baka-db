@@ -1,5 +1,7 @@
 # Family Affair
 
+![family-affair](https://cdn.myanimelist.net/images/manga/3/190886.jpg)
+
 -   **type**: manga
 -   **original-name**: Family Affair
 -   **start-date**: 2015-12-25

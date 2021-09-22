@@ -1,5 +1,7 @@
 # Blade Runner: Black Out 2022
 
+![blade-runner-black-out-2022](https://cdn.myanimelist.net/images/anime/4/89563.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: BLADE RUNNER BLACK OUT 2022

@@ -1,5 +1,7 @@
 # D-live!!
 
+![d-live](https://cdn.myanimelist.net/images/manga/3/23960.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 163

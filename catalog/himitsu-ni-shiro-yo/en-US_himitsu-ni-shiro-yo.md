@@ -1,5 +1,7 @@
 # Himitsu ni Shiro yo!!
 
+![himitsu-ni-shiro-yo](https://cdn.myanimelist.net/images/manga/1/208372.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

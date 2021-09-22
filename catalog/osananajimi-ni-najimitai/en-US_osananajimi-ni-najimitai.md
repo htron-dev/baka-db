@@ -1,5 +1,7 @@
 # Osananajimi ni Najimitai
 
+![osananajimi-ni-najimitai](https://cdn.myanimelist.net/images/manga/1/210835.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

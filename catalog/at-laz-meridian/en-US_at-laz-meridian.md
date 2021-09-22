@@ -1,5 +1,7 @@
 # At Laz Meridian
 
+![at-laz-meridian](https://cdn.myanimelist.net/images/manga/1/20699.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 36

@@ -1,5 +1,7 @@
 # Crows Gaiden: Housenka - The Beginning of Housen
 
+![crows-gaiden-housenka-the-beginning-of-housen](https://cdn.myanimelist.net/images/manga/2/215537.jpg)
+
 -   **type**: manga
 -   **original-name**: クローズ外伝 鳳仙花 the beginning of HOUSEN
 -   **start-date**: 2017-11-06

@@ -1,5 +1,7 @@
 # Kare Cafe
 
+![kare-cafe](https://cdn.myanimelist.net/images/manga/2/208360.jpg)
+
 -   **type**: manga
 -   **original-name**: カレカフェ
 -   **start-date**: 2018-02-24

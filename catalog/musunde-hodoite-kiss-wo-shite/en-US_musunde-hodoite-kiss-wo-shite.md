@@ -1,5 +1,7 @@
 # Musunde, Hodoite, Kiss wo Shite
 
+![musunde-hodoite-kiss-wo-shite](https://cdn.myanimelist.net/images/manga/1/224935.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

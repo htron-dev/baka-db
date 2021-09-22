@@ -1,5 +1,7 @@
 # Gunshin-chan to Yobanaide
 
+![gunshin-chan-to-yobanaide](https://cdn.myanimelist.net/images/manga/3/237193.jpg)
+
 -   **type**: manga
 -   **original-name**: 軍神ちゃんとよばないで
 -   **start-date**: 2013-07-17

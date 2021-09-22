@@ -1,5 +1,7 @@
 # Black Jack Sousaku Hiwa: Tezuka Osamu no Shigotoba kara
 
+![black-jack-sousaku-hiwa-tezuka-osamu-no-shigotoba-kara](https://cdn.myanimelist.net/images/manga/3/226954.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 24

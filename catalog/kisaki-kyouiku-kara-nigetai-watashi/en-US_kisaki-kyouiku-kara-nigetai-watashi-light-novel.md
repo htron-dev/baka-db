@@ -1,5 +1,7 @@
 # Kisaki Kyouiku kara Nigetai Watashi
 
+![kisaki-kyouiku-kara-nigetai-watashi](https://cdn.myanimelist.net/images/manga/2/234253.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 妃教育から逃げたい私

@@ -1,5 +1,7 @@
 # K no Souretsu
 
+![k-no-souretsu](https://cdn.myanimelist.net/images/manga/2/11856.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 22

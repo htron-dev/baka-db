@@ -1,5 +1,7 @@
 # Kimi wo Aisuru to Iu Koto
 
+![kimi-wo-aisuru-to-iu-koto](https://cdn.myanimelist.net/images/manga/3/95431.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 君を愛するということ

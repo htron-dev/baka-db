@@ -1,5 +1,7 @@
 # Future Card Shin Buddyfight
 
+![future-card-shin-buddyfight](https://cdn.myanimelist.net/images/anime/1367/95055.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 47
 -   **original-name**: フューチャーカード 神バディファイト

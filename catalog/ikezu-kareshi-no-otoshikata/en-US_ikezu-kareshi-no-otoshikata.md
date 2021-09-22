@@ -1,5 +1,7 @@
 # Ikezu Kareshi no Otoshikata
 
+![ikezu-kareshi-no-otoshikata](https://cdn.myanimelist.net/images/manga/1/96701.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

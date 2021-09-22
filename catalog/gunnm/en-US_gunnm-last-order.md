@@ -1,5 +1,7 @@
 # Gunnm: Last Order
 
+![gunnm-last-order](https://cdn.myanimelist.net/images/manga/2/145645.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 124

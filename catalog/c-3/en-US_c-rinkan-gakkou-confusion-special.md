@@ -1,5 +1,7 @@
 # C³: Rinkan Gakkou Confusion!
 
+![c-rinkan-gakkou-confusion](https://cdn.myanimelist.net/images/anime/8/79351.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: -シーキューブ- 林間学校こんふゅーじょん!

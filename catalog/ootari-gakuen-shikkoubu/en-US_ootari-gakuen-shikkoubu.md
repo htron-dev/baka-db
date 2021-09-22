@@ -1,5 +1,7 @@
 # Ootari Gakuen Shikkoubu
 
+![ootari-gakuen-shikkoubu](https://cdn.myanimelist.net/images/manga/2/14581.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

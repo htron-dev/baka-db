@@ -1,5 +1,7 @@
 # Seitokai no Himegoto
 
+![seitokai-no-himegoto](https://cdn.myanimelist.net/images/manga/2/129867.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 52

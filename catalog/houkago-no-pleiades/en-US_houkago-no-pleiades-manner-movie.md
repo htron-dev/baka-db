@@ -1,5 +1,7 @@
 # Houkago no Pleiades: Manner Movie
 
+![houkago-no-pleiades-manner-movie](https://cdn.myanimelist.net/images/anime/11/29512.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 放課後のプレアデス マナームービー

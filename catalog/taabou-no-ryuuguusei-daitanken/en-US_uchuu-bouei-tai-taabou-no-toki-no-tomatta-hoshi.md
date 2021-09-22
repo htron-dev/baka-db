@@ -1,5 +1,7 @@
 # Uchuu Bouei-tai Taabou no Toki no Tomatta Hoshi
 
+![uchuu-bouei-tai-taabou-no-toki-no-tomatta-hoshi](https://cdn.myanimelist.net/images/anime/3/84575.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 宇宙防衛隊たあ坊の時の止まった星

@@ -1,5 +1,7 @@
 # Hypnosis Mic: Before The Battle - The Dirty Dawg
 
+![hypnosis-mic-before-the-battle-the-dirty-dawg](https://cdn.myanimelist.net/images/manga/3/221223.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

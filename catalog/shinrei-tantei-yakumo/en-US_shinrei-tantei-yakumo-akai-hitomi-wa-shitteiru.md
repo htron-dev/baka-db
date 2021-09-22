@@ -1,5 +1,7 @@
 # Shinrei Tantei Yakumo: Akai Hitomi wa Shitteiru
 
+![shinrei-tantei-yakumo-akai-hitomi-wa-shitteiru](https://cdn.myanimelist.net/images/manga/1/110955.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

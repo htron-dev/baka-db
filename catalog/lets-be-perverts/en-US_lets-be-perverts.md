@@ -1,5 +1,7 @@
 # Let's Be Perverts
 
+![lets-be-perverts](https://cdn.myanimelist.net/images/manga/2/20659.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 34

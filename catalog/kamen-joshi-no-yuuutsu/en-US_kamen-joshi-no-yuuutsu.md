@@ -1,5 +1,7 @@
 # Kamen Joshi no Yuuutsu
 
+![kamen-joshi-no-yuuutsu](https://cdn.myanimelist.net/images/manga/2/215860.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

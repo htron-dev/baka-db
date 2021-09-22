@@ -1,5 +1,7 @@
 # C.L.A.Y.
 
+![c-l-a-y](https://cdn.myanimelist.net/images/anime/6/44756.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: C.L.A.Y.

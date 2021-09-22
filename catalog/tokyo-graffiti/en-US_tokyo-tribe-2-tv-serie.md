@@ -1,5 +1,7 @@
 # Tokyo Tribe 2
 
+![tokyo-tribe-2](https://cdn.myanimelist.net/images/anime/12/50493.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: TOKYO TRIBE 2

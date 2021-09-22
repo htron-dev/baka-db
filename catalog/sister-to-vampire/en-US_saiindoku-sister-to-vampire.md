@@ -1,5 +1,7 @@
 # Saiindoku: Sister to Vampire
 
+![saiindoku-sister-to-vampire](https://cdn.myanimelist.net/images/manga/2/205424.jpg)
+
 -   **type**: manga
 -   **original-name**: 催淫毒～シスターとヴァンパイア～
 -   **start-date**: 2015-09-16

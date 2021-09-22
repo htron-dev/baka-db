@@ -1,5 +1,7 @@
 # Nekokaburi Hanayome to Akuyaku Koushaku: Koisuru Masquerade
 
+![nekokaburi-hanayome-to-akuyaku-koushaku-koisuru-masquerade](https://cdn.myanimelist.net/images/manga/1/215310.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

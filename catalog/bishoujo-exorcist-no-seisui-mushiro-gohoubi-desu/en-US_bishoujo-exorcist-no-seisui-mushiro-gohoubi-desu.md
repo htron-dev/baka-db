@@ -1,5 +1,7 @@
 # Bishoujo Exorcist no Seisui? Mushiro Gohoubi desu!
 
+![bishoujo-exorcist-no-seisui-mushiro-gohoubi-desu](https://cdn.myanimelist.net/images/manga/2/168628.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

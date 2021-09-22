@@ -1,5 +1,7 @@
 # Joushuu Touzoku Aratamegata Hinagiku Kenzan!
 
+![joushuu-touzoku-aratamegata-hinagiku-kenzan](https://cdn.myanimelist.net/images/manga/3/29316.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 

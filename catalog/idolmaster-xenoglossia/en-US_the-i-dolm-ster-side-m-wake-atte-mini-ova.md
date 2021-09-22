@@ -1,5 +1,7 @@
 # The iDOLM@STER SideM: Wake Atte Mini! OVA
 
+![the-i-dolm-ster-side-m-wake-atte-mini-ova](https://cdn.myanimelist.net/images/anime/1284/117464.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アイドルマスター SideM 理由あって Mini! OVA

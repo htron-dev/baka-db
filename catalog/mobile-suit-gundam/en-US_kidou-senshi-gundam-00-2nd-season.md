@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam 00 2nd.Season
 
+![kidou-senshi-gundam-00-2nd-season](https://cdn.myanimelist.net/images/manga/2/185780.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 14

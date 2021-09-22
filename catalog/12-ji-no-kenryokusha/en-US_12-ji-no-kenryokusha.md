@@ -1,5 +1,7 @@
 # 12-ji no Kenryokusha
 
+![12-ji-no-kenryokusha](https://cdn.myanimelist.net/images/manga/2/71853.jpg)
+
 -   **type**: manga
 -   **original-name**: 12 時の権力者
 -   **start-date**: 2009-12-15

@@ -1,5 +1,7 @@
 # Kuu ka Kuwareru ka
 
+![kuu-ka-kuwareru-ka](https://cdn.myanimelist.net/images/manga/2/146121.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

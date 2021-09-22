@@ -1,5 +1,7 @@
 # Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu
 
+![code-geass-boukoku-no-akito-2-hikisakareshi-yokuryuu](https://cdn.myanimelist.net/images/anime/9/56243.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: コードギアス 亡国のアキト 第２章「引き裂かれし翼竜」

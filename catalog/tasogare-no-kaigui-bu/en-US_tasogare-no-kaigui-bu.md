@@ -1,5 +1,7 @@
 # Tasogare no Kaigui-bu
 
+![tasogare-no-kaigui-bu](https://cdn.myanimelist.net/images/manga/3/250350.jpg)
+
 -   **type**: manga
 -   **original-name**: 黄昏の買い食い部
 -   **start-date**: 2016-07-01

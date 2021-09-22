@@ -1,5 +1,7 @@
 # Solty Rei
 
+![solty-rei](https://cdn.myanimelist.net/images/anime/3/75582.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ソルティレイ

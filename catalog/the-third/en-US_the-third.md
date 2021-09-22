@@ -1,5 +1,7 @@
 # The Third
 
+![the-third](https://cdn.myanimelist.net/images/manga/2/84049.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ザ・サード
 -   **start-date**: 1999-03-19

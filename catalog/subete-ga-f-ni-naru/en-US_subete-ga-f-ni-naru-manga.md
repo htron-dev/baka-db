@@ -1,5 +1,7 @@
 # Subete ga F ni Naru
 
+![subete-ga-f-ni-naru](https://cdn.myanimelist.net/images/manga/2/166579.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

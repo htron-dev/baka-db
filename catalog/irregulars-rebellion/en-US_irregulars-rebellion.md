@@ -1,5 +1,7 @@
 # Irregular's Rebellion
 
+![irregulars-rebellion](https://cdn.myanimelist.net/images/manga/2/199808.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 32

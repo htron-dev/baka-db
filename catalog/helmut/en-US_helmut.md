@@ -1,5 +1,7 @@
 # Helmut
 
+![helmut](https://cdn.myanimelist.net/images/manga/2/80863.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **original-name**: 헬무트

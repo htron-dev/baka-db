@@ -1,5 +1,7 @@
 # Koisuru Mahou: Kimi wo Hitorijime
 
+![koisuru-mahou-kimi-wo-hitorijime](https://cdn.myanimelist.net/images/manga/3/194587.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 恋する魔法 ～キミを独り占め～

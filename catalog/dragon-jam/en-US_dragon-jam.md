@@ -1,5 +1,7 @@
 # Dragon Jam
 
+![dragon-jam](https://cdn.myanimelist.net/images/manga/3/175524.jpg)
+
 -   **type**: manga
 -   **original-name**: DRAGON JAM
 -   **start-date**: 2010-05-27

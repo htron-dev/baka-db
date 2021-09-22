@@ -1,5 +1,7 @@
 # Mobile Suit Gundam: The Revival of Zeon
 
+![mobile-suit-gundam-the-revival-of-zeon](https://cdn.myanimelist.net/images/manga/1/30213.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

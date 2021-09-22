@@ -1,5 +1,7 @@
 # Violence Jack: Jigoku Gai-hen
 
+![violence-jack-jigoku-gai-hen](https://cdn.myanimelist.net/images/anime/13/12874.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: バイオレンス ジャック 〜地獄街編〜

@@ -1,5 +1,7 @@
 # Pokémon Fushigi no Dungeon: Honoo no Tankentai
 
+![pokemon-fushigi-no-dungeon-honoo-no-tankentai](https://cdn.myanimelist.net/images/manga/3/39124.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

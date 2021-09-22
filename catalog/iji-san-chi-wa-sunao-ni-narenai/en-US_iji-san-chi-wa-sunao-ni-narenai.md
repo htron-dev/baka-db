@@ -1,5 +1,7 @@
 # Iji-san Chi wa Sunao ni Narenai
 
+![iji-san-chi-wa-sunao-ni-narenai](https://cdn.myanimelist.net/images/manga/1/225407.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 31

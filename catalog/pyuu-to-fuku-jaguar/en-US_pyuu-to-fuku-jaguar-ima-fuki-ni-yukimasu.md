@@ -1,5 +1,7 @@
 # Pyuu to Fuku! Jaguar: Ima, Fuki ni Yukimasu
 
+![pyuu-to-fuku-jaguar-ima-fuki-ni-yukimasu](https://cdn.myanimelist.net/images/anime/3/13170.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ピューと吹く! ジャガー ～いま, 吹きにゆきます～

@@ -1,5 +1,7 @@
 # Cross x Regalia
 
+![cross-x-regalia](https://cdn.myanimelist.net/images/manga/1/133303.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Why Re-Mix 2002
 
+![why-re-mix-2002](https://cdn.myanimelist.net/images/anime/11/73783.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **start-date**: 2002-01-20

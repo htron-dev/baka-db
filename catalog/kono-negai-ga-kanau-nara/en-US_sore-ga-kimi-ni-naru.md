@@ -1,5 +1,7 @@
 # Sore ga Kimi ni Naru
 
+![sore-ga-kimi-ni-naru](https://cdn.myanimelist.net/images/manga/3/174397.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

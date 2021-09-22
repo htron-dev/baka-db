@@ -1,5 +1,7 @@
 # Oretachi no Tatakai wa Korekara da
 
+![oretachi-no-tatakai-wa-korekara-da](https://cdn.myanimelist.net/images/manga/2/44341.jpg)
+
 -   **type**: manga
 -   **original-name**: 俺たちの戦いはこれからだ
 -   **start-date**: 2011-07-28

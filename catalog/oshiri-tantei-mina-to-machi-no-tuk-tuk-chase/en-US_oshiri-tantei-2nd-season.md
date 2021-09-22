@@ -1,5 +1,7 @@
 # Oshiri Tantei 2nd Season
 
+![oshiri-tantei-2nd-season](https://cdn.myanimelist.net/images/anime/1485/107369.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 16
 -   **original-name**: おしりたんてい
@@ -11,7 +13,6 @@
 
 -   mystery
 -   comedy
-
 -   fantasy
 
 ## Sinopse

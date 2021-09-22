@@ -1,5 +1,7 @@
 # Zettai☆Idol
 
+![zettai☆-idol](https://cdn.myanimelist.net/images/manga/1/169656.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Tokyo 2164
 
+![tokyo-2164](https://cdn.myanimelist.net/images/anime/7/80647.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: TOKYO2164

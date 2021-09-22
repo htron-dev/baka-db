@@ -1,5 +1,7 @@
 # Ju Chong Gongyuan
 
+![ju-chong-gongyuan](https://cdn.myanimelist.net/images/anime/1426/115334.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 巨虫公园

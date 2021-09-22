@@ -1,5 +1,7 @@
 # Ropeman
 
+![ropeman](https://cdn.myanimelist.net/images/manga/4/13159.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

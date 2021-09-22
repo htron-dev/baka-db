@@ -1,5 +1,7 @@
 # Himote House
 
+![himote-house](https://cdn.myanimelist.net/images/anime/1790/94342.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ひもてはうす

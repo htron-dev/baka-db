@@ -1,5 +1,7 @@
 # Eien no Shichigatsu
 
+![eien-no-shichigatsu](https://cdn.myanimelist.net/images/manga/3/20584.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

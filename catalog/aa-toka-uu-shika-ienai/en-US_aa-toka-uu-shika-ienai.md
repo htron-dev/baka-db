@@ -1,5 +1,7 @@
 # Aa toka Uu shika Ienai
 
+![aa-toka-uu-shika-ienai](https://cdn.myanimelist.net/images/manga/2/246040.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 30

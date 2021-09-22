@@ -1,5 +1,7 @@
 # Bo-n-do
 
+![bo-n-do](https://cdn.myanimelist.net/images/manga/3/200229.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 114

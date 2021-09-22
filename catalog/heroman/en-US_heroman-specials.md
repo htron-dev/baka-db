@@ -1,5 +1,7 @@
 # Heroman Specials
 
+![heroman-specials](https://cdn.myanimelist.net/images/anime/10/44081.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: ヒーローマン

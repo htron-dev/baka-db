@@ -1,5 +1,7 @@
 # Saint License
 
+![saint-license](https://cdn.myanimelist.net/images/manga/3/16960.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: 聖 ライセンス

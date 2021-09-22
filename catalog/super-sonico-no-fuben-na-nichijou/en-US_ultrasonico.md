@@ -1,5 +1,7 @@
 # Ultrasonico
 
+![ultrasonico](https://cdn.myanimelist.net/images/anime/12/85083.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ウルトラソニコ

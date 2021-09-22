@@ -1,5 +1,7 @@
 # Kenritsu Chikyuu Boueigun
 
+![kenritsu-chikyuu-boueigun](https://cdn.myanimelist.net/images/manga/1/15827.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 県立地球防衛軍

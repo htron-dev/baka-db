@@ -1,5 +1,7 @@
 # Mobius Heart
 
+![mobius-heart](https://cdn.myanimelist.net/images/manga/2/246606.jpg)
+
 -   **type**: manga
 -   **original-name**: メビウスハート
 -   **start-date**: 2018-08-31

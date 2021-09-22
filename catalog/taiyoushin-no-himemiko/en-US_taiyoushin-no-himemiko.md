@@ -1,5 +1,7 @@
 # Taiyoushin no Himemiko
 
+![taiyoushin-no-himemiko](https://cdn.myanimelist.net/images/manga/2/182808.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 11

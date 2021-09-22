@@ -1,5 +1,7 @@
 # T-Rex na Kanojo
 
+![t-rex-na-kanojo](https://cdn.myanimelist.net/images/manga/2/157113.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 27

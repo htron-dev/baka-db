@@ -1,5 +1,7 @@
 # Sekai ga Cake ni Naru Kakuritsu
 
+![sekai-ga-cake-ni-naru-kakuritsu](https://cdn.myanimelist.net/images/manga/1/114465.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

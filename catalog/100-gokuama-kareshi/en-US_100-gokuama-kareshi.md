@@ -1,5 +1,7 @@
 # 100% Gokuama Kareshi!
 
+![100-gokuama-kareshi](https://cdn.myanimelist.net/images/manga/1/40514.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

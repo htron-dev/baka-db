@@ -1,5 +1,7 @@
 # Botan Yuki
 
+![botan-yuki](https://cdn.myanimelist.net/images/manga/2/125723.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ぼたん雪

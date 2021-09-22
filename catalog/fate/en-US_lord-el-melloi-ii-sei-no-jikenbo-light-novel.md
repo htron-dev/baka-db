@@ -1,5 +1,7 @@
 # Lord El-Melloi II-sei no Jikenbo
 
+![lord-el-melloi-ii-sei-no-jikenbo](https://cdn.myanimelist.net/images/manga/1/148209.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **original-name**: ロード・エルメロイ Ⅱ 世の事件簿

@@ -1,5 +1,7 @@
 # Shi Hwa Mong
 
+![shi-hwa-mong](https://cdn.myanimelist.net/images/manga/2/213010.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 15
 -   **original-name**: 시화몽

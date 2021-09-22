@@ -1,5 +1,7 @@
 # Akumu-jou no Aruji
 
+![akumu-jou-no-aruji](https://cdn.myanimelist.net/images/manga/3/164914.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Rokudenashi no Koi
 
+![rokudenashi-no-koi](https://cdn.myanimelist.net/images/manga/2/152362.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ろくでなしの恋

@@ -1,5 +1,7 @@
 # Hito wa Naze Hatarakanakereba Naranai no ka
 
+![hito-wa-naze-hatarakanakereba-naranai-no-ka](https://cdn.myanimelist.net/images/manga/1/29079.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

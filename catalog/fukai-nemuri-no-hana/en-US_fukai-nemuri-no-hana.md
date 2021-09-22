@@ -1,5 +1,7 @@
 # Fukai Nemuri no Hana
 
+![fukai-nemuri-no-hana](https://cdn.myanimelist.net/images/manga/4/111785.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

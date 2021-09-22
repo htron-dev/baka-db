@@ -1,5 +1,7 @@
 # Monster Farm 4: Antlan VS Sanjuushin
 
+![monster-farm-4-antlan-vs-sanjuushin](https://cdn.myanimelist.net/images/manga/1/157578.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: モンスターファーム 4 ～アントランズ VS 三獣神～

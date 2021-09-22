@@ -1,5 +1,7 @@
 # Tales of Graces f
 
+![tales-of-graces-f](https://cdn.myanimelist.net/images/manga/2/61253.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 30

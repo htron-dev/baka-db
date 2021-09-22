@@ -1,5 +1,7 @@
 # 13-banme no Alice
 
+![13-banme-no-alice](https://cdn.myanimelist.net/images/manga/3/164300.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 十三番目のアリス

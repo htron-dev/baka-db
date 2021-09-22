@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Anpanman to Happy Otanjoubi
 
+![sore-ike-anpanman-anpanman-to-happy-otanjoubi](https://cdn.myanimelist.net/images/anime/8/57671.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ!アンパンマン アンパンマンとハッピーおたんじょう日

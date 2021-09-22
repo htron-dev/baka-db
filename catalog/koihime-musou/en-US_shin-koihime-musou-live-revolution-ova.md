@@ -1,5 +1,7 @@
 # Shin Koihime†Musou: Live Revolution
 
+![shin-koihime-musou-live-revolution](https://cdn.myanimelist.net/images/anime/5/23794.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 真恋姫†無双 LIVE Revolution

@@ -1,5 +1,7 @@
 # Doll's Folklore
 
+![dolls-folklore](https://cdn.myanimelist.net/images/manga/2/78629.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

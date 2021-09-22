@@ -1,5 +1,7 @@
 # Wild Fancy Dynamite!
 
+![wild-fancy-dynamite](https://cdn.myanimelist.net/images/manga/1/172483.jpg)
+
 -   **type**: manga
 -   **chapters**: 39
 -   **original-name**: ワイルド ファンシー ダイナマイト!

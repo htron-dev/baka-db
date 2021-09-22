@@ -1,5 +1,7 @@
 # Six Half
 
+![six-half](https://cdn.myanimelist.net/images/manga/1/162860.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 48

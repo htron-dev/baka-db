@@ -1,5 +1,7 @@
 # Ookami ga Kuru!
 
+![ookami-ga-kuru](https://cdn.myanimelist.net/images/manga/2/5849.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

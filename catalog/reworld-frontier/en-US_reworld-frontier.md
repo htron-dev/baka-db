@@ -1,5 +1,7 @@
 # Reworld Frontier
 
+![reworld-frontier](https://cdn.myanimelist.net/images/manga/2/186856.jpg)
+
 -   **type**: light-novel
 -   **original-name**: リワールド・フロンティア
 -   **start-date**: 2016-12-10

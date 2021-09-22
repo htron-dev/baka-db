@@ -1,5 +1,7 @@
 # Yuuyake Dandan
 
+![yuuyake-dandan](https://cdn.myanimelist.net/images/anime/9/72570.jpg)
+
 -   **type**: movie
 -   **episodes**: 23
 -   **original-name**: 夕やけだん団

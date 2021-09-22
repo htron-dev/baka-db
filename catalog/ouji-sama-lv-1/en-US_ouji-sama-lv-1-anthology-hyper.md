@@ -1,5 +1,7 @@
 # Ouji-sama Lv.1 Anthology Hyper!
 
+![ouji-sama-lv-1-anthology-hyper](https://cdn.myanimelist.net/images/manga/1/22129.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 王子さまＬｖ１アンソロジーハイパー！

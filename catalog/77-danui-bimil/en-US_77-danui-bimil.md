@@ -1,5 +1,7 @@
 # 77Danui Bimil
 
+![77-danui-bimil](https://cdn.myanimelist.net/images/anime/1938/112796.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 77단의 비밀

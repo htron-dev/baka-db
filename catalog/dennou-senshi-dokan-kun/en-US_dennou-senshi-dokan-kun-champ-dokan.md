@@ -1,5 +1,7 @@
 # Dennou Senshi Dokan-kun: Champ Dokan
 
+![dennou-senshi-dokan-kun-champ-dokan](https://cdn.myanimelist.net/images/anime/1864/105570.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 電脳戦士 土管くん チャンプ土管

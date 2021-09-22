@@ -1,5 +1,7 @@
 # Satsujin Kippu wa Heart-iro
 
+![satsujin-kippu-wa-heart-iro](https://cdn.myanimelist.net/images/anime/6/43729.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 殺人切符はハート色

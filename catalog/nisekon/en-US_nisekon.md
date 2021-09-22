@@ -1,5 +1,7 @@
 # Nisekon!
 
+![nisekon](https://cdn.myanimelist.net/images/manga/1/206582.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

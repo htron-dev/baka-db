@@ -1,5 +1,7 @@
 # Itsumo Anata no Koto Bakari
 
+![itsumo-anata-no-koto-bakari](https://cdn.myanimelist.net/images/manga/3/203643.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

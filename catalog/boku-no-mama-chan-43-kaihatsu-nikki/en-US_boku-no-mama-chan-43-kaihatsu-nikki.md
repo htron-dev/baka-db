@@ -1,5 +1,7 @@
 # Boku no Mama-chan (43) Kaihatsu Nikki
 
+![boku-no-mama-chan-43-kaihatsu-nikki](https://cdn.myanimelist.net/images/manga/2/190695.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

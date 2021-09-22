@@ -1,5 +1,7 @@
 # Uwasa no Midori-kun!!
 
+![uwasa-no-midori-kun](https://cdn.myanimelist.net/images/manga/3/174196.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 51

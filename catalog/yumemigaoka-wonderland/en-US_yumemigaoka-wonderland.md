@@ -1,5 +1,7 @@
 # Yumemigaoka Wonderland
 
+![yumemigaoka-wonderland](https://cdn.myanimelist.net/images/manga/1/246050.jpg)
+
 -   **type**: manga
 -   **original-name**: 夢見が丘ワンダーランド
 -   **start-date**: 2020-08-12

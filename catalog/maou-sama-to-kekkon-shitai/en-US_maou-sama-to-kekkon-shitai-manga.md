@@ -1,5 +1,7 @@
 # Maou-sama to Kekkon shitai
 
+![maou-sama-to-kekkon-shitai](https://cdn.myanimelist.net/images/manga/2/225714.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

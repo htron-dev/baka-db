@@ -1,5 +1,7 @@
 # Kaitou Lupin: 813 no Nazo
 
+![kaitou-lupin-813-no-nazo](https://cdn.myanimelist.net/images/anime/10/46543.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 怪盗ルパン 813 の謎

@@ -1,5 +1,7 @@
 # Kimi ni Ayamaritakute Ore wa
 
+![kimi-ni-ayamaritakute-ore-wa](https://cdn.myanimelist.net/images/manga/2/199716.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Panda-chan no Koutsuu Anzen
 
+![panda-chan-no-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/1871/100750.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: パンダちゃんの交通安全

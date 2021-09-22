@@ -1,5 +1,7 @@
 # Shiny Star
 
+![shiny-star](https://cdn.myanimelist.net/images/manga/2/101597.jpg)
+
 -   **type**: manga
 -   **original-name**: シャイニースター
 -   **start-date**: 2011-08-22

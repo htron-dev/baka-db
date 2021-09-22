@@ -1,5 +1,7 @@
 # Sasaki to Miyano
 
+![sasaki-to-miyano](https://cdn.myanimelist.net/images/anime/1220/115802.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 佐々木と宮野
 -   **rating**: None

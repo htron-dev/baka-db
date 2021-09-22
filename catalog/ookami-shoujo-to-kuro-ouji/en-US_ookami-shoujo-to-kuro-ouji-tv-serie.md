@@ -1,5 +1,7 @@
 # Ookami Shoujo to Kuro Ouji
 
+![ookami-shoujo-to-kuro-ouji](https://cdn.myanimelist.net/images/anime/4/67805.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: オオカミ少女と黒王子

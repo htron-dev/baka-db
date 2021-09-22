@@ -1,5 +1,7 @@
 # Bright Light Sprout
 
+![bright-light-sprout](https://cdn.myanimelist.net/images/manga/3/202522.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

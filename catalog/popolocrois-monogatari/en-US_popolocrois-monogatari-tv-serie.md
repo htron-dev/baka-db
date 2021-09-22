@@ -1,5 +1,7 @@
 # Popolocrois Monogatari
 
+![popolocrois-monogatari](https://cdn.myanimelist.net/images/anime/2/17877.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ポポロクロイス物語
@@ -24,4 +26,4 @@ Prince Pietro is the half-human, half-dragon prince of the kingdom of Popolocroi
 -   [Official Site](http://www.sonymusic.co.jp/Animation/popolo/index.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=651)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1792)
--   [Wikipedia](<http://en.wikipedia.org/wiki/PoPoLoCrois_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/PoPoLoCrois_%28anime%29)

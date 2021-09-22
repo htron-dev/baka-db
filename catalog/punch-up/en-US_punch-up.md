@@ -1,5 +1,7 @@
 # Punch↑
 
+![punch↑](https://cdn.myanimelist.net/images/manga/1/167590.jpg)
+
 -   **type**: manga
 -   **original-name**: Punch↑
 -   **start-date**: 2005-06-28

@@ -1,5 +1,7 @@
 # Blood: the Last Vampire: Kemonotachi no Yoru
 
+![blood-the-last-vampire-kemonotachi-no-yoru](https://cdn.myanimelist.net/images/manga/3/14427.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

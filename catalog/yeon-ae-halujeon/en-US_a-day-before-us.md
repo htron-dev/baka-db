@@ -1,5 +1,7 @@
 # A Day Before Us
 
+![a-day-before-us](https://cdn.myanimelist.net/images/anime/1548/108545.jpg)
+
 -   **type**: ona
 -   **episodes**: 19
 -   **original-name**: A Day Before Us

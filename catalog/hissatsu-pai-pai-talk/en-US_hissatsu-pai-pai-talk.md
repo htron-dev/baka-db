@@ -1,5 +1,7 @@
 # Hissatsu! Pai-pai Talk
 
+![hissatsu-pai-pai-talk](https://cdn.myanimelist.net/images/manga/2/195263.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

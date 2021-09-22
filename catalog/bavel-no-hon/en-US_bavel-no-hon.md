@@ -1,5 +1,7 @@
 # Bavel no Hon
 
+![bavel-no-hon](https://cdn.myanimelist.net/images/anime/4/8562.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: バベルの本

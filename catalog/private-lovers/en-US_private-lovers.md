@@ -1,5 +1,7 @@
 # Private Lovers
 
+![private-lovers](https://cdn.myanimelist.net/images/manga/2/79637.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

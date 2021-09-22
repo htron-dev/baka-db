@@ -1,5 +1,7 @@
 # GA: Geijutsuka Art Design Class
 
+![ga-geijutsuka-art-design-class](https://cdn.myanimelist.net/images/manga/1/161055.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 98

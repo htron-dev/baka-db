@@ -1,5 +1,7 @@
 # Aku ni Ochitara Bishoujo Mamirede Daishouri!!
 
+![aku-ni-ochitara-bishoujo-mamirede-daishouri](https://cdn.myanimelist.net/images/manga/2/163605.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 45

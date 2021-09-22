@@ -1,5 +1,7 @@
 # Watashi no Tonari no Bussoo-san
 
+![watashi-no-tonari-no-bussoo-san](https://cdn.myanimelist.net/images/manga/5/143257.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Fin-tan
 
+![fin-tan](https://cdn.myanimelist.net/images/anime/13/84480.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: フィンたん

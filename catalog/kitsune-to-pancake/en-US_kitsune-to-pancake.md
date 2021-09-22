@@ -1,5 +1,7 @@
 # Kitsune to Pancake
 
+![kitsune-to-pancake](https://cdn.myanimelist.net/images/manga/3/206331.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 47

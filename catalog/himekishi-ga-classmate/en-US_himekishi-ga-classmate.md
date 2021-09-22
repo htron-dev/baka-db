@@ -1,5 +1,7 @@
 # Himekishi ga Classmate!
 
+![himekishi-ga-classmate](https://cdn.myanimelist.net/images/manga/2/176543.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 姫騎士がクラスメート!
 -   **start-date**: 2015-02-03

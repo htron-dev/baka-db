@@ -1,5 +1,7 @@
 # Big X
 
+![big-x](https://cdn.myanimelist.net/images/anime/7/82379.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 59
 -   **original-name**: ビッグ X

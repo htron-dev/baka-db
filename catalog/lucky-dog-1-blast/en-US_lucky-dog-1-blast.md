@@ -1,5 +1,7 @@
 # Lucky Dog 1 Blast
 
+![lucky-dog-1-blast](https://cdn.myanimelist.net/images/manga/2/178408.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 49

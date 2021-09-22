@@ -1,5 +1,7 @@
 # Cofun Gal no Coffy Campus Life: Intro
 
+![cofun-gal-no-coffy-campus-life-intro](https://cdn.myanimelist.net/images/anime/8/82803.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 「古墳ギャルのコフィー キャンパスライフ」～イントロ～

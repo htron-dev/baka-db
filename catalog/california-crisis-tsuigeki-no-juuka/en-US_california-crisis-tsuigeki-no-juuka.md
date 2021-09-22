@@ -1,5 +1,7 @@
 # California Crisis: Tsuigeki no Juuka
 
+![california-crisis-tsuigeki-no-juuka](https://cdn.myanimelist.net/images/anime/1887/97046.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: カリフォルニア・クライシス　追撃の銃火

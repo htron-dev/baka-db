@@ -1,5 +1,7 @@
 # Hakaima Sadamitsu
 
+![hakaima-sadamitsu](https://cdn.myanimelist.net/images/anime/1121/92271.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: 破壊魔定光

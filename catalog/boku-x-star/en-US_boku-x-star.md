@@ -1,5 +1,7 @@
 # Boku x Star
 
+![boku-x-star](https://cdn.myanimelist.net/images/manga/2/247797.jpg)
+
 -   **type**: manga
 -   **original-name**: 僕 × スター
 -   **start-date**: 2019-09-24

@@ -1,5 +1,7 @@
 # Chikyuu no Owari wa Koi no Hajimari
 
+![chikyuu-no-owari-wa-koi-no-hajimari](https://cdn.myanimelist.net/images/manga/3/175853.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 23

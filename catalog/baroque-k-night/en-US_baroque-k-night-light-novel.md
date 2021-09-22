@@ -1,5 +1,7 @@
 # Baroque K/night
 
+![baroque-k-night](https://cdn.myanimelist.net/images/manga/1/139333.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 48

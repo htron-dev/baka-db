@@ -1,5 +1,7 @@
 # Igakusei: Kanbe Sakutarou no Kaibou Karte
 
+![igakusei-kanbe-sakutarou-no-kaibou-karte](https://cdn.myanimelist.net/images/manga/3/221835.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

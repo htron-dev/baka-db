@@ -1,5 +1,7 @@
 # Appare-Ranman!
 
+![appare-ranman](https://cdn.myanimelist.net/images/anime/1087/111636.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 天晴爛漫！

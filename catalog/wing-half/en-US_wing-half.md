@@ -1,5 +1,7 @@
 # Wing Half
 
+![wing-half](https://cdn.myanimelist.net/images/manga/2/13521.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ウィングハーフ

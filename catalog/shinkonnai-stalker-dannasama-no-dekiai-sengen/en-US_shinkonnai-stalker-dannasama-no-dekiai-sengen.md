@@ -1,5 +1,7 @@
 # Shinkonnai Stalker: Dannasama no Dekiai Sengen
 
+![shinkonnai-stalker-dannasama-no-dekiai-sengen](https://cdn.myanimelist.net/images/manga/3/183004.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

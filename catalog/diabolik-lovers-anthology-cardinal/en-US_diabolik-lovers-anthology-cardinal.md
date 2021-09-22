@@ -1,5 +1,7 @@
 # Diabolik Lovers: Anthology Cardinal
 
+![diabolik-lovers-anthology-cardinal](https://cdn.myanimelist.net/images/manga/3/155884.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

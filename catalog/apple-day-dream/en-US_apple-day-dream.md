@@ -1,5 +1,7 @@
 # Apple Day Dream
 
+![apple-day-dream](https://cdn.myanimelist.net/images/manga/3/30418.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

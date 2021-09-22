@@ -1,5 +1,7 @@
 # Tanaka-kun wa Itsumo Kedaruge Specials
 
+![tanaka-kun-wa-itsumo-kedaruge-specials](https://cdn.myanimelist.net/images/anime/1511/111995.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: 田中くんはいつもけだるげ特典

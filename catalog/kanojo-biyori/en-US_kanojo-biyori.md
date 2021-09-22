@@ -1,5 +1,7 @@
 # Kanojo Biyori
 
+![kanojo-biyori](https://cdn.myanimelist.net/images/manga/2/148787.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

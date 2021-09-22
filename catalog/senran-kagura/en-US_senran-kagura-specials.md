@@ -1,5 +1,7 @@
 # Senran Kagura Specials
 
+![senran-kagura-specials](https://cdn.myanimelist.net/images/anime/5/67249.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 閃乱カグラ

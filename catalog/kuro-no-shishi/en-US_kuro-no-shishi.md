@@ -1,5 +1,7 @@
 # Kuro no Shishi
 
+![kuro-no-shishi](https://cdn.myanimelist.net/images/manga/3/74777.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 黒の獅士

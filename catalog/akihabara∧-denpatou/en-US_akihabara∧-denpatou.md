@@ -1,5 +1,7 @@
 # Akihabara∧Denpatou
 
+![akihabara∧-denpatou](https://cdn.myanimelist.net/images/manga/1/189521.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 39

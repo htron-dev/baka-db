@@ -1,5 +1,7 @@
 # Koi no Uta wo Utaimashou
 
+![koi-no-uta-wo-utaimashou](https://cdn.myanimelist.net/images/manga/2/17788.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

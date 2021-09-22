@@ -1,5 +1,7 @@
 # Natsume Yuujinchou Movie: Utsusemi ni Musubu
 
+![natsume-yuujinchou-movie-utsusemi-ni-musubu](https://cdn.myanimelist.net/images/anime/1250/94846.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 夏目友人帳 ～うつせみに結ぶ～

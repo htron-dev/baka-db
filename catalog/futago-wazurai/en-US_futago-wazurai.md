@@ -1,5 +1,7 @@
 # Futago Wazurai
 
+![futago-wazurai](https://cdn.myanimelist.net/images/manga/2/235549.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

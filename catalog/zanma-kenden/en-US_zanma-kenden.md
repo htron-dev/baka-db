@@ -1,5 +1,7 @@
 # Zanma Kenden
 
+![zanma-kenden](https://cdn.myanimelist.net/images/manga/1/31981.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 斬魔剣伝

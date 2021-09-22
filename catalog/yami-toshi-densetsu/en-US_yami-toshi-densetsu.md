@@ -1,5 +1,7 @@
 # Yami Toshi Densetsu
 
+![yami-toshi-densetsu](https://cdn.myanimelist.net/images/manga/3/142455.jpg)
+
 -   **type**: manga
 -   **original-name**: 闇都市伝説
 

@@ -1,5 +1,7 @@
 # Yume no Shizuku Kin no Torikago
 
+![yume-no-shizuku-kin-no-torikago](https://cdn.myanimelist.net/images/manga/4/66347.jpg)
+
 -   **type**: manga
 -   **original-name**: 夢の雫、黄金【きん】の鳥籠
 -   **start-date**: 2010-05-21

@@ -1,5 +1,7 @@
 # Suki Shite Sadist
 
+![suki-shite-sadist](https://cdn.myanimelist.net/images/manga/1/1113.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

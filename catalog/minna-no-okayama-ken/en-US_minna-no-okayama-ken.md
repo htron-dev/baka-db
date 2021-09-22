@@ -1,5 +1,7 @@
 # Minna no Okayama-ken
 
+![minna-no-okayama-ken](https://cdn.myanimelist.net/images/anime/11/83720.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: みんなのおかやま犬

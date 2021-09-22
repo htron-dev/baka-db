@@ -1,5 +1,7 @@
 # Strobe Edge
 
+![strobe-edge](https://cdn.myanimelist.net/images/manga/2/32966.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 43

@@ -1,5 +1,7 @@
 # Amagami-san Chi no Enmusubi
 
+![amagami-san-chi-no-enmusubi](https://cdn.myanimelist.net/images/manga/2/247864.jpg)
+
 -   **type**: manga
 -   **original-name**: 甘神さんちの縁結び
 -   **start-date**: 2021-04-21

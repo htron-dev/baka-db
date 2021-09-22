@@ -1,5 +1,7 @@
 # Future Card Buddyfight Triple D
 
+![future-card-buddyfight-triple-d](https://cdn.myanimelist.net/images/anime/4/78622.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: フューチャーカード バディファイト DDD

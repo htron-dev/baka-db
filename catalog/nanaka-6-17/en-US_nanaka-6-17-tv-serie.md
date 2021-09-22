@@ -1,5 +1,7 @@
 # Nanaka 6/17
 
+![nanaka-6-17](https://cdn.myanimelist.net/images/anime/7/46927.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ななか６／１７

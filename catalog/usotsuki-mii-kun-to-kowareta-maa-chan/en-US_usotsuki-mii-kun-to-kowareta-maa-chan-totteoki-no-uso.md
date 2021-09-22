@@ -1,5 +1,7 @@
 # Usotsuki Mii-kun to Kowareta Maa-chan: Totteoki no Uso
 
+![usotsuki-mii-kun-to-kowareta-maa-chan-totteoki-no-uso](https://cdn.myanimelist.net/images/manga/2/165163.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

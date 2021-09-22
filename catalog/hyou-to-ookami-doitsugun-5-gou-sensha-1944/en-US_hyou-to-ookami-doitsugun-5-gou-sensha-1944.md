@@ -1,5 +1,7 @@
 # Hyou to Ookami: Doitsugun 5-gou Sensha 1944
 
+![hyou-to-ookami-doitsugun-5-gou-sensha-1944](https://cdn.myanimelist.net/images/manga/3/152959.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

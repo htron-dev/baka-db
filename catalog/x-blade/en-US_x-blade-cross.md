@@ -1,5 +1,7 @@
 # XBlade Cross
 
+![x-blade-cross](https://cdn.myanimelist.net/images/manga/2/42716.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 32

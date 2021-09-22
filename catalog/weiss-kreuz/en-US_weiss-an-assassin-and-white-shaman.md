@@ -1,5 +1,7 @@
 # Weiß: An Assassin and White Shaman
 
+![weiss-an-assassin-and-white-shaman](https://cdn.myanimelist.net/images/manga/5/10384.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

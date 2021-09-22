@@ -1,5 +1,7 @@
 # Wind Mill
 
+![wind-mill](https://cdn.myanimelist.net/images/manga/2/94845.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 44

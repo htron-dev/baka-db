@@ -1,5 +1,7 @@
 # No Guns Life
 
+![no-guns-life](https://cdn.myanimelist.net/images/manga/1/161444.jpg)
+
 -   **type**: manga
 -   **original-name**: ノー・ガンズ・ライフ
 -   **start-date**: 2014-09-19

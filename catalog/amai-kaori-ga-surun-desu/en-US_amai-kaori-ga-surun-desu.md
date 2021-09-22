@@ -1,5 +1,7 @@
 # Amai Kaori ga Surun desu
 
+![amai-kaori-ga-surun-desu](https://cdn.myanimelist.net/images/manga/1/42359.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 甘い香りがするんです

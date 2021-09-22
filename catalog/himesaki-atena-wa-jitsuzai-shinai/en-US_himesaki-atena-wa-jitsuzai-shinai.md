@@ -1,5 +1,7 @@
 # Himesaki Atena wa Jitsuzai Shinai.
 
+![himesaki-atena-wa-jitsuzai-shinai](https://cdn.myanimelist.net/images/manga/1/218216.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

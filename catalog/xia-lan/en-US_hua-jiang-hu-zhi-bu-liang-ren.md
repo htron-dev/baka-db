@@ -1,5 +1,7 @@
 # Hua Jiang Hu Zhi Bu Liang Ren
 
+![hua-jiang-hu-zhi-bu-liang-ren](https://cdn.myanimelist.net/images/anime/13/80256.jpg)
+
 -   **type**: ona
 -   **episodes**: 54
 -   **original-name**: 画江湖之不良人

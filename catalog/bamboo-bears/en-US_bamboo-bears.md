@@ -1,5 +1,7 @@
 # Bamboo Bears
 
+![bamboo-bears](https://cdn.myanimelist.net/images/anime/9/4138.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: バンブー・ベアーズ

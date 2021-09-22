@@ -1,5 +1,7 @@
 # Die or Like Me
 
+![die-or-like-me](https://cdn.myanimelist.net/images/manga/3/18762.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 

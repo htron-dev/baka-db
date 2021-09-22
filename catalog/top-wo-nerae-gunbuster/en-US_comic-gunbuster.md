@@ -1,5 +1,7 @@
 # Comic Gunbuster
 
+![comic-gunbuster](https://cdn.myanimelist.net/images/manga/3/34019.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: コミックガンバスター

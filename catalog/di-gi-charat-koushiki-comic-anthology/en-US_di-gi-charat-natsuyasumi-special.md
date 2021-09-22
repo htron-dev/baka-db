@@ -1,5 +1,7 @@
 # Di Gi Charat Natsuyasumi Special
 
+![di-gi-charat-natsuyasumi-special](https://cdn.myanimelist.net/images/anime/2/28182.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: Di Gi Charat 夏休みスペシャル

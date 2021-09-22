@@ -1,5 +1,7 @@
 # Extreme Summer Shooter's!
 
+![extreme-summer-shooters](https://cdn.myanimelist.net/images/manga/2/169854.jpg)
+
 -   **type**: manga
 -   **original-name**: EXTREME SUMMER SHOOTER'S!
 -   **start-date**: 2014-04-27

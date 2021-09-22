@@ -1,5 +1,7 @@
 # Yareta kamo Iinkai
 
+![yareta-kamo-iinkai](https://cdn.myanimelist.net/images/manga/2/204944.jpg)
+
 -   **type**: manga
 -   **original-name**: やれたかも委員会
 -   **start-date**: 2016-04-24

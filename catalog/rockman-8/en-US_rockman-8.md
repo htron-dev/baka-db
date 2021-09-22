@@ -1,5 +1,7 @@
 # Rockman 8
 
+![rockman-8](https://cdn.myanimelist.net/images/manga/3/36594.jpg)
+
 -   **type**: manga
 
 ## Tags

@@ -1,5 +1,7 @@
 # Strike Witches Zero: 1939 Koukoku no Majo
 
+![strike-witches-zero-1939-koukoku-no-majo](https://cdn.myanimelist.net/images/manga/3/156819.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: ストライクウィッチーズ零（ゼロ） 1939 皇国の魔女

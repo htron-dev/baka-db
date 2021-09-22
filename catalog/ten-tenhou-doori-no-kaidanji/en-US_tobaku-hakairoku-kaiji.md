@@ -1,5 +1,7 @@
 # Tobaku Hakairoku Kaiji
 
+![tobaku-hakairoku-kaiji](https://cdn.myanimelist.net/images/manga/2/3964.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 134

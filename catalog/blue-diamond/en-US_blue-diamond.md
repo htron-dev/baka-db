@@ -1,5 +1,7 @@
 # Blue Diamond
 
+![blue-diamond](https://cdn.myanimelist.net/images/manga/2/16766.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

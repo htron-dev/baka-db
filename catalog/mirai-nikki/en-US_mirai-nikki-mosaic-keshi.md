@@ -1,5 +1,7 @@
 # Mirai Nikki: Mosaic Keshi
 
+![mirai-nikki-mosaic-keshi](https://cdn.myanimelist.net/images/manga/1/184463.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

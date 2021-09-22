@@ -1,5 +1,7 @@
 # Bijutsu Kyouiku
 
+![bijutsu-kyouiku](https://cdn.myanimelist.net/images/anime/1209/104385.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 美術教育

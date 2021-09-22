@@ -1,5 +1,7 @@
 # Monster Idols
 
+![monster-idols](https://cdn.myanimelist.net/images/manga/2/185443.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 91

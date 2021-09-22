@@ -1,5 +1,7 @@
 # Aria Special Navigations
 
+![aria-special-navigations](https://cdn.myanimelist.net/images/manga/5/20528.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **start-date**: 2006-03-29

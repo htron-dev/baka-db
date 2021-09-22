@@ -1,5 +1,7 @@
 # Kasumin 2nd Season
 
+![kasumin-2nd-season](https://cdn.myanimelist.net/images/anime/13/67257.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: カスミン (第 2 シリーズ)

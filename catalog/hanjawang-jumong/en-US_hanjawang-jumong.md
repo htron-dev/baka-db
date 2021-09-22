@@ -1,9 +1,10 @@
 # Hanjawang Jumong
 
+![hanjawang-jumong](https://cdn.myanimelist.net/images/anime/1270/114503.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 한자왕 주몽
-
 -   **rating**: PG - Children
 
 ## Tags

@@ -1,5 +1,7 @@
 # Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu
 
+![kono-subarashii-sekai-ni-shukufuku-wo-movie-kurenai-densetsu](https://cdn.myanimelist.net/images/anime/1129/117109.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 この素晴らしい世界に祝福を！紅伝説

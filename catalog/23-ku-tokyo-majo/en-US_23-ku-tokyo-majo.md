@@ -1,5 +1,7 @@
 # 23-ku Tokyo Majo
 
+![23-ku-tokyo-majo](https://cdn.myanimelist.net/images/manga/3/230068.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Aitakunatta Toki ni Kimi wa Koko ni Inai
 
+![aitakunatta-toki-ni-kimi-wa-koko-ni-inai](https://cdn.myanimelist.net/images/manga/1/152288.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 逢いたくなった時に君はここにいない

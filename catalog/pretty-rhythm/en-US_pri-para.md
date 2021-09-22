@@ -1,5 +1,7 @@
 # PriPara
 
+![pri-para](https://cdn.myanimelist.net/images/anime/2/75258.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 140
 -   **original-name**: プリパラ

@@ -1,5 +1,7 @@
 # Aria the Natural: Sono Futatabi Deaeru Kiseki ni...
 
+![aria-the-natural-sono-futatabi-deaeru-kiseki-ni](https://cdn.myanimelist.net/images/anime/9/10494.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ARIA The NATURAL「その 再び出逢える奇跡 に…」

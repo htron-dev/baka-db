@@ -1,5 +1,7 @@
 # Tori Kissa!
 
+![tori-kissa](https://cdn.myanimelist.net/images/manga/3/158985.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 46

@@ -1,5 +1,7 @@
 # Ryuu no Haisha
 
+![ryuu-no-haisha](https://cdn.myanimelist.net/images/manga/2/204863.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

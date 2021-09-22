@@ -1,5 +1,7 @@
 # Bloody Roar: The Fang
 
+![bloody-roar-the-fang](https://cdn.myanimelist.net/images/manga/1/155633.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

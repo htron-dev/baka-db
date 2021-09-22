@@ -1,5 +1,7 @@
 # Yokubou Kansen
 
+![yokubou-kansen](https://cdn.myanimelist.net/images/manga/1/37869.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Iki ni Yarouze Iki ni yo
 
+![iki-ni-yarouze-iki-ni-yo](https://cdn.myanimelist.net/images/manga/3/201214.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 30

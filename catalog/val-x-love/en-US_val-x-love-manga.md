@@ -1,5 +1,7 @@
 # Val x Love
 
+![val-x-love](https://cdn.myanimelist.net/images/manga/2/182523.jpg)
+
 -   **type**: manga
 -   **original-name**: 戦 × 恋（ヴァルラヴ）
 -   **start-date**: 2015-12-12

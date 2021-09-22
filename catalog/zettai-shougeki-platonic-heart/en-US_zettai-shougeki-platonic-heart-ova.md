@@ -1,5 +1,7 @@
 # Zettai Shougeki: Platonic Heart
 
+![zettai-shougeki-platonic-heart](https://cdn.myanimelist.net/images/anime/12/24959.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: 絶対衝激～プラトニックハート～

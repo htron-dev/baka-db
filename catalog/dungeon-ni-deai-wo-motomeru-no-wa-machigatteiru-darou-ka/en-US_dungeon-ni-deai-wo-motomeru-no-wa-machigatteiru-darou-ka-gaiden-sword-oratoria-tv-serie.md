@@ -1,5 +1,7 @@
 # Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria
 
+![dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-gaiden-sword-oratoria](https://cdn.myanimelist.net/images/anime/7/85467.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ダンジョンに出会いを求めるのは間違っているだろうか外伝 ソード・オラトリア

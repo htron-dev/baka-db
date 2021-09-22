@@ -1,5 +1,7 @@
 # Onigiri Sasa
 
+![onigiri-sasa](https://cdn.myanimelist.net/images/manga/2/170072.jpg)
+
 -   **type**: manga
 -   **chapters**: 6
 -   **original-name**: おにぎりささ

@@ -1,5 +1,7 @@
 # New York de Kangaechuu
 
+![new-york-de-kangaechuu](https://cdn.myanimelist.net/images/manga/2/183532.jpg)
+
 -   **type**: manga
 -   **original-name**: ニューヨークで考え中
 -   **start-date**: 2012-08-09

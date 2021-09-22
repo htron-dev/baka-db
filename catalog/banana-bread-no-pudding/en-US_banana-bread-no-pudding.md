@@ -1,5 +1,7 @@
 # Banana Bread no Pudding
 
+![banana-bread-no-pudding](https://cdn.myanimelist.net/images/manga/2/33111.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

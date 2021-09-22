@@ -1,5 +1,7 @@
 # 30 made ni Shinitai
 
+![30-made-ni-shinitai](https://cdn.myanimelist.net/images/manga/3/238071.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

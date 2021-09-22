@@ -1,5 +1,7 @@
 # Happy End Apartment
 
+![happy-end-apartment](https://cdn.myanimelist.net/images/manga/1/57417.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

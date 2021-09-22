@@ -1,5 +1,7 @@
 # Saihate no Ao
 
+![saihate-no-ao](https://cdn.myanimelist.net/images/manga/1/157900.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

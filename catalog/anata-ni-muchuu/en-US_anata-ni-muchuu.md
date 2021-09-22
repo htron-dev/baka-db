@@ -1,5 +1,7 @@
 # Anata ni Muchuu
 
+![anata-ni-muchuu](https://cdn.myanimelist.net/images/manga/1/30634.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: あなたに夢中

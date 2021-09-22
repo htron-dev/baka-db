@@ -1,5 +1,7 @@
 # PP a la Carte
 
+![pp-a-la-carte](https://cdn.myanimelist.net/images/manga/3/16791.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

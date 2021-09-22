@@ -1,5 +1,7 @@
 # Honey Coming: Sweet Love Lesson
 
+![honey-coming-sweet-love-lesson](https://cdn.myanimelist.net/images/manga/2/14975.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

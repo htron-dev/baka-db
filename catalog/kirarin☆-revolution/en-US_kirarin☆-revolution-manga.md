@@ -1,5 +1,7 @@
 # Kirarin☆Revolution
 
+![kirarin☆-revolution](https://cdn.myanimelist.net/images/manga/3/111833.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **original-name**: きらりん ☆ レボリューション

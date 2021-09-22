@@ -1,5 +1,7 @@
 # Uchuu Senkan Yamato
 
+![uchuu-senkan-yamato](https://cdn.myanimelist.net/images/anime/1908/94946.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 宇宙戦艦ヤマト

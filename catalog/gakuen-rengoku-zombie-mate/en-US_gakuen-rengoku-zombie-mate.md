@@ -1,5 +1,7 @@
 # Gakuen Rengoku Zombie Mate
 
+![gakuen-rengoku-zombie-mate](https://cdn.myanimelist.net/images/manga/3/161545.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

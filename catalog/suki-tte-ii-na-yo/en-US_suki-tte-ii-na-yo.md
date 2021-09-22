@@ -1,5 +1,7 @@
 # Suki tte Ii na yo.
 
+![suki-tte-ii-na-yo](https://cdn.myanimelist.net/images/manga/3/198567.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 73

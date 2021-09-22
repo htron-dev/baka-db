@@ -1,5 +1,7 @@
 # Dia Game
 
+![dia-game](https://cdn.myanimelist.net/images/manga/5/165904.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Katsu!
 
+![katsu](https://cdn.myanimelist.net/images/manga/1/180361.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 157

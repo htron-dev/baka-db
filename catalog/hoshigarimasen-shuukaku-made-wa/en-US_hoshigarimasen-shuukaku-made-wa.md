@@ -1,5 +1,7 @@
 # Hoshigarimasen Shuukaku made wa
 
+![hoshigarimasen-shuukaku-made-wa](https://cdn.myanimelist.net/images/manga/2/229886.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

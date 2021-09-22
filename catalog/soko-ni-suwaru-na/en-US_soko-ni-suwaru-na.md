@@ -1,5 +1,7 @@
 # Soko ni Suwaru na
 
+![soko-ni-suwaru-na](https://cdn.myanimelist.net/images/manga/2/32989.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

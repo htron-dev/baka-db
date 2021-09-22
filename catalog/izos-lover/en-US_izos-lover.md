@@ -1,5 +1,7 @@
 # Izo's Lover!
 
+![izos-lover](https://cdn.myanimelist.net/images/manga/2/11968.jpg)
+
 -   **type**: manga
 -   **original-name**: イゾラバ
 

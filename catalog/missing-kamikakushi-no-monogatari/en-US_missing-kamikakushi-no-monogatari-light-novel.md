@@ -1,5 +1,7 @@
 # Missing: Kamikakushi no Monogatari
 
+![missing-kamikakushi-no-monogatari](https://cdn.myanimelist.net/images/manga/2/207545.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 13
 -   **original-name**: Missing 神隠しの物語

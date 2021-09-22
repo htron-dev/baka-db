@@ -1,5 +1,7 @@
 # Itsuka, Kitto Mou Sugu
 
+![itsuka-kitto-mou-sugu](https://cdn.myanimelist.net/images/manga/1/38291.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Dansou Host★: Yajuu no Sono ni Onna Hitori
 
+![dansou-host★-yajuu-no-sono-ni-onna-hitori](https://cdn.myanimelist.net/images/manga/1/128205.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 8

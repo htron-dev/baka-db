@@ -1,5 +1,7 @@
 # Diabolik Lovers Anthology
 
+![diabolik-lovers-anthology](https://cdn.myanimelist.net/images/manga/3/85629.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

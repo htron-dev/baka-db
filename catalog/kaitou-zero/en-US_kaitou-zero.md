@@ -1,5 +1,7 @@
 # Kaitou Zero
 
+![kaitou-zero](https://cdn.myanimelist.net/images/manga/1/26637.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 怪盗ゼロ

@@ -1,5 +1,7 @@
 # Fuuka
 
+![fuuka](https://cdn.myanimelist.net/images/manga/2/186209.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 204

@@ -1,5 +1,7 @@
 # Precure All Stars Movie New Stage 2: Kokoro no Tomodachi
 
+![precure-all-stars-movie-new-stage-2-kokoro-no-tomodachi](https://cdn.myanimelist.net/images/anime/2/44386.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 プリキュアオールスターズ New Stage2 こころのともだち
@@ -11,7 +13,6 @@
 ## Tags
 
 -   action
-
 -   magic
 -   shoujo
 

@@ -1,5 +1,7 @@
 # Kaiki! Jigoku Mandara
 
+![kaiki-jigoku-mandara](https://cdn.myanimelist.net/images/manga/2/35819.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

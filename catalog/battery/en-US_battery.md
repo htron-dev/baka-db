@@ -1,5 +1,7 @@
 # Battery
 
+![battery](https://cdn.myanimelist.net/images/manga/3/129677.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 34

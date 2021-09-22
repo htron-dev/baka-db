@@ -1,5 +1,7 @@
 # Yotsuya-ku Hanazono-chou
 
+![yotsuya-ku-hanazono-chou](https://cdn.myanimelist.net/images/manga/1/205018.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 19

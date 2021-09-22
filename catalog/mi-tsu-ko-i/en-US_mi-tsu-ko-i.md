@@ -1,5 +1,7 @@
 # Mi Tsu Ko i
 
+![mi-tsu-ko-i](https://cdn.myanimelist.net/images/manga/3/79341.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ミ・ツ・コ・イ

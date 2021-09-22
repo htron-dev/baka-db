@@ -1,5 +1,7 @@
 # Hanasakeru Seishounen Recaps
 
+![hanasakeru-seishounen-recaps](https://cdn.myanimelist.net/images/anime/13/15465.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 花咲ける青少年

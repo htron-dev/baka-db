@@ -1,5 +1,7 @@
 # Hana Karou Kimi e
 
+![hana-karou-kimi-e](https://cdn.myanimelist.net/images/manga/1/126645.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 花薫る君へ

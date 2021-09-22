@@ -1,5 +1,7 @@
 # Hoero! Bun Bun
 
+![hoero-bun-bun](https://cdn.myanimelist.net/images/anime/3/28908.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: ほえろブンブン

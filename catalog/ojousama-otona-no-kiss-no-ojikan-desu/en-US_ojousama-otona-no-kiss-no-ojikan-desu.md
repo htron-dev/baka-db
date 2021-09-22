@@ -1,5 +1,7 @@
 # Ojousama, Otona no Kiss no Ojikan desu.
 
+![ojousama-otona-no-kiss-no-ojikan-desu](https://cdn.myanimelist.net/images/manga/2/238210.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 27

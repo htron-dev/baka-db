@@ -1,5 +1,7 @@
 # Kuroko no Basket: Oshaberi Shiyou ka
 
+![kuroko-no-basket-oshaberi-shiyou-ka](https://cdn.myanimelist.net/images/anime/9/83916.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 黒子のバスケ お喋りしようか

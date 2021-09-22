@@ -1,5 +1,7 @@
 # Code Geass: Hangyaku no Lelouch Picture Drama
 
+![code-geass-hangyaku-no-lelouch-picture-drama](https://cdn.myanimelist.net/images/anime/7/23278.jpg)
+
 -   **type**: special
 -   **episodes**: 9
 -   **original-name**: コードギアス 反逆のルルーシュ ピクチャードラマ

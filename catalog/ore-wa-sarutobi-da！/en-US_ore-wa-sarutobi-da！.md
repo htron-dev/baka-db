@@ -1,5 +1,7 @@
 # Ore wa Sarutobi da！
 
+![ore-wa-sarutobi-da！](https://cdn.myanimelist.net/images/manga/1/175807.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: おれは猿飛だ！

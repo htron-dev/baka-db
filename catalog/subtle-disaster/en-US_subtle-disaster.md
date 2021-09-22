@@ -1,5 +1,7 @@
 # Subtle Disaster
 
+![subtle-disaster](https://cdn.myanimelist.net/images/manga/3/174116.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **original-name**: 재앙은 미묘하게

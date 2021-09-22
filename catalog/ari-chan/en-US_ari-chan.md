@@ -1,5 +1,7 @@
 # Ari-chan
 
+![ari-chan](https://cdn.myanimelist.net/images/anime/3/68303.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アリチャン

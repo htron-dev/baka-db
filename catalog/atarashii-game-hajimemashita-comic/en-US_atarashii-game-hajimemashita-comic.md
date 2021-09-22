@@ -1,5 +1,7 @@
 # Atarashii Game Hajimemashita. @comic
 
+![atarashii-game-hajimemashita-comic](https://cdn.myanimelist.net/images/manga/1/229738.jpg)
+
 -   **type**: manga
 -   **original-name**: 新しいゲーム始めました。@COMIC
 -   **start-date**: 2019-04-08

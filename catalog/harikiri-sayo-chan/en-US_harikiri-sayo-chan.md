@@ -1,5 +1,7 @@
 # Harikiri Sayo-chan
 
+![harikiri-sayo-chan](https://cdn.myanimelist.net/images/manga/3/16903.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: はりきりさよちゃん

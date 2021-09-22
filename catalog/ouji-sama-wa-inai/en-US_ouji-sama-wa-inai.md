@@ -1,5 +1,7 @@
 # Ouji-sama wa Inai
 
+![ouji-sama-wa-inai](https://cdn.myanimelist.net/images/manga/5/55531.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

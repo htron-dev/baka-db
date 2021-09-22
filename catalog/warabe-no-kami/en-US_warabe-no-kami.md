@@ -1,5 +1,7 @@
 # Warabe no Kami
 
+![warabe-no-kami](https://cdn.myanimelist.net/images/manga/2/246221.jpg)
+
 -   **type**: manga
 -   **original-name**: 童の神
 -   **start-date**: 2020-05-25

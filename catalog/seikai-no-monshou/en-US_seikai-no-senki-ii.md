@@ -1,5 +1,7 @@
 # Seikai no Senki II
 
+![seikai-no-senki-ii](https://cdn.myanimelist.net/images/anime/12/61109.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: 星界の戦旗 II

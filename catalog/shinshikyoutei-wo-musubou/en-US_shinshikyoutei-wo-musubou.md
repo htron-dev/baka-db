@@ -1,5 +1,7 @@
 # Shinshikyoutei wo Musubou!
 
+![shinshikyoutei-wo-musubou](https://cdn.myanimelist.net/images/manga/2/38305.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 紳士協定を結ぼう!

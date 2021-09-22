@@ -1,5 +1,7 @@
 # Ame Nochi Hare
 
+![ame-nochi-hare](https://cdn.myanimelist.net/images/manga/2/149958.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 39

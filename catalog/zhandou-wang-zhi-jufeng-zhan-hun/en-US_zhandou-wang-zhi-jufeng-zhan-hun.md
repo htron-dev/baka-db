@@ -1,5 +1,7 @@
 # Zhandou Wang Zhi Jufeng Zhan Hun
 
+![zhandou-wang-zhi-jufeng-zhan-hun](https://cdn.myanimelist.net/images/anime/12/87892.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 战斗王之飓风战魂
@@ -10,7 +12,6 @@
 ## Tags
 
 -   action
-
 -   shounen
 
 ## Sinopse

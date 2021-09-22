@@ -1,5 +1,7 @@
 # Go Go! Purin Teikoku
 
+![go-go-purin-teikoku](https://cdn.myanimelist.net/images/manga/3/29874.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: GOGO!ぷりん帝国

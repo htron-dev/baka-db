@@ -1,5 +1,7 @@
 # Sweet Bitter Room
 
+![sweet-bitter-room](https://cdn.myanimelist.net/images/manga/3/192656.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

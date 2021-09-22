@@ -1,5 +1,7 @@
 # Jigoku no Girlfriend
 
+![jigoku-no-girlfriend](https://cdn.myanimelist.net/images/manga/2/169947.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 33

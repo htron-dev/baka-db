@@ -1,5 +1,7 @@
 # Niko-iro no Canvas
 
+![niko-iro-no-canvas](https://cdn.myanimelist.net/images/manga/1/227041.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

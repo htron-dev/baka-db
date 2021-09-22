@@ -1,5 +1,7 @@
 # Ma Curriculum!
 
+![ma-curriculum](https://cdn.myanimelist.net/images/manga/1/239778.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 魔カリキュラム!

@@ -1,5 +1,7 @@
 # Dragon Quest: Monsters+
 
+![dragon-quest-monsters](https://cdn.myanimelist.net/images/manga/3/25112.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: ドラゴンクエストモンスターズ+

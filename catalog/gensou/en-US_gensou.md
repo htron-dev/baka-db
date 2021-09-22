@@ -1,5 +1,7 @@
 # Gensou
 
+![gensou](https://cdn.myanimelist.net/images/manga/3/163771.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 還相〈げんそう〉―むらかわみちお作品集

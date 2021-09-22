@@ -1,5 +1,7 @@
 # Azure Nihon Data Center
 
+![azure-nihon-data-center](https://cdn.myanimelist.net/images/anime/6/77704.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: Azure 日本データセンター

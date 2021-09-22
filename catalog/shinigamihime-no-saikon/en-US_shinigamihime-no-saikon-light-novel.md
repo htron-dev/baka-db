@@ -1,5 +1,7 @@
 # Shinigamihime no Saikon
 
+![shinigamihime-no-saikon](https://cdn.myanimelist.net/images/manga/3/111357.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 22
 -   **original-name**: 死神姫の再婚

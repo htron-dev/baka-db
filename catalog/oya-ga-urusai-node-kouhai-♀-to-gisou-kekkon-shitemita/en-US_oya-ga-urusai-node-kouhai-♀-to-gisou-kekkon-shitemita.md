@@ -1,5 +1,7 @@
 # Oya ga Urusai node Kouhai (♀) to Gisou Kekkon Shitemita.
 
+![oya-ga-urusai-node-kouhai-♀-to-gisou-kekkon-shitemita](https://cdn.myanimelist.net/images/manga/1/212825.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

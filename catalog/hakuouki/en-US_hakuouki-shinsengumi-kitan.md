@@ -1,5 +1,7 @@
 # Hakuouki Shinsengumi Kitan
 
+![hakuouki-shinsengumi-kitan](https://cdn.myanimelist.net/images/manga/5/210017.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 薄桜鬼

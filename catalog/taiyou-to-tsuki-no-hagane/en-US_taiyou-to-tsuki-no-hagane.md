@@ -1,5 +1,7 @@
 # Taiyou to Tsuki no Hagane
 
+![taiyou-to-tsuki-no-hagane](https://cdn.myanimelist.net/images/manga/1/236244.jpg)
+
 -   **type**: manga
 -   **original-name**: 太陽と月の鋼
 -   **start-date**: 2020-06-12

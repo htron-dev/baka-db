@@ -1,5 +1,7 @@
 # This Witch of Mine
 
+![this-witch-of-mine](https://cdn.myanimelist.net/images/manga/3/228265.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 나의 마녀
 -   **start-date**: 2015-08-25

@@ -1,5 +1,7 @@
 # Torokeru hodo ni Kamaretai
 
+![torokeru-hodo-ni-kamaretai](https://cdn.myanimelist.net/images/manga/2/237290.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

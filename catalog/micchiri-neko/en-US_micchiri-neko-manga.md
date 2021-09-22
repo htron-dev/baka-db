@@ -1,5 +1,7 @@
 # Micchiri Neko
 
+![micchiri-neko](https://cdn.myanimelist.net/images/manga/2/185345.jpg)
+
 -   **type**: manga
 -   **original-name**: みっちりねこ
 -   **start-date**: 2011-09-20

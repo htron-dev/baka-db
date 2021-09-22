@@ -1,5 +1,7 @@
 # Tendou-ke Monogatari
 
+![tendou-ke-monogatari](https://cdn.myanimelist.net/images/manga/1/176935.jpg)
+
 -   **type**: manga
 -   **original-name**: 天堂家物語
 -   **start-date**: 2014-08-09

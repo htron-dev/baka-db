@@ -1,5 +1,7 @@
 # Mukai Usagidou Nikki
 
+![mukai-usagidou-nikki](https://cdn.myanimelist.net/images/manga/2/198006.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 57

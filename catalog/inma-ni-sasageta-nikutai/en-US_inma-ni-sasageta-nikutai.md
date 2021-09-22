@@ -1,5 +1,7 @@
 # Inma ni Sasageta Nikutai
 
+![inma-ni-sasageta-nikutai](https://cdn.myanimelist.net/images/manga/2/198028.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

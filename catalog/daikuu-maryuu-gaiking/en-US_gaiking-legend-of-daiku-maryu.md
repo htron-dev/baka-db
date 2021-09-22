@@ -1,5 +1,7 @@
 # Gaiking: Legend of Daiku-Maryu
 
+![gaiking-legend-of-daiku-maryu](https://cdn.myanimelist.net/images/anime/13/74215.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: ガイキング Legend of Daiku-Maryu

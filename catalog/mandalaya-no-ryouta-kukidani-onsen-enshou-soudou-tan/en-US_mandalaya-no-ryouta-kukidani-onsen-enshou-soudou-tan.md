@@ -1,5 +1,7 @@
 # Mandalaya no Ryouta: Kukidani Onsen Enshou Soudou Tan
 
+![mandalaya-no-ryouta-kukidani-onsen-enshou-soudou-tan](https://cdn.myanimelist.net/images/anime/10/45688.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: まんだら屋の良太 丸鬼谷温泉艶笑騒動譚

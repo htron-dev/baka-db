@@ -1,5 +1,7 @@
 # Chihayafuru: Chuugakusei-hen
 
+![chihayafuru-chuugakusei-hen](https://cdn.myanimelist.net/images/manga/1/109713.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 小説 ちはやふる 中学生編

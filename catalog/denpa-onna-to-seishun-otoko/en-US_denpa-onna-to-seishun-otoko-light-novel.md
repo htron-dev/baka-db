@@ -1,5 +1,7 @@
 # Denpa Onna to Seishun Otoko
 
+![denpa-onna-to-seishun-otoko](https://cdn.myanimelist.net/images/manga/2/132513.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **original-name**: 電波女と青春男

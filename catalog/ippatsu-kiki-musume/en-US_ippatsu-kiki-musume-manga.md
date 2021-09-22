@@ -1,5 +1,7 @@
 # Ippatsu Kiki Musume
 
+![ippatsu-kiki-musume](https://cdn.myanimelist.net/images/manga/2/236868.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 81

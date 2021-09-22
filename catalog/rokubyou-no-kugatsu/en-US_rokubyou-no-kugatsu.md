@@ -1,5 +1,7 @@
 # Rokubyou no Kugatsu
 
+![rokubyou-no-kugatsu](https://cdn.myanimelist.net/images/manga/1/28267.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ６秒の９月

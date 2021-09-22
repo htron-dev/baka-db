@@ -1,5 +1,7 @@
 # Boku no Pet wa Salaryman
 
+![boku-no-pet-wa-salaryman](https://cdn.myanimelist.net/images/manga/2/171787.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

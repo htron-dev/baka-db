@@ -1,5 +1,7 @@
 # Garasu no Hashi
 
+![garasu-no-hashi](https://cdn.myanimelist.net/images/manga/1/47769.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

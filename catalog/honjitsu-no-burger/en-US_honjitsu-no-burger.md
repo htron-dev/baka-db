@@ -1,5 +1,7 @@
 # Honjitsu no Burger
 
+![honjitsu-no-burger](https://cdn.myanimelist.net/images/manga/1/200526.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 143

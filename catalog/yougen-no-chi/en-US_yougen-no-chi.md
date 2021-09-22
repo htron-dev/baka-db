@@ -1,5 +1,7 @@
 # Yougen no Chi
 
+![yougen-no-chi](https://cdn.myanimelist.net/images/manga/2/3574.jpg)
+
 -   **type**: manga
 -   **original-name**: 妖幻の血
 -   **start-date**: 2001-10-12

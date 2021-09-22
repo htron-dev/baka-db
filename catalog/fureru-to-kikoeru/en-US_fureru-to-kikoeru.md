@@ -1,5 +1,7 @@
 # Fureru to Kikoeru
 
+![fureru-to-kikoeru](https://cdn.myanimelist.net/images/manga/2/188785.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 37

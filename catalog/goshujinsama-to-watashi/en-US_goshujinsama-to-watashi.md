@@ -1,5 +1,7 @@
 # Goshujinsama to Watashi
 
+![goshujinsama-to-watashi](https://cdn.myanimelist.net/images/manga/3/5778.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 御主人様と私

@@ -1,5 +1,7 @@
 # Happy World!
 
+![happy-world](https://cdn.myanimelist.net/images/anime/1028/96491.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: Happy World!

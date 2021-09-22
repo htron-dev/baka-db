@@ -1,5 +1,7 @@
 # Yuuzutsu wa Ai ni Tokeru
 
+![yuuzutsu-wa-ai-ni-tokeru](https://cdn.myanimelist.net/images/manga/1/97367.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

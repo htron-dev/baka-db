@@ -1,5 +1,7 @@
 # Neko ni Sayonara
 
+![neko-ni-sayonara](https://cdn.myanimelist.net/images/manga/1/246152.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Oasobi mo Hodohodo ni
 
+![oasobi-mo-hodohodo-ni](https://cdn.myanimelist.net/images/manga/1/229791.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

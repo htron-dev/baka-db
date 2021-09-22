@@ -1,5 +1,7 @@
 # Red Garden
 
+![red-garden](https://cdn.myanimelist.net/images/manga/2/7164.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 30

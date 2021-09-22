@@ -1,5 +1,7 @@
 # Akaoni wa Mou Nakanai
 
+![akaoni-wa-mou-nakanai](https://cdn.myanimelist.net/images/manga/1/119151.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

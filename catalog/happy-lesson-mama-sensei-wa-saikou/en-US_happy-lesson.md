@@ -1,5 +1,7 @@
 # Happy☆Lesson
 
+![happy☆-lesson](https://cdn.myanimelist.net/images/anime/6/15349.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: HAPPY☆LESSON

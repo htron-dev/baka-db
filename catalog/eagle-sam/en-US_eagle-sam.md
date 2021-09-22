@@ -1,5 +1,7 @@
 # Eagle Sam
 
+![eagle-sam](https://cdn.myanimelist.net/images/anime/11/20805.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: イーグルサム

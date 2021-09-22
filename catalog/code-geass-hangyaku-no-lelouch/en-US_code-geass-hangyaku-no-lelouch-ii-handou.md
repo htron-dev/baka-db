@@ -1,5 +1,7 @@
 # Code Geass: Hangyaku no Lelouch II - Handou
 
+![code-geass-hangyaku-no-lelouch-ii-handou](https://cdn.myanimelist.net/images/anime/13/89275.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: コードギアス 反逆のルルーシュ Ⅱ 叛道

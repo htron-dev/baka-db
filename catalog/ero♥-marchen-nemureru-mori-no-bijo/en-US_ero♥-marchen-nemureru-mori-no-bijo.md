@@ -1,5 +1,7 @@
 # Ero♥Märchen: Nemureru Mori no Bijo
 
+![ero♥-marchen-nemureru-mori-no-bijo](https://cdn.myanimelist.net/images/manga/2/231138.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

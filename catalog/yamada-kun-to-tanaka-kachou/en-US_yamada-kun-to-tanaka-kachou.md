@@ -1,5 +1,7 @@
 # Yamada-kun to Tanaka Kachou
 
+![yamada-kun-to-tanaka-kachou](https://cdn.myanimelist.net/images/manga/1/189629.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Install Pilot
 
+![install-pilot](https://cdn.myanimelist.net/images/anime/5/30669.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 印ストール

@@ -1,5 +1,7 @@
 # Kara no Kyoukai 5: Mujun Rasen
 
+![kara-no-kyoukai-5-mujun-rasen](https://cdn.myanimelist.net/images/anime/8/9246.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 空の境界 the Garden of sinners 第五章『矛盾螺旋』

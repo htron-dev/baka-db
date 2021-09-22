@@ -1,5 +1,7 @@
 # Umi wo Miteita Inu
 
+![umi-wo-miteita-inu](https://cdn.myanimelist.net/images/manga/2/53485.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 海をみていた犬

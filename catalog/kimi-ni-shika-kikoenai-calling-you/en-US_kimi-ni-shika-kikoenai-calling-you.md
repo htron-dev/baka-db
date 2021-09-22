@@ -1,5 +1,7 @@
 # Kimi ni shika Kikoenai: Calling You
 
+![kimi-ni-shika-kikoenai-calling-you](https://cdn.myanimelist.net/images/manga/2/161390.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

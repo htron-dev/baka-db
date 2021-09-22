@@ -1,5 +1,7 @@
 # Messiah Crybaby
 
+![messiah-crybaby](https://cdn.myanimelist.net/images/manga/1/177097.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 18

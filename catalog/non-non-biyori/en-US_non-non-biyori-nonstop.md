@@ -1,5 +1,7 @@
 # Non Non Biyori Nonstop
 
+![non-non-biyori-nonstop](https://cdn.myanimelist.net/images/anime/1033/111540.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: のんのんびより のんすとっぷ

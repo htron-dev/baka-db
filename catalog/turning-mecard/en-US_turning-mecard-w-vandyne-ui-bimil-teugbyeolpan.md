@@ -1,5 +1,7 @@
 # Turning Mecard W: Vandyne-ui Bimil - Teugbyeolpan
 
+![turning-mecard-w-vandyne-ui-bimil-teugbyeolpan](https://cdn.myanimelist.net/images/anime/1475/91955.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 터닝메카드 W 반다인의 비밀 특별판
@@ -11,7 +13,6 @@
 -   adventure
 -   cars
 -   game
-
 -   mecha
 
 ## Sinopse

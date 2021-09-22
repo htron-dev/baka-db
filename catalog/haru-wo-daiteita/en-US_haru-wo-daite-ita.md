@@ -1,5 +1,7 @@
 # Haru wo Daite Ita
 
+![haru-wo-daite-ita](https://cdn.myanimelist.net/images/anime/6/3718.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 春を抱いていた

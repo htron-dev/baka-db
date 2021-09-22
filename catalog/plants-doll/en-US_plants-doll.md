@@ -1,5 +1,7 @@
 # Plants Doll
 
+![plants-doll](https://cdn.myanimelist.net/images/manga/1/160956.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

@@ -1,5 +1,7 @@
 # Zettai ni Tokimeite wa Ikenai!
 
+![zettai-ni-tokimeite-wa-ikenai](https://cdn.myanimelist.net/images/manga/2/207878.jpg)
+
 -   **type**: manga
 -   **original-name**: 絶対にときめいてはいけない！
 -   **start-date**: 2017-09-23

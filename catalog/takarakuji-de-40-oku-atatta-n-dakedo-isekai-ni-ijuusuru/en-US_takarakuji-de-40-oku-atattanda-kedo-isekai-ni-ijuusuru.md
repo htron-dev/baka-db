@@ -1,5 +1,7 @@
 # Takarakuji de 40-oku Atattanda kedo Isekai ni Ijuusuru
 
+![takarakuji-de-40-oku-atattanda-kedo-isekai-ni-ijuusuru](https://cdn.myanimelist.net/images/manga/1/194831.jpg)
+
 -   **type**: manga
 -   **original-name**: 宝くじで 40 億当たったんだけど異世界に移住する
 -   **start-date**: 2016-11-19

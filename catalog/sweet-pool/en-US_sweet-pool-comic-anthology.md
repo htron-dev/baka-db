@@ -1,5 +1,7 @@
 # Sweet Pool Comic Anthology
 
+![sweet-pool-comic-anthology](https://cdn.myanimelist.net/images/manga/3/64249.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 18

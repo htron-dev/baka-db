@@ -1,5 +1,7 @@
 # Fuichin-san
 
+![fuichin-san](https://cdn.myanimelist.net/images/anime/11/62189.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: フイチンさん
@@ -10,7 +12,6 @@
 
 -   drama
 -   historical
-
 -   shoujo
 
 ## Sinopse

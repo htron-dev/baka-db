@@ -1,5 +1,7 @@
 # Zombie Powder.
 
+![zombie-powder](https://cdn.myanimelist.net/images/manga/3/180035.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 30

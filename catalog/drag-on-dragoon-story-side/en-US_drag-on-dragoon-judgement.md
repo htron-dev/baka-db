@@ -1,5 +1,7 @@
 # Drag-on Dragoon: Judgement
 
+![drag-on-dragoon-judgement](https://cdn.myanimelist.net/images/manga/3/107609.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: ドラッグ　オン　ドラグーン　ジャッツメソト

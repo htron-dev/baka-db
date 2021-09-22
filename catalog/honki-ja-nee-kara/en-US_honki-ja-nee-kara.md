@@ -1,5 +1,7 @@
 # Honki ja Nee kara
 
+![honki-ja-nee-kara](https://cdn.myanimelist.net/images/manga/3/82304.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

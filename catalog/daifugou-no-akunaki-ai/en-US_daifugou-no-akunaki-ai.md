@@ -1,5 +1,7 @@
 # Daifugou no Akunaki Ai
 
+![daifugou-no-akunaki-ai](https://cdn.myanimelist.net/images/manga/3/223452.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 大富豪の飽くなき愛

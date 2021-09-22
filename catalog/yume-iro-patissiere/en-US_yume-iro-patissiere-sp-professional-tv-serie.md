@@ -1,5 +1,7 @@
 # Yume-iro Pâtissière SP Professional
 
+![yume-iro-patissiere-sp-professional](https://cdn.myanimelist.net/images/anime/2/27794.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 夢色パティシエール SP（スペシャル）プロフェッショナル

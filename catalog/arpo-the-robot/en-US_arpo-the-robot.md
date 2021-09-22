@@ -1,5 +1,7 @@
 # Arpo The Robot
 
+![arpo-the-robot](https://cdn.myanimelist.net/images/anime/1313/114093.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 42
 -   **original-name**: 로봇 알포

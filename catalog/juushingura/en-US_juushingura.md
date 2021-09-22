@@ -1,5 +1,7 @@
 # Juushingura
 
+![juushingura](https://cdn.myanimelist.net/images/manga/3/25735.jpg)
+
 -   **type**: manga
 -   **original-name**: じゅうしんぐら
 

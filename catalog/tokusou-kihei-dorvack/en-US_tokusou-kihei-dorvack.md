@@ -1,5 +1,7 @@
 # Tokusou Kihei Dorvack
 
+![tokusou-kihei-dorvack](https://cdn.myanimelist.net/images/anime/3/68555.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 36
 -   **original-name**: 特装機兵ドルバック

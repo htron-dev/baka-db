@@ -1,5 +1,7 @@
 # Denpa Onna to Seishun Otoko
 
+![denpa-onna-to-seishun-otoko](https://cdn.myanimelist.net/images/manga/3/136111.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 31

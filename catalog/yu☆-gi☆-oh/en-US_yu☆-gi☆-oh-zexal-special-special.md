@@ -1,5 +1,7 @@
 # Yu☆Gi☆Oh! Zexal Special
 
+![yu☆-gi☆-oh-zexal-special](https://cdn.myanimelist.net/images/anime/3/44710.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: めざせ世界一!「遊戯王 ZEXAL」内村航平選手も出るよスペシャル

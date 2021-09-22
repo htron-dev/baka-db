@@ -1,5 +1,7 @@
 # Panty &amp; Stocking in Sanitarybox
 
+![panty-amp-stocking-in-sanitarybox](https://cdn.myanimelist.net/images/anime/6/29589.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Panty & Stocking in Sanitarybox

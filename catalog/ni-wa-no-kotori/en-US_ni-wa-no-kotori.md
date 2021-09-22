@@ -1,5 +1,7 @@
 # Ni wa no Kotori
 
+![ni-wa-no-kotori](https://cdn.myanimelist.net/images/anime/11/84585.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 二わのことり

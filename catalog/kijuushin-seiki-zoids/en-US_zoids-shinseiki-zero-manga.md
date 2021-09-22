@@ -1,5 +1,7 @@
 # Zoids Shinseiki/Zero
 
+![zoids-shinseiki-zero](https://cdn.myanimelist.net/images/manga/4/58755.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: ゾイド新世紀／ゼロ

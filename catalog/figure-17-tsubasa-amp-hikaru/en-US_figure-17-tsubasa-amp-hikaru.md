@@ -1,5 +1,7 @@
 # Figure 17: Tsubasa &amp; Hikaru
 
+![figure-17-tsubasa-amp-hikaru](https://cdn.myanimelist.net/images/anime/7/15438.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: フィギュア 17 つばさ&ヒカル

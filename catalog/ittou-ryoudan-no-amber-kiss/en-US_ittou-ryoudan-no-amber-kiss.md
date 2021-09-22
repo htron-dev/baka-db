@@ -1,5 +1,7 @@
 # Ittou Ryoudan no Amber Kiss
 
+![ittou-ryoudan-no-amber-kiss](https://cdn.myanimelist.net/images/manga/2/165729.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 一刀両断のアンバー・キス
 -   **start-date**: 2015-11-15

@@ -1,5 +1,7 @@
 # Hakujaden
 
+![hakujaden](https://cdn.myanimelist.net/images/anime/1136/100516.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 白蛇伝

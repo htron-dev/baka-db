@@ -1,5 +1,7 @@
 # Genjitsu Shugi Yuusha no Oukoku Saikenki
 
+![genjitsu-shugi-yuusha-no-oukoku-saikenki](https://cdn.myanimelist.net/images/manga/1/207420.jpg)
+
 -   **type**: manga
 -   **original-name**: 現実主義勇者の王国再建記
 -   **start-date**: 2017-07-10

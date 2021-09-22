@@ -1,5 +1,7 @@
 # Eureka Shoukougun
 
+![eureka-shoukougun](https://cdn.myanimelist.net/images/manga/3/174650.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

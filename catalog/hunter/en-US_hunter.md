@@ -1,5 +1,7 @@
 # Hunter
 
+![hunter](https://cdn.myanimelist.net/images/anime/1381/114925.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Hunter

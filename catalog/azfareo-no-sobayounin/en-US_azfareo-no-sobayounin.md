@@ -1,5 +1,7 @@
 # Azfareo no Sobayounin
 
+![azfareo-no-sobayounin](https://cdn.myanimelist.net/images/manga/1/222050.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 44

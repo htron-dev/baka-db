@@ -1,5 +1,7 @@
 # Ryuugoroshi no Gunshi: Toaru Sagishi no Eiyuutan
 
+![ryuugoroshi-no-gunshi-toaru-sagishi-no-eiyuutan](https://cdn.myanimelist.net/images/manga/3/169373.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

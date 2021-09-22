@@ -1,5 +1,7 @@
 # Yoku Wakaranai keredo Isekai ni Tensei shiteita you desu
 
+![yoku-wakaranai-keredo-isekai-ni-tensei-shiteita-you-desu](https://cdn.myanimelist.net/images/manga/1/234390.jpg)
+
 -   **type**: light-novel
 -   **original-name**: よくわからないけれど異世界に転生していたようです
 -   **start-date**: 2019-01-31

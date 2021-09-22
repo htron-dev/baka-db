@@ -1,5 +1,7 @@
 # Mobile Suit Zeta Gundam: A New Translation - Heir to the Stars
 
+![mobile-suit-zeta-gundam-a-new-translation-heir-to-the-stars](https://cdn.myanimelist.net/images/anime/7/36701.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 機動戦士 Z ガンダム -星を継ぐ者-

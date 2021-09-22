@@ -1,5 +1,7 @@
 # Shinomiya-kun no Sekai ga Owattemo
 
+![shinomiya-kun-no-sekai-ga-owattemo](https://cdn.myanimelist.net/images/manga/1/167575.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

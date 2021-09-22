@@ -1,5 +1,7 @@
 # Bara Bara Film
 
+![bara-bara-film](https://cdn.myanimelist.net/images/anime/12/72937.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: バラバラフィルム

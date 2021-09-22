@@ -1,5 +1,7 @@
 # Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!
 
+![kono-subarashii-sekai-ni-shukufuku-wo-kono-subarashii-choker-ni-shukufuku-wo](https://cdn.myanimelist.net/images/anime/1649/98516.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: この素晴らしい世界に祝福を！ 第 11 話 この素晴らしいチヨーカーに祝福を！

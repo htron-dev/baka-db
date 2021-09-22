@@ -1,5 +1,7 @@
 # Persona 4: The Ultimate in Mayonaka Arena
 
+![persona-4-the-ultimate-in-mayonaka-arena](https://cdn.myanimelist.net/images/manga/2/115751.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

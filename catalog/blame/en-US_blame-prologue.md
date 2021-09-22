@@ -1,5 +1,7 @@
 # Blame! Prologue
 
+![blame-prologue](https://cdn.myanimelist.net/images/anime/11/5599.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: BLAME! (2007)

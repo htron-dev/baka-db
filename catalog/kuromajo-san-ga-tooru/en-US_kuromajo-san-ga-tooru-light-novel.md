@@ -1,5 +1,7 @@
 # Kuromajo-san ga Tooru!!
 
+![kuromajo-san-ga-tooru](https://cdn.myanimelist.net/images/manga/2/149358.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 黒魔女さんが通る!!
 -   **start-date**: 2005-09-15

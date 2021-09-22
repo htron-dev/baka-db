@@ -1,5 +1,7 @@
 # Junjou Booklets
 
+![junjou-booklets](https://cdn.myanimelist.net/images/manga/1/65735.jpg)
+
 -   **type**: manga
 -   **chapters**: 8
 -   **original-name**: 純情

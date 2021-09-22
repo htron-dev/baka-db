@@ -1,5 +1,7 @@
 # Koi no Arashi
 
+![koi-no-arashi](https://cdn.myanimelist.net/images/manga/1/17592.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋の嵐

@@ -1,5 +1,7 @@
 # Hatenkou Yuugi
 
+![hatenkou-yuugi](https://cdn.myanimelist.net/images/manga/2/172703.jpg)
+
 -   **type**: manga
 -   **original-name**: 破天荒遊戯
 -   **start-date**: 1999-11-18

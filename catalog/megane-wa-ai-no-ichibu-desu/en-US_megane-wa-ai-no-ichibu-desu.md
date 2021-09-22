@@ -1,5 +1,7 @@
 # Megane wa Ai no Ichibu desu.
 
+![megane-wa-ai-no-ichibu-desu](https://cdn.myanimelist.net/images/manga/2/237795.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

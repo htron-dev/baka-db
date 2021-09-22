@@ -1,5 +1,7 @@
 # Kidou Senshi Crossbone Gundam: Ghost
 
+![kidou-senshi-crossbone-gundam-ghost](https://cdn.myanimelist.net/images/manga/1/173478.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 53

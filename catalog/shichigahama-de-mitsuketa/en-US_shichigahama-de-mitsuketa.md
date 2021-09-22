@@ -1,5 +1,7 @@
 # Shichigahama de Mitsuketa
 
+![shichigahama-de-mitsuketa](https://cdn.myanimelist.net/images/anime/1471/113590.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 七ヶ浜でみつけた

@@ -1,5 +1,7 @@
 # Manga Hajimete Monogatari
 
+![manga-hajimete-monogatari](https://cdn.myanimelist.net/images/anime/12/28068.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 305
 -   **original-name**: まんがはじめて物語

@@ -1,5 +1,7 @@
 # Ye Xing Xia Ying
 
+![ye-xing-xia-ying](https://cdn.myanimelist.net/images/anime/1726/111311.jpg)
+
 -   **type**: ona
 -   **original-name**: 夜刑侠影
 -   **rating**: None

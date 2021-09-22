@@ -1,5 +1,7 @@
 # Gaksital
 
+![gaksital](https://cdn.myanimelist.net/images/manga/1/150570.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **original-name**: 각시탈

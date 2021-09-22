@@ -1,5 +1,7 @@
 # Unmei wa Boku no Tonari
 
+![unmei-wa-boku-no-tonari](https://cdn.myanimelist.net/images/manga/3/29871.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 運命は僕の隣

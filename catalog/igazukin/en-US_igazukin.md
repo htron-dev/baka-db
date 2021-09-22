@@ -1,5 +1,7 @@
 # Igazukin
 
+![igazukin](https://cdn.myanimelist.net/images/manga/3/9217.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 伊賀ずきん

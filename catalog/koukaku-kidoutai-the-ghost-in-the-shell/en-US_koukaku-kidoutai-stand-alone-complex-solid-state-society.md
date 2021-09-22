@@ -1,5 +1,7 @@
 # Koukaku Kidoutai: Stand Alone Complex - Solid State Society
 
+![koukaku-kidoutai-stand-alone-complex-solid-state-society](https://cdn.myanimelist.net/images/anime/4/29816.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 攻殻機動隊 STAND ALONE COMPLEX Solid State Society

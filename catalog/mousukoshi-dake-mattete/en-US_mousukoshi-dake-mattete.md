@@ -1,5 +1,7 @@
 # Mousukoshi dake Mattete.
 
+![mousukoshi-dake-mattete](https://cdn.myanimelist.net/images/manga/2/192278.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

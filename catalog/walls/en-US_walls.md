@@ -1,5 +1,7 @@
 # Walls
 
+![walls](https://cdn.myanimelist.net/images/anime/1459/97549.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Walls

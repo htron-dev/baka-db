@@ -1,5 +1,7 @@
 # Mecha Robot Corps 3
 
+![mecha-robot-corps-3](https://cdn.myanimelist.net/images/anime/10/45172.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 로보트군단과 메카3

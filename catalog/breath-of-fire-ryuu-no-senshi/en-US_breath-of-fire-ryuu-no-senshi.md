@@ -1,5 +1,7 @@
 # Breath of Fire - Ryuu no Senshi
 
+![breath-of-fire-ryuu-no-senshi](https://cdn.myanimelist.net/images/manga/3/13098.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 6

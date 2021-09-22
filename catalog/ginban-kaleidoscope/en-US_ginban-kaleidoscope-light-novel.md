@@ -1,5 +1,7 @@
 # Ginban Kaleidoscope
 
+![ginban-kaleidoscope](https://cdn.myanimelist.net/images/manga/3/15984.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **original-name**: 銀盤カレイドスコープ

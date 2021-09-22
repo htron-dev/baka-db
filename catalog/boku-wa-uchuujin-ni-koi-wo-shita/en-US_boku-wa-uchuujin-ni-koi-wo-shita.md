@@ -1,5 +1,7 @@
 # Boku wa Uchuujin ni Koi wo Shita.
 
+![boku-wa-uchuujin-ni-koi-wo-shita](https://cdn.myanimelist.net/images/manga/1/185399.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

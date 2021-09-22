@@ -1,5 +1,7 @@
 # Lights Out
 
+![lights-out](https://cdn.myanimelist.net/images/manga/1/4999.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 9
 -   **original-name**: 어쩐지 좋은 일이 생길 것 같은 저녁

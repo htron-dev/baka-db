@@ -1,5 +1,7 @@
 # Mama
 
+![mama](https://cdn.myanimelist.net/images/manga/3/148997.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 2

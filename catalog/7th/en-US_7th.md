@@ -1,5 +1,7 @@
 # 7th
 
+![7th](https://cdn.myanimelist.net/images/manga/3/169375.jpg)
+
 -   **type**: light-novel
 -   **original-name**: セブンス
 -   **start-date**: 2015-12-28

@@ -1,5 +1,7 @@
 # Upset 15
 
+![upset-15](https://cdn.myanimelist.net/images/manga/1/66603.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: アップセット 15

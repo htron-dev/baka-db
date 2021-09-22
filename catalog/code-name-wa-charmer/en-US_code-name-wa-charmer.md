@@ -1,5 +1,7 @@
 # Code Name wa Charmer
 
+![code-name-wa-charmer](https://cdn.myanimelist.net/images/manga/1/16983.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: コードネームはチャーマー

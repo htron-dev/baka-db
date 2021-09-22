@@ -1,5 +1,7 @@
 # Kuaile Tuo Mo Ta
 
+![kuaile-tuo-mo-ta](https://cdn.myanimelist.net/images/anime/1952/115225.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 快乐椭魔塔

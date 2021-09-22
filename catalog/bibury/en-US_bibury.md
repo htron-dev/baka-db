@@ -1,5 +1,7 @@
 # Bibury
 
+![bibury](https://cdn.myanimelist.net/images/anime/1593/95002.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: バイブリー

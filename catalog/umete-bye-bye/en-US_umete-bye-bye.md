@@ -1,5 +1,7 @@
 # Umete, Bye-Bye
 
+![umete-bye-bye](https://cdn.myanimelist.net/images/anime/1041/102952.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 埋めて、バイバイ

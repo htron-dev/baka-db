@@ -1,5 +1,7 @@
 # Kengan Ashura 2nd Season
 
+![kengan-ashura-2nd-season](https://cdn.myanimelist.net/images/anime/1546/102680.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: ケンガンアシュラ Part 2

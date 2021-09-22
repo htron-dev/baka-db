@@ -1,5 +1,7 @@
 # Himeiden
 
+![himeiden](https://cdn.myanimelist.net/images/manga/2/177163.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

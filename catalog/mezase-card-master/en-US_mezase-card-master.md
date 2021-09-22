@@ -1,5 +1,7 @@
 # Mezase!! Card Master
 
+![mezase-card-master](https://cdn.myanimelist.net/images/manga/1/34959.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

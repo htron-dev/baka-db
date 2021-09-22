@@ -1,5 +1,7 @@
 # Kawaii Hito.: Cute
 
+![kawaii-hito-cute](https://cdn.myanimelist.net/images/manga/1/15565.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

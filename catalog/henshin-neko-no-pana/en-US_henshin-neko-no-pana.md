@@ -1,5 +1,7 @@
 # Henshin Neko no Pana
 
+![henshin-neko-no-pana](https://cdn.myanimelist.net/images/manga/3/19842.jpg)
+
 -   **type**: manga
 -   **original-name**: 変身猫のパナ
 

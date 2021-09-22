@@ -1,5 +1,7 @@
 # Yumemi no Majo to Kokkou no Shinigami
 
+![yumemi-no-majo-to-kokkou-no-shinigami](https://cdn.myanimelist.net/images/manga/3/243912.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 夢見の魔女と黒鋼の死神

@@ -1,5 +1,7 @@
 # Koredakara Anime tte Yatsu wa!
 
+![koredakara-anime-tte-yatsu-wa](https://cdn.myanimelist.net/images/manga/2/146867.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

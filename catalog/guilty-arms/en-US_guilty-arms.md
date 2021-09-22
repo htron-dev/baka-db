@@ -1,5 +1,7 @@
 # Guilty Arms
 
+![guilty-arms](https://cdn.myanimelist.net/images/manga/2/176493.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ギルティ・アームズ
 -   **start-date**: 2015-06-15

@@ -1,5 +1,7 @@
 # Valkyrie Works
 
+![valkyrie-works](https://cdn.myanimelist.net/images/manga/3/163564.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 28

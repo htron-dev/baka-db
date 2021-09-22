@@ -1,5 +1,7 @@
 # Oretacha Youkai Ningen
 
+![oretacha-youkai-ningen](https://cdn.myanimelist.net/images/anime/12/87310.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 俺たちゃ妖怪人間

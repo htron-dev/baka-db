@@ -1,5 +1,7 @@
 # Contrast 88
 
+![contrast-88](https://cdn.myanimelist.net/images/manga/1/181947.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

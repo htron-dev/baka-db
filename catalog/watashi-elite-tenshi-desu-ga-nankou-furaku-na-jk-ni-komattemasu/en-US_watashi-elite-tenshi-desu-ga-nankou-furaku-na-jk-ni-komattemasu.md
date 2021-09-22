@@ -1,5 +1,7 @@
 # Watashi, Elite Tenshi desu ga Nankou Furaku na JK ni Komattemasu!
 
+![watashi-elite-tenshi-desu-ga-nankou-furaku-na-jk-ni-komattemasu](https://cdn.myanimelist.net/images/manga/2/237849.jpg)
+
 -   **type**: manga
 -   **original-name**: 私、エリート天使ですが難攻不落な JK に困ってます!
 -   **start-date**: 2020-06-19

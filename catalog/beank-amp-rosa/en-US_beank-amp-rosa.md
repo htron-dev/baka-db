@@ -1,5 +1,7 @@
 # Beank &amp; Rosa
 
+![beank-amp-rosa](https://cdn.myanimelist.net/images/manga/2/235500.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

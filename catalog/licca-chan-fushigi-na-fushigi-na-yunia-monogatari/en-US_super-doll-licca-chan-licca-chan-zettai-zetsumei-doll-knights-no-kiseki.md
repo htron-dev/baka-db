@@ -1,5 +1,7 @@
 # Super Doll Licca-chan: Licca-chan Zettai Zetsumei! Doll Knights no Kiseki
 
+![super-doll-licca-chan-licca-chan-zettai-zetsumei-doll-knights-no-kiseki](https://cdn.myanimelist.net/images/anime/2/28134.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: スーパードール ★ リカちゃん リカちゃん絶体絶命! ドールナイツの奇跡
@@ -13,7 +15,6 @@
 -   action
 -   adventure
 -   super-power
-
 -   magic
 -   fantasy
 -   shoujo

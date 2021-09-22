@@ -1,5 +1,7 @@
 # Ginga no Uo Ursa Minor Blue
 
+![ginga-no-uo-ursa-minor-blue](https://cdn.myanimelist.net/images/anime/1174/92715.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 銀河の魚~URSA minor BLUE~

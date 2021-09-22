@@ -1,5 +1,7 @@
 # Hyper Love Power
 
+![hyper-love-power](https://cdn.myanimelist.net/images/manga/1/121563.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

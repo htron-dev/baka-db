@@ -1,5 +1,7 @@
 # Sabaki no Chi
 
+![sabaki-no-chi](https://cdn.myanimelist.net/images/manga/1/32293.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 密約の血　裁きの血

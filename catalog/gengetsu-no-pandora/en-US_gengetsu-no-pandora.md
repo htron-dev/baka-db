@@ -1,5 +1,7 @@
 # Gengetsu no Pandora
 
+![gengetsu-no-pandora](https://cdn.myanimelist.net/images/manga/2/167534.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 幻月のパンドオラ

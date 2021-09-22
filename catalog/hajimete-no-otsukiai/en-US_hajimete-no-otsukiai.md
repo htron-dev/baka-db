@@ -1,5 +1,7 @@
 # Hajimete no Otsukiai
 
+![hajimete-no-otsukiai](https://cdn.myanimelist.net/images/manga/1/243772.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

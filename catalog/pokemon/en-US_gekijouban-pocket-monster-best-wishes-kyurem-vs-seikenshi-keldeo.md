@@ -1,5 +1,7 @@
 # Gekijouban Pocket Monster Best Wishes: Kyurem vs Seikenshi Keldeo
 
+![gekijouban-pocket-monster-best-wishes-kyurem-vs-seikenshi-keldeo](https://cdn.myanimelist.net/images/manga/1/84595.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

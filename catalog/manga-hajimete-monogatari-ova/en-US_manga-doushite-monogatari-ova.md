@@ -1,5 +1,7 @@
 # Manga Doushite Monogatari OVA
 
+![manga-doushite-monogatari-ova](https://cdn.myanimelist.net/images/anime/11/72156.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: まんがどうして物語

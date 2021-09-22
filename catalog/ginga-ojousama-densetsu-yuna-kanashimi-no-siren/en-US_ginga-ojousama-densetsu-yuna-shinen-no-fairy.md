@@ -1,5 +1,7 @@
 # Ginga Ojousama Densetsu Yuna: Shin'en no Fairy
 
+![ginga-ojousama-densetsu-yuna-shinen-no-fairy](https://cdn.myanimelist.net/images/anime/1888/94333.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 銀河お嬢様伝説ユナ　～深闇のフェアリィ～

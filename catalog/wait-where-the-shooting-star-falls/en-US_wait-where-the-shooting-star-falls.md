@@ -1,5 +1,7 @@
 # Wait Where the Shooting Star Falls
 
+![wait-where-the-shooting-star-falls](https://cdn.myanimelist.net/images/manga/2/229056.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 별똥별이 떨어지는 그 곳에서 기다려
 -   **start-date**: 2018-08-25

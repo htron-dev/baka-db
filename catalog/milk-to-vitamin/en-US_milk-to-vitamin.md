@@ -1,5 +1,7 @@
 # Milk to Vitamin
 
+![milk-to-vitamin](https://cdn.myanimelist.net/images/manga/3/3843.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Saint Seiya: The Lost Canvas - Meiou Shinwa 2
 
+![saint-seiya-the-lost-canvas-meiou-shinwa-2](https://cdn.myanimelist.net/images/anime/12/29597.jpg)
+
 -   **type**: ova
 -   **episodes**: 13
 -   **original-name**: 聖闘士星矢 THE LOST CANVAS 冥王神話 2

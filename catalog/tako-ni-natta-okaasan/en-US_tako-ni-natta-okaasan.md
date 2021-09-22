@@ -1,5 +1,7 @@
 # Tako ni Natta Okaasan
 
+![tako-ni-natta-okaasan](https://cdn.myanimelist.net/images/anime/2/53851.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 凧になったお母さん

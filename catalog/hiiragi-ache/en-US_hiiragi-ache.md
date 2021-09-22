@@ -1,5 +1,7 @@
 # Hiiragi Ache
 
+![hiiragi-ache](https://cdn.myanimelist.net/images/manga/2/180049.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Shonan Junai Gumi!
 
+![shonan-junai-gumi](https://cdn.myanimelist.net/images/manga/2/216051.jpg)
+
 -   **type**: manga
 -   **volumes**: 31
 -   **chapters**: 267

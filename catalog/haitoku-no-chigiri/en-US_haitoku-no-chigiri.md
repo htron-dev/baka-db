@@ -1,5 +1,7 @@
 # Haitoku no Chigiri
 
+![haitoku-no-chigiri](https://cdn.myanimelist.net/images/manga/1/239582.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 背徳の契り

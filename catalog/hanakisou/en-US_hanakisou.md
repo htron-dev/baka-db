@@ -1,5 +1,7 @@
 # Hanakisou
 
+![hanakisou](https://cdn.myanimelist.net/images/manga/3/26760.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 7

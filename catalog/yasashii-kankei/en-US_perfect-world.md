@@ -1,5 +1,7 @@
 # Perfect World
 
+![perfect-world](https://cdn.myanimelist.net/images/manga/1/2678.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: パーフェクトワールド

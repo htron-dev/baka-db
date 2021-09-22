@@ -1,5 +1,7 @@
 # Robot King
 
+![robot-king](https://cdn.myanimelist.net/images/anime/8/44780.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 로보트킹

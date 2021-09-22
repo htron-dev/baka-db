@@ -1,5 +1,7 @@
 # Ghost School
 
+![ghost-school](https://cdn.myanimelist.net/images/manga/1/72925.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

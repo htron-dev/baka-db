@@ -1,5 +1,7 @@
 # Back Stage!!
 
+![back-stage](https://cdn.myanimelist.net/images/manga/2/139763.jpg)
+
 -   **type**: manga
 -   **original-name**: BACK STAGE!! -バック・ステイジ-
 -   **start-date**: 2014-09-30

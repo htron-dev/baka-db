@@ -1,5 +1,7 @@
 # Kisu Meguru Sekai
 
+![kisu-meguru-sekai](https://cdn.myanimelist.net/images/manga/1/37511.jpg)
+
 -   **type**: manga
 -   **original-name**: キスメグルセカイ
 -   **start-date**: 2010-10-12

@@ -1,5 +1,7 @@
 # Ghost Mecard Wangma
 
+![ghost-mecard-wangma](https://cdn.myanimelist.net/images/anime/1134/114453.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 8
 -   **original-name**: 요괴메카드 왕마

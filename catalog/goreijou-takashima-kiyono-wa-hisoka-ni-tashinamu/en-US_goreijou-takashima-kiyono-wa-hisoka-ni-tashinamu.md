@@ -1,5 +1,7 @@
 # Goreijou Takashima Kiyono wa Hisoka ni Tashinamu.
 
+![goreijou-takashima-kiyono-wa-hisoka-ni-tashinamu](https://cdn.myanimelist.net/images/manga/3/217699.jpg)
+
 -   **type**: manga
 -   **original-name**: 御令嬢高嶋清乃は密かに嗜む。
 -   **start-date**: 2018-04-26

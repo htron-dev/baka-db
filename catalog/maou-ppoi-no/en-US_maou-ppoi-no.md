@@ -1,5 +1,7 @@
 # Maou-ppoi no!
 
+![maou-ppoi-no](https://cdn.myanimelist.net/images/manga/3/171306.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 44

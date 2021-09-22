@@ -1,5 +1,7 @@
 # Boku wa Ashita, Kinou no Kimi to Date suru
 
+![boku-wa-ashita-kinou-no-kimi-to-date-suru](https://cdn.myanimelist.net/images/manga/3/189169.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

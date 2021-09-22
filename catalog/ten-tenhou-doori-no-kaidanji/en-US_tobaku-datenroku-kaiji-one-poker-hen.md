@@ -1,5 +1,7 @@
 # Tobaku Datenroku Kaiji: One Poker-hen
 
+![tobaku-datenroku-kaiji-one-poker-hen](https://cdn.myanimelist.net/images/manga/3/106039.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 154

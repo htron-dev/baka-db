@@ -1,5 +1,7 @@
 # Cine Mileage Card x Asa Da yo! Kaishain
 
+![cine-mileage-card-x-asa-da-yo-kaishain](https://cdn.myanimelist.net/images/anime/9/84227.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: シネマイレージカード × 朝だよ！貝社員

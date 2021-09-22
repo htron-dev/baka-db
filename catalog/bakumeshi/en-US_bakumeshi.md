@@ -1,5 +1,7 @@
 # Bakumeshi!
 
+![bakumeshi](https://cdn.myanimelist.net/images/manga/2/229402.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 55

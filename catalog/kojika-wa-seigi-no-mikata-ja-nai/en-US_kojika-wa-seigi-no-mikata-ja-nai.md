@@ -1,5 +1,7 @@
 # Kojika wa Seigi no Mikata ja Nai
 
+![kojika-wa-seigi-no-mikata-ja-nai](https://cdn.myanimelist.net/images/manga/1/171732.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

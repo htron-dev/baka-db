@@ -1,5 +1,7 @@
 # Haru no Ogawa wa Dokidoki Suru yo.
 
+![haru-no-ogawa-wa-dokidoki-suru-yo](https://cdn.myanimelist.net/images/manga/2/177357.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

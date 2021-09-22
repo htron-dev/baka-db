@@ -1,5 +1,7 @@
 # Sheep in the Island
 
+![sheep-in-the-island](https://cdn.myanimelist.net/images/anime/5/65743.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: Sheep in the Island

@@ -1,5 +1,7 @@
 # Omairi desu yo
 
+![omairi-desu-yo](https://cdn.myanimelist.net/images/manga/3/77891.jpg)
+
 -   **type**: manga
 -   **original-name**: お参りですよ
 -   **start-date**: 2011-08-20

@@ -1,5 +1,7 @@
 # Makumakuran Hakase no Kiken na Oyuugi
 
+![makumakuran-hakase-no-kiken-na-oyuugi](https://cdn.myanimelist.net/images/manga/3/169579.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

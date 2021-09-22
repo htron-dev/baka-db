@@ -1,5 +1,7 @@
 # Right Places: Sono Toki, Boku no Irubeki Basho
 
+![right-places-sono-toki-boku-no-irubeki-basho](https://cdn.myanimelist.net/images/anime/1637/98691.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: Right Places その時, ぼくの居るべき場所

@@ -1,5 +1,7 @@
 # Xin Shen Bang: Nezha Chonsheng
 
+![xin-shen-bang-nezha-chonsheng](https://cdn.myanimelist.net/images/anime/1401/110287.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 新神榜：哪吒重生

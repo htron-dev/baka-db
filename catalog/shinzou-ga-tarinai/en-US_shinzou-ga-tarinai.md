@@ -1,5 +1,7 @@
 # Shinzou ga Tarinai
 
+![shinzou-ga-tarinai](https://cdn.myanimelist.net/images/manga/2/79859.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 心臓が足りない

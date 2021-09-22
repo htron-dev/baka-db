@@ -1,5 +1,7 @@
 # Idol de Ikou!!
 
+![idol-de-ikou](https://cdn.myanimelist.net/images/manga/3/9999.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: アイドルでいこう!!

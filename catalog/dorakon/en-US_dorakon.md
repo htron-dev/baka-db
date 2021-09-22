@@ -1,5 +1,7 @@
 # Dorakon!
 
+![dorakon](https://cdn.myanimelist.net/images/manga/1/224727.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 34

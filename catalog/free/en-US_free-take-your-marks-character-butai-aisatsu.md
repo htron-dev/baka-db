@@ -1,5 +1,7 @@
 # Free!: Take Your Marks: Character Butai Aisatsu
 
+![free-take-your-marks-character-butai-aisatsu](https://cdn.myanimelist.net/images/anime/1131/92779.jpg)
+
 -   **type**: movie
 -   **episodes**: 4
 -   **original-name**: 特別版 Free!-Take Your Marks- キャラクター舞台挨拶

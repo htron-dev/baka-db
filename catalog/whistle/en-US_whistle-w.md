@@ -1,5 +1,7 @@
 # Whistle! W
 
+![whistle-w](https://cdn.myanimelist.net/images/manga/3/196134.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 49

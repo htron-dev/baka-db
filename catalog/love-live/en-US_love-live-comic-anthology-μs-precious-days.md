@@ -1,5 +1,7 @@
 # Love Live! Comic Anthology μ's Precious Days
 
+![love-live-comic-anthology-μs-precious-days](https://cdn.myanimelist.net/images/manga/3/235599.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

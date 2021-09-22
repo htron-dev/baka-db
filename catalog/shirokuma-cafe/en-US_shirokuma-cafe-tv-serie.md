@@ -1,5 +1,7 @@
 # Shirokuma Cafe
 
+![shirokuma-cafe](https://cdn.myanimelist.net/images/anime/6/75649.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: しろくまカフェ

@@ -1,5 +1,7 @@
 # Kochira Katsushikaku Kameari Kouenmae Hashutsujo: The Final - Ryoutsu Kakichi Saigo no Hi
 
+![kochira-katsushikaku-kameari-kouenmae-hashutsujo-the-final-ryoutsu-kakichi-saigo-no-hi](https://cdn.myanimelist.net/images/anime/4/80486.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: こちら葛飾区亀有公園前派出所～ THE FINAL 両津勘吉最後の日～

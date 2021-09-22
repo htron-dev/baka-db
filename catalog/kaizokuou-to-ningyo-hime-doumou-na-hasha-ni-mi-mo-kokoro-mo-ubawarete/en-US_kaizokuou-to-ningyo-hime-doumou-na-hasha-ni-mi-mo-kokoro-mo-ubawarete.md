@@ -1,5 +1,7 @@
 # Kaizokuou to Ningyo-hime: Doumou na Hasha ni Mi mo Kokoro mo Ubawarete
 
+![kaizokuou-to-ningyo-hime-doumou-na-hasha-ni-mi-mo-kokoro-mo-ubawarete](https://cdn.myanimelist.net/images/manga/1/173650.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 海賊王と人魚姫 獰猛な覇者に身も心も奪われて

@@ -1,5 +1,7 @@
 # B: Brahms 20-sai no Tabiji
 
+![b-brahms-20-sai-no-tabiji](https://cdn.myanimelist.net/images/manga/3/173799.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 44

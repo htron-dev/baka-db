@@ -1,5 +1,7 @@
 # Kingyo Chuuihou! (Movie)
 
+![kingyo-chuuihou-movie](https://cdn.myanimelist.net/images/anime/1920/104412.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: きんぎょ注意報！
@@ -10,7 +12,6 @@
 
 -   action
 -   comedy
-
 -   shoujo
 
 ## Sinopse

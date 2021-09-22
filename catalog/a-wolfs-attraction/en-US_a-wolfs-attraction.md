@@ -1,5 +1,7 @@
 # A Wolf's Attraction
 
+![a-wolfs-attraction](https://cdn.myanimelist.net/images/manga/2/7932.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 

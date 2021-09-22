@@ -1,5 +1,7 @@
 # Kunkun Girl
 
+![kunkun-girl](https://cdn.myanimelist.net/images/manga/1/198601.jpg)
+
 -   **type**: manga
 -   **original-name**: くんくんガール
 -   **start-date**: 2016-06-24

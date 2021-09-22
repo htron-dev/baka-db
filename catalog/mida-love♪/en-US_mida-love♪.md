@@ -1,5 +1,7 @@
 # Mida Love♪
 
+![mida-love♪](https://cdn.myanimelist.net/images/manga/3/189425.jpg)
+
 -   **type**: manga
 -   **original-name**: みだ LOVE♪
 -   **start-date**: 2016-05-27

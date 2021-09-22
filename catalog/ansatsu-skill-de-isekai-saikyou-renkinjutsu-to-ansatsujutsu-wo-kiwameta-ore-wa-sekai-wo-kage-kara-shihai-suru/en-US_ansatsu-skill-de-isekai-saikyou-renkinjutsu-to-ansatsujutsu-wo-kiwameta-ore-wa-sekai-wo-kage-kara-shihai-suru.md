@@ -1,5 +1,7 @@
 # Ansatsu Skill de Isekai Saikyou: Renkinjutsu to Ansatsujutsu wo Kiwameta Ore wa, Sekai wo Kage kara Shihai suru
 
+![ansatsu-skill-de-isekai-saikyou-renkinjutsu-to-ansatsujutsu-wo-kiwameta-ore-wa-sekai-wo-kage-kara-shihai-suru](https://cdn.myanimelist.net/images/manga/2/248427.jpg)
+
 -   **type**: manga
 -   **original-name**: 暗殺スキルで異世界最強　～錬金術と暗殺術を極めた俺は、世界を陰から支配する～
 -   **start-date**: 2020-12-02

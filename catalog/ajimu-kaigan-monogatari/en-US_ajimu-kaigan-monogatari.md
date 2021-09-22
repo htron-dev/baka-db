@@ -1,5 +1,7 @@
 # Ajimu: Kaigan Monogatari
 
+![ajimu-kaigan-monogatari](https://cdn.myanimelist.net/images/anime/12/10174.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: あじむ ～海岸物語～

@@ -1,5 +1,7 @@
 # Momoiro Taisen Pairon: Another Paradox
 
+![momoiro-taisen-pairon-another-paradox](https://cdn.myanimelist.net/images/manga/2/178445.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

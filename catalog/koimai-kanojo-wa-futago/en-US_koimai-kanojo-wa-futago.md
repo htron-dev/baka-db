@@ -1,5 +1,7 @@
 # Koimai: Kanojo wa Futago!
 
+![koimai-kanojo-wa-futago](https://cdn.myanimelist.net/images/manga/3/166632.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

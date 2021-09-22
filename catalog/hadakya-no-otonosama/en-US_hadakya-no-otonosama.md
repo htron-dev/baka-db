@@ -1,5 +1,7 @@
 # Hadakya no Otonosama
 
+![hadakya-no-otonosama](https://cdn.myanimelist.net/images/anime/2/49143.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: はだきゃのおとのさま

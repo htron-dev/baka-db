@@ -1,5 +1,7 @@
 # Sugar Sugar Rune
 
+![sugar-sugar-rune](https://cdn.myanimelist.net/images/anime/5/74728.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: シュガシュガルーン

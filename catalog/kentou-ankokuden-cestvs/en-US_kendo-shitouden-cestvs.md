@@ -1,5 +1,7 @@
 # Kendo Shitouden Cestvs
 
+![kendo-shitouden-cestvs](https://cdn.myanimelist.net/images/manga/1/83360.jpg)
+
 -   **type**: manga
 -   **original-name**: 拳奴死闘伝セスタス
 

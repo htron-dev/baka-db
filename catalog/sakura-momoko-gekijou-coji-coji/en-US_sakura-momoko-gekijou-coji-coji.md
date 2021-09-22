@@ -1,5 +1,7 @@
 # Sakura Momoko Gekijou: Coji-Coji
 
+![sakura-momoko-gekijou-coji-coji](https://cdn.myanimelist.net/images/anime/13/6922.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 100
 -   **original-name**: さくらももこ劇場 コジコジ

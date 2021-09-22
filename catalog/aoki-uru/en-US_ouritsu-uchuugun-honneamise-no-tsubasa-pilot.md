@@ -1,5 +1,7 @@
 # Ouritsu Uchuugun: Honneamise no Tsubasa Pilot
 
+![ouritsu-uchuugun-honneamise-no-tsubasa-pilot](https://cdn.myanimelist.net/images/anime/4/47345.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 王立宇宙軍 オネアミスの翼 パイロットフィルム

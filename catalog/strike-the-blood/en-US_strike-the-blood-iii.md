@@ -1,5 +1,7 @@
 # Strike the Blood III
 
+![strike-the-blood-iii](https://cdn.myanimelist.net/images/anime/1768/111676.jpg)
+
 -   **type**: ova
 -   **episodes**: 10
 -   **original-name**: ストライク・ザ・ブラッド Ⅲ

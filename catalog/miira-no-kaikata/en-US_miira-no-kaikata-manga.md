@@ -1,5 +1,7 @@
 # Miira no Kaikata
 
+![miira-no-kaikata](https://cdn.myanimelist.net/images/manga/1/178999.jpg)
+
 -   **type**: manga
 -   **original-name**: ミイラの飼い方
 -   **start-date**: 2014-11-02

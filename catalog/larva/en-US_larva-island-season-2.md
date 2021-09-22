@@ -1,5 +1,7 @@
 # Larva Island Season 2
 
+![larva-island-season-2](https://cdn.myanimelist.net/images/anime/1362/99515.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 라바 아일랜드 시즌2
@@ -18,4 +20,4 @@ The 2nd season of Larva Island. Chuck's life on the island turns for the worse w
 
 -   [My Anime list](https://myanimelist.net/anime/39431/Larva_Island_Season_2)
 -   [Official Site](http://tubaani.com)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Larva_(TV_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Larva_%28TV_series%29)

@@ -1,5 +1,7 @@
 # Gurazeni Season 2
 
+![gurazeni-season-2](https://cdn.myanimelist.net/images/anime/1496/95059.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: グラゼニ シーズン 2

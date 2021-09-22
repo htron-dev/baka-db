@@ -1,5 +1,7 @@
 # Osananajimi wa Do S Danshi!
 
+![osananajimi-wa-do-s-danshi](https://cdn.myanimelist.net/images/manga/2/171960.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

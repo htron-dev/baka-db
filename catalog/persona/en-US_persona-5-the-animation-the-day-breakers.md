@@ -1,5 +1,7 @@
 # Persona 5 the Animation: The Day Breakers
 
+![persona-5-the-animation-the-day-breakers](https://cdn.myanimelist.net/images/anime/13/81869.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: PERSONA5 the Animation -THE DAY BREAKERS-

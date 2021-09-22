@@ -1,5 +1,7 @@
 # Starship Operators
 
+![starship-operators](https://cdn.myanimelist.net/images/manga/3/171821.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **original-name**: スターシップ・オペレーターズ

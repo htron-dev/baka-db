@@ -1,5 +1,7 @@
 # Shin Ishu Kakutou Taisen
 
+![shin-ishu-kakutou-taisen](https://cdn.myanimelist.net/images/manga/2/223199.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 167

@@ -1,5 +1,7 @@
 # Chousoku Spinner
 
+![chousoku-spinner](https://cdn.myanimelist.net/images/anime/3/72797.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: 超速スピナー

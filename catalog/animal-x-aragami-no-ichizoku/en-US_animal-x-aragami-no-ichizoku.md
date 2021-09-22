@@ -1,5 +1,7 @@
 # Animal X: Aragami no Ichizoku
 
+![animal-x-aragami-no-ichizoku](https://cdn.myanimelist.net/images/manga/1/27663.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 13

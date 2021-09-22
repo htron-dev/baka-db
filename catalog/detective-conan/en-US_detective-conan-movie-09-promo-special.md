@@ -1,5 +1,7 @@
 # Detective Conan Movie 09: Promo Special
 
+![detective-conan-movie-09-promo-special](https://cdn.myanimelist.net/images/anime/6/25397.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン 水平線上の陰謀

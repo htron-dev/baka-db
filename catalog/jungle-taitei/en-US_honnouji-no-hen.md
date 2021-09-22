@@ -1,5 +1,7 @@
 # Honnouji no Hen
 
+![honnouji-no-hen](https://cdn.myanimelist.net/images/anime/1074/108395.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 本能寺の変

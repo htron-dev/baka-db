@@ -1,5 +1,7 @@
 # Koi\*Oto
 
+![koi-oto](https://cdn.myanimelist.net/images/manga/4/83971.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 20

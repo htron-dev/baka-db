@@ -1,5 +1,7 @@
 # Made in Hikkomuse
 
+![made-in-hikkomuse](https://cdn.myanimelist.net/images/manga/1/219931.jpg)
+
 -   **type**: manga
 -   **original-name**: メイド・イン・ひっこみゅ〜ず
 -   **start-date**: 2018-11-08

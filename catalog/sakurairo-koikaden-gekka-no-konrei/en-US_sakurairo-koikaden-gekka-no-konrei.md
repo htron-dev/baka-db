@@ -1,5 +1,7 @@
 # Sakurairo Koikaden: Gekka no Konrei
 
+![sakurairo-koikaden-gekka-no-konrei](https://cdn.myanimelist.net/images/manga/1/182390.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

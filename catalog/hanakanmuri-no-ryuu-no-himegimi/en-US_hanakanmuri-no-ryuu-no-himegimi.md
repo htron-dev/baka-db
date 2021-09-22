@@ -1,5 +1,7 @@
 # Hanakanmuri no Ryuu no Himegimi
 
+![hanakanmuri-no-ryuu-no-himegimi](https://cdn.myanimelist.net/images/manga/3/78239.jpg)
+
 -   **type**: manga
 -   **original-name**: 花冠の竜の姫君
 

@@ -1,5 +1,7 @@
 # Hagure Idol Jigoku-hen Gaiden: Princess Sarah
 
+![hagure-idol-jigoku-hen-gaiden-princess-sarah](https://cdn.myanimelist.net/images/manga/1/239303.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

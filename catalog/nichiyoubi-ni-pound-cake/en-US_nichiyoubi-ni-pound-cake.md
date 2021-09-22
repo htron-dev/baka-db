@@ -1,5 +1,7 @@
 # Nichiyoubi ni Pound Cake
 
+![nichiyoubi-ni-pound-cake](https://cdn.myanimelist.net/images/manga/1/221978.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

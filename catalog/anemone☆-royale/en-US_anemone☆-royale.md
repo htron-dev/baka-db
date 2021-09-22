@@ -1,5 +1,7 @@
 # Anemone☆Royale
 
+![anemone☆-royale](https://cdn.myanimelist.net/images/manga/3/116525.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: あねもね ☆ ろわいやる

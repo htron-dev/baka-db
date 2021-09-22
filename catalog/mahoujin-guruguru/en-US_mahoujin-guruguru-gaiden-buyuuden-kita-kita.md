@@ -1,5 +1,7 @@
 # Mahoujin Guruguru Gaiden: Buyuuden Kita Kita
 
+![mahoujin-guruguru-gaiden-buyuuden-kita-kita](https://cdn.myanimelist.net/images/manga/2/242479.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 49

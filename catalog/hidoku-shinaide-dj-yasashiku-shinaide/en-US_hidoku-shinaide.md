@@ -1,5 +1,7 @@
 # Hidoku Shinaide
 
+![hidoku-shinaide](https://cdn.myanimelist.net/images/manga/1/40680.jpg)
+
 -   **type**: manga
 -   **original-name**: 酷くしないで
 -   **start-date**: 2007-01-07

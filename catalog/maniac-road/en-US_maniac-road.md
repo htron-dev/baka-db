@@ -1,5 +1,7 @@
 # Maniac Road
 
+![maniac-road](https://cdn.myanimelist.net/images/manga/2/20411.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

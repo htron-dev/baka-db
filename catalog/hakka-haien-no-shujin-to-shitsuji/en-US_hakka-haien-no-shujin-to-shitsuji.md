@@ -1,5 +1,7 @@
 # Hakka Haien no Shujin to Shitsuji
 
+![hakka-haien-no-shujin-to-shitsuji](https://cdn.myanimelist.net/images/manga/2/14292.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

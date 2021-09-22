@@ -1,5 +1,7 @@
 # Maruta no Koi
 
+![maruta-no-koi](https://cdn.myanimelist.net/images/manga/1/250185.jpg)
+
 -   **type**: manga
 -   **original-name**: マルタの恋
 -   **start-date**: 2021-03-24

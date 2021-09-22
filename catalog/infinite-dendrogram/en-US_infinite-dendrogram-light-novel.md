@@ -1,5 +1,7 @@
 # Infinite Dendrogram
 
+![infinite-dendrogram](https://cdn.myanimelist.net/images/manga/2/185283.jpg)
+
 -   **type**: light-novel
 -   **original-name**: <Infinite Dendrogram>-インフィニット・デンドログラム-
 -   **start-date**: 2016-11-01

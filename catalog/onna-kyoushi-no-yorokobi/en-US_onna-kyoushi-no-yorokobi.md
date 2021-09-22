@@ -1,5 +1,7 @@
 # Onna Kyoushi no Yorokobi
 
+![onna-kyoushi-no-yorokobi](https://cdn.myanimelist.net/images/manga/1/35543.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 女教師の悦び
@@ -14,8 +16,6 @@
 
 -   Asada
 -   Okina (Story & Art)
-
-## Sinopse
 
 ## Links
 

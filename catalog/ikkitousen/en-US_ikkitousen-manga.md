@@ -1,5 +1,7 @@
 # Ikkitousen
 
+![ikkitousen](https://cdn.myanimelist.net/images/manga/1/180440.jpg)
+
 -   **type**: manga
 -   **volumes**: 24
 -   **chapters**: 187

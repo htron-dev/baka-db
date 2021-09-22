@@ -1,5 +1,7 @@
 # MiniGARO
 
+![mini-garo](https://cdn.myanimelist.net/images/anime/7/83547.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: miniGARO

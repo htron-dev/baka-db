@@ -1,5 +1,7 @@
 # Vivy: Fluorite Eye's Song
 
+![vivy-fluorite-eyes-song](https://cdn.myanimelist.net/images/anime/1637/115052.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: Vivy -Fluorite Eye's Song- (ヴィヴィ -フローライトアイズソング-)

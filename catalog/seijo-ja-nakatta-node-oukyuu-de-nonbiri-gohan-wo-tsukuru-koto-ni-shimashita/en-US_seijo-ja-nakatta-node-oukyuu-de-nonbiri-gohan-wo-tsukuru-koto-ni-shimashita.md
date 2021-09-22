@@ -1,5 +1,7 @@
 # Seijo ja Nakatta node, Oukyuu de Nonbiri Gohan wo Tsukuru Koto ni Shimashita
 
+![seijo-ja-nakatta-node-oukyuu-de-nonbiri-gohan-wo-tsukuru-koto-ni-shimashita](https://cdn.myanimelist.net/images/manga/2/239131.jpg)
+
 -   **type**: manga
 -   **original-name**: 聖女じゃなかったので、王宮でのんびりご飯を作ることにしました
 -   **start-date**: 2019-12-06

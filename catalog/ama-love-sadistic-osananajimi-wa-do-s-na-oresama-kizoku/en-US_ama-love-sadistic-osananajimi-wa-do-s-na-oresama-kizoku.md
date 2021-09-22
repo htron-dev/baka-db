@@ -1,5 +1,7 @@
 # Ama Love Sadistic: Osananajimi wa Do S na Oresama Kizoku
 
+![ama-love-sadistic-osananajimi-wa-do-s-na-oresama-kizoku](https://cdn.myanimelist.net/images/manga/3/183009.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

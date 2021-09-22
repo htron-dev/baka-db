@@ -1,5 +1,7 @@
 # Yasuke
 
+![yasuke](https://cdn.myanimelist.net/images/anime/1684/114647.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: YASUKE －ヤスケ－
@@ -25,4 +27,4 @@ A village in danger, a mysterious child, warring daimyo, and the greatest ronin 
 -   [My Anime list](https://myanimelist.net/anime/43697/Yasuke)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14482)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=24121)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Yasuke_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Yasuke_%28anime%29)

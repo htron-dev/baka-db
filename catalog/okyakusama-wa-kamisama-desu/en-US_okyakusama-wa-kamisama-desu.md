@@ -1,5 +1,7 @@
 # Okyakusama wa Kamisama desu.
 
+![okyakusama-wa-kamisama-desu](https://cdn.myanimelist.net/images/manga/1/169301.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

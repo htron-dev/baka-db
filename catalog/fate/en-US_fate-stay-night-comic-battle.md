@@ -1,5 +1,7 @@
 # Fate/stay night: Comic Battle
 
+![fate-stay-night-comic-battle](https://cdn.myanimelist.net/images/manga/3/113145.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Monochrome Myst
 
+![monochrome-myst](https://cdn.myanimelist.net/images/manga/2/80657.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

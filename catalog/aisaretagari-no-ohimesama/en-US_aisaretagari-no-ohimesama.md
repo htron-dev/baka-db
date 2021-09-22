@@ -1,5 +1,7 @@
 # Aisaretagari no Ohimesama
 
+![aisaretagari-no-ohimesama](https://cdn.myanimelist.net/images/manga/2/199426.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 愛されたがりのお姫様

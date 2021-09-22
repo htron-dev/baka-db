@@ -1,5 +1,7 @@
 # Sh@pple
 
+![sh-pple](https://cdn.myanimelist.net/images/manga/2/162466.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **chapters**: 66

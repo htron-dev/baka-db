@@ -1,5 +1,7 @@
 # Nurarihyon no Mago OVA
 
+![nurarihyon-no-mago-ova](https://cdn.myanimelist.net/images/anime/2/44574.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ぬらりひょんの孫

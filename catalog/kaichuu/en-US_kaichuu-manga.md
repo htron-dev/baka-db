@@ -1,5 +1,7 @@
 # Kaichuu!
 
+![kaichuu](https://cdn.myanimelist.net/images/manga/2/53927.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: カイチュー!

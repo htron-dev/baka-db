@@ -1,5 +1,7 @@
 # Kimi to Itadakimasu
 
+![kimi-to-itadakimasu](https://cdn.myanimelist.net/images/manga/1/240056.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

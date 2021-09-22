@@ -1,5 +1,7 @@
 # Otome no Kishidou: Romantic na Tamanokoshi
 
+![otome-no-kishidou-romantic-na-tamanokoshi](https://cdn.myanimelist.net/images/manga/1/193398.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Scene
 
+![scene](https://cdn.myanimelist.net/images/manga/2/70111.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 武富智短編集

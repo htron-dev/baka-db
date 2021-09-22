@@ -1,5 +1,7 @@
 # First Kiss Monogatari
 
+![first-kiss-monogatari](https://cdn.myanimelist.net/images/anime/1937/113697.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ファーストＫｉｓｓ ☆ 物語

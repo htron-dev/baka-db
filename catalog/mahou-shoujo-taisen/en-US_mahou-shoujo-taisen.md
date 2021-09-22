@@ -1,5 +1,7 @@
 # Mahou Shoujo Taisen
 
+![mahou-shoujo-taisen](https://cdn.myanimelist.net/images/anime/10/62221.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 魔法少女大戦

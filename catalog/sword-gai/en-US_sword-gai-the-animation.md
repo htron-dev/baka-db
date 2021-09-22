@@ -1,5 +1,7 @@
 # Sword Gai The Animation
 
+![sword-gai-the-animation](https://cdn.myanimelist.net/images/anime/7/89759.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: ソードガイ The Animation

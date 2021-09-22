@@ -1,5 +1,7 @@
 # Fukigen na Rosette
 
+![fukigen-na-rosette](https://cdn.myanimelist.net/images/manga/3/174633.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Boku ni Hana no Melancholy
 
+![boku-ni-hana-no-melancholy](https://cdn.myanimelist.net/images/manga/3/175323.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 90

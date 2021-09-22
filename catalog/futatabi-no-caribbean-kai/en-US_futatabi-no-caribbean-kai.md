@@ -1,5 +1,7 @@
 # Futatabi no Caribbean-kai
 
+![futatabi-no-caribbean-kai](https://cdn.myanimelist.net/images/manga/1/229453.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ふたたびのカリブ海

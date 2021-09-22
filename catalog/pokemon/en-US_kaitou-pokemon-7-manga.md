@@ -1,5 +1,7 @@
 # Kaitou! Pokémon 7
 
+![kaitou-pokemon-7](https://cdn.myanimelist.net/images/manga/2/14450.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

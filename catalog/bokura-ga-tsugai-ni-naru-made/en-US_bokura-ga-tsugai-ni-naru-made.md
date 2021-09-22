@@ -1,5 +1,7 @@
 # Bokura ga Tsugai ni Naru made
 
+![bokura-ga-tsugai-ni-naru-made](https://cdn.myanimelist.net/images/manga/1/224898.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

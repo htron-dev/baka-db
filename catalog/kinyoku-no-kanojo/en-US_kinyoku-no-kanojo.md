@@ -1,5 +1,7 @@
 # Kinyoku no Kanojo
 
+![kinyoku-no-kanojo](https://cdn.myanimelist.net/images/manga/2/239904.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 26

@@ -1,5 +1,7 @@
 # Taishou Alice: Koushakuke Kyoudai no Soudatsuai
 
+![taishou-alice-koushakuke-kyoudai-no-soudatsuai](https://cdn.myanimelist.net/images/manga/2/193954.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

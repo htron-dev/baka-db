@@ -1,5 +1,7 @@
 # Sheikh no Karei naru Kyuukon
 
+![sheikh-no-karei-naru-kyuukon](https://cdn.myanimelist.net/images/manga/1/184685.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Ubatte, Daite.
 
+![ubatte-daite](https://cdn.myanimelist.net/images/manga/3/86215.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

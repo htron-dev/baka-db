@@ -1,5 +1,7 @@
 # Digimon Adventure tri. 6: Bokura no Mirai
 
+![digimon-adventure-tri-6-bokura-no-mirai](https://cdn.myanimelist.net/images/anime/10/88936.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: デジモンアドベンチャー tri.（トライ）第６章「ぼくらの未来」

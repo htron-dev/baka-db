@@ -1,5 +1,7 @@
 # Asatte no Houkou.
 
+![asatte-no-houkou](https://cdn.myanimelist.net/images/anime/4/74962.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: あさっての方向。

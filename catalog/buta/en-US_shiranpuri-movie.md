@@ -1,5 +1,7 @@
 # Shiranpuri (Movie)
 
+![shiranpuri-movie](https://cdn.myanimelist.net/images/anime/4/50407.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: しらんぷり

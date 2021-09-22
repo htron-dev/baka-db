@@ -1,5 +1,7 @@
 # Hakahori Ou to Migawari Chouhi
 
+![hakahori-ou-to-migawari-chouhi](https://cdn.myanimelist.net/images/manga/1/164529.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 墓掘り王と身代わり寵妃

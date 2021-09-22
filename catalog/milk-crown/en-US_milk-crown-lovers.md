@@ -1,5 +1,7 @@
 # Milk Crown Lovers
 
+![milk-crown-lovers](https://cdn.myanimelist.net/images/manga/2/4361.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ミルククラウン・Lovers

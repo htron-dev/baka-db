@@ -1,5 +1,7 @@
 # Kyou no 5 no 2
 
+![kyou-no-5-no-2](https://cdn.myanimelist.net/images/anime/6/42631.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 今日の５の２

@@ -1,5 +1,7 @@
 # Kareshi no Neko ga Kawaikunai!
 
+![kareshi-no-neko-ga-kawaikunai](https://cdn.myanimelist.net/images/manga/2/227010.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

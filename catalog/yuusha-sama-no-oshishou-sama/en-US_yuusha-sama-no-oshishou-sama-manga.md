@@ -1,5 +1,7 @@
 # Yuusha-sama no Oshishou-sama
 
+![yuusha-sama-no-oshishou-sama](https://cdn.myanimelist.net/images/manga/1/235767.jpg)
+
 -   **type**: manga
 -   **original-name**: 勇者様のお師匠様
 -   **start-date**: 2019-07-09

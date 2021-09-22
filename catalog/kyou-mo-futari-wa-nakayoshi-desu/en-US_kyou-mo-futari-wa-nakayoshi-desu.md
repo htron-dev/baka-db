@@ -1,5 +1,7 @@
 # Kyou mo Futari wa Nakayoshi desu.
 
+![kyou-mo-futari-wa-nakayoshi-desu](https://cdn.myanimelist.net/images/manga/3/152096.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

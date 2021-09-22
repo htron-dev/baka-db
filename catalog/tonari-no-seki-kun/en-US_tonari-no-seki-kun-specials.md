@@ -1,5 +1,7 @@
 # Tonari no Seki-kun Specials
 
+![tonari-no-seki-kun-specials](https://cdn.myanimelist.net/images/anime/8/62961.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: となりの関くん

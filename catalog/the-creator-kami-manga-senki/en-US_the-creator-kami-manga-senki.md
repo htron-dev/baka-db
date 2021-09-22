@@ -1,5 +1,7 @@
 # The Creator: Kami Manga Senki
 
+![the-creator-kami-manga-senki](https://cdn.myanimelist.net/images/manga/1/160058.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

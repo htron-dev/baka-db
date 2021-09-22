@@ -1,5 +1,7 @@
 # Amai Oshioki wo Kimi ni
 
+![amai-oshioki-wo-kimi-ni](https://cdn.myanimelist.net/images/manga/1/184799.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 1

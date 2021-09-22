@@ -1,5 +1,7 @@
 # Planet Guardian
 
+![planet-guardian](https://cdn.myanimelist.net/images/manga/1/174634.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

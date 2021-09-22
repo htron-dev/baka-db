@@ -1,5 +1,7 @@
 # Passport Blue
 
+![passport-blue](https://cdn.myanimelist.net/images/manga/3/205427.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 110

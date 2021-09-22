@@ -1,5 +1,7 @@
 # Kouya no Tenshidomo
 
+![kouya-no-tenshidomo](https://cdn.myanimelist.net/images/manga/5/176267.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

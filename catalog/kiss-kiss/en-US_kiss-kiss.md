@@ -1,5 +1,7 @@
 # Kiss Kiss
 
+![kiss-kiss](https://cdn.myanimelist.net/images/manga/1/7802.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: キス・キス

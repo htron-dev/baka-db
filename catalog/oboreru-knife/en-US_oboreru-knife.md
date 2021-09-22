@@ -1,5 +1,7 @@
 # Oboreru Knife
 
+![oboreru-knife](https://cdn.myanimelist.net/images/manga/1/196138.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 64

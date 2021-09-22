@@ -1,5 +1,7 @@
 # Miira no Yume
 
+![miira-no-yume](https://cdn.myanimelist.net/images/anime/3/75690.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ミイラの夢

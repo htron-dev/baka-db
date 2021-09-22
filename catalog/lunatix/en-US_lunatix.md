@@ -1,5 +1,7 @@
 # Lunatix
 
+![lunatix](https://cdn.myanimelist.net/images/manga/3/31933.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

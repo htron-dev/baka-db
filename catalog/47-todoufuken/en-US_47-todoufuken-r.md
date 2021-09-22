@@ -1,5 +1,7 @@
 # 47 Todoufuken R
 
+![47-todoufuken-r](https://cdn.myanimelist.net/images/anime/9/59935.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 47 都道府犬 R

@@ -1,5 +1,7 @@
 # Torokeru~Ju♥
 
+![torokeru-ju♥](https://cdn.myanimelist.net/images/manga/1/23133.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: とろける~じゅ ♥

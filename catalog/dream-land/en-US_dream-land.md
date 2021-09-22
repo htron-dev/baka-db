@@ -1,5 +1,7 @@
 # Dream Land
 
+![dream-land](https://cdn.myanimelist.net/images/manga/2/237889.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

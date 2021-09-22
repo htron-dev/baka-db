@@ -1,5 +1,7 @@
 # Kurogane
 
+![kurogane](https://cdn.myanimelist.net/images/manga/1/197920.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 38

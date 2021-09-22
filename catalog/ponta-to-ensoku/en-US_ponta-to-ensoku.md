@@ -1,5 +1,7 @@
 # Ponta to Ensoku
 
+![ponta-to-ensoku](https://cdn.myanimelist.net/images/anime/7/36769.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ポンタと遠足

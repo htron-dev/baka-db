@@ -1,5 +1,7 @@
 # Ultra B: Black Hole kara no Dokusaisha BB!!
 
+![ultra-b-black-hole-kara-no-dokusaisha-bb](https://cdn.myanimelist.net/images/anime/12/28228.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ウルトラ B ブラックホールからの独裁者 B・B

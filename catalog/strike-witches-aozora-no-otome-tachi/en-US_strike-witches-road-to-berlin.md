@@ -1,5 +1,7 @@
 # Strike Witches: Road to Berlin
 
+![strike-witches-road-to-berlin](https://cdn.myanimelist.net/images/anime/1197/108577.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 第 501 統合戦闘航空団 ストライクウィッチーズ ROAD to BERLIN

@@ -1,5 +1,7 @@
 # Kimi no Himitsu
 
+![kimi-no-himitsu](https://cdn.myanimelist.net/images/manga/2/77219.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: キミのヒミツ

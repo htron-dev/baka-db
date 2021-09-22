@@ -1,5 +1,7 @@
 # Mangetsu no Jinrou to Hangetsu no Vampire
 
+![mangetsu-no-jinrou-to-hangetsu-no-vampire](https://cdn.myanimelist.net/images/manga/1/164075.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

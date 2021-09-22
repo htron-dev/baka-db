@@ -1,5 +1,7 @@
 # Fukinoshita-san wa Se ga Chiisai
 
+![fukinoshita-san-wa-se-ga-chiisai](https://cdn.myanimelist.net/images/manga/2/238778.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

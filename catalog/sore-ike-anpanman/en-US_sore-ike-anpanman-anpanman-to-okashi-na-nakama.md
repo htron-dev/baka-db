@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Anpanman to Okashi na Nakama
 
+![sore-ike-anpanman-anpanman-to-okashi-na-nakama](https://cdn.myanimelist.net/images/anime/7/57673.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ!アンパンマン アンパンマンとおかしな仲間

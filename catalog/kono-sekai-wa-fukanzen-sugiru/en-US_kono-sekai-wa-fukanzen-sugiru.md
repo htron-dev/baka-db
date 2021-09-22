@@ -1,5 +1,7 @@
 # Kono Sekai wa Fukanzen Sugiru
 
+![kono-sekai-wa-fukanzen-sugiru](https://cdn.myanimelist.net/images/manga/3/235528.jpg)
+
 -   **type**: manga
 -   **original-name**: この世界は不完全すぎる
 -   **start-date**: 2020-05-30

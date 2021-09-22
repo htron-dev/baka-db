@@ -1,5 +1,7 @@
 # Doraemon Movie: Boku, Momotarou no Nanna no Sa
 
+![doraemon-movie-boku-momotarou-no-nanna-no-sa](https://cdn.myanimelist.net/images/anime/6/72407.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん ぼく、桃太郎のなんなのさ
@@ -10,7 +12,6 @@
 
 -   adventure
 -   fantasy
-
 -   sci-fi
 -   shounen
 

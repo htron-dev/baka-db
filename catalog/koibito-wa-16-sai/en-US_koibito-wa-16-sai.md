@@ -1,5 +1,7 @@
 # Koibito wa 16-sai
 
+![koibito-wa-16-sai](https://cdn.myanimelist.net/images/manga/3/66161.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

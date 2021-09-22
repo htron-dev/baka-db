@@ -1,5 +1,7 @@
 # Buriki no Kanzume
 
+![buriki-no-kanzume](https://cdn.myanimelist.net/images/manga/3/10841.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

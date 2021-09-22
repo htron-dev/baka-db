@@ -1,5 +1,7 @@
 # Mayonaka no Oyatsu
 
+![mayonaka-no-oyatsu](https://cdn.myanimelist.net/images/manga/3/107683.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

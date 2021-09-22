@@ -1,5 +1,7 @@
 # Sono Otoko, Wagamama Nitsuki Infinity
 
+![sono-otoko-wagamama-nitsuki-infinity](https://cdn.myanimelist.net/images/manga/1/10279.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: その男、ワガママにつき ∞

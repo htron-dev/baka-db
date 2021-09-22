@@ -1,5 +1,7 @@
 # Devily-man
 
+![devily-man](https://cdn.myanimelist.net/images/manga/3/163930.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

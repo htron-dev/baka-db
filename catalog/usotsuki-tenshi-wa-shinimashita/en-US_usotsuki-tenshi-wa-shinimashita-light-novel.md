@@ -1,5 +1,7 @@
 # Usotsuki Tenshi wa Shinimashita!
 
+![usotsuki-tenshi-wa-shinimashita](https://cdn.myanimelist.net/images/manga/3/98279.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 33

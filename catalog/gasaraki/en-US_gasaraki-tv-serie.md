@@ -1,5 +1,7 @@
 # Gasaraki
 
+![gasaraki](https://cdn.myanimelist.net/images/anime/1790/91070.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ガサラキ

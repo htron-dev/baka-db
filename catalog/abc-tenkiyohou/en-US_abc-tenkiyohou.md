@@ -1,5 +1,7 @@
 # ABC Tenkiyohou
 
+![abc-tenkiyohou](https://cdn.myanimelist.net/images/anime/1757/113786.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ABC 天気予報

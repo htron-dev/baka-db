@@ -1,5 +1,7 @@
 # Dan-dara
 
+![dan-dara](https://cdn.myanimelist.net/images/manga/3/45306.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ダンダラ

@@ -1,5 +1,7 @@
 # Shisha no Gakuensai
 
+![shisha-no-gakuensai](https://cdn.myanimelist.net/images/manga/4/149360.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

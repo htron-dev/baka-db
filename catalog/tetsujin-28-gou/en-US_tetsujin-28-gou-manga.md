@@ -1,5 +1,7 @@
 # Tetsujin 28-gou
 
+![tetsujin-28-gou](https://cdn.myanimelist.net/images/manga/3/84541.jpg)
+
 -   **type**: manga
 -   **volumes**: 24
 -   **chapters**: 307

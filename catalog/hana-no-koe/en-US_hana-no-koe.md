@@ -1,5 +1,7 @@
 # Hana no Koe
 
+![hana-no-koe](https://cdn.myanimelist.net/images/manga/2/30995.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

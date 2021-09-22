@@ -1,5 +1,7 @@
 # Toshokan no Aruji
 
+![toshokan-no-aruji](https://cdn.myanimelist.net/images/manga/2/167480.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 124

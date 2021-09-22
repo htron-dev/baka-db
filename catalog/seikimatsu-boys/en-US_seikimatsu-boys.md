@@ -1,5 +1,7 @@
 # Seikimatsu Boys
 
+![seikimatsu-boys](https://cdn.myanimelist.net/images/manga/3/13602.jpg)
+
 -   **type**: manga
 -   **original-name**: 世紀末 ☆BOY'S
 

@@ -1,5 +1,7 @@
 # Arabian Majin Boukentan Lamp Lamp
 
+![arabian-majin-boukentan-lamp-lamp](https://cdn.myanimelist.net/images/manga/2/76211.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

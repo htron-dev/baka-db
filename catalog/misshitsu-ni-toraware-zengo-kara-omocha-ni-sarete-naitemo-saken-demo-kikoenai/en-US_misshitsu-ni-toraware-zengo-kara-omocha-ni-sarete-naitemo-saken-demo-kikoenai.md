@@ -1,5 +1,7 @@
 # Misshitsu ni Toraware, Zengo kara Omocha ni Sarete: Naitemo Saken demo Kikoenai
 
+![misshitsu-ni-toraware-zengo-kara-omocha-ni-sarete-naitemo-saken-demo-kikoenai](https://cdn.myanimelist.net/images/manga/1/194628.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 密室に囚われ、前後からオモチャにされて ―泣いても叫んでも聞こえない―

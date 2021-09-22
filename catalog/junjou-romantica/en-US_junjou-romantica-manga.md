@@ -1,5 +1,7 @@
 # Junjou Romantica
 
+![junjou-romantica](https://cdn.myanimelist.net/images/manga/5/206960.jpg)
+
 -   **type**: manga
 -   **original-name**: 純情ロマンチカ
 -   **start-date**: 2002-04-30

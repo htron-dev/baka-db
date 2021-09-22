@@ -1,5 +1,7 @@
 # Jisatsu Circle
 
+![jisatsu-circle](https://cdn.myanimelist.net/images/manga/2/128469.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Suki ni Nattara 10 made Kazoero
 
+![suki-ni-nattara-10-made-kazoero](https://cdn.myanimelist.net/images/manga/2/157034.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

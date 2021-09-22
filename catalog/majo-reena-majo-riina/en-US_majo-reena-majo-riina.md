@@ -1,5 +1,7 @@
 # Majo Reena Majo Riina
 
+![majo-reena-majo-riina](https://cdn.myanimelist.net/images/manga/3/70621.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 魔女レーナマジョり～な

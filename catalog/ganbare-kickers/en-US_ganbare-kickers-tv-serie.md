@@ -1,5 +1,7 @@
 # Ganbare! Kickers
 
+![ganbare-kickers](https://cdn.myanimelist.net/images/anime/1322/90364.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 23
 -   **original-name**: がんばれ！キッカーズ
@@ -13,7 +15,6 @@
 
 -   comedy
 -   sports
-
 -   drama
 
 ## Sinopse

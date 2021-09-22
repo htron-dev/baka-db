@@ -1,5 +1,7 @@
 # Ranma ½: Nettou Uta Gassen
 
+![ranma-nettou-uta-gassen](https://cdn.myanimelist.net/images/anime/2/15423.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: らんま１／２　熱闘歌合戦

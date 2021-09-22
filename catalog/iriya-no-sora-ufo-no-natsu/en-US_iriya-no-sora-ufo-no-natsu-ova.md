@@ -1,5 +1,7 @@
 # Iriya no Sora, UFO no Natsu
 
+![iriya-no-sora-ufo-no-natsu](https://cdn.myanimelist.net/images/anime/1108/94990.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: イリヤの空、UFO の夏

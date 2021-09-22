@@ -1,5 +1,7 @@
 # Akujikiou
 
+![akujikiou](https://cdn.myanimelist.net/images/manga/3/206415.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

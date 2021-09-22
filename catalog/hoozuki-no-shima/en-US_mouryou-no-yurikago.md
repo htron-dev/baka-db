@@ -1,5 +1,7 @@
 # Mouryou no Yurikago
 
+![mouryou-no-yurikago](https://cdn.myanimelist.net/images/manga/2/179505.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 41

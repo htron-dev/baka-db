@@ -1,5 +1,7 @@
 # That's Hanakappa Musical: Pan to Gohan, Docchi nano!?
 
+![thats-hanakappa-musical-pan-to-gohan-docchi-nano](https://cdn.myanimelist.net/images/anime/3/73439.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ザッツ・はなかっぱミュージカル パンとごはん、どっちなの!?

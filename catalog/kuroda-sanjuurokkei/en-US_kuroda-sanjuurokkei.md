@@ -1,5 +1,7 @@
 # Kuroda Sanjuurokkei
 
+![kuroda-sanjuurokkei](https://cdn.myanimelist.net/images/manga/1/240848.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 53

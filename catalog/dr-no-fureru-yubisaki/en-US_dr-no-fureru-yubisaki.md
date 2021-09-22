@@ -1,5 +1,7 @@
 # Dr. no Fureru Yubisaki
 
+![dr-no-fureru-yubisaki](https://cdn.myanimelist.net/images/manga/1/52379.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Dr.の触れる指先

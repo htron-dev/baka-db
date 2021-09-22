@@ -1,5 +1,7 @@
 # Beriaru-sama wa Shitennou no Naka demo xx
 
+![beriaru-sama-wa-shitennou-no-naka-demo-xx](https://cdn.myanimelist.net/images/manga/3/221745.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

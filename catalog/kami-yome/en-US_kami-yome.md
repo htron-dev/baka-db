@@ -1,5 +1,7 @@
 # Kami Yome
 
+![kami-yome](https://cdn.myanimelist.net/images/manga/3/150845.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

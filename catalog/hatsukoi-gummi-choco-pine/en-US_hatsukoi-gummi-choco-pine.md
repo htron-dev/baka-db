@@ -1,5 +1,7 @@
 # Hatsukoi Gummi Choco Pine
 
+![hatsukoi-gummi-choco-pine](https://cdn.myanimelist.net/images/manga/3/193698.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

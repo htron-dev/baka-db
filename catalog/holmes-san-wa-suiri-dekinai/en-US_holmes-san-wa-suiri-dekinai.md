@@ -1,5 +1,7 @@
 # Holmes-san wa Suiri Dekinai
 
+![holmes-san-wa-suiri-dekinai](https://cdn.myanimelist.net/images/manga/1/197325.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

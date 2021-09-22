@@ -1,5 +1,7 @@
 # Itsudatte My Santa!
 
+![itsudatte-my-santa](https://cdn.myanimelist.net/images/anime/11/2902.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: いつだって My サンタ！

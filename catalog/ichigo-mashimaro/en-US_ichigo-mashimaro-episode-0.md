@@ -1,5 +1,7 @@
 # Ichigo Mashimaro Episode 0
 
+![ichigo-mashimaro-episode-0](https://cdn.myanimelist.net/images/anime/10/19666.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 苺ましまろ

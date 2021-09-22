@@ -1,5 +1,7 @@
 # Kero Kero Keroppi no Sanjuushi
 
+![kero-kero-keroppi-no-sanjuushi](https://cdn.myanimelist.net/images/anime/13/58989.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: けろけろけろっぴの三銃士

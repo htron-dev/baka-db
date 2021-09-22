@@ -1,5 +1,7 @@
 # Re:Petit kara Hajimeru Isekai Seikatsu
 
+![re-petit-kara-hajimeru-isekai-seikatsu](https://cdn.myanimelist.net/images/anime/8/81281.jpg)
+
 -   **type**: special
 -   **episodes**: 14
 -   **original-name**: Re:プチから始める異世界生活

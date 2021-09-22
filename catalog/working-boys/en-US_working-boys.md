@@ -1,5 +1,7 @@
 # Working Boys
 
+![working-boys](https://cdn.myanimelist.net/images/anime/1100/90646.jpg)
+
 -   **type**: special
 -   **original-name**: ワーキング・ボーシーズ
 -   **start-date**: 2018-02-15

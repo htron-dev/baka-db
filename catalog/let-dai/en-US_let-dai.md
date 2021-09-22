@@ -1,5 +1,7 @@
 # Let Dai
 
+![let-dai](https://cdn.myanimelist.net/images/manga/3/30133.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 15
 -   **chapters**: 75

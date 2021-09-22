@@ -1,5 +1,7 @@
 # Detective Conan vs. Wooo
 
+![detective-conan-vs-wooo](https://cdn.myanimelist.net/images/anime/7/29671.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 名探偵コナン vs Wooo

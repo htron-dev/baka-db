@@ -1,5 +1,7 @@
 # Saku Hana
 
+![saku-hana](https://cdn.myanimelist.net/images/manga/1/38420.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 咲く華

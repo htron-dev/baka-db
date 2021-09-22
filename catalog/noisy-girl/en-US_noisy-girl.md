@@ -1,5 +1,7 @@
 # Noisy Girl
 
+![noisy-girl](https://cdn.myanimelist.net/images/manga/1/27041.jpg)
+
 -   **type**: manga
 -   **original-name**: ノイジィ・ガール
 -   **start-date**: 2008-07-26

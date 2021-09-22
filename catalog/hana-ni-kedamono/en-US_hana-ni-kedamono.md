@@ -1,5 +1,7 @@
 # Hana ni Kedamono
 
+![hana-ni-kedamono](https://cdn.myanimelist.net/images/manga/3/39706.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 53

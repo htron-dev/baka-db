@@ -1,5 +1,7 @@
 # Sono Rettou Kishi, Level 999
 
+![sono-rettou-kishi-level-999](https://cdn.myanimelist.net/images/manga/1/244134.jpg)
+
 -   **type**: light-novel
 -   **original-name**: その劣等騎士、レベル 999
 -   **start-date**: 2019-03-15

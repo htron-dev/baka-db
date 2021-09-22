@@ -1,5 +1,7 @@
 # Hitsuji wo Kazoete Dokomademo
 
+![hitsuji-wo-kazoete-dokomademo](https://cdn.myanimelist.net/images/manga/2/12268.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

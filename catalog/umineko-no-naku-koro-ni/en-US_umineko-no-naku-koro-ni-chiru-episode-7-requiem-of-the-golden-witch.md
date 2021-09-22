@@ -1,5 +1,7 @@
 # Umineko no Naku Koro ni Chiru - Episode 7: Requiem of the Golden Witch
 
+![umineko-no-naku-koro-ni-chiru-episode-7-requiem-of-the-golden-witch](https://cdn.myanimelist.net/images/manga/2/151990.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 48

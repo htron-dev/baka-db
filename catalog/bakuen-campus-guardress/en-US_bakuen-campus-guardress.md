@@ -1,5 +1,7 @@
 # Bakuen Campus Guardress
 
+![bakuen-campus-guardress](https://cdn.myanimelist.net/images/anime/1087/93010.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 爆炎 CAMPUS ガードレス

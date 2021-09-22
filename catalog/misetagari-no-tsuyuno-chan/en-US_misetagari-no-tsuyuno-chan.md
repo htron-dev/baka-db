@@ -1,5 +1,7 @@
 # Misetagari no Tsuyuno-chan
 
+![misetagari-no-tsuyuno-chan](https://cdn.myanimelist.net/images/manga/3/234412.jpg)
+
 -   **type**: manga
 -   **original-name**: 見せたがりの露乃ちゃん
 -   **start-date**: 2020-02-21

@@ -1,5 +1,7 @@
 # Devil Number 4
 
+![devil-number-4](https://cdn.myanimelist.net/images/manga/2/233763.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 -   **chapters**: 122

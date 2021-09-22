@@ -1,5 +1,7 @@
 # Gensou Suikoden Tanpenshuu
 
+![gensou-suikoden-tanpenshuu](https://cdn.myanimelist.net/images/manga/3/150295.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 幻想水滸伝短編集

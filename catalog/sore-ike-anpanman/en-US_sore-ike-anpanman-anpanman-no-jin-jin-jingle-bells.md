@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Anpanman no Jin-Jin-Jingle Bells
 
+![sore-ike-anpanman-anpanman-no-jin-jin-jingle-bells](https://cdn.myanimelist.net/images/anime/7/57679.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: それいけ!アンパンマン アンパンマンのジンジンジングルベル

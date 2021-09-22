@@ -1,5 +1,7 @@
 # Dullahan-chan wa Kubittake
 
+![dullahan-chan-wa-kubittake](https://cdn.myanimelist.net/images/manga/3/180705.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

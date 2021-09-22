@@ -1,5 +1,7 @@
 # Soredemo Chikyuu wa Mawatteru
 
+![soredemo-chikyuu-wa-mawatteru](https://cdn.myanimelist.net/images/manga/3/49561.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: それでも地球は回ってる

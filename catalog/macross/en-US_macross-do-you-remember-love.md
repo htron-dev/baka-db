@@ -1,5 +1,7 @@
 # Macross: Do You Remember Love?
 
+![macross-do-you-remember-love](https://cdn.myanimelist.net/images/anime/1080/107017.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 超時空要塞マクロス -愛・おぼえていますか-

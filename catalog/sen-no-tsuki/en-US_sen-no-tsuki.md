@@ -1,5 +1,7 @@
 # Sen no Tsuki
 
+![sen-no-tsuki](https://cdn.myanimelist.net/images/manga/2/37101.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Reikenzan: Hoshikuzu-tachi no Utage
 
+![reikenzan-hoshikuzu-tachi-no-utage](https://cdn.myanimelist.net/images/anime/11/78196.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 霊剣山 星屑たちの宴

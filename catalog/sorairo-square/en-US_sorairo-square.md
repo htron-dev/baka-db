@@ -1,5 +1,7 @@
 # Sorairo Square.
 
+![sorairo-square](https://cdn.myanimelist.net/images/manga/3/141275.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

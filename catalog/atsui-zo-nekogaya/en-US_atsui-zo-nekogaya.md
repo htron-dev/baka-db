@@ -1,5 +1,7 @@
 # Atsui zo! Nekogaya!!
 
+![atsui-zo-nekogaya](https://cdn.myanimelist.net/images/manga/3/181220.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 熱いぞ! 猫ヶ谷!!

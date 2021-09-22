@@ -1,5 +1,7 @@
 # Yume Oukoku to Nemureru 100-nin no Ouji-sama
 
+![yume-oukoku-to-nemureru-100-nin-no-ouji-sama](https://cdn.myanimelist.net/images/anime/1526/95041.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 夢王国と眠れる 100 人の王子様

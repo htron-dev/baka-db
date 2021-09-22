@@ -1,5 +1,7 @@
 # Kimagure Love Cupid
 
+![kimagure-love-cupid](https://cdn.myanimelist.net/images/manga/3/5640.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

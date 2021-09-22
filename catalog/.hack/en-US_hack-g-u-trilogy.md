@@ -1,5 +1,7 @@
 # .hack//G.U. Trilogy
 
+![hack-g-u-trilogy](https://cdn.myanimelist.net/images/anime/4/23083.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: .hack//G.U. Trilogy

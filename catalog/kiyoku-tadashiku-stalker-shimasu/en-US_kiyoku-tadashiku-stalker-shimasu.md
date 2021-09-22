@@ -1,5 +1,7 @@
 # Kiyoku Tadashiku, Stalker Shimasu!
 
+![kiyoku-tadashiku-stalker-shimasu](https://cdn.myanimelist.net/images/manga/1/205524.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

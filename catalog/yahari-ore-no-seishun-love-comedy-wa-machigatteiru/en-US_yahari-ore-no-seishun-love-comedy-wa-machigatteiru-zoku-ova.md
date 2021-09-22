@@ -1,5 +1,7 @@
 # Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA
 
+![yahari-ore-no-seishun-love-comedy-wa-machigatteiru-zoku-ova](https://cdn.myanimelist.net/images/anime/13/84052.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: やはり俺の青春ラブコメはまちがっている. 続 きっと, 女の子はお砂糖とスパイスと素敵な何かでできている。

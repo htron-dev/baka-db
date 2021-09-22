@@ -1,5 +1,7 @@
 # Kero Kero Chime
 
+![kero-kero-chime](https://cdn.myanimelist.net/images/anime/9/26176.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 30
 -   **original-name**: ケロケロちゃいむ

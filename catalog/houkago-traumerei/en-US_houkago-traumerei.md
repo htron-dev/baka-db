@@ -1,5 +1,7 @@
 # Houkago Träumerei
 
+![houkago-traumerei](https://cdn.myanimelist.net/images/manga/1/160626.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 17

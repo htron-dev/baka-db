@@ -1,5 +1,7 @@
 # Jukusei★Ikariishi-kun
 
+![jukusei★-ikariishi-kun](https://cdn.myanimelist.net/images/manga/1/227094.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 44

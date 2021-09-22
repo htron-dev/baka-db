@@ -1,5 +1,7 @@
 # Azumi
 
+![azumi](https://cdn.myanimelist.net/images/manga/3/75047.jpg)
+
 -   **type**: manga
 -   **volumes**: 48
 -   **chapters**: 350

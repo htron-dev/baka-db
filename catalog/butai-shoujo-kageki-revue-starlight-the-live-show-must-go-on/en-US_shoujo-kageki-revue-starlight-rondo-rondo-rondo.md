@@ -1,5 +1,7 @@
 # Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo
 
+![shoujo☆-kageki-revue-starlight-rondo-rondo-rondo](https://cdn.myanimelist.net/images/anime/1542/108494.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 少女 ☆ 歌劇 レヴュースタァライト ロンド・ロンド・ロンド

@@ -1,5 +1,7 @@
 # Muteki no Wing!
 
+![muteki-no-wing](https://cdn.myanimelist.net/images/manga/2/15208.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 無敵の WING!

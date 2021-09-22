@@ -1,5 +1,7 @@
 # Sheikh to Doko Made mo
 
+![sheikh-to-doko-made-mo](https://cdn.myanimelist.net/images/manga/2/63249.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

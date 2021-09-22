@@ -1,5 +1,7 @@
 # Tenohira no Netsu wo
 
+![tenohira-no-netsu-wo](https://cdn.myanimelist.net/images/manga/3/175859.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

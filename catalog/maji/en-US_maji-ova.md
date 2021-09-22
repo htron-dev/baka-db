@@ -1,5 +1,7 @@
 # Maji
 
+![maji](https://cdn.myanimelist.net/images/anime/12/54431.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 本気(マジ)!

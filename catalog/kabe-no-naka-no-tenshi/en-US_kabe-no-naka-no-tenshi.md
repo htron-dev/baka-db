@@ -1,5 +1,7 @@
 # Kabe no Naka no Tenshi
 
+![kabe-no-naka-no-tenshi](https://cdn.myanimelist.net/images/manga/1/37084.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

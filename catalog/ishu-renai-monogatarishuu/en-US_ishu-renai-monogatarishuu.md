@@ -1,5 +1,7 @@
 # Ishu Renai Monogatarishuu
 
+![ishu-renai-monogatarishuu](https://cdn.myanimelist.net/images/manga/2/193824.jpg)
+
 -   **type**: manga
 -   **original-name**: 異種恋愛物語集
 -   **start-date**: 2016-01-25

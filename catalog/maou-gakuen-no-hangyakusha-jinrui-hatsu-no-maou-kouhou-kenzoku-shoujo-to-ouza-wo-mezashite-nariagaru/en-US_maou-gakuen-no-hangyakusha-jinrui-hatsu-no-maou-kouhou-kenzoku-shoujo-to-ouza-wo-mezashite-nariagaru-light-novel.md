@@ -1,5 +1,7 @@
 # Maou Gakuen no Hangyakusha: Jinrui Hatsu no Maou Kouhou, Kenzoku Shoujo to Ouza wo Mezashite Nariagaru
 
+![maou-gakuen-no-hangyakusha-jinrui-hatsu-no-maou-kouhou-kenzoku-shoujo-to-ouza-wo-mezashite-nariagaru](https://cdn.myanimelist.net/images/manga/3/235199.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 魔王学園の反逆者 ～人類初の魔王候補、眷属少女と王座を目指して成り上がる～
 -   **start-date**: 2019-09-01

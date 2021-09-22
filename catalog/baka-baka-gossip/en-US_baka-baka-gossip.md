@@ -1,5 +1,7 @@
 # Baka Baka Gossip
 
+![baka-baka-gossip](https://cdn.myanimelist.net/images/manga/1/84047.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

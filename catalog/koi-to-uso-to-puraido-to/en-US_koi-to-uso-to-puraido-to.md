@@ -1,5 +1,7 @@
 # Koi to Uso to Puraido to
 
+![koi-to-uso-to-puraido-to](https://cdn.myanimelist.net/images/manga/3/5969.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

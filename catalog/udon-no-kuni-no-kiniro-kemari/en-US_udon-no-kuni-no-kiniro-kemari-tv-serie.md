@@ -1,5 +1,7 @@
 # Udon no Kuni no Kiniro Kemari
 
+![udon-no-kuni-no-kiniro-kemari](https://cdn.myanimelist.net/images/anime/10/82343.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: うどんの国の金色毛鞠

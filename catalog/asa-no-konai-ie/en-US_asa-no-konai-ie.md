@@ -1,5 +1,7 @@
 # Asa no Konai Ie
 
+![asa-no-konai-ie](https://cdn.myanimelist.net/images/manga/2/240283.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

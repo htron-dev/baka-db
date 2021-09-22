@@ -1,5 +1,7 @@
 # Tange Sazen
 
+![tange-sazen](https://cdn.myanimelist.net/images/manga/1/237789.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 丹下左膳

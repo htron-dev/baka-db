@@ -1,5 +1,7 @@
 # 7-jikanme no Note
 
+![7-jikanme-no-note](https://cdn.myanimelist.net/images/manga/2/188842.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

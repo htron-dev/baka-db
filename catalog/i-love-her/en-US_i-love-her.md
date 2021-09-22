@@ -1,5 +1,7 @@
 # I Love Her
 
+![i-love-her](https://cdn.myanimelist.net/images/manga/2/10810.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 22

@@ -1,5 +1,7 @@
 # Hiroshima Imouto: Odoryaa! Momiji-chan!!
 
+![hiroshima-imouto-odoryaa-momiji-chan](https://cdn.myanimelist.net/images/manga/3/234496.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Mob dakedo Oshi ga Ikiteru kara Mainichi ga Tanoshii
 
+![mob-dakedo-oshi-ga-ikiteru-kara-mainichi-ga-tanoshii](https://cdn.myanimelist.net/images/manga/3/249758.jpg)
+
 -   **type**: manga
 -   **original-name**: モブだけど推しが生きてるから毎日が楽しい
 -   **start-date**: 2021-02-05

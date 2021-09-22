@@ -1,5 +1,7 @@
 # Himitsu no Recipe
 
+![himitsu-no-recipe](https://cdn.myanimelist.net/images/manga/5/81274.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

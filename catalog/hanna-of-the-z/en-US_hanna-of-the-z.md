@@ -1,5 +1,7 @@
 # Hanna of the Z
 
+![hanna-of-the-z](https://cdn.myanimelist.net/images/manga/3/79743.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 

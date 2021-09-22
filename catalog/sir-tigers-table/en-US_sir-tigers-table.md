@@ -1,5 +1,7 @@
 # Sir Tiger's Table
 
+![sir-tigers-table](https://cdn.myanimelist.net/images/manga/5/41576.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 호랑님의 식탁
 

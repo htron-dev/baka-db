@@ -1,5 +1,7 @@
 # Wild da mon♥
 
+![wild-da-mon♥](https://cdn.myanimelist.net/images/manga/1/169536.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

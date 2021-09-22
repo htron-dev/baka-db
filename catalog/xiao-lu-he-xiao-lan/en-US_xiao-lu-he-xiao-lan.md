@@ -1,5 +1,7 @@
 # Xiao Lu He Xiao Lan
 
+![xiao-lu-he-xiao-lan](https://cdn.myanimelist.net/images/anime/1670/93590.jpg)
+
 -   **type**: ona
 -   **episodes**: 72
 -   **original-name**: 小绿和小蓝

@@ -1,5 +1,7 @@
 # Brave Blaze Breaker
 
+![brave-blaze-breaker](https://cdn.myanimelist.net/images/manga/3/159989.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ブレイブ・ブレイズ・ブレイカー

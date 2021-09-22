@@ -1,5 +1,7 @@
 # Death House - Shi no Ie
 
+![death-house-shi-no-ie](https://cdn.myanimelist.net/images/manga/1/105545.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: デスハウス ―死の家

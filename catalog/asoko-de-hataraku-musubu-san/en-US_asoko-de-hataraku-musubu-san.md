@@ -1,5 +1,7 @@
 # Asoko de Hataraku Musubu-san
 
+![asoko-de-hataraku-musubu-san](https://cdn.myanimelist.net/images/manga/2/212674.jpg)
+
 -   **type**: manga
 -   **original-name**: あそこではたらくムスブさん
 -   **start-date**: 2017-11-10

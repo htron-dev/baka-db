@@ -1,5 +1,7 @@
 # Akuyaku Reijou no Tsuihougo!: Kyoukai Kaikaku Gohan de Yuuyuu Sister-gurashi
 
+![akuyaku-reijou-no-tsuihougo-kyoukai-kaikaku-gohan-de-yuuyuu-sister-gurashi](https://cdn.myanimelist.net/images/manga/1/224305.jpg)
+
 -   **type**: manga
 -   **original-name**: 悪役令嬢の追放後! 教会改革ごはんで悠々シスター暮らし
 -   **start-date**: 2018-12-03

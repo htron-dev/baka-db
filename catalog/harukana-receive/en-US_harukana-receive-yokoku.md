@@ -1,5 +1,7 @@
 # Harukana Receive: Yokoku
 
+![harukana-receive-yokoku](https://cdn.myanimelist.net/images/anime/1980/93259.jpg)
+
 -   **type**: ona
 -   **episodes**: 11
 -   **original-name**: 『はるかなレシーブ』予告

@@ -1,5 +1,7 @@
 # White Album 2
 
+![white-album-2](https://cdn.myanimelist.net/images/manga/3/125925.jpg)
+
 -   **type**: manga
 -   **original-name**: WHITE ALBUM2 -ホワイトアルバム 2-
 -   **start-date**: 2013-07-11

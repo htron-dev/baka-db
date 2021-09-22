@@ -1,5 +1,7 @@
 # Code Geass: Hangyaku no Lelouch - Kiseki no Birthday Omake Flash
 
+![code-geass-hangyaku-no-lelouch-kiseki-no-birthday-omake-flash](https://cdn.myanimelist.net/images/anime/4/71045.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: コードギアス 反逆のルルーシュ キセキの誕生日[バースデー] おまけ FLASH

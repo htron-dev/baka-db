@@ -1,5 +1,7 @@
 # Hi no Tori: Yamato-hen
 
+![hi-no-tori-yamato-hen](https://cdn.myanimelist.net/images/anime/4/4340.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 火の鳥・ヤマト編

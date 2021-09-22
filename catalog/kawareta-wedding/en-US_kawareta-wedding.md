@@ -1,5 +1,7 @@
 # Kawareta Wedding
 
+![kawareta-wedding](https://cdn.myanimelist.net/images/manga/2/182567.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

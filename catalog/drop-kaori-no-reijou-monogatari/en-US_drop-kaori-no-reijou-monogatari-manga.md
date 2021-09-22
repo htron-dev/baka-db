@@ -1,5 +1,7 @@
 # Drop!!: Kaori no Reijou Monogatari
 
+![drop-kaori-no-reijou-monogatari](https://cdn.myanimelist.net/images/manga/3/220260.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

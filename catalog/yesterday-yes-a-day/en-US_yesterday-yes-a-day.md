@@ -1,5 +1,7 @@
 # Yesterday, Yes a Day
 
+![yesterday-yes-a-day](https://cdn.myanimelist.net/images/manga/4/69535.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

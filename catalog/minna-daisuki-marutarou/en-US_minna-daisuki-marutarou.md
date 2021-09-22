@@ -1,5 +1,7 @@
 # Minna Daisuki Marutarou
 
+![minna-daisuki-marutarou](https://cdn.myanimelist.net/images/manga/2/40916.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # She is Just La La La!
 
+![she-is-just-la-la-la](https://cdn.myanimelist.net/images/manga/2/13515.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: She is just LA・LA・LA!

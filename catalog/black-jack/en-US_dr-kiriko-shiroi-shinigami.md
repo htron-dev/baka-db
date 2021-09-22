@@ -1,5 +1,7 @@
 # Dr. Kiriko: Shiroi Shinigami
 
+![dr-kiriko-shiroi-shinigami](https://cdn.myanimelist.net/images/manga/1/203810.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 31

@@ -1,5 +1,7 @@
 # Ginga Tetsudou 999: Kimi wa Senshi no You ni Ikirareru ka?
 
+![ginga-tetsudou-999-kimi-wa-senshi-no-you-ni-ikirareru-ka](https://cdn.myanimelist.net/images/anime/6/15482.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 銀河鉄道９９９　君は戦士のように生きられるか！？

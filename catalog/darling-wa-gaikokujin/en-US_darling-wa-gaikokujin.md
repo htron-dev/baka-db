@@ -1,5 +1,7 @@
 # Darling wa Gaikokujin
 
+![darling-wa-gaikokujin](https://cdn.myanimelist.net/images/manga/1/27861.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ダーリンは外国人

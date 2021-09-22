@@ -1,5 +1,7 @@
 # Shirobako Movie
 
+![shirobako-movie](https://cdn.myanimelist.net/images/anime/1328/111351.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 SHIROBAKO

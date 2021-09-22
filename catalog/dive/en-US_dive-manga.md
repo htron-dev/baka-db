@@ -1,5 +1,7 @@
 # Dive!!
 
+![dive](https://cdn.myanimelist.net/images/manga/3/187021.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 48

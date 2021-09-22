@@ -1,5 +1,7 @@
 # Bocchi the Rock!
 
+![bocchi-the-rock](https://cdn.myanimelist.net/images/manga/2/224954.jpg)
+
 -   **type**: manga
 -   **original-name**: ぼっち・ざ・ろっく！
 -   **start-date**: 2017-12-19

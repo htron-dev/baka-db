@@ -1,5 +1,7 @@
 # Soredemo Karera wa Uso wo Tsuku
 
+![soredemo-karera-wa-uso-wo-tsuku](https://cdn.myanimelist.net/images/manga/3/203916.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

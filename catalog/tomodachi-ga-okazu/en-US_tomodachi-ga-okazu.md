@@ -1,5 +1,7 @@
 # Tomodachi ga Okazu
 
+![tomodachi-ga-okazu](https://cdn.myanimelist.net/images/manga/1/159791.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

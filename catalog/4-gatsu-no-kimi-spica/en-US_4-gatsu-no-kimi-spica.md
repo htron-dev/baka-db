@@ -1,5 +1,7 @@
 # 4-gatsu no Kimi, Spica.
 
+![4-gatsu-no-kimi-spica](https://cdn.myanimelist.net/images/manga/2/158517.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 53

@@ -1,5 +1,7 @@
 # Fuusen Shoujo Temple-chan
 
+![fuusen-shoujo-temple-chan](https://cdn.myanimelist.net/images/anime/2/53883.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 風船少女テンプルちゃん

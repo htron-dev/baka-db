@@ -1,5 +1,7 @@
 # Yasamura Yasashi no Yasashii Sekai
 
+![yasamura-yasashi-no-yasashii-sekai](https://cdn.myanimelist.net/images/anime/10/81641.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 33
 -   **original-name**: やさ村やさしのやさしい世界

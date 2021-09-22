@@ -1,5 +1,7 @@
 # Flip Flap: Okamoto Lynn Tanpenshuu
 
+![flip-flap-okamoto-lynn-tanpenshuu](https://cdn.myanimelist.net/images/manga/2/66983.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

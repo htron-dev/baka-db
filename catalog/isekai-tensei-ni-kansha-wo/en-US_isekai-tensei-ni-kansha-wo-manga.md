@@ -1,5 +1,7 @@
 # Isekai Tensei ni Kansha wo
 
+![isekai-tensei-ni-kansha-wo](https://cdn.myanimelist.net/images/manga/3/210319.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界転生に感謝を
 -   **start-date**: 2017-10-26

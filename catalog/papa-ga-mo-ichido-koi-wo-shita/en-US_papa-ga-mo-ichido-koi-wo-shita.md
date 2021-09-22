@@ -1,5 +1,7 @@
 # Papa ga mo Ichido Koi wo Shita
 
+![papa-ga-mo-ichido-koi-wo-shita](https://cdn.myanimelist.net/images/manga/2/89613.jpg)
+
 -   **type**: manga
 -   **original-name**: パパがも一度恋をした
 

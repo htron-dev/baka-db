@@ -1,5 +1,7 @@
 # Nasakenai Bokura no Irokoi Moyou
 
+![nasakenai-bokura-no-irokoi-moyou](https://cdn.myanimelist.net/images/manga/1/199276.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 29

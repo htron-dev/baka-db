@@ -1,5 +1,7 @@
 # 3.11 wo Wasurenai Tame ni Heroes Comeback
 
+![3-11-wo-wasurenai-tame-ni-heroes-comeback](https://cdn.myanimelist.net/images/manga/1/98669.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

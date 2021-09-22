@@ -1,5 +1,7 @@
 # Go Go Bokutachi
 
+![go-go-bokutachi](https://cdn.myanimelist.net/images/manga/1/95947.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ゴーゴー僕たち

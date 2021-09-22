@@ -1,5 +1,7 @@
 # Ai Yori Aoshi: Enishi - Miyuki
 
+![ai-yori-aoshi-enishi-miyuki](https://cdn.myanimelist.net/images/anime/7/10173.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 藍より青し～縁～ Miyuki

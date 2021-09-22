@@ -1,5 +1,7 @@
 # Full Spec
 
+![full-spec](https://cdn.myanimelist.net/images/manga/1/225084.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 31

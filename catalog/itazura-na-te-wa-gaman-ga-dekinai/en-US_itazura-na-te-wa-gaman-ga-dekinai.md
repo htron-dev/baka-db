@@ -1,5 +1,7 @@
 # Itazura na Te wa Gaman ga Dekinai
 
+![itazura-na-te-wa-gaman-ga-dekinai](https://cdn.myanimelist.net/images/manga/2/244920.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

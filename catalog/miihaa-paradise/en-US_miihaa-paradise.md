@@ -1,5 +1,7 @@
 # Miihaa Paradise
 
+![miihaa-paradise](https://cdn.myanimelist.net/images/manga/2/6362.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ミーハーパラダイス

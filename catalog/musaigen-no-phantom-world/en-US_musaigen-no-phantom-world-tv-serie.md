@@ -1,5 +1,7 @@
 # Musaigen no Phantom World
 
+![musaigen-no-phantom-world](https://cdn.myanimelist.net/images/anime/4/78339.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 無彩限のファントム・ワールド

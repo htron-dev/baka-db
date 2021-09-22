@@ -1,5 +1,7 @@
 # Lisa no Taberarenai Shokutaku
 
+![lisa-no-taberarenai-shokutaku](https://cdn.myanimelist.net/images/manga/1/238336.jpg)
+
 -   **type**: manga
 -   **original-name**: リサの食べられない食卓
 -   **start-date**: 2018-12-25

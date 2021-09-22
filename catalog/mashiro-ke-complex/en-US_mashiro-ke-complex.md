@@ -1,5 +1,7 @@
 # Mashiro-ke Complex!
 
+![mashiro-ke-complex](https://cdn.myanimelist.net/images/manga/3/173128.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: 真代家こんぷれっくす!

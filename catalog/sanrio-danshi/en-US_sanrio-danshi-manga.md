@@ -1,5 +1,7 @@
 # Sanrio Danshi
 
+![sanrio-danshi](https://cdn.myanimelist.net/images/manga/2/181817.jpg)
+
 -   **type**: manga
 -   **original-name**: サンリオ男子
 -   **start-date**: 2016-04-04

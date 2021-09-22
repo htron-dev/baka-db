@@ -1,5 +1,7 @@
 # Ginga Eiyuu Densetsu
 
+![ginga-eiyuu-densetsu](https://cdn.myanimelist.net/images/anime/13/13225.jpg)
+
 -   **type**: ova
 -   **episodes**: 110
 -   **original-name**: 銀河英雄伝説

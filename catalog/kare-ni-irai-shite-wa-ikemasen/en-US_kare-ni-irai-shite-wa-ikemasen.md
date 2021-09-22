@@ -1,5 +1,7 @@
 # Kare ni Irai Shite wa Ikemasen
 
+![kare-ni-irai-shite-wa-ikemasen](https://cdn.myanimelist.net/images/manga/1/219337.jpg)
+
 -   **type**: manga
 -   **original-name**: 彼に依頼してはいけません
 -   **start-date**: 2018-03-28

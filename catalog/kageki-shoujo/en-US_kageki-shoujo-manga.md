@@ -1,5 +1,7 @@
 # Kageki Shoujo!!
 
+![kageki-shoujo](https://cdn.myanimelist.net/images/manga/2/167045.jpg)
+
 -   **type**: manga
 -   **original-name**: かげきしょうじょ!!
 -   **start-date**: 2015-02-28

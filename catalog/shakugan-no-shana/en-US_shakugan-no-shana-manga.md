@@ -1,5 +1,7 @@
 # Shakugan no Shana
 
+![shakugan-no-shana](https://cdn.myanimelist.net/images/manga/1/133569.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 71

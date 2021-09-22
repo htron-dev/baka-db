@@ -1,5 +1,7 @@
 # Hadaka no Anouchkas
 
+![hadaka-no-anouchkas](https://cdn.myanimelist.net/images/manga/1/167207.jpg)
+
 -   **type**: manga
 -   **original-name**: 裸のアヌーシュカ
 -   **start-date**: 2003-04-25

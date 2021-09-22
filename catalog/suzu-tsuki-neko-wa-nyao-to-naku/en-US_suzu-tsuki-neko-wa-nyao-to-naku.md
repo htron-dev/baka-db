@@ -1,5 +1,7 @@
 # Suzu-tsuki Neko wa Nyao to Naku?
 
+![suzu-tsuki-neko-wa-nyao-to-naku](https://cdn.myanimelist.net/images/manga/3/235824.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

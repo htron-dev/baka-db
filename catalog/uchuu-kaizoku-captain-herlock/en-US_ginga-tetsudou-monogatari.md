@@ -1,5 +1,7 @@
 # Ginga Tetsudou Monogatari
 
+![ginga-tetsudou-monogatari](https://cdn.myanimelist.net/images/anime/6/39821.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 銀河鉄道物語

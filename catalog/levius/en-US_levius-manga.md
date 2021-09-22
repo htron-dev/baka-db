@@ -1,5 +1,7 @@
 # Levius
 
+![levius](https://cdn.myanimelist.net/images/manga/2/128213.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

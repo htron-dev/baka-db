@@ -1,5 +1,7 @@
 # Hyouge Mono
 
+![hyouge-mono](https://cdn.myanimelist.net/images/anime/3/77282.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: へうげもの

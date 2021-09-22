@@ -1,5 +1,7 @@
 # Kirakira 100%
 
+![kirakira-100](https://cdn.myanimelist.net/images/manga/3/25037.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: キラキラ 100%

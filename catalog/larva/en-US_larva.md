@@ -1,5 +1,7 @@
 # Larva
 
+![larva](https://cdn.myanimelist.net/images/anime/12/76007.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 라바

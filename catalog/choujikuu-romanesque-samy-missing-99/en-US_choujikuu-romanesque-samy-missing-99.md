@@ -1,5 +1,7 @@
 # Choujikuu Romanesque Samy: Missing 99
 
+![choujikuu-romanesque-samy-missing-99](https://cdn.myanimelist.net/images/anime/7/16922.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 超時空ロマネスク　サミー　ＭＩＳＳＩＮＧ・９９

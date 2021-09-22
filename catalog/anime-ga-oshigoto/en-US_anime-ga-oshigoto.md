@@ -1,5 +1,7 @@
 # Anime ga Oshigoto!
 
+![anime-ga-oshigoto](https://cdn.myanimelist.net/images/manga/3/22738.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 42

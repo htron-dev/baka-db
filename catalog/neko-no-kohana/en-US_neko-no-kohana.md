@@ -1,5 +1,7 @@
 # Neko no Kohana
 
+![neko-no-kohana](https://cdn.myanimelist.net/images/manga/3/161769.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 41

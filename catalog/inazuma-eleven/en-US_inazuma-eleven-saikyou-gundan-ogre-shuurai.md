@@ -1,5 +1,7 @@
 # Inazuma Eleven: Saikyou Gundan Ogre Shuurai
 
+![inazuma-eleven-saikyou-gundan-ogre-shuurai](https://cdn.myanimelist.net/images/anime/12/31189.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版イナズマイレブン 最強軍団オーガ襲来

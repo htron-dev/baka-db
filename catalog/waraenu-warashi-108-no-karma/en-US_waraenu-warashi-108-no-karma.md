@@ -1,5 +1,7 @@
 # Waraenu Warashi: 108 no Karma
 
+![waraenu-warashi-108-no-karma](https://cdn.myanimelist.net/images/manga/2/133117.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

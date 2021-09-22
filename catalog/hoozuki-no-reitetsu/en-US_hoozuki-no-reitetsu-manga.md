@@ -1,5 +1,7 @@
 # Hoozuki no Reitetsu
 
+![hoozuki-no-reitetsu](https://cdn.myanimelist.net/images/manga/2/176888.jpg)
+
 -   **type**: manga
 -   **volumes**: 31
 -   **chapters**: 277

@@ -1,5 +1,7 @@
 # Robot Girls Z: Fukkatsu no Chika Teikoku!? Robot Girls Z vs. Nazo no Sandai Shuyaku Robo!
 
+![robot-girls-z-fukkatsu-no-chika-teikoku-robot-girls-z-vs-nazo-no-sandai-shuyaku-robo](https://cdn.myanimelist.net/images/anime/1372/95234.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ロボットガールズＺ「復活の地下帝国！？ロボットガールズＺ ｖｓ なぞの三大主役ロボ！」

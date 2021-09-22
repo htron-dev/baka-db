@@ -1,5 +1,7 @@
 # Nyatto!
 
+![nyatto](https://cdn.myanimelist.net/images/manga/2/55699.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

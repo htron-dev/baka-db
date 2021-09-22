@@ -1,5 +1,7 @@
 # VS Knight Lamune & 40 Fire
 
+![vs-knight-lamune-40-fire](https://cdn.myanimelist.net/images/manga/1/30447.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: VS 騎士ラムネ&40 炎

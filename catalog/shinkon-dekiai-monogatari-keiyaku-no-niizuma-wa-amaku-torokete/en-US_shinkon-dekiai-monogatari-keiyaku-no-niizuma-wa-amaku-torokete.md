@@ -1,5 +1,7 @@
 # Shinkon Dekiai Monogatari: Keiyaku no Niizuma wa Amaku Torokete
 
+![shinkon-dekiai-monogatari-keiyaku-no-niizuma-wa-amaku-torokete](https://cdn.myanimelist.net/images/manga/1/181631.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

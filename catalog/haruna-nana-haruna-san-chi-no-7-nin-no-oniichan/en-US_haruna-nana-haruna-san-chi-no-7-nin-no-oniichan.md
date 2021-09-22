@@ -1,5 +1,7 @@
 # Haruna Nana: Haruna-san Chi no 7-nin no Oniichan
 
+![haruna-nana-haruna-san-chi-no-7-nin-no-oniichan](https://cdn.myanimelist.net/images/manga/1/225464.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

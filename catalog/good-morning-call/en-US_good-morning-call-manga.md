@@ -1,5 +1,7 @@
 # Good Morning Call
 
+![good-morning-call](https://cdn.myanimelist.net/images/manga/3/185191.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 57

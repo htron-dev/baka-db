@@ -1,5 +1,7 @@
 # Gokiburi Hime
 
+![gokiburi-hime](https://cdn.myanimelist.net/images/anime/3/87988.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ゴキブリ姫

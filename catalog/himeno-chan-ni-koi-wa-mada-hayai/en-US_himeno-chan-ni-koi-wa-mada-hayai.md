@@ -1,5 +1,7 @@
 # Himeno-chan ni Koi wa Mada Hayai
 
+![himeno-chan-ni-koi-wa-mada-hayai](https://cdn.myanimelist.net/images/manga/2/215993.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 姫乃ちゃんに恋はまだ早い

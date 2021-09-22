@@ -1,5 +1,7 @@
 # High School DxD New
 
+![high-school-dx-d-new](https://cdn.myanimelist.net/images/anime/12/47729.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ハイスクール D×D NEW

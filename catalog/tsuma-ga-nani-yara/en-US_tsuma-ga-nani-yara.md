@@ -1,5 +1,7 @@
 # Tsuma ga Nani Yara
 
+![tsuma-ga-nani-yara](https://cdn.myanimelist.net/images/manga/2/177477.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

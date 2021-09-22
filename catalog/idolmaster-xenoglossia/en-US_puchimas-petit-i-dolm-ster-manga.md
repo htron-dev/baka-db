@@ -1,5 +1,7 @@
 # Puchimas!: Petit iDOLM@STER
 
+![puchimas-petit-i-dolm-ster](https://cdn.myanimelist.net/images/manga/1/50421.jpg)
+
 -   **type**: manga
 -   **original-name**: ぷちます! -PETIT IDOLM@STER-
 -   **start-date**: 2008-07-27

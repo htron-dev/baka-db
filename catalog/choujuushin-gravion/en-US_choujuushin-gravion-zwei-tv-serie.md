@@ -1,5 +1,7 @@
 # Choujuushin Gravion Zwei
 
+![choujuushin-gravion-zwei](https://cdn.myanimelist.net/images/anime/11/75167.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 超重神グラヴィオンツヴァイ

@@ -1,5 +1,7 @@
 # Phi Brain: Saigo no Puzzle
 
+![phi-brain-saigo-no-puzzle](https://cdn.myanimelist.net/images/manga/3/47879.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

@@ -1,5 +1,7 @@
 # Sore wa Isshun no Hikari, dewa Naku
 
+![sore-wa-isshun-no-hikari-dewa-naku](https://cdn.myanimelist.net/images/manga/1/135871.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

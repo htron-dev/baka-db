@@ -1,5 +1,7 @@
 # Koishite Hoshii
 
+![koishite-hoshii](https://cdn.myanimelist.net/images/manga/1/162986.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

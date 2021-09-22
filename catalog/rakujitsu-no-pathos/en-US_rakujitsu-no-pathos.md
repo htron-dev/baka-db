@@ -1,5 +1,7 @@
 # Rakujitsu no Pathos
 
+![rakujitsu-no-pathos](https://cdn.myanimelist.net/images/manga/2/162658.jpg)
+
 -   **type**: manga
 -   **original-name**: 落日のパトス
 -   **start-date**: 2014-11-04

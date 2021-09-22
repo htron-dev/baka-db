@@ -1,5 +1,7 @@
 # Dokidoki Youkai Love Battle!: Hiroku Youkai Daisensou
 
+![dokidoki-youkai-love-battle-hiroku-youkai-daisensou](https://cdn.myanimelist.net/images/manga/3/155649.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Boku yori Medatsu na Ryuugakusei
 
+![boku-yori-medatsu-na-ryuugakusei](https://cdn.myanimelist.net/images/manga/2/245380.jpg)
+
 -   **type**: manga
 -   **original-name**: 僕より目立つな竜学生
 -   **start-date**: 2020-11-06

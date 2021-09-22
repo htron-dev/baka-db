@@ -1,5 +1,7 @@
 # Ouji-sama ni Dekiai sarete Komattemasu: Tensei Heroine, Otome Game Funtouki
 
+![ouji-sama-ni-dekiai-sarete-komattemasu-tensei-heroine-otome-game-funtouki](https://cdn.myanimelist.net/images/manga/3/246141.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 王子様に溺愛されて困ってます ～転生ヒロイン、乙女ゲーム奮闘記～
 -   **start-date**: 2018-05-31

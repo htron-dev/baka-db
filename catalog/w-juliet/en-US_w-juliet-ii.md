@@ -1,5 +1,7 @@
 # W-Juliet II
 
+![w-juliet-ii](https://cdn.myanimelist.net/images/manga/3/162126.jpg)
+
 -   **type**: manga
 -   **original-name**: W ジュリエット II
 

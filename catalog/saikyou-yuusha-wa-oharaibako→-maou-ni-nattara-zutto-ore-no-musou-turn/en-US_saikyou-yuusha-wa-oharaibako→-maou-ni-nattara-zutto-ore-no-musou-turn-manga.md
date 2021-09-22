@@ -1,5 +1,7 @@
 # Saikyou Yuusha wa Oharaibako→Maou ni Nattara Zutto Ore no Musou Turn
 
+![saikyou-yuusha-wa-oharaibako→-maou-ni-nattara-zutto-ore-no-musou-turn](https://cdn.myanimelist.net/images/manga/2/236093.jpg)
+
 -   **type**: manga
 -   **original-name**: 最強勇者はお払い箱 → 魔王になったらずっと俺の無双ターン
 -   **start-date**: 2018-10-31

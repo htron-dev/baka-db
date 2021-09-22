@@ -1,5 +1,7 @@
 # Koi-koi★Seitokai
 
+![koi-koi★-seitokai](https://cdn.myanimelist.net/images/manga/2/161725.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 40

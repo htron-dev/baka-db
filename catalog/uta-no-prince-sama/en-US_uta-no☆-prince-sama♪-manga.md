@@ -1,5 +1,7 @@
 # Uta no☆Prince-sama♪
 
+![uta-no☆-prince-sama♪](https://cdn.myanimelist.net/images/manga/3/94739.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: うたの ☆ プリンスさまっ ♪

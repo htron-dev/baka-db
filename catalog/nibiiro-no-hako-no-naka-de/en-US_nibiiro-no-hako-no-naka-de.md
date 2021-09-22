@@ -1,5 +1,7 @@
 # Nibiiro no Hako no Naka de
 
+![nibiiro-no-hako-no-naka-de](https://cdn.myanimelist.net/images/manga/2/216888.jpg)
+
 -   **type**: manga
 -   **original-name**: 鈍色の箱の中で
 -   **start-date**: 2017-04-28

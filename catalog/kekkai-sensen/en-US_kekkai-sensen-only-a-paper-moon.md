@@ -1,5 +1,7 @@
 # Kekkai Sensen: Only a Paper Moon
 
+![kekkai-sensen-only-a-paper-moon](https://cdn.myanimelist.net/images/manga/2/158347.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

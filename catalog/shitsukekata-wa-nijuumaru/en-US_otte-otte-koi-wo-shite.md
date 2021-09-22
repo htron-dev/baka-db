@@ -1,5 +1,7 @@
 # Otte Otte, Koi wo Shite
 
+![otte-otte-koi-wo-shite](https://cdn.myanimelist.net/images/manga/3/223489.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

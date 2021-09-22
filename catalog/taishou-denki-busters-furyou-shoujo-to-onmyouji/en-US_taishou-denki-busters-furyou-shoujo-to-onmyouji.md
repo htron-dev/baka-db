@@ -1,5 +1,7 @@
 # Taishou Denki Busters: Furyou Shoujo to Onmyouji
 
+![taishou-denki-busters-furyou-shoujo-to-onmyouji](https://cdn.myanimelist.net/images/manga/1/246312.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

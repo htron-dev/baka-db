@@ -1,5 +1,7 @@
 # Vs Earth
 
+![vs-earth](https://cdn.myanimelist.net/images/manga/1/97625.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 78

@@ -1,5 +1,7 @@
 # Bara Seiyoukan
 
+![bara-seiyoukan](https://cdn.myanimelist.net/images/manga/1/93581.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # Kare to Kanojo to Shoukan Mahou
 
+![kare-to-kanojo-to-shoukan-mahou](https://cdn.myanimelist.net/images/manga/3/164579.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 39

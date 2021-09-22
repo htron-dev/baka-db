@@ -1,5 +1,7 @@
 # Kimi to wa 2-do to Kiss Dekinai
 
+![kimi-to-wa-2-do-to-kiss-dekinai](https://cdn.myanimelist.net/images/manga/2/236111.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

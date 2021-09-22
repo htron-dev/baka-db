@@ -1,5 +1,7 @@
 # Bambi
 
+![bambi](https://cdn.myanimelist.net/images/manga/1/10165.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Oniichan no Koto nanka Zenzen Suki ja Nai n da kara ne!! Special
 
+![oniichan-no-koto-nanka-zenzen-suki-ja-nai-n-da-kara-ne-special](https://cdn.myanimelist.net/images/anime/11/50539.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: お兄ちゃんのことなんかぜんぜん好きじゃないんだからねっ!! 第 13 話 妹より愛をこめて兄の『性態観察記』

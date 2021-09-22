@@ -1,5 +1,7 @@
 # GJ-bu Weekly
 
+![gj-bu-weekly](https://cdn.myanimelist.net/images/manga/3/160566.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 32

@@ -1,5 +1,7 @@
 # Boku no Son Gokuu
 
+![boku-no-son-gokuu](https://cdn.myanimelist.net/images/anime/10/66811.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ぼくの孫悟空

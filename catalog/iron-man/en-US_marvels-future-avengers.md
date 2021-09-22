@@ -1,5 +1,7 @@
 # Marvel's Future Avengers
 
+![marvels-future-avengers](https://cdn.myanimelist.net/images/manga/3/191914.jpg)
+
 -   **type**: manga
 -   **original-name**: マーベル フューチャー・アベンジャーズ
 -   **start-date**: 2017-02-28
@@ -7,7 +9,6 @@
 ## Tags
 
 -   action
-
 -   super-power
 
 ## Authors

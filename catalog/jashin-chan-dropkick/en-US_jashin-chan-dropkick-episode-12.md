@@ -1,5 +1,7 @@
 # Jashin-chan Dropkick Episode 12
 
+![jashin-chan-dropkick-episode-12](https://cdn.myanimelist.net/images/anime/1969/95176.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 邪神ちゃんドロップキック 第 12 話

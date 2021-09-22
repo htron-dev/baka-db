@@ -1,5 +1,7 @@
 # Benriya Saitou-san, Isekai ni Iku
 
+![benriya-saitou-san-isekai-ni-iku](https://cdn.myanimelist.net/images/manga/3/219875.jpg)
+
 -   **type**: manga
 -   **original-name**: 便利屋斎藤さん、異世界に行く
 -   **start-date**: 2018-10-12

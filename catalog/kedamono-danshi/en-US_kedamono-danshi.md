@@ -1,5 +1,7 @@
 # Kedamono Danshi
 
+![kedamono-danshi](https://cdn.myanimelist.net/images/manga/1/128167.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

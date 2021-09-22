@@ -1,5 +1,7 @@
 # Bouken Elektriciteit-tou
 
+![bouken-elektriciteit-tou](https://cdn.myanimelist.net/images/manga/1/65313.jpg)
+
 -   **type**: manga
 -   **original-name**: 冒険エレキテ島
 -   **start-date**: 2010-07-13

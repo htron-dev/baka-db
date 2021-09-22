@@ -1,5 +1,7 @@
 # Boku wa Ou-sama (TV) Special
 
+![boku-wa-ou-sama-tv-special](https://cdn.myanimelist.net/images/anime/3/63743.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ぼくは王さま (2013)

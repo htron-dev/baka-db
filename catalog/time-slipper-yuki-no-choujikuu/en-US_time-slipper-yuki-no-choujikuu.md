@@ -1,5 +1,7 @@
 # Time Slipper: Yuki no Choujikuu
 
+![time-slipper-yuki-no-choujikuu](https://cdn.myanimelist.net/images/manga/3/209552.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

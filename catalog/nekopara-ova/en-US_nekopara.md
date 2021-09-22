@@ -1,5 +1,7 @@
 # Nekopara
 
+![nekopara](https://cdn.myanimelist.net/images/anime/1716/104880.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ネコぱら

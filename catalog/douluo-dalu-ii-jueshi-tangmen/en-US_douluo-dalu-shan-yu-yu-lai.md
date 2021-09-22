@@ -1,5 +1,7 @@
 # Douluo Dalu: Shan Yu Yu Lai
 
+![douluo-dalu-shan-yu-yu-lai](https://cdn.myanimelist.net/images/anime/1419/115180.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 斗罗大陆 山雨欲来

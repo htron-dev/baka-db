@@ -1,5 +1,7 @@
 # Sono Me de Katare
 
+![sono-me-de-katare](https://cdn.myanimelist.net/images/manga/2/162427.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

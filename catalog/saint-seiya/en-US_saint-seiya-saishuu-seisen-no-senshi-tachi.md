@@ -1,5 +1,7 @@
 # Saint Seiya: Saishuu Seisen no Senshi-tachi
 
+![saint-seiya-saishuu-seisen-no-senshi-tachi](https://cdn.myanimelist.net/images/anime/3/16347.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 聖闘士星矢 最終聖戦の戦士たち

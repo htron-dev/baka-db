@@ -1,5 +1,7 @@
 # Yuganda Netsubyou: Midara na Omae wo Taiho suru
 
+![yuganda-netsubyou-midara-na-omae-wo-taiho-suru](https://cdn.myanimelist.net/images/manga/1/193484.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

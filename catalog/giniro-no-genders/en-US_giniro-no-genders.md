@@ -1,5 +1,7 @@
 # Giniro no Genders
 
+![giniro-no-genders](https://cdn.myanimelist.net/images/manga/3/219437.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

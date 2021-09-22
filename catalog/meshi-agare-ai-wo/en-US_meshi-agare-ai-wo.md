@@ -1,5 +1,7 @@
 # Meshi Agare Ai wo
 
+![meshi-agare-ai-wo](https://cdn.myanimelist.net/images/manga/3/70113.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

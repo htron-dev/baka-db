@@ -1,5 +1,7 @@
 # Ginga Densetsu: Anju to Jiroumaru
 
+![ginga-densetsu-anju-to-jiroumaru](https://cdn.myanimelist.net/images/manga/2/175055.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

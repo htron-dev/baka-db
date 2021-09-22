@@ -1,5 +1,7 @@
 # Ragnarock City
 
+![ragnarock-city](https://cdn.myanimelist.net/images/manga/1/26476.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

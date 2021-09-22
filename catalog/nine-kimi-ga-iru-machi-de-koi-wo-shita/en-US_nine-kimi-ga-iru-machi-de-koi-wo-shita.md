@@ -1,5 +1,7 @@
 # Nine: Kimi ga Iru Machi de Koi wo Shita
 
+![nine-kimi-ga-iru-machi-de-koi-wo-shita](https://cdn.myanimelist.net/images/manga/3/173476.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

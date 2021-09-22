@@ -1,5 +1,7 @@
 # Shaonian Baima Zui Chunfeng
 
+![shaonian-baima-zui-chunfeng](https://cdn.myanimelist.net/images/anime/1568/114690.jpg)
+
 -   **type**: ona
 -   **original-name**: 少年白马醉春风
 -   **rating**: PG-13 - Teens 13 or older

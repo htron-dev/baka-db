@@ -1,5 +1,7 @@
 # Pika Pika Days
 
+![pika-pika-days](https://cdn.myanimelist.net/images/manga/3/2207.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

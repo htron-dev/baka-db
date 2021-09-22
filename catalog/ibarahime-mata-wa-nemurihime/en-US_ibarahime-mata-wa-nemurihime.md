@@ -1,5 +1,7 @@
 # Ibarahime Mata wa Nemurihime
 
+![ibarahime-mata-wa-nemurihime](https://cdn.myanimelist.net/images/anime/9/81213.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: いばら姫またはねむり姫

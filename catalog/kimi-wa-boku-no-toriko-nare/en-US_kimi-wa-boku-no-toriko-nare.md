@@ -1,5 +1,7 @@
 # Kimi wa Boku no Toriko Nare
 
+![kimi-wa-boku-no-toriko-nare](https://cdn.myanimelist.net/images/manga/1/134173.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 31

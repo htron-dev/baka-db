@@ -1,5 +1,7 @@
 # Jiraishin
 
+![jiraishin](https://cdn.myanimelist.net/images/manga/1/22609.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 72

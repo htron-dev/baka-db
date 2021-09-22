@@ -1,5 +1,7 @@
 # Mahou Tsukai Kurohime
 
+![mahou-tsukai-kurohime](https://cdn.myanimelist.net/images/manga/2/143957.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 87

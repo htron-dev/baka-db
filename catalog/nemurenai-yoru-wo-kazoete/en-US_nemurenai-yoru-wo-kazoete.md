@@ -1,5 +1,7 @@
 # Nemurenai Yoru wo Kazoete
 
+![nemurenai-yoru-wo-kazoete](https://cdn.myanimelist.net/images/manga/1/24569.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

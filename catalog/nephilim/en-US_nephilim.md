@@ -1,5 +1,7 @@
 # Nephilim
 
+![nephilim](https://cdn.myanimelist.net/images/manga/3/5186.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 7

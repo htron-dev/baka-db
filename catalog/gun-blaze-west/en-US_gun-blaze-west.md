@@ -1,5 +1,7 @@
 # Gun Blaze West
 
+![gun-blaze-west](https://cdn.myanimelist.net/images/manga/1/204387.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

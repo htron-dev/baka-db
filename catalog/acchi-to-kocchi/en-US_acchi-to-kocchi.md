@@ -1,5 +1,7 @@
 # Acchi to Kocchi
 
+![acchi-to-kocchi](https://cdn.myanimelist.net/images/manga/1/64301.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

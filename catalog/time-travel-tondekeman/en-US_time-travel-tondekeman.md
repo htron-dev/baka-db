@@ -1,5 +1,7 @@
 # Time Travel Tondekeman!
 
+![time-travel-tondekeman](https://cdn.myanimelist.net/images/anime/6/45656.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: たいむとらぶる トンデケマン!
@@ -12,7 +14,6 @@
 ## Tags
 
 -   action
-
 -   adventure
 -   comedy
 

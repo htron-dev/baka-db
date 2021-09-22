@@ -1,5 +1,7 @@
 # Agigongryong Doolie
 
+![agigongryong-doolie](https://cdn.myanimelist.net/images/anime/8/45785.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 6
 -   **original-name**: 아기공룡 둘리

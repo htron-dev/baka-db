@@ -1,5 +1,7 @@
 # Do S Seitokaichou to Yabai Kankei
 
+![do-s-seitokaichou-to-yabai-kankei](https://cdn.myanimelist.net/images/manga/2/192401.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

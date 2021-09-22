@@ -1,5 +1,7 @@
 # Hirotte Kudasai
 
+![hirotte-kudasai](https://cdn.myanimelist.net/images/manga/1/102335.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

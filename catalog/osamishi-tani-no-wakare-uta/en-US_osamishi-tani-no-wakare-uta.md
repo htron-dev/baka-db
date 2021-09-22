@@ -1,5 +1,7 @@
 # Osamishi Tani no Wakare Uta
 
+![osamishi-tani-no-wakare-uta](https://cdn.myanimelist.net/images/anime/6/72050.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: お淋し谷の別れ唄

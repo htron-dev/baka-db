@@ -1,5 +1,7 @@
 # Tanpen Unico: Kuroi Kumo to Shiroi Hane
 
+![tanpen-unico-kuroi-kumo-to-shiroi-hane](https://cdn.myanimelist.net/images/anime/1470/111870.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 短編ユニコ 黒い雲と白い羽
@@ -9,7 +11,6 @@
 ## Tags
 
 -   adventure
-
 -   fantasy
 
 ## Sinopse

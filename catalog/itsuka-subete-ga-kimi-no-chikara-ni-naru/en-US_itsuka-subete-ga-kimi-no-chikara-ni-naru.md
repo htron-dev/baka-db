@@ -1,5 +1,7 @@
 # Itsuka Subete ga Kimi no Chikara ni Naru
 
+![itsuka-subete-ga-kimi-no-chikara-ni-naru](https://cdn.myanimelist.net/images/manga/1/216366.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

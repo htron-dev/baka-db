@@ -1,5 +1,7 @@
 # Ao no Exorcist
 
+![ao-no-exorcist](https://cdn.myanimelist.net/images/manga/2/188810.jpg)
+
 -   **type**: manga
 -   **original-name**: 青の祓魔師〈エクソシスト〉
 -   **start-date**: 2009-04-04

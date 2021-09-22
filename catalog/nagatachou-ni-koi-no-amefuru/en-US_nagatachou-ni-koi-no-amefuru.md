@@ -1,5 +1,7 @@
 # Nagatachou ni Koi no Amefuru
 
+![nagatachou-ni-koi-no-amefuru](https://cdn.myanimelist.net/images/manga/1/13977.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

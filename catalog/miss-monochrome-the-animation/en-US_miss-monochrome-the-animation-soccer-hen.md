@@ -1,5 +1,7 @@
 # Miss Monochrome The Animation: Soccer-hen
 
+![miss-monochrome-the-animation-soccer-hen](https://cdn.myanimelist.net/images/anime/10/63625.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 「ミス・モノクローム -The Animation-」OVA サッカー篇

@@ -1,5 +1,7 @@
 # Girls Saurus DX
 
+![girls-saurus-dx](https://cdn.myanimelist.net/images/manga/2/25516.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 66

@@ -1,5 +1,7 @@
 # Omoi Tattara Chichijitsu
 
+![omoi-tattara-chichijitsu](https://cdn.myanimelist.net/images/manga/2/48337.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

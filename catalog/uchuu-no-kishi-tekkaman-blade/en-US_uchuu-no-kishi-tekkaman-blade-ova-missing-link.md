@@ -1,5 +1,7 @@
 # Uchuu no Kishi Tekkaman Blade OVA: Missing Link
 
+![uchuu-no-kishi-tekkaman-blade-ova-missing-link](https://cdn.myanimelist.net/images/anime/4/51083.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 宇宙の騎士テッカマンブレード

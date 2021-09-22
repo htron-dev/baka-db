@@ -1,5 +1,7 @@
 # Copihan: Urino to Ryooma no Gougai desu yo!
 
+![copihan-urino-to-ryooma-no-gougai-desu-yo](https://cdn.myanimelist.net/images/manga/3/109045.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: こぴはん -瓜野とりょーまの号外ですよっ！-

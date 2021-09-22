@@ -1,5 +1,7 @@
 # Gozen 0-ji Himitsu no Kiss: Office de Hajimeru Mitsuiro Zangyou
 
+![gozen-0-ji-himitsu-no-kiss-office-de-hajimeru-mitsuiro-zangyou](https://cdn.myanimelist.net/images/manga/3/240281.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

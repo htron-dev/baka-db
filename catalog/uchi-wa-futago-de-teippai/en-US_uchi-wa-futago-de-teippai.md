@@ -1,5 +1,7 @@
 # Uchi wa Futago de Teippai!
 
+![uchi-wa-futago-de-teippai](https://cdn.myanimelist.net/images/manga/2/161088.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

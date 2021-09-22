@@ -1,5 +1,7 @@
 # Ryuu wo Itadaku Mono
 
+![ryuu-wo-itadaku-mono](https://cdn.myanimelist.net/images/manga/3/23692.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

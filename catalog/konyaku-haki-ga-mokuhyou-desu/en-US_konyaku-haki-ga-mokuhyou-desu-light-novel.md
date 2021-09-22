@@ -1,5 +1,7 @@
 # Konyaku Haki ga Mokuhyou desu!
 
+![konyaku-haki-ga-mokuhyou-desu](https://cdn.myanimelist.net/images/manga/3/241660.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 婚約破棄が目標です!

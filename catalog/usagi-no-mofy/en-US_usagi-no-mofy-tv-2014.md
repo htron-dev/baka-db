@@ -1,5 +1,7 @@
 # Usagi no Mofy (TV 2014)
 
+![usagi-no-mofy-tv-2014](https://cdn.myanimelist.net/images/anime/1411/104116.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: うさぎのモフィ

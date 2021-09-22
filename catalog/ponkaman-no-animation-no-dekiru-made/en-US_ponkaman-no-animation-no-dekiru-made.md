@@ -1,5 +1,7 @@
 # Ponkaman no Animation no Dekiru made
 
+![ponkaman-no-animation-no-dekiru-made](https://cdn.myanimelist.net/images/anime/10/84969.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ポンカンマンのアニメーションのできるまで

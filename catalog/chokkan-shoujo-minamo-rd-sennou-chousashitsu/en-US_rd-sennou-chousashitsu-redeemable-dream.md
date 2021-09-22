@@ -1,5 +1,7 @@
 # RD Sennou Chousashitsu Redeemable Dream
 
+![rd-sennou-chousashitsu-redeemable-dream](https://cdn.myanimelist.net/images/manga/2/40354.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ＲＤ 潜脳調査室　 Redeemable Dream

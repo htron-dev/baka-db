@@ -1,5 +1,7 @@
 # Jintai no Survival!
 
+![jintai-no-survival](https://cdn.myanimelist.net/images/anime/1419/108415.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 人体のサバイバル!

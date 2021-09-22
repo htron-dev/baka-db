@@ -1,5 +1,7 @@
 # Love Comedy no You ni
 
+![love-comedy-no-you-ni](https://cdn.myanimelist.net/images/manga/1/7691.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

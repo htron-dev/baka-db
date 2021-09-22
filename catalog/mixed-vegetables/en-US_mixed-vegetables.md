@@ -1,5 +1,7 @@
 # Mixed Vegetables
 
+![mixed-vegetables](https://cdn.myanimelist.net/images/manga/1/126049.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 54

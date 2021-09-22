@@ -1,5 +1,7 @@
 # Otogi Kitan: Mouja to Kikoku no Kaiitan
 
+![otogi-kitan-mouja-to-kikoku-no-kaiitan](https://cdn.myanimelist.net/images/manga/1/160902.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: お伽鬼譚 亡者と鬼哭の怪異譚

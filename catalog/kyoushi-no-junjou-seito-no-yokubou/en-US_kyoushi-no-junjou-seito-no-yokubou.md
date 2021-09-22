@@ -1,5 +1,7 @@
 # Kyoushi no Junjou Seito no Yokubou
 
+![kyoushi-no-junjou-seito-no-yokubou](https://cdn.myanimelist.net/images/manga/3/142025.jpg)
+
 -   **type**: manga
 -   **original-name**: 教師の純情 生徒の欲望
 -   **start-date**: 2013-12-13

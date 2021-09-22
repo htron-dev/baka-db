@@ -1,5 +1,7 @@
 # Sukusuku Otokonoko
 
+![sukusuku-otokonoko](https://cdn.myanimelist.net/images/manga/1/20011.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

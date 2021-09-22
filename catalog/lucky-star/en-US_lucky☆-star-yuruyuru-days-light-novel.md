@@ -1,5 +1,7 @@
 # Lucky☆Star: Yuruyuru Days
 
+![lucky☆-star-yuruyuru-days](https://cdn.myanimelist.net/images/manga/2/161435.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: らき ☆ すた ゆるゆるでぃず

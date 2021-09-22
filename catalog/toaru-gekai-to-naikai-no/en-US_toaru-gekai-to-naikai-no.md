@@ -1,5 +1,7 @@
 # Toaru Gekai to Naikai no.
 
+![toaru-gekai-to-naikai-no](https://cdn.myanimelist.net/images/manga/3/88751.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

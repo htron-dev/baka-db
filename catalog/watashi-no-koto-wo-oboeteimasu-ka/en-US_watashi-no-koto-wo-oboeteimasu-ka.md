@@ -1,5 +1,7 @@
 # Watashi no Koto wo Oboeteimasu ka
 
+![watashi-no-koto-wo-oboeteimasu-ka](https://cdn.myanimelist.net/images/manga/3/242422.jpg)
+
 -   **type**: manga
 -   **original-name**: 私のことを憶えていますか
 -   **start-date**: 2020-04-29

@@ -1,5 +1,7 @@
 # Sore ga Seiyuu!
 
+![sore-ga-seiyuu](https://cdn.myanimelist.net/images/anime/7/75198.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: それが声優！

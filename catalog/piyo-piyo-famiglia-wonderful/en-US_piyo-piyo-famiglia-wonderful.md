@@ -1,5 +1,7 @@
 # Piyo Piyo Famiglia Wonderful
 
+![piyo-piyo-famiglia-wonderful](https://cdn.myanimelist.net/images/manga/2/150826.jpg)
+
 -   **type**: manga
 -   **original-name**: ぴよぴよファミリア ワンダフル
 

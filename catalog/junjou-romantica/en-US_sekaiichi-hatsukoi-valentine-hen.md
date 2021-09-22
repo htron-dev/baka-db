@@ -1,5 +1,7 @@
 # Sekaiichi Hatsukoi: Valentine-hen
 
+![sekaiichi-hatsukoi-valentine-hen](https://cdn.myanimelist.net/images/anime/5/55723.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 世界一初恋～バレンタイン編～

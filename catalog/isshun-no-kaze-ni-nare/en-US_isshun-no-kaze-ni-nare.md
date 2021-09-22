@@ -1,5 +1,7 @@
 # Isshun no Kaze ni Nare
 
+![isshun-no-kaze-ni-nare](https://cdn.myanimelist.net/images/manga/3/199608.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 38

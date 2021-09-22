@@ -1,5 +1,7 @@
 # Daemon no Shokutaku
 
+![daemon-no-shokutaku](https://cdn.myanimelist.net/images/manga/1/108793.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

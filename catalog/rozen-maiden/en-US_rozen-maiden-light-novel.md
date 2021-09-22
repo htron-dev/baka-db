@@ -1,5 +1,7 @@
 # Rozen Maiden
 
+![rozen-maiden](https://cdn.myanimelist.net/images/manga/3/155635.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: ローゼンメイデン

@@ -1,5 +1,7 @@
 # Mugen Utamaro
 
+![mugen-utamaro](https://cdn.myanimelist.net/images/manga/1/70359.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

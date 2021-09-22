@@ -1,5 +1,7 @@
 # Hanasaki Kanon
 
+![hanasaki-kanon](https://cdn.myanimelist.net/images/manga/3/82698.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

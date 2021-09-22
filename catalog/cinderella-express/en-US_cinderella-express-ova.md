@@ -1,5 +1,7 @@
 # Cinderella Express
 
+![cinderella-express](https://cdn.myanimelist.net/images/anime/2/14558.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: シンデレラ エクスプレス

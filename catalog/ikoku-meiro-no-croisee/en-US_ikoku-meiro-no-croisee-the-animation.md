@@ -1,5 +1,7 @@
 # Ikoku Meiro no Croisée The Animation
 
+![ikoku-meiro-no-croisee-the-animation](https://cdn.myanimelist.net/images/anime/6/74051.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 異国迷路のクロワーゼ The Animation

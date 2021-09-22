@@ -1,5 +1,7 @@
 # Umineko no Naku Koro ni - Episode 2: Turn of the Golden Witch
 
+![umineko-no-naku-koro-ni-episode-2-turn-of-the-golden-witch](https://cdn.myanimelist.net/images/manga/1/21284.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 28

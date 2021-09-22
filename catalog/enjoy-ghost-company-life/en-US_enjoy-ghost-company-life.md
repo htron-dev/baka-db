@@ -1,5 +1,7 @@
 # Enjoy Ghost Company Life!
 
+![enjoy-ghost-company-life](https://cdn.myanimelist.net/images/manga/3/164434.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 

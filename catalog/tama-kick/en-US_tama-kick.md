@@ -1,5 +1,7 @@
 # Tama Kick
 
+![tama-kick](https://cdn.myanimelist.net/images/manga/2/205695.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 29

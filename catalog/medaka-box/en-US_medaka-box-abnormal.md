@@ -1,5 +1,7 @@
 # Medaka Box Abnormal
 
+![medaka-box-abnormal](https://cdn.myanimelist.net/images/anime/11/62919.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: めだかボックス アブノーマル

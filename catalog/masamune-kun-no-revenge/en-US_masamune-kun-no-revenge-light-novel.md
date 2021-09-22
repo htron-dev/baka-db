@@ -1,5 +1,7 @@
 # Masamune-kun no Revenge
 
+![masamune-kun-no-revenge](https://cdn.myanimelist.net/images/manga/1/158557.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 政宗くんのリベンジ

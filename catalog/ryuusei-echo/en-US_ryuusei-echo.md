@@ -1,5 +1,7 @@
 # Ryuusei Echo
 
+![ryuusei-echo](https://cdn.myanimelist.net/images/manga/1/79491.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

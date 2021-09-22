@@ -1,5 +1,7 @@
 # Yebisu Celebrities: Kuge x Masunaga Ver.
 
+![yebisu-celebrities-kuge-x-masunaga-ver](https://cdn.myanimelist.net/images/manga/2/225672.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

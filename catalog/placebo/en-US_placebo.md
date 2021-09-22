@@ -1,5 +1,7 @@
 # Placebo
 
+![placebo](https://cdn.myanimelist.net/images/manga/5/18926.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: プラッシーボ

@@ -1,5 +1,7 @@
 # Yuri-iro Alice to Shiro Usagi
 
+![yuri-iro-alice-to-shiro-usagi](https://cdn.myanimelist.net/images/manga/2/158705.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

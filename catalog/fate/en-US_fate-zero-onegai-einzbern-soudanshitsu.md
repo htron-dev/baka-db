@@ -1,5 +1,7 @@
 # Fate/Zero: Onegai! Einzbern Soudanshitsu
 
+![fate-zero-onegai-einzbern-soudanshitsu](https://cdn.myanimelist.net/images/anime/4/64273.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: お願い!アインツベルン相談室

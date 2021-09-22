@@ -1,5 +1,7 @@
 # Cat Shit One 80
 
+![cat-shit-one-80](https://cdn.myanimelist.net/images/manga/3/167673.jpg)
+
 -   **type**: manga
 
 ## Tags

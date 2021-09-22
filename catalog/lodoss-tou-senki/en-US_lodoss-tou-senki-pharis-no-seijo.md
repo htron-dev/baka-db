@@ -1,5 +1,7 @@
 # Lodoss-tou Senki: Pharis no Seijo
 
+![lodoss-tou-senki-pharis-no-seijo](https://cdn.myanimelist.net/images/manga/1/135807.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

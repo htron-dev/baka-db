@@ -1,5 +1,7 @@
 # Teinei ni Koishite
 
+![teinei-ni-koishite](https://cdn.myanimelist.net/images/manga/1/210287.jpg)
+
 -   **type**: manga
 -   **chapters**: 11
 -   **original-name**: 丁寧に恋して

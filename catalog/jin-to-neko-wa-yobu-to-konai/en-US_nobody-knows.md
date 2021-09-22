@@ -1,5 +1,7 @@
 # Nobody Knows
 
+![nobody-knows](https://cdn.myanimelist.net/images/manga/1/28691.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Nobody Knows

@@ -1,5 +1,7 @@
 # Bokura wa Tsuyoki na Runner da!!
 
+![bokura-wa-tsuyoki-na-runner-da](https://cdn.myanimelist.net/images/manga/3/28240.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 僕らは強気なＲＵＮＮＥＲだ！

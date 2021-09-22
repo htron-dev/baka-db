@@ -1,5 +1,7 @@
 # Real de Level-age shitara Hobo Cheat na Jinsei ni Natta
 
+![real-de-level-age-shitara-hobo-cheat-na-jinsei-ni-natta](https://cdn.myanimelist.net/images/manga/1/177288.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 10

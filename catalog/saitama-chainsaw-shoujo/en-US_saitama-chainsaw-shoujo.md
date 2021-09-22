@@ -1,5 +1,7 @@
 # Saitama Chainsaw Shoujo
 
+![saitama-chainsaw-shoujo](https://cdn.myanimelist.net/images/manga/4/28837.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

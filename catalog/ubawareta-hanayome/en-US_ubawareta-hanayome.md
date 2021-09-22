@@ -1,5 +1,7 @@
 # Ubawareta Hanayome
 
+![ubawareta-hanayome](https://cdn.myanimelist.net/images/manga/2/72535.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 奪われた花嫁

@@ -1,5 +1,7 @@
 # Shinigami Trilogy
 
+![shinigami-trilogy](https://cdn.myanimelist.net/images/manga/2/176440.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

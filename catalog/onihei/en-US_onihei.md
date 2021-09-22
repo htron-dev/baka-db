@@ -1,5 +1,7 @@
 # Onihei
 
+![onihei](https://cdn.myanimelist.net/images/anime/2/83758.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 鬼平

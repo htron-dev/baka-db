@@ -1,5 +1,7 @@
 # Sakura no Uta
 
+![sakura-no-uta](https://cdn.myanimelist.net/images/manga/1/150562.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

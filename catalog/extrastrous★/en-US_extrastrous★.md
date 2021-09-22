@@ -1,5 +1,7 @@
 # Extrastrous★
 
+![extrastrous★](https://cdn.myanimelist.net/images/manga/1/140487.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Hachi-nan tte, Sore wa Nai deshou!
 
+![hachi-nan-tte-sore-wa-nai-deshou](https://cdn.myanimelist.net/images/anime/1834/110718.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 八男って、それはないでしょう！

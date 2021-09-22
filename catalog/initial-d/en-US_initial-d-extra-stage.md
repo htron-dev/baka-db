@@ -1,5 +1,7 @@
 # Initial D Extra Stage
 
+![initial-d-extra-stage](https://cdn.myanimelist.net/images/anime/8/13169.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 頭文字〈イニシャル〉D EXTRA STAGE

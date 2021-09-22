@@ -1,5 +1,7 @@
 # Houkago no Seijo-san ga Toutoi dake ja Nai Koto wo Ore wa Shitteiru
 
+![houkago-no-seijo-san-ga-toutoi-dake-ja-nai-koto-wo-ore-wa-shitteiru](https://cdn.myanimelist.net/images/manga/3/247301.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 放課後の聖女さんが尊いだけじゃないことを俺は知っている
 -   **start-date**: 2021-05-20

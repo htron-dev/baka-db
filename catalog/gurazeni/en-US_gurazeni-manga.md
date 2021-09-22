@@ -1,5 +1,7 @@
 # Gurazeni
 
+![gurazeni](https://cdn.myanimelist.net/images/manga/2/149160.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 84

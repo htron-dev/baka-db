@@ -1,5 +1,7 @@
 # Pokemon Movie 18: Ring no Choumajin Hoopa
 
+![pokemon-movie-18-ring-no-choumajin-hoopa](https://cdn.myanimelist.net/images/anime/4/72143.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ポケモン・ザ・ムービー XY『光輪（リング）の超魔神 フーパ』

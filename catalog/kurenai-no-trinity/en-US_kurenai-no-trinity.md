@@ -1,5 +1,7 @@
 # Kurenai no Trinity
 
+![kurenai-no-trinity](https://cdn.myanimelist.net/images/manga/3/132485.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: 紅のトリニティ

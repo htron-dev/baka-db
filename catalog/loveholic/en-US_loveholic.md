@@ -1,5 +1,7 @@
 # Loveholic
 
+![loveholic](https://cdn.myanimelist.net/images/manga/3/31096.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

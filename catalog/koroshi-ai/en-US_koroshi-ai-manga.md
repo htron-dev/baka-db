@@ -1,5 +1,7 @@
 # Koroshi Ai
 
+![koroshi-ai](https://cdn.myanimelist.net/images/manga/2/192048.jpg)
+
 -   **type**: manga
 -   **original-name**: 殺し愛
 -   **start-date**: 2015-10-15

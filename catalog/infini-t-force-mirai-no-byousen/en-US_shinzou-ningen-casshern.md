@@ -1,5 +1,7 @@
 # Shinzou Ningen Casshern
 
+![shinzou-ningen-casshern](https://cdn.myanimelist.net/images/anime/7/60395.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 35
 -   **original-name**: 新造人間キャシャーン

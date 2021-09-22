@@ -1,5 +1,7 @@
 # Meisen no Dragoon
 
+![meisen-no-dragoon](https://cdn.myanimelist.net/images/manga/2/189152.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

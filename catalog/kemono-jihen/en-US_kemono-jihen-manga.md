@@ -1,5 +1,7 @@
 # Kemono Jihen
 
+![kemono-jihen](https://cdn.myanimelist.net/images/manga/3/192907.jpg)
+
 -   **type**: manga
 -   **original-name**: 怪物事変
 -   **start-date**: 2016-12-02

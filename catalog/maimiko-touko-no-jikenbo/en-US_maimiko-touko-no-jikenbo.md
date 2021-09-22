@@ -1,5 +1,7 @@
 # Maimiko: Touko no Jikenbo
 
+![maimiko-touko-no-jikenbo](https://cdn.myanimelist.net/images/manga/1/16317.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

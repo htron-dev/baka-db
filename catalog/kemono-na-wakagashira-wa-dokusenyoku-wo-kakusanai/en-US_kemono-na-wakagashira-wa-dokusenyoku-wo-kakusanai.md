@@ -1,5 +1,7 @@
 # Kemono na Wakagashira wa Dokusenyoku wo Kakusanai
 
+![kemono-na-wakagashira-wa-dokusenyoku-wo-kakusanai](https://cdn.myanimelist.net/images/manga/2/201325.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ケモノな若頭は独占欲を隠さない

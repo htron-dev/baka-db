@@ -1,5 +1,7 @@
 # Hyakujuu-Ou GoLion
 
+![hyakujuu-ou-go-lion](https://cdn.myanimelist.net/images/anime/2/51647.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 百獣王ゴライオン

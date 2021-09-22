@@ -1,5 +1,7 @@
 # Dekoboko Girlish
 
+![dekoboko-girlish](https://cdn.myanimelist.net/images/manga/1/184372.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 43

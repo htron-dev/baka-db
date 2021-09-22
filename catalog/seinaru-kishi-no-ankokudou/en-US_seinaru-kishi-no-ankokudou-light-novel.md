@@ -1,5 +1,7 @@
 # Seinaru Kishi no Ankokudou
 
+![seinaru-kishi-no-ankokudou](https://cdn.myanimelist.net/images/manga/1/228704.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 聖なる騎士の暗黒道
 -   **start-date**: 2019-03-01

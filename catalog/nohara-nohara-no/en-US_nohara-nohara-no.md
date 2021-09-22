@@ -1,5 +1,7 @@
 # Nohara Nohara no
 
+![nohara-nohara-no](https://cdn.myanimelist.net/images/manga/2/83495.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

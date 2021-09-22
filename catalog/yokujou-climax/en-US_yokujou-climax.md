@@ -1,5 +1,7 @@
 # Yokujou Climax
 
+![yokujou-climax](https://cdn.myanimelist.net/images/manga/4/17963.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 48

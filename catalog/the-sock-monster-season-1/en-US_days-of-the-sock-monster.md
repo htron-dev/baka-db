@@ -1,5 +1,7 @@
 # Days of the Sock Monster
 
+![days-of-the-sock-monster](https://cdn.myanimelist.net/images/manga/1/205785.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Hachimitsu to Clover Spin-off
 
+![hachimitsu-to-clover-spin-off](https://cdn.myanimelist.net/images/manga/3/113233.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: ハチミツとクローバー スピンオフ

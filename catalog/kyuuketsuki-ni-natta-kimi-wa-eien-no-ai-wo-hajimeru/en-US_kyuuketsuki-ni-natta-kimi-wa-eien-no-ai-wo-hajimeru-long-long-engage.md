@@ -1,5 +1,7 @@
 # Kyuuketsuki ni Natta Kimi wa Eien no Ai wo Hajimeru: Long Long Engage
 
+![kyuuketsuki-ni-natta-kimi-wa-eien-no-ai-wo-hajimeru-long-long-engage](https://cdn.myanimelist.net/images/manga/2/186749.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

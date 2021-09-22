@@ -1,5 +1,7 @@
 # Tsubaki-chou Lonely Planet
 
+![tsubaki-chou-lonely-planet](https://cdn.myanimelist.net/images/manga/3/164273.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 85

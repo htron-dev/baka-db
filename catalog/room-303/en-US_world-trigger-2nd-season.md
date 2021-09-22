@@ -1,5 +1,7 @@
 # World Trigger 2nd Season
 
+![world-trigger-2nd-season](https://cdn.myanimelist.net/images/anime/1598/110462.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ワールドトリガー

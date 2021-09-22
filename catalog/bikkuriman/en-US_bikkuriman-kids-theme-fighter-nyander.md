@@ -1,5 +1,7 @@
 # Bikkuriman Kids: Theme Fighter Nyander
 
+![bikkuriman-kids-theme-fighter-nyander](https://cdn.myanimelist.net/images/anime/11/83676.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: ビックリマンキッズ　テーマファイターニャンダー

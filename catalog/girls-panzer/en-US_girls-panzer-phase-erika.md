@@ -1,5 +1,7 @@
 # Girls & Panzer: Phase Erika
 
+![girls-panzer-phase-erika](https://cdn.myanimelist.net/images/manga/2/191742.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

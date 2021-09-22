@@ -1,5 +1,7 @@
 # Dare yori mo Yasashii Anata no Tame ni
 
+![dare-yori-mo-yasashii-anata-no-tame-ni](https://cdn.myanimelist.net/images/manga/3/132049.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 誰よりも優しいあなたのために

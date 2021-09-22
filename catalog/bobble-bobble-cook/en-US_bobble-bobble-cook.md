@@ -1,5 +1,7 @@
 # Bobble Bobble Cook
 
+![bobble-bobble-cook](https://cdn.myanimelist.net/images/anime/1241/115325.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 보글보글 쿡
 -   **start-date**: 2010-03-20

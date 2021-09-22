@@ -1,5 +1,7 @@
 # Buggy Map
 
+![buggy-map](https://cdn.myanimelist.net/images/anime/1690/96921.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: BUGGY MAP

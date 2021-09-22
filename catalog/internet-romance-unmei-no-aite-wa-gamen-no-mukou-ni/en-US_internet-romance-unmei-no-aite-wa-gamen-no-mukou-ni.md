@@ -1,5 +1,7 @@
 # Internet Romance: Unmei no Aite wa Gamen no Mukou ni
 
+![internet-romance-unmei-no-aite-wa-gamen-no-mukou-ni](https://cdn.myanimelist.net/images/manga/1/196421.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: インターネットロマンス　運命の相手は画面の向こうに

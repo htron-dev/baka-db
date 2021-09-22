@@ -1,5 +1,7 @@
 # Hisureba
 
+![hisureba](https://cdn.myanimelist.net/images/manga/3/162496.jpg)
+
 -   **type**: manga
 -   **original-name**: 秘すれば
 -   **start-date**: 2014-09-30

@@ -1,5 +1,7 @@
 # Mémoires du Masque
 
+![memoires-du-masque](https://cdn.myanimelist.net/images/manga/1/26987.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Nuresobotsu Kurokami
 
+![nuresobotsu-kurokami](https://cdn.myanimelist.net/images/manga/3/237395.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

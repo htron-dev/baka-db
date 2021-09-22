@@ -1,5 +1,7 @@
 # Soba ni Oitene
 
+![soba-ni-oitene](https://cdn.myanimelist.net/images/manga/3/2180.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

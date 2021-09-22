@@ -1,5 +1,7 @@
 # G-senjou no Higeki
 
+![g-senjou-no-higeki](https://cdn.myanimelist.net/images/anime/13/64697.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: G 線上の悲劇

@@ -1,5 +1,7 @@
 # Manga Hajimete Omoshiro Juku OVA
 
+![manga-hajimete-omoshiro-juku-ova](https://cdn.myanimelist.net/images/anime/12/72571.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: まんがはじめて面白塾

@@ -1,5 +1,7 @@
 # Boku no Higeyome
 
+![boku-no-higeyome](https://cdn.myanimelist.net/images/manga/3/26344.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

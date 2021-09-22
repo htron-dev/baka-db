@@ -1,5 +1,7 @@
 # Lotus Eater
 
+![lotus-eater](https://cdn.myanimelist.net/images/manga/3/26543.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

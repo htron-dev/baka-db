@@ -1,5 +1,7 @@
 # Kagayake! Yuujou no V Sign
 
+![kagayake-yuujou-no-v-sign](https://cdn.myanimelist.net/images/anime/3/61381.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 輝け!友情の V サイン

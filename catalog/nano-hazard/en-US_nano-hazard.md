@@ -1,5 +1,7 @@
 # Nano Hazard
 
+![nano-hazard](https://cdn.myanimelist.net/images/manga/3/220020.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

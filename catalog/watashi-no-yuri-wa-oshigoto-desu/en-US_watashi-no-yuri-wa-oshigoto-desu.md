@@ -1,5 +1,7 @@
 # Watashi no Yuri wa Oshigoto desu!
 
+![watashi-no-yuri-wa-oshigoto-desu](https://cdn.myanimelist.net/images/manga/1/197358.jpg)
+
 -   **type**: manga
 -   **original-name**: 私の百合はお仕事です！
 -   **start-date**: 2016-11-18

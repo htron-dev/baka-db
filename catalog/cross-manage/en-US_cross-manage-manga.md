@@ -1,5 +1,7 @@
 # Cross Manage
 
+![cross-manage](https://cdn.myanimelist.net/images/manga/3/85841.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 43

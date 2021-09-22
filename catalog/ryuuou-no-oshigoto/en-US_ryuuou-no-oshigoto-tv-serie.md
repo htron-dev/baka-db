@@ -1,5 +1,7 @@
 # Ryuuou no Oshigoto!
 
+![ryuuou-no-oshigoto](https://cdn.myanimelist.net/images/anime/12/89979.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: りゅうおうのおしごと！

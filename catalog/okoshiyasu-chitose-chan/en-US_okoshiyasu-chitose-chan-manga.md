@@ -1,5 +1,7 @@
 # Okoshiyasu, Chitose-chan
 
+![okoshiyasu-chitose-chan](https://cdn.myanimelist.net/images/manga/3/242251.jpg)
+
 -   **type**: manga
 -   **original-name**: おこしやす、ちとせちゃん
 -   **start-date**: 2016-03-01

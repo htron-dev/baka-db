@@ -1,5 +1,7 @@
 # Yojouhan Shinwa Taikei
 
+![yojouhan-shinwa-taikei](https://cdn.myanimelist.net/images/anime/10/50457.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 四畳半神話大系

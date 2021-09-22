@@ -1,5 +1,7 @@
 # Yami wo Mitsumeru Hane
 
+![yami-wo-mitsumeru-hane](https://cdn.myanimelist.net/images/anime/9/18949.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 闇を見つめる羽根

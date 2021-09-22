@@ -1,5 +1,7 @@
 # ZOIDS: Wakusei Zi
 
+![zoids-wakusei-zi](https://cdn.myanimelist.net/images/manga/4/91511.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ZOIDS 惑星 Zi
@@ -9,7 +11,6 @@
 ## Tags
 
 -   action
-
 -   mecha
 -   sci-fi
 -   space

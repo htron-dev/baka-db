@@ -1,5 +1,7 @@
 # Shachiku-san to Iede Shoujo
 
+![shachiku-san-to-iede-shoujo](https://cdn.myanimelist.net/images/manga/1/235194.jpg)
+
 -   **type**: manga
 -   **original-name**: 社畜さんと家出少女
 -   **start-date**: 2018-07-19

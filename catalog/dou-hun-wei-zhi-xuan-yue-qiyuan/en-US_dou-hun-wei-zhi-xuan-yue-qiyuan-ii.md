@@ -1,5 +1,7 @@
 # Dou Hun Wei Zhi Xuan Yue Qiyuan II
 
+![dou-hun-wei-zhi-xuan-yue-qiyuan-ii](https://cdn.myanimelist.net/images/anime/1148/105446.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 斗魂卫之玄月奇缘 II

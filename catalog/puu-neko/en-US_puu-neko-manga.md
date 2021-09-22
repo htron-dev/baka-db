@@ -1,5 +1,7 @@
 # Puu-Neko
 
+![puu-neko](https://cdn.myanimelist.net/images/manga/1/51479.jpg)
+
 -   **type**: manga
 -   **original-name**: プ～ねこ
 

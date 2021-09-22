@@ -1,5 +1,7 @@
 # Suna ni Kieta Itsuwari no Chikai
 
+![suna-ni-kieta-itsuwari-no-chikai](https://cdn.myanimelist.net/images/manga/2/247197.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 砂に消えた偽りの誓い

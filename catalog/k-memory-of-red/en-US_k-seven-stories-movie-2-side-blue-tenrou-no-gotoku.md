@@ -1,5 +1,7 @@
 # K: Seven Stories Movie 2 - Side:Blue - Tenrou no Gotoku
 
+![k-seven-stories-movie-2-side-blue-tenrou-no-gotoku](https://cdn.myanimelist.net/images/anime/1640/90999.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: K Seven Stories SIDE:BLUE ~天狼の如く~
@@ -25,4 +27,4 @@ Gouki Zenjo, former right-hand man to Jin Habari and a survivor of the Kagutsu I
 -   [My Anime list](https://myanimelist.net/anime/37303/K__Seven_Stories_Movie_2_-_Side_Blue_-_Tenrou_no_Gotoku)
 -   [Official Site](http://k-project.jpn.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12107)
--   [Wikipedia](<https://en.wikipedia.org/wiki/K_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/K_%28anime%29)

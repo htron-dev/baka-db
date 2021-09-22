@@ -1,5 +1,7 @@
 # Dokyuu Hentai HxEros
 
+![dokyuu-hentai-hx-eros](https://cdn.myanimelist.net/images/manga/2/200321.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 61

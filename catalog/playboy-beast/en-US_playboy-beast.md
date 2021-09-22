@@ -1,5 +1,7 @@
 # Playboy Beast
 
+![playboy-beast](https://cdn.myanimelist.net/images/manga/1/244589.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

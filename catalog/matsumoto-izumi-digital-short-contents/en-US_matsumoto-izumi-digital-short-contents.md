@@ -1,5 +1,7 @@
 # Matsumoto Izumi Digital Short Contents
 
+![matsumoto-izumi-digital-short-contents](https://cdn.myanimelist.net/images/manga/2/21322.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

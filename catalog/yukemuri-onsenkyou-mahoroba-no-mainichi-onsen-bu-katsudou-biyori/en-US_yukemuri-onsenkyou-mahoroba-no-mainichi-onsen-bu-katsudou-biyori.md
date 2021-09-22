@@ -1,5 +1,7 @@
 # Yukemuri Onsenkyou Mahoroba no Mainichi: Onsen-bu Katsudou Biyori
 
+![yukemuri-onsenkyou-mahoroba-no-mainichi-onsen-bu-katsudou-biyori](https://cdn.myanimelist.net/images/manga/3/158214.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 湯けむり温泉郷まほろばの非日常〈まいにち〉 ~おんせん部活動日和~
 -   **start-date**: 2014-10-31

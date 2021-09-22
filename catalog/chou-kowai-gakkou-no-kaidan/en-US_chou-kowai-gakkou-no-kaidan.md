@@ -1,5 +1,7 @@
 # Chou Kowai Gakkou no Kaidan
 
+![chou-kowai-gakkou-no-kaidan](https://cdn.myanimelist.net/images/manga/3/36870.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 24

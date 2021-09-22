@@ -1,5 +1,7 @@
 # Chalk-iro no People
 
+![chalk-iro-no-people](https://cdn.myanimelist.net/images/anime/11/48001.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: チョーク色のピープル

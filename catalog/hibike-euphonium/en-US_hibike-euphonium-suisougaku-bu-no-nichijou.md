@@ -1,5 +1,7 @@
 # Hibike! Euphonium: Suisougaku-bu no Nichijou
 
+![hibike-euphonium-suisougaku-bu-no-nichijou](https://cdn.myanimelist.net/images/anime/5/74706.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: 響け！ユーフォニアム「吹奏楽部の日常」

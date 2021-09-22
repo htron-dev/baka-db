@@ -1,5 +1,7 @@
 # Hito wa Mitame ga 100 Percent
 
+![hito-wa-mitame-ga-100-percent](https://cdn.myanimelist.net/images/manga/1/191448.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 41

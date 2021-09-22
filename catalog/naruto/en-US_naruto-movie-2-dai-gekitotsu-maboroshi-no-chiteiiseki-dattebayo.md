@@ -1,5 +1,7 @@
 # Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!
 
+![naruto-movie-2-dai-gekitotsu-maboroshi-no-chiteiiseki-dattebayo](https://cdn.myanimelist.net/images/anime/11/76016.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版　 NARUTO 　大激突！幻の地底遺跡だってばよ

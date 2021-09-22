@@ -1,5 +1,7 @@
 # Zinba
 
+![zinba](https://cdn.myanimelist.net/images/anime/1613/110505.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 神魄

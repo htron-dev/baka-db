@@ -1,5 +1,7 @@
 # Mousou One-Room
 
+![mousou-one-room](https://cdn.myanimelist.net/images/manga/1/121573.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

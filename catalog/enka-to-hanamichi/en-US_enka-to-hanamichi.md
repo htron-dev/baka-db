@@ -1,5 +1,7 @@
 # Enka to Hanamichi
 
+![enka-to-hanamichi](https://cdn.myanimelist.net/images/manga/1/154801.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

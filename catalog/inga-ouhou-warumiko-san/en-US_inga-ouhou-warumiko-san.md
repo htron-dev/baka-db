@@ -1,5 +1,7 @@
 # Inga Ouhou!!? Warumiko-san
 
+![inga-ouhou-warumiko-san](https://cdn.myanimelist.net/images/manga/1/201652.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Tokushu Seiheki Kyoushitsu e Youkoso
 
+![tokushu-seiheki-kyoushitsu-e-youkoso](https://cdn.myanimelist.net/images/manga/3/219820.jpg)
+
 -   **type**: manga
 -   **original-name**: 特殊性癖教室へようこそ
 -   **start-date**: 2018-10-24

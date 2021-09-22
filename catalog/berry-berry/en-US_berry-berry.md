@@ -1,5 +1,7 @@
 # Berry Berry
 
+![berry-berry](https://cdn.myanimelist.net/images/manga/1/32774.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

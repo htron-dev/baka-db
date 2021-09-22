@@ -1,5 +1,7 @@
 # Ore to Issho ni Training
 
+![ore-to-issho-ni-training](https://cdn.myanimelist.net/images/anime/13/85716.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 俺と一緒にトレーニング

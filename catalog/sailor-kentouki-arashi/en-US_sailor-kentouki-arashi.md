@@ -1,5 +1,7 @@
 # Sailor Kentouki Arashi
 
+![sailor-kentouki-arashi](https://cdn.myanimelist.net/images/manga/2/129315.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: セーラー剣闘姫 嵐

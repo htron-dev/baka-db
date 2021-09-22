@@ -1,5 +1,7 @@
 # X-Gene
 
+![x-gene](https://cdn.myanimelist.net/images/manga/2/179572.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 33

@@ -1,5 +1,7 @@
 # Kagerou Daze Koushiki Anthology Comic: Upper
 
+![kagerou-daze-koushiki-anthology-comic-upper](https://cdn.myanimelist.net/images/manga/2/140059.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

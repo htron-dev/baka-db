@@ -1,5 +1,7 @@
 # Ouji-sama no Romance Lesson: Keiyaku wa Mitsu ni Oborete
 
+![ouji-sama-no-romance-lesson-keiyaku-wa-mitsu-ni-oborete](https://cdn.myanimelist.net/images/manga/1/193229.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

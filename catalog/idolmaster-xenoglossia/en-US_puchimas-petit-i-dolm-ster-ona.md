@@ -1,5 +1,7 @@
 # Puchimas!: Petit iDOLM@STER
 
+![puchimas-petit-i-dolm-ster](https://cdn.myanimelist.net/images/anime/6/44680.jpg)
+
 -   **type**: ona
 -   **episodes**: 64
 -   **original-name**: ぷちます！－プチ・アイドルマスター－

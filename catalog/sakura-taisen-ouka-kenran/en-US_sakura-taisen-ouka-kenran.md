@@ -1,5 +1,7 @@
 # Sakura Taisen: Ouka Kenran
 
+![sakura-taisen-ouka-kenran](https://cdn.myanimelist.net/images/anime/7/15969.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: サクラ大戦 ~桜華絢爛~

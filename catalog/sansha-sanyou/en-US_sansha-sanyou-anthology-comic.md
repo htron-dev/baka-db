@@ -1,5 +1,7 @@
 # Sansha Sanyou Anthology Comic
 
+![sansha-sanyou-anthology-comic](https://cdn.myanimelist.net/images/manga/3/193356.jpg)
+
 -   **type**: manga
 -   **original-name**: 三者三葉 アンソロジーコミック
 -   **start-date**: 2016-04-27

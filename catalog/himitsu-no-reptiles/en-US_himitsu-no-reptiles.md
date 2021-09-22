@@ -1,5 +1,7 @@
 # Himitsu no Reptiles
 
+![himitsu-no-reptiles](https://cdn.myanimelist.net/images/manga/3/183545.jpg)
+
 -   **type**: manga
 -   **original-name**: 秘密のレプタイルズ
 -   **start-date**: 2016-05-06

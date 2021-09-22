@@ -1,5 +1,7 @@
 # Nihon Seizetsushi
 
+![nihon-seizetsushi](https://cdn.myanimelist.net/images/manga/1/153063.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

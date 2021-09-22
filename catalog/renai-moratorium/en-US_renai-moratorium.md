@@ -1,5 +1,7 @@
 # Renai Moratorium
 
+![renai-moratorium](https://cdn.myanimelist.net/images/manga/2/114235.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 恋愛モラトリアム

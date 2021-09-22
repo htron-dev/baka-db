@@ -1,5 +1,7 @@
 # Yoshida no Time Slip Fumai-kou
 
+![yoshida-no-time-slip-fumai-kou](https://cdn.myanimelist.net/images/anime/1068/91680.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: 吉田のタイムスリップ不昧公

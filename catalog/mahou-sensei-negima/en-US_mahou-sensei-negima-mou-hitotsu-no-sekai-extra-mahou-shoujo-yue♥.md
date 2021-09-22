@@ -1,5 +1,7 @@
 # Mahou Sensei Negima!: Mou Hitotsu no Sekai Extra - Mahou Shoujo Yue♥
 
+![mahou-sensei-negima-mou-hitotsu-no-sekai-extra-mahou-shoujo-yue♥](https://cdn.myanimelist.net/images/anime/2/29245.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 魔法先生ネギま! もうひとつの世界 Extra 魔法少女ユエ ♥

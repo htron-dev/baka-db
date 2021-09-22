@@ -1,5 +1,7 @@
 # Joukei
 
+![joukei](https://cdn.myanimelist.net/images/anime/1978/98748.jpg)
+
 -   **type**: movie
 -   **episodes**: 7
 -   **original-name**: 情景

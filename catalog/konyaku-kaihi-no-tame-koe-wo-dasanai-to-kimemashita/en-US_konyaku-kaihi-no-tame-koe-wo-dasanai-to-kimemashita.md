@@ -1,5 +1,7 @@
 # Konyaku Kaihi no Tame, Koe wo Dasanai to Kimemashita!!
 
+![konyaku-kaihi-no-tame-koe-wo-dasanai-to-kimemashita](https://cdn.myanimelist.net/images/manga/3/240708.jpg)
+
 -   **type**: manga
 -   **original-name**: 婚約回避のため、声を出さないと決めました!!
 -   **start-date**: 2020-09-08

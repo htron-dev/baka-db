@@ -1,5 +1,7 @@
 # Hyakujitsu no Bara
 
+![hyakujitsu-no-bara](https://cdn.myanimelist.net/images/manga/1/170888.jpg)
+
 -   **type**: manga
 -   **original-name**: 百日の薔薇
 -   **start-date**: 2004-06-28

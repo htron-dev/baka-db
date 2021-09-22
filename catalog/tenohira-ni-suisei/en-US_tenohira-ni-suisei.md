@@ -1,5 +1,7 @@
 # Tenohira ni Suisei
 
+![tenohira-ni-suisei](https://cdn.myanimelist.net/images/manga/3/151267.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: てのひらに彗星

@@ -1,5 +1,7 @@
 # Dragon Ball SD
 
+![dragon-ball-sd](https://cdn.myanimelist.net/images/manga/2/135399.jpg)
+
 -   **type**: manga
 -   **original-name**: ドラゴンボール SD
 -   **start-date**: 2010-12-03

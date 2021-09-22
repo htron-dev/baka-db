@@ -1,5 +1,7 @@
 # Tsuribaka Nisshi
 
+![tsuribaka-nisshi](https://cdn.myanimelist.net/images/manga/3/244503.jpg)
+
 -   **type**: manga
 -   **original-name**: 釣りバカ日誌
 

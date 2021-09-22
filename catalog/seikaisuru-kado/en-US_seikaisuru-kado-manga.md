@@ -1,5 +1,7 @@
 # Seikaisuru Kado
 
+![seikaisuru-kado](https://cdn.myanimelist.net/images/manga/1/197608.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

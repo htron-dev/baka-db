@@ -1,5 +1,7 @@
 # Kantai Collection 4-koma Comic: Fubuki, Ganbarimasu!
 
+![kantai-collection-4-koma-comic-fubuki-ganbarimasu](https://cdn.myanimelist.net/images/manga/1/108365.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **original-name**: 艦隊これくしょん -艦これ- 4 コマコミック 吹雪、がんばります!

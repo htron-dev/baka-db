@@ -1,5 +1,7 @@
 # Shiikuin-san wa Isekai de Doubutsuen Tsukuritai no de Monster wo Tenazukeru
 
+![shiikuin-san-wa-isekai-de-doubutsuen-tsukuritai-no-de-monster-wo-tenazukeru](https://cdn.myanimelist.net/images/manga/3/235611.jpg)
+
 -   **type**: manga
 -   **original-name**: 飼育員さんは異世界で動物園造りたいのでモンスターを手懐ける
 -   **start-date**: 2019-12-26

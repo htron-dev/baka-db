@@ -1,5 +1,7 @@
 # Yuzu chu♥
 
+![yuzu-chu♥](https://cdn.myanimelist.net/images/manga/2/77827.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

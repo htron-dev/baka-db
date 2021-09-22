@@ -1,5 +1,7 @@
 # Fresh Precure!
 
+![fresh-precure](https://cdn.myanimelist.net/images/manga/3/181256.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Kandachime
 
+![kandachime](https://cdn.myanimelist.net/images/manga/3/52913.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 45

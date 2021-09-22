@@ -1,5 +1,7 @@
 # Mahou? Sonna Koto yori Kinniku da!
 
+![mahou-sonna-koto-yori-kinniku-da](https://cdn.myanimelist.net/images/manga/3/215076.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

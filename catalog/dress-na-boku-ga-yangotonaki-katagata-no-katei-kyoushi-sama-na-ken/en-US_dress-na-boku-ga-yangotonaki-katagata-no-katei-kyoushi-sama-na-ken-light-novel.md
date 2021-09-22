@@ -1,5 +1,7 @@
 # Dress na Boku ga Yangotonaki Katagata no Katei Kyoushi-sama na Ken
 
+![dress-na-boku-ga-yangotonaki-katagata-no-katei-kyoushi-sama-na-ken](https://cdn.myanimelist.net/images/manga/3/103877.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 8
 -   **chapters**: 46

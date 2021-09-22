@@ -1,5 +1,7 @@
 # Kouya no Kotobuki Hikoutai
 
+![kouya-no-kotobuki-hikoutai](https://cdn.myanimelist.net/images/anime/1252/96179.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 荒野のコトブキ飛行隊

@@ -1,5 +1,7 @@
 # Kyoro-chan no Jishin Youjin Hi no Youjin
 
+![kyoro-chan-no-jishin-youjin-hi-no-youjin](https://cdn.myanimelist.net/images/anime/5/68959.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: キョロちゃんの 地震用心・火の用心

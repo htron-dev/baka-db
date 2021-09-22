@@ -1,5 +1,7 @@
 # Hisuikyou Kitan
 
+![hisuikyou-kitan](https://cdn.myanimelist.net/images/manga/3/36018.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

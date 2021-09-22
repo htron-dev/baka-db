@@ -1,5 +1,7 @@
 # Papa datte, Shitai
 
+![papa-datte-shitai](https://cdn.myanimelist.net/images/anime/1273/97100.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 8
 -   **original-name**: パパだって, したい

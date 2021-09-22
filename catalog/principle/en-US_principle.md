@@ -1,5 +1,7 @@
 # Principle
 
+![principle](https://cdn.myanimelist.net/images/manga/1/220651.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

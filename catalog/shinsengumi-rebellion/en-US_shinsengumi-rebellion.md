@@ -1,5 +1,7 @@
 # Shinsengumi Rebellion
 
+![shinsengumi-rebellion](https://cdn.myanimelist.net/images/manga/2/203276.jpg)
+
 -   **type**: manga
 -   **original-name**: 新選組リベリオン
 -   **start-date**: 2017-11-14

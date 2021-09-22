@@ -1,5 +1,7 @@
 # Actress Act
 
+![actress-act](https://cdn.myanimelist.net/images/manga/2/223720.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

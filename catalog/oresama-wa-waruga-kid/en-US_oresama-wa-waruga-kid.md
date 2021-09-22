@@ -1,5 +1,7 @@
 # Oresama wa Waruga Kid
 
+![oresama-wa-waruga-kid](https://cdn.myanimelist.net/images/manga/1/140183.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: オレ様はワルガキッド

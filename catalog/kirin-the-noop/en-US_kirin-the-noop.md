@@ -1,5 +1,7 @@
 # Kirin the Noop
 
+![kirin-the-noop](https://cdn.myanimelist.net/images/anime/13/86110.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: キリン・ザ・ヌープ
 -   **start-date**: 2014-02-06

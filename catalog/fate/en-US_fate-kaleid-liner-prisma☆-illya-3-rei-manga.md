@@ -1,5 +1,7 @@
 # Fate/kaleid liner Prisma☆Illya 3rei!!
 
+![fate-kaleid-liner-prisma☆-illya-3-rei](https://cdn.myanimelist.net/images/manga/4/80841.jpg)
+
 -   **type**: manga
 -   **original-name**: Fate/kaleid liner プリズマ ☆ イリヤ ドライ!!
 -   **start-date**: 2012-05-26

@@ -1,5 +1,7 @@
 # Milky Boy
 
+![milky-boy](https://cdn.myanimelist.net/images/manga/1/18503.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 

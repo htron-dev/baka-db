@@ -1,5 +1,7 @@
 # Paracelsus no Musume
 
+![paracelsus-no-musume](https://cdn.myanimelist.net/images/manga/1/163255.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **original-name**: パラケルススの娘

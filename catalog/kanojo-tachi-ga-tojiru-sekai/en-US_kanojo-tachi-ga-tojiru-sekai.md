@@ -1,5 +1,7 @@
 # Kanojo-tachi ga Tojiru Sekai
 
+![kanojo-tachi-ga-tojiru-sekai](https://cdn.myanimelist.net/images/manga/1/185806.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Choujikuu Yousai Macross II: Lovers Again
 
+![choujikuu-yousai-macross-ii-lovers-again](https://cdn.myanimelist.net/images/manga/1/199649.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

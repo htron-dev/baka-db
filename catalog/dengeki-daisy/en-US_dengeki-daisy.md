@@ -1,5 +1,7 @@
 # Dengeki Daisy
 
+![dengeki-daisy](https://cdn.myanimelist.net/images/manga/1/152369.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 80

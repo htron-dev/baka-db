@@ -1,5 +1,7 @@
 # Ohi-sama to Kaeru
 
+![ohi-sama-to-kaeru](https://cdn.myanimelist.net/images/anime/4/15831.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: お日様と蛙

@@ -1,5 +1,7 @@
 # Go! Princess Precure
 
+![go-princess-precure](https://cdn.myanimelist.net/images/anime/10/88625.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: Go! プリンセスプリキュア

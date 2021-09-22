@@ -1,5 +1,7 @@
 # Moribito Series
 
+![moribito-series](https://cdn.myanimelist.net/images/manga/3/32395.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **original-name**: 守り人シリーズ

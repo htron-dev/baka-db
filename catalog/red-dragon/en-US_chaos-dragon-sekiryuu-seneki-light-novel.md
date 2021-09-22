@@ -1,5 +1,7 @@
 # Chaos Dragon: Sekiryuu Seneki
 
+![chaos-dragon-sekiryuu-seneki](https://cdn.myanimelist.net/images/manga/1/159843.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: ケイオスドラゴン 赤竜戦役

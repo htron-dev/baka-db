@@ -1,5 +1,7 @@
 # Daichi wo Wataru Koe wo Kike
 
+![daichi-wo-wataru-koe-wo-kike](https://cdn.myanimelist.net/images/manga/1/159273.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 4

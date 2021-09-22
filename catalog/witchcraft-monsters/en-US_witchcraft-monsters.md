@@ -1,5 +1,7 @@
 # Witchcraft Monsters
 
+![witchcraft-monsters](https://cdn.myanimelist.net/images/manga/2/146313.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: ウィッチクラフト・モンスターズ

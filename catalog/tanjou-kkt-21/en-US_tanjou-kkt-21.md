@@ -1,5 +1,7 @@
 # Tanjou!! KKT21
 
+![tanjou-kkt-21](https://cdn.myanimelist.net/images/anime/1699/101121.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 誕生!!KKT21

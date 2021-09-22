@@ -1,5 +1,7 @@
 # Tenjou Tenge: The Ultimate Fight
 
+![tenjou-tenge-the-ultimate-fight](https://cdn.myanimelist.net/images/anime/11/7362.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 天上天下 ULTIMATE FIGHT

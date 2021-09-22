@@ -1,5 +1,7 @@
 # Nihon Omoshiro Mukashibanashi
 
+![nihon-omoshiro-mukashibanashi](https://cdn.myanimelist.net/images/anime/7/34393.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 日本おもしろ昔話

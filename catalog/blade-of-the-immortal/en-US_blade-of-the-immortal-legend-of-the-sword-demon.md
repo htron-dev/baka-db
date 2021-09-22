@@ -1,5 +1,7 @@
 # Blade of the Immortal: Legend of the Sword Demon
 
+![blade-of-the-immortal-legend-of-the-sword-demon](https://cdn.myanimelist.net/images/manga/2/29093.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

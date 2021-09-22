@@ -1,5 +1,7 @@
 # Hajimete no Eigo: Sekai Meisaku Douwa
 
+![hajimete-no-eigo-sekai-meisaku-douwa](https://cdn.myanimelist.net/images/anime/10/80126.jpg)
+
 -   **type**: ova
 -   **episodes**: 18
 -   **original-name**: 初めてのえいご・世界名作童話

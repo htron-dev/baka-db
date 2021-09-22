@@ -1,5 +1,7 @@
 # Kirei na Otokonoko
 
+![kirei-na-otokonoko](https://cdn.myanimelist.net/images/manga/1/180362.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

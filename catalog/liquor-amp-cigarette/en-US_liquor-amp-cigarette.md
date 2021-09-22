@@ -1,5 +1,7 @@
 # Liquor &amp; Cigarette
 
+![liquor-amp-cigarette](https://cdn.myanimelist.net/images/manga/3/210079.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Rokuko-chan
 
+![rokuko-chan](https://cdn.myanimelist.net/images/anime/13/82938.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 6 コちゃん

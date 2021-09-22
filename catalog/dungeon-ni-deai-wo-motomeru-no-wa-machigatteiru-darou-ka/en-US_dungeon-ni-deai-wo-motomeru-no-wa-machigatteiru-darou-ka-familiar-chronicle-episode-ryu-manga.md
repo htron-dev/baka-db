@@ -1,5 +1,7 @@
 # Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka: Familiar Chronicle - Episode Ryu
 
+![dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-familiar-chronicle-episode-ryu](https://cdn.myanimelist.net/images/manga/1/192776.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 22

@@ -1,5 +1,7 @@
 # Kyoukai no Micrina
 
+![kyoukai-no-micrina](https://cdn.myanimelist.net/images/manga/2/179087.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

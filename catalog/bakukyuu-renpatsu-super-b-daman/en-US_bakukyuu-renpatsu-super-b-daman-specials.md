@@ -1,5 +1,7 @@
 # Bakukyuu Renpatsu! Super B-Daman Specials
 
+![bakukyuu-renpatsu-super-b-daman-specials](https://cdn.myanimelist.net/images/anime/4/81875.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 爆球連発!!スーパービーダマン

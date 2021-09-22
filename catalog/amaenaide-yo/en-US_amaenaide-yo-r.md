@@ -1,5 +1,7 @@
 # Amaenaide yo!! R
 
+![amaenaide-yo-r](https://cdn.myanimelist.net/images/manga/3/173763.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

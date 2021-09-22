@@ -1,5 +1,7 @@
 # Misute♡naide Daisy
 
+![misute♡naide-daisy](https://cdn.myanimelist.net/images/anime/1/1936.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: みすて ♡ ないでデイジー

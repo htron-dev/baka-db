@@ -1,5 +1,7 @@
 # Wan Wan Chuushingura
 
+![wan-wan-chuushingura](https://cdn.myanimelist.net/images/anime/7/25593.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: わんわん忠臣蔵

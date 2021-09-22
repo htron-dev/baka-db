@@ -1,5 +1,7 @@
 # Kiraware Kenshi no Isekai Tenseiki
 
+![kiraware-kenshi-no-isekai-tenseiki](https://cdn.myanimelist.net/images/manga/2/178246.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 嫌われ剣士の異世界転生記
 -   **start-date**: 2016-05-28

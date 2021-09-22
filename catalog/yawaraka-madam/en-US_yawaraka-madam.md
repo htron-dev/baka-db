@@ -1,5 +1,7 @@
 # Yawaraka Madam
 
+![yawaraka-madam](https://cdn.myanimelist.net/images/manga/2/82150.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

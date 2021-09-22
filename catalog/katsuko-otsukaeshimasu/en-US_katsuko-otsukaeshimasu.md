@@ -1,5 +1,7 @@
 # Katsuko Otsukaeshimasu!
 
+![katsuko-otsukaeshimasu](https://cdn.myanimelist.net/images/manga/2/40908.jpg)
+
 -   **type**: manga
 -   **original-name**: かつ子お仕えします!
 

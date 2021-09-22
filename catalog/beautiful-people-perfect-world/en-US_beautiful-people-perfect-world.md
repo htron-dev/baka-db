@@ -1,5 +1,7 @@
 # Beautiful People Perfect World
 
+![beautiful-people-perfect-world](https://cdn.myanimelist.net/images/manga/4/146317.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

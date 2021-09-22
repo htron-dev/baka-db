@@ -1,5 +1,7 @@
 # Mangirl!: Asobu Henshuu Girl
 
+![mangirl-asobu-henshuu-girl](https://cdn.myanimelist.net/images/anime/12/46513.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: まんがーる! 遊ぶへんしゅうがぁる

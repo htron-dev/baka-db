@@ -1,5 +1,7 @@
 # Tokubai desu yo!! Nobunaga-sama
 
+![tokubai-desu-yo-nobunaga-sama](https://cdn.myanimelist.net/images/manga/1/216240.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

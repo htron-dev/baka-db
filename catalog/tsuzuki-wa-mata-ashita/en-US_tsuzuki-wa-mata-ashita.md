@@ -1,5 +1,7 @@
 # Tsuzuki wa Mata Ashita
 
+![tsuzuki-wa-mata-ashita](https://cdn.myanimelist.net/images/manga/1/27060.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 30

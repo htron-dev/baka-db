@@ -1,5 +1,7 @@
 # Eyes: Yokubou no Shisen
 
+![eyes-yokubou-no-shisen](https://cdn.myanimelist.net/images/manga/3/193093.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 13

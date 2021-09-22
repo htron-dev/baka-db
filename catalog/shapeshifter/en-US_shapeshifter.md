@@ -1,5 +1,7 @@
 # Shapeshifter
 
+![shapeshifter](https://cdn.myanimelist.net/images/manga/1/224017.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

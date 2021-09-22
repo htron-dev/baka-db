@@ -1,5 +1,7 @@
 # Touran Merry Rose
 
+![touran-merry-rose](https://cdn.myanimelist.net/images/manga/1/72251.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 灯港浪漫史

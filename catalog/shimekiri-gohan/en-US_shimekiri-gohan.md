@@ -1,5 +1,7 @@
 # Shimekiri Gohan
 
+![shimekiri-gohan](https://cdn.myanimelist.net/images/manga/3/211404.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 60

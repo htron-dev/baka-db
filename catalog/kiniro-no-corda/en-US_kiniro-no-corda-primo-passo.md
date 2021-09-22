@@ -1,5 +1,7 @@
 # Kiniro no Corda: Primo Passo
 
+![kiniro-no-corda-primo-passo](https://cdn.myanimelist.net/images/anime/9/7228.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 金色のコルダ ～ primo passo ～

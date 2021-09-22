@@ -1,5 +1,7 @@
 # Maison de Beauties
 
+![maison-de-beauties](https://cdn.myanimelist.net/images/manga/3/144465.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

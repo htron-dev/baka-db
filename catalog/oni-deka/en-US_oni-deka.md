@@ -1,5 +1,7 @@
 # Oni-Deka!
 
+![oni-deka](https://cdn.myanimelist.net/images/manga/3/186231.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 34

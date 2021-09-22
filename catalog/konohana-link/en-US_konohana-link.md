@@ -1,5 +1,7 @@
 # Konohana Link
 
+![konohana-link](https://cdn.myanimelist.net/images/manga/3/12402.jpg)
+
 -   **type**: manga
 -   **chapters**: 9
 -   **original-name**: コノハナリンク

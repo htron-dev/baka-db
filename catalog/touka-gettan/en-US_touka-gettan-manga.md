@@ -1,5 +1,7 @@
 # Touka Gettan
 
+![touka-gettan](https://cdn.myanimelist.net/images/manga/3/17872.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 桃華月憚 ～顔のない月 II

@@ -1,5 +1,7 @@
 # Amaenaide yo!!
 
+![amaenaide-yo](https://cdn.myanimelist.net/images/manga/1/151122.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 42

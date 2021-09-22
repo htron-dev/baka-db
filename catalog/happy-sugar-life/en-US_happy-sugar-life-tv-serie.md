@@ -1,5 +1,7 @@
 # Happy Sugar Life
 
+![happy-sugar-life](https://cdn.myanimelist.net/images/anime/1386/103920.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ハッピーシュガーライフ

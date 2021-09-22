@@ -1,5 +1,7 @@
 # Love Talk
 
+![love-talk](https://cdn.myanimelist.net/images/manga/2/88287.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

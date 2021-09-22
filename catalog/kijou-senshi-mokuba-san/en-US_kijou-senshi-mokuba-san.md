@@ -1,5 +1,7 @@
 # Kijou Senshi Mokuba-san
 
+![kijou-senshi-mokuba-san](https://cdn.myanimelist.net/images/manga/2/248080.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 36

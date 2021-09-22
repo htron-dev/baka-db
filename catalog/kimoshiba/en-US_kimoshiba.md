@@ -1,5 +1,7 @@
 # Kimoshiba
 
+![kimoshiba](https://cdn.myanimelist.net/images/anime/5/82366.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: きもしば
@@ -11,7 +13,6 @@
 
 -   comedy
 -   horror
-
 -   supernatural
 
 ## Sinopse

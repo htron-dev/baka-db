@@ -1,5 +1,7 @@
 # Voice Radio: Boku no Suki na Personality
 
+![voice-radio-boku-no-suki-na-personality](https://cdn.myanimelist.net/images/manga/3/206111.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

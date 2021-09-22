@@ -1,5 +1,7 @@
 # Tantei Jimusho H.G
 
+![tantei-jimusho-h-g](https://cdn.myanimelist.net/images/manga/3/11714.jpg)
+
 -   **type**: manga
 -   **original-name**: 探偵事務所 H・G
 

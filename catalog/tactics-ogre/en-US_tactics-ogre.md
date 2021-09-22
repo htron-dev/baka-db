@@ -1,5 +1,7 @@
 # Tactics Ogre
 
+![tactics-ogre](https://cdn.myanimelist.net/images/manga/2/25332.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: タクティクスオウガ

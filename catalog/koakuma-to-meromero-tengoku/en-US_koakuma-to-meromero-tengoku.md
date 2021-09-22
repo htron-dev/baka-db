@@ -1,5 +1,7 @@
 # Koakuma to Meromero Tengoku
 
+![koakuma-to-meromero-tengoku](https://cdn.myanimelist.net/images/manga/3/45929.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

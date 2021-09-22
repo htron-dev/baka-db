@@ -1,5 +1,7 @@
 # Urawa no Usagi-chan
 
+![urawa-no-usagi-chan](https://cdn.myanimelist.net/images/anime/13/86398.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 浦和の調ちゃん

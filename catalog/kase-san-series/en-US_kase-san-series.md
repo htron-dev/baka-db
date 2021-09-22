@@ -1,5 +1,7 @@
 # Kase-san Series
 
+![kase-san-series](https://cdn.myanimelist.net/images/manga/1/215181.jpg)
+
 -   **type**: manga
 -   **original-name**: 加瀬さんシリーズ
 -   **start-date**: 2010-08-25

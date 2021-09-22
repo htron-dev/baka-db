@@ -1,5 +1,7 @@
 # Ameagari no Bokura ni Tsuite
 
+![ameagari-no-bokura-ni-tsuite](https://cdn.myanimelist.net/images/manga/3/229038.jpg)
+
 -   **type**: manga
 -   **original-name**: 雨上がりの僕らについて
 -   **start-date**: 2019-08-09

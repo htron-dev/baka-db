@@ -1,5 +1,7 @@
 # S Rare Soubi no Niau Kanojo
 
+![s-rare-soubi-no-niau-kanojo](https://cdn.myanimelist.net/images/manga/1/190608.jpg)
+
 -   **type**: manga
 -   **original-name**: S レア装備の似合う彼女
 -   **start-date**: 2015-12-31

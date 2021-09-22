@@ -1,5 +1,7 @@
 # Choukyou Collection: Minna ni Mirarete ○○ Sarete
 
+![choukyou-collection-minna-ni-mirarete-○○-sarete](https://cdn.myanimelist.net/images/manga/1/193456.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

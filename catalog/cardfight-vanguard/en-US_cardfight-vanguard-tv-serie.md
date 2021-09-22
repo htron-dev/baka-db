@@ -1,5 +1,7 @@
 # Cardfight!! Vanguard
 
+![cardfight-vanguard](https://cdn.myanimelist.net/images/anime/1856/113654.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 65
 -   **original-name**: カードファイト!! ヴァンガード

@@ -1,5 +1,7 @@
 # Yamiyo Mori no Guuwa
 
+![yamiyo-mori-no-guuwa](https://cdn.myanimelist.net/images/manga/3/184052.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

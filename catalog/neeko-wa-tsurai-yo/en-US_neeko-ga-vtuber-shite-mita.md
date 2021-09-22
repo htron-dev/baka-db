@@ -1,5 +1,7 @@
 # Neeko ga Vtuber Shite Mita
 
+![neeko-ga-vtuber-shite-mita](https://cdn.myanimelist.net/images/anime/1532/91686.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: ニートが V チューバーデビューしてみた

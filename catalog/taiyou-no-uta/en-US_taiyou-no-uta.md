@@ -1,5 +1,7 @@
 # Taiyou no Uta
 
+![taiyou-no-uta](https://cdn.myanimelist.net/images/manga/1/17740.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

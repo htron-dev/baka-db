@@ -1,5 +1,7 @@
 # Vampire Yui: Kanonshou
 
+![vampire-yui-kanonshou](https://cdn.myanimelist.net/images/manga/3/156943.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 吸血姫 夕維―香音抄

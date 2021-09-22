@@ -1,5 +1,7 @@
 # Kekkonshiki no Tori Movie
 
+![kekkonshiki-no-tori-movie](https://cdn.myanimelist.net/images/anime/4/88656.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 結婚式の鳥ムービー

@@ -1,5 +1,7 @@
 # Ryuu no Yuigon
 
+![ryuu-no-yuigon](https://cdn.myanimelist.net/images/manga/3/40146.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: 竜の遺言

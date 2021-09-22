@@ -1,5 +1,7 @@
 # Kyokutou Prison
 
+![kyokutou-prison](https://cdn.myanimelist.net/images/manga/1/76557.jpg)
+
 -   **type**: manga
 -   **original-name**: 極東プリズン
 -   **start-date**: 2012-02-24

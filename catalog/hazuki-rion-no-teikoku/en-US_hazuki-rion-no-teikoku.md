@@ -1,5 +1,7 @@
 # Hazuki Rion no Teikoku
 
+![hazuki-rion-no-teikoku](https://cdn.myanimelist.net/images/manga/3/171307.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 56

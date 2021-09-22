@@ -1,5 +1,7 @@
 # Homerarete Shingun
 
+![homerarete-shingun](https://cdn.myanimelist.net/images/manga/3/185308.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 誉められて神軍
 -   **start-date**: 2016-11-02

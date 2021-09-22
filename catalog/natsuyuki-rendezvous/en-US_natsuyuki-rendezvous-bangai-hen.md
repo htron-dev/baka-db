@@ -1,5 +1,7 @@
 # Natsuyuki Rendezvous Bangai-hen
 
+![natsuyuki-rendezvous-bangai-hen](https://cdn.myanimelist.net/images/manga/3/179069.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

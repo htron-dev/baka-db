@@ -1,5 +1,7 @@
 # Night Walker: Mayonaka no Tantei
 
+![night-walker-mayonaka-no-tantei](https://cdn.myanimelist.net/images/anime/12/31985.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: Night Walker -真夜中の探偵-

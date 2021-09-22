@@ -1,5 +1,7 @@
 # Maison Ikkoku: Shiki Utsuriyuku Kisetsu no Naka de
 
+![maison-ikkoku-shiki-utsuriyuku-kisetsu-no-naka-de](https://cdn.myanimelist.net/images/anime/11/30539.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: めぞん一刻～移りゆく季節の中で～

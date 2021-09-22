@@ -1,5 +1,7 @@
 # Isekai Trip shita Sonoba de Taberarechaimashita
 
+![isekai-trip-shita-sonoba-de-taberarechaimashita](https://cdn.myanimelist.net/images/manga/3/226310.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

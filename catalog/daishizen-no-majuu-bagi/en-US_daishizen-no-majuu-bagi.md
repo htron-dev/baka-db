@@ -1,5 +1,7 @@
 # Daishizen no Majuu: Bagi
 
+![daishizen-no-majuu-bagi](https://cdn.myanimelist.net/images/anime/9/56739.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 大自然の魔獣 バギ

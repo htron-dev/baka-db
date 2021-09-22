@@ -1,9 +1,10 @@
 # Yeongsimi
 
+![yeongsimi](https://cdn.myanimelist.net/images/anime/8/65099.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 영심이
-
 -   **rating**: G - All Ages
 
 ## Tags

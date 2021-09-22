@@ -1,5 +1,7 @@
 # Nanatose Miiku to Kyokou no Ou 1999
 
+![nanatose-miiku-to-kyokou-no-ou-1999](https://cdn.myanimelist.net/images/manga/1/191430.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

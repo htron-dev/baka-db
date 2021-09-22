@@ -1,5 +1,7 @@
 # ACCA: 13-ku Kansatsu-ka
 
+![acca-13-ku-kansatsu-ka](https://cdn.myanimelist.net/images/manga/3/108733.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 37

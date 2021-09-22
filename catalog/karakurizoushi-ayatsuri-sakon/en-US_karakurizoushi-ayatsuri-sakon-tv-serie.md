@@ -1,5 +1,7 @@
 # Karakurizoushi Ayatsuri Sakon
 
+![karakurizoushi-ayatsuri-sakon](https://cdn.myanimelist.net/images/anime/10/16022.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 人形草紙あやつり左近

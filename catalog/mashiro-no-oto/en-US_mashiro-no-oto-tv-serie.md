@@ -1,5 +1,7 @@
 # Mashiro no Oto
 
+![mashiro-no-oto](https://cdn.myanimelist.net/images/anime/1841/111554.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ましろのおと

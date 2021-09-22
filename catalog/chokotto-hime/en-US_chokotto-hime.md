@@ -1,5 +1,7 @@
 # Chokotto Hime
 
+![chokotto-hime](https://cdn.myanimelist.net/images/manga/3/211719.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 98

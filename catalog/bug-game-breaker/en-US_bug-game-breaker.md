@@ -1,5 +1,7 @@
 # Bug Game Breaker!
 
+![bug-game-breaker](https://cdn.myanimelist.net/images/manga/3/176199.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

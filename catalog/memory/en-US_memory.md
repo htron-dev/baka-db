@@ -1,5 +1,7 @@
 # Memory
 
+![memory](https://cdn.myanimelist.net/images/anime/1325/92613.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: めもりい

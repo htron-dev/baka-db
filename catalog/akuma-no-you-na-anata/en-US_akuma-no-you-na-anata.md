@@ -1,5 +1,7 @@
 # Akuma no You na Anata
 
+![akuma-no-you-na-anata](https://cdn.myanimelist.net/images/manga/2/41245.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 悪魔のようなあなた

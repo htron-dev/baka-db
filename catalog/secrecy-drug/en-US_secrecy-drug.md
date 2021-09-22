@@ -1,5 +1,7 @@
 # Secrecy Drug
 
+![secrecy-drug](https://cdn.myanimelist.net/images/manga/1/2210.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

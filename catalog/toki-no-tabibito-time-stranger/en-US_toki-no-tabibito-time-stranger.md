@@ -1,5 +1,7 @@
 # Toki no Tabibito: Time Stranger
 
+![toki-no-tabibito-time-stranger](https://cdn.myanimelist.net/images/anime/10/4740.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 時空[とき]の旅人 Time Stranger

@@ -1,5 +1,7 @@
 # I・NG
 
+![i・ng](https://cdn.myanimelist.net/images/manga/3/25883.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

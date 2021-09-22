@@ -1,5 +1,7 @@
 # Wagaya wa Kakuriyo no Kashihonya-san
 
+![wagaya-wa-kakuriyo-no-kashihonya-san](https://cdn.myanimelist.net/images/manga/3/240557.jpg)
+
 -   **type**: light-novel
 -   **original-name**: わが家は幽世の貸本屋さん
 -   **start-date**: 2019-06-22

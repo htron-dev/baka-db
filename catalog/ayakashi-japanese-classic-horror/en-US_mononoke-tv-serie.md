@@ -1,5 +1,7 @@
 # Mononoke
 
+![mononoke](https://cdn.myanimelist.net/images/anime/3/20713.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: モノノ怪
@@ -34,4 +36,4 @@ The Medicine Seller's journey leads him to an old-fashioned inn where Shino, a p
 -   [Official Site](http://www.mononoke-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5113)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7890)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Mononoke_(TV_series)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Mononoke_%28TV_series%29)

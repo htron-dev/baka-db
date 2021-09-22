@@ -1,5 +1,7 @@
 # Marriage Royale
 
+![marriage-royale](https://cdn.myanimelist.net/images/manga/2/128577.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: マリッジロワイヤル

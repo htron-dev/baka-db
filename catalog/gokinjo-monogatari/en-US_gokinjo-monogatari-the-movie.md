@@ -1,5 +1,7 @@
 # Gokinjo Monogatari the Movie
 
+![gokinjo-monogatari-the-movie](https://cdn.myanimelist.net/images/anime/11/21012.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ご近所物語 (1996)

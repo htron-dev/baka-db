@@ -1,5 +1,7 @@
 # Tar Trip
 
+![tar-trip](https://cdn.myanimelist.net/images/manga/3/157482.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 星野之宣スペシャルセレクション 1 タール・トラップ

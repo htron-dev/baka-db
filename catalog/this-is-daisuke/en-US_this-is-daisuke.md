@@ -1,5 +1,7 @@
 # This is Daisuke
 
+![this-is-daisuke](https://cdn.myanimelist.net/images/manga/2/11709.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: This is 大介

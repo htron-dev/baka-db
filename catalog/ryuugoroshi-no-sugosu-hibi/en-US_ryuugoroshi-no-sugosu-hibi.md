@@ -1,5 +1,7 @@
 # Ryuugoroshi no Sugosu Hibi
 
+![ryuugoroshi-no-sugosu-hibi](https://cdn.myanimelist.net/images/manga/2/115103.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 11
 -   **original-name**: 竜殺しの過ごす日々

@@ -1,5 +1,7 @@
 # Pokemon Best Wishes!
 
+![pokemon-best-wishes](https://cdn.myanimelist.net/images/anime/7/26135.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 84
 -   **original-name**: ポケットモンスターベストウイッシュ

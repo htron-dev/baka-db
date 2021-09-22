@@ -1,5 +1,7 @@
 # Kanade
 
+![kanade](https://cdn.myanimelist.net/images/manga/1/199623.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 45

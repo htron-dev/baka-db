@@ -1,5 +1,7 @@
 # Ouji-sama wa Imouto ga, Suki de, Suki de, Suki de
 
+![ouji-sama-wa-imouto-ga-suki-de-suki-de-suki-de](https://cdn.myanimelist.net/images/manga/1/183714.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

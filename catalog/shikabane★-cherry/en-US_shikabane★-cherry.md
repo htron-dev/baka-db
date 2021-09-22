@@ -1,5 +1,7 @@
 # Shikabane★Cherry
 
+![shikabane★-cherry](https://cdn.myanimelist.net/images/manga/3/183315.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

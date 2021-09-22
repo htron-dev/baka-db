@@ -1,5 +1,7 @@
 # Slow Step
 
+![slow-step](https://cdn.myanimelist.net/images/anime/1/2341.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: スローステップ

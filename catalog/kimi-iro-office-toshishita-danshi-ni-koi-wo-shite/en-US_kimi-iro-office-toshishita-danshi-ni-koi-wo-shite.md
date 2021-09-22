@@ -1,5 +1,7 @@
 # Kimi-iro Office: Toshishita Danshi ni Koi wo Shite
 
+![kimi-iro-office-toshishita-danshi-ni-koi-wo-shite](https://cdn.myanimelist.net/images/manga/1/195490.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 君色オフィス～年下男子に恋をして～

@@ -1,5 +1,7 @@
 # B.S.S.M.
 
+![b-s-s-m](https://cdn.myanimelist.net/images/manga/1/174469.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

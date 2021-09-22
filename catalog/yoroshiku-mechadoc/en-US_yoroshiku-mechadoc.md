@@ -1,5 +1,7 @@
 # Yoroshiku Mechadoc
 
+![yoroshiku-mechadoc](https://cdn.myanimelist.net/images/manga/2/234611.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 114

@@ -1,5 +1,7 @@
 # Konamon
 
+![konamon](https://cdn.myanimelist.net/images/manga/3/153522.jpg)
+
 -   **type**: manga
 -   **chapters**: 11
 -   **original-name**: こなもんっ

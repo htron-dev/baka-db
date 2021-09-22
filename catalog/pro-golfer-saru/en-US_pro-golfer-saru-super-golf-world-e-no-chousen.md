@@ -1,5 +1,7 @@
 # Pro Golfer Saru: Super Golf World e no Chousen!!
 
+![pro-golfer-saru-super-golf-world-e-no-chousen](https://cdn.myanimelist.net/images/anime/2/46223.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: プロゴルファー猿 スーパー GOLF ワールドへの挑戦!!

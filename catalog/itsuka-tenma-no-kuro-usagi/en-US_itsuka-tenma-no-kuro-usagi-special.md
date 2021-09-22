@@ -1,5 +1,7 @@
 # Itsuka Tenma no Kuro Usagi Special
 
+![itsuka-tenma-no-kuro-usagi-special](https://cdn.myanimelist.net/images/anime/9/36791.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: いつか天魔の黒ウサギ スペシャル

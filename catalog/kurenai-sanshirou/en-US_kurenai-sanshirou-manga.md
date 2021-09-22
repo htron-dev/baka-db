@@ -1,5 +1,7 @@
 # Kurenai Sanshirou
 
+![kurenai-sanshirou](https://cdn.myanimelist.net/images/manga/3/129257.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

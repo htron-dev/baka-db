@@ -1,5 +1,7 @@
 # Gundam Novels: Senkou to Natta Senshi-tachi
 
+![gundam-novels-senkou-to-natta-senshi-tachi](https://cdn.myanimelist.net/images/manga/1/164881.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

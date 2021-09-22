@@ -1,5 +1,7 @@
 # Mad★Bull 34
 
+![mad★-bull-34](https://cdn.myanimelist.net/images/manga/1/186938.jpg)
+
 -   **type**: manga
 -   **volumes**: 27
 -   **original-name**: マッド ★ ブル 34

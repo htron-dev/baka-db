@@ -1,5 +1,7 @@
 # Hira Yakunin Yatte 1500-nen, Maou no Chikara de Daijin ni Sarechaimashita
 
+![hira-yakunin-yatte-1500-nen-maou-no-chikara-de-daijin-ni-sarechaimashita](https://cdn.myanimelist.net/images/manga/3/235771.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

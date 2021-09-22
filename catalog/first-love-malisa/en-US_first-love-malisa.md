@@ -1,5 +1,7 @@
 # First Love Malisa
 
+![first-love-malisa](https://cdn.myanimelist.net/images/manga/3/18124.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 33

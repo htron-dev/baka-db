@@ -1,5 +1,7 @@
 # Lovely Movie: Itoshi no Muco Season 2
 
+![lovely-movie-itoshi-no-muco-season-2](https://cdn.myanimelist.net/images/anime/2/61929.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: ラブリームービー いとしのムーコ シーズン２

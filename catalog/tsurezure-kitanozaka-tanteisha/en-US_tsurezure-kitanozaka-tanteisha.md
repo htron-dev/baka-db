@@ -1,5 +1,7 @@
 # Tsurezure, Kitanozaka Tanteisha
 
+![tsurezure-kitanozaka-tanteisha](https://cdn.myanimelist.net/images/manga/3/169535.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

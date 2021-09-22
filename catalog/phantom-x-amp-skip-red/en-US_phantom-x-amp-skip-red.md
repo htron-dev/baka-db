@@ -1,5 +1,7 @@
 # Phantom X &amp; Skip Red
 
+![phantom-x-amp-skip-red](https://cdn.myanimelist.net/images/manga/1/237975.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ハントム X&スキップレッド

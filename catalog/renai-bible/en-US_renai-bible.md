@@ -1,5 +1,7 @@
 # Renai Bible
 
+![renai-bible](https://cdn.myanimelist.net/images/manga/1/36818.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

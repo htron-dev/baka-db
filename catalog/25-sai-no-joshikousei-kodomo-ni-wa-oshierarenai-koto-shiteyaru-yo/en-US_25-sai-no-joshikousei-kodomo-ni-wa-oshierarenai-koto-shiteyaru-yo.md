@@ -1,5 +1,7 @@
 # 25-sai no Joshikousei: Kodomo ni wa Oshierarenai Koto Shiteyaru yo
 
+![25-sai-no-joshikousei-kodomo-ni-wa-oshierarenai-koto-shiteyaru-yo](https://cdn.myanimelist.net/images/manga/1/227006.jpg)
+
 -   **type**: manga
 -   **original-name**: 25 歳の女子高生～子供には教えられないことシてやるよ
 -   **start-date**: 2016-08-18

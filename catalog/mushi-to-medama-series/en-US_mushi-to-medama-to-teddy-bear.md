@@ -1,5 +1,7 @@
 # Mushi to Medama to Teddy Bear
 
+![mushi-to-medama-to-teddy-bear](https://cdn.myanimelist.net/images/manga/1/125165.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 34

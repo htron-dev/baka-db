@@ -1,5 +1,7 @@
 # Kubikiri Asa
 
+![kubikiri-asa](https://cdn.myanimelist.net/images/manga/4/143461.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 54

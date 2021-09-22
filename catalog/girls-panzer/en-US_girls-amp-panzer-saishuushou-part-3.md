@@ -1,5 +1,7 @@
 # Girls &amp; Panzer: Saishuushou Part 3
 
+![girls-amp-panzer-saishuushou-part-3](https://cdn.myanimelist.net/images/anime/1105/111222.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 『ガールズ＆パンツァー 最終章』第 3 話

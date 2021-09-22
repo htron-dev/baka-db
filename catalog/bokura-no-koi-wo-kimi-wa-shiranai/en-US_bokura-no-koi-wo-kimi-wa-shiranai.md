@@ -1,5 +1,7 @@
 # Bokura no Koi wo Kimi wa Shiranai
 
+![bokura-no-koi-wo-kimi-wa-shiranai](https://cdn.myanimelist.net/images/manga/1/223388.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

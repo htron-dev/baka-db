@@ -1,5 +1,7 @@
 # Pretty Face
 
+![pretty-face](https://cdn.myanimelist.net/images/manga/1/123699.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 53

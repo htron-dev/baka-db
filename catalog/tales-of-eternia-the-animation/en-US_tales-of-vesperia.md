@@ -1,5 +1,7 @@
 # Tales of Vesperia
 
+![tales-of-vesperia](https://cdn.myanimelist.net/images/manga/3/148297.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

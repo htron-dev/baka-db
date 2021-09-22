@@ -1,5 +1,7 @@
 # Psycho-Pass Zero: Namae no Nai Kaibutsu
 
+![psycho-pass-zero-namae-no-nai-kaibutsu](https://cdn.myanimelist.net/images/manga/1/123267.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: PSYCHO-PASS 0 名前のない怪物

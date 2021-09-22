@@ -1,5 +1,7 @@
 # Ayakashi Hodokiya
 
+![ayakashi-hodokiya](https://cdn.myanimelist.net/images/manga/2/246196.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

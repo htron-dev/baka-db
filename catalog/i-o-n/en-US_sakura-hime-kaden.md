@@ -1,5 +1,7 @@
 # Sakura-hime Kaden
 
+![sakura-hime-kaden](https://cdn.myanimelist.net/images/manga/1/150583.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 55

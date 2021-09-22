@@ -1,5 +1,7 @@
 # The X Files
 
+![the-x-files](https://cdn.myanimelist.net/images/manga/2/16902.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **start-date**: 1996-03-01

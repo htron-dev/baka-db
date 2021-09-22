@@ -1,5 +1,7 @@
 # Zombie Clay Animation: I'm Stuck!!
 
+![zombie-clay-animation-im-stuck](https://cdn.myanimelist.net/images/anime/3/78154.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: ゾンビクレイアニメ「I'm stuck!!」

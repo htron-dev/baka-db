@@ -1,5 +1,7 @@
 # Fire Emblem: Kakusei Koushiki Comic
 
+![fire-emblem-kakusei-koushiki-comic](https://cdn.myanimelist.net/images/manga/5/169314.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

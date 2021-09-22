@@ -1,5 +1,7 @@
 # Ghost Hunters
 
+![ghost-hunters](https://cdn.myanimelist.net/images/manga/1/60473.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 총바치
 

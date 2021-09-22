@@ -1,5 +1,7 @@
 # Koyomimonogatari
 
+![koyomimonogatari](https://cdn.myanimelist.net/images/anime/2/77744.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 暦物語

@@ -1,5 +1,7 @@
 # Shin Kobo-chan
 
+![shin-kobo-chan](https://cdn.myanimelist.net/images/manga/1/58737.jpg)
+
 -   **type**: manga
 -   **original-name**: 新コボちゃん
 -   **start-date**: 2004-05-06

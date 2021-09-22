@@ -1,5 +1,7 @@
 # Nigeru Natsu
 
+![nigeru-natsu](https://cdn.myanimelist.net/images/manga/3/7484.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

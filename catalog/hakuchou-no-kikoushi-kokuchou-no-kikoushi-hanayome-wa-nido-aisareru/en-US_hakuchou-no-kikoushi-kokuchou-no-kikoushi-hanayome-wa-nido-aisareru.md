@@ -1,5 +1,7 @@
 # Hakuchou no Kikoushi, Kokuchou no Kikoushi: Hanayome wa Nido Aisareru
 
+![hakuchou-no-kikoushi-kokuchou-no-kikoushi-hanayome-wa-nido-aisareru](https://cdn.myanimelist.net/images/manga/1/182838.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

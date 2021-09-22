@@ -1,5 +1,7 @@
 # Hi Scrap!!
 
+![hi-scrap](https://cdn.myanimelist.net/images/manga/1/151939.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Hi スクラップ!!

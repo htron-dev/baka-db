@@ -1,5 +1,7 @@
 # Ijippari Love Panic
 
+![ijippari-love-panic](https://cdn.myanimelist.net/images/manga/3/94807.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

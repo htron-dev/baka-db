@@ -1,5 +1,7 @@
 # Ashita mo Aishite Kuremasu ka
 
+![ashita-mo-aishite-kuremasu-ka](https://cdn.myanimelist.net/images/manga/1/114877.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

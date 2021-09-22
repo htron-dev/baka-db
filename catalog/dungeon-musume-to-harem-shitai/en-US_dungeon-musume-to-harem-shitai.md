@@ -1,5 +1,7 @@
 # Dungeon Musume to Harem Shitai!
 
+![dungeon-musume-to-harem-shitai](https://cdn.myanimelist.net/images/manga/2/186420.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ダンジョン娘とハーレムしたい!
 -   **start-date**: 2016-12-15

@@ -1,5 +1,7 @@
 # Maoyuu 4-koma: Muitemasen yo, Maou-sama!
 
+![maoyuu-4-koma-muitemasen-yo-maou-sama](https://cdn.myanimelist.net/images/manga/2/119229.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 36

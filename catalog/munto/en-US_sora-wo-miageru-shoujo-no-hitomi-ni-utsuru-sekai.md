@@ -1,5 +1,7 @@
 # Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai
 
+![sora-wo-miageru-shoujo-no-hitomi-ni-utsuru-sekai](https://cdn.myanimelist.net/images/anime/11/14012.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 9
 -   **original-name**: 空を見上げる少女の瞳に映る世界

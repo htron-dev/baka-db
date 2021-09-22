@@ -1,5 +1,7 @@
 # Choubu no Shinobi
 
+![choubu-no-shinobi](https://cdn.myanimelist.net/images/manga/3/206083.jpg)
+
 -   **type**: manga
 -   **original-name**: 蝶撫の忍
 -   **start-date**: 2017-04-22

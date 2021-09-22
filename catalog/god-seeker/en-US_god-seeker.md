@@ -1,5 +1,7 @@
 # God Seeker
 
+![god-seeker](https://cdn.myanimelist.net/images/manga/2/64323.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

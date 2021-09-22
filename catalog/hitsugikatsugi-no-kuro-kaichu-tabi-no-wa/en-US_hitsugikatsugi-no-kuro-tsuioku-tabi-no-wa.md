@@ -1,5 +1,7 @@
 # Hitsugikatsugi no Kuro.: Tsuioku Tabi no Wa
 
+![hitsugikatsugi-no-kuro-tsuioku-tabi-no-wa](https://cdn.myanimelist.net/images/manga/3/216938.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

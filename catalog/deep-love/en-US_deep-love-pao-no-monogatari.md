@@ -1,5 +1,7 @@
 # Deep Love: Pao no Monogatari
 
+![deep-love-pao-no-monogatari](https://cdn.myanimelist.net/images/manga/3/36589.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Saigo no Maou no Senki
 
+![saigo-no-maou-no-senki](https://cdn.myanimelist.net/images/manga/2/149828.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 最後の魔王の戦記

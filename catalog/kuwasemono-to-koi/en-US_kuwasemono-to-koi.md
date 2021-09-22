@@ -1,5 +1,7 @@
 # Kuwasemono to Koi
 
+![kuwasemono-to-koi](https://cdn.myanimelist.net/images/manga/2/193961.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: くわせ者と恋

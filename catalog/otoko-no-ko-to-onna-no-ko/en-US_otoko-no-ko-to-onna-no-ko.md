@@ -1,5 +1,7 @@
 # Otoko no Ko to Onna no Ko
 
+![otoko-no-ko-to-onna-no-ko](https://cdn.myanimelist.net/images/manga/2/134557.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

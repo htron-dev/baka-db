@@ -1,5 +1,7 @@
 # Long &amp; Beautiful Life
 
+![long-amp-beautiful-life](https://cdn.myanimelist.net/images/manga/1/102177.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Sensei Kunshu
 
+![sensei-kunshu](https://cdn.myanimelist.net/images/manga/2/199923.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 57

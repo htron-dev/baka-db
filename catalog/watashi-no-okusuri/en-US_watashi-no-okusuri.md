@@ -1,5 +1,7 @@
 # Watashi no + Okusuri
 
+![watashi-no-okusuri](https://cdn.myanimelist.net/images/manga/3/40651.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

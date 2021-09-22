@@ -1,5 +1,7 @@
 # The Last Man
 
+![the-last-man](https://cdn.myanimelist.net/images/manga/1/196152.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 134

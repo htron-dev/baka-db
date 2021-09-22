@@ -1,5 +1,7 @@
 # Senritsu no Majutsushi
 
+![senritsu-no-majutsushi](https://cdn.myanimelist.net/images/manga/2/161816.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

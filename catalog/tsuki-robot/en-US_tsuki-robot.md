@@ -1,5 +1,7 @@
 # Tsuki Robot
 
+![tsuki-robot](https://cdn.myanimelist.net/images/manga/2/167914.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

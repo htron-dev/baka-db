@@ -1,5 +1,7 @@
 # Uchuu Kaizoku Gakuen Black Cat
 
+![uchuu-kaizoku-gakuen-black-cat](https://cdn.myanimelist.net/images/manga/3/168638.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

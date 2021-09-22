@@ -1,5 +1,7 @@
 # Super Lovers
 
+![super-lovers](https://cdn.myanimelist.net/images/manga/3/34151.jpg)
+
 -   **type**: manga
 -   **original-name**: SUPER LOVERS
 -   **start-date**: 2009-10-30

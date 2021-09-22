@@ -1,5 +1,7 @@
 # Hanaya no Bannin
 
+![hanaya-no-bannin](https://cdn.myanimelist.net/images/manga/2/130193.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 花屋の番人

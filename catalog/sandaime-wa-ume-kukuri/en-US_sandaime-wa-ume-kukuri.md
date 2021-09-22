@@ -1,5 +1,7 @@
 # Sandaime wa Ume Kukuri!
 
+![sandaime-wa-ume-kukuri](https://cdn.myanimelist.net/images/manga/2/151278.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 三代目は梅くくり!

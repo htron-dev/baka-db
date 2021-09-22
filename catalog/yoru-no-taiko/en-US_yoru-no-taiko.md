@@ -1,5 +1,7 @@
 # Yoru no Taiko
 
+![yoru-no-taiko](https://cdn.myanimelist.net/images/manga/3/164171.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

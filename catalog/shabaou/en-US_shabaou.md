@@ -1,5 +1,7 @@
 # Shabaou
 
+![shabaou](https://cdn.myanimelist.net/images/manga/2/220935.jpg)
+
 -   **type**: manga
 -   **original-name**: 娑婆王
 -   **start-date**: 2019-08-08

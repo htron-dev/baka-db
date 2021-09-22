@@ -1,5 +1,7 @@
 # Noise no Sora ni Canaria
 
+![noise-no-sora-ni-canaria](https://cdn.myanimelist.net/images/manga/3/236168.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

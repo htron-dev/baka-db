@@ -1,5 +1,7 @@
 # Ikemen Kanojo to Heroine na Ore!?
 
+![ikemen-kanojo-to-heroine-na-ore](https://cdn.myanimelist.net/images/manga/1/229392.jpg)
+
 -   **type**: manga
 -   **original-name**: イケメン彼女とヒロインな俺!?
 -   **start-date**: 2019-10-22

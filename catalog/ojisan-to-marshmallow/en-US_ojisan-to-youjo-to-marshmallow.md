@@ -1,5 +1,7 @@
 # Ojisan to Youjo to Marshmallow
 
+![ojisan-to-youjo-to-marshmallow](https://cdn.myanimelist.net/images/manga/3/217109.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

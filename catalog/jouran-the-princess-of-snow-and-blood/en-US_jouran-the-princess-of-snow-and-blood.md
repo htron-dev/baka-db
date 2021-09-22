@@ -1,5 +1,7 @@
 # Jouran: The Princess of Snow and Blood
 
+![jouran-the-princess-of-snow-and-blood](https://cdn.myanimelist.net/images/anime/1289/115673.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 擾乱 THE PRINCESS OF SNOW AND BLOOD

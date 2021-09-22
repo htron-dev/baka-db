@@ -1,5 +1,7 @@
 # Majo wa Sekai ni Kowareru
 
+![majo-wa-sekai-ni-kowareru](https://cdn.myanimelist.net/images/manga/2/171373.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 17

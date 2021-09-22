@@ -1,5 +1,7 @@
 # Kamisama Gohan: Koryouri Takamagahara ni Youkoso
 
+![kamisama-gohan-koryouri-takamagahara-ni-youkoso](https://cdn.myanimelist.net/images/manga/2/239807.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

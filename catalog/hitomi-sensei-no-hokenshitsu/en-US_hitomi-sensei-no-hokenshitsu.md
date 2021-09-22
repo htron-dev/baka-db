@@ -1,5 +1,7 @@
 # Hitomi-sensei no Hokenshitsu
 
+![hitomi-sensei-no-hokenshitsu](https://cdn.myanimelist.net/images/manga/1/118953.jpg)
+
 -   **type**: manga
 -   **original-name**: ヒトミ先生の保健室
 -   **start-date**: 2013-09-19

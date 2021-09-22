@@ -1,5 +1,7 @@
 # Tatakae! Dokan-kun: Robolympic-hen
 
+![tatakae-dokan-kun-robolympic-hen](https://cdn.myanimelist.net/images/anime/1897/95813.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: たたかえ!土管くん ロボリンピック編

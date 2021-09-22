@@ -1,5 +1,7 @@
 # Chao Wa Zhanshi: Weiwu Jiaoguan
 
+![chao-wa-zhanshi-weiwu-jiaoguan](https://cdn.myanimelist.net/images/anime/1073/93708.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 超蛙战 威武教官

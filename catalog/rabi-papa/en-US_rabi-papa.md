@@ -1,5 +1,7 @@
 # Rabi Papa
 
+![rabi-papa](https://cdn.myanimelist.net/images/manga/2/127097.jpg)
+
 -   **type**: manga
 -   **original-name**: ラビパパ
 -   **start-date**: 2005-03-04

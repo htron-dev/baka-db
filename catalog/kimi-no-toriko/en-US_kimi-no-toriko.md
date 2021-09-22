@@ -1,5 +1,7 @@
 # Kimi no Toriko
 
+![kimi-no-toriko](https://cdn.myanimelist.net/images/manga/2/105147.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: キミのとりこ

@@ -1,5 +1,7 @@
 # Tomoichou Busters
 
+![tomoichou-busters](https://cdn.myanimelist.net/images/manga/1/159039.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 14

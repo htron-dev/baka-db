@@ -1,5 +1,7 @@
 # A Place in the Sun
 
+![a-place-in-the-sun](https://cdn.myanimelist.net/images/manga/3/60329.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

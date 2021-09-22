@@ -1,5 +1,7 @@
 # Advance of Z: Flag of Titans
 
+![advance-of-z-flag-of-titans](https://cdn.myanimelist.net/images/manga/3/19920.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 48

@@ -1,5 +1,7 @@
 # Canaan
 
+![canaan](https://cdn.myanimelist.net/images/anime/4/75789.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: CANAAN
@@ -29,4 +31,4 @@ Oosawa Maria is a Japanese photographer currently working in Shanghai, China. Al
 -   [Official Site](http://ponican.jp/canaan/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6275)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10270)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Canaan_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Canaan_%28anime%29)

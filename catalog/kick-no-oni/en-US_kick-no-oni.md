@@ -1,5 +1,7 @@
 # Kick no Oni
 
+![kick-no-oni](https://cdn.myanimelist.net/images/anime/1578/113488.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: キックの鬼

@@ -1,5 +1,7 @@
 # Tokyo Mikaeru
 
+![tokyo-mikaeru](https://cdn.myanimelist.net/images/manga/1/27118.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 

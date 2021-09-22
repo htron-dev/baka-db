@@ -1,5 +1,7 @@
 # Underground Kids: Gakuen Onmitsu Torimono
 
+![underground-kids-gakuen-onmitsu-torimono](https://cdn.myanimelist.net/images/manga/1/6715.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

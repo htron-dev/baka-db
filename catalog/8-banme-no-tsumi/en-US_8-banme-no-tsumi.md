@@ -1,5 +1,7 @@
 # 8-banme no Tsumi
 
+![8-banme-no-tsumi](https://cdn.myanimelist.net/images/manga/2/67327.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

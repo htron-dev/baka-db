@@ -1,5 +1,7 @@
 # Ana, Moji, Ketsueki Nado ga Arawareru Manga
 
+![ana-moji-ketsueki-nado-ga-arawareru-manga](https://cdn.myanimelist.net/images/manga/1/61511.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

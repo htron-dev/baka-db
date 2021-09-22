@@ -1,5 +1,7 @@
 # Saikyou no Marou wa Shizuka ni Kurashitai: Tensei shitara Fenrir datta Ken
 
+![saikyou-no-marou-wa-shizuka-ni-kurashitai-tensei-shitara-fenrir-datta-ken](https://cdn.myanimelist.net/images/manga/1/198848.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

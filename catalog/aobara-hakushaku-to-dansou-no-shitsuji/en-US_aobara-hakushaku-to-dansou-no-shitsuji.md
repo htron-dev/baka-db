@@ -1,5 +1,7 @@
 # Aobara Hakushaku to Dansou no Shitsuji
 
+![aobara-hakushaku-to-dansou-no-shitsuji](https://cdn.myanimelist.net/images/manga/4/244358.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 青薔薇伯爵と男装の執事
 -   **start-date**: 2015-08-25

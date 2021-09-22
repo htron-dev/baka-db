@@ -1,5 +1,7 @@
 # Mitsu-iro✡Devil
 
+![mitsu-iro-✡-devil](https://cdn.myanimelist.net/images/manga/2/166410.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

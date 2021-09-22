@@ -1,5 +1,7 @@
 # Psyren: Another Call
 
+![psyren-another-call](https://cdn.myanimelist.net/images/manga/3/186038.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: PSYЯEN − サイレン − another call

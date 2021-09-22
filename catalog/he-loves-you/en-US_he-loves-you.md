@@ -1,5 +1,7 @@
 # He Loves You
 
+![he-loves-you](https://cdn.myanimelist.net/images/manga/2/174204.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: ヒーラブズユー

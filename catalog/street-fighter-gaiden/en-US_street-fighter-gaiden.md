@@ -1,5 +1,7 @@
 # Street Fighter Gaiden
 
+![street-fighter-gaiden](https://cdn.myanimelist.net/images/manga/3/40253.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

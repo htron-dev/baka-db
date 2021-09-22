@@ -1,5 +1,7 @@
 # Sekai no Hate de Aimashou
 
+![sekai-no-hate-de-aimashou](https://cdn.myanimelist.net/images/manga/1/62125.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 50

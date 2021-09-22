@@ -1,5 +1,7 @@
 # Ichimai no Etegami
 
+![ichimai-no-etegami](https://cdn.myanimelist.net/images/anime/8/66247.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 一枚の絵てがみ

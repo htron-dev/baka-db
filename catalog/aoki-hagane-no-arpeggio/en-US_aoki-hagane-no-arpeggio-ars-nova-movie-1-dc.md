@@ -1,5 +1,7 @@
 # Aoki Hagane no Arpeggio: Ars Nova Movie 1 - DC
 
+![aoki-hagane-no-arpeggio-ars-nova-movie-1-dc](https://cdn.myanimelist.net/images/anime/6/73611.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 蒼き鋼のアルペジオ -アルス・ノヴァ- DC

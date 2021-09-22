@@ -1,5 +1,7 @@
 # Cowboy Bebop: Tengoku no Tobira
 
+![cowboy-bebop-tengoku-no-tobira](https://cdn.myanimelist.net/images/anime/1439/93480.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: カウボーイビバップ 天国の扉

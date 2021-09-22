@@ -1,5 +1,7 @@
 # Detective Conan Movie 10: Promo Special
 
+![detective-conan-movie-10-promo-special](https://cdn.myanimelist.net/images/anime/2/17584.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン　探偵たちの鎮魂歌[レクイエム]

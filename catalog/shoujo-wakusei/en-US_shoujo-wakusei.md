@@ -1,5 +1,7 @@
 # Shoujo Wakusei
 
+![shoujo-wakusei](https://cdn.myanimelist.net/images/manga/1/151722.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

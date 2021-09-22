@@ -1,5 +1,7 @@
 # Bloody Night
 
+![bloody-night](https://cdn.myanimelist.net/images/anime/8/33341.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 血みどろの夜

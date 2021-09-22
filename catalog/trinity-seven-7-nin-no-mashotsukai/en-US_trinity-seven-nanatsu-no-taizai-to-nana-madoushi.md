@@ -1,5 +1,7 @@
 # Trinity Seven: Nanatsu no Taizai to Nana Madoushi
 
+![trinity-seven-nanatsu-no-taizai-to-nana-madoushi](https://cdn.myanimelist.net/images/anime/3/74066.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: トリニティセブン 七つの大罪と七魔道士

@@ -1,5 +1,7 @@
 # Mitsudomoe
 
+![mitsudomoe](https://cdn.myanimelist.net/images/anime/12/53947.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: みつどもえ
@@ -27,4 +29,4 @@ The three are all in the same class, led by the newly graduated teacher Yabe Sat
 -   [Official Site](http://www.mitsudomoe-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7224)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11180)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Mitsudomoe_(manga)#Anime>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Mitsudomoe_%28manga%29#Anime)

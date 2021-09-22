@@ -1,5 +1,7 @@
 # Ojousama to Shitsuji Minarai no Jinjou Narazaru Kankei
 
+![ojousama-to-shitsuji-minarai-no-jinjou-narazaru-kankei](https://cdn.myanimelist.net/images/manga/3/238251.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

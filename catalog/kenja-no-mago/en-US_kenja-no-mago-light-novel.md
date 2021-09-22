@@ -1,5 +1,7 @@
 # Kenja no Mago
 
+![kenja-no-mago](https://cdn.myanimelist.net/images/manga/1/161912.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 賢者の孫
 -   **start-date**: 2015-07-30

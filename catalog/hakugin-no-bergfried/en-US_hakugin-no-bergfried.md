@@ -1,5 +1,7 @@
 # Hakugin no Bergfried
 
+![hakugin-no-bergfried](https://cdn.myanimelist.net/images/manga/2/162289.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 25

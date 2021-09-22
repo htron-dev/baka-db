@@ -1,5 +1,7 @@
 # Waga Itoshi no Wota Kanojo
 
+![waga-itoshi-no-wota-kanojo](https://cdn.myanimelist.net/images/manga/1/221272.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 28

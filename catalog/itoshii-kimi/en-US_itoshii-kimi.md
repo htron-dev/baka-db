@@ -1,5 +1,7 @@
 # Itoshii Kimi
 
+![itoshii-kimi](https://cdn.myanimelist.net/images/manga/2/32864.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

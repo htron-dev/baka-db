@@ -1,5 +1,7 @@
 # Nitaboh
 
+![nitaboh](https://cdn.myanimelist.net/images/anime/6/14630.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: NITABOH 仁太坊―津軽三味線始祖外聞

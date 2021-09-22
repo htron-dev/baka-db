@@ -1,5 +1,7 @@
 # Long Riders!
 
+![long-riders](https://cdn.myanimelist.net/images/manga/3/154536.jpg)
+
 -   **type**: manga
 -   **original-name**: ろんぐらいだぁす!
 -   **start-date**: 2012-09-27

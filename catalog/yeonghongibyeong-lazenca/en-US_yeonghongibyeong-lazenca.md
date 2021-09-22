@@ -1,5 +1,7 @@
 # Yeonghongibyeong Lazenca
 
+![yeonghongibyeong-lazenca](https://cdn.myanimelist.net/images/anime/12/68417.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 영혼기병 라젠카

@@ -1,5 +1,7 @@
 # Nerawareta Gakuen
 
+![nerawareta-gakuen](https://cdn.myanimelist.net/images/manga/2/95479.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ねらわれた学園

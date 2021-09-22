@@ -1,5 +1,7 @@
 # Love + Dessin
 
+![love-dessin](https://cdn.myanimelist.net/images/manga/1/21731.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 爱的素描

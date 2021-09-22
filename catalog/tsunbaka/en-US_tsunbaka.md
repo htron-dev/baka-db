@@ -1,5 +1,7 @@
 # Tsunbaka
 
+![tsunbaka](https://cdn.myanimelist.net/images/manga/1/66635.jpg)
+
 -   **type**: manga
 -   **chapters**: 9
 -   **original-name**: ツンバカ

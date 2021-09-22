@@ -1,5 +1,7 @@
 # Dash &amp; Spin: Chousoku Sonic
 
+![dash-amp-spin-chousoku-sonic](https://cdn.myanimelist.net/images/manga/5/6726.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

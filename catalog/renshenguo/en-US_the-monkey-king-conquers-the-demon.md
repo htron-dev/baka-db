@@ -1,5 +1,7 @@
 # The Monkey King Conquers the Demon
 
+![the-monkey-king-conquers-the-demon](https://cdn.myanimelist.net/images/anime/4/26077.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 金猴降妖

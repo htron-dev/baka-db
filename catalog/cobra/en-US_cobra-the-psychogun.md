@@ -1,5 +1,7 @@
 # Cobra: The Psychogun
 
+![cobra-the-psychogun](https://cdn.myanimelist.net/images/manga/3/41549.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: COBRA ザ・サイコガン

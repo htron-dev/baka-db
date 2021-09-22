@@ -1,5 +1,7 @@
 # This Is Not Blue
 
+![this-is-not-blue](https://cdn.myanimelist.net/images/anime/1066/109137.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: This is not BLUE

@@ -1,5 +1,7 @@
 # Zan Sayonara Zetsubou Sensei Bangaichi
 
+![zan-sayonara-zetsubou-sensei-bangaichi](https://cdn.myanimelist.net/images/anime/9/17699.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 懺さよなら絶望先生 番外地

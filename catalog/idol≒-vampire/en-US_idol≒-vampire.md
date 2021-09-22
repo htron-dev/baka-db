@@ -1,5 +1,7 @@
 # Idol≒Vampire
 
+![idol≒-vampire](https://cdn.myanimelist.net/images/manga/2/160662.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: アイドル ≒ ヴァンパイア

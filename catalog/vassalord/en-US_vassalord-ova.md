@@ -1,5 +1,7 @@
 # Vassalord.
 
+![vassalord](https://cdn.myanimelist.net/images/anime/3/43213.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: Vassalord. (ヴァッサロード)

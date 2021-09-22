@@ -1,5 +1,7 @@
 # Hajimemashite no Silvandol
 
+![hajimemashite-no-silvandol](https://cdn.myanimelist.net/images/manga/3/180784.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 22

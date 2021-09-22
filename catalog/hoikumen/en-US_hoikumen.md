@@ -1,5 +1,7 @@
 # Hoikumen!
 
+![hoikumen](https://cdn.myanimelist.net/images/manga/1/65973.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: ホイクメン！

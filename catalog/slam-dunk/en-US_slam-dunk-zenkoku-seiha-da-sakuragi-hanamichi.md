@@ -1,5 +1,7 @@
 # Slam Dunk: Zenkoku Seiha Da! - Sakuragi Hanamichi
 
+![slam-dunk-zenkoku-seiha-da-sakuragi-hanamichi](https://cdn.myanimelist.net/images/anime/12/31929.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: スラムダンク 全国制覇だ！桜木花道

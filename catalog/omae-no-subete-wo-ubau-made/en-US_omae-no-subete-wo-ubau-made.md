@@ -1,5 +1,7 @@
 # Omae no Subete wo Ubau Made
 
+![omae-no-subete-wo-ubau-made](https://cdn.myanimelist.net/images/manga/2/226290.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

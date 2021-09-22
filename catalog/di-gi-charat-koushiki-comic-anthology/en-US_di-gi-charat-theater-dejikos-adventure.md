@@ -1,5 +1,7 @@
 # Di Gi Charat Theater: Dejiko's Adventure
 
+![di-gi-charat-theater-dejikos-adventure](https://cdn.myanimelist.net/images/manga/3/17547.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: でじこ ☆ あどべんちゃー

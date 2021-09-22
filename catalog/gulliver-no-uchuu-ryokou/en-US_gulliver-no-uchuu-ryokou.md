@@ -1,5 +1,7 @@
 # Gulliver no Uchuu Ryokou
 
+![gulliver-no-uchuu-ryokou](https://cdn.myanimelist.net/images/anime/13/45358.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ガリバーの宇宙旅行

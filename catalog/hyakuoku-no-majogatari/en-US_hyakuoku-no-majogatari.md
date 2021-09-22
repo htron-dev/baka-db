@@ -1,5 +1,7 @@
 # Hyakuoku no Majogatari
 
+![hyakuoku-no-majogatari](https://cdn.myanimelist.net/images/manga/3/139587.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 百億の魔女語り

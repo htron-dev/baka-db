@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni Gou
 
+![higurashi-no-naku-koro-ni-gou](https://cdn.myanimelist.net/images/anime/1716/111533.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ひぐらしのなく頃に業

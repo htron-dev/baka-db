@@ -1,5 +1,7 @@
 # Mata, Onaji Yume wo Miteita
 
+![mata-onaji-yume-wo-miteita](https://cdn.myanimelist.net/images/manga/3/207726.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

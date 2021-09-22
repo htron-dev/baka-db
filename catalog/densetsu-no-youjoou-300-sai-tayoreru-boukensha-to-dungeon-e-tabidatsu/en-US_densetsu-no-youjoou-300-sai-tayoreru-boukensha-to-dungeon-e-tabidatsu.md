@@ -1,5 +1,7 @@
 # Densetsu no Youjoou (300-sai) Tayoreru Boukensha to Dungeon e Tabidatsu
 
+![densetsu-no-youjoou-300-sai-tayoreru-boukensha-to-dungeon-e-tabidatsu](https://cdn.myanimelist.net/images/manga/2/235343.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 伝説の幼女王(300 歳)頼れる冒険者とダンジョンへ旅立つ
 -   **start-date**: 2019-10-01

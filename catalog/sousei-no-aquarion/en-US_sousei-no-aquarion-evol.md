@@ -1,5 +1,7 @@
 # Sousei no Aquarion Evol
 
+![sousei-no-aquarion-evol](https://cdn.myanimelist.net/images/anime/8/72733.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 創勢のアクエリオン EVOL

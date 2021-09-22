@@ -1,5 +1,7 @@
 # Bu Sha
 
+![bu-sha](https://cdn.myanimelist.net/images/manga/1/106527.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 14
 -   **chapters**: 107

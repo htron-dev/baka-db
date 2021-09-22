@@ -1,5 +1,7 @@
 # Ponshu-bu!
 
+![ponshu-bu](https://cdn.myanimelist.net/images/manga/1/213897.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 50

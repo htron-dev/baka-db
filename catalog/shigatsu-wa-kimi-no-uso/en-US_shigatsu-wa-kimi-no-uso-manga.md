@@ -1,5 +1,7 @@
 # Shigatsu wa Kimi no Uso
 
+![shigatsu-wa-kimi-no-uso](https://cdn.myanimelist.net/images/manga/3/102691.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 44

@@ -1,5 +1,7 @@
 # Chicken Papa
 
+![chicken-papa](https://cdn.myanimelist.net/images/anime/9/81519.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: チキンパパ

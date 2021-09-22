@@ -1,5 +1,7 @@
 # Tenman à la carte
 
+![tenman-a-la-carte](https://cdn.myanimelist.net/images/manga/1/155662.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

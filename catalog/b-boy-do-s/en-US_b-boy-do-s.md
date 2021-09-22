@@ -1,5 +1,7 @@
 # b-BOY Do S
 
+![b-boy-do-s](https://cdn.myanimelist.net/images/manga/2/174220.jpg)
+
 -   **type**: manga
 -   **original-name**: b-BOY ド S
 -   **start-date**: 2014-09-30

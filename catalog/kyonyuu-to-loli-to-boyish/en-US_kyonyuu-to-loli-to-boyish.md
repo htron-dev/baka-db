@@ -1,5 +1,7 @@
 # Kyonyuu to Loli to Boyish
 
+![kyonyuu-to-loli-to-boyish](https://cdn.myanimelist.net/images/manga/3/203506.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

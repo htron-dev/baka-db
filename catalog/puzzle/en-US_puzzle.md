@@ -1,5 +1,7 @@
 # Puzzle+
 
+![puzzle](https://cdn.myanimelist.net/images/manga/1/159357.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

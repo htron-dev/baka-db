@@ -1,5 +1,7 @@
 # Son Gokuu Silk Road wo Tobu!!
 
+![son-gokuu-silk-road-wo-tobu](https://cdn.myanimelist.net/images/anime/5/63517.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 孫悟空シルクロードをとぶ！！

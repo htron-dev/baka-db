@@ -1,5 +1,7 @@
 # School Democracy!
 
+![school-democracy](https://cdn.myanimelist.net/images/manga/3/121951.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: スクール・デモクラシー！

@@ -1,5 +1,7 @@
 # Cinderella Boy
 
+![cinderella-boy](https://cdn.myanimelist.net/images/manga/1/30553.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

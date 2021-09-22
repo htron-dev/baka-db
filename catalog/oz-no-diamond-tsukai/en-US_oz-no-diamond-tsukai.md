@@ -1,5 +1,7 @@
 # Oz no Diamond Tsukai
 
+![oz-no-diamond-tsukai](https://cdn.myanimelist.net/images/manga/2/164337.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: オズのダイヤ使い

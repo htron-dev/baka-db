@@ -1,5 +1,7 @@
 # Gake no Ue no Ponyo
 
+![gake-no-ue-no-ponyo](https://cdn.myanimelist.net/images/anime/7/8970.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 崖の上のポニョ

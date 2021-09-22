@@ -1,5 +1,7 @@
 # Amai Kao wa Misenai de
 
+![amai-kao-wa-misenai-de](https://cdn.myanimelist.net/images/manga/1/16768.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Devilman: Crybaby - Digest Eizou
 
+![devilman-crybaby-digest-eizou](https://cdn.myanimelist.net/images/anime/1959/91379.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 「DEVILMAN crybaby」ダイジェスト映像

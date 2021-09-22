@@ -1,5 +1,7 @@
 # Cookin' Idol Ai! Mai! Main!
 
+![cookin-idol-ai-mai-main](https://cdn.myanimelist.net/images/anime/13/73550.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 305
 -   **original-name**: クッキンアイドル　アイ！マイ！まいん！

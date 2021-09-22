@@ -1,5 +1,7 @@
 # Yanesenondo
 
+![yanesenondo](https://cdn.myanimelist.net/images/anime/2/78360.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: やねせんおんど

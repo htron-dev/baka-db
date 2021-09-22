@@ -1,5 +1,7 @@
 # Princess no Kakurega
 
+![princess-no-kakurega](https://cdn.myanimelist.net/images/manga/2/42828.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

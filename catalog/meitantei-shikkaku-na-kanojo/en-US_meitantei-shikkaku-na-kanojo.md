@@ -1,5 +1,7 @@
 # Meitantei Shikkaku na Kanojo
 
+![meitantei-shikkaku-na-kanojo](https://cdn.myanimelist.net/images/manga/3/143079.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 名探偵失格な彼女

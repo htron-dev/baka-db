@@ -1,5 +1,7 @@
 # Eru
 
+![eru](https://cdn.myanimelist.net/images/manga/1/30004.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: エル (高橋 美由紀)

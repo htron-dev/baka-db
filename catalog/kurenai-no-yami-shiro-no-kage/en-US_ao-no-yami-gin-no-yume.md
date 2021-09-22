@@ -1,5 +1,7 @@
 # Ao no Yami Gin no Yume
 
+![ao-no-yami-gin-no-yume](https://cdn.myanimelist.net/images/manga/1/58123.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

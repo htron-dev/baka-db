@@ -1,5 +1,7 @@
 # School Days ONA
 
+![school-days-ona](https://cdn.myanimelist.net/images/anime/2/23042.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: スクールデイズ

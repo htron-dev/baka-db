@@ -1,5 +1,7 @@
 # Gakuyaura Ouji
 
+![gakuyaura-ouji](https://cdn.myanimelist.net/images/manga/2/185823.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 6

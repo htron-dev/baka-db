@@ -1,5 +1,7 @@
 # Colorful Palette
 
+![colorful-palette](https://cdn.myanimelist.net/images/manga/3/24351.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 23

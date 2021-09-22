@@ -1,5 +1,7 @@
 # Yuugure no Jouji: Furin no Daishou
 
+![yuugure-no-jouji-furin-no-daishou](https://cdn.myanimelist.net/images/manga/1/195486.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

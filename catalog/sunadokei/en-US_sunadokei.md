@@ -1,5 +1,7 @@
 # Sunadokei
 
+![sunadokei](https://cdn.myanimelist.net/images/manga/4/213999.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 21

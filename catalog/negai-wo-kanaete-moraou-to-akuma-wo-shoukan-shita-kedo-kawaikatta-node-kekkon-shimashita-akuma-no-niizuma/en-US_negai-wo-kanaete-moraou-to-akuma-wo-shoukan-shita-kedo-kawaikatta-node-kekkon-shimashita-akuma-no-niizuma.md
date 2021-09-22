@@ -1,5 +1,7 @@
 # Negai wo Kanaete Moraou to Akuma wo Shoukan shita kedo, Kawaikatta node Kekkon shimashita: Akuma no Niizuma
 
+![negai-wo-kanaete-moraou-to-akuma-wo-shoukan-shita-kedo-kawaikatta-node-kekkon-shimashita-akuma-no-niizuma](https://cdn.myanimelist.net/images/manga/3/238968.jpg)
+
 -   **type**: manga
 -   **original-name**: 願いを叶えてもらおうと悪魔を召喚したけど、可愛かったので結婚しました～悪魔の新妻～
 -   **start-date**: 2020-06-11

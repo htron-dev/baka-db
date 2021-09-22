@@ -1,5 +1,7 @@
 # Elysion: Futatsu no Rakuen wo Meguru Monogatari
 
+![elysion-futatsu-no-rakuen-wo-meguru-monogatari](https://cdn.myanimelist.net/images/manga/2/166264.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

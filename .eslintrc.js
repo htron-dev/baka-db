@@ -12,6 +12,7 @@ module.exports = {
     plugins: ['@typescript-eslint'],
     rules: {
         indent: ['error', 4],
-        quotes: ['error', 'single']
+        quotes: ['error', 'single'],
+        'no-unmodified-loop-condition': 'off'
     }
 }

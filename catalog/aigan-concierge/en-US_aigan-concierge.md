@@ -1,5 +1,7 @@
 # Aigan Concierge
 
+![aigan-concierge](https://cdn.myanimelist.net/images/manga/1/102405.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

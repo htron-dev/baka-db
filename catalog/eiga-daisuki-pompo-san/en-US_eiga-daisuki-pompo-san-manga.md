@@ -1,5 +1,7 @@
 # Eiga Daisuki Pompo-san
 
+![eiga-daisuki-pompo-san](https://cdn.myanimelist.net/images/manga/1/226136.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 映画大好きポンポさん

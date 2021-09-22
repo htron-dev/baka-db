@@ -1,5 +1,7 @@
 # Lemon Angel
 
+![lemon-angel](https://cdn.myanimelist.net/images/manga/2/231024.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 111

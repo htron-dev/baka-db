@@ -1,5 +1,7 @@
 # Sukitte Ii na yo.
 
+![sukitte-ii-na-yo](https://cdn.myanimelist.net/images/anime/11/39777.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 好きっていいなよ。

@@ -1,5 +1,7 @@
 # Pucca 3
 
+![pucca-3](https://cdn.myanimelist.net/images/anime/1289/114526.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 뿌까(2018년)
@@ -11,7 +13,6 @@
 
 -   action
 -   comedy
-
 -   romance
 
 ## Sinopse
@@ -21,4 +22,4 @@ Faced with a threat to the survival of her family restaurant, as well as a rival
 ## Links
 
 -   [My Anime list](https://myanimelist.net/anime/48235/Pucca_3)
--   [Wikipedia](<https://en.wikipedia.org/wiki/List_of_Pucca_episodes#Season_3:_Love_Recipe_(2018%E2%80%9319)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/List_of_Pucca_episodes#Season_3:_Love_Recipe_%282018%E2%80%9319%29)

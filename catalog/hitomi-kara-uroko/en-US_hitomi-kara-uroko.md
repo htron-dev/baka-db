@@ -1,5 +1,7 @@
 # Hitomi kara Uroko
 
+![hitomi-kara-uroko](https://cdn.myanimelist.net/images/manga/1/83759.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Poppoya-san: Nonki Ekichou
 
+![poppoya-san-nonki-ekichou](https://cdn.myanimelist.net/images/anime/5/61211.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ポッポやさん のんき駅長

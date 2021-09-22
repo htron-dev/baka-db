@@ -1,5 +1,7 @@
 # Doyoubi ni wa Kitto Iku kara
 
+![doyoubi-ni-wa-kitto-iku-kara](https://cdn.myanimelist.net/images/manga/3/32733.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

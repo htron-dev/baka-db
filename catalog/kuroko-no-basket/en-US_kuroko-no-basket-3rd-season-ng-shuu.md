@@ -1,5 +1,7 @@
 # Kuroko no Basket 3rd Season NG-shuu
 
+![kuroko-no-basket-3rd-season-ng-shuu](https://cdn.myanimelist.net/images/anime/13/72551.jpg)
+
 -   **type**: special
 -   **episodes**: 9
 -   **original-name**: 黒子のバスケ 3 期 NG 集

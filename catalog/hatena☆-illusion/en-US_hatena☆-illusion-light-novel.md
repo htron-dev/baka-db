@@ -1,5 +1,7 @@
 # Hatena☆Illusion
 
+![hatena☆-illusion](https://cdn.myanimelist.net/images/manga/1/206224.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 32

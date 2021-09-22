@@ -1,5 +1,7 @@
 # Joker no Kuni no Alice: Mayonaka ni Ochiru Yume
 
+![joker-no-kuni-no-alice-mayonaka-ni-ochiru-yume](https://cdn.myanimelist.net/images/manga/2/42624.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

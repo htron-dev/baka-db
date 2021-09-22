@@ -1,5 +1,7 @@
 # Bastard!!: Ankoku no Hakaishin
 
+![bastard-ankoku-no-hakaishin](https://cdn.myanimelist.net/images/anime/2/9601.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: バスタード!! 暗黒の破壊神

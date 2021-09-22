@@ -1,5 +1,7 @@
 # Hameln no Violin-hiki
 
+![hameln-no-violin-hiki](https://cdn.myanimelist.net/images/manga/2/181467.jpg)
+
 -   **type**: manga
 -   **volumes**: 37
 -   **chapters**: 146

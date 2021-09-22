@@ -1,5 +1,7 @@
 # Sore wa, Kimi ga Mita Ao Datta
 
+![sore-wa-kimi-ga-mita-ao-datta](https://cdn.myanimelist.net/images/manga/1/237012.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 40

@@ -1,5 +1,7 @@
 # Cider to Nakimushi.
 
+![cider-to-nakimushi](https://cdn.myanimelist.net/images/manga/3/152294.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

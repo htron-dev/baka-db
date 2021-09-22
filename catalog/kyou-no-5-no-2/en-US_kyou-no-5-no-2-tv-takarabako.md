@@ -1,5 +1,7 @@
 # Kyou no 5 no 2 (TV): Takarabako
 
+![kyou-no-5-no-2-tv-takarabako](https://cdn.myanimelist.net/images/anime/5/14378.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 今日の５の２宝箱

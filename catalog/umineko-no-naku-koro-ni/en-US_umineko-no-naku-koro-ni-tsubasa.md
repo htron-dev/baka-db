@@ -1,5 +1,7 @@
 # Umineko no Naku Koro ni Tsubasa
 
+![umineko-no-naku-koro-ni-tsubasa](https://cdn.myanimelist.net/images/manga/2/134977.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

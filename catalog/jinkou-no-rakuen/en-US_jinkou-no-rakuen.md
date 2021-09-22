@@ -1,5 +1,7 @@
 # Jinkou no Rakuen
 
+![jinkou-no-rakuen](https://cdn.myanimelist.net/images/anime/12/73775.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 人工の楽園

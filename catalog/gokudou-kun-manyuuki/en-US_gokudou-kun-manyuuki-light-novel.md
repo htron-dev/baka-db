@@ -1,5 +1,7 @@
 # Gokudou-kun Manyuuki
 
+![gokudou-kun-manyuuki](https://cdn.myanimelist.net/images/manga/2/168985.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 13
 -   **original-name**: ゴクドーくん漫遊記

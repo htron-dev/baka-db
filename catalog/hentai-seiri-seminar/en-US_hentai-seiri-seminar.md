@@ -1,5 +1,7 @@
 # Hentai Seiri Seminar
 
+![hentai-seiri-seminar](https://cdn.myanimelist.net/images/manga/2/178707.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Needless Zero
 
+![needless-zero](https://cdn.myanimelist.net/images/manga/4/91805.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

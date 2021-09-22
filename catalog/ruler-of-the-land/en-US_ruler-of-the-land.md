@@ -1,5 +1,7 @@
 # Ruler of the Land
 
+![ruler-of-the-land](https://cdn.myanimelist.net/images/manga/3/172896.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 열혈강호
 

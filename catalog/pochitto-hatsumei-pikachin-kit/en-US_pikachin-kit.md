@@ -1,5 +1,7 @@
 # Pikachin-Kit
 
+![pikachin-kit](https://cdn.myanimelist.net/images/anime/12/88334.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 115
 -   **original-name**: ポチっと発明 ピカちんキット

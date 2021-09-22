@@ -1,5 +1,7 @@
 # Yamada no Orochi
 
+![yamada-no-orochi](https://cdn.myanimelist.net/images/manga/2/51925.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ヤマダのオロチ

@@ -1,5 +1,7 @@
 # NHK ni Youkoso!
 
+![nhk-ni-youkoso](https://cdn.myanimelist.net/images/manga/1/172691.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 40

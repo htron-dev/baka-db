@@ -1,5 +1,7 @@
 # Kagami no Mukou no Saihate Toshokan: Hikari no Yuusha to Itsuwari no Maou
 
+![kagami-no-mukou-no-saihate-toshokan-hikari-no-yuusha-to-itsuwari-no-maou](https://cdn.myanimelist.net/images/manga/3/229382.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

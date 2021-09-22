@@ -1,5 +1,7 @@
 # Mayo Elle Otoko no Ko
 
+![mayo-elle-otoko-no-ko](https://cdn.myanimelist.net/images/anime/8/27418.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 迷 elle オトコノ娘

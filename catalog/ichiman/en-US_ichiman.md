@@ -1,5 +1,7 @@
 # Ichiman
 
+![ichiman](https://cdn.myanimelist.net/images/anime/1694/107695.jpg)
+
 -   **type**: ona
 -   **episodes**: 18
 -   **original-name**: イチマン

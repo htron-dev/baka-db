@@ -1,5 +1,7 @@
 # Frontiers: Bucket-san no Komakame na Kaitakuki
 
+![frontiers-bucket-san-no-komakame-na-kaitakuki](https://cdn.myanimelist.net/images/manga/1/195786.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ふろんてぃあーず ～バケツさんの細かめな開拓記～
 -   **start-date**: 2017-05-23

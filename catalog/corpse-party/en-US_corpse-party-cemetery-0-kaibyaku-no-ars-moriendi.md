@@ -1,5 +1,7 @@
 # Corpse Party Cemetery 0: Kaibyaku no Ars Moriendi
 
+![corpse-party-cemetery-0-kaibyaku-no-ars-moriendi](https://cdn.myanimelist.net/images/manga/1/125553.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

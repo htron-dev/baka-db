@@ -1,5 +1,7 @@
 # Nibelung no Yubiwa
 
+![nibelung-no-yubiwa](https://cdn.myanimelist.net/images/manga/1/18494.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ニーベルンクの指輪

@@ -1,5 +1,7 @@
 # Henna Omamesan
 
+![henna-omamesan](https://cdn.myanimelist.net/images/anime/7/80677.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 変なお豆さん

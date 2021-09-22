@@ -1,5 +1,7 @@
 # Blaster Knuckle
 
+![blaster-knuckle](https://cdn.myanimelist.net/images/manga/5/30836.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

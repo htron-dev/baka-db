@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni Kai - Dai 1-wa: Meakashi-hen
 
+![higurashi-no-naku-koro-ni-kai-dai-1-wa-meakashi-hen](https://cdn.myanimelist.net/images/manga/2/135197.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: ひぐらしのなく頃に解 第 1 話～目明し編～

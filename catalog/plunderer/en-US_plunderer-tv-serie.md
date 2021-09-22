@@ -1,5 +1,7 @@
 # Plunderer
 
+![plunderer](https://cdn.myanimelist.net/images/anime/1534/104784.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: プランダラ
@@ -34,4 +36,4 @@ Plunderer follows the journey of Hina and other inhabitants of Alcia as they dis
 -   [Official Site](http://plunderer-info.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13826)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21996)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Plunderer_(manga)#Anime>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Plunderer_%28manga%29#Anime)

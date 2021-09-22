@@ -1,5 +1,7 @@
 # Flow
 
+![flow](https://cdn.myanimelist.net/images/manga/3/216590.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **chapters**: 103

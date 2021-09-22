@@ -1,5 +1,7 @@
 # Arakure Ojousama wa Monmon Shiteiru
 
+![arakure-ojousama-wa-monmon-shiteiru](https://cdn.myanimelist.net/images/manga/3/221681.jpg)
+
 -   **type**: manga
 -   **original-name**: あらくれお嬢様はもんもんしている
 -   **start-date**: 2018-11-06

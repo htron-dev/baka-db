@@ -1,5 +1,7 @@
 # Perfect Twin
 
+![perfect-twin](https://cdn.myanimelist.net/images/manga/3/13056.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 49

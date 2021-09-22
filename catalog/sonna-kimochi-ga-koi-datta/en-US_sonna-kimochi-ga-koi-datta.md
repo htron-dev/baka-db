@@ -1,5 +1,7 @@
 # Sonna Kimochi ga Koi datta
 
+![sonna-kimochi-ga-koi-datta](https://cdn.myanimelist.net/images/manga/3/165178.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

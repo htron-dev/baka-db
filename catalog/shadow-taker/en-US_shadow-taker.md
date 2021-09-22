@@ -1,5 +1,7 @@
 # Shadow Taker
 
+![shadow-taker](https://cdn.myanimelist.net/images/manga/1/95559.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 34

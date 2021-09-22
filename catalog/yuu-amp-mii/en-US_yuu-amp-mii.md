@@ -1,5 +1,7 @@
 # Yuu &amp; Mii
 
+![yuu-amp-mii](https://cdn.myanimelist.net/images/manga/1/136509.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 49

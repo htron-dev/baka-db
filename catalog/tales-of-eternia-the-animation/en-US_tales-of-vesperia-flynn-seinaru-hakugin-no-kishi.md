@@ -1,5 +1,7 @@
 # Tales of Vesperia: Flynn Seinaru Hakugin no Kishi
 
+![tales-of-vesperia-flynn-seinaru-hakugin-no-kishi](https://cdn.myanimelist.net/images/manga/5/112079.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: テイルズ オブ ヴェスペリア フレン 聖なる白銀の騎士

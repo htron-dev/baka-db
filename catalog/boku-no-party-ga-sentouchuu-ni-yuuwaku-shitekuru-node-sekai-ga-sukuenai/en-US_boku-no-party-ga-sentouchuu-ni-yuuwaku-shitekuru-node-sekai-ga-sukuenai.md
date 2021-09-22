@@ -1,5 +1,7 @@
 # Boku no Party ga Sentouchuu ni Yuuwaku Shitekuru node Sekai ga Sukuenai
 
+![boku-no-party-ga-sentouchuu-ni-yuuwaku-shitekuru-node-sekai-ga-sukuenai](https://cdn.myanimelist.net/images/manga/2/168627.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

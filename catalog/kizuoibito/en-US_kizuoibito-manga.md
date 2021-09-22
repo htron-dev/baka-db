@@ -1,5 +1,7 @@
 # Kizuoibito
 
+![kizuoibito](https://cdn.myanimelist.net/images/manga/1/4599.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 105

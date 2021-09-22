@@ -1,5 +1,7 @@
 # Red List: Keishichou Sotai Sanka PO
 
+![red-list-keishichou-sotai-sanka-po](https://cdn.myanimelist.net/images/manga/3/250259.jpg)
+
 -   **type**: manga
 -   **original-name**: レッドリスト～警視庁組対三課 PO ～
 -   **start-date**: 2021-04-30

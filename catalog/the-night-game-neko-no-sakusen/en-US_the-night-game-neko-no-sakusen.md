@@ -1,5 +1,7 @@
 # The Night Game: Neko no Sakusen
 
+![the-night-game-neko-no-sakusen](https://cdn.myanimelist.net/images/anime/7/70965.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: TheNightGame ネコのさくせん

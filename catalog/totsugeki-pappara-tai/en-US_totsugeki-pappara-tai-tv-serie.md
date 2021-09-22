@@ -1,5 +1,7 @@
 # Totsugeki! Pappara-tai
 
+![totsugeki-pappara-tai](https://cdn.myanimelist.net/images/anime/4/89027.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 突撃! パッパラ隊

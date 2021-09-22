@@ -1,5 +1,7 @@
 # Sono Otoko, Unmei ni Tsuki
 
+![sono-otoko-unmei-ni-tsuki](https://cdn.myanimelist.net/images/manga/2/158664.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 28

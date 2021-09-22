@@ -1,5 +1,7 @@
 # Sore wa Rei no Shiwaza desu
 
+![sore-wa-rei-no-shiwaza-desu](https://cdn.myanimelist.net/images/manga/1/233583.jpg)
+
 -   **type**: manga
 -   **original-name**: それは霊のしわざです
 -   **start-date**: 2020-04-04

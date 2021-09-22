@@ -1,5 +1,7 @@
 # Rikei Joushi no Koudou ga Nankai desu: Wana dato Omottara Koi deshita
 
+![rikei-joushi-no-koudou-ga-nankai-desu-wana-dato-omottara-koi-deshita](https://cdn.myanimelist.net/images/manga/3/195518.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Chiteki na Mitsuka
 
+![chiteki-na-mitsuka](https://cdn.myanimelist.net/images/manga/1/199145.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 知的な蜜華

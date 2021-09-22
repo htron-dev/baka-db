@@ -1,5 +1,7 @@
 # Crayon Shin-chan Movie 28: Gekitotsu! Rakuga Kingdom to Hobo Yonin no Yuusha
 
+![crayon-shin-chan-movie-28-gekitotsu-rakuga-kingdom-to-hobo-yonin-no-yuusha](https://cdn.myanimelist.net/images/anime/1659/104900.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画クレヨンしんちゃん 激突! ラクガキングダムとほぼ四人の勇者

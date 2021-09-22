@@ -1,5 +1,7 @@
 # Garakuta-doori no Stain
 
+![garakuta-doori-no-stain](https://cdn.myanimelist.net/images/anime/11/67227.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ガラクタ通りのステイン

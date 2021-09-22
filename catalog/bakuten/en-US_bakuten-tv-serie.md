@@ -1,5 +1,7 @@
 # Bakuten!!
 
+![bakuten](https://cdn.myanimelist.net/images/anime/1827/113510.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: バクテン!!

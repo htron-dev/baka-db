@@ -1,5 +1,7 @@
 # Dekisokonai no Monogatari
 
+![dekisokonai-no-monogatari](https://cdn.myanimelist.net/images/manga/1/39692.jpg)
+
 -   **type**: manga
 -   **original-name**: できそこないの物語
 

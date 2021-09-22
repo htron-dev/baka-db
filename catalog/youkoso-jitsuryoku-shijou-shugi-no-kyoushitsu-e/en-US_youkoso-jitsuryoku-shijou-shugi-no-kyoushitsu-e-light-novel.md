@@ -1,5 +1,7 @@
 # Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
 
+![youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e](https://cdn.myanimelist.net/images/manga/2/177958.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 14
 -   **chapters**: 110

@@ -1,5 +1,7 @@
 # Massugu ni Ikou.
 
+![massugu-ni-ikou](https://cdn.myanimelist.net/images/anime/12/76159.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 4
 -   **original-name**: まっすぐにいこう。

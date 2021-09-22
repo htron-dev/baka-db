@@ -1,5 +1,7 @@
 # Heroic Age
 
+![heroic-age](https://cdn.myanimelist.net/images/anime/12/50435.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ヒロイック・エイジ

@@ -1,5 +1,7 @@
 # Azur Lane: Bisoku Zenshin!
 
+![azur-lane-bisoku-zenshin](https://cdn.myanimelist.net/images/manga/3/220962.jpg)
+
 -   **type**: manga
 -   **original-name**: アズールレーン びそくぜんしんっ!
 -   **start-date**: 2018-04-23

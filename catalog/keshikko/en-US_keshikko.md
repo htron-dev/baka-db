@@ -1,5 +1,7 @@
 # Keshikko
 
+![keshikko](https://cdn.myanimelist.net/images/anime/1234/105532.jpg)
+
 -   **type**: ona
 -   **original-name**: ケシっこ
 -   **start-date**: 2019-01-07

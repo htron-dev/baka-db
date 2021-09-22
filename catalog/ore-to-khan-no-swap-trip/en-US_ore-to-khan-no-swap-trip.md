@@ -1,5 +1,7 @@
 # Ore to Khan no Swap Trip
 
+![ore-to-khan-no-swap-trip](https://cdn.myanimelist.net/images/manga/1/178464.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 俺とカーンの賢者タイム〈スワップトリップ〉
 -   **start-date**: 2015-02-05

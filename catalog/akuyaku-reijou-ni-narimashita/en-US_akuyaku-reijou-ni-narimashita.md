@@ -1,5 +1,7 @@
 # Akuyaku Reijou ni Narimashita.
 
+![akuyaku-reijou-ni-narimashita](https://cdn.myanimelist.net/images/manga/3/234615.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

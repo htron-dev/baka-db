@@ -1,5 +1,7 @@
 # Blue Seed Omake
 
+![blue-seed-omake](https://cdn.myanimelist.net/images/anime/7/6211.jpg)
+
 -   **type**: special
 -   **episodes**: 14
 -   **original-name**: ブルーシード おまけ

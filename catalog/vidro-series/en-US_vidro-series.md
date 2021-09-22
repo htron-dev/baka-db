@@ -1,5 +1,7 @@
 # Vidro Series
 
+![vidro-series](https://cdn.myanimelist.net/images/manga/1/236960.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 玻璃〈びいどろ〉シリーズ

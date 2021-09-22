@@ -1,5 +1,7 @@
 # Chivas 1-2-3
 
+![chivas-1-2-3](https://cdn.myanimelist.net/images/anime/5/3368.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: シーバス１-２-３

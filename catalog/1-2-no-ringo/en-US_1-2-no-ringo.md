@@ -1,5 +1,7 @@
 # 1/2 no Ringo
 
+![1-2-no-ringo](https://cdn.myanimelist.net/images/manga/3/47787.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **original-name**: １／２の林檎

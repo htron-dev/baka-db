@@ -1,5 +1,7 @@
 # RRR
 
+![rrr](https://cdn.myanimelist.net/images/manga/5/137911.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 106

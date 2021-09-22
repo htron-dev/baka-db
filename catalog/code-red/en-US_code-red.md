@@ -1,5 +1,7 @@
 # CODE:RED
 
+![code-red](https://cdn.myanimelist.net/images/manga/3/101383.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

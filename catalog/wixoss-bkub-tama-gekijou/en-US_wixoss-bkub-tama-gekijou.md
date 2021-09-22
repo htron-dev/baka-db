@@ -1,5 +1,7 @@
 # WIXOSS: bkub Tama Gekijou
 
+![wixoss-bkub-tama-gekijou](https://cdn.myanimelist.net/images/manga/2/230671.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

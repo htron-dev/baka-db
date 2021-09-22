@@ -1,5 +1,7 @@
 # Mahou Shoujo Nanaru Mahou Chuunen ga Sekai no Heiwa wo Mamoru Koto ni Natta you desu
 
+![mahou-shoujo-nanaru-mahou-chuunen-ga-sekai-no-heiwa-wo-mamoru-koto-ni-natta-you-desu](https://cdn.myanimelist.net/images/manga/2/170123.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

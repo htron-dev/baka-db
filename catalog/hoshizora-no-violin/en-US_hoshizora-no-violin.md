@@ -1,5 +1,7 @@
 # Hoshizora no Violin
 
+![hoshizora-no-violin](https://cdn.myanimelist.net/images/anime/2/27524.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 星空のバイオリン

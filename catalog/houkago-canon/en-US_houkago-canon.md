@@ -1,5 +1,7 @@
 # Houkago Canon
 
+![houkago-canon](https://cdn.myanimelist.net/images/manga/2/150574.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

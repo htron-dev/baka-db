@@ -1,5 +1,7 @@
 # Violet Evergarden Movie
 
+![violet-evergarden-movie](https://cdn.myanimelist.net/images/anime/1825/110716.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 ヴァイオレット・エヴァーガーデン

@@ -1,5 +1,7 @@
 # Lovey Dovey
 
+![lovey-dovey](https://cdn.myanimelist.net/images/manga/1/176093.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

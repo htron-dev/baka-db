@@ -1,5 +1,7 @@
 # Saikyou Ace, Mai
 
+![saikyou-ace-mai](https://cdn.myanimelist.net/images/manga/3/23271.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 最強エース、舞

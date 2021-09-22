@@ -1,5 +1,7 @@
 # Joshi no Teniwoha
 
+![joshi-no-teniwoha](https://cdn.myanimelist.net/images/manga/2/167333.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 18

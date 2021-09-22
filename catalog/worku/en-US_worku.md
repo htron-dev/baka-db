@@ -1,5 +1,7 @@
 # Worku
 
+![worku](https://cdn.myanimelist.net/images/anime/12/18022.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: WORKU (ウォルク)
@@ -19,4 +21,4 @@ A dark stop motion anime about a lone traveler in a desert who finds a solitary 
 ## Links
 
 -   [My Anime list](https://myanimelist.net/anime/7511/Worku)
--   [Official Site](http:// http://www.otomeru.com/worku/index.html)
+-   [Official Site](http://www.otomeru.com/worku/index.html)

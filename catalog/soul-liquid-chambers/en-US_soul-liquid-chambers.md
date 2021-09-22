@@ -1,5 +1,7 @@
 # Soul Liquid Chambers
 
+![soul-liquid-chambers](https://cdn.myanimelist.net/images/manga/1/191668.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

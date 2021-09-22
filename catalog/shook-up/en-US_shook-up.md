@@ -1,5 +1,7 @@
 # Shook Up!
 
+![shook-up](https://cdn.myanimelist.net/images/manga/2/30698.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

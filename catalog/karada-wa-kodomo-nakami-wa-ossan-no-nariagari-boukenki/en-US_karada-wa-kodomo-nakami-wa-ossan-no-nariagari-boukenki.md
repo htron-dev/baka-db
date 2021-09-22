@@ -1,5 +1,7 @@
 # Karada wa Kodomo, Nakami wa Ossan no Nariagari Boukenki
 
+![karada-wa-kodomo-nakami-wa-ossan-no-nariagari-boukenki](https://cdn.myanimelist.net/images/manga/3/248224.jpg)
+
 -   **type**: manga
 -   **original-name**: 身体は児童〈こども〉、中身はおっさんの成り上がり冒険記
 -   **start-date**: 2020-01-17

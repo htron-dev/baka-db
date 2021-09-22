@@ -1,5 +1,7 @@
 # Hiai Mousou
 
+![hiai-mousou](https://cdn.myanimelist.net/images/manga/2/169448.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

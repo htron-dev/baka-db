@@ -1,5 +1,7 @@
 # Miyazawa Kenji no Shokutaku
 
+![miyazawa-kenji-no-shokutaku](https://cdn.myanimelist.net/images/manga/2/227127.jpg)
+
 -   **type**: manga
 -   **original-name**: 宮沢賢治の食卓
 -   **start-date**: 2014-03-24

@@ -1,5 +1,7 @@
 # Takanashi Rikka Kai: Chuunibyou demo Koi ga Shitai! Movie Lite
 
+![takanashi-rikka-kai-chuunibyou-demo-koi-ga-shitai-movie-lite](https://cdn.myanimelist.net/images/anime/8/59343.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 映画中二病でも恋がしたい!Lite

@@ -1,5 +1,7 @@
 # Jinxed
 
+![jinxed](https://cdn.myanimelist.net/images/manga/1/28462.jpg)
+
 -   **type**: manga
 -   **chapters**: 1
 

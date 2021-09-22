@@ -1,5 +1,7 @@
 # Kiddy Grade VS
 
+![kiddy-grade-vs](https://cdn.myanimelist.net/images/manga/5/112349.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

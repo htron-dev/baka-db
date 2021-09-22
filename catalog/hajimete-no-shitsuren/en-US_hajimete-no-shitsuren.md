@@ -1,5 +1,7 @@
 # Hajimete no Shitsuren
 
+![hajimete-no-shitsuren](https://cdn.myanimelist.net/images/manga/1/142983.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

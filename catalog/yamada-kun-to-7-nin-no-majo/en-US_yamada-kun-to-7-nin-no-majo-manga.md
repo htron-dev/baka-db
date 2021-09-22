@@ -1,5 +1,7 @@
 # Yamada-kun to 7-nin no Majo
 
+![yamada-kun-to-7-nin-no-majo](https://cdn.myanimelist.net/images/manga/1/191685.jpg)
+
 -   **type**: manga
 -   **volumes**: 28
 -   **chapters**: 246

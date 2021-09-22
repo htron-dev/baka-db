@@ -1,5 +1,7 @@
 # Kaitou Pride
 
+![kaitou-pride](https://cdn.myanimelist.net/images/anime/10/53297.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 105
 -   **original-name**: 怪盗プライド

@@ -1,5 +1,7 @@
 # Hare Tokidoki Buta no Jishin Youjin Nikki
 
+![hare-tokidoki-buta-no-jishin-youjin-nikki](https://cdn.myanimelist.net/images/anime/1532/99046.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: はれときどきぶたの地震用心日記

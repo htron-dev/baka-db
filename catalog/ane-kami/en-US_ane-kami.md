@@ -1,5 +1,7 @@
 # Ane Kami!
 
+![ane-kami](https://cdn.myanimelist.net/images/manga/2/99001.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: アネかみ!

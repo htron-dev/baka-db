@@ -1,5 +1,7 @@
 # Mega☆Giga Panic: Shiritsu Renshuu Gakuin
 
+![mega☆-giga-panic-shiritsu-renshuu-gakuin](https://cdn.myanimelist.net/images/manga/3/238722.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

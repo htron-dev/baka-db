@@ -1,5 +1,7 @@
 # Bi no Kyoujin
 
+![bi-no-kyoujin](https://cdn.myanimelist.net/images/manga/2/159790.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

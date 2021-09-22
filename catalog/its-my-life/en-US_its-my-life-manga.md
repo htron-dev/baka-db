@@ -1,5 +1,7 @@
 # It's My Life
 
+![its-my-life](https://cdn.myanimelist.net/images/manga/1/216146.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 78

@@ -1,5 +1,7 @@
 # Keppuu no Legends
 
+![keppuu-no-legends](https://cdn.myanimelist.net/images/manga/1/164590.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

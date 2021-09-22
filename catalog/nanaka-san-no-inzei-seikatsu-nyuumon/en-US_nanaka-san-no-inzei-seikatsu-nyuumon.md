@@ -1,5 +1,7 @@
 # Nanaka-san no Inzei Seikatsu Nyuumon
 
+![nanaka-san-no-inzei-seikatsu-nyuumon](https://cdn.myanimelist.net/images/manga/3/223245.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ななかさんの印税生活入門

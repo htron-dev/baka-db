@@ -1,5 +1,7 @@
 # Curly
 
+![curly](https://cdn.myanimelist.net/images/anime/3/80666.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: Curly（カーリー）

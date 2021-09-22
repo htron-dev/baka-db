@@ -1,5 +1,7 @@
 # Glass no Hana to Kowasu Sekai
 
+![glass-no-hana-to-kowasu-sekai](https://cdn.myanimelist.net/images/manga/3/171056.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

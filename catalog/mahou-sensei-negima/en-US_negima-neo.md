@@ -1,5 +1,7 @@
 # Negima!? Neo
 
+![negima-neo](https://cdn.myanimelist.net/images/manga/2/156574.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 35

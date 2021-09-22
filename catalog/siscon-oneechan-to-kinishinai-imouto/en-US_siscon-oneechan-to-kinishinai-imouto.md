@@ -1,5 +1,7 @@
 # Siscon Oneechan to Kinishinai Imouto
 
+![siscon-oneechan-to-kinishinai-imouto](https://cdn.myanimelist.net/images/manga/2/216262.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

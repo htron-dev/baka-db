@@ -1,5 +1,7 @@
 # Tsumibukaki Prince
 
+![tsumibukaki-prince](https://cdn.myanimelist.net/images/manga/2/236011.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 罪深きプリンス

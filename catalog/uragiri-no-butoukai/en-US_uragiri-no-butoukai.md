@@ -1,5 +1,7 @@
 # Uragiri no Butoukai
 
+![uragiri-no-butoukai](https://cdn.myanimelist.net/images/manga/2/152360.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

@@ -1,5 +1,7 @@
 # Hybrid Deka
 
+![hybrid-deka](https://cdn.myanimelist.net/images/anime/10/82881.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ハイブリッド刑事(デカ)

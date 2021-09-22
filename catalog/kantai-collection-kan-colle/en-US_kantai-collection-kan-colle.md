@@ -1,5 +1,7 @@
 # Kantai Collection: KanColle
 
+![kantai-collection-kan-colle](https://cdn.myanimelist.net/images/anime/4/73954.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 艦隊これくしょん -艦これ-
@@ -29,4 +31,4 @@ With the seas under constant threat from the hostile "Abyssal Fleet," a speciali
 -   [Official Site](http://www.kancolle-anime.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10161)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=15814)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Kantai_Collection_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Kantai_Collection_%28anime%29)

@@ -1,5 +1,7 @@
 # Cherry no Manma
 
+![cherry-no-manma](https://cdn.myanimelist.net/images/manga/4/104675.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: Cherry のまんま

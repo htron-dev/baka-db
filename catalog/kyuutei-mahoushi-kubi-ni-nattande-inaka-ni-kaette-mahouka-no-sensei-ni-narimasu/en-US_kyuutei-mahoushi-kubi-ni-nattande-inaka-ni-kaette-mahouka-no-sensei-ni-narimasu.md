@@ -1,5 +1,7 @@
 # Kyuutei Mahoushi Kubi ni Nattande, Inaka ni Kaette Mahouka no Sensei ni Narimasu
 
+![kyuutei-mahoushi-kubi-ni-nattande-inaka-ni-kaette-mahouka-no-sensei-ni-narimasu](https://cdn.myanimelist.net/images/manga/1/244990.jpg)
+
 -   **type**: manga
 -   **original-name**: 宮廷魔法師クビになったんで、田舎に帰って魔法科の先生になります
 -   **start-date**: 2020-05-01

@@ -1,5 +1,7 @@
 # Yuri Danshi-kun
 
+![yuri-danshi-kun](https://cdn.myanimelist.net/images/manga/1/168930.jpg)
+
 -   **type**: manga
 -   **original-name**: 百合男子くん
 -   **start-date**: 2014-11-29

@@ -1,5 +1,7 @@
 # Doubutsu Mura Monogatari
 
+![doubutsu-mura-monogatari](https://cdn.myanimelist.net/images/anime/4/53319.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 100
 -   **original-name**: 動物村ものがたり

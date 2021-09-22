@@ -1,5 +1,7 @@
 # Shikkaku kara Hajimeru Nariagari Madoushidou!: Jumon Kaihatsu Tokidoki Senki
 
+![shikkaku-kara-hajimeru-nariagari-madoushidou-jumon-kaihatsu-tokidoki-senki](https://cdn.myanimelist.net/images/manga/2/241948.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 失格から始める成り上がり魔導師道！～呪文開発ときどき戦記～
 -   **start-date**: 2019-08-30

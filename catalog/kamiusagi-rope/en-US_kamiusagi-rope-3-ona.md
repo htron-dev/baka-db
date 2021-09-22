@@ -1,5 +1,7 @@
 # Kamiusagi Rope 3 (ONA)
 
+![kamiusagi-rope-3-ona](https://cdn.myanimelist.net/images/anime/9/38511.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 紙兎ロペ 3

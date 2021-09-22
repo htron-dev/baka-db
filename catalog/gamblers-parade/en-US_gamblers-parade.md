@@ -1,5 +1,7 @@
 # Gamblers Parade
 
+![gamblers-parade](https://cdn.myanimelist.net/images/manga/2/215270.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 35

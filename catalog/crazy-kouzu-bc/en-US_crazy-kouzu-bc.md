@@ -1,5 +1,7 @@
 # Crazy Kouzu BC
 
+![crazy-kouzu-bc](https://cdn.myanimelist.net/images/manga/1/12001.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 

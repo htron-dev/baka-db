@@ -1,5 +1,7 @@
 # Fairy Tail: Happy no Daibouken
 
+![fairy-tail-happy-no-daibouken](https://cdn.myanimelist.net/images/manga/2/219513.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 80

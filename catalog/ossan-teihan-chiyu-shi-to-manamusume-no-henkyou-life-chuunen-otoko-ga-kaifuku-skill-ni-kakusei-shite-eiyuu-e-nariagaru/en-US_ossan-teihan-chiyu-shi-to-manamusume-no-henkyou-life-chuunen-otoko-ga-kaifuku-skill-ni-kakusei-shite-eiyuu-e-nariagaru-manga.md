@@ -1,5 +1,7 @@
 # Ossan Teihan Chiyu-shi to Manamusume no Henkyou Life: Chuunen Otoko ga Kaifuku Skill ni Kakusei shite, Eiyuu e Nariagaru
 
+![ossan-teihan-chiyu-shi-to-manamusume-no-henkyou-life-chuunen-otoko-ga-kaifuku-skill-ni-kakusei-shite-eiyuu-e-nariagaru](https://cdn.myanimelist.net/images/manga/1/240799.jpg)
+
 -   **type**: manga
 -   **original-name**: おっさん底辺治癒士と愛娘の辺境ライフ~中年男が回復スキルに覚醒して、英雄へ成り上がる~
 -   **start-date**: 2020-04-28

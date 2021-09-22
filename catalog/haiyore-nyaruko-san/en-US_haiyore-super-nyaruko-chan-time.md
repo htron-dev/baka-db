@@ -1,5 +1,7 @@
 # Haiyore! Super Nyaruko-chan Time
 
+![haiyore-super-nyaruko-chan-time](https://cdn.myanimelist.net/images/manga/1/187026.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 48

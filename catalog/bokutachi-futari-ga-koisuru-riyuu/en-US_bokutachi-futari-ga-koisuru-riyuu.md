@@ -1,5 +1,7 @@
 # Bokutachi Futari ga Koisuru Riyuu
 
+![bokutachi-futari-ga-koisuru-riyuu](https://cdn.myanimelist.net/images/manga/2/44873.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

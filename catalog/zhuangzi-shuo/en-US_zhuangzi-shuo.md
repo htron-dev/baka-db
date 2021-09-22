@@ -1,5 +1,7 @@
 # Zhuangzi Shuo
 
+![zhuangzi-shuo](https://cdn.myanimelist.net/images/anime/1714/115480.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 70
 -   **original-name**: 庄子说

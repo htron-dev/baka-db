@@ -1,5 +1,7 @@
 # Marie to Elie no Atelier: Zarlburg no Renkinjutsushi
 
+![marie-to-elie-no-atelier-zarlburg-no-renkinjutsushi](https://cdn.myanimelist.net/images/manga/1/172434.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

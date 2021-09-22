@@ -1,5 +1,7 @@
 # Futago♀ to Boku♂ no Geboku na Kankei
 
+![futago♀-to-boku♂-no-geboku-na-kankei](https://cdn.myanimelist.net/images/manga/3/169744.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

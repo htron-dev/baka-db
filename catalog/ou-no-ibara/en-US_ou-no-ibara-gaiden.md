@@ -1,5 +1,7 @@
 # Ou no Ibara Gaiden
 
+![ou-no-ibara-gaiden](https://cdn.myanimelist.net/images/manga/2/202236.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: 王のいばら外伝

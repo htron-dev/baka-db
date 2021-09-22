@@ -1,5 +1,7 @@
 # Hajirau Kimi ga Mitainda
 
+![hajirau-kimi-ga-mitainda](https://cdn.myanimelist.net/images/manga/1/242179.jpg)
+
 -   **type**: manga
 -   **original-name**: 恥じらう君が見たいんだ
 -   **start-date**: 2021-01-15

@@ -1,5 +1,7 @@
 # Kiss wa Mahou no Jumon kara
 
+![kiss-wa-mahou-no-jumon-kara](https://cdn.myanimelist.net/images/manga/1/194419.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

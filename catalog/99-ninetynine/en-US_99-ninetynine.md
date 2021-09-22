@@ -1,5 +1,7 @@
 # 99: Ninetynine
 
+![99-ninetynine](https://cdn.myanimelist.net/images/manga/1/40319.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 99 ～ NINETYNINE ～

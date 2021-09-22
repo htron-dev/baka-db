@@ -1,5 +1,7 @@
 # Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku
 
+![digimon-xros-wars-aku-no-death-general-to-nanatsu-no-oukoku](https://cdn.myanimelist.net/images/anime/11/28688.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: デジモンクロスウォーズ～悪のデスジェネラルと七つの王国～

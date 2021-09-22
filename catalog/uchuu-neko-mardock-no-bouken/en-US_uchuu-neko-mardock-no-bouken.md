@@ -1,5 +1,7 @@
 # Uchuu Neko: Mardock no Bouken
 
+![uchuu-neko-mardock-no-bouken](https://cdn.myanimelist.net/images/anime/9/79401.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: 宇宙ネコ マードックの冒険

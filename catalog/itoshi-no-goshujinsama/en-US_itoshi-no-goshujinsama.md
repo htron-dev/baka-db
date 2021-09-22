@@ -1,5 +1,7 @@
 # Itoshi no Goshujinsama
 
+![itoshi-no-goshujinsama](https://cdn.myanimelist.net/images/manga/2/5604.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

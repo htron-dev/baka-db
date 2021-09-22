@@ -1,5 +1,7 @@
 # Pocket Monsters Emerald: Chousen!! Battle Frontier
 
+![pocket-monsters-emerald-chousen-battle-frontier](https://cdn.myanimelist.net/images/manga/1/36376.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

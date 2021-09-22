@@ -1,5 +1,7 @@
 # Ojousama no Shiawase wa Risoukyou no Hate ni
 
+![ojousama-no-shiawase-wa-risoukyou-no-hate-ni](https://cdn.myanimelist.net/images/manga/1/160878.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: お嬢様の幸せは理想郷の果てに

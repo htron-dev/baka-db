@@ -1,5 +1,7 @@
 # Huo Huo Tu
 
+![huo-huo-tu](https://cdn.myanimelist.net/images/anime/1767/115360.jpg)
+
 -   **type**: ona
 -   **episodes**: 16
 -   **original-name**: 火火兔

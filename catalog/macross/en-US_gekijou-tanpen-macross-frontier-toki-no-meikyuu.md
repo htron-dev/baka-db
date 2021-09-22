@@ -1,5 +1,7 @@
 # Gekijou Tanpen Macross Frontier: Toki no Meikyuu
 
+![gekijou-tanpen-macross-frontier-toki-no-meikyuu](https://cdn.myanimelist.net/images/anime/1419/111593.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場短編マクロス frontier~時の迷宮~

@@ -1,5 +1,7 @@
 # Hoshi no Yakata
 
+![hoshi-no-yakata](https://cdn.myanimelist.net/images/manga/2/6633.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

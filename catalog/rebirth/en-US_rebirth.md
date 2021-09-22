@@ -1,5 +1,7 @@
 # Rebirth
 
+![rebirth](https://cdn.myanimelist.net/images/manga/2/3578.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 26
 -   **chapters**: 107

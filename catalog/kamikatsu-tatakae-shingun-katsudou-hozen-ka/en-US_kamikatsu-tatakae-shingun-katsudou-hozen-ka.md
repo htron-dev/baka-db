@@ -1,5 +1,7 @@
 # Kamikatsu! Tatakae! Shingun Katsudou Hozen-ka
 
+![kamikatsu-tatakae-shingun-katsudou-hozen-ka](https://cdn.myanimelist.net/images/manga/1/163705.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

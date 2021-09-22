@@ -1,5 +1,7 @@
 # Namaiki Kareshi
 
+![namaiki-kareshi](https://cdn.myanimelist.net/images/manga/1/171385.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

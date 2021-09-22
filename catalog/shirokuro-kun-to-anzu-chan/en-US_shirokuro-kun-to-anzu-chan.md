@@ -1,5 +1,7 @@
 # Shirokuro-kun to Anzu-chan.
 
+![shirokuro-kun-to-anzu-chan](https://cdn.myanimelist.net/images/manga/1/132689.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Makikomarete Isekai Teni suru Yatsu wa, Taitei Cheat
 
+![makikomarete-isekai-teni-suru-yatsu-wa-taitei-cheat](https://cdn.myanimelist.net/images/manga/3/205171.jpg)
+
 -   **type**: manga
 -   **original-name**: 巻き込まれて異世界転移する奴は、大抵チート
 -   **start-date**: 2017-06-15

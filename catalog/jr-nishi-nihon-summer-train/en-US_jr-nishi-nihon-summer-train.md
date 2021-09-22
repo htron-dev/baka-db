@@ -1,5 +1,7 @@
 # JR Nishi Nihon: Summer Train!
 
+![jr-nishi-nihon-summer-train](https://cdn.myanimelist.net/images/anime/10/81245.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: JR 西日本 Summer Train!

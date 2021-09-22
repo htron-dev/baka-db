@@ -1,5 +1,7 @@
 # Umihiko Yamahiko
 
+![umihiko-yamahiko](https://cdn.myanimelist.net/images/anime/6/81957.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 海ひこ山ひこ

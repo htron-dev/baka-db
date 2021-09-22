@@ -1,5 +1,7 @@
 # ColoColo Animal Otogibanashi
 
+![colo-colo-animal-otogibanashi](https://cdn.myanimelist.net/images/anime/1248/114534.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: コロコロアニマルおとぎばなし
 -   **start-date**: 2021-04-12

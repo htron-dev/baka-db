@@ -1,5 +1,7 @@
 # Akuutensou Fixallia
 
+![akuutensou-fixallia](https://cdn.myanimelist.net/images/manga/2/155200.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 亜空転騒フィクサリア ☆ よしみる初期作品集

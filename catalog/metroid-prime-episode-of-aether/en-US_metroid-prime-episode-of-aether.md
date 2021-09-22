@@ -1,5 +1,7 @@
 # Metroid Prime: Episode of Aether
 
+![metroid-prime-episode-of-aether](https://cdn.myanimelist.net/images/manga/2/139973.jpg)
+
 -   **type**: manga
 -   **chapters**: 7
 -   **original-name**: メトロイド プライム EPISODE OF AETHER
@@ -10,7 +12,6 @@
 
 -   action
 -   adventure
-
 -   sci-fi
 
 ## Authors

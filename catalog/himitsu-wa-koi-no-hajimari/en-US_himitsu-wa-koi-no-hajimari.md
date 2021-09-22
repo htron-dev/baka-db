@@ -1,5 +1,7 @@
 # Himitsu wa Koi no Hajimari
 
+![himitsu-wa-koi-no-hajimari](https://cdn.myanimelist.net/images/manga/1/149198.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

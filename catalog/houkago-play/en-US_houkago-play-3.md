@@ -1,5 +1,7 @@
 # Houkago Play 3
 
+![houkago-play-3](https://cdn.myanimelist.net/images/manga/4/38227.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

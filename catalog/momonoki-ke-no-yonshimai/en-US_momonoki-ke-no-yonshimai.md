@@ -1,5 +1,7 @@
 # Momonoki-ke no Yonshimai
 
+![momonoki-ke-no-yonshimai](https://cdn.myanimelist.net/images/manga/3/225620.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

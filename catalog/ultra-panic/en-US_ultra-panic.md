@@ -1,5 +1,7 @@
 # Ultra Panic
 
+![ultra-panic](https://cdn.myanimelist.net/images/manga/1/130201.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ウルトラパニック

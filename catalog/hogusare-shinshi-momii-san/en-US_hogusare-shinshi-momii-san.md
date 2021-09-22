@@ -1,5 +1,7 @@
 # Hogusare Shinshi, Momii-san
 
+![hogusare-shinshi-momii-san](https://cdn.myanimelist.net/images/manga/3/223782.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

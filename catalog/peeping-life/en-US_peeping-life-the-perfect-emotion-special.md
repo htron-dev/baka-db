@@ -1,5 +1,7 @@
 # Peeping Life: The Perfect Emotion Special
 
+![peeping-life-the-perfect-emotion-special](https://cdn.myanimelist.net/images/anime/2/45821.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Peeping Life（ピーピング・ライフ）-The Perfect Emotion-

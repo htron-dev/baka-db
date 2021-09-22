@@ -1,5 +1,7 @@
 # Banbutsu wa Genshi yori Naru to Iu Koto wo
 
+![banbutsu-wa-genshi-yori-naru-to-iu-koto-wo](https://cdn.myanimelist.net/images/manga/2/168512.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 万物は原子より成るということを

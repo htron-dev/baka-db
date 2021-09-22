@@ -1,5 +1,7 @@
 # Nekura Shoujo wa Kuro Mahou de Koi wo Suru
 
+![nekura-shoujo-wa-kuro-mahou-de-koi-wo-suru](https://cdn.myanimelist.net/images/manga/1/163215.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 29

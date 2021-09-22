@@ -1,5 +1,7 @@
 # Yoake Mae ni Shinu
 
+![yoake-mae-ni-shinu](https://cdn.myanimelist.net/images/manga/2/222068.jpg)
+
 -   **type**: manga
 -   **original-name**: 夜明け前に死ぬ
 -   **start-date**: 2019-02-28

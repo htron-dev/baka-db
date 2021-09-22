@@ -1,5 +1,7 @@
 # Nanba Deadend
 
+![nanba-deadend](https://cdn.myanimelist.net/images/manga/2/143645.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 135

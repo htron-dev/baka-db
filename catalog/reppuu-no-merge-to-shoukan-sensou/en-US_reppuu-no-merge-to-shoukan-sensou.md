@@ -1,5 +1,7 @@
 # Reppuu no Merge to Shoukan Sensou
 
+![reppuu-no-merge-to-shoukan-sensou](https://cdn.myanimelist.net/images/manga/1/240107.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 26

@@ -1,5 +1,7 @@
 # Yukemuri Kyuuji
 
+![yukemuri-kyuuji](https://cdn.myanimelist.net/images/manga/2/168691.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 32

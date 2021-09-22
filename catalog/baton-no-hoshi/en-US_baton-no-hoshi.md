@@ -1,5 +1,7 @@
 # Baton no Hoshi
 
+![baton-no-hoshi](https://cdn.myanimelist.net/images/manga/1/227572.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

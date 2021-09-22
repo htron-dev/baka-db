@@ -1,5 +1,7 @@
 # Hanayome wa Okusan
 
+![hanayome-wa-okusan](https://cdn.myanimelist.net/images/manga/3/116411.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 花嫁は奥さん

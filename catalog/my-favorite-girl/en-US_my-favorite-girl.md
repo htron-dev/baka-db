@@ -1,5 +1,7 @@
 # My Favorite Girl
 
+![my-favorite-girl](https://cdn.myanimelist.net/images/manga/3/14512.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

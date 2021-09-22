@@ -1,5 +1,7 @@
 # Tsuki ga Michibiku Isekai Douchuu
 
+![tsuki-ga-michibiku-isekai-douchuu](https://cdn.myanimelist.net/images/manga/3/158263.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 月が導く異世界道中
 -   **start-date**: 2013-05-28

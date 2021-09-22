@@ -1,5 +1,7 @@
 # No Game No Life
 
+![no-game-no-life](https://cdn.myanimelist.net/images/manga/2/188186.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ノーゲーム・ノーライフ
 -   **start-date**: 2012-04-25

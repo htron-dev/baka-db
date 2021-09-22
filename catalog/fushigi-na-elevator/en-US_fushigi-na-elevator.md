@@ -1,5 +1,7 @@
 # Fushigi na Elevator
 
+![fushigi-na-elevator](https://cdn.myanimelist.net/images/anime/7/21097.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ふしぎなエレベーター

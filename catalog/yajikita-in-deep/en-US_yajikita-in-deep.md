@@ -1,5 +1,7 @@
 # Yajikita in Deep
 
+![yajikita-in-deep](https://cdn.myanimelist.net/images/manga/2/248088.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 57

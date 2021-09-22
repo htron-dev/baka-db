@@ -1,5 +1,7 @@
 # Himekei♥Doll
 
+![himekei♥-doll](https://cdn.myanimelist.net/images/manga/1/32722.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # Goshuushou-sama Ninomiya-kun
 
+![goshuushou-sama-ninomiya-kun](https://cdn.myanimelist.net/images/manga/2/22269.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

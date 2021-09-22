@@ -1,5 +1,7 @@
 # Babysitter no Kokuhaku
 
+![babysitter-no-kokuhaku](https://cdn.myanimelist.net/images/manga/2/230089.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ベビーシッターの告白

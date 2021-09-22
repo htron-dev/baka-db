@@ -1,5 +1,7 @@
 # Suishouseki no Mori
 
+![suishouseki-no-mori](https://cdn.myanimelist.net/images/manga/1/230885.jpg)
+
 -   **type**: manga
 -   **chapters**: 12
 -   **original-name**: 水晶石の森

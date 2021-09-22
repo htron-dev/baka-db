@@ -1,5 +1,7 @@
 # Koneko Hiroimashita
 
+![koneko-hiroimashita](https://cdn.myanimelist.net/images/manga/3/175453.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

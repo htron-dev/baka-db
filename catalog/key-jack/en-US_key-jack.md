@@ -1,5 +1,7 @@
 # Key Jack
 
+![key-jack](https://cdn.myanimelist.net/images/manga/3/24244.jpg)
+
 -   **type**: manga
 
 ## Tags

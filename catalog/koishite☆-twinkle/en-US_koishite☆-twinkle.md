@@ -1,5 +1,7 @@
 # Koishite☆Twinkle
 
+![koishite☆-twinkle](https://cdn.myanimelist.net/images/manga/2/96637.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋して ☆ トゥインクル

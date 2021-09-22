@@ -1,5 +1,7 @@
 # Takujou no Ageha
 
+![takujou-no-ageha](https://cdn.myanimelist.net/images/manga/2/154825.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

@@ -1,5 +1,7 @@
 # Yes! Precure 5 Movie: Kagami no Kuni no Miracle Daibouken!
 
+![yes-precure-5-movie-kagami-no-kuni-no-miracle-daibouken](https://cdn.myanimelist.net/images/anime/8/69953.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画　 Yes! プリキュア５　鏡の国のミラクル大冒険！

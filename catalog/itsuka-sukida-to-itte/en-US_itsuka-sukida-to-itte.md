@@ -1,5 +1,7 @@
 # Itsuka Sukida to Itte
 
+![itsuka-sukida-to-itte](https://cdn.myanimelist.net/images/manga/3/2912.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

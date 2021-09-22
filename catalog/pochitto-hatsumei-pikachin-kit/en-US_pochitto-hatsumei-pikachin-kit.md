@@ -1,5 +1,7 @@
 # Pochitto Hatsumei: Pikachin-Kit
 
+![pochitto-hatsumei-pikachin-kit](https://cdn.myanimelist.net/images/anime/9/89463.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 【ポチっと発明 ピカちんキット】スペシャル先行アニメ

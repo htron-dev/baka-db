@@ -1,5 +1,7 @@
 # Majo wa Mioji kara
 
+![majo-wa-mioji-kara](https://cdn.myanimelist.net/images/manga/3/213007.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 49

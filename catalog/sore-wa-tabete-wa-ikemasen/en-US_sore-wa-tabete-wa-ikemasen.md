@@ -1,5 +1,7 @@
 # Sore wa Tabete wa Ikemasen
 
+![sore-wa-tabete-wa-ikemasen](https://cdn.myanimelist.net/images/manga/1/18261.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # InuYasha Movie 4: Guren no Houraijima
 
+![inu-yasha-movie-4-guren-no-houraijima](https://cdn.myanimelist.net/images/anime/1216/94369.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 犬夜叉 紅蓮の蓬莱島

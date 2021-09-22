@@ -1,5 +1,7 @@
 # Young Black Jack
 
+![young-black-jack](https://cdn.myanimelist.net/images/anime/3/76125.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ヤング ブラック・ジャック

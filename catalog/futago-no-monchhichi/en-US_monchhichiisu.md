@@ -1,5 +1,7 @@
 # Monchhichiisu
 
+![monchhichiisu](https://cdn.myanimelist.net/images/anime/12/77037.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 20
 -   **original-name**: もんちっちーず

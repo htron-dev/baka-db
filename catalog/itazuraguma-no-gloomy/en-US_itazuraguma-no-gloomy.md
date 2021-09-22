@@ -1,5 +1,7 @@
 # Itazuraguma no Gloomy
 
+![itazuraguma-no-gloomy](https://cdn.myanimelist.net/images/anime/1289/113575.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: いたずらぐまのグル～ミ～

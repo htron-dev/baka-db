@@ -1,5 +1,7 @@
 # Tayutama: Kiss on my Deity
 
+![tayutama-kiss-on-my-deity](https://cdn.myanimelist.net/images/manga/2/183821.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

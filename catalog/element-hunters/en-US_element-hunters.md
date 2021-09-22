@@ -1,5 +1,7 @@
 # Element Hunters
 
+![element-hunters](https://cdn.myanimelist.net/images/anime/9/21172.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: エレメントハンター

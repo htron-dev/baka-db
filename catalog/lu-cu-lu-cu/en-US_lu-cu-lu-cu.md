@@ -1,5 +1,7 @@
 # LuCu LuCu
 
+![lu-cu-lu-cu](https://cdn.myanimelist.net/images/manga/5/26174.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 90

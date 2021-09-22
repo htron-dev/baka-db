@@ -1,5 +1,7 @@
 # 3x3 Eyes
 
+![3-x-3-eyes](https://cdn.myanimelist.net/images/anime/4/26940.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 3×3EYES

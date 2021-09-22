@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni Matsuri: Hajisarashi-hen
 
+![higurashi-no-naku-koro-ni-matsuri-hajisarashi-hen](https://cdn.myanimelist.net/images/manga/1/135115.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ひぐらしのなく頃に祭 ～羞晒し編～

@@ -1,5 +1,7 @@
 # Kyonyuu Dragon
 
+![kyonyuu-dragon](https://cdn.myanimelist.net/images/manga/1/207574.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

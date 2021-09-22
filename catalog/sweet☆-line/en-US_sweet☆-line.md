@@ -1,5 +1,7 @@
 # Sweet☆Line
 
+![sweet☆-line](https://cdn.myanimelist.net/images/manga/2/126369.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 20

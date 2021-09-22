@@ -1,5 +1,7 @@
 # Ninja Slayer Kills
 
+![ninja-slayer-kills](https://cdn.myanimelist.net/images/manga/2/188573.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 29

@@ -1,5 +1,7 @@
 # I Want You
 
+![i-want-you](https://cdn.myanimelist.net/images/manga/2/91759.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 6

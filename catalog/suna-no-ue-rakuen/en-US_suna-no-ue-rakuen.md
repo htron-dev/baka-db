@@ -1,5 +1,7 @@
 # Suna no Ue Rakuen
 
+![suna-no-ue-rakuen](https://cdn.myanimelist.net/images/manga/3/7481.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

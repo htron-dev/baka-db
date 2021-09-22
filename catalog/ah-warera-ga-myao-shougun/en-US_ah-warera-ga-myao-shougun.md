@@ -1,5 +1,7 @@
 # Ah! Warera ga Myao Shougun
 
+![ah-warera-ga-myao-shougun](https://cdn.myanimelist.net/images/manga/2/219118.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 48

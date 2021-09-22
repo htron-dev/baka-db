@@ -1,5 +1,7 @@
 # Musou Orochi Battle Royal
 
+![musou-orochi-battle-royal](https://cdn.myanimelist.net/images/manga/3/185623.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 無双 Orochi バトルロイヤル

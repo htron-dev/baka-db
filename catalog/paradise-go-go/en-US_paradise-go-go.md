@@ -1,5 +1,7 @@
 # Paradise Go Go
 
+![paradise-go-go](https://cdn.myanimelist.net/images/manga/2/10602.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

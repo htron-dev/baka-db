@@ -1,5 +1,7 @@
 # Yotsugogurashi
 
+![yotsugogurashi](https://cdn.myanimelist.net/images/manga/2/235753.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 四つ子ぐらし
 -   **start-date**: 2018-10-15

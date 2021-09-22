@@ -1,5 +1,7 @@
 # Chouritsu German Rose Kokukou 2-nen Eins-gumi
 
+![chouritsu-german-rose-kokukou-2-nen-eins-gumi](https://cdn.myanimelist.net/images/manga/2/230180.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 19

@@ -1,5 +1,7 @@
 # Macross F Movie 2: Sayonara no Tsubasa
 
+![macross-f-movie-2-sayonara-no-tsubasa](https://cdn.myanimelist.net/images/anime/13/76398.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 マクロスＦ 恋離飛翼 ～サヨナラノツバサ～

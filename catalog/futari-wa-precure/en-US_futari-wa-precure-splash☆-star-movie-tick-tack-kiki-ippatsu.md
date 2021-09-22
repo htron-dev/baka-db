@@ -1,5 +1,7 @@
 # Futari wa Precure: Splash☆Star Movie - Tick Tack Kiki Ippatsu!
 
+![futari-wa-precure-splash☆-star-movie-tick-tack-kiki-ippatsu](https://cdn.myanimelist.net/images/anime/12/21033.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ふたりはプリキュア Splash Star チクタク危機一髪!
@@ -10,7 +12,6 @@
 
 -   magic
 -   fantasy
-
 -   shoujo
 
 ## Sinopse

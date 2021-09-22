@@ -1,5 +1,7 @@
 # Pankunchi
 
+![pankunchi](https://cdn.myanimelist.net/images/anime/11/10524.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: ぱんくんち

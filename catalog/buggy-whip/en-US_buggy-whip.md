@@ -1,5 +1,7 @@
 # Buggy Whip
 
+![buggy-whip](https://cdn.myanimelist.net/images/manga/2/202209.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # JoJo no Kimyou na Bouken
 
+![jo-jo-no-kimyou-na-bouken](https://cdn.myanimelist.net/images/anime/1171/106036.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: ジョジョの奇妙な冒険

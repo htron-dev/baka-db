@@ -1,5 +1,7 @@
 # Saint Seiya Episode G: Requiem
 
+![saint-seiya-episode-g-requiem](https://cdn.myanimelist.net/images/manga/2/246287.jpg)
+
 -   **type**: manga
 -   **original-name**: 聖闘士星矢 EPISODE.G レクイエム
 -   **start-date**: 2020-01-28

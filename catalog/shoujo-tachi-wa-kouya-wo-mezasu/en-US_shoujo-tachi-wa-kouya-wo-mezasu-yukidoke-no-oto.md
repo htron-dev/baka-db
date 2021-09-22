@@ -1,5 +1,7 @@
 # Shoujo-tachi wa Kouya wo Mezasu: Yukidoke no Oto
 
+![shoujo-tachi-wa-kouya-wo-mezasu-yukidoke-no-oto](https://cdn.myanimelist.net/images/manga/3/215405.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

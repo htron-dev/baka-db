@@ -1,5 +1,7 @@
 # Animal Love
 
+![animal-love](https://cdn.myanimelist.net/images/manga/2/14289.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

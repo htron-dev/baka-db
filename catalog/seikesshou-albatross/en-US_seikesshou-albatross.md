@@ -1,5 +1,7 @@
 # Seikesshou Albatross
 
+![seikesshou-albatross](https://cdn.myanimelist.net/images/manga/5/76361.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 47

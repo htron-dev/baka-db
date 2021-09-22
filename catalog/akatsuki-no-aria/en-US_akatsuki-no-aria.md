@@ -1,5 +1,7 @@
 # Akatsuki no Aria
 
+![akatsuki-no-aria](https://cdn.myanimelist.net/images/manga/3/155570.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **original-name**: 暁の ARIA

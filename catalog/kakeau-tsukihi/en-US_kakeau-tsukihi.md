@@ -1,5 +1,7 @@
 # Kakeau Tsukihi
 
+![kakeau-tsukihi](https://cdn.myanimelist.net/images/manga/2/249235.jpg)
+
 -   **type**: manga
 -   **original-name**: かけあうつきひ
 -   **start-date**: 2021-05-12

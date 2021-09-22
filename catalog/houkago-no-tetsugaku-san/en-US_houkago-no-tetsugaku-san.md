@@ -1,5 +1,7 @@
 # Houkago no Tetsugaku-san
 
+![houkago-no-tetsugaku-san](https://cdn.myanimelist.net/images/manga/3/234988.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

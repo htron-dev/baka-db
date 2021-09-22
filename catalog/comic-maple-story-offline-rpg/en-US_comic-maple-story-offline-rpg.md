@@ -1,5 +1,7 @@
 # Comic MapleStory: Offline RPG
 
+![comic-maple-story-offline-rpg](https://cdn.myanimelist.net/images/manga/2/204979.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 코믹 메이플 스토리 오프라인 RPG
 -   **start-date**: 2004-04-25
@@ -9,7 +11,6 @@
 -   adventure
 -   comedy
 -   fantasy
-
 -   magic
 
 ## Authors

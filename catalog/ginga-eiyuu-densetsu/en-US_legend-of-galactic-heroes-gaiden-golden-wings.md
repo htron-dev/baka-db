@@ -1,5 +1,7 @@
 # Legend of Galactic Heroes Gaiden: Golden Wings
 
+![legend-of-galactic-heroes-gaiden-golden-wings](https://cdn.myanimelist.net/images/manga/5/19199.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

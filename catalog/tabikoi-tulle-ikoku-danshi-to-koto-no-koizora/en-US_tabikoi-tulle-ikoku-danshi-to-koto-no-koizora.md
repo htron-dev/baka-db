@@ -1,5 +1,7 @@
 # Tabikoi Tulle: Ikoku Danshi to Koto no Koizora
 
+![tabikoi-tulle-ikoku-danshi-to-koto-no-koizora](https://cdn.myanimelist.net/images/manga/1/195477.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: たび恋チュール～異国男子と古都の恋空～

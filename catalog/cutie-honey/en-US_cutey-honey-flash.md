@@ -1,5 +1,7 @@
 # Cutey Honey Flash
 
+![cutey-honey-flash](https://cdn.myanimelist.net/images/manga/3/41179.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 12

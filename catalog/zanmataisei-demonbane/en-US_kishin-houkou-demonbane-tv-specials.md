@@ -1,5 +1,7 @@
 # Kishin Houkou Demonbane (TV) Specials
 
+![kishin-houkou-demonbane-tv-specials](https://cdn.myanimelist.net/images/anime/2/61521.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 「OUROBOROS RONDO」

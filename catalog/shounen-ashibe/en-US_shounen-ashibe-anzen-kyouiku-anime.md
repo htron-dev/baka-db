@@ -1,9 +1,10 @@
 # Shounen Ashibe Anzen Kyouiku Anime
 
+![shounen-ashibe-anzen-kyouiku-anime](https://cdn.myanimelist.net/images/anime/1230/99050.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 少年アシベ 安全教育アニメ
-
 -   **rating**: G - All Ages
 
 ## Tags

@@ -1,5 +1,7 @@
 # Baki Tokubetsu-hen Saga
 
+![baki-tokubetsu-hen-saga](https://cdn.myanimelist.net/images/manga/1/126055.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

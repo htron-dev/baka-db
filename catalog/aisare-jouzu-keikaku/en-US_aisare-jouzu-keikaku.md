@@ -1,5 +1,7 @@
 # Aisare Jouzu Keikaku
 
+![aisare-jouzu-keikaku](https://cdn.myanimelist.net/images/manga/3/31317.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 愛され上手計画

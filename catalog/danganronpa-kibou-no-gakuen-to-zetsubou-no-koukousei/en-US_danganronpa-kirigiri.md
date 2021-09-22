@@ -1,5 +1,7 @@
 # Danganronpa Kirigiri
 
+![danganronpa-kirigiri](https://cdn.myanimelist.net/images/manga/3/107919.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **original-name**: ダンガンロンパ霧切

@@ -1,5 +1,7 @@
 # Jikuu Bouken Nuumamonjaa
 
+![jikuu-bouken-nuumamonjaa](https://cdn.myanimelist.net/images/anime/2/89277.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 時空冒険ヌウマモンジャー

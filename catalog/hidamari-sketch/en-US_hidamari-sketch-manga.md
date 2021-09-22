@@ -1,5 +1,7 @@
 # Hidamari Sketch
 
+![hidamari-sketch](https://cdn.myanimelist.net/images/manga/3/211392.jpg)
+
 -   **type**: manga
 -   **original-name**: ひだまりスケッチ
 -   **start-date**: 2004-02-28

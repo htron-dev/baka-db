@@ -1,5 +1,7 @@
 # Mayonaka no Occult Koumuin
 
+![mayonaka-no-occult-koumuin](https://cdn.myanimelist.net/images/anime/1859/100448.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 真夜中のオカルト公務員

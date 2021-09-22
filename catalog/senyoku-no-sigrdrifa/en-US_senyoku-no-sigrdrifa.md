@@ -1,5 +1,7 @@
 # Senyoku no Sigrdrifa
 
+![senyoku-no-sigrdrifa](https://cdn.myanimelist.net/images/anime/1576/109007.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 戦翼のシグルドリーヴァ

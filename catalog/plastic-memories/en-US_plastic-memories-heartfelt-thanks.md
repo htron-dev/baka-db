@@ -1,5 +1,7 @@
 # Plastic Memories: Heartfelt Thanks
 
+![plastic-memories-heartfelt-thanks](https://cdn.myanimelist.net/images/manga/1/183485.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

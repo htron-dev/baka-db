@@ -1,5 +1,7 @@
 # Belmonde Le VisiteuR
 
+![belmonde-le-visiteu-r](https://cdn.myanimelist.net/images/manga/3/154488.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

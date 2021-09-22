@@ -1,5 +1,7 @@
 # Sono Shimai wa Tabun Koisuru Ashi nano da
 
+![sono-shimai-wa-tabun-koisuru-ashi-nano-da](https://cdn.myanimelist.net/images/manga/2/176728.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

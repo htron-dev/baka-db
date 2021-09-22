@@ -1,5 +1,7 @@
 # Wakaba-senpai Miman
 
+![wakaba-senpai-miman](https://cdn.myanimelist.net/images/manga/3/152635.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: わかば先輩未満

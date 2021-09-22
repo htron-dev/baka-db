@@ -1,5 +1,7 @@
 # Toushu-sama wa Itazura ga Osuki
 
+![toushu-sama-wa-itazura-ga-osuki](https://cdn.myanimelist.net/images/manga/1/98359.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 当主様は悪戯がお好き

@@ -1,5 +1,7 @@
 # Cross H
 
+![cross-h](https://cdn.myanimelist.net/images/manga/1/148837.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

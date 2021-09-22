@@ -1,5 +1,7 @@
 # Love Hotel Ikou yo♡
 
+![love-hotel-ikou-yo♡](https://cdn.myanimelist.net/images/manga/2/136677.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

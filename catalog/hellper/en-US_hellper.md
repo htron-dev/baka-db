@@ -1,5 +1,7 @@
 # Hellper
 
+![hellper](https://cdn.myanimelist.net/images/manga/3/106053.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 18
 -   **chapters**: 188

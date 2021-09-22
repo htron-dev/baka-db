@@ -1,5 +1,7 @@
 # Angel Densetsu
 
+![angel-densetsu](https://cdn.myanimelist.net/images/manga/2/164490.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 89

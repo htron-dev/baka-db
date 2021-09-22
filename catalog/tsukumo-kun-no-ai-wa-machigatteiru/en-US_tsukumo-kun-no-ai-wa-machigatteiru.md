@@ -1,5 +1,7 @@
 # Tsukumo-kun no Ai wa Machigatteiru
 
+![tsukumo-kun-no-ai-wa-machigatteiru](https://cdn.myanimelist.net/images/manga/3/176989.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

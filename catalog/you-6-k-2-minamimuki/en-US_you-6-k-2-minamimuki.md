@@ -1,5 +1,7 @@
 # You-6 K2 Minamimuki
 
+![you-6-k-2-minamimuki](https://cdn.myanimelist.net/images/manga/1/238732.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

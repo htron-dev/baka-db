@@ -1,5 +1,7 @@
 # Ame no Furu
 
+![ame-no-furu](https://cdn.myanimelist.net/images/manga/2/248750.jpg)
+
 -   **type**: manga
 -   **original-name**: アメノフル
 -   **start-date**: 2021-04-19

@@ -1,5 +1,7 @@
 # Quiz de Manabu Pinocchio no Koutsuu Ansen
 
+![quiz-de-manabu-pinocchio-no-koutsuu-ansen](https://cdn.myanimelist.net/images/anime/13/84760.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: クイズでまなぶ ピノキオのこうつうあんぜん

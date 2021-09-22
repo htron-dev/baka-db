@@ -1,5 +1,7 @@
 # Kiechaeba Ii no ni
 
+![kiechaeba-ii-no-ni](https://cdn.myanimelist.net/images/manga/3/162763.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Yes! Precure 5
 
+![yes-precure-5](https://cdn.myanimelist.net/images/anime/4/7535.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: Yes! プリキュア 5

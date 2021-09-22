@@ -1,5 +1,7 @@
 # Kimi no Sei - Kizuato
 
+![kimi-no-sei-kizuato](https://cdn.myanimelist.net/images/manga/2/119037.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

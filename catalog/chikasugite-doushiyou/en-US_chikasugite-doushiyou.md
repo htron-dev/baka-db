@@ -1,5 +1,7 @@
 # Chikasugite Doushiyou
 
+![chikasugite-doushiyou](https://cdn.myanimelist.net/images/manga/3/96763.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

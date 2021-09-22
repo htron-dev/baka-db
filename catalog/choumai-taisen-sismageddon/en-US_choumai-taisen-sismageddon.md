@@ -1,5 +1,7 @@
 # Choumai Taisen Sismageddon
 
+![choumai-taisen-sismageddon](https://cdn.myanimelist.net/images/manga/1/123825.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

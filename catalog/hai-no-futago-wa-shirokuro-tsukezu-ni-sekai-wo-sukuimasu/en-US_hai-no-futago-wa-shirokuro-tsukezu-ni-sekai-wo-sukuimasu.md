@@ -1,5 +1,7 @@
 # Hai no Futago wa Shirokuro Tsukezu ni Sekai wo Sukuimasu.
 
+![hai-no-futago-wa-shirokuro-tsukezu-ni-sekai-wo-sukuimasu](https://cdn.myanimelist.net/images/manga/3/235614.jpg)
+
 -   **type**: manga
 -   **original-name**: 灰の双子は白黒つけずに世界を救います。
 -   **start-date**: 2020-02-27

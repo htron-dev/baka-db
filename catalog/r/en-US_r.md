@@ -1,5 +1,7 @@
 # R
 
+![r](https://cdn.myanimelist.net/images/manga/1/229980.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Swan: Moscow-hen
 
+![swan-moscow-hen](https://cdn.myanimelist.net/images/manga/2/175474.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: SWAN − 白鳥 − [モスクワ編]

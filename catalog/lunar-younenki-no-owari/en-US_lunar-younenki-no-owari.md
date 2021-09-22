@@ -1,5 +1,7 @@
 # Lunar: Younenki no Owari
 
+![lunar-younenki-no-owari](https://cdn.myanimelist.net/images/manga/3/139645.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

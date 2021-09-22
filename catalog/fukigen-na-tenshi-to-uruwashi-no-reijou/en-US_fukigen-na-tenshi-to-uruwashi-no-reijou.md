@@ -1,5 +1,7 @@
 # Fukigen na Tenshi to Uruwashi no Reijou
 
+![fukigen-na-tenshi-to-uruwashi-no-reijou](https://cdn.myanimelist.net/images/manga/2/194856.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

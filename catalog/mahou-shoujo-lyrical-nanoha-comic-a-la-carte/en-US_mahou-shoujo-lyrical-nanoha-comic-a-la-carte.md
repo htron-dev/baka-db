@@ -1,5 +1,7 @@
 # Mahou Shoujo Lyrical Nanoha: Comic à la carte
 
+![mahou-shoujo-lyrical-nanoha-comic-a-la-carte](https://cdn.myanimelist.net/images/manga/1/40603.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 魔法少女リリカルなのは コミックアラカルト

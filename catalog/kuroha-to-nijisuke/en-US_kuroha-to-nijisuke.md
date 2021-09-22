@@ -1,5 +1,7 @@
 # Kuroha to Nijisuke
 
+![kuroha-to-nijisuke](https://cdn.myanimelist.net/images/manga/2/199169.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

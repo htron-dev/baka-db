@@ -1,5 +1,7 @@
 # Nana to Kaoru: Black Label
 
+![nana-to-kaoru-black-label](https://cdn.myanimelist.net/images/manga/2/188990.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 45

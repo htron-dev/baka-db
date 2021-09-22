@@ -1,5 +1,7 @@
 # Panda Love
 
+![panda-love](https://cdn.myanimelist.net/images/manga/2/7340.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: パンダラブー

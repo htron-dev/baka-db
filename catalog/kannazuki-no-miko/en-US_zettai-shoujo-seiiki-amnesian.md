@@ -1,5 +1,7 @@
 # Zettai Shoujo Seiiki Amnesian
 
+![zettai-shoujo-seiiki-amnesian](https://cdn.myanimelist.net/images/manga/1/24357.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

@@ -1,5 +1,7 @@
 # Piyo Piyo Angel
 
+![piyo-piyo-angel](https://cdn.myanimelist.net/images/manga/2/12393.jpg)
+
 -   **type**: manga
 -   **original-name**: ぴよぴよ天使
 

@@ -1,5 +1,7 @@
 # Ore ga Watashi ni Naru made
 
+![ore-ga-watashi-ni-naru-made](https://cdn.myanimelist.net/images/manga/2/228906.jpg)
+
 -   **type**: manga
 -   **original-name**: オレが私になるまで
 -   **start-date**: 2019-03-26

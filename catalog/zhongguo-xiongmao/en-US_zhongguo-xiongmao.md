@@ -1,5 +1,7 @@
 # Zhongguo Xiongmao
 
+![zhongguo-xiongmao](https://cdn.myanimelist.net/images/anime/1167/115499.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 156
 -   **original-name**: 中国熊猫

@@ -1,5 +1,7 @@
 # Washimo 3rd Season
 
+![washimo-3rd-season](https://cdn.myanimelist.net/images/anime/7/74290.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 44
 -   **original-name**: わしも 第 3 期
@@ -10,7 +12,6 @@
 ## Tags
 
 -   comedy
-
 -   school
 -   sci-fi
 -   slice-of-life

@@ -1,5 +1,7 @@
 # Oyome ni Ikenai!
 
+![oyome-ni-ikenai](https://cdn.myanimelist.net/images/manga/3/166209.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 26

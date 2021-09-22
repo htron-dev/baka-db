@@ -1,5 +1,7 @@
 # Hisho wa Shachou ni Kudokareru
 
+![hisho-wa-shachou-ni-kudokareru](https://cdn.myanimelist.net/images/manga/3/3033.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

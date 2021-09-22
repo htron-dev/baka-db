@@ -1,5 +1,7 @@
 # Saikyougui no Dark Hero
 
+![saikyougui-no-dark-hero](https://cdn.myanimelist.net/images/manga/3/177983.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 最強喰いのダークヒーロー
 -   **start-date**: 2016-06-15

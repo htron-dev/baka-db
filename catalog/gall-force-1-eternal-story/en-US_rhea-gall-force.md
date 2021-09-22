@@ -1,5 +1,7 @@
 # Rhea Gall Force
 
+![rhea-gall-force](https://cdn.myanimelist.net/images/anime/1606/94109.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: レア・ガルフォース

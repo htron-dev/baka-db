@@ -1,5 +1,7 @@
 # Cai Yunnan
 
+![cai-yunnan](https://cdn.myanimelist.net/images/anime/1590/115495.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: 彩云南

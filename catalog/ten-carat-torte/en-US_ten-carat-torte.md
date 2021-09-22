@@ -1,5 +1,7 @@
 # Ten Carat Torte!
 
+![ten-carat-torte](https://cdn.myanimelist.net/images/manga/2/21242.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 264

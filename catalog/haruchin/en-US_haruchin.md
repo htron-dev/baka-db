@@ -1,5 +1,7 @@
 # Haruchin
 
+![haruchin](https://cdn.myanimelist.net/images/manga/1/180841.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ハルチン

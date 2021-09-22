@@ -1,5 +1,7 @@
 # Lupin III: Princess of the Breeze - Kakusareta Kuuchuu Toshi
 
+![lupin-iii-princess-of-the-breeze-kakusareta-kuuchuu-toshi](https://cdn.myanimelist.net/images/anime/5/56447.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ルパン三世 princess of the breeze ～隠された空中都市～

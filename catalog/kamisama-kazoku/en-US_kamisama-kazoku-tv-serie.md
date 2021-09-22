@@ -1,5 +1,7 @@
 # Kamisama Kazoku
 
+![kamisama-kazoku](https://cdn.myanimelist.net/images/anime/6/2566.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 神様家族

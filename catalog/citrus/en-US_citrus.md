@@ -1,5 +1,7 @@
 # Citrus
 
+![citrus](https://cdn.myanimelist.net/images/manga/3/101283.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

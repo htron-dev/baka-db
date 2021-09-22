@@ -1,5 +1,7 @@
 # France Hato Nikki
 
+![france-hato-nikki](https://cdn.myanimelist.net/images/manga/2/245257.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

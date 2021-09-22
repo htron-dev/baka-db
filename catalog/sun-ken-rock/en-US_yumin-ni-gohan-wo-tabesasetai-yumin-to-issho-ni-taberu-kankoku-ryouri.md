@@ -1,5 +1,7 @@
 # Yumin ni Gohan wo Tabesasetai: Yumin to Issho ni Taberu Kankoku Ryouri
 
+![yumin-ni-gohan-wo-tabesasetai-yumin-to-issho-ni-taberu-kankoku-ryouri](https://cdn.myanimelist.net/images/manga/1/166299.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

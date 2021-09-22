@@ -1,5 +1,7 @@
 # Tenjou no Niji: Jitou Tenno Monogatari
 
+![tenjou-no-niji-jitou-tenno-monogatari](https://cdn.myanimelist.net/images/manga/2/150921.jpg)
+
 -   **type**: manga
 -   **volumes**: 23
 -   **chapters**: 66

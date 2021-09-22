@@ -1,5 +1,7 @@
 # Ore wo Suki nano wa Omae dake ka yo
 
+![ore-wo-suki-nano-wa-omae-dake-ka-yo](https://cdn.myanimelist.net/images/manga/2/172464.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 俺を好きなのはお前だけかよ
 -   **start-date**: 2016-02-10

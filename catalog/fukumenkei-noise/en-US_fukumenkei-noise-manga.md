@@ -1,5 +1,7 @@
 # Fukumenkei Noise
 
+![fukumenkei-noise](https://cdn.myanimelist.net/images/manga/3/175909.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 109

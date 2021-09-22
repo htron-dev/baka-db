@@ -1,5 +1,7 @@
 # Esoragoto.
 
+![esoragoto](https://cdn.myanimelist.net/images/manga/2/165624.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Jujutsu Kaisen (TV)
 
+![jujutsu-kaisen-tv](https://cdn.myanimelist.net/images/anime/1171/109222.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 呪術廻戦

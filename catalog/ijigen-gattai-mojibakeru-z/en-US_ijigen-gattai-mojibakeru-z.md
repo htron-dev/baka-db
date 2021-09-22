@@ -1,5 +1,7 @@
 # Ijigen Gattai Mojibakeru Z
 
+![ijigen-gattai-mojibakeru-z](https://cdn.myanimelist.net/images/anime/10/77431.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 異字元合体もじバケる Z

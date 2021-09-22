@@ -1,5 +1,7 @@
 # Fate/hollow ataraxia
 
+![fate-hollow-ataraxia](https://cdn.myanimelist.net/images/manga/3/115043.jpg)
+
 -   **type**: manga
 -   **original-name**: Fate/hollow ataraxia
 -   **start-date**: 2013-05-25

@@ -1,5 +1,7 @@
 # Hyoutan Suzume
 
+![hyoutan-suzume](https://cdn.myanimelist.net/images/anime/10/43351.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ひょうたんすずめ

@@ -1,5 +1,7 @@
 # Fire on Ice
 
+![fire-on-ice](https://cdn.myanimelist.net/images/manga/1/148813.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

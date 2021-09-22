@@ -1,5 +1,7 @@
 # Kiri-no-Mori Hotel
 
+![kiri-no-mori-hotel](https://cdn.myanimelist.net/images/manga/2/134169.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 6

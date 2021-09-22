@@ -1,5 +1,7 @@
 # Hakui no Gensoujutsushi to Kurogane no Harmonica
 
+![hakui-no-gensoujutsushi-to-kurogane-no-harmonica](https://cdn.myanimelist.net/images/manga/1/164707.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 15

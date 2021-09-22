@@ -1,5 +1,7 @@
 # Monster Kinematograph
 
+![monster-kinematograph](https://cdn.myanimelist.net/images/manga/1/225443.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

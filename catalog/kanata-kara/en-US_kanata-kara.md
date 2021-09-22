@@ -1,5 +1,7 @@
 # Kanata kara
 
+![kanata-kara](https://cdn.myanimelist.net/images/manga/1/185863.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 57

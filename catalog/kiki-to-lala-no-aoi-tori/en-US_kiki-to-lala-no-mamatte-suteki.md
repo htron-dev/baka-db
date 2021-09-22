@@ -1,5 +1,7 @@
 # Kiki to Lala no Mamatte Suteki!
 
+![kiki-to-lala-no-mamatte-suteki](https://cdn.myanimelist.net/images/anime/1999/112553.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: キキとララのママってすてき!

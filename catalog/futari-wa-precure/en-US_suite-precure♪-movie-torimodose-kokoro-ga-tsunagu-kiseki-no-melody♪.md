@@ -1,5 +1,7 @@
 # Suite Precure♪ Movie: Torimodose! Kokoro ga Tsunagu Kiseki no Melody♪
 
+![suite-precure♪-movie-torimodose-kokoro-ga-tsunagu-kiseki-no-melody♪](https://cdn.myanimelist.net/images/anime/1159/99768.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 スイートプリキュア ♪ とりもどせ! 心がつなぐ奇跡のメロディ ♪

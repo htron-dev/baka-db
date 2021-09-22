@@ -1,5 +1,7 @@
 # Junai Twitter
 
+![junai-twitter](https://cdn.myanimelist.net/images/manga/2/40848.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

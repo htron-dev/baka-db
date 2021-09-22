@@ -1,5 +1,7 @@
 # Go Ahead
 
+![go-ahead](https://cdn.myanimelist.net/images/manga/3/164837.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

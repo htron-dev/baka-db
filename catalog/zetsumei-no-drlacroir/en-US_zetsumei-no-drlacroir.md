@@ -1,5 +1,7 @@
 # Zetsumei no Drlacroir
 
+![zetsumei-no-drlacroir](https://cdn.myanimelist.net/images/manga/3/181846.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

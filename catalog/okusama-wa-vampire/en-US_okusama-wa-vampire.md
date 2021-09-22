@@ -1,5 +1,7 @@
 # Okusama wa Vampire
 
+![okusama-wa-vampire](https://cdn.myanimelist.net/images/manga/1/165129.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

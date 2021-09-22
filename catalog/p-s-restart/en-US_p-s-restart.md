@@ -1,5 +1,7 @@
 # P.S.Restart
 
+![p-s-restart](https://cdn.myanimelist.net/images/manga/3/103641.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: P.S.リスタート

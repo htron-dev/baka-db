@@ -1,5 +1,7 @@
 # Lupin the IIIrd: Jigen Daisuke no Bohyou
 
+![lupin-the-ii-ird-jigen-daisuke-no-bohyou](https://cdn.myanimelist.net/images/anime/12/69457.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: LUPIN THE IIIRD 次元大介の墓標

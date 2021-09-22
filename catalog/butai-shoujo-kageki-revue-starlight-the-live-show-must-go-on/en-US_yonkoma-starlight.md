@@ -1,5 +1,7 @@
 # Yonkoma Starlight
 
+![yonkoma-starlight](https://cdn.myanimelist.net/images/manga/2/222047.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 42

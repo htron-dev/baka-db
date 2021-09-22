@@ -1,5 +1,7 @@
 # Blade Runner: Black Lotus
 
+![blade-runner-black-lotus](https://cdn.myanimelist.net/images/anime/1707/117044.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: BLADE RUNNER – BLACK LOTUS

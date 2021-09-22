@@ -1,5 +1,7 @@
 # Katatsumuri-chan
 
+![katatsumuri-chan](https://cdn.myanimelist.net/images/manga/2/169829.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: かたつむりちゃん

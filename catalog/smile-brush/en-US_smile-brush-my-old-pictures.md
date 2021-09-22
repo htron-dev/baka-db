@@ -1,5 +1,7 @@
 # Smile Brush: My Old Pictures
 
+![smile-brush-my-old-pictures](https://cdn.myanimelist.net/images/manga/1/167426.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 48

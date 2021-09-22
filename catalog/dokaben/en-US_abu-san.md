@@ -1,5 +1,7 @@
 # Abu-san
 
+![abu-san](https://cdn.myanimelist.net/images/manga/2/116449.jpg)
+
 -   **type**: manga
 -   **volumes**: 107
 -   **chapters**: 976

@@ -1,5 +1,7 @@
 # Mofumofu to Isekai Slow Life wo Mezashimasu!
 
+![mofumofu-to-isekai-slow-life-wo-mezashimasu](https://cdn.myanimelist.net/images/manga/3/235262.jpg)
+
 -   **type**: manga
 -   **original-name**: もふもふと異世界でスローライフを目指します!
 -   **start-date**: 2019-05-29

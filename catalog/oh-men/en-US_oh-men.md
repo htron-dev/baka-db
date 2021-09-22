@@ -1,5 +1,7 @@
 # Oh! Men!
 
+![oh-men](https://cdn.myanimelist.net/images/manga/3/245518.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 26

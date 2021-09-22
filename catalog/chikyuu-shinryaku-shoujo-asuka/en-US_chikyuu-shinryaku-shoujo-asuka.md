@@ -1,5 +1,7 @@
 # Chikyuu Shinryaku Shoujo Asuka
 
+![chikyuu-shinryaku-shoujo-asuka](https://cdn.myanimelist.net/images/manga/1/221780.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

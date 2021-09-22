@@ -1,5 +1,7 @@
 # Dao Zhi
 
+![dao-zhi](https://cdn.myanimelist.net/images/anime/1066/115529.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 倒置

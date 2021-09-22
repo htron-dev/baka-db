@@ -1,5 +1,7 @@
 # Kiniro no Toki ga Sugitemo
 
+![kiniro-no-toki-ga-sugitemo](https://cdn.myanimelist.net/images/manga/3/26670.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 金色のときがすぎても

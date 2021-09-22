@@ -1,5 +1,7 @@
 # The Epic Of ZektBach
 
+![the-epic-of-zekt-bach](https://cdn.myanimelist.net/images/anime/11/28972.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: The Epic of Zektbach 　第一章　シャムシールの舞

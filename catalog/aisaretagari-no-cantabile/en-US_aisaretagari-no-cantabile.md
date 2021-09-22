@@ -1,5 +1,7 @@
 # Aisaretagari no Cantabile
 
+![aisaretagari-no-cantabile](https://cdn.myanimelist.net/images/manga/1/223570.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

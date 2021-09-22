@@ -1,5 +1,7 @@
 # Norakuro Compilation OVA
 
+![norakuro-compilation-ova](https://cdn.myanimelist.net/images/anime/13/72530.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: のらくろ

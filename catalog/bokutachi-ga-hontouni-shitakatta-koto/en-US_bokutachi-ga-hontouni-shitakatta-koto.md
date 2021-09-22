@@ -1,5 +1,7 @@
 # Bokutachi ga Hontouni Shitakatta Koto
 
+![bokutachi-ga-hontouni-shitakatta-koto](https://cdn.myanimelist.net/images/manga/2/184314.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ぼくたちが本当にシタかったこと

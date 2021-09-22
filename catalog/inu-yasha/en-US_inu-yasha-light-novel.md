@@ -1,5 +1,7 @@
 # InuYasha
 
+![inu-yasha](https://cdn.myanimelist.net/images/manga/1/88555.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 犬夜叉

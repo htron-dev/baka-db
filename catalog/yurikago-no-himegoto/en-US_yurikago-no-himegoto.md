@@ -1,5 +1,7 @@
 # Yurikago no Himegoto
 
+![yurikago-no-himegoto](https://cdn.myanimelist.net/images/manga/3/185852.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

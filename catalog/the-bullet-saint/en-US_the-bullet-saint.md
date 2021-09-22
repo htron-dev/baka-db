@@ -1,5 +1,7 @@
 # The Bullet Saint
 
+![the-bullet-saint](https://cdn.myanimelist.net/images/manga/1/38910.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 34

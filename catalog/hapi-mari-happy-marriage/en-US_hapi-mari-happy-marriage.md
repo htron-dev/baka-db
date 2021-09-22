@@ -1,5 +1,7 @@
 # Hapi Mari: Happy Marriage!?
 
+![hapi-mari-happy-marriage](https://cdn.myanimelist.net/images/manga/5/142459.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 40

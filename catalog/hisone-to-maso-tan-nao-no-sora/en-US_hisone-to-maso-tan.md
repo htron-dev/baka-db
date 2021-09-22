@@ -1,5 +1,7 @@
 # Hisone to Maso-tan
 
+![hisone-to-maso-tan](https://cdn.myanimelist.net/images/anime/1539/91169.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ひそねとまそたん

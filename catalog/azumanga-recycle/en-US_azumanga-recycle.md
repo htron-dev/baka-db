@@ -1,5 +1,7 @@
 # Azumanga - Recycle
 
+![azumanga-recycle](https://cdn.myanimelist.net/images/manga/1/32611.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: あずまんがリサイクル

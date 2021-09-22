@@ -1,5 +1,7 @@
 # Nanatsu no Taizai
 
+![nanatsu-no-taizai](https://cdn.myanimelist.net/images/manga/2/153111.jpg)
+
 -   **type**: manga
 -   **volumes**: 41
 -   **chapters**: 364

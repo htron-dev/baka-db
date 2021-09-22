@@ -1,5 +1,7 @@
 # Pokémon the Movie XY: Ring no Choumajin Hoopa
 
+![pokemon-the-movie-xy-ring-no-choumajin-hoopa](https://cdn.myanimelist.net/images/manga/2/167450.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Anata no Katagoshi Chotto Ue
 
+![anata-no-katagoshi-chotto-ue](https://cdn.myanimelist.net/images/anime/10/83672.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: あなたの肩ごし ちょっと上

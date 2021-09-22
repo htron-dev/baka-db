@@ -1,5 +1,7 @@
 # Mint Chocolate
 
+![mint-chocolate](https://cdn.myanimelist.net/images/manga/1/233482.jpg)
+
 -   **type**: manga
 -   **original-name**: ミントチョコレート
 -   **start-date**: 2016-04-09

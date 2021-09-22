@@ -1,5 +1,7 @@
 # Moji Mahou x Insatsu Gijutsu de Okosu Isekai Kakumei
 
+![moji-mahou-x-insatsu-gijutsu-de-okosu-isekai-kakumei](https://cdn.myanimelist.net/images/manga/1/195968.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

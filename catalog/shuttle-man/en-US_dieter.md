@@ -1,5 +1,7 @@
 # Dieter
 
+![dieter](https://cdn.myanimelist.net/images/manga/1/204783.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **original-name**: 다이어터

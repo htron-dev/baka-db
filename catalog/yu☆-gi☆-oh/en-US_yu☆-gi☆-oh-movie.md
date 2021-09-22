@@ -1,5 +1,7 @@
 # Yu☆Gi☆Oh! (Movie)
 
+![yu☆-gi☆-oh-movie](https://cdn.myanimelist.net/images/anime/1/2114.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 遊 ☆ 戯 ☆ 王

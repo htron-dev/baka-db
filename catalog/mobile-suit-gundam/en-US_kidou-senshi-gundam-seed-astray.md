@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam SEED: Astray
 
+![kidou-senshi-gundam-seed-astray](https://cdn.myanimelist.net/images/manga/1/126203.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

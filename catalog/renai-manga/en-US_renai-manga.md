@@ -1,5 +1,7 @@
 # Renai Manga
 
+![renai-manga](https://cdn.myanimelist.net/images/manga/3/242950.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

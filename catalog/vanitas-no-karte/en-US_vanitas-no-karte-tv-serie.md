@@ -1,5 +1,7 @@
 # Vanitas no Karte
 
+![vanitas-no-karte](https://cdn.myanimelist.net/images/anime/1811/115541.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ヴァニタスの手記

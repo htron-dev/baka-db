@@ -1,5 +1,7 @@
 # Kiss x Sis
 
+![kiss-x-sis](https://cdn.myanimelist.net/images/manga/2/194014.jpg)
+
 -   **type**: manga
 -   **original-name**: キス × シス
 -   **start-date**: 2005-12-11

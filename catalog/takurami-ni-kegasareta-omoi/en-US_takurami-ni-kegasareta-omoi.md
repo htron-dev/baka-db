@@ -1,5 +1,7 @@
 # Takurami ni Kegasareta Omoi
 
+![takurami-ni-kegasareta-omoi](https://cdn.myanimelist.net/images/manga/2/10881.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: たくらみに穢された想い

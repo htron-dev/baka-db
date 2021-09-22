@@ -1,5 +1,7 @@
 # To Heart 2 AD
 
+![to-heart-2-ad](https://cdn.myanimelist.net/images/anime/3/75476.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: トゥハート 2

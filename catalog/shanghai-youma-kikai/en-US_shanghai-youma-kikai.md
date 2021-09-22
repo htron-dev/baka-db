@@ -1,5 +1,7 @@
 # Shanghai Youma Kikai
 
+![shanghai-youma-kikai](https://cdn.myanimelist.net/images/manga/1/1727.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: 上海妖魔鬼怪

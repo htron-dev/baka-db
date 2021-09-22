@@ -1,5 +1,7 @@
 # Chainsaw Bunny: Deleted Scene
 
+![chainsaw-bunny-deleted-scene](https://cdn.myanimelist.net/images/anime/1282/95802.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: CHAINSAW BUNNY Deleted Scene

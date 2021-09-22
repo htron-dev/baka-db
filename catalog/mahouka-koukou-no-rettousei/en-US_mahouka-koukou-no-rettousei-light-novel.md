@@ -1,5 +1,7 @@
 # Mahouka Koukou no Rettousei
 
+![mahouka-koukou-no-rettousei](https://cdn.myanimelist.net/images/manga/1/62151.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 32
 -   **original-name**: 魔法科高校の劣等生

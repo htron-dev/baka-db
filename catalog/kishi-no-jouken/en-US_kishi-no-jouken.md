@@ -1,5 +1,7 @@
 # Kishi no Jouken
 
+![kishi-no-jouken](https://cdn.myanimelist.net/images/manga/1/79493.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

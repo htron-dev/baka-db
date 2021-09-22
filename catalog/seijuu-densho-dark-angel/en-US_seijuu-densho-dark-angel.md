@@ -1,5 +1,7 @@
 # Seijuu Densho Dark Angel
 
+![seijuu-densho-dark-angel](https://cdn.myanimelist.net/images/manga/1/216858.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 聖獣伝承 DARK ANGEL

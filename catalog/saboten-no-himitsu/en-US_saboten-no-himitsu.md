@@ -1,5 +1,7 @@
 # Saboten no Himitsu
 
+![saboten-no-himitsu](https://cdn.myanimelist.net/images/manga/2/123137.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

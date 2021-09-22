@@ -1,5 +1,7 @@
 # Fuyu Fenrir no Itoshigo to Natta Watashi ga, Zetsubou kara Iyasareteiku Hanashi
 
+![fuyu-fenrir-no-itoshigo-to-natta-watashi-ga-zetsubou-kara-iyasareteiku-hanashi](https://cdn.myanimelist.net/images/manga/3/241239.jpg)
+
 -   **type**: manga
 -   **original-name**: 冬フェンリルの愛子となった私が、絶望から癒されていく話
 -   **start-date**: 2020-02-25

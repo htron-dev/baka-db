@@ -1,5 +1,7 @@
 # Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta
 
+![boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta](https://cdn.myanimelist.net/images/manga/1/211772.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 冒険者になりたいと都に出て行った娘が S ランクになってた
 -   **start-date**: 2018-02-15

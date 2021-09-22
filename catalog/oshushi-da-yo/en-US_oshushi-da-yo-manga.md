@@ -1,5 +1,7 @@
 # Oshushi da yo
 
+![oshushi-da-yo](https://cdn.myanimelist.net/images/manga/2/247614.jpg)
+
 -   **type**: manga
 -   **original-name**: おしゅしだよ
 -   **start-date**: 2014-04-28

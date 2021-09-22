@@ -1,5 +1,7 @@
 # Haruwo
 
+![haruwo](https://cdn.myanimelist.net/images/anime/1037/112340.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハルヲ

@@ -1,5 +1,7 @@
 # Modotte! Mamotte! Lollipop
 
+![modotte-mamotte-lollipop](https://cdn.myanimelist.net/images/manga/3/1318.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 22

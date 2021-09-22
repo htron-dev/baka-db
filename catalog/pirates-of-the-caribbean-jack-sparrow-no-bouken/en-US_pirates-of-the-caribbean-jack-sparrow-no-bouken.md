@@ -1,5 +1,7 @@
 # Pirates of the Caribbean Jack Sparrow no Bouken
 
+![pirates-of-the-caribbean-jack-sparrow-no-bouken](https://cdn.myanimelist.net/images/manga/3/28859.jpg)
+
 -   **type**: manga
 -   **original-name**: パイレーツ・オブ・カリビアン ジャック・スパロウの冒険
 

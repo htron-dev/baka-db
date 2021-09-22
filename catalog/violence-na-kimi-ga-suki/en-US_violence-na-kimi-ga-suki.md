@@ -1,5 +1,7 @@
 # Violence na Kimi ga Suki
 
+![violence-na-kimi-ga-suki](https://cdn.myanimelist.net/images/manga/3/50499.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

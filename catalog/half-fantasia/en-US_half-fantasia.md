@@ -1,5 +1,7 @@
 # Half Fantasia
 
+![half-fantasia](https://cdn.myanimelist.net/images/manga/3/18294.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

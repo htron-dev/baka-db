@@ -1,5 +1,7 @@
 # Chameleon
 
+![chameleon](https://cdn.myanimelist.net/images/manga/1/183360.jpg)
+
 -   **type**: manga
 -   **volumes**: 47
 -   **chapters**: 429

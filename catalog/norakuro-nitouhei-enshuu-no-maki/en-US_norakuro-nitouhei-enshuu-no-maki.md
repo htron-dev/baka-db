@@ -1,5 +1,7 @@
 # Norakuro Nitouhei: Enshuu no Maki
 
+![norakuro-nitouhei-enshuu-no-maki](https://cdn.myanimelist.net/images/anime/6/52275.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: のらくろ二等兵 演習の巻

@@ -1,5 +1,7 @@
 # Kiki to Lala no Ohimesama ni Naritai
 
+![kiki-to-lala-no-ohimesama-ni-naritai](https://cdn.myanimelist.net/images/anime/8/46709.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: キキとララのお姫さまになりたい

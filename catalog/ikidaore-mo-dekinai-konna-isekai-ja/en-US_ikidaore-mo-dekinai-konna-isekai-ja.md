@@ -1,5 +1,7 @@
 # Ikidaore mo Dekinai Konna Isekai ja
 
+![ikidaore-mo-dekinai-konna-isekai-ja](https://cdn.myanimelist.net/images/manga/1/241662.jpg)
+
 -   **type**: manga
 -   **original-name**: 行き倒れもできないこんな異世界じゃ
 -   **start-date**: 2020-06-05

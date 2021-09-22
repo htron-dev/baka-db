@@ -1,5 +1,7 @@
 # Red Ash: Gearworld
 
+![red-ash-gearworld](https://cdn.myanimelist.net/images/anime/2/80222.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Red Ash -GEARWORLD-

@@ -1,5 +1,7 @@
 # G-senjou no Neko
 
+![g-senjou-no-neko](https://cdn.myanimelist.net/images/manga/1/186454.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

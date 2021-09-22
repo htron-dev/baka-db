@@ -1,5 +1,7 @@
 # Jibaku-kun
 
+![jibaku-kun](https://cdn.myanimelist.net/images/anime/6/15166.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ジバクくん

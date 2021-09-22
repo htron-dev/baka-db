@@ -1,5 +1,7 @@
 # Joushi no Okiniiri
 
+![joushi-no-okiniiri](https://cdn.myanimelist.net/images/manga/3/15353.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

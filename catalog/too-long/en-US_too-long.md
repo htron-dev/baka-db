@@ -1,5 +1,7 @@
 # Too Long
 
+![too-long](https://cdn.myanimelist.net/images/manga/5/7621.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Conveni Robot Populi-chan
 
+![conveni-robot-populi-chan](https://cdn.myanimelist.net/images/manga/3/147211.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 64

@@ -1,5 +1,7 @@
 # Ougon no Proposal: Sabaku no Ouji no Hanayome Sagashi
 
+![ougon-no-proposal-sabaku-no-ouji-no-hanayome-sagashi](https://cdn.myanimelist.net/images/manga/2/182152.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

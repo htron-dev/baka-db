@@ -1,5 +1,7 @@
 # Madoromi Barmaid
 
+![madoromi-barmaid](https://cdn.myanimelist.net/images/manga/2/205193.jpg)
+
 -   **type**: manga
 -   **original-name**: まどろみバーメイド
 -   **start-date**: 2017-03-10

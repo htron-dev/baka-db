@@ -1,5 +1,7 @@
 # Shishunki Cherry Bullet
 
+![shishunki-cherry-bullet](https://cdn.myanimelist.net/images/manga/2/245419.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

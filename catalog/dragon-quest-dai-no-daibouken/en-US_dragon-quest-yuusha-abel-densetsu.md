@@ -1,5 +1,7 @@
 # Dragon Quest: Yuusha Abel Densetsu
 
+![dragon-quest-yuusha-abel-densetsu](https://cdn.myanimelist.net/images/anime/1270/114210.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 43
 -   **original-name**: ドラゴンクエスト～勇者アベル伝説～

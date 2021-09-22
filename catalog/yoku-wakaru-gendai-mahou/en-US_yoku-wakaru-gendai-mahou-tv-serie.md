@@ -1,5 +1,7 @@
 # Yoku Wakaru Gendai Mahou
 
+![yoku-wakaru-gendai-mahou](https://cdn.myanimelist.net/images/anime/5/88619.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: よくわかる現代魔法

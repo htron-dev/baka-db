@@ -1,5 +1,7 @@
 # Watashi ni Tenshi ga Maiorita!
 
+![watashi-ni-tenshi-ga-maiorita](https://cdn.myanimelist.net/images/anime/1778/100470.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 私に天使が舞い降りた！

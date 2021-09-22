@@ -1,5 +1,7 @@
 # 10-nen Tatte mo Aishiteru?
 
+![10-nen-tatte-mo-aishiteru](https://cdn.myanimelist.net/images/manga/1/148655.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

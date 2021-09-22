@@ -1,5 +1,7 @@
 # Night Milk Heads
 
+![night-milk-heads](https://cdn.myanimelist.net/images/manga/2/221889.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

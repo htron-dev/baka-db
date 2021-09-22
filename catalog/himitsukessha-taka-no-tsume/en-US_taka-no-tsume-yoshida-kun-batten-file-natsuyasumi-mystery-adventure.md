@@ -1,5 +1,7 @@
 # Taka no Tsume Yoshida-kun Batten File: Natsuyasumi Mystery Adventure
 
+![taka-no-tsume-yoshida-kun-batten-file-natsuyasumi-mystery-adventure](https://cdn.myanimelist.net/images/anime/1702/102131.jpg)
+
 -   **type**: ona
 -   **episodes**: 5
 -   **original-name**: 鷹の爪 吉田くんの ×（バッテン）ファイル～夏休みミステリー・アドベンチャー～

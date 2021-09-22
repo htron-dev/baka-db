@@ -1,5 +1,7 @@
 # Shisei
 
+![shisei](https://cdn.myanimelist.net/images/manga/3/186333.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

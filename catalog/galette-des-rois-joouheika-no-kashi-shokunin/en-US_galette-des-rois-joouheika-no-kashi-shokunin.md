@@ -1,5 +1,7 @@
 # Galette des rois - Joouheika no Kashi Shokunin
 
+![galette-des-rois-joouheika-no-kashi-shokunin](https://cdn.myanimelist.net/images/manga/2/80347.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

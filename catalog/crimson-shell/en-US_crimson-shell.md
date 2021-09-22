@@ -1,5 +1,7 @@
 # Crimson-Shell
 
+![crimson-shell](https://cdn.myanimelist.net/images/manga/3/16610.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

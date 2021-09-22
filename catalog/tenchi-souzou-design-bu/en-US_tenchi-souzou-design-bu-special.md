@@ -1,5 +1,7 @@
 # Tenchi Souzou Design-bu Special
 
+![tenchi-souzou-design-bu-special](https://cdn.myanimelist.net/images/anime/1298/113966.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 天地創造デザイン部 特別編

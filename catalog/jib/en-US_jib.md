@@ -1,5 +1,7 @@
 # Jib
 
+![jib](https://cdn.myanimelist.net/images/anime/13/46023.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 집

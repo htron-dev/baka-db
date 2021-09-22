@@ -1,5 +1,7 @@
 # Wagahai wa Neko de Aru
 
+![wagahai-wa-neko-de-aru](https://cdn.myanimelist.net/images/manga/1/149317.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

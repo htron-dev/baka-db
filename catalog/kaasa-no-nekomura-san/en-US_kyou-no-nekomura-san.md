@@ -1,5 +1,7 @@
 # Kyou no Nekomura-san
 
+![kyou-no-nekomura-san](https://cdn.myanimelist.net/images/manga/1/58547.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: きょうの猫村さん

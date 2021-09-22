@@ -1,5 +1,7 @@
 # Sweet Bitter Love
 
+![sweet-bitter-love](https://cdn.myanimelist.net/images/manga/2/28725.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 

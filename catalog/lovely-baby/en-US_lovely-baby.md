@@ -1,5 +1,7 @@
 # Lovely Baby
 
+![lovely-baby](https://cdn.myanimelist.net/images/manga/3/29708.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ラブリー・ベイベェ

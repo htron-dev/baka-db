@@ -1,5 +1,7 @@
 # Urashimasakatasen no Nichijou Special
 
+![urashimasakatasen-no-nichijou-special](https://cdn.myanimelist.net/images/anime/1109/105001.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 浦島坂田船の日常

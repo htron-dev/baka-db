@@ -1,5 +1,7 @@
 # Risou no Hito
 
+![risou-no-hito](https://cdn.myanimelist.net/images/manga/3/40460.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 理想のひと

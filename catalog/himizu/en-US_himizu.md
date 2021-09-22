@@ -1,5 +1,7 @@
 # Himizu
 
+![himizu](https://cdn.myanimelist.net/images/manga/3/198203.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 43

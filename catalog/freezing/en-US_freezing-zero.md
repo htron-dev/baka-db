@@ -1,5 +1,7 @@
 # Freezing Zero
 
+![freezing-zero](https://cdn.myanimelist.net/images/manga/1/73723.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 38

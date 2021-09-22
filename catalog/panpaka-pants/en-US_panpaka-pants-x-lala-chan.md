@@ -1,5 +1,7 @@
 # Panpaka Pants x Lala-chan
 
+![panpaka-pants-x-lala-chan](https://cdn.myanimelist.net/images/anime/10/89794.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: パンパカパンツ × ララちゃん

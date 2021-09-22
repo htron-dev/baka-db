@@ -1,5 +1,7 @@
 # Houkago no Pleiades
 
+![houkago-no-pleiades](https://cdn.myanimelist.net/images/anime/9/47741.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: 放課後のプレアデス

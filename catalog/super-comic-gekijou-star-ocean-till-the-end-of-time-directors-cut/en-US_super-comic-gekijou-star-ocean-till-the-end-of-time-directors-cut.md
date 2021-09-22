@@ -1,5 +1,7 @@
 # Super Comic Gekijou: Star Ocean - Till the End of Time - Director's Cut
 
+![super-comic-gekijou-star-ocean-till-the-end-of-time-directors-cut](https://cdn.myanimelist.net/images/manga/2/151587.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: スターオーシャン Till the End of Time DIRECTOR'S CUT

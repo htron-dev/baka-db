@@ -1,5 +1,7 @@
 # Kemokko Doubutsuen!
 
+![kemokko-doubutsuen](https://cdn.myanimelist.net/images/manga/3/203218.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

@@ -1,5 +1,7 @@
 # Ai to Aizawa
 
+![ai-to-aizawa](https://cdn.myanimelist.net/images/manga/2/231866.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

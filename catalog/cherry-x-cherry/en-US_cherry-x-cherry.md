@@ -1,5 +1,7 @@
 # Cherry x Cherry
 
+![cherry-x-cherry](https://cdn.myanimelist.net/images/manga/1/50089.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

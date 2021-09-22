@@ -1,5 +1,7 @@
 # Love♥Love? Specials
 
+![love♥-love-specials](https://cdn.myanimelist.net/images/anime/7/36569.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: LOVE♥LOVE?

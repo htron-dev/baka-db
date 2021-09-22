@@ -1,5 +1,7 @@
 # Suki dakedo!
 
+![suki-dakedo](https://cdn.myanimelist.net/images/manga/3/12559.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

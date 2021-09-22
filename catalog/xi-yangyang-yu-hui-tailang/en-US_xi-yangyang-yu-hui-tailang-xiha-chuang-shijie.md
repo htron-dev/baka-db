@@ -1,5 +1,7 @@
 # Xi Yangyang Yu Hui Tailang: Xiha Chuang Shijie
 
+![xi-yangyang-yu-hui-tailang-xiha-chuang-shijie](https://cdn.myanimelist.net/images/anime/1537/115280.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 60
 -   **original-name**: 喜羊羊與灰太狼之嘻哈闖世界

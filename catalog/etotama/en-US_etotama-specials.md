@@ -1,5 +1,7 @@
 # Etotama Specials
 
+![etotama-specials](https://cdn.myanimelist.net/images/anime/11/74664.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: えとたま（干支魂）TV 未公開ショートエピソード

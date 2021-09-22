@@ -1,5 +1,7 @@
 # Usagi no Mofy
 
+![usagi-no-mofy](https://cdn.myanimelist.net/images/anime/10/57215.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: うさぎのモフィ

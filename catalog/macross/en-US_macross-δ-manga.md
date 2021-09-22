@@ -1,5 +1,7 @@
 # Macross Δ
 
+![macross-δ](https://cdn.myanimelist.net/images/manga/2/183796.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Hyakka Ryouranroku
 
+![hyakka-ryouranroku](https://cdn.myanimelist.net/images/manga/1/144255.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

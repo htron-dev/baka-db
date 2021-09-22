@@ -1,5 +1,7 @@
 # Fire Emblem Heroes: Eiyuu-tachi no Nichijou
 
+![fire-emblem-heroes-eiyuu-tachi-no-nichijou](https://cdn.myanimelist.net/images/manga/1/223261.jpg)
+
 -   **type**: manga
 -   **original-name**: ファイアーエムブレム ヒーローズ 英雄たちの日常
 -   **start-date**: 2017-11-15

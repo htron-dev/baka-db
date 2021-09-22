@@ -1,5 +1,7 @@
 # London-tou no Nue
 
+![london-tou-no-nue](https://cdn.myanimelist.net/images/manga/2/210619.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 倫敦塔の鵺

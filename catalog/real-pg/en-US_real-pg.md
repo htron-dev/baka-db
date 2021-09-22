@@ -1,5 +1,7 @@
 # RealPG
 
+![real-pg](https://cdn.myanimelist.net/images/manga/2/159060.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

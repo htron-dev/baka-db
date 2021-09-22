@@ -1,5 +1,7 @@
 # Junai Romantica
 
+![junai-romantica](https://cdn.myanimelist.net/images/manga/1/154814.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 純愛ロマンチカ
 -   **start-date**: 2004-10-30

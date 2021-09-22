@@ -1,5 +1,7 @@
 # Code:Realize - Sousei no Himegimi
 
+![code-realize-sousei-no-himegimi](https://cdn.myanimelist.net/images/anime/6/88465.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: Code:Realize ～創世の姫君～

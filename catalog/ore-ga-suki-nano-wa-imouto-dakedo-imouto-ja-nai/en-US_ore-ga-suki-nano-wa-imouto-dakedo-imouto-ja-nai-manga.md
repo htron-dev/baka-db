@@ -1,5 +1,7 @@
 # Ore ga Suki nano wa Imouto dakedo Imouto ja Nai
 
+![ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai](https://cdn.myanimelist.net/images/manga/2/210834.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

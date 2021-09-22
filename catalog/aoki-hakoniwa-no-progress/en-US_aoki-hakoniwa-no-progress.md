@@ -1,5 +1,7 @@
 # Aoki Hakoniwa no Progress
 
+![aoki-hakoniwa-no-progress](https://cdn.myanimelist.net/images/manga/1/159894.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 29

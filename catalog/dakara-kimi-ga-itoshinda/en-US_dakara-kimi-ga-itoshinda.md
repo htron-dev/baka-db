@@ -1,5 +1,7 @@
 # Dakara Kimi ga Itoshinda.
 
+![dakara-kimi-ga-itoshinda](https://cdn.myanimelist.net/images/manga/3/73683.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

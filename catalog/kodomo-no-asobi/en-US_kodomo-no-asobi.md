@@ -1,5 +1,7 @@
 # Kodomo no Asobi
 
+![kodomo-no-asobi](https://cdn.myanimelist.net/images/manga/2/167211.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

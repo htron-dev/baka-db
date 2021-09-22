@@ -1,5 +1,7 @@
 # Kanata naru Kimi no Egao wo Kagami no Mukou
 
+![kanata-naru-kimi-no-egao-wo-kagami-no-mukou](https://cdn.myanimelist.net/images/manga/2/183250.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 彼方なる君の笑顔は鏡の向こう
 -   **start-date**: 2016-09-30

@@ -1,5 +1,7 @@
 # Danjo no Yuujou wa Seiritsu suru? (Iya, Shinaii!!)
 
+![danjo-no-yuujou-wa-seiritsu-suru-iya-shinaii](https://cdn.myanimelist.net/images/manga/2/247299.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 男女の友情は成立する?（いや、しないっ!!）
 -   **start-date**: 2021-01-09

@@ -1,5 +1,7 @@
 # Oh! Super Milk-chan Special
 
+![oh-super-milk-chan-special](https://cdn.myanimelist.net/images/anime/3/50619.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: OH！スーパーミルクチャン～ミルクのノーマーシー！不倫は文化だ！

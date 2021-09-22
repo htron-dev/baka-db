@@ -1,5 +1,7 @@
 # Tonari no Onna
 
+![tonari-no-onna](https://cdn.myanimelist.net/images/manga/3/225080.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

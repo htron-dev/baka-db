@@ -1,5 +1,7 @@
 # Muchakucha Daisuki.
 
+![muchakucha-daisuki](https://cdn.myanimelist.net/images/manga/2/113941.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Ozu-kun no Vita Sexualis
 
+![ozu-kun-no-vita-sexualis](https://cdn.myanimelist.net/images/manga/2/238343.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

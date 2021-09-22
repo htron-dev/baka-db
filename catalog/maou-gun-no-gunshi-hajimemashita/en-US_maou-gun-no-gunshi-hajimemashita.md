@@ -1,5 +1,7 @@
 # Maou-gun no Gunshi Hajimemashita
 
+![maou-gun-no-gunshi-hajimemashita](https://cdn.myanimelist.net/images/manga/3/160792.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 18

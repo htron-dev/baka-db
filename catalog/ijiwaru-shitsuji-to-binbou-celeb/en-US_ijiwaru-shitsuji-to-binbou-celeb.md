@@ -1,5 +1,7 @@
 # Ijiwaru Shitsuji to Binbou Celeb
 
+![ijiwaru-shitsuji-to-binbou-celeb](https://cdn.myanimelist.net/images/manga/2/82532.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

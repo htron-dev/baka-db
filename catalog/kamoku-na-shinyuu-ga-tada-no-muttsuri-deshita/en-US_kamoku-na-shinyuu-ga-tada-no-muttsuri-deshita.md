@@ -1,5 +1,7 @@
 # Kamoku na Shinyuu ga Tada no Muttsuri deshita
 
+![kamoku-na-shinyuu-ga-tada-no-muttsuri-deshita](https://cdn.myanimelist.net/images/manga/1/232884.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

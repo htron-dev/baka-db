@@ -1,5 +1,7 @@
 # Change!! Getter Robo: Sekai Saigo no Hi
 
+![change-getter-robo-sekai-saigo-no-hi](https://cdn.myanimelist.net/images/anime/4/23767.jpg)
+
 -   **type**: ova
 -   **episodes**: 13
 -   **original-name**: 真(チェンジ!!)ゲッターロボ 世界最後の日

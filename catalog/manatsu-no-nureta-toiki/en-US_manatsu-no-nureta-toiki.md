@@ -1,5 +1,7 @@
 # Manatsu no Nureta Toiki
 
+![manatsu-no-nureta-toiki](https://cdn.myanimelist.net/images/manga/1/213698.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

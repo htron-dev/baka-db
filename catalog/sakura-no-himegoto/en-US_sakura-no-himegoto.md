@@ -1,5 +1,7 @@
 # Sakura no Himegoto
 
+![sakura-no-himegoto](https://cdn.myanimelist.net/images/manga/5/89001.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

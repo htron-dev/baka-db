@@ -1,5 +1,7 @@
 # Itazura na Kiss
 
+![itazura-na-kiss](https://cdn.myanimelist.net/images/anime/10/19933.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: イタズラな Kiss

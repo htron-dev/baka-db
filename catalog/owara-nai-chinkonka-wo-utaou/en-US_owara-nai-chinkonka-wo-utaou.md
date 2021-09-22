@@ -1,5 +1,7 @@
 # Owara Nai Chinkonka wo Utaou
 
+![owara-nai-chinkonka-wo-utaou](https://cdn.myanimelist.net/images/anime/10/83664.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: 終わらない鎮魂歌を歌おう

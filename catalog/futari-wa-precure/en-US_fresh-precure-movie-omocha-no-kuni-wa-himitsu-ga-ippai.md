@@ -1,5 +1,7 @@
 # Fresh Precure! Movie: Omocha no Kuni wa Himitsu ga Ippai!?
 
+![fresh-precure-movie-omocha-no-kuni-wa-himitsu-ga-ippai](https://cdn.myanimelist.net/images/anime/11/28480.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 フレッシュプリキュア！おもちゃの国は秘密がいっぱい！？

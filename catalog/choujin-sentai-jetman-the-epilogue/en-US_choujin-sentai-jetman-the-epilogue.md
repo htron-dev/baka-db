@@ -1,5 +1,7 @@
 # Choujin Sentai Jetman: The Epilogue
 
+![choujin-sentai-jetman-the-epilogue](https://cdn.myanimelist.net/images/manga/2/5674.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

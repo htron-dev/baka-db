@@ -1,5 +1,7 @@
 # Samayou Maboroshi
 
+![samayou-maboroshi](https://cdn.myanimelist.net/images/manga/2/235801.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

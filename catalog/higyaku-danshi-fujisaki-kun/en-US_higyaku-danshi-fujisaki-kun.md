@@ -1,5 +1,7 @@
 # Higyaku Danshi Fujisaki-kun
 
+![higyaku-danshi-fujisaki-kun](https://cdn.myanimelist.net/images/manga/1/215697.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 35

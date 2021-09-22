@@ -1,5 +1,7 @@
 # Fukufuku Fu-nya~n
 
+![fukufuku-fu-nya-n](https://cdn.myanimelist.net/images/manga/1/146019.jpg)
+
 -   **type**: manga
 -   **original-name**: ふくふくふにゃーん
 

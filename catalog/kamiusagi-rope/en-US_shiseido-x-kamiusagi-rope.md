@@ -1,5 +1,7 @@
 # Shiseido x Kamiusagi Rope
 
+![shiseido-x-kamiusagi-rope](https://cdn.myanimelist.net/images/anime/3/85030.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 資生堂 × 紙兎ロペ

@@ -1,5 +1,7 @@
 # Shinsengumi Jingishou Asagi
 
+![shinsengumi-jingishou-asagi](https://cdn.myanimelist.net/images/manga/1/22368.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 新選組刃義抄アサギ

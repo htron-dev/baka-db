@@ -1,5 +1,7 @@
 # Kami no Shizuku
 
+![kami-no-shizuku](https://cdn.myanimelist.net/images/manga/1/157426.jpg)
+
 -   **type**: manga
 -   **volumes**: 44
 -   **chapters**: 439

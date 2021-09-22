@@ -1,5 +1,7 @@
 # Break-Age
 
+![break-age](https://cdn.myanimelist.net/images/manga/3/102695.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 62

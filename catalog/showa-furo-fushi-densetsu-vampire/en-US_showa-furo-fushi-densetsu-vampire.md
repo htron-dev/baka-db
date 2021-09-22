@@ -1,5 +1,7 @@
 # Showa Furo Fushi Densetsu Vampire
 
+![showa-furo-fushi-densetsu-vampire](https://cdn.myanimelist.net/images/manga/1/75883.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 41

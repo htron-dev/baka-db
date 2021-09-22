@@ -1,5 +1,7 @@
 # Danchi Tomoo
 
+![danchi-tomoo](https://cdn.myanimelist.net/images/anime/5/77064.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 78
 -   **original-name**: 団地ともお

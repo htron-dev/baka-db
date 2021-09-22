@@ -1,5 +1,7 @@
 # Saru demo Kakeru Manga Kyoushitsu
 
+![saru-demo-kakeru-manga-kyoushitsu](https://cdn.myanimelist.net/images/manga/2/135557.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

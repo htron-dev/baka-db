@@ -1,5 +1,7 @@
 # Love Me Sinfully
 
+![love-me-sinfully](https://cdn.myanimelist.net/images/manga/2/5472.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Basket no Megami-sama
 
+![basket-no-megami-sama](https://cdn.myanimelist.net/images/manga/1/169083.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 35

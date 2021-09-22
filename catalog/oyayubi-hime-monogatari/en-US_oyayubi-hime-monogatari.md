@@ -1,5 +1,7 @@
 # Oyayubi Hime Monogatari
 
+![oyayubi-hime-monogatari](https://cdn.myanimelist.net/images/anime/1166/101997.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: おやゆび姫物語

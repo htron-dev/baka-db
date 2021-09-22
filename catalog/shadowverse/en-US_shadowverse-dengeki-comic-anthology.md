@@ -1,5 +1,7 @@
 # Shadowverse: Dengeki Comic Anthology
 
+![shadowverse-dengeki-comic-anthology](https://cdn.myanimelist.net/images/manga/2/232954.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

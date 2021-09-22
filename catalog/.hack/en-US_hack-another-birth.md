@@ -1,5 +1,7 @@
 # .hack//Another Birth
 
+![hack-another-birth](https://cdn.myanimelist.net/images/manga/3/126599.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 28

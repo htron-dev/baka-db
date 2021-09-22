@@ -1,5 +1,7 @@
 # Sukebe no Seishun
 
+![sukebe-no-seishun](https://cdn.myanimelist.net/images/manga/2/237894.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

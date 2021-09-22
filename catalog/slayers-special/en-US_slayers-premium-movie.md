@@ -1,5 +1,7 @@
 # Slayers Premium
 
+![slayers-premium](https://cdn.myanimelist.net/images/anime/2/20969.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: スレイヤーズぷれみあむ

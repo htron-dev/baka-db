@@ -1,5 +1,7 @@
 # Enidewi
 
+![enidewi](https://cdn.myanimelist.net/images/manga/1/132639.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

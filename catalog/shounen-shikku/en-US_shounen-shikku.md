@@ -1,5 +1,7 @@
 # Shounen Shikku
 
+![shounen-shikku](https://cdn.myanimelist.net/images/manga/3/35170.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

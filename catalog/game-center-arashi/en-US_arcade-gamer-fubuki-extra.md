@@ -1,5 +1,7 @@
 # Arcade Gamer Fubuki Extra
 
+![arcade-gamer-fubuki-extra](https://cdn.myanimelist.net/images/anime/12/23357.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: アーケードゲーマーふぶき

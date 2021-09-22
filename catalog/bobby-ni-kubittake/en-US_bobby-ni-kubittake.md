@@ -1,5 +1,7 @@
 # Bobby ni Kubittake
 
+![bobby-ni-kubittake](https://cdn.myanimelist.net/images/anime/2/61349.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ボビーに首ったけ

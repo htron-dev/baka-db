@@ -1,5 +1,7 @@
 # Waon!
 
+![waon](https://cdn.myanimelist.net/images/manga/3/165446.jpg)
+
 -   **type**: manga
 -   **chapters**: 99
 -   **original-name**: 和おん!

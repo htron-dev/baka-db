@@ -1,5 +1,7 @@
 # Kaseki no Kioku
 
+![kaseki-no-kioku](https://cdn.myanimelist.net/images/manga/1/85423.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 化石の記憶

@@ -1,5 +1,7 @@
 # Sachiko no Sachi
 
+![sachiko-no-sachi](https://cdn.myanimelist.net/images/manga/2/239294.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 49

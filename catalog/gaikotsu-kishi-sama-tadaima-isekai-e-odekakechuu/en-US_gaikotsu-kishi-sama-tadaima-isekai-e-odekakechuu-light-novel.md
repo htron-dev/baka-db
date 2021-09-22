@@ -1,5 +1,7 @@
 # Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu
 
+![gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu](https://cdn.myanimelist.net/images/manga/3/174965.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 骸骨騎士様、只今異世界へお出掛け中
 -   **start-date**: 2015-06-25

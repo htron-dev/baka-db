@@ -1,5 +1,7 @@
 # Shinakoi
 
+![shinakoi](https://cdn.myanimelist.net/images/manga/1/181888.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 32

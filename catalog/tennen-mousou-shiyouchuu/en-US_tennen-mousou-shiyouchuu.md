@@ -1,5 +1,7 @@
 # Tennen Mousou Shiyouchuu
 
+![tennen-mousou-shiyouchuu](https://cdn.myanimelist.net/images/manga/1/143885.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

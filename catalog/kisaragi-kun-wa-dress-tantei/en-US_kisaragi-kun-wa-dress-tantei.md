@@ -1,5 +1,7 @@
 # Kisaragi-kun wa Dress Tantei
 
+![kisaragi-kun-wa-dress-tantei](https://cdn.myanimelist.net/images/manga/3/227576.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Peeping Life: The Perfect Explosion
 
+![peeping-life-the-perfect-explosion](https://cdn.myanimelist.net/images/anime/3/46383.jpg)
+
 -   **type**: ova
 -   **episodes**: 10
 -   **original-name**: Peeping Life -The Perfect Explosion-

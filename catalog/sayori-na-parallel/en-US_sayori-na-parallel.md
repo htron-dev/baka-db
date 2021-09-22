@@ -1,5 +1,7 @@
 # Sayori na Parallel
 
+![sayori-na-parallel](https://cdn.myanimelist.net/images/manga/3/150420.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

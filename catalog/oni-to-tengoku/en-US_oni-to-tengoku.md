@@ -1,5 +1,7 @@
 # Oni to Tengoku
 
+![oni-to-tengoku](https://cdn.myanimelist.net/images/manga/1/222197.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Koinashi Ainashi
 
+![koinashi-ainashi](https://cdn.myanimelist.net/images/manga/2/172130.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

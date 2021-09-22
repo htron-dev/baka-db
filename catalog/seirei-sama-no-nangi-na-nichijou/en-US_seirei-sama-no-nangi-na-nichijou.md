@@ -1,5 +1,7 @@
 # Seirei-sama no Nangi na Nichijou
 
+![seirei-sama-no-nangi-na-nichijou](https://cdn.myanimelist.net/images/manga/1/241118.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 精霊さまの難儀な日常

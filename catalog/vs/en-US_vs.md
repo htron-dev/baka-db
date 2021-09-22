@@ -1,5 +1,7 @@
 # VS.
 
+![vs](https://cdn.myanimelist.net/images/manga/1/878.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 31

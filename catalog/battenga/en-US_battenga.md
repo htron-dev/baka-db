@@ -1,5 +1,7 @@
 # Battenga!
 
+![battenga](https://cdn.myanimelist.net/images/manga/1/169834.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

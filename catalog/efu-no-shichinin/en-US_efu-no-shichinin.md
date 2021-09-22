@@ -1,5 +1,7 @@
 # Efu no Shichinin
 
+![efu-no-shichinin](https://cdn.myanimelist.net/images/manga/3/203753.jpg)
+
 -   **type**: manga
 -   **original-name**: 衛府の七忍
 -   **start-date**: 2015-03-19

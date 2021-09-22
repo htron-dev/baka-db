@@ -1,5 +1,7 @@
 # Tensei shite Yandere Kouryaku Taishou Chara to Shujuu Kankei ni Natta Kekka
 
+![tensei-shite-yandere-kouryaku-taishou-chara-to-shujuu-kankei-ni-natta-kekka](https://cdn.myanimelist.net/images/manga/3/241752.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

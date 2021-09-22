@@ -1,5 +1,7 @@
 # Imori 201
 
+![imori-201](https://cdn.myanimelist.net/images/manga/2/159309.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 40

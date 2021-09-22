@@ -1,5 +1,7 @@
 # Tanken Driland: The Episode of Another Hunter
 
+![tanken-driland-the-episode-of-another-hunter](https://cdn.myanimelist.net/images/manga/3/230056.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

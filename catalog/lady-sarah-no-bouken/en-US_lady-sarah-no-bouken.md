@@ -1,5 +1,7 @@
 # Lady Sarah no Bouken
 
+![lady-sarah-no-bouken](https://cdn.myanimelist.net/images/manga/3/145181.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: レディ・サラの冒険

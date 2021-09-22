@@ -1,5 +1,7 @@
 # Kiss: Kyoujin, Sora wo Tobu
 
+![kiss-kyoujin-sora-wo-tobu](https://cdn.myanimelist.net/images/manga/3/205645.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

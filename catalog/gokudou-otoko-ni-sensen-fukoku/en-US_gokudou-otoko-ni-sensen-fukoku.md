@@ -1,5 +1,7 @@
 # Gokudou Otoko ni Sensen Fukoku!
 
+![gokudou-otoko-ni-sensen-fukoku](https://cdn.myanimelist.net/images/manga/1/84965.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

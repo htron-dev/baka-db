@@ -1,5 +1,7 @@
 # Koutarou Makaritooru!
 
+![koutarou-makaritooru](https://cdn.myanimelist.net/images/manga/5/75193.jpg)
+
 -   **type**: manga
 -   **volumes**: 59
 -   **chapters**: 600

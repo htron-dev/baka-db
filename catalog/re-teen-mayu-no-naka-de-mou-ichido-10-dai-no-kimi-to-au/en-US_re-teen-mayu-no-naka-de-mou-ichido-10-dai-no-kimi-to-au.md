@@ -1,5 +1,7 @@
 # Re:teen: Mayu no Naka de Mou Ichido 10-dai no Kimi to Au
 
+![re-teen-mayu-no-naka-de-mou-ichido-10-dai-no-kimi-to-au](https://cdn.myanimelist.net/images/manga/2/169609.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Ijimekko to Ijimerarekko no Bitter na Koimonogatari
 
+![ijimekko-to-ijimerarekko-no-bitter-na-koimonogatari](https://cdn.myanimelist.net/images/manga/1/204065.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

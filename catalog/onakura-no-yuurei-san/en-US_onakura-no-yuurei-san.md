@@ -1,5 +1,7 @@
 # Onakura no Yuurei-san
 
+![onakura-no-yuurei-san](https://cdn.myanimelist.net/images/manga/2/222106.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

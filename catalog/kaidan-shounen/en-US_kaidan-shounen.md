@@ -1,5 +1,7 @@
 # Kaidan Shounen
 
+![kaidan-shounen](https://cdn.myanimelist.net/images/manga/1/239679.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 39

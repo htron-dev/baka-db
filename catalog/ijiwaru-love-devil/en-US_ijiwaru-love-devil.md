@@ -1,5 +1,7 @@
 # Ijiwaru Love Devil
 
+![ijiwaru-love-devil](https://cdn.myanimelist.net/images/manga/1/29749.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: いじわるらぶ・デビル

@@ -1,5 +1,7 @@
 # Rurouni Kenshin: Meiji Kenkaku Romantan - Hokkaido-hen
 
+![rurouni-kenshin-meiji-kenkaku-romantan-hokkaido-hen](https://cdn.myanimelist.net/images/manga/3/211412.jpg)
+
 -   **type**: manga
 -   **original-name**: るろうに剣心－明治剣客浪漫譚・北海道編－
 -   **start-date**: 2016-11-04

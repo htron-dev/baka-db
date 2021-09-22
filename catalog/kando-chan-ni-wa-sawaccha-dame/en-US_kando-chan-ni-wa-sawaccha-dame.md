@@ -1,5 +1,7 @@
 # Kando-chan ni wa Sawaccha Dame!
 
+![kando-chan-ni-wa-sawaccha-dame](https://cdn.myanimelist.net/images/manga/1/244395.jpg)
+
 -   **type**: manga
 -   **original-name**: かんどちゃんには触っちゃダメ！
 -   **start-date**: 2020-10-16

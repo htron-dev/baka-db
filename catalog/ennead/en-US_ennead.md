@@ -1,5 +1,7 @@
 # Ennead
 
+![ennead](https://cdn.myanimelist.net/images/manga/3/238420.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 엔네아드
 -   **start-date**: 2018-09-20

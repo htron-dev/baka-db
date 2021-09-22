@@ -1,5 +1,7 @@
 # Nyan Communication
 
+![nyan-communication](https://cdn.myanimelist.net/images/manga/2/181720.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: にゃんこみゅにけーしょん

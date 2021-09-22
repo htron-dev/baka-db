@@ -1,5 +1,7 @@
 # VR Eroge Yattetara Isekai ni Tensei shita node, Bishoujo Maou wo Dorei-ka suru: Cloth Out Saber
 
+![vr-eroge-yattetara-isekai-ni-tensei-shita-node-bishoujo-maou-wo-dorei-ka-suru-cloth-out-saber](https://cdn.myanimelist.net/images/manga/3/214752.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ＶＲエロゲーやってたら異世界に転生したので、美少女魔王を奴隷化する　～クロスアウト・セイバー～
 -   **start-date**: 2018-03-30

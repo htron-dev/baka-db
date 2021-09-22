@@ -1,5 +1,7 @@
 # Gad Guard
 
+![gad-guard](https://cdn.myanimelist.net/images/anime/5/12863.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ガドガード

@@ -1,5 +1,7 @@
 # Tonda Haneko Jou
 
+![tonda-haneko-jou](https://cdn.myanimelist.net/images/manga/1/116313.jpg)
+
 -   **type**: manga
 -   **original-name**: とんだはね子嬢
 

@@ -1,5 +1,7 @@
 # Sadistic Moon
 
+![sadistic-moon](https://cdn.myanimelist.net/images/manga/1/177406.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: サディスティックムーン

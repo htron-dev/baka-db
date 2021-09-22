@@ -1,5 +1,7 @@
 # Macross Δ
 
+![macross-δ](https://cdn.myanimelist.net/images/anime/5/79376.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: マクロス Δ（デルタ）

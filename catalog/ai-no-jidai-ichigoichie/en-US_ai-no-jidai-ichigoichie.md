@@ -1,5 +1,7 @@
 # Ai no Jidai: Ichigoichie
 
+![ai-no-jidai-ichigoichie](https://cdn.myanimelist.net/images/manga/2/169871.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

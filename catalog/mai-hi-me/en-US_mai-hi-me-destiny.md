@@ -1,5 +1,7 @@
 # Mai-HiME Destiny
 
+![mai-hi-me-destiny](https://cdn.myanimelist.net/images/manga/4/94673.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 13

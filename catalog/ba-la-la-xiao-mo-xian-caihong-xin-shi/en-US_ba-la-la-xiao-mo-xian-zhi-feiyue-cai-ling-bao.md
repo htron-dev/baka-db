@@ -1,5 +1,7 @@
 # Ba La La Xiao Mo Xian Zhi: Feiyue Cai Ling Bao
 
+![ba-la-la-xiao-mo-xian-zhi-feiyue-cai-ling-bao](https://cdn.myanimelist.net/images/anime/3/82903.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 巴啦啦小魔仙之飞越彩灵堡

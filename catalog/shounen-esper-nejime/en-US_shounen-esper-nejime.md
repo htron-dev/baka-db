@@ -1,5 +1,7 @@
 # Shounen Esper Nejime
 
+![shounen-esper-nejime](https://cdn.myanimelist.net/images/manga/3/10442.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 少年エスパーねじめ

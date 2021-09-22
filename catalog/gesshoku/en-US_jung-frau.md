@@ -1,5 +1,7 @@
 # Jung Frau
 
+![jung-frau](https://cdn.myanimelist.net/images/manga/1/38975.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ユングフラウ

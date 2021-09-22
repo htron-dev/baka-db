@@ -1,5 +1,7 @@
 # Shitsujisama, Ubatte!
 
+![shitsujisama-ubatte](https://cdn.myanimelist.net/images/manga/2/31318.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 執事様、奪って!

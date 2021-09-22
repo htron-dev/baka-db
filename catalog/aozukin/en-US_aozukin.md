@@ -1,5 +1,7 @@
 # Aozukin
 
+![aozukin](https://cdn.myanimelist.net/images/manga/1/18091.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 青頭巾

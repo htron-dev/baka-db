@@ -1,5 +1,7 @@
 # Grimms Notes The Animation
 
+![grimms-notes-the-animation](https://cdn.myanimelist.net/images/anime/1708/96962.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: グリムノーツ

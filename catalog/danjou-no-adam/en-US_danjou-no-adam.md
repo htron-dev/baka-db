@@ -1,5 +1,7 @@
 # Danjou no Adam
 
+![danjou-no-adam](https://cdn.myanimelist.net/images/manga/2/5761.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 壇上のアダム

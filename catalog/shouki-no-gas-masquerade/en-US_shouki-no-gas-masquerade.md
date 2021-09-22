@@ -1,5 +1,7 @@
 # Shouki no Gas Masquerade
 
+![shouki-no-gas-masquerade](https://cdn.myanimelist.net/images/manga/2/193620.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

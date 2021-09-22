@@ -1,5 +1,7 @@
 # Yarisugita Majin Senmetsusha no New Game
 
+![yarisugita-majin-senmetsusha-no-new-game](https://cdn.myanimelist.net/images/manga/1/239815.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

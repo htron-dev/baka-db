@@ -1,5 +1,7 @@
 # Hadaka no Taiyou
 
+![hadaka-no-taiyou](https://cdn.myanimelist.net/images/manga/1/85221.jpg)
+
 -   **type**: manga
 -   **original-name**: ハダカノタイヨウ
 -   **start-date**: 2012-06-12

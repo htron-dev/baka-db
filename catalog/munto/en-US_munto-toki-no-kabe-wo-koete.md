@@ -1,5 +1,7 @@
 # Munto: Toki no Kabe wo Koete
 
+![munto-toki-no-kabe-wo-koete](https://cdn.myanimelist.net/images/anime/12/46865.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: MUNTO 時の壁を越えて

@@ -1,5 +1,7 @@
 # Oishii Karada
 
+![oishii-karada](https://cdn.myanimelist.net/images/manga/2/158253.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 美味しいカラダ

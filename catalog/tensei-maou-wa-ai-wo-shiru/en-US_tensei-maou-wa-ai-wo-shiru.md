@@ -1,5 +1,7 @@
 # Tensei Maou wa Ai wo Shiru!?
 
+![tensei-maou-wa-ai-wo-shiru](https://cdn.myanimelist.net/images/manga/1/196205.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 転生魔王は愛を知る？！

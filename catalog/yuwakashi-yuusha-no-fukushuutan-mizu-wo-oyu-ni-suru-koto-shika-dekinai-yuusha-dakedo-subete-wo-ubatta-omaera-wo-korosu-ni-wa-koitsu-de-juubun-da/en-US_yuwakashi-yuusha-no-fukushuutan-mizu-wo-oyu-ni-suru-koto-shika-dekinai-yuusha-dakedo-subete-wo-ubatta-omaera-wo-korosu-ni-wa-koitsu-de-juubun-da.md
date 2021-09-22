@@ -1,5 +1,7 @@
 # Yuwakashi Yuusha no Fukushuutan: Mizu wo Oyu ni Suru Koto shika Dekinai Yuusha dakedo, Subete wo Ubatta Omaera wo Korosu ni wa Koitsu de Juubun da
 
+![yuwakashi-yuusha-no-fukushuutan-mizu-wo-oyu-ni-suru-koto-shika-dekinai-yuusha-dakedo-subete-wo-ubatta-omaera-wo-korosu-ni-wa-koitsu-de-juubun-da](https://cdn.myanimelist.net/images/manga/2/235819.jpg)
+
 -   **type**: manga
 -   **original-name**: 湯沸かし勇者の復讐譚～水をお湯にすることしか出来ない勇者だけど、全てを奪ったお前らを殺すにはこいつで十分だ～
 -   **start-date**: 2019-12-27

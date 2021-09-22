@@ -1,5 +1,7 @@
 # I
 
+![i](https://cdn.myanimelist.net/images/manga/3/60289.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: I 【アイ】

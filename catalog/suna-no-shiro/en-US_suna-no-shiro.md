@@ -1,5 +1,7 @@
 # Suna no Shiro
 
+![suna-no-shiro](https://cdn.myanimelist.net/images/manga/4/175777.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 34

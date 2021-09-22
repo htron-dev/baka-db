@@ -1,5 +1,7 @@
 # Yakyuubu Aruaru
 
+![yakyuubu-aruaru](https://cdn.myanimelist.net/images/anime/8/74951.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 3
 -   **original-name**: 野球部あるある

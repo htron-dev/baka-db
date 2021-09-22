@@ -1,5 +1,7 @@
 # Kekkai Sensen
 
+![kekkai-sensen](https://cdn.myanimelist.net/images/anime/12/73559.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 血界戦線

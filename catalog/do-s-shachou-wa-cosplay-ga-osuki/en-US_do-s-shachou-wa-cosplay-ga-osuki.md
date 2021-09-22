@@ -1,5 +1,7 @@
 # Do S Shachou wa Cosplay ga Osuki?
 
+![do-s-shachou-wa-cosplay-ga-osuki](https://cdn.myanimelist.net/images/manga/2/195267.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ドＳ社長はコスプレがお好き？

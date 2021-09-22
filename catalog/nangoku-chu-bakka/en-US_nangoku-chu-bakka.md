@@ -1,5 +1,7 @@
 # Nangoku Chu Bakka!
 
+![nangoku-chu-bakka](https://cdn.myanimelist.net/images/manga/2/86271.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 25

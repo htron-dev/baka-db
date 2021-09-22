@@ -1,5 +1,7 @@
 # Nightmare Fortress ~ Majin no Jousai
 
+![nightmare-fortress-majin-no-jousai](https://cdn.myanimelist.net/images/manga/2/47109.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

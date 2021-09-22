@@ -1,5 +1,7 @@
 # Binan Koukou Chikyuu Boueibu LOVE! LOVE! LOVE!
 
+![binan-koukou-chikyuu-boueibu-love-love-love](https://cdn.myanimelist.net/images/anime/6/85527.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 美男高校地球防衛部 LOVE! LOVE! LOVE!

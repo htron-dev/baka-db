@@ -1,5 +1,7 @@
 # Telemonster
 
+![telemonster](https://cdn.myanimelist.net/images/anime/7/78233.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 텔레몬스터

@@ -1,5 +1,7 @@
 # Bubblegum Crisis
 
+![bubblegum-crisis](https://cdn.myanimelist.net/images/anime/5/27361.jpg)
+
 -   **type**: ova
 -   **episodes**: 8
 -   **original-name**: バブルガムクライシス

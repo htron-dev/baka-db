@@ -1,5 +1,7 @@
 # Kurogane Girl
 
+![kurogane-girl](https://cdn.myanimelist.net/images/manga/2/41221.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

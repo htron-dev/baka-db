@@ -1,5 +1,7 @@
 # Wanna-Be's
 
+![wanna-bes](https://cdn.myanimelist.net/images/anime/1540/93055.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ウォナビーズ

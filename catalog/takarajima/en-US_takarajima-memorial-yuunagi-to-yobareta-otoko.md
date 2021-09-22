@@ -1,5 +1,7 @@
 # Takarajima Memorial: Yuunagi to Yobareta Otoko
 
+![takarajima-memorial-yuunagi-to-yobareta-otoko](https://cdn.myanimelist.net/images/anime/5/32591.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 宝島メモリアル「夕凪と呼ばれた男」

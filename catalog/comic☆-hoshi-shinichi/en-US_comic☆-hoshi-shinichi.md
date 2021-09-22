@@ -1,5 +1,7 @@
 # Comic☆Hoshi Shinichi
 
+![comic☆-hoshi-shinichi](https://cdn.myanimelist.net/images/manga/2/61119.jpg)
+
 -   **type**: manga
 -   **original-name**: コミック ☆ 星新一
 -   **start-date**: 2001-08-06

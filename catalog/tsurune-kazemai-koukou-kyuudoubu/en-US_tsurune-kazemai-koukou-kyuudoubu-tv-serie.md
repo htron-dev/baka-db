@@ -1,5 +1,7 @@
 # Tsurune: Kazemai Koukou Kyuudoubu
 
+![tsurune-kazemai-koukou-kyuudoubu](https://cdn.myanimelist.net/images/anime/1360/93571.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ツルネ ―風舞高校弓道部―

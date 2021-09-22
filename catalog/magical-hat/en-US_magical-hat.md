@@ -1,5 +1,7 @@
 # Magical Hat
 
+![magical-hat](https://cdn.myanimelist.net/images/anime/12/43263.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 33
 -   **original-name**: まじかるハット

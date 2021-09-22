@@ -1,5 +1,7 @@
 # Yo no Naka wa Bokura ni Amai
 
+![yo-no-naka-wa-bokura-ni-amai](https://cdn.myanimelist.net/images/manga/1/24617.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 世の中は僕らに甘い

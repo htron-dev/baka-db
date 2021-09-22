@@ -1,5 +1,7 @@
 # Nogizaka Haruka no Himitsu: Purezza
 
+![nogizaka-haruka-no-himitsu-purezza](https://cdn.myanimelist.net/images/anime/10/74013.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 乃木坂春香の秘密ぴゃあれっつぁ

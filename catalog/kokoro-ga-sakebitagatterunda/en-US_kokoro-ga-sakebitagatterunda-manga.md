@@ -1,5 +1,7 @@
 # Kokoro ga Sakebitagatterunda.
 
+![kokoro-ga-sakebitagatterunda](https://cdn.myanimelist.net/images/manga/1/163995.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

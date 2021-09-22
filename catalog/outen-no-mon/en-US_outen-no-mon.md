@@ -1,5 +1,7 @@
 # Outen no Mon
 
+![outen-no-mon](https://cdn.myanimelist.net/images/manga/2/123551.jpg)
+
 -   **type**: manga
 -   **original-name**: 応天の門
 -   **start-date**: 2013-10-21

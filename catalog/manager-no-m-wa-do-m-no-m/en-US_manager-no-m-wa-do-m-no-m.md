@@ -1,5 +1,7 @@
 # Manager no M wa Do M no M!
 
+![manager-no-m-wa-do-m-no-m](https://cdn.myanimelist.net/images/manga/3/169752.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

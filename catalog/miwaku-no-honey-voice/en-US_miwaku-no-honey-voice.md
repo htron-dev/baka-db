@@ -1,5 +1,7 @@
 # Miwaku no Honey Voice
 
+![miwaku-no-honey-voice](https://cdn.myanimelist.net/images/manga/3/199318.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 魅惑のハニー・ボイス

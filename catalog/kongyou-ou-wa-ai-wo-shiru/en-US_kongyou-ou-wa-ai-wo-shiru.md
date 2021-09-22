@@ -1,5 +1,7 @@
 # Kongyou: Ou wa Ai wo Shiru
 
+![kongyou-ou-wa-ai-wo-shiru](https://cdn.myanimelist.net/images/manga/2/193313.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

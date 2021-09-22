@@ -1,5 +1,7 @@
 # Akuyaku Reijou no Torimaki Yameyou to Omoimasu
 
+![akuyaku-reijou-no-torimaki-yameyou-to-omoimasu](https://cdn.myanimelist.net/images/manga/1/224167.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 悪役令嬢の取り巻きやめようと思います

@@ -1,5 +1,7 @@
 # Donten ni Warau
 
+![donten-ni-warau](https://cdn.myanimelist.net/images/manga/1/42047.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 29

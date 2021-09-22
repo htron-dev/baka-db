@@ -1,5 +1,7 @@
 # Love Letter ni Kiss
 
+![love-letter-ni-kiss](https://cdn.myanimelist.net/images/manga/3/125197.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ラブレターに KISS

@@ -1,5 +1,7 @@
 # Muteking the Dancing Hero
 
+![muteking-the-dancing-hero](https://cdn.myanimelist.net/images/anime/1256/117263.jpg)
+
 -   **type**: tv-serie
 -   **start-date**: 2021-10-20
 -   **rating**: None
@@ -8,7 +10,6 @@
 
 -   action
 -   comedy
-
 -   magic
 -   mecha
 -   sci-fi

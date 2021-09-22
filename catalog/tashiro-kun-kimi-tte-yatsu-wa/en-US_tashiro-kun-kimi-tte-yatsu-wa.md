@@ -1,5 +1,7 @@
 # Tashiro-kun, Kimi tte Yatsu wa.
 
+![tashiro-kun-kimi-tte-yatsu-wa](https://cdn.myanimelist.net/images/manga/1/233911.jpg)
+
 -   **type**: manga
 -   **original-name**: 鯛代くん、君ってやつは。
 -   **start-date**: 2016-10-18

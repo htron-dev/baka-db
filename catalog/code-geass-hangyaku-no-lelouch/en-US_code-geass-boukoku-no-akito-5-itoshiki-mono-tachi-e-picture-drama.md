@@ -1,5 +1,7 @@
 # Code Geass: Boukoku no Akito 5 - Itoshiki Mono-tachi e Picture Drama
 
+![code-geass-boukoku-no-akito-5-itoshiki-mono-tachi-e-picture-drama](https://cdn.myanimelist.net/images/anime/5/80154.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: コードギアス 亡国のアキト 第 5 章 映像特典 「劇場予告」

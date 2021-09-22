@@ -1,5 +1,7 @@
 # Kabukichou Sherlock OVA
 
+![kabukichou-sherlock-ova](https://cdn.myanimelist.net/images/anime/1456/108076.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 歌舞伎町シャーロック

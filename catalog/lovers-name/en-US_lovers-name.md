@@ -1,5 +1,7 @@
 # Lover's Name
 
+![lovers-name](https://cdn.myanimelist.net/images/manga/1/2385.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

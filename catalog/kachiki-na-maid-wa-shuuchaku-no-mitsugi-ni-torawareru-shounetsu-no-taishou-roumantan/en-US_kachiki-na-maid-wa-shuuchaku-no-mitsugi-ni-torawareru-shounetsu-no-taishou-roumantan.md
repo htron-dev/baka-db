@@ -1,5 +1,7 @@
 # Kachiki na Maid wa Shuuchaku no Mitsugi ni Torawareru: Shounetsu no Taishou Roumantan
 
+![kachiki-na-maid-wa-shuuchaku-no-mitsugi-ni-torawareru-shounetsu-no-taishou-roumantan](https://cdn.myanimelist.net/images/manga/3/194369.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Oniman
 
+![oniman](https://cdn.myanimelist.net/images/manga/2/175259.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 41

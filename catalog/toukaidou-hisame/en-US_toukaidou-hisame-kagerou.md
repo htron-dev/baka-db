@@ -1,5 +1,7 @@
 # Toukaidou Hisame: Kagerou
 
+![toukaidou-hisame-kagerou](https://cdn.myanimelist.net/images/manga/2/21410.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

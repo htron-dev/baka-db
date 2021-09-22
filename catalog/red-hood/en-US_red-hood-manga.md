@@ -1,5 +1,7 @@
 # Red Hood
 
+![red-hood](https://cdn.myanimelist.net/images/manga/1/247439.jpg)
+
 -   **type**: manga
 -   **original-name**: レッドフード
 -   **start-date**: 2021-06-28

@@ -1,5 +1,7 @@
 # Hayaku Okite yo!
 
+![hayaku-okite-yo](https://cdn.myanimelist.net/images/manga/2/107599.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 53

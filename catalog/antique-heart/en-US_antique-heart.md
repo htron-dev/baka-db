@@ -1,5 +1,7 @@
 # Antique Heart
 
+![antique-heart](https://cdn.myanimelist.net/images/anime/7/56121.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アンティーク ハート

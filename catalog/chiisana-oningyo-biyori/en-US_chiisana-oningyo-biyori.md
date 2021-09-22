@@ -1,5 +1,7 @@
 # Chiisana Oningyo Biyori
 
+![chiisana-oningyo-biyori](https://cdn.myanimelist.net/images/manga/1/158502.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

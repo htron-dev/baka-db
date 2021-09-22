@@ -1,5 +1,7 @@
 # Banana Fish
 
+![banana-fish](https://cdn.myanimelist.net/images/manga/5/215997.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 110

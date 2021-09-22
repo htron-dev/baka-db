@@ -1,5 +1,7 @@
 # Anata wa Korosu Tabi
 
+![anata-wa-korosu-tabi](https://cdn.myanimelist.net/images/manga/1/245972.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

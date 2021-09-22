@@ -1,5 +1,7 @@
 # Yozakura Quartet
 
+![yozakura-quartet](https://cdn.myanimelist.net/images/anime/11/74266.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 夜桜四重奏 ～ヨザクラカルテット～

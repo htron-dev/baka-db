@@ -1,5 +1,7 @@
 # Shite, Okeba Yokatta Koukai
 
+![shite-okeba-yokatta-koukai](https://cdn.myanimelist.net/images/manga/3/57907.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

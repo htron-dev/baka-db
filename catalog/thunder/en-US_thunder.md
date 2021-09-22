@@ -1,5 +1,7 @@
 # Thunder
 
+![thunder](https://cdn.myanimelist.net/images/anime/8/75699.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: THUNDER

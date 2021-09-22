@@ -1,5 +1,7 @@
 # Anima ni Aru
 
+![anima-ni-aru](https://cdn.myanimelist.net/images/manga/3/45029.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: アニマニアル

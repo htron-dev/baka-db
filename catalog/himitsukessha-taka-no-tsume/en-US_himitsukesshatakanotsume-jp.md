@@ -1,5 +1,7 @@
 # himitsukesshatakanotsume.jp
 
+![himitsukesshatakanotsume-jp](https://cdn.myanimelist.net/images/anime/13/37615.jpg)
+
 -   **type**: ona
 -   **episodes**: 78
 -   **original-name**: 秘密結社鷹の爪.jp

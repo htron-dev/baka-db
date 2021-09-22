@@ -1,5 +1,7 @@
 # Shounen x Shoujo Shousetsuka: Danshi Koukousei no Kakushigoto
 
+![shounen-x-shoujo-shousetsuka-danshi-koukousei-no-kakushigoto](https://cdn.myanimelist.net/images/manga/2/168235.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

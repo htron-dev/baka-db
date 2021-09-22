@@ -1,5 +1,7 @@
 # Love♥Staff
 
+![love♥-staff](https://cdn.myanimelist.net/images/manga/1/38192.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

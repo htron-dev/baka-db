@@ -1,5 +1,7 @@
 # Monster Strike the Movie: Lucifer - Zetsubou no Yoake
 
+![monster-strike-the-movie-lucifer-zetsubou-no-yoake](https://cdn.myanimelist.net/images/anime/1578/117053.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: モンスト THE MOVIE ルシファー 絶望の夜明け

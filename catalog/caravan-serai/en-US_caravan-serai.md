@@ -1,5 +1,7 @@
 # Caravan Serai
 
+![caravan-serai](https://cdn.myanimelist.net/images/manga/2/28788.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Heavy
 
+![heavy](https://cdn.myanimelist.net/images/manga/3/235331.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 77

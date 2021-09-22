@@ -1,5 +1,7 @@
 # Me wo Tojiru Mae ni
 
+![me-wo-tojiru-mae-ni](https://cdn.myanimelist.net/images/manga/1/39440.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

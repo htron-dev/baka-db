@@ -1,5 +1,7 @@
 # Nidome no Natsu, Nidoto Aenai Kimi
 
+![nidome-no-natsu-nidoto-aenai-kimi](https://cdn.myanimelist.net/images/manga/1/160874.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

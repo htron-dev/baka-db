@@ -1,5 +1,7 @@
 # Bokura no Saidai Kouyakusuu
 
+![bokura-no-saidai-kouyakusuu](https://cdn.myanimelist.net/images/manga/3/156500.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

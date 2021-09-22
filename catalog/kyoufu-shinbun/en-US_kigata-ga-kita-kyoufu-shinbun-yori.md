@@ -1,5 +1,7 @@
 # Kigata ga Kita!: "Kyoufu Shinbun" yori
 
+![kigata-ga-kita-kyoufu-shinbun-yori](https://cdn.myanimelist.net/images/manga/3/46897.jpg)
+
 -   **type**: manga
 -   **original-name**: キガタガキタ!～「恐怖新聞」より～
 

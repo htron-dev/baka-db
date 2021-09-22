@@ -1,5 +1,7 @@
 # Boku ga Suki da to Ienai Wake
 
+![boku-ga-suki-da-to-ienai-wake](https://cdn.myanimelist.net/images/manga/1/78311.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

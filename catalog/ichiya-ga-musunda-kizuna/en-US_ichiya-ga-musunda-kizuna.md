@@ -1,5 +1,7 @@
 # Ichiya ga Musunda Kizuna
 
+![ichiya-ga-musunda-kizuna](https://cdn.myanimelist.net/images/manga/1/247052.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 一夜が結んだ絆

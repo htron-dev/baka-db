@@ -1,5 +1,7 @@
 # Aka Ihon
 
+![aka-ihon](https://cdn.myanimelist.net/images/manga/2/222778.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

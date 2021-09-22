@@ -1,5 +1,7 @@
 # Hidamari to Bentou Danshi to
 
+![hidamari-to-bentou-danshi-to](https://cdn.myanimelist.net/images/manga/2/158414.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

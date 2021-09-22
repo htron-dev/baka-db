@@ -1,5 +1,7 @@
 # Allegseuui Moheom
 
+![allegseuui-moheom](https://cdn.myanimelist.net/images/anime/1908/115320.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 알렉스의 모험

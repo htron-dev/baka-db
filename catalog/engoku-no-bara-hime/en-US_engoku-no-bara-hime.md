@@ -1,5 +1,7 @@
 # Engoku no Bara-hime
 
+![engoku-no-bara-hime](https://cdn.myanimelist.net/images/manga/3/245637.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 怨獄の薔薇姫
 -   **start-date**: 2019-11-01

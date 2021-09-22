@@ -1,5 +1,7 @@
 # Ice
 
+![ice](https://cdn.myanimelist.net/images/anime/1/2329.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ICE - アイス -
@@ -35,4 +37,4 @@ The story takes place in the center of Tokyo. It is one of the places left for t
 -   [Official Site](http://www.project-ice.com/index.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=4974)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7528)
--   [Wikipedia](<http://en.wikipedia.org/wiki/ICE_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/ICE_%28anime%29)

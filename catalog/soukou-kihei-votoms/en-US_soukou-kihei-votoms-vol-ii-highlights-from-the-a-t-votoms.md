@@ -1,5 +1,7 @@
 # Soukou Kihei Votoms Vol.II: Highlights from the "A.T.Votoms"
 
+![soukou-kihei-votoms-vol-ii-highlights-from-the-a-t-votoms](https://cdn.myanimelist.net/images/anime/13/53115.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 装甲騎兵ボトムズ VOL.II HIGHLIGHTS FROM THE "A.T.VOTOMS"

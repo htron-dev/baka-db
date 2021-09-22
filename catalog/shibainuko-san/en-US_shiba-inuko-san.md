@@ -1,5 +1,7 @@
 # Shiba Inuko-san
 
+![shiba-inuko-san](https://cdn.myanimelist.net/images/anime/7/38283.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: しばいぬ子さん

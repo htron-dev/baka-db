@@ -1,5 +1,7 @@
 # Mukimono 67%
 
+![mukimono-67](https://cdn.myanimelist.net/images/manga/2/194721.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

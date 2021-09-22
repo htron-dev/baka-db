@@ -1,5 +1,7 @@
 # Nishio no Yatsuzou
 
+![nishio-no-yatsuzou](https://cdn.myanimelist.net/images/anime/5/88415.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 西尾の八ッ蔵

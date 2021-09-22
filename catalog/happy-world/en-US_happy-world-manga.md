@@ -1,5 +1,7 @@
 # Happy World!
 
+![happy-world](https://cdn.myanimelist.net/images/manga/1/12034.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 72

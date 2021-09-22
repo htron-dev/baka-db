@@ -1,5 +1,7 @@
 # Rurouni Kenshin: Voyage to the Moon World
 
+![rurouni-kenshin-voyage-to-the-moon-world](https://cdn.myanimelist.net/images/manga/1/5941.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 19

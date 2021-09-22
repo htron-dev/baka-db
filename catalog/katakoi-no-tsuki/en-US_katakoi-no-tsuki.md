@@ -1,5 +1,7 @@
 # Katakoi no Tsuki
 
+![katakoi-no-tsuki](https://cdn.myanimelist.net/images/manga/4/26901.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Himiko-den: Renge - Gaun no Shou
 
+![himiko-den-renge-gaun-no-shou](https://cdn.myanimelist.net/images/manga/2/179472.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

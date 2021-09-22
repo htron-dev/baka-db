@@ -1,5 +1,7 @@
 # Sanada to Hamako
 
+![sanada-to-hamako](https://cdn.myanimelist.net/images/manga/3/202096.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

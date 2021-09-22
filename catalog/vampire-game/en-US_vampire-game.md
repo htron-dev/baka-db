@@ -1,5 +1,7 @@
 # Vampire Game
 
+![vampire-game](https://cdn.myanimelist.net/images/manga/3/172989.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 92

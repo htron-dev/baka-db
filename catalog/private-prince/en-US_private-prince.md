@@ -1,5 +1,7 @@
 # Private Prince
 
+![private-prince](https://cdn.myanimelist.net/images/manga/2/5860.jpg)
+
 -   **type**: manga
 
 ## Tags

@@ -1,5 +1,7 @@
 # Ashitaba-san Chi no Mukogurashi
 
+![ashitaba-san-chi-no-mukogurashi](https://cdn.myanimelist.net/images/manga/1/182361.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 60

@@ -1,5 +1,7 @@
 # Fushigina Ano Ko wa Sutekina Kono Ko
 
+![fushigina-ano-ko-wa-sutekina-kono-ko](https://cdn.myanimelist.net/images/anime/3/72129.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 154
 -   **original-name**: ふしぎなあのこはすてきなこのこ

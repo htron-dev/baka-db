@@ -1,5 +1,7 @@
 # Kindaichi Shounen no Jikenbo: Shinigami Byouin Satsujin Jiken
 
+![kindaichi-shounen-no-jikenbo-shinigami-byouin-satsujin-jiken](https://cdn.myanimelist.net/images/anime/1256/92959.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 金田一少年の事件簿 SP「死神病院殺人事件」

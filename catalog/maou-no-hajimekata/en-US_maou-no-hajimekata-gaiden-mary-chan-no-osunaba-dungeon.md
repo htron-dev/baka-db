@@ -1,5 +1,7 @@
 # Maou no Hajimekata Gaiden: Mary-chan no Osunaba Dungeon
 
+![maou-no-hajimekata-gaiden-mary-chan-no-osunaba-dungeon](https://cdn.myanimelist.net/images/manga/3/248556.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔王の始め方外伝 マリーちゃんのおすなばダンジョン
 -   **start-date**: 2020-08-07

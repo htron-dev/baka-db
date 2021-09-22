@@ -1,5 +1,7 @@
 # Oh, My Romantic Kumiho
 
+![oh-my-romantic-kumiho](https://cdn.myanimelist.net/images/manga/4/161522.jpg)
+
 -   **type**: manhwa
 -   **original-name**: Oh, My 로맨틱 구미호
 

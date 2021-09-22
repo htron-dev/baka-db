@@ -1,5 +1,7 @@
 # Sekai wa Sonna ni Warukunai
 
+![sekai-wa-sonna-ni-warukunai](https://cdn.myanimelist.net/images/manga/2/238260.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

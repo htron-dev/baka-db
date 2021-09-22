@@ -1,5 +1,7 @@
 # Fushi no Kyuuketsuhime ga Do S no Goshujinsama wo Bosshuu Shiteiru you desu
 
+![fushi-no-kyuuketsuhime-ga-do-s-no-goshujinsama-wo-bosshuu-shiteiru-you-desu](https://cdn.myanimelist.net/images/manga/2/168641.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

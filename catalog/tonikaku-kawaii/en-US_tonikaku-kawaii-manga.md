@@ -1,5 +1,7 @@
 # Tonikaku Kawaii
 
+![tonikaku-kawaii](https://cdn.myanimelist.net/images/manga/3/209955.jpg)
+
 -   **type**: manga
 -   **original-name**: トニカクカワイイ
 -   **start-date**: 2018-02-14

@@ -1,5 +1,7 @@
 # A Tang Qi Yu
 
+![a-tang-qi-yu](https://cdn.myanimelist.net/images/anime/1810/112664.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 阿唐奇遇

@@ -1,5 +1,7 @@
 # Pet
 
+![pet](https://cdn.myanimelist.net/images/anime/1399/94794.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ペット
@@ -30,4 +32,4 @@ Gifted with this ability, Hiroki, Tsukasa, and Satoru are among those who use th
 -   [Official Site](http://pet-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13947)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20777)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Pet_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Pet_%28manga%29)

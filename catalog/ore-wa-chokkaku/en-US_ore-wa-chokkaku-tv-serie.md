@@ -1,5 +1,7 @@
 # Ore wa Chokkaku
 
+![ore-wa-chokkaku](https://cdn.myanimelist.net/images/anime/2/52911.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 36
 -   **original-name**: おれは直角

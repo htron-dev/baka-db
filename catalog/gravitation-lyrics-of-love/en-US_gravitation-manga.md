@@ -1,5 +1,7 @@
 # Gravitation
 
+![gravitation](https://cdn.myanimelist.net/images/manga/2/112343.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 54

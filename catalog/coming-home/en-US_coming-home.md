@@ -1,5 +1,7 @@
 # Coming Home
 
+![coming-home](https://cdn.myanimelist.net/images/manga/2/11995.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 15

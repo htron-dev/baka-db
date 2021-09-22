@@ -1,5 +1,7 @@
 # Saiyuuki Ibun
 
+![saiyuuki-ibun](https://cdn.myanimelist.net/images/manga/2/170158.jpg)
+
 -   **type**: manga
 -   **original-name**: 最遊記異聞
 -   **start-date**: 2009-09-16

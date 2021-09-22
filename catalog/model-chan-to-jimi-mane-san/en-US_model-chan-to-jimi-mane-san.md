@@ -1,5 +1,7 @@
 # Model-chan to Jimi Mane-san
 
+![model-chan-to-jimi-mane-san](https://cdn.myanimelist.net/images/manga/1/243239.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

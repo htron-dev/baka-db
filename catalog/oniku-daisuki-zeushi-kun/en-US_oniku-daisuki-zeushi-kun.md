@@ -1,5 +1,7 @@
 # Oniku Daisuki! Zeushi-kun
 
+![oniku-daisuki-zeushi-kun](https://cdn.myanimelist.net/images/anime/4/58803.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: おにくだいすき! ゼウシくん

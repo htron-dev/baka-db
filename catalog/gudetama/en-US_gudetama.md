@@ -1,5 +1,7 @@
 # Gudetama
 
+![gudetama](https://cdn.myanimelist.net/images/anime/10/79996.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ぐでたま
 -   **start-date**: 2014-03-31

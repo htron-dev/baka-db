@@ -1,5 +1,7 @@
 # Dirty Pair Flash
 
+![dirty-pair-flash](https://cdn.myanimelist.net/images/anime/1405/91068.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: ダーティペア FLASH

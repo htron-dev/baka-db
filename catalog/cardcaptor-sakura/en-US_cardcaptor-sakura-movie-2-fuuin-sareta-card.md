@@ -1,5 +1,7 @@
 # Cardcaptor Sakura Movie 2: Fuuin Sareta Card
 
+![cardcaptor-sakura-movie-2-fuuin-sareta-card](https://cdn.myanimelist.net/images/anime/1652/90326.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 カードキャプターさくら 封印されたカード

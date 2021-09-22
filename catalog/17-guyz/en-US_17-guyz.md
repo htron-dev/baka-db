@@ -1,5 +1,7 @@
 # 17 Guyz
 
+![17-guyz](https://cdn.myanimelist.net/images/manga/3/27095.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

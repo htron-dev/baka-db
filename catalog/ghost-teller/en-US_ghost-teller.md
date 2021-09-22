@@ -1,5 +1,7 @@
 # Ghost Teller
 
+![ghost-teller](https://cdn.myanimelist.net/images/manga/3/237076.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 귀전구담
 -   **start-date**: 2017-04-02

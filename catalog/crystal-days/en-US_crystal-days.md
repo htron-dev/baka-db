@@ -1,5 +1,7 @@
 # Crystal Days
 
+![crystal-days](https://cdn.myanimelist.net/images/manga/3/202243.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

@@ -1,5 +1,7 @@
 # Devilman
 
+![devilman](https://cdn.myanimelist.net/images/manga/2/1431.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 53

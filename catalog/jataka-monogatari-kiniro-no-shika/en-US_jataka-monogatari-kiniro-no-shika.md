@@ -1,5 +1,7 @@
 # Jataka Monogatari: Kiniro no Shika
 
+![jataka-monogatari-kiniro-no-shika](https://cdn.myanimelist.net/images/anime/3/72005.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ジャータカ物語 きんいろのしか

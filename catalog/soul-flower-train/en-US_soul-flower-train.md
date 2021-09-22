@@ -1,5 +1,7 @@
 # Soul Flower Train
 
+![soul-flower-train](https://cdn.myanimelist.net/images/manga/1/126421.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ソウル・フラワー・トレイン

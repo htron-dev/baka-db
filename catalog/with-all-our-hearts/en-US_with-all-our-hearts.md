@@ -1,5 +1,7 @@
 # With All Our Hearts
 
+![with-all-our-hearts](https://cdn.myanimelist.net/images/anime/1680/113828.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: With All Our Hearts

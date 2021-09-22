@@ -1,5 +1,7 @@
 # 12-gatsu no Uta
 
+![12-gatsu-no-uta](https://cdn.myanimelist.net/images/anime/6/70691.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 12 月のうた

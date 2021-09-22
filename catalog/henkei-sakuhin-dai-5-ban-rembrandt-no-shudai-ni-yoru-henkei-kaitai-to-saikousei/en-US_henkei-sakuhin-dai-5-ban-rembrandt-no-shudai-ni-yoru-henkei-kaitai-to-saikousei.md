@@ -1,5 +1,7 @@
 # Henkei Sakuhin Dai 5-ban: Rembrandt no Shudai ni yoru Henkei Kaitai to Saikousei
 
+![henkei-sakuhin-dai-5-ban-rembrandt-no-shudai-ni-yoru-henkei-kaitai-to-saikousei](https://cdn.myanimelist.net/images/anime/1131/109759.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 変形作品第５番＜レンブラントの主題による変形解体と再構成＞

@@ -1,5 +1,7 @@
 # Diabolik Lovers: Sequel
 
+![diabolik-lovers-sequel](https://cdn.myanimelist.net/images/manga/2/154933.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 6

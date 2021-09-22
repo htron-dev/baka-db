@@ -1,5 +1,7 @@
 # Kamisama no Tsukurikata
 
+![kamisama-no-tsukurikata](https://cdn.myanimelist.net/images/manga/1/118873.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 82

@@ -1,5 +1,7 @@
 # Yume ga Kanau Juunigatsu
 
+![yume-ga-kanau-juunigatsu](https://cdn.myanimelist.net/images/manga/5/184203.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

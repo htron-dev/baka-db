@@ -1,5 +1,7 @@
 # Eromanga-sensei
 
+![eromanga-sensei](https://cdn.myanimelist.net/images/manga/2/184183.jpg)
+
 -   **type**: light-novel
 -   **original-name**: エロマンガ先生
 -   **start-date**: 2013-12-10

@@ -1,5 +1,7 @@
 # Ginga Patrol Jaco
 
+![ginga-patrol-jaco](https://cdn.myanimelist.net/images/manga/3/120565.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

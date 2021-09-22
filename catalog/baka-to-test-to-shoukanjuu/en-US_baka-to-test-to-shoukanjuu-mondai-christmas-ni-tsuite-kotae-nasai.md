@@ -1,5 +1,7 @@
 # Baka to Test to Shoukanjuu: Mondai - Christmas ni Tsuite Kotae Nasai
 
+![baka-to-test-to-shoukanjuu-mondai-christmas-ni-tsuite-kotae-nasai](https://cdn.myanimelist.net/images/anime/9/67301.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: バカとテストと召喚獣 問題 クリスマスについて答えなさい

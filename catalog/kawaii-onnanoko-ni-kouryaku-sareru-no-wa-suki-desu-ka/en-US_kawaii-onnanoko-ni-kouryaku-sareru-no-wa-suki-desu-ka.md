@@ -1,5 +1,7 @@
 # Kawaii Onnanoko ni Kouryaku sareru no wa Suki desu ka?
 
+![kawaii-onnanoko-ni-kouryaku-sareru-no-wa-suki-desu-ka](https://cdn.myanimelist.net/images/manga/2/235456.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 31

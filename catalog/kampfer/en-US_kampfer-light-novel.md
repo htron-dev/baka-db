@@ -1,5 +1,7 @@
 # Kämpfer
 
+![kampfer](https://cdn.myanimelist.net/images/manga/4/24139.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 15
 -   **chapters**: 64

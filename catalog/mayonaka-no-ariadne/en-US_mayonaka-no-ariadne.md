@@ -1,5 +1,7 @@
 # Mayonaka no Ariadne
 
+![mayonaka-no-ariadne](https://cdn.myanimelist.net/images/manga/2/89855.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 15

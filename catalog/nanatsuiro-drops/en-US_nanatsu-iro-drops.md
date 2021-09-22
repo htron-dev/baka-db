@@ -1,5 +1,7 @@
 # Nanatsu-iro★Drops
 
+![nanatsu-iro★-drops](https://cdn.myanimelist.net/images/anime/12/18007.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ななついろ ★ ドロップス

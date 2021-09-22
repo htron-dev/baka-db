@@ -1,5 +1,7 @@
 # High School Musical
 
+![high-school-musical](https://cdn.myanimelist.net/images/manga/5/215358.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ハイスクール・ミュージカル

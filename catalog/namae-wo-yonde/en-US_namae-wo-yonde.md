@@ -1,5 +1,7 @@
 # Namae wo Yonde
 
+![namae-wo-yonde](https://cdn.myanimelist.net/images/manga/3/79269.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

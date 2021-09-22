@@ -1,5 +1,7 @@
 # Peeping Life x Kids Station
 
+![peeping-life-x-kids-station](https://cdn.myanimelist.net/images/anime/5/77236.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 「Peeping Life」×「キッズステーション」

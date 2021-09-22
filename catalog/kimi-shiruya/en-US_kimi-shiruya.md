@@ -1,5 +1,7 @@
 # Kimi Shiruya
 
+![kimi-shiruya](https://cdn.myanimelist.net/images/manga/1/98011.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

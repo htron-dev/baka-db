@@ -1,5 +1,7 @@
 # Otona wo Komaraseru n ja Arimasen!
 
+![otona-wo-komaraseru-n-ja-arimasen](https://cdn.myanimelist.net/images/manga/1/246418.jpg)
+
 -   **type**: manga
 -   **original-name**: オトナを困らせるんじゃありません!
 -   **start-date**: 2020-04-28

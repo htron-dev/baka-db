@@ -1,5 +1,7 @@
 # Kanojo, Hitomishirimasu
 
+![kanojo-hitomishirimasu](https://cdn.myanimelist.net/images/manga/3/235003.jpg)
+
 -   **type**: manga
 -   **original-name**: 彼女、人見知ります
 -   **start-date**: 2020-06-21

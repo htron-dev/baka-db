@@ -1,5 +1,7 @@
 # Idomo
 
+![idomo](https://cdn.myanimelist.net/images/anime/1059/102541.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: イドも

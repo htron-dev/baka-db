@@ -1,5 +1,7 @@
 # Salaryman Kintarou
 
+![salaryman-kintarou](https://cdn.myanimelist.net/images/anime/8/62593.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 20
 -   **original-name**: サラリーマン金太郎

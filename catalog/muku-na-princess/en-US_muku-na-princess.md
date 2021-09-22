@@ -1,5 +1,7 @@
 # Muku na Princess
 
+![muku-na-princess](https://cdn.myanimelist.net/images/manga/1/72645.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 無垢なプリンセス

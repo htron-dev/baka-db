@@ -1,5 +1,7 @@
 # Nanahara Nanase no Soshage Kouza
 
+![nanahara-nanase-no-soshage-kouza](https://cdn.myanimelist.net/images/manga/2/126383.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 奈々原七瀬のソシャゲー講座

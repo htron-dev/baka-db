@@ -1,5 +1,7 @@
 # Kimi to Tokei to Uso no Tou
 
+![kimi-to-tokei-to-uso-no-tou](https://cdn.myanimelist.net/images/manga/1/202314.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

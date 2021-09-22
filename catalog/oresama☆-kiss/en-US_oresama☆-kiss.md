@@ -1,5 +1,7 @@
 # Oresama☆Kiss
 
+![oresama☆-kiss](https://cdn.myanimelist.net/images/manga/2/65939.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

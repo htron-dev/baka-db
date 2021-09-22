@@ -1,9 +1,10 @@
 # In Search of Axis
 
+![in-search-of-axis](https://cdn.myanimelist.net/images/anime/1409/95844.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: In Search of Axis
-
 -   **rating**: G - All Ages
 
 ## Tags

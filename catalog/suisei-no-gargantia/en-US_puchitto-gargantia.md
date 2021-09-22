@@ -1,5 +1,7 @@
 # Puchitto Gargantia
 
+![puchitto-gargantia](https://cdn.myanimelist.net/images/anime/7/49979.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: ぷちっとがるがんてぃあ

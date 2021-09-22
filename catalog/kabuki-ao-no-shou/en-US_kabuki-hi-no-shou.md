@@ -1,5 +1,7 @@
 # Kabuki - Hi no Shou
 
+![kabuki-hi-no-shou](https://cdn.myanimelist.net/images/manga/1/14607.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: カブキ～緋の章～

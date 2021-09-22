@@ -1,5 +1,7 @@
 # Rakuda Tsukai to Ouji no Yoru
 
+![rakuda-tsukai-to-ouji-no-yoru](https://cdn.myanimelist.net/images/manga/2/118467.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

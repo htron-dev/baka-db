@@ -1,5 +1,7 @@
 # Mujirushi
 
+![mujirushi](https://cdn.myanimelist.net/images/manga/2/210713.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

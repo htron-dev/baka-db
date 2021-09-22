@@ -1,5 +1,7 @@
 # God Eater Reso Nantoka Gekijou: Episode EX
 
+![god-eater-reso-nantoka-gekijou-episode-ex](https://cdn.myanimelist.net/images/anime/1644/95139.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: GOD EATER レゾなんとか劇場 #EX

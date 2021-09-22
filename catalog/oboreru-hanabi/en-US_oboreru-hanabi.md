@@ -1,5 +1,7 @@
 # Oboreru Hanabi
 
+![oboreru-hanabi](https://cdn.myanimelist.net/images/manga/2/162336.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

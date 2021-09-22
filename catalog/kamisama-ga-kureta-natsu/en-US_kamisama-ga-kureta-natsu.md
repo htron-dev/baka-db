@@ -1,5 +1,7 @@
 # Kamisama ga Kureta Natsu
 
+![kamisama-ga-kureta-natsu](https://cdn.myanimelist.net/images/manga/1/44117.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Cutie Honey: Tennyo Densetsu
 
+![cutie-honey-tennyo-densetsu](https://cdn.myanimelist.net/images/manga/2/194914.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 95

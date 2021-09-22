@@ -1,9 +1,10 @@
 # Ni Hao! Bu Bu
 
+![ni-hao-bu-bu](https://cdn.myanimelist.net/images/anime/1412/115232.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 你好！卟卟
-
 -   **rating**: PG - Children
 
 ## Tags

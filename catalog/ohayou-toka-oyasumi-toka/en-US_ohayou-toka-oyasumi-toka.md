@@ -1,5 +1,7 @@
 # Ohayou toka Oyasumi toka
 
+![ohayou-toka-oyasumi-toka](https://cdn.myanimelist.net/images/manga/1/195411.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

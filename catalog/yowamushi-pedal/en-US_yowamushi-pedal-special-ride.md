@@ -1,5 +1,7 @@
 # Yowamushi Pedal: Special Ride
 
+![yowamushi-pedal-special-ride](https://cdn.myanimelist.net/images/anime/13/53213.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 弱虫ペダル SPECIAL RIDE

@@ -1,5 +1,7 @@
 # Mimei no Girl
 
+![mimei-no-girl](https://cdn.myanimelist.net/images/manga/3/125591.jpg)
+
 -   **type**: manga
 -   **chapters**: 1
 -   **original-name**: 未明の Girl

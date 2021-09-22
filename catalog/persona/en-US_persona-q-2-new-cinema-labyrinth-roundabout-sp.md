@@ -1,5 +1,7 @@
 # Persona Q2: New Cinema Labyrinth - Roundabout SP
 
+![persona-q-2-new-cinema-labyrinth-roundabout-sp](https://cdn.myanimelist.net/images/manga/1/244360.jpg)
+
 -   **type**: manga
 -   **chapters**: 8
 -   **original-name**: ペルソナ Q2 ニュー シネマ ラビリンス Roundabout SP

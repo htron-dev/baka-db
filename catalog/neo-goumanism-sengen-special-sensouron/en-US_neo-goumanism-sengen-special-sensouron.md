@@ -1,5 +1,7 @@
 # Neo Goumanism Sengen Special Sensouron
 
+![neo-goumanism-sengen-special-sensouron](https://cdn.myanimelist.net/images/manga/2/17009.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 新ゴーマニズム宣言 Special 　戦争論

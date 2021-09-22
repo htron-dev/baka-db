@@ -1,5 +1,7 @@
 # Meiji Hiiro Kitan
 
+![meiji-hiiro-kitan](https://cdn.myanimelist.net/images/manga/2/127765.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 64

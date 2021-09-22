@@ -1,5 +1,7 @@
 # Kajou na Chouai: Wakaki Outaishi Denka no Oresama na Proposal
 
+![kajou-na-chouai-wakaki-outaishi-denka-no-oresama-na-proposal](https://cdn.myanimelist.net/images/manga/3/182872.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

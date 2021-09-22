@@ -1,5 +1,7 @@
 # Osumoji!: Tsukasa no Ikkan
 
+![osumoji-tsukasa-no-ikkan](https://cdn.myanimelist.net/images/manga/3/144267.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 96

@@ -1,5 +1,7 @@
 # Mikohime wa Ryuu ni Oboreru: Himesareta Koutei wa Hana wo Idaku
 
+![mikohime-wa-ryuu-ni-oboreru-himesareta-koutei-wa-hana-wo-idaku](https://cdn.myanimelist.net/images/manga/1/152805.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 巫女姫は龍に溺れる 秘された皇帝は華を抱く

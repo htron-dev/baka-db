@@ -1,5 +1,7 @@
 # Ninkuu: Knife no Bohyou
 
+![ninkuu-knife-no-bohyou](https://cdn.myanimelist.net/images/anime/10/44468.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: NINKŪ－忍空－「ナイフの墓標」

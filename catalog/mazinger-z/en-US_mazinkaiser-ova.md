@@ -1,5 +1,7 @@
 # Mazinkaiser
 
+![mazinkaiser](https://cdn.myanimelist.net/images/anime/1041/106091.jpg)
+
 -   **type**: ova
 -   **episodes**: 7
 -   **original-name**: マジンカイザー

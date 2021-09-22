@@ -1,5 +1,7 @@
 # Planetarian: Hoshi no Hito
 
+![planetarian-hoshi-no-hito](https://cdn.myanimelist.net/images/anime/10/79771.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: planetarian ～星の人～

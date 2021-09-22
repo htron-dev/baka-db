@@ -1,5 +1,7 @@
 # Flower Festival
 
+![flower-festival](https://cdn.myanimelist.net/images/manga/2/28760.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **start-date**: 1988-07-19

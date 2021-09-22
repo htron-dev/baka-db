@@ -1,5 +1,7 @@
 # Shihaiai: Hisho to Shujin no Ibitsu na Kankei
 
+![shihaiai-hisho-to-shujin-no-ibitsu-na-kankei](https://cdn.myanimelist.net/images/manga/1/194789.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 支配愛～秘書と主人の歪な関係～

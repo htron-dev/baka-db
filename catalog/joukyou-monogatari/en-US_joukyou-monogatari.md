@@ -1,5 +1,7 @@
 # Joukyou Monogatari
 
+![joukyou-monogatari](https://cdn.myanimelist.net/images/anime/12/72757.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 上京物語

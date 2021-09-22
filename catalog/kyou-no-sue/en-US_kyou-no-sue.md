@@ -1,5 +1,7 @@
 # Kyou no Sue
 
+![kyou-no-sue](https://cdn.myanimelist.net/images/manga/3/174529.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 90

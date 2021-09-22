@@ -1,5 +1,7 @@
 # Touko-san wa Kaji ga Dekinai.
 
+![touko-san-wa-kaji-ga-dekinai](https://cdn.myanimelist.net/images/manga/1/243488.jpg)
+
 -   **type**: manga
 -   **original-name**: 塔子さんは家事ができない。
 -   **start-date**: 2019-06-18

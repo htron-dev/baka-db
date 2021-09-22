@@ -1,5 +1,7 @@
 # Shadow Skill
 
+![shadow-skill](https://cdn.myanimelist.net/images/manga/2/117535.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

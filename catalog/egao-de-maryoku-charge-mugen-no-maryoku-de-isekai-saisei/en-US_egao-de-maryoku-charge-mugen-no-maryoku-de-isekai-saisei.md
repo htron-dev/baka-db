@@ -1,5 +1,7 @@
 # Egao de Maryoku Charge: Mugen no Maryoku de Isekai Saisei
 
+![egao-de-maryoku-charge-mugen-no-maryoku-de-isekai-saisei](https://cdn.myanimelist.net/images/manga/1/212619.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 105

@@ -1,5 +1,7 @@
 # Gokujou de Bukiyou na Service
 
+![gokujou-de-bukiyou-na-service](https://cdn.myanimelist.net/images/manga/2/42555.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

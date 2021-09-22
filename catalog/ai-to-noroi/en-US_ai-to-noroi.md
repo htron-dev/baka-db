@@ -1,5 +1,7 @@
 # Ai to Noroi
 
+![ai-to-noroi](https://cdn.myanimelist.net/images/manga/2/225165.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

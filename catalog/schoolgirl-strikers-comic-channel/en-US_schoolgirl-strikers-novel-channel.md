@@ -1,5 +1,7 @@
 # Schoolgirl Strikers: Novel Channel
 
+![schoolgirl-strikers-novel-channel](https://cdn.myanimelist.net/images/manga/3/160954.jpg)
+
 -   **type**: light-novel
 -   **original-name**: スクールガールストライカーズ Novel Channel
 -   **start-date**: 2015-03-20

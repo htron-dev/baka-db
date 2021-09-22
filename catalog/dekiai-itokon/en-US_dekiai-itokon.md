@@ -1,5 +1,7 @@
 # Dekiai Itokon!
 
+![dekiai-itokon](https://cdn.myanimelist.net/images/manga/1/200431.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

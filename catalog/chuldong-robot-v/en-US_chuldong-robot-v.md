@@ -1,5 +1,7 @@
 # Chuldong! Robot V
 
+![chuldong-robot-v](https://cdn.myanimelist.net/images/anime/1542/114499.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 출동! 로봇 V
@@ -10,7 +12,6 @@
 
 -   action
 -   sci-fi
-
 -   mecha
 
 ## Sinopse

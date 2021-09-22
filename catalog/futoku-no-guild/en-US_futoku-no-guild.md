@@ -1,5 +1,7 @@
 # Futoku no Guild
 
+![futoku-no-guild](https://cdn.myanimelist.net/images/manga/1/207955.jpg)
+
 -   **type**: manga
 -   **original-name**: 不徳のギルド
 -   **start-date**: 2017-06-12

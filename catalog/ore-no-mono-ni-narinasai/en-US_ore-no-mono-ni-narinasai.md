@@ -1,5 +1,7 @@
 # Ore no Mono ni Narinasai.
 
+![ore-no-mono-ni-narinasai](https://cdn.myanimelist.net/images/manga/2/72657.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

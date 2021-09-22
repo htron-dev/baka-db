@@ -1,5 +1,7 @@
 # Mobile Suit Gundam 00 in those days
 
+![mobile-suit-gundam-00-in-those-days](https://cdn.myanimelist.net/images/manga/3/35568.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

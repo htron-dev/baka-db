@@ -1,5 +1,7 @@
 # Persona 3 the Movie 4: Winter of Rebirth
 
+![persona-3-the-movie-4-winter-of-rebirth](https://cdn.myanimelist.net/images/anime/9/77828.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: PERSONA3 THE MOVIE —#4 Winter of Rebirth—

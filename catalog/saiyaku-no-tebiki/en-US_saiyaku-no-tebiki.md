@@ -1,5 +1,7 @@
 # Saiyaku no Tebiki
 
+![saiyaku-no-tebiki](https://cdn.myanimelist.net/images/manga/1/35267.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Death Note
 
+![death-note](https://cdn.myanimelist.net/images/anime/9/9453.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 37
 -   **original-name**: デスノート

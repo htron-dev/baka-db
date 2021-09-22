@@ -1,5 +1,7 @@
 # Pale Rider
 
+![pale-rider](https://cdn.myanimelist.net/images/manga/2/172026.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

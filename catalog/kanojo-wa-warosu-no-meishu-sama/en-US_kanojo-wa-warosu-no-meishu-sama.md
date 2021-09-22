@@ -1,5 +1,7 @@
 # Kanojo wa Warosu no Meishu-sama
 
+![kanojo-wa-warosu-no-meishu-sama](https://cdn.myanimelist.net/images/manga/1/164830.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 彼女はワロスの盟主さま

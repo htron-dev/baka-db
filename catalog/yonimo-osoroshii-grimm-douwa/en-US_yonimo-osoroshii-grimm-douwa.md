@@ -1,5 +1,7 @@
 # Yonimo Osoroshii Grimm Douwa
 
+![yonimo-osoroshii-grimm-douwa](https://cdn.myanimelist.net/images/anime/4/27232.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 世にも恐ろしいグリム童話

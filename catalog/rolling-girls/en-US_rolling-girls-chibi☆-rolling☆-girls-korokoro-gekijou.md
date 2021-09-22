@@ -1,5 +1,7 @@
 # Rolling☆Girls: Chibi☆Rolling☆Girls Korokoro Gekijou
 
+![rolling☆-girls-chibi☆-rolling☆-girls-korokoro-gekijou](https://cdn.myanimelist.net/images/anime/8/73386.jpg)
+
 -   **type**: special
 -   **episodes**: 12
 -   **original-name**: TV アニメ｢ちび ☆ ローリング ☆ ガールズ｣コロコロ劇場

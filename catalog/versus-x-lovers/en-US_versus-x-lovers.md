@@ -1,5 +1,7 @@
 # Versus x Lovers
 
+![versus-x-lovers](https://cdn.myanimelist.net/images/manga/3/35873.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

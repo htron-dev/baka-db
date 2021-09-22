@@ -1,5 +1,7 @@
 # Girls & Panzer: Pravda Senki
 
+![girls-panzer-pravda-senki](https://cdn.myanimelist.net/images/manga/3/236121.jpg)
+
 -   **type**: manga
 -   **original-name**: ガールズ&パンツァー プラウダ戦記
 -   **start-date**: 2018-07-19

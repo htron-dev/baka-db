@@ -1,5 +1,7 @@
 # Blood: The Last Vampire (2002)
 
+![blood-the-last-vampire-2002](https://cdn.myanimelist.net/images/manga/3/12321.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

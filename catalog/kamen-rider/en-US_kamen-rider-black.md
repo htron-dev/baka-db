@@ -1,5 +1,7 @@
 # Kamen Rider Black
 
+![kamen-rider-black](https://cdn.myanimelist.net/images/manga/1/185784.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 23

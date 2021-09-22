@@ -1,5 +1,7 @@
 # Bed no Ue no Tengoku
 
+![bed-no-ue-no-tengoku](https://cdn.myanimelist.net/images/manga/3/82056.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

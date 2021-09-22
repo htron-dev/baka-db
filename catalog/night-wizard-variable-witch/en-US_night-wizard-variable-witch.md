@@ -1,5 +1,7 @@
 # Night Wizard Variable Witch
 
+![night-wizard-variable-witch](https://cdn.myanimelist.net/images/manga/2/34718.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ナイトウィザード ヴァリアブルウィッチ

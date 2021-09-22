@@ -1,5 +1,7 @@
 # Shinseiki Duel Masters Flash
 
+![shinseiki-duel-masters-flash](https://cdn.myanimelist.net/images/anime/1512/105202.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 新星輝デュエル・マスターズ フラッシュ

@@ -1,5 +1,7 @@
 # Tonari no Nanige-san
 
+![tonari-no-nanige-san](https://cdn.myanimelist.net/images/manga/3/142305.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 75

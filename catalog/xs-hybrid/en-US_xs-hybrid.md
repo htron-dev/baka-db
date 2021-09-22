@@ -1,5 +1,7 @@
 # XS Hybrid
 
+![xs-hybrid](https://cdn.myanimelist.net/images/manga/3/1517.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 35

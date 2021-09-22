@@ -1,5 +1,7 @@
 # Sakura Quest Gaiden: Oribe Ririko no Gyoumu Nippou
 
+![sakura-quest-gaiden-oribe-ririko-no-gyoumu-nippou](https://cdn.myanimelist.net/images/manga/3/198851.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

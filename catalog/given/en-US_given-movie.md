@@ -1,5 +1,7 @@
 # Given Movie
 
+![given-movie](https://cdn.myanimelist.net/images/anime/1648/111422.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ギヴン
@@ -31,4 +33,4 @@ As the competition draws near, Haruki uncharacteristically begins to doubt his p
 -   [Official Site](http://given-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15102)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23072)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Given_(manga)#Film>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Given_%28manga%29#Film)

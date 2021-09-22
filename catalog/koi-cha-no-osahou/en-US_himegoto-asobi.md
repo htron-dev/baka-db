@@ -1,5 +1,7 @@
 # Himegoto Asobi
 
+![himegoto-asobi](https://cdn.myanimelist.net/images/manga/1/70209.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

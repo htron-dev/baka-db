@@ -1,5 +1,7 @@
 # Koi to Utatane
 
+![koi-to-utatane](https://cdn.myanimelist.net/images/manga/1/201246.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

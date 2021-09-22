@@ -1,5 +1,7 @@
 # Eguchi Hisashi no Nantoka Narudesho!
 
+![eguchi-hisashi-no-nantoka-narudesho](https://cdn.myanimelist.net/images/anime/11/58919.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 江口寿史の NANTOKA NARUDESHO!

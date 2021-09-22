@@ -1,5 +1,7 @@
 # Kaitou wa Yami wo Kakeru
 
+![kaitou-wa-yami-wo-kakeru](https://cdn.myanimelist.net/images/manga/3/156304.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 怪盗は闇を駆ける

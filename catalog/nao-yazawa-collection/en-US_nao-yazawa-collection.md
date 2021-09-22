@@ -1,5 +1,7 @@
 # Nao Yazawa Collection
 
+![nao-yazawa-collection](https://cdn.myanimelist.net/images/manga/3/21220.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 9

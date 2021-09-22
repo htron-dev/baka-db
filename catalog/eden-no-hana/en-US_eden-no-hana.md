@@ -1,5 +1,7 @@
 # Eden no Hana
 
+![eden-no-hana](https://cdn.myanimelist.net/images/manga/3/40434.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 42

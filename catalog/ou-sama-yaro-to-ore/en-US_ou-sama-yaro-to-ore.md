@@ -1,5 +1,7 @@
 # Ou-sama Yaro to Ore
 
+![ou-sama-yaro-to-ore](https://cdn.myanimelist.net/images/manga/1/90767.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 王様ヤローとオレ

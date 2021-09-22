@@ -1,5 +1,7 @@
 # Helvetica
 
+![helvetica](https://cdn.myanimelist.net/images/manga/1/201892.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 39

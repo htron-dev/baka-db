@@ -1,5 +1,7 @@
 # Takatsukasake no Ninja
 
+![takatsukasake-no-ninja](https://cdn.myanimelist.net/images/manga/3/65865.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

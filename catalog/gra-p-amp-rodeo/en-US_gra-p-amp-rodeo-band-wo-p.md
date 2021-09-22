@@ -1,5 +1,7 @@
 # Gra-P &amp; Rodeo: Band wo P
 
+![gra-p-amp-rodeo-band-wo-p](https://cdn.myanimelist.net/images/anime/5/78722.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ぐらＰ＆ろで夫 Blu-ray 特別編 バンドを P

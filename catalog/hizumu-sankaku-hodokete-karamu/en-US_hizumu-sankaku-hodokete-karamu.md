@@ -1,5 +1,7 @@
 # Hizumu Sankaku, Hodokete Karamu
 
+![hizumu-sankaku-hodokete-karamu](https://cdn.myanimelist.net/images/manga/2/222346.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

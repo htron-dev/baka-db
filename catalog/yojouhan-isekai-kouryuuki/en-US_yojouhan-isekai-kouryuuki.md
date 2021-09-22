@@ -1,5 +1,7 @@
 # Yojouhan Isekai Kouryuuki
 
+![yojouhan-isekai-kouryuuki](https://cdn.myanimelist.net/images/manga/3/221527.jpg)
+
 -   **type**: manga
 -   **original-name**: 四畳半異世界交流記
 -   **start-date**: 2017-09-25

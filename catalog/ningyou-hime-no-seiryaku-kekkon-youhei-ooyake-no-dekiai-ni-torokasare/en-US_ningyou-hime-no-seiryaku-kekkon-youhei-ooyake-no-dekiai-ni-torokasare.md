@@ -1,5 +1,7 @@
 # Ningyou-hime no Seiryaku Kekkon: Youhei Ooyake no Dekiai ni Torokasare
 
+![ningyou-hime-no-seiryaku-kekkon-youhei-ooyake-no-dekiai-ni-torokasare](https://cdn.myanimelist.net/images/manga/3/194930.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Arakure
 
+![arakure](https://cdn.myanimelist.net/images/manga/3/175907.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 57

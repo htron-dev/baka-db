@@ -1,5 +1,7 @@
 # Mobile Suit Gundam SEED Destiny
 
+![mobile-suit-gundam-seed-destiny](https://cdn.myanimelist.net/images/manga/2/5264.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

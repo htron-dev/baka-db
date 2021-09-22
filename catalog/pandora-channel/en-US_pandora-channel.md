@@ -1,5 +1,7 @@
 # Pandora Channel
 
+![pandora-channel](https://cdn.myanimelist.net/images/manga/2/210088.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

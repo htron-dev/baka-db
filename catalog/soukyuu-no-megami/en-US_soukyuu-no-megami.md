@@ -1,5 +1,7 @@
 # Soukyuu no Megami
 
+![soukyuu-no-megami](https://cdn.myanimelist.net/images/manga/2/162317.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 10

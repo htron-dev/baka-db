@@ -1,5 +1,7 @@
 # Taisei Kensetsu: Bosporus Kaikyou Tunnel
 
+![taisei-kensetsu-bosporus-kaikyou-tunnel](https://cdn.myanimelist.net/images/anime/11/47427.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 大成建設テレビ CM「ボスポラス海峡トンネル」篇

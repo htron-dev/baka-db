@@ -1,5 +1,7 @@
 # Platonic Chain
 
+![platonic-chain](https://cdn.myanimelist.net/images/manga/3/168236.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 33

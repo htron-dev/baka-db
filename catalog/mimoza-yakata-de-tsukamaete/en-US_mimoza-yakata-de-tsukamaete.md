@@ -1,5 +1,7 @@
 # Mimoza Yakata de Tsukamaete
 
+![mimoza-yakata-de-tsukamaete](https://cdn.myanimelist.net/images/manga/2/18440.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ミモザ館でつかまえて

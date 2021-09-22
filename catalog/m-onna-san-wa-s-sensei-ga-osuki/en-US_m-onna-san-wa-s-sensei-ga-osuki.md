@@ -1,5 +1,7 @@
 # M Onna-san wa S Sensei ga Osuki
 
+![m-onna-san-wa-s-sensei-ga-osuki](https://cdn.myanimelist.net/images/manga/3/196335.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

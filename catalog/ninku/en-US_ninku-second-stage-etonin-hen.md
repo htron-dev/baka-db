@@ -1,5 +1,7 @@
 # Ninku: Second Stage - Etonin-hen
 
+![ninku-second-stage-etonin-hen](https://cdn.myanimelist.net/images/manga/1/189137.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 71

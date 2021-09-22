@@ -1,5 +1,7 @@
 # Blizzard Axel
 
+![blizzard-axel](https://cdn.myanimelist.net/images/manga/1/130983.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 108

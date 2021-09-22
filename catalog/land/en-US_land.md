@@ -1,5 +1,7 @@
 # Land
 
+![land](https://cdn.myanimelist.net/images/manga/2/157998.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 74

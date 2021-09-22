@@ -1,5 +1,7 @@
 # Special Order
 
+![special-order](https://cdn.myanimelist.net/images/manga/2/6297.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 感じるすぺしゃるオーダー

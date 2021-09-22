@@ -1,5 +1,7 @@
 # Masa ga Yuku
 
+![masa-ga-yuku](https://cdn.myanimelist.net/images/manga/2/176319.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 政がゆく

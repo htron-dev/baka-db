@@ -1,5 +1,7 @@
 # Captain Tsubasa: Road to 2002
 
+![captain-tsubasa-road-to-2002](https://cdn.myanimelist.net/images/anime/5/75526.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: キャプテン翼 (2001)

@@ -1,5 +1,7 @@
 # Giniro no Harmony
 
+![giniro-no-harmony](https://cdn.myanimelist.net/images/manga/1/189374.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 30

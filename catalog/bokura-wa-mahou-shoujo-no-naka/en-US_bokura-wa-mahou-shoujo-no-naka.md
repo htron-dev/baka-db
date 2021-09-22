@@ -1,5 +1,7 @@
 # Bokura wa Mahou Shoujo no Naka
 
+![bokura-wa-mahou-shoujo-no-naka](https://cdn.myanimelist.net/images/manga/3/178807.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Seijo to Ousama
 
+![seijo-to-ousama](https://cdn.myanimelist.net/images/manga/1/214996.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 14

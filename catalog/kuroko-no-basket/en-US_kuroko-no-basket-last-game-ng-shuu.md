@@ -1,5 +1,7 @@
 # Kuroko no Basket: Last Game NG-shuu
 
+![kuroko-no-basket-last-game-ng-shuu](https://cdn.myanimelist.net/images/anime/9/86001.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 黒子のバスケ LAST GAME NG 集

@@ -1,5 +1,7 @@
 # Gaccha Gacha
 
+![gaccha-gacha](https://cdn.myanimelist.net/images/manga/2/180609.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 41

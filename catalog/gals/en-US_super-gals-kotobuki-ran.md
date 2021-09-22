@@ -1,5 +1,7 @@
 # Super GALS! Kotobuki Ran
 
+![super-gals-kotobuki-ran](https://cdn.myanimelist.net/images/anime/2/25047.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 超 GALS! 寿蘭

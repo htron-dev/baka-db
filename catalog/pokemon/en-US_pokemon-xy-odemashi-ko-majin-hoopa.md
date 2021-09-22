@@ -1,5 +1,7 @@
 # Pokemon XY: Odemashi Ko Majin Hoopa
 
+![pokemon-xy-odemashi-ko-majin-hoopa](https://cdn.myanimelist.net/images/anime/1029/110957.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ポケモン・ザ・ムービー XY『おでまし小魔神フーパ』

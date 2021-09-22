@@ -1,5 +1,7 @@
 # Senki Zesshou Symphogear GX Anthology Comic: Manga de Zesshou Symphogear
 
+![senki-zesshou-symphogear-gx-anthology-comic-manga-de-zesshou-symphogear](https://cdn.myanimelist.net/images/manga/2/198710.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

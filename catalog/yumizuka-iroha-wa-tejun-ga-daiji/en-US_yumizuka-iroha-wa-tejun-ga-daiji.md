@@ -1,5 +1,7 @@
 # Yumizuka Iroha wa Tejun ga Daiji!
 
+![yumizuka-iroha-wa-tejun-ga-daiji](https://cdn.myanimelist.net/images/manga/1/202584.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 60

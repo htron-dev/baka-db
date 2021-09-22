@@ -1,5 +1,7 @@
 # Koisuru Asteroid: Furikaeri - KiraKira Special!
 
+![koisuru-asteroid-furikaeri-kira-kira-special](https://cdn.myanimelist.net/images/anime/1591/105957.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 恋する小惑星 6.5 話振り返り～ KiraKira 特別号！～

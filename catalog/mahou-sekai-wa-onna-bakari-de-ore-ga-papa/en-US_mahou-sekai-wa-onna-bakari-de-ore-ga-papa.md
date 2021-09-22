@@ -1,5 +1,7 @@
 # Mahou Sekai wa Onna Bakari de, Ore ga Papa!?
 
+![mahou-sekai-wa-onna-bakari-de-ore-ga-papa](https://cdn.myanimelist.net/images/manga/2/116849.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 魔法世界は女ばかりで、俺がパパ!?

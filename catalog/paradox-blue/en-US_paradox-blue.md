@@ -1,5 +1,7 @@
 # Paradox Blue
 
+![paradox-blue](https://cdn.myanimelist.net/images/manga/3/160512.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 27

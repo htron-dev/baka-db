@@ -1,5 +1,7 @@
 # Video J
 
+![video-j](https://cdn.myanimelist.net/images/manga/1/24785.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Boulange no Koibito
 
+![boulange-no-koibito](https://cdn.myanimelist.net/images/manga/1/82072.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Hachimitsu Ouji wa Shitsuji ni Madou
 
+![hachimitsu-ouji-wa-shitsuji-ni-madou](https://cdn.myanimelist.net/images/manga/3/86235.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Shibuyaku Maruyamachou
 
+![shibuyaku-maruyamachou](https://cdn.myanimelist.net/images/manga/2/7140.jpg)
+
 -   **type**: manga
 -   **original-name**: 渋谷区円山町
 

@@ -1,5 +1,7 @@
 # Chousoku Henkei Gyrozetter
 
+![chousoku-henkei-gyrozetter](https://cdn.myanimelist.net/images/anime/9/41937.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: 超速変形ジャイロゼッター

@@ -1,5 +1,7 @@
 # Boogiepop wa Warawanai
 
+![boogiepop-wa-warawanai](https://cdn.myanimelist.net/images/anime/1327/95777.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ブギーポップは笑わない Boogiepop Phantom

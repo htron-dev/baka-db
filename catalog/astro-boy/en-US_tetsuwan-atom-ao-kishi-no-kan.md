@@ -1,5 +1,7 @@
 # Tetsuwan Atom: Ao Kishi no Kan
 
+![tetsuwan-atom-ao-kishi-no-kan](https://cdn.myanimelist.net/images/anime/6/47841.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 鉄腕アトム ~青騎士の巻~

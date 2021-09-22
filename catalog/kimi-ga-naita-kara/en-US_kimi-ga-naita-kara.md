@@ -1,5 +1,7 @@
 # Kimi ga Naita kara
 
+![kimi-ga-naita-kara](https://cdn.myanimelist.net/images/manga/1/115583.jpg)
+
 -   **type**: manga
 -   **original-name**: きみが泣いたから
 -   **start-date**: 2012-07-19

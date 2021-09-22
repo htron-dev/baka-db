@@ -1,5 +1,7 @@
 # Minna Ai no Seine
 
+![minna-ai-no-seine](https://cdn.myanimelist.net/images/manga/3/18107.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Full Metal Panic! Movie 2: One Night Stand
 
+![full-metal-panic-movie-2-one-night-stand](https://cdn.myanimelist.net/images/anime/4/89498.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: フルメタル・パニック！ワン・ナイト・スタンド

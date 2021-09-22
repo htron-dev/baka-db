@@ -1,5 +1,7 @@
 # Para☆Labo
 
+![para☆-labo](https://cdn.myanimelist.net/images/manga/3/173157.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

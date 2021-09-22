@@ -1,5 +1,7 @@
 # Sprite Spiegel
 
+![sprite-spiegel](https://cdn.myanimelist.net/images/manga/1/158634.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 27

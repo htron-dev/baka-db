@@ -1,5 +1,7 @@
 # Yoroiden Samurai Troopers Kikoutei Densetsu
 
+![yoroiden-samurai-troopers-kikoutei-densetsu](https://cdn.myanimelist.net/images/anime/1504/92211.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 鎧伝サムライトルーパー輝煌帝伝説

@@ -1,5 +1,7 @@
 # Yasashii Pantsu no Nugasekata
 
+![yasashii-pantsu-no-nugasekata](https://cdn.myanimelist.net/images/manga/1/220777.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

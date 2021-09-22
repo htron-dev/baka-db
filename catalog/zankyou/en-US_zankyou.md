@@ -1,5 +1,7 @@
 # Zankyou
 
+![zankyou](https://cdn.myanimelist.net/images/manga/3/164688.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

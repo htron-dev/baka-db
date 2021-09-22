@@ -1,5 +1,7 @@
 # Yuu☆Yuu☆Hakusho: Eizou Hakusho - Opening Ending Encyclopedia
 
+![yuu☆-yuu☆-hakusho-eizou-hakusho-opening-ending-encyclopedia](https://cdn.myanimelist.net/images/anime/1254/109600.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **start-date**: 1995-10-20

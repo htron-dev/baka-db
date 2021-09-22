@@ -1,5 +1,7 @@
 # Tsurezurebiyori
 
+![tsurezurebiyori](https://cdn.myanimelist.net/images/manga/1/209018.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

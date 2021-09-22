@@ -1,5 +1,7 @@
 # Kami ka Akuma ka
 
+![kami-ka-akuma-ka](https://cdn.myanimelist.net/images/manga/1/40682.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

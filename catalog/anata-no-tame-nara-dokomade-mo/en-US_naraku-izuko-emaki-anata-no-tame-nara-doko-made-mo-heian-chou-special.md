@@ -1,5 +1,7 @@
 # Naraku Izuko Emaki - Anata no Tame Nara Doko Made mo - Heian-chou Special
 
+![naraku-izuko-emaki-anata-no-tame-nara-doko-made-mo-heian-chou-special](https://cdn.myanimelist.net/images/manga/1/109575.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

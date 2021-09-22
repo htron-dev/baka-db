@@ -1,5 +1,7 @@
 # Honey Comb
 
+![honey-comb](https://cdn.myanimelist.net/images/manga/1/63267.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 170

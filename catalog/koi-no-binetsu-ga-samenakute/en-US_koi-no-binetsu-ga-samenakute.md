@@ -1,5 +1,7 @@
 # Koi no Binetsu ga Samenakute
 
+![koi-no-binetsu-ga-samenakute](https://cdn.myanimelist.net/images/manga/1/67647.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

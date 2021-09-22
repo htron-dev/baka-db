@@ -1,5 +1,7 @@
 # Daiji na Koto nanode, Nido.
 
+![daiji-na-koto-nanode-nido](https://cdn.myanimelist.net/images/manga/3/154375.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

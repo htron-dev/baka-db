@@ -1,5 +1,7 @@
 # Honey Vanilla Latte Please!!
 
+![honey-vanilla-latte-please](https://cdn.myanimelist.net/images/manga/1/51965.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

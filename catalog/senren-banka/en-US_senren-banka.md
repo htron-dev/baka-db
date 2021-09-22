@@ -1,5 +1,7 @@
 # Senren\*Banka
 
+![senren-banka](https://cdn.myanimelist.net/images/manga/2/196558.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

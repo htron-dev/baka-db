@@ -1,5 +1,7 @@
 # Gekijouban Pocket Monster Diamond & Pearl: Genei no Hasha Zoroark
 
+![gekijouban-pocket-monster-diamond-pearl-genei-no-hasha-zoroark](https://cdn.myanimelist.net/images/manga/3/45591.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

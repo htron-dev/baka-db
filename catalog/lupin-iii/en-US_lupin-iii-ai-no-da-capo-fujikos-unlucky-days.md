@@ -1,5 +1,7 @@
 # Lupin III: Ai no Da Capo - Fujiko's Unlucky Days
 
+![lupin-iii-ai-no-da-capo-fujikos-unlucky-days](https://cdn.myanimelist.net/images/anime/9/6858.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ルパン三世『愛のダ・カーポ ～ Fujiko's Unlucky Days』

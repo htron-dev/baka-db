@@ -1,5 +1,7 @@
 # Seikenshi-sama no Maken-chan: Kodoku de Kenage na Maken no Nushi ni Natta node Zenryoku de Medeteikou to Omoimasu
 
+![seikenshi-sama-no-maken-chan-kodoku-de-kenage-na-maken-no-nushi-ni-natta-node-zenryoku-de-medeteikou-to-omoimasu](https://cdn.myanimelist.net/images/manga/2/244099.jpg)
+
 -   **type**: manga
 -   **original-name**: 聖剣士さまの魔剣ちゃん ～孤独で健気な魔剣の主になったので全力で愛でていこうと思います～
 -   **start-date**: 2020-10-23

@@ -1,5 +1,7 @@
 # Kodoku na Taka wa Hitokoishikute
 
+![kodoku-na-taka-wa-hitokoishikute](https://cdn.myanimelist.net/images/manga/1/174464.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

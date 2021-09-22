@@ -1,5 +1,7 @@
 # Youjo Senki
 
+![youjo-senki](https://cdn.myanimelist.net/images/manga/2/155214.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 幼女戦記
 -   **start-date**: 2013-10-31

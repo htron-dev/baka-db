@@ -1,5 +1,7 @@
 # Koi Kusabi: Yuushou no Netsuai ni Amaku Oborete
 
+![koi-kusabi-yuushou-no-netsuai-ni-amaku-oborete](https://cdn.myanimelist.net/images/manga/1/182919.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

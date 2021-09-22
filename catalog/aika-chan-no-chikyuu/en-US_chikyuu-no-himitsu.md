@@ -1,9 +1,10 @@
 # Chikyuu no Himitsu
 
+![chikyuu-no-himitsu](https://cdn.myanimelist.net/images/anime/1216/93502.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 地球の秘密
-
 -   **rating**: G - All Ages
 
 ## Tags

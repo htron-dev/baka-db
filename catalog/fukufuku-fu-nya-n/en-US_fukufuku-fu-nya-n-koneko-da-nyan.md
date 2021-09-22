@@ -1,5 +1,7 @@
 # Fukufuku Fu-nya~n: Koneko da Nyan
 
+![fukufuku-fu-nya-n-koneko-da-nyan](https://cdn.myanimelist.net/images/manga/2/144735.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 48

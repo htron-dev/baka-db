@@ -1,5 +1,7 @@
 # Koakumadomo ga Ore no Heya wo Tamariba ni Shiteiru
 
+![koakumadomo-ga-ore-no-heya-wo-tamariba-ni-shiteiru](https://cdn.myanimelist.net/images/manga/1/164197.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 小悪魔どもが俺の部屋を溜まり場にしている

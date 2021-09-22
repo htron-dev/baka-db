@@ -1,5 +1,7 @@
 # Tenshi ni Narumon!
 
+![tenshi-ni-narumon](https://cdn.myanimelist.net/images/anime/1671/94180.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 天使になるもんっ！

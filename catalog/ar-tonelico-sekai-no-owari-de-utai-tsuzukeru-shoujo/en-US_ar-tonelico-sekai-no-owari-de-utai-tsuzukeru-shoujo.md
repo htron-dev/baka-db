@@ -1,5 +1,7 @@
 # Ar Tonelico: Sekai no Owari de Utai Tsuzukeru Shoujo
 
+![ar-tonelico-sekai-no-owari-de-utai-tsuzukeru-shoujo](https://cdn.myanimelist.net/images/anime/4/19950.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アルトネリコ 世界の終わりで詩い続ける少女

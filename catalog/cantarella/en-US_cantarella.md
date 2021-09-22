@@ -1,5 +1,7 @@
 # Cantarella
 
+![cantarella](https://cdn.myanimelist.net/images/manga/3/207233.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 49

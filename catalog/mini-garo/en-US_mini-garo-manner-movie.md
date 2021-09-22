@@ -1,5 +1,7 @@
 # MiniGARO Manner Movie
 
+![mini-garo-manner-movie](https://cdn.myanimelist.net/images/anime/11/83548.jpg)
+
 -   **type**: movie
 -   **episodes**: 2
 -   **original-name**: miniGARO マナームービー

@@ -1,5 +1,7 @@
 # Gosick W
 
+![gosick-w](https://cdn.myanimelist.net/images/manga/1/80107.jpg)
+
 -   **type**: manga
 -   **chapters**: 12
 -   **original-name**: GOSICK W－ゴシック・ダブル－

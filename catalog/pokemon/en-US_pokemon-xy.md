@@ -1,5 +1,7 @@
 # Pokemon XY
 
+![pokemon-xy](https://cdn.myanimelist.net/images/anime/12/54549.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 93
 -   **original-name**: ポケットモンスター XY

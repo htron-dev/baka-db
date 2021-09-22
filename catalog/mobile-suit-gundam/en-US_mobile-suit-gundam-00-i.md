@@ -1,5 +1,7 @@
 # Mobile Suit Gundam 00I
 
+![mobile-suit-gundam-00-i](https://cdn.myanimelist.net/images/manga/1/33576.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

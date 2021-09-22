@@ -1,5 +1,7 @@
 # Toaru Majutsu no Index SS: Norse Mythology
 
+![toaru-majutsu-no-index-ss-norse-mythology](https://cdn.myanimelist.net/images/manga/3/55293.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

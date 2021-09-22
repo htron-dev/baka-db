@@ -1,5 +1,7 @@
 # Black Lagoon: Roberta's Blood Trail
 
+![black-lagoon-robertas-blood-trail](https://cdn.myanimelist.net/images/anime/8/75529.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: BLACK LAGOON Roberta's Blood Trail

@@ -1,5 +1,7 @@
 # Isekai kara no Kigyou Shinshutsu?!: Motoshachiku ga Isekai Tenshoku shite Nariagaru! Yuusha ga Kouryaku Dekinai Meikyuu wo Tsukuriagero
 
+![isekai-kara-no-kigyou-shinshutsu-motoshachiku-ga-isekai-tenshoku-shite-nariagaru-yuusha-ga-kouryaku-dekinai-meikyuu-wo-tsukuriagero](https://cdn.myanimelist.net/images/manga/3/238485.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界からの企業進出!? ～元社畜が異世界転職して成り上がる! 勇者が攻略できない迷宮を作り上げろ～
 -   **start-date**: 2019-08-06

@@ -1,5 +1,7 @@
 # Maidens Order
 
+![maidens-order](https://cdn.myanimelist.net/images/manga/3/181943.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

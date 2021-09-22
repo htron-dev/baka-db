@@ -1,5 +1,7 @@
 # Chiisana Koi no Monogatari
 
+![chiisana-koi-no-monogatari](https://cdn.myanimelist.net/images/manga/3/130379.jpg)
+
 -   **type**: manga
 -   **volumes**: 44
 -   **original-name**: 小さな恋のものがたり

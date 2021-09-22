@@ -1,9 +1,11 @@
 # Kindaichi Shounen no Ippaku Futsuka Shouryokou
 
+![kindaichi-shounen-no-ippaku-futsuka-shouryokou](https://cdn.myanimelist.net/images/manga/3/186920.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 34
--   **original-name**: 金田一少年の1泊2日小旅行
+-   **original-name**: 金田一少年の 1 泊 2 日小旅行
 -   **start-date**: 2014-04-23
 -   **end-date**: 2014-04-23
 

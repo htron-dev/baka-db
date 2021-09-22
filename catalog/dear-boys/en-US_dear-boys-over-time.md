@@ -1,5 +1,7 @@
 # Dear Boys: Over Time
 
+![dear-boys-over-time](https://cdn.myanimelist.net/images/manga/3/179415.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

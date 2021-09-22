@@ -1,5 +1,7 @@
 # Gyakusatsu Kikan
 
+![gyakusatsu-kikan](https://cdn.myanimelist.net/images/manga/1/174756.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

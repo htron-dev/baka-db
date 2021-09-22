@@ -1,5 +1,7 @@
 # Tokyo Yamanote Boys
 
+![tokyo-yamanote-boys](https://cdn.myanimelist.net/images/manga/3/71743.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

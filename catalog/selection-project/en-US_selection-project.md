@@ -1,5 +1,7 @@
 # Selection Project
 
+![selection-project](https://cdn.myanimelist.net/images/anime/1174/113554.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: SELECTION PROJECT
 -   **start-date**: 2021-10-20

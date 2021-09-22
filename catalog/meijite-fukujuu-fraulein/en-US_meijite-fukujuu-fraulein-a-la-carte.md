@@ -1,5 +1,7 @@
 # Meijite! Fukujuu Fräulein: à la carte
 
+![meijite-fukujuu-fraulein-a-la-carte](https://cdn.myanimelist.net/images/manga/3/163923.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Seikaku Do S but Seiteki ni Do M
 
+![seikaku-do-s-but-seiteki-ni-do-m](https://cdn.myanimelist.net/images/manga/2/29652.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 性格ド S BUT 性的にド M

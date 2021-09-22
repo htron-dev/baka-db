@@ -1,5 +1,7 @@
 # Musaigen no Phantom World: Limitless Phantom World
 
+![musaigen-no-phantom-world-limitless-phantom-world](https://cdn.myanimelist.net/images/anime/9/79855.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: 無彩限のファントム・ワールド Limitless Phantom World

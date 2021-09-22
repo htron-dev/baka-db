@@ -1,5 +1,7 @@
 # Di Gi Charat Theater: Dejiko's Summer Vacation
 
+![di-gi-charat-theater-dejikos-summer-vacation](https://cdn.myanimelist.net/images/manga/2/6291.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

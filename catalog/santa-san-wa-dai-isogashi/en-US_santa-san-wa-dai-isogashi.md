@@ -1,5 +1,7 @@
 # Santa-san wa Dai Isogashi
 
+![santa-san-wa-dai-isogashi](https://cdn.myanimelist.net/images/anime/13/82213.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: サンタさんは大いそがし

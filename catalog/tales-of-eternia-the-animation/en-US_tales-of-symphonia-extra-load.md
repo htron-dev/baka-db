@@ -1,5 +1,7 @@
 # Tales of Symphonia: Extra Load
 
+![tales-of-symphonia-extra-load](https://cdn.myanimelist.net/images/manga/1/10971.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Kimi no Iru Machi OVA
 
+![kimi-no-iru-machi-ova](https://cdn.myanimelist.net/images/anime/7/62537.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 君のいる町 OVA

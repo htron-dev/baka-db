@@ -1,5 +1,7 @@
 # Ore no Yome ni Kareshi wa Hairimasu ka?
 
+![ore-no-yome-ni-kareshi-wa-hairimasu-ka](https://cdn.myanimelist.net/images/manga/3/222465.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

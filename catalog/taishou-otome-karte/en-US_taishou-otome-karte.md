@@ -1,5 +1,7 @@
 # Taishou Otome Karte
 
+![taishou-otome-karte](https://cdn.myanimelist.net/images/manga/3/247094.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 大正乙女カルテ

@@ -1,5 +1,7 @@
 # 4 Cut Hero
 
+![4-cut-hero](https://cdn.myanimelist.net/images/manga/3/204866.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 4컷용사
 -   **start-date**: 2014-08-18

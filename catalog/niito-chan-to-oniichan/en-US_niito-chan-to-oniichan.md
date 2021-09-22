@@ -1,5 +1,7 @@
 # Niito-chan to Oniichan
 
+![niito-chan-to-oniichan](https://cdn.myanimelist.net/images/manga/1/205461.jpg)
+
 -   **type**: manga
 -   **original-name**: 新戸ちゃんとお兄ちゃん
 -   **start-date**: 2014-06-19

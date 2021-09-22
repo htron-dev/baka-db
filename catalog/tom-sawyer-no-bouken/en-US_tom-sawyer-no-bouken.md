@@ -1,5 +1,7 @@
 # Tom Sawyer no Bouken
 
+![tom-sawyer-no-bouken](https://cdn.myanimelist.net/images/manga/1/246658.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

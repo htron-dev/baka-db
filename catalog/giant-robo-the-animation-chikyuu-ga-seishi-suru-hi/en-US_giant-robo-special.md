@@ -1,5 +1,7 @@
 # Giant Robo
 
+![giant-robo](https://cdn.myanimelist.net/images/anime/13/83534.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ジャイアントロボ

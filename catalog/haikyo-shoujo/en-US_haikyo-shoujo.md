@@ -1,5 +1,7 @@
 # Haikyo Shoujo
 
+![haikyo-shoujo](https://cdn.myanimelist.net/images/manga/1/90813.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

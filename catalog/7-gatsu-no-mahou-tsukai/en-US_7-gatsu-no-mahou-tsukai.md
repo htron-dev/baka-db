@@ -1,5 +1,7 @@
 # 7-gatsu no Mahou Tsukai
 
+![7-gatsu-no-mahou-tsukai](https://cdn.myanimelist.net/images/manga/1/83426.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

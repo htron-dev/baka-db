@@ -1,5 +1,7 @@
 # Metallion
 
+![metallion](https://cdn.myanimelist.net/images/anime/1393/114529.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 104
 -   **original-name**: 메탈리온
@@ -11,7 +13,6 @@
 
 -   action
 -   sci-fi
-
 -   mecha
 
 ## Sinopse

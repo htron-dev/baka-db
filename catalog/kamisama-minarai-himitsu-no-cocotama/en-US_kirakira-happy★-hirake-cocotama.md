@@ -1,5 +1,7 @@
 # Kirakira Happy★Hirake! Cocotama
 
+![kirakira-happy★-hirake-cocotama](https://cdn.myanimelist.net/images/anime/1742/93170.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 55
 -   **original-name**: キラキラハッピー ★ ひらけ! ここたま
@@ -12,7 +14,6 @@
 ## Tags
 
 -   slice-of-life
-
 -   magic
 -   fantasy
 

@@ -1,5 +1,7 @@
 # Mizu no Iro Gin no Tsuki
 
+![mizu-no-iro-gin-no-tsuki](https://cdn.myanimelist.net/images/manga/2/156034.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

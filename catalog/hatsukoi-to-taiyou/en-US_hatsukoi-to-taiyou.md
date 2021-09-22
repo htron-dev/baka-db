@@ -1,5 +1,7 @@
 # Hatsukoi to Taiyou
 
+![hatsukoi-to-taiyou](https://cdn.myanimelist.net/images/manga/3/217864.jpg)
+
 -   **type**: manga
 -   **original-name**: ハツコイと太陽
 -   **start-date**: 2018-08-03

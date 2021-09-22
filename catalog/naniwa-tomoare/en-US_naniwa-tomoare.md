@@ -1,5 +1,7 @@
 # Naniwa Tomoare
 
+![naniwa-tomoare](https://cdn.myanimelist.net/images/manga/2/127223.jpg)
+
 -   **type**: manga
 -   **volumes**: 28
 -   **chapters**: 304

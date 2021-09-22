@@ -1,5 +1,7 @@
 # Dancing Colors
 
+![dancing-colors](https://cdn.myanimelist.net/images/manga/3/190567.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Watashi wa Kimi wo Nakasetai
 
+![watashi-wa-kimi-wo-nakasetai](https://cdn.myanimelist.net/images/manga/2/202225.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 43

@@ -1,5 +1,7 @@
 # Maou ga Yachin wo Haratte Kurenai (Man)
 
+![maou-ga-yachin-wo-haratte-kurenai-man](https://cdn.myanimelist.net/images/manga/1/98889.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

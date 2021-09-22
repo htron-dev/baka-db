@@ -1,5 +1,7 @@
 # Bihada Ichizoku
 
+![bihada-ichizoku](https://cdn.myanimelist.net/images/manga/1/17307.jpg)
+
 -   **type**: manga
 -   **original-name**: 美肌一族
 -   **start-date**: 2008-11-20

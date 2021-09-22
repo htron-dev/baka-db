@@ -1,5 +1,7 @@
 # Ore no Imouto ga Konnani Kawaii Wake ga Nai: SD Chara ni Yoru Character Commentary
 
+![ore-no-imouto-ga-konnani-kawaii-wake-ga-nai-sd-chara-ni-yoru-character-commentary](https://cdn.myanimelist.net/images/anime/8/28061.jpg)
+
 -   **type**: special
 -   **episodes**: 16
 -   **original-name**: 俺の妹がこんなに可愛いわけがない SD キャラによるキャラクターコメンタリー

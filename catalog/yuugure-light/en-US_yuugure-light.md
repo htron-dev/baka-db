@@ -1,5 +1,7 @@
 # Yuugure Light
 
+![yuugure-light](https://cdn.myanimelist.net/images/manga/2/166606.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 23

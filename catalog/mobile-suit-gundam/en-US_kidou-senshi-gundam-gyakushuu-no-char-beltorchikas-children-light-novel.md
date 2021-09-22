@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam: Gyakushuu no Char - Beltorchika's Children
 
+![kidou-senshi-gundam-gyakushuu-no-char-beltorchikas-children](https://cdn.myanimelist.net/images/manga/3/148119.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 14

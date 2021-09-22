@@ -1,5 +1,7 @@
 # Yong Zhe Da Mao Xian
 
+![yong-zhe-da-mao-xian](https://cdn.myanimelist.net/images/anime/11/81277.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: 勇者大冒险

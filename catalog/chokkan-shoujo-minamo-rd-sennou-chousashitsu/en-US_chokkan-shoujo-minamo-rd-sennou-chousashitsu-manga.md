@@ -1,5 +1,7 @@
 # Chokkan Shoujo☆Minamo: RD Sennou Chousashitsu
 
+![chokkan-shoujo☆-minamo-rd-sennou-chousashitsu](https://cdn.myanimelist.net/images/manga/3/40355.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 直感少女 ☆ ミナモ 〜RD 潜脳調査室〜

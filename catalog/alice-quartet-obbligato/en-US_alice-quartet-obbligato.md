@@ -1,5 +1,7 @@
 # Alice Quartet Obbligato
 
+![alice-quartet-obbligato](https://cdn.myanimelist.net/images/manga/1/14814.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

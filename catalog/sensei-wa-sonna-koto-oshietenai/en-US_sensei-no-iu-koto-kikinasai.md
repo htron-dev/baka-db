@@ -1,5 +1,7 @@
 # Sensei no Iu Koto Kikinasai!
 
+![sensei-no-iu-koto-kikinasai](https://cdn.myanimelist.net/images/manga/3/239310.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

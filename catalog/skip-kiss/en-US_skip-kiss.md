@@ -1,5 +1,7 @@
 # Skip-Kiss
 
+![skip-kiss](https://cdn.myanimelist.net/images/manga/3/6063.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

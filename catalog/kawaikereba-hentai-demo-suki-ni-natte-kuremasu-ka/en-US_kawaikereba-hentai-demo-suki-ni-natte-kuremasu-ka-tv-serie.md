@@ -1,5 +1,7 @@
 # Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?
 
+![kawaikereba-hentai-demo-suki-ni-natte-kuremasu-ka](https://cdn.myanimelist.net/images/anime/1430/102439.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 可愛ければ変態でも好きになってくれますか？

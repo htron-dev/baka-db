@@ -1,5 +1,7 @@
 # Ningen Series
 
+![ningen-series](https://cdn.myanimelist.net/images/manga/1/142861.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 54

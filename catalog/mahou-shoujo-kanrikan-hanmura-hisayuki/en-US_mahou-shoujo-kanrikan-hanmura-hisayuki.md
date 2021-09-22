@@ -1,5 +1,7 @@
 # Mahou Shoujo Kanrikan Hanmura Hisayuki
 
+![mahou-shoujo-kanrikan-hanmura-hisayuki](https://cdn.myanimelist.net/images/manga/1/128183.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

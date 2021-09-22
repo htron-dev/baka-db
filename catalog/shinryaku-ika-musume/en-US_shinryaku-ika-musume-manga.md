@@ -1,5 +1,7 @@
 # Shinryaku! Ika Musume
 
+![shinryaku-ika-musume](https://cdn.myanimelist.net/images/manga/2/53447.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 419

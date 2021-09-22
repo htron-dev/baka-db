@@ -1,5 +1,7 @@
 # Shiden Pilot
 
+![shiden-pilot](https://cdn.myanimelist.net/images/anime/11/63073.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: SHIDEN

@@ -1,5 +1,7 @@
 # Princess Ver.1
 
+![princess-ver-1](https://cdn.myanimelist.net/images/manga/3/210422.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

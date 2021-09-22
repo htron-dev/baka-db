@@ -1,5 +1,7 @@
 # Ojisan to Marshmallow: Hige-san to Yume Mashmallow
 
+![ojisan-to-marshmallow-hige-san-to-yume-mashmallow](https://cdn.myanimelist.net/images/anime/6/79780.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: おじさんとマシュマロ 13 個目 日下さんと夢マシュマロ

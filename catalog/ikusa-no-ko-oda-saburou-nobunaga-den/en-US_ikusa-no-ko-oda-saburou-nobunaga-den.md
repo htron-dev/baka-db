@@ -1,5 +1,7 @@
 # Ikusa no Ko: Oda Saburou Nobunaga Den
 
+![ikusa-no-ko-oda-saburou-nobunaga-den](https://cdn.myanimelist.net/images/manga/1/64169.jpg)
+
 -   **type**: manga
 -   **original-name**: いくさの子 織田三郎信長伝
 -   **start-date**: 2010-10-25

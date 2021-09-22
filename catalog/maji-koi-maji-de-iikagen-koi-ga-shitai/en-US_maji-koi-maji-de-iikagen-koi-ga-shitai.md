@@ -1,5 +1,7 @@
 # MajiKoi!: Maji de Iikagen Koi ga Shitai!
 
+![maji-koi-maji-de-iikagen-koi-ga-shitai](https://cdn.myanimelist.net/images/manga/1/177119.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

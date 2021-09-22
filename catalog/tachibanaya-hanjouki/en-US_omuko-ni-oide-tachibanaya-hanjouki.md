@@ -1,5 +1,7 @@
 # Omuko ni Oide: Tachibanaya Hanjouki
 
+![omuko-ni-oide-tachibanaya-hanjouki](https://cdn.myanimelist.net/images/manga/1/229642.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Renai Yakkyoku Kitan
 
+![renai-yakkyoku-kitan](https://cdn.myanimelist.net/images/manga/1/22700.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋愛薬局綺譚

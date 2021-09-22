@@ -1,5 +1,7 @@
 # Harukanaru Toki no Naka de 2: Shiroki Ryuu no Miko
 
+![harukanaru-toki-no-naka-de-2-shiroki-ryuu-no-miko](https://cdn.myanimelist.net/images/anime/4/72172.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 遙かなる時空の中で 2~白き龍の神子~

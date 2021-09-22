@@ -1,5 +1,7 @@
 # Back Arrow
 
+![back-arrow](https://cdn.myanimelist.net/images/anime/1373/111546.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: バック・アロウ

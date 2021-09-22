@@ -1,5 +1,7 @@
 # Chikyuu wo Mitsumete
 
+![chikyuu-wo-mitsumete](https://cdn.myanimelist.net/images/anime/12/73734.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ちきゅうをみつめて

@@ -1,5 +1,7 @@
 # Kedamono ni Amai Aisarete
 
+![kedamono-ni-amai-aisarete](https://cdn.myanimelist.net/images/manga/1/7498.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ケダモノに甘く愛されて

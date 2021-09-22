@@ -1,5 +1,7 @@
 # Obutsu wa Shoudoku desu
 
+![obutsu-wa-shoudoku-desu](https://cdn.myanimelist.net/images/manga/3/197719.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 83

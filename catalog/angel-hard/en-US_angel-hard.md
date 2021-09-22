@@ -1,5 +1,7 @@
 # Angel Hard
 
+![angel-hard](https://cdn.myanimelist.net/images/manga/2/13523.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: エンジェル・ハード

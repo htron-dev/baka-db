@@ -1,5 +1,7 @@
 # Mini Van Special
 
+![mini-van-special](https://cdn.myanimelist.net/images/anime/3/55439.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: みにヴぁん

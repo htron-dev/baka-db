@@ -1,5 +1,7 @@
 # Mahoutsukai no Reikoku
 
+![mahoutsukai-no-reikoku](https://cdn.myanimelist.net/images/manga/1/110067.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: 魔法使いの冷酷

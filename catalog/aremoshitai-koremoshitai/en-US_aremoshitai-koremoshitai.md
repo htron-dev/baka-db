@@ -1,5 +1,7 @@
 # Aremoshitai, Koremoshitai
 
+![aremoshitai-koremoshitai](https://cdn.myanimelist.net/images/manga/1/78091.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: あれもしたい、これもしたい

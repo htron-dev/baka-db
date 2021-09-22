@@ -1,5 +1,7 @@
 # Hello Kitty no Nemureru Mori no Bijo
 
+![hello-kitty-no-nemureru-mori-no-bijo](https://cdn.myanimelist.net/images/anime/6/47813.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティのねむれる森の美女

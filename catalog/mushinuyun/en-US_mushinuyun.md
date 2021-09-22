@@ -1,5 +1,7 @@
 # Mushinuyun
 
+![mushinuyun](https://cdn.myanimelist.net/images/manga/1/176252.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 53

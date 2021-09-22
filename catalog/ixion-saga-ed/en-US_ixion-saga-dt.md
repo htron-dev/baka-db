@@ -1,5 +1,7 @@
 # Ixion Saga DT
 
+![ixion-saga-dt](https://cdn.myanimelist.net/images/anime/8/42863.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: イクシオン サーガ DT

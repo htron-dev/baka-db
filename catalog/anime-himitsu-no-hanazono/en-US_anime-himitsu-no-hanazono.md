@@ -1,5 +1,7 @@
 # Anime Himitsu no Hanazono
 
+![anime-himitsu-no-hanazono](https://cdn.myanimelist.net/images/anime/8/69919.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: アニメ ひみつの花園

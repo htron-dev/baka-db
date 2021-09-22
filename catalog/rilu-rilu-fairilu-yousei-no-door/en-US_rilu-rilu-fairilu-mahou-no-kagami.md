@@ -1,5 +1,7 @@
 # Rilu Rilu Fairilu: Mahou no Kagami
 
+![rilu-rilu-fairilu-mahou-no-kagami](https://cdn.myanimelist.net/images/anime/13/84497.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: リルリルフェアリル ~魔法の鏡~

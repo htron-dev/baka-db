@@ -1,5 +1,7 @@
 # Nana no Literacy
 
+![nana-no-literacy](https://cdn.myanimelist.net/images/manga/1/176234.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

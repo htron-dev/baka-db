@@ -1,5 +1,7 @@
 # Arukasaru Oujou
 
+![arukasaru-oujou](https://cdn.myanimelist.net/images/manga/2/12652.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **original-name**: アルカサル-王城-

@@ -1,5 +1,7 @@
 # Fate/Extra CCC Opening Animation
 
+![fate-extra-ccc-opening-animation](https://cdn.myanimelist.net/images/anime/1617/107238.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 『フェイト／エクストラ CCC』オープニングアニメ

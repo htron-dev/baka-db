@@ -1,5 +1,7 @@
 # Hakudatsu no Masquerade
 
+![hakudatsu-no-masquerade](https://cdn.myanimelist.net/images/manga/2/92791.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 白奪のマスカレイド

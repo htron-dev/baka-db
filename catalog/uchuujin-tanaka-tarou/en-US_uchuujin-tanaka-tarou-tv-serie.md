@@ -1,5 +1,7 @@
 # Uchuujin Tanaka Tarou
 
+![uchuujin-tanaka-tarou](https://cdn.myanimelist.net/images/anime/11/3353.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: うちゅう人田中太郎
@@ -10,7 +12,6 @@
 ## Tags
 
 -   comedy
-
 -   school
 
 ## Sinopse

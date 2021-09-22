@@ -1,5 +1,7 @@
 # Arabian Romace: Bahania Oukoku-hen
 
+![arabian-romace-bahania-oukoku-hen](https://cdn.myanimelist.net/images/manga/3/231767.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: アラビアン・ロマンス バハニア王国編

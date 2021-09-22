@@ -1,5 +1,7 @@
 # Makamisama no Iutoori!
 
+![makamisama-no-iutoori](https://cdn.myanimelist.net/images/manga/3/48451.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 真神様の言うとおり!

@@ -1,5 +1,7 @@
 # Majo no Kaigashuu
 
+![majo-no-kaigashuu](https://cdn.myanimelist.net/images/manga/1/206840.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 32

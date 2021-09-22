@@ -1,5 +1,7 @@
 # Seifuku Aventure
 
+![seifuku-aventure](https://cdn.myanimelist.net/images/manga/3/187687.jpg)
+
 -   **type**: manga
 -   **chapters**: 31
 -   **original-name**: 制服あばんちゅーる

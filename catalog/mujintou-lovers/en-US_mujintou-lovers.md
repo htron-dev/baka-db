@@ -1,5 +1,7 @@
 # Mujintou Lovers
 
+![mujintou-lovers](https://cdn.myanimelist.net/images/manga/3/2488.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

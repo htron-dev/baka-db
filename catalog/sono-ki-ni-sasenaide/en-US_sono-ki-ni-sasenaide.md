@@ -1,5 +1,7 @@
 # Sono Ki ni Sasenaide
 
+![sono-ki-ni-sasenaide](https://cdn.myanimelist.net/images/manga/1/19588.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

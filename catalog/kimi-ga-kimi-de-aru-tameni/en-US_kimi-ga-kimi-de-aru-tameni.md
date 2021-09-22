@@ -1,5 +1,7 @@
 # Kimi ga Kimi de Aru Tameni
 
+![kimi-ga-kimi-de-aru-tameni](https://cdn.myanimelist.net/images/manga/5/61675.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

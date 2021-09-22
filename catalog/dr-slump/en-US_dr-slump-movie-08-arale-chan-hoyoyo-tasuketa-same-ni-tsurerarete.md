@@ -1,5 +1,7 @@
 # Dr. Slump Movie 08: Arale-chan Hoyoyo!! Tasuketa Same ni Tsurerarete...
 
+![dr-slump-movie-08-arale-chan-hoyoyo-tasuketa-same-ni-tsurerarete](https://cdn.myanimelist.net/images/anime/12/23176.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Dr.スランプ アラレちゃん ほよよ!!助けたサメに連れられて...

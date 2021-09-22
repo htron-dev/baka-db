@@ -1,5 +1,7 @@
 # Tales of the World: Radiant Mythology 3
 
+![tales-of-the-world-radiant-mythology-3](https://cdn.myanimelist.net/images/manga/2/228991.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 26

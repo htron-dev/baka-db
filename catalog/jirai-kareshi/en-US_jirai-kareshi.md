@@ -1,5 +1,7 @@
 # Jirai Kareshi
 
+![jirai-kareshi](https://cdn.myanimelist.net/images/manga/3/235083.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

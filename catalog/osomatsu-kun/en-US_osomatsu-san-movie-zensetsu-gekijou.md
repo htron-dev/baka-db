@@ -1,5 +1,7 @@
 # Osomatsu-san Movie: Zensetsu Gekijou
 
+![osomatsu-san-movie-zensetsu-gekijou](https://cdn.myanimelist.net/images/anime/1221/105385.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: えいがのおそ松さん　前説劇場

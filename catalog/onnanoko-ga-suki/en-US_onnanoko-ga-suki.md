@@ -1,5 +1,7 @@
 # Onnanoko ga Suki
 
+![onnanoko-ga-suki](https://cdn.myanimelist.net/images/manga/1/151484.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 女の子が好き

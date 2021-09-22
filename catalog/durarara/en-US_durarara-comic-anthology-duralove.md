@@ -1,5 +1,7 @@
 # Durarara!! Comic Anthology: Duralove!!
 
+![durarara-comic-anthology-duralove](https://cdn.myanimelist.net/images/manga/2/114993.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 34

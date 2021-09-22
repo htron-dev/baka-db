@@ -1,5 +1,7 @@
 # Saint Seiya: Saintia Shou
 
+![saint-seiya-saintia-shou](https://cdn.myanimelist.net/images/anime/1022/93948.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 聖闘士星矢 セインティア翔

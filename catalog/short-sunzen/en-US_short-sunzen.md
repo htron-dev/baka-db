@@ -1,5 +1,7 @@
 # Short Sunzen!
 
+![short-sunzen](https://cdn.myanimelist.net/images/manga/2/5324.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 20

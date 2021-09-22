@@ -1,5 +1,7 @@
 # Kaijin Youchien
 
+![kaijin-youchien](https://cdn.myanimelist.net/images/manga/1/227972.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 50

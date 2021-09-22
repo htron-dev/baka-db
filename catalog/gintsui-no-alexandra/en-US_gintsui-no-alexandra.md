@@ -1,5 +1,7 @@
 # Gintsui no Alexandra
 
+![gintsui-no-alexandra](https://cdn.myanimelist.net/images/manga/3/130827.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 銀槌のアレキサンドラ

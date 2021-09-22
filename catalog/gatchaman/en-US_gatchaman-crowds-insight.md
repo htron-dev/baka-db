@@ -1,5 +1,7 @@
 # Gatchaman Crowds Insight
 
+![gatchaman-crowds-insight](https://cdn.myanimelist.net/images/anime/11/74978.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: GATCHAMAN CROWDS insight（インサイト）

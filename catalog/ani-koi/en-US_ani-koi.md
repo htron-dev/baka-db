@@ -1,5 +1,7 @@
 # Ani Koi
 
+![ani-koi](https://cdn.myanimelist.net/images/manga/3/118903.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: アニコイ

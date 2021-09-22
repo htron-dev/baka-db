@@ -1,5 +1,7 @@
 # Nigeru Koi, Nureru Ai
 
+![nigeru-koi-nureru-ai](https://cdn.myanimelist.net/images/manga/2/194764.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 逃げる恋、濡れる愛

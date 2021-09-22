@@ -1,5 +1,7 @@
 # Mermaid Line
 
+![mermaid-line](https://cdn.myanimelist.net/images/manga/2/37258.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

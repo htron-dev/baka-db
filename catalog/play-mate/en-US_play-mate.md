@@ -1,5 +1,7 @@
 # Play Mate
 
+![play-mate](https://cdn.myanimelist.net/images/manga/3/35499.jpg)
+
 -   **type**: manga
 -   **chapters**: 1
 -   **original-name**: プレイ・メイト

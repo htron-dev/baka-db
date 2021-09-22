@@ -1,5 +1,7 @@
 # Tadayou Shoko no Verte Terra
 
+![tadayou-shoko-no-verte-terra](https://cdn.myanimelist.net/images/manga/2/124407.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: 漂う書庫のヴェルテ・テラ

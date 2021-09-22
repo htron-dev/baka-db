@@ -1,5 +1,7 @@
 # 4 Spirits Plus 2
 
+![4-spirits-plus-2](https://cdn.myanimelist.net/images/manga/2/150377.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 35

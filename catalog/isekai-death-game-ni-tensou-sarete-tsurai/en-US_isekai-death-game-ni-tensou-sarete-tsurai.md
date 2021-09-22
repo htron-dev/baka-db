@@ -1,5 +1,7 @@
 # Isekai Death Game ni Tensou sarete Tsurai
 
+![isekai-death-game-ni-tensou-sarete-tsurai](https://cdn.myanimelist.net/images/manga/2/210307.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

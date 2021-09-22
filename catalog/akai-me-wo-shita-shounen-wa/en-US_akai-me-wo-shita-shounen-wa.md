@@ -1,5 +1,7 @@
 # Akai Me wo Shita Shounen wa
 
+![akai-me-wo-shita-shounen-wa](https://cdn.myanimelist.net/images/manga/3/33567.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

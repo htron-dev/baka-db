@@ -1,5 +1,7 @@
 # Hatsukoi wa Kanawanai
 
+![hatsukoi-wa-kanawanai](https://cdn.myanimelist.net/images/manga/1/100653.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

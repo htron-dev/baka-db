@@ -1,5 +1,7 @@
 # Gekijouban Pocket Monsters Diamond & Pearl: Dialga vs. Palkia vs. Darkrai
 
+![gekijouban-pocket-monsters-diamond-pearl-dialga-vs-palkia-vs-darkrai](https://cdn.myanimelist.net/images/manga/1/116405.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

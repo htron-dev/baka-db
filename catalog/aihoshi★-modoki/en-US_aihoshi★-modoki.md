@@ -1,5 +1,7 @@
 # Aihoshi★Modoki
 
+![aihoshi★-modoki](https://cdn.myanimelist.net/images/manga/2/161541.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: アイホシ ★ モドキ

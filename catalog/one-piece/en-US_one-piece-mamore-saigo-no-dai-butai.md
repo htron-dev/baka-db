@@ -1,5 +1,7 @@
 # One Piece: Mamore! Saigo no Dai Butai
 
+![one-piece-mamore-saigo-no-dai-butai](https://cdn.myanimelist.net/images/anime/5/77108.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ワンピース守れ! 最後の大舞台

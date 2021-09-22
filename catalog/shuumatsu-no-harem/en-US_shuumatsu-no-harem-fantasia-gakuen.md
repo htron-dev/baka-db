@@ -1,5 +1,7 @@
 # Shuumatsu no Harem: Fantasia Gakuen
 
+![shuumatsu-no-harem-fantasia-gakuen](https://cdn.myanimelist.net/images/manga/3/239915.jpg)
+
 -   **type**: manga
 -   **original-name**: 終末のハーレム ファンタジア学園
 -   **start-date**: 2020-05-19

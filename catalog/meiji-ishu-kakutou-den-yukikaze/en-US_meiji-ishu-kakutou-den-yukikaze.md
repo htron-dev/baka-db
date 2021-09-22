@@ -1,5 +1,7 @@
 # Meiji Ishu Kakutou Den: Yukikaze
 
+![meiji-ishu-kakutou-den-yukikaze](https://cdn.myanimelist.net/images/manga/3/150056.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 43

@@ -1,5 +1,7 @@
 # Tosho Meikyuu
 
+![tosho-meikyuu](https://cdn.myanimelist.net/images/manga/3/202596.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

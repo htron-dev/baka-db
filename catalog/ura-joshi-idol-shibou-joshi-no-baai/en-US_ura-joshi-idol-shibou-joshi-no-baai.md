@@ -1,5 +1,7 @@
 # Ura Joshi.: Idol Shibou Joshi no Baai
 
+![ura-joshi-idol-shibou-joshi-no-baai](https://cdn.myanimelist.net/images/manga/1/108697.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

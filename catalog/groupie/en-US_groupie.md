@@ -1,5 +1,7 @@
 # Groupie
 
+![groupie](https://cdn.myanimelist.net/images/manga/3/2813.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

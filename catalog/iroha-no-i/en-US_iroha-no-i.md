@@ -1,5 +1,7 @@
 # Iroha no "I"
 
+![iroha-no-i](https://cdn.myanimelist.net/images/manga/2/145643.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: いろはの「い」

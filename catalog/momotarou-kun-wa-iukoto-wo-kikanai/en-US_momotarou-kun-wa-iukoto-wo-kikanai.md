@@ -1,5 +1,7 @@
 # Momotarou-kun wa Iukoto wo Kikanai
 
+![momotarou-kun-wa-iukoto-wo-kikanai](https://cdn.myanimelist.net/images/manga/3/238536.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 36

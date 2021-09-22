@@ -1,5 +1,7 @@
 # Kinoko Ningen no Kekkon
 
+![kinoko-ningen-no-kekkon](https://cdn.myanimelist.net/images/manga/1/164284.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

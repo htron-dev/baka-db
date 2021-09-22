@@ -1,5 +1,7 @@
 # Drifters (OVA): Kokuou-sama Goranshin
 
+![drifters-ova-kokuou-sama-goranshin](https://cdn.myanimelist.net/images/anime/12/89841.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 北壁篇「黒王様御乱心」

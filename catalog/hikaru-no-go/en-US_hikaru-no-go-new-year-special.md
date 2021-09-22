@@ -1,5 +1,7 @@
 # Hikaru no Go: New Year Special
 
+![hikaru-no-go-new-year-special](https://cdn.myanimelist.net/images/anime/11/60751.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ヒカルの碁 お正月スペシャル

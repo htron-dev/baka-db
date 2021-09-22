@@ -1,5 +1,7 @@
 # G-Men
 
+![g-men](https://cdn.myanimelist.net/images/manga/1/202385.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 161

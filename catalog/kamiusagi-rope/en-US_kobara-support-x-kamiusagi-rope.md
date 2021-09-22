@@ -1,5 +1,7 @@
 # Kobara Support x Kamiusagi Rope
 
+![kobara-support-x-kamiusagi-rope](https://cdn.myanimelist.net/images/anime/1142/105613.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: コバラサポート × 紙兎ロペ

@@ -1,5 +1,7 @@
 # Rengoku no Toshi
 
+![rengoku-no-toshi](https://cdn.myanimelist.net/images/manga/3/223625.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 47

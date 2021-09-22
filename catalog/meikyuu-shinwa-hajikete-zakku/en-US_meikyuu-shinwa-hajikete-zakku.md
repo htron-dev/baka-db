@@ -1,5 +1,7 @@
 # Meikyuu Shinwa: Hajikete! Zakku
 
+![meikyuu-shinwa-hajikete-zakku](https://cdn.myanimelist.net/images/manga/3/74221.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: はじけて!ザック
@@ -10,7 +12,6 @@
 
 -   action
 -   adventure
-
 -   supernatural
 
 ## Authors

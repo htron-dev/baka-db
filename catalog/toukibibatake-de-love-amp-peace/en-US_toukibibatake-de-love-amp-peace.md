@@ -1,5 +1,7 @@
 # Toukibibatake de Love &amp; Peace
 
+![toukibibatake-de-love-amp-peace](https://cdn.myanimelist.net/images/manga/2/7329.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

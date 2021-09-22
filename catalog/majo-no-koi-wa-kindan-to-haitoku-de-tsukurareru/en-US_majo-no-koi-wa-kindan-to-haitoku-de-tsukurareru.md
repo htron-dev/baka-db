@@ -1,5 +1,7 @@
 # Majo no Koi wa Kindan to Haitoku de Tsukurareru
 
+![majo-no-koi-wa-kindan-to-haitoku-de-tsukurareru](https://cdn.myanimelist.net/images/manga/3/83783.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

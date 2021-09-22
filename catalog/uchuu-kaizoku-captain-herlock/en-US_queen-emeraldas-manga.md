@@ -1,5 +1,7 @@
 # Queen Emeraldas
 
+![queen-emeraldas](https://cdn.myanimelist.net/images/manga/5/76225.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

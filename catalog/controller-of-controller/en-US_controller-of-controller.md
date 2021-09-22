@@ -1,5 +1,7 @@
 # Controller of Controller
 
+![controller-of-controller](https://cdn.myanimelist.net/images/anime/1573/95073.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Controller of Controller

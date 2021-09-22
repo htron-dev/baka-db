@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam AGE: First Evolution
 
+![kidou-senshi-gundam-age-first-evolution](https://cdn.myanimelist.net/images/manga/3/64165.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

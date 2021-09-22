@@ -1,5 +1,7 @@
 # Aisarete mo Iinda yo
 
+![aisarete-mo-iinda-yo](https://cdn.myanimelist.net/images/manga/1/238780.jpg)
+
 -   **type**: manga
 -   **original-name**: 愛されてもいいんだよ
 -   **start-date**: 2020-07-04

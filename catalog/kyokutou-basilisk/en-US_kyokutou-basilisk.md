@@ -1,5 +1,7 @@
 # Kyokutou Basilisk
 
+![kyokutou-basilisk](https://cdn.myanimelist.net/images/manga/2/21330.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

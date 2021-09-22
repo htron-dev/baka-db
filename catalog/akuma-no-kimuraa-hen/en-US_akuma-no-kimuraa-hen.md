@@ -1,5 +1,7 @@
 # Akuma no Kimuraa-hen
 
+![akuma-no-kimuraa-hen](https://cdn.myanimelist.net/images/anime/1986/91788.jpg)
+
 -   **type**: special
 -   **original-name**: アクマのキムラー 篇
 -   **start-date**: 2018-04-06

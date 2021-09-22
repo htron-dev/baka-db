@@ -1,5 +1,7 @@
 # 17-sai, Kiss to Dilemma
 
+![17-sai-kiss-to-dilemma](https://cdn.myanimelist.net/images/manga/3/175170.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

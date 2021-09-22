@@ -1,5 +1,7 @@
 # Nar Doma
 
+![nar-doma](https://cdn.myanimelist.net/images/anime/6/72092.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ナルどマ

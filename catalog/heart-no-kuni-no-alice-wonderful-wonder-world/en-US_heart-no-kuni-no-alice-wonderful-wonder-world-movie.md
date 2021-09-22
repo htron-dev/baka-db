@@ -1,5 +1,7 @@
 # Heart no Kuni no Alice: Wonderful Wonder World
 
+![heart-no-kuni-no-alice-wonderful-wonder-world](https://cdn.myanimelist.net/images/anime/10/28748.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版ハートの国のアリス～ Wonderful Wonder World ～

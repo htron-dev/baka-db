@@ -1,5 +1,7 @@
 # Long Zhi Gu: Jingling Wangzuo
 
+![long-zhi-gu-jingling-wangzuo](https://cdn.myanimelist.net/images/anime/1062/112381.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 龙之谷：精灵王座

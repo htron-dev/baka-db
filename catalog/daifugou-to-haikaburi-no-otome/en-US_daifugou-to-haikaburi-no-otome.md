@@ -1,5 +1,7 @@
 # Daifugou to Haikaburi no Otome
 
+![daifugou-to-haikaburi-no-otome](https://cdn.myanimelist.net/images/manga/1/227163.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 大富豪と灰かぶりの乙女

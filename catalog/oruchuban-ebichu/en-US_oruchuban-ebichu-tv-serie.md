@@ -1,5 +1,7 @@
 # Oruchuban Ebichu
 
+![oruchuban-ebichu](https://cdn.myanimelist.net/images/anime/4/79591.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: おるちゅばんエビちゅ

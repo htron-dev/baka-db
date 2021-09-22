@@ -1,5 +1,7 @@
 # Maji? Ore ga BL Eiga no Shuen!? (Shikamo Uke)
 
+![maji-ore-ga-bl-eiga-no-shuen-shikamo-uke](https://cdn.myanimelist.net/images/manga/3/246781.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

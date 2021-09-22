@@ -1,5 +1,7 @@
 # Go! Go! Kadendanshi
 
+![go-go-kadendanshi](https://cdn.myanimelist.net/images/anime/13/51435.jpg)
+
 -   **type**: ona
 -   **episodes**: 78
 -   **original-name**: Go!Go!家電男子

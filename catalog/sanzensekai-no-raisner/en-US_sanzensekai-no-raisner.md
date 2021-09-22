@@ -1,5 +1,7 @@
 # Sanzensekai no Raisner
 
+![sanzensekai-no-raisner](https://cdn.myanimelist.net/images/manga/1/180044.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 三千世界の英雄王〈レイズナー〉
 -   **start-date**: 2016-07-25

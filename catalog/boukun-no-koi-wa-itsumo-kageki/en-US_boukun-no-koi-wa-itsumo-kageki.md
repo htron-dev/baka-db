@@ -1,5 +1,7 @@
 # Boukun no Koi wa Itsumo Kageki
 
+![boukun-no-koi-wa-itsumo-kageki](https://cdn.myanimelist.net/images/manga/3/194659.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 暴君の恋はいつも過激

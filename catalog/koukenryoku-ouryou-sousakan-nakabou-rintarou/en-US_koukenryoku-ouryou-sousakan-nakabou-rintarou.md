@@ -1,5 +1,7 @@
 # Koukenryoku Ouryou Sousakan Nakabou Rintarou
 
+![koukenryoku-ouryou-sousakan-nakabou-rintarou](https://cdn.myanimelist.net/images/manga/3/117413.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

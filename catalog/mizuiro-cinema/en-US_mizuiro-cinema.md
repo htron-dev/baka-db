@@ -1,5 +1,7 @@
 # Mizuiro Cinema
 
+![mizuiro-cinema](https://cdn.myanimelist.net/images/manga/5/30969.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

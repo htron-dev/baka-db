@@ -1,5 +1,7 @@
 # Gunbured x Sisters
 
+![gunbured-x-sisters](https://cdn.myanimelist.net/images/manga/3/235293.jpg)
+
 -   **type**: manga
 -   **original-name**: ガンバレッド × シスターズ
 -   **start-date**: 2019-09-19

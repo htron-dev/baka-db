@@ -1,5 +1,7 @@
 # Wonder Honey
 
+![wonder-honey](https://cdn.myanimelist.net/images/manga/1/202085.jpg)
+
 -   **type**: manga
 -   **original-name**: ワンダーハニー
 -   **start-date**: 2017-02-25

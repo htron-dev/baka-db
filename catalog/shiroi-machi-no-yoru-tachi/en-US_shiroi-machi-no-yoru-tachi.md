@@ -1,5 +1,7 @@
 # Shiroi Machi no Yoru-tachi
 
+![shiroi-machi-no-yoru-tachi](https://cdn.myanimelist.net/images/manga/1/195327.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

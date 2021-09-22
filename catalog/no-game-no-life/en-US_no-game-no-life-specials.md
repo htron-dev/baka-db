@@ -1,5 +1,7 @@
 # No Game No Life Specials
 
+![no-game-no-life-specials](https://cdn.myanimelist.net/images/anime/7/71783.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: ノーゲーム・ノーライフ ミニ

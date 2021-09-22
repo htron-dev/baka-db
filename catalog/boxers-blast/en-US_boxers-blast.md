@@ -1,5 +1,7 @@
 # Boxer's Blast
 
+![boxers-blast](https://cdn.myanimelist.net/images/manga/3/215369.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

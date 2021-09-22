@@ -1,5 +1,7 @@
 # Major: Message
 
+![major-message](https://cdn.myanimelist.net/images/anime/11/75219.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: メジャー・メッセージ
@@ -24,4 +26,4 @@ Thirteen years after achieving major success with the Indiana Hornets, Gorou Hon
 
 -   [My Anime list](https://myanimelist.net/anime/9890/Major__Message)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=8161)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Major_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Major_%28manga%29)

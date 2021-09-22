@@ -1,5 +1,7 @@
 # Tenchi Muyou! Ryououki: Heianmuyo! Picture Drama
 
+![tenchi-muyou-ryououki-heianmuyo-picture-drama](https://cdn.myanimelist.net/images/anime/1317/107416.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 天地無用! 魎皇鬼 謹製びでお絵本 平安無用!

@@ -1,5 +1,7 @@
 # Super Comic Gekijou: Devil Summoner - Soul Hackers
 
+![super-comic-gekijou-devil-summoner-soul-hackers](https://cdn.myanimelist.net/images/manga/3/151593.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: スーパーコミック劇場 デビルサマナー ソウルハッカーズ

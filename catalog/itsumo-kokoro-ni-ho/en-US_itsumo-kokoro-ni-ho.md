@@ -1,5 +1,7 @@
 # Itsumo Kokoro ni Ho
 
+![itsumo-kokoro-ni-ho](https://cdn.myanimelist.net/images/anime/6/82101.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: いつも心にホッ

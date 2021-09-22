@@ -1,5 +1,7 @@
 # Tsuki to Suppin
 
+![tsuki-to-suppin](https://cdn.myanimelist.net/images/manga/3/228595.jpg)
+
 -   **type**: manga
 -   **original-name**: 月とすっぴん
 -   **start-date**: 2019-06-13

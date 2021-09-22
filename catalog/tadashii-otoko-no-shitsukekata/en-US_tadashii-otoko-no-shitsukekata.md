@@ -1,5 +1,7 @@
 # Tadashii Otoko no Shitsukekata
 
+![tadashii-otoko-no-shitsukekata](https://cdn.myanimelist.net/images/manga/1/10861.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 正しい男のしつけ方

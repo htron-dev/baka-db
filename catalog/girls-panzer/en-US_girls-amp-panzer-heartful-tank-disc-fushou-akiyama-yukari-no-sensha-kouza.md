@@ -1,5 +1,7 @@
 # Girls &amp; Panzer Heartful Tank Disc: Fushou Akiyama Yukari no Sensha Kouza
 
+![girls-amp-panzer-heartful-tank-disc-fushou-akiyama-yukari-no-sensha-kouza](https://cdn.myanimelist.net/images/anime/11/71676.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ガールズ＆パンツァーハートフル タンク ディスク 不肖・秋山優花里の戦車講座

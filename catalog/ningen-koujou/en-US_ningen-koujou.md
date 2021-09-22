@@ -1,5 +1,7 @@
 # Ningen Koujou
 
+![ningen-koujou](https://cdn.myanimelist.net/images/manga/1/213090.jpg)
+
 -   **type**: manga
 -   **original-name**: 人間工場
 -   **start-date**: 2017-08-24

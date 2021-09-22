@@ -1,5 +1,7 @@
 # Hajime Ningen Gon
 
+![hajime-ningen-gon](https://cdn.myanimelist.net/images/anime/3/24193.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: はじめ人間ゴン

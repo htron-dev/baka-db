@@ -1,5 +1,7 @@
 # Isekai Hitokko Doubutsuen: Boku wa Zetsumetsu Kigushu no Shiikuin ni Narimashita
 
+![isekai-hitokko-doubutsuen-boku-wa-zetsumetsu-kigushu-no-shiikuin-ni-narimashita](https://cdn.myanimelist.net/images/manga/3/238070.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界ひとっ娘動物園　僕は絶滅危惧種の飼育員になりました
 -   **start-date**: 2020-06-05

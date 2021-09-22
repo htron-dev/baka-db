@@ -1,5 +1,7 @@
 # Red
 
+![red](https://cdn.myanimelist.net/images/manga/3/39690.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: レッド

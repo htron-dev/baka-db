@@ -1,5 +1,7 @@
 # Girls Syndrome
 
+![girls-syndrome](https://cdn.myanimelist.net/images/manga/2/134923.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

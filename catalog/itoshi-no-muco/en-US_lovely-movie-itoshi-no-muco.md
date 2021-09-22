@@ -1,5 +1,7 @@
 # Lovely Movie: Itoshi no Muco
 
+![lovely-movie-itoshi-no-muco](https://cdn.myanimelist.net/images/anime/6/61923.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 20
 -   **original-name**: ラブリームービー いとしのムーコ

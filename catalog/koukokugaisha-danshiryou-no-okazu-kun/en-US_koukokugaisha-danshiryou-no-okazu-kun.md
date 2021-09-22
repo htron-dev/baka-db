@@ -1,5 +1,7 @@
 # Koukokugaisha, Danshiryou no Okazu-kun
 
+![koukokugaisha-danshiryou-no-okazu-kun](https://cdn.myanimelist.net/images/manga/1/225889.jpg)
+
 -   **type**: manga
 -   **original-name**: 広告会社、男子寮のおかずくん
 -   **start-date**: 2016-11-24

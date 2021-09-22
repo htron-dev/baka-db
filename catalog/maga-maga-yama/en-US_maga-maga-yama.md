@@ -1,5 +1,7 @@
 # Maga Maga Yama
 
+![maga-maga-yama](https://cdn.myanimelist.net/images/manga/3/234982.jpg)
+
 -   **type**: manga
 -   **original-name**: マガマガヤマ
 -   **start-date**: 2018-09-14

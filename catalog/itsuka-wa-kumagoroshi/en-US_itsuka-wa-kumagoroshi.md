@@ -1,5 +1,7 @@
 # Itsuka wa Kumagoroshi!!
 
+![itsuka-wa-kumagoroshi](https://cdn.myanimelist.net/images/manga/3/25436.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

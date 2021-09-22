@@ -1,5 +1,7 @@
 # Baka Bakashii no!
 
+![baka-bakashii-no](https://cdn.myanimelist.net/images/manga/2/239705.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Ogre no Aniki to Dorei-chan
 
+![ogre-no-aniki-to-dorei-chan](https://cdn.myanimelist.net/images/manga/2/215687.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 49

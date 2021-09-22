@@ -1,5 +1,7 @@
 # C³
 
+![c](https://cdn.myanimelist.net/images/anime/13/32285.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: シーキューブ

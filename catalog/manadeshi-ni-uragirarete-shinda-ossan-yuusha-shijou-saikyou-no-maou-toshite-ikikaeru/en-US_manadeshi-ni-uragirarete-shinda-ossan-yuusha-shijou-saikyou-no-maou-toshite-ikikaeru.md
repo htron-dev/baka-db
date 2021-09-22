@@ -1,5 +1,7 @@
 # Manadeshi ni Uragirarete Shinda Ossan Yuusha, Shijou Saikyou no Maou toshite Ikikaeru
 
+![manadeshi-ni-uragirarete-shinda-ossan-yuusha-shijou-saikyou-no-maou-toshite-ikikaeru](https://cdn.myanimelist.net/images/manga/3/239976.jpg)
+
 -   **type**: manga
 -   **original-name**: 愛弟子に裏切られて死んだおっさん勇者、史上最強の魔王として生き返る
 -   **start-date**: 2020-07-17

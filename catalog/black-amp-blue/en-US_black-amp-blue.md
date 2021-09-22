@@ -1,5 +1,7 @@
 # Black &amp; Blue
 
+![black-amp-blue](https://cdn.myanimelist.net/images/manga/2/178434.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

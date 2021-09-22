@@ -1,5 +1,7 @@
 # Room Share
 
+![room-share](https://cdn.myanimelist.net/images/manga/3/78231.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

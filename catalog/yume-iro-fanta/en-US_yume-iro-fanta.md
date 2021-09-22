@@ -1,5 +1,7 @@
 # Yume-Iro Fanta
 
+![yume-iro-fanta](https://cdn.myanimelist.net/images/manga/3/27061.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 40

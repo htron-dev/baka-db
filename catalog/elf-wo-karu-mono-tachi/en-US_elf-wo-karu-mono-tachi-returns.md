@@ -1,5 +1,7 @@
 # Elf wo Karu Mono-tachi Returns
 
+![elf-wo-karu-mono-tachi-returns](https://cdn.myanimelist.net/images/manga/2/180334.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Koisuru Maid Shounen
 
+![koisuru-maid-shounen](https://cdn.myanimelist.net/images/manga/2/71453.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Coffin Defiler
 
+![coffin-defiler](https://cdn.myanimelist.net/images/manga/1/174123.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 棺の魔王〈コフィン・ディファイラー〉
 -   **start-date**: 2016-03-30

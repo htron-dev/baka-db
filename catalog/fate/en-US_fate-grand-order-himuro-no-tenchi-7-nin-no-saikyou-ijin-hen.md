@@ -1,5 +1,7 @@
 # Fate/Grand Order: Himuro no Tenchi - 7-nin no Saikyou Ijin-hen
 
+![fate-grand-order-himuro-no-tenchi-7-nin-no-saikyou-ijin-hen](https://cdn.myanimelist.net/images/anime/1421/105975.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Fate/Grand Order 氷室の天地～ 7 人の最強の偉人編～

@@ -1,5 +1,7 @@
 # A Cup of...
 
+![a-cup-of](https://cdn.myanimelist.net/images/manga/1/100619.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

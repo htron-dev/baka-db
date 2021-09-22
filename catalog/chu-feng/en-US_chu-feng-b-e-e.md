@@ -1,5 +1,7 @@
 # Chu Feng: B.E.E
 
+![chu-feng-b-e-e](https://cdn.myanimelist.net/images/anime/2/74803.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: 雛蜂-B.E.E-

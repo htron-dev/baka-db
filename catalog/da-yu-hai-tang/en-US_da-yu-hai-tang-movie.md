@@ -1,5 +1,7 @@
 # Da Yu Hai Tang (Movie)
 
+![da-yu-hai-tang-movie](https://cdn.myanimelist.net/images/anime/5/83826.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 大鱼海棠

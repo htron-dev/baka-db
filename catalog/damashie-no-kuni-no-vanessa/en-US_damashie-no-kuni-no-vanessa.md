@@ -1,5 +1,7 @@
 # Damashie no Kuni no Vanessa
 
+![damashie-no-kuni-no-vanessa](https://cdn.myanimelist.net/images/manga/2/181728.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

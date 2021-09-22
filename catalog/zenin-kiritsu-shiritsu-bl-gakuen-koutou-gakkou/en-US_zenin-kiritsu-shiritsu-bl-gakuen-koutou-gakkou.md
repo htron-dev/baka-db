@@ -1,5 +1,7 @@
 # Zenin Kiritsu! Shiritsu BL Gakuen Koutou Gakkou
 
+![zenin-kiritsu-shiritsu-bl-gakuen-koutou-gakkou](https://cdn.myanimelist.net/images/manga/3/228022.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

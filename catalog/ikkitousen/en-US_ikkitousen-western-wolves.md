@@ -1,5 +1,7 @@
 # Ikkitousen: Western Wolves
 
+![ikkitousen-western-wolves](https://cdn.myanimelist.net/images/anime/1915/114768.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 一騎当千 Western Wolves

@@ -1,5 +1,7 @@
 # Ookini Kanjani∞!!
 
+![ookini-kanjani∞](https://cdn.myanimelist.net/images/manga/1/233974.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: おおきに関ジャニ ∞!!

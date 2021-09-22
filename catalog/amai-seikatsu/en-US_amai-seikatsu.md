@@ -1,5 +1,7 @@
 # Amai Seikatsu
 
+![amai-seikatsu](https://cdn.myanimelist.net/images/manga/2/116895.jpg)
+
 -   **type**: manga
 -   **volumes**: 40
 -   **chapters**: 480

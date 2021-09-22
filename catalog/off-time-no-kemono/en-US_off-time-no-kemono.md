@@ -1,5 +1,7 @@
 # Off-time no Kemono
 
+![off-time-no-kemono](https://cdn.myanimelist.net/images/manga/3/69929.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

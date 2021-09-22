@@ -1,5 +1,7 @@
 # Liselotte to Majo no Mori
 
+![liselotte-to-majo-no-mori](https://cdn.myanimelist.net/images/manga/1/65885.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 31

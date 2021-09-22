@@ -1,5 +1,7 @@
 # Be Free!
 
+![be-free](https://cdn.myanimelist.net/images/manga/4/76293.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 128

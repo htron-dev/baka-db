@@ -1,5 +1,7 @@
 # Utopia
 
+![utopia](https://cdn.myanimelist.net/images/manga/3/235743.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 89

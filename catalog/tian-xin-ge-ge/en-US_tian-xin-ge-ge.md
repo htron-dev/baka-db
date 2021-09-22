@@ -1,5 +1,7 @@
 # Tian Xin Ge Ge
 
+![tian-xin-ge-ge](https://cdn.myanimelist.net/images/anime/12/81128.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 甜心格格

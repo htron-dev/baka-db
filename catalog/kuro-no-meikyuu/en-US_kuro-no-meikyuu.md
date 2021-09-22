@@ -1,5 +1,7 @@
 # Kuro no Meikyuu
 
+![kuro-no-meikyuu](https://cdn.myanimelist.net/images/manga/3/48911.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

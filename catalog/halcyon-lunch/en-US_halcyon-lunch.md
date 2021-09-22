@@ -1,5 +1,7 @@
 # Halcyon Lunch
 
+![halcyon-lunch](https://cdn.myanimelist.net/images/manga/1/138671.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

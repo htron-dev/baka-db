@@ -1,5 +1,7 @@
 # Isekai Tennis Musou: Tennis Player toka Iu Nazo no Otoko ga Chotto Tsuyosugiru n desu kedo!
 
+![isekai-tennis-musou-tennis-player-toka-iu-nazo-no-otoko-ga-chotto-tsuyosugiru-n-desu-kedo](https://cdn.myanimelist.net/images/manga/2/205641.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界テニス無双 テニスプレイヤーとかいう謎の男がちょっと強すぎるんですけど！
 -   **start-date**: 2018-01-13

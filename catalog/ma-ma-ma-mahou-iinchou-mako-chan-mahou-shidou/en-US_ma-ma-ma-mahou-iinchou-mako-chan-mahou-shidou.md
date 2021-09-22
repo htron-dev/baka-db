@@ -1,5 +1,7 @@
 # MaMaMa: Mahou Iinchou Mako-chan Mahou Shidou
 
+![ma-ma-ma-mahou-iinchou-mako-chan-mahou-shidou](https://cdn.myanimelist.net/images/manga/1/90073.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

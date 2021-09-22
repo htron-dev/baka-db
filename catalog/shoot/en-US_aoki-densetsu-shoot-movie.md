@@ -1,5 +1,7 @@
 # Aoki Densetsu Shoot! (Movie)
 
+![aoki-densetsu-shoot-movie](https://cdn.myanimelist.net/images/anime/1453/96649.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 蒼き伝説　シュート！

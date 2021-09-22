@@ -1,5 +1,7 @@
 # Saint Muscle
 
+![saint-muscle](https://cdn.myanimelist.net/images/manga/1/180804.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 聖〈セント〉マッスル

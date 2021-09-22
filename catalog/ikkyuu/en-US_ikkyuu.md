@@ -1,5 +1,7 @@
 # Ikkyuu
 
+![ikkyuu](https://cdn.myanimelist.net/images/manga/1/105861.jpg)
+
 -   **type**: manga
 -   **original-name**: 一休
 -   **start-date**: 2011-08-08

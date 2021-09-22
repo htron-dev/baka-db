@@ -1,5 +1,7 @@
 # Nekojiru Gekijou Jirujiru Original
 
+![nekojiru-gekijou-jirujiru-original](https://cdn.myanimelist.net/images/anime/7/3818.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 27
 -   **original-name**: ねこぢる劇場 ぢるぢる ORIGINAL

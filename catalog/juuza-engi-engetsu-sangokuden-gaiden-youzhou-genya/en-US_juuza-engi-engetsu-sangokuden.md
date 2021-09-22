@@ -1,5 +1,7 @@
 # Juuza Engi: Engetsu Sangokuden
 
+![juuza-engi-engetsu-sangokuden](https://cdn.myanimelist.net/images/manga/1/81686.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

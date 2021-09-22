@@ -1,5 +1,7 @@
 # Saint Seiya: Next Dimension - Meiou Shinwa
 
+![saint-seiya-next-dimension-meiou-shinwa](https://cdn.myanimelist.net/images/manga/1/163134.jpg)
+
 -   **type**: manga
 -   **original-name**: 聖闘士星矢 NEXT DIMENSION 冥王神話
 -   **start-date**: 2006-04-27

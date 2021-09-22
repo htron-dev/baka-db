@@ -1,5 +1,7 @@
 # Caramel♥Kiss
 
+![caramel♥-kiss](https://cdn.myanimelist.net/images/manga/1/19732.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

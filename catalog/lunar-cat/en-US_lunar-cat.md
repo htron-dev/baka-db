@@ -1,5 +1,7 @@
 # Lunar Cat
 
+![lunar-cat](https://cdn.myanimelist.net/images/manga/3/6175.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 猫の降る街

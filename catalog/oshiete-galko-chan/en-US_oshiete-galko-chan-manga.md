@@ -1,5 +1,7 @@
 # Oshiete! Galko-chan
 
+![oshiete-galko-chan](https://cdn.myanimelist.net/images/manga/3/144949.jpg)
+
 -   **type**: manga
 -   **original-name**: おしえて! ギャル子ちゃん
 -   **start-date**: 2014-06-27

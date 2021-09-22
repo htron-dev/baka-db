@@ -1,5 +1,7 @@
 # Sayonara mo Iwazu ni
 
+![sayonara-mo-iwazu-ni](https://cdn.myanimelist.net/images/manga/2/226142.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

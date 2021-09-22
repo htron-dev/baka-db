@@ -1,5 +1,7 @@
 # No Game No Life: Zero - Manner Movie
 
+![no-game-no-life-zero-manner-movie](https://cdn.myanimelist.net/images/anime/1622/110149.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ノーゲーム・ノーライフ ゼロ マナー映像

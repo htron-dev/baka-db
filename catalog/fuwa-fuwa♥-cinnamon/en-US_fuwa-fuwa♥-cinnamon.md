@@ -1,5 +1,7 @@
 # Fuwa Fuwa♥Cinnamon
 
+![fuwa-fuwa♥-cinnamon](https://cdn.myanimelist.net/images/manga/3/67395.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 118

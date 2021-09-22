@@ -1,5 +1,7 @@
 # Teogonia
 
+![teogonia](https://cdn.myanimelist.net/images/manga/2/236881.jpg)
+
 -   **type**: manga
 -   **original-name**: 神統記 〈テオゴニア〉
 -   **start-date**: 2018-04-06

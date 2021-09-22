@@ -1,5 +1,7 @@
 # Heart Cocktail Again
 
+![heart-cocktail-again](https://cdn.myanimelist.net/images/anime/12/55753.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハートカクテルアゲイン

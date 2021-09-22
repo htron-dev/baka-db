@@ -1,5 +1,7 @@
 # Kenkou Zenrakei Suieibu Umishou
 
+![kenkou-zenrakei-suieibu-umishou](https://cdn.myanimelist.net/images/manga/2/56931.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 130

@@ -1,5 +1,7 @@
 # Magical Nyan Nyan Taruto
 
+![magical-nyan-nyan-taruto](https://cdn.myanimelist.net/images/manga/3/112421.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

@@ -1,5 +1,7 @@
 # Trouble Love Attack!
 
+![trouble-love-attack](https://cdn.myanimelist.net/images/manga/1/162601.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: トラブル・ラブ・アタック！

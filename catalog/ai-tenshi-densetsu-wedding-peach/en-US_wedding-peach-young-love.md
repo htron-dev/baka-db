@@ -1,5 +1,7 @@
 # Wedding Peach: Young Love
 
+![wedding-peach-young-love](https://cdn.myanimelist.net/images/manga/2/12414.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

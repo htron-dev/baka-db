@@ -1,5 +1,7 @@
 # Ryuuguu no Kyoudai
 
+![ryuuguu-no-kyoudai](https://cdn.myanimelist.net/images/manga/1/197033.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

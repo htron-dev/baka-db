@@ -1,5 +1,7 @@
 # 4-gatsu no Tokyo wa...
 
+![4-gatsu-no-tokyo-wa](https://cdn.myanimelist.net/images/manga/3/237949.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

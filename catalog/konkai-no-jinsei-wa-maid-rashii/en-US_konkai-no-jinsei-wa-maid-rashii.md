@@ -1,5 +1,7 @@
 # Konkai no Jinsei wa Maid Rashii
 
+![konkai-no-jinsei-wa-maid-rashii](https://cdn.myanimelist.net/images/manga/1/226953.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

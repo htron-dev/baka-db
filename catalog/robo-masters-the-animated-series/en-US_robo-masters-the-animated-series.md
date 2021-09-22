@@ -1,5 +1,7 @@
 # RoboMasters the Animated Series
 
+![robo-masters-the-animated-series](https://cdn.myanimelist.net/images/anime/11/86297.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 6
 -   **original-name**: ROBOMASTERS THE ANIMATED SERIES

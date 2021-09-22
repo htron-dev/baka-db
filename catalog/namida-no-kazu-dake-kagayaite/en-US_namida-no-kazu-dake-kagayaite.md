@@ -1,5 +1,7 @@
 # Namida no Kazu dake Kagayaite!
 
+![namida-no-kazu-dake-kagayaite](https://cdn.myanimelist.net/images/manga/3/152850.jpg)
+
 -   **type**: manga
 -   **original-name**: 涙の数だけ輝いて!
 -   **start-date**: 2012-11-05

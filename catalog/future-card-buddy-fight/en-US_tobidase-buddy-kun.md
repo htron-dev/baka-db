@@ -1,5 +1,7 @@
 # Tobidase!! Buddy-kun
 
+![tobidase-buddy-kun](https://cdn.myanimelist.net/images/anime/13/85458.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: とびだせ!!バディくん

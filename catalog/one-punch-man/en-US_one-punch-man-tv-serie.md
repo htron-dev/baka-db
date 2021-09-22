@@ -1,5 +1,7 @@
 # One Punch Man
 
+![one-punch-man](https://cdn.myanimelist.net/images/anime/12/76049.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ワンパンマン

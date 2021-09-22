@@ -1,5 +1,7 @@
 # Pika Don
 
+![pika-don](https://cdn.myanimelist.net/images/anime/7/16657.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ピカドン

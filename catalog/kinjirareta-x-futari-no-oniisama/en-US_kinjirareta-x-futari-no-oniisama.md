@@ -1,5 +1,7 @@
 # Kinjirareta X: Futari no Oniisama
 
+![kinjirareta-x-futari-no-oniisama](https://cdn.myanimelist.net/images/manga/3/182501.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # A.F
 
+![a-f](https://cdn.myanimelist.net/images/anime/7/9489.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Ａ.Ｆ

@@ -1,5 +1,7 @@
 # Amefuri Kozou
 
+![amefuri-kozou](https://cdn.myanimelist.net/images/anime/2/54631.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 雨ふり小僧

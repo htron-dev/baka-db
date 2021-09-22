@@ -1,5 +1,7 @@
 # Yaeka no Karte
 
+![yaeka-no-karte](https://cdn.myanimelist.net/images/manga/2/245248.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: やえかのカルテ

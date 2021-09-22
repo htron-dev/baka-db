@@ -1,5 +1,7 @@
 # Nurse Angel Ririka SOS
 
+![nurse-angel-ririka-sos](https://cdn.myanimelist.net/images/anime/10/10506.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 35
 -   **original-name**: ナースエンジェルりりかＳＯＳ

@@ -1,5 +1,7 @@
 # Super Robot Taisen OG: Divine Wars
 
+![super-robot-taisen-og-divine-wars](https://cdn.myanimelist.net/images/anime/7/31063.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: スーパーロボット大戦 OG -ディバイン・ウォーズ-

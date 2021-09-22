@@ -1,5 +1,7 @@
 # Sanctuary: The Bakurou Ishin
 
+![sanctuary-the-bakurou-ishin](https://cdn.myanimelist.net/images/manga/2/31782.jpg)
+
 -   **type**: manga
 -   **original-name**: サンクチュアリ THE 幕狼異新
 

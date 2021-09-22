@@ -1,5 +1,7 @@
 # Hayate x Blade 2
 
+![hayate-x-blade-2](https://cdn.myanimelist.net/images/manga/2/166590.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 50

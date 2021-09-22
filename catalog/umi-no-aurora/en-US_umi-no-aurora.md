@@ -1,5 +1,7 @@
 # Umi no Aurora
 
+![umi-no-aurora](https://cdn.myanimelist.net/images/manga/3/90889.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 海のオーロラ

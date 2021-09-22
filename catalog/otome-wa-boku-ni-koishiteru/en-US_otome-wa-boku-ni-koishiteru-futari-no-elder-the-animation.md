@@ -1,5 +1,7 @@
 # Otome wa Boku ni Koishiteru: Futari no Elder The Animation
 
+![otome-wa-boku-ni-koishiteru-futari-no-elder-the-animation](https://cdn.myanimelist.net/images/anime/7/87914.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 乙女はお姉さまに恋してる ～ 2 人のエルダー～ THE ANIMATION

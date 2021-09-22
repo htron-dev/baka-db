@@ -1,5 +1,7 @@
 # Fukujuu to Amagami
 
+![fukujuu-to-amagami](https://cdn.myanimelist.net/images/manga/2/246275.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

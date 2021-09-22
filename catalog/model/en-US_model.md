@@ -1,5 +1,7 @@
 # Model
 
+![model](https://cdn.myanimelist.net/images/manga/2/173620.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **chapters**: 10

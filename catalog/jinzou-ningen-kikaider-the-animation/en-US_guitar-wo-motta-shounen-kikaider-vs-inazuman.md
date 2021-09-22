@@ -1,5 +1,7 @@
 # Guitar wo Motta Shounen: Kikaider vs. Inazuman
 
+![guitar-wo-motta-shounen-kikaider-vs-inazuman](https://cdn.myanimelist.net/images/anime/11/23337.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ギターを持った少年 -キカイダー VS イナズマン-
@@ -21,4 +23,4 @@ The OVA Special which teams the Anime version of the legendary Henshin Hero Jiro
 -   [Official Site](http://www.sonymusic.co.jp/Animation/Kikaider/animation.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2494)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2659)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Kikaider_(anime)#the_Boy_Who_Carried_a_Guitar:_Kikaider_vs._Inazuman>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Kikaider_%28anime%29#the_Boy_Who_Carried_a_Guitar:_Kikaider_vs._Inazuman)

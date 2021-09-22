@@ -1,5 +1,7 @@
 # Mijika de Okita Kowai Hanashi
 
+![mijika-de-okita-kowai-hanashi](https://cdn.myanimelist.net/images/manga/3/125885.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

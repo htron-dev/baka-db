@@ -1,5 +1,7 @@
 # Genma Taisen: Shinwa Zenya no Shou
 
+![genma-taisen-shinwa-zenya-no-shou](https://cdn.myanimelist.net/images/anime/1/1705.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 幻魔大戦－神話前夜の章

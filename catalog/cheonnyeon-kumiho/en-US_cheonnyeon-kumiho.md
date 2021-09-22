@@ -1,5 +1,7 @@
 # Cheonnyeon Kumiho
 
+![cheonnyeon-kumiho](https://cdn.myanimelist.net/images/manga/1/126503.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 248
 -   **original-name**: 천년 구미호

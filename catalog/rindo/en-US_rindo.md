@@ -1,5 +1,7 @@
 # Rindo
 
+![rindo](https://cdn.myanimelist.net/images/manga/2/41023.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 97

@@ -1,5 +1,7 @@
 # Ex-Phazer
 
+![ex-phazer](https://cdn.myanimelist.net/images/manga/1/162768.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

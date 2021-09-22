@@ -1,5 +1,7 @@
 # Bikachou Shinshi Kaikoroku
 
+![bikachou-shinshi-kaikoroku](https://cdn.myanimelist.net/images/manga/3/164764.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

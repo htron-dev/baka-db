@@ -1,5 +1,7 @@
 # Iromeki x Girls
 
+![iromeki-x-girls](https://cdn.myanimelist.net/images/manga/3/174078.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

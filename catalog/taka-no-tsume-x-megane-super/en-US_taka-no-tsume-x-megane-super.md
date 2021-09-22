@@ -1,5 +1,7 @@
 # Taka no Tsume x Megane Super
 
+![taka-no-tsume-x-megane-super](https://cdn.myanimelist.net/images/anime/11/81662.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 鷹の爪 × メガネスーパー

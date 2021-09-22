@@ -1,5 +1,7 @@
 # Daikirai!! Demo Honto wa ne...
 
+![daikirai-demo-honto-wa-ne](https://cdn.myanimelist.net/images/manga/2/26181.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

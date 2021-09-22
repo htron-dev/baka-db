@@ -1,5 +1,7 @@
 # Machine Robo: Butchigiri Battle Hackers
 
+![machine-robo-butchigiri-battle-hackers](https://cdn.myanimelist.net/images/anime/8/64777.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 31
 -   **original-name**: マシンロボ ぶっちぎりバトルハッカーズ

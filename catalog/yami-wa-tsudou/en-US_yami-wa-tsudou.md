@@ -1,5 +1,7 @@
 # Yami wa Tsudou
 
+![yami-wa-tsudou](https://cdn.myanimelist.net/images/manga/2/183127.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 闇は集う

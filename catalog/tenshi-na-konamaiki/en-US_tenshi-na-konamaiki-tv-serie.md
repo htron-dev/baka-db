@@ -1,5 +1,7 @@
 # Tenshi na Konamaiki
 
+![tenshi-na-konamaiki](https://cdn.myanimelist.net/images/anime/2/32701.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: 天使な小生意気

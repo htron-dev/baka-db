@@ -1,5 +1,7 @@
 # Meikai-Banashi
 
+![meikai-banashi](https://cdn.myanimelist.net/images/manga/2/147151.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

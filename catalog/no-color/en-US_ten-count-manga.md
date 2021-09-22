@@ -1,5 +1,7 @@
 # Ten Count
 
+![ten-count](https://cdn.myanimelist.net/images/manga/2/159479.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 51

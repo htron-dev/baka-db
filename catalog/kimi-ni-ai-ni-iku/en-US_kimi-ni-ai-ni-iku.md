@@ -1,5 +1,7 @@
 # Kimi ni Ai ni Iku
 
+![kimi-ni-ai-ni-iku](https://cdn.myanimelist.net/images/manga/2/9090.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

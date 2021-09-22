@@ -1,5 +1,7 @@
 # Otokozaka
 
+![otokozaka](https://cdn.myanimelist.net/images/manga/1/40025.jpg)
+
 -   **type**: manga
 -   **original-name**: 男坂
 -   **start-date**: 1984-07-10

@@ -1,5 +1,7 @@
 # Chuuchuu Banban
 
+![chuuchuu-banban](https://cdn.myanimelist.net/images/anime/6/63951.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: チュウチュウバンバン

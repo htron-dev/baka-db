@@ -1,5 +1,7 @@
 # Ore no Shita de Agake
 
+![ore-no-shita-de-agake](https://cdn.myanimelist.net/images/manga/2/5987.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

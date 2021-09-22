@@ -1,5 +1,7 @@
 # Ushinawareta Choushoku
 
+![ushinawareta-choushoku](https://cdn.myanimelist.net/images/anime/1902/102382.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 失われた朝食

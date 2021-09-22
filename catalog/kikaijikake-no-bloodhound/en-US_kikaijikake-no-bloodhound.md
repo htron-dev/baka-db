@@ -1,5 +1,7 @@
 # Kikaijikake no Bloodhound
 
+![kikaijikake-no-bloodhound](https://cdn.myanimelist.net/images/manga/1/160694.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 22

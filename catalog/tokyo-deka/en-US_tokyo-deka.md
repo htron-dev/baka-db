@@ -1,5 +1,7 @@
 # Tokyo Deka
 
+![tokyo-deka](https://cdn.myanimelist.net/images/manga/2/15455.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: 東京刑事

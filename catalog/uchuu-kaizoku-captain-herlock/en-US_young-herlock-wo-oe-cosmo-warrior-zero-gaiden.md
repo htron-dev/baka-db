@@ -1,5 +1,7 @@
 # Young Herlock wo Oe! Cosmo Warrior Zero Gaiden
 
+![young-herlock-wo-oe-cosmo-warrior-zero-gaiden](https://cdn.myanimelist.net/images/anime/1102/100986.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ヤングハーロックを追え! コスモウォーリアー零外伝

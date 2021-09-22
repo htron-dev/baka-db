@@ -1,5 +1,7 @@
 # Akagami no Shirayuki-hime
 
+![akagami-no-shirayuki-hime](https://cdn.myanimelist.net/images/manga/3/19761.jpg)
+
 -   **type**: manga
 -   **original-name**: 赤髪の白雪姫
 -   **start-date**: 2006-08-10

@@ -1,5 +1,7 @@
 # Dutch Doll
 
+![dutch-doll](https://cdn.myanimelist.net/images/manga/2/144649.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Kurozuka
 
+![kurozuka](https://cdn.myanimelist.net/images/manga/2/156364.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 40

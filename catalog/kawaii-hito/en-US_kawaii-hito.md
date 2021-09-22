@@ -1,5 +1,7 @@
 # Kawaii Hito.
 
+![kawaii-hito](https://cdn.myanimelist.net/images/manga/2/177795.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

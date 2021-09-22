@@ -1,5 +1,7 @@
 # Tilea no Nayamigoto: Isekai Jashin Tensei Kitan
 
+![tilea-no-nayamigoto-isekai-jashin-tensei-kitan](https://cdn.myanimelist.net/images/manga/2/177829.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ティレアの悩み事~異世界邪神転生綺譚~
 -   **start-date**: 2015-07-30

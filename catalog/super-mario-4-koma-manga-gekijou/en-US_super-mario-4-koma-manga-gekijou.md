@@ -1,5 +1,7 @@
 # Super Mario 4-koma Manga Gekijou
 
+![super-mario-4-koma-manga-gekijou](https://cdn.myanimelist.net/images/manga/2/192344.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: スーパーマリオ 4 コママンガ劇場

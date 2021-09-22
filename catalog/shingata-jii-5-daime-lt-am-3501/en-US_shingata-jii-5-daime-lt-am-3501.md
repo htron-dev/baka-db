@@ -1,5 +1,7 @@
 # Shingata Jii (5-daime) LT-AM-3501
 
+![shingata-jii-5-daime-lt-am-3501](https://cdn.myanimelist.net/images/anime/1107/107939.jpg)
+
 -   **type**: special
 -   **episodes**: 5
 -   **original-name**: 新型 Jii (5 代目) LT-AM-3501

@@ -1,5 +1,7 @@
 # Konna Karada ni Dare ga Shita
 
+![konna-karada-ni-dare-ga-shita](https://cdn.myanimelist.net/images/manga/2/199841.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

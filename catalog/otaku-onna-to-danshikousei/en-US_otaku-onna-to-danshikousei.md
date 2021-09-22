@@ -1,5 +1,7 @@
 # Otaku Onna to Danshikousei
 
+![otaku-onna-to-danshikousei](https://cdn.myanimelist.net/images/manga/2/240983.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 33

@@ -1,5 +1,7 @@
 # Sengoku Collection
 
+![sengoku-collection](https://cdn.myanimelist.net/images/anime/12/35329.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 戦国コレクション

@@ -1,5 +1,7 @@
 # Kappa no Sanpei
 
+![kappa-no-sanpei](https://cdn.myanimelist.net/images/manga/1/36917.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5
@@ -25,11 +27,6 @@ One day, when Sanpei takes a nap whilst floating down the river on a makeshift r
 
 Upon arrival, Sanpei is soon discovered to actually be a human and is immediately is sentenced to execution.
 Realizing the situation he's in, Sanpei somehow manages to convince the Kappa elders that Human civilization is much more advanced and that they could learn a great deal from the humans should they allow him to live. Unable to trust Sanpei completely, the Kappa Elder removes Sanpei's bellybutton (as this is where they believe his soul to be located) as a guarantee before sending him back to the Human world, escorted by a young Kappa "exchange student" that strikes a frightening resemblance to Sanpei.
-
-## Links
-
--   [My Anime list](https://myanimelist.net/manga/23256/Kappa_no_Sanpei)
-    t his parents whereabouts, tackle angry Tanuki's, and lastly, win back his bellybutton!
 
 ## Links
 

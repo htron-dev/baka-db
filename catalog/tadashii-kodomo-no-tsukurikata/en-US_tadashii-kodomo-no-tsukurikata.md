@@ -1,5 +1,7 @@
 # Tadashii Kodomo no Tsukurikata!
 
+![tadashii-kodomo-no-tsukurikata](https://cdn.myanimelist.net/images/manga/3/80395.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 68

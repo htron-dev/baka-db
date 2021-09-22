@@ -1,5 +1,7 @@
 # 5 Cats
 
+![5-cats](https://cdn.myanimelist.net/images/manga/1/86237.jpg)
+
 -   **type**: manga
 -   **original-name**: 5CATS
 -   **start-date**: 2012-02-28

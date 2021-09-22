@@ -1,5 +1,7 @@
 # Kaiketsu Zorori no Kyoufu no Hanayome Sakusen
 
+![kaiketsu-zorori-no-kyoufu-no-hanayome-sakusen](https://cdn.myanimelist.net/images/anime/1919/105323.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: かいけつゾロリの恐怖の花嫁作戦

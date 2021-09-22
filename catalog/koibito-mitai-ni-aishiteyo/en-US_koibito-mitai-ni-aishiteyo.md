@@ -1,5 +1,7 @@
 # Koibito Mitai ni Aishiteyo
 
+![koibito-mitai-ni-aishiteyo](https://cdn.myanimelist.net/images/manga/2/6566.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

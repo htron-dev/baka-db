@@ -1,5 +1,7 @@
 # Otogi Juushi Akazukin
 
+![otogi-juushi-akazukin](https://cdn.myanimelist.net/images/manga/2/180974.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

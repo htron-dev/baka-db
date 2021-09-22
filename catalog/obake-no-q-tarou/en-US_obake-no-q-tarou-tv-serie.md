@@ -1,5 +1,7 @@
 # Obake no Q-tarou
 
+![obake-no-q-tarou](https://cdn.myanimelist.net/images/anime/1835/95971.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 96
 -   **original-name**: オバケのＱ太郎

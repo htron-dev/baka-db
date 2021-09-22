@@ -1,5 +1,7 @@
 # Ningyou Touge
 
+![ningyou-touge](https://cdn.myanimelist.net/images/manga/2/246561.jpg)
+
 -   **type**: manga
 -   **original-name**: 人形峠
 -   **start-date**: 2015-12-30

@@ -1,5 +1,7 @@
 # Murakami Kaizoku no Musume
 
+![murakami-kaizoku-no-musume](https://cdn.myanimelist.net/images/manga/3/208831.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 131

@@ -1,5 +1,7 @@
 # Saiko Robot Kombock
 
+![saiko-robot-kombock](https://cdn.myanimelist.net/images/anime/4/20756.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 로보짱 큐빅스

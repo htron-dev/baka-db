@@ -1,5 +1,7 @@
 # Izumi-chan Graffiti
 
+![izumi-chan-graffiti](https://cdn.myanimelist.net/images/manga/3/30937.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 37

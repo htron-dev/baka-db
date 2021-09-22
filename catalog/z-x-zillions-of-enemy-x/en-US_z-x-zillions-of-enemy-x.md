@@ -1,5 +1,7 @@
 # Z/X: Zillions of Enemy X
 
+![z-x-zillions-of-enemy-x](https://cdn.myanimelist.net/images/manga/3/167434.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 47

@@ -1,5 +1,7 @@
 # Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen
 
+![honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen](https://cdn.myanimelist.net/images/manga/1/149552.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 本好きの下剋上 ～司書になるためには手段を選んでいられません～
 -   **start-date**: 2015-01-25

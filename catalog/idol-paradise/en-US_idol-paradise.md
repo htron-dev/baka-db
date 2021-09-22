@@ -1,5 +1,7 @@
 # Idol Paradise
 
+![idol-paradise](https://cdn.myanimelist.net/images/manga/2/21588.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: アイドル　パラダイス

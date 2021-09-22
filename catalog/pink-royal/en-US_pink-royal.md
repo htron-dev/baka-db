@@ -1,5 +1,7 @@
 # Pink Royal
 
+![pink-royal](https://cdn.myanimelist.net/images/manga/2/230200.jpg)
+
 -   **type**: manga
 -   **original-name**: ピンクロイヤル
 -   **start-date**: 2018-03-23

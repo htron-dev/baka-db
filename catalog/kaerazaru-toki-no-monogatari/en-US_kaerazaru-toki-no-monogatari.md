@@ -1,5 +1,7 @@
 # Kaerazaru Toki no Monogatari
 
+![kaerazaru-toki-no-monogatari](https://cdn.myanimelist.net/images/manga/3/133385.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 24

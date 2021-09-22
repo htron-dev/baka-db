@@ -1,5 +1,7 @@
 # Akihabara Writer's Quartet
 
+![akihabara-writers-quartet](https://cdn.myanimelist.net/images/manga/2/159885.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: アキハバラ・ライターズ・カルテット

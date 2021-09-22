@@ -1,5 +1,7 @@
 # Carnival Phantasm: HibiChika Special
 
+![carnival-phantasm-hibi-chika-special](https://cdn.myanimelist.net/images/anime/13/64291.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: カーニバル・ファンタズム ひびちかスペシャル

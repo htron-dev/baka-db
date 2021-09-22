@@ -1,5 +1,7 @@
 # BQ Cooking!
 
+![bq-cooking](https://cdn.myanimelist.net/images/manga/3/175248.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Orera Koi ni Zenryoku
 
+![orera-koi-ni-zenryoku](https://cdn.myanimelist.net/images/manga/3/24116.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

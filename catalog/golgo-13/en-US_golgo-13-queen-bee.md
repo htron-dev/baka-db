@@ -1,5 +1,7 @@
 # Golgo 13: Queen Bee
 
+![golgo-13-queen-bee](https://cdn.myanimelist.net/images/anime/5/38653.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ゴルゴ１３　ＱＵＥＥＮ　ＢＥＥ

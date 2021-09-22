@@ -1,5 +1,7 @@
 # Final Fantasy XI: The Out of Orders
 
+![final-fantasy-xi-the-out-of-orders](https://cdn.myanimelist.net/images/manga/1/176124.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: FINAL FANTASY XI〜THE OUT OF ORDERS〜

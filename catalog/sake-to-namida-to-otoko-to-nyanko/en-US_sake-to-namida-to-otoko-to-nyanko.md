@@ -1,5 +1,7 @@
 # Sake to Namida to Otoko to Nyanko
 
+![sake-to-namida-to-otoko-to-nyanko](https://cdn.myanimelist.net/images/manga/1/245689.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

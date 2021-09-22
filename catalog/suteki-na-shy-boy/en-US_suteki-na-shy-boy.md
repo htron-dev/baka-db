@@ -1,5 +1,7 @@
 # Suteki na Shy BOY
 
+![suteki-na-shy-boy](https://cdn.myanimelist.net/images/manga/2/28216.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 素敵なシャイ BOY

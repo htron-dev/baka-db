@@ -1,5 +1,7 @@
 # Ichirei shite, Kiss
 
+![ichirei-shite-kiss](https://cdn.myanimelist.net/images/manga/2/92489.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 34

@@ -1,5 +1,7 @@
 # Koma-tan
 
+![koma-tan](https://cdn.myanimelist.net/images/manga/1/35354.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: こまタン

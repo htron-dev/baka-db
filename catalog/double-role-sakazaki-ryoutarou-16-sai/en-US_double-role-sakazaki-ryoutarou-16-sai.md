@@ -1,5 +1,7 @@
 # Double Role!: Sakazaki Ryoutarou 16-sai.
 
+![double-role-sakazaki-ryoutarou-16-sai](https://cdn.myanimelist.net/images/manga/2/158590.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 15

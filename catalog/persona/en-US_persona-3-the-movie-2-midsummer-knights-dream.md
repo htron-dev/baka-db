@@ -1,5 +1,7 @@
 # Persona 3 the Movie 2: Midsummer Knight's Dream
 
+![persona-3-the-movie-2-midsummer-knights-dream](https://cdn.myanimelist.net/images/anime/11/61681.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: PERSONA3 THE MOVIE —#2 Midsummer Knight's Dream—

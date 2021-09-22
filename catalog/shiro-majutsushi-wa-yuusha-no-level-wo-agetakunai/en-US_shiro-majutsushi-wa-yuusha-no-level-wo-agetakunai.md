@@ -1,5 +1,7 @@
 # Shiro Majutsushi wa Yuusha no Level wo Agetakunai
 
+![shiro-majutsushi-wa-yuusha-no-level-wo-agetakunai](https://cdn.myanimelist.net/images/manga/3/244668.jpg)
+
 -   **type**: manga
 -   **original-name**: 白魔術師は勇者のレベルを上げたくない
 -   **start-date**: 2020-03-11

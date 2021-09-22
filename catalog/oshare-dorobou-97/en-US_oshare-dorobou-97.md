@@ -1,5 +1,7 @@
 # Oshare Dorobou '97
 
+![oshare-dorobou-97](https://cdn.myanimelist.net/images/manga/3/46273.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: おしゃれ泥棒 '97

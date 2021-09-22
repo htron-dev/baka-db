@@ -1,5 +1,7 @@
 # Tokimeki Tonight Recaps
 
+![tokimeki-tonight-recaps](https://cdn.myanimelist.net/images/anime/13/29257.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ときめきトゥナイト・スペシャル

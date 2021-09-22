@@ -1,5 +1,7 @@
 # Mr. CB
 
+![mr-cb](https://cdn.myanimelist.net/images/manga/3/216955.jpg)
+
 -   **type**: manga
 -   **original-name**: Mr.CB
 -   **start-date**: 2018-05-08

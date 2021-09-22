@@ -1,5 +1,7 @@
 # Nikurashii hodo Aishiteru
 
+![nikurashii-hodo-aishiteru](https://cdn.myanimelist.net/images/manga/3/224057.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

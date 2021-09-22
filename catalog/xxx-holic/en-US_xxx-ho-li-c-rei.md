@@ -1,5 +1,7 @@
 # xxxHOLiC: Rei
 
+![xxx-ho-li-c-rei](https://cdn.myanimelist.net/images/manga/2/243539.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 56

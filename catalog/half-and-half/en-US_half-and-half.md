@@ -1,5 +1,7 @@
 # Half and Half
 
+![half-and-half](https://cdn.myanimelist.net/images/manga/1/82188.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

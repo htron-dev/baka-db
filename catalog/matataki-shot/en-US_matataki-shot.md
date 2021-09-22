@@ -1,5 +1,7 @@
 # Matataki Shot
 
+![matataki-shot](https://cdn.myanimelist.net/images/manga/1/136049.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: またたきショット

@@ -1,5 +1,7 @@
 # Haru-nee ga Boku ni xx Suru Riyuu
 
+![haru-nee-ga-boku-ni-xx-suru-riyuu](https://cdn.myanimelist.net/images/manga/3/158533.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

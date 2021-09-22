@@ -1,5 +1,7 @@
 # Kanojo ga Tonda Hi
 
+![kanojo-ga-tonda-hi](https://cdn.myanimelist.net/images/manga/1/23530.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

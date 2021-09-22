@@ -1,5 +1,7 @@
 # Kikaider 02
 
+![kikaider-02](https://cdn.myanimelist.net/images/manga/3/1443.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: キカイダー 02

@@ -1,5 +1,7 @@
 # One
 
+![one](https://cdn.myanimelist.net/images/manga/1/152416.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 11
 -   **chapters**: 71

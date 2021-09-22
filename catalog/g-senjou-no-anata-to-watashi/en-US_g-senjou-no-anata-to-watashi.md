@@ -1,5 +1,7 @@
 # G-senjou no Anata to Watashi
 
+![g-senjou-no-anata-to-watashi](https://cdn.myanimelist.net/images/manga/2/163433.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

@@ -1,5 +1,7 @@
 # Dallos
 
+![dallos](https://cdn.myanimelist.net/images/anime/12/55419.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: ダロス

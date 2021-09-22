@@ -1,5 +1,7 @@
 # Oyaji Kairou e Youkoso
 
+![oyaji-kairou-e-youkoso](https://cdn.myanimelist.net/images/manga/1/26258.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: オヤジ回廊へようこそ

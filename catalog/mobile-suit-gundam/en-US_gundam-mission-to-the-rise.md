@@ -1,5 +1,7 @@
 # Gundam: Mission to the Rise
 
+![gundam-mission-to-the-rise](https://cdn.myanimelist.net/images/anime/6/8685.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: GUNDAM Mission to the Rise

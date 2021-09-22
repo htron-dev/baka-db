@@ -1,5 +1,7 @@
 # Tendou no Singularity
 
+![tendou-no-singularity](https://cdn.myanimelist.net/images/manga/1/141869.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 94

@@ -1,5 +1,7 @@
 # Saikyou Hitoku no Eiyuu Kyoushi
 
+![saikyou-hitoku-no-eiyuu-kyoushi](https://cdn.myanimelist.net/images/manga/1/177430.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 最強秘匿の英雄教師
 -   **start-date**: 2016-06-02

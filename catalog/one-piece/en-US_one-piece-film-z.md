@@ -1,5 +1,7 @@
 # One Piece Film: Z
 
+![one-piece-film-z](https://cdn.myanimelist.net/images/anime/6/44297.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ワンピース　フィルム　 ﻿ Ｚ

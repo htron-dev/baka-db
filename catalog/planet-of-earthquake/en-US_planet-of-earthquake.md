@@ -1,5 +1,7 @@
 # Planet of Earthquake
 
+![planet-of-earthquake](https://cdn.myanimelist.net/images/manga/1/12178.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 機械仕掛けの王様

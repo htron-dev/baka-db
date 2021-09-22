@@ -1,5 +1,7 @@
 # Kobayashi-san Chi no Maid Dragon: Kanna no Nichijou
 
+![kobayashi-san-chi-no-maid-dragon-kanna-no-nichijou](https://cdn.myanimelist.net/images/manga/3/193739.jpg)
+
 -   **type**: manga
 -   **original-name**: 小林さんちのメイドラゴン カンナの日常
 -   **start-date**: 2016-12-24

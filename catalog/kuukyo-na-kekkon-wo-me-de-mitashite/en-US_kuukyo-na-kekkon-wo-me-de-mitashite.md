@@ -1,5 +1,7 @@
 # Kuukyo na Kekkon wo Me de Mitashite
 
+![kuukyo-na-kekkon-wo-me-de-mitashite](https://cdn.myanimelist.net/images/manga/2/194464.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

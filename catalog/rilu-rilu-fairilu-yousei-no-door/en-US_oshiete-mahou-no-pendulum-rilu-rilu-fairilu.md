@@ -1,5 +1,7 @@
 # Oshiete Mahou no Pendulum: Rilu Rilu Fairilu
 
+![oshiete-mahou-no-pendulum-rilu-rilu-fairilu](https://cdn.myanimelist.net/images/anime/1123/93548.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: おしえて魔法のペンデュラム～リルリルフェアリル～

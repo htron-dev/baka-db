@@ -1,5 +1,7 @@
 # Tokyo Alien Brothers
 
+![tokyo-alien-brothers](https://cdn.myanimelist.net/images/manga/2/175315.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

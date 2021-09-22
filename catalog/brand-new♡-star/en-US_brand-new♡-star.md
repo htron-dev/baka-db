@@ -1,5 +1,7 @@
 # Brand-new♡Star
 
+![brand-new♡-star](https://cdn.myanimelist.net/images/manga/3/140507.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Zense wa Kentei. Konjou Kuzu Ouji
 
+![zense-wa-kentei-konjou-kuzu-ouji](https://cdn.myanimelist.net/images/manga/1/246955.jpg)
+
 -   **type**: manga
 -   **original-name**: 前世は剣帝。今生クズ王子
 -   **start-date**: 2019-12-19

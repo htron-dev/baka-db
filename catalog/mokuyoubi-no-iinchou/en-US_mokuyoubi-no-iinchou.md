@@ -1,5 +1,7 @@
 # Mokuyoubi no Iinchou
 
+![mokuyoubi-no-iinchou](https://cdn.myanimelist.net/images/manga/1/19998.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

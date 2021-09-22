@@ -1,5 +1,7 @@
 # My Brother and Boyfriend, and He
 
+![my-brother-and-boyfriend-and-he](https://cdn.myanimelist.net/images/manga/3/25283.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 

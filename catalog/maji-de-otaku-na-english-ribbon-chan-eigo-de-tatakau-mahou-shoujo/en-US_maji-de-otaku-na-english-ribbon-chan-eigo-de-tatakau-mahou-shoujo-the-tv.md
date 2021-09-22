@@ -1,5 +1,7 @@
 # Maji de Otaku na English! Ribbon-chan: Eigo de Tatakau Mahou Shoujo - The TV
 
+![maji-de-otaku-na-english-ribbon-chan-eigo-de-tatakau-mahou-shoujo-the-tv](https://cdn.myanimelist.net/images/anime/7/51505.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: マジでオタクなイングリッシュ! りぼんちゃん ~英語で戦う魔法少女~ the TV

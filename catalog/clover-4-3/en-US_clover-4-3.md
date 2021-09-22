@@ -1,5 +1,7 @@
 # Clover 4/3
 
+![clover-4-3](https://cdn.myanimelist.net/images/anime/10/52689.jpg)
+
 -   **type**: ona
 -   **episodes**: 24
 -   **original-name**: 클로버 4/3

@@ -1,5 +1,7 @@
 # Seirei
 
+![seirei](https://cdn.myanimelist.net/images/manga/3/215375.jpg)
+
 -   **type**: manga
 -   **original-name**: 蜻蛉
 -   **start-date**: 2015-02-28

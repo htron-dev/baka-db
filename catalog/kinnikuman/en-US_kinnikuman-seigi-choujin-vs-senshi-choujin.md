@@ -1,5 +1,7 @@
 # Kinnikuman: Seigi Choujin vs. Senshi Choujin
 
+![kinnikuman-seigi-choujin-vs-senshi-choujin](https://cdn.myanimelist.net/images/anime/1102/97585.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キン肉マン 正義超人ＶＳ戦士超人

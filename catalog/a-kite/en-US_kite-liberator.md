@@ -1,5 +1,7 @@
 # Kite Liberator
 
+![kite-liberator](https://cdn.myanimelist.net/images/anime/11/10228.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: KITE LIBERATOR (カイト リベレイター)

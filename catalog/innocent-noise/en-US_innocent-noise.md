@@ -1,5 +1,7 @@
 # Innocent Noise
 
+![innocent-noise](https://cdn.myanimelist.net/images/manga/3/203543.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

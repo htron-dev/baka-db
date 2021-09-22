@@ -1,5 +1,7 @@
 # Urusei Yatsura Movie 5: Kanketsu-hen
 
+![urusei-yatsura-movie-5-kanketsu-hen](https://cdn.myanimelist.net/images/anime/5/3001.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: うる星やつら 完結篇

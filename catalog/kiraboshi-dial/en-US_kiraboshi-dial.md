@@ -1,5 +1,7 @@
 # Kiraboshi Dial
 
+![kiraboshi-dial](https://cdn.myanimelist.net/images/manga/2/29241.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

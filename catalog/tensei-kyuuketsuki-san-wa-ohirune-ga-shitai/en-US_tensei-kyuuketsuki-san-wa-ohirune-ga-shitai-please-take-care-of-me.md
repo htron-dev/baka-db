@@ -1,5 +1,7 @@
 # Tensei Kyuuketsuki-san wa Ohirune ga Shitai: Please Take Care of Me.
 
+![tensei-kyuuketsuki-san-wa-ohirune-ga-shitai-please-take-care-of-me](https://cdn.myanimelist.net/images/manga/1/203222.jpg)
+
 -   **type**: manga
 -   **original-name**: 転生吸血鬼さんはお昼寝がしたい～ Please take care of me.～
 -   **start-date**: 2017-05-12

@@ -1,5 +1,7 @@
 # Fushigi no Kuni no Senichiya
 
+![fushigi-no-kuni-no-senichiya](https://cdn.myanimelist.net/images/manga/3/32877.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: 不思議の国の千一夜

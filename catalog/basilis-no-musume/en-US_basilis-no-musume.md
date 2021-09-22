@@ -1,5 +1,7 @@
 # Basilis no Musume
 
+![basilis-no-musume](https://cdn.myanimelist.net/images/manga/2/195157.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

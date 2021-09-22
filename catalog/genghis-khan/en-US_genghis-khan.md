@@ -1,5 +1,7 @@
 # Genghis Khan
 
+![genghis-khan](https://cdn.myanimelist.net/images/manga/2/92401.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 42

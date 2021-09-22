@@ -1,5 +1,7 @@
 # The Cockpit
 
+![the-cockpit](https://cdn.myanimelist.net/images/anime/4/18697.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ザ・コクピット

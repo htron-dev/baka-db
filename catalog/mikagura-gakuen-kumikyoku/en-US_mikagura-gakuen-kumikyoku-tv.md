@@ -1,5 +1,7 @@
 # Mikagura Gakuen Kumikyoku (TV)
 
+![mikagura-gakuen-kumikyoku-tv](https://cdn.myanimelist.net/images/anime/6/73590.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ミカグラ学園組曲

@@ -1,5 +1,7 @@
 # Rubi Yoyo 3
 
+![rubi-yoyo-3](https://cdn.myanimelist.net/images/anime/1154/115313.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 104
 -   **original-name**: 乐比悠悠 3

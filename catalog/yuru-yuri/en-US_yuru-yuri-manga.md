@@ -1,5 +1,7 @@
 # Yuru Yuri
 
+![yuru-yuri](https://cdn.myanimelist.net/images/manga/1/53997.jpg)
+
 -   **type**: manga
 -   **original-name**: ゆるゆり
 -   **start-date**: 2008-06-18

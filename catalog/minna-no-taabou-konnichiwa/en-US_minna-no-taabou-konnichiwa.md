@@ -1,5 +1,7 @@
 # Minna no Taabou Konnichiwa
 
+![minna-no-taabou-konnichiwa](https://cdn.myanimelist.net/images/anime/12/84573.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: みんなのたぁ坊こんにちは

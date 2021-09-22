@@ -1,5 +1,7 @@
 # Crayon Shin-chan Movie 07: Bakuhatsu! Onsen Wakuwaku Daikessen
 
+![crayon-shin-chan-movie-07-bakuhatsu-onsen-wakuwaku-daikessen](https://cdn.myanimelist.net/images/anime/10/22023.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 クレヨンしんちゃん　爆発！温泉わくわく大決戦

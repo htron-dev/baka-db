@@ -1,5 +1,7 @@
 # Ededen!
 
+![ededen](https://cdn.myanimelist.net/images/manga/3/212829.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Gungrave
 
+![gungrave](https://cdn.myanimelist.net/images/anime/11/75724.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ガングレイヴ
@@ -33,4 +35,4 @@ Based off the third-person shooter video game under the same name, Gungrave is a
 -   [Official Site](http://www.jvcmusic.co.jp/m-serve/tv/gungrave/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1003)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2635)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Gungrave_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Gungrave_%28anime%29)

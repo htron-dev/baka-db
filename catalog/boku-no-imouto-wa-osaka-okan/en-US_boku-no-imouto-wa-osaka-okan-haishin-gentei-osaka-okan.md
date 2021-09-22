@@ -1,5 +1,7 @@
 # Boku no Imouto wa "Osaka Okan": Haishin Gentei Osaka Okan.
 
+![boku-no-imouto-wa-osaka-okan-haishin-gentei-osaka-okan](https://cdn.myanimelist.net/images/anime/11/45386.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 僕の妹は「大阪おかん」第 1.5 話「配信限定大阪おかん。」

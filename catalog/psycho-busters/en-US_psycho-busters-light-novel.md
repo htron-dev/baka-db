@@ -1,5 +1,7 @@
 # Psycho Busters
 
+![psycho-busters](https://cdn.myanimelist.net/images/manga/1/162603.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: サイコバスターズ

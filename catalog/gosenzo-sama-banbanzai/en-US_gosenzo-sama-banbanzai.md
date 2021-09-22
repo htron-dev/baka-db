@@ -1,5 +1,7 @@
 # Gosenzo-sama Banbanzai!
 
+![gosenzo-sama-banbanzai](https://cdn.myanimelist.net/images/anime/8/19785.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 御先祖様万々歳!

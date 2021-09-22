@@ -1,5 +1,7 @@
 # Channel wa Sonomama!
 
+![channel-wa-sonomama](https://cdn.myanimelist.net/images/manga/3/38074.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: チャンネルはそのまま！

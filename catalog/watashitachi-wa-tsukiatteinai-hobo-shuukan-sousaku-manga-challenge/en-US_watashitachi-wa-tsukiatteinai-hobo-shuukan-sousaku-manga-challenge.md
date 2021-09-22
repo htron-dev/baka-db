@@ -1,5 +1,7 @@
 # Watashitachi wa Tsukiatteinai: #Hobo Shuukan Sousaku Manga Challenge
 
+![watashitachi-wa-tsukiatteinai-hobo-shuukan-sousaku-manga-challenge](https://cdn.myanimelist.net/images/manga/3/226509.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 23

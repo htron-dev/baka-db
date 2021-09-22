@@ -1,5 +1,7 @@
 # S-kei Toshishita Ouji ni Miserarete: Yume no Naka no Koi
 
+![s-kei-toshishita-ouji-ni-miserarete-yume-no-naka-no-koi](https://cdn.myanimelist.net/images/manga/1/194137.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: Ｓ系年下王子に魅せられて　～夢の中の恋～

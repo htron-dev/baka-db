@@ -1,5 +1,7 @@
 # Okujou-hime
 
+![okujou-hime](https://cdn.myanimelist.net/images/manga/1/148877.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

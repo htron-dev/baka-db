@@ -1,5 +1,7 @@
 # Koi wa Miracle!
 
+![koi-wa-miracle](https://cdn.myanimelist.net/images/manga/3/161114.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 39

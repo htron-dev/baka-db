@@ -1,5 +1,7 @@
 # Honnouteki ni Otoko
 
+![honnouteki-ni-otoko](https://cdn.myanimelist.net/images/manga/1/2795.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

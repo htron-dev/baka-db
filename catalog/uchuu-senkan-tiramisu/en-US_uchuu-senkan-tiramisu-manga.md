@@ -1,5 +1,7 @@
 # Uchuu Senkan Tiramisù
 
+![uchuu-senkan-tiramisu](https://cdn.myanimelist.net/images/manga/2/200288.jpg)
+
 -   **type**: manga
 -   **original-name**: 宇宙戦艦ティラミス
 -   **start-date**: 2015-10-09

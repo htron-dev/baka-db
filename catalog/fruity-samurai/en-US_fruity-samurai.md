@@ -1,5 +1,7 @@
 # Fruity Samurai
 
+![fruity-samurai](https://cdn.myanimelist.net/images/anime/5/72213.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: フルーティー侍

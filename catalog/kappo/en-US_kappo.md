@@ -1,5 +1,7 @@
 # Kappo
 
+![kappo](https://cdn.myanimelist.net/images/anime/11/69161.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: かっぽ

@@ -1,5 +1,7 @@
 # Keizoku wa Maryoku nari: Munou Mahou ga Benri Mahou ni Shinka wo Togemashita
 
+![keizoku-wa-maryoku-nari-munou-mahou-ga-benri-mahou-ni-shinka-wo-togemashita](https://cdn.myanimelist.net/images/manga/3/227984.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 継続は魔力なり～無能魔法が便利魔法に進化を遂げました～
 -   **start-date**: 2018-11-10

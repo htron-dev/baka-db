@@ -1,5 +1,7 @@
 # Otenami Haiken!
 
+![otenami-haiken](https://cdn.myanimelist.net/images/manga/2/208572.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

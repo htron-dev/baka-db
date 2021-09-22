@@ -1,5 +1,7 @@
 # Dokkan Love
 
+![dokkan-love](https://cdn.myanimelist.net/images/manga/1/103947.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

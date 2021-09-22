@@ -1,5 +1,7 @@
 # Digital Devil Saga: Avatar Tuner - Shinen no Matou
 
+![digital-devil-saga-avatar-tuner-shinen-no-matou](https://cdn.myanimelist.net/images/manga/2/126649.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: DIGITAL DEVIL SAGA アバタール・チューナー　深淵の魔塔

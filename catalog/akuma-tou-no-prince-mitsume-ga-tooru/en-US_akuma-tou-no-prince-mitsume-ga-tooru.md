@@ -1,5 +1,7 @@
 # Akuma Tou no Prince: Mitsume ga Tooru
 
+![akuma-tou-no-prince-mitsume-ga-tooru](https://cdn.myanimelist.net/images/anime/5/52791.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 悪魔島のプリンス 三つ目がとおる

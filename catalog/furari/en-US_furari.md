@@ -1,5 +1,7 @@
 # Furari.
 
+![furari](https://cdn.myanimelist.net/images/manga/3/59221.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Ao Haru Ride OVA
 
+![ao-haru-ride-ova](https://cdn.myanimelist.net/images/anime/9/69517.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: アオハライド OAD

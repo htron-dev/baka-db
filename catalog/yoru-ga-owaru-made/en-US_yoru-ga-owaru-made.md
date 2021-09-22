@@ -1,5 +1,7 @@
 # Yoru ga Owaru made
 
+![yoru-ga-owaru-made](https://cdn.myanimelist.net/images/manga/2/227750.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

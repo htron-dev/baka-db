@@ -1,5 +1,7 @@
 # Shiroki Himekishi to Kuro no Senryakuka
 
+![shiroki-himekishi-to-kuro-no-senryakuka](https://cdn.myanimelist.net/images/manga/3/186732.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

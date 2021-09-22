@@ -1,5 +1,7 @@
 # White Day
 
+![white-day](https://cdn.myanimelist.net/images/manga/2/207600.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 

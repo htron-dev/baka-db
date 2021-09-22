@@ -1,5 +1,7 @@
 # Ultraman: Chou Toushi Gekiden - Suisei Senjin Tsuifon Toujou
 
+![ultraman-chou-toushi-gekiden-suisei-senjin-tsuifon-toujou](https://cdn.myanimelist.net/images/anime/4/47047.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ウルトラマン超闘士激伝 彗星戦神ツイフォン登場

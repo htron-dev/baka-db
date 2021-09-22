@@ -1,5 +1,7 @@
 # Suna no Meiro
 
+![suna-no-meiro](https://cdn.myanimelist.net/images/manga/1/107333.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

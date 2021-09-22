@@ -1,5 +1,7 @@
 # Kakute Unicorn wa Otome to Utau
 
+![kakute-unicorn-wa-otome-to-utau](https://cdn.myanimelist.net/images/manga/1/176747.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

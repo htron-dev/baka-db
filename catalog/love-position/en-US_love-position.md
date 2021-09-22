@@ -1,5 +1,7 @@
 # Love Position
 
+![love-position](https://cdn.myanimelist.net/images/manga/1/7778.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ラヴポジション

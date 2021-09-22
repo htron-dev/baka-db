@@ -1,5 +1,7 @@
 # Persia ga Suki!
 
+![persia-ga-suki](https://cdn.myanimelist.net/images/manga/1/13217.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **original-name**: ペルシャがすき！

@@ -1,5 +1,7 @@
 # Ranma ½: Chuugoku Nekonron Daikessen! Okite Yaburi no Gekitou-hen!!
 
+![ranma-chuugoku-nekonron-daikessen-okite-yaburi-no-gekitou-hen](https://cdn.myanimelist.net/images/anime/13/76023.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: らんま 1/2 中国寝崑崙大決戦! 掟やぶりの激闘編!!

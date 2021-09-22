@@ -1,5 +1,7 @@
 # Love Blossom Blooming Ago-Go
 
+![love-blossom-blooming-ago-go](https://cdn.myanimelist.net/images/manga/3/21042.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: LOVE ブロッサムブルーミング A GO-GO

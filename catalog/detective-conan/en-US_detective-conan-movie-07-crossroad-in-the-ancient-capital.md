@@ -1,5 +1,7 @@
 # Detective Conan Movie 07: Crossroad in the Ancient Capital
 
+![detective-conan-movie-07-crossroad-in-the-ancient-capital](https://cdn.myanimelist.net/images/anime/10/20984.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン 迷宮の十字路(クロスロード)

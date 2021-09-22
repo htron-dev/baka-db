@@ -1,5 +1,7 @@
 # Goryuu Kuni Monogatari: Koutei Heika no Neya Shinanyaku - Toumitsu no Shitone
 
+![goryuu-kuni-monogatari-koutei-heika-no-neya-shinanyaku-toumitsu-no-shitone](https://cdn.myanimelist.net/images/manga/3/192949.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 21

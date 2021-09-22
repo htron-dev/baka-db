@@ -1,5 +1,7 @@
 # Houkago no Charisma
 
+![houkago-no-charisma](https://cdn.myanimelist.net/images/manga/1/164907.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 72

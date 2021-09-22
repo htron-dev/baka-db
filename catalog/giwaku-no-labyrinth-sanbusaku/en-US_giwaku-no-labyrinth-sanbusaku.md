@@ -1,5 +1,7 @@
 # Giwaku no Labyrinth: Sanbusaku
 
+![giwaku-no-labyrinth-sanbusaku](https://cdn.myanimelist.net/images/manga/2/202415.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

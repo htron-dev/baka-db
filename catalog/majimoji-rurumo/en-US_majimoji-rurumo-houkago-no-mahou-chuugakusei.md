@@ -1,5 +1,7 @@
 # Majimoji Rurumo: Houkago no Mahou Chuugakusei
 
+![majimoji-rurumo-houkago-no-mahou-chuugakusei](https://cdn.myanimelist.net/images/manga/3/173980.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 62

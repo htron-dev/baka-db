@@ -1,5 +1,7 @@
 # 9-banme no Musashi: Red Scramble
 
+![9-banme-no-musashi-red-scramble](https://cdn.myanimelist.net/images/manga/2/147775.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 49

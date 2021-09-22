@@ -1,5 +1,7 @@
 # Kyou kara Zombie!
 
+![kyou-kara-zombie](https://cdn.myanimelist.net/images/manga/2/204410.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 24

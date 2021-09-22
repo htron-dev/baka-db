@@ -1,5 +1,7 @@
 # Yumi's Cells
 
+![yumis-cells](https://cdn.myanimelist.net/images/manga/1/207447.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 유미의 세포들
 -   **start-date**: 2015-04-01

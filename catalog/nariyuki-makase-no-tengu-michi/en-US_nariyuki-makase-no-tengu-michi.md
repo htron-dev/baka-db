@@ -1,5 +1,7 @@
 # Nariyuki Makase no Tengu Michi
 
+![nariyuki-makase-no-tengu-michi](https://cdn.myanimelist.net/images/manga/2/150441.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

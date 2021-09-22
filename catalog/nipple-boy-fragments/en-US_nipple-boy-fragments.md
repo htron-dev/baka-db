@@ -1,5 +1,7 @@
 # Nipple Boy Fragments
 
+![nipple-boy-fragments](https://cdn.myanimelist.net/images/manga/2/30018.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Barairo Sumireiro
 
+![barairo-sumireiro](https://cdn.myanimelist.net/images/manga/2/89469.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ばらいろすみれいろ

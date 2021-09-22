@@ -1,5 +1,7 @@
 # Datenshi no Hitsugi
 
+![datenshi-no-hitsugi](https://cdn.myanimelist.net/images/manga/1/73237.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

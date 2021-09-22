@@ -1,5 +1,7 @@
 # Honkai Impact 3 Animation: Final Lesson
 
+![honkai-impact-3-animation-final-lesson](https://cdn.myanimelist.net/images/anime/1214/108637.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **start-date**: 2019-02-20

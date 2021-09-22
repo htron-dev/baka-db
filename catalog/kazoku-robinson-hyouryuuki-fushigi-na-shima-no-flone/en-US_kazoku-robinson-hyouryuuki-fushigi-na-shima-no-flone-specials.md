@@ -1,5 +1,7 @@
 # Kazoku Robinson Hyouryuuki: Fushigi na Shima no Flone Specials
 
+![kazoku-robinson-hyouryuuki-fushigi-na-shima-no-flone-specials](https://cdn.myanimelist.net/images/anime/13/63533.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 世界名作劇場・完結版 家族ロビンソン漂流記 ふしぎな島のフローネ

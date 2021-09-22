@@ -1,5 +1,7 @@
 # Shining Hearts: Shiawase no Pan Specials
 
+![shining-hearts-shiawase-no-pan-specials](https://cdn.myanimelist.net/images/anime/13/42153.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: シャイニング・ハーツ 〜幸せのパン〜

@@ -1,5 +1,7 @@
 # Dungeon-gurashi no Motoyuusha the Comic
 
+![dungeon-gurashi-no-motoyuusha-the-comic](https://cdn.myanimelist.net/images/manga/3/234000.jpg)
+
 -   **type**: manga
 -   **original-name**: ダンジョン暮らしの元勇者 THE COMIC
 -   **start-date**: 2018-06-15

@@ -1,5 +1,7 @@
 # Fire◎Flower: Juunintoiro ni Kagayaita Hibi
 
+![fire◎-flower-juunintoiro-ni-kagayaita-hibi](https://cdn.myanimelist.net/images/manga/3/106277.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Mono suru Hito
 
+![mono-suru-hito](https://cdn.myanimelist.net/images/manga/1/219074.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

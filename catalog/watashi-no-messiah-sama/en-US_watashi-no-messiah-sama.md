@@ -1,5 +1,7 @@
 # Watashi no Messiah-sama
 
+![watashi-no-messiah-sama](https://cdn.myanimelist.net/images/manga/3/11109.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 64

@@ -1,5 +1,7 @@
 # -50kg no Cinderella
 
+![50-kg-no-cinderella](https://cdn.myanimelist.net/images/manga/1/238728.jpg)
+
 -   **type**: manga
 -   **original-name**: －50kg のシンデレラ
 -   **start-date**: 2018-01-19

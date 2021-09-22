@@ -1,5 +1,7 @@
 # Drag-On Dragoon: Story Side
 
+![drag-on-dragoon-story-side](https://cdn.myanimelist.net/images/manga/2/200915.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

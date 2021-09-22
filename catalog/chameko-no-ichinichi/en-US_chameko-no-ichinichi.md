@@ -1,5 +1,7 @@
 # Chameko no Ichinichi
 
+![chameko-no-ichinichi](https://cdn.myanimelist.net/images/anime/4/14604.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 茶目子の一日

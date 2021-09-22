@@ -1,5 +1,7 @@
 # Kemono no You ni Daiteyaru
 
+![kemono-no-you-ni-daiteyaru](https://cdn.myanimelist.net/images/manga/2/163354.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

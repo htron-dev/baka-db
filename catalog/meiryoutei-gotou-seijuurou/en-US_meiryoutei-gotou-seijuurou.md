@@ -1,5 +1,7 @@
 # Meiryoutei Gotou Seijuurou
 
+![meiryoutei-gotou-seijuurou](https://cdn.myanimelist.net/images/manga/3/227266.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 95

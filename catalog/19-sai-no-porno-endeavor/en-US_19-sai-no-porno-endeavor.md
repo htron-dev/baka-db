@@ -1,5 +1,7 @@
 # 19-sai no Porno Endeavor
 
+![19-sai-no-porno-endeavor](https://cdn.myanimelist.net/images/manga/2/226891.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

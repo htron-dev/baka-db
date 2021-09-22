@@ -1,5 +1,7 @@
 # Ochikazuki ni Naritai Miyazen-san
 
+![ochikazuki-ni-naritai-miyazen-san](https://cdn.myanimelist.net/images/manga/1/229340.jpg)
+
 -   **type**: manga
 -   **original-name**: お近づきになりたい宮膳さん
 -   **start-date**: 2020-02-22

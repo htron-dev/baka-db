@@ -1,5 +1,7 @@
 # Adachi to Shimamura
 
+![adachi-to-shimamura](https://cdn.myanimelist.net/images/manga/1/134265.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 安達としまむら
 -   **start-date**: 2012-10-10

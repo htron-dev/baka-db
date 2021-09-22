@@ -1,5 +1,7 @@
 # Clock
 
+![clock](https://cdn.myanimelist.net/images/anime/9/65733.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: CLOCK

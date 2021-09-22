@@ -1,5 +1,7 @@
 # Saiunkoku Monogatari
 
+![saiunkoku-monogatari](https://cdn.myanimelist.net/images/manga/3/21591.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 22
 -   **original-name**: 彩雲国物語

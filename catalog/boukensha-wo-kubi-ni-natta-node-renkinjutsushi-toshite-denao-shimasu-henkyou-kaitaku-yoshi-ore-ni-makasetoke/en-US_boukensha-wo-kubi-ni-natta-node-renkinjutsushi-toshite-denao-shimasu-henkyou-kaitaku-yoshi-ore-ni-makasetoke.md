@@ -1,5 +1,7 @@
 # Boukensha wo Kubi ni Natta node, Renkinjutsushi toshite Denao shimasu!: Henkyou Kaitaku? Yoshi, Ore ni Makasetoke!
 
+![boukensha-wo-kubi-ni-natta-node-renkinjutsushi-toshite-denao-shimasu-henkyou-kaitaku-yoshi-ore-ni-makasetoke](https://cdn.myanimelist.net/images/manga/1/235749.jpg)
+
 -   **type**: manga
 -   **original-name**: 冒険者をクビになったので、錬金術師として出直します！ ～辺境開拓？ よし、俺に任せとけ！
 -   **start-date**: 2019-05-29

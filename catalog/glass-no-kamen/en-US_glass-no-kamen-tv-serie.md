@@ -1,5 +1,7 @@
 # Glass no Kamen
 
+![glass-no-kamen](https://cdn.myanimelist.net/images/anime/6/39571.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 23
 -   **original-name**: ガラスの仮面

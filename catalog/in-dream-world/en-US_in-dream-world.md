@@ -1,5 +1,7 @@
 # In Dream World
 
+![in-dream-world](https://cdn.myanimelist.net/images/manga/4/7247.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 25

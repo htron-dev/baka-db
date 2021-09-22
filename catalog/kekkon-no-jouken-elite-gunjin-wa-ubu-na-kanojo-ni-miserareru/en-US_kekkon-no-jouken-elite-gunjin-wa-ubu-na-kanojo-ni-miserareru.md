@@ -1,5 +1,7 @@
 # Kekkon no Jouken: Elite Gunjin wa Ubu na Kanojo ni Miserareru
 
+![kekkon-no-jouken-elite-gunjin-wa-ubu-na-kanojo-ni-miserareru](https://cdn.myanimelist.net/images/manga/3/183007.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 1

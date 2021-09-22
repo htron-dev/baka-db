@@ -1,5 +1,7 @@
 # Boss no Tawamure
 
+![boss-no-tawamure](https://cdn.myanimelist.net/images/manga/3/225651.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ボスのたわむれ

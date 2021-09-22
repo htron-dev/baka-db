@@ -1,5 +1,7 @@
 # Okutsuki Mura no Yukaisou
 
+![okutsuki-mura-no-yukaisou](https://cdn.myanimelist.net/images/manga/2/156840.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

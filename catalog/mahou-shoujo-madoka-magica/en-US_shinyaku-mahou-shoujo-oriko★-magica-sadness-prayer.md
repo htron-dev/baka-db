@@ -1,5 +1,7 @@
 # [Shinyaku] Mahou Shoujo Oriko★Magica: Sadness Prayer
 
+![shinyaku-mahou-shoujo-oriko★-magica-sadness-prayer](https://cdn.myanimelist.net/images/manga/2/159418.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

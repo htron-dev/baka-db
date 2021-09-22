@@ -1,5 +1,7 @@
 # Hortensia Saga
 
+![hortensia-saga](https://cdn.myanimelist.net/images/anime/3/85276.jpg)
+
 -   **type**: ona
 -   **episodes**: 7
 -   **original-name**: オルタンシア・サーガ

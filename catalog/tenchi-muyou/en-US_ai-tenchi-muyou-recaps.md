@@ -1,5 +1,7 @@
 # Ai Tenchi Muyou! Recaps
 
+![ai-tenchi-muyou-recaps](https://cdn.myanimelist.net/images/anime/3/70135.jpg)
+
 -   **type**: special
 -   **episodes**: 10
 -   **original-name**: 愛・天地無用! 振り返り

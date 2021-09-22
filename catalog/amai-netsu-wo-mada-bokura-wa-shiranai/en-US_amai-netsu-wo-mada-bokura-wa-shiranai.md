@@ -1,5 +1,7 @@
 # Amai Netsu wo, Mada Bokura wa Shiranai
 
+![amai-netsu-wo-mada-bokura-wa-shiranai](https://cdn.myanimelist.net/images/manga/2/142237.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

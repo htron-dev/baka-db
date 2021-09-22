@@ -1,5 +1,7 @@
 # Seisenki Elna Saga
 
+![seisenki-elna-saga](https://cdn.myanimelist.net/images/manga/4/75549.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **original-name**: 聖戦記エルナサーガ

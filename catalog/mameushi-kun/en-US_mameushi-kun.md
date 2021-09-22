@@ -1,5 +1,7 @@
 # Mameushi-kun
 
+![mameushi-kun](https://cdn.myanimelist.net/images/anime/2/34397.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: まめうしくん

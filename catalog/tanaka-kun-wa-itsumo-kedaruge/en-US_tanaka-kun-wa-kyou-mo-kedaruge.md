@@ -1,5 +1,7 @@
 # Tanaka-kun wa Kyou mo Kedaruge
 
+![tanaka-kun-wa-kyou-mo-kedaruge](https://cdn.myanimelist.net/images/anime/3/79178.jpg)
+
 -   **type**: special
 -   **episodes**: 35
 -   **original-name**: 田中くんは今日もけだるげ

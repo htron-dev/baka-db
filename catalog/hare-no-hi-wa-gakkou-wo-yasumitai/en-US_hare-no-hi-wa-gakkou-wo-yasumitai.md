@@ -1,5 +1,7 @@
 # Hare no Hi wa Gakkou wo Yasumitai!
 
+![hare-no-hi-wa-gakkou-wo-yasumitai](https://cdn.myanimelist.net/images/manga/3/123009.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ハレの日は学校を休みたい!

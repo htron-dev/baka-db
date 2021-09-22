@@ -1,5 +1,7 @@
 # Momoiro Daydream
 
+![momoiro-daydream](https://cdn.myanimelist.net/images/manga/3/119305.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

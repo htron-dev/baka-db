@@ -1,5 +1,7 @@
 # Shin Senkan Yamato
 
+![shin-senkan-yamato](https://cdn.myanimelist.net/images/manga/2/61031.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 新戦艦大和

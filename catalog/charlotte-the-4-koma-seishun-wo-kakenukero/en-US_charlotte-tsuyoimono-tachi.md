@@ -1,5 +1,7 @@
 # Charlotte: Tsuyoimono-tachi
 
+![charlotte-tsuyoimono-tachi](https://cdn.myanimelist.net/images/anime/1709/98068.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Charlotte（シャーロット）特別篇 強い者たち
@@ -25,4 +27,4 @@ Takehito Kumagami's clairvoyance leads his group of friends to another child wit
 -   [My Anime list](https://myanimelist.net/anime/31553/Charlotte__Tsuyoimono-tachi)
 -   [Official Site](http://www.charlotte-anime.jp/bd-dvd/07.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10997)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Charlotte_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Charlotte_%28anime%29)

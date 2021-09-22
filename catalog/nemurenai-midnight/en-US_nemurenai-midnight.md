@@ -1,5 +1,7 @@
 # Nemurenai! Midnight
 
+![nemurenai-midnight](https://cdn.myanimelist.net/images/manga/2/15211.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 眠れない！ミッドナイト

@@ -1,5 +1,7 @@
 # Atama Yama
 
+![atama-yama](https://cdn.myanimelist.net/images/anime/8/18494.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 頭山

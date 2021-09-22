@@ -1,5 +1,7 @@
 # Love Wandering
 
+![love-wandering](https://cdn.myanimelist.net/images/manga/2/193095.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 15

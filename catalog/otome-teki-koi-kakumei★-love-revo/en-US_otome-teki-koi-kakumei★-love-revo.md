@@ -1,5 +1,7 @@
 # Otome-teki Koi Kakumei★Love Revo!!
 
+![otome-teki-koi-kakumei★-love-revo](https://cdn.myanimelist.net/images/manga/1/126277.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

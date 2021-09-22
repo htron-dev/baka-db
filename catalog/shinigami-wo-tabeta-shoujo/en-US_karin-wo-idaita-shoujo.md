@@ -1,5 +1,7 @@
 # Karin wo Idaita Shoujo
 
+![karin-wo-idaita-shoujo](https://cdn.myanimelist.net/images/manga/2/176441.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 48

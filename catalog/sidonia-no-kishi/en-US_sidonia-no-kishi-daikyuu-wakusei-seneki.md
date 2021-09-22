@@ -1,5 +1,7 @@
 # Sidonia no Kishi: Daikyuu Wakusei Seneki
 
+![sidonia-no-kishi-daikyuu-wakusei-seneki](https://cdn.myanimelist.net/images/anime/11/72712.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: シドニアの騎士 第九惑星戦役

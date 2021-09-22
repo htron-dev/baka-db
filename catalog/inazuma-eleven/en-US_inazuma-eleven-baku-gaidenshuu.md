@@ -1,5 +1,7 @@
 # Inazuma Eleven: Baku Gaidenshuu
 
+![inazuma-eleven-baku-gaidenshuu](https://cdn.myanimelist.net/images/manga/1/107561.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

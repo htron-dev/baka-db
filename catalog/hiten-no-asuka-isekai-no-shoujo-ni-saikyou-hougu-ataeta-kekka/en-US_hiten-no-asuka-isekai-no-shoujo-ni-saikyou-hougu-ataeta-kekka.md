@@ -1,5 +1,7 @@
 # Hiten no Asuka: Isekai no Shoujo ni Saikyou Hougu Ataeta Kekka
 
+![hiten-no-asuka-isekai-no-shoujo-ni-saikyou-hougu-ataeta-kekka](https://cdn.myanimelist.net/images/manga/1/201068.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 緋天のアスカ ～異世界の少女に最強宝具与えた結果～
 -   **start-date**: 2016-04-12

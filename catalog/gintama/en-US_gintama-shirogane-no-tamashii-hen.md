@@ -1,5 +1,7 @@
 # Gintama.: Shirogane no Tamashii-hen
 
+![gintama-shirogane-no-tamashii-hen](https://cdn.myanimelist.net/images/anime/12/89603.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 銀魂. 銀ノ魂篇

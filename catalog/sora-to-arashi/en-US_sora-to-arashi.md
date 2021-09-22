@@ -1,5 +1,7 @@
 # Sora to Arashi
 
+![sora-to-arashi](https://cdn.myanimelist.net/images/manga/2/169458.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ソラとアラシ

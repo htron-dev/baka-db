@@ -1,5 +1,7 @@
 # Shinrigaku de Isekai Harem Kenkokuki
 
+![shinrigaku-de-isekai-harem-kenkokuki](https://cdn.myanimelist.net/images/manga/3/235452.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

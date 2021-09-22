@@ -1,5 +1,7 @@
 # City Hunter: Hyakuman Dollar no Inbou
 
+![city-hunter-hyakuman-dollar-no-inbou](https://cdn.myanimelist.net/images/anime/4/3025.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: シティーハンター 百万ドルの陰謀

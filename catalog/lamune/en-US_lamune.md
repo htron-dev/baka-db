@@ -1,5 +1,7 @@
 # Lamune
 
+![lamune](https://cdn.myanimelist.net/images/anime/4/15900.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ラムネ

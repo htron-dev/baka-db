@@ -1,5 +1,7 @@
 # Kimagure Orange☆Road: Shounen Jump Special
 
+![kimagure-orange☆-road-shounen-jump-special](https://cdn.myanimelist.net/images/anime/1160/94283.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: きまぐれオレンジ ☆ ロード 少年ジャンプ・スペシャル

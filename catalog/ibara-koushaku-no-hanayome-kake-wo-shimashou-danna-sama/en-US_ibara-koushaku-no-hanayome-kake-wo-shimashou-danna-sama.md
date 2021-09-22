@@ -1,5 +1,7 @@
 # Ibara Koushaku no Hanayome: Kake wo Shimashou, Danna-sama
 
+![ibara-koushaku-no-hanayome-kake-wo-shimashou-danna-sama](https://cdn.myanimelist.net/images/manga/1/165891.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 棘公爵の花嫁 賭けをしましょう、旦那様

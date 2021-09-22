@@ -1,5 +1,7 @@
 # Otonari-san to Hajimeru Setsuyaku Seikatsu.: Denkidai no Tame ni Issho no Heya de Sugoshimasen ka?
 
+![otonari-san-to-hajimeru-setsuyaku-seikatsu-denkidai-no-tame-ni-issho-no-heya-de-sugoshimasen-ka](https://cdn.myanimelist.net/images/manga/3/241692.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: お隣さんと始める節約生活。 電気代のために一緒の部屋で過ごしませんか？

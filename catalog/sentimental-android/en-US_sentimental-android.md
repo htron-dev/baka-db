@@ -1,5 +1,7 @@
 # Sentimental\*Android
 
+![sentimental-android](https://cdn.myanimelist.net/images/manga/3/81300.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: センチメンタル\*アンドロイド

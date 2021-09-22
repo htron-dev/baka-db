@@ -1,5 +1,7 @@
 # Toppamono Taiyouden
 
+![toppamono-taiyouden](https://cdn.myanimelist.net/images/manga/1/159654.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 突破者太陽傳

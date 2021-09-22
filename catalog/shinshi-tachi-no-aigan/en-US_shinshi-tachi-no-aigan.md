@@ -1,5 +1,7 @@
 # Shinshi-tachi no Aigan
 
+![shinshi-tachi-no-aigan](https://cdn.myanimelist.net/images/manga/1/184972.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

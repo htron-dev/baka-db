@@ -1,5 +1,7 @@
 # Zhan Shou Zhi Ren
 
+![zhan-shou-zhi-ren](https://cdn.myanimelist.net/images/anime/1476/95757.jpg)
+
 -   **type**: ona
 -   **episodes**: 18
 -   **original-name**: 斩兽之刃

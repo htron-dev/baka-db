@@ -1,5 +1,7 @@
 # Host-man
 
+![host-man](https://cdn.myanimelist.net/images/manga/3/150818.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 45

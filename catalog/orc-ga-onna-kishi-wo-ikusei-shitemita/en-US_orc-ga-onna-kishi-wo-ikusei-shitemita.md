@@ -1,5 +1,7 @@
 # Orc ga Onna Kishi wo Ikusei shitemita
 
+![orc-ga-onna-kishi-wo-ikusei-shitemita](https://cdn.myanimelist.net/images/manga/3/194469.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 68

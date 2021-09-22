@@ -1,5 +1,7 @@
 # Fushigi Tantei Dan
 
+![fushigi-tantei-dan](https://cdn.myanimelist.net/images/manga/3/31002.jpg)
+
 -   **type**: manga
 -   **original-name**: ふしぎ探偵団
 -   **start-date**: 1988-01-19

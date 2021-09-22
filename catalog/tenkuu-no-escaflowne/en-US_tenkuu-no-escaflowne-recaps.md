@@ -1,5 +1,7 @@
 # Tenkuu no Escaflowne Recaps
 
+![tenkuu-no-escaflowne-recaps](https://cdn.myanimelist.net/images/anime/1921/99257.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: 天空のエスカフローネ BD-BOX 特別編集版

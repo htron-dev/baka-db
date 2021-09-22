@@ -1,5 +1,7 @@
 # Ore no Ko desu ka?
 
+![ore-no-ko-desu-ka](https://cdn.myanimelist.net/images/manga/1/202145.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 16

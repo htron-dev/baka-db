@@ -1,5 +1,7 @@
 # Hello Cocomong
 
+![hello-cocomong](https://cdn.myanimelist.net/images/anime/1687/93096.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 헬로 코코몽

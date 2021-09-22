@@ -1,5 +1,7 @@
 # Hotel Africa
 
+![hotel-africa](https://cdn.myanimelist.net/images/manga/3/5429.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 非洲大饭店
 

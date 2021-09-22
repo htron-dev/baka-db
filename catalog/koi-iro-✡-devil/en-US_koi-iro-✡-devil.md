@@ -1,5 +1,7 @@
 # Koi-iro✡Devil
 
+![koi-iro-✡-devil](https://cdn.myanimelist.net/images/manga/2/166411.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 23

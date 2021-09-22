@@ -1,5 +1,7 @@
 # Sekai Seifuku: Bouryaku no Zvezda - Shin Zvezda Daisakusen
 
+![sekai-seifuku-bouryaku-no-zvezda-shin-zvezda-daisakusen](https://cdn.myanimelist.net/images/anime/3/72498.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 世界征服～謀略のズヴィズダー～ 新・ズヴィズダー大作戦

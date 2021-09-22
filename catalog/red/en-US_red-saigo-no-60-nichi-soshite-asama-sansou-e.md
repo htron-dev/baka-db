@@ -1,5 +1,7 @@
 # Red - Saigo no 60-nichi Soshite Asama Sansou e
 
+![red-saigo-no-60-nichi-soshite-asama-sansou-e](https://cdn.myanimelist.net/images/manga/1/225802.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 59

@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Himegimi-tachi no Inbi na Shinshitsu
 
+![manga-grimm-douwa-himegimi-tachi-no-inbi-na-shinshitsu](https://cdn.myanimelist.net/images/manga/3/142899.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

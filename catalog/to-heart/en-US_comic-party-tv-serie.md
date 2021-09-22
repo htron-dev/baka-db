@@ -1,5 +1,7 @@
 # Comic Party
 
+![comic-party](https://cdn.myanimelist.net/images/anime/8/75455.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: こみっくパーティー

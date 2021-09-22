@@ -1,9 +1,10 @@
 # Chengyu Donghua Lang
 
+![chengyu-donghua-lang](https://cdn.myanimelist.net/images/anime/4/27298.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 180
 -   **original-name**: 成語動畫廊
-
 -   **rating**: PG - Children
 
 ## Tags

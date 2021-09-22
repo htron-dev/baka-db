@@ -1,5 +1,7 @@
 # Boys Be... 2nd Season
 
+![boys-be-2nd-season](https://cdn.myanimelist.net/images/manga/3/169855.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 157

@@ -1,5 +1,7 @@
 # Host Club Sengoku
 
+![host-club-sengoku](https://cdn.myanimelist.net/images/manga/1/164101.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ホストクラブ SENGOKU

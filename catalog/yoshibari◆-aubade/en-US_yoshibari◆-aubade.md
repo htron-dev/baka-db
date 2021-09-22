@@ -1,5 +1,7 @@
 # Yoshibari◆Aubade
 
+![yoshibari◆-aubade](https://cdn.myanimelist.net/images/manga/3/203178.jpg)
+
 -   **type**: manga
 -   **original-name**: 夜縛 ◆ 夜明曲〈オーバード〉
 -   **start-date**: 2017-05-27

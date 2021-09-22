@@ -1,5 +1,7 @@
 # Uchouten Kazoku 2
 
+![uchouten-kazoku-2](https://cdn.myanimelist.net/images/anime/8/85354.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 有頂天家族 2

@@ -1,5 +1,7 @@
 # Okashi na Sabaku no Suna to Manu
 
+![okashi-na-sabaku-no-suna-to-manu](https://cdn.myanimelist.net/images/anime/1208/111257.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: おかしなさばくのスナとマヌ

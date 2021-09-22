@@ -1,5 +1,7 @@
 # Kowarekake no Orgel
 
+![kowarekake-no-orgel](https://cdn.myanimelist.net/images/anime/2/25552.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: こわれかけのオルゴール

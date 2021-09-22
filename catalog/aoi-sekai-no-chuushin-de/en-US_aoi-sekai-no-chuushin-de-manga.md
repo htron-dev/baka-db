@@ -1,5 +1,7 @@
 # Aoi Sekai no Chuushin de
 
+![aoi-sekai-no-chuushin-de](https://cdn.myanimelist.net/images/manga/3/193358.jpg)
+
 -   **type**: manga
 -   **original-name**: 蒼い世界の中心で
 

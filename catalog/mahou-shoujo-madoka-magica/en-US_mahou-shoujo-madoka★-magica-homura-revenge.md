@@ -1,5 +1,7 @@
 # Mahou Shoujo Madoka★Magica: Homura Revenge!
 
+![mahou-shoujo-madoka★-magica-homura-revenge](https://cdn.myanimelist.net/images/manga/2/149731.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

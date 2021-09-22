@@ -1,5 +1,7 @@
 # Maken-Ki! Madou Kenkei Kikou Katsudou Houkokusho
 
+![maken-ki-madou-kenkei-kikou-katsudou-houkokusho](https://cdn.myanimelist.net/images/manga/2/162470.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

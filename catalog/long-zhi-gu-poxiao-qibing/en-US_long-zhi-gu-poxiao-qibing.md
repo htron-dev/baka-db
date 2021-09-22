@@ -1,5 +1,7 @@
 # Long Zhi Gu: Poxiao Qibing
 
+![long-zhi-gu-poxiao-qibing](https://cdn.myanimelist.net/images/anime/1356/112373.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 龙之谷 破晓奇兵

@@ -1,5 +1,7 @@
 # Boku ga Ojousama no Pet ni Natta Wake
 
+![boku-ga-ojousama-no-pet-ni-natta-wake](https://cdn.myanimelist.net/images/manga/1/128303.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

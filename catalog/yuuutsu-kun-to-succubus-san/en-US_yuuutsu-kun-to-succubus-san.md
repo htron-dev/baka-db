@@ -1,5 +1,7 @@
 # Yuuutsu-kun to Succubus-san
 
+![yuuutsu-kun-to-succubus-san](https://cdn.myanimelist.net/images/manga/3/196155.jpg)
+
 -   **type**: manga
 -   **original-name**: 憂鬱くんとサキュバスさん
 -   **start-date**: 2015-09-05

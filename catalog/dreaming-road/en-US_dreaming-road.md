@@ -1,5 +1,7 @@
 # Dreaming Road
 
+![dreaming-road](https://cdn.myanimelist.net/images/manga/2/14488.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Dreaming Road (ドリーミングロード)

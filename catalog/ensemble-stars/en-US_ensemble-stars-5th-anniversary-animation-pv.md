@@ -1,5 +1,7 @@
 # Ensemble Stars!! 5th Anniversary Animation PV
 
+![ensemble-stars-5th-anniversary-animation-pv](https://cdn.myanimelist.net/images/anime/1873/115170.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: あんさんぶるスターズ！！ 5th Anniversary ANIMATION PV

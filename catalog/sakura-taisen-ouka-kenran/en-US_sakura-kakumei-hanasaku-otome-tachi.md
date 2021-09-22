@@ -1,5 +1,7 @@
 # Sakura Kakumei: Hanasaku Otome-tachi
 
+![sakura-kakumei-hanasaku-otome-tachi](https://cdn.myanimelist.net/images/anime/1651/110195.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: サクラ革命 ～華咲く乙女たち～

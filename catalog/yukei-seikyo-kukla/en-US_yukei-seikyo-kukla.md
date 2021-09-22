@@ -1,5 +1,7 @@
 # Yukei Seikyo Kukla
 
+![yukei-seikyo-kukla](https://cdn.myanimelist.net/images/manga/3/17077.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 幽形聖境クークラ

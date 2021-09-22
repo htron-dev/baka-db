@@ -1,5 +1,7 @@
 # Kikaijikake no Ai
 
+![kikaijikake-no-ai](https://cdn.myanimelist.net/images/manga/2/168059.jpg)
+
 -   **type**: manga
 -   **original-name**: 機械仕掛けの愛
 -   **start-date**: 2010-09-17

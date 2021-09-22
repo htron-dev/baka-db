@@ -1,5 +1,7 @@
 # Scoopers
 
+![scoopers](https://cdn.myanimelist.net/images/anime/10/49239.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: スクーパーズ

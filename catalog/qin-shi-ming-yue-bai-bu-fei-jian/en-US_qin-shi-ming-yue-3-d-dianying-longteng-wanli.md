@@ -1,5 +1,7 @@
 # Qin Shi Ming Yue 3D: Dianying Longteng Wanli
 
+![qin-shi-ming-yue-3-d-dianying-longteng-wanli](https://cdn.myanimelist.net/images/anime/3/71788.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 秦时明月 3D 电影龙腾万里

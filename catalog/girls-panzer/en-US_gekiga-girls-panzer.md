@@ -1,5 +1,7 @@
 # Gekiga Girls & Panzer
 
+![gekiga-girls-panzer](https://cdn.myanimelist.net/images/manga/3/246642.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 18

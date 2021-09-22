@@ -1,5 +1,7 @@
 # Kimi shika Iranai
 
+![kimi-shika-iranai](https://cdn.myanimelist.net/images/manga/1/201079.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

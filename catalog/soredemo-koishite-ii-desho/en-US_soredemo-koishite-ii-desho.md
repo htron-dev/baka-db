@@ -1,5 +1,7 @@
 # Soredemo Koishite Ii desho
 
+![soredemo-koishite-ii-desho](https://cdn.myanimelist.net/images/manga/2/63159.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Ball yo Doko e Yuku
 
+![ball-yo-doko-e-yuku](https://cdn.myanimelist.net/images/anime/8/72094.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ボールよどこへゆく

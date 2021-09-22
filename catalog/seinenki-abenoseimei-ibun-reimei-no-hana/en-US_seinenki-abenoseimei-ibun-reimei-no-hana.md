@@ -1,5 +1,7 @@
 # Seinenki Abenoseimei Ibun: Reimei No Hana
 
+![seinenki-abenoseimei-ibun-reimei-no-hana](https://cdn.myanimelist.net/images/manga/4/38045.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 青年期安倍晴明異聞 黎明の花

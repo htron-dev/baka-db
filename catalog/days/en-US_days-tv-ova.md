@@ -1,5 +1,7 @@
 # Days (TV) OVA
 
+![days-tv-ova](https://cdn.myanimelist.net/images/anime/1752/96673.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: DAYS

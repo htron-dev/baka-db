@@ -1,5 +1,7 @@
 # Emblem Take 2
 
+![emblem-take-2](https://cdn.myanimelist.net/images/anime/7/27231.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 代紋(エンブレム) TAKE2

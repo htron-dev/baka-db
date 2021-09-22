@@ -1,5 +1,7 @@
 # Settei 1000 Kyoubou Kishu Settei Kouryaku-hen
 
+![settei-1000-kyoubou-kishu-settei-kouryaku-hen](https://cdn.myanimelist.net/images/manga/1/66905.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 設定 1000 凶暴機種設定攻略編

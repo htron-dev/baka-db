@@ -1,5 +1,7 @@
 # Poor Poor Lips
 
+![poor-poor-lips](https://cdn.myanimelist.net/images/manga/3/33944.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 75

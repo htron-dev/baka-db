@@ -1,5 +1,7 @@
 # Mosaren Bugi
 
+![mosaren-bugi](https://cdn.myanimelist.net/images/manga/3/131977.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 猛者連ブギ

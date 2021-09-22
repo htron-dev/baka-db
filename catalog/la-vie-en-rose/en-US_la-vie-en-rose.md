@@ -1,5 +1,7 @@
 # La vie en rose
 
+![la-vie-en-rose](https://cdn.myanimelist.net/images/manga/3/10186.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ラヴィアンローズ

@@ -1,5 +1,7 @@
 # Yawara!: Zutto Kimi no Koto ga...
 
+![yawara-zutto-kimi-no-koto-ga](https://cdn.myanimelist.net/images/anime/1/2125.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: YAWARA! Special ずっと君のことが…。

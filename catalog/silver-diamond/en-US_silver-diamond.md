@@ -1,5 +1,7 @@
 # Silver Diamond
 
+![silver-diamond](https://cdn.myanimelist.net/images/manga/3/190777.jpg)
+
 -   **type**: manga
 -   **volumes**: 27
 -   **chapters**: 82

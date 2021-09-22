@@ -1,5 +1,7 @@
 # Tatoe Toraware no Koi demo
 
+![tatoe-toraware-no-koi-demo](https://cdn.myanimelist.net/images/manga/5/146665.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

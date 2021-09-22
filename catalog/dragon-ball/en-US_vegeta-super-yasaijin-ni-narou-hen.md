@@ -1,5 +1,7 @@
 # Vegeta Super Yasaijin ni Narou-hen
 
+![vegeta-super-yasaijin-ni-narou-hen](https://cdn.myanimelist.net/images/anime/1812/113854.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ベジータ スーパーヤサイ人になろう 篇

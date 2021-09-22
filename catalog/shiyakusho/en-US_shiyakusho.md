@@ -1,5 +1,7 @@
 # Shiyakusho
 
+![shiyakusho](https://cdn.myanimelist.net/images/manga/1/123553.jpg)
+
 -   **type**: manga
 -   **original-name**: 死役所
 -   **start-date**: 2013-09-21

@@ -1,5 +1,7 @@
 # Natsu no Suisei: Nishijima Daisuke Comics Mishuuroku Sakuhinshuu
 
+![natsu-no-suisei-nishijima-daisuke-comics-mishuuroku-sakuhinshuu](https://cdn.myanimelist.net/images/manga/1/230452.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

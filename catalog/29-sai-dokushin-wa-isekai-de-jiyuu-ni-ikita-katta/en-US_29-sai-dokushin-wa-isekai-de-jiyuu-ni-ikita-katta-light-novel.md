@@ -1,5 +1,7 @@
 # 29-sai Dokushin wa Isekai de Jiyuu ni Ikita......katta.
 
+![29-sai-dokushin-wa-isekai-de-jiyuu-ni-ikita-katta](https://cdn.myanimelist.net/images/manga/3/175389.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 74

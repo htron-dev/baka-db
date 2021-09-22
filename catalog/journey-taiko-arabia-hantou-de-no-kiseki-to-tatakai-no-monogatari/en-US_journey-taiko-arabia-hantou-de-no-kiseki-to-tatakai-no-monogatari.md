@@ -1,5 +1,7 @@
 # Journey: Taiko Arabia Hantou de no Kiseki to Tatakai no Monogatari
 
+![journey-taiko-arabia-hantou-de-no-kiseki-to-tatakai-no-monogatari](https://cdn.myanimelist.net/images/anime/1660/114383.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ジャーニー 太古アラビア半島での奇跡と戦いの物語
@@ -21,4 +23,4 @@ The Journey is a Japanese–Saudi Arabian animated film co-produced by Toei Anim
 
 -   [My Anime list](https://myanimelist.net/anime/48612/Journey__Taiko_Arabia_Hantou_de_no_Kiseki_to_Tatakai_no_Monogatari)
 -   [Official Site](https://journey.toeiad.co.jp/)
--   [Wikipedia](<https://en.wikipedia.org/wiki/The_Journey_(2021_film)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/The_Journey_%282021_film%29)

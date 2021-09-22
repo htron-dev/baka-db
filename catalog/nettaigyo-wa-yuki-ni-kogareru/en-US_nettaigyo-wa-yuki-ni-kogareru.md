@@ -1,5 +1,7 @@
 # Nettaigyo wa Yuki ni Kogareru
 
+![nettaigyo-wa-yuki-ni-kogareru](https://cdn.myanimelist.net/images/manga/2/248056.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 34

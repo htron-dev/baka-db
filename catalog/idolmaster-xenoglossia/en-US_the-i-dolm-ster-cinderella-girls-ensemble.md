@@ -1,5 +1,7 @@
 # The iDOLM@STER Cinderella Girls: Ensemble!
 
+![the-i-dolm-ster-cinderella-girls-ensemble](https://cdn.myanimelist.net/images/manga/1/120157.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 74

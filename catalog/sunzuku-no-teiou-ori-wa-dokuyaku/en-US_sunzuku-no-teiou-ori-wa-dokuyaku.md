@@ -1,5 +1,7 @@
 # Sunzuku no Teiou Ori wa Dokuyaku
 
+![sunzuku-no-teiou-ori-wa-dokuyaku](https://cdn.myanimelist.net/images/manga/1/80271.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: スンズクの帝王オリは毒薬

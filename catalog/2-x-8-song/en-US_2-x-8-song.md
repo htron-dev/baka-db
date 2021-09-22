@@ -1,5 +1,7 @@
 # 2x8 Song!
 
+![2-x-8-song](https://cdn.myanimelist.net/images/manga/1/152365.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 -   **original-name**: 2x8 SONG!

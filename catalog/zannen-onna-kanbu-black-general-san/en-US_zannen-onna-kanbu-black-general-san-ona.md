@@ -1,5 +1,7 @@
 # Zannen Onna Kanbu Black General-san
 
+![zannen-onna-kanbu-black-general-san](https://cdn.myanimelist.net/images/anime/8/87131.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 残念女幹部ブラックジェネラルさん

@@ -1,5 +1,7 @@
 # Hoshi to Kuzu: Don't Worry, Be Happy!
 
+![hoshi-to-kuzu-dont-worry-be-happy](https://cdn.myanimelist.net/images/manga/1/180422.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

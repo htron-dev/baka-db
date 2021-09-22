@@ -1,5 +1,7 @@
 # Kidou Keisatsu Patlabor
 
+![kidou-keisatsu-patlabor](https://cdn.myanimelist.net/images/anime/11/24151.jpg)
+
 -   **type**: ova
 -   **episodes**: 7
 -   **original-name**: 機動警察パトレイバー

@@ -1,5 +1,7 @@
 # Sidonia no Kishi Zenjitsudan: Dai-4-ji Gauna Boueisen
 
+![sidonia-no-kishi-zenjitsudan-dai-4-ji-gauna-boueisen](https://cdn.myanimelist.net/images/manga/3/171762.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: シドニアの騎士 前日譚 第四次奇居子防衛戦

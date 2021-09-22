@@ -1,5 +1,7 @@
 # Koihime†Musou: Gunyuu, Seitoukaichou no Za wo Neratte Aiarasou no Koto - Ato, Porori mo Aru yo!
 
+![koihime-musou-gunyuu-seitoukaichou-no-za-wo-neratte-aiarasou-no-koto-ato-porori-mo-aru-yo](https://cdn.myanimelist.net/images/anime/8/22586.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 恋姫†無双 群雄, 生徒会長の座を狙って相争うのこと ~あと, ポロリもあるよ!~

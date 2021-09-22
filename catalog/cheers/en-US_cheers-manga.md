@@ -1,5 +1,7 @@
 # Cheers!
 
+![cheers](https://cdn.myanimelist.net/images/manga/3/216123.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

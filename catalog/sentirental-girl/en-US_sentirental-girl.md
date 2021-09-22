@@ -1,5 +1,7 @@
 # Sentirental Girl
 
+![sentirental-girl](https://cdn.myanimelist.net/images/manga/2/187253.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 56

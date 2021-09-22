@@ -1,5 +1,7 @@
 # UFO Princess Valkyrie: Recap
 
+![ufo-princess-valkyrie-recap](https://cdn.myanimelist.net/images/anime/3/31897.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 円盤皇女ワるきゅーレ

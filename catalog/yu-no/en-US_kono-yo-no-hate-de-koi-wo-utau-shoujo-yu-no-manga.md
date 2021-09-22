@@ -1,5 +1,7 @@
 # Kono Yo no Hate de Koi wo Utau Shoujo Yu-no
 
+![kono-yo-no-hate-de-koi-wo-utau-shoujo-yu-no](https://cdn.myanimelist.net/images/manga/2/201801.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

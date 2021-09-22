@@ -1,5 +1,7 @@
 # Koi wa Fushigi
 
+![koi-wa-fushigi](https://cdn.myanimelist.net/images/manga/3/17764.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

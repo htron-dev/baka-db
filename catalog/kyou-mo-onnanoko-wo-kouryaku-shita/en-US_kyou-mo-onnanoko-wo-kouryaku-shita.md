@@ -1,5 +1,7 @@
 # Kyou mo Onnanoko wo Kouryaku shita.
 
+![kyou-mo-onnanoko-wo-kouryaku-shita](https://cdn.myanimelist.net/images/manga/1/194110.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 34

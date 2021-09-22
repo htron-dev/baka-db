@@ -1,5 +1,7 @@
 # Ore no Kouhai ga Konnani Kawaii Wake ga Nai
 
+![ore-no-kouhai-ga-konnani-kawaii-wake-ga-nai](https://cdn.myanimelist.net/images/manga/3/69829.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 49

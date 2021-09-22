@@ -1,5 +1,7 @@
 # Super Danganronpa 2: Zetsubouteki Ingaritsu no Naka no Souda Kazuichi
 
+![super-danganronpa-2-zetsubouteki-ingaritsu-no-naka-no-souda-kazuichi](https://cdn.myanimelist.net/images/manga/1/221572.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

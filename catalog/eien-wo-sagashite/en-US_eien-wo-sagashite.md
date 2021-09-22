@@ -1,5 +1,7 @@
 # Eien wo Sagashite
 
+![eien-wo-sagashite](https://cdn.myanimelist.net/images/manga/1/64845.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 永遠をさがして

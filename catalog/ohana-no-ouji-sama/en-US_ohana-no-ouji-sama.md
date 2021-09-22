@@ -1,5 +1,7 @@
 # Ohana no Ouji-sama
 
+![ohana-no-ouji-sama](https://cdn.myanimelist.net/images/manga/2/7190.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

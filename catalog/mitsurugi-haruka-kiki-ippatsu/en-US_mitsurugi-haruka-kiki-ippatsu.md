@@ -1,5 +1,7 @@
 # Mitsurugi Haruka Kiki Ippatsu!
 
+![mitsurugi-haruka-kiki-ippatsu](https://cdn.myanimelist.net/images/manga/1/9195.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

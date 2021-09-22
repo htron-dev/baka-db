@@ -1,5 +1,7 @@
 # 3x3 Eyes: Genjuu no Mori no Sounansha
 
+![3-x-3-eyes-genjuu-no-mori-no-sounansha](https://cdn.myanimelist.net/images/manga/1/159326.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 87

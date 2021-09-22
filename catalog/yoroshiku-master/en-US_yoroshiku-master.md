@@ -1,5 +1,7 @@
 # Yoroshiku Master
 
+![yoroshiku-master](https://cdn.myanimelist.net/images/manga/2/5958.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

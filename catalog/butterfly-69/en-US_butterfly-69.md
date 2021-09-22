@@ -1,5 +1,7 @@
 # Butterfly 69
 
+![butterfly-69](https://cdn.myanimelist.net/images/manga/1/22067.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

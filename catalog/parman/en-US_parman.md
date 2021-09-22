@@ -1,5 +1,7 @@
 # Parman
 
+![parman](https://cdn.myanimelist.net/images/manga/2/3949.jpg)
+
 -   **type**: manga
 
 ## Tags

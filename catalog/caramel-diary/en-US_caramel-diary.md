@@ -1,5 +1,7 @@
 # Caramel Diary
 
+![caramel-diary](https://cdn.myanimelist.net/images/manga/5/15419.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

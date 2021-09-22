@@ -1,5 +1,7 @@
 # Hana-hime Koi Shibai Series
 
+![hana-hime-koi-shibai-series](https://cdn.myanimelist.net/images/manga/3/167011.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 50

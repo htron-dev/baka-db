@@ -1,5 +1,7 @@
 # Yankee-kun to Pantsu no Ouji-sama
 
+![yankee-kun-to-pantsu-no-ouji-sama](https://cdn.myanimelist.net/images/manga/3/99311.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

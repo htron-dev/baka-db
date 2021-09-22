@@ -1,5 +1,7 @@
 # Koi Koi 7
 
+![koi-koi-7](https://cdn.myanimelist.net/images/anime/6/75896.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: こいこい 7

@@ -1,5 +1,7 @@
 # Twin Signal
 
+![twin-signal](https://cdn.myanimelist.net/images/manga/3/7076.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **original-name**: TWIN SIGNAL

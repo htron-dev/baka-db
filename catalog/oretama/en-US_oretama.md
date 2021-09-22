@@ -1,5 +1,7 @@
 # Oretama
 
+![oretama](https://cdn.myanimelist.net/images/manga/2/53187.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 41

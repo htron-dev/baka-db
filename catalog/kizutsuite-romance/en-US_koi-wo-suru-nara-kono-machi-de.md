@@ -1,5 +1,7 @@
 # Koi wo Suru nara Kono Machi de
 
+![koi-wo-suru-nara-kono-machi-de](https://cdn.myanimelist.net/images/manga/1/87545.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Mouryou no Hako: Chuuzenji Atsuko no Jikenbo - Hako no Yurei no Koto
 
+![mouryou-no-hako-chuuzenji-atsuko-no-jikenbo-hako-no-yurei-no-koto](https://cdn.myanimelist.net/images/anime/5/23740.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 魍魎の匣

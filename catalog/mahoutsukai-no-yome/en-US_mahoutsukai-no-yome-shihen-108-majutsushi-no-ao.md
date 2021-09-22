@@ -1,5 +1,7 @@
 # Mahoutsukai no Yome Shihen.108: Majutsushi no Ao
 
+![mahoutsukai-no-yome-shihen-108-majutsushi-no-ao](https://cdn.myanimelist.net/images/manga/1/234691.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔法使いの嫁 詩篇.108 魔術師の青
 -   **start-date**: 2019-04-12

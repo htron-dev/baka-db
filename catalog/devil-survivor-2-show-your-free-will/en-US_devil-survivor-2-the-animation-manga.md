@@ -1,5 +1,7 @@
 # Devil Survivor 2: The Animation
 
+![devil-survivor-2-the-animation](https://cdn.myanimelist.net/images/manga/5/90311.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: DEVIL SURVIVOR 2 the ANIMATION

@@ -1,5 +1,7 @@
 # Star Wars: Lost Stars
 
+![star-wars-lost-stars](https://cdn.myanimelist.net/images/manga/2/221568.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

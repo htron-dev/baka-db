@@ -1,5 +1,7 @@
 # Ginga e Kickoff!!
 
+![ginga-e-kickoff](https://cdn.myanimelist.net/images/anime/13/61119.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: 銀河へキックオフ!!

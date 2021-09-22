@@ -1,5 +1,7 @@
 # Gokusai no Ie
 
+![gokusai-no-ie](https://cdn.myanimelist.net/images/manga/1/209032.jpg)
+
 -   **type**: manga
 -   **original-name**: 極彩の家
 -   **start-date**: 2015-08-28

@@ -1,5 +1,7 @@
 # One Room Second Season
 
+![one-room-second-season](https://cdn.myanimelist.net/images/anime/1098/93257.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: One Room セカンドシーズン
@@ -22,4 +24,4 @@ Second season of One Room.
 -   [Official Site](http://oneroom-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13480)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20897)
--   [Wikipedia](<https://en.wikipedia.org/wiki/One_Room_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/One_Room_%28anime%29)

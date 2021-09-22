@@ -1,5 +1,7 @@
 # Ossan, Seiken wo Nuku.
 
+![ossan-seiken-wo-nuku](https://cdn.myanimelist.net/images/manga/2/195427.jpg)
+
 -   **type**: light-novel
 -   **original-name**: おっさん、聖剣を抜く。
 -   **start-date**: 2017-05-15

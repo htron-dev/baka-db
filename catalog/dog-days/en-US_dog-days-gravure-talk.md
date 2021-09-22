@@ -1,5 +1,7 @@
 # Dog Days'': Gravure Talk
 
+![dog-days-gravure-talk](https://cdn.myanimelist.net/images/anime/8/78340.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: ドッグデイズ'' グラビアトーク

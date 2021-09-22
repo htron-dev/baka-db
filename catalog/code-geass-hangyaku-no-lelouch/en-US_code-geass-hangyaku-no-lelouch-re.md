@@ -1,5 +1,7 @@
 # Code Geass: Hangyaku no Lelouch Re;
 
+![code-geass-hangyaku-no-lelouch-re](https://cdn.myanimelist.net/images/manga/3/226466.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 15

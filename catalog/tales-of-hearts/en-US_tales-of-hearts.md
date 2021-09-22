@@ -1,5 +1,7 @@
 # Tales of Hearts
 
+![tales-of-hearts](https://cdn.myanimelist.net/images/manga/2/229822.jpg)
+
 -   **type**: manga
 -   **chapters**: 6
 -   **original-name**: テイルズ オブ ハーツ

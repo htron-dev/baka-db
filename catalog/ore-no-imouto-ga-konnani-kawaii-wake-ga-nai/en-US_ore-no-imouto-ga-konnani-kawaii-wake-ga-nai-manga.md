@@ -1,5 +1,7 @@
 # Ore no Imouto ga Konnani Kawaii Wake ga Nai
 
+![ore-no-imouto-ga-konnani-kawaii-wake-ga-nai](https://cdn.myanimelist.net/images/manga/2/52521.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 26

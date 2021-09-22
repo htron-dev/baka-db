@@ -1,5 +1,7 @@
 # Omoi to Jikkan to Sono Mukou
 
+![omoi-to-jikkan-to-sono-mukou](https://cdn.myanimelist.net/images/manga/1/16733.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

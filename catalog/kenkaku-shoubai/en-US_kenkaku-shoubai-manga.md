@@ -1,5 +1,7 @@
 # Kenkaku Shoubai
 
+![kenkaku-shoubai](https://cdn.myanimelist.net/images/manga/3/72513.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 剣客商売

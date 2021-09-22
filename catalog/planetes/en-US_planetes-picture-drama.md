@@ -1,5 +1,7 @@
 # Planetes Picture Drama
 
+![planetes-picture-drama](https://cdn.myanimelist.net/images/anime/9/29571.jpg)
+
 -   **type**: special
 -   **episodes**: 9
 -   **original-name**: プラネテス オーディオドラマ

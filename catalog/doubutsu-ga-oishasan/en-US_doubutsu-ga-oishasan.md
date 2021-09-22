@@ -1,5 +1,7 @@
 # Doubutsu ga Oishasan!?
 
+![doubutsu-ga-oishasan](https://cdn.myanimelist.net/images/manga/3/136857.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 動物がお医者さん!?

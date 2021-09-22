@@ -1,5 +1,7 @@
 # Guren no Oujo to Zettai Kioku no Kuro Ouji
 
+![guren-no-oujo-to-zettai-kioku-no-kuro-ouji](https://cdn.myanimelist.net/images/manga/2/160541.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 紅蓮の皇女と絶対記憶の黒皇子

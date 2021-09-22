@@ -1,5 +1,7 @@
 # Kei no Seishun
 
+![kei-no-seishun](https://cdn.myanimelist.net/images/manga/2/166005.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **original-name**: ケイの凄春

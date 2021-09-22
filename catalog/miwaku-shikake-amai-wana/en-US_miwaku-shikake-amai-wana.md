@@ -1,5 +1,7 @@
 # Miwaku Shikake: Amai Wana
 
+![miwaku-shikake-amai-wana](https://cdn.myanimelist.net/images/manga/2/194792.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

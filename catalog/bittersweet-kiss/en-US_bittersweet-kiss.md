@@ -1,5 +1,7 @@
 # Bittersweet Kiss
 
+![bittersweet-kiss](https://cdn.myanimelist.net/images/manga/1/135453.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ビタースイート・キス

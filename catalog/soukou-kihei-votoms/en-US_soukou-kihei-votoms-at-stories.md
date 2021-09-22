@@ -1,5 +1,7 @@
 # Soukou Kihei Votoms: AT Stories
 
+![soukou-kihei-votoms-at-stories](https://cdn.myanimelist.net/images/manga/3/155727.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Seihou Bukyou Outlaw Star Pilot
 
+![seihou-bukyou-outlaw-star-pilot](https://cdn.myanimelist.net/images/anime/5/23684.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 星方武侠アウトロースター パイロット版

@@ -1,5 +1,7 @@
 # Kuroko ni Koi wa, Irimasen.
 
+![kuroko-ni-koi-wa-irimasen](https://cdn.myanimelist.net/images/manga/3/225491.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

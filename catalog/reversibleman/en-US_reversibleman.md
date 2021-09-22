@@ -1,5 +1,7 @@
 # Reversibleman
 
+![reversibleman](https://cdn.myanimelist.net/images/manga/1/194890.jpg)
+
 -   **type**: manga
 -   **original-name**: リバーシブルマン
 

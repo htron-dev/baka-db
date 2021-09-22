@@ -1,5 +1,7 @@
 # Hong Mao Lan Tu: Chuang Taikong
 
+![hong-mao-lan-tu-chuang-taikong](https://cdn.myanimelist.net/images/anime/1421/98693.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 虹猫蓝兔闯太空

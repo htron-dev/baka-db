@@ -1,5 +1,7 @@
 # Tensei shite Yandere Kouryaku Taishou Chara to Shujuu Kankei ni Natta Kekka
 
+![tensei-shite-yandere-kouryaku-taishou-chara-to-shujuu-kankei-ni-natta-kekka](https://cdn.myanimelist.net/images/manga/1/229494.jpg)
+
 -   **type**: manga
 -   **original-name**: 転生してヤンデレ攻略対象キャラと主従関係になった結果
 -   **start-date**: 2019-03-05

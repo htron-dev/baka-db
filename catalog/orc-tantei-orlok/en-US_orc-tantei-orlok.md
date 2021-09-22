@@ -1,5 +1,7 @@
 # Orc Tantei Orlok
 
+![orc-tantei-orlok](https://cdn.myanimelist.net/images/manga/3/193587.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

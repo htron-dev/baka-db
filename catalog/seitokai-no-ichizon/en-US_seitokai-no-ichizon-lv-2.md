@@ -1,5 +1,7 @@
 # Seitokai no Ichizon Lv.2
 
+![seitokai-no-ichizon-lv-2](https://cdn.myanimelist.net/images/anime/13/75645.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 生徒会の一存 Lv.2

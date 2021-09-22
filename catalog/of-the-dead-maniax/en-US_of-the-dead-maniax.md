@@ -1,5 +1,7 @@
 # Of the Dead Maniax
 
+![of-the-dead-maniax](https://cdn.myanimelist.net/images/manga/2/172028.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

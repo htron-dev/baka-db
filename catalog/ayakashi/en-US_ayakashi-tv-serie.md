@@ -1,5 +1,7 @@
 # Ayakashi
 
+![ayakashi](https://cdn.myanimelist.net/images/anime/5/20942.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: アヤカシ

@@ -1,5 +1,7 @@
 # Gokudou Sakaba Denden: Gokudou Daisensou Gaiden
 
+![gokudou-sakaba-denden-gokudou-daisensou-gaiden](https://cdn.myanimelist.net/images/anime/3/74124.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: 極道酒場でんでん～極道大戦争外伝～

@@ -1,5 +1,7 @@
 # Wushen Zhuzai
 
+![wushen-zhuzai](https://cdn.myanimelist.net/images/anime/1738/107609.jpg)
+
 -   **type**: ona
 -   **episodes**: 160
 -   **original-name**: 武神主宰

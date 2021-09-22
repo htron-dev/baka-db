@@ -1,5 +1,7 @@
 # Zi Chuan
 
+![zi-chuan](https://cdn.myanimelist.net/images/anime/1930/117001.jpg)
+
 -   **type**: ona
 -   **episodes**: 52
 -   **original-name**: 紫川

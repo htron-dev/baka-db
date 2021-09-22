@@ -1,5 +1,7 @@
 # Peach Girl
 
+![peach-girl](https://cdn.myanimelist.net/images/anime/13/75579.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ピーチガール

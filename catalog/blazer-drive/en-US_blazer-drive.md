@@ -1,5 +1,7 @@
 # Blazer Drive
 
+![blazer-drive](https://cdn.myanimelist.net/images/manga/5/15171.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 35

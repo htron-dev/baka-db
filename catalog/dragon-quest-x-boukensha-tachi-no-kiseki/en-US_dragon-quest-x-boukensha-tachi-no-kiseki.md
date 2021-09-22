@@ -1,5 +1,7 @@
 # Dragon Quest X: Boukensha-tachi no Kiseki
 
+![dragon-quest-x-boukensha-tachi-no-kiseki](https://cdn.myanimelist.net/images/anime/13/88312.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: ドラゴンクエスト X 　冒険者たちのきせき

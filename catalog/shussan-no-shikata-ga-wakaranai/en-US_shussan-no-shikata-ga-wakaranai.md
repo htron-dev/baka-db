@@ -1,5 +1,7 @@
 # Shussan no Shikata ga Wakaranai!
 
+![shussan-no-shikata-ga-wakaranai](https://cdn.myanimelist.net/images/manga/3/234131.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

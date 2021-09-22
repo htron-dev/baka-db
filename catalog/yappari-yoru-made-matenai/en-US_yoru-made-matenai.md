@@ -1,5 +1,7 @@
 # Yoru made Matenai.
 
+![yoru-made-matenai](https://cdn.myanimelist.net/images/manga/2/15522.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 36

@@ -1,5 +1,7 @@
 # Diabolik Lovers More,Blood
 
+![diabolik-lovers-more-blood](https://cdn.myanimelist.net/images/anime/3/73657.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: DIABOLIK LOVERS MORE,BLOOD

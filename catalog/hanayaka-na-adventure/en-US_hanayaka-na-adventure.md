@@ -1,5 +1,7 @@
 # Hanayaka na Adventure
 
+![hanayaka-na-adventure](https://cdn.myanimelist.net/images/manga/2/11874.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 華やかなアバンチュール

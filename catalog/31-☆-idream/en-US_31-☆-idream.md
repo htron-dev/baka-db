@@ -1,5 +1,7 @@
 # 31☆Idream
 
+![31-☆-idream](https://cdn.myanimelist.net/images/manga/2/146293.jpg)
+
 -   **type**: manga
 -   **original-name**: 31☆ アイドリーム
 -   **start-date**: 2013-04-27

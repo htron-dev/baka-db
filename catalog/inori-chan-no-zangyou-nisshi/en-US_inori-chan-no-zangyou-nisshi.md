@@ -1,5 +1,7 @@
 # Inori-chan no Zangyou Nisshi
 
+![inori-chan-no-zangyou-nisshi](https://cdn.myanimelist.net/images/manga/2/192563.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

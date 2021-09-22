@@ -1,5 +1,7 @@
 # Chibi Maruko-chan: Oono-kun to Sugiyama-kun
 
+![chibi-maruko-chan-oono-kun-to-sugiyama-kun](https://cdn.myanimelist.net/images/manga/2/230457.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ちびまる子ちゃん ―大野君と杉山君―

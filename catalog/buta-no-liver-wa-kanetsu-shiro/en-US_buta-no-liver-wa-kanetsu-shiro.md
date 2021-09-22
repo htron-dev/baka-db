@@ -1,5 +1,7 @@
 # Buta no Liver wa Kanetsu Shiro
 
+![buta-no-liver-wa-kanetsu-shiro](https://cdn.myanimelist.net/images/manga/3/240594.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 豚のレバーは加熱しろ
 -   **start-date**: 2020-03-10

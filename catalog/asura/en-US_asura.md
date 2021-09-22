@@ -1,5 +1,7 @@
 # Asura
 
+![asura](https://cdn.myanimelist.net/images/manga/3/185985.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 15

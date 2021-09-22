@@ -1,5 +1,7 @@
 # PLUG, THe NeW WORLD
 
+![plug-t-he-ne-w-world](https://cdn.myanimelist.net/images/anime/9/88394.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: PLUG, THe NeW WORLD

@@ -1,5 +1,7 @@
 # Ryakudatsu Marriage: Kuro Ouji no Yubisaki ni Tsubomi-hime wa Nurasarete
 
+![ryakudatsu-marriage-kuro-ouji-no-yubisaki-ni-tsubomi-hime-wa-nurasarete](https://cdn.myanimelist.net/images/manga/2/183827.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

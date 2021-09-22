@@ -1,5 +1,7 @@
 # Raigou no Kuni
 
+![raigou-no-kuni](https://cdn.myanimelist.net/images/manga/2/246220.jpg)
+
 -   **type**: manga
 -   **original-name**: 来迎國
 -   **start-date**: 2020-12-31

@@ -1,5 +1,7 @@
 # Mary to Majo no Hana
 
+![mary-to-majo-no-hana](https://cdn.myanimelist.net/images/anime/1828/90335.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: メアリと魔女の花

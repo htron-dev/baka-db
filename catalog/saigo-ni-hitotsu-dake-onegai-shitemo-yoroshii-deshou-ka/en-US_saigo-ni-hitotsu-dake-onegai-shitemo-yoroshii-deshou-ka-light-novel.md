@@ -1,5 +1,7 @@
 # Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka
 
+![saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshou-ka](https://cdn.myanimelist.net/images/manga/2/222299.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 15

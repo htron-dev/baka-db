@@ -1,5 +1,7 @@
 # C-Kei Otome Renmei
 
+![c-kei-otome-renmei](https://cdn.myanimelist.net/images/manga/1/15305.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 

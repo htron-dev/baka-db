@@ -1,5 +1,7 @@
 # Devilman G
 
+![devilman-g](https://cdn.myanimelist.net/images/manga/2/189772.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 22

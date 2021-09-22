@@ -1,5 +1,7 @@
 # Sayounara, Utsukushii Hito
 
+![sayounara-utsukushii-hito](https://cdn.myanimelist.net/images/manga/2/51543.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: さようなら、美しい人

@@ -1,5 +1,7 @@
 # Sprout
 
+![sprout](https://cdn.myanimelist.net/images/manga/2/10457.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 28

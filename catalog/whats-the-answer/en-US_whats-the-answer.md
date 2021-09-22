@@ -1,5 +1,7 @@
 # What's the Answer?
 
+![whats-the-answer](https://cdn.myanimelist.net/images/manga/1/24878.jpg)
+
 -   **type**: manga
 -   **original-name**: 答えは 3 つ
 

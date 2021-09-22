@@ -1,5 +1,7 @@
 # Oumagatoki
 
+![oumagatoki](https://cdn.myanimelist.net/images/anime/1167/108081.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 逢魔が時

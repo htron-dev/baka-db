@@ -1,5 +1,7 @@
 # Mieruko-chan
 
+![mieruko-chan](https://cdn.myanimelist.net/images/manga/3/217799.jpg)
+
 -   **type**: manga
 -   **original-name**: 見える子ちゃん
 -   **start-date**: 2018-11-02

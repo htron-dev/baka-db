@@ -1,5 +1,7 @@
 # Gekka Mugentan: Kaminashi Yoru no Otogibanashi
 
+![gekka-mugentan-kaminashi-yoru-no-otogibanashi](https://cdn.myanimelist.net/images/manga/1/134359.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 20

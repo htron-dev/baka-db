@@ -1,5 +1,7 @@
 # Wedding Kiss
 
+![wedding-kiss](https://cdn.myanimelist.net/images/manga/2/13518.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ウエディング・キッス

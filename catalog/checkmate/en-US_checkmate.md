@@ -1,5 +1,7 @@
 # Checkmate
 
+![checkmate](https://cdn.myanimelist.net/images/manga/2/90373.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 체크메이트
 

@@ -1,5 +1,7 @@
 # Koi ni Mudaguchi
 
+![koi-ni-mudaguchi](https://cdn.myanimelist.net/images/manga/2/236914.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋に無駄口
 -   **start-date**: 2019-09-05

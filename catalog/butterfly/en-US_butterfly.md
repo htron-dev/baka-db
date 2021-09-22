@@ -1,5 +1,7 @@
 # Butterfly
 
+![butterfly](https://cdn.myanimelist.net/images/manga/2/177631.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 43

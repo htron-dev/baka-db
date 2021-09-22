@@ -1,5 +1,7 @@
 # Urusei Yatsura
 
+![urusei-yatsura](https://cdn.myanimelist.net/images/manga/3/156529.jpg)
+
 -   **type**: manga
 -   **volumes**: 34
 -   **chapters**: 366

@@ -1,5 +1,7 @@
 # Kimi ga Nozomu Eien
 
+![kimi-ga-nozomu-eien](https://cdn.myanimelist.net/images/anime/5/10227.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 14
 -   **original-name**: 君が望む永遠

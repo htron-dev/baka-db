@@ -1,5 +1,7 @@
 # Saitou-kun wa Esper Rashii
 
+![saitou-kun-wa-esper-rashii](https://cdn.myanimelist.net/images/manga/1/115061.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

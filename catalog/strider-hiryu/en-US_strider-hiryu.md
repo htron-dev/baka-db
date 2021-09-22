@@ -1,5 +1,7 @@
 # Strider Hiryu
 
+![strider-hiryu](https://cdn.myanimelist.net/images/manga/2/98769.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

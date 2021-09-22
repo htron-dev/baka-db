@@ -1,5 +1,7 @@
 # Gichigichi Chou Kousoku: Ori no Naka no Cruz Tera
 
+![gichigichi-chou-kousoku-ori-no-naka-no-cruz-tera](https://cdn.myanimelist.net/images/manga/3/169717.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

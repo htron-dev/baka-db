@@ -1,5 +1,7 @@
 # Washizu: Enma no Touhai
 
+![washizu-enma-no-touhai](https://cdn.myanimelist.net/images/manga/3/169038.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 53

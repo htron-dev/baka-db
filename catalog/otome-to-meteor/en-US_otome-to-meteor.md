@@ -1,5 +1,7 @@
 # Otome to Meteor
 
+![otome-to-meteor](https://cdn.myanimelist.net/images/manga/3/106035.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

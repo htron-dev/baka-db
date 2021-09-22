@@ -1,5 +1,7 @@
 # Nyaa to Naku kara Aishite yo
 
+![nyaa-to-naku-kara-aishite-yo](https://cdn.myanimelist.net/images/manga/2/208339.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

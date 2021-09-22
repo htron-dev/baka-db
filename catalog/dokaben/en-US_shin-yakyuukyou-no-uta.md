@@ -1,5 +1,7 @@
 # Shin Yakyuukyou no Uta
 
+![shin-yakyuukyou-no-uta](https://cdn.myanimelist.net/images/manga/3/142679.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 82

@@ -1,5 +1,7 @@
 # Sono Otoko, Taka: God Finger Densetsu
 
+![sono-otoko-taka-god-finger-densetsu](https://cdn.myanimelist.net/images/manga/3/48673.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 36

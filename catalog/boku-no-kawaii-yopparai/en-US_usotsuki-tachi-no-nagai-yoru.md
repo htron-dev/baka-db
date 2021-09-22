@@ -1,5 +1,7 @@
 # Usotsuki-tachi no Nagai Yoru
 
+![usotsuki-tachi-no-nagai-yoru](https://cdn.myanimelist.net/images/manga/1/212085.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

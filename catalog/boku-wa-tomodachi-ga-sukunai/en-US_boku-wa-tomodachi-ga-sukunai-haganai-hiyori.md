@@ -1,5 +1,7 @@
 # Boku wa Tomodachi ga Sukunai: Haganai Hiyori
 
+![boku-wa-tomodachi-ga-sukunai-haganai-hiyori](https://cdn.myanimelist.net/images/manga/1/141115.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

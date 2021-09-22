@@ -1,5 +1,7 @@
 # Oto Eimingu
 
+![oto-eimingu](https://cdn.myanimelist.net/images/manga/3/79373.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: オート・エイミング

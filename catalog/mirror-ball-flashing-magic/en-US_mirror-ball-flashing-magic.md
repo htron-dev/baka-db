@@ -1,5 +1,7 @@
 # Mirror Ball Flashing Magic
 
+![mirror-ball-flashing-magic](https://cdn.myanimelist.net/images/manga/2/40632.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

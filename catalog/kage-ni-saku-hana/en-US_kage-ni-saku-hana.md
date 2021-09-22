@@ -1,5 +1,7 @@
 # Kage ni Saku Hana
 
+![kage-ni-saku-hana](https://cdn.myanimelist.net/images/manga/1/72177.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

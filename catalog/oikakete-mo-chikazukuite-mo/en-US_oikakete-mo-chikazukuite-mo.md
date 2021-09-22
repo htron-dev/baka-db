@@ -1,5 +1,7 @@
 # Oikakete mo Chikazukuite mo
 
+![oikakete-mo-chikazukuite-mo](https://cdn.myanimelist.net/images/manga/2/20248.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

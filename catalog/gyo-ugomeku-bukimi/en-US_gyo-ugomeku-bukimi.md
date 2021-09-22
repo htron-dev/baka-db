@@ -1,5 +1,7 @@
 # Gyo: Ugomeku Bukimi
 
+![gyo-ugomeku-bukimi](https://cdn.myanimelist.net/images/manga/2/88711.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

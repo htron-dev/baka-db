@@ -1,5 +1,7 @@
 # Getter Robo Hai
 
+![getter-robo-hai](https://cdn.myanimelist.net/images/manga/1/223799.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ゲッターロボ牌

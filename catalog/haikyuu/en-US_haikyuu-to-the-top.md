@@ -1,5 +1,7 @@
 # Haikyuu!!: To the Top
 
+![haikyuu-to-the-top](https://cdn.myanimelist.net/images/anime/1813/105367.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ハイキュー!! TO THE TOP

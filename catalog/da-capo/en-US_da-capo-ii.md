@@ -1,5 +1,7 @@
 # Da Capo II
 
+![da-capo-ii](https://cdn.myanimelist.net/images/manga/5/31533.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 37

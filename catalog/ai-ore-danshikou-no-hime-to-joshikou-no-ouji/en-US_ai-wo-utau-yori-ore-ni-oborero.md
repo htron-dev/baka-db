@@ -1,5 +1,7 @@
 # Ai wo Utau yori Ore ni Oborero!
 
+![ai-wo-utau-yori-ore-ni-oborero](https://cdn.myanimelist.net/images/manga/1/7275.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 29

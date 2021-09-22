@@ -1,5 +1,7 @@
 # Sazae-san: Dawn to Ikka de Hawaii Ryokou
 
+![sazae-san-dawn-to-ikka-de-hawaii-ryokou](https://cdn.myanimelist.net/images/anime/7/69343.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: サザエさん　ドーンと一家でハワイ旅行

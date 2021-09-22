@@ -1,5 +1,7 @@
 # Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou
 
+![haikyuu-karasuno-koukou-vs-shiratorizawa-gakuen-koukou](https://cdn.myanimelist.net/images/anime/7/81992.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: ハイキュー!! 烏野高校 VS 白鳥沢学園高校

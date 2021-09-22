@@ -1,5 +1,7 @@
 # Girls★Battle Aloe Megumi
 
+![girls★-battle-aloe-megumi](https://cdn.myanimelist.net/images/anime/5/83678.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: GIRLS★BATTLE アロ恵

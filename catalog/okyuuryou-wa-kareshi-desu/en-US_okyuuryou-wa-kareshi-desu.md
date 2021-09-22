@@ -1,5 +1,7 @@
 # Okyuuryou wa Kareshi desu
 
+![okyuuryou-wa-kareshi-desu](https://cdn.myanimelist.net/images/manga/1/210150.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

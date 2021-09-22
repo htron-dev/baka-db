@@ -1,5 +1,7 @@
 # No Shiba no Shiba
 
+![no-shiba-no-shiba](https://cdn.myanimelist.net/images/anime/6/83674.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: のしばのしば

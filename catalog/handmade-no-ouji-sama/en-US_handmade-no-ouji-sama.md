@@ -1,5 +1,7 @@
 # Handmade no Ouji-sama
 
+![handmade-no-ouji-sama](https://cdn.myanimelist.net/images/manga/2/13974.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

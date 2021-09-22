@@ -1,5 +1,7 @@
 # Märchen Mädchen
 
+![marchen-madchen](https://cdn.myanimelist.net/images/manga/1/198573.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 32

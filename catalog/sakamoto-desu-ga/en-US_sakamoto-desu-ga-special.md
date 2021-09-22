@@ -1,5 +1,7 @@
 # Sakamoto Desu ga? Special
 
+![sakamoto-desu-ga-special](https://cdn.myanimelist.net/images/anime/5/80646.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 坂本ですが？

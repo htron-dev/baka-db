@@ -1,5 +1,7 @@
 # Risou no Tsuma no Takurami wa
 
+![risou-no-tsuma-no-takurami-wa](https://cdn.myanimelist.net/images/manga/3/38407.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Darling in the FranXX
 
+![darling-in-the-fran-xx](https://cdn.myanimelist.net/images/manga/1/206289.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 60

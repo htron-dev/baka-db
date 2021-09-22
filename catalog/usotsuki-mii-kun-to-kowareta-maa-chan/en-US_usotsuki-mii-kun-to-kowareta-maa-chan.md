@@ -1,5 +1,7 @@
 # Usotsuki Mii-kun to Kowareta Maa-chan
 
+![usotsuki-mii-kun-to-kowareta-maa-chan](https://cdn.myanimelist.net/images/manga/3/196813.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 11
 -   **chapters**: 61

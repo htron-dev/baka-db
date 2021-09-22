@@ -1,5 +1,7 @@
 # Furiten-kun (1990)
 
+![furiten-kun-1990](https://cdn.myanimelist.net/images/anime/9/53547.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: フリテンくん

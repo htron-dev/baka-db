@@ -1,5 +1,7 @@
 # Sho Sho Rika
 
+![sho-sho-rika](https://cdn.myanimelist.net/images/manga/1/77773.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: ショショリカ

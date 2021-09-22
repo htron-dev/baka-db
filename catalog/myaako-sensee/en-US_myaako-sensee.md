@@ -1,5 +1,7 @@
 # Myaako-sensee
 
+![myaako-sensee](https://cdn.myanimelist.net/images/manga/3/222951.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: みゃーこせんせぇ

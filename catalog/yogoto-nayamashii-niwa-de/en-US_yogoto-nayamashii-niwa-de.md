@@ -1,5 +1,7 @@
 # Yogoto Nayamashii Niwa de
 
+![yogoto-nayamashii-niwa-de](https://cdn.myanimelist.net/images/manga/2/2871.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

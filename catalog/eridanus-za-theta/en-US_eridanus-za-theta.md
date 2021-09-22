@@ -1,5 +1,7 @@
 # Eridanus-za Theta
 
+![eridanus-za-theta](https://cdn.myanimelist.net/images/manga/3/32309.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: エリダヌス座 θ

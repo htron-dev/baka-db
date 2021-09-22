@@ -1,5 +1,7 @@
 # Yameru Hoshi yori Ai wo Komete
 
+![yameru-hoshi-yori-ai-wo-komete](https://cdn.myanimelist.net/images/manga/3/249121.jpg)
+
 -   **type**: manga
 -   **original-name**: 病める惑星より愛をこめて
 -   **start-date**: 2020-01-06

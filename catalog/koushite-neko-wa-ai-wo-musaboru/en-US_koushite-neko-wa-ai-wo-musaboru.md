@@ -1,5 +1,7 @@
 # Koushite Neko wa Ai wo Musaboru
 
+![koushite-neko-wa-ai-wo-musaboru](https://cdn.myanimelist.net/images/manga/2/23408.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

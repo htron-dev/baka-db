@@ -1,5 +1,7 @@
 # Shin National Kid
 
+![shin-national-kid](https://cdn.myanimelist.net/images/manga/3/19098.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 19

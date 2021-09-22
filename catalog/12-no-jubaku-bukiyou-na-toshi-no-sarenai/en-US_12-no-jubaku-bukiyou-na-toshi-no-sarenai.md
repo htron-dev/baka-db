@@ -1,5 +1,7 @@
 # 12 no Jubaku: Bukiyou na Toshi no Sarenai
 
+![12-no-jubaku-bukiyou-na-toshi-no-sarenai](https://cdn.myanimelist.net/images/manga/2/195424.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Umi to Futari no Enbun Noudo
 
+![umi-to-futari-no-enbun-noudo](https://cdn.myanimelist.net/images/manga/2/231333.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

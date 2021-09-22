@@ -1,5 +1,7 @@
 # Rental Love
 
+![rental-love](https://cdn.myanimelist.net/images/manga/3/25286.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 -   **original-name**: 사랑 대여점

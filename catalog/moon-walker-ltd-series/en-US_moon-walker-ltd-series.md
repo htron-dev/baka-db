@@ -1,5 +1,7 @@
 # Moon Walker LTD. Series
 
+![moon-walker-ltd-series](https://cdn.myanimelist.net/images/manga/1/37498.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **start-date**: 2010-10-25

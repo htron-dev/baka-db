@@ -1,5 +1,7 @@
 # Mahoutsukai Nara Miso wo Kue!
 
+![mahoutsukai-nara-miso-wo-kue](https://cdn.myanimelist.net/images/anime/6/39537.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 魔法使いなら味噌を喰え！

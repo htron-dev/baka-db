@@ -1,5 +1,7 @@
 # Jigoku Youchien
 
+![jigoku-youchien](https://cdn.myanimelist.net/images/anime/10/49439.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 地獄ようちえん
@@ -11,7 +13,6 @@
 ## Tags
 
 -   demons
-
 -   school
 
 ## Sinopse

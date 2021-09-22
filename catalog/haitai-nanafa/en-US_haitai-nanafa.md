@@ -1,5 +1,7 @@
 # Haitai Nanafa
 
+![haitai-nanafa](https://cdn.myanimelist.net/images/anime/12/45991.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: はいたい七葉

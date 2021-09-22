@@ -1,5 +1,7 @@
 # Akira
 
+![akira](https://cdn.myanimelist.net/images/manga/2/157929.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 120

@@ -1,5 +1,7 @@
 # Mutant wa Ningen no Kanojo to Kiss ga Shitai
 
+![mutant-wa-ningen-no-kanojo-to-kiss-ga-shitai](https://cdn.myanimelist.net/images/manga/1/245137.jpg)
+
 -   **type**: manga
 -   **original-name**: ミュータントは人間の彼女とキスがしたい
 -   **start-date**: 2021-05-18

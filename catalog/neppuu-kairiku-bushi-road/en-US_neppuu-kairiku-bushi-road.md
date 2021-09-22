@@ -1,5 +1,7 @@
 # Neppuu Kairiku Bushi Road
 
+![neppuu-kairiku-bushi-road](https://cdn.myanimelist.net/images/anime/11/56827.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 熱風海陸ブシロード

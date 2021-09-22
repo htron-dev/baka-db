@@ -1,5 +1,7 @@
 # Vampire Beast
 
+![vampire-beast](https://cdn.myanimelist.net/images/manga/1/16807.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

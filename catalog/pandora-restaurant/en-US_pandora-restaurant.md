@@ -1,5 +1,7 @@
 # Pandora Restaurant!
 
+![pandora-restaurant](https://cdn.myanimelist.net/images/manga/2/173028.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

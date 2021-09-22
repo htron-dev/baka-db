@@ -1,5 +1,7 @@
 # Chronicles of Choon Eng
 
+![chronicles-of-choon-eng](https://cdn.myanimelist.net/images/manga/3/38421.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 春鶯傳
 

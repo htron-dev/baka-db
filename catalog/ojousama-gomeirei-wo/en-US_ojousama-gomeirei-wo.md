@@ -1,5 +1,7 @@
 # Ojousama Gomeirei wo
 
+![ojousama-gomeirei-wo](https://cdn.myanimelist.net/images/manga/1/189880.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

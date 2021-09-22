@@ -1,5 +1,7 @@
 # Shinigami Tsuki no Amamiya-san
 
+![shinigami-tsuki-no-amamiya-san](https://cdn.myanimelist.net/images/manga/1/227822.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

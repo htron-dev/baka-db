@@ -1,5 +1,7 @@
 # Morita-san wa Mukuchi. 2
 
+![morita-san-wa-mukuchi-2](https://cdn.myanimelist.net/images/anime/7/32933.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 森田さんは無口。２

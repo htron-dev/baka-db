@@ -1,5 +1,7 @@
 # Fukanzen Shinsei Kikan Ilis
 
+![fukanzen-shinsei-kikan-ilis](https://cdn.myanimelist.net/images/manga/2/131647.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 36

@@ -1,5 +1,7 @@
 # Chu♥Chu
 
+![chu♥-chu](https://cdn.myanimelist.net/images/manga/2/90927.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ちゅ ♥ ちゅ

@@ -1,5 +1,7 @@
 # King of Prism All Stars: Prism Show☆Best Ten
 
+![king-of-prism-all-stars-prism-show☆-best-ten](https://cdn.myanimelist.net/images/anime/1957/112742.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: KING OF PRISM ALL STARS -プリズムショー ☆ ベストテン-

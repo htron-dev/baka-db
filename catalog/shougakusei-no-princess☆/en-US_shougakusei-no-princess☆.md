@@ -1,5 +1,7 @@
 # Shougakusei no Princess☆
 
+![shougakusei-no-princess☆](https://cdn.myanimelist.net/images/manga/1/157065.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 31

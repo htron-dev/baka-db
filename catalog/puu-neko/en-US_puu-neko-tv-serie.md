@@ -1,5 +1,7 @@
 # Puu-Neko
 
+![puu-neko](https://cdn.myanimelist.net/images/anime/9/28722.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: プ～ねこ

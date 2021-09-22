@@ -1,5 +1,7 @@
 # Money Fight
 
+![money-fight](https://cdn.myanimelist.net/images/manga/2/171767.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 55

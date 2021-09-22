@@ -1,5 +1,7 @@
 # Yu☆Gi☆Oh! Duel Monsters: Battle City Special
 
+![yu☆-gi☆-oh-duel-monsters-battle-city-special](https://cdn.myanimelist.net/images/anime/2/11197.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 遊 ☆ 戯 ☆ 王　デュエルモンスターズ

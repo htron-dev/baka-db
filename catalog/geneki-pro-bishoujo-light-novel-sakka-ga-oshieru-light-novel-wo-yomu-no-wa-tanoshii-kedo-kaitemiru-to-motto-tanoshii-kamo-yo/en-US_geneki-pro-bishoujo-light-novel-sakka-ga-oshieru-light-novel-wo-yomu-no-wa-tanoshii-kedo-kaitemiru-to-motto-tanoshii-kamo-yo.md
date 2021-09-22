@@ -1,5 +1,7 @@
 # Geneki Pro Bishoujo Light Novel Sakka ga Oshieru! Light Novel wo Yomu no wa Tanoshii kedo, Kaitemiru to Motto Tanoshii kamo yo!?
 
+![geneki-pro-bishoujo-light-novel-sakka-ga-oshieru-light-novel-wo-yomu-no-wa-tanoshii-kedo-kaitemiru-to-motto-tanoshii-kamo-yo](https://cdn.myanimelist.net/images/manga/3/160774.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 18

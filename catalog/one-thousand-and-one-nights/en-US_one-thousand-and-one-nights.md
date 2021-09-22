@@ -1,5 +1,7 @@
 # One Thousand and One Nights
 
+![one-thousand-and-one-nights](https://cdn.myanimelist.net/images/manga/3/6683.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 11
 -   **chapters**: 54

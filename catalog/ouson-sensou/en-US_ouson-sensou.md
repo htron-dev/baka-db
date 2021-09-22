@@ -1,5 +1,7 @@
 # Ouson Sensou
 
+![ouson-sensou](https://cdn.myanimelist.net/images/manga/1/225453.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

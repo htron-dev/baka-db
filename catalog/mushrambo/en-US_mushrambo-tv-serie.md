@@ -1,5 +1,7 @@
 # Mushrambo
 
+![mushrambo](https://cdn.myanimelist.net/images/anime/4/87702.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 32
 -   **original-name**: マシュランボー

@@ -1,5 +1,7 @@
 # Haru no Oto
 
+![haru-no-oto](https://cdn.myanimelist.net/images/manga/2/14719.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

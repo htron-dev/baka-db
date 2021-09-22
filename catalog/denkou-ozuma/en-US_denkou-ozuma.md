@@ -1,5 +1,7 @@
 # Denkou Ozuma
 
+![denkou-ozuma](https://cdn.myanimelist.net/images/manga/1/61029.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 電光オズマ

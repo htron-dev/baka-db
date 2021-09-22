@@ -1,5 +1,7 @@
 # Isekai de Ryourinin wo Meijirareta Ore ga Joou Heika no Gunshi ni Nariagaru!
 
+![isekai-de-ryourinin-wo-meijirareta-ore-ga-joou-heika-no-gunshi-ni-nariagaru](https://cdn.myanimelist.net/images/manga/1/199714.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

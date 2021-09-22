@@ -1,5 +1,7 @@
 # On the Table
 
+![on-the-table](https://cdn.myanimelist.net/images/anime/1842/98176.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: on the table

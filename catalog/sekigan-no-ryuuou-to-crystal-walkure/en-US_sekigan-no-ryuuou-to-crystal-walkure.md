@@ -1,5 +1,7 @@
 # Sekigan no Ryuuou to Crystal Walkure
 
+![sekigan-no-ryuuou-to-crystal-walkure](https://cdn.myanimelist.net/images/manga/2/160965.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

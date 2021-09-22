@@ -1,5 +1,7 @@
 # Princess Tutu Recaps
 
+![princess-tutu-recaps](https://cdn.myanimelist.net/images/anime/4/26516.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: プリンセスチュチュ

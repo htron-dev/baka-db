@@ -1,5 +1,7 @@
 # Shinozaki-san Ki wo Ota Shika ni!
 
+![shinozaki-san-ki-wo-ota-shika-ni](https://cdn.myanimelist.net/images/manga/2/198007.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 48

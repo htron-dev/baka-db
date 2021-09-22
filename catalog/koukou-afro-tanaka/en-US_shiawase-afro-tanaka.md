@@ -1,5 +1,7 @@
 # Shiawase Afro Tanaka
 
+![shiawase-afro-tanaka](https://cdn.myanimelist.net/images/manga/3/207884.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 109

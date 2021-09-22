@@ -1,5 +1,7 @@
 # Akapoli
 
+![akapoli](https://cdn.myanimelist.net/images/manga/3/235901.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

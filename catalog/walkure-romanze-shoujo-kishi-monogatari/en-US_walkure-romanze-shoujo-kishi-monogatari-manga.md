@@ -1,5 +1,7 @@
 # Walkure Romanze: Shoujo Kishi Monogatari
 
+![walkure-romanze-shoujo-kishi-monogatari](https://cdn.myanimelist.net/images/manga/3/120451.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Circuit no Ookami
 
+![circuit-no-ookami](https://cdn.myanimelist.net/images/manga/2/178751.jpg)
+
 -   **type**: manga
 -   **volumes**: 27
 -   **original-name**: サーキットの狼

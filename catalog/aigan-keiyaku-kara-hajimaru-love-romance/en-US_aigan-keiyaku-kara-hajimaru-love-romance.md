@@ -1,5 +1,7 @@
 # Aigan: Keiyaku kara Hajimaru Love Romance
 
+![aigan-keiyaku-kara-hajimaru-love-romance](https://cdn.myanimelist.net/images/manga/2/194589.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 愛玩 ～契約からはじまるラブロマンス～

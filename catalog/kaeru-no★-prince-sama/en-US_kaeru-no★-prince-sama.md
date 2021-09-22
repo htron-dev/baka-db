@@ -1,5 +1,7 @@
 # Kaeru no★Prince-sama
 
+![kaeru-no★-prince-sama](https://cdn.myanimelist.net/images/manga/3/81786.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

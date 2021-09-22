@@ -1,5 +1,7 @@
 # Ryoko
 
+![ryoko](https://cdn.myanimelist.net/images/manga/1/192570.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 43

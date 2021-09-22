@@ -1,5 +1,7 @@
 # Charlotte
 
+![charlotte](https://cdn.myanimelist.net/images/anime/12/74683.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: Charlotte（シャーロット）
@@ -31,4 +33,4 @@ An original story from Jun Maeda, creator of Angel Beats and Clannad, Charlotte 
 -   [Official Site](http://www.charlotte-anime.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10997)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16649)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Charlotte_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Charlotte_%28anime%29)

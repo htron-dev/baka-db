@@ -1,5 +1,7 @@
 # Kimi ga Tsugai ni Naru made
 
+![kimi-ga-tsugai-ni-naru-made](https://cdn.myanimelist.net/images/manga/2/226560.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

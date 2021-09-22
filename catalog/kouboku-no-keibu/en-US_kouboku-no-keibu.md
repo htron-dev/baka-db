@@ -1,5 +1,7 @@
 # Kouboku no Keibu
 
+![kouboku-no-keibu](https://cdn.myanimelist.net/images/manga/1/94457.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

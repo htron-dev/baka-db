@@ -1,5 +1,7 @@
 # Lupin III: Goodbye Partner
 
+![lupin-iii-goodbye-partner](https://cdn.myanimelist.net/images/anime/1013/98152.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ルパン三世 グッバイ・パートナー

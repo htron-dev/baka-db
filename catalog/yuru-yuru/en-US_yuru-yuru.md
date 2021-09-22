@@ -1,5 +1,7 @@
 # Yuru Yuru
 
+![yuru-yuru](https://cdn.myanimelist.net/images/manga/3/43681.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 46

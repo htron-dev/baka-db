@@ -1,5 +1,7 @@
 # Call Me Darling
 
+![call-me-darling](https://cdn.myanimelist.net/images/manga/3/114537.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

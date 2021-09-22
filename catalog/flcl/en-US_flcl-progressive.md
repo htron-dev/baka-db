@@ -1,5 +1,7 @@
 # FLCL Progressive
 
+![flcl-progressive](https://cdn.myanimelist.net/images/anime/1499/93700.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: フリクリ プログレ

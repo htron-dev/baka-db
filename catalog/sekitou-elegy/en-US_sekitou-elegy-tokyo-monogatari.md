@@ -1,5 +1,7 @@
 # Sekitou Elegy: Tokyo Monogatari
 
+![sekitou-elegy-tokyo-monogatari](https://cdn.myanimelist.net/images/manga/2/248627.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

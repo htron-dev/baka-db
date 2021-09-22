@@ -1,5 +1,7 @@
 # Aa Yuusha, Kimi no Kurushimu Kao ga Mitainda
 
+![aa-yuusha-kimi-no-kurushimu-kao-ga-mitainda](https://cdn.myanimelist.net/images/manga/3/175981.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 26

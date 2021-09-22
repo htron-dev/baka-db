@@ -1,5 +1,7 @@
 # Tsugumomo OVA
 
+![tsugumomo-ova](https://cdn.myanimelist.net/images/anime/1269/110128.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: つぐもも OVA

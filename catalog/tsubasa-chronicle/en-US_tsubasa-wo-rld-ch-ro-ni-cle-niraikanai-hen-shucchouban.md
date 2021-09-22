@@ -1,5 +1,7 @@
 # Tsubasa: WoRLD CHRoNiCLE - Niraikanai-hen Shucchouban
 
+![tsubasa-wo-rld-ch-ro-ni-cle-niraikanai-hen-shucchouban](https://cdn.myanimelist.net/images/manga/3/151903.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: ツバサ WoRLD CHRoNiCLE ニライカナイ編 出張版

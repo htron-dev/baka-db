@@ -1,5 +1,7 @@
 # Saredo Itoshii Hibi
 
+![saredo-itoshii-hibi](https://cdn.myanimelist.net/images/manga/3/97345.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

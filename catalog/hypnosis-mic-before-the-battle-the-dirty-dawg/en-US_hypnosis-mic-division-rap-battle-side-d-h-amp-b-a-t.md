@@ -1,5 +1,7 @@
 # Hypnosis Mic: Division Rap Battle - side D.H &amp; B.A.T
 
+![hypnosis-mic-division-rap-battle-side-d-h-amp-b-a-t](https://cdn.myanimelist.net/images/manga/1/236129.jpg)
+
 -   **type**: manga
 -   **original-name**: ヒプノシスマイク -Division Rap Battle- side D.H & B.A.T
 -   **start-date**: 2020-04-08

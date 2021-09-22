@@ -1,5 +1,7 @@
 # IO
 
+![io](https://cdn.myanimelist.net/images/manga/3/56007.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 55

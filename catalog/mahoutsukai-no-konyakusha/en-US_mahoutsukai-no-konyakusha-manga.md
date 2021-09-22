@@ -1,5 +1,7 @@
 # Mahoutsukai no Konyakusha
 
+![mahoutsukai-no-konyakusha](https://cdn.myanimelist.net/images/manga/3/207377.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

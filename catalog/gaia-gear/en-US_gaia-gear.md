@@ -1,5 +1,7 @@
 # Gaia Gear
 
+![gaia-gear](https://cdn.myanimelist.net/images/manga/1/11134.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 60

@@ -1,5 +1,7 @@
 # Ijiwaru Goshujinsama
 
+![ijiwaru-goshujinsama](https://cdn.myanimelist.net/images/manga/1/41777.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

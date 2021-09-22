@@ -1,5 +1,7 @@
 # Saikyou Mahoushi no Inton Keikaku
 
+![saikyou-mahoushi-no-inton-keikaku](https://cdn.myanimelist.net/images/manga/3/206125.jpg)
+
 -   **type**: manga
 -   **original-name**: 最強魔法師の隠遁計画
 -   **start-date**: 2017-07-28

@@ -1,5 +1,7 @@
 # Kaizou Ningen Roggy
 
+![kaizou-ningen-roggy](https://cdn.myanimelist.net/images/manga/1/157707.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Shenhai
 
+![shenhai](https://cdn.myanimelist.net/images/anime/1974/110398.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 深海

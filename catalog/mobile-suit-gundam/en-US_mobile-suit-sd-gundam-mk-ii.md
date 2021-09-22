@@ -1,5 +1,7 @@
 # Mobile Suit SD Gundam Mk II
 
+![mobile-suit-sd-gundam-mk-ii](https://cdn.myanimelist.net/images/anime/3/55903.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 機動戦士 SD ガンダム Mk-II

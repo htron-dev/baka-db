@@ -1,5 +1,7 @@
 # Boruto: Naruto Next Generations Novel
 
+![boruto-naruto-next-generations-novel](https://cdn.myanimelist.net/images/manga/1/228184.jpg)
+
 -   **type**: light-novel
 -   **original-name**: BORUTO -NARUTO NEXT GENERATIONS- NOVEL
 -   **start-date**: 2017-05-02

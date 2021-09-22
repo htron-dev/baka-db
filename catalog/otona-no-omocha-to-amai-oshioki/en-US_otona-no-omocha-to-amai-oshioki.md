@@ -1,5 +1,7 @@
 # Otona no Omocha to Amai Oshioki
 
+![otona-no-omocha-to-amai-oshioki](https://cdn.myanimelist.net/images/manga/1/193659.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

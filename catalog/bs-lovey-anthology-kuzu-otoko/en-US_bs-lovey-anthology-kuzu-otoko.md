@@ -1,5 +1,7 @@
 # B's-LOVEY Anthology: Kuzu Otoko
 
+![bs-lovey-anthology-kuzu-otoko](https://cdn.myanimelist.net/images/manga/3/221900.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

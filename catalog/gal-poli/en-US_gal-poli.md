@@ -1,5 +1,7 @@
 # Gal-Poli
 
+![gal-poli](https://cdn.myanimelist.net/images/manga/2/139609.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ギャルポリ

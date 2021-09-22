@@ -1,5 +1,7 @@
 # Magical†Death Game
 
+![magical-death-game](https://cdn.myanimelist.net/images/manga/2/160777.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 24

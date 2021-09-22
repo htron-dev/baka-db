@@ -1,5 +1,7 @@
 # Candy Candy (Movie)
 
+![candy-candy-movie](https://cdn.myanimelist.net/images/anime/11/66847.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キャンディ・キャンディ

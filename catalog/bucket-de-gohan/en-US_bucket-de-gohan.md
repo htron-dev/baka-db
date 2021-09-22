@@ -1,5 +1,7 @@
 # Bucket de Gohan
 
+![bucket-de-gohan](https://cdn.myanimelist.net/images/anime/10/26452.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 20
 -   **original-name**: バケツでごはん

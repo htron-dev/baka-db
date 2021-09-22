@@ -1,5 +1,7 @@
 # Tactical Roar
 
+![tactical-roar](https://cdn.myanimelist.net/images/anime/8/61829.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: タクティカルロア

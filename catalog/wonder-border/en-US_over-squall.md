@@ -1,5 +1,7 @@
 # Over Squall
 
+![over-squall](https://cdn.myanimelist.net/images/manga/3/238093.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

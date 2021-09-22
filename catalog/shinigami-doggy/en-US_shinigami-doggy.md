@@ -1,5 +1,7 @@
 # Shinigami Doggy
 
+![shinigami-doggy](https://cdn.myanimelist.net/images/manga/1/151004.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

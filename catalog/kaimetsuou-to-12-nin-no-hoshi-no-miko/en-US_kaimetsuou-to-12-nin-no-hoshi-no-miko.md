@@ -1,5 +1,7 @@
 # Kaimetsuou to 12-nin no Hoshi no Miko
 
+![kaimetsuou-to-12-nin-no-hoshi-no-miko](https://cdn.myanimelist.net/images/manga/3/188978.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 31

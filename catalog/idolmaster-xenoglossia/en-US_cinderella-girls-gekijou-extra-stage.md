@@ -1,5 +1,7 @@
 # Cinderella Girls Gekijou: Extra Stage
 
+![cinderella-girls-gekijou-extra-stage](https://cdn.myanimelist.net/images/anime/1224/106098.jpg)
+
 -   **type**: ona
 -   **episodes**: 48
 -   **original-name**: アイドルマスター シンデレラガールズ劇場 Extra Stage

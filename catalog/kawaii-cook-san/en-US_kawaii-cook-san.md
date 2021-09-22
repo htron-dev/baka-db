@@ -1,5 +1,7 @@
 # Kawaii Cook-san
 
+![kawaii-cook-san](https://cdn.myanimelist.net/images/anime/5/63755.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: KAWAII COOK SAN

@@ -1,5 +1,7 @@
 # Gendai Shakai de Otome Game no Akuyaku Reijou wo Suru no wa Chotto Taihen
 
+![gendai-shakai-de-otome-game-no-akuyaku-reijou-wo-suru-no-wa-chotto-taihen](https://cdn.myanimelist.net/images/manga/3/242666.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 現代社会で乙女ゲームの悪役令嬢をするのはちょっと大変
 -   **start-date**: 2020-10-25

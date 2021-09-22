@@ -1,5 +1,7 @@
 # Bitter Playmate
 
+![bitter-playmate](https://cdn.myanimelist.net/images/manga/2/247309.jpg)
+
 -   **type**: manga
 -   **original-name**: ビタープレイメイト
 -   **start-date**: 2021-06-25

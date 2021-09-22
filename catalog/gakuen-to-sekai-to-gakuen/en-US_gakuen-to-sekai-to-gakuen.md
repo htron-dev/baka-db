@@ -1,5 +1,7 @@
 # Gakuen to Sekai to Gakuen
 
+![gakuen-to-sekai-to-gakuen](https://cdn.myanimelist.net/images/manga/2/105695.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 学園とセカイと楽園

@@ -1,5 +1,7 @@
 # Toukei Ibun
 
+![toukei-ibun](https://cdn.myanimelist.net/images/manga/2/104539.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

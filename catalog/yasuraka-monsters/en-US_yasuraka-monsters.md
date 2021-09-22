@@ -1,5 +1,7 @@
 # Yasuraka Monsters
 
+![yasuraka-monsters](https://cdn.myanimelist.net/images/manga/2/204845.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

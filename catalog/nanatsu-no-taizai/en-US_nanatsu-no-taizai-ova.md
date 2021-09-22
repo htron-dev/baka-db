@@ -1,5 +1,7 @@
 # Nanatsu no Taizai OVA
 
+![nanatsu-no-taizai-ova](https://cdn.myanimelist.net/images/anime/1973/97505.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 七つの大罪
@@ -33,4 +35,4 @@ OVA bundled with the 15th and 16th volume of the manga.
 -   [My Anime list](https://myanimelist.net/anime/30347/Nanatsu_no_Taizai_OVA)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11138)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16867)
--   [Wikipedia](<http://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_%28manga%29)

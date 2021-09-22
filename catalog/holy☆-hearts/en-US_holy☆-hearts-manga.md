@@ -1,5 +1,7 @@
 # Holy☆Hearts!
 
+![holy☆-hearts](https://cdn.myanimelist.net/images/manga/3/27382.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

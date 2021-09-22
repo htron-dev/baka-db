@@ -1,5 +1,7 @@
 # Gakkou no Sensei
 
+![gakkou-no-sensei](https://cdn.myanimelist.net/images/manga/5/62185.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 35

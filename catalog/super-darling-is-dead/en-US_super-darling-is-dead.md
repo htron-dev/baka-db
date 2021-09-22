@@ -1,5 +1,7 @@
 # Super Darling is Dead
 
+![super-darling-is-dead](https://cdn.myanimelist.net/images/manga/2/247981.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

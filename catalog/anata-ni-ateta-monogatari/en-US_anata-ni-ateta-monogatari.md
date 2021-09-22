@@ -1,5 +1,7 @@
 # Anata ni Ateta Monogatari
 
+![anata-ni-ateta-monogatari](https://cdn.myanimelist.net/images/manga/2/85989.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

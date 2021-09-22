@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Anpanman to Oyakusoku
 
+![sore-ike-anpanman-anpanman-to-oyakusoku](https://cdn.myanimelist.net/images/anime/12/57687.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: それいけ! アンパンマン アンパンマンとおやくそく

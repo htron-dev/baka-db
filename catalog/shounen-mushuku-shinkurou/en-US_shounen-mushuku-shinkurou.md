@@ -1,5 +1,7 @@
 # Shounen Mushuku Shinkurou
 
+![shounen-mushuku-shinkurou](https://cdn.myanimelist.net/images/manga/2/168692.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 少年無宿シンクロウ

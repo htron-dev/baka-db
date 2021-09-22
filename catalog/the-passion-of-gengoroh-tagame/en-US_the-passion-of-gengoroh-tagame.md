@@ -1,5 +1,7 @@
 # The Passion of Gengoroh Tagame
 
+![the-passion-of-gengoroh-tagame](https://cdn.myanimelist.net/images/manga/1/87615.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

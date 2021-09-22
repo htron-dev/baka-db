@@ -1,5 +1,7 @@
 # DVD
 
+![dvd](https://cdn.myanimelist.net/images/manga/1/30185.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 -   **chapters**: 40

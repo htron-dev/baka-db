@@ -1,5 +1,7 @@
 # Yamikin Ushijima-kun
 
+![yamikin-ushijima-kun](https://cdn.myanimelist.net/images/manga/2/147321.jpg)
+
 -   **type**: manga
 -   **volumes**: 46
 -   **chapters**: 493

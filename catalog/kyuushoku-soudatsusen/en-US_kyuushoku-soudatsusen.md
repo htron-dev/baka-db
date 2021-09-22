@@ -1,5 +1,7 @@
 # Kyuushoku Soudatsusen
 
+![kyuushoku-soudatsusen](https://cdn.myanimelist.net/images/manga/2/231008.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 給食争奪戦

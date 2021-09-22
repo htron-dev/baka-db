@@ -1,5 +1,7 @@
 # Kantoku Fuyuki Todoki
 
+![kantoku-fuyuki-todoki](https://cdn.myanimelist.net/images/anime/11/60065.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 監督不行届

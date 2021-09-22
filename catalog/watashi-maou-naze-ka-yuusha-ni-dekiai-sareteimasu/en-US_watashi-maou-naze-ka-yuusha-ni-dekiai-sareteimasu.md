@@ -1,5 +1,7 @@
 # Watashi, Maou.: Naze ka Yuusha ni Dekiai sareteimasu.
 
+![watashi-maou-naze-ka-yuusha-ni-dekiai-sareteimasu](https://cdn.myanimelist.net/images/manga/1/238266.jpg)
+
 -   **type**: manga
 -   **original-name**: 私、魔王。―なぜか勇者に溺愛されています。
 -   **start-date**: 2020-05-11

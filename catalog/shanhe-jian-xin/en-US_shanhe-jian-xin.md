@@ -1,5 +1,7 @@
 # Shanhe Jian Xin
 
+![shanhe-jian-xin](https://cdn.myanimelist.net/images/anime/1917/112024.jpg)
+
 -   **type**: ona
 -   **episodes**: 16
 -   **original-name**: 山河剑心

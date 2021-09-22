@@ -1,5 +1,7 @@
 # Shizuka-hime Den
 
+![shizuka-hime-den](https://cdn.myanimelist.net/images/manga/3/90027.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 静香姫伝

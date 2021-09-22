@@ -1,5 +1,7 @@
 # Strike Witches: 501 Butai Hasshin Shimasu!
 
+![strike-witches-501-butai-hasshin-shimasu](https://cdn.myanimelist.net/images/anime/1515/100453.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ストライクウィッチーズ 501 部隊発進しますっ！

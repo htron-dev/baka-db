@@ -1,5 +1,7 @@
 # The Breaker: New Waves
 
+![the-breaker-new-waves](https://cdn.myanimelist.net/images/manga/1/62105.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 20
 -   **chapters**: 203

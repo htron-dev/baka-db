@@ -1,5 +1,7 @@
 # Jitsuroku: Adachi Mitsuru Monogatari
 
+![jitsuroku-adachi-mitsuru-monogatari](https://cdn.myanimelist.net/images/manga/3/148985.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Dance with Devils: Fortuna
 
+![dance-with-devils-fortuna](https://cdn.myanimelist.net/images/anime/2/86240.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Dance with Devils -Fortuna-

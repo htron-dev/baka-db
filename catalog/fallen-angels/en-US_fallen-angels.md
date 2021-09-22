@@ -1,5 +1,7 @@
 # Fallen Angels
 
+![fallen-angels](https://cdn.myanimelist.net/images/manga/1/28451.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 15
 -   **original-name**: 타락천사

@@ -1,5 +1,7 @@
 # Gundam: G no Reconguista Movie I - Ike! Core Fighter
 
+![gundam-g-no-reconguista-movie-i-ike-core-fighter](https://cdn.myanimelist.net/images/anime/1763/102345.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 ガンダム G のレコンギスタ I 行け！コア・ファイター

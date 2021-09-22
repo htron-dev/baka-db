@@ -1,5 +1,7 @@
 # Akairo Kousaten
 
+![akairo-kousaten](https://cdn.myanimelist.net/images/manga/1/200086.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

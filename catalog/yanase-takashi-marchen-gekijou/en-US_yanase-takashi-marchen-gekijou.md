@@ -1,5 +1,7 @@
 # Yanase Takashi Märchen Gekijou
 
+![yanase-takashi-marchen-gekijou](https://cdn.myanimelist.net/images/anime/13/46679.jpg)
+
 -   **type**: ova
 -   **episodes**: 30
 -   **original-name**: やなせたかしメルヘン劇場

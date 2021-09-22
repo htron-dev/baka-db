@@ -1,5 +1,7 @@
 # Ooki-sensei to Kosame-san
 
+![ooki-sensei-to-kosame-san](https://cdn.myanimelist.net/images/manga/2/209794.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

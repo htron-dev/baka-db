@@ -1,5 +1,7 @@
 # Bronze: Zetsuai Since 1989
 
+![bronze-zetsuai-since-1989](https://cdn.myanimelist.net/images/manga/1/1491.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **original-name**: BRONZE zetsuai since 1989

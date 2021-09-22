@@ -1,5 +1,7 @@
 # Aharen-san wa Hakarenai
 
+![aharen-san-wa-hakarenai](https://cdn.myanimelist.net/images/anime/1783/116837.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 阿波連さんははかれない
 -   **start-date**: 2022-04-20

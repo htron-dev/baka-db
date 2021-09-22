@@ -1,5 +1,7 @@
 # Tsutaeru Toiki
 
+![tsutaeru-toiki](https://cdn.myanimelist.net/images/manga/3/77823.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

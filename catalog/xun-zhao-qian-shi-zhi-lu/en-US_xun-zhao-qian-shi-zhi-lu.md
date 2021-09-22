@@ -1,5 +1,7 @@
 # Xun Zhao Qian Shi Zhi Lu
 
+![xun-zhao-qian-shi-zhi-lu](https://cdn.myanimelist.net/images/manga/1/197351.jpg)
+
 -   **type**: manga
 -   **original-name**: 寻找前世之旅
 -   **start-date**: 2013-06-20

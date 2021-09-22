@@ -1,5 +1,7 @@
 # Dear Boys
 
+![dear-boys](https://cdn.myanimelist.net/images/anime/1141/109328.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ディア・ボーイズ

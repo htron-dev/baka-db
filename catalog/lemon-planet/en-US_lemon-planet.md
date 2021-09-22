@@ -1,5 +1,7 @@
 # Lemon Planet
 
+![lemon-planet](https://cdn.myanimelist.net/images/manga/3/11787.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 檸檬プラネット

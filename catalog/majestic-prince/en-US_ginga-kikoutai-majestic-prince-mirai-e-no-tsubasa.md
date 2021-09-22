@@ -1,5 +1,7 @@
 # Ginga Kikoutai Majestic Prince: Mirai e no Tsubasa
 
+![ginga-kikoutai-majestic-prince-mirai-e-no-tsubasa](https://cdn.myanimelist.net/images/anime/5/79232.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 銀河機攻隊 マジェスティックプリンス 「未来への翼」
@@ -28,4 +30,4 @@ Team Fawn from Gurantseere Academy dreams of one day fighting beside the heroes 
 -   [My Anime list](https://myanimelist.net/anime/33024/Ginga_Kikoutai_Majestic_Prince__Mirai_e_no_Tsubasa)
 -   [Official Site](http://www.mjp-anime.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9452)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Majestic_Prince_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Majestic_Prince_%28manga%29)

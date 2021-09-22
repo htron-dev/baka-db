@@ -1,5 +1,7 @@
 # Dohii! Obake ga Boku wo Penpen Naguru!
 
+![dohii-obake-ga-boku-wo-penpen-naguru](https://cdn.myanimelist.net/images/manga/2/126425.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Gekijouban Bleach: Memories of Nobody
 
+![gekijouban-bleach-memories-of-nobody](https://cdn.myanimelist.net/images/manga/2/229357.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 劇場版 BLEACH ―MEMORIES OF NOBODY―

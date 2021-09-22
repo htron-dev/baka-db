@@ -1,5 +1,7 @@
 # Hana, Musubu Kimi e
 
+![hana-musubu-kimi-e](https://cdn.myanimelist.net/images/manga/2/203521.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

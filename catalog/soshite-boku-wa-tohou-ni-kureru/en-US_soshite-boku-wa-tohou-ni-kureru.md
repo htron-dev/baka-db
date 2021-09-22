@@ -1,5 +1,7 @@
 # Soshite Boku wa Tohou ni Kureru
 
+![soshite-boku-wa-tohou-ni-kureru](https://cdn.myanimelist.net/images/manga/2/20510.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

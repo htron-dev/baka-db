@@ -1,5 +1,7 @@
 # Tokimeki Memorial 4 OVA
 
+![tokimeki-memorial-4-ova](https://cdn.myanimelist.net/images/anime/12/21756.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ときめきメモリアル 4 ORIGINAL ANIMATION -始まりのファインダー

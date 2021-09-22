@@ -1,5 +1,7 @@
 # Majo ni Sasageru Chikai
 
+![majo-ni-sasageru-chikai](https://cdn.myanimelist.net/images/manga/3/229607.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 魔女に捧げる誓い

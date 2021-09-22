@@ -1,5 +1,7 @@
 # Wake Up, Girls!
 
+![wake-up-girls](https://cdn.myanimelist.net/images/manga/3/170580.jpg)
+
 -   **type**: manga
 -   **original-name**: Wake Up, Girls!
 -   **start-date**: 2015-05-26

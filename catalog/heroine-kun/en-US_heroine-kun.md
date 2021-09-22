@@ -1,5 +1,7 @@
 # Heroine-kun
 
+![heroine-kun](https://cdn.myanimelist.net/images/manga/2/181117.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 24

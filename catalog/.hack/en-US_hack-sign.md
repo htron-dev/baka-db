@@ -1,5 +1,7 @@
 # .hack//Sign
 
+![hack-sign](https://cdn.myanimelist.net/images/anime/1443/94665.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: .hack//SIGN

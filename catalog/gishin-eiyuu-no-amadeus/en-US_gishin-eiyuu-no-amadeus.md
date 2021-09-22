@@ -1,5 +1,7 @@
 # Gishin Eiyuu no Amadeus
 
+![gishin-eiyuu-no-amadeus](https://cdn.myanimelist.net/images/manga/2/228160.jpg)
+
 -   **type**: manga
 -   **original-name**: 偽神英雄のアマデウス
 -   **start-date**: 2019-02-21

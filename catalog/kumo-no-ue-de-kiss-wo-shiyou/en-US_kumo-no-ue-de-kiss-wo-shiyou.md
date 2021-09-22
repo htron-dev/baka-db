@@ -1,5 +1,7 @@
 # Kumo no Ue de Kiss wo Shiyou
 
+![kumo-no-ue-de-kiss-wo-shiyou](https://cdn.myanimelist.net/images/manga/3/147533.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

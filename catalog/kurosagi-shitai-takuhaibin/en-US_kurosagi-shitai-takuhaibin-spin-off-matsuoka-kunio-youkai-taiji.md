@@ -1,5 +1,7 @@
 # Kurosagi Shitai Takuhaibin Spin-off: Matsuoka Kunio Youkai Taiji
 
+![kurosagi-shitai-takuhaibin-spin-off-matsuoka-kunio-youkai-taiji](https://cdn.myanimelist.net/images/manga/3/148957.jpg)
+
 -   **type**: manga
 -   **original-name**: 黒鷺死体宅配便スピンオフ 松岡國男妖怪退治
 -   **start-date**: 2006-01-28

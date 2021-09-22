@@ -1,5 +1,7 @@
 # Little Busters! Ecstasy: Wonderbit Wandering
 
+![little-busters-ecstasy-wonderbit-wandering](https://cdn.myanimelist.net/images/manga/3/34818.jpg)
+
 -   **type**: manga
 -   **original-name**: リトルバスターズ！エクスタシー　ワンダービット ワンダリング
 -   **start-date**: 2010-05-20

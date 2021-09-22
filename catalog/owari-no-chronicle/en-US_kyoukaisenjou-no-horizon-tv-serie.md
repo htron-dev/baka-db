@@ -1,5 +1,7 @@
 # Kyoukaisenjou no Horizon
 
+![kyoukaisenjou-no-horizon](https://cdn.myanimelist.net/images/anime/6/79598.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 境界線上のホライゾン

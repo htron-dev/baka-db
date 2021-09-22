@@ -1,5 +1,7 @@
 # Shuusen no Lorelei
 
+![shuusen-no-lorelei](https://cdn.myanimelist.net/images/manga/2/138185.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 終戦のローレライ

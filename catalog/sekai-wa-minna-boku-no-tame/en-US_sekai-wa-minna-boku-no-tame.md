@@ -1,5 +1,7 @@
 # Sekai wa Minna Boku no Tame
 
+![sekai-wa-minna-boku-no-tame](https://cdn.myanimelist.net/images/manga/3/26287.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 世界はみんなボクの為

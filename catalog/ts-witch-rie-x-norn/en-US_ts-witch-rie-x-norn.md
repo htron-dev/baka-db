@@ -1,5 +1,7 @@
 # TS Witch Rie x Norn
 
+![ts-witch-rie-x-norn](https://cdn.myanimelist.net/images/manga/3/143005.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

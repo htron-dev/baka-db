@@ -1,5 +1,7 @@
 # Sekai Seifuku!! Shrimp Kingdom
 
+![sekai-seifuku-shrimp-kingdom](https://cdn.myanimelist.net/images/manga/2/223834.jpg)
+
 -   **type**: manga
 -   **chapters**: 36
 -   **original-name**: 世界征服!! シュリンプキングダム

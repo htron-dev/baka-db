@@ -1,5 +1,7 @@
 # Junkyouju Takatsuki Akira no Suisatsu
 
+![junkyouju-takatsuki-akira-no-suisatsu](https://cdn.myanimelist.net/images/manga/3/237711.jpg)
+
 -   **type**: manga
 -   **original-name**: 准教授・高槻彰良の推察
 -   **start-date**: 2020-08-12

@@ -1,5 +1,7 @@
 # Mobile Suit Gundam MS IGLOO: Apocalypse 0079
 
+![mobile-suit-gundam-ms-igloo-apocalypse-0079](https://cdn.myanimelist.net/images/anime/8/11823.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 機動戦士ガンダム MS IGLOO -黙示録 0079-

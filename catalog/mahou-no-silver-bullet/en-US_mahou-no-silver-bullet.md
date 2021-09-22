@@ -1,5 +1,7 @@
 # Mahou no Silver Bullet
 
+![mahou-no-silver-bullet](https://cdn.myanimelist.net/images/manga/2/78275.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

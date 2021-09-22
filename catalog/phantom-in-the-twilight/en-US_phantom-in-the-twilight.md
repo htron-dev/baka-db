@@ -1,5 +1,7 @@
 # Phantom in the Twilight
 
+![phantom-in-the-twilight](https://cdn.myanimelist.net/images/anime/1156/93567.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ファントム イン ザ トワイライト

@@ -1,5 +1,7 @@
 # Taiyou ga Ippai
 
+![taiyou-ga-ippai](https://cdn.myanimelist.net/images/manga/2/138557.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

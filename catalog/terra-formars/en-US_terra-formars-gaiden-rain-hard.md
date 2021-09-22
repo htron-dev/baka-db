@@ -1,5 +1,7 @@
 # Terra Formars Gaiden: Rain Hard
 
+![terra-formars-gaiden-rain-hard](https://cdn.myanimelist.net/images/manga/2/150517.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

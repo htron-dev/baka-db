@@ -1,5 +1,7 @@
 # Arikawa Kyouju wa Dekiai ga Sugiru you desu.
 
+![arikawa-kyouju-wa-dekiai-ga-sugiru-you-desu](https://cdn.myanimelist.net/images/manga/2/238380.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

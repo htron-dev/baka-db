@@ -1,5 +1,7 @@
 # Mobile Suit Crossbone Gundam: Skull Heart
 
+![mobile-suit-crossbone-gundam-skull-heart](https://cdn.myanimelist.net/images/manga/4/111839.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Somali to Mori no Kamisama
 
+![somali-to-mori-no-kamisama](https://cdn.myanimelist.net/images/anime/1938/102796.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ソマリと森の神様

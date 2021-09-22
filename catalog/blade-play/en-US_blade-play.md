@@ -1,5 +1,7 @@
 # Blade Play
 
+![blade-play](https://cdn.myanimelist.net/images/manga/3/188807.jpg)
+
 -   **type**: manga
 -   **original-name**: ぶれいど ぷれい
 -   **start-date**: 2009-09-18

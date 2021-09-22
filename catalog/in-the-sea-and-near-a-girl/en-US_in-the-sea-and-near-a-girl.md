@@ -1,5 +1,7 @@
 # In the Sea and near a Girl.
 
+![in-the-sea-and-near-a-girl](https://cdn.myanimelist.net/images/anime/1771/98734.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: in the sea and near a girl.

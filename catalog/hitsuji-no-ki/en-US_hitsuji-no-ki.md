@@ -1,5 +1,7 @@
 # Hitsuji no Ki
 
+![hitsuji-no-ki](https://cdn.myanimelist.net/images/manga/1/117619.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 44

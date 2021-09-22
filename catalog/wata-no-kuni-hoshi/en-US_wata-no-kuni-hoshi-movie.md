@@ -1,5 +1,7 @@
 # Wata no Kuni Hoshi
 
+![wata-no-kuni-hoshi](https://cdn.myanimelist.net/images/anime/11/13204.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 綿の国星

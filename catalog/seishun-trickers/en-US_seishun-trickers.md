@@ -1,5 +1,7 @@
 # Seishun Trickers
 
+![seishun-trickers](https://cdn.myanimelist.net/images/manga/2/129479.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

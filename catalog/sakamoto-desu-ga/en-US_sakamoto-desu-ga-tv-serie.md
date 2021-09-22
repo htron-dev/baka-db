@@ -1,5 +1,7 @@
 # Sakamoto Desu ga?
 
+![sakamoto-desu-ga](https://cdn.myanimelist.net/images/anime/4/79468.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 坂本ですが？

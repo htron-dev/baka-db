@@ -1,5 +1,7 @@
 # Moshidora Recap
 
+![moshidora-recap](https://cdn.myanimelist.net/images/anime/10/71637.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: もしドラ 再び 総集編

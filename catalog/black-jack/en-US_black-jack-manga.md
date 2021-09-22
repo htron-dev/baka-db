@@ -1,5 +1,7 @@
 # Black Jack
 
+![black-jack](https://cdn.myanimelist.net/images/manga/2/170232.jpg)
+
 -   **type**: manga
 -   **volumes**: 25
 -   **chapters**: 243

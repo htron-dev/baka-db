@@ -1,5 +1,7 @@
 # Beauty Pop
 
+![beauty-pop](https://cdn.myanimelist.net/images/manga/2/9226.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 57

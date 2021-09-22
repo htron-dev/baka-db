@@ -1,5 +1,7 @@
 # Abstract feat. Alkama
 
+![abstract-feat-alkama](https://cdn.myanimelist.net/images/anime/8/87400.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 个乃ち七允ムく七 (Abstract) feat. Alkama

@@ -1,5 +1,7 @@
 # Koishite Daddy
 
+![koishite-daddy](https://cdn.myanimelist.net/images/manga/4/147585.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

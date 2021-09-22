@@ -1,5 +1,7 @@
 # Mahoutsukai no Yome Recap
 
+![mahoutsukai-no-yome-recap](https://cdn.myanimelist.net/images/anime/9/89797.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 魔法使いの嫁 スペシャルダイジェスト

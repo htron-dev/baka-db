@@ -1,5 +1,7 @@
 # Yondemasu yo, Azazel-san.
 
+![yondemasu-yo-azazel-san](https://cdn.myanimelist.net/images/anime/2/24619.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: よんでますよ、アザゼルさん。

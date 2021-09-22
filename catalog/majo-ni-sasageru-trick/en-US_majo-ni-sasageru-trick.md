@@ -1,5 +1,7 @@
 # Majo ni Sasageru Trick
 
+![majo-ni-sasageru-trick](https://cdn.myanimelist.net/images/manga/1/237121.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 31

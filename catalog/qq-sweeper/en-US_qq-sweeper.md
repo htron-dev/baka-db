@@ -1,5 +1,7 @@
 # QQ Sweeper
 
+![qq-sweeper](https://cdn.myanimelist.net/images/manga/3/150693.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

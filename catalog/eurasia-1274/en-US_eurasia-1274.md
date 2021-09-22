@@ -1,5 +1,7 @@
 # Eurasia 1274
 
+![eurasia-1274](https://cdn.myanimelist.net/images/manga/3/125507.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

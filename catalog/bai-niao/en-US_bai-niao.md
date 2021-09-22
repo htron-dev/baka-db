@@ -1,5 +1,7 @@
 # Bai Niao
 
+![bai-niao](https://cdn.myanimelist.net/images/anime/1354/112739.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 白鸟

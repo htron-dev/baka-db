@@ -1,5 +1,7 @@
 # Sore ga Ai Kamoshirenai
 
+![sore-ga-ai-kamoshirenai](https://cdn.myanimelist.net/images/manga/2/10278.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: これが愛かもしれない

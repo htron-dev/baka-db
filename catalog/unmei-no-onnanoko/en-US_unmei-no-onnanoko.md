@@ -1,5 +1,7 @@
 # Unmei no Onnanoko
 
+![unmei-no-onnanoko](https://cdn.myanimelist.net/images/manga/1/138727.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

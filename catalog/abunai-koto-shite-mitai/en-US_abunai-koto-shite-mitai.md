@@ -1,5 +1,7 @@
 # Abunai Koto Shite Mitai
 
+![abunai-koto-shite-mitai](https://cdn.myanimelist.net/images/manga/2/20974.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

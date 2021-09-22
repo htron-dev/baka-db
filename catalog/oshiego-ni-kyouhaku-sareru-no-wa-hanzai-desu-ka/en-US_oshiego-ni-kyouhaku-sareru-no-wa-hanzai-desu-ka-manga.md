@@ -1,5 +1,7 @@
 # Oshiego ni Kyouhaku sareru no wa Hanzai desu ka?
 
+![oshiego-ni-kyouhaku-sareru-no-wa-hanzai-desu-ka](https://cdn.myanimelist.net/images/manga/3/216071.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

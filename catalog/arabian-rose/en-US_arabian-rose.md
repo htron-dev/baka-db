@@ -1,5 +1,7 @@
 # Arabian Rose
 
+![arabian-rose](https://cdn.myanimelist.net/images/manga/5/140327.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: アラビアンローズ

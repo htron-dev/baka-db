@@ -1,5 +1,7 @@
 # Heisei Tanuki Gassen Ponpoko
 
+![heisei-tanuki-gassen-ponpoko](https://cdn.myanimelist.net/images/anime/11/75925.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 平成狸合戦ぽんぽこ

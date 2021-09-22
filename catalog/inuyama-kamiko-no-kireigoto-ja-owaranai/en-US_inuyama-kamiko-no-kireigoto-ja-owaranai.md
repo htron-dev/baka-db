@@ -1,5 +1,7 @@
 # Inuyama Kamiko no Kireigoto ja Owaranai!
 
+![inuyama-kamiko-no-kireigoto-ja-owaranai](https://cdn.myanimelist.net/images/anime/13/64193.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 犬山紙子のキレイごとじゃ終わらない！

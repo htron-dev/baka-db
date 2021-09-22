@@ -1,5 +1,7 @@
 # Saturn Return
 
+![saturn-return](https://cdn.myanimelist.net/images/manga/1/232376.jpg)
+
 -   **type**: manga
 -   **original-name**: サターンリターン
 -   **start-date**: 2019-01-21

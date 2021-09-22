@@ -1,5 +1,7 @@
 # Chihou Kishi Hans no Junan
 
+![chihou-kishi-hans-no-junan](https://cdn.myanimelist.net/images/manga/3/188827.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 54

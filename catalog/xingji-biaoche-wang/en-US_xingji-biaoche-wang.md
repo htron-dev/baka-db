@@ -1,5 +1,7 @@
 # Xingji Biaoche Wang
 
+![xingji-biaoche-wang](https://cdn.myanimelist.net/images/anime/11/80957.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **start-date**: 2006-02-01

@@ -1,5 +1,7 @@
 # Raijuu Biribiri: Ooedo Ayakashi Hankachou
 
+![raijuu-biribiri-ooedo-ayakashi-hankachou](https://cdn.myanimelist.net/images/manga/3/163840.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 雷獣びりびり 大江戸あやかし犯科帳

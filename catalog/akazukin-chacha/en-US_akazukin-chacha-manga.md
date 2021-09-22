@@ -1,5 +1,7 @@
 # Akazukin Chacha
 
+![akazukin-chacha](https://cdn.myanimelist.net/images/manga/4/248394.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 94

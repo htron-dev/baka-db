@@ -1,5 +1,7 @@
 # K: Lost Small World
 
+![k-lost-small-world](https://cdn.myanimelist.net/images/manga/2/166578.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

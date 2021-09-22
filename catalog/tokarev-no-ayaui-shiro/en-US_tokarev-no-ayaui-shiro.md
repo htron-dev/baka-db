@@ -1,5 +1,7 @@
 # Tokarev no Ayaui Shiro
 
+![tokarev-no-ayaui-shiro](https://cdn.myanimelist.net/images/manga/4/48587.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

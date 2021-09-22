@@ -1,5 +1,7 @@
 # Sakura\*Nadeshiko
 
+![sakura-nadeshiko](https://cdn.myanimelist.net/images/manga/2/174782.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 26

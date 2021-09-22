@@ -1,5 +1,7 @@
 # Vampeerz
 
+![vampeerz](https://cdn.myanimelist.net/images/manga/1/222254.jpg)
+
 -   **type**: manga
 -   **original-name**: ヴァンピアーズ
 -   **start-date**: 2019-02-19

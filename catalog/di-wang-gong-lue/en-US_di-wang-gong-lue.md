@@ -1,5 +1,7 @@
 # Di Wang Gong Lue
 
+![di-wang-gong-lue](https://cdn.myanimelist.net/images/anime/1695/91321.jpg)
+
 -   **type**: ona
 -   **episodes**: 20
 -   **original-name**: 帝王攻略

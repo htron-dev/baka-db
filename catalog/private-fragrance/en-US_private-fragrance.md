@@ -1,5 +1,7 @@
 # Private Fragrance
 
+![private-fragrance](https://cdn.myanimelist.net/images/manga/1/74577.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

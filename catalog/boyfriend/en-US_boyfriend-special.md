@@ -1,5 +1,7 @@
 # Boyfriend
 
+![boyfriend](https://cdn.myanimelist.net/images/anime/1161/95950.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ボ～イ フレンド

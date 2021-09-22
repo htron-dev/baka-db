@@ -1,5 +1,7 @@
 # Makai de Hofu-san Hajimemashita
 
+![makai-de-hofu-san-hajimemashita](https://cdn.myanimelist.net/images/manga/1/168654.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

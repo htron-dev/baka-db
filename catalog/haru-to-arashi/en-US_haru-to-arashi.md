@@ -1,5 +1,7 @@
 # Haru to Arashi
 
+![haru-to-arashi](https://cdn.myanimelist.net/images/manga/1/241460.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

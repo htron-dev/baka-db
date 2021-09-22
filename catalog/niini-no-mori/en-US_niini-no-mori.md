@@ -1,5 +1,7 @@
 # Niini no Mori
 
+![niini-no-mori](https://cdn.myanimelist.net/images/manga/2/175508.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

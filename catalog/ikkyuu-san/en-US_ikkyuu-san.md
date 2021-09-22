@@ -1,5 +1,7 @@
 # Ikkyuu-san
 
+![ikkyuu-san](https://cdn.myanimelist.net/images/anime/6/60917.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 296
 -   **original-name**: 一休さん

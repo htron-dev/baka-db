@@ -1,5 +1,7 @@
 # Cyclops Shoujo Saipuu
 
+![cyclops-shoujo-saipuu](https://cdn.myanimelist.net/images/manga/3/139185.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 160

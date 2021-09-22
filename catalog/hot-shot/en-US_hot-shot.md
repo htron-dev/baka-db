@@ -1,5 +1,7 @@
 # Hot Shot
 
+![hot-shot](https://cdn.myanimelist.net/images/manga/2/152391.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: HOT SHOT ホットショット

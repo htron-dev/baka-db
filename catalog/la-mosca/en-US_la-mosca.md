@@ -1,5 +1,7 @@
 # La Mosca
 
+![la-mosca](https://cdn.myanimelist.net/images/manga/1/16478.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **chapters**: 46

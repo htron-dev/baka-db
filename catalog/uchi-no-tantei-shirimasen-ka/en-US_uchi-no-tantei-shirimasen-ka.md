@@ -1,5 +1,7 @@
 # Uchi no Tantei Shirimasen ka?
 
+![uchi-no-tantei-shirimasen-ka](https://cdn.myanimelist.net/images/manga/1/24105.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

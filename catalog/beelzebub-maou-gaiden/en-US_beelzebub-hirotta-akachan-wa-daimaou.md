@@ -1,5 +1,7 @@
 # Beelzebub: Hirotta Akachan wa Daimaou!?
 
+![beelzebub-hirotta-akachan-wa-daimaou](https://cdn.myanimelist.net/images/anime/7/26349.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: べるぜバブ 拾った赤ちゃんは大魔王!?
@@ -30,4 +32,4 @@ Baby Beel's maid, Hildegard "Hilda," informs Oga that the infant has latched ont
 -   [My Anime list](https://myanimelist.net/anime/9120/Beelzebub__Hirotta_Akachan_wa_Daimaou)
 -   [Official Site](http://www.jumpfesta.com/anime/r_m02.html?num=1)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7736)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Beelzebub_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Beelzebub_%28manga%29)

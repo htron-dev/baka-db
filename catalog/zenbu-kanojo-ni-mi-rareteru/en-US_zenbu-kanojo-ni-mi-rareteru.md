@@ -1,5 +1,7 @@
 # Zenbu Kanojo ni [Mi] Rareteru?
 
+![zenbu-kanojo-ni-mi-rareteru](https://cdn.myanimelist.net/images/manga/1/163865.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 21

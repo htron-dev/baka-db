@@ -1,5 +1,7 @@
 # Koitomo Triangle
 
+![koitomo-triangle](https://cdn.myanimelist.net/images/manga/2/198541.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

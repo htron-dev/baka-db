@@ -1,5 +1,7 @@
 # Metal Brain 109
 
+![metal-brain-109](https://cdn.myanimelist.net/images/manga/2/237235.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **original-name**: 기계전사 109

@@ -1,5 +1,7 @@
 # Gozonji! Gekkou Kamen-kun
 
+![gozonji-gekkou-kamen-kun](https://cdn.myanimelist.net/images/anime/9/11367.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ごぞんじ！月光仮面くん

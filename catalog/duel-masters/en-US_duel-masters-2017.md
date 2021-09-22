@@ -1,5 +1,7 @@
 # Duel Masters (2017)
 
+![duel-masters-2017](https://cdn.myanimelist.net/images/anime/12/86604.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: デュエル・マスターズ (2017)
@@ -14,7 +16,6 @@
 -   action
 -   adventure
 -   comedy
-
 -   fantasy
 
 ## Sinopse
@@ -29,4 +30,4 @@ In the new series' story, the balance of the Creature World is starting to crumb
 -   [Official Site](http://www.tv-tokyo.co.jp/anime/dm/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=12818)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=19095)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%A5%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA_(%E6%BC%AB%E7%94%BB)>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%A5%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA_%28%E6%BC%AB%E7%94%BB%29)

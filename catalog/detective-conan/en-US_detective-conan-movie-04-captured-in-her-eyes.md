@@ -1,5 +1,7 @@
 # Detective Conan Movie 04: Captured in Her Eyes
 
+![detective-conan-movie-04-captured-in-her-eyes](https://cdn.myanimelist.net/images/anime/1196/94319.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 瞳の中の暗殺者

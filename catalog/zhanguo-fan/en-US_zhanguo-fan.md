@@ -1,5 +1,7 @@
 # Zhanguo Fan
 
+![zhanguo-fan](https://cdn.myanimelist.net/images/anime/12/87896.jpg)
+
 -   **type**: ona
 -   **episodes**: 15
 -   **original-name**: 战国 FAN

@@ -1,5 +1,7 @@
 # Niuniu Elise PV
 
+![niuniu-elise-pv](https://cdn.myanimelist.net/images/anime/10/85440.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 妞妞爱瑞丝的 PV

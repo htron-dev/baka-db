@@ -1,5 +1,7 @@
 # Glass no Kamen Desu ga to Z
 
+![glass-no-kamen-desu-ga-to-z](https://cdn.myanimelist.net/images/anime/3/66851.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 14
 -   **original-name**: ガラスの仮面ですが と Z

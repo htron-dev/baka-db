@@ -1,5 +1,7 @@
 # Mitsuami no Kamisama
 
+![mitsuami-no-kamisama](https://cdn.myanimelist.net/images/anime/5/79853.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: みつあみの神様

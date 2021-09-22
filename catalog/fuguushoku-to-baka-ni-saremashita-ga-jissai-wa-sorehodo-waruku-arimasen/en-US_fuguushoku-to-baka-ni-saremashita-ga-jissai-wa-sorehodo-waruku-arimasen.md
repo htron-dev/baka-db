@@ -1,5 +1,7 @@
 # Fuguushoku to Baka ni Saremashita ga, Jissai wa Sorehodo Waruku Arimasen?
 
+![fuguushoku-to-baka-ni-saremashita-ga-jissai-wa-sorehodo-waruku-arimasen](https://cdn.myanimelist.net/images/manga/1/236237.jpg)
+
 -   **type**: manga
 -   **original-name**: 不遇職とバカにされましたが、実際はそれほど悪くありません?
 -   **start-date**: 2019-11-15

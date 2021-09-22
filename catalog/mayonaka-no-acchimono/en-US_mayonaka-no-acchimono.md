@@ -1,5 +1,7 @@
 # Mayonaka no Acchimono
 
+![mayonaka-no-acchimono](https://cdn.myanimelist.net/images/manga/1/105731.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

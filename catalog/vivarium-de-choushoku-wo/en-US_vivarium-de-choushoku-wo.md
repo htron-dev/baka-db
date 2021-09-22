@@ -1,5 +1,7 @@
 # Vivarium de Choushoku wo
 
+![vivarium-de-choushoku-wo](https://cdn.myanimelist.net/images/manga/3/245167.jpg)
+
 -   **type**: manga
 -   **original-name**: ビバリウムで朝食を
 -   **start-date**: 2021-02-19

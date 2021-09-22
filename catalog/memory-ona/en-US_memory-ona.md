@@ -1,5 +1,7 @@
 # Memory (ONA)
 
+![memory-ona](https://cdn.myanimelist.net/images/anime/12/24150.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: メモリー

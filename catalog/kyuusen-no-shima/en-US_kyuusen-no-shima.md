@@ -1,5 +1,7 @@
 # Kyuusen no Shima
 
+![kyuusen-no-shima](https://cdn.myanimelist.net/images/manga/3/117501.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

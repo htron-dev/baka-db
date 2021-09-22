@@ -1,5 +1,7 @@
 # The Star
 
+![the-star](https://cdn.myanimelist.net/images/manga/2/28466.jpg)
+
 -   **type**: manga
 -   **volumes**: 24
 -   **original-name**: ザ・スター

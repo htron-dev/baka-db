@@ -1,5 +1,7 @@
 # Hoshikuzu Nina
 
+![hoshikuzu-nina](https://cdn.myanimelist.net/images/manga/2/115073.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 29

@@ -1,5 +1,7 @@
 # Hanataba ni Te wo Agero
 
+![hanataba-ni-te-wo-agero](https://cdn.myanimelist.net/images/manga/3/2610.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Choujigen Game Neptune: Hi☆Light
 
+![choujigen-game-neptune-hi☆-light](https://cdn.myanimelist.net/images/anime/1395/111345.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 超次元ゲイム ネプテューヌ Hi☆Light

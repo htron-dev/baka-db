@@ -1,5 +1,7 @@
 # Enkyori Kekkon
 
+![enkyori-kekkon](https://cdn.myanimelist.net/images/manga/3/40527.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 遠距離結婚

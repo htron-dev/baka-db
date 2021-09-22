@@ -1,5 +1,7 @@
 # J-Dream: Hishouhen
 
+![j-dream-hishouhen](https://cdn.myanimelist.net/images/manga/1/183411.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 78

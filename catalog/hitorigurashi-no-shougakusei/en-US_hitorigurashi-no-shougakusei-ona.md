@@ -1,5 +1,7 @@
 # Hitorigurashi no Shougakusei
 
+![hitorigurashi-no-shougakusei](https://cdn.myanimelist.net/images/anime/11/87427.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: ひとり暮らしの小学生

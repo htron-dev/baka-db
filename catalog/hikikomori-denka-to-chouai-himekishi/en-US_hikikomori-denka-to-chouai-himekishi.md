@@ -1,5 +1,7 @@
 # Hikikomori Denka to Chouai Himekishi
 
+![hikikomori-denka-to-chouai-himekishi](https://cdn.myanimelist.net/images/manga/1/194385.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

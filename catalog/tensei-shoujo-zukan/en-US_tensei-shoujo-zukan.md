@@ -1,5 +1,7 @@
 # Tensei Shoujo Zukan
 
+![tensei-shoujo-zukan](https://cdn.myanimelist.net/images/manga/2/178406.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

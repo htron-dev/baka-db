@@ -1,5 +1,7 @@
 # Tonari no Kashiwagi-san
 
+![tonari-no-kashiwagi-san](https://cdn.myanimelist.net/images/manga/2/181053.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 84

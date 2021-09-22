@@ -1,5 +1,7 @@
 # Koppamijin no Koi
 
+![koppamijin-no-koi](https://cdn.myanimelist.net/images/manga/2/204721.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 50

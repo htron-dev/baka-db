@@ -1,5 +1,7 @@
 # Hanhua Riji 2nd Season
 
+![hanhua-riji-2nd-season](https://cdn.myanimelist.net/images/anime/1381/111049.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 汉化日记 第二季

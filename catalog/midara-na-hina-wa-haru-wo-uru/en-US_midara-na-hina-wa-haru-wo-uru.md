@@ -1,5 +1,7 @@
 # Midara na Hina wa Haru wo Uru
 
+![midara-na-hina-wa-haru-wo-uru](https://cdn.myanimelist.net/images/manga/2/205327.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

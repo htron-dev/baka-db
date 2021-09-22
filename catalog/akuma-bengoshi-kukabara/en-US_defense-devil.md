@@ -1,5 +1,7 @@
 # Defense Devil
 
+![defense-devil](https://cdn.myanimelist.net/images/manga/2/56407.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 100

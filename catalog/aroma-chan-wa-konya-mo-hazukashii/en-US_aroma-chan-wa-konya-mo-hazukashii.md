@@ -1,5 +1,7 @@
 # Aroma-chan wa Konya mo Hazukashii
 
+![aroma-chan-wa-konya-mo-hazukashii](https://cdn.myanimelist.net/images/manga/3/211648.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

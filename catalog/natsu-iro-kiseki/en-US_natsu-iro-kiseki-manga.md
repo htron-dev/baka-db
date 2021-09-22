@@ -1,5 +1,7 @@
 # Natsu-iro Kiseki
 
+![natsu-iro-kiseki](https://cdn.myanimelist.net/images/manga/1/78249.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 夏色キセキ

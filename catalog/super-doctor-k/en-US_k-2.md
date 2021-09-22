@@ -1,5 +1,7 @@
 # K2
 
+![k-2](https://cdn.myanimelist.net/images/manga/2/159491.jpg)
+
 -   **type**: manga
 -   **original-name**: K2
 -   **start-date**: 2004-05-11

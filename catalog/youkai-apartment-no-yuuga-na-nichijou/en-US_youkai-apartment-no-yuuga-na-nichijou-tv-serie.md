@@ -1,5 +1,7 @@
 # Youkai Apartment no Yuuga na Nichijou
 
+![youkai-apartment-no-yuuga-na-nichijou](https://cdn.myanimelist.net/images/anime/5/86678.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 妖怪アパートの幽雅な日常

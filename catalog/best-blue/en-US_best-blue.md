@@ -1,5 +1,7 @@
 # Best Blue
 
+![best-blue](https://cdn.myanimelist.net/images/manga/3/167379.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

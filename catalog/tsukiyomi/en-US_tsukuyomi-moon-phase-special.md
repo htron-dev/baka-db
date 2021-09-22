@@ -1,5 +1,7 @@
 # Tsukuyomi: Moon Phase Special
 
+![tsukuyomi-moon-phase-special](https://cdn.myanimelist.net/images/anime/8/3433.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 月詠 -MOON PHASE- おにいさま, ゆらゆらきらきらどんぶらこ これって, なーんだ?

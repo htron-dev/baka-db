@@ -1,5 +1,7 @@
 # Chi's Sweet Home: Chi to Kocchi, Deau.
 
+![chis-sweet-home-chi-to-kocchi-deau](https://cdn.myanimelist.net/images/anime/6/80214.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: チーズスイートホーム チーとコッチ, 出会う.

@@ -1,5 +1,7 @@
 # Zero Seiki Movie 2: Herlock
 
+![zero-seiki-movie-2-herlock](https://cdn.myanimelist.net/images/anime/2/86658.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 零世紀 ハーロック

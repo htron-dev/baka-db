@@ -1,5 +1,7 @@
 # Biyaku nante Baka ja Nai no!
 
+![biyaku-nante-baka-ja-nai-no](https://cdn.myanimelist.net/images/manga/3/169787.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 媚薬なんてバカじゃないの！

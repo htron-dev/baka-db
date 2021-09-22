@@ -1,5 +1,7 @@
 # Gokujou Danshi to Kurashitemasu.
 
+![gokujou-danshi-to-kurashitemasu](https://cdn.myanimelist.net/images/manga/3/21587.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

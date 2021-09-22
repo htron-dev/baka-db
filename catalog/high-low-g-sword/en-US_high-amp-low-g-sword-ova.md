@@ -1,5 +1,7 @@
 # High &amp; Low: G-Sword OVA
 
+![high-amp-low-g-sword-ova](https://cdn.myanimelist.net/images/anime/3/88441.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: HiGH&LOW g-sword OVA

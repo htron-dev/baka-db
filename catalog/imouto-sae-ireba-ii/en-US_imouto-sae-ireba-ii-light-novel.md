@@ -1,5 +1,7 @@
 # Imouto sae Ireba Ii.
 
+![imouto-sae-ireba-ii](https://cdn.myanimelist.net/images/manga/2/174940.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 14
 -   **chapters**: 206

@@ -1,5 +1,7 @@
 # Muv-Luv Alternative: Total Eclipse - Rising
 
+![muv-luv-alternative-total-eclipse-rising](https://cdn.myanimelist.net/images/manga/2/135723.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: マブラヴ オルタネイティヴ トータル・イクリプス rising

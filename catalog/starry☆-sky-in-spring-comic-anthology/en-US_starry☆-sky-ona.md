@@ -1,5 +1,7 @@
 # Starry☆Sky
 
+![starry☆-sky](https://cdn.myanimelist.net/images/anime/7/27459.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: スタ ☆ スカ

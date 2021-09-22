@@ -1,5 +1,7 @@
 # Hitomi Genki: Kingdom
 
+![hitomi-genki-kingdom](https://cdn.myanimelist.net/images/manga/4/88321.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 57

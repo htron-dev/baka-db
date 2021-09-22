@@ -1,5 +1,7 @@
 # Maou ni Natta Osananajimi to wa Kozukuri Dekimasen!
 
+![maou-ni-natta-osananajimi-to-wa-kozukuri-dekimasen](https://cdn.myanimelist.net/images/manga/2/214562.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

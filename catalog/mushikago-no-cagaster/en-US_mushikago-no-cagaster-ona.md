@@ -1,5 +1,7 @@
 # Mushikago no Cagaster
 
+![mushikago-no-cagaster](https://cdn.myanimelist.net/images/anime/1842/105458.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 虫籠のカガステル

@@ -1,5 +1,7 @@
 # Brothers Conflict feat.Tsubaki&Azusa
 
+![brothers-conflict-feat-tsubaki-azusa](https://cdn.myanimelist.net/images/manga/3/99375.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

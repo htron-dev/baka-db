@@ -1,5 +1,7 @@
 # Bikini!
 
+![bikini](https://cdn.myanimelist.net/images/manga/1/4087.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

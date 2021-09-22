@@ -1,5 +1,7 @@
 # Mahou Shoujo Madoka★Magica Movie 4: Walpurgis no Kaiten
 
+![mahou-shoujo-madoka★-magica-movie-4-walpurgis-no-kaiten](https://cdn.myanimelist.net/images/anime/1443/114591.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 魔法少女まどか ☆ マギカ〈ワルプルギスの廻天〉

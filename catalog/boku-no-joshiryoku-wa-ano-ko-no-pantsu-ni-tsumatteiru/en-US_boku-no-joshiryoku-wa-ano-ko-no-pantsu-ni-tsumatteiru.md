@@ -1,5 +1,7 @@
 # Boku no Joshiryoku wa Ano Ko no Pantsu ni Tsumatteiru.
 
+![boku-no-joshiryoku-wa-ano-ko-no-pantsu-ni-tsumatteiru](https://cdn.myanimelist.net/images/manga/2/160698.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

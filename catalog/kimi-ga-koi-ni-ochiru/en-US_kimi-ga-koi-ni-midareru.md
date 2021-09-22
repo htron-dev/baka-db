@@ -1,5 +1,7 @@
 # Kimi ga Koi ni Midareru
 
+![kimi-ga-koi-ni-midareru](https://cdn.myanimelist.net/images/manga/1/83635.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

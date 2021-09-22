@@ -1,5 +1,7 @@
 # Pipi Tobenai Hotaru
 
+![pipi-tobenai-hotaru](https://cdn.myanimelist.net/images/anime/12/53081.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Pipi とべないホタル

@@ -1,5 +1,7 @@
 # Black Robinia
 
+![black-robinia](https://cdn.myanimelist.net/images/manga/2/87001.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

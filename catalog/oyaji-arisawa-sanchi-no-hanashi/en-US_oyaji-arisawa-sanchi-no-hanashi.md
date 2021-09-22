@@ -1,5 +1,7 @@
 # Oyaji! Arisawa-san'chi no Hanashi
 
+![oyaji-arisawa-sanchi-no-hanashi](https://cdn.myanimelist.net/images/manga/3/17290.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

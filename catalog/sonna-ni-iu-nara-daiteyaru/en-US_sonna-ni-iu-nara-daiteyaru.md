@@ -1,5 +1,7 @@
 # Sonna ni Iu nara Daiteyaru
 
+![sonna-ni-iu-nara-daiteyaru](https://cdn.myanimelist.net/images/manga/3/238116.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # NOeSIS: Uso wo Tsuita Kioku no Monogatari
 
+![n-oe-sis-uso-wo-tsuita-kioku-no-monogatari](https://cdn.myanimelist.net/images/manga/3/147641.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

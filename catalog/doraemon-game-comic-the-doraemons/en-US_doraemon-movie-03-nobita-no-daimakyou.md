@@ -1,5 +1,7 @@
 # Doraemon Movie 03: Nobita no Daimakyou
 
+![doraemon-movie-03-nobita-no-daimakyou](https://cdn.myanimelist.net/images/anime/7/72408.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん のび太の大魔境

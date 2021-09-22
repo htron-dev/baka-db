@@ -1,5 +1,7 @@
 # Fu.shi.gi no Rin
 
+![fu-shi-gi-no-rin](https://cdn.myanimelist.net/images/manga/1/30506.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: ふ ★ し ★ ぎの RIN

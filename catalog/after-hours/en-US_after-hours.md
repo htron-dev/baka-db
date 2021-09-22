@@ -1,5 +1,7 @@
 # After Hours
 
+![after-hours](https://cdn.myanimelist.net/images/manga/2/165028.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

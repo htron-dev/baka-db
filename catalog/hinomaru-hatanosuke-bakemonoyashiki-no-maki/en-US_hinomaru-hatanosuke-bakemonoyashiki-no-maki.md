@@ -1,5 +1,7 @@
 # Hinomaru Hatanosuke: Bakemonoyashiki no Maki
 
+![hinomaru-hatanosuke-bakemonoyashiki-no-maki](https://cdn.myanimelist.net/images/anime/4/15834.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 日の丸旗之助～化物屋敷の巻～

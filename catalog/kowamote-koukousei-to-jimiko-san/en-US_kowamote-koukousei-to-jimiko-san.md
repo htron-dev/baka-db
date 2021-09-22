@@ -1,5 +1,7 @@
 # Kowamote Koukousei to Jimiko-san
 
+![kowamote-koukousei-to-jimiko-san](https://cdn.myanimelist.net/images/manga/3/225356.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 32

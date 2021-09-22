@@ -1,5 +1,7 @@
 # Tensei shitara Danzai Start nante Kiitemasen! Anthology Comic
 
+![tensei-shitara-danzai-start-nante-kiitemasen-anthology-comic](https://cdn.myanimelist.net/images/manga/3/246150.jpg)
+
 -   **type**: manga
 -   **original-name**: 転生したら断罪スタートなんて聞いてませんっ！ アンソロジーコミック
 -   **start-date**: 2021-01-25

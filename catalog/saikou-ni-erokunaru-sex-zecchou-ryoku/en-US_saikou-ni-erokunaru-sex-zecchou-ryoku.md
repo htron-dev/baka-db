@@ -1,5 +1,7 @@
 # Saikou ni Erokunaru: Sex Zecchou Ryoku
 
+![saikou-ni-erokunaru-sex-zecchou-ryoku](https://cdn.myanimelist.net/images/manga/3/193666.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

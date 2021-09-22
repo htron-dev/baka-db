@@ -1,5 +1,7 @@
 # Inui-san!
 
+![inui-san](https://cdn.myanimelist.net/images/anime/2/82392.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: イヌイさんッ！

@@ -1,5 +1,7 @@
 # Lilith ni Omakase!
 
+![lilith-ni-omakase](https://cdn.myanimelist.net/images/manga/2/97755.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 23

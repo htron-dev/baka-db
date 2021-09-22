@@ -1,5 +1,7 @@
 # Kikou Toshi Berlin
 
+![kikou-toshi-berlin](https://cdn.myanimelist.net/images/manga/2/98999.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 51

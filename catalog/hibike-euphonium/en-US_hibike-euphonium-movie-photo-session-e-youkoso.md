@@ -1,5 +1,7 @@
 # Hibike! Euphonium Movie: Photo Session e Youkoso
 
+![hibike-euphonium-movie-photo-session-e-youkoso](https://cdn.myanimelist.net/images/anime/1043/92924.jpg)
+
 -   **type**: movie
 -   **episodes**: 3
 -   **original-name**: 劇場版 響け！ユーフォニアム～フォトセッションへようこそ

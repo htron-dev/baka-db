@@ -1,5 +1,7 @@
 # Boku no Kanojo ga Majimesugiru Sho-bitch na Ken OVA
 
+![boku-no-kanojo-ga-majimesugiru-sho-bitch-na-ken-ova](https://cdn.myanimelist.net/images/anime/1034/112435.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 僕の彼女がマジメ過ぎるしょびっちな件 OVA

@@ -1,5 +1,7 @@
 # Tate no Yuusha no Nariagari Anthology: Raphtalia to Issho
 
+![tate-no-yuusha-no-nariagari-anthology-raphtalia-to-issho](https://cdn.myanimelist.net/images/manga/3/232811.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

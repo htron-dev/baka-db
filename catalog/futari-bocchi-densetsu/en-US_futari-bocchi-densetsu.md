@@ -1,5 +1,7 @@
 # Futari Bocchi Densetsu
 
+![futari-bocchi-densetsu](https://cdn.myanimelist.net/images/manga/3/24540.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ふたりぼっち伝説

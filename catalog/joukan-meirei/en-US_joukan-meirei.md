@@ -1,5 +1,7 @@
 # Joukan Meirei
 
+![joukan-meirei](https://cdn.myanimelist.net/images/manga/2/80459.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

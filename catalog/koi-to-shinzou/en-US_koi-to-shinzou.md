@@ -1,5 +1,7 @@
 # Koi to Shinzou
 
+![koi-to-shinzou](https://cdn.myanimelist.net/images/manga/3/226803.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋と心臓
 -   **start-date**: 2017-09-27

@@ -1,5 +1,7 @@
 # Suzume: Kijou no Moupai
 
+![suzume-kijou-no-moupai](https://cdn.myanimelist.net/images/manga/2/161051.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

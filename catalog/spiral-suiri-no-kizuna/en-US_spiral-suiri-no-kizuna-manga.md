@@ -1,5 +1,7 @@
 # Spiral: Suiri no Kizuna
 
+![spiral-suiri-no-kizuna](https://cdn.myanimelist.net/images/manga/5/15913.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 78

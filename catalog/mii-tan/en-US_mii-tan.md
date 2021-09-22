@@ -1,5 +1,7 @@
 # Mii-tan
 
+![mii-tan](https://cdn.myanimelist.net/images/manga/1/149802.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: みーたん

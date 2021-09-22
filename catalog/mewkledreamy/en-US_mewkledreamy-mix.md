@@ -1,5 +1,7 @@
 # Mewkledreamy Mix!
 
+![mewkledreamy-mix](https://cdn.myanimelist.net/images/anime/1313/112427.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: ミュークルドリーミー みっくす！
 -   **start-date**: 2021-04-11
@@ -10,7 +12,6 @@
 ## Tags
 
 -   adventure
-
 -   magic
 -   fantasy
 -   shoujo

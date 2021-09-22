@@ -1,5 +1,7 @@
 # Kimi ni Shizumu
 
+![kimi-ni-shizumu](https://cdn.myanimelist.net/images/manga/2/26515.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

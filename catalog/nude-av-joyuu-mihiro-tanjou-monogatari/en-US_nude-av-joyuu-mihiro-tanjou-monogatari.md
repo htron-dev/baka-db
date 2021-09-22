@@ -1,5 +1,7 @@
 # Nude: AV Joyuu Mihiro Tanjou Monogatari
 
+![nude-av-joyuu-mihiro-tanjou-monogatari](https://cdn.myanimelist.net/images/manga/3/236625.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

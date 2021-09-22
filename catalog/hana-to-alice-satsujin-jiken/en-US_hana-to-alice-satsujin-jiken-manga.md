@@ -1,5 +1,7 @@
 # Hana to Alice: Satsujin Jiken
 
+![hana-to-alice-satsujin-jiken](https://cdn.myanimelist.net/images/manga/3/165436.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Candid: Otome to Camera to Jigokuzuki
 
+![candid-otome-to-camera-to-jigokuzuki](https://cdn.myanimelist.net/images/manga/1/164058.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 13

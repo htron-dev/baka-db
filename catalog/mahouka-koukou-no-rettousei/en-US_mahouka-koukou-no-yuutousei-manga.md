@@ -1,5 +1,7 @@
 # Mahouka Koukou no Yuutousei
 
+![mahouka-koukou-no-yuutousei](https://cdn.myanimelist.net/images/manga/1/81456.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 81

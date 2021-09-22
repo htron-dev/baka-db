@@ -1,5 +1,7 @@
 # Ryuuguu no Tsukai
 
+![ryuuguu-no-tsukai](https://cdn.myanimelist.net/images/manga/2/195218.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

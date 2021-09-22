@@ -1,5 +1,7 @@
 # Ganbaru! Stalker
 
+![ganbaru-stalker](https://cdn.myanimelist.net/images/manga/1/151951.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

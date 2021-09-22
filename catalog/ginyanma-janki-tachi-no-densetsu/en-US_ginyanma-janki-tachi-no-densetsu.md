@@ -1,5 +1,7 @@
 # Ginyanma: Janki-tachi no Densetsu
 
+![ginyanma-janki-tachi-no-densetsu](https://cdn.myanimelist.net/images/manga/2/186076.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

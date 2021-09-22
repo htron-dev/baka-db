@@ -1,5 +1,7 @@
 # Kyouren: Dorei Ouji to Ikenie no Miko
 
+![kyouren-dorei-ouji-to-ikenie-no-miko](https://cdn.myanimelist.net/images/manga/3/181044.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 狂恋～奴隷王子と生贄の巫女～

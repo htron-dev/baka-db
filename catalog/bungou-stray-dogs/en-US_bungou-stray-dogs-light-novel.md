@@ -1,5 +1,7 @@
 # Bungou Stray Dogs
 
+![bungou-stray-dogs](https://cdn.myanimelist.net/images/manga/3/180919.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 文豪ストレイドッグ
 -   **start-date**: 2014-04-01

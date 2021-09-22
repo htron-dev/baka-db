@@ -1,5 +1,7 @@
 # Little Busters! The 4-koma
 
+![little-busters-the-4-koma](https://cdn.myanimelist.net/images/manga/2/142719.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 52

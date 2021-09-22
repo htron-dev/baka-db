@@ -1,5 +1,7 @@
 # Utsunomiko: Heaven Chapter
 
+![utsunomiko-heaven-chapter](https://cdn.myanimelist.net/images/anime/2/30529.jpg)
+
 -   **type**: ova
 -   **episodes**: 13
 -   **original-name**: 宇宙皇子 天上篇

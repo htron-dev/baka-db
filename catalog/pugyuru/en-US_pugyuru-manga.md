@@ -1,5 +1,7 @@
 # Pugyuru
 
+![pugyuru](https://cdn.myanimelist.net/images/manga/1/3354.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 19

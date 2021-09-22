@@ -1,5 +1,7 @@
 # Mio Nikki
 
+![mio-nikki](https://cdn.myanimelist.net/images/manga/2/230335.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: みおにっき

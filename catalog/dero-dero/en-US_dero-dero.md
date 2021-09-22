@@ -1,5 +1,7 @@
 # Dero Dero
 
+![dero-dero](https://cdn.myanimelist.net/images/manga/2/119181.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 292

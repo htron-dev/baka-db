@@ -1,5 +1,7 @@
 # Daichouhen Doraemon
 
+![daichouhen-doraemon](https://cdn.myanimelist.net/images/manga/1/176656.jpg)
+
 -   **type**: manga
 -   **volumes**: 24
 -   **chapters**: 126
@@ -12,7 +14,6 @@
 -   adventure
 -   comedy
 -   fantasy
-
 -   sci-fi
 -   slice-of-life
 

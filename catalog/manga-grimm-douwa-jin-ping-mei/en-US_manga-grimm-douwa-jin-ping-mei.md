@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Jin Ping Mei
 
+![manga-grimm-douwa-jin-ping-mei](https://cdn.myanimelist.net/images/manga/1/142901.jpg)
+
 -   **type**: manga
 -   **original-name**: まんがグリム童話 金瓶梅
 

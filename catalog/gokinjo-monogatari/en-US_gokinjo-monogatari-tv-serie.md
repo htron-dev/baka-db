@@ -1,5 +1,7 @@
 # Gokinjo Monogatari
 
+![gokinjo-monogatari](https://cdn.myanimelist.net/images/anime/11/18195.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: ご近所物語

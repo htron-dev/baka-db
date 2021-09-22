@@ -1,5 +1,7 @@
 # Paradise Cats
 
+![paradise-cats](https://cdn.myanimelist.net/images/manga/3/22371.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 

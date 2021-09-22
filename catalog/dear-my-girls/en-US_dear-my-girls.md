@@ -1,5 +1,7 @@
 # Dear My Girls
 
+![dear-my-girls](https://cdn.myanimelist.net/images/manga/1/23551.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 9
 -   **chapters**: 33

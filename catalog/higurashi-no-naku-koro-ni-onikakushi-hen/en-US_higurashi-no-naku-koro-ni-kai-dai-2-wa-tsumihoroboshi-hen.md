@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni Kai - Dai 2-wa: Tsumihoroboshi-hen
 
+![higurashi-no-naku-koro-ni-kai-dai-2-wa-tsumihoroboshi-hen](https://cdn.myanimelist.net/images/manga/5/135107.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: ひぐらしのなく頃に解 第 2 話～罪滅し編～

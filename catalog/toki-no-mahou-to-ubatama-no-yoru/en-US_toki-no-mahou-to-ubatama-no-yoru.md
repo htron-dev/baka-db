@@ -1,5 +1,7 @@
 # Toki no Mahou to Ubatama no Yoru
 
+![toki-no-mahou-to-ubatama-no-yoru](https://cdn.myanimelist.net/images/manga/1/146341.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 時の魔法と烏羽玉の夜

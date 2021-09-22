@@ -1,5 +1,7 @@
 # Boku no Kanojo-sensei
 
+![boku-no-kanojo-sensei](https://cdn.myanimelist.net/images/manga/2/234962.jpg)
+
 -   **type**: manga
 -   **original-name**: 僕のカノジョ先生
 -   **start-date**: 2019-04-05

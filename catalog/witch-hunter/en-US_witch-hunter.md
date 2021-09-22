@@ -1,5 +1,7 @@
 # Witch Hunter
 
+![witch-hunter](https://cdn.myanimelist.net/images/manga/1/198695.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 위치헌터
 

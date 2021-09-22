@@ -1,5 +1,7 @@
 # Ao no Exorcist: Kuro no Iede
 
+![ao-no-exorcist-kuro-no-iede](https://cdn.myanimelist.net/images/anime/11/73495.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 青の祓魔師(エクソシスト) クロの家出

@@ -1,5 +1,7 @@
 # Maze Eater
 
+![maze-eater](https://cdn.myanimelist.net/images/manga/1/182974.jpg)
+
 -   **type**: light-novel
 -   **original-name**: メイズイーター
 -   **start-date**: 2016-09-15

@@ -1,5 +1,7 @@
 # SOS Dai Tokyo Tankentai
 
+![sos-dai-tokyo-tankentai](https://cdn.myanimelist.net/images/manga/1/169360.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

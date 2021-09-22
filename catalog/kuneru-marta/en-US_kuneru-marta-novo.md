@@ -1,5 +1,7 @@
 # Kuneru Marta Novo
 
+![kuneru-marta-novo](https://cdn.myanimelist.net/images/manga/2/208288.jpg)
+
 -   **type**: manga
 -   **original-name**: くーねるまるた ぬーぼ
 -   **start-date**: 2018-02-26

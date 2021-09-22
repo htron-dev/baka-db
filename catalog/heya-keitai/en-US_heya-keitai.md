@@ -1,5 +1,7 @@
 # Heya/Keitai
 
+![heya-keitai](https://cdn.myanimelist.net/images/anime/7/59763.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 部屋/形態

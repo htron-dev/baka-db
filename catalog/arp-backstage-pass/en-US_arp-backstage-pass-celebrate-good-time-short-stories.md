@@ -1,5 +1,7 @@
 # ARP Backstage Pass: Celebrate Good Time - Short Stories
 
+![arp-backstage-pass-celebrate-good-time-short-stories](https://cdn.myanimelist.net/images/anime/1327/106289.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ARP Backstage Pass Celebrate Good Time~ショートストーリーズ~

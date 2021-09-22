@@ -1,5 +1,7 @@
 # Reijou wa Hanakago ni Torawareru
 
+![reijou-wa-hanakago-ni-torawareru](https://cdn.myanimelist.net/images/manga/2/185683.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 12

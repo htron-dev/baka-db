@@ -1,5 +1,7 @@
 # Sougihime
 
+![sougihime](https://cdn.myanimelist.net/images/manga/2/246969.jpg)
+
 -   **type**: manga
 -   **original-name**: 葬儀姫
 -   **start-date**: 2010-11-11

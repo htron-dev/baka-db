@@ -1,5 +1,7 @@
 # Sarazanmai
 
+![sarazanmai](https://cdn.myanimelist.net/images/manga/3/218364.jpg)
+
 -   **type**: manga
 -   **original-name**: さらざんまい
 -   **start-date**: 2019-05-17

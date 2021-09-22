@@ -1,5 +1,7 @@
 # Yuri Ota ni Yuri wa Gohatto desu!?
 
+![yuri-ota-ni-yuri-wa-gohatto-desu](https://cdn.myanimelist.net/images/manga/1/243450.jpg)
+
 -   **type**: manga
 -   **original-name**: 百合オタに百合はご法度です!?
 -   **start-date**: 2020-04-10

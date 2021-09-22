@@ -1,5 +1,7 @@
 # Gokuraku Seishun Hockey Club
 
+![gokuraku-seishun-hockey-club](https://cdn.myanimelist.net/images/manga/1/241814.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 54

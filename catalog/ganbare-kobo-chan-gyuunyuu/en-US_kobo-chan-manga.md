@@ -1,5 +1,7 @@
 # Kobo-chan
 
+![kobo-chan](https://cdn.myanimelist.net/images/manga/1/37121.jpg)
+
 -   **type**: manga
 -   **volumes**: 60
 -   **original-name**: コボちゃん

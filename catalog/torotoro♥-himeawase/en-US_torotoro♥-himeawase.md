@@ -1,5 +1,7 @@
 # Torotoro♥Himeawase
 
+![torotoro♥-himeawase](https://cdn.myanimelist.net/images/manga/1/136631.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

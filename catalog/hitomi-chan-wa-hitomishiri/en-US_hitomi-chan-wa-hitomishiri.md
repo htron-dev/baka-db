@@ -1,5 +1,7 @@
 # Hitomi-chan wa Hitomishiri
 
+![hitomi-chan-wa-hitomishiri](https://cdn.myanimelist.net/images/manga/2/217887.jpg)
+
 -   **type**: manga
 -   **original-name**: 瞳ちゃんは人見知り
 -   **start-date**: 2018-09-20

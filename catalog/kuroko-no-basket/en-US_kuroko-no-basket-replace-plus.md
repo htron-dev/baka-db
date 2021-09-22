@@ -1,5 +1,7 @@
 # Kuroko no Basket: Replace Plus
 
+![kuroko-no-basket-replace-plus](https://cdn.myanimelist.net/images/manga/1/157861.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 66

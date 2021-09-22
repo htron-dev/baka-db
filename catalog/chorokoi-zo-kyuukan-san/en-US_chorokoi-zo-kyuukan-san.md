@@ -1,5 +1,7 @@
 # Chorokoi zo! Kyuukan-san
 
+![chorokoi-zo-kyuukan-san](https://cdn.myanimelist.net/images/manga/2/202528.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

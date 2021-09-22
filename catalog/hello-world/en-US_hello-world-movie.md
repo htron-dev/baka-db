@@ -1,5 +1,7 @@
 # Hello World
 
+![hello-world](https://cdn.myanimelist.net/images/anime/1147/112650.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ハロー・ワールド
@@ -30,4 +32,4 @@ Hello World focuses on the present Naomi alongside himself from 10 years into th
 -   [Official Site](https://hello-world-movie.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14532)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=22139)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Hello_World_(film)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Hello_World_%28film%29)

@@ -1,5 +1,7 @@
 # Nanami-chan 3rd Series
 
+![nanami-chan-3rd-series](https://cdn.myanimelist.net/images/anime/12/64207.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 16
 -   **original-name**: ななみちゃん 第三期

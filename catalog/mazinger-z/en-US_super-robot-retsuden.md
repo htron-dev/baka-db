@@ -1,5 +1,7 @@
 # Super Robot Retsuden
 
+![super-robot-retsuden](https://cdn.myanimelist.net/images/manga/1/67733.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

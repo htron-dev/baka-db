@@ -1,5 +1,7 @@
 # Fuyu Koimonogatari
 
+![fuyu-koimonogatari](https://cdn.myanimelist.net/images/manga/1/132671.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 冬恋物語

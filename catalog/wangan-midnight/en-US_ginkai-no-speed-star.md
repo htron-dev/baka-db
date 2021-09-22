@@ -1,5 +1,7 @@
 # Ginkai no Speed Star
 
+![ginkai-no-speed-star](https://cdn.myanimelist.net/images/manga/3/157050.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

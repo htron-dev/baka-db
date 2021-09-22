@@ -1,5 +1,7 @@
 # Minami-ke Omatase
 
+![minami-ke-omatase](https://cdn.myanimelist.net/images/anime/8/53131.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: みなみけ おまたせ

@@ -1,5 +1,7 @@
 # Shin Toshi Densetsu
 
+![shin-toshi-densetsu](https://cdn.myanimelist.net/images/manga/1/167155.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

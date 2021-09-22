@@ -1,5 +1,7 @@
 # Atashi, Kiss shita.
 
+![atashi-kiss-shita](https://cdn.myanimelist.net/images/manga/2/171402.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

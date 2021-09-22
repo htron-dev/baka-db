@@ -1,5 +1,7 @@
 # Ikaryaku
 
+![ikaryaku](https://cdn.myanimelist.net/images/manga/3/189457.jpg)
+
 -   **type**: manga
 -   **chapters**: 33
 -   **original-name**: 以下略

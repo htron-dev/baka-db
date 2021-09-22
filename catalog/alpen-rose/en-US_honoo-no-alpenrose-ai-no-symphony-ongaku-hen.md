@@ -1,5 +1,7 @@
 # Honoo no Alpenrose: Ai no Symphony Ongaku-hen
 
+![honoo-no-alpenrose-ai-no-symphony-ongaku-hen](https://cdn.myanimelist.net/images/anime/11/85888.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 「炎のアルペンローゼ」 愛のシンフォニー音楽編

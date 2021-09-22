@@ -1,5 +1,7 @@
 # Miko no Koiji
 
+![miko-no-koiji](https://cdn.myanimelist.net/images/manga/2/150853.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 巫女の恋路

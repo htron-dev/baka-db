@@ -1,5 +1,7 @@
 # Zoku Hoshi Mamoru Inu
 
+![zoku-hoshi-mamoru-inu](https://cdn.myanimelist.net/images/manga/3/207063.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

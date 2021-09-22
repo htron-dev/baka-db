@@ -1,5 +1,7 @@
 # Azarashi no Takeda-kun
 
+![azarashi-no-takeda-kun](https://cdn.myanimelist.net/images/manga/2/224518.jpg)
+
 -   **type**: manga
 -   **original-name**: アザラシの武田くん
 -   **start-date**: 2018-06-22

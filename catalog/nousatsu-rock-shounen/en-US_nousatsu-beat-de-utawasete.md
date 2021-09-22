@@ -1,5 +1,7 @@
 # Nousatsu Beat de Utawasete
 
+![nousatsu-beat-de-utawasete](https://cdn.myanimelist.net/images/manga/2/29688.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

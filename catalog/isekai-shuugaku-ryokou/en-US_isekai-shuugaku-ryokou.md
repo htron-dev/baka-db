@@ -1,5 +1,7 @@
 # Isekai Shuugaku Ryokou
 
+![isekai-shuugaku-ryokou](https://cdn.myanimelist.net/images/manga/2/207045.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 62

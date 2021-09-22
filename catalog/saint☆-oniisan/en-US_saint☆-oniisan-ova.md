@@ -1,5 +1,7 @@
 # Saint☆Oniisan
 
+![saint☆-oniisan](https://cdn.myanimelist.net/images/anime/3/53249.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 聖 ☆ おにいさん

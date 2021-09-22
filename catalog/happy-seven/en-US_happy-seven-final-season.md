@@ -1,5 +1,7 @@
 # Happy Seven: Final Season
 
+![happy-seven-final-season](https://cdn.myanimelist.net/images/manga/2/172056.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: はっぴぃセブン・FINAL シーズン

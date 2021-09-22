@@ -1,5 +1,7 @@
 # Saihyou to Tokeru
 
+![saihyou-to-tokeru](https://cdn.myanimelist.net/images/manga/3/236252.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

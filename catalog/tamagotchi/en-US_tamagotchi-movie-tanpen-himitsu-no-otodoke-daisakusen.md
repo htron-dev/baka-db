@@ -1,5 +1,7 @@
 # Tamagotchi Movie: Tanpen Himitsu no Otodoke Daisakusen!
 
+![tamagotchi-movie-tanpen-himitsu-no-otodoke-daisakusen](https://cdn.myanimelist.net/images/anime/5/82642.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画たまごっち　ヒミツのおとどけ大作戦!

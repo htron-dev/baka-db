@@ -1,5 +1,7 @@
 # Nanahon Ude no Jessica
 
+![nanahon-ude-no-jessica](https://cdn.myanimelist.net/images/manga/1/125285.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 七本腕のジェシカ

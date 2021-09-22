@@ -1,5 +1,7 @@
 # Budouiro no Tsuioku
 
+![budouiro-no-tsuioku](https://cdn.myanimelist.net/images/manga/2/124371.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 葡萄色の追憶

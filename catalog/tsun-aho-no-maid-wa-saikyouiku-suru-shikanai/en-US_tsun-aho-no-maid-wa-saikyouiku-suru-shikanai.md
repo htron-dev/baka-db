@@ -1,5 +1,7 @@
 # Tsun-Aho no Maid wa Saikyouiku suru Shikanai
 
+![tsun-aho-no-maid-wa-saikyouiku-suru-shikanai](https://cdn.myanimelist.net/images/manga/2/169743.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

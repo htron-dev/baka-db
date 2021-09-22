@@ -1,5 +1,7 @@
 # Naruto: Dai Katsugeki! Yuki Hime Shinobu Houjou Datteba yo!!
 
+![naruto-dai-katsugeki-yuki-hime-shinobu-houjou-datteba-yo](https://cdn.myanimelist.net/images/manga/3/228873.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: NARUTO 大活劇!雪姫忍法帖だってばよ!!

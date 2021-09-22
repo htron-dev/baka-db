@@ -1,5 +1,7 @@
 # Korogaru Onna to Koi no Numa
 
+![korogaru-onna-to-koi-no-numa](https://cdn.myanimelist.net/images/manga/2/247506.jpg)
+
 -   **type**: manga
 -   **original-name**: 転がる女と恋の沼
 -   **start-date**: 2020-05-08

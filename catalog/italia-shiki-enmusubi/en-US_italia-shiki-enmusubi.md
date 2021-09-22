@@ -1,5 +1,7 @@
 # Italia-shiki Enmusubi
 
+![italia-shiki-enmusubi](https://cdn.myanimelist.net/images/manga/2/94385.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: イタリア式縁結び

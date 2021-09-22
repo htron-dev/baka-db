@@ -1,5 +1,7 @@
 # Noushou Sakuretsu Girl
 
+![noushou-sakuretsu-girl](https://cdn.myanimelist.net/images/manga/3/162204.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

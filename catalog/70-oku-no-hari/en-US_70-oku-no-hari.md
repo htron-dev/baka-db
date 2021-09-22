@@ -1,5 +1,7 @@
 # 70-oku no Hari
 
+![70-oku-no-hari](https://cdn.myanimelist.net/images/manga/2/177559.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

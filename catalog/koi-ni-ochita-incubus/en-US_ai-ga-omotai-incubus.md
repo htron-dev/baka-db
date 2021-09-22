@@ -1,5 +1,7 @@
 # Ai ga Omotai Incubus
 
+![ai-ga-omotai-incubus](https://cdn.myanimelist.net/images/manga/3/230037.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

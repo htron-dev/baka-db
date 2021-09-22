@@ -1,5 +1,7 @@
 # Muv-Luv Alternative: Tsukikage wa Yamiyo ni Arite
 
+![muv-luv-alternative-tsukikage-wa-yamiyo-ni-arite](https://cdn.myanimelist.net/images/manga/3/206635.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

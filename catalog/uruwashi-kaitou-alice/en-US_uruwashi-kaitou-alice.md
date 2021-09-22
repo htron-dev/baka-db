@@ -1,5 +1,7 @@
 # Uruwashi Kaitou Alice
 
+![uruwashi-kaitou-alice](https://cdn.myanimelist.net/images/manga/3/134291.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

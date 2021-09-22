@@ -1,5 +1,7 @@
 # Ghost Messenger Movie
 
+![ghost-messenger-movie](https://cdn.myanimelist.net/images/anime/1984/93768.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 고스트 메신저 극장판

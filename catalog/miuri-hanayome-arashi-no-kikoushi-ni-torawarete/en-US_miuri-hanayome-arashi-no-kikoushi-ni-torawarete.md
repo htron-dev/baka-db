@@ -1,5 +1,7 @@
 # Miuri Hanayome: Arashi no Kikoushi ni Torawarete
 
+![miuri-hanayome-arashi-no-kikoushi-ni-torawarete](https://cdn.myanimelist.net/images/manga/1/193236.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

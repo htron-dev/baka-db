@@ -1,5 +1,7 @@
 # Tonari no Jijou
 
+![tonari-no-jijou](https://cdn.myanimelist.net/images/manga/3/133453.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

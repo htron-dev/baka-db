@@ -1,5 +1,7 @@
 # Ryakudatsusha
 
+![ryakudatsusha](https://cdn.myanimelist.net/images/manga/2/97485.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

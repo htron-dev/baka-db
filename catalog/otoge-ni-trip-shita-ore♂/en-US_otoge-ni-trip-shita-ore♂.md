@@ -1,5 +1,7 @@
 # Otoge ni Trip shita Ore♂
 
+![otoge-ni-trip-shita-ore♂](https://cdn.myanimelist.net/images/manga/1/217512.jpg)
+
 -   **type**: manga
 -   **original-name**: 乙ゲーにトリップした俺 ♂
 -   **start-date**: 2019-01-26

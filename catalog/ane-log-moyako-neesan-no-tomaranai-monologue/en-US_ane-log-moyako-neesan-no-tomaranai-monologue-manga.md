@@ -1,5 +1,7 @@
 # Ane Log: Moyako Neesan no Tomaranai Monologue
 
+![ane-log-moyako-neesan-no-tomaranai-monologue](https://cdn.myanimelist.net/images/manga/3/158528.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 300

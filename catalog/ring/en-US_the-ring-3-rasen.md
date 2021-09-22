@@ -1,5 +1,7 @@
 # The Ring 3: Rasen
 
+![the-ring-3-rasen](https://cdn.myanimelist.net/images/manga/3/13105.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

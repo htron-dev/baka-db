@@ -1,5 +1,7 @@
 # Doraemon Movie 35: Nobita no Space Heroes
 
+![doraemon-movie-35-nobita-no-space-heroes](https://cdn.myanimelist.net/images/anime/11/72404.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん のび太の宇宙英雄記[スペースヒーローズ]
@@ -10,7 +12,6 @@
 ## Tags
 
 -   comedy
-
 -   shounen
 -   space
 

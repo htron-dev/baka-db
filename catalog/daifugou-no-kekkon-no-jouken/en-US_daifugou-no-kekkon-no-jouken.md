@@ -1,5 +1,7 @@
 # Daifugou no Kekkon no Jouken
 
+![daifugou-no-kekkon-no-jouken](https://cdn.myanimelist.net/images/manga/1/231806.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 大富豪の結婚の条件

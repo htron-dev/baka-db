@@ -1,5 +1,7 @@
 # Okitenemuru
 
+![okitenemuru](https://cdn.myanimelist.net/images/manga/1/168400.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 73

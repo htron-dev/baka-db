@@ -1,5 +1,7 @@
 # OneImo: Onee to Imouto Touhoku Shimai Slow Life
 
+![one-imo-onee-to-imouto-touhoku-shimai-slow-life](https://cdn.myanimelist.net/images/manga/3/158002.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 26

@@ -1,5 +1,7 @@
 # Kinnikuman: Haresugata! Seigi Choujin
 
+![kinnikuman-haresugata-seigi-choujin](https://cdn.myanimelist.net/images/anime/1517/111937.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: キン肉マン 晴れ姿！正義超人

@@ -1,5 +1,7 @@
 # Gunka no Baltzar
 
+![gunka-no-baltzar](https://cdn.myanimelist.net/images/manga/1/147023.jpg)
+
 -   **type**: manga
 -   **original-name**: 軍靴のバルツァー
 -   **start-date**: 2011-01-21

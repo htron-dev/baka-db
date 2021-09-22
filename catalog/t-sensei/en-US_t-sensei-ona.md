@@ -1,5 +1,7 @@
 # T-sensei
 
+![t-sensei](https://cdn.myanimelist.net/images/anime/12/87130.jpg)
+
 -   **type**: ona
 -   **episodes**: 14
 -   **original-name**: てぃ先生

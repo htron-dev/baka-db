@@ -1,5 +1,7 @@
 # Major S4
 
+![major-s-4](https://cdn.myanimelist.net/images/anime/9/75217.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: メジャー　（第 4 シリーズ)
@@ -32,4 +34,4 @@ Gorou learns that he will have to adapt to the stark differences of American cul
 -   [Official Site](http://www3.nhk.or.jp/anime/major/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5316)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4115)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Major_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Major_%28manga%29)

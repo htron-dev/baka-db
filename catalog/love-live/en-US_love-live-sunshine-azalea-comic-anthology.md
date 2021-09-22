@@ -1,5 +1,7 @@
 # Love Live! Sunshine!! AZALEA Comic Anthology
 
+![love-live-sunshine-azalea-comic-anthology](https://cdn.myanimelist.net/images/manga/1/234739.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

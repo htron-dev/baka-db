@@ -1,5 +1,7 @@
 # Toaru Kagaku no Mental Out
 
+![toaru-kagaku-no-mental-out](https://cdn.myanimelist.net/images/manga/2/248687.jpg)
+
 -   **type**: manga
 -   **original-name**: とある科学の心理掌握〈メンタルアウト〉
 -   **start-date**: 2021-07-27

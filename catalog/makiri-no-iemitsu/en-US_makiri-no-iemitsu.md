@@ -1,5 +1,7 @@
 # Makiri no Iemitsu
 
+![makiri-no-iemitsu](https://cdn.myanimelist.net/images/manga/3/244568.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔斬りの家光
 -   **start-date**: 2021-01-03

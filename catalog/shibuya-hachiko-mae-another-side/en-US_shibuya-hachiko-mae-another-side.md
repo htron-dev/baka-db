@@ -1,5 +1,7 @@
 # Shibuya Hachiko Mae: Another Side
 
+![shibuya-hachiko-mae-another-side](https://cdn.myanimelist.net/images/manga/5/74679.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

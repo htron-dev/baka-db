@@ -1,5 +1,7 @@
 # Chibi Miku-san
 
+![chibi-miku-san](https://cdn.myanimelist.net/images/manga/3/58013.jpg)
+
 -   **type**: manga
 -   **original-name**: ちびミクさん
 -   **start-date**: 2008-06-05

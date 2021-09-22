@@ -1,5 +1,7 @@
 # Koharu no Hibi
 
+![koharu-no-hibi](https://cdn.myanimelist.net/images/manga/3/56255.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

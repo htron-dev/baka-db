@@ -1,5 +1,7 @@
 # Himitsu no Kemonotachi
 
+![himitsu-no-kemonotachi](https://cdn.myanimelist.net/images/manga/3/2317.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

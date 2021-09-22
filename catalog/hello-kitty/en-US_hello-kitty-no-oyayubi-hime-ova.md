@@ -1,5 +1,7 @@
 # Hello Kitty no Oyayubi-hime (OVA)
 
+![hello-kitty-no-oyayubi-hime-ova](https://cdn.myanimelist.net/images/anime/7/46705.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティのおやゆびひめ

@@ -1,5 +1,7 @@
 # Hamatora The Comic
 
+![hamatora-the-comic](https://cdn.myanimelist.net/images/manga/4/133589.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

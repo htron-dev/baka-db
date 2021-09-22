@@ -1,5 +1,7 @@
 # Hoshiuta
 
+![hoshiuta](https://cdn.myanimelist.net/images/manga/5/34526.jpg)
+
 -   **type**: manga
 -   **original-name**: ほしうた
 -   **start-date**: 2009-03-26

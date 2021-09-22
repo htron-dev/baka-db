@@ -1,5 +1,7 @@
 # Houtai Shoujo Kikan
 
+![houtai-shoujo-kikan](https://cdn.myanimelist.net/images/manga/3/225067.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

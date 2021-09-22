@@ -1,5 +1,7 @@
 # Hakui no Shihaisha
 
+![hakui-no-shihaisha](https://cdn.myanimelist.net/images/manga/3/11920.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

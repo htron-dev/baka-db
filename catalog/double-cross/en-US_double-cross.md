@@ -1,5 +1,7 @@
 # Double Cross
 
+![double-cross](https://cdn.myanimelist.net/images/manga/1/89156.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ダブルクロス～裏切りの十字架～

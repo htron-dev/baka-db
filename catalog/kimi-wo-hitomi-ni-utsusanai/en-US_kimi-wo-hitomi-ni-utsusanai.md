@@ -1,5 +1,7 @@
 # Kimi wo Hitomi ni Utsusanai
 
+![kimi-wo-hitomi-ni-utsusanai](https://cdn.myanimelist.net/images/manga/2/245320.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Sword Art Online: Hollow Realization
 
+![sword-art-online-hollow-realization](https://cdn.myanimelist.net/images/manga/3/193355.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 38

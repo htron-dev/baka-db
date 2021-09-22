@@ -1,5 +1,7 @@
 # Koi Beta!?
 
+![koi-beta](https://cdn.myanimelist.net/images/manga/1/10401.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: コイベタ!?

@@ -1,5 +1,7 @@
 # Hachimitsu Shounen
 
+![hachimitsu-shounen](https://cdn.myanimelist.net/images/manga/2/15230.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

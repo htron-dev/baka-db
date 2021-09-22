@@ -1,5 +1,7 @@
 # Mekakushi no Kuni
 
+![mekakushi-no-kuni](https://cdn.myanimelist.net/images/manga/1/162279.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 48

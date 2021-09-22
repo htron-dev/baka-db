@@ -1,5 +1,7 @@
 # Rainbow: Nisha Rokubou no Shichinin
 
+![rainbow-nisha-rokubou-no-shichinin](https://cdn.myanimelist.net/images/anime/9/72697.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: RAINBOW 二舎六房の七人

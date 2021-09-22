@@ -1,5 +1,7 @@
 # Aka☆Pro!!!: Akarui Sanshimai Project!
 
+![aka☆-pro-akarui-sanshimai-project](https://cdn.myanimelist.net/images/manga/1/161724.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 35

@@ -1,5 +1,7 @@
 # Black-Box
 
+![black-box](https://cdn.myanimelist.net/images/manga/3/171756.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 42

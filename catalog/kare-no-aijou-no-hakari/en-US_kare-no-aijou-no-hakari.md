@@ -1,5 +1,7 @@
 # Kare no Aijou no Hakari
 
+![kare-no-aijou-no-hakari](https://cdn.myanimelist.net/images/manga/2/67505.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

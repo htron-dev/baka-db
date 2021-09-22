@@ -1,5 +1,7 @@
 # Sasurai no Taiyou
 
+![sasurai-no-taiyou](https://cdn.myanimelist.net/images/manga/3/235206.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: さすらいの太陽

@@ -1,5 +1,7 @@
 # Eden no Otome
 
+![eden-no-otome](https://cdn.myanimelist.net/images/manga/1/223276.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 32

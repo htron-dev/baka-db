@@ -1,5 +1,7 @@
 # Tensei Babaa wa Misugosenai!: Moto Akutoku Nyotei no Nishuume Life
 
+![tensei-babaa-wa-misugosenai-moto-akutoku-nyotei-no-nishuume-life](https://cdn.myanimelist.net/images/manga/3/246501.jpg)
+
 -   **type**: manga
 -   **original-name**: 転生ババァは見過ごせない！ ―元悪徳女帝の二周目ライフ―
 -   **start-date**: 2021-06-09

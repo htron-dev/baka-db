@@ -1,5 +1,7 @@
 # Ogaki Matsuri ni Ikou yo!
 
+![ogaki-matsuri-ni-ikou-yo](https://cdn.myanimelist.net/images/anime/1425/106763.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 大垣まつりにいこうよ！

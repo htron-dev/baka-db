@@ -1,5 +1,7 @@
 # Vanitas no Karte 2nd Season
 
+![vanitas-no-karte-2nd-season](https://cdn.myanimelist.net/images/anime/1346/117756.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ヴァニタスの手記

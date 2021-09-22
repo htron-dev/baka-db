@@ -1,5 +1,7 @@
 # Magic Kaito 1412
 
+![magic-kaito-1412](https://cdn.myanimelist.net/images/anime/3/67807.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: まじっく快斗 1412

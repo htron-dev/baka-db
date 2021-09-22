@@ -1,5 +1,7 @@
 # I Love You yori Aishiteru
 
+![i-love-you-yori-aishiteru](https://cdn.myanimelist.net/images/manga/1/154699.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Zettai Shounen
 
+![zettai-shounen](https://cdn.myanimelist.net/images/anime/12/4905.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 絶対少年

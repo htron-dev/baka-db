@@ -1,5 +1,7 @@
 # Kasumin 3rd Season
 
+![kasumin-3rd-season](https://cdn.myanimelist.net/images/anime/12/67259.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: カスミン (第 3 シリーズ)

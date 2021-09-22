@@ -1,5 +1,7 @@
 # Nobles' Love Company
 
+![nobles-love-company](https://cdn.myanimelist.net/images/manga/2/28719.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 15
 -   **original-name**: Idol School of 귀족연애사

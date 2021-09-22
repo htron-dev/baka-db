@@ -1,5 +1,7 @@
 # Ashita Dorobou
 
+![ashita-dorobou](https://cdn.myanimelist.net/images/manga/1/58685.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 31

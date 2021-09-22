@@ -1,5 +1,7 @@
 # Gra-P &amp; Rodeo II
 
+![gra-p-amp-rodeo-ii](https://cdn.myanimelist.net/images/anime/4/84684.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 27
 -   **original-name**: ぐら P&ろで夫 II

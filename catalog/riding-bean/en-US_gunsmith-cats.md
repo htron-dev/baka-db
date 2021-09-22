@@ -1,5 +1,7 @@
 # Gunsmith Cats
 
+![gunsmith-cats](https://cdn.myanimelist.net/images/anime/11/2769.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ガンスミス キャッツ

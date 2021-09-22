@@ -1,5 +1,7 @@
 # Sense.
 
+![sense](https://cdn.myanimelist.net/images/manga/2/54825.jpg)
+
 -   **type**: manga
 -   **original-name**: センセ。
 -   **start-date**: 2008-01-08

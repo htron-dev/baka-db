@@ -1,5 +1,7 @@
 # Léquios
 
+![lequios](https://cdn.myanimelist.net/images/manga/2/50119.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

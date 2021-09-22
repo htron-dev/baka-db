@@ -1,5 +1,7 @@
 # Gekijouban Sword Art Online: Ordinal Scale
 
+![gekijouban-sword-art-online-ordinal-scale](https://cdn.myanimelist.net/images/manga/2/195232.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # C³
 
+![c](https://cdn.myanimelist.net/images/manga/3/58007.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

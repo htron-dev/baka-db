@@ -1,5 +1,7 @@
 # Kyuushoku no Jikan desu.
 
+![kyuushoku-no-jikan-desu](https://cdn.myanimelist.net/images/manga/2/240082.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Soredemo Tsuyoku, Daitekure.
 
+![soredemo-tsuyoku-daitekure](https://cdn.myanimelist.net/images/manga/1/6092.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: それでも強く、抱いてくれ。

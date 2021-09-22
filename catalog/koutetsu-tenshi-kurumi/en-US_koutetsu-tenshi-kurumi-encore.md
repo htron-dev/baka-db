@@ -1,5 +1,7 @@
 # Koutetsu Tenshi Kurumi Encore
 
+![koutetsu-tenshi-kurumi-encore](https://cdn.myanimelist.net/images/anime/4/21112.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 鋼鉄天使くるみ 25-28 話

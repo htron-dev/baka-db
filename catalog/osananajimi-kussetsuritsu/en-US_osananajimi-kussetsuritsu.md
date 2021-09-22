@@ -1,5 +1,7 @@
 # Osananajimi Kussetsuritsu
 
+![osananajimi-kussetsuritsu](https://cdn.myanimelist.net/images/manga/2/59549.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

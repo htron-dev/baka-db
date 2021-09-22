@@ -1,5 +1,7 @@
 # 22/7+α
 
+![22-7-α](https://cdn.myanimelist.net/images/manga/2/235457.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Koi to Yobu ni wa Kimochi Warui
 
+![koi-to-yobu-ni-wa-kimochi-warui](https://cdn.myanimelist.net/images/manga/3/172533.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 63

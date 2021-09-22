@@ -1,5 +1,7 @@
 # Nishi Muku Samurai
 
+![nishi-muku-samurai](https://cdn.myanimelist.net/images/manga/3/33094.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 22

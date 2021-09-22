@@ -1,5 +1,7 @@
 # Higurashi no Naku Koro ni - Dai 3-wa: Tatarigoroshi-hen
 
+![higurashi-no-naku-koro-ni-dai-3-wa-tatarigoroshi-hen](https://cdn.myanimelist.net/images/manga/1/135193.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: ひぐらしのなく頃に 第三話～祟殺し編～

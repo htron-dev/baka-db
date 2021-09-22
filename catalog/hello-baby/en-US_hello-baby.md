@@ -1,5 +1,7 @@
 # Hello Baby!
 
+![hello-baby](https://cdn.myanimelist.net/images/manga/2/204660.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

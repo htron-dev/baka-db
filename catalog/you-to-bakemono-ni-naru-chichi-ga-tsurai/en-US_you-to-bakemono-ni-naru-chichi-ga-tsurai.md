@@ -1,5 +1,7 @@
 # You to Bakemono ni Naru Chichi ga Tsurai
 
+![you-to-bakemono-ni-naru-chichi-ga-tsurai](https://cdn.myanimelist.net/images/manga/2/201644.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

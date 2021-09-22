@@ -1,5 +1,7 @@
 # Danshi Koukousei to Fureau Houhou
 
+![danshi-koukousei-to-fureau-houhou](https://cdn.myanimelist.net/images/manga/1/197353.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 男子高校生とふれあう方法

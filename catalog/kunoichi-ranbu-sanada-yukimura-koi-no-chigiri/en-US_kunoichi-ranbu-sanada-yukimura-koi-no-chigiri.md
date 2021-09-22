@@ -1,5 +1,7 @@
 # Kunoichi Ranbu Sanada Yukimura: Koi no Chigiri
 
+![kunoichi-ranbu-sanada-yukimura-koi-no-chigiri](https://cdn.myanimelist.net/images/manga/1/199073.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: くノ一乱舞　真田幸村　恋の契り

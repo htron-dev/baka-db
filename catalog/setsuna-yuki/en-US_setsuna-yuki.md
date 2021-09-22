@@ -1,5 +1,7 @@
 # Setsuna Yuki
 
+![setsuna-yuki](https://cdn.myanimelist.net/images/manga/1/22851.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

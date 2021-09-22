@@ -1,5 +1,7 @@
 # Tora to Ookami
 
+![tora-to-ookami](https://cdn.myanimelist.net/images/manga/2/32971.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 虎と狼

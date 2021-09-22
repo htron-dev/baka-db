@@ -1,5 +1,7 @@
 # Xi Yangyang Yu Hui Tailang: Kua Shikong Jiu Bing
 
+![xi-yangyang-yu-hui-tailang-kua-shikong-jiu-bing](https://cdn.myanimelist.net/images/anime/1325/115289.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 60
 -   **original-name**: 喜羊羊與灰太狼之跨時空救兵

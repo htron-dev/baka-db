@@ -1,5 +1,7 @@
 # Oujo, Iseki Tanken e Iku
 
+![oujo-iseki-tanken-e-iku](https://cdn.myanimelist.net/images/manga/2/172371.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 王女、遺跡探検へ行く

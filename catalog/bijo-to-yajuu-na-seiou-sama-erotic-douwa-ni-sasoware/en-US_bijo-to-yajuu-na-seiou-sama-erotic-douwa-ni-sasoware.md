@@ -1,5 +1,7 @@
 # Bijo to Yajuu na Seiou-sama: Erotic Douwa ni Sasoware
 
+![bijo-to-yajuu-na-seiou-sama-erotic-douwa-ni-sasoware](https://cdn.myanimelist.net/images/manga/3/183428.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

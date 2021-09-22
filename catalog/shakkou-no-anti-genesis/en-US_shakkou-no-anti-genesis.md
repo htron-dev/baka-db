@@ -1,5 +1,7 @@
 # Shakkou no Anti-Genesis
 
+![shakkou-no-anti-genesis](https://cdn.myanimelist.net/images/manga/2/168623.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

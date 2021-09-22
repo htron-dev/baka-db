@@ -1,5 +1,7 @@
 # Enoshimans
 
+![enoshimans](https://cdn.myanimelist.net/images/anime/5/86761.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: えのしまんず

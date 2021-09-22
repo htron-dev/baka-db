@@ -1,5 +1,7 @@
 # Cahe Tantei-bu
 
+![cahe-tantei-bu](https://cdn.myanimelist.net/images/manga/3/217541.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 109

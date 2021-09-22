@@ -1,5 +1,7 @@
 # Itsudemo Kimi ga
 
+![itsudemo-kimi-ga](https://cdn.myanimelist.net/images/manga/2/224812.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

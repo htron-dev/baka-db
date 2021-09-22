@@ -1,5 +1,7 @@
 # Tegamibachi
 
+![tegamibachi](https://cdn.myanimelist.net/images/anime/9/71808.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: テガミバチ

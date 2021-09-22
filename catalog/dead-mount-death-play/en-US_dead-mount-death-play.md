@@ -1,5 +1,7 @@
 # Dead Mount Death Play
 
+![dead-mount-death-play](https://cdn.myanimelist.net/images/manga/3/209112.jpg)
+
 -   **type**: manga
 -   **original-name**: デッドマウント・デスプレイ
 -   **start-date**: 2017-10-20

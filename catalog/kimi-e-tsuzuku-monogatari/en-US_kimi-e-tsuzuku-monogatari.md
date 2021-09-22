@@ -1,5 +1,7 @@
 # Kimi e Tsuzuku Monogatari
 
+![kimi-e-tsuzuku-monogatari](https://cdn.myanimelist.net/images/manga/1/37099.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

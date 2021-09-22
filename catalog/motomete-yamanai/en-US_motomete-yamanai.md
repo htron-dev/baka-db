@@ -1,5 +1,7 @@
 # Motomete Yamanai
 
+![motomete-yamanai](https://cdn.myanimelist.net/images/manga/1/223359.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Ima Kako
 
+![ima-kako](https://cdn.myanimelist.net/images/manga/3/236316.jpg)
+
 -   **type**: manga
 -   **original-name**: いまかこ
 -   **start-date**: 2018-12-25

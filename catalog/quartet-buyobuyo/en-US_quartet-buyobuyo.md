@@ -1,5 +1,7 @@
 # Quartet Buyobuyo
 
+![quartet-buyobuyo](https://cdn.myanimelist.net/images/manga/1/126165.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ぶよぶよカルテット

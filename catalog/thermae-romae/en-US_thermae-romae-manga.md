@@ -1,5 +1,7 @@
 # Thermae Romae
 
+![thermae-romae](https://cdn.myanimelist.net/images/manga/2/33016.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 38

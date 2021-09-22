@@ -1,5 +1,7 @@
 # Last Kiss
 
+![last-kiss](https://cdn.myanimelist.net/images/manga/3/237902.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

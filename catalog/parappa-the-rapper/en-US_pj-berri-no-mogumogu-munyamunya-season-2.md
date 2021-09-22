@@ -1,5 +1,7 @@
 # PJ Berri no Mogumogu Munyamunya Season 2
 
+![pj-berri-no-mogumogu-munyamunya-season-2](https://cdn.myanimelist.net/images/anime/13/86919.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 6
 -   **original-name**: PJ ベリーのもぐもぐむにゃむにゃ シーズン２

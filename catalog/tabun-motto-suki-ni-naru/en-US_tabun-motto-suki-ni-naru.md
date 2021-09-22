@@ -1,5 +1,7 @@
 # Tabun Motto Suki ni Naru
 
+![tabun-motto-suki-ni-naru](https://cdn.myanimelist.net/images/manga/1/128103.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

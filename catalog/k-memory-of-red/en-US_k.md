@@ -1,5 +1,7 @@
 # K
 
+![k](https://cdn.myanimelist.net/images/anime/3/47607.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: K
@@ -30,4 +32,4 @@ Meanwhile, the current Red King, Mikoto Suou, faces his own imminent demise as t
 -   [Official Site](http://k-project.jpn.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=9043)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14732)
--   [Wikipedia](<http://en.wikipedia.org/wiki/K_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/K_%28anime%29)

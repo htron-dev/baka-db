@@ -1,5 +1,7 @@
 # Zawazawa
 
+![zawazawa](https://cdn.myanimelist.net/images/anime/9/82265.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ZAWAZAWA

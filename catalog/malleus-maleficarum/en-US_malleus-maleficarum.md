@@ -1,5 +1,7 @@
 # Malleus Maleficarum
 
+![malleus-maleficarum](https://cdn.myanimelist.net/images/manga/3/216069.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

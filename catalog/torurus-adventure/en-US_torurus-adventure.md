@@ -1,5 +1,7 @@
 # Toruru's Adventure
 
+![torurus-adventure](https://cdn.myanimelist.net/images/anime/6/82423.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Toruru's Adventure

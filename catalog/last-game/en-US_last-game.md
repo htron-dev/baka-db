@@ -1,5 +1,7 @@
 # Last Game
 
+![last-game](https://cdn.myanimelist.net/images/manga/5/65713.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 66

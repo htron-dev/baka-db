@@ -1,5 +1,7 @@
 # Monkey Peak
 
+![monkey-peak](https://cdn.myanimelist.net/images/anime/1654/95851.jpg)
+
 -   **type**: ona
 -   **episodes**: 20
 -   **original-name**: モンキーピーク

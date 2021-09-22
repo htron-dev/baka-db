@@ -1,5 +1,7 @@
 # Gordian Knot
 
+![gordian-knot](https://cdn.myanimelist.net/images/manga/3/32369.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ゴルディオスの結び目

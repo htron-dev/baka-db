@@ -1,5 +1,7 @@
 # Souteigai Love Serendipity
 
+![souteigai-love-serendipity](https://cdn.myanimelist.net/images/manga/3/171699.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

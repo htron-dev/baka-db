@@ -1,5 +1,7 @@
 # Doolie Baenang-Yeohaeng
 
+![doolie-baenang-yeohaeng](https://cdn.myanimelist.net/images/anime/5/66125.jpg)
+
 -   **type**: ova
 -   **episodes**: 7
 -   **original-name**: 둘리의 배낭여행

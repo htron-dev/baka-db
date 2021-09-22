@@ -1,5 +1,7 @@
 # Lolicon Saga
 
+![lolicon-saga](https://cdn.myanimelist.net/images/manga/3/85589.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

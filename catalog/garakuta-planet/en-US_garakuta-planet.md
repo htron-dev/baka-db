@@ -1,5 +1,7 @@
 # Garakuta Planet
 
+![garakuta-planet](https://cdn.myanimelist.net/images/manga/2/29029.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

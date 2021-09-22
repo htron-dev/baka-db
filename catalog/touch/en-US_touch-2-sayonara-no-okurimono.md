@@ -1,5 +1,7 @@
 # Touch 2: Sayonara no Okurimono
 
+![touch-2-sayonara-no-okurimono](https://cdn.myanimelist.net/images/anime/8/3046.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: タッチ 2 さよならの贈り物

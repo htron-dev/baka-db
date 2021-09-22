@@ -1,5 +1,7 @@
 # Dogesen
 
+![dogesen](https://cdn.myanimelist.net/images/manga/1/74311.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

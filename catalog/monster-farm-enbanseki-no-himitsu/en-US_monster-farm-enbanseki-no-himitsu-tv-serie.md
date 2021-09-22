@@ -1,5 +1,7 @@
 # Monster Farm: Enbanseki no Himitsu
 
+![monster-farm-enbanseki-no-himitsu](https://cdn.myanimelist.net/images/anime/1044/113641.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 48
 -   **original-name**: モンスターファーム

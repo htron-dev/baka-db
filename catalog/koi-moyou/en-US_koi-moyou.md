@@ -1,5 +1,7 @@
 # Koi-Moyou
 
+![koi-moyou](https://cdn.myanimelist.net/images/manga/2/13762.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 6

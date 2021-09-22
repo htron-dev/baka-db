@@ -1,5 +1,7 @@
 # Marie &amp; Gali Special
 
+![marie-amp-gali-special](https://cdn.myanimelist.net/images/anime/12/15369.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: マリー＆ガリー

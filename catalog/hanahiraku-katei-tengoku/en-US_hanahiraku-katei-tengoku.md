@@ -1,5 +1,7 @@
 # Hanahiraku Katei Tengoku
 
+![hanahiraku-katei-tengoku](https://cdn.myanimelist.net/images/manga/1/177842.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Koi to Uso OVA
 
+![koi-to-uso-ova](https://cdn.myanimelist.net/images/anime/1414/100837.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 恋と嘘

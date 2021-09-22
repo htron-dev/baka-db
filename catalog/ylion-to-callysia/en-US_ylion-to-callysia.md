@@ -1,5 +1,7 @@
 # Ylion to Callysia
 
+![ylion-to-callysia](https://cdn.myanimelist.net/images/anime/8/85786.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: イリオンとカリシア

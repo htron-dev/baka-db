@@ -1,5 +1,7 @@
 # Sci-Fi Harry
 
+![sci-fi-harry](https://cdn.myanimelist.net/images/manga/1/187092.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: Sci-Fi HARRY

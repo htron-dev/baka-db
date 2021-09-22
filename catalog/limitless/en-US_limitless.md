@@ -1,5 +1,7 @@
 # Limitless!
 
+![limitless](https://cdn.myanimelist.net/images/manga/1/163249.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: リミットレス！

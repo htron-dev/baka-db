@@ -1,5 +1,7 @@
 # Pokemon: Pikachu, Kore Nan no Kagi?
 
+![pokemon-pikachu-kore-nan-no-kagi](https://cdn.myanimelist.net/images/anime/3/56863.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ポケモン・ザ・ムービー XY『ピカチュウ, これなんのカギ?』

@@ -1,5 +1,7 @@
 # Kotoura-san
 
+![kotoura-san](https://cdn.myanimelist.net/images/anime/10/75585.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 琴浦さん

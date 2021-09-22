@@ -1,5 +1,7 @@
 # He/n/shi/n
 
+![he-n-shi-n](https://cdn.myanimelist.net/images/manga/1/125539.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

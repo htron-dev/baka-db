@@ -1,5 +1,7 @@
 # Tegamibachi Gakuen
 
+![tegamibachi-gakuen](https://cdn.myanimelist.net/images/anime/4/19573.jpg)
+
 -   **type**: special
 -   **episodes**: 25
 -   **original-name**: テガミバチ学園

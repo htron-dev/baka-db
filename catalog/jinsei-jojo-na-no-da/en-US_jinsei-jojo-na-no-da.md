@@ -1,5 +1,7 @@
 # Jinsei Jojo na no da
 
+![jinsei-jojo-na-no-da](https://cdn.myanimelist.net/images/manga/1/33269.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 人生は上々なのだ

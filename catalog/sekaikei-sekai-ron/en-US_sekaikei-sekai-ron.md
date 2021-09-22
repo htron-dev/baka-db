@@ -1,5 +1,7 @@
 # Sekaikei Sekai Ron
 
+![sekaikei-sekai-ron](https://cdn.myanimelist.net/images/anime/9/34245.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: セカイ系セカイ論

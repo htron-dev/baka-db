@@ -1,5 +1,7 @@
 # Butai Shoujo☆Kageki Revue Starlight: The Live #2 - Transition
 
+![butai-shoujo☆-kageki-revue-starlight-the-live-2-transition](https://cdn.myanimelist.net/images/manga/1/227091.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

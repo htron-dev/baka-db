@@ -1,5 +1,7 @@
 # Cofun Gal no Coffy
 
+![cofun-gal-no-coffy](https://cdn.myanimelist.net/images/anime/12/37695.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 古墳ギャルのコフィー

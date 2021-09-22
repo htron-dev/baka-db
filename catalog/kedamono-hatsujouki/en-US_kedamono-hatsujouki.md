@@ -1,5 +1,7 @@
 # Kedamono Hatsujouki!!
 
+![kedamono-hatsujouki](https://cdn.myanimelist.net/images/manga/2/150341.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

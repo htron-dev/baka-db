@@ -1,5 +1,7 @@
 # Touhou Project Niji Sousaku Series: Ningen-tachi no Gensoukyou
 
+![touhou-project-niji-sousaku-series-ningen-tachi-no-gensoukyou](https://cdn.myanimelist.net/images/manga/3/245960.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

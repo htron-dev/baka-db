@@ -1,5 +1,7 @@
 # Kimitachi wa Dou Ikiru ka
 
+![kimitachi-wa-dou-ikiru-ka](https://cdn.myanimelist.net/images/manga/1/224004.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

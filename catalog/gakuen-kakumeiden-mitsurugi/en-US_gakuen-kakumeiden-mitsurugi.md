@@ -1,5 +1,7 @@
 # Gakuen Kakumeiden Mitsurugi
 
+![gakuen-kakumeiden-mitsurugi](https://cdn.myanimelist.net/images/manga/1/33633.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: 学園革命伝 ミツルギ; 学園革命伝ミツルギ

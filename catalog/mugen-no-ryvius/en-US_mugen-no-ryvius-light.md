@@ -1,5 +1,7 @@
 # Mugen no Ryvius: Light
 
+![mugen-no-ryvius-light](https://cdn.myanimelist.net/images/anime/1120/105783.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 無限のリヴァイアス ライト

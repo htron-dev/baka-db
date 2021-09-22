@@ -1,5 +1,7 @@
 # Fujun Isei Kouyuu
 
+![fujun-isei-kouyuu](https://cdn.myanimelist.net/images/manga/3/213645.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

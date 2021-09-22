@@ -1,5 +1,7 @@
 # Hal &amp; Bons
 
+![hal-amp-bons](https://cdn.myanimelist.net/images/anime/6/5878.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: ハル&ボンス

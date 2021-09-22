@@ -1,5 +1,7 @@
 # Chanto...
 
+![chanto](https://cdn.myanimelist.net/images/anime/1881/104777.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ちゃんと・・・

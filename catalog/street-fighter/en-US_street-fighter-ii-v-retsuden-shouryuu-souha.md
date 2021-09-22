@@ -1,5 +1,7 @@
 # Street Fighter II V Retsuden: Shouryuu Souha
 
+![street-fighter-ii-v-retsuden-shouryuu-souha](https://cdn.myanimelist.net/images/manga/2/173373.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ストリートファイター II V 烈伝 昇龍争覇

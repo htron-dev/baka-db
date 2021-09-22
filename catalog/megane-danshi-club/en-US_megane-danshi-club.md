@@ -1,5 +1,7 @@
 # Megane Danshi Club
 
+![megane-danshi-club](https://cdn.myanimelist.net/images/manga/1/52381.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: メガネ男子倶楽部

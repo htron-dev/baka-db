@@ -1,5 +1,7 @@
 # Neko Borabu no Milk-san
 
+![neko-borabu-no-milk-san](https://cdn.myanimelist.net/images/manga/3/239833.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

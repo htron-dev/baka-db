@@ -1,5 +1,7 @@
 # Kirin Gogo no Koucha x BanG Dream! Collab Animation CM Koukai!
 
+![kirin-gogo-no-koucha-x-ban-g-dream-collab-animation-cm-koukai](https://cdn.myanimelist.net/images/anime/1059/104677.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: キリン 午後の紅茶 × バンドリ！コラボアニメーション CM 公開！

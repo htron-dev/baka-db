@@ -1,5 +1,7 @@
 # From 701 Goushitsu
 
+![from-701-goushitsu](https://cdn.myanimelist.net/images/manga/3/152402.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

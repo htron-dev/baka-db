@@ -1,5 +1,7 @@
 # Gakumon!: Ookami Shoujo wa Kujikenai
 
+![gakumon-ookami-shoujo-wa-kujikenai](https://cdn.myanimelist.net/images/manga/5/162037.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 54

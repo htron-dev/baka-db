@@ -1,5 +1,7 @@
 # Koi no Tsuki
 
+![koi-no-tsuki](https://cdn.myanimelist.net/images/manga/1/183234.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 36

@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam: Zero no Kyuu Zaku
 
+![kidou-senshi-gundam-zero-no-kyuu-zaku](https://cdn.myanimelist.net/images/manga/3/147397.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

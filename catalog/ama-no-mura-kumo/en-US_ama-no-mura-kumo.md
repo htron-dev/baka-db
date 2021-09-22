@@ -1,5 +1,7 @@
 # Ama no Mura Kumo
 
+![ama-no-mura-kumo](https://cdn.myanimelist.net/images/manga/1/64463.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

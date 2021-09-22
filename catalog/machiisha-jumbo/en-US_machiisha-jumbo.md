@@ -1,5 +1,7 @@
 # Machiisha Jumbo!!
 
+![machiisha-jumbo](https://cdn.myanimelist.net/images/manga/1/151354.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 192

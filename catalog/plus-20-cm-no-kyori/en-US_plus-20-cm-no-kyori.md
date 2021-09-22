@@ -1,5 +1,7 @@
 # Plus 20cm no Kyori
 
+![plus-20-cm-no-kyori](https://cdn.myanimelist.net/images/manga/2/29423.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Zhihui Mima
 
+![zhihui-mima](https://cdn.myanimelist.net/images/anime/1087/115337.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 智慧密码

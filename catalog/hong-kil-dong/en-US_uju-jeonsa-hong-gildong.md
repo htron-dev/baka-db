@@ -1,5 +1,7 @@
 # Uju Jeonsa Hong Gildong
 
+![uju-jeonsa-hong-gildong](https://cdn.myanimelist.net/images/anime/7/45168.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 우주전사 홍길동
@@ -9,7 +11,6 @@
 ## Tags
 
 -   action
-
 -   adventure
 -   space
 -   sci-fi

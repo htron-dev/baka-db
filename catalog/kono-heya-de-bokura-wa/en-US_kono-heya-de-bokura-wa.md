@@ -1,5 +1,7 @@
 # Kono Heya de, Bokura wa.
 
+![kono-heya-de-bokura-wa](https://cdn.myanimelist.net/images/manga/2/52245.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

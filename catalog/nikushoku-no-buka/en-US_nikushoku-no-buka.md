@@ -1,5 +1,7 @@
 # Nikushoku no Buka
 
+![nikushoku-no-buka](https://cdn.myanimelist.net/images/manga/3/223112.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

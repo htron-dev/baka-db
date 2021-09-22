@@ -1,5 +1,7 @@
 # Kaijuu Sakaba Kanpai! Specials
 
+![kaijuu-sakaba-kanpai-specials](https://cdn.myanimelist.net/images/anime/7/77321.jpg)
+
 -   **type**: special
 -   **episodes**: 13
 -   **original-name**: 怪獣酒場 カンパーイ!

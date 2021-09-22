@@ -1,5 +1,7 @@
 # Sukutte Goran
 
+![sukutte-goran](https://cdn.myanimelist.net/images/manga/1/192200.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

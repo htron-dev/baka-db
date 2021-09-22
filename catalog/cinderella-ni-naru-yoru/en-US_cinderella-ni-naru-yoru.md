@@ -1,5 +1,7 @@
 # Cinderella ni Naru Yoru
 
+![cinderella-ni-naru-yoru](https://cdn.myanimelist.net/images/manga/2/41263.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: シンデレラになる夜

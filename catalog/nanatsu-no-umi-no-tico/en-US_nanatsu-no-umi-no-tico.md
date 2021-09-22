@@ -1,5 +1,7 @@
 # Nanatsu no Umi no Tico
 
+![nanatsu-no-umi-no-tico](https://cdn.myanimelist.net/images/anime/9/69547.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: 七つの海のティコ

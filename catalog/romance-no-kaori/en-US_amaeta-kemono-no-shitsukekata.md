@@ -1,5 +1,7 @@
 # Amaeta Kemono no Shitsukekata
 
+![amaeta-kemono-no-shitsukekata](https://cdn.myanimelist.net/images/manga/1/162291.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

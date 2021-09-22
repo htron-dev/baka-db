@@ -1,5 +1,7 @@
 # Shimajirou no Wow!
 
+![shimajirou-no-wow](https://cdn.myanimelist.net/images/anime/9/50737.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: しまじろうのわお!
 -   **start-date**: 2012-04-02
@@ -11,7 +13,6 @@
 -   adventure
 -   comedy
 -   fantasy
-
 -   magic
 
 ## Sinopse

@@ -1,5 +1,7 @@
 # Shan T Lao Fu Zi
 
+![shan-t-lao-fu-zi](https://cdn.myanimelist.net/images/anime/12/72101.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 山 T 老夫子

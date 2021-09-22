@@ -1,5 +1,7 @@
 # Allen to Dolan
 
+![allen-to-dolan](https://cdn.myanimelist.net/images/manga/3/197020.jpg)
+
 -   **type**: manga
 -   **original-name**: アレンとドラン
 -   **start-date**: 2016-03-25

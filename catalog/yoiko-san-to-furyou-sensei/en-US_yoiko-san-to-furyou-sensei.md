@@ -1,5 +1,7 @@
 # Yoiko-san to Furyou-sensei
 
+![yoiko-san-to-furyou-sensei](https://cdn.myanimelist.net/images/manga/2/191384.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Oz no Mahoutsukai
 
+![oz-no-mahoutsukai](https://cdn.myanimelist.net/images/manga/1/230077.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: オズの魔法使い

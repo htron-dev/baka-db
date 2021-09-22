@@ -1,5 +1,7 @@
 # Isekai de Hunter Hajimemashita.: Emono wa Oishiku Itadakimasu
 
+![isekai-de-hunter-hajimemashita-emono-wa-oishiku-itadakimasu](https://cdn.myanimelist.net/images/manga/1/183745.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界でハンター始めました。 獲物はおいしくいただきます
 -   **start-date**: 2016-09-30

@@ -1,5 +1,7 @@
 # Dandy Heika to Eros no Yubiwa
 
+![dandy-heika-to-eros-no-yubiwa](https://cdn.myanimelist.net/images/manga/1/191662.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

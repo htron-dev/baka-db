@@ -1,5 +1,7 @@
 # Hana to Hoshi
 
+![hana-to-hoshi](https://cdn.myanimelist.net/images/manga/3/65975.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

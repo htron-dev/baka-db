@@ -1,5 +1,7 @@
 # Konya, Mister de
 
+![konya-mister-de](https://cdn.myanimelist.net/images/manga/2/160467.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

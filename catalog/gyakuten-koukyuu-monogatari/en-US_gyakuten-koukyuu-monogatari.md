@@ -1,5 +1,7 @@
 # Gyakuten Koukyuu Monogatari
 
+![gyakuten-koukyuu-monogatari](https://cdn.myanimelist.net/images/manga/2/180196.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 25

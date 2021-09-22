@@ -1,5 +1,7 @@
 # Yorozuya Toukaidou Honpo: Tokubetsu-hen
 
+![yorozuya-toukaidou-honpo-tokubetsu-hen](https://cdn.myanimelist.net/images/manga/3/112121.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

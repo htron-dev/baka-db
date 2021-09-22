@@ -1,5 +1,7 @@
 # Naisho no Princess
 
+![naisho-no-princess](https://cdn.myanimelist.net/images/manga/2/38402.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

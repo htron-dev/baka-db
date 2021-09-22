@@ -1,5 +1,7 @@
 # Monster Hunter Epic
 
+![monster-hunter-epic](https://cdn.myanimelist.net/images/manga/3/155128.jpg)
+
 -   **type**: manga
 -   **original-name**: モンスターハンターエピック
 -   **start-date**: 2011-09-20

@@ -1,5 +1,7 @@
 # High School! Kimengumi (Movie)
 
+![high-school-kimengumi-movie](https://cdn.myanimelist.net/images/anime/7/64257.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ハイスクール!奇面組　劇場版

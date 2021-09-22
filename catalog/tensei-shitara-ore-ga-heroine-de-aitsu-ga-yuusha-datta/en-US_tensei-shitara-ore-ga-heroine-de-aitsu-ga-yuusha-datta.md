@@ -1,5 +1,7 @@
 # Tensei shitara Ore ga Heroine de Aitsu ga Yuusha Datta
 
+![tensei-shitara-ore-ga-heroine-de-aitsu-ga-yuusha-datta](https://cdn.myanimelist.net/images/manga/1/234741.jpg)
+
 -   **type**: manga
 -   **original-name**: 転生したらオレがヒロインであいつが勇者だった
 -   **start-date**: 2020-04-03

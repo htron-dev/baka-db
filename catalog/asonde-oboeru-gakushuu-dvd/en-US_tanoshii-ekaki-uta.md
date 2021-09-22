@@ -1,5 +1,7 @@
 # Tanoshii Ekaki Uta
 
+![tanoshii-ekaki-uta](https://cdn.myanimelist.net/images/anime/3/84972.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: たのしいえかきうた

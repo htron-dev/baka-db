@@ -1,5 +1,7 @@
 # Shin Naniwa Kinyuudou: Aoki Yuuji Monogatari
 
+![shin-naniwa-kinyuudou-aoki-yuuji-monogatari](https://cdn.myanimelist.net/images/manga/1/226806.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 33

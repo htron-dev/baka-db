@@ -1,5 +1,7 @@
 # Taishi Kakka no Ryourinin
 
+![taishi-kakka-no-ryourinin](https://cdn.myanimelist.net/images/manga/3/78335.jpg)
+
 -   **type**: manga
 -   **volumes**: 25
 -   **chapters**: 311

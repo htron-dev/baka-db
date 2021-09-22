@@ -1,5 +1,7 @@
 # Zashiki Warashi no Tatami-chan
 
+![zashiki-warashi-no-tatami-chan](https://cdn.myanimelist.net/images/anime/1813/116873.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: ざしきわらしのタタミちゃん

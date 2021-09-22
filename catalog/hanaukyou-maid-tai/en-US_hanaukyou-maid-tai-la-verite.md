@@ -1,5 +1,7 @@
 # Hanaukyou Maid-tai: La Verite
 
+![hanaukyou-maid-tai-la-verite](https://cdn.myanimelist.net/images/anime/8/10518.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 花右京メイド隊 La Verite

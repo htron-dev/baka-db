@@ -1,5 +1,7 @@
 # Shinrabanshou.mp3
 
+![shinrabanshou-mp-3](https://cdn.myanimelist.net/images/anime/1601/102217.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 森羅万象.mp3

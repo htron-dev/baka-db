@@ -1,5 +1,7 @@
 # Maboroshi Panty
 
+![maboroshi-panty](https://cdn.myanimelist.net/images/manga/3/159913.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

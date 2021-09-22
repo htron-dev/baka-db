@@ -1,5 +1,7 @@
 # Kowashite Ageru yo.: Watashi wa Futari no Oningyou
 
+![kowashite-ageru-yo-watashi-wa-futari-no-oningyou](https://cdn.myanimelist.net/images/manga/1/193482.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Calimero
 
+![calimero](https://cdn.myanimelist.net/images/anime/6/3926.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 45
 -   **original-name**: カリメロ

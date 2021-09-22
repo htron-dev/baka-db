@@ -1,5 +1,7 @@
 # Persona 2: Innocent Sin Comic Anthology
 
+![persona-2-innocent-sin-comic-anthology](https://cdn.myanimelist.net/images/manga/2/147957.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Sugar\*Soldier
 
+![sugar-soldier](https://cdn.myanimelist.net/images/manga/2/147177.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 61

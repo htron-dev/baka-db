@@ -1,5 +1,7 @@
 # Ojarumaru
 
+![ojarumaru](https://cdn.myanimelist.net/images/anime/2/8519.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: おじゃる丸
 -   **start-date**: 1998-10-05
@@ -10,7 +12,6 @@
 
 -   adventure
 -   comedy
-
 -   fantasy
 
 ## Sinopse

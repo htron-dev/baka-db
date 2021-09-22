@@ -1,5 +1,7 @@
 # Ouji-sama Lv1
 
+![ouji-sama-lv-1](https://cdn.myanimelist.net/images/manga/1/164841.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 王子さま Lv1

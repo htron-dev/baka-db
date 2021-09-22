@@ -1,5 +1,7 @@
 # Urusei Yatsura 2: Beautiful Dreamer
 
+![urusei-yatsura-2-beautiful-dreamer](https://cdn.myanimelist.net/images/anime/3/78231.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: うる星やつら 2 ビューティフル・ドリーマー

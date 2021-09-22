@@ -1,5 +1,7 @@
 # Danchi Tomoo: Natsuyasumi no Shukudai wa Owatta no ka yo? Tomoo
 
+![danchi-tomoo-natsuyasumi-no-shukudai-wa-owatta-no-ka-yo-tomoo](https://cdn.myanimelist.net/images/anime/10/76315.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 団地ともお スペシャル～夏休みの宿題は終わったのかよ？ともお～

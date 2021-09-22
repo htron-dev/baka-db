@@ -1,5 +1,7 @@
 # Imouto ni Konyakusha wo Yuzure to Iwaremashita
 
+![imouto-ni-konyakusha-wo-yuzure-to-iwaremashita](https://cdn.myanimelist.net/images/manga/3/247319.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 妹に婚約者を譲れと言われました
 -   **start-date**: 2019-03-09

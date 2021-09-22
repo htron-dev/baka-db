@@ -1,5 +1,7 @@
 # Wagamama Ouji wa Neko wo Karu
 
+![wagamama-ouji-wa-neko-wo-karu](https://cdn.myanimelist.net/images/manga/3/246004.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

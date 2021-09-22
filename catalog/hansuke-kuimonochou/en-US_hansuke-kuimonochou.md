@@ -1,5 +1,7 @@
 # Hansuke Kuimonochou
 
+![hansuke-kuimonochou](https://cdn.myanimelist.net/images/manga/3/227019.jpg)
+
 -   **type**: manga
 -   **original-name**: 半助喰物帖
 -   **start-date**: 2018-08-07

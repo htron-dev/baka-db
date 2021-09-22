@@ -1,5 +1,7 @@
 # Nihon Mukashibanashi: Warashibe Chouja
 
+![nihon-mukashibanashi-warashibe-chouja](https://cdn.myanimelist.net/images/anime/12/58593.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 日本むかしばなし わらしべ長者

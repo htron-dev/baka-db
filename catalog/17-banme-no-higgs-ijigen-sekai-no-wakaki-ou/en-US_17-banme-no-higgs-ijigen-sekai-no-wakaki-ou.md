@@ -1,5 +1,7 @@
 # 17-banme no Higgs: Ijigen Sekai no Wakaki Ou
 
+![17-banme-no-higgs-ijigen-sekai-no-wakaki-ou](https://cdn.myanimelist.net/images/manga/3/159877.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 17 番目のヒッグス 異次元世界の若き王

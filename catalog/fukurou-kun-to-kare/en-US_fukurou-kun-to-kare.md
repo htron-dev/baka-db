@@ -1,5 +1,7 @@
 # Fukurou-kun to Kare
 
+![fukurou-kun-to-kare](https://cdn.myanimelist.net/images/manga/2/130133.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

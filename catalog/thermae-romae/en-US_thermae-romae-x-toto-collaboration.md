@@ -1,5 +1,7 @@
 # Thermae Romae x TOTO Collaboration
 
+![thermae-romae-x-toto-collaboration](https://cdn.myanimelist.net/images/anime/8/47881.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: テルマエ・ロマエｘ TOTO 企業コラボレーション

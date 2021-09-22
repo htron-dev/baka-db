@@ -1,5 +1,7 @@
 # Usaru-san
 
+![usaru-san](https://cdn.myanimelist.net/images/anime/11/16866.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: うさるさん

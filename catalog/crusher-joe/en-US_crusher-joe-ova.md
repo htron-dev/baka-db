@@ -1,5 +1,7 @@
 # Crusher Joe OVA
 
+![crusher-joe-ova](https://cdn.myanimelist.net/images/anime/3/18788.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: クラッシャージョウ

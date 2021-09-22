@@ -1,5 +1,7 @@
 # Isekai de Dark Elf Yome to Yuruku Itonamu Ankoku Tairiku Kaitakuki
 
+![isekai-de-dark-elf-yome-to-yuruku-itonamu-ankoku-tairiku-kaitakuki](https://cdn.myanimelist.net/images/manga/2/201905.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界でダークエルフ嫁とゆるく営む暗黒大陸開拓記
 -   **start-date**: 2017-11-22

@@ -1,5 +1,7 @@
 # Seiai Reizoku Ecstasy
 
+![seiai-reizoku-ecstasy](https://cdn.myanimelist.net/images/manga/1/238610.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

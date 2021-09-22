@@ -1,5 +1,7 @@
 # Kirei na Oniisan ga Ore no Pet ni Narimashita
 
+![kirei-na-oniisan-ga-ore-no-pet-ni-narimashita](https://cdn.myanimelist.net/images/manga/1/239083.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

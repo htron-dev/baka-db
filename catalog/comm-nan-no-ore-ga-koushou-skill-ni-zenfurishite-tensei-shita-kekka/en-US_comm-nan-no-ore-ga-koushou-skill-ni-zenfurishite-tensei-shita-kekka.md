@@ -1,5 +1,7 @@
 # Comm-nan no Ore ga, Koushou Skill ni Zenfurishite Tensei shita Kekka
 
+![comm-nan-no-ore-ga-koushou-skill-ni-zenfurishite-tensei-shita-kekka](https://cdn.myanimelist.net/images/manga/1/197909.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 28

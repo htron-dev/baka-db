@@ -1,5 +1,7 @@
 # Boku wa Imouto ni Koi wo Suru
 
+![boku-wa-imouto-ni-koi-wo-suru](https://cdn.myanimelist.net/images/manga/1/6264.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 60

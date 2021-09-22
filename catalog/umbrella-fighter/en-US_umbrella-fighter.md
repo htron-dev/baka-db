@@ -1,5 +1,7 @@
 # Umbrella Fighter!
 
+![umbrella-fighter](https://cdn.myanimelist.net/images/anime/7/83668.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: アンブレラ ファイター！

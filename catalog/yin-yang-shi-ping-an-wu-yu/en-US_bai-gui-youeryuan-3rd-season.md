@@ -1,5 +1,7 @@
 # Bai Gui Youeryuan 3rd Season
 
+![bai-gui-youeryuan-3rd-season](https://cdn.myanimelist.net/images/anime/1984/108463.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 百鬼幼儿园 第三季

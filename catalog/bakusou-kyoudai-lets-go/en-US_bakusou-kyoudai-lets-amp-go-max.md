@@ -1,5 +1,7 @@
 # Bakusou Kyoudai Let's &amp; Go MAX
 
+![bakusou-kyoudai-lets-amp-go-max](https://cdn.myanimelist.net/images/anime/13/18301.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: 爆走兄弟レッツ＆ゴー!! ＭＡＸ

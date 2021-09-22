@@ -1,5 +1,7 @@
 # Made in Honey
 
+![made-in-honey](https://cdn.myanimelist.net/images/manga/3/227030.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 25

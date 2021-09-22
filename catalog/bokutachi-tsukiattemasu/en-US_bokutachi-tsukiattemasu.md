@@ -1,5 +1,7 @@
 # Bokutachi Tsukiattemasu...?
 
+![bokutachi-tsukiattemasu](https://cdn.myanimelist.net/images/manga/2/225048.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 67

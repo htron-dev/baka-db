@@ -1,5 +1,7 @@
 # Nemurenai Koibito
 
+![nemurenai-koibito](https://cdn.myanimelist.net/images/manga/2/64711.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

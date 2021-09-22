@@ -1,5 +1,7 @@
 # Renai Flag 0 Joshi no Meisou
 
+![renai-flag-0-joshi-no-meisou](https://cdn.myanimelist.net/images/manga/1/230215.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

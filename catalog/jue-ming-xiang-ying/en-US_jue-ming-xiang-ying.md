@@ -1,5 +1,7 @@
 # Jue Ming Xiang Ying
 
+![jue-ming-xiang-ying](https://cdn.myanimelist.net/images/anime/1912/105447.jpg)
+
 -   **type**: ona
 -   **episodes**: 30
 -   **original-name**: 绝命响应

@@ -1,5 +1,7 @@
 # Chikyuu ga Ugoita Hi
 
+![chikyuu-ga-ugoita-hi](https://cdn.myanimelist.net/images/anime/1943/95714.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 地球が動いた日

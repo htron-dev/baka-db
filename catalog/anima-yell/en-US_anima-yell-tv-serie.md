@@ -1,5 +1,7 @@
 # Anima Yell!
 
+![anima-yell](https://cdn.myanimelist.net/images/anime/1051/93862.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: アニマエール！

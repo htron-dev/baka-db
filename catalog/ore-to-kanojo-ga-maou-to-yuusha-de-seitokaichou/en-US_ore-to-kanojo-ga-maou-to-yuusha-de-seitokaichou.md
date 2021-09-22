@@ -1,5 +1,7 @@
 # Ore to Kanojo ga Maou to Yuusha de Seitokaichou
 
+![ore-to-kanojo-ga-maou-to-yuusha-de-seitokaichou](https://cdn.myanimelist.net/images/manga/1/122217.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 俺と彼女が魔王と勇者で生徒会長

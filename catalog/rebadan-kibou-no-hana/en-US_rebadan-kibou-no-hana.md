@@ -1,5 +1,7 @@
 # Rebadan Kibou no Hana
 
+![rebadan-kibou-no-hana](https://cdn.myanimelist.net/images/manga/3/18237.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: レバダン・希望の花

@@ -1,5 +1,7 @@
 # Ougon no Ouji to Toraware no Cinderella
 
+![ougon-no-ouji-to-toraware-no-cinderella](https://cdn.myanimelist.net/images/manga/2/165890.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

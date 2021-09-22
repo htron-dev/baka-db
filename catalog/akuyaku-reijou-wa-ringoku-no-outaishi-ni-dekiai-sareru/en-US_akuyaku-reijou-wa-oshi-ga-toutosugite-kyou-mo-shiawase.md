@@ -1,5 +1,7 @@
 # Akuyaku Reijou wa Oshi ga Toutosugite Kyou mo Shiawase
 
+![akuyaku-reijou-wa-oshi-ga-toutosugite-kyou-mo-shiawase](https://cdn.myanimelist.net/images/manga/3/247267.jpg)
+
 -   **type**: manga
 -   **original-name**: 悪役令嬢は推しが尊すぎて今日も幸せ
 -   **start-date**: 2021-01-05

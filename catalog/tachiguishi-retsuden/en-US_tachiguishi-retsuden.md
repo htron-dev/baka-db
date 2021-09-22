@@ -1,5 +1,7 @@
 # Tachiguishi Retsuden
 
+![tachiguishi-retsuden](https://cdn.myanimelist.net/images/anime/11/2647.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 立喰師列伝

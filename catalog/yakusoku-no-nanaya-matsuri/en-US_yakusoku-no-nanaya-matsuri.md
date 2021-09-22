@@ -1,5 +1,7 @@
 # Yakusoku no Nanaya Matsuri
 
+![yakusoku-no-nanaya-matsuri](https://cdn.myanimelist.net/images/anime/1473/94594.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 約束の七夜祭り

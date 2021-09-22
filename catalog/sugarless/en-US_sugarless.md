@@ -1,5 +1,7 @@
 # Sugarless
 
+![sugarless](https://cdn.myanimelist.net/images/manga/1/169589.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 159

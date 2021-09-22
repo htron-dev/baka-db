@@ -1,5 +1,7 @@
 # Nande Koko ni Sensei ga!?
 
+![nande-koko-ni-sensei-ga](https://cdn.myanimelist.net/images/manga/3/189194.jpg)
+
 -   **type**: manga
 -   **original-name**: なんでここに先生が!?
 -   **start-date**: 2015-10-10

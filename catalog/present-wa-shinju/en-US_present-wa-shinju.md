@@ -1,5 +1,7 @@
 # Present wa Shinju
 
+![present-wa-shinju](https://cdn.myanimelist.net/images/manga/3/38077.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

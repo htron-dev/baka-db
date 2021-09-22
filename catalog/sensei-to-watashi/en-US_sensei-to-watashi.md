@@ -1,5 +1,7 @@
 # Sensei to Watashi
 
+![sensei-to-watashi](https://cdn.myanimelist.net/images/manga/2/18189.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 先生とワタシ。

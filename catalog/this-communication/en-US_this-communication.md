@@ -1,5 +1,7 @@
 # This Communication
 
+![this-communication](https://cdn.myanimelist.net/images/manga/1/244844.jpg)
+
 -   **type**: manga
 -   **original-name**: This コミュニケーション
 -   **start-date**: 2020-04-03

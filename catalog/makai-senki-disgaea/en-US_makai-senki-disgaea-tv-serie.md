@@ -1,5 +1,7 @@
 # Makai Senki Disgaea
 
+![makai-senki-disgaea](https://cdn.myanimelist.net/images/anime/11/20439.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 魔界戦記ディスガイア

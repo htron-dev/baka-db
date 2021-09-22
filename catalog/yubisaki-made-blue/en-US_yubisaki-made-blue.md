@@ -1,5 +1,7 @@
 # Yubisaki Made Blue
 
+![yubisaki-made-blue](https://cdn.myanimelist.net/images/manga/2/31350.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ゆびさきまでブルー

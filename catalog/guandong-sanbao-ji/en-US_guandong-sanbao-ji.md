@@ -1,5 +1,7 @@
 # Guandong Sanbao Ji
 
+![guandong-sanbao-ji](https://cdn.myanimelist.net/images/anime/1967/115338.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 关东三宝记

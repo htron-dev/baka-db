@@ -1,5 +1,7 @@
 # Mahou Shoujo☆Karimenkyo
 
+![mahou-shoujo☆-karimenkyo](https://cdn.myanimelist.net/images/manga/1/162956.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 13

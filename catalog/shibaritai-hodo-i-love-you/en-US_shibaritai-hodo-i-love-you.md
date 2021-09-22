@@ -1,5 +1,7 @@
 # Shibaritai hodo I Love You
 
+![shibaritai-hodo-i-love-you](https://cdn.myanimelist.net/images/manga/2/82258.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

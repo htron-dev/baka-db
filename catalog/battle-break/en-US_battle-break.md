@@ -1,5 +1,7 @@
 # Battle Break
 
+![battle-break](https://cdn.myanimelist.net/images/anime/9/36619.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: バトルブレイク

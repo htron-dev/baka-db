@@ -1,5 +1,7 @@
 # Hunter x Hunter (2011)
 
+![hunter-x-hunter-2011](https://cdn.myanimelist.net/images/anime/11/33657.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 148
 -   **original-name**: HUNTER×HUNTER（ハンター × ハンター）

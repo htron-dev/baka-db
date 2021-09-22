@@ -1,5 +1,7 @@
 # Niizuma wa Himitsu ni Aegu: Hakushaku-sama ni Aisarete
 
+![niizuma-wa-himitsu-ni-aegu-hakushaku-sama-ni-aisarete](https://cdn.myanimelist.net/images/manga/1/191948.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

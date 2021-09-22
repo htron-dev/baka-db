@@ -1,5 +1,7 @@
 # Fukushuu Kansuisha no Jinsei Nishuume Isekaitan the Comic
 
+![fukushuu-kansuisha-no-jinsei-nishuume-isekaitan-the-comic](https://cdn.myanimelist.net/images/manga/1/226912.jpg)
+
 -   **type**: manga
 -   **original-name**: 復讐完遂者の人生二周目異世界譚 THE COMIC
 -   **start-date**: 2019-03-01

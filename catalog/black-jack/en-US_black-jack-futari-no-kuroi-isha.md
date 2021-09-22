@@ -1,5 +1,7 @@
 # Black Jack: Futari no Kuroi Isha
 
+![black-jack-futari-no-kuroi-isha](https://cdn.myanimelist.net/images/anime/4/40303.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ブラック・ジャック ふたりの黒い医者

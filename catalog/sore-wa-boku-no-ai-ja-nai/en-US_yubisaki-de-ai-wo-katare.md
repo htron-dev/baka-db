@@ -1,5 +1,7 @@
 # Yubisaki de Ai wo Katare
 
+![yubisaki-de-ai-wo-katare](https://cdn.myanimelist.net/images/manga/3/42109.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

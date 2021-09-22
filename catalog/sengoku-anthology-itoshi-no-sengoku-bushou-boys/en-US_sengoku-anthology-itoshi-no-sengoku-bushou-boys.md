@@ -1,5 +1,7 @@
 # Sengoku Anthology ~ Itoshi no Sengoku Bushou Boys
 
+![sengoku-anthology-itoshi-no-sengoku-bushou-boys](https://cdn.myanimelist.net/images/manga/3/36863.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

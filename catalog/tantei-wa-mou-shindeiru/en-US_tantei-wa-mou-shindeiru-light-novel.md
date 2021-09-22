@@ -1,5 +1,7 @@
 # Tantei wa Mou, Shindeiru.
 
+![tantei-wa-mou-shindeiru](https://cdn.myanimelist.net/images/manga/1/235054.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 探偵はもう、死んでいる。
 -   **start-date**: 2019-11-25

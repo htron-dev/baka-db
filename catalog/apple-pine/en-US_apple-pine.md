@@ -1,5 +1,7 @@
 # Apple Pine
 
+![apple-pine](https://cdn.myanimelist.net/images/manga/2/34354.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

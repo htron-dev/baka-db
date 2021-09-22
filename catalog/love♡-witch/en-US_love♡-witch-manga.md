@@ -1,5 +1,7 @@
 # Love♡Witch
 
+![love♡-witch](https://cdn.myanimelist.net/images/manga/3/12886.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: ラブ ♡ ウィッチ

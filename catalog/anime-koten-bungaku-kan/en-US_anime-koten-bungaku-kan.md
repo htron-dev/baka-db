@@ -1,9 +1,10 @@
 # Anime Koten Bungaku Kan
 
+![anime-koten-bungaku-kan](https://cdn.myanimelist.net/images/anime/3/63857.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: アニメ古典文学館
-
 -   **rating**: G - All Ages
 
 ## Tags

@@ -1,5 +1,7 @@
 # Battle Girl Ai
 
+![battle-girl-ai](https://cdn.myanimelist.net/images/manga/1/15205.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: バトルガール藍

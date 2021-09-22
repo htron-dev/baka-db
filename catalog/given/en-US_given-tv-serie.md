@@ -1,5 +1,7 @@
 # Given
 
+![given](https://cdn.myanimelist.net/images/anime/1666/102238.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: ギヴン
@@ -31,4 +33,4 @@ Satou's voice is strikingly beautiful, filling Uenoyama with the determination t
 -   [Official Site](http://given-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14756)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=21958)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Given_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Given_%28manga%29)

@@ -1,5 +1,7 @@
 # Korekara Doushiyou?
 
+![korekara-doushiyou](https://cdn.myanimelist.net/images/manga/1/115281.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

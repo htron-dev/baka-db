@@ -1,5 +1,7 @@
 # Genji Tsuushin Agedama
 
+![genji-tsuushin-agedama](https://cdn.myanimelist.net/images/anime/11/21064.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: ゲンジ通信あげだま

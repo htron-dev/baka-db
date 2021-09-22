@@ -1,5 +1,7 @@
 # Xiuluo Jian Zun
 
+![xiuluo-jian-zun](https://cdn.myanimelist.net/images/anime/1822/115370.jpg)
+
 -   **type**: ona
 -   **original-name**: 修罗剑尊
 -   **rating**: PG-13 - Teens 13 or older

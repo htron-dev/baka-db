@@ -1,5 +1,7 @@
 # Code-Ex
 
+![code-ex](https://cdn.myanimelist.net/images/manga/3/60495.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

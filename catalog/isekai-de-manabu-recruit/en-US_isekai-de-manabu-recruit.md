@@ -1,5 +1,7 @@
 # Isekai de Manabu Recruit
 
+![isekai-de-manabu-recruit](https://cdn.myanimelist.net/images/manga/2/172505.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界で学ぶ人材業界〈リクルート〉
 -   **start-date**: 2016-03-02

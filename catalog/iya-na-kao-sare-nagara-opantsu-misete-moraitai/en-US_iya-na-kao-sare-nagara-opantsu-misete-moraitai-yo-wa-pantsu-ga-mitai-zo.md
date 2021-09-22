@@ -1,5 +1,7 @@
 # Iya na Kao sare nagara Opantsu Misete Moraitai: Yo wa Pantsu ga Mitai zo
 
+![iya-na-kao-sare-nagara-opantsu-misete-moraitai-yo-wa-pantsu-ga-mitai-zo](https://cdn.myanimelist.net/images/manga/3/221580.jpg)
+
 -   **type**: manga
 -   **original-name**: 嫌な顔されながらおパンツ見せてもらいたい〜余はパンツが見たいぞ〜
 -   **start-date**: 2019-05-13

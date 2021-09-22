@@ -1,5 +1,7 @@
 # Hina's Lip
 
+![hinas-lip](https://cdn.myanimelist.net/images/manga/1/135427.jpg)
+
 -   **type**: manga
 -   **original-name**: 陽菜'S リップ
 -   **start-date**: 2014-07-03

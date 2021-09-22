@@ -1,5 +1,7 @@
 # Daisuki: Hikaru to Sakura
 
+![daisuki-hikaru-to-sakura](https://cdn.myanimelist.net/images/manga/1/148473.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # FLCL
 
+![flcl](https://cdn.myanimelist.net/images/manga/2/113333.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

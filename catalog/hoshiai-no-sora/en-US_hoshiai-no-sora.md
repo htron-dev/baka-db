@@ -1,5 +1,7 @@
 # Hoshiai no Sora
 
+![hoshiai-no-sora](https://cdn.myanimelist.net/images/anime/1807/103081.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 星合の空

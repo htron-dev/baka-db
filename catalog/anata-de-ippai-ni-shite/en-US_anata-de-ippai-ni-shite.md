@@ -1,5 +1,7 @@
 # Anata de Ippai ni Shite
 
+![anata-de-ippai-ni-shite](https://cdn.myanimelist.net/images/manga/2/193652.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

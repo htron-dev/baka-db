@@ -1,5 +1,7 @@
 # Kennel Tokorozawa
 
+![kennel-tokorozawa](https://cdn.myanimelist.net/images/anime/8/38063.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ケンネル所沢

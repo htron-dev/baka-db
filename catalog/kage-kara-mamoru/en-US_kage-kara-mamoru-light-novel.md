@@ -1,5 +1,7 @@
 # Kage kara Mamoru!
 
+![kage-kara-mamoru](https://cdn.myanimelist.net/images/manga/2/163384.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 12
 -   **chapters**: 50

@@ -1,5 +1,7 @@
 # Adashi Mono
 
+![adashi-mono](https://cdn.myanimelist.net/images/manga/1/128463.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Happy Kappy Recap
 
+![happy-kappy-recap](https://cdn.myanimelist.net/images/anime/13/31771.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: はっぴ〜カッピ

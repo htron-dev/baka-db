@@ -1,5 +1,7 @@
 # Doraemon Movie 17: Nobita to Ginga Express
 
+![doraemon-movie-17-nobita-to-ginga-express](https://cdn.myanimelist.net/images/anime/2/72422.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん のび太と銀河超特急[エクスプレス]

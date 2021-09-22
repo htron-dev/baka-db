@@ -1,5 +1,7 @@
 # Wagaya no Oinari-sama.
 
+![wagaya-no-oinari-sama](https://cdn.myanimelist.net/images/manga/2/128343.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 67

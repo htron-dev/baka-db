@@ -1,5 +1,7 @@
 # Sabae to Yattara Owaru
 
+![sabae-to-yattara-owaru](https://cdn.myanimelist.net/images/manga/2/240373.jpg)
+
 -   **type**: manga
 -   **original-name**: サバエとヤッたら終わる
 -   **start-date**: 2019-09-20

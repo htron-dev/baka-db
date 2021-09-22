@@ -1,5 +1,7 @@
 # Houkago Teibou Nisshi
 
+![houkago-teibou-nisshi](https://cdn.myanimelist.net/images/manga/2/202043.jpg)
+
 -   **type**: manga
 -   **original-name**: 放課後ていぼう日誌
 -   **start-date**: 2017-02-21

@@ -1,5 +1,7 @@
 # P.D. Agency no Hokokusho
 
+![p-d-agency-no-hokokusho](https://cdn.myanimelist.net/images/manga/2/44369.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

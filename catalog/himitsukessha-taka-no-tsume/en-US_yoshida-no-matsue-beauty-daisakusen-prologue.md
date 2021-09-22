@@ -1,5 +1,7 @@
 # Yoshida no Matsue Beauty Daisakusen Prologue
 
+![yoshida-no-matsue-beauty-daisakusen-prologue](https://cdn.myanimelist.net/images/anime/13/84749.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 【吉田の松江ビューティー大作戦】プロローグ

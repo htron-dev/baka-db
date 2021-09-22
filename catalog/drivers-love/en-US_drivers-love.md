@@ -1,5 +1,7 @@
 # Driver's Love
 
+![drivers-love](https://cdn.myanimelist.net/images/manga/3/23533.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

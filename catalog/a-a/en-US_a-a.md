@@ -1,5 +1,7 @@
 # A-A'
 
+![a-a](https://cdn.myanimelist.net/images/manga/5/158293.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

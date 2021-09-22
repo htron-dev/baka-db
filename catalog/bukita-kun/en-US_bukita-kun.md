@@ -1,5 +1,7 @@
 # Bukita-kun
 
+![bukita-kun](https://cdn.myanimelist.net/images/manga/3/165188.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 不気田くん

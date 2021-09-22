@@ -1,5 +1,7 @@
 # Mitsuya: Bara no Hanayome wa Ai ni Oboreru
 
+![mitsuya-bara-no-hanayome-wa-ai-ni-oboreru](https://cdn.myanimelist.net/images/manga/1/181448.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

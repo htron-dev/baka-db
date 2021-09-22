@@ -1,5 +1,7 @@
 # Itsumo Utsukushii Anata to
 
+![itsumo-utsukushii-anata-to](https://cdn.myanimelist.net/images/manga/3/246744.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

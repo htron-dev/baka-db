@@ -1,5 +1,7 @@
 # Otouto Imouto
 
+![otouto-imouto](https://cdn.myanimelist.net/images/manga/2/175302.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

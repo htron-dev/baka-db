@@ -1,5 +1,7 @@
 # Dr. M no Sasayaka naru Yokubou
 
+![dr-m-no-sasayaka-naru-yokubou](https://cdn.myanimelist.net/images/manga/2/131009.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

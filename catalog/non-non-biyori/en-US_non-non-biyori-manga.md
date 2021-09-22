@@ -1,5 +1,7 @@
 # Non Non Biyori
 
+![non-non-biyori](https://cdn.myanimelist.net/images/manga/2/57729.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 125

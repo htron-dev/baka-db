@@ -1,5 +1,7 @@
 # Toriyama Akira ○-saku Gekijou
 
+![toriyama-akira-○-saku-gekijou](https://cdn.myanimelist.net/images/manga/3/23384.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 38

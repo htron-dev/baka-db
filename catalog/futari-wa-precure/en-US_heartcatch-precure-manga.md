@@ -1,5 +1,7 @@
 # Heartcatch Precure!
 
+![heartcatch-precure](https://cdn.myanimelist.net/images/manga/3/181254.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

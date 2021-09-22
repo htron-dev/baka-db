@@ -1,5 +1,7 @@
 # Ryuuzaki-san to Torao-san
 
+![ryuuzaki-san-to-torao-san](https://cdn.myanimelist.net/images/manga/1/160802.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

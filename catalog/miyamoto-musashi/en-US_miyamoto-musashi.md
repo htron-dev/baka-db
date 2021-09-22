@@ -1,5 +1,7 @@
 # Miyamoto Musashi
 
+![miyamoto-musashi](https://cdn.myanimelist.net/images/manga/2/26953.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 宮本武蔵

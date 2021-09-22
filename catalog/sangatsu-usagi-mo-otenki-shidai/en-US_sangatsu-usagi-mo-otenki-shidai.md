@@ -1,5 +1,7 @@
 # Sangatsu Usagi mo Otenki Shidai
 
+![sangatsu-usagi-mo-otenki-shidai](https://cdn.myanimelist.net/images/manga/2/31530.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 三月うさぎもお天気しだい

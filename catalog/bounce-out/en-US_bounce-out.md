@@ -1,5 +1,7 @@
 # Bounce Out
 
+![bounce-out](https://cdn.myanimelist.net/images/manga/1/201649.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 48

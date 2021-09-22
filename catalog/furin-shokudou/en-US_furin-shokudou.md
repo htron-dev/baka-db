@@ -1,5 +1,7 @@
 # Furin Shokudou
 
+![furin-shokudou](https://cdn.myanimelist.net/images/manga/2/201589.jpg)
+
 -   **type**: manga
 -   **original-name**: 不倫食堂
 -   **start-date**: 2016-04-06

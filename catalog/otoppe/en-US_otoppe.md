@@ -1,5 +1,7 @@
 # Otoppe
 
+![otoppe](https://cdn.myanimelist.net/images/anime/4/85180.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: オトッペ
 -   **start-date**: 2017-04-03
@@ -8,7 +10,6 @@
 ## Tags
 
 -   music
-
 -   fantasy
 
 ## Sinopse

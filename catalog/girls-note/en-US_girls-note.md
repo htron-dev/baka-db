@@ -1,5 +1,7 @@
 # Girls Note
 
+![girls-note](https://cdn.myanimelist.net/images/manga/2/162667.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 33

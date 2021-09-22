@@ -1,5 +1,7 @@
 # Bara no Mori ni Ita Koro
 
+![bara-no-mori-ni-ita-koro](https://cdn.myanimelist.net/images/manga/3/225859.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Mahou no Ko
 
+![mahou-no-ko](https://cdn.myanimelist.net/images/manga/2/160778.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

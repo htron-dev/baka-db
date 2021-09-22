@@ -1,5 +1,7 @@
 # Seijou Kouchakan no Jijou
 
+![seijou-kouchakan-no-jijou](https://cdn.myanimelist.net/images/manga/3/10905.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

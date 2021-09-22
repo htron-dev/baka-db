@@ -1,5 +1,7 @@
 # Sister Princess: Re Pure
 
+![sister-princess-re-pure](https://cdn.myanimelist.net/images/anime/2/25293.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: シスター・プリンセス ～リピュア～
@@ -26,4 +28,4 @@ After a long time, Wataru has decided to leave his family home and live on his o
 -   [Official Site](http://www.starchild.co.jp/special/repure/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=474)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1824)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Sister_Princess_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Sister_Princess_%28anime%29)

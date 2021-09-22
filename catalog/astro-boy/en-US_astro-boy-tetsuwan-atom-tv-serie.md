@@ -1,5 +1,7 @@
 # Astro Boy: Tetsuwan Atom
 
+![astro-boy-tetsuwan-atom](https://cdn.myanimelist.net/images/anime/1611/94026.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: アストロボーイ・鉄腕アトム
@@ -15,7 +17,6 @@
 -   sci-fi
 -   adventure
 -   super-power
-
 -   mecha
 -   shounen
 

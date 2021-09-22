@@ -1,5 +1,7 @@
 # Saishuu Loop
 
+![saishuu-loop](https://cdn.myanimelist.net/images/manga/1/153964.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

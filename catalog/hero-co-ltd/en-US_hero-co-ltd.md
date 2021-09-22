@@ -1,5 +1,7 @@
 # Hero Co., Ltd.
 
+![hero-co-ltd](https://cdn.myanimelist.net/images/manga/3/61893.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 26

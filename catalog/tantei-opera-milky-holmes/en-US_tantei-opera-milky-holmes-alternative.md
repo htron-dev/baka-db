@@ -1,5 +1,7 @@
 # Tantei Opera Milky Holmes: Alternative
 
+![tantei-opera-milky-holmes-alternative](https://cdn.myanimelist.net/images/anime/3/40677.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 探偵オペラ ミルキィホームズ Alternative

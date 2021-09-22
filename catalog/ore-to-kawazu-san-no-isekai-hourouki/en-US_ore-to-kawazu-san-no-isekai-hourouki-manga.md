@@ -1,5 +1,7 @@
 # Ore to Kawazu-san no Isekai Hourouki
 
+![ore-to-kawazu-san-no-isekai-hourouki](https://cdn.myanimelist.net/images/manga/2/199771.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 40

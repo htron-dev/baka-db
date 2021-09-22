@@ -1,5 +1,7 @@
 # Zoku Touken Ranbu: Hanamaru
 
+![zoku-touken-ranbu-hanamaru](https://cdn.myanimelist.net/images/anime/5/89579.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 続 刀剣乱舞-花丸-

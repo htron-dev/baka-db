@@ -1,5 +1,7 @@
 # Rental Fiancée: Oshiharai wa Bed no Ue de
 
+![rental-fiancee-oshiharai-wa-bed-no-ue-de](https://cdn.myanimelist.net/images/manga/3/194289.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

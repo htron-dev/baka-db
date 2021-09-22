@@ -1,5 +1,7 @@
 # Astro Boy: Tetsuwan Atom
 
+![astro-boy-tetsuwan-atom](https://cdn.myanimelist.net/images/manga/3/132309.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 30
@@ -11,7 +13,6 @@
 
 -   action
 -   adventure
-
 -   mecha
 -   sci-fi
 

@@ -1,5 +1,7 @@
 # Crows Explode
 
+![crows-explode](https://cdn.myanimelist.net/images/manga/2/215538.jpg)
+
 -   **type**: manga
 -   **original-name**: クローズ EXPLODE
 -   **start-date**: 2017-10-06

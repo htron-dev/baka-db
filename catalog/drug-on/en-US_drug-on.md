@@ -1,5 +1,7 @@
 # Drug-On
 
+![drug-on](https://cdn.myanimelist.net/images/manga/1/180313.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 31

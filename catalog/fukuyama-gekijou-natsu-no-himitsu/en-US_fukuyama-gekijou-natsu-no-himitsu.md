@@ -1,5 +1,7 @@
 # Fukuyama Gekijou: Natsu no Himitsu
 
+![fukuyama-gekijou-natsu-no-himitsu](https://cdn.myanimelist.net/images/anime/1969/112457.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ふくやま劇場 なつのひみつ
@@ -9,7 +11,6 @@
 ## Tags
 
 -   music
-
 -   fantasy
 
 ## Sinopse

@@ -1,5 +1,7 @@
 # Time Between Dog and Wolf
 
+![time-between-dog-and-wolf](https://cdn.myanimelist.net/images/manga/1/33256.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 

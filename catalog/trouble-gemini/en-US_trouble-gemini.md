@@ -1,5 +1,7 @@
 # Trouble Gemini
 
+![trouble-gemini](https://cdn.myanimelist.net/images/manga/3/36695.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: とらぶるジェミニ

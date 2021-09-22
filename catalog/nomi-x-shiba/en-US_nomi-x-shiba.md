@@ -1,5 +1,7 @@
 # Nomi x Shiba
 
+![nomi-x-shiba](https://cdn.myanimelist.net/images/manga/1/236281.jpg)
+
 -   **type**: manga
 -   **original-name**: のみ × しば
 -   **start-date**: 2018-04-25

@@ -1,5 +1,7 @@
 # Ouji-sama ja Nakutemo
 
+![ouji-sama-ja-nakutemo](https://cdn.myanimelist.net/images/manga/3/10868.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 王子様じゃなくても

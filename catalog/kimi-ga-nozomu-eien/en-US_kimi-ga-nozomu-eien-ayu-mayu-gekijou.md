@@ -1,5 +1,7 @@
 # Kimi ga Nozomu Eien: Ayu Mayu Gekijou
 
+![kimi-ga-nozomu-eien-ayu-mayu-gekijou](https://cdn.myanimelist.net/images/anime/10/10175.jpg)
+
 -   **type**: ona
 -   **episodes**: 7
 -   **original-name**: あゆまゆ劇場

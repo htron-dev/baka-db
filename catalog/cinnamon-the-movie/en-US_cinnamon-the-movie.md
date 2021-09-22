@@ -1,5 +1,7 @@
 # Cinnamon the Movie
 
+![cinnamon-the-movie](https://cdn.myanimelist.net/images/anime/3/35357.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: シナモン the Movie

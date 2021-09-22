@@ -1,5 +1,7 @@
 # Honoo no Alpenrose
 
+![honoo-no-alpenrose](https://cdn.myanimelist.net/images/anime/3/30729.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ドラマチックメモリー 炎のアルペンローゼ

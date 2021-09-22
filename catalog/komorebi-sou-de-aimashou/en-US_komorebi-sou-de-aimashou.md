@@ -1,5 +1,7 @@
 # Komorebi-sou de Aimashou
 
+![komorebi-sou-de-aimashou](https://cdn.myanimelist.net/images/manga/1/226242.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

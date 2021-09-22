@@ -1,5 +1,7 @@
 # Akikan!: Kan Ippatsu!? Onsen Panic
 
+![akikan-kan-ippatsu-onsen-panic](https://cdn.myanimelist.net/images/anime/10/17646.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: アキカン! カン一発!?温泉パニック

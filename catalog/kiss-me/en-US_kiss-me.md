@@ -1,5 +1,7 @@
 # Kiss Me
 
+![kiss-me](https://cdn.myanimelist.net/images/manga/2/162785.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

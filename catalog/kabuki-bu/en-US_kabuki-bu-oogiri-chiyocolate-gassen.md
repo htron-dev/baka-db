@@ -1,5 +1,7 @@
 # Kabuki-bu!: Oogiri "Chiyocolate-gassen"
 
+![kabuki-bu-oogiri-chiyocolate-gassen](https://cdn.myanimelist.net/images/anime/9/85493.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: カブキブ！ 大喜利「ちよこれいと合戦」

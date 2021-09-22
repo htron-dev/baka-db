@@ -1,5 +1,7 @@
 # Itsuka Hataraku Oniisan!
 
+![itsuka-hataraku-oniisan](https://cdn.myanimelist.net/images/manga/3/222086.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

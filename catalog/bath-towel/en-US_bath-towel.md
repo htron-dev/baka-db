@@ -1,5 +1,7 @@
 # Bath Towel
 
+![bath-towel](https://cdn.myanimelist.net/images/manga/2/7968.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

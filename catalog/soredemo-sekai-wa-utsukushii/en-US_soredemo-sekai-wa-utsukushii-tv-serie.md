@@ -1,5 +1,7 @@
 # Soredemo Sekai wa Utsukushii
 
+![soredemo-sekai-wa-utsukushii](https://cdn.myanimelist.net/images/anime/4/59259.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: それでも世界は美しい

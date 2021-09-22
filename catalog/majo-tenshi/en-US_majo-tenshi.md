@@ -1,5 +1,7 @@
 # Majo Tenshi
 
+![majo-tenshi](https://cdn.myanimelist.net/images/manga/1/239085.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

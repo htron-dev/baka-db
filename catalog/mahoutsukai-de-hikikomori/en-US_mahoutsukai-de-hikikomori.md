@@ -1,5 +1,7 @@
 # Mahoutsukai de Hikikomori?
 
+![mahoutsukai-de-hikikomori](https://cdn.myanimelist.net/images/manga/1/226049.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 31

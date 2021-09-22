@@ -1,5 +1,7 @@
 # BanG Dream! 2nd Season
 
+![ban-g-dream-2nd-season](https://cdn.myanimelist.net/images/anime/1967/108632.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: BanG Dream!（バンドリ！）第 2 期

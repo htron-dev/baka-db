@@ -1,5 +1,7 @@
 # Shikii no Juunin
 
+![shikii-no-juunin](https://cdn.myanimelist.net/images/manga/3/62773.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 敷居の住人

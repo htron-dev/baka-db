@@ -1,5 +1,7 @@
 # Hanekoi Lion
 
+![hanekoi-lion](https://cdn.myanimelist.net/images/manga/2/166583.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 34

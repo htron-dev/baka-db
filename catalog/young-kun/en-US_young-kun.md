@@ -1,5 +1,7 @@
 # Young-kun
 
+![young-kun](https://cdn.myanimelist.net/images/manga/1/45449.jpg)
+
 -   **type**: manga
 -   **original-name**: ヤングくん
 

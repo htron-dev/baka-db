@@ -1,5 +1,7 @@
 # Young Gun Carnaval
 
+![young-gun-carnaval](https://cdn.myanimelist.net/images/manga/2/46069.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 23

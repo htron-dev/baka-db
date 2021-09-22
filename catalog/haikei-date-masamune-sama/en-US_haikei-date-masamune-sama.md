@@ -1,5 +1,7 @@
 # Haikei Date Masamune-sama
 
+![haikei-date-masamune-sama](https://cdn.myanimelist.net/images/manga/2/74765.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

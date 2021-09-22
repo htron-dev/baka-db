@@ -1,5 +1,7 @@
 # Trinity Seven: Anastasia Seiden
 
+![trinity-seven-anastasia-seiden](https://cdn.myanimelist.net/images/manga/1/235834.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

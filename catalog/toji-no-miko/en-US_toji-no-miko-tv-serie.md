@@ -1,5 +1,7 @@
 # Toji no Miko
 
+![toji-no-miko](https://cdn.myanimelist.net/images/anime/13/89885.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 刀使ノ巫女

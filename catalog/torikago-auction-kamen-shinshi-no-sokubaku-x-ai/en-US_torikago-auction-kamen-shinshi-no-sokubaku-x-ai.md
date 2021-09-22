@@ -1,5 +1,7 @@
 # Torikago Auction: Kamen Shinshi no Sokubaku x Ai
 
+![torikago-auction-kamen-shinshi-no-sokubaku-x-ai](https://cdn.myanimelist.net/images/manga/1/191919.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

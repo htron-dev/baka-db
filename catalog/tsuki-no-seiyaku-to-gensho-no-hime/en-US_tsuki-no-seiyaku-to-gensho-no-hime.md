@@ -1,5 +1,7 @@
 # Tsuki no Seiyaku to Gensho no Hime
 
+![tsuki-no-seiyaku-to-gensho-no-hime](https://cdn.myanimelist.net/images/manga/3/123681.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

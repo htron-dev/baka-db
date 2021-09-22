@@ -1,5 +1,7 @@
 # Ore to Kawazu-san no Isekai Hourouki
 
+![ore-to-kawazu-san-no-isekai-hourouki](https://cdn.myanimelist.net/images/manga/1/186490.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **original-name**: 俺と蛙さんの異世界放浪記

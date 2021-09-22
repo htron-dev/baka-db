@@ -1,5 +1,7 @@
 # Kuro Bara Alice D.C. al fine
 
+![kuro-bara-alice-d-c-al-fine](https://cdn.myanimelist.net/images/manga/3/242812.jpg)
+
 -   **type**: manga
 -   **original-name**: 黒薔薇アリス D.C.al fine
 -   **start-date**: 2020-04-28

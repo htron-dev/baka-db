@@ -1,5 +1,7 @@
 # Bartender 6stp
 
+![bartender-6-stp](https://cdn.myanimelist.net/images/manga/1/215962.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

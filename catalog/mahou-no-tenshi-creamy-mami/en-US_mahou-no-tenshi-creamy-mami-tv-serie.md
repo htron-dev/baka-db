@@ -1,5 +1,7 @@
 # Mahou no Tenshi Creamy Mami
 
+![mahou-no-tenshi-creamy-mami](https://cdn.myanimelist.net/images/anime/8/50081.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 魔法の天使 クリィミーマミ

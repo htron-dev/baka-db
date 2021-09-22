@@ -1,5 +1,7 @@
 # Crayon Shin-chan Movie 04: Henderland no Daibouken
 
+![crayon-shin-chan-movie-04-henderland-no-daibouken](https://cdn.myanimelist.net/images/anime/1429/94854.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: クレヨンしんちゃん ヘンダーランドの大冒険

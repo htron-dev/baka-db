@@ -1,5 +1,7 @@
 # Hentai Senpai to Ore to Kanojo
 
+![hentai-senpai-to-ore-to-kanojo](https://cdn.myanimelist.net/images/manga/1/122055.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 変態先輩と俺と彼女

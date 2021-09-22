@@ -1,5 +1,7 @@
 # Rurigaki Yoruko no Yuigon
 
+![rurigaki-yoruko-no-yuigon](https://cdn.myanimelist.net/images/manga/1/157444.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

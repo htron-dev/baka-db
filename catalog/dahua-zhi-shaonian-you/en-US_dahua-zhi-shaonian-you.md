@@ -1,5 +1,7 @@
 # Dahua Zhi Shaonian You
 
+![dahua-zhi-shaonian-you](https://cdn.myanimelist.net/images/anime/1530/107440.jpg)
+
 -   **type**: ona
 -   **episodes**: 16
 -   **original-name**: 大话之少年游

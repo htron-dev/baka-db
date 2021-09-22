@@ -1,5 +1,7 @@
 # Aru Hi, Knight ni Atta nara
 
+![aru-hi-knight-ni-atta-nara](https://cdn.myanimelist.net/images/manga/2/4988.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Sexy Commando Gaiden: Sugoi yo!! Masaru-san
 
+![sexy-commando-gaiden-sugoi-yo-masaru-san](https://cdn.myanimelist.net/images/manga/2/48277.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 79

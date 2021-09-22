@@ -1,5 +1,7 @@
 # Darenimo Ienai Himitsu no Shinsatsushitsu
 
+![darenimo-ienai-himitsu-no-shinsatsushitsu](https://cdn.myanimelist.net/images/manga/2/194645.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 誰にも言えない秘密の診察室

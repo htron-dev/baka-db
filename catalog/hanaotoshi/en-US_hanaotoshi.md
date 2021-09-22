@@ -1,5 +1,7 @@
 # Hanaotoshi
 
+![hanaotoshi](https://cdn.myanimelist.net/images/manga/3/23713.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 花堕とし

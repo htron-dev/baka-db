@@ -1,5 +1,7 @@
 # Guuwa
 
+![guuwa](https://cdn.myanimelist.net/images/manga/3/72893.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 寓話 アレゴリア

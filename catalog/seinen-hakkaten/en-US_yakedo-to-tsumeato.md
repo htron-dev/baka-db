@@ -1,5 +1,7 @@
 # Yakedo to Tsumeato
 
+![yakedo-to-tsumeato](https://cdn.myanimelist.net/images/manga/3/150311.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

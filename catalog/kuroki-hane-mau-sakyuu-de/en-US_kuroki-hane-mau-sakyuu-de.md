@@ -1,5 +1,7 @@
 # Kuroki Hane Mau Sakyuu de
 
+![kuroki-hane-mau-sakyuu-de](https://cdn.myanimelist.net/images/manga/1/72625.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 黒き羽舞う砂丘で

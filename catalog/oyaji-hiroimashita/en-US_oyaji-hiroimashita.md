@@ -1,5 +1,7 @@
 # Oyaji Hiroimashita
 
+![oyaji-hiroimashita](https://cdn.myanimelist.net/images/manga/2/25453.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

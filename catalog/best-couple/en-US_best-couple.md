@@ -1,5 +1,7 @@
 # Best Couple
 
+![best-couple](https://cdn.myanimelist.net/images/manga/2/73167.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 

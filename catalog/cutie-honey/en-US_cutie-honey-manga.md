@@ -1,5 +1,7 @@
 # Cutie Honey
 
+![cutie-honey](https://cdn.myanimelist.net/images/manga/5/152793.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Cutie ハニー
@@ -21,13 +23,6 @@
 ## Sinopse
 
 30 years after the first series Cutie Honey continues her fight against Sister Jill and Panther Claw.
-
-## Links
-
--   [My Anime list](https://myanimelist.net/manga/16941/Cutie_Honey)
-    emental Fixation Device. She then finds out that she is actually an android created by him with the Airbourne Elemental Fixation Device within her. She is now trying to live a life as a normal schoolgirl and seeking revenge against Panther Claw.
-
-(Source: MU)
 
 ## Links
 

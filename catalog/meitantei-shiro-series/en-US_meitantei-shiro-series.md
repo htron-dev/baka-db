@@ -1,5 +1,7 @@
 # Meitantei Shiro Series
 
+![meitantei-shiro-series](https://cdn.myanimelist.net/images/manga/1/4981.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 79

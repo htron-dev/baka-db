@@ -1,5 +1,7 @@
 # Love Live! Sunshine!! The School Idol Movie: Over the Rainbow
 
+![love-live-sunshine-the-school-idol-movie-over-the-rainbow](https://cdn.myanimelist.net/images/anime/1859/100474.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ラブライブ！サンシャイン!!The School Idol Movie Over the Rainbow

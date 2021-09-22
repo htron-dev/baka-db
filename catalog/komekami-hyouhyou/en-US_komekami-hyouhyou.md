@@ -1,5 +1,7 @@
 # Komekami Hyouhyou
 
+![komekami-hyouhyou](https://cdn.myanimelist.net/images/manga/3/83767.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

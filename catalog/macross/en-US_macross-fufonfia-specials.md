@@ -1,5 +1,7 @@
 # Macross Fufonfia Specials
 
+![macross-fufonfia-specials](https://cdn.myanimelist.net/images/anime/3/69531.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: マクロス fufonfia

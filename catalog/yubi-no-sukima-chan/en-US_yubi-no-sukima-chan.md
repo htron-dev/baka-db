@@ -1,5 +1,7 @@
 # Yubi no Sukima-chan
 
+![yubi-no-sukima-chan](https://cdn.myanimelist.net/images/anime/1364/109737.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 指のすきまちゃん

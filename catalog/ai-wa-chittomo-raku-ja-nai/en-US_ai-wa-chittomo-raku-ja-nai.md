@@ -1,5 +1,7 @@
 # Ai wa Chittomo Raku ja Nai
 
+![ai-wa-chittomo-raku-ja-nai](https://cdn.myanimelist.net/images/manga/2/193234.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

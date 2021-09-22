@@ -1,5 +1,7 @@
 # Aigan Koukyuu: Ryuutei to Aoi Hitomi no Kisaki
 
+![aigan-koukyuu-ryuutei-to-aoi-hitomi-no-kisaki](https://cdn.myanimelist.net/images/manga/3/183627.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

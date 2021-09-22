@@ -1,5 +1,7 @@
 # Kuroko no Basket NG-shuu
 
+![kuroko-no-basket-ng-shuu](https://cdn.myanimelist.net/images/anime/12/42751.jpg)
+
 -   **type**: special
 -   **episodes**: 9
 -   **original-name**: 黒子のバスケ NG 集

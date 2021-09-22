@@ -1,5 +1,7 @@
 # Hana to Mitsubachi
 
+![hana-to-mitsubachi](https://cdn.myanimelist.net/images/manga/4/76235.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 63

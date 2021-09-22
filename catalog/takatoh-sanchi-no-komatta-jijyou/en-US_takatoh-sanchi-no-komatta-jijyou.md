@@ -1,5 +1,7 @@
 # Takatoh-sanchi no Komatta Jijyou
 
+![takatoh-sanchi-no-komatta-jijyou](https://cdn.myanimelist.net/images/manga/1/80551.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

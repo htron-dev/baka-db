@@ -1,5 +1,7 @@
 # Mamoru-kun ni Megami no Shukufuku wo!
 
+![mamoru-kun-ni-megami-no-shukufuku-wo](https://cdn.myanimelist.net/images/manga/3/41014.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 16
 -   **original-name**: 護くんに女神の祝福を!

@@ -1,5 +1,7 @@
 # Cicada
 
+![cicada](https://cdn.myanimelist.net/images/manga/2/191078.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

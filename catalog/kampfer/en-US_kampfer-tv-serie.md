@@ -1,5 +1,7 @@
 # Kämpfer
 
+![kampfer](https://cdn.myanimelist.net/images/anime/5/35423.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: けんぷファー

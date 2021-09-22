@@ -1,5 +1,7 @@
 # Sensei no Yasashii Koroshikata
 
+![sensei-no-yasashii-koroshikata](https://cdn.myanimelist.net/images/manga/1/202307.jpg)
+
 -   **type**: manga
 -   **original-name**: 先生のやさしい殺し方
 -   **start-date**: 2017-10-19

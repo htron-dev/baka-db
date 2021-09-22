@@ -1,5 +1,7 @@
 # Coffee Break
 
+![coffee-break](https://cdn.myanimelist.net/images/anime/9/71261.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: コーヒーブレイク

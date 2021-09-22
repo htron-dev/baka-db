@@ -1,5 +1,7 @@
 # Dosukoi! Wanpaku Dohyou
 
+![dosukoi-wanpaku-dohyou](https://cdn.myanimelist.net/images/anime/2/64617.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: どすこい! わんぱく土俵

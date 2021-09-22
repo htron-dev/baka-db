@@ -1,5 +1,7 @@
 # Kuroneko wa Shippo de Amaeru
 
+![kuroneko-wa-shippo-de-amaeru](https://cdn.myanimelist.net/images/manga/2/98861.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

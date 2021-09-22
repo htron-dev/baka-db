@@ -1,5 +1,7 @@
 # Nikoniko Nikki
 
+![nikoniko-nikki](https://cdn.myanimelist.net/images/manga/2/20707.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: ニコニコ日記

@@ -1,5 +1,7 @@
 # Salon H
 
+![salon-h](https://cdn.myanimelist.net/images/manga/3/110899.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 62
 -   **original-name**: 살롱 H

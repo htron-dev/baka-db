@@ -1,5 +1,7 @@
 # Happy Pharmacy
 
+![happy-pharmacy](https://cdn.myanimelist.net/images/manga/2/24461.jpg)
+
 -   **type**: manga
 -   **chapters**: 1
 -   **original-name**: Happy Pharmacy

@@ -1,5 +1,7 @@
 # Shiritsu Teijou Gakuen: Shiitsu
 
+![shiritsu-teijou-gakuen-shiitsu](https://cdn.myanimelist.net/images/manga/3/246489.jpg)
+
 -   **type**: manga
 -   **original-name**: 私立帝城学園－四逸－
 -   **start-date**: 2018-09-22

@@ -1,5 +1,7 @@
 # Kin no Tamago
 
+![kin-no-tamago](https://cdn.myanimelist.net/images/manga/3/190995.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

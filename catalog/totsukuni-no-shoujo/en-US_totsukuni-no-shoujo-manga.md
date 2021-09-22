@@ -1,5 +1,7 @@
 # Totsukuni no Shoujo
 
+![totsukuni-no-shoujo](https://cdn.myanimelist.net/images/manga/1/173926.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 53

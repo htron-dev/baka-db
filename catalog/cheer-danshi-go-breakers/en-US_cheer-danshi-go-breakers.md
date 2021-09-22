@@ -1,5 +1,7 @@
 # Cheer Danshi!!: Go Breakers
 
+![cheer-danshi-go-breakers](https://cdn.myanimelist.net/images/manga/2/179931.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

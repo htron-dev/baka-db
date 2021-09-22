@@ -1,5 +1,7 @@
 # Wu Dong Qian Kun 2nd Season
 
+![wu-dong-qian-kun-2nd-season](https://cdn.myanimelist.net/images/anime/1288/108277.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 武动乾坤 第二季

@@ -1,5 +1,7 @@
 # Dark Edge
 
+![dark-edge](https://cdn.myanimelist.net/images/manga/3/1439.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **original-name**: 다크엣지

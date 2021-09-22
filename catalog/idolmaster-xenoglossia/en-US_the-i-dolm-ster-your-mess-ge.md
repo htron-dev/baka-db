@@ -1,5 +1,7 @@
 # THE iDOLM@STER -Your Mess@ge-
 
+![the-i-dolm-ster-your-mess-ge](https://cdn.myanimelist.net/images/manga/1/33565.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: アイドルマスター －ユアメッセージ－

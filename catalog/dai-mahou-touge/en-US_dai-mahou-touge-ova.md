@@ -1,5 +1,7 @@
 # Dai Mahou Touge
 
+![dai-mahou-touge](https://cdn.myanimelist.net/images/anime/11/20582.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 大魔法峠

@@ -1,5 +1,7 @@
 # Tibet Inu Monogatari
 
+![tibet-inu-monogatari](https://cdn.myanimelist.net/images/anime/6/29247.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: チベット犬物語

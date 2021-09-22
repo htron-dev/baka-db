@@ -1,5 +1,7 @@
 # Tabidachi Napoleon
 
+![tabidachi-napoleon](https://cdn.myanimelist.net/images/manga/1/25756.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 旅立ちナポレオン

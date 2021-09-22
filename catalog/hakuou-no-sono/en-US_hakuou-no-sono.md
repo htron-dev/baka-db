@@ -1,5 +1,7 @@
 # Hakuou no Sono
 
+![hakuou-no-sono](https://cdn.myanimelist.net/images/manga/2/36000.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

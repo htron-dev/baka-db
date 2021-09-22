@@ -1,5 +1,7 @@
 # KEEP OUT
 
+![keep-out](https://cdn.myanimelist.net/images/manga/1/73825.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

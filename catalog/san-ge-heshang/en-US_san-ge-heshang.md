@@ -1,5 +1,7 @@
 # San Ge Heshang
 
+![san-ge-heshang](https://cdn.myanimelist.net/images/anime/1580/116384.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 三个和尚

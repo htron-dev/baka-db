@@ -1,5 +1,7 @@
 # Kuroneko Kareshi no Asobikata
 
+![kuroneko-kareshi-no-asobikata](https://cdn.myanimelist.net/images/manga/2/189554.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

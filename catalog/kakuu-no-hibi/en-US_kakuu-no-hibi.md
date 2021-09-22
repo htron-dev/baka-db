@@ -1,5 +1,7 @@
 # Kakuu no Hibi
 
+![kakuu-no-hibi](https://cdn.myanimelist.net/images/manga/1/79457.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 架空の日々

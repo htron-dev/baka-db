@@ -1,5 +1,7 @@
 # Scenario-douri ni Taijou shita noni, Imasara-nan no Goyou desu ka?
 
+![scenario-douri-ni-taijou-shita-noni-imasara-nan-no-goyou-desu-ka](https://cdn.myanimelist.net/images/manga/2/245125.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 19

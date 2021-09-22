@@ -1,5 +1,7 @@
 # Hi no Tori: Houou-hen
 
+![hi-no-tori-houou-hen](https://cdn.myanimelist.net/images/anime/10/61253.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 火の鳥　鳳凰編

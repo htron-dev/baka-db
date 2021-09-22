@@ -1,5 +1,7 @@
 # Marie no Kanaderu Ongaku
 
+![marie-no-kanaderu-ongaku](https://cdn.myanimelist.net/images/manga/3/171103.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

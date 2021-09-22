@@ -1,5 +1,7 @@
 # Otoko wa Tsurai yo: Torajirou Wasurenagusa
 
+![otoko-wa-tsurai-yo-torajirou-wasurenagusa](https://cdn.myanimelist.net/images/anime/8/52395.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 男はつらいよ 寅次郎忘れな草

@@ -1,5 +1,7 @@
 # Ahiru Rikusentai
 
+![ahiru-rikusentai](https://cdn.myanimelist.net/images/anime/6/68301.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: あひる陸戰隊

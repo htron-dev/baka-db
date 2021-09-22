@@ -1,5 +1,7 @@
 # Wuya Weisheme shi Hei de
 
+![wuya-weisheme-shi-hei-de](https://cdn.myanimelist.net/images/anime/1027/115653.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 乌鸦为什么是黑的

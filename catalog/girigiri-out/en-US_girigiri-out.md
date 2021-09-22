@@ -1,5 +1,7 @@
 # Girigiri Out
 
+![girigiri-out](https://cdn.myanimelist.net/images/manga/1/209760.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 43

@@ -1,5 +1,7 @@
 # Zephyr
 
+![zephyr](https://cdn.myanimelist.net/images/anime/7/68127.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ZEPHYR [ゼファー]

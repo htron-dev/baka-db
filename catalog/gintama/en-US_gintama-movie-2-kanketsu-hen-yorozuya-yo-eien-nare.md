@@ -1,5 +1,7 @@
 # Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare
 
+![gintama-movie-2-kanketsu-hen-yorozuya-yo-eien-nare](https://cdn.myanimelist.net/images/anime/10/51723.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 銀魂 完結篇 万事屋よ永遠なれ

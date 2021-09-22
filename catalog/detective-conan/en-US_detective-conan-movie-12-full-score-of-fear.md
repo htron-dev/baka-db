@@ -1,5 +1,7 @@
 # Detective Conan Movie 12: Full Score of Fear
 
+![detective-conan-movie-12-full-score-of-fear](https://cdn.myanimelist.net/images/anime/6/22766.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 名探偵コナン 戦慄の楽譜（フルスコア）

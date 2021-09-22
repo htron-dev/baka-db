@@ -1,5 +1,7 @@
 # Oishii Koi Café
 
+![oishii-koi-cafe](https://cdn.myanimelist.net/images/manga/3/61399.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

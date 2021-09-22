@@ -1,5 +1,7 @@
 # Miracle☆Train: Oedo-sen e Youkoso
 
+![miracle☆-train-oedo-sen-e-youkoso](https://cdn.myanimelist.net/images/anime/9/75568.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ミラクル ☆ トレイン〜大江戸線へようこそ〜

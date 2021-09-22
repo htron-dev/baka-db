@@ -1,5 +1,7 @@
 # Maou-sama ni Parfait wo Tsukuttara Yorokobaremashita
 
+![maou-sama-ni-parfait-wo-tsukuttara-yorokobaremashita](https://cdn.myanimelist.net/images/manga/1/239281.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔王様にパフェを作ったら喜ばれました
 -   **start-date**: 2019-12-13

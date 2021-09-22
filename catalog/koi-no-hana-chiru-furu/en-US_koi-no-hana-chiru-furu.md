@@ -1,5 +1,7 @@
 # Koi no Hana Chiru Furu
 
+![koi-no-hana-chiru-furu](https://cdn.myanimelist.net/images/manga/1/11636.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋の花　散る降る

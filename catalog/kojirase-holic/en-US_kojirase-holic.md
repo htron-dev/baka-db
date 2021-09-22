@@ -1,5 +1,7 @@
 # Kojirase Holic
 
+![kojirase-holic](https://cdn.myanimelist.net/images/manga/3/126861.jpg)
+
 -   **type**: manga
 -   **chapters**: 14
 -   **original-name**: こじらせホリック

@@ -1,5 +1,7 @@
 # Shiro Ali
 
+![shiro-ali](https://cdn.myanimelist.net/images/manga/1/170578.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 65

@@ -1,5 +1,7 @@
 # Mobile Suit Gundam 0083: Stardust Memory
 
+![mobile-suit-gundam-0083-stardust-memory](https://cdn.myanimelist.net/images/anime/13/26654.jpg)
+
 -   **type**: ova
 -   **episodes**: 13
 -   **original-name**: 機動戦士ガンダム 0083 STARDUST MEMORY

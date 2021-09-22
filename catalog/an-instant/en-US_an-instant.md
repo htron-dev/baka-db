@@ -1,5 +1,7 @@
 # An Instant
 
+![an-instant](https://cdn.myanimelist.net/images/anime/1703/107114.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: AN INSTANT

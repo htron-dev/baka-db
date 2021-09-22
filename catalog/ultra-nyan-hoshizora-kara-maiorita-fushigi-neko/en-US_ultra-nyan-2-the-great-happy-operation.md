@@ -1,5 +1,7 @@
 # Ultra Nyan 2: The Great Happy Operation
 
+![ultra-nyan-2-the-great-happy-operation](https://cdn.myanimelist.net/images/anime/9/72119.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ウルトラニャン２　ハッピー大作戦

@@ -1,5 +1,7 @@
 # Kanashii Hito wa Doko ni mo Inai
 
+![kanashii-hito-wa-doko-ni-mo-inai](https://cdn.myanimelist.net/images/manga/2/60091.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

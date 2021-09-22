@@ -1,5 +1,7 @@
 # Dakaretai Otoko 1-i ni Odosarete Imasu.
 
+![dakaretai-otoko-1-i-ni-odosarete-imasu](https://cdn.myanimelist.net/images/anime/1402/95620.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 抱かれたい男 1 位に脅されています。

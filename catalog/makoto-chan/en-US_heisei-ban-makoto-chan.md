@@ -1,5 +1,7 @@
 # Heisei-ban Makoto-chan
 
+![heisei-ban-makoto-chan](https://cdn.myanimelist.net/images/manga/3/42011.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 平成版まことちゃん

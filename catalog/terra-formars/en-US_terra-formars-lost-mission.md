@@ -1,5 +1,7 @@
 # Terra Formars: Lost Mission
 
+![terra-formars-lost-mission](https://cdn.myanimelist.net/images/manga/2/136733.jpg)
+
 -   **type**: light-novel
 -   **original-name**: テラフォーマーズ LOST MISSION
 -   **start-date**: 2014-08-20

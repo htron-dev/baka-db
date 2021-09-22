@@ -1,5 +1,7 @@
 # Shounen Chuudoku
 
+![shounen-chuudoku](https://cdn.myanimelist.net/images/manga/2/4294.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

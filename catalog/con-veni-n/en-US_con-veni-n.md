@@ -1,5 +1,7 @@
 # ConVeni-N
 
+![con-veni-n](https://cdn.myanimelist.net/images/manga/2/174482.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

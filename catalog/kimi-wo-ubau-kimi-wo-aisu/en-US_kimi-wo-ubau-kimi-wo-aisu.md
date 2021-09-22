@@ -1,5 +1,7 @@
 # Kimi wo Ubau, Kimi wo Aisu
 
+![kimi-wo-ubau-kimi-wo-aisu](https://cdn.myanimelist.net/images/manga/2/196202.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 君を奪う、君を愛す

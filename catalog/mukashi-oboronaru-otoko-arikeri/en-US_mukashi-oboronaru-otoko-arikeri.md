@@ -1,5 +1,7 @@
 # Mukashi, Oboronaru Otoko Arikeri
 
+![mukashi-oboronaru-otoko-arikeri](https://cdn.myanimelist.net/images/manga/2/36209.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

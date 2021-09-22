@@ -1,5 +1,7 @@
 # NHK ni Youkoso!
 
+![nhk-ni-youkoso](https://cdn.myanimelist.net/images/anime/3/52675.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: N・H・K にようこそ！

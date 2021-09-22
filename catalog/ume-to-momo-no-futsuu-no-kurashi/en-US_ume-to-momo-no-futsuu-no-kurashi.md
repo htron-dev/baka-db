@@ -1,5 +1,7 @@
 # Ume to Momo no Futsuu no Kurashi
 
+![ume-to-momo-no-futsuu-no-kurashi](https://cdn.myanimelist.net/images/manga/2/240686.jpg)
+
 -   **type**: manga
 -   **original-name**: うめともものふつうの暮らし
 -   **start-date**: 2020-03-13

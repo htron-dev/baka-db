@@ -1,5 +1,7 @@
 # Funouhan
 
+![funouhan](https://cdn.myanimelist.net/images/manga/2/130237.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 83

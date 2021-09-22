@@ -1,5 +1,7 @@
 # Konoyo ni Tada Hitori
 
+![konoyo-ni-tada-hitori](https://cdn.myanimelist.net/images/manga/2/149554.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

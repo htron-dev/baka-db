@@ -1,5 +1,7 @@
 # Nicchi mo Sacchi mo License
 
+![nicchi-mo-sacchi-mo-license](https://cdn.myanimelist.net/images/manga/1/158425.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

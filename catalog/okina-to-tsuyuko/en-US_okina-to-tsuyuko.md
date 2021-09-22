@@ -1,5 +1,7 @@
 # Okina to Tsuyuko
 
+![okina-to-tsuyuko](https://cdn.myanimelist.net/images/manga/2/123797.jpg)
+
 -   **type**: manga
 -   **original-name**: おきなとつゆこ
 -   **start-date**: 2013-03-30

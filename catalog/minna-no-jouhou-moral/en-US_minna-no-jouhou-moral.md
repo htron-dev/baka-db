@@ -1,5 +1,7 @@
 # Minna no Jouhou Moral
 
+![minna-no-jouhou-moral](https://cdn.myanimelist.net/images/anime/10/87608.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: みんなの情報モラル

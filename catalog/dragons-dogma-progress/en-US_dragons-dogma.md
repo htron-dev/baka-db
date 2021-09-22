@@ -1,5 +1,7 @@
 # Dragon's Dogma
 
+![dragons-dogma](https://cdn.myanimelist.net/images/anime/1519/109068.jpg)
+
 -   **type**: ona
 -   **episodes**: 7
 -   **original-name**: ドラゴンズドグマ
@@ -22,4 +24,4 @@ Based on a world-famous action RPG set in an open world, Dragon's Dogma from Cap
 
 -   [My Anime list](https://myanimelist.net/anime/39519/Dragons_Dogma)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14746)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Dragon%27s_Dogma_(TV_series)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Dragon%27s_Dogma_%28TV_series%29)

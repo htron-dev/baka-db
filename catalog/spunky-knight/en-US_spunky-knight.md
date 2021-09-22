@@ -1,5 +1,7 @@
 # Spunky Knight
 
+![spunky-knight](https://cdn.myanimelist.net/images/manga/3/4030.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

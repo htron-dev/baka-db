@@ -1,5 +1,7 @@
 # Tensei Shimashite, Genzai wa Jijo de Gozaimasu.
 
+![tensei-shimashite-genzai-wa-jijo-de-gozaimasu](https://cdn.myanimelist.net/images/manga/1/236141.jpg)
+
 -   **type**: manga
 -   **original-name**: 転生しまして、現在は侍女でございます。
 -   **start-date**: 2019-03-29

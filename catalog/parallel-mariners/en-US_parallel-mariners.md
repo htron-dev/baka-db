@@ -1,5 +1,7 @@
 # Parallel Mariners
 
+![parallel-mariners](https://cdn.myanimelist.net/images/manga/2/126159.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: パラレルまりなーず

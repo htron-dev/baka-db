@@ -1,5 +1,7 @@
 # Kono Yo no Hate de Koi wo Utau Shoujo YU-NO
 
+![kono-yo-no-hate-de-koi-wo-utau-shoujo-yu-no](https://cdn.myanimelist.net/images/anime/1009/100450.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: この世の果てで恋を唄う少女 YU-NO

@@ -1,5 +1,7 @@
 # Usagi-kun no Shitsukekata.
 
+![usagi-kun-no-shitsukekata](https://cdn.myanimelist.net/images/manga/2/164580.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: うさぎくんのしつけ方。

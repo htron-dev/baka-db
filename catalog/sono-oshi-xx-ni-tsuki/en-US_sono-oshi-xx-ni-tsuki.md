@@ -1,5 +1,7 @@
 # Sono Oshi, xx ni Tsuki!
 
+![sono-oshi-xx-ni-tsuki](https://cdn.myanimelist.net/images/manga/3/234632.jpg)
+
 -   **type**: manga
 -   **original-name**: その推し、×× につき!
 -   **start-date**: 2017-08-22

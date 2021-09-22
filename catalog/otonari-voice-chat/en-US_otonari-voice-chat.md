@@ -1,5 +1,7 @@
 # Otonari Voice Chat
 
+![otonari-voice-chat](https://cdn.myanimelist.net/images/manga/3/187211.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

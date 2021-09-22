@@ -1,5 +1,7 @@
 # Usahiyo
 
+![usahiyo](https://cdn.myanimelist.net/images/manga/1/183092.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 31

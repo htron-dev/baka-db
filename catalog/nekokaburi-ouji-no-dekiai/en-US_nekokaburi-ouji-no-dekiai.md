@@ -1,5 +1,7 @@
 # Nekokaburi Ouji no Dekiai
 
+![nekokaburi-ouji-no-dekiai](https://cdn.myanimelist.net/images/manga/1/215183.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 猫かぶり王子の溺愛

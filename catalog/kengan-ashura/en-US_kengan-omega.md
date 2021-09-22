@@ -1,5 +1,7 @@
 # Kengan Omega
 
+![kengan-omega](https://cdn.myanimelist.net/images/manga/1/216684.jpg)
+
 -   **type**: manga
 -   **original-name**: ケンガンオメガ
 -   **start-date**: 2019-01-31

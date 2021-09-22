@@ -1,5 +1,7 @@
 # Eden de Aou
 
+![eden-de-aou](https://cdn.myanimelist.net/images/manga/3/59451.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

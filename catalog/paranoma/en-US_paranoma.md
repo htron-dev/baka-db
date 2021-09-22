@@ -1,5 +1,7 @@
 # Paranoma
 
+![paranoma](https://cdn.myanimelist.net/images/manga/2/225089.jpg)
+
 -   **type**: manga
 -   **original-name**: ぱらのま
 -   **start-date**: 2015-02-28

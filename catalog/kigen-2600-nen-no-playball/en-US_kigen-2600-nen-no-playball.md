@@ -1,5 +1,7 @@
 # Kigen 2600 Nen no Playball
 
+![kigen-2600-nen-no-playball](https://cdn.myanimelist.net/images/manga/4/32984.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 29

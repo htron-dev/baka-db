@@ -1,5 +1,7 @@
 # Shigoto suru yori Kimi to Netai.
 
+![shigoto-suru-yori-kimi-to-netai](https://cdn.myanimelist.net/images/manga/2/240050.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

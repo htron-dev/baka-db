@@ -1,5 +1,7 @@
 # Pokemon: Pichu to Pikachu
 
+![pokemon-pichu-to-pikachu](https://cdn.myanimelist.net/images/anime/1149/103525.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ピチューとピカチュウ

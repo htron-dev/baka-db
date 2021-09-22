@@ -1,5 +1,7 @@
 # Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai Picture Drama
 
+![seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-wo-minai-picture-drama](https://cdn.myanimelist.net/images/anime/1315/99597.jpg)
+
 -   **type**: special
 -   **episodes**: 5
 -   **original-name**: 青春ブタ野郎はバニーガール先輩の夢を見ない

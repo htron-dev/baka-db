@@ -1,5 +1,7 @@
 # Momoiro Sisters
 
+![momoiro-sisters](https://cdn.myanimelist.net/images/manga/3/27677.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: ももいろシスターズ

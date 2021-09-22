@@ -1,5 +1,7 @@
 # Made in Abyss Movie 2: Hourou Suru Tasogare
 
+![made-in-abyss-movie-2-hourou-suru-tasogare](https://cdn.myanimelist.net/images/anime/1336/95168.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版総集編【後編】メイドインアビス 放浪する黄昏

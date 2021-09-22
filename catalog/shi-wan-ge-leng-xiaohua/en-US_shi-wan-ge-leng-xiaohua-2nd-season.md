@@ -1,5 +1,7 @@
 # Shi Wan Ge Leng Xiaohua 2nd Season
 
+![shi-wan-ge-leng-xiaohua-2nd-season](https://cdn.myanimelist.net/images/anime/2/79765.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 十萬個冷笑話 第二季

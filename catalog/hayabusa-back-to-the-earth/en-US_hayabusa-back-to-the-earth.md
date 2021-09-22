@@ -1,5 +1,7 @@
 # Hayabusa: Back to the Earth
 
+![hayabusa-back-to-the-earth](https://cdn.myanimelist.net/images/anime/1548/111784.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: HAYABUSA - BACK TO THE EARTH -

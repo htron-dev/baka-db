@@ -1,5 +1,7 @@
 # JoJo's Bizarre Adventure: Over Heaven
 
+![jo-jos-bizarre-adventure-over-heaven](https://cdn.myanimelist.net/images/manga/1/59297.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 82

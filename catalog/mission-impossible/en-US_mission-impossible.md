@@ -1,5 +1,7 @@
 # Mission Impossible
 
+![mission-impossible](https://cdn.myanimelist.net/images/manga/2/230048.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 25

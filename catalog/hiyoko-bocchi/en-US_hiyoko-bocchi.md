@@ -1,5 +1,7 @@
 # Hiyoko Bocchi
 
+![hiyoko-bocchi](https://cdn.myanimelist.net/images/manga/2/154826.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ひよこぼっち

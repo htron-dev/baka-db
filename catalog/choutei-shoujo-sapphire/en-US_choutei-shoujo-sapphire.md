@@ -1,5 +1,7 @@
 # Choutei Shoujo Sapphire
 
+![choutei-shoujo-sapphire](https://cdn.myanimelist.net/images/manga/3/162482.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 11

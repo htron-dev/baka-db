@@ -1,5 +1,7 @@
 # Get Up! Get Live! #Geragera
 
+![get-up-get-live-geragera](https://cdn.myanimelist.net/images/anime/1523/108199.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: GETUP! GETLIVE! #げらげら

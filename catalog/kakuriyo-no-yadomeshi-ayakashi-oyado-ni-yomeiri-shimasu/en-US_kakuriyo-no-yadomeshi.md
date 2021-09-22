@@ -1,5 +1,7 @@
 # Kakuriyo no Yadomeshi
 
+![kakuriyo-no-yadomeshi](https://cdn.myanimelist.net/images/anime/1035/95056.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: かくりよの宿飯

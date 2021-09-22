@@ -1,5 +1,7 @@
 # Amentia
 
+![amentia](https://cdn.myanimelist.net/images/manga/2/179124.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 아멘티아
 -   **start-date**: 2015-04-14

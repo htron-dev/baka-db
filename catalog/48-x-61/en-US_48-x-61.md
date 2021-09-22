@@ -1,5 +1,7 @@
 # 48x61
 
+![48-x-61](https://cdn.myanimelist.net/images/anime/5/30453.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 48x61 四拾八 x 六拾壱

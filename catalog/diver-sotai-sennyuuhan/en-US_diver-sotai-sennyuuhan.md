@@ -1,5 +1,7 @@
 # Diver: Sotai Sennyuuhan
 
+![diver-sotai-sennyuuhan](https://cdn.myanimelist.net/images/manga/1/230507.jpg)
+
 -   **type**: manga
 -   **original-name**: DIVER-組対潜入班-
 -   **start-date**: 2014-10-22

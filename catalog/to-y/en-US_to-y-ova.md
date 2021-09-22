@@ -1,5 +1,7 @@
 # TO-Y
 
+![to-y](https://cdn.myanimelist.net/images/anime/8/28007.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: トーイ

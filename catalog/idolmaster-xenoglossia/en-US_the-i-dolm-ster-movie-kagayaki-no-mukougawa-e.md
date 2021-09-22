@@ -1,5 +1,7 @@
 # The iDOLM@STER Movie: Kagayaki no Mukougawa e!
 
+![the-i-dolm-ster-movie-kagayaki-no-mukougawa-e](https://cdn.myanimelist.net/images/anime/2/71801.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: THE IDOLM＠STER MOVIE 輝きの向こう側へ！

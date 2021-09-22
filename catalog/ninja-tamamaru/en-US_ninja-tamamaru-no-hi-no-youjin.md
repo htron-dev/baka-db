@@ -1,5 +1,7 @@
 # Ninja Tamamaru no Hi no Youjin
 
+![ninja-tamamaru-no-hi-no-youjin](https://cdn.myanimelist.net/images/anime/1899/98571.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 忍者玉丸の火の用心

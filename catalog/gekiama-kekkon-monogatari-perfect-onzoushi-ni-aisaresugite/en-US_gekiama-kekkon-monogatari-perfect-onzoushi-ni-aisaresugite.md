@@ -1,5 +1,7 @@
 # Gekiama? Kekkon Monogatari: Perfect Onzoushi ni Aisaresugite!?
 
+![gekiama-kekkon-monogatari-perfect-onzoushi-ni-aisaresugite](https://cdn.myanimelist.net/images/manga/2/183298.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 激甘?結婚物語 パーフェクト御曹司に愛されすぎて!?

@@ -1,5 +1,7 @@
 # 7 Bridge
 
+![7-bridge](https://cdn.myanimelist.net/images/manga/1/171811.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 50

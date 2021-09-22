@@ -1,5 +1,7 @@
 # Lostorage Conflated WIXOSS
 
+![lostorage-conflated-wixoss](https://cdn.myanimelist.net/images/anime/1558/90899.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: Lostorage conflated WIXOSS

@@ -1,5 +1,7 @@
 # Asobou! Hello Kitty
 
+![asobou-hello-kitty](https://cdn.myanimelist.net/images/anime/9/29204.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: あそぼう!! ハローキティ

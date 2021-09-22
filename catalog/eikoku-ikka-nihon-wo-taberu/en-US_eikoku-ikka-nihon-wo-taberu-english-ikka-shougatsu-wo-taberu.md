@@ -1,5 +1,7 @@
 # Eikoku Ikka, Nihon wo Taberu: English Ikka, Shougatsu wo Taberu
 
+![eikoku-ikka-nihon-wo-taberu-english-ikka-shougatsu-wo-taberu](https://cdn.myanimelist.net/images/anime/10/80217.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 英国一家、日本を食べる 『英国一家、正月を食べる』

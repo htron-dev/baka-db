@@ -1,5 +1,7 @@
 # Sekai Saikyou no Doryokuka: Dare mo Shiranai (Doryoku) no Sainou wo Sazukatta node Ore dake ga Dekiru Kikakugai no Doryoku de Saikyou ni Naru
 
+![sekai-saikyou-no-doryokuka-dare-mo-shiranai-doryoku-no-sainou-wo-sazukatta-node-ore-dake-ga-dekiru-kikakugai-no-doryoku-de-saikyou-ni-naru](https://cdn.myanimelist.net/images/manga/1/246024.jpg)
+
 -   **type**: manga
 -   **original-name**: 世界最強の努力家〜誰も知らない【努力】の才能を授かったので俺だけが出来る規格外の努力で最強になる〜
 -   **start-date**: 2020-09-24

@@ -1,5 +1,7 @@
 # Goblin Slayer: Bouken Kiroku Youshi - Adventure Sheet
 
+![goblin-slayer-bouken-kiroku-youshi-adventure-sheet](https://cdn.myanimelist.net/images/anime/1527/97299.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ゴブリンスレイヤー　冒険記録用紙[アドベンチャーシート]

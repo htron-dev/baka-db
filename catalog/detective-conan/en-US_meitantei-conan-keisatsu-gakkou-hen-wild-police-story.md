@@ -1,5 +1,7 @@
 # Meitantei Conan: Keisatsu Gakkou-hen - Wild Police Story
 
+![meitantei-conan-keisatsu-gakkou-hen-wild-police-story](https://cdn.myanimelist.net/images/manga/1/243865.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

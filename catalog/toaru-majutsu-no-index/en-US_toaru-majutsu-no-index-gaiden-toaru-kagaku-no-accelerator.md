@@ -1,5 +1,7 @@
 # Toaru Majutsu no Index Gaiden: Toaru Kagaku no Accelerator
 
+![toaru-majutsu-no-index-gaiden-toaru-kagaku-no-accelerator](https://cdn.myanimelist.net/images/manga/2/212659.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 64

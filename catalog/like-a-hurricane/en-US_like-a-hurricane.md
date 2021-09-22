@@ -1,5 +1,7 @@
 # Like a Hurricane
 
+![like-a-hurricane](https://cdn.myanimelist.net/images/manga/2/167527.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

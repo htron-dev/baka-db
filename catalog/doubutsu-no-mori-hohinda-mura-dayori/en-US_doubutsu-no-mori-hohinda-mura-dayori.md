@@ -1,5 +1,7 @@
 # Doubutsu no Mori: Hohinda Mura Dayori
 
+![doubutsu-no-mori-hohinda-mura-dayori](https://cdn.myanimelist.net/images/manga/2/196063.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: どうぶつの森 ホヒンダ村だより

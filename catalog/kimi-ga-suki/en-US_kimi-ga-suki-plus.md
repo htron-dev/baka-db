@@ -1,5 +1,7 @@
 # Kimi ga Suki Plus
 
+![kimi-ga-suki-plus](https://cdn.myanimelist.net/images/manga/1/156383.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

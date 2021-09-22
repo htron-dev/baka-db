@@ -1,5 +1,7 @@
 # Poguri
 
+![poguri](https://cdn.myanimelist.net/images/manga/3/63343.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ポグリ

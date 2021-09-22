@@ -1,5 +1,7 @@
 # Gunmania
 
+![gunmania](https://cdn.myanimelist.net/images/manga/2/20934.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: ガンマニア

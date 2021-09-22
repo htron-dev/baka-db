@@ -1,5 +1,7 @@
 # Elio and Yvette
 
+![elio-and-yvette](https://cdn.myanimelist.net/images/manga/3/14615.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 

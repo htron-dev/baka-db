@@ -1,5 +1,7 @@
 # Kandagawa Jet Girls OVA
 
+![kandagawa-jet-girls-ova](https://cdn.myanimelist.net/images/anime/1643/105654.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 神田川 JET GIRLS

@@ -1,5 +1,7 @@
 # Shadows House
 
+![shadows-house](https://cdn.myanimelist.net/images/anime/1424/113342.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: シャドーハウス

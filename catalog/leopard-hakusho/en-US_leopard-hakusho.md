@@ -1,5 +1,7 @@
 # Leopard Hakusho
 
+![leopard-hakusho](https://cdn.myanimelist.net/images/manga/3/27532.jpg)
+
 -   **type**: manga
 -   **original-name**: レオパード白書
 

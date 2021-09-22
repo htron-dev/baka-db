@@ -1,5 +1,7 @@
 # Mitsugoku Marriage: Do S Akuma to Virgin Hanayome
 
+![mitsugoku-marriage-do-s-akuma-to-virgin-hanayome](https://cdn.myanimelist.net/images/manga/1/128207.jpg)
+
 -   **type**: manga
 -   **original-name**: 蜜獄マリッジ~ド S 悪魔とバージン花嫁~
 -   **start-date**: 2013-12-27

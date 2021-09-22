@@ -1,5 +1,7 @@
 # Souzai Saishuka no Isekai Ryokouki
 
+![souzai-saishuka-no-isekai-ryokouki](https://cdn.myanimelist.net/images/manga/3/204901.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 素材採取家の異世界旅行記
 -   **start-date**: 2017-01-24

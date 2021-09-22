@@ -1,5 +1,7 @@
 # Sekai no Aikotoba wa Mizu: Andou Ikori Sakuhinshuu
 
+![sekai-no-aikotoba-wa-mizu-andou-ikori-sakuhinshuu](https://cdn.myanimelist.net/images/manga/3/221595.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

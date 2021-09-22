@@ -1,5 +1,7 @@
 # Mirai Nikki (TV): Ura Mirai Nikki
 
+![mirai-nikki-tv-ura-mirai-nikki](https://cdn.myanimelist.net/images/anime/2/38423.jpg)
+
 -   **type**: special
 -   **episodes**: 10
 -   **original-name**: 未来日記 裏未来日記

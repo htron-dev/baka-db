@@ -1,5 +1,7 @@
 # Tsuchi Zokusei wa Date ja Nai!
 
+![tsuchi-zokusei-wa-date-ja-nai](https://cdn.myanimelist.net/images/manga/2/154452.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **original-name**: 土属性はダテじゃない！

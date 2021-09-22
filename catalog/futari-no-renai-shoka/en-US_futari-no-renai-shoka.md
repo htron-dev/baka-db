@@ -1,5 +1,7 @@
 # Futari no Renai Shoka
 
+![futari-no-renai-shoka](https://cdn.myanimelist.net/images/manga/3/99799.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

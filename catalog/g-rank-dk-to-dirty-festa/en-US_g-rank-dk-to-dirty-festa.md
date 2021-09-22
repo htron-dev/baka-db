@@ -1,5 +1,7 @@
 # G-Rank DK to Dirty Festa
 
+![g-rank-dk-to-dirty-festa](https://cdn.myanimelist.net/images/manga/2/171727.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

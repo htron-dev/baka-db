@@ -1,5 +1,7 @@
 # King's Maker
 
+![kings-maker](https://cdn.myanimelist.net/images/manga/2/222761.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 38

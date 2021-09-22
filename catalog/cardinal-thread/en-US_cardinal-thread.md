@@ -1,5 +1,7 @@
 # Cardinal Thread
 
+![cardinal-thread](https://cdn.myanimelist.net/images/manga/3/33222.jpg)
+
 -   **type**: manga
 -   **original-name**: カーディナル・スレッド
 -   **start-date**: 2009-11-13

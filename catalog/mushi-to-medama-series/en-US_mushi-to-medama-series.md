@@ -1,5 +1,7 @@
 # Mushi to Medama Series
 
+![mushi-to-medama-series](https://cdn.myanimelist.net/images/manga/2/159947.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 42

@@ -1,5 +1,7 @@
 # Seikimatsu☆Darling
 
+![seikimatsu☆-darling](https://cdn.myanimelist.net/images/manga/2/151976.jpg)
+
 -   **type**: manga
 -   **original-name**: 世紀末 ☆ ダーリン
 

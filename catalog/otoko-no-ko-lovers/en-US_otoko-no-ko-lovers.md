@@ -1,5 +1,7 @@
 # Otoko no Ko Lovers!!
 
+![otoko-no-ko-lovers](https://cdn.myanimelist.net/images/manga/1/149722.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

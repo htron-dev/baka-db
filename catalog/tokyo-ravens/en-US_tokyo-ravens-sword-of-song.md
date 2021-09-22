@@ -1,5 +1,7 @@
 # Tokyo Ravens: Sword of Song
 
+![tokyo-ravens-sword-of-song](https://cdn.myanimelist.net/images/manga/1/162303.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 23

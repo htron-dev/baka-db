@@ -1,5 +1,7 @@
 # Sengoku Armors
 
+![sengoku-armors](https://cdn.myanimelist.net/images/manga/4/144979.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

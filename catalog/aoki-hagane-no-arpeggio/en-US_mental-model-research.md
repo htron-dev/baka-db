@@ -1,5 +1,7 @@
 # Mental Model Research
 
+![mental-model-research](https://cdn.myanimelist.net/images/manga/3/226711.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

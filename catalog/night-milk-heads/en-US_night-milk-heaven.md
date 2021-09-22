@@ -1,5 +1,7 @@
 # Night Milk Heaven
 
+![night-milk-heaven](https://cdn.myanimelist.net/images/manga/2/221888.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

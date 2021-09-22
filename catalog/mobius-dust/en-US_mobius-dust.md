@@ -1,5 +1,7 @@
 # Möbius Dust
 
+![mobius-dust](https://cdn.myanimelist.net/images/anime/1787/99629.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: メビウス・ダスト
 -   **rating**: None

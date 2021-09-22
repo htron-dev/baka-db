@@ -1,5 +1,7 @@
 # Corpse Party: Another Child
 
+![corpse-party-another-child](https://cdn.myanimelist.net/images/manga/1/166260.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

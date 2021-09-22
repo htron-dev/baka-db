@@ -1,5 +1,7 @@
 # Nemureru Mori no Binan
 
+![nemureru-mori-no-binan](https://cdn.myanimelist.net/images/manga/4/73047.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

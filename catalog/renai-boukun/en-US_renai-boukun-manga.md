@@ -1,5 +1,7 @@
 # Renai Boukun
 
+![renai-boukun](https://cdn.myanimelist.net/images/manga/3/187769.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 61

@@ -1,5 +1,7 @@
 # Tsumasaki Kara Aisarete
 
+![tsumasaki-kara-aisarete](https://cdn.myanimelist.net/images/manga/3/183396.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

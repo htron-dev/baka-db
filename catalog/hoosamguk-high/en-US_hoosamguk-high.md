@@ -1,5 +1,7 @@
 # Hoosamguk High
 
+![hoosamguk-high](https://cdn.myanimelist.net/images/manga/2/24711.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 

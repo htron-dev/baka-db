@@ -1,5 +1,7 @@
 # Happy☆Lesson (TV)
 
+![happy☆-lesson-tv](https://cdn.myanimelist.net/images/anime/3/75576.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: HAPPY☆LESSON

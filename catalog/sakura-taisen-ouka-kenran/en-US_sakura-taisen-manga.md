@@ -1,5 +1,7 @@
 # Sakura Taisen
 
+![sakura-taisen](https://cdn.myanimelist.net/images/manga/2/176.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 29

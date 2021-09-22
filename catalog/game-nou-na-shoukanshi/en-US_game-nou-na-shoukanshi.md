@@ -1,5 +1,7 @@
 # Game Nou na Shoukanshi
 
+![game-nou-na-shoukanshi](https://cdn.myanimelist.net/images/manga/3/186993.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ゲーム脳な召喚師
 -   **start-date**: 2017-01-15

@@ -1,5 +1,7 @@
 # Sekitou
 
+![sekitou](https://cdn.myanimelist.net/images/manga/2/163939.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

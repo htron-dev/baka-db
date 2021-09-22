@@ -1,5 +1,7 @@
 # Rapunzel to Gonin no Ouji: Koisuru Grimm Douwa
 
+![rapunzel-to-gonin-no-ouji-koisuru-grimm-douwa](https://cdn.myanimelist.net/images/manga/2/61113.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

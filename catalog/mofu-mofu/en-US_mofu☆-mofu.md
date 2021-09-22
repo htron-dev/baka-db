@@ -1,5 +1,7 @@
 # Mofu☆Mofu
 
+![mofu☆-mofu](https://cdn.myanimelist.net/images/anime/10/10479.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: モフ ☆ モフ

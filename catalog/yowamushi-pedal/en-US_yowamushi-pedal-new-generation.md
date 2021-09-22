@@ -1,5 +1,7 @@
 # Yowamushi Pedal: New Generation
 
+![yowamushi-pedal-new-generation](https://cdn.myanimelist.net/images/anime/4/83782.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 弱虫ペダル NEW GENERATION

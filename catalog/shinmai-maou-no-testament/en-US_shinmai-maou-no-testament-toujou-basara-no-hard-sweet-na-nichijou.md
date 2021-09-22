@@ -1,5 +1,7 @@
 # Shinmai Maou no Testament: Toujou Basara no Hard Sweet na Nichijou
 
+![shinmai-maou-no-testament-toujou-basara-no-hard-sweet-na-nichijou](https://cdn.myanimelist.net/images/anime/12/69911.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 新妹魔王の契約者〈テスタメント〉 第 13 話「東城刃更のハードスウィートな日常」

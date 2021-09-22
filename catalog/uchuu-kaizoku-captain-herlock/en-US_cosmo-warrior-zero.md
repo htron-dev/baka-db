@@ -1,5 +1,7 @@
 # Cosmo Warrior Zero
 
+![cosmo-warrior-zero](https://cdn.myanimelist.net/images/anime/1254/106173.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: コスモウォーリアー零

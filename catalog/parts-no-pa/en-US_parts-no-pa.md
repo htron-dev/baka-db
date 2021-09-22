@@ -1,5 +1,7 @@
 # Parts no Pa
 
+![parts-no-pa](https://cdn.myanimelist.net/images/manga/3/167386.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 414

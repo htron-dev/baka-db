@@ -1,5 +1,7 @@
 # Doraemon Movie 31: Shin Nobita to Tetsujin Heidan - Habatake Tenshi-tachi
 
+![doraemon-movie-31-shin-nobita-to-tetsujin-heidan-habatake-tenshi-tachi](https://cdn.myanimelist.net/images/anime/7/72436.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ドラえもん 新・のび太と鉄人兵団～はばたけ 天使たち～
@@ -11,7 +13,6 @@
 
 -   adventure
 -   comedy
-
 -   fantasy
 -   mecha
 -   shounen

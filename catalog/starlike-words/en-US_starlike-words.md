@@ -1,5 +1,7 @@
 # Starlike Words
 
+![starlike-words](https://cdn.myanimelist.net/images/manga/1/86487.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Nijuu Rasen
 
+![nijuu-rasen](https://cdn.myanimelist.net/images/manga/3/235253.jpg)
+
 -   **type**: manga
 -   **original-name**: 二重螺旋
 -   **start-date**: 2016-12-22

@@ -1,5 +1,7 @@
 # Anison Nippon
 
+![anison-nippon](https://cdn.myanimelist.net/images/anime/5/77500.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: アニソン日本

@@ -1,5 +1,7 @@
 # Migawari Accidents
 
+![migawari-accidents](https://cdn.myanimelist.net/images/manga/3/136309.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

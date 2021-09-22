@@ -1,5 +1,7 @@
 # Sakura no Hana no Koucha Ouji
 
+![sakura-no-hana-no-koucha-ouji](https://cdn.myanimelist.net/images/manga/2/169813.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 55

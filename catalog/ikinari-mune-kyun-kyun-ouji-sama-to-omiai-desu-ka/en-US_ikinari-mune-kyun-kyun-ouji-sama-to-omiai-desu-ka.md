@@ -1,5 +1,7 @@
 # Ikinari Mune Kyun Kyun: Ouji-sama to Omiai desu ka!?
 
+![ikinari-mune-kyun-kyun-ouji-sama-to-omiai-desu-ka](https://cdn.myanimelist.net/images/manga/1/193851.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

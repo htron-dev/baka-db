@@ -1,5 +1,7 @@
 # Metal Fighter Miku
 
+![metal-fighter-miku](https://cdn.myanimelist.net/images/anime/1160/97198.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: メタルファイター・MIKU

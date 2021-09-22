@@ -1,5 +1,7 @@
 # Happy Happy Clover
 
+![happy-happy-clover](https://cdn.myanimelist.net/images/manga/2/175862.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 60

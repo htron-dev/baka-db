@@ -1,5 +1,7 @@
 # River Current
 
+![river-current](https://cdn.myanimelist.net/images/manga/1/25146.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

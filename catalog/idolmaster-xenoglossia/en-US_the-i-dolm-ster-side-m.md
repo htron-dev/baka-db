@@ -1,5 +1,7 @@
 # The iDOLM@STER SideM
 
+![the-i-dolm-ster-side-m](https://cdn.myanimelist.net/images/anime/3/88467.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: アイドルマスター SideM

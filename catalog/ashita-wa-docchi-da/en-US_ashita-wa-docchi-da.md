@@ -1,5 +1,7 @@
 # Ashita wa Docchi da!
 
+![ashita-wa-docchi-da](https://cdn.myanimelist.net/images/manga/2/186033.jpg)
+
 -   **type**: manga
 -   **original-name**: 明日はどっちだ！
 -   **start-date**: 2015-03-31

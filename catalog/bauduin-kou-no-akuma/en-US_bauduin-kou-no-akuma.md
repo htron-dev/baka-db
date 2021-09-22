@@ -1,5 +1,7 @@
 # Bauduin Kou no Akuma
 
+![bauduin-kou-no-akuma](https://cdn.myanimelist.net/images/manga/2/222976.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ボードウィン校の悪魔

@@ -1,5 +1,7 @@
 # Usotsuki na Kimi no Toriko
 
+![usotsuki-na-kimi-no-toriko](https://cdn.myanimelist.net/images/manga/3/201074.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

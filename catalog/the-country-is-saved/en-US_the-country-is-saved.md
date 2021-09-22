@@ -1,5 +1,7 @@
 # The Country Is Saved!
 
+![the-country-is-saved](https://cdn.myanimelist.net/images/manga/2/164530.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **original-name**: 나라를 구했다!

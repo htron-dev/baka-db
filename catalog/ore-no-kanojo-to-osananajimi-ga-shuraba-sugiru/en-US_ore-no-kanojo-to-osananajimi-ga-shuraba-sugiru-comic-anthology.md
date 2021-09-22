@@ -1,5 +1,7 @@
 # Ore no Kanojo to Osananajimi ga Shuraba sugiru Comic Anthology
 
+![ore-no-kanojo-to-osananajimi-ga-shuraba-sugiru-comic-anthology](https://cdn.myanimelist.net/images/manga/2/149105.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

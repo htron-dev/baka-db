@@ -1,5 +1,7 @@
 # Momo Mimi♥Pheromone
 
+![momo-mimi♥-pheromone](https://cdn.myanimelist.net/images/manga/1/91523.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: もも耳 ♥ フェロモン

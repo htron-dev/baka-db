@@ -1,5 +1,7 @@
 # Sensuikan
 
+![sensuikan](https://cdn.myanimelist.net/images/manga/2/175931.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 24

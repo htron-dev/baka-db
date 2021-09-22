@@ -1,5 +1,7 @@
 # Mushikaburi-hime
 
+![mushikaburi-hime](https://cdn.myanimelist.net/images/manga/1/221543.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 虫かぶり姫
 -   **start-date**: 2016-07-01

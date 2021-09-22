@@ -1,5 +1,7 @@
 # Love Zero
 
+![love-zero](https://cdn.myanimelist.net/images/manga/2/24388.jpg)
+
 -   **type**: manga
 -   **start-date**: 2008-12-20
 

@@ -1,5 +1,7 @@
 # Rune Princess: Boshi ni Negai wo......
 
+![rune-princess-boshi-ni-negai-wo](https://cdn.myanimelist.net/images/manga/2/129385.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ルーンプリンセス 星に願いを……

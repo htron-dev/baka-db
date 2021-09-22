@@ -1,5 +1,7 @@
 # Naki no Ryuu: Hiryuu no Shou (1991)
 
+![naki-no-ryuu-hiryuu-no-shou-1991](https://cdn.myanimelist.net/images/anime/11/88606.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 哭きの竜 飛竜之章

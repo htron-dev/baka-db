@@ -1,5 +1,7 @@
 # Tenken Ouki: Dual Lord, Reversion
 
+![tenken-ouki-dual-lord-reversion](https://cdn.myanimelist.net/images/manga/3/164562.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 天剣王器　 Dual Lord, Reversion

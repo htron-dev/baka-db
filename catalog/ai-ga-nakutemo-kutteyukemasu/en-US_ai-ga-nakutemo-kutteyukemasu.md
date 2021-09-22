@@ -1,5 +1,7 @@
 # Ai ga Nakutemo Kutteyukemasu.
 
+![ai-ga-nakutemo-kutteyukemasu](https://cdn.myanimelist.net/images/manga/1/20929.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

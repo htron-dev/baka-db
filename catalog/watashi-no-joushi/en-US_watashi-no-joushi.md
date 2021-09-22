@@ -1,5 +1,7 @@
 # Watashi no Joushi
 
+![watashi-no-joushi](https://cdn.myanimelist.net/images/manga/3/165623.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 34

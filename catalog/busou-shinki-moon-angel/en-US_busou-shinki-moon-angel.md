@@ -1,5 +1,7 @@
 # Busou Shinki Moon Angel
 
+![busou-shinki-moon-angel](https://cdn.myanimelist.net/images/anime/7/37953.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 武装神姫 Moon Angel

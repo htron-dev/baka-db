@@ -1,5 +1,7 @@
 # Ikai Hanjouki: Hiyokoya✡Shoten
 
+![ikai-hanjouki-hiyokoya-✡-shoten](https://cdn.myanimelist.net/images/manga/2/180636.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 43

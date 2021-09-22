@@ -1,5 +1,7 @@
 # Jounetsu no Kesshou to Ainaki Konrei
 
+![jounetsu-no-kesshou-to-ainaki-konrei](https://cdn.myanimelist.net/images/manga/3/230189.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 情熱の結晶と愛なき婚礼

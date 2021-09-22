@@ -1,5 +1,7 @@
 # Kitakubu Katsudou Kiroku: Miniature Theater
 
+![kitakubu-katsudou-kiroku-miniature-theater](https://cdn.myanimelist.net/images/anime/5/60367.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: 帰宅部活動記録 ちび劇場

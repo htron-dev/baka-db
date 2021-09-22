@@ -1,5 +1,7 @@
 # Wanwan Meiji Ishin
 
+![wanwan-meiji-ishin](https://cdn.myanimelist.net/images/manga/1/64059.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: わんわん明治維新

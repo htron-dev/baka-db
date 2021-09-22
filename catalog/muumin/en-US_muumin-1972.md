@@ -1,5 +1,7 @@
 # Muumin (1972)
 
+![muumin-1972](https://cdn.myanimelist.net/images/anime/5/47155.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: ムーミン
@@ -25,4 +27,4 @@ A remake of the 1969-70 Moomin series. This version is more closely based on the
 -   [My Anime list](https://myanimelist.net/anime/8235/Muumin_1972)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1008)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=455)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Moomin_(1972_TV_series)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Moomin_%281972_TV_series%29)

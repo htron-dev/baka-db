@@ -1,5 +1,7 @@
 # Ohayou! Spank
 
+![ohayou-spank](https://cdn.myanimelist.net/images/manga/1/11390.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: おはよう! スパンク

@@ -1,5 +1,7 @@
 # 3LDK, Ouji-tsuki
 
+![3-ldk-ouji-tsuki](https://cdn.myanimelist.net/images/manga/2/238030.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

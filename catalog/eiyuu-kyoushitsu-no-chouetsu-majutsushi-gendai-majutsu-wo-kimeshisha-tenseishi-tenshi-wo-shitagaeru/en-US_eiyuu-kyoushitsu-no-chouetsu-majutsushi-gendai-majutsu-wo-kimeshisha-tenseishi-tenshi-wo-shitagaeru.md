@@ -1,5 +1,7 @@
 # Eiyuu Kyoushitsu no Chouetsu Majutsushi: Gendai Majutsu wo Kimeshisha, Tenseishi Tenshi wo Shitagaeru
 
+![eiyuu-kyoushitsu-no-chouetsu-majutsushi-gendai-majutsu-wo-kimeshisha-tenseishi-tenshi-wo-shitagaeru](https://cdn.myanimelist.net/images/manga/3/240750.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 英雄教室の超越魔術士 ~現代魔術を極めし者、転生し天使を従える~
 -   **start-date**: 2020-04-25

@@ -1,5 +1,7 @@
 # Barairo no Ashita
 
+![barairo-no-ashita](https://cdn.myanimelist.net/images/manga/3/194338.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 21

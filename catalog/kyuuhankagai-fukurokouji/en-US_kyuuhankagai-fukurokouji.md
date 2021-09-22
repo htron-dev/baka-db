@@ -1,5 +1,7 @@
 # Kyuuhankagai Fukurokouji
 
+![kyuuhankagai-fukurokouji](https://cdn.myanimelist.net/images/manga/1/236537.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

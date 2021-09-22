@@ -1,5 +1,7 @@
 # Kung Fu Panda
 
+![kung-fu-panda](https://cdn.myanimelist.net/images/manga/1/117847.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: カンフー・パンダ

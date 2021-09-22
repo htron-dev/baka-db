@@ -1,5 +1,7 @@
 # Ojisan to Marshmallow
 
+![ojisan-to-marshmallow](https://cdn.myanimelist.net/images/manga/3/158929.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: おじさんとマシュマロ

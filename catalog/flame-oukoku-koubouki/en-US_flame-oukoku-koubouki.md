@@ -1,5 +1,7 @@
 # Flame Oukoku Koubouki
 
+![flame-oukoku-koubouki](https://cdn.myanimelist.net/images/manga/3/176412.jpg)
+
 -   **type**: light-novel
 -   **original-name**: フレイム王国興亡記
 -   **start-date**: 2014-04-25

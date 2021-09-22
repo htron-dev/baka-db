@@ -1,5 +1,7 @@
 # Wakaokami wa Shougakusei!
 
+![wakaokami-wa-shougakusei](https://cdn.myanimelist.net/images/anime/1825/94402.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 若おかみは小学生！

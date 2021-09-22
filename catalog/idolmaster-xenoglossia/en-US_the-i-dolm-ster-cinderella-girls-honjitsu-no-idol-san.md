@@ -1,5 +1,7 @@
 # The iDOLM@STER: Cinderella Girls - Honjitsu no Idol-san
 
+![the-i-dolm-ster-cinderella-girls-honjitsu-no-idol-san](https://cdn.myanimelist.net/images/manga/1/107455.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: アイドルマスターシンデレラガールズ 本日のアイドルさん

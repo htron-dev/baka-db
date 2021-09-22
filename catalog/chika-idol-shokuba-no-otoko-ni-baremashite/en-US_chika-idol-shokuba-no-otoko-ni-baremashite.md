@@ -1,5 +1,7 @@
 # Chika Idol, Shokuba no Otoko ni Baremashite
 
+![chika-idol-shokuba-no-otoko-ni-baremashite](https://cdn.myanimelist.net/images/manga/1/234675.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

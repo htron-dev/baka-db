@@ -1,5 +1,7 @@
 # Kimi ga Kirai na Koi no Hanashi
 
+![kimi-ga-kirai-na-koi-no-hanashi](https://cdn.myanimelist.net/images/manga/1/204411.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # TaoTao Ehonkan Sekai Doubutsu Banashi
 
+![tao-tao-ehonkan-sekai-doubutsu-banashi](https://cdn.myanimelist.net/images/anime/9/3365.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: タオタオ絵本館

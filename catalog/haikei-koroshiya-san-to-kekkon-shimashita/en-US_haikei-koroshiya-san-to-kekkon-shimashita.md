@@ -1,5 +1,7 @@
 # Haikei... Koroshiya-san to Kekkon Shimashita
 
+![haikei-koroshiya-san-to-kekkon-shimashita](https://cdn.myanimelist.net/images/manga/1/231061.jpg)
+
 -   **type**: manga
 -   **original-name**: 拝啓…殺し屋さんと結婚しました
 -   **start-date**: 2019-09-27

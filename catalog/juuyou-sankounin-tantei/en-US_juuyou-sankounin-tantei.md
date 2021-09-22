@@ -1,5 +1,7 @@
 # Juuyou Sankounin Tantei
 
+![juuyou-sankounin-tantei](https://cdn.myanimelist.net/images/manga/3/199611.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 41

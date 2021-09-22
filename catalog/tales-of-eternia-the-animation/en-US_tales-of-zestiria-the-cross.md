@@ -1,5 +1,7 @@
 # Tales of Zestiria the Cross
 
+![tales-of-zestiria-the-cross](https://cdn.myanimelist.net/images/anime/3/79271.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: テイルズ オブ ゼスティリア ザ クロス

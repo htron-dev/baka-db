@@ -1,5 +1,7 @@
 # Pop in Q Reverse
 
+![pop-in-q-reverse](https://cdn.myanimelist.net/images/manga/3/191906.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

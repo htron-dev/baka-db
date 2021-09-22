@@ -1,5 +1,7 @@
 # Hanaji Tenchou ja, Dame desu ka?
 
+![hanaji-tenchou-ja-dame-desu-ka](https://cdn.myanimelist.net/images/manga/3/163921.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 29

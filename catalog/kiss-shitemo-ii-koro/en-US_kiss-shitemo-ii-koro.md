@@ -1,5 +1,7 @@
 # Kiss shitemo Ii Koro
 
+![kiss-shitemo-ii-koro](https://cdn.myanimelist.net/images/manga/1/164449.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

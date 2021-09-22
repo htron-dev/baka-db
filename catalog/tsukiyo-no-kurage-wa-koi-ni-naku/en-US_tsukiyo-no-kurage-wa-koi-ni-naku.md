@@ -1,5 +1,7 @@
 # Tsukiyo no Kurage wa Koi ni Naku
 
+![tsukiyo-no-kurage-wa-koi-ni-naku](https://cdn.myanimelist.net/images/manga/1/225010.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

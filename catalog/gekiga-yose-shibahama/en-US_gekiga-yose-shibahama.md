@@ -1,5 +1,7 @@
 # Gekiga Yose: Shibahama
 
+![gekiga-yose-shibahama](https://cdn.myanimelist.net/images/manga/2/172553.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

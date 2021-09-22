@@ -1,5 +1,7 @@
 # Koro-sensei Quest!
 
+![koro-sensei-quest](https://cdn.myanimelist.net/images/anime/10/83452.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 殺せんせー Q[クエスト]!

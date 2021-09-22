@@ -1,5 +1,7 @@
 # Manga Greece Shinwa
 
+![manga-greece-shinwa](https://cdn.myanimelist.net/images/manga/2/131599.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: マンガ ギリシア神話

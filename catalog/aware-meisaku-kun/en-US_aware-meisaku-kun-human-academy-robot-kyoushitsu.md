@@ -1,5 +1,7 @@
 # Aware! Meisaku-kun: Human Academy Robot Kyoushitsu
 
+![aware-meisaku-kun-human-academy-robot-kyoushitsu](https://cdn.myanimelist.net/images/anime/1263/90360.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: あはれ！名作くん 「ヒューマンアカデミー ロボット教室」

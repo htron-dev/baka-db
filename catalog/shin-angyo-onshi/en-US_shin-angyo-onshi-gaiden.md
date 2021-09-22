@@ -1,5 +1,7 @@
 # Shin Angyo Onshi Gaiden
 
+![shin-angyo-onshi-gaiden](https://cdn.myanimelist.net/images/manga/1/161806.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

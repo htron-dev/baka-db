@@ -1,5 +1,7 @@
 # Kitchen no Ohimesama: Tenshi no Cake wo Sagase!
 
+![kitchen-no-ohimesama-tenshi-no-cake-wo-sagase](https://cdn.myanimelist.net/images/manga/2/96907.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

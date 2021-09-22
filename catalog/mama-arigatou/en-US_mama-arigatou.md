@@ -1,5 +1,7 @@
 # Mama, Arigatou
 
+![mama-arigatou](https://cdn.myanimelist.net/images/manga/3/158935.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

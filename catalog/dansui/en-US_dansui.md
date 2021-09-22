@@ -1,5 +1,7 @@
 # Dansui!
 
+![dansui](https://cdn.myanimelist.net/images/manga/2/102799.jpg)
+
 -   **type**: manga
 -   **original-name**: 男水!
 -   **start-date**: 2012-07-27

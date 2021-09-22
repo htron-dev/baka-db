@@ -1,5 +1,7 @@
 # Bitansan Renai
 
+![bitansan-renai](https://cdn.myanimelist.net/images/manga/3/24975.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

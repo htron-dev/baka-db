@@ -1,5 +1,7 @@
 # Tanpo
 
+![tanpo](https://cdn.myanimelist.net/images/manga/2/163841.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 29

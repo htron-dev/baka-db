@@ -1,5 +1,7 @@
 # Kimi no Tame ni Sekai wa Aru
 
+![kimi-no-tame-ni-sekai-wa-aru](https://cdn.myanimelist.net/images/manga/1/236201.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

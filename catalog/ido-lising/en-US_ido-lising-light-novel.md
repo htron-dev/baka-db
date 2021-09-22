@@ -1,5 +1,7 @@
 # Ido-Lising!
 
+![ido-lising](https://cdn.myanimelist.net/images/manga/2/131571.jpg)
+
 -   **type**: light-novel
 -   **original-name**: アイドライジング!
 -   **start-date**: 2011-02-10

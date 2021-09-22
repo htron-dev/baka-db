@@ -1,5 +1,7 @@
 # Go! Princess Precure Movie: Go! Go!! Gouka 3-bondate!!!
 
+![go-princess-precure-movie-go-go-gouka-3-bondate](https://cdn.myanimelist.net/images/anime/13/74804.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 Go! プリンセスプリキュア Go! Go!! 豪華 3 本立て!!!

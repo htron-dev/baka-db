@@ -1,5 +1,7 @@
 # Colored
 
+![colored](https://cdn.myanimelist.net/images/manga/2/12218.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

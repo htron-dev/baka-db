@@ -1,5 +1,7 @@
 # Rurouni Kenshin: Meiji Kenkaku Romantan
 
+![rurouni-kenshin-meiji-kenkaku-romantan](https://cdn.myanimelist.net/images/anime/1768/114209.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 94
 -   **original-name**: るろうに剣心 -明治剣客浪漫譚-

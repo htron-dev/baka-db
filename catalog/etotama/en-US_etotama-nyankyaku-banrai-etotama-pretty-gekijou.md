@@ -1,5 +1,7 @@
 # Etotama: Nyankyaku Banrai - Etotama Pretty Gekijou
 
+![etotama-nyankyaku-banrai-etotama-pretty-gekijou](https://cdn.myanimelist.net/images/anime/1331/116756.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: えとたま～猫客万来～ ショートアニメ「えとたま プリティ劇場」

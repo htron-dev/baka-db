@@ -1,5 +1,7 @@
 # Urisen Boy to Koisuru Onzoushi
 
+![urisen-boy-to-koisuru-onzoushi](https://cdn.myanimelist.net/images/manga/2/236688.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

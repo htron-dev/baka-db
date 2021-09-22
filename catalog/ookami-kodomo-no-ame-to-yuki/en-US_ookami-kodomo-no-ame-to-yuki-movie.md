@@ -1,5 +1,7 @@
 # Ookami Kodomo no Ame to Yuki
 
+![ookami-kodomo-no-ame-to-yuki](https://cdn.myanimelist.net/images/anime/9/35721.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: おおかみこどもの雨と雪

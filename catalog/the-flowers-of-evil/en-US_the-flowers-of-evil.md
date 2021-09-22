@@ -1,5 +1,7 @@
 # The Flowers of Evil
 
+![the-flowers-of-evil](https://cdn.myanimelist.net/images/manga/3/7387.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **chapters**: 26

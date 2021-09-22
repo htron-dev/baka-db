@@ -1,5 +1,7 @@
 # Idol Time PriPara
 
+![idol-time-pri-para](https://cdn.myanimelist.net/images/anime/3/86056.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: アイドルタイムプリパラ

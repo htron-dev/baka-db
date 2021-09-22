@@ -1,5 +1,7 @@
 # We are
 
+![we-are](https://cdn.myanimelist.net/images/manga/3/177663.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

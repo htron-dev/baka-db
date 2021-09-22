@@ -1,5 +1,7 @@
 # Sennen Gahou
 
+![sennen-gahou](https://cdn.myanimelist.net/images/manga/1/167181.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: センネン画報

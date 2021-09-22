@@ -1,5 +1,7 @@
 # Koibito wo Tsukuru 100 no Houhou
 
+![koibito-wo-tsukuru-100-no-houhou](https://cdn.myanimelist.net/images/manga/1/30893.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋人をつくる 100 の方法

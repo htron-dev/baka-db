@@ -1,5 +1,7 @@
 # Geragera Boes Monogatari
 
+![geragera-boes-monogatari](https://cdn.myanimelist.net/images/anime/1099/110002.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: げらげらブース物語
@@ -22,4 +24,4 @@ Farm life has never been this wacky. Where else could you find a turtle with a b
 -   [My Anime list](https://myanimelist.net/anime/2815/Geragera_Boes_Monogatari)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2737)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3536)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Ox_Tales_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Ox_Tales_%28anime%29)

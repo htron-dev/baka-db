@@ -1,5 +1,7 @@
 # Gikei: Meiji Tsuya Mandara
 
+![gikei-meiji-tsuya-mandara](https://cdn.myanimelist.net/images/manga/3/181723.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 義兄　明治艶曼荼羅

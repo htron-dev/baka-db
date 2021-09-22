@@ -1,5 +1,7 @@
 # Mizu ni Sumu Hana
 
+![mizu-ni-sumu-hana](https://cdn.myanimelist.net/images/manga/1/34282.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 24

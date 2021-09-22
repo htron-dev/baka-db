@@ -1,5 +1,7 @@
 # Shinomiya-kun ni wa Wake ga Aru
 
+![shinomiya-kun-ni-wa-wake-ga-aru](https://cdn.myanimelist.net/images/manga/2/222330.jpg)
+
 -   **type**: manga
 -   **original-name**: 四ノ宮くんには理由〈ワケ〉がある
 -   **start-date**: 2017-08-24

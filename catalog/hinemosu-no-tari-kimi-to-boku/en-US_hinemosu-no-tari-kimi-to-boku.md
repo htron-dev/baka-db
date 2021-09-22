@@ -1,5 +1,7 @@
 # Hinemosu no Tari Kimi to Boku
 
+![hinemosu-no-tari-kimi-to-boku](https://cdn.myanimelist.net/images/manga/1/247956.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

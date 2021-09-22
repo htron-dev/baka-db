@@ -1,5 +1,7 @@
 # Nishitesu CMs
 
+![nishitesu-c-ms](https://cdn.myanimelist.net/images/anime/1739/90146.jpg)
+
 -   **type**: special
 -   **original-name**: 西鉄 CMs
 -   **start-date**: 2016-07-19

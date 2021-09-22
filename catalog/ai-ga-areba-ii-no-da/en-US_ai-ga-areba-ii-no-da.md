@@ -1,5 +1,7 @@
 # Ai ga Areba Ii no da
 
+![ai-ga-areba-ii-no-da](https://cdn.myanimelist.net/images/manga/3/33780.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

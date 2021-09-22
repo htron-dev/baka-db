@@ -1,5 +1,7 @@
 # Material Polka
 
+![material-polka](https://cdn.myanimelist.net/images/manga/2/206950.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

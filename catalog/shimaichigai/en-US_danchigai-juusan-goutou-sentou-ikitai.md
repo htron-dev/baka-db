@@ -1,5 +1,7 @@
 # Danchigai: Juusan Goutou Sentou Ikitai!!
 
+![danchigai-juusan-goutou-sentou-ikitai](https://cdn.myanimelist.net/images/anime/2/76368.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: だんちがい 十三号棟 銭湯行きたいー!!

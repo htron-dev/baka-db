@@ -1,5 +1,7 @@
 # Robber's Company
 
+![robbers-company](https://cdn.myanimelist.net/images/anime/6/81689.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: ROBBER'S COMPANY

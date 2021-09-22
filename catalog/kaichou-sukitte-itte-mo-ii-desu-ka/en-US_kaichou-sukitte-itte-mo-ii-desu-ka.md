@@ -1,5 +1,7 @@
 # Kaichou, Sukitte Itte mo Ii desu ka?
 
+![kaichou-sukitte-itte-mo-ii-desu-ka](https://cdn.myanimelist.net/images/manga/1/94815.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

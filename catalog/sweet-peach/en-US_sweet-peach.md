@@ -1,5 +1,7 @@
 # Sweet Peach!
 
+![sweet-peach](https://cdn.myanimelist.net/images/manga/5/36070.jpg)
+
 -   **type**: manga
 -   **original-name**: ～スイートピー!～
 

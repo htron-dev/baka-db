@@ -1,5 +1,7 @@
 # Hentai no Megane
 
+![hentai-no-megane](https://cdn.myanimelist.net/images/manga/2/142725.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

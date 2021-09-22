@@ -1,5 +1,7 @@
 # Naisho no Mangaka Tonari no Yutori-san
 
+![naisho-no-mangaka-tonari-no-yutori-san](https://cdn.myanimelist.net/images/manga/1/67423.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

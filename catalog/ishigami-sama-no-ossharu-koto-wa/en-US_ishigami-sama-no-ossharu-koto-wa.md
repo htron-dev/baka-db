@@ -1,5 +1,7 @@
 # Ishigami-sama no Ossharu Koto wa
 
+![ishigami-sama-no-ossharu-koto-wa](https://cdn.myanimelist.net/images/manga/2/243091.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

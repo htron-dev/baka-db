@@ -1,5 +1,7 @@
 # Hanjuku Kids!?
 
+![hanjuku-kids](https://cdn.myanimelist.net/images/manga/2/166501.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 半熟キッズ!?

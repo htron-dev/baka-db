@@ -1,5 +1,7 @@
 # Iseikai Tensei
 
+![iseikai-tensei](https://cdn.myanimelist.net/images/manga/2/246306.jpg)
+
 -   **type**: manga
 -   **original-name**: 異星界転星
 -   **start-date**: 2020-08-17

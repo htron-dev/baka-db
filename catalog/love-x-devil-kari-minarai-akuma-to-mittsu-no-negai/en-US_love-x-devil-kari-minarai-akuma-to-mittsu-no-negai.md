@@ -1,5 +1,7 @@
 # Love x Devil (Kari): Minarai Akuma to Mittsu no Negai
 
+![love-x-devil-kari-minarai-akuma-to-mittsu-no-negai](https://cdn.myanimelist.net/images/manga/1/196405.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

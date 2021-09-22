@@ -1,5 +1,7 @@
 # Meitantei Conan: Seikimatsu no Majutsushi
 
+![meitantei-conan-seikimatsu-no-majutsushi](https://cdn.myanimelist.net/images/manga/3/240058.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

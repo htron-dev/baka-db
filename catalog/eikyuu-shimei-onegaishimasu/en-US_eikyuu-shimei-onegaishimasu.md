@@ -1,5 +1,7 @@
 # Eikyuu Shimei Onegaishimasu!
 
+![eikyuu-shimei-onegaishimasu](https://cdn.myanimelist.net/images/manga/3/154251.jpg)
+
 -   **type**: manga
 -   **original-name**: 永久指名おねがいします!
 

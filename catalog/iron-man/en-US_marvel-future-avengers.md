@@ -1,5 +1,7 @@
 # Marvel Future Avengers
 
+![marvel-future-avengers](https://cdn.myanimelist.net/images/anime/1742/100477.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: マーベル フューチャー・アベンジャーズ

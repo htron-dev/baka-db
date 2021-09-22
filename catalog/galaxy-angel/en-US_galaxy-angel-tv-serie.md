@@ -1,5 +1,7 @@
 # Galaxy Angel
 
+![galaxy-angel](https://cdn.myanimelist.net/images/anime/4/6075.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ギャラクシーエンジェル

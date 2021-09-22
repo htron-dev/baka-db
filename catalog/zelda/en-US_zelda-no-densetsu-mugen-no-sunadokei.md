@@ -1,5 +1,7 @@
 # Zelda no Densetsu: Mugen no Sunadokei
 
+![zelda-no-densetsu-mugen-no-sunadokei](https://cdn.myanimelist.net/images/manga/3/126103.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

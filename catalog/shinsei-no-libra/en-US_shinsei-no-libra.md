@@ -1,5 +1,7 @@
 # Shinsei no Libra
 
+![shinsei-no-libra](https://cdn.myanimelist.net/images/manga/1/216148.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 29

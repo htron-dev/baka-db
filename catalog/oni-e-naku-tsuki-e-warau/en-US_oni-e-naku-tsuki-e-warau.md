@@ -1,5 +1,7 @@
 # Oni e Naku Tsuki e Warau
 
+![oni-e-naku-tsuki-e-warau](https://cdn.myanimelist.net/images/manga/2/235070.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

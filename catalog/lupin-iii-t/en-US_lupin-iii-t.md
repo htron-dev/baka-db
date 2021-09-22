@@ -1,5 +1,7 @@
 # Lupin III T
 
+![lupin-iii-t](https://cdn.myanimelist.net/images/manga/2/222840.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

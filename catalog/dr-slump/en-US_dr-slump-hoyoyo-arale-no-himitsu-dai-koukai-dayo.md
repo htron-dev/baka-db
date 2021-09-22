@@ -1,5 +1,7 @@
 # Dr. Slump: Hoyoyo! Arale no Himitsu Dai Koukai dayo!!
 
+![dr-slump-hoyoyo-arale-no-himitsu-dai-koukai-dayo](https://cdn.myanimelist.net/images/anime/13/72853.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ドクタースランプ ほよよ！アラレの秘密大公開だよ！！

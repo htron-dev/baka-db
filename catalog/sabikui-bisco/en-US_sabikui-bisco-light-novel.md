@@ -1,5 +1,7 @@
 # Sabikui Bisco
 
+![sabikui-bisco](https://cdn.myanimelist.net/images/manga/2/221470.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 錆喰いビスコ
 -   **start-date**: 2018-03-10

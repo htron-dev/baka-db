@@ -1,5 +1,7 @@
 # Ousama no Shippo
 
+![ousama-no-shippo](https://cdn.myanimelist.net/images/anime/2/18059.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 王様のしっぽ

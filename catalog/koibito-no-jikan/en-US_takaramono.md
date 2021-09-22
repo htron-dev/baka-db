@@ -1,5 +1,7 @@
 # Takaramono
 
+![takaramono](https://cdn.myanimelist.net/images/manga/3/2216.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 13

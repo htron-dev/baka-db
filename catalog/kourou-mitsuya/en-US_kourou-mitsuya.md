@@ -1,5 +1,7 @@
 # Kourou Mitsuya
 
+![kourou-mitsuya](https://cdn.myanimelist.net/images/manga/3/194796.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

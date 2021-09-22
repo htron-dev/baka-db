@@ -1,5 +1,7 @@
 # Dase! Ikevo Gakuen
 
+![dase-ikevo-gakuen](https://cdn.myanimelist.net/images/anime/1658/107930.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: 出せ！イケボ学園

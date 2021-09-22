@@ -1,5 +1,7 @@
 # Peeping Life: The Perfect Emotion
 
+![peeping-life-the-perfect-emotion](https://cdn.myanimelist.net/images/anime/13/44185.jpg)
+
 -   **type**: ova
 -   **episodes**: 10
 -   **original-name**: Peeping Life（ピーピング・ライフ）-The Perfect Emotion-

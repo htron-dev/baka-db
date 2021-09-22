@@ -1,5 +1,7 @@
 # Captain Ken
 
+![captain-ken](https://cdn.myanimelist.net/images/manga/5/175749.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: キャプテン Ken

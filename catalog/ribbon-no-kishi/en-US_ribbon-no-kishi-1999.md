@@ -1,5 +1,7 @@
 # Ribbon no Kishi (1999)
 
+![ribbon-no-kishi-1999](https://cdn.myanimelist.net/images/anime/4/74720.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: リボンの騎士 (1999)

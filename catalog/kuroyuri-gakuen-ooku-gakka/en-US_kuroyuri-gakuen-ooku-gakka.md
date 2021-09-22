@@ -1,5 +1,7 @@
 # Kuroyuri Gakuen Ooku Gakka
 
+![kuroyuri-gakuen-ooku-gakka](https://cdn.myanimelist.net/images/manga/1/205692.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

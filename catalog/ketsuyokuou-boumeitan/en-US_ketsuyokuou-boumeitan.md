@@ -1,5 +1,7 @@
 # Ketsuyokuou Boumeitan
 
+![ketsuyokuou-boumeitan](https://cdn.myanimelist.net/images/manga/3/179308.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 血翼王亡命譚

@@ -1,5 +1,7 @@
 # Pretty Rhythm
 
+![pretty-rhythm](https://cdn.myanimelist.net/images/manga/1/61877.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 24

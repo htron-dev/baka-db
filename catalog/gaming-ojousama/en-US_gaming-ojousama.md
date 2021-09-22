@@ -1,5 +1,7 @@
 # Gaming Ojousama
 
+![gaming-ojousama](https://cdn.myanimelist.net/images/manga/1/241771.jpg)
+
 -   **type**: manga
 -   **original-name**: ゲーミングお嬢様
 -   **start-date**: 2020-07-21

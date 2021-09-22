@@ -1,5 +1,7 @@
 # Kensaku to Enjin no Happy Birthday
 
+![kensaku-to-enjin-no-happy-birthday](https://cdn.myanimelist.net/images/anime/1613/97013.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: けんさくとえんじんの Happy Birthday

@@ -1,5 +1,7 @@
 # Strange+
 
+![strange](https://cdn.myanimelist.net/images/anime/6/57481.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ストレンジ・プラス

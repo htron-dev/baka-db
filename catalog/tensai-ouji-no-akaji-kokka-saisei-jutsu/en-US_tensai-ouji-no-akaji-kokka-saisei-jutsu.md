@@ -1,5 +1,7 @@
 # Tensai Ouji no Akaji Kokka Saisei Jutsu
 
+![tensai-ouji-no-akaji-kokka-saisei-jutsu](https://cdn.myanimelist.net/images/anime/1951/117703.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 天才王子の赤字国家再生術
 -   **rating**: None

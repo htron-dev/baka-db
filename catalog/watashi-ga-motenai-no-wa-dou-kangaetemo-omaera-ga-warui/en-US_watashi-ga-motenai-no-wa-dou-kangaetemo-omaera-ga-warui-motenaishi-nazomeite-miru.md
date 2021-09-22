@@ -1,5 +1,7 @@
 # Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!: Motenaishi, Nazomeite Miru
 
+![watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui-motenaishi-nazomeite-miru](https://cdn.myanimelist.net/images/anime/7/60743.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 私がモテないのはどう考えてもお前らが悪い! 未放送第 13 話

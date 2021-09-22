@@ -1,5 +1,7 @@
 # Lala no Kekkon
 
+![lala-no-kekkon](https://cdn.myanimelist.net/images/manga/3/223915.jpg)
+
 -   **type**: manga
 -   **original-name**: ララの結婚
 -   **start-date**: 2017-02-10

@@ -1,5 +1,7 @@
 # Ganbare! Lulu Lolo
 
+![ganbare-lulu-lolo](https://cdn.myanimelist.net/images/anime/4/54905.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: がんばれ！ルルロロ

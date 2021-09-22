@@ -1,5 +1,7 @@
 # Land of Silver Rain
 
+![land-of-silver-rain](https://cdn.myanimelist.net/images/manga/2/6587.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **chapters**: 29

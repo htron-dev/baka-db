@@ -1,5 +1,7 @@
 # Sekaino Owariga Furu Yoruni
 
+![sekaino-owariga-furu-yoruni](https://cdn.myanimelist.net/images/manga/2/2322.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Samishii Yoru no Himitsu
 
+![samishii-yoru-no-himitsu](https://cdn.myanimelist.net/images/manga/3/12473.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

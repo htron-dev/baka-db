@@ -1,5 +1,7 @@
 # Isekai Izakaya "Nobu": Shinobu to Taishou Koto Gohan
 
+![isekai-izakaya-nobu-shinobu-to-taishou-koto-gohan](https://cdn.myanimelist.net/images/manga/1/176168.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界居酒屋｢のぶ｣ しのぶと大将の古都ごはん
 -   **start-date**: 2015-10-23

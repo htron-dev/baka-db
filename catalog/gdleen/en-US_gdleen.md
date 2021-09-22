@@ -1,5 +1,7 @@
 # Gdleen
 
+![gdleen](https://cdn.myanimelist.net/images/anime/1175/97146.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ガデュリン

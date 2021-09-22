@@ -1,5 +1,7 @@
 # Hazama ni Aru Sorane
 
+![hazama-ni-aru-sorane](https://cdn.myanimelist.net/images/manga/3/7736.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

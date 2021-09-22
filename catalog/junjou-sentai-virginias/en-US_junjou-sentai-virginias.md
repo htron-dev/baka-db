@@ -1,5 +1,7 @@
 # Junjou Sentai Virginias
 
+![junjou-sentai-virginias](https://cdn.myanimelist.net/images/manga/2/235526.jpg)
+
 -   **type**: manga
 -   **original-name**: 純情戦隊ヴァージニアス
 -   **start-date**: 2019-04-25

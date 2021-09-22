@@ -1,5 +1,7 @@
 # Bishounen, Itadakimashita
 
+![bishounen-itadakimashita](https://cdn.myanimelist.net/images/manga/3/247636.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 28

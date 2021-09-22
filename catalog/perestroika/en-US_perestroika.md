@@ -1,5 +1,7 @@
 # Perestroika
 
+![perestroika](https://cdn.myanimelist.net/images/anime/13/84964.jpg)
+
 -   **type**: ova
 -   **episodes**: 12
 -   **original-name**: ペレストロイカ

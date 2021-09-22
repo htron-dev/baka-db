@@ -1,5 +1,7 @@
 # Himiko!
 
+![himiko](https://cdn.myanimelist.net/images/manga/3/148773.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 秘巫女ッ!

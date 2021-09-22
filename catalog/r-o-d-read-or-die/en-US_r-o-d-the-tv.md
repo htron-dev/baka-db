@@ -1,5 +1,7 @@
 # R.O.D: The TV
 
+![r-o-d-the-tv](https://cdn.myanimelist.net/images/anime/3/73350.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: アール・オー・ディー ザ・ティーヴィー

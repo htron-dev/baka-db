@@ -1,5 +1,7 @@
 # Catch! Ai
 
+![catch-ai](https://cdn.myanimelist.net/images/manga/1/7502.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: キャッチ!愛

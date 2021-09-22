@@ -1,5 +1,7 @@
 # Hoozuki no Reitetsu OVA
 
+![hoozuki-no-reitetsu-ova](https://cdn.myanimelist.net/images/anime/8/68677.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 鬼灯の冷徹 OAD

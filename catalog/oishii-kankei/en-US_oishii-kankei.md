@@ -1,5 +1,7 @@
 # Oishii Kankei
 
+![oishii-kankei](https://cdn.myanimelist.net/images/manga/3/163728.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 71

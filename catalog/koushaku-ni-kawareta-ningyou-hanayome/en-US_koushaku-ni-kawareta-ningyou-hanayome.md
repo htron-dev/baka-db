@@ -1,5 +1,7 @@
 # Koushaku ni Kawareta Ningyou Hanayome
 
+![koushaku-ni-kawareta-ningyou-hanayome](https://cdn.myanimelist.net/images/manga/3/167523.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

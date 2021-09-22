@@ -1,5 +1,7 @@
 # Migawari Hakushaku no Kekkon Koushinkyoku
 
+![migawari-hakushaku-no-kekkon-koushinkyoku](https://cdn.myanimelist.net/images/manga/1/153663.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 身代わり伯爵の結婚行進曲
 -   **start-date**: 2013-06-29

@@ -1,5 +1,7 @@
 # 3D Kanojo: Real Girl 2nd Season
 
+![3-d-kanojo-real-girl-2nd-season](https://cdn.myanimelist.net/images/anime/1237/113435.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 3D 彼女 リアルガール第 2 シーズン

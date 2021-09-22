@@ -1,5 +1,7 @@
 # Sayonara, Itoshi no My Friend
 
+![sayonara-itoshi-no-my-friend](https://cdn.myanimelist.net/images/manga/3/84489.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

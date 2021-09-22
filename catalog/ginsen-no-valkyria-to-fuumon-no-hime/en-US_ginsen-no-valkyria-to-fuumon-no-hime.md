@@ -1,5 +1,7 @@
 # Ginsen no Valkyria to Fuumon no Hime
 
+![ginsen-no-valkyria-to-fuumon-no-hime](https://cdn.myanimelist.net/images/manga/2/124523.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **original-name**: 銀閃の戦乙女と封門の姫

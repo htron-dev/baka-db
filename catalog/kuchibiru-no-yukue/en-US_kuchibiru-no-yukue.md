@@ -1,5 +1,7 @@
 # Kuchibiru no Yukue
 
+![kuchibiru-no-yukue](https://cdn.myanimelist.net/images/manga/3/31443.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

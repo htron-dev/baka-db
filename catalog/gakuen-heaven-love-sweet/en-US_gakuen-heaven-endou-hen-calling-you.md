@@ -1,5 +1,7 @@
 # Gakuen Heaven: Endou-hen - Calling You
 
+![gakuen-heaven-endou-hen-calling-you](https://cdn.myanimelist.net/images/manga/2/4916.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

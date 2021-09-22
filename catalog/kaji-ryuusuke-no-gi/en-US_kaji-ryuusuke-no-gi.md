@@ -1,5 +1,7 @@
 # Kaji Ryuusuke no Gi
 
+![kaji-ryuusuke-no-gi](https://cdn.myanimelist.net/images/manga/2/18532.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **chapters**: 175

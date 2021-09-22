@@ -1,5 +1,7 @@
 # Boku no Kawaii Hito
 
+![boku-no-kawaii-hito](https://cdn.myanimelist.net/images/manga/2/14892.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

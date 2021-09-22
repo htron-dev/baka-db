@@ -1,5 +1,7 @@
 # Ulysses: Jehanne Darc to Renkin no Kishi
 
+![ulysses-jehanne-darc-to-renkin-no-kishi](https://cdn.myanimelist.net/images/anime/1143/96156.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ユリシーズ ジャンヌ・ダルクと錬金の騎士

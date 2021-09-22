@@ -1,5 +1,7 @@
 # Kumo no Graduale
 
+![kumo-no-graduale](https://cdn.myanimelist.net/images/manga/1/9721.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

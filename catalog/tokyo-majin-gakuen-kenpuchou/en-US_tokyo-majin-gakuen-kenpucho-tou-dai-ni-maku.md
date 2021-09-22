@@ -1,5 +1,7 @@
 # Tokyo Majin Gakuen Kenpucho: Tou Dai Ni Maku
 
+![tokyo-majin-gakuen-kenpucho-tou-dai-ni-maku](https://cdn.myanimelist.net/images/anime/13/21754.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 東京魔人學園剣風帖　龖（トウ） 第弐幕

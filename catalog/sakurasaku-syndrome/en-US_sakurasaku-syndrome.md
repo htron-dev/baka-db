@@ -1,5 +1,7 @@
 # Sakurasaku Syndrome
 
+![sakurasaku-syndrome](https://cdn.myanimelist.net/images/manga/3/98955.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

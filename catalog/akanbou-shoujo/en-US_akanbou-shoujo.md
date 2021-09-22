@@ -1,5 +1,7 @@
 # Akanbou Shoujo
 
+![akanbou-shoujo](https://cdn.myanimelist.net/images/manga/3/76157.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 赤んぼう少女

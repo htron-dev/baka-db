@@ -1,5 +1,7 @@
 # Martian War School
 
+![martian-war-school](https://cdn.myanimelist.net/images/manga/1/200070.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: マーシアン・ウォースクール

@@ -1,5 +1,7 @@
 # ID-0
 
+![id-0](https://cdn.myanimelist.net/images/anime/12/84421.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ID-0

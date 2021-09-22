@@ -1,5 +1,7 @@
 # Gargoyle Alternative
 
+![gargoyle-alternative](https://cdn.myanimelist.net/images/manga/3/103051.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **original-name**: ガーゴイルおるたなてぃぶ

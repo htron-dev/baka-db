@@ -1,5 +1,7 @@
 # Mimi wo Sumaseba: Shiawase na Jikan
 
+![mimi-wo-sumaseba-shiawase-na-jikan](https://cdn.myanimelist.net/images/manga/5/133335.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

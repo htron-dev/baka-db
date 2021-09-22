@@ -1,5 +1,7 @@
 # Kindaichi Shounen no Jikenbo: Kuromajutsu Satsujin Jiken-hen
 
+![kindaichi-shounen-no-jikenbo-kuromajutsu-satsujin-jiken-hen](https://cdn.myanimelist.net/images/anime/3/45070.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 金田一少年の事件簿 黒魔術殺人事件編

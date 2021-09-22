@@ -1,5 +1,7 @@
 # Heya ni Macho no Rei ga Imasu
 
+![heya-ni-macho-no-rei-ga-imasu](https://cdn.myanimelist.net/images/manga/1/225747.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Watashi no Tonari ni Cute na Kimi
 
+![watashi-no-tonari-ni-cute-na-kimi](https://cdn.myanimelist.net/images/manga/2/32599.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

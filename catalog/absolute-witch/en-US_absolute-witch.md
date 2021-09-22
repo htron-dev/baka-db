@@ -1,5 +1,7 @@
 # Absolute Witch
 
+![absolute-witch](https://cdn.myanimelist.net/images/manga/2/36889.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 12
 -   **chapters**: 83

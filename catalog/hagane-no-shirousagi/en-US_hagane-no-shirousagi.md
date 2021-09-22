@@ -1,5 +1,7 @@
 # Hagane no Shirousagi
 
+![hagane-no-shirousagi](https://cdn.myanimelist.net/images/manga/1/162038.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 80

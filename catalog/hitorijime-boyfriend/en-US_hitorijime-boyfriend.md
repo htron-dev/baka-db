@@ -1,5 +1,7 @@
 # Hitorijime Boyfriend
 
+![hitorijime-boyfriend](https://cdn.myanimelist.net/images/manga/3/77419.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

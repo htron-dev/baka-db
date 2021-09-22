@@ -1,5 +1,7 @@
 # Matsue Kankou Taishi Sanri ga Iku! Matsue Ghost Tour
 
+![matsue-kankou-taishi-sanri-ga-iku-matsue-ghost-tour](https://cdn.myanimelist.net/images/anime/12/84747.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 松江観光大使 3 人が行く！松江ゴーストツアー

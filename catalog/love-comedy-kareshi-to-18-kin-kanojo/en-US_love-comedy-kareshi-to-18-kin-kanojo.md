@@ -1,5 +1,7 @@
 # Love Comedy Kareshi to 18-kin Kanojo
 
+![love-comedy-kareshi-to-18-kin-kanojo](https://cdn.myanimelist.net/images/manga/2/165112.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

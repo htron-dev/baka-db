@@ -1,5 +1,7 @@
 # Mashounen B.T.
 
+![mashounen-b-t](https://cdn.myanimelist.net/images/manga/2/131177.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

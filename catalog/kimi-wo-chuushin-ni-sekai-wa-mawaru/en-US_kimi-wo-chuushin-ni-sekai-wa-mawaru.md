@@ -1,5 +1,7 @@
 # Kimi wo Chuushin ni Sekai wa Mawaru
 
+![kimi-wo-chuushin-ni-sekai-wa-mawaru](https://cdn.myanimelist.net/images/manga/2/161130.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

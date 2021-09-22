@@ -1,5 +1,7 @@
 # Mitsu no Yoru
 
+![mitsu-no-yoru](https://cdn.myanimelist.net/images/manga/1/25490.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

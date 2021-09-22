@@ -1,5 +1,7 @@
 # Future Card Buddyfight
 
+![future-card-buddyfight](https://cdn.myanimelist.net/images/manga/2/180973.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 55

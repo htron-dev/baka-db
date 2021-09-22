@@ -1,5 +1,7 @@
 # Taiman Blues: Shimizu Naoto-hen
 
+![taiman-blues-shimizu-naoto-hen](https://cdn.myanimelist.net/images/anime/5/62911.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: たいまんぶるうす 清水直人編

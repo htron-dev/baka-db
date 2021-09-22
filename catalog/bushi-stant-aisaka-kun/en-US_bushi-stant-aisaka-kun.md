@@ -1,5 +1,7 @@
 # Bushi-stant Aisaka-kun!
 
+![bushi-stant-aisaka-kun](https://cdn.myanimelist.net/images/manga/2/248291.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 53

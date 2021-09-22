@@ -1,5 +1,7 @@
 # Haru to Ao no Obentoubako
 
+![haru-to-ao-no-obentoubako](https://cdn.myanimelist.net/images/manga/3/215079.jpg)
+
 -   **type**: manga
 -   **original-name**: ハルとアオのお弁当箱
 -   **start-date**: 2018-03-24

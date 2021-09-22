@@ -1,5 +1,7 @@
 # Maken-Ki! Two Specials
 
+![maken-ki-two-specials](https://cdn.myanimelist.net/images/anime/7/62209.jpg)
+
 -   **type**: special
 -   **episodes**: 5
 -   **original-name**: マケン姫っ！通 Ｐ～私事

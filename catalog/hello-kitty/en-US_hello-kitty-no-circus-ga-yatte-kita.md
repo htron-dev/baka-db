@@ -1,5 +1,7 @@
 # Hello Kitty no Circus ga Yatte Kita
 
+![hello-kitty-no-circus-ga-yatte-kita](https://cdn.myanimelist.net/images/anime/13/58775.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティのサーカスがやってきた

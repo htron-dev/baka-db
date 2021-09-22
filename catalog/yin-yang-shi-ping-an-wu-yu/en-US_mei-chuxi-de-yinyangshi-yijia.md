@@ -1,5 +1,7 @@
 # Mei Chuxi de Yinyangshi Yijia
 
+![mei-chuxi-de-yinyangshi-yijia](https://cdn.myanimelist.net/images/anime/1599/100437.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 没出息的阴阳师一家

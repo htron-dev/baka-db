@@ -1,5 +1,7 @@
 # Kanojo ga Cafe ni Iru
 
+![kanojo-ga-cafe-ni-iru](https://cdn.myanimelist.net/images/manga/1/219475.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 彼女がカフェにいる

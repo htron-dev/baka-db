@@ -1,5 +1,7 @@
 # Rising-san
 
+![rising-san](https://cdn.myanimelist.net/images/manga/3/114917.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

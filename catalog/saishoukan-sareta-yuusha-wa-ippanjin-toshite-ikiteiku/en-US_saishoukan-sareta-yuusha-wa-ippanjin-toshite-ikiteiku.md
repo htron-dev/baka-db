@@ -1,5 +1,7 @@
 # Saishoukan sareta Yuusha wa Ippanjin Toshite Ikiteiku?
 
+![saishoukan-sareta-yuusha-wa-ippanjin-toshite-ikiteiku](https://cdn.myanimelist.net/images/manga/1/183213.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 再召喚された勇者は一般人として生きていく？
 -   **start-date**: 2016-09-10

@@ -1,5 +1,7 @@
 # Koisuru Shakespeare
 
+![koisuru-shakespeare](https://cdn.myanimelist.net/images/manga/2/238307.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 13

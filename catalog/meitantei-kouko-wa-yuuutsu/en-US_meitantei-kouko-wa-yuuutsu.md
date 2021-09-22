@@ -1,5 +1,7 @@
 # Meitantei Kouko wa Yuuutsu
 
+![meitantei-kouko-wa-yuuutsu](https://cdn.myanimelist.net/images/manga/1/246865.jpg)
+
 -   **type**: manga
 -   **original-name**: 名探偵耕子は憂鬱
 -   **start-date**: 2020-01-04

@@ -1,5 +1,7 @@
 # Unicorn Otousan
 
+![unicorn-otousan](https://cdn.myanimelist.net/images/manga/3/229376.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Kaze no Yukue - Shin Kidou Senki Gundam W Parody Kyousakushuu
 
+![kaze-no-yukue-shin-kidou-senki-gundam-w-parody-kyousakushuu](https://cdn.myanimelist.net/images/manga/2/112993.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

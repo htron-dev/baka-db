@@ -1,5 +1,7 @@
 # Shiinamachi-senpai no Anzenbi
 
+![shiinamachi-senpai-no-anzenbi](https://cdn.myanimelist.net/images/manga/2/158711.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 26

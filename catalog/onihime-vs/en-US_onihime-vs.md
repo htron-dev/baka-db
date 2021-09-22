@@ -1,5 +1,7 @@
 # Onihime VS
 
+![onihime-vs](https://cdn.myanimelist.net/images/manga/2/183911.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

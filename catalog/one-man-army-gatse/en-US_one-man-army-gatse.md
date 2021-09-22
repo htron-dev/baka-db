@@ -1,5 +1,7 @@
 # One-man Army Gatse
 
+![one-man-army-gatse](https://cdn.myanimelist.net/images/manga/3/132747.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ワンマン・アーミー ゲイツ

@@ -1,5 +1,7 @@
 # Shin Kaitei Gunkan
 
+![shin-kaitei-gunkan](https://cdn.myanimelist.net/images/anime/1327/92890.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 新海底軍艦

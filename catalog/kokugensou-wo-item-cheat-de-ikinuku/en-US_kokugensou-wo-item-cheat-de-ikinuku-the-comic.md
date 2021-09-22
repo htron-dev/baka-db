@@ -1,5 +1,7 @@
 # Kokugensou wo Item Cheat de Ikinuku the Comic
 
+![kokugensou-wo-item-cheat-de-ikinuku-the-comic](https://cdn.myanimelist.net/images/manga/1/235373.jpg)
+
 -   **type**: manga
 -   **original-name**: 酷幻想をアイテムチートで生き抜く THE COMIC
 -   **start-date**: 2019-09-30

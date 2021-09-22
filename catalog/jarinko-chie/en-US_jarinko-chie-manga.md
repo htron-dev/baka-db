@@ -1,5 +1,7 @@
 # Jarinko Chie
 
+![jarinko-chie](https://cdn.myanimelist.net/images/manga/2/180242.jpg)
+
 -   **type**: manga
 -   **volumes**: 67
 -   **chapters**: 786

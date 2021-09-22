@@ -1,5 +1,7 @@
 # Himitsu no Kaidan
 
+![himitsu-no-kaidan](https://cdn.myanimelist.net/images/manga/2/172205.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

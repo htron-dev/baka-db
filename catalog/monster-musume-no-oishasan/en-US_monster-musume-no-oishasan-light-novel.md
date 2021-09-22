@@ -1,5 +1,7 @@
 # Monster Musume no Oishasan
 
+![monster-musume-no-oishasan](https://cdn.myanimelist.net/images/manga/3/195035.jpg)
+
 -   **type**: light-novel
 -   **original-name**: モンスター娘のお医者さん
 -   **start-date**: 2016-06-24

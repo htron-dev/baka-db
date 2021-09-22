@@ -1,5 +1,7 @@
 # Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?: Onsen Manyuuki
 
+![mondaiji-tachi-ga-isekai-kara-kuru-sou-desu-yo-onsen-manyuuki](https://cdn.myanimelist.net/images/anime/6/52575.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 問題児たちが異世界から来るそうですよ? 〜温泉漫遊記〜

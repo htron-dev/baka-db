@@ -1,5 +1,7 @@
 # Haiyore! Nyaruko-san: Yasashii Teki no Shitome-kata
 
+![haiyore-nyaruko-san-yasashii-teki-no-shitome-kata](https://cdn.myanimelist.net/images/anime/10/50123.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 這いよれ！ニャル子さん　やさしい敵の仕留め方

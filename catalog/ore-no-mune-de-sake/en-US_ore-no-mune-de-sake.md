@@ -1,5 +1,7 @@
 # Ore no Mune de Sake
 
+![ore-no-mune-de-sake](https://cdn.myanimelist.net/images/manga/2/3713.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

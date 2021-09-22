@@ -1,5 +1,7 @@
 # Yuusha to Tantei no Game
 
+![yuusha-to-tantei-no-game](https://cdn.myanimelist.net/images/manga/2/238545.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 20

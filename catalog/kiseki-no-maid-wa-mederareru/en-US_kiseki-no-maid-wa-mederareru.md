@@ -1,5 +1,7 @@
 # Kiseki no Maid wa Mederareru
 
+![kiseki-no-maid-wa-mederareru](https://cdn.myanimelist.net/images/manga/2/219134.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 奇跡のメイドは愛でられる

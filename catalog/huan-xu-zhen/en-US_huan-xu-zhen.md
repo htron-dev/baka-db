@@ -1,5 +1,7 @@
 # Huan Xu Zhen
 
+![huan-xu-zhen](https://cdn.myanimelist.net/images/manga/3/106785.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 幻・虛・真

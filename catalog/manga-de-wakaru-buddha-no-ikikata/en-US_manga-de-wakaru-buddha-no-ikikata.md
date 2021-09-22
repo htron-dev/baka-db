@@ -1,5 +1,7 @@
 # Manga de Wakaru Buddha no Ikikata
 
+![manga-de-wakaru-buddha-no-ikikata](https://cdn.myanimelist.net/images/manga/2/140031.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

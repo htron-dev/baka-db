@@ -1,5 +1,7 @@
 # Yowamushi Pedal: Re:Generation
 
+![yowamushi-pedal-re-generation](https://cdn.myanimelist.net/images/anime/1926/90708.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 弱虫ペダル Re:GENERATION

@@ -1,5 +1,7 @@
 # Nordiska Sonata
 
+![nordiska-sonata](https://cdn.myanimelist.net/images/manga/3/23139.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ノルディスカ奏鳴曲

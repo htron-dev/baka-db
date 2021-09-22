@@ -1,5 +1,7 @@
 # Meimon! Daisan Yakyuubu
 
+![meimon-daisan-yakyuubu](https://cdn.myanimelist.net/images/anime/10/7567.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: 名門！第三野球部

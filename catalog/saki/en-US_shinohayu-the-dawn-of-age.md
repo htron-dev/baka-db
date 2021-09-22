@@ -1,5 +1,7 @@
 # Shinohayu: the Dawn of Age
 
+![shinohayu-the-dawn-of-age](https://cdn.myanimelist.net/images/manga/1/110173.jpg)
+
 -   **type**: manga
 -   **original-name**: シノハユ the dawn of age
 -   **start-date**: 2013-07-25

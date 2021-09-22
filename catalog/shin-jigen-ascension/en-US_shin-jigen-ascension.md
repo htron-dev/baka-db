@@ -1,5 +1,7 @@
 # Shin Jigen Ascension
 
+![shin-jigen-ascension](https://cdn.myanimelist.net/images/manga/3/196066.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

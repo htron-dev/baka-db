@@ -1,5 +1,7 @@
 # Mazinger Z tai Ankoku Daishougun
 
+![mazinger-z-tai-ankoku-daishougun](https://cdn.myanimelist.net/images/anime/1653/99762.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: マジンガーＺ対暗黒大将軍

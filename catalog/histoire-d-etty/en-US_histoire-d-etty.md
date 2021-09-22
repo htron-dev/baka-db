@@ -1,5 +1,7 @@
 # Histoire d'Etty
 
+![histoire-d-etty](https://cdn.myanimelist.net/images/anime/3/59887.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: histoire d`Etty エティーのものがたり

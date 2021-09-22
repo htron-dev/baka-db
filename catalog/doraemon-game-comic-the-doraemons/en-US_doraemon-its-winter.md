@@ -1,5 +1,7 @@
 # Doraemon: It's Winter!
 
+![doraemon-its-winter](https://cdn.myanimelist.net/images/anime/1580/109535.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 冬だ！一番ドラえもん祭り

@@ -1,5 +1,7 @@
 # Tsurune: Kazemai Koukou Kyuudoubu Movie
 
+![tsurune-kazemai-koukou-kyuudoubu-movie](https://cdn.myanimelist.net/images/anime/1652/109899.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ツルネ ―風舞高校弓道部―

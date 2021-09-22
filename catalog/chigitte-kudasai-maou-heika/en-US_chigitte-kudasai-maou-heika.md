@@ -1,5 +1,7 @@
 # Chigitte Kudasai Maou Heika.
 
+![chigitte-kudasai-maou-heika](https://cdn.myanimelist.net/images/manga/2/160011.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 23

@@ -1,5 +1,7 @@
 # Kitsune no Koe
 
+![kitsune-no-koe](https://cdn.myanimelist.net/images/anime/1305/97626.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 狐狸之声

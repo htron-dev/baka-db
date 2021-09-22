@@ -1,5 +1,7 @@
 # Mayonaka Atashi ni Tomaru Chou
 
+![mayonaka-atashi-ni-tomaru-chou](https://cdn.myanimelist.net/images/manga/3/146515.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

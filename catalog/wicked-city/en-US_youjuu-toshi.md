@@ -1,5 +1,7 @@
 # Youjuu Toshi
 
+![youjuu-toshi](https://cdn.myanimelist.net/images/anime/2/50021.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 妖獣都市
@@ -32,4 +34,4 @@ Director Yoshiaki Kawajiri (Ninja Scroll) blends stylish eroticism, graphic horr
 -   [Official Site](http://www.madhouse.co.jp/works/1988-1987/works_movie_youjyu.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=1040)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=959)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Wicked_City_(film)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Wicked_City_%28film%29)

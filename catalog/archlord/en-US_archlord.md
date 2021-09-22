@@ -1,5 +1,7 @@
 # Archlord
 
+![archlord](https://cdn.myanimelist.net/images/manga/2/607.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **chapters**: 46

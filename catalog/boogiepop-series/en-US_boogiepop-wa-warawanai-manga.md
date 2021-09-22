@@ -1,5 +1,7 @@
 # Boogiepop wa Warawanai
 
+![boogiepop-wa-warawanai](https://cdn.myanimelist.net/images/manga/3/215763.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 22

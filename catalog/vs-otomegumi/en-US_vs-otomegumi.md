@@ -1,5 +1,7 @@
 # VS. Otomegumi
 
+![vs-otomegumi](https://cdn.myanimelist.net/images/manga/3/10922.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: VS.乙女組

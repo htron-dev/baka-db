@@ -1,5 +1,7 @@
 # Samurai Sensei
 
+![samurai-sensei](https://cdn.myanimelist.net/images/manga/1/163695.jpg)
+
 -   **type**: manga
 -   **original-name**: サムライせんせい
 -   **start-date**: 2013-11-28

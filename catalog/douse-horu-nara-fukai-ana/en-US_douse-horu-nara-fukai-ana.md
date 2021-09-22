@@ -1,5 +1,7 @@
 # Douse Horu nara Fukai Ana.
 
+![douse-horu-nara-fukai-ana](https://cdn.myanimelist.net/images/manga/2/248042.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

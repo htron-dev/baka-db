@@ -1,5 +1,7 @@
 # Saint October
 
+![saint-october](https://cdn.myanimelist.net/images/anime/6/16246.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: セイントオクトーバー

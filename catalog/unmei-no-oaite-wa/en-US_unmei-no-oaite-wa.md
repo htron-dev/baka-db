@@ -1,5 +1,7 @@
 # Unmei no Oaite wa?
 
+![unmei-no-oaite-wa](https://cdn.myanimelist.net/images/manga/2/195042.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 運命のお相手は？

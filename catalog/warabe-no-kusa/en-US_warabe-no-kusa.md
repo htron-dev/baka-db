@@ -1,5 +1,7 @@
 # Warabe no Kusa
 
+![warabe-no-kusa](https://cdn.myanimelist.net/images/manga/1/36651.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

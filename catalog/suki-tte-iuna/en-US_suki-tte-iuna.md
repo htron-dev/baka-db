@@ -1,5 +1,7 @@
 # Suki tte Iuna!
 
+![suki-tte-iuna](https://cdn.myanimelist.net/images/manga/3/96073.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

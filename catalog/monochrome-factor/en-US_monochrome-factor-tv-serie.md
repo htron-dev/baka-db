@@ -1,5 +1,7 @@
 # Monochrome Factor
 
+![monochrome-factor](https://cdn.myanimelist.net/images/anime/3/22552.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: モノクローム･ファクター

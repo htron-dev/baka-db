@@ -1,5 +1,7 @@
 # Unmei no Aite ga Yayakoshii!
 
+![unmei-no-aite-ga-yayakoshii](https://cdn.myanimelist.net/images/manga/1/236310.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 運命の相手がややこしい!

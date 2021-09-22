@@ -1,5 +1,7 @@
 # Kagetora
 
+![kagetora](https://cdn.myanimelist.net/images/manga/5/199436.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 56

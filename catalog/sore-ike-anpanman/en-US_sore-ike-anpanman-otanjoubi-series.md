@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Otanjoubi Series
 
+![sore-ike-anpanman-otanjoubi-series](https://cdn.myanimelist.net/images/anime/4/66457.jpg)
+
 -   **type**: ova
 -   **episodes**: 12
 -   **original-name**: それいけ! アンパンマン おたんじょうびシリーズ

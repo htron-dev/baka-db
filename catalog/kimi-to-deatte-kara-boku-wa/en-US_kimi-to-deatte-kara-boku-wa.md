@@ -1,5 +1,7 @@
 # Kimi to Deatte kara Boku wa
 
+![kimi-to-deatte-kara-boku-wa](https://cdn.myanimelist.net/images/manga/2/237147.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

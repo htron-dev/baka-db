@@ -1,5 +1,7 @@
 # Niji no Ikusa
 
+![niji-no-ikusa](https://cdn.myanimelist.net/images/manga/3/229112.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

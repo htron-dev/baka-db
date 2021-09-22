@@ -1,5 +1,7 @@
 # Honoo no Dress no Yuuwaku
 
+![honoo-no-dress-no-yuuwaku](https://cdn.myanimelist.net/images/manga/3/247137.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 炎のドレスの誘惑

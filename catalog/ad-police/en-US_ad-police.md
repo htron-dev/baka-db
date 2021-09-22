@@ -1,5 +1,7 @@
 # AD Police
 
+![ad-police](https://cdn.myanimelist.net/images/anime/13/2851.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: AD ポリス

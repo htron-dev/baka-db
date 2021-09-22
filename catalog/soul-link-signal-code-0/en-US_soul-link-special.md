@@ -1,5 +1,7 @@
 # Soul Link Special
 
+![soul-link-special](https://cdn.myanimelist.net/images/anime/8/5231.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Soul Link 第 10.5 話 「特別回想編 -CELLARIA／NANAMI-

@@ -1,5 +1,7 @@
 # Tao Hua Yuan Ji
 
+![tao-hua-yuan-ji](https://cdn.myanimelist.net/images/anime/3/75288.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 桃花源记

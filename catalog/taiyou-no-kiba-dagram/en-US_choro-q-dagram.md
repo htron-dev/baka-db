@@ -1,5 +1,7 @@
 # Choro Q Dagram
 
+![choro-q-dagram](https://cdn.myanimelist.net/images/anime/1/2493.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: チョロＱダグラム

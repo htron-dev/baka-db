@@ -1,5 +1,7 @@
 # Hanyou no Yashahime: Sengoku Otogizoushi
 
+![hanyou-no-yashahime-sengoku-otogizoushi](https://cdn.myanimelist.net/images/anime/1005/114781.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 半妖の夜叉姫 -戦国御伽草子-

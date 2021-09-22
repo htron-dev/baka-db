@@ -1,5 +1,7 @@
 # Pororo's English Show
 
+![pororos-english-show](https://cdn.myanimelist.net/images/anime/6/66627.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 뽀로로 잉글리시쇼

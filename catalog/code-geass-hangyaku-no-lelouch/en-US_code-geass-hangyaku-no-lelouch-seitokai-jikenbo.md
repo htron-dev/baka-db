@@ -1,5 +1,7 @@
 # Code Geass: Hangyaku no Lelouch - Seitokai Jikenbo
 
+![code-geass-hangyaku-no-lelouch-seitokai-jikenbo](https://cdn.myanimelist.net/images/manga/2/197076.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 9

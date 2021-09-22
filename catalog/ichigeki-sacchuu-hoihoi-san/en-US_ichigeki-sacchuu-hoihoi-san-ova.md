@@ -1,5 +1,7 @@
 # Ichigeki Sacchuu!! Hoihoi-san
 
+![ichigeki-sacchuu-hoihoi-san](https://cdn.myanimelist.net/images/anime/13/25256.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 一撃殺虫!!ホイホイさん

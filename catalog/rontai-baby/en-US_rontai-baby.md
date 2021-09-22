@@ -1,5 +1,7 @@
 # Rontai Baby
 
+![rontai-baby](https://cdn.myanimelist.net/images/manga/2/78179.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **original-name**: ロンタイ BABY

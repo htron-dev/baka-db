@@ -1,5 +1,7 @@
 # Hi-Speed Jecy
 
+![hi-speed-jecy](https://cdn.myanimelist.net/images/anime/1143/105903.jpg)
+
 -   **type**: ova
 -   **episodes**: 12
 -   **original-name**: ハイスピード・ジェシー

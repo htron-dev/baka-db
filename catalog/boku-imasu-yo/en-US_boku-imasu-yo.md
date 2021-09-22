@@ -1,5 +1,7 @@
 # Boku, Imasu yo.
 
+![boku-imasu-yo](https://cdn.myanimelist.net/images/manga/1/243860.jpg)
+
 -   **type**: manga
 -   **original-name**: 僕、いますよ。
 -   **start-date**: 2020-08-06

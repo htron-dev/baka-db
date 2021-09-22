@@ -1,5 +1,7 @@
 # Moto Saikyou no Kenshi wa, Isekai Mahou ni Akogareru
 
+![moto-saikyou-no-kenshi-wa-isekai-mahou-ni-akogareru](https://cdn.myanimelist.net/images/manga/3/207427.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 元最強の剣士は、異世界魔法に憧れる
 -   **start-date**: 2017-09-30

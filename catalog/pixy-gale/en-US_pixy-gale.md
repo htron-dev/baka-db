@@ -1,5 +1,7 @@
 # Pixy Gale
 
+![pixy-gale](https://cdn.myanimelist.net/images/manga/2/167210.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

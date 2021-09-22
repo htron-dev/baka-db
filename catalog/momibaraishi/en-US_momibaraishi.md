@@ -1,5 +1,7 @@
 # Momibaraishi
 
+![momibaraishi](https://cdn.myanimelist.net/images/manga/3/188983.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

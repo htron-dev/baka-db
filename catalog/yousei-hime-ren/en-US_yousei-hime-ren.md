@@ -1,5 +1,7 @@
 # Yousei Hime Ren
 
+![yousei-hime-ren](https://cdn.myanimelist.net/images/anime/9/61775.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 妖精姫レーン

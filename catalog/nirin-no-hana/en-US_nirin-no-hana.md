@@ -1,5 +1,7 @@
 # Nirin no Hana
 
+![nirin-no-hana](https://cdn.myanimelist.net/images/manga/2/146189.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

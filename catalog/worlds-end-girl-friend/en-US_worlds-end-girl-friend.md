@@ -1,5 +1,7 @@
 # World's End Girl Friend
 
+![worlds-end-girl-friend](https://cdn.myanimelist.net/images/manga/1/172080.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

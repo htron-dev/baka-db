@@ -1,5 +1,7 @@
 # Akumu
 
+![akumu](https://cdn.myanimelist.net/images/manga/2/76143.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 悪夢

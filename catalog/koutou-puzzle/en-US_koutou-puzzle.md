@@ -1,5 +1,7 @@
 # Koutou Puzzle
 
+![koutou-puzzle](https://cdn.myanimelist.net/images/manga/1/30437.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 孤島パズル

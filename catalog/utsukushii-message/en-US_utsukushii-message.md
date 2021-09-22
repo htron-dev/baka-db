@@ -1,5 +1,7 @@
 # Utsukushii Message
 
+![utsukushii-message](https://cdn.myanimelist.net/images/anime/6/74444.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 美しいメッセージ

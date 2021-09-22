@@ -1,5 +1,7 @@
 # Fate/stay night Movie: Heaven's Feel - III. Spring Song
 
+![fate-stay-night-movie-heavens-feel-iii-spring-song](https://cdn.myanimelist.net/images/anime/1142/112957.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版「Fate/stay night [Heaven's Feel] III.spring song」

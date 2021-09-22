@@ -1,5 +1,7 @@
 # Jin Huli He Fen Fenghuang
 
+![jin-huli-he-fen-fenghuang](https://cdn.myanimelist.net/images/anime/1501/115492.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 30
 -   **original-name**: 金狐狸和粉凤凰

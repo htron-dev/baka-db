@@ -1,5 +1,7 @@
 # Nani-sama no Tsumorida!! Shinkonhen
 
+![nani-sama-no-tsumorida-shinkonhen](https://cdn.myanimelist.net/images/manga/1/6295.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 何様のつもりダ!! 新婚編

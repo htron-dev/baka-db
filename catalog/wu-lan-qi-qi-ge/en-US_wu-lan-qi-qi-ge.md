@@ -1,5 +1,7 @@
 # Wu Lan Qi Qi Ge
 
+![wu-lan-qi-qi-ge](https://cdn.myanimelist.net/images/anime/6/76389.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 烏蘭其其格

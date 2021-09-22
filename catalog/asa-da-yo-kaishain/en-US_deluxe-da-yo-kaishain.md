@@ -1,5 +1,7 @@
 # Deluxe Da yo! Kaishain
 
+![deluxe-da-yo-kaishain](https://cdn.myanimelist.net/images/anime/1962/102130.jpg)
+
 -   **type**: ona
 -   **original-name**: デラックスだよ！貝社員
 -   **start-date**: 2019-07-19

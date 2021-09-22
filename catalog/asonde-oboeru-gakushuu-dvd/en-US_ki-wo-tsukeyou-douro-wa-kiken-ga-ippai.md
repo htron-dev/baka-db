@@ -1,5 +1,7 @@
 # Ki wo Tsukeyou: Douro wa Kiken ga Ippai!
 
+![ki-wo-tsukeyou-douro-wa-kiken-ga-ippai](https://cdn.myanimelist.net/images/anime/6/84968.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 気をつけよう　道路は危険がいつぱい！

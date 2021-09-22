@@ -1,5 +1,7 @@
 # Nankyoku Penguin Colors
 
+![nankyoku-penguin-colors](https://cdn.myanimelist.net/images/anime/1553/114480.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: 南極ペンギンカラーズ

@@ -1,5 +1,7 @@
 # Sweet Regard
 
+![sweet-regard](https://cdn.myanimelist.net/images/manga/1/13152.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

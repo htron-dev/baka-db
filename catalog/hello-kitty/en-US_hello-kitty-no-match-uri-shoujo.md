@@ -1,5 +1,7 @@
 # Hello Kitty no Match Uri Shoujo
 
+![hello-kitty-no-match-uri-shoujo](https://cdn.myanimelist.net/images/anime/3/58705.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティのマッチ売りの少女

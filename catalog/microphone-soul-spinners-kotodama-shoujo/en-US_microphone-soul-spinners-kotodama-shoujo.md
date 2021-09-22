@@ -1,5 +1,7 @@
 # Microphone Soul Spinners: Kotodama Shoujo
 
+![microphone-soul-spinners-kotodama-shoujo](https://cdn.myanimelist.net/images/anime/1875/107326.jpg)
+
 -   **type**: ona
 -   **episodes**: 24
 -   **start-date**: 2020-01-11

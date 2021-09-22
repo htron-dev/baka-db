@@ -1,5 +1,7 @@
 # Coelacanth
 
+![coelacanth](https://cdn.myanimelist.net/images/manga/3/14696.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

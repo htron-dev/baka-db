@@ -1,5 +1,7 @@
 # Sukima Onna (Habahiro)
 
+![sukima-onna-habahiro](https://cdn.myanimelist.net/images/manga/2/164672.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 隙間女 (幅広)

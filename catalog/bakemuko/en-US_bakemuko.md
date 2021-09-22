@@ -1,5 +1,7 @@
 # Bakemuko
 
+![bakemuko](https://cdn.myanimelist.net/images/manga/2/220208.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ばけむこ

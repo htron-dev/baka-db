@@ -1,5 +1,7 @@
 # Bukuro Kicks
 
+![bukuro-kicks](https://cdn.myanimelist.net/images/manga/2/235677.jpg)
+
 -   **type**: manga
 -   **original-name**: ブクロキックス
 -   **start-date**: 2020-03-30

@@ -1,5 +1,7 @@
 # Palme no Ki
 
+![palme-no-ki](https://cdn.myanimelist.net/images/anime/12/12909.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: パルムの樹

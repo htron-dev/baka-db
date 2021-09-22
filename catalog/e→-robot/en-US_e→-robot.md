@@ -1,5 +1,7 @@
 # E→Robot
 
+![e→-robot](https://cdn.myanimelist.net/images/manga/2/153555.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

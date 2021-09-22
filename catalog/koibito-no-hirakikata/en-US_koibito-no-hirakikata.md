@@ -1,5 +1,7 @@
 # Koibito no Hirakikata
 
+![koibito-no-hirakikata](https://cdn.myanimelist.net/images/manga/1/12643.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

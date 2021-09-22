@@ -1,5 +1,7 @@
 # Pupipo!
 
+![pupipo](https://cdn.myanimelist.net/images/manga/5/91871.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

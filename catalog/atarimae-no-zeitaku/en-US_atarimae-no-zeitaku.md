@@ -1,5 +1,7 @@
 # Atarimae no Zeitaku.
 
+![atarimae-no-zeitaku](https://cdn.myanimelist.net/images/manga/3/236817.jpg)
+
 -   **type**: manga
 -   **original-name**: あたりまえのぜひたく。
 -   **start-date**: 2014-10-05

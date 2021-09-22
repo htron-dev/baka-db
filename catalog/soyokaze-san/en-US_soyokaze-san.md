@@ -1,5 +1,7 @@
 # Soyokaze-san
 
+![soyokaze-san](https://cdn.myanimelist.net/images/manga/3/36242.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

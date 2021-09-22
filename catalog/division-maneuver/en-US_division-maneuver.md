@@ -1,5 +1,7 @@
 # Division Maneuver
 
+![division-maneuver](https://cdn.myanimelist.net/images/manga/2/193099.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 13
@@ -15,7 +17,7 @@
 
 ## Authors
 
--   Nidy-2D- (Art)
+-   Nidy-2D(Art)
 -   Senoo
 -   Shippo (Story)
 

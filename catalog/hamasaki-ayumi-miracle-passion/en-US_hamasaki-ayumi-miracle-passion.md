@@ -1,5 +1,7 @@
 # Hamasaki Ayumi Miracle Passion
 
+![hamasaki-ayumi-miracle-passion](https://cdn.myanimelist.net/images/manga/2/32064.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 浜崎あゆみ　ミラクル・パッション

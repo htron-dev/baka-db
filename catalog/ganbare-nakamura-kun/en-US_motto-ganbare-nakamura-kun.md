@@ -1,5 +1,7 @@
 # Motto Ganbare! Nakamura-kun!!
 
+![motto-ganbare-nakamura-kun](https://cdn.myanimelist.net/images/manga/3/210281.jpg)
+
 -   **type**: manga
 -   **original-name**: もっとガンバレ！中村くん！！
 -   **start-date**: 2017-06-28

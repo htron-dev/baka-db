@@ -1,5 +1,7 @@
 # Future GPX Cyber Formula 11
 
+![future-gpx-cyber-formula-11](https://cdn.myanimelist.net/images/anime/1686/117415.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 新世紀ＧＰＸサイバーフォーミュラ１１

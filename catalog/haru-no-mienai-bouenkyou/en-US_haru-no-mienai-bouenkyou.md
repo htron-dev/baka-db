@@ -1,5 +1,7 @@
 # Haru no Mienai Bouenkyou
 
+![haru-no-mienai-bouenkyou](https://cdn.myanimelist.net/images/manga/3/155879.jpg)
+
 -   **type**: manga
 -   **chapters**: 18
 -   **original-name**: ハルの見えない望遠鏡

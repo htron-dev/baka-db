@@ -1,5 +1,7 @@
 # Kizoku Tantei
 
+![kizoku-tantei](https://cdn.myanimelist.net/images/manga/2/209564.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

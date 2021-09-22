@@ -1,5 +1,7 @@
 # Koukyousei Million Arthur
 
+![koukyousei-million-arthur](https://cdn.myanimelist.net/images/anime/1501/94814.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 交響性ミリオンアーサー

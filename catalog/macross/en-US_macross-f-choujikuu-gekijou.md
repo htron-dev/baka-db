@@ -1,5 +1,7 @@
 # Macross F: Choujikuu Gekijou
 
+![macross-f-choujikuu-gekijou](https://cdn.myanimelist.net/images/anime/7/59791.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: マクロスＦ 超時空劇場

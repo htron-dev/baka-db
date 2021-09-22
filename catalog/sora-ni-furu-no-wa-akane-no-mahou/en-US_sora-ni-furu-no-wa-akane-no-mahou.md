@@ -1,5 +1,7 @@
 # Sora ni Furu no wa Akane no Mahou
 
+![sora-ni-furu-no-wa-akane-no-mahou](https://cdn.myanimelist.net/images/manga/2/182368.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: 空に降るのは茜の魔法

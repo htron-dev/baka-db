@@ -1,5 +1,7 @@
 # Mikakunin de Shinkoukei: Mite. Are ga Watashitachi no Tomatteiru Ryokan yo.
 
+![mikakunin-de-shinkoukei-mite-are-ga-watashitachi-no-tomatteiru-ryokan-yo](https://cdn.myanimelist.net/images/anime/10/76811.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 未確認で進行形 「見て。あれが私たちの泊まっている旅館よ。」

@@ -1,5 +1,7 @@
 # Gakuen Koushounin
 
+![gakuen-koushounin](https://cdn.myanimelist.net/images/manga/2/198241.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 学園交渉人
 -   **start-date**: 2017-07-15

@@ -1,5 +1,7 @@
 # Ikigami-sama
 
+![ikigami-sama](https://cdn.myanimelist.net/images/manga/3/178144.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

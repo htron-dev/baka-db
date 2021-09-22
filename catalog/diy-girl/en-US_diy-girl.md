@@ -1,5 +1,7 @@
 # DIY Girl
 
+![diy-girl](https://cdn.myanimelist.net/images/manga/4/30340.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 디아이와이 걸
 

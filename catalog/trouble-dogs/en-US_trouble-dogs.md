@@ -1,5 +1,7 @@
 # Trouble Dogs
 
+![trouble-dogs](https://cdn.myanimelist.net/images/manga/2/16832.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 31

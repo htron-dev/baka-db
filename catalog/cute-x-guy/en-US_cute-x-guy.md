@@ -1,5 +1,7 @@
 # CUTE X GUY
 
+![cute-x-guy](https://cdn.myanimelist.net/images/manga/1/2342.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 15

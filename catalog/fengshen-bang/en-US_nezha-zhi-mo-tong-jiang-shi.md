@@ -1,5 +1,7 @@
 # Nezha Zhi Mo Tong Jiang Shi
 
+![nezha-zhi-mo-tong-jiang-shi](https://cdn.myanimelist.net/images/anime/1759/102055.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 哪吒之魔童降世
@@ -27,4 +29,4 @@ With no way to remove the cursed effects of the Demon Orb, Ne Zha is raised unde
 -   [My Anime list](https://myanimelist.net/anime/40111/Nezha_Zhi_Mo_Tong_Jiang_Shi)
 -   [Official Site](https://www.wellgousa.com/films/ne-zha)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=15250)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Ne_Zha_(2019_film)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Ne_Zha_%282019_film%29)

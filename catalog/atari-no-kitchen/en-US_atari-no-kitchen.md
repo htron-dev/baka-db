@@ -1,5 +1,7 @@
 # Atari no Kitchen!
 
+![atari-no-kitchen](https://cdn.myanimelist.net/images/manga/1/202210.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

@@ -1,5 +1,7 @@
 # Ayashi no Ceres
 
+![ayashi-no-ceres](https://cdn.myanimelist.net/images/manga/3/160959.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 83

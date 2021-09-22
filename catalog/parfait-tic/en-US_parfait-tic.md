@@ -1,5 +1,7 @@
 # Parfait Tic!
 
+![parfait-tic](https://cdn.myanimelist.net/images/manga/2/191816.jpg)
+
 -   **type**: manga
 -   **volumes**: 22
 -   **chapters**: 153

@@ -1,5 +1,7 @@
 # Mizutamari ni Ukabu Shima
 
+![mizutamari-ni-ukabu-shima](https://cdn.myanimelist.net/images/manga/1/234462.jpg)
+
 -   **type**: manga
 -   **original-name**: 水溜まりに浮かぶ島
 -   **start-date**: 2019-11-26

@@ -1,5 +1,7 @@
 # Baskerville-ke no Seiryaku Kekkon
 
+![baskerville-ke-no-seiryaku-kekkon](https://cdn.myanimelist.net/images/manga/1/239124.jpg)
+
 -   **type**: manga
 -   **original-name**: バスカヴィル家の政略結婚
 -   **start-date**: 2019-09-30

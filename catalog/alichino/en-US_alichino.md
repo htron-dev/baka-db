@@ -1,5 +1,7 @@
 # Alichino
 
+![alichino](https://cdn.myanimelist.net/images/manga/1/126253.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

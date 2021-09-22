@@ -1,5 +1,7 @@
 # Momoiro Tengu
 
+![momoiro-tengu](https://cdn.myanimelist.net/images/manga/3/27139.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

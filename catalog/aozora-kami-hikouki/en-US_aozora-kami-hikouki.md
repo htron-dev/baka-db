@@ -1,5 +1,7 @@
 # Aozora, Kami Hikouki
 
+![aozora-kami-hikouki](https://cdn.myanimelist.net/images/manga/3/26694.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

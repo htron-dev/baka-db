@@ -1,5 +1,7 @@
 # Diner
 
+![diner](https://cdn.myanimelist.net/images/manga/1/219346.jpg)
+
 -   **type**: manga
 -   **original-name**: DINER ダイナー
 -   **start-date**: 2017-08-03

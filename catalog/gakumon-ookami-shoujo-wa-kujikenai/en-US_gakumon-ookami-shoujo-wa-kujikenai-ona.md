@@ -1,5 +1,7 @@
 # Gakumon!: Ookami Shoujo wa Kujikenai
 
+![gakumon-ookami-shoujo-wa-kujikenai](https://cdn.myanimelist.net/images/anime/10/79189.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: がくモン!〜オオカミ少女はくじけない〜

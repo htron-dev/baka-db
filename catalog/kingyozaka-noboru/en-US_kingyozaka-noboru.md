@@ -1,5 +1,7 @@
 # Kingyozaka Noboru
 
+![kingyozaka-noboru](https://cdn.myanimelist.net/images/manga/2/115145.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 26

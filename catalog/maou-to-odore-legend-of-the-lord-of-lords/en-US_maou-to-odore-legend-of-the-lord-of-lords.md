@@ -1,5 +1,7 @@
 # Maou to Odore! Legend of the Lord of Lords
 
+![maou-to-odore-legend-of-the-lord-of-lords](https://cdn.myanimelist.net/images/manga/1/132599.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 魔王と踊れ！ Legend of the Lord of Lords

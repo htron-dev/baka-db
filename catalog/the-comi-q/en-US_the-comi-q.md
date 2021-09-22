@@ -1,5 +1,7 @@
 # The ComiQ
 
+![the-comi-q](https://cdn.myanimelist.net/images/manga/2/219406.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

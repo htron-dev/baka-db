@@ -1,5 +1,7 @@
 # Ijime Stop! Kintarou Kokoro Chikaramochi
 
+![ijime-stop-kintarou-kokoro-chikaramochi](https://cdn.myanimelist.net/images/anime/10/84977.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: いじめストップ！　金太郎心のちからもち

@@ -1,5 +1,7 @@
 # Junior Escort
 
+![junior-escort](https://cdn.myanimelist.net/images/manga/3/16874.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

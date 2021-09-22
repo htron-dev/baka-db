@@ -1,5 +1,7 @@
 # Tsubasa-chan, Kimi wa: Matching shita Onna wa Satsujinki
 
+![tsubasa-chan-kimi-wa-matching-shita-onna-wa-satsujinki](https://cdn.myanimelist.net/images/manga/1/235711.jpg)
+
 -   **type**: manga
 -   **chapters**: 23
 -   **original-name**: ツバサちゃん、君は マッチングした女は殺人鬼

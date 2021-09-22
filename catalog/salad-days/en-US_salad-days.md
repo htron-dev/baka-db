@@ -1,5 +1,7 @@
 # Salad Days
 
+![salad-days](https://cdn.myanimelist.net/images/manga/3/32396.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 165

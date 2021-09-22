@@ -1,5 +1,7 @@
 # Iinari Princess
 
+![iinari-princess](https://cdn.myanimelist.net/images/manga/2/68057.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Tezuka Osamu no Buddha: Owarinaki Tabi
 
+![tezuka-osamu-no-buddha-owarinaki-tabi](https://cdn.myanimelist.net/images/anime/9/55453.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 手塚治虫のブッダ－終わりなき旅－

@@ -1,5 +1,7 @@
 # Koisuru Herb Shohousen
 
+![koisuru-herb-shohousen](https://cdn.myanimelist.net/images/manga/2/96765.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

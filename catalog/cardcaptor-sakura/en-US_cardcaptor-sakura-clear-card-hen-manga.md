@@ -1,5 +1,7 @@
 # Cardcaptor Sakura: Clear Card-hen
 
+![cardcaptor-sakura-clear-card-hen](https://cdn.myanimelist.net/images/manga/3/193021.jpg)
+
 -   **type**: manga
 -   **original-name**: カードキャプターさくら クリアカード編
 -   **start-date**: 2016-06-03

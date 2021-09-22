@@ -1,5 +1,7 @@
 # Prefect no Hakoniwa
 
+![prefect-no-hakoniwa](https://cdn.myanimelist.net/images/manga/2/237291.jpg)
+
 -   **type**: manga
 -   **original-name**: プリフェクトの箱庭
 -   **start-date**: 2018-12-29

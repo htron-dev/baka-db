@@ -1,5 +1,7 @@
 # Goddamn
 
+![goddamn](https://cdn.myanimelist.net/images/anime/1499/112278.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ガッデム

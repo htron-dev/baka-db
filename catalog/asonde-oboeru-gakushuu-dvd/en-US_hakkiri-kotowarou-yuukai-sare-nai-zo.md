@@ -1,5 +1,7 @@
 # Hakkiri Kotowarou: Yuukai Sare Nai zo!
 
+![hakkiri-kotowarou-yuukai-sare-nai-zo](https://cdn.myanimelist.net/images/anime/8/84970.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: はっきりことわろう 誘拐されないぞ！

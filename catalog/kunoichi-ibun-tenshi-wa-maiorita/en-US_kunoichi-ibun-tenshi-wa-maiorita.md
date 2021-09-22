@@ -1,5 +1,7 @@
 # Kunoichi Ibun: Tenshi wa Maiorita
 
+![kunoichi-ibun-tenshi-wa-maiorita](https://cdn.myanimelist.net/images/manga/1/164506.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

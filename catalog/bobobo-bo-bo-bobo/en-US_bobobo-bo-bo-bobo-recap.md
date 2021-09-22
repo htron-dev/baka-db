@@ -1,5 +1,7 @@
 # Bobobo-bo Bo-bobo Recap
 
+![bobobo-bo-bo-bobo-recap](https://cdn.myanimelist.net/images/anime/12/72166.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: お待たせ! 新装開店!! 遂に来たのね, ﾊﾟﾁ美の時代が ♥

@@ -1,5 +1,7 @@
 # Ergo Proxy
 
+![ergo-proxy](https://cdn.myanimelist.net/images/anime/11/6259.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 23
 -   **original-name**: エルゴプラクシー

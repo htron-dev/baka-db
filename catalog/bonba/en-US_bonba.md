@@ -1,5 +1,7 @@
 # Bonba!
 
+![bonba](https://cdn.myanimelist.net/images/manga/2/36124.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ボンバ

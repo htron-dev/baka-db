@@ -1,5 +1,7 @@
 # Empty Heart ~Itsuwari no Koi Dakara~
 
+![empty-heart-itsuwari-no-koi-dakara](https://cdn.myanimelist.net/images/manga/2/5469.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

@@ -1,5 +1,7 @@
 # Shounen Shinkaron Plus
 
+![shounen-shinkaron-plus](https://cdn.myanimelist.net/images/manga/3/155708.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 33

@@ -1,5 +1,7 @@
 # Ganbare Gonbe
 
+![ganbare-gonbe](https://cdn.myanimelist.net/images/anime/12/53777.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 77
 -   **original-name**: がんばれゴンベ
@@ -12,7 +14,6 @@
 ## Tags
 
 -   comedy
-
 -   parody
 
 ## Sinopse

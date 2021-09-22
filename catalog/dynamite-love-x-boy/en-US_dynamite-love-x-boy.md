@@ -1,5 +1,7 @@
 # Dynamite Love x Boy!
 
+![dynamite-love-x-boy](https://cdn.myanimelist.net/images/manga/2/10002.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: ダイナマイト愛 × 男！

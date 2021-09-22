@@ -1,5 +1,7 @@
 # Shisha no Teikoku
 
+![shisha-no-teikoku](https://cdn.myanimelist.net/images/manga/2/172647.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

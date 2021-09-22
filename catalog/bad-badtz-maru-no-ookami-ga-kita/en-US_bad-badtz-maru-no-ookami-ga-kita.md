@@ -1,5 +1,7 @@
 # Bad Badtz-Maru no Ookami ga Kita!
 
+![bad-badtz-maru-no-ookami-ga-kita](https://cdn.myanimelist.net/images/anime/13/58669.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: バッドばつ丸のオオカミが来た!

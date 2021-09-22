@@ -1,5 +1,7 @@
 # Mainichi JK Kikaku Episode 0
 
+![mainichi-jk-kikaku-episode-0](https://cdn.myanimelist.net/images/anime/12/87014.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 毎日 JK 企画 第 0 話

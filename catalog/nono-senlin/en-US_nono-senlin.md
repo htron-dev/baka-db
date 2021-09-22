@@ -1,5 +1,7 @@
 # Nono Senlin
 
+![nono-senlin](https://cdn.myanimelist.net/images/anime/1097/115351.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 104
 -   **original-name**: 诺诺森林

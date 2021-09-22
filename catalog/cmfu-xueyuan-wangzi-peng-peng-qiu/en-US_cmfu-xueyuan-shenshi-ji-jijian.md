@@ -1,5 +1,7 @@
 # CMFU Xueyuan: Shenshi Ji Jijian
 
+![cmfu-xueyuan-shenshi-ji-jijian](https://cdn.myanimelist.net/images/anime/1351/91442.jpg)
+
 -   **type**: ona
 -   **episodes**: 24
 -   **original-name**: CMFU 学院：绅士击击剑

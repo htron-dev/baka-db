@@ -1,5 +1,7 @@
 # More Than Red
 
+![more-than-red](https://cdn.myanimelist.net/images/manga/2/237236.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # No Guns Life
 
+![no-guns-life](https://cdn.myanimelist.net/images/anime/1531/102113.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ノー・ガンズ・ライフ

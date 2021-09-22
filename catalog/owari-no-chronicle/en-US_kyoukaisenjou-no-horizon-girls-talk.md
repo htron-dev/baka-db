@@ -1,5 +1,7 @@
 # Kyoukaisenjou no Horizon: Girls Talk
 
+![kyoukaisenjou-no-horizon-girls-talk](https://cdn.myanimelist.net/images/manga/1/143315.jpg)
+
 -   **type**: light-novel
 -   **original-name**: GENESIS シリーズ 境界線上のホライゾン ガールズトーク
 -   **start-date**: 2014-11-08

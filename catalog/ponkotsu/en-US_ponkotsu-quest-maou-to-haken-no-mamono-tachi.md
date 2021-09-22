@@ -1,5 +1,7 @@
 # Ponkotsu Quest: Maou to Haken no Mamono-tachi
 
+![ponkotsu-quest-maou-to-haken-no-mamono-tachi](https://cdn.myanimelist.net/images/anime/6/76401.jpg)
+
 -   **type**: ona
 -   **original-name**: ポンコツクエスト～魔王と派遣の魔物たち～
 -   **start-date**: 2013-08-22

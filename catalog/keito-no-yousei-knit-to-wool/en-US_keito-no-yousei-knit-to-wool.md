@@ -1,5 +1,7 @@
 # Keito no Yousei: Knit to Wool
 
+![keito-no-yousei-knit-to-wool](https://cdn.myanimelist.net/images/anime/2/86111.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: けいとのようせいニットとウール
 -   **start-date**: 2015-08-24

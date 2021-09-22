@@ -1,5 +1,7 @@
 # Fudatsuki no Kyouko-chan
 
+![fudatsuki-no-kyouko-chan](https://cdn.myanimelist.net/images/manga/3/113429.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 37

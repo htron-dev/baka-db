@@ -1,5 +1,7 @@
 # Cowboy Bebop: Ein no Natsuyasumi
 
+![cowboy-bebop-ein-no-natsuyasumi](https://cdn.myanimelist.net/images/anime/4/45947.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: アインのなつやすみ

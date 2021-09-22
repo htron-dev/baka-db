@@ -1,5 +1,7 @@
 # Kamome no Koto wa Yoku Shiranai
 
+![kamome-no-koto-wa-yoku-shiranai](https://cdn.myanimelist.net/images/manga/1/242503.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

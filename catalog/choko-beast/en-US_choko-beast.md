@@ -1,5 +1,7 @@
 # Choko Beast!!
 
+![choko-beast](https://cdn.myanimelist.net/images/manga/2/115369.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: CHOKO・ビースト!!

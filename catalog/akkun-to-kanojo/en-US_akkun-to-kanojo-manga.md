@@ -1,5 +1,7 @@
 # Akkun to Kanojo
 
+![akkun-to-kanojo](https://cdn.myanimelist.net/images/manga/3/117389.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 66

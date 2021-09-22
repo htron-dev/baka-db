@@ -1,5 +1,7 @@
 # Kamisama no Inai Nichiyoubi
 
+![kamisama-no-inai-nichiyoubi](https://cdn.myanimelist.net/images/manga/2/103531.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **chapters**: 45

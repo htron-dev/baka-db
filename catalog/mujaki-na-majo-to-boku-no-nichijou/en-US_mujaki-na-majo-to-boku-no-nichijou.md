@@ -1,5 +1,7 @@
 # Mujaki na Majo to Boku no Nichijou
 
+![mujaki-na-majo-to-boku-no-nichijou](https://cdn.myanimelist.net/images/manga/3/168952.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: 無邪気な魔女と僕の日常

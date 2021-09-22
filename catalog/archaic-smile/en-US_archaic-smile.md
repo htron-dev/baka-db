@@ -1,5 +1,7 @@
 # Archaic Smile
 
+![archaic-smile](https://cdn.myanimelist.net/images/manga/2/201381.jpg)
+
 -   **type**: manga
 -   **original-name**: アルカイック スマイル
 -   **start-date**: 2007-03-20

@@ -1,5 +1,7 @@
 # Nana-iro Kakumei
 
+![nana-iro-kakumei](https://cdn.myanimelist.net/images/manga/1/165397.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: なないろ革命

@@ -1,5 +1,7 @@
 # Outo Torikaebaya Monogatari: Dansou Reijou to Ouji
 
+![outo-torikaebaya-monogatari-dansou-reijou-to-ouji](https://cdn.myanimelist.net/images/manga/1/182387.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

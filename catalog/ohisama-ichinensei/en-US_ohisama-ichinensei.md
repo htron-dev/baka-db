@@ -1,5 +1,7 @@
 # Ohisama Ichinensei
 
+![ohisama-ichinensei](https://cdn.myanimelist.net/images/manga/1/64617.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: おひさまいちねんせい

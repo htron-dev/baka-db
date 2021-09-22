@@ -1,5 +1,7 @@
 # Kamibukuro-kun wa Koishiteru
 
+![kamibukuro-kun-wa-koishiteru](https://cdn.myanimelist.net/images/manga/3/236284.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

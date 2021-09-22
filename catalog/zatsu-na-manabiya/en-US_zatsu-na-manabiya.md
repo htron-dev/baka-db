@@ -1,5 +1,7 @@
 # Zatsu na Manabiya
 
+![zatsu-na-manabiya](https://cdn.myanimelist.net/images/manga/3/230375.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 33

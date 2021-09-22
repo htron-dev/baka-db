@@ -1,5 +1,7 @@
 # Youma
 
+![youma](https://cdn.myanimelist.net/images/manga/2/30709.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 妖魔

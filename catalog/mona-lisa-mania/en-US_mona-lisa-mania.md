@@ -1,5 +1,7 @@
 # Mona Lisa Mania
 
+![mona-lisa-mania](https://cdn.myanimelist.net/images/manga/1/221286.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Kamasutra
 
+![kamasutra](https://cdn.myanimelist.net/images/manga/2/131509.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

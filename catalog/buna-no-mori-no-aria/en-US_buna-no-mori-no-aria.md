@@ -1,5 +1,7 @@
 # Buna no Mori no Aria
 
+![buna-no-mori-no-aria](https://cdn.myanimelist.net/images/manga/1/228792.jpg)
+
 -   **type**: manga
 -   **original-name**: ブナの森のアリア
 -   **start-date**: 2020-01-24

@@ -1,5 +1,7 @@
 # Mayonaka ni Kiss
 
+![mayonaka-ni-kiss](https://cdn.myanimelist.net/images/manga/1/207205.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

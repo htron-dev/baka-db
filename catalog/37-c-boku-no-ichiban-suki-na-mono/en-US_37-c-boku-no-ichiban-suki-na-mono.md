@@ -1,5 +1,7 @@
 # 37ºC: Boku no Ichiban Suki na Mono
 
+![37-c-boku-no-ichiban-suki-na-mono](https://cdn.myanimelist.net/images/manga/1/14474.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 37ºC 〜ぼくのいちばんすきなもの〜

@@ -1,5 +1,7 @@
 # Kiss mo Dekinakatta
 
+![kiss-mo-dekinakatta](https://cdn.myanimelist.net/images/manga/3/200424.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

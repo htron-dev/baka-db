@@ -1,5 +1,7 @@
 # Smash 1
 
+![smash-1](https://cdn.myanimelist.net/images/manga/3/5634.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

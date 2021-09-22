@@ -1,5 +1,7 @@
 # Nijiiro Days: Houkago Special
 
+![nijiiro-days-houkago-special](https://cdn.myanimelist.net/images/anime/2/79554.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 虹色デイズ 放課後スペシャル

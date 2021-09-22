@@ -1,5 +1,7 @@
 # Ore to Kanojo no Koi wo Chounouryoku ga Jama shiteru.
 
+![ore-to-kanojo-no-koi-wo-chounouryoku-ga-jama-shiteru](https://cdn.myanimelist.net/images/manga/3/194291.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 俺と彼女の恋を超能力が邪魔している。
 -   **start-date**: 2017-04-18

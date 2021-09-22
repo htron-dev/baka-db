@@ -1,5 +1,7 @@
 # Yagyuu Renya Bugeichou
 
+![yagyuu-renya-bugeichou](https://cdn.myanimelist.net/images/manga/2/179387.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 35

@@ -1,5 +1,7 @@
 # Ginga Tetsudou 999: Eien no Tabibito Emeraldas
 
+![ginga-tetsudou-999-eien-no-tabibito-emeraldas](https://cdn.myanimelist.net/images/anime/11/15483.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 銀河鉄道９９９　永遠の旅人エメラルダス

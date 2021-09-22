@@ -1,5 +1,7 @@
 # I'll Get You!: Wanted: Mysterious Man!
 
+![ill-get-you-wanted-mysterious-man](https://cdn.myanimelist.net/images/manga/3/5975.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: Get you 召しませ怪盗

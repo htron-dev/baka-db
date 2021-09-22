@@ -1,5 +1,7 @@
 # IDOLiSH7: Re:member
 
+![ido-li-sh-7-re-member](https://cdn.myanimelist.net/images/manga/1/229090.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

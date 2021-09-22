@@ -1,5 +1,7 @@
 # Kuro Ookami to Gingitsune
 
+![kuro-ookami-to-gingitsune](https://cdn.myanimelist.net/images/manga/3/157574.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 黒狼と銀狐

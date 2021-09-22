@@ -1,5 +1,7 @@
 # Uchuu Kaizoku Captain Herlock
 
+![uchuu-kaizoku-captain-herlock](https://cdn.myanimelist.net/images/manga/4/153707.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

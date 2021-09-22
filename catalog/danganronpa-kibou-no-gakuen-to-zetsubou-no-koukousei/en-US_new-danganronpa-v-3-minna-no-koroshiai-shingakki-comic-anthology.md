@@ -1,5 +1,7 @@
 # New Danganronpa V3: Minna no Koroshiai Shingakki Comic Anthology
 
+![new-danganronpa-v-3-minna-no-koroshiai-shingakki-comic-anthology](https://cdn.myanimelist.net/images/manga/2/204988.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 43

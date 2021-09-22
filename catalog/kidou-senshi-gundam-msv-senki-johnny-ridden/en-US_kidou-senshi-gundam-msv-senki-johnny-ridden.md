@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam MSV Senki: Johnny Ridden
 
+![kidou-senshi-gundam-msv-senki-johnny-ridden](https://cdn.myanimelist.net/images/manga/2/74081.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

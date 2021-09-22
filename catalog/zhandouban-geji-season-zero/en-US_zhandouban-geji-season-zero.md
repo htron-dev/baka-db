@@ -1,5 +1,7 @@
 # Zhandouban Geji! Season Zero
 
+![zhandouban-geji-season-zero](https://cdn.myanimelist.net/images/anime/1017/114641.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: 战斗吧歌姬！ 第零季

@@ -1,5 +1,7 @@
 # Kidou Senshi Z Gundam
 
+![kidou-senshi-z-gundam](https://cdn.myanimelist.net/images/manga/3/148093.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

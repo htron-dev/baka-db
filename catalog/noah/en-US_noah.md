@@ -1,5 +1,7 @@
 # Noah!
 
+![noah](https://cdn.myanimelist.net/images/manga/5/81900.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

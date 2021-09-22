@@ -1,5 +1,7 @@
 # Sword Art Online: Alicization Lycoris
 
+![sword-art-online-alicization-lycoris](https://cdn.myanimelist.net/images/manga/1/237559.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

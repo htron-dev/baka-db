@@ -1,5 +1,7 @@
 # Shirusareshi Ai
 
+![shirusareshi-ai](https://cdn.myanimelist.net/images/manga/3/227474.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

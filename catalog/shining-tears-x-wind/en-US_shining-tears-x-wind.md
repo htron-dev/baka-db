@@ -1,5 +1,7 @@
 # Shining Tears X Wind
 
+![shining-tears-x-wind](https://cdn.myanimelist.net/images/anime/10/2298.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: シャイニング・ティアーズ・クロス・ウィンド

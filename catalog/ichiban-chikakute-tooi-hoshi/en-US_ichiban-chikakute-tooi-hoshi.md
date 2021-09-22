@@ -1,5 +1,7 @@
 # Ichiban Chikakute Tooi Hoshi
 
+![ichiban-chikakute-tooi-hoshi](https://cdn.myanimelist.net/images/anime/1388/112416.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 一番近くて遠い星

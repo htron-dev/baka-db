@@ -1,5 +1,7 @@
 # Backkom Mission Impossible
 
+![backkom-mission-impossible](https://cdn.myanimelist.net/images/anime/4/65801.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 빼꼼의미션임파서블
@@ -9,7 +11,6 @@
 ## Tags
 
 -   comedy
-
 -   parody
 
 ## Sinopse

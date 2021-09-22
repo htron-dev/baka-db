@@ -1,5 +1,7 @@
 # Shitsuji no Kyouai
 
+![shitsuji-no-kyouai](https://cdn.myanimelist.net/images/manga/2/184973.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

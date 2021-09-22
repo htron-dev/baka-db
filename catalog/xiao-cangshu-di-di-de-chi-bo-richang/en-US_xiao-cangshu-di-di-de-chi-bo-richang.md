@@ -1,5 +1,7 @@
 # Xiao Cangshu Di Di de Chi Bo Richang
 
+![xiao-cangshu-di-di-de-chi-bo-richang](https://cdn.myanimelist.net/images/anime/1052/108483.jpg)
+
 -   **type**: ona
 -   **original-name**: 小仓鼠笛笛的吃播日常
 -   **start-date**: 2020-01-17

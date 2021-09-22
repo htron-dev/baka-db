@@ -1,5 +1,7 @@
 # Gekiryuuchi
 
+![gekiryuuchi](https://cdn.myanimelist.net/images/manga/3/49033.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

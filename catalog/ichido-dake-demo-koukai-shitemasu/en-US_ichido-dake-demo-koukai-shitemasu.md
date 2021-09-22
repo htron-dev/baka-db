@@ -1,5 +1,7 @@
 # Ichido dake demo, Koukai Shitemasu.
 
+![ichido-dake-demo-koukai-shitemasu](https://cdn.myanimelist.net/images/manga/2/226062.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

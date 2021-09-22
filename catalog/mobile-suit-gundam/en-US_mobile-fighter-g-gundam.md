@@ -1,5 +1,7 @@
 # Mobile Fighter G Gundam
 
+![mobile-fighter-g-gundam](https://cdn.myanimelist.net/images/anime/1596/92392.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: 機動武闘伝 G ガンダム

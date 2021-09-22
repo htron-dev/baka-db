@@ -1,5 +1,7 @@
 # Tsukuyomi
 
+![tsukuyomi](https://cdn.myanimelist.net/images/manga/3/22541.jpg)
+
 -   **type**: manga
 -   **original-name**: 月読
 -   **start-date**: 2009-01-20

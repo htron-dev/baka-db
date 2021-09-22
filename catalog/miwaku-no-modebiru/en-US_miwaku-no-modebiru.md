@@ -1,5 +1,7 @@
 # Miwaku no Modebiru
 
+![miwaku-no-modebiru](https://cdn.myanimelist.net/images/manga/2/60399.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

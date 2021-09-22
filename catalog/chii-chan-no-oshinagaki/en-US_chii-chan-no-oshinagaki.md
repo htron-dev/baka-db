@@ -1,5 +1,7 @@
 # Chii-chan no Oshinagaki
 
+![chii-chan-no-oshinagaki](https://cdn.myanimelist.net/images/manga/1/104707.jpg)
+
 -   **type**: manga
 -   **original-name**: ちぃちゃんのおしながき
 -   **start-date**: 2003-05-10

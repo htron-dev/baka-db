@@ -1,5 +1,7 @@
 # Gendai Nihon ni Yattekita Sega no Megami ni Arigachi na Koto
 
+![gendai-nihon-ni-yattekita-sega-no-megami-ni-arigachi-na-koto](https://cdn.myanimelist.net/images/manga/1/160499.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 現代日本にやってきたセガの女神にありがちなこと

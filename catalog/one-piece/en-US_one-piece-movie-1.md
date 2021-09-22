@@ -1,5 +1,7 @@
 # One Piece Movie 1
 
+![one-piece-movie-1](https://cdn.myanimelist.net/images/anime/1770/97704.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ONE PIECE

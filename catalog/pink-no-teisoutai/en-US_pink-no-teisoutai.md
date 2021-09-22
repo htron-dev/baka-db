@@ -1,5 +1,7 @@
 # Pink no Teisoutai
 
+![pink-no-teisoutai](https://cdn.myanimelist.net/images/manga/1/72377.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

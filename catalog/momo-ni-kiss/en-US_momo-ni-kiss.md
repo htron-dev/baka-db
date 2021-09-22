@@ -1,5 +1,7 @@
 # Momo ni Kiss!
 
+![momo-ni-kiss](https://cdn.myanimelist.net/images/manga/2/26664.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 挑にキッス!

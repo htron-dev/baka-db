@@ -1,5 +1,7 @@
 # Yokohama Kaidashi Kikou
 
+![yokohama-kaidashi-kikou](https://cdn.myanimelist.net/images/anime/6/23054.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ヨコハマ買い出し紀行

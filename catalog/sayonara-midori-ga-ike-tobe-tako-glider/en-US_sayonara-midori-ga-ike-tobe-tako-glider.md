@@ -1,5 +1,7 @@
 # Sayonara, Midori ga ike: Tobe! Tako Glider!!
 
+![sayonara-midori-ga-ike-tobe-tako-glider](https://cdn.myanimelist.net/images/anime/8/71495.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: サヨナラ、みどりが池-飛べ!凧グライダー!!-

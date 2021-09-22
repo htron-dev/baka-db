@@ -1,5 +1,7 @@
 # Kedamono Joushi, Choukyou shimasu!
 
+![kedamono-joushi-choukyou-shimasu](https://cdn.myanimelist.net/images/manga/1/192345.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

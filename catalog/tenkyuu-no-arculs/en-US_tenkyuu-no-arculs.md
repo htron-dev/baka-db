@@ -1,5 +1,7 @@
 # Tenkyuu no Arculs
 
+![tenkyuu-no-arculs](https://cdn.myanimelist.net/images/anime/9/88534.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 天穹のアルクルス

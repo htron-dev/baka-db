@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Yajuu Ouji to Toraware-hime
 
+![manga-grimm-douwa-yajuu-ouji-to-toraware-hime](https://cdn.myanimelist.net/images/manga/2/137367.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Sword Art Online: Project Alicization
 
+![sword-art-online-project-alicization](https://cdn.myanimelist.net/images/manga/1/201451.jpg)
+
 -   **type**: manga
 -   **original-name**: ソードアート・オンライン プロジェクト・アリシゼーション
 -   **start-date**: 2016-08-09

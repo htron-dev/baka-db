@@ -1,5 +1,7 @@
 # Gegege no Kitarou: Tamashii to Art
 
+![gegege-no-kitarou-tamashii-to-art](https://cdn.myanimelist.net/images/anime/1205/99498.jpg)
+
 -   **type**: movie
 -   **episodes**: 2
 -   **original-name**: ゲゲゲの鬼太郎　魂とアート
@@ -26,4 +28,4 @@ The films are said to be compatible with the Lenovo Mirage Solo with Daydream st
 -   [Official Site](https://gugenka.jp/event/kitaro.php)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=13742)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=20562)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E3%82%B2%E3%82%B2%E3%82%B2%E3%81%AE%E9%AC%BC%E5%A4%AA%E9%83%8E_(%E3%82%A2%E3%83%8B%E3%83%A1)#%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E4%B8%8A%E6%98%A0%E4%BD%9C%EF%BC%88%E7%AC%AC6%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%89>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%B2%E3%82%B2%E3%82%B2%E3%81%AE%E9%AC%BC%E5%A4%AA%E9%83%8E_%28%E3%82%A2%E3%83%8B%E3%83%A1%29#%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E4%B8%8A%E6%98%A0%E4%BD%9C%EF%BC%88%E7%AC%AC6%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%89)

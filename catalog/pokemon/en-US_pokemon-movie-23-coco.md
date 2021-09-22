@@ -1,5 +1,7 @@
 # Pokemon Movie 23: Coco
 
+![pokemon-movie-23-coco](https://cdn.myanimelist.net/images/anime/1029/106237.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版ポケットモンスター ココ
@@ -14,7 +16,6 @@
 -   game
 -   adventure
 -   comedy
-
 -   fantasy
 
 ## Sinopse

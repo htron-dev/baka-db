@@ -1,5 +1,7 @@
 # Naitemo Yurushite Agenai yo
 
+![naitemo-yurushite-agenai-yo](https://cdn.myanimelist.net/images/manga/1/77229.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

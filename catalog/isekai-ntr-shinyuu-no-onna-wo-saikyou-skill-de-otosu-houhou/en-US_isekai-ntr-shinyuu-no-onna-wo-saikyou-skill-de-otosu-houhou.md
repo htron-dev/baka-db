@@ -1,5 +1,7 @@
 # Isekai NTR: Shinyuu no Onna wo Saikyou Skill de Otosu Houhou
 
+![isekai-ntr-shinyuu-no-onna-wo-saikyou-skill-de-otosu-houhou](https://cdn.myanimelist.net/images/manga/2/237300.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界 NTR ～親友のオンナを最強スキルで堕とす方法～
 -   **start-date**: 2020-01-28

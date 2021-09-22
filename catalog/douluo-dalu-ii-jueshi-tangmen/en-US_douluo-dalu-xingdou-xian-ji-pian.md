@@ -1,5 +1,7 @@
 # Douluo Dalu: Xingdou Xian Ji Pian
 
+![douluo-dalu-xingdou-xian-ji-pian](https://cdn.myanimelist.net/images/anime/1969/113995.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 斗罗大陆 星斗献祭篇

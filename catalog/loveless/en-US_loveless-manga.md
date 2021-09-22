@@ -1,5 +1,7 @@
 # Loveless
 
+![loveless](https://cdn.myanimelist.net/images/manga/2/171051.jpg)
+
 -   **type**: manga
 -   **original-name**: LOVELESS
 -   **start-date**: 2001-11-17

@@ -1,5 +1,7 @@
 # Houmonsha
 
+![houmonsha](https://cdn.myanimelist.net/images/manga/1/17880.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: 訪問者

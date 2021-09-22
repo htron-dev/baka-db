@@ -1,5 +1,7 @@
 # Honoo no Mirage: Showa-hen
 
+![honoo-no-mirage-showa-hen](https://cdn.myanimelist.net/images/manga/1/149268.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 炎の蜃気楼 昭和編
 -   **start-date**: 2014-01-10

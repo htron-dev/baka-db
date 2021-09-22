@@ -1,5 +1,7 @@
 # Stardust Junction
 
+![stardust-junction](https://cdn.myanimelist.net/images/manga/1/158891.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: スターダストジャンクション

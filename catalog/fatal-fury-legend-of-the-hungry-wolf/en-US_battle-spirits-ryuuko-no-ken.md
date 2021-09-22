@@ -1,5 +1,7 @@
 # Battle Spirits: Ryuuko no Ken
 
+![battle-spirits-ryuuko-no-ken](https://cdn.myanimelist.net/images/anime/4/64045.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: バトルスピリッツ　龍虎の拳

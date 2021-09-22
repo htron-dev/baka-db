@@ -1,5 +1,7 @@
 # Smoky B.B.
 
+![smoky-b-b](https://cdn.myanimelist.net/images/manga/2/189780.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

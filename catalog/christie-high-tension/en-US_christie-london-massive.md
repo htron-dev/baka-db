@@ -1,5 +1,7 @@
 # Christie: London Massive
 
+![christie-london-massive](https://cdn.myanimelist.net/images/manga/3/157265.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 36

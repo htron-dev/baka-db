@@ -1,5 +1,7 @@
 # Gakuen Soul Guardians!?
 
+![gakuen-soul-guardians](https://cdn.myanimelist.net/images/manga/3/165544.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 3

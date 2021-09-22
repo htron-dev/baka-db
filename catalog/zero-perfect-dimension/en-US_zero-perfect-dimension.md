@@ -1,5 +1,7 @@
 # Zero: Perfect Dimension
 
+![zero-perfect-dimension](https://cdn.myanimelist.net/images/manga/3/55029.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 27

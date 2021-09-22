@@ -1,5 +1,7 @@
 # Hakase no Kimagure Homunculus
 
+![hakase-no-kimagure-homunculus](https://cdn.myanimelist.net/images/manga/2/201065.jpg)
+
 -   **type**: manga
 -   **original-name**: ハカセの気まぐれホムンクルス
 -   **start-date**: 2016-08-15

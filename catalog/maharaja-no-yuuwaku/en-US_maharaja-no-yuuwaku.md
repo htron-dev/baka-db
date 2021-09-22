@@ -1,5 +1,7 @@
 # Maharaja no Yuuwaku
 
+![maharaja-no-yuuwaku](https://cdn.myanimelist.net/images/manga/1/170891.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

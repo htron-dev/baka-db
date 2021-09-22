@@ -1,5 +1,7 @@
 # Cowboy Bebop
 
+![cowboy-bebop](https://cdn.myanimelist.net/images/anime/4/19644.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: カウボーイビバップ

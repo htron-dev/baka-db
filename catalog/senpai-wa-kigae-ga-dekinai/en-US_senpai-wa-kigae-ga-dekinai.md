@@ -1,5 +1,7 @@
 # Senpai wa Kigae ga Dekinai
 
+![senpai-wa-kigae-ga-dekinai](https://cdn.myanimelist.net/images/manga/3/215484.jpg)
+
 -   **type**: manga
 -   **original-name**: 先輩は着替えができない
 -   **start-date**: 2019-01-26

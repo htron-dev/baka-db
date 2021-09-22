@@ -1,5 +1,7 @@
 # Sennen Meikyuu no Nana Ouji: Eikyuu Kairou no Kishi
 
+![sennen-meikyuu-no-nana-ouji-eikyuu-kairou-no-kishi](https://cdn.myanimelist.net/images/manga/3/202180.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

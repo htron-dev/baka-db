@@ -1,5 +1,7 @@
 # Apocalypse no Toride
 
+![apocalypse-no-toride](https://cdn.myanimelist.net/images/manga/2/162053.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 49

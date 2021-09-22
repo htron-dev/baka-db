@@ -1,5 +1,7 @@
 # Fire Emblem Heroes Book III Movie：Cohort of the Dead
 
+![fire-emblem-heroes-book-iii-movie：-cohort-of-the-dead](https://cdn.myanimelist.net/images/anime/1940/109902.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ファイアーエムブレム ヒーローズ - ブックスリームービ: コホート-オブ-ザ-デッド

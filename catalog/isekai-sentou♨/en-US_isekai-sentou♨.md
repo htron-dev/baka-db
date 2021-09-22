@@ -1,5 +1,7 @@
 # Isekai Sentou♨
 
+![isekai-sentou♨](https://cdn.myanimelist.net/images/manga/3/198682.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界銭湯 ♨
 -   **start-date**: 2017-08-17

@@ -1,5 +1,7 @@
 # Biriken
 
+![biriken](https://cdn.myanimelist.net/images/anime/7/23069.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 32
 -   **original-name**: ビリ犬

@@ -1,5 +1,7 @@
 # Densetsu Kyojin Ideon: Sesshoku-hen
 
+![densetsu-kyojin-ideon-sesshoku-hen](https://cdn.myanimelist.net/images/anime/3/23715.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 伝説巨神イデオン 接触篇

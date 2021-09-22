@@ -1,5 +1,7 @@
 # Shibata san no Jijou
 
+![shibata-san-no-jijou](https://cdn.myanimelist.net/images/manga/3/15681.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

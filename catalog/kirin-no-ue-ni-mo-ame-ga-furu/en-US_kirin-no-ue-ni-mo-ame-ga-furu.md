@@ -1,5 +1,7 @@
 # Kirin no Ue ni mo Ame ga Furu
 
+![kirin-no-ue-ni-mo-ame-ga-furu](https://cdn.myanimelist.net/images/manga/3/21328.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Genmu Senki Leda
 
+![genmu-senki-leda](https://cdn.myanimelist.net/images/anime/1901/96983.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 幻夢戦記レダ

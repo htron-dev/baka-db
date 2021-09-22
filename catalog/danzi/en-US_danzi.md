@@ -1,5 +1,7 @@
 # Danzi
 
+![danzi](https://cdn.myanimelist.net/images/manga/3/222200.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 46

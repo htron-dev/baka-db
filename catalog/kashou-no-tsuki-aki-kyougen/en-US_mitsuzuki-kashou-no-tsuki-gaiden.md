@@ -1,5 +1,7 @@
 # Mitsuzuki: "Kashou no Tsuki" Gaiden
 
+![mitsuzuki-kashou-no-tsuki-gaiden](https://cdn.myanimelist.net/images/manga/5/86095.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

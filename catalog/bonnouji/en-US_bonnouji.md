@@ -1,5 +1,7 @@
 # Bonnouji
 
+![bonnouji](https://cdn.myanimelist.net/images/manga/2/159423.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 36

@@ -1,5 +1,7 @@
 # Shinigami Rising
 
+![shinigami-rising](https://cdn.myanimelist.net/images/manga/2/158176.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: シニガミライジング

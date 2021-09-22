@@ -1,5 +1,7 @@
 # Samurai-tachi no Meiji Ishin
 
+![samurai-tachi-no-meiji-ishin](https://cdn.myanimelist.net/images/manga/2/96699.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

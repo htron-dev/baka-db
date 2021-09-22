@@ -1,5 +1,7 @@
 # Ojiichan wa Shounen Tantei
 
+![ojiichan-wa-shounen-tantei](https://cdn.myanimelist.net/images/manga/1/15290.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 35

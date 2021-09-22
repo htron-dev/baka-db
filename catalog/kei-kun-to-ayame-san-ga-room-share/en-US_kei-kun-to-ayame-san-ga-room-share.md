@@ -1,5 +1,7 @@
 # Kei-kun to Ayame-san ga Room Share
 
+![kei-kun-to-ayame-san-ga-room-share](https://cdn.myanimelist.net/images/manga/1/157124.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ケイくんとアヤメさんがルームシェア

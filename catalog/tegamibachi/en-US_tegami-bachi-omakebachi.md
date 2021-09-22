@@ -1,5 +1,7 @@
 # Tegami Bachi: Omakebachi
 
+![tegami-bachi-omakebachi](https://cdn.myanimelist.net/images/anime/2/26809.jpg)
+
 -   **type**: special
 -   **episodes**: 25
 -   **original-name**: 裏テガミバチ

@@ -1,5 +1,7 @@
 # Photogenic☆Superstar
 
+![photogenic☆-superstar](https://cdn.myanimelist.net/images/manga/3/238233.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # BanG Dream! Film Live
 
+![ban-g-dream-film-live](https://cdn.myanimelist.net/images/anime/1163/117736.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: BanG Dream! FILM LIVE

@@ -1,5 +1,7 @@
 # Tsuiraku JK to Haijin Kyoushi
 
+![tsuiraku-jk-to-haijin-kyoushi](https://cdn.myanimelist.net/images/manga/2/206954.jpg)
+
 -   **type**: manga
 -   **original-name**: 墜落 JK と廃人教師
 -   **start-date**: 2017-07-20

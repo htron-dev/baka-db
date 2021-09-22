@@ -1,5 +1,7 @@
 # Ouji-sama 100%
 
+![ouji-sama-100](https://cdn.myanimelist.net/images/manga/2/37367.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

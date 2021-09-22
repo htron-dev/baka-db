@@ -1,5 +1,7 @@
 # Üks Uks
 
+![uks-uks](https://cdn.myanimelist.net/images/anime/11/71455.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Üks Uks

@@ -1,5 +1,7 @@
 # Hareru Unicorn
 
+![hareru-unicorn](https://cdn.myanimelist.net/images/manga/2/126363.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ハレルユニコーン

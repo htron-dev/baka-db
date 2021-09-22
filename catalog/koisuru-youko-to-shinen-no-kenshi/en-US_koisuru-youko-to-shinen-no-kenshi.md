@@ -1,5 +1,7 @@
 # Koisuru Youko to Shinen no Kenshi
 
+![koisuru-youko-to-shinen-no-kenshi](https://cdn.myanimelist.net/images/manga/3/126353.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 恋する妖狐と神炎の剣士

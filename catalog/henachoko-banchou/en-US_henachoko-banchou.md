@@ -1,5 +1,7 @@
 # Henachoko Banchou
 
+![henachoko-banchou](https://cdn.myanimelist.net/images/manga/5/112129.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: へなちょこ番長

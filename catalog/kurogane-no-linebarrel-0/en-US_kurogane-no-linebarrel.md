@@ -1,5 +1,7 @@
 # Kurogane no Linebarrel
 
+![kurogane-no-linebarrel](https://cdn.myanimelist.net/images/manga/3/188887.jpg)
+
 -   **type**: manga
 -   **volumes**: 25
 -   **chapters**: 128

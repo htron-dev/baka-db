@@ -1,5 +1,7 @@
 # Colorful na Kimi to Monochrome na Boku
 
+![colorful-na-kimi-to-monochrome-na-boku](https://cdn.myanimelist.net/images/manga/3/174154.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

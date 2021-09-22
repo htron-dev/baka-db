@@ -1,5 +1,7 @@
 # Doukoku no Majutsushi: Brave &amp; Chicken
 
+![doukoku-no-majutsushi-brave-amp-chicken](https://cdn.myanimelist.net/images/manga/3/215854.jpg)
+
 -   **type**: manga
 -   **original-name**: 導国の魔術師 -BRAVE&CHICKEN-
 -   **start-date**: 2018-06-01

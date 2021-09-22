@@ -1,5 +1,7 @@
 # Reo!
 
+![reo](https://cdn.myanimelist.net/images/manga/1/191913.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

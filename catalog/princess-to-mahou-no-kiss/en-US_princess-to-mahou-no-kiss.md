@@ -1,5 +1,7 @@
 # Princess to Mahou no Kiss
 
+![princess-to-mahou-no-kiss](https://cdn.myanimelist.net/images/manga/2/40281.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

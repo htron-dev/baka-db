@@ -1,5 +1,7 @@
 # Seishun Hanashinjuu
 
+![seishun-hanashinjuu](https://cdn.myanimelist.net/images/manga/2/202649.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

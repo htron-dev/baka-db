@@ -1,5 +1,7 @@
 # Mahou Sensei Negima!: Introduction Film
 
+![mahou-sensei-negima-introduction-film](https://cdn.myanimelist.net/images/anime/5/8864.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 魔法先生ネギま! ～ introduction Film ～

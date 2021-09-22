@@ -1,5 +1,7 @@
 # Inazuma Eleven Go: Kyuukyoku no Kizuna Gryphon
 
+![inazuma-eleven-go-kyuukyoku-no-kizuna-gryphon](https://cdn.myanimelist.net/images/anime/7/44972.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版イナズマイレブン GO 究極の絆 グリフォン

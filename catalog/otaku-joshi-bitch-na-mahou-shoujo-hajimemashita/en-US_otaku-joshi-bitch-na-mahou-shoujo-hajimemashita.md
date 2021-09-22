@@ -1,5 +1,7 @@
 # Otaku Joshi, Bitch na Mahou Shoujo Hajimemashita
 
+![otaku-joshi-bitch-na-mahou-shoujo-hajimemashita](https://cdn.myanimelist.net/images/manga/2/171235.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Uchuu Senkan Tiramisù
 
+![uchuu-senkan-tiramisu](https://cdn.myanimelist.net/images/anime/1864/93615.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 宇宙戦艦ティラミス

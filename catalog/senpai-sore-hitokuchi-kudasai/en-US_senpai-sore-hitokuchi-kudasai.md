@@ -1,5 +1,7 @@
 # Senpai, Sore Hitokuchi Kudasai!
 
+![senpai-sore-hitokuchi-kudasai](https://cdn.myanimelist.net/images/manga/2/188939.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 34

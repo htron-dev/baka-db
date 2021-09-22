@@ -1,5 +1,7 @@
 # Rebecca
 
+![rebecca](https://cdn.myanimelist.net/images/anime/1190/106238.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: レベッカ

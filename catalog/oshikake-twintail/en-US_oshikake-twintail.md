@@ -1,5 +1,7 @@
 # Oshikake Twintail
 
+![oshikake-twintail](https://cdn.myanimelist.net/images/manga/3/189901.jpg)
+
 -   **type**: manga
 -   **original-name**: おしかけツインテール
 -   **start-date**: 2014-07-17

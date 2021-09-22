@@ -1,5 +1,7 @@
 # Don't Believe Her
 
+![dont-believe-her](https://cdn.myanimelist.net/images/manga/3/70765.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 -   **original-name**: 그녀를 믿지마세요

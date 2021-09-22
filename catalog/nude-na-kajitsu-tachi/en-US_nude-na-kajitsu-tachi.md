@@ -1,5 +1,7 @@
 # Nude na Kajitsu-tachi
 
+![nude-na-kajitsu-tachi](https://cdn.myanimelist.net/images/manga/2/189099.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

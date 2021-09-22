@@ -1,5 +1,7 @@
 # Huaichun Zaijian!
 
+![huaichun-zaijian](https://cdn.myanimelist.net/images/manga/3/176874.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 90

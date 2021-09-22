@@ -1,5 +1,7 @@
 # Bellaire-ke no Ai no Jubaku
 
+![bellaire-ke-no-ai-no-jubaku](https://cdn.myanimelist.net/images/manga/1/227682.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ベレア家の愛の呪縛

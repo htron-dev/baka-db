@@ -1,5 +1,7 @@
 # Seijo-sama wo Amayaka Shitai!: Tadashi Yuusha, Omae wa Dame da
 
+![seijo-sama-wo-amayaka-shitai-tadashi-yuusha-omae-wa-dame-da](https://cdn.myanimelist.net/images/manga/3/241471.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Jujutsushi wa Yuusha ni Narenai
 
+![jujutsushi-wa-yuusha-ni-narenai](https://cdn.myanimelist.net/images/manga/1/195788.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 呪術師は勇者になれない
 -   **start-date**: 2017-05-23

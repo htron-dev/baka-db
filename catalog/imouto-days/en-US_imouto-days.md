@@ -1,5 +1,7 @@
 # Imouto Days
 
+![imouto-days](https://cdn.myanimelist.net/images/manga/3/199545.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 26

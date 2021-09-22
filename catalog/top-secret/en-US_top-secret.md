@@ -1,5 +1,7 @@
 # Top Secret
 
+![top-secret](https://cdn.myanimelist.net/images/manga/1/164139.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 22

@@ -1,5 +1,7 @@
 # Majimoji Rurumo
 
+![majimoji-rurumo](https://cdn.myanimelist.net/images/manga/2/122543.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 42

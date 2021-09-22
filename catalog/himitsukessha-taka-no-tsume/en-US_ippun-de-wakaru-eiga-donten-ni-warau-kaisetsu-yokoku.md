@@ -1,5 +1,7 @@
 # Ippun de Wakaru Eiga "Donten ni Warau" Kaisetsu Yokoku
 
+![ippun-de-wakaru-eiga-donten-ni-warau-kaisetsu-yokoku](https://cdn.myanimelist.net/images/anime/1650/90488.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 1 分でわかる映画「曇天に笑う」　解説予告

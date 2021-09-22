@@ -1,5 +1,7 @@
 # JK to Kateikyoushi
 
+![jk-to-kateikyoushi](https://cdn.myanimelist.net/images/manga/3/239840.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 79

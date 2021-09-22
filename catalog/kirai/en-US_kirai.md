@@ -1,5 +1,7 @@
 # Kirai
 
+![kirai](https://cdn.myanimelist.net/images/manga/3/12201.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 41

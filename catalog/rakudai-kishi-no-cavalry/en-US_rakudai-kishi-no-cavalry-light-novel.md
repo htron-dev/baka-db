@@ -1,5 +1,7 @@
 # Rakudai Kishi no Cavalry
 
+![rakudai-kishi-no-cavalry](https://cdn.myanimelist.net/images/manga/2/157992.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 落第騎士の英雄譚《キャバルリィ》
 -   **start-date**: 2013-07-13

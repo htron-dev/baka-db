@@ -1,5 +1,7 @@
 # Stitch!: Piko Kara no Chousenjou
 
+![stitch-piko-kara-no-chousenjou](https://cdn.myanimelist.net/images/anime/5/24822.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: スティッチ！ピーコからの挑戦状

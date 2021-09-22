@@ -1,5 +1,7 @@
 # Alice Binetsu 38°C - We are Tsubasagaoka D.C.
 
+![alice-binetsu-38-c-we-are-tsubasagaoka-d-c](https://cdn.myanimelist.net/images/manga/3/83777.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: アリス微熱 38℃〜We are 翼が丘 D.C.〜

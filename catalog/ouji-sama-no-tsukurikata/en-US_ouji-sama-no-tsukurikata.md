@@ -1,5 +1,7 @@
 # Ouji-sama no Tsukurikata
 
+![ouji-sama-no-tsukurikata](https://cdn.myanimelist.net/images/manga/5/19239.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

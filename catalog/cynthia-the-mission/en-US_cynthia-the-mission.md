@@ -1,5 +1,7 @@
 # Cynthia the Mission
 
+![cynthia-the-mission](https://cdn.myanimelist.net/images/manga/3/55141.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 43

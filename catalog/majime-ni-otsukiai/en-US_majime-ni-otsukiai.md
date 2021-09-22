@@ -1,5 +1,7 @@
 # Majime ni Otsukiai
 
+![majime-ni-otsukiai](https://cdn.myanimelist.net/images/manga/3/243766.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

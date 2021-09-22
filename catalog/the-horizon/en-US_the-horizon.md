@@ -1,5 +1,7 @@
 # The Horizon
 
+![the-horizon](https://cdn.myanimelist.net/images/manga/1/229331.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 21

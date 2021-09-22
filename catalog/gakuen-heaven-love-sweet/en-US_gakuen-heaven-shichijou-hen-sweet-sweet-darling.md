@@ -1,5 +1,7 @@
 # Gakuen Heaven: Shichijou-hen - Sweet Sweet Darling!
 
+![gakuen-heaven-shichijou-hen-sweet-sweet-darling](https://cdn.myanimelist.net/images/manga/1/22110.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

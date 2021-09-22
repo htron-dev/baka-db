@@ -1,5 +1,7 @@
 # SKET Dance: Tettei Bunseki Special
 
+![sket-dance-tettei-bunseki-special](https://cdn.myanimelist.net/images/anime/11/29695.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: スケットダンス 徹底分析スペシャル

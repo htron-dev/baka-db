@@ -1,5 +1,7 @@
 # Tooi Hi no Chou
 
+![tooi-hi-no-chou](https://cdn.myanimelist.net/images/manga/2/33952.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

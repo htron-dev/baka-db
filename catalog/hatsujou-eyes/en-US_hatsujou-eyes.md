@@ -1,5 +1,7 @@
 # Hatsujou Eyes
 
+![hatsujou-eyes](https://cdn.myanimelist.net/images/manga/2/72517.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

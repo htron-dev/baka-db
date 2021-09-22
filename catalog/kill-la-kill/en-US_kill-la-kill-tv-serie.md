@@ -1,5 +1,7 @@
 # Kill la Kill
 
+![kill-la-kill](https://cdn.myanimelist.net/images/anime/1464/111943.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: キルラキル

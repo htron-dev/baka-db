@@ -1,5 +1,7 @@
 # Princess Lover! Picture Drama
 
+![princess-lover-picture-drama](https://cdn.myanimelist.net/images/anime/4/18207.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: プリンセスラバー!

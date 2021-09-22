@@ -1,5 +1,7 @@
 # Duel Masters: Lunatic God Saga
 
+![duel-masters-lunatic-god-saga](https://cdn.myanimelist.net/images/manga/2/113863.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

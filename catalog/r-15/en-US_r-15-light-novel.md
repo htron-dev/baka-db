@@ -1,5 +1,7 @@
 # R-15
 
+![r-15](https://cdn.myanimelist.net/images/manga/1/37962.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 11
 -   **original-name**: R-15

@@ -1,5 +1,7 @@
 # Yagi-kun to Mei-san
 
+![yagi-kun-to-mei-san](https://cdn.myanimelist.net/images/manga/3/179780.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

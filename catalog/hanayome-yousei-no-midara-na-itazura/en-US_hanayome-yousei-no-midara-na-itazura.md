@@ -1,5 +1,7 @@
 # Hanayome Yousei no Midara na Itazura
 
+![hanayome-yousei-no-midara-na-itazura](https://cdn.myanimelist.net/images/manga/1/192494.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

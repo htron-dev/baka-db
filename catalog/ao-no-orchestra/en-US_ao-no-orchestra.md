@@ -1,5 +1,7 @@
 # Ao no Orchestra
 
+![ao-no-orchestra](https://cdn.myanimelist.net/images/manga/2/199906.jpg)
+
 -   **type**: manga
 -   **original-name**: 青のオーケストラ
 -   **start-date**: 2017-04-25

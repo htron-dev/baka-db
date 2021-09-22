@@ -1,5 +1,7 @@
 # Hakoiri no Musume
 
+![hakoiri-no-musume](https://cdn.myanimelist.net/images/manga/3/165069.jpg)
+
 -   **type**: manga
 -   **original-name**: ハコイリのムスメ
 -   **start-date**: 2015-03-26

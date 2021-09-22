@@ -1,5 +1,7 @@
 # Cold Fever
 
+![cold-fever](https://cdn.myanimelist.net/images/manga/3/30520.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

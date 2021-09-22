@@ -1,5 +1,7 @@
 # Funny Pets 2nd Season
 
+![funny-pets-2nd-season](https://cdn.myanimelist.net/images/anime/13/58491.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: Funny Pets 2nd シーズン

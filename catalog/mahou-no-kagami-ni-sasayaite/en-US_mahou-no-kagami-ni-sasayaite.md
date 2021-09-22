@@ -1,5 +1,7 @@
 # Mahou no Kagami ni Sasayaite
 
+![mahou-no-kagami-ni-sasayaite](https://cdn.myanimelist.net/images/manga/3/39252.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

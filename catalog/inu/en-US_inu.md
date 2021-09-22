@@ -1,5 +1,7 @@
 # Inu
 
+![inu](https://cdn.myanimelist.net/images/manga/1/179530.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 65

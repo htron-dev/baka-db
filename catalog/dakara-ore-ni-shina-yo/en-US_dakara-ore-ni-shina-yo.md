@@ -1,5 +1,7 @@
 # Dakara Ore ni Shina yo
 
+![dakara-ore-ni-shina-yo](https://cdn.myanimelist.net/images/manga/1/35500.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

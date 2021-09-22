@@ -1,5 +1,7 @@
 # Gin no Toe Shoes
 
+![gin-no-toe-shoes](https://cdn.myanimelist.net/images/manga/2/83116.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 銀のトウシューズ

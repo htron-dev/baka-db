@@ -1,5 +1,7 @@
 # Fune wo Amu
 
+![fune-wo-amu](https://cdn.myanimelist.net/images/anime/5/81624.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: 舟を編む
@@ -29,4 +31,4 @@ Mitsuya Majime works in Genbu Publishing's sales division, yet he has poor socia
 -   [Official Site](http://www.funewoamu.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11997)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=18698)
--   [Wikipedia](<https://en.wikipedia.org/wiki/The_Great_Passage_(anime)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/The_Great_Passage_%28anime%29)

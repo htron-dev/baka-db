@@ -1,5 +1,7 @@
 # Allure
 
+![allure](https://cdn.myanimelist.net/images/manga/1/152343.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

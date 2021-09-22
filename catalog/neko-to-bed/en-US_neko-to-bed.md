@@ -1,5 +1,7 @@
 # Neko to Bed
 
+![neko-to-bed](https://cdn.myanimelist.net/images/manga/1/245407.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

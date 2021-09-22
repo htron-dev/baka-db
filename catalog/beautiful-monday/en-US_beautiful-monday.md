@@ -1,5 +1,7 @@
 # Beautiful Monday
 
+![beautiful-monday](https://cdn.myanimelist.net/images/manga/3/203936.jpg)
+
 -   **type**: manga
 -   **original-name**: ビューティフル・マンデー
 -   **start-date**: 2016-06-08

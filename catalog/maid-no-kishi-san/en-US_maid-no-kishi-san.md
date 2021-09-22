@@ -1,5 +1,7 @@
 # Maid no Kishi-san
 
+![maid-no-kishi-san](https://cdn.myanimelist.net/images/manga/2/235948.jpg)
+
 -   **type**: manga
 -   **original-name**: メイドの岸さん
 -   **start-date**: 2020-05-05

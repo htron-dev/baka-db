@@ -1,5 +1,7 @@
 # Nanbaka: Shusseki Bangou no Tsuita Baka-tachi!
 
+![nanbaka-shusseki-bangou-no-tsuita-baka-tachi](https://cdn.myanimelist.net/images/anime/1685/104697.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ナンバカ 出席番号のついたバカたち!

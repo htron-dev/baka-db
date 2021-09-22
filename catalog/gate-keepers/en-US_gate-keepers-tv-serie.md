@@ -1,5 +1,7 @@
 # Gate Keepers
 
+![gate-keepers](https://cdn.myanimelist.net/images/anime/12/15226.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ゲートキーパーズ

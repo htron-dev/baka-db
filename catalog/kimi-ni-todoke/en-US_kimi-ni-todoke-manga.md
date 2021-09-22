@@ -1,5 +1,7 @@
 # Kimi ni Todoke
 
+![kimi-ni-todoke](https://cdn.myanimelist.net/images/manga/1/168283.jpg)
+
 -   **type**: manga
 -   **volumes**: 30
 -   **chapters**: 125

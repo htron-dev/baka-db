@@ -1,5 +1,7 @@
 # Buzzer Beater
 
+![buzzer-beater](https://cdn.myanimelist.net/images/manga/3/201886.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 80

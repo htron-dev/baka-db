@@ -1,5 +1,7 @@
 # Wedding Auction: Sono Kaori wa Hanayome wo Yuuwaku suru
 
+![wedding-auction-sono-kaori-wa-hanayome-wo-yuuwaku-suru](https://cdn.myanimelist.net/images/manga/1/182733.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Elemental Counselor: Hiyokko Hoshimamori to Seireikai
 
+![elemental-counselor-hiyokko-hoshimamori-to-seireikai](https://cdn.myanimelist.net/images/manga/1/247432.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

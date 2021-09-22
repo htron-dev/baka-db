@@ -1,5 +1,7 @@
 # Kansaijin to Fukumen Satsujinki: Sex shite Ii kara Korosantoite!
 
+![kansaijin-to-fukumen-satsujinki-sex-shite-ii-kara-korosantoite](https://cdn.myanimelist.net/images/manga/2/245715.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

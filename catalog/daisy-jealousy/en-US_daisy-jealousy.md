@@ -1,5 +1,7 @@
 # Daisy Jealousy
 
+![daisy-jealousy](https://cdn.myanimelist.net/images/manga/3/226294.jpg)
+
 -   **type**: manga
 -   **original-name**: Daisy Jealousy
 -   **start-date**: 2019-03-07

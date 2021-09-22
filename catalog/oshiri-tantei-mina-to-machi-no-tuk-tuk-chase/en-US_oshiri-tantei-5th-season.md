@@ -1,5 +1,7 @@
 # Oshiri Tantei 5th Season
 
+![oshiri-tantei-5th-season](https://cdn.myanimelist.net/images/anime/1378/113506.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: おしりたんてい
@@ -12,7 +14,6 @@
 
 -   mystery
 -   comedy
-
 -   fantasy
 
 ## Sinopse

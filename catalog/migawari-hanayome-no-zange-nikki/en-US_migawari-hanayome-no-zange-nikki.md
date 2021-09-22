@@ -1,5 +1,7 @@
 # Migawari Hanayome no Zange Nikki
 
+![migawari-hanayome-no-zange-nikki](https://cdn.myanimelist.net/images/manga/3/217869.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

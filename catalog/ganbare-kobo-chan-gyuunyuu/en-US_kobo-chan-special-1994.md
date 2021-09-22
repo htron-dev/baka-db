@@ -1,5 +1,7 @@
 # Kobo-chan Special (1994)
 
+![kobo-chan-special-1994](https://cdn.myanimelist.net/images/anime/1462/99318.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: コボちゃんスペシャル
@@ -10,7 +12,6 @@
 ## Tags
 
 -   comedy
-
 -   school
 -   slice-of-life
 

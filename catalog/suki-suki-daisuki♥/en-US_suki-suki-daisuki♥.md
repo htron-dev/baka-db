@@ -1,5 +1,7 @@
 # Suki Suki Daisuki♥
 
+![suki-suki-daisuki♥](https://cdn.myanimelist.net/images/manga/1/149377.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

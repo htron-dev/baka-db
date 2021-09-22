@@ -1,5 +1,7 @@
 # Sako to Honoka: Bunretsu Saibou Narkissos
 
+![sako-to-honoka-bunretsu-saibou-narkissos](https://cdn.myanimelist.net/images/manga/3/247959.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

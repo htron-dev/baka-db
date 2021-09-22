@@ -1,5 +1,7 @@
 # Ojousama, Ookami ni wa Kiwotsukete
 
+![ojousama-ookami-ni-wa-kiwotsukete](https://cdn.myanimelist.net/images/manga/1/142913.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

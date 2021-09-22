@@ -1,5 +1,7 @@
 # Mistelteen no Mahou
 
+![mistelteen-no-mahou](https://cdn.myanimelist.net/images/manga/1/24783.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ミストルティンの魔法

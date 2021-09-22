@@ -1,5 +1,7 @@
 # High School DxD OVA
 
+![high-school-dx-d-ova](https://cdn.myanimelist.net/images/anime/13/63561.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: ハイスクール D×D OVA

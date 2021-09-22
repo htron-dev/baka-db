@@ -1,5 +1,7 @@
 # Bunbuku Chagama
 
+![bunbuku-chagama](https://cdn.myanimelist.net/images/anime/6/63901.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 文福茶釜

@@ -1,5 +1,7 @@
 # Iede Oujo no Taihen na Vacance
 
+![iede-oujo-no-taihen-na-vacance](https://cdn.myanimelist.net/images/manga/1/187179.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

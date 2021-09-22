@@ -1,5 +1,7 @@
 # Gedo Senki
 
+![gedo-senki](https://cdn.myanimelist.net/images/manga/4/16290.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ゲド戦記

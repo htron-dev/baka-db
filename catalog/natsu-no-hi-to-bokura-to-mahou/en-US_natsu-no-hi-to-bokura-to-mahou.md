@@ -1,5 +1,7 @@
 # Natsu no Hi to, Bokura to, Mahou
 
+![natsu-no-hi-to-bokura-to-mahou](https://cdn.myanimelist.net/images/manga/2/117045.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: 夏の日と、ぼくらと、魔法

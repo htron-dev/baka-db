@@ -1,5 +1,7 @@
 # Ningen no Inai Kuni
 
+![ningen-no-inai-kuni](https://cdn.myanimelist.net/images/manga/2/244991.jpg)
+
 -   **type**: manga
 -   **original-name**: 人間のいない国
 -   **start-date**: 2019-10-25

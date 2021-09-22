@@ -1,5 +1,7 @@
 # Senkai no Thetis
 
+![senkai-no-thetis](https://cdn.myanimelist.net/images/manga/2/174472.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 戦海のテティス

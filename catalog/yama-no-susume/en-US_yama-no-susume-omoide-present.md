@@ -1,5 +1,7 @@
 # Yama no Susume: Omoide Present
 
+![yama-no-susume-omoide-present](https://cdn.myanimelist.net/images/anime/1559/93810.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ヤマノススメ おもいでプレゼント

@@ -1,5 +1,7 @@
 # Niko wa Kamisama ni Nani Sareru?
 
+![niko-wa-kamisama-ni-nani-sareru](https://cdn.myanimelist.net/images/manga/1/184883.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 8

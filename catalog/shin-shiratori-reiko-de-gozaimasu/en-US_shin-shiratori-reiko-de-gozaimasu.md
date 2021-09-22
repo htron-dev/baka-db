@@ -1,5 +1,7 @@
 # Shin Shiratori Reiko de Gozaimasu
 
+![shin-shiratori-reiko-de-gozaimasu](https://cdn.myanimelist.net/images/manga/1/9375.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 25

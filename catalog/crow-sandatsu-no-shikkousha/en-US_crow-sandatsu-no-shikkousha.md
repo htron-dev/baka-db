@@ -1,5 +1,7 @@
 # Crow: Sandatsu no Shikkousha
 
+![crow-sandatsu-no-shikkousha](https://cdn.myanimelist.net/images/manga/2/125025.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: クロウ　簒奪の執行者

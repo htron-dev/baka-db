@@ -1,5 +1,7 @@
 # BioMeat: Nectar
 
+![bio-meat-nectar](https://cdn.myanimelist.net/images/manga/1/4707.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 105

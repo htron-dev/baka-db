@@ -1,5 +1,7 @@
 # Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama shiteiru
 
+![ore-no-nounai-sentakushi-ga-gakuen-love-comedy-wo-zenryoku-de-jama-shiteiru](https://cdn.myanimelist.net/images/manga/2/158067.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 23

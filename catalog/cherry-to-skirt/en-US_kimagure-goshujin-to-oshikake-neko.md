@@ -1,5 +1,7 @@
 # Kimagure Goshujin to Oshikake Neko
 
+![kimagure-goshujin-to-oshikake-neko](https://cdn.myanimelist.net/images/manga/1/224574.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

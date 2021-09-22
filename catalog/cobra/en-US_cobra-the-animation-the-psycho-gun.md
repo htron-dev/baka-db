@@ -1,5 +1,7 @@
 # Cobra The Animation: The Psycho-Gun
 
+![cobra-the-animation-the-psycho-gun](https://cdn.myanimelist.net/images/anime/1592/96818.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: COBRA THE ANIMATION ザ・サイコガン

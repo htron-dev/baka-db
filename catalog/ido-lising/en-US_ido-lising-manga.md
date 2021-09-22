@@ -1,5 +1,7 @@
 # Ido-Lising!
 
+![ido-lising](https://cdn.myanimelist.net/images/manga/3/131567.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

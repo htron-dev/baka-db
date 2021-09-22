@@ -1,5 +1,7 @@
 # Shounen Shoujo Romance
 
+![shounen-shoujo-romance](https://cdn.myanimelist.net/images/manga/5/200574.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

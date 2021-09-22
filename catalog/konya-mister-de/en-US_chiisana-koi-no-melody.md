@@ -1,5 +1,7 @@
 # Chiisana Koi no Melody
 
+![chiisana-koi-no-melody](https://cdn.myanimelist.net/images/manga/2/44337.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Iryuu: Team Medical Dragon
 
+![iryuu-team-medical-dragon](https://cdn.myanimelist.net/images/manga/2/197743.jpg)
+
 -   **type**: manga
 -   **volumes**: 25
 -   **chapters**: 210

@@ -1,5 +1,7 @@
 # Pi Po Pa Po Patrol-kun
 
+![pi-po-pa-po-patrol-kun](https://cdn.myanimelist.net/images/anime/12/5740.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 65
 -   **original-name**: ピポパポパトルくん

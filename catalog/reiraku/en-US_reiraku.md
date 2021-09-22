@@ -1,5 +1,7 @@
 # Reiraku
 
+![reiraku](https://cdn.myanimelist.net/images/manga/1/202532.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

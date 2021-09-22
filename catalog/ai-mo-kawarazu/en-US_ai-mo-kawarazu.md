@@ -1,5 +1,7 @@
 # Ai mo Kawarazu
 
+![ai-mo-kawarazu](https://cdn.myanimelist.net/images/manga/3/224380.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

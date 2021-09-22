@@ -1,5 +1,7 @@
 # Daigo Tokusou
 
+![daigo-tokusou](https://cdn.myanimelist.net/images/manga/3/166193.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

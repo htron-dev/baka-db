@@ -1,5 +1,7 @@
 # Afureru Kurai ni Oboresasete
 
+![afureru-kurai-ni-oboresasete](https://cdn.myanimelist.net/images/manga/3/10871.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: あふれるくらいに溺れさせて

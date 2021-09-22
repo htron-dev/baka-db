@@ -1,5 +1,7 @@
 # Shitsuren Biyoushitsu
 
+![shitsuren-biyoushitsu](https://cdn.myanimelist.net/images/manga/3/38695.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

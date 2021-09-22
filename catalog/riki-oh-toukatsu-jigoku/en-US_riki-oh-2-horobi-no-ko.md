@@ -1,5 +1,7 @@
 # Riki-Oh 2: Horobi no Ko
 
+![riki-oh-2-horobi-no-ko](https://cdn.myanimelist.net/images/anime/8/82906.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 力王 2 「滅びの子」

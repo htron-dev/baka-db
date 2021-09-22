@@ -1,5 +1,7 @@
 # Galism: Renai Joutou 3 Shimai
 
+![galism-renai-joutou-3-shimai](https://cdn.myanimelist.net/images/manga/1/130919.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 28

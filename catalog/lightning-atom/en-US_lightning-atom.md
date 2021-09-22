@@ -1,5 +1,7 @@
 # Lightning Atom
 
+![lightning-atom](https://cdn.myanimelist.net/images/anime/9/45160.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 번개아텀
@@ -9,7 +11,6 @@
 ## Tags
 
 -   action
-
 -   super-power
 
 ## Sinopse

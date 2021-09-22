@@ -1,5 +1,7 @@
 # Noein: Mou Hitori no Kimi e
 
+![noein-mou-hitori-no-kimi-e](https://cdn.myanimelist.net/images/anime/1/584.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ノエイン もうひとりの君へ

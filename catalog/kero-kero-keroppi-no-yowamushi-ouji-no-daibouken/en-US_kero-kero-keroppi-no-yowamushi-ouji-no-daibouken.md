@@ -1,5 +1,7 @@
 # Kero Kero Keroppi no Yowamushi-ouji no Daibouken
 
+![kero-kero-keroppi-no-yowamushi-ouji-no-daibouken](https://cdn.myanimelist.net/images/anime/10/58953.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: けろけろけろっぴのよわむし王子の大冒険

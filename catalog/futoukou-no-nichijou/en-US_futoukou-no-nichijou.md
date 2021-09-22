@@ -1,5 +1,7 @@
 # Futoukou no Nichijou
 
+![futoukou-no-nichijou](https://cdn.myanimelist.net/images/manga/2/192101.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 37

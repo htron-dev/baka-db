@@ -1,5 +1,7 @@
 # Koko e, Okaeri
 
+![koko-e-okaeri](https://cdn.myanimelist.net/images/manga/2/186192.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

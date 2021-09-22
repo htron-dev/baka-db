@@ -1,5 +1,7 @@
 # Love App
 
+![love-app](https://cdn.myanimelist.net/images/manga/1/212634.jpg)
+
 -   **type**: manga
 -   **original-name**: ラブアプリ
 -   **start-date**: 2018-03-19

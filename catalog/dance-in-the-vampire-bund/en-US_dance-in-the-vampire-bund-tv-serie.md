@@ -1,5 +1,7 @@
 # Dance in the Vampire Bund
 
+![dance-in-the-vampire-bund](https://cdn.myanimelist.net/images/anime/10/23561.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ダンスインザヴァンパイアバンド

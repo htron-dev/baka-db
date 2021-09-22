@@ -1,5 +1,7 @@
 # Seiken to Maryuu no Sekai
 
+![seiken-to-maryuu-no-sekai](https://cdn.myanimelist.net/images/manga/2/177480.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 32

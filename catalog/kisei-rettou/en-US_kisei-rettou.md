@@ -1,5 +1,7 @@
 # Kisei Rettou
 
+![kisei-rettou](https://cdn.myanimelist.net/images/manga/2/235434.jpg)
+
 -   **type**: manga
 -   **original-name**: 寄生列島
 -   **start-date**: 2020-03-02

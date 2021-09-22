@@ -1,5 +1,7 @@
 # Tokidoki Bosotto Russia-go de Dereru Tonari no Aalya-san
 
+![tokidoki-bosotto-russia-go-de-dereru-tonari-no-aalya-san](https://cdn.myanimelist.net/images/manga/3/241840.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 時々ボソッとロシア語でデレる隣のアーリャさん
 -   **start-date**: 2021-02-27

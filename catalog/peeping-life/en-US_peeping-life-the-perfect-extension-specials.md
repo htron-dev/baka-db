@@ -1,5 +1,7 @@
 # Peeping Life: The Perfect Extension Specials
 
+![peeping-life-the-perfect-extension-specials](https://cdn.myanimelist.net/images/anime/10/77234.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: Peeping Life ‐The Perfect Extension‐

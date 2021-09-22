@@ -1,5 +1,7 @@
 # Nozoki Ana
 
+![nozoki-ana](https://cdn.myanimelist.net/images/anime/7/46247.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ノ・ゾ・キ・ア・ナ

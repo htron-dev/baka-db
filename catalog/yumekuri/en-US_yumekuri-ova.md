@@ -1,5 +1,7 @@
 # Yumekuri
 
+![yumekuri](https://cdn.myanimelist.net/images/anime/6/42753.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ゆめくり

@@ -1,5 +1,7 @@
 # Sword Art Online SS: Calibur SS-han
 
+![sword-art-online-ss-calibur-ss-han](https://cdn.myanimelist.net/images/manga/2/159662.jpg)
+
 -   **type**: light-novel
 -   **chapters**: 3
 -   **original-name**: ソードアート・オンライン SS キャリバー SS（すこししっぱい）版

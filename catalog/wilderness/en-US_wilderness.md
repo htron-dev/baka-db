@@ -1,5 +1,7 @@
 # Wilderness
 
+![wilderness](https://cdn.myanimelist.net/images/manga/4/76253.jpg)
+
 -   **type**: manga
 -   **original-name**: ワイルダネス
 -   **start-date**: 2000-08-19

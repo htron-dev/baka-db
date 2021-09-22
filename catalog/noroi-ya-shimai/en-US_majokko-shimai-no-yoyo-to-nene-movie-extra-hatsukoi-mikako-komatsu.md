@@ -1,5 +1,7 @@
 # Majokko Shimai no Yoyo to Nene Movie Extra: Hatsukoi - Mikako Komatsu
 
+![majokko-shimai-no-yoyo-to-nene-movie-extra-hatsukoi-mikako-komatsu](https://cdn.myanimelist.net/images/anime/11/64181.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 魔女っこ姉妹のヨヨとネネ「初恋」

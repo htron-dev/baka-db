@@ -1,5 +1,7 @@
 # Overlord: Ple Ple Pleiades 3
 
+![overlord-ple-ple-pleiades-3](https://cdn.myanimelist.net/images/anime/1386/93157.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: オーバーロード　ぷれぷれぷれあです 3

@@ -1,5 +1,7 @@
 # Shi Huang Zhi Shen
 
+![shi-huang-zhi-shen](https://cdn.myanimelist.net/images/anime/1530/107502.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 嗜谎之神

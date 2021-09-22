@@ -1,5 +1,7 @@
 # Kana Kana Kazoku
 
+![kana-kana-kazoku](https://cdn.myanimelist.net/images/anime/3/64007.jpg)
+
 -   **type**: ona
 -   **original-name**: かなかなかぞく
 -   **start-date**: 2014-07-26

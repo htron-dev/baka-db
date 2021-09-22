@@ -1,5 +1,7 @@
 # Kimi to Ishindenshin!
 
+![kimi-to-ishindenshin](https://cdn.myanimelist.net/images/manga/3/224553.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

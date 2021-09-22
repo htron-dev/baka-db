@@ -1,5 +1,7 @@
 # Makai Toshi Shinjuku
 
+![makai-toshi-shinjuku](https://cdn.myanimelist.net/images/anime/10/25337.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 魔界都市〈新宿〉

@@ -1,5 +1,7 @@
 # Donguri Mori e
 
+![donguri-mori-e](https://cdn.myanimelist.net/images/anime/13/64409.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: どんぐり森へ

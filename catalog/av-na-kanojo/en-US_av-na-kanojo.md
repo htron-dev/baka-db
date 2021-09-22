@@ -1,5 +1,7 @@
 # AV na Kanojo
 
+![av-na-kanojo](https://cdn.myanimelist.net/images/manga/3/182638.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

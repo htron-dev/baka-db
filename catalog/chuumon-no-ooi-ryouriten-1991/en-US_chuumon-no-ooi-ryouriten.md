@@ -1,5 +1,7 @@
 # Chuumon no Ooi Ryouriten
 
+![chuumon-no-ooi-ryouriten](https://cdn.myanimelist.net/images/anime/13/36605.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 注文の多い料理店

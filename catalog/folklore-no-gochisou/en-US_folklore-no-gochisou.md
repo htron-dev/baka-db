@@ -1,5 +1,7 @@
 # Folklore no Gochisou
 
+![folklore-no-gochisou](https://cdn.myanimelist.net/images/manga/1/238005.jpg)
+
 -   **type**: manga
 -   **original-name**: フォークロアのごちそう
 -   **start-date**: 2019-10-21

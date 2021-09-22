@@ -1,5 +1,7 @@
 # Hakanaki Rakuen
 
+![hakanaki-rakuen](https://cdn.myanimelist.net/images/manga/1/208440.jpg)
+
 -   **type**: manga
 -   **original-name**: ハカナキ楽園
 -   **start-date**: 2018-02-26

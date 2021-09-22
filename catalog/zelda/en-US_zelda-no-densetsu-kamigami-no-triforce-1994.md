@@ -1,5 +1,7 @@
 # Zelda no Densetsu: Kamigami no Triforce (1994)
 
+![zelda-no-densetsu-kamigami-no-triforce-1994](https://cdn.myanimelist.net/images/manga/4/95639.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Shounen Tsubaki
 
+![shounen-tsubaki](https://cdn.myanimelist.net/images/manga/1/158662.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

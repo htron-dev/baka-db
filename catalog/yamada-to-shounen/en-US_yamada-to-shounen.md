@@ -1,5 +1,7 @@
 # Yamada to Shounen
 
+![yamada-to-shounen](https://cdn.myanimelist.net/images/manga/3/165493.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

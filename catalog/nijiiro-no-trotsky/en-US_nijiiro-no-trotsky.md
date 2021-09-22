@@ -1,5 +1,7 @@
 # Nijiiro no Trotsky
 
+![nijiiro-no-trotsky](https://cdn.myanimelist.net/images/manga/3/166517.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 65

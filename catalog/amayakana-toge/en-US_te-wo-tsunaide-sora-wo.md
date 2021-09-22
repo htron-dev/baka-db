@@ -1,5 +1,7 @@
 # Te wo Tsunaide, Sora wo
 
+![te-wo-tsunaide-sora-wo](https://cdn.myanimelist.net/images/manga/3/192866.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

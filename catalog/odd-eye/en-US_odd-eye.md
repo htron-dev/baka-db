@@ -1,5 +1,7 @@
 # Odd Eye
 
+![odd-eye](https://cdn.myanimelist.net/images/manga/3/44235.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: オッド・アイ

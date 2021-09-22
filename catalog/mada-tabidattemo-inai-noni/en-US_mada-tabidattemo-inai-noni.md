@@ -1,5 +1,7 @@
 # Mada Tabidattemo Inai noni
 
+![mada-tabidattemo-inai-noni](https://cdn.myanimelist.net/images/manga/2/167573.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

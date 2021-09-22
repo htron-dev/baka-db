@@ -1,5 +1,7 @@
 # Houkago Kindan no Lesson
 
+![houkago-kindan-no-lesson](https://cdn.myanimelist.net/images/manga/1/4649.jpg)
+
 -   **type**: manga
 -   **original-name**: 放課後～禁断の Lesson ～
 

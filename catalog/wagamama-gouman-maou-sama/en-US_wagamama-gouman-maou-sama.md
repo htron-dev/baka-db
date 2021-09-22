@@ -1,5 +1,7 @@
 # Wagamama Gouman Maou-sama!?
 
+![wagamama-gouman-maou-sama](https://cdn.myanimelist.net/images/manga/3/164112.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ワガママ・ゴーマン・魔王様!?

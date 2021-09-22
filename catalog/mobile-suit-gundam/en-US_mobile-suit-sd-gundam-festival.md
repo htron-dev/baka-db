@@ -1,5 +1,7 @@
 # Mobile Suit SD Gundam Festival
 
+![mobile-suit-sd-gundam-festival](https://cdn.myanimelist.net/images/anime/12/25192.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 機動戦士 SD ガンダムまつり

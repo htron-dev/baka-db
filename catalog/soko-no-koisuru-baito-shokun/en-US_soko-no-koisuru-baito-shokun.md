@@ -1,5 +1,7 @@
 # Soko no Koisuru Baito Shokun!
 
+![soko-no-koisuru-baito-shokun](https://cdn.myanimelist.net/images/manga/2/244927.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

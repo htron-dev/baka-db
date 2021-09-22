@@ -1,5 +1,7 @@
 # Mitsuboshi Colors
 
+![mitsuboshi-colors](https://cdn.myanimelist.net/images/manga/2/155669.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 72

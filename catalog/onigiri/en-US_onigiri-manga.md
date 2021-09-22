@@ -1,5 +1,7 @@
 # Onigiri
 
+![onigiri](https://cdn.myanimelist.net/images/manga/2/127581.jpg)
+
 -   **type**: manga
 -   **original-name**: 鬼斬
 -   **start-date**: 2013-10-25

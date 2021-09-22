@@ -1,5 +1,7 @@
 # Moon Princess -Red Moon-
 
+![moon-princess-red-moon](https://cdn.myanimelist.net/images/manga/1/70315.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

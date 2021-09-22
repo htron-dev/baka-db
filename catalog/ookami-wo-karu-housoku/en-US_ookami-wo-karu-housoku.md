@@ -1,5 +1,7 @@
 # Ookami wo Karu Housoku
 
+![ookami-wo-karu-housoku](https://cdn.myanimelist.net/images/manga/3/244212.jpg)
+
 -   **type**: manga
 -   **original-name**: 狼を狩る法則
 -   **start-date**: 2016-11-30

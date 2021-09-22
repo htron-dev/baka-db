@@ -1,5 +1,7 @@
 # Renai 3-jigen Debut: 30-sai Otaku Mangaka, Kekkon e no Michi.
 
+![renai-3-jigen-debut-30-sai-otaku-mangaka-kekkon-e-no-michi](https://cdn.myanimelist.net/images/manga/2/128591.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Chotto Ima kara Shigoto Yametekuru
 
+![chotto-ima-kara-shigoto-yametekuru](https://cdn.myanimelist.net/images/manga/1/195147.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

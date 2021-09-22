@@ -1,5 +1,7 @@
 # Rose Garden
 
+![rose-garden](https://cdn.myanimelist.net/images/manga/2/21599.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 2
 

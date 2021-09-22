@@ -1,5 +1,7 @@
 # Seitokai wa Megami wo Sagashiteru
 
+![seitokai-wa-megami-wo-sagashiteru](https://cdn.myanimelist.net/images/manga/1/230521.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

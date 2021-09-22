@@ -1,5 +1,7 @@
 # Iron Kid
 
+![iron-kid](https://cdn.myanimelist.net/images/anime/13/55295.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 아이언 키드

@@ -1,5 +1,7 @@
 # AIKa R-16: School Mission
 
+![ai-ka-r-16-school-mission](https://cdn.myanimelist.net/images/manga/3/111945.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

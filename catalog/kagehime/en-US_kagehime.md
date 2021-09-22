@@ -1,5 +1,7 @@
 # Kagehime
 
+![kagehime](https://cdn.myanimelist.net/images/manga/2/76155.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 影姫

@@ -1,5 +1,7 @@
 # Sahara no Kurowashi
 
+![sahara-no-kurowashi](https://cdn.myanimelist.net/images/manga/3/239476.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Xing Wushen Jue
 
+![xing-wushen-jue](https://cdn.myanimelist.net/images/anime/1883/111365.jpg)
+
 -   **type**: ona
 -   **episodes**: 40
 -   **original-name**: 星武神诀

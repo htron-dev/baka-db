@@ -1,5 +1,7 @@
 # Tasogare no Toki
 
+![tasogare-no-toki](https://cdn.myanimelist.net/images/manga/3/162709.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 30

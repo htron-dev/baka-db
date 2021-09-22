@@ -1,5 +1,7 @@
 # Crack Hound
 
+![crack-hound](https://cdn.myanimelist.net/images/manga/1/22715.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

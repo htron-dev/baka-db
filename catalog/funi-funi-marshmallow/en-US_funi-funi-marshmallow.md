@@ -1,5 +1,7 @@
 # Funi Funi Marshmallow
 
+![funi-funi-marshmallow](https://cdn.myanimelist.net/images/anime/11/84312.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: フニフニマシュマロ

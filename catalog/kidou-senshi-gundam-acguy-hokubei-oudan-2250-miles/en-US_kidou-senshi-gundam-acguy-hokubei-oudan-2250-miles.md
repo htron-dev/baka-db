@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam: Acguy Hokubei Oudan 2250 Miles
 
+![kidou-senshi-gundam-acguy-hokubei-oudan-2250-miles](https://cdn.myanimelist.net/images/manga/3/147403.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

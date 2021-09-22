@@ -1,5 +1,7 @@
 # Wanko ni Kuchizuke
 
+![wanko-ni-kuchizuke](https://cdn.myanimelist.net/images/manga/2/77333.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 24

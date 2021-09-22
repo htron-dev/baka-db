@@ -1,5 +1,7 @@
 # Ajin Part 2: Shoutotsu
 
+![ajin-part-2-shoutotsu](https://cdn.myanimelist.net/images/anime/9/79908.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 亜人　第２部「衝突」

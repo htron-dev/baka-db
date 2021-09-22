@@ -1,5 +1,7 @@
 # Gakkougurashi! Otayori
 
+![gakkougurashi-otayori](https://cdn.myanimelist.net/images/manga/3/234856.jpg)
+
 -   **type**: manga
 -   **original-name**: がっこうぐらし！～おたより～
 -   **start-date**: 2020-06-24

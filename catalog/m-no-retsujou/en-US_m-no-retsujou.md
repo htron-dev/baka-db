@@ -1,5 +1,7 @@
 # M no Retsujou
 
+![m-no-retsujou](https://cdn.myanimelist.net/images/manga/5/169122.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

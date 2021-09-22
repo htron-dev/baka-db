@@ -1,5 +1,7 @@
 # Orichalcum Reycal Duo
 
+![orichalcum-reycal-duo](https://cdn.myanimelist.net/images/manga/1/176733.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

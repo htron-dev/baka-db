@@ -1,5 +1,7 @@
 # Release the Spyce: Naisho no Mission
 
+![release-the-spyce-naisho-no-mission](https://cdn.myanimelist.net/images/manga/3/220051.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

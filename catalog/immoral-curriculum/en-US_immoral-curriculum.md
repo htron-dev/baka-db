@@ -1,5 +1,7 @@
 # Immoral Curriculum
 
+![immoral-curriculum](https://cdn.myanimelist.net/images/manga/3/222762.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

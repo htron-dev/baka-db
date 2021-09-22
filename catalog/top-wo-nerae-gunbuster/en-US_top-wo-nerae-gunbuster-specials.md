@@ -1,5 +1,7 @@
 # Top wo Nerae! Gunbuster Specials
 
+![top-wo-nerae-gunbuster-specials](https://cdn.myanimelist.net/images/anime/13/23833.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: トップをねらえ！ GunBuster

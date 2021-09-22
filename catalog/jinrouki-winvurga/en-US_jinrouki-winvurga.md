@@ -1,5 +1,7 @@
 # Jinrouki Winvurga
 
+![jinrouki-winvurga](https://cdn.myanimelist.net/images/manga/1/190002.jpg)
+
 -   **type**: manga
 -   **original-name**: 人狼機ウィンヴルガ
 -   **start-date**: 2016-08-19

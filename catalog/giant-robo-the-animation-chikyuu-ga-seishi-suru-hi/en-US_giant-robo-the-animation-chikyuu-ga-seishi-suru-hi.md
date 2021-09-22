@@ -1,5 +1,7 @@
 # Giant Robo the Animation: Chikyuu ga Seishi Suru Hi
 
+![giant-robo-the-animation-chikyuu-ga-seishi-suru-hi](https://cdn.myanimelist.net/images/anime/12/27657.jpg)
+
 -   **type**: ova
 -   **episodes**: 7
 -   **original-name**: ジャイアントロボ THE ANIMATION 地球が静止する日

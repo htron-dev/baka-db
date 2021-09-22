@@ -1,5 +1,7 @@
 # Papa datte, Shitai
 
+![papa-datte-shitai](https://cdn.myanimelist.net/images/manga/2/233795.jpg)
+
 -   **type**: manga
 -   **original-name**: パパだって、したい
 -   **start-date**: 2017-04-24

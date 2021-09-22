@@ -1,5 +1,7 @@
 # Kanchigai Hime to Usotsuki Shimobe
 
+![kanchigai-hime-to-usotsuki-shimobe](https://cdn.myanimelist.net/images/manga/1/72445.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

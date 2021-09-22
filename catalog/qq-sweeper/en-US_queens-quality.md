@@ -1,5 +1,7 @@
 # Queen's Quality
 
+![queens-quality](https://cdn.myanimelist.net/images/manga/1/172099.jpg)
+
 -   **type**: manga
 -   **original-name**: クイーンズ・クオリティ
 -   **start-date**: 2015-07-13

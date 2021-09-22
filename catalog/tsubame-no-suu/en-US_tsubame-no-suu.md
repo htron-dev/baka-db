@@ -1,5 +1,7 @@
 # Tsubame no Suu
 
+![tsubame-no-suu](https://cdn.myanimelist.net/images/manga/3/53983.jpg)
+
 -   **type**: manga
 -   **original-name**: つばめのすぅ
 -   **start-date**: 2010-12-20

@@ -1,5 +1,7 @@
 # Neko de Gomen!
 
+![neko-de-gomen](https://cdn.myanimelist.net/images/manga/3/36595.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 51

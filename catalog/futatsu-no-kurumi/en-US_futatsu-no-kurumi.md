@@ -1,5 +1,7 @@
 # Futatsu no Kurumi
 
+![futatsu-no-kurumi](https://cdn.myanimelist.net/images/anime/9/18829.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ふたつの胡桃

@@ -1,5 +1,7 @@
 # Senpai, Comm-shou na Onnanoko wa Iya desu ka?
 
+![senpai-comm-shou-na-onnanoko-wa-iya-desu-ka](https://cdn.myanimelist.net/images/manga/1/175502.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: せんぱい、コミュ障な女の子はイヤですか？

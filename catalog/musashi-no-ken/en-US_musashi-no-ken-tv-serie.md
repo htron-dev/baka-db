@@ -1,5 +1,7 @@
 # Musashi no Ken
 
+![musashi-no-ken](https://cdn.myanimelist.net/images/anime/5/22398.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 72
 -   **original-name**: 六三四の剣

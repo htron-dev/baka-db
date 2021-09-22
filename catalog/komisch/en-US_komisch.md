@@ -1,5 +1,7 @@
 # Komisch
 
+![komisch](https://cdn.myanimelist.net/images/manga/3/11781.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: コーミッシュ

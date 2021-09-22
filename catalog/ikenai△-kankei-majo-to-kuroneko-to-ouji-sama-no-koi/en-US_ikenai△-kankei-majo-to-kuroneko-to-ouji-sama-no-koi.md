@@ -1,5 +1,7 @@
 # Ikenai△Kankei: Majo to Kuroneko to Ouji-sama no Koi
 
+![ikenai△-kankei-majo-to-kuroneko-to-ouji-sama-no-koi](https://cdn.myanimelist.net/images/manga/3/194800.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

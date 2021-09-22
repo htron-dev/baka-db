@@ -1,5 +1,7 @@
 # Eigou Kaiki no Lily Materia
 
+![eigou-kaiki-no-lily-materia](https://cdn.myanimelist.net/images/manga/3/163329.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 16

@@ -1,5 +1,7 @@
 # Saint Beast: Ikusen no Hiru to Yoru-hen
 
+![saint-beast-ikusen-no-hiru-to-yoru-hen](https://cdn.myanimelist.net/images/anime/3/83179.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: セイント・ビースト～幾千の昼と夜 編～

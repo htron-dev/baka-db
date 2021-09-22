@@ -1,5 +1,7 @@
 # Hitodenashi no Kokoro
 
+![hitodenashi-no-kokoro](https://cdn.myanimelist.net/images/manga/1/240164.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

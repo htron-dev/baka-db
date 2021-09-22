@@ -1,5 +1,7 @@
 # Meigyoku no Almaine
 
+![meigyoku-no-almaine](https://cdn.myanimelist.net/images/manga/1/177084.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Xinghe Zhizun
 
+![xinghe-zhizun](https://cdn.myanimelist.net/images/anime/1266/115772.jpg)
+
 -   **type**: ona
 -   **episodes**: 45
 -   **original-name**: 星河至尊

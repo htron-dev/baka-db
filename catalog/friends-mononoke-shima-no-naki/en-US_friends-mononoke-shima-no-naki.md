@@ -1,5 +1,7 @@
 # Friends: Mononoke Shima no Naki
 
+![friends-mononoke-shima-no-naki](https://cdn.myanimelist.net/images/anime/2/35815.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: friends -フレンズ- もののけ島のナキ

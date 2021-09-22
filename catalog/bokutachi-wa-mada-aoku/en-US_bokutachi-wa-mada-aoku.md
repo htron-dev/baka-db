@@ -1,5 +1,7 @@
 # Bokutachi wa Mada Aoku
 
+![bokutachi-wa-mada-aoku](https://cdn.myanimelist.net/images/manga/3/245625.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

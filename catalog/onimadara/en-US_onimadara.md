@@ -1,5 +1,7 @@
 # Onimadara
 
+![onimadara](https://cdn.myanimelist.net/images/manga/3/191481.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

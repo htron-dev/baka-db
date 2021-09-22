@@ -1,5 +1,7 @@
 # Kemomimi Shouji
 
+![kemomimi-shouji](https://cdn.myanimelist.net/images/manga/3/20557.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

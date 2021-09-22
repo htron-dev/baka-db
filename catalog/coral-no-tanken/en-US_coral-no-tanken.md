@@ -1,5 +1,7 @@
 # Coral no Tanken
 
+![coral-no-tanken](https://cdn.myanimelist.net/images/anime/5/78335.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: コラルの探検
@@ -10,7 +12,6 @@
 ## Tags
 
 -   adventure
-
 -   music
 
 ## Sinopse

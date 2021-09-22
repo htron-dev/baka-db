@@ -1,5 +1,7 @@
 # Detective Conan Movie 19: The Hellfire Sunflowers
 
+![detective-conan-movie-19-the-hellfire-sunflowers](https://cdn.myanimelist.net/images/anime/5/73618.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 名探偵コナン 業火の向日葵

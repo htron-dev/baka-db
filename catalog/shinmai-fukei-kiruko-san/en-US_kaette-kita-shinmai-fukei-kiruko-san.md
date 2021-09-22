@@ -1,5 +1,7 @@
 # Kaette Kita! Shinmai Fukei Kiruko-san
 
+![kaette-kita-shinmai-fukei-kiruko-san](https://cdn.myanimelist.net/images/manga/1/150414.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

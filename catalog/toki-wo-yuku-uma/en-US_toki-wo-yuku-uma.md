@@ -1,5 +1,7 @@
 # Toki wo Yuku Uma
 
+![toki-wo-yuku-uma](https://cdn.myanimelist.net/images/manga/1/7617.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 33

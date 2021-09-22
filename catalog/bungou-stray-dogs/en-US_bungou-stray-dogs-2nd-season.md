@@ -1,5 +1,7 @@
 # Bungou Stray Dogs 2nd Season
 
+![bungou-stray-dogs-2nd-season](https://cdn.myanimelist.net/images/anime/5/88585.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 文豪ストレイドッグス

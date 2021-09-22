@@ -1,5 +1,7 @@
 # Emma
 
+![emma](https://cdn.myanimelist.net/images/manga/2/170311.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: エマ

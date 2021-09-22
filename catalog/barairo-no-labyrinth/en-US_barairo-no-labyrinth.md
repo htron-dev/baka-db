@@ -1,5 +1,7 @@
 # Barairo no Labyrinth
 
+![barairo-no-labyrinth](https://cdn.myanimelist.net/images/manga/1/152180.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 薔薇色のラビリンス

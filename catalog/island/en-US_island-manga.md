@@ -1,5 +1,7 @@
 # Island
 
+![island](https://cdn.myanimelist.net/images/manga/2/176271.jpg)
+
 -   **type**: manga
 -   **original-name**: ISLAND
 -   **start-date**: 2016-04-21

@@ -1,5 +1,7 @@
 # Match Uri no Shoujo
 
+![match-uri-no-shoujo](https://cdn.myanimelist.net/images/anime/5/32635.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: マッチ売りの少女

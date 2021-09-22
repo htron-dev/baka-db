@@ -1,5 +1,7 @@
 # Hanayome wa Mou Ichido Koi wo Suru
 
+![hanayome-wa-mou-ichido-koi-wo-suru](https://cdn.myanimelist.net/images/manga/2/201918.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 花嫁はもう一度恋をする

@@ -1,5 +1,7 @@
 # Kami nomi zo Shiru Sekai: Megami-hen
 
+![kami-nomi-zo-shiru-sekai-megami-hen](https://cdn.myanimelist.net/images/anime/6/51949.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 神のみぞ知るセカイ 女神篇

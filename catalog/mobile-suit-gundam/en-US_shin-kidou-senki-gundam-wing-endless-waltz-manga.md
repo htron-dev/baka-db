@@ -1,5 +1,7 @@
 # Shin Kidou Senki Gundam Wing: Endless Waltz
 
+![shin-kidou-senki-gundam-wing-endless-waltz](https://cdn.myanimelist.net/images/manga/1/131547.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

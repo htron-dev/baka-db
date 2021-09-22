@@ -1,5 +1,7 @@
 # Shikushikushikushi
 
+![shikushikushikushi](https://cdn.myanimelist.net/images/manga/2/202952.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 24

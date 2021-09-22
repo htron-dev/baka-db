@@ -1,5 +1,7 @@
 # Mirai Keisatsu Urashiman
 
+![mirai-keisatsu-urashiman](https://cdn.myanimelist.net/images/anime/1605/91989.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: 未来警察ウラシマン

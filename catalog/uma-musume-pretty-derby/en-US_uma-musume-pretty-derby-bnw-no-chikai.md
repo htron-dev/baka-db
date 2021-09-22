@@ -1,5 +1,7 @@
 # Uma Musume: Pretty Derby - BNW no Chikai
 
+![uma-musume-pretty-derby-bnw-no-chikai](https://cdn.myanimelist.net/images/anime/1733/93479.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: ウマ娘 プリティーダービー BNW の誓い

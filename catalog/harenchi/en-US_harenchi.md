@@ -1,5 +1,7 @@
 # Harenchi
 
+![harenchi](https://cdn.myanimelist.net/images/manga/2/25882.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

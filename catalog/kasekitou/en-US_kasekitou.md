@@ -1,5 +1,7 @@
 # Kasekitou
 
+![kasekitou](https://cdn.myanimelist.net/images/manga/1/36197.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 化石島

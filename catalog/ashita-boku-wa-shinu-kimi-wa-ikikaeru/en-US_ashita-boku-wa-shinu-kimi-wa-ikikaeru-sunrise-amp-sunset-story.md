@@ -1,5 +1,7 @@
 # Ashita, Boku wa Shinu. Kimi wa Ikikaeru.: Sunrise &amp; Sunset Story
 
+![ashita-boku-wa-shinu-kimi-wa-ikikaeru-sunrise-amp-sunset-story](https://cdn.myanimelist.net/images/manga/1/244585.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 明日、ボクは死ぬ。キミは生き返る。 ~Sunrise & Sunset Story~

@@ -1,5 +1,7 @@
 # Hime ja Nakereba Nagutteru
 
+![hime-ja-nakereba-nagutteru](https://cdn.myanimelist.net/images/manga/2/197710.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

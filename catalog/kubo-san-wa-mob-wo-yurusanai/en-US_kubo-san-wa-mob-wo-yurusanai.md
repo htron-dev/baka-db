@@ -1,5 +1,7 @@
 # Kubo-san wa Mob wo Yurusanai
 
+![kubo-san-wa-mob-wo-yurusanai](https://cdn.myanimelist.net/images/manga/3/227284.jpg)
+
 -   **type**: manga
 -   **original-name**: 久保さんは僕〈モブ〉を許さない
 -   **start-date**: 2019-10-24

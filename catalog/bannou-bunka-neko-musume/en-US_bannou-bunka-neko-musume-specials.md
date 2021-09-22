@@ -1,5 +1,7 @@
 # Bannou Bunka Neko-Musume Specials
 
+![bannou-bunka-neko-musume-specials](https://cdn.myanimelist.net/images/anime/7/5124.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 万能文化猫娘

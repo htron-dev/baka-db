@@ -1,5 +1,7 @@
 # Spain kara Kita Akuma
 
+![spain-kara-kita-akuma](https://cdn.myanimelist.net/images/manga/1/247053.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: スペインから来た悪魔

@@ -1,5 +1,7 @@
 # Wa Wa Wa Wappi-chan 2nd Season
 
+![wa-wa-wa-wappi-chan-2nd-season](https://cdn.myanimelist.net/images/anime/9/79394.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 和・和・和 ワッピちゃん 第 2 シリーズ

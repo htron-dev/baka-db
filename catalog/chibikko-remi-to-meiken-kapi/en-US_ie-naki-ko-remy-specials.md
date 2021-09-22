@@ -1,5 +1,7 @@
 # Ie Naki Ko Remy Specials
 
+![ie-naki-ko-remy-specials](https://cdn.myanimelist.net/images/anime/12/28750.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 家なき子レミ

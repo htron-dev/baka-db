@@ -1,5 +1,7 @@
 # Baby Pink KISS
 
+![baby-pink-kiss](https://cdn.myanimelist.net/images/manga/2/20742.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

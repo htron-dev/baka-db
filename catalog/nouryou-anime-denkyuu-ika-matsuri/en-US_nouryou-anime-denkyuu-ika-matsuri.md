@@ -1,5 +1,7 @@
 # Nouryou Anime: Denkyuu Ika Matsuri
 
+![nouryou-anime-denkyuu-ika-matsuri](https://cdn.myanimelist.net/images/anime/13/73673.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 納涼アニメ 電球烏賊祭

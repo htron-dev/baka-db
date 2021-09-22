@@ -1,5 +1,7 @@
 # First Romance
 
+![first-romance](https://cdn.myanimelist.net/images/manga/1/29154.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ファーストロマンス; ファースト・ロマンス

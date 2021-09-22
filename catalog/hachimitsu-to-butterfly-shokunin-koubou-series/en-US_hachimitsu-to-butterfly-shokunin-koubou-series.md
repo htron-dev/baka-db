@@ -1,5 +1,7 @@
 # Hachimitsu to Butterfly: Shokunin Koubou Series
 
+![hachimitsu-to-butterfly-shokunin-koubou-series](https://cdn.myanimelist.net/images/manga/1/133533.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

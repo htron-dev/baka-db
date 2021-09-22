@@ -1,5 +1,7 @@
 # Mi Duo De Tuya Riji
 
+![mi-duo-de-tuya-riji](https://cdn.myanimelist.net/images/anime/1871/115600.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 30
 -   **original-name**: 米多的涂鸦日记

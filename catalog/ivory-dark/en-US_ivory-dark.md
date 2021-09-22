@@ -1,5 +1,7 @@
 # Ivory Dark
 
+![ivory-dark](https://cdn.myanimelist.net/images/manga/3/160094.jpg)
+
 -   **type**: manga
 -   **original-name**: IVORY DARK
 -   **start-date**: 2015-04-20

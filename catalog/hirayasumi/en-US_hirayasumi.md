@@ -1,5 +1,7 @@
 # Hirayasumi
 
+![hirayasumi](https://cdn.myanimelist.net/images/manga/2/249992.jpg)
+
 -   **type**: manga
 -   **original-name**: ひらやすみ
 -   **start-date**: 2021-04-26

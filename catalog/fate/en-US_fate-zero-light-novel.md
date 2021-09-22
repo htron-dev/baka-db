@@ -1,5 +1,7 @@
 # Fate/Zero
 
+![fate-zero](https://cdn.myanimelist.net/images/manga/3/186073.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Chibi Tomo!
 
+![chibi-tomo](https://cdn.myanimelist.net/images/manga/2/164610.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: ちびとも！

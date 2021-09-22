@@ -1,5 +1,7 @@
 # Ike! Ina-chuu Takkyuubu
 
+![ike-ina-chuu-takkyuubu](https://cdn.myanimelist.net/images/manga/3/75933.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 159

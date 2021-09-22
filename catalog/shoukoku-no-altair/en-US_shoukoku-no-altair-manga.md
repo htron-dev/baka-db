@@ -1,5 +1,7 @@
 # Shoukoku no Altair
 
+![shoukoku-no-altair](https://cdn.myanimelist.net/images/manga/1/172104.jpg)
+
 -   **type**: manga
 -   **original-name**: 将国のアルタイル
 -   **start-date**: 2007-07-26

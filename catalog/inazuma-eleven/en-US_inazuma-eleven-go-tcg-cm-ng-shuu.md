@@ -1,5 +1,7 @@
 # Inazuma Eleven Go: TCG CM NG-shuu
 
+![inazuma-eleven-go-tcg-cm-ng-shuu](https://cdn.myanimelist.net/images/anime/11/60875.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: イナズマイレブン GO TCG CM NG 集

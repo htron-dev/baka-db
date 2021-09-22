@@ -1,5 +1,7 @@
 # Chrono Ma:Gia: Toki no Shoukansha to Hakujin no Hanayome
 
+![chrono-ma-gia-toki-no-shoukansha-to-hakujin-no-hanayome](https://cdn.myanimelist.net/images/manga/1/223277.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Dragon Half
 
+![dragon-half](https://cdn.myanimelist.net/images/manga/3/104187.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 66

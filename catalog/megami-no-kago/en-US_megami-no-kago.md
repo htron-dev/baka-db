@@ -1,5 +1,7 @@
 # Megami no Kago
 
+![megami-no-kago](https://cdn.myanimelist.net/images/manga/2/51923.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: メガミのカゴ

@@ -1,5 +1,7 @@
 # Soko wa Nemuri no Mori
 
+![soko-wa-nemuri-no-mori](https://cdn.myanimelist.net/images/manga/3/7765.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

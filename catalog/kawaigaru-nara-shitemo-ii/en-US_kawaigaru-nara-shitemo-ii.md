@@ -1,5 +1,7 @@
 # Kawaigaru nara Shitemo Ii
 
+![kawaigaru-nara-shitemo-ii](https://cdn.myanimelist.net/images/manga/1/246036.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

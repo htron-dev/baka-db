@@ -1,5 +1,7 @@
 # Seito Shokun! Kokoro ni Midori no Neckerchief wo
 
+![seito-shokun-kokoro-ni-midori-no-neckerchief-wo](https://cdn.myanimelist.net/images/anime/13/47527.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 生徒諸君! 心に緑のネッカチーフを

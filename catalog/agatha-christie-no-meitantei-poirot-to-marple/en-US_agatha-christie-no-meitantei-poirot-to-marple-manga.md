@@ -1,5 +1,7 @@
 # Agatha Christie no Meitantei Poirot to Marple
 
+![agatha-christie-no-meitantei-poirot-to-marple](https://cdn.myanimelist.net/images/manga/2/76963.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

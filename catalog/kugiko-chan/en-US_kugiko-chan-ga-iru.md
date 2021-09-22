@@ -1,5 +1,7 @@
 # Kugiko-chan ga Iru!
 
+![kugiko-chan-ga-iru](https://cdn.myanimelist.net/images/manga/3/231051.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

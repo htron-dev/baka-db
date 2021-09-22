@@ -1,5 +1,7 @@
 # Shiro Madoushi Syrup-san
 
+![shiro-madoushi-syrup-san](https://cdn.myanimelist.net/images/manga/3/224987.jpg)
+
 -   **type**: manga
 -   **original-name**: 白魔導師シロップさん
 -   **start-date**: 2019-08-09

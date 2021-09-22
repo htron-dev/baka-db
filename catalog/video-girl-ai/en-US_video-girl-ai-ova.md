@@ -1,5 +1,7 @@
 # Video Girl Ai
 
+![video-girl-ai](https://cdn.myanimelist.net/images/anime/2/22130.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: 電影少女 VIDEO・GIRL・AI

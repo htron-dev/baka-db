@@ -1,5 +1,7 @@
 # Kami nomi zo Shiru Sekai: Flag 0
 
+![kami-nomi-zo-shiru-sekai-flag-0](https://cdn.myanimelist.net/images/anime/11/26824.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 神のみぞ知るセカイ: Flag 0

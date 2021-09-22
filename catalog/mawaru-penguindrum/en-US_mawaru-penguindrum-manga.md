@@ -1,5 +1,7 @@
 # Mawaru Penguindrum
 
+![mawaru-penguindrum](https://cdn.myanimelist.net/images/manga/3/167525.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 34

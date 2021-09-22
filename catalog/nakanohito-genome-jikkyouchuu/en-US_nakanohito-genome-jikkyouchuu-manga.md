@@ -1,5 +1,7 @@
 # Nakanohito Genome [Jikkyouchuu]
 
+![nakanohito-genome-jikkyouchuu](https://cdn.myanimelist.net/images/manga/3/158885.jpg)
+
 -   **type**: manga
 -   **original-name**: ナカノヒトゲノム【実況中】
 -   **start-date**: 2014-10-27

@@ -1,5 +1,7 @@
 # Log Horizon 4-koma Anthology
 
+![log-horizon-4-koma-anthology](https://cdn.myanimelist.net/images/manga/2/166339.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Cheloaf-san no Mahou Ningyou
 
+![cheloaf-san-no-mahou-ningyou](https://cdn.myanimelist.net/images/manga/1/201695.jpg)
+
 -   **type**: manga
 -   **original-name**: チェローフさんの魔法人形
 -   **start-date**: 2017-03-18

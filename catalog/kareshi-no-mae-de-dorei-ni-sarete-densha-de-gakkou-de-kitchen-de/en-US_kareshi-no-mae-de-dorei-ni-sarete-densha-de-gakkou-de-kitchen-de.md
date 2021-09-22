@@ -1,5 +1,7 @@
 # Kareshi no Mae de Dorei ni Sarete: Densha de Gakkou de Kitchen de
 
+![kareshi-no-mae-de-dorei-ni-sarete-densha-de-gakkou-de-kitchen-de](https://cdn.myanimelist.net/images/manga/1/193717.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 11

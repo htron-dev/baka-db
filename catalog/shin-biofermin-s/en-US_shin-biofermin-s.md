@@ -1,5 +1,7 @@
 # Shin Biofermin S
 
+![shin-biofermin-s](https://cdn.myanimelist.net/images/anime/7/83923.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 新ビオフェルミン S

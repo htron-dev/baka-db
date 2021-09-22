@@ -1,5 +1,7 @@
 # Clannad
 
+![clannad](https://cdn.myanimelist.net/images/manga/3/6142.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 45

@@ -1,5 +1,7 @@
 # Seiso na Furi wo Shitemasu ga
 
+![seiso-na-furi-wo-shitemasu-ga](https://cdn.myanimelist.net/images/manga/1/227249.jpg)
+
 -   **type**: manga
 -   **original-name**: 清楚なフリをしてますが
 -   **start-date**: 2019-06-25

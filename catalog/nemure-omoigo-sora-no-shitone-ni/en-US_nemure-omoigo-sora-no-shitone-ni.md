@@ -1,5 +1,7 @@
 # Nemure Omoigo, Sora no Shitone ni
 
+![nemure-omoigo-sora-no-shitone-ni](https://cdn.myanimelist.net/images/anime/3/82924.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ねむれ思い子 空のしとねに

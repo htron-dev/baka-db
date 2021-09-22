@@ -1,5 +1,7 @@
 # Qimiao Mengjing
 
+![qimiao-mengjing](https://cdn.myanimelist.net/images/anime/1297/115510.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 奇妙梦境

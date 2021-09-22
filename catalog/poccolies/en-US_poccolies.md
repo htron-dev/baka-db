@@ -1,5 +1,7 @@
 # Poccolies
 
+![poccolies](https://cdn.myanimelist.net/images/anime/1806/105533.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: ぽっこりーず

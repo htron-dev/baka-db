@@ -1,5 +1,7 @@
 # Attack No.1
 
+![attack-no-1](https://cdn.myanimelist.net/images/manga/2/13640.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: アタック No.1

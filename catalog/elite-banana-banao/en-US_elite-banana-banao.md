@@ -1,5 +1,7 @@
 # Elite Banana Banao
 
+![elite-banana-banao](https://cdn.myanimelist.net/images/anime/2/82042.jpg)
+
 -   **type**: ona
 -   **episodes**: 9
 -   **original-name**: エリートバナナ バナ夫

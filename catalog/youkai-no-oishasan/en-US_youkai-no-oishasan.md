@@ -1,5 +1,7 @@
 # Youkai no Oishasan
 
+![youkai-no-oishasan](https://cdn.myanimelist.net/images/manga/2/208633.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 103

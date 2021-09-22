@@ -1,5 +1,7 @@
 # Cardcaptor Sakura: Clear Card-hen Recap
 
+![cardcaptor-sakura-clear-card-hen-recap](https://cdn.myanimelist.net/images/anime/1600/91758.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: カードキャプターさくら クリアカード編　総集編

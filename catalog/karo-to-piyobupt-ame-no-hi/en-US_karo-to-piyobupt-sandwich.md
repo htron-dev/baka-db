@@ -1,5 +1,7 @@
 # Karo to Piyobupt: Sandwich
 
+![karo-to-piyobupt-sandwich](https://cdn.myanimelist.net/images/anime/2/17802.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: カロとピヨブプト　サンドイッチ

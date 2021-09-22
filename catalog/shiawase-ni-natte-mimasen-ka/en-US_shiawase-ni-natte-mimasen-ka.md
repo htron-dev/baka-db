@@ -1,5 +1,7 @@
 # Shiawase ni Natte Mimasen ka?
 
+![shiawase-ni-natte-mimasen-ka](https://cdn.myanimelist.net/images/manga/2/80561.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Boku ga Yuusha de Maou mo Boku de
 
+![boku-ga-yuusha-de-maou-mo-boku-de](https://cdn.myanimelist.net/images/manga/1/226910.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

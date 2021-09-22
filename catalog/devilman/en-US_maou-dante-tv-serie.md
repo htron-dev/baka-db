@@ -1,5 +1,7 @@
 # Maou Dante
 
+![maou-dante](https://cdn.myanimelist.net/images/anime/5/84849.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 魔王ダンテ

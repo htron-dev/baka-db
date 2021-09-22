@@ -1,5 +1,7 @@
 # Xiong Chumo: Yuanshi Shidai
 
+![xiong-chumo-yuanshi-shidai](https://cdn.myanimelist.net/images/anime/1379/103232.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 熊出沒·原始時代

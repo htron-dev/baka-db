@@ -1,5 +1,7 @@
 # Kakko Warukute Kakkoii Kimi
 
+![kakko-warukute-kakkoii-kimi](https://cdn.myanimelist.net/images/manga/3/22680.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

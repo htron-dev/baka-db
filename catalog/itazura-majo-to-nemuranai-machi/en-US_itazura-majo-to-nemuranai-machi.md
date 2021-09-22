@@ -1,5 +1,7 @@
 # Itazura Majo to Nemuranai Machi
 
+![itazura-majo-to-nemuranai-machi](https://cdn.myanimelist.net/images/anime/3/89169.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: いたずら魔女と眠らない街

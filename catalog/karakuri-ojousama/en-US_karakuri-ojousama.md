@@ -1,5 +1,7 @@
 # Karakuri Ojousama
 
+![karakuri-ojousama](https://cdn.myanimelist.net/images/manga/1/40033.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: からくりお嬢様

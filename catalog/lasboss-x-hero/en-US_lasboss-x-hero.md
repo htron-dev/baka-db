@@ -1,5 +1,7 @@
 # Lasboss x Hero
 
+![lasboss-x-hero](https://cdn.myanimelist.net/images/manga/3/132715.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 19

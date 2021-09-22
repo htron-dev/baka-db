@@ -1,5 +1,7 @@
 # Kodomo no Omocha (TV)
 
+![kodomo-no-omocha-tv](https://cdn.myanimelist.net/images/anime/5/7016.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 102
 -   **original-name**: こどものおもちゃ

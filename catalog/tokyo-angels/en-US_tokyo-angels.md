@@ -1,5 +1,7 @@
 # Tokyo Angels
 
+![tokyo-angels](https://cdn.myanimelist.net/images/manga/3/60617.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 東京 ANGELS

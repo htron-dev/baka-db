@@ -1,5 +1,7 @@
 # Trusty Bell: Chopin no Yume
 
+![trusty-bell-chopin-no-yume](https://cdn.myanimelist.net/images/manga/3/17535.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

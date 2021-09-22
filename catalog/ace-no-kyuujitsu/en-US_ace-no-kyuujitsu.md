@@ -1,5 +1,7 @@
 # Ace no Kyuujitsu
 
+![ace-no-kyuujitsu](https://cdn.myanimelist.net/images/manga/2/91109.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

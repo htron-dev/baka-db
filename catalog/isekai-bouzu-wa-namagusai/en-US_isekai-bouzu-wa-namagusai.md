@@ -1,5 +1,7 @@
 # Isekai Bouzu wa Namagusai
 
+![isekai-bouzu-wa-namagusai](https://cdn.myanimelist.net/images/manga/1/169788.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

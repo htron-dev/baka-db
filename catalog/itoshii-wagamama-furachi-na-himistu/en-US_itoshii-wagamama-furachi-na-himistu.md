@@ -1,5 +1,7 @@
 # Itoshii Wagamama: Furachi na Himistu
 
+![itoshii-wagamama-furachi-na-himistu](https://cdn.myanimelist.net/images/manga/1/192951.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

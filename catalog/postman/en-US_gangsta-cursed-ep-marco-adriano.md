@@ -1,5 +1,7 @@
 # Gangsta:Cursed.: EP_Marco Adriano
 
+![gangsta-cursed-ep-marco-adriano](https://cdn.myanimelist.net/images/manga/3/160088.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 19

@@ -1,5 +1,7 @@
 # Tamiko to Visual-kei to.
 
+![tamiko-to-visual-kei-to](https://cdn.myanimelist.net/images/manga/1/247087.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 41

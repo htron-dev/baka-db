@@ -1,5 +1,7 @@
 # Macaron Daisuki na Onnanoko ga Dounika-Kounika Sennen Ikitsuzukeru Ohanashi.
 
+![macaron-daisuki-na-onnanoko-ga-dounika-kounika-sennen-ikitsuzukeru-ohanashi](https://cdn.myanimelist.net/images/manga/2/135673.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

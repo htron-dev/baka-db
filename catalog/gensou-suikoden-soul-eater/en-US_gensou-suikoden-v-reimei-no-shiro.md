@@ -1,5 +1,7 @@
 # Gensou Suikoden V: Reimei no Shiro
 
+![gensou-suikoden-v-reimei-no-shiro](https://cdn.myanimelist.net/images/manga/2/35074.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 40

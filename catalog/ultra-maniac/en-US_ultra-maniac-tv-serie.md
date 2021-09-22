@@ -1,5 +1,7 @@
 # Ultra Maniac
 
+![ultra-maniac](https://cdn.myanimelist.net/images/anime/8/53571.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ウルトラマニアック

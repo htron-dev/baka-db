@@ -1,5 +1,7 @@
 # NEET Musou: Isekai ni Bishoujo wa Inai
 
+![neet-musou-isekai-ni-bishoujo-wa-inai](https://cdn.myanimelist.net/images/manga/2/177153.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ニート無双～異世界に二次元女子〈びしょうじょ〉はいない

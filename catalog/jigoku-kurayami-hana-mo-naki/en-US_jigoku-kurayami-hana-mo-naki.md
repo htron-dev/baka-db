@@ -1,5 +1,7 @@
 # Jigoku Kurayami Hana mo Naki
 
+![jigoku-kurayami-hana-mo-naki](https://cdn.myanimelist.net/images/manga/3/234816.jpg)
+
 -   **type**: manga
 -   **original-name**: 地獄くらやみ花もなき
 -   **start-date**: 2020-02-04

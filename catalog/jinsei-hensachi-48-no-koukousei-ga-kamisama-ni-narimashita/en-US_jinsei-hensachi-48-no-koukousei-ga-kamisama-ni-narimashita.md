@@ -1,5 +1,7 @@
 # Jinsei Hensachi 48 no Koukousei ga Kamisama ni Narimashita.
 
+![jinsei-hensachi-48-no-koukousei-ga-kamisama-ni-narimashita](https://cdn.myanimelist.net/images/manga/1/176983.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 16

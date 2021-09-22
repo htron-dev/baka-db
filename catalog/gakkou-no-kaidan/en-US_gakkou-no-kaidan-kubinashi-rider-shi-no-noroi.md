@@ -1,5 +1,7 @@
 # Gakkou no Kaidan: Kubinashi Rider!! Shi no Noroi
 
+![gakkou-no-kaidan-kubinashi-rider-shi-no-noroi](https://cdn.myanimelist.net/images/anime/2/74184.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 学校の怪談 首なしライダー!! 死の呪い
@@ -26,4 +28,4 @@ The story focuses on a headless motorcycle rider.
 -   [Official Site](http://pierrot.jp/archives/tv_list_2000/tv_052.html)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=481)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1736)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Ghost_Stories_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Ghost_Stories_%28anime%29)

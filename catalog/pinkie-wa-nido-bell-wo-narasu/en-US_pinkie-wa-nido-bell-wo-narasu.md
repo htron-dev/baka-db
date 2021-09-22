@@ -1,5 +1,7 @@
 # Pinkie wa Nido Bell wo Narasu
 
+![pinkie-wa-nido-bell-wo-narasu](https://cdn.myanimelist.net/images/manga/2/180685.jpg)
+
 -   **type**: manga
 -   **original-name**: ピンキーは二度ベルを鳴らす
 

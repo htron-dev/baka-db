@@ -1,5 +1,7 @@
 # Fuyuu Gakuen no Alice &amp; Shirley
 
+![fuyuu-gakuen-no-alice-amp-shirley](https://cdn.myanimelist.net/images/manga/1/158755.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 26

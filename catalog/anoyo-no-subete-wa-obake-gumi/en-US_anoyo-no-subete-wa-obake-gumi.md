@@ -1,5 +1,7 @@
 # Anoyo no Subete wa, Obake-gumi!
 
+![anoyo-no-subete-wa-obake-gumi](https://cdn.myanimelist.net/images/anime/1762/106451.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: あの世のすべては, おばけぐみっ!

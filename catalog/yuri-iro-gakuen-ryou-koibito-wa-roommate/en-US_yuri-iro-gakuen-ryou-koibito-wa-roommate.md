@@ -1,5 +1,7 @@
 # Yuri-iro Gakuen Ryou: Koibito wa Roommate
 
+![yuri-iro-gakuen-ryou-koibito-wa-roommate](https://cdn.myanimelist.net/images/manga/1/168784.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

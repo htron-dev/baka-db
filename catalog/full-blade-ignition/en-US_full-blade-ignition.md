@@ -1,5 +1,7 @@
 # Full Blade Ignition
 
+![full-blade-ignition](https://cdn.myanimelist.net/images/manga/1/160493.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

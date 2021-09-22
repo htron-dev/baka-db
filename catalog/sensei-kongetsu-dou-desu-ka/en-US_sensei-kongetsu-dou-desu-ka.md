@@ -1,5 +1,7 @@
 # Sensei, Kongetsu Dou desu ka
 
+![sensei-kongetsu-dou-desu-ka](https://cdn.myanimelist.net/images/manga/3/245941.jpg)
+
 -   **type**: manga
 -   **original-name**: 先生、今月どうですか
 -   **start-date**: 2020-08-12

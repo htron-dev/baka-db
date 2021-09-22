@@ -1,5 +1,7 @@
 # Saihate Keisatsu
 
+![saihate-keisatsu](https://cdn.myanimelist.net/images/manga/3/61739.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 最果警察

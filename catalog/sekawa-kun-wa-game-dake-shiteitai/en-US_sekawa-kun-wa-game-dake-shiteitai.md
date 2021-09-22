@@ -1,5 +1,7 @@
 # Sekawa-kun wa Game dake Shiteitai.
 
+![sekawa-kun-wa-game-dake-shiteitai](https://cdn.myanimelist.net/images/manga/2/185687.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 瀬川くんはゲームだけしていたい。
 -   **start-date**: 2016-12-15

@@ -1,5 +1,7 @@
 # Xiangpi Ni Xiao Zhen
 
+![xiangpi-ni-xiao-zhen](https://cdn.myanimelist.net/images/anime/1969/115451.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 365
 -   **original-name**: 橡皮泥小镇

@@ -1,5 +1,7 @@
 # Nabi
 
+![nabi](https://cdn.myanimelist.net/images/manga/3/26596.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 나비
 -   **start-date**: 2006-10-25

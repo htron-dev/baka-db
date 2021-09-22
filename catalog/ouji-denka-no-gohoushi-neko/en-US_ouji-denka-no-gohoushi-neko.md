@@ -1,5 +1,7 @@
 # Ouji Denka no Gohoushi Neko
 
+![ouji-denka-no-gohoushi-neko](https://cdn.myanimelist.net/images/manga/3/95677.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Mikagura Gakuen Kumikyoku: Koushiki Anthology Comic
 
+![mikagura-gakuen-kumikyoku-koushiki-anthology-comic](https://cdn.myanimelist.net/images/manga/2/155033.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

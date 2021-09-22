@@ -1,5 +1,7 @@
 # Zenryaku - Dear
 
+![zenryaku-dear](https://cdn.myanimelist.net/images/manga/3/40556.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

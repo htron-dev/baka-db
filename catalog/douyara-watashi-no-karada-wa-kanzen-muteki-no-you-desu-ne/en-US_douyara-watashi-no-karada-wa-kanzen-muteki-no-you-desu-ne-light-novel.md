@@ -1,5 +1,7 @@
 # Douyara Watashi no Karada wa Kanzen Muteki no you desu ne
 
+![douyara-watashi-no-karada-wa-kanzen-muteki-no-you-desu-ne](https://cdn.myanimelist.net/images/manga/2/201059.jpg)
+
 -   **type**: light-novel
 -   **original-name**: どうやら私の身体は完全無敵のようですね
 -   **start-date**: 2017-08-30

@@ -1,5 +1,7 @@
 # Bocchi ga Harem Guild wo Tsukuru made
 
+![bocchi-ga-harem-guild-wo-tsukuru-made](https://cdn.myanimelist.net/images/manga/3/176156.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

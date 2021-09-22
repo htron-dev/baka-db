@@ -1,5 +1,7 @@
 # Zuori Qing Kong
 
+![zuori-qing-kong](https://cdn.myanimelist.net/images/anime/1895/93644.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 昨日青空

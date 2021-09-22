@@ -1,5 +1,7 @@
 # Present made no Michinori
 
+![present-made-no-michinori](https://cdn.myanimelist.net/images/anime/2/77495.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: プレゼントまでの道のり

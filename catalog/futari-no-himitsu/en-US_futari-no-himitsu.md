@@ -1,5 +1,7 @@
 # Futari no Himitsu
 
+![futari-no-himitsu](https://cdn.myanimelist.net/images/manga/3/64351.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Maou no Hisho
 
+![maou-no-hisho](https://cdn.myanimelist.net/images/manga/1/196083.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔王の秘書
 -   **start-date**: 2016-04-27

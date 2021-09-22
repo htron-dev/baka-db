@@ -1,5 +1,7 @@
 # Juupiki no Kaeru
 
+![juupiki-no-kaeru](https://cdn.myanimelist.net/images/anime/8/67461.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 10 ぴきのかえる

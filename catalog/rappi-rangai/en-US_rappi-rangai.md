@@ -1,5 +1,7 @@
 # Rappi Rangai
 
+![rappi-rangai](https://cdn.myanimelist.net/images/manga/2/157871.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 48

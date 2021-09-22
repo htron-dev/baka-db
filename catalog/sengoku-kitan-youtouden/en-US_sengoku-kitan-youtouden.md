@@ -1,5 +1,7 @@
 # Sengoku Kitan Youtouden
 
+![sengoku-kitan-youtouden](https://cdn.myanimelist.net/images/anime/10/57127.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 戦国奇譚妖刀伝

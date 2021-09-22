@@ -1,5 +1,7 @@
 # Yoizuki no Lady: Butoukai no Fushigi na Koimonogatari
 
+![yoizuki-no-lady-butoukai-no-fushigi-na-koimonogatari](https://cdn.myanimelist.net/images/manga/1/182120.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

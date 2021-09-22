@@ -1,5 +1,7 @@
 # Shinreki no Apocrypha
 
+![shinreki-no-apocrypha](https://cdn.myanimelist.net/images/manga/1/160984.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 21
@@ -18,7 +20,7 @@
 
 ## Authors
 
--   Nidy-2D- (Art)
+-   Nidy-2D(Art)
 -   Aoyama
 -   Amara (Story)
 

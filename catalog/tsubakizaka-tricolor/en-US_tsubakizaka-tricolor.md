@@ -1,5 +1,7 @@
 # Tsubakizaka Tricolor
 
+![tsubakizaka-tricolor](https://cdn.myanimelist.net/images/manga/3/178243.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

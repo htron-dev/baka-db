@@ -1,5 +1,7 @@
 # Hana no En
 
+![hana-no-en](https://cdn.myanimelist.net/images/manga/2/14073.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

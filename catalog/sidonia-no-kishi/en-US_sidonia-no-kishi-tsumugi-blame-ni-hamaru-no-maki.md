@@ -1,5 +1,7 @@
 # Sidonia no Kishi: Tsumugi, "Blame!" ni Hamaru. no Maki
 
+![sidonia-no-kishi-tsumugi-blame-ni-hamaru-no-maki](https://cdn.myanimelist.net/images/manga/3/178652.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: シドニアの騎士 つむぎ、『ブラム!』にハマる。の巻

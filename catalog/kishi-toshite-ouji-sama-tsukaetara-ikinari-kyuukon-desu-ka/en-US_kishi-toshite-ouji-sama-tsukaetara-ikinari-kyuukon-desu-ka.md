@@ -1,5 +1,7 @@
 # Kishi Toshite Ouji-sama Tsukaetara, Ikinari Kyuukon desu ka?
 
+![kishi-toshite-ouji-sama-tsukaetara-ikinari-kyuukon-desu-ka](https://cdn.myanimelist.net/images/manga/1/184117.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

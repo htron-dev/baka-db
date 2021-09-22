@@ -1,5 +1,7 @@
 # Aishiteimasu, Kyouko-san.
 
+![aishiteimasu-kyouko-san](https://cdn.myanimelist.net/images/manga/1/229583.jpg)
+
 -   **type**: manga
 -   **original-name**: 愛しています、キョーコさん
 -   **start-date**: 2019-05-07

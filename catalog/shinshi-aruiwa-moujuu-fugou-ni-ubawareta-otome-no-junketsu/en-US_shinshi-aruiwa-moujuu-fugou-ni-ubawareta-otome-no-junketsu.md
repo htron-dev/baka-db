@@ -1,5 +1,7 @@
 # Shinshi, Aruiwa Moujuu.: Fugou ni Ubawareta Otome no Junketsu
 
+![shinshi-aruiwa-moujuu-fugou-ni-ubawareta-otome-no-junketsu](https://cdn.myanimelist.net/images/manga/1/226938.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

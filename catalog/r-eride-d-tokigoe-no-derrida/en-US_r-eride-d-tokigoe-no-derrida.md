@@ -1,5 +1,7 @@
 # RErideD: Tokigoe no Derrida
 
+![r-eride-d-tokigoe-no-derrida](https://cdn.myanimelist.net/images/anime/1481/95784.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: RErideD－刻越えのデリダ－

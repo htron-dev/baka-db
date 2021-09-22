@@ -1,5 +1,7 @@
 # Hypnosis Mic: Division Rap Battle - side B.B &amp; M.T.C +
 
+![hypnosis-mic-division-rap-battle-side-b-b-amp-m-t-c](https://cdn.myanimelist.net/images/manga/1/250325.jpg)
+
 -   **type**: manga
 -   **original-name**: ヒプノシスマイク -Division Rap Battle- side B.B & M.T.C ＋
 -   **start-date**: 2020-11-26

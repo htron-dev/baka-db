@@ -1,5 +1,7 @@
 # Warui Ko Demo Ii?
 
+![warui-ko-demo-ii](https://cdn.myanimelist.net/images/manga/1/186948.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

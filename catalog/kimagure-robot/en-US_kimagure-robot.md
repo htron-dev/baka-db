@@ -1,5 +1,7 @@
 # Kimagure Robot
 
+![kimagure-robot](https://cdn.myanimelist.net/images/anime/1210/112166.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: きまぐれロボット

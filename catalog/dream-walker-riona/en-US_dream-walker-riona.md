@@ -1,5 +1,7 @@
 # Dream Walker Riona
 
+![dream-walker-riona](https://cdn.myanimelist.net/images/manga/1/15204.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ドリーム・ウォーカーＲＩＯＮＡ

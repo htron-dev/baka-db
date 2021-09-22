@@ -1,5 +1,7 @@
 # Futari no Enbukyoku: Kawareta Hanayome ni Warawanai Hakushaku
 
+![futari-no-enbukyoku-kawareta-hanayome-ni-warawanai-hakushaku](https://cdn.myanimelist.net/images/manga/3/195118.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 二人の円舞曲～買われた花嫁に笑わない伯爵～

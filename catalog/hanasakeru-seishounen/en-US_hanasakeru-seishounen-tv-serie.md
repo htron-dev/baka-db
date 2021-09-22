@@ -1,5 +1,7 @@
 # Hanasakeru Seishounen
 
+![hanasakeru-seishounen](https://cdn.myanimelist.net/images/anime/1094/116584.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: 花咲ける青少年

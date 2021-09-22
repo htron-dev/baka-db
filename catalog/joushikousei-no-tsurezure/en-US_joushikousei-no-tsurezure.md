@@ -1,5 +1,7 @@
 # Joushikousei no Tsurezure
 
+![joushikousei-no-tsurezure](https://cdn.myanimelist.net/images/manga/3/195110.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 28

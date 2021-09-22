@@ -1,5 +1,7 @@
 # Yuki no Yoru no Yume
 
+![yuki-no-yoru-no-yume](https://cdn.myanimelist.net/images/anime/3/67925.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 雪の夜の夢

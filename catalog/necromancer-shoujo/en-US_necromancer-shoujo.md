@@ -1,5 +1,7 @@
 # Necromancer Shoujo
 
+![necromancer-shoujo](https://cdn.myanimelist.net/images/manga/2/230415.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ネクロマンサー少女
 -   **start-date**: 2019-06-28

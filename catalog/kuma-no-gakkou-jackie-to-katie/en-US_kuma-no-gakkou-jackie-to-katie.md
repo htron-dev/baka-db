@@ -1,5 +1,7 @@
 # Kuma no Gakkou: Jackie to Katie
 
+![kuma-no-gakkou-jackie-to-katie](https://cdn.myanimelist.net/images/anime/3/25870.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: くまのがっこう ～ジャッキーとケイティ～

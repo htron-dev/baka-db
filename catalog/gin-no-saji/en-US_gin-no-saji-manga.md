@@ -1,5 +1,7 @@
 # Gin no Saji
 
+![gin-no-saji](https://cdn.myanimelist.net/images/manga/1/231500.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 131

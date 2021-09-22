@@ -1,5 +1,7 @@
 # Yume no Crayon Oukoku
 
+![yume-no-crayon-oukoku](https://cdn.myanimelist.net/images/manga/2/116085.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

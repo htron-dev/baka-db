@@ -1,5 +1,7 @@
 # Devil Survivor 2: Show Your Free Will
 
+![devil-survivor-2-show-your-free-will](https://cdn.myanimelist.net/images/manga/1/186832.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

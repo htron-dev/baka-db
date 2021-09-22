@@ -1,5 +1,7 @@
 # Diabolik Lovers
 
+![diabolik-lovers](https://cdn.myanimelist.net/images/anime/9/51989.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: DIABOLIK LOVERS

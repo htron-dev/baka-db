@@ -1,5 +1,7 @@
 # Omoi no Kakera
 
+![omoi-no-kakera](https://cdn.myanimelist.net/images/manga/3/144565.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 32

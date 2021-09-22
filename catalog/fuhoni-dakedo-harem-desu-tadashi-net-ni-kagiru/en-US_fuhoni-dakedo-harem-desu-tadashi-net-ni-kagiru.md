@@ -1,5 +1,7 @@
 # Fuhoni dakedo Harem desu. Tadashi Net ni Kagiru
 
+![fuhoni-dakedo-harem-desu-tadashi-net-ni-kagiru](https://cdn.myanimelist.net/images/manga/2/162853.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Ling Yu 5th Season
 
+![ling-yu-5th-season](https://cdn.myanimelist.net/images/anime/1070/92961.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 灵域 第五季

@@ -1,5 +1,7 @@
 # Cosmic Baton Girl Comet-san☆
 
+![cosmic-baton-girl-comet-san☆](https://cdn.myanimelist.net/images/anime/1710/95290.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 43
 -   **original-name**: Cosmic Baton Girl コメットさん ☆

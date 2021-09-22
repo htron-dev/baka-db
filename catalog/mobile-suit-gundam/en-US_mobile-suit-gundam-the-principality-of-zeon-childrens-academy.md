@@ -1,5 +1,7 @@
 # Mobile Suit Gundam: The Principality of Zeon Children's Academy
 
+![mobile-suit-gundam-the-principality-of-zeon-childrens-academy](https://cdn.myanimelist.net/images/manga/4/111867.jpg)
+
 -   **type**: manga
 -   **original-name**: ジオン公国幼年学校
 -   **start-date**: 2010-01-26

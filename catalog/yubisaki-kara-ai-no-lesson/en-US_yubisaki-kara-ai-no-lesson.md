@@ -1,5 +1,7 @@
 # Yubisaki kara Ai no Lesson
 
+![yubisaki-kara-ai-no-lesson](https://cdn.myanimelist.net/images/manga/3/194061.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 指先から愛のレッスン

@@ -1,5 +1,7 @@
 # Isekai wa Smartphone to Tomo ni.
 
+![isekai-wa-smartphone-to-tomo-ni](https://cdn.myanimelist.net/images/manga/3/175220.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界はスマートフォンとともに。
 -   **start-date**: 2015-05-22

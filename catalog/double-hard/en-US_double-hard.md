@@ -1,5 +1,7 @@
 # Double Hard
 
+![double-hard](https://cdn.myanimelist.net/images/manga/3/34702.jpg)
+
 -   **type**: manga
 -   **volumes**: 30
 -   **original-name**: ダブル・ハード

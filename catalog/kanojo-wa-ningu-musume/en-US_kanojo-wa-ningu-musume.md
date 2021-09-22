@@ -1,5 +1,7 @@
 # Kanojo wa Ningu Musume!
 
+![kanojo-wa-ningu-musume](https://cdn.myanimelist.net/images/manga/2/24533.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 26

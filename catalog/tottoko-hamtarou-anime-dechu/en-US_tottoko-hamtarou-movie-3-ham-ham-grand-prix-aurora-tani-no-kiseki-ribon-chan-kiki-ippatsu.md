@@ -1,5 +1,7 @@
 # Tottoko Hamtarou Movie 3: Ham Ham Grand Prix Aurora Tani no Kiseki - Ribon-chan Kiki Ippatsu!
 
+![tottoko-hamtarou-movie-3-ham-ham-grand-prix-aurora-tani-no-kiseki-ribon-chan-kiki-ippatsu](https://cdn.myanimelist.net/images/anime/5/20095.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: とっとこハム太郎公式サイト　ハムハムグランプリン　オーロラ谷の奇跡　〜リボンちゃん危機一髪！〜

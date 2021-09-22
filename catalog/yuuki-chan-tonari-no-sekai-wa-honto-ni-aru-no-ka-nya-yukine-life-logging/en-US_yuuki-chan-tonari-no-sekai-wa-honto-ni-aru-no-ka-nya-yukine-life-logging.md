@@ -1,5 +1,7 @@
 # Yuuki-chan, Tonari no Sekai wa Honto ni Aru no ka Nya? Yukine Life Logging!
 
+![yuuki-chan-tonari-no-sekai-wa-honto-ni-aru-no-ka-nya-yukine-life-logging](https://cdn.myanimelist.net/images/manga/3/161101.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

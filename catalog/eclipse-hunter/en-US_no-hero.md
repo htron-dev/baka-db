@@ -1,5 +1,7 @@
 # No Hero
 
+![no-hero](https://cdn.myanimelist.net/images/manga/2/72975.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **original-name**: 非關英雄

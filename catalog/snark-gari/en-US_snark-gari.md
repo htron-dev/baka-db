@@ -1,5 +1,7 @@
 # Snark-gari
 
+![snark-gari](https://cdn.myanimelist.net/images/manga/3/149524.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 29

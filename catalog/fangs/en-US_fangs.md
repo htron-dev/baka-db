@@ -1,5 +1,7 @@
 # Fangs
 
+![fangs](https://cdn.myanimelist.net/images/manga/3/236997.jpg)
+
 -   **type**: manga
 -   **original-name**: FANGS
 -   **start-date**: 2019-06-08

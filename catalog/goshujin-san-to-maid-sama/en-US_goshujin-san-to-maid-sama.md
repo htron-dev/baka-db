@@ -1,5 +1,7 @@
 # Goshujin-san to Maid-sama
 
+![goshujin-san-to-maid-sama](https://cdn.myanimelist.net/images/manga/2/123593.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

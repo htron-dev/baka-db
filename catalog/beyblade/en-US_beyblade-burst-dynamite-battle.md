@@ -1,5 +1,7 @@
 # Beyblade Burst Dynamite Battle
 
+![beyblade-burst-dynamite-battle](https://cdn.myanimelist.net/images/anime/1156/113543.jpg)
+
 -   **type**: ona
 -   **original-name**: ベイブレードバーストダイナマイトバトル
 -   **start-date**: 2021-04-02
@@ -32,4 +34,4 @@ Now, the legend of Demon King Bell, who has turned the whole world into an enemy
 -   [My Anime list](https://myanimelist.net/anime/48455/Beyblade_Burst_Dynamite_Battle)
 -   [Official Site](https://www.beyblade.jp/teaser_6th/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=16126)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Beyblade_Burst#Beyblade_Burst_Dynamite_Battle_(2021%E2%80%9322)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Beyblade_Burst#Beyblade_Burst_Dynamite_Battle_%282021%E2%80%9322%29)

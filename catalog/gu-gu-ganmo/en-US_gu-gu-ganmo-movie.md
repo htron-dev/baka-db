@@ -1,5 +1,7 @@
 # Gu-Gu Ganmo (Movie)
 
+![gu-gu-ganmo-movie](https://cdn.myanimelist.net/images/anime/3/52767.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: GU-GU ガンモ

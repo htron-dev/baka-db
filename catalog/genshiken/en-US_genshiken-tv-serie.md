@@ -1,5 +1,7 @@
 # Genshiken
 
+![genshiken](https://cdn.myanimelist.net/images/anime/1890/94707.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: げんしけん

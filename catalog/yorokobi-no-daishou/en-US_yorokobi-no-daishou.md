@@ -1,5 +1,7 @@
 # Yorokobi no Daishou
 
+![yorokobi-no-daishou](https://cdn.myanimelist.net/images/manga/3/61657.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 歓びの代償

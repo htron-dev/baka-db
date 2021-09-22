@@ -1,5 +1,7 @@
 # Shin Meikai Road Grass
 
+![shin-meikai-road-grass](https://cdn.myanimelist.net/images/manga/3/163265.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 39

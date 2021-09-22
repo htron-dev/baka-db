@@ -1,5 +1,7 @@
 # Two Cups of Coffee
 
+![two-cups-of-coffee](https://cdn.myanimelist.net/images/manga/2/7022.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 

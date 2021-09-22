@@ -1,5 +1,7 @@
 # Momoiro Shoten e Youkoso
 
+![momoiro-shoten-e-youkoso](https://cdn.myanimelist.net/images/manga/3/88315.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 38

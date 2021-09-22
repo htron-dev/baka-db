@@ -1,5 +1,7 @@
 # Futari wa Precure: Splash☆Star
 
+![futari-wa-precure-splash☆-star](https://cdn.myanimelist.net/images/manga/3/181259.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ふたりはプリキュア Splash☆Star

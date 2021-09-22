@@ -1,5 +1,7 @@
 # Zipang: Shinsou Kairyuu
 
+![zipang-shinsou-kairyuu](https://cdn.myanimelist.net/images/manga/1/129349.jpg)
+
 -   **type**: manga
 -   **volumes**: 23
 -   **chapters**: 226

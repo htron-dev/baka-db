@@ -1,5 +1,7 @@
 # Gin
 
+![gin](https://cdn.myanimelist.net/images/manga/2/23490.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 13

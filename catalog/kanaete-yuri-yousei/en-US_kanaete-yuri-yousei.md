@@ -1,5 +1,7 @@
 # Kanaete! Yuri Yousei
 
+![kanaete-yuri-yousei](https://cdn.myanimelist.net/images/manga/2/195987.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

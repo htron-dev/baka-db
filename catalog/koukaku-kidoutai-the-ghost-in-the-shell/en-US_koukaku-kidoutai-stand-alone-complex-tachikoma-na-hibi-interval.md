@@ -1,5 +1,7 @@
 # Koukaku Kidoutai: Stand Alone Complex - Tachikoma na Hibi - Interval
 
+![koukaku-kidoutai-stand-alone-complex-tachikoma-na-hibi-interval](https://cdn.myanimelist.net/images/anime/8/30205.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: ファンディスク 攻殻機動隊 STAND ALONE COMPLEX-インターバル-
@@ -14,7 +16,7 @@
 
 ## Sinopse
 
-Tachikomatic Days shorts released on a fan disc compilation.  Later re-released on a BD box with all the Tachikoma shorts.
+Tachikomatic Days shorts released on a fan disc compilation. Later re-released on a BD box with all the Tachikoma shorts.
 
 ## Links
 

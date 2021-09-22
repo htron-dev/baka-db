@@ -1,5 +1,7 @@
 # Jibaku Shounen Hanako-kun 0
 
+![jibaku-shounen-hanako-kun-0](https://cdn.myanimelist.net/images/manga/2/226278.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

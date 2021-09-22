@@ -1,5 +1,7 @@
 # Shounen Maid
 
+![shounen-maid](https://cdn.myanimelist.net/images/manga/3/168245.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 62

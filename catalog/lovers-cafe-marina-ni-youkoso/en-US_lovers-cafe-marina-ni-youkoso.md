@@ -1,5 +1,7 @@
 # Lovers Cafe Marina ni Youkoso
 
+![lovers-cafe-marina-ni-youkoso](https://cdn.myanimelist.net/images/manga/2/23127.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ラヴァーズカフェ マリーナにようこそ

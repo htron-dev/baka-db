@@ -1,5 +1,7 @@
 # Shirouto Yankee♂Kiki Ippatsu!!
 
+![shirouto-yankee♂-kiki-ippatsu](https://cdn.myanimelist.net/images/manga/2/223110.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

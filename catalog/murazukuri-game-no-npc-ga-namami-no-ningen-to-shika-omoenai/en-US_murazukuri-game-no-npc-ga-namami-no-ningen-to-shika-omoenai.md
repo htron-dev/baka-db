@@ -1,5 +1,7 @@
 # Murazukuri Game no NPC ga Namami no Ningen to shika Omoenai
 
+![murazukuri-game-no-npc-ga-namami-no-ningen-to-shika-omoenai](https://cdn.myanimelist.net/images/manga/3/233192.jpg)
+
 -   **type**: manga
 -   **original-name**: 村づくりゲームの NPC が生身の人間としか思えない
 -   **start-date**: 2019-11-05

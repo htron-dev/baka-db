@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam Gaiden: The Blue Destiny
 
+![kidou-senshi-gundam-gaiden-the-blue-destiny](https://cdn.myanimelist.net/images/manga/5/6358.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

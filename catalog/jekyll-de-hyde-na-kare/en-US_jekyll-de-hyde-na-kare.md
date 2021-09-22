@@ -1,5 +1,7 @@
 # Jekyll de Hyde na Kare
 
+![jekyll-de-hyde-na-kare](https://cdn.myanimelist.net/images/manga/4/203964.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

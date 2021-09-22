@@ -1,5 +1,7 @@
 # Toriaezu Chikyuu ga Horobiru Mae ni
 
+![toriaezu-chikyuu-ga-horobiru-mae-ni](https://cdn.myanimelist.net/images/manga/2/72723.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

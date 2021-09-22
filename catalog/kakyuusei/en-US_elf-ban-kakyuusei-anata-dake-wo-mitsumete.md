@@ -1,5 +1,7 @@
 # Elf-ban Kakyuusei: Anata dake wo Mitsumete...
 
+![elf-ban-kakyuusei-anata-dake-wo-mitsumete](https://cdn.myanimelist.net/images/anime/10/20194.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: エルフ版 下級生 あなただけを見つめて…

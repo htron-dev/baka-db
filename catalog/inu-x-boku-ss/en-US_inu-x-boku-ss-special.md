@@ -1,5 +1,7 @@
 # Inu x Boku SS Special
 
+![inu-x-boku-ss-special](https://cdn.myanimelist.net/images/anime/10/41927.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 妖狐 × 僕 SS

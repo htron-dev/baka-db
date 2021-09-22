@@ -1,5 +1,7 @@
 # Jangdokdae
 
+![jangdokdae](https://cdn.myanimelist.net/images/anime/10/88066.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 장독대

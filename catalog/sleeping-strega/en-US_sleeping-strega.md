@@ -1,5 +1,7 @@
 # Sleeping Strega
 
+![sleeping-strega](https://cdn.myanimelist.net/images/manga/2/163288.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 30

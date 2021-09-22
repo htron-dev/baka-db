@@ -1,5 +1,7 @@
 # Mawaru Penguindrum
 
+![mawaru-penguindrum](https://cdn.myanimelist.net/images/anime/5/30238.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 輪るピングドラム

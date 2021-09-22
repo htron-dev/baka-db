@@ -1,5 +1,7 @@
 # Yuri x Bara
 
+![yuri-x-bara](https://cdn.myanimelist.net/images/manga/3/186437.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

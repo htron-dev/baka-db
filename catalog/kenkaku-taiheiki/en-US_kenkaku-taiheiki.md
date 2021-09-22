@@ -1,5 +1,7 @@
 # Kenkaku Taiheiki
 
+![kenkaku-taiheiki](https://cdn.myanimelist.net/images/manga/1/174534.jpg)
+
 -   **type**: manga
 -   **chapters**: 14
 -   **original-name**: 剣客太平記

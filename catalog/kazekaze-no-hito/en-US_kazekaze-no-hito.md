@@ -1,5 +1,7 @@
 # Kazekaze no Hito
 
+![kazekaze-no-hito](https://cdn.myanimelist.net/images/manga/1/20824.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

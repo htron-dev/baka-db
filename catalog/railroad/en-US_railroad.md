@@ -1,5 +1,7 @@
 # Railroad
 
+![railroad](https://cdn.myanimelist.net/images/manga/3/21732.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 3
 -   **chapters**: 14

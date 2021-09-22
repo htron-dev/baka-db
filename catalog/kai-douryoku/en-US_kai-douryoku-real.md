@@ -1,5 +1,7 @@
 # Kai Douryoku Real
 
+![kai-douryoku-real](https://cdn.myanimelist.net/images/anime/2/70643.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 快動力 REAL

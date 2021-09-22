@@ -1,5 +1,7 @@
 # Petit Eva: Evangelion@School
 
+![petit-eva-evangelion-school](https://cdn.myanimelist.net/images/anime/10/7593.jpg)
+
 -   **type**: ona
 -   **episodes**: 24
 -   **original-name**: ぷちえう゛ぁ

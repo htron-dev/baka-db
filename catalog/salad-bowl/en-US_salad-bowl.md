@@ -1,5 +1,7 @@
 # Salad Bowl
 
+![salad-bowl](https://cdn.myanimelist.net/images/manga/2/219483.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

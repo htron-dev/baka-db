@@ -1,5 +1,7 @@
 # Koibito wa bodyguard
 
+![koibito-wa-bodyguard](https://cdn.myanimelist.net/images/manga/1/25477.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Mitakihara Youchien Mahou-gumi
 
+![mitakihara-youchien-mahou-gumi](https://cdn.myanimelist.net/images/manga/3/172442.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

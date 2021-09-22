@@ -1,5 +1,7 @@
 # Renai Makegumi no Boku ni, H na Maid ga Todokimashita.
 
+![renai-makegumi-no-boku-ni-h-na-maid-ga-todokimashita](https://cdn.myanimelist.net/images/manga/2/160932.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

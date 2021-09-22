@@ -1,5 +1,7 @@
 # Kaburi.mon.star!
 
+![kaburi-mon-star](https://cdn.myanimelist.net/images/manga/2/185709.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

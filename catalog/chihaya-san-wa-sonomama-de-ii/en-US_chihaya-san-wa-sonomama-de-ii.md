@@ -1,5 +1,7 @@
 # Chihaya-san wa Sonomama de Ii
 
+![chihaya-san-wa-sonomama-de-ii](https://cdn.myanimelist.net/images/manga/1/171211.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 71

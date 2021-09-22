@@ -1,5 +1,7 @@
 # Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakatta n da ga
 
+![mushoku-no-eiyuu-betsu-ni-skill-nanka-iranakatta-n-da-ga](https://cdn.myanimelist.net/images/manga/3/235904.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 無職の英雄 別にスキルなんか要らなかったんだが
 -   **start-date**: 2018-07-14

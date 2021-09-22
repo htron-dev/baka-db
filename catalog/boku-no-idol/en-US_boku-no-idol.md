@@ -1,5 +1,7 @@
 # Boku no Idol
 
+![boku-no-idol](https://cdn.myanimelist.net/images/manga/2/36276.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ぼくのアイドル

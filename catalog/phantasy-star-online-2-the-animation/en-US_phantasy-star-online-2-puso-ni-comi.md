@@ -1,5 +1,7 @@
 # Phantasy Star Online 2: Puso Ni Comi
 
+![phantasy-star-online-2-puso-ni-comi](https://cdn.myanimelist.net/images/manga/3/226709.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ファンタシースターオンライン 2 ぷそ煮コミ

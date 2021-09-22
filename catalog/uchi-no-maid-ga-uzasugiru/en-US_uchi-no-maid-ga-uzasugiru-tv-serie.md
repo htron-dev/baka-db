@@ -1,5 +1,7 @@
 # Uchi no Maid ga Uzasugiru!
 
+![uchi-no-maid-ga-uzasugiru](https://cdn.myanimelist.net/images/anime/1786/95330.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: うちのメイドがウザすぎる！

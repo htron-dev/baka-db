@@ -1,5 +1,7 @@
 # Mimizu Monogatari
 
+![mimizu-monogatari](https://cdn.myanimelist.net/images/anime/3/76316.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: みみず物語

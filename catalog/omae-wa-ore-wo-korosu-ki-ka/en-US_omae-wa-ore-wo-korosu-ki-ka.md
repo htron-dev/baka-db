@@ -1,5 +1,7 @@
 # Omae wa Ore wo Korosu Ki ka
 
+![omae-wa-ore-wo-korosu-ki-ka](https://cdn.myanimelist.net/images/manga/3/149373.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 28

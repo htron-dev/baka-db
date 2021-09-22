@@ -1,5 +1,7 @@
 # Yuri!!! on Ice
 
+![yuri-on-ice](https://cdn.myanimelist.net/images/anime/6/81149.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ユーリ!!! on ICE

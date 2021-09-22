@@ -1,5 +1,7 @@
 # Akira no Meisei
 
+![akira-no-meisei](https://cdn.myanimelist.net/images/manga/1/97521.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 43

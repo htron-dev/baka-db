@@ -1,5 +1,7 @@
 # Lalala Lala-chan ★Uchuu ni Muchuu★
 
+![lalala-lala-chan-★-uchuu-ni-muchuu★](https://cdn.myanimelist.net/images/anime/1591/91149.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ラララ ララちゃん ★ ウチュ～にムチュ～ ★
@@ -10,7 +12,6 @@
 ## Tags
 
 -   adventure
-
 -   fantasy
 
 ## Sinopse

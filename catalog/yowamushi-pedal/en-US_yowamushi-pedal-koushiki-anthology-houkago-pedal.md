@@ -1,5 +1,7 @@
 # Yowamushi Pedal Koushiki Anthology: Houkago Pedal
 
+![yowamushi-pedal-koushiki-anthology-houkago-pedal](https://cdn.myanimelist.net/images/manga/3/151072.jpg)
+
 -   **type**: manga
 -   **original-name**: 弱虫ペダル公式アンソロジー 放課後ペダル
 -   **start-date**: 2014-04-05

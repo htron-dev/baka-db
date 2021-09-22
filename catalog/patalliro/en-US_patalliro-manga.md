@@ -1,5 +1,7 @@
 # Patalliro!
 
+![patalliro](https://cdn.myanimelist.net/images/manga/3/11481.jpg)
+
 -   **type**: manga
 -   **original-name**: パタリロ!
 -   **start-date**: 1979-11-19

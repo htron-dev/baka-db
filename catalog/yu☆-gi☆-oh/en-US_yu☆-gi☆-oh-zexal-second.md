@@ -1,5 +1,7 @@
 # Yu☆Gi☆Oh! Zexal Second
 
+![yu☆-gi☆-oh-zexal-second](https://cdn.myanimelist.net/images/anime/5/43491.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 73
 -   **original-name**: 遊 ☆ 戯 ☆ 王 ZEXALⅡ（セカンド）

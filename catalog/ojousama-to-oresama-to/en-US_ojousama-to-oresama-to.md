@@ -1,5 +1,7 @@
 # Ojousama to Oresama to
 
+![ojousama-to-oresama-to](https://cdn.myanimelist.net/images/manga/2/24709.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

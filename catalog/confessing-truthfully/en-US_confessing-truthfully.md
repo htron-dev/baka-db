@@ -1,5 +1,7 @@
 # Confessing truthfully
 
+![confessing-truthfully](https://cdn.myanimelist.net/images/manga/1/10551.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **chapters**: 34

@@ -1,5 +1,7 @@
 # Unico
 
+![unico](https://cdn.myanimelist.net/images/anime/1601/112164.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ユニコ

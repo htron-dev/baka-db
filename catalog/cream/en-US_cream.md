@@ -1,5 +1,7 @@
 # Cream
 
+![cream](https://cdn.myanimelist.net/images/manga/4/32642.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **original-name**: 크림

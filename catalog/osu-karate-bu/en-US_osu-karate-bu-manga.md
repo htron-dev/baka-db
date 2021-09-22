@@ -1,5 +1,7 @@
 # Osu!! Karate-bu
 
+![osu-karate-bu](https://cdn.myanimelist.net/images/manga/3/17388.jpg)
+
 -   **type**: manga
 -   **volumes**: 43
 -   **chapters**: 483

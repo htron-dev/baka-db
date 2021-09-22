@@ -1,5 +1,7 @@
 # Xi Yangyang Yu Hui Tailang
 
+![xi-yangyang-yu-hui-tailang](https://cdn.myanimelist.net/images/anime/7/74850.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 530
 -   **original-name**: 喜羊羊与灰太狼

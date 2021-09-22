@@ -1,5 +1,7 @@
 # Musekinin Quartet
 
+![musekinin-quartet](https://cdn.myanimelist.net/images/manga/1/238068.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 40

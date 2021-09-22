@@ -1,5 +1,7 @@
 # Gokigen Naname na Series
 
+![gokigen-naname-na-series](https://cdn.myanimelist.net/images/manga/1/155729.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: ご機嫌ナナメなシーリス

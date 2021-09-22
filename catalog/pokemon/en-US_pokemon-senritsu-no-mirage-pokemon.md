@@ -1,5 +1,7 @@
 # Pokemon: Senritsu no Mirage Pokemon
 
+![pokemon-senritsu-no-mirage-pokemon](https://cdn.myanimelist.net/images/anime/1471/108232.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ポケットモンスター 戦慄のミラージュポケモン

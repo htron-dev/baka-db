@@ -1,5 +1,7 @@
 # Suisei no Gargantia: Haruka, Kaikou no Tenchi
 
+![suisei-no-gargantia-haruka-kaikou-no-tenchi](https://cdn.myanimelist.net/images/manga/2/171268.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

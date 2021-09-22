@@ -1,5 +1,7 @@
 # Bucchigiri
 
+![bucchigiri](https://cdn.myanimelist.net/images/anime/10/62251.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: ぶっちぎり

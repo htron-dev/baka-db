@@ -1,5 +1,7 @@
 # RahXephon
 
+![rah-xephon](https://cdn.myanimelist.net/images/manga/2/229880.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

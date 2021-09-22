@@ -1,5 +1,7 @@
 # Sema Kuruoshii Ie
 
+![sema-kuruoshii-ie](https://cdn.myanimelist.net/images/anime/1726/107663.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 狭狂しい家

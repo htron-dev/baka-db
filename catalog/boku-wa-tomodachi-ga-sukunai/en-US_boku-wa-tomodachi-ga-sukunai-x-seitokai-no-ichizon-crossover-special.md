@@ -1,5 +1,7 @@
 # Boku wa Tomodachi ga Sukunai x Seitokai no Ichizon Crossover Special
 
+![boku-wa-tomodachi-ga-sukunai-x-seitokai-no-ichizon-crossover-special](https://cdn.myanimelist.net/images/manga/3/70703.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 『僕は友達が少ない』×『生徒会の一存』コラボコミック

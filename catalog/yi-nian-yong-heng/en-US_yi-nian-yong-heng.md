@@ -1,5 +1,7 @@
 # Yi Nian Yong Heng
 
+![yi-nian-yong-heng](https://cdn.myanimelist.net/images/anime/1712/108161.jpg)
+
 -   **type**: ona
 -   **episodes**: 52
 -   **original-name**: 一念永恒

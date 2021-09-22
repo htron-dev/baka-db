@@ -1,5 +1,7 @@
 # Corrector Yui Ver.2
 
+![corrector-yui-ver-2](https://cdn.myanimelist.net/images/manga/3/28205.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: コレクターユイ Ver.2

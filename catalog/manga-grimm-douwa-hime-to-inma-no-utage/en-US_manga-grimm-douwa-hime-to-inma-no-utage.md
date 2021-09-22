@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Hime to Inma no Utage
 
+![manga-grimm-douwa-hime-to-inma-no-utage](https://cdn.myanimelist.net/images/manga/1/137381.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

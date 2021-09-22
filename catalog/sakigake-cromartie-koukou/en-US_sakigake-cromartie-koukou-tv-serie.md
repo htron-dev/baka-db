@@ -1,5 +1,7 @@
 # Sakigake!! Cromartie Koukou
 
+![sakigake-cromartie-koukou](https://cdn.myanimelist.net/images/anime/3/13390.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 魁!! クロマティ高校

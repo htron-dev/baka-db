@@ -1,5 +1,7 @@
 # Saki Picture Drama
 
+![saki-picture-drama](https://cdn.myanimelist.net/images/anime/2/18976.jpg)
+
 -   **type**: special
 -   **episodes**: 7
 -   **original-name**: 咲-Saki- ピクチャードラマ
@@ -21,4 +23,4 @@ Saki picture drama included in the DVD volumes 3 through 9.
 -   [My Anime list](https://myanimelist.net/anime/7759/Saki_Picture_Drama)
 -   [Official Site](http://www.saki-anime.com/1st/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6246)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Saki_(manga)#Anime>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Saki_%28manga%29#Anime)

@@ -1,5 +1,7 @@
 # Natsume Yuujinchou: Itsuka Yuki no Hi ni
 
+![natsume-yuujinchou-itsuka-yuki-no-hi-ni](https://cdn.myanimelist.net/images/anime/11/79742.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 夏目友人帳 新作 OVA いつかゆきのひに

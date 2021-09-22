@@ -1,5 +1,7 @@
 # After War Gundam X
 
+![after-war-gundam-x](https://cdn.myanimelist.net/images/manga/3/31804.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

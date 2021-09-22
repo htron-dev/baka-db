@@ -1,5 +1,7 @@
 # Koi wa, Kedamono.
 
+![koi-wa-kedamono](https://cdn.myanimelist.net/images/manga/2/33448.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

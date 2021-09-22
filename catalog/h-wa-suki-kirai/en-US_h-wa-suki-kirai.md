@@ -1,5 +1,7 @@
 # H wa Suki? Kirai?
 
+![h-wa-suki-kirai](https://cdn.myanimelist.net/images/manga/3/151666.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

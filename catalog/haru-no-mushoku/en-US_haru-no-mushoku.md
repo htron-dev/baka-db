@@ -1,5 +1,7 @@
 # Haru no Mushoku
 
+![haru-no-mushoku](https://cdn.myanimelist.net/images/manga/1/210105.jpg)
+
 -   **type**: manga
 -   **original-name**: 春のムショク
 -   **start-date**: 2017-10-12

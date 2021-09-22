@@ -1,5 +1,7 @@
 # Saiai no Hana
 
+![saiai-no-hana](https://cdn.myanimelist.net/images/manga/2/186184.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

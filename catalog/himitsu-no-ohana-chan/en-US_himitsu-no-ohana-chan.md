@@ -1,5 +1,7 @@
 # Himitsu no Ohana-chan
 
+![himitsu-no-ohana-chan](https://cdn.myanimelist.net/images/manga/2/46677.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ひみつのお花ちゃん

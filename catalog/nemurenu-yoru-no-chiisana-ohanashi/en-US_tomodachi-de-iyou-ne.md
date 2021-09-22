@@ -1,9 +1,10 @@
 # Tomodachi de Iyou ne
 
+![tomodachi-de-iyou-ne](https://cdn.myanimelist.net/images/anime/13/70279.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ともだちでいようね
-
 -   **rating**: PG - Children
 
 ## Tags

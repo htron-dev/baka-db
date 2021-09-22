@@ -1,5 +1,7 @@
 # Kagami no Mukou no Saihate Toshokan
 
+![kagami-no-mukou-no-saihate-toshokan](https://cdn.myanimelist.net/images/manga/2/240700.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 鏡のむこうの最果て図書館

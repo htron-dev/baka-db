@@ -1,5 +1,7 @@
 # Ryuu no Otto: Boukoku no Kami
 
+![ryuu-no-otto-boukoku-no-kami](https://cdn.myanimelist.net/images/manga/3/238096.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

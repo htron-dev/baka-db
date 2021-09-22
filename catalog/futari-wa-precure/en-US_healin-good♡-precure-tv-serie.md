@@ -1,5 +1,7 @@
 # Healin' Good♡Precure
 
+![healin-good♡-precure](https://cdn.myanimelist.net/images/anime/1401/105084.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 45
 -   **original-name**: ヒーリングっど ♥ プリキュア

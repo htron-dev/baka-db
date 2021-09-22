@@ -1,5 +1,7 @@
 # Yuusha Gojo Kumiai Kouryuugata Keijiban
 
+![yuusha-gojo-kumiai-kouryuugata-keijiban](https://cdn.myanimelist.net/images/manga/3/186476.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

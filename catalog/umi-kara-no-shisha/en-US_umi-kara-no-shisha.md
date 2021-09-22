@@ -1,5 +1,7 @@
 # Umi kara no Shisha
 
+![umi-kara-no-shisha](https://cdn.myanimelist.net/images/anime/1550/112730.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 海からの使者

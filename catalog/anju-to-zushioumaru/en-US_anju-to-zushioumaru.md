@@ -1,5 +1,7 @@
 # Anju to Zushioumaru
 
+![anju-to-zushioumaru](https://cdn.myanimelist.net/images/anime/1066/100513.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 安寿と厨子王丸
@@ -25,4 +27,4 @@ However, Anju and Zushioumaru are separated from their mother and sold into slav
 -   [Official Site](http://www.toei-anim.co.jp/lineup/movie/movie_anju/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=2200)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3527)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E5%AE%89%E5%AF%BF%E3%81%A8%E5%8E%A8%E5%AD%90%E7%8E%8B%E4%B8%B8_(%E6%98%A0%E7%94%BB)>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E5%AE%89%E5%AF%BF%E3%81%A8%E5%8E%A8%E5%AD%90%E7%8E%8B%E4%B8%B8_%28%E6%98%A0%E7%94%BB%29)

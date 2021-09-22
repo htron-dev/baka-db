@@ -1,5 +1,7 @@
 # Niji no Toride
 
+![niji-no-toride](https://cdn.myanimelist.net/images/manga/2/36208.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

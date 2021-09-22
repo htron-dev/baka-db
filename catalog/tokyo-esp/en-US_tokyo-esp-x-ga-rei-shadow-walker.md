@@ -1,5 +1,7 @@
 # Tokyo ESP x Ga-Rei: Shadow Walker
 
+![tokyo-esp-x-ga-rei-shadow-walker](https://cdn.myanimelist.net/images/manga/3/141457.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Cat Shit One
 
+![cat-shit-one](https://cdn.myanimelist.net/images/manga/1/142165.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

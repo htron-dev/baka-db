@@ -1,5 +1,7 @@
 # Smile Precure!
 
+![smile-precure](https://cdn.myanimelist.net/images/manga/1/72173.jpg)
+
 -   **type**: manga
 -   **chapters**: 13
 -   **original-name**: スマイルプリキュア!

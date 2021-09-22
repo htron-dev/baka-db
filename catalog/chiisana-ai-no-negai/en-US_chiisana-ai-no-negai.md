@@ -1,5 +1,7 @@
 # Chiisana Ai no Negai
 
+![chiisana-ai-no-negai](https://cdn.myanimelist.net/images/manga/2/65915.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

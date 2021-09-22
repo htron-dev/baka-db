@@ -1,5 +1,7 @@
 # Ahiru no Sora
 
+![ahiru-no-sora](https://cdn.myanimelist.net/images/manga/2/182651.jpg)
+
 -   **type**: manga
 -   **original-name**: あひるの空
 -   **start-date**: 2003-12-10

@@ -1,5 +1,7 @@
 # Negaigoto wa Hidamari de
 
+![negaigoto-wa-hidamari-de](https://cdn.myanimelist.net/images/manga/3/72561.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

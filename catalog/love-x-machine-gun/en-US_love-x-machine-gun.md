@@ -1,5 +1,7 @@
 # Love x Machine Gun
 
+![love-x-machine-gun](https://cdn.myanimelist.net/images/manga/2/14679.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ラブ × マシンガン

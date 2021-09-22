@@ -1,5 +1,7 @@
 # Kouha! Terakoya Juku
 
+![kouha-terakoya-juku](https://cdn.myanimelist.net/images/manga/1/23181.jpg)
+
 -   **type**: manga
 -   **original-name**: 硬派!寺子屋塾
 

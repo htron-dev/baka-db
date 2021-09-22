@@ -1,5 +1,7 @@
 # Andante
 
+![andante](https://cdn.myanimelist.net/images/manga/2/191299.jpg)
+
 -   **type**: light-novel
 -   **original-name**: アンダンテ
 -   **start-date**: 2017-02-17

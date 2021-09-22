@@ -1,5 +1,7 @@
 # Anuki
 
+![anuki](https://cdn.myanimelist.net/images/manga/2/6853.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **chapters**: 51

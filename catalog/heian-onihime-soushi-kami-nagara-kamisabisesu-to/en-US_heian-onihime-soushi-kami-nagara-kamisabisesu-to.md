@@ -1,5 +1,7 @@
 # Heian Onihime Soushi: Kami nagara Kamisabisesu to
 
+![heian-onihime-soushi-kami-nagara-kamisabisesu-to](https://cdn.myanimelist.net/images/manga/2/176194.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 平安鬼姫草子 ～神ながら神さびせすと～

@@ -1,5 +1,7 @@
 # Illusion City
 
+![illusion-city](https://cdn.myanimelist.net/images/manga/3/19860.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

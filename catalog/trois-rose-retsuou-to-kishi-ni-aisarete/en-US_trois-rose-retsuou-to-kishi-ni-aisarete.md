@@ -1,5 +1,7 @@
 # Trois Rose: Retsuou to Kishi ni Aisarete
 
+![trois-rose-retsuou-to-kishi-ni-aisarete](https://cdn.myanimelist.net/images/manga/1/183750.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

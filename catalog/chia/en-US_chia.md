@@ -1,5 +1,7 @@
 # Chia!
 
+![chia](https://cdn.myanimelist.net/images/manga/1/136047.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ちあ!

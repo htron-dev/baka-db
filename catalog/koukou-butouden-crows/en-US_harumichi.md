@@ -1,5 +1,7 @@
 # Harumichi
 
+![harumichi](https://cdn.myanimelist.net/images/manga/2/172875.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

@@ -1,5 +1,7 @@
 # Golgo 13 (TV)
 
+![golgo-13-tv](https://cdn.myanimelist.net/images/anime/9/25423.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: ゴルゴ 13

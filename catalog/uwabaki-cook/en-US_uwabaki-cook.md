@@ -1,5 +1,7 @@
 # Uwabaki Cook
 
+![uwabaki-cook](https://cdn.myanimelist.net/images/anime/5/76059.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: うわばきクック

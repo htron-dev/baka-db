@@ -1,5 +1,7 @@
 # Yuusha no Musume to Midoriiro no Mahoutsukai
 
+![yuusha-no-musume-to-midoriiro-no-mahoutsukai](https://cdn.myanimelist.net/images/manga/2/210484.jpg)
+
 -   **type**: manga
 -   **original-name**: 勇者の娘と緑色の魔法使い
 -   **start-date**: 2018-02-10

@@ -1,5 +1,7 @@
 # Kimi to Wonderland
 
+![kimi-to-wonderland](https://cdn.myanimelist.net/images/manga/2/201002.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

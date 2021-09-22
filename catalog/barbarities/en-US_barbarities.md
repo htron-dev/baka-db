@@ -1,5 +1,7 @@
 # Barbarities
 
+![barbarities](https://cdn.myanimelist.net/images/manga/1/158666.jpg)
+
 -   **type**: manga
 -   **original-name**: BARBARITIES
 -   **start-date**: 2014-04-07

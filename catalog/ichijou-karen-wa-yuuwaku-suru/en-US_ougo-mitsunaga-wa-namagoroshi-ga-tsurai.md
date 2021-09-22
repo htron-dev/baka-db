@@ -1,5 +1,7 @@
 # Ougo Mitsunaga wa Namagoroshi ga Tsurai
 
+![ougo-mitsunaga-wa-namagoroshi-ga-tsurai](https://cdn.myanimelist.net/images/manga/1/241571.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Meg to Seron
 
+![meg-to-seron](https://cdn.myanimelist.net/images/manga/3/184046.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 55

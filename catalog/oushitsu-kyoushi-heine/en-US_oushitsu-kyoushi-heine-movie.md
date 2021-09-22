@@ -1,5 +1,7 @@
 # Oushitsu Kyoushi Heine Movie
 
+![oushitsu-kyoushi-heine-movie](https://cdn.myanimelist.net/images/anime/1567/116866.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場 王室教師ハイネ

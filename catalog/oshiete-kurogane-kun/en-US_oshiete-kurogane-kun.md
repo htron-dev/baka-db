@@ -1,5 +1,7 @@
 # Oshiete, Kurogane-kun
 
+![oshiete-kurogane-kun](https://cdn.myanimelist.net/images/manga/1/130077.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

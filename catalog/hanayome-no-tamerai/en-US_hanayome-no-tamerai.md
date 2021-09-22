@@ -1,5 +1,7 @@
 # Hanayome no Tamerai
 
+![hanayome-no-tamerai](https://cdn.myanimelist.net/images/manga/1/206975.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 花嫁のためらい

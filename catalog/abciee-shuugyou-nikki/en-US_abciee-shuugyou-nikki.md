@@ -1,5 +1,7 @@
 # Abciee Shuugyou Nikki
 
+![abciee-shuugyou-nikki](https://cdn.myanimelist.net/images/anime/1548/110221.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: エビシー修業日記

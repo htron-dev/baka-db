@@ -1,5 +1,7 @@
 # Koukaku Kidoutai: Stand Alone Complex
 
+![koukaku-kidoutai-stand-alone-complex](https://cdn.myanimelist.net/images/anime/11/50857.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 攻殻機動隊 STAND ALONE COMPLEX

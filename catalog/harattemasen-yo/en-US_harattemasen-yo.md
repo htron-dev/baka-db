@@ -1,5 +1,7 @@
 # Harattemasen yo?
 
+![harattemasen-yo](https://cdn.myanimelist.net/images/manga/1/122531.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 祓ってませんよ?

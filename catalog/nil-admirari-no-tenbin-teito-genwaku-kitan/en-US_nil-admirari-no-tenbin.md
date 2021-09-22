@@ -1,5 +1,7 @@
 # Nil Admirari no Tenbin
 
+![nil-admirari-no-tenbin](https://cdn.myanimelist.net/images/anime/1669/90604.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ニル・アドミラリの天秤

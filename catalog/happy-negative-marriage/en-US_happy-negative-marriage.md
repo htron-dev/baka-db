@@ -1,5 +1,7 @@
 # Happy Negative Marriage
 
+![happy-negative-marriage](https://cdn.myanimelist.net/images/manga/1/60643.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 33

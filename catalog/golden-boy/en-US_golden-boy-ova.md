@@ -1,5 +1,7 @@
 # Golden Boy
 
+![golden-boy](https://cdn.myanimelist.net/images/anime/3/62867.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: ゴールデンボーイ
@@ -26,4 +28,4 @@ Kintarou Ooe is a specialist in part-time work, riding all over the highways and
 -   [My Anime list](https://myanimelist.net/anime/268/Golden_Boy)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=355)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=373)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Golden_Boy_(manga)#OVA>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Golden_Boy_%28manga%29#OVA)

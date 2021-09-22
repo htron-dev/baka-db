@@ -1,5 +1,7 @@
 # iDOLM@STER Xenoglossia Specials
 
+![i-dolm-ster-xenoglossia-specials](https://cdn.myanimelist.net/images/anime/9/24320.jpg)
+
 -   **type**: special
 -   **episodes**: 9
 -   **original-name**: アイドルマスター ゼノグラシア

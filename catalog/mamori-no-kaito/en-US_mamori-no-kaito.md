@@ -1,5 +1,7 @@
 # Mamori no Kaito
 
+![mamori-no-kaito](https://cdn.myanimelist.net/images/manga/3/17800.jpg)
+
 -   **type**: manga
 
 ## Tags

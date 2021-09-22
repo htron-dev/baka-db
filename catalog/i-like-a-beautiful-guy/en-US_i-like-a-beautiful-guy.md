@@ -1,5 +1,7 @@
 # I Like a Beautiful Guy
 
+![i-like-a-beautiful-guy](https://cdn.myanimelist.net/images/manga/2/24815.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 -   **original-name**: 난 꽃미남이 좋아

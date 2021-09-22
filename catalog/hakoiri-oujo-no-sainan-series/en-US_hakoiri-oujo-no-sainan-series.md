@@ -1,5 +1,7 @@
 # Hakoiri Oujo no Sainan Series
 
+![hakoiri-oujo-no-sainan-series](https://cdn.myanimelist.net/images/manga/3/157516.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 箱入り王女の災難シリース
 -   **start-date**: 2015-06-01

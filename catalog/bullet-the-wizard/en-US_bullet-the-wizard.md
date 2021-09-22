@@ -1,5 +1,7 @@
 # Bullet the Wizard
 
+![bullet-the-wizard](https://cdn.myanimelist.net/images/manga/1/183121.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

@@ -1,5 +1,7 @@
 # Qin Shi Ming Yue: Tian Xing Jiu Ge 2nd Season
 
+![qin-shi-ming-yue-tian-xing-jiu-ge-2nd-season](https://cdn.myanimelist.net/images/anime/1107/102465.jpg)
+
 -   **type**: ona
 -   **episodes**: 30
 -   **original-name**: 天行九歌 第二季

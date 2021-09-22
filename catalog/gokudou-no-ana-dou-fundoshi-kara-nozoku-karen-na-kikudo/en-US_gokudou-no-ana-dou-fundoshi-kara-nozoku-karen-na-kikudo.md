@@ -1,5 +1,7 @@
 # Gokudou no Ana-dou: Fundoshi kara Nozoku Karen na Kikudo
 
+![gokudou-no-ana-dou-fundoshi-kara-nozoku-karen-na-kikudo](https://cdn.myanimelist.net/images/manga/2/128197.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

@@ -1,5 +1,7 @@
 # Tenchi Muyou! Ryououki
 
+![tenchi-muyou-ryououki](https://cdn.myanimelist.net/images/manga/1/146475.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 80

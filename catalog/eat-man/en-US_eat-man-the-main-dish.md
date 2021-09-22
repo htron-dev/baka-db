@@ -1,5 +1,7 @@
 # Eat-Man: The Main Dish
 
+![eat-man-the-main-dish](https://cdn.myanimelist.net/images/manga/2/219707.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 33

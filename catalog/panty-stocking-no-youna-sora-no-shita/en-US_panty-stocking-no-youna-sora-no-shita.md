@@ -1,5 +1,7 @@
 # Panty Stocking no Youna Sora no Shita
 
+![panty-stocking-no-youna-sora-no-shita](https://cdn.myanimelist.net/images/manga/2/192061.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

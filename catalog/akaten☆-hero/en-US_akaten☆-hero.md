@@ -1,5 +1,7 @@
 # Akaten☆Hero!
 
+![akaten☆-hero](https://cdn.myanimelist.net/images/manga/3/3676.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

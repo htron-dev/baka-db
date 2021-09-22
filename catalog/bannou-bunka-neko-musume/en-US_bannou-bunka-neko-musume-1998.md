@@ -1,5 +1,7 @@
 # Bannou Bunka Neko-Musume (1998)
 
+![bannou-bunka-neko-musume-1998](https://cdn.myanimelist.net/images/anime/10/2875.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 万能文化猫娘

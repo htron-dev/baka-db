@@ -1,5 +1,7 @@
 # PuriGorota: Uchuu no Yuujou Daibouken
 
+![puri-gorota-uchuu-no-yuujou-daibouken](https://cdn.myanimelist.net/images/anime/8/16205.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: プリごろ太 宇宙の友情大冒険

@@ -1,5 +1,7 @@
 # Soutennenshoku Otomegumi
 
+![soutennenshoku-otomegumi](https://cdn.myanimelist.net/images/manga/3/31723.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 総天然色乙女組

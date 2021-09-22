@@ -1,5 +1,7 @@
 # Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu
 
+![guild-no-uketsukejou-desu-ga-zangyou-wa-iya-nanode-boss-wo-solo-toubatsu-shiyou-to-omoimasu](https://cdn.myanimelist.net/images/manga/1/247465.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います
 -   **start-date**: 2021-03-10

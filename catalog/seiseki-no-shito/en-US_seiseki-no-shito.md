@@ -1,5 +1,7 @@
 # Seiseki no Shito
 
+![seiseki-no-shito](https://cdn.myanimelist.net/images/manga/3/151143.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 聖石の使徒
 -   **start-date**: 2001-08-20

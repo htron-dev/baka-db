@@ -1,5 +1,7 @@
 # Han Solo/Star Wars Story
 
+![han-solo-star-wars-story](https://cdn.myanimelist.net/images/anime/1171/95732.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: ハン・ソロ／スター・ウォーズ・ストーリー

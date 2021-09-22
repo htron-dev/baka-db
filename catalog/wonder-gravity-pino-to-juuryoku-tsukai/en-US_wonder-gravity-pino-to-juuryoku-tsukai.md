@@ -1,5 +1,7 @@
 # Wonder Gravity: Pino To Juuryoku Tsukai
 
+![wonder-gravity-pino-to-juuryoku-tsukai](https://cdn.myanimelist.net/images/anime/1257/91957.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ワンダーグラビティ ～ピノと重力使い～

@@ -1,5 +1,7 @@
 # Futarism
 
+![futarism](https://cdn.myanimelist.net/images/manga/1/99821.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ふたりずむ

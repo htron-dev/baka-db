@@ -1,5 +1,7 @@
 # Columbos
 
+![columbos](https://cdn.myanimelist.net/images/anime/1962/110946.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: コロンボス

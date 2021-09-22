@@ -1,5 +1,7 @@
 # Jingai-san no Yome
 
+![jingai-san-no-yome](https://cdn.myanimelist.net/images/anime/1050/108631.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 人外さんの嫁

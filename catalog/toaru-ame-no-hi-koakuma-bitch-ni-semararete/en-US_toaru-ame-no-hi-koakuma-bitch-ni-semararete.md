@@ -1,5 +1,7 @@
 # Toaru Ame no Hi, Koakuma Bitch ni Semararete
 
+![toaru-ame-no-hi-koakuma-bitch-ni-semararete](https://cdn.myanimelist.net/images/manga/3/169724.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: とある雨の日、小悪魔ビッチにせまられて

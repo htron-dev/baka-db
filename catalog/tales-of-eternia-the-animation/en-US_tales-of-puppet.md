@@ -1,5 +1,7 @@
 # Tales of Puppet
 
+![tales-of-puppet](https://cdn.myanimelist.net/images/anime/1534/93342.jpg)
+
 -   **type**: ona
 -   **episodes**: 16
 -   **original-name**: TALES OF パペット

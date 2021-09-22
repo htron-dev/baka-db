@@ -1,5 +1,7 @@
 # Panpaka Pants Matsuri Movie: Purin Ara, Domo
 
+![panpaka-pants-matsuri-movie-purin-ara-domo](https://cdn.myanimelist.net/images/anime/10/87525.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: えいが パンパカパンツまつり ─ プリン あら, ど~も

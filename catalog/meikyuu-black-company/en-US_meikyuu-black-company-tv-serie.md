@@ -1,5 +1,7 @@
 # Meikyuu Black Company
 
+![meikyuu-black-company](https://cdn.myanimelist.net/images/anime/1753/116290.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 迷宮ブラックカンパニー

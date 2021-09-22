@@ -1,5 +1,7 @@
 # To Heart ~remember my memories~
 
+![to-heart-remember-my-memories](https://cdn.myanimelist.net/images/manga/2/34938.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: トゥハート ~remember my memories~

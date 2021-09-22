@@ -1,5 +1,7 @@
 # Double Wedding Auction: Mitsubou no Ouji to Azamukareta Hanayome
 
+![double-wedding-auction-mitsubou-no-ouji-to-azamukareta-hanayome](https://cdn.myanimelist.net/images/manga/2/182705.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

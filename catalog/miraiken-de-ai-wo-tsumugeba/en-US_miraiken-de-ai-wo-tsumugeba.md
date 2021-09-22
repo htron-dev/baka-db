@@ -1,5 +1,7 @@
 # Miraiken de Ai wo Tsumugeba
 
+![miraiken-de-ai-wo-tsumugeba](https://cdn.myanimelist.net/images/manga/1/203788.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Game Overdose
 
+![game-overdose](https://cdn.myanimelist.net/images/manga/2/187983.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

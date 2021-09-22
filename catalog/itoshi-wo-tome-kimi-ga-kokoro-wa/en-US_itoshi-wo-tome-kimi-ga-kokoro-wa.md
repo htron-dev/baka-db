@@ -1,5 +1,7 @@
 # Itoshi wo Tome - Kimi ga Kokoro wa
 
+![itoshi-wo-tome-kimi-ga-kokoro-wa](https://cdn.myanimelist.net/images/manga/3/22981.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

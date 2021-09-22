@@ -1,5 +1,7 @@
 # Isekai de "Kuro no Iyashi Te" tte Yobareteimasu
 
+![isekai-de-kuro-no-iyashi-te-tte-yobareteimasu](https://cdn.myanimelist.net/images/manga/1/149422.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界で『黒の癒し手』って呼ばれています
 -   **start-date**: 2013-06-25

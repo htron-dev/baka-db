@@ -1,5 +1,7 @@
 # Full Moon
 
+![full-moon](https://cdn.myanimelist.net/images/manga/1/17704.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 -   **original-name**: 満月 - 만월

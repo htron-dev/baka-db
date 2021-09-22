@@ -1,5 +1,7 @@
 # Kino no Tabi: The Beautiful World - The Animated Series - Haikyo no Kuni - On Your Way
 
+![kino-no-tabi-the-beautiful-world-the-animated-series-haikyo-no-kuni-on-your-way](https://cdn.myanimelist.net/images/anime/1052/93465.jpg)
+
 -   **type**: special
 -   **episodes**: 27
 -   **original-name**: 多数決ドラマ『キノの旅 the Beautiful World 「廃墟の国」-On Your Way- 』

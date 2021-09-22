@@ -1,5 +1,7 @@
 # Li Linke de Xiao Guaner
 
+![li-linke-de-xiao-guaner](https://cdn.myanimelist.net/images/anime/1442/114642.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 李林克的小馆儿

@@ -1,5 +1,7 @@
 # Ai ga Nakuchane
 
+![ai-ga-nakuchane](https://cdn.myanimelist.net/images/manga/3/2555.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 

@@ -1,5 +1,7 @@
 # Toaru Majutsu no Index II
 
+![toaru-majutsu-no-index-ii](https://cdn.myanimelist.net/images/anime/9/75612.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: とある魔術の禁書目録 Ⅱ

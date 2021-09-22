@@ -1,5 +1,7 @@
 # Akazukin Chacha
 
+![akazukin-chacha](https://cdn.myanimelist.net/images/anime/1098/108972.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 74
 -   **original-name**: 赤ずきんチャチャ

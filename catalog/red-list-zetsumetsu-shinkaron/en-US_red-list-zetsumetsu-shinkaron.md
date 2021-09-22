@@ -1,5 +1,7 @@
 # Red List: Zetsumetsu Shinkaron
 
+![red-list-zetsumetsu-shinkaron](https://cdn.myanimelist.net/images/manga/1/241272.jpg)
+
 -   **type**: manga
 -   **original-name**: レッドリスト 絶滅進化論
 -   **start-date**: 2021-01-27

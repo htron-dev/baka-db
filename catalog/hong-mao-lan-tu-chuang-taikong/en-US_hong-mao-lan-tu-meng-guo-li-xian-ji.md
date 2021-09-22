@@ -1,5 +1,7 @@
 # Hong Mao Lan Tu: Meng Guo Li Xian Ji
 
+![hong-mao-lan-tu-meng-guo-li-xian-ji](https://cdn.myanimelist.net/images/anime/1027/98708.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 56
 -   **original-name**: 虹猫蓝兔梦之国历险记

@@ -1,5 +1,7 @@
 # "Bungaku Shoujo" Movie
 
+![bungaku-shoujo-movie](https://cdn.myanimelist.net/images/anime/8/81162.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版“文学少女”
@@ -28,4 +30,4 @@ This continued on until he was forced to join the literary club by the literary 
 -   [Official Site](http://www.bungakushoujo.jp/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=6959)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10815)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Book_Girl_(film)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Book_Girl_%28film%29)

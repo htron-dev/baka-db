@@ -1,5 +1,7 @@
 # Tenjoubito to Akutobito Saigo no Tatakai
 
+![tenjoubito-to-akutobito-saigo-no-tatakai](https://cdn.myanimelist.net/images/anime/3/24577.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 天上人とアクト人最後の戦い

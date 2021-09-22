@@ -1,5 +1,7 @@
 # Boku to Kanojo no Meguru Isekai
 
+![boku-to-kanojo-no-meguru-isekai](https://cdn.myanimelist.net/images/manga/1/237614.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

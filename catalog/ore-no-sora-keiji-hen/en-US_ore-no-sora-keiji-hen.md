@@ -1,5 +1,7 @@
 # Ore no Sora Keiji-hen
 
+![ore-no-sora-keiji-hen](https://cdn.myanimelist.net/images/anime/8/25868.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 俺の空 刑事篇

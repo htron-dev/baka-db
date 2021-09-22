@@ -1,5 +1,7 @@
 # Issho ni Ofuro
 
+![issho-ni-ofuro](https://cdn.myanimelist.net/images/manga/3/171801.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

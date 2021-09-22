@@ -1,5 +1,7 @@
 # Chou Kanden Shoujo Mona
 
+![chou-kanden-shoujo-mona](https://cdn.myanimelist.net/images/manga/1/132029.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 超感電少女モナ

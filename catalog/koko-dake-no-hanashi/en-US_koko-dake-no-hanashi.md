@@ -1,5 +1,7 @@
 # Koko dake no Hanashi.
 
+![koko-dake-no-hanashi](https://cdn.myanimelist.net/images/manga/3/158110.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

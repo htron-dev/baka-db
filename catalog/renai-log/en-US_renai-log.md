@@ -1,5 +1,7 @@
 # Renai Log
 
+![renai-log](https://cdn.myanimelist.net/images/manga/2/192123.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

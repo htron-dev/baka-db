@@ -1,5 +1,7 @@
 # Itaitashii Love
 
+![itaitashii-love](https://cdn.myanimelist.net/images/manga/3/65113.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 23

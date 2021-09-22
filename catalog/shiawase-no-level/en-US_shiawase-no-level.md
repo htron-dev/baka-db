@@ -1,5 +1,7 @@
 # Shiawase no Level
 
+![shiawase-no-level](https://cdn.myanimelist.net/images/manga/2/6226.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

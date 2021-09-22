@@ -1,5 +1,7 @@
 # Timing
 
+![timing](https://cdn.myanimelist.net/images/anime/7/26766.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: TIMING

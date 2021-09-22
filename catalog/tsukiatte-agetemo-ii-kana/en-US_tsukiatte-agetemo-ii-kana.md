@@ -1,5 +1,7 @@
 # Tsukiatte Agetemo Ii kana
 
+![tsukiatte-agetemo-ii-kana](https://cdn.myanimelist.net/images/manga/1/221553.jpg)
+
 -   **type**: manga
 -   **original-name**: 付き合ってあげてもいいかな
 -   **start-date**: 2018-08-17

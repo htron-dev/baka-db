@@ -1,5 +1,7 @@
 # Tentai Senshi Sunred
 
+![tentai-senshi-sunred](https://cdn.myanimelist.net/images/anime/11/11740.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 天体戦士サンレッド

@@ -1,5 +1,7 @@
 # Hua Jiang Hu Zhi Bu Liang Ren 3rd Season
 
+![hua-jiang-hu-zhi-bu-liang-ren-3rd-season](https://cdn.myanimelist.net/images/anime/1580/98712.jpg)
+
 -   **type**: ona
 -   **episodes**: 40
 -   **original-name**: 画江湖之不良人 第 3 季

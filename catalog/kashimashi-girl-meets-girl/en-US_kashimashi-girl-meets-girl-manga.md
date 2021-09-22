@@ -1,5 +1,7 @@
 # Kashimashi: Girl Meets Girl
 
+![kashimashi-girl-meets-girl](https://cdn.myanimelist.net/images/manga/3/4758.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 35

@@ -1,5 +1,7 @@
 # Crows Gaiden: Katagiri Ken Monogatari
 
+![crows-gaiden-katagiri-ken-monogatari](https://cdn.myanimelist.net/images/manga/3/151018.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

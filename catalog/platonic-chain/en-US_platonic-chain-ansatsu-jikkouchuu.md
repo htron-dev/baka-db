@@ -1,5 +1,7 @@
 # Platonic Chain: Ansatsu Jikkouchuu
 
+![platonic-chain-ansatsu-jikkouchuu](https://cdn.myanimelist.net/images/anime/8/83126.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: プラトニックチェーン 暗殺実行中

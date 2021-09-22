@@ -1,5 +1,7 @@
 # Sukeban Deka
 
+![sukeban-deka](https://cdn.myanimelist.net/images/anime/5/3675.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: スケバン刑事

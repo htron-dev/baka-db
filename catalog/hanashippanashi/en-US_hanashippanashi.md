@@ -1,5 +1,7 @@
 # Hanashippanashi
 
+![hanashippanashi](https://cdn.myanimelist.net/images/manga/5/68427.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 45

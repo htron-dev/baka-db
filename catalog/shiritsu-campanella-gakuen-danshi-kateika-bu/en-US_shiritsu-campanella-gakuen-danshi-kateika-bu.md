@@ -1,5 +1,7 @@
 # Shiritsu Campanella Gakuen Danshi Kateika-bu
 
+![shiritsu-campanella-gakuen-danshi-kateika-bu](https://cdn.myanimelist.net/images/manga/2/234641.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

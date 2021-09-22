@@ -1,5 +1,7 @@
 # Servamp Specials
 
+![servamp-specials](https://cdn.myanimelist.net/images/anime/9/83960.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: SERVAMP-サーヴァンプ- オリジナルビデオアニメーション「Sleepy Life of SERVAMP」

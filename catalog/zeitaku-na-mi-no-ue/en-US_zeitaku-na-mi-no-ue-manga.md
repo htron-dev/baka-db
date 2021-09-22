@@ -1,5 +1,7 @@
 # Zeitaku na Mi no Ue
 
+![zeitaku-na-mi-no-ue](https://cdn.myanimelist.net/images/manga/2/151139.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

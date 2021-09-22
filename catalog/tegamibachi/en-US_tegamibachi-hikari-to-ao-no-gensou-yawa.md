@@ -1,5 +1,7 @@
 # Tegamibachi: Hikari to Ao no Gensou Yawa
 
+![tegamibachi-hikari-to-ao-no-gensou-yawa](https://cdn.myanimelist.net/images/anime/9/84685.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: テガミバチ 光と青の幻想夜話

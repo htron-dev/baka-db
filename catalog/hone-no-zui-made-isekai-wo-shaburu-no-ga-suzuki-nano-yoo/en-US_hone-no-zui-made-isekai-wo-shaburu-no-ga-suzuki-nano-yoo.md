@@ -1,5 +1,7 @@
 # Hone no Zui made Isekai wo Shaburu no ga Suzuki nano yoo!!
 
+![hone-no-zui-made-isekai-wo-shaburu-no-ga-suzuki-nano-yoo](https://cdn.myanimelist.net/images/manga/2/200324.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 骨の髄まで異世界をしゃぶるのが鈴木なのよー!!
 -   **start-date**: 2017-08-25

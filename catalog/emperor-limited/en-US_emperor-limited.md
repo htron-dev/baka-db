@@ -1,5 +1,7 @@
 # Emperor Limited
 
+![emperor-limited](https://cdn.myanimelist.net/images/manga/3/170872.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

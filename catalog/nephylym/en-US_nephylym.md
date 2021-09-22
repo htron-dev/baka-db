@@ -1,5 +1,7 @@
 # Nephylym
 
+![nephylym](https://cdn.myanimelist.net/images/manga/3/9194.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

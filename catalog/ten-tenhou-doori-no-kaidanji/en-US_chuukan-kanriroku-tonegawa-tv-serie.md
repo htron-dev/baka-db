@@ -1,5 +1,7 @@
 # Chuukan Kanriroku Tonegawa
 
+![chuukan-kanriroku-tonegawa](https://cdn.myanimelist.net/images/anime/1072/93145.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 中間管理録トネガワ

@@ -1,5 +1,7 @@
 # Naruto: Shippuuden Movie 2 - Kizuna
 
+![naruto-shippuuden-movie-2-kizuna](https://cdn.myanimelist.net/images/anime/3/17830.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 NARUTO-ナルト- 疾風伝 絆

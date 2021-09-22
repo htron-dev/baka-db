@@ -1,5 +1,7 @@
 # Makai Senki Disgaea 3: School of Devils
 
+![makai-senki-disgaea-3-school-of-devils](https://cdn.myanimelist.net/images/manga/4/45459.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

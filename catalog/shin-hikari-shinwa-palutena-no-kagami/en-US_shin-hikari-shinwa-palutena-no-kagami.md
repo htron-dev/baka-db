@@ -1,5 +1,7 @@
 # Shin Hikari Shinwa: Palutena no Kagami
 
+![shin-hikari-shinwa-palutena-no-kagami](https://cdn.myanimelist.net/images/anime/3/89757.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: 新・光神話 パルテナの鏡

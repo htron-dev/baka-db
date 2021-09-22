@@ -1,5 +1,7 @@
 # Baby, Sugar, Succubus
 
+![baby-sugar-succubus](https://cdn.myanimelist.net/images/manga/3/242951.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

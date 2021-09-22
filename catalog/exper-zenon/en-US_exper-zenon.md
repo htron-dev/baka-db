@@ -1,5 +1,7 @@
 # Exper Zenon
 
+![exper-zenon](https://cdn.myanimelist.net/images/anime/1509/105899.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: エクスパー ゼノン

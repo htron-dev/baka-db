@@ -1,5 +1,7 @@
 # The Wicked Queen
 
+![the-wicked-queen](https://cdn.myanimelist.net/images/manga/2/243613.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 궁에는 개꽃이 산다
 -   **start-date**: 2017-09-27

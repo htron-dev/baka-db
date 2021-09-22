@@ -1,5 +1,7 @@
 # Rekka no Honoo: Final Burning
 
+![rekka-no-honoo-final-burning](https://cdn.myanimelist.net/images/anime/13/11830.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 烈火の炎 FINAL BURNING

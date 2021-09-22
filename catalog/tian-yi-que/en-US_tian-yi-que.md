@@ -1,5 +1,7 @@
 # Tian Yi Que
 
+![tian-yi-que](https://cdn.myanimelist.net/images/anime/1029/110314.jpg)
+
 -   **type**: ona
 -   **original-name**: 天一阙
 -   **rating**: None

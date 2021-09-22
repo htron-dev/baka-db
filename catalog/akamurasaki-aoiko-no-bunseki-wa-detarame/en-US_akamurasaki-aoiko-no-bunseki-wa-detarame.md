@@ -1,5 +1,7 @@
 # Akamurasaki Aoiko no Bunseki wa Detarame
 
+![akamurasaki-aoiko-no-bunseki-wa-detarame](https://cdn.myanimelist.net/images/manga/2/164569.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 赤村崎葵子の分析はデタラメ

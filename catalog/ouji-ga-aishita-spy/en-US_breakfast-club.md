@@ -1,5 +1,7 @@
 # Breakfast Club
 
+![breakfast-club](https://cdn.myanimelist.net/images/manga/1/86089.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

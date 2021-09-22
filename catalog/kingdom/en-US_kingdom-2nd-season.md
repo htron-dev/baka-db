@@ -1,5 +1,7 @@
 # Kingdom 2nd Season
 
+![kingdom-2nd-season](https://cdn.myanimelist.net/images/anime/13/53589.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: キングダム 第 2 シリーズ

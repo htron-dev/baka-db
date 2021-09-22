@@ -1,5 +1,7 @@
 # Akuemon
 
+![akuemon](https://cdn.myanimelist.net/images/anime/3/87863.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 悪右衛門

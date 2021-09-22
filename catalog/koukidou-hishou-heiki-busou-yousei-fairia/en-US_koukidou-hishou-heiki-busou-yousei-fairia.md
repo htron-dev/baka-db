@@ -1,5 +1,7 @@
 # Koukidou Hishou Heiki: Busou Yousei Fairia
 
+![koukidou-hishou-heiki-busou-yousei-fairia](https://cdn.myanimelist.net/images/manga/1/163380.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 24

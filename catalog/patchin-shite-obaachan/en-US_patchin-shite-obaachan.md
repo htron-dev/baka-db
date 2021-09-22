@@ -1,5 +1,7 @@
 # Patchin shite! Obaachan
 
+![patchin-shite-obaachan](https://cdn.myanimelist.net/images/anime/10/13105.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: パッチンして！おばあちゃん

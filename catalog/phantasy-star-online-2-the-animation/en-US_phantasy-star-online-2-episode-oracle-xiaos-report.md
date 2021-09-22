@@ -1,5 +1,7 @@
 # Phantasy Star Online 2: Episode Oracle - Xiao's Report
 
+![phantasy-star-online-2-episode-oracle-xiaos-report](https://cdn.myanimelist.net/images/anime/1649/105374.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ファンタシースターオンライン 2 エピソード・オラクル シャオ's リポート

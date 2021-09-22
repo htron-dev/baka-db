@@ -1,5 +1,7 @@
 # Akuma no Yokubou: Boku no Oukoku no Eikoseisui
 
+![akuma-no-yokubou-boku-no-oukoku-no-eikoseisui](https://cdn.myanimelist.net/images/manga/3/169748.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

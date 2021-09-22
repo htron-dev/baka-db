@@ -1,5 +1,7 @@
 # Ana Satsujin
 
+![ana-satsujin](https://cdn.myanimelist.net/images/manga/2/128593.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 135

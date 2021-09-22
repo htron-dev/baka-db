@@ -1,5 +1,7 @@
 # Zenryaku Yuusha-sama, Maou ga Koutsuu Jiko de Nakunarimashita
 
+![zenryaku-yuusha-sama-maou-ga-koutsuu-jiko-de-nakunarimashita](https://cdn.myanimelist.net/images/manga/3/168633.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Chuutai Afro Tanaka
 
+![chuutai-afro-tanaka](https://cdn.myanimelist.net/images/manga/3/169044.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 117

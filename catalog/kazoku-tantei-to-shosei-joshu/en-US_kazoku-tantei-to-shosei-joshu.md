@@ -1,5 +1,7 @@
 # Kazoku Tantei to Shosei Joshu
 
+![kazoku-tantei-to-shosei-joshu](https://cdn.myanimelist.net/images/manga/1/171338.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 華族探偵と書生助手
 -   **start-date**: 2015-08-04

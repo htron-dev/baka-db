@@ -1,12 +1,13 @@
 # Marshmellow Tsuushin
 
+![marshmellow-tsuushin](https://cdn.myanimelist.net/images/manga/3/27746.jpg)
+
 -   **type**: manga
 -   **original-name**: マシュマロ通信
 
 ## Tags
 
 -   comedy
-
 -   school
 -   slice-of-life
 

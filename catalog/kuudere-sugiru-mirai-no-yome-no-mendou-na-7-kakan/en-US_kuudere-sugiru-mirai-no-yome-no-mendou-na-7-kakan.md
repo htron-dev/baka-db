@@ -1,5 +1,7 @@
 # Kuudere Sugiru Mirai no Yome no Mendou na 7-kakan
 
+![kuudere-sugiru-mirai-no-yome-no-mendou-na-7-kakan](https://cdn.myanimelist.net/images/manga/1/166355.jpg)
+
 -   **type**: light-novel
 -   **original-name**: クーデレすぎる未来の嫁の面倒な 7 日間
 -   **start-date**: 2013-12-20

@@ -1,5 +1,7 @@
 # Hello Work
 
+![hello-work](https://cdn.myanimelist.net/images/manga/1/122635.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

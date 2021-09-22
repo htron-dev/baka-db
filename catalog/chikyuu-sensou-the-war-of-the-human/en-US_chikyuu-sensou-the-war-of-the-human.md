@@ -1,5 +1,7 @@
 # Chikyuu Sensou: The War of the Human
 
+![chikyuu-sensou-the-war-of-the-human](https://cdn.myanimelist.net/images/manga/1/151508.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 32

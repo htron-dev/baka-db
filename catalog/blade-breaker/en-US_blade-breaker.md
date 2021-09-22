@@ -1,5 +1,7 @@
 # Blade Breaker
 
+![blade-breaker](https://cdn.myanimelist.net/images/manga/2/92687.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

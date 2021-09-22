@@ -1,5 +1,7 @@
 # Akutou II
 
+![akutou-ii](https://cdn.myanimelist.net/images/manga/1/39584.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

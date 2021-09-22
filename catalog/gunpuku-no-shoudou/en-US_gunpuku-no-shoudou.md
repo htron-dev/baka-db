@@ -1,5 +1,7 @@
 # Gunpuku no Shoudou
 
+![gunpuku-no-shoudou](https://cdn.myanimelist.net/images/manga/1/178025.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Love-teki
 
+![love-teki](https://cdn.myanimelist.net/images/manga/1/172804.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

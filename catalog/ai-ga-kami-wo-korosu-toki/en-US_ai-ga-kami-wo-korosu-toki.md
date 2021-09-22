@@ -1,5 +1,7 @@
 # Ai ga Kami wo Korosu Toki
 
+![ai-ga-kami-wo-korosu-toki](https://cdn.myanimelist.net/images/manga/1/23882.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

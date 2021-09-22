@@ -1,5 +1,7 @@
 # Chameleon (OVA)
 
+![chameleon-ova](https://cdn.myanimelist.net/images/anime/12/10924.jpg)
+
 -   **type**: ova
 -   **episodes**: 6
 -   **original-name**: カメレオン

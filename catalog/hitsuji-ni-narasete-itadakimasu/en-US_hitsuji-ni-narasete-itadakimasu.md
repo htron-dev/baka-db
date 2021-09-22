@@ -1,5 +1,7 @@
 # Hitsuji ni Narasete Itadakimasu!
 
+![hitsuji-ni-narasete-itadakimasu](https://cdn.myanimelist.net/images/manga/1/241826.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

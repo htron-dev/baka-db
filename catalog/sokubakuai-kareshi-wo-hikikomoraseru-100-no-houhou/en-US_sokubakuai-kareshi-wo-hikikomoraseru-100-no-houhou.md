@@ -1,5 +1,7 @@
 # Sokubakuai: Kareshi wo Hikikomoraseru 100 no Houhou
 
+![sokubakuai-kareshi-wo-hikikomoraseru-100-no-houhou](https://cdn.myanimelist.net/images/manga/3/156983.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

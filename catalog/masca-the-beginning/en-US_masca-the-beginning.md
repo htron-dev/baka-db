@@ -1,5 +1,7 @@
 # Masca: The Beginning
 
+![masca-the-beginning](https://cdn.myanimelist.net/images/manga/3/116801.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 9

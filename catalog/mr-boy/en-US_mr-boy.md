@@ -1,5 +1,7 @@
 # Mr. Boy
 
+![mr-boy](https://cdn.myanimelist.net/images/manga/1/241375.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 35

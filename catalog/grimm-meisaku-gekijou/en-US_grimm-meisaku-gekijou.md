@@ -1,5 +1,7 @@
 # Grimm Meisaku Gekijou
 
+![grimm-meisaku-gekijou](https://cdn.myanimelist.net/images/anime/1562/96991.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: グリム名作劇場
@@ -14,7 +16,6 @@
 -   adventure
 -   comedy
 -   fantasy
-
 -   magic
 
 ## Sinopse

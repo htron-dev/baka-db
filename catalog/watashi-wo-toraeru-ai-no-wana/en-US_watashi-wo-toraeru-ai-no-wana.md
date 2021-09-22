@@ -1,5 +1,7 @@
 # Watashi wo Toraeru Ai no Wana
 
+![watashi-wo-toraeru-ai-no-wana](https://cdn.myanimelist.net/images/manga/3/77231.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

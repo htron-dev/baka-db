@@ -1,5 +1,7 @@
 # Glasslip
 
+![glasslip](https://cdn.myanimelist.net/images/manga/3/141815.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 小説版 グラスリップ
 -   **start-date**: 2014-10-03

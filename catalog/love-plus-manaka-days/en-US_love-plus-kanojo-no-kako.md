@@ -1,5 +1,7 @@
 # Love Plus: Kanojo no Kako
 
+![love-plus-kanojo-no-kako](https://cdn.myanimelist.net/images/manga/2/176823.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

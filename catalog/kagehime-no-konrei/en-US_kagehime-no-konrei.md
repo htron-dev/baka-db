@@ -1,5 +1,7 @@
 # Kagehime no Konrei
 
+![kagehime-no-konrei](https://cdn.myanimelist.net/images/manga/1/201567.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

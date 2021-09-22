@@ -1,5 +1,7 @@
 # Fate/Grand Order: Zettai Majuu Sensen Babylonia Recaps
 
+![fate-grand-order-zettai-majuu-sensen-babylonia-recaps](https://cdn.myanimelist.net/images/anime/1336/105307.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: Fate/Grand Order -絶対魔獣戦線バビロニア- 総集編

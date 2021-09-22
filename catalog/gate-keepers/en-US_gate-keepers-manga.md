@@ -1,5 +1,7 @@
 # Gate Keepers
 
+![gate-keepers](https://cdn.myanimelist.net/images/manga/2/35659.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

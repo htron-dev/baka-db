@@ -1,5 +1,7 @@
 # Chuuhai Lemon: Love 30s - Ame ni Nurete mo
 
+![chuuhai-lemon-love-30-s-ame-ni-nurete-mo](https://cdn.myanimelist.net/images/anime/6/27716.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 酎ハイれもん LOVE30S 雨にぬれても

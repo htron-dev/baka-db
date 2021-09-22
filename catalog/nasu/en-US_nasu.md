@@ -1,5 +1,7 @@
 # Nasu
 
+![nasu](https://cdn.myanimelist.net/images/manga/5/13073.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

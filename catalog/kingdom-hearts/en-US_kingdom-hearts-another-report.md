@@ -1,5 +1,7 @@
 # Kingdom Hearts Another Report
 
+![kingdom-hearts-another-report](https://cdn.myanimelist.net/images/manga/3/203230.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: キングダムハーツ アナザーレポート

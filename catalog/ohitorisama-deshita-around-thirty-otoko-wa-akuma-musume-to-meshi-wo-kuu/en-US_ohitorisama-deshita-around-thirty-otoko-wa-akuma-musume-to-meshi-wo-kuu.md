@@ -1,5 +1,7 @@
 # Ohitorisama Deshita.: Around Thirty Otoko wa, Akuma Musume to Meshi wo Kuu
 
+![ohitorisama-deshita-around-thirty-otoko-wa-akuma-musume-to-meshi-wo-kuu](https://cdn.myanimelist.net/images/manga/3/179760.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 20

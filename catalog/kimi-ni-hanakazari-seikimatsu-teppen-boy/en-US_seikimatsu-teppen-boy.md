@@ -1,5 +1,7 @@
 # Seikimatsu Teppen BOY
 
+![seikimatsu-teppen-boy](https://cdn.myanimelist.net/images/manga/1/8026.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 世紀末てっぺん BOY

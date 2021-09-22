@@ -1,5 +1,7 @@
 # Makui no Rease
 
+![makui-no-rease](https://cdn.myanimelist.net/images/manga/3/192166.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 53

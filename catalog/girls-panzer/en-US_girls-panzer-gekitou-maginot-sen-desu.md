@@ -1,5 +1,7 @@
 # Girls & Panzer: Gekitou! Maginot-sen desu!!
 
+![girls-panzer-gekitou-maginot-sen-desu](https://cdn.myanimelist.net/images/manga/2/201017.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

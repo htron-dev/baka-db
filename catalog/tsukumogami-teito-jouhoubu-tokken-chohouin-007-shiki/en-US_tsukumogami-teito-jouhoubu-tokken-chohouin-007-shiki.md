@@ -1,5 +1,7 @@
 # Tsukumogami: Teito Jouhoubu Tokken Chohouin 007-shiki
 
+![tsukumogami-teito-jouhoubu-tokken-chohouin-007-shiki](https://cdn.myanimelist.net/images/manga/1/128659.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ツクモガミ 帝都情報部特権諜報員零零七式

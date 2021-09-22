@@ -1,5 +1,7 @@
 # Futari Koi Fuwari
 
+![futari-koi-fuwari](https://cdn.myanimelist.net/images/manga/1/22852.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

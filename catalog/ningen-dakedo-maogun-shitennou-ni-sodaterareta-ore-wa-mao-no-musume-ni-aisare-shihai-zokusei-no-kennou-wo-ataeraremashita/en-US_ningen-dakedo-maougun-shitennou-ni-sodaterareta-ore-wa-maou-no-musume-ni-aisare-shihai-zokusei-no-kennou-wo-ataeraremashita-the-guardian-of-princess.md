@@ -1,5 +1,7 @@
 # Ningen dakedo Maougun Shitennou ni Sodaterareta Ore wa, Maou no Musume ni Aisare Shihai Zokusei no Kennou wo Ataeraremashita.: The Guardian of Princess
 
+![ningen-dakedo-maougun-shitennou-ni-sodaterareta-ore-wa-maou-no-musume-ni-aisare-shihai-zokusei-no-kennou-wo-ataeraremashita-the-guardian-of-princess](https://cdn.myanimelist.net/images/manga/3/245044.jpg)
+
 -   **type**: manga
 -   **original-name**: 人間だけど魔王軍四天王に育てられた俺は、魔王の娘に愛され支配属性の権能を与えられました。～ The guardian of princess ～
 -   **start-date**: 2020-03-26

@@ -1,5 +1,7 @@
 # Shokubutsu Zukan
 
+![shokubutsu-zukan](https://cdn.myanimelist.net/images/manga/3/179096.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 13

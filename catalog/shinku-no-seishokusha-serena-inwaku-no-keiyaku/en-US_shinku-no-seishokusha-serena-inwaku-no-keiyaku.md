@@ -1,5 +1,7 @@
 # Shinku no Seishokusha Serena: Inwaku no Keiyaku
 
+![shinku-no-seishokusha-serena-inwaku-no-keiyaku](https://cdn.myanimelist.net/images/manga/3/169738.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

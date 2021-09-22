@@ -1,5 +1,7 @@
 # Mobile Suit Gundam Unicorn
 
+![mobile-suit-gundam-unicorn](https://cdn.myanimelist.net/images/anime/12/50459.jpg)
+
 -   **type**: ova
 -   **episodes**: 7
 -   **original-name**: 機動戦士ガンダム UC（ユニコーン）

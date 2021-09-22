@@ -1,5 +1,7 @@
 # Tsuma ni Koisuru 66 no Houhou
 
+![tsuma-ni-koisuru-66-no-houhou](https://cdn.myanimelist.net/images/manga/2/192627.jpg)
+
 -   **type**: manga
 -   **original-name**: 妻に恋する 66 の方法
 -   **start-date**: 2016-03-08

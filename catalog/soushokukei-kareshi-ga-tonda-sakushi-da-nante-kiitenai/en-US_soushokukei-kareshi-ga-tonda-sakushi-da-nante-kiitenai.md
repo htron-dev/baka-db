@@ -1,5 +1,7 @@
 # Soushokukei Kareshi ga Tonda Sakushi da nante Kiitenai
 
+![soushokukei-kareshi-ga-tonda-sakushi-da-nante-kiitenai](https://cdn.myanimelist.net/images/manga/2/181321.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 草食系彼氏がとんだ策士だなんて聞いてない

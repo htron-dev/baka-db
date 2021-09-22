@@ -1,5 +1,7 @@
 # Koi no Jumon
 
+![koi-no-jumon](https://cdn.myanimelist.net/images/manga/1/62893.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

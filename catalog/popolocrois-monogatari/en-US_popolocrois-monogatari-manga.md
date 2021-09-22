@@ -1,5 +1,7 @@
 # Popolocrois Monogatari
 
+![popolocrois-monogatari](https://cdn.myanimelist.net/images/manga/1/172349.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ポポロクロイス物語

@@ -1,5 +1,7 @@
 # Taishou Yakyuu Musume.
 
+![taishou-yakyuu-musume](https://cdn.myanimelist.net/images/manga/3/156395.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 32

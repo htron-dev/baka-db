@@ -1,5 +1,7 @@
 # Super Secret
 
+![super-secret](https://cdn.myanimelist.net/images/anime/1550/107929.jpg)
+
 -   **type**: ona
 -   **original-name**: 슈퍼 시크릿
 -   **start-date**: 2020-05-30

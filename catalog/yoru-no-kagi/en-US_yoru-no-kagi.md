@@ -1,5 +1,7 @@
 # Yoru no Kagi
 
+![yoru-no-kagi](https://cdn.myanimelist.net/images/manga/3/210976.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 52

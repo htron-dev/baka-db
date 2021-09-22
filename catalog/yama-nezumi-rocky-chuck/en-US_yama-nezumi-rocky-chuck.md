@@ -1,5 +1,7 @@
 # Yama Nezumi Rocky Chuck
 
+![yama-nezumi-rocky-chuck](https://cdn.myanimelist.net/images/anime/2/56399.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 山ねずみ ロッキーチャック

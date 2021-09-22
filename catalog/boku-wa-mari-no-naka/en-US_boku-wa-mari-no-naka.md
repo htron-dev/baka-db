@@ -1,5 +1,7 @@
 # Boku wa Mari no Naka
 
+![boku-wa-mari-no-naka](https://cdn.myanimelist.net/images/manga/2/88263.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 80

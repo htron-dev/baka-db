@@ -1,5 +1,7 @@
 # Ecchi Battle!
 
+![ecchi-battle](https://cdn.myanimelist.net/images/manga/2/13522.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: えっちバトル!

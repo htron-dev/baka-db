@@ -1,5 +1,7 @@
 # 5-tsu Kazoereba Kimi no Yume
 
+![5-tsu-kazoereba-kimi-no-yume](https://cdn.myanimelist.net/images/manga/2/135475.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

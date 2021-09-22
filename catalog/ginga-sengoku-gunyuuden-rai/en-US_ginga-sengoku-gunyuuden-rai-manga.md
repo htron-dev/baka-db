@@ -1,5 +1,7 @@
 # Ginga Sengoku Gunyuuden Rai
 
+![ginga-sengoku-gunyuuden-rai](https://cdn.myanimelist.net/images/manga/5/75587.jpg)
+
 -   **type**: manga
 -   **volumes**: 27
 -   **original-name**: 銀河戦國群雄伝ライ

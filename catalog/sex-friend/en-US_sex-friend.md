@@ -1,5 +1,7 @@
 # Sex Friend
 
+![sex-friend](https://cdn.myanimelist.net/images/manga/2/5998.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: エスエフ　 SEX FRIEND

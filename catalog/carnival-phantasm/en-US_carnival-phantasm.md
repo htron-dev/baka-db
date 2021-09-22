@@ -1,5 +1,7 @@
 # Carnival Phantasm
 
+![carnival-phantasm](https://cdn.myanimelist.net/images/anime/1018/92921.jpg)
+
 -   **type**: ova
 -   **episodes**: 12
 -   **original-name**: カーニバル・ファンタズム

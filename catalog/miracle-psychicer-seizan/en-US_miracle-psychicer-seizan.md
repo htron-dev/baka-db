@@ -1,5 +1,7 @@
 # Miracle Psychicer Seizan
 
+![miracle-psychicer-seizan](https://cdn.myanimelist.net/images/anime/2/43185.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: ミラクル・サイキッカーセイザン

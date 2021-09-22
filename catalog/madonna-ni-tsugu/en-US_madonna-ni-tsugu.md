@@ -1,5 +1,7 @@
 # Madonna ni Tsugu
 
+![madonna-ni-tsugu](https://cdn.myanimelist.net/images/manga/3/22507.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

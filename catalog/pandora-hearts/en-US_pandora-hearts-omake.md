@@ -1,5 +1,7 @@
 # Pandora Hearts Omake
 
+![pandora-hearts-omake](https://cdn.myanimelist.net/images/anime/13/21439.jpg)
+
 -   **type**: special
 -   **episodes**: 9
 -   **original-name**: PandoraHearts おまけ

@@ -1,5 +1,7 @@
 # Wake Up, Girls! no Miyagi PR Yarasete Kudasai!
 
+![wake-up-girls-no-miyagi-pr-yarasete-kudasai](https://cdn.myanimelist.net/images/anime/5/79532.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Wake Up, Girls！の宮城 PR やらせてください！

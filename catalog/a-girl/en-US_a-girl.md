@@ -1,5 +1,7 @@
 # A-Girl
 
+![a-girl](https://cdn.myanimelist.net/images/anime/12/82178.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: A-Girl [エー・ガール]

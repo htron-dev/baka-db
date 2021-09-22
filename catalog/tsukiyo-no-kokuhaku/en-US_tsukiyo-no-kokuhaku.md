@@ -1,5 +1,7 @@
 # Tsukiyo no Kokuhaku
 
+![tsukiyo-no-kokuhaku](https://cdn.myanimelist.net/images/manga/3/50173.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

@@ -1,5 +1,7 @@
 # Shijou Saikyou no Deshi Kenichi
 
+![shijou-saikyou-no-deshi-kenichi](https://cdn.myanimelist.net/images/anime/9/75515.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: 史上最強の弟子 ケンイチ

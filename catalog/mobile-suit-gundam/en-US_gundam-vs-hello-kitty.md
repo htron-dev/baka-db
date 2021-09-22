@@ -1,5 +1,7 @@
 # Gundam vs Hello Kitty
 
+![gundam-vs-hello-kitty](https://cdn.myanimelist.net/images/anime/1466/100431.jpg)
+
 -   **type**: ona
 -   **episodes**: 3
 -   **original-name**: ガンダム vs ハローキティ
@@ -12,7 +14,6 @@
 -   sci-fi
 -   space
 -   comedy
-
 -   fantasy
 -   mecha
 

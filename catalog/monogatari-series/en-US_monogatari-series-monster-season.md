@@ -1,5 +1,7 @@
 # Monogatari Series: Monster Season
 
+![monogatari-series-monster-season](https://cdn.myanimelist.net/images/manga/1/198051.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 〈物語〉シリーズ モンスターシーズン
 -   **start-date**: 2017-07-20

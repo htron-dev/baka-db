@@ -1,5 +1,7 @@
 # Yasashii Kare to Fukigen Kitsune no Renai Jijou
 
+![yasashii-kare-to-fukigen-kitsune-no-renai-jijou](https://cdn.myanimelist.net/images/manga/1/235950.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

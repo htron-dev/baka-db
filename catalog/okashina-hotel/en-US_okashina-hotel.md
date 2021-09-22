@@ -1,5 +1,7 @@
 # Okashina Hotel
 
+![okashina-hotel](https://cdn.myanimelist.net/images/anime/4/59309.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: おかしなホテル

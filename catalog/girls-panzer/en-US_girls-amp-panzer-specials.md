@@ -1,5 +1,7 @@
 # Girls &amp; Panzer Specials
 
+![girls-amp-panzer-specials](https://cdn.myanimelist.net/images/anime/7/42857.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: ガールズ&パンツァー

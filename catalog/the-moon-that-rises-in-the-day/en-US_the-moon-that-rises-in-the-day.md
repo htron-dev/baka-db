@@ -1,5 +1,7 @@
 # The Moon That Rises in the Day
 
+![the-moon-that-rises-in-the-day](https://cdn.myanimelist.net/images/manga/3/223704.jpg)
+
 -   **type**: manhwa
 -   **original-name**: 낮에 뜨는 달
 -   **start-date**: 2013-05-16

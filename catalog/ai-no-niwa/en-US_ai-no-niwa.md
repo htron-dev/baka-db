@@ -1,5 +1,7 @@
 # Ai no Niwa
 
+![ai-no-niwa](https://cdn.myanimelist.net/images/manga/2/226291.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

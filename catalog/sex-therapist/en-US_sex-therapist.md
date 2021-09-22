@@ -1,5 +1,7 @@
 # Sex Therapist
 
+![sex-therapist](https://cdn.myanimelist.net/images/manga/4/61145.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

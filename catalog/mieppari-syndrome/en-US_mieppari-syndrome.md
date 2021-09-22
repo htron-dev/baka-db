@@ -1,5 +1,7 @@
 # Mieppari Syndrome
 
+![mieppari-syndrome](https://cdn.myanimelist.net/images/manga/1/243864.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 21

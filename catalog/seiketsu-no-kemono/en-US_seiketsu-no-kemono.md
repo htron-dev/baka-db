@@ -1,5 +1,7 @@
 # Seiketsu no Kemono
 
+![seiketsu-no-kemono](https://cdn.myanimelist.net/images/manga/2/203184.jpg)
+
 -   **type**: manga
 -   **original-name**: 聖血の海獣〈けもの〉
 -   **start-date**: 2017-04-07

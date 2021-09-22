@@ -1,5 +1,7 @@
 # Gabriel DropOut
 
+![gabriel-drop-out](https://cdn.myanimelist.net/images/anime/9/82590.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ガヴリールドロップアウト

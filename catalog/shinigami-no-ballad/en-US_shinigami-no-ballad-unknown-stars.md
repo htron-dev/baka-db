@@ -1,5 +1,7 @@
 # Shinigami no Ballad. Unknown Star's
 
+![shinigami-no-ballad-unknown-stars](https://cdn.myanimelist.net/images/manga/2/152726.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 15

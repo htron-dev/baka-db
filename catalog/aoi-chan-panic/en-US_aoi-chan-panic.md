@@ -1,5 +1,7 @@
 # Aoi-chan Panic!
 
+![aoi-chan-panic](https://cdn.myanimelist.net/images/manga/3/16888.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: あおいちゃんパニック!

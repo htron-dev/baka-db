@@ -1,5 +1,7 @@
 # Nanatsu no Hoshi
 
+![nanatsu-no-hoshi](https://cdn.myanimelist.net/images/anime/8/66273.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 七つのほし

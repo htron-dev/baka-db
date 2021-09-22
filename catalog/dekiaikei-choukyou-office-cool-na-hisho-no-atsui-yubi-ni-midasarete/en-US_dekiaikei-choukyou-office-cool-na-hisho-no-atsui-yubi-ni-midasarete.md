@@ -1,5 +1,7 @@
 # Dekiaikei Choukyou Office: Cool na Hisho no Atsui Yubi ni Midasarete
 
+![dekiaikei-choukyou-office-cool-na-hisho-no-atsui-yubi-ni-midasarete](https://cdn.myanimelist.net/images/manga/1/195847.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

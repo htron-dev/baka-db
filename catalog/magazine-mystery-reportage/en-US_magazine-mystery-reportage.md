@@ -1,5 +1,7 @@
 # Magazine Mystery Reportage
 
+![magazine-mystery-reportage](https://cdn.myanimelist.net/images/manga/2/43095.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 65

@@ -1,5 +1,7 @@
 # Itai Ero
 
+![itai-ero](https://cdn.myanimelist.net/images/manga/2/171252.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 30

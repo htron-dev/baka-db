@@ -1,5 +1,7 @@
 # Welcome to Room #305!
 
+![welcome-to-room-305](https://cdn.myanimelist.net/images/manga/4/167348.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 171
 -   **original-name**: 어서오세요. 305호에!

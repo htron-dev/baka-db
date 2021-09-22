@@ -1,5 +1,7 @@
 # Tick &amp; Tack
 
+![tick-amp-tack](https://cdn.myanimelist.net/images/anime/7/70631.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 18
 -   **original-name**: チックンタック

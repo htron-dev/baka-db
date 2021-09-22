@@ -1,5 +1,7 @@
 # Ten Prism
 
+![ten-prism](https://cdn.myanimelist.net/images/manga/1/148315.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 88

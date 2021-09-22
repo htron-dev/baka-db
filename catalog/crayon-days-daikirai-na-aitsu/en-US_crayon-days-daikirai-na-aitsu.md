@@ -1,5 +1,7 @@
 # Crayon Days: Daikirai na Aitsu
 
+![crayon-days-daikirai-na-aitsu](https://cdn.myanimelist.net/images/manga/3/91233.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 27

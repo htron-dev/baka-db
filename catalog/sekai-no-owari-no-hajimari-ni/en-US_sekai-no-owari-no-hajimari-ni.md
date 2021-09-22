@@ -1,5 +1,7 @@
 # Sekai no Owari no Hajimari ni
 
+![sekai-no-owari-no-hajimari-ni](https://cdn.myanimelist.net/images/manga/3/167151.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

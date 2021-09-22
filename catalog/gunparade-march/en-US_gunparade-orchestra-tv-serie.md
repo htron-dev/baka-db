@@ -1,5 +1,7 @@
 # Gunparade Orchestra
 
+![gunparade-orchestra](https://cdn.myanimelist.net/images/anime/9/9074.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ガンパレード・オーケストラ

@@ -1,5 +1,7 @@
 # Hoozuki no Reitetsu 2nd Season
 
+![hoozuki-no-reitetsu-2nd-season](https://cdn.myanimelist.net/images/anime/8/88280.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 鬼灯の冷徹 第弐期

@@ -1,5 +1,7 @@
 # Young Shima Kousaku: Shuunin-hen
 
+![young-shima-kousaku-shuunin-hen](https://cdn.myanimelist.net/images/manga/1/128995.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 48

@@ -1,5 +1,7 @@
 # Touring Express
 
+![touring-express](https://cdn.myanimelist.net/images/manga/1/38942.jpg)
+
 -   **type**: manga
 -   **volumes**: 28
 -   **original-name**: ツーリング・エクスプレス

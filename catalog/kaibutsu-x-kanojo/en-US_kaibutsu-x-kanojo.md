@@ -1,5 +1,7 @@
 # Kaibutsu x Kanojo
 
+![kaibutsu-x-kanojo](https://cdn.myanimelist.net/images/manga/3/160680.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 15

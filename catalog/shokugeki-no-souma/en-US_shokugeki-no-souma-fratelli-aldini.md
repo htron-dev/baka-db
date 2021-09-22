@@ -1,5 +1,7 @@
 # Shokugeki no Souma: Fratelli Aldini
 
+![shokugeki-no-souma-fratelli-aldini](https://cdn.myanimelist.net/images/manga/2/165003.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 食戟のソーマ～ Fratelli Aldini ～

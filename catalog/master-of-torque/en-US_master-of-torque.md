@@ -1,5 +1,7 @@
 # Master of Torque
 
+![master-of-torque](https://cdn.myanimelist.net/images/anime/9/65243.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: マスター・オブ・トルク

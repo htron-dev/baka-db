@@ -1,5 +1,7 @@
 # Rurouni Kenshin: Tokuhitsuban
 
+![rurouni-kenshin-tokuhitsuban](https://cdn.myanimelist.net/images/manga/3/132973.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

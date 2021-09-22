@@ -1,5 +1,7 @@
 # Blood Lad
 
+![blood-lad](https://cdn.myanimelist.net/images/manga/2/138911.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

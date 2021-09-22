@@ -1,5 +1,7 @@
 # Big Order
 
+![big-order](https://cdn.myanimelist.net/images/manga/2/179733.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 55

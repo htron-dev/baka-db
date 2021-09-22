@@ -1,5 +1,7 @@
 # Bukatsu no Kouhai ni Semarareteimasu
 
+![bukatsu-no-kouhai-ni-semarareteimasu](https://cdn.myanimelist.net/images/manga/2/208578.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

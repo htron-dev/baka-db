@@ -1,5 +1,7 @@
 # Uragirareta Yuusha no Sonogo...
 
+![uragirareta-yuusha-no-sonogo](https://cdn.myanimelist.net/images/manga/2/161089.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: 裏切られた勇者のその後…

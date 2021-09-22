@@ -1,5 +1,7 @@
 # Capeta
 
+![capeta](https://cdn.myanimelist.net/images/manga/2/185484.jpg)
+
 -   **type**: manga
 -   **volumes**: 32
 -   **chapters**: 119

@@ -1,5 +1,7 @@
 # Sensei no Bulge
 
+![sensei-no-bulge](https://cdn.myanimelist.net/images/manga/2/178195.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

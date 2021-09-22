@@ -1,5 +1,7 @@
 # Karakai Jouzu no Takagi-san
 
+![karakai-jouzu-no-takagi-san](https://cdn.myanimelist.net/images/manga/3/136045.jpg)
+
 -   **type**: manga
 -   **original-name**: からかい上手の高木さん
 -   **start-date**: 2012-06-12

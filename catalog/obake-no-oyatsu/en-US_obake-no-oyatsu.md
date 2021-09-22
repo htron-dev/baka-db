@@ -1,5 +1,7 @@
 # Obake no Oyatsu
 
+![obake-no-oyatsu](https://cdn.myanimelist.net/images/manga/1/111657.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

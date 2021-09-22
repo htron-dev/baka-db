@@ -1,5 +1,7 @@
 # Last Ranker: Be the Last One
 
+![last-ranker-be-the-last-one](https://cdn.myanimelist.net/images/manga/2/68401.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

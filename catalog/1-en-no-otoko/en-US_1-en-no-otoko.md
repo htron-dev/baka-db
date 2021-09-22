@@ -1,5 +1,7 @@
 # 1-en no Otoko
 
+![1-en-no-otoko](https://cdn.myanimelist.net/images/manga/1/34156.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

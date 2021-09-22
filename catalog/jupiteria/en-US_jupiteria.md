@@ -1,5 +1,7 @@
 # Jupiteria
 
+![jupiteria](https://cdn.myanimelist.net/images/manga/3/234269.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 35

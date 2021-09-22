@@ -1,5 +1,7 @@
 # Yaotsukumo
 
+![yaotsukumo](https://cdn.myanimelist.net/images/manga/1/194891.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

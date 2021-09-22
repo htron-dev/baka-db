@@ -1,5 +1,7 @@
 # JoJo no Kimyou na Bouken: Phantom Blood
 
+![jo-jo-no-kimyou-na-bouken-phantom-blood](https://cdn.myanimelist.net/images/anime/5/50055.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ジョジョの奇妙な冒険 ファントム ブラッド

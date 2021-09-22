@@ -1,5 +1,7 @@
 # Deaikei Site de Imouto to Deau Hanashi
 
+![deaikei-site-de-imouto-to-deau-hanashi](https://cdn.myanimelist.net/images/manga/1/198579.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

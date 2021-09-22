@@ -1,5 +1,7 @@
 # Surechigai Kyodai Kanjou Yuri Anthology
 
+![surechigai-kyodai-kanjou-yuri-anthology](https://cdn.myanimelist.net/images/manga/2/232817.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

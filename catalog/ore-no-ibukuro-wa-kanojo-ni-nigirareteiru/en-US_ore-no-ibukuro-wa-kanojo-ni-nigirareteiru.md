@@ -1,5 +1,7 @@
 # Ore no Ibukuro wa Kanojo ni Nigirareteiru.
 
+![ore-no-ibukuro-wa-kanojo-ni-nigirareteiru](https://cdn.myanimelist.net/images/manga/2/165836.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Leadale no Daichi nite
 
+![leadale-no-daichi-nite](https://cdn.myanimelist.net/images/anime/1082/116978.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: リアデイルの大地にて
 -   **start-date**: 2022-01-20

@@ -1,5 +1,7 @@
 # Shuumatsu no Walküre
 
+![shuumatsu-no-walkure](https://cdn.myanimelist.net/images/manga/3/209957.jpg)
+
 -   **type**: manga
 -   **original-name**: 終末のワルキューレ
 -   **start-date**: 2017-11-25

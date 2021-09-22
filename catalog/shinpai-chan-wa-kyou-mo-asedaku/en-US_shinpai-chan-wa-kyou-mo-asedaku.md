@@ -1,5 +1,7 @@
 # Shinpai-chan wa Kyou mo Asedaku
 
+![shinpai-chan-wa-kyou-mo-asedaku](https://cdn.myanimelist.net/images/manga/1/242267.jpg)
+
 -   **type**: manga
 -   **chapters**: 16
 -   **original-name**: 心配ちゃんは今日も汗だく

@@ -1,5 +1,7 @@
 # 30-sai no Hoken Taiiku Specials
 
+![30-sai-no-hoken-taiiku-specials](https://cdn.myanimelist.net/images/anime/4/55889.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 30 歳の保健体育

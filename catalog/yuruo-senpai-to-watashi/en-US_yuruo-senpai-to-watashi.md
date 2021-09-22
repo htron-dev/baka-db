@@ -1,5 +1,7 @@
 # Yuruo-senpai to Watashi
 
+![yuruo-senpai-to-watashi](https://cdn.myanimelist.net/images/manga/3/205488.jpg)
+
 -   **type**: manga
 -   **original-name**: ゆるお先輩とわたし
 -   **start-date**: 2016-12-26

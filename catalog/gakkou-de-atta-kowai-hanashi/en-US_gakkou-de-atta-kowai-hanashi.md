@@ -1,5 +1,7 @@
 # Gakkou de Atta Kowai Hanashi
 
+![gakkou-de-atta-kowai-hanashi](https://cdn.myanimelist.net/images/manga/1/25690.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

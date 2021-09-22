@@ -1,5 +1,7 @@
 # Banana no Nana
 
+![banana-no-nana](https://cdn.myanimelist.net/images/manga/2/188913.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

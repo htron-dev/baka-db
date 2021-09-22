@@ -1,5 +1,7 @@
 # Brave Fire S0.9
 
+![brave-fire-s-0-9](https://cdn.myanimelist.net/images/anime/12/28049.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ブレイブファイヤー S0・9

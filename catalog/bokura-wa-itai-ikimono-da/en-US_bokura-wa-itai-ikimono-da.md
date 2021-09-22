@@ -1,5 +1,7 @@
 # Bokura wa Itai Ikimono da.
 
+![bokura-wa-itai-ikimono-da](https://cdn.myanimelist.net/images/manga/3/157954.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

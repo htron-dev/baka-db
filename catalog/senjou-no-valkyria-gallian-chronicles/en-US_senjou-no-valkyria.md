@@ -1,5 +1,7 @@
 # Senjou no Valkyria
 
+![senjou-no-valkyria](https://cdn.myanimelist.net/images/anime/6/53901.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 戦場のヴァルキュリア

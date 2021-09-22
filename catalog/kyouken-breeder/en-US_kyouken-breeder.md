@@ -1,5 +1,7 @@
 # Kyouken Breeder
 
+![kyouken-breeder](https://cdn.myanimelist.net/images/manga/2/46895.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Kagome Kagome
 
+![kagome-kagome](https://cdn.myanimelist.net/images/manga/3/146573.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

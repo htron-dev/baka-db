@@ -1,5 +1,7 @@
 # Kiseki no Koibana
 
+![kiseki-no-koibana](https://cdn.myanimelist.net/images/manga/3/14582.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

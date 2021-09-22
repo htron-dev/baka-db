@@ -1,5 +1,7 @@
 # Phantom Burai
 
+![phantom-burai](https://cdn.myanimelist.net/images/manga/2/114959.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 63

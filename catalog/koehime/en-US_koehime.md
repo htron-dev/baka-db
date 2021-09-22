@@ -1,5 +1,7 @@
 # Koehime
 
+![koehime](https://cdn.myanimelist.net/images/manga/5/32397.jpg)
+
 -   **type**: manga
 -   **original-name**: 声姫
 -   **start-date**: 2009-06-16

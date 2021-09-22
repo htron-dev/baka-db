@@ -1,5 +1,7 @@
 # Nonnon Plus 3
 
+![nonnon-plus-3](https://cdn.myanimelist.net/images/manga/2/36856.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ノンノンプラス３

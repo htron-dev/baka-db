@@ -1,5 +1,7 @@
 # Saiyuuki Reload Gunlock
 
+![saiyuuki-reload-gunlock](https://cdn.myanimelist.net/images/anime/11/6830.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 最遊記 RELOAD GUNLOCK

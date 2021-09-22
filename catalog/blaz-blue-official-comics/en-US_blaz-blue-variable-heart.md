@@ -1,5 +1,7 @@
 # BlazBlue: Variable Heart
 
+![blaz-blue-variable-heart](https://cdn.myanimelist.net/images/manga/1/186722.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

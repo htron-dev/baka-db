@@ -1,5 +1,7 @@
 # Classmate Collection
 
+![classmate-collection](https://cdn.myanimelist.net/images/manga/1/160013.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 16

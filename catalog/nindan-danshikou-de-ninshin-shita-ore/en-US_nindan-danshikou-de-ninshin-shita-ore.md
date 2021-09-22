@@ -1,5 +1,7 @@
 # Nindan: Danshikou de Ninshin shita Ore.
 
+![nindan-danshikou-de-ninshin-shita-ore](https://cdn.myanimelist.net/images/manga/2/238153.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 35

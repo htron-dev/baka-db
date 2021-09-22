@@ -1,5 +1,7 @@
 # Nyanta no wo Tanjoubi wa Kaji Sawagi!
 
+![nyanta-no-wo-tanjoubi-wa-kaji-sawagi](https://cdn.myanimelist.net/images/anime/4/84757.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ニャン太のおたんじょう日は火事さわぎ！

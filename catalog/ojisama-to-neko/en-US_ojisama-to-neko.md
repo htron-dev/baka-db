@@ -1,5 +1,7 @@
 # Ojisama to Neko
 
+![ojisama-to-neko](https://cdn.myanimelist.net/images/manga/2/208216.jpg)
+
 -   **type**: manga
 -   **original-name**: おじさまと猫
 -   **start-date**: 2017-06-12

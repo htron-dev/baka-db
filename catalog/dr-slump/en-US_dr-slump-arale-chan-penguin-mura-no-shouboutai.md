@@ -1,5 +1,7 @@
 # Dr. Slump: Arale-chan - Penguin Mura no Shouboutai
 
+![dr-slump-arale-chan-penguin-mura-no-shouboutai](https://cdn.myanimelist.net/images/anime/7/84158.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: Dr.スランプ アラレちゃん ペンギン村の消防隊

@@ -1,5 +1,7 @@
 # Otona no Houkago
 
+![otona-no-houkago](https://cdn.myanimelist.net/images/manga/3/189201.jpg)
+
 -   **type**: manga
 -   **original-name**: おとなのほうかご
 -   **start-date**: 2016-05-20

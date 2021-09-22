@@ -1,5 +1,7 @@
 # Renai Hokou
 
+![renai-hokou](https://cdn.myanimelist.net/images/manga/3/5528.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

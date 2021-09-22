@@ -1,5 +1,7 @@
 # Namapo Aniki
 
+![namapo-aniki](https://cdn.myanimelist.net/images/manga/3/184222.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 生ポアニキ
 -   **start-date**: 2014-10-25

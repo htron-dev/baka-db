@@ -1,5 +1,7 @@
 # Eiga Daisuki Pompo-san
 
+![eiga-daisuki-pompo-san](https://cdn.myanimelist.net/images/anime/1254/94970.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 映画大好きポンポさん

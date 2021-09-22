@@ -1,5 +1,7 @@
 # Naruto Ninden Series
 
+![naruto-ninden-series](https://cdn.myanimelist.net/images/manga/2/70963.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

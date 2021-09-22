@@ -1,5 +1,7 @@
 # Wellber no Monogatari: Kanashimi no Senshi Galahad no Banka
 
+![wellber-no-monogatari-kanashimi-no-senshi-galahad-no-banka](https://cdn.myanimelist.net/images/anime/3/25947.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ウエルベールの物語 Sisters of Wellber 　哀しみの戦士ガラハドの挽歌

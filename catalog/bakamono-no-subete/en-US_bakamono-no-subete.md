@@ -1,5 +1,7 @@
 # Bakamono no Subete
 
+![bakamono-no-subete](https://cdn.myanimelist.net/images/manga/3/178758.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 42

@@ -1,5 +1,7 @@
 # Chibi Maruko-chan: Kimi wo Wasurenai yo
 
+![chibi-maruko-chan-kimi-wo-wasurenai-yo](https://cdn.myanimelist.net/images/manga/1/230459.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

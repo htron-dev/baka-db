@@ -1,5 +1,7 @@
 # No Game No Life: Zero
 
+![no-game-no-life-zero](https://cdn.myanimelist.net/images/anime/1085/90759.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ノーゲーム・ノーライフ ゼロ

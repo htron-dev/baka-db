@@ -1,5 +1,7 @@
 # Renkaku: Kokuhaku Kettou Card Game
 
+![renkaku-kokuhaku-kettou-card-game](https://cdn.myanimelist.net/images/manga/3/122471.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: レンカク～告白決闘カードゲーム～

@@ -1,5 +1,7 @@
 # Café Kichijouji de - Niban Senji
 
+![cafe-kichijouji-de-niban-senji](https://cdn.myanimelist.net/images/manga/1/57633.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # K-On!!: Keikaku!
 
+![k-on-keikaku](https://cdn.myanimelist.net/images/anime/7/26965.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: けいおん!! 計画!

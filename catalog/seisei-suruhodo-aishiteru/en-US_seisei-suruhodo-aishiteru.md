@@ -1,5 +1,7 @@
 # Seisei Suruhodo, Aishiteru
 
+![seisei-suruhodo-aishiteru](https://cdn.myanimelist.net/images/manga/2/177104.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: せいせいするほど、愛してる

@@ -1,5 +1,7 @@
 # Yoiko-sensei to Usuihon no Akuma
 
+![yoiko-sensei-to-usuihon-no-akuma](https://cdn.myanimelist.net/images/manga/2/241780.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 29

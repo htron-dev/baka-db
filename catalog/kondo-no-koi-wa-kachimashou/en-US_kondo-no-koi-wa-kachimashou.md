@@ -1,5 +1,7 @@
 # Kondo no Koi wa Kachimashou
 
+![kondo-no-koi-wa-kachimashou](https://cdn.myanimelist.net/images/manga/2/239837.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

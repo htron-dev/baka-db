@@ -1,5 +1,7 @@
 # Gangsta.
 
+![gangsta](https://cdn.myanimelist.net/images/anime/8/74415.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: GANGSTA. ギャングスタ

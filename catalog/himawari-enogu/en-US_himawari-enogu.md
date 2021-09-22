@@ -1,5 +1,7 @@
 # Himawari Enogu
 
+![himawari-enogu](https://cdn.myanimelist.net/images/manga/3/150399.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

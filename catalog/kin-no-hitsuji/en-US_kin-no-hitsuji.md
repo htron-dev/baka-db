@@ -1,5 +1,7 @@
 # Kin no Hitsuji
 
+![kin-no-hitsuji](https://cdn.myanimelist.net/images/manga/1/215112.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

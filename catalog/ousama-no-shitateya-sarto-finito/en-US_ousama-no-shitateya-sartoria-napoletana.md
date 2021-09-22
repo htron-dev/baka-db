@@ -1,5 +1,7 @@
 # Ousama no Shitateya: Sartoria Napoletana
 
+![ousama-no-shitateya-sartoria-napoletana](https://cdn.myanimelist.net/images/manga/3/232904.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 95

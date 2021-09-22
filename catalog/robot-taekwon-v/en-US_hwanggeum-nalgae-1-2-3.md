@@ -1,5 +1,7 @@
 # Hwanggeum Nalgae 1.2.3.
 
+![hwanggeum-nalgae-1-2-3](https://cdn.myanimelist.net/images/anime/2/44664.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 황금날개 1.2.3.

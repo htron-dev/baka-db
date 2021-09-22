@@ -1,5 +1,7 @@
 # Harmony
 
+![harmony](https://cdn.myanimelist.net/images/anime/2/76993.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: <harmony/> ハーモニー
@@ -24,4 +26,4 @@ In the future, Utopia has finally been achieved thanks to medical nanotechnology
 -   [Official Site](http://www.project-itoh.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=10932)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16580)
--   [Wikipedia](<https://en.wikipedia.org/wiki/Harmony_(2015_film)>)
+-   [Wikipedia](https://en.wikipedia.org/wiki/Harmony_%282015_film%29)

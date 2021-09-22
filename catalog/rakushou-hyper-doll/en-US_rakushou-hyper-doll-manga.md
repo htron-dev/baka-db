@@ -1,5 +1,7 @@
 # Rakushou! Hyper Doll
 
+![rakushou-hyper-doll](https://cdn.myanimelist.net/images/manga/1/18894.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

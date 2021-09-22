@@ -1,5 +1,7 @@
 # Gouin Sakka to Makeinu no Hatsukoi
 
+![gouin-sakka-to-makeinu-no-hatsukoi](https://cdn.myanimelist.net/images/manga/1/146973.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

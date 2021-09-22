@@ -1,5 +1,7 @@
 # Ie ga Moete Jinsei Doudemo Yoku Natta kara Nokotta Nakenashi no Kane de Dark Elf no Dorei wo Katta.
 
+![ie-ga-moete-jinsei-doudemo-yoku-natta-kara-nokotta-nakenashi-no-kane-de-dark-elf-no-dorei-wo-katta](https://cdn.myanimelist.net/images/manga/3/243037.jpg)
+
 -   **type**: manga
 -   **original-name**: 家が燃えて人生どうでも良くなったから、残ったなけなしの金でダークエルフの奴隷を買った。
 -   **start-date**: 2020-08-21

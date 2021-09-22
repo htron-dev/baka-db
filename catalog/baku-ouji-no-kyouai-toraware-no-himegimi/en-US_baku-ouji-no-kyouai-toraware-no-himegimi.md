@@ -1,5 +1,7 @@
 # Baku: Ouji no Kyouai, Toraware no Himegimi
 
+![baku-ouji-no-kyouai-toraware-no-himegimi](https://cdn.myanimelist.net/images/manga/3/158355.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 縛 王子の狂愛、囚われの姫君

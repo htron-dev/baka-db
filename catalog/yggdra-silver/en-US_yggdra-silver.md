@@ -1,5 +1,7 @@
 # Yggdra Silver
 
+![yggdra-silver](https://cdn.myanimelist.net/images/manga/1/242977.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

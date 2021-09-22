@@ -1,5 +1,7 @@
 # Itou-kun wa Koi wo Shiranai.
 
+![itou-kun-wa-koi-wo-shiranai](https://cdn.myanimelist.net/images/manga/3/211641.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

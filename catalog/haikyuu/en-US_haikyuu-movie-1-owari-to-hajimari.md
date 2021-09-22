@@ -1,5 +1,7 @@
 # Haikyuu!! Movie 1: Owari to Hajimari
 
+![haikyuu-movie-1-owari-to-hajimari](https://cdn.myanimelist.net/images/anime/8/76011.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ハイキュー!! 終わりと始まり

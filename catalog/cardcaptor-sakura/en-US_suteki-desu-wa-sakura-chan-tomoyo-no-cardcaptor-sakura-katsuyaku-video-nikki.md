@@ -1,5 +1,7 @@
 # Suteki Desu wa, Sakura-chan! Tomoyo no Cardcaptor Sakura Katsuyaku Video Nikki!
 
+![suteki-desu-wa-sakura-chan-tomoyo-no-cardcaptor-sakura-katsuyaku-video-nikki](https://cdn.myanimelist.net/images/anime/10/68205.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: すてきですわ、さくらちゃん!　知世のカードキャプターさくら活躍ビデオ日記!

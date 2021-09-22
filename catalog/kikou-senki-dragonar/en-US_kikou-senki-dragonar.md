@@ -1,5 +1,7 @@
 # Kikou Senki Dragonar
 
+![kikou-senki-dragonar](https://cdn.myanimelist.net/images/anime/13/11236.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 48
 -   **original-name**: 機甲戦記ドラグナー

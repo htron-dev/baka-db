@@ -1,5 +1,7 @@
 # Mandra-san to Hitoka-tachi
 
+![mandra-san-to-hitoka-tachi](https://cdn.myanimelist.net/images/manga/1/233064.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 24

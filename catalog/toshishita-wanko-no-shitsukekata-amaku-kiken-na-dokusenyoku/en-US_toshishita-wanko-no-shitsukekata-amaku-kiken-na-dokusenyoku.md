@@ -1,5 +1,7 @@
 # Toshishita Wanko no Shitsukekata: Amaku Kiken na Dokusenyoku
 
+![toshishita-wanko-no-shitsukekata-amaku-kiken-na-dokusenyoku](https://cdn.myanimelist.net/images/manga/2/195631.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

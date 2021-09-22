@@ -1,5 +1,7 @@
 # Shounen Maid: Onna wa Dokyou, Otoko wa Aikyou?
 
+![shounen-maid-onna-wa-dokyou-otoko-wa-aikyou](https://cdn.myanimelist.net/images/anime/11/80555.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 少年メイド 第 8.5 話 女は度胸、男は愛嬌？

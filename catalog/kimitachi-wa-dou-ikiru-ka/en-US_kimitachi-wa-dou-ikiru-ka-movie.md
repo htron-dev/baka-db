@@ -1,5 +1,7 @@
 # Kimitachi wa Dou Ikiru ka
 
+![kimitachi-wa-dou-ikiru-ka](https://cdn.myanimelist.net/images/anime/1849/91572.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 君たちはどう生きるか

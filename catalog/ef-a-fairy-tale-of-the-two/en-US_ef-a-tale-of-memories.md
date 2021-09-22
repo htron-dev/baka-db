@@ -1,5 +1,7 @@
 # ef: A Tale of Memories.
 
+![ef-a-tale-of-memories](https://cdn.myanimelist.net/images/anime/11/50411.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ef - a tale of memories.

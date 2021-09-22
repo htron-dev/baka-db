@@ -1,5 +1,7 @@
 # D.C.III: Da Capo III
 
+![d-c-iii-da-capo-iii](https://cdn.myanimelist.net/images/anime/12/44167.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: D.C.III ～ダ・カーポ III ～

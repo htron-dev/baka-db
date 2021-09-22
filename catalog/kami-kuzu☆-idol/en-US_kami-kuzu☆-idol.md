@@ -1,5 +1,7 @@
 # Kami Kuzu☆Idol
 
+![kami-kuzu☆-idol](https://cdn.myanimelist.net/images/manga/1/224374.jpg)
+
 -   **type**: manga
 -   **original-name**: 神クズ ☆ アイドル
 -   **start-date**: 2017-12-28

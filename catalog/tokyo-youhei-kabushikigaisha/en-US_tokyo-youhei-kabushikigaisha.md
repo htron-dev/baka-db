@@ -1,5 +1,7 @@
 # Tokyo Youhei Kabushikigaisha
 
+![tokyo-youhei-kabushikigaisha](https://cdn.myanimelist.net/images/manga/1/222526.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

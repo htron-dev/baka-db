@@ -1,5 +1,7 @@
 # BNA Zero: Massara ni Narenai Kemono-tachi
 
+![bna-zero-massara-ni-narenai-kemono-tachi](https://cdn.myanimelist.net/images/manga/3/229924.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

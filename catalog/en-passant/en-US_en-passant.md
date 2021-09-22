@@ -1,5 +1,7 @@
 # En Passant
 
+![en-passant](https://cdn.myanimelist.net/images/manga/4/35506.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

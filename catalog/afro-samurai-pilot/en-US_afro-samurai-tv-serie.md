@@ -1,5 +1,7 @@
 # Afro Samurai
 
+![afro-samurai](https://cdn.myanimelist.net/images/anime/3/15874.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 5
 -   **original-name**: アフロサムライ

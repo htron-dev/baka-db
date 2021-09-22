@@ -1,5 +1,7 @@
 # Binan Koukou Chikyuu Boueibu Happy Kiss!
 
+![binan-koukou-chikyuu-boueibu-happy-kiss](https://cdn.myanimelist.net/images/anime/1259/91819.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 美男高校地球防衛部 HAPPY KISS!

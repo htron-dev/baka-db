@@ -1,5 +1,7 @@
 # Hidamari ga Kikoeru: Limit
 
+![hidamari-ga-kikoeru-limit](https://cdn.myanimelist.net/images/manga/2/240673.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

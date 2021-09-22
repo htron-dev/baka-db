@@ -1,5 +1,7 @@
 # Oikaze Run♪ Jump♪ Throw!
 
+![oikaze-run♪-jump♪-throw](https://cdn.myanimelist.net/images/manga/2/151281.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 追い風 らんっ ♪ じゃん ♪ すろー!

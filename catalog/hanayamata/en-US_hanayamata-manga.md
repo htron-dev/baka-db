@@ -1,5 +1,7 @@
 # Hanayamata
 
+![hanayamata](https://cdn.myanimelist.net/images/manga/1/207223.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 77

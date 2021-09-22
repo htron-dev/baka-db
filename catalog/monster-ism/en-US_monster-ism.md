@@ -1,5 +1,7 @@
 # Monster-ism
 
+![monster-ism](https://cdn.myanimelist.net/images/manga/1/204604.jpg)
+
 -   **type**: manga
 -   **original-name**: 怪物体質～ monster-ism ～
 -   **start-date**: 2016-08-31

@@ -1,5 +1,7 @@
 # Vahlia no Hanamuko
 
+![vahlia-no-hanamuko](https://cdn.myanimelist.net/images/manga/2/193026.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

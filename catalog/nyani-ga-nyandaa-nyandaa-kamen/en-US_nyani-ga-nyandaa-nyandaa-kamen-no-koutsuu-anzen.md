@@ -1,5 +1,7 @@
 # Nyani ga Nyandaa Nyandaa Kamen no Koutsuu Anzen
 
+![nyani-ga-nyandaa-nyandaa-kamen-no-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/3/84772.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ニャニがニャンだー ニャンダーかめんの交通安全

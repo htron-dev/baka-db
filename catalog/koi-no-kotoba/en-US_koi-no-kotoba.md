@@ -1,5 +1,7 @@
 # Koi no Kotoba
 
+![koi-no-kotoba](https://cdn.myanimelist.net/images/manga/1/188959.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Chikyuu Shoujo Arjuna
 
+![chikyuu-shoujo-arjuna](https://cdn.myanimelist.net/images/anime/4/57253.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 地球少女アルジュナ

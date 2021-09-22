@@ -1,5 +1,7 @@
 # Nerima Daikon Brothers
 
+![nerima-daikon-brothers](https://cdn.myanimelist.net/images/anime/7/24303.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 練馬大根ブラザーズ

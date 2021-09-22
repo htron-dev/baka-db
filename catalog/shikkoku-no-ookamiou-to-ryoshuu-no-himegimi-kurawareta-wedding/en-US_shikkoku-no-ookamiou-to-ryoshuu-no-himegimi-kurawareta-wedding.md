@@ -1,5 +1,7 @@
 # Shikkoku no Ookamiou to Ryoshuu no Himegimi: Kurawareta Wedding
 
+![shikkoku-no-ookamiou-to-ryoshuu-no-himegimi-kurawareta-wedding](https://cdn.myanimelist.net/images/manga/1/192519.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

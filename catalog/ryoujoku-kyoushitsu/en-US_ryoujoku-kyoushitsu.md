@@ -1,5 +1,7 @@
 # Ryoujoku Kyoushitsu
 
+![ryoujoku-kyoushitsu](https://cdn.myanimelist.net/images/manga/2/25209.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 凌辱教室

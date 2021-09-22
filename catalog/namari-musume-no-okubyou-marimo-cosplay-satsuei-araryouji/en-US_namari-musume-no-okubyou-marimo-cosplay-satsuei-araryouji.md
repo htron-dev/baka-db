@@ -1,5 +1,7 @@
 # Namari Musume no Okubyou Marimo: Cosplay Satsuei Araryouji
 
+![namari-musume-no-okubyou-marimo-cosplay-satsuei-araryouji](https://cdn.myanimelist.net/images/manga/3/169737.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: なまり娘の臆病まりも ~コスプレ撮影荒療治~

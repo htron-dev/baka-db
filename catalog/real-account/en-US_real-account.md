@@ -1,5 +1,7 @@
 # Real Account
 
+![real-account](https://cdn.myanimelist.net/images/manga/3/147381.jpg)
+
 -   **type**: manga
 -   **volumes**: 24
 -   **chapters**: 184

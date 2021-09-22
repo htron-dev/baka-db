@@ -1,5 +1,7 @@
 # Hohoemi no Nichijou
 
+![hohoemi-no-nichijou](https://cdn.myanimelist.net/images/manga/2/152719.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

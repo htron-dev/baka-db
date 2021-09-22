@@ -1,5 +1,7 @@
 # SSSS.Gridman
 
+![ssss-gridman](https://cdn.myanimelist.net/images/manga/3/236197.jpg)
+
 -   **type**: manga
 -   **original-name**: SSSS.GRIDMAN
 -   **start-date**: 2019-11-30

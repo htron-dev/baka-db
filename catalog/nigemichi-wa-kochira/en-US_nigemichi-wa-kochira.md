@@ -1,5 +1,7 @@
 # Nigemichi wa Kochira
 
+![nigemichi-wa-kochira](https://cdn.myanimelist.net/images/manga/1/222936.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

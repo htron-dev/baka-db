@@ -1,5 +1,7 @@
 # Sanbaka
 
+![sanbaka](https://cdn.myanimelist.net/images/manga/3/117269.jpg)
+
 -   **type**: manga
 -   **original-name**: さんばか
 -   **start-date**: 2014-01-26

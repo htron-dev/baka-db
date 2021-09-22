@@ -1,5 +1,7 @@
 # Yasashii Ryuu no Koroshikata
 
+![yasashii-ryuu-no-koroshikata](https://cdn.myanimelist.net/images/manga/2/21123.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 19

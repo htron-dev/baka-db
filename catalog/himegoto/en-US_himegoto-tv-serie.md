@@ -1,5 +1,7 @@
 # Himegoto
 
+![himegoto](https://cdn.myanimelist.net/images/anime/8/75226.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ひめゴト

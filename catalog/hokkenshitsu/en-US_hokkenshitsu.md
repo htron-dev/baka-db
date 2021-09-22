@@ -1,5 +1,7 @@
 # Hokkenshitsu
 
+![hokkenshitsu](https://cdn.myanimelist.net/images/manga/3/122435.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

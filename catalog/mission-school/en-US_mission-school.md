@@ -1,5 +1,7 @@
 # Mission! School
 
+![mission-school](https://cdn.myanimelist.net/images/manga/3/73345.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 29

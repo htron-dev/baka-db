@@ -1,5 +1,7 @@
 # Barber Harbor
 
+![barber-harbor](https://cdn.myanimelist.net/images/manga/1/195001.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 162

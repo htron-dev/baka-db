@@ -1,5 +1,7 @@
 # Sex no Ato Otokonoko no Ase wa Hachimitsu no Nioi ga Suru
 
+![sex-no-ato-otokonoko-no-ase-wa-hachimitsu-no-nioi-ga-suru](https://cdn.myanimelist.net/images/manga/1/95635.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Inu to Watashi
 
+![inu-to-watashi](https://cdn.myanimelist.net/images/manga/1/35847.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 犬と私

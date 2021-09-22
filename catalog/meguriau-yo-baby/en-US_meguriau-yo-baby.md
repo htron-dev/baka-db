@@ -1,5 +1,7 @@
 # Meguriau yo Baby
 
+![meguriau-yo-baby](https://cdn.myanimelist.net/images/manga/2/199193.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

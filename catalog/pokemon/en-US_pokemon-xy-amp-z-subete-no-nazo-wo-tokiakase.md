@@ -1,5 +1,7 @@
 # Pokemon XY&amp;Z: Subete no Nazo wo Tokiakase!
 
+![pokemon-xy-amp-z-subete-no-nazo-wo-tokiakase](https://cdn.myanimelist.net/images/anime/4/77646.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 「すべてのナゾを解き明かせ！ポケットモンスター XY&Z 完全マスタースペシャル！！」

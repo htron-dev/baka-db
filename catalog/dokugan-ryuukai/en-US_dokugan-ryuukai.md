@@ -1,5 +1,7 @@
 # Dokugan Ryuukai
 
+![dokugan-ryuukai](https://cdn.myanimelist.net/images/manga/3/44679.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 18

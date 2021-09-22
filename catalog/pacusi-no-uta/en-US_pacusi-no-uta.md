@@ -1,5 +1,7 @@
 # Pacusi no Uta
 
+![pacusi-no-uta](https://cdn.myanimelist.net/images/anime/5/17805.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: パクシのうた

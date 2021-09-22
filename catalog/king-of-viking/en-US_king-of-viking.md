@@ -1,5 +1,7 @@
 # King of Viking
 
+![king-of-viking](https://cdn.myanimelist.net/images/manga/1/41547.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 帥哥海賊王

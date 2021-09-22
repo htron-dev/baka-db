@@ -1,5 +1,7 @@
 # Eureka Seven AO
 
+![eureka-seven-ao](https://cdn.myanimelist.net/images/manga/2/66783.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Love Comedy Kinshi desu no!
 
+![love-comedy-kinshi-desu-no](https://cdn.myanimelist.net/images/manga/3/179138.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Uzumaki
 
+![uzumaki](https://cdn.myanimelist.net/images/manga/3/185972.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

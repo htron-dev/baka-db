@@ -1,5 +1,7 @@
 # Kamen Rider Stronger
 
+![kamen-rider-stronger](https://cdn.myanimelist.net/images/manga/3/23851.jpg)
+
 -   **type**: manga
 
 ## Tags

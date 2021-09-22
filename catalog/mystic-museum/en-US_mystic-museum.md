@@ -1,5 +1,7 @@
 # Mystic Museum
 
+![mystic-museum](https://cdn.myanimelist.net/images/manga/2/132121.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: ミスティック・ミュージアム

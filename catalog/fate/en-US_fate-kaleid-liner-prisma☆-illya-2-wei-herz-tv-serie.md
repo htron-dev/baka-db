@@ -1,5 +1,7 @@
 # Fate/kaleid liner Prisma☆Illya 2wei Herz!
 
+![fate-kaleid-liner-prisma☆-illya-2-wei-herz](https://cdn.myanimelist.net/images/anime/7/75297.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: Fate/kaleid liner プリズマ ☆ イリヤ ツヴァイ ヘルツ！

@@ -1,5 +1,7 @@
 # Cavalier of the Abyss
 
+![cavalier-of-the-abyss](https://cdn.myanimelist.net/images/manga/3/202184.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 24
 -   **chapters**: 144

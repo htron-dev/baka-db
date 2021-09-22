@@ -1,5 +1,7 @@
 # Saitou-kun to Satou-san
 
+![saitou-kun-to-satou-san](https://cdn.myanimelist.net/images/manga/3/15770.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

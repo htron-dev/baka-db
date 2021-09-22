@@ -1,5 +1,7 @@
 # Mugyutto! Black Clover
 
+![mugyutto-black-clover](https://cdn.myanimelist.net/images/anime/1066/101736.jpg)
+
 -   **type**: ona
 -   **episodes**: 8
 -   **original-name**: むぎゅっと！ブラッククローバー

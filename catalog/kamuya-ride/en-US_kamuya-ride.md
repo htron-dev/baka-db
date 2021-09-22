@@ -1,5 +1,7 @@
 # Kamuya Ride
 
+![kamuya-ride](https://cdn.myanimelist.net/images/manga/1/214808.jpg)
+
 -   **type**: manga
 -   **original-name**: カムヤライド
 -   **start-date**: 2018-01-12

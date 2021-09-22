@@ -1,5 +1,7 @@
 # Deep Bloody Night
 
+![deep-bloody-night](https://cdn.myanimelist.net/images/manga/2/24845.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 -   **start-date**: 2008-01-20

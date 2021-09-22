@@ -1,5 +1,7 @@
 # Detective Conan Movie 22: Zero the Enforcer
 
+![detective-conan-movie-22-zero-the-enforcer](https://cdn.myanimelist.net/images/anime/12/90104.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 名探偵コナン ゼロの執行人

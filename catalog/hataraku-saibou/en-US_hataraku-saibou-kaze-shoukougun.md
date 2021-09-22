@@ -1,5 +1,7 @@
 # Hataraku Saibou: Kaze Shoukougun
 
+![hataraku-saibou-kaze-shoukougun](https://cdn.myanimelist.net/images/anime/1888/96676.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: はたらく細胞 新作エピソード「風邪症候群」

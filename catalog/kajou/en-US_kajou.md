@@ -1,5 +1,7 @@
 # Kajou
 
+![kajou](https://cdn.myanimelist.net/images/manga/3/75561.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 花縄

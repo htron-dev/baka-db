@@ -1,5 +1,7 @@
 # Love Lesson☆Sensei wa Futari no Oniisama
 
+![love-lesson☆-sensei-wa-futari-no-oniisama](https://cdn.myanimelist.net/images/manga/1/192257.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Dogs: Stray Dogs Howling in the Dark
 
+![dogs-stray-dogs-howling-in-the-dark](https://cdn.myanimelist.net/images/manga/1/57015.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

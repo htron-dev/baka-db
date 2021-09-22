@@ -1,5 +1,7 @@
 # Ouran Koukou Host Club University Special
 
+![ouran-koukou-host-club-university-special](https://cdn.myanimelist.net/images/manga/1/59387.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 桜蘭高校ホスト部

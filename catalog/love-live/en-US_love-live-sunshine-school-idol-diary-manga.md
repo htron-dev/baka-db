@@ -1,5 +1,7 @@
 # Love Live! Sunshine!!: School Idol Diary
 
+![love-live-sunshine-school-idol-diary](https://cdn.myanimelist.net/images/manga/1/230422.jpg)
+
 -   **type**: manga
 -   **original-name**: ラブライブ! サンシャイン!! School idol diary
 -   **start-date**: 2018-08-30

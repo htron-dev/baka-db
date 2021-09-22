@@ -1,5 +1,7 @@
 # Osananajimi to, Kiss Shitakunakunai.
 
+![osananajimi-to-kiss-shitakunakunai](https://cdn.myanimelist.net/images/manga/1/205169.jpg)
+
 -   **type**: manga
 -   **original-name**: 幼なじみと、キスしたくなくない。
 -   **start-date**: 2017-05-20

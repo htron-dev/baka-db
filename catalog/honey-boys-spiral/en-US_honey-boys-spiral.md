@@ -1,5 +1,7 @@
 # Honey Boys Spiral
 
+![honey-boys-spiral](https://cdn.myanimelist.net/images/manga/3/161253.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 20

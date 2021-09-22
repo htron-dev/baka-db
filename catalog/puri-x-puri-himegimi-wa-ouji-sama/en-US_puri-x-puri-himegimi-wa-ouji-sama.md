@@ -1,5 +1,7 @@
 # Puri x Puri: Himegimi wa Ouji-sama
 
+![puri-x-puri-himegimi-wa-ouji-sama](https://cdn.myanimelist.net/images/manga/1/9517.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

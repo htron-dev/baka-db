@@ -1,5 +1,7 @@
 # Dokushi: Blunt
 
+![dokushi-blunt](https://cdn.myanimelist.net/images/manga/3/245247.jpg)
+
 -   **type**: manga
 -   **original-name**: ドクシ－BLUNT－
 -   **start-date**: 2020-07-31

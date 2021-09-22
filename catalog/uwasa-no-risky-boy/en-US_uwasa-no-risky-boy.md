@@ -1,5 +1,7 @@
 # Uwasa no Risky Boy
 
+![uwasa-no-risky-boy](https://cdn.myanimelist.net/images/manga/2/5929.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

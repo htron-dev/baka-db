@@ -1,5 +1,7 @@
 # Munou na Nana
 
+![munou-na-nana](https://cdn.myanimelist.net/images/anime/1301/110433.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 無能なナナ

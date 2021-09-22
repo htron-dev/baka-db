@@ -1,5 +1,7 @@
 # Stories: Kyojingai no Shounen
 
+![stories-kyojingai-no-shounen](https://cdn.myanimelist.net/images/manga/3/174112.jpg)
+
 -   **type**: manga
 -   **chapters**: 11
 -   **original-name**: ストーリーズ～巨人街の少年～

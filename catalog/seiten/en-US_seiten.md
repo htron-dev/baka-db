@@ -1,5 +1,7 @@
 # Seiten
 
+![seiten](https://cdn.myanimelist.net/images/manga/3/238298.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Kannagi: Moshimo Kannagi ga Attara...
 
+![kannagi-moshimo-kannagi-ga-attara](https://cdn.myanimelist.net/images/anime/3/19725.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: かんなぎ

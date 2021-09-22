@@ -1,5 +1,7 @@
 # Ken to Kaijuu
 
+![ken-to-kaijuu](https://cdn.myanimelist.net/images/anime/5/70729.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 6
 -   **original-name**: ケンとかいじゅう

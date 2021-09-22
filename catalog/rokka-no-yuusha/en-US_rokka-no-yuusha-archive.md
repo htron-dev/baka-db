@@ -1,5 +1,7 @@
 # Rokka no Yuusha Archive
 
+![rokka-no-yuusha-archive](https://cdn.myanimelist.net/images/manga/1/176748.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 六花の勇者 archive
 -   **start-date**: 2016-03-25

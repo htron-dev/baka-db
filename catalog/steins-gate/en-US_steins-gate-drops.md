@@ -1,5 +1,7 @@
 # Steins;Gate: Drops
 
+![steins-gate-drops](https://cdn.myanimelist.net/images/manga/2/128919.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

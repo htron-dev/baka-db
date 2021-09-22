@@ -1,5 +1,7 @@
 # Tongari Square Root
 
+![tongari-square-root](https://cdn.myanimelist.net/images/manga/1/6228.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

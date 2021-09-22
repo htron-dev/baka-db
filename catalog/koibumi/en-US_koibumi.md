@@ -1,5 +1,7 @@
 # Koibumi
 
+![koibumi](https://cdn.myanimelist.net/images/manga/3/140651.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 恋文

@@ -1,5 +1,7 @@
 # Hikagemushi
 
+![hikagemushi](https://cdn.myanimelist.net/images/manga/3/197897.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

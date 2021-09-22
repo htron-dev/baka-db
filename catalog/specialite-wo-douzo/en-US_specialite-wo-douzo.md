@@ -1,5 +1,7 @@
 # Specialite wo Douzo
 
+![specialite-wo-douzo](https://cdn.myanimelist.net/images/manga/2/227747.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

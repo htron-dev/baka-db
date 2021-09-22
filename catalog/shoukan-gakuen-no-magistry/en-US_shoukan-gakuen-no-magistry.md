@@ -1,5 +1,7 @@
 # Shoukan Gakuen no Magistry
 
+![shoukan-gakuen-no-magistry](https://cdn.myanimelist.net/images/manga/1/163482.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 召喚学園の魔術史学〈マギストリ〉

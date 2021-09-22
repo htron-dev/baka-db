@@ -1,5 +1,7 @@
 # Hokuto no Ken: Jubaku no Machi
 
+![hokuto-no-ken-jubaku-no-machi](https://cdn.myanimelist.net/images/manga/1/78795.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 北斗の拳 呪縛の街

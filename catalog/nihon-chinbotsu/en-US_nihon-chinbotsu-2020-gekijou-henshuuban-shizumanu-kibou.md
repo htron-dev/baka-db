@@ -1,5 +1,7 @@
 # Nihon Chinbotsu 2020 Gekijou Henshuuban Shizumanu Kibou
 
+![nihon-chinbotsu-2020-gekijou-henshuuban-shizumanu-kibou](https://cdn.myanimelist.net/images/anime/1703/110690.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 日本沈没 2020 劇場編集版　シズマヌキボウ

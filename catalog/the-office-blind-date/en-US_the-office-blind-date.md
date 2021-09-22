@@ -1,5 +1,7 @@
 # The Office Blind Date
 
+![the-office-blind-date](https://cdn.myanimelist.net/images/manga/1/242318.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 8
 -   **chapters**: 102

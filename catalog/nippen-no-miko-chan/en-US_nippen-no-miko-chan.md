@@ -1,5 +1,7 @@
 # Nippen no Miko-chan
 
+![nippen-no-miko-chan](https://cdn.myanimelist.net/images/anime/10/89294.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 日ペンの美子ちゃん

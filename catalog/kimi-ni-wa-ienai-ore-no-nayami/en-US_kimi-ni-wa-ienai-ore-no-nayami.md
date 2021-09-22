@@ -1,5 +1,7 @@
 # Kimi ni wa Ienai Ore no Nayami
 
+![kimi-ni-wa-ienai-ore-no-nayami](https://cdn.myanimelist.net/images/manga/1/196302.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

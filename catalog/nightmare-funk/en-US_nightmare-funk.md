@@ -1,5 +1,7 @@
 # Nightmare Funk
 
+![nightmare-funk](https://cdn.myanimelist.net/images/manga/2/166201.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 17

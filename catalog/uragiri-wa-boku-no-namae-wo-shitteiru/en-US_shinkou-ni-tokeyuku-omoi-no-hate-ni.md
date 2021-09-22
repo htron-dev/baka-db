@@ -1,5 +1,7 @@
 # Shinkou ni Tokeyuku Omoi no Hate ni
 
+![shinkou-ni-tokeyuku-omoi-no-hate-ni](https://cdn.myanimelist.net/images/manga/1/96545.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 深紅にとけゆく想いの果てに

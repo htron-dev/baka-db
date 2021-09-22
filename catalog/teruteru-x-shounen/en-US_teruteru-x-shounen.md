@@ -1,5 +1,7 @@
 # Teruteru x Shounen
 
+![teruteru-x-shounen](https://cdn.myanimelist.net/images/manga/2/177762.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 66

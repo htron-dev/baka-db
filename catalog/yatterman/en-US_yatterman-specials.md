@@ -1,5 +1,7 @@
 # Yatterman Specials
 
+![yatterman-specials](https://cdn.myanimelist.net/images/anime/2/65341.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: ヤッターマン

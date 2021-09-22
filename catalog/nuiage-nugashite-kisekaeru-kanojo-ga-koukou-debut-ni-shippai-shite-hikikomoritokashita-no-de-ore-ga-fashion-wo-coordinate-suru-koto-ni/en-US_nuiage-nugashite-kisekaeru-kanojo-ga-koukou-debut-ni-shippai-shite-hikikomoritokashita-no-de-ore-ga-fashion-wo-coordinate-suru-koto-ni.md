@@ -1,5 +1,7 @@
 # Nuiage! Nugashite? Kisekaeru!! Kanojo ga Koukou Debut ni Shippai shite Hikikomoritokashita no de, Ore ga Fashion wo Coordinate suru Koto ni.
 
+![nuiage-nugashite-kisekaeru-kanojo-ga-koukou-debut-ni-shippai-shite-hikikomoritokashita-no-de-ore-ga-fashion-wo-coordinate-suru-koto-ni](https://cdn.myanimelist.net/images/manga/2/195783.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

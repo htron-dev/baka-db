@@ -1,5 +1,7 @@
 # Warau Kanoko-sama
 
+![warau-kanoko-sama](https://cdn.myanimelist.net/images/manga/3/186276.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

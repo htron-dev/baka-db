@@ -1,5 +1,7 @@
 # Variable Axel
 
+![variable-axel](https://cdn.myanimelist.net/images/manga/1/163480.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: ヴァリアブル・アクセル

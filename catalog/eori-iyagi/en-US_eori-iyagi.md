@@ -1,9 +1,10 @@
 # Eori Iyagi
 
+![eori-iyagi](https://cdn.myanimelist.net/images/anime/1979/114517.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 78
 -   **original-name**: 어리 이야기
-
 -   **rating**: PG - Children
 
 ## Tags

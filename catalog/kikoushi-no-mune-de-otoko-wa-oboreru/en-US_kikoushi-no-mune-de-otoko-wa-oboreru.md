@@ -1,5 +1,7 @@
 # Kikoushi no Mune de Otoko wa Oboreru
 
+![kikoushi-no-mune-de-otoko-wa-oboreru](https://cdn.myanimelist.net/images/manga/1/41636.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

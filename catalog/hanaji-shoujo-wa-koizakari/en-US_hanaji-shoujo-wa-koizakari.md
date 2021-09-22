@@ -1,5 +1,7 @@
 # Hanaji Shoujo wa Koizakari
 
+![hanaji-shoujo-wa-koizakari](https://cdn.myanimelist.net/images/manga/1/175574.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

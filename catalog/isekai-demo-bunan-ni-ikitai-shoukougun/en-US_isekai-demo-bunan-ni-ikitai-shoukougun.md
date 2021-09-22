@@ -1,5 +1,7 @@
 # Isekai demo Bunan ni Ikitai Shoukougun
 
+![isekai-demo-bunan-ni-ikitai-shoukougun](https://cdn.myanimelist.net/images/manga/1/221848.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界でも無難に生きたい症候群
 -   **start-date**: 2019-02-28

@@ -1,5 +1,7 @@
 # Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku
 
+![isekai-mokushiroku-mynoghra-hametsu-no-bunmei-de-hajimeru-sekai-seifuku](https://cdn.myanimelist.net/images/manga/1/243094.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界黙示録マイノグーラ ～破滅の文明で始める世界征服～
 -   **start-date**: 2020-03-27

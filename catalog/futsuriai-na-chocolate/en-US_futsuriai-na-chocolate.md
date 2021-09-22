@@ -1,5 +1,7 @@
 # Futsuriai na Chocolate
 
+![futsuriai-na-chocolate](https://cdn.myanimelist.net/images/manga/3/72727.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

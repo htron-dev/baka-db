@@ -1,5 +1,7 @@
 # Aku no Kyouten
 
+![aku-no-kyouten](https://cdn.myanimelist.net/images/manga/2/157762.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 36

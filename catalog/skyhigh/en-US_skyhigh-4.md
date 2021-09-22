@@ -1,5 +1,7 @@
 # Skyhigh 4
 
+![skyhigh-4](https://cdn.myanimelist.net/images/manga/1/65977.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

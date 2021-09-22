@@ -1,5 +1,7 @@
 # Gaki no Koro kara
 
+![gaki-no-koro-kara](https://cdn.myanimelist.net/images/manga/2/82706.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

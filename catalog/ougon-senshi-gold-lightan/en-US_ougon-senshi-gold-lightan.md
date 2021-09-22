@@ -1,5 +1,7 @@
 # Ougon Senshi Gold Lightan
 
+![ougon-senshi-gold-lightan](https://cdn.myanimelist.net/images/anime/10/60089.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 黄金戦士ゴールド・ライタン

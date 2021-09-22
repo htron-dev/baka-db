@@ -1,5 +1,7 @@
 # Watashitachi wa Koi wo Egakenai
 
+![watashitachi-wa-koi-wo-egakenai](https://cdn.myanimelist.net/images/manga/3/219543.jpg)
+
 -   **type**: manga
 -   **chapters**: 21
 -   **original-name**: 私たちは恋を描けない

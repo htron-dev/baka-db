@@ -1,5 +1,7 @@
 # Violet Evergarden After
 
+![violet-evergarden-after](https://cdn.myanimelist.net/images/manga/1/227633.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ヴァイオレット・エヴァーガーデン エバー・アフター

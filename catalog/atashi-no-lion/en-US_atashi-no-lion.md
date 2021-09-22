@@ -1,5 +1,7 @@
 # Atashi no Lion
 
+![atashi-no-lion](https://cdn.myanimelist.net/images/manga/1/7276.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

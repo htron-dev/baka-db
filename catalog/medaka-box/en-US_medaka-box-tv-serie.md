@@ -1,5 +1,7 @@
 # Medaka Box
 
+![medaka-box](https://cdn.myanimelist.net/images/anime/13/37947.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: めだかボックス

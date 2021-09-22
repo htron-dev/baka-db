@@ -1,5 +1,7 @@
 # Ikasama Memory
 
+![ikasama-memory](https://cdn.myanimelist.net/images/manga/3/68497.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Kono Aozora ni Yakusoku wo: Youkoso Tsugumi Ryou e
 
+![kono-aozora-ni-yakusoku-wo-youkoso-tsugumi-ryou-e](https://cdn.myanimelist.net/images/anime/3/75248.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: この青空に約束を― ～ようこそつぐみ寮へ～

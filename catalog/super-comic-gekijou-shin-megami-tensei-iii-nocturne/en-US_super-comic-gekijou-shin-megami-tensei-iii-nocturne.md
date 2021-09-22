@@ -1,5 +1,7 @@
 # Super Comic Gekijou: Shin Megami Tensei III - Nocturne
 
+![super-comic-gekijou-shin-megami-tensei-iii-nocturne](https://cdn.myanimelist.net/images/manga/1/151584.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: スーパーコミック劇場 真・女神転生 III-NOCTURNE

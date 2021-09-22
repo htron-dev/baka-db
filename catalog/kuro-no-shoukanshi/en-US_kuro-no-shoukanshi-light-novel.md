@@ -1,5 +1,7 @@
 # Kuro no Shoukanshi
 
+![kuro-no-shoukanshi](https://cdn.myanimelist.net/images/manga/2/178493.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 黒の召喚士
 -   **start-date**: 2016-06-25

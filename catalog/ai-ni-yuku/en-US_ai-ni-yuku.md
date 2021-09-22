@@ -1,5 +1,7 @@
 # Ai ni Yuku
 
+![ai-ni-yuku](https://cdn.myanimelist.net/images/manga/3/64743.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: 会いにゆく

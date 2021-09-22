@@ -1,5 +1,7 @@
 # Shiotaiou no Satou-san ga Ore ni dake Amai @comic
 
+![shiotaiou-no-satou-san-ga-ore-ni-dake-amai-comic](https://cdn.myanimelist.net/images/manga/3/235208.jpg)
+
 -   **type**: manga
 -   **original-name**: 塩対応の佐藤さんが俺にだけ甘い＠comic
 -   **start-date**: 2020-05-15

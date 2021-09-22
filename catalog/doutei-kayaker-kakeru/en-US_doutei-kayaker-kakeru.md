@@ -1,5 +1,7 @@
 # Doutei Kayaker Kakeru
 
+![doutei-kayaker-kakeru](https://cdn.myanimelist.net/images/manga/1/216304.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 37

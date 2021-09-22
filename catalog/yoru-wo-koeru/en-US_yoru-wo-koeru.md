@@ -1,5 +1,7 @@
 # Yoru wo Koeru
 
+![yoru-wo-koeru](https://cdn.myanimelist.net/images/manga/2/196447.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

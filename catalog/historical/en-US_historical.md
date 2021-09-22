@@ -1,5 +1,7 @@
 # Historical
 
+![historical](https://cdn.myanimelist.net/images/anime/9/78389.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ヒストリカル

@@ -1,5 +1,7 @@
 # Yakedo Shoujo
 
+![yakedo-shoujo](https://cdn.myanimelist.net/images/manga/2/192527.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 火傷少女

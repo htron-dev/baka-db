@@ -1,5 +1,7 @@
 # Fight Ippatsu! Juuden-chan!! OVA
 
+![fight-ippatsu-juuden-chan-ova](https://cdn.myanimelist.net/images/anime/11/56899.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ファイト一発! 充電ちゃん!!

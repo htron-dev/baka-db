@@ -1,5 +1,7 @@
 # Kimi no Tame nara Shineru
 
+![kimi-no-tame-nara-shineru](https://cdn.myanimelist.net/images/manga/1/154467.jpg)
+
 -   **type**: manga
 -   **original-name**: 姫〈きみ〉のためなら死ねる
 -   **start-date**: 2010-03-10

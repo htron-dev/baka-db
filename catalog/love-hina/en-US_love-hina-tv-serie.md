@@ -1,5 +1,7 @@
 # Love Hina
 
+![love-hina](https://cdn.myanimelist.net/images/anime/1725/94697.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ラブひな

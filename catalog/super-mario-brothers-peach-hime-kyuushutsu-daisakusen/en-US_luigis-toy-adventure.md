@@ -1,5 +1,7 @@
 # Luigi's Toy Adventure
 
+![luigis-toy-adventure](https://cdn.myanimelist.net/images/anime/3/69333.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: S.H.Figuarts スーパーマリオシリーズ(SUPER MARIO SERIES) プロモ映像

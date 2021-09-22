@@ -1,5 +1,7 @@
 # Wana Love: Wanna Be the Honey Trap.
 
+![wana-love-wanna-be-the-honey-trap](https://cdn.myanimelist.net/images/manga/2/126215.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

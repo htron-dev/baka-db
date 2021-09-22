@@ -1,5 +1,7 @@
 # "Bungaku Shoujo" Memoire
 
+![bungaku-shoujo-memoire](https://cdn.myanimelist.net/images/anime/6/26770.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: “文学少女”メモワール

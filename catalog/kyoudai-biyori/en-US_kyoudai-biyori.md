@@ -1,5 +1,7 @@
 # Kyoudai-Biyori
 
+![kyoudai-biyori](https://cdn.myanimelist.net/images/manga/3/41050.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

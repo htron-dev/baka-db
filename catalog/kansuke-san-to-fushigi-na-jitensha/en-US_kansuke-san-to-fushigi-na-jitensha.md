@@ -1,5 +1,7 @@
 # Kansuke-san to Fushigi na Jitensha
 
+![kansuke-san-to-fushigi-na-jitensha](https://cdn.myanimelist.net/images/anime/2/61449.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: かんすけさんとふしぎな自転車

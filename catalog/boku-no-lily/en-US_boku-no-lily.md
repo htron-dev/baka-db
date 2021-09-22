@@ -1,5 +1,7 @@
 # Boku no Lily
 
+![boku-no-lily](https://cdn.myanimelist.net/images/manga/3/33367.jpg)
+
 -   **type**: manga
 -   **chapters**: 1
 -   **original-name**: ぼくのリリィ

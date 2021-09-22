@@ -1,5 +1,7 @@
 # Arara
 
+![arara](https://cdn.myanimelist.net/images/anime/5/86134.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: あらら

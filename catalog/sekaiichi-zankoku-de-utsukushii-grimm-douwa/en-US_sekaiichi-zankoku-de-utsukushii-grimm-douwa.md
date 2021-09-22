@@ -1,5 +1,7 @@
 # Sekaiichi Zankoku de Utsukushii Grimm Douwa
 
+![sekaiichi-zankoku-de-utsukushii-grimm-douwa](https://cdn.myanimelist.net/images/manga/4/144579.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 世界一残酷で美しいグリム童話

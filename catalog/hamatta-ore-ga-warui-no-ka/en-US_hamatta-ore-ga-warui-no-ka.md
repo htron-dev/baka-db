@@ -1,5 +1,7 @@
 # Hamatta Ore ga Warui no ka!?
 
+![hamatta-ore-ga-warui-no-ka](https://cdn.myanimelist.net/images/manga/1/201190.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # B's-LOVEY Anthology: Ashita, Shinu.
 
+![bs-lovey-anthology-ashita-shinu](https://cdn.myanimelist.net/images/manga/1/185653.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

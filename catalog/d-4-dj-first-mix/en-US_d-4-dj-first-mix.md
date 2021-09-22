@@ -1,5 +1,7 @@
 # D4DJ: First Mix
 
+![d-4-dj-first-mix](https://cdn.myanimelist.net/images/anime/1765/109713.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: D4DJ First Mix

@@ -1,5 +1,7 @@
 # Yorimichi Café-doori
 
+![yorimichi-cafe-doori](https://cdn.myanimelist.net/images/manga/3/159322.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Kamen Teacher Black
 
+![kamen-teacher-black](https://cdn.myanimelist.net/images/manga/3/144905.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 47

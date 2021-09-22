@@ -1,5 +1,7 @@
 # Tenshi no Naka ni Akuma Ari
 
+![tenshi-no-naka-ni-akuma-ari](https://cdn.myanimelist.net/images/manga/2/248.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

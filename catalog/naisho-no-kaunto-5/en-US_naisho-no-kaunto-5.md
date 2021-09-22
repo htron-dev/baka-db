@@ -1,5 +1,7 @@
 # Naisho no Kaunto 5
 
+![naisho-no-kaunto-5](https://cdn.myanimelist.net/images/manga/1/30507.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ないしょのカウント５

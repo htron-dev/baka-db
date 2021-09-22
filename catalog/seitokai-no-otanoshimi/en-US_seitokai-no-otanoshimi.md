@@ -1,5 +1,7 @@
 # Seitokai no Otanoshimi.
 
+![seitokai-no-otanoshimi](https://cdn.myanimelist.net/images/manga/2/162693.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 89

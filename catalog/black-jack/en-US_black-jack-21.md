@@ -1,5 +1,7 @@
 # Black Jack 21
 
+![black-jack-21](https://cdn.myanimelist.net/images/anime/2/24046.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 17
 -   **original-name**: ブラック・ジャック 21

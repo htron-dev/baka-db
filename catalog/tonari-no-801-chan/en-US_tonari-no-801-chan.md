@@ -1,5 +1,7 @@
 # Tonari no 801-chan
 
+![tonari-no-801-chan](https://cdn.myanimelist.net/images/manga/3/172814.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: となりの 801 ちゃん

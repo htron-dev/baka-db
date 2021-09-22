@@ -1,5 +1,7 @@
 # Star Wars/Saigo no Jedai: Tokubetsu Eizou
 
+![star-wars-saigo-no-jedai-tokubetsu-eizou](https://cdn.myanimelist.net/images/anime/6/88916.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 『スター・ウォーズ／最後のジェダイ』特別映像

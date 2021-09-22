@@ -1,5 +1,7 @@
 # Clover no Kuni no Alice: Cheshire Cat to Waltz
 
+![clover-no-kuni-no-alice-cheshire-cat-to-waltz](https://cdn.myanimelist.net/images/manga/2/31374.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Naniwa Kinyuu Den: Minami no Teiou
 
+![naniwa-kinyuu-den-minami-no-teiou](https://cdn.myanimelist.net/images/anime/1869/114423.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 難波金融伝 ミナミの帝王

@@ -1,5 +1,7 @@
 # F
 
+![f](https://cdn.myanimelist.net/images/anime/9/73616.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 31
 -   **original-name**: Ｆ-エフ
@@ -28,4 +30,4 @@ One night, while Gunma is driving his tractor on the highway with his best frien
 -   [My Anime list](https://myanimelist.net/anime/6055/F)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3208)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2195)
--   [Wikipedia](<http://en.wikipedia.org/wiki/F_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/F_%28manga%29)

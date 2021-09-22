@@ -1,5 +1,7 @@
 # Étoile: Sanjuushi Seira
 
+![etoile-sanjuushi-seira](https://cdn.myanimelist.net/images/manga/3/15465.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 5

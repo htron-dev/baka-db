@@ -1,5 +1,7 @@
 # Wake Up, Girls! Beyond the Bottom
 
+![wake-up-girls-beyond-the-bottom](https://cdn.myanimelist.net/images/anime/5/76402.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Wake Up, Girls！Beyond the Bottom

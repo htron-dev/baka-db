@@ -1,5 +1,7 @@
 # Umi yori mo Fukaku
 
+![umi-yori-mo-fukaku](https://cdn.myanimelist.net/images/manga/4/35879.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: 海よりも深く

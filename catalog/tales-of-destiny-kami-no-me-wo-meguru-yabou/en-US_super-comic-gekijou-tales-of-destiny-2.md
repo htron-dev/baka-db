@@ -1,5 +1,7 @@
 # Super Comic Gekijou: Tales of Destiny 2
 
+![super-comic-gekijou-tales-of-destiny-2](https://cdn.myanimelist.net/images/manga/1/151590.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: スーパーコミック劇場 テイルズ オブ デスティニー 2

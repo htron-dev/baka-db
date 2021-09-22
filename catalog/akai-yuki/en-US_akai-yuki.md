@@ -1,5 +1,7 @@
 # Akai Yuki
 
+![akai-yuki](https://cdn.myanimelist.net/images/manga/2/170497.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

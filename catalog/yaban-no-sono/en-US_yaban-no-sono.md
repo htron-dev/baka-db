@@ -1,5 +1,7 @@
 # Yaban no Sono
 
+![yaban-no-sono](https://cdn.myanimelist.net/images/manga/3/32475.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 野蛮の園

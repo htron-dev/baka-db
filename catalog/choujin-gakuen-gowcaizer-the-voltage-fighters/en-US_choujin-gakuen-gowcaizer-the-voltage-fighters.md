@@ -1,5 +1,7 @@
 # Choujin Gakuen Gowcaizer: The Voltage Fighters
 
+![choujin-gakuen-gowcaizer-the-voltage-fighters](https://cdn.myanimelist.net/images/anime/2/24751.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 超人学園ゴウカイザー　ＴＨＥ　ＶＯＬＴＡＧＥ　ＦＩＧＨＴＥＲＳ

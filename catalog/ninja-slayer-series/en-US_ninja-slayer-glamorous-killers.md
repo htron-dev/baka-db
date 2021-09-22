@@ -1,5 +1,7 @@
 # Ninja Slayer: Glamorous Killers
 
+![ninja-slayer-glamorous-killers](https://cdn.myanimelist.net/images/manga/2/155686.jpg)
+
 -   **type**: manga
 -   **original-name**: ニンジャスレイヤー グラマラス・キラーズ
 -   **start-date**: 2013-07-01

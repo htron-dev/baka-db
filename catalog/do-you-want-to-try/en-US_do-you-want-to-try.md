@@ -1,5 +1,7 @@
 # Do You Want to Try?
 
+![do-you-want-to-try](https://cdn.myanimelist.net/images/manga/2/6069.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 18

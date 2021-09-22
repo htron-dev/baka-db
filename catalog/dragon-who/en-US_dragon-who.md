@@ -1,5 +1,7 @@
 # Dragon Who
 
+![dragon-who](https://cdn.myanimelist.net/images/manga/3/26286.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 5
 -   **chapters**: 34

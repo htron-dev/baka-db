@@ -1,5 +1,7 @@
 # Kakutou Bijin Wulong: Rebirth
 
+![kakutou-bijin-wulong-rebirth](https://cdn.myanimelist.net/images/anime/6/23598.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 格闘美神 武龍[ウーロン] REBIRTH

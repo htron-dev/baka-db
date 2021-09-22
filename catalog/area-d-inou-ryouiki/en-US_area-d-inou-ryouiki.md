@@ -1,5 +1,7 @@
 # Area D: Inou Ryouiki
 
+![area-d-inou-ryouiki](https://cdn.myanimelist.net/images/manga/1/188814.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 137

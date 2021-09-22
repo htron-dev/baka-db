@@ -1,5 +1,7 @@
 # Kijitora Neko no Koume-san
 
+![kijitora-neko-no-koume-san](https://cdn.myanimelist.net/images/manga/3/150211.jpg)
+
 -   **type**: manga
 -   **original-name**: キジトラ猫の小梅さん
 

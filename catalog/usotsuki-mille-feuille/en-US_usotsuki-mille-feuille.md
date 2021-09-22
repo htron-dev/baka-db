@@ -1,5 +1,7 @@
 # Usotsuki Mille Feuille
 
+![usotsuki-mille-feuille](https://cdn.myanimelist.net/images/manga/1/248097.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

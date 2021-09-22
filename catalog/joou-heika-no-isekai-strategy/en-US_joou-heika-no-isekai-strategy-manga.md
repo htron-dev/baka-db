@@ -1,5 +1,7 @@
 # Joou Heika no Isekai Strategy
 
+![joou-heika-no-isekai-strategy](https://cdn.myanimelist.net/images/manga/1/241192.jpg)
+
 -   **type**: manga
 -   **original-name**: 女王陛下の異世界戦略〈ストラテジー〉
 -   **start-date**: 2020-06-25

@@ -1,5 +1,7 @@
 # Koutetsujou no Kabaneri
 
+![koutetsujou-no-kabaneri](https://cdn.myanimelist.net/images/anime/12/79164.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 甲鉄城のカバネリ

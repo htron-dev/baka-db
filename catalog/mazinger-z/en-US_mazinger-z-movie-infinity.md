@@ -1,5 +1,7 @@
 # Mazinger Z Movie: Infinity
 
+![mazinger-z-movie-infinity](https://cdn.myanimelist.net/images/anime/1611/90206.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 マジンガー Z ／INFINITY

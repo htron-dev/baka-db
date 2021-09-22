@@ -1,5 +1,7 @@
 # Isekai Cheat Magician
 
+![isekai-cheat-magician](https://cdn.myanimelist.net/images/anime/1282/102248.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 異世界チート魔術師〈マジシャン〉

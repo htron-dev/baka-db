@@ -1,5 +1,7 @@
 # Okubyouna Koneko
 
+![okubyouna-koneko](https://cdn.myanimelist.net/images/manga/3/17344.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Sankarea: All Night Rea Long
 
+![sankarea-all-night-rea-long](https://cdn.myanimelist.net/images/manga/1/126653.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

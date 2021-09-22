@@ -1,5 +1,7 @@
 # Q-Jutsuka!
 
+![q-jutsuka](https://cdn.myanimelist.net/images/manga/2/163880.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 32

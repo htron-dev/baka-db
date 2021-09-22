@@ -1,5 +1,7 @@
 # Okusama ga Seitokaichou!+!
 
+![okusama-ga-seitokaichou](https://cdn.myanimelist.net/images/anime/8/82409.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: おくさまが生徒会長!＋!

@@ -1,5 +1,7 @@
 # Ie Naki Ko Remy Specials (2001)
 
+![ie-naki-ko-remy-specials-2001](https://cdn.myanimelist.net/images/anime/11/64147.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 世界名作劇場・完結版 家なき子レミ

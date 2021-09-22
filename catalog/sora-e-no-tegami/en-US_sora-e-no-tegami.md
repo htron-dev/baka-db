@@ -1,5 +1,7 @@
 # Sora e no Tegami
 
+![sora-e-no-tegami](https://cdn.myanimelist.net/images/manga/2/229445.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 47

@@ -1,5 +1,7 @@
 # Sweet to Yobu ni wa Mada Hayai
 
+![sweet-to-yobu-ni-wa-mada-hayai](https://cdn.myanimelist.net/images/manga/1/226218.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

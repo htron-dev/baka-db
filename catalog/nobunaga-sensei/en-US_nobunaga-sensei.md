@@ -1,5 +1,7 @@
 # Nobunaga-sensei
 
+![nobunaga-sensei](https://cdn.myanimelist.net/images/manga/1/215415.jpg)
+
 -   **type**: manga
 -   **original-name**: ノブナガ先生
 -   **start-date**: 2017-12-22

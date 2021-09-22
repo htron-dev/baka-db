@@ -1,5 +1,7 @@
 # Renai Control
 
+![renai-control](https://cdn.myanimelist.net/images/manga/3/198209.jpg)
+
 -   **type**: manga
 -   **original-name**: 恋愛操作〈コントロール〉
 

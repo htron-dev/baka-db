@@ -1,5 +1,7 @@
 # Katakoi Opera
 
+![katakoi-opera](https://cdn.myanimelist.net/images/manga/2/189892.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

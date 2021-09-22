@@ -1,5 +1,7 @@
 # Kino no Tabi: The Beautiful World
 
+![kino-no-tabi-the-beautiful-world](https://cdn.myanimelist.net/images/manga/3/201411.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 22

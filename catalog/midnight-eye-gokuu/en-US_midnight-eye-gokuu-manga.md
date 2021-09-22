@@ -1,5 +1,7 @@
 # Midnight Eye Gokuu
 
+![midnight-eye-gokuu](https://cdn.myanimelist.net/images/manga/2/26359.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Bokutachi no Kidzuki-hen
 
+![bokutachi-no-kidzuki-hen](https://cdn.myanimelist.net/images/anime/1793/104566.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 僕たちの気づき篇

@@ -1,5 +1,7 @@
 # Sabbath Cafe
 
+![sabbath-cafe](https://cdn.myanimelist.net/images/manga/1/33422.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: サバス・カフェ

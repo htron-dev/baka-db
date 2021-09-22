@@ -1,5 +1,7 @@
 # Kengai Princess
 
+![kengai-princess](https://cdn.myanimelist.net/images/manga/2/168249.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 45

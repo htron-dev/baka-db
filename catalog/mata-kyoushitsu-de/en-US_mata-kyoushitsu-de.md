@@ -1,5 +1,7 @@
 # Mata Kyoushitsu de
 
+![mata-kyoushitsu-de](https://cdn.myanimelist.net/images/manga/2/216261.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

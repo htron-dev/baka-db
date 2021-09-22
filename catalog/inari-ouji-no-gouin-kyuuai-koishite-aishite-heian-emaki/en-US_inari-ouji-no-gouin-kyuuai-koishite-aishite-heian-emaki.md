@@ -1,5 +1,7 @@
 # Inari Ouji no Gouin Kyuuai: Koishite, Aishite, Heian Emaki!
 
+![inari-ouji-no-gouin-kyuuai-koishite-aishite-heian-emaki](https://cdn.myanimelist.net/images/manga/3/192576.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

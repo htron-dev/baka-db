@@ -1,5 +1,7 @@
 # Sensei wa Ore no Mono
 
+![sensei-wa-ore-no-mono](https://cdn.myanimelist.net/images/manga/3/174480.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

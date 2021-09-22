@@ -1,5 +1,7 @@
 # Kyousou Heaven
 
+![kyousou-heaven](https://cdn.myanimelist.net/images/manga/4/38054.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

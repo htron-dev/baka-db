@@ -1,5 +1,7 @@
 # Raising Hell
 
+![raising-hell](https://cdn.myanimelist.net/images/manga/1/225178.jpg)
+
 -   **type**: manga
 -   **original-name**: レイジング・ヘル
 -   **start-date**: 2019-01-26

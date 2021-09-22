@@ -1,5 +1,7 @@
 # Queen's Blade: Unlimited
 
+![queens-blade-unlimited](https://cdn.myanimelist.net/images/anime/1470/90266.jpg)
+
 -   **type**: ova
 -   **original-name**: クイーンズブレイド UNLIMITED
 -   **start-date**: 2018-07-13

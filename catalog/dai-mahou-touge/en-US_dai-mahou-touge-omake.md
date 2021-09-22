@@ -1,5 +1,7 @@
 # Dai Mahou Touge Omake
 
+![dai-mahou-touge-omake](https://cdn.myanimelist.net/images/anime/5/23363.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: ぷにえの里帰り

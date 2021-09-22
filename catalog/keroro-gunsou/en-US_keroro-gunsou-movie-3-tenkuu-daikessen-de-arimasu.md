@@ -1,5 +1,7 @@
 # Keroro Gunsou Movie 3: Tenkuu Daikessen de Arimasu!
 
+![keroro-gunsou-movie-3-tenkuu-daikessen-de-arimasu](https://cdn.myanimelist.net/images/anime/13/10580.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 超劇場版ケロロ軍曹 3 ケロロ対ケロロ 天空大決戦であります！

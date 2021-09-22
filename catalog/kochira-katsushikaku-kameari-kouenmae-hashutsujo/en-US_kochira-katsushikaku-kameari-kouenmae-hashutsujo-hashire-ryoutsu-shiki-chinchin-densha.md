@@ -1,5 +1,7 @@
 # Kochira Katsushikaku Kameari Kouenmae Hashutsujo: Hashire! Ryoutsu-shiki Chinchin Densha
 
+![kochira-katsushikaku-kameari-kouenmae-hashutsujo-hashire-ryoutsu-shiki-chinchin-densha](https://cdn.myanimelist.net/images/anime/8/81547.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: こちら葛飾区亀有公園前派出所 走れ!両津式チンチン電車〜思い出の大次郎号〜

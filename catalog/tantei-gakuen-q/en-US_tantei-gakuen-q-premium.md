@@ -1,5 +1,7 @@
 # Tantei Gakuen Q Premium
 
+![tantei-gakuen-q-premium](https://cdn.myanimelist.net/images/manga/2/221912.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

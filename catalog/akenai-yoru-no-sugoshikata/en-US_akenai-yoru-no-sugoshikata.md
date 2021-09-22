@@ -1,5 +1,7 @@
 # Akenai Yoru no Sugoshikata
 
+![akenai-yoru-no-sugoshikata](https://cdn.myanimelist.net/images/manga/3/238585.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

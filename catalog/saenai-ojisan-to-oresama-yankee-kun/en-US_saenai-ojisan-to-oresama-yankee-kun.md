@@ -1,5 +1,7 @@
 # Saenai Ojisan to Oresama Yankee-kun
 
+![saenai-ojisan-to-oresama-yankee-kun](https://cdn.myanimelist.net/images/manga/3/194168.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

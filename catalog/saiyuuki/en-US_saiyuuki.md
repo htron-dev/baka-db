@@ -1,5 +1,7 @@
 # Saiyuuki
 
+![saiyuuki](https://cdn.myanimelist.net/images/anime/1741/100518.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 西遊記

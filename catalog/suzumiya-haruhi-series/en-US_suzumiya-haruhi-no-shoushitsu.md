@@ -1,5 +1,7 @@
 # Suzumiya Haruhi no Shoushitsu
 
+![suzumiya-haruhi-no-shoushitsu](https://cdn.myanimelist.net/images/anime/1248/112352.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 涼宮ハルヒの消失

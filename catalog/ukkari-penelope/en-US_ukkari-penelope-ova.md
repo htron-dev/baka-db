@@ -1,5 +1,7 @@
 # Ukkari Pénélope OVA
 
+![ukkari-penelope-ova](https://cdn.myanimelist.net/images/anime/6/21984.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: メリークリスマス、ペネロペ / ペネロペのクリスマスパーティー

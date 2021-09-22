@@ -1,5 +1,7 @@
 # Tokyo Fukagawa Sandaime
 
+![tokyo-fukagawa-sandaime](https://cdn.myanimelist.net/images/manga/2/30833.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 東京深川三代目

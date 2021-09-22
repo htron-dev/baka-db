@@ -1,5 +1,7 @@
 # Kanbi na Torihiki
 
+![kanbi-na-torihiki](https://cdn.myanimelist.net/images/manga/3/192168.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

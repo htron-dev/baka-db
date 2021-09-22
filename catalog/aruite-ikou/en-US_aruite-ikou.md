@@ -1,5 +1,7 @@
 # Aruite Ikou
 
+![aruite-ikou](https://cdn.myanimelist.net/images/manga/3/152632.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 10

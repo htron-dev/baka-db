@@ -1,5 +1,7 @@
 # Chain Chronicle: Haecceitas no Hikari Part 1
 
+![chain-chronicle-haecceitas-no-hikari-part-1](https://cdn.myanimelist.net/images/anime/11/82495.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: チェインクロニクル〜ヘクセイタスの閃（ひかり）〜 第１章

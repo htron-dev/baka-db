@@ -1,5 +1,7 @@
 # Elmer no Bouken: My Father's Dragon
 
+![elmer-no-bouken-my-fathers-dragon](https://cdn.myanimelist.net/images/anime/12/29339.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: エルマーの冒険

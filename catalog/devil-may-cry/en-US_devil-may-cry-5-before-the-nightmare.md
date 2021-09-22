@@ -1,5 +1,7 @@
 # Devil May Cry 5: Before the Nightmare
 
+![devil-may-cry-5-before-the-nightmare](https://cdn.myanimelist.net/images/manga/3/221180.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 26

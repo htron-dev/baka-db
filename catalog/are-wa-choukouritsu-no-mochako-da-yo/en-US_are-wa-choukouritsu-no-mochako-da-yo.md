@@ -1,5 +1,7 @@
 # Are wa Choukouritsu no Mochako da yo!
 
+![are-wa-choukouritsu-no-mochako-da-yo](https://cdn.myanimelist.net/images/manga/1/176148.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Rice Shoulder
 
+![rice-shoulder](https://cdn.myanimelist.net/images/manga/3/121713.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 194

@@ -1,5 +1,7 @@
 # Isekai Rakugo
 
+![isekai-rakugo](https://cdn.myanimelist.net/images/manga/2/178774.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 異世界落語
 -   **start-date**: 2016-05-30

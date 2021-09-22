@@ -1,5 +1,7 @@
 # Hyouketsu Kyoukai no Eden
 
+![hyouketsu-kyoukai-no-eden](https://cdn.myanimelist.net/images/manga/3/119933.jpg)
+
 -   **type**: manga
 -   **original-name**: 氷結鏡界のエデン
 -   **start-date**: 2012-06-26

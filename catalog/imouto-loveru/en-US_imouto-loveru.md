@@ -1,5 +1,7 @@
 # Imouto Loveru
 
+![imouto-loveru](https://cdn.myanimelist.net/images/manga/1/149032.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

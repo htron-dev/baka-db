@@ -1,5 +1,7 @@
 # Aoyama Tsukiko desu!
 
+![aoyama-tsukiko-desu](https://cdn.myanimelist.net/images/manga/2/163931.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

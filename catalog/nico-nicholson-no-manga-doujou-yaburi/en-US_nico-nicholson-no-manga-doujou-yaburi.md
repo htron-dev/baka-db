@@ -1,5 +1,7 @@
 # Nico Nicholson no Manga Doujou Yaburi
 
+![nico-nicholson-no-manga-doujou-yaburi](https://cdn.myanimelist.net/images/manga/2/227377.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 22

@@ -1,5 +1,7 @@
 # Z Mazinger
 
+![z-mazinger](https://cdn.myanimelist.net/images/manga/1/184457.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

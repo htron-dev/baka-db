@@ -1,5 +1,7 @@
 # Kenja no Nagaki Fuzai
 
+![kenja-no-nagaki-fuzai](https://cdn.myanimelist.net/images/manga/3/3591.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 38

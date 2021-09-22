@@ -1,5 +1,7 @@
 # Mada Minu Haru no Mukaekata
 
+![mada-minu-haru-no-mukaekata](https://cdn.myanimelist.net/images/manga/2/217158.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

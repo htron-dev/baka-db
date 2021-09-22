@@ -1,5 +1,7 @@
 # Fire Girl
 
+![fire-girl](https://cdn.myanimelist.net/images/manga/1/152005.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 39

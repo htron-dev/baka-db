@@ -1,5 +1,7 @@
 # Atashin'chi Specials
 
+![atashinchi-specials](https://cdn.myanimelist.net/images/anime/1666/115433.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: あたしンち SP

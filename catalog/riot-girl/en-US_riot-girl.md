@@ -1,5 +1,7 @@
 # Riot Girl
 
+![riot-girl](https://cdn.myanimelist.net/images/manga/3/169983.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

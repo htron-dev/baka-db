@@ -1,5 +1,7 @@
 # Akita Land Gothic
 
+![akita-land-gothic](https://cdn.myanimelist.net/images/manga/2/234490.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 28

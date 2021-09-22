@@ -1,5 +1,7 @@
 # Amai Rensa
 
+![amai-rensa](https://cdn.myanimelist.net/images/manga/2/67037.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

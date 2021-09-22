@@ -1,5 +1,7 @@
 # Akuma no Sonnet
 
+![akuma-no-sonnet](https://cdn.myanimelist.net/images/manga/2/33030.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 悪魔のソネット
 -   **start-date**: 2008-10-01

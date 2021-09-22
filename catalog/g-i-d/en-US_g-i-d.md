@@ -1,5 +1,7 @@
 # G.I.D.
 
+![g-i-d](https://cdn.myanimelist.net/images/manga/2/154368.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

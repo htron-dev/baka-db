@@ -1,5 +1,7 @@
 # Gachiiki Chouhatsu Night
 
+![gachiiki-chouhatsu-night](https://cdn.myanimelist.net/images/manga/2/189570.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Miharashi-sou no 6-nin no Hanayome
 
+![miharashi-sou-no-6-nin-no-hanayome](https://cdn.myanimelist.net/images/manga/3/229617.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

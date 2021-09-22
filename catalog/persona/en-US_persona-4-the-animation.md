@@ -1,5 +1,7 @@
 # Persona 4 the Animation
 
+![persona-4-the-animation](https://cdn.myanimelist.net/images/anime/4/29107.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ペルソナ 4 アニメーション

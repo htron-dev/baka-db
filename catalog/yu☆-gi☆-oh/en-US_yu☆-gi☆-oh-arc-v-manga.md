@@ -1,5 +1,7 @@
 # Yu☆Gi☆Oh! Arc-V
 
+![yu☆-gi☆-oh-arc-v](https://cdn.myanimelist.net/images/manga/3/176014.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 45

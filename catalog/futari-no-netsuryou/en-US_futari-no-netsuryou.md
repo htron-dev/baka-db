@@ -1,5 +1,7 @@
 # Futari no Netsuryou
 
+![futari-no-netsuryou](https://cdn.myanimelist.net/images/manga/3/215119.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

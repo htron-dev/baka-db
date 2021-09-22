@@ -1,5 +1,7 @@
 # Rikyuu no Oujo wa Ai ni Tomadou: Gondola wa Natsu no Yoru ni Nurete
 
+![rikyuu-no-oujo-wa-ai-ni-tomadou-gondola-wa-natsu-no-yoru-ni-nurete](https://cdn.myanimelist.net/images/manga/3/192413.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Yaneurabeya no Koushaku Fujin
 
+![yaneurabeya-no-koushaku-fujin](https://cdn.myanimelist.net/images/manga/3/226056.jpg)
+
 -   **type**: manga
 -   **original-name**: 屋根裏部屋の公爵夫人
 -   **start-date**: 2019-03-05

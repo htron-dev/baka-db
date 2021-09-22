@@ -1,5 +1,7 @@
 # Gundam Legacy
 
+![gundam-legacy](https://cdn.myanimelist.net/images/manga/1/128373.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

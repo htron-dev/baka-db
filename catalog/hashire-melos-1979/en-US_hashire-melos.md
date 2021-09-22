@@ -1,5 +1,7 @@
 # Hashire Melos
 
+![hashire-melos](https://cdn.myanimelist.net/images/anime/2/85540.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 走れメロス

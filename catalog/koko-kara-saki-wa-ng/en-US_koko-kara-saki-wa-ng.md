@@ -1,5 +1,7 @@
 # Koko kara Saki wa NG!
 
+![koko-kara-saki-wa-ng](https://cdn.myanimelist.net/images/manga/1/143185.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Satomi☆Hakkenden
 
+![satomi☆-hakkenden](https://cdn.myanimelist.net/images/manga/1/154672.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 54

@@ -1,5 +1,7 @@
 # Mameshiba the DVD Green Pea-shiba no Kutsujoku
 
+![mameshiba-the-dvd-green-pea-shiba-no-kutsujoku](https://cdn.myanimelist.net/images/anime/2/81053.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 豆しば THE DVD グリーンピーしばの屈辱

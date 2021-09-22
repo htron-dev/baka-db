@@ -1,5 +1,7 @@
 # Midnight Horror School
 
+![midnight-horror-school](https://cdn.myanimelist.net/images/anime/4/18777.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: ミッドナイトホラースクール

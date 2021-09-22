@@ -1,5 +1,7 @@
 # Hanatsukihime
 
+![hanatsukihime](https://cdn.myanimelist.net/images/manga/2/185699.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Good Morning
 
+![good-morning](https://cdn.myanimelist.net/images/manga/3/70839.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

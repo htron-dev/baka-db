@@ -1,5 +1,7 @@
 # Kimi wa Kawaii Koi no Dorei
 
+![kimi-wa-kawaii-koi-no-dorei](https://cdn.myanimelist.net/images/manga/3/238736.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

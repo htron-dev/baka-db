@@ -1,5 +1,7 @@
 # Shin Shunkaden
 
+![shin-shunkaden](https://cdn.myanimelist.net/images/manga/1/117571.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

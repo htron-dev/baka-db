@@ -1,5 +1,7 @@
 # Mansion Blues
 
+![mansion-blues](https://cdn.myanimelist.net/images/manga/2/235747.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

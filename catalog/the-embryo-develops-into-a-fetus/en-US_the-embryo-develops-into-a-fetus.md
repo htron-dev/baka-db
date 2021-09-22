@@ -1,5 +1,7 @@
 # The Embryo Develops into a Fetus
 
+![the-embryo-develops-into-a-fetus](https://cdn.myanimelist.net/images/anime/6/71906.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: The Embryo Develops into a Fetus

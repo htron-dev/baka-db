@@ -1,5 +1,7 @@
 # Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e
 
+![maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e](https://cdn.myanimelist.net/images/anime/1421/113319.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 魔王学院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～
 -   **rating**: R - 17+ (violence & profanity)

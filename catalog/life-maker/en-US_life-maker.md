@@ -1,5 +1,7 @@
 # Life Maker
 
+![life-maker](https://cdn.myanimelist.net/images/manga/2/242389.jpg)
+
 -   **type**: manga
 -   **original-name**: LIFE MAKER
 -   **start-date**: 2021-03-12

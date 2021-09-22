@@ -1,5 +1,7 @@
 # Diamond no Ace OVA
 
+![diamond-no-ace-ova](https://cdn.myanimelist.net/images/anime/5/71263.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: ダイヤの A[エース] OAD

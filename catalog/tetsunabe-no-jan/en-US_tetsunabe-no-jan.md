@@ -1,5 +1,7 @@
 # Tetsunabe no Jan
 
+![tetsunabe-no-jan](https://cdn.myanimelist.net/images/manga/1/150687.jpg)
+
 -   **type**: manga
 -   **volumes**: 27
 -   **chapters**: 251

@@ -1,5 +1,7 @@
 # Madogiwa Kakarichou wa Watashi wo Sukisugite Shusse Dekinai
 
+![madogiwa-kakarichou-wa-watashi-wo-sukisugite-shusse-dekinai](https://cdn.myanimelist.net/images/manga/1/196432.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

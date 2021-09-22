@@ -1,5 +1,7 @@
 # Ladies versus Butlers! Specials
 
+![ladies-versus-butlers-specials](https://cdn.myanimelist.net/images/anime/6/21655.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: れでぃ × ばと!

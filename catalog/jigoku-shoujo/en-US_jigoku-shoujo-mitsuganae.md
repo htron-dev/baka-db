@@ -1,5 +1,7 @@
 # Jigoku Shoujo Mitsuganae
 
+![jigoku-shoujo-mitsuganae](https://cdn.myanimelist.net/images/anime/11/86976.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 地獄少女 三鼎

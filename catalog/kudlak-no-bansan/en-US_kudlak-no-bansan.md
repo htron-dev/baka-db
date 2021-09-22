@@ -1,5 +1,7 @@
 # Kudlak no Bansan
 
+![kudlak-no-bansan](https://cdn.myanimelist.net/images/manga/1/168230.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

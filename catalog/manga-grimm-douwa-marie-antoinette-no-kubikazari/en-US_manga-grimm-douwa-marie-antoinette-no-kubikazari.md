@@ -1,5 +1,7 @@
 # Manga Grimm Douwa: Marie Antoinette no Kubikazari
 
+![manga-grimm-douwa-marie-antoinette-no-kubikazari](https://cdn.myanimelist.net/images/manga/1/140801.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

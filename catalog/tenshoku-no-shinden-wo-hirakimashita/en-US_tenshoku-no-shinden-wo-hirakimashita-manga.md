@@ -1,5 +1,7 @@
 # Tenshoku no Shinden wo Hirakimashita
 
+![tenshoku-no-shinden-wo-hirakimashita](https://cdn.myanimelist.net/images/manga/1/244966.jpg)
+
 -   **type**: manga
 -   **original-name**: 転職の神殿を開きました
 -   **start-date**: 2019-12-20

@@ -1,5 +1,7 @@
 # Children's Time
 
+![childrens-time](https://cdn.myanimelist.net/images/manga/3/19097.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

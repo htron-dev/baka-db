@@ -1,5 +1,7 @@
 # Nichijou
 
+![nichijou](https://cdn.myanimelist.net/images/anime/3/75617.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 日常

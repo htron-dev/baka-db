@@ -1,5 +1,7 @@
 # Shiki
 
+![shiki](https://cdn.myanimelist.net/images/anime/8/21343.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 22
 -   **original-name**: 屍鬼
@@ -32,4 +34,4 @@ Shiki, adapted from the horror novel written by Fuyumi Ono, goes beyond the aver
 -   [Official Site](http://www.okiagari.net/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=7268)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11302)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Shiki_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Shiki_%28manga%29)

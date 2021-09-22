@@ -1,5 +1,7 @@
 # Heaven Above Heaven
 
+![heaven-above-heaven](https://cdn.myanimelist.net/images/manga/3/152325.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **original-name**: 천외천

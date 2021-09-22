@@ -1,5 +1,7 @@
 # Dekisokonai no Monster Trainer
 
+![dekisokonai-no-monster-trainer](https://cdn.myanimelist.net/images/manga/1/189878.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

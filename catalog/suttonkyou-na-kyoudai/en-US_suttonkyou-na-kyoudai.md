@@ -1,5 +1,7 @@
 # Suttonkyou na Kyoudai
 
+![suttonkyou-na-kyoudai](https://cdn.myanimelist.net/images/manga/2/32729.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: すっとんきょーな兄妹

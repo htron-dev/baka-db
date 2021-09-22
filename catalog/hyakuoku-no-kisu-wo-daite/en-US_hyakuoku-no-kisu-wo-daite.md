@@ -1,5 +1,7 @@
 # Hyakuoku no Kisu wo Daite
 
+![hyakuoku-no-kisu-wo-daite](https://cdn.myanimelist.net/images/manga/1/8836.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

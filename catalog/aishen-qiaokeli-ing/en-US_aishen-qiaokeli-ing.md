@@ -1,5 +1,7 @@
 # Aishen Qiaokeli-ing...
 
+![aishen-qiaokeli-ing](https://cdn.myanimelist.net/images/anime/6/78011.jpg)
+
 -   **type**: ona
 -   **episodes**: 15
 -   **original-name**: 爱神巧克力 ING...

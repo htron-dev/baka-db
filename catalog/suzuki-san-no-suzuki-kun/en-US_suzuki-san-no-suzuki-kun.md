@@ -1,5 +1,7 @@
 # Suzuki-san no Suzuki-kun
 
+![suzuki-san-no-suzuki-kun](https://cdn.myanimelist.net/images/manga/3/174105.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 23

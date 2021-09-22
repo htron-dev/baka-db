@@ -1,5 +1,7 @@
 # Dohyou no Oni-tachi
 
+![dohyou-no-oni-tachi](https://cdn.myanimelist.net/images/anime/10/47145.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 土俵の鬼たち

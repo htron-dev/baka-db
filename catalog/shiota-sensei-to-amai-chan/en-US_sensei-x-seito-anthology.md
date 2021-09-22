@@ -1,5 +1,7 @@
 # Sensei x Seito Anthology
 
+![sensei-x-seito-anthology](https://cdn.myanimelist.net/images/manga/1/232855.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

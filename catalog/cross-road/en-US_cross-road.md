@@ -1,5 +1,7 @@
 # Cross Road
 
+![cross-road](https://cdn.myanimelist.net/images/anime/1569/103114.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: クロスロード

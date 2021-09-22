@@ -1,5 +1,7 @@
 # Choegang Top Plate
 
+![choegang-top-plate](https://cdn.myanimelist.net/images/anime/6/75021.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 최강 탑플레이트
@@ -10,7 +12,6 @@
 ## Tags
 
 -   action
-
 -   sports
 -   comedy
 

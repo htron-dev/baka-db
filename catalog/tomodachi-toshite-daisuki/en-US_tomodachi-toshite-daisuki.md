@@ -1,5 +1,7 @@
 # Tomodachi toshite Daisuki
 
+![tomodachi-toshite-daisuki](https://cdn.myanimelist.net/images/manga/1/236634.jpg)
+
 -   **type**: manga
 -   **original-name**: 友達として大好き
 -   **start-date**: 2020-01-24

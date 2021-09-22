@@ -1,5 +1,7 @@
 # Kyou no Deki Goto
 
+![kyou-no-deki-goto](https://cdn.myanimelist.net/images/manga/2/38466.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: きょうのできごと

@@ -1,5 +1,7 @@
 # Bounen no Xamdou: Junreisha no Compass
 
+![bounen-no-xamdou-junreisha-no-compass](https://cdn.myanimelist.net/images/manga/2/32200.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 亡念のザムド 巡礼者の羅針盤

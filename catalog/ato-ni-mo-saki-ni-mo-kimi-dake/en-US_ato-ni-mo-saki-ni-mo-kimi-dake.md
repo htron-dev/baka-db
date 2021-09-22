@@ -1,5 +1,7 @@
 # Ato ni mo Saki ni mo Kimi dake
 
+![ato-ni-mo-saki-ni-mo-kimi-dake](https://cdn.myanimelist.net/images/manga/2/72061.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 41

@@ -1,5 +1,7 @@
 # Cutie Honey Tai Devilman Lady
 
+![cutie-honey-tai-devilman-lady](https://cdn.myanimelist.net/images/manga/3/131333.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

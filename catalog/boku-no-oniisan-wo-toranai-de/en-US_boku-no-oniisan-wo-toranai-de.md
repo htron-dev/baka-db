@@ -1,5 +1,7 @@
 # Boku no Oniisan wo Toranai de!?
 
+![boku-no-oniisan-wo-toranai-de](https://cdn.myanimelist.net/images/manga/2/151645.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

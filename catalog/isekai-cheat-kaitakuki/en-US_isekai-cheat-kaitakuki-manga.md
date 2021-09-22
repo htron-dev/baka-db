@@ -1,5 +1,7 @@
 # Isekai Cheat Kaitakuki
 
+![isekai-cheat-kaitakuki](https://cdn.myanimelist.net/images/manga/2/234946.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界チート開拓記
 -   **start-date**: 2019-11-25

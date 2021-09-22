@@ -1,5 +1,7 @@
 # Xia Lan
 
+![xia-lan](https://cdn.myanimelist.net/images/anime/13/88305.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 156
 -   **original-name**: 侠岚

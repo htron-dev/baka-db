@@ -1,5 +1,7 @@
 # Aa Taiheiyou: Mizuki Shigeru Senki Senshuu
 
+![aa-taiheiyou-mizuki-shigeru-senki-senshuu](https://cdn.myanimelist.net/images/manga/2/170347.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

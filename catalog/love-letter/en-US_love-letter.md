@@ -1,5 +1,7 @@
 # Love Letter
 
+![love-letter](https://cdn.myanimelist.net/images/manga/5/32157.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ラブ・レター

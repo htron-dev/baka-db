@@ -1,5 +1,7 @@
 # Hikikomori Reijou wa Hanashi no Wakaru Seijuu-ban
 
+![hikikomori-reijou-wa-hanashi-no-wakaru-seijuu-ban](https://cdn.myanimelist.net/images/manga/1/239923.jpg)
+
 -   **type**: manga
 -   **original-name**: 引きこもり令嬢は話のわかる聖獣番
 -   **start-date**: 2019-12-06

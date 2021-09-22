@@ -1,5 +1,7 @@
 # Xiaopin Yijia Ren: Baoxiao Xiaoyuan Pian
 
+![xiaopin-yijia-ren-baoxiao-xiaoyuan-pian](https://cdn.myanimelist.net/images/anime/1776/115362.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 小品一家人之爆笑校园篇

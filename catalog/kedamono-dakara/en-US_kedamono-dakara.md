@@ -1,5 +1,7 @@
 # Kedamono Dakara
 
+![kedamono-dakara](https://cdn.myanimelist.net/images/manga/2/59017.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ケダモノだから。

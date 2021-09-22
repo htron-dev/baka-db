@@ -1,5 +1,7 @@
 # Koi no Kaikata
 
+![koi-no-kaikata](https://cdn.myanimelist.net/images/manga/2/7753.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

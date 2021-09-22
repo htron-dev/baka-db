@@ -1,5 +1,7 @@
 # Needless
 
+![needless](https://cdn.myanimelist.net/images/anime/2/23457.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: ニードレス

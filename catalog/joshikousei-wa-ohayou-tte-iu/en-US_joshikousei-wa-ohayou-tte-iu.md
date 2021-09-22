@@ -1,5 +1,7 @@
 # Joshikousei wa Ohayou tte Iu
 
+![joshikousei-wa-ohayou-tte-iu](https://cdn.myanimelist.net/images/manga/3/246369.jpg)
+
 -   **type**: manga
 -   **original-name**: 女子高生はおはようって言う
 -   **start-date**: 2020-12-11

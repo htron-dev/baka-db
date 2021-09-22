@@ -1,5 +1,7 @@
 # Dorami-chan: Hello Kyouryuu Kids!!
 
+![dorami-chan-hello-kyouryuu-kids](https://cdn.myanimelist.net/images/anime/4/29227.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ドラミちゃん ハロー恐竜キッズ!!

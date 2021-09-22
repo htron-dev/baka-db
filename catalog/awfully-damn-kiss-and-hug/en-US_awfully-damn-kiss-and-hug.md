@@ -1,5 +1,7 @@
 # Awfully Damn Kiss and Hug
 
+![awfully-damn-kiss-and-hug](https://cdn.myanimelist.net/images/manga/3/135451.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 -   **chapters**: 56

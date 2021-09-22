@@ -1,5 +1,7 @@
 # Goku Shoku King
 
+![goku-shoku-king](https://cdn.myanimelist.net/images/manga/2/229391.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 41

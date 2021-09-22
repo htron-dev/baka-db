@@ -1,5 +1,7 @@
 # Meteor Methuselah
 
+![meteor-methuselah](https://cdn.myanimelist.net/images/manga/1/198155.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 61

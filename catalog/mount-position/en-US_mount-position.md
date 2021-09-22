@@ -1,5 +1,7 @@
 # Mount Position!
 
+![mount-position](https://cdn.myanimelist.net/images/manga/2/244725.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

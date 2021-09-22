@@ -1,5 +1,7 @@
 # Gift: Eternal Rainbow - Ki no Saka Ryokan Kiki Ippatsu!!
 
+![gift-eternal-rainbow-ki-no-saka-ryokan-kiki-ippatsu](https://cdn.myanimelist.net/images/anime/13/25446.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ギフト～ eternal rainbow ～ 木之坂旅館 危機一髪!!

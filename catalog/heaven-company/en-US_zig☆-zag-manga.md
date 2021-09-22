@@ -1,5 +1,7 @@
 # Zig☆Zag
 
+![zig☆-zag](https://cdn.myanimelist.net/images/manga/3/171468.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 44

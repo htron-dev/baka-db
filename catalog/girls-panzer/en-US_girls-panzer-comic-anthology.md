@@ -1,5 +1,7 @@
 # Girls & Panzer: Comic Anthology
 
+![girls-panzer-comic-anthology](https://cdn.myanimelist.net/images/manga/2/155613.jpg)
+
 -   **type**: manga
 -   **original-name**: ガールズ&パンツァー コミックアンソロジー
 -   **start-date**: 2013-10-23

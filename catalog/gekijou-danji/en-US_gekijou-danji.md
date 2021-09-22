@@ -1,5 +1,7 @@
 # Gekijou Danji!!
 
+![gekijou-danji](https://cdn.myanimelist.net/images/manga/1/189646.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

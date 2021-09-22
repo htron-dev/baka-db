@@ -1,5 +1,7 @@
 # Mirumiru Uchi ni Suki ni Naru
 
+![mirumiru-uchi-ni-suki-ni-naru](https://cdn.myanimelist.net/images/manga/1/141847.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 視ル視ルうちに好きになる

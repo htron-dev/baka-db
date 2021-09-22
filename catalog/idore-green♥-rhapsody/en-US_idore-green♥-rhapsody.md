@@ -1,5 +1,7 @@
 # Idore! Green♥Rhapsody
 
+![idore-green♥-rhapsody](https://cdn.myanimelist.net/images/manga/1/180995.jpg)
+
 -   **type**: manga
 -   **original-name**: アイドれ! グリーン ♥ ラプソディ
 -   **start-date**: 2015-08-21

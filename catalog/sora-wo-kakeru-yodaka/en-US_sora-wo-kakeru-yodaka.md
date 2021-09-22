@@ -1,5 +1,7 @@
 # Sora wo Kakeru Yodaka
 
+![sora-wo-kakeru-yodaka](https://cdn.myanimelist.net/images/manga/2/167241.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

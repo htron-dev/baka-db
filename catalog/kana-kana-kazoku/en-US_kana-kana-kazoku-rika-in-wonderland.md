@@ -1,5 +1,7 @@
 # Kana Kana Kazoku: Rika in Wonderland
 
+![kana-kana-kazoku-rika-in-wonderland](https://cdn.myanimelist.net/images/anime/6/76187.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: かなかなかぞくボイスドラマ「リカ イン ワンダーランド」

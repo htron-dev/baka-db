@@ -1,5 +1,7 @@
 # Gals‼︎
 
+![gals-︎](https://cdn.myanimelist.net/images/manga/3/236762.jpg)
+
 -   **type**: manga
 -   **original-name**: GALS‼︎
 -   **start-date**: 2019-11-05

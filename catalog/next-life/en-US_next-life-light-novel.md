@@ -1,5 +1,7 @@
 # Next Life
 
+![next-life](https://cdn.myanimelist.net/images/manga/2/195245.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ネクストライフ
 -   **start-date**: 2013-05-31

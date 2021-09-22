@@ -1,5 +1,7 @@
 # Chibi Neko Chobi/Chibi Neko Kobi to Tomodachi
 
+![chibi-neko-chobi-chibi-neko-kobi-to-tomodachi](https://cdn.myanimelist.net/images/anime/8/67471.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ちびねこチョビ／ちびねこコビとおともだち

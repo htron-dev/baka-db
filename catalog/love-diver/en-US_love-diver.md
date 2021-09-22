@@ -1,5 +1,7 @@
 # Love Diver
 
+![love-diver](https://cdn.myanimelist.net/images/manga/1/59121.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

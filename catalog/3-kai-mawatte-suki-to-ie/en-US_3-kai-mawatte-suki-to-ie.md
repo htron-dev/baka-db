@@ -1,5 +1,7 @@
 # 3-kai Mawatte Suki to Ie
 
+![3-kai-mawatte-suki-to-ie](https://cdn.myanimelist.net/images/manga/1/224349.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

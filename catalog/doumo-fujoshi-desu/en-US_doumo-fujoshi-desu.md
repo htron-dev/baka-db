@@ -1,5 +1,7 @@
 # Doumo, Fujoshi desu.
 
+![doumo-fujoshi-desu](https://cdn.myanimelist.net/images/manga/1/238506.jpg)
+
 -   **type**: manga
 -   **original-name**: どうも、腐女子です。
 -   **start-date**: 2018-11-09

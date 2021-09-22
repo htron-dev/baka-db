@@ -1,5 +1,7 @@
 # Neko-Sis
 
+![neko-sis](https://cdn.myanimelist.net/images/manga/2/105029.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

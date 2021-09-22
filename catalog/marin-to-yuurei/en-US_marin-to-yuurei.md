@@ -1,5 +1,7 @@
 # Marin to Yuurei
 
+![marin-to-yuurei](https://cdn.myanimelist.net/images/manga/2/164288.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 24

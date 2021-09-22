@@ -1,5 +1,7 @@
 # Kyonyuu Tenshi Mikopyon!
 
+![kyonyuu-tenshi-mikopyon](https://cdn.myanimelist.net/images/manga/3/194740.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 巨乳天使ミコピョン！
 -   **start-date**: 2017-05-02

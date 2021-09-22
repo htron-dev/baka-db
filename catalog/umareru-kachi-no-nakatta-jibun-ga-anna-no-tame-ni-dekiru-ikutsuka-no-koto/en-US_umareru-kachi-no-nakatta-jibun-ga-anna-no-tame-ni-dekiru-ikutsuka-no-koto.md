@@ -1,5 +1,7 @@
 # Umareru Kachi no Nakatta Jibun ga Anna no Tame ni Dekiru Ikutsuka no Koto
 
+![umareru-kachi-no-nakatta-jibun-ga-anna-no-tame-ni-dekiru-ikutsuka-no-koto](https://cdn.myanimelist.net/images/manga/2/129673.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

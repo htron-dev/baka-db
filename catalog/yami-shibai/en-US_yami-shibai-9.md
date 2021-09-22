@@ -1,5 +1,7 @@
 # Yami Shibai 9
 
+![yami-shibai-9](https://cdn.myanimelist.net/images/anime/1880/115566.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 闇芝居 九期
 -   **start-date**: 2021-07-12

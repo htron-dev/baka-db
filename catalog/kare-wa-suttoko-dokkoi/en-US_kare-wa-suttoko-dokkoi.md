@@ -1,5 +1,7 @@
 # Kare wa Suttoko Dokkoi
 
+![kare-wa-suttoko-dokkoi](https://cdn.myanimelist.net/images/manga/3/72155.jpg)
+
 -   **type**: manga
 -   **original-name**: 彼はすっとこどっ恋
 -   **start-date**: 2009-03-31

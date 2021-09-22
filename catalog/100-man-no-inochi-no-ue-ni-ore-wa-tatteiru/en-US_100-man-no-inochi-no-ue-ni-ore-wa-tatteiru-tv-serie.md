@@ -1,5 +1,7 @@
 # 100-man no Inochi no Ue ni Ore wa Tatteiru
 
+![100-man-no-inochi-no-ue-ni-ore-wa-tatteiru](https://cdn.myanimelist.net/images/anime/1506/117717.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 100 万の命の上に俺は立っている

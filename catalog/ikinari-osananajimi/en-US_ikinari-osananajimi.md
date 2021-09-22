@@ -1,5 +1,7 @@
 # Ikinari Osananajimi!!
 
+![ikinari-osananajimi](https://cdn.myanimelist.net/images/manga/2/204385.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Break Blade: Virgins War
 
+![break-blade-virgins-war](https://cdn.myanimelist.net/images/anime/7/73418.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ブレイク ブレイド「Virgins War」

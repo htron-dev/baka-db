@@ -1,5 +1,7 @@
 # Hentai
 
+![hentai](https://cdn.myanimelist.net/images/manga/3/228964.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 23

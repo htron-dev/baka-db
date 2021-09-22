@@ -1,5 +1,7 @@
 # Coffee wo Shizuka ni
 
+![coffee-wo-shizuka-ni](https://cdn.myanimelist.net/images/manga/2/237848.jpg)
+
 -   **type**: manga
 -   **original-name**: 珈琲をしづかに
 -   **start-date**: 2019-04-22

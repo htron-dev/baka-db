@@ -1,5 +1,7 @@
 # Saikin Ponta
 
+![saikin-ponta](https://cdn.myanimelist.net/images/anime/11/70831.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: サイキンポンタ

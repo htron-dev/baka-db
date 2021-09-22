@@ -1,5 +1,7 @@
 # Atashi no Katekyo ga Shota Nandakedo
 
+![atashi-no-katekyo-ga-shota-nandakedo](https://cdn.myanimelist.net/images/manga/1/213571.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

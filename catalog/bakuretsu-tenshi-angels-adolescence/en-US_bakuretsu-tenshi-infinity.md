@@ -1,5 +1,7 @@
 # Bakuretsu Tenshi: Infinity
 
+![bakuretsu-tenshi-infinity](https://cdn.myanimelist.net/images/anime/11/21537.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 爆裂天使 -Infinity-

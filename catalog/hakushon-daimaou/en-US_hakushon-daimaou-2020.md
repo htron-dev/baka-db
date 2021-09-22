@@ -1,5 +1,7 @@
 # Hakushon Daimaou 2020
 
+![hakushon-daimaou-2020](https://cdn.myanimelist.net/images/anime/1621/105178.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 20
 -   **original-name**: ハクション大魔王 2020

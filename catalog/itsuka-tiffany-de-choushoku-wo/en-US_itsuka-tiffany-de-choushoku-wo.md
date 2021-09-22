@@ -1,5 +1,7 @@
 # Itsuka Tiffany de Choushoku wo
 
+![itsuka-tiffany-de-choushoku-wo](https://cdn.myanimelist.net/images/manga/3/128655.jpg)
+
 -   **type**: manga
 -   **original-name**: いつかティファニーで朝食を
 -   **start-date**: 2012-03-21

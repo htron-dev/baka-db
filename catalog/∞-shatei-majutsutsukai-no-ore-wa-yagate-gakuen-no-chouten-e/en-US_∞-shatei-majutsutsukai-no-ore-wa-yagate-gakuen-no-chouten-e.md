@@ -1,5 +1,7 @@
 # ∞ Shatei Majutsutsukai no Ore wa, Yagate Gakuen no Chouten e
 
+![∞-shatei-majutsutsukai-no-ore-wa-yagate-gakuen-no-chouten-e](https://cdn.myanimelist.net/images/manga/1/247228.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ∞ 射程魔術使いの俺は、やがて学園の頂点へ
 -   **start-date**: 2021-01-27

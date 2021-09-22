@@ -1,5 +1,7 @@
 # Shinmai Fukei Kiruko-san
 
+![shinmai-fukei-kiruko-san](https://cdn.myanimelist.net/images/manga/1/85839.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

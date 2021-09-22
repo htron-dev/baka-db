@@ -1,5 +1,7 @@
 # Landreaall
 
+![landreaall](https://cdn.myanimelist.net/images/manga/3/172950.jpg)
+
 -   **type**: manga
 -   **original-name**: Landreaall
 -   **start-date**: 2002-10-28

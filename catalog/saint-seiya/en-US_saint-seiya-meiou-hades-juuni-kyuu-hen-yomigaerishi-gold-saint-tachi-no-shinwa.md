@@ -1,5 +1,7 @@
 # Saint Seiya: Meiou Hades Juuni Kyuu-hen - Yomigaerishi Gold Saint-tachi no Shinwa
 
+![saint-seiya-meiou-hades-juuni-kyuu-hen-yomigaerishi-gold-saint-tachi-no-shinwa](https://cdn.myanimelist.net/images/anime/7/13518.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 冥王ハーデス十二宮編　よみがえりし黄金聖闘士たちの神話

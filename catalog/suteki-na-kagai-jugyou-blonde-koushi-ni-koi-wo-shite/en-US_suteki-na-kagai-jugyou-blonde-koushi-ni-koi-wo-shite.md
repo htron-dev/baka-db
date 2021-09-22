@@ -1,5 +1,7 @@
 # Suteki na Kagai Jugyou: Blonde Koushi ni Koi wo Shite
 
+![suteki-na-kagai-jugyou-blonde-koushi-ni-koi-wo-shite](https://cdn.myanimelist.net/images/manga/2/193727.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

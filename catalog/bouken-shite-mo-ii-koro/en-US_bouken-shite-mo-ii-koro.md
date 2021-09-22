@@ -1,5 +1,7 @@
 # Bouken Shite mo Ii Koro
 
+![bouken-shite-mo-ii-koro](https://cdn.myanimelist.net/images/anime/5/73717.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 冒険してもいい頃

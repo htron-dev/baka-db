@@ -1,5 +1,7 @@
 # AKB0048
 
+![akb-0048](https://cdn.myanimelist.net/images/anime/3/74157.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: AKB0048

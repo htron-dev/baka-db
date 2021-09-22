@@ -1,5 +1,7 @@
 # Lost World
 
+![lost-world](https://cdn.myanimelist.net/images/manga/2/155827.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

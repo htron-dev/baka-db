@@ -1,5 +1,7 @@
 # Blood-C: Izayoi Kitan
 
+![blood-c-izayoi-kitan](https://cdn.myanimelist.net/images/manga/3/169859.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

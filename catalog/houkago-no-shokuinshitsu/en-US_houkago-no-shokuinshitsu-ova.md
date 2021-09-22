@@ -1,5 +1,7 @@
 # Houkago no Shokuinshitsu
 
+![houkago-no-shokuinshitsu](https://cdn.myanimelist.net/images/anime/9/89936.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 放課後の職員室

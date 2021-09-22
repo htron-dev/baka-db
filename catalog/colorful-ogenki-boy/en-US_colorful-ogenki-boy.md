@@ -1,5 +1,7 @@
 # Colorful Ogenki Boy
 
+![colorful-ogenki-boy](https://cdn.myanimelist.net/images/manga/1/20724.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

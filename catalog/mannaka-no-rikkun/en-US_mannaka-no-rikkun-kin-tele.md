@@ -1,5 +1,7 @@
 # Mannaka no Rikkun@Kin Tele
 
+![mannaka-no-rikkun-kin-tele](https://cdn.myanimelist.net/images/anime/1206/91318.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: まんなかのりっくん＠きんてれ

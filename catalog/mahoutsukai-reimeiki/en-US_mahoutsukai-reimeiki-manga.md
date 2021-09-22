@@ -1,5 +1,7 @@
 # Mahoutsukai Reimeiki
 
+![mahoutsukai-reimeiki](https://cdn.myanimelist.net/images/manga/2/244014.jpg)
+
 -   **type**: manga
 -   **original-name**: 魔法使い黎明期
 -   **start-date**: 2019-07-26

@@ -1,5 +1,7 @@
 # Love Live! School Idol Diary Special Edition
 
+![love-live-school-idol-diary-special-edition](https://cdn.myanimelist.net/images/manga/1/235603.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Amaterasu-san wa Hikikomoritai!
 
+![amaterasu-san-wa-hikikomoritai](https://cdn.myanimelist.net/images/manga/2/219161.jpg)
+
 -   **type**: manga
 -   **original-name**: アマテラスさんはひきこもりたい！
 -   **start-date**: 2017-11-25

@@ -1,5 +1,7 @@
 # Mahoroba no Hibi
 
+![mahoroba-no-hibi](https://cdn.myanimelist.net/images/manga/2/155795.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

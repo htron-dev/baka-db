@@ -1,5 +1,7 @@
 # Idol tte Kimochi Ii! Kenkyuusei no Hazukashi Lesson
 
+![idol-tte-kimochi-ii-kenkyuusei-no-hazukashi-lesson](https://cdn.myanimelist.net/images/manga/2/217340.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

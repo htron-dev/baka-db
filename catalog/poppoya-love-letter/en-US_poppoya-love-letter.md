@@ -1,5 +1,7 @@
 # Poppoya Love Letter
 
+![poppoya-love-letter](https://cdn.myanimelist.net/images/manga/4/14020.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

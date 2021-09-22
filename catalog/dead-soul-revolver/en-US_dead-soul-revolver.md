@@ -1,5 +1,7 @@
 # Dead Soul Revolver
 
+![dead-soul-revolver](https://cdn.myanimelist.net/images/manga/2/53759.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

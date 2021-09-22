@@ -1,5 +1,7 @@
 # Hyakuman Dollar no Onna
 
+![hyakuman-dollar-no-onna](https://cdn.myanimelist.net/images/manga/1/42164.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 100 万ドルの女

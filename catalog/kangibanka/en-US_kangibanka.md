@@ -1,5 +1,7 @@
 # Kangibanka
 
+![kangibanka](https://cdn.myanimelist.net/images/manga/1/240835.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 31

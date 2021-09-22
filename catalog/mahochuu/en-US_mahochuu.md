@@ -1,5 +1,7 @@
 # Mahochuu!
 
+![mahochuu](https://cdn.myanimelist.net/images/manga/2/178109.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

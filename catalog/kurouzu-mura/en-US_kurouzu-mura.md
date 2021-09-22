@@ -1,5 +1,7 @@
 # Kurouzu-mura
 
+![kurouzu-mura](https://cdn.myanimelist.net/images/manga/2/124343.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 黒水村

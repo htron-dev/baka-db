@@ -1,5 +1,7 @@
 # Bishounen de Meitantei de Doesu
 
+![bishounen-de-meitantei-de-doesu](https://cdn.myanimelist.net/images/manga/1/33543.jpg)
+
 -   **type**: manga
 -   **original-name**: 美少年で名探偵でドエス
 -   **start-date**: 2010-07-20

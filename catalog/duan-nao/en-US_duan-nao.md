@@ -1,5 +1,7 @@
 # Duan Nao
 
+![duan-nao](https://cdn.myanimelist.net/images/anime/3/82664.jpg)
+
 -   **type**: ona
 -   **episodes**: 16
 -   **original-name**: 端脑
@@ -24,4 +26,4 @@ The word cerebrum refers to a gigantic system consisting of collision universes,
 
 -   [My Anime list](https://myanimelist.net/anime/28673/Duan_Nao)
 -   [Official Site](http://www.u17.com/z/zt/dienow)
--   [Wikipedia](<https://zh.wikipedia.org/wiki/%E7%AB%AF%E8%84%91_(%E6%BC%AB%E7%94%BB)>)
+-   [Wikipedia](https://zh.wikipedia.org/wiki/%E7%AB%AF%E8%84%91_%28%E6%BC%AB%E7%94%BB%29)

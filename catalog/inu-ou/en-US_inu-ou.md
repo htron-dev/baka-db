@@ -1,5 +1,7 @@
 # Inu-Ou
 
+![inu-ou](https://cdn.myanimelist.net/images/anime/1200/108266.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 犬王
@@ -26,4 +28,4 @@ Inu-Ou and Tomona become business partners and inseparable friends, using their 
 -   [Official Site](https://inuoh-anime.com/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=14949)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=23608)
--   [Wikipedia](<https://ja.wikipedia.org/wiki/%E7%8A%AC%E7%8E%8B_(%E3%82%A2%E3%83%8B%E3%83%A1%E6%98%A0%E7%94%BB)>)
+-   [Wikipedia](https://ja.wikipedia.org/wiki/%E7%8A%AC%E7%8E%8B_%28%E3%82%A2%E3%83%8B%E3%83%A1%E6%98%A0%E7%94%BB%29)

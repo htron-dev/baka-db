@@ -1,5 +1,7 @@
 # Hiro-kun ga Sensei
 
+![hiro-kun-ga-sensei](https://cdn.myanimelist.net/images/manga/1/233387.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

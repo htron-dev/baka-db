@@ -1,5 +1,7 @@
 # Ginga Tetsudou 999
 
+![ginga-tetsudou-999](https://cdn.myanimelist.net/images/manga/3/191348.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **original-name**: 銀河鉄道 999

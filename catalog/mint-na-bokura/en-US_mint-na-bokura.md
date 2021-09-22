@@ -1,5 +1,7 @@
 # Mint na Bokura
 
+![mint-na-bokura](https://cdn.myanimelist.net/images/manga/5/175875.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 30

@@ -1,5 +1,7 @@
 # BanG Dream!
 
+![ban-g-dream](https://cdn.myanimelist.net/images/manga/1/196445.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

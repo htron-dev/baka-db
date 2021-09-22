@@ -1,5 +1,7 @@
 # Hitozuma to JK
 
+![hitozuma-to-jk](https://cdn.myanimelist.net/images/manga/1/241854.jpg)
+
 -   **type**: manga
 -   **original-name**: 人妻と JK
 -   **start-date**: 2020-11-12

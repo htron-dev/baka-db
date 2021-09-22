@@ -1,5 +1,7 @@
 # Assassin Luna: Ansatsusha wa Midara ni Aegu
 
+![assassin-luna-ansatsusha-wa-midara-ni-aegu](https://cdn.myanimelist.net/images/manga/2/197006.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: アサシン・ルナ　暗殺者は淫らに喘ぐ

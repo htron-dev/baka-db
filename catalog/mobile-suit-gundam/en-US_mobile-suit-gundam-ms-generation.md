@@ -1,5 +1,7 @@
 # Mobile Suit Gundam: MS Generation
 
+![mobile-suit-gundam-ms-generation](https://cdn.myanimelist.net/images/manga/1/27523.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

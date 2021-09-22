@@ -1,5 +1,7 @@
 # Date A Live IV
 
+![date-a-live-iv](https://cdn.myanimelist.net/images/anime/1809/113334.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: デート・ア・ライブ Ⅳ
 -   **start-date**: 2021-10-20

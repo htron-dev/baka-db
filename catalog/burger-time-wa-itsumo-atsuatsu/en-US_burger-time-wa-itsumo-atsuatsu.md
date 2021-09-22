@@ -1,5 +1,7 @@
 # Burger Time wa Itsumo Atsuatsu
 
+![burger-time-wa-itsumo-atsuatsu](https://cdn.myanimelist.net/images/manga/3/29763.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

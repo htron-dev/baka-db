@@ -1,5 +1,7 @@
 # Gakuen Senki Muryou: Yorinuki Muryou-san Girls Selection
 
+![gakuen-senki-muryou-yorinuki-muryou-san-girls-selection](https://cdn.myanimelist.net/images/anime/1676/93460.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: よりぬきムリョウさん Girls Selection ~学園戦記ムリョウ特別編~

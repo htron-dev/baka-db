@@ -1,5 +1,7 @@
 # Reportage
 
+![reportage](https://cdn.myanimelist.net/images/manga/3/205437.jpg)
+
 -   **type**: manga
 -   **original-name**: ルポルタージュ
 -   **start-date**: 2017-02-28

@@ -1,5 +1,7 @@
 # Growlanser IV: Wayfarer of the Time
 
+![growlanser-iv-wayfarer-of-the-time](https://cdn.myanimelist.net/images/anime/1135/106141.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: グローランサー IV ~Wayfarer of the time~

@@ -1,5 +1,7 @@
 # Mobile Suit Gundam I
 
+![mobile-suit-gundam-i](https://cdn.myanimelist.net/images/anime/5/75772.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版　機動戦士ガンダム I 　特別編

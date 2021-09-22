@@ -1,5 +1,7 @@
 # Kanojo to Order to Yasashii Uso
 
+![kanojo-to-order-to-yasashii-uso](https://cdn.myanimelist.net/images/manga/3/131003.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: カノジョとオーダーとやさしい嘘

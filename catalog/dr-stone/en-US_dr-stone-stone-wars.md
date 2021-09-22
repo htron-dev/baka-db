@@ -1,5 +1,7 @@
 # Dr. Stone: Stone Wars
 
+![dr-stone-stone-wars](https://cdn.myanimelist.net/images/anime/1711/110614.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: ドクターストーン STONE WARS

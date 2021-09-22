@@ -1,5 +1,7 @@
 # Daikuu Maryuu Gaiking
 
+![daikuu-maryuu-gaiking](https://cdn.myanimelist.net/images/anime/4/15622.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 44
 -   **original-name**: 大空魔竜ガイキング

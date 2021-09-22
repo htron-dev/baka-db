@@ -1,5 +1,7 @@
 # Turning Mecard R
 
+![turning-mecard-r](https://cdn.myanimelist.net/images/anime/1592/98721.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 터닝메카드 R
@@ -11,7 +13,6 @@
 
 -   cars
 -   game
-
 -   mecha
 
 ## Sinopse

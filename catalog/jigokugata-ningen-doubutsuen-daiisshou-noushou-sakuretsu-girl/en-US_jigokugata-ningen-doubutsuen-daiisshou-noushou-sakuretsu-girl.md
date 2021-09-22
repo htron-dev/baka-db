@@ -1,5 +1,7 @@
 # Jigokugata Ningen Doubutsuen: Daiisshou - Noushou Sakuretsu Girl
 
+![jigokugata-ningen-doubutsuen-daiisshou-noushou-sakuretsu-girl](https://cdn.myanimelist.net/images/manga/1/169483.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Mardock Scramble: The First Compression
 
+![mardock-scramble-the-first-compression](https://cdn.myanimelist.net/images/anime/3/26215.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: マルドゥック・スクランブル 圧縮

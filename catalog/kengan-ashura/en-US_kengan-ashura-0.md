@@ -1,5 +1,7 @@
 # Kengan Ashura 0
 
+![kengan-ashura-0](https://cdn.myanimelist.net/images/manga/3/225037.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

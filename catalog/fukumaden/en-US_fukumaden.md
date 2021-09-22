@@ -1,5 +1,7 @@
 # Fukumaden
 
+![fukumaden](https://cdn.myanimelist.net/images/manga/2/230879.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 39

@@ -1,5 +1,7 @@
 # Convenience Store Senki Purin-tai
 
+![convenience-store-senki-purin-tai](https://cdn.myanimelist.net/images/anime/9/71511.jpg)
+
 -   **type**: ona
 -   **episodes**: 8
 -   **original-name**: こんびに戦記　プリンタイ

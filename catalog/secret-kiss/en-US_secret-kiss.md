@@ -1,5 +1,7 @@
 # Secret Kiss
 
+![secret-kiss](https://cdn.myanimelist.net/images/manga/4/123097.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

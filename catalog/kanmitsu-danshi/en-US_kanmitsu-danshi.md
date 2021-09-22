@@ -1,5 +1,7 @@
 # Kanmitsu Danshi
 
+![kanmitsu-danshi](https://cdn.myanimelist.net/images/manga/5/112373.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

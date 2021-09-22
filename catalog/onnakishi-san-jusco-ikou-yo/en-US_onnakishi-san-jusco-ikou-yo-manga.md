@@ -1,5 +1,7 @@
 # Onnakishi-san, JUSCO Ikou yo
 
+![onnakishi-san-jusco-ikou-yo](https://cdn.myanimelist.net/images/manga/3/171666.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

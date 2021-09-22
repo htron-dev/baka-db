@@ -1,5 +1,7 @@
 # Odoru Ahou to Kusare Gedou
 
+![odoru-ahou-to-kusare-gedou](https://cdn.myanimelist.net/images/manga/3/246470.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

@@ -1,5 +1,7 @@
 # Nihon no Kyoudai
 
+![nihon-no-kyoudai](https://cdn.myanimelist.net/images/manga/5/25697.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

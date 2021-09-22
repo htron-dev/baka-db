@@ -1,5 +1,7 @@
 # Kyoujou
 
+![kyoujou](https://cdn.myanimelist.net/images/manga/2/247436.jpg)
+
 -   **type**: manga
 -   **original-name**: 教場
 -   **start-date**: 2020-12-21

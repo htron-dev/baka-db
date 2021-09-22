@@ -1,5 +1,7 @@
 # Yao Shen Ji
 
+![yao-shen-ji](https://cdn.myanimelist.net/images/anime/2/88177.jpg)
+
 -   **type**: ona
 -   **episodes**: 40
 -   **original-name**: 妖神记

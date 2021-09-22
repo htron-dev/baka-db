@@ -1,5 +1,7 @@
 # Ninjutsu Hinotama Kozou: Edo no Maki
 
+![ninjutsu-hinotama-kozou-edo-no-maki](https://cdn.myanimelist.net/images/anime/3/15836.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 忍術火の玉小僧～江戸の巻～

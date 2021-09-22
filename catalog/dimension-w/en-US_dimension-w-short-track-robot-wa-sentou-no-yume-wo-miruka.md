@@ -1,5 +1,7 @@
 # Dimension W: Short Track/Robot wa Sentou no Yume wo Miruka
 
+![dimension-w-short-track-robot-wa-sentou-no-yume-wo-miruka](https://cdn.myanimelist.net/images/anime/8/79605.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ディメンション ダブリュー「SHORT TRACK／ロボットは銭湯の夢を見るか」

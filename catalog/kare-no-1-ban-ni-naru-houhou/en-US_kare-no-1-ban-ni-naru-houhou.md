@@ -1,5 +1,7 @@
 # Kare no 1-Ban ni Naru Houhou
 
+![kare-no-1-ban-ni-naru-houhou](https://cdn.myanimelist.net/images/manga/2/81790.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 彼の 1 番になる方法

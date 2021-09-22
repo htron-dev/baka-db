@@ -1,5 +1,7 @@
 # Mitsukoi Engage: Ichizu na Koushaku no Amai Yuuwaku
 
+![mitsukoi-engage-ichizu-na-koushaku-no-amai-yuuwaku](https://cdn.myanimelist.net/images/manga/3/172374.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 蜜恋エンゲージ 一途な公爵の甘い誘惑

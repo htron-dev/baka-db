@@ -1,5 +1,7 @@
 # Idol Land PriPara
 
+![idol-land-pri-para](https://cdn.myanimelist.net/images/anime/1790/113555.jpg)
+
 -   **type**: ona
 -   **original-name**: アイドルランドプリパラ
 -   **start-date**: 2021-08-18
@@ -9,7 +11,6 @@
 
 -   music
 -   slice-of-life
-
 -   shoujo
 
 ## Sinopse

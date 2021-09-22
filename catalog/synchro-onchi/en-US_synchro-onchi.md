@@ -1,5 +1,7 @@
 # Synchro Onchi!
 
+![synchro-onchi](https://cdn.myanimelist.net/images/manga/3/190615.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 27

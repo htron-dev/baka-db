@@ -1,5 +1,7 @@
 # Joukamachi no Dandelion
 
+![joukamachi-no-dandelion](https://cdn.myanimelist.net/images/anime/11/82559.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 城下町のダンデライオン

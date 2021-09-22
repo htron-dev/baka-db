@@ -1,5 +1,7 @@
 # Watashi wa Rikyuu
 
+![watashi-wa-rikyuu](https://cdn.myanimelist.net/images/manga/3/142849.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

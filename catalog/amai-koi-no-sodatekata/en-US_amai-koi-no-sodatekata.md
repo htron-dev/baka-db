@@ -1,5 +1,7 @@
 # Amai Koi no Sodatekata
 
+![amai-koi-no-sodatekata](https://cdn.myanimelist.net/images/manga/2/72729.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

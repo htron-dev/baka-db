@@ -1,5 +1,7 @@
 # Hidoku Shinaide: Takanashi Akira-hen
 
+![hidoku-shinaide-takanashi-akira-hen](https://cdn.myanimelist.net/images/manga/1/164465.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

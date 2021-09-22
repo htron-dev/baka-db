@@ -1,5 +1,7 @@
 # Ouji-sama no Junan
 
+![ouji-sama-no-junan](https://cdn.myanimelist.net/images/manga/3/226931.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

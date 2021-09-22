@@ -1,5 +1,7 @@
 # Kaibutsu-kun (1980)
 
+![kaibutsu-kun-1980](https://cdn.myanimelist.net/images/anime/5/29925.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 94
 -   **original-name**: 怪物くん (1980)

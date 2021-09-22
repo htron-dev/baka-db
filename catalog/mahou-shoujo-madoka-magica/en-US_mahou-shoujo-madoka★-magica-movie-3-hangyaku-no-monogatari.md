@@ -1,5 +1,7 @@
 # Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari
 
+![mahou-shoujo-madoka★-magica-movie-3-hangyaku-no-monogatari](https://cdn.myanimelist.net/images/anime/5/54231.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 魔法少女まどか ☆ マギカ 叛逆の物語

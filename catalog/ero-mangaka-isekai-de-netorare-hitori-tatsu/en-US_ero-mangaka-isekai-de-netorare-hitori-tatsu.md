@@ -1,5 +1,7 @@
 # Ero Mangaka, Isekai de Netorare Hitori Tatsu
 
+![ero-mangaka-isekai-de-netorare-hitori-tatsu](https://cdn.myanimelist.net/images/manga/3/158309.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

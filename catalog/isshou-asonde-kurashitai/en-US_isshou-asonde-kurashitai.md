@@ -1,5 +1,7 @@
 # Isshou Asonde Kurashitai
 
+![isshou-asonde-kurashitai](https://cdn.myanimelist.net/images/manga/1/112401.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 5

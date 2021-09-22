@@ -1,5 +1,7 @@
 # Persona 3 Comic Anthology: Memento Mori
 
+![persona-3-comic-anthology-memento-mori](https://cdn.myanimelist.net/images/manga/2/12884.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 18

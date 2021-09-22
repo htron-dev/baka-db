@@ -1,5 +1,7 @@
 # Hiyoko no Basket Movie: Last Game 0401
 
+![hiyoko-no-basket-movie-last-game-0401](https://cdn.myanimelist.net/images/anime/3/85081.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 劇場版 ひよこのバスケ LAST GAME 0401

@@ -1,5 +1,7 @@
 # Space Adventure Cobra
 
+![space-adventure-cobra](https://cdn.myanimelist.net/images/anime/13/42525.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: SPACE ADVENTURE コブラ

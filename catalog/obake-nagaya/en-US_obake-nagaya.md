@@ -1,5 +1,7 @@
 # Obake Nagaya
 
+![obake-nagaya](https://cdn.myanimelist.net/images/anime/7/66255.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: おばけ長屋
@@ -9,7 +11,6 @@
 ## Tags
 
 -   comedy
-
 -   supernatural
 
 ## Sinopse

@@ -1,5 +1,7 @@
 # Osomatsu-kun
 
+![osomatsu-kun](https://cdn.myanimelist.net/images/manga/3/159720.jpg)
+
 -   **type**: manga
 -   **volumes**: 34
 -   **original-name**: おそ松くん

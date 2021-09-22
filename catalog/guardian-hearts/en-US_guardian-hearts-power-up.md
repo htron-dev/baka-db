@@ -1,5 +1,7 @@
 # Guardian Hearts-Power UP!
 
+![guardian-hearts-power-up](https://cdn.myanimelist.net/images/anime/5/5175.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: がぁーでぃあん Hearts ぱわーあっぷ！

@@ -1,5 +1,7 @@
 # 100-nichikan Ikita Wani
 
+![100-nichikan-ikita-wani](https://cdn.myanimelist.net/images/anime/1871/115717.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 100 日間生きたワニ

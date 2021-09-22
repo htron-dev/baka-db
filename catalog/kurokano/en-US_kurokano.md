@@ -1,5 +1,7 @@
 # Kurokano
 
+![kurokano](https://cdn.myanimelist.net/images/manga/1/165784.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

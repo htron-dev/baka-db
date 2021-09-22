@@ -1,5 +1,7 @@
 # Machi de Uwasa no Tengu no Ko
 
+![machi-de-uwasa-no-tengu-no-ko](https://cdn.myanimelist.net/images/manga/2/21317.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 68

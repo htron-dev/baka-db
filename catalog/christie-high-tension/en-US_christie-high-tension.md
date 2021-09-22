@@ -1,5 +1,7 @@
 # Christie: High Tension
 
+![christie-high-tension](https://cdn.myanimelist.net/images/manga/3/157266.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 53

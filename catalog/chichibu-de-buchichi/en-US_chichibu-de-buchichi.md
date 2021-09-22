@@ -1,5 +1,7 @@
 # Chichibu de Buchichi
 
+![chichibu-de-buchichi](https://cdn.myanimelist.net/images/anime/1881/90220.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ちちぶでぶちち

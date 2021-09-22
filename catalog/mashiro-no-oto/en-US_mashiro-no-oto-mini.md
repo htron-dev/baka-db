@@ -1,5 +1,7 @@
 # Mashiro no Oto Mini
 
+![mashiro-no-oto-mini](https://cdn.myanimelist.net/images/anime/1740/111206.jpg)
+
 -   **type**: ona
 -   **episodes**: 33
 -   **original-name**: ましろのおと ミニ

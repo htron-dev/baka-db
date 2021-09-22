@@ -1,5 +1,7 @@
 # Vampire Miyu
 
+![vampire-miyu](https://cdn.myanimelist.net/images/manga/2/142499.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 48

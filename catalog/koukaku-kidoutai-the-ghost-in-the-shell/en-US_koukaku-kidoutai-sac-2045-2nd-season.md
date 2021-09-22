@@ -1,5 +1,7 @@
 # Koukaku Kidoutai: SAC_2045 2nd Season
 
+![koukaku-kidoutai-sac-2045-2nd-season](https://cdn.myanimelist.net/images/anime/1205/107122.jpg)
+
 -   **type**: ona
 -   **original-name**: 攻殻機動隊 SAC_2045
 -   **rating**: R - 17+ (violence & profanity)

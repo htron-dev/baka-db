@@ -1,5 +1,7 @@
 # Higurashi Fudousan Kuushitsu-ari
 
+![higurashi-fudousan-kuushitsu-ari](https://cdn.myanimelist.net/images/manga/3/159917.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

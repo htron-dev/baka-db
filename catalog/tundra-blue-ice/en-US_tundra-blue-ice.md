@@ -1,5 +1,7 @@
 # Tundra Blue Ice
 
+![tundra-blue-ice](https://cdn.myanimelist.net/images/manga/3/131877.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ツンドラブルーアイス

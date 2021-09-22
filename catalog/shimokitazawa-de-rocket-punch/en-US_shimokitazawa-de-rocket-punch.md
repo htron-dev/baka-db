@@ -1,5 +1,7 @@
 # Shimokitazawa de Rocket Punch
 
+![shimokitazawa-de-rocket-punch](https://cdn.myanimelist.net/images/manga/1/7175.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 下北沢でロケットパンチ

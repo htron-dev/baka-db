@@ -1,5 +1,7 @@
 # AIKa ZERO: Paradise Blue
 
+![ai-ka-zero-paradise-blue](https://cdn.myanimelist.net/images/manga/1/162613.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: AIKa ZERO パラダイス・ブルー

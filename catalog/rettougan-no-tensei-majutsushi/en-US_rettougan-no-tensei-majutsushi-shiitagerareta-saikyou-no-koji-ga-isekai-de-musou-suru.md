@@ -1,5 +1,7 @@
 # Rettougan no Tensei Majutsushi: Shiitagerareta Saikyou no Koji ga Isekai de Musou Suru
 
+![rettougan-no-tensei-majutsushi-shiitagerareta-saikyou-no-koji-ga-isekai-de-musou-suru](https://cdn.myanimelist.net/images/manga/2/239314.jpg)
+
 -   **type**: manga
 -   **original-name**: 劣等眼の転生魔術師 ～虐げられた最強の孤児が異世界で無双する～
 -   **start-date**: 2020-05-10

@@ -1,5 +1,7 @@
 # Saint Seiya
 
+![saint-seiya](https://cdn.myanimelist.net/images/anime/9/28496.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 114
 -   **original-name**: 聖闘士星矢(セイントセイヤ)

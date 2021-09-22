@@ -1,5 +1,7 @@
 # Junkie Junk Guns
 
+![junkie-junk-guns](https://cdn.myanimelist.net/images/manga/2/189947.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ジャンキージャンクガンズ
 -   **start-date**: 2017-02-10

@@ -1,5 +1,7 @@
 # Nehushtania-sama no Eien ja Nai Hibi
 
+![nehushtania-sama-no-eien-ja-nai-hibi](https://cdn.myanimelist.net/images/manga/1/203959.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

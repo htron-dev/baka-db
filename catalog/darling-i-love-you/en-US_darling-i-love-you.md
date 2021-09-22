@@ -1,5 +1,7 @@
 # Darling, I Love You!
 
+![darling-i-love-you](https://cdn.myanimelist.net/images/manga/3/2623.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

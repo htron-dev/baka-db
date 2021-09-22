@@ -1,5 +1,7 @@
 # Youkina Fuukei-tachi
 
+![youkina-fuukei-tachi](https://cdn.myanimelist.net/images/anime/1716/109756.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 陽気な風景たち

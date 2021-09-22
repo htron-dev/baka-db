@@ -1,5 +1,7 @@
 # Kidou Senshi Gundam: Uchuu no Ixtab
 
+![kidou-senshi-gundam-uchuu-no-ixtab](https://cdn.myanimelist.net/images/manga/2/147405.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 21

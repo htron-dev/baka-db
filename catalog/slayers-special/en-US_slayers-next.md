@@ -1,5 +1,7 @@
 # Slayers Next
 
+![slayers-next](https://cdn.myanimelist.net/images/anime/1165/92536.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: スレイヤーズ NEXT

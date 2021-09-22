@@ -1,5 +1,7 @@
 # Star Red
 
+![star-red](https://cdn.myanimelist.net/images/manga/2/57221.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: スター・レッド

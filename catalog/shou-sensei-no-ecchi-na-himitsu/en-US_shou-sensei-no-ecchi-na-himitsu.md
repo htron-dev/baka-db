@@ -1,5 +1,7 @@
 # Shou-sensei no Ecchi na Himitsu
 
+![shou-sensei-no-ecchi-na-himitsu](https://cdn.myanimelist.net/images/manga/1/238152.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

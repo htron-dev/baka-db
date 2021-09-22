@@ -1,5 +1,7 @@
 # Denka no Aizou to Biyaku no Wana: Reijou wa Enzai ni Madou
 
+![denka-no-aizou-to-biyaku-no-wana-reijou-wa-enzai-ni-madou](https://cdn.myanimelist.net/images/manga/3/192577.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

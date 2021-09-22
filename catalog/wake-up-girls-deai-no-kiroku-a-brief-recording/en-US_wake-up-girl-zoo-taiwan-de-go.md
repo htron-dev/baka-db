@@ -1,5 +1,7 @@
 # Wake Up, Girl Zoo! Taiwan de Go!
 
+![wake-up-girl-zoo-taiwan-de-go](https://cdn.myanimelist.net/images/anime/13/86443.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: うぇいくあっぷがーる ZOO！ 台湾で GO！

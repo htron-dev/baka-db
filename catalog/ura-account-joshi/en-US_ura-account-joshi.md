@@ -1,5 +1,7 @@
 # Ura Account Joshi
 
+![ura-account-joshi](https://cdn.myanimelist.net/images/manga/3/235298.jpg)
+
 -   **type**: manga
 -   **original-name**: ウラアカジョシ
 -   **start-date**: 2019-09-17

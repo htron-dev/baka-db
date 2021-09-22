@@ -1,5 +1,7 @@
 # Arte
 
+![arte](https://cdn.myanimelist.net/images/manga/3/131495.jpg)
+
 -   **type**: manga
 -   **original-name**: アルテ
 -   **start-date**: 2013-10-25

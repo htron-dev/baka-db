@@ -1,5 +1,7 @@
 # Gall Force 2: Destruction
 
+![gall-force-2-destruction](https://cdn.myanimelist.net/images/anime/12/26520.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ガルフォース 2 ディストラクション

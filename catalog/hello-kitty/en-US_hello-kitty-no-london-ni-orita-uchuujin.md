@@ -1,5 +1,7 @@
 # Hello Kitty no London ni Orita Uchuujin
 
+![hello-kitty-no-london-ni-orita-uchuujin](https://cdn.myanimelist.net/images/anime/11/47811.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティのロンドンにおりた宇宙人

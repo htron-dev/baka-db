@@ -1,5 +1,7 @@
 # 15 Sonyeon Uju Pyoryugi
 
+![15-sonyeon-uju-pyoryugi](https://cdn.myanimelist.net/images/anime/13/49071.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 15소년 우주 표류기

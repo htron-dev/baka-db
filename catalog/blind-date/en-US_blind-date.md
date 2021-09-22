@@ -1,5 +1,7 @@
 # Blind Date
 
+![blind-date](https://cdn.myanimelist.net/images/manga/2/110681.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

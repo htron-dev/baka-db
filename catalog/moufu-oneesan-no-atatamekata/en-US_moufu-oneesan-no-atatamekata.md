@@ -1,5 +1,7 @@
 # Moufu Oneesan no Atatamekata
 
+![moufu-oneesan-no-atatamekata](https://cdn.myanimelist.net/images/manga/3/232393.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 19

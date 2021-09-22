@@ -1,5 +1,7 @@
 # Harukoi Sakura
 
+![harukoi-sakura](https://cdn.myanimelist.net/images/manga/3/28281.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

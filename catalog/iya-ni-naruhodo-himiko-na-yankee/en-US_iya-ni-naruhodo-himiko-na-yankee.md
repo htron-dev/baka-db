@@ -1,5 +1,7 @@
 # Iya ni Naruhodo Himiko na Yankee
 
+![iya-ni-naruhodo-himiko-na-yankee](https://cdn.myanimelist.net/images/manga/2/164613.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

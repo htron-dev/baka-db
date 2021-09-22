@@ -1,5 +1,7 @@
 # Ninpen Manmaru
 
+![ninpen-manmaru](https://cdn.myanimelist.net/images/anime/4/66675.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 30
 -   **original-name**: 忍ペンまん丸

@@ -1,5 +1,7 @@
 # 666 Satan
 
+![666-satan](https://cdn.myanimelist.net/images/manga/3/511.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 78

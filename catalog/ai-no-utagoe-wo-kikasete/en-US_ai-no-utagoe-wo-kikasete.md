@@ -1,5 +1,7 @@
 # Ai no Utagoe wo Kikasete
 
+![ai-no-utagoe-wo-kikasete](https://cdn.myanimelist.net/images/anime/1535/116583.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: アイの歌声を聴かせて

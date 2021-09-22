@@ -1,5 +1,7 @@
 # Wizardry
 
+![wizardry](https://cdn.myanimelist.net/images/anime/1982/112296.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ウィザードリィ

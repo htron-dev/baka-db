@@ -1,5 +1,7 @@
 # Dorohedoro: Ma no Omake
 
+![dorohedoro-ma-no-omake](https://cdn.myanimelist.net/images/anime/1611/105459.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: ドロヘドロ 魔のおまけ

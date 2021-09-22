@@ -1,5 +1,7 @@
 # Chou ka Han ka: Gokudou-sama Afurete Afurete Nakasetai
 
+![chou-ka-han-ka-gokudou-sama-afurete-afurete-nakasetai](https://cdn.myanimelist.net/images/manga/3/240657.jpg)
+
 -   **type**: manga
 -   **original-name**: 蝶か犯か ～極道様 溢れて溢れて泣かせたい～
 -   **start-date**: 2019-08-03

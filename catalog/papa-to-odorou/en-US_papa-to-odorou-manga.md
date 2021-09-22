@@ -1,5 +1,7 @@
 # Papa to odorou
 
+![papa-to-odorou](https://cdn.myanimelist.net/images/manga/3/236435.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 216

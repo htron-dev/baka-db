@@ -1,5 +1,7 @@
 # Bodyguard
 
+![bodyguard](https://cdn.myanimelist.net/images/manga/3/9281.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 10
 -   **original-name**: 보디가드

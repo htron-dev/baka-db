@@ -1,5 +1,7 @@
 # Yuusha no Kuzu
 
+![yuusha-no-kuzu](https://cdn.myanimelist.net/images/manga/1/186321.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 勇者のクズ
 -   **start-date**: 2016-12-24

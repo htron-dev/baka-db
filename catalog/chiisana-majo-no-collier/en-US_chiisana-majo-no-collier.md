@@ -1,5 +1,7 @@
 # Chiisana Majo no Collier
 
+![chiisana-majo-no-collier](https://cdn.myanimelist.net/images/manga/1/202995.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

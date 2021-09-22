@@ -1,5 +1,7 @@
 # Kin-Button no Kyori
 
+![kin-button-no-kyori](https://cdn.myanimelist.net/images/manga/2/153375.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 金ボタンの距離

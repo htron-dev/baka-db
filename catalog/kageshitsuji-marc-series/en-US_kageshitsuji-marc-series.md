@@ -1,5 +1,7 @@
 # Kageshitsuji Marc Series
 
+![kageshitsuji-marc-series](https://cdn.myanimelist.net/images/manga/3/162472.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 12
 -   **chapters**: 82

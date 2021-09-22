@@ -1,5 +1,7 @@
 # Breath of Fire 6: Botanical Chronicle
 
+![breath-of-fire-6-botanical-chronicle](https://cdn.myanimelist.net/images/manga/2/176856.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Perman (1983) Specials
 
+![perman-1983-specials](https://cdn.myanimelist.net/images/anime/5/73658.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: パーマン (1983)

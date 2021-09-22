@@ -1,5 +1,7 @@
 # Haunted!
 
+![haunted](https://cdn.myanimelist.net/images/manga/3/163090.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 25

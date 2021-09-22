@@ -1,5 +1,7 @@
 # Gegege no Kitarou: Youkai Sen Monogatari
 
+![gegege-no-kitarou-youkai-sen-monogatari](https://cdn.myanimelist.net/images/manga/2/198840.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 29

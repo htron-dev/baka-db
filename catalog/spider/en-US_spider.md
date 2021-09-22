@@ -1,5 +1,7 @@
 # Spider
 
+![spider](https://cdn.myanimelist.net/images/manga/1/79149.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 内田一奈

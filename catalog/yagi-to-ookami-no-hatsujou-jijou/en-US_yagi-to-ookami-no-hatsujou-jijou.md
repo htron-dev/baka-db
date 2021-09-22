@@ -1,5 +1,7 @@
 # Yagi to Ookami no Hatsujou Jijou
 
+![yagi-to-ookami-no-hatsujou-jijou](https://cdn.myanimelist.net/images/manga/3/227794.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

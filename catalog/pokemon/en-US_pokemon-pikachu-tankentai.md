@@ -1,5 +1,7 @@
 # Pokemon: Pikachu Tankentai
 
+![pokemon-pikachu-tankentai](https://cdn.myanimelist.net/images/anime/1488/97386.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ピカチュウたんけんたい

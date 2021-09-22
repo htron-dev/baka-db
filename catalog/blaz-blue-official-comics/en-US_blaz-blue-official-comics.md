@@ -1,5 +1,7 @@
 # BlazBlue Official Comics
 
+![blaz-blue-official-comics](https://cdn.myanimelist.net/images/manga/1/28619.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: BLAZBLUE オフィシャルコミックス

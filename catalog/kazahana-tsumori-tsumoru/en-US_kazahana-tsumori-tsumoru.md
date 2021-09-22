@@ -1,5 +1,7 @@
 # Kazahana, Tsumori Tsumoru.
 
+![kazahana-tsumori-tsumoru](https://cdn.myanimelist.net/images/manga/2/118387.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

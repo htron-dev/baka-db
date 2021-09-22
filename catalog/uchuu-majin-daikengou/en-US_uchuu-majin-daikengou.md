@@ -1,5 +1,7 @@
 # Uchuu Majin Daikengou
 
+![uchuu-majin-daikengou](https://cdn.myanimelist.net/images/anime/3/78264.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 宇宙魔神ダイケンゴー

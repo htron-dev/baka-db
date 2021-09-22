@@ -1,5 +1,7 @@
 # Ore no xxx ga Genki ga Nai Ken ni Tsuite
 
+![ore-no-xxx-ga-genki-ga-nai-ken-ni-tsuite](https://cdn.myanimelist.net/images/manga/2/238230.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

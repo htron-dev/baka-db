@@ -1,5 +1,7 @@
 # Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.
 
+![ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai](https://cdn.myanimelist.net/images/anime/5/79697.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 11
 -   **original-name**: あの日見た花の名前を僕達はまだ知らない。

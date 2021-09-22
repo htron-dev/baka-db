@@ -1,5 +1,7 @@
 # Mahou Shoujo Sonico★Magica
 
+![mahou-shoujo-sonico★-magica](https://cdn.myanimelist.net/images/anime/4/28921.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 魔法少女そに子 ☆ マギカ

@@ -1,5 +1,7 @@
 # Guilty Crown: Princess of Deadpool
 
+![guilty-crown-princess-of-deadpool](https://cdn.myanimelist.net/images/manga/2/74343.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

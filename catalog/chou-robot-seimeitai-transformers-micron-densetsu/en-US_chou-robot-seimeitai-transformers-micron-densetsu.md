@@ -1,5 +1,7 @@
 # Chou Robot Seimeitai Transformers Micron Densetsu
 
+![chou-robot-seimeitai-transformers-micron-densetsu](https://cdn.myanimelist.net/images/anime/1231/104729.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 超ロボット生命体トランスフォーマー マイクロン伝説

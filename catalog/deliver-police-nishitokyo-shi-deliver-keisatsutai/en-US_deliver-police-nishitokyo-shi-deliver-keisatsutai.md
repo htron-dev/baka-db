@@ -1,5 +1,7 @@
 # Deliver Police: Nishitokyo-shi Deliver Keisatsutai
 
+![deliver-police-nishitokyo-shi-deliver-keisatsutai](https://cdn.myanimelist.net/images/anime/1114/113739.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: DELIVER POLICE/西東京市デリバー警察隊

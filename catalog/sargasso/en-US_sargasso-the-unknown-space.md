@@ -1,5 +1,7 @@
 # Sargasso: The Unknown Space
 
+![sargasso-the-unknown-space](https://cdn.myanimelist.net/images/manga/3/33975.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 宇宙賃貸サルガッ荘

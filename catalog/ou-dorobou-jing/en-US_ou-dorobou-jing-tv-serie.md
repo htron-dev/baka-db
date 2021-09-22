@@ -1,5 +1,7 @@
 # Ou Dorobou Jing
 
+![ou-dorobou-jing](https://cdn.myanimelist.net/images/anime/1961/92115.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 王ドロボウ JING

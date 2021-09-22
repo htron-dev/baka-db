@@ -1,5 +1,7 @@
 # Anime Tenchou B' Tenchou Kouhosei
 
+![anime-tenchou-b-tenchou-kouhosei](https://cdn.myanimelist.net/images/manga/2/72631.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: アニメ店長Ｂ'店長候補生

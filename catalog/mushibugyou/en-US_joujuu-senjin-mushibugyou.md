@@ -1,5 +1,7 @@
 # Joujuu Senjin!! Mushibugyou
 
+![joujuu-senjin-mushibugyou](https://cdn.myanimelist.net/images/manga/2/169921.jpg)
+
 -   **type**: manga
 -   **volumes**: 32
 -   **chapters**: 316

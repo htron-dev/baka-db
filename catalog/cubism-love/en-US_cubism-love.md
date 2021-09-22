@@ -1,5 +1,7 @@
 # Cubism Love
 
+![cubism-love](https://cdn.myanimelist.net/images/manga/2/149782.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 29

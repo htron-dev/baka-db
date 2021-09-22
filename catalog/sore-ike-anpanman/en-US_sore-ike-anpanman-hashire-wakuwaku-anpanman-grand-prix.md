@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Hashire! Wakuwaku Anpanman Grand Prix
 
+![sore-ike-anpanman-hashire-wakuwaku-anpanman-grand-prix](https://cdn.myanimelist.net/images/anime/3/66775.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ! アンパンマン はしれ! わくわく アンパンマングランプリ
@@ -9,7 +11,6 @@
 ## Tags
 
 -   cars
-
 -   fantasy
 
 ## Sinopse

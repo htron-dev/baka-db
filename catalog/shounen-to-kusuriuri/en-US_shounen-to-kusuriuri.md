@@ -1,5 +1,7 @@
 # Shounen to Kusuriuri
 
+![shounen-to-kusuriuri](https://cdn.myanimelist.net/images/manga/2/224274.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

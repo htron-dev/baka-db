@@ -1,5 +1,7 @@
 # Akatsuki no Myoujou
 
+![akatsuki-no-myoujou](https://cdn.myanimelist.net/images/manga/2/157786.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

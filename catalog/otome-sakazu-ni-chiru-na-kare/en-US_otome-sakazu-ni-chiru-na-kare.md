@@ -1,5 +1,7 @@
 # Otome, Sakazu ni Chiru na Kare.
 
+![otome-sakazu-ni-chiru-na-kare](https://cdn.myanimelist.net/images/manga/2/69605.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

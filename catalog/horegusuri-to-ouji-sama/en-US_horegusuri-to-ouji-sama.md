@@ -1,5 +1,7 @@
 # Horegusuri to Ouji-sama
 
+![horegusuri-to-ouji-sama](https://cdn.myanimelist.net/images/manga/3/199506.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

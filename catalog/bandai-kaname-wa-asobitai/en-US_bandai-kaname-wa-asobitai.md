@@ -1,5 +1,7 @@
 # Bandai Kaname wa Asobitai
 
+![bandai-kaname-wa-asobitai](https://cdn.myanimelist.net/images/manga/3/212194.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

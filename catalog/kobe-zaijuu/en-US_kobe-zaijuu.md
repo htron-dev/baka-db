@@ -1,5 +1,7 @@
 # Kobe Zaijuu
 
+![kobe-zaijuu](https://cdn.myanimelist.net/images/manga/3/131615.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: 神戸在住

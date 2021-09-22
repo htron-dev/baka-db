@@ -1,5 +1,7 @@
 # Katasugiru Wakatono to Wakeari no Sokushitsu
 
+![katasugiru-wakatono-to-wakeari-no-sokushitsu](https://cdn.myanimelist.net/images/manga/1/193936.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

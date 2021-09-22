@@ -1,5 +1,7 @@
 # Bokura Choujou Kurabu desu
 
+![bokura-choujou-kurabu-desu](https://cdn.myanimelist.net/images/manga/2/31159.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ボクら超常倶楽部です

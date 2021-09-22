@@ -1,5 +1,7 @@
 # Ani to wa Koinaka nan desu ga.
 
+![ani-to-wa-koinaka-nan-desu-ga](https://cdn.myanimelist.net/images/manga/1/170742.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

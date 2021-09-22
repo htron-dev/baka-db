@@ -1,5 +1,7 @@
 # Airs
 
+![airs](https://cdn.myanimelist.net/images/anime/1748/110952.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: エアーズ

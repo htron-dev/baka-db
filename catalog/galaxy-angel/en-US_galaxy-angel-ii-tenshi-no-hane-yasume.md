@@ -1,5 +1,7 @@
 # Galaxy Angel II Tenshi no Hane Yasume
 
+![galaxy-angel-ii-tenshi-no-hane-yasume](https://cdn.myanimelist.net/images/manga/1/50169.jpg)
+
 -   **type**: manga
 -   **original-name**: ギャラクシーエンジェル II 天使の羽根休め
 -   **start-date**: 2006-11-30

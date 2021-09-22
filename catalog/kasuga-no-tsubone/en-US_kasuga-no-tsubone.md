@@ -1,5 +1,7 @@
 # Kasuga no Tsubone
 
+![kasuga-no-tsubone](https://cdn.myanimelist.net/images/manga/1/18052.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 春日局

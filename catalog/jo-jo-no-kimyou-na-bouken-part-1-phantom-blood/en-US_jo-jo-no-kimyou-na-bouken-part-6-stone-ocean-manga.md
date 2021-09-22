@@ -1,5 +1,7 @@
 # JoJo no Kimyou na Bouken Part 6: Stone Ocean
 
+![jo-jo-no-kimyou-na-bouken-part-6-stone-ocean](https://cdn.myanimelist.net/images/manga/3/75929.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 158

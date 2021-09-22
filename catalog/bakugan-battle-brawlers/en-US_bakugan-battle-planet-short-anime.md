@@ -1,5 +1,7 @@
 # Bakugan: Battle Planet Short Anime
 
+![bakugan-battle-planet-short-anime](https://cdn.myanimelist.net/images/anime/1472/115413.jpg)
+
 -   **type**: ona
 -   **episodes**: 50
 -   **original-name**: 爆丸バトルプラネット　ショートアニメ

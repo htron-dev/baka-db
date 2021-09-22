@@ -1,5 +1,7 @@
 # Retro Game Master Shibusawa
 
+![retro-game-master-shibusawa](https://cdn.myanimelist.net/images/manga/2/164379.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 14

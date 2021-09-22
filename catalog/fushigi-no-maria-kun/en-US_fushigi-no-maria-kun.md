@@ -1,5 +1,7 @@
 # Fushigi no Maria-kun
 
+![fushigi-no-maria-kun](https://cdn.myanimelist.net/images/manga/2/22611.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

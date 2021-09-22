@@ -1,5 +1,7 @@
 # Ikemasen, Ouji-sama!!
 
+![ikemasen-ouji-sama](https://cdn.myanimelist.net/images/manga/3/15058.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

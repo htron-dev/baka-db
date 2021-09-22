@@ -1,5 +1,7 @@
 # Battlefield wa Karasawagi!
 
+![battlefield-wa-karasawagi](https://cdn.myanimelist.net/images/manga/3/162142.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 30

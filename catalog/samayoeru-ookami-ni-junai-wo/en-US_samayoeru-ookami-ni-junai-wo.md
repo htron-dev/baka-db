@@ -1,5 +1,7 @@
 # Samayoeru Ookami ni Junai wo
 
+![samayoeru-ookami-ni-junai-wo](https://cdn.myanimelist.net/images/manga/1/40875.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: さまよえる少年に純愛を

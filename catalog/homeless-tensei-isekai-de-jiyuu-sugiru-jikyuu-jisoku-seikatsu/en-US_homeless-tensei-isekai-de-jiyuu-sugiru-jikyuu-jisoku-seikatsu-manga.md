@@ -1,5 +1,7 @@
 # Homeless Tensei: Isekai de Jiyuu Sugiru Jikyuu Jisoku Seikatsu
 
+![homeless-tensei-isekai-de-jiyuu-sugiru-jikyuu-jisoku-seikatsu](https://cdn.myanimelist.net/images/manga/2/224890.jpg)
+
 -   **type**: manga
 -   **original-name**: ホームレス転生　～異世界で自由すぎる自給自足生活～
 -   **start-date**: 2018-10-26

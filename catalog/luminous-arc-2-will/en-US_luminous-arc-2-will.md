@@ -1,5 +1,7 @@
 # Luminous Arc 2: Will
 
+![luminous-arc-2-will](https://cdn.myanimelist.net/images/manga/3/73407.jpg)
+
 -   **type**: manga
 -   **chapters**: 3
 -   **original-name**: ルミナスアーク 2 ウィル

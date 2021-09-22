@@ -1,5 +1,7 @@
 # Heartcatch Precure!
 
+![heartcatch-precure](https://cdn.myanimelist.net/images/manga/2/175458.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ハートキャッチプリキュア！

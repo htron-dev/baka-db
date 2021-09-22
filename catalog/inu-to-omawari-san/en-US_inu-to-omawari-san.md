@@ -1,5 +1,7 @@
 # Inu to Omawari-san.
 
+![inu-to-omawari-san](https://cdn.myanimelist.net/images/manga/2/152445.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

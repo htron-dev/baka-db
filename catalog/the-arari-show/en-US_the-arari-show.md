@@ -1,5 +1,7 @@
 # The Arari Show
 
+![the-arari-show](https://cdn.myanimelist.net/images/anime/3/18351.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 아라리쇼

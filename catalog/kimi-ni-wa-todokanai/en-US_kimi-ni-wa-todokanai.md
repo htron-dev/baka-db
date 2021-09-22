@@ -1,5 +1,7 @@
 # Kimi ni wa Todokanai.
 
+![kimi-ni-wa-todokanai](https://cdn.myanimelist.net/images/manga/2/226356.jpg)
+
 -   **type**: manga
 -   **original-name**: 君には届かない。
 -   **start-date**: 2018-11-23

@@ -1,5 +1,7 @@
 # Only Sense Online: Hakugin no Muse
 
+![only-sense-online-hakugin-no-muse](https://cdn.myanimelist.net/images/manga/1/187232.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 16

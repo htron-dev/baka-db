@@ -1,5 +1,7 @@
 # Koro Koro Kuririn no Inaka no Nezumi Tokai no Nezumi
 
+![koro-koro-kuririn-no-inaka-no-nezumi-tokai-no-nezumi](https://cdn.myanimelist.net/images/anime/5/48597.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: コロコロクリリンの田舎のネズミ 都会のネズミ

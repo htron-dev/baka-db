@@ -1,5 +1,7 @@
 # Torokeru Ai wo Tsutsumikon de: Gouin Tenchou no Amai Crêpe Shuugyou
 
+![torokeru-ai-wo-tsutsumikon-de-gouin-tenchou-no-amai-crepe-shuugyou](https://cdn.myanimelist.net/images/manga/2/193147.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 18

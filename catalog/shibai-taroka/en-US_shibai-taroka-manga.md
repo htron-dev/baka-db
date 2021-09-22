@@ -1,5 +1,7 @@
 # Shibai Taroka
 
+![shibai-taroka](https://cdn.myanimelist.net/images/manga/1/29877.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **original-name**: しばいたろか

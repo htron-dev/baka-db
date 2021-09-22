@@ -1,5 +1,7 @@
 # Wakadanna Zukan
 
+![wakadanna-zukan](https://cdn.myanimelist.net/images/manga/2/176151.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

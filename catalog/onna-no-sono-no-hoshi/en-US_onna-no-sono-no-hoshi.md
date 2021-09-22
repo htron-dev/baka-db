@@ -1,5 +1,7 @@
 # Onna no Sono no Hoshi
 
+![onna-no-sono-no-hoshi](https://cdn.myanimelist.net/images/manga/1/237629.jpg)
+
 -   **type**: manga
 -   **original-name**: 女の園の星
 -   **start-date**: 2020-01-08

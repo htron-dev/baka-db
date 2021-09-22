@@ -1,5 +1,7 @@
 # Full Metal Panic! Comic Mission
 
+![full-metal-panic-comic-mission](https://cdn.myanimelist.net/images/manga/3/36795.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 60

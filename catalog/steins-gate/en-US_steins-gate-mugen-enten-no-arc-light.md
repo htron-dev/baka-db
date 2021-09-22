@@ -1,5 +1,7 @@
 # Steins;Gate: Mugen Enten no Arc Light
 
+![steins-gate-mugen-enten-no-arc-light](https://cdn.myanimelist.net/images/manga/2/146871.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

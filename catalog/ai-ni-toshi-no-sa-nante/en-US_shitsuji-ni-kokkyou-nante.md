@@ -1,5 +1,7 @@
 # Shitsuji ni Kokkyou Nante
 
+![shitsuji-ni-kokkyou-nante](https://cdn.myanimelist.net/images/manga/1/43347.jpg)
+
 -   **type**: manga
 -   **original-name**: 執事に国境なんて
 

@@ -1,5 +1,7 @@
 # I Am a Hero in Nagasaki
 
+![i-am-a-hero-in-nagasaki](https://cdn.myanimelist.net/images/manga/3/193593.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

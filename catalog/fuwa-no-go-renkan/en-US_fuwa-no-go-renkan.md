@@ -1,5 +1,7 @@
 # Fuwa no go renkan
 
+![fuwa-no-go-renkan](https://cdn.myanimelist.net/images/anime/1763/102677.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 54
 -   **original-name**: 福娃の五連環

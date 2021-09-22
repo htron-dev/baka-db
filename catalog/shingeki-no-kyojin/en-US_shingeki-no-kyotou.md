@@ -1,5 +1,7 @@
 # Shingeki no Kyotou
 
+![shingeki-no-kyotou](https://cdn.myanimelist.net/images/anime/3/84716.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 進撃の巨塔

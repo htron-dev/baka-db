@@ -1,5 +1,7 @@
 # Mini-Chara Macross
 
+![mini-chara-macross](https://cdn.myanimelist.net/images/anime/3/75898.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ミニキャラマクロス

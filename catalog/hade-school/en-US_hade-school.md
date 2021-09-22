@@ -1,5 +1,7 @@
 # Hade School
 
+![hade-school](https://cdn.myanimelist.net/images/manga/2/76939.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 -   **original-name**: 하데 스쿨！

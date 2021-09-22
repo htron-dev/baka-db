@@ -1,5 +1,7 @@
 # Mako-chan Enikki
 
+![mako-chan-enikki](https://cdn.myanimelist.net/images/manga/1/216246.jpg)
+
 -   **type**: manga
 -   **volumes**: 13
 -   **chapters**: 139

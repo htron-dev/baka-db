@@ -1,5 +1,7 @@
 # Tenkyuu wa Haruka: Keigetsu Den
 
+![tenkyuu-wa-haruka-keigetsu-den](https://cdn.myanimelist.net/images/manga/1/162689.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 31

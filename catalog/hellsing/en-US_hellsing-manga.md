@@ -1,5 +1,7 @@
 # Hellsing
 
+![hellsing](https://cdn.myanimelist.net/images/manga/2/149.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 92

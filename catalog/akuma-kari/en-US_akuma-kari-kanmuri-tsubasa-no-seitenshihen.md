@@ -1,5 +1,7 @@
 # Akuma Kari - Kanmuri Tsubasa no Seitenshihen
 
+![akuma-kari-kanmuri-tsubasa-no-seitenshihen](https://cdn.myanimelist.net/images/manga/3/10979.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 悪魔狩り 冠翼の聖天使篇

@@ -1,5 +1,7 @@
 # Oira no Yakyuu
 
+![oira-no-yakyuu](https://cdn.myanimelist.net/images/anime/1607/113878.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: おい等の野球

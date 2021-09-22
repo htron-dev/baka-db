@@ -1,5 +1,7 @@
 # Rose Guns Days: Aishuu no Cross Knife
 
+![rose-guns-days-aishuu-no-cross-knife](https://cdn.myanimelist.net/images/manga/1/115987.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

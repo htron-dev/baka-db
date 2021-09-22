@@ -1,5 +1,7 @@
 # Golden Boy II: Sasurai no Obenkyou Yarou Geinoukai Ooabare-hen
 
+![golden-boy-ii-sasurai-no-obenkyou-yarou-geinoukai-ooabare-hen](https://cdn.myanimelist.net/images/manga/1/113633.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: GOLDEN BOY II 〜さすらいのお勉強野郎 芸能界大暴れ編〜

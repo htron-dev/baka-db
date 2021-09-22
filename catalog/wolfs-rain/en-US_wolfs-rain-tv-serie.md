@@ -1,5 +1,7 @@
 # Wolf's Rain
 
+![wolfs-rain](https://cdn.myanimelist.net/images/anime/5/59403.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ウルフズレイン

@@ -1,5 +1,7 @@
 # Kankin Kuiki Level X
 
+![kankin-kuiki-level-x](https://cdn.myanimelist.net/images/manga/1/246382.jpg)
+
 -   **type**: manga
 -   **original-name**: 監禁区域レベルＸ
 -   **start-date**: 2020-07-10

@@ -1,5 +1,7 @@
 # Kuro Koushaku no Hanayome Erabi: Migawari ni Natta Cinderella
 
+![kuro-koushaku-no-hanayome-erabi-migawari-ni-natta-cinderella](https://cdn.myanimelist.net/images/manga/2/194145.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

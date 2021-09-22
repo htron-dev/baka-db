@@ -1,5 +1,7 @@
 # Bengoshi no Kuzu Dai-2 Shin
 
+![bengoshi-no-kuzu-dai-2-shin](https://cdn.myanimelist.net/images/manga/3/199495.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 106

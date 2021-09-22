@@ -1,5 +1,7 @@
 # Long Riders! Recap
 
+![long-riders-recap](https://cdn.myanimelist.net/images/anime/11/82795.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ろんぐらいだぁす! 特別編｢わたしのサイクルアルバム｣

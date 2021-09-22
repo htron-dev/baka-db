@@ -1,5 +1,7 @@
 # Melty Blood
 
+![melty-blood](https://cdn.myanimelist.net/images/manga/1/186201.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 54

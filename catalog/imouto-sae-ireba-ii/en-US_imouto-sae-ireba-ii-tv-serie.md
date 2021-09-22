@@ -1,5 +1,7 @@
 # Imouto sae Ireba Ii.
 
+![imouto-sae-ireba-ii](https://cdn.myanimelist.net/images/anime/10/88472.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 妹さえいればいい。

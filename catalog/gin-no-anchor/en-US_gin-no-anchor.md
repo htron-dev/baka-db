@@ -1,5 +1,7 @@
 # Gin no Anchor
 
+![gin-no-anchor](https://cdn.myanimelist.net/images/manga/3/163708.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 62

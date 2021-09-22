@@ -1,5 +1,7 @@
 # Tonari no Oppai-san: Orenchi no Closet no Kabe kara Bakunyuu ga Haeteiru n da ga
 
+![tonari-no-oppai-san-orenchi-no-closet-no-kabe-kara-bakunyuu-ga-haeteiru-n-da-ga](https://cdn.myanimelist.net/images/manga/1/219647.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 9

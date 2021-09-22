@@ -1,5 +1,7 @@
 # Obake no Dokurou
 
+![obake-no-dokurou](https://cdn.myanimelist.net/images/anime/7/72599.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: オバケのどくろう

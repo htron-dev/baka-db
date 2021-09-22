@@ -1,5 +1,7 @@
 # Watashi wa Teki ni Narimasen!
 
+![watashi-wa-teki-ni-narimasen](https://cdn.myanimelist.net/images/manga/2/242482.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 56

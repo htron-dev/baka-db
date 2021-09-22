@@ -1,5 +1,7 @@
 # Madou Hoshi to Koisuru Majin
 
+![madou-hoshi-to-koisuru-majin](https://cdn.myanimelist.net/images/manga/1/235554.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 13

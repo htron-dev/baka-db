@@ -1,5 +1,7 @@
 # Flat &amp; Flow
 
+![flat-amp-flow](https://cdn.myanimelist.net/images/manga/2/24631.jpg)
+
 -   **type**: manga
 -   **original-name**: ふら・ふろ
 -   **start-date**: 2007-11-20

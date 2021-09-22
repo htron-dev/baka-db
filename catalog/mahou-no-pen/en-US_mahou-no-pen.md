@@ -1,5 +1,7 @@
 # Mahou no Pen
 
+![mahou-no-pen](https://cdn.myanimelist.net/images/anime/7/18053.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 魔法のペン

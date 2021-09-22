@@ -1,5 +1,7 @@
 # Mimimi ~The Tale of a Cat and a Robot~
 
+![mimimi-the-tale-of-a-cat-and-a-robot](https://cdn.myanimelist.net/images/manga/2/31537.jpg)
+
 -   **type**: manga
 -   **chapters**: 1
 -   **original-name**: みみみ 猫とロボと小説～

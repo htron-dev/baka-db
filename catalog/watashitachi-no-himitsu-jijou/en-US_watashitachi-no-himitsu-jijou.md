@@ -1,5 +1,7 @@
 # Watashitachi no Himitsu Jijou
 
+![watashitachi-no-himitsu-jijou](https://cdn.myanimelist.net/images/manga/2/220840.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 26

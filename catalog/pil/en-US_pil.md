@@ -1,5 +1,7 @@
 # Pil
 
+![pil](https://cdn.myanimelist.net/images/manga/3/125651.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

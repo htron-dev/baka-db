@@ -1,5 +1,7 @@
 # Naruto: Takigakure no Shitou Ore ga Hero dattebayo!
 
+![naruto-takigakure-no-shitou-ore-ga-hero-dattebayo](https://cdn.myanimelist.net/images/manga/3/104367.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: NARUTO 滝隠れの死闘 オレが英雄だってばよ!

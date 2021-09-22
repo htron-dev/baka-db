@@ -1,5 +1,7 @@
 # Mahoutsukai Sally 2
 
+![mahoutsukai-sally-2](https://cdn.myanimelist.net/images/anime/6/6929.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 88
 -   **original-name**: 魔法使いサリー２

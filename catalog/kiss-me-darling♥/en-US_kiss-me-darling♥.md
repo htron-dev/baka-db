@@ -1,5 +1,7 @@
 # Kiss Me Darling♥
 
+![kiss-me-darling♥](https://cdn.myanimelist.net/images/manga/1/135457.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

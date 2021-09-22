@@ -1,5 +1,7 @@
 # Mahou no Yousei Persia Pilot
 
+![mahou-no-yousei-persia-pilot](https://cdn.myanimelist.net/images/anime/2/58315.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 夢世界ホッジポッジ

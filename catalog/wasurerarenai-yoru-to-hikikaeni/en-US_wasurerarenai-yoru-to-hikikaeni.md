@@ -1,5 +1,7 @@
 # Wasurerarenai Yoru to Hikikaeni
 
+![wasurerarenai-yoru-to-hikikaeni](https://cdn.myanimelist.net/images/manga/2/22561.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Shima Shima Tora no Shimajirou
 
+![shima-shima-tora-no-shimajirou](https://cdn.myanimelist.net/images/anime/4/27049.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 726
 -   **original-name**: しましまとらのしまじろう
@@ -13,7 +15,6 @@
 
 -   adventure
 -   comedy
-
 -   magic
 -   fantasy
 

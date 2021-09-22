@@ -1,5 +1,7 @@
 # Sekaiichi Hatsukoi 2
 
+![sekaiichi-hatsukoi-2](https://cdn.myanimelist.net/images/anime/8/34871.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 世界一初恋 2

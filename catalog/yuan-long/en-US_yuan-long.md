@@ -1,5 +1,7 @@
 # Yuan Long
 
+![yuan-long](https://cdn.myanimelist.net/images/anime/1430/108208.jpg)
+
 -   **type**: ona
 -   **episodes**: 16
 -   **original-name**: 元龙

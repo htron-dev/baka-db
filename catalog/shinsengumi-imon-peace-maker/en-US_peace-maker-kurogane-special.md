@@ -1,5 +1,7 @@
 # Peace Maker Kurogane Special
 
+![peace-maker-kurogane-special](https://cdn.myanimelist.net/images/anime/7/26485.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: オリジナルショートストーリー 「祇園会」

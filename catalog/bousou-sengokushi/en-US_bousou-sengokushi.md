@@ -1,5 +1,7 @@
 # Bousou Sengokushi
 
+![bousou-sengokushi](https://cdn.myanimelist.net/images/anime/1895/94220.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 暴走戦國史

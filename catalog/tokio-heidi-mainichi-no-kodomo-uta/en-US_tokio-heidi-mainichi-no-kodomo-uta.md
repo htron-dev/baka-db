@@ -1,5 +1,7 @@
 # Tokio Heidi: Mainichi no Kodomo Uta
 
+![tokio-heidi-mainichi-no-kodomo-uta](https://cdn.myanimelist.net/images/anime/2/78642.jpg)
+
 -   **type**: ona
 -   **original-name**: 東京ハイジ まいにちのこどもうた
 -   **start-date**: 2011-04-06

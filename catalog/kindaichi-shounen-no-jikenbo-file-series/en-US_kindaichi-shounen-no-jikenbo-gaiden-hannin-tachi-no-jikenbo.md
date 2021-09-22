@@ -1,5 +1,7 @@
 # Kindaichi Shounen no Jikenbo Gaiden: Hannin-tachi no Jikenbo
 
+![kindaichi-shounen-no-jikenbo-gaiden-hannin-tachi-no-jikenbo](https://cdn.myanimelist.net/images/manga/1/204688.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 124

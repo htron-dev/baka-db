@@ -1,5 +1,7 @@
 # Cosplay Koromo-chan
 
+![cosplay-koromo-chan](https://cdn.myanimelist.net/images/manga/1/13843.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 29

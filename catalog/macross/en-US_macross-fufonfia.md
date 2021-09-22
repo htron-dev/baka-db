@@ -1,5 +1,7 @@
 # Macross Fufonfia
 
+![macross-fufonfia](https://cdn.myanimelist.net/images/anime/2/9501.jpg)
+
 -   **type**: ona
 -   **episodes**: 20
 -   **original-name**: マクロス fufonfia

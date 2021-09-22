@@ -1,5 +1,7 @@
 # Amnesia Joker
 
+![amnesia-joker](https://cdn.myanimelist.net/images/manga/1/144873.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

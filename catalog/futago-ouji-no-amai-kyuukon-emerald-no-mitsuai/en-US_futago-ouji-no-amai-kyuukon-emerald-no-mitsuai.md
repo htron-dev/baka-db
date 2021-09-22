@@ -1,5 +1,7 @@
 # Futago Ouji no Amai Kyuukon: Emerald no Mitsuai
 
+![futago-ouji-no-amai-kyuukon-emerald-no-mitsuai](https://cdn.myanimelist.net/images/manga/3/192333.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

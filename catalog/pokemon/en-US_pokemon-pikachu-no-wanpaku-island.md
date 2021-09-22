@@ -1,5 +1,7 @@
 # Pokemon: Pikachu no Wanpaku Island
 
+![pokemon-pikachu-no-wanpaku-island](https://cdn.myanimelist.net/images/anime/7/25971.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ピカチュウのわんぱくアイランド

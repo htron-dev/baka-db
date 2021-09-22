@@ -1,5 +1,7 @@
 # Yichang Shengwu Jianwenlu Specials
 
+![yichang-shengwu-jianwenlu-specials](https://cdn.myanimelist.net/images/anime/1148/102063.jpg)
+
 -   **type**: ona
 -   **episodes**: 13
 -   **original-name**: 異常生物見聞録

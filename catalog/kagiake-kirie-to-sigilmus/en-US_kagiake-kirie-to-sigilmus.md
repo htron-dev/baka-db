@@ -1,5 +1,7 @@
 # Kagiake Kirie to Sigilmus
 
+![kagiake-kirie-to-sigilmus](https://cdn.myanimelist.net/images/manga/3/142253.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 鍵開けキリエと封緘師〈シギルムス〉

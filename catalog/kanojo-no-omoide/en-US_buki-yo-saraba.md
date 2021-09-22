@@ -1,5 +1,7 @@
 # Buki yo Saraba
 
+![buki-yo-saraba](https://cdn.myanimelist.net/images/anime/4/53169.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 武器よさらば

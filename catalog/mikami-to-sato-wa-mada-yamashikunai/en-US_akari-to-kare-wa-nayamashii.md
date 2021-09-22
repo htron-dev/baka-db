@@ -1,5 +1,7 @@
 # Akari to Kare wa Nayamashii
 
+![akari-to-kare-wa-nayamashii](https://cdn.myanimelist.net/images/manga/1/229256.jpg)
+
 -   **type**: manga
 -   **original-name**: あかりと彼はなやましい
 -   **start-date**: 2017-11-14

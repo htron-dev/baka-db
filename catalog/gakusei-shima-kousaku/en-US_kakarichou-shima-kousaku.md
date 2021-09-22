@@ -1,5 +1,7 @@
 # Kakarichou Shima Kousaku
 
+![kakarichou-shima-kousaku](https://cdn.myanimelist.net/images/manga/3/128997.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 44

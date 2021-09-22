@@ -1,5 +1,7 @@
 # Neko Neko Nihonshi 2nd Season
 
+![neko-neko-nihonshi-2nd-season](https://cdn.myanimelist.net/images/anime/10/89586.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 32
 -   **original-name**: ねこねこ日本史
@@ -13,7 +15,6 @@
 
 -   historical
 -   parody
-
 -   samurai
 
 ## Sinopse

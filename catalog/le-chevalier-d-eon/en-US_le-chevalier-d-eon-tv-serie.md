@@ -1,5 +1,7 @@
 # Le Chevalier D'Eon
 
+![le-chevalier-d-eon](https://cdn.myanimelist.net/images/anime/8/74930.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: シュヴァリエ Le Chevalier D'Eon

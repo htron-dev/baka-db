@@ -1,5 +1,7 @@
 # Da Capo II: Imaginary Future
 
+![da-capo-ii-imaginary-future](https://cdn.myanimelist.net/images/manga/2/15453.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 31

@@ -1,5 +1,7 @@
 # The Beautiful Curse
 
+![the-beautiful-curse](https://cdn.myanimelist.net/images/manga/1/10513.jpg)
+
 -   **type**: manhwa
 -   **chapters**: 1
 

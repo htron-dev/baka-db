@@ -1,5 +1,7 @@
 # Kamikaze Kaitou Jeanne
 
+![kamikaze-kaitou-jeanne](https://cdn.myanimelist.net/images/manga/4/175801.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 33

@@ -1,5 +1,7 @@
 # Izumi Kakarichou no Ijiwaru
 
+![izumi-kakarichou-no-ijiwaru](https://cdn.myanimelist.net/images/manga/1/122801.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 泉係長の意地悪

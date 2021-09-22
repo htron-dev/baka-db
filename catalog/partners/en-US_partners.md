@@ -1,5 +1,7 @@
 # Partners
 
+![partners](https://cdn.myanimelist.net/images/manga/2/12655.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

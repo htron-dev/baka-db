@@ -1,5 +1,7 @@
 # Futari wa Precure: Max Heart Movie 1
 
+![futari-wa-precure-max-heart-movie-1](https://cdn.myanimelist.net/images/anime/3/21030.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ふたりはプリキュア ー マックスハート

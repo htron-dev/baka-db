@@ -1,5 +1,7 @@
 # Kiitarou Shounen no Youkai Enikki
 
+![kiitarou-shounen-no-youkai-enikki](https://cdn.myanimelist.net/images/anime/13/81679.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 奇異太郎少年の妖怪絵日記

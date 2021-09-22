@@ -1,5 +1,7 @@
 # Space Fantasia 2001 Nights
 
+![space-fantasia-2001-nights](https://cdn.myanimelist.net/images/anime/13/49671.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: スペース ファンタジア　２００１夜物語

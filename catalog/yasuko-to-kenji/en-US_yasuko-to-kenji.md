@@ -1,5 +1,7 @@
 # Yasuko to Kenji
 
+![yasuko-to-kenji](https://cdn.myanimelist.net/images/manga/1/83156.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: ヤスコとケンジ

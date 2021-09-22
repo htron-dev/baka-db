@@ -1,5 +1,7 @@
 # Power Harassment Bishoujo Company
 
+![power-harassment-bishoujo-company](https://cdn.myanimelist.net/images/manga/2/226647.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 66

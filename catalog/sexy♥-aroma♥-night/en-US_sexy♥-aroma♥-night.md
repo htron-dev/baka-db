@@ -1,5 +1,7 @@
 # Sexy♥Aroma♥Night
 
+![sexy♥-aroma♥-night](https://cdn.myanimelist.net/images/manga/2/138411.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: SEXY♥ アロマ ♥NIGHT

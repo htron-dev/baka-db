@@ -1,5 +1,7 @@
 # Hakyuu Houshin Engi Recap
 
+![hakyuu-houshin-engi-recap](https://cdn.myanimelist.net/images/anime/1254/92757.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 覇穹 封神演義

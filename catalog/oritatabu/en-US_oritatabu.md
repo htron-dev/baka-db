@@ -1,5 +1,7 @@
 # Oritatabu
 
+![oritatabu](https://cdn.myanimelist.net/images/manga/3/227480.jpg)
+
 -   **type**: manga
 -   **original-name**: おりたたぶ
 -   **start-date**: 2019-07-09

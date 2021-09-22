@@ -1,5 +1,7 @@
 # Yuuko-chan 100 Renpatsu!!
 
+![yuuko-chan-100-renpatsu](https://cdn.myanimelist.net/images/manga/1/1101.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 幽子ちゃん 100 連発!!

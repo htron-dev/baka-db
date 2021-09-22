@@ -1,5 +1,7 @@
 # Oishii Study
 
+![oishii-study](https://cdn.myanimelist.net/images/manga/2/12371.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

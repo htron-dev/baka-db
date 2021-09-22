@@ -1,5 +1,7 @@
 # Chill
 
+![chill](https://cdn.myanimelist.net/images/manga/1/78369.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: CHILL

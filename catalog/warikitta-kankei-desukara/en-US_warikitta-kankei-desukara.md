@@ -1,5 +1,7 @@
 # Warikitta Kankei desukara.
 
+![warikitta-kankei-desukara](https://cdn.myanimelist.net/images/manga/1/221716.jpg)
+
 -   **type**: manga
 -   **original-name**: 割り切った関係ですから。
 -   **start-date**: 2019-02-18

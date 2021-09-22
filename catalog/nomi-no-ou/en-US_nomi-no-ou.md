@@ -1,5 +1,7 @@
 # Nomi no Ou
 
+![nomi-no-ou](https://cdn.myanimelist.net/images/manga/1/20041.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 蚤の王

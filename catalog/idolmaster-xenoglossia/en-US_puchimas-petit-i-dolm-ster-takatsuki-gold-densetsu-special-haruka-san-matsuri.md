@@ -1,5 +1,7 @@
 # Puchimas!: Petit iDOLM@STER - Takatsuki Gold Densetsu Special!! Haruka-san Matsuri
 
+![puchimas-petit-i-dolm-ster-takatsuki-gold-densetsu-special-haruka-san-matsuri](https://cdn.myanimelist.net/images/anime/12/50157.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: ぷちます！－プチ・アイドルマスター－　高槻ゴールド伝説すぺしゃる！！はるかさん祭り

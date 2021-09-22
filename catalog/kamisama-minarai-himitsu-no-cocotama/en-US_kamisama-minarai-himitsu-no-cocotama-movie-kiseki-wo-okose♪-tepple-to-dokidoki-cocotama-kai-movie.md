@@ -1,5 +1,7 @@
 # Kamisama Minarai: Himitsu no Cocotama Movie - Kiseki wo Okose♪ Tepple to Dokidoki Cocotama-kai
 
+![kamisama-minarai-himitsu-no-cocotama-movie-kiseki-wo-okose♪-tepple-to-dokidoki-cocotama-kai](https://cdn.myanimelist.net/images/anime/1682/95908.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 かみさまみならい ヒミツのここたま 奇跡をおこせ ♪ テップルとドキドキここたま界

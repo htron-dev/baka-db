@@ -1,5 +1,7 @@
 # Ryakudatsu Hanayome: Honoo no Aibu ni Torokeru Hyouka
 
+![ryakudatsu-hanayome-honoo-no-aibu-ni-torokeru-hyouka](https://cdn.myanimelist.net/images/manga/2/181452.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

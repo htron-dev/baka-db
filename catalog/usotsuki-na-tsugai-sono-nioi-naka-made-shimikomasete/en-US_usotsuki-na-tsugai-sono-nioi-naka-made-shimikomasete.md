@@ -1,5 +1,7 @@
 # Usotsuki na Tsugai: Sono Nioi, Naka made Shimikomasete
 
+![usotsuki-na-tsugai-sono-nioi-naka-made-shimikomasete](https://cdn.myanimelist.net/images/manga/2/236238.jpg)
+
 -   **type**: manga
 -   **original-name**: 嘘つきな番～その匂い、ナカまで染み込ませて
 -   **start-date**: 2018-02-02

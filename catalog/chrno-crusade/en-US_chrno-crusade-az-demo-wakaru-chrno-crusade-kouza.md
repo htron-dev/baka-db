@@ -1,5 +1,7 @@
 # Chrno Crusade: Az demo Wakaru Chrno Crusade Kouza
 
+![chrno-crusade-az-demo-wakaru-chrno-crusade-kouza](https://cdn.myanimelist.net/images/anime/11/10060.jpg)
+
 -   **type**: special
 -   **episodes**: 11
 -   **original-name**: クロノクルセイド　アズでもわかるクロノクルセイド講座

@@ -1,5 +1,7 @@
 # Baku Tech! Bakugan
 
+![baku-tech-bakugan](https://cdn.myanimelist.net/images/anime/3/36805.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: 爆 TECH！爆丸

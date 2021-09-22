@@ -1,5 +1,7 @@
 # Ring ni Kakero 2
 
+![ring-ni-kakero-2](https://cdn.myanimelist.net/images/manga/1/20286.jpg)
+
 -   **type**: manga
 -   **volumes**: 26
 -   **original-name**: リングにかけろ 2

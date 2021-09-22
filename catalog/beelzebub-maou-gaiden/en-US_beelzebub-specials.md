@@ -1,5 +1,7 @@
 # Beelzebub Specials
 
+![beelzebub-specials](https://cdn.myanimelist.net/images/anime/4/31637.jpg)
+
 -   **type**: special
 -   **episodes**: 16
 -   **original-name**: べるぜバブ

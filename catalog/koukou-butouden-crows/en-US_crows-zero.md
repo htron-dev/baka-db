@@ -1,5 +1,7 @@
 # Crows Zero
 
+![crows-zero](https://cdn.myanimelist.net/images/manga/2/172874.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 77

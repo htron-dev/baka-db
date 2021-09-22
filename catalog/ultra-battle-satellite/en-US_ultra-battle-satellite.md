@@ -1,5 +1,7 @@
 # Ultra Battle Satellite
 
+![ultra-battle-satellite](https://cdn.myanimelist.net/images/manga/3/166253.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

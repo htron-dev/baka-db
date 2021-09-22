@@ -1,5 +1,7 @@
 # Hinageshi Shoujo Kagekidan
 
+![hinageshi-shoujo-kagekidan](https://cdn.myanimelist.net/images/manga/1/71269.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

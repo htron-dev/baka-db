@@ -1,5 +1,7 @@
 # Lens Goshi no Binetsu
 
+![lens-goshi-no-binetsu](https://cdn.myanimelist.net/images/manga/1/82682.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

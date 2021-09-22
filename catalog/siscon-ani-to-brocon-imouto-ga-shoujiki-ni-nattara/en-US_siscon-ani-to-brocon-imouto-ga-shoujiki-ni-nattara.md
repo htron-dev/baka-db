@@ -1,5 +1,7 @@
 # Siscon Ani to Brocon Imouto ga Shoujiki ni Nattara
 
+![siscon-ani-to-brocon-imouto-ga-shoujiki-ni-nattara](https://cdn.myanimelist.net/images/manga/1/210491.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 48

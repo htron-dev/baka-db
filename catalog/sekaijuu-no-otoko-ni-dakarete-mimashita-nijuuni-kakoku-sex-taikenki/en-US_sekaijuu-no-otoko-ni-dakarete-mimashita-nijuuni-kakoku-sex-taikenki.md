@@ -1,5 +1,7 @@
 # Sekaijuu no Otoko ni Dakarete Mimashita.: Nijuuni Kakoku Sex Taikenki
 
+![sekaijuu-no-otoko-ni-dakarete-mimashita-nijuuni-kakoku-sex-taikenki](https://cdn.myanimelist.net/images/manga/2/193665.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 26

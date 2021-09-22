@@ -1,5 +1,7 @@
 # Hungry Heart
 
+![hungry-heart](https://cdn.myanimelist.net/images/manga/1/4814.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 49

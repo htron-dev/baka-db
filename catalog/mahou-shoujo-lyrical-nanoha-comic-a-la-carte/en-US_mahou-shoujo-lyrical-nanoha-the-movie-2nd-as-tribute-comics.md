@@ -1,5 +1,7 @@
 # Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's - Tribute Comics
 
+![mahou-shoujo-lyrical-nanoha-the-movie-2nd-as-tribute-comics](https://cdn.myanimelist.net/images/manga/2/89397.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

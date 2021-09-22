@@ -1,5 +1,7 @@
 # Taka no Tsume-dan no Ike! ODAman
 
+![taka-no-tsume-dan-no-ike-od-aman](https://cdn.myanimelist.net/images/anime/1318/103016.jpg)
+
 -   **type**: ona
 -   **original-name**: 鷹の爪団の 行け！ＯＤＡマン
 -   **start-date**: 2018-09-20

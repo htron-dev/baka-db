@@ -1,5 +1,7 @@
 # Hireajuu Shuudan ga Classmate wo Josou sasete Kanojo ni Shitemita
 
+![hireajuu-shuudan-ga-classmate-wo-josou-sasete-kanojo-ni-shitemita](https://cdn.myanimelist.net/images/manga/1/163687.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

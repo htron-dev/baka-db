@@ -1,5 +1,7 @@
 # Anima Yell!
 
+![anima-yell](https://cdn.myanimelist.net/images/manga/3/202837.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 60

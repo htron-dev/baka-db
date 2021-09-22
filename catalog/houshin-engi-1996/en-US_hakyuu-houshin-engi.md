@@ -1,5 +1,7 @@
 # Hakyuu Houshin Engi
 
+![hakyuu-houshin-engi](https://cdn.myanimelist.net/images/anime/11/88796.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 23
 -   **original-name**: 覇穹 封神演義

@@ -1,5 +1,7 @@
 # Café de Romance
 
+![cafe-de-romance](https://cdn.myanimelist.net/images/manga/2/23294.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: カフェトロマンス

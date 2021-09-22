@@ -1,5 +1,7 @@
 # Norakuro
 
+![norakuro](https://cdn.myanimelist.net/images/manga/2/43975.jpg)
+
 -   **type**: manga
 -   **original-name**: のらくろ
 

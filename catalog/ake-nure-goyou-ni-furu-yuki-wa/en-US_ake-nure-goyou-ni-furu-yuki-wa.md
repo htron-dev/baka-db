@@ -1,5 +1,7 @@
 # Ake Nure Goyou ni Furu Yuki wa
 
+![ake-nure-goyou-ni-furu-yuki-wa](https://cdn.myanimelist.net/images/manga/2/81908.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

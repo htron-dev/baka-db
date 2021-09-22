@@ -1,5 +1,7 @@
 # Sarawareta Tou no Himegimi: Gunjinou ga Araarashiku Dekiaichuu♥
 
+![sarawareta-tou-no-himegimi-gunjinou-ga-araarashiku-dekiaichuu♥](https://cdn.myanimelist.net/images/manga/1/192574.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

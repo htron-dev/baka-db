@@ -1,5 +1,7 @@
 # Teiuka Koi ja ne?
 
+![teiuka-koi-ja-ne](https://cdn.myanimelist.net/images/manga/3/83895.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 50

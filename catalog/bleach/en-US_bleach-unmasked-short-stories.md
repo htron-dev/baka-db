@@ -1,5 +1,7 @@
 # Bleach Unmasked Short Stories
 
+![bleach-unmasked-short-stories](https://cdn.myanimelist.net/images/manga/3/49045.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: BLEACH UNMASKED

@@ -1,5 +1,7 @@
 # Hitsugi no Chaika OVA
 
+![hitsugi-no-chaika-ova](https://cdn.myanimelist.net/images/anime/8/72479.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 棺姫のチャイカ OAD

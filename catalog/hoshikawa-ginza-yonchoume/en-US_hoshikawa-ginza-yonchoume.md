@@ -1,5 +1,7 @@
 # Hoshikawa Ginza Yonchoume
 
+![hoshikawa-ginza-yonchoume](https://cdn.myanimelist.net/images/manga/2/144447.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

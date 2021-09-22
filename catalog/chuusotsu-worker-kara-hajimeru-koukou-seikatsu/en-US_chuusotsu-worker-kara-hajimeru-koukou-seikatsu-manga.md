@@ -1,5 +1,7 @@
 # Chuusotsu Worker kara Hajimeru Koukou Seikatsu
 
+![chuusotsu-worker-kara-hajimeru-koukou-seikatsu](https://cdn.myanimelist.net/images/manga/2/188832.jpg)
+
 -   **type**: manga
 -   **original-name**: 中卒労働者〈ワーカー〉から始める高校生活
 -   **start-date**: 2012-10-09

@@ -1,5 +1,7 @@
 # Shounen Ashibe: Go! Go! Goma-chan
 
+![shounen-ashibe-go-go-goma-chan](https://cdn.myanimelist.net/images/manga/3/187778.jpg)
+
 -   **type**: manga
 -   **original-name**: 少年アシベ GO！GO！ゴマちゃん
 -   **start-date**: 2016-04-25

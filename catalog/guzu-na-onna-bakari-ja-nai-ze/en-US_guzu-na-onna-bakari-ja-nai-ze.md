@@ -1,5 +1,7 @@
 # Guzu na Onna bakari ja Nai ze
 
+![guzu-na-onna-bakari-ja-nai-ze](https://cdn.myanimelist.net/images/manga/1/15516.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

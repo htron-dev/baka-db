@@ -1,5 +1,7 @@
 # Geisters: Fractions of the Earth
 
+![geisters-fractions-of-the-earth](https://cdn.myanimelist.net/images/anime/8/4728.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ガイスターズ FRACTIONS OF THE EARTH

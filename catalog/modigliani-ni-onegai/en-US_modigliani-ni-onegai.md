@@ -1,5 +1,7 @@
 # Modigliani ni Onegai
 
+![modigliani-ni-onegai](https://cdn.myanimelist.net/images/manga/2/226312.jpg)
+
 -   **type**: manga
 -   **original-name**: モディリアーニにお願い
 -   **start-date**: 2014-11-17

@@ -1,5 +1,7 @@
 # Sanagi to Ousama
 
+![sanagi-to-ousama](https://cdn.myanimelist.net/images/manga/4/189501.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: さなぎと王様

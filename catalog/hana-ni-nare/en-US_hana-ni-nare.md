@@ -1,5 +1,7 @@
 # Hana ni Nare
 
+![hana-ni-nare](https://cdn.myanimelist.net/images/manga/3/20728.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **original-name**: 花になれっ！

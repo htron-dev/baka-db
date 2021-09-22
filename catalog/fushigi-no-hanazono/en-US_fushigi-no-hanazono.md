@@ -1,5 +1,7 @@
 # Fushigi no Hanazono
 
+![fushigi-no-hanazono](https://cdn.myanimelist.net/images/manga/2/26681.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

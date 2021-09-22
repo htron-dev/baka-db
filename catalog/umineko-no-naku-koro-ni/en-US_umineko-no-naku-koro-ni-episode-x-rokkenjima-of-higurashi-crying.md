@@ -1,5 +1,7 @@
 # Umineko no Naku Koro ni Episode X: Rokkenjima of Higurashi Crying
 
+![umineko-no-naku-koro-ni-episode-x-rokkenjima-of-higurashi-crying](https://cdn.myanimelist.net/images/manga/1/74235.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: うみねこのなく頃に EpisodeX -ROKKENJIMA of Higurashi crying-

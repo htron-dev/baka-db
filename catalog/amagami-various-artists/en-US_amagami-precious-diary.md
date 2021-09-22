@@ -1,5 +1,7 @@
 # Amagami: Precious Diary
 
+![amagami-precious-diary](https://cdn.myanimelist.net/images/manga/5/34832.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 42

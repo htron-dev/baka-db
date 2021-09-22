@@ -1,5 +1,7 @@
 # Dorobou wa Koi no Hajimari
 
+![dorobou-wa-koi-no-hajimari](https://cdn.myanimelist.net/images/manga/2/42816.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

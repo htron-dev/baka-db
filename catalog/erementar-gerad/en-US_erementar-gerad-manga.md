@@ -1,5 +1,7 @@
 # Erementar Gerad
 
+![erementar-gerad](https://cdn.myanimelist.net/images/manga/2/55581.jpg)
+
 -   **type**: manga
 -   **volumes**: 18
 -   **chapters**: 96

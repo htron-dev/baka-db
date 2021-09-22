@@ -1,5 +1,7 @@
 # Blue Inferior
 
+![blue-inferior](https://cdn.myanimelist.net/images/manga/1/77263.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

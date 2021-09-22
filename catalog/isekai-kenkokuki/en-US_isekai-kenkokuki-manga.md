@@ -1,5 +1,7 @@
 # Isekai Kenkokuki
 
+![isekai-kenkokuki](https://cdn.myanimelist.net/images/manga/2/209371.jpg)
+
 -   **type**: manga
 -   **original-name**: 異世界建国記
 -   **start-date**: 2017-09-19

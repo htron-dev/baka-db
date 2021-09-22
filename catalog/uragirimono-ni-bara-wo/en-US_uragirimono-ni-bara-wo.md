@@ -1,5 +1,7 @@
 # Uragirimono ni Bara wo
 
+![uragirimono-ni-bara-wo](https://cdn.myanimelist.net/images/manga/2/231967.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 裏切り者に薔薇を

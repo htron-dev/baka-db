@@ -1,5 +1,7 @@
 # Amai Kemono
 
+![amai-kemono](https://cdn.myanimelist.net/images/manga/1/73363.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Shuukaku no Juunigatsu
 
+![shuukaku-no-juunigatsu](https://cdn.myanimelist.net/images/manga/3/185993.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

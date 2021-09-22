@@ -1,5 +1,7 @@
 # Tsurugi no Hime to Aldebaran
 
+![tsurugi-no-hime-to-aldebaran](https://cdn.myanimelist.net/images/manga/1/177854.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 43
@@ -17,7 +19,7 @@
 
 -   Sugihara
 -   Tomonori (Story)
--   Nidy-2D- (Art)
+-   Nidy-2D(Art)
 
 ## Links
 

@@ -1,5 +1,7 @@
 # Houkago Sensei to.
 
+![houkago-sensei-to](https://cdn.myanimelist.net/images/manga/3/203637.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 24

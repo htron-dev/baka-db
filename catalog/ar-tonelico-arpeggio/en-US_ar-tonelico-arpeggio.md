@@ -1,5 +1,7 @@
 # Ar Tonelico: Arpeggio
 
+![ar-tonelico-arpeggio](https://cdn.myanimelist.net/images/manga/3/17287.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

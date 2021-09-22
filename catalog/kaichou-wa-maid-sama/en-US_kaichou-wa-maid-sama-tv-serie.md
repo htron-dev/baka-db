@@ -1,5 +1,7 @@
 # Kaichou wa Maid-sama!
 
+![kaichou-wa-maid-sama](https://cdn.myanimelist.net/images/anime/6/25254.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 会長はメイド様!

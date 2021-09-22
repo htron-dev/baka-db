@@ -1,5 +1,7 @@
 # Umibe no Étranger
 
+![umibe-no-etranger](https://cdn.myanimelist.net/images/manga/2/134281.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

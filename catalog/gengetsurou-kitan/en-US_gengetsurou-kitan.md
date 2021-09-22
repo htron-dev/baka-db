@@ -1,5 +1,7 @@
 # Gengetsurou Kitan
 
+![gengetsurou-kitan](https://cdn.myanimelist.net/images/manga/2/15186.jpg)
+
 -   **type**: manga
 -   **original-name**: 幻月楼奇譚
 

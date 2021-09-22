@@ -1,5 +1,7 @@
 # Nanika Mochigattemasu ka
 
+![nanika-mochigattemasu-ka](https://cdn.myanimelist.net/images/manga/1/151568.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 30

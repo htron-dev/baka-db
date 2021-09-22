@@ -1,5 +1,7 @@
 # Jigoku Sensei Nube
 
+![jigoku-sensei-nube](https://cdn.myanimelist.net/images/anime/1938/106446.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: 地獄先生ぬ～べ～

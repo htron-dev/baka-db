@@ -1,5 +1,7 @@
 # Flower Shounen
 
+![flower-shounen](https://cdn.myanimelist.net/images/manga/3/151653.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: フラワー少年

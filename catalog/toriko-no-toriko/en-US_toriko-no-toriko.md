@@ -1,5 +1,7 @@
 # Toriko no Toriko
 
+![toriko-no-toriko](https://cdn.myanimelist.net/images/manga/1/181475.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: 囚の囚

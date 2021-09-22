@@ -1,5 +1,7 @@
 # Shin Minashigo Hutch
 
+![shin-minashigo-hutch](https://cdn.myanimelist.net/images/anime/12/20347.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 新みなしごハッチ

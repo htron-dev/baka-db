@@ -1,5 +1,7 @@
 # J no Subete
 
+![j-no-subete](https://cdn.myanimelist.net/images/manga/2/72231.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

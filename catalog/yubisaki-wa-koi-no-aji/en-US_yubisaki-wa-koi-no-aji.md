@@ -1,5 +1,7 @@
 # Yubisaki wa Koi no Aji
 
+![yubisaki-wa-koi-no-aji](https://cdn.myanimelist.net/images/manga/3/31661.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

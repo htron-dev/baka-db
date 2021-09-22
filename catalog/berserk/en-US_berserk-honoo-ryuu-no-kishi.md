@@ -1,5 +1,7 @@
 # Berserk: Honoo Ryuu no Kishi
 
+![berserk-honoo-ryuu-no-kishi](https://cdn.myanimelist.net/images/manga/2/202490.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

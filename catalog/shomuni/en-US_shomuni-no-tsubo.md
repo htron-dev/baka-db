@@ -1,5 +1,7 @@
 # Shomuni no Tsubo
 
+![shomuni-no-tsubo](https://cdn.myanimelist.net/images/manga/2/127093.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

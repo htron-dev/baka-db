@@ -1,5 +1,7 @@
 # Koi wo Suru Tsumori wa Nakatta
 
+![koi-wo-suru-tsumori-wa-nakatta](https://cdn.myanimelist.net/images/manga/2/232214.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

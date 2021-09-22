@@ -1,5 +1,7 @@
 # Osananajimi no Majo ni Tsuite
 
+![osananajimi-no-majo-ni-tsuite](https://cdn.myanimelist.net/images/manga/3/234712.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Motto! Ojamajo Doremi: Kaeru Ishi no Himitsu
 
+![motto-ojamajo-doremi-kaeru-ishi-no-himitsu](https://cdn.myanimelist.net/images/anime/7/27121.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: も～っと！おジャ魔女どれみ カエル石のひみつ

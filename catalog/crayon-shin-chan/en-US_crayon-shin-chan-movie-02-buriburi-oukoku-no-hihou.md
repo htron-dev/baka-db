@@ -1,5 +1,7 @@
 # Crayon Shin-chan Movie 02: Buriburi Oukoku no Hihou
 
+![crayon-shin-chan-movie-02-buriburi-oukoku-no-hihou](https://cdn.myanimelist.net/images/anime/8/22020.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: クレヨンしんちゃん ブリブリ王国の秘宝

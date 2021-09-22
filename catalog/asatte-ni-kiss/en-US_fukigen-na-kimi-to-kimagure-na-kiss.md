@@ -1,5 +1,7 @@
 # Fukigen na Kimi to Kimagure na Kiss
 
+![fukigen-na-kimi-to-kimagure-na-kiss](https://cdn.myanimelist.net/images/manga/2/224171.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

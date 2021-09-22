@@ -1,5 +1,7 @@
 # 1001 Nights
 
+![1001-nights](https://cdn.myanimelist.net/images/anime/11/7032.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 1001 Nights

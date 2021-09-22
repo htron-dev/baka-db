@@ -1,5 +1,7 @@
 # Kakuritsu Sousakan Mikoshiba Gakuto
 
+![kakuritsu-sousakan-mikoshiba-gakuto](https://cdn.myanimelist.net/images/manga/3/83192.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 11

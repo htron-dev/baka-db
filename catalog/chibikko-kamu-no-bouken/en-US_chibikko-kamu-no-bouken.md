@@ -1,5 +1,7 @@
 # Chibikko Kamu no Bouken
 
+![chibikko-kamu-no-bouken](https://cdn.myanimelist.net/images/anime/9/63947.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ちびっこカムのぼうけん

@@ -1,5 +1,7 @@
 # Hana no Niwa Ame no Mai
 
+![hana-no-niwa-ame-no-mai](https://cdn.myanimelist.net/images/manga/1/141491.jpg)
+
 -   **type**: manga
 -   **original-name**: 花の庭 雨の舞
 -   **start-date**: 2014-09-04

@@ -1,5 +1,7 @@
 # Chuunibyou demo Koi ga Shitai! Ren: The Rikka Wars
 
+![chuunibyou-demo-koi-ga-shitai-ren-the-rikka-wars](https://cdn.myanimelist.net/images/anime/3/66827.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 中二病でも恋がしたい！戀 再生の･･･邪王真眼黙示録（The Rikka Wars）

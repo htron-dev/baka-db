@@ -1,5 +1,7 @@
 # Mahou Shoujo Shiken Shoutai
 
+![mahou-shoujo-shiken-shoutai](https://cdn.myanimelist.net/images/manga/3/108373.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 魔法少女試験小隊
 -   **start-date**: 2013-12-10

@@ -1,5 +1,7 @@
 # Shugo Chara!! Doki
 
+![shugo-chara-doki](https://cdn.myanimelist.net/images/anime/11/10645.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 51
 -   **original-name**: しゅごキャラ！！どきっ

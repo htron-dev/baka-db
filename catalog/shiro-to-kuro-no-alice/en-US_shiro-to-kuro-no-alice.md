@@ -1,5 +1,7 @@
 # Shiro to Kuro no Alice
 
+![shiro-to-kuro-no-alice](https://cdn.myanimelist.net/images/manga/1/224809.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

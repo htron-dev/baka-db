@@ -1,5 +1,7 @@
 # Kochira Last Boss Maoujoumae "Kyoukai"
 
+![kochira-last-boss-maoujoumae-kyoukai](https://cdn.myanimelist.net/images/manga/2/224351.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

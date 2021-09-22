@@ -1,5 +1,7 @@
 # Tokyo Lastochika
 
+![tokyo-lastochika](https://cdn.myanimelist.net/images/manga/2/41734.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

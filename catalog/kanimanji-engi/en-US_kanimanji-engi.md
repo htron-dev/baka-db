@@ -1,5 +1,7 @@
 # Kanimanji Engi
 
+![kanimanji-engi](https://cdn.myanimelist.net/images/anime/10/71023.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 蟹満寺縁起

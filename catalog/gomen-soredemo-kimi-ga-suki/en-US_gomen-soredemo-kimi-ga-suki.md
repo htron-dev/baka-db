@@ -1,5 +1,7 @@
 # Gomen, Soredemo Kimi ga Suki
 
+![gomen-soredemo-kimi-ga-suki](https://cdn.myanimelist.net/images/manga/3/231391.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

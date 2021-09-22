@@ -1,5 +1,7 @@
 # Tada Shiawase na Isekai Kazoku Seikatsu: Tensei shite Kondo koso Shiawase ni Kurashimasu
 
+![tada-shiawase-na-isekai-kazoku-seikatsu-tensei-shite-kondo-koso-shiawase-ni-kurashimasu](https://cdn.myanimelist.net/images/manga/2/243486.jpg)
+
 -   **type**: manga
 -   **original-name**: ただ幸せな異世界家族生活　～転生して今度こそ幸せに暮らします～
 -   **start-date**: 2020-04-18

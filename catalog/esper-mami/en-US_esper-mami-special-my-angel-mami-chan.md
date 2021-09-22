@@ -1,5 +1,7 @@
 # Esper Mami Special: My Angel Mami-chan
 
+![esper-mami-special-my-angel-mami-chan](https://cdn.myanimelist.net/images/anime/2/27652.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: エスパー魔美スペシャル マイエンジェル魔美ちゃん

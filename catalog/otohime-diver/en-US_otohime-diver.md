@@ -1,5 +1,7 @@
 # Otohime Diver
 
+![otohime-diver](https://cdn.myanimelist.net/images/manga/3/212982.jpg)
+
 -   **type**: manga
 -   **original-name**: 乙姫ダイバー
 -   **start-date**: 2017-01-25

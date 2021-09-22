@@ -1,5 +1,7 @@
 # Inazuma Eleven: Special
 
+![inazuma-eleven-special](https://cdn.myanimelist.net/images/manga/1/112305.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 54

@@ -1,5 +1,7 @@
 # Warau Salesman Tokubetsu Bangumi
 
+![warau-salesman-tokubetsu-bangumi](https://cdn.myanimelist.net/images/anime/13/84768.jpg)
+
 -   **type**: special
 -   **episodes**: 14
 -   **original-name**: 笑ゥせぇるすまん 特別番組

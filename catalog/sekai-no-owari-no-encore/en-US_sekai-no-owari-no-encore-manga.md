@@ -1,5 +1,7 @@
 # Sekai no Owari no Encore
 
+![sekai-no-owari-no-encore](https://cdn.myanimelist.net/images/manga/3/175306.jpg)
+
 -   **type**: manga
 -   **original-name**: 世界の終わりの世界録〈アンコール〉
 -   **start-date**: 2015-10-27

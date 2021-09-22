@@ -1,5 +1,7 @@
 # Hamster no Kenkyuu Report
 
+![hamster-no-kenkyuu-report](https://cdn.myanimelist.net/images/manga/2/178619.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: ハムスターの研究レポート

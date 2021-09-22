@@ -1,5 +1,7 @@
 # Yoningurashi
 
+![yoningurashi](https://cdn.myanimelist.net/images/manga/1/47583.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 58

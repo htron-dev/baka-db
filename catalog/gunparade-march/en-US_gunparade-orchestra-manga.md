@@ -1,5 +1,7 @@
 # Gunparade Orchestra
 
+![gunparade-orchestra](https://cdn.myanimelist.net/images/manga/1/52025.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ガンパレード・オーケストラ

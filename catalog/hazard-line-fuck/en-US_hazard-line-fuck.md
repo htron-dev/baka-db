@@ -1,5 +1,7 @@
 # Hazard Line Fuck
 
+![hazard-line-fuck](https://cdn.myanimelist.net/images/manga/1/240775.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

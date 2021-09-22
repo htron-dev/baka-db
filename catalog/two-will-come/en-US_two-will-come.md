@@ -1,5 +1,7 @@
 # Two Will Come
 
+![two-will-come](https://cdn.myanimelist.net/images/manga/3/10836.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 18

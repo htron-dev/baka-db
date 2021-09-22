@@ -1,5 +1,7 @@
 # Sister-in-Law!
 
+![sister-in-law](https://cdn.myanimelist.net/images/manga/2/222982.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 24

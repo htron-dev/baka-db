@@ -1,5 +1,7 @@
 # Kami no Gotoki Michelangelo-san
 
+![kami-no-gotoki-michelangelo-san](https://cdn.myanimelist.net/images/manga/2/149635.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Dame na Kurai ga Choudoii
 
+![dame-na-kurai-ga-choudoii](https://cdn.myanimelist.net/images/manga/2/31760.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

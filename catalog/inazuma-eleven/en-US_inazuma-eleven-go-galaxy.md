@@ -1,5 +1,7 @@
 # Inazuma Eleven Go: Galaxy
 
+![inazuma-eleven-go-galaxy](https://cdn.myanimelist.net/images/anime/2/49743.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 43
 -   **original-name**: イナズマイレブンＧＯ ギャラクシー

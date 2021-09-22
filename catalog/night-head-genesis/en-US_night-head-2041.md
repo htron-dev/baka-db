@@ -1,5 +1,7 @@
 # Night Head 2041
 
+![night-head-2041](https://cdn.myanimelist.net/images/anime/1819/116662.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: NIGHT HEAD 2041
 -   **start-date**: 2021-07-15

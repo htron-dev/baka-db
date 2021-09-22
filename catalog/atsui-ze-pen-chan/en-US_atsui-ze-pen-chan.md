@@ -1,5 +1,7 @@
 # Atsui ze Pen-chan
 
+![atsui-ze-pen-chan](https://cdn.myanimelist.net/images/manga/1/186075.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

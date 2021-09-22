@@ -1,5 +1,7 @@
 # Roommate
 
+![roommate](https://cdn.myanimelist.net/images/manga/1/18234.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 11
 -   **original-name**: 룸메이트

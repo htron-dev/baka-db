@@ -1,5 +1,7 @@
 # Go Go Toraemon
 
+![go-go-toraemon](https://cdn.myanimelist.net/images/anime/7/60123.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: GoGo 虎エ門

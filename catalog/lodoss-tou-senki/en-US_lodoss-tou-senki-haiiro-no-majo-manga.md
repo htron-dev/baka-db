@@ -1,5 +1,7 @@
 # Lodoss-tou Senki: Haiiro no Majo
 
+![lodoss-tou-senki-haiiro-no-majo](https://cdn.myanimelist.net/images/manga/3/135797.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16
@@ -25,11 +27,6 @@
 ## Sinopse
 
 Parn, the strong-headed fighter. Deedlit, the young and haughty elf. Ghim, the grizzled Dwarf. Etoh, the young priest. Slayn, the sorcerer. And Woodchuck, the thief. These six must again unite as the evil of the Grey Witch permeates all of Lodoss Island!
-
-## Links
-
--   [My Anime list](https://myanimelist.net/manga/87657/Lodoss-tou_Senki__Haiiro_no_Majo)
-    d in the greatest epic struggle between good and evil since the war of the goddesses.
 
 ## Links
 

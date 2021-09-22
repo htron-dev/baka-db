@@ -1,5 +1,7 @@
 # Takarakuji de 40-oku Atatta n dakedo Isekai ni Ijuusuru
 
+![takarakuji-de-40-oku-atatta-n-dakedo-isekai-ni-ijuusuru](https://cdn.myanimelist.net/images/manga/3/134369.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 宝くじで 40 億当たったんだけど異世界に移住する
 -   **start-date**: 2014-07-30

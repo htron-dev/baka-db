@@ -1,5 +1,7 @@
 # Boyfriend no Jouken
 
+![boyfriend-no-jouken](https://cdn.myanimelist.net/images/manga/1/171559.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

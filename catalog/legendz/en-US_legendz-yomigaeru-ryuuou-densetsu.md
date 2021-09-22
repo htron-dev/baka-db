@@ -1,5 +1,7 @@
 # Legendz: Yomigaeru Ryuuou Densetsu
 
+![legendz-yomigaeru-ryuuou-densetsu](https://cdn.myanimelist.net/images/anime/6/23555.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 50
 -   **original-name**: レジェンズ 甦る竜王伝説

@@ -1,5 +1,7 @@
 # Barairo no Yakusoku
 
+![barairo-no-yakusoku](https://cdn.myanimelist.net/images/manga/3/165825.jpg)
+
 -   **type**: manga
 -   **original-name**: 薔薇色ノ約束
 -   **start-date**: 2014-12-24

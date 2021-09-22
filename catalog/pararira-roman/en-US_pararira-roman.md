@@ -1,5 +1,7 @@
 # Pararira Roman
 
+![pararira-roman](https://cdn.myanimelist.net/images/manga/1/155604.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

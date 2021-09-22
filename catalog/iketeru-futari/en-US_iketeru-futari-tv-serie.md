@@ -1,5 +1,7 @@
 # Iketeru Futari
 
+![iketeru-futari](https://cdn.myanimelist.net/images/anime/5/19958.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 16
 -   **original-name**: イケてる２人

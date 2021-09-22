@@ -1,5 +1,7 @@
 # Your Letter
 
+![your-letter](https://cdn.myanimelist.net/images/manga/2/222246.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 11

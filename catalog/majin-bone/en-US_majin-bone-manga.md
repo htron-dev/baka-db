@@ -1,5 +1,7 @@
 # Majin Bone
 
+![majin-bone](https://cdn.myanimelist.net/images/manga/2/134589.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: マジンボーン

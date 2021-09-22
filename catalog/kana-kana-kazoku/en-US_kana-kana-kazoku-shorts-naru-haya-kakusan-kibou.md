@@ -1,5 +1,7 @@
 # Kana Kana Kazoku Shorts: Naru Haya Kakusan Kibou
 
+![kana-kana-kazoku-shorts-naru-haya-kakusan-kibou](https://cdn.myanimelist.net/images/anime/9/76188.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: かなかなかぞくショートなる早拡散希望!!

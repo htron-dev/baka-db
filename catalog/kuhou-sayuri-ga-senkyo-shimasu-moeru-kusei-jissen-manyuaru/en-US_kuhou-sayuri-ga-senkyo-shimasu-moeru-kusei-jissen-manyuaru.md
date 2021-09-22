@@ -1,5 +1,7 @@
 # Kuhou Sayuri ga Senkyo Shimasu! Moeru Kusei Jissen Manyuaru
 
+![kuhou-sayuri-ga-senkyo-shimasu-moeru-kusei-jissen-manyuaru](https://cdn.myanimelist.net/images/manga/1/164525.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 久宝さゆりがセンキョします！ 萌える区政実践マニュアル

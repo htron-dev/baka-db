@@ -1,5 +1,7 @@
 # Nekrateholic
 
+![nekrateholic](https://cdn.myanimelist.net/images/manga/1/60161.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

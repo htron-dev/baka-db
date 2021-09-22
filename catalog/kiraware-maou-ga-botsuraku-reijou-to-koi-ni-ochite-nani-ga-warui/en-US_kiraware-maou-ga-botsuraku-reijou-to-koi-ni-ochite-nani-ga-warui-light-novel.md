@@ -1,5 +1,7 @@
 # Kiraware Maou ga Botsuraku Reijou to Koi ni Ochite Nani ga Warui!
 
+![kiraware-maou-ga-botsuraku-reijou-to-koi-ni-ochite-nani-ga-warui](https://cdn.myanimelist.net/images/manga/2/224735.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 嫌われ魔王が没落令嬢と恋に落ちて何が悪い!
 -   **start-date**: 2018-08-31

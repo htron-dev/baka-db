@@ -1,5 +1,7 @@
 # Bengoshi to 17-sai
 
+![bengoshi-to-17-sai](https://cdn.myanimelist.net/images/manga/2/236170.jpg)
+
 -   **type**: manga
 -   **original-name**: 弁護士と 17 歳
 -   **start-date**: 2019-07-25

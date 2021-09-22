@@ -1,5 +1,7 @@
 # Majo Rumika no Akai Ito
 
+![majo-rumika-no-akai-ito](https://cdn.myanimelist.net/images/manga/1/163080.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 13

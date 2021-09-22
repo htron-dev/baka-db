@@ -1,5 +1,7 @@
 # Ganbaranakuccha!
 
+![ganbaranakuccha](https://cdn.myanimelist.net/images/manga/3/36833.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: がんばらなくっチャ！

@@ -1,5 +1,7 @@
 # Dai-2 Dai-4 Kayoubi no Koi
 
+![dai-2-dai-4-kayoubi-no-koi](https://cdn.myanimelist.net/images/manga/2/243277.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

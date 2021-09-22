@@ -1,5 +1,7 @@
 # Black Jack
 
+![black-jack](https://cdn.myanimelist.net/images/anime/5/12978.jpg)
+
 -   **type**: ova
 -   **episodes**: 12
 -   **original-name**: ブラック・ジャック

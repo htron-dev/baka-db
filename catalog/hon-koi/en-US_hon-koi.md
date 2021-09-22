@@ -1,5 +1,7 @@
 # Hon-Koi
 
+![hon-koi](https://cdn.myanimelist.net/images/manga/2/63039.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 本恋

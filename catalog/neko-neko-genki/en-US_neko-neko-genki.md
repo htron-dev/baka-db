@@ -1,5 +1,7 @@
 # Neko Neko Genki
 
+![neko-neko-genki](https://cdn.myanimelist.net/images/manga/3/33805.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ねこねこ元気

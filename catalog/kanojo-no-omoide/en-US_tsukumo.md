@@ -1,5 +1,7 @@
 # Tsukumo
 
+![tsukumo](https://cdn.myanimelist.net/images/anime/12/53171.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 九十九

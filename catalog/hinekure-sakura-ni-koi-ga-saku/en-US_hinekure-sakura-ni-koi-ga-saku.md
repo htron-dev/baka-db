@@ -1,5 +1,7 @@
 # Hinekure Sakura ni Koi ga Saku
 
+![hinekure-sakura-ni-koi-ga-saku](https://cdn.myanimelist.net/images/manga/1/225700.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

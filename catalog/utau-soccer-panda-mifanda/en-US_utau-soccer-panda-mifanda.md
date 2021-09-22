@@ -1,5 +1,7 @@
 # Utau Soccer Panda Mifanda
 
+![utau-soccer-panda-mifanda](https://cdn.myanimelist.net/images/anime/1296/108533.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 歌うサッカーパンダ ミファンダ
 -   **start-date**: 2021-04-02

@@ -1,5 +1,7 @@
 # Shougakusei ni mo Dekiru Koto! Choutan! J-ookamidan
 
+![shougakusei-ni-mo-dekiru-koto-choutan-j-ookamidan](https://cdn.myanimelist.net/images/manga/1/151972.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 小学生にもデキること！　超誕！Ｊオオカミ団

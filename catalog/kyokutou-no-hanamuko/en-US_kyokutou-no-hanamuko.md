@@ -1,5 +1,7 @@
 # Kyokutou no Hanamuko
 
+![kyokutou-no-hanamuko](https://cdn.myanimelist.net/images/manga/1/16604.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

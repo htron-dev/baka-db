@@ -1,5 +1,7 @@
 # Kouka Koukyuu Monogatari: Shougyokuden
 
+![kouka-koukyuu-monogatari-shougyokuden](https://cdn.myanimelist.net/images/manga/2/246475.jpg)
+
 -   **type**: manga
 -   **original-name**: 紅霞後宮物語～小玉伝～
 -   **start-date**: 2016-03-05

@@ -1,5 +1,7 @@
 # Mujikaku Love Factor
 
+![mujikaku-love-factor](https://cdn.myanimelist.net/images/manga/2/181868.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

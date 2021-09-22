@@ -1,5 +1,7 @@
 # Akuma mo Fumu wo Osoreru Tokoro
 
+![akuma-mo-fumu-wo-osoreru-tokoro](https://cdn.myanimelist.net/images/manga/1/165907.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

@@ -1,5 +1,7 @@
 # Ichigo Mashimaro
 
+![ichigo-mashimaro](https://cdn.myanimelist.net/images/manga/4/156517.jpg)
+
 -   **type**: manga
 -   **original-name**: 苺ましまろ
 -   **start-date**: 2002-02-15

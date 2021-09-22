@@ -1,5 +1,7 @@
 # Blossom
 
+![blossom](https://cdn.myanimelist.net/images/anime/11/37105.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: BLOSSOM

@@ -1,5 +1,7 @@
 # Naisho no Half Moon
 
+![naisho-no-half-moon](https://cdn.myanimelist.net/images/manga/1/23466.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: ないしょのハーフムーン

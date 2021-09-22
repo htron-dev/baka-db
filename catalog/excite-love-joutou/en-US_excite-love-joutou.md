@@ -1,5 +1,7 @@
 # Excite Love Joutou!
 
+![excite-love-joutou](https://cdn.myanimelist.net/images/manga/2/31333.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

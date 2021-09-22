@@ -1,5 +1,7 @@
 # Mamotte Shugogetten! Retrouvailles
 
+![mamotte-shugogetten-retrouvailles](https://cdn.myanimelist.net/images/manga/1/208711.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 38

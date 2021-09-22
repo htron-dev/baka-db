@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Tsumiki Shiro no Himitsu
 
+![sore-ike-anpanman-tsumiki-shiro-no-himitsu](https://cdn.myanimelist.net/images/anime/12/27775.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ! アンパンマン つみき城のひみつ

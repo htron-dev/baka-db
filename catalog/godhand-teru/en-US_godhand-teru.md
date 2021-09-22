@@ -1,5 +1,7 @@
 # Godhand Teru
 
+![godhand-teru](https://cdn.myanimelist.net/images/manga/3/30024.jpg)
+
 -   **type**: manga
 -   **volumes**: 62
 -   **chapters**: 478

@@ -1,5 +1,7 @@
 # Miss Me?
 
+![miss-me](https://cdn.myanimelist.net/images/manga/1/10477.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Koe wa Shite Namida wa Mienu Nure Karasu
 
+![koe-wa-shite-namida-wa-mienu-nure-karasu](https://cdn.myanimelist.net/images/manga/2/183015.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

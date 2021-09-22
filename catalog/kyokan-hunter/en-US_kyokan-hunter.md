@@ -1,5 +1,7 @@
 # Kyokan Hunter
 
+![kyokan-hunter](https://cdn.myanimelist.net/images/manga/2/47167.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

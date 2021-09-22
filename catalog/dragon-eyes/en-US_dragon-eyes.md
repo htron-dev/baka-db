@@ -1,5 +1,7 @@
 # Dragon Eyes
 
+![dragon-eyes](https://cdn.myanimelist.net/images/manga/1/16764.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ドラゴンアイズ

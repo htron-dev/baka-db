@@ -1,5 +1,7 @@
 # Bari Bari Densetsu (1987)
 
+![bari-bari-densetsu-1987](https://cdn.myanimelist.net/images/anime/4/35769.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: バリバリ伝説

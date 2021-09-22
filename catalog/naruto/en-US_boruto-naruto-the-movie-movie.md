@@ -1,5 +1,7 @@
 # Boruto: Naruto the Movie
 
+![boruto-naruto-the-movie](https://cdn.myanimelist.net/images/anime/4/78280.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: BORUTO -NARUTO THE MOVIE-

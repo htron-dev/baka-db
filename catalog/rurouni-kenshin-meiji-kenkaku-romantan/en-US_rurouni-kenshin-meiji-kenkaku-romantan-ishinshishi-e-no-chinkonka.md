@@ -1,5 +1,7 @@
 # Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Chinkonka
 
+![rurouni-kenshin-meiji-kenkaku-romantan-ishinshishi-e-no-chinkonka](https://cdn.myanimelist.net/images/anime/4/47845.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: るろうに剣心 -明治剣客浪漫譚- 維新志士への鎮魂歌

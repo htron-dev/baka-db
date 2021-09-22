@@ -1,5 +1,7 @@
 # Shirokuro Tsukeru?
 
+![shirokuro-tsukeru](https://cdn.myanimelist.net/images/manga/3/16830.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

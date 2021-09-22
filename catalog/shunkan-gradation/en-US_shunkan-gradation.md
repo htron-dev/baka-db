@@ -1,5 +1,7 @@
 # Shunkan Gradation
 
+![shunkan-gradation](https://cdn.myanimelist.net/images/manga/3/199905.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

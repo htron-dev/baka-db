@@ -1,5 +1,7 @@
 # Gokiburi-tachi no Tasogare
 
+![gokiburi-tachi-no-tasogare](https://cdn.myanimelist.net/images/anime/3/17430.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ゴキブリたちの黄昏

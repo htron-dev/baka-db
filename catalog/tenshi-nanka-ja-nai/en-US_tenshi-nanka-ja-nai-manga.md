@@ -1,5 +1,7 @@
 # Tenshi Nanka ja Nai
 
+![tenshi-nanka-ja-nai](https://cdn.myanimelist.net/images/manga/1/175781.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 40

@@ -1,5 +1,7 @@
 # Behind
 
+![behind](https://cdn.myanimelist.net/images/manga/1/23140.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ビハインド

@@ -1,5 +1,7 @@
 # Kachou no Koi
 
+![kachou-no-koi](https://cdn.myanimelist.net/images/anime/4/21953.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 課長の恋

@@ -1,5 +1,7 @@
 # Hello, Hello and Hello
 
+![hello-hello-and-hello](https://cdn.myanimelist.net/images/manga/1/223222.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

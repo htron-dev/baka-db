@@ -1,5 +1,7 @@
 # Wagahai wa Neko de Aru, Shokugyou wa Barista.
 
+![wagahai-wa-neko-de-aru-shokugyou-wa-barista](https://cdn.myanimelist.net/images/manga/3/243872.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

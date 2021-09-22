@@ -1,5 +1,7 @@
 # Isobe Isobee Monogatari Jump Festa Special
 
+![isobe-isobee-monogatari-jump-festa-special](https://cdn.myanimelist.net/images/anime/6/82172.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 磯部磯兵衛物語

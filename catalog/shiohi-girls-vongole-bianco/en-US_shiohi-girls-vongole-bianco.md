@@ -1,5 +1,7 @@
 # Shiohi Girls: Vongole Bianco
 
+![shiohi-girls-vongole-bianco](https://cdn.myanimelist.net/images/anime/1284/105657.jpg)
+
 -   **type**: ona
 -   **episodes**: 48
 -   **original-name**: しおひガールズ ボンゴレビアンコ

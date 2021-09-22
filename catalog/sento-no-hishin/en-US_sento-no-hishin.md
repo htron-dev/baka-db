@@ -1,5 +1,7 @@
 # Sento no Hishin
 
+![sento-no-hishin](https://cdn.myanimelist.net/images/manga/2/7642.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 千都の緋神

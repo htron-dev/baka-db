@@ -1,5 +1,7 @@
 # Boku to Kanojo no Koi Log
 
+![boku-to-kanojo-no-koi-log](https://cdn.myanimelist.net/images/manga/1/161278.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

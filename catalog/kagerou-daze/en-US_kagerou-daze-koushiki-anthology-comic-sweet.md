@@ -1,5 +1,7 @@
 # Kagerou Daze Koushiki Anthology Comic: Sweet
 
+![kagerou-daze-koushiki-anthology-comic-sweet](https://cdn.myanimelist.net/images/manga/3/145583.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 13

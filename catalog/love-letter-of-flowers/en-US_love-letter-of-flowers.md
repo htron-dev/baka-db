@@ -1,5 +1,7 @@
 # Love Letter of Flowers
 
+![love-letter-of-flowers](https://cdn.myanimelist.net/images/manga/4/10351.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Jibaku Shounen Hanako-kun
 
+![jibaku-shounen-hanako-kun](https://cdn.myanimelist.net/images/anime/1050/111687.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 地縛少年花子くん

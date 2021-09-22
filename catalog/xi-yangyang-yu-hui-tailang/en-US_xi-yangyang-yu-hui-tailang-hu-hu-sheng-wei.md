@@ -1,5 +1,7 @@
 # Xi Yangyang Yu Hui Tailang: Hu Hu Sheng Wei
 
+![xi-yangyang-yu-hui-tailang-hu-hu-sheng-wei](https://cdn.myanimelist.net/images/anime/2/27631.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 喜羊羊与灰太狼之虎虎生威

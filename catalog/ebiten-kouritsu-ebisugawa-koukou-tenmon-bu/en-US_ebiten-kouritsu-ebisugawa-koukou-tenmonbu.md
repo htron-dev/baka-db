@@ -1,5 +1,7 @@
 # Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu
 
+![ebiten-kouritsu-ebisugawa-koukou-tenmonbu](https://cdn.myanimelist.net/images/anime/11/75842.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: えびてん 公立海老栖川高校天悶部

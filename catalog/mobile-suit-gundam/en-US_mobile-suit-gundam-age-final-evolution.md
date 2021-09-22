@@ -1,5 +1,7 @@
 # Mobile Suit Gundam AGE: Final Evolution
 
+![mobile-suit-gundam-age-final-evolution](https://cdn.myanimelist.net/images/manga/1/111847.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Ote shite Aishite
 
+![ote-shite-aishite](https://cdn.myanimelist.net/images/manga/2/246157.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

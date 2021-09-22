@@ -1,5 +1,7 @@
 # Yurusarete Inai Watashitachi
 
+![yurusarete-inai-watashitachi](https://cdn.myanimelist.net/images/manga/5/196194.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

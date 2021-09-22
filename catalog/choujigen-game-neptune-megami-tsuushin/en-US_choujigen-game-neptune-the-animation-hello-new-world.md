@@ -1,5 +1,7 @@
 # Choujigen Game Neptune: The Animation - Hello New World
 
+![choujigen-game-neptune-the-animation-hello-new-world](https://cdn.myanimelist.net/images/manga/1/120045.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

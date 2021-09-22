@@ -1,5 +1,7 @@
 # Monochrome Factor
 
+![monochrome-factor](https://cdn.myanimelist.net/images/manga/2/205068.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 65

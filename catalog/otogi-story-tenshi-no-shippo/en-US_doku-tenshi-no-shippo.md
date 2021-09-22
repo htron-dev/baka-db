@@ -1,9 +1,10 @@
 # Doku Tenshi no Shippo
 
+![doku-tenshi-no-shippo](https://cdn.myanimelist.net/images/anime/9/58307.jpg)
+
 -   **type**: special
 -   **episodes**: 4
 -   **original-name**: 毒天使のしっぽ
-
 -   **rating**: PG-13 - Teens 13 or older
 
 ## Tags

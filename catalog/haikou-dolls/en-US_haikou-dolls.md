@@ -1,5 +1,7 @@
 # Haikou Dolls
 
+![haikou-dolls](https://cdn.myanimelist.net/images/manga/1/161194.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 26

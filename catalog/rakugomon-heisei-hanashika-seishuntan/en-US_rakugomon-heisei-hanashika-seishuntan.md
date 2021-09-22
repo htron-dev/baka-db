@@ -1,5 +1,7 @@
 # Rakugomon. Heisei Hanashika Seishuntan
 
+![rakugomon-heisei-hanashika-seishuntan](https://cdn.myanimelist.net/images/manga/1/136367.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ラクゴモン。 平成噺家青春譚

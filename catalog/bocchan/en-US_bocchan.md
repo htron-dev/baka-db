@@ -1,5 +1,7 @@
 # Bocchan
 
+![bocchan](https://cdn.myanimelist.net/images/anime/13/22951.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 坊っちゃん

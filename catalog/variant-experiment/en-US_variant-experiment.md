@@ -1,5 +1,7 @@
 # Variant Experiment
 
+![variant-experiment](https://cdn.myanimelist.net/images/manga/1/158973.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ヴァリアント・エクスペリメント

@@ -1,5 +1,7 @@
 # gdMen
 
+![gd-men](https://cdn.myanimelist.net/images/anime/4/88981.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: gd メン

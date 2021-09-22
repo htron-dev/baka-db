@@ -1,5 +1,7 @@
 # Sore Ike! Anpanman: Rhythm de Utaou! Anpanman Natsumatsuri
 
+![sore-ike-anpanman-rhythm-de-utaou-anpanman-natsumatsuri](https://cdn.myanimelist.net/images/anime/1671/116397.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: それいけ!アンパンマン リズムでうたおう! アンパンマン夏まつり
@@ -10,7 +12,6 @@
 
 -   comedy
 -   fantasy
-
 -   music
 
 ## Sinopse

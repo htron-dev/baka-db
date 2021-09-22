@@ -1,5 +1,7 @@
 # Misoshiru de Kanpai!
 
+![misoshiru-de-kanpai](https://cdn.myanimelist.net/images/manga/3/190094.jpg)
+
 -   **type**: manga
 -   **original-name**: 味噌汁でカンパイ！
 -   **start-date**: 2015-06-12

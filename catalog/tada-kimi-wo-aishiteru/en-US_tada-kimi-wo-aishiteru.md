@@ -1,5 +1,7 @@
 # Tada, Kimi wo Aishiteru
 
+![tada-kimi-wo-aishiteru](https://cdn.myanimelist.net/images/manga/1/115139.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Choujuu Kishin Dancougar: Juusenki-tai Songs
 
+![choujuu-kishin-dancougar-juusenki-tai-songs](https://cdn.myanimelist.net/images/anime/8/49523.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 超獣機神ダンクーガ SONG SPECIAL 獣戦機隊 SONGS

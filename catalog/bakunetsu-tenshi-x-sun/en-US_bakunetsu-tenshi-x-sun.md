@@ -1,5 +1,7 @@
 # Bakunetsu Tenshi X-Sun
 
+![bakunetsu-tenshi-x-sun](https://cdn.myanimelist.net/images/manga/2/148529.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 11

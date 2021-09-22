@@ -1,5 +1,7 @@
 # Mermaid Melody Pichi Pichi Pitch
 
+![mermaid-melody-pichi-pichi-pitch](https://cdn.myanimelist.net/images/anime/3/9640.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: マーメイドメロディー ぴちぴちピッチ

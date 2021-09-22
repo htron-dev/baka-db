@@ -1,5 +1,7 @@
 # Setsuna Flick
 
+![setsuna-flick](https://cdn.myanimelist.net/images/manga/3/226309.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

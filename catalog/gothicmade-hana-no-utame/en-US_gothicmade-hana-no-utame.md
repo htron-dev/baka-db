@@ -1,5 +1,7 @@
 # Gothicmade: Hana no Utame
 
+![gothicmade-hana-no-utame](https://cdn.myanimelist.net/images/anime/4/33985.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: GOTHICMADE -ゴティックメード 花の詩女-

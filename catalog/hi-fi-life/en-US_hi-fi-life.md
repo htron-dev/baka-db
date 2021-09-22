@@ -1,5 +1,7 @@
 # Hi-fi Life
 
+![hi-fi-life](https://cdn.myanimelist.net/images/manga/3/44825.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

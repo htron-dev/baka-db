@@ -1,5 +1,7 @@
 # Fate/strange Fake
 
+![fate-strange-fake](https://cdn.myanimelist.net/images/manga/3/171596.jpg)
+
 -   **type**: light-novel
 -   **original-name**: Fate/strange Fake
 -   **start-date**: 2015-01-10

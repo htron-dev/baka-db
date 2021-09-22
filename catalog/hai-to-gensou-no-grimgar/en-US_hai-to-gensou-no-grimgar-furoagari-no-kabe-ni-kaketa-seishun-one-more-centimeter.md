@@ -1,5 +1,7 @@
 # Hai to Gensou no Grimgar: Furoagari no Kabe ni Kaketa Seishun - One More Centimeter
 
+![hai-to-gensou-no-grimgar-furoagari-no-kabe-ni-kaketa-seishun-one-more-centimeter](https://cdn.myanimelist.net/images/anime/11/78160.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 灰と幻想のグリムガル 「風呂上りの壁にかけた青春―one more センチメートル」

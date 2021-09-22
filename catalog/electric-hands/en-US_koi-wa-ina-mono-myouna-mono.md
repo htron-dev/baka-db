@@ -1,5 +1,7 @@
 # Koi wa Ina Mono Myouna Mono
 
+![koi-wa-ina-mono-myouna-mono](https://cdn.myanimelist.net/images/manga/1/30589.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

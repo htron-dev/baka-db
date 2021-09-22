@@ -1,5 +1,7 @@
 # Kuzu Inou "Thermo Operator" no Ore ga Musou suru made
 
+![kuzu-inou-thermo-operator-no-ore-ga-musou-suru-made](https://cdn.myanimelist.net/images/manga/1/226946.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

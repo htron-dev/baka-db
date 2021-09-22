@@ -1,5 +1,7 @@
 # Dr. Quench
 
+![dr-quench](https://cdn.myanimelist.net/images/manga/1/230537.jpg)
+
 -   **type**: manga
 -   **original-name**: Dr.クインチ
 -   **start-date**: 2018-12-05

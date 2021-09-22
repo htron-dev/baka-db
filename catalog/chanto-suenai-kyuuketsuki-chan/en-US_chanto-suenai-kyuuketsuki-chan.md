@@ -1,5 +1,7 @@
 # Chanto Suenai Kyuuketsuki-chan
 
+![chanto-suenai-kyuuketsuki-chan](https://cdn.myanimelist.net/images/manga/2/244439.jpg)
+
 -   **type**: manga
 -   **original-name**: ちゃんと吸えない吸血鬼ちゃん
 -   **start-date**: 2021-05-08

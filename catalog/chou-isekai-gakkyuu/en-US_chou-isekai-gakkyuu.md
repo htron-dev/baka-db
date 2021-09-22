@@ -1,5 +1,7 @@
 # Chou! Isekai Gakkyuu!!
 
+![chou-isekai-gakkyuu](https://cdn.myanimelist.net/images/manga/1/207718.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 28

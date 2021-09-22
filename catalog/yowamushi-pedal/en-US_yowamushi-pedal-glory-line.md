@@ -1,5 +1,7 @@
 # Yowamushi Pedal: Glory Line
 
+![yowamushi-pedal-glory-line](https://cdn.myanimelist.net/images/anime/3/88489.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 弱虫ペダル GLORY LINE

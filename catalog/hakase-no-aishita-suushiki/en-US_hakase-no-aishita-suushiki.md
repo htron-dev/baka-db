@@ -1,5 +1,7 @@
 # Hakase no Aishita Suushiki
 
+![hakase-no-aishita-suushiki](https://cdn.myanimelist.net/images/manga/3/244215.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

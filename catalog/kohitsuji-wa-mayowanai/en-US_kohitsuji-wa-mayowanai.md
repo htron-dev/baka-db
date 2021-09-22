@@ -1,5 +1,7 @@
 # Kohitsuji wa Mayowanai
 
+![kohitsuji-wa-mayowanai](https://cdn.myanimelist.net/images/manga/2/162804.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 49

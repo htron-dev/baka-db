@@ -1,5 +1,7 @@
 # Yomei Zero kara Hajimeru Koiwazurai
 
+![yomei-zero-kara-hajimeru-koiwazurai](https://cdn.myanimelist.net/images/manga/3/179129.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 余命ゼロから始める恋煩い

@@ -1,5 +1,7 @@
 # Shin Nijitte Monogatari: Tsurujirou
 
+![shin-nijitte-monogatari-tsurujirou](https://cdn.myanimelist.net/images/manga/2/222704.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

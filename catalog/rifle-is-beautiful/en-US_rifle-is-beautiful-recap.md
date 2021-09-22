@@ -1,5 +1,7 @@
 # Rifle Is Beautiful Recap
 
+![rifle-is-beautiful-recap](https://cdn.myanimelist.net/images/anime/1347/104573.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ライフル・イズ・ビューティフル『全国大会 ・イズ・目前』

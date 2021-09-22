@@ -1,5 +1,7 @@
 # Junai Erotic!
 
+![junai-erotic](https://cdn.myanimelist.net/images/manga/2/194586.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 純愛エロティック！

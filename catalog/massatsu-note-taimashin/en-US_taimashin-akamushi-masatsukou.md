@@ -1,5 +1,7 @@
 # Taimashin: Akamushi Masatsukou
 
+![taimashin-akamushi-masatsukou](https://cdn.myanimelist.net/images/manga/2/46475.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 35

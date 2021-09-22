@@ -1,5 +1,7 @@
 # SV, Koi no Shinchoku ni Tsuite.
 
+![sv-koi-no-shinchoku-ni-tsuite](https://cdn.myanimelist.net/images/manga/2/235393.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

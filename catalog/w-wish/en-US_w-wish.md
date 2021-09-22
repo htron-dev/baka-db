@@ -1,5 +1,7 @@
 # W: Wish
 
+![w-wish](https://cdn.myanimelist.net/images/anime/1/346.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: W 〜ウィッシュ〜

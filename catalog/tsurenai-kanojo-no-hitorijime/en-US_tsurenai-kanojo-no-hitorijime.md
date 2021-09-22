@@ -1,5 +1,7 @@
 # Tsurenai Kanojo no Hitorijime
 
+![tsurenai-kanojo-no-hitorijime](https://cdn.myanimelist.net/images/manga/2/244785.jpg)
+
 -   **type**: manga
 -   **original-name**: つれない彼女のひとりじめ
 -   **start-date**: 2021-04-22

@@ -1,5 +1,7 @@
 # SF Saiyuuki Starzinger (Movie)
 
+![sf-saiyuuki-starzinger-movie](https://cdn.myanimelist.net/images/anime/2/45833.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ＳＦ西遊記 スタージンガー

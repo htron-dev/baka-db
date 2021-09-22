@@ -1,5 +1,7 @@
 # Kagerou Meikyuu
 
+![kagerou-meikyuu](https://cdn.myanimelist.net/images/manga/3/26031.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

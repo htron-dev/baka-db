@@ -1,5 +1,7 @@
 # Hamtaro
 
+![hamtaro](https://cdn.myanimelist.net/images/manga/2/15875.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: とっとこハム太郎

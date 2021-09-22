@@ -1,5 +1,7 @@
 # Mitsurin no Kaori
 
+![mitsurin-no-kaori](https://cdn.myanimelist.net/images/manga/1/79221.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

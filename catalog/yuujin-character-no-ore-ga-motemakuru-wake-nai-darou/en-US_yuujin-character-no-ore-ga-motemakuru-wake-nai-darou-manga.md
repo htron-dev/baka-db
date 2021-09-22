@@ -1,5 +1,7 @@
 # Yuujin Character no Ore ga Motemakuru Wake Nai Darou?
 
+![yuujin-character-no-ore-ga-motemakuru-wake-nai-darou](https://cdn.myanimelist.net/images/manga/3/248258.jpg)
+
 -   **type**: manga
 -   **original-name**: 友人キャラの俺がモテまくるわけないだろ？
 -   **start-date**: 2021-02-22

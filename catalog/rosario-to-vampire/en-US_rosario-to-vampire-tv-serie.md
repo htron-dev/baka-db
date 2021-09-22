@@ -1,5 +1,7 @@
 # Rosario to Vampire
 
+![rosario-to-vampire](https://cdn.myanimelist.net/images/anime/12/75242.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ロザリオとバンパイア

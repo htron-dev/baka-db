@@ -1,5 +1,7 @@
 # 7200 Byou no Romance
 
+![7200-byou-no-romance](https://cdn.myanimelist.net/images/manga/2/10104.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 7200 秒のロマンス

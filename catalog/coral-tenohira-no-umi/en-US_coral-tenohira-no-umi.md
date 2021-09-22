@@ -1,5 +1,7 @@
 # Coral: Tenohira no Umi
 
+![coral-tenohira-no-umi](https://cdn.myanimelist.net/images/manga/2/171132.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 36

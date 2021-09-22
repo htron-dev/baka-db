@@ -1,5 +1,7 @@
 # Tsurugi to Mahou no Sekai desu ga, Ore no Kikai Heiki wa Kyou mo Muteki desu.
 
+![tsurugi-to-mahou-no-sekai-desu-ga-ore-no-kikai-heiki-wa-kyou-mo-muteki-desu](https://cdn.myanimelist.net/images/manga/1/165731.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 剣と魔法の世界ですが、俺の機械兵器は今日も無敵です。
 -   **start-date**: 2015-11-01

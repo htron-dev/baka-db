@@ -1,5 +1,7 @@
 # Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana
 
+![keishichou-tokumubu-tokushu-kyouakuhan-taisakushitsu-dainanaka-tokunana](https://cdn.myanimelist.net/images/manga/2/245470.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 15

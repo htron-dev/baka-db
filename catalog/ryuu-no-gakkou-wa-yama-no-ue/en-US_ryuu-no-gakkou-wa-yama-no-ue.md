@@ -1,5 +1,7 @@
 # Ryuu no Gakkou wa Yama no Ue
 
+![ryuu-no-gakkou-wa-yama-no-ue](https://cdn.myanimelist.net/images/manga/3/98813.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

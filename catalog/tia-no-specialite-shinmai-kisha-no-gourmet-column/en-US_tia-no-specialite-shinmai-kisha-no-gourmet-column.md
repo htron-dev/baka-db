@@ -1,5 +1,7 @@
 # Tia no Spécialité: Shinmai Kisha no Gourmet Column
 
+![tia-no-specialite-shinmai-kisha-no-gourmet-column](https://cdn.myanimelist.net/images/manga/1/198861.jpg)
+
 -   **type**: manga
 -   **original-name**: ティアのスペシャリテ～新米記者のグルメコラム～
 -   **start-date**: 2016-12-22

@@ -1,5 +1,7 @@
 # Ebiten: Kouritsu Ebisugawa Koukou Tenmon-bu
 
+![ebiten-kouritsu-ebisugawa-koukou-tenmon-bu](https://cdn.myanimelist.net/images/manga/2/36805.jpg)
+
 -   **type**: manga
 -   **original-name**: えびてん 公立海老栖川高校天悶部
 -   **start-date**: 2008-10-25

@@ -1,5 +1,7 @@
 # Soukyuu no Fafner: Dead Aggressor - Exodus Special
 
+![soukyuu-no-fafner-dead-aggressor-exodus-special](https://cdn.myanimelist.net/images/anime/9/77029.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 蒼穹のファフナー Dead Aggressor EXODUS

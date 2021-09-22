@@ -1,5 +1,7 @@
 # Yangotonaki Hitorijime
 
+![yangotonaki-hitorijime](https://cdn.myanimelist.net/images/manga/1/171917.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Ryuuou no Chouai: Hanayome wa Sougen ni Midaresaku
 
+![ryuuou-no-chouai-hanayome-wa-sougen-ni-midaresaku](https://cdn.myanimelist.net/images/manga/3/184144.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

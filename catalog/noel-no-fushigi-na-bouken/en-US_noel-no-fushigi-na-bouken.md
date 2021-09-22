@@ -1,5 +1,7 @@
 # Noel no Fushigi na Bouken
 
+![noel-no-fushigi-na-bouken](https://cdn.myanimelist.net/images/anime/4/25787.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ノエルの不思議な冒険

@@ -1,5 +1,7 @@
 # An Jie Shen Shi
 
+![an-jie-shen-shi](https://cdn.myanimelist.net/images/anime/1826/110839.jpg)
+
 -   **type**: ona
 -   **episodes**: 22
 -   **original-name**: 暗界神使

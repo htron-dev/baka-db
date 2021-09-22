@@ -1,5 +1,7 @@
 # Backkom Meogeujan Yeohaeng
 
+![backkom-meogeujan-yeohaeng](https://cdn.myanimelist.net/images/anime/9/66089.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 빼꼼 머그잔 여행

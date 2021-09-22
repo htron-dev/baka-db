@@ -1,5 +1,7 @@
 # Monkey Strip
 
+![monkey-strip](https://cdn.myanimelist.net/images/manga/1/209215.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Hey! Riki
 
+![hey-riki](https://cdn.myanimelist.net/images/manga/2/112301.jpg)
+
 -   **type**: manga
 -   **volumes**: 27
 -   **chapters**: 198

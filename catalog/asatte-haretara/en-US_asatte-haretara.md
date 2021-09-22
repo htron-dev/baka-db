@@ -1,5 +1,7 @@
 # Asatte Haretara
 
+![asatte-haretara](https://cdn.myanimelist.net/images/manga/3/10032.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: あさって晴れたら

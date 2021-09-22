@@ -1,5 +1,7 @@
 # Angel Heart
 
+![angel-heart](https://cdn.myanimelist.net/images/manga/2/195179.jpg)
+
 -   **type**: manga
 -   **volumes**: 33
 -   **chapters**: 363

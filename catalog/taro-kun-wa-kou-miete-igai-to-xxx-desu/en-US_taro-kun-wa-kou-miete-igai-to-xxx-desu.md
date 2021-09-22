@@ -1,5 +1,7 @@
 # Taro-kun wa Kou Miete Igai to xxx desu.
 
+![taro-kun-wa-kou-miete-igai-to-xxx-desu](https://cdn.myanimelist.net/images/manga/3/171323.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

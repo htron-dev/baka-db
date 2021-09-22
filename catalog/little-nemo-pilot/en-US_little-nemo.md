@@ -1,5 +1,7 @@
 # Little Nemo
 
+![little-nemo](https://cdn.myanimelist.net/images/anime/7/82033.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: リトル・ニモ

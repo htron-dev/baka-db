@@ -1,5 +1,7 @@
 # Nananenme no Kazoe Uta
 
+![nananenme-no-kazoe-uta](https://cdn.myanimelist.net/images/manga/3/144315.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 8

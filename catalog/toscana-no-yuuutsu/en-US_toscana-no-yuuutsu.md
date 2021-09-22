@@ -1,5 +1,7 @@
 # Toscana no Yuuutsu
 
+![toscana-no-yuuutsu](https://cdn.myanimelist.net/images/manga/3/94461.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: トスカーナの憂鬱

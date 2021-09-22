@@ -1,5 +1,7 @@
 # Kimi to wa Chimeiteki na Zure ga Aru
 
+![kimi-to-wa-chimeiteki-na-zure-ga-aru](https://cdn.myanimelist.net/images/manga/1/97141.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 10

@@ -1,5 +1,7 @@
 # Keitai Denjuu Telefang 2
 
+![keitai-denjuu-telefang-2](https://cdn.myanimelist.net/images/manga/1/163732.jpg)
+
 -   **type**: manga
 -   **chapters**: 6
 -   **original-name**: 携帯電獣テレファング 2
@@ -10,7 +12,6 @@
 
 -   action
 -   game
-
 -   shounen
 
 ## Authors
