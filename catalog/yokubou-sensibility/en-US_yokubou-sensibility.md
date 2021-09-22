@@ -1,5 +1,7 @@
 # Yokubou Sensibility
 
+![yokubou-sensibility](https://cdn.myanimelist.net/images/manga/2/7914.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

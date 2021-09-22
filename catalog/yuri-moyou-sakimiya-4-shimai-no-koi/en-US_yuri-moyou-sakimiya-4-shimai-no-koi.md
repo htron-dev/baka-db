@@ -1,5 +1,7 @@
 # Yuri Moyou: Sakimiya 4 Shimai no Koi
 
+![yuri-moyou-sakimiya-4-shimai-no-koi](https://cdn.myanimelist.net/images/manga/1/221014.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 42

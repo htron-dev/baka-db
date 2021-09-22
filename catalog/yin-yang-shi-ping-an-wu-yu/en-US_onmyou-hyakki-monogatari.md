@@ -1,5 +1,7 @@
 # Onmyou Hyakki Monogatari
 
+![onmyou-hyakki-monogatari](https://cdn.myanimelist.net/images/anime/1339/103981.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 陰陽百鬼物語
 -   **rating**: None

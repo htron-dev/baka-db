@@ -1,5 +1,7 @@
 # Yu☆Gi☆Oh! The Dark Side of Dimensions
 
+![yu☆-gi☆-oh-the-dark-side-of-dimensions](https://cdn.myanimelist.net/images/anime/12/77614.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 遊 ☆ 戯 ☆ 王 THE DARK SIDE OF DIMENSIONS

@@ -1,5 +1,7 @@
 # Yomigaeru Shoujo
 
+![yomigaeru-shoujo](https://cdn.myanimelist.net/images/manga/2/245904.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

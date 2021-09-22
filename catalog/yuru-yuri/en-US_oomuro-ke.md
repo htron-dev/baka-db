@@ -1,5 +1,7 @@
 # Oomuro-ke
 
+![oomuro-ke](https://cdn.myanimelist.net/images/manga/1/114825.jpg)
+
 -   **type**: manga
 -   **original-name**: 大室家
 -   **start-date**: 2012-07-03

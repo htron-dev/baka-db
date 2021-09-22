@@ -1,5 +1,7 @@
 # Yami Shibai 3
 
+![yami-shibai-3](https://cdn.myanimelist.net/images/anime/5/78074.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 闇芝居 3 期

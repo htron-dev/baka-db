@@ -1,5 +1,7 @@
 # Yami ni Naku Oni
 
+![yami-ni-naku-oni](https://cdn.myanimelist.net/images/manga/2/2901.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 獣闇に哭く鬼

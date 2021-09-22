@@ -1,5 +1,7 @@
 # Yumekui Ouji no Yuuutsu
 
+![yumekui-ouji-no-yuuutsu](https://cdn.myanimelist.net/images/manga/2/143621.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

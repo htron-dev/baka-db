@@ -1,5 +1,7 @@
 # Shousetsuban Yowamushi Pedal
 
+![shousetsuban-yowamushi-pedal](https://cdn.myanimelist.net/images/manga/2/115595.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 小説版 弱虫ペダル
 -   **start-date**: 2014-02-07

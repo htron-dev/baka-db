@@ -1,5 +1,7 @@
 # Yuusha to Yuusha to Yuusha to Yuusha
 
+![yuusha-to-yuusha-to-yuusha-to-yuusha](https://cdn.myanimelist.net/images/manga/3/165734.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 勇者と勇者と勇者と勇者
 -   **start-date**: 2015-10-20

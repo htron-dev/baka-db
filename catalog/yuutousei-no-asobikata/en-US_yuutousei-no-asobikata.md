@@ -1,5 +1,7 @@
 # Yuutousei no Asobikata
 
+![yuutousei-no-asobikata](https://cdn.myanimelist.net/images/manga/3/145665.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Yu☆Gi☆Oh! 5D's
 
+![yu☆-gi☆-oh-5-ds](https://cdn.myanimelist.net/images/manga/2/178238.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 68

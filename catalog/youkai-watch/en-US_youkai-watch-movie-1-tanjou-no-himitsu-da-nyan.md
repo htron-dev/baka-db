@@ -1,5 +1,7 @@
 # Youkai Watch Movie 1: Tanjou no Himitsu da Nyan!
 
+![youkai-watch-movie-1-tanjou-no-himitsu-da-nyan](https://cdn.myanimelist.net/images/anime/1715/94495.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 妖怪ウォッチ　誕生の秘密だニャン！

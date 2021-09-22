@@ -1,5 +1,7 @@
 # Bai Gui Youeryuan 2nd Season
 
+![bai-gui-youeryuan-2nd-season](https://cdn.myanimelist.net/images/anime/1378/108462.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 百鬼幼儿园 第二季

@@ -1,5 +1,7 @@
 # Yoake no Yami ni Nemuru Koi
 
+![yoake-no-yami-ni-nemuru-koi](https://cdn.myanimelist.net/images/manga/1/116787.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

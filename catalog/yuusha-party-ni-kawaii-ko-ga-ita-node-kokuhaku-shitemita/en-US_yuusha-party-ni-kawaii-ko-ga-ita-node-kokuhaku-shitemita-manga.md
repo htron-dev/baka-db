@@ -1,5 +1,7 @@
 # Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.
 
+![yuusha-party-ni-kawaii-ko-ga-ita-node-kokuhaku-shitemita](https://cdn.myanimelist.net/images/manga/1/246702.jpg)
+
 -   **type**: manga
 -   **original-name**: 勇者パーティーにかわいい子がいたので、告白してみた。
 -   **start-date**: 2021-01-25

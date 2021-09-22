@@ -1,5 +1,7 @@
 # Yasaotoko to Sadistic
 
+![yasaotoko-to-sadistic](https://cdn.myanimelist.net/images/manga/2/169401.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

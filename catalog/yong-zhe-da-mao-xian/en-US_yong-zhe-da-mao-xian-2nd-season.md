@@ -1,5 +1,7 @@
 # Yong Zhe Da Mao Xian 2nd Season
 
+![yong-zhe-da-mao-xian-2nd-season](https://cdn.myanimelist.net/images/anime/6/81278.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: 勇者大冒险第二季

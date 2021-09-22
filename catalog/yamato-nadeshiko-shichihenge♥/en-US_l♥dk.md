@@ -1,5 +1,7 @@
 # L♥DK
 
+![l♥dk](https://cdn.myanimelist.net/images/manga/2/199339.jpg)
+
 -   **type**: manga
 -   **volumes**: 24
 -   **chapters**: 98

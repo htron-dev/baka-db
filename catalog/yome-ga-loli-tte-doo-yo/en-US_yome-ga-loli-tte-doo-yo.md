@@ -1,5 +1,7 @@
 # Yome ga Loli tte Doo yo!?
 
+![yome-ga-loli-tte-doo-yo](https://cdn.myanimelist.net/images/manga/3/142181.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

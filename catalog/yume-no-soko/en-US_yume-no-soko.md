@@ -1,5 +1,7 @@
 # Yume no Soko
 
+![yume-no-soko](https://cdn.myanimelist.net/images/manga/3/89045.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 11

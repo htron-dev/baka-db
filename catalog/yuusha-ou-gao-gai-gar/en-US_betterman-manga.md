@@ -1,5 +1,7 @@
 # Betterman
 
+![betterman](https://cdn.myanimelist.net/images/manga/3/207569.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

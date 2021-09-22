@@ -1,5 +1,7 @@
 # Yancha Gal no Anjou-san
 
+![yancha-gal-no-anjou-san](https://cdn.myanimelist.net/images/manga/3/207704.jpg)
+
 -   **type**: manga
 -   **original-name**: やんちゃギャルの安城さん
 -   **start-date**: 2017-08-12

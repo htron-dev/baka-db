@@ -1,5 +1,7 @@
 # Yans! Gans! Meat or Die
 
+![yans-gans-meat-or-die](https://cdn.myanimelist.net/images/anime/4/18655.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: ヤンス！ガンス！Meat or Die

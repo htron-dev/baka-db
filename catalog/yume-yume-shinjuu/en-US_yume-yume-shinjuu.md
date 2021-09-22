@@ -1,5 +1,7 @@
 # Yume Yume Shinjuu
 
+![yume-yume-shinjuu](https://cdn.myanimelist.net/images/manga/1/85619.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

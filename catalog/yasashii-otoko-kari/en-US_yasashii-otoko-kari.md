@@ -1,5 +1,7 @@
 # Yasashii Otoko (Kari)
 
+![yasashii-otoko-kari](https://cdn.myanimelist.net/images/manga/3/248096.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

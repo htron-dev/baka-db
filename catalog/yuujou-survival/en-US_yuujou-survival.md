@@ -1,5 +1,7 @@
 # Yuujou Survival!
 
+![yuujou-survival](https://cdn.myanimelist.net/images/manga/2/29374.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 友嬢サバイバル!

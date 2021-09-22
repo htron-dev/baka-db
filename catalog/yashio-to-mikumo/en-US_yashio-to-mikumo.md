@@ -1,5 +1,7 @@
 # Yashio to Mikumo
 
+![yashio-to-mikumo](https://cdn.myanimelist.net/images/manga/3/196318.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 32

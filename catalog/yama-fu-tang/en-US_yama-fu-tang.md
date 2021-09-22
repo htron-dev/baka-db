@@ -1,5 +1,7 @@
 # Yama Fu-Tang
 
+![yama-fu-tang](https://cdn.myanimelist.net/images/manga/3/40922.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

@@ -1,5 +1,7 @@
 # Yawara!
 
+![yawara](https://cdn.myanimelist.net/images/manga/3/75885.jpg)
+
 -   **type**: manga
 -   **volumes**: 29
 -   **chapters**: 331

@@ -1,5 +1,7 @@
 # Yuri Shoujo
 
+![yuri-shoujo](https://cdn.myanimelist.net/images/manga/2/63479.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 百合少女

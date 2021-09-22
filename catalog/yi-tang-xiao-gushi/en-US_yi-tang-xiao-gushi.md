@@ -1,5 +1,7 @@
 # Yi Tang Xiao Gushi
 
+![yi-tang-xiao-gushi](https://cdn.myanimelist.net/images/anime/1040/115504.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 80
 -   **original-name**: 亿唐小故事

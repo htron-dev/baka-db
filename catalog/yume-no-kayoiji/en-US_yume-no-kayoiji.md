@@ -1,5 +1,7 @@
 # Yume no Kayoiji
 
+![yume-no-kayoiji](https://cdn.myanimelist.net/images/manga/3/154792.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

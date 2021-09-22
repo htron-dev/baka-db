@@ -1,5 +1,7 @@
 # Yureka
 
+![yureka](https://cdn.myanimelist.net/images/manga/4/2119.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 41
 -   **chapters**: 266

@@ -1,5 +1,7 @@
 # Yousei Kishi: Fairy Knight Love Royale
 
+![yousei-kishi-fairy-knight-love-royale](https://cdn.myanimelist.net/images/manga/3/186607.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

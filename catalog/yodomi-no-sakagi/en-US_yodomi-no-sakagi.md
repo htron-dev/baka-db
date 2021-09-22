@@ -1,5 +1,7 @@
 # Yodomi no Sakagi
 
+![yodomi-no-sakagi](https://cdn.myanimelist.net/images/anime/9/81337.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 澱みの騒ぎ

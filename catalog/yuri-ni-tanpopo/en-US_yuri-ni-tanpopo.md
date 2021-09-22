@@ -1,5 +1,7 @@
 # Yuri ni Tanpopo
 
+![yuri-ni-tanpopo](https://cdn.myanimelist.net/images/manga/2/97503.jpg)
+
 -   **type**: manga
 -   **chapters**: 6
 -   **original-name**: ゆりにタンポポ

@@ -1,5 +1,7 @@
 # Yoki senu Wedding Bell
 
+![yoki-senu-wedding-bell](https://cdn.myanimelist.net/images/manga/1/227418.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 予期せぬウエディング・ベル

@@ -1,5 +1,7 @@
 # Youkoso "Tsuihousha Guild" e: Munou na S-Rank Party ga Dondon Yuunou na Boukensha wo Tsuihou suru node, Saijaku wo Atsumete Saikyou Guild wo Tsukurimasu
 
+![youkoso-tsuihousha-guild-e-munou-na-s-rank-party-ga-dondon-yuunou-na-boukensha-wo-tsuihou-suru-node-saijaku-wo-atsumete-saikyou-guild-wo-tsukurimasu](https://cdn.myanimelist.net/images/manga/1/247534.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ようこそ『追放者ギルド』へ ~無能な S ランクパーティがどんどん有能な冒険者を追放するので、最弱を集めて最強ギルドを創ります~
 -   **start-date**: 2021-02-27

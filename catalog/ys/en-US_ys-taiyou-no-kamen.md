@@ -1,5 +1,7 @@
 # Ys: Taiyou no Kamen
 
+![ys-taiyou-no-kamen](https://cdn.myanimelist.net/images/manga/2/42572.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Yoru no Hi
 
+![yoru-no-hi](https://cdn.myanimelist.net/images/anime/11/36271.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 夜の灯

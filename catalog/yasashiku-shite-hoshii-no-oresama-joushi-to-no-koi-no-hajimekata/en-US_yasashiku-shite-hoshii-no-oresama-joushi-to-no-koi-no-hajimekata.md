@@ -1,5 +1,7 @@
 # Yasashiku Shite Hoshii no: Oresama Joushi to no Koi no Hajimekata
 
+![yasashiku-shite-hoshii-no-oresama-joushi-to-no-koi-no-hajimekata](https://cdn.myanimelist.net/images/manga/2/195489.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 優しくしてほしいの～オレ様上司との恋のはじめ方～

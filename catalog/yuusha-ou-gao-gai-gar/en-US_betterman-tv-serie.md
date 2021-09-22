@@ -1,5 +1,7 @@
 # Betterman
 
+![betterman](https://cdn.myanimelist.net/images/anime/1157/91069.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: ベターマン

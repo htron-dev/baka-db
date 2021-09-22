@@ -1,5 +1,7 @@
 # Yakushoku Distopiary: Kougyoku no Toubatsushi to Inochikurai no Boku
 
+![yakushoku-distopiary-kougyoku-no-toubatsushi-to-inochikurai-no-boku](https://cdn.myanimelist.net/images/manga/1/197769.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

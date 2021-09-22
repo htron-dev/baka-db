@@ -1,5 +1,7 @@
 # Yuuwaku sareta Hanayome
 
+![yuuwaku-sareta-hanayome](https://cdn.myanimelist.net/images/manga/1/227438.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 誘惑された花嫁

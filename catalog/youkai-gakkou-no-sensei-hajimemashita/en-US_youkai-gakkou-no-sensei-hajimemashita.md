@@ -1,5 +1,7 @@
 # Youkai Gakkou no Sensei Hajimemashita!
 
+![youkai-gakkou-no-sensei-hajimemashita](https://cdn.myanimelist.net/images/manga/1/167315.jpg)
+
 -   **type**: manga
 -   **original-name**: 妖怪学校の先生はじめました！
 -   **start-date**: 2014-11-18

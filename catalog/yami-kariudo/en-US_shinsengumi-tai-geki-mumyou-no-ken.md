@@ -1,5 +1,7 @@
 # Shinsengumi-tai Geki: Mumyou no Ken
 
+![shinsengumi-tai-geki-mumyou-no-ken](https://cdn.myanimelist.net/images/manga/2/176094.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

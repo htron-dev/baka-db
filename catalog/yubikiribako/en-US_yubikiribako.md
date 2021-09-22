@@ -1,5 +1,7 @@
 # Yubikiribako
 
+![yubikiribako](https://cdn.myanimelist.net/images/manga/2/222577.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

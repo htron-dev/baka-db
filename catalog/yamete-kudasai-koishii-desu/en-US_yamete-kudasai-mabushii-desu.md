@@ -1,5 +1,7 @@
 # Yamete kudasai, Mabushii desu.
 
+![yamete-kudasai-mabushii-desu](https://cdn.myanimelist.net/images/manga/3/160702.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

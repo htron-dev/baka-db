@@ -1,5 +1,7 @@
 # Yeong Woong Seo Gi
 
+![yeong-woong-seo-gi](https://cdn.myanimelist.net/images/manga/1/79231.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 4
 -   **chapters**: 30

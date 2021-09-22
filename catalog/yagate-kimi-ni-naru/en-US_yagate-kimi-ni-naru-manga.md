@@ -1,5 +1,7 @@
 # Yagate Kimi ni Naru
 
+![yagate-kimi-ni-naru](https://cdn.myanimelist.net/images/manga/1/232311.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 50

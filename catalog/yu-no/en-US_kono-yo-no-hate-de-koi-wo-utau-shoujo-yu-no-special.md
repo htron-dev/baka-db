@@ -1,5 +1,7 @@
 # Kono Yo no Hate de Koi wo Utau Shoujo YU-NO Special
 
+![kono-yo-no-hate-de-koi-wo-utau-shoujo-yu-no-special](https://cdn.myanimelist.net/images/anime/1038/102471.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: この世の果てで恋を唄う少女 YU-NO

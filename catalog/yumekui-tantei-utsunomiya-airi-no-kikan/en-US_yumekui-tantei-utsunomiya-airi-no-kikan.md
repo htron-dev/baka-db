@@ -1,5 +1,7 @@
 # Yumekui Tantei: Utsunomiya Airi no Kikan
 
+![yumekui-tantei-utsunomiya-airi-no-kikan](https://cdn.myanimelist.net/images/manga/2/170936.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 9

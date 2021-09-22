@@ -1,5 +1,7 @@
 # Yankee Ai wo Chikau
 
+![yankee-ai-wo-chikau](https://cdn.myanimelist.net/images/manga/2/12521.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

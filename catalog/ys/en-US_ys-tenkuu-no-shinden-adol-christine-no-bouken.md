@@ -1,5 +1,7 @@
 # Ys: Tenkuu no Shinden - Adol Christine no Bouken
 
+![ys-tenkuu-no-shinden-adol-christine-no-bouken](https://cdn.myanimelist.net/images/anime/1984/110828.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: Ys (イース) 天空の神殿 アドル=クリスティンの冒険

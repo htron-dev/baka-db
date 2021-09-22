@@ -1,5 +1,7 @@
 # Youkoso Tetsugaku Maid Kissa Sophandi e
 
+![youkoso-tetsugaku-maid-kissa-sophandi-e](https://cdn.myanimelist.net/images/manga/3/195953.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ようこそ哲学メイド喫茶ソファンディへ

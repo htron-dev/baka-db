@@ -1,5 +1,7 @@
 # Yuuwaku Shinaito Dame desu ka?
 
+![yuuwaku-shinaito-dame-desu-ka](https://cdn.myanimelist.net/images/manga/2/80555.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Yuki to Matsu
 
+![yuki-to-matsu](https://cdn.myanimelist.net/images/manga/1/222624.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

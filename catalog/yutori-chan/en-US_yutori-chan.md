@@ -1,5 +1,7 @@
 # Yutori-chan
 
+![yutori-chan](https://cdn.myanimelist.net/images/anime/2/38359.jpg)
+
 -   **type**: ona
 -   **episodes**: 25
 -   **original-name**: ゆとりちゃん

@@ -1,5 +1,7 @@
 # Yumemaboroshi no Gotoku
 
+![yumemaboroshi-no-gotoku](https://cdn.myanimelist.net/images/manga/3/166335.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **chapters**: 91

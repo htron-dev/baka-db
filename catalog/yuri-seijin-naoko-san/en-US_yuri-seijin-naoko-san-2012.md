@@ -1,5 +1,7 @@
 # Yuri Seijin Naoko-san (2012)
 
+![yuri-seijin-naoko-san-2012](https://cdn.myanimelist.net/images/anime/12/75497.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 百合星人ナオコサン

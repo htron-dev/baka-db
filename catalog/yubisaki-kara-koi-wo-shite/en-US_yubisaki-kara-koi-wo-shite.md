@@ -1,5 +1,7 @@
 # Yubisaki kara Koi wo Shite
 
+![yubisaki-kara-koi-wo-shite](https://cdn.myanimelist.net/images/manga/2/57299.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

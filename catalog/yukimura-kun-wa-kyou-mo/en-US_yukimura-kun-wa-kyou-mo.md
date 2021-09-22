@@ -1,5 +1,7 @@
 # Yukimura-kun wa Kyou mo
 
+![yukimura-kun-wa-kyou-mo](https://cdn.myanimelist.net/images/manga/3/171805.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

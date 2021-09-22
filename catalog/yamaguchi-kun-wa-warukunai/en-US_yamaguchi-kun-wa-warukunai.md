@@ -1,5 +1,7 @@
 # Yamaguchi-kun wa Warukunai
 
+![yamaguchi-kun-wa-warukunai](https://cdn.myanimelist.net/images/manga/1/235051.jpg)
+
 -   **type**: manga
 -   **original-name**: 山口くんはワルくない
 -   **start-date**: 2019-09-13

@@ -1,5 +1,7 @@
 # Yume no Mirai Nikki
 
+![yume-no-mirai-nikki](https://cdn.myanimelist.net/images/manga/1/197995.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

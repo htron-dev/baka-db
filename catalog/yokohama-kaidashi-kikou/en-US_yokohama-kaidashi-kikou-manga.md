@@ -1,5 +1,7 @@
 # Yokohama Kaidashi Kikou
 
+![yokohama-kaidashi-kikou](https://cdn.myanimelist.net/images/manga/1/171813.jpg)
+
 -   **type**: manga
 -   **volumes**: 14
 -   **chapters**: 142

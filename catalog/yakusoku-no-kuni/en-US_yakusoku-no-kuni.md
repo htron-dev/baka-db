@@ -1,5 +1,7 @@
 # Yakusoku no Kuni
 
+![yakusoku-no-kuni](https://cdn.myanimelist.net/images/manga/1/191782.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **original-name**: 約束の国

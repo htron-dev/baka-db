@@ -1,5 +1,7 @@
 # You Are My Darling!!!
 
+![you-are-my-darling](https://cdn.myanimelist.net/images/manga/1/238839.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

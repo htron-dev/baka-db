@@ -1,5 +1,7 @@
 # Yuugai Muzai Gangu
 
+![yuugai-muzai-gangu](https://cdn.myanimelist.net/images/manga/1/226209.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Heya Camp△: Sauna to Gohan to Sanrin Bike
 
+![heya-camp△-sauna-to-gohan-to-sanrin-bike](https://cdn.myanimelist.net/images/anime/1990/105400.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: へやキャン △「サウナとごはんと三輪バイク」

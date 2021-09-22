@@ -1,5 +1,7 @@
 # Yakuza na Anego ni Semeraretai!: Anthology Comic
 
+![yakuza-na-anego-ni-semeraretai-anthology-comic](https://cdn.myanimelist.net/images/manga/2/226496.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

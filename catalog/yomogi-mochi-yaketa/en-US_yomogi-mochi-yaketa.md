@@ -1,5 +1,7 @@
 # Yomogi Mochi Yaketa?
 
+![yomogi-mochi-yaketa](https://cdn.myanimelist.net/images/manga/5/43349.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ヨモギもちヤケた

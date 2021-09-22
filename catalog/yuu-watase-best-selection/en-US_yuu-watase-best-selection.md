@@ -1,5 +1,7 @@
 # Yuu Watase Best Selection
 
+![yuu-watase-best-selection](https://cdn.myanimelist.net/images/manga/3/24428.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

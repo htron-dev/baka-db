@@ -1,5 +1,7 @@
 # Yukimi-ka no Nichijou wa Honwari de Shimeru
 
+![yukimi-ka-no-nichijou-wa-honwari-de-shimeru](https://cdn.myanimelist.net/images/anime/1642/92353.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 雪見家の日常はほんわりで〆る

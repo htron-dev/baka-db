@@ -1,5 +1,7 @@
 # Youkaiden Nekome Kozou
 
+![youkaiden-nekome-kozou](https://cdn.myanimelist.net/images/anime/1369/111809.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: 妖怪伝 猫目小僧

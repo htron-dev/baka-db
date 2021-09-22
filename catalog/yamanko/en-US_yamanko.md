@@ -1,5 +1,7 @@
 # Yamanko!
 
+![yamanko](https://cdn.myanimelist.net/images/manga/2/59873.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

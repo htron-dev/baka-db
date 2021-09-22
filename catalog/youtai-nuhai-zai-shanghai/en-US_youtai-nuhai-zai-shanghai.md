@@ -1,5 +1,7 @@
 # Youtai Nuhai Zai Shanghai
 
+![youtai-nuhai-zai-shanghai](https://cdn.myanimelist.net/images/anime/6/55759.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 犹太女孩在上海

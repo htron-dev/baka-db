@@ -1,5 +1,7 @@
 # Yuurei Hakushaku no Hanayome
 
+![yuurei-hakushaku-no-hanayome](https://cdn.myanimelist.net/images/manga/1/156954.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 61

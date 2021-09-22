@@ -1,5 +1,7 @@
 # Yakan Gakkou no Ura-sensei
 
+![yakan-gakkou-no-ura-sensei](https://cdn.myanimelist.net/images/anime/11/88780.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: 夜間学校の裏先生

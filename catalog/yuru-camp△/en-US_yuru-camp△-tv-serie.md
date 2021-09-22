@@ -1,5 +1,7 @@
 # Yuru Camp△
 
+![yuru-camp△](https://cdn.myanimelist.net/images/anime/4/89877.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ゆるキャン △

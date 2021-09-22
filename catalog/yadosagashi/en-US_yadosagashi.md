@@ -1,5 +1,7 @@
 # Yadosagashi
 
+![yadosagashi](https://cdn.myanimelist.net/images/anime/1161/106725.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: やどさがし

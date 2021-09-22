@@ -1,5 +1,7 @@
 # Yu☆Gi☆Oh!
 
+![yu☆-gi☆-oh](https://cdn.myanimelist.net/images/anime/4/47487.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 27
 -   **original-name**: 遊 ☆ 戯 ☆ 王

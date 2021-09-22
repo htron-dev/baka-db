@@ -1,5 +1,7 @@
 # Yuzuriha Daidai Yome ga Kimi
 
+![yuzuriha-daidai-yome-ga-kimi](https://cdn.myanimelist.net/images/manga/3/39441.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

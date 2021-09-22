@@ -1,5 +1,7 @@
 # Yuusha Shoukan ni Makikomareta kedo, Isekai wa Heiwa deshita
 
+![yuusha-shoukan-ni-makikomareta-kedo-isekai-wa-heiwa-deshita](https://cdn.myanimelist.net/images/manga/2/237032.jpg)
+
 -   **type**: manga
 -   **original-name**: 勇者召喚に巻き込まれたけど、異世界は平和でした
 -   **start-date**: 2018-08-25

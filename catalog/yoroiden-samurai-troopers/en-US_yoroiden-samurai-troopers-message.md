@@ -1,5 +1,7 @@
 # Yoroiden Samurai Troopers Message
 
+![yoroiden-samurai-troopers-message](https://cdn.myanimelist.net/images/anime/1754/94191.jpg)
+
 -   **type**: ova
 -   **episodes**: 5
 -   **original-name**: 鎧伝サムライトルーパー MESSAGE

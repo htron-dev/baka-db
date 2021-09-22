@@ -1,5 +1,7 @@
 # Yuzuki-san Chi no Yonkyoudai.
 
+![yuzuki-san-chi-no-yonkyoudai](https://cdn.myanimelist.net/images/manga/3/221977.jpg)
+
 -   **type**: manga
 -   **original-name**: 柚木さんちの四兄弟。
 -   **start-date**: 2018-08-10

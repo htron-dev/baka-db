@@ -1,5 +1,7 @@
 # Yojigen Sekai
 
+![yojigen-sekai](https://cdn.myanimelist.net/images/manga/2/61965.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 四次元世界

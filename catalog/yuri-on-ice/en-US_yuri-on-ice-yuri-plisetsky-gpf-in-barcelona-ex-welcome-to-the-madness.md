@@ -1,5 +1,7 @@
 # Yuri!!! on Ice: Yuri Plisetsky GPF in Barcelona EX - Welcome to The Madness
 
+![yuri-on-ice-yuri-plisetsky-gpf-in-barcelona-ex-welcome-to-the-madness](https://cdn.myanimelist.net/images/anime/6/85548.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ユーリ!!! on ICE Yuri Plisetsky GPF in Barcelona EX "Welcome to The Madness"

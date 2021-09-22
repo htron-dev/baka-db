@@ -1,5 +1,7 @@
 # Yancha Gal no Anjou-san-tachi: Kou-1-hen
 
+![yancha-gal-no-anjou-san-tachi-kou-1-hen](https://cdn.myanimelist.net/images/manga/1/237850.jpg)
+
 -   **type**: manga
 -   **original-name**: やんちゃギャルの安城さんたち 高 1 編
 -   **start-date**: 2019-05-27

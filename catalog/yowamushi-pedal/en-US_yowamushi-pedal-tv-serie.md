@@ -1,5 +1,7 @@
 # Yowamushi Pedal
 
+![yowamushi-pedal](https://cdn.myanimelist.net/images/anime/5/53211.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 38
 -   **original-name**: 弱虫ペダル

@@ -1,5 +1,7 @@
 # Yappari Kimi no Are ga Ichiban Suki
 
+![yappari-kimi-no-are-ga-ichiban-suki](https://cdn.myanimelist.net/images/manga/1/193845.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

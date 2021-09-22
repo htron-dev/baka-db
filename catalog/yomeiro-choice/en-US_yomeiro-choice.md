@@ -1,5 +1,7 @@
 # Yomeiro Choice
 
+![yomeiro-choice](https://cdn.myanimelist.net/images/manga/2/184556.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 41

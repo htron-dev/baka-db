@@ -1,5 +1,7 @@
 # Yakuza Girl: Blade-jikake no Hanayome
 
+![yakuza-girl-blade-jikake-no-hanayome](https://cdn.myanimelist.net/images/manga/2/167927.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

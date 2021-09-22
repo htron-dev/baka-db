@@ -1,5 +1,7 @@
 # Mariko Parade
 
+![mariko-parade](https://cdn.myanimelist.net/images/manga/3/22014.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: まり子パラード

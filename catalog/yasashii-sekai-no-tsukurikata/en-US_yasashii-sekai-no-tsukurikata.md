@@ -1,5 +1,7 @@
 # Yasashii Sekai no Tsukurikata
 
+![yasashii-sekai-no-tsukurikata](https://cdn.myanimelist.net/images/manga/3/144221.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 37

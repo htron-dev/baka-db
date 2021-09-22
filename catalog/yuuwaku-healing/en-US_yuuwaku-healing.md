@@ -1,5 +1,7 @@
 # Yuuwaku Healing
 
+![yuuwaku-healing](https://cdn.myanimelist.net/images/manga/1/126727.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 誘惑ヒーリング

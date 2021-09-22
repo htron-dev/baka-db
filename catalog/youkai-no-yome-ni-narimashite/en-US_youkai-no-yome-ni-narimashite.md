@@ -1,5 +1,7 @@
 # Youkai no Yome ni Narimashite
 
+![youkai-no-yome-ni-narimashite](https://cdn.myanimelist.net/images/manga/3/207029.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

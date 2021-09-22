@@ -1,5 +1,7 @@
 # Yuta-san wa Mama Naranai!
 
+![yuta-san-wa-mama-naranai](https://cdn.myanimelist.net/images/manga/3/196157.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

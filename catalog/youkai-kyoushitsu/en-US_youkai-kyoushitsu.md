@@ -1,5 +1,7 @@
 # Youkai Kyoushitsu
 
+![youkai-kyoushitsu](https://cdn.myanimelist.net/images/manga/1/149388.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

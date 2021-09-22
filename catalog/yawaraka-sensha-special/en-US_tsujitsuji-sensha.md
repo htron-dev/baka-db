@@ -1,5 +1,7 @@
 # Tsujitsuji Sensha
 
+![tsujitsuji-sensha](https://cdn.myanimelist.net/images/anime/1916/115585.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: つじつじ戦車

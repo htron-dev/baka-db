@@ -1,5 +1,7 @@
 # Yamada-kun to 7-nin no Majo: Mou Hitotsu no Suzaku-sai
 
+![yamada-kun-to-7-nin-no-majo-mou-hitotsu-no-suzaku-sai](https://cdn.myanimelist.net/images/anime/1079/104630.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 山田くんと 7 人の魔女 OAD

@@ -1,5 +1,7 @@
 # Yakunyan
 
+![yakunyan](https://cdn.myanimelist.net/images/manga/3/171048.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

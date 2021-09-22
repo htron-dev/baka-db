@@ -1,5 +1,7 @@
 # Yumeimo: Ikenai Himitsu wa Yume no Naka
 
+![yumeimo-ikenai-himitsu-wa-yume-no-naka](https://cdn.myanimelist.net/images/manga/1/169757.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

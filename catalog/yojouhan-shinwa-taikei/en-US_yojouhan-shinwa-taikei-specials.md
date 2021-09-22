@@ -1,5 +1,7 @@
 # Yojouhan Shinwa Taikei Specials
 
+![yojouhan-shinwa-taikei-specials](https://cdn.myanimelist.net/images/anime/1065/91991.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: 四畳半神話大系

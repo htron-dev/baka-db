@@ -1,5 +1,7 @@
 # Yami ni Hau Mono
 
+![yami-ni-hau-mono](https://cdn.myanimelist.net/images/manga/3/192971.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

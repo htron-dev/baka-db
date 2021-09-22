@@ -1,5 +1,7 @@
 # Yuri Pop
 
+![yuri-pop](https://cdn.myanimelist.net/images/manga/2/169371.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

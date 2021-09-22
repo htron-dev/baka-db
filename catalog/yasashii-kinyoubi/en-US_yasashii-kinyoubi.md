@@ -1,5 +1,7 @@
 # Yasashii Kinyoubi
 
+![yasashii-kinyoubi](https://cdn.myanimelist.net/images/anime/12/58107.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 優しい金曜日

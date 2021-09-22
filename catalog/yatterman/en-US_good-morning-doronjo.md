@@ -1,5 +1,7 @@
 # Good Morning!!! Doronjo
 
+![good-morning-doronjo](https://cdn.myanimelist.net/images/anime/2/76387.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 243
 -   **original-name**: グッド・モーニング!!!ドロンジョ

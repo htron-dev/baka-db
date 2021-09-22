@@ -1,5 +1,7 @@
 # Yes It's Me
 
+![yes-its-me](https://cdn.myanimelist.net/images/manga/3/25421.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

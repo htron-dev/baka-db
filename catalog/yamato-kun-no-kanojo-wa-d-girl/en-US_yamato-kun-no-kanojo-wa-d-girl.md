@@ -1,5 +1,7 @@
 # Yamato-kun no Kanojo wa D Girl
 
+![yamato-kun-no-kanojo-wa-d-girl](https://cdn.myanimelist.net/images/manga/1/178503.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

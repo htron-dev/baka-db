@@ -1,5 +1,7 @@
 # Yagate Koisuru Vivi Lane
 
+![yagate-koisuru-vivi-lane](https://cdn.myanimelist.net/images/manga/3/196025.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 26

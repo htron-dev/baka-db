@@ -1,5 +1,7 @@
 # Youkai Watch
 
+![youkai-watch](https://cdn.myanimelist.net/images/manga/2/120599.jpg)
+
 -   **type**: manga
 -   **original-name**: 妖怪ウォッチ
 -   **start-date**: 2012-12-15

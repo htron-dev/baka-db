@@ -1,5 +1,7 @@
 # Yume no Hoshi no Button Nose
 
+![yume-no-hoshi-no-button-nose](https://cdn.myanimelist.net/images/anime/13/74470.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 夢の星のボタンノーズ

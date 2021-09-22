@@ -1,5 +1,7 @@
 # Yobidashi Hajime
 
+![yobidashi-hajime](https://cdn.myanimelist.net/images/manga/5/34932.jpg)
+
 -   **type**: manga
 -   **original-name**: 呼出し一
 -   **start-date**: 2010-01-20

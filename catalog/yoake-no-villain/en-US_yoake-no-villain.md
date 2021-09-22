@@ -1,5 +1,7 @@
 # Yoake no Villain
 
+![yoake-no-villain](https://cdn.myanimelist.net/images/manga/2/173102.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 夜明けのヴィラン
 -   **start-date**: 2016-02-25

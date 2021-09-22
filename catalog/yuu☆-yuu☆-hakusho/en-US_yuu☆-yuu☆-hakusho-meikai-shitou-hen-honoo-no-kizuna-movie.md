@@ -1,5 +1,7 @@
 # Yuu☆Yuu☆Hakusho: Meikai Shitou-hen - Honoo no Kizuna
 
+![yuu☆-yuu☆-hakusho-meikai-shitou-hen-honoo-no-kizuna](https://cdn.myanimelist.net/images/anime/11/14592.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 幽 ☆ 遊 ☆ 白書 冥界死闘篇 炎の絆

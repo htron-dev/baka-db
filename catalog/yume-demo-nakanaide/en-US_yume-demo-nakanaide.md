@@ -1,5 +1,7 @@
 # Yume demo Nakanaide
 
+![yume-demo-nakanaide](https://cdn.myanimelist.net/images/manga/1/224562.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

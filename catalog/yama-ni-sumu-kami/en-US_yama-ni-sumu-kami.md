@@ -1,5 +1,7 @@
 # Yama ni Sumu Kami
 
+![yama-ni-sumu-kami](https://cdn.myanimelist.net/images/manga/2/20780.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

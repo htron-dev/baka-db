@@ -1,5 +1,7 @@
 # Yasashisa Endless
 
+![yasashisa-endless](https://cdn.myanimelist.net/images/manga/2/124373.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: やさしさエンドレス

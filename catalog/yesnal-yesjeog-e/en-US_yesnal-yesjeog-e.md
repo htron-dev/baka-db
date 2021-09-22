@@ -1,5 +1,7 @@
 # Yesnal Yesjeog-e
 
+![yesnal-yesjeog-e](https://cdn.myanimelist.net/images/anime/1081/115324.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 옛날 옛적에

@@ -1,5 +1,7 @@
 # Yuri-iro Coordinate: Futari no Kiss Moyou
 
+![yuri-iro-coordinate-futari-no-kiss-moyou](https://cdn.myanimelist.net/images/manga/2/168873.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

@@ -1,5 +1,7 @@
 # Yonin no Nibiiro
 
+![yonin-no-nibiiro](https://cdn.myanimelist.net/images/manga/2/246721.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

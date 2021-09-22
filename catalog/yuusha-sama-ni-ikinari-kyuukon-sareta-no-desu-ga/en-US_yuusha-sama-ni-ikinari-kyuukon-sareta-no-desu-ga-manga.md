@@ -1,5 +1,7 @@
 # Yuusha-sama ni Ikinari Kyuukon sareta no desu ga
 
+![yuusha-sama-ni-ikinari-kyuukon-sareta-no-desu-ga](https://cdn.myanimelist.net/images/manga/3/186480.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

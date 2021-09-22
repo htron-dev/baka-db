@@ -1,5 +1,7 @@
 # Youkai Hunter
 
+![youkai-hunter](https://cdn.myanimelist.net/images/manga/2/222554.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

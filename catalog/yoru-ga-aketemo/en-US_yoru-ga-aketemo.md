@@ -1,5 +1,7 @@
 # Yoru ga Aketemo
 
+![yoru-ga-aketemo](https://cdn.myanimelist.net/images/manga/1/166351.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

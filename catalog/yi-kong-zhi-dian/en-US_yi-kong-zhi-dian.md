@@ -1,5 +1,7 @@
 # Yi Kong Zhi Dian
 
+![yi-kong-zhi-dian](https://cdn.myanimelist.net/images/anime/1278/93261.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: 翼空之巅

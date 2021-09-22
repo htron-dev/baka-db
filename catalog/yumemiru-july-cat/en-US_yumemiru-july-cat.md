@@ -1,5 +1,7 @@
 # Yumemiru July Cat
 
+![yumemiru-july-cat](https://cdn.myanimelist.net/images/manga/1/16833.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Youkoso. Wakaba-sou e
 
+![youkoso-wakaba-sou-e](https://cdn.myanimelist.net/images/manga/3/207244.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 27

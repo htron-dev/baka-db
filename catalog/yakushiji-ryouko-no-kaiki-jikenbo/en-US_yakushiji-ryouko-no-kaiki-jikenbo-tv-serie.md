@@ -1,5 +1,7 @@
 # Yakushiji Ryouko no Kaiki Jikenbo
 
+![yakushiji-ryouko-no-kaiki-jikenbo](https://cdn.myanimelist.net/images/anime/9/75426.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 薬師寺涼子の怪奇事件簿

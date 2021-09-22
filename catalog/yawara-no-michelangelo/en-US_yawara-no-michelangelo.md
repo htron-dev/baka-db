@@ -1,5 +1,7 @@
 # Yawara no Michelangelo
 
+![yawara-no-michelangelo](https://cdn.myanimelist.net/images/manga/2/201602.jpg)
+
 -   **type**: manga
 -   **original-name**: 柔のミケランジェロ
 -   **start-date**: 2017-10-06

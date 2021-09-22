@@ -1,5 +1,7 @@
 # Yeon-ae Halujeon
 
+![yeon-ae-halujeon](https://cdn.myanimelist.net/images/anime/1935/109014.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 연애하루전

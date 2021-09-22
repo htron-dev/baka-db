@@ -1,5 +1,7 @@
 # Yurumates 3D
 
+![yurumates-3-d](https://cdn.myanimelist.net/images/anime/3/36705.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ゆるめいつ 3 でぃ

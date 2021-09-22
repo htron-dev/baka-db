@@ -1,5 +1,7 @@
 # Yotteke! Otoko Mura
 
+![yotteke-otoko-mura](https://cdn.myanimelist.net/images/manga/1/30445.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

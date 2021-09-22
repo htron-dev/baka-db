@@ -1,5 +1,7 @@
 # YataMomo
 
+![yata-momo](https://cdn.myanimelist.net/images/manga/2/155664.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

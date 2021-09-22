@@ -1,5 +1,7 @@
 # Yu☆Gi☆Oh! Arc-V
 
+![yu☆-gi☆-oh-arc-v](https://cdn.myanimelist.net/images/anime/10/62939.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 148
 -   **original-name**: 遊 ☆ 戯 ☆ 王　アーク・ファイブ ARC-V

@@ -1,5 +1,7 @@
 # Yami no Koutaishi
 
+![yami-no-koutaishi](https://cdn.myanimelist.net/images/manga/1/28900.jpg)
+
 -   **type**: manga
 -   **original-name**: 闇の皇太子
 

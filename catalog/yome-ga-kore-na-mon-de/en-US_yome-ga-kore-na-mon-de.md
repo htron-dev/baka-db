@@ -1,5 +1,7 @@
 # Yome ga Kore na mon de.
 
+![yome-ga-kore-na-mon-de](https://cdn.myanimelist.net/images/manga/3/113883.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

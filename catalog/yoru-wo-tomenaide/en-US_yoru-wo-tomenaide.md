@@ -1,5 +1,7 @@
 # Yoru wo Tomenaide
 
+![yoru-wo-tomenaide](https://cdn.myanimelist.net/images/manga/2/171830.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

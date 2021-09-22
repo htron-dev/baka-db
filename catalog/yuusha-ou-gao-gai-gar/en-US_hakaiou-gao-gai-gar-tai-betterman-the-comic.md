@@ -1,5 +1,7 @@
 # Hakaiou: GaoGaiGar tai Betterman the Comic
 
+![hakaiou-gao-gai-gar-tai-betterman-the-comic](https://cdn.myanimelist.net/images/manga/3/226543.jpg)
+
 -   **type**: manga
 -   **original-name**: 覇界王～ガオガイガー対ベターマン～ the COMIC
 -   **start-date**: 2018-09-25

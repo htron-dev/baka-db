@@ -1,5 +1,7 @@
 # Youkoso Genkai Shuuraku e!
 
+![youkoso-genkai-shuuraku-e](https://cdn.myanimelist.net/images/manga/2/154623.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 20

@@ -1,5 +1,7 @@
 # Yuusha ga Shuraba Sugite Sekai wo Sukutteru Baai ja Nai
 
+![yuusha-ga-shuraba-sugite-sekai-wo-sukutteru-baai-ja-nai](https://cdn.myanimelist.net/images/manga/1/165427.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 勇者が修羅場すぎて世界を救ってる場合じゃない
 -   **start-date**: 2015-10-30

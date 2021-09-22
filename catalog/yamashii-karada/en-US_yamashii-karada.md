@@ -1,5 +1,7 @@
 # Yamashii Karada
 
+![yamashii-karada](https://cdn.myanimelist.net/images/manga/3/79565.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: やましいからだ

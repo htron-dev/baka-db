@@ -1,5 +1,7 @@
 # Yoakemono
 
+![yoakemono](https://cdn.myanimelist.net/images/manga/1/145349.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

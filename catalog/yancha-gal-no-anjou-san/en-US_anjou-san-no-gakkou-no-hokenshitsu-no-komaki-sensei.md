@@ -1,5 +1,7 @@
 # Anjou-san no Gakkou no Hokenshitsu no Komaki-sensei
 
+![anjou-san-no-gakkou-no-hokenshitsu-no-komaki-sensei](https://cdn.myanimelist.net/images/manga/2/237851.jpg)
+
 -   **type**: manga
 -   **original-name**: 安城さんの学校の保健室の小牧先生
 -   **start-date**: 2019-05-13

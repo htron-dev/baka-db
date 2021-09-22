@@ -1,5 +1,7 @@
 # Yodaka no Hoshi
 
+![yodaka-no-hoshi](https://cdn.myanimelist.net/images/anime/11/58331.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: よだかの星

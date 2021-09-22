@@ -1,5 +1,7 @@
 # Youkai Watch Movie 3: Soratobu Kujira to Double Sekai no Daibouken da Nyan!
 
+![youkai-watch-movie-3-soratobu-kujira-to-double-sekai-no-daibouken-da-nyan](https://cdn.myanimelist.net/images/anime/10/86783.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 妖怪ウォッチ 空飛ぶクジラとダブル世界の大冒険だニャン！

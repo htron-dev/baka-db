@@ -1,5 +1,7 @@
 # Yururizumu
 
+![yururizumu](https://cdn.myanimelist.net/images/manga/3/131629.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

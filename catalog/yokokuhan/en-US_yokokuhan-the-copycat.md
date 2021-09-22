@@ -1,5 +1,7 @@
 # Yokokuhan: The Copycat
 
+![yokokuhan-the-copycat](https://cdn.myanimelist.net/images/manga/2/159022.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

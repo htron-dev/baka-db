@@ -1,5 +1,7 @@
 # Yami kara no Shoutaijou
 
+![yami-kara-no-shoutaijou](https://cdn.myanimelist.net/images/manga/2/48899.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

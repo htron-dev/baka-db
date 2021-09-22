@@ -1,5 +1,7 @@
 # Yorokobi Sono Te ni Ochiru, Miwaku no Biki-tachi
 
+![yorokobi-sono-te-ni-ochiru-miwaku-no-biki-tachi](https://cdn.myanimelist.net/images/manga/1/194667.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 悦びその手に堕ちる、魅惑の美姫たち

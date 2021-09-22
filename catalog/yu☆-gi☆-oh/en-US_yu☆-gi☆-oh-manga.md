@@ -1,5 +1,7 @@
 # Yu☆Gi☆Oh!
 
+![yu☆-gi☆-oh](https://cdn.myanimelist.net/images/manga/4/126293.jpg)
+
 -   **type**: manga
 -   **volumes**: 38
 -   **chapters**: 343

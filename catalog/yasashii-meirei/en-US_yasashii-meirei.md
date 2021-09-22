@@ -1,5 +1,7 @@
 # Yasashii Meirei
 
+![yasashii-meirei](https://cdn.myanimelist.net/images/manga/2/193049.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

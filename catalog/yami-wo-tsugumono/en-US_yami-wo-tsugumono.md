@@ -1,5 +1,7 @@
 # Yami wo Tsugumono
 
+![yami-wo-tsugumono](https://cdn.myanimelist.net/images/manga/3/41027.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 闇を継ぐもの

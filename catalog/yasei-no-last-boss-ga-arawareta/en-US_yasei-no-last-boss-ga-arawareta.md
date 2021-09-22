@@ -1,5 +1,7 @@
 # Yasei no Last Boss ga Arawareta!
 
+![yasei-no-last-boss-ga-arawareta](https://cdn.myanimelist.net/images/manga/2/199575.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 9
 -   **original-name**: 野生のラスボスが現れた！

@@ -1,5 +1,7 @@
 # Yasoukyoku
 
+![yasoukyoku](https://cdn.myanimelist.net/images/manga/1/2946.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

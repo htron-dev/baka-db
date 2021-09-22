@@ -1,5 +1,7 @@
 # Yama no Kanata no Kimi no Gakkou
 
+![yama-no-kanata-no-kimi-no-gakkou](https://cdn.myanimelist.net/images/manga/2/197988.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

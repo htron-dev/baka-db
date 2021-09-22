@@ -1,5 +1,7 @@
 # Yuusha no Kokoroe
 
+![yuusha-no-kokoroe](https://cdn.myanimelist.net/images/manga/3/163914.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 24

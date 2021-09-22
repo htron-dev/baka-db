@@ -1,5 +1,7 @@
 # Yoiko
 
+![yoiko](https://cdn.myanimelist.net/images/anime/11/47727.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 20
 -   **original-name**: よいこ

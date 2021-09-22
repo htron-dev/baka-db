@@ -1,5 +1,7 @@
 # Yuki to Sumi
 
+![yuki-to-sumi](https://cdn.myanimelist.net/images/manga/3/198479.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

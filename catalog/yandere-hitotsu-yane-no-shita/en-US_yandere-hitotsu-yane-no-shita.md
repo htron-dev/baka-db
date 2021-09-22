@@ -1,5 +1,7 @@
 # Yandere Hitotsu Yane no Shita
 
+![yandere-hitotsu-yane-no-shita](https://cdn.myanimelist.net/images/manga/1/194564.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Yasashii dake Ja Tarinakute
 
+![yasashii-dake-ja-tarinakute](https://cdn.myanimelist.net/images/manga/3/17472.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 優しいだけじゃ足りなくて

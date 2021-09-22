@@ -1,5 +1,7 @@
 # Yellow Heart
 
+![yellow-heart](https://cdn.myanimelist.net/images/manga/5/19676.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 28

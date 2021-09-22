@@ -1,5 +1,7 @@
 # Yuridori Midori
 
+![yuridori-midori](https://cdn.myanimelist.net/images/manga/2/150749.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

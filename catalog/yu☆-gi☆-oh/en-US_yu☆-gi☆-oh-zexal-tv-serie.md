@@ -1,5 +1,7 @@
 # Yu☆Gi☆Oh! Zexal
 
+![yu☆-gi☆-oh-zexal](https://cdn.myanimelist.net/images/anime/4/40295.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 73
 -   **original-name**: 遊 ☆ 戯 ☆ 王 ZEXAL

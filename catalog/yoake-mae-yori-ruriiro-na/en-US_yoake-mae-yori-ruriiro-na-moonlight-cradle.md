@@ -1,5 +1,7 @@
 # Yoake Mae yori Ruriiro na: Moonlight Cradle
 
+![yoake-mae-yori-ruriiro-na-moonlight-cradle](https://cdn.myanimelist.net/images/manga/3/36810.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 夜明け前より瑠璃色な-Moonlight Cradle-

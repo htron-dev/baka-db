@@ -1,5 +1,7 @@
 # Youkai Ningen Bem: Part II
 
+![youkai-ningen-bem-part-ii](https://cdn.myanimelist.net/images/anime/1173/94675.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 妖怪人間ベム パート II

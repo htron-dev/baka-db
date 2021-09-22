@@ -1,5 +1,7 @@
 # Yuusha no Musume to Debabouchou
 
+![yuusha-no-musume-to-debabouchou](https://cdn.myanimelist.net/images/manga/2/169132.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

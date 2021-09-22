@@ -1,5 +1,7 @@
 # Youkai na Hana-kun wa Kansatsu sareteiru.
 
+![youkai-na-hana-kun-wa-kansatsu-sareteiru](https://cdn.myanimelist.net/images/manga/1/231685.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

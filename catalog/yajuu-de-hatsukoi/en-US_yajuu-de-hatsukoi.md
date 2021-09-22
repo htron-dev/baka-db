@@ -1,5 +1,7 @@
 # Yajuu de Hatsukoi
 
+![yajuu-de-hatsukoi](https://cdn.myanimelist.net/images/manga/2/29989.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

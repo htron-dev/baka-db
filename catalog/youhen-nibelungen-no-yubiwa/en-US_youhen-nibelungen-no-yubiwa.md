@@ -1,5 +1,7 @@
 # Youhen Nibelungen no Yubiwa
 
+![youhen-nibelungen-no-yubiwa](https://cdn.myanimelist.net/images/manga/2/27624.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

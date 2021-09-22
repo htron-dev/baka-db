@@ -1,5 +1,7 @@
 # Yume yori Suteki na
 
+![yume-yori-suteki-na](https://cdn.myanimelist.net/images/manga/3/73341.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

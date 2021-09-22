@@ -1,5 +1,7 @@
 # Yasashiku! Guuruguru Maki
 
+![yasashiku-guuruguru-maki](https://cdn.myanimelist.net/images/manga/2/156887.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 21

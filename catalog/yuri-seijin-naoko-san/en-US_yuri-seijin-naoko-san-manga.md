@@ -1,5 +1,7 @@
 # Yuri Seijin Naoko-san
 
+![yuri-seijin-naoko-san](https://cdn.myanimelist.net/images/manga/1/211572.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 110

@@ -1,5 +1,7 @@
 # Yasuda-kun to Sono Megimi
 
+![yasuda-kun-to-sono-megimi](https://cdn.myanimelist.net/images/manga/1/151655.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 27

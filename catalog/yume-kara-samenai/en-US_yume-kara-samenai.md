@@ -1,5 +1,7 @@
 # Yume kara, Samenai
 
+![yume-kara-samenai](https://cdn.myanimelist.net/images/anime/4/27220.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 夢から、さめない

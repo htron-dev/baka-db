@@ -1,5 +1,7 @@
 # Yin Yang Shi: Ping An Wu Yu 2nd Season
 
+![yin-yang-shi-ping-an-wu-yu-2nd-season](https://cdn.myanimelist.net/images/anime/1687/103549.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 阴阳师：平安物语 第 2 季

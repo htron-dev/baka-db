@@ -1,5 +1,7 @@
 # Yukimura-sensei to Kei-kun
 
+![yukimura-sensei-to-kei-kun](https://cdn.myanimelist.net/images/manga/3/89097.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

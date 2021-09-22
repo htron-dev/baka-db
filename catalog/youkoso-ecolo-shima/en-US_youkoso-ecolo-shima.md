@@ -1,5 +1,7 @@
 # Youkoso! Ecolo Shima
 
+![youkoso-ecolo-shima](https://cdn.myanimelist.net/images/anime/13/84975.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ようこそ！エコロ島

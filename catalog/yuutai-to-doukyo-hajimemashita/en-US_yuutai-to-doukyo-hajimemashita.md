@@ -1,5 +1,7 @@
 # Yuutai to Doukyo Hajimemashita.
 
+![yuutai-to-doukyo-hajimemashita](https://cdn.myanimelist.net/images/manga/2/174158.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

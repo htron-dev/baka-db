@@ -1,5 +1,7 @@
 # Young, Alive, in Love
 
+![young-alive-in-love](https://cdn.myanimelist.net/images/manga/2/142855.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 25

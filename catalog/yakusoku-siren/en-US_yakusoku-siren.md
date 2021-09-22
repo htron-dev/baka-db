@@ -1,5 +1,7 @@
 # Yakusoku Siren
 
+![yakusoku-siren](https://cdn.myanimelist.net/images/manga/1/19642.jpg)
+
 -   **type**: manga
 -   **chapters**: 6
 -   **original-name**: 約束サイレン

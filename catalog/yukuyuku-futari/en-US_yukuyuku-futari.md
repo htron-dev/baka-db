@@ -1,5 +1,7 @@
 # Yukuyuku Futari
 
+![yukuyuku-futari](https://cdn.myanimelist.net/images/manga/3/212855.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

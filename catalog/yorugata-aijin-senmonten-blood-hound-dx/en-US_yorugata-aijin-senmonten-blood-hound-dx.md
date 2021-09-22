@@ -1,5 +1,7 @@
 # Yorugata Aijin Senmonten Blood Hound DX
 
+![yorugata-aijin-senmonten-blood-hound-dx](https://cdn.myanimelist.net/images/manga/1/186858.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

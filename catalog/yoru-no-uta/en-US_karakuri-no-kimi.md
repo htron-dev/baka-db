@@ -1,5 +1,7 @@
 # Karakuri no Kimi
 
+![karakuri-no-kimi](https://cdn.myanimelist.net/images/anime/1/1658.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: からくりの君

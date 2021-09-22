@@ -1,5 +1,7 @@
 # Youjo to Scoop to Maganou
 
+![youjo-to-scoop-to-maganou](https://cdn.myanimelist.net/images/manga/1/239824.jpg)
+
 -   **type**: manga
 -   **original-name**: 幼女とスコップと魔眼王
 -   **start-date**: 2020-04-09

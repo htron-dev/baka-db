@@ -1,5 +1,7 @@
 # Yankee to Yandere no Karera ni wa Tomodachi ga Inai
 
+![yankee-to-yandere-no-karera-ni-wa-tomodachi-ga-inai](https://cdn.myanimelist.net/images/manga/3/157514.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 33

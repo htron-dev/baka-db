@@ -1,5 +1,7 @@
 # Yasashii Lion
 
+![yasashii-lion](https://cdn.myanimelist.net/images/anime/1238/112799.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: やさしいライオン

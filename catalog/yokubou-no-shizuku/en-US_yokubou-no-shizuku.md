@@ -1,5 +1,7 @@
 # Yokubou no Shizuku
 
+![yokubou-no-shizuku](https://cdn.myanimelist.net/images/manga/1/84633.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

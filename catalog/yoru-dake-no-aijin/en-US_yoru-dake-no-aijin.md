@@ -1,5 +1,7 @@
 # Yoru dake no Aijin
 
+![yoru-dake-no-aijin](https://cdn.myanimelist.net/images/manga/1/247190.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 夜だけの愛人

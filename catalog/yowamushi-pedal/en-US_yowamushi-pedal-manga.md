@@ -1,5 +1,7 @@
 # Yowamushi Pedal
 
+![yowamushi-pedal](https://cdn.myanimelist.net/images/manga/5/143695.jpg)
+
 -   **type**: manga
 -   **original-name**: 弱虫ペダル
 -   **start-date**: 2008-02-07

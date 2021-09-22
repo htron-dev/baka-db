@@ -1,5 +1,7 @@
 # Yami Shibai 6
 
+![yami-shibai-6](https://cdn.myanimelist.net/images/anime/1911/95045.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 闇芝居 6 期

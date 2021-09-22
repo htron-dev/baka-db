@@ -1,5 +1,7 @@
 # Yuureisen Chronicle
 
+![yuureisen-chronicle](https://cdn.myanimelist.net/images/manga/2/176808.jpg)
+
 -   **type**: manga
 -   **original-name**: 幽霊船クロニクル
 -   **start-date**: 2015-11-24

@@ -1,5 +1,7 @@
 # Yaneura no Majo
 
+![yaneura-no-majo](https://cdn.myanimelist.net/images/manga/2/149547.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

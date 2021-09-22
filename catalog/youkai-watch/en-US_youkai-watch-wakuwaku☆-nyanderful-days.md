@@ -1,5 +1,7 @@
 # Youkai Watch: Wakuwaku☆Nyanderful Days
 
+![youkai-watch-wakuwaku☆-nyanderful-days](https://cdn.myanimelist.net/images/manga/3/163310.jpg)
+
 -   **type**: manga
 -   **original-name**: 妖怪ウォッチ～わくわく ☆ にゃんだふるデイズ～
 -   **start-date**: 2013-12-27

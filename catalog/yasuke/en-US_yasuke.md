@@ -1,5 +1,7 @@
 # Yasuke
 
+![yasuke](https://cdn.myanimelist.net/images/anime/1684/114647.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: YASUKE －ヤスケ－

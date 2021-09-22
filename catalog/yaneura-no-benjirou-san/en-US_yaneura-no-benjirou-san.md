@@ -1,5 +1,7 @@
 # Yaneura no Benjirou-san
 
+![yaneura-no-benjirou-san](https://cdn.myanimelist.net/images/manga/1/227641.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

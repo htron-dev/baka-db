@@ -1,5 +1,7 @@
 # Yutori Yakuza
 
+![yutori-yakuza](https://cdn.myanimelist.net/images/manga/3/236886.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ゆとりやくざ

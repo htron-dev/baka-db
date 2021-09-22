@@ -1,5 +1,7 @@
 # Yami Kariudo
 
+![yami-kariudo](https://cdn.myanimelist.net/images/manga/2/171242.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 25

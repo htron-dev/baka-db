@@ -1,5 +1,7 @@
 # Yuu☆Yuu☆Hakusho Picture Drama
 
+![yuu☆-yuu☆-hakusho-picture-drama](https://cdn.myanimelist.net/images/anime/5/19920.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 幽 ☆ 遊 ☆ 白書

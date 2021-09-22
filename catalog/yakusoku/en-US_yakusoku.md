@@ -1,5 +1,7 @@
 # Yakusoku
 
+![yakusoku](https://cdn.myanimelist.net/images/anime/13/72934.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: やくそく

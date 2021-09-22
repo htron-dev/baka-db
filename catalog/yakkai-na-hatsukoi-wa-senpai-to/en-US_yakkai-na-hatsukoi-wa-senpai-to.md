@@ -1,5 +1,7 @@
 # Yakkai na Hatsukoi wa... Senpai to
 
+![yakkai-na-hatsukoi-wa-senpai-to](https://cdn.myanimelist.net/images/manga/1/226722.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

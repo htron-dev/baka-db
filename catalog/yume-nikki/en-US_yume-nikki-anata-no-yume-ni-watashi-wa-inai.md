@@ -1,5 +1,7 @@
 # Yume Nikki: Anata no Yume ni Watashi wa Inai
 
+![yume-nikki-anata-no-yume-ni-watashi-wa-inai](https://cdn.myanimelist.net/images/manga/2/101147.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 30

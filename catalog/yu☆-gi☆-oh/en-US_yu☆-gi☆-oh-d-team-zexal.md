@@ -1,5 +1,7 @@
 # Yu☆Gi☆Oh!: D Team Zexal
 
+![yu☆-gi☆-oh-d-team-zexal](https://cdn.myanimelist.net/images/manga/2/85457.jpg)
+
 -   **type**: manga
 -   **chapters**: 24
 -   **original-name**: 遊 ☆ 戯 ☆ 王 D チーム・ゼアル

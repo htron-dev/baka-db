@@ -1,5 +1,7 @@
 # Yuusha-sama no Osananajimi to Iu Settei no Make Heroine ni Tensei shita node, Chougoushi ni Job Change Shimasu.
 
+![yuusha-sama-no-osananajimi-to-iu-settei-no-make-heroine-ni-tensei-shita-node-chougoushi-ni-job-change-shimasu](https://cdn.myanimelist.net/images/manga/3/234733.jpg)
+
 -   **type**: manga
 -   **original-name**: 勇者様の幼馴染という職業〈せってい〉の負けヒロインに転生したので、調合師にジョブチェンジします。
 -   **start-date**: 2020-03-06

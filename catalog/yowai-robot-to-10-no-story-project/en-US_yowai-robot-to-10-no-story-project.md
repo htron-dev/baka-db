@@ -1,5 +1,7 @@
 # Yowai Robot to 10 no Story Project
 
+![yowai-robot-to-10-no-story-project](https://cdn.myanimelist.net/images/anime/3/84318.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: 弱いロボットと 10 のストーリー Project

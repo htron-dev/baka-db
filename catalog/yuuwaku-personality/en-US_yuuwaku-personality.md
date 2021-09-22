@@ -1,5 +1,7 @@
 # Yuuwaku Personality
 
+![yuuwaku-personality](https://cdn.myanimelist.net/images/manga/1/199747.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

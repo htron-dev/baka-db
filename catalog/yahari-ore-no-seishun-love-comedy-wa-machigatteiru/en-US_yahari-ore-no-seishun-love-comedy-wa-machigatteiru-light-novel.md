@@ -1,5 +1,7 @@
 # Yahari Ore no Seishun Love Comedy wa Machigatteiru.
 
+![yahari-ore-no-seishun-love-comedy-wa-machigatteiru](https://cdn.myanimelist.net/images/manga/1/122461.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 18
 -   **chapters**: 168

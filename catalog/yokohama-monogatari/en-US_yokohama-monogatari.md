@@ -1,5 +1,7 @@
 # Yokohama Monogatari
 
+![yokohama-monogatari](https://cdn.myanimelist.net/images/manga/1/180342.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **original-name**: ヨコハマ物語

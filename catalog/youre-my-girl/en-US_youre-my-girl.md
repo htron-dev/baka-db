@@ -1,5 +1,7 @@
 # You're My Girl
 
+![youre-my-girl](https://cdn.myanimelist.net/images/manga/2/18206.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 7
 -   **original-name**: 넌 내 여자야

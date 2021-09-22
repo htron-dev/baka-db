@@ -1,5 +1,7 @@
 # Yabasugiru Shimai ni Ejiki ni Sareta Ore
 
+![yabasugiru-shimai-ni-ejiki-ni-sareta-ore](https://cdn.myanimelist.net/images/manga/3/193655.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

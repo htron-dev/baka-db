@@ -1,5 +1,7 @@
 # Yaoyorozu no Kami ni Tou
 
+![yaoyorozu-no-kami-ni-tou](https://cdn.myanimelist.net/images/manga/3/127959.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 4
 -   **chapters**: 33

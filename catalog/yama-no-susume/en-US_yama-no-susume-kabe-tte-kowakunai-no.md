@@ -1,5 +1,7 @@
 # Yama no Susume: Kabe tte Kowakunai no?
 
+![yama-no-susume-kabe-tte-kowakunai-no](https://cdn.myanimelist.net/images/anime/6/46515.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ヤマノススメ 壁って怖くないの？

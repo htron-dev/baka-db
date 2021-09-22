@@ -1,5 +1,7 @@
 # Yukiwatari
 
+![yukiwatari](https://cdn.myanimelist.net/images/anime/8/74507.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 雪渡り

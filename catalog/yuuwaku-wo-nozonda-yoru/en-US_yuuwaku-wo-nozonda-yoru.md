@@ -1,5 +1,7 @@
 # Yuuwaku wo Nozonda Yoru
 
+![yuuwaku-wo-nozonda-yoru](https://cdn.myanimelist.net/images/manga/1/232155.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 誘惑を望んだ夜

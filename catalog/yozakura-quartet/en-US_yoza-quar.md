@@ -1,5 +1,7 @@
 # Yoza-Quar!
 
+![yoza-quar](https://cdn.myanimelist.net/images/anime/6/55779.jpg)
+
 -   **type**: special
 -   **episodes**: 6
 -   **original-name**: よざカル！

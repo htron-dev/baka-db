@@ -1,5 +1,7 @@
 # Yurumates 3D OVA
 
+![yurumates-3-d-ova](https://cdn.myanimelist.net/images/anime/12/53753.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ゆるめいつ 3 でぃ OVA

@@ -1,5 +1,7 @@
 # Yamase wa Doko e Itta?
 
+![yamase-wa-doko-e-itta](https://cdn.myanimelist.net/images/manga/3/213190.jpg)
+
 -   **type**: manga
 -   **original-name**: 山瀬はどこへ行った？
 -   **start-date**: 2018-02-13

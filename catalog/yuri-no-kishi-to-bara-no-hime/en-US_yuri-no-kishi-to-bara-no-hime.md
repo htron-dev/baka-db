@@ -1,5 +1,7 @@
 # Yuri no Kishi to Bara no Hime
 
+![yuri-no-kishi-to-bara-no-hime](https://cdn.myanimelist.net/images/manga/1/162062.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

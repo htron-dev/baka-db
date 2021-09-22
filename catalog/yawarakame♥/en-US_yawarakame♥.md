@@ -1,5 +1,7 @@
 # Yawarakame♥
 
+![yawarakame♥](https://cdn.myanimelist.net/images/anime/8/18410.jpg)
+
 -   **type**: ona
 -   **episodes**: 26
 -   **original-name**: やわらかめ ♥

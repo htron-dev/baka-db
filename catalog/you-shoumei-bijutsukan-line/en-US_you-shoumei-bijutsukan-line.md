@@ -1,5 +1,7 @@
 # You Shoumei Bijutsukan Line
 
+![you-shoumei-bijutsukan-line](https://cdn.myanimelist.net/images/anime/9/13678.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 葉祥明美術館 LINE

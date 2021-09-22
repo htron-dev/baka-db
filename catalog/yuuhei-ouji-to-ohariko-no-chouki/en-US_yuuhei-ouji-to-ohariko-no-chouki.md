@@ -1,5 +1,7 @@
 # Yuuhei Ouji to Ohariko no Chouki
 
+![yuuhei-ouji-to-ohariko-no-chouki](https://cdn.myanimelist.net/images/manga/1/198026.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 幽閉王子とお針子の寵姫

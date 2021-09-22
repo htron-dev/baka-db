@@ -1,5 +1,7 @@
 # Yukiguni no Oujisama
 
+![yukiguni-no-oujisama](https://cdn.myanimelist.net/images/anime/6/60323.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 雪国の王子さま

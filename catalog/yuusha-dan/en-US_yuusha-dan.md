@@ -1,5 +1,7 @@
 # Yuusha Dan
 
+![yuusha-dan](https://cdn.myanimelist.net/images/manga/2/36118.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

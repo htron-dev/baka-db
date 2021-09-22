@@ -1,5 +1,7 @@
 # Ikasama Life Game
 
+![ikasama-life-game](https://cdn.myanimelist.net/images/manga/1/222943.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

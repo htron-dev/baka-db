@@ -1,5 +1,7 @@
 # Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau
 
+![yuusha-party-wo-tsuihou-sareta-beast-tamer-saikyoushu-no-nekomimi-shoujo-to-deau](https://cdn.myanimelist.net/images/manga/3/234990.jpg)
+
 -   **type**: manga
 -   **original-name**: 勇者パーティーを追放されたビーストテイマー、最強種の猫耳少女と出会う
 -   **start-date**: 2019-01-30

@@ -1,5 +1,7 @@
 # Yoki, Koto, Kiku.
 
+![yoki-koto-kiku](https://cdn.myanimelist.net/images/manga/1/151463.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

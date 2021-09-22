@@ -1,5 +1,7 @@
 # Yuu☆Yuu☆Hakusho (Movie)
 
+![yuu☆-yuu☆-hakusho-movie](https://cdn.myanimelist.net/images/anime/1023/90757.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 幽 ☆ 遊 ☆ 白書

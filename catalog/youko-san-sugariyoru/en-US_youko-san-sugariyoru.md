@@ -1,5 +1,7 @@
 # Youko-san, Sugariyoru.
 
+![youko-san-sugariyoru](https://cdn.myanimelist.net/images/manga/2/217500.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 55

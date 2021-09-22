@@ -1,5 +1,7 @@
 # Hieda Reijirou no Field Note yori: Yomi kara no Koe - Youkai Hunter
 
+![hieda-reijirou-no-field-note-yori-yomi-kara-no-koe-youkai-hunter](https://cdn.myanimelist.net/images/manga/1/83629.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 稗田礼二郎のフィールド・ノートより 黄泉からの声 妖怪ハンター

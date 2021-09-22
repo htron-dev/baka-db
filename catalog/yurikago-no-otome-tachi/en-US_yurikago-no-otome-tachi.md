@@ -1,5 +1,7 @@
 # Yurikago no Otome-tachi
 
+![yurikago-no-otome-tachi](https://cdn.myanimelist.net/images/manga/2/149751.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Yurikon
 
+![yurikon](https://cdn.myanimelist.net/images/manga/2/211753.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ゆりこん

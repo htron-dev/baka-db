@@ -1,5 +1,7 @@
 # You're So Cool
 
+![youre-so-cool](https://cdn.myanimelist.net/images/manga/5/30242.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 6
 -   **chapters**: 34

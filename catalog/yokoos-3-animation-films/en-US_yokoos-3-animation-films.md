@@ -1,5 +1,7 @@
 # Yokoo's 3 Animation Films
 
+![yokoos-3-animation-films](https://cdn.myanimelist.net/images/anime/11/23848.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 横尾忠則 アニメーション集 64-65

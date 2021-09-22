@@ -1,5 +1,7 @@
 # Yakuza no Oooyabun ga Youjo ni Umarekawatta Hanashi
 
+![yakuza-no-oooyabun-ga-youjo-ni-umarekawatta-hanashi](https://cdn.myanimelist.net/images/manga/2/228419.jpg)
+
 -   **type**: manga
 -   **original-name**: ヤクザの大親分が幼女に生まれ変わった話
 -   **start-date**: 2019-08-03

@@ -1,5 +1,7 @@
 # Yuru Camp△ Specials
 
+![yuru-camp△-specials](https://cdn.myanimelist.net/images/anime/1258/91059.jpg)
+
 -   **type**: special
 -   **episodes**: 3
 -   **original-name**: ゆるキャン △

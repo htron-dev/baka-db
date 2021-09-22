@@ -1,5 +1,7 @@
 # Yakouun no Sarissa
 
+![yakouun-no-sarissa](https://cdn.myanimelist.net/images/manga/1/228868.jpg)
+
 -   **type**: manga
 -   **original-name**: 夜光雲のサリッサ
 -   **start-date**: 2017-11-13

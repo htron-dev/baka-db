@@ -1,5 +1,7 @@
 # Yuki no Iro
 
+![yuki-no-iro](https://cdn.myanimelist.net/images/manga/1/235304.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 30

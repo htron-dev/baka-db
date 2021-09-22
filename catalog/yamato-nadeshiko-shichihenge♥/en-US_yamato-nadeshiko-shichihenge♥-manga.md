@@ -1,5 +1,7 @@
 # Yamato Nadeshiko Shichihenge♥
 
+![yamato-nadeshiko-shichihenge♥](https://cdn.myanimelist.net/images/manga/2/173084.jpg)
+
 -   **type**: manga
 -   **volumes**: 36
 -   **chapters**: 148

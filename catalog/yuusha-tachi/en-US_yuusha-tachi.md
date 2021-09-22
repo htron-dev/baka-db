@@ -1,5 +1,7 @@
 # Yuusha-tachi
 
+![yuusha-tachi](https://cdn.myanimelist.net/images/manga/3/215135.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Yuru Yuri Comic Anthology
 
+![yuru-yuri-comic-anthology](https://cdn.myanimelist.net/images/manga/3/167902.jpg)
+
 -   **type**: manga
 -   **original-name**: ゆるゆり コミックアンソロジー
 -   **start-date**: 2011-01-08

@@ -1,5 +1,7 @@
 # Yappa ai deshou
 
+![yappa-ai-deshou](https://cdn.myanimelist.net/images/manga/2/2893.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

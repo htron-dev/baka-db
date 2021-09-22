@@ -1,5 +1,7 @@
 # Kenyuu Densetsu Yaiba
 
+![kenyuu-densetsu-yaiba](https://cdn.myanimelist.net/images/anime/5/71953.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 52
 -   **original-name**: 剣勇伝説ＹＡＩＢＡ

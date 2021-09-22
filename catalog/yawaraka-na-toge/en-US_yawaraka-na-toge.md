@@ -1,5 +1,7 @@
 # Yawaraka na Toge
 
+![yawaraka-na-toge](https://cdn.myanimelist.net/images/manga/1/31277.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: やわらかな棘

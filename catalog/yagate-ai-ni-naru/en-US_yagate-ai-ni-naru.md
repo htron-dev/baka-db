@@ -1,5 +1,7 @@
 # Yagate, Ai ni Naru
 
+![yagate-ai-ni-naru](https://cdn.myanimelist.net/images/manga/3/120865.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

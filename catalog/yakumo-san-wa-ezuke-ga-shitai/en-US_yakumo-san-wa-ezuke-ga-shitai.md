@@ -1,5 +1,7 @@
 # Yakumo-san wa Ezuke ga Shitai.
 
+![yakumo-san-wa-ezuke-ga-shitai](https://cdn.myanimelist.net/images/manga/2/195334.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 89

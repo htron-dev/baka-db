@@ -1,5 +1,7 @@
 # Yuugen Kaisha: Jiken File 00 - Hajimari wa Ayashiku mo Hanayaka ni
 
+![yuugen-kaisha-jiken-file-00-hajimari-wa-ayashiku-mo-hanayaka-ni](https://cdn.myanimelist.net/images/anime/10/87489.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 幽幻怪社 事件ファイル 00 始まりは妖しくも華やかに

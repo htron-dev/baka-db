@@ -1,5 +1,7 @@
 # Yoru no Choucho to Doukyo Keikaku
 
+![yoru-no-choucho-to-doukyo-keikaku](https://cdn.myanimelist.net/images/manga/3/164394.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 夜のちょうちょと同居計画!

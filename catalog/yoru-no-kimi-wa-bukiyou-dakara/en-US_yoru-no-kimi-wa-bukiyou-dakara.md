@@ -1,5 +1,7 @@
 # Yoru no Kimi wa Bukiyou dakara
 
+![yoru-no-kimi-wa-bukiyou-dakara](https://cdn.myanimelist.net/images/manga/2/142241.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

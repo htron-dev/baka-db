@@ -1,5 +1,7 @@
 # Your My Hero
 
+![your-my-hero](https://cdn.myanimelist.net/images/manga/1/150808.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 13

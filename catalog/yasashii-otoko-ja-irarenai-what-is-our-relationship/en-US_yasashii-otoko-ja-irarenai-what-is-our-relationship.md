@@ -1,5 +1,7 @@
 # Yasashii Otoko ja Irarenai: What Is Our Relationship?
 
+![yasashii-otoko-ja-irarenai-what-is-our-relationship](https://cdn.myanimelist.net/images/manga/2/193007.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

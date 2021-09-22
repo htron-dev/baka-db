@@ -1,5 +1,7 @@
 # Yuri Danshi
 
+![yuri-danshi](https://cdn.myanimelist.net/images/manga/3/128981.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 26

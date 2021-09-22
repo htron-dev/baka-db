@@ -1,5 +1,7 @@
 # Yuri Sensei wa Kyou mo Joukigen
 
+![yuri-sensei-wa-kyou-mo-joukigen](https://cdn.myanimelist.net/images/manga/1/27323.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

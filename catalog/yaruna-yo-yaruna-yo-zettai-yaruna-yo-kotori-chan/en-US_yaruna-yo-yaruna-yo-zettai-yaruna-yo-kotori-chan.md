@@ -1,5 +1,7 @@
 # Yaruna yo Yaruna yo Zettai Yaruna yo Kotori-chan
 
+![yaruna-yo-yaruna-yo-zettai-yaruna-yo-kotori-chan](https://cdn.myanimelist.net/images/manga/2/221779.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

@@ -1,5 +1,7 @@
 # Yuukai Boushi Animation Eiga: Akazukin-chan Chanto Check
 
+![yuukai-boushi-animation-eiga-akazukin-chan-chanto-check](https://cdn.myanimelist.net/images/anime/9/87609.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 誘拐防止アニメーション映画 赤ずきんちゃん ちゃんとチェック

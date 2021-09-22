@@ -1,5 +1,7 @@
 # Yes ka No ka Hanbun ka
 
+![yes-ka-no-ka-hanbun-ka](https://cdn.myanimelist.net/images/manga/2/227388.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 36

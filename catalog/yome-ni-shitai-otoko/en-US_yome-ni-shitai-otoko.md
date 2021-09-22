@@ -1,5 +1,7 @@
 # Yome ni Shitai Otoko
 
+![yome-ni-shitai-otoko](https://cdn.myanimelist.net/images/manga/3/226116.jpg)
+
 -   **type**: manga
 -   **original-name**: 嫁にしたい男
 -   **start-date**: 2018-08-28

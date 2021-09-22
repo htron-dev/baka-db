@@ -1,5 +1,7 @@
 # YanYan Machiko Specials
 
+![yan-yan-machiko-specials](https://cdn.myanimelist.net/images/anime/4/78980.jpg)
+
 -   **type**: special
 -   **episodes**: 5
 -   **original-name**: やんやんマチコ

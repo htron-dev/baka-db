@@ -1,5 +1,7 @@
 # Yo! Daitouryou Trap-kun
 
+![yo-daitouryou-trap-kun](https://cdn.myanimelist.net/images/manga/1/243007.jpg)
+
 -   **type**: manga
 -   **chapters**: 9
 -   **original-name**: よ！大統領トラップくん

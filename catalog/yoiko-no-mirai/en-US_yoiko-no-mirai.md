@@ -1,5 +1,7 @@
 # Yoiko no Mirai!
 
+![yoiko-no-mirai](https://cdn.myanimelist.net/images/manga/2/74029.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 28

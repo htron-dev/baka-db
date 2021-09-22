@@ -1,5 +1,7 @@
 # Yuukyuu no Kanata
 
+![yuukyuu-no-kanata](https://cdn.myanimelist.net/images/manga/2/27538.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

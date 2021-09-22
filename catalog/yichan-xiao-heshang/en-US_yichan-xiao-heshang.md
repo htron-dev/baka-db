@@ -1,5 +1,7 @@
 # Yichan Xiao Heshang
 
+![yichan-xiao-heshang](https://cdn.myanimelist.net/images/anime/1312/111111.jpg)
+
 -   **type**: ona
 -   **original-name**: 一禅小和尚
 -   **start-date**: 2016-12-15

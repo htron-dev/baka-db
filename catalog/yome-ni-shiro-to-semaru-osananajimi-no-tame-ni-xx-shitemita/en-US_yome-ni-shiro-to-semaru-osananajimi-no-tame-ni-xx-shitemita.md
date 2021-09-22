@@ -1,5 +1,7 @@
 # Yome ni Shiro to Semaru Osananajimi no Tame ni XX Shitemita
 
+![yome-ni-shiro-to-semaru-osananajimi-no-tame-ni-xx-shitemita](https://cdn.myanimelist.net/images/manga/2/175942.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **original-name**: 嫁にしろと迫る幼馴染みのために ×× してみた

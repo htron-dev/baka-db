@@ -1,5 +1,7 @@
 # Yukiko no Hourensou
 
+![yukiko-no-hourensou](https://cdn.myanimelist.net/images/manga/2/183124.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

@@ -1,5 +1,7 @@
 # Yajin Tensei
 
+![yajin-tensei](https://cdn.myanimelist.net/images/manga/3/232191.jpg)
+
 -   **type**: manga
 -   **original-name**: 野人転生
 -   **start-date**: 2019-05-27

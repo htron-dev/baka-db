@@ -1,5 +1,7 @@
 # Yuusha-sama Futarime.: Goirai ni Natta Yuusha wa Genzai Kaidenpa wo Jushin shite Iruka Onnanoko Seibun ga Tarinai Tame, Bouken Shimasen.
 
+![yuusha-sama-futarime-goirai-ni-natta-yuusha-wa-genzai-kaidenpa-wo-jushin-shite-iruka-onnanoko-seibun-ga-tarinai-tame-bouken-shimasen](https://cdn.myanimelist.net/images/manga/1/161104.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

@@ -1,5 +1,7 @@
 # Yu☆Gi☆Oh!: OCG Structures
 
+![yu☆-gi☆-oh-ocg-structures](https://cdn.myanimelist.net/images/manga/1/226739.jpg)
+
 -   **type**: manga
 -   **original-name**: 遊 ☆ 戯 ☆ 王 OCG ストラクチャーズ
 -   **start-date**: 2019-06-21

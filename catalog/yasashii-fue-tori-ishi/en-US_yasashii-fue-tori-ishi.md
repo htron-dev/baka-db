@@ -1,5 +1,7 @@
 # Yasashii Fue, Tori, Ishi
 
+![yasashii-fue-tori-ishi](https://cdn.myanimelist.net/images/anime/2/71809.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: やさしい笛、鳥、石

@@ -1,5 +1,7 @@
 # Yuusha no Mago to Maou no Musume
 
+![yuusha-no-mago-to-maou-no-musume](https://cdn.myanimelist.net/images/manga/3/210974.jpg)
+
 -   **type**: manga
 -   **original-name**: 勇者の孫と魔王の娘
 -   **start-date**: 2017-05-01

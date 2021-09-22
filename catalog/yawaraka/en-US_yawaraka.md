@@ -1,5 +1,7 @@
 # Yawaraka
 
+![yawaraka](https://cdn.myanimelist.net/images/manga/2/158099.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: やわらか

@@ -1,5 +1,7 @@
 # Yume de Aetara
 
+![yume-de-aetara](https://cdn.myanimelist.net/images/manga/3/212.jpg)
+
 -   **type**: manga
 -   **volumes**: 17
 -   **chapters**: 143

@@ -1,5 +1,7 @@
 # Yabai Me de Minna yo!!
 
+![yabai-me-de-minna-yo](https://cdn.myanimelist.net/images/manga/1/91825.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

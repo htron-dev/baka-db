@@ -1,5 +1,7 @@
 # Youkai Karuta
 
+![youkai-karuta](https://cdn.myanimelist.net/images/manga/3/205526.jpg)
+
 -   **type**: manga
 -   **original-name**: ようかい歌留多
 -   **start-date**: 2016-10-17

@@ -1,5 +1,7 @@
 # Yuujin Character wa Taihen desu ka?
 
+![yuujin-character-wa-taihen-desu-ka](https://cdn.myanimelist.net/images/manga/1/234434.jpg)
+
 -   **type**: manga
 -   **original-name**: 友人キャラは大変ですか?
 -   **start-date**: 2019-11-30

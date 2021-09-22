@@ -1,5 +1,7 @@
 # Yoru no Nightingale
 
+![yoru-no-nightingale](https://cdn.myanimelist.net/images/manga/1/244583.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

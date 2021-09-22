@@ -1,5 +1,7 @@
 # Yabou Enbukyoku
 
+![yabou-enbukyoku](https://cdn.myanimelist.net/images/manga/2/128819.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **original-name**: 野望円舞曲

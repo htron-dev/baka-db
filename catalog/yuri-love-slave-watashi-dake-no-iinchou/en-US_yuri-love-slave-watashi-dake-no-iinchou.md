@@ -1,5 +1,7 @@
 # Yuri Love Slave: Watashi dake no Iinchou
 
+![yuri-love-slave-watashi-dake-no-iinchou](https://cdn.myanimelist.net/images/manga/2/189658.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

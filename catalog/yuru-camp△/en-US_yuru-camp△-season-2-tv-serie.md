@@ -1,5 +1,7 @@
 # Yuru Camp△ Season 2
 
+![yuru-camp△-season-2](https://cdn.myanimelist.net/images/anime/1255/110636.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ゆるキャン △ SEASON2

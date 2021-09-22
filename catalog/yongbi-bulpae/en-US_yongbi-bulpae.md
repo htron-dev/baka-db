@@ -1,5 +1,7 @@
 # Yongbi Bulpae
 
+![yongbi-bulpae](https://cdn.myanimelist.net/images/manga/1/88293.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 23
 -   **original-name**: 용비불패

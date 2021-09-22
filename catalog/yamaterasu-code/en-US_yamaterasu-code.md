@@ -1,5 +1,7 @@
 # Yamaterasu Code
 
+![yamaterasu-code](https://cdn.myanimelist.net/images/manga/3/204690.jpg)
+
 -   **type**: manga
 -   **chapters**: 10
 -   **original-name**: ヤマテラス・コード

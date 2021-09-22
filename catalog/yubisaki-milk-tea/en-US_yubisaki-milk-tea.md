@@ -1,5 +1,7 @@
 # Yubisaki Milk Tea
 
+![yubisaki-milk-tea](https://cdn.myanimelist.net/images/manga/2/173786.jpg)
+
 -   **type**: manga
 -   **volumes**: 10
 -   **chapters**: 89

@@ -1,5 +1,7 @@
 # Yoru dake no Joou
 
+![yoru-dake-no-joou](https://cdn.myanimelist.net/images/manga/3/182917.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 1

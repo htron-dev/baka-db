@@ -1,5 +1,7 @@
 # Yubisaki to Renren
 
+![yubisaki-to-renren](https://cdn.myanimelist.net/images/manga/2/226867.jpg)
+
 -   **type**: manga
 -   **original-name**: ゆびさきと恋々
 -   **start-date**: 2019-07-24

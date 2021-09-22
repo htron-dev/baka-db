@@ -1,5 +1,7 @@
 # Youki no Otomurai
 
+![youki-no-otomurai](https://cdn.myanimelist.net/images/manga/2/185987.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

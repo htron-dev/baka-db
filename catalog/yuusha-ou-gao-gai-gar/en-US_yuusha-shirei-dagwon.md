@@ -1,5 +1,7 @@
 # Yuusha Shirei Dagwon
 
+![yuusha-shirei-dagwon](https://cdn.myanimelist.net/images/anime/1548/91071.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 48
 -   **original-name**: 勇者指令ダグオン

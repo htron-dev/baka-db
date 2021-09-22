@@ -1,5 +1,7 @@
 # Yuri Tengoku
 
+![yuri-tengoku](https://cdn.myanimelist.net/images/manga/3/13736.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 百合天国 ガールズ系学園アンソロジー

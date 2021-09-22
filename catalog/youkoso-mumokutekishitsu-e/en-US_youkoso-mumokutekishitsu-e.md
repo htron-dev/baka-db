@@ -1,5 +1,7 @@
 # Youkoso Mumokutekishitsu e!
 
+![youkoso-mumokutekishitsu-e](https://cdn.myanimelist.net/images/manga/1/146343.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ようこそ無目的室へ!

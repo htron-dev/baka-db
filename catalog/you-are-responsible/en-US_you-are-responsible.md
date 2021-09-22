@@ -1,5 +1,7 @@
 # You are Responsible!
 
+![you-are-responsible](https://cdn.myanimelist.net/images/manga/3/158550.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 9
 -   **original-name**: 너책임질거야

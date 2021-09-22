@@ -1,5 +1,7 @@
 # Youkai Ningen Bem
 
+![youkai-ningen-bem](https://cdn.myanimelist.net/images/anime/10/64521.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 妖怪人間ベム

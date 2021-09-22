@@ -1,5 +1,7 @@
 # Yuugata made ni Kaeru yo
 
+![yuugata-made-ni-kaeru-yo](https://cdn.myanimelist.net/images/manga/3/234349.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

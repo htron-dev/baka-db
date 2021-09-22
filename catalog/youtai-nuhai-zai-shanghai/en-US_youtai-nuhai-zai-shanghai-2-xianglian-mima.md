@@ -1,5 +1,7 @@
 # Youtai Nuhai Zai Shanghai 2: Xianglian Mima
 
+![youtai-nuhai-zai-shanghai-2-xianglian-mima](https://cdn.myanimelist.net/images/anime/6/89106.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 犹太女孩在上海 2：项链密码

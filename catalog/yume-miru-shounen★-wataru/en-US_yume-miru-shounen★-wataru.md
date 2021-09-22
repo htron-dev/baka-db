@@ -1,5 +1,7 @@
 # Yume Miru Shounen★Wataru
 
+![yume-miru-shounen★-wataru](https://cdn.myanimelist.net/images/manga/1/38290.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

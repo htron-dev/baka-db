@@ -1,5 +1,7 @@
 # Bem Movie: Become Human
 
+![bem-movie-become-human](https://cdn.myanimelist.net/images/anime/1078/108925.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 BEM 〜BECOME HUMAN〜

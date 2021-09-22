@@ -1,5 +1,7 @@
 # Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.
 
+![yuusha-party-ni-kawaii-ko-ga-ita-node-kokuhaku-shitemita](https://cdn.myanimelist.net/images/manga/1/225597.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 35

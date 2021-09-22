@@ -1,5 +1,7 @@
 # Yumemi no E
 
+![yumemi-no-e](https://cdn.myanimelist.net/images/anime/1133/102524.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ゆめみのえ

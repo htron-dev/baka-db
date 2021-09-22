@@ -1,5 +1,7 @@
 # Gekiganger 3: The Movie
 
+![gekiganger-3-the-movie](https://cdn.myanimelist.net/images/anime/1343/94110.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ゲキ・ガンガー３　熱血大決戦

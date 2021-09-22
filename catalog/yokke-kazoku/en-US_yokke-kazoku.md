@@ -1,5 +1,7 @@
 # Yokke Kazoku
 
+![yokke-kazoku](https://cdn.myanimelist.net/images/manga/3/139881.jpg)
+
 -   **type**: manga
 -   **original-name**: よっけ家族
 -   **start-date**: 2012-07-11

@@ -1,5 +1,7 @@
 # Yume-iro Pâtissière: Mune Kyun Tropical Island!
 
+![yume-iro-patissiere-mune-kyun-tropical-island](https://cdn.myanimelist.net/images/anime/4/64869.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 夢色パティシエール 胸キュントロピカルアイランド!

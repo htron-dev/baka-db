@@ -1,5 +1,7 @@
 # Yoru wa Mijikashi Aruke yo Otome
 
+![yoru-wa-mijikashi-aruke-yo-otome](https://cdn.myanimelist.net/images/manga/1/181415.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 21

@@ -1,5 +1,7 @@
 # Yuugeki Shoujo Yuumi
 
+![yuugeki-shoujo-yuumi](https://cdn.myanimelist.net/images/manga/4/35507.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 遊撃少女遊美

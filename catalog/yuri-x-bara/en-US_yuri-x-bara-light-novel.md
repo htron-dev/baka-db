@@ -1,5 +1,7 @@
 # Yuri x Bara
 
+![yuri-x-bara](https://cdn.myanimelist.net/images/manga/3/128985.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 百合 × 薔薇
 -   **start-date**: 2011-03-25

@@ -1,5 +1,7 @@
 # Densetsu no Yuusha Da Garn
 
+![densetsu-no-yuusha-da-garn](https://cdn.myanimelist.net/images/anime/1206/105983.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 46
 -   **original-name**: 伝説の勇者ダ・ガーン

@@ -1,5 +1,7 @@
 # Yuzu Bunko Club
 
+![yuzu-bunko-club](https://cdn.myanimelist.net/images/manga/2/23679.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 30

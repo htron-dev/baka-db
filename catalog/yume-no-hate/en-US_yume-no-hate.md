@@ -1,5 +1,7 @@
 # Yume no Hate
 
+![yume-no-hate](https://cdn.myanimelist.net/images/manga/2/39713.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 夢の果て

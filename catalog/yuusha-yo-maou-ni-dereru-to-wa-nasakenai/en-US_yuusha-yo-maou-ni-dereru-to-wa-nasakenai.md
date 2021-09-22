@@ -1,5 +1,7 @@
 # Yuusha yo, Maou ni Dereru to wa Nasakenai!
 
+![yuusha-yo-maou-ni-dereru-to-wa-nasakenai](https://cdn.myanimelist.net/images/manga/3/161102.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 勇者よ、魔王にデレるとは情けない!

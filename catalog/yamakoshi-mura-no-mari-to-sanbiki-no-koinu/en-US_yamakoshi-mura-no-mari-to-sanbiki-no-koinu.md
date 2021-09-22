@@ -1,5 +1,7 @@
 # Yamakoshi Mura no Mari to Sanbiki no Koinu
 
+![yamakoshi-mura-no-mari-to-sanbiki-no-koinu](https://cdn.myanimelist.net/images/anime/1540/112442.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 山古志村のマリと三匹の子犬

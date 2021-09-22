@@ -1,5 +1,7 @@
 # Youkoso Boku desu
 
+![youkoso-boku-desu](https://cdn.myanimelist.net/images/anime/1053/105833.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ようこそぼくです

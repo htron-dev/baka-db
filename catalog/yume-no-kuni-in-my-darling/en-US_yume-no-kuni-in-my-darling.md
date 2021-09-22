@@ -1,5 +1,7 @@
 # Yume no Kuni in My Darling
 
+![yume-no-kuni-in-my-darling](https://cdn.myanimelist.net/images/manga/2/174104.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

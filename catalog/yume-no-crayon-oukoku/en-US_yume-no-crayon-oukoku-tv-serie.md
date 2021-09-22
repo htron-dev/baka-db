@@ -1,5 +1,7 @@
 # Yume no Crayon Oukoku
 
+![yume-no-crayon-oukoku](https://cdn.myanimelist.net/images/anime/11/28591.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 70
 -   **original-name**: 夢のクレヨン王国

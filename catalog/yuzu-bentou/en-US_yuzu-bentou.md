@@ -1,5 +1,7 @@
 # Yuzu Bentou
 
+![yuzu-bentou](https://cdn.myanimelist.net/images/manga/2/229655.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

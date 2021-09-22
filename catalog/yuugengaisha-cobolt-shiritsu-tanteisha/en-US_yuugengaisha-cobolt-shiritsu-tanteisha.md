@@ -1,5 +1,7 @@
 # Yuugengaisha Cobolt Shiritsu Tanteisha
 
+![yuugengaisha-cobolt-shiritsu-tanteisha](https://cdn.myanimelist.net/images/manga/1/18565.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 有限会社コボルト私立探偵社

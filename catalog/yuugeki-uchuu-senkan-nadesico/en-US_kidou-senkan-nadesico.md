@@ -1,5 +1,7 @@
 # Kidou Senkan Nadesico
 
+![kidou-senkan-nadesico](https://cdn.myanimelist.net/images/anime/3/53955.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 機動戦艦ナデシコ

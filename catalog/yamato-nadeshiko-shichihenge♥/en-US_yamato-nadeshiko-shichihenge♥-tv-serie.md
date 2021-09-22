@@ -1,5 +1,7 @@
 # Yamato Nadeshiko Shichihenge♥
 
+![yamato-nadeshiko-shichihenge♥](https://cdn.myanimelist.net/images/anime/11/7701.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 25
 -   **original-name**: ヤマトナデシコ七変化 ♥

@@ -1,5 +1,7 @@
 # Yume Watari Pulcinella
 
+![yume-watari-pulcinella](https://cdn.myanimelist.net/images/manga/3/64815.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: 夢渡りのプルチネッラ

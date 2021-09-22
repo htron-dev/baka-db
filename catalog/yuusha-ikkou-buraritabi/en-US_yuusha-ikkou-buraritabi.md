@@ -1,5 +1,7 @@
 # Yuusha Ikkou Buraritabi
 
+![yuusha-ikkou-buraritabi](https://cdn.myanimelist.net/images/manga/3/168127.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 勇者一行ぶらり旅
 -   **start-date**: 2015-12-01

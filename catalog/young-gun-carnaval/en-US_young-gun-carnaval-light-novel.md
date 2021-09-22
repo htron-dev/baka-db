@@ -1,5 +1,7 @@
 # Young Gun Carnaval
 
+![young-gun-carnaval](https://cdn.myanimelist.net/images/manga/1/80225.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 12
 -   **original-name**: ヤングガン・カルナバル

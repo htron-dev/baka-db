@@ -1,5 +1,7 @@
 # Yochi Nouryoku Manga: Kunou Chiyo
 
+![yochi-nouryoku-manga-kunou-chiyo](https://cdn.myanimelist.net/images/manga/2/224817.jpg)
+
 -   **type**: manga
 -   **original-name**: 予知能力まんが・九能ちよ
 -   **start-date**: 2019-11-12

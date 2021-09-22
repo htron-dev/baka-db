@@ -1,5 +1,7 @@
 # Yu Qilin Gushi Hui: Jingdian Gushi Zong Dong Yuan
 
+![yu-qilin-gushi-hui-jingdian-gushi-zong-dong-yuan](https://cdn.myanimelist.net/images/anime/1699/115592.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 10
 -   **original-name**: 玉麒麟故事会之经典故事总动员

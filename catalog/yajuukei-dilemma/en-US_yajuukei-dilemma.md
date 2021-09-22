@@ -1,5 +1,7 @@
 # Yajuukei Dilemma
 
+![yajuukei-dilemma](https://cdn.myanimelist.net/images/manga/2/86329.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

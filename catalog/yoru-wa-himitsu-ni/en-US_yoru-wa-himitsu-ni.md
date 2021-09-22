@@ -1,5 +1,7 @@
 # Yoru wa Himitsu ni...
 
+![yoru-wa-himitsu-ni](https://cdn.myanimelist.net/images/manga/2/66795.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

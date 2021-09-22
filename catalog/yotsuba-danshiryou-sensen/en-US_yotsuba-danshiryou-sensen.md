@@ -1,5 +1,7 @@
 # Yotsuba Danshiryou Sensen
 
+![yotsuba-danshiryou-sensen](https://cdn.myanimelist.net/images/manga/2/224024.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

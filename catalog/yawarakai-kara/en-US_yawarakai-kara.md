@@ -1,5 +1,7 @@
 # Yawarakai kara
 
+![yawarakai-kara](https://cdn.myanimelist.net/images/manga/2/6746.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

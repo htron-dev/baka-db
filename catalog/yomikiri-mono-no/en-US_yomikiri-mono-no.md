@@ -1,5 +1,7 @@
 # Yomikiri Mono no...
 
+![yomikiri-mono-no](https://cdn.myanimelist.net/images/manga/3/16788.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: よみきりものの…

@@ -1,5 +1,7 @@
 # Yuki no Onna
 
+![yuki-no-onna](https://cdn.myanimelist.net/images/manga/1/230475.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

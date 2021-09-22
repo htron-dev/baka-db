@@ -1,5 +1,7 @@
 # Yama no Susume: Third Season
 
+![yama-no-susume-third-season](https://cdn.myanimelist.net/images/anime/1070/93809.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: ヤマノススメ サードシーズン

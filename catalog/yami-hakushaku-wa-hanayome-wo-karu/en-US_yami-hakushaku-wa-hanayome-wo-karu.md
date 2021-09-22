@@ -1,5 +1,7 @@
 # Yami Hakushaku wa Hanayome wo Karu
 
+![yami-hakushaku-wa-hanayome-wo-karu](https://cdn.myanimelist.net/images/manga/2/183747.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

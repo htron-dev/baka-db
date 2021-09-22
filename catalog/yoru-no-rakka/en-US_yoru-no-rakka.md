@@ -1,5 +1,7 @@
 # Yoru no Rakka
 
+![yoru-no-rakka](https://cdn.myanimelist.net/images/manga/3/238262.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

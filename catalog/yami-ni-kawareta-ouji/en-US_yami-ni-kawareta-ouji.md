@@ -1,5 +1,7 @@
 # Yami ni Kawareta Ouji
 
+![yami-ni-kawareta-ouji](https://cdn.myanimelist.net/images/manga/1/186018.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

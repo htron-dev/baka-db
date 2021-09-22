@@ -1,5 +1,7 @@
 # Yankee Musashi-san to Oyamada no Kiken na Junjou
 
+![yankee-musashi-san-to-oyamada-no-kiken-na-junjou](https://cdn.myanimelist.net/images/manga/2/245642.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

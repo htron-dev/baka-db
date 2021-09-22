@@ -1,5 +1,7 @@
 # Yokubou no Houshuu: Netorareta Junai
 
+![yokubou-no-houshuu-netorareta-junai](https://cdn.myanimelist.net/images/manga/3/158303.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 8

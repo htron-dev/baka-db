@@ -1,5 +1,7 @@
 # Yume 10 Yoru
 
+![yume-10-yoru](https://cdn.myanimelist.net/images/anime/11/58123.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 夢 10 夜

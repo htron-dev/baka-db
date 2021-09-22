@@ -1,5 +1,7 @@
 # Yuuhi ni Fureru Sono Mae ni
 
+![yuuhi-ni-fureru-sono-mae-ni](https://cdn.myanimelist.net/images/manga/2/194886.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

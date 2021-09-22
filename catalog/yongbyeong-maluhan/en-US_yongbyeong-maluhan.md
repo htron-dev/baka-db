@@ -1,5 +1,7 @@
 # Yongbyeong Maluhan
 
+![yongbyeong-maluhan](https://cdn.myanimelist.net/images/manga/2/207595.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 15
 -   **chapters**: 103

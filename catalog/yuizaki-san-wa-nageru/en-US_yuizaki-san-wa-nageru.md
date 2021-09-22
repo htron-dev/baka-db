@@ -1,5 +1,7 @@
 # Yuizaki-san wa Nageru!
 
+![yuizaki-san-wa-nageru](https://cdn.myanimelist.net/images/manga/1/191158.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 65

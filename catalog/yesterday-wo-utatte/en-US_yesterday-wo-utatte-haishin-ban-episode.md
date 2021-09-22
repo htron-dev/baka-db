@@ -1,5 +1,7 @@
 # Yesterday wo Utatte: Haishin-ban Episode
 
+![yesterday-wo-utatte-haishin-ban-episode](https://cdn.myanimelist.net/images/anime/1919/107275.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: イエスタデイをうたって 配信版エピソード

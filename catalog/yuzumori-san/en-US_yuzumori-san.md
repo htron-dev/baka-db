@@ -1,5 +1,7 @@
 # Yuzumori-san
 
+![yuzumori-san](https://cdn.myanimelist.net/images/manga/1/186042.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 35

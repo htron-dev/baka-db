@@ -1,5 +1,7 @@
 # Youjo Senki
 
+![youjo-senki](https://cdn.myanimelist.net/images/manga/3/186468.jpg)
+
 -   **type**: manga
 -   **original-name**: 幼女戦記
 -   **start-date**: 2016-04-26

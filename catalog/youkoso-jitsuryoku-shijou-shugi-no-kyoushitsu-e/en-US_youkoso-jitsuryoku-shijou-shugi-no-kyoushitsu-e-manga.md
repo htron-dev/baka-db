@@ -1,5 +1,7 @@
 # Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
 
+![youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e](https://cdn.myanimelist.net/images/manga/2/184471.jpg)
+
 -   **type**: manga
 -   **original-name**: ようこそ実力至上主義の教室へ
 -   **start-date**: 2016-01-27

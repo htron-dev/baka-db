@@ -1,5 +1,7 @@
 # Yawaraka Atom
 
+![yawaraka-atom](https://cdn.myanimelist.net/images/anime/8/56203.jpg)
+
 -   **type**: ona
 -   **episodes**: 7
 -   **original-name**: やわらかアトム

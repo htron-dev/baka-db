@@ -1,5 +1,7 @@
 # Yume no Yume
 
+![yume-no-yume](https://cdn.myanimelist.net/images/manga/1/12119.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 夢の夢

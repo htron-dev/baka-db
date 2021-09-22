@@ -1,5 +1,7 @@
 # Yongshi
 
+![yongshi](https://cdn.myanimelist.net/images/anime/12/78993.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 勇士

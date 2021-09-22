@@ -1,5 +1,7 @@
 # Yoiyami ni Kuchizuke
 
+![yoiyami-ni-kuchizuke](https://cdn.myanimelist.net/images/manga/2/199425.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 4

@@ -1,5 +1,7 @@
 # Yonin no Majo to Emerald no Kiss
 
+![yonin-no-majo-to-emerald-no-kiss](https://cdn.myanimelist.net/images/manga/3/163206.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 11

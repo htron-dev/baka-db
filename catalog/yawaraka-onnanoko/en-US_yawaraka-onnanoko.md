@@ -1,5 +1,7 @@
 # Yawaraka Onnanoko
 
+![yawaraka-onnanoko](https://cdn.myanimelist.net/images/manga/2/167970.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

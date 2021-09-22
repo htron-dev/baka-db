@@ -1,5 +1,7 @@
 # Youkai Watch ♪
 
+![youkai-watch-♪](https://cdn.myanimelist.net/images/anime/1281/113405.jpg)
+
 -   **type**: tv-serie
 -   **original-name**: 妖怪ウォッチ ♪
 -   **start-date**: 2021-04-09

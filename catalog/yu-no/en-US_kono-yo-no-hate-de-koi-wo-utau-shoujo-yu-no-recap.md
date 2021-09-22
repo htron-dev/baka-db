@@ -1,5 +1,7 @@
 # Kono Yo no Hate de Koi wo Utau Shoujo YU-NO Recap
 
+![kono-yo-no-hate-de-koi-wo-utau-shoujo-yu-no-recap](https://cdn.myanimelist.net/images/anime/1917/102470.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 特別編「真実は並列世界の果てに～新たなる旅立ちへ～」

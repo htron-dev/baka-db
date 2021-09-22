@@ -1,5 +1,7 @@
 # Yuusha Isagi no Maou Hanatan
 
+![yuusha-isagi-no-maou-hanatan](https://cdn.myanimelist.net/images/manga/1/202185.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 21

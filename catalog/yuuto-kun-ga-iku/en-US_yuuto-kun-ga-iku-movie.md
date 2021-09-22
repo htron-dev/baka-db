@@ -1,5 +1,7 @@
 # Yuuto-kun ga Iku Movie
 
+![yuuto-kun-ga-iku-movie](https://cdn.myanimelist.net/images/anime/4/59177.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 ゆうとくんがいく

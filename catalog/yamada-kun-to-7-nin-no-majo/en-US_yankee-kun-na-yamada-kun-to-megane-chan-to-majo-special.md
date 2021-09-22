@@ -1,5 +1,7 @@
 # Yankee-kun na Yamada-kun to Megane-chan to Majo
 
+![yankee-kun-na-yamada-kun-to-megane-chan-to-majo](https://cdn.myanimelist.net/images/anime/2/73639.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ヤンキー君な山田くんとメガネちゃんと魔女

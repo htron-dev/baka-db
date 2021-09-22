@@ -1,5 +1,7 @@
 # Yaiteru Futari
 
+![yaiteru-futari](https://cdn.myanimelist.net/images/manga/3/238790.jpg)
+
 -   **type**: manga
 -   **original-name**: 焼いてるふたり
 -   **start-date**: 2020-09-24

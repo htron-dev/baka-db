@@ -1,5 +1,7 @@
 # Yuzuko Peppermint
 
+![yuzuko-peppermint](https://cdn.myanimelist.net/images/manga/1/200147.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 61

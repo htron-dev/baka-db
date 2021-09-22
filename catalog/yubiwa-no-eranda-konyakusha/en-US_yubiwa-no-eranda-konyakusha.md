@@ -1,5 +1,7 @@
 # Yubiwa no Eranda Konyakusha
 
+![yubiwa-no-eranda-konyakusha](https://cdn.myanimelist.net/images/manga/2/222675.jpg)
+
 -   **type**: manga
 -   **original-name**: 指輪の選んだ婚約者
 -   **start-date**: 2018-11-06

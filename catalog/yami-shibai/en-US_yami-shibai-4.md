@@ -1,5 +1,7 @@
 # Yami Shibai 4
 
+![yami-shibai-4](https://cdn.myanimelist.net/images/anime/12/83113.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 闇芝居 4 期

@@ -1,5 +1,7 @@
 # Yi Shijie Zhongyao Pu
 
+![yi-shijie-zhongyao-pu](https://cdn.myanimelist.net/images/anime/1789/108202.jpg)
+
 -   **type**: ona
 -   **episodes**: 40
 -   **original-name**: 异世界中药铺

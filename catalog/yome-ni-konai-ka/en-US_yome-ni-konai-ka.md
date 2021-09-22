@@ -1,5 +1,7 @@
 # Yome ni Konai ka
 
+![yome-ni-konai-ka](https://cdn.myanimelist.net/images/manga/3/14060.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 嫁に来ないか

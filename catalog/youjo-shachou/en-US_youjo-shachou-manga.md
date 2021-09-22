@@ -1,5 +1,7 @@
 # Youjo Shachou
 
+![youjo-shachou](https://cdn.myanimelist.net/images/manga/2/236251.jpg)
+
 -   **type**: manga
 -   **original-name**: 幼女社長
 -   **start-date**: 2019-04-26

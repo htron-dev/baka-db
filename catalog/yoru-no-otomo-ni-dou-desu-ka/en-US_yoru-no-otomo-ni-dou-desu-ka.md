@@ -1,5 +1,7 @@
 # Yoru no Otomo ni Dou desu ka?
 
+![yoru-no-otomo-ni-dou-desu-ka](https://cdn.myanimelist.net/images/manga/1/242423.jpg)
+
 -   **type**: manga
 -   **original-name**: 夜のお友にどうですか?
 -   **start-date**: 2020-09-20

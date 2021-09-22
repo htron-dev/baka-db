@@ -1,5 +1,7 @@
 # Yakushoku Distopiary
 
+![yakushoku-distopiary](https://cdn.myanimelist.net/images/manga/1/151194.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 35

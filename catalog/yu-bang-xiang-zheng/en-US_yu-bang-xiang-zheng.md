@@ -1,5 +1,7 @@
 # Yu Bang Xiang Zheng
 
+![yu-bang-xiang-zheng](https://cdn.myanimelist.net/images/anime/9/55681.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 鹬蚌相争

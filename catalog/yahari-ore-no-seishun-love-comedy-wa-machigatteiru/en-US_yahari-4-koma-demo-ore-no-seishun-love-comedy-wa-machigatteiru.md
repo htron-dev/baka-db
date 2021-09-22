@@ -1,5 +1,7 @@
 # Yahari 4-koma demo Ore no Seishun Love Comedy wa Machigatteiru.
 
+![yahari-4-koma-demo-ore-no-seishun-love-comedy-wa-machigatteiru](https://cdn.myanimelist.net/images/manga/3/138455.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: やはり 4 コマでも俺の青春ラブコメはまちがっている。

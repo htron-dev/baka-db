@@ -1,5 +1,7 @@
 # Youkai Watch Movie 6: Youkai Gakuen Y - Neko wa Hero ni Nareru ka
 
+![youkai-watch-movie-6-youkai-gakuen-y-neko-wa-hero-ni-nareru-ka](https://cdn.myanimelist.net/images/anime/1960/106354.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 妖怪ウォッチ 妖怪学園Ｙ 猫は HERO になれるか

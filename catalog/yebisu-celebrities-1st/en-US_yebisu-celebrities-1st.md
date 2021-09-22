@@ -1,5 +1,7 @@
 # Yebisu Celebrities 1st
 
+![yebisu-celebrities-1st](https://cdn.myanimelist.net/images/anime/4/83051.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: YEBISU セレブリティーズ 1st

@@ -1,5 +1,7 @@
 # Kimi wa Boku no Mono
 
+![kimi-wa-boku-no-mono](https://cdn.myanimelist.net/images/manga/3/40534.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

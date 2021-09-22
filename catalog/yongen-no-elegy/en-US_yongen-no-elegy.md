@@ -1,5 +1,7 @@
 # Yongen no Elegy
 
+![yongen-no-elegy](https://cdn.myanimelist.net/images/manga/3/156056.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 24

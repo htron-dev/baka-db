@@ -1,5 +1,7 @@
 # Yurushite Kachou-sama!
 
+![yurushite-kachou-sama](https://cdn.myanimelist.net/images/manga/1/143529.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: ゆるして課長様！

@@ -1,5 +1,7 @@
 # Yama no Susume
 
+![yama-no-susume](https://cdn.myanimelist.net/images/manga/2/171537.jpg)
+
 -   **type**: manga
 -   **original-name**: ヤマノススメ
 -   **start-date**: 2011-08-12

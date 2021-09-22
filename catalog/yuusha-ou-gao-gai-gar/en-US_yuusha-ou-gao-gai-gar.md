@@ -1,5 +1,7 @@
 # Yuusha-Ou GaoGaiGar
 
+![yuusha-ou-gao-gai-gar](https://cdn.myanimelist.net/images/anime/12/21183.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 49
 -   **original-name**: 勇者王ガオガイガー

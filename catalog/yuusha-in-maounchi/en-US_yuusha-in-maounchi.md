@@ -1,5 +1,7 @@
 # Yuusha in Maounchi
 
+![yuusha-in-maounchi](https://cdn.myanimelist.net/images/manga/1/212777.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

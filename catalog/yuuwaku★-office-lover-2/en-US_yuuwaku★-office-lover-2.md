@@ -1,5 +1,7 @@
 # Yuuwaku★Office Lover 2
 
+![yuuwaku★-office-lover-2](https://cdn.myanimelist.net/images/anime/12/89834.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 誘惑 ★ オフィス LOVER2

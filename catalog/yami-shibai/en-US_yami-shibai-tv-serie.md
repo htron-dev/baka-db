@@ -1,5 +1,7 @@
 # Yami Shibai
 
+![yami-shibai](https://cdn.myanimelist.net/images/anime/11/51995.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 闇芝居

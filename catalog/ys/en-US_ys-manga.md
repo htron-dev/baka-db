@@ -1,5 +1,7 @@
 # Ys
 
+![ys](https://cdn.myanimelist.net/images/manga/1/170722.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 29

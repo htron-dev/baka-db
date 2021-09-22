@@ -1,5 +1,7 @@
 # Yuugeki Uchuu Senkan Nadesico
 
+![yuugeki-uchuu-senkan-nadesico](https://cdn.myanimelist.net/images/manga/1/165157.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

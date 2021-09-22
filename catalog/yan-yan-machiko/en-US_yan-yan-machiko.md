@@ -1,5 +1,7 @@
 # YanYan Machiko
 
+![yan-yan-machiko](https://cdn.myanimelist.net/images/anime/9/40785.jpg)
+
 -   **type**: ona
 -   **episodes**: 11
 -   **original-name**: やんやんマチコ

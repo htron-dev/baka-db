@@ -1,5 +1,7 @@
 # Yumemi na Psychic!
 
+![yumemi-na-psychic](https://cdn.myanimelist.net/images/manga/4/13175.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 

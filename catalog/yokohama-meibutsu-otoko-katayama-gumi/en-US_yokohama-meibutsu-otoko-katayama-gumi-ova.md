@@ -1,5 +1,7 @@
 # Yokohama Meibutsu: Otoko Katayama-gumi!
 
+![yokohama-meibutsu-otoko-katayama-gumi](https://cdn.myanimelist.net/images/anime/3/28062.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 横浜名物：男片山組！

@@ -1,5 +1,7 @@
 # Yuureitou
 
+![yuureitou](https://cdn.myanimelist.net/images/manga/2/89667.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 80

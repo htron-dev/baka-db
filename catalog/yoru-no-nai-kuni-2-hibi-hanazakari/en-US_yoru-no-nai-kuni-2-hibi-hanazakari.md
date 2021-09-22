@@ -1,5 +1,7 @@
 # Yoru no Nai Kuni 2: Hibi Hanazakari
 
+![yoru-no-nai-kuni-2-hibi-hanazakari](https://cdn.myanimelist.net/images/manga/1/241805.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 12

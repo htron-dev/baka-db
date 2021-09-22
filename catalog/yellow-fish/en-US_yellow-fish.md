@@ -1,5 +1,7 @@
 # Yellow Fish
 
+![yellow-fish](https://cdn.myanimelist.net/images/anime/1063/108144.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: YELLOW FISH

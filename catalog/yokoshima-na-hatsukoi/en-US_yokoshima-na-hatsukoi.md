@@ -1,5 +1,7 @@
 # Yokoshima na Hatsukoi
 
+![yokoshima-na-hatsukoi](https://cdn.myanimelist.net/images/manga/3/246649.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

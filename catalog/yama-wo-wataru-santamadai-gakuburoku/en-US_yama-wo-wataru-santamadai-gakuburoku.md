@@ -1,5 +1,7 @@
 # Yama wo Wataru: Santamadai Gakuburoku
 
+![yama-wo-wataru-santamadai-gakuburoku](https://cdn.myanimelist.net/images/manga/2/245296.jpg)
+
 -   **type**: manga
 -   **original-name**: 山を渡る -三多摩大岳部録-
 -   **start-date**: 2018-03-15

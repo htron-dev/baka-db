@@ -1,5 +1,7 @@
 # Yoshinaga-sanchi no Gargoyle
 
+![yoshinaga-sanchi-no-gargoyle](https://cdn.myanimelist.net/images/anime/4/21072.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 吉永さん家のガーゴイル

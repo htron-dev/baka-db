@@ -1,5 +1,7 @@
 # Yin Yang Shi: Ping An Wu Yu
 
+![yin-yang-shi-ping-an-wu-yu](https://cdn.myanimelist.net/images/anime/1159/91533.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 阴阳师：平安物语

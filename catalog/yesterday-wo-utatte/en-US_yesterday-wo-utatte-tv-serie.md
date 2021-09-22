@@ -1,5 +1,7 @@
 # Yesterday wo Utatte
 
+![yesterday-wo-utatte](https://cdn.myanimelist.net/images/anime/1553/107721.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: イエスタデイをうたって

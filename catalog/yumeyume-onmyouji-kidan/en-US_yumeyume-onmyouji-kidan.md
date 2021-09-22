@@ -1,5 +1,7 @@
 # Yumeyume: Onmyouji Kidan
 
+![yumeyume-onmyouji-kidan](https://cdn.myanimelist.net/images/manga/1/117281.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 夢々 陰陽師鬼談

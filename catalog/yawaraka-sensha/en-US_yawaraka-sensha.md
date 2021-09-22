@@ -1,5 +1,7 @@
 # Yawaraka Sensha
 
+![yawaraka-sensha](https://cdn.myanimelist.net/images/anime/7/56209.jpg)
+
 -   **type**: ona
 -   **episodes**: 53
 -   **original-name**: やわらか戦車

@@ -1,5 +1,7 @@
 # Yagami-kun no Katei no Jijou
 
+![yagami-kun-no-katei-no-jijou](https://cdn.myanimelist.net/images/manga/5/29976.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **original-name**: 八神くんの家庭の事情

@@ -1,5 +1,7 @@
 # Shin Yami Kariudo
 
+![shin-yami-kariudo](https://cdn.myanimelist.net/images/manga/3/182685.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

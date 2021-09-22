@@ -1,5 +1,7 @@
 # Yowamushi Pedal Movie
 
+![yowamushi-pedal-movie](https://cdn.myanimelist.net/images/anime/10/74402.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 弱虫ペダル

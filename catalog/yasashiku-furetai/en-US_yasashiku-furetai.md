@@ -1,5 +1,7 @@
 # Yasashiku Furetai
 
+![yasashiku-furetai](https://cdn.myanimelist.net/images/manga/1/238254.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

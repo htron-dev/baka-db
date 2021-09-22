@@ -1,5 +1,7 @@
 # Yatogame-chan Kansatsu Nikki
 
+![yatogame-chan-kansatsu-nikki](https://cdn.myanimelist.net/images/manga/2/197713.jpg)
+
 -   **type**: manga
 -   **original-name**: 八十亀ちゃんかんさつにっき
 -   **start-date**: 2016-05-27

@@ -1,5 +1,7 @@
 # Yes!
 
+![yes](https://cdn.myanimelist.net/images/manga/1/163725.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

@@ -1,5 +1,7 @@
 # Yume, Sora Takaku
 
+![yume-sora-takaku](https://cdn.myanimelist.net/images/anime/4/74551.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 夢、空高く

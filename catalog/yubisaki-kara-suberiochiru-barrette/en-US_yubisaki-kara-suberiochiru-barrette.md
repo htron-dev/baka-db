@@ -1,5 +1,7 @@
 # Yubisaki kara Suberiochiru Barrette
 
+![yubisaki-kara-suberiochiru-barrette](https://cdn.myanimelist.net/images/manga/1/241016.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

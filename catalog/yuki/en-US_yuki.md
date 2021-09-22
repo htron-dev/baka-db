@@ -1,5 +1,7 @@
 # Yuki
 
+![yuki](https://cdn.myanimelist.net/images/anime/4/23625.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: ゆき

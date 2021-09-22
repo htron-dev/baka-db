@@ -1,5 +1,7 @@
 # Yokujou Fetishism
 
+![yokujou-fetishism](https://cdn.myanimelist.net/images/manga/1/90071.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 18

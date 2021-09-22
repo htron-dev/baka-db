@@ -1,5 +1,7 @@
 # Yume-iro Pâtissière
 
+![yume-iro-patissiere](https://cdn.myanimelist.net/images/manga/3/150088.jpg)
+
 -   **type**: manga
 -   **volumes**: 12
 -   **original-name**: 夢色パティシエール

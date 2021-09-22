@@ -1,5 +1,7 @@
 # Yamome no Tamago
 
+![yamome-no-tamago](https://cdn.myanimelist.net/images/manga/1/228414.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

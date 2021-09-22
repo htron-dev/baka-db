@@ -1,5 +1,7 @@
 # Hello Kitty no Yuki no Joou
 
+![hello-kitty-no-yuki-no-joou](https://cdn.myanimelist.net/images/anime/10/58703.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ハローキティの雪の女王

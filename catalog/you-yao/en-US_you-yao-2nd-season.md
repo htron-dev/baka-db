@@ -1,5 +1,7 @@
 # You Yao 2nd Season
 
+![you-yao-2nd-season](https://cdn.myanimelist.net/images/anime/1606/114929.jpg)
+
 -   **type**: ona
 -   **original-name**: 有药 第 2 季
 -   **rating**: PG-13 - Teens 13 or older

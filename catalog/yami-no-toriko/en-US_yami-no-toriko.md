@@ -1,5 +1,7 @@
 # Yami no Toriko
 
+![yami-no-toriko](https://cdn.myanimelist.net/images/manga/2/198141.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

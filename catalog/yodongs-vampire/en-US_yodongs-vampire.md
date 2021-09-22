@@ -1,5 +1,7 @@
 # Yodong's Vampire
 
+![yodongs-vampire](https://cdn.myanimelist.net/images/manga/3/6908.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 1
 -   **chapters**: 6

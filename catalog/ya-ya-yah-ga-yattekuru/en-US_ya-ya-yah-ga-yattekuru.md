@@ -1,5 +1,7 @@
 # Ya-ya-yah ga Yattekuru!
 
+![ya-ya-yah-ga-yattekuru](https://cdn.myanimelist.net/images/manga/2/30218.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

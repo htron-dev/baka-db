@@ -1,5 +1,7 @@
 # Yotsunoha
 
+![yotsunoha](https://cdn.myanimelist.net/images/manga/3/62975.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

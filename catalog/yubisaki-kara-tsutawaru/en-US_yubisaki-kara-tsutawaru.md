@@ -1,5 +1,7 @@
 # Yubisaki kara Tsutawaru
 
+![yubisaki-kara-tsutawaru](https://cdn.myanimelist.net/images/manga/1/31659.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 指先から伝わる

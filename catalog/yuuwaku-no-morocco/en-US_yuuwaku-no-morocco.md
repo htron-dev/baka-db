@@ -1,5 +1,7 @@
 # Yuuwaku no Morocco
 
+![yuuwaku-no-morocco](https://cdn.myanimelist.net/images/manga/1/227371.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 誘惑のモロッコ

@@ -1,5 +1,7 @@
 # Yomawari Sensei
 
+![yomawari-sensei](https://cdn.myanimelist.net/images/manga/2/185367.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 45

@@ -1,5 +1,7 @@
 # Yamashii Game no Tsukurikata
 
+![yamashii-game-no-tsukurikata](https://cdn.myanimelist.net/images/manga/1/171719.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 15

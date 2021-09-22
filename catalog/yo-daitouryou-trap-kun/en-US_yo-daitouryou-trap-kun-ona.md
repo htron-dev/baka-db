@@ -1,5 +1,7 @@
 # Yo! Daitouryou Trap-kun
 
+![yo-daitouryou-trap-kun](https://cdn.myanimelist.net/images/anime/6/85448.jpg)
+
 -   **type**: ona
 -   **episodes**: 2
 -   **original-name**: よ！大統領トラップくん

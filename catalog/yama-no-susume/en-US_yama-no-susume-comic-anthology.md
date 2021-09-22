@@ -1,5 +1,7 @@
 # Yama no Susume Comic Anthology
 
+![yama-no-susume-comic-anthology](https://cdn.myanimelist.net/images/manga/1/192218.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

@@ -1,5 +1,7 @@
 # Yuukoku no Rasputin
 
+![yuukoku-no-rasputin](https://cdn.myanimelist.net/images/manga/2/144087.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 53

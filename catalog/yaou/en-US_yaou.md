@@ -1,5 +1,7 @@
 # Yaou
 
+![yaou](https://cdn.myanimelist.net/images/manga/5/147063.jpg)
+
 -   **type**: manga
 -   **volumes**: 29
 -   **original-name**: 夜王 -yaoh-

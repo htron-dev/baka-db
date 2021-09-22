@@ -1,5 +1,7 @@
 # Youma Ryoushu no Ikenie
 
+![youma-ryoushu-no-ikenie](https://cdn.myanimelist.net/images/manga/1/194841.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

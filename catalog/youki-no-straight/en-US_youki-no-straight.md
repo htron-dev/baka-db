@@ -1,5 +1,7 @@
 # Youki no Straight
 
+![youki-no-straight](https://cdn.myanimelist.net/images/manga/2/242624.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 21

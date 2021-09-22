@@ -1,5 +1,7 @@
 # Yadokari
 
+![yadokari](https://cdn.myanimelist.net/images/anime/2/88646.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: YADOKARI

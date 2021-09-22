@@ -1,5 +1,7 @@
 # Yakushiji Ryouko no Kaiki Jikenbo
 
+![yakushiji-ryouko-no-kaiki-jikenbo](https://cdn.myanimelist.net/images/manga/2/155529.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **chapters**: 47

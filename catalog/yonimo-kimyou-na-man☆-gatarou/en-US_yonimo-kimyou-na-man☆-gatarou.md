@@ -1,5 +1,7 @@
 # Yonimo Kimyou na Man☆Gatarou
 
+![yonimo-kimyou-na-man☆-gatarou](https://cdn.myanimelist.net/images/anime/12/75319.jpg)
+
 -   **type**: ova
 -   **episodes**: 8
 -   **original-name**: 世にも奇妙な漫 ☆ 画太郎

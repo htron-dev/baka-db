@@ -1,5 +1,7 @@
 # Youkai Watch Movie 5: Forever Friends
 
+![youkai-watch-movie-5-forever-friends](https://cdn.myanimelist.net/images/anime/1870/100547.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 妖怪ウォッチ FOREVER FRIENDS

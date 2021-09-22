@@ -1,5 +1,7 @@
 # Yu☆Gi☆Oh! VRAINS
 
+![yu☆-gi☆-oh-vrains](https://cdn.myanimelist.net/images/anime/1789/101971.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 120
 -   **original-name**: 遊戯王 VRAINS

@@ -1,5 +1,7 @@
 # Youkai no Chintai Jijou
 
+![youkai-no-chintai-jijou](https://cdn.myanimelist.net/images/manga/3/182431.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 22

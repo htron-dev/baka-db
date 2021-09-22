@@ -1,5 +1,7 @@
 # Yuuga na Kare to Chiisana Kanojo
 
+![yuuga-na-kare-to-chiisana-kanojo](https://cdn.myanimelist.net/images/manga/1/155151.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

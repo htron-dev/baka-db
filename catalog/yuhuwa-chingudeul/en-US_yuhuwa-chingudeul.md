@@ -1,5 +1,7 @@
 # Yuhuwa Chingudeul
 
+![yuhuwa-chingudeul](https://cdn.myanimelist.net/images/anime/1472/97018.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 유후와 친구들

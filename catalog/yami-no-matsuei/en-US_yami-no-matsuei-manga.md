@@ -1,5 +1,7 @@
 # Yami no Matsuei
 
+![yami-no-matsuei](https://cdn.myanimelist.net/images/manga/3/160961.jpg)
+
 -   **type**: manga
 -   **original-name**: 闇の末裔
 -   **start-date**: 1994-03-25

@@ -1,5 +1,7 @@
 # Yousei Ou
 
+![yousei-ou](https://cdn.myanimelist.net/images/anime/7/72575.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 妖精王

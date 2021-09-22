@@ -1,5 +1,7 @@
 # Yankee Girl no Namaiki Oppai ni Kachikomi!! Anthology Comic
 
+![yankee-girl-no-namaiki-oppai-ni-kachikomi-anthology-comic](https://cdn.myanimelist.net/images/manga/3/234672.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

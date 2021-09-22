@@ -1,5 +1,7 @@
 # Yura Yura Suizokukan
 
+![yura-yura-suizokukan](https://cdn.myanimelist.net/images/anime/9/89666.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 40
 -   **original-name**: ユラユラすいぞくかん

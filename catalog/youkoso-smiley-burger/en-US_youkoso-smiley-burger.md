@@ -1,5 +1,7 @@
 # Youkoso! Smiley Burger
 
+![youkoso-smiley-burger](https://cdn.myanimelist.net/images/manga/3/216062.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 26

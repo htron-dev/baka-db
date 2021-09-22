@@ -1,5 +1,7 @@
 # Kagefumi Merry
 
+![kagefumi-merry](https://cdn.myanimelist.net/images/manga/1/159669.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

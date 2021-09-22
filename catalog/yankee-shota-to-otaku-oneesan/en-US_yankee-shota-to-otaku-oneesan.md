@@ -1,5 +1,7 @@
 # Yankee Shota to Otaku Oneesan
 
+![yankee-shota-to-otaku-oneesan](https://cdn.myanimelist.net/images/manga/3/193412.jpg)
+
 -   **type**: manga
 -   **original-name**: ヤンキーショタとオタクおねえさん
 -   **start-date**: 2016-09-26

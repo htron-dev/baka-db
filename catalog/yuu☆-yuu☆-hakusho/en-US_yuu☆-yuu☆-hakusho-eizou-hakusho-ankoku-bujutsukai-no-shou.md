@@ -1,5 +1,7 @@
 # Yuu☆Yuu☆Hakusho: Eizou Hakusho - Ankoku Bujutsukai no Shou
 
+![yuu☆-yuu☆-hakusho-eizou-hakusho-ankoku-bujutsukai-no-shou](https://cdn.myanimelist.net/images/anime/8/45088.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 幽 ☆ 遊 ☆ 白書 映像白書 暗黒武術会の章 上巻 & 下巻

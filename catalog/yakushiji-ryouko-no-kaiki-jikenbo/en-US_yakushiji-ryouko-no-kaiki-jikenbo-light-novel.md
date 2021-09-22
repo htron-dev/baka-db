@@ -1,5 +1,7 @@
 # Yakushiji Ryouko no Kaiki Jikenbo
 
+![yakushiji-ryouko-no-kaiki-jikenbo](https://cdn.myanimelist.net/images/manga/3/92019.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 薬師寺涼子の怪奇事件簿
 -   **start-date**: 1996-10-15

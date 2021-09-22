@@ -1,5 +1,7 @@
 # Youkoso Senkai!
 
+![youkoso-senkai](https://cdn.myanimelist.net/images/manga/3/174001.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 12

@@ -1,5 +1,7 @@
 # Yasoutan Grimo Alice
 
+![yasoutan-grimo-alice](https://cdn.myanimelist.net/images/manga/2/162505.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 24

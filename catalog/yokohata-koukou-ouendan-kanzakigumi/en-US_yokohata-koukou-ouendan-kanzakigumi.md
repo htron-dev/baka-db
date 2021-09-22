@@ -1,5 +1,7 @@
 # Yokohata Koukou Ouendan Kanzakigumi
 
+![yokohata-koukou-ouendan-kanzakigumi](https://cdn.myanimelist.net/images/manga/3/179573.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: 横幡高校応援団 神咲組

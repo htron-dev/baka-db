@@ -1,5 +1,7 @@
 # Yuunagi ni Mae, Boku no Ribbon
 
+![yuunagi-ni-mae-boku-no-ribbon](https://cdn.myanimelist.net/images/manga/2/245004.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

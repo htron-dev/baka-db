@@ -1,5 +1,7 @@
 # Penguin Kakumei
 
+![penguin-kakumei](https://cdn.myanimelist.net/images/manga/3/183168.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 35

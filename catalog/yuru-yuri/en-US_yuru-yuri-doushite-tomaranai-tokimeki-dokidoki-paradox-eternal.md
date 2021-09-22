@@ -1,5 +1,7 @@
 # Yuru Yuri: Doushite, Tomaranai, Tokimeki, Dokidoki, Paradox, Eternal
 
+![yuru-yuri-doushite-tomaranai-tokimeki-dokidoki-paradox-eternal](https://cdn.myanimelist.net/images/anime/10/35541.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ゆるゆり どうして ☆ 止まらない ☆ トキメキ ☆ ドキドキ ☆ パラドクス ☆ エターナル

@@ -1,5 +1,7 @@
 # Yume kara Samete mo Koishiteru
 
+![yume-kara-samete-mo-koishiteru](https://cdn.myanimelist.net/images/manga/1/18915.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 夢から醒めても恋してる

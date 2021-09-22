@@ -1,5 +1,7 @@
 # Yumemiru Ningyo wa Mahoutsukai ni Oboreru
 
+![yumemiru-ningyo-wa-mahoutsukai-ni-oboreru](https://cdn.myanimelist.net/images/manga/1/192495.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

@@ -1,5 +1,7 @@
 # Yuusha-sama, Yukagen wa Ikaga desu ka?
 
+![yuusha-sama-yukagen-wa-ikaga-desu-ka](https://cdn.myanimelist.net/images/manga/3/198535.jpg)
+
 -   **type**: manga
 -   **original-name**: 勇者様、湯加減はいかがですか？
 -   **start-date**: 2017-01-02

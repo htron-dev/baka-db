@@ -1,5 +1,7 @@
 # Yajin
 
+![yajin](https://cdn.myanimelist.net/images/manga/1/215284.jpg)
+
 -   **type**: manga
 -   **original-name**: 夜人
 -   **start-date**: 2018-05-26

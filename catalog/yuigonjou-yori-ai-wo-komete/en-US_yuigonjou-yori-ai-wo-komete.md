@@ -1,5 +1,7 @@
 # Yuigonjou yori Ai wo Komete
 
+![yuigonjou-yori-ai-wo-komete](https://cdn.myanimelist.net/images/manga/3/6453.jpg)
+
 -   **type**: manga
 -   **chapters**: 4
 -   **original-name**: 遺言状より愛を込めて

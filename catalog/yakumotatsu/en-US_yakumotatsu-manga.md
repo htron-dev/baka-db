@@ -1,5 +1,7 @@
 # Yakumotatsu
 
+![yakumotatsu](https://cdn.myanimelist.net/images/manga/2/209488.jpg)
+
 -   **type**: manga
 -   **volumes**: 19
 -   **chapters**: 80

@@ -1,5 +1,7 @@
 # Yu☆Gi☆Oh! Movie: Chou Yuugou! Toki wo Koeta Kizuna
 
+![yu☆-gi☆-oh-movie-chou-yuugou-toki-wo-koeta-kizuna](https://cdn.myanimelist.net/images/anime/3/30085.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 遊 ☆ 戯 ☆ 王 ～超融合! 時空を越えた絆～

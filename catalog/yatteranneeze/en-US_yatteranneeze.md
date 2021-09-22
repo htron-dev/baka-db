@@ -1,5 +1,7 @@
 # Yatteranneeze!
 
+![yatteranneeze](https://cdn.myanimelist.net/images/manga/5/32240.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 22

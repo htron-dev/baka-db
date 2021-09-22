@@ -1,5 +1,7 @@
 # Yuki no Joou
 
+![yuki-no-joou](https://cdn.myanimelist.net/images/anime/8/84376.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 雪の女王

@@ -1,5 +1,7 @@
 # Yankee Juku e Iku
 
+![yankee-juku-e-iku](https://cdn.myanimelist.net/images/manga/1/221359.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 35

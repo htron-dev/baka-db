@@ -1,5 +1,7 @@
 # Yuri Kuma Arashi
 
+![yuri-kuma-arashi](https://cdn.myanimelist.net/images/manga/3/147723.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

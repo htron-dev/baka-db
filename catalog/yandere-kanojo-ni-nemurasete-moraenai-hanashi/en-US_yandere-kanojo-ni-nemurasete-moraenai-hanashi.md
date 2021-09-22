@@ -1,5 +1,7 @@
 # Yandere Kanojo ni Nemurasete Moraenai Hanashi
 
+![yandere-kanojo-ni-nemurasete-moraenai-hanashi](https://cdn.myanimelist.net/images/manga/2/247132.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 34

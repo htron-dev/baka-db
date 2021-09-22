@@ -1,5 +1,7 @@
 # Yakiniku-ten Sengoku
 
+![yakiniku-ten-sengoku](https://cdn.myanimelist.net/images/anime/10/88500.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: 焼肉店センゴク

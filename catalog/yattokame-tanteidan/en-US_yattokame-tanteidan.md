@@ -1,5 +1,7 @@
 # Yattokame Tanteidan
 
+![yattokame-tanteidan](https://cdn.myanimelist.net/images/anime/3/11274.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 14
 -   **original-name**: やっとかめ探偵団

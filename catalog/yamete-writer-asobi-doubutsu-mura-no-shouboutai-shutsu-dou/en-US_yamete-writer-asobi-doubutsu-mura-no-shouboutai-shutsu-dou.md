@@ -1,5 +1,7 @@
 # Yamete! Writer Asobi: Doubutsu Mura no Shouboutai Shutsu Dou
 
+![yamete-writer-asobi-doubutsu-mura-no-shouboutai-shutsu-dou](https://cdn.myanimelist.net/images/anime/2/68937.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: やめて！ライターあそび どうぶつ村の消ぼう隊 出どう

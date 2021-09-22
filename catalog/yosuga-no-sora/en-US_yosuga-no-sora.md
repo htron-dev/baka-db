@@ -1,5 +1,7 @@
 # Yosuga no Sora
 
+![yosuga-no-sora](https://cdn.myanimelist.net/images/manga/2/33932.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

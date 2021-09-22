@@ -1,5 +1,7 @@
 # Youkai Watch Busters
 
+![youkai-watch-busters](https://cdn.myanimelist.net/images/manga/3/165201.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

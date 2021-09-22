@@ -1,5 +1,7 @@
 # Yongzhe Xueyuan
 
+![yongzhe-xueyuan](https://cdn.myanimelist.net/images/anime/1691/115493.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 勇者学院

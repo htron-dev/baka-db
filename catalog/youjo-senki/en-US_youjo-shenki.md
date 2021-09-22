@@ -1,5 +1,7 @@
 # Youjo Shenki
 
+![youjo-shenki](https://cdn.myanimelist.net/images/anime/13/83756.jpg)
+
 -   **type**: ona
 -   **episodes**: 12
 -   **original-name**: ようじょしぇんき

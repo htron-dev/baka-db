@@ -1,5 +1,7 @@
 # Yankee wa Isekai de Seirei ni Aisaremasu.
 
+![yankee-wa-isekai-de-seirei-ni-aisaremasu](https://cdn.myanimelist.net/images/manga/2/237376.jpg)
+
 -   **type**: manga
 -   **original-name**: ヤンキーは異世界で精霊に愛されます。
 -   **start-date**: 2017-02-24

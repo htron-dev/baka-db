@@ -1,5 +1,7 @@
 # Yakeppachi no Maria
 
+![yakeppachi-no-maria](https://cdn.myanimelist.net/images/manga/1/94453.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

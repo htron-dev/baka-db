@@ -1,5 +1,7 @@
 # Yuugai Toshi
 
+![yuugai-toshi](https://cdn.myanimelist.net/images/manga/1/165410.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

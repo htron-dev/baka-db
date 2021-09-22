@@ -1,5 +1,7 @@
 # Youko-san wa Kakkoii
 
+![youko-san-wa-kakkoii](https://cdn.myanimelist.net/images/manga/3/203463.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

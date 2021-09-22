@@ -1,5 +1,7 @@
 # Youkai Sensou
 
+![youkai-sensou](https://cdn.myanimelist.net/images/manga/3/237618.jpg)
+
 -   **type**: manga
 -   **original-name**: 妖怪戦葬
 -   **start-date**: 2019-08-19

@@ -1,5 +1,7 @@
 # Yoru ga Aketara, Ichiban ni Kimi ni Ai ni Iku
 
+![yoru-ga-aketara-ichiban-ni-kimi-ni-ai-ni-iku](https://cdn.myanimelist.net/images/manga/2/208350.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

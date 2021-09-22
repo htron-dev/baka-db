@@ -1,5 +1,7 @@
 # Yamiyo no Jidaigeki
 
+![yamiyo-no-jidaigeki](https://cdn.myanimelist.net/images/anime/10/61537.jpg)
+
 -   **type**: special
 -   **episodes**: 2
 -   **original-name**: 闇夜の時代劇

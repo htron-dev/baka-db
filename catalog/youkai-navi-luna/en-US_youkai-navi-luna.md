@@ -1,5 +1,7 @@
 # Youkai Navi Luna
 
+![youkai-navi-luna](https://cdn.myanimelist.net/images/manga/2/29801.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 25

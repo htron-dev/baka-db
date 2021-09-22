@@ -1,5 +1,7 @@
 # Yuyushiki: Komarasetari, Komarasaretari
 
+![yuyushiki-komarasetari-komarasaretari](https://cdn.myanimelist.net/images/anime/7/90116.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: ゆゆ式 OVA『困らせたり、困らされたり』

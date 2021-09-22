@@ -1,5 +1,7 @@
 # Yarukkya Knight
 
+![yarukkya-knight](https://cdn.myanimelist.net/images/manga/2/109039.jpg)
+
 -   **type**: manga
 -   **volumes**: 11
 -   **original-name**: やるっきゃ騎士〈ナイト〉

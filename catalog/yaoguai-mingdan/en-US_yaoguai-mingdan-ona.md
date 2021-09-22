@@ -1,5 +1,7 @@
 # Yaoguai Mingdan
 
+![yaoguai-mingdan](https://cdn.myanimelist.net/images/anime/3/69999.jpg)
+
 -   **type**: ona
 -   **episodes**: 18
 -   **original-name**: 妖怪名单

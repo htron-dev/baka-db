@@ -1,5 +1,7 @@
 # Yoroiden Samurai Troopers
 
+![yoroiden-samurai-troopers](https://cdn.myanimelist.net/images/anime/1855/92738.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 39
 -   **original-name**: 鎧伝サムライトルーパー

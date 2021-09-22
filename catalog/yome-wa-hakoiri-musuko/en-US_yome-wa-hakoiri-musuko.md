@@ -1,5 +1,7 @@
 # Yome wa Hakoiri Musuko
 
+![yome-wa-hakoiri-musuko](https://cdn.myanimelist.net/images/manga/1/237970.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

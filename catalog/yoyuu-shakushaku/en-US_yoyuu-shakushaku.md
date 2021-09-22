@@ -1,5 +1,7 @@
 # Yoyuu Shakushaku
 
+![yoyuu-shakushaku](https://cdn.myanimelist.net/images/manga/3/195396.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 61

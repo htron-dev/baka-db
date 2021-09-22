@@ -1,5 +1,7 @@
 # Yume no Kaseki
 
+![yume-no-kaseki](https://cdn.myanimelist.net/images/manga/1/157825.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 16

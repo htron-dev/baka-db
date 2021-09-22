@@ -1,5 +1,7 @@
 # Yuusha no Segare
 
+![yuusha-no-segare](https://cdn.myanimelist.net/images/manga/1/194455.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 勇者のセガレ
 -   **start-date**: 2017-01-10

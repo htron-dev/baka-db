@@ -1,5 +1,7 @@
 # Yomei ¥20,000,000-
 
+![yomei-20-000-000](https://cdn.myanimelist.net/images/manga/3/155067.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

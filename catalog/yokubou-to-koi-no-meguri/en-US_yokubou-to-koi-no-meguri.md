@@ -1,5 +1,7 @@
 # Yokubou to Koi no Meguri
 
+![yokubou-to-koi-no-meguri](https://cdn.myanimelist.net/images/manga/3/83757.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 23

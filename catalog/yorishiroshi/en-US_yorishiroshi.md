@@ -1,5 +1,7 @@
 # Yorishiroshi
 
+![yorishiroshi](https://cdn.myanimelist.net/images/manga/1/160057.jpg)
+
 -   **type**: manga
 -   **original-name**: ヨリシロシ
 -   **start-date**: 2015-08-06

@@ -1,5 +1,7 @@
 # Yaya Puri
 
+![yaya-puri](https://cdn.myanimelist.net/images/manga/1/29517.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ややプリ

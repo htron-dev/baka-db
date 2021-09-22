@@ -1,5 +1,7 @@
 # Yokubou to Koi no Meguri -Rasen-
 
+![yokubou-to-koi-no-meguri-rasen](https://cdn.myanimelist.net/images/manga/3/196204.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

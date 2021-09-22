@@ -1,5 +1,7 @@
 # Yu☆Gi☆Oh!: Hikari no Pyramid
 
+![yu☆-gi☆-oh-hikari-no-pyramid](https://cdn.myanimelist.net/images/anime/5/76911.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 遊 ☆ 戯 ☆ 王　デュエルモンスターズ　光のピラミッド

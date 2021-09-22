@@ -1,5 +1,7 @@
 # Yajikita Gakuen Douchuuki
 
+![yajikita-gakuen-douchuuki](https://cdn.myanimelist.net/images/anime/6/35935.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: やじきた学園道中記

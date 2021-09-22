@@ -1,5 +1,7 @@
 # Yumemiru Vampire
 
+![yumemiru-vampire](https://cdn.myanimelist.net/images/manga/2/245956.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

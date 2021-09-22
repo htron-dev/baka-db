@@ -1,5 +1,7 @@
 # Yuusha no Yome ni Naritakute (￣ ∇ ￣)ゞ
 
+![yuusha-no-yome-ni-naritakute-￣-∇-￣-ゞ](https://cdn.myanimelist.net/images/manga/2/235658.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

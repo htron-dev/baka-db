@@ -1,5 +1,7 @@
 # Yoru to Asa no Uta Ec
 
+![yoru-to-asa-no-uta-ec](https://cdn.myanimelist.net/images/manga/1/223227.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

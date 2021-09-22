@@ -1,5 +1,7 @@
 # Yuusha-sama no Oshishou-sama
 
+![yuusha-sama-no-oshishou-sama](https://cdn.myanimelist.net/images/manga/3/195778.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 51

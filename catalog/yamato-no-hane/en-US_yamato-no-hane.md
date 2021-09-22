@@ -1,5 +1,7 @@
 # Yamato no Hane
 
+![yamato-no-hane](https://cdn.myanimelist.net/images/manga/2/177165.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 31

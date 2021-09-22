@@ -1,5 +1,7 @@
 # Mini Yuri
 
+![mini-yuri](https://cdn.myanimelist.net/images/anime/1445/103637.jpg)
+
 -   **type**: ona
 -   **episodes**: 4
 -   **original-name**: みにゆり

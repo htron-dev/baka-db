@@ -1,5 +1,7 @@
 # Yuutai Nova
 
+![yuutai-nova](https://cdn.myanimelist.net/images/manga/2/63189.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

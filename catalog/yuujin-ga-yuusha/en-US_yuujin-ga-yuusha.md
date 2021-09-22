@@ -1,5 +1,7 @@
 # Yuujin ga Yuusha
 
+![yuujin-ga-yuusha](https://cdn.myanimelist.net/images/manga/2/71191.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

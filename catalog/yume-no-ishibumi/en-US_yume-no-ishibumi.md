@@ -1,5 +1,7 @@
 # Yume no Ishibumi
 
+![yume-no-ishibumi](https://cdn.myanimelist.net/images/manga/1/17911.jpg)
+
 -   **type**: manga
 -   **volumes**: 20
 -   **original-name**: 夢の碑

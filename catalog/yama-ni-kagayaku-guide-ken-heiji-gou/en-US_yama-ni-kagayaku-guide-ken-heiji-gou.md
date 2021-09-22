@@ -1,5 +1,7 @@
 # Yama ni Kagayaku: Guide-ken Heiji Gou
 
+![yama-ni-kagayaku-guide-ken-heiji-gou](https://cdn.myanimelist.net/images/anime/7/53781.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 山に輝く ガイド犬平治号

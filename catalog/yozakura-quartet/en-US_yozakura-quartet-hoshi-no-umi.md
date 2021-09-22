@@ -1,5 +1,7 @@
 # Yozakura Quartet: Hoshi no Umi
 
+![yozakura-quartet-hoshi-no-umi](https://cdn.myanimelist.net/images/anime/10/27779.jpg)
+
 -   **type**: ova
 -   **episodes**: 3
 -   **original-name**: 夜桜四重奏 ～ホシノウミ～

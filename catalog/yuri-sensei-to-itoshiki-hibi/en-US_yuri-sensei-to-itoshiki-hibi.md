@@ -1,5 +1,7 @@
 # Yuri Sensei to Itoshiki Hibi
 
+![yuri-sensei-to-itoshiki-hibi](https://cdn.myanimelist.net/images/manga/3/79749.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 2

@@ -1,5 +1,7 @@
 # Yuutai Nova: Kanketsu-hen
 
+![yuutai-nova-kanketsu-hen](https://cdn.myanimelist.net/images/manga/2/97599.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: ユウタイノヴァ 完結編

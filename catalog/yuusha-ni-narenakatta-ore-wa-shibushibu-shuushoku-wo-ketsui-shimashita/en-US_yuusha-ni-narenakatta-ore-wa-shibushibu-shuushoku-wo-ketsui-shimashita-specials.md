@@ -1,5 +1,7 @@
 # Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita. Specials
 
+![yuusha-ni-narenakatta-ore-wa-shibushibu-shuushoku-wo-ketsui-shimashita-specials](https://cdn.myanimelist.net/images/anime/4/69041.jpg)
+
 -   **type**: special
 -   **episodes**: 5
 -   **original-name**: 勇者になれなかった俺はしぶしぶ就職を決意しました。「新規製作アニメ（本編中で流れる劇中 TVCM の完全版）」

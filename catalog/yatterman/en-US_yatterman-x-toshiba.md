@@ -1,5 +1,7 @@
 # Yatterman x Toshiba
 
+![yatterman-x-toshiba](https://cdn.myanimelist.net/images/anime/10/71507.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ヤッターマン × トウシバ

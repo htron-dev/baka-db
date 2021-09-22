@@ -1,5 +1,7 @@
 # Yuukoku no Moriarty 2nd Season
 
+![yuukoku-no-moriarty-2nd-season](https://cdn.myanimelist.net/images/anime/1200/111522.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 憂国のモリアーティ

@@ -1,5 +1,7 @@
 # Yuria-sensei no Akai Ito
 
+![yuria-sensei-no-akai-ito](https://cdn.myanimelist.net/images/manga/2/210854.jpg)
+
 -   **type**: manga
 -   **original-name**: ゆりあ先生の赤い糸
 -   **start-date**: 2018-02-15

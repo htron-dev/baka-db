@@ -1,5 +1,7 @@
 # Reideen
 
+![reideen](https://cdn.myanimelist.net/images/manga/3/46143.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ライディーン

@@ -1,5 +1,7 @@
 # Yawaraka Sensha Special
 
+![yawaraka-sensha-special](https://cdn.myanimelist.net/images/anime/1343/115586.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: やわらか戦車 9.5

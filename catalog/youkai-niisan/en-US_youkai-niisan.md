@@ -1,5 +1,7 @@
 # Youkai Niisan
 
+![youkai-niisan](https://cdn.myanimelist.net/images/manga/3/202968.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 25

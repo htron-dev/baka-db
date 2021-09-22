@@ -1,5 +1,7 @@
 # Yozakura Quartet: Hana no Uta
 
+![yozakura-quartet-hana-no-uta](https://cdn.myanimelist.net/images/anime/5/52563.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 夜桜四重奏 ～ハナノウタ～

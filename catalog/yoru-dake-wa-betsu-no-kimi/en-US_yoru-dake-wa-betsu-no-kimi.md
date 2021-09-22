@@ -1,5 +1,7 @@
 # Yoru dake wa Betsu no Kimi
 
+![yoru-dake-wa-betsu-no-kimi](https://cdn.myanimelist.net/images/manga/3/6145.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 夜だけは別の君

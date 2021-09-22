@@ -1,5 +1,7 @@
 # Youryuukai no Kemono Jijou
 
+![youryuukai-no-kemono-jijou](https://cdn.myanimelist.net/images/manga/3/227696.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

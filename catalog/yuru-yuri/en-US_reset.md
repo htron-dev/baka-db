@@ -1,5 +1,7 @@
 # Reset!
 
+![reset](https://cdn.myanimelist.net/images/manga/2/45937.jpg)
+
 -   **type**: manga
 -   **original-name**: りせっと！
 -   **start-date**: 2010-07-24

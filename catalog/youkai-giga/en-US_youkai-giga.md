@@ -1,5 +1,7 @@
 # Youkai Giga
 
+![youkai-giga](https://cdn.myanimelist.net/images/manga/1/201212.jpg)
+
 -   **type**: manga
 -   **original-name**: 妖怪ギガ
 -   **start-date**: 2017-04-26

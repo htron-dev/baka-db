@@ -1,5 +1,7 @@
 # Y no Rakuen
 
+![y-no-rakuen](https://cdn.myanimelist.net/images/manga/2/164433.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

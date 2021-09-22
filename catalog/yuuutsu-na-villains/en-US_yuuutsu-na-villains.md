@@ -1,5 +1,7 @@
 # Yuuutsu na Villains
 
+![yuuutsu-na-villains](https://cdn.myanimelist.net/images/manga/2/161108.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 5
 -   **chapters**: 34

@@ -1,5 +1,7 @@
 # Yuu☆Yuu☆Hakusho: Mu Mu Hakusho - Nightmare Hakusho
 
+![yuu☆-yuu☆-hakusho-mu-mu-hakusho-nightmare-hakusho](https://cdn.myanimelist.net/images/anime/10/34985.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 幽 ☆ 遊 ☆ 白書 夢夢白書

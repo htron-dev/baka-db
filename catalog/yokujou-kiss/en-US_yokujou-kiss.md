@@ -1,5 +1,7 @@
 # Yokujou Kiss
 
+![yokujou-kiss](https://cdn.myanimelist.net/images/manga/3/109543.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

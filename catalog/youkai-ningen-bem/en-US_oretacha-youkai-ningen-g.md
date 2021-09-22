@@ -1,5 +1,7 @@
 # Oretacha Youkai Ningen G
 
+![oretacha-youkai-ningen-g](https://cdn.myanimelist.net/images/anime/1954/91310.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 26
 -   **original-name**: 俺たちゃ妖怪人間 G

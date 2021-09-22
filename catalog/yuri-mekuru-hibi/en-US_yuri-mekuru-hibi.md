@@ -1,5 +1,7 @@
 # Yuri Mekuru Hibi
 
+![yuri-mekuru-hibi](https://cdn.myanimelist.net/images/manga/2/132975.jpg)
+
 -   **type**: manga
 -   **chapters**: 77
 -   **original-name**: ゆりめくる日々

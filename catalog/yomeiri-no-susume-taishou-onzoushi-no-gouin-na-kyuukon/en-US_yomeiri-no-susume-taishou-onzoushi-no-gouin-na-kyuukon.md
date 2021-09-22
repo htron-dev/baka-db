@@ -1,5 +1,7 @@
 # Yomeiri no Susume: Taishou Onzoushi no Gouin na Kyuukon
 
+![yomeiri-no-susume-taishou-onzoushi-no-gouin-na-kyuukon](https://cdn.myanimelist.net/images/manga/2/246310.jpg)
+
 -   **type**: manga
 -   **original-name**: 嫁入りのススメ~大正御曹司の強引な求婚
 -   **start-date**: 2020-06-26

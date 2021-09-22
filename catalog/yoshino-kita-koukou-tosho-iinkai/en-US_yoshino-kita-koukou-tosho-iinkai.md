@@ -1,5 +1,7 @@
 # Yoshino Kita Koukou Tosho Iinkai
 
+![yoshino-kita-koukou-tosho-iinkai](https://cdn.myanimelist.net/images/manga/3/227099.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 34

@@ -1,5 +1,7 @@
 # Yuki no Joou (TV)
 
+![yuki-no-joou-tv](https://cdn.myanimelist.net/images/anime/2/26180.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 36
 -   **original-name**: 雪の女王

@@ -1,5 +1,7 @@
 # Yotsuya Juuzou-shiki Shin Sekai Sounan Jikken
 
+![yotsuya-juuzou-shiki-shin-sekai-sounan-jikken](https://cdn.myanimelist.net/images/manga/5/190181.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

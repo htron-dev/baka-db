@@ -1,5 +1,7 @@
 # Yoru no Kuni
 
+![yoru-no-kuni](https://cdn.myanimelist.net/images/anime/1674/114425.jpg)
+
 -   **type**: ona
 -   **original-name**: 夜の国
 -   **start-date**: 2021-04-16

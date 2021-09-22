@@ -1,5 +1,7 @@
 # Yami Kariudo: Kazoku no Shouzou
 
+![yami-kariudo-kazoku-no-shouzou](https://cdn.myanimelist.net/images/manga/1/176075.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

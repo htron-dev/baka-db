@@ -1,5 +1,7 @@
 # Yuurei no Shoutai Mitari, Kare Atama.
 
+![yuurei-no-shoutai-mitari-kare-atama](https://cdn.myanimelist.net/images/manga/1/200540.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 16

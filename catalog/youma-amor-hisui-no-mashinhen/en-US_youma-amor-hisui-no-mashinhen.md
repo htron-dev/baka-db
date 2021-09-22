@@ -1,5 +1,7 @@
 # Youma Amor: Hisui no Mashinhen
 
+![youma-amor-hisui-no-mashinhen](https://cdn.myanimelist.net/images/manga/3/158921.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

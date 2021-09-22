@@ -1,5 +1,7 @@
 # Yorozuya Taimashi no Hensai Keika
 
+![yorozuya-taimashi-no-hensai-keika](https://cdn.myanimelist.net/images/manga/2/161097.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 18

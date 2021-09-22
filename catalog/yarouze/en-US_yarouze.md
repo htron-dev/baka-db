@@ -1,5 +1,7 @@
 # Yarouze!
 
+![yarouze](https://cdn.myanimelist.net/images/manga/2/29866.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

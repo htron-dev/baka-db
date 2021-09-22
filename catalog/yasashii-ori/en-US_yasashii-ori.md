@@ -1,5 +1,7 @@
 # Yasashii Ori
 
+![yasashii-ori](https://cdn.myanimelist.net/images/manga/1/7693.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 15

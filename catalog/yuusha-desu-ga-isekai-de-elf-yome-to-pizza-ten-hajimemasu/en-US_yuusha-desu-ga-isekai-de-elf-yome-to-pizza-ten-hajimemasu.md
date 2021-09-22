@@ -1,5 +1,7 @@
 # Yuusha desu ga Isekai de Elf Yome to Pizza-ten Hajimemasu
 
+![yuusha-desu-ga-isekai-de-elf-yome-to-pizza-ten-hajimemasu](https://cdn.myanimelist.net/images/manga/1/190040.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 17

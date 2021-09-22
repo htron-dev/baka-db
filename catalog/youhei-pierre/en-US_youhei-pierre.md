@@ -1,5 +1,7 @@
 # Youhei Pierre
 
+![youhei-pierre](https://cdn.myanimelist.net/images/manga/1/31700.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 26

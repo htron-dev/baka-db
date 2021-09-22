@@ -1,5 +1,7 @@
 # Yinhe Biduan
 
+![yinhe-biduan](https://cdn.myanimelist.net/images/manga/2/148953.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **original-name**: 银河彼端

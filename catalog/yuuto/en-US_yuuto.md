@@ -1,5 +1,7 @@
 # Yuuto
 
+![yuuto](https://cdn.myanimelist.net/images/manga/2/168485.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 22

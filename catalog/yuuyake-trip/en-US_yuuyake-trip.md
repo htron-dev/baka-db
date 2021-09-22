@@ -1,5 +1,7 @@
 # Yuuyake Trip
 
+![yuuyake-trip](https://cdn.myanimelist.net/images/manga/2/243692.jpg)
+
 -   **type**: manga
 -   **original-name**: ゆうやけトリップ
 -   **start-date**: 2019-12-27

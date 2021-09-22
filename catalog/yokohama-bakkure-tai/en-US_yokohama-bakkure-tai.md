@@ -1,5 +1,7 @@
 # Yokohama Bakkure-tai
 
+![yokohama-bakkure-tai](https://cdn.myanimelist.net/images/anime/8/65451.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 横浜ばっくれ隊

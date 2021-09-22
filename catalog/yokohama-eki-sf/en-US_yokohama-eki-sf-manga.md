@@ -1,5 +1,7 @@
 # Yokohama-eki SF
 
+![yokohama-eki-sf](https://cdn.myanimelist.net/images/manga/2/199269.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 17

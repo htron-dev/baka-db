@@ -1,5 +1,7 @@
 # Yosoro!!: Yoroshiku Sourou
 
+![yosoro-yoroshiku-sourou](https://cdn.myanimelist.net/images/manga/2/184543.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ヨーソロー!! －宜シク候－

@@ -1,5 +1,7 @@
 # Yoru wo Higashi ni
 
+![yoru-wo-higashi-ni](https://cdn.myanimelist.net/images/manga/2/230619.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 13

@@ -1,5 +1,7 @@
 # Yatterman
 
+![yatterman](https://cdn.myanimelist.net/images/manga/3/28856.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **original-name**: ヤッターマン

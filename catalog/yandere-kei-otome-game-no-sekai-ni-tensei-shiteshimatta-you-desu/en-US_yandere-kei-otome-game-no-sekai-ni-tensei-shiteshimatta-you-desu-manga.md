@@ -1,5 +1,7 @@
 # Yandere-kei Otome Game no Sekai ni Tensei shiteshimatta you desu
 
+![yandere-kei-otome-game-no-sekai-ni-tensei-shiteshimatta-you-desu](https://cdn.myanimelist.net/images/manga/3/222672.jpg)
+
 -   **type**: manga
 -   **original-name**: ヤンデレ系乙女ゲーの世界に転生してしまったようです
 -   **start-date**: 2018-01-30

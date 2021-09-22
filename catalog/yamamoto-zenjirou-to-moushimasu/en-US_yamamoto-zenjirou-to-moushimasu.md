@@ -1,5 +1,7 @@
 # Yamamoto Zenjirou to Moushimasu
 
+![yamamoto-zenjirou-to-moushimasu](https://cdn.myanimelist.net/images/manga/2/66297.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 20

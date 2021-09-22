@@ -1,5 +1,7 @@
 # Yuyushiki
 
+![yuyushiki](https://cdn.myanimelist.net/images/manga/2/168064.jpg)
+
 -   **type**: manga
 -   **original-name**: ゆゆ式
 -   **start-date**: 2008-01-09

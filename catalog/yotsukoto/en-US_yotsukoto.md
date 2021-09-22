@@ -1,5 +1,7 @@
 # Yotsukoto
 
+![yotsukoto](https://cdn.myanimelist.net/images/manga/1/220696.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 26

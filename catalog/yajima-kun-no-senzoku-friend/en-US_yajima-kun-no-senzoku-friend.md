@@ -1,5 +1,7 @@
 # Yajima-kun no Senzoku Friend
 
+![yajima-kun-no-senzoku-friend](https://cdn.myanimelist.net/images/manga/1/223394.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

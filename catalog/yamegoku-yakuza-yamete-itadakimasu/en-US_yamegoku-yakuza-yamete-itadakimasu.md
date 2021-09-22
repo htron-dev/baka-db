@@ -1,5 +1,7 @@
 # Yamegoku: Yakuza Yamete Itadakimasu
 
+![yamegoku-yakuza-yamete-itadakimasu](https://cdn.myanimelist.net/images/manga/1/157977.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 14

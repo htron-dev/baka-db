@@ -1,5 +1,7 @@
 # Yuuyake Rocket Pencil
 
+![yuuyake-rocket-pencil](https://cdn.myanimelist.net/images/manga/3/57431.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

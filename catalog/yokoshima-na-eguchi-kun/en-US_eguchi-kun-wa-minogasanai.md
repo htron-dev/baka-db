@@ -1,5 +1,7 @@
 # Eguchi-kun wa Minogasanai
 
+![eguchi-kun-wa-minogasanai](https://cdn.myanimelist.net/images/manga/3/195212.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 101

@@ -1,5 +1,7 @@
 # Yuki no Niizuma wa Boku to Tokeaitai
 
+![yuki-no-niizuma-wa-boku-to-tokeaitai](https://cdn.myanimelist.net/images/manga/2/242772.jpg)
+
 -   **type**: manga
 -   **original-name**: 雪の新妻は僕と溶け合いたい
 -   **start-date**: 2020-08-07

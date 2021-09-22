@@ -1,5 +1,7 @@
 # Yami no Kodou
 
+![yami-no-kodou](https://cdn.myanimelist.net/images/manga/2/185750.jpg)
+
 -   **type**: manga
 -   **original-name**: 幻惑〈やみ〉の鼓動
 

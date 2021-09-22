@@ -1,5 +1,7 @@
 # Yoiko
 
+![yoiko](https://cdn.myanimelist.net/images/manga/2/148331.jpg)
+
 -   **type**: manga
 -   **volumes**: 15
 -   **chapters**: 176

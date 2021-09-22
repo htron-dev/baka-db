@@ -1,5 +1,7 @@
 # Yuusha Tokkyuu Might Gaine
 
+![yuusha-tokkyuu-might-gaine](https://cdn.myanimelist.net/images/anime/1352/91072.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 47
 -   **original-name**: 勇者特急マイトガイン

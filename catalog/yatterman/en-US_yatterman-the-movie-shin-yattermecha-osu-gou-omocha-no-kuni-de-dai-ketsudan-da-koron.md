@@ -1,5 +1,7 @@
 # Yatterman the Movie: Shin Yattermecha Osu Gou! Omocha no Kuni de Dai Ketsudan da Koron
 
+![yatterman-the-movie-shin-yattermecha-osu-gou-omocha-no-kuni-de-dai-ketsudan-da-koron](https://cdn.myanimelist.net/images/anime/10/22013.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 ヤッターマン 新ヤッターメカ大集合！ オモチャの国で大決断だコロン！

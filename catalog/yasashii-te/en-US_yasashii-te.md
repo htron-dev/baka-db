@@ -1,5 +1,7 @@
 # Yasashii Te
 
+![yasashii-te](https://cdn.myanimelist.net/images/manga/1/102653.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

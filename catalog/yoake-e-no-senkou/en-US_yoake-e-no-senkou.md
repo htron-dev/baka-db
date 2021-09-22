@@ -1,5 +1,7 @@
 # Yoake e no Senkou
 
+![yoake-e-no-senkou](https://cdn.myanimelist.net/images/manga/2/150736.jpg)
+
 -   **type**: manga
 -   **original-name**: 夜明けへの閃光
 -   **start-date**: 2013-10-09

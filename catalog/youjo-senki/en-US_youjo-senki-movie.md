@@ -1,5 +1,7 @@
 # Youjo Senki Movie
 
+![youjo-senki-movie](https://cdn.myanimelist.net/images/anime/1310/95450.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 幼女戦記

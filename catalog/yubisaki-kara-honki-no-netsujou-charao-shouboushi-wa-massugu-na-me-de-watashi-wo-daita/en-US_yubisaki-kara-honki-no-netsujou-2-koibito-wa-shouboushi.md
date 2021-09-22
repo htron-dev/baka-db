@@ -1,5 +1,7 @@
 # Yubisaki kara Honki no Netsujou 2: Koibito wa Shouboushi
 
+![yubisaki-kara-honki-no-netsujou-2-koibito-wa-shouboushi](https://cdn.myanimelist.net/images/anime/1082/115693.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 8
 -   **original-name**: 指先から本気の熱情 2-恋人は消防士-

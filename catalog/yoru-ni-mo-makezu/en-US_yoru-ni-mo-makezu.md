@@ -1,5 +1,7 @@
 # Yoru ni mo Makezu!
 
+![yoru-ni-mo-makezu](https://cdn.myanimelist.net/images/manga/1/176270.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 11

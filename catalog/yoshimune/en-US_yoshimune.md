@@ -1,5 +1,7 @@
 # Yoshimune
 
+![yoshimune](https://cdn.myanimelist.net/images/anime/1/2243.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 24
 -   **original-name**: 吉宗

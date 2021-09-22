@@ -1,5 +1,7 @@
 # Yume Oukoku to Nemureru 100-nin no Ouji-sama: Short Stories
 
+![yume-oukoku-to-nemureru-100-nin-no-ouji-sama-short-stories](https://cdn.myanimelist.net/images/anime/12/84446.jpg)
+
 -   **type**: ona
 -   **episodes**: 10
 -   **original-name**: 夢王国と眠れる 100 人の王子様 Short Stories

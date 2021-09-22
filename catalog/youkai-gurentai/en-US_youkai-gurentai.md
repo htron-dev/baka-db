@@ -1,5 +1,7 @@
 # Youkai Gurentai
 
+![youkai-gurentai](https://cdn.myanimelist.net/images/manga/3/225721.jpg)
+
 -   **type**: manga
 -   **original-name**: 妖傀愚連隊
 -   **start-date**: 2019-10-26

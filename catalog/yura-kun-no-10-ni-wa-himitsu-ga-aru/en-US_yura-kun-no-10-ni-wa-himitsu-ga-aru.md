@@ -1,5 +1,7 @@
 # Yura-kun no 10% ni wa Himitsu ga Aru
 
+![yura-kun-no-10-ni-wa-himitsu-ga-aru](https://cdn.myanimelist.net/images/manga/2/185893.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 12

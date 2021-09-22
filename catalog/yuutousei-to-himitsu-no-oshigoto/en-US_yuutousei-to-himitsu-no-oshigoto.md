@@ -1,5 +1,7 @@
 # Yuutousei to Himitsu no Oshigoto
 
+![yuutousei-to-himitsu-no-oshigoto](https://cdn.myanimelist.net/images/manga/3/217928.jpg)
+
 -   **type**: manga
 -   **original-name**: 優等生と秘密のお仕事
 -   **start-date**: 2018-03-20

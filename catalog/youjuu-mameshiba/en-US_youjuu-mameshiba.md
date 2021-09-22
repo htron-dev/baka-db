@@ -1,5 +1,7 @@
 # Youjuu Mameshiba
 
+![youjuu-mameshiba](https://cdn.myanimelist.net/images/manga/3/151496.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 幼獣マメシバ

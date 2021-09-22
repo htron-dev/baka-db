@@ -1,5 +1,7 @@
 # Yowamushi Pedal: Spare Bike
 
+![yowamushi-pedal-spare-bike](https://cdn.myanimelist.net/images/anime/9/82909.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 弱虫ペダル SPARE BIKE

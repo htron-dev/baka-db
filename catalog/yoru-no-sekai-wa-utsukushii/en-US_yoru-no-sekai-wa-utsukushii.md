@@ -1,5 +1,7 @@
 # Yoru no Sekai wa Utsukushii
 
+![yoru-no-sekai-wa-utsukushii](https://cdn.myanimelist.net/images/manga/2/209462.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 44

@@ -1,5 +1,7 @@
 # Yuuhi
 
+![yuuhi](https://cdn.myanimelist.net/images/manga/3/214259.jpg)
+
 -   **type**: manga
 -   **volumes**: 16
 -   **chapters**: 111

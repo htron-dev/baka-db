@@ -1,5 +1,7 @@
 # Yokoyama Mitsuteru Sangokushi
 
+![yokoyama-mitsuteru-sangokushi](https://cdn.myanimelist.net/images/anime/9/76348.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 47
 -   **original-name**: 横山光輝 三国志

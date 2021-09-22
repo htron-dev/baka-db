@@ -1,5 +1,7 @@
 # Yowamushi Pedal: Re:ROAD
 
+![yowamushi-pedal-re-road](https://cdn.myanimelist.net/images/anime/7/86877.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 弱虫ペダル Re:ROAD

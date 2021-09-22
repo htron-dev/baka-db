@@ -1,5 +1,7 @@
 # Yowamushi Danshi, Renai Hajimemasu.
 
+![yowamushi-danshi-renai-hajimemasu](https://cdn.myanimelist.net/images/manga/1/225033.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

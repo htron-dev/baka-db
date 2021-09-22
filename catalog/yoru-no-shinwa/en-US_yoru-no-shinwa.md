@@ -1,5 +1,7 @@
 # Yoru no Shinwa
 
+![yoru-no-shinwa](https://cdn.myanimelist.net/images/manga/2/182263.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

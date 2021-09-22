@@ -1,5 +1,7 @@
 # Yomigaeru Sora Pilot
 
+![yomigaeru-sora-pilot](https://cdn.myanimelist.net/images/anime/6/63229.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: よみがえる空

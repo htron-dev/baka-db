@@ -1,5 +1,7 @@
 # Yonokuen Ateta Yuusha Loto to Ore wa Tomodachi ni Natteru
 
+![yonokuen-ateta-yuusha-loto-to-ore-wa-tomodachi-ni-natteru](https://cdn.myanimelist.net/images/manga/1/172615.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 四億円当てた勇者ロトと俺は友達になってる
 -   **start-date**: 2016-03-01

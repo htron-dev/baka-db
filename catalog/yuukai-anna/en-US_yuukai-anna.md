@@ -1,5 +1,7 @@
 # Yuukai Anna
 
+![yuukai-anna](https://cdn.myanimelist.net/images/anime/1028/112649.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 誘拐アンナ

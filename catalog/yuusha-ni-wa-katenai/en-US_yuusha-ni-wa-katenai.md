@@ -1,5 +1,7 @@
 # Yuusha ni wa Katenai
 
+![yuusha-ni-wa-katenai](https://cdn.myanimelist.net/images/manga/2/164383.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: 勇者には勝てない

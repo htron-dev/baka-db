@@ -1,5 +1,7 @@
 # Yano Nanako, Hakkyu wo Ou.
 
+![yano-nanako-hakkyu-wo-ou](https://cdn.myanimelist.net/images/manga/3/200281.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 20

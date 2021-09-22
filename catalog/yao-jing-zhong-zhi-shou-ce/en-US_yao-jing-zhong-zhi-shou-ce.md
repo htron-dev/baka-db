@@ -1,5 +1,7 @@
 # Yao Jing Zhong Zhi Shou Ce
 
+![yao-jing-zhong-zhi-shou-ce](https://cdn.myanimelist.net/images/anime/1895/105493.jpg)
+
 -   **type**: ona
 -   **episodes**: 14
 -   **original-name**: 妖精种植手册

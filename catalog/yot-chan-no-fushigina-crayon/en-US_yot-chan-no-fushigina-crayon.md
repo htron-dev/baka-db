@@ -1,5 +1,7 @@
 # Yot-chan no Fushigina Crayon
 
+![yot-chan-no-fushigina-crayon](https://cdn.myanimelist.net/images/anime/11/82214.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: よっちゃんの不思議なクレヨン

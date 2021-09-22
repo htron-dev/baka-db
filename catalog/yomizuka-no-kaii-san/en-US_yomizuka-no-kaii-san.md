@@ -1,5 +1,7 @@
 # Yomizuka no Kaii-san
 
+![yomizuka-no-kaii-san](https://cdn.myanimelist.net/images/manga/1/230412.jpg)
+
 -   **type**: manga
 -   **chapters**: 8
 -   **original-name**: 四見塚の怪異さん

@@ -1,5 +1,7 @@
 # Youjo Senki Shokudou
 
+![youjo-senki-shokudou](https://cdn.myanimelist.net/images/manga/3/215331.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 14

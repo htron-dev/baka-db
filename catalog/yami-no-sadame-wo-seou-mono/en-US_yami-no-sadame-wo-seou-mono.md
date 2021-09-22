@@ -1,5 +1,7 @@
 # Yami no Sadame wo Seou Mono
 
+![yami-no-sadame-wo-seou-mono](https://cdn.myanimelist.net/images/manga/3/157248.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 3
 -   **chapters**: 5

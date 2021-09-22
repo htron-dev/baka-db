@@ -1,5 +1,7 @@
 # Yuusha no Deban Nee kara!!
 
+![yuusha-no-deban-nee-kara](https://cdn.myanimelist.net/images/manga/1/195138.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 勇者の出番ねぇからっ!!
 -   **start-date**: 2017-04-22

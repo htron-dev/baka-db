@@ -1,5 +1,7 @@
 # Yamiochi Knight ga Dungeon Hajimemashita!!
 
+![yamiochi-knight-ga-dungeon-hajimemashita](https://cdn.myanimelist.net/images/manga/2/161095.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 14

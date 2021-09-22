@@ -1,5 +1,7 @@
 # Yoake no Ryodan
 
+![yoake-no-ryodan](https://cdn.myanimelist.net/images/manga/2/216103.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 23

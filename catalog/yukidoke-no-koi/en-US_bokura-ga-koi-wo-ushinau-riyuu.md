@@ -1,5 +1,7 @@
 # Bokura ga Koi wo Ushinau Riyuu
 
+![bokura-ga-koi-wo-ushinau-riyuu](https://cdn.myanimelist.net/images/manga/1/197692.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

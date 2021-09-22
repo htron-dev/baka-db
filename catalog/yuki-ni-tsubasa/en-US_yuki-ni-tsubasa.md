@@ -1,5 +1,7 @@
 # Yuki ni Tsubasa
 
+![yuki-ni-tsubasa](https://cdn.myanimelist.net/images/manga/1/151003.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 68

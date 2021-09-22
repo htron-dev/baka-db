@@ -1,5 +1,7 @@
 # Yumemiru Kibun de
 
+![yumemiru-kibun-de](https://cdn.myanimelist.net/images/manga/3/10904.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 夢見る気分で

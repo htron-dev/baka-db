@@ -1,5 +1,7 @@
 # Yuugo Final
 
+![yuugo-final](https://cdn.myanimelist.net/images/manga/1/157036.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 23

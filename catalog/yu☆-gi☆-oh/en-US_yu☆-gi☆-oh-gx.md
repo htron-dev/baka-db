@@ -1,5 +1,7 @@
 # Yu☆Gi☆Oh! GX
 
+![yu☆-gi☆-oh-gx](https://cdn.myanimelist.net/images/manga/3/178240.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 64

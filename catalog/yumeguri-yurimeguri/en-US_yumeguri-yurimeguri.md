@@ -1,5 +1,7 @@
 # Yumeguri Yurimeguri
 
+![yumeguri-yurimeguri](https://cdn.myanimelist.net/images/manga/2/222215.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 50

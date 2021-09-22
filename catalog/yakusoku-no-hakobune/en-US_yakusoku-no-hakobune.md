@@ -1,5 +1,7 @@
 # Yakusoku no Hakobune
 
+![yakusoku-no-hakobune](https://cdn.myanimelist.net/images/manga/3/10870.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 約束の方舟

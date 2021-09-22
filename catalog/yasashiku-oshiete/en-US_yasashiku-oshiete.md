@@ -1,5 +1,7 @@
 # Yasashiku Oshiete
 
+![yasashiku-oshiete](https://cdn.myanimelist.net/images/manga/2/161571.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

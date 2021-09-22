@@ -1,5 +1,7 @@
 # Yu☆Gi☆Oh! Zexal Second: Midokoro Tenkomori Special
 
+![yu☆-gi☆-oh-zexal-second-midokoro-tenkomori-special](https://cdn.myanimelist.net/images/anime/9/44712.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 遊 ☆ 戯 ☆ 王 ZEXAL -ゼアル- II 第 81.5 話 「みどころてんこ盛りスペシャル」

@@ -1,5 +1,7 @@
 # Yuujin Character wa Taihen desu ka?
 
+![yuujin-character-wa-taihen-desu-ka](https://cdn.myanimelist.net/images/manga/2/187015.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 10
 -   **chapters**: 60

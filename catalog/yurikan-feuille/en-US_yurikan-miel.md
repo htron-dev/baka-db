@@ -1,5 +1,7 @@
 # Yurikan Miel
 
+![yurikan-miel](https://cdn.myanimelist.net/images/manga/2/137773.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

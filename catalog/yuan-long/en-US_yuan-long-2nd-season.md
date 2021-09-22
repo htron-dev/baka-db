@@ -1,5 +1,7 @@
 # Yuan Long 2nd Season
 
+![yuan-long-2nd-season](https://cdn.myanimelist.net/images/anime/1138/110307.jpg)
+
 -   **type**: ona
 -   **episodes**: 16
 -   **original-name**: 元龙 第二季

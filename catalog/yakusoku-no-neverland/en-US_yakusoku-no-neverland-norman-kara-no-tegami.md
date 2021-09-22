@@ -1,5 +1,7 @@
 # Yakusoku no Neverland: Norman kara no Tegami
 
+![yakusoku-no-neverland-norman-kara-no-tegami](https://cdn.myanimelist.net/images/manga/2/229482.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

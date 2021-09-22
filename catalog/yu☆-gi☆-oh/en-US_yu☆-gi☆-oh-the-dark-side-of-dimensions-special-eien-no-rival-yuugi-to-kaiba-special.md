@@ -1,5 +1,7 @@
 # Yu☆Gi☆Oh! The Dark Side of Dimensions Special: Eien no Rival - Yuugi to Kaiba!
 
+![yu☆-gi☆-oh-the-dark-side-of-dimensions-special-eien-no-rival-yuugi-to-kaiba](https://cdn.myanimelist.net/images/anime/11/81859.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 劇場版『遊 ☆ 戯 ☆ 王』公開直前 SP 永遠の好敵手(ライバル)　遊戯と海馬！

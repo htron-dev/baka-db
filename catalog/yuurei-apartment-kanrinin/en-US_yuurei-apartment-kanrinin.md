@@ -1,5 +1,7 @@
 # Yuurei Apartment Kanrinin
 
+![yuurei-apartment-kanrinin](https://cdn.myanimelist.net/images/manga/3/171202.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 30

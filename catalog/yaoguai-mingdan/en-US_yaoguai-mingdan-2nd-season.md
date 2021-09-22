@@ -1,5 +1,7 @@
 # Yaoguai Mingdan 2nd Season
 
+![yaoguai-mingdan-2nd-season](https://cdn.myanimelist.net/images/anime/1278/108493.jpg)
+
 -   **type**: ona
 -   **episodes**: 21
 -   **original-name**: 妖怪名单第 2 季

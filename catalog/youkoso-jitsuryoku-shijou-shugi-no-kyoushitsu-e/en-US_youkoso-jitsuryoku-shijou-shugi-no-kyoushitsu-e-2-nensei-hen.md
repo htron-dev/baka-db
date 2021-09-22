@@ -1,5 +1,7 @@
 # Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e: 2-nensei-hen
 
+![youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-2-nensei-hen](https://cdn.myanimelist.net/images/manga/3/235363.jpg)
+
 -   **type**: light-novel
 -   **original-name**: ようこそ実力至上主義の教室へ ２年生編
 -   **start-date**: 2020-01-24

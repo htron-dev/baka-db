@@ -1,5 +1,7 @@
 # Yoru to Umi
 
+![yoru-to-umi](https://cdn.myanimelist.net/images/manga/1/220664.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 19

@@ -1,5 +1,7 @@
 # Yuke!! Nangoku Ice Hockey Bu
 
+![yuke-nangoku-ice-hockey-bu](https://cdn.myanimelist.net/images/manga/3/154802.jpg)
+
 -   **type**: manga
 -   **volumes**: 23
 -   **original-name**: 行け!!南国アイスホッケー部

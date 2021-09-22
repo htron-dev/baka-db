@@ -1,5 +1,7 @@
 # Yamikin Ushijima-kun Gaiden: Ramen Namerikawa-san
 
+![yamikin-ushijima-kun-gaiden-ramen-namerikawa-san](https://cdn.myanimelist.net/images/manga/3/235139.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 36

@@ -1,5 +1,7 @@
 # Yuatari Shisou na Koi dakara
 
+![yuatari-shisou-na-koi-dakara](https://cdn.myanimelist.net/images/manga/2/87591.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 湯あたりしそうな恋だから

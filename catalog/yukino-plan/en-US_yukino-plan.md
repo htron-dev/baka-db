@@ -1,5 +1,7 @@
 # Yukino Plan
 
+![yukino-plan](https://cdn.myanimelist.net/images/manga/2/233960.jpg)
+
 -   **type**: manga
 -   **chapters**: 2
 -   **original-name**: ゆきのぷらん

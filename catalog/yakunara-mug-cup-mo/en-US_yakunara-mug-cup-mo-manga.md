@@ -1,5 +1,7 @@
 # Yakunara Mug Cup Mo
 
+![yakunara-mug-cup-mo](https://cdn.myanimelist.net/images/manga/1/247085.jpg)
+
 -   **type**: manga
 -   **original-name**: やくならマグカップも
 -   **start-date**: 2012-02-14

@@ -1,5 +1,7 @@
 # Yugawara-kun wa Ooyamada Danshi Koukou de Moteru Houhou wo Kangaeteita ga
 
+![yugawara-kun-wa-ooyamada-danshi-koukou-de-moteru-houhou-wo-kangaeteita-ga](https://cdn.myanimelist.net/images/manga/3/170930.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 48

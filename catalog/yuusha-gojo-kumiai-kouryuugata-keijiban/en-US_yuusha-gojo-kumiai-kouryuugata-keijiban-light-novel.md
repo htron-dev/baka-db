@@ -1,5 +1,7 @@
 # Yuusha Gojo Kumiai Kouryuugata Keijiban
 
+![yuusha-gojo-kumiai-kouryuugata-keijiban](https://cdn.myanimelist.net/images/manga/1/141479.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 勇者互助組合 交流型掲示板
 -   **start-date**: 2012-08-25

@@ -1,5 +1,7 @@
 # Versailles no Cinderella
 
+![versailles-no-cinderella](https://cdn.myanimelist.net/images/manga/1/150494.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 4

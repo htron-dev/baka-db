@@ -1,5 +1,7 @@
 # Yakunara Mug Cup mo
 
+![yakunara-mug-cup-mo](https://cdn.myanimelist.net/images/anime/1969/113673.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: やくならマグカップも

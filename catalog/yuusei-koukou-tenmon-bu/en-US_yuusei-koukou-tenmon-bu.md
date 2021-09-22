@@ -1,5 +1,7 @@
 # Yuusei Koukou Tenmon-bu
 
+![yuusei-koukou-tenmon-bu](https://cdn.myanimelist.net/images/anime/1333/113884.jpg)
+
 -   **type**: ona
 -   **episodes**: 20
 -   **original-name**: 遊星高校 天文部

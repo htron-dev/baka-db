@@ -1,5 +1,7 @@
 # Yume de Aetara (TV)
 
+![yume-de-aetara-tv](https://cdn.myanimelist.net/images/anime/8/25224.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 16
 -   **original-name**: 夢で逢えたら

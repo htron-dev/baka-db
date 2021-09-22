@@ -1,5 +1,7 @@
 # Yasashiku Ubatte
 
+![yasashiku-ubatte](https://cdn.myanimelist.net/images/manga/1/79343.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: やさしく奪って

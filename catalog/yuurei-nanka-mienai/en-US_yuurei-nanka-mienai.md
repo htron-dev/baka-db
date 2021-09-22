@@ -1,5 +1,7 @@
 # Yuurei nanka Mienai!
 
+![yuurei-nanka-mienai](https://cdn.myanimelist.net/images/manga/2/163477.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 7
 -   **chapters**: 52

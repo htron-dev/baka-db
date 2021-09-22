@@ -1,5 +1,7 @@
 # Yuukyuu no Andante: Kouya to Natsume no Monogatari
 
+![yuukyuu-no-andante-kouya-to-natsume-no-monogatari](https://cdn.myanimelist.net/images/manga/1/184495.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 7

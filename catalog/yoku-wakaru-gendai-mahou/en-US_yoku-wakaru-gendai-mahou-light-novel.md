@@ -1,5 +1,7 @@
 # Yoku Wakaru Gendai Mahou
 
+![yoku-wakaru-gendai-mahou](https://cdn.myanimelist.net/images/manga/2/134289.jpg)
+
 -   **type**: light-novel
 -   **original-name**: よくわかる現代魔法
 -   **start-date**: 2003-12-25

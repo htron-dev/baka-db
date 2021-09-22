@@ -1,5 +1,7 @@
 # Yankee Hamster
 
+![yankee-hamster](https://cdn.myanimelist.net/images/anime/1302/91296.jpg)
+
 -   **type**: ona
 -   **episodes**: 110
 -   **original-name**: ヤンキーハムスター

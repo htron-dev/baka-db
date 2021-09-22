@@ -1,5 +1,7 @@
 # Ys IV: The Dawn of Ys
 
+![ys-iv-the-dawn-of-ys](https://cdn.myanimelist.net/images/anime/1892/110827.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: イース IV 新作 OVA

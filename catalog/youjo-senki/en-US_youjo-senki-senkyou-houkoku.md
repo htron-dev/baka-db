@@ -1,5 +1,7 @@
 # Youjo Senki: Senkyou Houkoku
 
+![youjo-senki-senkyou-houkoku](https://cdn.myanimelist.net/images/anime/12/84328.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 幼女戦記 第 6.5 話「戦況報告」

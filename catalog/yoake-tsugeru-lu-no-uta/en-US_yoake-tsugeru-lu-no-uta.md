@@ -1,5 +1,7 @@
 # Yoake Tsugeru Lu no Uta
 
+![yoake-tsugeru-lu-no-uta](https://cdn.myanimelist.net/images/anime/5/84260.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 夜明け告げるルーのうた

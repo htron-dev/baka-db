@@ -1,5 +1,7 @@
 # Kinki Anthology: Feroce
 
+![kinki-anthology-feroce](https://cdn.myanimelist.net/images/manga/2/116721.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 19

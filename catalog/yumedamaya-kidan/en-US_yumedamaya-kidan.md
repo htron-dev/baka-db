@@ -1,5 +1,7 @@
 # Yumedamaya Kidan
 
+![yumedamaya-kidan](https://cdn.myanimelist.net/images/anime/7/89601.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ゆめだまや奇談

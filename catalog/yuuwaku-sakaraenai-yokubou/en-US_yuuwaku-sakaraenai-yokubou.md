@@ -1,5 +1,7 @@
 # Yuuwaku: Sakaraenai Yokubou
 
+![yuuwaku-sakaraenai-yokubou](https://cdn.myanimelist.net/images/manga/1/11754.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

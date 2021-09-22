@@ -1,5 +1,7 @@
 # Yuusha to Maou no Love Comedy
 
+![yuusha-to-maou-no-love-comedy](https://cdn.myanimelist.net/images/manga/3/223526.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 69

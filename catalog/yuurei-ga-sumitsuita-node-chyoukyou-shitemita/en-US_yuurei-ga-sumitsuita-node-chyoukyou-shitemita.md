@@ -1,5 +1,7 @@
 # Yuurei ga Sumitsuita node Chyoukyou shitemita.
 
+![yuurei-ga-sumitsuita-node-chyoukyou-shitemita](https://cdn.myanimelist.net/images/manga/3/177900.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 7

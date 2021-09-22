@@ -1,5 +1,7 @@
 # Yamahime Anti-Mnemonics
 
+![yamahime-anti-mnemonics](https://cdn.myanimelist.net/images/manga/1/197504.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 9

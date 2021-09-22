@@ -1,5 +1,7 @@
 # Yakuza-sama no Omocha
 
+![yakuza-sama-no-omocha](https://cdn.myanimelist.net/images/manga/3/220887.jpg)
+
 -   **type**: manga
 -   **original-name**: ヤクザ様のおもちゃ
 -   **start-date**: 2016-12-28

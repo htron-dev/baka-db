@@ -1,5 +1,7 @@
 # Yuukyuu no Gusha Asley no, Kenja no Susume: to, Pochi no Daibouken
 
+![yuukyuu-no-gusha-asley-no-kenja-no-susume-to-pochi-no-daibouken](https://cdn.myanimelist.net/images/manga/2/203027.jpg)
+
 -   **type**: manga
 -   **original-name**: 悠久の愚者アズリーの、賢者のすゝめ ―と、ポチの大冒険―
 -   **start-date**: 2017-04-27

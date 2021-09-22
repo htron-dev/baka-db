@@ -1,5 +1,7 @@
 # Yarichin☆Bitch-bu
 
+![yarichin☆-bitch-bu](https://cdn.myanimelist.net/images/manga/2/174737.jpg)
+
 -   **type**: manga
 -   **original-name**: ヤリチン ☆ ビッチ部
 -   **start-date**: 2012-06-10

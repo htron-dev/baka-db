@@ -1,5 +1,7 @@
 # Yakusoku no Ie
 
+![yakusoku-no-ie](https://cdn.myanimelist.net/images/manga/2/80043.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: 約束の家

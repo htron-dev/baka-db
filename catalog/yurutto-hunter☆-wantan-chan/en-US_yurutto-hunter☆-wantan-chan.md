@@ -1,5 +1,7 @@
 # Yurutto Hunter☆Wantan-chan
 
+![yurutto-hunter☆-wantan-chan](https://cdn.myanimelist.net/images/manga/2/217467.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

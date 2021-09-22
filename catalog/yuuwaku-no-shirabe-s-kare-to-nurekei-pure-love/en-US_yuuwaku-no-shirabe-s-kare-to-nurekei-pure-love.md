@@ -1,5 +1,7 @@
 # Yuuwaku no Shirabe: S Kare to Nurekei Pure Love
 
+![yuuwaku-no-shirabe-s-kare-to-nurekei-pure-love](https://cdn.myanimelist.net/images/manga/1/194142.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

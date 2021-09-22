@@ -1,5 +1,7 @@
 # Yeongsuui Bom
 
+![yeongsuui-bom](https://cdn.myanimelist.net/images/manga/3/172206.jpg)
+
 -   **type**: manhwa
 -   **volumes**: 2
 -   **chapters**: 26

@@ -1,5 +1,7 @@
 # Yowamushi Chinsengumi
 
+![yowamushi-chinsengumi](https://cdn.myanimelist.net/images/anime/8/64013.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 弱虫珍選組

@@ -1,5 +1,7 @@
 # Yatagarasu
 
+![yatagarasu](https://cdn.myanimelist.net/images/manga/1/169673.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **original-name**: ヤタガラス

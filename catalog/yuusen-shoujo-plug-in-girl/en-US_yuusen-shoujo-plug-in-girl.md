@@ -1,5 +1,7 @@
 # Yuusen Shoujo: Plug-in Girl
 
+![yuusen-shoujo-plug-in-girl](https://cdn.myanimelist.net/images/manga/2/128685.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 16

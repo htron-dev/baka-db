@@ -1,5 +1,7 @@
 # Yozakura Quartet
 
+![yozakura-quartet](https://cdn.myanimelist.net/images/manga/2/153963.jpg)
+
 -   **type**: manga
 -   **original-name**: 夜桜四重奏～ヨザクラカルテット～
 -   **start-date**: 2006-01-26

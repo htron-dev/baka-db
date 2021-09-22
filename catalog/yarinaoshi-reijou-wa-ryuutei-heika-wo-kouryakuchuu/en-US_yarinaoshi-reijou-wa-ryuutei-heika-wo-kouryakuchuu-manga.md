@@ -1,5 +1,7 @@
 # Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu
 
+![yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu](https://cdn.myanimelist.net/images/manga/2/236413.jpg)
+
 -   **type**: manga
 -   **original-name**: やり直し令嬢は竜帝陛下を攻略中
 -   **start-date**: 2020-07-27

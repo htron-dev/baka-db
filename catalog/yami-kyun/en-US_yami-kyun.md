@@ -1,5 +1,7 @@
 # Yami Kyun!
 
+![yami-kyun](https://cdn.myanimelist.net/images/manga/1/82380.jpg)
+
 -   **type**: manga
 -   **original-name**: やみキュン!
 -   **start-date**: 2011-11-08

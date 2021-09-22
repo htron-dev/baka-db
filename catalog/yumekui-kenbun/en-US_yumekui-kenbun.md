@@ -1,5 +1,7 @@
 # Yumekui Kenbun
 
+![yumekui-kenbun](https://cdn.myanimelist.net/images/manga/1/160940.jpg)
+
 -   **type**: manga
 -   **volumes**: 9
 -   **chapters**: 66

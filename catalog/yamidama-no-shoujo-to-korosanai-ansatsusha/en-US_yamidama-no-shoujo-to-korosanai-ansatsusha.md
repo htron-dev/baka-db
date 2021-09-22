@@ -1,5 +1,7 @@
 # Yamidama no Shoujo to Korosanai Ansatsusha
 
+![yamidama-no-shoujo-to-korosanai-ansatsusha](https://cdn.myanimelist.net/images/manga/2/185822.jpg)
+
 -   **type**: light-novel
 -   **original-name**: 闇弾の少女と殺さない暗殺者
 -   **start-date**: 2016-11-02

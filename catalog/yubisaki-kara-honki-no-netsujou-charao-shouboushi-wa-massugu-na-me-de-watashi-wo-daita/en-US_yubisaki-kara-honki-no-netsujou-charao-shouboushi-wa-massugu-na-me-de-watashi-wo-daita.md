@@ -1,5 +1,7 @@
 # Yubisaki kara Honki no Netsujou: Charao Shouboushi wa Massugu na Me de Watashi wo Daita
 
+![yubisaki-kara-honki-no-netsujou-charao-shouboushi-wa-massugu-na-me-de-watashi-wo-daita](https://cdn.myanimelist.net/images/manga/1/235613.jpg)
+
 -   **type**: manga
 -   **original-name**: 指先から本気の熱情～チャラ男消防士はまっすぐな目で私を抱いた～
 -   **start-date**: 2018-07-06

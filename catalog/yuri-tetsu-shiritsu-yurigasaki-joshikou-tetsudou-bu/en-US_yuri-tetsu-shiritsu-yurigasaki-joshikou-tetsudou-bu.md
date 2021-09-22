@@ -1,5 +1,7 @@
 # YuriTetsu: Shiritsu Yurigasaki Joshikou Tetsudou-bu
 
+![yuri-tetsu-shiritsu-yurigasaki-joshikou-tetsudou-bu](https://cdn.myanimelist.net/images/manga/1/177124.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 29

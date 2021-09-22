@@ -1,5 +1,7 @@
 # Yuke! Shouei-kun
 
+![yuke-shouei-kun](https://cdn.myanimelist.net/images/anime/7/45694.jpg)
+
 -   **type**: ona
 -   **episodes**: 6
 -   **original-name**: ゆけ！小英くん

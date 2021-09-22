@@ -1,5 +1,7 @@
 # Yae no Sakura
 
+![yae-no-sakura](https://cdn.myanimelist.net/images/manga/3/88159.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 12

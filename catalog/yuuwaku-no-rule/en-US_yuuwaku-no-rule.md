@@ -1,5 +1,7 @@
 # Yuuwaku no Rule
 
+![yuuwaku-no-rule](https://cdn.myanimelist.net/images/manga/1/63245.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

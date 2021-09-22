@@ -1,5 +1,7 @@
 # Yaotome no Kokoro no Naka no Ore ga Yabai Ken
 
+![yaotome-no-kokoro-no-naka-no-ore-ga-yabai-ken](https://cdn.myanimelist.net/images/manga/2/238658.jpg)
+
 -   **type**: manga
 -   **original-name**: 八乙女の心の中の俺がヤバイ件
 -   **start-date**: 2020-04-24

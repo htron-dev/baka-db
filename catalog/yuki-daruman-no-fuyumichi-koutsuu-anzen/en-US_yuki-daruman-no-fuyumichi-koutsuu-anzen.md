@@ -1,5 +1,7 @@
 # Yuki Daruman no Fuyumichi Koutsuu Anzen
 
+![yuki-daruman-no-fuyumichi-koutsuu-anzen](https://cdn.myanimelist.net/images/anime/11/84778.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: 雪ダルマンの冬道交通安全

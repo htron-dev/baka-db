@@ -1,5 +1,7 @@
 # Yarechau♥Salesman
 
+![yarechau♥-salesman](https://cdn.myanimelist.net/images/manga/3/161277.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 45

@@ -1,5 +1,7 @@
 # Youjo Senki Movie: Manner Eizou
 
+![youjo-senki-movie-manner-eizou](https://cdn.myanimelist.net/images/anime/1699/103299.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 劇場版 幼女戦記 マナー映像

@@ -1,5 +1,7 @@
 # Yuru Camp△
 
+![yuru-camp△](https://cdn.myanimelist.net/images/manga/1/168083.jpg)
+
 -   **type**: manga
 -   **original-name**: ゆるキャン △
 -   **start-date**: 2015-05-23

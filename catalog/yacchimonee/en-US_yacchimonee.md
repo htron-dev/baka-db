@@ -1,5 +1,7 @@
 # Yacchimonee
 
+![yacchimonee](https://cdn.myanimelist.net/images/manga/2/179457.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

@@ -1,5 +1,7 @@
 # Yuki no Tsubasa no Freesia
 
+![yuki-no-tsubasa-no-freesia](https://cdn.myanimelist.net/images/manga/1/164391.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 9

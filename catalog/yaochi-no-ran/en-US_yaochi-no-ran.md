@@ -1,5 +1,7 @@
 # Yaochi no Ran
 
+![yaochi-no-ran](https://cdn.myanimelist.net/images/manga/2/234679.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 27

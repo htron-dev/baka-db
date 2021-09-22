@@ -1,5 +1,7 @@
 # Yumemakura Baku Twilight Gekijou
 
+![yumemakura-baku-twilight-gekijou](https://cdn.myanimelist.net/images/anime/6/35855.jpg)
+
 -   **type**: ova
 -   **episodes**: 4
 -   **original-name**: 夢枕 獏 とわいらいと劇場

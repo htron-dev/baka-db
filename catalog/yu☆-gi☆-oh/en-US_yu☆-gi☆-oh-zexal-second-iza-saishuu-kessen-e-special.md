@@ -1,5 +1,7 @@
 # Yu☆Gi☆Oh! Zexal Second: Iza! Saishuu Kessen e!! Special
 
+![yu☆-gi☆-oh-zexal-second-iza-saishuu-kessen-e-special](https://cdn.myanimelist.net/images/anime/9/62897.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 遊 ☆ 戯 ☆ 王 ZEXALⅡ 特別編 いざ！最終決戦へ!!

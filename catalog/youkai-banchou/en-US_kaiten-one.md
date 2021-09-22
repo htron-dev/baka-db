@@ -1,5 +1,7 @@
 # Kaiten One
 
+![kaiten-one](https://cdn.myanimelist.net/images/manga/1/200941.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **chapters**: 35

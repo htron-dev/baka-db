@@ -1,5 +1,7 @@
 # Yamiabaki Kurau Miko
 
+![yamiabaki-kurau-miko](https://cdn.myanimelist.net/images/manga/1/174571.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

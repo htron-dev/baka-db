@@ -1,5 +1,7 @@
 # Yami no Matsuei
 
+![yami-no-matsuei](https://cdn.myanimelist.net/images/anime/1414/109717.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 13
 -   **original-name**: 闇の末裔

@@ -1,5 +1,7 @@
 # Yamikin♥Ushijima-kyun
 
+![yamikin♥-ushijima-kyun](https://cdn.myanimelist.net/images/manga/3/235112.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 56

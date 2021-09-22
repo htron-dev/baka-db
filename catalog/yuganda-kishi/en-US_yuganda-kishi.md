@@ -1,5 +1,7 @@
 # Yuganda Kishi
 
+![yuganda-kishi](https://cdn.myanimelist.net/images/manga/3/47951.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

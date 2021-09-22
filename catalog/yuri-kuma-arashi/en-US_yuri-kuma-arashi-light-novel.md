@@ -1,5 +1,7 @@
 # Yuri Kuma Arashi
 
+![yuri-kuma-arashi](https://cdn.myanimelist.net/images/manga/3/150094.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **original-name**: ユリ熊嵐

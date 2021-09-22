@@ -1,5 +1,7 @@
 # Yannacchau kurai Aishiteru
 
+![yannacchau-kurai-aishiteru](https://cdn.myanimelist.net/images/manga/2/5887.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

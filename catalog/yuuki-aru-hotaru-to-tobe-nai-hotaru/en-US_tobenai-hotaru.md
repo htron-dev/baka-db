@@ -1,5 +1,7 @@
 # Tobenai Hotaru
 
+![tobenai-hotaru](https://cdn.myanimelist.net/images/anime/1115/110901.jpg)
+
 -   **type**: ova
 -   **episodes**: 1
 -   **original-name**: とべないホタル

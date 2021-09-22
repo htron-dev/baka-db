@@ -1,5 +1,7 @@
 # Yume Musubi, Koi Musubi
 
+![yume-musubi-koi-musubi](https://cdn.myanimelist.net/images/manga/2/24303.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 22

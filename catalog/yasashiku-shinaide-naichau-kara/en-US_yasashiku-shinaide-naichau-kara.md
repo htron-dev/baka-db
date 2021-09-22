@@ -1,5 +1,7 @@
 # Yasashiku Shinaide, Naichau kara
 
+![yasashiku-shinaide-naichau-kara](https://cdn.myanimelist.net/images/manga/2/78293.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

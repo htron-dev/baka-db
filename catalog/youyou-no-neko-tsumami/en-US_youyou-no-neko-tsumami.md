@@ -1,5 +1,7 @@
 # Youyou no Neko Tsumami
 
+![youyou-no-neko-tsumami](https://cdn.myanimelist.net/images/anime/7/35857.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 130
 -   **original-name**: ヨーヨーの猫つまみ

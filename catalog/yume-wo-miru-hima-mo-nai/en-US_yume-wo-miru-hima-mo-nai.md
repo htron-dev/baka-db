@@ -1,5 +1,7 @@
 # Yume wo Miru Hima mo Nai
 
+![yume-wo-miru-hima-mo-nai](https://cdn.myanimelist.net/images/manga/5/12068.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 8

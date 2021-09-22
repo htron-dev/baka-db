@@ -1,5 +1,7 @@
 # Yu-yuru Shikkoubu
 
+![yu-yuru-shikkoubu](https://cdn.myanimelist.net/images/manga/1/25145.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **original-name**: ゆーゆる執行部

@@ -1,5 +1,7 @@
 # Yoru wo Utau Kodomotachi
 
+![yoru-wo-utau-kodomotachi](https://cdn.myanimelist.net/images/manga/2/17413.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

@@ -1,5 +1,7 @@
 # Yoru no Yomeiri
 
+![yoru-no-yomeiri](https://cdn.myanimelist.net/images/manga/1/226094.jpg)
+
 -   **type**: manga
 -   **original-name**: 宵〈よる〉の嫁入り
 -   **start-date**: 2018-07-24

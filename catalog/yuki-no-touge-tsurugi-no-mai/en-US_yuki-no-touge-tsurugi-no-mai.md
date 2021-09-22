@@ -1,5 +1,7 @@
 # Yuki no Touge, Tsurugi no Mai
 
+![yuki-no-touge-tsurugi-no-mai](https://cdn.myanimelist.net/images/manga/1/32634.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9

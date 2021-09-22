@@ -1,5 +1,7 @@
 # Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV)
 
+![youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv](https://cdn.myanimelist.net/images/anime/5/86830.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: ようこそ実力至上主義の教室へ

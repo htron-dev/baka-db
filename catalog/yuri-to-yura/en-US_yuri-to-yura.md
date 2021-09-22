@@ -1,5 +1,7 @@
 # Yuri to Yura
 
+![yuri-to-yura](https://cdn.myanimelist.net/images/manga/3/116279.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

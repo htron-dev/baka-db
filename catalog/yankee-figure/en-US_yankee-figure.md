@@ -1,5 +1,7 @@
 # Yankee Figure
 
+![yankee-figure](https://cdn.myanimelist.net/images/manga/3/27694.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 55

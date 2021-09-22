@@ -1,5 +1,7 @@
 # Youfu wo Enjite
 
+![youfu-wo-enjite](https://cdn.myanimelist.net/images/manga/1/39879.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 1

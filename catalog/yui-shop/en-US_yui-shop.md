@@ -1,5 +1,7 @@
 # Yui Shop
 
+![yui-shop](https://cdn.myanimelist.net/images/manga/1/135935.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: YUI SHOP

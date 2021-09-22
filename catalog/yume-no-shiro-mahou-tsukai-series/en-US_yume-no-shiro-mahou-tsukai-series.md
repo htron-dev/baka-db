@@ -1,5 +1,7 @@
 # Yume no Shiro: Mahou Tsukai Series
 
+![yume-no-shiro-mahou-tsukai-series](https://cdn.myanimelist.net/images/manga/2/4660.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

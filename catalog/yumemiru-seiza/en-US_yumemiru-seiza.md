@@ -1,5 +1,7 @@
 # Yumemiru Seiza
 
+![yumemiru-seiza](https://cdn.myanimelist.net/images/manga/1/12954.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

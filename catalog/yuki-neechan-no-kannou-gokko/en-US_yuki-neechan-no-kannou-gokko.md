@@ -1,5 +1,7 @@
 # Yuki-neechan no Kannou-gokko.
 
+![yuki-neechan-no-kannou-gokko](https://cdn.myanimelist.net/images/manga/3/219419.jpg)
+
 -   **type**: manga
 -   **original-name**: ゆき姉ちゃんの官能ごっこ。
 -   **start-date**: 2018-09-25

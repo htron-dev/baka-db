@@ -1,5 +1,7 @@
 # Youkai Banchou
 
+![youkai-banchou](https://cdn.myanimelist.net/images/manga/1/187879.jpg)
+
 -   **type**: manga
 -   **volumes**: 7
 -   **chapters**: 57

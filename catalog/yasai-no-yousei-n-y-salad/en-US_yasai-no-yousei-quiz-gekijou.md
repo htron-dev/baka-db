@@ -1,5 +1,7 @@
 # Yasai no Yousei: Quiz Gekijou
 
+![yasai-no-yousei-quiz-gekijou](https://cdn.myanimelist.net/images/anime/6/50207.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: やさいのようせい クイズげきじょう

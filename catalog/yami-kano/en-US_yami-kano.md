@@ -1,5 +1,7 @@
 # Yami Kano
 
+![yami-kano](https://cdn.myanimelist.net/images/manga/2/202234.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

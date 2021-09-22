@@ -1,5 +1,7 @@
 # Yume
 
+![yume](https://cdn.myanimelist.net/images/anime/4/71818.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: Yume

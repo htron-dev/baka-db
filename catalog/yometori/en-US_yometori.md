@@ -1,5 +1,7 @@
 # Yometori!
 
+![yometori](https://cdn.myanimelist.net/images/manga/3/157431.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 18

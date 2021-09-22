@@ -1,5 +1,7 @@
 # Yatoware Fiancée no Mitsumei: Shishaku no Amai Yuuwaku
 
+![yatoware-fiancee-no-mitsumei-shishaku-no-amai-yuuwaku](https://cdn.myanimelist.net/images/manga/1/192715.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 5

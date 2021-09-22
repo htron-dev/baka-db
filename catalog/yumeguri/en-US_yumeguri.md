@@ -1,5 +1,7 @@
 # Yumeguri!
 
+![yumeguri](https://cdn.myanimelist.net/images/manga/2/242502.jpg)
+
 -   **type**: manga
 -   **original-name**: ゆめぐりっ!
 -   **start-date**: 2020-05-22

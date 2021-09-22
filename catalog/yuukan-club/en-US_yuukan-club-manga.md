@@ -1,5 +1,7 @@
 # Yuukan Club
 
+![yuukan-club](https://cdn.myanimelist.net/images/manga/3/176258.jpg)
+
 -   **type**: manga
 -   **original-name**: 有閑倶楽部
 

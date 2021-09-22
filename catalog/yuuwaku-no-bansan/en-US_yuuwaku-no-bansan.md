@@ -1,5 +1,7 @@
 # Yuuwaku no Bansan
 
+![yuuwaku-no-bansan](https://cdn.myanimelist.net/images/manga/1/230206.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 3

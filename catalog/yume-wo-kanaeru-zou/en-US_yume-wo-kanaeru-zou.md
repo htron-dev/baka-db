@@ -1,5 +1,7 @@
 # Yume wo Kanaeru Zou
 
+![yume-wo-kanaeru-zou](https://cdn.myanimelist.net/images/anime/10/12867.jpg)
+
 -   **type**: tv-serie
 -   **episodes**: 12
 -   **original-name**: 夢をかなえるゾウ

@@ -1,5 +1,7 @@
 # Yoroiden Samurai Troopers
 
+![yoroiden-samurai-troopers](https://cdn.myanimelist.net/images/manga/2/42449.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 10

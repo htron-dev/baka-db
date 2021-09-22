@@ -1,5 +1,7 @@
 # Yasei no Oukoku
 
+![yasei-no-oukoku](https://cdn.myanimelist.net/images/manga/3/21329.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 9

@@ -1,5 +1,7 @@
 # Youko Wedding!
 
+![youko-wedding](https://cdn.myanimelist.net/images/manga/1/214898.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 5

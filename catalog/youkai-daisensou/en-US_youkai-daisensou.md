@@ -1,5 +1,7 @@
 # Youkai Daisensou
 
+![youkai-daisensou](https://cdn.myanimelist.net/images/manga/1/36390.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 妖怪大戦争

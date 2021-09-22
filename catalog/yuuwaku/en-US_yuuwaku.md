@@ -1,5 +1,7 @@
 # Yuuwaku
 
+![yuuwaku](https://cdn.myanimelist.net/images/manga/1/149336.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 10

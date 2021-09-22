@@ -1,5 +1,7 @@
 # Yahari Ore no Seishun Love Comedy wa Machigatteiru. Shin
 
+![yahari-ore-no-seishun-love-comedy-wa-machigatteiru-shin](https://cdn.myanimelist.net/images/manga/3/234783.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 6
 -   **chapters**: 6

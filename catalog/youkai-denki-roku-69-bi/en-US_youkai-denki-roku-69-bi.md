@@ -1,5 +1,7 @@
 # Youkai Denki Roku69Bi
 
+![youkai-denki-roku-69-bi](https://cdn.myanimelist.net/images/manga/2/167816.jpg)
+
 -   **type**: manga
 -   **volumes**: 2
 -   **chapters**: 17

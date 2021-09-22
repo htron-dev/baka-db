@@ -1,5 +1,7 @@
 # Jinsei Reset Button
 
+![jinsei-reset-button](https://cdn.myanimelist.net/images/manga/2/138373.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 6

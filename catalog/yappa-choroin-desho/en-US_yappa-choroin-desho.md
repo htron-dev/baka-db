@@ -1,5 +1,7 @@
 # Yappa Choroin Desho!
 
+![yappa-choroin-desho](https://cdn.myanimelist.net/images/manga/2/177944.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 2
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Yousei no Hanayome: Mukunaru Aiyoku
 
+![yousei-no-hanayome-mukunaru-aiyoku](https://cdn.myanimelist.net/images/manga/1/167008.jpg)
+
 -   **type**: light-novel
 -   **volumes**: 1
 -   **chapters**: 2

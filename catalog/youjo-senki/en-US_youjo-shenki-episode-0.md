@@ -1,5 +1,7 @@
 # Youjo Shenki Episode 0
 
+![youjo-shenki-episode-0](https://cdn.myanimelist.net/images/anime/4/83711.jpg)
+
 -   **type**: ona
 -   **episodes**: 1
 -   **original-name**: ようじょしぇんき

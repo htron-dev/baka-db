@@ -1,5 +1,7 @@
 # Yami no Teio: Kyuuketsuki Dracula
 
+![yami-no-teio-kyuuketsuki-dracula](https://cdn.myanimelist.net/images/anime/9/6763.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: 闇の帝王　吸血鬼ドラキュラ

@@ -1,5 +1,7 @@
 # Yamiyo no Jidaigeki (OVA)
 
+![yamiyo-no-jidaigeki-ova](https://cdn.myanimelist.net/images/anime/10/61539.jpg)
+
 -   **type**: ova
 -   **episodes**: 2
 -   **original-name**: 闇夜の時代劇

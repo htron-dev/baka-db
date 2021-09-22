@@ -1,5 +1,7 @@
 # Young &amp; Fine
 
+![young-amp-fine](https://cdn.myanimelist.net/images/manga/1/36770.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **start-date**: 1991-10-19

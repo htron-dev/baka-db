@@ -1,5 +1,7 @@
 # Hieda no Monogatari: Mashougatake - Youkai Hunter
 
+![hieda-no-monogatari-mashougatake-youkai-hunter](https://cdn.myanimelist.net/images/manga/1/83627.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **original-name**: 稗田のモノ語り 魔障ヶ岳 －妖怪ハンター

@@ -1,5 +1,7 @@
 # Yagate Maken no Alicebell
 
+![yagate-maken-no-alicebell](https://cdn.myanimelist.net/images/manga/2/168025.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 18

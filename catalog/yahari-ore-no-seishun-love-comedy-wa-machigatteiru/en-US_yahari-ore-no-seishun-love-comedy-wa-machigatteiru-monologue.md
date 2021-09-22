@@ -1,5 +1,7 @@
 # Yahari Ore no Seishun Love Comedy wa Machigatteiru.: Monologue
 
+![yahari-ore-no-seishun-love-comedy-wa-machigatteiru-monologue](https://cdn.myanimelist.net/images/manga/3/188845.jpg)
+
 -   **type**: manga
 -   **original-name**: やはり俺の青春ラブコメはまちがっている。 -妄言録〈モノローグ〉-
 -   **start-date**: 2012-09-25

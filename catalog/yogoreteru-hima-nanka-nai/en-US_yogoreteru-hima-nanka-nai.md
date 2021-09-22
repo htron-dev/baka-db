@@ -1,5 +1,7 @@
 # Yogoreteru Hima nanka Nai
 
+![yogoreteru-hima-nanka-nai](https://cdn.myanimelist.net/images/manga/2/37265.jpg)
+
 -   **type**: manga
 -   **volumes**: 3
 -   **chapters**: 15

@@ -1,5 +1,7 @@
 # Yans! Gans! Meat or Die Episode 0
 
+![yans-gans-meat-or-die-episode-0](https://cdn.myanimelist.net/images/anime/7/81634.jpg)
+
 -   **type**: special
 -   **episodes**: 1
 -   **original-name**: ヤンス！ガンス！00 MEAT OR DIE

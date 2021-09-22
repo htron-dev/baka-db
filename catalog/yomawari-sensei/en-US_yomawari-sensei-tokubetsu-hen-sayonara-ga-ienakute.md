@@ -1,5 +1,7 @@
 # Yomawari Sensei Tokubetsu-hen: Sayonara ga Ienakute
 
+![yomawari-sensei-tokubetsu-hen-sayonara-ga-ienakute](https://cdn.myanimelist.net/images/manga/1/185387.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

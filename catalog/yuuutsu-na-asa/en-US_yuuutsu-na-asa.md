@@ -1,5 +1,7 @@
 # Yuuutsu na Asa
 
+![yuuutsu-na-asa](https://cdn.myanimelist.net/images/manga/2/23401.jpg)
+
 -   **type**: manga
 -   **volumes**: 8
 -   **chapters**: 46

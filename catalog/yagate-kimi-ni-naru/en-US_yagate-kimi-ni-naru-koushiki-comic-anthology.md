@@ -1,5 +1,7 @@
 # Yagate Kimi ni Naru: Koushiki Comic Anthology
 
+![yagate-kimi-ni-naru-koushiki-comic-anthology](https://cdn.myanimelist.net/images/manga/2/222782.jpg)
+
 -   **type**: manga
 -   **original-name**: やがて君になる 公式コミックアンソロジー
 -   **start-date**: 2018-12-25

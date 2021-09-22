@@ -1,5 +1,7 @@
 # Yuru Camp△ Movie
 
+![yuru-camp△-movie](https://cdn.myanimelist.net/images/anime/1629/113922.jpg)
+
 -   **type**: movie
 -   **episodes**: 1
 -   **original-name**: 映画 ゆるキャン △

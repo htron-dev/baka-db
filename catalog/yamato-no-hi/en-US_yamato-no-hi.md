@@ -1,5 +1,7 @@
 # Yamato no Hi
 
+![yamato-no-hi](https://cdn.myanimelist.net/images/manga/2/229539.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 14

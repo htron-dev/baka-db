@@ -1,5 +1,7 @@
 # Yuki no Taiyou
 
+![yuki-no-taiyou](https://cdn.myanimelist.net/images/manga/2/122785.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **original-name**: ユキの太陽

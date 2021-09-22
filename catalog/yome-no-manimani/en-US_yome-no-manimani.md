@@ -1,5 +1,7 @@
 # Yome no Manimani
 
+![yome-no-manimani](https://cdn.myanimelist.net/images/manga/3/227615.jpg)
+
 -   **type**: manga
 -   **volumes**: 4
 -   **chapters**: 34

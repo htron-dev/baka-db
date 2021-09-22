@@ -1,5 +1,7 @@
 # Yakitate!! Japan
 
+![yakitate-japan](https://cdn.myanimelist.net/images/manga/4/28467.jpg)
+
 -   **type**: manga
 -   **volumes**: 26
 -   **chapters**: 242

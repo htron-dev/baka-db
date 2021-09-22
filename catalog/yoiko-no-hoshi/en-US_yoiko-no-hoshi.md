@@ -1,5 +1,7 @@
 # Yoiko no Hoshi!
 
+![yoiko-no-hoshi](https://cdn.myanimelist.net/images/manga/1/144439.jpg)
+
 -   **type**: manga
 -   **volumes**: 6
 -   **chapters**: 67

@@ -1,5 +1,7 @@
 # Youseiou
 
+![youseiou](https://cdn.myanimelist.net/images/manga/3/25589.jpg)
+
 -   **type**: manga
 -   **volumes**: 5
 -   **original-name**: 妖精王

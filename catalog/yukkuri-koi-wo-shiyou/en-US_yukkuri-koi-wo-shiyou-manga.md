@@ -1,5 +1,7 @@
 # Yukkuri Koi wo Shiyou
 
+![yukkuri-koi-wo-shiyou](https://cdn.myanimelist.net/images/manga/2/18360.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 6

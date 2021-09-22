@@ -1,5 +1,7 @@
 # Yokan EX Noise
 
+![yokan-ex-noise](https://cdn.myanimelist.net/images/manga/1/18665.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 5

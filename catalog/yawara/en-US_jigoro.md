@@ -1,5 +1,7 @@
 # Jigoro!
 
+![jigoro](https://cdn.myanimelist.net/images/manga/1/32835.jpg)
+
 -   **type**: manga
 -   **volumes**: 1
 -   **chapters**: 9
