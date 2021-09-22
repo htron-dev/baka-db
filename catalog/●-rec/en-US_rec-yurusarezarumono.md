@@ -29,4 +29,4 @@ After Fumihiko escorts a drunk Tanaka home, he ends up tending to her the entire
 
 -   [My Anime list](https://myanimelist.net/anime/1847/Rec__Yurusarezarumono)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3656)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Rec_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Rec_%28manga%29)

@@ -21,4 +21,4 @@ Three Tales was one of the first domestic anime ever televised. It comprised of 
 -   [My Anime list](https://myanimelist.net/anime/8774/3-tsu_no_Hanashi)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=5486)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3273)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Three_Tales_(anime)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Three_Tales_%28anime%29)

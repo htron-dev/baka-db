@@ -32,4 +32,4 @@ In the aftermath of that fateful night, their personal and professional lives be
 -   [Official Site](http://www.tbs.co.jp/rec-aka/)
 -   [AnimeDB](http://anidb.info/perl-bin/animedb.pl?show=anime&aid=3656)
 -   [AnimeNewsNetwork](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6008)
--   [Wikipedia](<http://en.wikipedia.org/wiki/Rec_(manga)>)
+-   [Wikipedia](http://en.wikipedia.org/wiki/Rec_%28manga%29)
